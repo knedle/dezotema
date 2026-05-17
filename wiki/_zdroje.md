@@ -1038,3 +1038,12 @@
 - **Délka:** 2:32:55
 - **Poznámka:** Pravidelné nedělní vysílání. Klíčová témata: Vrabel vyhrál případ u Ústavního soudu (svoboda slova); RT.com a Sputnik blokovány českými internet. providerem; Vrabel čelí rozsudku 25. 5. (podmínka); Matthias Desmet — teorie Mass Formation (totalita vzniká z osamělosti + prázdného zaměstnání + volné úzkosti; 20 % společnosti pohání totalitarismus; jedinou obranou je upřímně mluvit pravdu); COVID rouška chirurgická, lockdowny kontraproduktivní; Babiš setkal se Zelenským 3. 5.; Filip Turek kritika: zmenšil jen větrné zóny, měl je zrušit; Macinka kritika — „americká servility"; ČR na zlomovém bodě s EU (nyní break-even, dříve čistý příjemce); Schengen ≠ členství EU; depopulační agenda/chemtraily/cashless society/Agenda 2030; Okamura v Srbsku — znechucení; Konečná: politicky rozumná ale osobně nedůvěryhodná (dvakrát ho zradila ve volbách); Zelenský si zaslouží trest smrti (demokraticky přes zákon); Vrabel prodává pozemky v Srbsku (1 ha za 2 250–2 300 EUR); česká „opozice" = síť Klaus/ODS.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Navigační video: wellness akce Jizerské hory (4. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-04_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/977885877959497>
+- **Datum záznamu:** 2026-05-04
+- **Délka:** 0:05:24
+- **Poznámka:** Navigační a pozvánkové video k akci se Soňou Pekovou a Dr. Henslem v Wellness Resortu UCO v Jizerských horách (Bezřichov). Yoga sál, otužovací zázemí. Žádný politický ani faktický obsah.
+- **Zpracováno:** ano
