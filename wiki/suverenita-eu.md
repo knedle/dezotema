@@ -626,3 +626,29 @@ Rajchl v FB live (3. 5. 2026) sestavil systematický seznam Pavlových kroků, k
 Rajchl shrnuje: Pavel systematicky pracuje na zániku suverenity ČR — od finančního systému (euro) přes rozhodovací pravomoci (veto) až po státnost (USE). Proto Rajchl oznámil, že nepůjde na summit NATO v Ankaře (na pozvání Babiše) — Pavel by tam přítomností podkopával diplomatické postavení Babiše a Macinky.
 
 **Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+
+---
+
+### ČR na zlomovém bodě s EU: break-even, Schengen ≠ EU — Vrabel (3. 5. 2026)
+
+Vrabel v nedělním vysílání (3. 5. 2026) tvrdí, že Česká republika se dostala na takzvaný break-even bod s EU — přestala být čistým příjemcem a nyní platí do EU přibližně tolik, kolik z ní dostává. Dříve byl vstup do EU pro ČR ekonomicky výhodný (čerpání fondů > odvody); nyní je bilance vyrovnaná nebo záporná. Vrabel z toho vyvozuje, že argument „bez EU by ČR přišla o dotace" již neplatí v plné síle.
+
+Vrabel zdůrazňuje klíčový bod: **Schengen a členství v EU jsou dvě oddělené věci.** Norsko, Island nebo Švýcarsko jsou v Schengenu bez členství v EU — ČR by mohla zachovat volný pohyb osob a zboží i po případném odchodu z EU. Vstup do EU a Schengen jsou dvě oddělené mezinárodní smlouvy.
+
+**Zdroje:** [Vrabel — Nedělní vysílání: svoboda slova, Mass Formation, EU, 3. 5. 2026](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)
+
+---
+
+### Zelenský si zaslouží trest smrti — Vrabel (3. 5. 2026)
+
+Vrabel v nedělním vysílání (3. 5. 2026) vyslovil názor, že Volodymyr Zelenský si zaslouží trest smrti — avšak výhradně demokratickou cestou, tedy zákonným soudem. Vrabel vysvětluje: Zelenský byl zvolen s mandátem ukončit válku na Donbasu, ale místo toho válku eskaloval a způsobil statisíce mrtvých. Z mandátu, který dostal, vyvodil pravý opak — Vrabel to označuje za zradu voličů v té nejtěžší kategorii.
+
+**Zdroje:** [Vrabel — Nedělní vysílání: svoboda slova, Mass Formation, EU, 3. 5. 2026](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)
+
+---
+
+### Macinka: „americká servility" — Vrabel (3. 5. 2026)
+
+Vrabel kritizuje ministra obrany Jana Macinku za bezpodmínečné přijímání amerických bezpečnostních požadavků a udržování ČR na trajektorii, která by ji mohla vtáhnout do přímého konfliktu s Ruskem. Macinka podepsal bez veřejné debaty přistoupení ČR k různým vojenským závazkům (bunker koalice, F-35 zálohy) a pokračuje v kurzu, který ČR z pohledu Ruska staví do role spolupachatele.
+
+**Zdroje:** [Vrabel — Nedělní vysílání: svoboda slova, Mass Formation, EU, 3. 5. 2026](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)

@@ -204,6 +204,18 @@ Boldy zastává teorii, že elity záměrně vkládají své plány do filmů a 
 
 ---
 
+## Blokace zahraničních médií v ČR
+
+### RT.com a Sputnik blokovány českými poskytovateli internetu — Vrabel (3. 5. 2026)
+
+Vrabel v nedělním vysílání (3. 5. 2026) upozornil, že ruská média RT.com a Sputnik jsou v České republice blokovány přímo na úrovni internetových providerů. Vrabel to komentuje v kontextu Světového dne svobody tisku (3. 5.): státy EU, které se zaštiťují svobodou tisku, zároveň blokovaly přístup k ruským mediím nikoliv soudním rozhodnutím, ale administrativním příkazem. Vrabel to označuje za pokrytectví.
+
+Vrabel zároveň informoval, že v souběžné vlastní právní kauze vyhrál případ u Ústavního soudu v otázce svobody slova. Blíží se mu ale jiný rozsudek — 25. 5. 2026 — v samostatné věci, kde mu hrozí podmíněný trest.
+
+**Zdroje:** [Vrabel — Nedělní vysílání: svoboda slova, Mass Formation, EU, 3. 5. 2026](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)
+
+---
+
 ## Nová alternativní média
 
 ### Vlny.cz — nový investigativní web (Rajchl, 3. 5. 2026)
