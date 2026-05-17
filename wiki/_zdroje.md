@@ -1083,3 +1083,21 @@
 - **Délka:** 0:52:39
 - **Poznámka:** Večerní zprávy s komentářem. Klíčová témata: Sudetoněmecký sjezd — debata v PS, Vrabel pochybuje o odhodlání koalice zakázat; Zelenský vyhlásil „ticho" od půlnoci 5/6. 5.; Írán/Hormuz: USA+Izrael plánují obnovení úderů, 2000 tankerů uvězněno, 20 000 námořníků; Írán rozdělena na 31 vojenských sekcí — těžko porazitelná; Goldman Sachs: zásoby ropy na 8letém minimu (101 dní), produkty 45 dní; EU dodatečné energetické náklady 30 mld. EUR od konfliktu (500M EUR/den); SNP Global: obnova může trvat 7 měsíců+; potravinová krize 10-20 % světové potravy v ohrožení kvůli 30 % blokaci hnojiv; Rumunsko: vláda padla (281 hlasů), Vrabel interpretuje jako výměna pro proNATO vládu; EU dronový svaz s Ukrajinou (do 25. 5.); Ukrajinskí uprchlíci v ČR: přišli 2022, budou žádat o občanství do 5-7 let; Trump = mesijáš globalistů podle predikcí 2020-2021.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Větrné elektrárny: moratorium Francie, SPD boj v ČR (6. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-06_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1476314134193505>
+- **Datum záznamu:** 2026-05-06
+- **Délka:** 0:02:22 | Zhlédnutí: 11 240
+- **Poznámka:** Rajchl o moratoriu na větrné elektrárny: Francie přijala moratorium v parlamentu (2025) — studie prokázala 80 000 ztracených pracovních míst; soud v Montpellier nařídil demolici větrného parku (přes 1 000 vzácných ptáků, zlatý orel); USA také bojují s větrnými turbínami; Rajchl + SPD pořádají veřejné slyšení 15. 5. v Radiopaláci (Vinohradská, Praha).
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Média: Zuzana Černá, ODS Hedia, dvojí metr (6. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-06_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1010024624687355>
+- **Datum záznamu:** 2026-05-06
+- **Délka:** 0:04:22 | Zhlédnutí: 34 998
+- **Poznámka:** Reakce na článek Seznam Zprávy, který Rajchla obvinil z „kreslení terčů na záda ženám novinářkám." Rajchl uvádí tři fakty o Zuzaně Černé: (1) nahlásila Tomáše Elnera policii; (2) napsala, že Rajchl bojoval proti „národní očkovací strategii", přitom šlo o pandemickou smlouvu WHO — „nerozumí ani psanému textu"; (3) nikdy nenapsala o hrozbě Jakuba Hedia (ODS): „ví, kde bydlím a teď stačí škrtnout zápalkou" — ODS nikdy neodsoudila. Adéla Urbanová vedla sledující: „Budeš viset ty zmrdě, my si tě najdeme." Natálie Vachatová označena za „ruskou kolaborantku" jen kvůli bratrovi v Rusku — Rajchl: „bolševické manýry."
+- **Zpracováno:** ano

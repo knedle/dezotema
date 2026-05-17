@@ -207,3 +207,18 @@ Vrabel odhaduje s „99% pravděpodobností", že v nadcházejících měsícíc
 Vrabel předpovídá, že hladomor zejména v Africe a jihovýchodní Asii povede k masové migraci do Evropy — v kombinaci s probíhající válkou a případným nedostatkem vody (útoky na odsolovací zařízení) vytvoří souběh krizí.
 
 **Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+## Větrná energie
+
+### Francie: moratorium na větrné elektrárny, Montpellier soud — Rajchl (6. 5. 2026)
+
+Rajchl ve videu 6. 5. 2026 upozorňuje na celosvětový obrat vůči větrné energetice:
+
+- **Francie** přijala v parlamentu (2025) moratorium na výstavbu nových větrných elektráren. Ekonomická studie prokázala dopad: **80 000 ztracených pracovních míst** v důsledku dosavadní politiky
+- **Soud v Montpellier** nařídil demolici celého větrného parku — turbíny zabily přes **1 000 vzácných ptáků**, včetně zlatého orla; ochrana přírody zvítězila nad „zelenou" energetikou i soudní cestou
+- **USA** vedou boje o větrné turbíny — Rajchl mluví o globálním trendu odporu vůči větrné energii
+- **ČR:** Rajchl + SPD pořádají veřejné slyšení **15. 5. 2026 v Radiopaláci** (Vinohradská, Praha), kde mohou místní komunity prezentovat dopady větrného byznysu
+
+**Zdroje:** [Rajchl — Větrné elektrárny: moratorium Francie, SPD boj v ČR, 6. 5. 2026](_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)

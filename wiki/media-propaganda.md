@@ -128,6 +128,23 @@ Jiří Černohorský upozorňuje na případ, kdy pracovníci Hradu (podle jeho 
 
 ---
 
+### Rajchl vs. Zuzana Černá a ODS Hedia: dvojí metr (6. 5. 2026)
+
+Rajchl reaguje na článek Seznam Zprávy, který ho obvinil z „kreslení terčů na záda ženám novinářkám" poté, co kritizoval práci novinářky Zuzany Černé. Uvádí tři konkrétní fakta o Černé:
+1. Nahlásila moderátora Tomáše Elnera policii
+2. Napsala, že Rajchl bojoval proti „národní očkovací strategii" — přitom video bylo o pandemické smlouvě WHO: „Ona asi nerozumí ani psanému textu"
+3. Nikdy nenapsala ani slovo o pohrůžce žhářstvím od člena ODS Jakuba Hedia: „ví, kde bydlím a teď stačí škrtnout zápalkou"
+
+ODS Hediův výrok nikdy neodsoudila, ale prostřednictvím mediálních partnerů moralizuje vůči Rajchlovi. Adéla Urbanová vedla sledující k explicitním výhrůžkám: „Budeš viset ty zmrdě, my si tě najdeme."
+
+Případ Natálie Vachatové: označena za „ruskou kolaborantku" jen proto, že její bratr žije v Rusku — Rajchl hodnotí jako „bolševické manýry" (kolektivní vina, asociativní stigmatizace).
+
+> „Buďte si jistí, že já jsem sice označený za toho, kdo kreslí terče. Ale k tomu terčování přispívá taky Adéla Urbanová, která napíše, že jsem ruský agent, a pak jeden z jejích sledujících napíše: ‚Budeš viset ty zmrdě, my si tě najdeme.'" — Jindřich Rajchl, [Média: Zuzana Černá, ODS Hedia (6. 5.)](_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
+
+**Zdroje:** [Rajchl — Média: Zuzana Černá, ODS Hedia, dvojí metr, 6. 5. 2026](_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
+
+---
+
 ## Mainstream jako politický aktivismus
 
 ### Nora Friedrichová (DVTV) — Rajchlova výzva opakování odmítnuta
