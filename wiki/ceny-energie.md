@@ -222,3 +222,34 @@ Rajchl ve videu 6. 5. 2026 upozorňuje na celosvětový obrat vůči větrné en
 - **ČR:** Rajchl + SPD pořádají veřejné slyšení **15. 5. 2026 v Radiopaláci** (Vinohradská, Praha), kde mohou místní komunity prezentovat dopady větrného byznysu
 
 **Zdroje:** [Rajchl — Větrné elektrárny: moratorium Francie, SPD boj v ČR, 6. 5. 2026](_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
+
+---
+
+## Hormuz — aktualizace 6. 5. 2026
+
+### Trump „Freedom project": od eskorty lodí k úplnému zrušení za 3 dny — Vrabel (6. 5. 2026)
+
+Vrabel ve vysíláních 6. 5. rekonstruuje kompletní timeline Trumpovy námořní akce:
+
+- **Den 1:** Trump oznámil, že USA budou vojensky eskortovat tankery přes Hormuz
+- **Den 2:** Upřesnění — USA poskytnou „navigační pomoc", nikoliv vojenský doprovod
+- **Den 3:** Celá operace zrušena
+
+USA neeskortovaly ani jediné plavidlo. Přesto česká média (TV) napsala, že americká flotila „zajišťovala svobodný průplav" — Vrabel: „Nevím, který režisér tohle vymýšlí."
+
+Zároveň USA u Ománu zadržely a zabraly civilní plavidlo — porušení mezinárodní svobody plavby, které média ignorovala.
+
+**Zdroje:** [Vrabel — Večerní zprávy: hotovost, Sudetoněmecký, Hormuz, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-hotovost-sudetoněmecký-hormuz-6-5-2026), [Vrabel — Fiala, Freedom project, Sudetoněmecký résumé, 6. 5. 2026](_zdroje.md#ladislav-vrabel--fiala-freedom-project-sudetoněmecký-résumé-6-5-2026)
+
+---
+
+### Německo a Francie nasazují námořní síly do oblasti Hormuz — Vrabel (6. 5. 2026)
+
+Vrabel ve vysílání 6. 5. potvrzuje eskalaci evropské námořní přítomnosti:
+
+- **Německo:** minolovka *Fulda* vyplula do Středomoří — součást přesunu do oblasti Perského zálivu
+- **Francie:** letadlová loď *Charles de Gaulle* směřuje do Rudého moře
+
+Írán sestřelil 2 americké vojenské lodě. Írán ve stejné době jednal s Wang Yim v Pekingu — potvrzení čínsko-rusko-íránské strategické jednoty.
+
+**Zdroje:** [Vrabel — Večerní zprávy: hotovost, Sudetoněmecký, Hormuz, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-hotovost-sudetoněmecký-hormuz-6-5-2026)

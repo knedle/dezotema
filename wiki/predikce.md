@@ -22,13 +22,13 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
-### Ladislav Vrabel — Globální nedostatek jídla v roce 2027 (1. 5. 2026)
+### Ladislav Vrabel — Globální nedostatek jídla a nespokojenost v roce 2027 (1. 5. a 6. 5. 2026)
 
-**Předpověď:** V roce 2027 se naplno projeví globální potravinová krize — přibližně 40 % světové populace bude mít nedostatek jídla. Mechanismus: uzavření Hormuzského průlivu → výpadek těžby fosilních paliv → nedostatek amoniaku a močoviny (průmyslová hnojiva) → chybí 30 % hnojiv světové produkce → nižší úrody 2026–2027; zároveň zdražení pohonných hmot zvyšuje vstupní náklady zemědělců. Vrabel radí pěstovat si vlastní zeleninu a pořídit zásoby v sklenicích.
+**Předpověď:** V roce 2027 se naplno projeví globální potravinová krize — přibližně 40 % světové populace bude mít nedostatek jídla. Vrabel zároveň predikuje „obrovskou nespokojenost po celém světě." Mechanismus: uzavření Hormuzského průlivu → výpadek těžby fosilních paliv → nedostatek amoniaku a močoviny (průmyslová hnojiva) → chybí 30 % hnojiv světové produkce → nižší úrody 2026–2027; zároveň zdražení pohonných hmot zvyšuje vstupní náklady zemědělců. Vrabel radí pěstovat si vlastní zeleninu a pořídit zásoby v sklenicích.
 
 **Horizont:** 2027
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+**Zdroj:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026), [Vrabel — Večerní zprávy: EU, fašismus, demonstrace, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-eu-fašismus-demonstrace-6-5-2026)
 
 ---
 

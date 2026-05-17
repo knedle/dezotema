@@ -1101,3 +1101,29 @@
 - **Délka:** 0:04:22 | Zhlédnutí: 34 998
 - **Poznámka:** Reakce na článek Seznam Zprávy, který Rajchla obvinil z „kreslení terčů na záda ženám novinářkám." Rajchl uvádí tři fakty o Zuzaně Černé: (1) nahlásila Tomáše Elnera policii; (2) napsala, že Rajchl bojoval proti „národní očkovací strategii", přitom šlo o pandemickou smlouvu WHO — „nerozumí ani psanému textu"; (3) nikdy nenapsala o hrozbě Jakuba Hedia (ODS): „ví, kde bydlím a teď stačí škrtnout zápalkou" — ODS nikdy neodsoudila. Adéla Urbanová vedla sledující: „Budeš viset ty zmrdě, my si tě najdeme." Natálie Vachatová označena za „ruskou kolaborantku" jen kvůli bratrovi v Rusku — Rajchl: „bolševické manýry."
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: EU, fašismus, demonstrace (6. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-06_Jindřich-Rajchl_Videoportál_2.txt)
+- **Kanál:** Jindřich Rajchl (metadata; mluvčí: Ladislav Vrabel)
+- **URL:** <https://www.facebook.com/100063460865205/videos/985197104269445>
+- **Datum záznamu:** 2026-05-06
+- **Poznámka:** Soubor je uložen pod jménem Rajchla, ale mluvčí je Vrabel (osloven jako „Láďo", zmiňuje „Česká republika na prvním místě" jako vlastní hnutí). Večerní zprávy. Témata: EU Cyprus summit — 90 mld. EUR pro Ukrainu, 60 % na zbraně; česká zbrojní výroba (12× L-39 a L-410 do Kazachstánu/Ázerbájdžánu za ropu/uran); Svobodní člen 2024: „kdybychom se dali dohromady, nevzali by nás do televize, sponzoři se to nelíbí" — patriotické strany = zbabělce; SPD/KSČM zakázaly loga ČRNPM a Miroslava Sládka na demonstraci v Brně — „Komanči"; Sudetoněmecký 8-odstavcová rezoluce = divadlo; EU fašizace; Predikce: 2027 obrovská nespokojenost, 40% problém s jídlem; 6G = planetární sledovací systém; hnojiva blokována, 30% deficit.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: hotovost, Sudetoněmecký, Hormuz (6. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-06_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1754347888880188>
+- **Datum záznamu:** 2026-05-06
+- **Délka:** 0:48:01
+- **Poznámka:** Večerní zprávy se Zuzkou. Témata: Daniela Kovářová (senátorka) — návrh ústavní ochrany koruny a práva na hotovost a nedigitální život; Senát odmítl 2/71 hlasů i samotnou debatu; Sudetoněmecký sjezd — Babiš se nezúčastní, Bavorsko kritizuje českou rezoluci; Slovensko (Kalinák): stíhačky do baltické hlídky do konce 2027; Trump Freedom project: D1 eskortovat vojensky, D2 jen navigovat, D3 zrušit — neeskortoval ani jednu loď; Hormuz: Německo minolovka Fulda → Středomoří, Francie letadlová loď Charles de Gaulle → Rudé moře; USA zabrala civilní loď u Ománu; Írán sestřelil 2 americké vojenské lodi; Írán–Čína–Rusko strategická jednota (FM v Pekingu); Arménie: EU bid, Macron 30M EUR vojenská pomoc; Zelenský: Rusko porušilo příměří 1 180×, hrozba útoku na Moskvu 9. 5.; Ukraina: 1 000 km raketa do Ruska (možná Jekatěrinburg); EU de facto ve válce s Ruskem; Merz vojenský proslov v uniformě: „Německo bude řídit evropské armády."
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Fiala, Freedom project, Sudetoněmecký résumé (6. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-06_Ladislav-Vrabel_Facebook-Live_1.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/787919930918304>
+- **Datum záznamu:** 2026-05-06
+- **Délka:** 0:10:27
+- **Poznámka:** Kratší video — titulek „Jdi do prv Fialo" (Fiala řekl opozici ať jde). Témata: Trump Freedom project — kompletní 3denní timeline; plný text 8-odstavcové SPD rezoluce (vyzdvihuje 1997 deklaraci, oceňuje česko-německé vztahy… „vyzývá Meeting Brno a Landsmannschaft aby upustili od sjezdu" — Vrabel: „Konec. To je to nejtvrdší"); Vrabel: Landsmannschaft musí být prohlášen za extremistickou organizaci a zakázán, jinak je vše jen divadlo; hnojiva: amoniak/močovina blokována → 30 % globální deficit; 12× L-39 a L-410 z Aerovodochody do Kazachstánu/Ázerbájdžánu za ropu/uran.
+- **Zpracováno:** ano
