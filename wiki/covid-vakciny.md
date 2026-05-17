@@ -241,6 +241,14 @@ Plánuje osobní audienci u Petra Pavla. Prezidentův právník ji mezitím kont
 
 ---
 
+### Peková: Rajchlovi dopisy prezidentu Pavlovi a ombudsmanovi Anginovi — neodeslány (1. 5. 2026)
+
+Peková na finální zastávce COVID tour (Palouček u Plzně, 1. 5. 2026) upřesnila konkrétní incident spolupráce s Rajchlem: nachystala mu dva dopisy — jeden adresovaný prezidentu Petru Pavlovi s žádostí o clemenci pro osoby odsouzené za covidové výroky, druhý evropskému ombudsmanovi Oliveru Anginovi. Rajchl oba dopisy obdržel a nikdy je neodeslal. Peková je nakonec odeslala sama doporučeně poštou.
+
+**Zdroje:** [Zítko — Palouček: Peková, dopisy Rajchlovi, 1. 5. 2026](_zdroje.md#pavel-zítko--palouček-u-plzně-peková-dopisy-rajchlovi-1-5-2026)
+
+---
+
 ### USA: vakcíny přejmenovány na „biologické zbraně" — Zítko (duben 2026)
 
 Pavel Zítko ve vysílání ze dne 21. 4. 2026 oznamuje jako přelomovou zprávu: americký ministr obrany Pete Hegseth (dle Zítka) nově definoval COVID vakcíny jako „biologické zbraně", v souladu s označením profesora Francise Boylea. Vakcinace má být napříště dobrovolná. Zítko hodnotí tento krok jako potvrzení toho, co říkal od počátku pandemie: mRNA injekce nikdy nebyly léčivem, ale experimentální intervencí bez odpovídajících bezpečnostních studií.
@@ -463,3 +471,11 @@ Vrabel v nedělním vysílání (26. 4. 2026) upozornil na to, co označuje za o
 Upozorňuje také na to, co ve vysílání popsala Jana Lorencová: na Ukrajině existuje termín pro legalitu krádežsou schváleny zákony umožňující korupci, takže krádež probíhá „zákonně". Vrabel označuje válečnou propagandu za nástroj legalizace korupce v měřítku celých států.
 
 **Zdroje:** [Vrabel — Nedělní vysílání: COVID, propaganda, válka, 2026-04-26](_zdroje.md#ladislav-vrabel--nedělní-vysílání-covid-propaganda-válka-26-4-2026)
+
+---
+
+### Babíš obnovil covidové pracovníky ministerstva zdravotnictví — Zítko (1. 5. 2026)
+
+Zítko na COVID tour v Paloučku (1. 5. 2026) upozorňuje, že Babišova nová vláda dosadila zpět na ministerstvo zdravotnictví okruh lidí z éry covidových opatření — tedy ze stejné skupiny jako za vlád Prymuly a Arenbergera. Zítko to vnímá jako potvrzení, že personální kontinuita covidového aparátu přetrvává i přes změnu vlády.
+
+**Zdroje:** [Zítko — Palouček: COVID tour finále, Tejc, rozsudky, 1. 5. 2026](_zdroje.md#pavel-zítko--palouček-u-plzně-covid-tour-finále-tejc-rozsudky-1-5-2026)

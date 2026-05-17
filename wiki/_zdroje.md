@@ -993,3 +993,48 @@
 - **Délka:** 1:19:02 | Zhlédnutí: 254
 - **Poznámka:** Živé vysílání Zítka po měsíci v horách. COVID tour shrnutí (6 zastávek, Krásná Lípa poslední); srovnání lockdownů (Srbsko — lidé stormed parlament vs. ČR bez odporu); vojenský charakter covidových opatření (plukovník jako ministr zdravotnictví); VDL 100+ mld. EUR bez výběrových řízení, bez odpovědnosti výrobců; EU direktíva digitální ID do konce 2026 (eIDAS 2.0, povinné pro všechny státy); digitální peněženka jako kontrolní nástroj (pohyb, nákupy, blokace); Lavrov: výrobci dronů v Evropě jako legitimní cíle; pobaltské státy v hledáčku za propouštění ukrajinskych dronů; COVID = Ukraina (opakující se propaganda vzor).
 - **Zpracováno:** ano
+
+## Pavel Zítko — Palouček u Plzně: Peková, dopisy Rajchlovi (1. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-02_Československo-TV2_Videoportál_3.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=937788355538809&_rdr>
+- **Datum záznamu:** 2026-05-01
+- **Délka:** 0:06:17
+- **Poznámka:** Krátký záznam z COVID tour finále na Paloučku u Plzně. Peková popisuje, že dala Rajchlovi dva hotové dopisy (jeden prezidentu Pavlovi, druhý evropskému ombudsmanovi Anginovi) k odeslání — ten je nikdy neodeslal. Nakonec je odeslala sama doporučeně poštou. Kotlár (slovenský antikruptní úřad): parlamentní seminář o COVID tématice neměl žádný praktický efekt. Minimální nový wiki obsah.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Palouček u Plzně: COVID tour finále, Tejc, rozsudky (1. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-02_Československo-TV2_Videoportál_4.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=989057977394046&_rdr>
+- **Datum záznamu:** 2026-05-01
+- **Délka:** 0:22:03
+- **Poznámka:** Zítko z Paloučku u Plzně (finální zastávka COVID tour). Témata: hokejové MS (odbočka); Tejcova práce na COVID rozsudcích — Zítko skeptický; Babíš dosadil zpět na ministerstvo zdravotnictví skupinu lidí ze stejného okruhu jako za covidu; pozvánka na Slovensko 15.–17. 5. Převážně logistické, minimální nový wiki obsah.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Za kolik jsme ochotni prodat svrchovanost: EU válečná ekonomika, PRO program (3. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-03_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1466404997791365>
+- **Datum záznamu:** 2026-05-03
+- **Délka:** 1:03:45
+- **Poznámka:** Nedělní live: EU válečná ekonomika — Rajchl vs. Jiří Pospíšil (Evropa utrácí 7x více než Rusko; válečná ekonomika = bankrot nebo válka); F-35: 1M Kč/hodina letu, Leopardy příliš těžké pro české mosty; Jana Černochová: 80 mld. Kč zálohy za F-35 uvolněny za 1,5 měsíce; PRO ekonomický program (flat tax 15%, DPH 15%, státní obchodník s plynem vč. Ruska, adresné dluhopisy 5%, rychlostní zákon, 3měsíční výpovědní lhůta pro „zelenáče"); 6 bilionů Kč nevyužitých úspor občanů a firem; Mathias Desmet — Mass Formation (teorie totality); Petr Pavel kritika: ukradený notebook, nazval Trumpa „odporným člověkem" + „poškodil NATO více než Putin", poděkoval Posseltovi 2023, navrhoval euro 2024, zrušení veta 2025, USE 2026; Vlny.cz — nový investigativní web; Škopková: dokument o střelbě na FF UK 4. 5.; Sudetoněmecký sjezd + Wittico Bund web; Petr Pavel na summit NATO v Ankaře nepůjde; Ukrajinskí pracovníci: 404k od 2022, 214k pracuje; Kiel Institute + NYT: 250 mld. Kč náklady ČR.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Bitcoin: policie obvinila Blažka, Daňhela, Jiříkovského (4. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-04_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1971961790104536>
+- **Datum záznamu:** 2026-05-04
+- **Délka:** 0:02:57 | Zhlédnutí: 38 386
+- **Poznámka:** Klíčové: policie obvinila Pavla Blažka (ex-ministr spravedlnosti), Radomíra Daňhela (jeho náměstek) a Tomáše Jiříkovského (alias Kára Matice, brněnský advokát). PRO tuto situaci veřejně odhalilo 11 měsíců dříve (tiskovka 6. 6. 2025), bez výsledku. Eva Decroix kryla situaci z ministerstva spravedlnosti. Stanjura: věděl o původu bitcoinů, umožnil převod ze státu na soukromou aukci přes ÚZSVM = stejný trestný čin, měl by být také obviněn. Petr Fiala: Blažek mu kauzu vyprávěl „jako vtipnou historku." Hrozba parlamentní vyšetřovací komise pokud nebudou podána další obvinění.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Pravidelné nedělní vysílání: svoboda slova, Mass Formation, EU (3. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-03_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1157210233218556>
+- **Datum záznamu:** 2026-05-03
+- **Délka:** 2:32:55
+- **Poznámka:** Pravidelné nedělní vysílání. Klíčová témata: Vrabel vyhrál případ u Ústavního soudu (svoboda slova); RT.com a Sputnik blokovány českými internet. providerem; Vrabel čelí rozsudku 25. 5. (podmínka); Matthias Desmet — teorie Mass Formation (totalita vzniká z osamělosti + prázdného zaměstnání + volné úzkosti; 20 % společnosti pohání totalitarismus; jedinou obranou je upřímně mluvit pravdu); COVID rouška chirurgická, lockdowny kontraproduktivní; Babiš setkal se Zelenským 3. 5.; Filip Turek kritika: zmenšil jen větrné zóny, měl je zrušit; Macinka kritika — „americká servility"; ČR na zlomovém bodě s EU (nyní break-even, dříve čistý příjemce); Schengen ≠ členství EU; depopulační agenda/chemtraily/cashless society/Agenda 2030; Okamura v Srbsku — znechucení; Konečná: politicky rozumná ale osobně nedůvěryhodná (dvakrát ho zradila ve volbách); Zelenský si zaslouží trest smrti (demokraticky přes zákon); Vrabel prodává pozemky v Srbsku (1 ha za 2 250–2 300 EUR); česká „opozice" = síť Klaus/ODS.
+- **Zpracováno:** ano
