@@ -180,6 +180,33 @@ Zítko doplňuje konkrétní číslo z veřejně dostupného soudního rozhodnut
 
 ---
 
+### Zákon č. 483/1991: tři zdokumentované příklady porušení — argument Zítka proti placení poplatků (4. 5. 2026)
+
+Zítko ve vysílání 4. 5. 2026 předložil právní argument pro odmítnutí platby televizních poplatků: ČT trvale porušuje zákon č. 483/1991 Sb. o České televizi, konkrétně §2 odst. 2 písm. a), který ukládá poskytovat „ověřené objektivní, ve svém celku vyvážené a všestranné informace pro svobodné vytváření názorů." Zítko tvrdí, že porušování trvá nejméně od 12. 3. 2020 (vyhlášení nouzového stavu).
+
+Tři konkrétní příklady porušení:
+1. **COVID propaganda** — Obrazovku obsadili výhradně proočkovací odborníci (Flégr, Kubek, Hořejší), bez jediného oponentního hlasu. Divák neměl možnost svobodně si utvořit názor; zákon byl porušen ve všech bodech: objektivita, ověřenost, vyváženost, všestrannost.
+2. **Prezidentská kampaň 2022** — Zítko sám kandidoval; ČT ho zcela ignorovala (kamera na jeho tiskové konferenci nebyla zapnutá), uváděla neexistující kandidáty „Jan Zítko" a „Petr Zítko", a favorizovala šest kandidátů napojených na Aspen Institut: Petr Pavel, Babiš, Nerudová, Fischer, Hilšer a J. Fischer.
+3. **Konflikt na Ukrajině** — ČT ignoruje pravomocný rozsudek slovenského soudu z 13. 1. 2022 (JUDr. Harabina), kde soud státu EU jednoznačně rozhodl, že Rusko v konfliktu není agresor.
+
+Zítko navrhuje napsat ČT dopis s požadavkem vrácení poplatků zaplacených od 12. 3. 2020 s odkazem na porušování zákona 483/1991.
+
+**Zdroje:** [Zítko — Platit či neplatit: zákon 483/1991 a Boyle, 4. 5. 2026](_zdroje.md#pavel-zítko--platit-či-neplatit-zákon-4831991-a-boyle-4-5-2026)
+
+---
+
+### ČT odmítla Rajchla do debaty o Sudetoněmeckém sjezdu — cenzura (5. 5. 2026)
+
+Rajchl (5. 5. 2026) zveřejnil, že ČT odmítla jeho účast v pořadu Události, komentáře o sjezdu Sudetoněmeckého Landsmannschaftu v Brně. SPD — jako předkladatel parlamentního usnesení vyjadřujícího nesouhlas se sjezdem — navrhlo Rajchla; ČT odmítla navzdory opakovaným urgencím.
+
+Rajchl tvrdí, že ČT se obávala pouštět ho do debaty, protože by „snadno vyvrátil lži Martina Kupky" a divákům by připomněl, že Wittikobund (součást Landsmannschaftu) označuje české pohraniční nemovitosti za „ukradený majetek" a zrušení Benešových dekretů je stále v jeho programu. ČT se prý vymlouvala na „jednoho zástupce strany" — ale ve skutečnosti prý chtěla jednoho, jen ne jeho.
+
+Rajchl znovu vyzval ke zrušení ČT a Českého rozhlasu: „Právě proto česká televize a ČRo fakticky nemají právo na svoji existenci."
+
+**Zdroje:** [Rajchl — ČT odmítla účast v Událostech, 5. 5. 2026](_zdroje.md#jindřich-rajchl--čt-odmítla-mou-účast-v-událostech-komentářích-5-5-2026)
+
+---
+
 ## Digitální kontrola
 
 ### Digitální peněženka jako nástroj sledování a blokace — Zítko (2. 5. 2026)

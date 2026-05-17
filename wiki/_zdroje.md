@@ -1047,3 +1047,12 @@
 - **Délka:** 0:05:24
 - **Poznámka:** Navigační a pozvánkové video k akci se Soňou Pekovou a Dr. Henslem v Wellness Resortu UCO v Jizerských horách (Bezřichov). Yoga sál, otužovací zázemí. Žádný politický ani faktický obsah.
 - **Zpracováno:** ano
+
+## Pavel Zítko — Platit či neplatit: zákon 483/1991 a Boyle (4. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-04_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1623948452052552&_rdr>
+- **Datum záznamu:** 2026-05-04 (vysílání ze dne 3. 5. 2026, 21:26)
+- **Délka:** 0:50:10 | Zhlédnutí: 458
+- **Poznámka:** Zítko s tématem „Platit či neplatit" koncesionářské poplatky ČT. Tři zdokumentované příklady porušení zákona č. 483/1991 Sb.: (1) jednostranná COVID propaganda; (2) ignorování prezidentské kandidatury Zítka v 2022, favorizování 6 kandidátů z Aspen Institutu; (3) ignorování slovenského soudního verdiktu, že Rusko není agresor. Prof. Francis Boyle: místopřísežné prohlášení, že COVID vakcíny = biologické zbraně hromadného ničení.
+- **Zpracováno:** ano

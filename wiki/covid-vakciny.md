@@ -504,3 +504,11 @@ Rajchl aplikuje teorii na COVID: vlády záměrně využily covidové obavy k up
 Zítko na COVID tour v Paloučku (1. 5. 2026) upozorňuje, že Babišova nová vláda dosadila zpět na ministerstvo zdravotnictví okruh lidí z éry covidových opatření — tedy ze stejné skupiny jako za vlád Prymuly a Arenbergera. Zítko to vnímá jako potvrzení, že personální kontinuita covidového aparátu přetrvává i přes změnu vlády.
 
 **Zdroje:** [Zítko — Palouček: COVID tour finále, Tejc, rozsudky, 1. 5. 2026](_zdroje.md#pavel-zítko--palouček-u-plzně-covid-tour-finále-tejc-rozsudky-1-5-2026)
+
+---
+
+### Francis Boyle: vakcíny COVID-19 = biologické zbraně hromadného ničení — Zítko (4. 5. 2026)
+
+Zítko ve vysílání 4. 5. 2026 odkazuje na místopřísežné prohlášení profesora Francise Boyla (University of Illinois), autora amerického zákona o zbraních hromadného ničení z roku 1989 (Biological Weapons Anti-Terrorism Act). Boyle v prohlášení označil injekce COVID-19 za biologické zbraně hromadného ničení a toto prohlášení podepsal. Zítko argumentuje, že Boylova odborná pozice — byl autorem samotného zákona definujícího biologické zbraně — dává prohlášení zvláštní právní váhu.
+
+**Zdroje:** [Zítko — Platit či neplatit: zákon 483/1991 a Boyle, 4. 5. 2026](_zdroje.md#pavel-zítko--platit-či-neplatit-zákon-4831991-a-boyle-4-5-2026)
