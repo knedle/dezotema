@@ -267,3 +267,18 @@ Zítko ve vysílání z 29. dubna 2026 přijal teorii suverénního občana (sov
 Tato teorie navazuje na Zítkův dřívější výklad, že Vatikán, City of London a Washington DC jsou skutečná mocenská centra světa, zatímco volby a demokratické vlády jsou pouhá „loutková divadla."
 
 **Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)
+
+---
+
+### Trump jako mesijáš globalistů: předpověď z let 2020–2021 — Vrabel (5. 5. 2026)
+
+Vrabel ve večerním vysílání (5. 5. 2026) odkazuje na předpovědi z let 2020–2021, které prý koloval v alternativních médiích: globalisté zamýšlejí dosadit do každé západní země falešného „mesijáše" — politika, který se bude tvářit jako bojovník proti globalistické agendě, ale ve skutečnosti bude pracovat pro ně. Lidé si ho sami zvolí, protože bude mluvit jejich jazykem.
+
+Vrabel tvrdí, že Donald Trump přesně odpovídá tomuto vzoru:
+- Byl zvolen masou lidí, kteří chtěli porazit globalisty
+- Po zvolení způsobil větší mezinárodní škody než Joe Biden nebo Barack Obama
+- Íránská válka bez koncepce, Hormuzská krize, potravinový výpadek, cla způsobující nestabilitu
+
+Stejný scénář se dle Vrabela opakuje ve všech západních zemích: vždy zvítězí někdo, kdo vypadá jako odpůrce globalismu, ale po zvolení pokračuje v agendě 2030.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)

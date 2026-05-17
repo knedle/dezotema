@@ -681,3 +681,23 @@ Rajchl na tiskové konferenci cituje studii Institutu pro kriminologii, který o
 Rajchl kontrastuje tyto závěry s tvrzením exministra Vít Rakušana, že z Ukrainy nepřichází „excesivní kriminalita" — označuje ho za prokázanou lež.
 
 **Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026)
+
+---
+
+### EU dronový svaz s Ukrajinou: EU se stala zbrojařským paktem — Vrabel (5. 5. 2026)
+
+Vrabel ve vysílání 5. 5. 2026 komentuje výzvu Evropské komise, aby se firmy přihlásily do nového dronového svazu s Ukrajinou do 25. května 2026. Svaz má spojit výrobce, startupy a koncové uživatele dronů z celého jednotného trhu EU a Ukrajiny; Brusel ho plánuje spustit do konce 2026 a plně zprovoznit do konce 2027.
+
+Vrabel hodnotí iniciativu jako zásadní posun: EU vznikla jako dohoda o oceli a uhlí — nyní se stala zbrojním paktem koordinujícím výrobu a dodávky zbraní. „Sice ještě nevojenský, ale zbrojařský pakt — to je jednoznačné."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+### Ukrajinskí uprchlíci v ČR: cesta k občanství a demographic change — Vrabel (5. 5. 2026)
+
+Vrabel ve vysílání 5. 5. 2026 analyzuje demografický vývoj: Ukrajinci přišli do ČR v roce 2022, v roce 2026 jsou tam již 4 roky; válka nekončí (EU poskytla 90 mld. EUR na další 2 roky). Vrabel předpovídá, že pokud válka neustoupí, budou Ukrajinci v ČR i nadále — a postupně budou žádat o občanství (podmínka 5–7 let pobytu).
+
+Pokud dostanou občanství, je to dle Vrabela „Overtonovo okno zavřené" — nevratná demografická změna, analogická situaci Německa s Turky nebo Británie s přistěhovalci. Vrabel také poukazuje na to, že česká média přestávají reportovat o kriminalitě migrantů (stejně jako to přestaly dělat v Německu a Norsku), čímž se problém normalizuje.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)

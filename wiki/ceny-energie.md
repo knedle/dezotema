@@ -160,3 +160,50 @@ Vrabel ve vysílání z 2. 5. 2026 referuje o dubnové zprávě Mezinárodní en
 Vedle toho iránské drony v březnu 2026 zasáhly datová centra Amazon Web Services v SAE — AWS přiznal, že obnova potrvá měsíce. Vrabel propojuje energetickou krizi s hrozící potravinovou krizí: zavřený průliv → výpadek fosilních paliv → nedostatek amoniaku/močoviny → snížení výnosu hnojiv → zdražení a nedostatek potravin. Doporučuje zásoby potravin a hotovost mimo banky.
 
 **Zdroje:** [Vrabel — Večerní zprávy: NATO, Írán, EU militarizace, 2. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-nato-írán-eu-militarizace-2-5-2026)
+
+---
+
+### Írán/Hormuz: USA a Izrael plánují nové útoky, krize se prohlubuje — Vrabel (5. 5. 2026)
+
+Vrabel ve večerním vysílání (5. 5. 2026) popisuje eskalaci situace v Hormuzském průlivu:
+
+- **Přímé příměří skončilo:** USA a Izrael (dle CNN) koordinují možné obnovení vojenských úderů na Írán; americký ministr obrany Pete Hegseth prohlásil, že obnovení bojů „zůstává otevřenou možností."
+- **Průliv stále uzavřen:** 2000 tankerů uvězněno, přes 20 000 námořníků čeká na uvolnění; pojišťovny odmítají krýt lodě bez iránského souhlasu — komerční plavidla de facto nemohou projet.
+- **Iránská vojenská resilience:** Íránská armáda je organizována do 31 samostatných sekcí s nezávislým velením; i při rozbitém centru by části operovaly dál — těžko zastavitelná pěchotou nebo konvenčními útoky.
+- **Iránské podmínky pro mír:** rozmrazení 100 mld. USD aktiv + válečné reparace + odchod USA z Perského zálivu — politicky nepřijatelné pro Trumpa.
+- **Evropa míří do Hormuz:** USA tlačí spojence, aby se zapojili do zajištění bezpečnosti námořních tras; Vrabel: „Evropa půjde do Hormuzského průlivu vojensky."
+
+Vrabel cituje Friedricha Merze: „USA šly do Íránu bez koncepce a Írán je ponížil."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+### Goldman Sachs: globální zásoby ropy na 8letém minimu — Vrabel (5. 5. 2026)
+
+Vrabel ve vysílání 5. 5. 2026 cituje analýzu Goldman Sachs a SNP Global Energy:
+
+- Globální zásoby vytěžené ropy jsou na nejnižší úrovni za 8 let — přibližně **101 dní** spotřeby
+- Zásoby ropných produktů (benzín, nafta) klesly z 50 na **45 dní** spotřeby
+- EU dodatečné energetické náklady od začátku iránského konfliktu: **30 mld. EUR** (cca **500 mil. EUR/den**)
+- SNP Global: obnova průtoku přes Hormuz trvá minimálně **7 měsíců** kvůli poškozené infrastruktuře; plná stabilizace trhu může trvat až do roku **2027**
+- Dan Jorgensen (eurokomisař pro energetiku): „Jedna z nejvážnějších energetických situací posledních let"
+
+Vrabel komentuje: „Říká největší za posledních 80 let. Tato krize se teprve rozehrává."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+### Globální potravinová krize: 30 % hnojiv blokováno — Vrabel (5. 5. 2026)
+
+Vrabel upozorňuje na přímou vazbu mezi Hormuzskou krizí a hrozící potravinovou krizí. Přes průliv neprocházejí jen ropa, ale i fosilní suroviny nezbytné pro výrobu hnojiv (amoniak, močovina) a helium pro polovodiče.
+
+Vrabel odhaduje s „99% pravděpodobností", že v nadcházejících měsících bude svět postrádat 10 % (možná více) světové produkce potravin:
+- Zemědělci používají méně hnojiv → nižší výnosy
+- Drahé pohonné hmoty → vyšší náklady sklizně a přepravy
+- Výsledek: zdražení i absolutní nedostatek potravin v chudých oblastech
+
+Vrabel předpovídá, že hladomor zejména v Africe a jihovýchodní Asii povede k masové migraci do Evropy — v kombinaci s probíhající válkou a případným nedostatkem vody (útoky na odsolovací zařízení) vytvoří souběh krizí.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)

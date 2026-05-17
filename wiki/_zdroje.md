@@ -1074,3 +1074,12 @@
 - **Délka:** 0:06:38 | Zhlédnutí: 77 880
 - **Poznámka:** TK PRO. MPSV tabulka ekonomického přínosu migrace je „absolutně lživá" (zahrnuje odhadované příjmy, ale jen přímé výdaje; chybějí hasiči, policie, infrastruktura); NCOZ studie 61 elitních detektivů: organizovaný zločin v ČR ovládli Ukrajinci (drogy, zbraně, kybernetika); Bitcoin: Decroix potlačovala 11 měsíců, Tejcovo ministerstvo to odblokovala; Stanjura by měl být taktéž obviněn.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci (5. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-05_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/874057129069319>
+- **Datum záznamu:** 2026-05-05
+- **Délka:** 0:52:39
+- **Poznámka:** Večerní zprávy s komentářem. Klíčová témata: Sudetoněmecký sjezd — debata v PS, Vrabel pochybuje o odhodlání koalice zakázat; Zelenský vyhlásil „ticho" od půlnoci 5/6. 5.; Írán/Hormuz: USA+Izrael plánují obnovení úderů, 2000 tankerů uvězněno, 20 000 námořníků; Írán rozdělena na 31 vojenských sekcí — těžko porazitelná; Goldman Sachs: zásoby ropy na 8letém minimu (101 dní), produkty 45 dní; EU dodatečné energetické náklady 30 mld. EUR od konfliktu (500M EUR/den); SNP Global: obnova může trvat 7 měsíců+; potravinová krize 10-20 % světové potravy v ohrožení kvůli 30 % blokaci hnojiv; Rumunsko: vláda padla (281 hlasů), Vrabel interpretuje jako výměna pro proNATO vládu; EU dronový svaz s Ukrajinou (do 25. 5.); Ukrajinskí uprchlíci v ČR: přišli 2022, budou žádat o občanství do 5-7 let; Trump = mesijáš globalistů podle predikcí 2020-2021.
+- **Zpracováno:** ano
