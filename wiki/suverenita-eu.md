@@ -652,3 +652,32 @@ Vrabel v nedělním vysílání (3. 5. 2026) vyslovil názor, že Volodymyr Zele
 Vrabel kritizuje ministra obrany Jana Macinku za bezpodmínečné přijímání amerických bezpečnostních požadavků a udržování ČR na trajektorii, která by ji mohla vtáhnout do přímého konfliktu s Ruskem. Macinka podepsal bez veřejné debaty přistoupení ČR k různým vojenským závazkům (bunker koalice, F-35 zálohy) a pokračuje v kurzu, který ČR z pohledu Ruska staví do role spolupachatele.
 
 **Zdroje:** [Vrabel — Nedělní vysílání: svoboda slova, Mass Formation, EU, 3. 5. 2026](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)
+
+---
+
+### MPSV: tabulka ekonomického přínosu migrace je „absolutně lživá" — Rajchl (5. 5. 2026)
+
+Rajchl na tiskové konferenci PRO (5. 5. 2026) prezentoval výsledek žádosti podle zákona 106/1999 o svobodném přístupu k informacím: excelovou tabulku MPSV s výpočtem ekonomického přínosu ukrajinské migrace. Dle jeho analýzy tabulka záměrně zkresluje výsledek:
+
+- **Do příjmů počítá:** sociální a zdravotní pojistné, DPH, spotřební daně — přičemž část jsou jen odhady, které „nikdo nemůže spočítat"
+- **Do výdajů počítá pouze:** přímé náklady; chybějí hasiči, policisté, soudci, infrastruktura (silnice), podpora nezaměstnaných vytlačených migrací
+
+NYT a Kiel Institute uvádějí náklady na 10 miliard EUR ročně. Rajchl požaduje, aby MPSV zveřejnilo metodologicky korektní výpočet s úplnými výdaji.
+
+> „Já jsem vždycky tvrdil, že ta tabulka Jurečkových úředníků je naprosto vylhaná." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026)
+
+---
+
+### NCOZ studie: organizovaný zločin v ČR ovládli Ukrajinci — Rajchl (5. 5. 2026)
+
+Rajchl na tiskové konferenci cituje studii Institutu pro kriminologii, který oslovil 61 elitních detektivů NCOZ a Národní protidrogové centrály (41 z nich slouží déle než 10 let). Závěr studie: „Organizovaný zločin v Česku ovládli Ukrajinci." Oblasti zvláštního nárůstu:
+- obchod s drogami
+- obchod se zbraněmi
+- nelegální zaměstnávání
+- **kybernetická kriminalita** — podvodné telefonáty cílené na seniory
+
+Rajchl kontrastuje tyto závěry s tvrzením exministra Vít Rakušana, že z Ukrainy nepřichází „excesivní kriminalita" — označuje ho za prokázanou lež.
+
+**Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026)

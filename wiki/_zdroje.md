@@ -1056,3 +1056,21 @@
 - **Délka:** 0:50:10 | Zhlédnutí: 458
 - **Poznámka:** Zítko s tématem „Platit či neplatit" koncesionářské poplatky ČT. Tři zdokumentované příklady porušení zákona č. 483/1991 Sb.: (1) jednostranná COVID propaganda; (2) ignorování prezidentské kandidatury Zítka v 2022, favorizování 6 kandidátů z Aspen Institutu; (3) ignorování slovenského soudního verdiktu, že Rusko není agresor. Prof. Francis Boyle: místopřísežné prohlášení, že COVID vakcíny = biologické zbraně hromadného ničení.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — ČT odmítla mou účast v Událostech, komentářích (5. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-05_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2236845210475641>
+- **Datum záznamu:** 2026-05-05
+- **Délka:** 0:03:08 | Zhlédnutí: 151 791
+- **Poznámka:** ČT odmítla Rajchlovu účast v Událostech, komentářích (debata o Sudetoněmeckém sjezdu v Brně) i přes SPD tiskové oddělení — Rajchl tvrdí, že ho záměrně cenzurují. Volá po zrušení ČT a ČRo.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Tisková konference PRO: migrace, kriminalita, Bitcoin (5. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-05_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1494146442094085>
+- **Datum záznamu:** 2026-05-05
+- **Délka:** 0:06:38 | Zhlédnutí: 77 880
+- **Poznámka:** TK PRO. MPSV tabulka ekonomického přínosu migrace je „absolutně lživá" (zahrnuje odhadované příjmy, ale jen přímé výdaje; chybějí hasiči, policie, infrastruktura); NCOZ studie 61 elitních detektivů: organizovaný zločin v ČR ovládli Ukrajinci (drogy, zbraně, kybernetika); Bitcoin: Decroix potlačovala 11 měsíců, Tejcovo ministerstvo to odblokovala; Stanjura by měl být taktéž obviněn.
+- **Zpracováno:** ano

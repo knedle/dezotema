@@ -241,7 +241,7 @@ PRO tuto situaci veřejně pojmenovalo již 11 měsíců dříve — tiskovka PR
 
 **Fiala v obraze:** Blažek prý Petru Fialovi o celé kauze vyprávěl „jako vtipnou historku" — Rajchl komentuje: „Moc vtipné, pane Fialo." Rajchl pohrozil zahájením parlamentní vyšetřovací komise pro kauzu Bitcoin, pokud nebudou podána další obvinění.
 
-**Zdroje:** [Rajchl — Bitcoin: policie obvinila Blažka, Daňhela, Jiříkovského, 4. 5. 2026](_zdroje.md#jindřich-rajchl--bitcoin-policie-obvinila-blažka-daňhela-jiříkovského-4-5-2026)
+**Zdroje:** [Rajchl — Bitcoin: policie obvinila Blažka, Daňhela, Jiříkovského, 4. 5. 2026](_zdroje.md#jindřich-rajchl--bitcoin-policie-obvinila-blažka-daňhela-jiříkovského-4-5-2026), [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026)
 
 ---
 
