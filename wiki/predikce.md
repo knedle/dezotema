@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Valerij Zalužný — Potomci budou bojovat za znovu-dobytí obsazených území (29. 4. 2026)
+
+**Předpověď:** Exvelitel ukrajinských ozbrojených sil Valerij Zalužný prohlásil, že přiměje syna složit přísahu, že po něm dobyde zpět území nyní obsazená Ruskem. Vrabel toto cituje jako indikátor, že část Ukrainy realisticky počítá s tím, že obsazená území se nevrátí v krátkodobém horizontu — a válka přejde do generační perspektivy.
+
+**Horizont:** generační (neurčeno)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Noční zprávy: Sudeťáci, referendum, Zalužný, 29. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-sudeťáci-referendum-zalužný-29-4-2026)
+
+---
+
 ### Ladislav Vrabel — Globální nedostatek jídla v roce 2027 (1. 5. 2026)
 
 **Předpověď:** V roce 2027 se naplno projeví globální potravinová krize — přibližně 40 % světové populace bude mít nedostatek jídla. Mechanismus: uzavření Hormuzského průlivu → výpadek těžby fosilních paliv → nedostatek amoniaku a močoviny (průmyslová hnojiva) → chybí 30 % hnojiv světové produkce → nižší úrody 2026–2027; zároveň zdražení pohonných hmot zvyšuje vstupní náklady zemědělců. Vrabel radí pěstovat si vlastní zeleninu a pořídit zásoby v sklenicích.

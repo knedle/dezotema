@@ -424,6 +424,26 @@ Tarabová informuje o hlasování sněmovního výboru pro zdravotnictví (29. d
 
 ---
 
+### COVID lockdowny: Srbsko versus ČR — Zítko (2. 5. 2026)
+
+Zítko ve vysílání z 2. května 2026 srovnává průběh covidových opatření v různých zemích. Srbsko označuje za pozitivní vzor: vláda sice lockdowny zavedla, ale lidé se vzbouřili a nakonec stormed parlament v Bělehradě — a lockdowny byly zrušeny. Srbsko podle Zítka prošlo pandemií s výrazně menšími restrikcemi než ČR, Španělsko nebo Čína (Shanghai). ČR naopak přijala přísné lockdowny bez odporu veřejnosti.
+
+Zítko opakuje tezi, že zdravotní ministerstvo za covidu řídili vojenští důstojníci (plukovník jako ministr, armáda po celé zemi) — to byl podle něj signál, že se nejednalo o zdravotní krizi, ale o vojenskou operaci. Vakcínové smlouvy podepsal Ursula von der Leyen za 100+ miliard EUR bez výběrových řízení a bez odpovědnosti výrobců za škody.
+
+**Zdroje:** [Zítko — COVID tour, digitální ID, propaganda, 2. 5. 2026](_zdroje.md#pavel-zítko--covid-tour-digitální-id-propaganda-2-5-2026)
+
+---
+
+### EU digitální ID do konce 2026: povinné pro všechny státy — Zítko (2. 5. 2026)
+
+Zítko ve vysílání z 2. května 2026 informuje o direktívě EU, která ukládá všem členským státům zavést do konce roku 2026 digitální identitu (eIDAS 2.0). Digitální ID bude povinné pro každého občana EU. Zítko to spojuje s digitální peněženkou (digital wallet): stát bude moci sledovat pohyb, nákupy a přístup ke službám; při nevhodném chování lze peněženku zablokovat — a občan pak nemůže platit ani tankovat. Jako možný scénář uvádí: „Dneska ne, vakcína je dobrovolná, ale zítra nevíte."
+
+Zítko tuto direktívu zasazuje do vzoru opakujícího se po covidu: krok za krokem jsou zaváděny kontrolní mechanismy prezentované jako pohodlí nebo bezpečnost, ale v záloze fungují jako nástroje nátlaku.
+
+**Zdroje:** [Zítko — COVID tour, digitální ID, propaganda, 2. 5. 2026](_zdroje.md#pavel-zítko--covid-tour-digitální-id-propaganda-2-5-2026)
+
+---
+
 ### COVID jako vojenská operace — krytí pro miliardové zakázky bez výběrových řízení
 
 Ladislav Vrabel zastává názor, že COVID-19 nebyl jen zdravotní krizí, ale záměrnou operací sloužící k obejití zákonů o veřejných zakázkách. Vlády dle něj vytvořily stav strachu, který je zbavil povinnosti zadávat výběrová řízení — výsledkem byly miliardové zakázky na vakcíny sjednané za nepřezkoumatelných podmínek. Smlouvy s výrobci vakcín byly podle Vrabela záměrně začerněny a obsahovaly ustanovení, že výrobce nenese žádnou zodpovědnost za škody způsobené vakcínou. Ursulou von der Leyen zakoupila vakcíny pro EU za více než 100 miliard EUR.

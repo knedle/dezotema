@@ -948,3 +948,48 @@
 - **Délka:** 0:54:24 | Zhlédnutí: 6
 - **Poznámka:** Večerník 29. 4. Hlavní témata: (1) 13minutový dokument o slově „referendum" — politici slibovali referendum o rozdělení ČS, zákon 327/1991 byl ignorován, Klaus+Mečiar+Havel = vlastizrada, nepromlčitelná; COVID tour Peková — konference Bratislava 5. 5., Reiner Füllmich narozeniny 5. 5.; (2) Admiralty law / sovereign citizen — rodný list jako obchodní cenný papír na NYSE, Vatikán, právní fikce od narození; přirozené právo bylo obnoveno ale nikdo vám to neřekl; plochá Země narážka na konci.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: Ázerbájdžán, vojenské výdaje (27. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-27_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1445570276778683>
+- **Datum záznamu:** 2026-04-27
+- **Délka:** 1:01:48
+- **Poznámka:** Večerní zprávy se Zuzkou. Klíčová témata: Babiš jednal v Ázerbájdžánu o 2 mld. m³ plynu/rok (~30 % spotřeby ČR); česká plynová zásobovací struktura (Norsko 40–50%, LNG 30–40%, Německo 10–20% incl. neoficiální ruský plyn); spotřeba plynu klesla z 9–10 na 6,75 mld. m³; SIPRI 2025 vojenské výdaje (USA 954 mld., Čína 336, Rusko 190, Německo 114, Ukraina 84); Druzhba severní větev a Berlín; Hormuz ohrožuje katarské LNG; Merz přidělil 233 mil. EUR Ukraině + 30 mil. EUR Černobyl; podmínky Merze pro vstup Ukrainy do EU (územní ústupky); Putin setkal s Araghdžím (rusko-íránské strategické partnerství); Kubilius — Evropská obranná unie; Andrew Haag (Pentagon) propuštěn za tvrzení, že ukrajinskě peníze byly rozkradeny.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: tribunál, OPEC, geopolitika (28. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-28_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1712512766588268>
+- **Datum záznamu:** 2026-04-28
+- **Délka:** 1:00:55
+- **Poznámka:** Večerní zprávy se Zuzkou. Klíčová témata: ČR 23. zemí v tribunálu pro ruské válečné zločiny (Dubrovník, Trojmoří summit, Babiš); SAE opouští OPEC a OPEC+; estonský prezident: válka mohla skončit 2022; Merz: Ukraina nevstoupí do EU 2027–2028 bez územních ústupků; Trump Merzovi: starej se o Německo, ne o Írán; Pentagon odblokoval posledních 400 mil. USD pro Ukrainu (2027 žádné další); Putin — volby v Donbasu/Záporoží/Chersonu září 2026; Německo: 2656 odmítnutí vojenské služby v Q1 2026 (více než za celý rok 2024); pokus o převrat v Mali; Füllmich nová obhajoba; Trump-Putin telefonát; jednání o Hormuz.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Noční zprávy: Sudeťáci, referendum, Zalužný (29. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-29_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1321345356565683>
+- **Datum záznamu:** 2026-04-29
+- **Délka:** 0:29:37
+- **Poznámka:** Noční zprávy (kratší). Klíčová témata: petice ČR na prvním místě za zákaz Landsmannschaftu; Macinka podepsal přistoupení ČR k „bunker koalici" pro Ukrainu; návrh zákona o referendu — 300 000 podpisů, EU/NATO exit výslovně vyloučen; Petr Pavel: Rusko má 1,5 mil. vycvičených vojáků, militarizovaná ekonomika, možné testování NATO v Pobaltí; Druzhba severní větev zastavena od 1. 5. (tranzitní zóna Bryansk ostřelována); EU zmrazuje eurofundy pro Slovensko; Zalužný: syna přiměje přísahat na dobytí zpět obsazených území.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Noční zprávy: Srbsko, NATO, ETS2 (30. 4. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-04-30_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1759813241647101>
+- **Datum záznamu:** 2026-04-30
+- **Délka:** 1:03:00
+- **Poznámka:** Noční zprávy se Zuzkou. Klíčová témata: Okamura v Srbsku — podporuje vstup Srbska do EU (Vrabel nesouhlasí); EU zastavila platby Srbsku (soudnictví); politická história Srbska (Milošević → demokraté → Vučić); Polsko plánuje armádu 500 000 do 2039; UK + 9 zemí (DK, FI, IS, NO, SE, NL, EE, LV, LT) tvoří společné námořní síly; ETS2 — všichni čeští europoslanci hlasovali pro Nerudové amendment; EU nemá přehled o zásobách pohonných hmot; Peskov o Zelenském; Trump-Putin telefonát — nabízel příměří 9. května.
+- **Zpracováno:** ano
+
+## Pavel Zítko — COVID tour, digitální ID, propaganda (2. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-02_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=977067801349513&_rdr>
+- **Datum záznamu:** 2026-05-02
+- **Délka:** 1:19:02 | Zhlédnutí: 254
+- **Poznámka:** Živé vysílání Zítka po měsíci v horách. COVID tour shrnutí (6 zastávek, Krásná Lípa poslední); srovnání lockdownů (Srbsko — lidé stormed parlament vs. ČR bez odporu); vojenský charakter covidových opatření (plukovník jako ministr zdravotnictví); VDL 100+ mld. EUR bez výběrových řízení, bez odpovědnosti výrobců; EU direktíva digitální ID do konce 2026 (eIDAS 2.0, povinné pro všechny státy); digitální peněženka jako kontrolní nástroj (pohyb, nákupy, blokace); Lavrov: výrobci dronů v Evropě jako legitimní cíle; pobaltské státy v hledáčku za propouštění ukrajinskych dronů; COVID = Ukraina (opakující se propaganda vzor).
+- **Zpracováno:** ano

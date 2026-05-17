@@ -180,6 +180,18 @@ Zítko doplňuje konkrétní číslo z veřejně dostupného soudního rozhodnut
 
 ---
 
+## Digitální kontrola
+
+### Digitální peněženka jako nástroj sledování a blokace — Zítko (2. 5. 2026)
+
+Zítko ve vysílání z 2. května 2026 popisuje EU direktívu o digitální identitě (eIDAS 2.0) a navazující digitální peněženku jako mechanismus, který přesahuje pouhé pohodlí. V digitální peněžence budou uloženy doklady, platební prostředky a přístup ke státním službám. Zítko upozorňuje na riziko zneužití: stát — nebo ten, kdo systém ovládá — může peněženku zablokovat a občan pak nemůže nakupovat, tankovat, ani se prokázat. Jako analogii cituje čínský systém sociálního kreditu.
+
+Propojuje to s příkladem lockdownů: byl zaveden „přechodně" a „dočasně" — a to, co bylo jednou normalizováno, se zpět nevrátilo. Digitální peněženka bude „dočasně dobrovolná", dokud nebude povinná. Zítko varuje před přijetím systému bez veřejné debaty o jeho kontrolních důsledcích.
+
+**Zdroje:** [Zítko — COVID tour, digitální ID, propaganda, 2. 5. 2026](_zdroje.md#pavel-zítko--covid-tour-digitální-id-propaganda-2-5-2026)
+
+---
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů

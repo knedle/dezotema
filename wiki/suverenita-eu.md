@@ -502,6 +502,86 @@ Vrabel interpretuje tato opatření jako záměrnou strategii: USA opouštějí 
 
 ---
 
+### Merz: Ukrajina musí postoupit území, aby mohla vstoupit do EU — Vrabel (27. 4. a 28. 4. 2026)
+
+Vrabel ve dvou po sobě jdoucích večerních vysíláních (27. a 28. dubna 2026) komentuje postoj německého kancléře Friedricha Merze k podmínkám vstupu Ukrajiny do EU. Merz otevřeně řekl, že přistoupení Ukrajiny v horizontu 2027–2028 není reálné — a formuloval podmínku: Ukrajina by musela souhlasit s územními ústupky (ponecháním části obsazených území Rusku), aby válka skončila a EU přijímací proces mohl začít.
+
+Vrabel toto čte jako potvrzení svého dřívějšího postoje: Západ v zákulisí připravuje zmrazení konfliktu na nákladech Ukrainy, ale veřejně to nedoznává. Merz zároveň navýšil finanční pomoc Kyjevu o 233 milionů EUR a přispěl 30 miliony EUR na Černobyl. Západ podle Vrabela Ukrajinu zásobuje penězi a současně jedná o jejím rozdělení.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Ázerbájdžán, vojenské výdaje, 27. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-ázerbájdžán-vojenské-výdaje-27-4-2026), [Vrabel — Večerní zprávy: tribunál, OPEC, geopolitika, 28. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-tribunál-opec-geopolitika-28-4-2026)
+
+---
+
+### ČR se připojila k tribunálu pro ruské válečné zločiny — 23. zemí (Vrabel, 28. 4. 2026)
+
+Vrabel ve vysílání z 28. dubna 2026 komentuje zprávu, že Česká republika se přidala k mezinárodní iniciativě Rady Evropy za vznik zvláštního tribunálu pro zločiny ruské agrese vůči Ukrajině — jako 23. stát. Podpis proběhl na okraj summitu Trojmoří v Dubrovníku (28.–29. 4. 2026). Vrabel přičítá rozhodnutí přímo Andreji Babišovi: „Babiš musel schválit. Nikdo jiný ČR na Radě Evropy nezastupuje."
+
+Vrabel tuto zprávu glosuje jako ironii: voliči chtěli změnu, Babiš ji přinesl — ale ve směru větší vojensko-politické integrace s EU a Ukrajinou, nikoliv méně. Výrok „to je ta strašná změna, co jsme chtěli ve volbách" je sarkastický.
+
+**Zdroje:** [Vrabel — Večerní zprávy: tribunál, OPEC, geopolitika, 28. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-tribunál-opec-geopolitika-28-4-2026)
+
+---
+
+### Referendum v ČR — zákon navrhuje 300 000 podpisů, EU/NATO exit výslovně vyloučen (Vrabel, 29. 4. 2026)
+
+Vrabel ve vysílání 29. dubna komentuje návrh zákona o referendu, který vláda připravuje. Upozorňuje na klíčový detail: zákon vyžaduje 300 000 podpisů pro vypsání referenda, ale zároveň výslovně vylučuje, aby referendum mohlo proběhnout o vystoupení z EU nebo z NATO. Vrabel to hodnotí jako referendu bez obsahu: „O čem tedy bude, je to prázdná skořápka."
+
+Zároveň komentuje, že Macinka podepsal přistoupení ČR k „bunker koalici" pro Ukrajinu — Petr Pavel obhajoval nutnost chránit civilní infrastrukturu Ukrajiny a budovat kryty pro civilisty. Vrabel: to jsou další závazky, které Česká republika přijímá bez veřejné diskuze.
+
+**Zdroje:** [Vrabel — Noční zprávy: Sudeťáci, referendum, Zalužný, 29. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-sudeťáci-referendum-zalužný-29-4-2026)
+
+---
+
+### Petition: Sudetoněmecký Landsmannschaft prohlásit za extremistický — Vrabel (29. 4. 2026)
+
+Vrabel ve vysílání 29. dubna 2026 informuje o petici iniciativy „ČR na prvním místě", která žádá vládu, aby Sudetoněmecký Landsmannschaft prohlásila za extremistickou organizaci a zakázala jí pořádat sjezd v Brně. Vrabel tuto snahu vítá a zasazuje ji do kontextu: sjezd v Brně (22.–24. 5. 2026) se blíží a dosud nikdo formální kroky nepodnikl. Iniciativa sbírá podpisy online.
+
+**Zdroje:** [Vrabel — Noční zprávy: Sudeťáci, referendum, Zalužný, 29. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-sudeťáci-referendum-zalužný-29-4-2026)
+
+---
+
+### Okamura v Srbsku: podpora integrace EU — Vrabel nesouhlasí (30. 4. 2026)
+
+Vrabel ve vysílání 30. dubna 2026 komentuje návštěvu Tomia Okamury v Srbsku, kde vyjadřoval podporu srbské integraci do EU. Vrabel to označuje za protichůdné signály: Okamura v ČR odmítá EU jako přílišné zasahování do suverenity, ale v zahraničí ji doporučuje Srbsku. Vrabel zastává opačnou pozici — EU podle něj postupně ničí národní státy a Srbsko by se mělo tomuto vývoji bránit. Vučić je dle Vrabela pragmatický: hraje kartu EU, pokud mu to přináší výhody.
+
+EU mezitím zastavila platby z eurofondů Srbsku kvůli nevyhovujícímu soudnictví — Vrabel to vnímá jako typický tlakový mechanismus: buď přijmete pravidla, nebo přijdete o peníze. Srbsko si tak zachovává dvě tváře: plyn od Ruska + peníze z EU.
+
+**Zdroje:** [Vrabel — Noční zprávy: Srbsko, NATO, ETS2, 30. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-srbsko-nato-ets2-30-4-2026)
+
+---
+
+### Militarizace Evropy: UK + 9 zemí tvoří společné námořní síly, Polsko plánuje armádu 500 000 (Vrabel, 30. 4. 2026)
+
+Vrabel ve vysílání 30. dubna 2026 referuje o dvou zásadních vojenských rozhodnutích:
+
+**Polsko:** Vláda schválila plán na vybudování armády o 500 000 vojácích do roku 2039. Vrabel uvádí, že Polsko má nejvyšší výdaje na obranu v poměru k HDP ze všech zemí NATO. Hodnotí to jako reakci na skutečné bezpečnostní obavy, ale i jako přípravu na regionální velmocenskou roli.
+
+**Britská koalice:** Velká Británie + 9 zemí (Dánsko, Finsko, Island, Norsko, Švédsko, Nizozemsko, Estonsko, Lotyšsko, Litva) vytvářejí společné námořní síly zaměřené primárně na ochranu proti Rusku v Baltském a Severním moři. Vrabel to komentuje jako postupnou fragmentaci NATO na menší vojenské koalice, což oslabuje soudržnost Aliance.
+
+**Zdroje:** [Vrabel — Noční zprávy: Srbsko, NATO, ETS2, 30. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-srbsko-nato-ets2-30-4-2026)
+
+---
+
+### ETS2: všichni čeští europoslanci hlasovali pro Nerudové amendment — Vrabel (30. 4. 2026)
+
+Vrabel ve vysílání 30. dubna 2026 referuje o hlasování v Europarlamentu o ETS2 (systém emisního obchodování rozšířený na dopravu a budovy). Nerudová prosadila pozměňovací návrh — a hlasování odhalilo, že pro něj hlasovali **všichni čeští europoslanec**, včetně opozice (PRO, SPD). Vrabel: „To je poprvé, co jsem viděl, že Češi hlasují jednotně." Zhodnotí to jako ukázku, jak ETS2 poškozuje české zájmy natolik, že přehlušilo stranické linie.
+
+ETS2 zavádí ceny za emise CO₂ pro dopravu a topení — to se promítne do cen pohonných hmot a tepla pro domácnosti.
+
+**Zdroje:** [Vrabel — Noční zprávy: Srbsko, NATO, ETS2, 30. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-srbsko-nato-ets2-30-4-2026)
+
+---
+
+### Rusko prohlašuje výrobce dronů v Evropě za legitimní vojenské cíle — Zítko (2. 5. 2026)
+
+Zítko ve vysílání 2. května 2026 komentuje prohlášení Sergeje Lavrova, podle nějž Rusko považuje výrobce dronů a bezpilotních prostředků v evropských zemích za legitimní vojenské cíle — a to včetně zemí, jejichž vzdušný prostor tyto drony využívají k útokům na ruské území. Zítko upozorňuje, že to se může týkat i pobaltských států (Estonsko, Lotyšsko, Litva), přes jejichž vzdušný prostor prý procházejí ukrajinskě drony míří na Rusko.
+
+Zítko tuto eskalaci zasazuje do vzoru: stejně jako byl COVID použit ke grantování výjimečných pravomocí vládám, je nyní válečná rétorika využívána k ospravedlnění zásahů proti civilní a průmyslové infrastruktuře třetích zemí.
+
+**Zdroje:** [Zítko — COVID tour, digitální ID, propaganda, 2. 5. 2026](_zdroje.md#pavel-zítko--covid-tour-digitální-id-propaganda-2-5-2026)
+
+---
+
 ### Referendum o rozdělení Československa neproběhlo — vlastizrada dle Zítka (29. 4. 2026)
 
 Zítko ve vysílání z 29. dubna 2026 sdílí 13minutový sestřih záběrů, v nichž politici opakovaně zmiňují slovo „referendum" před rozdělením Československa v roce 1992 — žádné referendum však neproběhlo. Zítko to právně interpretuje jako vlastizradu:

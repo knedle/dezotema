@@ -112,7 +112,44 @@ Vrabel komentuje zprávu o tom, že JP Morgan Chase plánuje investovat 1,5 bili
 
 ---
 
+## Plyn v ČR — diverzifikace zásobování
+
+### Odkud Česká republika bere plyn — Vrabel (27. 4. 2026)
+
+Vrabel ve vysílání 27. dubna 2026 shrnul aktuální strukturu plynových dodávek ČR, přičemž zdůraznil, jak výrazně klesla spotřeba a jak Hormuzská krize ohrožuje část dodávek:
+
+- **Norsko** — 40–50 % (plynovody přes Německo)
+- **LNG** — 30–40 % (terminály v Nizozemsku a Německu; zdroje: USA, Katar, Afrika); katar­ská část je v tuto chvíli ohrožena uzavřením Hormuzského průlivu
+- **Německo (mix + neoficiální ruský plyn)** — 10–20 %; podle Vrabela 10–15 % z tohoto podílu tvoří stále ruský plyn, ačkoliv ČR oficiálně udává 0 %
+- **Ázerbájdžán** — plánovaná smlouva na 2 miliardy m³/rok ≈ ~30 % spotřeby ČR (ministr Havlíček); Babiš jednal přímo s prezidentem Aliyevem v Baku
+
+Spotřeba plynu v ČR klesla z 9–10 mld. m³ (2021) na 6,75 mld. m³ (2023), přičemž úspory přišly s útlumem průmyslu a omezením domácností. Vrabel hodnotí ázerbájdžánský plyn jako dílčí řešení výpadku katarských dodávek, ale dodává, že nejlevnější alternativou by stále bylo přímé nakupování od Ruska.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Ázerbájdžán, vojenské výdaje, 27. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-ázerbájdžán-vojenské-výdaje-27-4-2026)
+
+---
+
 ## Hormuzský průliv a energetická krize
+
+### Druzhba severní větev zastavena od 1. 5. 2026 — Vrabel (27. 4. a 29. 4. 2026)
+
+Vrabel upozornil (27. a 29. dubna 2026) na aktuální situaci kolem severní větve ropovodu Druzhba, která přepravuje kazašskou ropu přes Bělorusko a Polsko do Německa. Rafinérie Schwedt (Berlín) zpracovávala z 90 % ropu z Druzhby. Od 1. května 2026 Ukraina ostřeluje tranzitní zónu u Brjansku — výsledkem je faktické zastavení přepravy severní větví.
+
+Vrabel ze záznamu 27. dubna vysvětluje, že i bez sankcí je ropa z Druzhby „kazašská, ne ruská" — ale přes ruské území. Zastavení znamená okamžitý problém pro zásobování Berlína a východního Německa pohonnými hmotami. Vrabel komentuje: „Tak Berlín bude bez pohonných hmot, protože je zásobovala Druzhba přes Rusko."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Ázerbájdžán, vojenské výdaje, 27. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-ázerbájdžán-vojenské-výdaje-27-4-2026), [Vrabel — Noční zprávy: Sudeťáci, referendum, Zalužný, 29. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-sudeťáci-referendum-zalužný-29-4-2026)
+
+---
+
+### EU nemá přehled o zásobách pohonných hmot v Evropě — Vrabel (30. 4. 2026)
+
+Vrabel ve vysílání 30. dubna 2026 upozorňuje na paradox: EU přijímá závazky o energetické bezpečnosti, ale v praxi nemá centralizovaný přehled o zásobách pohonných hmot v členských státech. To se projevilo zejména v kontextu Hormuzské krize — nikdo nedokáže říct, kolik přesně pohonných hmot mají jednotlivé země v zásobách a jak dlouho vydrží.
+
+Vrabel tuto situaci hodnotí jako systémový selhání: EU reguluje drobnosti (emise CO₂ z aut, obsah cukru v nápojích), ale základní energetická bezpečnostní data nejsou centrálně sledována.
+
+**Zdroje:** [Vrabel — Noční zprávy: Srbsko, NATO, ETS2, 30. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-srbsko-nato-ets2-30-4-2026)
+
+---
 
 ### Průtok ropy Hormuzem klesl z 20 na 4 miliony barelů denně — Vrabel (2. 5. 2026)
 
