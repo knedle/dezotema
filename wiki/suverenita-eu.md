@@ -594,3 +594,35 @@ Zítko ve vysílání z 29. dubna 2026 sdílí 13minutový sestřih záběrů, v
 Zítko označuje za tři přímé aktéry vlastizrady Vladimíra Mečiara, Václava Klause a Václava Havla (který prý „křivopřísahal"). Jako motivaci pro zahraniční tlak na rozdělení uvádí, že nástupnické státy ČR a SR nejsou dědici ČSR, a Německo tak nemusí platit válečné reparace.
 
 **Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)
+
+---
+
+### EU válečná ekonomika: Evropa utrácí 7× více než Rusko — Rajchl vs. Pospíšil (3. 5. 2026)
+
+Rajchl vystoupil v TV debatě proti Jiřímu Pospíšilovi (Spolu/TOP 09). Ústřední teze Rajchla: Evropa již nyní utrácí na zbrojení 7× více než Rusko — přesto se Rusko drží na frontě a v ekonomice. Válečná ekonomika nevede k vítězství; vede buď k bankrotu nebo ke skutečné válce. Rajchl odmítá logiku, že zvyšováním výdajů Rusko zastraší.
+
+**Konkrétní příklady zbrojního předražení:**
+- **F-35:** provozní náklady dosahují přibližně 1 milionu Kč na hodinu letu; jde o jedno z nejdražších letadel v historii
+- **Leopard 2:** příliš těžký pro velkou část českých mostů; tanky jsou obecně zastaralou platformou v moderní válce (drony, přesné řízené střely)
+- **Jana Černochová 2024:** za pouhých 1,5 měsíce schválila zálohy 80 miliard Kč za F-35 od Lockheed Martin — dle Rajchla bez řádné parlamentní debaty
+
+Rajchl z toho vyvozuje: investice do F-35 a Leopardů je primárně v zájmu zbrojařů, nikoliv obrany ČR. Skutečná obrana by vyžadovala jiné priority (odolnost infrastruktury, zásoby, autonomní schopnosti).
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+
+---
+
+### Petr Pavel: kritická bilance čtyř let prezidentství — Rajchl (3. 5. 2026)
+
+Rajchl v FB live (3. 5. 2026) sestavil systematický seznam Pavlových kroků, které označuje za poškozování národního zájmu a suverenity ČR:
+
+1. **Ukradený notebook** — incident, který by pro jakéhokoliv jiného politika byl koncem kariéry; Pavel bez důsledků.
+2. **Trump „odporný člověk" a „poškodil NATO více než Putin"** — výroky, které dle Rajchla poškodily postavení ČR v alianční politice za vlády Trumpa.
+3. **Poděkování Bernd Posseltovi (2023)** — vedoucí Sudetoněmeckého Landsmannschaftu, organizace usilující o revizi Benešových dekretů; Pavel mu veřejně poděkoval na sjezdu.
+4. **Navrhoval zavedení eura (2024)** — ač 70 % Čechů euro odmítá.
+5. **Navrhoval zrušení práva veta ČR v EU (2025)** — ač veto je klíčovým ochranným nástrojem malé země.
+6. **Navrhoval vytvoření Spojených států evropských (2026)** — zánik suverenity ČR jako explicitní cíl.
+
+Rajchl shrnuje: Pavel systematicky pracuje na zániku suverenity ČR — od finančního systému (euro) přes rozhodovací pravomoci (veto) až po státnost (USE). Proto Rajchl oznámil, že nepůjde na summit NATO v Ankaře (na pozvání Babiše) — Pavel by tam přítomností podkopával diplomatické postavení Babiše a Macinky.
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)

@@ -474,6 +474,31 @@ Upozorňuje také na to, co ve vysílání popsala Jana Lorencová: na Ukrajině
 
 ---
 
+### Matthias Desmet: teorie Mass Formation — základ covidové poddajnosti (Rajchl a Vrabel, květen 2026)
+
+Rajchl (3. 5. 2026) i Vrabel (3. 5. 2026) nezávisle citují belgického psychologa Matthiase Desmeta a jeho teorii **Mass Formation** (hromadná formace), která vysvětluje, proč společnosti dobrovolně přijímají autoritářská opatření:
+
+**Čtyři podmínky vzniku mass formation:**
+1. **Osamělost a nedostatek sociálních vazeb** — moderní společnost je chronicky osamělejší než minulé generace
+2. **Bezmyšlenkovitá a nesmysluplná práce** — člověk nemá pocit, že jeho práce má hlubší smysl
+3. **Volně plovoucí úzkost** — neurčitý strach bez konkrétního objektu
+4. **Nalezení objektu** — politici nebo média nabídnou konkrétního nepřítele (virus, Putin, dezinformátor)
+5. **Řešení** — „vaccination saves lives", „stay home, save lives" apod. — úzkost dostane adresu a výzvu k akci
+
+Jakmile se mass formation ustaví, zasažená část populace (přibližně 20–30 %) je ochotna věřit čemukoli a podřídit se jakémukoliv opatření — i tehdy, když čísla nedávají smysl. Zbytek (cca 60 %) jde s proudem ze sociálního tlaku, i když sám pochybuje. Zbývajících 20 % odolává.
+
+Vrabel dodává, že masová formace vytváří totalitarismus: „20 % společnosti pohání totalitarismus. 60 % jde s proudem. 20 % odolává." Jedinou obranou je dle Desmeta mluvit pravdu upřímně a neustále — ne proto, že to změní zasažené 30 %, ale proto, že to drží živé vědomí zbývajících 20 %.
+
+Rajchl aplikuje teorii na COVID: vlády záměrně využily covidové obavy k upevnění moci — to nebyla náhoda, ale cílená strategie.
+
+> „Matthias Desmet říká, že se to vždy musí říkat. Protože to je jediná obrana. Když nepřestaneš mluvit, tak ještě existuje 20 % lidí, kteří nepodlehli." — Ladislav Vrabel
+
+⚡ **Poznámka:** Desmetova teorie Mass Formation je v akademické psychologii kontroverzní; kritici uvádějí, že ji aplikuje na události bez empirické verifikace.
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026), [Vrabel — Nedělní vysílání: svoboda slova, Mass Formation, EU, 3. 5. 2026](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)
+
+---
+
 ### Babíš obnovil covidové pracovníky ministerstva zdravotnictví — Zítko (1. 5. 2026)
 
 Zítko na COVID tour v Paloučku (1. 5. 2026) upozorňuje, že Babišova nová vláda dosadila zpět na ministerstvo zdravotnictví okruh lidí z éry covidových opatření — tedy ze stejné skupiny jako za vlád Prymuly a Arenbergera. Zítko to vnímá jako potvrzení, že personální kontinuita covidového aparátu přetrvává i přes změnu vlády.

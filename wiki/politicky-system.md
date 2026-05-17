@@ -235,3 +235,42 @@ Rajchl sdílí videoklip (70 tisíc zhlédnutí), v němž reportér testuje zna
 Rajchl záměrně staví video jako protiargument k tvrzení, že senioři by neměli chodit volit, protože jsou zaostalí nebo „ničemu nerozumí" — a ukazuje, že mladá generace nedisponuje ani základní historickou orientací.
 
 **Zdroje:** [Rajchl — Historický kvíz: znalosti moderních dějin, 2. 5. 2026](_zdroje.md#jindřich-rajchl--historický-kvíz-znalosti-moderních-dějin-2-5-2026)
+
+---
+
+## Ekonomický program PRO
+
+### Flat tax 15 %, DPH 15 %, adresné dluhopisy a státní obchodník s plynem — Rajchl (3. 5. 2026)
+
+Rajchl v FB live (3. 5. 2026) popsal konkrétní ekonomický program PRO, který označuje za protipól k EU „zelené transformaci" a válečné ekonomice:
+
+**Daňová reforma:**
+- **Flat tax 15 %** pro fyzické osoby — zjednodušení systému, snížení administrativní zátěže
+- **DPH 15 %** — unifikace sazeb na jednu hodnotu
+
+**Energetická suverenita:**
+- **Státní obchodník s plynem** — stát nakupuje plyn přímo od producentů (včetně Ruska) a prodává dál bez privátních zprostředkovatelů; analogie: Srbsko koupilo plyn od Putina přímou dohodou za ~50 % tržní ceny, ČR by mohla podobně
+
+**Financování infrastruktury:**
+- **Adresné dluhopisy 5 %** — stát nabídne občanům a firmám bonds vázané na konkrétní projekty (D3, Dukovany); výnos 5 % p.a., čímž se stát vyhne půjčování od zahraničních bank za vyšší úroky; ČR má 6 bilionů Kč nevyužitých úspor (3T u občanů, 3T u firem) — stát může čerpat z domácích zdrojů místo zahraničních
+
+**Zákon o strategických prioritách:**
+- Zrychlené povolování klíčových staveb (jaderné elektrárny, dálnice, strategická infrastruktura); na strategické priority nesmí žádný spolek blokovat stavby léta „kvůli mlokovi"
+
+**Zelená transformace:**
+- 3měsíční výpovědní lhůta pro „zelenáče" (green deal konzultanty a poradce) — Rajchl se zavazuje okamžitě ukončit závazky, které ČR přijala ve prospěch EU klimatické agendy na úkor průmyslu
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+
+---
+
+### Náklady na ukrajinskce pracovníky v ČR: 250 miliard Kč — Rajchl (3. 5. 2026)
+
+Rajchl polemizuje s ministrem Jurečkou (MPSV), který tvrdí, že Ukrainci v ČR jsou pro ekonomiku přínosem. Rajchl namítá, že Jurečkovy výpočty jsou chybné metodologicky:
+- Jurečka započítává jen daňové příjmy a DPH z výdajů (odhadované hodnoty), ale nezapočítává náklady na zdravotní péči, policii, hasiče a sociální dávky
+- Kiel Institut + NYT vypočetly, že ČR dosud vynaložila přibližně **250 miliard Kč** na podporu Ukrajinců v zemi (v kontrastu k deklarovaným přínosům)
+- Od roku 2022 přišlo do ČR celkem 404 000 Ukrajinců; v květnu 2026 jich pracuje přibližně 214 000 — zbytek nepracuje nebo již odešel
+
+Rajchl z toho vyvozuje: tvrzení, že „Ukrainci pomáhají naší ekonomice", je neúplné; reálné náklady jsou podstatně vyšší než uváděný příjem. Opakuje přitom svoji pozici: chápe zájem korporací (nižší mzdy), ale z pohledu českých zaměstnanců jde o hospodářskou soutěž, která snižuje mzdy.
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)

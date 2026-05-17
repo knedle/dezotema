@@ -201,3 +201,13 @@ Boldy zastává teorii, že elity záměrně vkládají své plány do filmů a 
 > „Proč nám to ukazujou? No, protože jich se potom karma netýká. Když nám ukáží pravdu, to, co bude přicházet, tak jich se karma vyjímá." — Boldy, [Facebook Live 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 
 **Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+
+---
+
+## Nová alternativní média
+
+### Vlny.cz — nový investigativní web (Rajchl, 3. 5. 2026)
+
+Rajchl v živém vysílání 3. května 2026 oznámil spuštění nového investigativního webu **Vlny.cz**. Stránku prezentoval jako platformu pro investigativní žurnalistiku nezávislou na mainstreamových médiích. Podrobnosti o redakci ani financování ve vysílání neuvedl.
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
