@@ -34,7 +34,9 @@
       "Bash(Move-Item \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\2026-04-20_Jindřich-Rajchl_Videoportál_1.txt\" \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\done\\\\\" && Move-Item \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\2026-04-21_Jindřich-Rajchl_Videoportál.txt\" \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\done\\\\\")",
       "Bash(Move-Item \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\2026-04-22_Jindřich-Rajchl_Videoportál.txt\" \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\done\\\\\" && Move-Item \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\2026-04-20_Československo-TV2_Videoportál.txt\" \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\done\\\\\")",
       "Bash(Move-Item \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\2026-04-21_Československo-TV2_Videoportál.txt\" \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\done\\\\\")",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(Get-Content \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\_zdroje.md\")",
+      "Bash(Measure-Object -Line)"
     ]
   }
 }

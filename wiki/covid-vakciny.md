@@ -544,3 +544,17 @@ Komentátor ČsTV2 tvrdí, že za čtyři roky (2022–2025) se v České republ
 ⚡ **Konflikt:** Pokles porodnosti je dokumentovaný demografický jev v ČR i jiných zemích, ale vědecký konsensus ho nepřičítá vakcínám.
 
 **Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+
+---
+
+## Hantavirus
+
+### Hantavirus: příznaky SARS, přenos člověk-člověk, Moderna připravena — Vrabel (10. 5. 2026)
+
+Vrabel ve vysílání 10. 5. 2026 upozorňuje na zpravodajství Deutsche Welle o nové vlně hantaviru. Hantavirus byl doposud znám jako přenášený hlodavci, avšak nová varianta dle reportáže DW vykazuje přenos z člověka na člověka. Příznaky jsou podobné covidu a SARS. Vrabel sdílí osobní příběh: příteli zemřel člověk za dva dny po propuknutí příznaků.
+
+Vrabel považuje za podezřelé, že Moderna již má připravenou vakcínu — analogicky s covidem, kde vakcíny existovaly dříve, než byl virus veřejně oznámen. Vrabel výslovně přirovnává situaci k počátkům covidové pandemie: média informují opatrně, ale riziko přenosu je dle DW reportáže přítomno.
+
+⚡ **Poznámka:** Vědecký konsensus k roku 2026 neklasifikuje hantavirus jako pandemické ohrožení srovnatelné s covidem; přenos člověk-člověk je u tradičních variant hantaviru výjimečný.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)

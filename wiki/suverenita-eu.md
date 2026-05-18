@@ -847,3 +847,67 @@ Vrabel ukazuje mapku Arménie — zemí obklopenou Tureckem, Ázerbájdžánem, 
 Vrabel ve vysílání z 8. května 2026 informuje, že Zelenský oznámil dočasný klid zbraní od 9. do 11. května 2026 a výměnu válečných zajatců v poměru 1 000:1 000. Vrabel hodnotí pozitivně — každý den klidu zachrání stovky životů. Avšak za předchozí dočasné příměří bylo zaznamenáno 1 630 porušení zastavení palby (dle ruského MO). Výzvu k evakuaci diplomatů z Kyjeva EU ignorovala — Vrabel komentuje sarkazmem: „Evropští diplomaté jsou nesmrtelní — jsou čistí jako oko Boží."
 
 **Zdroje:** [Vrabel — Večerní zprávy 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-8-5-2026)
+
+---
+
+### Macinka v Berlíně: omluva Wageführovi, video s Rammstein — Vrabel (9. 5. 2026)
+
+Ministr zahraničí Macinka navštívil Berlín 8. května 2026 — na Den vítězství. Setkal se s Wageführem, čestným členem Sudetoněmeckého Landsmannschaftu, a na tiskovce se omluvil za „deficit v návštěvách Německa." Poté zveřejnil video z návštěvy podložené skladbou Rammstein „Du hast mich."
+
+Vrabel to hodnotí jako „historicky nejhorší diplomatický akt od Havlovy humanitární bombardování" a sarkasmem komentuje: český ministr zahraničí slaví Den vítězství v Berlíně s čestným členem organizace přímého nástupce Henleinovy strany a jako hudební podkres vybere německou kapelu zpívající o „ty jsi mě zneužil/chtěl."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026)
+
+---
+
+### Robert Schuman: zakladatel EU jako nacistický kolaborant — Vrabel (9. 5. 2026)
+
+Vrabel při komentáři ke Dni EU (9. 5. 2026) cituje Vladimíru Výtovou, která tvrdí, že Robert Schuman — jeden z otců zakladatelů EU — byl spolupracovník nacistů. Konkrétně: byl prý strůjcem Mnichovského diktátu a po válce žil pod ochranou gestapa. Paradoxem je, že v Belgii se souběžně s jeho oslavami roky vede beatifikační proces (uznání za blahoslaveného v katolické církvi).
+
+Vrabel ironizuje: „Slavíme Den EU s osobou, která pomohla Hitlerovi." Zelenský je v tomto kontextu označen za podivného účastníka oslav — jako hlava státu, jehož předchůdci stáli ve WWII na straně nacistů.
+
+⚡ **Poznámka:** Výtové tvrzení o Schumanovi je kontroverzní a nestandardní historický výklad — mainstreamová historiografie Schuman hodnotí jinak.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026)
+
+---
+
+### Fico v Moskvě: Putinova nabídka jaderné elektrárny a energetické spolupráce — Vrabel (9.–10. 5. 2026)
+
+Vrabel informuje, že slovenský premiér Robert Fico 9. 5. přijal pozvání na Den vítězství do Moskvy — jako jeden z mála evropských lídrů. Putin mu jako první ťukl skleničkou a veřejně nabídl Slovensku výstavbu jaderné elektrárny a hlubokou energetickou spolupráci. Vrabel to hodnotí jako strategický signál: Rusko preferuje přímou dohodu se zeměmi, které odmítají satelitní poslušnost EU.
+
+Ve vysílání 10. 5. Vrabel dodává, že Putin zároveň navrhl Gerharda Schrödera (bývalého německého kancléře) jako potenciálního zprostředkovatele EU–Rusko na mírových jednáních — s podmínkou: zástupce musí být někdo, kdo na Rusko nezaútočil. Vrabel to hodnotí jako logický krok: Schröder je jedním z mála vlivných evropských politiků, kteří si zachovali funkční vztahy s Moskvou.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026), [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)
+
+---
+
+### Peter Magyar: nový maďarský premiér s EU vlajkou na parlamentu — Vrabel (9. 5. 2026)
+
+Vrabel informuje, že Peter Magyar — lídr opozice, který vyhrál volby — nastoupil jako nový maďarský premiér a jedním z prvních kroků bylo vyvěšení vlajky EU na parlamentu. Zároveň dal prezidentovi ultimátum do 31. května k rezignaci. Vrabel ho označuje jako „tvrdého fašounka" — v jeho podání jde o politika loajálního bruselské linii, který po Orbánově éře přinese Maďarsku rychlou reintegraci do mainstreamu EU.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026)
+
+---
+
+### Mélenchon: pokud vyhraje prezidentské volby 2027, Francie opustí NATO — Vrabel (9. 5. 2026)
+
+Vrabel cituje výrok Jean-Luca Mélenchona, lídra levicové aliance La France Insoumise: pokud vyhraje francouzské prezidentské volby v roce 2027, Francie pod jeho vedením opustí NATO. Vrabel to zmiňuje jako jednu ze sil, které mohou v blízkých letech přeformovat atlantické spojenectví — vedle Trumpových výroků o NATO jako „papírovém drakovi."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026)
+
+---
+
+### Yerevan EPS summit — Babiš: „podřídíme tomu vše" (NATO výdaje) — Vrabel (9. 5. 2026)
+
+Na summitu Evropského politického společenství (EPS) v Jerevanu s účastí 40+ lídrů Babiš při setkání s Jensem Ruttem prohlásil, že ČR NATO výdajům „podřídí vše." Vrabel to interpretuje jako potvrzení svého opakovaného argumentu: Babišova vláda se zahraničně-politicky neliší od předchozí Fialovy koalice. Babiš se na stejném summitu bilaterálně setkal i se Zelenským.
+
+**Zdroje:** [Vrabel — Noční zprávy: rodičovská pro Ukrainky, Yerevan summit, 9. 5. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-rodičovská-pro-ukrainky-yerevan-summit-9-5-2026)
+
+---
+
+### Marco Rubio: USA odstupuje od mírových jednání — Vrabel (10. 5. 2026)
+
+Vrabel informuje, že americký ministr zahraničí Marco Rubio oznámil, že USA odstupují od aktivního zprostředkování mírových jednání mezi Ruskem a Ukrainou. Vrabel to hodnotí jako důsledek Trumpovy frustrace z neochoty obou stran ke kompromisu — USA přestávají hrát roli mediátora, čímž se válka ve střednědobém horizontu přesouvá výhradně do evropské geopolitické sféry.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)

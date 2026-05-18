@@ -12,6 +12,26 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Hantavirus jako příští pandemie (10. 5. 2026)
+
+**Předpověď:** Vrabel na základě reportáže Deutsche Welle o hantaviru s přenosem člověk-člověk varuje, že jde o potenciální zárodek příští pandemie — srovnatelný s ranou fází covidu. Podezřelé je, že Moderna má vakcínu připravenou ještě před globálním rozšířením.
+
+**Horizont:** neurčeno (blízká budoucnost)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání: hantavirus, Macinka résumé, Rubio, 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)
+
+---
+
+### Jean-Luc Mélenchon — Francie opustí NATO po jeho vítězství v prezidentských volbách 2027 (9. 5. 2026)
+
+**Předpověď:** Mélenchon veřejně deklaroval, že pokud vyhraje francouzské prezidentské volby v roce 2027, Francie pod jeho vedením opustí NATO. Vrabel tento výrok cituje jako jeden ze signálů potenciálního rozpadu atlantického spojenectví.
+
+**Horizont:** po francouzských prezidentských volbách 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026)
+
+---
+
 ### Ladislav Vrabel — Příměří Zelenského 9–11. 5. 2026 jako taktický manévr (8. 5. 2026)
 
 **Předpověď:** Vrabel komentuje Zelenského avizované příměří (9–11. 5. 2026, vázané na výročí konce WWII) jako taktický manévr, nikoliv jako skutečný krok k míru. Predikuje, že příměří bude využito k repositinoningu sil a nebude mít trvalý efekt — válka bude pokračovat.

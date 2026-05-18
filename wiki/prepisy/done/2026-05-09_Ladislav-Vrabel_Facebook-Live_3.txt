@@ -1,0 +1,262 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/997123082794338
+Datum videa:  2026-05-09
+Zpracováno:   2026-05-10 19:16:37
+Jazyk:        cs
+Délka:        00:06:29
+Popis:        9. 5. 2026 Večerní zprávy s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    6s
+Přepis:       1m 42s
+Rychlost:     6.7x realtime
+Celkem:       1m 49s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Pro velký zájem o večerní zprávy, ještě jednou, po druhé a tentokrát snad se zvukem,
+[00:06] napište mi prosím vás v komentářích, jestli už máte dobrý zvuk, vyměnil jsem si mikrofon.
+[00:10] Tak vítám vás tady, usledování večerních zpráv, dneska je 9. května roku 2026.
+[00:16] Zuzko, ahoj, dobrý večer ti přeju.
+[00:18] Dobrý večer všem.
+[00:20] Tak a to, co jste neslyšeli, uslyšíte teďkon ještě jednou,
+[00:23] protože jste to neslyšeli tak vlastně poprvé.
+[00:25] Takže Zuzko, prosím, abychom začali s zprávami.
+[00:32] Začneme v Praze, kde se uskutečnil Festival dne vítězství.
+[00:38] Staroměstské náměstí ožilo historii.
+[00:40] Festival dne vítězství si připomněl 81. výročí osvobození Československa.
+[00:47] Akce na Staroměstském náměstí nabídla bohatý kulturní program
+[00:51] zaměřený na klíčové momenty druhé světové války.
+[00:56] Takže v Praze se stále...
+[00:57] ...slavil den vítězství a někde jinde se slavil asi den Evropy.
+[01:03] Tak k tomu se dostaneme za chviličku, k dně Evropy,
+[01:06] protože 9. května je taky den Evropy.
+[01:09] Ale mám tady ještě pro vás jednu...
+[01:11] Zvuk super, Ivan Slezák, Petra Stoklásková, už OK, děkuju.
+[01:16] Mám tady pro vás jednu věc, která mi vyrazila dech
+[01:19] asi před dvěma hodinami jsem se dozvěděl,
+[01:23] že Petr Macinka byl v Německu a jednal s čestným hostem,
+[01:28] co jde tu Německého holandz, Mannschaftu.
+[01:30] A udělal jsem vám tady k tomu video a řeknu vám, co se stalo.
+[01:34] 9. května je svátek výročí,
+[01:39] je to výročí, je to svátek konce druhé světové války,
+[01:43] kterou rozploutalo Německo a vedlo Německo.
+[01:48] Války, která stála 40 milionů životů.
+[01:54] A tuto, můžu poprosit o ticho, tady děkuju.
+[02:00] Tu válku, tuto tu válku, přátelé, vedli Němci.
+[02:06] Samozřejmě se k ním přidalo spousta dalších států,
+[02:09] ale prakticky se jednalo o válku Německa proti světu.
+[02:15] Náš minister zahraničních věcí 8. května,
+[02:20] to znamená v den výročí, který si připomínáme jako konec druhé světové války,
+[02:24] jel na oslavu do Německa.
+[02:29] Jenom, abyste tomu rozuměli.
+[02:31] A tam se setkal s ministrem VHD,
+[02:34] Vádefulem, myslím, že se jmenuje.
+[02:38] Vádeful, ano, Vádeful.
+[02:41] Který je čestným členem Sudeto-Německého Landsmannschaftu.
+[02:45] Politické organizace, která je vytvořena lidí,
+[02:51] kteří byli vyhnáni z České republiky,
+[02:53] protože kolaborovali za druhé světové války s Němcemi.
+[02:57] S Němci.
+[02:58] A Petr Macinka, náš minister zahraničních věcí,
+[03:00] nejenom Petr Macinka, ale minister zahraničních věcí České republiky,
+[03:04] v den výročí,
+[03:06] kdy v konce druhé světové války výtězství nad Německem
+[03:09] jel do Německa, kde si povídal s čestným členem,
+[03:13] s čestným hostem, ministrem Vádefulem,
+[03:17] Sudeto-Německého Landsmannschaftu.
+[03:20] A dneska, 9. května, když slaví Sovětský svaz výtězství,
+[03:24] Ruská federace, v podstatě celý svět,
+[03:26] protože oficiálně válka skončila až 9. května,
+[03:29] když přijeli Sověti, kdy je velká přelídka v Moskvě,
+[03:33] kdy si Sověti, Rusové,
+[03:36] připomínají, že položili 18 nebo kolik milionů životů,
+[03:44] tak tenhle ten den náš ministr zahraničních věcí,
+[03:48] místo toho, aby letěl do Ruské federace, do Moskvy,
+[03:52] poděkovat za to, že vůbec jsme naživo,
+[03:54] že nás vůbec zachránili Sověti od Němců,
+[04:00] tak si dal před asi třemi hodinami tohle video na svůj Facebook,
+[04:04] kde se ukazuje s ministrem Vádefulem,
+[04:07] který, jak říkáme, čestným hostem,
+[04:10] v sudetu německého lásmenčavstvu,
+[04:12] k tomu si pustil písničku,
+[04:15] tady asi to video,
+[04:18] aha, nech tomu písnička,
+[04:19] tak si vám stáhnu,
+[04:23] písnička od Rammstein,
+[04:24] Du hast, to znamená Máš mě,
+[04:30] v den konce druhé světové války,
+[04:32] v den vítězství nad Německem,
+[04:33] si ministr zahraničních věcí,
+[04:36] Petr Macinka, na svůj Facebook,
+[04:38] dal video z toho,
+[04:39] jak na oslavu konce druhé světové války
+[04:42] nad Německem,
+[04:43] do Německa, lézt do pozadí Němcům,
+[04:46] stetkal se tam s čestným hostem
+[04:50] v sudetu německého lásmenčavstvu
+[04:51] a na svůj Facebook si dal
+[04:52] oslavný video ze svojí návštěvy Německa
+[04:56] s německou písničkou Du hast.
+[05:00] Jestli si někdo dokáže představit
+[05:02] horší, něco horšího,
+[05:05] větší plivnutí do obliče všem obětem
+[05:08] a všem pozůstalým
+[05:10] po obětech druhé světové války,
+[05:14] jestli si někdo dokáže představit
+[05:15] něco horšího,
+[05:18] větší plivnutí do obliče vlastencům,
+[05:21] tak mi to prosím napište do komentáře,
+[05:23] protože pro mě je tohle to nejhorší,
+[05:25] co jsem zatím v naší politice viděl.
+[05:28] A to, že mu tam desetikysíce lidí dávají lajky
+[05:31] a píšou komentáře,
+[05:32] pane Macinko, vy jste skvělý,
+[05:33] ten Lipavský to byl tak špatný minister,
+[05:35] vy jste tak skvělý minister,
+[05:37] tak ty lidi, těm lidem bych doporučoval,
+[05:39] aby si zajeli do bohnic,
+[05:41] popovídat s nějakým lékařem,
+[05:44] protože to je situace,
+[05:46] která je opravdu na diagnozu,
+[05:49] to je opravdu na prášky.
+[05:51] Říkat českýmu ministrovi zahraničí,
+[05:53] že je skvělý,
+[05:55] když v den oslavy
+[05:56] konce druhé světové války
+[05:57] vítězství nad fašistickým Německem,
+[06:00] náš minister zahraničních věcí jede do Německa,
+[06:03] povídá si tam s čestným hostem
+[06:05] Sudeto Německého Landsmannschaftu
+[06:07] a dává na svůj Facebook
+[06:08] oslavný video s německou písničkou
+[06:11] Máš mě?
+[06:14] a říká, že bude příští rok oslavovat
+[06:16] česko-německou deklaraci.
+[06:18] Víc k tomu neřeknu,
+[06:20] pojďme prosím na další zprávy.
+[06:26] Ruský prezident Vladimír Putin
+[06:28] se v Kremlu setkal
+[06:30] se slovenským premiérem Robertem Ficem,
+[06:32] který přijel do vlády
+[06:34] na oslavěné většiny.
+[06:35] Za tržstvo pravdy i spravedlivosti,
+[06:38] za družbu
+[06:39] i procvětání stran i narodů.
+[06:42] S prázdníkem vás,
+[06:43] děkuji, děkuji.
+[06:45] S ním, pojďte.
+[06:50] Ruský prezident také uvedl,
+[06:54] že Moskva je připravená
+[06:56] pokračovat ve spolupraci
+[06:57] se slovenském oblasti energetiky
+[07:00] a dodávek surovin.
+[07:02] Robert Fico při návštěvě
+[07:03] podle svých slov zmínil,
+[07:05] že jeho účast je výrazem úcty
+[07:07] k obětem druhé světové války.
+[07:10] Zároveň odmítl
+[07:11] podle něj stresovaní
+[07:12] z prvních faktů
+[07:13] a upozorňovala zvolšující se
+[07:16] mezinárodní napětí v Evropě.
+[07:19] Tak, zeptám se,
+[07:20] slyšela jsi ozvěnu teď,
+[07:21] když jsi neslyšela si ozvěnu?
+[07:23] Mě naskočilo ozvěnu?
+[07:25] Ok, tak to je jenom v mém uchu,
+[07:26] že tady má monitor dvakrát.
+[07:27] To je naopak velmi pozitivní zpráva
+[07:30] pro Roberta Fica.
+[07:32] Víte, že ne vždycky chválím Roberta Fica,
+[07:34] ale v tomhle případě je potřeba
+[07:37] opravdu říct, že pro svůj národ
+[07:38] něco udělal.
+[07:40] A všimněte si, tady v tom videu,
+[07:44] kde...
+[07:45] ...
+[07:45] ...
+[07:46] ...
+[07:46] ...
+[07:47] ...
+[07:49] ...
+[07:50] A všimněte si, komu přičukne
+[07:58] jako prvnímu.
+[08:00] Roberto Ficovi.
+[08:07] To je...
+[08:08] To je velmi...
+[08:10] To bych řekl, to je velmi zásadní věc,
+[08:13] že malý Slovensko
+[08:14] zastává najednou takhle významnou roli
+[08:16] na oslavě
+[08:18] konce druhé světové války,
+[08:20] zatímco náš minister zahraničních
+[08:23] věcí
+[08:24] jede do Německa,
+[08:25] se setkat
+[08:26] s čestným hostem
+[08:28] sudeto německého landsmanšaftu,
+[08:30] tak tlovenský premiér
+[08:31] jede na návštěvu do Moskvy na oslavu
+[08:34] a tam prezident Ruský federace
+[08:36] první připíji Roberto Ficovi.
+[08:38] Nemám k tomu dál, co bych řekl.
+[08:40] Každý, jak si to posoudí sám.
+[08:45] OK, pojďme dál, Zuzko. Pojďme dál.
+[08:47] Dneska máme vítězství,
+[08:49] tak je potřeba...
+[08:50] Dneska máme vítězství, takže je potřeba...
+[08:52] Dneska je potřeba být veselý.
+[08:54] Ale ten Macinka, abych vám řekl pravdu,
+[08:56] úplně zničil, úplně zničil
+[08:59] náladu.
+[09:01] Ale OK. Tak, už jsem ho vypnul.
+[09:53] Tak, omluvám se, snažil jsem se
+[09:55] tady trošku vyštělovat Zuzce zvuk,
+[09:57] ale bohužel se mi to úplně
+[09:59] nepovedlo.
+[10:01] Ne, nepovedlo. Zkusím to ještě jednou
+[10:03] přepnout.
+[10:05] Snad nám to naskočí teďkon
+[10:07] ten zvuk.
+[10:11] Zuzka není slyšet.
+[10:12] Zase neslyším Zuzku. Zuzku jste vypnul.
+[10:15] Omluvám se.
+[10:15] Omluvám se.
+[10:16] A co jsou ty?
+[10:21] Ta technika zlobí.
+[10:23] Dneska nás ta technika opravdu zlobí.
+[10:25] Tak, teď už budete určitě Zuzku slyšet.
+[10:28] Můžeš zkusit Zuzko ještě jednou
+[10:30] prosím tě přečíst právu.
+[10:32] Jo.
+[10:40] Ruský prezident Vladimir Putin vystoupil
+[10:43] na slavnostní vojenské přehledy
+[10:45] na náměstí u příležitosti na vítězství.
+[10:48] Ve svém projevu zbýval
+[10:49] zničit úrazně sovětský zvědčí
+[10:51] a zachránil.
+[10:53] Není nám to, nefunguje nám to.
+[10:55] Ne.
+[10:55] Úplně se nám rozbil zvuk.
+[10:58] Úplně se nám rozbil zvuk
+[11:00] s tím videem.
+[11:02] Ozvěna.
+[11:04] Mrcinka nám rozbil zvuk s videem.
+[11:08] Odjel do Německa a rozbil nám všechno.
+[11:11] Je tam ozvěna.
+[11:13] Ok, omluvám se,
+[11:15] ale budeme muset vypnout
+[11:16] a zapnout znova.
+[11:17] Takže za dvě vteřinky,
+[11:20] za dvě minutky prostě naskočíme znova
+[11:22] a budeme pokračovat ve zprávách.
+[11:24] Omluvám se,
+[11:25] ale Mrcinka nám prostě rozbil

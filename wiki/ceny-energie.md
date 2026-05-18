@@ -212,6 +212,18 @@ Vrabel předpovídá, že hladomor zejména v Africe a jihovýchodní Asii poved
 
 ## Větrná energie
 
+### Větrné elektrárny: akcelerační zóny na bonitní půdě a skryté chráněné oblasti — Rajchl (11. 5. 2026)
+
+Rajchl ve videu z 11. 5. 2026 (interview s Ivanem Noveským a Hynkem Beranem v poslanecké sněmovně při semináři o dolech) upozorňuje na nový vládní návrh: akcelerační zóny pro větrné elektrárny mají být umístěny na bonitní zemědělské půdě — nejkvalitnější orné půdě v ČR. Zároveň zóny fakticky zakrývají chráněná krajinná území, která se v mapách do nich „schovala" (konkrétně zmíněn Blaník a Říp).
+
+Větrníky by mohly pokrýt jen cca **5 z 15–20 miliard kWh** ročně — tedy zhruba třetinu výkonu odstavovaných uhelných elektráren, nikoliv jejich náhradu. Rajchl to označuje za „zločinný nesmysl": ničíme krajinu, vytváříme energetickou závislost a nezískáme soběstačnost. SPD a PRO se zavázaly proti návrhu bojovat.
+
+Veřejnost může podávat připomínky: **obce do 15. 5. 2026**, ostatní subjekty do **1. 6. 2026**. Mapy s vyznačenými zónami jsou k dispozici na stránkách Ministerstva průmyslu a obchodu (MPO) a Ministerstva pro místní rozvoj (MMR).
+
+**Zdroje:** [Rajchl — Větrné elektrárny: akcelerační zóny, 11. 5. 2026](_zdroje.md#jindřich-rajchl--větrné-elektrárny-akcelerační-zóny-11-5-2026)
+
+---
+
 ### Francie: moratorium na větrné elektrárny, Montpellier soud — Rajchl (6. 5. 2026)
 
 Rajchl ve videu 6. 5. 2026 upozorňuje na celosvětový obrat vůči větrné energetice:

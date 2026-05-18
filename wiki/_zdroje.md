@@ -1162,3 +1162,48 @@
 - **Délka:** 1:07:26
 - **Poznámka:** Večerní zprávy na výročí konce WWII. Témata: Zelenský: výměna 1 000 zajatců + příměří 9–11. 5.; NATO summit Pavel vs. Babiš jako „narativní distrakce" — oba slouží NATO; Macinka Berlin — Posselt podcenil reakci, dialog pokračuje; USA image pod Ruskem (Alliance for Democracy průzkum); Čína jako „vyspělá civilizace" v globální politice; Trump — dominance v západní polokouli, boj s Čínou; média jako příběhy dobra a zla (rozdělování společnosti).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě (9. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-09_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/27039500419003107>
+- **Datum záznamu:** 2026-05-09
+- **Délka:** 0:43:12
+- **Poznámka:** Večerní zprávy. Témata: Macinka v Berlíně 8. 5. — setkal se s Wageführem (čestný člen Sudetoněmeckého landsmannschaftu), omluvil se za „deficit v návštěvách Německa", zveřejnil video s Rammstein „Du hast mich" = „historicky nejhorší diplomatický akt od Havlovy humanitární bombardování"; Fico v Moskvě — Putin nabídl jadernou elektrárnu Slovensku + energetickou spolupráci; Putinův projev ke Dni vítězství: „Vyhráli jsme WWII, vyhrajeme i tuto válku"; EU Den — Robert Schuman dle Vladimíry Výtové byl spolupracovník nacistů (strůjce Mnichovského diktátu, žil pod ochranou gestapa, zahájena beatifikace); Zelenský slaví EU den jako hlava státu spojeného ve WWII s nacisty; Peter Magyar (nový maďarský PM): vlajka EU na parlamentu, ultimátum prezidentovi do 31. 5.; Mélenchon: Francie opustí NATO (prezidentské volby 2027); Venezuela vydala 13,5 kg obohaceného uranu USA (Írán ne); česká policie chránila Ukraince útočícího na Čecha kvůli fašistickému symbolu.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Noční zprávy: rodičovská pro Ukrainky, Yerevan summit (9. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-09_Ladislav-Vrabel_Facebook-Live_2.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/979679361444923>
+- **Datum záznamu:** 2026-05-09
+- **Délka:** 0:11:28
+- **Poznámka:** Půlnoční zprávy. Témata: experti Daniel Prokop + Daniel Hulé (Člověk v tísni) navrhují rodičovskou dovolenou pro Ukrainky v ČR ke zvýšení natality; Aspen Institute — Babiš jmenoval jeho člen za odborníka na NATO komunikaci; Petr Pavel + finský prezident Stubb — diskuse o evropské obraně; Yerevan EPS summit — 40+ lídrů; Babiš Rutte: „podřídíme tomu vše" (NATO výdaje); Babiš bilaterálně se Zelenským; Trump vs. Merz — USA stahuje 5 000 vojáků z Německa do Polska/Rumunska.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání: hantavirus, Macinka résumé, Rubio (10. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-10_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1334797985173232>
+- **Datum záznamu:** 2026-05-10
+- **Délka:** 1:47:00 (cca)
+- **Poznámka:** Nedělní dlouhé vysílání. Témata: hantavirus — Deutsche Welle, přenos člověk-člověk, Moderna má vakcínu (podezřelé), Vrabelův příběh o příteli zemřelém za 2 dny, srovnání s covidem; Macinka v Německu résumé + detailní analýza; Fico v Moskvě — Putin navrhl Gerharda Schrödera jako zprostředkovatele EU; Putinův projev ke Dni vítězství; Marco Rubio: USA odstupuje od mírových jednání; Rajchlův skandál s falešnými sledujícími (Facebook smazal: 100k→35k, Instagram ~8k); Ukraina mobilizace — TCK, falešné invalidní průkazy, seznamy Ukrajinců na Západě; 400 tisíc mladých Ukrajinců (18–24) odešlo přes „dočasnou ochranu" na Západ — plán zařadit je do evropské armády; demonstrace na Staroměstském náměstí 9. 5.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Větrné elektrárny: akcelerační zóny (11. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-11_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/25772027702474066>
+- **Datum záznamu:** 2026-05-11
+- **Délka:** 0:05:25
+- **Poznámka:** Interview s Ivanem Noveským a Hynkem Beranem v poslanecké sněmovně při semináři o dolech. Větrné elektrárny v akceleračních zónách umístěny na bonitní zemědělské půdě; zóny skrývají chráněné krajinné prvky (Blaník, Říp). Větrníky pokryjí jen 5 z 15–20 mld. kWh (1/3 výkonu uhlí). Rajchl: „zločinný nesmysl." Termíny pro veřejnost: obce do 15. 5., ostatní do 1. 6. Mapy: MPO + MMR.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Demetrashvili debata: diplomacie a Pavlovo selhání (12. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-12_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/964850299481887>
+- **Datum záznamu:** 2026-05-12
+- **Délka:** 0:01:38 | Zhlédnutí: 129 872
+- **Poznámka:** Střih z debaty s Demetrashvilim. Rajchl: 4 roky zbraní a peněz = „zlaté bidety v Kyjevě"; válka „fakticky rozhodnutá"; diplomatická cesta jako jediný záchrana. Petr Pavel: nazval Trumpa „odpudivá lidská bytost" + „poškodil NATO více než Putin" → nemůže zastupovat ČR na NATO summitu.
+- **Zpracováno:** ano

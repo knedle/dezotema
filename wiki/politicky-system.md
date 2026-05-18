@@ -290,3 +290,39 @@ Vrabel ve vysílání 7. 5. 2026 komentuje rozhodnutí České republiky navýš
 Vrabel v komentáři ke sporu o účast na summitu NATO (8. 5. 2026) odmítá interpretaci konfliktu mezi prezidentem Pavlem a premiérem Babišem jako skutečného politického střetu. Oba politiky označuje za „hráče na stejné straně": oba slouží NATO a atlantickým strukturám, debata o tom, kdo pojede na summit, je záměrnou mediální distrakcí zakrývající, že pro výsledek summitu nezáleží na tom, zda ČR zastupuje Pavel nebo Babiš — oba by prosazovali identické pozice. Vrabel tak popírá, že volba Babišovy vlády přinesla skutečnou změnu zahraničně-politické orientace.
 
 **Zdroje:** [Vrabel — Večerní zprávy: příměří, NATO summit, WWII, 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-wwii-8-5-2026)
+
+---
+
+### Rajchl: 4 roky zbraní = „zlaté bidety v Kyjevě", válka fakticky rozhodnutá — Rajchl (12. 5. 2026)
+
+V krátkém střihu z debaty s Demetrashvilim Rajchl shrnuje svou pozici k válce na Ukraině: čtyři roky zasílání zbraní a finančních prostředků přinesly jen „zlaté bidety v Kyjevě" — korupci a neefektivitu, nikoliv vítězství. Válka je dle jeho názoru „fakticky rozhodnutá" a diplomatická cesta je jedinou možností, jak dosáhnout míru.
+
+Navazuje kritikou prezidenta Petra Pavla: ten označil Trumpa za „odpudivou lidskou bytost" a prohlásil, že „poškodil NATO více než Putin." Rajchl hodnotí, že takový politik nemůže zastupovat ČR na summitu NATO — protože komunikace s druhými stranami jednání vyžaduje důvěryhodnost, nikoliv urážky.
+
+**Zdroje:** [Rajchl — Demetrashvili debata: diplomacie a Pavlovo selhání, 12. 5. 2026](_zdroje.md#jindřich-rajchl--demetrashvili-debata-diplomacie-a-pavlovo-selhání-12-5-2026)
+
+---
+
+### Rodičovská pro Ukrainky jako řešení natality — kritika Vrabel (9. 5. 2026)
+
+Experti Daniel Prokop (sociolog) a Daniel Hulé (Člověk v tísni) navrhli udělení rodičovské dovolené ukrajinským ženám v ČR jako způsob, jak zvýšit českou natalitu. Vrabel návrh komentuje sarkasticky: „Jdi mít děti na Ukraině, proč bych je měl mít tady?" a označuje ho za nepřijatelnou prioritizaci cizích občanek na úkor Češek.
+
+**Zdroje:** [Vrabel — Noční zprávy: rodičovská pro Ukrainky, Yerevan summit, 9. 5. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-rodičovská-pro-ukrainky-yerevan-summit-9-5-2026)
+
+---
+
+### Rajchlův skandál s falešnými sledujícími — Vrabel (10. 5. 2026)
+
+Vrabel ve vysílání 10. 5. 2026 informuje, že Facebook smazal Rajchlovi falešné sledující: jeho stránka klesla z přibližně 100 tisíc na 35 tisíc fanoušků a Instagram z neznámého počtu na přibližně 8 tisíc. Vrabel to komentuje kriticky — nakupování sledujících považuje za podvod na vlastním publiku.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)
+
+---
+
+### 400 tisíc mladých Ukrajinců na Západě jako zárodek evropské armády — Vrabel (10. 5. 2026)
+
+Vrabel tvrdí, že přibližně 400 tisíc mladých Ukrajinců ve věku 18–24 let odešlo na západ Evropy přes schéma „dočasné ochrany." Dle jeho interpretace to není náhoda — jde o záměrný plán, jak tuto skupinu integrovat do budoucí evropské armády, místo aby byla nasazena na frontě. Ukrajina tak dle Vrabela vyměnila možné vojáky za diplomatický kapitál v jednáních s EU.
+
+Souběžně zmiňuje mobilizační krizi na Ukraině: zprávy o jednotkách TCK (Územní centrum doplňování), falšování invalidních průkazů a existenci seznamů Ukrajinců v zahraničí, které by mohly být použity k organizaci jejich návratu.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)
