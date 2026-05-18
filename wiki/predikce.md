@@ -12,6 +12,26 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Příměří Zelenského 9–11. 5. 2026 jako taktický manévr (8. 5. 2026)
+
+**Předpověď:** Vrabel komentuje Zelenského avizované příměří (9–11. 5. 2026, vázané na výročí konce WWII) jako taktický manévr, nikoliv jako skutečný krok k míru. Predikuje, že příměří bude využito k repositinoningu sil a nebude mít trvalý efekt — válka bude pokračovat.
+
+**Horizont:** 9–11. 5. 2026 a bezprostředně poté
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy: příměří, NATO summit, WWII, 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-wwii-8-5-2026)
+
+---
+
+### Ladislav Vrabel — Eskalace v Íránu: třetí fáze přeroste v regionální válku (7. 5. 2026)
+
+**Předpověď:** Vrabel označuje útoky USA na ostrovy Qešm a Bandar Abbas a na oblast Hormuzského průlivu za „třetí fázi" konfliktu v Íránu, z níž hrozí přerůst v plnohodnotnou válku na Středním východě. Predikuje, že uzavření Hormuzského průlivu způsobí globální ropnou krizi a navazující potravinovou krizi (kvůli výpadku hnojiv závislých na fosilních palivech).
+
+**Horizont:** v průběhu roku 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy: Írán, dluhová brzda, Medvedev, 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+---
+
 ### Valerij Zalužný — Potomci budou bojovat za znovu-dobytí obsazených území (29. 4. 2026)
 
 **Předpověď:** Exvelitel ukrajinských ozbrojených sil Valerij Zalužný prohlásil, že přiměje syna složit přísahu, že po něm dobyde zpět území nyní obsazená Ruskem. Vrabel toto cituje jako indikátor, že část Ukrainy realisticky počítá s tím, že obsazená území se nevrátí v krátkodobém horizontu — a válka přejde do generační perspektivy.

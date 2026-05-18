@@ -1127,3 +1127,38 @@
 - **Délka:** 0:10:27
 - **Poznámka:** Kratší video — titulek „Jdi do prv Fialo" (Fiala řekl opozici ať jde). Témata: Trump Freedom project — kompletní 3denní timeline; plný text 8-odstavcové SPD rezoluce (vyzdvihuje 1997 deklaraci, oceňuje česko-německé vztahy… „vyzývá Meeting Brno a Landsmannschaft aby upustili od sjezdu" — Vrabel: „Konec. To je to nejtvrdší"); Vrabel: Landsmannschaft musí být prohlášen za extremistickou organizaci a zakázán, jinak je vše jen divadlo; hnojiva: amoniak/močovina blokována → 30 % globální deficit; 12× L-39 a L-410 z Aerovodochody do Kazachstánu/Ázerbájdžánu za ropu/uran.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Odpověď Posseltovi: „v Evropě není většího pokrytce" (7. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-07_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1295043215380452>
+- **Datum záznamu:** 2026-05-07
+- **Délka:** 0:02:10
+- **Zpracováno:** ano
+
+## Československo TV2 — Večerník 7. 5. 2026 (7. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-07_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=4286704798306382&_rdr>
+- **Datum záznamu:** 2026-05-07
+- **Délka:** 0:52:48
+- **Poznámka:** Večerní vysílání ČsTV2. Témata: Bratislavská konference 5/5 (Fischer, Peková, Hrušovský, Turánek, First, Žaloudík) — COVID jako zorganizovaný podvod; Holandský soud: mRNA vakcíny = biologické zbraně (Stassen vs. Gates/Bourla/Rutte); Francis Boyle čestné prohlášení + smrt po souhlasu se svědectvím; pokles porodnosti 35 tis./rok přičítán vakcínám; ČT porušuje zákon od 12. 3. 2020 — kampaň za vrácení poplatků; Bitcoin kauza: Blažek/Daňhel/Tyc — 100+ mld. CZK, desítky podezřelých, 9 trestných činů; Odessa 2. 5. 2014; Rainer Fuellmich (pozdravy z ČSR); chemtrails RFK Jr.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: Írán, dluhová brzda, Medvedev (7. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-07_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2225545801590855>
+- **Datum záznamu:** 2026-05-07
+- **Délka:** 1:12:16
+- **Poznámka:** Večerní zprávy. Témata: USA útočí na Írán — Qešm + Bandar Abbas + Hormuz (3. fáze); Izrael útočí na Libanon 12 mrtvých; dluhová brzda prolamována pro NATO 5 %; Merz/Blackrock — Německo jako vzor; Sudetenland sjezd = záměrná mlha; Česko-německá deklarace 1997 = podvod (válečné reparace); Macinka Berlin 8. 5.; Medvedev: pre-emptivní útok na Evropu; Armenia NATO; Project Freedom zastaven (Saudská Arábie/Kuvajt); Trump strategie — ovládnout západní hemisféru, Bretton Woods; Rusko varuje diplomaty, Zelenský plánuje útok na Moskvu 9. 5.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy: příměří, NATO summit, WWII (8. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-08_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1788855025410727>
+- **Datum záznamu:** 2026-05-08
+- **Délka:** 1:07:26
+- **Poznámka:** Večerní zprávy na výročí konce WWII. Témata: Zelenský: výměna 1 000 zajatců + příměří 9–11. 5.; NATO summit Pavel vs. Babiš jako „narativní distrakce" — oba slouží NATO; Macinka Berlin — Posselt podcenil reakci, dialog pokračuje; USA image pod Ruskem (Alliance for Democracy průzkum); Čína jako „vyspělá civilizace" v globální politice; Trump — dominance v západní polokouli, boj s Čínou; média jako příběhy dobra a zla (rozdělování společnosti).
+- **Zpracováno:** ano

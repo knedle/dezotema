@@ -274,3 +274,19 @@ Rajchl polemizuje s ministrem Jurečkou (MPSV), který tvrdí, že Ukrainci v Č
 Rajchl z toho vyvozuje: tvrzení, že „Ukrainci pomáhají naší ekonomice", je neúplné; reálné náklady jsou podstatně vyšší než uváděný příjem. Opakuje přitom svoji pozici: chápe zájem korporací (nižší mzdy), ale z pohledu českých zaměstnanců jde o hospodářskou soutěž, která snižuje mzdy.
 
 **Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+
+---
+
+### Česká dluhová brzda prolomena kvůli NATO 5 % — Vrabel (7. 5. 2026)
+
+Vrabel ve vysílání 7. 5. 2026 komentuje rozhodnutí České republiky navýšit výdaje na obranu na 5 % HDP. Poukazuje na to, že ČR kopíruje německý vzor: Merz a koaliční partneři dohodli mimořádný fond mimo běžný rozpočet, čímž fakticky obešli ústavní dluhovou brzdu. Babišova vláda plánuje podobný způsob navýšení vojenských výdajů — formálně neporušit, ale fakticky obejít fiskální pravidla. Vrabel to hodnotí jako souběh NATO tlaku, zájmů zbrojního průmyslu a opuštění původních předvolební slibů o nepřekračování fiskálních limitů.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, dluhová brzda, Medvedev, 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+---
+
+### NATO summit: Pavel vs. Babiš jako falešná narativní distrakce — Vrabel (8. 5. 2026)
+
+Vrabel v komentáři ke sporu o účast na summitu NATO (8. 5. 2026) odmítá interpretaci konfliktu mezi prezidentem Pavlem a premiérem Babišem jako skutečného politického střetu. Oba politiky označuje za „hráče na stejné straně": oba slouží NATO a atlantickým strukturám, debata o tom, kdo pojede na summit, je záměrnou mediální distrakcí zakrývající, že pro výsledek summitu nezáleží na tom, zda ČR zastupuje Pavel nebo Babiš — oba by prosazovali identické pozice. Vrabel tak popírá, že volba Babišovy vlády přinesla skutečnou změnu zahraničně-politické orientace.
+
+**Zdroje:** [Vrabel — Večerní zprávy: příměří, NATO summit, WWII, 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-wwii-8-5-2026)

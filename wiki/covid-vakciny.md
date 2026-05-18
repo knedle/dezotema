@@ -512,3 +512,35 @@ Zítko na COVID tour v Paloučku (1. 5. 2026) upozorňuje, že Babišova nová v
 Zítko ve vysílání 4. 5. 2026 odkazuje na místopřísežné prohlášení profesora Francise Boyla (University of Illinois), autora amerického zákona o zbraních hromadného ničení z roku 1989 (Biological Weapons Anti-Terrorism Act). Boyle v prohlášení označil injekce COVID-19 za biologické zbraně hromadného ničení a toto prohlášení podepsal. Zítko argumentuje, že Boylova odborná pozice — byl autorem samotného zákona definujícího biologické zbraně — dává prohlášení zvláštní právní váhu.
 
 **Zdroje:** [Zítko — Platit či neplatit: zákon 483/1991 a Boyle, 4. 5. 2026](_zdroje.md#pavel-zítko--platit-či-neplatit-zákon-4831991-a-boyle-4-5-2026)
+
+---
+
+### Holandský soud: mRNA vakcíny označeny za biologické zbraně — ČsTV2 (7. 5. 2026)
+
+ČsTV2 ve vysílání 7. 5. 2026 cituje soudní případ vedený advokátem Pietrem Stassenem v Nizozemsku. Soud prý poprvé v historii projednává svědectví, že mRNA vakcíny jsou biologické zbraně, nikoliv léky. Žalovaní jsou Bill Gates, Albert Bourla (ředitel Pfizer) a Mark Rutte (former premiér Holandska, nyní generální tajemník NATO). Soud prý nařídil Gatesovi a Bourlovi, aby se dostavili a odpověděli.
+
+Francis Boyle — odborník na biologické zbraně, autor amerického zákona — podal dle ČsTV2 čestné prohlášení, v němž nazval covidové injekce „syntetickými biologickými zbraněmi" pocházejícími z programů DARPA/Pentagon, navržených k masivnímu zranění a v některých případech ke smrti. Po souhlasu se svědectvím byl dle komentátora ČsTV2 „nalezen mrtvý" — Boyle je interpretuje jako záměrné umlčení. Jeho prohlášení je dle ČsTV2 uloženo jako soudní důkaz i u soudu v Chomutově.
+
+⚡ **Konflikt:** Smrtelnost Boyla (zemřel v červnu 2025) ČsTV2 interpretuje jako podezřelou smrt; vědecký konsensus i regulační orgány hodnotí mRNA vakcíny jako bezpečné a účinné léky.
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+
+---
+
+### Bratislavská konference 5. 5. 2026: experti na COVID — ČsTV2 (7. 5. 2026)
+
+ČsTV2 informoval o konferenci konané 5. 5. 2026 v areálu Bratislavského hradu, svolané prof. Williamem Fischerem (autor první transplantace srdce na Slovensku). Účastnili se mj.: prof. Štefan Hrušovský, prof. Jaroslav Turánek, statistik Tomáš First, prof. Jan Žaloudík (přítomna jeho prezentace) a Dr. Soňa Peková. Dle komentátora ČsTV2 žádný z „aktérů" (zdravotní úřady, ministr zdravotnictví Lengvarský, Mikas) na konferenci nedorazil.
+
+Za českou stranu vystupovala Dr. Soňa Peková, jejíž projev byl dle ČsTV2 oceněn „největším aplauzem."
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+
+---
+
+### Pokles porodnosti o 35 tisíc dětí ročně přičítán vakcínám — ČsTV2 (7. 5. 2026)
+
+Komentátor ČsTV2 tvrdí, že za čtyři roky (2022–2025) se v České republice narodilo o 35 tisíc dětí ročně méně než v roce 2021. Příčinu přičítá sníženému reprodukčnímu výkonu očkovaných žen — odvolává se na data ÚZISu z vzorku 1,3 milionu žen dle očkovacího statusu, která prý byla poskytnuta i administrativě Donalda Trumpa. Komentátor to označuje za „ojedinělý důkaz, který máme v korporaci Česko."
+
+⚡ **Konflikt:** Pokles porodnosti je dokumentovaný demografický jev v ČR i jiných zemích, ale vědecký konsensus ho nepřičítá vakcínám.
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)

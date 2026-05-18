@@ -767,3 +767,83 @@ Ukraina navíc vypálila raketu s doletem **přes 1 000 km** na cíl uvnitř Rus
 Vrabel to hodnotí jako zásadní eskalaci — válka se fyzicky přesouvá na ruské území, přičemž USA schválily pro Ukrainu přesné bomby J-DAM v hodnotě 374 mil. USD.
 
 **Zdroje:** [Vrabel — Večerní zprávy: hotovost, Sudetoněmecký, Hormuz, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-hotovost-sudetoněmecký-hormuz-6-5-2026)
+
+---
+
+### Rajchl odpovídá Posseltovi: „v Evropě není většího pokrytce" (7. 5. 2026)
+
+Bernd Posselt, předseda Sudetoněmeckého Landsmannschaftu, reagoval na hlasování v poslanecké sněmovně o sjezdu v Brně a označil poslance klubu SPD — včetně Rajchla — za pokrytce. Rajchl mu odpověděl krátkým videem: Posselt je dle jeho názoru největším pokrytcem a lhářem v Evropě.
+
+Rajchl odmítá Posseltovo tvrzení, že mu nyní jde o smíření a nikoliv o revizi Benešových dekretů. Poukazuje na Posseltovy dřívější výroky, v nichž dekrety označil za „virus, který je třeba vymítit" a „zombí, které je třeba pohřbít", a prohlásil, že ve snaze je prolomit „nikdy neustane." Rajchl tvrdí, že Posselt pouze „změnil taktiku a nastavil hezčí tvář."
+
+> „Nevážený pane Posselte, v Evropě není většího pokrytce a lháře nežte vy." — Jindřich Rajchl, [Odpověď Posseltovi, 7. 5. 2026](_zdroje.md#jindřich-rajchl--odpověď-posseltovi-7-5-2026)
+
+> „Vy jste pouze změnil taktiku a nastavil jste nám hezčí tvář, abychom vám uvěřili." — Jindřich Rajchl
+
+Rajchl vyzývá, aby organizace — jako přímý nástupce Konrada Henleinovy strany, která způsobila „nezměrné utrpení" — do ČR nejezdila.
+
+**Zdroje:** [Rajchl — Odpověď Posseltovi, 7. 5. 2026](_zdroje.md#jindřich-rajchl--odpověď-posseltovi-7-5-2026)
+
+---
+
+### Sudetenland sjezd jako „záměrná mlha" — Vrabel (7. 5. 2026)
+
+Vrabel ve vysílání ze 7. května 2026 označil veškerý mediální hluk kolem Sudetoněmeckého sjezdu za záměrné odvádění pozornosti od skutečné politiky vlády: „Ten celý příběh o Landsmannschaftu je jenom strašná mlha, abyste koukali někam jinam a neviděli, co dělá ta vláda" — konkrétně prolamuje dluhovou brzdu a zadlužuje ČR pro zbrojení do NATO.
+
+**Zdroje:** [Vrabel — Večerní zprávy 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+---
+
+### Macinka v Berlíně: Posselt „podcenil reakci" — dialog pokračuje — Vrabel (8. 5. 2026)
+
+Ministr zahraničí Petr Macinka navštívil 8. května 2026 Berlín a podepsal memorandum o pokračování Česko-německého fondu budoucnosti do roku 2037. Jako komentář k sjezdu v Brně řekl pouze, že Posselt „podcenil reakci, kterou sjezd vyvolal" a „nezvolil vhodného partnera" (Meeting Brno je dle Macinky pro toto téma „nedostatečná" organizace). Macinka zdůraznil, že sjezdová debata česko-německé vztahy „neohrozí."
+
+Vrabel hodnotí ironicky: „Největší útok na Posselta byl, že si vybral špatnou agenturu — vyměň agenturu a je všechno v pořádku." Označuje to za projev tradiční české podřízenosti vůči Německu.
+
+**Zdroje:** [Vrabel — Večerní zprávy 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-8-5-2026)
+
+---
+
+### USA útočí na Írán — třetí fáze konfliktu (Vrabel, 7. 5. 2026)
+
+Ve večerních zprávách 7. května 2026 Vrabel informoval, že Spojené státy přešly do třetí fáze konfliktu s Íránem: podnikly vojenský útok na ostrov Qešm a přístav Bandar Abbas; íránský ministr potvrdil útok i na lodě v Hormuzském průlivu. Izrael zároveň zaútočil na Libanon (12 mrtvých, vč. 2 dětí a 1 medika). Vrabel hodnotí: „Konflikt pokračuje a bude se rozvíjet dál."
+
+USA zastavily „Project Freedom" (vojenský doprovod tankerů Hormuzem) po pouhých 36 hodinách poté, co Saúdská Arábie a Kuvajt pozastavily přístup americké armádě ke svým základnám a vzdušnému prostoru. Vrabel komentuje: „Nakonec ty Iránci dosáhnou svého a Američané odejdou z Blízkého východu."
+
+**Zdroje:** [Vrabel — Večerní zprávy 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+---
+
+### Česko-německá deklarace 1997 jako vzdání se válečných reparací — Vrabel (7. 5. 2026)
+
+Vrabel tvrdí, že česko-německá deklarace z roku 1997 představuje faktické vzdání se nároku na válečné reparace. Přestože jde jen o politické prohlášení (reparace stanovené vítěznými mocnostmi jsou dle Vrabela stále právně vymahatelné), každá česká vláda ji používá jako argument, proč Německo nepožádat o plné odškodnění — ČR dostala jen asi 0,5 % dlužného. Vrabel: „Pořád jim lezou do pozadí, aby nechtěli po Německu ty peníze."
+
+**Zdroje:** [Vrabel — Večerní zprávy 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+---
+
+### Medvedev: při válce NATO–Rusko by Rusko udeřilo na Evropu jako první — Vrabel (7. 5. 2026)
+
+Vrabel komentuje článek Dmitrije Medvěděva v ruské agentuře TASS: v případě přímé války NATO–Rusko by Rusko nechtělo opakovat rok 1941, kdy čekalo na německý útok a ztratilo miliony. Medvěděv explicitně píše, že Rusko musí být připraveno na „prvotní teror Evropy" — útok jako první, aby se válka odehrávala na evropském, nikoliv ruském území.
+
+Vrabel tuto logiku zasazuje do kontextu: stejný přístup Rusko aplikovalo v roce 2022 na Ukrajině — udeřilo jako první, aby se válka nevedla na ruské půdě. Vrabel varuje, že válka s Ruskem by pro Evropu byla existenční.
+
+> „Pokud půjdou do války s Evropou, udělají to samé — udeří jako první, aby se válka odehrávala na území Evropy, ne na území Ruska." — Ladislav Vrabel, [Večerní zprávy 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+---
+
+### Arménie: EU ji přitahuje do NATO kvůli obklíčení Ruska — Vrabel (7. 5. 2026)
+
+Vrabel ukazuje mapku Arménie — zemí obklopenou Tureckem, Ázerbájdžánem, Gruzií a Íránem — a komentuje, proč EU investuje 30 milionů EUR do arménské výzbroje. Tvrdí, že západ systematicky buduje řetězec zemí kolem Ruska ze všech světových stran (Finsko, Polsko, Rumunsko, Arménie, Gruzie), aby mohl na Rusko útočit ze všech stran současně.
+
+**Zdroje:** [Vrabel — Večerní zprávy 7. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-dluhová-brzda-medvedev-7-5-2026)
+
+---
+
+### Zelenský: příměří 9–11. 5. a výměna 1 000 zajatců — Vrabel (8. 5. 2026)
+
+Vrabel ve vysílání z 8. května 2026 informuje, že Zelenský oznámil dočasný klid zbraní od 9. do 11. května 2026 a výměnu válečných zajatců v poměru 1 000:1 000. Vrabel hodnotí pozitivně — každý den klidu zachrání stovky životů. Avšak za předchozí dočasné příměří bylo zaznamenáno 1 630 porušení zastavení palby (dle ruského MO). Výzvu k evakuaci diplomatů z Kyjeva EU ignorovala — Vrabel komentuje sarkazmem: „Evropští diplomaté jsou nesmrtelní — jsou čistí jako oko Boží."
+
+**Zdroje:** [Vrabel — Večerní zprávy 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-8-5-2026)

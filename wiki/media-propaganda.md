@@ -248,6 +248,22 @@ Vrabel navazuje na téma EU direktívy ADDV (kamera v autech sledující řidič
 
 ---
 
+### ČsTV2: kampaň za vrácení televizních poplatků od 12. 3. 2020 (7. 5. 2026)
+
+Vedle Zítka spustila kampaň za vrácení poplatků i ČsTV2. V pořadu z 7. 5. 2026 vyzvala diváky, aby písemně požadovali od ČT vrácení koncesionářských poplatků zaplacených od 12. března 2020 (datum vyhlášení nouzového stavu), s odkazem na porušování zákona č. 483/1991 Sb. o České televizi. Argumentace ČsTV2 souzní se Zítkovou: veřejnoprávní médium ze zákona musí poskytovat vyvážené, ověřené a objektivní informace — to přestalo platit s nástupem COVID propagandy. Viz také: [Zákon č. 483/1991: Zítkovy tři příklady porušení (4. 5. 2026)](#zákon-č-4831991-tři-zdokumentované-příklady-porušení--argument-zítka-proti-placení-poplatků-4-5-2026).
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+
+---
+
+### Facebook omezuje dosah ČsTV2 (7. 5. 2026)
+
+ČsTV2 ve vysílání z 7. 5. 2026 informovala o systematickém omezování dosahu své facebookové stránky ze strany platformy. Označuje to za součást širšího vzorce cenzury alternativních médií na sociálních sítích — podobně jako blokování jejích profilů Evou Decroix (viz [Fiala/Decroix Facebook live: cenzura otázek, 22. 4. 2026](#fialadeckroix-facebook-live-cenzura-otázek-jako-normální-politická-praxe-zítko-22-4-2026)).
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+
+---
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů
