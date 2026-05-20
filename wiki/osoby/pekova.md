@@ -1,6 +1,6 @@
 # Soňa Peková
 
-Česká virologička a imunologička, soudní znalkyně. Zapojila se do kritiky covidových opatření a mRNA vakcín, provádí vlastní laboratorní analýzy vzorků vakcín. Aktivně se účastnila COVID tour (jaro 2026) — série veřejných přednášek organizovaných Pavlem Zítkem.
+Česká molekulární bioložka a klinická genetička, soudní znalkyně v oboru genetiky. Zapojila se do kritiky covidových opatření a mRNA vakcín, provádí vlastní laboratorní analýzy vzorků vakcín. Aktivně se účastnila COVID tour (jaro 2026) — série veřejných přednášek organizovaných Pavlem Zítkem.
 
 ---
 
