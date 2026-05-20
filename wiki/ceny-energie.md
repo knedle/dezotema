@@ -80,6 +80,23 @@ Rajchl kritizoval dopad sankcí: protiruské sankce nefungují — ruské příj
 
 ---
 
+## Větrné elektrárny
+
+### Větrné elektrárny: nerecyklovatelné materiály, 8 000 tun betonu, nelze odmontovat — Černohorský
+
+Jiří Černohorský technicky a environmentálně kritizuje větrné elektrárny:
+
+- **Životnost:** 20–25 let; po uplynutí životnosti nelze vyjmout 8 000tunové betonové základy (průměr 30 m, hloubka 4–6 m).
+- **Materiály:** listy turbín jsou vyrobeny z nerecyklovatelných kompozitních materiálů; uvnitř každého listu je přibližně 40 stromů balzového dřeva těžených v tropech.
+- **Transport:** přeprava obřích komponent na kontejnerových lodích spalujících mazut; dopravní emise nejsou zahrnuty do klimatické bilance.
+- **Připomínkové řízení:** do 1. 6. 2026 lze podávat připomínky na Ministerstvo pro místní rozvoj k 14 navrhovaným akcelerovaným zónám pro větrné turbíny v ČR.
+
+Kraj Vysočina hlasoval 11. 5. 2026 o odmítnutí 14 akcelerovaných zón pro větrné elektrárny na svém území — Černohorský výsledek označuje za občanské vítězství. Věří, že za 20–25 let se prosadí nové technologie (cold fusion) a větrné turbíny budou zastaralé ještě před uplynutím plánované životnosti.
+
+**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026)
+
+---
+
 ### Válka s Íránem může poslat ropu na 300 USD/barel
 
 Boldy předpovídá, že válka s Íránem (kterou sionisté záměrně iniciují pro „příchod mesiáše") vyžene cenu ropy na 300 USD za barel. To by znamenalo ceny pohonných hmot v ČR 70–150 Kč/litr a automobily by se staly luxusním zbožím. Přicházející ekonomická krize bude podle Boldyho horší než v roce 1929.

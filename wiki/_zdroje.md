@@ -1342,4 +1342,43 @@
 - **Délka:** 0:03:10 | Zhlédnutí: 24 530
 - **Poznámka:** PS schválila usnesení odsuzující sjezd Landsmannschaftu + výzva k upuštění. Posselt označil jednání za „frašku". Rajchl: „Jste obžívnou karikaturou Adolfa Hitlera." Cíl Landsmannschaftu = zrušení Benešových dekretů a přístup k nemovitostem. Srovnání s Polskem. Rajchlův projev chybí v archivu Sněmovny.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — PS a Landsmannschaft (7. 5. 2026) {#jiří-černohorský--ps-a-landsmannschaft-7-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-07_Jiří-Černohorský_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=964390279629621>
+- **Datum záznamu:** 2026-05-07
+- **Délka:** 0:03:22 | Zhlédnutí: 27 125
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Den vítězství (9. 5. 2026) {#jiří-černohorský--den-vítězství-9-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-09_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1515025140033872>
+- **Datum záznamu:** 2026-05-09
+- **Délka:** 1:44:44 | Přepis zkrácen (1100 z 2201 řádků)
+- **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live 10. 5. 2026 {#jiří-černohorský--fb-live-10-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-10_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=2850417151960623>
+- **Datum záznamu:** 2026-05-10
+- **Délka:** 2:17:11 | Přepis zkrácen (703 z 2629 řádků)
+- **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live 13. 5. 2026 {#jiří-černohorský--fb-live-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1538399821221235>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 2:02:21 | Přepis zkrácen (1042 z 2471 řádků)
+- **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live 14. 5. 2026 {#jiří-černohorský--fb-live-14-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-14_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=997837596531535>
+- **Datum záznamu:** 2026-05-14
+- **Délka:** 0:17:26 | Přeskočeno: nečitelný přepis (garbled)
+- **Zpracováno:** přeskočeno

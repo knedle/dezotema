@@ -245,6 +245,23 @@ PRO tuto situaci veřejně pojmenovalo již 11 měsíců dříve — tiskovka PR
 
 ---
 
+## Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
+
+### 90 mld. EUR „půjčka", oligarcha Mindić a zbrojní firma Firepoint (Černohorský, 10.–13. 5. 2026)
+
+Jiří Černohorský sdílí a komentuje video Kateřiny Konečné o korupci na Ukrajině. Konečná dokumentuje propojení:
+
+- **Firepoint** — v době záznamu největší výrobce raket a dronů na Ukrajině
+- **Majitel:** oligarcha Mindić, napojený na Zelenského produkční studio Kvartal 95
+- **90 mld. EUR** — „půjčka" EU Ukrajině je dle Konečné fakticky nevratný dar, jelikož Ukrajina ji za daných podmínek nemůže splatit
+- **Mindić** uprchl do Izraele
+
+Černohorský video opakovaně sdílí jako doklad, že válka na Ukrajině korupci neodstranila, ale prohloubila — a evropské veřejné peníze ji živí.
+
+**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026)
+
+---
+
 ### ČsTV2: 100+ miliard CZK, desítky podezřelých, devět trestných činů (7. 5. 2026)
 
 Kanál Československo TV2 přinesl ve vysílání 7. 5. 2026 vlastní analýzu bitcoinové kauzy:
