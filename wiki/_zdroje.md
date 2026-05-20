@@ -1409,3 +1409,21 @@
 - **Délka:** 0:13:07 | Zhlédnutí: 25 993
 - **Poznámka:** Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny. Celé video o záštitě prezidenta Petra Pavla sjezdu Sudetoněmeckého Landsmannschaftu. Vystrčil + Senát také záštitu. Lichtensteinové prohráli všechny soudy (nacistická kolaborace). Pavel porušuje čl. 1 Ústavy ČR. Posselt: nelíbí se mu Benešovy dekrety. Výzva k novému tvrdému zákonu o velezradě s trestem smrti. Martin Dvořák označen za „hajzla".
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál 19. 5. 2026 {#jiří-černohorský--videoportál-19-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-19_Jiří-Černohorský_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=734895479682148>
+- **Datum záznamu:** 2026-05-19
+- **Délka:** 0:01:36 | Zhlédnutí: 21 327
+- **Poznámka:** Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny. Krátké přímé video adresované Petru Pavlovi: přirovnání k Emanuelu Moravci, Karlu Čurdovi a Reinhardu Heydrichovi „v jedné osobě", „všichni lidé tě z duše nenávidí."
+- **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál 19. 5. 2026 „HRADNÍ SVINĚ" {#jiří-černohorský--videoportál-19-5-2026-hradní-svině}
+- **Soubor:** [přepis](prepisy/done/2026-05-19_Jiří-Černohorský_Videoportál_2.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=998675786183726>
+- **Datum záznamu:** 2026-05-19
+- **Délka:** cca 16 min | Zhlédnutí: 1 213
+- **Poznámka:** Navazuje na krátký „velezhrádče" klip. Témata: Facebook throttling živých přenosů; bavorský CDU Holetšek + poslanec Hopp kritizují usnesení PS; Pekarová Adamová jede na sjezd LM (22.–25. 5. Brno); video Michala Svatoše (LM) — strategie „vymydlit palice" = dekrety padnou; prezidentský/poslanecký slib vs. skutečnost; koaliční poslanci „bonzovali" Němcům během schůze; „za doby ČSR by tyhle kurvy vysely."
+- **Zpracováno:** ano

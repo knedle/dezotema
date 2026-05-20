@@ -1240,3 +1240,37 @@ Jiří Černohorský věnoval celé video (13:07) skandálu, že prezident Petr 
 Jiří Černohorský volá po přijetí nového tvrdého zákona o „kolaboraci, zradě, vlastizradě a velezradě" s trestem smrti. Srovnává s prvorepublikovými standardy, kdy by dle jeho názoru byl Petr Pavel „adeptem na trest smrti pověšením." Zákon hodnotí jako nezbytnou odpověď na systematické podkopávání suverenity ČR. Video zakončuje slovy „třeba na videnou v lepších časech."
 
 **Zdroje:** [Černohorský — Videoportál 18. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
+
+---
+
+### Bavorský CDU Holetšek a poslanec Hopp: zasahování do vnitřních věcí ČR (Černohorský, 19. 5. 2026)
+
+Černohorský reagoval s rozhořčením na zprávu, že předseda frakce CDU v bavorském zemském sněmu Klaus Holetšek označil usnesení Poslanecké sněmovny ČR odsuzující sjezd Landsmannschaftu za „politování hodné" a varoval před „špatným signálem pro česko-německé vztahy." Bavorský poslanec Gerhard Hopp následně vyzval české poslance, aby usnesení odmítli. Černohorský hodnotí toto vyjádření jako nepřijatelné zasahování cizího regionálního politika do suverénních rozhodnutí českého parlamentu. Jako kontrast říká: „Dovedete si představit, že bychom se srali Němcům do rozhodnutí Bundestagu?"
+
+**Zdroje:** [Černohorský — Videoportál 19. 5. 2026 „HRADNÍ SVINĚ"](_zdroje.md#jiří-černohorský--videoportál-19-5-2026-hradní-svině)
+
+---
+
+### Markéta Pekarová Adamová jede na sjezd Landsmannschaftu — sjezd 22.–25. května Brno (Černohorský, 19. 5. 2026)
+
+Černohorský informuje, že předsedkyně PS Markéta Pekarová Adamová se chystá osobně účastnit sjezdu Sudetoněmeckého Landsmannschaftu v Brně (22.–25. května 2026). Považuje to za skandál — předsedkyně parlamentu reprezentuje Českou republiku na akci organizace, jejímž cílem je revize Benešových dekretů.
+
+**Zdroje:** [Černohorský — Videoportál 19. 5. 2026 „HRADNÍ SVINĚ"](_zdroje.md#jiří-černohorský--videoportál-19-5-2026-hradní-svině)
+
+---
+
+### Michal Svatoš (Landsmannschaft): „vymydlit palice pár jedinců" = Benešovy dekrety padnou (Černohorský, 19. 5. 2026)
+
+Černohorský přehrál video Michala Svatoše — zástupce krajského vedení Sudetoněmeckého Landsmannschaftu — v němž Svatoš popisuje strategii: stačí „vymydlit palice pár jedinců" (indoktrinovat klíčové osoby) a mladé generace přestanou o Benešových dekretech uvažovat jako o podstatné věci, čímž cesta k jejich zrušení bude otevřená. Černohorský komentuje: „Mají to připravený v šuflíku" — přirovnává k tomu, jak se propagovala EU se sliby prosperity, které se nenaplnily.
+
+> „Stačí jenom vymydlit palice pár jedinců v České republice, respektive mladým generacím, a dekrety půjdou do hajzlu, protože je to nebude zajímat." — Michal Svatoš (citováno Černohorským), [Videoportál 19. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-19-5-2026-hradní-svině)
+
+**Zdroje:** [Černohorský — Videoportál 19. 5. 2026 „HRADNÍ SVINĚ"](_zdroje.md#jiří-černohorský--videoportál-19-5-2026-hradní-svině)
+
+---
+
+### Parlamentní a prezidentský slib vs. skutečnost — Černohorský (19. 5. 2026)
+
+Černohorský cituje text ústavního slibu prezidenta (čl. 59) a slibu poslance (čl. 23): obě formule obsahují „věrnost České republice" a dodržování ústavy — bez zmínky o Evropské unii nebo cizích státech. Ptá se: co z tohoto slibu Petr Pavel a koaliční poslanci fakticky plní, když podporují záštitu sjezdu Landsmannschaftu a reagují na pokyny bavorských politiků? Označuje fakt, že koaliční poslanci „bonzovali" Němcům ještě v průběhu sněmovní schůze, za přímou kolaboraci s cizí mocností.
+
+**Zdroje:** [Černohorský — Videoportál 19. 5. 2026 „HRADNÍ SVINĚ"](_zdroje.md#jiří-černohorský--videoportál-19-5-2026-hradní-svině)
