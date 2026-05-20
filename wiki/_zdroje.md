@@ -1367,6 +1367,30 @@
 - **Délka:** 2:17:11 | Přepis zkrácen (703 z 2629 řádků)
 - **Zpracováno:** ano
 
+## Československo TV2 — Videoportál 15. 5. 2026: pozvánka Zlaté Moravce + blockchain šarže {#československo-tv2--videoportál-15-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-15_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **Datum záznamu:** 2026-05-15
+- **Délka:** 0:26:24
+- **Poznámka:** Zítko zve na slovenskou beseda (14. 5. Zlaté Moravce s Pekovou). Prezentuje blockchain analýzu ~12 000 šarží vakcín: 3 vrstvy (placebo/střední/smrtící), 5 % šarží = 70 % všech zemřelých, 10 % = 99 %; šarže „E" = 96 % fatálních případů. Data nahrána na blockchain, podána vojenskému tribunálu GT-2026-0441. Boyle označen za „záhadně zemřelého". Zítko líčí věznění a hrozbu nucené injekce proti tetanu.
+- **Zpracováno:** ano
+
+## Československo TV2 — Beseda Zlaté Moravce (14. 5. 2026) {#československo-tv2--beseda-zlaté-moravce-14-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-18_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **Datum záznamu:** 2026-05-18 (záznam besedy ze 14. 5.)
+- **Délka:** 2:21:37
+- **Poznámka:** Záznam besedy ze 14. 5. ve Zlatých Moravciach. Hosté: Soňa Peková, Ľubomír Šlosár (slovenský právník), Marian Kotleba, Zítko. Peková: dvouvláknová DNA v šaržích, Turánek detekoval grafen (Raman + el. mikroskopie); Slovenská AV použila jiné ampule k protianalýze. Šlosár: trestní kvalifikace ublížení na zdraví → genocida; 7 úředních SV úmrtí vs. ~400 dle VAERS; Kotlár odmítl TO. Slovensko: soběstačnost 98 %→38 %, dluh +800 %, 2 000 letadel→14. Zítko: zatčen 24. 6. 2024 ve Zlatých Moravciach, 17 000 hodin videa, hrozba nucené vakcinace ve vazbě.
+- **Zpracováno:** ano
+
+## Československo TV2 — Videoportál 20. 5. 2026: Aljaška a ČSR {#československo-tv2--videoportál-20-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-20_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **Datum záznamu:** 2026-05-20
+- **Délka:** 1:11:38
+- **Poznámka:** Ohlédnutí za besedou; opakování teorie šarží. Případ Aljaška: pronajata na 99 let (1867), nikoliv prodána; Bělousov nalezl originál smlouvy; loď „Orkney" s $7,2M zlatem nikdy nedoplula; pronájem vypršel 1967; Rusko žádá $50 bilionů nebo vrácení území; Trump-Putin schůzka v Anchorage jako důkaz; Melania Trump = potomek Romanovců, Barron = dědic. ČSR právní teorie: zákon 11/1918 stále platí; reparace 29 bilionů CZK (9 500 tun zlata) náleží jen ČSR, ne SR; jírovec u Vily Tugendhat zemřel rok po rozdělení. Poslední COVID tour: Velemín u Lovosic 22. 5. s Dr. Henzlem.
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — FB Live 13. 5. 2026 {#jiří-černohorský--fb-live-13-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-13_Jiří-Černohorský_Facebook-Live.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Live)

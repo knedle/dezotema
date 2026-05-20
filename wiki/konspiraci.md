@@ -205,7 +205,7 @@ Rozdělení Československa Zítko interpretuje jako vlastizradu: poslanec Jan S
 
 ---
 
-### Villa Tugendhat, tři koruny a možnost obnovení ČS občanství — Zítko (20. 4. 2026)
+### Villa Tugendhat, tři koruny a možnost obnovení ČS občanství — Zítko (20. 4. a 20. 5. 2026)
 
 Pavel Zítko ve vysílání z 19./20. dubna 2026 rozvinul svůj výklad rozpadu Československa o konkrétní detaily:
 
@@ -213,7 +213,32 @@ Pavel Zítko ve vysílání z 19./20. dubna 2026 rozvinul svůj výklad rozpadu 
 - Skutečná mocenská centra světa nejsou demokratické vlády, ale tři „koruny": Vatikán, City of London a Washington DC — tyto tři instituce prý stojí nad státy a národními parlamenti.
 - Zákon č. 11/1918 o Československé republice podle Zítka stále platí; jeho důsledkem je, že občané ČR a SR se mohou přihlásit zpět k československému občanství a domáhat se tak práv plynoucích z platného práva historické ČSR.
 
-**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026)
+Ve vysílání 20. 5. 2026 Zítko tuto teorii rozvedl o nové detaily:
+
+- Válečné reparace, které Německo dluží za druhou světovou válku, náleží výhradně Československé republice — nikoliv samostatné ČR ani SR. Jejich celková výše je dle Zítka 29 bilionů CZK, ekvivalent přibližně 9 500 tun zlata.
+- Jako symbolický důkaz platnosti „historické ČSR" uvádí Zítko příhodu s jírovcem (platanovníkem) u Vily Tugendhat: tento strom prý zemřel rok po podpisu rozdělení — jako by příroda potvrdila nelegitimitu aktu.
+- Slovensko nese dle Zítka bezprostřední důsledky rozdělení: před rokem 1993 bylo Slovensko zemědělsky soběstačné z 98 %, dnes jen z přibližně 38 %; státní dluh vzrostl o 800 %; vojenská kapacita poklesla z přibližně 2 000 letadel na 14 kusů dnes.
+
+**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026)
+
+---
+
+### Aljaška: pronájem na 99 let — Bělousov, Romanovci a Trump-Putin — Zítko (20. 5. 2026)
+
+Zítko ve vysílání 20. 5. 2026 přijal a prezentoval konspirologický výklad o tzv. „případ Aljaška":
+
+- **Pronájem, ne prodej**: Rusko Aljašku v roce 1867 neprodalo USA, ale pronajalo na 99 let. Ruský ministr obrany (nebo jeho poradce) Andrej Bělousov prý nalezl originální dokument smlouvy.
+- **Nezaplacená kupní cena**: loď „Orkney" přepravující 7,2 milionu dolarů ve zlatě (sjednaná cena) nikdy do Ruska nedoplula — Zítko tvrdí, že peníze nikdy nebyly vyplaceny.
+- **Vypršelý pronájem**: 99letý pronájem vypršel v roce 1967 — Rusko tedy má právní nárok na vrácení území nebo ekvivalentní kompenzaci.
+- **Ruský požadavek**: Bělousov jménem Ruska požaduje buď vrácení Aljašky, nebo zaplacení 50 bilionů dolarů.
+- **Trump-Putin v Anchorage jako důkaz**: schůzka Trumpa a Putina na Aljašce je dle Zítka přímým „důkazem", že vyjednávání probíhá.
+- **Romanovci**: Melania Trumpová je dle tohoto výkladu potomkem ruských Romanovců; Barron Trump je tak legitimním dědicem ruského carského rodu.
+
+Zítko tuto teorii prezentuje jako vysvětlení, proč se Trump a Putin scházejí — nejde o geopolitiku, ale o dynastické a majetkové nároky.
+
+⚡ **Poznámka:** Historická smlouva z roku 1867 byla kupní (nikoliv nájemní) smlouvou; tvrzení o Romanovcích a vojenském tribunálu nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026)
 
 ---
 

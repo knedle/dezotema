@@ -207,6 +207,19 @@ Peková Kotlárovo odmítnutí hodnotí jako jednoznačnou zradu: „Ze Slovensk
 
 ---
 
+### Slovenská trestní analýza vakcinace — právník Šlosár (beseda 14. 5. 2026)
+
+Ľubomír Šlosár, slovenský právník, na besedě ve Zlatých Moravciach (14. 5. 2026) analyzoval možnou trestní kvalifikaci vakcinační kampaně na Slovensku:
+
+- **Právní stupňování**: trestní odpovědnost lze konstruovat od ublížení na zdraví přes obecné ohrožení a zabití až po genocidu — v závislosti na prokázaném úmyslu a rozsahu poškození.
+- **Rozpor s oficiálními daty**: Slovensko úředně eviduje 7 zemřelých po vakcíně; srovnání s americkým systémem VAERS (přepočteno na velikost populace) naznačuje, že reálný počet by mohl být přibližně 400.
+- **Kompenzační systém**: na Slovensku neexistuje žádný zákonný kompenzační mechanismus pro poškozené po vakcinaci.
+- **Kotlárovo odmítnutí**: Šlosár připravil trestní oznámení ve věci vakcinace; vládní zmocněnec Marian Kotlár odmítl se k oznámení připojit nebo ho sám podat. Šlosár ho proto podal na vlastní pěst — a oznámení bylo přehazováno mezi prokurátory bez věcného projednání.
+
+**Zdroje:** [ČsTV2 — Beseda Zlaté Moravce 14. 5. 2026](_zdroje.md#československo-tv2--beseda-zlaté-moravce-14-5-2026)
+
+---
+
 ### Peková: mezinárodní COVID aktivismus jako „divadlo" a plán pro další léta (duben 2026)
 
 Na zastavení COVID tour (duben 2026) Peková shrnuje své poznatky z mezinárodní scény:
@@ -329,6 +342,40 @@ Zítko doplňuje, že „COVID-19 si v roce 2015 a 2017 nechal patentovat určit
 Zítko tvrdí, že koncentrace škodlivých složek v COVID vakcínách se mezi šaržemi lišila až stonásobně. Šarže označené písmenem „E" podle něj znamenají „extrémně smrtelné" — syndromy náhlého úmrtí kojenců (SIDS) i dospělých (SADS) jsou svázány zejména s těmito šaržemi.
 
 **Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026)
+
+---
+
+### Blockchain analýza ~12 000 šarží: 3 vrstvy smrtelnosti — Zítko (15. 5. 2026)
+
+Zítko ve vysílání 15. 5. 2026 prezentuje výsledky analýzy přibližně 12 000 šarží COVID vakcín uložené na blockchainu. Analýza rozdělila šarže do tří vrstev podle podílu na zemřelých:
+
+- **Placebo vrstva**: minimální nebo žádná smrtelnost
+- **Střední vrstva**: průměrná smrtelnost
+- **Smrtící vrstva**: 5 % všech šarží odpovídá za 70 % všech zaznamenaných zemřelých; 10 % šarží = 99 % všech zemřelých
+
+Šarže označené písmenem „E" jsou v tomto datasetu zodpovědné za 96 % fatálních případů — Zítko interpretuje „E" jako zkratku pro „extremely dead." Data byla dle Zítka předána vojenskému tribunálu s označením GT-2026-0441.
+
+Zítko tuto analýzu zasazuje do kontextu svého vlastního věznění: v záchytném zařízení mu bylo vyhrožováno nucenou injekcí „proti tetanu" — tedy vakcinací bez souhlasu.
+
+⚡ **Poznámka:** Tvrzení o stratifikaci šarží a vojenskému tribunálu nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [ČsTV2 — Videoportál 15. 5. 2026](_zdroje.md#československo-tv2--videoportál-15-5-2026), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026)
+
+---
+
+### DNA kontaminace a grafen ve vakcínách — Peková a Turánek (beseda 14. 5. 2026)
+
+Soňa Peková na besedě ve Zlatých Moravciach (14. 5. 2026) prezentovala nové nálezy z analýzy šarží vakcín:
+
+- **Dvouvláknová DNA**: v analyzovaných šaržích byla detekována dvouvláknová DNA, která není součástí deklarovaného složení mRNA vakcíny.
+- **Grafen**: prof. Jiří Turánek ze Slovenské akademie věd detekoval grafen pomocí Ramanovy spektroskopie a elektronové mikroskopie.
+- **Manipulace vzorků**: když Slovenská akademie věd provedla vlastní „protianalýzu", použila jiné ampule — nikoliv ty, ze kterých Peková vzorky čerpala.
+
+Peková z těchto nálezů vyvozuje systémové utajování složení vakcín a absenci nezávislého dohledu.
+
+⚡ **Konflikt:** Regulační orgány (EMA, SUKL) přítomnost nedeklarovaných látek ani grafenu v schválených šaržích nepotvrdily; vědecký konsensus tyto nálezy nepřijímá.
+
+**Zdroje:** [ČsTV2 — Beseda Zlaté Moravce 14. 5. 2026](_zdroje.md#československo-tv2--beseda-zlaté-moravce-14-5-2026)
 
 ---
 
