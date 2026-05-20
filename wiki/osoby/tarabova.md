@@ -8,7 +8,8 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 
 | Téma | Co konkrétně zastává |
 |------|----------------------|
-| [Ceny energií](../ceny-energie.md) | Zdražování nafty, nesoulad s cenou barelu, kritika vlády za nečinnost, výzva k bojkotu čerpacích stanic; veřejné projednání Radiopalác 15.5.: Beranovi vypnutý mikrofon, EU směrnice RED 3 vs. praxe, výzva zahlcení MMR připomínkami |
+| [Ceny energií](../ceny-energie.md) | Zdražování nafty, nesoulad s cenou barelu, kritika vlády za nečinnost, výzva k bojkotu čerpacích stanic |
+| [Větrné elektrárny](../vetrniky.md) | Veřejné projednání Radiopalác 15. 5.: Beranovi vypnutý mikrofon, EU směrnice RED 3 vs. praxe, výzva zahlcení MMR připomínkami; vláda ANO+Motoristé sobě navazuje na Fialovu politiku beze změny |
 | [FARA a neziskovky](../fara-neziskovky.md) | ANO nezjišťuje zahraniční financování neziskovek; Milion chvílek — hierarchie, skrytý účet, napojení na neziskový sektor |
 | [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe); VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku); svědectví amerického lékaře o absenci výuky bezpečnosti vakcín; virologie jako pseudověda — viry nikdy nebyly izolovány, experimenty se španělskou chřipkou (1918) neprokázaly přenos; NOS (Národní očkovací strategie) schválena neoprávněně vládou v demisi; WHO = soukromá organizace financovaná Gatesem; vakcíny způsobují autismus, ADHD, ekzémy, onko u dětí; „nátlaky jsou pro otroky" |
 | [Rodina a děti](../rodina-deti.md) | Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické |
