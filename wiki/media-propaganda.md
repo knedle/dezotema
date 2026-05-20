@@ -157,6 +157,14 @@ V živém vysílání 5. 4. 2026 Rajchl popisuje, jak Nora Friedrichová opakova
 
 ---
 
+### ČT zaměstnanci: výzva k stávce a varování před vládním násilím — Tarabová (20. 5. 2026)
+
+Lenka Tarabová v krátkém klipu vyzývá zaměstnance ČT, aby nešli jen do stávkové pohotovosti, ale rovnou do stávky — nejlépe do **okupační stávky**. Deklaruje, že pokud k tomu dojde, společnost je musí plně podpořit, což by podle ní znamenalo občanskou neposlušnost přesahující mírová shromáždění. Varuje, že je třeba počítat s tím nejhorším: „vládní moc se může uchýlit k násilí." Zároveň se vyjadřuje ke smíření ministra kultury Macinky a MEP Turka se situací ČT: „myslí, že to projde, budou mít chleba namazaný po obou stranách — tak to říkám, že nebudou."
+
+**Zdroje:** [Tarabová — ČT stávka a občanská neposlušnost (20. 5. 2026)](_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
+
+---
+
 ### Článek o „121letých sponzorech" PRO — Rajchl: typografická chyba, záměrná lež
 
 Rajchl v živém vysílání 5. 4. 2026 reaguje na titulkový článek iDnes/e-dnes o tom, že PRO má tři sponzory ve věku 121 let. Vysvětluje: u jednoho dárce 1300 Kč se při zadávání přehodily číslice 5 a 0 — z 1950 vzniklo 1905. Chybu ohlásili a závazně slíbili opravit do termínu odevzdání výroční zprávy (1. dubna). Přesto titulka zůstala. Rajchl to označuje za záměrné překroucení chyby v evidenci stovek dárců ve prospěch senzace — a poukazuje, že stejný iDnes neuvedl, že Adam Coubal (Porsche případ) byl sponzorem Petra Pavla.

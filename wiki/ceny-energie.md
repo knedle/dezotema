@@ -254,6 +254,24 @@ Rajchl ve videu 6. 5. 2026 upozorňuje na celosvětový obrat vůči větrné en
 
 ---
 
+### Veřejné projednání v Radiopaláci: 850 lidí, vypnutý mikrofon, EU směrnice vs. praxe — Tarabová (15. 5. 2026)
+
+Lenka Tarabová se 15. 5. 2026 zúčastnila veřejného projednání změny Územního rozvojového plánu v Praze (Radiopalác), kde bylo přibližně 850 lidí. Panelisté zastupovali MMR, MŽP a MPO. Tarabová hodnotí průběh jako příklad institucionální arogance.
+
+- První dvě hodiny se pouštělo video a panelisté se představovali — přítomní experti i občané chtěli diskutovat, nikoli poslouchat „omáčky."
+- Média (ČT, Prima, Nova) natáčela rozzlobené diváky místo toho, aby zachytila věcné argumenty odpůrců.
+- **Hynek Beran** (Krajina lidí) prohlásil, že připravované akcelerační zóny jsou v rozporu s EU směrnicí RED 3 — po druhé odpovědi mu byl vypnut mikrofon.
+- **Penelope Cimprichová** upozorňovala na zdravotní rizika z infrazvuku — ignorována.
+- Státní úředníci odpovídali vyhýbavě: „zaplatíte si studii, která vyjde tak, jak potřebujete."
+- EU směrnice ve skutečnosti preferuje: výstavbu na brownfieldech, fotovoltaiku na střechách průmyslových objektů a větrníky výhradně na plochách poničených těžbou — ne v krajině.
+- Tarabová: vláda ANO + Motoristé sobě navazuje na Fialovu vládu, v tomto tématu bez změny.
+
+Lhůta pro připomínky: 15 dnů do **1. 6. 2026**. Web pro vzory připomínek: **zastavvte.cz** a stránky MMR. Tarabová vyzývá k zahlcení ministerstva připomínkami — „pokud bude v řádech desítek tisíc, tak jim to zamutá hlavu."
+
+**Zdroje:** [Tarabová — Veřejné projednání větrné elektrárny (15. 5. 2026)](_zdroje.md#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026)
+
+---
+
 ## Hormuz — aktualizace 6. 5. 2026
 
 ### Trump „Freedom project": od eskorty lodí k úplnému zrušení za 3 dny — Vrabel (6. 5. 2026)

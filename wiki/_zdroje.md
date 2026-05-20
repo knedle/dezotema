@@ -1427,3 +1427,30 @@
 - **Délka:** cca 16 min | Zhlédnutí: 1 213
 - **Poznámka:** Navazuje na krátký „velezhrádče" klip. Témata: Facebook throttling živých přenosů; bavorský CDU Holetšek + poslanec Hopp kritizují usnesení PS; Pekarová Adamová jede na sjezd LM (22.–25. 5. Brno); video Michala Svatoše (LM) — strategie „vymydlit palice" = dekrety padnou; prezidentský/poslanecký slib vs. skutečnost; koaliční poslanci „bonzovali" Němcům během schůze; „za doby ČSR by tyhle kurvy vysely."
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Veřejné projednání větrné elektrárny (15. 5. 2026) {#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-15_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=1010211175009775>
+- **Datum záznamu:** 2026-05-15
+- **Délka:** 0:13:57 | Zhlédnutí: 17 933
+- **Poznámka:** Osobní zpráva z veřejného projednání změny Územního rozvojového plánu v Radiopaláci Praha. ~850 účastníků. Panelisté MMR/MŽP/MPO. Hynek Beran: akcelerační zóny v rozporu s EU směrnicí RED 3 → vypnutý mikrofon. Penelope Cimprichová (zdravotní rizika) ignorována. Média natáčela hněv, ne argumenty. EU směrnice: stavět na brownfieldech, fotovoltaiku na průmyslové střechy, větrníky na degradovanou krajinu. Lhůta připomínek do 1. 6. 2026. Web: zastavvte.cz.
+- **Zpracováno:** ano
+
+## Lenka Tarabová — ČT stávka a občanská neposlušnost (20. 5. 2026) {#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-20_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=2348351482322738>
+- **Datum záznamu:** 2026-05-20
+- **Délka:** 0:01:11 | Zhlédnutí: 2 902
+- **Poznámka:** Výzva k stávce (nebo okupační stávce) zaměstnanců ČT. Občanská neposlušnost jako nutnost. Varování: vládní moc se může uchýlit k násilí. Kritika Macinky a Turka za „chleba namazaný po obou stranách."
+- **Zpracováno:** ano
+
+## Lenka Tarabová — Cizí video: Plk. Novotný o Pavlovi a 1989 (20. 5. 2026) {#lenka-tarabová--cizí-video-plk-novotný-o-pavlovi-a-1989-20-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-20_Lenka-Tarabová_Videoportál_1.txt)
+- **Kanál:** Lenka Tarabová (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=2018564182067692>
+- **Datum záznamu:** 2026-05-20
+- **Délka:** 0:07:54 | Zhlédnutí: 541
+- **Poznámka:** Cizí sdílené video — Plk. Mgr. Stanislav Novotný hovoří o „sametovém převratu" a Petru Pavlovi jako jeho „završení." Nejde o Tarabové monolog. Přeskočeno.
+- **Zpracováno:** přeskočeno
