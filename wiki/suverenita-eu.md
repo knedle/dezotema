@@ -1204,3 +1204,39 @@ Jiří Černohorský opakovaně shrnuje propojení prezidenta Petra Pavla s Land
 Černohorský chválí poslance SPD Radima Fialu za jeho stručný projev v PS: „Vy bráníte Landsmannschaft místo těch, co umírali v koncentrácích." Výrok označuje za výstižný a přímý a Fialu hodnotí jako jednoho z mála poslanců, kteří tématu skutečně rozumí.
 
 **Zdroje:** [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026)
+
+---
+
+### Okamura: „vláda nemůže zakázat" sjezd — Černohorský požaduje protestní nótu Německu (14. 5. 2026)
+
+Jiří Černohorský se v krátkém videu (4:24) ostře ohrazuje proti výroku Tomia Okamury, který v televizi prohlásil, že vláda „nemůže zakázat" sjezd Sudetoněmeckého Landsmannschaftu. Černohorský to odmítá: Bernd Posselt na akci veřejně prohlásil, že se mu Benešovy dekrety nelíbí — a vláda má na to dle Černohorského zákonné nástroje. Jako precedent uvádí motorkáře Night Wolves, kteří byli zakázáni přijet uctít Rudou armádu — zatímco Landsmannschaft je bez omezení. Odkazuje na Česko-německou deklaraci z roku 1997 a požaduje, aby vláda vyslala Německu formální protestní nótu.
+
+> „Takže začněte konat. Začněte konat!" — Jiří Černohorský, [Videoportál 14. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
+
+**Zdroje:** [Černohorský — Videoportál 14. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
+
+---
+
+### Vystrčil a Senát dali záštitu Landsmannschaftu — Černohorský (17. 5. 2026)
+
+Jiří Černohorský upozorňuje, že předseda Senátu Miloš Vystrčil udělil záštitu sjezdu Sudetoněmeckého Landsmannschaftu. Černohorský přehrál video ze záznamu Baudyšovy zprávy z roku 2004 o Wittikobundu (radikálním křídle Landsmannschaftu), který prosazuje „právní nárok na vlast." Na adresu Vystrčila poslal email s předmětem „nacistická kurvo" — jako přímý protest proti tomuto rozhodnutí. Zároveň přehrál videa Jiřího Weigla (Institut Václava Klause) a záznamy ze schůzky Schwarzenberg/Hřib.
+
+**Zdroje:** [Černohorský — FB Live 17. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-17-5-2026)
+
+---
+
+### Petr Pavel dal záštitu sjezdu Sudetoněmeckého Landsmannschaftu — Černohorský (18. 5. 2026)
+
+Jiří Černohorský věnoval celé video (13:07) skandálu, že prezident Petr Pavel udělil záštitu sjezdu Sudetoněmeckého Landsmannschaftu. Označuje to za porušení článku 1 Ústavy ČR (ČR je svrchovaný stát). Vedle záštity Vystrčila a Senátu jde dle Černohorského o systémové propojení: Pavel vyjednával o fondu pro rod Lichtensteinů, kteří prohráli všechny české i mezinárodní soudy jako nacistické kolaboranty. Posselt veřejně prohlásil, že se mu Benešovy dekrety nelíbí. Martina Dvořáka, který záštitu Landsmannschaftu obhajoval, označil za „hajzla."
+
+> „Sám prezident České republiky. Dal záštitu sudeto německému Landsmannschaftu, jejich sjezdu." — Jiří Černohorský, [Videoportál 18. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
+
+**Zdroje:** [Černohorský — Videoportál 18. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
+
+---
+
+### Zákon o velezradě s trestem smrti — Černohorský (18. 5. 2026)
+
+Jiří Černohorský volá po přijetí nového tvrdého zákona o „kolaboraci, zradě, vlastizradě a velezradě" s trestem smrti. Srovnává s prvorepublikovými standardy, kdy by dle jeho názoru byl Petr Pavel „adeptem na trest smrti pověšením." Zákon hodnotí jako nezbytnou odpověď na systematické podkopávání suverenity ČR. Video zakončuje slovy „třeba na videnou v lepších časech."
+
+**Zdroje:** [Černohorský — Videoportál 18. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-18-5-2026)

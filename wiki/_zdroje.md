@@ -1382,3 +1382,30 @@
 - **Datum záznamu:** 2026-05-14
 - **Délka:** 0:17:26 | Přeskočeno: nečitelný přepis (garbled)
 - **Zpracováno:** přeskočeno
+
+## Jiří Černohorský — Videoportál 14. 5. 2026 {#jiří-černohorský--videoportál-14-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-14_Jiří-Černohorský_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=1638612594024470>
+- **Datum záznamu:** 2026-05-14
+- **Délka:** 0:04:24 | Zhlédnutí: 55 533
+- **Poznámka:** Okamura prohlásil, že vláda „nemůže zakázat" sjezd Landsmannschaftu. Posselt veřejně prohlásil, že se mu Benešovy dekrety nelíbí. Černohorský: Night Wolves byli zakázáni, Landsmannschaft ne; odkaz na Česko-německou deklaraci 1997; požadavek protestní nóty Německu.
+- **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live 17. 5. 2026 {#jiří-černohorský--fb-live-17-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-17_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1298206871805832>
+- **Datum záznamu:** 2026-05-17
+- **Délka:** 1:35:31 | Přepis zkrácen (~900 z ~1500 řádků)
+- **Poznámka:** Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny. Témata: ČT manipulace (falešná „nevybuchlá raketa" v Kyjevě — byl to transformátor); politická perzekuce kritiků — Hejátko (velezrada), Hadrava (kněz, sbírka pro Donbas, 25 let), Kapal (zemřel), Skála (podmínka), Čermák (6 let), Popelka; kontrast Coubal (podmínka, sponzor Pavla); 37 let bez referendového zákona; privatizace 90. let (Klaus, Zeman, Kočárník, Ruml, Dlouhý); přehrání Baudyšova videa o Wittikobundu (2004, MV report); Vystrčil dal záštitu Landsmannschaftu — email Černohorského „nacistická kurvo"; Weigl (IVK): Pavlův návrh USE „likviduje suverenitu"; Schwarzenberg/Hřib video; Radim Fiala pochválen.
+- **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál 18. 5. 2026 {#jiří-černohorský--videoportál-18-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-18_Jiří-Černohorský_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=1673523293772123>
+- **Datum záznamu:** 2026-05-18
+- **Délka:** 0:13:07 | Zhlédnutí: 25 993
+- **Poznámka:** Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny. Celé video o záštitě prezidenta Petra Pavla sjezdu Sudetoněmeckého Landsmannschaftu. Vystrčil + Senát také záštitu. Lichtensteinové prohráli všechny soudy (nacistická kolaborace). Pavel porušuje čl. 1 Ústavy ČR. Posselt: nelíbí se mu Benešovy dekrety. Výzva k novému tvrdému zákonu o velezradě s trestem smrti. Martin Dvořák označen za „hajzla".
+- **Zpracováno:** ano
