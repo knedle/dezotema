@@ -12,6 +12,12 @@ theme:
 
 docs_dir: wiki
 
+extra_javascript:
+  - js/zdroje-filter.js
+
+extra_css:
+  - css/zdroje-filter.css
+
 markdown_extensions:
   - toc:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
