@@ -1025,3 +1025,30 @@ VdL prezentovala na kodaňském summitu o AI a dětech plán povinné evropské 
 Velitel ruských strategických raketových sil oznámil úspěšné testování mezikontinentální balistické rakety Sarmat (přezdívaná „Satan 2"). Do bojové služby má být do konce roku 2026 zařazen první pluk. Parametry: 35 metrů, hypersonická rychlost, až 16 samostatně naváděných jaderných hlavic, dosah 18 000 km, prakticky nezestřelitelná díky úhybným manévrům a falešným návnadám. Vrabel: Rusko touto zprávou sděluje Evropě, že nemá žádnou účinnou obranu.
 
 **Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+
+---
+
+### Sudetoněmecký Landsmannschaft ≠ sudečtí Němci — Rajchl vs. Zeníšek (13. 5. 2026)
+
+V televizní debatě Rajchl precizně odlišil dvě věci, které oponent (poslanec TOP 09 Marek Zeníšek) záměrně zaměňoval:
+
+- **Sudečtí Němci jako lidé** — Rajchl opakovaně zdůraznil, že s nimi nemá problém: „Ať sem jezdí, kdykoliv budou chtít. A myslím si, že řada lidí je zde přivítá." Odkaz na spolek Lidice Memory (přeživší a pozůstalí po lidickém masakru) — ani oni nemají problém se sudetskými Němci jako lidmi.
+- **Sudetoněmecký Landsmannschaft** — politická organizace, která dle Rajchla navazuje na sudetoněmeckou stranu Konráda Henleina. Je to ta strana, která „zabíjela jejich prarodiče a rodiče." Landsmannschaft prosazuje konkrétní politické cíle a je proto nepřijatelný jako politický partner.
+
+Rajchl zmínil osobní vazbu: jeho otec pochází z Hronova (oblast severovýchodních Čech se silnou sudetoněmeckou historií).
+
+**Zdroje:** [Rajchl — Landsmannschaft vs. sudečtí Němci: debata se Zeníškem (13. 5. 2026)](_zdroje.md#jindřich-rajchl--zeníšek-debate-landsmannschaft-13-5-2026)
+
+---
+
+### Martin Dvořák (STAN) nazval Rajchla „náckemé" při obraně Landsmannschaftu — Rajchl (13. 5. 2026)
+
+Den po debatě na CNN Prima News Rajchl natočil krátký komentář. Martin Dvořák (STAN) ho v debatě označil za „nácka" — přitom sám se tvrdě zastával:
+- **Sudetoněmeckého Landsmannschaftu** (dle Rajchla nástupce Henleinovy nacistické strany)
+- **Banderovců** — ukrajinskými nacionalistickými milicemi s prokázanými vazbami na nacistickou kolaboraci
+
+Rajchl na debatě citoval prohlášení spolku Lidice Memory a apeloval na co nejrychlejší mír na Ukrajině. Dvořák ho za to označil za „nácka."
+
+> „Pokud mluvíte jako nacista, pokud se zastáváte nacistických spolků a nacistických bojůvek na Ukrajině, tak jediný, kdo je z nás tam nácek, jste vy. Vy jste největší nácek v celé České republice." — Rajchl
+
+**Zdroje:** [Rajchl — „Největší nácek v ČR": Dvořák CNN Prima (13. 5. 2026)](_zdroje.md#jindřich-rajchl--dvořák-cnn-prima-největší-nácek-13-5-2026)

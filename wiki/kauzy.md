@@ -267,6 +267,28 @@ V pondělí 12. 5. podali Karim Tic, Pavel Blažek a Radomír Daňhel stížnost
 
 ---
 
+### ČT Reportéři: 4. díl o Bitcoinu — věcné chyby a nové detaily — ČsTV2 (13. 5. 2026)
+
+Zítko v živém vysílání 13. 5. 2026 (79 minut) podrobně rozebral 4. díl pořadu Reportéři ČT o bitcoinové kauze a identifikoval opakované věcné chyby:
+
+**Chyby ČT v reportáži:**
+- Řekli „jedno darknetové tržiště (Nucleus Market)" — ve skutečnosti byla **dvě**: Sheep Marketplace (uzavřeno prosinec 2013, 39 918 BTC) + Nucleus Market (uzavřeno duben 2016, 5 366 BTC)
+- Jiříkovský propuštěn „jaro 2021" (ČT) vs. „polovina listopadu 2020" (dle Zítkovy analýzy rozsudku)
+- Technika vydána „v březnu 2025" (ČT Rozpleteno) vs. „v prosinci 2024 před Vánoci" (dle Zítka)
+- „9 let" (ČT prvotní verze) vs. **9,5 roku** — vrchní soud v Olomouci přidal půl roku k prvoinstančnímu rozsudku (rozsudek 30. 5. 2018)
+
+**Nové detaily kauzy odhalené Zítkem:**
+- **Martin Nejedlý** (poradce Miloše Zemana) podnikal s Karimem Ticem v několika firmách; Blažek se s Nejedlým sešel v restauraci v roce 2023, kde Nejedlý slavil narozeniny — Zítko: Jiříkovský byl „peněženka mocných chlapců z ODS"
+- **Karim Tic** začal v roce 2026 převádět nemovitosti na manželku — signál, že cítí blížící se rozšíření obvinění
+- Poslanec **Havránek** (ODS) navrhl zákon o osvobození kryptopříjmů do 40 milionů Kč od daně — Zítko: „šili zákon na míru, aby z ukradených bitcoinů neplatili daně"
+- Státní zástupkyně **Lastovecká** chtěla vznést obvinění na Blažka ještě v letošním roce — byla odvolána
+- **Soudci Nejvyššího soudu Brno a krajského soudu Brno** spolu s **policisty krajského ředitelství Brno** — bez jejich rozhodnutí o vrácení zabavené techniky by Jiříkovský k bitcoinům nezískal přístup; Zítko považuje jejich trestně-právní odpovědnost za „neoddiskutovatelnou"
+- ČT má 4 díly Reportéři o Bitcoinu, které si navzájem odporují v datech — Zítko: „levá neví, co dělá pravá"
+
+**Zdroje:** [ČsTV2 — Bitcoin kauza: ČT Reportéři analýza (13. 5. 2026)](_zdroje.md#československo-tv2--bitcoin-kauza-čt-reportéři-analýza-13-5-2026)
+
+---
+
 ## Letná 2026 — demonstrace jako politický nástroj neziskovek
 
 ### Financování Mináře a Šimon Pánek z Člověka v tísni

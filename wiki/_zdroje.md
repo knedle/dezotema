@@ -1271,3 +1271,48 @@
 - **Délka:** 0:58:53 | Zhlédnutí: 587
 - **Poznámka:** Nedělní souhrn týdne (10/5). Témata: Bitcoin kauza — Tic/Blažek/Daňhel podali stížnost, skutečná částka >100 mld. (Nucleus + SHIB Marketplace), Jiříkovský dříve odsouzen 9,5 roku; COVID vakcíny — BioNTech zastavuje výrobu v Německu, Pfizer-BioNTech toxikolog odhaduje 60 000 mrtvých; chozen bosou nohou (Harvard studie, Nike kritika); Hantavirus — americký patent 1997 + 2022; COVID tour Peková na Slovensko (14. 5. Zlaté Moravce, s Kotlebou); Rainer Füllmich narozeniny (5. 5.); válečné reparace ČR vůči Německu — Zítko odhaduje 9 700 tun zlata.
 - **Zpracováno:** ano
+
+## Československo TV2 — Bitcoin kauza: ČT Reportéři analýza (13. 5. 2026) {#československo-tv2--bitcoin-kauza-čt-reportéři-analýza-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1416449500527125>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 1:19:42 | Zhlédnutí: 312
+- **Poznámka:** Zítko živě rozebral 4. díl pořadu ČT Reportéři o Bitcoin kauze. Identifikuje 4 věcné chyby ČT (jedno vs. dvě darknetová tržiště; datum propuštění Jiříkovského; datum vydání techniky; délka trestu). Nové detaily: Nejedlý-Tic podnikatelská vazba, Tic převádí nemovitosti na manželku, Havránek navrhl daňovou výjimku na krypto do 40 mil. (zákon „šitý na míru"), státní zástupkyně Lastovecká odvolána, zapojení soudců NS Brno a krajského soudu. Plný seznam 11+ podezřelých a 9+ trestných činů.
+- **Zpracováno:** ano
+
+## Československo TV2 — COVID tour promo: Zlaté Moravce, Slovensko (13. 5. 2026) {#československo-tv2--covid-tour-promo-zlaté-moravce-slovensko-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=27602755875994548>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 0:06:41 | Zhlédnutí: 25
+- **Poznámka:** Zítko natáčí z náměstí ve Zlatých Moravcích. Propagace COVID tour akce 14. 5. 2026 v divadelní sále s Pekovou, Kotlebou a Šlosárem. Zmínka o QFS a symbolice zlatého a stříbrného klíče ve znaku města. Tvrdí, že ČR a SR nejsou legitimními nástupnickými státy (rozdělení bez referenda = podvod).
+- **Zpracováno:** ano
+
+## Československo TV2 — Cestou necestou: Bitcoin ČT kritika, COVID tour (13. 5. 2026) {#československo-tv2--cestou-necestou-bitcoin-čt-kritika-covid-tour-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Československo-TV2_Videoportál_2.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=3309499585894783>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 0:10:00 | Zhlédnutí: 62
+- **Poznámka:** Zítko na cestě do Zlatých Moravců. Tvrdí, že ČT má 3000 zaměstnanců vs. Nova 500, přesto vydává lži a manipulace; 4 díly Reportéři o Bitcoinu si vzájemně odporují. Vtipkuje o pojmenování hantaviru. Vyzývá k neplacení koncesionářských poplatků.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Landsmannschaft vs. sudečtí Němci: debata se Zeníškem (13. 5. 2026) {#jindřich-rajchl--zeníšek-debate-landsmannschaft-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2001074114110849>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 0:01:28 | Zhlédnutí: 36 645
+- **Poznámka:** Střih z TV debaty — Rajchl vs. Marek Zeníšek (TOP 09). Rajchl jasně odlišuje: nemá problém se sudetskými Němci jako lidmi (ať přijíždějí), problém je výhradně s politickou organizací Sudetoněmecký Landsmannschaft jako nástupcem Henleinovy nacistické strany. Odkaz na spolek Lidice Memory. Osobní vazba: otec z Hronova.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — „Největší nácek v ČR": Dvořák CNN Prima (13. 5. 2026) {#jindřich-rajchl--dvořák-cnn-prima-největší-nácek-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1393808375839784>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 0:01:42 | Zhlédnutí: 6 910
+- **Poznámka:** Rajchl komentuje debatu z CNN Prima News s Martinem Dvořákem (STAN). Dvořák ho nazval „náckemé, přitom obhajuje Landsmannschaft (nástupce Henleinovy strany) a banderovce. Rajchl: „Pokud mluvíte jako nacista... vy jste největší nácek v celé České republice."
+- **Zpracováno:** ano
