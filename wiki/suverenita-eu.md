@@ -1052,3 +1052,68 @@ Rajchl na debatě citoval prohlášení spolku Lidice Memory a apeloval na co ne
 > „Pokud mluvíte jako nacista, pokud se zastáváte nacistických spolků a nacistických bojůvek na Ukrajině, tak jediný, kdo je z nás tam nácek, jste vy. Vy jste největší nácek v celé České republice." — Rajchl
 
 **Zdroje:** [Rajchl — „Největší nácek v ČR": Dvořák CNN Prima (13. 5. 2026)](_zdroje.md#jindřich-rajchl--dvořák-cnn-prima-největší-nácek-13-5-2026)
+
+---
+
+### Mezistranická shoda: MV by mělo prohlásit Landsmannschaft za extremistickou organizaci — Vrabel + SPD + ANO + KSČM (13. 5. 2026)
+
+Vrabel uspořádal na platformě „Svobodná televize" panelovou diskuzi ke sjezdu Sudetoněmeckého Landsmannschaftu v Brně. Zúčastnili se: poslanec Josef Nerušil (SPD), poslanec Pavel Novák (ANO), Jan Sedláček (Národní demokracie), Marek Adam (Klub Českého pohraničí/KSČM) a historik Miroslav Suchopár. Všichni shodně odmítli revizi Benešových dekretů a shodli se, že Ministerstvo vnitra by mělo Landsmannschaft prohlásit za extremistickou organizaci.
+
+Vrabel požaduje konkrétní kroky: zařazení Landsmannschaftu na seznam extremistických organizací MV a postupný zákaz jeho činnosti v ČR. Gesta (rezoluce, prohlášení) považuje za nedostatečná. Přirovnání: dovolit Landsmannschaftu vstup je jako nechat tyrana bít druhého, ale říct mu ať nelámání kosti.
+
+Suchopár přinesl klíčová fakta:
+- Brněnský sjezd je financován Bavorskem částkou **850 000 EUR** ročně
+- Organizátor David Macek obdržel od Posselta **Karlovu cenu** (Karus-Preis) v Řezně — a poté Landsmannschaft do Brna pozval
+- Babiš sjezd označil za „téma, které ho nezajímá" — Suchopár to odmítl jako skandální lhostejnost
+- Příští rok je sjezd plánován v **Liberci**; rok poté Praha
+- Petr Pavel v roce 2013 Posseltovi poděkoval za „zlepšení česko-německých vztahů"
+
+Nerušil (SPD) dvakrát navrhl brněnskému magistrátu usnesení o zrušení sjezdu — bez úspěchu. Poznamenal, že soukromou akci nelze jednoduše zakázat, ale občané mohou přímou účastí ukázat organizátorům, že nejsou vítáni. SPD má 15 mandátů.
+
+Novák (ANO) slíbil veřejně, že bude s ministrem vnitra jednat o prohlášení Landsmannschaftu za extremistickou organizaci.
+
+KSČM přednesla formální protest a vyzvala magistrát Brna, parlament i Jihomoravský kraj, aby sjezd nepodporovaly z veřejných prostředků.
+
+Demonstrace: 24. 5. 2026 na Dominikánském náměstí v Brně (v době konání sjezdu).
+
+> „Nejsme schopni ho [Landsmannschaft] zakázat, ale musíme na MV a vládu, aby ho minimálně zařadili na seznam extremistů. A poté k zákazu jejich aktivit." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Online konference: Landsmannschaft (13. 5. 2026)](_zdroje.md#ladislav-vrabel--online-konference-landsmannschaft-13-5-2026)
+
+---
+
+### Trump v Číně, Bukurešská devítka, Merkelová mediátorkou? — Vrabel (13. 5. 2026)
+
+**Trump v Číně** — první návštěva od roku 2017, třídenní, témata: obchod, cla, Írán, Tchaj-wan, Ukraina, globální energetika. Velkolepé uvítání. Vrabel hodnotí kladně: dobré znamení, že dvě supervelmoci stále sedají ke společnému stolu.
+
+**Bukurešská devítka** — summit devíti východních zemí NATO v Bukurešti; přítomni Rutte, Zelenský, Petr Pavel (zastupoval ČR). Pavel označil Rusko za největší hrozbu. Vrabel vysvětluje Bukurešskou devítku jako pakt vzájemné vojenské pomoci pro východní křídlo NATO, tzn. další závazky ČR nad rámec čl. 5.
+
+**Čínská satelitní firma MizarVision** publikuje navzdory sankcím fotografie amerických vojenských základen a vedla náborovou kampaň zaměřenou na americké sankce vůči ní — Vrabel: USA ztratily strategický nadhled.
+
+**Merkelová jako mediátorka EU–Rusko** — neformální diskuse (Der Spiegel); Vrabel: Merkelová zradila Rusko prostřednictvím Minských dohod (zastavení bojů sloužilo jen k přezbrojení Ukrainy), Putin by mohl přijmout kohokoli, koho EU navrhne, ale Merkelová je špatná volba.
+
+**BBC: 184 sankcionovaných ruských ropných tankerů** proplulo od března britskými vodami — 238 plaveb bez jediného zadržení navzdory britským slibům. Vrabel: naprostý výsměch britské vládě i unijním sankcím.
+
+**Kolaps lotyšské koaliční vlády** — ministr obrany rezignoval; Vrabel spekuluje: buď korupce při nákupu zbraní, nebo strach z válečné zodpovědnosti.
+
+**Slovensko krátce uzavřelo hranici s Ukrainou** (cca 2 hodiny, 15:00–17:00) v důsledku masivního ruského dronového útoku na Užhorod (800 dronů dle Ukrainy); zasaženo i Lvov. Vrabel: konflikt se přesouvá dál na západ; Slováci to chápou dříve, odtud mírové pochody od roku 2023.
+
+**Zdroje:** [Vrabel — Večerní zprávy 13. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-13-5-2026)
+
+---
+
+### PS odsoudila sjezd Landsmannschaftu — Posselt je „obžívná karikatura Adolfa Hitlera" — Rajchl (14. 5. 2026)
+
+Poslanecká sněmovna přijala usnesení odsuzující sjezd Sudetoněmeckého Landsmannschaftu v Brně a vyzvala organizátory, aby od konání upustili. Rajchl poděkoval koaličním kolegům, kteří pro usnesení hlasovali.
+
+Posselt reagoval označením sněmovního jednání za „frašku" a „karikaturu". Rajchl odpověděl:
+
+> „Pokud je tady někdo karikatura, tak jste to vy. Jste obžívnou karikaturou Adolfa Hitlera, nic víc, nic míň." — Rajchl
+
+> „Tenhle sjezd bude vaším sjezdem poslední." — Rajchl
+
+Rajchl vysvětluje jediný skutečný cíl Landsmannschaftu: zrušení Benešových dekretů a přístup k pohraničním nemovitostem. Srovnání s Polskem: „V Polsku by si konání takové akce nikdy nedovolili. Buďme proto prosím neústupní."
+
+Rajchl také upozornil, že jeho projev v PS záhadně chybí v archivu videozáznamu Sněmovny — celý projev tak není dohledatelný.
+
+**Zdroje:** [Rajchl — PS usnesení Landsmannschaft (14. 5. 2026)](_zdroje.md#jindřich-rajchl--ps-usnesení-landsmannschaft-14-5-2026)

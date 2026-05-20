@@ -1315,4 +1315,31 @@
 - **Datum záznamu:** 2026-05-13
 - **Délka:** 0:01:42 | Zhlédnutí: 6 910
 - **Poznámka:** Rajchl komentuje debatu z CNN Prima News s Martinem Dvořákem (STAN). Dvořák ho nazval „náckemé, přitom obhajuje Landsmannschaft (nástupce Henleinovy strany) a banderovce. Rajchl: „Pokud mluvíte jako nacista... vy jste největší nácek v celé České republice."
+
+## Ladislav Vrabel — Online konference: Sudetoněmecký Landsmannschaft (13. 5. 2026) {#ladislav-vrabel--online-konference-landsmannschaft-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / Svobodná televize)
+- **URL:** <https://www.facebook.com/100087923704145/videos/804843305815888>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 1:48:57
+- **Poznámka:** Panelová diskuze o sjezdu Sudetoněmeckého Landsmannschaftu v Brně. Hosté: Josef Nerušil (SPD), Pavel Novák (ANO), Jan Sedláček (Národní demokracie), Marek Adam (KSČM/Klub Českého pohraničí), Miroslav Suchopár. Suchopár: sjezd financován Bavorskem 850 000 EUR; Novák slíbil jednat s MV o prohlášení za extremistickou organizaci; demonstrace 24. 5. Dominikánské náměstí Brno. Přepis zkrácen (1269 z 3198 řádků).
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy 13. 5. 2026 {#ladislav-vrabel--večerní-zprávy-13-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-13_Ladislav-Vrabel_Facebook-Live_1.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1608973773501769>
+- **Datum záznamu:** 2026-05-13
+- **Délka:** 0:39:59
+- **Poznámka:** Trump v Číně (1. návštěva od 2017, 3 dny); MizarVision (čínská firma) publikuje fotky US základen navzdory sankcím; Bukurešská devítka summit — Petr Pavel zastupoval ČR; Merkelová jako možná mediátorka EU–Rusko; BBC: 184 ruských tankerů v britských vodách bez zadržení; kolaps lotyšské vlády; Slovensko uzavřelo hranici s Ukrainou (800 ruských dronů na Užhorod); VW + Rafael (Izrael) obranné JV; Kevin Wershe nominován na šéfa Fedu.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — PS usnesení Landsmannschaft: Posselt karikatura Hitlera (14. 5. 2026) {#jindřich-rajchl--ps-usnesení-landsmannschaft-14-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-14_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1138506901797989>
+- **Datum záznamu:** 2026-05-14
+- **Délka:** 0:03:10 | Zhlédnutí: 24 530
+- **Poznámka:** PS schválila usnesení odsuzující sjezd Landsmannschaftu + výzva k upuštění. Posselt označil jednání za „frašku". Rajchl: „Jste obžívnou karikaturou Adolfa Hitlera." Cíl Landsmannschaftu = zrušení Benešových dekretů a přístup k nemovitostem. Srovnání s Polskem. Rajchlův projev chybí v archivu Sněmovny.
+- **Zpracováno:** ano
 - **Zpracováno:** ano
