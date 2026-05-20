@@ -558,3 +558,13 @@ Vrabel považuje za podezřelé, že Moderna již má připravenou vakcínu — 
 ⚡ **Poznámka:** Vědecký konsensus k roku 2026 neklasifikuje hantavirus jako pandemické ohrožení srovnatelné s covidem; přenos člověk-člověk je u tradičních variant hantaviru výjimečný.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)
+
+---
+
+### BioNTech zastavuje výrobu COVID vakcín v Německu — ČsTV2 (12. 5. 2026)
+
+Společnost BioNTech zastavuje výrobu vakcín proti COVID-19 v Německu. Zítko to komentuje jako potvrzení svého stanoviska: „Zůstane jenom po něm smrad a tisíce zničených životů a nebo tisíce pozabíjených lidí." Zároveň připomíná, že hlavní toxikolog firmy Pfizer-BioNTech, doktor Helmut Sterz, odhadl, že firma Pfizer svými vakcínami zabila 60 tisíc lidí. Zítko zastává pozici, že „konec pandemie COVID-19 bude až všichni odpovědní budou stát před Norimberským procesem číslo 2.0."
+
+⚡ **Poznámka:** Snížení výroby COVID vakcín reflektuje klesající poptávku; tvrzení o počtu obětí je Sternzova/Zítkova spekulace mimo vědecký konsensus.
+
+**Zdroje:** [ČsTV2 — Souhrn týdne 10/5 (12. 5. 2026)](_zdroje.md#československo-tv2--souhrn-týdne-105-12-5-2026)

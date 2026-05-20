@@ -911,3 +911,117 @@ Na summitu Evropského politického společenství (EPS) v Jerevanu s účastí 
 Vrabel informuje, že americký ministr zahraničí Marco Rubio oznámil, že USA odstupují od aktivního zprostředkování mírových jednání mezi Ruskem a Ukrainou. Vrabel to hodnotí jako důsledek Trumpovy frustrace z neochoty obou stran ke kompromisu — USA přestávají hrát roli mediátora, čímž se válka ve střednědobém horizontu přesouvá výhradně do evropské geopolitické sféry.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)
+
+---
+
+### Euro odloženo na 2030, referendum bez EU/NATO/euro — Vrabel (11. 5. 2026)
+
+Babišova vláda odložila vyhodnocení připravenosti ČR na přijetí eura na rok 2030 a deklaruje, že otázku nepovažuje za aktuální. Vrabel zároveň upozorňuje, že Babiš chystá zákon o referendu, z nějž jsou EU, NATO i euro výslovně vyloučeny — tedy Češi nebudou moci rozhodovat o zásadních otázkách suverenity. Vrabel předpovídá, že euro nakonec bude zavedeno, a odmítavá prohlášení označuje za politický manévr.
+
+> „Jak máte věřit tomu vyjádření Andreje Babiše, že my euro nechceme. Samozřejmě, že euro bude." — Vrabel
+
+**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026)
+
+---
+
+### Landovský vládní zmocněnec NATO: výdaje 3,5 % + 1,5 % do roku 2035 — Vrabel (11. 5. 2026)
+
+Jakub Landovský byl jmenován vládním zmocněncem pro plnění závazků NATO. Při uvedení do funkce přirovnal současnou situaci k období před druhou světovou válkou, připomněl ruskou anexi Krymu a označil tehdejší reakci mezinárodních institucí za nedostatečnou. Jeho úkolem bude komunikovat navyšování výdajů — spojenci se dohodli na 3,5 % HDP na přímé obranné výdaje a 1,5 % na sekundární výdaje do roku 2035. Vrabel komentuje: Babišův kabinet pokračuje přesně v linii Fialovy vlády, jen s jiným průvodem.
+
+**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026)
+
+---
+
+### Německo-Ukraina: drony s dosahem 1500 km, platforma BRAVE1 — Vrabel (11. 5. 2026)
+
+Německý ministr obrany Boris Pistorius ohlásil při návštěvě Kyjeva společné projekty dronů s dosahem od 100 km až po 1 500 km. Německo se zároveň zapojí do ukrajinské obranné inovační platformy BRAVE1 zaměřené na bezpilotní systémy, elektronický boj a robotiku. Vrabel upozorňuje: drony s dosahem 1 500 km nejsou určeny k obraně frontové linie, ale k úderům hluboko do ruského území. Dle Vrabela jde o taktiku „státního terorismu" cílenou na destabilizaci ruské společnosti.
+
+**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026)
+
+---
+
+### Kalas odmítla Schrödera: bojí se, že by mír dohodl — Vrabel + Rajchl (11.–12. 5. 2026)
+
+Putin navrhl jako zprostředkovatele EU-ruských mírových jednání bývalého německého kancléře Gerharda Schrödera. Kaya Kalas kandidaturu odmítla — Schröder pracoval v energetických firmách napojených na Rusko a seděl by „na dvou židlích". Nabídla místo toho sebe, s odvoláním na zkušenosti právničky. Putin reagoval, že je ochotný jednat s kýmkoliv, ale chce konstruktivní jednání s někým, kdo v Rusku „nedělal problémy". Vrabel: jak může za EU vyjednávat někdo, kdo veřejně podporuje hluboké údery do ruského území?
+
+Rajchl nabídl přímočařejší interpretaci: Kalas odmítla Schrödera, protože se obává, že by mír skutečně dohodl — a tím by skončil válečný byznys EU se zbrojními korporacemi.
+
+> „Ona se totiž bojí, že by Schröder ten mír skutečně dohodl. A co by potom v Bruselu dělali? Kola biznisu by se úplně zastavili. Váleční biznis by byl tentam." — Rajchl
+
+**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026), [Rajchl — Brusel jako válečný štváč (12. 5. 2026)](_zdroje.md#jindřich-rajchl--brusel-jako-válečný-štváč-12-5-2026)
+
+---
+
+### Brusel jako „hlavní světový válečný štváč" — Rajchl (12. 5. 2026)
+
+Rajchl tvrdí, že špičky EU jsou v současnosti hlavním světovým válečným štváčem. Rusko prý nechce pokračování konfliktu (proto navrhuje Schrödera), Amerika má jiné priority, Zelenský je unavený a obyčejní Ukrajinci trpí. Jedinou silou, která konflikt drží při životě, jsou Brusel a zelenský okruh. Motivací je finanční: EU si může bez kontroly půjčovat astronomické částky a přesměrovávat je na zbrojní korporace, které jsou jejími sponzory. Konflikt zároveň zakrývá ekonomický propad EU způsobený Green Dealovou politikou.
+
+> „Špičky EU sedící v Bruselu jsou v tuto chvíli hlavním světovým válečním štváčem. Oni za každou cenu chtějí, aby ten vojenský konflikt pokračoval. Bez ohledu na to, že tam denně umírají stovky nevinných lidí." — Rajchl
+
+**Zdroje:** [Rajchl — Brusel jako válečný štváč (12. 5. 2026)](_zdroje.md#jindřich-rajchl--brusel-jako-válečný-štváč-12-5-2026)
+
+---
+
+### Trump: 4 pilíře Pentagon strategie — Vrabel (11. 5. 2026)
+
+Vrabel popisuje čtyři pilíře americké strategie podle Pentagonu: (1) ovládnout celou záp. hemisféru — USA, Kanada, Grónsko, Venezuela, Kuba; (2) posílit spolupráci s partnery a jejich vojenské kapacity; (3) ovládnout energetické zdroje — venezuelská ropa, smlouvy s EU na americké LNG, konflikt v Hormuzském průlivu zvyšuje cenu americké energie; (4) udržovat konflikty na perifériích, aby se dál nakupovaly americké dluhopisy a nezanikla americká ekonomika s 38 biliony dolarů dluhu.
+
+**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026)
+
+---
+
+### Trump manipuluje finančními trhy přes Hormuz — Vrabel (11. 5. 2026)
+
+Vrabel tvrdí, že Trump zneužívá prezidentskou funkci k obchodování na finančních trzích. Popisuje vzorec: Trump oznámí, že Hormuzský průliv je otevřený — 20 minut předtím někdo vsadí kapitál na pokles ceny ropy — pak se ukáže, že průliv otevřený nebyl a sázka se vyplatí. Dle Vrabela toto „nemá v historii období."
+
+> „Donald Trump oznámí, že Hormuzský průliv je otevřený, a 20 minut předtím někdo vysadí hromady peněz na to, že cena ropy půjde dolů na burzách. Potom ty peníze schrábne a najednou se ukáže, že žádný Hormuzský průliv otevřený nebyl." — Vrabel
+
+**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026)
+
+---
+
+### Macron 2022: požádal Rusko o stáhnutí z Kyjeva, pak to vojensky zneužil — Vrabel (12. 5. 2026)
+
+Putin veřejně odhalil, že v roce 2022 mu volal Emmanuel Macron s žádostí, aby Rusko stáhlo vojska z okolí Kyjeva — bez toho prý nešlo jednat o dohodě. Rusko poslechlo. Macron tuto vojenskou ústupnost využil jako taktickou výhodu k pokračování bojů. Vrabel přirovnává Macronovo jednání k Angele Merkelové, která přiznala, že Minské dohody sloužily jen ke koupení času na vyzbrojení Ukrajiny — dle Vrabela jde o dokladovaný vzorec podvodných dohod.
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+
+---
+
+### Mendelová: Zelenský uživatel kokainu — Vrabel (12. 5. 2026)
+
+Bývalá tisková mluvčí Zelenského Julie Mendelová vydala knihu, ve které popisuje, že lidé z Zelenského okolí ho označují za uživatele kokainu. Sama ho při požívání nepřistihla, ale popisuje vzorec chování: před každým rozhovorem odešel na 15 minut na toaletu a vrátil se zcela energetizovaný. Mendelová se za to ocitla na ukrajinskéom seznamu Mirotvorce — Vrabel tvrdí, že jde o seznam určený k fyzické likvidaci osob. Hodnotí situaci jako „odrovnání zbytku Zelenského kariéry."
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+
+---
+
+### EU ministři obrany + španělský FM: jednotná evropská armáda — Vrabel (12. 5. 2026)
+
+Ministři obrany EU zasedali v Bruselu; Kalas vyzývala k urychlení výroby zbraní a EU zvažuje novou vojenskou misi v Libanonu (nahrazující operaci OSN Unifil). Španělský ministr zahraničí José Manuel Alvarez vyzval EU k vytvoření jednotné evropské armády — 27 samostatných armád je dle něj neefektivních. Českou republiku zastupoval náměstek Radovan Vích, neboť ministr Zuna byl na zbrojním veletrhu v Bratislavě. Vrabel interpretuje: záměrná hádka USA s Evropou sloužila k tomu, aby se Evropa dobrovolně sjednotila do vojenského paktu, přičemž USA budou vyrábět zbraně a Evropa za ně platit.
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+
+---
+
+### Copenhagen AI summit: digitální ID pro děti — zárodek plošné identifikace — Vrabel (12. 5. 2026)
+
+VdL prezentovala na kodaňském summitu o AI a dětech plán povinné evropské aplikace ověřování věku na internetu, technologicky vycházející z covidové doby. Oficiálním důvodem je ochrana dětí před návykovými algoritmy a nevhodným obsahem. Vrabel tvrdí, že skutečným cílem je plošná identifikace všech uživatelů internetu — analogie s čínským systémem sledování obličejem. Propojuje to s čistkou fake účtů Meta: Rajchlův Instagram klesl z 230 000 na 8 000 sledujících.
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+
+---
+
+### Tulsi Gabbard: 120 zahraničních biologických laboratoří financovaných USA — Vrabel (12. 5. 2026)
+
+Šéfka americké národní rozvědky Tulsi Gabbard oznámila vyšetřování více než 120 zahraničních biologických laboratoří financovaných USA. Cílem je zjistit, jaké patogeny uchovávají, a ukončit gain-of-function výzkum. Část laboratoří se nachází na Ukrajině. Pentagon označení za program biologických zbraní popřel. Vrabel tuto zprávu hodnotí jako potvrzení konspirační teorie o biolaboratořích, o níž informoval od roku 2022.
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+
+---
+
+### Sarmat (Satan 2): test a zařazení do ruské armády — Vrabel (12. 5. 2026)
+
+Velitel ruských strategických raketových sil oznámil úspěšné testování mezikontinentální balistické rakety Sarmat (přezdívaná „Satan 2"). Do bojové služby má být do konce roku 2026 zařazen první pluk. Parametry: 35 metrů, hypersonická rychlost, až 16 samostatně naváděných jaderných hlavic, dosah 18 000 km, prakticky nezestřelitelná díky úhybným manévrům a falešným návnadám. Vrabel: Rusko touto zprávou sděluje Evropě, že nemá žádnou účinnou obranu.
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)

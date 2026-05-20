@@ -259,6 +259,14 @@ Kanál Československo TV2 přinesl ve vysílání 7. 5. 2026 vlastní analýzu 
 
 ---
 
+### Tic, Blažek a Daňhel podali stížnost: částka nesouhlasí — ČsTV2 (12. 5. 2026)
+
+V pondělí 12. 5. podali Karim Tic, Pavel Blažek a Radomír Daňhel stížnost proti sdělení obvinění. Zítko se domnívá, že stížnost nesouvisí s popřením viny, ale s tím, že **obviněná částka nesouhlasí se skutečným rozsahem** — stát jim klade za vinu méně, než kolik skutečně odcizili. Skutečný objem činí přes 100 miliard Kč (dva darknetová tržiště: Nucleus Market + SHIB Marketplace, odkud pocházelo 39 918 BTC). Jiříkovský byl již dříve pravomocně odsouzen Vrchním soudem v Olomouci k 9,5 roku odnětí svobody za krádež bitcoinů ze SHIB Marketplace — tato část bitcoinů nebyla do aktuálního obvinění zahrnutá. Zítko: NCOZ by stačilo převzít jeho tříhodinovou analýzu z 20. 4. a do týdne by mohli uzavřít případ a rozdat sdělení obvinění všem hlavním pachatelům.
+
+**Zdroje:** [ČsTV2 — Souhrn týdne 10/5 (12. 5. 2026)](_zdroje.md#československo-tv2--souhrn-týdne-105-12-5-2026)
+
+---
+
 ## Letná 2026 — demonstrace jako politický nástroj neziskovek
 
 ### Financování Mináře a Šimon Pánek z Člověka v tísni

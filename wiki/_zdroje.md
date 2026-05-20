@@ -1207,3 +1207,67 @@
 - **Délka:** 0:01:38 | Zhlédnutí: 129 872
 - **Poznámka:** Střih z debaty s Demetrashvilim. Rajchl: 4 roky zbraní a peněz = „zlaté bidety v Kyjevě"; válka „fakticky rozhodnutá"; diplomatická cesta jako jediný záchrana. Petr Pavel: nazval Trumpa „odpudivá lidská bytost" + „poškodil NATO více než Putin" → nemůže zastupovat ČR na NATO summitu.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Cizí video: Den vítězství demonstrace (10. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-10_Ladislav-Vrabel_Videoportál.txt)
+- **Kanál:** Ladislav Vrabel (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1487689556182625>
+- **Datum záznamu:** 2026-05-10
+- **Délka:** 0:01:03 | Zhlédnutí: neznámo
+- **Poznámka:** Cizí sdílené video — záběr demonstranta vs. policie při slavnostech Dne vítězství. Nejde o Vrabelův monolog. Přeskočeno.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Cizí video: Den vítězství demonstrace (10. 5. 2026, var. 2)
+- **Soubor:** [přepis](prepisy/done/2026-05-10_Ladislav-Vrabel_Videoportál_1.txt)
+- **Kanál:** Ladislav Vrabel (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1487689556182625>
+- **Datum záznamu:** 2026-05-10
+- **Délka:** 0:01:03 | Zhlédnutí: neznámo
+- **Poznámka:** Druhý přepis téhož cizího videa (stejná URL). Přeskočeno — obsah totožný s variantou 1.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Cizí video: Slovenská AI satira „co dělat kdyby vypukla válka" (11. 5. 2026)
+- **Soubor:** [přepis](prepisy/done/2026-05-11_Ladislav-Vrabel_Videoportál.txt)
+- **Kanál:** Ladislav Vrabel (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1512295420545014>
+- **Datum záznamu:** 2026-05-11
+- **Délka:** 0:01:25 | Zhlédnutí: 4 582
+- **Popis:** „Ach ta AI - pořád si plete národnosti 😄"
+- **Poznámka:** Cizí sdílené video — slovenská AI-generovaná satira o tom, co dělat, kdyby na Slovensku vypukla válka (slovensky). Nejde o Vrabelův monolog. Přeskočeno.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy 11. 5. 2026
+- **Soubor:** [přepis](prepisy/done/2026-05-11_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1263586775946858>
+- **Datum záznamu:** 2026-05-11
+- **Délka:** 0:38:06
+- **Poznámka:** Večerní zprávy se Zuzkou. Klíčová témata: Macinka/Posselt/Landsmannschaft (Šöder na sjezd + Pražský hrad); Landovský vládní zmocněnec NATO (3,5 % + 1,5 % = 5 % HDP do 2035); euro odloženo na 2030, referendum bez EU/NATO/euro; Německo-Ukraina drony 1 500 km + BRAVE1 platforma; Kaya Kalas odmítla Schrödera, nabídla sebe jako vyjednavačku; Írán/Trump křehké příměří; Trump 4 pilíře Pentagon strategie; Trump manipulace finančních trhů přes Hormuz.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Brusel jako válečný štváč (12. 5. 2026) {#jindřich-rajchl--brusel-jako-válečný-štváč-12-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-12_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/955494947115246>
+- **Datum záznamu:** 2026-05-12
+- **Délka:** 0:03:18 | Zhlédnutí: 92 537
+- **Poznámka:** Rajchl: EU/Brusel jsou „hlavní světový válečný štváč" — zbrojní korporace jsou sponzory EU, válka zakrývá ekonomický propad z Green Dealu; Kalas odmítla Schrödera, protože se bojí, že by mír dohodl; Rusko/Amerika/Ukrajinci si přejí konec — jen Brusel a Zelenský pokračují. 90 mld. EUR přistálo na účtě.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy 12. 5. 2026 {#ladislav-vrabel--večerní-zprávy-12-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-12_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/3571092769707063>
+- **Datum záznamu:** 2026-05-12
+- **Délka:** 0:52:34
+- **Poznámka:** Večerní zprávy se Zuzkou. Klíčová témata: Mendelová/Zelenský kokain (kniha, Mirotvorce); Macron 2022 podvod — stáhnutí z Kyjeva zneužil k pokračování bojů; Sudetoněmecký sjezd — debata PS, výzva k zákazu LM; EU ministři obrany Brusel (Kalas — urychlení zbraní, mise v Libanonu); španělský FM Alvarez — jednotná EU armáda; Copenhagen AI summit — digitální ID pro děti; Meta čistka fake účtů (Rajchl Instagram 230k→8k); Britská vládní krize (Starmer — 4 ministři rezignovali); Trump do Číny 13–15. 5. (Musk, Cook, Fink); Tulsi Gabbard — 120 zahraničních biolaboratoří USA; Sarmat (Satan 2) — test a zařazení do ruské armády do konce 2026.
+- **Zpracováno:** ano
+
+## Československo TV2 — Souhrn týdne 10/5 (12. 5. 2026) {#československo-tv2--souhrn-týdne-105-12-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-12_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 / Pavel Zítko (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1328740599169728>
+- **Datum záznamu:** 2026-05-12
+- **Délka:** 0:58:53 | Zhlédnutí: 587
+- **Poznámka:** Nedělní souhrn týdne (10/5). Témata: Bitcoin kauza — Tic/Blažek/Daňhel podali stížnost, skutečná částka >100 mld. (Nucleus + SHIB Marketplace), Jiříkovský dříve odsouzen 9,5 roku; COVID vakcíny — BioNTech zastavuje výrobu v Německu, Pfizer-BioNTech toxikolog odhaduje 60 000 mrtvých; chozen bosou nohou (Harvard studie, Nike kritika); Hantavirus — americký patent 1997 + 2022; COVID tour Peková na Slovensko (14. 5. Zlaté Moravce, s Kotlebou); Rainer Füllmich narozeniny (5. 5.); válečné reparace ČR vůči Německu — Zítko odhaduje 9 700 tun zlata.
+- **Zpracováno:** ano
