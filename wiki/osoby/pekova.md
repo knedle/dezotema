@@ -2,8 +2,6 @@
 
 Česká virologička a imunologička, soudní znalkyně. Zapojila se do kritiky covidových opatření a mRNA vakcín, provádí vlastní laboratorní analýzy vzorků vakcín. Aktivně se účastnila COVID tour (jaro 2026) — série veřejných přednášek organizovaných Pavlem Zítkem.
 
-**Zpracované zdroje:** [Soběšovice — Q&A část 2 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4) · [Soběšovice — přednáška část 1 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4) · [Svobodný vysílač CS: COVID tour (9. 4. 2026)](../_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026) · [Chcimír: Füllmich, petice, Pavel (22. 4. 2026)](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026) · [Mezinárodní podpora jako divadlo (26. 4. 2026)](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026) · [Palouček: dopisy Rajchlovi (1. 5. 2026)](../_zdroje.md#pavel-zítko--palouček-u-plzně-peková-dopisy-rajchlovi-1-5-2026)
-
 ---
 
 ## Témata
@@ -26,3 +24,7 @@
 | Jiří Turánek | ✅ pozitivní | Spoluautor sněmovního semináře o covidových datech; Peková jeho práci považuje za vědecky závažnou | 2026-04-26 | [COVID tour 26. 4.](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026) |
 | Petr Pavel | ❌ negativní | Jeho právník odmítl žádost o audienci; Peková považuje odmítnutí za signál: „mají prezidenta, ke kterému se nedá dostat" | 2026-04-22 | [Chcimír 22. 4.](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026) |
 | Pavel Zítko | ✅ pozitivní | Organizátor COVID tour, hostitel přenosů; Peková mu důvěřuje jako platformě | 2026-04-22 | [Chcimír 22. 4.](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026) |
+
+---
+
+**Zpracované zdroje:** [Soběšovice — Q&A část 2 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4) · [Soběšovice — přednáška část 1 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4) · [Svobodný vysílač CS: COVID tour (9. 4. 2026)](../_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026) · [Chcimír: Füllmich, petice, Pavel (22. 4. 2026)](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026) · [Mezinárodní podpora jako divadlo (26. 4. 2026)](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026) · [Palouček: dopisy Rajchlovi (1. 5. 2026)](../_zdroje.md#pavel-zítko--palouček-u-plzně-peková-dopisy-rajchlovi-1-5-2026)
