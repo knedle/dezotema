@@ -1120,6 +1120,25 @@ Rajchl také upozornil, že jeho projev v PS záhadně chybí v archivu videozá
 
 ---
 
+### Lidice Memory: sjezd je „demonstrace necitlivosti" — Rajchl čte prohlášení v parlamentu (15. 5. 2026)
+
+Rajchl ve svém parlamentním projevu z 14. května 2026 přečetl prohlášení spolku Lidice Memory — organizace sdružující přeživší lidické děti a potomky obětí nacistického teroru. Prohlášení zveřejnil 15. května.
+
+Klíčové body prohlášení Lidice Memory:
+- **Zásadní odmítnutí:** spolek odmítá konání sjezdu na území České republiky
+- **Respekt ke smíření:** uznávají česko-německou deklaraci 1997 i omluvu německého prezidenta Gauka z roku 2012 v Lidicích; s německými organizacemi spolupracují od let — „předsudky se u nás nekonají"
+- **Meze smíření:** „Smíření však nemůže znamenat zapomnění ani přepisování historické skutečnosti."
+- **Hodnocení sjezdu:** „Plánovaný sjezd nepovažujeme za projev smíření, nejbrž za demonstraci necitlivosti a neúcty."
+- **Požadavek:** důrazně žádají využití všech dostupných právních, politických i diplomatických prostředků k odvrácení sjezdu
+
+> „Plánovaný sjezd nepovažujeme za projev smíření, nejbrž za demonstraci necitlivosti a neúcty." — Lidice Memory, citováno Rajchlem v parlamentu
+
+Rajchl svou řeč uzavřel otázkou směřovanou k oponentům: „Nazvali byste autory tohoto textu nahnědlými nácky? Přeživší z Lidic? Asi těžko." Upozornil, že PS usnesení je obsahově totožné s prohlášením Lidice Memory — lidé, kteří to odsuzují jako extremismus, fakticky označují přeživší za extremisty. Závěr: sjezd by měl proběhnout v Německu — obě skupiny (příznivci i odpůrci) by pak byly spokojeny.
+
+**Zdroje:** [Rajchl — Lidice Memory v parlamentu (15. 5. 2026)](_zdroje.md#jindřich-rajchl--lidice-memory-v-parlamentu-15-5-2026)
+
+---
+
 ### Jiří Černohorský: koaliční poslanci — „nacistické podrštašky" a kolaboranti (7. 5. 2026)
 
 Jiří Černohorský v krátkém videu reagoval na jednání PS k sudetoněmeckému sjezdu. Koaliční poslance (ODS, TOP 09, STAN, KDU-ČSL, Piráti) označil za „nacistické podrštašky", „kolaboranty" a „vlastní zrádce." Zástupcům německé strany vzkázal: „Vy tady nejste doma, vy jste tady hosté." Obhajuje Babišovu vládu — lidé si ji demokraticky zvolili. Kritizuje ty, kdo po hlasování „volali do Bavorska."

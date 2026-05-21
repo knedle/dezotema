@@ -1478,3 +1478,36 @@
 - **Délka:** 0:07:54 | Zhlédnutí: 541
 - **Poznámka:** Cizí sdílené video — Plk. Mgr. Stanislav Novotný hovoří o „sametovém převratu" a Petru Pavlovi jako jeho „završení." Nejde o Tarabové monolog. Přeskočeno.
 - **Zpracováno:** přeskočeno
+
+## Jindřich Rajchl — Lidice Memory v parlamentu (15. 5. 2026) {#jindřich-rajchl--lidice-memory-v-parlamentu-15-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-15_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2476600516111412>
+- **Datum záznamu:** 2026-05-15
+- **Délka:** 0:05:37 | Zhlédnutí: 61 000
+- **Poznámka:** Nejpodstatnější část parlamentního projevu k sjezdu Sudetoněmeckého Landsmannschaftu. Rajchl čte prohlášení spolku Lidice Memory (přeživší a potomci obětí Lidic): zásadní odmítnutí sjezdu na území ČR; smíření ≠ zapomnění; sjezd je „demonstrace necitlivosti a neúcty." Rajchl: PS usnesení je obsahově totožné s prohlášením přeživších — nazvali byste přeživší z Lidic „nahnědlými nácky"? Sjezd měl být konat v Německu.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál 16. 5. 2026 {#jindřich-rajchl--videoportál-16-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-16_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **Datum záznamu:** 2026-05-16
+- **Délka:** neznáma
+- **Poznámka:** Přeskočeno — neobsahuje Rajchlův monolog. Mluví žena z PRO referující z veřejného projednání větrných akceleračních zón v Radiopaláci (16. 5. 2026), ~850 účastníků, experti Čížek, Noveský, Beran. Rajchl se neobjevuje.
+- **Zpracováno:** přeskočeno
+
+## Jindřich Rajchl — Facebook Live 17. 5. 2026 {#jindřich-rajchl--facebook-live-17-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-17_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **Datum záznamu:** 2026-05-17 (obsah z 30. 4.)
+- **Délka:** neznáma
+- **Poznámka:** Přeskočeno — neobsahuje Rajchlův monolog. Obsah je zřejmě z 30. dubna: mluvčí zmiňuje Füllmichovy narozeniny (5. 5., 75 let), COVID tour Palouček, bratislavský hrad (5. 5.), Rajchla zmiňuje ve 3. osobě jako „Indřich Reichl". Pravděpodobně Zítko nebo jiný host promující COVID tour.
+- **Zpracováno:** přeskočeno
+
+## Jindřich Rajchl — Videoportál 19. 5. 2026 {#jindřich-rajchl--videoportál-19-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-19_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / Videoportál)
+- **Datum záznamu:** 2026-05-19 (obsah z 14. 5.)
+- **Délka:** neznáma
+- **Poznámka:** Přeskočeno — soubor zjevně označen jako Rajchl, ale obsah je jiného mluvčího. Speaker se sám identifikuje jako „Ladislav" a hovoří spolu s moderátorkou „Zuzkou" — zřejmě Vrabelův večerní pořad ze 14. 5. Témata odpovídají Vrabelovu formátu (Trump-Xi, dluhopisy, Rubio/NATO, EU chudoba). Rajchl se v přepisu neobjevuje.
+- **Zpracováno:** přeskočeno
