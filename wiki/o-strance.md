@@ -1,8 +1,8 @@
 # O stránce
 
-## Co je DezoWiki
+## Co je DezoTema
 
-DezoWiki je tematická encyklopedie názorů, postojů a tvrzení, která vychází z přepisů veřejně dostupných videí a rozhovorů. Zachycuje, co konkrétní lidé říkají — bez hodnocení toho, zda mají pravdu.
+DezoTema je tematická encyklopedie názorů, postojů a tvrzení, která vychází z přepisů veřejně dostupných videí a rozhovorů. Zachycuje, co konkrétní lidé říkají — bez hodnocení toho, zda mají pravdu.
 
 Obsah je organizován tematicky, ne podle zdrojů. Jedno téma může zahrnovat výroky více mluvčích, kteří se shodují, nebo naopak výroky, které si odporují — v takovém případě jsou obě verze zachovány a označeny jako konflikt.
 
@@ -26,4 +26,4 @@ Predikce jsou sledovány samostatně na stránce [Predikce](predikce.md) a průb
 
 ## Co wiki není
 
-DezoWiki neprovádí fact-checking ani nevynáší verdikty o pravdivosti výroků. Není to seznam dezinformací ani jejich obhajoba. Je to strukturovaný záznam toho, co bylo řečeno — aby bylo možné sledovat vzorce, vývoj názorů a vzájemné vztahy mezi tématy a mluvčími.
+DezoTema neprovádí fact-checking ani nevynáší verdikty o pravdivosti výroků. Není to seznam dezinformací ani jejich obhajoba. Je to strukturovaný záznam toho, co bylo řečeno — aby bylo možné sledovat vzorce, vývoj názorů a vzájemné vztahy mezi tématy a mluvčími.
