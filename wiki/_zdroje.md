@@ -1496,6 +1496,15 @@
 - **Poznámka:** Pondělní večerní zprávy vysílaná z auta. Témata: Petr Pavel záštita sjezdu Landsmannschaft = velezrada (§65 ústavy); bavorský kancléř na Hradu = diplomatické ponížení; Babiš/Global Leadership Exchange — věkové ověření soc. sítí → digitální ID → sledování všech; Zelenská NABU korupce + útěk do Londýna?; Rheinmetall+Destinus Ruta 3 — raketa 2 000 km; zbrojení korupce — ceny +50–60 %, výběrová řízení neexistují (jako COVID); Írán nová pravidla průjezdu Hormuzu; Trump hrozí Íránu (AI obrázek potopených lodí); Kaja Callas odmítnuta jako vyjednávačka s Ruskem; migrační pakt 1. 6.; Španělsko 100k migrantů; Slovensko/plyn Ázerbájdžán — Fico odejde?; Tommy Robinson — Tačinsky zakázán do UK; EU ekonomika na levném ruském plynu — zbavujeme se dobrovolně.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — FB Live: Pavel velezrada (18. 5. 2026) {#ladislav-vrabel--fb-live-pavel-velezrada-18-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-18_Ladislav-Vrabel_Facebook-Live_1.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1323984056280283>
+- **Datum záznamu:** 2026-05-18
+- **Délka:** 4 min 25 s
+- **Poznámka:** Krátký klip věnovaný výhradně kauze Petr Pavel / Landsmannschaft. Vrabel rozšiřuje právní argumentaci: Benešovy dekrety jako součást ústavního pořádku; Wittikobund — vnitřní spor v Landsmannschaftu o rušení dekretů; statuta „curik nachajmat"; Pavel za Evropské spojené státy. Senátoři, kteří nepodají žalobu, se sami dopouštějí velezrady.
+- **Zpracováno:** ano
+
 ## Lenka Tarabová — Veřejné projednání větrné elektrárny (15. 5. 2026) {#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-15_Lenka-Tarabová_Videoportál.txt)
 - **Kanál:** Lenka Tarabová (Facebook / Videoportál)

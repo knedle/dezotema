@@ -636,9 +636,13 @@ Vrabel ve vysílání z 18. 5. 2026 hodnotí záštitu prezidenta Pavla nad sjez
 
 Zároveň označuje pozvání bavorského kancléře (zemského premiéra) na Hrad za diplomatické ponížení: prezident přijal regionálního politika na úrovni, která odpovídá setkání prezidenta se suverénním státem — čímž fakticky zařadil ČR na úroveň spolkové země Německa. Vrabel uvádí diplomatické pravidlo: prezident přijímá prezidenta, hejtman přijímá kancléře.
 
+Ve zkráceném klipu ze stejného dne Vrabel rozšiřuje argumentaci. Benešovy dekrety nepovažuje za běžné zákony, ale za součást ústavního pořádku — kdo je chce prolamovat, útočí přímo na uspořádání republiky. Upozorňuje na Wittikobund: organizaci, která se soudila s vedením Landsmannschaftu proto, že se vedení formálně vzdalo požadavků na vracení majetku — jenže značná část členů na „prolamování dekretů" trvá dál. Ve zřizovacích dokumentech Landsmannschaftu stojí heslo **„curik nachajmat"** (zpátky do domoviny) — organizace tedy považuje ČR za svoji domovinu a implicitně si nárokuje návrat. Jako třetí bod obžaloby přidává Vrabel Pavlovo veřejné prohlášení o „Evropských spojených státech" — tj. záměrné oslabení státní suverenity ČR.
+
+Senátory, kteří přes tyto fakta nepodají ústavní žalobu, označuje za spoluviníky: „Jestli senátoři tohle neudělají a nevidí, tak se podle mě dopouštějí velezrady i oni."
+
 > „Prezident republiky Petr Pavel [...] z toho důvodu, že porušuje územní celistvost České republiky, se dopouští velezrady." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
 
-**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026), [Vrabel — FB Live: Pavel velezrada (18. 5. 2026)](_zdroje.md#ladislav-vrabel--fb-live-pavel-velezrada-18-5-2026)
 
 ---
 
