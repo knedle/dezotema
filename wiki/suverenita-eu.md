@@ -124,6 +124,32 @@ Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů 
 
 ---
 
+### EU ekonomika vybudována na levném ruském plynu — vzdáváme se jí dobrovolně (Vrabel, 18. 5. 2026)
+
+Vrabel připomíná výrok Ursuly von der Leyen, která sama přiznala, že Evropa byla „vybudována na levném plynu z Ruska." Vrabel poukazuje na absurditu: desetiletí fungující a ekonomicky výhodné energetické partnerství bylo přerušeno dobrovolně a bez racionálního ekonomického důvodu. Místo levného ruského plynu dovážíme dražší a méně kvalitní LNG z USA, ropu z Venezuely nebo Kazachstánu. Vrabel k tomu dodává: od Nord Streamu, který byl zničen, Trump sám prohlásil, že žádný takový plynovod nebude fungovat — a nefunguje.
+
+> „Dávno, ještě před pár lety, jsme měli stabilní ekonomiku [...] postavenou na dodávkách ropy a plynu z Ruska. A teď se toho dobrovolně zbavujeme. Naprosto bezdůvodně." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
+### Lavrov na BRICS: Donbas — jazyková práva, Ukraina 4× překročila MMF limit (Vrabel, 15. 5. 2026)
+
+Vrabel informuje, že ruský ministr zahraničí Lavrov na konferenci BRICS kritizoval porušování jazykových práv rusky mluvících obyvatel v Donbasu na Ukraině. Zároveň Lavrov poukázal na to, že Ukraina čtyřikrát překročila limit dluhu stanoveného MMF. Vrabel tyto dvě informace propojuje: Ukraina je ekonomicky závislá na Západu a z tohoto důvodu nemá skutečný zájem na mírovém urovnání.
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026)
+
+---
+
+### Írán a Hormuz: nová mýtná pravidla průjezdu (Vrabel, 18. 5. 2026)
+
+Vrabel informuje, že Írán zavedl nová pravidla pro průjezd lodí Hormuzským průlivem — lodě musejí předem získat povolení íránských úřadů a pohybovat se ve vymezených koridorech. Vrabel to hodnotí jako očekávaný krok: Írán jasně deklaroval, že bude vybírat mýtné a kontrolovat průjezd. Trump reagoval AI-generovaným obrázkem potopených íránských lodí — Vrabel ho interpretuje jako opakované vyhrožování útokem na Írán.
+
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
 ### Íránská krize a Hormuzský průliv — nutnost jednat nyní s Ruskem
 
 V nedělním živém vysílání 5. 4. 2026 Rajchl varuje před důsledky konfliktu v Íránu pro Evropu: uzavření Hormuzského průlivu by způsobilo výpadek dodávek ropy a plynu, který Evropa bez vlastních zdrojů není schopna kompenzovat. Holandské zásobníky jsou prý prázdné. Cena pohonných hmot v Rusku je 15–16 Kč/litr (vč. 20% DPH), zatímco v ČR 50 Kč/litr — rozdíl přičítá zbytečným mezičlánkům (ropa z Ruska přes Indii a Čínu zpět do EU).
@@ -458,6 +484,16 @@ Vrabel operaci označuje za „genocidu a etnickou čistku" — a připomíná n
 
 ---
 
+### Migrační pakt platí od 1. 6. 2026 — Vrabel (16.–18. 5. 2026)
+
+Vrabel ve třech po sobě jdoucích vysíláních (16.–18. 5. 2026) opakovaně upozorňuje, že migrační pakt EU začíná platit pro ČR od 1. června 2026. Varuje, že dosavadní odmítání vlády je pouze rétorika bez právní váhy: bez formálního opt-outu bude EU po ČR vymáhat plnění soudní cestou. Migrační pakt označuje za klíčové ohrožení suverenity, které nelze ignorovat.
+
+Vrabel jako varovný příklad uvádí Západ: Německo, Francie, Španělsko, Itálie, Řecko, Belgie, Holandsko — všude jsou islámské čtvrti, terorizace obyvatelstva, devastace veřejného prostoru. Poukazuje na příliv 100 000 migrantů z Afriky do Španělska v jedné vlně. ČR by tuto cestu neměla opakovat.
+
+**Zdroje:** [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026), [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
 ### Migrační pakt: české vládní odmítnutí je formálně prázdné (Vrabel)
 
 Vrabel upozorňuje (1. 5. 2026), že česká vláda sice deklaruje odmítnutí migračního paktu, ale neprovedla žádný formální opt-out — pakt začíná platit přibližně 10. května 2026. Pokud vláda začne odporovat (odmítne přijímat migranty nebo platit), EU ji zažaluje u Evropského soudního dvora, vyhraje a ČR zaplatí pokuty navíc k původním závazkům. Vrabel to uvádí jako příklad toho, jak EU funguje: deklarace v médiích nestačí, k reálnému vyvázání je třeba formální právní krok.
@@ -473,6 +509,16 @@ Vrabel (1. 5. 2026) odmítá jakékoliv uvažování o přistoupení Ukrajiny k 
 Ironicky dodává: „Možná je to dobře, kdyby vstoupila Ukrajina do EU — alespoň EU dřív zanikne, protože přijdou Rusové."
 
 **Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+
+---
+
+### Fico po návštěvě Moskvy: kritika západních médií, EU hrozí Slovensku dotacemi (Vrabel, 16. 5. 2026)
+
+Vrabel informuje, že Robert Fico po návštěvě Moskvy (9. 5. 2026) veřejně kritizoval západní media za způsob, jakým jeho cestu referovaly. Zároveň EU začala hrozit Slovensku pozastavením zemědělských dotací jako nástrojem nátlaku. Vrabel hodnotí EU postup jako vydírání — klasický bruselský mechanismus: kdo se chová suverénně, ztrácí peníze.
+
+Ve vysílání z 18. 5. Vrabel spekuluje, že Slovensko začíná jednat o nahrazení ruského plynu ázerbájdžánským — pokud se Fico vydá touto cestou a vzdá se ruské ropy, Vrabel predikuje, že ztratí politické zázemí: „Až se Fico zbaví ruské ropy, zbavíme se Fica."
+
+**Zdroje:** [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
 
 ---
 
@@ -512,6 +558,42 @@ Vrabel toto čte jako potvrzení svého dřívějšího postoje: Západ v zákul
 
 ---
 
+### Digitální euro: závazné pro všechny členské státy EU (Vrabel, 16. 5. 2026)
+
+Vrabel referuje o vyjádření Valdise Dombrovskise (EU komisaře), že digitální euro bude závazné pro všechny členské státy Evropské unie bez možnosti opt-outu. Vrabel spojuje digitální euro s digitální kontrolou: hotovost = svoboda; digitální peníze = dokonalý nástroj sledování, přidělování a omezování spotřeby (benzín na příděl, maso na příděl, omezené kredity). Dřívější proticovidové zkušenosti s digitálními certifikáty označuje za prototyp systému.
+
+**Zdroje:** [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+
+---
+
+### Tommy Robinson v Londýně: 100 000 lidí, 4 000 policistů, face recognition, 43 zatčených (Vrabel, 16. 5. 2026)
+
+Vrabel informuje o demonstraci Tommyho Robinsona v Londýně, které se dle dostupných informací zúčastnilo přibližně 100 000 lidí. Policie nasadila 4 000 příslušníků, drony a systémy rozpoznávání obličejů. Bylo zatčeno 43 osob. Polský europoslancec Dominik Tačinsky (PiS) byl britskými úřady zakázán vstoupit do UK, aby se demonstrace neúčastnil — musel se připojit přes videokonferenci. Britský aktivista David Icke má dlouhodobý zákaz vstupu do evropských zemí.
+
+Vrabel hodnotí tyto zákazy jako důkaz, že západní demokracie není skutečnou svobodou: politici, aktivisté, umělci ani sportovci nemohou volně cestovat, pokud jejich názory neodpovídají mainstreamu.
+
+> „To jsou západní hodnoty. [...] Totální totalita." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
+### Tribunál EU pro ruské zločiny: 10M EUR, ale bez jurisdikce — k ničemu (Vrabel, 16. 5. 2026)
+
+Vrabel komentuje zprávu, že Česká republika přispěla 10 milionů EUR na mezinárodní tribunál EU pro zločiny Ruské federace. Tribunál označuje za zbytečný: jurisdikce platí pouze pro státy, které ji uznaly — Rusko ji nikdy nepodepíše, takže tribunál nemá na koho soudit. Je to politické divadlo se skutečnými finančními náklady.
+
+**Zdroje:** [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026)
+
+---
+
+### Zbrojení jako korupce: ceny zbraní +50–60 %, výběrová řízení neexistují (Vrabel, 18. 5. 2026)
+
+Vrabel poukazuje na to, že ceny zbraní v Evropě vzrostly za poslední dva roky o 50–60 % (uvádí estonský ministr obrany). Vrabel to nevysvětluje jako výsledek trhu, ale jako záměrnou korupci: vlády neprovádějí výběrová řízení, sjednávají kontrakty „tamhle s tím zbrojařem" a výsledkem je, že ČR koupila F-35A skoro dvakrát dráže než Izrael. Srovnává s COVIDem: stejný mechanismus — vyděsit obyvatelstvo, obejít výběrová řízení, realizovat stamilionové kšefty. Odhaduje, že za každý miliardový kontrakt si politik vezme 10–20 %.
+
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
 ### ČR se připojila k tribunálu pro ruské válečné zločiny — 23. zemí (Vrabel, 28. 4. 2026)
 
 Vrabel ve vysílání z 28. dubna 2026 komentuje zprávu, že Česká republika se přidala k mezinárodní iniciativě Rady Evropy za vznik zvláštního tribunálu pro zločiny ruské agrese vůči Ukrajině — jako 23. stát. Podpis proběhl na okraj summitu Trojmoří v Dubrovníku (28.–29. 4. 2026). Vrabel přičítá rozhodnutí přímo Andreji Babišovi: „Babiš musel schválit. Nikdo jiný ČR na Radě Evropy nezastupuje."
@@ -537,6 +619,38 @@ Zároveň komentuje, že Macinka podepsal přistoupení ČR k „bunker koalici"
 Vrabel ve vysílání 29. dubna 2026 informuje o petici iniciativy „ČR na prvním místě", která žádá vládu, aby Sudetoněmecký Landsmannschaft prohlásila za extremistickou organizaci a zakázala jí pořádat sjezd v Brně. Vrabel tuto snahu vítá a zasazuje ji do kontextu: sjezd v Brně (22.–24. 5. 2026) se blíží a dosud nikdo formální kroky nepodnikl. Iniciativa sbírá podpisy online.
 
 **Zdroje:** [Vrabel — Noční zprávy: Sudeťáci, referendum, Zalužný, 29. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-sudeťáci-referendum-zalužný-29-4-2026)
+
+---
+
+### Posselt jako „přetlustá karikatura Hitlera" — Vrabel, potvrzeno Rajchlem (15. 5. a 17. 5. 2026)
+
+Vrabel při komentáři k sjezdu v Brně popisuje Bernda Posselta jako někoho, kdo se záměrně stylizuje do Adolfa Hitlera: češe se jako on, nosí knírek jako on, snaží se vypadat jako „přetlustý Hitler." Vrabel tvrdí, že Rajchl tento výraz zopakoval o dva dny později (volal Posselta „karikaturu tlustého Hitlera") — a komentuje to ironicky jako Rajchlovo opakování jeho výroků.
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+
+---
+
+### Petr Pavel: záštita sjezdu Landsmannschaftu = velezrada (§65 ústavy) — Vrabel (18. 5. 2026)
+
+Vrabel ve vysílání z 18. 5. 2026 hodnotí záštitu prezidenta Pavla nad sjezdem sudetoněmeckého Landsmannschaftu jako porušení §65 Ústavy ČR, podle nějž je útok prezidenta na územní celistvost a svrchovanost republiky velezradou. Pavel navíc dříve protiústavně prohlásil, že nejmenuje ministry, kteří by chtěli odejít z EU nebo NATO. Vrabel vyzývá, aby poslanci a senátoři požádali Ústavní soud o prošetření, a požaduje odvolání prezidenta.
+
+Zároveň označuje pozvání bavorského kancléře (zemského premiéra) na Hrad za diplomatické ponížení: prezident přijal regionálního politika na úrovni, která odpovídá setkání prezidenta se suverénním státem — čímž fakticky zařadil ČR na úroveň spolkové země Německa. Vrabel uvádí diplomatické pravidlo: prezident přijímá prezidenta, hejtman přijímá kancléře.
+
+> „Prezident republiky Petr Pavel [...] z toho důvodu, že porušuje územní celistvost České republiky, se dopouští velezrady." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
+### Srbsko jako model suverenity — multivektorová politika (Vrabel, 15.–17. 5. 2026)
+
+Vrabel opakovaně označuje Srbsko za vzor pro ČR v otázce státní suverenity. Srbsko nakupuje hypersonické rakety z Číny, stíhačky z Francie, drony vyrábí z Izraele, vojenská cvičení pořádá s Ruskem, Čínou i NATO — a přitom odmítá dát sankce Rusku. Předseda vlády Vučić jedná přímo s Putinem a vyjednal pro Srbsko cenu plynu přibližně na polovinu tržní ceny na tři měsíce dopředu. Čína masivně investuje do srbské infrastruktury (vlaky, silnice, mosty). USA mají taky dobré vztahy. Srbsko vyváží nejvíce přes Ázerbájdžán do EU.
+
+V 16. 5. Vrabel informuje, že Vučić jede do Číny — komentuje to jako potvrzení srbského kurzu: přátelství se všemi, závazky k nikomu. Vučić odmítl vstup do EU jako nereálný a nevýhodný. Srbsko podle Vrabela ukazuje, že svoboda = možnost obchodovat s kýmkoli bez vydírání.
+
+> „Takhle si představuji tu svobodu — že můžete dělat obchod s kým chcete a nikdo vás netlačí." — Ladislav Vrabel, [Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
 
 ---
 

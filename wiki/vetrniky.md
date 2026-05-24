@@ -38,6 +38,14 @@ Lhůta pro připomínky: 15 dnů do **1. 6. 2026**. Web pro vzory připomínek: 
 
 ## Technická a environmentální kritika
 
+### Větrníky: 60 kg nanočástic, vibrace a degradace půdy — Vrabel (15. 5. 2026)
+
+Vrabel tvrdí, že každý větrník produkuje přibližně 60 kg nanočástic, které se dostávají do půdy a ovzduší v okolí. Tyto nanočástice znehodnocují zemědělskou půdu pod větrnými turbínami a způsobují zdravotní rizika. Větrníky navíc produkují vibrace, jež negativně ovlivňují zvěř v okolí. Vrabel tato tvrzení zasazuje do širší kritiky Green Dealu: ze záminky ochrany přírody dochází k faktickému poškozování přírody i zdraví lidí.
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026)
+
+---
+
 ### Větrné elektrárny: nerecyklovatelné materiály, 8 000 tun betonu, nelze odmontovat — Černohorský
 
 Jiří Černohorský technicky a environmentálně kritizuje větrné elektrárny:

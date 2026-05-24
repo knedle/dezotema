@@ -1452,6 +1452,50 @@
 - **Poznámka:** Navazuje na krátký „velezhrádče" klip. Témata: Facebook throttling živých přenosů; bavorský CDU Holetšek + poslanec Hopp kritizují usnesení PS; Pekarová Adamová jede na sjezd LM (22.–25. 5. Brno); video Michala Svatoše (LM) — strategie „vymydlit palice" = dekrety padnou; prezidentský/poslanecký slib vs. skutečnost; koaliční poslanci „bonzovali" Němcům během schůze; „za doby ČSR by tyhle kurvy vysely."
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Večerní zprávy 15. 5. 2026 {#ladislav-vrabel--večerní-zprávy-15-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-15_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1499266275238864>
+- **Datum záznamu:** 2026-05-18
+- **Délka:** cca 72 min
+- **Poznámka:** Večerní zprávy s komentářem. Témata: Landsmannschaft sjezd Brno — Posselt jako „přetlustý Hitler"; USA zrušilo 4 000 vojáků do Polska; Rubio o Ukraině jako nejsilnější EU armádě; Lavrov BRICS — jazykové právo, Ukraina 4× MMF limit; Ukraina prodej přístavu Černomorsk cizím investorům; Trump-Čína — tokenizace světa (BlackRock, Visa, NVIDIA, Musk); OSN reforma — Írán volá po reformě Rady bezpečnosti; UN expert Alfred Sayas — USA by se měly omluvit za biolaboratoře na Ukraině; chemtrails = těžké kovy; větrníky 60 kg nanočástic; Green Deal kritika; ČR by měla vystoupit z EU.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy 16. 5. 2026 {#ladislav-vrabel--večerní-zprávy-16-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-16_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/25182260844805939>
+- **Datum záznamu:** 2026-05-16
+- **Délka:** cca 60 min
+- **Poznámka:** Sobotní večerní zprávy. Témata: Srbsko — Vučič jede do Číny, neutrální politika jako vzor, hypersonické rakety; Fico kritizuje záp. média, EU hrozí Slovensku zemědělskými dotacemi; EU mlékárenský sektor — přebytky mléka kvůli Mercosuru/Číně; Tommy Robinson demonstrace Londýn (~100k, 4 000 policistů, face recognition, 43 zatčených); digitální euro — závazné pro všechny členské státy (Dombrovskis); tribunál EU pro zločiny RF — ČR 10M EUR, bez jurisdikce k ničemu; Trump-Taiwan — USA nechce garantovat obranu; Maďar — odstupné ministrů na Ukrainu; Islam/patriarchát kritika; Daniela Kovářová jako jediná politička Vrabelovy důvěry; Fico netlačí na exit z EU.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — FB Live 57s Landsmannschaft (17. 5. 2026) {#ladislav-vrabel--fb-live-57s-landsmannschaft-17-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-17_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **Datum záznamu:** 2026-05-17
+- **Délka:** 57 s
+- **Poznámka:** Přeskočeno — 57sekundový klip obsahuje cizí parlamentní projev (čtení prohlášení Lidice Memory k sjezdu Landsmannschaftu v Brně, pravděpodobně Rajchl nebo jiný poslanec). Není to Vrabelův monolog.
+- **Zpracováno:** přeskočeno
+
+## Ladislav Vrabel — Nedělní vysílání 17. 5. 2026 {#ladislav-vrabel--nedělní-vysílání-17-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-17_Ladislav-Vrabel_Facebook-Live_1.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2027486764546057>
+- **Datum záznamu:** 2026-05-17
+- **Délka:** 2h 06 min
+- **Poznámka:** Nedělní živé vysílání ve 20 h. Témata: Zelenská NABU korupce; Zelenský diktátor bez mandátu, kokainová závislost (Mendelová); drony na Moskvu 400–500ks; ČR muniční iniciativa; jaderná válka eskalace; Trump-Čína — dohoda 1 trilion, tokenizace světa; digitální surveillance AI/6G; digitální platby — PayPal mafie, Thiel; migrační pakt za 16 dní (od 17. 5.); digitální euro 2027; Konečná nekandiduje KSČM — Stačilo vykradení strany; Starmer pravděpodobně odstoupí; Srbsko jako model suverenity; Messing proroctví pádu dolaru — Vrabel skeptický; definice svobody; Sládek odešel ze schůzky ANO/SPD; bílý muž jako záměrná likvidace; komunismus = globalismus; Posselt opět karikatura Hitlera; Landsmannschaft sjezd Brno 24. 5. — petice stánky; Černohorský vztah Vrabel/Rajchl; doporučení koupit půdu v Srbsku.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy 18. 5. 2026 {#ladislav-vrabel--večerní-zprávy-18-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-18_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/27438632842489884>
+- **Datum záznamu:** 2026-05-18
+- **Délka:** 43 min
+- **Poznámka:** Pondělní večerní zprávy vysílaná z auta. Témata: Petr Pavel záštita sjezdu Landsmannschaft = velezrada (§65 ústavy); bavorský kancléř na Hradu = diplomatické ponížení; Babiš/Global Leadership Exchange — věkové ověření soc. sítí → digitální ID → sledování všech; Zelenská NABU korupce + útěk do Londýna?; Rheinmetall+Destinus Ruta 3 — raketa 2 000 km; zbrojení korupce — ceny +50–60 %, výběrová řízení neexistují (jako COVID); Írán nová pravidla průjezdu Hormuzu; Trump hrozí Íránu (AI obrázek potopených lodí); Kaja Callas odmítnuta jako vyjednávačka s Ruskem; migrační pakt 1. 6.; Španělsko 100k migrantů; Slovensko/plyn Ázerbájdžán — Fico odejde?; Tommy Robinson — Tačinsky zakázán do UK; EU ekonomika na levném ruském plynu — zbavujeme se dobrovolně.
+- **Zpracováno:** ano
+
 ## Lenka Tarabová — Veřejné projednání větrné elektrárny (15. 5. 2026) {#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-15_Lenka-Tarabová_Videoportál.txt)
 - **Kanál:** Lenka Tarabová (Facebook / Videoportál)

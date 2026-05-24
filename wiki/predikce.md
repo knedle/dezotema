@@ -12,6 +12,48 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — ČR jako cíl preventivního ruského útoku (18. 5. 2026)
+
+**Předpověď:** Vrabel cituje výrok ruského profesora, že Rusko mělo v roce 2022 „preventivně zničit jednu evropskou zemi", aby se Evropa probrala a přestala zbrojit. Vrabel spekuluje, zda tímto cílem by mohla být ČR kvůli muniční iniciativě. Výslovně říká, že „to není alegrace" — považuje to za reálnou eventualitu, ne hrozbu.
+
+**Horizont:** neurčeno (v průběhu konfliktu)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
+### Ladislav Vrabel — Fico ztratí post po vzdání se ruské ropy (18. 5. 2026)
+
+**Předpověď:** Vrabel komentuje zprávu, že Slovensko jedná o ázerbájdžánském plynu jako náhradě ruského. Predikuje, že jakmile se Fico vzdá ruské ropy, ztratí zázemí a bude odstraněn z funkce: „Až se Fico zbaví ruské ropy, zbavíme se Fica."
+
+**Horizont:** neurčeno (krátkodobé)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
+### Ladislav Vrabel — Keir Starmer pravděpodobně odstoupí z funkce (17. 5. 2026)
+
+**Předpověď:** Vrabel předpovídá, že britský premiér Keir Starmer pravděpodobně v dohledné době odstoupí. Nesouvisí s Tommy Robinsonem, ale s vnitřní nestabilitou vlády. Vrabel to zmiňuje jako signál kolapsu atlantického establishmentu.
+
+> „Keir Starmer pravděpodobně odstoupí."
+
+**Horizont:** neurčeno (krátkodobé)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+
+---
+
+### Ladislav Vrabel — Srbsko nevstoupí do EU, pravděpodobnost 5 % (17. 5. 2026)
+
+**Předpověď:** Vrabel odhaduje pravděpodobnost vstupu Srbska do EU na přibližně 5 %. Doporučuje koupi nemovitostí v Srbsku jako bezpečnou investici — ceny jsou mnohonásobně nižší než v ČR a při vstupu do EU by dramaticky vzrostly, ale k tomu dle Vrabela nedojde.
+
+**Horizont:** dlouhodobé (neurčeno)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+
+---
+
 ### Ladislav Vrabel — Hantavirus jako příští pandemie (10. 5. 2026)
 
 **Předpověď:** Vrabel na základě reportáže Deutsche Welle o hantaviru s přenosem člověk-člověk varuje, že jde o potenciální zárodek příští pandemie — srovnatelný s ranou fází covidu. Podezřelé je, že Moderna má vakcínu připravenou ještě před globálním rozšířením.

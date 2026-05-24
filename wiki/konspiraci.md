@@ -242,6 +242,48 @@ Zítko tuto teorii prezentuje jako vysvětlení, proč se Trump a Putin scházej
 
 ---
 
+### Globalisté bojují vždy proti čtyřem věcem: rodina, stát, národ, náboženství (Vrabel, 17. 5. 2026)
+
+Vrabel prezentuje výklad srbského právníka Borana Petrova, který se dle Vrabela shoduje s jeho vlastním: globalisté vždy útočí na čtyři věci, protože to jsou věci, které lidi spojují. Rodina, stát, národ a náboženství — čím víc je tyto instituce podaří rozbít, tím snadnější je ovládnout lidi jako izolované jedince. Vrabel jako historický příklad uvádí komunismus: Internacionála, RVHP, pronásledování církví, potlačení národní identity. Internacionálu přirovnává k dnešnímu globalismu — obě hnutí útočila na národní státy a náboženství.
+
+Cílem globalistů je dle Vrabela jedná světová vláda. K jejímu dosažení je třeba: (1) rozdělit národy (COVID jako „štěpení na půl", válka na Ukraině jako druhé štěpení), (2) promíchat populace migranty, (3) zlikvidovat bílého muže jako největší překážku.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+
+---
+
+### Bílý muž jako záměrně likvidovaná překážka globalismu (Vrabel, 17. 5. 2026)
+
+Vrabel zastává přesvědčení, že globalisté záměrně usilují o likvidaci „bílého muže" jako nejsilnějšího odpůrce jejich agendy. Uvádí historické argumenty: Evropa dominovala 20. století ekonomicky i vojensky, Římská říše trvala staletí, Němci a Američané prokázali výjimečnou bojeschopnost. Aby se podařila světová vláda, je třeba tuto „silnou jednotku" oslabit — a nástrojem je masová islamistická migrace.
+
+Vrabel výslovně propojuje islámskou migraci s globalistickým plánem: muslimové s právem šaría jsou „agresivnější" a přirozeně rozbíjejí soudržnost národů. Na Slovensku přijde 250 migrantů kvůli práci, v ČR začne migrační pakt platit od 1. 6. Vrabel chápe, že „lidi nepřemýšlí takhle daleko v časových intervalech."
+
+⚡ **Poznámka:** Tato tvrzení jsou extremní a konspirační; nezakládají se na ověřitelných faktech.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+
+---
+
+### Chemtrails: sypání těžkých kovů do atmosféry; větrníky 60 kg nanočástic (Vrabel, 15. 5. 2026)
+
+Vrabel tvrdí, že chemtrails (kondenzační stopy letadel) jsou záměrné sypání těžkých kovů do atmosféry. Větrné elektrárny pak označuje za druhý zdroj kontaminace: každý větrník prý produkuje přibližně 60 kg nanočástic, které se dostanou do půdy a ovzduší. Větrníky navíc způsobují vibrace a degradaci zemědělské půdy pod nimi. Vrabel to zasazuje do kritiky Green Dealu: ze záminky ochrany přírody dochází ke skutečnému poškozování přírody.
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026)
+
+---
+
+### Babiš/digitální ID: věkové ověření na soc. sítích = sledování všech dospělých (Vrabel, 18. 5. 2026)
+
+Vrabel tvrdí, že Babiš svou schůzkou s Globální Leadership Exchange (organizace pro duševní zdraví a digitální závislost dětí) de facto zahájil prosazování digitálního ID v ČR. Logika kroků: 1) soc. sítě škodí dětem, 2) zavést věkový zákaz do 14 let, 3) aby se ověřilo, kdo má 14+, musí se ověřit každý uživatel digitální identitou. Výsledkem bude, že každý přihlášení na soc. síti bude vázán na občanský průkaz — stát i platformy budou vědět, kdo, kdy a co napsal, komu a o čem.
+
+Vrabel poukazuje, že von der Leyen o digitálním ID mluvila v Oslu a covidové digitální certifikáty byly přímým prototypem tohoto systému. Babiš přitom veřejně sliboval, že žádné digitální ID nebude.
+
+> „Teďka on právě začíná prosazovat [...] a to právě dneska večer, tím lidským oznámením." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+
+---
+
 ### Palantir — napojení na britský fašismus (Vrabel)
 
 Vrabel ve vysílání 1. května 2026 tvrdí, že technologická společnost Palantir je „vedena vnukem zakladatele fašistické strany ve Velké Británii." Palantir spojuje s Peterem Thielem, jehož označuje za největšího sponzora JD Vance. Vrabel tím naznačuje, že přední technologické a politické elity v USA mají přímé vazby na historický evropský fašismus — a tato linie pokračuje do současné americké politiky.
