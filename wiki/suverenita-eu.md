@@ -1523,3 +1523,29 @@ V EU probíhá debata, zda je logické, aby muži vojenského věku — kteří 
 Přepis videa byl zkrácen — zachytil pouze cca 2,5 minut z 47minutového záznamu.
 
 **Zdroje:** [Černohorský — FB Live panel: ČR–Čína 21. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-panel-čr-čína-21-5-2026)
+
+---
+
+### Petr Pavel na GLOBSECu: EU se má stát investičním a logistickým sektorem NATO (Vrabel, 21. 5. 2026)
+
+Na bezpečnostní konferenci GLOBSEC prezident Pavel argumentoval, že NATO a EU nejsou konkurenti, ale doplňkové pilíře. EU má podle Pavla investovat do vojenské infrastruktury tak, aby odpovídala požadavkům NATO — přístávky, mosty, železnice, letiště. Vrabel čte toto jako plán, aby se EU stala de facto vojensko-ekonomickým blokem podřadným NATO, přičemž NATO si zachová operační velení. Zároveň se USA stahují z přímých závazků — Rutte to „chápe." Výsledek: Evropa ponese větší tíhu případné války s Ruskem bez USA.
+
+**Zdroje:** [Vrabel — Večerní zprávy 21. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-21-5-2026)
+
+---
+
+### Zelenský hrozí preventivním útokem na Bělorusko — Vrabel: rétorika se posouvá ke skutečné válce (Vrabel, 21. 5. 2026)
+
+Zelenský prohlásil, že Ukrajina je připravena jednat preventivně, pokud by hrozba vycházela z běloruského území. Vrabel hodnotí: dříve se aspoň dělaly útoky pod falešnou vlajkou; teď se mluví přímo o preventivním útoku na třetí stát. Paralelně litevský ministr zahraničí Landsbergis vyzývá k útoku na Kaliningradskou oblast jako způsobu tlaku na Moskvu. Vrabel říká: tato rétorika je extrémně nebezpečná — Kaliningrad je ze všech stran obklopen NATO a snadno napadnutelný, ale bránit by se muselo tvrdě.
+
+Pozitivně hodnotí, že Putin i Lukašenko opakovaně prohlásili, že nezaútočí jako první, pokud nebudou napadeni — to ztěžuje eskalaci ze strany Zelenského/pobaltských zemí.
+
+**Zdroje:** [Vrabel — Večerní zprávy 21. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-21-5-2026)
+
+---
+
+### Kaja Kalas označila Čínu za „nemocnou" — EU se distancovala, 5 států podalo stížnost (Vrabel, 21. 5. 2026)
+
+Kaja Kalas v debatě o politice EU vůči Číně prohlásila, že „Evropa zná diagnózu nemoci, pokud jde o Čínu, ale není shoda na léčbě." EU Komise se od výroku distancovala, 5 členských států podalo stížnost. Vrabel hodnotí jako ukázku diplomatického selhání — základem diplomacie je hledat dohody výhodné pro všechny strany, ne veřejně urážet obchodního partnera. Srovnává s „nacistickým vzorcem chování" politiků — nejdříve militarizace, pak ztráta soudnosti.
+
+**Zdroje:** [Vrabel — Večerní zprávy 21. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-21-5-2026)

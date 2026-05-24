@@ -1608,3 +1608,12 @@
 - **Délka:** neznáma
 - **Poznámka:** Přeskočeno — soubor zjevně označen jako Rajchl, ale obsah je jiného mluvčího. Speaker se sám identifikuje jako „Ladislav" a hovoří spolu s moderátorkou „Zuzkou" — zřejmě Vrabelův večerní pořad ze 14. 5. Témata odpovídají Vrabelovu formátu (Trump-Xi, dluhopisy, Rubio/NATO, EU chudoba). Rajchl se v přepisu neobjevuje.
 - **Zpracováno:** přeskočeno
+
+## Ladislav Vrabel — Večerní zprávy 21. 5. 2026 {#ladislav-vrabel--večerní-zprávy-21-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-21_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/26859200440404685>
+- **Datum záznamu:** 2026-05-21
+- **Délka:** 55:08
+- **Poznámka:** Noční zprávy z auta (23:43). Pavel na GLOBSEC — EU jako investiční a logistický sektor NATO; česká mobilizační/branná legislativa — meziválečná stavba, nefunkční pro 21. st., nutnost odvodů; Macinka na NATO ministerial Helsingborg; Beneš socha červená barva (Tomáš Kočko); ČR zdržení UN klimatické rezoluce (134-0); Zelenský hrozí preventivním útokem Bělorusku; Landsbergis volá útok na Kaliningrad; Rusko-Bělorusko jaderná cvičení — Putin: „výjimečné opatření"; Trump prodává zbraně Tajwanu den po odletu z Číny; Kaja Kalas prohlásila Čínu za „nemocnou" — EU se distancovala, 5 států protestovalo; EU-USA obchodní dohoda (asymetrická); Ebola Bulovka — Adam Vojtěch: „velká čest"; Alatra v EP; flat earth tangent.
+- **Zpracováno:** ano
