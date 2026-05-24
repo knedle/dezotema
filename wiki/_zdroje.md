@@ -1496,6 +1496,15 @@
 - **Poznámka:** Pondělní večerní zprávy vysílaná z auta. Témata: Petr Pavel záštita sjezdu Landsmannschaft = velezrada (§65 ústavy); bavorský kancléř na Hradu = diplomatické ponížení; Babiš/Global Leadership Exchange — věkové ověření soc. sítí → digitální ID → sledování všech; Zelenská NABU korupce + útěk do Londýna?; Rheinmetall+Destinus Ruta 3 — raketa 2 000 km; zbrojení korupce — ceny +50–60 %, výběrová řízení neexistují (jako COVID); Írán nová pravidla průjezdu Hormuzu; Trump hrozí Íránu (AI obrázek potopených lodí); Kaja Callas odmítnuta jako vyjednávačka s Ruskem; migrační pakt 1. 6.; Španělsko 100k migrantů; Slovensko/plyn Ázerbájdžán — Fico odejde?; Tommy Robinson — Tačinsky zakázán do UK; EU ekonomika na levném ruském plynu — zbavujeme se dobrovolně.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Večerní zprávy 19. 5. 2026 {#ladislav-vrabel--večerní-zprávy-19-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-19_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/975798111723947>
+- **Datum záznamu:** 2026-05-19
+- **Délka:** 1h 02 min
+- **Poznámka:** Úterní večerní zprávy. Témata: Izrael Saar v ČR — diplomatická osa USA/EU/NATO/Izrael; Putin v Číně — 25 let partnerství, 40 dokumentů; Trump a Írán — útok odložen, WSJ: zálivové státy nevěděly, Trump ztrácí kredibilitu; EU kravský hnoj jako náhrada ruského plynu; Musk vs. OpenAI soud zamítnut; Litva mínová pole na hranici s Ruskem; Ruská rozvědka: Ukraina plánuje útoky z Lotyšska; Rusko-Čína tajný vojenský trénink (Reuters); jaderné cvičení Ruska s Běloruskem (64 000 vojáků); START smlouva skončila; Babiš i Pavel za jaderné zbraně v ČR = stejná politika; SPD v koalici pořádá demonstrace = pokrytectví; Chorvatsko 1,7 mld. EUR zbrojení; Rajchl jako mafiánský právník; weby ČRNPM/Vrabela napadeny kyberútokem.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — FB Live: Pavel velezrada (18. 5. 2026) {#ladislav-vrabel--fb-live-pavel-velezrada-18-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-18_Ladislav-Vrabel_Facebook-Live_1.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)

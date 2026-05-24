@@ -228,6 +228,18 @@ Zároveň USA u Ománu zadržely a zabraly civilní plavidlo — porušení mezi
 
 ---
 
+### EU: kravský hnoj jako náhrada levného ruského plynu (Vrabel, 19. 5. 2026)
+
+Vrabel ironicky komentuje plán Evropské komise (Politico) využít zemědělský odpad včetně kravského hnoje jako součást strategie snižování závislosti na dovozu energií — konkrétně jako náhradu za ruský plyn při výrobě hnojiv a energie.
+
+Vrabel to považuje za absurdní: EU sama odpojila Evropu od levného ruského plynu, na jehož základě byla vybudována plynofikace měst, čisté ovzduší a průmysl. Nyní hledá náhradu v bioplynových technologiích. Doplňuje paradox: krávy se mají likvidovat, protože „prdí" (emise metanu) — a zároveň by jejich hnoj měl nahradit ruský plyn.
+
+> „To, že nemáme ruský plyn, tak to budeme řešit kravským hnojem. A to je vynikající, to je geniální." — Ladislav Vrabel, [Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+---
+
 ### Německo a Francie nasazují námořní síly do oblasti Hormuz — Vrabel (6. 5. 2026)
 
 Vrabel ve vysílání 6. 5. potvrzuje eskalaci evropské námořní přítomnosti:

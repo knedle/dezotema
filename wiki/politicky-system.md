@@ -345,3 +345,15 @@ Vrabel tvrdí, že přibližně 400 tisíc mladých Ukrajinců ve věku 18–24 
 Souběžně zmiňuje mobilizační krizi na Ukraině: zprávy o jednotkách TCK (Územní centrum doplňování), falšování invalidních průkazů a existenci seznamů Ukrajinců v zahraničí, které by mohly být použity k organizaci jejich návratu.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 10. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-hantavirus-macinka-résumé-rubio-10-5-2026)
+
+---
+
+### SPD v koalici pořádá demonstrace proti vlastní vládní politice — Vrabel (19. 5. 2026)
+
+Vrabel poukazuje na strukturální pokrytectví SPD a jejích poslanců (Rajchl, Okamura): jsou součástí vládní koalice, ale zároveň pořádají demonstraci v Brně 24. 5. 2026 proti sjezdu Sudetoněmeckého Landsmannschaftu a Rajchl napsal veřejnou výzvu ministrovi vnitra (ze stejné koalice), aby sjezd zakázal.
+
+Vrabel to označuje za „show pro lidi" — v koalici se věci řeší interně přes koaliční smlouvu a kluby, ne veřejnými výzvami. SPD přitom má silnou páku: ANO nemá bez SPD parlamentní většinu (potřeba 101 křesel). Pokud by SPD vyhrožovalo odchodem z koalice, Babiš by byl nucen jednat.
+
+> „Kdyby mu řekli, zakážete Sudetoněmecký Landsmannschaft, nebo nebudeme z vlády — tak co myslíte, že udělá Andrej Babiš?" — Ladislav Vrabel, [Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)

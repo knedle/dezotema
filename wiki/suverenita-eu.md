@@ -1411,3 +1411,42 @@ Jiří Černohorský volá po přijetí nového tvrdého zákona o „kolaboraci
 Černohorský cituje text ústavního slibu prezidenta (čl. 59) a slibu poslance (čl. 23): obě formule obsahují „věrnost České republice" a dodržování ústavy — bez zmínky o Evropské unii nebo cizích státech. Ptá se: co z tohoto slibu Petr Pavel a koaliční poslanci fakticky plní, když podporují záštitu sjezdu Landsmannschaftu a reagují na pokyny bavorských politiků? Označuje fakt, že koaliční poslanci „bonzovali" Němcům ještě v průběhu sněmovní schůze, za přímou kolaboraci s cizí mocností.
 
 **Zdroje:** [Černohorský — Videoportál 19. 5. 2026 „HRADNÍ SVINĚ"](_zdroje.md#jiří-černohorský--videoportál-19-5-2026-hradní-svině)
+
+---
+
+### Jaderné zbraně v ČR: Babiš i Pavel shodně za, START smlouva skončila (Vrabel, 19. 5. 2026)
+
+Vrabel varuje před plány na umístění jaderných zbraní na území ČR. Klíčové body:
+
+- **Rusko zahájilo cvičení jaderných sil** s Běloruskem: 64 000 vojáků strategických raketových sil, námořnictvo, ponorky, letectvo; scénáře zahrnují i jaderné zbraně umístěné v Bělorusku.
+- **START smlouva skončila v únoru 2026** — nebyla prodloužena. Obě strany mohou zbrojit bez limitů.
+- **Babiš i Pavel = stejná politika:** Pavel prosazoval jaderné odstrašení v NATO již v roce 2014. Babiš po několika dnech ve funkci souhlasil s tím, že ČR přijme „francouzský jaderný deštník." Vrabel: „Ta skvělá změna, ta skvělá vláda, kterou jsme si zvolili v roce 25."
+- **F-35A jako jaderný nosič:** koupě F-35A dělá z ČR platformu pro jaderné taktické zbraně — Vrabel varoval před tím od roku 2022.
+- **Logika je obrácená:** přijetím jaderných zbraní se ČR nestane bezpečnější, ale stane se prioritním cílem Ruska.
+
+> „Jenom se staneme cílem pro Ruskou federaci, protože řeknou: ano, ty Češi, oni tam mají taky nějaké jaderné zbraně." — Ladislav Vrabel, [Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+---
+
+### Pobaltí: mínová pole, rozšiřování konfliktu, nová NATO strategie (Vrabel, 19. 5. 2026)
+
+Vrabel komentuje sérii událostí svědčících o rozšiřování konfliktu mimo Ukrainu:
+
+- **Litva** plánuje mínová pole na hranici s Ruskem v rámci projektu EU Eastern Flank Watch. Zacharova (ruské MZV) komentuje ironicky.
+- **Lotyšsko:** vláda padla po incidentu s drony na zásoby ropy.
+- **Ruská rozvědka** tvrdí, že Ukraina připravuje útoky z prostoru Lotyšska — NATO mění strategii z frontálního boje na terorismus na ruském území.
+- **Rozšiřování konfliktu:** útoky na Jekaterinburg, Moskvu, Užhorod; Vrabel varuje, že „jednoho dne si řekneme, že je to válka NATO proti Rusku."
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+---
+
+### Rusko–Čína: 25 let spojenectví, tajné vojenské cvičení (Vrabel, 19. 5. 2026)
+
+Putin přicestoval na dvoudenní návštěvu Číny (19.–20. 5. 2026), 25. výročí smlouvy o přátelství, 40 bilaterálních dokumentů. Vrabel hodnotí pozitivně: „Číňani mají technologie, Rusové mají energie — naštěstí spolupracují."
+
+Podle Reuters Čína tajně školila ruské vojáky v Pekingu koncem roku 2025 (drony, elektronická válka, letectvo); někteří vyškolení se zúčastnili bojů na Krimu. Rusko na oplátku školí stovky čínských vojáků. Vrabel záměrně konstatuje symetrii: Trump byl v Číně minulý týden, Putin tento — obojí s velkým uvítáním. Čína hraje vlastní hru se všemi hráči.
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)

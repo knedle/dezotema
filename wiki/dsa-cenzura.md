@@ -99,3 +99,20 @@ Zítko Tejcovu odpověď hodnotí skepticky: podle něj za sto dní nové vlády
 Pavel Zítko zmínil (duben 2026), že mu soud uložil dvouletý zákaz návštěvy Prahy — podmínku, kterou označuje za absurdní, protože se prý ani minutu nemohl hájit. Jako jeden z mluvčích COVID tour uvádí, že tato překážka ovlivnila plánování zastávek a Svojetice u Říčan jsou tak „nejblíže Praze", kde se na tour v daném období mohou setkat.
 
 **Zdroje:** [ČsTV2 — Pozvánka Svojetice, 24. 4. 2026](_zdroje.md#pavel-zítko--pozvánka-na-covid-tour-svojetice-24-4-2026), [ČsTV2 — Interpelace Majerová-Tejc, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
+
+---
+
+### Kybernetický útok na weby ČRNPM/Vrabela (19. 5. 2026)
+
+Vrabel ve vysílání 19. 5. informuje, že všechny jeho weby byly kyberneticky napadeny a smazány — včetně záloh:
+
+- **CRI1.cz** — smazán kompletně
+- **CRI1.live** — videa a online televize smazány
+- **Mafie v kravatách** — projekt od roku 2022, celý smazán vč. databáz
+- **Jedna rodina** — sociální síť pro registrované uživatele, smazána
+
+Útočník není znám. Hosting provider potvrdil, že vše je smazáno a obnova není možná ze serveru. Vrabel doufá, že zálohy existují mimo server u IT kamaráda. Zároveň upozorňuje, že tím byla zničena online petice proti sjezdu Sudetoněmeckého Landsmannschaftu — platí pouze papírové podpisy; nové sběrné místo v Brně 24.–25. 5. 2026.
+
+Vrabel nespeculuje o pachateli, ale kontext jeho vysílání implikuje, že jde o cílený útok na opozičního aktivistu.
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
