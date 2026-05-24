@@ -1653,3 +1653,12 @@
 - **Délka:** 41:02
 - **Poznámka:** Večerní zprávy z nového studia s moderátorkou Zuzkou. Sjezd Sudetoněmeckého Landsmannschaftu Brno — ČRNPM petiční stánek, SPD historické pokrytectví (dříve říkali „vy demonstrujte, my budeme v parlamentu"); dronový útok na studentskou kolej v Luhansku (6 mrtvých, 3 vlny dronů, NATO zodpovědnost); Zelenský „vracíme válku domů" — útok na rafinérii Jaroslavl (700 km od hranic); Rusko skrývá jaderné rakety pod moře (START zanikla); miliardáři staví bunkry (Bezos, Zuckerberg, Kardashianové); Německo 10 mld. EUR civilní obrana (110k polních lůžek); Lukašenko nabídl jednat se Zelenským, EU sankce Bělorusko; NATO summit Turecko červenec — Rubio chce kritizovat spojence za Írán; Trump 5 000 vojáků do Polska; Polsko rusofobie — historická mentalita; EU sankce = bonbóny na Halloween; Tulsi Gabbard rezignovala — „výjimka v Trumpově administrativě, která nemohla vydržet."
 - **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live 2 (22. 5. 2026) {#jiří-černohorský--fb-live-2-22-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-22_Jiří-Černohorský_Facebook-Live_2.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=2435026876966604&_rdr>
+- **Datum záznamu:** 2026-05-22
+- **Délka:** 29:18
+- **Poznámka:** Živé vysílání z Brna v průběhu sjezdu Sudetoněmeckého Landsmannschaftu. Obrana národa 2 (Martin Říha, Anička Štofanová) čte jména 1 518 brněnských obětí nacistické okupace z knihy „Brněnští občané v boji proti fašismu"; 240+ ulic v Brně pojmenováno po padlých hrdinech — Černohorský překvapen ztrátou historické paměti. Vlastenecká scéna rozbita okolo 2015–2016 vstupem Okamury, SPD, bloku proti islamizaci; spolek jako nepolitická alternativa sjednocení. Provokátor Ponert narušoval akci. Panevropská unie na Moravě (Posselt, 1990) — Fiala v tomto projektu.
+- **Zpracováno:** ano

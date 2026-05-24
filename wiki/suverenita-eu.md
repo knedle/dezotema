@@ -1637,3 +1637,15 @@ Vrabel upozorňuje na specifičnost Polska v NATO: Poláci dle něj „opravdu n
 Ředitelka Národní zpravodajské služby USA Tulsi Gabbard rezignovala s odvoláním na zdravotní stav manžela. Vrabel ji označuje za „naprostou výjimku v celé Trumpově administrativě" — jako jediná ze všech úředníků dělala věci pro obyčejné lidi: odhalila 120 zahraničních biolaboratoří financovaných USA (viz [Gabbard a biolaboratoře — 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)), přinášela do agendy témata, která by jinak zůstala skryta. Vrabel tvrdí, že tato rezignace musela přijít, ať byl zástupný důvod jakýkoli: „kdyby nebyl tenhle důvod, tak by se našel jiný."
 
 **Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Brno: čtení jmen 1 518 obětí nacistické okupace — protistánek k sjezdu Landsmannschaftu (Černohorský, 22. 5. 2026)
+
+Jiří Černohorský živě přenášel z Brna akci spolku Obrana národa 2 (organizátor Martin Říha), která probíhala v bezprostřední blízkosti sjezdu Sudetoněmeckého Landsmannschaftu. Účastníci četli jména ze seznamu 1 518 brněnských občanů zabitých za nacistické okupace — z knihy „Brněnští občané v boji proti fašismu." Anička Štofanová upozornila, že v Brně je přes 240 ulic pojmenovaných po obětech a hrdinech z doby okupace a přes 150 pamětních desek a pomníků.
+
+Černohorský byl bezprostředně zasažen — přiznal, že se informaci o 240 ulicích dozvídá poprvé, a označil to za symptom ztráty historické paměti: česká společnost přestává znát vlastní hrdiny, přestože jejich jména nosí ulice, po nichž chodíme každý den.
+
+> „Je mi z toho fakt smutno, že vlastně se to dozvídám až teďka, až dneska, že vlastně tyhle věci vůbec nevím. Jak je možný, že v Brně je tady 240 ulic pojmenovaných po těchto hrdinech a kdo z těch Brňáků tady, co tady žije a bydlí, kdo to ví?" — Jiří Černohorský, [FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
+
+**Zdroje:** [Černohorský — FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)

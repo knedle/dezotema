@@ -377,3 +377,23 @@ Jiří Černohorský konstatuje, že za 33 let od vzniku ČR vzrostl státní dl
 Černohorský odmítá narativ, že Babišova vláda chce omezovat svobodu ČT. Podle něj vláda žádá pouze transparentnost — kam jdou poplatky (osmimiliardový roční příjem), zda jsou placeni příbuzní redaktorů, jaká je role zahraničních neziskovek. Obsah ani redakční rozhodnutí regulovat nechce. Kritizuje demonstranty za ČT jako „ovcoidní kundy": protestují za zachování poplatků bez jakékoli kontroly.
 
 **Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
+
+---
+
+### „Vlastenecká scéna" rozbita politiky — Okamura, SPD, blok proti islamizaci (Černohorský, 22. 5. 2026)
+
+Černohorský zastává názor, že kolem let 2015–2016 v ČR existoval zárodek skutečné vlastenecké scény — spontánního občanského aktivismu bez stranické příslušnosti. Tuto energii zničilo vstoupení Tomia Okamury, SPD a Bloku proti islamizaci do tohoto prostoru: „Přišel do toho Tomio Okamura, přišel do toho SPD, přišel do toho blok proti islamizaci, přišli do toho politici a byl konec." Jakmile strany aktivismus zabarvily stranickou barvou, lidé se začali rozdělovat a spontánní spolupráce se rozpadla.
+
+Dnes Černohorský tvrdí, že žádná soudržná „vlastenecká scéna" neexistuje — každá iniciativa jede samostatně, chybí propojení. Viník je primárně politizace: ne absence patriotismu u lidí, ale nemožnost spolupráce přes stranické hranice.
+
+**Zdroje:** [Černohorský — FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
+
+---
+
+### Spolek jako nepolitická platforma — základ pro sjednocení (Černohorský, 22. 5. 2026)
+
+Jako alternativu k stranickému fragmentování Černohorský prosazuje model spolku (občanského sdružení). Ke spolku může přijít kdokoliv bez ohledu na stranickou příslušnost — záleží na sdílených hodnotách, ne na stranické nálepce. Ilustruje to příkladem: lidé, kteří se přirozeně shodnou na mnoha věcech, se od sebe automaticky vzdálí, jakmile vidí navzájem stranické znaky (SPD, Stačilo, Okamura, Konečná, Babiš). Spolek tento efekt eliminuje, protože každý svou politickou příslušnost si nechává pro sebe.
+
+Základní podmínkou je nesmíchávat stranickou politiku s občanskou aktivitou. Extrémní pozice (jako Ponertova „listina nivoliče") jsou kontraproduktivní — k takovým věcem se naprostá většina lidí nikdy nepřidá, jakkoli s kritikou systému souhlasí.
+
+**Zdroje:** [Černohorský — FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
