@@ -129,6 +129,20 @@ Spotřeba plynu v ČR klesla z 9–10 mld. m³ (2021) na 6,75 mld. m³ (2023), p
 
 ---
 
+## Solární energie a státní dotace
+
+### 600 miliard CZK za solární dotace — za to by šly 4 jaderné bloky (Černohorský, 7. 5. 2026)
+
+Jiří Černohorský odkazuje na výpočet, podle nějž bylo za solární dotace v ČR od jejich zavedení vyplaceno přibližně **600 miliard korun**. Poukazuje na to, že za tuto částku by bylo možné postavit čtyři jaderné bloky, které by zajišťovaly stabilní základní zátěž. Solární a větrnou energii označuje za nespolehlivé a dotační systém za podvod.
+
+Samostatně kritizuje návrh energetického mixu 50 % obnovitelné / 50 % jaderné energie. Upozorňuje, že jaderná elektrárna nemůže pružně snižovat nebo zvyšovat výkon podle toho, kolik zrovna vyrábí solár a vítr — výkon bloků je z technologických a bezpečnostních důvodů prakticky neregulabilní v krátkém čase. Přebytečnou energii z obnovitelných zdrojů pak musí soustava „likvidovat" (ztrátový odvod), tedy vyhazovat zadarmo vyrobenou elektřinu.
+
+> „Za to, za těch 600 miliard co dotace se platily za ty soláry, bysme měli postavený další 4 jaderný bloky." — Jiří Černohorský, [FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
+
+**Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
+
+---
+
 ## Hormuzský průliv a energetická krize
 
 ### Druzhba severní větev zastavena od 1. 5. 2026 — Vrabel (27. 4. a 29. 4. 2026)

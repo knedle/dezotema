@@ -1351,6 +1351,14 @@
 - **Délka:** 0:03:22 | Zhlédnutí: 27 125
 - **Zpracováno:** ano
 
+## Jiří Černohorský — FB Live „dopoledníček" 7. 5. 2026 {#jiří-černohorský--fb-live-dopoledníček-7-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-07_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=2495686664222863>
+- **Datum záznamu:** 2026-05-07
+- **Délka:** 3:25:32
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — Den vítězství (9. 5. 2026) {#jiří-černohorský--den-vítězství-9-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-09_Jiří-Černohorský_Facebook-Live.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Live)

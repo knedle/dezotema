@@ -357,3 +357,19 @@ Vrabel to označuje za „show pro lidi" — v koalici se věci řeší interně
 > „Kdyby mu řekli, zakážete Sudetoněmecký Landsmannschaft, nebo nebudeme z vlády — tak co myslíte, že udělá Andrej Babiš?" — Ladislav Vrabel, [Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
 
 **Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+---
+
+### Státní dluh ČR: 170–190 miliard (1993) → 3,5 bilionu Kč (2026) — Černohorský (7. 5. 2026)
+
+Jiří Černohorský konstatuje, že za 33 let od vzniku ČR vzrostl státní dluh z přibližně 170–190 miliard Kč (1993) na přibližně 3,5 bilionu Kč (2026). Tento nárůst přičítá výhradně politickému systému a stranické správě státu. Paralelně poukazuje na prodej ~50 tun zlatých měnových rezerv za eura za vlád před nebo po vzniku ČR. Označuje tato rozhodnutí za příklady systémového selhání — „zmrdi, co tam seděli 33 let."
+
+**Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
+
+---
+
+### Česká televize: vláda chce finanční transparentnost, ne omezení obsahu — Černohorský (7. 5. 2026)
+
+Černohorský odmítá narativ, že Babišova vláda chce omezovat svobodu ČT. Podle něj vláda žádá pouze transparentnost — kam jdou poplatky (osmimiliardový roční příjem), zda jsou placeni příbuzní redaktorů, jaká je role zahraničních neziskovek. Obsah ani redakční rozhodnutí regulovat nechce. Kritizuje demonstranty za ČT jako „ovcoidní kundy": protestují za zachování poplatků bez jakékoli kontroly.
+
+**Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
