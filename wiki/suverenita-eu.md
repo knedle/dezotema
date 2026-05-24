@@ -1463,4 +1463,49 @@ Putin přicestoval na dvoudenní návštěvu Číny (19.–20. 5. 2026), 25. vý
 
 Podle Reuters Čína tajně školila ruské vojáky v Pekingu koncem roku 2025 (drony, elektronická válka, letectvo); někteří vyškolení se zúčastnili bojů na Krimu. Rusko na oplátku školí stovky čínských vojáků. Vrabel záměrně konstatuje symetrii: Trump byl v Číně minulý týden, Putin tento — obojí s velkým uvítáním. Čína hraje vlastní hru se všemi hráči.
 
-**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+V summitu 20. 5. Putin a Si podepsali dokument, v němž Čína výslovně podporuje ruský pohled na konflikt na Ukrajině. Vrabel hodnotí: Západ si svou politikou vůči Rusku a Číně sám vytvořil toto spojenectví.
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026), [Vrabel — Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
+
+---
+
+### Německo se připravuje na válku na vlastním území — 10 miliard EUR, kryty, polní nemocnice (Vrabel, 20. 5. 2026)
+
+Vrabel referuje o německém vládním plánu za 10 miliard EUR na civilní obranu: výstavba krytů, 110 000 polních lůžek, obnova sirénové sítě, aplikace informující občany, kam utéct v případě útoku. Plán explicitně počítá s válkou na německém území. Vrabel zdůrazňuje geopolitický kontext: „Mezi Německem a Ruskem — Česká republika." Připomíná, že za varování před nákupem F-35 jako jaderných nosičů B-61 byl v roce 2022 zatčen.
+
+**Zdroje:** [Vrabel — Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
+
+---
+
+### Landsmannschaft: zákon o veřejných shromážděních se na LM nevztahuje — správný postup je extremistická organizace (Vrabel, 20. 5. 2026)
+
+Vrabel právně analyzuje postup poslanců (Rajchl aj.), kteří se odvolávali na „zákon o veřejných shromážděních": Landsmannschaft nepořádal veřejné shromáždění, zákon na situaci nedopadá. Ministerstvo vnitra proto odpovědělo správně, když odmítlo zasáhnout na základě tohoto zákona. Vrabel celou aktivitu označuje za „divadlo." Jediný funkční postup je iniciovat prohlášení Landsmannschaftu za extremistickou organizaci.
+
+**Zdroje:** [Vrabel — Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
+
+---
+
+### NATO přechází od odstrašení jadernými zbraněmi k řeči o jejich použití — Sarmat/Satan-2 a jaderná cvičení (Vrabel, 20. 5. 2026)
+
+Vrabel upozorňuje na posun v rétorice: NATO již nemluví o „odstrašení" jadernými zbraněmi, ale o „použití." Mark Rutte prohlásil, že použití ruských jaderných zbraní bude mít „devastující" následky — Vrabel to čte jako eskalaci. Rusko s Běloruskem provádí rozsáhlá jaderná cvičení.
+
+Vrabel popisuje raketu Sarmat (přezdívanou Satan 2), nově zařazenou do ruské armády: 16 menších nebo 10 velkých hlavic, rozptyl až 2 000 km (pokrývá Německo–Polsko–ČR), rychlost ~18 Mach, celou dobu manévruje, vypouští falešné cíle, nelze ji sestřelit. Říká: jaderná válka by měla devastující efekt pro všechny zúčastněné.
+
+> „Přesunuli jsme se k mluvení o používání jaderných zbraní." — Ladislav Vrabel, [Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
+
+---
+
+### Dočasná ochrana pro Ukraince: status vymyšlen rok před válkou, ČR není první bezpečná země (Vrabel, 20. 5. 2026)
+
+V EU probíhá debata, zda je logické, aby muži vojenského věku — kteří nemohou legálně opustit Ukrajinu — automaticky získali dočasnou ochranu v EU. Speciální velvyslankyně EU Johansson označila situaci za nelogickou. Vrabelova analýza:
+
+- **Status dočasné ochrany** byl vytvořen EU v roce 2021 (rok před válkou) jako administrativní zkratka pro hromadné zprocesování uprchlíků bez individuálních řízení.
+- **Mezinárodní právo:** váleční uprchlíci mají nárok na pomoc v **první bezpečné zemi** (Slovensko, Polsko, Maďarsko) — nikoliv v ČR, která je druhá v pořadí.
+- **Nadstandard:** Ukrainci v ČR mají plné zdravotnictví, vzdělání a bydlení — to přesahuje standard válečného uprchlíka.
+- **Dvojí odmítnutí:** Vrabel odmítá jak současný stav (plný status v ČR), tak deportace zpět na Ukrajinu — posílat muže Zelenskému rovná se posílání na frontu.
+
+> „Nemůžeme je přece posílat Zelenskému fašistovi, aby je rovnou posílal na smrt na frontu." — Ladislav Vrabel, [Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)

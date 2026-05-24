@@ -1513,6 +1513,15 @@
 - **Poznámka:** Úterní večerní zprávy. Témata: Izrael Saar v ČR — diplomatická osa USA/EU/NATO/Izrael; Putin v Číně — 25 let partnerství, 40 dokumentů; Trump a Írán — útok odložen, WSJ: zálivové státy nevěděly, Trump ztrácí kredibilitu; EU kravský hnoj jako náhrada ruského plynu; Musk vs. OpenAI soud zamítnut; Litva mínová pole na hranici s Ruskem; Ruská rozvědka: Ukraina plánuje útoky z Lotyšska; Rusko-Čína tajný vojenský trénink (Reuters); jaderné cvičení Ruska s Běloruskem (64 000 vojáků); START smlouva skončila; Babiš i Pavel za jaderné zbraně v ČR = stejná politika; SPD v koalici pořádá demonstrace = pokrytectví; Chorvatsko 1,7 mld. EUR zbrojení; Rajchl jako mafiánský právník; weby ČRNPM/Vrabela napadeny kyberútokem.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Večerní zprávy 20. 5. 2026 {#ladislav-vrabel--večerní-zprávy-20-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-20_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1487408649790762>
+- **Datum záznamu:** 2026-05-20
+- **Délka:** 1:16:09
+- **Poznámka:** Středa večerní zprávy s Zuzkou. Témata: Německo 10 mld. EUR civilní obrana (kryty, 110k polních lůžek, sirény, aplikace) — příprava na válku na vlastním území; Landsmannschaft — Reichlův zákon o shromážděních jako špatný přístup, MV odpovědělo správně, jedině extremistická organizace funguje; Ebola v Bulovce — americký lékař, USA platil soukromý let; česko-izraelský obchodní fórum (Macinka + Saar); Putin-Xi — podpis dokumentu podporující ruské pojetí konfliktu; Senát USA 50:47 pro ukončení konfliktu v Íránu; NATO přechod od odstrašení k řeči o použití jaderných zbraní; Sarmat/Satan-2 parametry (16 hlavic, 2000km rozptyl, 18 Mach); vojenské cvičení NATO na Slovensku/Maďarsku; dočasná ochrana pro Ukraince — ČR není první bezpečná země, ale nelze je posílat Zelenskému.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — FB Live: Pavel velezrada (18. 5. 2026) {#ladislav-vrabel--fb-live-pavel-velezrada-18-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-18_Ladislav-Vrabel_Facebook-Live_1.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)
