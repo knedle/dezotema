@@ -1050,6 +1050,18 @@ Jakub Landovský byl jmenován vládním zmocněncem pro plnění závazků NATO
 
 ---
 
+### NATO vs. zdravotnictví: ČR by měla dát jen 1,2 % HDP na obranu — Černohorský (22. 5. 2026)
+
+Černohorský navrhuje alternativu k NATO výdajovým závazkům: ČR by měla přispívat NATO maximálně 1,2–1,3 % HDP (nikoliv požadovaná 2 % ani vyšší) a rozdíl 0,7 % HDP přesměrovat do zdravotnictví a sociální péče. Jako příklad toho, co je prioritnější než zbrojení, uvádí kritický nedostatek sester a opatrovníků v sociálních zařízeních.
+
+Kritizuje přitom konkrétní vládní návrh ministra Juchelky (ANO/MPSV), který plánoval zavést VR brýle jako formu psychického odpočinku pro přetížené pracovníky v sociální péči. Černohorský to označuje za „odtrženost od reality": fyzicky náročnou práci nelze nahradit čtvrthodinovou virtuální procházkou lesem. Práci v tomto sektoru vykonávají z 90 % ženy a návrh je pro ně nepoužitelný.
+
+> „Za mě dvě procenta HDP — to od České republiky neočekávejte. My dáme maximálně 1,2–1,3 %. 0,7 % HDP z tohohle nasypu do zdravotnictví. Vyřešeno." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — FB Live 22. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-22-5-2026)
+
+---
+
 ### Německo-Ukraina: drony s dosahem 1500 km, platforma BRAVE1 — Vrabel (11. 5. 2026)
 
 Německý ministr obrany Boris Pistorius ohlásil při návštěvě Kyjeva společné projekty dronů s dosahem od 100 km až po 1 500 km. Německo se zároveň zapojí do ukrajinské obranné inovační platformy BRAVE1 zaměřené na bezpilotní systémy, elektronický boj a robotiku. Vrabel upozorňuje: drony s dosahem 1 500 km nejsou určeny k obraně frontové linie, ale k úderům hluboko do ruského území. Dle Vrabela jde o taktiku „státního terorismu" cílenou na destabilizaci ruské společnosti.

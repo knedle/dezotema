@@ -158,7 +158,9 @@ Rajchl v živém vysílání 5. 4. 2026 rozšiřuje svoji kritiku Mináře o fin
 
 > „Nech Katku Konečnou na pokoji. Neser se do ní, ničemu ti to nepomůže, ničemu to neprospěje a je to na hovno." — Jiří Černohorský, [TikTok živě 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
 
-**Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
+O rok později (22. 5. 2026) Černohorský rozlišuje mezi „vlasteneckými spolky" (které existují) a „vlasteneckou scénou" (která neexistuje): každá iniciativa jede svůj vlastní projekt, chybí propojení a koordinace. Otázku, kdo konkrétně tvoří „vlasteneckou scénu", pokládá jako výzvu: Vyjmenujte mě ji. Jako základ pro větší vliv vidí propojení iniciativ přes platformu — o to se snaží od června 2022 (Společenství).
+
+**Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025), [Černohorský — FB Live 22. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-22-5-2026)
 
 ---
 

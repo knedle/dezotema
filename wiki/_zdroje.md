@@ -1617,3 +1617,12 @@
 - **Délka:** 55:08
 - **Poznámka:** Noční zprávy z auta (23:43). Pavel na GLOBSEC — EU jako investiční a logistický sektor NATO; česká mobilizační/branná legislativa — meziválečná stavba, nefunkční pro 21. st., nutnost odvodů; Macinka na NATO ministerial Helsingborg; Beneš socha červená barva (Tomáš Kočko); ČR zdržení UN klimatické rezoluce (134-0); Zelenský hrozí preventivním útokem Bělorusku; Landsbergis volá útok na Kaliningrad; Rusko-Bělorusko jaderná cvičení — Putin: „výjimečné opatření"; Trump prodává zbraně Tajwanu den po odletu z Číny; Kaja Kalas prohlásila Čínu za „nemocnou" — EU se distancovala, 5 států protestovalo; EU-USA obchodní dohoda (asymetrická); Ebola Bulovka — Adam Vojtěch: „velká čest"; Alatra v EP; flat earth tangent.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live 22. 5. 2026 {#jiří-černohorský--fb-live-22-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-22_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1485176930070033&_rdr>
+- **Datum záznamu:** 2026-05-22
+- **Délka:** 24:50
+- **Poznámka:** Monolog z auta po brněnské akci (Svobodák / Národní obroda 2, pan Říha). Incident s provokátory (Pšenák, Blujová, Ponert) — policie radí nenechat se vyprovokovat; Černohorský ji poslechl, ale hranice si nenechá překračovat. Kritika vlády Babiše: ministr Juchelka (ANO/MPSV) navrhl VR brýle jako úlevu pro sestřičky v sociálních zařízeních = "odtrženi od reality." Návrh: ČR by měla dát NATO max. 1,2–1,3 % HDP (ne 2 %) a ušetřené 0,7 % HDP nasypat do zdravotnictví. Vlastenecká scéna = spolky, nikoliv koordinovaná scéna. ČR suverenita: "dřív Rusové, teď EU, Izrael, Amerika."
+- **Zpracováno:** ano
