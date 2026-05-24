@@ -254,7 +254,7 @@ Lenka Tarabová se osobně zúčastnila jednání brněnského zastupitelstva (1
 
 - Návrh usnesení vystoupení proti sjezdu a rozvázání smlouvy s Meeting Brno (organizátorem) byl okamžitě zamítnut — pro bylo pouze 9–12 zastupitelů z 55, zbytek nehlasoval (Tarabová to označuje za „srabáctví" a alibismus).
 - Veřejnost (cca 120 odpůrců) nesměla promluvit před hlasováním.
-- Meeting Brno obdržel od magistrátu několik milionů Kč a navíc peníze z Německa.
+- Meeting Brno obdržel od magistrátu ~15 milionů Kč (dle Černohorského 21. 5. 2026) a navíc peníze z Německa.
 - Primátorka Vaňková obhajovala sjezd a smíření — svou historickou argumentaci opírá o „romány z 2. světové války."
 - SPD zastupitelé předložili návrhy občanů — vše smeteno ze stolu.
 
@@ -1509,3 +1509,17 @@ V EU probíhá debata, zda je logické, aby muži vojenského věku — kteří 
 > „Nemůžeme je přece posílat Zelenskému fašistovi, aby je rovnou posílal na smrt na frontu." — Ladislav Vrabel, [Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
 
 **Zdroje:** [Vrabel — Večerní zprávy 20. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-20-5-2026)
+
+---
+
+### ČR–Čína: rozvíjet ekonomické vztahy, bez provokací přes Tajwan nebo Dalajlámu (Černohorský, 21. 5. 2026)
+
+Černohorský v politické diskuzi na téma česko-čínských vztahů jednoznačně prosazuje jejich rozvoj. Klíčové body:
+
+- **EU jako geopolitický trpaslík:** Evropa hraje na obra, ale reálně je nyní geopoliticky marginální. Problém: Green Deal, emisní povolenky a migrace svazují ekonomiku. Bruselská centralizace = RVHP (centrální plánování z Bruselu); k prosperitě nepovede.
+- **Čína jako klíčový partner:** Navštívil čínskou ambasádu s kolegy poslanci — Čína je otevřená spolupráci. Klíčová je nejen přímá obchodní výměna, ale i přístup na africké trhy, protože Čína kontroluje přes investice většinu afrických zemí.
+- **Proč nízké čínské investice v ČR:** Politické provokace — návštěvy Tajwanu, focení s Dalajlámou (Petr Pavel) — způsobily, že Čína do ČR neinvestuje. „V momentě, kdy budete Čínu kopat do kotníků, nemůžete čekat, že se k vám bude chovat vstřícně."
+
+Přepis videa byl zkrácen — zachytil pouze cca 2,5 minut z 47minutového záznamu.
+
+**Zdroje:** [Černohorský — FB Live panel: ČR–Čína 21. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-panel-čr-čína-21-5-2026)

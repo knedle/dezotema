@@ -1513,6 +1513,24 @@
 - **Poznámka:** Úterní večerní zprávy. Témata: Izrael Saar v ČR — diplomatická osa USA/EU/NATO/Izrael; Putin v Číně — 25 let partnerství, 40 dokumentů; Trump a Írán — útok odložen, WSJ: zálivové státy nevěděly, Trump ztrácí kredibilitu; EU kravský hnoj jako náhrada ruského plynu; Musk vs. OpenAI soud zamítnut; Litva mínová pole na hranici s Ruskem; Ruská rozvědka: Ukraina plánuje útoky z Lotyšska; Rusko-Čína tajný vojenský trénink (Reuters); jaderné cvičení Ruska s Běloruskem (64 000 vojáků); START smlouva skončila; Babiš i Pavel za jaderné zbraně v ČR = stejná politika; SPD v koalici pořádá demonstrace = pokrytectví; Chorvatsko 1,7 mld. EUR zbrojení; Rajchl jako mafiánský právník; weby ČRNPM/Vrabela napadeny kyberútokem.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — FB Live „dopoledníček" 21. 5. 2026 {#jiří-černohorský--fb-live-dopoledníček-21-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-21_Jiří-Černohorský_Facebook-Live_1.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=1478581860220601>
+- **Datum záznamu:** 2026-05-21
+- **Délka:** 41:47
+- **Poznámka:** Monolog nahrávání cestou za tátou. Témata: Pavel Jozefovič Hejátko — promo nového CD Vlaštovky v Petroleji; policie — podání vysvětlení k sovětské vlajce (fotka z Olšan), v průběhu výpovědi přišlo nové udání za výhrůžky Petru Pavlovi; Černohorský vysvětluje, že "Pavel by byl adeptem trestu smrti" = konstatování historického práva, nikoliv výhruška; LM Brno — magistrát dal ~15M Kč Meeting Brno na sjezd; Klára Samková pochválena za zapojení; Rajchl — jen plní svou povinnost; Vrabel — distancování od srovnání; sraz 24.5. Brno, ulice Bašty 13:00.
+- **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live panel: ČR–Čína (21. 5. 2026) {#jiří-černohorský--fb-live-panel-čr-čína-21-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-21_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live / panel)
+- **URL:** <https://m.facebook.com/watch/?v=993700856440559>
+- **Datum záznamu:** 2026-05-21
+- **Délka:** 47:39 (přepis zkrácen — zachyceny pouze první ~2,5 min)
+- **Poznámka:** Politická panelová diskuze o česko-čínských vztazích. Černohorský: ČR má rozvíjet vztahy s Čínou; EU = geopolitický trpaslík; nízké čínské investice v ČR způsobené provokacemi (Tajwan, Dalajláma — Pavel). Přepis technicky zkrácen, obsah neúplný.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Večerní zprávy 20. 5. 2026 {#ladislav-vrabel--večerní-zprávy-20-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-20_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)
