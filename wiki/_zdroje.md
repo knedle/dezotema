@@ -1654,6 +1654,15 @@
 - **Poznámka:** Večerní zprávy z nového studia s moderátorkou Zuzkou. Sjezd Sudetoněmeckého Landsmannschaftu Brno — ČRNPM petiční stánek, SPD historické pokrytectví (dříve říkali „vy demonstrujte, my budeme v parlamentu"); dronový útok na studentskou kolej v Luhansku (6 mrtvých, 3 vlny dronů, NATO zodpovědnost); Zelenský „vracíme válku domů" — útok na rafinérii Jaroslavl (700 km od hranic); Rusko skrývá jaderné rakety pod moře (START zanikla); miliardáři staví bunkry (Bezos, Zuckerberg, Kardashianové); Německo 10 mld. EUR civilní obrana (110k polních lůžek); Lukašenko nabídl jednat se Zelenským, EU sankce Bělorusko; NATO summit Turecko červenec — Rubio chce kritizovat spojence za Írán; Trump 5 000 vojáků do Polska; Polsko rusofobie — historická mentalita; EU sankce = bonbóny na Halloween; Tulsi Gabbard rezignovala — „výjimka v Trumpově administrativě, která nemohla vydržet."
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Videoportál 22. 5. 2026 {#jiří-černohorský--videoportál-22-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-22_Jiří-Černohorský_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=1918172635554682&_rdr>
+- **Datum záznamu:** 2026-05-22
+- **Délka:** 1:04 | Zhlédnutí: 17 841
+- **Poznámka:** Krátký klip (64 s) z Brna v den sjezdu Landsmannschaftu. Černohorský komentuje skupinu sudetoněmeckých účastníků hodujících u historické brněnské sochy — označuje to za zneúctění, nikoliv smíření.
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — FB Live 2 (22. 5. 2026) {#jiří-černohorský--fb-live-2-22-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-22_Jiří-Černohorský_Facebook-Live_2.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Live)
