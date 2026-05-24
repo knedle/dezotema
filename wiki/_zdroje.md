@@ -1618,6 +1618,24 @@
 - **Poznámka:** Noční zprávy z auta (23:43). Pavel na GLOBSEC — EU jako investiční a logistický sektor NATO; česká mobilizační/branná legislativa — meziválečná stavba, nefunkční pro 21. st., nutnost odvodů; Macinka na NATO ministerial Helsingborg; Beneš socha červená barva (Tomáš Kočko); ČR zdržení UN klimatické rezoluce (134-0); Zelenský hrozí preventivním útokem Bělorusku; Landsbergis volá útok na Kaliningrad; Rusko-Bělorusko jaderná cvičení — Putin: „výjimečné opatření"; Trump prodává zbraně Tajwanu den po odletu z Číny; Kaja Kalas prohlásila Čínu za „nemocnou" — EU se distancovala, 5 států protestovalo; EU-USA obchodní dohoda (asymetrická); Ebola Bulovka — Adam Vojtěch: „velká čest"; Alatra v EP; flat earth tangent.
 - **Zpracováno:** ano
 
+## Lenka Tarabová — Rajchlův proslov Brno (22. 5. 2026) {#lenka-tarabová--rajchlův-proslov-brno-22-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-22_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=2713093025728255&_rdr>
+- **Datum záznamu:** 2026-05-22
+- **Délka:** 6:40 | Zhlédnutí: 28 759
+- **Poznámka:** Přeskočeno — Tarabová sdílela Rajchlův proslov z Náměstí Svobody v Brně (22. 5.) před protestem 24. 5. Není to její monolog. Obsah: Rajchl o Sudetoněmeckém Landsmannschaftu, Benešových dekretech, smíření a reparacích.
+- **Zpracováno:** přeskočeno
+
+## Lenka Tarabová — Sdílené video Cowan o virech (22. 5. 2026) {#lenka-tarabová--sdílené-video-cowan-o-virech-22-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-22_Lenka-Tarabová_Videoportál_1.txt)
+- **Kanál:** Lenka Tarabová (Facebook / Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=977751078350982&_rdr>
+- **Datum záznamu:** 2026-05-22
+- **Délka:** 2:09 | Zhlédnutí: 1 453
+- **Poznámka:** Přeskočeno — přepis obsahuje totožný Rajchlův proslov jako předchozí soubor (zřejmě technická chyba při transkripci). Popis videa odkazuje na Dr. Toma Cowana o elektronové mikroskopii virů, přepis obsah neodpovídá.
+- **Zpracováno:** přeskočeno
+
 ## Jiří Černohorský — FB Live 22. 5. 2026 {#jiří-černohorský--fb-live-22-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-22_Jiří-Černohorský_Facebook-Live.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Live)
@@ -1625,4 +1643,13 @@
 - **Datum záznamu:** 2026-05-22
 - **Délka:** 24:50
 - **Poznámka:** Monolog z auta po brněnské akci (Svobodák / Národní obroda 2, pan Říha). Incident s provokátory (Pšenák, Blujová, Ponert) — policie radí nenechat se vyprovokovat; Černohorský ji poslechl, ale hranice si nenechá překračovat. Kritika vlády Babiše: ministr Juchelka (ANO/MPSV) navrhl VR brýle jako úlevu pro sestřičky v sociálních zařízeních = "odtrženi od reality." Návrh: ČR by měla dát NATO max. 1,2–1,3 % HDP (ne 2 %) a ušetřené 0,7 % HDP nasypat do zdravotnictví. Vlastenecká scéna = spolky, nikoliv koordinovaná scéna. ČR suverenita: "dřív Rusové, teď EU, Izrael, Amerika."
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Večerní zprávy 22. 5. 2026 {#ladislav-vrabel--večerní-zprávy-22-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-22_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/26436992725979486>
+- **Datum záznamu:** 2026-05-22
+- **Délka:** 41:02
+- **Poznámka:** Večerní zprávy z nového studia s moderátorkou Zuzkou. Sjezd Sudetoněmeckého Landsmannschaftu Brno — ČRNPM petiční stánek, SPD historické pokrytectví (dříve říkali „vy demonstrujte, my budeme v parlamentu"); dronový útok na studentskou kolej v Luhansku (6 mrtvých, 3 vlny dronů, NATO zodpovědnost); Zelenský „vracíme válku domů" — útok na rafinérii Jaroslavl (700 km od hranic); Rusko skrývá jaderné rakety pod moře (START zanikla); miliardáři staví bunkry (Bezos, Zuckerberg, Kardashianové); Německo 10 mld. EUR civilní obrana (110k polních lůžek); Lukašenko nabídl jednat se Zelenským, EU sankce Bělorusko; NATO summit Turecko červenec — Rubio chce kritizovat spojence za Írán; Trump 5 000 vojáků do Polska; Polsko rusofobie — historická mentalita; EU sankce = bonbóny na Halloween; Tulsi Gabbard rezignovala — „výjimka v Trumpově administrativě, která nemohla vydržet."
 - **Zpracováno:** ano

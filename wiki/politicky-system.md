@@ -350,15 +350,17 @@ Souběžně zmiňuje mobilizační krizi na Ukraině: zprávy o jednotkách TCK 
 
 ---
 
-### SPD v koalici pořádá demonstrace proti vlastní vládní politice — Vrabel (19. 5. 2026)
+### SPD v koalici pořádá demonstrace proti vlastní vládní politice — Vrabel (19.–22. 5. 2026)
 
 Vrabel poukazuje na strukturální pokrytectví SPD a jejích poslanců (Rajchl, Okamura): jsou součástí vládní koalice, ale zároveň pořádají demonstraci v Brně 24. 5. 2026 proti sjezdu Sudetoněmeckého Landsmannschaftu a Rajchl napsal veřejnou výzvu ministrovi vnitra (ze stejné koalice), aby sjezd zakázal.
 
 Vrabel to označuje za „show pro lidi" — v koalici se věci řeší interně přes koaliční smlouvu a kluby, ne veřejnými výzvami. SPD přitom má silnou páku: ANO nemá bez SPD parlamentní většinu (potřeba 101 křesel). Pokud by SPD vyhrožovalo odchodem z koalice, Babiš by byl nucen jednat.
 
+Konkrétní historické pokrytectví SPD v den konání sjezdu (22. 5. 2026): strana v opozici opakovaně říkala „vy občané demonstrujte na ulicích, my budeme dělat naší práci v parlamentu" — SPD s Vrabelem na velkých demonstracích nikdy nešla. Teď, co je ve vládě a má reálný politický nástroj (zakázání sjezdu jako v roce 2009), místo toho organizuje demonstrace, a to na stejné ulici, na níž k předchozím demonstracím sama nechodila.
+
 > „Kdyby mu řekli, zakážete Sudetoněmecký Landsmannschaft, nebo nebudeme z vlády — tak co myslíte, že udělá Andrej Babiš?" — Ladislav Vrabel, [Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
 
-**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026), [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
 
 ---
 

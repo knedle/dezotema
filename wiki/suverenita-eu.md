@@ -1561,3 +1561,79 @@ Pozitivně hodnotí, že Putin i Lukašenko opakovaně prohlásili, že nezaúto
 Kaja Kalas v debatě o politice EU vůči Číně prohlásila, že „Evropa zná diagnózu nemoci, pokud jde o Čínu, ale není shoda na léčbě." EU Komise se od výroku distancovala, 5 členských států podalo stížnost. Vrabel hodnotí jako ukázku diplomatického selhání — základem diplomacie je hledat dohody výhodné pro všechny strany, ne veřejně urážet obchodního partnera. Srovnává s „nacistickým vzorcem chování" politiků — nejdříve militarizace, pak ztráta soudnosti.
 
 **Zdroje:** [Vrabel — Večerní zprávy 21. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-21-5-2026)
+
+---
+
+### Sjezd Sudetoněmeckého Landsmannschaftu proběhl — ČRNPM stánek, SPD historické pokrytectví (Vrabel, 22. 5. 2026)
+
+Sjezd Sudetoněmeckého Landsmannschaftu se konal v Brně (22.–25. 5. 2026) navzdory rozsáhlé veřejné kritice. Iniciativa ČRNPM (Česká republika na prvním místě) měla na místě petiční stánek za prohlášení organizace za extremistickou, u nějž se zastavil i Jiří Černohorský. Vrabel zdůrazňuje konkrétní historické pokrytectví SPD: strana v opozici opakovaně říkala „vy občané demonstrujte na ulicích, my budeme dělat naší práci v parlamentu" — teď, co je ve vládě a má reálnou páku (koalice ANO bez SPD nemá 101 mandátů), místo politického zákazu znovu organizuje demonstrace. Ministerstvo vnitra přitom sjezd zakázalo v roce 2009 bez problémů za úřednické vlády ministra z ČSSD.
+
+> „Jediné, co mi z toho vychází — je pro ně příjemnější mít okolo toho ten mediální humbuk a dělat demonstrace, ukazovat jak jsou velký vlastenci na ulicích, místo toho, aby to udělali politicky." — Ladislav Vrabel, [Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Dronový útok na studentskou kolej v Luhansku — teroristický útok, NATO zodpovědnost (Vrabel, 22. 5. 2026)
+
+Ukrajinskě drony zaútočily ve třech vlnách na studentskou kolej Starobělské odborné školy Luhanské státní pedagogické univerzity — 6 studentů zahynulo, 15–18 bylo nezvěstných. Rektorka prohlásila budovy za neobnovitelné. Ruské MZV tvrdí, že útoky jsou technicky podporovány odborníky NATO a že západ dodává zpravodajské informace i navigaci. Rada bezpečnosti OSN zasedala na žádost Moskvy. Vrabel útok označuje za teroristický čin a zasazuje jej do vzorce eskalace: konfliktu na Ukrainěí přibývá, přestože česká média působí dojmem uklidnění.
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Zelenský: „vracíme válku domů" — útok na rafinérii v Jaroslavli 700 km od hranic (Vrabel, 22. 5. 2026)
+
+Zelenský prohlásil „vracíme válku domů" v reakci na ukrajinskě útoky hluboko do ruského území — konkrétně na rafinérii v Jaroslavli, vzdálené přibližně 700 km od frontové linie. Vrabel to hodnotí jako zásadní eskalaci: Ukraina záměrně přenáší válku do civilní a průmyslové infrastruktury v srdci Ruska. Tato rétorika v kombinaci se zaniklou START smlouvou a probíhajícími ruskými jadernými cvičeními tvoří dle Vrabela nebezpečný eskalační vzorec bez viditelného konce.
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Miliardáři staví bunkry — Bezos, Zuckerberg, Kardashianové jako varovný signál (Vrabel, 22. 5. 2026)
+
+Vrabel informuje, že světoví miliardáři — Jeff Bezos, Mark Zuckerberg, rodina Kardashianových — masivně investují do výstavby podzemních bunkrů. Vrabel to čte jako varovný signál: lidé s přístupem k nepublikovaným informacím se chovají podle zásady „zachraň se, kdo může." Paralelně Německo investuje 10 mld. EUR do civilní obrany, Rusko cvičí jaderné síly. Vrabel varuje: „ty chytřejší to vědí dříve a připravují se."
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### EU sankce jako „bonbóny na Halloween" — dojem hrozby bez efektu (Vrabel, 22. 5. 2026)
+
+Vrabel charakterizuje unijní sankce vůči Rusku i nové sankce vůči Bělorusku jako „bonbóny na Halloween" — vypadají hrozivě, ale nikoho nepotrestají. Ruský majetek v Evropě nelze fakticky zabavit, ruská ekonomika roste díky alternativním obchodním partnerům, ropa proudí přes Turecko, Indii a Čínu. Sankce jsou dle Vrabela nástrojem domácí politické komunikace, nikoliv reálného geopolitického nátlaku.
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Lukašenko nabídl jednat se Zelenským — EU reaguje novými sankcemi (Vrabel, 22. 5. 2026)
+
+Alexandr Lukašenko veřejně prohlásil, že je připraven k přímému jednání se Zelenským. Zelenský nabídku nevyužil. EU odpověděla novým balíčkem sankcí vůči Bělorusku. Rusko a Bělorusko paralelně provádějí rozsáhlá jaderná cvičení. Vrabel hodnotí situaci ironicky: Lukašenko nabízí dialog, západ odpovídá dalšími sankcemi — přesně opačný postup, než by vedl k míru.
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Trump posílá 5 000 vojáků do Polska — americká globální vojenská přítomnost (Vrabel, 22. 5. 2026)
+
+Pentagon oznámil vyslání přibližně 5 000 amerických vojáků do Polska. Vrabel to komentuje v kontextu americké globální strategie: USA udržují vojenskou přítomnost po celém světě, protože globální hegemon potřebuje, aby ostatní státy nakupovaly americké dluhopisy a respektovaly americké finanční a obchodní podmínky. Trump tuto politiku navzdory izolacionistické rétorice v praxi pokračuje.
+
+> „Bohužel i Donald Trump takhle funguje. Mít všude vojáky a snažit se o to zachovat to impérium." — Ladislav Vrabel, [Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Polsko: hluboká rusofobie jako historická mentalita (Vrabel, 22. 5. 2026)
+
+Vrabel upozorňuje na specifičnost Polska v NATO: Poláci dle něj „opravdu nenávidí Rusy" — jde o hluboce zakořeněnou historickou mentalitu, nikoliv pouze politický postoj. Tato nenávist vysvětluje, proč Polsko má nejvyšší výdaje na obranu v NATO poměrem k HDP a nejagresivnější rétoriku vůči Rusku v celé alianci. Vrabel ji uvádí jako klíčový faktor destabilizace regionu.
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
+
+---
+
+### Tulsi Gabbard rezignovala — „výjimka v Trumpově administrativě" musela odejít (Vrabel, 22. 5. 2026)
+
+Ředitelka Národní zpravodajské služby USA Tulsi Gabbard rezignovala s odvoláním na zdravotní stav manžela. Vrabel ji označuje za „naprostou výjimku v celé Trumpově administrativě" — jako jediná ze všech úředníků dělala věci pro obyčejné lidi: odhalila 120 zahraničních biolaboratoří financovaných USA (viz [Gabbard a biolaboratoře — 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)), přinášela do agendy témata, která by jinak zůstala skryta. Vrabel tvrdí, že tato rezignace musela přijít, ať byl zástupný důvod jakýkoli: „kdyby nebyl tenhle důvod, tak by se našel jiný."
+
+**Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
