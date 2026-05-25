@@ -1679,3 +1679,12 @@
 - **Délka:** 29:18
 - **Poznámka:** Živé vysílání z Brna v průběhu sjezdu Sudetoněmeckého Landsmannschaftu. Obrana národa 2 (Martin Říha, Anička Štofanová) čte jména 1 518 brněnských obětí nacistické okupace z knihy „Brněnští občané v boji proti fašismu"; 240+ ulic v Brně pojmenováno po padlých hrdinech — Černohorský překvapen ztrátou historické paměti. Vlastenecká scéna rozbita okolo 2015–2016 vstupem Okamury, SPD, bloku proti islamizaci; spolek jako nepolitická alternativa sjednocení. Provokátor Ponert narušoval akci. Panevropská unie na Moravě (Posselt, 1990) — Fiala v tomto projektu.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live 23. 5. 2026 {#jiří-černohorský--fb-live-23-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-23_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=2193547951461017>
+- **Datum záznamu:** 2026-05-23
+- **Délka:** 00:11:20
+- **Poznámka:** Živé vysílání z demonstrace v Brně. Černohorský zuří, že Policie ČR eskortovala provokátora „Pšenáka" (Hero Hero placený kanál) na jejich vlastenecké shromáždění; označuje policii za „brand managery" politického oponenta z veřejných peněz. Přímá výzva k fyzickému napadení Pšenáka: „Tobě prostě patří rozkopat rypák. A doufám, že to někdo udělá." Záběr na europoslanece Vondru (ODS) v davu. Negativní reakce na kombinaci čsl. a izraelské vlajky u demonstrantů.
+- **Zpracováno:** ano

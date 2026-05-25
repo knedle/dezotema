@@ -397,3 +397,13 @@ Jako alternativu k stranickému fragmentování Černohorský prosazuje model sp
 Základní podmínkou je nesmíchávat stranickou politiku s občanskou aktivitou. Extrémní pozice (jako Ponertova „listina nivoliče") jsou kontraproduktivní — k takovým věcem se naprostá většina lidí nikdy nepřidá, jakkoli s kritikou systému souhlasí.
 
 **Zdroje:** [Černohorský — FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
+
+---
+
+### Policie jako „brand manageři" politického oponenta — Černohorský (23. 5. 2026)
+
+Jiří Černohorský ve přímém přenosu z demonstrace v Brně ostře kritizuje Policii ČR za to, že eskortovala člověka přezdívaného „Pšenák" — provozovatele placeného kanálu Hero Hero — přímo na patriotické shromáždění opačného smýšlení. Policie jednání obhajovala svobodou pohybu, Černohorský namítá, že tím de facto pracovala jako ochrana komerčního projektu: Pšenák mohl na jejich akci natočit materiál, který prodá předplatitelům. Označuje policisty přímo za „brand managery" politického oponenta z veřejných peněz.
+
+> „Policie České republiky za naše peníze, za naše prachy tady dělá Pšenákovi normálně ksovi." — Jiří Černohorský, [FB Live 23. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-23-5-2026)
+
+**Zdroje:** [Černohorský — FB Live 23. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-23-5-2026)
