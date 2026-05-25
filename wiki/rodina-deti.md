@@ -53,3 +53,15 @@ Odpovědnost nenese žádná instituce ani žádná technologická firma — spo
 **Zdroje:** [Vrabel — Demografická krize a technologie, 1. 5. 2026](_zdroje.md#ladislav-vrabel--demografická-krize-a-technologie-1-5-2026)
 
 ---
+
+## Šmírování dětí státem
+
+### Česká školní inspekce: povinný dotazník o rodině, depresích a sebepoškozování — Rajchl (24. 5. 2026)
+
+Rajchl upozorňuje na skandál s dotazníkem České školní inspekce (ČŠI) pro žáky 5. a 9. tříd. Test měl ověřovat znalost českého jazyka a matematiky, ve skutečnosti obsahoval otázky o rodinné situaci (máma/táta, jejich zaměstnání), počtu knížek doma, depresích žáků a myšlenkách na sebepoškozování. Účast škol byla povinná.
+
+Rajchl to označuje za „absolutní zneužití pozice" ČŠI — stát bez souhlasu rodičů sbíral citlivé psychosociální informace o dětech a jejich rodinách pod záminkou znalostního testu. Kolega Petr Vacek podal podnět na příslušné orgány. Ministr školství Plaga reagoval veřejně rozčileně.
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
+---

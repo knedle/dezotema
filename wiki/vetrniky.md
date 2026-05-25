@@ -82,4 +82,16 @@ Rajchl ve videu 6. 5. 2026 upozorňuje na celosvětový obrat vůči větrné en
 
 Vrabel v nedělním vysílání 3. 5. 2026 kritizoval postup Filipa Turka (Motoristé sobě): větrné zóny pouze zmenšil, místo aby je zcela zrušil. Vrabel preferuje alternativy: jaderná energie a malé reaktory (Rolls-Royce).
 
+---
+
+### SPD: dopadová studie na znehodnocení nemovitostí neexistuje — Rajchl (24. 5. 2026)
+
+Rajchl byl přítomen na veřejném zasedání k akceleračním zónám větrných elektráren. Na dotaz, zda existuje dopadová studie na znehodnocení nemovitostí občanů v blízkosti plánovaných turbín (250 m vysokých), dostali odpověď, že taková studie nebyla vypracována. Rajchl: dům s výhledem přes větrný park se nebude prodávat za původní cenu a majitelé nemají žádnou kompenzaci.
+
+Na přímou otázku, zda by si někdo z přítomných (~10 lidí, kteří o výstavbě rozhodují) přál větrné elektrárny u svého domu, odpověděli všichni záporně.
+
+Rajchl pozval na navazující seminář **8. 6. 2026 v PS (10:00)** s Hynkem Beranem a Janou Zvěřetek-Gamplovou.
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
 **Zdroje:** [Vrabel — Pravidelné nedělní vysílání (3. 5. 2026)](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)

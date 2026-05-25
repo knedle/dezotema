@@ -1667,3 +1667,31 @@ Vrabel tvrdí, že česká veřejnost nerozumí skutečnému účelu nákupu F-3
 Cenové srovnání: ČR platí 6,25 mld. EUR za 24 letadel (dodání 2031) vs. Jižní Korea/Švýcarsko 5,5 mld. EUR (dodání 2027–28). Mediální debata je dle Vrabela záměrně stočena k otázce „proč dostaneme letadla pozdě" namísto „proč je vůbec kupujeme" — přestože Babiš před volbami slíbil nákup zrušit.
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026)
+
+---
+
+### Odsun jako potrestání kolaborantů, ne česko-německý konflikt — Rajchl (24. 5. 2026)
+
+Rajchl odmítá narativ „česko-německého vzájemného provinění" a navrhuje alternativní právní rámování. Drtivá většina vysídlených Němců nebyla německými státními občany — byli to čsl. občané, kteří jako kolaboranti zradili vlastní stát a spolčili se s nacistickým Německem. Odsun proto nebyl činem ČSR vůči Německu, ale potrestáním vlastizrádných kolaborantů.
+
+Z toho plyne i majetkový argument: konfiskovaný majetek nebyl německý, ale majetek českých kolaborantů — Německo ho proto nemůže započítávat vůči reparačním nárokům ČR.
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
+---
+
+### SPD/PRO: spolupráce s AFD podmíněna respektováním Benešových dekretů — Rajchl (24. 5. 2026)
+
+Rajchl veřejně přiznává shodné programové vize s německou AFD (odpor vůči Green Dealu, masové migraci, válce na Ukraině, federalizaci EU) a deklaruje ochotu ke spolupráci. Zároveň stanoví jasnou podmínku: AFD nesmí jakýmkoli způsobem zpochybňovat Benešovy dekrety ani zasahovat do českých vnitrostátních záležitostí. Pokud by v tom bavorská odnož AFD (která vyzvala ke zrušení dekretů) pokračovala, spolupráce by skončila.
+
+Bavorský zemský sněm, jenž podpořil sjezd SdL usnesením, Rajchl označuje za nepřípustné vměšování — jako by Česko bylo stále protektorátem. Příští sjezd SdL je plánován na rok 2027 v Liberci.
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
+---
+
+### NATO: Rutte navrhuje 0,25 % HDP ročně pro Ukrajinu = 22,5 mld. Kč — Rajchl odmítá (24. 5. 2026)
+
+Generální tajemník NATO Mark Rutte navrhl, aby každá členská země přispívala 0,25 % HDP ročně přímo na podporu Ukrajiny. Při HDP ČR ~9 bilionů korun by to znamenalo 22,5 miliardy Kč ročně. Rajchl návrh zcela odmítá — za tyto peníze by šly krajské nemocnice, školy, byty a dálnice. NATO dle Rajchla nemá právo diktovat národním vládám, kolik mají dát Ukrajině, protože to nemá nic společného se společnou obranou.
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)

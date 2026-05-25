@@ -1697,3 +1697,12 @@
 - **Délka:** 49 min
 - **Poznámka:** „Zprávy v devět s komentářem." Klíčová témata: Sudetoněmecký pochod smíření v Brně (~2000 účastníků, CSU Dobrind, Vystrčil); Babiš-Explosia — den po zahájení francouzského vyšetřování Babiše nabídky na prodej státní zbrojovky Explosia francouzům (predikce: bude prodána, prokuratura ztichne); Petr Pavel v The Guardian — navrhoval sestřelování ruských letadel, odpojení internetu a bank; útok dronů na Starobělsk (studentská kolej, 18 mrtvých); F-35 jako jaderné nosiče B-61 — ČR vstupuje do Nuclear Sharing (6,25 mld. EUR, dodání 2031); Zelenský odmítá přidružené členství EU; Landovský — ČR hrozí, že nesplní 2% HDP pro NATO; Německo 5% HDP pro NATO; Francie-Německo-UK rakety 2000+ km.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — FB Live 24. 5. 2026 {#jindřich-rajchl--fb-live-24-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-24_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1622815572135394>
+- **Datum záznamu:** 2026-05-24
+- **Délka:** 38:32
+- **Poznámka:** Nedělní živé vysílání. Hlavní téma: Sudetoněmecký Landsmannschaft sjezd v Brně jako historický zlom — poprvé politici preferují SdL nad přeživšími z Lidic (Havel/„Baby Fiala", Zdechovský, Vystrčil, Pavel). Právní framing: odsun = potrestání čsl. kolaborantů, ne česko-německý konflikt. Příští sjezd SdL Liberec 2027. AFD spolupráce podmíněna respektem k Benešovým dekretům. Rutte 0,25 % HDP pro Ukrainu = 22,5 mld. Kč ročně — odmítá. ČŠI skandál: povinný dotazník žáků o rodině, depresích a sebepoškozování. Větrné elektrárny: dopadová studie na znehodnocení nemovitostí neexistuje; seminář 8. 6. v PS.
+- **Zpracováno:** ano
