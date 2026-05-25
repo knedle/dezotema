@@ -344,4 +344,12 @@ Vrabel navrhuje paralelu se staršími kauzami: výměnou za správné ústupky 
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026)
 
-**Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
+---
+
+## Markéta Vaňková — projev v němčině na sjezdu Landsmannschaftu, obvinění z drog
+
+### Vaňková mluvila německy na sjezdu SdL a drogové obvinění — Černohorský (24. 5. 2026)
+
+Jiří Černohorský tvrdí, že brněnská primátorka Markéta Vaňková na sjezdu Sudetoněmeckého Landsmannschaftu v Brně pronesla projev v němčině — dle něj tím „odpomněla svoji rodnou řeč" a zopakovala gesto Daniela Hermana, který sudetské Němce nazval „krajany". Zároveň vznáší závažné neověřené obvinění: označuje ji za osobu, která „zákonně zjíždí lajdy koksu" — přímé tvrzení bez předloženého důkazu.
+
+**Zdroje:** [Černohorský — FB Live 24. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-24-5-2026)

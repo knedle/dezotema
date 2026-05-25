@@ -1698,6 +1698,15 @@
 - **Poznámka:** „Zprávy v devět s komentářem." Klíčová témata: Sudetoněmecký pochod smíření v Brně (~2000 účastníků, CSU Dobrind, Vystrčil); Babiš-Explosia — den po zahájení francouzského vyšetřování Babiše nabídky na prodej státní zbrojovky Explosia francouzům (predikce: bude prodána, prokuratura ztichne); Petr Pavel v The Guardian — navrhoval sestřelování ruských letadel, odpojení internetu a bank; útok dronů na Starobělsk (studentská kolej, 18 mrtvých); F-35 jako jaderné nosiče B-61 — ČR vstupuje do Nuclear Sharing (6,25 mld. EUR, dodání 2031); Zelenský odmítá přidružené členství EU; Landovský — ČR hrozí, že nesplní 2% HDP pro NATO; Německo 5% HDP pro NATO; Francie-Německo-UK rakety 2000+ km.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — FB Live 24. 5. 2026 {#jiří-černohorský--fb-live-24-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-24_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=978142411476981&_rdr>
+- **Datum záznamu:** 2026-05-24
+- **Délka:** 32:31
+- **Poznámka:** Živé vysílání přímo z protestního pochodu na ulici Masarykova v Brně (protistánek k sjezdu SdL). Ukazuje stovky českých/čsl. vlajek, zdraví příznivce. Označuje koalici z radnice Brna (ODS, TOP 09, KDU, Piráti, STAN) za kolaboranty; Daniel Herman „officiální neonacista". Vaňková mluvila na sjezdu SdL německy + neověřené drogové obvinění. SdL krajský předseda (cit. přes Michala Svatoše): „budoucí generace dekrety odstraní sama." Apel na sjednocení pod národními barvami místo stranických symbolů.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — FB Live 24. 5. 2026 {#jindřich-rajchl--fb-live-24-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-24_Jindřich-Rajchl_Facebook-Live.txt)
 - **Kanál:** Jindřich Rajchl (Facebook Live)
