@@ -349,3 +349,23 @@ Vrabel tvrdí, že Donald Trump přesně odpovídá tomuto vzoru:
 Stejný scénář se dle Vrabela opakuje ve všech západních zemích: vždy zvítězí někdo, kdo vypadá jako odpůrce globalismu, ale po zvolení pokračuje v agendě 2030.
 
 **Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+### Boldy: Holocaust přeceňován, „Chazarové" vs. „Židi" (24. 5. 2026)
+
+Boldy předestírá antisemitský konspiratistický výklad: tvrdí, že za druhou světovou válkou stály USA, Rusko a Evropa, kteří Židy „persekvovali" ještě před Hitlerem. Hitler byl jen loutka, která zakryla skutečné viníky. Počet šesti milionů obětí Holokaustu označuje za „píčovinu" a tvrdí, že se mu podařilo přinutit AI ke snížení tohoto čísla na pět milionů — naznačuje, že skutečný počet byl výrazně nižší.
+
+Dále aplikuje antisemitskou teorii „Chazarů": rozlišuje mezi „normálními Židy" a „Chazary" (resp. „Chabad-Lubavič") — dle níž jsou Aškenázové falešnými Židy, potomky středoasijského kmene, nikoliv biblickými Izraelity. Tuto skupinu označuje jako skutečné mocné ovládající svět.
+
+> „Za druhé světové války bylo vyvražděno šest milionů Židů. Píčovina." — Boldy, [FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+
+**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+
+---
+
+### Boldy: 13 vědců zavražděno po odkrytí volné energie (24. 5. 2026)
+
+Boldy tvrdí, že v posledních dvou letech záhadně zemřelo 13 vrcholových vědců ze dvou nebo tří stejných korporací, kteří přišli na antigravitaci a volnou energii. Tato oblast je dle Boldyho systematicky potlačována — přesně jako byl potlačen Nikola Tesla — protože by zbavila korporace příjmů z emisních povolenek a fosilních paliv. „Vědecký vývin civilizace je kontrolován korporacemi."
+
+**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)

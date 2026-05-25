@@ -1698,6 +1698,15 @@
 - **Poznámka:** „Zprávy v devět s komentářem." Klíčová témata: Sudetoněmecký pochod smíření v Brně (~2000 účastníků, CSU Dobrind, Vystrčil); Babiš-Explosia — den po zahájení francouzského vyšetřování Babiše nabídky na prodej státní zbrojovky Explosia francouzům (predikce: bude prodána, prokuratura ztichne); Petr Pavel v The Guardian — navrhoval sestřelování ruských letadel, odpojení internetu a bank; útok dronů na Starobělsk (studentská kolej, 18 mrtvých); F-35 jako jaderné nosiče B-61 — ČR vstupuje do Nuclear Sharing (6,25 mld. EUR, dodání 2031); Zelenský odmítá přidružené členství EU; Landovský — ČR hrozí, že nesplní 2% HDP pro NATO; Německo 5% HDP pro NATO; Francie-Německo-UK rakety 2000+ km.
 - **Zpracováno:** ano
 
+## Konspirátor Boldy — FB Live 24. 5. 2026 {#konspirátor-boldy--fb-live-24-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-24_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel (Facebook Live)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1767820254389723>
+- **Datum záznamu:** 2026-05-24
+- **Délka:** 15:15
+- **Poznámka:** Boldy se vrací po 1,5 měsíci pauzy (práce — gabionové sítě). Klíčová témata: 13 vědců z korporací záhadně zemřelo po odkrytí volné energie/antigravitace; Holocaust denial — číslo 6 milionů označuje za „píčovinu", tvrdí AI mu snížila číslo z 6 na 5 milionů; „Chazarové" vs. „Židi" antisemitská teorie; Trump si vydělal 2,7 mld. USD z daňových peněz; policie chrání Pšenáka; Kořenář (DBTV) označen za „největšího fabulátora". Nabídka práce pro 8–15 lidí na gabionový projekt (červenec/srpen).
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — FB Live 24. 5. 2026 {#jiří-černohorský--fb-live-24-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-24_Jiří-Černohorský_Facebook-Live.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Live)
