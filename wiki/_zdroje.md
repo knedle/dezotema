@@ -1688,3 +1688,12 @@
 - **Délka:** 00:11:20
 - **Poznámka:** Živé vysílání z demonstrace v Brně. Černohorský zuří, že Policie ČR eskortovala provokátora „Pšenáka" (Hero Hero placený kanál) na jejich vlastenecké shromáždění; označuje policii za „brand managery" politického oponenta z veřejných peněz. Přímá výzva k fyzickému napadení Pšenáka: „Tobě prostě patří rozkopat rypák. A doufám, že to někdo udělá." Záběr na europoslanece Vondru (ODS) v davu. Negativní reakce na kombinaci čsl. a izraelské vlajky u demonstrantů.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 23. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-23-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-23_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1928509494561912>
+- **Datum záznamu:** 2026-05-23
+- **Délka:** 49 min
+- **Poznámka:** „Zprávy v devět s komentářem." Klíčová témata: Sudetoněmecký pochod smíření v Brně (~2000 účastníků, CSU Dobrind, Vystrčil); Babiš-Explosia — den po zahájení francouzského vyšetřování Babiše nabídky na prodej státní zbrojovky Explosia francouzům (predikce: bude prodána, prokuratura ztichne); Petr Pavel v The Guardian — navrhoval sestřelování ruských letadel, odpojení internetu a bank; útok dronů na Starobělsk (studentská kolej, 18 mrtvých); F-35 jako jaderné nosiče B-61 — ČR vstupuje do Nuclear Sharing (6,25 mld. EUR, dodání 2031); Zelenský odmítá přidružené členství EU; Landovský — ČR hrozí, že nesplní 2% HDP pro NATO; Německo 5% HDP pro NATO; Francie-Německo-UK rakety 2000+ km.
+- **Zpracováno:** ano

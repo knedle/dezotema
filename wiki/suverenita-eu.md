@@ -1657,3 +1657,13 @@ Jiří Černohorský živě přenášel z Brna akci spolku Obrana národa 2 (org
 > „Je mi z toho fakt smutno, že vlastně se to dozvídám až teďka, až dneska, že vlastně tyhle věci vůbec nevím. Jak je možný, že v Brně je tady 240 ulic pojmenovaných po těchto hrdinech a kdo z těch Brňáků tady, co tady žije a bydlí, kdo to ví?" — Jiří Černohorský, [FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
 
 **Zdroje:** [Černohorský — FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
+
+---
+
+### F-35 jako jaderné nosiče B-61 — ČR vstupuje do Nuclear Sharing — Vrabel (23. 5. 2026)
+
+Vrabel tvrdí, že česká veřejnost nerozumí skutečnému účelu nákupu F-35. Na rozdíl od Gripenů (lehké stíhačky) jsou F-35 primárně těžké bombardéry určené k letům na nepřátelské území s jadernými náložemi B-61. ČR jejich nákupem vstupuje do Nuclear Sharing — schématu, kde zúčastněné země uchovávají ~20 jaderných zbraní a jsou připraveny je doručit v případě rozkazu.
+
+Cenové srovnání: ČR platí 6,25 mld. EUR za 24 letadel (dodání 2031) vs. Jižní Korea/Švýcarsko 5,5 mld. EUR (dodání 2027–28). Mediální debata je dle Vrabela záměrně stočena k otázce „proč dostaneme letadla pozdě" namísto „proč je vůbec kupujeme" — přestože Babiš před volbami slíbil nákup zrušit.
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026)

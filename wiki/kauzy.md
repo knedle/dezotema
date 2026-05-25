@@ -332,4 +332,16 @@ Jiří Černohorský odhaluje (s odkazem na informace od Petry Redové), že spo
 
 Černohorský uvádí, že Bernd Posselt na akcích financovaných přes Meeting Brno v Pohořelicích veřejně vyzýval ke zrušení Benešových dekretů a k „historickému smíření" spojenému s přerozdělením majetku. Tato protibenešovská rétorika je dle Černohorského financována z veřejných českých prostředků. Viz také [Suverenita a EU — Posselt v Pohořelicích](suverenita-eu.md#posselt-v-pohořelicích--veřejné-projevy-za-zrušení-dekretů).
 
+---
+
+### Babiš-Explosia: prodej státní zbrojovky den po zahájení francouzského vyšetřování — Vrabel (23. 5. 2026)
+
+Ladislav Vrabel upozorňuje na podezřelé načasování: v den, kdy francouzská prokuratura oznámila vyšetřování Andreje Babiše pro finanční machinace (vyvádění peněz, nákup majetku ve Francii), Babiš v živém vysílání zmínil, že „jsou tady nabídky" na prodej státní zbrojovky Explosia francouzským kupcům — Macron prý loboval přímo u Babiše. Explosia (výroba dynamitu a střelného prachu) je jedním z nejziskovějších státních podniků.
+
+Vrabel navrhuje paralelu se staršími kauzami: výměnou za správné ústupky (F-35, muniční iniciativa) mizely problémy s EU dotacemi Agrofertu. Predikce: Explosia bude prodána a francouzská prokuratura svou aktivitu uklidní.
+
+> „Myslím, že nás o ten podnik připraví a nebude problém s francouzskou prokuraturu, ale to je jenom můj tip." — Ladislav Vrabel, [Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026)
+
 **Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)

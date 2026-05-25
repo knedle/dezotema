@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Explosia bude prodána, francouzská prokuratura ztichne (23. 5. 2026)
+
+**Předpověď:** Den po zahájení francouzského vyšetřování Babiše nabídl Babiš prodej státní zbrojovky Explosia francouzům. Vrabel predikuje, že Explosia bude prodána a francouzská prokuratura svou aktivitu uklidní — jako součást neformálního ústupkového vzorce (analogie s mizením EU-dotačních problémů Agrofertu po jiných geopolitických ústupcích).
+
+> „Myslím, že nás o ten podnik připraví a nebude problém s francouzskou prokuraturu, ale to je jenom můj tip." — Ladislav Vrabel
+
+**Horizont:** neurčeno (krátkodobé)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026)
+
+---
+
 ### Ladislav Vrabel — ČR jako cíl preventivního ruského útoku (18. 5. 2026)
 
 **Předpověď:** Vrabel cituje výrok ruského profesora, že Rusko mělo v roce 2022 „preventivně zničit jednu evropskou zemi", aby se Evropa probrala a přestala zbrojit. Vrabel spekuluje, zda tímto cílem by mohla být ČR kvůli muniční iniciativě. Výslovně říká, že „to není alegrace" — považuje to za reálnou eventualitu, ne hrozbu.
