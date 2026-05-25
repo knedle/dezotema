@@ -407,3 +407,17 @@ Jiří Černohorský ve přímém přenosu z demonstrace v Brně ostře kritizuj
 > „Policie České republiky za naše peníze, za naše prachy tady dělá Pšenákovi normálně ksovi." — Jiří Černohorský, [FB Live 23. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-23-5-2026)
 
 **Zdroje:** [Černohorský — FB Live 23. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-23-5-2026)
+
+---
+
+### Demonstrace 2022 zlikvidovány — opozice je dnes součástí vlády (Vrabel, 24. 5. 2026)
+
+Vrabel ve dvouhodinovém vysílání (24. 5. 2026) rozebírá zánik autentického občanského odporu. Demonstrace roku 2022 označuje za jedinečný spontánní fenomén — financovaný z příspěvků tisíců obyčejných lidí, bez stranického zadání. Tyto akce byly podle Vrabela cíleně zlikvidovány zevnitř i zvenčí: nasazením falešných lidí, „mafiánským právníkem", a mediální diskreditací Vrabela a jeho manželky.
+
+Dnes probíhající demonstrace jsou naopak politicky organizované (SPD, Rajchl, Okamura, Zeman) — politici tam říkají jen jedno: „dejte nám mandát ve volbách." Volební cesta ale podle Vrabela nefunguje: aby se politik dostal do struktur, musí spolupracovat s médii a sponzory, kteří ho pak drží závislého na systému.
+
+Vrabel formuluje klíčovou tezi: opozice přestala být opozicí. SPD a ANO jsou součástí vládního systému — příležitostně vysloví kritiku, ale nikdy nepřehlasují koalici, protože pak by přišli o místa ve hře. „Teď je koalice a opozice ve vládě."
+
+> „To už není koalice a opozice, jako to byla dřív. Teď je koalice a opozice ve vládě." — Ladislav Vrabel, [Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)

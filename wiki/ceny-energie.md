@@ -264,3 +264,17 @@ Vrabel ve vysílání 6. 5. potvrzuje eskalaci evropské námořní přítomnost
 Írán sestřelil 2 americké vojenské lodě. Írán ve stejné době jednal s Wang Yim v Pekingu — potvrzení čínsko-rusko-íránské strategické jednoty.
 
 **Zdroje:** [Vrabel — Večerní zprávy: hotovost, Sudetoněmecký, Hormuz, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-hotovost-sudetoněmecký-hormuz-6-5-2026)
+
+---
+
+## Digitální kontrola spotřeby
+
+### Uhlíkové kredity: chudí prodají, bohatí koupí — prohloubení nerovnosti (Vrabel, 24. 5. 2026)
+
+Vrabel popisuje plánovaný systém osobní uhlíkové stopy: každý člověk by dostal omezený počet kreditů za emise CO₂ (letenky, maso, pohonné hmoty). Kdo nepotřebuje kredity plně využít, může přebytky prodat těm, kteří chtějí žít nadstandardně.
+
+Vrabel upozorňuje, že to zní solidárně, ale výsledek bude opačný: chudí lidé budou nuceni prodávat své kredity, aby vůbec měli na živobytí, zatímco bohatí si za peníze koupí libovolný životní standard. Systém tedy nezabrání emisím, ale udělá z chudoby přímý předpoklad omezené svobody pohybu a spotřeby. Zasadí do kontextu digitální ID → digitální peněženka → uhlíkové kredity jako postupnou konsolidaci kontroly nad životem občanů.
+
+> „Ty chudí lidi budou prodávat tu svoji uhlíkovou stopu, aby měli nažerádlo, a ty bohatí lidi budou lítat dál a jezdit si autama." — Ladislav Vrabel, [Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)

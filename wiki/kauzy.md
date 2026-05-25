@@ -353,3 +353,23 @@ Vrabel navrhuje paralelu se staršími kauzami: výměnou za správné ústupky 
 Jiří Černohorský tvrdí, že brněnská primátorka Markéta Vaňková na sjezdu Sudetoněmeckého Landsmannschaftu v Brně pronesla projev v němčině — dle něj tím „odpomněla svoji rodnou řeč" a zopakovala gesto Daniela Hermana, který sudetské Němce nazval „krajany". Zároveň vznáší závažné neověřené obvinění: označuje ji za osobu, která „zákonně zjíždí lajdy koksu" — přímé tvrzení bez předloženého důkazu.
 
 **Zdroje:** [Černohorský — FB Live 24. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-24-5-2026)
+
+---
+
+## Kauza Bojana Vrabelová — politické zničení aktivisty přes rodinu
+
+### Insolvenční správce, soud bez důkazů, Rakušan: bezpečnostní ohrožení státu (Vrabel, 24. 5. 2026)
+
+Vrabel podrobně líčí kauzu své manželky Bojany (srbská státní příslušnice), která se stala nástrojem likvidace Vrabelovy aktivisty role. V roce 2022 dala svůj bankovní účet jako záchytné místo pro výběr darů na demonstrace; peníze přeposílala na příslušné účely.
+
+Průběh kauzy:
+1. Hospodářská kriminálka šetřila případ přes rok a v závěrečné zprávě konstatovala, že vše bylo v souladu s právem — Bojana vystupovala jako příkazník, dárci jako příkazci, peníze byly použity dle určení.
+2. Insolvenční správce Vrabelových dluhů přesto žádal po Bojaně vydání přijatých peněz s tvrzením, že šlo o Vrabelovy prostředky. Bojana odmítla. Správce ji zažaloval.
+3. Soud odmítl připustit jakékoli důkazy a uložil Bojaně zaplatit miliony insolvenčnímu správci.
+4. Bojana podala trestní oznámení na správce — policie je zamítla a pohrozila jí trestním stíháním za křivé obvinění.
+5. Ministr vnitra Vít Rakušan označil Bojanu za „bezpečnostní ohrožení státu" bez jakéhokoliv odůvodnění — a tím jí bylo zamítnuto udělení českého státního občanství.
+6. Hnutí ČR na prvním místě podalo podnět ústavněprávnímu výboru PS; výbor (doktorka Vesecká) odpověděl, že parlament se takovými věcmi nemůže zabývat — přitom týden poté výbor zřídil komisi pro kauzu Bitcoin a Dozimetr (ačkoliv komise nemá právo vstupovat do trestních řízení).
+
+Vrabel označuje celý řetězec (insolvenční správce, policie, státní zastupitelství, soud) za organizovaný zločin.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)

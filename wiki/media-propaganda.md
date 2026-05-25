@@ -54,6 +54,16 @@ Ve druhém dílu vysílání ze dne 16. dubna Zítko přečetl klíčový argume
 
 ---
 
+### Facebook backdoor: EU vlády mají přístup do obsahu (Vrabel, 24. 5. 2026)
+
+Vrabel uvádí, že Mark Zuckerberg veřejně přiznal existenci zadních vrátek pro evropské vlády: ty si vymínily otevřený přístup do Facebooku, aby mohly ovlivňovat, komu se obsah zobrazí a komu ne. Vrabel to dokládá vlastní zkušeností: jeho stránce jsou příspěvky potlačovány, zatímco jiní komentátoři říkají totéž a mají desítky tisíc lajků. Označuje to za systematickou manipulaci veřejného mínění, která dnes funguje efektivněji než tradiční média.
+
+Vrabel upozorňuje, že sociální sítě pravděpodobně přejdou k digitální identitě — každý bude vystupovat pod svým jménem a bude monitorován. Pro ty, kdo dnes nevystupují pod svým jménem, se prostor zúží.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+---
+
 ### Fiala/Decroix Facebook live: cenzura otázek jako normální politická praxe (Zítko, 22. 4. 2026)
 
 Zítko dokumentuje cenzuru během prvního přímého přenosu Petra Fialy a Evy Decroix na Facebooku (21. 4. 2026): ze svých profilů odeslal řadu věcných dotazů k Bitcoinové kauze — žádná nebyla zobrazena. Dva jeho profily plus profil Československo TV2 byly Decroix zablokována; Decroix zablokovala i ministra spravedlnosti Tejce, ačkoliv ho veřejně vyzývala k debatě. Zítko zdokumentoval situaci devíti screenshoty. Označuje to za ukázku způsobu, jakým ODS/Spolu komunikuje: „Takto se staví ODS Spolu čelem k nepříjemným otázkám — na kelo."

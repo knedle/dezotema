@@ -622,6 +622,18 @@ Vrabel ve vysílání 29. dubna 2026 informuje o petici iniciativy „ČR na prv
 
 ---
 
+### Posselt a Benešovy dekrety: útok na svrchovanost ČR — Vrabel (24. 5. 2026)
+
+Vrabel po sjezdu SdL v Brně podrobně vysvětluje právní argumentaci pro označení SdL za extremistickou organizaci. Sudetoněmecký Landsmannschaft je sdružení osob odsouvaných po 2. světové válce za kolaboraci s nacisty — v jejich stanovách stojí „curik nachajmat" (zpátky do domoviny) a ČR označují za svoji domovinu. Tím podle Vrabela útočí na svrchovanost ČR.
+
+Bernd Posselt jako mluvčí SdL veřejně vyzývá ke zrušení Benešových dekretů, které jsou součástí ústavního pořádku ČR. Vrabel zmiňuje, že Vitiko Bund (radikálnější křídlo) se se SdL soudí proto, že SdL tyto přímé požadavky ze stanov vypustilo — ale reálně je většina členů stále zastává.
+
+Petice za prohlášení SdL za extremistickou organizaci měla ke dni vysílání ~700 podpisů; potřeba 10 000 pro legislativní efekt. Vrabel vyzývá ke sdílení.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+---
+
 ### Posselt jako „přetlustá karikatura Hitlera" — Vrabel, potvrzeno Rajchlem (15. 5. a 17. 5. 2026)
 
 Vrabel při komentáři k sjezdu v Brně popisuje Bernda Posselta jako někoho, kdo se záměrně stylizuje do Adolfa Hitlera: češe se jako on, nosí knírek jako on, snaží se vypadat jako „přetlustý Hitler." Vrabel tvrdí, že Rajchl tento výraz zopakoval o dva dny později (volal Posselta „karikaturu tlustého Hitlera") — a komentuje to ironicky jako Rajchlovo opakování jeho výroků.
@@ -652,9 +664,11 @@ Vrabel opakovaně označuje Srbsko za vzor pro ČR v otázce státní suverenity
 
 V 16. 5. Vrabel informuje, že Vučić jede do Číny — komentuje to jako potvrzení srbského kurzu: přátelství se všemi, závazky k nikomu. Vučić odmítl vstup do EU jako nereálný a nevýhodný. Srbsko podle Vrabela ukazuje, že svoboda = možnost obchodovat s kýmkoli bez vydírání.
 
+Ve vysílání 24. 5. Vrabel dodává nový detail z Vučičovy návštěvy v Číně: srbský prezident bydlel ve stejném paláci, ve kterém přijímali Trumpa a Putina — Vrabel to interpretuje jako symbol toho, jak vysoko je Srbsko u Číny váženo. Vučić tam pronesl, že Srbsko je suverénní stát, odmítá poslouchat „seznamy" od EU/Bloomberg o tom, s kým si smí povídat, a bude jednat v zájmu vlastního lidu. Vrabel oceňuje Srbsko také za zákaz GMO potravin v celé zemi.
+
 > „Takhle si představuji tu svobodu — že můžete dělat obchod s kým chcete a nikdo vás netlačí." — Ladislav Vrabel, [Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
 
-**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026), [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 
 ---
 

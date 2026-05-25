@@ -1724,3 +1724,12 @@
 - **Délka:** 38:32
 - **Poznámka:** Nedělní živé vysílání. Hlavní téma: Sudetoněmecký Landsmannschaft sjezd v Brně jako historický zlom — poprvé politici preferují SdL nad přeživšími z Lidic (Havel/„Baby Fiala", Zdechovský, Vystrčil, Pavel). Právní framing: odsun = potrestání čsl. kolaborantů, ne česko-německý konflikt. Příští sjezd SdL Liberec 2027. AFD spolupráce podmíněna respektem k Benešovým dekretům. Rutte 0,25 % HDP pro Ukrainu = 22,5 mld. Kč ročně — odmítá. ČŠI skandál: povinný dotazník žáků o rodině, depresích a sebepoškozování. Větrné elektrárny: dopadová studie na znehodnocení nemovitostí neexistuje; seminář 8. 6. v PS.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání 24. 5. 2026 {#ladislav-vrabel--nedělní-vysílání-24-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-24_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2482515718865876>
+- **Datum záznamu:** 2026-05-24
+- **Délka:** 02:06:00
+- **Poznámka:** Pravidelné nedělní vysílání (přes 2 hodiny). Klíčová témata: zklamání z demonstrace v Brně (málo lidí, politické projevy místo občanského odporu); Zelenský označil demonstrace 2022 za „rusky placené" — Vrabel vyvrací; opozice = součást vlády (Okamura/Babiš); uhlíkové kredity — systém prohloubí sociální nerovnost (chudí prodají, bohatí koupí); migrační pakt od 1. 6. — vládní odmítnutí bezúčinné (čl. 10 Ústavy); Španělsko 800K nových legálních migrantů; Birmingham — muslim jako starosta přísahá v mešitě; Vučič v Číně ve stejném paláci jako Trump a Putin; Srbsko — vojenská neutralita, hypersonické rakety, GMO zakázáno; Bernd Posselt a SdL — útok na Benešovy dekrety = útok na svrchovanost ČR, petice potřebuje 10 000 podpisů; Facebook backdoor — EU vlády mají přístup k FB přes zadní vrátka (Zuckerberg přiznal); kauza manželky Bojany — insolvenční správce, policie potvrdila vše v pořádku, soud ignoroval důkazy; Vít Rakušan označil Bojanu za bezpečnostní ohrožení státu bez zdůvodnění.
+- **Zpracováno:** ano
