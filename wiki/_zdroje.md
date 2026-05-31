@@ -1716,6 +1716,15 @@
 - **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Video 1300390062287902 (29. 5. 2026) {#jiří-černohorský--video-1300390062287902-29-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-29_Jiří-Černohorský_Video-1300390062287902.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Reel)
+- **URL:** <https://www.facebook.com/reel/1300390062287902>
+- **Datum záznamu:** 2026-05-29
+- **Délka:** 1:08
+- **Poznámka:** Clip (Žít Brno): sjezd LM v Brně autorizován od 2015 primátorem Vokřálem (ANO); první post-komunistické město s omluvou Němcům; Vokřál dostal německé + rakouské státní vyznamenání; Babiš věděl a schvaloval; ANO se probudilo teprve těsně před demonstrací.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál 29. 5. 2026 {#jindřich-rajchl--videoportál-29-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-29_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl (Facebook/Videoportál)

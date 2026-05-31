@@ -1828,6 +1828,14 @@ Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal,
 
 ---
 
+### Sjezd LM v Brně: kořeny v roce 2015, Vokřál, ANO vědělo a schvalovalo — Černohorský (29. 5. 2026)
+
+Černohorský sdílí video, v němž politik hnutí Žít Brno vysvětluje genezi sjezdu: v roce 2015 se Žít Brno dostalo do vedení Brna s primátorem Petrem Vokřálem (ANO), který dlouho žil ve Vídni a dobře znal německé prostředí. Vokřál automaticky souhlasil s tím, aby Brno bylo prvním městem postkomunistického bloku, které se omluví Němcům za poválečné excesy. Za to obdržel nejvyšší státní vyznamenání Německa (od prezidenta Gauka) i Rakouska. Andrej Babiš o celé věci věděl od roku 2015 a nikdy s ní neměl problém. ANO se „probudilo" a začalo se prezentovat jako antiněmecké teprve těsně před brněnskou demonstrací.
+
+**Zdroje:** [Černohorský — Video 1300390062287902 (29. 5. 2026)](_zdroje.md#jiří-černohorský--video-1300390062287902-29-5-2026)
+
+---
+
 ### Nariškin (šéf ruské rozvědky): EU se stane centrem světového konfliktu (Vrabel, 28. 5. 2026)
 
 Šéf ruské civilní rozvědky (SVR) Sergej Nariškin prohlásil, že NATO podniká praktické přípravy na rozsáhlý konflikt na východě EU a že EU se rychle blíží k tomu, aby se stala středem světového konfliktu — nikoliv místem, kde se o konfliktu mluví, ale kde se fyzicky odehraje. Vrabel zdůrazňuje: Nariškin není analytik, je to šéf zpravodajské služby se skutečnými zdroji; pokud to říká veřejně, bylo rozhodnuto tuto informaci zveřejnit, protože situace je vážná.
