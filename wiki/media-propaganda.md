@@ -313,3 +313,13 @@ Vrabel zároveň informoval, že v souběžné vlastní právní kauze vyhrál p
 Rajchl v živém vysílání 3. května 2026 oznámil spuštění nového investigativního webu **Vlny.cz**. Stránku prezentoval jako platformu pro investigativní žurnalistiku nezávislou na mainstreamových médiích. Podrobnosti o redakci ani financování ve vysílání neuvedl.
 
 **Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+
+---
+
+### Bývalý ředitel ČT2 Jan Štern: dokument o selhání policie byl cenzurován (Rajchl, 29. 5. 2026)
+
+Rajchl sdílí výpověď Jana Šterna, bývalého ředitele ČT2. Štern popisuje, jak objednal aktuální dokument od Jany Škopkové o selhání policie při útoku na Filozofické fakultě — dokument byl systematicky blokován: nejprve dramaturgy, pak ředitelem programu a ředitelkou vývoje a obsahu, až nakonec i generální ředitel Jan Souček odmítl projektu dát zelenou. Štern tvrdí, že selhání policie bylo „neuvěřitelné" a dokument si téma zasloužil.
+
+Rajchl případ rámuje jako doklad, že ČT skutečně není nezávislá, jak tvrdí demonstranti bránící veřejnoprávní televizi.
+
+**Zdroje:** [Rajchl — Videoportál 29. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-29-5-2026)

@@ -1716,6 +1716,15 @@
 - **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Videoportál 29. 5. 2026 {#jindřich-rajchl--videoportál-29-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-29_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook/Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/983123217898288>
+- **Datum záznamu:** 2026-05-29
+- **Délka:** 1:39 | Zhlédnutí: 51 285
+- **Poznámka:** Clip s výpovědí Jana Šterna (bývalý ředitel ČT2): dokument Jany Škopkové o selhání policie na FF UK byl v ČT zacenzurován vedením včetně generálního ředitele Součka.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 28. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-28-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-28_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)
