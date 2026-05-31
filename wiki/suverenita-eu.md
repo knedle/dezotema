@@ -399,6 +399,20 @@ Zároveň upozorňuje na ekonomické vykrvácení EU: EU poslala Ukrajině 90 mi
 
 ---
 
+### EU 90 mld. EUR Ukrajině — faktický dárek, ne půjčka (25. 5. 2026)
+
+Jiří Černohorský komentuje rozhodnutí EU z 23. dubna 2026 o poskytnutí 90 miliard EUR Ukrajině. Upozorňuje, že ačkoli je balíček prezentován jako úvěr, splácení je podmíněno ruskými válečnými reparacemi — tedy fakticky nikdy. Právníci v Bruselu to dle Černohorského věděli, když dokument formulovali. Pod dokumentem chyběly tři podpisy: Maďarsko (Orbán), Slovensko (Fico) a ČR (Babiš).
+
+Jako klíčového svědka cituje místopředsedu slovenského parlamentu Tibora Gašpara, jehož výrok žádná česká celoplošná televize nevysílala: „část evropských elit nechce, aby válka skončila — chce, aby pokračovala." Gašpar to doložil čísly: 60 miliard EUR z tohoto balíčku míří přímo do německých, francouzských a italských zbrojních koncernů (Rheinmetall, Thales, Leonardo), jejichž akcie za poslední tři roky vzrostly o 200–400 %.
+
+Další kontext: Fialova vláda si těsně před volbami z obranného programu SAFE řekla pro ČR jen o 2 miliardy EUR — Polsko si řeklo o 34 miliard, Maďarsko o 16 miliard. Černohorský to označuje za důkaz katastrofálního výsledku čtyřleté vládní pasivity v Bruselu.
+
+> „Kdy se ty peníze mají vrátit? Až Ukrajina dostane reparace od Ruska. Tedy nikdy. A právníci v Bruselu to věděli, když ten papír psali. Není to půjčka, je to dárek. Z vašich peněz." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Video 1380400484135548 (25. 5. 2026)](_zdroje.md#jiří-černohorský--video-1380400484135548-25-5-2026)
+
+---
+
 ### Západ jako viník války na Ukrajině
 
 Jiří Černohorský viní ze vzniku války na Ukrajině západ, nikoliv Rusko. Rusko prý od rozpadu Varšavské smlouvy žádalo o jednání a opakovaně varovalo. Putina označuje za „osvíceného diktátora" a „velkou osobnost", přičemž autoritářský režim považuje za nutný pro udržení celistvosti Ruska.
