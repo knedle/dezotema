@@ -1722,7 +1722,7 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/2209598689856375>
 - **Datum záznamu:** 2026-05-24
 - **Délka:** 13:10 | Zhlédnutí: 23 146
-- **Poznámka:** Projev z brněnského pochodu proti sjezdu Sudetoněmeckého Landsmannschaftu. Klíčová témata: dialog mezi pachatelem a obětí nelze vynutit; smíření bez omluvy = zapomnění; přísluhovači z ČR větší hanba než SdL; Pavel jako největší přísluhovač; válečné reparace jako podmínka smíření; AFD podmíněna Benešovými dekrety; slib zákazu sjezdu při příchodu SPD na ministerstvo.
+- **Poznámka:** Projev z brněnského pochodu proti sjezdu Sudetoněmeckého Landsmannschaftu. Klíčová témata: dialog mezi pachatelem a obětí nelze vynutit; smíření bez omluvy = zapomnění; přísluhovači z ČR větší hanba než SdL; Pavel jako největší přísluhovač; válečné reparace jako podmínka smíření; AFD podmíněna Benešovými dekrety; slib zákazu sjezdu při příchodu SPD na ministerstvo. Existuje druhý přepis téhož videa (`2026-05-25_Jindřich-Rajchl_Videoportál_1.txt`) — obsah totožný, sloučeno.
 - **Zpracováno:** ano
 
 ## Jindřich Rajchl — FB Live 24. 5. 2026 {#jindřich-rajchl--fb-live-24-5-2026}
