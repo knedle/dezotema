@@ -400,15 +400,6 @@ Základní podmínkou je nesmíchávat stranickou politiku s občanskou aktivito
 
 ---
 
-### Policie jako „brand manageři" politického oponenta — Černohorský (23. 5. 2026)
-
-Jiří Černohorský ve přímém přenosu z demonstrace v Brně ostře kritizuje Policii ČR za to, že eskortovala člověka přezdívaného „Pšenák" — provozovatele placeného kanálu Hero Hero — přímo na patriotické shromáždění opačného smýšlení. Policie jednání obhajovala svobodou pohybu, Černohorský namítá, že tím de facto pracovala jako ochrana komerčního projektu: Pšenák mohl na jejich akci natočit materiál, který prodá předplatitelům. Označuje policisty přímo za „brand managery" politického oponenta z veřejných peněz.
-
-> „Policie České republiky za naše peníze, za naše prachy tady dělá Pšenákovi normálně ksovi." — Jiří Černohorský, [FB Live 23. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-23-5-2026)
-
-**Zdroje:** [Černohorský — FB Live 23. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-23-5-2026)
-
----
 
 ### Demonstrace 2022 zlikvidovány — opozice je dnes součástí vlády (Vrabel, 24. 5. 2026)
 

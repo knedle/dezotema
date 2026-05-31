@@ -1681,11 +1681,10 @@
 
 ## Jiří Černohorský — FB Live 23. 5. 2026 {#jiří-černohorský--fb-live-23-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-23_Jiří-Černohorský_Facebook-Live.txt)
-- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **Kanál:** Jiří Černohorský (Facebook Live)
 - **URL:** <https://m.facebook.com/watch/?v=2193547951461017>
 - **Datum záznamu:** 2026-05-23
-- **Délka:** 00:11:20
-- **Poznámka:** Živé vysílání z demonstrace v Brně. Černohorský zuří, že Policie ČR eskortovala provokátora „Pšenáka" (Hero Hero placený kanál) na jejich vlastenecké shromáždění; označuje policii za „brand managery" politického oponenta z veřejných peněz. Přímá výzva k fyzickému napadení Pšenáka: „Tobě prostě patří rozkopat rypák. A doufám, že to někdo udělá." Záběr na europoslanece Vondru (ODS) v davu. Negativní reakce na kombinaci čsl. a izraelské vlajky u demonstrantů.
+- **Délka:** 11:20
 - **Zpracováno:** ano
 
 ## Ladislav Vrabel — Zprávy v devět 23. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-23-5-2026}
