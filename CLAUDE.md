@@ -41,11 +41,9 @@ Zdroj se identifikuje z části názvu souboru mezi prvním a druhým podtržít
 
 ---
 
-## Omezení v pilotní fázi
+## Výběr souborů ke zpracování
 
-Zpracovávej **maximálně 3 soubory od každého zdroje** za jedno sezení, dokud nebude finální produkt hotový.
-
-Pokud uživatel nepřiloží konkrétní seznam, vyber 3 nejstarší nezpracované soubory od každého zdroje (dle data v názvu souboru).
+Uživatel vždy sdělí, kolik souborů nebo které konkrétní zpracovat. Bez pokynu nezačínej.
 
 **Kontrola před zpracováním:** Soubor je zpracovaný, pokud se nachází v `wiki/prepisy/done/` nebo je uveden v `wiki/_zdroje.md`. Vybírej výhradně soubory v `wiki/prepisy/` (nikoliv `wiki/prepisy/done/`).
 
@@ -53,11 +51,34 @@ Pokud uživatel nepřiloží konkrétní seznam, vyber 3 nejstarší nezpracovan
 
 ## Pravidla zpracování přepisů
 
-### Co extrahovat
+### Fáze 1: Identifikace témat
+
+Po přečtení souboru sestavíš seznam témat a zobrazíš ho uživateli jako **interaktivní checkboxy** (multiSelect). Uživatel zaškrtne, která témata zpracovat.
+
+**Formát každého tématu v seznamu:** Název tématu + 1 věta o čem mluvčí k tématu mluví.
+
+**Co vždy identifikuješ jako téma:**
+- Každý tematický blok kde mluvčí vyjadřuje tvrzení, postoj nebo predikci — bez ohledu na to, zda je téma politické, zdravotní, konspirační nebo jiné
+
+**Co nikdy nenabídneš jako téma:**
+- Čistě osobní příběhy bez obecnějšího závěru (rodinné anekdoty, vzpomínky bez tvrzení)
+- Logistika: pozvánky na akce, organizační oznámení, technická sdělení
+- Cizí sdílená videa — přepis zachycuje převážně cizí řeč, ne mluvčího kanálu
+
+### Fáze 2: Zpracování vybraných témat
+
+Po výběru uživatele:
+
+**Pokud uživatel vybere alespoň jedno téma** → zpracuj pouze vybraná témata, ostatní ignoruj.
+
+**Pokud uživatel nevybere žádné téma** → přesuň soubor do `done/` bez záznamu v `_zdroje.md` a bez jakýchkoli wiki úprav. Commitni se stručnou poznámkou.
+
+### Co extrahovat (do vybraných témat)
 - **Tvrzení** — konkrétní faktuální výroky ("X způsobuje Y", "Z funguje tak, že...")
 - **Názory a postoje** — hodnotící výroky, přesvědčení, doporučení
 - **Zajímavé citace** — přesné formulace hodné zachování (max 1–2 věty)
 - **Predikce** — explicitní předpovědi budoucího vývoje ("za X měsíců nastane Y", "do voleb se stane Z", "Bitcoin dosáhne..."); zaznamenávej do `wiki/predikce.md`
+- **Stochastický teror** — výroky splňující: **pojmenovaný terč** (konkrétní osoba nebo skupina) + **dehumanizace nebo výzva k trestu/násilí**; zaznamenávej do `wiki/stochasticky-teror.md` bez ohledu na to, zda bylo téma vybráno v checkboxech — tuto kategorii extrahuj vždy
 
 ### Jak strukturovat výstup
 - Obsah organizuj **tematicky**, ne podle videí
@@ -146,13 +167,17 @@ Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsah
 
 1. Ověř, že soubor není v `wiki/prepisy/done/` (= již zpracován)
 2. Přečti soubor z `wiki/prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
-3. Identifikuj témata → zkontroluj existující soubory ve `wiki/`
-4. Rozšiř existující nebo vytvoř nový MD soubor
-5. Přidej záznam do `wiki/_zdroje.md` — soubor jako `[přepis](prepisy/done/název.txt)`, URL jako `<https://...>`
-6. Přesuň soubor do `wiki/prepisy/done/` pomocí PowerShell `Move-Item`
-7. Aktualizuj stránku mluvčího v `wiki/osoby/` — témata i zmíněné osoby
-8. Přidej nalezené predikce do `wiki/predikce.md` (řazeno od nejnovějšího)
-9. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
+3. Identifikuj témata → zobraz uživateli jako interaktivní checkboxy (multiSelect), každé s 1větným popisem
+4. Čekej na výběr uživatele
+5. **Pokud žádné téma nevybráno:** přesuň do `done/`, commitni, konec
+6. **Pokud témata vybrána:** zpracuj pouze vybraná témata
+7. Rozšiř existující nebo vytvoř nový MD soubor ve `wiki/`
+8. Přidej záznam do `wiki/_zdroje.md` — soubor jako `[přepis](prepisy/done/název.txt)`, URL jako `<https://...>`
+9. Přesuň soubor do `wiki/prepisy/done/` pomocí PowerShell `Move-Item`
+10. Aktualizuj stránku mluvčího v `wiki/osoby/` — témata i zmíněné osoby
+11. Přidej nalezené predikce do `wiki/predikce.md` (řazeno od nejnovějšího)
+11a. Přidej výroky stochastického teroru do `wiki/stochasticky-teror.md` — vždy, bez ohledu na výběr témat
+12. Aktualizuj `mkdocs.yml` nav sekci, pokud vznikl nový soubor
 
 ---
 
