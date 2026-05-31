@@ -1656,11 +1656,10 @@
 
 ## Jiří Černohorský — Videoportál 22. 5. 2026 {#jiří-černohorský--videoportál-22-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-22_Jiří-Černohorský_Videoportál.txt)
-- **Kanál:** Jiří Černohorský Živě (Facebook / Videoportál)
+- **Kanál:** Jiří Černohorský (Facebook / Videoportál)
 - **URL:** <https://m.facebook.com/watch/?v=1918172635554682&_rdr>
 - **Datum záznamu:** 2026-05-22
 - **Délka:** 1:04 | Zhlédnutí: 17 841
-- **Poznámka:** Krátký klip (64 s) z Brna v den sjezdu Landsmannschaftu. Černohorský komentuje skupinu sudetoněmeckých účastníků hodujících u historické brněnské sochy — označuje to za zneúctění, nikoliv smíření.
 - **Zpracováno:** ano
 
 ## Jiří Černohorský — Videoportál 22. 5. 2026 (var. 2) {#jiří-černohorský--videoportál-22-5-2026-var-2}
