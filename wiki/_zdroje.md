@@ -1716,6 +1716,15 @@
 - **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
 - **Zpracováno:** ano
 
+## Československo TV2 — Skaldoviny: Štefec, Zítko (27. 5. 2026) {#československo-tv2--skaldoviny-štefec-zítko-27-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-27_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Videoportál / Petr Bureš TV)
+- **URL:** <https://m.facebook.com/watch/?v=1560946195584056&_rdr>
+- **Datum záznamu:** 2026-05-27
+- **Délka:** 2:02:33 | Zhlédnutí: 454
+- **Poznámka:** Panelová debata. Průzkum: 57% Čechů odsoudilo sjezd LM; Štefec: Posselt organizoval sjezd pro německou volební viditelnost; návrh sdružení zemí pro vymáhání reparací; ČR = „flekem na mapě s nulovou mezinárodní váhou"; opakování Czechoslovakia theory (Zítko).
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 27. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-27-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-27_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)

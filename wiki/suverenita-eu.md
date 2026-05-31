@@ -1815,3 +1815,13 @@ Pavel oznámil záměr jednat s vládou o finančním příspěvku ČR do vlastn
 Velvyslanci EU schválili klíčový krok k obchodní dohodě s USA odstraňující cla na americké průmyslové zboží vstupující do EU. Deadline: Trump pohrozil 25% cly na evropská auta, pokud dohoda nevstoupí v platnost do 4. července 2026. Vrabel hodnotí asymetrii: EU bude mít nulová cla na americké zboží, USA si zachovají 15% cla na evropské vývozy.
 
 **Zdroje:** [Vrabel — Zprávy v devět 27. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-5-2026)
+
+---
+
+### Průzkum: 57 % Čechů odsoudilo sjezd LM — Posselt hledal volební viditelnost — Štefec (27. 5. 2026)
+
+Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal, že 57 % Čechů sjezd Sudetoněmeckého Landsmannschaftu odsoudilo. Bezpečnostní analytik Jaroslav Štefec nabídl alternativní vysvětlení motivace Posselta: SdL je v Německu politicky marginální a nemůže konkurovat stávajícím stranám ani AFD, která roste raketově. Sjezd v ČR byl tedy primárně PR tahem pro pozornost před blížícími se německými volbami — nikoli skutečnou iniciativou smíření.
+
+Štefec navrhl diplomatickou cestu: ČR by měla iniciovat sdružení zemí, které nedostaly válečné reparace od Německa v plné výši, a společně vyvíjet diplomatický tlak — otevřít „Overtonovo okno reparací."
+
+**Zdroje:** [ČsTV2 — Skaldoviny: Štefec, Zítko (27. 5. 2026)](_zdroje.md#československo-tv2--skaldoviny-štefec-zítko-27-5-2026)
