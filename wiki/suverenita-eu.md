@@ -1846,6 +1846,22 @@ Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal,
 
 ---
 
+### USA opět plně podporuje Ukrajinu po zdánlivém ústupu — Vrabel (30. 5. 2026)
+
+Pentagon (ministr Hegseth) oznámil, že USA výrazně navýší výrobu zbraní pro Ukrajinu a v rozpočtu na rok 2027 plánuje 56 miliard dolarů do dominance v oblasti dronů. Vrabel to komentuje jako paradoxní obrat: poslední dva měsíce americká strana signalizovala distancování od Ukrajiny, teď opět plnou podporu. Vrabel interpretuje: byl to záměrný cyklus k přeprogramování evropské veřejnosti — nejprve strach z opuštění, pak stmelení kolem NATO a plná zbrojní integrace.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-5-2026)
+
+---
+
+### EU vyšetřuje frakci ESN (AFD) za extremismus — hrozba zrušení 2 mil. EUR — Vrabel (30. 5. 2026)
+
+Evropský orgán odpovědný za dohled nad evropskými politickými stranami zahájil řízení, které může vést ke zrušení statusu frakce Evropa suverénních národů (ESN) — hlavní iniciátorkou je AFD. Důvody: extremistická rétorika, antisemitismus, vazby na Rusko. Pokud ztratí status, přijdou o dotace přesahující 2 miliony EUR; mandáty europoslanců by zůstaly nedotčeny. Vrabel komentuje: důsledek toho, že vlastenecká opozice v ČR odmítala spolupracovat s AFD a pomáhala likvidovat skutečnou suverenistickou opozici.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-5-2026)
+
+---
+
 ### Nariškin (šéf ruské rozvědky): EU se stane centrem světového konfliktu (Vrabel, 28. 5. 2026)
 
 Šéf ruské civilní rozvědky (SVR) Sergej Nariškin prohlásil, že NATO podniká praktické přípravy na rozsáhlý konflikt na východě EU a že EU se rychle blíží k tomu, aby se stala středem světového konfliktu — nikoliv místem, kde se o konfliktu mluví, ale kde se fyzicky odehraje. Vrabel zdůrazňuje: Nariškin není analytik, je to šéf zpravodajské služby se skutečnými zdroji; pokud to říká veřejně, bylo rozhodnuto tuto informaci zveřejnit, protože situace je vážná.

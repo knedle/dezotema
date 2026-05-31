@@ -1743,6 +1743,15 @@
 - **Poznámka:** Clip s výpovědí Jana Šterna (bývalý ředitel ČT2): dokument Jany Škopkové o selhání policie na FF UK byl v ČT zacenzurován vedením včetně generálního ředitele Součka.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět 30. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-30-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-30_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/988619173758477>
+- **Datum záznamu:** 2026-05-30
+- **Délka:** 1:14:01
+- **Poznámka:** Zprávy v devět. Témata: Putin říká válka se blíží ke konci; USA opět plně podporuje Ukrainu (Hegseth 56 mld. USD drony 2027); EU vyšetřuje ESN/AFD (2 mil. EUR dotace); Zelenský útočil na Armavir 500 km od UA; NATO-EU-USA nová integrace pod globalistickým řízením.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 28. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-28-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-28_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)

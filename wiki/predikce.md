@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Vladimír Putin — Rusko-Ukrajina konflikt se blíží ke konci (30. 5. 2026, citováno Vrabel)
+
+**Předpověď:** Putin v reakci na dotaz novinářů prohlásil, že může zodpovědně říct, že se speciální vojenská operace blíží ke konci. Přesný datum odmítl uvést, protože je to boj a bylo by to nefér vůči vojákům.
+
+> „Může zodpovědně říct, že se blížíme k konci." — Vladimír Putin (citováno Vrabel)
+
+**Horizont:** neurčeno — brzy
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 30. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-5-2026)
+
+---
+
 ### Jiří Černohorský — Masivní ruský útok na Kyjev (25. 5. 2026)
 
 **Předpověď:** Po útoku ukrajinskych dronů, které zabily studenty na koleji v Luhansku, Černohorský predikuje masivní ruskou odvetnou akci přímo na Kyjev.
