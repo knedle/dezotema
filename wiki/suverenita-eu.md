@@ -1769,3 +1769,25 @@ Vrabel vyzývá k podpisu petice za prohlášení SdL extremistickou organizací
 Ministr zahraničí Petr Macinka vydal prohlášení, že ČR nepodpoří žádné rezoluce EU namířené proti Izraeli a bude jednoznačně stát na jeho straně. To přichází v době, kdy EU není v otázce Izraele jednotná a část členských zemí kritizuje vojenské akce IDF v Gaze a Libanonu. Vrabel: „krev je bohužel i na našich rukou."
 
 **Zdroje:** [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)
+
+---
+
+### Česká muniční iniciativa: 9 zemí odešlo, ČR dodává 50 % veškeré munice — Vrabel (26. 5. 2026)
+
+Z české muniční iniciativy se stáhlo 9 ze zhruba 18 původních zemí (Německo, severské země). Zbývá jen asi 9 zemí, které skutečně platí. Přesto ČR stále dodává přes 50 % veškeré munice velkých ráží pro Ukrajinu. Pavel odmítl zveřejnit, které státy odešly.
+
+Vrabel interpretuje: Česká republika se stala „obětním beránkem" — veřejně explicitně čelí Rusku, zatímco ostatní státy, které financují munici, zůstávají skrytí. Celková suma iniciativy dosáhla jen 1,4 miliardy EUR z cílových 5 miliard.
+
+> „My jsme skutečně jako kdybychom byli největší, nejsilnější země — jdeme proti Rusku, která je skutečně největší zemí na světě s největším jaderným arzenálem. Naprosto šílený." — Ladislav Vrabel, [Zprávy v devět 26. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-5-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-5-2026)
+
+---
+
+### Článek 42.7 EU smlouvy: vstup Ukrajiny = automatická válka s Ruskem — Vrabel (26. 5. 2026)
+
+Vrabel upozorňuje na právní důsledky Mertzova návrhu na přidružené členství Ukrajiny v EU. Klíčový argument: článek 42.7 Smlouvy o EU zavazuje všechny členské státy pomoci napadenému členovi „všemi prostředky, které jsou v jejich moci" — bez výjimky a bez možnosti rozhodnutí jako u Článku 5 Washingtonské smlouvy NATO (který dává státům diskrétnost).
+
+Pokud by Ukrajina vstoupila do EU za situace, kdy je na jejím území přítomna Ruská federace, ČR by automaticky byla povinna vstoupit do válečného konfliktu s Ruskem. Toto Vrabel považuje za závažnější riziko než NATO členství Ukrajiny.
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-5-2026)

@@ -1707,6 +1707,15 @@
 - **Poznámka:** Beseda „Made in Czechoslovakia" ve Velemíně s Pavlem Zítkem a Dr. Enzlem. Témata: COVID šarže kódy 20A-20F/21K-21X/22R-22Z (smrtelnost 8,1%); geografická distribuce šarží; Texas+Kansas žaloby na Pfizer; fertlita -30% u očkovaných žen; právní teorie o nelegálním rozpadu Československa.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět 26. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-26-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-26_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2081863812760273>
+- **Datum záznamu:** 2026-05-26
+- **Délka:** 35:13
+- **Poznámka:** Zprávy v devět. Témata: Rusko zahajuje systematické útoky na Kyjev; Česká muniční iniciativa — 9 zemí odešlo, ČR dodává 50%+ munice; Artikel 42.7 EU smlouvy — vstup Ukrajiny do EU = válka s Ruskem (silnější závazek než NATO čl. 5); metropolita Hilaron zadržen v ČR; Landsmannschaft kroje = nacistický původ; von der Leyen 12 mld. EUR pro pobaltské státy; EU nemá diplomata pro jednání s Ruskem.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 25. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-25-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-25_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)
