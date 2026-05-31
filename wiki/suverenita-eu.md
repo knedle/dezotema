@@ -334,6 +334,38 @@ Rajchl vystoupil 28. dubna 2026 na debatě k chystanému sjezdu Sudetoněmeckéh
 
 ---
 
+### Odsun = trest vlastizrádných kolaborantů, ne česko-německý akt — Rajchl (24. 5. 2026)
+
+Jindřich Rajchl formuluje klíčový právní argument, který odmítá rámování odsunu jako česko-německého sporu:
+
+Drtivá většina vysídlených Němců NEBYLA občany Německa — byli to občané Československa. Odsun proto nebyl aktem ČSR proti Německu, nýbrž potrestáním vlastizrádných kolaborantů (=českých občanů) za spolčení s hitlerovskou NSDAP a za pomoc při vyhánění a vraždění ostatních Čechoslováků.
+
+Právní důsledek: Zabavený majetek nebyl německý, ale majetek českých kolaborantů. Proto ho Němci nemohou jakkoliv zápočítat oproti svým válečným reparacím — ty dluží ČR v plné výši.
+
+Rajchl proto kategoricky odmítá argument „vzájemné viny": „Pokud by nacisté německé nevtrhli na naše území, [...] nikdy k žádnému odsunu nedošlo. Češi se nerozhodli odsunout Němce jen tak, protože je to napadlo."
+
+> „To nebyla pomsta Německu, v žádném případě ne. To bylo potrestání vlastizrádných kolaborantů, kteří jednoduše se spolčili s hitlerovskou NSDAP, aby vyhlazovali naše občany." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
+---
+
+### Sjezd SdL v Brně jako historický zlom — příští sjezd Liberec 2027 (24. 5. 2026)
+
+Rajchl označuje konání sjezdu Sudetoněmeckého Landsmannschaftu v Brně (22.–24. 5. 2026) za historický zlom v ČR: poprvé se část politiků a veřejnosti postavila na stranu SdL OPROTI přeživším a pozůstalým z Lidic. Říká, že si nic podobného neumí představit ještě před deseti lety — tehdy by každý politik automaticky respektoval přání lidických přeživších.
+
+Odhaluje skutečný cíl SdL: společné tanečky a zádušní mše jsou „kouřová clona" — skutečným cílem je zrušení Benešových dekretů a následná série hromadných soudních sporů o majetek v pohraničí (hodnota: několik bilionů korun). Češi by na tyto spory neměli prostředky.
+
+Varuje, že SdL plánuje příští sjezd na rok 2027 v Liberci. Cílem je postupně přizpůsobovat mladou českou generaci myšlence zrušení dekretů.
+
+Jako analogii uvádí prezidentskou volbu 2013: Schwarzenberg prohrál právě na tématu Benešových dekretů. Rajchl predikuje, že totéž téma rozhodne volby 2028 v neprospěch Pavla: „Ten sjezd [...] bude nakonec tím jazyčkem na vahách, který mu zlomí vaz."
+
+> „Kdykoliv, kdo říká, že se jedná o nějaké vzájemné provinění, přepisuje naši historii. Nejednalo se o žádné vzájemné provinění. Nastala žádná vzájemná vina." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
+---
+
 ### Odsun byl spravedlivý — Černohorský odmítá smíření (25. 5. 2026)
 
 Jiří Černohorský v emotivním monologu odmítá požadavky sudetoněmeckého Landsmannschaftu na smíření a zároveň odmítá vinu Čechů za poválečný odsun. Byl osobně přítomen na pochodu v Brně, kde žádní sudetští Němci pochod netvořili — šlo o Čechy, Moravany a Slezany.

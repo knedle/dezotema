@@ -54,6 +54,18 @@ Rajchl v krátkém videu (8 sekund) reaguje na výrok Mikuláše Mináře prones
 
 ---
 
+### Prezidentská imunita — Pavel nelze stíhat, jedinou cestou jsou volby 2028 (24. 5. 2026)
+
+Rajchl vysvětluje právní situaci: prezident republiky je ze zákona imunní vůči jakémukoliv trestnímu stíhání (nemůže být stíhán ani za vraždu). Jediný ústavní delikt, který mu lze přičíst, je velezrada — a žalobu za velezradu může vznést pouze Senát Parlamentu ČR. Nikdo jiný, ani advokát, ani poslanec, tuto pravomoc nemá.
+
+Rajchl proto vyzývá: „Jediná, kdo má reálně možnost dostat z Pražského hradu, dát mu tu výpověď, jste vy občané České republiky v prezidentských volbách v roce 2028." Označuje to nejen za právo, ale za občanskou povinnost — zvláště na pozadí kauzy SdL sjezdu a Pavlovy pomoci Liechtensteinům. Miloš Zeman vyzval k nevolbě Pavla 2028; Rajchl říká: nejen právo, ale povinnost.
+
+Jako historický precedens uvádí prezidentské volby 2013: Karel Schwarzenberg prohrál právě kvůli tématu Benešových dekretů. Rajchl předpovídá, že sjezd SdL v Brně bude „tím jazyčkem na vahách, který Pavlovi zlomí vaz."
+
+**Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
+---
+
 ### Petr Pavel — „nejhorší svině na hradě od návštěvy Adolfa Hitlera" (25. 5. 2026)
 
 Jiří Černohorský v reakci na záštitu Petra Pavla nad sjezdem Sudetoněmeckého Landsmannschaftu — záštitu danou navzdory vládní protestní nótě — označuje Pavla za nejhorší osobnost, která seděla na Pražském hradě „od dob Emanuela Moravce." Doslova říká: „od návštěvy Adolfa Hitlera většího hajzla skurvených sviní na hradě nebylo."
