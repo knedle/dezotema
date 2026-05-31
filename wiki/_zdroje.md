@@ -1716,6 +1716,15 @@
 - **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — FB Live 29. 5. 2026 (speciální) {#ladislav-vrabel--fb-live-29-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-29_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/994789979580844>
+- **Datum záznamu:** 2026-05-29
+- **Délka:** 50:47
+- **Poznámka:** Speciální emocionální vysílání (ne standard Zprávy v devět). Hanobení sochy Beneše červenou barvou; rozšíření ochrany němčiny v pohraničí (8 česky pohraničních okresů, 50% výuky, únor 2024, Fialova vláda); germanizační narativ; Ortel píseň.
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — Video 1300390062287902 (29. 5. 2026) {#jiří-černohorský--video-1300390062287902-29-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-29_Jiří-Černohorský_Video-1300390062287902.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Reel)

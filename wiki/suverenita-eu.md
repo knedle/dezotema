@@ -1836,6 +1836,16 @@ Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal,
 
 ---
 
+### Rozšíření ochrany německého jazyka v pohraničí — Fialova vláda, únor 2024 (Černohorský, 29. 5. 2026)
+
+Černohorský sdílí výpověď učitelky, která dokumentuje: od února 2024 (za Fialovy vlády) byla v pohraničních oblastech ČR rozšířena ochrana německého jazyka. Týká se 8 okresů: Cheb, Karlovy Vary, Sokolov, Liberec, Ústí nad Labem, Český Krumlov, Opava a Svitavy. Opatření zahrnuje povinnou nabídku dvojjazyčné výuky ve všech typech škol (mateřské, základní, střední, učiliště) s 50% výukou v němčině; přípravu a financování německy mluvících učitelů; tvorbu veřejnoprávního a soukromého vysílání v němčině.
+
+Černohorský toto zasazuje do kontextu „germanizačního plánu": sjezd LM v Brně (2015), Schwarzenbergova výzva ke zrušení Benešových dekretů, přejmenování na „Česko", a nyní tichá jazyková expanze do pohraničí — vše jako součást postupné eroze české národní identity.
+
+**Zdroje:** [Vrabel — FB Live 29. 5. 2026](_zdroje.md#ladislav-vrabel--fb-live-29-5-2026)
+
+---
+
 ### Nariškin (šéf ruské rozvědky): EU se stane centrem světového konfliktu (Vrabel, 28. 5. 2026)
 
 Šéf ruské civilní rozvědky (SVR) Sergej Nariškin prohlásil, že NATO podniká praktické přípravy na rozsáhlý konflikt na východě EU a že EU se rychle blíží k tomu, aby se stala středem světového konfliktu — nikoliv místem, kde se o konfliktu mluví, ale kde se fyzicky odehraje. Vrabel zdůrazňuje: Nariškin není analytik, je to šéf zpravodajské služby se skutečnými zdroji; pokud to říká veřejně, bylo rozhodnuto tuto informaci zveřejnit, protože situace je vážná.
