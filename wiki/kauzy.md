@@ -255,6 +255,16 @@ PRO tuto situaci veřejně pojmenovalo již 11 měsíců dříve — tiskovka PR
 
 ---
 
+### ČT Reportéři: záměrné zamlčení prvního tržiště — Zítko (13. 5. 2026)
+
+Zítko analyzuje díl pořadu ČT Reportéři (11. 5. 2026) o Bitcoin kauze a upozorňuje na konkrétní dezinformaci: moderátor mluví výhradně o jednom tržišti (Nucleus Market — 5 366 BTC), ačkoli existovala dvě tržiště — první bylo **Sheep Marketplace** (39 918 BTC, uzavřeno prosinec 2013). Celkový rozsah kauzy je tak dramaticky podhodnocen.
+
+Zítko výslovně říká: „Jediný z politiků, kdo o prvním tržišti veřejně mluvil, byl Jiří Paroubek." Celkový objem = 5 366 + 39 918 BTC = pravděpodobná hodnota přes 100 miliard Kč. Nové obvinění: **Karim Tic** (advokát Jiříkovského) — přijal přes 40 milionů Kč + bitcoiny jako odměnu.
+
+**Zdroje:** [ČsTV2 — Bitcoin kauza: ČT Reportéři analýza, 2026-05-13](_zdroje.md#československo-tv2--bitcoin-kauza-čt-reportéři-analýza-13-5-2026)
+
+---
+
 ## Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
 
 ### 90 mld. EUR „půjčka", oligarcha Mindić a zbrojní firma Firepoint (Černohorský, 10.–13. 5. 2026)

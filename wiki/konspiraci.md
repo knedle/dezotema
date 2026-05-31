@@ -205,6 +205,16 @@ Rozdělení Československa Zítko interpretuje jako vlastizradu: poslanec Jan S
 
 ---
 
+### Deutschland, Čechland nebo Československo? — SdL sjezd jako důkaz záměny pojmů (26. 5. 2026)
+
+Zítko pojmenovává sjezd SdL v Brně jako konkrétní důsledek toho, že ČR funguje jako „korporace Česko/Čechia/Čechaj" místo právního státu ČSR. Název vysílání „Deutschland, Čekland nebo Československo" vyjadřuje tři směry, kam dle Zítka vede aktuální vývoj: germanizace, korporativní „Čechia" jako přechod, nebo obnova Czechoslovakia.
+
+Argument: „Pokud by stále fungovala Československá republika s ústavou z roku 1921, sjezd SdL by se nemohl konat." Spojuje to s pozorovaným mizením termínu „Česká republika" ve prospěch „Česka" v médiích, mapách (Google) a institucích — vše jako postupné oslabení státní identity.
+
+**Zdroje:** [ČsTV2 — Deutschland, Čechland, Československo, 2026-05-26](_zdroje.md#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026)
+
+---
+
 ### Villa Tugendhat, tři koruny a možnost obnovení ČS občanství — Zítko (20. 4. a 20. 5. 2026)
 
 Pavel Zítko ve vysílání z 19./20. dubna 2026 rozvinul svůj výklad rozpadu Československa o konkrétní detaily:
