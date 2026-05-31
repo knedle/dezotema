@@ -66,6 +66,20 @@ Jako konkrétní pochybení uvádí: Pavel věděl, že vláda má s konáním s
 
 ---
 
+### Absence referenda jako důkaz ne-demokracie — sjezd LM jako konkrétní příklad (25. 5. 2026)
+
+Jiří Černohorský rozvíjí argument o chybějícím celostátním referendu na konkrétních případech. Za 37 let od sametové revoluce nebyl schválen prováděcí zákon o celostátním referendu — záměrně dle Černohorského. Důsledek: občané se nemohou bránit politickým rozhodnutím jdoucím proti jejich zájmům.
+
+Dva příklady z videa:
+1. **Senioři** — Fialova vláda změnila zákon a okradla každého seniora o minimálně 50–60 korun; 3 miliony lidí nemohly nijak zasáhnout — mohli jen nesouhlasit na Facebooku.
+2. **Sjezd LM v Brně** — „pár jedinců z magistrátu" rozhodlo o akci bez možnosti občanů Brna říci referendem ne nebo ano. Dokud referendum neexistuje, vládnou kolaboranti bez kontroly.
+
+> „Až tohle bude, až budou moci lidé rozhodnout o věcech, které jdou proti České republice, proti občanům České republiky, tak potom se můžeme bavit o demokracii." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Video 1565367518548847 (25. 5. 2026)](_zdroje.md#jiří-černohorský--video-1565367518548847-25-5-2026)
+
+---
+
 ### Petr Pavel chválí demonstraci Milionu chvilek — po třech letech mlčení o opoziční scéně
 
 Rajchl poukazuje na rozpor v chování prezidenta Petra Pavla: v roce 2023 prohlásil o účastnících demonstrací PRO, že s nimi „nemá cenu se bavit" a označil je za ztracené existence. Po třech letech se ovšem pozitivně vyjádřil k demonstraci Milionu chvilek, řekl, že „většina musí naslouchat menšině" a vyzývá vládu k dialogu. Rajchl to označuje za flagrantní dvojí metr.
