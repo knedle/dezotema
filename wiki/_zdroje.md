@@ -1716,6 +1716,15 @@
 - **Poznámka:** Živé vysílání přímo z protestního pochodu na ulici Masarykova v Brně (protistánek k sjezdu SdL). Ukazuje stovky českých/čsl. vlajek, zdraví příznivce. Označuje koalici z radnice Brna (ODS, TOP 09, KDU, Piráti, STAN) za kolaboranty; Daniel Herman „officiální neonacista". Vaňková mluvila na sjezdu SdL německy + neověřené drogové obvinění. SdL krajský předseda (cit. přes Michala Svatoše): „budoucí generace dekrety odstraní sama." Apel na sjednocení pod národními barvami místo stranických symbolů.
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Brněnský pochod, projev (24. 5. 2026) {#jindřich-rajchl--brněnský-pochod-projev-24-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-25_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook/Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2209598689856375>
+- **Datum záznamu:** 2026-05-24
+- **Délka:** 13:10 | Zhlédnutí: 23 146
+- **Poznámka:** Projev z brněnského pochodu proti sjezdu Sudetoněmeckého Landsmannschaftu. Klíčová témata: dialog mezi pachatelem a obětí nelze vynutit; smíření bez omluvy = zapomnění; přísluhovači z ČR větší hanba než SdL; Pavel jako největší přísluhovač; válečné reparace jako podmínka smíření; AFD podmíněna Benešovými dekrety; slib zákazu sjezdu při příchodu SPD na ministerstvo.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — FB Live 24. 5. 2026 {#jindřich-rajchl--fb-live-24-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-24_Jindřich-Rajchl_Facebook-Live.txt)
 - **Kanál:** Jindřich Rajchl (Facebook Live)

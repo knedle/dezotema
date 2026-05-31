@@ -1709,3 +1709,19 @@ Bavorský zemský sněm, jenž podpořil sjezd SdL usnesením, Rajchl označuje 
 Generální tajemník NATO Mark Rutte navrhl, aby každá členská země přispívala 0,25 % HDP ročně přímo na podporu Ukrajiny. Při HDP ČR ~9 bilionů korun by to znamenalo 22,5 miliardy Kč ročně. Rajchl návrh zcela odmítá — za tyto peníze by šly krajské nemocnice, školy, byty a dálnice. NATO dle Rajchla nemá právo diktovat národním vládám, kolik mají dát Ukrajině, protože to nemá nic společného se společnou obranou.
 
 **Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+
+---
+
+### Brněnský pochod: smíření nelze vynutit, válečné reparace jako podmínka — Rajchl (24. 5. 2026)
+
+Rajchl promluvil na demonstraci proti sjezdu Sudetoněmeckého Landsmannschaftu v Brně. Ústřední teze: dialog mezi pachatelem a obětí nelze nikdy vynutit — kdo se tak tváří, není mediátorem, ale diktátorem bez soudce a bez empatie k obětem nacistické okupace. Smíření, které nevychází z upřímné omluvy, označuje za záměrnou snahu o to, aby Češi zapomněli a rezignovali na národní paměť.
+
+Za nejhanebnější označuje české přísluhovače, kteří se staví na stranu SdL místo přeživších z Lidic. Za největšího přísluhovače ze všech označuje prezidenta Pavla, který nad sjezdem převzal záštitu a zároveň prosazuje zánik ČR v Evropském superstátu.
+
+Podmínku jakéhokoli smíření formuloval jednoznačně: Německo musí nejprve zaplatit válečné reparace. Vůči AFD deklaruje ochotu ke spolupráci, ale s varováním: jakmile jakákoli část AFD sáhne na Benešovy dekrety, spolupráce skončí. Slibuje, že pokud by SPD bylo na ministerstvu, sjezd Landsmannschaftu by bezpodmínečně zakázalo. Připomíná, že Polsko by si takový sjezd na svém území nikdy nedovolilo.
+
+> „Dialog mezi pachatelem a obětí nelze vynutit. To není smíření, to je snaha o to, abychom zapomněli, abychom rezignovali na naší národní pamět." — Jindřich Rajchl, [Brněnský pochod — projev (24. 5. 2026)](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
+
+> „Smíření a odpuštění od nás, kterým jste ublížili, tak začněte tím, že nám zaplatíte škody, které jste tady způsobili." — Jindřich Rajchl, [Brněnský pochod — projev (24. 5. 2026)](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
+
+**Zdroje:** [Rajchl — Brněnský pochod, projev, 24. 5. 2026](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
