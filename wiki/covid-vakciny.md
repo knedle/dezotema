@@ -363,6 +363,24 @@ Zítko tuto analýzu zasazuje do kontextu svého vlastního věznění: v záchy
 
 ---
 
+### Beseda Velemín: kódy šarží a geografická distribuce nebezpečných dávek — Enzl (22. 5. 2026)
+
+Na besedě „Made in Czechoslovakia" ve Velemíně (22. 5. 2026) lékař Dr. Enzl rozvedl analýzu 12 000 šarží s konkrétnějšími detaily. Tři skupiny šarží dle kódů:
+
+- **20A–20F**: prakticky nulová smrtelnost — pravděpodobně placebo (fyziologický roztok, voda pro injekce)
+- **21K–21X**: střední nežádoucí účinky (únava, myokarditida, sraženiny); hospitalizace 300× vyšší než u běžné populace
+- **22R–22Z**: smrtelná skupina — 8,1% nadúmrtnost, neurologické poškození
+
+Navíc: nebezpečné šarže byly geograficky distribuovány tak, aby se nekoncentrovaly v jednom regionu (aby nevyvolaly okamžitou reakci). Státní zaměstnanci (hasiči, policie, armáda) dostávali přednostně bezpečné šarže; do oblastí s vyšší koncentrací odpůrců očkování byly zasílány nebezpečnější šarže.
+
+Pfizer na federální úrovni v USA dostal generální pardon od nežádoucích účinků — ale tento pardon se nevztahuje na americké státy. Texas a Kansas podaly žalobu na Pfizer za zatajování informací o účinnosti a bezpečnosti. Enzl vyzývá ČR, aby se k těmto žalobám připojila.
+
+⚡ **Poznámka:** Tato tvrzení nelze ověřit z veřejně dostupných zdrojů; regulační orgány (EMA, FDA) existenci záměrné distribuce nebezpečných šarží nepotvrdily.
+
+**Zdroje:** [ČsTV2 — Velemín: Zítko a hosté (25. 5. 2026)](_zdroje.md#československo-tv2--velemín-zítko-a-hosté-25-5-2026)
+
+---
+
 ### DNA kontaminace a grafen ve vakcínách — Peková a Turánek (beseda 14. 5. 2026)
 
 Soňa Peková na besedě ve Zlatých Moravciach (14. 5. 2026) prezentovala nové nálezy z analýzy šarží vakcín:

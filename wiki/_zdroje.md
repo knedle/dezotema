@@ -1698,6 +1698,15 @@
 - **Poznámka:** „Zprávy v devět s komentářem." Klíčová témata: Sudetoněmecký pochod smíření v Brně (~2000 účastníků, CSU Dobrind, Vystrčil); Babiš-Explosia — den po zahájení francouzského vyšetřování Babiše nabídky na prodej státní zbrojovky Explosia francouzům (predikce: bude prodána, prokuratura ztichne); Petr Pavel v The Guardian — navrhoval sestřelování ruských letadel, odpojení internetu a bank; útok dronů na Starobělsk (studentská kolej, 18 mrtvých); F-35 jako jaderné nosiče B-61 — ČR vstupuje do Nuclear Sharing (6,25 mld. EUR, dodání 2031); Zelenský odmítá přidružené členství EU; Landovský — ČR hrozí, že nesplní 2% HDP pro NATO; Německo 5% HDP pro NATO; Francie-Německo-UK rakety 2000+ km.
 - **Zpracováno:** ano
 
+## Československo TV2 — Velemín: Zítko a hosté (25. 5. 2026) {#československo-tv2--velemín-zítko-a-hosté-25-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-25_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=1316363399993995&_rdr>
+- **Datum záznamu:** 2026-05-25 (natočeno 22. 5. 2026 ve Velemíně)
+- **Délka:** 1:57:33 | Zhlédnutí: 959
+- **Poznámka:** Beseda „Made in Czechoslovakia" ve Velemíně s Pavlem Zítkem a Dr. Enzlem. Témata: COVID šarže kódy 20A-20F/21K-21X/22R-22Z (smrtelnost 8,1%); geografická distribuce šarží; Texas+Kansas žaloby na Pfizer; fertlita -30% u očkovaných žen; právní teorie o nelegálním rozpadu Československa.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 25. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-25-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-25_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)
