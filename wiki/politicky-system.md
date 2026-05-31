@@ -436,3 +436,11 @@ A kolektivní vina se uplatňuje i vůči českým občanům: muž narozený v R
 > „Takže přátelé, srovnejte si trošku noty. A začněte být alespoň maličko konzistentní." — Jindřich Rajchl, [Videoportál 28. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-28-5-2026)
 
 **Zdroje:** [Rajchl — Videoportál 28. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-28-5-2026)
+
+---
+
+### Rektorka JAMU odvolaná za sundání ukrajinské vlajky — „Česko-Ukrajinsko" (Vrabel, 28. 5. 2026)
+
+Vláda schválila návrh akademického senátu JAMU (Janáčkova akademie muzických umění v Brně) na odvolání rektorky Barbary Marie Willi — jedním z důvodů bylo sundání ukrajinské vlajky z budovy školy. Vrabel interpretuje případ jako symptom toho, co označuje termínem „Česko-Ukrajinsko": česká veřejná instituce je potrestána za to, že trvala na vlastní identitě. Uvádí paralelu: Slávek Popelka seděl 6 měsíců ve vězení za pokus sundat ukrajinskoji vlajku z Národního muzea.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-5-2026)

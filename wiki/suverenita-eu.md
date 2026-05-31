@@ -1825,3 +1825,27 @@ Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal,
 Štefec navrhl diplomatickou cestu: ČR by měla iniciovat sdružení zemí, které nedostaly válečné reparace od Německa v plné výši, a společně vyvíjet diplomatický tlak — otevřít „Overtonovo okno reparací."
 
 **Zdroje:** [ČsTV2 — Skaldoviny: Štefec, Zítko (27. 5. 2026)](_zdroje.md#československo-tv2--skaldoviny-štefec-zítko-27-5-2026)
+
+---
+
+### Nariškin (šéf ruské rozvědky): EU se stane centrem světového konfliktu (Vrabel, 28. 5. 2026)
+
+Šéf ruské civilní rozvědky (SVR) Sergej Nariškin prohlásil, že NATO podniká praktické přípravy na rozsáhlý konflikt na východě EU a že EU se rychle blíží k tomu, aby se stala středem světového konfliktu — nikoliv místem, kde se o konfliktu mluví, ale kde se fyzicky odehraje. Vrabel zdůrazňuje: Nariškin není analytik, je to šéf zpravodajské služby se skutečnými zdroji; pokud to říká veřejně, bylo rozhodnuto tuto informaci zveřejnit, protože situace je vážná.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-5-2026)
+
+---
+
+### Macinka nabídl USA výrobu dronů v ČR — paralela s Heydrichem (Vrabel, 28. 5. 2026)
+
+Ministr zahraničí Petr Macinka při jednání s americkým viceprezidentem J.D. Vancem nabídl, že Česká republika bude vyrábět drony pro Spojené státy. Vrabel kreslí historickou paralelu: Heydrich byl do protektorátu poslán mj. s úkolem přeměnit českou průmyslovou infrastrukturu na výrobnu zbraní pro Německo v boji proti Rusku. „A dneska tam máme takovýhleho vysmátýho ministra zahraničních věcí, který to dělá za podpisování. V den výročí atentátu na Heydricha."
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-5-2026)
+
+---
+
+### Netanyahu ignoruje příměří: cíl 70 % Gazy — Vrabel (28. 5. 2026)
+
+Benjamin Netanyahu rozkázal armádě, aby ignorovala podmínky příměří a dosáhla kontroly nad 70 % pásma Gazy (nyní 60 %). Zároveň prohlásil, že nedopustí, aby se USA stáhly z konfliktu s Íránem. Vrabel rozlišuje: není antisemita a respektuje Izraelce, ale nesouhlasí se sionistickým programem „Velkého Izraele" a jeho vojenskými prostředky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-5-2026)

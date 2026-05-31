@@ -1716,6 +1716,15 @@
 - **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět 28. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-28-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-28_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1704776980538197>
+- **Datum záznamu:** 2026-05-28
+- **Délka:** 48:40
+- **Poznámka:** Zprávy v devět. Témata: Nariškin — EU = centrum světového konfliktu; Macinka nabídl USA výrobu dronů v ČR (Heydrich paralela); rektorka JAMU odvolaná za sundání vlajky; Netanyahu 70% Gazy; Zelenský dopis Trumpovi; Babiš střet zájmu; Švédsko+Gripen 60 mld. Kč; USA-Irán 60-denní memorandum.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál 28. 5. 2026 {#jindřich-rajchl--videoportál-28-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-28_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl (Facebook/Videoportál)
