@@ -1725,3 +1725,17 @@ Podmínku jakéhokoli smíření formuloval jednoznačně: Německo musí nejprv
 > „Smíření a odpuštění od nás, kterým jste ublížili, tak začněte tím, že nám zaplatíte škody, které jste tady způsobili." — Jindřich Rajchl, [Brněnský pochod — projev (24. 5. 2026)](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
 
 **Zdroje:** [Rajchl — Brněnský pochod, projev, 24. 5. 2026](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
+
+---
+
+### 90 mld. EUR pro Ukrajinu: faktický dárek, ne půjčka — zbrojní akcie +200–400 % — Černohorský (25. 5. 2026)
+
+Černohorský komentuje hlasování EU o 90 miliardách EUR pro Ukrajinu: 60 mld. jde přímo na zbraně, 30 mld. na platy ukrajinskych úředníků. Formálně jde o půjčku — ale Černohorský (s odkazem na prohlášení místopředsedy slovenského parlamentu Tibora Gašpara) upozorňuje na skrytou podmínku splácení: Ukrajina vrátí peníze, až dostane reparace od Ruska. Fakticky tedy nejde o půjčku, ale o dárek z daní. Bruselští právníci prý tuto konstrukci znali při psaní dokumentu.
+
+Pod dokumentem chybí tři podpisy: Maďarsko (Orbán), Slovensko (Fico), Česko (Babiš). Fialova koalice by dle Černohorského podepsala jako první — za čtyři roky v Bruselu nezvedla ruku proti ničemu. Za důkaz slabé vyjednávací pozice Fialy označuje výsledky z programu SAFE (bruselské obranné úvěry): ČR si řekla o 2 miliardy EUR, Polsko o 34 miliard, Maďarsko o 16 miliard.
+
+Tibor Gašpar doložil, proč část evropských elit válku ukončit nechce: 60 miliard jde přímo do kasy zbrojních koncernů Rheinmetall, Thales a Leonardo. Akcie těchto firem vzrostly za tři roky o 200–400 %. Geografická logika: 24 zemí, které podepsaly, leží daleko na západ — čím dál od fronty, tím větší ochota platit.
+
+> „Není to půjčka, je to dárek. Z vašich peněz." — Jiří Černohorský, [Video 25. 5. 2026](_zdroje.md#jiří-černohorský--video-1380400484135548-25-5-2026)
+
+**Zdroje:** [Černohorský — Video 25. 5. 2026](_zdroje.md#jiří-černohorský--video-1380400484135548-25-5-2026)
