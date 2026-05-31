@@ -219,7 +219,9 @@ Ve vysílání 20. 5. 2026 Zítko tuto teorii rozvedl o nové detaily:
 - Jako symbolický důkaz platnosti „historické ČSR" uvádí Zítko příhodu s jírovcem (platanovníkem) u Vily Tugendhat: tento strom prý zemřel rok po podpisu rozdělení — jako by příroda potvrdila nelegitimitu aktu.
 - Slovensko nese dle Zítka bezprostřední důsledky rozdělení: před rokem 1993 bylo Slovensko zemědělsky soběstačné z 98 %, dnes jen z přibližně 38 %; státní dluh vzrostl o 800 %; vojenská kapacita poklesla z přibližně 2 000 letadel na 14 kusů dnes.
 
-**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026)
+Ve vysílání z 26. 5. 2026 Zítko přidal klíčový „důkaz" korporátní povahy ČR a SR: obě jsou prý registrovány u americké Komise pro cenné papíry (SEC) jako soukromé obchodní korporace — Česká republika pod číslem CIK 0000914593, Slovenská republika pod číslem CIK 000091010103. Z toho vyvozuje, že nemohou být suverénními právními státy.
+
+**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026), [ČsTV2 — Deutschland, Čechland, nebo Československo? (26. 5. 2026)](_zdroje.md#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026)
 
 ---
 

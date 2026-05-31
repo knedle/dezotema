@@ -1707,6 +1707,15 @@
 - **Poznámka:** Beseda „Made in Czechoslovakia" ve Velemíně s Pavlem Zítkem a Dr. Enzlem. Témata: COVID šarže kódy 20A-20F/21K-21X/22R-22Z (smrtelnost 8,1%); geografická distribuce šarží; Texas+Kansas žaloby na Pfizer; fertlita -30% u očkovaných žen; právní teorie o nelegálním rozpadu Československa.
 - **Zpracováno:** ano
 
+## Československo TV2 — Deutschland, Čechland, nebo Československo? (26. 5. 2026) {#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-26_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=987322570565983&_rdr>
+- **Datum záznamu:** 2026-05-26 (natočeno 25. 5.)
+- **Délka:** 55:30 | Zhlédnutí: 789
+- **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 26. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-26-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-26_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)
