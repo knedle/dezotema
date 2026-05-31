@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jiří Černohorský — Masivní ruský útok na Kyjev (25. 5. 2026)
+
+**Předpověď:** Po útoku ukrajinskych dronů, které zabily studenty na koleji v Luhansku, Černohorský predikuje masivní ruskou odvetnou akci přímo na Kyjev.
+
+> „Já vám říkám, v Kijevě zažijou Sylvestra. V Kijevě zažijou Sylvestra. To bude ohňostroj. To bude strašný." — Jiří Černohorský
+
+**Horizont:** neurčeno (implicit brzy po útoku na Luhansku)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
+
 ### Ladislav Vrabel — Explosia bude prodána, francouzská prokuratura ztichne (23. 5. 2026)
 
 **Předpověď:** Den po zahájení francouzského vyšetřování Babiše nabídl Babiš prodej státní zbrojovky Explosia francouzům. Vrabel predikuje, že Explosia bude prodána a francouzská prokuratura svou aktivitu uklidní — jako součást neformálního ústupkového vzorce (analogie s mizením EU-dotačních problémů Agrofertu po jiných geopolitických ústupcích).

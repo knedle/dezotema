@@ -1716,6 +1716,15 @@
 - **Poznámka:** Živé vysílání přímo z protestního pochodu na ulici Masarykova v Brně (protistánek k sjezdu SdL). Ukazuje stovky českých/čsl. vlajek, zdraví příznivce. Označuje koalici z radnice Brna (ODS, TOP 09, KDU, Piráti, STAN) za kolaboranty; Daniel Herman „officiální neonacista". Vaňková mluvila na sjezdu SdL německy + neověřené drogové obvinění. SdL krajský předseda (cit. přes Michala Svatoše): „budoucí generace dekrety odstraní sama." Apel na sjednocení pod národními barvami místo stranických symbolů.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Reel „ne jednou to člověk vyslovil" (25. 5. 2026) {#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-25_Jiří-Černohorský_ud83cudde8ud83cuddff-ne-jednou-to-u010dlovu011bk-vys.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Reel)
+- **URL:** <https://www.facebook.com/reel/1254493553430739>
+- **Datum záznamu:** 2026-05-25
+- **Délka:** ~90 min (řízení autem, stream-of-consciousness)
+- **Poznámka:** Dlouhé osobní zamyšlení při jízdě autem z Brna. Témata: media/dezinformace, imigrace, LGBT, covid, SdL sjezd, historická paměť; Martin Dvořák — „vzít televizi a hajzla uškrtit"; Petr Pavel — „rošlapal rypák, flusil do ksichtu"; predikce ruské odvety na Kyjev (Sylvestr); AFD+SPD — Černohorský varoval od 2016-17.
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — Video 1565367518548847 (25. 5. 2026) {#jiří-černohorský--video-1565367518548847-25-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-25_Jiří-Černohorský_Video-1565367518548847.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Reel)
