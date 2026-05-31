@@ -1716,6 +1716,15 @@
 - **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět 27. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-27-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-27_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2836833326676714>
+- **Datum záznamu:** 2026-05-27
+- **Délka:** 31:47
+- **Poznámka:** Zprávy v devět. Témata: OSN 50+ zemí odsoudilo Kyjev útok, USA se nepřipojily; Pavel chce ČR přispívat do muniční iniciativy; EU-USA clá deadline 4.7.; belgický poslanec Van Langeboij odsouzen za pravdivé statistiky o migrantech; Trumpova Rada míru prázdná 4 měsíce; Írán-USA porušení příměří 8×; Netanyahu blokuje konec konfliktu; Trump = president konfliktu/feudalismus; Polsko-UK Nordholmská smlouva.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 26. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-26-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-26_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live)

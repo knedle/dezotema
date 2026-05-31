@@ -116,3 +116,13 @@ Vrabel ve vysílání 19. 5. informuje, že všechny jeho weby byly kyberneticky
 Vrabel nespeculuje o pachateli, ale kontext jeho vysílání implikuje, že jde o cílený útok na opozičního aktivistu.
 
 **Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+---
+
+### Belgický poslanec Van Langeboij odsouzen za zveřejnění pravdivých migračních statistik (Vrabel, 27. 5. 2026)
+
+Vrabel cituje případ belgického bývalého poslance Van Langeboije, odsouzeného za podněcování nenávisti. Podstata: poslanec zveřejnil statistiky trestných činů spáchaných migranty v Belgii. Soud výslovně konstatoval, že nezáleží na tom, zda jsou data pravdivá — trestný čin spočívá v záměru podněcovatele. Citace rozsudku: „i kdyby všechna tvrzení byla založena na vědeckých datech a statistikách, nemá to pro trestný úmysl žádný význam."
+
+Vrabel hodnotí: západ dospěl do bodu, kdy jsou fakta trestná nikoli pro svou nepravdivost, ale pro politicky nevhodný záměr. Srovnává s britským systémem, kde byl aktivista uvězněn za uložení sendviče se šunkou na mešitu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-5-2026)

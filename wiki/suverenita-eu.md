@@ -1791,3 +1791,27 @@ Vrabel upozorňuje na právní důsledky Mertzova návrhu na přidružené člen
 Pokud by Ukrajina vstoupila do EU za situace, kdy je na jejím území přítomna Ruská federace, ČR by automaticky byla povinna vstoupit do válečného konfliktu s Ruskem. Toto Vrabel považuje za závažnější riziko než NATO členství Ukrajiny.
 
 **Zdroje:** [Vrabel — Zprávy v devět 26. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-5-2026)
+
+---
+
+### OSN: 50+ zemí odsoudilo útok na Kyjev — USA se nepřipojily (Vrabel, 27. 5. 2026)
+
+Po masivním ruském útoku na Kyjev (ze soboty na neděli) vydalo 50+ zemí společné prohlášení v OSN odsuzující útok a vyzývající k okamžitému bezpodmínečnému příměří. USA se k prohlášení nepřipojily — pokoušely se vystupovat jako prostředník mezi Kyjevem a Moskvou. Velvyslanec Melnyk paradoxně mluvil o bezpodmínečném příměří, přestože den před tím ukrajinskě strany oslavovaly útok na internátní školu v Luhansku.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-5-2026)
+
+---
+
+### Česká muniční iniciativa: Pavel chce, aby ČR sama přispívala (Vrabel, 27. 5. 2026)
+
+Pavel oznámil záměr jednat s vládou o finančním příspěvku ČR do vlastní muniční iniciativy — v současnosti ČR iniciativu pouze spravuje, ale nevkládá vlastní peníze. Západ to vnímá jako absurdní: zakladatel, který sám neplatí. Babiš dříve slíbil iniciativu zrušit, nyní ji zachovává. Vrabel naznačuje zákulisní spor o kontrolu toku peněz zbrojním firmám.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-5-2026)
+
+---
+
+### EU-USA obchodní dohoda: EU ruší cla, USA si nechají 15 % — deadline 4. 7. (Vrabel, 27. 5. 2026)
+
+Velvyslanci EU schválili klíčový krok k obchodní dohodě s USA odstraňující cla na americké průmyslové zboží vstupující do EU. Deadline: Trump pohrozil 25% cly na evropská auta, pokud dohoda nevstoupí v platnost do 4. července 2026. Vrabel hodnotí asymetrii: EU bude mít nulová cla na americké zboží, USA si zachovají 15% cla na evropské vývozy.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-5-2026)
