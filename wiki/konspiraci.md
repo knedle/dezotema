@@ -284,11 +284,15 @@ Vrabel poukazuje, že von der Leyen o digitálním ID mluvila v Oslu a covidové
 
 ---
 
-### Palantir — napojení na britský fašismus (Vrabel)
+### Palantir — PayPal mafie, digitální feudalismus, NATO ho tlačí do Evropy (Vrabel)
 
-Vrabel ve vysílání 1. května 2026 tvrdí, že technologická společnost Palantir je „vedena vnukem zakladatele fašistické strany ve Velké Británii." Palantir spojuje s Peterem Thielem, jehož označuje za největšího sponzora JD Vance. Vrabel tím naznačuje, že přední technologické a politické elity v USA mají přímé vazby na historický evropský fašismus — a tato linie pokračuje do současné americké politiky.
+Vrabel ve vysíláních z 1. a 25. května 2026 detailně rozebírá Palantir jako klíčový nástroj plánované digitální kontroly Evropy. Palantir v Británii řídí vnuk Osvalda Mosleyho — zakladatele britské fašistické strany (1932); v USA stojí za ním Peter Thiel, hlavní sponzor JD Vance a člen tzv. „PayPal mafie" (Thiel + Elon Musk + další zakladatelé PayPalu).
 
-**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
+Vrabel identifikuje ideologický základ: technokracie — hnutí vzniklé v USA počátkem 20. století, prosazující vládu odborných elit místo demokratické volby. Dědeček Elona Muska byl jedním z hlavních propagátorů; Musk dnes pokračuje přes AI. Thiel, Musk a Vance jsou dle Vrabela jádrem plánovaného přechodu od demokracie k „digitálnímu feudalismu": státní moc splývá se soukromým kapitálem, zákonodárnou roli přebírají nezvolení oligarchové (Trump dává státní peníze politickým spojencům, záležitosti řeší zeť Kushner nebo Witkoff).
+
+V květnu 2026 nato admiral Pěr Vandír doporučil rychle nasadit Palantir v EU — Vrabel to čte jako potvrzení, že Česká republika jako americká kolonie dostane Palantir přes Andreje Babiše.
+
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026), [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)
 
 ---
 
@@ -369,3 +373,15 @@ Dále aplikuje antisemitskou teorii „Chazarů": rozlišuje mezi „normálním
 Boldy tvrdí, že v posledních dvou letech záhadně zemřelo 13 vrcholových vědců ze dvou nebo tří stejných korporací, kteří přišli na antigravitaci a volnou energii. Tato oblast je dle Boldyho systematicky potlačována — přesně jako byl potlačen Nikola Tesla — protože by zbavila korporace příjmů z emisních povolenek a fosilních paliv. „Vědecký vývin civilizace je kontrolován korporacemi."
 
 **Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+
+---
+
+### Biolaboratoře Pentagonu na Ukrajině — Prozorov + Gabbard (Vrabel, 25. 5. 2026)
+
+Vrabel cituje dva zdroje potvrzující existenci amerických vojenských biolaboratoří na Ukrajině. Prvním je Vasili Prozorov — bývalý důstojník ukrajinské tajné služby SBU —, který tvrdí, že spolupráce začala smlouvou o biologické bezpečnosti mezi USA a Ukrajinou z roku 2005, osobně viděl dokumenty o kontrole laboratoří Pentagonem a vývoji nebezpečných patogenů; prezident Janukovič část projektu po nástupu zastavil, po Euromajdanu 2014 byla obnovena.
+
+Druhým zdrojem je Tulsi Gabbard (tehdy šéfová amerických tajných služeb, rezignovala 3 dny před vysíláním): veřejně potvrdila 120 amerických biolaboratoří na různých místech světa, z toho 40 na Ukrajině. Vrabel to dává do kontextu výroku Viktorie Nulandové z roku 2022 před Kongresem, kdy mluvila o nutnosti „rychle zajistit biolaboratoře na Ukrajině, aby rusové nezískali genetický materiál."
+
+Vrabel označuje USA za podezřelé číslo jedna i ve věci úniku koronaviru — s odkazem na Fauciho vazby na wuhanskou laboratoř.
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)

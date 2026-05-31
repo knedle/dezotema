@@ -1698,6 +1698,15 @@
 - **Poznámka:** „Zprávy v devět s komentářem." Klíčová témata: Sudetoněmecký pochod smíření v Brně (~2000 účastníků, CSU Dobrind, Vystrčil); Babiš-Explosia — den po zahájení francouzského vyšetřování Babiše nabídky na prodej státní zbrojovky Explosia francouzům (predikce: bude prodána, prokuratura ztichne); Petr Pavel v The Guardian — navrhoval sestřelování ruských letadel, odpojení internetu a bank; útok dronů na Starobělsk (studentská kolej, 18 mrtvých); F-35 jako jaderné nosiče B-61 — ČR vstupuje do Nuclear Sharing (6,25 mld. EUR, dodání 2031); Zelenský odmítá přidružené členství EU; Landovský — ČR hrozí, že nesplní 2% HDP pro NATO; Německo 5% HDP pro NATO; Francie-Německo-UK rakety 2000+ km.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět 25. 5. 2026 {#ladislav-vrabel--zprávy-v-devět-25-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-25_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/924737027256998>
+- **Datum záznamu:** 2026-05-25
+- **Délka:** 49:58
+- **Poznámka:** Zprávy v devět. Klíčová témata: Rusko zahajuje systematické útoky na Kyjev (Lavrov–Rubio), luhansský internát 21 obětí; SdL sjezd skončil — Posselt střídavě CZ/DE, Norymberk 2027; Söder = ponížení ČR; Macinka: veto EU sankcí Izrael; Palantír + PayPal mafie + digitální feudalismus; biolaboratoře Pentagonu na Ukrajině (Prozorov + Gabbard 40/120 labs); Srbsko v Číně — 95 % nevstoupí do EU.
+- **Zpracováno:** ano
+
 ## Konspirátor Boldy — FB Live 24. 5. 2026 {#konspirátor-boldy--fb-live-24-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-24_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel (Facebook Live)

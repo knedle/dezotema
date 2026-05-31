@@ -1739,3 +1739,33 @@ Tibor Gašpar doložil, proč část evropských elit válku ukončit nechce: 60
 > „Není to půjčka, je to dárek. Z vašich peněz." — Jiří Černohorský, [Video 25. 5. 2026](_zdroje.md#jiří-černohorský--video-1380400484135548-25-5-2026)
 
 **Zdroje:** [Černohorský — Video 25. 5. 2026](_zdroje.md#jiří-černohorský--video-1380400484135548-25-5-2026)
+
+---
+
+### Rusko zahajuje systematické útoky na Kyjev — Lavrov potvrdil Rubiovi (Vrabel, 25. 5. 2026)
+
+Ruské ministerstvo obrany oznámilo zahájení série systematických úderů na Kyjev — jako přímá odpověď na ukrajinskym útok na internát v Luhansku (21 obětí, převážně dívky-studentky). Útoky cílí na výrobu a programování dronů, velitelská centra a administrativní infrastrukturu. Rusko zároveň vyzvalo zahraniční občany, personál diplomatických misí a obyvatele Kyjeva, aby se vzdálili od vojenských a administrativních objektů.
+
+Lavrov to v ten den potvrdil americkému ministrovi zahraničí Rubiovi: tvrdé útoky budou pokračovat. USA o den dříve vyzvaly své občany, aby opustili Kyjev; následoval i ukrajinskym varování civilistům.
+
+Vrabel rámuje situaci kauzálně: Česká republika nese spoluzodpovědnost — vyrábí drony pro Ukrajinu, posílá peníze, Pavel v The Guardian vyzval k dalším vojenským akcím. Zákon příčiny a následku „funguje stoprocentně."
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)
+
+---
+
+### SdL sjezd v Brně skončil — Posselt chce střídavé sjezdy v ČR (Vrabel, 25. 5. 2026)
+
+Po čtyřech dnech skončil sjezd Sudetoněmeckého Landsmannschaftu. Posselt pro bavorskou stanici BR prohlásil, že sjezdy by se mohly střídavě konat v Německu a v ČR — „v řadě českých měst projevili zájem." Příští rok (2027) se sjezd uskuteční pravděpodobně v Norimberku. Bavorský premiér Söder po sjezdu prohlásil, že ČR a Bavorsko jsou „sousední země, které budou rozvíjet spolupráci" — Vrabel to hodnotí jako diplomatické ponížení: prezident ČR přijal regionálního politika na úrovni státního zástupce.
+
+Vrabel vyzývá k podpisu petice za prohlášení SdL extremistickou organizací (www.cr1.cz) — stačí 10 000 podpisů, aby se věcí muselo zabývat PS. Na demonstraci byl napaden 75letý doktor Sládek vlastenci, kteří přišli Zemana poslouchat.
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)
+
+---
+
+### Macinka: ČR bude vetovat EU sankce proti Izraeli (Vrabel, 25. 5. 2026)
+
+Ministr zahraničí Petr Macinka vydal prohlášení, že ČR nepodpoří žádné rezoluce EU namířené proti Izraeli a bude jednoznačně stát na jeho straně. To přichází v době, kdy EU není v otázce Izraele jednotná a část členských zemí kritizuje vojenské akce IDF v Gaze a Libanonu. Vrabel: „krev je bohužel i na našich rukou."
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)
