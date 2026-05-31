@@ -218,6 +218,18 @@ Rajchl označuje toto jako „čisté vydírání" a EU jako „spolek vyděrač
 
 ---
 
+### Imigrace jako „probuzení" — Černohorský o roztržení společnosti (25. 5. 2026)
+
+Jiří Černohorský popisuje, jak ho v roce 2015 „probudila" migrační vlna: sledoval, co se děje v Itálii, Německu, Francii a Švédsku, zatímco česká společnost to ignorovala jako vzdálený problém. Upozorňuje, že Německo je „na dohled", ne „v pohádce". Jako hlavní hnací sílu rozdělení společnosti označuje média a neziskové organizace financované penězi — „z lidí dělají na prostý svině." Kritizuje tehdejší „vítače" (CEMPR, Piráti, Bartoš, hnutí Refugees Welcome): tvrdili, že islám je kompatibilní s křesťanstvím a v Švédsku a Norsku žádné no-go zóny neexistují. Dnes prý Němci „hulákají, že mají imigrantů plný zuby" — kriminalita bodných a sečných zbraní vzrostla o 300–400–500 %, přibyly znásilnění, vraždy a rabování.
+
+Černohorský zároveň přiznává, že i na jeho straně kolují dezinformace: jako příklad uvádí „Svobodnou Ukrajinu" — ta je neziskovou organizací, nikoli politickou stranou (politická strana musí mít zakladatele s českým státním občanstvím).
+
+> „Mě to probudilo to, že jsem viděl, co se děje v Itálii, co se děje v Německu, ve Francii, pak ve Švédsku. [...] Pamatujete Refugees will come? Honem rychle imigranti sem. Bartoš, kterej se halil do vlajky Antify a šel v tom průvodu. Všichni popírali no-go zóny ve Švédsku, v Norsku." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
+
 ### Masová migrace jako bezpečnostní selhání druhé generace
 
 Rajchl v Bratislavě uvádí Southport (Velká Británie) jako konkrétní varování V4: Axel Rudakubana — potomek migrantů z Rwandy — vběhl do taneční třídy 24 dívek ve věku 6–11 let a začal je bodat; tři zabity, ostatní s traumatem na celý život. Britská média ho označila za „rodilého Welshmana" a fakt jeho migrantského původu potlačovala. Rajchl z toho vyvozuje: muslimští migranti ani ve druhé generaci nepřejímají hodnoty hostitelské společnosti, a migrační pakt by tuto situaci přinesl i do V4.
@@ -322,6 +334,26 @@ Rajchl vystoupil 28. dubna 2026 na debatě k chystanému sjezdu Sudetoněmeckéh
 
 ---
 
+### Odsun byl spravedlivý — Černohorský odmítá smíření (25. 5. 2026)
+
+Jiří Černohorský v emotivním monologu odmítá požadavky sudetoněmeckého Landsmannschaftu na smíření a zároveň odmítá vinu Čechů za poválečný odsun. Byl osobně přítomen na pochodu v Brně, kde žádní sudetští Němci pochod netvořili — šlo o Čechy, Moravany a Slezany.
+
+Centrální argument Černohorského: Němci nebyli vyháněni kvůli Čechům, ale kvůli tomu, co jejich předkové (Henleinovi stoupenci, sudetští Němci) a nacistické Německo šest let dělali — vyháněli, vraždili, odvlékali Čechoslováky do koncentračních táborů. Pochod smrti, Postoloprty a odsun byly reakcí na tuto hrůzu. „Kdyby se to nestalo, tak to by nebyl jeden pochod smrti. To by nebyly jedny postoloprty. To by byly hrůzy." Po Čechách nelze chtít omluvu za to, co způsobili druzí.
+
+Kritizuje „pokrytce" — Čechy, kteří „jdou ruku v ruce se sudetoněmeckým Landsmannschaftem a s těmi, jenž pod jejich předkové vraždili naše občany." Jmenovitě cituje Radima Fialu ze SPD: „vy tady celou dobu hájíte sudetoněmecký Landsmannschaft do krve, místo těch, kteří byli zavražděni v koncentračních táborech."
+
+Ke spojení SPD–AfD: Černohorský tvrdí, že od roku 2016–2017 opakovaně upozorňoval, že v AfD jsou politici s projevy proti ČR a Benešovým dekretům — byl tehdy označován za lháře, nikoliv ještě dezinformátora. Dnes mu to „protistrana" dává sežrat SPDákům.
+
+Ohledně prezidenta Petra Pavla: záštita nad sjezdem Landsmannschaftu navzdory protestní nótě vlády je podle Černohorského porušením demokratického parlamentního systému a „jde proti vládě České republiky."
+
+> „Odsun nebyli jsme my — byli odsunuti. A po právu byli odsunuti. A můžou děkovat Pánu Bohu, že byli odsunuti." — Jiří Černohorský
+
+> „Vy tady celou dobu hájíte sudeto německý Landsmannschaft do krve, místo těch, který byli zavražděni v těch splinovaných koncentračních táborech." — Radim Fiala, citováno Černohorským
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
+
 ## Plán na germanizaci — „Česko je plán"
 
 ### Přejmenování na „Česko" jako součást záměru připojit zemi k Německu
@@ -352,6 +384,20 @@ V návaznosti na téma šlechtických restitucí Černohorský tvrdí, že círk
 ---
 
 ## Rusko a Ukrajina
+
+### Drony z Ukrajiny zabily studenty — Kyjev si „zaslouží Sylvestra" (25. 5. 2026)
+
+Černohorský komentuje útok ukrajinskych dronů, při němž bylo na ruském území zabito 21 studentů. Označuje tento útok za dílo EU a NATO, nikoli jen Ukrajiny. Predikuje, že Kyjev jako odplatu zažije masivní ruské bombardování — přirovnává ho k novoročnímu ohňostroji. Otáčí kritiku na „prourkajinské": „Tohle jste chtěli vy, ty proukrajinští? Aby se zabíjeli školáci?"
+
+Zároveň upozorňuje na ekonomické vykrvácení EU: EU poslala Ukrajině 90 miliard EUR — 60 miliard na zbraně a 30 miliard ukrajinskym úředníkům. Ruská ekonomika přes sankce roste (sankce 3758. balíček ji neporazily), zatímco EU si hospodářsky škodí. Média prý falsely tvrdila, že Rusko nemá čipy a musí je vybírat z praček — dnes je realita opačná.
+
+> „Já vám říkám, v Kijevě zažijou Sylvestra. V Kijevě zažijou Sylvestra. To bude ohňostroj. To bude strašný." — Jiří Černohorský
+
+> „90 miliard Evropské unie na Ukrajinu. 60 miliard na zbraně a 30 miliard pro ukrajinskéúředníky. Ty vole, to je neuvěřitelný." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
 
 ### Západ jako viník války na Ukrajině
 

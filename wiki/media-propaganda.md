@@ -306,6 +306,20 @@ Vrabel zároveň informoval, že v souběžné vlastní právní kauze vyhrál p
 
 ---
 
+## Vlastenecká scéna a peníze
+
+### Vlastenecká scéna jako byznys — transparentní účty místo vlastenectví (25. 5. 2026)
+
+Jiří Černohorský kritizuje, že i tzv. vlastenecká scéna podléhá komerční logice: každý tvůrce má transparentní účet, výzvy k finančním příspěvkům a provozuje svoji aktivitu jako „business." Tím se podle Černohorského scéna rozděluje a nedokáže se sjednotit — přesně to, co oponenti chtějí. Jako pozitivní protiklad uvádí Petra Černého Orteka, který od roku 2009 dělal vlasteneckou práci bez transparentního účtu a „měl to srdce."
+
+Paradoxně z toho vyvozuje, že se vůbec nedivil výsměchu Blujové a Pšenáka na demonstraci: „Blujová měla pravdu, když říkala, to je super, že se tady ty dezoláti dohadují." Vnitřní rozpad vlastenecké scény je přímý důsledek toho, že každý vydělává na vlastní iniciativě místo spolupráce.
+
+> „Tady máte každý transparentní účet, podpořte mě, podpořte mě. [...] Každej z toho má jenom business skurvenej. Takže čemu já se to vlastně do hajzlu divím?" — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
+
 ## Nová alternativní média
 
 ### Vlny.cz — nový investigativní web (Rajchl, 3. 5. 2026)

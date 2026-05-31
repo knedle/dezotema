@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jiří Černohorský — Ukončení veřejné činnosti k 20. 6. 2027 (25. 5. 2026)
+
+**Předpověď:** Černohorský veřejně oznamuje, že pokud se nic zásadního nezmění — lidé nepřestanou být pasivní a nepřestanou čekat na spasitele — ke dni 20. 6. 2027 definitivně ukončí svoji veřejnou činnost. O tomto kroku prý přemýšlí 8 let. Jako paralelu uvádí Petra Černého Orteka, který po 7 letech skončil se stejným zdůvodněním: „za těch sedm let se nic nezměnilo."
+
+> „20. 6. 6. 2027, 2027 — pokud se něco radikálně nezmění v naší společnosti, pokud vy lidé nezačnete přemýšlet jinak, nedokážete prostě udělat ten krok, že to budete vy, jenž budou tvořit tu budoucnost — tak ano, 20. 6. 6. 2027 končím definitivně. Už mě nebude." — Jiří Černohorský
+
+**Horizont:** 20. 6. 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Reel „ne jednou to člověk vyslovil" (25. 5. 2026)](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
+
 ### Vladimír Putin — Rusko-Ukrajina konflikt se blíží ke konci (30. 5. 2026, citováno Vrabel)
 
 **Předpověď:** Putin v reakci na dotaz novinářů prohlásil, že může zodpovědně říct, že se speciální vojenská operace blíží ke konci. Přesný datum odmítl uvést, protože je to boj a bylo by to nefér vůči vojákům.

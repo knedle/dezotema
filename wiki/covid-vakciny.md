@@ -337,6 +337,18 @@ Zítko doplňuje, že „COVID-19 si v roce 2015 a 2017 nechal patentovat určit
 
 ## Šarže vakcín
 
+### Šarže jako kontrolovaný pokus na lidech — Černohorský (25. 5. 2026)
+
+Jiří Černohorský zastává přesvědčení, že různé šarže vakcín byly záměrně navrženy jako experiment na lidech: výrobci prý museli vědět, které šarže jsou placebo, které obsahují látku v nižší dávce a které v plné. Z toho vyvozuje, že farmaceutický byznys záměrně testoval dávkování na nic netušící populaci.
+
+Jako klíčový doklad uvádí záběr z Evropského parlamentu: europoslanci si vyžádali smlouvy od Pfizeru, ale dostali „začerněné papíry" — Černohorský osobně označuje Ursulu von der Leyen jako osobu, která tyto smlouvy vydala v této podobě. Říká, že přes tuto evidentní záměrnost „se tady najdou idioti, kteří tomu nebudou věřit."
+
+> „Jestli je to pojaté jako pokus na lidech, tak oni museli vědět, jaké šarže do které země a v jakém počtu posílají. Který jsou třeba to placebo. Nebo kteří tam té látky mají míň a pak víc. Oni věděli moc dobře, co dělají." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
+
 ### Šarže označené „E" jako extrémně smrtelné
 
 Zítko tvrdí, že koncentrace škodlivých složek v COVID vakcínách se mezi šaržemi lišila až stonásobně. Šarže označené písmenem „E" podle něj znamenají „extrémně smrtelné" — syndromy náhlého úmrtí kojenců (SIDS) i dospělých (SADS) jsou svázány zejména s těmito šaržemi.

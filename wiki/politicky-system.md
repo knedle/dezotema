@@ -54,6 +54,18 @@ Rajchl v krátkém videu (8 sekund) reaguje na výrok Mikuláše Mináře prones
 
 ---
 
+### Petr Pavel — „nejhorší svině na hradě od návštěvy Adolfa Hitlera" (25. 5. 2026)
+
+Jiří Černohorský v reakci na záštitu Petra Pavla nad sjezdem Sudetoněmeckého Landsmannschaftu — záštitu danou navzdory vládní protestní nótě — označuje Pavla za nejhorší osobnost, která seděla na Pražském hradě „od dob Emanuela Moravce." Doslova říká: „od návštěvy Adolfa Hitlera většího hajzla skurvených sviní na hradě nebylo."
+
+Jako konkrétní pochybení uvádí: Pavel věděl, že vláda má s konáním sjezdu rozpor a vyzvala ho k zásahu — přesto záštitu udělil, čímž „jde proti demokratickému parlamentnímu systému a jde proti vládě České republiky." Navíc byl vyloučen ze summitu NATO v Ankaře na přání vlády, přesto se dál chová protikladně k vládní zahraničněpolitické linii.
+
+> „Petr Pavel, odpornost sama. Nejhorší svině skurvená od dob Emanuela Moravce České republice. Největší odporná svině skurvená na hradě od návštěvy Adolfa Hitlera." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+
+---
+
 ### Petr Pavel chválí demonstraci Milionu chvilek — po třech letech mlčení o opoziční scéně
 
 Rajchl poukazuje na rozpor v chování prezidenta Petra Pavla: v roce 2023 prohlásil o účastnících demonstrací PRO, že s nimi „nemá cenu se bavit" a označil je za ztracené existence. Po třech letech se ovšem pozitivně vyjádřil k demonstraci Milionu chvilek, řekl, že „většina musí naslouchat menšině" a vyzývá vládu k dialogu. Rajchl to označuje za flagrantní dvojí metr.
