@@ -1857,6 +1857,15 @@
 - **Poznámka:** 90 mld. EUR EU pro Ukrajinu = faktický dárek (splacení podmíněno reparacemi od Ruska = nikdy); Tibor Gašpar: část elit nechce konec války; Rheinmetall/Thales/Leonardo +200–400 %; Fialova vláda si z SAFE řekla jen 2 mld. EUR vs. Polsko 34 mld., Maďarsko 16 mld.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Video 1706645550679611 (27. 5. 2026) {#jiří-černohorský--video-1706645550679611-27-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-27_Jiří-Černohorský_Video-1706645550679611.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Reel)
+- **URL:** <https://www.facebook.com/reel/1706645550679611>
+- **Datum záznamu:** 2026-05-27
+- **Délka:** 14:28
+- **Poznámka:** Incident s Pšenákem na náměstí Svobody v Brně; policejní intervence; sexistické výroky vůči komentátorce Pavlínce Albrechtové (vrátit se ke Sporheltu/kuchyni); fragment o vlastenecké scéně.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Brněnský pochod, projev (24. 5. 2026) {#jindřich-rajchl--brněnský-pochod-projev-24-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-25_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl (Facebook/Videoportál)

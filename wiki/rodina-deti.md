@@ -54,6 +54,18 @@ Odpovědnost nenese žádná instituce ani žádná technologická firma — spo
 
 ---
 
+## Genderové role
+
+### „Vrátit se ke Sporheltu a do kuchyně" — tradiční role ženy v politickém diskursu (27. 5. 2026)
+
+Jiří Černohorský v komentáři vůči Pavlínce Albrechtové (komentátorka jeho sítí, která ho kritizovala) explicitně formuluje tradiční pohled na roli ženy: „ať se laskavě vrátí ke Sporheltu, ať si má děti, tak ať se stará o děti, a nesere se do něčeho, čemu vůbec nerozumí." Na jiném místě ho parafrazuje jako „vrátit se ke své plotně, do kuchyně." Zároveň jí nařčení, že „otravuje cizí lidi" v Messengeru, přičemž sám přiznává, že jí na Messenger mohl napsat jako první v reakci na její komentáře.
+
+Postoj implikuje: politický a společenský komentář je mužská doména; ženy, které se do diskurzu vměšují, překračují svoji přirozenou roli péče o domácnost a rodinu.
+
+**Zdroje:** [Černohorský — Video 1706645550679611 (27. 5. 2026)](_zdroje.md#jiří-černohorský--video-1706645550679611-27-5-2026)
+
+---
+
 ## Šmírování dětí státem
 
 ### Česká školní inspekce: povinný dotazník o rodině, depresích a sebepoškozování — Rajchl (24. 5. 2026)
