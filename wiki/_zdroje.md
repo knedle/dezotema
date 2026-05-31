@@ -1716,6 +1716,15 @@
 - **Poznámka:** Zítko reakce na sjezd Landsmannschaftu v Brně. Hlavní teze: ČR a SR jsou SEC-registrované korporace (CIK 0000914593 / CIK 000091010103), Československo stále právně existuje; Rajchl je člen vládní koalice = může prosadit zákaz sjezdu, ale nic nedělá; válečné reparace = 28 bilionů Kč; COVID = genocida.
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Videoportál 28. 5. 2026 {#jindřich-rajchl--videoportál-28-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-28_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook/Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/952301871005723>
+- **Datum záznamu:** 2026-05-28
+- **Délka:** 2:24 | Zhlédnutí: 56 195
+- **Poznámka:** Dvojí metr kolektivní viny: zastánci LM sjezdu odmítají kolektivní vinu pro sudetské Němce, ale aplikují ji na Rusy; případ policisty ČR odmítnutého sázkovou kanceláří kvůli ruskému rodišti.
+- **Zpracováno:** ano
+
 ## Československo TV2 — Skaldoviny: Štefec, Zítko (27. 5. 2026) {#československo-tv2--skaldoviny-štefec-zítko-27-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-27_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 (Videoportál / Petr Bureš TV)

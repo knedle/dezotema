@@ -421,3 +421,18 @@ Vrabel formuluje klíčovou tezi: opozice přestala být opozicí. SPD a ANO jso
 > „To už není koalice a opozice, jako to byla dřív. Teď je koalice a opozice ve vládě." — Ladislav Vrabel, [Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 
 **Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+---
+
+### Kolektivní vina: OK pro Rusy, ale ne pro sudetské Němce — Rajchl (28. 5. 2026)
+
+Rajchl poukazuje na přímý dvojí metr: zastánci sjezdu Landsmannschaftu argumentovali, že kolektivní vina je „vždy a za všech okolností nehumánní." Přitom stejní lidé:
+- zakazovali koncerty ruské operní pěvkyně Nyěbuké,
+- zatýkali ruské tenistky na letišti,
+- horovali za vyloučení ruských sportovců z olympijských her.
+
+A kolektivní vina se uplatňuje i vůči českým občanům: muž narozený v Rusku, který je 16 let občanem ČR a 10 let slouží u české policie, byl odmítnut internetovou sázkovou kanceláří — pouze proto, že jako místo narození uvedl Ruská federace.
+
+> „Takže přátelé, srovnejte si trošku noty. A začněte být alespoň maličko konzistentní." — Jindřich Rajchl, [Videoportál 28. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-28-5-2026)
+
+**Zdroje:** [Rajchl — Videoportál 28. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-28-5-2026)
