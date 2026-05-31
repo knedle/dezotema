@@ -350,6 +350,24 @@ Rajchl proto kategoricky odmítá argument „vzájemné viny": „Pokud by naci
 
 ---
 
+### Brněnský pochod — zklamání z účasti a programu (24. 5. 2026)
+
+Vrabel sledoval pochod proti sjezdu LM v Brně (24. 5.) živě a hodnotí ho kriticky:
+
+**Počet účastníků:** zklamal — čekal výrazně více lidí. Demonstrace ukázala, že „vlastenci se neumí spojit, postavit za svoji zemi."
+
+**Program:** Nejvíce vadil kněz v úvodu, který vyzýval k odpuštění a pochopení vůči „kolaborantům" — Vrabel označuje tento postoj za nevhodný v dané situaci: „to učí lidi nastavit druhou tvář, takovej nesmysl."
+
+**Rajchlův projev:** líbil se, ale ne závěr — „Dejte nám mandát a sjezd LM nikdy nebude." SPD+PRO jsou ve vládě a sjezd přesto proběhl. Slib o budoucím mandátu považuje za anachronický.
+
+**Zeman:** „katastrofa" — odbyl to odkazem na volby jako řešení. Vrabel: pokud by volby řešily problémy, sjezd by se nekonal.
+
+Vrabel obecně: lidé demonstrovali „jenom proti Fialovi" — to nestačí. Skutečným problémem je globalistická struktura likvidující suverenitu, ne konkrétní vládní garnitura.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+---
+
 ### Dialog mezi pachatelem a obětí nelze vynutit — smíření musí být autentické (25. 5. 2026)
 
 Rajchl ve svém projevu z brněnského pochodu formuluje zásadní princip: smíření, které odmítá pojmenovat jednoznačného pachatele a oběť, není smíření — je to nucení oběti, aby zapomněla. „Dialog mezi pachatelem a obětí nelze vynutit. To není smíření, to je snaha o to, abychom zapomněli, abychom rezignovali na naší národní pamět."
@@ -2012,6 +2030,16 @@ Pentagon (ministr Hegseth) oznámil, že USA výrazně navýší výrobu zbraní
 Evropský orgán odpovědný za dohled nad evropskými politickými stranami zahájil řízení, které může vést ke zrušení statusu frakce Evropa suverénních národů (ESN) — hlavní iniciátorkou je AFD. Důvody: extremistická rétorika, antisemitismus, vazby na Rusko. Pokud ztratí status, přijdou o dotace přesahující 2 miliony EUR; mandáty europoslanců by zůstaly nedotčeny. Vrabel komentuje: důsledek toho, že vlastenecká opozice v ČR odmítala spolupracovat s AFD a pomáhala likvidovat skutečnou suverenistickou opozici.
 
 **Zdroje:** [Vrabel — Zprávy v devět 30. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-5-2026)
+
+---
+
+### OSN: USA se nepřipojily k odsudění útoku na Kyjev — signál zprostředkování (27. 5. 2026)
+
+Více než 50 partnerských zemí odsoudilo v OSN ruský útok na Kyjev ze sobotní noci a vydalo společné prohlášení. Připojily se EU, Australie, Kanada, Francie, Německo, Japonsko, Polsko, Velká Británie a pobaltské státy. USA se k prohlášení nepřipojily.
+
+Vrabel komentuje: v předchozích dnech se USA snažily vystupovat jako prostředník mezi Kyjevem a Moskvou. Nepřipojení k odsudění je z tohoto pohledu logickým krokem — USA si nechtějí uzavřít cestu k jednání s Ruskem. „Dneska už nemám ten pocit, že by stáli všichni za ukrajinským režimem." Zároveň upozorňuje, že Zelenský a jeho režim „to přehnali" — a nyní v OSN získali podporu jen přibližně 25 % zemí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-5-2026)
 
 ---
 
