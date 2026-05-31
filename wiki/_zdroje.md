@@ -1752,6 +1752,15 @@
 - **Poznámka:** Živé vysílání přímo z protestního pochodu na ulici Masarykova v Brně (protistánek k sjezdu SdL). Ukazuje stovky českých/čsl. vlajek, zdraví příznivce. Označuje koalici z radnice Brna (ODS, TOP 09, KDU, Piráti, STAN) za kolaboranty; Daniel Herman „officiální neonacista". Vaňková mluvila na sjezdu SdL německy + neověřené drogové obvinění. SdL krajský předseda (cit. přes Michala Svatoše): „budoucí generace dekrety odstraní sama." Apel na sjednocení pod národními barvami místo stranických symbolů.
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Dozimetr 360° (27. 5. 2026) {#jindřich-rajchl--dozimetr-360-stupňů-27-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-27_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook/Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1735179954502218>
+- **Datum záznamu:** 2026-05-27
+- **Délka:** 1:17 | Zhlédnutí: 39 577
+- **Poznámka:** Clip z pořadu 360 stupňů. Dozimetr: 5 spolupracujících obviněných vs. STAN; parlamentní komise bude volena 28. 5.; STAN jako právnická osoba pod hrozbou zrušení soudem.
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — Reel „ne jednou to člověk vyslovil" (25. 5. 2026) {#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-25_Jiří-Černohorský_ud83cudde8ud83cuddff-ne-jednou-to-u010dlovu011bk-vys.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Reel)

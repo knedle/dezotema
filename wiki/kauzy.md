@@ -373,3 +373,11 @@ Průběh kauzy:
 Vrabel označuje celý řetězec (insolvenční správce, policie, státní zastupitelství, soud) za organizovaný zločin.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+---
+
+### Dozimetr: komise konečně volena, STAN jako právnická osoba pod hrozbou zrušení — Rajchl (26. 5. 2026)
+
+Rajchl v krátkém klipu z pořadu 360 stupňů informuje, že volba členů parlamentní vyšetřovací komise v kauze Dozimetr by měla proběhnout 28. 5. 2026. Uvádí klíčový právní argument: pět spolupracujících obviněných jednoznačně prohlašuje, že korupční peníze končily u hnutí STAN. Pokud státní zástupce tomuto uvěří, měl by jednat — buď jim zbavit status spolupracujícího obviněného, nebo zahájit trestní stíhání pro křivé obvinění, anebo zahájit trestní stíhání STAN jako právnické osoby. Zákon přitom umožňuje soudu jako trest i zrušení právnické osoby.
+
+**Zdroje:** [Rajchl — Dozimetr 360° (26./27. 5. 2026)](_zdroje.md#jindřich-rajchl--dozimetr-360-stupňů-27-5-2026)
