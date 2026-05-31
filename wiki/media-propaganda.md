@@ -322,6 +322,20 @@ Paradoxně z toho vyvozuje, že se vůbec nedivil výsměchu Blujové a Pšenák
 
 ## Nová alternativní média
 
+### Jan Štern (ČT2): dokument o selhání policie na FF UK byl zastaven na všech úrovních (29. 5. 2026)
+
+Rajchl sdílí výpověď Jana Šterna, bývalého ředitele ČT2. Štern popisuje, jak objednal u Jany Škopkové aktuální dokument o selhání policie při útoku na Filozofické fakultě. Dokument byl systematicky blokován:
+
+1. Odmítl dramaturg → Štern přepsal a trval na dokumentu
+2. Postoupeno řediteli programu a ředitelce vývoje a obsahu → ti ho společnými silami „zařízli"
+3. Štern šel osobně za generálním ředitelem Janem Součkem → Souček mlčel a souhlas nedal
+
+Rajchl případ rámuje jako doklad, že ČT skutečně není nezávislá, jak tvrdí demonstranti bránící veřejnoprávní televizi.
+
+**Zdroje:** [Rajchl — Videoportál 29. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-29-5-2026)
+
+---
+
 ### Vlny.cz — nový investigativní web (Rajchl, 3. 5. 2026)
 
 Rajchl v živém vysílání 3. května 2026 oznámil spuštění nového investigativního webu **Vlny.cz**. Stránku prezentoval jako platformu pro investigativní žurnalistiku nezávislou na mainstreamových médiích. Podrobnosti o redakci ani financování ve vysílání neuvedl.

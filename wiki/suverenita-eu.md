@@ -350,6 +350,31 @@ Rajchl proto kategoricky odmítá argument „vzájemné viny": „Pokud by naci
 
 ---
 
+### Dialog mezi pachatelem a obětí nelze vynutit — smíření musí být autentické (25. 5. 2026)
+
+Rajchl ve svém projevu z brněnského pochodu formuluje zásadní princip: smíření, které odmítá pojmenovat jednoznačného pachatele a oběť, není smíření — je to nucení oběti, aby zapomněla. „Dialog mezi pachatelem a obětí nelze vynutit. To není smíření, to je snaha o to, abychom zapomněli, abychom rezignovali na naší národní pamět."
+
+Kdokoliv, kdo se tváří jako mediátor a přitom trvá na termínu „vzájemná vina", je dle Rajchla fakticky diktátorem bez empatie — neboť nerespektuje trauma těch, kteří prožili nacistickou okupaci nebo ztratili blízké. V případě SdL sjezdu Posselt sám ukázal, že mu o smíření nejde: označil usnesení PS za „karikaturu a frašku" — to odhaluje nadřazenost, nikoliv smířlivost.
+
+Závěr: SdL je nepřátelské sdružení vůči českým zájmům — Němci a sudeto-němečtí občané, kteří respektují ČR, jsou vítáni kdykoli; organizace Bernda Posselta „nemá co dělat nikdy, ani za tisíc let."
+
+**Zdroje:** [Rajchl — Brněnský pochod, projev, 24. 5. 2026](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
+
+---
+
+### Kolektivní vina — dvojí metr: SdL vs. Rusové (28. 5. 2026)
+
+Rajchl poukazuje na vnitřní rozpor zastánců SdL sjezdu: celé týdny vysvětlovali, že kolektivní vina je nehumánní, nelidská. Přitom jsou to tytéž osoby, které:
+- zakazovaly koncert ruské operní pěvkyně Netrebko
+- zatýkaly ruské tenistky na letišti
+- horaly za vyloučení ruských sportovců z olympijských her
+
+Konkrétní případ: Čech s ruským rodištěm, 16 let občan ČR, 10 let sloužící u policie ČR, byl odmítnut sázkovou kanceláří — jen proto, že jako místo narození uvedl Ruskou federaci. Rajchl: „To říkám dvojí metr. Srovnejte si trošku noty a začněte být alespoň maličko konzistentní."
+
+**Zdroje:** [Rajchl — Videoportál 28. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-28-5-2026)
+
+---
+
 ### Sjezd SdL v Brně jako historický zlom — příští sjezd Liberec 2027 (24. 5. 2026)
 
 Rajchl označuje konání sjezdu Sudetoněmeckého Landsmannschaftu v Brně (22.–24. 5. 2026) za historický zlom v ČR: poprvé se část politiků a veřejnosti postavila na stranu SdL OPROTI přeživším a pozůstalým z Lidic. Říká, že si nic podobného neumí představit ještě před deseti lety — tehdy by každý politik automaticky respektoval přání lidických přeživších.

@@ -42,6 +42,16 @@ Rajchl vyzývá k symetrii: pokud je podmínkou volby vyjasnění nahrávky Mato
 
 ---
 
+### STAN jako právnická osoba pod hrozbou zrušení soudem (27. 5. 2026)
+
+Rajchl v krátkém vstupu do pořadu 360 stupňů (26. 5.) upozorňuje na právní situaci: pět spolupracujících obviněných shodně uvádí, že korupční peníze z Dozimetru končily u Hnutí STAN. Státní zástupce dle Rajchla měl tři možnosti: (1) zbavit je statutu spolupracujícího obviněného (pokud lžou), (2) zahájit stíhání pro křivé obvinění, nebo (3) zahájit trestní stíhání STAN jako právnické osoby — a STAN hrozí jeden z možných trestů: zrušení soudem.
+
+> „Za situace, kdy tady pět obviněných jasně a jednoznačně říká, že ty peníze z toho korupčního jednání končily u hnutí STAN, tak je to velmi zásadní obvinění [...] hnutí STAN co by právnickou osobu. Tam je mimochodem jedním z trestů i zrušení té právnické osoby, který může uložit soud." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Dozimetr 360° (27. 5. 2026)](_zdroje.md#jindřich-rajchl--dozimetr-360-stupňů-27-5-2026)
+
+---
+
 ## Kauza Zdeněk Hřib — neoprávněné příjmy
 
 ### Čtyřnásobná platba bez nároku
