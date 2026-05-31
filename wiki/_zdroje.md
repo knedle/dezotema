@@ -1716,6 +1716,15 @@
 - **Poznámka:** Živé vysílání přímo z protestního pochodu na ulici Masarykova v Brně (protistánek k sjezdu SdL). Ukazuje stovky českých/čsl. vlajek, zdraví příznivce. Označuje koalici z radnice Brna (ODS, TOP 09, KDU, Piráti, STAN) za kolaboranty; Daniel Herman „officiální neonacista". Vaňková mluvila na sjezdu SdL německy + neověřené drogové obvinění. SdL krajský předseda (cit. přes Michala Svatoše): „budoucí generace dekrety odstraní sama." Apel na sjednocení pod národními barvami místo stranických symbolů.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Video 1565367518548847 (25. 5. 2026) {#jiří-černohorský--video-1565367518548847-25-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-25_Jiří-Černohorský_Video-1565367518548847.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook Reel)
+- **URL:** <https://www.facebook.com/reel/1565367518548847>
+- **Datum záznamu:** 2026-05-25
+- **Délka:** 3:31
+- **Poznámka:** Referendum chybí = ne-demokracie; příklad: sjezd LM v Brně — lidé nemohli rozhodnout referendem; Fiala = „spolupachatel vražd"; brněnští zastupitelé = adepti na trest smrti za kolaboraci se SdL; opakuje Vaňková drogy (neověřené).
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — Video 1380400484135548 (25. 5. 2026) {#jiří-černohorský--video-1380400484135548-25-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-25_Jiří-Černohorský_Video-1380400484135548.txt)
 - **Kanál:** Jiří Černohorský Živě (Facebook Reel)
