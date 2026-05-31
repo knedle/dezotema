@@ -401,6 +401,14 @@ Základní podmínkou je nesmíchávat stranickou politiku s občanskou aktivito
 ---
 
 
+### 37 let zákonných zástupců: státní dluh 3× vzrostl, volby nefungují jako nástroj změny (Černohorský, 24. 5. 2026)
+
+Černohorský bilancuje 37 let od sametové revoluce: státní dluh vzrostl z přibližně 450–460 miliard (rok 2004, vstup do EU) na 3 biliony korun. Tvrdí, že parlamentní demokracie nefunguje jako nástroj změny — „zákonní zástupci" rozhodují místo přímého hlasu lidu a systém udržuje politiky závislé na médiích a sponzorech. Jedinkrát prý lid hlasoval přímo — při vstupu do EU, který Černohorský hodnotí jako historickou chybu.
+
+**Zdroje:** [Černohorský — FB Live 24. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-24-5-2026)
+
+---
+
 ### Demonstrace 2022 zlikvidovány — opozice je dnes součástí vlády (Vrabel, 24. 5. 2026)
 
 Vrabel ve dvouhodinovém vysílání (24. 5. 2026) rozebírá zánik autentického občanského odporu. Demonstrace roku 2022 označuje za jedinečný spontánní fenomén — financovaný z příspěvků tisíců obyčejných lidí, bez stranického zadání. Tyto akce byly podle Vrabela cíleně zlikvidovány zevnitř i zvenčí: nasazením falešných lidí, „mafiánským právníkem", a mediální diskreditací Vrabela a jeho manželky.

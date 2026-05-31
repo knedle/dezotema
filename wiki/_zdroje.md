@@ -1815,11 +1815,10 @@
 
 ## Jiří Černohorský — FB Live 24. 5. 2026 {#jiří-černohorský--fb-live-24-5-2026}
 - **Soubor:** [přepis](prepisy/done/2026-05-24_Jiří-Černohorský_Facebook-Live.txt)
-- **Kanál:** Jiří Černohorský Živě (Facebook Live)
+- **Kanál:** Jiří Černohorský (Facebook Live)
 - **URL:** <https://m.facebook.com/watch/?v=978142411476981&_rdr>
 - **Datum záznamu:** 2026-05-24
 - **Délka:** 32:31
-- **Poznámka:** Živé vysílání přímo z protestního pochodu na ulici Masarykova v Brně (protistánek k sjezdu SdL). Ukazuje stovky českých/čsl. vlajek, zdraví příznivce. Označuje koalici z radnice Brna (ODS, TOP 09, KDU, Piráti, STAN) za kolaboranty; Daniel Herman „officiální neonacista". Vaňková mluvila na sjezdu SdL německy + neověřené drogové obvinění. SdL krajský předseda (cit. přes Michala Svatoše): „budoucí generace dekrety odstraní sama." Apel na sjednocení pod národními barvami místo stranických symbolů.
 - **Zpracováno:** ano
 
 ## Jindřich Rajchl — Dozimetr 360° (27. 5. 2026) {#jindřich-rajchl--dozimetr-360-stupňů-27-5-2026}
