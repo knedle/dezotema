@@ -1,0 +1,634 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jiří Černohorský
+URL:          https://m.facebook.com/watch/?v=978142411476981&_rdr
+Datum videa:  2026-05-24
+Zpracováno:   2026-05-25 02:09:27
+Jazyk:        cs
+Délka:        00:32:31
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    26s
+Přepis:       3m 33s
+Rychlost:     9.1x realtime
+Celkem:       4m 0s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:45] Taky zdravím, zdravím.
+[00:59] Tak já vás zdravím, vážení a milí přátelé.
+[01:03] A takový vstupní stream bych řekl, jo.
+[01:07] Abych vám ukázal trošku tu účast těch lidí,
+[01:14] co sem přišli dneska v neděli podpořit.
+[01:23] Já teď tady zůstanu na místě, abyste měli plus minus přehled
+[03:39] a hoď, bylo košení, to by bylo hodně důležité.
+[03:43] Abyste tady měli plus minus nějakej přehled, kolik přišlo lidí.
+[03:47] Tohle si zaslouží takovej samostatnej záběr.
+[04:12] Taky.
+[04:14] Čau, čau.
+[04:16] Tady to je víc než jasné.
+[04:23] Jinak pro ty, co neznají Brno, tak teďka se vydal pochod
+[04:26] z ulice Bašty, kde byl sraz.
+[04:30] A tohle je ulice Masarykova.
+[04:35] Čau, čau.
+[04:36] Čau, čau.
+[05:24] No, taky vás zdravím.
+[06:06] Já bych byl zprostější ještě než.
+[06:10] Děkuju.
+[06:15] Taky zdravím, děkuju.
+[06:27] Čau, čau, čau.
+[06:39] Jedna z takových hodně pozitivních věcí lidí.
+[06:43] Čau, čau.
+[06:44] Je přátelé to.
+[06:46] Doufám, že to vidíte taky, aniž bych vám to musel říkat.
+[06:49] Pošli to, dej ku mně to, pošli.
+[06:51] Pošlu, pošlu.
+[06:53] Ahoj, čau, čau.
+[06:55] Tak to pozitivní přátelé.
+[06:57] Jo, tohle z toho samozřejmě berme.
+[07:01] V jiném slova smyslu.
+[07:03] To pozitivní pro mě je tohle, jo.
+[07:06] Dravíme Jiříka.
+[07:06] Ahoj, čau, čau.
+[07:08] Tohle je pro mě pozitivní.
+[07:10] Támhle je pozitivní.
+[07:11] Tohle je pozitivní.
+[07:16] Děkuju, děkuju.
+[07:19] Zdraví.
+[07:19] Taky zdraví.
+[07:20] Nebo teprve zkladám včera, co je dneska?
+[07:21] Ne, já jsem na to trénovanej.
+[07:25] Děkuju.
+[07:27] Chápete, co je to pozitivní?
+[07:29] To, co tady, to, co vám teďka natáčí.
+[07:32] Tohle je to pozitivní.
+[07:35] Tohle je pozitivní.
+[07:36] To je pozitivní, jo, vidíte?
+[07:38] To je to pozitivní.
+[07:40] Přátelé a...
+[07:42] On i ty vlajky nekončí.
+[07:43] Ježišmarja, názdar Honzine, čau.
+[07:47] Jo, děláte to dobře.
+[07:50] Děkuju, čau, čau.
+[07:59] Zdravím vás, zdravíčko.
+[08:01] A klid, jo, hlavně klid.
+[08:02] Ne, žádnej hlavní...
+[08:03] Ten klid, ten klid nás dovedl tam, kde dneska jsme.
+[08:07] 7,30 let, 7,30 let korektnosti a klidu
+[08:12] a jsme tam, kde jsme.
+[08:13] Tedy totální prdeli.
+[08:15] Tak, přátelé, je vám jasný teda, o co mi jde, jo?
+[08:21] To pozitivní.
+[08:25] Ahoj, čau, synčo.
+[08:27] Karlovi Vary, zdravím!
+[08:28] Zdravím Karlovi Vary.
+[08:32] Tohle je to pozitivní, jo, přátelé?
+[08:35] Tohle je to pozitivní.
+[08:43] Pěvačku od...
+[08:44] Od srákovky.
+[08:46] My jsme Vary doma.
+[08:54] Je za mě pozitivní.
+[08:56] Tohle je úžasný.
+[09:09] Zdravíčko, žecky.
+[09:10] Ahoj, ahoj.
+[09:18] Jo, vidíte?
+[09:18] Ten let.
+[09:19] To je on.
+[09:20] Tak, výborně, přesně.
+[09:26] Naši kolaboranči.
+[09:28] Tohle jsou naši kolaboranči.
+[09:30] Čau, čau, chlapi.
+[09:34] Tady to máte.
+[09:35] Jo, přesně tak.
+[09:37] Pekarová, němcová, Fiala,
+[09:39] Vystrčil, já si jeho jméno
+[09:41] tak zapamatuju jednou.
+[09:43] Pak tady máte Velezráce,
+[09:45] zmrdašek, zmrdů, České republice,
+[09:48] rádový prezident.
+[09:49] Vedle toho máte oficiálního
+[09:52] neonacistu,
+[09:53] Hermána.
+[09:55] Ježíše.
+[09:57] Hermán.
+[09:59] Ty vole, je to možný,
+[10:02] že já jsem takhle, ty vole.
+[10:04] To je neuvěřitelný.
+[10:06] Jak on se jmenuje?
+[10:08] No zkrátka, vyznamené nejsou to německým Landsmannschaftem.
+[10:10] No a na závěr tady máte
+[10:12] dva idioty.
+[10:14] Z dnešních generací.
+[10:16] A to je jistý Havel.
+[10:18] A vedle něho máte eurohujerskou
+[10:20] štětku.
+[10:22] Sinátora, tatínka.
+[10:24] To je na hradě a dělá nám vlastně
+[10:26] neoficiálně prezidenta.
+[10:28] Takže geniální, díky.
+[10:30] Čau, čau.
+[10:43] Máme pro ty naše
+[11:04] krajany. Daniel
+[11:07] Herman, už jsem si vzpomněl na toho
+[11:09] hajzla.
+[11:18] Čau, čau. Tak a tady
+[11:21] máme další naši píchu.
+[11:23] Já jsem kouzelný pořád, jenom to
+[12:03] ještě stále lidi nechápou.
+[12:05] Tohle je ten příklad, který tady nechci
+[12:39] vidět.
+[12:40] Ježišmarja, nastár.
+[12:44] Zdravíčko.
+[12:48] Čau.
+[12:51] Dobrý, dobrý. Zdravím, zdravím.
+[12:53] Dekrety platí.
+[12:55] Němci boubelačí.
+[12:59] To je dobrý.
+[13:07] Děkuju, děkuju. Tak to máme
+[13:13] pro naše krajany, aby si to mohli
+[13:15] přečíst. Od
+[13:17] Arnošta Lustiga.
+[13:20] Němci se musí chovat minimálně.
+[13:22] V příštích 10
+[13:24] tisíc let slušně, aby se
+[13:26] s nimi mohli bavit, jako
+[13:28] s lidskými bytostmi.
+[13:30] Arnoš Lustig.
+[13:46] Zdravíčko, zdravíčko.
+[13:50] Tak. Čau.
+[13:52] Nazdar. Tak, tohle chcete?
+[14:02] Tohle chceme.
+[14:04] Za to tady se všichni cinkali
+[14:07] osmdesátým, devátým.
+[14:09] Toto opět chceme.
+[14:11] Chceme poslouchat takový smrdy
+[14:13] z magistrátu města Brna.
+[14:15] Takový velezrádce, jak jsou
+[14:17] na Praze, na pražským hradě.
+[14:19] Ten, co se dojednává s lidskými
+[14:21] krnštejnama. Tohle chceme.
+[14:23] A les
+[14:31] československých vlajek nekončí.
+[14:33] Čau, čau.
+[14:35] Les československých
+[14:37] vlajek, českých vlajek
+[14:39] nekončí.
+[14:41] A máme tady zástupce moravských
+[14:43] vlajek. Čau, čau.
+[14:46] Mám.
+[14:50] Čau. A to je to, co jsem
+[14:53] chtěl říct. Ahoj, Pečo.
+[14:55] Ahoj, Haničko.
+[14:58] To je to, co jsem chtěl vám říct.
+[15:00] To je
+[15:02] to, co nás spojuje a co nás může
+[15:04] spojit. A co, čau,
+[15:06] co se vám snažím říct jedenáct
+[15:08] let. Tohle jsou
+[15:10] naše barvy. Jedině tohle
+[15:12] nás může propojit, tohle nás může
+[15:14] spojit.
+[15:16] Tohle nám může vytvořit naši
+[15:18] sounáležitost.
+[15:20] Naše barvy. Ty patří
+[15:22] o všem. Žádným politickým
+[15:24] stranám, žádným politickým hnutím.
+[15:26] Naše barvy.
+[15:31] A to je úžasný, že les našich
+[15:33] vlajek nekončí.
+[15:35] Já vás všechny zdravím, přátelé.
+[15:37] Tak, smíření.
+[15:44] Jo? Tak jste
+[15:46] s výsledkem druhé světové války.
+[15:48] Skvělý. Děkujem.
+[15:53] Čau, čau.
+[15:57] Zdar, chlapi.
+[15:59] To je to pozitivní.
+[16:01] Ahoj.
+[16:03] Tohle je to pozitivní.
+[16:05] Čau, chlapi.
+[16:08] Naše barvy.
+[16:12] Tohle je taky dobrý.
+[16:19] Toto je dost dobrý.
+[16:21] Nebylo by odvědci se domluvit,
+[16:23] a takhle to vytvořit
+[16:25] v takovém určitý, taková malá četa
+[16:27] by to mohla být třeba příště.
+[16:29] No a přátelé.
+[16:33] Ale prosím tebe.
+[16:38] Slyšíte, nemám se rozčílovat. Čau.
+[16:40] Ne, přátelé. Já se nerozčíluju.
+[16:42] Už jsem si s tebou dlouho nepodal ruce.
+[16:45] Zdravím tě. Taky tě zdravím.
+[16:47] Naposledy v Praze.
+[16:49] No, tak to už bývalo.
+[16:54] Tady přesně zrádci brněnského magistrátu
+[16:56] otevřeli dveře potomkům
+[16:58] nacistům.
+[17:00] Jsme zde potomky tyraniů a vrahů.
+[17:02] A o tom to je.
+[17:04] Takže, přátelé,
+[17:06] 25 minut
+[17:08] a jsme na konci pochodu.
+[17:10] Na to, že je neděle,
+[17:13] že lidé
+[17:15] v pondělí půjdou do práce,
+[17:17] jo,
+[17:19] můžete určitě.
+[17:23] Není za co.
+[17:25] Na to, že je neděle, přátelé,
+[17:30] že lidé, jak jsem říkal,
+[17:32] budou muset obětovat o svoje pohodlí,
+[17:34] protože mnoho a mnoho z nich pojede
+[17:36] hodiny a hodiny domů
+[17:39] a budou v pondělí
+[17:41] samozřejmě do práce.
+[17:46] Tak jo, já jsem rád
+[17:48] za všechny, co přišli.
+[17:50] Díky Bohu za to.
+[17:53] A znovu opakuju.
+[17:57] Tahle myšlenka, to, co jsem řekl,
+[18:00] že jedině naše národní barvy
+[18:02] nás můžou spojit celou dobu,
+[18:04] celou dobu,
+[18:06] nejenom já.
+[18:08] Když si to byla nějaká Zuzánka,
+[18:10] která napsala na Facebook,
+[18:12] pojďme si dát
+[18:14] naši trikolóru, na klopu,
+[18:16] na tričko,
+[18:18] na bundu,
+[18:21] aby jsme věděli, aby oni věděli.
+[18:23] Nazvalo se to
+[18:25] Zuzančinou výzvou.
+[18:27] Měl jsem za to, že by to mohlo mít
+[18:30] naději,
+[18:32] kdepak ještě jsme to nepochopili.
+[18:34] A
+[18:38] tahle věc,
+[18:40] kdy
+[18:42] jsou tady ty naše barvy,
+[18:45] to je to, co vytváří spojení.
+[18:47] To je to, co opravdu nás může
+[18:49] spojit, co nás nemůže rozhádat,
+[18:51] kde nevidíme ty konflikty,
+[18:53] protože
+[18:55] každý drží tu svoji, nebo tu naši
+[18:57] hrdost, společnou hrdost.
+[18:59] No? Moravské,
+[19:02] české, viděl jsem tady i slovenskou vlajku.
+[19:04] A to je to,
+[19:07] to jsou ty naše barvy.
+[19:09] Tohle nás, jedině tohle nás může spojit.
+[19:11] Čau, čau, čau.
+[19:15] Já jsem si říct sebou,
+[19:17] já jsem z Jeseníku, já jsem si říct
+[19:19] slovenskou vlajku. Jo, jo, jo, je to pravda, no.
+[19:21] Slezané tady, jak
+[19:24] nějak, nejsou zastoupeny. Vidím jenom
+[19:26] jednu. Jedna tady
+[19:30] je, jedna ta vlajka tam je.
+[19:32] Ta slezká.
+[19:38] A ta vlajka slezká, já vám ji ukážu,
+[19:40] je spojená
+[19:42] i s moravskou
+[19:44] a s naší československou
+[19:46] a ta je zde.
+[19:48] A chtělo by to, aby to bylo houšť.
+[19:51] Aby jich bylo houšť.
+[19:53] Tamhle je, tamhle je ta vlajka,
+[19:55] co vidíte.
+[19:58] Tady se strašně moc zamlouvá.
+[20:00] Obsahuje ty naše barvy
+[20:02] moravskou orlici a
+[20:04] je to kamarád Aleš Macek
+[20:06] a já mám od něho
+[20:08] dvě tyhle vlajky
+[20:10] a jedna ta vlajka je ještě dokonalejší
+[20:12] a to je, že ta orlice,
+[20:14] kterou teďkom tady má,
+[20:16] která je ta moravská,
+[20:18] tak je napůl s tou slezkou.
+[20:20] A za mě
+[20:22] ideální stav pro takovou
+[20:24] len z tu vlajku.
+[20:26] Ale samozřejmě, jak kdo to vnímá,
+[20:28] ale rozhodně prostě,
+[20:32] naše vlajka
+[20:34] je ta, co nás může spojit.
+[20:36] Tyhle barvy.
+[20:40] Proto já jsem strašně rád,
+[20:42] že jsem tady viděl jenom takovej
+[20:44] jeden zárode KSČM.
+[20:46] Jo?
+[20:49] Tohle není naše, tohle nejsou naše barvy.
+[20:51] To jsou ty politické.
+[20:53] Ano, chápu
+[20:55] politické strany,
+[20:57] chápu jejich programy,
+[20:59] chápu, že mají
+[21:01] v těch programech ty
+[21:03] krásné slogany o tom, co by chtěli
+[21:05] udělat. A třeba to myslí
+[21:07] i upřímně.
+[21:09] Ale co z toho? Co z toho, když ten
+[21:11] systém funguje tak, jak funguje?
+[21:13] Máme
+[21:15] tu rádoby parlamentní
+[21:17] demokracii. A co z toho?
+[21:20] Pardon, pardon.
+[21:24] Máte v ústavě
+[21:27] článek, že lid
+[21:29] může volit přímo,
+[21:31] anebo za pomoci
+[21:34] svých svobodně
+[21:36] demokratických zvolených zástupců?
+[21:38] Už jsme se o tom mockrát bavili.
+[21:40] Kolikrát jsme volili
+[21:43] přímo?
+[21:45] Čau, čau.
+[21:47] Zdravíčko. Kolikrát jsme volili přímo?
+[21:49] Ano, bylo to jednou.
+[21:52] A bylo to, když jsme
+[21:54] lezli Evropské unii
+[21:56] z zutí
+[21:58] před klonu, hlavu natřenou
+[22:00] lubrikačním gelem a lezli jsme
+[22:02] Evropské... Zdravíčko.
+[22:04] Lezli jsme Evropské unii do prdele.
+[22:06] Tak to bylo jedinkrát,
+[22:08] kdy my jsme volili přímo.
+[22:10] Jinak
+[22:13] celých sedma třicet let
+[22:15] od
+[22:18] rádovy sametové revoluce, tedy toho
+[22:20] podvodu, toho převratu,
+[22:22] tak za nás rozhodovali
+[22:24] ti rádovy zákonní zástupci.
+[22:26] Ti, co mají mít
+[22:28] to blaho na tom srdci
+[22:30] té České republiky a nás občanů.
+[22:32] Ti tady rozhodují
+[22:34] o této zemi, o naší zemi,
+[22:36] o naší vlasti. Sedma třicet let.
+[22:38] A teď si odpověste
+[22:40] sami na tu otázku.
+[22:42] Kam jsme se dostali za těch
+[22:44] sedma třicet let?
+[22:46] Kam jsme se za těch sedma třicet let dostali?
+[22:48] Kde je naše Československo?
+[22:52] Kde jsou ty naše hodnoty?
+[22:54] Kde jsou naše železárny,
+[22:56] průmysl, naše zemědělství,
+[22:58] naše školství?
+[23:00] Kde to máte?
+[23:02] Sedma třicet let rozhodování těch našich
+[23:04] svobodně demokratických zástupců.
+[23:06] A pořád a pořád
+[23:08] znova a znova
+[23:10] za ty čtyři roky tam znova jdeme
+[23:12] a znova jim dáme ten svůj život.
+[23:14] Znova jim ho dáme,
+[23:16] odevzdáme na čtyři roky.
+[23:18] A co z toho? Nic.
+[23:21] V roce 2004, než jsme vlezli do prdele
+[23:23] těm nacistům,
+[23:25] než té Evropské unie,
+[23:27] tady v tomhle spolku,
+[23:29] tak jsme měli, dejme tomu,
+[23:31] státní dluh
+[23:33] nějakých 450-460 miliardů.
+[23:35] V roce 2004
+[23:37] potom,
+[23:40] po dalších dvanáct, po dalších
+[23:42] dvaadvaceti letech,
+[23:44] tam v té Evropské prdeli,
+[23:46] tak jsme na dluhu,
+[23:49] na svém dluhu,
+[23:51] to není náš dluh,
+[23:53] to není náš dluh,
+[23:55] to je politický dluh,
+[23:57] ale bohužel, bohužel my žijeme v této zemi
+[23:59] a bohužel jsme všichni společně
+[24:01] v prdeli, tak ten dluh
+[24:03] za 22 let vzrostl
+[24:05] o tři biliony,
+[24:07] o tři biliony korun.
+[24:09] A nám je to pořád
+[24:11] jedno a my zase půjdeme k volbám.
+[24:13] Myslím si, že bysme se už zatím
+[24:16] konečně, třeba, mohli
+[24:18] zamyslet. Co říkáte?
+[24:20] Co říkáte?
+[24:23] Nebylo by nádherný, kdybychom pochopili,
+[24:25] že opravdu to jediné,
+[24:27] co nás může spojit,
+[24:29] jsou tyhle ty barvy,
+[24:31] a že pokud něco chceme po politických
+[24:33] a politických stranách, tak to musíme chtít společně
+[24:35] a musíme chtít, aby už začali
+[24:37] konečně pracovat pro náš národ
+[24:39] a ne nějaký kompromisy,
+[24:41] ne nějaký koaliční posraný dohody.
+[24:43] Zdravím.
+[24:47] Chápete to, přátelé? Nebo jako fakt si
+[24:49] myslíte, že mě tohle jako
+[24:51] přichází jen tak na úma,
+[24:53] jen tak vám to vykládám,
+[24:55] že to je můj
+[24:57] výmysl? Není. Ne.
+[24:59] Já myslím, že to musíte chápat už i vy,
+[25:02] ne? Po těch 637 letech
+[25:04] té naprosté katastrofy.
+[25:06] Kde dneska žijeme?
+[25:08] V čem to žijeme? Jak je naše společnost
+[25:10] rozdělená?
+[25:14] Teď si jenom řekněte, kdyby tady byl ten
+[25:16] průvod těch ostatních,
+[25:18] jo? Těch fiavovo-modro-žlutejch.
+[25:20] Dovedete si představit,
+[25:22] co by tady vlálo za vlajky?
+[25:24] No jasně, plno
+[25:27] ukrajinských hadrů by tady bylo.
+[25:29] Vůbec bych se nedivil, kdyby sem přišel někdo
+[25:31] i s hadrem neonacistické
+[25:33] strany ukrajinské,
+[25:35] pravý sektor.
+[25:37] Vůbec bych se tomu nedivil,
+[25:39] protože co? No, protože náš
+[25:41] bývalý
+[25:43] ministr vnitra,
+[25:45] Rakušan, se procházel,
+[25:47] z neonacisty na letenské
+[25:49] plání. A bylo to úplně v pohodě.
+[25:51] Nikomu se nic nedělo.
+[25:53] Takže kdyby tady byl průvod
+[25:55] těch novodobých neonacistů,
+[25:57] kteří, tím je úplně,
+[26:00] úplně jim je jedno, je jim jedno,
+[26:02] co se tady předvádí,
+[26:04] sude toho německého lancmanča,
+[26:06] že tady tyhle svině tady
+[26:08] vraždili nedaleko
+[26:10] kaunicovy koleje.
+[26:12] A tady se bude něco vykládat
+[26:14] o nějakým smíření.
+[26:16] Když vám ber posel bez problému
+[26:18] myslí, že se mu nelíbí,
+[26:20] a to řekl, to řekl před třema
+[26:22] týdnama, že se mu nelíbí naše
+[26:24] dekrety, dekrety
+[26:26] prezidenta Československa Edvarda Beneše.
+[26:28] Tohle řekl nedávno
+[26:30] ber posel. Ale co naše
+[26:33] ta vládní garnitura,
+[26:35] ta opozice, nijak
+[26:37] moc na to nereagovala, ta vláda, co říkáte?
+[26:39] Bylo jim to tak nějak jedno,
+[26:41] nemyslíte?
+[26:43] A opozice?
+[26:46] Tak to je naprosto,
+[26:48] to je škoda mluvit.
+[26:50] Tyto jsou gaunezi.
+[26:52] Šmejdi zrádci
+[26:55] svého vlastního národa.
+[26:57] Čau.
+[27:00] Ty jen se vyjadřovali o tom, jak se
+[27:02] sudet o německý lancmáč a chce smířovat.
+[27:04] Co je z toho smíření?
+[27:06] Támhle nějaká žranice
+[27:08] pod koněm Jošta.
+[27:10] Vyhlašování toho, že
+[27:13] Benešovi dekrety se
+[27:15] ber tu poseltovi nelíbí.
+[27:18] Ale ne, oni se chcou smířit.
+[27:20] Jasně.
+[27:22] Michal Svatoš ve videu předložil,
+[27:24] co říká jejich
+[27:26] krajský nějaký předseda
+[27:28] sudeto německýho lancmáča.
+[27:31] Že nepotřebujou odstraňovat
+[27:33] dekrety Beneše.
+[27:35] Že to za ně udělá naše budoucí generace.
+[27:37] Že ještě stačí pár let
+[27:39] a těmhle s těm budoucím
+[27:41] generacím se totálně
+[27:43] vymýdlí hlava, jakože se to děje.
+[27:45] A oni sami
+[27:47] řeknou, my to nepotřebujeme.
+[27:50] A tohle je ten pruser.
+[27:52] A tomuhle se musí zabránit.
+[27:54] Jak tomu zabráníme?
+[27:59] Řekněte mně, jak tomu zabráníme?
+[28:01] Vždyť na poslední volbě
+[28:05] jsme se všichni tady přemýšleli,
+[28:07] že by to mohlo být lepší.
+[28:09] Že by všechny ty věci,
+[28:11] co tady napáchal
+[28:13] ten hoštapler, ten gauner Fiala
+[28:15] a spol, že by se mohly napravit.
+[28:17] Co se z toho napravilo?
+[28:20] Ale dobře,
+[28:22] člověk chápe,
+[28:24] tady Fialová banda zločinců
+[28:26] nechala v rozpočet
+[28:28] totálním rozkladu.
+[28:30] Takže ano, nová vláda to má obrovsky těžké.
+[28:32] Ale
+[28:34] tady máme příklad.
+[28:37] První problém, obrovskej problém
+[28:39] pro naši republiku
+[28:41] a páni poslanci a parlament
+[28:43] se k tomu postavil tak,
+[28:45] že my se vyjádříme,
+[28:47] že jsme proti,
+[28:49] ale tím to končí.
+[28:51] Tak to ne, to ne.
+[28:53] A jestliže nechceme,
+[28:55] aby se tohle opakovalo příští rok
+[28:57] v Liberci,
+[28:59] tak se k tomu musíme kurva jinak postavit.
+[29:01] Doufám,
+[29:05] že to stačilo.
+[29:07] Takže ještě jednou,
+[29:09] nádherné, pozitivní,
+[29:13] 200, 300, možná 400 vlajek
+[29:15] Československa,
+[29:17] dnes České republiky,
+[29:20] vítězí v tomhle
+[29:22] pochodu
+[29:24] tyto vlajky vítězí.
+[29:26] Teď je potřeba,
+[29:28] aby jsme tohle vítězství
+[29:30] proměnili ve skutečné vítězství.
+[29:33] Aby jsme zrušili
+[29:35] takovýhle svinctva,
+[29:37] aby vůbec na to někdo jenom
+[29:39] nemyslel.
+[29:54] Tak pro nebrňáky,
+[29:57] radnice města Brna,
+[30:00] za těmihle stmy
+[30:03] přídlijou si
+[30:06] kolaboranti,
+[30:10] z ODS
+[30:14] 09, nacisti
+[30:16] z KDU Česel,
+[30:19] z Pirátů, ahojte žensky,
+[30:21] z Pirátů
+[30:28] Destanu,
+[30:31] a to, že to jsou
+[30:33] zrádci, že nemyslí
+[30:35] především na Českou republiku
+[30:37] a nemyslí na občany
+[30:39] České republiky,
+[30:41] tak tady máte důkaz.
+[30:44] Tady máte důkaz.
+[30:52] Magistrát města Brna,
+[30:55] a my jsme vlastně v takovým Lvově,
+[30:57] nebo přímo v Kijevě,
+[30:59] neonacistický
+[31:04] nacistický režim
+[31:06] podporuje Česká republika
+[31:08] na takových magistrátech,
+[31:10] jako je právě
+[31:12] magistrát města Brna.
+[31:15] Teď jsem sdílel video,
+[31:17] kde Markétka Vaňková
+[31:19] odpomněla svoji rodnou řeč
+[31:21] a na sjezdu sudetu německého
+[31:23] Landsmannschaftu
+[31:25] mluvila Němcům,
+[31:27] našim krajanům,
+[31:29] německy. Tak jak kdysi Daniel Herman
+[31:31] nazval
+[31:33] sudeťáky, henlajnovce
+[31:35] našimi krajany,
+[31:37] tak se k tomuto verbeži, jako je Herman,
+[31:39] přidala Vaňková.
+[31:41] Ale čemu se divit,
+[31:43] když legálně tato osoba
+[31:46] zjíždí
+[31:48] lajdy koksu?
+[31:50] Dobrý den,
+[31:52] nezulegenda!
+[31:54] Dobrý den, nezulegenda!
+[32:01] Tak, přátelé,
+[32:03] čau, čau, čau,
+[32:05] máš takovou panoušku? Jo, jo, jo,
+[32:07] ale ono stačí se těch debilů nechčímat
+[32:09] a daj pokoj.
+[32:11] A já zavolám policajty
+[32:13] a to je bez problémů.
+[32:15] Tak jo, přátelé, já se s vámi prozatím loučím,
+[32:17] popatrujte se,
+[32:20] no a
+[32:22] přemýšlejte trošičku, třeba,
+[32:24] o tom, co jsem vám řekl.
+[32:26] A já vám za to ze srdce děkuji,
+[32:28] když půjete o tom přemýšlet.
+[32:30] Popatrujte se!
