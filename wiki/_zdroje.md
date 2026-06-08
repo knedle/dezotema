@@ -1910,4 +1910,12 @@
 - **Délka:** 02:04:41
 - **Poznámka:** Pravidelné nedělní vysílání. Klíčová témata: tři fáze konfliktu Západ–Rusko (Majdan → invaze → terorismus 2026); útok na internátní školu (21 studentek) a dítě v Geničesku; Oriešník jako jaderná demonstrace; ČR jako zbrojní centrum (Strnad/CSG, Macinka v Kongresu); Kolář–Hokovský–Janeček jako projekt Petr Pavel; CBDC/digitální euro jako nástroj Velkého Resetu; deportace Ukrajinskych mužů odmítnuty; parlamentní opozice = součást systému; zklamání z demonstrace v Brně (Zeman, Sládek napaden); kryptoměny: sledování a kvantové hrozby.
 - **Zpracováno:** ano
+
+## Československo TV2 — Korespondence s ČT (1. 6. 2026) {#československo-tv2--korespondence-s-čt-1-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-01_Československo-TV2_Videoportál_2.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko, Facebook Live)
+- **URL:** <https://m.facebook.com/watch/?v=26309279928745181&_rdr>
+- **Datum záznamu:** 2026-06-01
+- **Délka:** 01:08:36 | Zhlédnutí: 486
+- **Poznámka:** „31/5 KORESPONDENCE S ČT". Zítko čte celou e-mailovou výměnu s referentkou ČT pro výběr poplatků: odmítá platit „výpalné", cituje §2 zák. 483/1991 o objektivitě a vyváženosti, ČT označuje za mediálního spolupachatele „zabíjení" očkováním (Norimberský kodex, propad porodnosti), hrozí mezinárodní žalobou (ICCPR 1966). Příměr „porno pro zahrádkáře". Tři příklady porušení: COVID propaganda, ignorace Zítkovy kandidatury 2022 (6 kandidátů Aspen Institutu), rozsudek Harabina (Rusko není agresor). Barry Young (NZ): smrtnost šarží Pfizer (21,4 %); vatikánský deník 1989 o mikročipech a „prasečí šipce". Závěr: pozvánka na webinář WELL ZONE (vagus nerv, frekvence).
 - **Zpracováno:** ano

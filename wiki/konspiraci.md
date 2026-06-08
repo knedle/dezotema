@@ -57,6 +57,14 @@ Boldy tvrdí, že vzduch v Evropě je záměrně kontaminován chemtrails (geoen
 
 ---
 
+### Dlouhodobě plánovaná „plandemie" — vatikánský deník 1989 (Zítko, 1. 6. 2026)
+
+Zítko ve vysílání 1. 6. 2026 prezentuje jako „důkaz" dlouhodobého plánování pandemie článek, který prý vyšel 1. srpna 1989 v oficiálním vatikánském deníku — tedy 37 let před vysíláním a ještě „za Československa". Článek měl nést titulek „Velký bratr se blíží" a odhalovat „tajný plán na označení každého muže, ženy a dítěte" kódovanými mikročipy implantovanými do každého člověka na světě, propojenými s centrálním počítačem schopným kohokoliv kdykoliv lokalizovat. Klíčová citace, kterou Zítko opakuje: „Vše, co bude muset vláda udělat, je vymyslet něco jako prasečí šipku a vakcínu proti ní." Zítko to spojuje s prasečí chřipkou roku 2009 (20 let po článku) i s pozdějším covidem jako naplněním téhož scénáře.
+
+**Zdroje:** [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026)
+
+---
+
 ## Okultismus
 
 ### Trump jako démonická entita — „Moon Child"

@@ -393,6 +393,23 @@ Pfizer na federální úrovni v USA dostal generální pardon od nežádoucích 
 
 ---
 
+### Barry Young (Nový Zéland): konkrétní čísla smrtnosti šarží Pfizer (Zítko, 1. 6. 2026)
+
+Zítko ve vysílání 1. 6. 2026 sdílí novozélandského informátora Barryho Younga, který dle Zítka prohledal vládní zdravotnickou databázi a byl za zveřejnění „smrtících šarží" zatčen po domovní prohlídce. Konkrétní čísla, která Zítko cituje:
+
+- **Šarže 1**: 152 úmrtí ze 711 očkovaných = 21,4 % zemřelo (těchto šarží mělo být údajně 26 000)
+- **Šarže 2**: 38 úmrtí z 221 = 17,2 %
+- **Šarže 3**: 48 úmrtí z 310 = 15,5 %
+- **Běžná míra úmrtnosti** za stejné období byla dle Younga pouze 0,75 %
+
+Young dle Zítka uzavírá, že statistická pravděpodobnost náhodnosti takových čísel je „1 ku 100 miliardám" — tedy je „statisticky nemožné, aby tato vakcína lidi nezabíjela", zejména u šarží začínajících písmenem „E". Zítko připojuje vlastní rámec: úmrtí nenastávala ihned po vpichu (to by vyvolalo ostražitost), ale v tempu 3–5 let. Doplňuje i další čísla z řečí jiných aktérů: Helmut Sterz v Bundestagu — 60 000 mrtvých jen po Pfizeru v Německu; britský poslanec — 150 milionů celosvětově; Tucker Carlson — 17 milionů.
+
+⚡ **Konflikt:** Novozélandská zdravotní data o úmrtnosti šarží Barryho Younga (zaměstnance Te Whatu Ora) byla nezávisle vyhodnocena jako statisticky chybná interpretace — čísla nezohledňují, že nejstarší šarže byly podány nejstarší a nejnemocnější populaci. Regulační orgány tvrzení o stonásobně vyšší smrtnosti šarží nepotvrdily.
+
+**Zdroje:** [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026)
+
+---
+
 ### DNA kontaminace a grafen ve vakcínách — Peková a Turánek (beseda 14. 5. 2026)
 
 Soňa Peková na besedě ve Zlatých Moravciach (14. 5. 2026) prezentovala nové nálezy z analýzy šarží vakcín:
@@ -636,9 +653,11 @@ Za českou stranu vystupovala Dr. Soňa Peková, jejíž projev byl dle ČsTV2 o
 
 Komentátor ČsTV2 tvrdí, že za čtyři roky (2022–2025) se v České republice narodilo o 35 tisíc dětí ročně méně než v roce 2021. Příčinu přičítá sníženému reprodukčnímu výkonu očkovaných žen — odvolává se na data ÚZISu z vzorku 1,3 milionu žen dle očkovacího statusu, která prý byla poskytnuta i administrativě Donalda Trumpa. Komentátor to označuje za „ojedinělý důkaz, který máme v korporaci Česko."
 
+Tezi opakuje i ve vysílání 1. 6. 2026: za čtyři roky o 30 % méně narozených (111 000 dětí v roce 2021 vs. 77 000 v roce 2025); dr. Kovařík prý vytáhl z ÚZISu data o 1,3 milionu žen dle proočkovanosti a „jednoznačně se potvrdilo", že propad je vinou nižší porodní výkonnosti očkovaných žen.
+
 ⚡ **Konflikt:** Pokles porodnosti je dokumentovaný demografický jev v ČR i jiných zemích, ale vědecký konsensus ho nepřičítá vakcínám.
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026), [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026)
 
 ---
 

@@ -274,6 +274,18 @@ Vedle Zítka spustila kampaň za vrácení poplatků i ČsTV2. V pořadu z 7. 5.
 
 ---
 
+### Korespondenční válka Zítka s ČT o vrácení poplatků (1. 6. 2026)
+
+Ve vysílání z 1. 6. 2026 Zítko přečetl celou dosavadní e-mailovou výměnu s referentkou ČT pro výběr poplatků — text, který původně sepsal na žádost diváků, aby se mohli „bránit vymahačům výpalného". Zítko v něm žádá vrácení všech poplatků zaplacených od 12. 3. 2020 a opírá se o §2 odst. 2 písm. a) zákona č. 483/1991 Sb. (povinnost poskytovat objektivní, ověřené a vyvážené informace), který dle něj ČT trvale porušuje. Tři klíčové příklady jsou totožné s jeho dřívější argumentací (viz [Zákon č. 483/1991: tři příklady porušení, 4. 5. 2026](#zákon-č-4831991-tři-zdokumentované-příklady-porušení--argument-zítka-proti-placení-poplatků-4-5-2026)): COVID propaganda, ignorace jeho prezidentské kandidatury 2022 (ČT prý preferovala šest kandidátů „z linie Aspen Institute" — Pavel, Babiš, Nerudová, Fischer, Gilčer, Středula — a komolila mu jméno na „Jan Řídko / Petr Řídko") a ignorování slovenského rozsudku JUDr. Harabina (13. 1. 2026), že Rusko není agresor.
+
+Výměna eskalovala: referentka odpovídala formulářovými dopisy, které dle Zítka „jako kdyby e-mail ani nečetla" — proto ji v odpovědích oslovoval stále ostřeji („Paní Vymahačko, opravdu nevím, jestli máte nějaký kognitivní psychický problém se čtením textu"). ČT pracovníky obecně označil za „mentálně retardované jedince na pozici redaktorů". Jako rétorickou pomůcku použil příměr: je to prý stejné, jako kdyby placený porno-kanál vysílal 24 hodin pořady pro zahrádkáře (nebo naopak) — předplatitelé by oprávněně žádali vrácení peněz za obsah v rozporu s deklarovaným zaměřením. Zítko zároveň zformuloval širší obvinění: ČT je „mediální spolupachatel zabíjení", protože od 12. 3. 2020 nekriticky propagovala „experimentální genovou terapii", čímž porušila Norimberský kodex a podílela se na úmrtích, poškození zdraví i na propadu porodnosti. Hrozí mezinárodní žalobou na referentku osobně i na ČT podle Mezinárodního paktu o občanských a politických právech (ICCPR, 1966) a požaduje odškodné „v milionech korun".
+
+> „Koncesionářské poplatky není možný nazývat jinak než výpalné." — Pavel Zítko, [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026)
+
+**Zdroje:** [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026)
+
+---
+
 ### Facebook omezuje dosah ČsTV2 (7. 5. 2026)
 
 ČsTV2 ve vysílání z 7. 5. 2026 informovala o systematickém omezování dosahu své facebookové stránky ze strany platformy. Označuje to za součást širšího vzorce cenzury alternativních médií na sociálních sítích — podobně jako blokování jejích profilů Evou Decroix (viz [Fiala/Decroix Facebook live: cenzura otázek, 22. 4. 2026](#fialadeckroix-facebook-live-cenzura-otázek-jako-normální-politická-praxe-zítko-22-4-2026)).
