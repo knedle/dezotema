@@ -409,6 +409,16 @@ Peková z těchto nálezů vyvozuje systémové utajování složení vakcín a 
 
 ---
 
+### Jedna šarže Pfizer: stovky nežádoucích účinků, 2 úmrtí — data ÚZISu (Rajchl, 31. 5. 2026)
+
+Rajchl ve vysílání z 31. 5. 2026 odkazuje na data ÚZISu, která zveřejnila investigativní novinářka Markéta Dobijášová: jedna jediná šarže vakcíny Pfizer způsobila stovky hlášených nežádoucích účinků, přičemž přibližně polovina z nich byla závažných (stavy bezprostředně ohrožující život, bezvědomí). Ve dvou případech šlo o úmrtí. Rajchl to označuje za přímý důkaz, že vakcíny „nebyly bezpečné," a situaci popisuje jako „absolutní hazard se zdravím mladých lidí a těhotných žen." Zároveň odkazuje na německé výzkumy dokazující, že šarže se lišily svou nebezpečností, a hodnotí celou akci jako „masivní experiment na lidech."
+
+> „Jenom jedna šarže. Jenom jedna šarže. A nám tady bylo celou dobu vyprávěno, jak se jedná o super bezpečnou věc." — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+---
+
 ## Volání po tribunálu
 
 ### Tečka za covidem: tribunál pro odpovědné
@@ -506,6 +516,14 @@ Zítko sdílí a komentuje vystoupení Dr. Helmuta Sterze (dlouholetý toxikolog
 Tarabová informuje o hlasování sněmovního výboru pro zdravotnictví (29. dubna 2026) o Národní očkovací strategii (NOS). Výbor má 25 členů (14 koalice ku 11 opozice) — hlasování proběhlo v koaliční většině. Jediný, kdo byl otevřeně proti, byl poslanec SPD Dr. Sýla; Jindřich Rajchl byl přítomen jako nehlasující pozorovatel (jako europoslanec má právo navštívit jakýkoli výbor). NOS připravená pod ministerstvem Válka byla dle Tarabové neoprávněně schválena karetářskou vládou Petra Fialy, která v té době již byla v demisi. WHO označuje za soukromou organizaci financovanou Billem Gatesem. Jako škodlivé účinky očkování uvádí autismus, ADHD, ekzémy, alergie a onkologická onemocnění u dětí. Vyzývá k odmítnutí jakýchkoli nátlaků: „nátlaky jsou pro otroky." Připomíná komunální volby 9.–10. října 2026 a výměnu 27 senátorských křesel jako příležitost ke změně.
 
 **Zdroje:** [Tarabová — NOS: hlasování výboru pro zdravotnictví, 2026-04-30](_zdroje.md#lenka-tarabová--nos-hlasování-výboru-pro-zdravotnictví-30-4-2026)
+
+---
+
+### Rajchl: NOS jako pumpování veřejných peněz do farmabiznisu (31. 5. 2026)
+
+Rajchl odmítá Národní očkovací strategii jako „pumpování veřejných peněz do soukromého biznisu" farmaceutických firem. Stát podle něj nemá financovat propagaci a distribuci očkování pro mladé a zdravé lidi, kteří jej nepotřebují, a označuje celou iniciativu za servis farmaceutickému průmyslu na úkor daňových poplatníků. Chce strategii zastavit.
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
 ---
 

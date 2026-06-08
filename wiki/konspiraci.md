@@ -397,3 +397,11 @@ Druhým zdrojem je Tulsi Gabbard (tehdy šéfová amerických tajných služeb, 
 Vrabel označuje USA za podezřelé číslo jedna i ve věci úniku koronaviru — s odkazem na Fauciho vazby na wuhanskou laboratoř.
 
 **Zdroje:** [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)
+
+---
+
+### Biolaboratoře USA na Ukrajině: 40 z 120 — Gabbard a Hegseth potvrdili (Rajchl, 31. 5. 2026)
+
+Rajchl navazuje na Vrabelovo reportování z 25. 5. 2026 a cituje článek New York Post: Tulsi Gabbard (ředitelka Národní rozvědky USA) a Pete Hegseth (ministr obrany USA) potvrdili, že USA financuje a provozuje 120 biolaboratoří po celém světě, z toho 40 na Ukrajině. Rajchl označuje tuto třetinu soustředěnou na jedné hranici s Ruskem za důkaz, že nejde o běžný „obranný výzkum." Gain-of-function výzkum (přidávání funkcí nebezpečným patogenům) má podle Rajchla jediné smysluplné vysvětlení: vývoj biologických zbraní namířených vůči Rusku. Připomíná výrok Viktorie Nulandové před Kongresem v roce 2022, kdy mluvila o nutnosti „zajistit" laboratoře, a označuje Bidenovu vládu za lhářskou. Gabbard laboratoře prý nyní zavírá.
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)

@@ -2064,3 +2064,15 @@ Ministr zahraničí Petr Macinka při jednání s americkým viceprezidentem J.D
 Benjamin Netanyahu rozkázal armádě, aby ignorovala podmínky příměří a dosáhla kontroly nad 70 % pásma Gazy (nyní 60 %). Zároveň prohlásil, že nedopustí, aby se USA stáhly z konfliktu s Íránem. Vrabel rozlišuje: není antisemita a respektuje Izraelce, ale nesouhlasí se sionistickým programem „Velkého Izraele" a jeho vojenskými prostředky.
 
 **Zdroje:** [Vrabel — Zprávy v devět 28. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-5-2026)
+
+---
+
+### Zelenský pojmenoval jednotku po UPA — důkaz nacistické ideologie, výzva k odebrání řádu Pavlovi (Rajchl, 31. 5. 2026)
+
+Rajchl komentuje rozhodnutí Zelenského pojmenovat jednu z vojenských jednotek po UPA (Ukrajinská povstalecká armáda) — organizaci, která za druhé světové války kolaborovala s nacistickým Německem a páchala masakry polského civilního obyvatelstva. Podle Rajchla jde o potvrzení toho, co „dezinformátoři" říkali celé roky: na Ukrajině ne náhodou vzkvétá nacistická ideologie, a mainstream to systematicky přehlíží.
+
+Rajchl oceňuje okamžitou reakci polského prezidenta Nawrockého, který navrhl odebrání Řádu Bílé Orlice Zelenskému, a vyzývá prezidenta Petra Pavla k totožnému kroku — má Zelenskému odebrat Řád Bílého Lva. Pavlovo mlčení označuje za důkaz dvojího standardu: ten, kdo pojmenuje jednotku po spolupracovnících nacistů, si státní vyznamenání od prezidenta demokratické země nezaslouží.
+
+> „Kde jste teď? Kde jste teď? Vážení přátelé z médií, vím moc dobře, že se na tohle díváte. Proč nenapíšete férově, že jsme měli pravdu?" — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)

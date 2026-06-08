@@ -481,3 +481,25 @@ A kolektivní vina se uplatňuje i vůči českým občanům: muž narozený v R
 Vláda schválila návrh akademického senátu JAMU (Janáčkova akademie muzických umění v Brně) na odvolání rektorky Barbary Marie Willi — jedním z důvodů bylo sundání ukrajinské vlajky z budovy školy. Vrabel interpretuje případ jako symptom toho, co označuje termínem „Česko-Ukrajinsko": česká veřejná instituce je potrestána za to, že trvala na vlastní identitě. Uvádí paralelu: Slávek Popelka seděl 6 měsíců ve vězení za pokus sundat ukrajinskoji vlajku z Národního muzea.
 
 **Zdroje:** [Vrabel — Zprávy v devět 28. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-5-2026)
+
+---
+
+### Boris Ruge: Pavel není pro NATO nezastupitelný, 2 % HDP — Rutte nekáral (Rajchl, 31. 5. 2026)
+
+Rajchl komentuje návštěvu Borise Rugeho (náměstek generálního tajemníka NATO) v Praze a tvrdí, že Ruge vyvrátil dvě ústřední Pavlova tvrzení:
+
+**Pavlovo exkluzivní postavení v NATO:** Ruge prý jasně sdělil, že summit NATO v Ankaře je plně záležitostí ČR — kdo tam pojede, je výhradně rozhodnutí vlády, nikoli prezidenta. Rajchl: „Absolutně hodil Petra Pavla přes palubu." USA si přitom Pavlovy výroky (nazval Trumpa „odpudivá lidská bytost" a tvrdil, že „poškodil NATO více než Putin") pamatují — a Pavel proto v Ankaře není vítán.
+
+**2 % HDP na obranu:** Ruge potvrdil, že Mark Rutte do Prahy nepřijel ČR kárát za neplnění 2 % HDP, jak Pavel veřejně tvrdil. Rajchl: „Pavel lhal." ČR není jediná, kdo 2 % neplní, a závazky se budou přehodnocovat — přičemž Fialova vláda dle nových kritérií 2 % ani formálně neplnila.
+
+> „Absolutně hodil Petra Pavla přes palubu. Absolutně. Žádné exkluzivní postavení, žádná panika v NATO hysterice, proč nebereme toho úžasného Petra Pavla do Ankary." — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+---
+
+### Snížení odvodů OSVČ a plán ekonomického oživení (Rajchl, 31. 5. 2026)
+
+Rajchl oznamuje, že vláda schválila snížení odvodů OSVČ jako kompenzaci za navýšení provedené Fialovou vládou. Přeplatky od 1. 1. 2026 budou OSVČ vráceny zpětně a odvody půjdou dolů. Rajchl to označuje za „první střípek" širšího programu: oživit podnikání v ČR, přilákat investice z Číny, Indie a Ruska, zapojit „kapitány průmyslu" (Kellnerová, Tykač, Šetinský) do hospodářského ozdravení. Klíčovou diagnózou je paralýza ekonomiky byrokratickými překážkami.
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)

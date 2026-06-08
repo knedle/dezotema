@@ -392,3 +392,33 @@ Vrabel označuje celý řetězec (insolvenční správce, policie, státní zast
 Rajchl v krátkém klipu z pořadu 360 stupňů informuje, že volba členů parlamentní vyšetřovací komise v kauze Dozimetr by měla proběhnout 28. 5. 2026. Uvádí klíčový právní argument: pět spolupracujících obviněných jednoznačně prohlašuje, že korupční peníze končily u hnutí STAN. Pokud státní zástupce tomuto uvěří, měl by jednat — buď jim zbavit status spolupracujícího obviněného, nebo zahájit trestní stíhání pro křivé obvinění, anebo zahájit trestní stíhání STAN jako právnické osoby. Zákon přitom umožňuje soudu jako trest i zrušení právnické osoby.
 
 **Zdroje:** [Rajchl — Dozimetr 360° (26./27. 5. 2026)](_zdroje.md#jindřich-rajchl--dozimetr-360-stupňů-27-5-2026)
+
+---
+
+## Kauza F-35: nejhorší kontrakt ze všech zemí
+
+### Nákup F-35 za nejhorší podmínky — Rajchl (31. 5. 2026)
+
+Rajchl tvrdí, že nákup letounů F-35 za vlády Fialy a ministryně obrany Jany Černochové byl „nejhorším obchodem, který kdy jakákoliv země na nákup těchto strojů uzavřela":
+
+- **Cena**: jeden stroj je o přibližně miliardu korun dražší než u srovnatelných zemí (Švýcarsko, Jižní Korea), které uzavíraly kontrakty ve stejném období.
+- **Dodací lhůty**: ČR dostane letouny v letech 2031–2035, zatímco jiné země obdrží všechny stroje do roku 2029.
+- **SAAB Gripen**: ČR jako první oznámila ukončení nájmu Gripenů — a teprve poté zjistila pozdní termín dodání F-35. Švédský SAAB okamžitě prodražil pronájem Gripenů o 137 % (více než dvojnásobek původní ceny). Miliardy zbytečně vynaložené na prodloužení Gripenů mohly být investovány jinam.
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+---
+
+## Agrofert a dotace EU
+
+### Rajchl odmítá politicky motivovanou likvidaci Agrofertu přes dotace EU (31. 5. 2026)
+
+Rajchl odmítá snahy Pirátů připravit Agrofert o dotace EU a označuje je za politicky motivovanou snahu zničit firmu, protože opozice neumí Babiše porazit ve volbách. Argumentuje:
+
+- Agrofert zaměstnává desetitisíce lidí a odvádí miliardy korun ročně do státního rozpočtu.
+- EU nastavila zemědělský dotační systém tak, že bez dotací nelze konkurovat — kdo je nemá, musí trh opustit.
+- Rajchl chce s Babišem soupeřit v programové soutěži, ne přes likvidaci jeho podnikání.
+
+> „Nikdy, nikdy, nikdy nebudu na Andreje Babiše útočit přes Čapí hnízdo, přes jeho syna, nebo přes Agrofert. To je absolutně ubohé." — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
