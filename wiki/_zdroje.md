@@ -1937,3 +1937,12 @@
 - **Délka:** 00:01:09 | Zhlédnutí: 47 542
 - **Poznámka:** Krátký klip z vystoupení na CNN Prima News. Válka na Ukrajině pokračuje, protože ji chtějí Brusel (kanál pro daně do zbrojení) a Zelenský (udržení moci, miliardy); Trumpova administrativa chce vyjednávat. Trump zavolal Babišovi, ne Pavlovi = bližší vztahy. Boris Ruge: ČR není jediná neplnící kritéria NATO (oprava kolegy Žáčka), k pokárání nedojde. USA se přesouvá na Blízký východ a Indočínu — americkou politiku (5 % HDP) ČR neovlivní.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 2. 6. 2026 {#ladislav-vrabel--zprávy-v-devět-2-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-02_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1546413860411671>
+- **Datum záznamu:** 2026-06-02
+- **Délka:** 00:59:07
+- **Poznámka:** „Zprávy v devět s komentářem" (se Zuzkou), 14 zpravodajských bloků. Klíčová témata: nová fáze SVO — ruské masivní údery (729 prostředků) jako odveta za Starobělsk, cílení „rozhodovacích center"; ruský zákaz vývozu leteckého paliva — Vrabel viní válku USA v Íránu/Hormuz a nedostatek kerosinu, ne ukrajinské drony (kritika ČT); výzva Zemanovi odebrat Zelenskému Řád bílého lva; ukrajinizace ČR („Česko-Ukrajinsko" — vlajky, migranti, univerzity); Pegasus/NSO konference v Praze vs. manželka jako bezpečnostní ohrožení; EU obchodní dohoda s USA (cla 15 %) jako „diktatura tvářící se jako demokracie"; jaderné zbraně USA v Polsku/Pobaltí + obhajoba výroku o F-35; Izrael/Gaza genocida + apriorní podpora české vlády (Ben Gvir), Trump vs. Netanyahu; muniční iniciativa jako spoluzodpovědnost ČR za teror proti ruským civilistům; rezignace státní zástupkyně + bitcoinová kauza = skorumpovaný systém; Británie — případ Henryho Novaka, hate crime, „obrácený rasismus"; Srbsko (růst 32 %, ruští uprchlíci bez výhod vs. Ukrajinci); útoky na lodě v Černém moři.
+- **Zpracováno:** ano

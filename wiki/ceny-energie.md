@@ -267,6 +267,16 @@ Vrabel ve vysílání 6. 5. potvrzuje eskalaci evropské námořní přítomnost
 
 ---
 
+## Letecké palivo a kerosin
+
+### Ruský zákaz vývozu leteckého paliva — příčinou je válka v Íránu, ne ukrajinské drony (Vrabel, 2. 6. 2026)
+
+Vrabel reaguje na zprávu (komentovanou v ČT), že Rusko poprvé od začátku války zakázalo vývoz leteckého paliva do konce listopadu — což média spojují s ukrajinskými údery na ruské rafinerie. Vrabel to označuje za „propagandu české televize". Podle něj je skutečnou příčinou válka USA v Íránu a omezení dopravy přes Hormuzský průliv: přes Hormuz neproudí kvalitní těžká ropa z Blízkého východu vhodná pro výrobu kerosinu, na trh se dostává jen méně vhodná ropa (Venezuela aj.), takže je ve světě nedostatek kerosinu. Rusko má vlastních zásob dostatek, ale stejně jako Srbsko či Čína u strategických komodit zakázalo jejich vývoz. Některé evropské aerolinky už kvůli nedostatku a zdražování paliva ruší spoje.
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
 ## Digitální kontrola spotřeby
 
 ### Uhlíkové kredity: chudí prodají, bohatí koupí — prohloubení nerovnosti (Vrabel, 24. 5. 2026)

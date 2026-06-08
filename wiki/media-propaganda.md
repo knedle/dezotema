@@ -116,6 +116,14 @@ Jindřich Rajchl opakovaně upozorňuje, že mainstreamová média záměrně ig
 
 ---
 
+### ČT jako propaganda ve „Zprávách v devět" — kerosin a univerzity (Vrabel, 2. 6. 2026)
+
+Vrabel ve své relaci „Zprávy v devět", v níž komentuje zpravodajství (mj. ČT), opakovaně označuje jeho rámování za propagandu sloužící ukrajinskému narativu. Dva příklady z 2. 6.: (1) zprávu o ruském zákazu vývozu leteckého paliva ČT dle Vrabela „hned dělá propagaci Ukrajincům" tím, že příčinu svádí na ukrajinské drony na rafineriích, ačkoli skutečnou příčinou je dle Vrabela íránská krize a nedostatek kerosinu (viz [Ceny energií — letecké palivo](ceny-energie.md#ruský-zákaz-vývozu-leteckého-paliva--příčinou-je-válka-v-íránu-ne-ukrajinské-drony-vrabel-2-6-2026)); (2) zprávu o spolupráci Západočeské univerzity s Ukrajinou čte jako jednostrannou „proukrajinskou" orientaci médií i institucí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
 ## Selektivita a dvojí metr
 
 ### Mediální lynč vs. selektivní ticho
@@ -263,6 +271,14 @@ Vrabel ve vysílání 6. 5. 2026 označuje nadcházející 6G technologii za kva
 Vrabel navazuje na téma EU direktívy ADDV (kamera v autech sledující řidiče od července 2026), digitální peněženky a eIDAS 2.0 — jako součást vzájemně propojeného systému totálního dohledu.
 
 **Zdroje:** [Vrabel — Večerní zprávy: EU, fašismus, demonstrace, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-eu-fašismus-demonstrace-6-5-2026)
+
+---
+
+### Pegasus a konference NSO Group v Praze — dvojí metr „bezpečnostního ohrožení" (Vrabel, 2. 6. 2026)
+
+Vrabel upozorňuje, že ve dnech 2.–4. 6. se v pražském hotelu Clarion koná veletrh prodejců špionážního softwaru, kde se sejdou zástupci soukromých firem, zpravodajských služeb a policie z celého světa; hlavním sponzorem je izraelská NSO Group (software Pegasus, který se dokáže nabourat do telefonu a ovládat ho bez vědomí majitele — dle citované analýzy Amnesty International naboural 10 000 telefonů včetně telefonu prezidenta Macrona). Vrabel kontrastuje tuto konferenci s tím, že jeho manželka byla prohlášena za „bezpečnostní ohrožení státu" bez zdůvodnění (viz [Kauzy — Bojana Vrabelová](kauzy.md)) — podle něj by se měly tajné služby zabývat spíš takovými technologiemi než likvidací aktivistů. Označuje za příznačné, že ČR „bere na svá bedra ty nejnebezpečnější věci z celého světa" (paralela s muniční iniciativou).
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
 
 ---
 

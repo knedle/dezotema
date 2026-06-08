@@ -18,6 +18,18 @@ Jiří Černohorský explicitně odmítá, že by v České republice existovala
 
 ---
 
+### Skorumpovaný „mafiánský systém" — státní zastupitelství a bitcoinová kauza (Vrabel, 2. 6. 2026)
+
+Vrabel komentuje rezignaci státní zástupkyně Petry Alexové Polákové (odvolané z vyšetřovacího týmu k bitcoinové kauze, podle ní kvůli ztrátě důvěry ve vedení — jmenovala Bradáčovou a Dragouna). Vrabel z toho rozvíjí obecnou tezi o ČR jako „skorumpovaném mafiánském systému": státní zástupci jsou dosazováni tak, aby vyhovovali politickému establishmentu, ten ekonomickým strukturám v zemi, a ty „globalistickým ekonomickým strukturám ve světě"; kariérní postup žalobců se odvíjí od politické vstřícnosti, a žalobci, kteří vyšetřují korupci ve vysokých patrech, jsou „občas zavražděni". Spekuluje, že odvolání může souviset s tím, že ministr spravedlnosti dle něj „pere špinavé peníze" v bitcoinové kauze (zopakování jeho výroku „před rokem").
+
+Z toho vyvozuje program kompletní změny systému (připraven dle něj 2022/2023): odvolatelnost politiků, trestní a majetková odpovědnost za rozhodnutí, vymahatelnost předvolebních slibů přes petice a soudy. Dokud k tomu nedojde, „budeme se motat v kruhu lobbistů, skorumpovaných politiků, policie, žalobců a soudců".
+
+> „Jsme v systému, který je prostě potřeba kompletně změnit." — Ladislav Vrabel, [Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika

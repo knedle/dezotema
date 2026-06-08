@@ -240,6 +240,16 @@ Rajchl v Bratislavě uvádí Southport (Velká Británie) jako konkrétní varov
 
 ---
 
+### EU jako „diktatura tvářící se jako demokracie" — obchodní dohoda s USA (Vrabel, 2. 6. 2026)
+
+Ke schválení zrušení dovozních cel EU na americké výrobky (součást loňské dohody Trump–von der Leyen) Vrabel rozvíjí tezi, že EU není demokracie, ale „diktatura tvářící se jako demokracie". Argumentuje obráceným postupem rozhodování: von der Leyen — která podle něj k tomu „nemá žádnou pravomoc" — se dohodne s Trumpem na obchodu za 750–800 miliard EUR, podepíše smlouvu zásadně ovlivňující „naše peněženky", a teprve poté ji Komise, Evropská rada a Evropský parlament „odmávají". Správný demokratický postup by byl opačný: podnět od lidí/parlamentu → mandát pro vyjednavače → jednání. Dohodu označuje za nevýhodnou: EU bude platit 15% clo na své výrobky, USA nulové. Navazuje na jeho dřívější tezi o EP jako divadle (viz [EP jako divadlo](#evropský-parlament-jako-divadlo--skutečná-moc-je-v-komisi)).
+
+> „Myslím si, že tohleto je nějaká diktatura, která se tváří jako demokracie." — Ladislav Vrabel, [Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
 ## Benešovy dekrety
 
 ### Sudetoněmecký Landsmannschaft — hrozba pro majetkové jistoty
@@ -552,6 +562,56 @@ Vrabel uvádí tři podmínky, které mu celkový scénář potvrzují: (1) NATO
 
 ---
 
+### Nová fáze SVO: ruské masivní údery jako odveta za Starobělsk (Vrabel, 2. 6. 2026)
+
+Vrabel popisuje ruský úder z noci na 2. 6. jako nejmasivnější od začátku války: Rusko vyslalo 729 vzdušných prostředků (656 dronů, 73 raket — Zirkon, Iskander, Kh-101, Kalibr). Cílem bylo deset zbrojních výrobních zařízení a tři náborová/rekrutační centra v Kyjevě. Vrabel to rámuje jako vstup speciální vojenské operace do „nové fáze" — odvety za ukrajinský útok na vysokou školu ve Starobělsku (21 mrtvých studentek), po němž se Rusko rozhodlo cílit nejen vojenské cíle, ale i „rozhodovací centra". Předpovídá, že útoky „můžou jít ještě mnohem dál a hloubějí". K ukrajinskému tvrzení o sestřelení 604 ze 729 cílů je skeptický — „připadá mi to jako ukrajinská vojenská propaganda." Navazuje na záznam z [1. 6.](#) (Starobělsk, Babiš schválil 90 mld. EUR / 60 % na zbraně).
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### Muniční iniciativa = spoluzodpovědnost ČR za teror proti ruským civilistům (Vrabel, 2. 6. 2026)
+
+Vrabel reaguje na zprávu, že Ukrajina žádá od muniční iniciativy velkorážovou munici s větším dostřelem. Interpretuje to takto: Ukrajina nezvládá frontu (nedostatek vojáků, munice, protivzdušné obrany — kterou si USA stáhly do Íránu), proto zvolila novou taktiku — „působit teror na ruském území", útoky na ropnou infrastrukturu (ekonomický tlak) a na civilisty (psychologický tlak). Munice s dlouhým doletem má tomuto účelu sloužit. Klíčová teze: Česká muniční iniciativa znamená, že ČR „vzala na sebe zodpovědnost" za dodávky zbraní proti Rusku, za nimiž se ostatní (anonymní) země „schovávají" — a tím nese spoluzodpovědnost i za teroristické útoky proti ruským civilistům a dětem (Starobělsk). Babiš podle Vrabela vyhrál volby se slibem zrušení muniční iniciativy, ale postavil se za ni (jen bez českých peněz) — zodpovědnost tím zůstává. Vrabel rovněž tvrdí, že Západ se z pozice „dáváme zbraně Ukrajině" přesunul do pozice „vede válku proti Rusku" — Ukrajina už válku nefinancuje vůbec, vše (stát, platy „žoldáků", zbrojení) financuje Západ.
+
+> „Je to z velké části naše válka." — Ladislav Vrabel, [Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### Výzva Zemanovi: odebrat Zelenskému Řád bílého lva (Vrabel, 2. 6. 2026)
+
+V reakci na zprávu, že bývalý polský velvyslanec vrátil ukrajinské vyznamenání kvůli glorifikaci OUN/UPA, Vrabel jako předseda hnutí ČR na prvním místě vyzývá Miloše Zemana, aby Volodymyru Zelenskému odebral Řád bílého lva — nebo se veřejně omluvil za to, že nejvyšší české státní vyznamenání udělil „lídru neonacistického/fašistického režimu Ukrajiny". Tvrdí, že Zelenský si vyznamenání nezaslouží. Výrok navazuje na Vrabelovo dřívější hodnocení Zemana jako „nácka" (viz [Politický systém — brněnská demonstrace](politicky-system.md#brněnská-demonstrace--zklamání-z-vlastenecké-scény-vrabel-31-5-2026)) a Ukrajiny jako „fašistického státu z definice".
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### „Česko-Ukrajinsko": obava ze symbiotického státu (Vrabel, 2. 6. 2026)
+
+Ke zprávě o chystané spolupráci Západočeské univerzity v Plzni s ukrajinskými partnery (a americkou Argonne National Laboratory) Vrabel uvádí, že spolupráce univerzit je obecně v pořádku, ale vadí mu jednostranná orientace „pořád jenom na Ukrajinu" — proč ne Čína, Japonsko, Rusko, Jižní Amerika. Z toho rozvíjí obavu, že se z ČR stává „přidružená země Ukrajiny": začalo to ukrajinskými vlajkami na vládních budovách (cizí stát), pokračuje upřednostňováním ukrajinských migrantů před českým obyvatelstvem a společnými integračními programy. Navazuje na jeho dřívější termín „Česko-Ukrajinsko" (viz [Politický systém — rektorka JAMU](politicky-system.md#rektorka-jamu-odvolaná-za-sundání-ukrajinské-vlajky--česko-ukrajinsko-vrabel-28-5-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### Jaderné zbraně USA v Polsku a Pobaltí — obhajoba výroku o F-35 (Vrabel, 2. 6. 2026)
+
+Ke zprávě (Financial Times), že USA zvažují rozmístění jaderných zbraní v Polsku a pobaltských státech, Vrabel připomíná svůj soudní spor o F-35: Ústavní soud ho osvobodil s tím, že šlo o politický názor (požívá ústavní ochrany). Vrabel tvrdí, že byl mediálně zesměšňován za výrok, že „ČR bude útočit na Rusko jadernými zbraněmi" — což ale neřekl. Jeho skutečné tvrzení: nekupovat F-35, protože jsou to především nosiče jaderných zbraní (B-61); pokud ČR bude mít nosiče, stává se potenciálním cílem Ruské federace, a pokud by je použila, jistým cílem ruského jaderného úderu. Spekuluje, že Ústavní soud ho osvobodil i proto, „že se to chystá, že ČR bude mít jaderné zbraně". Navazuje na záznam [F-35 jako jaderné nosiče (20. 5.)](#).
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### Útoky na lodě v Černém moři + Budanovova „flexibilita" (Vrabel, 2. 6. 2026)
+
+Vrabel přebírá ruský narativ (Marija Zacharovová) o útoku dronem-kamikaze (300 kg trhaviny) na tureckou loď u řeckého ostrova a tvrdí, že Ukrajina páchá „teroristické útoky" na lodě v Černém moři a svaluje vinu na Rusko. Kritizuje českou vládu, že apriorně považuje Ukrajinu za „napadený stát", který „může dělat, co chce" — podle Vrabela by takové činy měly být odsouzeny v souladu s mezinárodním právem. K rozporu mezi výroky šéfa prezidentské kanceláře Budanova (jeden den hrozí útoky hluboko do Ruska, druhý den tlumočí Zelenského příkaz ukončit válku do zimy) Vrabel ironicky oceňuje jeho „flexibilitu" — přirovnává ji k českým politikům, kteří „jeden den řeknou, že je zeď černá, druhý den bílá, přestože je zelená".
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
 ## Izrael a Palestina
 
 ### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza
@@ -559,6 +619,16 @@ Vrabel uvádí tři podmínky, které mu celkový scénář potvrzují: (1) NATO
 Černohorský tvrdí, že Hamas byl původně podporován Izraelem jako protipól k Jásiru Arafatovi a PLO — Izrael chtěl rozštěpit palestinské vedení, ale výsledek se vymkl kontrole. Z toho vyvozuje, že Israel nese přímou odpovědnost za vznik organizace, kterou nyní označuje za teroristickou. Systematické vytlačování Palestinců z domovů od roku 1948 přirovnává k situaci, kdy by z jejich domovů vyhnali je samotné. Netanyahua označuje za válečného zločince, který by měl být souzen. Jako pozitivní jev hodnotí, že dvě třetiny delegátů OSN demonstrativně opustilo sál při jeho projevu.
 
 **Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+### Genocida v Gaze a apriorní podpora Izraele českou vládou (Vrabel, 2. 6. 2026)
+
+Vrabel tvrdí, že v Gaze (a vůči Libanonu) dochází ze strany Izraele ke genocidě civilního obyvatelstva, a kritizuje českou vládu (Babiš, Macinka, Pavel jako „trumpisté") za to, že předem ohlásila, že zablokuje jakékoli sankce nebo rezoluce EU proti Izraeli — i kdyby tam byly páchány válečné zločiny. Klíčová teze: zločiny je třeba soudit „podle činů, ne podle sympatií" — stejně jako odsoudil Trumpa za „válečné zločiny" a odsoudil by i Putina, kdyby je páchal. Apriorní krytí Izraele označuje za „chucpé". Izraelského ministra Bena Gvira (jako pojmenovaný příklad) považuje za člověka, který by měl být souzen Mezinárodním trestním soudem za válečné zločiny. Zmiňuje i posun Trumpa, který nově označil Netanyahua za „blázna" a „nevděčného" — Vrabel to čte jako tlak americké veřejnosti, která vnímá dění v Gaze jako genocidu, a předpovídá, že česká vláda (mající zároveň „trumpisty" i bezvýhradnou podporu Izraele) se bude muset „kroutit".
+
+> „Je potřeba soudit každého podle jeho činů, a ne podle nějakých sympatií." — Ladislav Vrabel, [Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
 
 ---
 
@@ -2185,3 +2255,21 @@ Vrabel se vrací k útoku na studentskou kolej ve Starobělsku (21 zabitých stu
 Vrabel z toho vyvozuje přímou spoluzodpovědnost ČR: premiér Babiš v prosinci schválil 90 miliard EUR pro Ukrajinu (30 % na chod státu, 60 % na výrobu zbraní); „my mu platíme jeho plat", financujeme drony, které dopadly na kolej. „Máme parlamentní demokracii a zvolili jsme si Andreje Babiše" — proto jsou občané ČR spoluzodpovědní i za to, co přijde.
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+---
+
+## Migrace, islamizace a Západ
+
+### Británie: případ Henryho Novaka a „obrácený rasismus" (Vrabel, 2. 6. 2026)
+
+Ke zveřejněnému policejnímu záznamu z Británie — kde po útoku nožem zemřel 18letý student Henry Novak, zatímco policie spoutala jeho a soustředila se na muže tmavé pleti, který tvrdil, že byl rasově napaden — Vrabel tvrdí, že britská policie jedná na základě rasy a náboženství, nikoli činu. Z vlastní zkušenosti (žil v Británii) popisuje, že kritika islámu/muslimů je tam považována za „hate crime"; uvádí i příklad kamarádky odsouzené poté, co ji homosexuální barman obvinil ze sexuálního napadení. Tento mechanismus označuje za „obrácený rasismus" — protiústavní i v ČR (posuzování podle rasy/náboženství). Varuje, že migrační pakt přinese tuto situaci do ČR „od roku 2027".
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### Srbsko jako kontrast: růst a ruští uprchlíci bez výhod (Vrabel, 2. 6. 2026)
+
+Vrabel cituje srbského prezidenta Vučiće (odmítl spekulace o vízovém režimu pro Rusy; uvedl růst ekonomiky o 32 % v 1. čtvrtletí) a používá Srbsko jako protiklad k ČR. Do Srbska podle něj přišlo mnoho Rusů prchajících před válkou — ale na rozdíl od ukrajinských uprchlíků v ČR nemají žádná „speciální práva": dlouho čekají na víza, nedostávají od státu peníze, chovají se „s pokorou" a nejsou hlasití (často IT pracovníci pracující online). Vučić podle Vrabela rychle vyvrátil zprávu o zrušení víz Rusům (spojovanou s přibližováním k EU), což Vrabel hodnotí jako důkaz, že Srbsko nepodléhá tlaku EU a drží suverénní, multivektorovou politiku. Navazuje na jeho opakované hodnocení Srbska jako modelu suverenity.
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
