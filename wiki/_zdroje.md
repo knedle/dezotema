@@ -1928,3 +1928,12 @@
 - **Délka:** 00:43:35
 - **Poznámka:** „Zprávy v devět s komentářem" (se Zuzkou). Klíčová témata: euro jako ztráta suverenity (ČNB ztratí kontrolu úroků, odliv kapitálu) + Bulharsko měsíc po vstupu čelí sankcím EU za deficit; NATO 5 % HDP — „opozice" (Piráti/STAN) posouvá laťku, aby koalice vypadala umírněně, ČR na prvním místě jediná pro vystoupení z NATO; Euroclear odvolání — Rusko vyhrálo arbitráž o zmrazená aktiva (von der Leyen/Kallas/Babiš ať platí z platu); Norsko vstupuje do EU kvůli válce (EU jako vojenská struktura, „velký evropský bratr"); Trump manipuluje cenou ropy přes výroky o Hormuzu/Íránu; tanker Tagor zadržen Francií = státní piráctví; Maďarsko — Magyar hrozí změnou ústavy k odvolání prezidenta Sulyoka; Starobělsk útok na kolej (21 studentek, video, Budanovovy výhrůžky) — ČR spoluzodpovědná (Babiš schválil 90 mld EUR, 60 % na zbraně).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (vystoupení na Primě) 2. 6. 2026 {#jindřich-rajchl--videoportál-2-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-02_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1697271268269162>
+- **Datum záznamu:** 2026-06-02
+- **Délka:** 00:01:09 | Zhlédnutí: 47 542
+- **Poznámka:** Krátký klip z vystoupení na CNN Prima News. Válka na Ukrajině pokračuje, protože ji chtějí Brusel (kanál pro daně do zbrojení) a Zelenský (udržení moci, miliardy); Trumpova administrativa chce vyjednávat. Trump zavolal Babišovi, ne Pavlovi = bližší vztahy. Boris Ruge: ČR není jediná neplnící kritéria NATO (oprava kolegy Žáčka), k pokárání nedojde. USA se přesouvá na Blízký východ a Indočínu — americkou politiku (5 % HDP) ČR neovlivní.
+- **Zpracováno:** ano

@@ -547,3 +547,15 @@ Vrabel mapuje celé spektrum: jeho hnutí ČR na prvním místě je jediné pro 
 > „Opozice by měla říkat: my nechceme být v NATO, my tam nechceme platit. A u nás je to tak, že koalice říká chceme platit 2 % a opozice říká my taky chceme být v NATO, ale chceme platit 5 %." — Ladislav Vrabel, [Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+---
+
+### Trump volal Babišovi, ne Pavlovi — válka pokračuje vůlí Bruselu a Zelenského (Rajchl na Primě, 2. 6. 2026)
+
+V krátkém vystoupení na CNN Prima News Rajchl shrnul několik tezí. Válka na Ukrajině podle něj pokračuje pouze proto, že ji chtějí dva aktéři: Brusel (aby mohl „cpát naše daně" do zbrojení) a Zelenský (aby se udržel u moci a inkasoval miliardy od EU, která konflikt financuje). Trumpova administrativa naopak chce vyjednávat — „kdyby Zelenský nechtěl držet zuby nehty u moci, mír by tu dávno byl."
+
+Jako důkaz bližších vazeb USA na Babiše uvádí, že Trump telefonoval Andreji Babišovi, nikoliv Petru Pavlovi — osobní vazby považuje za důležité. K otázce nesplnění obranných kritérií odkazuje (s opravou kolegy Žáčka) na Borise Rugeho: ČR není jediná země, která kritéria neplní, takže k žádnému velkému „pokárání" nedojde (viz [Boris Ruge: Pavel není pro NATO nezastupitelný (31. 5.)](#boris-ruge-pavel-není-pro-nato-nezastupitelný-2--hdp--rutte-nekáral-rajchl-31-5-2026)). Přesun americké pozornosti na Blízký východ a Indočínu i tlak na 5 % HDP označuje za americkou politiku, kterou ČR neovlivní.
+
+> „Pokud by Volodymyr Zelenský dnes nechtěl držet zuby nehty u moci a inkasovat další miliardy od Evropské unie, tak už by ten mír tady dávno byl." — Jindřich Rajchl, [Videoportál 2. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-2-6-2026)
+
+**Zdroje:** [Rajchl — Videoportál (Prima) 2. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-2-6-2026)
