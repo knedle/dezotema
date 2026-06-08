@@ -1901,3 +1901,13 @@
 - **Délka:** 00:57:04
 - **Poznámka:** „Matrix polopravd, propagandy a mainstreamových lží utrpěl tento týden pořádné trhliny." Klíčová témata: šarže Pfizer — data ÚZISu (Dobijášová), stovky nežádoucích účinků, 2 úmrtí; NOS jako farmabyznys; Zelenský pojmenoval jednotku po UPA — výzva Pavlovi k odebrání Řádu bílého lva; biolaboratoře USA na Ukrajině (Gabbard + Hegseth, 120/40); NATO Ankara — Boris Ruge vyvrátil Pavlovo exkluzivní postavení; 2 % HDP — Rutte nekáral; F-35 nejhorší kontrakt; Agrofert: odmítnutí politické likvidace; snížení odvodů OSVČ.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Facebook Live 31. 5. 2026 {#ladislav-vrabel--facebook-live-31-5-2026}
+- **Soubor:** [přepis](prepisy/done/2026-05-31_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/3741438089330403>
+- **Datum záznamu:** 2026-05-31
+- **Délka:** 02:04:41
+- **Poznámka:** Pravidelné nedělní vysílání. Klíčová témata: tři fáze konfliktu Západ–Rusko (Majdan → invaze → terorismus 2026); útok na internátní školu (21 studentek) a dítě v Geničesku; Oriešník jako jaderná demonstrace; ČR jako zbrojní centrum (Strnad/CSG, Macinka v Kongresu); Kolář–Hokovský–Janeček jako projekt Petr Pavel; CBDC/digitální euro jako nástroj Velkého Resetu; deportace Ukrajinskych mužů odmítnuty; parlamentní opozice = součást systému; zklamání z demonstrace v Brně (Zeman, Sládek napaden); kryptoměny: sledování a kvantové hrozby.
+- **Zpracováno:** ano
+- **Zpracováno:** ano

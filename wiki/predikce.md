@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Kryptoměny v roce 2026 porostou (31. 5. 2026)
+
+**Předpověď:** Vrabel předpokládá, že kryptoměny (zejména Bitcoin, Solana, XRP) v roce 2026 ještě porostou z aktuálně nízkých hodnot — čtyřletý cyklus to naznačuje; doporučuje investovat do silných měn.
+
+> „Předpokládám, že se stane... reálný, že v tomhletom roce zase půjdou kryptoměny nahoru, protože jsou na velmi nízkých částkách." — Ladislav Vrabel
+
+**Horizont:** do konce 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+---
+
 ### Jiří Černohorský — Ukončení veřejné činnosti k 20. 6. 2027 (25. 5. 2026)
 
 **Předpověď:** Černohorský veřejně oznamuje, že pokud se nic zásadního nezmění — lidé nepřestanou být pasivní a nepřestanou čekat na spasitele — ke dni 20. 6. 2027 definitivně ukončí svoji veřejnou činnost. O tomto kroku prý přemýšlí 8 let. Jako paralelu uvádí Petra Černého Orteka, který po 7 letech skončil se stejným zdůvodněním: „za těch sedm let se nic nezměnilo."

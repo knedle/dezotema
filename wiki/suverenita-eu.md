@@ -2075,4 +2075,54 @@ Rajchl oceňuje okamžitou reakci polského prezidenta Nawrockého, který navrh
 
 > „Kde jste teď? Kde jste teď? Vážení přátelé z médií, vím moc dobře, že se na tohle díváte. Proč nenapíšete férově, že jsme měli pravdu?" — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
+---
+
+### Tři fáze konfliktu Západ–Rusko: od Majdanu k terorismu na ruském území (Vrabel, 31. 5. 2026)
+
+Vrabel popisuje konflikt jako třífázový záměrný projekt Západu. První fáze (od 2013/Majdan) — přípravná: vytvoření prozápadního režimu a militarizace Ukrajiny, CIA buduje centra, Zelenský odmítá Minské dohody a mluví o jaderném odzbrojení. Druhá fáze — od 24. 2. 2022: Rusko zahájilo preventivní operaci. Třetí fáze — od dubna/května 2026: Západ přešel ke strategii teroristických útoků hluboko na ruské území, aby destabilizoval ruskou společnost a vyvolal tlak na změnu režimu.
+
+Vrabel zdůrazňuje: útoky z ukrajinskéhoúzemí neprovádí ukrajinskí vojáci — „to říci ukrajinskí vojáci by byla poloZlž." De facto jde o válku Západ+Ukraina proti Rusku — Západ dodává satelity, zpravodajství, navigaci, piloty, AI, zbraně i vojáky ze Severní a Jižní Ameriky i Evropy.
+
+> „Děláme to my, západ, proti Rusku." — Ladislav Vrabel, [Facebook Live 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+---
+
+### Útok na internátní školu v Rusku: 21 studentek zabitých (Vrabel, 31. 5. 2026)
+
+Klíčovým zlomem třetí fáze konfliktu byl dle Vrabela útok tří koordinovaných vln dronů na internátní školu v Rusku, kde bylo zabito 21 studentek. Vrabel odmítá, že šlo o zbloudilý dron — tři vlny na civilní budovy bez vojenských objektů jsou cílený teroristický útok. Paralelně byl téhož dne zabit jeden dítě dronem v Geničesku.
+
+Vrabel výslovně uvádí: Babišovo prohlášení „stojíme plně za aliančními partnery" znamená, že ČR je součástí těchto operací. Putin přesto reaguje s diplomatickým klidem — označuje útoky za terorismus a opakuje, že Rusko nikdy nechtělo válku s Evropou.
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+---
+
+### Oriešník jako demonstrace jaderné schopnosti Ruska (Vrabel, 31. 5. 2026)
+
+Rusko v rámci největšího útoku od začátku konfliktu (Oriešník, 2 kinžály, 3 zirkony, iskandeři, stovky dronů) demonstrovalo jadernou kapacitu. Oriešník je tak rychlý, že protivzdušná obrana nedokáže určit, zda nese konvenční nebo jadernou nálož. Vrabel tvrdí, že tímto krokem Rusko vyslalo jednoznačnou zprávu Západu: „Můžeme vám poslat jadernou nálož kdykoliv." ČR a Západ dodávají zbraně z vlastního území — Rusko deklarovalo, že území, z nichž létají zbraně na Rusko, jsou legitimním cílem.
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+---
+
+### ČR jako zbrojní centrum — Strnad/CSG a Macinka v Kongresu (Vrabel, 31. 5. 2026)
+
+Česká republika se dle Vrabela stala jedním z klíčových světových zbrojařských center. Michal Strnad a Czechoslovak Group dodávají munici přes muniční iniciativu (přes 50 % veškeré dělostřelecké munice pro Ukrainu). Ministr Macinka navíc lobboval v americkém Kongresu, aby ČR vyráběla zbraně přímo pro USA.
+
+Vrabel kreslí historickou paralelu s protektorátním průmyslem přeměněným Heydrichem na výrobu zbraní pro boj s Ruskem. „Jednou někdo ponese zodpovědnost. A Česká republika se k tomu přihlásila dobrovolně."
+
+> „Česká republika se stala jedním z těch finančních center a zbrojařských center světových." — Ladislav Vrabel, [Facebook Live 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+---
+
+### Deportace ukrajinských mužů z Evropy — Vrabel odmítá jako nehumánní (31. 5. 2026)
+
+Vrabel odmítá nucené vracení Ukrajinskych mužů z Evropy zpět na Ukrainu. Zelenský nemá vojáky a loví je na autobusových zastávkách, z autobusů a obchodů — což Vrabel označuje za trestné činy a terorismus vůči vlastnímu obyvatelstvu. Diváci vyzývající k posílání Ukrajinskych mužů „na smrt" Vrabel odmítá: „Jestli si neumíte udělat ve svojí zemi pořádek, jste zbabělci." Jako humanista nemůže podpořit násilné odvlékání tří milionů mužů k jejich postřílení.
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
 **Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)

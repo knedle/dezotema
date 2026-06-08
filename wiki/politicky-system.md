@@ -502,4 +502,36 @@ Rajchl komentuje návštěvu Borise Rugeho (náměstek generálního tajemníka 
 
 Rajchl oznamuje, že vláda schválila snížení odvodů OSVČ jako kompenzaci za navýšení provedené Fialovou vládou. Přeplatky od 1. 1. 2026 budou OSVČ vráceny zpětně a odvody půjdou dolů. Rajchl to označuje za „první střípek" širšího programu: oživit podnikání v ČR, přilákat investice z Číny, Indie a Ruska, zapojit „kapitány průmyslu" (Kellnerová, Tykač, Šetinský) do hospodářského ozdravení. Klíčovou diagnózou je paralýza ekonomiky byrokratickými překážkami.
 
+---
+
+### Kolář, Hokovský, Janeček: projekt Petr Pavel (Vrabel, 31. 5. 2026)
+
+Vrabel tvrdí, že Petr Pavel se stal prezidentem díky koordinovanému projektu tří lidí: Pavel Kolář (bývalý velvyslanec ČR v USA), Radko Hokovský (zakladatel neziskovky Evropské hodnoty) a místopředseda představenstva SJG (společnost Karla Janečka, sídlí vedle americké ambasády).
+
+Kolář jako velvyslanec jednal dle Vrabela proti zájmům ČR: z uniklých Wikileaks zápisků amerického ministerstva zahraničí vyplývá, že americkým diplomatům radil prezentovat radarovou základnu v Brdech jako „radar" (nikoli raketovou základnu) a počkat na premiéra Topolánka místo Paroubka. „Jednal proky zájmům České republiky — za to by měl být souzený." Zároveň Kolář zprostředkoval prodej Kold pod Strnadovu CSG — zbrojní firmu, která profituje na válečných zakázkách.
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+---
+
+### Parlamentní strany jako součást systému — opozice i vláda chrání status quo (Vrabel, 31. 5. 2026)
+
+Vrabel tvrdí, že všechny parlamentní strany — ODS, TOP 09, Piráti, PRO, SPD, Tricolora, ANO, KSČM — slouží zachování systému. Kateřina Konečná ztratila svůj potenciál tím, že v parlamentních volbách prokaučovala šanci KSČM/Stačilo; místo kandidatury na předsedkyni KSČM zůstane s třetím mandátem v EP a tučným důchodem. SPD vstoupila do koalice jako „opozice ve vládě," ale po 12 letech v parlamentu nic nezměnila.
+
+Vrabel odmítá politické rozdělení na anti-Babiš vs. anti-Pavel jako nejhloupější možnou situaci: „Mezi tím co se hádej, je okrádej ze všech stran." Média o parlamentní opozici „píšou trochu proti nim, aby jim zachovali tu aureolu opozice" — de facto jsou součástí systému.
+
+> „Lidi prostě si zvolili to, co jim řekli v televizi. Média nám řekly, tady máte 10 stran, ty mají šanci se tam dostat. Lidi si vybrali z těch 10 stran. Jsme hloupí." — Ladislav Vrabel, [Facebook Live 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
+---
+
+### Brněnská demonstrace — zklamání z vlastenecké scény (Vrabel, 31. 5. 2026)
+
+Vrabel hodnotí demonstraci v Brně jako hluboké zklamání. Miloš Zeman, který na ní vystoupil, je dle Vrabela „normální nácek, špinavý nácek": ocenil Zelenského Řádem Bílého Holodomoru, prohlásil, že Rusové mají agresi v genech (= rasová definice národa), a v roce 1997 nechal zatknout Miroslava Sládka za kritiku česko-německé deklarace — která dle Vrabela otevřela dveře sudetoněmeckým majetkovým nárokům.
+
+Sládek byl na demonstraci napaden — neznámý muž mu vytrhl megafon (Vrabela vlastnictví). Celá situace je pro Vrabela důkazem, že vlastenecká scéna „naskočila" na systémové figury Okamury, Rajchla a Majerové v médiích místo skutečné občanské akce.
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+
 **Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
