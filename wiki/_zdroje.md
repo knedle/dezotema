@@ -1919,3 +1919,12 @@
 - **Délka:** 01:08:36 | Zhlédnutí: 486
 - **Poznámka:** „31/5 KORESPONDENCE S ČT". Zítko čte celou e-mailovou výměnu s referentkou ČT pro výběr poplatků: odmítá platit „výpalné", cituje §2 zák. 483/1991 o objektivitě a vyváženosti, ČT označuje za mediálního spolupachatele „zabíjení" očkováním (Norimberský kodex, propad porodnosti), hrozí mezinárodní žalobou (ICCPR 1966). Příměr „porno pro zahrádkáře". Tři příklady porušení: COVID propaganda, ignorace Zítkovy kandidatury 2022 (6 kandidátů Aspen Institutu), rozsudek Harabina (Rusko není agresor). Barry Young (NZ): smrtnost šarží Pfizer (21,4 %); vatikánský deník 1989 o mikročipech a „prasečí šipce". Závěr: pozvánka na webinář WELL ZONE (vagus nerv, frekvence).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 1. 6. 2026 {#ladislav-vrabel--zprávy-v-devět-1-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-01_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1360677339243105>
+- **Datum záznamu:** 2026-06-01
+- **Délka:** 00:43:35
+- **Poznámka:** „Zprávy v devět s komentářem" (se Zuzkou). Klíčová témata: euro jako ztráta suverenity (ČNB ztratí kontrolu úroků, odliv kapitálu) + Bulharsko měsíc po vstupu čelí sankcím EU za deficit; NATO 5 % HDP — „opozice" (Piráti/STAN) posouvá laťku, aby koalice vypadala umírněně, ČR na prvním místě jediná pro vystoupení z NATO; Euroclear odvolání — Rusko vyhrálo arbitráž o zmrazená aktiva (von der Leyen/Kallas/Babiš ať platí z platu); Norsko vstupuje do EU kvůli válce (EU jako vojenská struktura, „velký evropský bratr"); Trump manipuluje cenou ropy přes výroky o Hormuzu/Íránu; tanker Tagor zadržen Francií = státní piráctví; Maďarsko — Magyar hrozí změnou ústavy k odvolání prezidenta Sulyoka; Starobělsk útok na kolej (21 studentek, video, Budanovovy výhrůžky) — ČR spoluzodpovědná (Babiš schválil 90 mld EUR, 60 % na zbraně).
+- **Zpracováno:** ano

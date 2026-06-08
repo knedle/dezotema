@@ -1255,7 +1255,9 @@ Vrabel tvrdí, že Trump zneužívá prezidentskou funkci k obchodování na fin
 
 > „Donald Trump oznámí, že Hormuzský průliv je otevřený, a 20 minut předtím někdo vysadí hromady peněz na to, že cena ropy půjde dolů na burzách. Potom ty peníze schrábne a najednou se ukáže, že žádný Hormuzský průliv otevřený nebyl." — Vrabel
 
-**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026)
+Vrabel vzorec opakuje 1. 6. 2026 v kontextu pozastavení íránsko-amerických jednání: Trump na konci týdne prohlásí, že bude příměří a Hormuz je otevřený, aby srazil cenu ropy a umožnil nákup; v pondělí Írán vydá opatření, cena jde nahoru a spekulanti prodají.
+
+**Zdroje:** [Vrabel — Večerní zprávy 11. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-11-5-2026), [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
 
 ---
 
@@ -2126,3 +2128,60 @@ Vrabel odmítá nucené vracení Ukrajinskych mužů z Evropy zpět na Ukrainu. 
 **Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
 
 **Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+---
+
+### Euro: ČNB ztratí kontrolu nad úroky a kapitál odteče ven — Bulharsko jako varování (Vrabel, 1. 6. 2026)
+
+Vrabel reaguje na výroky Enrica Letty, Petra Pavla a EU, že odmítání eura je „hysterie" a že národní suverenita členských států je bez EU iluze. Vrabel odpovídá dvěma argumenty pro ztrátu suverenity přijetím eura:
+
+1. **Odliv kapitálu**: dokud existuje koruna, peníze vydělané v ČR (i zahraničními řetězci) se musí v ČR utratit. S eurem je lze vyvézt a utratit kdekoliv — „tímhle způsobem se může odsát další bohatství z České republiky ven", ad absurdum všechno.
+2. **Ztráta měnové politiky**: Česká národní banka dnes suverénně rozhoduje o úrokových sazbách, čímž řídí množství peněz v systému i inflaci. Po vstupu do eurozóny tuto pravomoc převezme Evropská centrální banka.
+
+Jako konkrétní varování uvádí **Bulharsko**: měsíc po vstupu do eurozóny (1. ledna) už čelí postupu EU při nadměrném schodku — EU mu nařizuje srazit deficit z 3,5 % pod 3 %, zavést závazný strop rozpočtu a hrozí pokutou až 0,05 % HDP každých 6 měsíců. Vrabel: „stráta suverenity minimálně v tomhle je naprosto evidentní." Premiér Radev navíc hodí vinu na předchozí proevropskou vládu, která prý maskovala čísla — stejnou rétoriku („může za to bývalá vláda") Vrabel slyší i v ČR a v Rumunsku. Přijetí eura v ČR považuje za nevyhnutelné, protože voliči v roce 2025 zvolili vládu, která zemi v EU zadržela.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+---
+
+### Euroclear: Rusko vyhrálo arbitráž o zmrazená aktiva — Vrabel chce platby z platů eurokomisařů (1. 6. 2026)
+
+Finanční depozitář Euroclear se odvolal proti rozhodnutí Moskevského arbitrážního soudu ve sporu o aktiva ruské centrální banky (pohledávka ~18,2 bilionu rublů). Vrabel připomíná, že EU čtyři roky drží zmrazená ruská aktiva, Ukrajině vyplácí úroky z jejich výnosů a uvažovala i o jejich úplné konfiskaci — Kaja Kallas prý tvrdila, že jako právnička si dokáže představit, „jak to udělat právně, aby to mohli ukrást." Tlak z USA a ECB tomu zabránil, proto si EU raději půjčila 90 miliard EUR. Rusko podle Vrabela podalo žalobu právem a vyhrálo; Euroclear se brání, protože platit nechce.
+
+> „Podle mě by to měly vzít jim z platu — od Uršuly von der Leyen přes Kaju Kalas až po Andreje Babiše, protože ty všichni to odmávali." — Ladislav Vrabel, [Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+---
+
+### Norsko zvažuje vstup do EU — kvůli válce, EU jako vojenská struktura (Vrabel, 1. 6. 2026)
+
+Vrabel komentuje úvahy norského ministra zahraničí Espena Barta Eideho o vstupu Norska do EU. Norsko označuje za dosud bohatý, ale drahý sociální stát; vstupem do EU prý Norové „poznají, co to znamená být chudý". Skutečný důvod je dle Vrabela válka: EU se „salámovou metodou" postupně přeměňuje na vojenskou strukturu (Evropská vojenská komise, nové obranné programy) a Norsko se připojuje, aby v nadcházejícím konfliktu nebylo samo. Spojuje to s výzvou mluvčí EK Pauly Pinho, aby členské státy „uzavřely řady" a vystupovaly „jednotným hlasem" — což Vrabel glosuje: „Jeden velký evropský bratr."
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+---
+
+### Zadržení tankeru Tagor Francií jako státní piráctví (Vrabel, 1. 6. 2026)
+
+Francouzské speciální jednotky zadržely v Atlantiku ropný tanker Tagor (dle Vrabela plující pod madagaskarskou vlajkou); Macron operaci obhájil bezpečnostním a ekologickým rizikem a obcházením sankcí, Kreml (Peskov) ji označil za „zahraniční pirátství". Vrabel se přidává na ruskou stranu: jde o porušení mezinárodního práva a pirátství. Varuje, že opakované porušování mezinárodního práva povede k tomu, že začne platit „právo silnějšího" — a Rusko pak ukáže, kdo je silnější.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+---
+
+### Maďarsko: premiér Magyar hrozí změnou ústavy k odvolání prezidenta Sulyoka (Vrabel, 1. 6. 2026)
+
+Maďarský premiér Péter Magyar oznámil, že zahájí právní řízení k odvolání prezidenta Tamáse Sulyoka (jmenovaného předchozí Orbánovou vládou), a hrozí změnou ústavy, pokud Sulyok odmítne rezignovat. Sulyok varuje, že by to vyvolalo ústavní krizi. Magyar po dubnových volbách, v nichž porazil Orbána, slíbil odvolat osobnosti dosazené Orbánem za 16 let. Vrabel označuje krok za tvrdé „čistky" mířící až na hlavu státu a přirovnává Magyara k jednomu (nejmenovanému) českému politikovi, kterého považuje za „stejně zkaženého".
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+---
+
+### Starobělsk: video z útoku na kolej, Budanovovy výhrůžky a přímá zodpovědnost ČR (Vrabel, 1. 6. 2026)
+
+Vrabel se vrací k útoku na studentskou kolej ve Starobělsku (21 zabitých studentek, 44 zraněných) z předchozích dnů a pouští divákům video z místa — záběry posledních zpráv obětí rodičům a vyprošťování těl ze sutin. Zdůrazňuje záměrnost: Ukrajinci zaútočili ráno, když studentky spaly, ve třech vlnách dronů střídaných těžkou municí, aby uprchlíkům zabránili v útěku z budovy. Putin slíbil, že pachatelé ponesou „zasloužený a nevyhnutelný trest". Vrabel pouští i výrok šéfa ukrajinské rozvědky Kyryla Budanova, že „brzy budou velmi vážné problémy na ruském území" a útoky budou pokračovat.
+
+Vrabel z toho vyvozuje přímou spoluzodpovědnost ČR: premiér Babiš v prosinci schválil 90 miliard EUR pro Ukrajinu (30 % na chod státu, 60 % na výrobu zbraní); „my mu platíme jeho plat", financujeme drony, které dopadly na kolej. „Máme parlamentní demokracii a zvolili jsme si Andreje Babiše" — proto jsou občané ČR spoluzodpovědní i za to, co přijde.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)

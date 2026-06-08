@@ -535,3 +535,15 @@ Sládek byl na demonstraci napaden — neznámý muž mu vytrhl megafon (Vrabela
 **Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
 
 **Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+---
+
+### NATO 5 % HDP: „opozice" posouvá laťku, aby koalice vypadala umírněně (Vrabel, 1. 6. 2026)
+
+Vrabel reaguje na facebookový příspěvek Ivana Bartoše (Piráti), který v Litvě na parlamentním shromáždění NATO spoluschválil deklaraci o směřování k výdajům 5 % HDP na obranu, a kritizuje hnutí ANO za plán držet české výdaje na pouhých 1,76 % HDP. Vrabel z toho vyvozuje mechanismus, jakým je manipulováno veřejné mínění: skutečná opozice (Piráti, STAN) místo aby požadovala méně zbrojení, posouvá laťku na 5 % — tím vládní koaliční 2 % a přeměna ČR na „výrobnu zbraní pro Američany" (Macinka v Kongresu) vypadají umírněně a rozumně.
+
+Vrabel mapuje celé spektrum: jeho hnutí ČR na prvním místě je jediné pro úplné vystoupení z NATO (které označuje za „teroristickou organizaci" kvůli bombardování Jugoslávie 1999); PRO/SPD/Trikolora/Svobodní chtějí v NATO zůstat a navyšovat na ~2 %; ANO (Babiš, Macinka) drží 2 % a zbrojí; a „opozice" (Piráti/STAN) přidává 5 %. Závěr: česká parlamentní politika je „totalitární" — jediný povolený pohyb je mezi 2 % a 5 %, vystoupení z NATO není na stole. Stejně jako před volbami se voličům předložilo 10 „povolených" stran.
+
+> „Opozice by měla říkat: my nechceme být v NATO, my tam nechceme platit. A u nás je to tak, že koalice říká chceme platit 2 % a opozice říká my taky chceme být v NATO, ale chceme platit 5 %." — Ladislav Vrabel, [Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
