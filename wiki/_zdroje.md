@@ -1946,3 +1946,12 @@
 - **Délka:** 00:59:07
 - **Poznámka:** „Zprávy v devět s komentářem" (se Zuzkou), 14 zpravodajských bloků. Klíčová témata: nová fáze SVO — ruské masivní údery (729 prostředků) jako odveta za Starobělsk, cílení „rozhodovacích center"; ruský zákaz vývozu leteckého paliva — Vrabel viní válku USA v Íránu/Hormuz a nedostatek kerosinu, ne ukrajinské drony (kritika ČT); výzva Zemanovi odebrat Zelenskému Řád bílého lva; ukrajinizace ČR („Česko-Ukrajinsko" — vlajky, migranti, univerzity); Pegasus/NSO konference v Praze vs. manželka jako bezpečnostní ohrožení; EU obchodní dohoda s USA (cla 15 %) jako „diktatura tvářící se jako demokracie"; jaderné zbraně USA v Polsku/Pobaltí + obhajoba výroku o F-35; Izrael/Gaza genocida + apriorní podpora české vlády (Ben Gvir), Trump vs. Netanyahu; muniční iniciativa jako spoluzodpovědnost ČR za teror proti ruským civilistům; rezignace státní zástupkyně + bitcoinová kauza = skorumpovaný systém; Británie — případ Henryho Novaka, hate crime, „obrácený rasismus"; Srbsko (růst 32 %, ruští uprchlíci bez výhod vs. Ukrajinci); útoky na lodě v Černém moři.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Pavel jako prezident Německa (3. 6. 2026) {#jindřich-rajchl--videoportál-pavel-prezident-německa-3-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-03_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1328648145910560>
+- **Datum záznamu:** 2026-06-03
+- **Délka:** 00:01:17 | Zhlédnutí: 13 484
+- **Poznámka:** Krátký klip z TV debaty. Referendum o euru jako vůle občanů (3/4 nechtějí euro, občané = „akcionáři země", politici jen realizují jejich vůli — analogie advokát/klient). Petr Pavel „si spletl zemi" — chová se jako prezident Německa (prosazuje euro, zrušení práva veta, Spojené státy evropské, pomáhal Lichtenštejnům obejít Benešovy dekrety) — vše v rozporu se zájmy občanů ČR.
+- **Zpracováno:** ano
