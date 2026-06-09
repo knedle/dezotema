@@ -2274,7 +2274,9 @@ Vrabel z toho vyvozuje přímou spoluzodpovědnost ČR: premiér Babiš v prosin
 
 Ke zveřejněnému policejnímu záznamu z Británie — kde po útoku nožem zemřel 18letý student Henry Novak, zatímco policie spoutala jeho a soustředila se na muže tmavé pleti, který tvrdil, že byl rasově napaden — Vrabel tvrdí, že britská policie jedná na základě rasy a náboženství, nikoli činu. Z vlastní zkušenosti (žil v Británii) popisuje, že kritika islámu/muslimů je tam považována za „hate crime"; uvádí i příklad kamarádky odsouzené poté, co ji homosexuální barman obvinil ze sexuálního napadení. Tento mechanismus označuje za „obrácený rasismus" — protiústavní i v ČR (posuzování podle rasy/náboženství). Varuje, že migrační pakt přinese tuto situaci do ČR „od roku 2027".
 
-**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+Tentýž případ komentuje i **Rajchl** (3. 6. 2026): zdůrazňuje, že vrah (Vikram Digma) byl v UK odsouzen na doživotí, ale policie po příjezdu po pouhém obvinění z rasismu spoutala oběť (která s pouty na rukou vykrvácela), nikoli pachatele. Označuje to za „důsledek falešné politiky" a dává to do souvislosti s rozsudkem nad SPD za předvolební plakát (viz [DSA a cenzura — trestání politického projevu](dsa-cenzura.md#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026), [Rajchl — Videoportál: rozsudek nad SPD a cenzura, 3. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026)
 
 ---
 

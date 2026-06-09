@@ -1955,3 +1955,12 @@
 - **Délka:** 00:01:17 | Zhlédnutí: 13 484
 - **Poznámka:** Krátký klip z TV debaty. Referendum o euru jako vůle občanů (3/4 nechtějí euro, občané = „akcionáři země", politici jen realizují jejich vůli — analogie advokát/klient). Petr Pavel „si spletl zemi" — chová se jako prezident Německa (prosazuje euro, zrušení práva veta, Spojené státy evropské, pomáhal Lichtenštejnům obejít Benešovy dekrety) — vše v rozporu se zájmy občanů ČR.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: rozsudek nad SPD a cenzura (3. 6. 2026) {#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-03_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/4352821411601769>
+- **Datum záznamu:** 2026-06-03
+- **Délka:** 00:02:05 | Zhlédnutí: 131 024
+- **Poznámka:** Komentář k (nepravomocnému) rozsudku Obvodního soudu pro Prahu 1: SPD pokutována 3 mil. Kč za předvolební plakát „nedostatek lékařů nevyřeší chirurgové z dovozu" — Rajchl to označuje za faktické posvěcení cenzury a tlak na autocenzuru, ohrožení svobody slova. Paralela: den předtím byl v UK odsouzen na doživotí Vikram Digma za rituální ubodání studenta Henryho Novaka; policie po obvinění z rasismu spoutala oběť (vykrvácela), ne pachatele — „důsledek falešné politiky". SPD potrestána „za odvahu říct pravdu".
+- **Zpracováno:** ano
