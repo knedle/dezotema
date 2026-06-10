@@ -27,4 +27,11 @@
 
 ---
 
-**Zpracované zdroje:** [Soběšovice — Q&A část 2 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4) · [Soběšovice — přednáška část 1 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4) · [Svobodný vysílač CS: COVID tour (9. 4. 2026)](../_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026) · [Chcimír: Füllmich, petice, Pavel (22. 4. 2026)](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026) · [Mezinárodní podpora jako divadlo (26. 4. 2026)](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026) · [Palouček: dopisy Rajchlovi (1. 5. 2026)](../_zdroje.md#pavel-zítko--palouček-u-plzně-peková-dopisy-rajchlovi-1-5-2026)
+## Zpracované zdroje
+
+- [Soběšovice — Q&A část 2 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4)
+- [Soběšovice — přednáška část 1 (1. 4. 2026)](../_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+- [Svobodný vysílač CS: COVID tour (9. 4. 2026)](../_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)
+- [Chcimír: Füllmich, petice, Pavel (22. 4. 2026)](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026)
+- [Mezinárodní podpora jako divadlo (26. 4. 2026)](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026)
+- [Palouček: dopisy Rajchlovi (1. 5. 2026)](../_zdroje.md#pavel-zítko--palouček-u-plzně-peková-dopisy-rajchlovi-1-5-2026)

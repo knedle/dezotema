@@ -45,4 +45,23 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 
 ---
 
-**Zpracované zdroje:** [Sdílení videa: presstituti (3. 3. 2026)](../_zdroje.md#lenka-tarabová--sdílení-videa-presstituti-3-3-2026) · [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste) · [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky) · [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog) · [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice) · [Výzva lékařům — anglické svědectví (30. 3. 2026)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví) · [VZP: bonus za očkování jako diskriminace (30. 3. 2026)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace) · [Podvod století: virologie jako pseudověda (2. 4. 2026)](../_zdroje.md#lenka-tarabová--podvod-století-virologie-jako-pseudověda-2-4-2026) · [Bagatelizace násilí na dětech (4. 4. 2026)](../_zdroje.md#lenka-tarabová--bagatelizace-násilí-na-dětech-4-4-2026) · [Sdílení videa o nedostatku ropy (7. 4. 2026)](../_zdroje.md#lenka-tarabová--sdílení-videa-o-nedostatku-ropy-7-4-2026) · [Brněnské zastupitelstvo a sudetoněmecký sjezd (14. 4. 2026)](../_zdroje.md#lenka-tarabová--brněnské-zastupitelstvo-a-sudetoněmecký-sjezd-14-4-2026) · [ČT a ČRo: zrušit (18. 4. 2026)](../_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026) · [NOS: hlasování výboru pro zdravotnictví (30. 4. 2026)](../_zdroje.md#lenka-tarabová--nos-hlasování-výboru-pro-zdravotnictví-30-4-2026) · [Nedělní živé vysílání: suverenita, migrace (26. 4. 2026)](../_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026) · [Schwarzenberg na Prima: „psychopat" (26. 3. 2026)](../_zdroje.md#lenka-tarabová--schwarzenberg-na-prima-regulérní-psychopat-26-3-2026) · [„Nejbezpečnější vakcína je žádná vakcína" (1. 5. 2026)](../_zdroje.md#lenka-tarabová--nejbezpečnější-vakcína-je-žádná-vakcína-1-5-2026) · [Veřejné projednání větrné elektrárny (15. 5. 2026)](../_zdroje.md#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026) · [ČT stávka a občanská neposlušnost (20. 5. 2026)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
+## Zpracované zdroje
+
+- [Sdílení videa: presstituti (3. 3. 2026)](../_zdroje.md#lenka-tarabová--sdílení-videa-presstituti-3-3-2026)
+- [Cena pohonných hmot (12. 3. 2026)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste)
+- [ANO nechává neziskovky (23. 3. 2026)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky)
+- [Vakcinační genocida (23. 3. 2026)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog)
+- [Chvilkařská chobotnice (27. 3. 2026)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice)
+- [Výzva lékařům — anglické svědectví (30. 3. 2026)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví)
+- [VZP: bonus za očkování jako diskriminace (30. 3. 2026)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace)
+- [Podvod století: virologie jako pseudověda (2. 4. 2026)](../_zdroje.md#lenka-tarabová--podvod-století-virologie-jako-pseudověda-2-4-2026)
+- [Bagatelizace násilí na dětech (4. 4. 2026)](../_zdroje.md#lenka-tarabová--bagatelizace-násilí-na-dětech-4-4-2026)
+- [Sdílení videa o nedostatku ropy (7. 4. 2026)](../_zdroje.md#lenka-tarabová--sdílení-videa-o-nedostatku-ropy-7-4-2026)
+- [Brněnské zastupitelstvo a sudetoněmecký sjezd (14. 4. 2026)](../_zdroje.md#lenka-tarabová--brněnské-zastupitelstvo-a-sudetoněmecký-sjezd-14-4-2026)
+- [ČT a ČRo: zrušit (18. 4. 2026)](../_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
+- [NOS: hlasování výboru pro zdravotnictví (30. 4. 2026)](../_zdroje.md#lenka-tarabová--nos-hlasování-výboru-pro-zdravotnictví-30-4-2026)
+- [Nedělní živé vysílání: suverenita, migrace (26. 4. 2026)](../_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026)
+- [Schwarzenberg na Prima: „psychopat" (26. 3. 2026)](../_zdroje.md#lenka-tarabová--schwarzenberg-na-prima-regulérní-psychopat-26-3-2026)
+- [„Nejbezpečnější vakcína je žádná vakcína" (1. 5. 2026)](../_zdroje.md#lenka-tarabová--nejbezpečnější-vakcína-je-žádná-vakcína-1-5-2026)
+- [Veřejné projednání větrné elektrárny (15. 5. 2026)](../_zdroje.md#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026)
+- [ČT stávka a občanská neposlušnost (20. 5. 2026)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
