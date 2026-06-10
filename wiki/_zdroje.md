@@ -2018,3 +2018,12 @@
 - **Délka:** 01:00:59 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: Vrabelovo odsouzení za dotační podvod (perzekuce), tunel pod Beringem + Nord Stream, útok na fórum v Petrohradu, ruská ekonomická suverenita vs. předlužený Západ, Babiš a rozprodej ČEZ, Henry Novak / obrácený rasismus, migrační pakt / vystoupit z EU, Ukrajina do EU/NATO (čl. 42.7), EU mírový plán + Merz, Německo vypadlo z Rady bezpečnosti OSN, Arménie + polská US základna.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: ne euru, česká koruna (5. 6. 2026) {#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-05_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1313402153696698>
+- **Datum záznamu:** 2026-06-05
+- **Délka:** 00:01:45 | Zhlédnutí: 112 144
+- **Poznámka:** Shrnutí argumentů proti euru: Bulharsko, ratingy (0 % → 71 % eurozóny hůř než ČR), růst HDP mimo eurozónu, digitální euro/hotovost, Tlustého analogie „převodovka do Bruselu".
+- **Zpracováno:** ano

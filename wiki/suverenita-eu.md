@@ -96,6 +96,16 @@ V krátkém klipu z TV debaty Rajchl opakuje, že o přijetí eura má rozhodnou
 
 ---
 
+### Kategorické ne euru — argumenty pro českou korunu (Rajchl, 5. 6. 2026)
+
+Rajchl ve shrnujícím videu odmítá euro „kategoricky" — nikoli ze sentimentu, ale kvůli suverenitě a ekonomice. Argumenty: Bulharsko má hned po přijetí eura „obrovský problém"; v roce 2008 nemělo žádné (0 %) země eurozóny horší rating než ČR, dnes ho má 71 % z nich; růst HDP zemí mimo eurozónu je vyšší než v eurozóně; česká koruna patří k nejstabilnějším měnám a umožňuje vlastní měnovou politiku. Varuje před hrozbou digitálního eura ECB a ztrátou hotovosti. Přebírá analogii Vlastimila Tlustého: přijetí eura je jako dát převodovku auta „do Bruselu" — volant a pedály vám zůstanou, ale když ekonomika potřebuje „zařadit dvojku či trojku", nerozjedete se. Odmítá „marketingové floskule" o tom, že s eurem budeme „u velkého stolu" a budeme mít větší rozhodovací pravomoc — euro by podle něj jen zdražilo komodity. Navazuje na jeho dřívější pozice (viz [Euro a společná armáda jako ztráta suverenity](#euro-a-společná-armáda-jako-ztráta-suverenity), [Referendum o euru jako vůle „akcionářů země"](#referendum-o-euru-jako-vůle-akcionářů-země--pavel-jako-prezident-německa-3-6-2026)).
+
+> „V momentě, kdy se vzdáte vlastní národní měny a přijmete euro, tak je to to stejné, jako kdybyste převodovku z auta dali do Bruselu." — Jindřich Rajchl (cituje Vlastimila Tlustého), [Videoportál 5. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026)
+
+**Zdroje:** [Rajchl — Videoportál: ne euru, česká koruna, 5. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"
