@@ -314,3 +314,9 @@ Vrabel referuje z projevu Putina na fóru v Petrohradu: státy BRICS prý v obch
 Vrabel ke zprávě (Politico), že evropské firmy (hotelové řetězce Meliá, Iberostar; dopravci CMA CGM, Hapag-Lloyd) omezují aktivity na Kubě kvůli novým americkým sankcím a obavám ze zmrazení majetku, tvrdí, že USA chystají na Kubě převzetí a blokády. Spojuje to s ruským majetkem zmrazeným v Euroclearu (instituce spravující finanční aktiva): EU prostředky zmrazila a „chtěla si je vzít". Klíčová teze: clo, sankce a zákazy obchodu se na Západě používají jako nástroj politického vydírání, nikoli jako volný obchod — stejně jako maďarské vzdání se veta za 6,6 mld. eur. Připomíná, že covid i válka na Ukrajině mají společné obrovské zakázky z veřejných prostředků bez výběrových řízení.
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+### Putin v Petrohradu: „ekonomika znásilněna politikou", Evropa nejkritizovanější (Vrabel, 6. 6. 2026)
+
+Vrabel po opětovném poslechu Putinova projevu z fóra v Petrohradu shrnuje jeho hlavní poselství: evropská ekonomika byla „znásilněna" — stala se z ní politický nástroj (sankce, cla, vydírání), a proto nefunguje. Jako důkaz uvádí zavírání německých podniků a stěhování chemičky BASF do Číny. Evropu označuje (z pohledu světa) za „nejkritizovanější místo na světě" — víc než USA (kvůli Íránu) i Izrael. Kontrastuje to s pohledem, kde ekonomika = byznys a čísla, a politika slouží dobrým vztahům mezi zeměmi. Rozšiřuje záznam z [BRICS předčil G7](#brics-předčil-g7-putin-varuje-před-usdt-a-digitálním-eurem-vrabel-5-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)

@@ -2036,3 +2036,12 @@
 - **Délka:** 00:57:30 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: Zelenský dopis Putinovi (příměří vs. vyjednávání), ukrajinské útoky (Záporožská JE, Azov, Konstanca), zbrojní byznys bez výběrových řízení (Rammstein, Kolář/Macinka), Scott Ritter o jaderné válce, BRICS předčil G7 + varování před USDT/digitálním eurem, Kuba sankce + Euroclear, „pevnost Amerika"/TechNate, Izrael–Libanon příměří, Černá hora/Albánie do EU + Kushnerův ostrov, Srbsko a Čína. Závěr: realitní reklama + meta o formátu pořadu (logistika, nezpracováno).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (6. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-6-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-06_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2546156535834133>
+- **Datum záznamu:** 2026-06-06
+- **Délka:** 01:07:26 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: falešní mesiáši dosazení globalisty (Magyar protest, Trump/Merz/Babiš), Polsko vs. UPA, Putin v Petrohradu, ukrajinské útoky hluboko + blízký konec SVO, Ukrajinci nechtějí bojovat (TCK), lodě Azov/Černé moře, Arménie perzekuce + síť Rothschild–Trump, Braun v EP + hrozba zákazu AFD, vystoupení z EU jako záchrana, Starmer 2030 + zbrojení jako byznys, jaderné odzbrojení (výzva). Závěr: meta o pořadu + osobní (logistika, nezpracováno).
+- **Zpracováno:** ano

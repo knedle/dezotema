@@ -746,6 +746,54 @@ Na divácký dotaz Vrabel vysvětluje, že Srbsko podle něj do EU vstoupit nech
 
 ---
 
+### Polsko žádá Ukrajinu o přejmenování jednotky po UPA (Vrabel, 6. 6. 2026)
+
+Vrabel komentuje výzvu polského ministra obrany, aby Ukrajina přejmenovala vojenskou jednotku pojmenovanou po Ukrajinské povstalecké armádě (UPA) — „existují hranice, které nelze překročit". Vrabel připomíná volyňské masakry (UPA upalovala polské děti) a brutální analogií (násilník bitý oběti přes hlavu) ironizuje polský postoj: Polsko dál Ukrajinu živí, platí a zbrojí, ale „jediné důležité" je pro něj změna jména jednotky. Zmiňuje agresivitu v ulicích Varšavy (návštěva 2024) a dřívější ukrajinské výhrůžky Polákům (zapalování domů kvůli dávkám).
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
+### Ukrajinské údery hluboko do Ruska, blízký konec SVO a útoky na lodě (Vrabel, 6. 6. 2026)
+
+Vrabel referuje o ukrajinských dronových úderech hluboko do Ruska (Kronštadt, Leningradská oblast ~1000 km, ropné sklady), které „se rusům nepodařilo zastavit". Zároveň cituje Putina: Luhanská republika je téměř celá a Doněcká z ~75 % pod kontrolou ruské armády, takže speciální vojenská operace „může brzy skončit" (následovala by denacifikace a demilitarizace, případně ze vzduchu). Útoky na ropná zařízení (zásobující zbraně) Vrabel z hlediska napadeného státu „až tak neodsuzuje", ale opakované útoky na civilisty (21 studentek) označuje za neospravedlnitelný „terorismus", jímž se Ukrajina snaží vyprovokovat Rusko. K útoku na lodě v Azovském moři doplňuje 5 mrtvých (vč. ruského občana) a potopení turecké rybářské lodi Duru 67 u Krymu; Turecko navrhuje bezpečnostní dohodu pro Černé moře. Navazuje na [ukrajinské útoky jako válečné zločiny (5. 6.)](#ukrajinské-útoky-na-záporožskou-je-lodě-v-azovu-a-dron-v-konstanci-jako-válečné-zločiny-vrabel-5-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
+### Ukrajinci nechtějí bojovat — TCK „lov lidí" a úplatek 12 000 $ (Vrabel, 6. 6. 2026)
+
+Vrabel tvrdí (s odkazem na Putinova čísla o dezercích), že Ukrajinci nechtějí bojovat, a ilustruje to lidským příběhem: muže odvezly mobilizační jednotky TCK do výcvikového tábora; rodina ho po třech měsících našla a vykoupila písemně za 12 000 dolarů, on okamžitě odletěl do USA — o tři týdny později si pro něj TCK přišly domů. Vrabel z toho vyvozuje, že režim drží lidi ve válce násilím.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
+### Vystoupení z EU jako „sobecká, ale jediná záchrana"; vstup Ukrajiny = volný pohyb milionů Ukrajinců (Vrabel, 6. 6. 2026)
+
+Vrabel popisuje svůj osobní obrat (kolem roku 2021): ač se cítil být Evropanem a měl blízké na Západě, dospěl k závěru, že ČR musí vystoupit z EU, zavřít hranice a uchovat si suverenitu a kulturu — i za cenu, že „nechá ostatní západní země padnout" (EU podle něj padne kvůli islámské migraci a „liberálnímu progresivismu"). Vystoupení označuje za „sobecké, ale záchranu". K hrozbě vstupu Ukrajiny do EU dodává: znamenal by nejen volný pohyb (nekvalitního) zboží a služeb, ale i volný pohyb osob — odhaduje ~2 miliony Ukrajinců v ČR; po skončení války a otevření hranic by váleční veteráni „frnk na západ" a uplatňovali by vůči Čechům morální i finanční nároky za to, že „za ně bojovali". Navazuje na [migrační pakt — jediná cesta vystoupit z EU (4. 6.)](#migrační-pakt-nelze-zrušit-zevnitř--čl-10-ústavy-srovnání-s-brexitem-vrabel-4-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
+### Starmer: Rusko napadne NATO 2030; zbrojení jako byznys a politický vliv (Vrabel, 6. 6. 2026)
+
+K výroku Keira Starmera (tajné služby: ruský útok na NATO/Británii možný 2030) a výzvě ke zbrojení Vrabel opakuje tezi: kdo prosazuje zbrojení, má z toho buď přímo peníze (kontrakty bez výběrových řízení), nebo politický vliv (musí „papouškovat", že Rusko je agresor, aby získal funkci). Jmenuje Turka (předvolební sliby o třívrstvé obraně), Macinku (zbrojní kontrakty = „udělat ráno", vyděláno do konce života) a Borise Johnsona (přijel za Zelenským se sponzorem, který získal zakázku na zbraně za miliardy a sabotoval mír 2022). Zmiňuje ruskou EMP zbraň (mohla by v okruhu 30 km vyřadit veškerou elektroniku — analogie s knihou Tma Ondřeje Neffa) a varuje, že při pokračujícím ostřelování Ruska může „Orešník" přiletět už 2026/2027, ne až 2030.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
+### Jaderné odzbrojení jako jediná cesta k míru — výzva (Vrabel, 6. 6. 2026)
+
+V „zprávě dne" Vrabel rozvíjí argument (navazuje na Scotta Rittera, viz [Scott Ritter: jadernou válku nelze vyhrát (5. 6.)](#scott-ritter-jadernou-válku-nelze-vyhrát--návrat-k-odzbrojení-a-diplomacii-vrabel-5-6-2026)): protože jadernou válku nelze vyhrát (po prvních ~20 hlavicích jsou velmoci zničeny), nemá smysl jaderné zbrojení ani „odstrašení" — výroky generála Pavla a Babiše o nutnosti jaderných zbraní „kvůli odstrašení" označuje za nelogické. Jedinou cestou k trvalému míru jsou podle něj mnohostranné závazné smlouvy o odzbrojení (přes OSN, navázání na START a logiku Reykjavíku z 80. let): zbraně nejprve do hangárů, satelitní kontrola, zapečetění, závazek nepoužití a nakonec likvidace. Vyzývá diváky, aby tuto myšlenku šířili a tlačili na parlament.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
 ## Izrael a Palestina
 
 ### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza

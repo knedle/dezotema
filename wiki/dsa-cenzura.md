@@ -168,3 +168,11 @@ Zítko se vrací ke svému odsouzení — soudkyně Mgr. Iva Dvořáková z Chom
 > „Pravda nikdy nemůže být poplašnou zprávou, tudíž ani trestným činem." — Pavel Zítko, [Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
 
 **Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+
+### Braunovi vypnut mikrofon v EP; hrozba zákazu AfD jako potlačení demokracie (Vrabel, 6. 6. 2026)
+
+Vrabel ukazuje záznam, jak byl polskému europoslanci Grzegorzi Braunovi v Evropském parlamentu vypnut mikrofon poté, co řekl „přestaňte předstírat, že pomáháte Ukrajině, obětujete krev Ukrajinců" — s odůvodněním, že „taková pozice hraje do rukou Ruska". Vrabel to ironicky komentuje jako „demokracii" a Brauna označuje za obdivovaného „kolegu" (zmiňuje jeho kontroverzní činy: hašení židovské chanukové menory hasicím přístrojem v polském parlamentu, trhání a pálení vlajek EU). Spojuje to s úsilím zakázat v Německu a EP stranu AfD — podle průzkumů nejsilnější v zemi: zrušit „ve jménu demokracie" nejsilnější zvolenou stranu označuje za vnitřně rozporné a za stejný mechanismus, jakým jsou v ČR likvidovány menší strany (vč. jeho hnutí ČR na prvním místě).
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)

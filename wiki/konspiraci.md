@@ -487,3 +487,17 @@ Zítko rozvíjí QAnon narativ o sérii nových „odhalení": Justin Bieber mě
 Vrabel ke zprávě (Die Welt), že USA předaly NATO seznam vojenské techniky (stíhačky, průzkumná letadla, drony, námořní síly), kterou už nechtějí zahrnovat do aliančního plánování, vykládá dlouhodobý „pentagonský plán": vytvořit z USA a okolních států (od Jižní Ameriky přes Kanadu po Grónsko, vč. Kuby) jednu opevněnou „pevnost Ameriku" ve stylu *TechNate* (technokratická idea z počátku 20. století), chráněnou dvěma oceány a protiraketovým „Iron Dome". Teze: zatímco bude zbytek světa ve válce, USA si přes digitální měny „pořeší" svůj nesplatitelný státní dluh a udrží svět obchodující v dolarech — ždímáním ostatních zemí přes cla, sankce, válku na Ukrajině a odstřižení Evropy od ruské energie. Navazuje na jeho výklad technokracie a digitální kontroly (viz [Palantir — digitální feudalismus](#palantir--paypal-mafie-digitální-feudalismus-nato-ho-tlačí-do-evropy-vrabel)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+### Globalisté dosazují „falešné mesiáše" napříč Západem — Magyar, Trump, Merz, Babiš (Vrabel, 6. 6. 2026)
+
+K protestům tisíců Maďarů proti premiéru Péteru Magyarovi (který „zradil" slib ochrany hranic a zrušil veto) Vrabel řadí Magyara do vzorce, který popisuje od roku 2020: globalistické elity v každé západní zemi po covidu/válce dosadí „falešného mesiáše" — politika, jenž se tváří jako bojovník za suverenitu a svobodu, ale po zvolení slouží elitám. Příklady: Trump (od něhož se odvrací i Tucker Carlson a Alex Jones), Merz (BlackRock, zrušil dluhovou brzdu), Babiš (nesplněné sliby: muniční iniciativa, F-35, 90 mld. pro Ukrajinu, jaderné zbraně), bulharský Radev, rumunský Georgescu (zakázán soudem). Klíčová teze: svět není rozdělen horizontálně (Rusko vs. Západ), ale vertikálně — „elity proti obyčejným lidem"; volíme ty, koho nám elity dosadí přes média a sponzory. Navazuje na [Trump jako mesijáš globalistů](#trump-jako-mesijáš-globalistů-předpověď-z-let-20202021--vrabel-5-5-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
+### Arménie: trestní stíhání opozice a síť Rothschild–Trump–Kushner (Vrabel, 6. 6. 2026)
+
+Před parlamentními volbami v Arménii (7. 6.) Vrabel tvrdí, že je trestně stíháno šest politiků strany „Silná Arménie", která se nelíbí globalistům — paralela s předvolební vlnou stíhání v ČR (Babiš, Okamura, Vrabel) a v Německu (domovní prohlídky u Petra Bystroně, AfD). Popisuje „mafiánskou strukturu řízenou shora" rodinou Rothschildů (banky, média, finanční toky), příbuzensky propojenou s Trumpy (Kushnerova sestra je provdána za Neda Rothschilda) — proto spolu „objevili" albánský ostrov. Do politických funkcí se podle něj člověk dostane jen přes „mediální a trestní síto" (a sociální sítě, kde nepohodlní dostávají shadowban). Cíl v Arménii: odříznout zemi od ruského vlivu a zřídit americké vojenské základny pro budoucí útok na Rusko. Predikuje, že globalisté „svého člověka" dosadí (jako u Orbána/Magyara). Navazuje na [Arménie 50 mil. eur](suverenita-eu.md#arménie-50-mil-eur-a-polská-žádost-o-americkou-základnu--obkličování-ruska-vrabel-4-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
