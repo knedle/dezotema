@@ -1991,3 +1991,12 @@
 - **Délka:** 01:13:27 | Zhlédnutí: 124
 - **Poznámka:** Hlavní bloky: Bitcoin „Blažcoin" (Jiříkovský >100 mld), měnová reforma 1953 + inflace (1 mld → 8,7 bil.), válečné reparace a ČSR jako trvající stát, Babišova tiskovka o vakcínách, „viry se šíří jen TV" + patentované nemoci, Zítkovo odvolání, QAnon (adrenochrom, Bieber/Obama, QFS, 250$ bankovka), OSN před kolapsem.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: emisní povolenky a ETS2 (4. 6. 2026) {#jindřich-rajchl--videoportál-emisní-povolenky-ets2-4-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-04_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2195475831213856>
+- **Datum záznamu:** 2026-06-04
+- **Délka:** 00:03:52 | Zhlédnutí: 256 858
+- **Poznámka:** Studie Warsaw Enterprise Institute o emisních povolenkách — 7000 Kč/rok navíc na osobu, dopad HDP ~100 mld, ČR platí 17× víc než Němci; „povolenky = německé důchody"; výzva ke zrušení ETS1 i ETS2.
+- **Zpracováno:** ano

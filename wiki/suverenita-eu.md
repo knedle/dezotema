@@ -120,6 +120,16 @@ Rajchl v Bratislavě rozebírá mechanismus emisních povolenek: byly záměrně
 
 ---
 
+### Emisní povolenky: ČR platí 17× víc než Němci — „platíme německé důchody" (Rajchl, 4. 6. 2026)
+
+Rajchl odkazuje na studii Warsaw Enterprise Institute, kterou prý musel připustit i český mainstream, a vykládá ji jako důkaz, že emisní povolenky jsou „ožebračovací zločinné schéma" bez vztahu k ochraně klimatu. Klíčová čísla, která uvádí: každý občan ČR platí kvůli povolenkám ~7 000 Kč ročně navíc; negativní dopad na HDP až 100 miliard Kč; ČR za povolenky platí 30× (vůči HDP) a 17× více než Němci, kteří ovšem mají trojnásobné platy. Hlavní teze: povolenky jsou „řešením penzijního systému v Německu" — „my za naše faktury za elektřinu platíme německé důchody." Skutečný dopad je dle něj ještě vyšší (dráží se vše — potraviny, stavební materiál, náklady firem), v řádu stovek miliard až bilionů. Raději by zaplatil 100 mld. ze státního rozpočtu, než nadále platit povolenky. Je pro zrušení ETS1 i ETS2 (ETS2 čísla ještě znásobí); systém označuje za hlavní brzdu evropské ekonomiky a důvod, proč Evropa (a Češi) chudnou vůči USA a Asii. Rozšiřuje jeho dřívější výklad povolenek jako přesunu peněz ke spekulantům (viz [Green Deal jako nástroj přesunu peněz ke spekulantům](#green-deal-jako-nástroj-přesunu-peněz-ke-spekulantům)).
+
+> „Emisní povolenky nejsou ničím jiným než řešením penzijního systému v Německu. My za naše faktury za elektřinu platíme německé důchody." — Jindřich Rajchl, [Videoportál 4. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-emisní-povolenky-ets2-4-6-2026)
+
+**Zdroje:** [Rajchl — Videoportál: emisní povolenky a ETS2, 4. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-emisní-povolenky-ets2-4-6-2026)
+
+---
+
 ## Energetika a Rusko
 
 ### Obnovení dovozu ruského plynu a ropy jako řešení energetické krize
