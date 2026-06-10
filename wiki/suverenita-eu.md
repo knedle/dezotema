@@ -656,6 +656,46 @@ Vrabel komentuje první ostré zahraniční nasazení českých vrtulníků Vipe
 
 ---
 
+### Tunel pod Beringovým průlivem a obnova Nord Streamu — USA s Ruskem obchoduje, ČR ne (Vrabel, 4. 6. 2026)
+
+Vrabel cituje Kirilla Dmitrijeva z fóra v Petrohradu: Rusko a USA mají podepsat dohodu o projektování tunelu pod Beringovým průlivem (~112 km, ~68 mld. USD — „tolik, kolik posíláme Ukrajině na zbraně za dva roky") a existuje technická možnost obnovit Nord Stream („přání rozumných sil v Evropě"). Vrabel poukazuje na rozpor: zatímco USA, které „rozehrály válku" a dál podporují Ukrajinu, nemají problém s Ruskem obchodovat a budovat společnou infrastrukturu, česká vláda Rusko jen označuje za agresora. Přeje si, aby se z politické scény vytratili „protiruští štváči" a obnovily se dodávky plynu a ropy, jinak hrozí ČR ekonomická katastrofa.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+---
+
+### Útok na ropný terminál během fóra v Petrohradu — Ukrajina/NATO na civilní cíle (Vrabel, 4. 6. 2026)
+
+Vrabel uvádí, že během Mezinárodního ekonomického fóra v Petrohradu (20 000 účastníků ze 100+ zemí) byl zasažen ropný terminál v okolí města — souběžně s návštěvou generálního tajemníka NATO Marka Rutteho a 32 zástupců zemí NATO v Kyjevě. Označuje to za útok Ukrajiny „společně se Západem/NATO" na cíle u probíhajícího fóra a používá analogii: jako by během Světového ekonomického fóra v Davosu začala sousední země bombardovat Curych. Pro Západ je to prý „v pořádku", což Vrabel odmítá. Navazuje na jeho tezi o ukrajinských útocích na civilní cíle (viz [Ukrajinské útoky na civilní cíle jako terorismus](#ukrajinské-útoky-na-civilní-cíle-jako-terorismus--západ-jako-sponzor-vrabel-3-6-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+---
+
+### Ukrajina do EU/NATO odblokována — čl. 42.7 jako past, Rutte „nezvratná cesta" (Vrabel, 4. 6. 2026)
+
+Po zrušení maďarského veta (Vrabel mluví o „maďarském JR", který „podvedl Maďary" a vzdal se práva veta výměnou za odblokování 6,6 mld. eur) EU odblokovala první skupinu témat přístupových rozhovorů s Ukrajinou a Moldavskem (oznámila premiérka Svyrydenko). Vrabel upozorňuje na čl. 42.7 Lisabonské smlouvy: na rozdíl od čl. 5 NATO (kde si státy volí, jak pomohou) ukládá členským státům povinnost pomoci napadenému státu „všemi dostupnými prostředky" — pokud by tedy Ukrajina vstoupila do EU během války, byla by ČR podle Vrabela „automaticky ve válce s Ruskem". Souběžně Rutte se zástupci 32 zemí NATO v Kyjevě potvrdil „nezvratnou cestu Ukrajiny do NATO" — což je dle Vrabela ruská „nepřekročitelná červená linie" z roku 2022. Schválení (Evropská rada, jednomyslně 27) připisuje za ČR Andreji Babišovi.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+---
+
+### EU mírový plán (DE/FR/UK) + Babiš chce Merze; Německo vypadlo z Rady bezpečnosti OSN (Vrabel, 4. 6. 2026)
+
+Vrabel referuje (Bloomberg), že Německo, Francie a Británie připravují nový formát jednání o ukončení války na Ukrajině před zimou — vyčítá jim ale, že „otáčejí realitu" (líčí Rusko jako útočníka na civilní cíle, ač podle něj začala Ukrajina). Andrej Babiš navrhuje, aby za EU vyjednával německý kancléř Merz — kterého Vrabel označuje za „válečného štváče" (Taurus na Krym, podpora Izraele a Ukrajiny). Zároveň Německo poprvé v historii nebylo zvoleno do Rady bezpečnosti OSN (104 hlasů; prohrálo s Rakouskem a Portugalskem); německý ministr Wadephul to přičetl podpoře Ukrajiny, Vrabel a citovaný zástupce AfD to čtou jako varovný signál, že „svět Německo nenávidí" za zbrojení a bezhlavou podporu Izraele. ČR se podle Vrabela podporou Ukrajiny, Izraele i Merze „dostala na stranu outsiderů".
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+---
+
+### Arménie 50 mil. eur a polská žádost o americkou základnu = obkličování Ruska (Vrabel, 4. 6. 2026)
+
+K oznámení von der Leyen o mimořádné pomoci 50 mil. eur Arménii (kvůli ruským obchodním omezením, pár dní před volbami 7. 6.) Vrabel tvrdí, že si EU Arménii „kupuje", aby z ní později mohla útočit na Rusko — scénář: ovlivnění voleb → loutková vláda → investice/bankovnictví → vojenské základny (analogie s ČR). Spojuje to se zprávou, že Polsko oficiálně nabídlo USA zřízení stálé vojenské základny na svém území. Vykládá obojí jako součást obkličování Ruské federace.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+---
+
 ## Izrael a Palestina
 
 ### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza
@@ -2326,7 +2366,9 @@ Ke zveřejněnému policejnímu záznamu z Británie — kde po útoku nožem ze
 
 Tentýž případ komentuje i **Rajchl** (3. 6. 2026): zdůrazňuje, že vrah (Vikram Digma) byl v UK odsouzen na doživotí, ale policie po příjezdu po pouhém obvinění z rasismu spoutala oběť (která s pouty na rukou vykrvácela), nikoli pachatele. Označuje to za „důsledek falešné politiky" a dává to do souvislosti s rozsudkem nad SPD za předvolební plakát (viz [DSA a cenzura — trestání politického projevu](dsa-cenzura.md#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026)).
 
-**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026), [Rajchl — Videoportál: rozsudek nad SPD a cenzura, 3. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026)
+Ve vysílání **4. 6. 2026** Vrabel případ rozvedl s promítnutím videa: vraha jmenuje jako Vikrama Digwu (23letý sik), který Henryho Novaka cestou domů pětkrát bodl „rituálním nožem" (sikové mají z náboženských důvodů výjimku ze zákazu dlouhých nožů). Policie podle Vrabela místo záchrany umírajícího (který pětkrát opakoval „I can't breathe") spoutala jeho a soustředila se na pachatele tvrdícího, že šlo o rasový útok — a zatkla „bílého". Spojuje to s protesty v Southamptonu (Henry, Henry), s Tommym Robinsonem (demonstrace 1,5 mil. v Londýně) a Nigelem Faragem, kteří volají po ukončení „obráceného rasismu vůči bílému muži". Dává to do souvislosti s odsouzením SPD za plakát „chirurgové z dovozu" a opakuje, že tohle čeká ČR s migračním paktem.
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026), [Rajchl — Videoportál: rozsudek nad SPD a cenzura, 3. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026), [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
 
 ---
 
@@ -2345,3 +2387,11 @@ Vrabel ke zprávě o stovkách migrantů prolamujících hraniční plot ve špa
 > „Ten migrační pakt se neodmítá ve Strakově akademii, ten migrační pakt se odmítá tím, že vystoupíme z Evropské unie." — Ladislav Vrabel, [Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Migrační pakt nelze zrušit zevnitř — čl. 10 ústavy, srovnání s Brexitem (Vrabel, 4. 6. 2026)
+
+V reakci na divácké komentáře Vrabel upřesňuje právní argument, proč podle něj nelze zrušit migrační pakt bez vystoupení z EU: čl. 10 české ústavy činí ratifikované mezinárodní smlouvy nadřazenými domácímu právu, takže ČR nemůže přijmout „protizákon" jako Trump v USA (USA mají „právní suverenitu"). Pakt je navíc jedním ze „základních pilířů" EU (soudržnost), takže by ho EU zrušit nenechala — jediná cesta je vystoupit z EU (Lisabonská smlouva). K námitce, že Británii Brexit nepomohl, odpovídá, že britský problém má jiný (koloniální) původ a „karmický dluh" vůči bývalým koloniím — ČR nikoho nekolonizovala, a kdyby si udržela hranice, nemusí přijmout nikoho. Zdůrazňuje, že i kdyby ČR dnes spustila vystoupení (2 roky), migranty z Blízkého východu a Afriky by musela přijímat celý rok 2027 a půl roku 2028 — „už jsme rok a půl pozdě". Hlavní hrozbou pro ČR označuje islamizaci a „ukrajinizaci", nikoli sudetoněmecký Landsmannschaft. Navazuje na jeho opakovanou tezi (viz [Migrační pakt, Ceuta a islám](#migrační-pakt-ceuta-a-islám--jediná-cesta-ven-je-vystoupit-z-eu-vrabel-3-6-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)

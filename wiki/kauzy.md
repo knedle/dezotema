@@ -430,3 +430,23 @@ Rajchl odmítá snahy Pirátů připravit Agrofert o dotace EU a označuje je za
 > „Nikdy, nikdy, nikdy nebudu na Andreje Babiše útočit přes Čapí hnízdo, přes jeho syna, nebo přes Agrofert. To je absolutně ubohé." — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
 **Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+## Kauza Ladislav Vrabel — dotační podvod
+
+### Odsouzení za „zaškrtnutí okýnka" jako politická perzekuce (Vrabel, 4. 6. 2026)
+
+Okresní soud v Českých Budějovicích odsoudil Vrabela za dotační podvod k 18měsíční podmínce (odklad 30 měsíců) a zákazu vést firmy na 2,5 roku. Vrabel hodnotí mediální popis (inkasování milionů „skrze fingovanou neexistující restauraci") za lež. Jeho verze: jako jednatel restaurací zavřených covidovými (později soudně zrušenými) opatřeními žádal stát o odškodnění; ve formuláři musel zaškrtnout „bezdlužnost vůči státu", ač firmy kvůli zavření neměly na odvody sociálního/zdravotního pojištění — za to byl po pěti letech odsouzen. Z více než 20 trestních řízení vedených proti němu od roku 2022 prý skončila všechna kromě tohoto jednoho; tvrdí, že jde o snahu umlčet politickou opozici a komentátora. Vinu klade na Babišovu vládu, která podniky zavřela (a poté na „covidovém semináři" přiznala chyby), ale neodškodnila je. Chystá se žalovat média a očišťovat jméno.
+
+> „Není to Vrabel, kdo krade. [...] Jsou to ty lidi, kteří rozkrádají ty miliardy ze státních rozpočtů." — Ladislav Vrabel, [Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+---
+
+### Babiš a rozprodej ČEZ — „rozkradená republika" (Vrabel, 4. 6. 2026)
+
+K záměru Andreje Babiše oddělit a prodat distribuci ČEZ Vrabel rozvíjí tezi o systémovém rozkrádání ČR. Kupónovou privatizaci označuje za nástroj, jímž státní majetek skončil v rukou elit a zahraničních firem (ne občanů). U ČEZ popisuje konkrétní praktiky: páteřní síť na jižní Moravě/Čechách (vlastněná německým provozovatelem) vede elektřinu z Německa do Rakouska „za naše peníze" a umožňuje při přetížení odpojit ČR místo Německa/Rakouska; regulátory/přepínače (Siemens, Bosch) se nakupují bez výběrových řízení; nový „bateriový" zákon (listopad) umožňuje vybraným lidem vydělávat na ukládání/dodávkách elektřiny (analogie se solárními barony). ČEZ podle něj dozoruje syn Václava Klause, zaměstnanci jezdí Porsche/Ferrari a odcházejí se „zlatými padáky" v desítkách milionů. Babiše označuje za jednoho z mála, kdo na rozprodeji republiky zbohatl (7. nejbohatší Čech, „550 milionů kapesného od otce do začátku").
+
+> „Prakticky celá Česká republika je roz-kra-de-ná." — Ladislav Vrabel, [Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)

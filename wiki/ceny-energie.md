@@ -294,3 +294,9 @@ Vrabel upozorňuje, že to zní solidárně, ale výsledek bude opačný: chudí
 Vrabel cituje výrok Kirilla Dmitrijeva z Mezinárodního ekonomického fóra v Petrohradu, že evropské země od odstřižení od ruské energie ztratily zhruba 3 biliony eur (3 000 miliard). Ironicky to „bere z lepší stránky": peníze podle něj nezmizely, jen se „přesunuly zdola nahoru" — k těm, kdo dováží a přeprodávají ropu z USA či Venezuely nebo ji nakupují od Ruska a draho přeprodávají Evropě, tedy k elitám na vrcholu pyramidy. Občané to zaplatili z vlastních kapes. Navazuje na jeho tezi o evropském ekonomickém modelu postaveném na levné ruské energii (viz [EU ekonomika v sutinách](#eu-ekonomika-v-sutinách--ztráta-levných-ruských-energií-jako-příčina-krize)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+### Rusko dosáhlo ekonomické suverenity vs. předlužený Západ (Vrabel, 4. 6. 2026)
+
+Vrabel komentuje prohlášení ruského ministra financí (Siluanova) z fóra v Petrohradu, že Rusko navzdory sankcím dosáhlo finanční a ekonomické suverenity — reálné příjmy obyvatel vzrostly za tři roky o více než 24 %, země brzy splatí zahraniční dluh a opírá se o vlastní zdroje. Vrabel to hodnotí jako vzor, jak by měl fungovat každý stát (vyrovnaný rozpočet), a staví to do kontrastu se Západem: USA mají ~38 bilionů dolarů „nesplatitelného" dluhu (na úrocích platí víc, než kolik vyčlení na splátky), většina západních ekonomik má dluh přes 100 % HDP. Systém se dle něj uměle udržuje „válkami a novodobým kolonialismem" — USA využívají EU a další státy k odčerpávání jejich bohatství. ČR podle něj žádnou takovou stabilitu nemá (Babiš plánuje 300 mld. dluh za rok, 40 % domácností nevyjde s příjmy), protože „se krade jako kdyby nebylo zítra". Připomíná, že Rusko podle jeho zdroje (ruský diplomat) v roce 2022 přežilo jen díky Indii a Číně.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)

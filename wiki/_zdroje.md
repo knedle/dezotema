@@ -2009,3 +2009,12 @@
 - **Délka:** 00:01:40 | Zhlédnutí: 184 466
 - **Poznámka:** Střih z TV debaty — kritika konsolidace Fialovy vlády (dotace 10 mld Onsemi, rodičák pod inflací, zrušené slevy) a Rajchlův ekonomický recept (rovná daň, nejnižší energie, dotace českým firmám).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (4. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-4-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-04_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/3593461857473127>
+- **Datum záznamu:** 2026-06-04
+- **Délka:** 01:00:59 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: Vrabelovo odsouzení za dotační podvod (perzekuce), tunel pod Beringem + Nord Stream, útok na fórum v Petrohradu, ruská ekonomická suverenita vs. předlužený Západ, Babiš a rozprodej ČEZ, Henry Novak / obrácený rasismus, migrační pakt / vystoupit z EU, Ukrajina do EU/NATO (čl. 42.7), EU mírový plán + Merz, Německo vypadlo z Rady bezpečnosti OSN, Arménie + polská US základna.
+- **Zpracováno:** ano
