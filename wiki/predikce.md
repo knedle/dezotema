@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — „Za pět let Českou republiku nikdo nepozná" (3. 6. 2026)
+
+**Předpověď:** Pokud ČR neuzavře hranice a nevystoupí z EU, stane se součástí migračního paktu (přijímání migrantů od 2027) a za pět let bude násilí migrantů „na denním pořádku" — „Českou republiku nikdo nepozná". Británii naopak označuje za stát, který už „překročil bod návratu".
+
+> „...za pět let Českou republiku nikdo nepozná a tohle bude na denním pořádku." — Ladislav Vrabel
+
+**Horizont:** ~2031 (5 let)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
 ### Ladislav Vrabel — Kryptoměny v roce 2026 porostou (31. 5. 2026)
 
 **Předpověď:** Vrabel předpokládá, že kryptoměny (zejména Bitcoin, Solana, XRP) v roce 2026 ještě porostou z aktuálně nízkých hodnot — čtyřletý cyklus to naznačuje; doporučuje investovat do silných měn.

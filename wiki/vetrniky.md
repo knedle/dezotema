@@ -109,3 +109,11 @@ Boldy zveřejnil písňové video stylizované jako lidová moravská píseň, k
 > „Tak pojedme do Prahy všichni spolu stát." — Boldy, [zdroj](_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
 
 **Zdroje:** [Boldy — Píseň proti větrníkům na Moravě (3. 6. 2026)](_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
+
+---
+
+### Toxický odpad z německých turbín vyvážen do ČR; Turek instaluje 500 větrníků (Vrabel, 3. 6. 2026)
+
+Vrabel ke zprávě německých médií o chybějícím systému likvidace vysloužilých větrných turbín (až 500 000 tun materiálu v příštích 10 letech v Německu) upozorňuje na případ podnikatele Michaela Rota, který měl státní prostředky na likvidaci, ale část odpadu nelegálně vyvážel na skládky v zahraničí včetně ČR a Polska. Případ pomohla odhalit starostka obce Jiříkov, která vozidlo zablokovala autem (Vrabel jí navrhuje vyznamenání); požaduje, aby škody, sanaci a pokuty zaplatilo Německo. Zároveň kritizuje „zmocněnce pro větrníky" Filipa Turka, pod nímž se má do ČR instalovat 500 turbín. Z vlastní zkušenosti (pole větrníků mezi Maďarskem a Rakouskem) tvrdí, že z rychle se otáčejících listů (400+ km/h) se uvolňuje sklolaminát a „jed" do ovzduší, který vítr roznáší do dálky. Navazuje na jeho tvrzení o 60 kg nanočástic na větrník (viz [konspiraci.md — chemtrails a větrníky](konspiraci.md#chemtrails-sypání-těžkých-kovů-do-atmosféry-větrníky-60-kg-nanočástic-vrabel-15-5-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)

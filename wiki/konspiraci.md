@@ -433,3 +433,25 @@ Přesto nevylučuje krátkodobé investice: předpokládá, že v roce 2026 kryp
 **Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
 
 **Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+### Skupování orné půdy a kontrola potravin jako globalistická agenda (Vrabel, 3. 6. 2026)
+
+Vrabel propojuje zničení 94 % zemědělské půdy v Gaze s tím, co dle něj probíhá „po celém Západě": vyplácení nizozemských zemědělců za ukončení činnosti, skupování orné půdy Billem Gatesem (dle Vrabela největší vlastník orné půdy v USA) a globalisty na Ukrajině. Ústřední teze: „kdo ovládá jídlo, ovládá lidi" — chystá se změna v tom, kdo produkuje a kontroluje potravinový řetězec; v ČR ho podle Vrabela ovládá Andrej Babiš, který „bude spolupracovat s globalisty". Navazuje na jeho výklad globalistů útočících na rodinu, stát, národ a náboženství (viz [Globalisté bojují vždy proti čtyřem věcem](#globalisté-bojují-vždy-proti-čtyřem-věcem-rodina-stát-národ-náboženství-vrabel-17-5-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Macinka jako převlek Barbary Škrlové — satirické „odhalení" dvojníka (Vrabel, 3. 6. 2026)
+
+Vrabel ve zjevně satirickém duchu „odhaluje", že ministr Petr Macinka je ve skutečnosti Barbara Škrlová, která se dříve „prezentovala jako Jan Lipavský" a říká „úplně ty stejné věci". Výrok paroduje proatlantickou kontinuitu české zahraniční politiky (Macinka = pokračovatel Lipavského) a využívá motiv záměny/dvojníků politiků (viz [Dvojníci a klony politiků a celebrit](#dvojníci-a-klony-politiků-a-celebrit)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Odposlech telefonů: zadní vrátka pro vlády, FSB odhalila spyware (Vrabel, 3. 6. 2026)
+
+Ke zprávě, že ruská FSB odhalila operaci zahraničních tajných služeb s nasazením spywaru do telefonů ruských představitelů (odposlech komunikace, skryté audio i video), Vrabel tvrdí, že většina telefonů a aplikací uživatele odposlouchává automaticky a má „zadní vrátka pro vlády" — odvolává se na (blíže neurčené) přiznání z okolí Trumpovy administrativy a na izraelský Pegasus (jímž byl odposloucháván i francouzský prezident). Sám prý používá telefon Pixel s operačním systémem, který nelze odposlouchávat a umožňuje aplikace „uzavřít do boxu". Navazuje na jeho výklad sítě 6G a digitální kontroly (viz [Síť 6G jako planetární sledovací organismus](#síť-6g-jako-planetární-sledovací-organismus--vrabel-2-5-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)

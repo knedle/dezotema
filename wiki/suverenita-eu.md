@@ -622,6 +622,30 @@ Vrabel přebírá ruský narativ (Marija Zacharovová) o útoku dronem-kamikaze 
 
 ---
 
+### Obnovení ekonomických vztahů s Ruskem — absence ČR na fóru v Petrohradu (Vrabel, 3. 6. 2026)
+
+K Mezinárodnímu ekonomickému fóru v Petrohradu (s avizovaným vystoupením Putina 5. 6.) Vrabel konstatuje, že ČR tam nemá zastoupení, a volá po narovnání a obnovení obchodních vztahů s Ruskou federací — desítky let fungujícího partnerství (i za SSSR). Argumentuje, že Rusko je zdrojem nejlevnějšího a nejčistšího plynu a ropy a největší sousední jadernou velmocí. Navazuje na svou dřívější tezi, že EU se odpojením od ruských energií dobrovolně poškodila (viz [EU ekonomika vybudována na levném ruském plynu](#eu-ekonomika-vybudována-na-levném-ruském-plynu--vzdáváme-se-jí-dobrovolně-vrabel-18-5-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Ukrajinské útoky na civilní cíle jako „terorismus" — Západ jako sponzor (Vrabel, 3. 6. 2026)
+
+Vrabel označuje ukrajinské drony útočící na Leningradskou oblast (~30 dronů v době fóra v Petrohradu) a úder na civilní autobus v Jenakijevu (7 mrtvých, 11 zraněných) za teroristické útoky na civilní cíle. Přebírá výrok mluvčí ruského MZV Marije Zacharovové, že „Západ sponzoruje ukrajinský terorismus prostřednictvím NATO" a že kdyby si evropští občané uvědomili, že platí zabíjení civilistů, takové režimy by nevolili. Vrabel z toho vyvozuje spoluodpovědnost ČR a Západu — voliči Babiše prý dali hlas s očekáváním konce muniční iniciativy, financování i dodávek zbraní Ukrajině, k čemuž nedošlo. Navazuje na [Muniční iniciativa = spoluzodpovědnost ČR](#muniční-iniciativa--spoluzodpovědnost-čr-za-teror-proti-ruským-civilistům-vrabel-2-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### České vrtulníky Viper do Polska — „podřízenost NATO" (Vrabel, 3. 6. 2026)
+
+Vrabel komentuje první ostré zahraniční nasazení českých vrtulníků Viper (22. základna vrtulníkového letectva) v Polsku k ochraně vzdušného prostoru na východním křídle NATO, kde vystřídají vrtulníky Venom. Hodnotí to jako stupňování podřízenosti ČR vůči NATO a posílání českých vojáků „na hranice s Ruskou federací" — kde by v případě incidentu mohli „střílet ostrými".
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
 ## Izrael a Palestina
 
 ### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza
@@ -639,6 +663,22 @@ Vrabel tvrdí, že v Gaze (a vůči Libanonu) dochází ze strany Izraele ke gen
 > „Je potřeba soudit každého podle jeho činů, a ne podle nějakých sympatií." — Ladislav Vrabel, [Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### Bombardování nemocnic, 94 % půdy Gazy a protest židů proti mobilizaci (Vrabel, 3. 6. 2026)
+
+Vrabel rozšiřuje kritiku Izraele o tři body: (1) izraelský letecký útok na nemocnici Jabal Amel v libanonském Súru (mrtví vč. zdravotníků), den předtím na nemocnici Hiram — pokračující vysídlování obyvatel jižního Libanonu; (2) zpráva FAO, že Izrael zničil nebo poškodil 94 % zemědělské půdy v Gaze (využitelné zůstalo ~1,5 %), což zasazuje do globalistické agendy ovládnutí potravin a projektu „Velký Izrael" zasahujícího i na Ukrajinu; (3) protest izraelských (ultraortodoxních) židů proti povinné vojenské službě — Vrabel ho přirovnává k odporu proti tomu, „aby s nimi udělali totéž co s Ukrajinci". Klíčové rozlišení: nálada by neměla být „protižidovská" (obyčejní Židé jsou „v pořádku"), ale proti „sionistickému režimu", který rozpoutává války. Kritizuje ČR za apriorní podporu (ohlášené veto proti opatřením EU vůči izraelským ministrům) — Babiš a Macinka podle něj „mají ruce od krve". Navazuje na [Genocida v Gaze (2. 6.)](#genocida-v-gaze-a-apriorní-podpora-izraele-českou-vládou-vrabel-2-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Kushnerovy realitní projekty na „hřbitovech" — protesty v Srbsku, Albánii, Gaze (Vrabel, 3. 6. 2026)
+
+Vrabel ironicky komentuje realitní projekty Jareda Kushnera (Trumpova zetě) a Trumpa coby „realitních makléřů": luxusní hotelový komplex za 1,4 mld. USD na ekologicky citlivém pobřeží Albánie, neúspěšný pokus získat zbombardovanou budovu generálního štábu v centru Bělehradu (Srbsko muselo kvůli památkové ochraně měnit zákon; architekti i úředníci se vzepřeli a Kushner odešel) a plán turistických letovisek v Gaze — „na hřbitově, kde je zem prosáklá krví". Albánci si dle Vrabela vzali příklad ze srbských protestů. Vrabel staví do kontrastu „obyčejné" realitní makléřství (prodej domů lidem prchajícím před válkou) a vnucování projektů do zemí, kde je nikdo nechce.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 
 ---
 
@@ -2285,3 +2325,13 @@ Tentýž případ komentuje i **Rajchl** (3. 6. 2026): zdůrazňuje, že vrah (V
 Vrabel cituje srbského prezidenta Vučiće (odmítl spekulace o vízovém režimu pro Rusy; uvedl růst ekonomiky o 32 % v 1. čtvrtletí) a používá Srbsko jako protiklad k ČR. Do Srbska podle něj přišlo mnoho Rusů prchajících před válkou — ale na rozdíl od ukrajinských uprchlíků v ČR nemají žádná „speciální práva": dlouho čekají na víza, nedostávají od státu peníze, chovají se „s pokorou" a nejsou hlasití (často IT pracovníci pracující online). Vučić podle Vrabela rychle vyvrátil zprávu o zrušení víz Rusům (spojovanou s přibližováním k EU), což Vrabel hodnotí jako důkaz, že Srbsko nepodléhá tlaku EU a drží suverénní, multivektorovou politiku. Navazuje na jeho opakované hodnocení Srbska jako modelu suverenity.
 
 **Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
+
+---
+
+### Migrační pakt, Ceuta a islám — jediná cesta ven je vystoupit z EU (Vrabel, 3. 6. 2026)
+
+Vrabel ke zprávě o stovkách migrantů prolamujících hraniční plot ve španělské Ceutě (loni rekord 3 800, letos za 5 měsíců už 2 400) tvrdí, že čísla rostou poté, co Španělsko zlegalizovalo 800 000 nelegálních migrantů. Hlavní teze: jediná legální cesta, jak se zbavit migračního paktu, je vystoupit z EU — pakt je soudně vymahatelný a patří k „základním pilířům EU"; pouhé odmítnutí ve Strakově akademii nestačí. ČR má výjimku do konce roku 2026 (kvůli přijetí 100 000 Ukrajinců), od roku 2027 ale bude muset přijímat migranty v rámci paktu. Islám v podobě práva šaría označuje za neslučitelný s lidskými právy a ústavou ČR (princip hijry — vystěhování za účelem islamizace; v šaríi prý chybí trest za zabití nemuslima). Kritizuje romskou organizaci Romea CZ za to, že hájí práva přistěhovalců — připomíná, že islámský stát v Sýrii zabíjel i ty, kdo bránili práva menšin (homosexuály), a vyzývá Romy, aby drželi s „původním obyvatelstvem". Británie podle Vrabela už „překročila bod návratu", ČR zatím ne, ale bez uzavření hranic a vystoupení z EU „za pět let Českou republiku nikdo nepozná".
+
+> „Ten migrační pakt se neodmítá ve Strakově akademii, ten migrační pakt se odmítá tím, že vystoupíme z Evropské unie." — Ladislav Vrabel, [Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)

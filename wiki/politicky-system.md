@@ -571,3 +571,19 @@ Jako důkaz bližších vazeb USA na Babiše uvádí, že Trump telefonoval Andr
 > „Pokud by Volodymyr Zelenský dnes nechtěl držet zuby nehty u moci a inkasovat další miliardy od Evropské unie, tak už by ten mír tady dávno byl." — Jindřich Rajchl, [Videoportál 2. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-2-6-2026)
 
 **Zdroje:** [Rajchl — Videoportál (Prima) 2. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-2-6-2026)
+
+---
+
+### Referendum musí být obecné, ne omezené — kritika návrhu Tejce (Vrabel, 3. 6. 2026)
+
+Vrabel vítá, že vláda (ministr spravedlnosti Jeronim Tejc) předkládá ústavní zákon o celostátním referendu, ale ostře kritizuje parametry: 300 000 podpisů pro vyhlášení je podle něj příliš (mělo by stačit max. 100 000) a kvórum 35 % oprávněných voličů (~2,9 mil. hlasů) pro platnost je prakticky nedosažitelné. Zásadní výhrada: referendum musí být obecné — o čemkoli, včetně vstupu či vystoupení z EU a NATO; pokud vláda určuje, o čem občané smějí hlasovat, „nejsme v demokracii". Kritizuje i návrh poslance Koláře (TOP 09) zapsat členství v EU a NATO přímo do ústavy, čímž by se vystoupení stalo fakticky nemožným. Navazuje na opakovanou tezi o chybějícím prováděcím zákonu o referendu (srov. Černohorský, [Absence referenda](#absence-referenda-jako-důkaz-ne-demokracie--sjezd-lm-jako-konkrétní-příklad-25-5-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Návrat EET — znevýhodnění malých živnostníků (Vrabel, 3. 6. 2026)
+
+K plánovanému návratu elektronické evidence tržeb (ministryně financí Schillerová slibuje jednodušší systém a bezplatnou aplikaci) se Vrabel staví jednoznačně odmítavě. Z vlastní podnikatelské zkušenosti (živnost od 18 let, desítky provozů — restaurace, kavárny, bary) tvrdí, že kontrolní mechanismy vždy dopadají na malého živnostníka, zatímco velcí hráči napojení na veřejné zakázky dostávají úlevy a miliardové dotace. Odmítá státní kontrolu i „z Bruselu řízené plánované hospodářství"; ideál vidí ve „volném trhu" (odkazuje na Klausovu kupónovou privatizaci). Malí podnikatelé podle něj musí odpracovat mnohem více hodin než zaměstnanci, aby dosáhli srovnatelného příjmu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)

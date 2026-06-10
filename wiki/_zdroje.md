@@ -1973,3 +1973,12 @@
 - **Délka:** 00:02:37 | Zhlédnutí: 14 074
 - **Poznámka:** Písňové video stylizované jako lidová moravská píseň, odpor proti větrným elektrárnám na Moravě (Celožnice, Moravany). Výzva poslat turbíny „do Bruselu" a jet protestovat do Prahy.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (3. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-3-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-03_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2243867223106945>
+- **Datum záznamu:** 2026-06-03
+- **Délka:** 01:07:14 | ~20 zpráv s komentářem (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: vztahy s Ruskem (fórum Petrohrad), ukrajinské útoky na civilní cíle jako terorismus, rozsudek SPD, referendum (Tejc), EET, NATO vrtulníky Viper do Polska, migrace/Ceuta/islám, Izrael–Gaza–Velký Izrael, Kushnerovy realitní projekty, skupování orné půdy, odposlech telefonů, 3 biliony eur ztráta, větrníky (toxický odpad do ČR), zákaz dokumentu „Vina".
+- **Zpracováno:** ano

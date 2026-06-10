@@ -138,3 +138,23 @@ Rajchl komentuje (nepravomocný) rozsudek Obvodního soudu pro Prahu 1, jímž b
 > „Jedná se o faktické posvěcení cenzury. A co hůře, jedná se o vytváření tlaku na autocenzuru." — Jindřich Rajchl, [Videoportál 3. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026)
 
 **Zdroje:** [Rajchl — Videoportál: rozsudek nad SPD a cenzura, 3. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026)
+
+---
+
+### Soudní zákaz dokumentu „Vina" a blokované weby — „ČR není svobodná země" (Vrabel, 3. 6. 2026)
+
+Vrabel komentuje předběžné soudní opatření zakazující šíření dokumentární série „Vina: případ fakulta" (vč. již zveřejněných dílů, se stažením z platforem). Ironicky to označuje za „pravou svobodu" — stát, který „smí něco zakázat", zatímco občan svobodný být nemusí. Spojuje to s blokováním webů Russia Today a Sputnik v ČR (které prý nelze otevřít, ani když je pošle kolegům do redakce), s perzekucí za odznáček „Z" a obecně se selektivní represí. Připomíná nevyjasněné okolnosti policejního zásahu na Karlově univerzitě (proč policie vyvedla studenty na nádvoří „na ránu"), uzavření případu parlamentní komisí, smrt vyšetřovatelky a sebevraždu muže před Úřadem vlády v roce 2022. Závěr: „Česká republika není svobodná země."
+
+> „To je přece ta pravá svoboda, že stát může něco zakázat, aby byl stát svobodný. Občaní být svobodný nemusí, ale stát…" — Ladislav Vrabel (ironicky), [Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Rozsudek nad SPD: souhlas v části o Romech, nesouhlas v části o migraci (Vrabel, 3. 6. 2026)
+
+K témuž (nepravomocnému) rozsudku Obvodního soudu pro Prahu 1 (pokuta 3 mil. Kč pro SPD za dva předvolební plakáty) zaujímá Vrabel rozdělené stanovisko. V části o migraci (plakát proti migračnímu paktu) stojí jednoznačně za SPD: nejde podle něj o šíření nenávisti, protože „nenávist se musí týkat někoho, kdo žije v ČR" — odsoudit někoho za nenávist vůči migrantům, kteří v ČR nežijí, označuje za „nonsens" a doporučuje tento argument právnímu zástupci Okamury jako cestu k vítězství. Naopak v části o Romech (plakát o nevyplácení dávek rodinám, jejichž děti nechodí do školy) dává soudu spíše za pravdu: protiromskou rétoriku SPD odmítá jako „lacinou kartu", sám si dal podmínku vynechat „romskou otázku" z kampaně s M. Sládkem a vyzývá, aby se Romové a „původní obyvatelé" spojili proti islámské migraci, místo aby se rozdělovali. Srovnej s Rajchlovým hodnocením (viz [Rozsudek nad SPD = posvěcení cenzury](#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026)).
+
+> „To šíření nenávistí musí se týkat někoho, kdo žije v naší republice." — Ladislav Vrabel, [Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)

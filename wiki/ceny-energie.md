@@ -288,3 +288,9 @@ Vrabel upozorňuje, že to zní solidárně, ale výsledek bude opačný: chudí
 > „Ty chudí lidi budou prodávat tu svoji uhlíkovou stopu, aby měli nažerádlo, a ty bohatí lidi budou lítat dál a jezdit si autama." — Ladislav Vrabel, [Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 
 **Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+### Ztráta 3 bilionů eur odstřižením od ruské energie — „peníze se přesunuly nahoru" (Vrabel, 3. 6. 2026)
+
+Vrabel cituje výrok Kirilla Dmitrijeva z Mezinárodního ekonomického fóra v Petrohradu, že evropské země od odstřižení od ruské energie ztratily zhruba 3 biliony eur (3 000 miliard). Ironicky to „bere z lepší stránky": peníze podle něj nezmizely, jen se „přesunuly zdola nahoru" — k těm, kdo dováží a přeprodávají ropu z USA či Venezuely nebo ji nakupují od Ruska a draho přeprodávají Evropě, tedy k elitám na vrcholu pyramidy. Občané to zaplatili z vlastních kapes. Navazuje na jeho tezi o evropském ekonomickém modelu postaveném na levné ruské energii (viz [EU ekonomika v sutinách](#eu-ekonomika-v-sutinách--ztráta-levných-ruských-energií-jako-příčina-krize)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
