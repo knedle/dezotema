@@ -450,3 +450,17 @@ K záměru Andreje Babiše oddělit a prodat distribuci ČEZ Vrabel rozvíjí te
 > „Prakticky celá Česká republika je roz-kra-de-ná." — Ladislav Vrabel, [Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+### Dozimetr — vyšetřovací komise míří na „systémové selhání" (Rajchl, 7. 6. 2026)
+
+Rajchl vysvětluje cíl parlamentní vyšetřovací komise pro Dozimetr: nejde o to suplovat soud (úloha Kose, Dovhomily, Augustína, Rédla), ale odhalit „systémové selhání". To spatřuje v tom, že pět spolupracujících obviněných (kteří nesmějí lhát) shodně vypovědělo, že peníze z Dozimetru byly z velké části (jeden uvedl 80 %) určeny pro TOP 09 a STAN — a přesto nebylo zahájeno stíhání těchto stran jako právnických osob, ačkoli u Martina Dvořáka i Marka Schneidera stačila k obvinění jediná výpověď. Buď tedy obvinění lhali (pak mají přijít o status a být stíháni za křivé obvinění), nebo má následovat stíhání STAN/TOP 09 (možný trest: zrušení strany — jako v případě 3mil. pokuty SPD). Komise může předvolávat aktéry i lidi z policie a státního zastupitelství a vyžádat audity a posudky; Rajchl ji rámuje jako nástroj k obnově důvěry ve spravedlnost a zmiňuje 5 podezřelých úmrtí. Naznačuje i možné komise pro Bitcoin, IKEM a Kampeličku. Navazuje na [STAN jako právnická osoba pod hrozbou zrušení](#stan-jako-právnická-osoba-pod-hrozbou-zrušení-soudem-27-5-2026).
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### Rada ČT: dvojí metr Matocha/Bradáč vs. Rakušan — výzva ke složení mandátu (Rajchl, 7. 6. 2026)
+
+Při volbě nových radních ČT poukazuje Rajchl na dvojí metr: radní Matocha a Bradáč byli vyloučeni kvůli nahrávce (jejíž pravost popírají jako AI/fake), zatímco z přepisu nahrávky ze schůzky Víta Rakušana s vedením STAN jednoznačně plyne, že Rakušan měl informace z živého policejního spisu — a nikdo z účastníků (ani Rakušan) autenticitu těch slov nepopřel. Pokud by to byla pravda, šlo by o trestný čin zneužití pravomoci (a stejně tak u toho, kdo informace předal). Rajchl proto vyzývá Rakušana, aby do vyjasnění složil mandát — stejnou logikou, jakou STAN uplatnil na Matochu a Bradáče. Navazuje na [Rakušanův dvojí metr (22. 4.)](#parlamentní-vyšetřovací-komise-zablokována-rakušanův-dvojí-metr-22-4-2026).
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)

@@ -379,3 +379,11 @@ Rajchl sdílí výpověď Jana Šterna, bývalého ředitele ČT2. Štern popisu
 Rajchl případ rámuje jako doklad, že ČT skutečně není nezávislá, jak tvrdí demonstranti bránící veřejnoprávní televizi.
 
 **Zdroje:** [Rajchl — Videoportál 29. 5. 2026](_zdroje.md#jindřich-rajchl--videoportál-29-5-2026)
+
+---
+
+### ČT a Seznam zastavily reportáže o Dozimetru; mediální krytí STAN (Rajchl, 7. 6. 2026)
+
+Rajchl označuje za „selhání médií", že Česká televize (podle vyjádření ředitele ČT2, zprostředkovaného portálem Lovný.cz) zastavila reportáž o Dozimetru, kterou připravovala investigativní novinářka „Kopková", a že server Seznam nepublikoval hotový materiál Markéty Dobiášové. Kontrastuje to s tím, že ČT (Reportéři ČT, dříve 168 hodin) „vyšetřuje každou blbost". Poukazuje na rozsáhlé mediální krytí hnutí STAN a na to, že se „od rána do večera" řeší byt poslankyně Mrázové či moštárna Filipa Turka (drobnosti), zatímco velké kauzy (Rakušanův předražený nákup vrtulníků odhalený analýzou Tomáše Pauknera, spackaný nákup F-35) zůstávají bez pozornosti.
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)

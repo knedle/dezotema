@@ -2045,3 +2045,12 @@
 - **Délka:** 01:07:26 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: falešní mesiáši dosazení globalisty (Magyar protest, Trump/Merz/Babiš), Polsko vs. UPA, Putin v Petrohradu, ukrajinské útoky hluboko + blízký konec SVO, Ukrajinci nechtějí bojovat (TCK), lodě Azov/Černé moře, Arménie perzekuce + síť Rothschild–Trump, Braun v EP + hrozba zákazu AFD, vystoupení z EU jako záchrana, Starmer 2030 + zbrojení jako byznys, jaderné odzbrojení (výzva). Závěr: meta o pořadu + osobní (logistika, nezpracováno).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — FB Live: nenechme si rozkládat zemi (7. 6. 2026) {#jindřich-rajchl--fb-live-7-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-07_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2146913982831568>
+- **Datum záznamu:** 2026-06-07
+- **Délka:** 01:03:31
+- **Poznámka:** Hlavní bloky: Pavel indoktrinace dětí (Kunovice) + školství PRO, Zelenský/UPA neonacismus, V4 shoda, Pavel/Ankara, Hřib útoky na poslankyně, Rada ČT (Rakušan vs. Matocha/Bradáč), Dozimetr komise (systémové selhání), selhání médií (ČT/Seznam), rozsudek SPD + migrace, emisní povolenky („válka"), ekonomická strategie PRO. Pozvánka na seminář o větrnících (logistika).
+- **Zpracováno:** ano

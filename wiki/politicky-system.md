@@ -597,3 +597,37 @@ V televizní debatě Rajchl útočí na ekonomickou bilanci Fialovy vlády a sta
 > „Vy jste si váš dluh řešili z peněz našich dětí. [...] Vy jste jim to sebrali z jejich kapes." — Jindřich Rajchl, [Videoportál 4. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-debata-ekonomika-fialy-4-6-2026)
 
 **Zdroje:** [Rajchl — Videoportál: debata o ekonomice Fialovy vlády, 4. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-debata-ekonomika-fialy-4-6-2026)
+
+---
+
+### Pavel a „indoktrinace dětí" ve školách — zákaz politické indoktrinace (Rajchl, 7. 6. 2026)
+
+Rajchl ostře kritizuje Petra Pavla za to, že při návštěvě školy v Kunovicích žákům řekl, že Rusko povede „hybridní válku" proti ČR a Evropě i po skončení konfliktu na Ukrajině. Označuje to za „nejhorší případ politické indoktrinace a vyvolávání strachu mezi dětmi" — politické spory podle něj patří do debat, ne do hlav studentů. V návaznosti připomíná tři body programu PRO pro základní školství: (1) přísný zákaz politické indoktrinace (vzor Florida), (2) zákaz plošné inkluze (ničí kvalitu vzdělání), (3) absolutní zákaz vstupu politických neziskovek (propagace transgenderu, klimatu, strašení Ruskem). Pavlovy výroky (euro, zrušení práva veta chránícího malé státy, Spojené státy evropské) označuje za snahu zrušit suverenitu ČR a za důvod, proč ho v roce 2028 nemít na Hradě.
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### Cesta Pavla do Ankary jako „umanutost" bez přínosu pro ČR (Rajchl, 7. 6. 2026)
+
+Rajchl označuje tlak Petra Pavla na účast na summitu NATO v Ankaře za „utrucovitost/umanutost" bez jediného přínosu pro ČR — cokoli by tam vyjednal, zvládne i premiér Babiš. Téma slíbil rozvést v pořadu K věci na CNN Prima News.
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### Hřibovy útoky na poslankyně a dvojí metr Pirátů vůči „mladým" (Rajchl, 7. 6. 2026)
+
+Rajchl kritizuje Zdeňka Hřiba (Piráti) za osobní útoky na poslankyně (Mrázová, Válková — zopakoval „lež" o spolupráci Válkové s Urválkem), kterým prý celý pirátský klub zatleskal — což je v rozporu s jejich stížnostmi, jak jsou konzervativci „zlí na ženy". Druhý dvojí metr: Piráti útočí na mladé politiky Motoristů (Adam Scheina, František Kubásek na MŽP) kvůli věku a chybějící maturitě, ač jde o schopné influencery, kteří si sami vybudovali silnou základnu — zatímco když kritiku mladých vznese Rajchl, spustí se „ohňostroj".
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### Protekcionistická ekonomická strategie PRO — přednost českým firmám (Rajchl, 7. 6. 2026)
+
+Rajchl shrnuje směr PRO (rozvíjí [program PRO, 3. 5.](#flat-tax-15--dph-15--adresné-dluhopisy-a-státní-obchodník-s-plynem--rajchl-3-5-2026)): bez Green Dealu, emisních povolenek, migračního paktu a aktivní migrace z Ukrajiny; rovná daň 15 %, stabilní legislativa a otevřený protekcionismus — přednost českých firem u všech veřejných zakázek. Argument: ze zakázky dané české firmě se ~45 % vrátí do státního rozpočtu (daně, odvody), u zahraniční firmy „peníze už nikdy neuvidíte". Současný stav označuje za „koloniální systém z Bruselu": rovné ceny (bydlení, elektřina nejdražší), ale třetinové platy a nejhorší kvalita potravin — to není rovnostářství.
+
+> „Cokoliv dáte české firmě [...] zhruba 45 % se vám vrátí do státního rozpočtu. Když to dáte zahraniční firmě, už ty peníze nikdy neuvidíte." — Jindřich Rajchl, [FB Live 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)

@@ -176,3 +176,11 @@ Zítko se vrací ke svému odsouzení — soudkyně Mgr. Iva Dvořáková z Chom
 Vrabel ukazuje záznam, jak byl polskému europoslanci Grzegorzi Braunovi v Evropském parlamentu vypnut mikrofon poté, co řekl „přestaňte předstírat, že pomáháte Ukrajině, obětujete krev Ukrajinců" — s odůvodněním, že „taková pozice hraje do rukou Ruska". Vrabel to ironicky komentuje jako „demokracii" a Brauna označuje za obdivovaného „kolegu" (zmiňuje jeho kontroverzní činy: hašení židovské chanukové menory hasicím přístrojem v polském parlamentu, trhání a pálení vlajek EU). Spojuje to s úsilím zakázat v Německu a EP stranu AfD — podle průzkumů nejsilnější v zemi: zrušit „ve jménu demokracie" nejsilnější zvolenou stranu označuje za vnitřně rozporné a za stejný mechanismus, jakým jsou v ČR likvidovány menší strany (vč. jeho hnutí ČR na prvním místě).
 
 **Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+---
+
+### Rozsudek nad SPD jako „pravda trestným činem" + obhajoba pojmenování migrace (Rajchl, 7. 6. 2026)
+
+Rajchl znovu (viz [Rozsudek nad SPD = posvěcení cenzury, 3. 6.](#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026)) označuje rozsudek nad SPD za skandál: plakát podle něj jen spojuje dva faktické údaje (afričtí migranti páchají útoky bodnou/sečnou zbraní mnohonásobně častěji; většina těchto migrantů je černé pleti) — to není podněcování nenávisti, ale „pojmenování pravdy". Politickou hyperkorektnost a falšování statistik justicí označuje za hlavní příčinu úpadku Evropy. Jako příklady uvádí německého komika, který byl ve dne pobodán (5 ran) migrantem, jenž byl týž večer propuštěn jako „nebezpečný" (vražda nebyla dokonána), a případ Henryho Novaka (Vikram Digwa, sik). Pokud rozsudek potvrdí vyšší instance, „žijeme v zemi, kde je pravda trestným činem". Jako právník otevřeně zpochybňuje, že rozsudek má cokoli společného s právem — je podle něj „poplatný politické atmosféře".
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)

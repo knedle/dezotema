@@ -2509,3 +2509,29 @@ Vrabel ke zprávě o stovkách migrantů prolamujících hraniční plot ve špa
 V reakci na divácké komentáře Vrabel upřesňuje právní argument, proč podle něj nelze zrušit migrační pakt bez vystoupení z EU: čl. 10 české ústavy činí ratifikované mezinárodní smlouvy nadřazenými domácímu právu, takže ČR nemůže přijmout „protizákon" jako Trump v USA (USA mají „právní suverenitu"). Pakt je navíc jedním ze „základních pilířů" EU (soudržnost), takže by ho EU zrušit nenechala — jediná cesta je vystoupit z EU (Lisabonská smlouva). K námitce, že Británii Brexit nepomohl, odpovídá, že britský problém má jiný (koloniální) původ a „karmický dluh" vůči bývalým koloniím — ČR nikoho nekolonizovala, a kdyby si udržela hranice, nemusí přijmout nikoho. Zdůrazňuje, že i kdyby ČR dnes spustila vystoupení (2 roky), migranty z Blízkého východu a Afriky by musela přijímat celý rok 2027 a půl roku 2028 — „už jsme rok a půl pozdě". Hlavní hrozbou pro ČR označuje islamizaci a „ukrajinizaci", nikoli sudetoněmecký Landsmannschaft. Navazuje na jeho opakovanou tezi (viz [Migrační pakt, Ceuta a islám](#migrační-pakt-ceuta-a-islám--jediná-cesta-ven-je-vystoupit-z-eu-vrabel-3-6-2026)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+---
+
+### Emisní povolenky jako spekulativní derivátový trh; Němci „v kleštích" — válka povolenkám (Rajchl, 7. 6. 2026)
+
+Rajchl rozšiřuje svou kritiku emisních povolenek (viz [Emisní povolenky: ČR platí 17× víc (4. 6.)](#emisní-povolenky-čr-platí-17-víc-než-němci--platíme-německé-důchody-rajchl-4-6-2026)) o mechanismus: vedle primárního trhu existuje sekundární trh s deriváty (futures, forwardy) až 200× větší, kde spekulativní kapitál vydělává. Německé banky, investiční a penzijní fondy mají velkou část portfolia v povolenkách — při zrušení systému by musely tvořit opravné položky a fakticky zbankrotovaly (analogie/horší než krize 2008), proto jsou „v kleštích" a nemohou odstoupit; ČR ale ještě může. Vyhlašuje povolenkám „nesmlouvavou válku": zrušení ETS1 i ETS2 je „cíl číslo jedna" PRO, a to i za cenu vystoupení z EU (pokuta by vyšla levněji než platit povolenky). Odmítá kompromis („zlodějina je zlodějina, nechci z velké zlodějiny dělat menší"); kdo tvrdí, že povolenky jsou pro ČR pozitivní, je „lhář, nebo kolaborant".
+
+> „Já vyhlašuji emisním povolenkám nesmlouvavou válku [...] zrušení emisních povolenek bude cíl číslo jedna, ze kterého já neuhnu ani o centimetr." — Jindřich Rajchl, [FB Live 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### Zelenský pojmenoval jednotku po UPA = adorace neonacismu; ČR mlčí, Polsko reaguje (Rajchl, 7. 6. 2026)
+
+Rajchl ostře odsuzuje, že Volodymyr Zelenský pojmenoval vojenskou jednotku po UPA (Ukrajinská povstalecká armáda — podle Rajchla „čistí nacisté", podíleli se na masakrech žen a dětí, okupovali část Slovenska do roku 1947). Označuje to za otevřenou „adoraci ukrajinského neonacismu". Kontrast: v Polsku reaguje napříč spektrem (Tusk i Nawrocki) — návrh odebrat Zelenskému řád Bílé orlice; v ČR „všichni zbaběle mlčí". Rajchl navrhuje, aby byl Zelenský alespoň morálně odsouzen a aby mu byl odebrán řád Bílého lva — „člověk, který adoruje nacismus, si řád Bílého lva nezaslouží". Připomíná i korupci v Zelenského okolí (v Polsku zadržen bývalý náměstek ministra vnitra Bedrinsky za úplatek). Navazuje na [výzvu Pavlovi k odebrání řádu (31. 5.)](#sjezd-sdl-v-brně-jako-historický-zlom--příští-sjezd-liberec-2027-24-5-2026) a Vrabelovu výzvu Zemanovi.
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### V4: proč se Poláci a Maďaři shodnou na národních zájmech a ČR ne (Rajchl, 7. 6. 2026)
+
+Rajchl klade za hlavní příčinu ekonomického zaostávání ČR neschopnost domácí politické scény shodnout se napříč spektrem na základních národních zájmech — na rozdíl od Polska a Maďarska. V Polsku se Tusk (euroliberál) i Nawrocki (národní konzervativec), kteří se navzájem nesnášejí, shodnou na odmítnutí Green Dealu, emisních povolenek a migrace i na odmítnutí adorace UPA. Nawrocki navíc slibuje referendum o Green Dealu. V ČR podle Rajchla naopak řada stran „podkopává českou suverenitu". Tuto shodu napříč spektrem označuje za to, co Polákům a Maďarům umožňuje hájit národní zájmy.
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
