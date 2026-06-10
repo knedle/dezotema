@@ -682,3 +682,21 @@ Společnost BioNTech zastavuje výrobu vakcín proti COVID-19 v Německu. Zítko
 ⚡ **Poznámka:** Snížení výroby COVID vakcín reflektuje klesající poptávku; tvrzení o počtu obětí je Sternzova/Zítkova spekulace mimo vědecký konsensus.
 
 **Zdroje:** [ČsTV2 — Souhrn týdne 10/5 (12. 5. 2026)](_zdroje.md#československo-tv2--souhrn-týdne-105-12-5-2026)
+
+---
+
+### Babišova tiskovka o vakcínách: vinu hodil na podřízené (Zítko, 3. 6. 2026)
+
+Zítko komentuje tiskovou konferenci Andreje Babiše k nákupům vakcín. Tvrdí, že Babiš „zahrál neználka" — odpovědnost za nákupy svedl na úřednici „paní Baťovou" (jméno, které Zítko slyšel poprvé) a na odborníky Romana Chlíbka a Romana Prymulu, sám prý „byl jenom premiér" a nechal se „napálit". Zítko Babiše vyzývá, aby šel na rozbor krve v nezávislé laboratoři — ukázalo by se, zda mu skutečně píchli „ostrou" šarži (spike proteiny, oxid grafenu), nebo zda dostal „prominentní placebo" (fyziologický roztok), jak Zítko předpokládá (navazuje na jeho dřívější tezi, že vláda dostala při očkování placebo, viz [konspiraci — Trump-Putin-Xi aliance](konspiraci.md#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh)).
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+
+### „Viry se šíří jen televizí" a patentované nemoci (Zítko, 3. 6. 2026)
+
+Zítko šíří tvrzení (přebírá od jiné autorky a doplňuje vlastním komentářem), že viry, pandemie a epidemie se „šíří pouze televizním vysíláním v zaprodaných médiích a u zaprodanců na sítích". Jako „důkaz" uvádí, že covidem prý neonemocněli bezdomovci — „protože nechytají televizní signál". Dále tvrdí, že Ebola, Zika, HIV/AIDS, COVID-19 a horečka dengue jsou „patentované nemoci", které proto nemohly vzniknout v přírodě — COVID-19 měl být patentován v roce 2015 (přičítá to „panu Ročilovi"/Rockefellerovi), a diví se, že „zblblému netopýrovi ve Wuhanu" trvalo čtyři roky, než se to „dozvěděl".
+
+⚡ **Poznámka:** Tvrzení odporují vědeckému konsensu; patenty se týkají postupů/sekvencí, nikoliv „vlastnictví" nemocí, a nedokazují umělý původ.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)

@@ -455,3 +455,29 @@ Vrabel ve zjevně satirickém duchu „odhaluje", že ministr Petr Macinka je ve
 Ke zprávě, že ruská FSB odhalila operaci zahraničních tajných služeb s nasazením spywaru do telefonů ruských představitelů (odposlech komunikace, skryté audio i video), Vrabel tvrdí, že většina telefonů a aplikací uživatele odposlouchává automaticky a má „zadní vrátka pro vlády" — odvolává se na (blíže neurčené) přiznání z okolí Trumpovy administrativy a na izraelský Pegasus (jímž byl odposloucháván i francouzský prezident). Sám prý používá telefon Pixel s operačním systémem, který nelze odposlouchávat a umožňuje aplikace „uzavřít do boxu". Navazuje na jeho výklad sítě 6G a digitální kontroly (viz [Síť 6G jako planetární sledovací organismus](#síť-6g-jako-planetární-sledovací-organismus--vrabel-2-5-2026)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Měnová reforma 1953 a inflace jako „okrádání" — argument pro hotovost (Zítko, 3. 6. 2026)
+
+Zítko připomíná měnovou reformu z konce května 1953 jako „loupež století": prezident Zápotocký týden předtím ujišťoval „naše měna je pevná", a pak proběhla výměna většinou v poměru 50:1, která připravila Čechoslováky o úspory (následovaly sebevraždy). Z toho rozvíjí tezi o dlouhodobém okrádání inflací: z 1 miliardy korun v oběhu (po reformě 1953, pro české země) se prý dostalo na ~8,7 bilionu korun v roce 2026 (700–750 mld. hotovosti + ~8 bil. „virtuálních" peněz na účtech) — tedy zhruba 8 700násobné znehodnocení. Tištění „ničím nekrytých" peněz (zlatý standard zrušen 1971) označuje za skrytou loupež úspor a argumentuje pro zákonné právo na hotovost a pro uchování hodnoty ve zlatě/stříbře. Navazuje na jeho a Vrabelovu kritiku CBDC/bezhotovostní společnosti (viz [CBDC a digitální euro](#cbdc-a-digitální-euro-jako-nástroj-kontroly--velký-reset-vrabel-31-5-2026)).
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+
+### Válečné reparace a výzva mocnostem obnovit ČSR (Zítko, 3. 6. 2026)
+
+Zítko opakuje svůj výklad, že Německo dluží válečné reparace Československé republice (ne ČR ani SR), a přebírá výpočet „hnutí Jasan" (inženýr Jasan): 28–29 bilionů korun ve zlatě (~9 550 tun) — což je dle něj víc než deklarované měnové zlato USA (8 311 tun) a víc než „20 bilionů", s nimiž operovala Konečná. Opírá se o zákon 11/1918 a pařížskou dohodu z 21. 12. 1945 (náhrada za 360 000 zabitých Čechoslováků). ČR a SR označuje za „korporace" vzniklé protiprávně 1. 1. 1993 bez referenda, zatímco ČSR „nikdy nezanikla". Vyzývá světové mocnosti — Trumpa (USA), Putina (Rusko jako nástupce SSSR) a Si Ťin-pchinga (Čína) — aby pomohly obnovit státnost ČSR a vymoci pohledávku v rámci „vojenského mezinárodního práva". Rozšiřuje existující výklad (viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Deutschland, Čechland nebo Československo?](#deutschland-čechland-nebo-československo--sdl-sjezd-jako-důkaz-záměny-pojmů-26-5-2026)).
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+
+### QAnon: adrenochrom, Bieber/Obama, QFS a 250$ bankovka s Trumpem (Zítko, 3. 6. 2026)
+
+Zítko rozvíjí QAnon narativ o sérii nových „odhalení": Justin Bieber měl být jako patnáctiletý v roce 2009 „prodán" rapperem P. Diddym pedofilovi Baracku Obamovi (v rámci „kšeftu s adrenochromem"); o Obamových sklonech má svědčit i tvrzení, že Michelle Obamová je „před přeoperováním Mike Robinson". Robert F. Kennedy Jr. prý poslal delegáta za Reinerem Füllmichem do věznice (Füllmich má být do prázdnin propuštěn). Dále popisuje „pozitivní" signály blížícího se finále: aréna na MMA u Bílého domu s „hvězdnou bránou" (14. 6.), události spojené s 24. 6. a 4. 7. (250. výročí nezávislosti USA), nová „kvantová" 250dolarová bankovka s podobiznou Trumpa, zrušení Fedu a IRS jako „soukromých firem" a Trumpovy exekutivní příkazy „jeden za druhým". Rozšiřuje existující QAnon výklad (viz [Quantum Financial System a MedBeds](#quantum-financial-system-a-medbeds), [Save the Children: adrenochrom](#save-the-children-adrenochrom-a-záchrana-dětí-z-tunelů)).
+
+⚡ **Poznámka:** Jde o neověřitelná konspirační tvrzení bez opory ve faktech.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)

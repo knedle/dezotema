@@ -1982,3 +1982,12 @@
 - **Délka:** 01:07:14 | ~20 zpráv s komentářem (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: vztahy s Ruskem (fórum Petrohrad), ukrajinské útoky na civilní cíle jako terorismus, rozsudek SPD, referendum (Tejc), EET, NATO vrtulníky Viper do Polska, migrace/Ceuta/islám, Izrael–Gaza–Velký Izrael, Kushnerovy realitní projekty, skupování orné půdy, odposlech telefonů, 3 biliony eur ztráta, větrníky (toxický odpad do ČR), zákaz dokumentu „Vina".
 - **Zpracováno:** ano
+
+## Československo TV2 — Měnová reforma 1953 a Blažcoin (3. 6. 2026) {#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-03_Československo-TV2_Videoportál.txt)
+- **Kanál:** Pavel Zítko (Československo TV2)
+- **URL:** <https://m.facebook.com/watch/?v=2274836279943855>
+- **Datum záznamu:** 2026-06-03 (vysílání označeno jako úterní zpravodajství 2. 6.)
+- **Délka:** 01:13:27 | Zhlédnutí: 124
+- **Poznámka:** Hlavní bloky: Bitcoin „Blažcoin" (Jiříkovský >100 mld), měnová reforma 1953 + inflace (1 mld → 8,7 bil.), válečné reparace a ČSR jako trvající stát, Babišova tiskovka o vakcínách, „viry se šíří jen TV" + patentované nemoci, Zítkovo odvolání, QAnon (adrenochrom, Bieber/Obama, QFS, 250$ bankovka), OSN před kolapsem.
+- **Zpracováno:** ano

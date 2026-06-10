@@ -326,6 +326,14 @@ Zítko v živém vysílání 13. 5. 2026 (79 minut) podrobně rozebral 4. díl p
 
 ---
 
+### „Blažcoin": policie po roce přiznává jen miliardu, Zítko trvá na 100+ mld (3. 6. 2026)
+
+Rok po Blažkově odstoupení (30. 5. 2025) Zítko komentuje policejní sdělení (z 29. 5.), že Jiříkovský „stihl odklonit bitcoiny za víc než miliardu". Označuje to za zametání skutečného rozsahu: dle jeho analýzy šlo o legalizaci výnosů z prodeje drog za více než 100 miliard Kč ze dvou tržišť (SHIB/Sheep Marketplace 39 918 BTC + Nucleus Market 5 366 BTC). Připomíná, že den před schůzkou s Ministerstvem spravedlnosti Jiříkovský rozeslal bitcoiny na „spřátelené" peněženky (1,14 mld. + 1,14 mld. + 50 BTC), takže na „dar" pro ministerstvo už nezbylo; a že policie v Brně mu už v prosinci 2024 protiprávně vrátila techniku (z 50 počítačů přinesl na inventuru jediný, nezapečetěný). Mezi spoluúčastníky řadí Blažka, Daňhela, Karima Tice, právničku MS, notáře Míku, znalce Bergera a brněnské soudce; ODS (poslanec Havránek) prý chtěla krypto-příjmy do 40 mil. osvobodit od daně. Vrchní soud v Olomouci odsoudil Jiříkovského už 31. 5. 2018 na 9,5 roku za krádež bitcoinů ze SHIB Marketplace. Rozšiřuje dosavadní výklad (viz [Dvě darknetová tržiště, 100 miliard Kč](#dvě-darknetová-tržiště-100-miliard-kč-zítko-duben-2026)).
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+
 ## Letná 2026 — demonstrace jako politický nástroj neziskovek
 
 ### Financování Mináře a Šimon Pánek z Člověka v tísni

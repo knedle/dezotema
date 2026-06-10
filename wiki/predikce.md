@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — OSN dojdou peníze a globalismus se zhroutí (3. 6. 2026)
+
+**Předpověď:** Zítko tvrdí, že Organizace spojených národů stojí před kolapsem — přibližně za šest týdnů jí mají dojít peníze; spojuje to s očekávaným „hroucením globalismu jako domino" a s blížícím se 250. výročím nezávislosti USA (4. 7.).
+
+> „Organizace spojených národů stojí před kolapsem, očekává se, že přibližně za šest týdnů dojdou prašule." — Pavel Zítko
+
+**Horizont:** ~6 týdnů (do poloviny července 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+
 ### Ladislav Vrabel — „Za pět let Českou republiku nikdo nepozná" (3. 6. 2026)
 
 **Předpověď:** Pokud ČR neuzavře hranice a nevystoupí z EU, stane se součástí migračního paktu (přijímání migrantů od 2027) a za pět let bude násilí migrantů „na denním pořádku" — „Českou republiku nikdo nepozná". Británii naopak označuje za stát, který už „překročil bod návratu".

@@ -158,3 +158,13 @@ K témuž (nepravomocnému) rozsudku Obvodního soudu pro Prahu 1 (pokuta 3 mil.
 > „To šíření nenávistí musí se týkat někoho, kdo žije v naší republice." — Ladislav Vrabel, [Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Zítkovo odvolání: „pravda nemůže být poplašná zpráva" (3. 6. 2026)
+
+Zítko se vrací ke svému odsouzení — soudkyně Mgr. Iva Dvořáková z Chomutova ho jako „možná jediného v Evropě" odsoudila nepodmíněně na tři roky za „šíření poplašné zprávy" v souvislosti s výroky o covidu a vakcínách v letech 2020–2023. Zítko trvá na tom, že „pravda nikdy nemůže být poplašnou zprávou, tudíž ani trestným činem", tvrdí, že soudkyně porušila jedenáct zákonů (podal trestní oznámení), a očekává, že krajský soud v Ústí nad Labem rozsudek v odvolání zruší a přizná odškodnění — vedené prý proti více než třiceti osobám napříč ČR i Slovenskem. Zatím mu ale prý žádné předvolání k odvolacímu soudu nepřišlo. Odmítá výsměch odpůrců typu „proč Zítko ještě nesedí". Navazuje na dřívější covidové rozsudky (viz [Konkrétní případy odsouzených za covidové výroky](#konkrétní-případy-odsouzených-za-covidové-výroky)).
+
+> „Pravda nikdy nemůže být poplašnou zprávou, tudíž ani trestným činem." — Pavel Zítko, [Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
