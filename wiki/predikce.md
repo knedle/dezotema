@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Černá hora vstoupí do EU nejpozději do roku 2028 (5. 6. 2026)
+
+**Předpověď:** Na základě projevů ze summitu EU–Západní Balkán v Tivatu Vrabel tvrdí, že Černá hora vstoupí do EU „nejpozději do roku 2028" (pro investory do nemovitostí dobrá zpráva, pro zemi špatná). Srbsko podle něj naopak do EU nevstoupí (kvůli obchodu s Čínou a spolupráci s Ruskem).
+
+> „Do roku 2028 si myslím, že nejpozději Černá hora bude součástí Evropské unie." — Ladislav Vrabel
+
+**Horizont:** do 2028
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
 ### Pavel Zítko — OSN dojdou peníze a globalismus se zhroutí (3. 6. 2026)
 
 **Předpověď:** Zítko tvrdí, že Organizace spojených národů stojí před kolapsem — přibližně za šest týdnů jí mají dojít peníze; spojuje to s očekávaným „hroucením globalismu jako domino" a s blížícím se 250. výročím nezávislosti USA (4. 7.).

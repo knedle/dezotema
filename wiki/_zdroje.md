@@ -2027,3 +2027,12 @@
 - **Délka:** 00:01:45 | Zhlédnutí: 112 144
 - **Poznámka:** Shrnutí argumentů proti euru: Bulharsko, ratingy (0 % → 71 % eurozóny hůř než ČR), růst HDP mimo eurozónu, digitální euro/hotovost, Tlustého analogie „převodovka do Bruselu".
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (5. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-5-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-05_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1637222400724446>
+- **Datum záznamu:** 2026-06-05
+- **Délka:** 00:57:30 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: Zelenský dopis Putinovi (příměří vs. vyjednávání), ukrajinské útoky (Záporožská JE, Azov, Konstanca), zbrojní byznys bez výběrových řízení (Rammstein, Kolář/Macinka), Scott Ritter o jaderné válce, BRICS předčil G7 + varování před USDT/digitálním eurem, Kuba sankce + Euroclear, „pevnost Amerika"/TechNate, Izrael–Libanon příměří, Černá hora/Albánie do EU + Kushnerův ostrov, Srbsko a Čína. Závěr: realitní reklama + meta o formátu pořadu (logistika, nezpracováno).
+- **Zpracováno:** ano

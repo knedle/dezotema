@@ -300,3 +300,17 @@ Vrabel cituje výrok Kirilla Dmitrijeva z Mezinárodního ekonomického fóra v 
 Vrabel komentuje prohlášení ruského ministra financí (Siluanova) z fóra v Petrohradu, že Rusko navzdory sankcím dosáhlo finanční a ekonomické suverenity — reálné příjmy obyvatel vzrostly za tři roky o více než 24 %, země brzy splatí zahraniční dluh a opírá se o vlastní zdroje. Vrabel to hodnotí jako vzor, jak by měl fungovat každý stát (vyrovnaný rozpočet), a staví to do kontrastu se Západem: USA mají ~38 bilionů dolarů „nesplatitelného" dluhu (na úrocích platí víc, než kolik vyčlení na splátky), většina západních ekonomik má dluh přes 100 % HDP. Systém se dle něj uměle udržuje „válkami a novodobým kolonialismem" — USA využívají EU a další státy k odčerpávání jejich bohatství. ČR podle něj žádnou takovou stabilitu nemá (Babiš plánuje 300 mld. dluh za rok, 40 % domácností nevyjde s příjmy), protože „se krade jako kdyby nebylo zítra". Připomíná, že Rusko podle jeho zdroje (ruský diplomat) v roce 2022 přežilo jen díky Indii a Číně.
 
 **Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+
+### BRICS předčil G7; Putin varuje před USDT a digitálním eurem (Vrabel, 5. 6. 2026)
+
+Vrabel referuje z projevu Putina na fóru v Petrohradu: státy BRICS prý v obchodu předčily G7 a prosperují díky obchodování ve vlastních národních měnách, zatímco předlužený Západ (deficity, vysoké splátky dluhu vůči HDP) upadá. Putin podle Vrabela varoval ~150 zúčastněných zemí před přílišnou závislostí na amerických a evropských platebních systémech (USDT — kryptoměna navázaná na dolar — a digitální euro): hrozí jim zmrazení přístupu k platbám, jako se stalo Rusku „kvůli operaci na Ukrajině" nebo jak může postihnout africké země „kvůli postoji k LGBT". Doporučuje alternativní platební prostředky po vzoru BRICS. Vrabel připomíná, že do svého plánu „ČR na prvním místě" (2023) navrhl raději vstup do BRICS než setrvání v EU.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
+### Kuba: americké sankce a Euroclear — ekonomika jako nástroj vydírání (Vrabel, 5. 6. 2026)
+
+Vrabel ke zprávě (Politico), že evropské firmy (hotelové řetězce Meliá, Iberostar; dopravci CMA CGM, Hapag-Lloyd) omezují aktivity na Kubě kvůli novým americkým sankcím a obavám ze zmrazení majetku, tvrdí, že USA chystají na Kubě převzetí a blokády. Spojuje to s ruským majetkem zmrazeným v Euroclearu (instituce spravující finanční aktiva): EU prostředky zmrazila a „chtěla si je vzít". Klíčová teze: clo, sankce a zákazy obchodu se na Západě používají jako nástroj politického vydírání, nikoli jako volný obchod — stejně jako maďarské vzdání se veta za 6,6 mld. eur. Připomíná, že covid i válka na Ukrajině mají společné obrovské zakázky z veřejných prostředků bez výběrových řízení.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)

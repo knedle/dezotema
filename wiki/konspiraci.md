@@ -481,3 +481,9 @@ Zítko rozvíjí QAnon narativ o sérii nových „odhalení": Justin Bieber mě
 ⚡ **Poznámka:** Jde o neověřitelná konspirační tvrzení bez opory ve faktech.
 
 **Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+### „Pevnost Amerika" / TechNate — USA stahuje techniku z NATO, ždímání světa přes digitální měny (Vrabel, 5. 6. 2026)
+
+Vrabel ke zprávě (Die Welt), že USA předaly NATO seznam vojenské techniky (stíhačky, průzkumná letadla, drony, námořní síly), kterou už nechtějí zahrnovat do aliančního plánování, vykládá dlouhodobý „pentagonský plán": vytvořit z USA a okolních států (od Jižní Ameriky přes Kanadu po Grónsko, vč. Kuby) jednu opevněnou „pevnost Ameriku" ve stylu *TechNate* (technokratická idea z počátku 20. století), chráněnou dvěma oceány a protiraketovým „Iron Dome". Teze: zatímco bude zbytek světa ve válce, USA si přes digitální měny „pořeší" svůj nesplatitelný státní dluh a udrží svět obchodující v dolarech — ždímáním ostatních zemí přes cla, sankce, válku na Ukrajině a odstřižení Evropy od ruské energie. Navazuje na jeho výklad technokracie a digitální kontroly (viz [Palantir — digitální feudalismus](#palantir--paypal-mafie-digitální-feudalismus-nato-ho-tlačí-do-evropy-vrabel)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)

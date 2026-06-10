@@ -706,6 +706,46 @@ K oznámení von der Leyen o mimořádné pomoci 50 mil. eur Arménii (kvůli ru
 
 ---
 
+### Zelenského otevřený dopis Putinovi — Putin odmítá příměří před vyjednáváním (Vrabel, 5. 6. 2026)
+
+Vrabel popisuje otevřený dopis Volodymyra Zelenského Putinovi: dopis prý začíná výsměchem a výhrůžkami (Ukrajina může útočit na Rusko i na Putina osobně), na konci nabízí setkání „kdekoli kromě Moskvy". Putin podle Vrabela dopis odmítl: veřejně se takové věci neřeší, nejprve je nutné vyjednat klíčové otázky (denacifikace, práva rusky mluvících, Ukrajina mimo západní vojenské struktury) a setkání na nejvyšší úrovni má být až poslední krok k podpisu. Putin je dle Vrabela pro setkání, ale odmítá „příměří jako první" (to Rusko dlouhodobě odmítá) a interpretuje Zelenského náhlou ochotu k míru jako důsledek blízké vojenské prohry a tvrdších ruských úderů na Kyjev. Vrabel je přesvědčen, že to neskončí podle Zelenského podmínek.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
+### Ukrajinské útoky na Záporožskou JE, lodě v Azovu a dron v Konstanci jako „válečné zločiny" (Vrabel, 5. 6. 2026)
+
+Vrabel řadí další ukrajinské útoky jako důkaz „terorismu zoufalého režimu" („umírající kobyla nejvíc kope", analogie s Hitlerem na konci války): opakované drony na Záporožskou jadernou elektrárnu (i na techniky přicházející ji opravit během příměří), útok na dvě nákladní lodě (s obilím) v Azovském moři se zraněnými ázerbájdžánskými námořníky a námořní dron Sea Baby explodující v rumunském přístavu Konstanca. Ironizuje výklad rumunského prezidenta, že na incident s dronem „může Rusko, protože napadlo Ukrajinu". Varuje (s odkazem na Scotta Rittera), že nelze „pořád píchat do medvěda" bez následku. Navazuje na jeho tezi o ukrajinských útocích na civilní cíle (viz [Útok na ropný terminál během fóra v Petrohradu](#útok-na-ropný-terminál-během-fóra-v-petrohradu--ukrajinanato-na-civilní-cíle-vrabel-4-6-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
+### Zbrojní byznys bez výběrových řízení — Kolář a Macinka jako zprostředkovatelé (Vrabel, 5. 6. 2026)
+
+K jednání ukrajinského ministra Fedorova s Markem Ruttem (formát Rammstein, pokračování české muniční iniciativy) Vrabel rozvíjí tezi, že válku udržuje nadnárodní zbrojní síť: zbraně se nakupují za veřejné peníze bez výběrových řízení (předražené), pak „se účetně někam odvezou" a nelze je dopočítat. Jedou v tom dle něj všechny vlády NATO/EU i přidružené země. Jako konkrétní české „zprostředkovatele" zbrojních obchodů jmenuje Petra Koláře (kdysi velvyslanec v USA, vedl obchodní delegaci při nákupu stíhaček) a dnes Petra Macinku (jezdí do Kongresu domlouvat výrobu zbraní pro USA). Politici se podle něj do funkcí dostávají proto, že jim kampaně platí zbrojaři — a důsledkem jsou drahé energie, jídlo (40 % lidí nevyjde s příjmy) a mrtví.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
+### Scott Ritter: jadernou válku nelze vyhrát — návrat k odzbrojení a diplomacii (Vrabel, 5. 6. 2026)
+
+Vrabel přebírá argument Scotta Rittera (bývalý zbrojní inspektor OSN): jadernou válku nelze vyhrát (doktríny „mrtvé ruky" zajišťují odvetný úder i po zničení státu), takže nemá smysl ani jaderné odstrašování, ani vyhrožování jadernými zbraněmi, ani jejich výroba. Vrabel volá po návratu k odzbrojovacím smlouvám (připomíná Reagana a Gorbačova v Reykjavíku, stažení raket středního doletu) — to je dle něj skutečný úkol diplomacie, na rozdíl od Macinky, který „jezdí do USA domlouvat výrobu zbraní". Připomíná, že proti jadernému zbrojení „brojí celou dobu" a byl za to odsouzen (kauza F-35).
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
+### Srbsko nechce do EU — obchod s Čínou a spolupráce s Ruskem jako vzor suverenity (Vrabel, 5. 6. 2026)
+
+Na divácký dotaz Vrabel vysvětluje, že Srbsko podle něj do EU vstoupit nechce — přístupové dohody zdědil Vučić po prounijní vládě „demokratů" (kteří se dle něj „nechali koupit Západem"). Srbsko je sice obklíčené zeměmi NATO/EU a EU je jeho největší investor, ale Vučić odmítá to, co je pro EU nepřekročitelné: víza pro Rusy, sankce proti Rusku, spolupráci s Čínou (investice ~1 mld. USD, 6 000 výrobků bez cla, hypersonické balistické rakety, sledovací technologie) i řešení Kosova. Vrabel předpokládá spojení Srbska s Republikou srbskou (Milorad Dodik) a Srbsko opět staví jako model multivektorové suverenity.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
 ## Izrael a Palestina
 
 ### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza
@@ -739,6 +779,22 @@ Vrabel rozšiřuje kritiku Izraele o tři body: (1) izraelský letecký útok na
 Vrabel ironicky komentuje realitní projekty Jareda Kushnera (Trumpova zetě) a Trumpa coby „realitních makléřů": luxusní hotelový komplex za 1,4 mld. USD na ekologicky citlivém pobřeží Albánie, neúspěšný pokus získat zbombardovanou budovu generálního štábu v centru Bělehradu (Srbsko muselo kvůli památkové ochraně měnit zákon; architekti i úředníci se vzepřeli a Kushner odešel) a plán turistických letovisek v Gaze — „na hřbitově, kde je zem prosáklá krví". Albánci si dle Vrabela vzali příklad ze srbských protestů. Vrabel staví do kontrastu „obyčejné" realitní makléřství (prodej domů lidem prchajícím před válkou) a vnucování projektů do zemí, kde je nikdo nechce.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Izrael–Libanon příměří zprostředkované USA (Vrabel, 5. 6. 2026)
+
+Vrabel referuje o dohodě Izraele a Libanonu o příměří, zprostředkované Trumpovou administrativou (závazek zastavit nepřátelské akce a pokračovat v rozhovorech). Hodnotí ji jako „super zprávu" — vítá každou dohodu, která zastaví zabíjení — ale dává jí malou šanci na trvalost vzhledem k dosavadnímu chování Izraele.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
+### Černá hora a Albánie do EU; Kushnerův ostrov v Albánii (Vrabel, 5. 6. 2026)
+
+Vrabel komentuje summit EU–Západní Balkán v Tivatu (von der Leyen: bez západního Balkánu nebude EU „úplná"). Předpovídá vstup Černé hory do EU nejpozději do roku 2028 (dobré pro investory do nemovitostí, špatné pro zemi — analogie s Chorvatskem, kde EU regulovala velikost ok v rybářských sítích ve prospěch Italů). Rozvíjí příběh Ivanky Trumpové a Jareda Kushnera (na jachtě s Nedem Rothschildem), kteří si „objevili" chráněný albánský ostrov (bílé písečné pláže, bývalá vojenská základna s bunkry — analogie s Epsteinovým ostrovem) a chtějí tam realizovat realitní projekt; Albánci proti tomu šestý den protestují, podobně jako předtím Srbové vyhnali Kushnera z Bělehradu. Navazuje na [Kushnerovy realitní projekty na „hřbitovech"](#kushnerovy-realitní-projekty-na-hřbitovech--protesty-v-srbsku-albánii-gaze-vrabel-3-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
 
 ---
 
