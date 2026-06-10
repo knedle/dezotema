@@ -2000,3 +2000,12 @@
 - **Délka:** 00:03:52 | Zhlédnutí: 256 858
 - **Poznámka:** Studie Warsaw Enterprise Institute o emisních povolenkách — 7000 Kč/rok navíc na osobu, dopad HDP ~100 mld, ČR platí 17× víc než Němci; „povolenky = německé důchody"; výzva ke zrušení ETS1 i ETS2.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: debata o ekonomice Fialovy vlády (4. 6. 2026) {#jindřich-rajchl--videoportál-debata-ekonomika-fialy-4-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-04_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1034223975610601>
+- **Datum záznamu:** 2026-06-04
+- **Délka:** 00:01:40 | Zhlédnutí: 184 466
+- **Poznámka:** Střih z TV debaty — kritika konsolidace Fialovy vlády (dotace 10 mld Onsemi, rodičák pod inflací, zrušené slevy) a Rajchlův ekonomický recept (rovná daň, nejnižší energie, dotace českým firmám).
+- **Zpracováno:** ano

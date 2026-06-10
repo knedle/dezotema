@@ -587,3 +587,13 @@ Vrabel vítá, že vláda (ministr spravedlnosti Jeronim Tejc) předkládá úst
 K plánovanému návratu elektronické evidence tržeb (ministryně financí Schillerová slibuje jednodušší systém a bezplatnou aplikaci) se Vrabel staví jednoznačně odmítavě. Z vlastní podnikatelské zkušenosti (živnost od 18 let, desítky provozů — restaurace, kavárny, bary) tvrdí, že kontrolní mechanismy vždy dopadají na malého živnostníka, zatímco velcí hráči napojení na veřejné zakázky dostávají úlevy a miliardové dotace. Odmítá státní kontrolu i „z Bruselu řízené plánované hospodářství"; ideál vidí ve „volném trhu" (odkazuje na Klausovu kupónovou privatizaci). Malí podnikatelé podle něj musí odpracovat mnohem více hodin než zaměstnanci, aby dosáhli srovnatelného příjmu.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Konsolidace Fialovy vlády jako okrádání rodin + ekonomický recept PRO (Rajchl, 4. 6. 2026)
+
+V televizní debatě Rajchl útočí na ekonomickou bilanci Fialovy vlády a staví proti ní program PRO. Kritika „konsolidace": dotace 10 miliard Kč pro americkou firmu Onsemi (Rožnov pod Radhoštěm) přepočítává na ~10 milionů Kč na jedno pracovní místo a označuje za selhání; vládní „ozdravení financí" prý ve skutečnosti znamenalo zvýšení daní a sebrání peněz rodinám — rodičovský příspěvek byl o 16,6 % pod inflací a zrušení slev (na manžela, studenta, školkovné) připravilo mladé rodiny s dětmi o ~135 000 Kč za tři roky. Rajchlův recept (rozvíjí jeho program, viz [Flat tax 15 %, DPH 15 %](#flat-tax-15--dph-15--adresné-dluhopisy-a-státní-obchodník-s-plynem--rajchl-3-5-2026)): nízká rovná daň a přehledný daňový systém umožňující znovu podnikat; nejnižší ceny energií (Fialova vláda prý měla podle parity kupní síly nejvyšší cenu elektřiny na světě); veřejné pobídky mají směřovat českým firmám, ne americkým, které „zázemí si zase odvezou".
+
+> „Vy jste si váš dluh řešili z peněz našich dětí. [...] Vy jste jim to sebrali z jejich kapes." — Jindřich Rajchl, [Videoportál 4. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-debata-ekonomika-fialy-4-6-2026)
+
+**Zdroje:** [Rajchl — Videoportál: debata o ekonomice Fialovy vlády, 4. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-debata-ekonomika-fialy-4-6-2026)
