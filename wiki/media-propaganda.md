@@ -387,3 +387,11 @@ Rajchl případ rámuje jako doklad, že ČT skutečně není nezávislá, jak t
 Rajchl označuje za „selhání médií", že Česká televize (podle vyjádření ředitele ČT2, zprostředkovaného portálem Lovný.cz) zastavila reportáž o Dozimetru, kterou připravovala investigativní novinářka „Kopková", a že server Seznam nepublikoval hotový materiál Markéty Dobiášové. Kontrastuje to s tím, že ČT (Reportéři ČT, dříve 168 hodin) „vyšetřuje každou blbost". Poukazuje na rozsáhlé mediální krytí hnutí STAN a na to, že se „od rána do večera" řeší byt poslankyně Mrázové či moštárna Filipa Turka (drobnosti), zatímco velké kauzy (Rakušanův předražený nákup vrtulníků odhalený analýzou Tomáše Pauknera, spackaný nákup F-35) zůstávají bez pozornosti.
 
 **Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### ČT „výpalné": propočet 500 zbytečných zaměstnanců, výzva vrátit poplatky (Zítko, 7. 6. 2026)
+
+Zítko rozvíjí svou „korespondenční válku" s Českou televizí (viz [korespondence s ČT, 1. 6.](../osoby/zitko.md)). Z výroku Milana Friedricha (že při výpadku 1 miliardy z poplatků by ČT musela z 3 000 zaměstnanců propustit 500) počítá: mzdový náklad na jednoho takového „zbytečného" zaměstnance vychází na ~167 000 Kč měsíčně (hrubá mzda ~125 000, čistá ~97 000) — zatímco komerční TV Nova vystačí s ~500 zaměstnanci celkem. Připomíná Moravcových 141 000 Kč/hodinu (~1,6 mil./měsíc) a ředitelových 300 000+. ČT označuje za „darmožrouty a lháře" porušující zákon o ČT (nevysílá pravdivé, vyvážené ani ověřené informace, vyloučila oponenty z covidových debat). Vyzývá koncesionáře, aby přestali platit a naopak žádali vrácení poplatků od 12. 3. 2020 (počátek „hry na COVID-19"). Moderátory v černém (na protest) označuje za spoluúčastníky „zabíjení biologickou zbraní", kteří „zaslouží čelit vojenskému tribunálu".
+
+**Zdroje:** [ČsTV2 — Portál 11:11: Vlastizrada od 1989, 7. 6. 2026](_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)

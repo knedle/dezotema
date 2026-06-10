@@ -2054,3 +2054,12 @@
 - **Délka:** 01:03:31
 - **Poznámka:** Hlavní bloky: Pavel indoktrinace dětí (Kunovice) + školství PRO, Zelenský/UPA neonacismus, V4 shoda, Pavel/Ankara, Hřib útoky na poslankyně, Rada ČT (Rakušan vs. Matocha/Bradáč), Dozimetr komise (systémové selhání), selhání médií (ČT/Seznam), rozsudek SPD + migrace, emisní povolenky („válka"), ekonomická strategie PRO. Pozvánka na seminář o větrnících (logistika).
 - **Zpracováno:** ano
+
+## Československo TV2 — Portál 11:11: Vlastizrada od 1989 (7. 6. 2026) {#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-07_Československo-TV2_Videoportál.txt)
+- **Kanál:** Pavel Zítko (Československo TV2)
+- **URL:** <https://m.facebook.com/watch/?v=2412113899287471>
+- **Datum záznamu:** 2026-06-07 (vysílání označeno 6. 6., „portál 11:11")
+- **Délka:** 01:12:46 | Zhlédnutí: 157
+- **Poznámka:** Z velké části recap již zachycených témat (reparace 28 bil./ČSR trvá, bitcoin „Blažcoin" 100 mld, QAnon dvojníci/central casting, COVID genocida) + esoterická numerologie portálu 6.6 (nezpracováno). Nové/rozšiřující: ČT výpalné (500/3000 zaměstnanců, mzdy, vrátit poplatky od 12. 3. 2020), Slovensko COVID (DNA sběr Matovičem do izraelských laboratoří, porodnost −20 %), ODS systematické rozkrádání od 1989 (video Hranaři).
+- **Zpracováno:** ano

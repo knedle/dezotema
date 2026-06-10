@@ -700,3 +700,13 @@ Zítko šíří tvrzení (přebírá od jiné autorky a doplňuje vlastním kome
 ⚡ **Poznámka:** Tvrzení odporují vědeckému konsensu; patenty se týkají postupů/sekvencí, nikoliv „vlastnictví" nemocí, a nedokazují umělý původ.
 
 **Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+
+### Slovensko: COVID testy jako sběr DNA pro izraelské laboratoře; porodnost −20 % (Zítko, 7. 6. 2026)
+
+Zítko tvrdí, že plošné covidové testování na Slovensku (kdy Igor Matovič „nahnal lidi do front jako dobytek") sloužilo ve skutečnosti ke sběru genetického vzorku obyvatelstva — vzorky DNA prý sbírala armáda a putovaly „do izraelských laboratoří" bez vědomí ministra obrany Naďa i prezidentky Čaputové. Spekuluje, že právě toto Slováky „nasralo" natolik, že se pak nechali očkovat méně — pokles porodnosti na Slovensku je proto „jen" −20 % (v ČR −30 %, ze 111 tis. na 77 tis. dětí). Pokles porodnosti u očkovaných žen řadí mezi „genocidu a sterilizaci obyvatelstva". Navazuje na jeho výklad pandemie (viz [Babiš tiskovka o vakcínách](#babišova-tiskovka-o-vakcínách-vinu-hodil-na-podřízené-zítko-3-6-2026)).
+
+⚡ **Poznámka:** Jde o neověřitelná konspirační tvrzení; pokles porodnosti má doložitelné socioekonomické příčiny.
+
+**Zdroje:** [ČsTV2 — Portál 11:11: Vlastizrada od 1989, 7. 6. 2026](_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)
