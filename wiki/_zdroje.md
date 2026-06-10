@@ -1964,3 +1964,12 @@
 - **Délka:** 00:02:05 | Zhlédnutí: 131 024
 - **Poznámka:** Komentář k (nepravomocnému) rozsudku Obvodního soudu pro Prahu 1: SPD pokutována 3 mil. Kč za předvolební plakát „nedostatek lékařů nevyřeší chirurgové z dovozu" — Rajchl to označuje za faktické posvěcení cenzury a tlak na autocenzuru, ohrožení svobody slova. Paralela: den předtím byl v UK odsouzen na doživotí Vikram Digma za rituální ubodání studenta Henryho Novaka; policie po obvinění z rasismu spoutala oběť (vykrvácela), ne pachatele — „důsledek falešné politiky". SPD potrestána „za odvahu říct pravdu".
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Píseň proti větrníkům na Moravě (3. 6. 2026) {#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-03_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** KonspyChannel (Videoportál)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1956084051689973>
+- **Datum záznamu:** 2026-06-03
+- **Délka:** 00:02:37 | Zhlédnutí: 14 074
+- **Poznámka:** Písňové video stylizované jako lidová moravská píseň, odpor proti větrným elektrárnám na Moravě (Celožnice, Moravany). Výzva poslat turbíny „do Bruselu" a jet protestovat do Prahy.
+- **Zpracováno:** ano

@@ -95,3 +95,17 @@ Rajchl pozval na navazující seminář **8. 6. 2026 v PS (10:00)** s Hynkem Ber
 **Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
 
 **Zdroje:** [Vrabel — Pravidelné nedělní vysílání (3. 5. 2026)](_zdroje.md#ladislav-vrabel--pravidelné-nedělní-vysílání-svoboda-slova-mass-formation-eu-3-5-2026)
+
+---
+
+## Kulturní a občanský odpor
+
+### Píseň „Moravo, nenechci zničit svůj domov" — Boldy (3. 6. 2026)
+
+Boldy zveřejnil písňové video stylizované jako lidová moravská píseň, které vyjadřuje odpor proti výstavbě větrných elektráren na Moravě (zmíněny obce Celožnice a Moravany). Píseň staví větrníky do protikladu k tradiční krajině vinohradů a lesů, označuje přírodu za „svatou" a vyzývá k odeslání turbín „do Bruselu" i k společnému protestu v Praze.
+
+> „Dejte si je do Bruselu, lajenové na zahradu / My tu máme lesy, pole, vinohrady, neobří vrtule nad každou dědinou vzadu." — Boldy, [zdroj](_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
+
+> „Tak pojedme do Prahy všichni spolu stát." — Boldy, [zdroj](_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
+
+**Zdroje:** [Boldy — Píseň proti větrníkům na Moravě (3. 6. 2026)](_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)

@@ -12,6 +12,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | [COVID a vakcíny](../covid-vakciny.md) | mRNA v rostlinách a potravinovém řetězci, depopulace |
 | [Média a propaganda](../media-propaganda.md) | ČT jako propaganda, TV Nova ještě horší, filmy jako záměrné odhalení plánů elit |
 | [Ceny energií](../ceny-energie.md) | Válka s Íránem může poslat ropu na 300 USD/barel, paliva 70–150 Kč/litr |
+| [Větrné elektrárny](../vetrniky.md) | Píseň proti větrníkům na Moravě — výzva poslat turbíny „do Bruselu" a protestovat v Praze |
 
 ---
 
@@ -27,4 +28,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 
 ---
 
-**Zpracované zdroje:** [Poděkování za 50K (3. 3. 2026)](../_zdroje.md#konspirátor-boldy--poděkování-za-50-tisíc-sledujících) · [Krvavý měsíc a Trump (5. 3. 2026)](../_zdroje.md#konspirátor-boldy--krvavý-měsíc-a-trump) · [Facebook Live z Prahy (12. 3. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) · [Mesiáš, Írán a ropa (15. 3. 2026)](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa) · [Humanoidní roboti na Ukrajině (17. 3. 2026)](../_zdroje.md#konspirátor-boldy--humanoidní-roboti-na-ukrajině) · [Artemis jako odvedení pozornosti (9. 4. 2026)](../_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026) · [Požár ubytovny v Praze (14. 4. 2026)](../_zdroje.md#konspirátor-boldy--požár-ubytovny-v-praze-14-4-2026) · [Požár ubytovny — stručný report (14. 4. 2026)](../_zdroje.md#konspirátor-boldy--požár-ubytovny-stručný-report-14-4-2026) · [FB Live 24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+**Zpracované zdroje:** [Poděkování za 50K (3. 3. 2026)](../_zdroje.md#konspirátor-boldy--poděkování-za-50-tisíc-sledujících) · [Krvavý měsíc a Trump (5. 3. 2026)](../_zdroje.md#konspirátor-boldy--krvavý-měsíc-a-trump) · [Facebook Live z Prahy (12. 3. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) · [Mesiáš, Írán a ropa (15. 3. 2026)](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa) · [Humanoidní roboti na Ukrajině (17. 3. 2026)](../_zdroje.md#konspirátor-boldy--humanoidní-roboti-na-ukrajině) · [Artemis jako odvedení pozornosti (9. 4. 2026)](../_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026) · [Požár ubytovny v Praze (14. 4. 2026)](../_zdroje.md#konspirátor-boldy--požár-ubytovny-v-praze-14-4-2026) · [Požár ubytovny — stručný report (14. 4. 2026)](../_zdroje.md#konspirátor-boldy--požár-ubytovny-stručný-report-14-4-2026) · [FB Live 24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026) · [Píseň proti větrníkům na Moravě (3. 6. 2026)](../_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
