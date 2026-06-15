@@ -65,6 +65,34 @@ Zítko ve vysílání 1. 6. 2026 prezentuje jako „důkaz" dlouhodobého pláno
 
 ---
 
+### BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu (Vrabel, 8. 6. 2026)
+
+Vrabel popisuje svět jako rozdělující se na dva tábory: BRICS prosazující multipolární svět (nejsilnější Rusko, Čína, Írán + Severní Korea) versus USA, které přes NATO a EU usilují o „unipolární svět" a globální nadvládu. Státy podle něj uzavírají strategická partnerství, smlouvy o výrobě a dodávkách zbraní a společná cvičení na obou stranách. Podstatu konfliktu vidí jako dlouhodobý boj „o americký dolar" a o „globalistickou nadvládu Rothschildů a Rockefellerů" — „chazarských židů, bankéřů", kteří podle něj chtějí ovládnout celý svět. Navazuje na výklad globalistů útočících na rodinu, stát, národ a náboženství (viz [Globalisté bojují vždy proti čtyřem věcem](#globalisté-bojují-vždy-proti-čtyřem-věcem-rodina-stát-národ-náboženství-vrabel-17-5-2026)).
+
+⚡ **Poznámka:** Pasáž o „chazarských židech, bankéřích" je antisemitský konspirační topos; srov. [Boldy: Holocaust přeceňován, „Chazarové" vs. „Židi"](#boldy-holocaust-přeceňován-chazarové-vs-židi-24-5-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
+### Příprava na válku: „zachraň se, kdo můžeš"; miliardáři si staví bunkry (Vrabel, 8. 6. 2026)
+
+Vrabel je přesvědčen, že svět je „pravděpodobně před velkým vojenským konfliktem", a opakuje svou výzvu z minulé zimy „zachraň se, kdo můžeš". Zatímco multimiliardáři si podle něj staví obří bunkry a kupují soukromé ostrovy a nejvyšší elity se schovají (např. v Černé Hoře či Srbsku, kde se podle něj válčit nebude), obyčejní lidé by si měli zajistit aspoň skromné zázemí, kde přežijí a vypěstují si jídlo (sám proto „lepí parkety"). Jako analogii uvádí vyprávění manželky o náhlém začátku bombardování Bělehradu v Jugoslávii a svržení atomových bomb na Japonsko — zdánlivý klid se může zlomit ze dne na den. Navazuje na [Přicházející hospodářská krize](#přicházející-hospodářská-krize--záměrné-plánování) a [Bílý muž jako záměrně likvidovaná překážka](#bílý-muž-jako-záměrně-likvidovaná-překážka-globalismu-vrabel-17-5-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
+### Turecko: „druhá armáda" v civilu rozmístěná v Evropě (Vrabel, 8. 6. 2026)
+
+Ke sporu o francouzské vojáky na Kypru Vrabel charakterizuje Turecko jako silnou a „nevyzpytatelnou" zemi s druhou nejsilnější (pěší) armádou NATO, která má přitom blízko k Rusku stejně jako k NATO. Tvrdí, že tzv. „druhá turecká armáda" je rozmístěná v civilu v Rakousku, Německu a dalších evropských zemích — vojáci bez uniforem, z nichž se „na pokyn třeba Erdogana" mohou stát vojáci. Členství Turecka v NATO označuje za „málo pochopitelné".
+
+⚡ **Poznámka:** Tvrzení o utajené turecké armádě v civilu v Evropě je nepodložené.
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
 ## Okultismus
 
 ### Trump jako démonická entita — „Moon Child"

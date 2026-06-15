@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Možný ruský vojenský úder na evropské město (8. 6. 2026)
+
+**Předpověď:** Vrabel považuje za „docela pravděpodobné", že Rusko pod tlakem pokračujících útoků podnikne vojenský úder na nějaké evropské město; nevylučuje, že terčem by mohla být i menší země jako Česká republika („predátor loví ve stádu tu nejslabší laň"). Zároveň tvrdí, že svět je „pravděpodobně před velkým vojenským konfliktem".
+
+> „...připadá mi i docela pravděpodobné, že by se mohl stát nějaký útok na nějaké evropské městě." — Ladislav Vrabel
+
+**Horizont:** neurčeno (brzy)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
 ### Ladislav Vrabel — Černá hora vstoupí do EU nejpozději do roku 2028 (5. 6. 2026)
 
 **Předpověď:** Na základě projevů ze summitu EU–Západní Balkán v Tivatu Vrabel tvrdí, že Černá hora vstoupí do EU „nejpozději do roku 2028" (pro investory do nemovitostí dobrá zpráva, pro zemi špatná). Srbsko podle něj naopak do EU nevstoupí (kvůli obchodu s Čínou a spolupráci s Ruskem).

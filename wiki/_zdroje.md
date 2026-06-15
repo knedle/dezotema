@@ -2063,3 +2063,12 @@
 - **Délka:** 01:12:46 | Zhlédnutí: 157
 - **Poznámka:** Z velké části recap již zachycených témat (reparace 28 bil./ČSR trvá, bitcoin „Blažcoin" 100 mld, QAnon dvojníci/central casting, COVID genocida) + esoterická numerologie portálu 6.6 (nezpracováno). Nové/rozšiřující: ČT výpalné (500/3000 zaměstnanců, mzdy, vrátit poplatky od 12. 3. 2020), Slovensko COVID (DNA sběr Matovičem do izraelských laboratoří, porodnost −20 %), ODS systematické rozkrádání od 1989 (video Hranaři).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět, 2. část (8. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-08_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1845077179781712>
+- **Datum záznamu:** 2026-06-08
+- **Délka:** 00:32:37 | Zprávy v devět s komentářem, 2. část (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: eskalace NATO–Rusko (dron Lotyšsko, salámová metoda, F-35/B-61 scénář jaderného náletu), Dánsko přesouvá ukrajinskou zbrojní výrobu, tlak v Rusku na protiútok (Putin „slabý", úder na evropské město), BRICS vs unipolární svět + globalistická „chazarská" nadvláda (Rothschild/Rockefeller), Írán pravděpodobně má jaderné zbraně, příprava na válku „zachraň se kdo můžeš" + bunkry, Turecko jako nevyzpytatelný člen NATO + „druhá armáda" v civilu, vlastenecký kandidát (Sládek/Landa), mírové podmínky EU/Ukrajiny jako recyklace (Rusko odmítá příměří).
+- **Zpracováno:** ano

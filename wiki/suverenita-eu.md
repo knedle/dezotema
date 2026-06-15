@@ -794,6 +794,42 @@ V „zprávě dne" Vrabel rozvíjí argument (navazuje na Scotta Rittera, viz [S
 
 ---
 
+### NATO eskaluje válku „salámovou metodou"; F-35 jako scénář jaderného náletu na Rusko (Vrabel, 8. 6. 2026)
+
+Ke zprávě o sestřelení neidentifikovaného dronu nad Lotyšskem stíhačkami NATO (mise Baltic Air Policing) Vrabel rozvíjí tezi, že aliance konflikt s Ruskem záměrně stupňuje „salámovou metodou": místo nasazení protivzdušné obrany vysílá do vzduchu stíhačky, takže si veřejnost zemí NATO postupně zvyká na to, že „naše stíhačky bojují s Ruskem". Připomíná, že kdyby někomu v roce 2016 řekli, že 2026 budeme „prakticky ve válce s Ruskem", nevěřil by — a přesto jsme tam. Zopakoval svou „černou vizi" z roku 2022, za niž byl dle svých slov odsouzen: NATO podle něj může zformovat „kleště" států kolem Ruska (Finsko, Pobaltí, ČR, Maďarsko, Balkán) a poslat na Rusko roj ~500 z ~1 200 letadel F-35A, která letí jako „roj" a nesou klouzavé jaderné bomby B-61 — to by mohlo prolomit ruskou protivzdušnou obranu. Navazuje na [Jaderné zbraně USA v Polsku a Pobaltí + obhajoba F-35 (2. 6.)](#jaderné-zbraně-usa-v-polsku-a-pobaltí--obhajoba-výroku-o-f-35-vrabel-2-6-2026).
+
+> „A to je na tomto nebezpečný, že se to neustále snaží eskalovat dál. [...] Salámovou metodou." — Ladislav Vrabel, [Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
+### Tlak v Rusku na protiútok: Moskva považuje Putina za „slabého" (Vrabel, 8. 6. 2026)
+
+Vrabel s odvoláním na rozhovor s (blíže neurčeným) ruským analytikem tvrdí, že lidé v Moskvě jsou stále nespokojenější s Putinem — ne kvůli válce, ale proto, že jeho odpověď na ukrajinské/„NATO" útoky (zmiňuje útok na kolej se studentkami) považují za nedostatečnou a Rusko se podle nich „tváří jako slabé". Mnozí politici i lidé na ulicích prý žádají, aby Rusko uznalo, že je pod útokem NATO a EU, a „jednalo adekvátně" — třeba vypnutím elektřiny či komunikací v Paříži, Berlíně nebo Londýně. Vrabel uzavírá, že pokud budou pokračovat „každodenní teroristické útoky" na ruské civilisty, Rusko z vojensko-strategického hlediska nakonec udeří zpět — „nedávejte ty sirky zpátky do té krabičky". Nevylučuje, že terčem může být i menší země jako ČR („predátor loví ve stádu tu nejslabší laň"). Navazuje na [Predikce: Rusko zaútočí na Evropu v létě 2026](#predikce-rusko-zaútočí-na-evropu-v-létě-2026--vrabel).
+
+> „...může se stát i to, že bude zautočeno na nějakou menší zemi, třeba na Českou republiku." — Ladislav Vrabel, [Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
+### Dánsko přesouvá ukrajinskou zbrojní výrobu — „udělalo ze sebe cíl" (Vrabel, 8. 6. 2026)
+
+Vrabel kritizuje rozhodnutí dánské vlády nabídnout své území pro přemístění ukrajinské zbrojní výroby (aby ji ochránila před ruskými útoky). Argumentuje, že tím Dánsko udělalo „ze svojí země a ze svých vlastních občanů vojenský cíl" — výrobny zbraní jsou podle dříve deklarovaného ruského postoje legitimním vojenským cílem. Dánský národ jinak hodnotí vřele (vzdělaný, pomáhal za 2. světové války), o to méně chápe rozhodnutí premiéra. Navazuje na [Rusko prohlásilo ČR za „spolupracovníka"](#rusko-prohlásilo-čr-za-spolupracovníka--česká-zbrojní-výroba-pro-ukrajinu-jako-casus-belli).
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
+### Mírové podmínky EU/Ukrajiny (UK, Francie, Německo) jen recyklace — Rusko odmítá příměří jako první krok (Vrabel, 8. 6. 2026)
+
+K společnému prohlášení Ukrajiny, Velké Británie, Francie a Německa o pěti podmínkách „udržitelného míru" (úplné příměří jako předpoklad jednání, hranice na současné linii kontaktu, bezpečnostní záruky a možná přítomnost nadnárodních sil, zmrazení ruských aktiv a vyplacení válečních škod, souhlas EU a NATO) Vrabel namítá, že nejde o žádnou novinku — „bezpodmínečné příměří jako první krok" se opakuje roky. Rusko podle něj dlouhodobě odmítá příměří jako první krok a trvá na opačném pořadí: nejprve dohodnout a podepsat podmínky míru, teprve pak mír. Skupinu lídrů ironicky označuje za „klasickou partu kokainovou" a jejich prohlášení za „úplně zbytečné". Navazuje na [Zelenského otevřený dopis Putinovi (5. 6.)](#zelenského-otevřený-dopis-putinovi--putin-odmítá-příměří-před-vyjednáváním-vrabel-5-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
 ## Izrael a Palestina
 
 ### Hamas vznikl díky Izraeli — historická odpovědnost za Gaza
@@ -843,6 +879,16 @@ Vrabel referuje o dohodě Izraele a Libanonu o příměří, zprostředkované T
 Vrabel komentuje summit EU–Západní Balkán v Tivatu (von der Leyen: bez západního Balkánu nebude EU „úplná"). Předpovídá vstup Černé hory do EU nejpozději do roku 2028 (dobré pro investory do nemovitostí, špatné pro zemi — analogie s Chorvatskem, kde EU regulovala velikost ok v rybářských sítích ve prospěch Italů). Rozvíjí příběh Ivanky Trumpové a Jareda Kushnera (na jachtě s Nedem Rothschildem), kteří si „objevili" chráněný albánský ostrov (bílé písečné pláže, bývalá vojenská základna s bunkry — analogie s Epsteinovým ostrovem) a chtějí tam realizovat realitní projekt; Albánci proti tomu šestý den protestují, podobně jako předtím Srbové vyhnali Kushnera z Bělehradu. Navazuje na [Kushnerovy realitní projekty na „hřbitovech"](#kushnerovy-realitní-projekty-na-hřbitovech--protesty-v-srbsku-albánii-gaze-vrabel-3-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+
+---
+
+### Írán pravděpodobně už má jaderné zbraně — možný důvod zvratu USA k příměří (Vrabel, 8. 6. 2026)
+
+Vrabel s odvoláním na „zákulisí vojenských analytiků" (s informacemi údajně z CIA) tvrdí, že Írán měl dostatek obohaceného uranu na výrobu 8–12 jaderných hlavic a že pravděpodobně už nějaké jaderné bomby má (zmiňuje i ~3 hotové hlavice); komponenty pro výrobu měl údajně dostat z Číny a možná z Ruska. To podle něj může být skutečný důvod náhlého zvratu, kdy se USA a Izrael dohodli s Íránem na zastavení vzájemných útoků. Sám připouští, že situace je „nepřehledná" a informace nelze ověřit. Spojuje to se svým výkladem rozdělení světa na dva tábory (Rusko, Čína, Írán vs. USA/NATO/EU; viz [BRICS vs unipolární svět](konspiraci.md#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026)).
+
+⚡ **Poznámka:** Jde o nepotvrzené spekulace; existenci íránských jaderných zbraní nelze z veřejných zdrojů ověřit.
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
 
 ---
 

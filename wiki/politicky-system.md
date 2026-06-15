@@ -214,6 +214,16 @@ O rok později (22. 5. 2026) Černohorský rozlišuje mezi „vlasteneckými spo
 
 ---
 
+### Vlastenecký kandidát na prezidenta: Sládek, případně Daniel Landa — Vrabel (8. 6. 2026)
+
+V úvaze o vlasteneckém prezidentském kandidátovi Vrabel doporučuje Miroslava Sládka, ale vyzývá diváky, aby zvážili i Daniela Landu — kterého označuje za „prvního a největšího vlastence v České republice". Argumentuje Landovou rétorikou sebeobrany (odkaz na jeho starší texty ve smyslu „když seš slabší, vezmi do ruky předměty") jako analogií k tomu, že napadený se musí bránit hned a tvrdě. Připouští, že Landovi „napsali spoustu špíny".
+
+> „Daniel Landa, to je první vlastenec v České republice, největší vlastenec." — Ladislav Vrabel, [Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+
+---
+
 ## Evropský parlament a demokratický deficit
 
 ### EP jako divadlo — předem dohodnuté hlasování
