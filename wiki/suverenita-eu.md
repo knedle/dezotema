@@ -366,3 +366,9 @@ Rajchl reaguje na zprávu, že cena emisní povolenky ETS2 bude „zastropována
 Vrabel sarkasticky „gratuluje" vládě k zavedení emisních povolenek: cenový strop ETS2 na 45 EUR (na jehož vyjednání se podílela Danuše Nerudová) podle něj platí jen zhruba do roku 2027 a povolenky stejně přijdou. Green Deal a emisní povolenky označuje za „specialitu" EU, kterou žádná jiná země na světě (Čína, USA, Rusko…) nedělá; řešením je vystoupit z EU a vypovědět Agendu 2030. Doplňuje [Rajchlův výklad ETS2 jako lži (11. 6.)](#ets2-zastropování-na-45-eur-je-lež--zrušit-emisní-povolenky-rajchl-11-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+### Uhlíkové clo (CBAM): rozšíření a luxus elit v EP (Vrabel, 12. 6. 2026)
+
+K dohodě ministrů financí EU (za ČR Alena Šilerová) o rozšíření mechanismu uhlíkového vyrovnávání na hranicích (CBAM) — clo na dovoz zboží s velkou uhlíkovou stopou — Vrabel namítá, že se tím sankcionují i cizí emise (Japonsko, Austrálie) a zdražuje dovoz. Spojuje to s popisem luxusu europoslanců (nákladné večeře, vysoké platy, kontrast bohaté „vlámské" a chudé části Bruselu) — elitám je další daň či povolenka lhostejná. Doplňuje [Green Deal jako nástroj přesunu peněz ke spekulantům](#green-deal-jako-nástroj-přesunu-peněz-ke-spekulantům).
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)

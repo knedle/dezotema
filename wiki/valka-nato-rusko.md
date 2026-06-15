@@ -1348,3 +1348,25 @@ Po odblokování 6,6 mld. eur z Evropského mírového nástroje (EPF) maďarsko
 K informaci Financial Times, že Francie, Německo a další státy diskutují o reformě či rozpuštění Evropské služby pro vnější činnost (EEAS) a omezení pravomocí šéfky unijní diplomacie Kaji Kallas (rozpočet ~1 mld. eur), Vrabel uvádí, že to souvisí s bojem o to, kdo bude za Evropu vyjednávat s Ruskem — von der Leyen a Kallas si podle něj „usurpují moc do vlastních rukou". Navazuje na [Boj o vyjednavače EU–Rusko (9. 6.)](#boj-o-vyjednavače-eurusko-schröder-lídři-vs-struktury-eu-vrabel-9-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+### Falešný narativ „Ukrajina vítězí" + žádost o 20 mld. dolarů (Vrabel, 12. 6. 2026)
+
+Ukrajina podle Politico (přebírá ČTK) požádá spojence ve formátu Rammstein o 20 mld. dolarů (~418 mld. Kč), aby „upevnila převahu" ve válce. Vrabel tvrdí, že hlavní (a falešnou) zprávou je narativ „Ukrajina vítězí / má převahu nad Ruskem", který se „lije lidem do hlavy", aby se nebouřili proti dalším penězům a pokračování války — a proti dražšímu jídlu, energiím a inflaci („protože tu válku platíme"). Realita je podle něj opačná (Kyjev dostal velké ruské údery). Navazuje na [Ukrajinské útoky na civilní cíle jako terorismus](#ukrajinské-útoky-na-civilní-cíle-jako-terorismus--západ-jako-sponzor-vrabel-3-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+
+---
+
+### Zbrojní byznys = víc války, ne bezpečnost (Vrabel, 12. 6. 2026)
+
+K rozšíření obranné spolupráce ČR s Itálií (munice firmy Fiocchi pod holdingem CSG Michala Strnada) a prodeji 200 tisíc pistolí do Německa Vrabel obrací tezi senátora Pavla Fischera (zbraně = bezpečnost): podle něj platí opak — čím víc zbraní se vyrobí, tím víc se válčí, protože zbraně jdou do válek z obou stran. Česká i německá ekonomika se podle něj přeměňují na válečnou ekonomiku (závody ve zbrojení jako v 80. letech); cestou má být odzbrojení počínaje jadernými zbraněmi. Zmiňuje i autonomní AI drony a izolaci Krymu (velitel „Maďar"). Navazuje na [Zbrojní byznys bez výběrových řízení (5. 6.)](#zbrojní-byznys-bez-výběrových-řízení--kolář-a-macinka-jako-zprostředkovatelé-vrabel-5-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+
+---
+
+### TCK na Ukrajině: násilná mobilizace a úmrtí na odvodové komisi (Vrabel, 12. 6. 2026)
+
+Vrabel popisuje brutalitu ukrajinské mobilizace (jednotky TCK): syn v Mykolajivu ubránil otce před odvodovým komandem; Fedor Košelňák byl násilně naložen do autobusu deseti maskovanými muži a po dvou hodinách zemřel „na zástavu srdce" během lékařské prohlídky; ombudsman Lubinec uvedl, že komise ignorují skutečný zdravotní stav (člověk před chirurgickým zákrokem uznán schopným za 15 minut). Vrabel přirovnává Zelenského zacházení s lidmi k Hitlerovi — „posílá je na porážku jako dobytek". Navazuje na [Ukrajinci nechtějí bojovat — TCK „lov lidí" (6. 6.)](#ukrajinci-nechtějí-bojovat--tck-lov-lidí-a-úplatek-12-000--vrabel-6-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)

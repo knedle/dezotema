@@ -77,3 +77,17 @@ Rajchl to označuje za „absolutní zneužití pozice" ČŠI — stát bez souh
 **Zdroje:** [Rajchl — FB Live 24. 5. 2026](_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
 
 ---
+
+### Zelenskyj a LGBTQ na Ukrajině; odpor k přeoperovávání dětí (Vrabel, 12. 6. 2026)
+
+K dotazu, zda Ukrajina potřebuje projekty normalizující LGBTQ+ komunitu (předseda NGO Demenko; Zelenskyj připustil otevřenou debatu), Vrabel uvádí, že Ukrajina jako budoucí člen EU přijímá podobné zákony jako ČR. Vůči dospělé homosexualitě deklaruje toleranci (zmiňuje sestru s partnerkou), ale ostře odmítá propagaci „sexuálních úchylek" na ulicích a zejména ve školách a tlak na přeoperovávání dětí — to označuje za „kriminální". Změnu pohlaví připouští až od dospělosti (18/21 let), protože děti jsou nezralé a snadno se zmanipulují.
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+
+---
+
+### Pokles porodnosti pátým rokem — drahota a blížící se válka (Vrabel, 12. 6. 2026)
+
+K údajům Českého statistického úřadu (úbytek obyvatel o ~19 800 za první čtvrtletí roku, porodnost klesá pátým rokem za sebou — narodilo se jen 17 500 dětí, zemřelo 30 100) Vrabel přičítá pokles porodnosti zdražování („dráž se žije") a podvědomému vnímání blížící se války.
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)

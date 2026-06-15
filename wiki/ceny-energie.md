@@ -220,3 +220,17 @@ Vrabel připomíná výrok Ursuly von der Leyen, která sama přiznala, že Evro
 
 ---
 
+
+### Jádro: prodloužení Temelína a Dukovan, taxonomie a „zelený parlament" (Vrabel, 12. 6. 2026)
+
+K jednání ČR v Bruselu o novém jaderném bloku a oznámení o prodloužení životnosti bloků v Temelíně (po Dukovanech) Vrabel cituje ministra Karla Havlíčka: odklon EU od jádra byl „strategická chyba", je třeba tlačit na změnu taxonomie, ale „v zeleném parlamentu" to neprojde. Vrabel z toho vyvozuje, že o ČR fakticky rozhoduje EU (ne český parlament, který je „jen na hádky"). Varuje před opakovaným prodlužováním životnosti reaktorů (sovětsky koncipovaná životnost 30 let; sarkofág časem křehne nárazy částic) — řešeným místo stavby nových bloků (kvůli odmítání spolupráce s Ruskem).
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+
+---
+
+### Inflace jako okrádání; držet hotovost je „sebemrzačení" (Vrabel, 12. 6. 2026)
+
+Ke zprávě o krizi životních nákladů v EU (ceny nemovitostí +53 % v letech 2015–2024, 1,29 mil. lidí bez domova) Vrabel vykládá inflaci jako nástroj okrádání: vzniká snižováním úrokových sazeb a „tištěním" peněz přes půjčky; Babišovo napumpování peněz v covidu podle něj způsobilo pozdější „Fialovu" inflaci 18 %. Tvrdí, že kdo držel v roce 2021 milion v bance, má dnes poloviční hodnotu — proto radí investovat (nemovitosti, zlato, stříbro) místo držení hotovosti. Opakující se cyklus války–inflace–krize–růst přičítá „chazarským židům v bankách", kteří na válkách bohatnou.
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)

@@ -2171,3 +2171,12 @@
 - **Délka:** 00:42:00 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: autonomní AI drony (ukr. test), Macinka „stát–stát–byznys"/Global Gateway (paralela s kuponovou privatizací), ETS2 strop 45 EUR + Nerudová, EK utajení vakcinačních smluv (struktura moci), schodek rozpočtu 350 mld, Norsko do EU, USA bombardovaly vodu v Íránu (terorismus), Trump ultimáta + manipulace ropy, Ukrajina terorismus/izolace Krymu/přístavy Oděsa, EU reforma diplomatické služby (Kallas), EU spor EPF Německo vs Polsko.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (12. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-12-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-12_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1700368954302052>
+- **Datum záznamu:** 2026-06-12
+- **Délka:** 01:10:04 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: vstup migračního paktu v platnost (vláda ho neodmítla, výjimka do 2027, solidarita, Okamura „vodí za nos"), pokles porodnosti, senátor Fischer/zbrojení, ČR opouští Intersputnik, uhlíkové clo CBAM (Šilerová) + luxus EP, falešný narativ „Ukrajina vítězí" + 20 mld $, jádro Temelín/Dukovany + taxonomie/„zelený parlament", Zelenskyj/LGBTQ + přeoperovávání dětí, inflace jako okrádání, zbrojní byznys (Itálie/Německo, CSG), TCK násilná mobilizace a úmrtí na komisi.
+- **Zpracováno:** ano

@@ -209,3 +209,9 @@ Rajchl připomíná, že Vít Rakušan jako jediný z V4 hlasoval pro migrační
 K reportáži TV Nova o podvodech s humanitárními dávkami (tzv. dávková turistika, fiktivní adresy, nahlašování počtu osob; ztráty desítek milionů korun za 14 měsíců) Rajchl konstatuje, že totéž čtyři roky tvrdili „kolaboranti typu Rajchla" a byli za to označováni za prokremelské dezinformátory. Cituje údaj, že humanitární dávky zneužíval „každý pátý cizinec" (tj. Ukrajinec — nikdo jiný je nedostává), a označuje to za další „dezinformaci, která se stala pravdou".
 
 **Zdroje:** [Rajchl — Videoportál: humanitární dávky, 13. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-humanitární-dávky-13-6-2026)
+
+### Migrační pakt vstoupil v platnost — vláda ho podle Vrabela neodmítla (12. 6. 2026)
+
+Ke dni vstupu migračního paktu EU v platnost (12. 6.) Vrabel tvrdí, že vláda Andreje Babiše ho ve skutečnosti neodmítla — jen vydala prohlášení pro české voliče, fakticky ho ale plní a spolupracuje na jeho realizaci. Připomíná, že pakt připravovala už předchozí vláda (Babiš, ministr vnitra Hamáček) a podepsala ho vláda Fialy/Rakušana. ČR má výjimku z přerozdělování migrantů z Blízkého východu a Afriky jen do roku 2027 — a to proto, že už „plní solidaritu" přijetím největšího počtu Ukrajinců na hlavu na světě. Podstatu paktu vykládá jako mechanismus solidarity (přesun migrantů ze zatížených zemí — Řecko, Itálie, Španělsko — do méně zatížených); dávky mají být jednotné a vázané na místo přidělení. Tomia Okamuru, který tvrdí, že pakt „nebude implementovat", obviňuje, že „vodí lidi za nos" — neimplementovat nelze (právně vymahatelná smlouva), jedinou cestou je vystoupit z EU. Celé rámuje Kalergiho plánem (vykořeněný „smíšený člověk"). Navazuje na [Migrační pakt nelze zrušit zevnitř (4. 6.)](#migrační-pakt-nelze-zrušit-zevnitř--čl-10-ústavy-srovnání-s-brexitem-vrabel-4-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
