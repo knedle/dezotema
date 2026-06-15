@@ -2081,3 +2081,12 @@
 - **Délka:** 00:31:58 | Zprávy v devět s komentářem, 1. část (moderátorka Zuzka) — vysílání přerušeno ~v 31. min. technickou závadou, pokračuje ve „2. části"
 - **Poznámka:** Hlavní bloky: Fico navrhuje Macrona jako vyjednavače EU–Rusko (Fico jako globalista, predikce SK jaderné zbraně), summit NATO/OSN jako „divide et impera" (Pavel vs Babiš dělají totéž), zvýšení plateb za státní pojištěnce o 24 mld = okrádání občanů na zbrojení, konec projektu FCAS + britské F-35 + cvičení Rammstein (zbrojní korupce, ČR nemá mít jaderné zbraně), Berlín protesty proti Merzovi vs „spící" ČR, Dozimetr parlamentní komise bez pravomoci („divadlo vlastenců"), Albánie/Kushner ostrov Sazan (rozšíření).
 - **Zpracováno:** ano
+
+## Pavel Zítko (Československo TV2) — Sůl nad zlato: Solivary a ČT (8. 6. 2026) {#československo-tv2--sůl-nad-zlato-8-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-08_Československo-TV2_Videoportál.txt)
+- **Kanál:** Pavel Zítko (Československo TV2)
+- **URL:** <https://m.facebook.com/watch/?v=1049378841377365>
+- **Datum záznamu:** 2026-06-08 (vysílání označeno 7. 6., „Sůl nad zlato")
+- **Délka:** 01:36:57 | Zhlédnutí: 633
+- **Poznámka:** Z velké části recap stálých tezí (vlastizrada 1992 / ČSR trvá / korporace a akcionáři, COVID jako biologická zbraň/genocida, Deep State, 4. července, adrenochrom/tribunál — nezpracováno). Nové: privatizace jako řízená likvidace čs. průmyslu Západem na příkladu Solivary Prešov (Rakušané/Mečiar/J&T/Delaware, projekt Zbudza pro ruskou ropu/plyn zmařen, Poldi Kladno, slov. zbrojovky); rozšíření ČT „výpalné" (plat GŘ Chudárka 346 800 + bonusy, 3000 vs 500 zaměstnanců, neoprávněné poplatky od 12. 3. 2020).
+- **Zpracováno:** ano

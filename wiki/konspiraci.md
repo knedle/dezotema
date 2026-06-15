@@ -241,6 +241,14 @@ Rozdělení Československa Zítko interpretuje jako vlastizradu: poslanec Jan S
 
 ---
 
+### Privatizace jako řízená likvidace čs. průmyslu Západem — Solivary Prešov (Zítko, 8. 6. 2026)
+
+Na příkladu solivarů Prešov (článek z r. 2016) Zítko líčí privatizaci po roce 1989 jako záměrnou likvidaci funkčního československého průmyslu řízenou Západem: strategií bylo podnik dočasně převzít, pobírat dotace, a jakmile dotace skončily, výrobu ukončit a zaplavit „uvolněný východní trh" anglosaským zbožím. Solivary (značka Areál Masaryk) prý v noci demontovali „německy mluvící dělníci", stroje rozpálili, aby byly nepoužitelné; podnik nakonec získal rakouský konkurent (Salinen Austria / Bad Reichenhaler). Klíčový moment: perspektivní projekt Zbudza měl v kavernách po těžbě soli skladovat levnou ruskou ropu a plyn — proto ho podle Zítka „lidé blízcí Mečiarově vládě" zmařili (vyhrožování „tak nedokončíte", odčerpání úvěru přes firmu Zbudza Resource se sídlem v americkém Delaware a finanční skupinu J&T Patrika Tkáče). Zmiňuje i likvidaci Poldi Kladno a slovenského zbrojního průmyslu (přičítá Václavu Havlovi). Očkování COVID-19 pak interpretuje jako útok na „paměť národa" — likvidaci pamětníků těchto privatizačních zločinů. Navazuje na jeho výklad rozdělení ČSR jako vlastizrady a ČR/SR jako „korporací" (viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026)).
+
+**Zdroje:** [ČsTV2 — Sůl nad zlato: Solivary a ČT, 8. 6. 2026](_zdroje.md#československo-tv2--sůl-nad-zlato-8-6-2026)
+
+---
+
 ### Deutschland, Čechland nebo Československo? — SdL sjezd jako důkaz záměny pojmů (26. 5. 2026)
 
 Zítko pojmenovává sjezd SdL v Brně jako konkrétní důsledek toho, že ČR funguje jako „korporace Česko/Čechia/Čechaj" místo právního státu ČSR. Název vysílání „Deutschland, Čekland nebo Československo" vyjadřuje tři směry, kam dle Zítka vede aktuální vývoj: germanizace, korporativní „Čechia" jako přechod, nebo obnova Czechoslovakia.
