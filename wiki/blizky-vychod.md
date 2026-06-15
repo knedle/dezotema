@@ -266,3 +266,9 @@ Vrabel ve vysílání 6. 5. potvrzuje eskalaci evropské námořní přítomnost
 
 ---
 
+
+### Írán sestřelil americký vrtulník; Trump odmítá roli „mírového prezidenta" (Vrabel, 9. 6. 2026)
+
+Vrabel informuje, že Írán v noci sestřelil americký vrtulník (oba piloti podle Trumpa v pořádku) a Trump avizoval nutnost reakce; Trump zároveň prohlásil, že „nikdy neslíbil, že nezahájí žádnou novou válku" a vyčítání role „mírového prezidenta" ho rozčiluje. Vrabel z toho usuzuje, že konflikt bude „dlouhý a vleklý". Opakuje spekulace (z 8. 6.), že Írán má pravděpodobně 1–3 jaderné bomby a uran na 8–12 hlavic, případně s pomocí Číny a Ruska — což může vysvětlovat Trumpovo ostražitější chování. Navazuje na [Írán pravděpodobně už má jaderné zbraně (8. 6.)](#írán-pravděpodobně-už-má-jaderné-zbraně--možný-důvod-zvratu-usa-k-příměří-vrabel-8-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)

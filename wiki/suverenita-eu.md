@@ -348,3 +348,9 @@ Rajchl rozšiřuje svou kritiku emisních povolenek (viz [Emisní povolenky: ČR
 Rajchl klade za hlavní příčinu ekonomického zaostávání ČR neschopnost domácí politické scény shodnout se napříč spektrem na základních národních zájmech — na rozdíl od Polska a Maďarska. V Polsku se Tusk (euroliberál) i Nawrocki (národní konzervativec), kteří se navzájem nesnášejí, shodnou na odmítnutí Green Dealu, emisních povolenek a migrace i na odmítnutí adorace UPA. Nawrocki navíc slibuje referendum o Green Dealu. V ČR podle Rajchla naopak řada stran „podkopává českou suverenitu". Tuto shodu napříč spektrem označuje za to, co Polákům a Maďarům umožňuje hájit národní zájmy.
 
 **Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+### Právo veta jako pilíř suverenity — jeho zrušení = konec ČR (Vrabel, 9. 6. 2026)
+
+Vrabel vysvětluje právo veta jako základní nástroj suverenity: kterýkoli z 27 členských států může zablokovat rozhodnutí poškozující jeho zájmy (jako příklad uvádí, že Babiš mohl vetovat půjčku 90 mld. EUR pro Ukrajinu). Jeho zrušení (přechod na rozhodování kvalifikovanou většinou) by podle Vrabela znamenalo konec ČR jako suverénního státu — malá země by neměla prakticky žádný hlas a EU by jí mohla nařídit cokoli (migrační pakt, „fašistický model prokuratury", i přejmenování země). Lidi prosazující zrušení veta označuje buď za skorumpované globalistickými strukturami, nebo (s odkazem na Martina Konvičku) za „sexuálně frustrované" se submisivně-masochistickými sklony.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)

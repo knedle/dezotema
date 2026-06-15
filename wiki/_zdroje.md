@@ -2090,3 +2090,12 @@
 - **Délka:** 01:36:57 | Zhlédnutí: 633
 - **Poznámka:** Z velké části recap stálých tezí (vlastizrada 1992 / ČSR trvá / korporace a akcionáři, COVID jako biologická zbraň/genocida, Deep State, 4. července, adrenochrom/tribunál — nezpracováno). Nové: privatizace jako řízená likvidace čs. průmyslu Západem na příkladu Solivary Prešov (Rakušané/Mečiar/J&T/Delaware, projekt Zbudza pro ruskou ropu/plyn zmařen, Poldi Kladno, slov. zbrojovky); rozšíření ČT „výpalné" (plat GŘ Chudárka 346 800 + bonusy, 3000 vs 500 zaměstnanců, neoprávněné poplatky od 12. 3. 2020).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (9. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-9-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-09_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1530051261805534>
+- **Datum záznamu:** 2026-06-09
+- **Délka:** 01:07:19 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: Finsko jaderné zbraně + obkličování Ruska (Černochová), EU nový balík sankcí proti Rusku, 5 podmínek míru (pohřbení jednání), boj o vyjednavače EU–Rusko (Schröder/E3/Polsko-Itálie), USA v OSN „příměří první", Bulharsko ukončí pomoc Ukrajině (Radev), Zelenskyj Chelsea/humanitární pomoc na zbraně, francouzský arzenál +80 hlavic (SIPRI), Čína–Severní Korea blok, Írán sestřelil US vrtulník, právo veta = suverenita. Závěr: meta o pořadu (QR kód, nezpracováno).
+- **Zpracováno:** ano
