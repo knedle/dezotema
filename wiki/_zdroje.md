@@ -2180,3 +2180,12 @@
 - **Délka:** 01:10:04 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: vstup migračního paktu v platnost (vláda ho neodmítla, výjimka do 2027, solidarita, Okamura „vodí za nos"), pokles porodnosti, senátor Fischer/zbrojení, ČR opouští Intersputnik, uhlíkové clo CBAM (Šilerová) + luxus EP, falešný narativ „Ukrajina vítězí" + 20 mld $, jádro Temelín/Dukovany + taxonomie/„zelený parlament", Zelenskyj/LGBTQ + přeoperovávání dětí, inflace jako okrádání, zbrojní byznys (Itálie/Německo, CSG), TCK násilná mobilizace a úmrtí na komisi.
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: Novo Nordisk (12. 6. 2026) {#lenka-tarabová--videoportál-novo-nordisk-12-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-12_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Videoportál)
+- **URL:** <https://m.facebook.com/watch/?v=1668448377741163>
+- **Datum záznamu:** 2026-06-12
+- **Délka:** 00:06:26 | „V Jevanech se otevřela dánská firma Novo Nordisk"
+- **Poznámka:** Kritika medikalizace dětské obezity (Novo Nordisk/Wegovy, dříve Novavax/COVID; BlackRock/Vanguard) místo prevence (kvalita potravin, sport, výchova).
+- **Zpracováno:** ano
