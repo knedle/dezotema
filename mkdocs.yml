@@ -17,6 +17,7 @@ extra_javascript:
 
 extra_css:
   - css/zdroje-filter.css
+  - css/nav.css
 
 markdown_extensions:
   - toc:
@@ -27,19 +28,19 @@ markdown_extensions:
 nav:
   - Úvod: index.md
   - Témata:
+    - Ceny energií: ceny-energie.md
+    - COVID a vakcíny: covid-vakciny.md
     - DSA a cenzura: dsa-cenzura.md
     - FARA a neziskovky: fara-neziskovky.md
-    - COVID a vakcíny: covid-vakciny.md
-    - Média a propaganda: media-propaganda.md
     - Kauzy a korupce: kauzy.md
-    - Suverenita a EU: suverenita-eu.md
-    - Politický systém: politicky-system.md
     - Konspirační teorie: konspiraci.md
-    - Ceny energií: ceny-energie.md
+    - Média a propaganda: media-propaganda.md
+    - Politický systém: politicky-system.md
     - Rodina a děti: rodina-deti.md
-    - Stochastický teror: stochasticky-teror.md
-    - Predikce: predikce.md
+    - Suverenita a EU: suverenita-eu.md
     - Větrné elektrárny: vetrniky.md
+    - Predikce: predikce.md
+    - Stochastický teror: stochasticky-teror.md
   - Osoby:
     - Jindřich Rajchl: osoby/rajchl.md
     - Lenka Tarabová: osoby/tarabova.md
