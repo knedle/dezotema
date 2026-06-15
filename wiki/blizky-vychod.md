@@ -272,3 +272,17 @@ Vrabel ve vysílání 6. 5. potvrzuje eskalaci evropské námořní přítomnost
 Vrabel informuje, že Írán v noci sestřelil americký vrtulník (oba piloti podle Trumpa v pořádku) a Trump avizoval nutnost reakce; Trump zároveň prohlásil, že „nikdy neslíbil, že nezahájí žádnou novou válku" a vyčítání role „mírového prezidenta" ho rozčiluje. Vrabel z toho usuzuje, že konflikt bude „dlouhý a vleklý". Opakuje spekulace (z 8. 6.), že Írán má pravděpodobně 1–3 jaderné bomby a uran na 8–12 hlavic, případně s pomocí Číny a Ruska — což může vysvětlovat Trumpovo ostražitější chování. Navazuje na [Írán pravděpodobně už má jaderné zbraně (8. 6.)](#írán-pravděpodobně-už-má-jaderné-zbraně--možný-důvod-zvratu-usa-k-příměří-vrabel-8-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)
+
+### USA bombardovaly vodní zařízení v Íránu — Vrabel: terorismus (11. 6. 2026)
+
+Ke zprávě New York Times, že USA (CENTCOM) zasáhly vodní zařízení v íránské provincii Hormozgán a 20 000 obyvatel zůstalo odříznuto od dodávek vody v oblasti s extrémními teplotami, Vrabel označuje útok za teroristický a za porušení mezinárodního práva — odříznutí lidí od vody je humanitární katastrofa, nikoli válčení.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+---
+
+### Trump: opakovaná ultimáta Íránu a podezření z manipulace cen ropy (Vrabel, 11. 6. 2026)
+
+Vrabel popisuje, jak Trump bombardoval Írán (bomby „za 250 milionů dolarů"), prohlásil, že Írán „už nemá obranu", a vzápětí zrušil avizované bombardování a oznámil blízkou dohodu (podle Vrabela už sedmé „konečné" ultimátum za měsíc). Tvrdí, že kolem Trumpa se opakuje vzorec spekulace s ropou: ~20 minut před Trumpovým oznámením někdo shortuje ropu, po oznámení cena klesne a spekulanti vydělají. Trumpa označuje za „nejkriminálnějšího prezidenta USA", jakého pamatuje.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)

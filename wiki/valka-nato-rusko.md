@@ -1318,3 +1318,33 @@ Podle zprávy SIPRI Francie mezi roky 2025 a 2026 zvýšila svůj jaderný arzen
 K návštěvě Si Ťin-pchinga v Pchjongjangu (rozšíření spolupráce s Kim Čong-unem v politice, ekonomice, kultuře i obraně) Vrabel konstatuje, že vzniká silný blok Čína–Rusko–Severní Korea–Írán proti USA a EU. Bezpečnostní architektura z doby před čtyřmi lety je podle něj pryč; svět se dělí na BRICS a jejich strategické partnery vs. USA, EU a jejich partnery — naplnění Putinovy teze o konci unipolárního světa. Navazuje na [BRICS vs unipolární svět](konspiraci.md#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)
+
+### Autonomní AI drony zabíjejí bez člověka — „pokrok" (Vrabel, 11. 6. 2026)
+
+Ke zprávě magazínu New Scientist, že ukrajinské jednotky otestovaly deset plně autonomních dronů řízených umělou inteligencí, které samy vyhledaly a zabily ruské vojáky bez lidského operátora, Vrabel sarkasticky komentuje „pokrok": rozhodování o životě a smrti se přesouvá z člověka na algoritmus. Připomíná předvolební klip (kandidáta hovořícího o „rojových a bojových dronech" a F-35 jako „štítu a meči 21. století") jako kořen toho, kam ČR směřuje.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+---
+
+### Ukrajina přešla k terorismu: izolace Krymu a útoky na přístavy u Oděsy (Vrabel, 11. 6. 2026)
+
+Vrabel tvrdí, že zatímco zahraniční média líčí, jak Ukrajina „začíná vyhrávat" (útoky hluboko do Ruska), ve skutečnosti přešla k „přímému terorismu". Popisuje kampaň izolace Krymu dronovými údery (přídělový systém paliva; doprava na dálnici Rostov–Mariupol–Melitopol–Krym klesla o dvě třetiny; velitel bezpilotních systémů Robert Brody „Maďar" slibuje plnou kontrolu nad silnicí) a útoky znemožňující rekreaci turistů na Krymu. Zmiňuje i pokles propustnosti přístavů u Oděsy o ~30 % (vývoz zemědělských produktů −40–50 %). Vše prý předpověděl Friedrich Merz (rakety Taurus na mosty z Krymu, 2024). Navazuje na [Ukrajinské útoky na civilní cíle jako terorismus](#ukrajinské-útoky-na-civilní-cíle-jako-terorismus--západ-jako-sponzor-vrabel-3-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+---
+
+### EU spor o miliardy pro Ukrajinu: Německo vs. Polsko (EPF) (Vrabel, 11. 6. 2026)
+
+Po odblokování 6,6 mld. eur z Evropského mírového nástroje (EPF) maďarskou vládou vznikl spor, zda mají peníze jít přímo Kyjevu (chce Merz), nebo na kompenzace státům, které už Ukrajině dodaly zbraně (požaduje Polsko: „to jsou naše peníze"). Vrabel vysvětluje mechanismus EPF (stát dodá zbraně, EU proplatí ~60 %) a předpovídá, že ČR (Babiš/Macinka) podpoří poslání peněz přímo na Ukrajinu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+---
+
+### EU zvažuje rozpuštění diplomatické služby a omezení Kallas (Vrabel, 11. 6. 2026)
+
+K informaci Financial Times, že Francie, Německo a další státy diskutují o reformě či rozpuštění Evropské služby pro vnější činnost (EEAS) a omezení pravomocí šéfky unijní diplomacie Kaji Kallas (rozpočet ~1 mld. eur), Vrabel uvádí, že to souvisí s bojem o to, kdo bude za Evropu vyjednávat s Ruskem — von der Leyen a Kallas si podle něj „usurpují moc do vlastních rukou". Navazuje na [Boj o vyjednavače EU–Rusko (9. 6.)](#boj-o-vyjednavače-eurusko-schröder-lídři-vs-struktury-eu-vrabel-9-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)

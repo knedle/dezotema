@@ -681,3 +681,17 @@ V TV debatě Rajchl odmítá, aby prezident Petr Pavel jel na summit NATO (Ankar
 Ke sporu vláda–hrad Rajchl uvádí Polsko jako příklad funkčního modelu: prezident Nawrocki a premiér Tusk jsou na opačné politické lince, ale na zásadních věcech (suverenita, bezpečnost, bohatství) se shodnou. V ČR se podle něj Pavel neshodne ani na ponechání české koruny, zachování práva veta či odmítnutí „Spojených států evropských" — což jsou věci, pod které by se 90 % občanů nepodepsalo. Pavlovo počínání označuje za „proti zájmům ČR" a za „diplomatické faux pas nejhoršího kalibru", protože vznik USE by znamenal konec svrchovanosti ČR.
 
 **Zdroje:** [Rajchl — Videoportál: Pavel proti zájmům ČR, 10. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-proti-zájmům-čr-10-6-2026)
+
+### Macinka: model „stát–stát–byznys", rozvojová politika jako byznys (Vrabel, 11. 6. 2026)
+
+Vrabel kritizuje projev ministra zahraničí Petra Macinky na konferenci o investicích: Macinka mění českou rozvojovou politiku ze „staré" založené na „morální povinnosti" na model „strategického zájmu, ekonomické logiky a partnerství" (rozvoj jako investice, ne charita; princip „trade over aid"; iniciativa Global Gateway). Vrabel to čte jako centrální řízení ekonomiky podřízené zájmům USA a EU (model „stát–stát–byznys") a jako pokračování v duchu kuponové privatizace Václava Klause, u nějž Macinka „vyrůstal". Připomíná, že Macinka v USA nabízel výrobu zbraní pro USA (a jejich následný nákup pro Ukrajinu).
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+---
+
+### Schodek rozpočtu může přesáhnout 350 mld. — čtvrtý nejvyšší (Vrabel, 11. 6. 2026)
+
+Ke stanovisku Národní rozpočtové rady (schodek 2027 může přesáhnout 350 mld. Kč; letos plánováno 310 mld.) Vrabel ironicky „gratuluje" vládě ke čtvrtému nejvyššímu schodku v historii ČR — přestože schodek Fialovy vlády byl jedním z hlavních předvolebních argumentů Andreje Babiše. Zmiňuje i „únikovou doložku" EU umožňující vyšší schodek při zvýšených výdajích na obranu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)

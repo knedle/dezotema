@@ -2162,3 +2162,12 @@
 - **Délka:** 00:01:58
 - **Poznámka:** TV Nova odvysílala podvody s humanitárními dávkami (dávková turistika); „každý pátý cizinec" (Ukrajinec) zneužíval — „dezinformace, která se stala pravdou".
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (11. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-11-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-11_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1578781450482888>
+- **Datum záznamu:** 2026-06-11
+- **Délka:** 00:42:00 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Hlavní bloky: autonomní AI drony (ukr. test), Macinka „stát–stát–byznys"/Global Gateway (paralela s kuponovou privatizací), ETS2 strop 45 EUR + Nerudová, EK utajení vakcinačních smluv (struktura moci), schodek rozpočtu 350 mld, Norsko do EU, USA bombardovaly vodu v Íránu (terorismus), Trump ultimáta + manipulace ropy, Ukrajina terorismus/izolace Krymu/přístavy Oděsa, EU reforma diplomatické služby (Kallas), EU spor EPF Německo vs Polsko.
+- **Zpracováno:** ano
