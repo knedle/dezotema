@@ -15,7 +15,6 @@ V současné době wiki zpracovává výstupy těchto kanálů a osobností:
 - **Lenka Tarabová** — aktivistka, kritička vládní politiky a covidových opatření
 - **Jiří Černohorský** — aktivista spolku Česká Svoboda Respekt
 - **Pavel Zítko** (Československo TV2) — provozovatel alternativního média, témata COVID a kritika vlády
-- **Soňa Peková** — molekulární bioložka, kritička covidové politiky a mRNA vakcín
 - **Konspirátor Boldy** — komentátor na platformě KonspyChannel
 
 ## Jak wiki vzniká
