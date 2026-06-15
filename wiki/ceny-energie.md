@@ -153,7 +153,7 @@ Vrabel reaguje na zprávu (komentovanou v ČT), že Rusko poprvé od začátku v
 
 ---
 
-## Digitální kontrola spotřeby
+## Ekonomika, sankce a BRICS
 
 ### Uhlíkové kredity: chudí prodají, bohatí koupí — prohloubení nerovnosti (Vrabel, 24. 5. 2026)
 

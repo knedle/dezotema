@@ -1178,3 +1178,73 @@ Rajchl ostře odsuzuje, že Volodymyr Zelenský pojmenoval vojenskou jednotku po
 
 ---
 
+
+## Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
+
+### 90 mld. EUR „půjčka", oligarcha Mindić a zbrojní firma Firepoint (Černohorský, 10.–13. 5. 2026)
+
+Jiří Černohorský sdílí a komentuje video Kateřiny Konečné o korupci na Ukrajině. Konečná dokumentuje propojení:
+
+- **Firepoint** — v době záznamu největší výrobce raket a dronů na Ukrajině
+- **Majitel:** oligarcha Mindić, napojený na Zelenského produkční studio Kvartal 95
+- **90 mld. EUR** — „půjčka" EU Ukrajině je dle Konečné fakticky nevratný dar, jelikož Ukrajina ji za daných podmínek nemůže splatit
+- **Mindić** uprchl do Izraele
+
+Černohorský video opakovaně sdílí jako doklad, že válka na Ukrajině korupci neodstranila, ale prohloubila — a evropské veřejné peníze ji živí.
+
+**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026)
+
+---
+
+### ČsTV2: 100+ miliard CZK, desítky podezřelých, devět trestných činů (7. 5. 2026)
+
+Kanál Československo TV2 přinesl ve vysílání 7. 5. 2026 vlastní analýzu bitcoinové kauzy:
+
+- Skutečný objem bitcoinů v peněženkách Jiříkovského přesahuje **100 miliard Kč** — ne 3 miliardy (ze smlouvy) ani 12,5 miliardy (dle Decroix).
+- Žádný specializovaný útvar policie (NCOZ, NCTEKK) dosud neprocházel blockchain Jiříkovského peněženek; komentátor vyzývá, aby to udělali „co nejdříve."
+- Bitcoiny pocházejí ze dvou darknetových tržišť: **Sheep Marketplace** a **Nucleus Market** (prodej drog a zbraní); policie šetří pouze jedno.
+- Obvinění čelí dle rozboru **devíti trestným činům**: porušení zákona o AML (praní špinavých peněz), zneužití pravomocí veřejné osoby, legalizace výnosů trestné činnosti, porušování povinností při správě cizího majetku, podvod, korupce, nepřekažení páchání trestné činnosti (§ 367), zločinné spolčení (§ 129, bod 8) a nadržování.
+- Dalšími podezřelými jsou mj. Petr Fiala, Zbigněw Stanjura, Filip Benda (šéf Stanjurova kabinetu), Ana Bednářová (právní odbor MS), Lubomír Mika (notář), Jiří Berger (soudní znalec), Eva Decroix a Karel Dvořák (STAN).
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+
+---
+
+### Tic, Blažek a Daňhel podali stížnost: částka nesouhlasí — ČsTV2 (12. 5. 2026)
+
+V pondělí 12. 5. podali Karim Tic, Pavel Blažek a Radomír Daňhel stížnost proti sdělení obvinění. Zítko se domnívá, že stížnost nesouvisí s popřením viny, ale s tím, že **obviněná částka nesouhlasí se skutečným rozsahem** — stát jim klade za vinu méně, než kolik skutečně odcizili. Skutečný objem činí přes 100 miliard Kč (dva darknetová tržiště: Nucleus Market + SHIB Marketplace, odkud pocházelo 39 918 BTC). Jiříkovský byl již dříve pravomocně odsouzen Vrchním soudem v Olomouci k 9,5 roku odnětí svobody za krádež bitcoinů ze SHIB Marketplace — tato část bitcoinů nebyla do aktuálního obvinění zahrnutá. Zítko: NCOZ by stačilo převzít jeho tříhodinovou analýzu z 20. 4. a do týdne by mohli uzavřít případ a rozdat sdělení obvinění všem hlavním pachatelům.
+
+**Zdroje:** [ČsTV2 — Souhrn týdne 10/5 (12. 5. 2026)](_zdroje.md#československo-tv2--souhrn-týdne-105-12-5-2026)
+
+---
+
+### ČT Reportéři: 4. díl o Bitcoinu — věcné chyby a nové detaily — ČsTV2 (13. 5. 2026)
+
+Zítko v živém vysílání 13. 5. 2026 (79 minut) podrobně rozebral 4. díl pořadu Reportéři ČT o bitcoinové kauze a identifikoval opakované věcné chyby:
+
+**Chyby ČT v reportáži:**
+- Řekli „jedno darknetové tržiště (Nucleus Market)" — ve skutečnosti byla **dvě**: Sheep Marketplace (uzavřeno prosinec 2013, 39 918 BTC) + Nucleus Market (uzavřeno duben 2016, 5 366 BTC)
+- Jiříkovský propuštěn „jaro 2021" (ČT) vs. „polovina listopadu 2020" (dle Zítkovy analýzy rozsudku)
+- Technika vydána „v březnu 2025" (ČT Rozpleteno) vs. „v prosinci 2024 před Vánoci" (dle Zítka)
+- „9 let" (ČT prvotní verze) vs. **9,5 roku** — vrchní soud v Olomouci přidal půl roku k prvoinstančnímu rozsudku (rozsudek 30. 5. 2018)
+
+**Nové detaily kauzy odhalené Zítkem:**
+- **Martin Nejedlý** (poradce Miloše Zemana) podnikal s Karimem Ticem v několika firmách; Blažek se s Nejedlým sešel v restauraci v roce 2023, kde Nejedlý slavil narozeniny — Zítko: Jiříkovský byl „peněženka mocných chlapců z ODS"
+- **Karim Tic** začal v roce 2026 převádět nemovitosti na manželku — signál, že cítí blížící se rozšíření obvinění
+- Poslanec **Havránek** (ODS) navrhl zákon o osvobození kryptopříjmů do 40 milionů Kč od daně — Zítko: „šili zákon na míru, aby z ukradených bitcoinů neplatili daně"
+- Státní zástupkyně **Lastovecká** chtěla vznést obvinění na Blažka ještě v letošním roce — byla odvolána
+- **Soudci Nejvyššího soudu Brno a krajského soudu Brno** spolu s **policisty krajského ředitelství Brno** — bez jejich rozhodnutí o vrácení zabavené techniky by Jiříkovský k bitcoinům nezískal přístup; Zítko považuje jejich trestně-právní odpovědnost za „neoddiskutovatelnou"
+- ČT má 4 díly Reportéři o Bitcoinu, které si navzájem odporují v datech — Zítko: „levá neví, co dělá pravá"
+
+**Zdroje:** [ČsTV2 — Bitcoin kauza: ČT Reportéři analýza (13. 5. 2026)](_zdroje.md#československo-tv2--bitcoin-kauza-čt-reportéři-analýza-13-5-2026)
+
+---
+
+### „Blažcoin": policie po roce přiznává jen miliardu, Zítko trvá na 100+ mld (3. 6. 2026)
+
+Rok po Blažkově odstoupení (30. 5. 2025) Zítko komentuje policejní sdělení (z 29. 5.), že Jiříkovský „stihl odklonit bitcoiny za víc než miliardu". Označuje to za zametání skutečného rozsahu: dle jeho analýzy šlo o legalizaci výnosů z prodeje drog za více než 100 miliard Kč ze dvou tržišť (SHIB/Sheep Marketplace 39 918 BTC + Nucleus Market 5 366 BTC). Připomíná, že den před schůzkou s Ministerstvem spravedlnosti Jiříkovský rozeslal bitcoiny na „spřátelené" peněženky (1,14 mld. + 1,14 mld. + 50 BTC), takže na „dar" pro ministerstvo už nezbylo; a že policie v Brně mu už v prosinci 2024 protiprávně vrátila techniku (z 50 počítačů přinesl na inventuru jediný, nezapečetěný). Mezi spoluúčastníky řadí Blažka, Daňhela, Karima Tice, právničku MS, notáře Míku, znalce Bergera a brněnské soudce; ODS (poslanec Havránek) prý chtěla krypto-příjmy do 40 mil. osvobodit od daně. Vrchní soud v Olomouci odsoudil Jiříkovského už 31. 5. 2018 na 9,5 roku za krádež bitcoinů ze SHIB Marketplace. Rozšiřuje dosavadní výklad (viz [Dvě darknetová tržiště, 100 miliard Kč](kauzy.md#dvě-darknetová-tržiště-100-miliard-kč-zítko-duben-2026)).
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+
+---
+

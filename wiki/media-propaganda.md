@@ -250,37 +250,7 @@ Rajchl znovu vyzval ke zrušení ČT a Českého rozhlasu: „Právě proto čes
 
 ---
 
-## Digitální kontrola
-
-### Digitální peněženka jako nástroj sledování a blokace — Zítko (2. 5. 2026)
-
-Zítko ve vysílání z 2. května 2026 popisuje EU direktívu o digitální identitě (eIDAS 2.0) a navazující digitální peněženku jako mechanismus, který přesahuje pouhé pohodlí. V digitální peněžence budou uloženy doklady, platební prostředky a přístup ke státním službám. Zítko upozorňuje na riziko zneužití: stát — nebo ten, kdo systém ovládá — může peněženku zablokovat a občan pak nemůže nakupovat, tankovat, ani se prokázat. Jako analogii cituje čínský systém sociálního kreditu.
-
-Propojuje to s příkladem lockdownů: byl zaveden „přechodně" a „dočasně" — a to, co bylo jednou normalizováno, se zpět nevrátilo. Digitální peněženka bude „dočasně dobrovolná", dokud nebude povinná. Zítko varuje před přijetím systému bez veřejné debaty o jeho kontrolních důsledcích.
-
-**Zdroje:** [Zítko — COVID tour, digitální ID, propaganda, 2. 5. 2026](_zdroje.md#pavel-zítko--covid-tour-digitální-id-propaganda-2-5-2026)
-
----
-
-### 6G síť jako planetární sledovací organismus — Vrabel (6. 5. 2026)
-
-Vrabel ve vysílání 6. 5. 2026 označuje nadcházející 6G technologii za kvalitatívní zlom — nejen v oblasti komunikací, ale především sledování. Na rozdíl od 5G jde podle Vrabela o infrastrukturu pro AI sledování v reálném čase.
-
-> „6G je absolutní revoluce ve všem, nejenom v oblasti zdraví, ale především v oblasti sledování. To je něco, co jsem si ani v mých nejčernějších myšlenkách nikdy nedokázal představit." — Ladislav Vrabel, [Večerní zprávy: EU, fašismus, demonstrace, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-eu-fašismus-demonstrace-6-5-2026)
-
-Vrabel navazuje na téma EU direktívy ADDV (kamera v autech sledující řidiče od července 2026), digitální peněženky a eIDAS 2.0 — jako součást vzájemně propojeného systému totálního dohledu.
-
-**Zdroje:** [Vrabel — Večerní zprávy: EU, fašismus, demonstrace, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-eu-fašismus-demonstrace-6-5-2026)
-
----
-
-### Pegasus a konference NSO Group v Praze — dvojí metr „bezpečnostního ohrožení" (Vrabel, 2. 6. 2026)
-
-Vrabel upozorňuje, že ve dnech 2.–4. 6. se v pražském hotelu Clarion koná veletrh prodejců špionážního softwaru, kde se sejdou zástupci soukromých firem, zpravodajských služeb a policie z celého světa; hlavním sponzorem je izraelská NSO Group (software Pegasus, který se dokáže nabourat do telefonu a ovládat ho bez vědomí majitele — dle citované analýzy Amnesty International naboural 10 000 telefonů včetně telefonu prezidenta Macrona). Vrabel kontrastuje tuto konferenci s tím, že jeho manželka byla prohlášena za „bezpečnostní ohrožení státu" bez zdůvodnění (viz [Kauzy — Bojana Vrabelová](kauzy.md)) — podle něj by se měly tajné služby zabývat spíš takovými technologiemi než likvidací aktivistů. Označuje za příznačné, že ČR „bere na svá bedra ty nejnebezpečnější věci z celého světa" (paralela s muniční iniciativou).
-
-**Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
-
----
+## ČT poplatky a omezování na sociálních sítích
 
 ### ČsTV2: kampaň za vrácení televizních poplatků od 12. 3. 2020 (7. 5. 2026)
 
