@@ -667,3 +667,17 @@ Rajchl shrnuje směr PRO (rozvíjí [program PRO, 3. 5.](#flat-tax-15--dph-15--a
 > „Cokoliv dáte české firmě [...] zhruba 45 % se vám vrátí do státního rozpočtu. Když to dáte zahraniční firmě, už ty peníze nikdy neuvidíte." — Jindřich Rajchl, [FB Live 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
 
 **Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+### Pavel by neměl na summit NATO — lídr opozice hrající proti vládě (Rajchl, 9. 6. 2026)
+
+V TV debatě Rajchl odmítá, aby prezident Petr Pavel jel na summit NATO (Ankara). Argumentuje, že neformální část jednání (kde se „dělají domluvy") je důležitější než formální a Pavel nemůže „připravit půdu", když Trumpa nazval „odpudivou lidskou bytostí" a své zahraniční cesty využívá ke kritice obranné politiky Babišovy vlády. Hlavní problém: Pavel je „lídr opozice", hraje proti vládě, zatímco ČR musí na summitu „mluvit jednou řečí" a být jednotná. Navazuje na [Summit NATO/OSN jako „divide et impera" (Vrabel, 8. 6.)](#summit-natoosn-jako-divide-et-impera--pavel-a-babiš-dělají-v-nato-totéž-vrabel-8-6-2026).
+
+**Zdroje:** [Rajchl — Videoportál: Pavel a summit NATO, 9. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-a-summit-nato-9-6-2026)
+
+---
+
+### Pavel proti zájmům ČR (koruna, veto, USE); Polsko jako kontrast (Rajchl, 10. 6. 2026)
+
+Ke sporu vláda–hrad Rajchl uvádí Polsko jako příklad funkčního modelu: prezident Nawrocki a premiér Tusk jsou na opačné politické lince, ale na zásadních věcech (suverenita, bezpečnost, bohatství) se shodnou. V ČR se podle něj Pavel neshodne ani na ponechání české koruny, zachování práva veta či odmítnutí „Spojených států evropských" — což jsou věci, pod které by se 90 % občanů nepodepsalo. Pavlovo počínání označuje za „proti zájmům ČR" a za „diplomatické faux pas nejhoršího kalibru", protože vznik USE by znamenal konec svrchovanosti ČR.
+
+**Zdroje:** [Rajchl — Videoportál: Pavel proti zájmům ČR, 10. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-proti-zájmům-čr-10-6-2026)

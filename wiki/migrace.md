@@ -187,3 +187,25 @@ V reakci na divácké komentáře Vrabel upřesňuje právní argument, proč po
 
 ---
 
+
+### Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)
+
+Rajchl reaguje na článek Seznam Zpráv kritizující vládní plán zveřejňovat státní příslušnost pachatelů trestných činů. Tvrdí, že média (a ministr Rakušan) čtyři roky lhala, když uváděla, že kriminalita Ukrajinců je stejná či nižší než Čechů (Rakušan: „Ukrajinci jsou slušnější než Češi") — proto prý zveřejňování vadí, „ukázalo by pravdu". Navrhuje automatické vyhoštění za jakýkoli násilný trestný čin či přestupek spáchaný cizincem, s preventivním účinkem (Ukrajinci podle něj skončí „na frontě" u „zelenského odvodového komanda").
+
+**Zdroje:** [Rajchl — Videoportál: státní příslušnost pachatelů, 10. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-státní-příslušnost-pachatelů-10-6-2026)
+
+---
+
+### Migrační pakt: Rakušan jediný z V4 pro; odmítnout lze jen na úrovni EU (Rajchl, 12. 6. 2026)
+
+Rajchl připomíná, že Vít Rakušan jako jediný z V4 hlasoval pro migrační pakt (Polsko a Maďarsko proti, Slovensko se zdrželo). Vysvětluje, že vládní „odmítnutí" paktu je jen gesto pro voliče — změnou vnitřní legislativy se nic nevyřeší, pakt lze odmítnout jen na evropské úrovni ve spojení s dalšími státy. Upozorňuje, že ESLP brání návratům migrantů (stačí tvrdit ohrožení např. kvůli sexuální orientaci) a že volba je „přijmout kvótu, nebo platit" (Maďarsko: 19 tis. migrantů, nebo 10 mld. Kč). Uzavírá, že jde o placení za německé chyby („otevřeli brány", selhalý sociálně-inženýrský projekt). Navazuje na [EU vydírá Maďarsko](suverenita-eu.md#eu-vydírá-maďarsko-přijmout-21-000-migrantů-nebo-zaplatit-10-miliard-kč).
+
+**Zdroje:** [Rajchl — Videoportál: migrační pakt, 12. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-migrační-pakt-12-6-2026)
+
+---
+
+### Podvody s humanitárními dávkami — „dezinformace, která se stala pravdou" (Rajchl, 13. 6. 2026)
+
+K reportáži TV Nova o podvodech s humanitárními dávkami (tzv. dávková turistika, fiktivní adresy, nahlašování počtu osob; ztráty desítek milionů korun za 14 měsíců) Rajchl konstatuje, že totéž čtyři roky tvrdili „kolaboranti typu Rajchla" a byli za to označováni za prokremelské dezinformátory. Cituje údaj, že humanitární dávky zneužíval „každý pátý cizinec" (tj. Ukrajinec — nikdo jiný je nedostává), a označuje to za další „dezinformaci, která se stala pravdou".
+
+**Zdroje:** [Rajchl — Videoportál: humanitární dávky, 13. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-humanitární-dávky-13-6-2026)

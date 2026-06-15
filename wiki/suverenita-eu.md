@@ -354,3 +354,9 @@ Rajchl klade za hlavní příčinu ekonomického zaostávání ČR neschopnost d
 Vrabel vysvětluje právo veta jako základní nástroj suverenity: kterýkoli z 27 členských států může zablokovat rozhodnutí poškozující jeho zájmy (jako příklad uvádí, že Babiš mohl vetovat půjčku 90 mld. EUR pro Ukrajinu). Jeho zrušení (přechod na rozhodování kvalifikovanou většinou) by podle Vrabela znamenalo konec ČR jako suverénního státu — malá země by neměla prakticky žádný hlas a EU by jí mohla nařídit cokoli (migrační pakt, „fašistický model prokuratury", i přejmenování země). Lidi prosazující zrušení veta označuje buď za skorumpované globalistickými strukturami, nebo (s odkazem na Martina Konvičku) za „sexuálně frustrované" se submisivně-masochistickými sklony.
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)
+
+### ETS2: zastropování na 45 EUR je lež — zrušit emisní povolenky (Rajchl, 11. 6. 2026)
+
+Rajchl reaguje na zprávu, že cena emisní povolenky ETS2 bude „zastropována" na 45 EUR. Tvrdí, že nejde o skutečný strop: po dosažení 45 EUR Evropská unie jen dvakrát ročně uvolní další 4 miliony povolenek (dohromady ~8 % ročně emitovaného množství), takže cena poroste dál. ETS2 označuje za „obrovský kšeft" a „zelenou lež"; má-li Evropa zůstat bohatá, je podle něj nutné zrušit emisní povolenky včetně ETS1. Navazuje na [Emisní povolenky: ČR platí 17× víc než Němci](#emisní-povolenky-čr-platí-17-víc-než-němci--platíme-německé-důchody-rajchl-4-6-2026).
+
+**Zdroje:** [Rajchl — Videoportál: ETS2 zastropování, 11. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ets2-zastropování-11-6-2026)

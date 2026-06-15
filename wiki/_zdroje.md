@@ -2099,3 +2099,66 @@
 - **Délka:** 01:07:19 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: Finsko jaderné zbraně + obkličování Ruska (Černochová), EU nový balík sankcí proti Rusku, 5 podmínek míru (pohřbení jednání), boj o vyjednavače EU–Rusko (Schröder/E3/Polsko-Itálie), USA v OSN „příměří první", Bulharsko ukončí pomoc Ukrajině (Radev), Zelenskyj Chelsea/humanitární pomoc na zbraně, francouzský arzenál +80 hlavic (SIPRI), Čína–Severní Korea blok, Írán sestřelil US vrtulník, právo veta = suverenita. Závěr: meta o pořadu (QR kód, nezpracováno).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Pavel a summit NATO (9. 6. 2026) {#jindřich-rajchl--videoportál-pavel-a-summit-nato-9-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-09_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1472473061298604>
+- **Datum záznamu:** 2026-06-09
+- **Délka:** 00:01:32 | Zhlédnutí: 77 744
+- **Poznámka:** Střih z TV debaty — Pavel by neměl na summit NATO (lídr opozice, Trump „odpudivá bytost", ČR musí mluvit jednou řečí).
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Pavel proti zájmům ČR (10. 6. 2026) {#jindřich-rajchl--videoportál-pavel-proti-zájmům-čr-10-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-10_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1642575673683057>
+- **Datum záznamu:** 2026-06-10
+- **Délka:** 00:01:16
+- **Poznámka:** Spor vláda–hrad; Polsko (Nawrocki/Tusk) se shodne na suverenitě, Pavel ne (koruna, veto, Spojené státy evropské) — „proti zájmům ČR".
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: státní příslušnost pachatelů (10. 6. 2026) {#jindřich-rajchl--videoportál-státní-příslušnost-pachatelů-10-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-10_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2395269444328706>
+- **Datum záznamu:** 2026-06-10
+- **Délka:** 00:03:25
+- **Poznámka:** Seznam Zprávy kritizují zveřejňování státní příslušnosti pachatelů; Rakušan lhal o kriminalitě Ukrajinců; návrh automatického vyhoštění cizinců za násilné TČ.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: ETS2 zastropování (11. 6. 2026) {#jindřich-rajchl--videoportál-ets2-zastropování-11-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-11_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1026055503487122>
+- **Datum záznamu:** 2026-06-11
+- **Délka:** 00:02:03
+- **Poznámka:** Zastropování ETS2 na 45 EUR je „lež" — uvolní se další povolenky, cena poroste; výzva zrušit ETS1 i ETS2.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Dozimetr komise (11. 6. 2026) {#jindřich-rajchl--videoportál-dozimetr-komise-11-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-11_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2437910866672815>
+- **Datum záznamu:** 2026-06-11
+- **Délka:** 00:03:10
+- **Poznámka:** Rozhovor pro Marka Stoniše ke Sněmovní vyšetřovací komisi Dozimetr — proč se nestíhají STAN a TOP 09 (Michalík, 5 úmrtí, „překroužkování").
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: migrační pakt (12. 6. 2026) {#jindřich-rajchl--videoportál-migrační-pakt-12-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-12_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1010770188015867>
+- **Datum záznamu:** 2026-06-12
+- **Délka:** 00:02:25
+- **Poznámka:** Rakušan jediný z V4 hlasoval pro migrační pakt; odmítnutí jen na úrovni EU; ESLP brání návratům; kvóty 30k/15 mld; platba za německé chyby.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: humanitární dávky (13. 6. 2026) {#jindřich-rajchl--videoportál-humanitární-dávky-13-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-13_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/4502276430051525>
+- **Datum záznamu:** 2026-06-13
+- **Délka:** 00:01:58
+- **Poznámka:** TV Nova odvysílala podvody s humanitárními dávkami (dávková turistika); „každý pátý cizinec" (Ukrajinec) zneužíval — „dezinformace, která se stala pravdou".
+- **Zpracováno:** ano
