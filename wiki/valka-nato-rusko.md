@@ -1206,7 +1206,7 @@ Kanál Československo TV2 přinesl ve vysílání 7. 5. 2026 vlastní analýzu 
 - Obvinění čelí dle rozboru **devíti trestným činům**: porušení zákona o AML (praní špinavých peněz), zneužití pravomocí veřejné osoby, legalizace výnosů trestné činnosti, porušování povinností při správě cizího majetku, podvod, korupce, nepřekažení páchání trestné činnosti (§ 367), zločinné spolčení (§ 129, bod 8) a nadržování.
 - Dalšími podezřelými jsou mj. Petr Fiala, Zbigněw Stanjura, Filip Benda (šéf Stanjurova kabinetu), Ana Bednářová (právní odbor MS), Lubomír Mika (notář), Jiří Berger (soudní znalec), Eva Decroix a Karel Dvořák (STAN).
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026)
 
 ---
 

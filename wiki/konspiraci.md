@@ -263,7 +263,7 @@ Ve vysílání 20. 5. 2026 Zítko tuto teorii rozvedl o nové detaily:
 
 Ve vysílání z 26. 5. 2026 Zítko přidal klíčový „důkaz" korporátní povahy ČR a SR: obě jsou prý registrovány u americké Komise pro cenné papíry (SEC) jako soukromé obchodní korporace — Česká republika pod číslem CIK 0000914593, Slovenská republika pod číslem CIK 000091010103. Z toho vyvozuje, že nemohou být suverénními právními státy.
 
-**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-20-4-2026), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026), [ČsTV2 — Deutschland, Čechland, nebo Československo? (26. 5. 2026)](_zdroje.md#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026)
+**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-19-4-2026-zveřejněno-20-4), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026), [ČsTV2 — Deutschland, Čechland, nebo Československo? (26. 5. 2026)](_zdroje.md#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026)
 
 ---
 

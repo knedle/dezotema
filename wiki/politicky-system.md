@@ -160,7 +160,7 @@ Rajchl v krátkém videu z 9. dubna 2026 kritizuje chování Petra Pavla, který
 
 Lenka Tarabová označuje Pavlovo veřejné „vyhlášení budoucího směřování do Spojených států evropských" za „naprosto nepokrytý kolaborantský útok na svrchovanost České republiky." Faktický zánik ČR jako samostatného státu by podle ní znamenal návrat do horší pozice, než jakou měla v Rakousku-Uhersku. Označuje to za „poplivání" Masaryka, Beneše, Štefánika, Kramáře a Rašína — kteří český stát budovali za cenu riskování životů (Rašín a Kramář byli Habsburky odsouzeni k trestu smrti). Pavel, Piráti a STAN se podle Tarabové snaží to, co bylo za 110 let vydobyto, „zašlapat do země a vrátit nás do nějakého většího evropského subteritoria, kde bychom nerozhodovali vůbec o ničem."
 
-**Zdroje:** [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026)
+**Zdroje:** [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026)
 
 ---
 

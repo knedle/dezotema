@@ -22,11 +22,11 @@ Jindřich Rajchl zastává názor, že obrana a měna jsou základními pilíři
 
 Rajchl v krátkém videu z 27. dubna 2026 reaguje na Pavlovu veřejnou podporu myšlenky Spojených států evropských. Zastává názor, že prezident má právo otevírat tisíc politických témat, ale nemůže prosazovat zánik suverenity ČR — v takovém případě by měl „kandidovat někam do Evropy". Rajchl hodnotí EU superstat jako sen Německa a Francie, nikoliv zájem ČR. Pavlovo odvolávání se na Masaryka označuje za absurdní: Masaryk ČR vyvedl z nadnárodní habsburské struktur a zajistil jí suverenitu — Pavel dělá přesný opak.
 
-> „Masaryk vytáhl naší zemi k další suverenitě z Rakouska a Uherska, proto se také nazývá prezidentosvoboditel. A Petr Pavel, který nás chce vtáhnout zpátky do nějakého evropského superstátu, si bere do pusy Masaryka. No tak to je prostě už úplně absurdní." — Jindřich Rajchl, [Videoportál 27. 4. 2026](_zdroje.md#jindřich-rajchl--petr-pavel-eu-superstát-masaryk-27-4-2026)
+> „Masaryk vytáhl naší zemi k další suverenitě z Rakouska a Uherska, proto se také nazývá prezidentosvoboditel. A Petr Pavel, který nás chce vtáhnout zpátky do nějakého evropského superstátu, si bere do pusy Masaryka. No tak to je prostě už úplně absurdní." — Jindřich Rajchl, [Videoportál 27. 4. 2026](_zdroje.md#jindřich-rajchl--petr-pavel-eu-superstát-a-masaryk-27-4-2026)
 
 Paralelně v FB live z 26. dubna cituje data: 70 % občanů ČR si euro nepřeje. Připomíná, že země mimo eurozónu rostou rychleji než ty, kde se platí eurem. Vláda by měla realizovat vůli lidí, ne vůli politiků.
 
-**Zdroje:** [Rajchl — Videoportál 27. 4. 2026](_zdroje.md#jindřich-rajchl--petr-pavel-eu-superstát-masaryk-27-4-2026), [Rajchl — FB live 26. 4. 2026](_zdroje.md#jindřich-rajchl--fb-live-eu-suverenita-26-4-2026)
+**Zdroje:** [Rajchl — Videoportál 27. 4. 2026](_zdroje.md#jindřich-rajchl--petr-pavel-eu-superstát-a-masaryk-27-4-2026), [Rajchl — FB live 26. 4. 2026](_zdroje.md#jindřich-rajchl--fb-live-euro-a-suverenita-26-4-2026)
 
 ---
 

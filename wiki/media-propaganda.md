@@ -50,7 +50,7 @@ Zítko měl navíc objektivní překážku: 24měsíční soudní **zákaz pobyt
 
 Ve druhém dílu vysílání ze dne 16. dubna Zítko přečetl klíčový argument policie pro odmítnutí vstupu do Prahy (§350 odst. 3 trestního řádu 141/1961 Sb.): návštěva pořadu není „důležitým důvodem" — živé televizní vysílání s politickými tématy by Zítkovi umožnilo „oslovit i širší publikum" a „vyslovování různých názorů v živě vysílaném pořadu by bylo v rozporu s uloženým trestem." Zítko to glosuje: „Hlavně nechtěj, abych tam řekl pravdu." Ze soudního rozsudku (soudkyně Daniela Rajfová) zaznívá formulace, že Zítko „aktivně brojí proti státním institucím" a „přítomnost obžalovaného v hlavním městě by mohla umožnit další provokace a konflikty."
 
-**Zdroje:** [Zítko — Mobilizace diváků pro Máte slovo, 2026-04-14](_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026), [Zítko — Večerník: Prymula, ČT, 2026-04-13](_zdroje.md#pavel-zítko--večerník-prymula-čt-máte-slovo-maďarské-volby-14-4-2026), [Zítko — Odmítnutí Máte slovo, ČT budget, 2026-04-15](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026), [Zítko — Máte slovo živě: Prymula, 2026-04-17](_zdroje.md#pavel-zítko--máte-slovo-živě-prymula-zákaz-prahy-17-4-2026), [Zítko — 16. dubna díl 2: dopis policii, 2026-04-17](_zdroje.md#pavel-zítko--16-dubna-máte-slovo-dopis-policii-a-zdůvodnění-zákazu-prahy-17-4-2026-díl-2)
+**Zdroje:** [Zítko — Mobilizace diváků pro Máte slovo, 2026-04-14](_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026), [Zítko — Večerník: Prymula, ČT, 2026-04-13](_zdroje.md#pavel-zítko--večerník-prymula-v-máte-slovo-čt-maďarské-volby-14-4-2026), [Zítko — Odmítnutí Máte slovo, ČT budget, 2026-04-15](_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026), [Zítko — Máte slovo živě: Prymula, 2026-04-17](_zdroje.md#pavel-zítko--máte-slovo-živě-prymula-zákaz-prahy-17-4-2026), [Zítko — 16. dubna díl 2: dopis policii, 2026-04-17](_zdroje.md#pavel-zítko--16-dubna-máte-slovo-dopis-policii-a-zdůvodnění-zákazu-prahy-17-4-2026-díl-2)
 
 ---
 
@@ -70,7 +70,7 @@ Zítko dokumentuje cenzuru během prvního přímého přenosu Petra Fialy a Evy
 
 Zítko také komentuje kampaň studentů UK za zachování ČT financované z koncesionářských poplatků. Poukazuje na paradox: pokud studenti považují státní financování za ohrožení nezávislosti ČT, měli by odmítnout i státní financování vlastních fakult — „Pojďme navrhnout, ať platí studium sami z vlastní kapsy."
 
-**Zdroje:** [Zítko — Poledník 11:11 (22. 4. 2026)](_zdroje.md#pavel-zítko--poledník-1111-fiala-decroix-fb-live-cenzura-22-4-2026), [Zítko — Rozcvička před FB show (21. 4. 2026)](_zdroje.md#pavel-zítko--rozcvička-před-fb-show-decroix-fiala-21-4-2026)
+**Zdroje:** [Zítko — Poledník 11:11 (22. 4. 2026)](_zdroje.md#pavel-zítko--poledník-1111-fialadecroix-fb-live-cenzura-22-4-2026), [Zítko — Rozcvička před FB show (21. 4. 2026)](_zdroje.md#pavel-zítko--rozcvička-před-fb-show-decroixfiala-21-4-2026)
 
 ---
 
@@ -256,7 +256,7 @@ Rajchl znovu vyzval ke zrušení ČT a Českého rozhlasu: „Právě proto čes
 
 Vedle Zítka spustila kampaň za vrácení poplatků i ČsTV2. V pořadu z 7. 5. 2026 vyzvala diváky, aby písemně požadovali od ČT vrácení koncesionářských poplatků zaplacených od 12. března 2020 (datum vyhlášení nouzového stavu), s odkazem na porušování zákona č. 483/1991 Sb. o České televizi. Argumentace ČsTV2 souzní se Zítkovou: veřejnoprávní médium ze zákona musí poskytovat vyvážené, ověřené a objektivní informace — to přestalo platit s nástupem COVID propagandy. Viz také: [Zákon č. 483/1991: Zítkovy tři příklady porušení (4. 5. 2026)](#zákon-č-4831991-tři-zdokumentované-příklady-porušení--argument-zítka-proti-placení-poplatků-4-5-2026).
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026)
 
 ---
 
@@ -276,7 +276,7 @@ Výměna eskalovala: referentka odpovídala formulářovými dopisy, které dle 
 
 ČsTV2 ve vysílání z 7. 5. 2026 informovala o systematickém omezování dosahu své facebookové stránky ze strany platformy. Označuje to za součást širšího vzorce cenzury alternativních médií na sociálních sítích — podobně jako blokování jejích profilů Evou Decroix (viz [Fiala/Decroix Facebook live: cenzura otázek, 22. 4. 2026](#fialadecroix-facebook-live-cenzura-otázek-jako-normální-politická-praxe-zítko-22-4-2026)).
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026)
 
 ---
 

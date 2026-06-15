@@ -48,9 +48,9 @@ Tarabová přidává konkrétní bezpečnostní rozměr (26. 4. 2026): od roku 2
 
 Rajchl v krátkém videu z 1. května 2026 přidává ekonomický rozměr: chápe, proč nadnárodní korporace vítají ukrajinskce zaměstnance (pracují za nižší mzdy), ale z pohledu českých občanů a jejich pracovních míst a mezd jde o pohromu. Deklaruje, že bude vždy stát na straně českých občanů.
 
-> „Chápu, že pro nadnárodní korporace jsou ukrajinští zaměstnanci ochotní pracovat za nižší mzdy hotovou výhrou. Ale pro naše občany, jejich pracovní místa a výši jejich mezd jsou pohromou." — Jindřich Rajchl, [Videoportál 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinští-zaměstnanci-a-české-mzdy-1-5-2026)
+> „Chápu, že pro nadnárodní korporace jsou ukrajinští zaměstnanci ochotní pracovat za nižší mzdy hotovou výhrou. Ale pro naše občany, jejich pracovní místa a výši jejich mezd jsou pohromou." — Jindřich Rajchl, [Videoportál 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinskí-zaměstnanci-a-české-mzdy-1-5-2026)
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-26-4-2026), [Rajchl — Ukrajinskí zaměstnanci a české mzdy, 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinští-zaměstnanci-a-české-mzdy-1-5-2026)
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026), [Rajchl — Ukrajinskí zaměstnanci a české mzdy, 1. 5. 2026](_zdroje.md#jindřich-rajchl--ukrajinskí-zaměstnanci-a-české-mzdy-1-5-2026)
 
 ---
 
