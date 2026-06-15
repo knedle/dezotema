@@ -358,7 +358,7 @@ Jiří Černohorský odhaluje (s odkazem na informace od Petry Redové), že spo
 
 ### Posselt v Pohořelicích — veřejné projevy za zrušení dekretů
 
-Černohorský uvádí, že Bernd Posselt na akcích financovaných přes Meeting Brno v Pohořelicích veřejně vyzýval ke zrušení Benešových dekretů a k „historickému smíření" spojenému s přerozdělením majetku. Tato protibenešovská rétorika je dle Černohorského financována z veřejných českých prostředků. Viz také [Suverenita a EU — Posselt v Pohořelicích](suverenita-eu.md#posselt-v-pohořelicích--veřejné-projevy-za-zrušení-dekretů).
+Černohorský uvádí, že Bernd Posselt na akcích financovaných přes Meeting Brno v Pohořelicích veřejně vyzýval ke zrušení Benešových dekretů a k „historickému smíření" spojenému s přerozdělením majetku. Tato protibenešovská rétorika je dle Černohorského financována z veřejných českých prostředků. Viz také [Suverenita a EU — Posselt v Pohořelicích](benesovy-dekrety.md#posselt-v-pohořelicích--veřejné-projevy-za-zrušení-dekretů).
 
 ---
 

@@ -20,6 +20,7 @@ extra_css:
   - css/nav.css
 
 markdown_extensions:
+  - attr_list
   - toc:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
@@ -28,6 +29,8 @@ markdown_extensions:
 nav:
   - Úvod: index.md
   - Témata:
+    - Benešovy dekrety a sudetský sjezd: benesovy-dekrety.md
+    - Blízký východ: blizky-vychod.md
     - Ceny energií: ceny-energie.md
     - COVID a vakcíny: covid-vakciny.md
     - DSA a cenzura: dsa-cenzura.md
@@ -35,9 +38,11 @@ nav:
     - Kauzy a korupce: kauzy.md
     - Konspirační teorie: konspiraci.md
     - Média a propaganda: media-propaganda.md
+    - Migrace a islamizace: migrace.md
     - Politický systém: politicky-system.md
     - Rodina a děti: rodina-deti.md
     - Suverenita a EU: suverenita-eu.md
+    - Válka, NATO a Rusko: valka-nato-rusko.md
     - Větrné elektrárny: vetrniky.md
     - Predikce: predikce.md
     - Stochastický teror: stochasticky-teror.md
