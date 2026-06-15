@@ -318,7 +318,7 @@ Ministr zahraničí Petr Macinka navštívil 8. května 2026 Berlín a podepsal 
 
 Vrabel hodnotí ironicky: „Největší útok na Posselta byl, že si vybral špatnou agenturu — vyměň agenturu a je všechno v pořádku." Označuje to za projev tradiční české podřízenosti vůči Německu.
 
-**Zdroje:** [Vrabel — Večerní zprávy 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-8-5-2026)
+**Zdroje:** [Vrabel — Večerní zprávy 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-wwii-8-5-2026)
 
 ---
 

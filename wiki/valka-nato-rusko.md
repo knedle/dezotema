@@ -619,7 +619,7 @@ Vrabel ukazuje mapku Arménie — zemí obklopenou Tureckem, Ázerbájdžánem, 
 
 Vrabel ve vysílání z 8. května 2026 informuje, že Zelenský oznámil dočasný klid zbraní od 9. do 11. května 2026 a výměnu válečných zajatců v poměru 1 000:1 000. Vrabel hodnotí pozitivně — každý den klidu zachrání stovky životů. Avšak za předchozí dočasné příměří bylo zaznamenáno 1 630 porušení zastavení palby (dle ruského MO). Výzvu k evakuaci diplomatů z Kyjeva EU ignorovala — Vrabel komentuje sarkazmem: „Evropští diplomaté jsou nesmrtelní — jsou čistí jako oko Boží."
 
-**Zdroje:** [Vrabel — Večerní zprávy 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-8-5-2026)
+**Zdroje:** [Vrabel — Večerní zprávy 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-wwii-8-5-2026)
 
 ---
 

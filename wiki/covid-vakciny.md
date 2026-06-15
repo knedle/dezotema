@@ -250,7 +250,7 @@ Peková označuje českou petici za projekt s potenciálem **precedentního dopa
 
 Plánuje osobní audienci u Petra Pavla. Prezidentův právník ji mezitím kontaktoval a sdělil, že vidí „trávu růst" a ať se „zpamatuje". Peková reaguje: „Já jsem se neptala právníka, ptala jsem se prezidenta." Pokud ji odmítne přijmout, považuje i to za zprávu: „Mají prezidenta, ke kterému se nedá dostat."
 
-**Zdroje:** [ČsTV2 — Chcimír: Peková COVID tour (22. 4. 2026)](_zdroje.md#pavel-zítko--chcimír-peková-covid-tour-22-4-2026)
+**Zdroje:** [ČsTV2 — Chcimír: Peková COVID tour (22. 4. 2026)](_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026)
 
 ---
 
