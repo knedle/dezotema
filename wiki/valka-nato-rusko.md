@@ -169,7 +169,7 @@ Vrabel přebírá ruský narativ (Marija Zacharovová) o útoku dronem-kamikaze 
 
 ### Obnovení ekonomických vztahů s Ruskem — absence ČR na fóru v Petrohradu (Vrabel, 3. 6. 2026)
 
-K Mezinárodnímu ekonomickému fóru v Petrohradu (s avizovaným vystoupením Putina 5. 6.) Vrabel konstatuje, že ČR tam nemá zastoupení, a volá po narovnání a obnovení obchodních vztahů s Ruskou federací — desítky let fungujícího partnerství (i za SSSR). Argumentuje, že Rusko je zdrojem nejlevnějšího a nejčistšího plynu a ropy a největší sousední jadernou velmocí. Navazuje na svou dřívější tezi, že EU se odpojením od ruských energií dobrovolně poškodila (viz [EU ekonomika vybudována na levném ruském plynu](suverenita-eu.md#eu-ekonomika-vybudována-na-levném-ruském-plynu--vzdáváme-se-jí-dobrovolně-vrabel-18-5-2026)).
+K Mezinárodnímu ekonomickému fóru v Petrohradu (s avizovaným vystoupením Putina 5. 6.) Vrabel konstatuje, že ČR tam nemá zastoupení, a volá po narovnání a obnovení obchodních vztahů s Ruskou federací — desítky let fungujícího partnerství (i za SSSR). Argumentuje, že Rusko je zdrojem nejlevnějšího a nejčistšího plynu a ropy a největší sousední jadernou velmocí. Navazuje na svou dřívější tezi, že EU se odpojením od ruských energií dobrovolně poškodila (viz [EU ekonomika vybudována na levném ruském plynu](ceny-energie.md#eu-ekonomika-vybudována-na-levném-ruském-plynu--vzdáváme-se-jí-dobrovolně-vrabel-18-5-2026)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 

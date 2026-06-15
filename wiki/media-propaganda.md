@@ -304,21 +304,9 @@ Výměna eskalovala: referentka odpovídala formulářovými dopisy, které dle 
 
 ### Facebook omezuje dosah ČsTV2 (7. 5. 2026)
 
-ČsTV2 ve vysílání z 7. 5. 2026 informovala o systematickém omezování dosahu své facebookové stránky ze strany platformy. Označuje to za součást širšího vzorce cenzury alternativních médií na sociálních sítích — podobně jako blokování jejích profilů Evou Decroix (viz [Fiala/Decroix Facebook live: cenzura otázek, 22. 4. 2026](#fialadeckroix-facebook-live-cenzura-otázek-jako-normální-politická-praxe-zítko-22-4-2026)).
+ČsTV2 ve vysílání z 7. 5. 2026 informovala o systematickém omezování dosahu své facebookové stránky ze strany platformy. Označuje to za součást širšího vzorce cenzury alternativních médií na sociálních sítích — podobně jako blokování jejích profilů Evou Decroix (viz [Fiala/Decroix Facebook live: cenzura otázek, 22. 4. 2026](#fialadecroix-facebook-live-cenzura-otázek-jako-normální-politická-praxe-zítko-22-4-2026)).
 
 **Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026)
-
----
-
-## Elity a plánování dezinformací skrze popkulturu
-
-### Filmy jako záměrné odhalení plánů
-
-Boldy zastává teorii, že elity záměrně vkládají své plány do filmů a seriálů (jako Westworld nebo Matrix), aby se na ně nevztahovala karma. Pokud lidem plán ukáží a lidé jej nepřijmou jako varování, karma se elit netýká. Doporučuje seriál Westworld jako klíč k pochopení toho, co nás čeká.
-
-> „Proč nám to ukazujou? No, protože jich se potom karma netýká. Když nám ukáží pravdu, to, co bude přicházet, tak jich se karma vyjímá." — Boldy, [Facebook Live 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
-
-**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 
 ---
 

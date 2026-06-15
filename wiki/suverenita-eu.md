@@ -130,30 +130,6 @@ Rajchl odkazuje na studii Warsaw Enterprise Institute, kterou prý musel připus
 
 ---
 
-## Energetika a Rusko
-
-### Obnovení dovozu ruského plynu a ropy jako řešení energetické krize
-
-Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů energie. Poukazuje na to, že Nizozemsko má zásobníky plynu naplněné jen ze 6 %, a Evropská komise sama odložila hlasování o zákazu dovozu ruské ropy poté, co pochopila, že se bez ní neobejde. Za řešení považuje obnovení dodávek ropy a plynu z Ruska, zrušení Green Dealu a odvolání „neschopných lídrů" EU v čele s Ursulou von der Leyen. Předpovídá, že za deset let přijde přiznání, že odklon od fosilních paliv byl chybou, která stála Evropu biliony.
-
-> „Celé tohle divadlo ohledně odstřihávání se od levných zdrojů z Ruska je prostě hloupost, je to naivita, to Rusko ty peníze bude mít — buď ten plyn a ropu prodá Číně, Indii, nebo je prodá nám." — Jindřich Rajchl, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
-
-> „Za deset let přijde buď to Ursula nebo někdo jiný a bude říkat: odchod od fosilních paliv byla chyba, která nás stála biliony za deset let." — Jindřich Rajchl, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
-
-**Zdroje:** [Rajchl — Energetická krize a Rusko, 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
-
----
-
-### EU ekonomika vybudována na levném ruském plynu — vzdáváme se jí dobrovolně (Vrabel, 18. 5. 2026)
-
-Vrabel připomíná výrok Ursuly von der Leyen, která sama přiznala, že Evropa byla „vybudována na levném plynu z Ruska." Vrabel poukazuje na absurditu: desetiletí fungující a ekonomicky výhodné energetické partnerství bylo přerušeno dobrovolně a bez racionálního ekonomického důvodu. Místo levného ruského plynu dovážíme dražší a méně kvalitní LNG z USA, ropu z Venezuely nebo Kazachstánu. Vrabel k tomu dodává: od Nord Streamu, který byl zničen, Trump sám prohlásil, že žádný takový plynovod nebude fungovat — a nefunguje.
-
-> „Dávno, ještě před pár lety, jsme měli stabilní ekonomiku [...] postavenou na dodávkách ropy a plynu z Ruska. A teď se toho dobrovolně zbavujeme. Naprosto bezdůvodně." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
-
-**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
-
----
-
 ## Evropský parlament a V4 strategie
 
 ### Evropský parlament jako divadlo — skutečná moc je v Komisi

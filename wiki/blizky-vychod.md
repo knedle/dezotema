@@ -127,3 +127,142 @@ Benjamin Netanyahu rozkázal armádě, aby ignorovala podmínky příměří a d
 
 ---
 
+
+## Blízký východ a Írán — konspirační výklady (Boldy)
+
+
+### Válka s Íránem jako příležitost pro příchod mesiáše a islamizaci Evropy
+
+Boldy tvrdí, že sionisté prohlásili válku s Íránem za „ideální čas pro příchod mesiáše". Součástí tohoto plánu má být zničení mešit na Chrámové hoře, což by radikalizovalo islámský svět a vyvolalo konflikty v Evropě, která je podle Boldyho záměrně islamizována. Válka s Íránem by navíc vyhnala cenu ropy na 300 USD za barel, benzín a nafta by se v Česku vyšplhaly na 70–150 Kč/litr, čímž by se automobily staly luxusem. Přicházející krize bude podle Boldyho horší než v roce 1929, akciové trhy ztratí 60–80 % hodnoty.
+
+> „Elitám sionistům to hraje naprosto do karet, protože tahleta válka může vystřelit cenu ropy až na 300 dolarů za barel. Co by to znamenalo pro nás tady v Evropě? No, benzín a nafta by se vyšplhala od 70 do 150 korun za litr." — Boldy, [Mesiáš, Írán a ropa 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+
+**Zdroje:** [Boldy — Mesiáš, Írán a ropa, 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+
+---
+
+
+## Hormuzský průliv a energetická krize
+
+### Druzhba severní větev zastavena od 1. 5. 2026 — Vrabel (27. 4. a 29. 4. 2026)
+
+Vrabel upozornil (27. a 29. dubna 2026) na aktuální situaci kolem severní větve ropovodu Druzhba, která přepravuje kazašskou ropu přes Bělorusko a Polsko do Německa. Rafinérie Schwedt (Berlín) zpracovávala z 90 % ropu z Druzhby. Od 1. května 2026 Ukraina ostřeluje tranzitní zónu u Brjansku — výsledkem je faktické zastavení přepravy severní větví.
+
+Vrabel ze záznamu 27. dubna vysvětluje, že i bez sankcí je ropa z Druzhby „kazašská, ne ruská" — ale přes ruské území. Zastavení znamená okamžitý problém pro zásobování Berlína a východního Německa pohonnými hmotami. Vrabel komentuje: „Tak Berlín bude bez pohonných hmot, protože je zásobovala Druzhba přes Rusko."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Ázerbájdžán, vojenské výdaje, 27. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-ázerbájdžán-vojenské-výdaje-27-4-2026), [Vrabel — Noční zprávy: Sudeťáci, referendum, Zalužný, 29. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-sudeťáci-referendum-zalužný-29-4-2026)
+
+---
+
+### EU nemá přehled o zásobách pohonných hmot v Evropě — Vrabel (30. 4. 2026)
+
+Vrabel ve vysílání 30. dubna 2026 upozorňuje na paradox: EU přijímá závazky o energetické bezpečnosti, ale v praxi nemá centralizovaný přehled o zásobách pohonných hmot v členských státech. To se projevilo zejména v kontextu Hormuzské krize — nikdo nedokáže říct, kolik přesně pohonných hmot mají jednotlivé země v zásobách a jak dlouho vydrží.
+
+Vrabel tuto situaci hodnotí jako systémový selhání: EU reguluje drobnosti (emise CO₂ z aut, obsah cukru v nápojích), ale základní energetická bezpečnostní data nejsou centrálně sledována.
+
+**Zdroje:** [Vrabel — Noční zprávy: Srbsko, NATO, ETS2, 30. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-srbsko-nato-ets2-30-4-2026)
+
+---
+
+### Průtok ropy Hormuzem klesl z 20 na 4 miliony barelů denně — Vrabel (2. 5. 2026)
+
+Vrabel ve vysílání z 2. 5. 2026 referuje o dubnové zprávě Mezinárodní energetické agentury (IEA): objem ropy přepravované přes Hormuzský průliv klesl z více než 20 milionů barelů denně na méně než 4 miliony barelů. Kuwait Petroleum Corporation (běžně 1,9 M b/d) prakticky zastavila vývoz — zásoby skladuje nebo přesměrovává do domácích rafinerií. Saúdská Arábie část exportu přesměrovala přes Rudé moře, SAE přes ropovod do Fudžajry.
+
+Írán veřejně prohlásil kontrolu nad průlivem za „přirozené a legitimní právo" pobřežního státu; OSN vyzval k respektování svobody plavby.
+
+Vedle toho iránské drony v březnu 2026 zasáhly datová centra Amazon Web Services v SAE — AWS přiznal, že obnova potrvá měsíce. Vrabel propojuje energetickou krizi s hrozící potravinovou krizí: zavřený průliv → výpadek fosilních paliv → nedostatek amoniaku/močoviny → snížení výnosu hnojiv → zdražení a nedostatek potravin. Doporučuje zásoby potravin a hotovost mimo banky.
+
+**Zdroje:** [Vrabel — Večerní zprávy: NATO, Írán, EU militarizace, 2. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-nato-írán-eu-militarizace-2-5-2026)
+
+---
+
+### Írán/Hormuz: USA a Izrael plánují nové útoky, krize se prohlubuje — Vrabel (5. 5. 2026)
+
+Vrabel ve večerním vysílání (5. 5. 2026) popisuje eskalaci situace v Hormuzském průlivu:
+
+- **Přímé příměří skončilo:** USA a Izrael (dle CNN) koordinují možné obnovení vojenských úderů na Írán; americký ministr obrany Pete Hegseth prohlásil, že obnovení bojů „zůstává otevřenou možností."
+- **Průliv stále uzavřen:** 2000 tankerů uvězněno, přes 20 000 námořníků čeká na uvolnění; pojišťovny odmítají krýt lodě bez iránského souhlasu — komerční plavidla de facto nemohou projet.
+- **Iránská vojenská resilience:** Íránská armáda je organizována do 31 samostatných sekcí s nezávislým velením; i při rozbitém centru by části operovaly dál — těžko zastavitelná pěchotou nebo konvenčními útoky.
+- **Iránské podmínky pro mír:** rozmrazení 100 mld. USD aktiv + válečné reparace + odchod USA z Perského zálivu — politicky nepřijatelné pro Trumpa.
+- **Evropa míří do Hormuz:** USA tlačí spojence, aby se zapojili do zajištění bezpečnosti námořních tras; Vrabel: „Evropa půjde do Hormuzského průlivu vojensky."
+
+Vrabel cituje Friedricha Merze: „USA šly do Íránu bez koncepce a Írán je ponížil."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+### Goldman Sachs: globální zásoby ropy na 8letém minimu — Vrabel (5. 5. 2026)
+
+Vrabel ve vysílání 5. 5. 2026 cituje analýzu Goldman Sachs a SNP Global Energy:
+
+- Globální zásoby vytěžené ropy jsou na nejnižší úrovni za 8 let — přibližně **101 dní** spotřeby
+- Zásoby ropných produktů (benzín, nafta) klesly z 50 na **45 dní** spotřeby
+- EU dodatečné energetické náklady od začátku iránského konfliktu: **30 mld. EUR** (cca **500 mil. EUR/den**)
+- SNP Global: obnova průtoku přes Hormuz trvá minimálně **7 měsíců** kvůli poškozené infrastruktuře; plná stabilizace trhu může trvat až do roku **2027**
+- Dan Jorgensen (eurokomisař pro energetiku): „Jedna z nejvážnějších energetických situací posledních let"
+
+Vrabel komentuje: „Říká největší za posledních 80 let. Tato krize se teprve rozehrává."
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+### Globální potravinová krize: 30 % hnojiv blokováno — Vrabel (5. 5. 2026)
+
+Vrabel upozorňuje na přímou vazbu mezi Hormuzskou krizí a hrozící potravinovou krizí. Přes průliv neprocházejí jen ropa, ale i fosilní suroviny nezbytné pro výrobu hnojiv (amoniak, močovina) a helium pro polovodiče.
+
+Vrabel odhaduje s „99% pravděpodobností", že v nadcházejících měsících bude svět postrádat 10 % (možná více) světové produkce potravin:
+- Zemědělci používají méně hnojiv → nižší výnosy
+- Drahé pohonné hmoty → vyšší náklady sklizně a přepravy
+- Výsledek: zdražení i absolutní nedostatek potravin v chudých oblastech
+
+Vrabel předpovídá, že hladomor zejména v Africe a jihovýchodní Asii povede k masové migraci do Evropy — v kombinaci s probíhající válkou a případným nedostatkem vody (útoky na odsolovací zařízení) vytvoří souběh krizí.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
+
+---
+
+## Hormuz — aktualizace 6. 5. 2026
+
+### Trump „Freedom project": od eskorty lodí k úplnému zrušení za 3 dny — Vrabel (6. 5. 2026)
+
+Vrabel ve vysíláních 6. 5. rekonstruuje kompletní timeline Trumpovy námořní akce:
+
+- **Den 1:** Trump oznámil, že USA budou vojensky eskortovat tankery přes Hormuz
+- **Den 2:** Upřesnění — USA poskytnou „navigační pomoc", nikoliv vojenský doprovod
+- **Den 3:** Celá operace zrušena
+
+USA neeskortovaly ani jediné plavidlo. Přesto česká média (TV) napsala, že americká flotila „zajišťovala svobodný průplav" — Vrabel: „Nevím, který režisér tohle vymýšlí."
+
+Zároveň USA u Ománu zadržely a zabraly civilní plavidlo — porušení mezinárodní svobody plavby, které média ignorovala.
+
+**Zdroje:** [Vrabel — Večerní zprávy: hotovost, Sudetoněmecký, Hormuz, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-hotovost-sudetoněmecký-hormuz-6-5-2026), [Vrabel — Fiala, Freedom project, Sudetoněmecký résumé, 6. 5. 2026](_zdroje.md#ladislav-vrabel--fiala-freedom-project-sudetoněmecký-résumé-6-5-2026)
+
+---
+
+### EU: kravský hnoj jako náhrada levného ruského plynu (Vrabel, 19. 5. 2026)
+
+Vrabel ironicky komentuje plán Evropské komise (Politico) využít zemědělský odpad včetně kravského hnoje jako součást strategie snižování závislosti na dovozu energií — konkrétně jako náhradu za ruský plyn při výrobě hnojiv a energie.
+
+Vrabel to považuje za absurdní: EU sama odpojila Evropu od levného ruského plynu, na jehož základě byla vybudována plynofikace měst, čisté ovzduší a průmysl. Nyní hledá náhradu v bioplynových technologiích. Doplňuje paradox: krávy se mají likvidovat, protože „prdí" (emise metanu) — a zároveň by jejich hnoj měl nahradit ruský plyn.
+
+> „To, že nemáme ruský plyn, tak to budeme řešit kravským hnojem. A to je vynikající, to je geniální." — Ladislav Vrabel, [Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+**Zdroje:** [Vrabel — Večerní zprávy 19. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-19-5-2026)
+
+---
+
+### Německo a Francie nasazují námořní síly do oblasti Hormuz — Vrabel (6. 5. 2026)
+
+Vrabel ve vysílání 6. 5. potvrzuje eskalaci evropské námořní přítomnosti:
+
+- **Německo:** minolovka *Fulda* vyplula do Středomoří — součást přesunu do oblasti Perského zálivu
+- **Francie:** letadlová loď *Charles de Gaulle* směřuje do Rudého moře
+
+Írán sestřelil 2 americké vojenské lodě. Írán ve stejné době jednal s Wang Yim v Pekingu — potvrzení čínsko-rusko-íránské strategické jednoty.
+
+**Zdroje:** [Vrabel — Večerní zprávy: hotovost, Sudetoněmecký, Hormuz, 6. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-hotovost-sudetoněmecký-hormuz-6-5-2026)
+
+---
+

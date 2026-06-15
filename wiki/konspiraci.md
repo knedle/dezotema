@@ -139,18 +139,6 @@ Zítko ve večerníku z 12. dubna 2026 přečetl text amerického autora Johna M
 
 ---
 
-## Blízký východ a Írán
-
-### Válka s Íránem jako příležitost pro příchod mesiáše a islamizaci Evropy
-
-Boldy tvrdí, že sionisté prohlásili válku s Íránem za „ideální čas pro příchod mesiáše". Součástí tohoto plánu má být zničení mešit na Chrámové hoře, což by radikalizovalo islámský svět a vyvolalo konflikty v Evropě, která je podle Boldyho záměrně islamizována. Válka s Íránem by navíc vyhnala cenu ropy na 300 USD za barel, benzín a nafta by se v Česku vyšplhaly na 70–150 Kč/litr, čímž by se automobily staly luxusem. Přicházející krize bude podle Boldyho horší než v roce 1929, akciové trhy ztratí 60–80 % hodnoty.
-
-> „Elitám sionistům to hraje naprosto do karet, protože tahleta válka může vystřelit cenu ropy až na 300 dolarů za barel. Co by to znamenalo pro nás tady v Evropě? No, benzín a nafta by se vyšplhala od 70 do 150 korun za litr." — Boldy, [Mesiáš, Írán a ropa 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
-
-**Zdroje:** [Boldy — Mesiáš, Írán a ropa, 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
-
----
-
 ## QAnon: globální vojenská operace a záchrana dětí
 
 ### Klony, herci a Guantanamo — EBS narativ
@@ -553,3 +541,16 @@ Před parlamentními volbami v Arménii (7. 6.) Vrabel tvrdí, že je trestně s
 Ve vysílání k „portálu 6.6./11:11" Zítko zopakoval své dlouhodobé teze (bez nových detailů): vlastizrada a spiknutí proti lidu od roku 1989 (rozdělení ČSFR zákonem 542 bez referenda, dohoda Klaus–Mečiar u vily Tugendhat, uschlý strom jako „znamení"), trvající právní stát Československá republika a nárok na reparace 28 bilionů (9 550 tun zlata), neplatnost vstupu do EU/NATO (ČSR nikdy nebyla členem), a QAnon „central casting" / dvojníci (Fiala, Pavel, Babiš, Zeman prý „omládli/obrostli vlasem"), adrenochrom a blížící se „odtajnění" kolem 14. 6. (narozeniny Trumpa, UFC u Bílého domu), 24. 6. a 4. 7. Podrobné záznamy viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Válečné reparace a výzva mocnostem (3. 6.)](#válečné-reparace-a-výzva-mocnostem-obnovit-čsr-zítko-3-6-2026) a [QAnon: adrenochrom, Bieber/Obama (3. 6.)](#qanon-adrenochrom-bieberobama-qfs-a-250-bankovka-s-trumpem-zítko-3-6-2026).
 
 **Zdroje:** [ČsTV2 — Portál 11:11: Vlastizrada od 1989, 7. 6. 2026](_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)
+
+## Elity a plánování dezinformací skrze popkulturu
+
+### Filmy jako záměrné odhalení plánů
+
+Boldy zastává teorii, že elity záměrně vkládají své plány do filmů a seriálů (jako Westworld nebo Matrix), aby se na ně nevztahovala karma. Pokud lidem plán ukáží a lidé jej nepřijmou jako varování, karma se elit netýká. Doporučuje seriál Westworld jako klíč k pochopení toho, co nás čeká.
+
+> „Proč nám to ukazujou? No, protože jich se potom karma netýká. Když nám ukáží pravdu, to, co bude přicházet, tak jich se karma vyjímá." — Boldy, [Facebook Live 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+
+**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+
+---
+
