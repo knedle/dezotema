@@ -524,6 +524,16 @@ K protestům tisíců Maďarů proti premiéru Péteru Magyarovi (který „zrad
 
 ---
 
+### Fico ukázal globalistickou tvář: prosadil Macrona jako vyjednavače EU–Rusko (Vrabel, 8. 6. 2026)
+
+K návrhu Roberta Fica, aby případná jednání s Putinem za EU vedl Emmanuel Macron, Vrabel (a jím komentovaný kritický hlas) reagují, že Fico tím „ztratil kredibilitu" ohledně slovenské suverenity. Macrona líčí jako symbol „zelené, chudé, multikulturní a gay Evropy" (Green Deal, francouzský multikulturalismus, zákon hrozící rodičům i psychologům trestem za odrazování dítěte od změny pohlaví, migrace). Fica zařazuje do svého vzorce politiků, kteří se nejdřív tvářili „pronárodně" a postupně odhalují, že jsou „globalisté taky" — stejně jako podle něj Andrej Babiš. Za jediného skutečně suverénního lídra v Evropě označuje Aleksandara Vučiće (Orbán „na půl cesty", Fico „pátý čaj po výluhu" od Vučiće). Navazuje na [Globalisté dosazují „falešné mesiáše" napříč Západem](#globalisté-dosazují-falešné-mesiáše-napříč-západem--magyar-trump-merz-babiš-vrabel-6-6-2026).
+
+> „Fico není národný politik. Ani přesvědčením, ani skutkami." — citováno Vrabelem, [Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
+
+---
+
 ### Arménie: trestní stíhání opozice a síť Rothschild–Trump–Kushner (Vrabel, 6. 6. 2026)
 
 Před parlamentními volbami v Arménii (7. 6.) Vrabel tvrdí, že je trestně stíháno šest politiků strany „Silná Arménie", která se nelíbí globalistům — paralela s předvolební vlnou stíhání v ČR (Babiš, Okamura, Vrabel) a v Německu (domovní prohlídky u Petra Bystroně, AfD). Popisuje „mafiánskou strukturu řízenou shora" rodinou Rothschildů (banky, média, finanční toky), příbuzensky propojenou s Trumpy (Kushnerova sestra je provdána za Neda Rothschilda) — proto spolu „objevili" albánský ostrov. Do politických funkcí se podle něj člověk dostane jen přes „mediální a trestní síto" (a sociální sítě, kde nepohodlní dostávají shadowban). Cíl v Arménii: odříznout zemi od ruského vlivu a zřídit americké vojenské základny pro budoucí útok na Rusko. Predikuje, že globalisté „svého člověka" dosadí (jako u Orbána/Magyara). Navazuje na [Arménie 50 mil. eur](suverenita-eu.md#arménie-50-mil-eur-a-polská-žádost-o-americkou-základnu--obkličování-ruska-vrabel-4-6-2026).

@@ -30,6 +30,22 @@ Z toho vyvozuje program kompletní změny systému (připraven dle něj 2022/202
 
 ---
 
+### Zvýšení plateb za státní pojištěnce o 24 mld. = okrádání občanů na zbrojení (Vrabel, 8. 6. 2026)
+
+Ke schválenému zvýšení plateb za státní pojištěnce o 24 miliard Kč Vrabel tvrdí, že nejde o záchranu zdravotnictví, ale o „další krok, jak okrádat občany" — stát potřebuje víc peněz do rozpočtu, „aby mohl posílat peníze na válku, na zbraně na Ukrajinu". Žádné složité vysvětlování podle něj netřeba.
+
+**Zdroje:** [Vrabel — Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
+
+---
+
+### ČR jako „jedno obrovské divadlo": Dozimetr komise bez pravomoci, „spící" národ (Vrabel, 8. 6. 2026)
+
+Vrabel označuje parlamentní komisi pro vyšetřování kauzy Dozimetr (kterou prosadil Jindřich Rajchl) za „divadlo": vyšetřování trestné činnosti je podle ústavy výlučně v kompetenci orgánů činných v trestním řízení (policie, státní zástupci), trestní řízení je tajné a všichni v něm vázáni mlčenlivostí — parlamentní komise tak nemá žádnou pravomoc a nikdo jí nesmí nic sdělit. Připomíná, že když žádali o odškodnění politických vězňů, dostali od dr. Vesecké odpověď, že poslanci nesmějí vstupovat do řízení. Z toho dovozuje, že obraz „vlastenců ve vládě, kteří vše vyřeší", je iluze. Kontrastuje to s Německem, kde lidé proti Merzovi (77 % nespokojených) protestují, zatímco v ČR se „spí" a národ řeší jen, zda Pavel pojede na summit — probuzení přijde, „až jim to dojde".
+
+**Zdroje:** [Vrabel — Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika
@@ -371,6 +387,16 @@ Vrabel ve vysílání 7. 5. 2026 komentuje rozhodnutí České republiky navýš
 Vrabel v komentáři ke sporu o účast na summitu NATO (8. 5. 2026) odmítá interpretaci konfliktu mezi prezidentem Pavlem a premiérem Babišem jako skutečného politického střetu. Oba politiky označuje za „hráče na stejné straně": oba slouží NATO a atlantickým strukturám, debata o tom, kdo pojede na summit, je záměrnou mediální distrakcí zakrývající, že pro výsledek summitu nezáleží na tom, zda ČR zastupuje Pavel nebo Babiš — oba by prosazovali identické pozice. Vrabel tak popírá, že volba Babišovy vlády přinesla skutečnou změnu zahraničně-politické orientace.
 
 **Zdroje:** [Vrabel — Večerní zprávy: příměří, NATO summit, WWII, 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-wwii-8-5-2026)
+
+---
+
+### Summit NATO/OSN jako „divide et impera" — Pavel a Babiš dělají v NATO totéž (Vrabel, 8. 6. 2026)
+
+Vrabel označuje celonárodní spor o to, zda Petr Pavel pojede na summit NATO, za uměle vytvořenou kauzu fungující na principu „rozděl a panuj" — má odvést pozornost od toho, že ČR je vtahována do války a okrádána (zbrojení, nábor vojáků, přesun munice). Tvrdí, že mezi Pavlem a Babišem není ve vztahu k NATO „žádný rozdíl" (oba prosazují jaderné zbraně od Francie, platby do NATO i zvyšování počtu vojáků); podstatné není, kdo ČR reprezentuje, ale „kdo podepíše, že Česká republika půjde do války s Ruskem". Předpovídá, že Pavel jakožto ústavní reprezentant státu nakonec na summit pojede a podepíše. Jediný reálný spor vidí v tom, „kdo bude dohazovat kšefty" a „kasírovat 100 miliony na úplatcích". Rozšiřuje [NATO summit: Pavel vs. Babiš jako falešná narativní distrakce (8. 5.)](#nato-summit-pavel-vs-babiš-jako-falešná-narativní-distrakce--vrabel-8-5-2026).
+
+> „Divide et impera. Rozděl a panuj. [...] Rozděl společnost na dvě částky, poštvi proti sobě a vládni jim." — Ladislav Vrabel, [Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
 
 ---
 

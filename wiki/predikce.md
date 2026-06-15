@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Slovensko bude chtít jaderné zbraně od Francie (8. 6. 2026)
+
+**Předpověď:** Po vzoru ČR (kde Babiš přišel s nápadem mít jaderné zbraně) Vrabel očekává, že i Slovensko zažije „probuzení" premiéra a začne usilovat o jaderné zbraně od Francie.
+
+> „...můžete brzo očekávat, že vám začnou taky lifrovat jaderný zbraně na Slovensku." — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
+
+---
+
 ### Ladislav Vrabel — Možný ruský vojenský úder na evropské město (8. 6. 2026)
 
 **Předpověď:** Vrabel považuje za „docela pravděpodobné", že Rusko pod tlakem pokračujících útoků podnikne vojenský úder na nějaké evropské město; nevylučuje, že terčem by mohla být i menší země jako Česká republika („predátor loví ve stádu tu nejslabší laň"). Zároveň tvrdí, že svět je „pravděpodobně před velkým vojenským konfliktem".

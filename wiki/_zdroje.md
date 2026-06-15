@@ -2072,3 +2072,12 @@
 - **Délka:** 00:32:37 | Zprávy v devět s komentářem, 2. část (moderátorka Zuzka)
 - **Poznámka:** Hlavní bloky: eskalace NATO–Rusko (dron Lotyšsko, salámová metoda, F-35/B-61 scénář jaderného náletu), Dánsko přesouvá ukrajinskou zbrojní výrobu, tlak v Rusku na protiútok (Putin „slabý", úder na evropské město), BRICS vs unipolární svět + globalistická „chazarská" nadvláda (Rothschild/Rockefeller), Írán pravděpodobně má jaderné zbraně, příprava na válku „zachraň se kdo můžeš" + bunkry, Turecko jako nevyzpytatelný člen NATO + „druhá armáda" v civilu, vlastenecký kandidát (Sládek/Landa), mírové podmínky EU/Ukrajiny jako recyklace (Rusko odmítá příměří).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět, 1. část (8. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-08_Ladislav-Vrabel_Facebook-Live_1.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1548199190163014>
+- **Datum záznamu:** 2026-06-08
+- **Délka:** 00:31:58 | Zprávy v devět s komentářem, 1. část (moderátorka Zuzka) — vysílání přerušeno ~v 31. min. technickou závadou, pokračuje ve „2. části"
+- **Poznámka:** Hlavní bloky: Fico navrhuje Macrona jako vyjednavače EU–Rusko (Fico jako globalista, predikce SK jaderné zbraně), summit NATO/OSN jako „divide et impera" (Pavel vs Babiš dělají totéž), zvýšení plateb za státní pojištěnce o 24 mld = okrádání občanů na zbrojení, konec projektu FCAS + britské F-35 + cvičení Rammstein (zbrojní korupce, ČR nemá mít jaderné zbraně), Berlín protesty proti Merzovi vs „spící" ČR, Dozimetr parlamentní komise bez pravomoci („divadlo vlastenců"), Albánie/Kushner ostrov Sazan (rozšíření).
+- **Zpracováno:** ano
