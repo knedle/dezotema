@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Od roku 2027 začnou do ČR jezdit autobusy migrantů z Afriky a Blízkého východu (13. 6. 2026)
+
+**Předpověď:** Vrabel tvrdí, že výjimka ČR z přerozdělování migrantů (kvůli přijatým Ukrajincům) skončí a „od příštího roku" (2027) začnou do ČR jezdit autobusy lidí z Afriky a Blízkého východu v rámci migračního paktu.
+
+> „Od příštího roku prostě se budou procházet. Začnou jezdit k nám autobusy lidí z těch zemí Blízkého, středního východu a Afriky." — Ladislav Vrabel
+
+**Horizont:** od roku 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+
+---
+
 ### Pavel Zítko — „Freedom 250": osvobození od Deep State kolem 14. 6. a 4. 7. (12. 6. 2026)
 
 **Předpověď:** Zítko očekává, že kolem 14. června (UFC u Bílého domu, narozeniny Trumpa) a 4. července (250 let nezávislosti USA) se odehrají „velké a zajímavé věci" — finální tah „aliance" proti Deep State a začátek globálního „osvobození" (odtajnění, kvantový finanční systém, návrat prostředků lidem).

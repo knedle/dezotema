@@ -423,6 +423,14 @@ Rajchl navazuje na Vrabelovo reportování z 25. 5. 2026 a cituje článek New Y
 
 ---
 
+### Gabbard oficiálně odtajnila dokumenty o 120 biolaboratořích — „konspirace se stala pravdou" (Vrabel, 13. 6. 2026)
+
+Vrabel referuje, že Tulsi Gabbardová (ředitelka Národní rozvědky USA, končící k 30. 6.) na webu NDI oficiálně zveřejnila **odtajněné dokumenty** o více než 120 biologických laboratořích ve více než 30 zemích financovaných vládou USA — včetně laboratoří na Ukrajině, kde se pracovalo s nebezpečnými patogeny; předchozí administrativu obvinila ze zatajování financování. Dokumenty jsou částečně začerněné (bezpečnost). Vrabel to staví jako „dárek na rozloučenou" a další případ, kdy „ruská propaganda / konspirace" z roku 2022 (Nulandové přiznání Rubiovi) byla po 4,5 letech potvrzena oficiálním zdrojem USA. Rozšiřuje [40 z 120 — Gabbard a Hegseth (Rajchl, 31. 5.)](#biolaboratoře-usa-na-ukrajině-40-z-120--gabbard-a-hegseth-potvrdili-rajchl-31-5-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+
+---
+
 ### Skupování orné půdy a kontrola potravin jako globalistická agenda (Vrabel, 3. 6. 2026)
 
 Vrabel propojuje zničení 94 % zemědělské půdy v Gaze s tím, co dle něj probíhá „po celém Západě": vyplácení nizozemských zemědělců za ukončení činnosti, skupování orné půdy Billem Gatesem (dle Vrabela největší vlastník orné půdy v USA) a globalisty na Ukrajině. Ústřední teze: „kdo ovládá jídlo, ovládá lidi" — chystá se změna v tom, kdo produkuje a kontroluje potravinový řetězec; v ČR ho podle Vrabela ovládá Andrej Babiš, který „bude spolupracovat s globalisty". Navazuje na jeho výklad globalistů útočících na rodinu, stát, národ a náboženství (viz [Globalisté bojují vždy proti čtyřem věcem](#globalisté-bojují-vždy-proti-čtyřem-věcem-rodina-stát-národ-náboženství-vrabel-17-5-2026)).

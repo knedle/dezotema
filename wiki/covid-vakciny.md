@@ -724,3 +724,13 @@ Lenka Tarabová kritizuje, že premiér Babiš, ministr zdravotnictví Vojtěch 
 > „Takže zase budeme chemií řešit důsledek a nebudeme se zabývat příčinou?" — Lenka Tarabová, [Videoportál 12. 6. 2026](_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
 
 **Zdroje:** [Tarabová — Videoportál: Novo Nordisk, 12. 6. 2026](_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
+
+---
+
+### Ozempic pro děti „jeden z nejnebezpečnějších léků"; nová AI DNA vakcína — Vrabel (13. 6. 2026)
+
+Ke zprávě, že ministr Adam Vojtěch při otevření závodu Novo Nordisk oznámil možné hrazení léků na hubnutí obézním dětem z pojištění (do konce roku, dle SÚKL), Vrabel reaguje ostře (viz [stochastický teror](stochasticky-teror.md)): Ozempic označuje za „jeden z nejnebezpečnějších léků současnosti", varuje rodiče, aby si zjistili nežádoucí účinky dřív, než ho komukoli (zvlášť dítěti) podají, a dovolává se práva na informovaný souhlas (Norimberský proces). Vojtěcha označuje za lobbistu pokračujícího v „agendě" z covidu.
+
+Dále informuje o nové vakcíně **vyrobené umělou inteligencí**, testované 6 měsíců na 39 lidech a publikované ve vědeckém časopise: není na bázi mRNA, ale **DNA**, a má být širokospektrální (mj. proti koronavirům). Výrobci tvrdí, že DNA se nezapojí do lidské DNA; Vrabel cituje dr. Petera McCullougha, který prý nechápe, jak si tím mohou být jistí, a riziko zásahu do lidské DNA nevylučuje. Vrabel se omlouvá za dřívější tvrzení, že další vakcíny budou výhradně mRNA.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)

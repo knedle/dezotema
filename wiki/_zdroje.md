@@ -2216,3 +2216,12 @@
 - **Délka:** 00:14:37 | Úvodní projev Rajchla na sněmovním semináři „Příliš drahý vítr – co vše se skrývá za projekty VTE a FVE"
 - **Poznámka:** Green Deal jako ideologie/odklon od zdravého rozumu; akcelerační zóny (bonitní půda, Říp/Blaník, EU vydírání); OZE jako „slepá větev"/„občasné zdroje"; farizejství ochránců přírody; zahraniční obrat (Trump/USA, Španělsko blackout, Francie moratorium + soud Montpellier); řešení jádro 4. generace + fúze + energetický mix, „elektřina je ropa příštích 30 let".
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (13. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-13-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-13_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/843447821828641>
+- **Datum záznamu:** 2026-06-13
+- **Délka:** 00:53:04 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Lidice — válku vedli Němci, ne „nacisté" (Lipavský, deklarace 1997); F-35 jako nosiče jaderných zbraní/příprava útoku na Rusko, tanky Leopard po D35, cvičení Suvalki (10 000), Ukrajina dvojí metr (Kratochvíl) + 20 mld; Ozempic pro děti (Vojtěch/Novo Nordisk), AI DNA vakcína (39 lidí, McCullough); umělý konflikt vláda vs. prezident (Macinka/Čína = jako Fiala); Izrael/Velký Izrael/Libanon/Týr, Netanjahu řídí USA; Írán „telenovela" 38× + shortování ropy; migrační pakt i pro ČR, Británie/občanská válka, islám vs. křesťanství; G7 Evian; Gabbard odtajnila 120 biolaboratoří.
+- **Zpracováno:** ano

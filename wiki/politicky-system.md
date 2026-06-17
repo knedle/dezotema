@@ -46,6 +46,14 @@ Vrabel označuje parlamentní komisi pro vyšetřování kauzy Dozimetr (kterou 
 
 ---
 
+### Umělý konflikt vláda vs. prezident; Babiš/Macinka „předstírají opozici" vůči Fialovi — Vrabel (13. 6. 2026)
+
+Vrabel tvrdí, že vláda Andreje Babiše vyhrála volby na narativu, že je opakem Fialovy vlády (protože „lidi Fialu nenávidí"), ale fakticky vede „úplně stejnou" zahraniční politiku — NATO, EU, USA. Jako důkaz uvádí ministra Petra Macinku, který chce obchod s Čínou jen „tam, kam nám to povolí EU" a vyzývá k „obezřetnosti" — Vrabel to srovnává se Srbskem (Vučić, bezcelní obchod, miliardové dohody) a označuje za stejný kurz jako za Fialy. „Uměle vytvořený" konflikt vláda vs. prezident Pavel (přehraný i v citovaném videu Macinkova „politického tatínka") podle něj slouží k tomu, aby lidé měli pocit, že „nežijeme v totalitě" a existují různé politické názory — přitom „dělají úplně to samé". Češe označuje za „politicky natvrdlé", protože narativu uvěřili.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika

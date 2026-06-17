@@ -746,3 +746,11 @@ Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal,
 
 ---
 
+### Lidice: „válku vedli Němci, ne abstraktní nacisté" — Vrabel (13. 6. 2026)
+
+K 84. výročí vyhlazení Lidic Vrabel kritizuje formulaci ČT (a obecně mainstreamu), že obec vypálili „nacisté" po atentátu na zastupujícího říšského protektora — podle něj se tím záměrně odděluje pojem „nacisté" od Němců. Trvá na tom, že druhou světovou válku rozpoutalo a vedlo **Německo** — demokraticky zvolená německá vláda, kterou miliony Němců vítaly (anšlus, zábor ČSR, Polsko, Paříž). Za „největší ostudu české politiky" označuje, že ministr zahraničí Jan Lipavský jel slavit výročí konce války do Německa a označil pozvání za „významné". Připomíná i [česko-německou deklaraci 1997](#česko-německá-deklarace-1997-jako-vzdání-se-válečných-reparací--vrabel-7-5-2026) (Havel, Zeman), kterou Německu „odpustila viny" a přiznala český „díl viny" — varuje, že s vymíráním pamětníků se historie přepisuje.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+
+---
+

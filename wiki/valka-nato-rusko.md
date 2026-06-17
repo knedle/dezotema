@@ -355,6 +355,19 @@ Ke konci francouzsko-německého projektu stíhačky FCAS, britskému zvažován
 
 ---
 
+### F-35 jako příprava útoku na Rusko, tanky po D35, cvičení u Suvalk, dvojí metr u Ukrajiny — Vrabel (13. 6. 2026)
+
+V komentáři Vrabel propojuje několik zpráv do téze o blížící se válce s Ruskem:
+
+- **F-35:** Poláci letouny dostali (ČR je „jen přeplatí"). Vrabel je čte jako útočná letadla (ne obranná) schopná letět v roji a komunikovat mezi sebou, navíc nosiče jaderných zbraní; USA do nich montuje techniku a bez jejich souhlasu „nepoletí". Závěr: USA rozmísťuje nosiče jaderných zbraní na hranice s Ruskem, aby v konfliktu „poslala Evropany válčit s Ruskem" a sama zůstala nejsilnější — kritizuje servilitu Babiše a Macinky. Navazuje na [F-35 jako scénář jaderného náletu (8. 6.)](#nato-eskaluje-válku-salámovou-metodou-f-35-jako-scénář-jaderného-náletu-na-rusko-vrabel-8-6-2026).
+- **Tanky Leopard 2A4** poprvé pojedou po dálnici D35 (16. 6., 9 ks + vyprošťovací vozidlo) — Vrabel: „jako kdyby se chystalo, že se budou německé tanky přes ČR přesouvat směrem k Rusku."
+- **Cvičení u Suvalského koridoru** (Litva/Polsko/Německo/Francie, 16.–26. 6., ~10 000 vojáků, 600 ks techniky) u Kaliningradu označuje za cílenou provokaci a eskalaci („nedávejte sirky zpátky do krabičky"). Válku čeká „na spadnutí", oficiálně se mluví o roce 2029.
+- **Dvojí metr u Ukrajiny:** bojovat za Ukrajinu je povoleno (financujeme to — 90mld balíček, 30 % na chod státu, 60 % na zbraně; voják bere ~140 000 Kč/měs.), zatímco Ivan Kratochvíl a českoslovenští vojáci v záloze jsou stíháni za podporu ruských separatistů (soud 24. 7., hrozí 10 let). Ukrajina je v bankrotu a chce dalších 20 mld. dolarů.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+
+---
+
 ### Ukrajina jako fašistický stát z definice — Vrabel (1. 5. 2026)
 
 Vrabel v komentáři k prvomájovému průvodu „proti fašismu v parlamentu" v Praze přečetl akademickou definici fašismu a bod po bodu ji aplikoval na Ukrajinu. Výsledek: Ukrajina je dle Vrabela „naprosto fašistický režim z definice":
