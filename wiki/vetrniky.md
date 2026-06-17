@@ -98,6 +98,20 @@ Prof. RNDr. Jaroslav Turánek (imunolog) přednesl na sněmovním semináři „
 
 ---
 
+### Lékařská přednáška: jak pulzní infrazvuk poškozuje tělo a princip předběžné opatrnosti — Zlínský (seminář, sdíleno 15. 6. 2026)
+
+MUDr. Vladimír Zlínský (otorinolaryngolog, bývalý poslanec) navázal na Turánka odbornou přednáškou o zdravotních dopadech infrazvuku z větrných elektráren.
+
+- **Vyvrácení proargumentů a problém měření:** odmítá tvrzení zastánců (bezpečný odstup 500 m, nízké decibely, „neslyšíme to", infrazvuk je všude, jde jen o „noceba syndrom"). Klíčové: běžné hlukoměry jsou kalibrovány na řečové pole (1 000–4 000 Hz), takže infrazvuk fyzicky nezachytí. Velká vrtule se otočí ~1× za 8 s; se třemi lopatkami dává ~0,375 Hz → vlnová délka skoro **1 km**, takže odstup 500 m (ani 1 km) vlnu nezeslabí — apeluje na koalici, aby problém řešila zásadně. Pík infrazvuku navíc nese vyšší harmonické (násobky základní frekvence).
+- **Mechanismus poškození:** „syndrom větrné turbíny" útočí na centrální nervovou soustavu → porucha spánku (a navazující potíže: nálada, koncentrace, výkonnost), tlak v hlavě/uších/hrudi, vestibulární obtíže (nevolnost, závratě). Tři cesty působení: přímo na mozkové buňky, přes receptory a nervové dráhy, přes cévy. Rezonance tělesných dutin (hrudní, břišní, lebeční) působí jako zesilovač; mozkové vlny theta/delta (~8 Hz, hluboký/REM spánek) mohou s rezonancí kolidovat → narušení spánku. Dráha receptory → amygdala → vyhodnocení ohrožení → osa hypotalamus-hypofýza-nadledviny + sympatikus → při permanentní noční expozici chronický stres a nespavost; kortizol zvyšuje glukózu, potlačuje imunitu a reprodukci. Mechanoreceptor **Piezo1** (Nobelova cena 2021) připomíná lopatku — v cévách (dle Ursuly Marie Beluc) infrazvuk vytváří víry v laminárním proudění, kyslíkové radikály poškozují cévy → ateroskleróza, snížený průtok do mozku, fibróza srdce (studie z Mainzu). Zmiňuje i podobnost s pulzním průběhem zemětřesení (podvědomé varování organismu).
+- **Princip předběžné opatrnosti:** ~30 % populace je citlivějších (staří, nemocní, děti, těhotné, psychicky nemocní); výzkum není uzavřen, proto nelze povolovat výstavbu a „obětovat část populace". Požaduje trvalý monitoring intenzity i kvality infrazvuku (vně i uvnitř budov) **nezávislými** orgány — ne těmi napojenými na „podporovatele Green Dealu a větrné barony".
+
+> „Až vám někdo bude tvrdit, jak jsou ty větrníky bezpečné… Vždyť těch 500 metrů je úplně směšné, i kilometr je v podstatě směšný." — Vladimír Zlínský, [seminář Příliš drahý vítr](_zdroje.md#vladimír-zlínský--přednáška-vte-fve-zdraví-seminář-sdíleno-15-6-2026)
+
+**Zdroje:** [Zlínský — Přednáška VTE/FVE: zdraví (seminář, sdíleno 15. 6. 2026)](_zdroje.md#vladimír-zlínský--přednáška-vte-fve-zdraví-seminář-sdíleno-15-6-2026)
+
+---
+
 ## Zahraniční zkušenosti
 
 ### Francie: moratorium na větrné elektrárny, Montpellier soud — Rajchl (6. 5. 2026)

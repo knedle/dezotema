@@ -2244,6 +2244,15 @@
 - **Poznámka:** Pulzní infrazvuk (šíření zemí 6 km/s, rezonance staveb +30 dB, dosah 6–20 km, studie Kanada/Švédsko) a zdravotní dopady (kortizol/stres, imunita, předčasné porody); eroze lopatek → mikroplasty/PFAS v potravním řetězci; odpad lopatek (40–50 mil. t do 2050), betonové patky 4000 t/devastace půdy a spodních vod; blesky/požáry; úhyn netopýrů/ptáků; sociální rozpad venkova, „větrní baroni"/betonová lobby; podpora moratoria.
 - **Zpracováno:** ano
 
+## Vladimír Zlínský — Přednáška VTE/FVE: zdraví (seminář, sdíleno 15. 6. 2026) {#vladimír-zlínský--přednáška-vte-fve-zdraví-seminář-sdíleno-15-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-15_Lenka-Tarabová_Videoportál_1.txt)
+- **Kanál:** sdíleno na kanálu Lenka Tarabová (Videoportál); mluvčí: **MUDr. Vladimír Zlínský**
+- **URL:** <https://m.facebook.com/watch/?v=1346410880767375>
+- **Datum záznamu:** 2026-06-15
+- **Délka:** 00:19:15 | Druhý řečník sněmovního semináře „Příliš drahý vítr" (navázal na prof. Turánka)
+- **Poznámka:** Vliv infrazvuku větrníků na zdraví — hlukoměry kalibrované na 1000–4000 Hz infrazvuk nezachytí, vlnová délka ~1 km (odstup 500 m směšný); mechanismus: CNS/porucha spánku, rezonance dutin a mozkových vln (REM), amygdala → kortizol/chronický stres, piezo1 receptory → cévy/ateroskleróza/fibróza srdce; 30 % citlivějších; princip předběžné opatrnosti + nezávislý monitoring (ne orgány závislé na Green Dealu/větrných baronech).
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Nedělní vysílání (14. 6. 2026) {#ladislav-vrabel--nedělní-vysílání-14-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-14_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
