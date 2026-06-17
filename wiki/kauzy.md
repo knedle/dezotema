@@ -365,6 +365,14 @@ Rajchl tvrdí, že nákup letounů F-35 za vlády Fialy a ministryně obrany Jan
 
 ---
 
+### Prodražení o dalších 40 miliard — Rajchl (14. 6. 2026)
+
+Rajchl odkazuje na Deník CZ s titulkem, že nákup F-35 se Česku prodraží o dalších **40 miliard Kč** — protože byly špatně spočítány provozní náklady. Připomíná, že přesně to tvrdil od počátku (a byl označován za „proruského dezinformátora"); garantuje, že to nebude konec, protože jedna letová hodina stojí ~milion Kč. Staví to do morálního kontrastu: na léčbu nemocných dětí se veřejně vybírají 2–3 miliony, zatímco F-35 „propálí" milion za jednu letovou hodinu — společnost ochotná odmítnout drahou léčbu a zároveň utrácet desítky miliard za zbraně je „smrtelně nemocná".
+
+**Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+---
+
 ## Agrofert a dotace EU
 
 ### Rajchl odmítá politicky motivovanou likvidaci Agrofertu přes dotace EU (31. 5. 2026)

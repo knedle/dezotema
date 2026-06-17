@@ -353,3 +353,25 @@ Rajchl označuje za „selhání médií", že Česká televize (podle vyjádře
 Zítko rozvíjí svou „korespondenční válku" s Českou televizí (viz [korespondence s ČT, 1. 6.](osoby/zitko.md)). Z výroku Milana Friedricha (že při výpadku 1 miliardy z poplatků by ČT musela z 3 000 zaměstnanců propustit 500) počítá: mzdový náklad na jednoho takového „zbytečného" zaměstnance vychází na ~167 000 Kč měsíčně (hrubá mzda ~125 000, čistá ~97 000) — zatímco komerční TV Nova vystačí s ~500 zaměstnanci celkem. Připomíná Moravcových 141 000 Kč/hodinu (~1,6 mil./měsíc) a ředitelových 300 000+. ČT označuje za „darmožrouty a lháře" porušující zákon o ČT (nevysílá pravdivé, vyvážené ani ověřené informace, vyloučila oponenty z covidových debat). Vyzývá koncesionáře, aby přestali platit a naopak žádali vrácení poplatků od 12. 3. 2020 (počátek „hry na COVID-19"). Moderátory v černém (na protest) označuje za spoluúčastníky „zabíjení biologickou zbraní", kteří „zaslouží čelit vojenskému tribunálu". Ve vysílání „Sůl nad zlato" (8. 6.) doplňuje konkrétní čísla: nový GŘ Hynek Chudárek má plat 346 800 Kč (6× průměrná mzda ČT) + pololetní bonusy až 5 platů (až 3,4 mil. Kč ročně), což převyšuje plat premiéra (294 000) a blíží se platu prezidenta (365 000); rada ČT je nominována politickými stranami a kritérium „vysílání pravdy / dodržování zákona o ČT" mezi podmínkami bonusů chybí. Opakuje výzvu žádat vrácení poplatků (od 12. 3. 2020) a odškodnění pro poškozené vakcínami.
 
 **Zdroje:** [ČsTV2 — Portál 11:11: Vlastizrada od 1989, 7. 6. 2026](_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026), [ČsTV2 — Sůl nad zlato, 8. 6. 2026](_zdroje.md#československo-tv2--sůl-nad-zlato-8-6-2026)
+
+---
+
+### Tři „dezinformace, co se staly pravdou" za jeden týden — Rajchl (14. 6. 2026)
+
+Rajchl uvádí jako důkaz nepoctivosti mainstreamu tři případy, kdy údajné „proruské dezinformace" byly během jednoho týdne potvrzeny samotnými oficiálními zdroji či mainstreamem — který je nyní referuje, „jako by se nechumelilo":
+
+- **Biolaboratoře (Echo24):** Tulsi Gabbardová přiznala, že USA financovaly přes 120 tajných laboratoří ve světě, z toho 40 na Ukrajině (gain-of-function výzkum zakázaný v USA). Viz [konspirace.md](konspirace.md#gabbard-oficiálně-odtajnila-dokumenty-o-120-biolaboratořích--konspirace-se-stala-pravdou-vrabel-13-6-2026).
+- **F-35 (Deník CZ):** nákup se prodraží o dalších 40 miliard kvůli špatně spočítaným provozním nákladům (1 letová hodina = milion Kč) — Rajchl to staví proti situaci, kdy se na léčbu nemocných dětí veřejně vybírá. Viz [kauzy.md](kauzy.md#kauza-f-35-nejhorší-kontrakt-ze-všech-zemí).
+- **Ukrajinské dávky (TV Nova):** „každý pátý cizinec" pobíral dávky neoprávněně (dotační turistika, škody v desítkách milionů) — nikoli „ojedinělé případy", jak tvrdil ministr Jurečka.
+
+Rajchl: kdo se „nenechá okrádat, fandí Putinovi" je „logika blázna"; dezinformace se stávají pravdou „občas za rok, občas za pár dní".
+
+**Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+---
+
+### Ipsos: jen 15 % důchodců a 40 % studentů by dobrovolně platilo ČT — Rajchl (14. 6. 2026)
+
+Rajchl cituje průzkum Ipsos: dobrovolně by koncesionářské poplatky platilo jen **15 % důchodců** a 40 % studentů (u nichž pochybuje, že by reálně platili). Opakuje svůj návrh **dobrovolných koncesionářských poplatků** přes set-top-box jako jediné spravedlivé řešení (viz [Rajchl: dobrovolné poplatky](#rajchl-dobrovolné-koncesionářské-poplatky-jako-jediné-spravedlivé-řešení)): kdo chce, ať platí (klidně 100 tisíc), ČT může vybrat „třeba 100 miliard", politici ztratí veškerý vliv a ČT bude muset vysílat pro všechny, aby získala předplatitele. Vyzývá 92 opozičních poslanců, kteří ČT brání jako „pilíř demokracie", ať dobrovolně pošlou peníze na její účet — „mluvit nic nestojí, poslat peníze bolí".
+
+**Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)

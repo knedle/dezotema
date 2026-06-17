@@ -2225,3 +2225,12 @@
 - **Délka:** 00:53:04 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Lidice — válku vedli Němci, ne „nacisté" (Lipavský, deklarace 1997); F-35 jako nosiče jaderných zbraní/příprava útoku na Rusko, tanky Leopard po D35, cvičení Suvalki (10 000), Ukrajina dvojí metr (Kratochvíl) + 20 mld; Ozempic pro děti (Vojtěch/Novo Nordisk), AI DNA vakcína (39 lidí, McCullough); umělý konflikt vláda vs. prezident (Macinka/Čína = jako Fiala); Izrael/Velký Izrael/Libanon/Týr, Netanjahu řídí USA; Írán „telenovela" 38× + shortování ropy; migrační pakt i pro ČR, Británie/občanská válka, islám vs. křesťanství; G7 Evian; Gabbard odtajnila 120 biolaboratoří.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026) {#jindřich-rajchl--fb-live-green-deal-14-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-14_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1360208992649728>
+- **Datum záznamu:** 2026-06-14
+- **Délka:** 00:55:02 | Nedělní živé vysílání
+- **Poznámka:** Green Deal jako „apokalypsa Evropy" — 5 nařízení (ETS1, ETS2, RED3, EPBD4, CBAM), vystoupení z EU (2–5 bil.) se už vyplatí; tři „dezinformace co se staly pravdou" (biolaboratoře Gabbard 120/40, F-35 +40 mld, ukrajinské dávky každý pátý cizinec); ČT dobrovolné poplatky (Ipsos 15 % důchodci / 40 % studenti); migrační pakt jako „vyděračský pakt" (30k / 15 mld), Belfast, bezpečnost občanů; podpora léčby Báry.
+- **Zpracováno:** ano

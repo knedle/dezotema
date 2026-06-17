@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Green Deal přivede Evropu kolem 2030 k „totálnímu problému" (14. 6. 2026)
+
+**Předpověď:** Rajchl předpovídá, že soubor nařízení Green Dealu (ETS1/ETS2, RED3, EPBD4, CBAM) přivede ČR a Evropu kolem roku 2030 do „totálního problému": bezemisní budovy povinné u nových veřejných staveb od 2028 a soukromých od 2030; drtivá většina lidí si nebude moci dovolit vlastní bydlení (skoupí ho investiční skupiny); ETS2 ~90–100 tis. Kč na domácnost ročně. Při vystoupení z EU a obratu (Čína/Indie/USA) by naopak ČR mohla být v roce 2035 „jednou z nejbohatších zemí Evropy".
+
+> „Tohle všechno bude znamenat to, že kolem roku 2030, pokud by se to realizovalo, se dostaneme do totálního problému." — Jindřich Rajchl
+
+**Horizont:** 2028–2030 (nařízení), ~2030 kolaps / 2035 vize
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+---
+
 ### Ladislav Vrabel — Od roku 2027 začnou do ČR jezdit autobusy migrantů z Afriky a Blízkého východu (13. 6. 2026)
 
 **Předpověď:** Vrabel tvrdí, že výjimka ČR z přerozdělování migrantů (kvůli přijatým Ukrajincům) skončí a „od příštího roku" (2027) začnou do ČR jezdit autobusy lidí z Afriky a Blízkého východu v rámci migračního paktu.

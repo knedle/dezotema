@@ -223,3 +223,15 @@ Ke dni vstupu migračního paktu EU v platnost (12. 6.) Vrabel tvrdí, že vlád
 Vrabel ke vstupu migračního paktu v platnost opakuje, že od „včerejška" se „migrantský mor" přenáší i do dalších zemí EU včetně ČR. Vít Rakušan vyjednal, že ČR letos nemusí brát migranty z Blízkého východu a Afriky (kvůli půl milionu přijatých Ukrajinců), ale „od příštího roku" prý začnou jezdit autobusy lidí z Afriky a Blízkého východu (Afričany označuje za „ještě víc násilné"). K rezignaci britské politiky (Starmer, odstoupení „Don Haleyho") tvrdí, že žádné PR nevrátí důvěru — Británie se ekonomicky zhoršila (drahé nájmy, daně, jídlo), všude jsou migranti (Pákistánci, Indové, Afričané) a násilností přibývá. Predikuje Evropě **občanskou válku** (Belfast, Francie). Klíčová teze: křesťanská a islámská kultura jsou „absolutně neslučitelné" — staví „zlaté pravidlo" a respekt k ženám proti právu šaría (zmiňuje provdávání nezletilých dívek). Navazuje na [Migrační pakt vstoupil v platnost (12. 6.)](#migrační-pakt-vstoupil-v-platnost--vláda-ho-podle-vrabela-neodmítla-12-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+
+---
+
+### Migrační pakt jako „vyděračský pakt"; Belfast jako varování — Rajchl (14. 6. 2026)
+
+Rajchl rozebírá migrační pakt jako mechanismus kvót a přerozdělování: deklarovaná „třetí možnost" (humanitární/finanční pomoc) platí jen na vlastní žádost, jinak zůstávají dvě — přijmout kvótu (ČR min. **30 000 migrantů**), nebo zaplatit **15 mld. Kč ročně** „výpalné" (Maďarsko už 19 000 / 10 mld.). Označuje to za „klasickou výpalnou politiku chicagské mafie", ne solidaritu — solidarita platí, jen když si někdo problém nezpůsobil sám, kdežto Německo si migraci („wir schaffen das") způsobilo a organizovalo samo; střední Evropa neměla kolonie, nemá tedy morální důvod platit. Tvrdí, že lodě převážejí migranty „sponzorované pašeráctví" politických neziskovek a že komisařka Ylva Johansson chce „o milion migrantů víc ročně". Soudržné odmítnutí Polska, Maďarska a Slovenska bere jako důkaz nevýhodnosti. Reaguje na výrok („Rajchl straší") odkazem na Belfast (súdánský útočník řezající hlavu na ulici) a deklaruje: „radši nálepku nácka, než abych mlčel" a kvůli paktu přišel jeden člověk páchající násilí — bezpečnost občanů je na prvním místě.
+
+> „Tohle je vyděračský pakt. […] To je klasická výpalná politika mafie z Chicaga třicátých let." — Jindřich Rajchl, [FB Live 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+Navazuje na [Migrační pakt: Rakušan jediný z V4 pro (Rajchl, 12. 6.)](#migrační-pakt-rakušan-jediný-z-v4-pro-odmítnout-lze-jen-na-úrovni-eu-rajchl-12-6-2026).
+
+**Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)

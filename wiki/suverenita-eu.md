@@ -130,6 +130,24 @@ Rajchl odkazuje na studii Warsaw Enterprise Institute, kterou prý musel připus
 
 ---
 
+### Green Deal jako „apokalypsa Evropy": pět klíčových nařízení a kalkulace vystoupení z EU — Rajchl (14. 6. 2026)
+
+V nedělním FB Live označil Rajchl Green Deal za „apokalypsu evropské ekonomiky" a postupně rozebral pět nařízení, která jej tvoří:
+
+- **ETS1** — už dnes zdražuje elektřinu: ~7 000 Kč/rok na občana, přímý dopad 100 mld. Kč do rozpočtu, nepřímý ve stovkách miliard (proinflační tlak, brzda ekonomiky).
+- **ETS2** — rozšíření na pohonné hmoty, plyn, uhlí; zaplatí každý. Odhad **90–100 tisíc Kč na domácnost ročně**. „Zastropování" na 45 € je dle něj lež — EU jen 2× ročně vypustí +4 % povolenek, cena krátce klesne a poroste dál (viz [ETS2: zastropování je lež, 11. 6.](#ets2-zastropování-na-45-eur-je-lež--zrušit-emisní-povolenky-rajchl-11-6-2026)).
+- **RED3** — závazek 42,5 % (možná 45 %) elektřiny z OZE do 2030; ČR je na ~20 %. Vynutí masivní výstavbu větrníků/solárů → nestabilní soustava a riziko blackoutů.
+- **EPBD4** — nové veřejné budovy bezemisní od 2028, soukromé od 2030; prodraží stavbu min. o 30 %. Nesplnění energetického štítku (A–G) znamená nemožnost nemovitost prodat, pronajmout, zastavit či zdědit bez závazku k rekonstrukci — Rajchl varuje, že investiční skupiny pak nemovitosti skoupí pod cenou. „Geniální" provázání: ETS zdraží i izolační materiály (styren/polystyren — výrobci dostanou jen poloviční povolenky zdarma). Vytápět půjde jen tepelnými čerpadly (plyn ani uhlí ne).
+- **CBAM** — uhlíkové clo na dovoz mimo EU (zdraží levné zboží z Číny a dalších).
+
+Závěr: souhrnný dopad těchto nařízení v horizontu 10–15 let převýší i náklady na vystoupení z EU (odhad **2–5 bilionů Kč**) — členství se tak „už ekonomicky nevyplatí". Rajchl navrhuje buď Green Deal v rámci EU zrušit (s AfD, Le Penovou, Melaniovou), nebo se připravit na odchod (dohody s Čínou/Indií/USA, vlastní banka, strategické provozy pod kontrolou státu) — „lepší rozvod než špatné manželství". Bez změny hrozí kolem 2030 „totální problém".
+
+> „Green Deal je skutečně apokalypsou evropské ekonomiky. […] Je to tak komplexně vymyšlený systém na likvidaci evropské ekonomiky, že to nemá obdoby." — Jindřich Rajchl, [FB Live 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+---
+
 ## Evropský parlament a V4 strategie
 
 ### Evropský parlament jako divadlo — skutečná moc je v Komisi
