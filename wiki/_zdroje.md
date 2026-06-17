@@ -2244,6 +2244,15 @@
 - **Poznámka:** Pulzní infrazvuk (šíření zemí 6 km/s, rezonance staveb +30 dB, dosah 6–20 km, studie Kanada/Švédsko) a zdravotní dopady (kortizol/stres, imunita, předčasné porody); eroze lopatek → mikroplasty/PFAS v potravním řetězci; odpad lopatek (40–50 mil. t do 2050), betonové patky 4000 t/devastace půdy a spodních vod; blesky/požáry; úhyn netopýrů/ptáků; sociální rozpad venkova, „větrní baroni"/betonová lobby; podpora moratoria.
 - **Zpracováno:** ano
 
+## Československo TV2 — „33 základních pravd" + UFC preview (14. 6. 2026) {#československo-tv2--33-základních-pravd-14-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-15_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Pavel Zítko (Československo TV2)
+- **URL:** <https://m.facebook.com/watch/?v=1526761098892939>
+- **Datum záznamu:** 2026-06-14
+- **Délka:** 01:44:54 | „Poledník 11:11 — 33 základních pravd, o kterých se nepochybuje" (čte satirický seznam P. Baggera / COVID-logika) + UFC Freedom 250 preview, military law
+- **Poznámka:** **Rekapitulace bez nových tvrzení** — ucelený průchod zavedeným světonázorem. Témata a kde jsou zpracována viz [konspirace.md — „33 pravd" recap](konspirace.md#33-základních-pravd-ucelený-recap-zavedených-tezí--zítko-14-6-2026).
+- **Zpracováno:** ano
+
 ## Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026) {#československo-tv2--ufc-freedom-250-naplněno-15-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-15_Československo-TV2_Videoportál.txt)
 - **Kanál:** Pavel Zítko (Československo TV2)

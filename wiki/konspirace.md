@@ -561,6 +561,34 @@ Zítko referuje o akci, kterou předpověděl (viz [Freedom 250, 12. 6.](#freedo
 
 **Zdroje:** [Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026)](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 
+---
+
+### „33 základních pravd": ucelený recap zavedených tezí — Zítko (14. 6. 2026)
+
+Ve vysílání „Poledník 11:11" Zítko přečetl satirický seznam **„33 základních pravd, o kterých se nepochybuje"** (autor Paramír Bagger / COVID-logika, Substack) jako ucelený průchod celým svým světonázorem. **Nepřináší nová tvrzení** — každé téma je už ve wiki zpracováno; níže je rozpis, ve kterém zazněla i v tomto zdroji ([ČsTV2 — 33 pravd, 14. 6. 2026](_zdroje.md#československo-tv2--33-základních-pravd-14-6-2026)):
+
+- **Plochá Země** (zakřivení, voda „vodorovná") → [Plochá Země](#plochá-země)
+- **Přistání na Měsíci jako podvod** (van Allenovy pásy, Kubrick, vlající vlajka, smazaná telemetrie, Artemis na 1. apríla) → [Přistání na Měsíci jako podvod](#přistání-na-měsíci-jako-podvod--nasa-artemis-jako-pokračování)
+- **Popírání virologie** (viry „neizolovaní jednorožci") a **tělo se opraví vibracemi** → [covid-vakciny.md — Odmítání virologie](covid-vakciny.md#odmítání-virologie-jako-vědy)
+- **Vakcíny jako „jedy"** (spike, oxid grafenu, SV40, potracené plody), Pfizer pokuta + právní imunita, mizející SMS smlouvy VDL/Baťová → [covid-vakciny.md — Vakcíny](covid-vakciny.md#vakcíny), [covid-vakciny.md — Šarže](covid-vakciny.md#šarže-vakcín)
+- **Genocida/sterilizace = propad porodnosti** (111 → 77 tis., jen očkované ženy, ÚZIS 1,3 mil.) → [covid-vakciny.md — Porodnost Q1 (15. 6.)](covid-vakciny.md#porodnost-q1-2026-jen-175-tis-narozených--genocida-očkováním--zítko-15-6-2026)
+- **Remdesivir jako příčina úmrtí** → [covid-vakciny.md — Protokol úmrtí](covid-vakciny.md#protokol-covidových-úmrtí--peterson-pierre)
+- **Ivermectin potlačen, dvouměsíční testování „bezpečné"** → [covid-vakciny.md](covid-vakciny.md)
+- **5G + španělská chřipka** (záření smaží lidi) → [covid-vakciny.md — 5G](covid-vakciny.md#5g-sítě-a-covid)
+- **Patentované nemoci** (Ebola/HIV/COVID, Rothschild 2015) → [covid-vakciny.md](covid-vakciny.md#původ-a-povaha-pandemie)
+- **Kalergiho plán + „chirurgové z dovozu"** → [migrace.md](migrace.md), [dsa-cenzura.md — rozsudek SPD](dsa-cenzura.md#okamura-3-mil-za-plakát-chirurgové-z-dovozu--čt-výpalné-zítko-12-6-2026)
+- **Okamura 3 mil. za plakát** vs. Zítkovy 3 roky za „poplašnou zprávu" → [dsa-cenzura.md](dsa-cenzura.md#zítkovo-odvolání-pravda-nemůže-být-poplašná-zpráva-3-6-2026)
+- **ČT „výpalné"** (cashback od 12. 3. 2020) → [media-propaganda.md — ČT výpalné](media-propaganda.md#čt-výpalné-propočet-500-zbytečných-zaměstnanců-výzva-vrátit-poplatky-zítko-7-6-2026)
+- **CO2/Green Deal/uhlíkové povolenky, soláry a větrníky** → [suverenita-eu.md — Green Deal](suverenita-eu.md#eu-a-green-deal), [vetrniky.md](vetrniky.md)
+- **Vlastizrada 1992, ČSR trvá (zákon 11/1918), reparace 9 550 t zlata, vstup do EU/NATO nelegitimní** → [Recap „portál 11:11" (7. 6.)](#recap-portál-1111-vlastizrada-1989-reparacečsr-a-qanon-dvojníci-zítko-7-6-2026), [Válečné reparace (3. 6.)](#válečné-reparace-a-výzva-mocnostem-obnovit-čsr-zítko-3-6-2026)
+- **Cinknuté volby (Dominion), Joe Biden dvojník (popraven, o půl metru vyšší)** → [Dvojníci a klony](#dvojníci-a-klony-politiků-a-celebrit)
+- **Měnová reforma 1953 + inflace** (1 mld → 8 bil. Kč, okrádání úspor/„paměti národa") → [Měnová reforma 1953 (3. 6.)](#měnová-reforma-1953-a-inflace-jako-okrádání--argument-pro-hotovost-zítko-3-6-2026)
+- **Průmyslové jídlo/cukr vs. tuk, slunce „nebezpečné", astrologie vs. virologie** — drobné zdravotní teze v rámci téhož seznamu (bez samostatného záznamu)
+
+Navíc Zítko kriticky zmínil **Jindřicha Rajchla**, že na mítinku v Bystřci srovnával vakcínu (dle Zítka „biologickou zbraň") s alkoholem a cigaretou, a **Adama Vojtěcha** („zpívající ministr ze Superstáru") jako potřetí nominovaného na zdravotnictví.
+
+**Zdroje:** [Československo TV2 — „33 základních pravd" (14. 6. 2026)](_zdroje.md#československo-tv2--33-základních-pravd-14-6-2026)
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů

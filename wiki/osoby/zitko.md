@@ -148,4 +148,5 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Sůl nad zlato: Solivary a ČT (8. 6. 2026)](../_zdroje.md#československo-tv2--sůl-nad-zlato-8-6-2026)
 - [Füllmich živě z vězení + komentář (12. 6. 2026)](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 - [Freedom 250 / UFC 11:11 (12. 6. 2026)](../_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
+- [„33 základních pravd" + UFC preview (14. 6. 2026)](../_zdroje.md#československo-tv2--33-základních-pravd-14-6-2026)
 - [UFC Freedom 250 naplněno (15. 6. 2026)](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
