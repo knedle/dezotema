@@ -1315,7 +1315,7 @@ Podle zprávy SIPRI Francie mezi roky 2025 a 2026 zvýšila svůj jaderný arzen
 
 ### Čína a Severní Korea prohlubují spolupráci — multipolární blok (Vrabel, 9. 6. 2026)
 
-K návštěvě Si Ťin-pchinga v Pchjongjangu (rozšíření spolupráce s Kim Čong-unem v politice, ekonomice, kultuře i obraně) Vrabel konstatuje, že vzniká silný blok Čína–Rusko–Severní Korea–Írán proti USA a EU. Bezpečnostní architektura z doby před čtyřmi lety je podle něj pryč; svět se dělí na BRICS a jejich strategické partnery vs. USA, EU a jejich partnery — naplnění Putinovy teze o konci unipolárního světa. Navazuje na [BRICS vs unipolární svět](konspiraci.md#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026).
+K návštěvě Si Ťin-pchinga v Pchjongjangu (rozšíření spolupráce s Kim Čong-unem v politice, ekonomice, kultuře i obraně) Vrabel konstatuje, že vzniká silný blok Čína–Rusko–Severní Korea–Írán proti USA a EU. Bezpečnostní architektura z doby před čtyřmi lety je podle něj pryč; svět se dělí na BRICS a jejich strategické partnery vs. USA, EU a jejich partnery — naplnění Putinovy teze o konci unipolárního světa. Navazuje na [BRICS vs unipolární svět](konspirace.md#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)
 

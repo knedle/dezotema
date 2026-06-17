@@ -81,7 +81,7 @@ Vrabel komentuje summit EU–Západní Balkán v Tivatu (von der Leyen: bez záp
 
 ### Írán pravděpodobně už má jaderné zbraně — možný důvod zvratu USA k příměří (Vrabel, 8. 6. 2026)
 
-Vrabel s odvoláním na „zákulisí vojenských analytiků" (s informacemi údajně z CIA) tvrdí, že Írán měl dostatek obohaceného uranu na výrobu 8–12 jaderných hlavic a že pravděpodobně už nějaké jaderné bomby má (zmiňuje i ~3 hotové hlavice); komponenty pro výrobu měl údajně dostat z Číny a možná z Ruska. To podle něj může být skutečný důvod náhlého zvratu, kdy se USA a Izrael dohodli s Íránem na zastavení vzájemných útoků. Sám připouští, že situace je „nepřehledná" a informace nelze ověřit. Spojuje to se svým výkladem rozdělení světa na dva tábory (Rusko, Čína, Írán vs. USA/NATO/EU; viz [BRICS vs unipolární svět](konspiraci.md#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026)).
+Vrabel s odvoláním na „zákulisí vojenských analytiků" (s informacemi údajně z CIA) tvrdí, že Írán měl dostatek obohaceného uranu na výrobu 8–12 jaderných hlavic a že pravděpodobně už nějaké jaderné bomby má (zmiňuje i ~3 hotové hlavice); komponenty pro výrobu měl údajně dostat z Číny a možná z Ruska. To podle něj může být skutečný důvod náhlého zvratu, kdy se USA a Izrael dohodli s Íránem na zastavení vzájemných útoků. Sám připouští, že situace je „nepřehledná" a informace nelze ověřit. Spojuje to se svým výkladem rozdělení světa na dva tábory (Rusko, Čína, Írán vs. USA/NATO/EU; viz [BRICS vs unipolární svět](konspirace.md#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026)).
 
 ⚡ **Poznámka:** Jde o nepotvrzené spekulace; existenci íránských jaderných zbraní nelze z veřejných zdrojů ověřit.
 

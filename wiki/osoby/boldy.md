@@ -8,7 +8,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 
 | Téma | Co konkrétně zastává |
 |------|----------------------|
-| [Konspirační teorie](../konspiraci.md) | Trump jako Abaddon/Moon Child, Velký Izrael, třetí chrám, hospodářská krize záměrně plánována elitami (přelomu 2026/2027), tokenizace majetku, chemtrails, dvojníci politiků, Nord Stream (Mosad/Ukrajina), ČR jako centrum okultismu, Mesiáš a válka s Íránem; Artemis jako AI podvod a odvedení pozornosti; Trump hrozí vymazáním civilizace; Holocaust denial — 6 mil. je „píčovina", Chazarové vs. Židi; 13 vědců zavražděno po objevu volné energie (24. 5.) |
+| [Konspirační teorie](../konspirace.md) | Trump jako Abaddon/Moon Child, Velký Izrael, třetí chrám, hospodářská krize záměrně plánována elitami (přelomu 2026/2027), tokenizace majetku, chemtrails, dvojníci politiků, Nord Stream (Mosad/Ukrajina), ČR jako centrum okultismu, Mesiáš a válka s Íránem; Artemis jako AI podvod a odvedení pozornosti; Trump hrozí vymazáním civilizace; Holocaust denial — 6 mil. je „píčovina", Chazarové vs. Židi; 13 vědců zavražděno po objevu volné energie (24. 5.) |
 | [COVID a vakcíny](../covid-vakciny.md) | mRNA v rostlinách a potravinovém řetězci, depopulace |
 | [Média a propaganda](../media-propaganda.md) | ČT jako propaganda, TV Nova ještě horší, filmy jako záměrné odhalení plánů elit |
 | [Ceny energií](../ceny-energie.md) | Válka s Íránem může poslat ropu na 300 USD/barel, paliva 70–150 Kč/litr |

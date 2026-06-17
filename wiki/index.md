@@ -25,7 +25,7 @@ Obsah je organizován **tematicky** — každá stránka pokrývá jedno téma n
 | [DSA a cenzura](dsa-cenzura.md) | Nařízení EU o digitálních službách, svoboda projevu, blokování na sítích |
 | [FARA a neziskovky](fara-neziskovky.md) | Zákon o transparentnosti zahraničního financování neziskovek |
 | [Kauzy a korupce](kauzy.md) | Dozimetr, Bitcoin kauza, Hřib, Kettner, F-35 |
-| [Konspirační teorie](konspiraci.md) | Konspirační teorie, elity, okultismus, QAnon |
+| [Konspirační teorie](konspirace.md) | Konspirační teorie, elity, okultismus, QAnon |
 | [Média a propaganda](media-propaganda.md) | Kritika mainstreamových médií, algoritmy, dezinformace |
 | [Migrace a islamizace](migrace.md) | Migrační pakt, islamizace Západu, ukrajinská migrace |
 | [Politický systém](politicky-system.md) | Demokracie, volby, politická kultura |
