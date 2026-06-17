@@ -304,3 +304,11 @@ Vrabel rozšiřuje tezi o opakujícím se scénáři (viz [11. 6.](#trump-opakov
 K izraelským úderům na jižní Libanon (70+ úderů, Hezbollah; poškozeno starověké město Týr) Vrabel tvrdí, že Izrael cíleně ničí historii a kulturní památky (analogie s Kosovem) v rámci projektu **„Velký Izrael"** — aby se popřela existence Palestiny a vznikly „rezorty" (Trump + Kushner). Cituje Trumpovo prohlášení, že „USA nemají suverenitu" a válku fakticky řídí Netanjahu; vysvětluje to vlivem „sionistů / chazarských židů" (Rothschild, Rockefeller, centrální banky, vlastnictví světa „čtyřmi firmami") — odkaz na Karla Gotta o „tajných spolcích řídících svět".
 
 **Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+
+---
+
+### Írán: „memorandum" podepsáno (14. 6.), Hormuz otevřen 19. 6., Netanjahu nespokojen — Vrabel (15. 6. 2026)
+
+J. D. Vance oznámil, že USA a Írán 14. 6. „elektronicky podepsali mírovou dohodu" (Vrabel upřesňuje: jde jen o memorandum, podmínky se teprve dojednají do 60 dnů — obává se, že se protáhnou na 90+ a dohoda se nemusí naplnit). Trump tvrdí, že Hormuzský průliv je už částečně otevřen a od 19. 6. plně; zmírnění sankcí a uvolnění zmrazených aktiv (~100 mld. $) prý Írán dostane jen „bude-li dělat, co má". Vrabel poukazuje na rozpor: Macron prohlásil, že poplatky za průjezd Hormuzem jsou „nepřípustné", jako by se nevybíraly — přitom Írán je už vybírá a dohodl se o jejich dělení s Ománem. Spekuluje, že podpis memoranda může být záminkou pro vplutí západních (i českých) flotil do oblasti. Netanjahu je dle Reuters s memorandem nespokojen (izraelský činitel je označil za „hrozný pro Izrael"); Ben Gvir prohlásil, že Izrael není „banánová republika" a memorandum pro něj nic neznamená — Izrael si zachovává suverenitu a může dál bombardovat Libanon bez ohledu na dohody USA. Vrabel opakuje (s odkazem na Tuckera Carlsona), že „USA nemají suverenitu" a válku řídí Netanjahu, sponzorovaný přes Kushnera. Celý íránský příběh přirovnává k nekonečné telenovele („Esmeralda, 368. díl").
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-6-2026)

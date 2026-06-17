@@ -243,3 +243,11 @@ Navazuje na [Migrační pakt: Rakušan jediný z V4 pro (Rajchl, 12. 6.)](#migra
 Vrabel zdůrazňuje, že migrační pakt **připravovala už vláda Andreje Babiše** (ministr vnitra Hamáček), Fialova vláda jej jen dokončila a podepsala — „říkat dnes, že to udělala vláda Petra Fialy, není pravda". Babišovo prohlášení z prosince, že vláda pakt „odmítla" a že ČR „neručí" za půjčku Ukrajině, označuje za „levárnu" (analogie: nelze „odmítnout vynést odpadky", když je to dohodnuté a vymahatelné). Pakt je dle něj právně vymahatelný; pokus o neplnění by vedl k zastavení evropských peněz (ekonomický kolaps) a prohře u Evropského soudu. Jedinou cestou ven je **vystoupení z EU** (čl. 50 Lisabonské smlouvy, ~2 roky) — to ocenil i u Libora Vondráčka, který to voličům přiznal. Varuje, že „Overtonovo okno" pro odchod se zavírá (analogie s Katalánskem). Připomíná, že Kateřina Konečná hlasovala v EP „pro vytváření migračních cest" z Afriky. Výjimka ČR (kvůli ~450–480 tis. Ukrajincům) platí jen ~2 roky.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026)
+
+---
+
+### Protesty proti migraci napříč Evropou vs. „uspaná" ČR — Vrabel (15. 6. 2026)
+
+Vrabel popisuje vlnu protestů „prakticky všude" v Evropě: proti migraci (Británie, Irsko, Francie, Itálie, Londýn, Brusel, Německo), proti banderismu (Polsko, kde vznikají domobrany), proti G7 (Ženeva — ~16 000 lidí, zapálené budovy/banka) a v Albánii proti záboru pláže a ostrova Ivankou Trumpovou a Jaredem Kushnerem (statisíce lidí, požadavek na odstoupení premiéra). Zmiňuje i nově vzniklou „Irskou revoluční armádu" (maskovaní muži se samopaly hrozící bránit suverenitu proti dovozu migrantů). Kontrastuje to se sarkasticky popsanou „uspanou" ČR — jediná země „v klidu", protože pozornost lidí pohlcuje mediální hádka vláda vs. prezident; vlastenci jsou po sjezdu SdL vyčerpaní a praví protiglobalizační oponenti (např. Tomáš Čermák) zůstávají vězněni.
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-6-2026)

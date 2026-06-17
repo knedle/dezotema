@@ -2252,3 +2252,12 @@
 - **Délka:** 01:46:22 | Pravidelné nedělní živé vysílání (z velké části rekapitulace týdne + Q&A)
 - **Poznámka:** Eskalace NATO–Rusko (parabola školní šikany, „není to Ukrajina, je to Západ", riziko úderu na česká letiště s F-35), odmítá „menší zlo" preventivního ruského jaderného úderu — chce deeskalaci/odzbrojení; AI drony vraždící bez člověka (Ukrajina test, Erik Trump továrna); ČR předem oznámila veto EU rezoluce proti Izraeli; migrační pakt připravovala Babišova vláda (Hamáček), nelze opustit bez vystoupení z EU (Vondráček), Konečná pro migrační cesty; AI DNA vakcína; Macinka „malý Heydrich"; šaría (Bill Warner).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (15. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-15-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-15_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2186269078839892>
+- **Datum záznamu:** 2026-06-15
+- **Délka:** 00:49:21 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Protesty napříč Evropou (Polsko banderismus, Albánie — Ivanka/Kushner zabrali pláž+ostrov, statisíce za odstoupení premiéra, „Irská revoluční armáda", G7 Ženeva, migrace) vs. „uspaná" ČR (hádka vláda/prezident, Čermák vězněn); Nové Česko (Marek Kuba) jako uměle vyrobená strana (Kantar, Battery Box/ČEZ); HPV očkování (Vojtěch + Konečná, 90 % proočkovanost); Kuba a „český model transformace 90s" (Macinka/Klaus Miami) = devastace/zadlužení, Jugoslávie/Srbsko sankce; půjčka SAFE 2,06 mld € (50,3 mld Kč) na zbrojení/D11 (Babiš); Írán memorandum 14. 6. (Hormuz otevřen 19. 6., poplatky vs. Macron, Netanjahu „hrozný pro Izrael" + řídí USA dle Carlsona); klášter v Kyjevě = ukr. Patriot.
+- **Zpracováno:** ano

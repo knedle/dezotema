@@ -237,6 +237,16 @@ Ke zprávě o krizi životních nákladů v EU (ceny nemovitostí +53 % v letech
 
 ---
 
+### „Český model transformace" pro Kubu = devastace; půjčka SAFE 2 mld € na zbrojení (Vrabel, 15. 6. 2026)
+
+Ke zprávě, že USA (Rubio) zvažují pro Kubu „český model transformace z 90. let" a české MZV chystá k tématu přednášku Václava Klause na University of Miami, Vrabel varuje, že Kubánce čeká totéž co ČR: rozprodej a ztráta státního majetku, předlužení (ČR dnes míří k 350mld. schodku a bilionovým dluhům), likvidace malých a středních podnikatelů ve prospěch nadnárodních korporací (daňové prázdniny, pozemky/infrastruktura zdarma, zisky odváděné přes fakturace do daňových rájů). Sliby „platů jako na Západě" a „rovné startovní čáry" se podle něj nenaplnily. Jako paralelu uvádí Jugoslávii/Srbsko: prosperující země zničená sankcemi Západu (hyperinflace, lidé vybírající jídlo z popelnic) — bída Kuby tedy není dána „přestárlým vedením", ale 60 lety amerických sankcí.
+
+Zároveň ČR pod Babišem získala z evropského nástroje **SAFE** půjčku **2,06 mld € (50,3 mld Kč)** na vojenské vybavení a dostavbu dálnice D11. Vrabel ironicky „gratuluje" k dalšímu zadlužení — „bezpečí" (SAFE) ve skutečnosti slouží vyzbrojení EU a budování dálnic pro přesun tanků Leopard.
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-6-2026)
+
+---
+
 ### Místo OZE jádro 4. generace a fúze; „elektřina je ropa příštích 30 let" — Rajchl (12. 6. 2026)
 
 V závěru projevu na semináři „Příliš drahý vítr" (viz [vetrniky.md](vetrniky.md#seminář-příliš-drahý-vítr-green-deal-jako-ideologie-akcelerační-zóny-farizejství-ochránců--rajchl-12-6-2026)) Rajchl nabízí alternativu ke Green Dealu: kdyby peníze vložené do OZE-ideologie šly do jaderné energie a fúze, „jsme dneska daleko, daleko dál". Upozorňuje, že Čína, Rusko i USA už mají jaderné elektrárny **4. generace**, které umí jet na palivo, jež je odpadem z předchozích generací. Vyzývá k návratu od ideologie ke „zdravému rozumu": udržet fosilní zdroje a stávající energetický mix nastavený předchozí generací, který považuje za správný.

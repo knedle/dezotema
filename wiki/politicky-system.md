@@ -248,6 +248,14 @@ V úvaze o vlasteneckém prezidentském kandidátovi Vrabel doporučuje Miroslav
 
 ---
 
+### „Nové Česko" (Marek Kuba) jako uměle vyrobená strana — Vrabel (15. 6. 2026)
+
+Vrabel si v předvolebním průzkumu Kantar (pro ČT) všiml strany **Nové Česko** Marka Kuby a popisuje na ní mechanismus „výroby" politických stran. Kubu zná osobně: do politiky se dostal v jižních Čechách přes Pavla Dlouhého (kmotr z Hluboké), jako ministr průmyslu si pořídil firmu Battery Box, která dostává zakázky od ČEZ, a po ruském vstupu na Ukrajinu „hrdě nosil ukrajinský trojzubec" — nikdy nebyl vlastenec. Vrabel: strana bez reálného základu se vytvoří, dosadí se politik se sponzory v pozadí, média ho začnou zvát do pořadů a „najednou se objeví v průzkumech" — takto vznikají strany, které pak řídí zemi.
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-6-2026)
+
+---
+
 ## Evropský parlament a demokratický deficit
 
 ### EP jako divadlo — předem dohodnuté hlasování
