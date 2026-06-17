@@ -737,6 +737,14 @@ Dále informuje o nové vakcíně **vyrobené umělou inteligencí**, testované
 
 ---
 
+### Porodnost Q1 2026: jen 17,5 tis. narozených = „genocida očkováním" — Zítko (15. 6. 2026)
+
+Zítko (s odkazem na data Tomáše Fürsta / SmÍŠ Lab) tvrdí, že za první čtvrtletí 2026 se narodilo jen ~**17,5 tisíce dětí** — proti ~111 tisícům za celý rok 2021 to znamená propad o ~30 % za čtyři roky a předpoklad <70 tisíc za celý rok. Čísla navíc „uměle zvedají" rodící Ukrajinky, takže u původní populace by byla horší. Propad přičítá očkování (odkaz na analýzu ÚZIS na 1,3 mil. žen dle očkovacího statusu — neočkované prý rodí stále stejně) a označuje to za „genocidu a sterilizaci" pod vládami Babiše a Fialy. ČT jako „spolupachatele" (neinformovala objektivně) vyzývá vrátit „výpalné" (poplatky) zpětně od 12. 3. 2020. (Rozšiřuje dříve dokumentovaná tvrzení o propadu porodnosti — viz [osoby/zitko.md](osoby/zitko.md).)
+
+**Zdroje:** [Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026)](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+
+---
+
 ### HPV očkování: cíl 90% proočkovanosti (Vojtěch + Konečná) — Vrabel (15. 6. 2026)
 
 K nové „národní strategii urychlení eliminace nádorových onemocnění způsobených HPV (2026–30)" — ministr Adam Vojtěch a hlavní hygienička Barbora Macková chtějí dosáhnout 90% proočkovanosti dětí do čtyř let — Vrabel připomíná, že Vojtěch prosazoval očkování už v covidu („po chvilce na střídačce je zpátky"). Doporučuje lidem zajímat se o nežádoucí účinky (slyšel o nich „hrůzné věci") a hodnotit „pro a proti"; neoznačuje HPV vakcínu výslovně za špatnou, ale odmítá rétoriku, že jde o „něco spásného, co vymýtí rakovinu". Uvádí, že prosazení této strategie v ČR je z velké části zásluha Kateřiny Konečné, která si očkovací strategie (vč. HPV) vzala v Europarlamentu za osobní téma — kvůli čemuž s ní měl Vrabel „potyčku".

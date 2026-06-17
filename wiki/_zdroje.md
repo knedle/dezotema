@@ -2244,6 +2244,15 @@
 - **Poznámka:** Pulzní infrazvuk (šíření zemí 6 km/s, rezonance staveb +30 dB, dosah 6–20 km, studie Kanada/Švédsko) a zdravotní dopady (kortizol/stres, imunita, předčasné porody); eroze lopatek → mikroplasty/PFAS v potravním řetězci; odpad lopatek (40–50 mil. t do 2050), betonové patky 4000 t/devastace půdy a spodních vod; blesky/požáry; úhyn netopýrů/ptáků; sociální rozpad venkova, „větrní baroni"/betonová lobby; podpora moratoria.
 - **Zpracováno:** ano
 
+## Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026) {#československo-tv2--ufc-freedom-250-naplněno-15-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-15_Československo-TV2_Videoportál.txt)
+- **Kanál:** Pavel Zítko (Československo TV2)
+- **URL:** <https://m.facebook.com/watch/?v=1474173324032540>
+- **Datum záznamu:** 2026-06-15
+- **Délka:** 00:50:16 | „UFC Freedom 250 11:11" — reportáž o události z 14. 6.
+- **Poznámka:** UFC na trávníku Bílého domu (14. 6.) jako symbolická demontáž admiralty (Topuria/hadi prohrál s outsiderem Gaethjem); Trump „6 větami" ukončil válku s Íránem, Hormuz otevřen, 3 letadlové lodě staženy do 90 s, dohoda 8. 6. Muscat, 147 mld $ rozmrazeno, Epstein files v Íránu; „velká aliance" vs. EU/UK; „Michelle Obama je muž"/Macron Ladyboy; Dana White Epstein art; porodnost Q1 17,5 tis. = genocida očkováním; ČT výpalné; vlastizrada/ČSR recap; Peterková kniha 24. 6.; akce 4. 7.
+- **Zpracováno:** ano
+
 ## Vladimír Zlínský — Přednáška VTE/FVE: zdraví (seminář, sdíleno 15. 6. 2026) {#vladimír-zlínský--přednáška-vte-fve-zdraví-seminář-sdíleno-15-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-15_Lenka-Tarabová_Videoportál_1.txt)
 - **Kanál:** sdíleno na kanálu Lenka Tarabová (Videoportál); mluvčí: **MUDr. Vladimír Zlínský**

@@ -547,6 +547,20 @@ Z „kvantové fyziky" vyjmenovává **7 faktorů ovlivňujících vibrační fr
 
 **Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
 
+---
+
+### UFC Freedom 250 „naplněno": demontáž admiralty, konec války s Íránem, „Michelle Obama je muž" — Zítko (15. 6. 2026)
+
+Zítko referuje o akci, kterou předpověděl (viz [Freedom 250, 12. 6.](#freedom-250--ufc-finální-tah-proti-deep-state--zítko-12-6-2026)): UFC Freedom 250 proběhlo 14. 6. (Trumpovy 80. narozeniny, Den vlajky) na trávníku Bílého domu, 7 titulových zápasů. Vykládá je symbolicky:
+
+- **Finále jako demontáž admiralty:** dosud neporažený šampion Ilia Topuria (na zádech tetování dvou propletených hadů = symbol Deep State / práva admirality) prohrál s outsiderem Justinem Gaethjem (kurz 4+ vs. 1,2) — „rozsekaná držka" Topurii má symbolizovat „veřejný souhlas" lidu s koncem námořního práva a návratem k přirozenému právu. Prezident UFC Dana White (z nejužšího Trumpova okruhu) měl prý v pozadí obrazy s „Epsteinovskou" symbolikou (obchodování s dětmi).
+- **Trump „ukončil válku s Íránem":** 14. 6. ve 21:47 prý „šesti větami" ukončil válku a otevřel Hormuz; tři letadlové skupiny (Eisenhower, Lincoln, Truman) se do 90 sekund stáhly. Dohoda byla tajně uzavřena už 8. 6. v Muscatu (Omán): 60denní likvidace uranu, inspektoři, uvolnění 147 mld. $ zmrazených aktiv, zrušení sankcí, obnova vývozu ropy → pád ceny ropy. „Hlavou hada" Deep State v Íránu měly být Epstein kompromateriály pro budoucí vojenské tribunály. Vrchním velitelem „velké aliance" (vs. izolované EU/UK) je dle Zítka Trump (+ Putin, Xi, Modi, Bin Salmán, BRICS).
+- **„Michelle Obama je muž":** bojovník Josh (s tetováním Judova lva = Ježíš) prý během večera „práskl" na celý svět, že Michelle Obama je muž („Mike Robinson"), podobně jako „Ladyboy" Macron — Zítko to bere jako oficiální QAnon odhalení.
+
+> „Zatímco jsi spal, svět se změnil. […] Válka je ukončena, ropa opět teče." — Pavel Zítko, [Freedom 250 / UFC 15. 6. 2026](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+
+**Zdroje:** [Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026)](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů
