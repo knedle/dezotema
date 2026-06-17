@@ -368,6 +368,18 @@ V komentáři Vrabel propojuje několik zpráv do téze o blížící se válce 
 
 ---
 
+### Eskalace NATO–Rusko: „není to Ukrajina, je to Západ"; AI drony vraždící bez člověka — Vrabel (14. 6. 2026)
+
+V nedělním vysílání Vrabel rozvíjí na dotazy svou tezi o blížící se přímé válce NATO–Rusko (parabola „školní šikany"): útoky hluboko do Ruska (rafinérie, sklady, energetika; teroristické útoky na autobus a studentskou kolej) nedělá Ukrajina sama, ale **Západ/NATO** — západní piloti, operátoři raket dlouhého doletu, dronaři, satelitní navádění (CIA), peníze a zbraně (90 mld., 60 % na zbraně; muniční iniciativa). Rusko se dle něj snaží vyhnout válce s NATO, ale jednoho dne bude muset přiznat, že je s NATO ve válce, a bránit se; pokud ruská tajná služba zjistí přípravu hromadného jaderného úderu (F-35 + bomby B-61), „začnou lítat rakety i na česká a polská letiště s F-35".
+
+Na dotaz, zda by preventivní ruský jaderný úder nebyl „menší zlo" než třetí světová válka, Vrabel odpovídá, že **není zastáncem tohoto řešení** — třetí světová válka se podle něj „teprve vaří" (nové zbrojovky, dohody, cvičení), spouštěčem nemusí být Ukrajina, a globalisté („chazarští váleční štváči" napojení na zbrojaře) do války s Ruskem cíleně provokují. Řešením je deeskalace a tlak občanů na jaderné odzbrojení, ne první jaderná rána. Sám staví v podhůří úkryt pro případ války.
+
+K týdnu navíc: Ukrajina otestovala ~10 **dronů řízených výhradně umělou inteligencí** (bez operátora), které samy zabíjely ruské vojáky — Vrabel to sarkasticky komentuje („sláva Ukrajině") jako „poprvé v historii stroj zabíjí lidi bez člověka"; připomíná továrnu Erika Trumpa na robotická zařízení s AI a dohodu se Zelenským testovat je na Ukrajině.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026)
+
+---
+
 ### Ukrajina jako fašistický stát z definice — Vrabel (1. 5. 2026)
 
 Vrabel v komentáři k prvomájovému průvodu „proti fašismu v parlamentu" v Praze přečetl akademickou definici fašismu a bod po bodu ji aplikoval na Ukrajinu. Výsledek: Ukrajina je dle Vrabela „naprosto fašistický režim z definice":

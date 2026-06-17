@@ -289,6 +289,14 @@ Vrabel popisuje, jak Trump bombardoval Írán (bomby „za 250 milionů dolarů"
 
 ---
 
+### Česká vláda předem oznámila veto případné EU rezoluce proti Izraeli — Vrabel (14. 6. 2026)
+
+Vrabel označuje za „neuvěřitelné", že česká vláda předem vydala prohlášení, že bude vetovat jakoukoli připravovanou rezoluci EU proti Izraeli. Připomíná, že EU zatím chystá vůči Izraeli jen rezoluci (odsouzení), nikoli sankce. Tvrdí, že izraelská vláda se v Gaze dopouští genocidy a její počínání v Libanonu „není o moc lepší" — výroky izraelského premiéra a ministra obrany jsou podle něj takové, „za které by normální člověk v ČR šel do vězení". Česká vláda to dle něj naopak podporuje a „zavírá oči".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026)
+
+---
+
 ### Írán „telenovela" 38× a manipulace ropy; Izrael, „Velký Izrael" a Netanjahu řídící USA — Vrabel (13. 6. 2026)
 
 Vrabel rozšiřuje tezi o opakujícím se scénáři (viz [11. 6.](#trump-opakovaná-ultimáta-íránu-a-podezření-z-manipulace-cen-ropy-vrabel-11-6-2026)): Trump ve čtvrtek/pátek oznámí blízký podpis mírové dohody s Íránem (tentokrát „v neděli na své 80. narozeniny" + otevření Hormuzu), ~20 minut předtím se masivně shortuje ropa, o víkendu íránský ministr Arákčí dohodu popře (chce „účtovat za Hormuz") a následuje bombardování Libanonu/jižního Íránu. Tvrdí, že tento cyklus proběhl „38× za sebou", investoři na něm vydělali miliardy a Trump by za to mohl být nakonec souzen.

@@ -2234,3 +2234,12 @@
 - **Délka:** 00:55:02 | Nedělní živé vysílání
 - **Poznámka:** Green Deal jako „apokalypsa Evropy" — 5 nařízení (ETS1, ETS2, RED3, EPBD4, CBAM), vystoupení z EU (2–5 bil.) se už vyplatí; tři „dezinformace co se staly pravdou" (biolaboratoře Gabbard 120/40, F-35 +40 mld, ukrajinské dávky každý pátý cizinec); ČT dobrovolné poplatky (Ipsos 15 % důchodci / 40 % studenti); migrační pakt jako „vyděračský pakt" (30k / 15 mld), Belfast, bezpečnost občanů; podpora léčby Báry.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání (14. 6. 2026) {#ladislav-vrabel--nedělní-vysílání-14-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-14_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1383522753622868>
+- **Datum záznamu:** 2026-06-14
+- **Délka:** 01:46:22 | Pravidelné nedělní živé vysílání (z velké části rekapitulace týdne + Q&A)
+- **Poznámka:** Eskalace NATO–Rusko (parabola školní šikany, „není to Ukrajina, je to Západ", riziko úderu na česká letiště s F-35), odmítá „menší zlo" preventivního ruského jaderného úderu — chce deeskalaci/odzbrojení; AI drony vraždící bez člověka (Ukrajina test, Erik Trump továrna); ČR předem oznámila veto EU rezoluce proti Izraeli; migrační pakt připravovala Babišova vláda (Hamáček), nelze opustit bez vystoupení z EU (Vondráček), Konečná pro migrační cesty; AI DNA vakcína; Macinka „malý Heydrich"; šaría (Bill Warner).
+- **Zpracováno:** ano

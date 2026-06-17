@@ -235,3 +235,11 @@ Rajchl rozebírá migrační pakt jako mechanismus kvót a přerozdělování: d
 Navazuje na [Migrační pakt: Rakušan jediný z V4 pro (Rajchl, 12. 6.)](#migrační-pakt-rakušan-jediný-z-v4-pro-odmítnout-lze-jen-na-úrovni-eu-rajchl-12-6-2026).
 
 **Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+---
+
+### Migrační pakt připravovala Babišova vláda (Hamáček); nelze opustit bez vystoupení z EU — Vrabel (14. 6. 2026)
+
+Vrabel zdůrazňuje, že migrační pakt **připravovala už vláda Andreje Babiše** (ministr vnitra Hamáček), Fialova vláda jej jen dokončila a podepsala — „říkat dnes, že to udělala vláda Petra Fialy, není pravda". Babišovo prohlášení z prosince, že vláda pakt „odmítla" a že ČR „neručí" za půjčku Ukrajině, označuje za „levárnu" (analogie: nelze „odmítnout vynést odpadky", když je to dohodnuté a vymahatelné). Pakt je dle něj právně vymahatelný; pokus o neplnění by vedl k zastavení evropských peněz (ekonomický kolaps) a prohře u Evropského soudu. Jedinou cestou ven je **vystoupení z EU** (čl. 50 Lisabonské smlouvy, ~2 roky) — to ocenil i u Libora Vondráčka, který to voličům přiznal. Varuje, že „Overtonovo okno" pro odchod se zavírá (analogie s Katalánskem). Připomíná, že Kateřina Konečná hlasovala v EP „pro vytváření migračních cest" z Afriky. Výjimka ČR (kvůli ~450–480 tis. Ukrajincům) platí jen ~2 roky.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026)
