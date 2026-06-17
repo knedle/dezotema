@@ -512,6 +512,33 @@ Podrobnosti viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-mo
 
 **Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 
+---
+
+### Freedom 250 / UFC: finální tah proti Deep State — Zítko (12. 6. 2026)
+
+V hlavním vysílání „Freedom 250 / UFC 11:11" Zítko předkládá ucelené QAnon proroctví: akce UFC v jižním křídle Bílého domu **14. června** (shodou okolností 80. narozeniny Donalda Trumpa, „nebeský portál") a **4. července** (250. výročí Deklarace nezávislosti USA na britské koruně) jsou klíčovými body „osvobození" celého světa od Deep State. Není to prý jen „America First" — důsledky budou „citelné v celém světě", protože „aliance funguje dohromady" (předávka míče Putin→Trump→Melania 2018 jako symbol). Hlavní teze:
+
+- **Central casting / dvojníci:** hlavní představitelé Deep State byli údajně popraveni a nahrazeni dvojníky (~200 000 náhradníků v oběhu), protože „lidstvo by neskouslo" živé popravy. Jmenuje Joea Bidena (originál prý popraven, inaugurace 2021 sestříhaný film — Jill Biden v různých knoflíčcích/botách), Bibi Netanjahua, Hillary Clinton, krále Karla; Bush popraven 4. 1. 2022, Cheney zatčen na letišti, Rumsfeld — všichni za 11. září.
+- **9/11 jako inside job:** dvě „hologramová letadla" zbořila věže; do Pentagonu (kde se hledala největší díra v rozpočtu armády) udeřila „raketa Patriot", Rumsfeld odešel z místnosti 5 minut předtím, zahynulo 60+ generálů.
+- **EBS / Bluebeam:** očekává nouzové vysílání (Emergency Broadcast System) a plánovanou „invazi mimozemšťanů" (operace Bluebeam) jako kulisu globálního stanného práva; „JFK byl starter, Trump je finisher".
+- **Admiralty law → přirozené právo:** 209 „korporací" (států) fungovalo pod námořním právem, rodný list = nákladový list / záruka za dluhy putující do Vatikánu, soudy jsou soukromé firmy registrované u BAR (British Association Register); přechod k „přirozenému právu" vrací lidem vrozená nezadatelná práva a prostředky z **kolaterálních účtů** (v milionech dolarů na jméno) v rámci QFS. Připomíná vlastizradu 1992 (nepromlčitelnou) a reparace 28 bilionů Kč / 9 550 tun zlata „pro Československo, ne pro korporace Česko a Slovensko"; za porušení paktu ICCPR (1966) náleží občanům odškodnění.
+
+> „Všechno okolo je vojenská operace za osvobození dětí, boj proti všudypřítomnému prolezlému Deep State." — Pavel Zítko, [Freedom 250 / UFC 12. 6. 2026](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
+
+Navazuje na [Trump, Putin a Xi jako aliance](#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh), [Rodný list jako obchodní papír](#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) a [Válečné reparace a výzva mocnostem](#válečné-reparace-a-výzva-mocnostem-obnovit-čsr-zítko-3-6-2026).
+
+**Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
+
+---
+
+### 5D vzestup, vibrace a „Kristovská DNA" — Zítko (12. 6. 2026)
+
+V téže relaci Zítko zarámoval události do New Age výkladu o „vzestupu". Cituje **Dolores Cannon**: Země je první planeta v kosmu, která zvýšila vlastní vibrace a vstupuje do vyšší roviny (5D — „prostor harmonie, lásky a vyššího vědomí"); dorazily tři vlny dobrovolníků bez pozemské karmy, aby lidstvu pomohly. Tvrdí, že se realita „staré" (3D) a „nové" země oddělují podle toho, jak kdo vibruje, a že nejvyšší hodnoty jsou pravda, láska, svoboda a mír.
+
+Z „kvantové fyziky" vyjmenovává **7 faktorů ovlivňujících vibrační frekvenci**: myšlenky, společnost (lidé kolem), hudba (reaguje na ni i voda), sledované pořady, prostředí/nálada, slovo (pomluvy snižují frekvenci) a vděčnost („univerzální platidlo vesmíru"). K tomu opakuje, že jen ~**17 % obyvatel** „srdce Evropy" má „Kristovskou DNA" a zbytek je „něco jiného" (odkaz na film *Oni žijí* a „aurabrýle" odhalující, kdo je a není člověk).
+
+**Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů

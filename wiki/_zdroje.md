@@ -2199,6 +2199,15 @@
 - **Poznámka:** Füllmich politický vězeň (únos z Mexika, soudy = korporace, COVID = biozbraň/Norimberský kodex, propuštění čekáno do 12. 9.); vlastizrada 1992 (Havel/Klaus/Mečiar, Stráský nulitní podpis, zákon 11/1918); QFS, rodný list jako cenný papír, triumvirát Vatikán/City of London/Washington, aliance Trump/Putin/Xi/Modi/Bin Salmán, 14. 6./4. 7.; perzekuce Bytel TV (22 kanálů, 4 účty); covid mafie před vojenský tribunál; křest knihy Peterkové „Já dezinformátorka".
 - **Zpracováno:** ano
 
+## Československo TV2 — Freedom 250 / UFC 11:11 (12. 6. 2026) {#československo-tv2--freedom-250-ufc-11-11-12-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-12_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Pavel Zítko (Československo TV2)
+- **URL:** <https://m.facebook.com/watch/?v=1455397686356909>
+- **Datum záznamu:** 2026-06-12
+- **Délka:** 02:22:04 | Hlavní vysílání „Freedom 250 / UFC 11:11"
+- **Poznámka:** QAnon proroctví Freedom 250 — UFC u Bílého domu 14. 6. (Trumpovy narozeniny) + 4. 7. (250 let nezávislosti) jako finální tah proti Deep State; central casting / dvojníci (Biden/Netanjahu/Bush/Cheney/Rumsfeld popraveni a nahrazeni), EBS/Bluebeam, JFK starter / Trump finisher, 9/11 hologramy + Pentagon raketa; New Age 5D vzestup a 7 faktorů vibrační frekvence (Dolores Cannon), „Kristovská DNA" 17 %; admiralty law/BAR, reparace 28 bil./9 550 t zlata pro ČSR, QFS/kolaterální účty, ICCPR odškodnění; ČT „výpalné"/cashback; Okamura 3 mil. za plakát „chirurgové z dovozu".
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Seminář „Příliš drahý vítr" (12. 6. 2026) {#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-12_Lenka-Tarabová_Videoportál_1.txt)
 - **Kanál:** sdíleno na kanálu Lenka Tarabová (Videoportál); mluvčí: **Jindřich Rajchl**

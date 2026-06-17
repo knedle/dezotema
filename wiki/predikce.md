@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — „Freedom 250": osvobození od Deep State kolem 14. 6. a 4. 7. (12. 6. 2026)
+
+**Předpověď:** Zítko očekává, že kolem 14. června (UFC u Bílého domu, narozeniny Trumpa) a 4. července (250 let nezávislosti USA) se odehrají „velké a zajímavé věci" — finální tah „aliance" proti Deep State a začátek globálního „osvobození" (odtajnění, kvantový finanční systém, návrat prostředků lidem).
+
+> „Možná nebude od věci, abychom se sešli u příležitosti tohoto data [4. 7.], kdy určitě do té doby se budou dít velké a zajímavé věci." — Pavel Zítko
+
+**Horizont:** 14. 6. – 4. 7. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Freedom 250 / UFC 12. 6. 2026](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
+
+---
+
 ### Jindřich Rajchl — „Elektřina je ropa příštích 30 let", ČR zchudne na dovozce (12. 6. 2026)
 
 **Předpověď:** Rajchl předpovídá, že ČR se z druhého největšího vývozce elektřiny v Evropě „brzy" stane dovozcem. Zároveň tvrdí, že při investici do jádra a fúze může země v příštích 30 letech získat levnou stabilní elektřinu a „zbohatnout jak Katar", protože elektřina bude komoditou srovnatelnou s ropou.

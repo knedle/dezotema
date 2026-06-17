@@ -192,3 +192,11 @@ Vrabel ukazuje záznam, jak byl polskému europoslanci Grzegorzi Braunovi v Evro
 Rajchl znovu (viz [Rozsudek nad SPD = posvěcení cenzury, 3. 6.](#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026)) označuje rozsudek nad SPD za skandál: plakát podle něj jen spojuje dva faktické údaje (afričtí migranti páchají útoky bodnou/sečnou zbraní mnohonásobně častěji; většina těchto migrantů je černé pleti) — to není podněcování nenávisti, ale „pojmenování pravdy". Politickou hyperkorektnost a falšování statistik justicí označuje za hlavní příčinu úpadku Evropy. Jako příklady uvádí německého komika, který byl ve dne pobodán (5 ran) migrantem, jenž byl týž večer propuštěn jako „nebezpečný" (vražda nebyla dokonána), a případ Henryho Novaka (Vikram Digwa, sik). Pokud rozsudek potvrdí vyšší instance, „žijeme v zemi, kde je pravda trestným činem". Jako právník otevřeně zpochybňuje, že rozsudek má cokoli společného s právem — je podle něj „poplatný politické atmosféře".
 
 **Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
+---
+
+### Okamura: 3 mil. za plakát „chirurgové z dovozu" + ČT „výpalné" (Zítko, 12. 6. 2026)
+
+Zítko ve vysílání komentuje nepravomocný rozsudek nad Tomiem Okamurou (SPD) — pokutu **3 miliony Kč** za předvolební plakát o „chirurzích z dovozu" (viz Rajchlovy záznamy [3. 6.](#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026) a [7. 6.](#rozsudek-nad-spd-jako-pravda-trestným-činem--obhajoba-pojmenování-migrace-rajchl-7-6-2026)). Ironicky poukazuje na to, že hned po rozsudku „chirurgové úřadovali" v Belfastu a Anglii, a označuje rozsudek za stejně absurdní jako stíhání za „šíření poplašné zprávy" — „pravda nikdy nemůže být poplašnou zprávou". Zároveň opakuje výzvu k občanům, aby přestali platit „výpalné" (koncesionářské poplatky ČT) a žádali jejich vrácení (cashback) zpětně od 12. 3. 2020, protože ČT od té doby porušuje zákon o vyváženosti a „masírovala covidiárnu".
+
+**Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
