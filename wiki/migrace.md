@@ -251,3 +251,16 @@ Vrabel zdůrazňuje, že migrační pakt **připravovala už vláda Andreje Babi
 Vrabel popisuje vlnu protestů „prakticky všude" v Evropě: proti migraci (Británie, Irsko, Francie, Itálie, Londýn, Brusel, Německo), proti banderismu (Polsko, kde vznikají domobrany), proti G7 (Ženeva — ~16 000 lidí, zapálené budovy/banka) a v Albánii proti záboru pláže a ostrova Ivankou Trumpovou a Jaredem Kushnerem (statisíce lidí, požadavek na odstoupení premiéra). Zmiňuje i nově vzniklou „Irskou revoluční armádu" (maskovaní muži se samopaly hrozící bránit suverenitu proti dovozu migrantů). Kontrastuje to se sarkasticky popsanou „uspanou" ČR — jediná země „v klidu", protože pozornost lidí pohlcuje mediální hádka vláda vs. prezident; vlastenci jsou po sjezdu SdL vyčerpaní a praví protiglobalizační oponenti (např. Tomáš Čermák) zůstávají vězněni.
 
 **Zdroje:** [Vrabel — Zprávy v devět 15. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-6-2026)
+
+---
+
+### Rozdíl mezi Ukrajinci před válkou a po válce; zrušit dávky a dočasnou ochranu — Rajchl (16. 6. 2026)
+
+Rajchl vypráví, že ho na ulici zastavili dva Ukrajinci a poděkovali mu, že jako jediný politik rozlišuje mezi těmi, kdo přišli **před** 24. 2. 2022 (žijí tu 10+ let, platí daně, pracují) a **novými** příchozími. Sám potvrzuje: Ukrajinců příchozích podle zákonů před válkou si váží (nikdy je nenazýval „UKáčka"), problém má jen s těmi, kdo přišli „pod záminkou úprku z války" kvůli „dávkové turistice", podvodům a trestné činnosti — tito noví prý vadí i déle usazeným Ukrajincům. Navrhuje:
+
+- **zrušit dávky** (dnes „přežitek") i **dočasnou ochranu** nařízenou EU (fronta se nehýbe, lidé už nepřicházejí z válečné oblasti);
+- zavést **automatické vyhoštění** každého cizince, který spáchá trestný čin nebo násilný přestupek (vzor SAE — „jedna chyba a letí zpátky", proto tam nulová kriminalita). Garantuje, že hrozba návratu na Ukrajinu (a odvedení na frontu Zelenského „naháněči") by srazila kriminalitu Ukrajinců „o desítky procent".
+
+Navazuje na [Zveřejňování státní příslušnosti + automatické vyhoštění (Rajchl, 10. 6.)](#zveřejňování-státní-příslušnosti-pachatelů--automatické-vyhoštění-cizinců-rajchl-10-6-2026) a [Podvody s humanitárními dávkami (13. 6.)](#podvody-s-humanitárními-dávkami--dezinformace-která-se-stala-pravdou-rajchl-13-6-2026).
+
+**Zdroje:** [Rajchl — Videoportál: Ukrajinci před/po válce, 16. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ukrajinci-před-po-válce-16-6-2026)

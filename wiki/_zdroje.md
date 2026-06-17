@@ -2297,3 +2297,12 @@
 - **Délka:** 00:49:21 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Protesty napříč Evropou (Polsko banderismus, Albánie — Ivanka/Kushner zabrali pláž+ostrov, statisíce za odstoupení premiéra, „Irská revoluční armáda", G7 Ženeva, migrace) vs. „uspaná" ČR (hádka vláda/prezident, Čermák vězněn); Nové Česko (Marek Kuba) jako uměle vyrobená strana (Kantar, Battery Box/ČEZ); HPV očkování (Vojtěch + Konečná, 90 % proočkovanost); Kuba a „český model transformace 90s" (Macinka/Klaus Miami) = devastace/zadlužení, Jugoslávie/Srbsko sankce; půjčka SAFE 2,06 mld € (50,3 mld Kč) na zbrojení/D11 (Babiš); Írán memorandum 14. 6. (Hormuz otevřen 19. 6., poplatky vs. Macron, Netanjahu „hrozný pro Izrael" + řídí USA dle Carlsona); klášter v Kyjevě = ukr. Patriot.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Ukrajinci před/po válce (16. 6. 2026) {#jindřich-rajchl--videoportál-ukrajinci-před-po-válce-16-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-16_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1653010435813157>
+- **Datum záznamu:** 2026-06-16
+- **Délka:** 00:04:06 | „Dnes mě na ulici zastavili dva Ukrajinci"
+- **Poznámka:** Rozdíl mezi Ukrajinci příchozími před 24. 2. 2022 (slušní pracující, váží si jich) a po válce (dávková turistika, kriminalita); návrh zrušit dávky i dočasnou ochranu (EU) a zavést automatické vyhoštění cizinců za trestný čin/násilný přestupek (vzor SAE).
+- **Zpracováno:** ano
