@@ -192,6 +192,18 @@ Rajchl v živém vysílání 5. 4. 2026 rozšiřuje svoji kritiku Mináře o fin
 
 ---
 
+### Pavel „panák" vs. Zeman „můj prezident"; favorit Marek Vašut — Tarabová (15. 6. 2026)
+
+V rozhovoru pro TV Česko Tarabová hodnotí prezidentský úřad:
+
+- **Petr Pavel** je dle ní „dosazený panák" a „zelená guma", podle ní hloupý a nedůstojný úřadu — „není prezidentem, jen hlásnou troubou Petra Koláře". Jeho vynucování účasti na summitu v Ankaře přirovnává k dítěti, které na pískovišti dupe po bábovičkách; vláda ho prý „drží pod krkem" tím, že vyslala delegaci (rozhodnutí odloženo na 22. 6.). Poukazuje na nelogičnost médii uváděné ~60% podpory, když 80 % lidí nechce euro, které Pavel prosazuje.
+- **Miloš Zeman** je „můj prezident" — „má to v hlavě srovnané", podporuje stranu PRO. Jediné, co mu Tarabová neodpouští, je udělení Řádu bílého lva Zelenskému; cituje Zemanovo vysvětlení (rozhodovalo se na začátku konfliktu 2022, kdy se o Zelenském mluvilo pozitivně).
+- **Budoucí prezident:** přála by si kandidáta vládní koalice přijatelného „oběma znepřátelenými stranami", který miluje ČR a nehájí euro. Jmenuje **Marka Vašuta** (herec se zájmem o politiku a přehledem; podle ní vznikla i anketa) — nestranicky přijatelného.
+
+**Zdroje:** [Tarabová — Rozhovor pro TV Česko: prezidentský úřad, 15. 6. 2026](_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

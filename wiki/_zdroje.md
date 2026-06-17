@@ -2253,6 +2253,15 @@
 - **Poznámka:** Eskalace NATO–Rusko (parabola školní šikany, „není to Ukrajina, je to Západ", riziko úderu na česká letiště s F-35), odmítá „menší zlo" preventivního ruského jaderného úderu — chce deeskalaci/odzbrojení; AI drony vraždící bez člověka (Ukrajina test, Erik Trump továrna); ČR předem oznámila veto EU rezoluce proti Izraeli; migrační pakt připravovala Babišova vláda (Hamáček), nelze opustit bez vystoupení z EU (Vondráček), Konečná pro migrační cesty; AI DNA vakcína; Macinka „malý Heydrich"; šaría (Bill Warner).
 - **Zpracováno:** ano
 
+## Lenka Tarabová — Rozhovor pro TV Česko: prezidentský úřad (15. 6. 2026) {#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-15_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (Videoportál); úryvek z rozhovoru pro TV Česko / Marián Baran
+- **URL:** <https://m.facebook.com/watch/?v=1572493094437749>
+- **Datum záznamu:** 2026-06-15
+- **Délka:** 00:11:24 | „Jak vidím prezidentský úřad, kdo je mým prezidentem"
+- **Poznámka:** Petr Pavel jako „panák"/„zelená guma"/hlásná trouba Petra Koláře, nedůstojný úřadu, vynucování Ankary (vláda ho „drží pod krkem", odloženo na 22. 6.), 60% podpora vs. 80% nechce euro; Miloš Zeman = „můj prezident" (jen řád Bílého lva Zelenskému neodpouští); prezidentský favorit Marek Vašut (přijatelný oběma stranami); umělá nenávist ve společnosti + anonymita sociálních sítí.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět (15. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-15-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-15_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)

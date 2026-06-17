@@ -13,8 +13,8 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | [FARA a neziskovky](../fara-neziskovky.md) | ANO nezjišťuje zahraniční financování neziskovek; Milion chvílek — hierarchie, skrytý účet, napojení na neziskový sektor |
 | [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe); VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku); svědectví amerického lékaře o absenci výuky bezpečnosti vakcín; virologie jako pseudověda — viry nikdy nebyly izolovány, experimenty se španělskou chřipkou (1918) neprokázaly přenos; NOS (Národní očkovací strategie) schválena neoprávněně vládou v demisi; WHO = soukromá organizace financovaná Gatesem; vakcíny způsobují autismus, ADHD, ekzémy, onko u dětí; „nátlaky jsou pro otroky"; léky na obezitu pro děti (Novo Nordisk/Wegovy, BlackRock) místo prevence (12. 6.) |
 | [Rodina a děti](../rodina-deti.md) | Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické |
-| [Suverenita a EU](../suverenita-eu.md) | Brněnské zastupitelstvo: 14. 4. 2026 schválilo konání sudetoněmeckého sjezdu; Němci dluží ČR válečné reparace; kritika primátorky Vaňkové; sjezd eskaluje — německý ministr vnitra + bavorský premiér jako hosté; Petr Pavel „Spojené státy evropské" = zánik ČR; Ukrainizace společnosti — telefonní šmejdi (senioři), dávkový podvod, automatické vyhoštění pachatelů |
-| [Média a propaganda](../media-propaganda.md) | ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti; výzva k stávce/okupační stávce zaměstnanců ČT (20.5.); „vládní moc se může uchýlit k násilí" |
+| [Suverenita a EU](../suverenita-eu.md) | Brněnské zastupitelstvo: 14. 4. 2026 schválilo konání sudetoněmeckého sjezdu; Němci dluží ČR válečné reparace; kritika primátorky Vaňkové; sjezd eskaluje — německý ministr vnitra + bavorský premiér jako hosté; Petr Pavel „Spojené státy evropské" = zánik ČR; Ukrainizace společnosti — telefonní šmejdi (senioři), dávkový podvod, automatické vyhoštění pachatelů; Pavel = „panák"/„zelená guma"/hlásná trouba Koláře, nedůstojný úřadu (Ankara), 60% podpora vs. 80% proti euru; Zeman = „můj prezident"; prezidentský favorit Marek Vašut (15. 6.) |
+| [Média a propaganda](../media-propaganda.md) | ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti; výzva k stávce/okupační stávce zaměstnanců ČT (20.5.); „vládní moc se může uchýlit k násilí"; umělá nenávist ve společnosti + anonymita sociálních sítí (urážky místo věcné debaty), výzva k respektu (15. 6.) |
 
 ---
 
@@ -44,6 +44,10 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Filip Turek | ⚖️ rozporuplný | MEP — obecně spojenec, ale kritizován za smíření se situací ČT; „myslí, že to projde" | 2026-05-20 | [ČT stávka (20. 5.)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026) |
 | Jindřich Rajchl | ✅ pozitivní | Na svém kanálu sdílela jeho projev proti větrníkům (seminář „Příliš drahý vítr") | 2026-06-12 | [Seminář Příliš drahý vítr](../_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026) |
 | Jaroslav Turánek | ✅ pozitivní | Sdílela jeho odbornou přednášku o škodlivosti větrníků (pulzní infrazvuk, zdravotní dopady) z téhož semináře | 2026-06-14 | [Turánek — přednáška VTE/FVE](../_zdroje.md#jaroslav-turánek--přednáška-vte-fve-seminář-sdíleno-14-6-2026) |
+| Petr Pavel | ❌ negativní | „Panák"/„zelená guma", hloupý a nedůstojný úřadu, jen „hlásná trouba Petra Koláře"; vynucování cesty do Ankary jako dítě dupající po bábovičkách | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
+| Miloš Zeman | ✅ pozitivní | „Můj prezident" — „má to v hlavě srovnané", podporuje PRO; výhrada jen k řádu Bílého lva pro Zelenského (rozhodnuto 2022) | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
+| Petr Kolář | ❌ negativní | Pavel je dle Tarabové jen jeho „hlásná trouba" | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
+| Marek Vašut | ✅ pozitivní | Tarabové favorit na prezidenta — přijatelný oběma stranami, miluje ČR, nehájí euro | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
 
 ---
 
@@ -68,3 +72,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Veřejné projednání větrné elektrárny (15. 5. 2026)](../_zdroje.md#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026)
 - [ČT stávka a občanská neposlušnost (20. 5. 2026)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
 - [Videoportál: Novo Nordisk (12. 6. 2026)](../_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
+- [Rozhovor pro TV Česko: prezidentský úřad (15. 6. 2026)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)

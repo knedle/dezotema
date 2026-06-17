@@ -375,3 +375,11 @@ Rajchl: kdo se „nenechá okrádat, fandí Putinovi" je „logika blázna"; dez
 Rajchl cituje průzkum Ipsos: dobrovolně by koncesionářské poplatky platilo jen **15 % důchodců** a 40 % studentů (u nichž pochybuje, že by reálně platili). Opakuje svůj návrh **dobrovolných koncesionářských poplatků** přes set-top-box jako jediné spravedlivé řešení (viz [Rajchl: dobrovolné poplatky](#rajchl-dobrovolné-koncesionářské-poplatky-jako-jediné-spravedlivé-řešení)): kdo chce, ať platí (klidně 100 tisíc), ČT může vybrat „třeba 100 miliard", politici ztratí veškerý vliv a ČT bude muset vysílat pro všechny, aby získala předplatitele. Vyzývá 92 opozičních poslanců, kteří ČT brání jako „pilíř demokracie", ať dobrovolně pošlou peníze na její účet — „mluvit nic nestojí, poslat peníze bolí".
 
 **Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
+
+---
+
+### Umělá nenávist ve společnosti a anonymita sociálních sítí — Tarabová (15. 6. 2026)
+
+Tarabová tvrdí, že nikdy nezažila ve společnosti tolik nenávisti — a že je „uměle vytvořená" rozdělením lidí do znepřátelených skupin, kde jedna druhou „bytostně nenávidí". Vinu klade i na anonymitu sociálních sítí: pod věcným příspěvkem (např. o vizi strany PRO) se místo diskuse o obsahu objevují „jen urážky, lži, dehonestace a vulgarity", často od stále stejných lidí. Vyzývá k návratu „lidství" a vzájemnému respektu — „nemusíme se milovat, ale je potřeba se respektovat"; každý ať si „miluje Danuši Nerudovou", ale neupírá jí, že důvěřuje Jindřichu Rajchlovi.
+
+**Zdroje:** [Tarabová — Rozhovor pro TV Česko: prezidentský úřad, 15. 6. 2026](_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
