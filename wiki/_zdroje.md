@@ -2235,6 +2235,15 @@
 - **Poznámka:** Green Deal jako „apokalypsa Evropy" — 5 nařízení (ETS1, ETS2, RED3, EPBD4, CBAM), vystoupení z EU (2–5 bil.) se už vyplatí; tři „dezinformace co se staly pravdou" (biolaboratoře Gabbard 120/40, F-35 +40 mld, ukrajinské dávky každý pátý cizinec); ČT dobrovolné poplatky (Ipsos 15 % důchodci / 40 % studenti); migrační pakt jako „vyděračský pakt" (30k / 15 mld), Belfast, bezpečnost občanů; podpora léčby Báry.
 - **Zpracováno:** ano
 
+## Jaroslav Turánek — Přednáška VTE/FVE (seminář, sdíleno 14. 6. 2026) {#jaroslav-turánek--přednáška-vte-fve-seminář-sdíleno-14-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-14_Lenka-Tarabová_Videoportál_2.txt)
+- **Kanál:** sdíleno na kanálu Lenka Tarabová (Videoportál); mluvčí: **prof. Jaroslav Turánek**
+- **URL:** <https://m.facebook.com/watch/?v=1729081584929858>
+- **Datum záznamu:** 2026-06-14
+- **Délka:** 00:22:06 | Odborná přednáška ze sněmovního semináře k VTE a FVE („Příliš drahý vítr")
+- **Poznámka:** Pulzní infrazvuk (šíření zemí 6 km/s, rezonance staveb +30 dB, dosah 6–20 km, studie Kanada/Švédsko) a zdravotní dopady (kortizol/stres, imunita, předčasné porody); eroze lopatek → mikroplasty/PFAS v potravním řetězci; odpad lopatek (40–50 mil. t do 2050), betonové patky 4000 t/devastace půdy a spodních vod; blesky/požáry; úhyn netopýrů/ptáků; sociální rozpad venkova, „větrní baroni"/betonová lobby; podpora moratoria.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Nedělní vysílání (14. 6. 2026) {#ladislav-vrabel--nedělní-vysílání-14-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-14_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
