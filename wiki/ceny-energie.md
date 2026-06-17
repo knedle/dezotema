@@ -234,3 +234,15 @@ K jednání ČR v Bruselu o novém jaderném bloku a oznámení o prodloužení 
 Ke zprávě o krizi životních nákladů v EU (ceny nemovitostí +53 % v letech 2015–2024, 1,29 mil. lidí bez domova) Vrabel vykládá inflaci jako nástroj okrádání: vzniká snižováním úrokových sazeb a „tištěním" peněz přes půjčky; Babišovo napumpování peněz v covidu podle něj způsobilo pozdější „Fialovu" inflaci 18 %. Tvrdí, že kdo držel v roce 2021 milion v bance, má dnes poloviční hodnotu — proto radí investovat (nemovitosti, zlato, stříbro) místo držení hotovosti. Opakující se cyklus války–inflace–krize–růst přičítá „chazarským židům v bankách", kteří na válkách bohatnou.
 
 **Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+
+---
+
+### Místo OZE jádro 4. generace a fúze; „elektřina je ropa příštích 30 let" — Rajchl (12. 6. 2026)
+
+V závěru projevu na semináři „Příliš drahý vítr" (viz [vetrniky.md](vetrniky.md#seminář-příliš-drahý-vítr-green-deal-jako-ideologie-akcelerační-zóny-farizejství-ochránců--rajchl-12-6-2026)) Rajchl nabízí alternativu ke Green Dealu: kdyby peníze vložené do OZE-ideologie šly do jaderné energie a fúze, „jsme dneska daleko, daleko dál". Upozorňuje, že Čína, Rusko i USA už mají jaderné elektrárny **4. generace**, které umí jet na palivo, jež je odpadem z předchozích generací. Vyzývá k návratu od ideologie ke „zdravému rozumu": udržet fosilní zdroje a stávající energetický mix nastavený předchozí generací, který považuje za správný.
+
+Vize: ČR může mít v příštích 30 letech levnou stabilní elektřinu a „zbohatnout jak Katar", protože „elektřina je jednoznačně ropou příštích třiceti let". ČR byla druhým největším vývozcem elektřiny v Evropě, brzy se však stane dovozcem — tento trend chce zvrátit a vrátit zemi do pozice velmoci ve výrobě a exportu elektřiny. „Česká republika nepotřebuje solární a větrné elektrárny."
+
+> „Pojďme skutečně se vrátit od ideologie ke zdravému rozumu a pojďme financovat projekty, které mají smysl." — Jindřich Rajchl, [Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
+
+**Zdroje:** [Rajchl — Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)

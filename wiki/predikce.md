@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — „Elektřina je ropa příštích 30 let", ČR zchudne na dovozce (12. 6. 2026)
+
+**Předpověď:** Rajchl předpovídá, že ČR se z druhého největšího vývozce elektřiny v Evropě „brzy" stane dovozcem. Zároveň tvrdí, že při investici do jádra a fúze může země v příštích 30 letech získat levnou stabilní elektřinu a „zbohatnout jak Katar", protože elektřina bude komoditou srovnatelnou s ropou.
+
+> „Můžeme mít elektřinu v příštích třiceti letech zbohatnout jak Katar. Elektřina je jednoznačně ropou příštích třiceti let." — Jindřich Rajchl
+
+**Horizont:** „brzy" (dovoz) / 30 let (hodnota elektřiny)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
+
+---
+
 ### Ladislav Vrabel — Slovensko bude chtít jaderné zbraně od Francie (8. 6. 2026)
 
 **Předpověď:** Po vzoru ČR (kde Babiš přišel s nápadem mít jaderné zbraně) Vrabel očekává, že i Slovensko zažije „probuzení" premiéra a začne usilovat o jaderné zbraně od Francie.

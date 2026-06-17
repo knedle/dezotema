@@ -9,7 +9,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Téma | Co konkrétně zastává |
 |------|----------------------|
 | [Ceny energií](../ceny-energie.md) | Zdražování nafty, nesoulad s cenou barelu, kritika vlády za nečinnost, výzva k bojkotu čerpacích stanic |
-| [Větrné elektrárny](../vetrniky.md) | Veřejné projednání Radiopalác 15. 5.: Beranovi vypnutý mikrofon, EU směrnice RED 3 vs. praxe, výzva zahlcení MMR připomínkami; vláda ANO+Motoristé sobě navazuje na Fialovu politiku beze změny |
+| [Větrné elektrárny](../vetrniky.md) | Veřejné projednání Radiopalác 15. 5.: Beranovi vypnutý mikrofon, EU směrnice RED 3 vs. praxe, výzva zahlcení MMR připomínkami; vláda ANO+Motoristé sobě navazuje na Fialovu politiku beze změny; na svém kanálu sdílela Rajchlův úvodní projev semináře „Příliš drahý vítr" (12. 6.) — viz [Rajchl ve vetrniky.md](../vetrniky.md#seminář-příliš-drahý-vítr-green-deal-jako-ideologie-akcelerační-zóny-farizejství-ochránců--rajchl-12-6-2026) |
 | [FARA a neziskovky](../fara-neziskovky.md) | ANO nezjišťuje zahraniční financování neziskovek; Milion chvílek — hierarchie, skrytý účet, napojení na neziskový sektor |
 | [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe); VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku); svědectví amerického lékaře o absenci výuky bezpečnosti vakcín; virologie jako pseudověda — viry nikdy nebyly izolovány, experimenty se španělskou chřipkou (1918) neprokázaly přenos; NOS (Národní očkovací strategie) schválena neoprávněně vládou v demisi; WHO = soukromá organizace financovaná Gatesem; vakcíny způsobují autismus, ADHD, ekzémy, onko u dětí; „nátlaky jsou pro otroky"; léky na obezitu pro děti (Novo Nordisk/Wegovy, BlackRock) místo prevence (12. 6.) |
 | [Rodina a děti](../rodina-deti.md) | Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické |
@@ -42,6 +42,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Penelope Cimprichová | ✅ pozitivní | Zdravotní expertka upozorňující na rizika infrazvuku z větrníků — ignorována panelisty | 2026-05-15 | [Veřejné projednání (15. 5.)](../_zdroje.md#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026) |
 | Mikuláš Macinka | ❌ negativní | Ministr kultury — dle Tarabové si myslí, že „bude mít chleba namazaný po obou stranách" v otázce ČT; to nevyjde | 2026-05-20 | [ČT stávka (20. 5.)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026) |
 | Filip Turek | ⚖️ rozporuplný | MEP — obecně spojenec, ale kritizován za smíření se situací ČT; „myslí, že to projde" | 2026-05-20 | [ČT stávka (20. 5.)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026) |
+| Jindřich Rajchl | ✅ pozitivní | Na svém kanálu sdílela jeho projev proti větrníkům (seminář „Příliš drahý vítr") | 2026-06-12 | [Seminář Příliš drahý vítr](../_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026) |
 
 ---
 

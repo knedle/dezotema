@@ -36,7 +36,8 @@
       "Bash(Move-Item \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\2026-04-21_Československo-TV2_Videoportál.txt\" \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\prepisy\\\\done\\\\\")",
       "Bash(git commit *)",
       "Bash(Get-Content \"E:\\\\docker\\\\dezowiki\\\\wiki\\\\_zdroje.md\")",
-      "Bash(Measure-Object -Line)"
+      "Bash(Measure-Object -Line)",
+      "Bash(bash *)"
     ]
   }
 }

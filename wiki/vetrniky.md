@@ -36,6 +36,25 @@ Lhůta pro připomínky: 15 dnů do **1. 6. 2026**. Web pro vzory připomínek: 
 
 ---
 
+### Seminář „Příliš drahý vítr": Green Deal jako ideologie, akcelerační zóny, farizejství ochránců — Rajchl (12. 6. 2026)
+
+Rajchl úvodním projevem zahájil sněmovní seminář „Příliš drahý vítr – co vše se skrývá za projekty VTE a FVE". Rámcuje celé téma jako střet ideologie a zdravého rozumu:
+
+- **Green Deal = ideologie.** Odklon od OZE-hesel označuje za „absolutní odklon od zdravého rozumu" a „čistou ideologii", přičemž „ideologie vás vždycky stojí peníze". Tvrdí, že kdyby Čína a Rusko chtěly zničit Evropu, stačilo by jim podpořit Green Deal — zničí Evropu spolehlivěji a dříve než jakýkoliv válečný konflikt. Evropě podle něj klesá podíl na světovém HDP právě kvůli „hloupé politice bruselských sociálních inženýrů".
+- **Akcelerační zóny jako vydírání EU.** „EU fakticky vydírá členské státy jejich vlastními penězi" — vybere daně a vrátí je jen při splnění svých podmínek (nakreslení zón). ČR je na zóny nevhodná: husté zalidnění (těžko najít 10 km od obytné zóny), žádné moře pro offshore. Kritizuje „gleichschaltování" — jednotná pravidla bez ohledu na místní podmínky (analogie: lyžařská střediska nelze stavět v Maroku). Zóny na bonitní půdě 1.–2. třídy poblíž památek (Říp, Blaník) a obcí jsou „principiálně špatně". Sám by raději akceleroval stavbu dálnic a rychlostních železnic. Upřesňuje, že zóna je jen administrativní prvek pro zrychlené řízení — turbína může stát i mimo zónu a v zóně stát nemusí.
+- **OZE jako „slepá vývojová větev".** Poměr nákladů (výroba, instalace, škody na krajině, lidech i zvířatech) vůči přínosu je „zásadně negativní". Přejímá termín Ivana Noveského: nejde o „obnovitelné", ale „občasné" zdroje — nefouká a nesvítí pořád.
+- **Farizejství ochránců přírody.** Aktivisté, kteří jindy brání každý biotop, hladinu hluku po půlnoci i nenarušený výhled, najednou tolerují 40 Hz hluk v noci, úhyn ptáků a „250 metrová monstra, která budou hyzdit krajinu na desítky let". Rajchl: „To je farizejství, to je pokrytectví… jim jde jenom o tu ideologii" — o moc a peníze, ne o přírodu. Solární parky odmítá kvůli tepelným efektům zabíjejícím ptáky; doplňkové panely na střechách mu nevadí.
+
+Na veřejném projednání zón padla otázka, kdo z rozhodujících by chtěl větrník u svého domu — odpovědí bylo mlčení. Rajchl prosazuje místní referenda a uvádí, že další obec výstavbu jednoznačně odmítla. Odpoledne na semináři měla radit Jana Zvěřetek-Hamplová, jak se administrativně bránit.
+
+> „Ideologie vás vždycky stojí peníze. Vždycky." — Jindřich Rajchl, [Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
+
+> „Je to stejné jako vstupovat do KSČ v říjnu 1989. Úplně stejné." — Jindřich Rajchl o současné podpoře větrníků, [zdroj](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
+
+**Zdroje:** [Rajchl — Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
+
+---
+
 ## Technická a environmentální kritika
 
 ### Větrníky: 60 kg nanočástic, vibrace a degradace půdy — Vrabel (15. 5. 2026)
@@ -73,6 +92,20 @@ Rajchl ve videu 6. 5. 2026 upozorňuje na celosvětový obrat vůči větrné en
 - **ČR:** Rajchl + SPD pořádají veřejné slyšení **15. 5. 2026 v Radiopaláci** (Vinohradská, Praha), kde mohou místní komunity prezentovat dopady větrného byznysu
 
 **Zdroje:** [Rajchl — Větrné elektrárny: moratorium Francie, SPD boj v ČR, 6. 5. 2026](_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
+
+---
+
+### Trump, Španělsko blackout, Montpellier — Rajchl (12. 6. 2026)
+
+Na semináři „Příliš drahý vítr" Rajchl shrnul světový obrat vůči větrné energetice (rozšiřuje záznam z [6. 5. 2026](#francie-moratorium-na-větrné-elektrárny-montpellier-soud--rajchl-6-5-2026)):
+
+- **USA:** Donald Trump „velmi tvrdě" proti větrníkům — fakticky se ve Spojených státech žádné nové nestaví.
+- **Španělsko** se rok předtím pochlubilo, že je první zemí plně přešlou na obnovitelné zdroje (má rozlohu, moře, planiny). „Za pár měsíců přišel blackout. Masivní blackout." Rajchl to označuje za nevyhnutelný důsledek nestabilních zdrojů — nefouká a nesvítí pořád, proto nemohou tvořit základ energetického mixu.
+- **Francie:** parlament uvalil moratorium na nové onshore větrné elektrárny (staví se jen offshore). Soud v Montpellier nařídil rozmontovat celý park 9 turbín kvůli masivnímu úhynu ptáků včetně vzácného orla skalního a udělil pokutě 200 tisíc eur provozovateli.
+
+Rajchl: „Tohle je dnes stav v Evropě a my se do toho ženeme."
+
+**Zdroje:** [Rajchl — Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
 
 ---
 

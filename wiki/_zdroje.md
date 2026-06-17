@@ -2189,3 +2189,12 @@
 - **Délka:** 00:06:26 | „V Jevanech se otevřela dánská firma Novo Nordisk"
 - **Poznámka:** Kritika medikalizace dětské obezity (Novo Nordisk/Wegovy, dříve Novavax/COVID; BlackRock/Vanguard) místo prevence (kvalita potravin, sport, výchova).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Seminář „Příliš drahý vítr" (12. 6. 2026) {#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-12_Lenka-Tarabová_Videoportál_1.txt)
+- **Kanál:** sdíleno na kanálu Lenka Tarabová (Videoportál); mluvčí: **Jindřich Rajchl**
+- **URL:** <https://m.facebook.com/watch/?v=1371486638179741>
+- **Datum záznamu:** 2026-06-12
+- **Délka:** 00:14:37 | Úvodní projev Rajchla na sněmovním semináři „Příliš drahý vítr – co vše se skrývá za projekty VTE a FVE"
+- **Poznámka:** Green Deal jako ideologie/odklon od zdravého rozumu; akcelerační zóny (bonitní půda, Říp/Blaník, EU vydírání); OZE jako „slepá větev"/„občasné zdroje"; farizejství ochránců přírody; zahraniční obrat (Trump/USA, Španělsko blackout, Francie moratorium + soud Montpellier); řešení jádro 4. generace + fúze + energetický mix, „elektřina je ropa příštích 30 let".
+- **Zpracováno:** ano
