@@ -2306,3 +2306,12 @@
 - **Délka:** 00:04:06 | „Dnes mě na ulici zastavili dva Ukrajinci"
 - **Poznámka:** Rozdíl mezi Ukrajinci příchozími před 24. 2. 2022 (slušní pracující, váží si jich) a po válce (dávková turistika, kriminalita); návrh zrušit dávky i dočasnou ochranu (EU) a zavést automatické vyhoštění cizinců za trestný čin/násilný přestupek (vzor SAE).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (16. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-16-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-16_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1403300704986694>
+- **Datum záznamu:** 2026-06-16
+- **Délka:** 00:59:13 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** G7; Kallas — zákaz ruských umělců (Netrebko) a vojáků = nacismus (Charta OSN, Lavrov: VDL „Führer"); Británie financuje uran pro Ukrajinu (210 mil £) + sankce na stínovou flotilu/Yandex; Írán memorandum (60–90 dní, garanti Rusko/Čína, ~10 % aktiv, Izrael/Libanon překážka); Kushner/Witkoff do Moskvy („spirit of Anchorage"), Trump nechce vyjednávat „za Ukrajinu"; VDL: Ukrajina do EU hotová věc; Zelenskyj pozval Putina/Putin odmítl (neústavní → podpis problém), Schröder odmítnut; Británie — Liz Truss (migrace jako zbraň), Tommy Robinson, policejní brutalita → občanská válka; tanky D35; Luftwaffe (Neumann) připraven na Rusko (Kaliningrad/Petrohrad).
+- **Zpracováno:** ano

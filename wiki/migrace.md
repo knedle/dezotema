@@ -264,3 +264,11 @@ Rajchl vypráví, že ho na ulici zastavili dva Ukrajinci a poděkovali mu, že 
 Navazuje na [Zveřejňování státní příslušnosti + automatické vyhoštění (Rajchl, 10. 6.)](#zveřejňování-státní-příslušnosti-pachatelů--automatické-vyhoštění-cizinců-rajchl-10-6-2026) a [Podvody s humanitárními dávkami (13. 6.)](#podvody-s-humanitárními-dávkami--dezinformace-která-se-stala-pravdou-rajchl-13-6-2026).
 
 **Zdroje:** [Rajchl — Videoportál: Ukrajinci před/po válce, 16. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ukrajinci-před-po-válce-16-6-2026)
+
+---
+
+### Británie: Liz Truss („migrace jako zbraň"), Tommy Robinson a policejní brutalita — Vrabel (16. 6. 2026)
+
+Vrabel cituje bývalou britskou premiérku **Liz Truss**, která prý otevřeně obvinila „globalistické elity", že využívají masovou migraci jako zbraň k oslabení národních států a zničení západní civilizace zevnitř; instituce řízené „levicovou ideologií" potlačují diskusi o roli migrace v růstu kriminality a umlčují ty, kdo na to upozorňují. Připomíná opakované zatýkání aktivisty **Tommyho Robinsona** (i historku, kdy byl zatčen on, nikoli odsouzení pachatelé groomingu) a pouští videa britské **policejní brutality** (vlečení plačícího pětiletého dítěte do auta při zatýkání otce, výhrůžky slzným plynem matce s miminkem; demonstrant sražený o ocelovou tyč). Paralelu vidí v ČR (vlastní zkušenost z demonstrace — policie pustila ukrajinského útočníka a zatkla jeho). Cituje Trumpa („Evropa páchá sebevraždu") a opakuje tezi, že jediná ochrana ČR je odstřižení od EU; varuje před občanskou válkou a vyzývá k protestům „dokud je čas".
+
+**Zdroje:** [Vrabel — Zprávy v devět 16. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)

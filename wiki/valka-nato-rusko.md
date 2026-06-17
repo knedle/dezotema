@@ -380,6 +380,19 @@ K týdnu navíc: Ukrajina otestovala ~10 **dronů řízených výhradně umělou
 
 ---
 
+### G7: zákaz ruských umělců „jako nacismus", Británie financuje Ukrajinu, mírové procesy a Luftwaffe — Vrabel (16. 6. 2026)
+
+Ze summitu G7 Vrabel propojuje několik bloků:
+
+- **Zákaz ruských umělců = nacismus.** Kaja Kallas na dotaz ukrajinské novinářky (kvůli vyprodanému koncertu Anny Netrebko v Lucemburku) připustila zařazení ruských umělců do dalších sankcí a oznámila zákaz vstupu do EU pro ty, kdo bojovali v ruské armádě (SVO). Vrabel obojí označuje za nacismus (posuzování člověka podle národnosti) v rozporu s Chartou OSN (právo na jazyk/kulturu) — připomíná, že Ukrajina sama zakazuje ruskou kulturu (Lavrov: VDL = „Führer"). Zákaz vstupu vojáků, kteří byli mobilizováni ze zákona (ne žoldáci), je dle něj proti mezinárodnímu právu.
+- **Británie financuje Ukrajinu + sankce.** UK přes Export Finance vyčlení 210 mil. £ na dodávky obohaceného uranu pro ukrajinský Energoatom (2 roky) a zavádí sankce na ruskou „stínovou flotilu" LPG a firmy Yandex/Wildberries. Vrabel: EU/UK/Babiš financují Ukrajinu „z našich kapes"; sankce jsou jen rozhodnutí neobchodovat (ironicky navrhuje „dát sankce Německu" za nezaplacené reparace).
+- **Mírové procesy a postoj Trumpa.** K Ukrajině míří Jared Kushner a Steve Witkoff do Moskvy za Lavrovem — má se navázat na „spirit of Anchorage" (dohodu Trump–Putin, kterou prý po návratu Trumpa „rozmluvili"). Trump podle Vrabela nechce vyjednávat „za Ukrajinu" (Macron/EU ho do toho tlačí), protože strategicky nechce, aby se Rusko a Čína spojily — usiluje o neútočení a obchodní vztahy s Ruskem (tunel Kamčatka–Aljaška). VDL prohlásila vstup Ukrajiny do EU za „hotovou věc". Zelenskyj pozval Putina na G7; Putin odmítl — jednat je ochoten jen při předem dojednaných konečných podmínkách, nebo ať Zelenskyj přijede do Moskvy (navíc Zelenskyj není dle ústavy právoplatný prezident → problém s podpisem). Schrödera jako vyjednavače EU odmítá, ač mu Putin věří. Viz [Írán memorandum (blizky-vychod.md)](blizky-vychod.md#írán-memorandum-podepsáno-14-6-hormuz-otevřen-19-6-netanjahu-nespokojen--vrabel-15-6-2026).
+- **Luftwaffe „připraven".** Velitel německého letectva Holger Neumann pro The Telegraph: Německo je připraveno bojovat proti Rusku „ještě dnes večer", jako primární cíle vyjmenoval Kaliningrad, Petrohrad, Kolský poloostrov a Černé moře.
+
+**Zdroje:** [Vrabel — Zprávy v devět 16. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
+
+---
+
 ### Ukrajina jako fašistický stát z definice — Vrabel (1. 5. 2026)
 
 Vrabel v komentáři k prvomájovému průvodu „proti fašismu v parlamentu" v Praze přečetl akademickou definici fašismu a bod po bodu ji aplikoval na Ukrajinu. Výsledek: Ukrajina je dle Vrabela „naprosto fašistický režim z definice":
