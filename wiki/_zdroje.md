@@ -2190,6 +2190,15 @@
 - **Poznámka:** Kritika medikalizace dětské obezity (Novo Nordisk/Wegovy, dříve Novavax/COVID; BlackRock/Vanguard) místo prevence (kvalita potravin, sport, výchova).
 - **Zpracováno:** ano
 
+## Československo TV2 — Füllmich živě z vězení (12. 6. 2026) {#československo-tv2--füllmich-živě-z-vězení-12-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-12_Československo-TV2_Videoportál.txt)
+- **Kanál:** Pavel Zítko (Československo TV2); přebíraný přenos Bytel TV
+- **URL:** <https://m.facebook.com/watch/?v=1529400958644715>
+- **Datum záznamu:** 2026-06-12
+- **Délka:** 01:30:22 | Přenos rozhovoru s Reinerem Füllmichem z věznice (Bytel TV) + závěrečný komentář Zítka
+- **Poznámka:** Füllmich politický vězeň (únos z Mexika, soudy = korporace, COVID = biozbraň/Norimberský kodex, propuštění čekáno do 12. 9.); vlastizrada 1992 (Havel/Klaus/Mečiar, Stráský nulitní podpis, zákon 11/1918); QFS, rodný list jako cenný papír, triumvirát Vatikán/City of London/Washington, aliance Trump/Putin/Xi/Modi/Bin Salmán, 14. 6./4. 7.; perzekuce Bytel TV (22 kanálů, 4 účty); covid mafie před vojenský tribunál; křest knihy Peterkové „Já dezinformátorka".
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Seminář „Příliš drahý vítr" (12. 6. 2026) {#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-12_Lenka-Tarabová_Videoportál_1.txt)
 - **Kanál:** sdíleno na kanálu Lenka Tarabová (Videoportál); mluvčí: **Jindřich Rajchl**

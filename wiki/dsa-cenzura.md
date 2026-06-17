@@ -62,6 +62,14 @@ Jiří Černohorský popisuje, že mu byly smazány všechny facebookové profil
 
 ---
 
+### Bytel TV: 22 zrušených YouTube kanálů a 4 zablokované účty (Zítko, 12. 6. 2026)
+
+Zítko na příkladu švýcarského provozovatele **Bytel TV** dokumentuje plošnou perzekuci alternativních médií: za 5 let a ~4 000 vysílání mu prý úřady/platformy zrušily 22 YouTube kanálů a zablokovaly 4 bankovní účty. Zítko k tomu dodává, že sám má na Facebooku „možná ještě o pár víc" smazaných kanálů. Označuje to za útok na svobodu slova v rozporu s čl. 17 Listiny základních práv a svobod — totožný „v Německu, ve Švýcarsku i v Československu" — a vyzývá lidi, aby přestali respektovat „protiprávně instalované korporace". Připomíná, že „pravda je jako voda, vždycky si cestu najde".
+
+**Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+
+---
+
 ## COVID rozsudky: odsouzení za varování
 
 ### Konkrétní případy odsouzených za covidové výroky

@@ -499,6 +499,19 @@ Ve vysílání k „portálu 6.6./11:11" Zítko zopakoval své dlouhodobé teze 
 
 **Zdroje:** [ČsTV2 — Portál 11:11: Vlastizrada od 1989, 7. 6. 2026](_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)
 
+---
+
+### Rozdělení ČSFR jako nulitní akt + „velká aliance" čistí Deep State (Zítko, 12. 6. 2026)
+
+V komentáři k Füllmichovu přenosu Zítko zopakoval dva pilíře svého výkladu s několika právními „detaily":
+
+- **Vlastizrada 1992:** rozdělení Československa označuje za nepromlčitelnou vlastizradu „tria pachatelů" Havel–Klaus–Mečiar bez referenda. Argumentuje, že zákon o zániku federace (25. 11. 1992) podepsal premiér Jan Stráský, který od října vládl bez důvěry a nemohl vykonávat pravomoci prezidenta — podpis je proto dle Zítka „nulitní". Federace ČSFR navíc vznikla až 23. 4. 1990 „po pomlčkové válce", zatímco původní stát založený **zákonem č. 11/1918** dle něj nepřetržitě trvá (přežil i protektorát). Občané se mohou „vrátit domů" v rámci práva národa na sebeurčení.
+- **„Velká aliance" vs. Deep State:** triumvirát Vatikán / City of London (finance) / Washington DC (světový policajt) měl za Obamy, Bushe a Clintona na svědomí 11 milionů mrtvých. Deep State teď čistí „velká aliance" Trump–Putin–Xi–Modi–Bin Salmán. Zítko očekává „odtajnění" kolem **14. 6.** (UFC v jižním křídle Bílého domu, narozeniny Trumpa) a **4. 7.** (250 let Deklarace nezávislosti); USA prý vznikly jako první korporace „USA Incorporation" v roce 1871. Opakuje i tezi o rodném listu jako cenném papíru obchodovaném na americké burze a o kvantovém finančním systému (QFS), který má aktiva „vrátit lidem".
+
+Podrobnosti viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Rodný list jako obchodní papír](#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) a [Trump, Putin a Xi jako aliance](#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh).
+
+**Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+
 ## Elity a plánování dezinformací skrze popkulturu
 
 ### Filmy jako záměrné odhalení plánů

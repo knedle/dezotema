@@ -146,6 +146,23 @@ Soňa Peková a Pavel Zítko jsou trestně stíháni za „šíření poplašné
 
 ---
 
+### Reiner Füllmich — uvěznění šéfa Corona-Ausschuss jako politický proces (Zítko, 12. 6. 2026)
+
+Zítko přenesl na svém kanálu (ze studia Bytel TV) první živý rozhovor s německým právníkem **Reinerem Füllmichem** od jeho zadržení 13. října 2023. Füllmich, zakladatel vyšetřovacího výboru Corona-Ausschuss, je dle Zítka vězněn ve věznici Bremervörde už 2,5 roku jako politický vězeň. Zítko a Füllmich popisují případ takto:
+
+- **„Fejkový únos z Mexika":** německá tajná služba měla Füllmicha vylákat na ambasádu v Mexiku pod záminkou a letadlem deportovat do Frankfurtu — Füllmich to označuje za operaci „Deep State", nikoli řádný úřední postup.
+- **Vykonstruované obvinění:** formálně byl obviněn z ekonomického trestného činu (převod peněz z veřeřejného fondu do nemovitostí). Füllmich tvrdí, že všichni v procesu vypovídali křivě a že „soudy v Německu nejsou státní, jsou to jen korporace" (admiralty law).
+- **Motiv — umlčení:** skutečným důvodem má být to, že inicioval nezávislé vyšetřování zločinů COVID-19; Füllmich opakuje, že „COVID-19 byl útok biologickou zbraní" a celý postup je porušením Norimberského kodexu.
+- **Podpora a výhled:** případ se dle Zítka dostal i na americké ministerstvo spravedlnosti (87stránkový dokument, návštěva zástupce ministra zdravotnictví Kennedyho); Sonja Peková Füllmicha ve vězení navštívila. Nejzazší termín propuštění je 12. září 2026, ale Zítko věří, že vyjde do prázdnin.
+
+Füllmich popsal i vězeňský režim a tvrdí, že vyšetřovací vazba je „brutálně zneužívána k umlčování lidí" (jmenuje i Michaela Ballwega, organizátora protikoronových demonstrací v Německu).
+
+> „Můj případ je jednoznačně politický proces. […] Připravil jsem se na 5 hodin, zredukovali mi čas na 20 minut s cílem mě demotivovat." — Reiner Füllmich (tlumočeno), [Füllmich živě z vězení 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+
+**Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+
+---
+
 ## Prezident Petr Pavel — hodnocení Jiřím Černohorským
 
 ### Petr Pavel jako „velezrádce" s komunistickou minulostí
