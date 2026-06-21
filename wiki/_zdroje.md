@@ -2352,3 +2352,12 @@
 - **Délka:** 00:21:08 | Sněmovní seminář „Příliš drahý vítr" — vliv VTE na zdraví těhotných a plodu
 - **Poznámka:** Vadné hodnocení dopadů VTE (akce MMR 15. 5.: 3měsíční biologické hodnocení, jedna modelová studie, jediný uznaný účinek nespavost); PFAS „věčné chemikálie" na vrtulích a jejich spad (štítná žláza, játra/ledviny, rakovina, střeva); dopady na těhotné a plod (potraty, hypertenze, nižší porodní váha, plodnost, „nefungují očkovací látky", přechod do mléka); infrazvuk a kortizol (274× studie); návrhy (stop VTE, §156 TZ, zrušit nadbytečné turbíny 220 vs 140, nezačít s prodejem ČEZ, zařadit prof. Turánka, porodnost 2025 nejnižší od 1785).
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (záznam): covid Fierst vs. Hořejší (17. 6. 2026) {#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-17_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1068328982385019>
+- **Datum záznamu:** 2026-06-17
+- **Délka:** 01:26:56 | Záznam (FB zablokoval živé vysílání)
+- **Poznámka:** FB zablokoval živé vysílání na 3 kanálech („kyberšikana" za fotku z UFC Freedom 250 s Trumpem) = cenzura; rozbor článku Tomáše Fiersta „jak bys řešil covid" (reakce na Václava Hořejšího) + Zítkovy dodatky (PCR 86 % falešně poz., ivermectin/hydroxychlorochin zatajovány, biolaboratoře, šarže E/22R–Z, Remdesivir, vystoupení z WHO); ČT porušuje zákon od 12. 3. 2020 → vracení poplatků, Smrš odmítl Zítka do Máte slovo; opakovaná výzva k vojenskému tribunálu Norimberg 2.0 (stoch. teror). Cizí sdílené texty „20 pravidel přežití" a „10 zákonů frekvence" nezpracovány.
+- **Zpracováno:** ano

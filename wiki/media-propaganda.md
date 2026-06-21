@@ -280,6 +280,14 @@ Výměna eskalovala: referentka odpovídala formulářovými dopisy, které dle 
 
 ---
 
+### Facebook zablokoval živé vysílání ČsTV2 — „kyberšikana" kvůli fotce z UFC (Zítko, 17. 6. 2026)
+
+Dne 17. 6. 2026 Facebook znemožnil Zítkovi spustit živé vysílání („Tento uživatel nemůže vytvořit živé vysílání") — a totéž na kanálech Československo TV2 i Československo 2020. Jako důvod uvádí údajnou „kyberšikanu" a porušení pravidel komunity za zveřejnění fotky z akce UFC Freedom 250 s Donaldem Trumpem. Zítko proto plánované téma (covidová polemika Fierst vs. Hořejší) odvysílal jen jako záznam. Označuje to za přímou cenzuru a ironicky se ptá, co na to „spolek pro obranu svobody projevu Daniela Vávry". Navazuje na [Facebook omezuje dosah ČsTV2 (7. 5.)](#facebook-omezuje-dosah-čstv2-7-5-2026).
+
+**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026)
+
+---
+
 ## Blokace zahraničních médií v ČR
 
 ### RT.com a Sputnik blokovány českými poskytovateli internetu — Vrabel (3. 5. 2026)
