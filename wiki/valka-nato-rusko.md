@@ -72,11 +72,17 @@ Vrabel zdůrazňuje: útoky z ukrajinskéhoúzemí neprovádí ukrajinskí vojá
 
 ---
 
-### Žádný soud nerozhodl, že Krym je ruský — oprava „vlastenecké" dezinformace (Vrabel, 18. 6. 2026)
+### ⚡ Konflikt: Haagský rozhodčí rozsudek o Krymu (15. 6. 2026) — Vrabel vs. Zítko
 
-Vrabel vyvrací zprávu kolující mezi „vlastenci", že rozhodčí soud v Haagu prý rozhodl, že Krym patří Rusku. Vysvětluje rozdíl mezi **rozhodčím soudem** (jurisdikci má jen takovou, jaká mu je smluvně svěřena) a mezinárodním soudem. Šlo o spor z bilaterální smlouvy Rusko–Ukrajina o užívání Kerčského mostu a okolních vod (rozsudek ~480 stran); Ukrajina uspěla jen v jediném bodě (Rusko nedodalo všechny zprávy dle směrnice o životním prostředí), v ostatních nárocích neuspěla. Soud výslovně konstatoval, že nemá jurisdikci rozhodovat o tom, komu Krym patří. Vrabel kritizuje, že „vlastenci" nekriticky lajkují nepravdy: „žádný soud nerozhodl, že Krym je ruský".
+Stejnou událost — rozsudek rozhodčího soudu v Haagu (15. 6. 2026) ve sporu Rusko–Ukrajina o Kerčský průliv a vody kolem Krymu — vyložili dva sledovaní mluvčí **protichůdně**.
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+**Vrabel (18. 6.):** vyvrací zprávu kolující mezi „vlastenci", že soud prý rozhodl, že Krym patří Rusku. Vysvětluje rozdíl mezi **rozhodčím soudem** (jurisdikci má jen takovou, jaká mu je smluvně svěřena) a mezinárodním soudem. Šlo o spor z bilaterální smlouvy o užívání Kerčského mostu a okolních vod (rozsudek ~480 stran); Ukrajina uspěla jen v jediném bodě (Rusko nedodalo všechny zprávy dle směrnice o životním prostředí), v ostatních nárocích neuspěla. Soud podle něj výslovně konstatoval, že **nemá jurisdikci** rozhodovat o tom, komu Krym patří: „žádný soud nerozhodl, že Krym je ruský".
+
+**Zítko / ČsTV2 (18. 6. večer):** tentýž rozsudek prezentuje jako „právní knockout" a velkou porážku Ukrajiny i Západu. Tvrdí, že panel pěti rozhodců (Alžírsko, UK, Mexiko, Rusko, Korea) po 10 letech (2016–2026) jednomyslně rozhodl ve prospěch Ruska: zamítl ukrajinské nároky na zdroje vod Krymu a Azovu, reparace, mezinárodní status Kerčského průlivu pro vojenské lodě i demontáž Krymského mostu a uznal **Azovské moře za vnitřní vody Ruska** (most i inspekce plavidel legální). Doplňuje, že dle čl. 106–107 Charty OSN je Rusko jako nástupnický stát SSSR oprávněno „zasáhnout proti nacismu kdekoli". Západní média podle něj o rozsudku mlčí.
+
+Jádro sporu: zda rozsudek čehokoli „rozhodl o příslušnosti Krymu" (Zítko: ano, ve prospěch Ruska) nebo šlo jen o dílčí námořní spor bez jurisdikce nad svrchovaností (Vrabel).
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [ČsTV2 — Večerní zprávy: haagský rozsudek o Krymu, 18. 6. 2026](_zdroje.md#československo-tv2--večerní-zprávy-haagský-rozsudek-o-krymu-18-6-2026)
 
 ---
 

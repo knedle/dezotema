@@ -2398,3 +2398,12 @@
 - **Délka:** 01:01:53 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** EU–Rusko jedná Costa na vlastní pěst (spor o vyjednavače); Ramstein 2,5–4 mld $ + summit NATO 70 mld + NATO 3.0 + 2 % HDP odvádění pozornosti + letiště Karlovy Vary/SPD militarizace; Hormuz cyklus mír→ceny ropy→zisk, Írán znovu uzavřel (IRGC vs MZV), Izrael–Hezballáh příměří (Reuters); AFD Meister pobodán = „stochastický terorismus" médií + štvaní proti Vrabelovi; Florida/islám + migrační pakt závazný v ČR; Británie grooming (Rupert Lowe, 250 tis. dívek); EU rozpočet 28–34 škrty pro ČR (~250 mld); Zelenský náborová propaganda (Bandera tričko) + Navrocki odebral řád, kdy ČR řád Bílého lva (Zeman); Zelenský vyhrožuje Bělorusku, vstup Ukrajiny do NATO = válka; „demokracie = vláda elit".
 - **Zpracováno:** ano
+
+## Československo TV2 — Večerní zprávy: haagský rozsudek o Krymu (18. 6. 2026) {#československo-tv2--večerní-zprávy-haagský-rozsudek-o-krymu-18-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-19_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=2003104563744970>
+- **Datum záznamu:** 2026-06-19 (večerní zprávy z 18. 6. 2026)
+- **Délka:** 01:25:10 | První večerní zprávy na náhradním profilu Pavel Zítko
+- **Poznámka:** Zpracován pouze **haagský arbitrážní rozsudek o Krymu** (15. 6.) — Zítko jej prezentuje jako vítězství Ruska („právní knockout", Azovské moře = vnitřní vody RF, zamítnuty ukr. nároky) → ⚡ konflikt s Vrabelovým výkladem (valka-nato-rusko.md). Zbytek videa (FB blokace, COVID biozbraň/tribunál, ČSR/Versailles/reparace/QAnon, Írán memorandum QAnon spin, spirituální texty Poláková/Aboličeno, pozvánky) = recap/logistika, nezpracováno.
+- **Zpracováno:** ano (částečně — viz poznámka)
