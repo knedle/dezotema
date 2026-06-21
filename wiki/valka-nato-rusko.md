@@ -1128,6 +1128,10 @@ Rajchl oceňuje okamžitou reakci polského prezidenta Nawrockého, který navrh
 
 > „Kde jste teď? Kde jste teď? Vážení přátelé z médií, vím moc dobře, že se na tohle díváte. Proč nenapíšete férově, že jsme měli pravdu?" — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
+Téma znovu otevřel **7. 6. 2026**: UPA označil za „čisté nacisty" (masakry žen a dětí, okupace části Slovenska do roku 1947), kontrastoval shodu napříč polským spektrem (Tusk i Nawrocki) s tím, že v ČR „všichni zbaběle mlčí", a připomněl korupci v Zelenského okolí (v Polsku zadržen bývalý náměstek ministra vnitra Bedrinsky za úplatek).
+
+**Zdroje:** [Rajchl — Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026), [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+
 ---
 
 ### Tři fáze konfliktu Západ–Rusko: od Majdanu k terorismu na ruském území (Vrabel, 31. 5. 2026)
@@ -1205,14 +1209,6 @@ Vrabel se vrací k útoku na studentskou kolej ve Starobělsku (21 zabitých stu
 Vrabel z toho vyvozuje přímou spoluzodpovědnost ČR: premiér Babiš v prosinci schválil 90 miliard EUR pro Ukrajinu (30 % na chod státu, 60 % na výrobu zbraní); „my mu platíme jeho plat", financujeme drony, které dopadly na kolej. „Máme parlamentní demokracii a zvolili jsme si Andreje Babiše" — proto jsou občané ČR spoluzodpovědní i za to, co přijde.
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
-
----
-
-### Zelenský pojmenoval jednotku po UPA = adorace neonacismu; ČR mlčí, Polsko reaguje (Rajchl, 7. 6. 2026)
-
-Rajchl ostře odsuzuje, že Volodymyr Zelenský pojmenoval vojenskou jednotku po UPA (Ukrajinská povstalecká armáda — podle Rajchla „čistí nacisté", podíleli se na masakrech žen a dětí, okupovali část Slovenska do roku 1947). Označuje to za otevřenou „adoraci ukrajinského neonacismu". Kontrast: v Polsku reaguje napříč spektrem (Tusk i Nawrocki) — návrh odebrat Zelenskému řád Bílé orlice; v ČR „všichni zbaběle mlčí". Rajchl navrhuje, aby byl Zelenský alespoň morálně odsouzen a aby mu byl odebrán řád Bílého lva — „člověk, který adoruje nacismus, si řád Bílého lva nezaslouží". Připomíná i korupci v Zelenského okolí (v Polsku zadržen bývalý náměstek ministra vnitra Bedrinsky za úplatek). Navazuje na [výzvu Pavlovi k odebrání řádu (31. 5.)](benesovy-dekrety.md#sjezd-sdl-v-brně-jako-historický-zlom--příští-sjezd-liberec-2027-24-5-2026) a Vrabelovu výzvu Zemanovi.
-
-**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
 
 ---
 
