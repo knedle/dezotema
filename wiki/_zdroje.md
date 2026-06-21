@@ -2389,3 +2389,12 @@
 - **Délka:** 00:16:54 | Sněmovní seminář „Příliš drahý vítr" — akcelerační oblasti, Ralsko
 - **Poznámka:** Netransparentnost akceleračních oblastí (nikdo nevěděl do října 2025, investor ČEZ se nedostavil na 7 debat, Ralsko 16–25 turbín); srovnání se severskými zeměmi (mimo obydlí/na moře, max 70–110 m, EIA vs. SEA, veřejná participace); ČR staví na Natura 2000 / CHOPAV / EVL Ralsko / orné půdě / biokoridorech (porušení RED3), neřeší uhlíkovou stopu ani kumulativní vlivy; FVE na orné půdě (Vepřek, Kuří Vody) + vliv na lokální klima (Liberecký kraj −150 mm srážek/10 let), bateriová úložiště = další zábory.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (19. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-19-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-19_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/36309977175283722>
+- **Datum záznamu:** 2026-06-19
+- **Délka:** 01:01:53 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** EU–Rusko jedná Costa na vlastní pěst (spor o vyjednavače); Ramstein 2,5–4 mld $ + summit NATO 70 mld + NATO 3.0 + 2 % HDP odvádění pozornosti + letiště Karlovy Vary/SPD militarizace; Hormuz cyklus mír→ceny ropy→zisk, Írán znovu uzavřel (IRGC vs MZV), Izrael–Hezballáh příměří (Reuters); AFD Meister pobodán = „stochastický terorismus" médií + štvaní proti Vrabelovi; Florida/islám + migrační pakt závazný v ČR; Británie grooming (Rupert Lowe, 250 tis. dívek); EU rozpočet 28–34 škrty pro ČR (~250 mld); Zelenský náborová propaganda (Bandera tričko) + Navrocki odebral řád, kdy ČR řád Bílého lva (Zeman); Zelenský vyhrožuje Bělorusku, vstup Ukrajiny do NATO = válka; „demokracie = vláda elit".
+- **Zpracováno:** ano

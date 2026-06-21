@@ -731,3 +731,9 @@ Ke stanovisku Národní rozpočtové rady (schodek 2027 může přesáhnout 350 
 Vrabel upozorňuje na případ, kdy německá policie zmlátila a zadržela Poláky, kteří se chtěli pomodlit a zanechat kříž na hřbitově v Berlíně (vyvolalo reakce v Polsku i Německu). Zasazuje to do vzorce, kterého si všímá „poslední týdny": výrazně zvýšená policejní brutalita na Západě — vedle Německa i v Británii a u propalestinských demonstrací proti izraelským útokům na Gazu. Vyvozuje, že „globalistický Západ" dává policii pokyn být brutální.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+
+### „Demokracie = vláda elit, ne lidu" — Vrabel (19. 6. 2026)
+
+V úvaze nad Trumpovým výrokem „moje moc je neomezená" Vrabel rozvíjí tezi, že západní země mají „plnou pusu demokracie" (řecky demos kratos = vláda lidu), ale ve skutečnosti jde o vládu elit: lidé se na vládě nepodílejí, jejich jediný vstup jsou volby (kde volí podle slibů). Elity podle něj o demokracii mluví právě proto, aby se nestalo to, čeho se bojí — že lidem „dojde trpělivost" jako za francouzské revoluce a převezmou moc. „Lidové soudy" dnes nelze ani navrhnout, aniž by to bylo označeno za útok na stát; soudy jsou „nezávislé na právu" a rozhodují ve prospěch režimu. Trumpovo počínání bere jako ukázku, že na Západě „vláda lidu vůbec není".
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)

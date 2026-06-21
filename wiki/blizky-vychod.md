@@ -344,3 +344,11 @@ Po výrocích Kaji Kallas přirovnávajících izraelské zacházení s Palestin
 Íránský parlamentní předseda Ghalibaf potvrdil, že Írán bude vybírat poplatky za průjezd Hormuzským průlivem — což Vrabel předpovídal (a Macron tvrdil opak). Trump zároveň stáhl požadavek, aby se Írán vzdal balistických raket (silný konvenční odstrašující prostředek prý snižuje potřebu jaderného). Írán nepovažuje mír za uzavřený, dokud Izrael neopustí Libanon; Netanjahu odmítá stáhnout vojska z jižního Libanonu. Vrabel shrnuje tři neprotínající se pozice: Írán (zmrazená aktiva, konec sankcí, volný obchod, poplatky, odchod USA z BV, konec války v Libanonu/Gaze) × USA (Írán bez suverenity a obohacování uranu, poplatky pro USA) × Izrael (likvidace íránského režimu, pokračování války) — jediný společný bod je otevřený Hormuz kvůli penězům; Izrael je „rušivý element", který nechce konec konfliktu.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+
+---
+
+### Hormuz: opakovaný cyklus „mír → pokles cen ropy → zisk"; Írán znovu uzavřel po útocích na Libanon (Vrabel, 19. 6. 2026)
+
+Vrabel popisuje opakující se schéma kolem Hormuzu (v průlivu ~600 lodí, riziko kolizí a min): „už po 38." Trump oznámí mír a otevření průlivu → spadnou ceny ropy; když pak Rubio oznámil, že J. D. Vance nakonec nepoletí na podpis, začaly padat akcie, krypto, zlato i stříbro. Vrabel z toho dovozuje, že Trump a jeho okruh „zase vydělali pár set miliard". Mezitím íránské revoluční gardy (IRGC) oznámily opětovné uzavření Hormuzu po více než 100 izraelských útocích na Libanon — íránské ministerstvo zahraničí (Baghaí) to ale popřelo a deklarovalo, že průliv zůstává průjezdný (25 lodí za den) v souladu s memorandem. Vrabel: Írán není jednotný (IRGC vs. vláda); očekává spíše vleklý konflikt do podzimních primárek v USA, ne rychlé řešení. Agentura Reuters mezitím oznámila příměří Izrael–Hezballáh „podle nejmenovaného zdroje" — Vrabel ironizuje její důvěryhodnost a radí počkat, zda příměří vydrží aspoň týden (poslední 3,5 měsíce se „příměří" objevuje každý pátek a v sobotu se zase bombarduje).
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)

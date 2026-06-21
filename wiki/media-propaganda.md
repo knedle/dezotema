@@ -393,3 +393,11 @@ Tvrdí, že ČT dnes „vysílá jenom pro úzkou skupinku euroliberálních ove
 Tarabová tvrdí, že nikdy nezažila ve společnosti tolik nenávisti — a že je „uměle vytvořená" rozdělením lidí do znepřátelených skupin, kde jedna druhou „bytostně nenávidí". Vinu klade i na anonymitu sociálních sítí: pod věcným příspěvkem (např. o vizi strany PRO) se místo diskuse o obsahu objevují „jen urážky, lži, dehonestace a vulgarity", často od stále stejných lidí. Vyzývá k návratu „lidství" a vzájemnému respektu — „nemusíme se milovat, ale je potřeba se respektovat"; každý ať si „miluje Danuši Nerudovou", ale neupírá jí, že důvěřuje Jindřichu Rajchlovi.
 
 **Zdroje:** [Tarabová — Rozhovor pro TV Česko: prezidentský úřad, 15. 6. 2026](_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
+
+---
+
+### Média jako „stochastický terorismus": pobodání poslance AFD a štvaní proti Vrabelovi (19. 6. 2026)
+
+K pobodání poslance AFD Michaela Meistera před jeho domem Vrabel přímo používá termín **stochastický terorismus**: média a „levičáci" podle něj nálepkováním politiků jako „fašoun/nácek" z nich dělají „legitimní cíl útoku" pro nepříčetné stoupence, přičemž si zachovávají popiratelnost. Vztahuje to na sebe: v roce 2023 ho Ukrajinec s přítelkyní polil (žluto-modrou) barvou, policie a úřady byly nečinné (Aliance národních sil podala TO), ministerstvo vnitra ho údajně zařadilo do „naming and shaming" skupiny — Vrabel proto očekává jako „další krok" útok nožem a chodí s ochrankou. Mediální štvaní (jmenuje ČT, Novinky) označuje za cílenou likvidaci, která „by měla být trestná"; srovnává s útoky na Fica, Trumpa a smrtí místopředsedy u Tommyho Robinsona. (Jde o Vrabelův popis jevu, nikoli jeho vlastní výrok stochastického teroru.)
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)
