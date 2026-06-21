@@ -112,6 +112,22 @@ MUDr. Vladimír Zlínský (otorinolaryngolog, bývalý poslanec) navázal na Tur
 
 ---
 
+### PFAS na vrtulích, infrazvuk a kortizol: dopady na těhotné a plod — Cimprichová (seminář, sdíleno 17. 6. 2026)
+
+Ing. Mgr. Pynelopi Cimprichová (s praxí na ministerstvu) přednesla na sněmovním semináři „Příliš drahý vítr" prezentaci o dopadech větrných elektráren na zdraví těhotných a plodu. Navazuje na [Turánka](#odborná-přednáška-pulzní-infrazvuk-eroze-lopatek-devastace-půdy-a-rozpad-venkova--turánek-seminář-sdíleno-14-6-2026) a [Zlínského](#lékařská-přednáška-jak-pulzní-infrazvuk-poškozuje-tělo-a-princip-předběžné-opatrnosti--zlínský-seminář-sdíleno-15-6-2026).
+
+- **Vadné hodnocení dopadů VTE (akce MMR 15. 5., Radiopalác):** biologické hodnocení trvalo jen 3 měsíce (8.–10. měsíc 2025, místo min. celého roku + roku poté), geologický průzkum jen v lednu; na zdraví byla použita jediná „modelová studie" (přestože existují stovky klinických); jediný uznaný nežádoucí účinek = nespavost (úředník poradil „vezměte si tabletku"); nehodnotila se kumulace (případ ženy se třemi turbínami 500 m od domu „v kotli"), kybernetická bezpečnost ani PFAS. ČR má dle AI ~220 turbín, ač „stačí 140" — ptá se, proč stavět další. Betonové základy se neodstraňují (v Německu z nich „průmyslové muzeum"). Z 12 úředníků nikdo nepřiznal, že by sám u turbíny bydlet chtěl („kdo mlčí, souhlasí").
+- **PFAS „věčné chemikálie" na vrtulích:** nový zákaz EU (od r. 2026, obaly ve styku s potravinami) — Cimprichová ho chce využít jako argument. Z otáčejících se vrtulí (potřených PFAS) se „věčné chemikálie" dostávají do polí, spodních vod, ovzduší i na dětská hřiště. Dle obrázku Státního zdravotního ústavu (z Evropské env. agentury, 2019): onemocnění štítné žlázy, zvýšený cholesterol, poškození jater, rakovina ledvin/varlat/prsu, záněty střev.
+- **Dopady na těhotné a plod:** odklad otěhotnění a riziko potratu, těhotenská hypertenze, preeklampsie; přímo na plod nižší porodní váha a sklon k obezitě, u chlapců méně spermií a nižší pohyblivost, u dívek pozdější dozrávání mléčné žlázy; „nebudou fungovat očkovací látky" — řečnicky se ptá, proč pak stát dělá „národní očkovací strategii". PFAS přechází i do mateřského mléka — výzva maminkám preferovat výrobky „PFC free".
+- **Infrazvuk a kortizol:** infrazvuk (<16 Hz) cestuje atmosférou „téměř bez ztráty energie"; permanentní expozice zvyšuje kortizol (cituje studii divokých zvířat s 274× vyšší hladinou) — chronický stres, oslabení imunity, cukrovka, psychické i srdeční potíže; varuje před návykovostí a sebevražednými riziky léků na spaní („řešit příčinu, ne následek").
+- **Návrhy řešení:** „Stop větrným elektrárnám" (jsou výhodné jen pro investory); zhodnotit dopady na všechny věkové skupiny (zejména těhotné a děti); zrušit nadbytečné turbíny (220 vs. 140); nezačít s prodejem distribuce ČEZ; využít **§156 trestního zákona** (ohrožování zdraví — už samotná příprava je trestná); zařadit prof. Turánka do týmu pro zdraví obyvatel. Připomíná pokles porodnosti (2025 jen 77 tis. narozených — „nejméně od roku 1785").
+
+> „Naše majetky, krajina a zdraví nejsou na prodej, pojďme je chránit." — Pynelopi Cimprichová, [seminář Příliš drahý vítr](_zdroje.md#pynelopi-cimprichová--přednáška-vte-fve-zdraví-těhotných-a-plodu-seminář-sdíleno-17-6-2026)
+
+**Zdroje:** [Cimprichová — Přednáška VTE/FVE: zdraví těhotných a plodu (seminář, sdíleno 17. 6. 2026)](_zdroje.md#pynelopi-cimprichová--přednáška-vte-fve-zdraví-těhotných-a-plodu-seminář-sdíleno-17-6-2026)
+
+---
+
 ## Zahraniční zkušenosti
 
 ### Francie: moratorium na větrné elektrárny, Montpellier soud — Rajchl (6. 5. 2026)

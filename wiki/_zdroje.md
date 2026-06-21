@@ -2342,3 +2342,13 @@
 - **Délka:** 01:09:12 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** G7 jako „válečná schůzka" (Rutte „aktivace obranných systémů NATO", Merz/Karney, šéf Luftwaffe, Trump „liška podšitá", USA přesouvá placení na Evropu); Hormuz — Trump VIP poplatky za tankery + česká „flotila z Děčína", Katar LNG roky mimo provoz; Ukrajina nábor cizinců (30–50 %) a žoldáci 140 tis. Kč, nevydávat uprchlíky; program SAFE jako skryté zbrojení z peněz ČR (Rumunsko 16,68 mld €); „bateriový zákon" — baterioví baroni a ČEZ; Španělsko legalizuje ~1 mil. migrantů + EP návratová centra + agenda 2030; sankce neúčinné (Fabrizio Pagani, ex-G20), 21. balíček; Zelenský nelegitimně na G7/NATO, ale 70 mld. $ jistá; Senát zamítl zpřísnění změny pohlaví + kritika trans-gender ve školách (výrok stochastického teroru).
 - **Zpracováno:** ano
+
+## Pynelopi Cimprichová — Přednáška VTE/FVE: zdraví těhotných a plodu (seminář, sdíleno 17. 6. 2026) {#pynelopi-cimprichová--přednáška-vte-fve-zdraví-těhotných-a-plodu-seminář-sdíleno-17-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-17_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (na jejím kanálu sdílena přednáška ze semináře)
+- **Řečník:** Ing. Mgr. Pynelopi Cimprichová
+- **URL:** <https://m.facebook.com/watch/?v=1709795083390901>
+- **Datum záznamu:** 2026-06-17
+- **Délka:** 00:21:08 | Sněmovní seminář „Příliš drahý vítr" — vliv VTE na zdraví těhotných a plodu
+- **Poznámka:** Vadné hodnocení dopadů VTE (akce MMR 15. 5.: 3měsíční biologické hodnocení, jedna modelová studie, jediný uznaný účinek nespavost); PFAS „věčné chemikálie" na vrtulích a jejich spad (štítná žláza, játra/ledviny, rakovina, střeva); dopady na těhotné a plod (potraty, hypertenze, nižší porodní váha, plodnost, „nefungují očkovací látky", přechod do mléka); infrazvuk a kortizol (274× studie); návrhy (stop VTE, §156 TZ, zrušit nadbytečné turbíny 220 vs 140, nezačít s prodejem ČEZ, zařadit prof. Turánka, porodnost 2025 nejnižší od 1785).
+- **Zpracováno:** ano
