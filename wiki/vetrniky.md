@@ -128,6 +128,20 @@ Ing. Mgr. Pynelopi Cimprichová (s praxí na ministerstvu) přednesla na sněmov
 
 ---
 
+### Netransparentnost zón, srovnání se severem a stavby na chráněných lokalitách — Jakub Svoboda (seminář, sdíleno 18. 6. 2026)
+
+Jakub Svoboda, občanský aktivista z oblasti Ralska, přednesl na sněmovním semináři „Příliš drahý vítr" prezentaci shrnující zkušenost z místního odporu (díky němu se podle popisu o akceleračních zónách v Ralsku vůbec vědělo).
+
+- **Netransparentnost:** o akceleračních oblastech (AO) nikdo nevěděl do října 2025 — Svoboda byl jeden z prvních, kdo na ně upozornil a začal se ptát starostů a hejtmana (Ralsko spadá pod Liberecký kraj). Kraje vyčkávaly a odpovědnost „přinesly na stát" (kdyby si zóny vymezily samy po dohodě s občany, nemusel rozhodovat stát). Investor (ČEZ — projekt Ralsko 16–25 turbín, „největší v ČR", za ~4 mld.) se ani na jednu ze 7 veřejných debat (vč. „největší debaty v ČR" v Mimoni) nedostavil a svůj záměr nepředvedl.
+- **Srovnání se severskými zeměmi:** Norsko (6,5× větší než ČR) a Dánsko/Švédsko umisťují turbíny mimo obydlené oblasti / na moře, maximální výška 70–110 m (ne 250 m). Posuzují **EIA** (konkrétní stavby a dopady) místo české **SEA** (jen technologie/koncepce), hodnotí kumulativní vlivy a klíčová je **veřejná participace** (lidé spolurozhodují a mají z projektů příjem).
+- **ČR ignoruje dopady a staví na chráněných lokalitách:** neuvádí se uhlíková stopa výroby panelů/tubusů/lopatek ani zemních a příjezdových prací (rozšiřování silnic na 6,5 m). Stavby zasahují soustavu Natura 2000, chráněné krajinné oblasti, přírodní parky, oblasti akumulace pitné vody (CHOPAV), biokoridory a evropsky významnou lokalitu Ralsko — v rozporu se směrnicí RED3 (zákaz staveb v EVL).
+- **FVE na orné půdě a vliv na klima:** solární parky stojí na orné půdě a travních porostech (Vepřek/Mělník; Kuří Vody — buldozery zlikvidovaly biotop), ač RED3 cílí na brownfieldy (pojem „brownfield" pro bývalé letiště v Ralsku zpochybňuje). Rozsáhlé FVE ovlivňují lokální klima — v Libereckém kraji o ~150 mm srážek méně za 10 let; bateriová úložiště si vyžádají další zábory půdy.
+- **Závěr:** ochrana krajiny není překážkou rozvoje; je třeba požadovat celoroční biologické průzkumy, vyhodnocení kumulativních vlivů, hydrogeologické posudky a posouzení vlivu na lokální klima — a hlavně transparentnost. „Nesmí to probíhat za našimi zády."
+
+**Zdroje:** [Jakub Svoboda — Přednáška VTE/FVE: Ralsko a netransparentnost (seminář, sdíleno 18. 6. 2026)](_zdroje.md#jakub-svoboda--přednáška-vte-fve-ralsko-a-netransparentnost-seminář-sdíleno-18-6-2026)
+
+---
+
 ## Zahraniční zkušenosti
 
 ### Francie: moratorium na větrné elektrárny, Montpellier soud — Rajchl (6. 5. 2026)

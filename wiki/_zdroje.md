@@ -2379,3 +2379,13 @@
 - **Délka:** 00:41:06 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Útoky na Moskvu = eskalace NATO/EU vs. Rusko (analogie Jugoslávie 1999, drony z DE); PURL + NATO Review 3.0 (USA přesouvá zbrojení/riziko na Evropu, Eastern flank); Izrael přerušil kontakt s Kallas — Vrabel za Kallas proti čes. vládě (genocida Gaza/Libanon); Hormuz poplatky (Ghalibaf) + Trump/Írán rakety + tři neslučitelné pozice; EU zúží dočasnou ochranu pro ukr. muže (na frontu), VDL s ukr. vlajkou; Putin Rusko-ASEAN (Rusko není izolované); policejní brutalita na Západě (Poláci v Berlíně, propalestinské demonstrace); Palantir/Anthropic = tech. suverenita EU (přechod na Linux); oprava dezinformace — haagský rozhodčí soud NErozhodl, že Krym je ruský.
 - **Zpracováno:** ano
+
+## Jakub Svoboda — Přednáška VTE/FVE: Ralsko a netransparentnost (seminář, sdíleno 18. 6. 2026) {#jakub-svoboda--přednáška-vte-fve-ralsko-a-netransparentnost-seminář-sdíleno-18-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-18_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (na jejím kanálu sdílena přednáška ze semináře)
+- **Řečník:** Jakub Svoboda (občanský aktivista, Ralsko)
+- **URL:** <https://m.facebook.com/watch/?v=918048584647977>
+- **Datum záznamu:** 2026-06-18
+- **Délka:** 00:16:54 | Sněmovní seminář „Příliš drahý vítr" — akcelerační oblasti, Ralsko
+- **Poznámka:** Netransparentnost akceleračních oblastí (nikdo nevěděl do října 2025, investor ČEZ se nedostavil na 7 debat, Ralsko 16–25 turbín); srovnání se severskými zeměmi (mimo obydlí/na moře, max 70–110 m, EIA vs. SEA, veřejná participace); ČR staví na Natura 2000 / CHOPAV / EVL Ralsko / orné půdě / biokoridorech (porušení RED3), neřeší uhlíkovou stopu ani kumulativní vlivy; FVE na orné půdě (Vepřek, Kuří Vody) + vliv na lokální klima (Liberecký kraj −150 mm srážek/10 let), bateriová úložiště = další zábory.
+- **Zpracováno:** ano
