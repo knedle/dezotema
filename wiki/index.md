@@ -32,6 +32,7 @@ Obsah je organizován **tematicky** — každá stránka pokrývá jedno téma n
 | [Rodina a děti](rodina-deti.md) | Rodičovská práva, gender a LGBT, demografická krize |
 | [Suverenita a EU](suverenita-eu.md) | Euro, EU, Green Deal, Evropský parlament a V4 |
 | [Válka, NATO a Rusko](valka-nato-rusko.md) | Válka na Ukrajině, eskalace NATO–Rusko, zbrojení, mírová jednání |
+| [Jaderné zbraně a jaderná hrozba](jaderne-zbrane.md) | Rozmisťování jaderných zbraní, nuclear sharing, odstrašení vs. použití, odzbrojení |
 | [Větrné elektrárny](vetrniky.md) | Akcelerační zóny, technická a environmentální kritika |
 
 ### Speciální přehledy
