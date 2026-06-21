@@ -432,3 +432,22 @@ Zítko sdílí a komentuje sestřih kanálu Hranaři, který líčí korupci spo
 Ke vzniku parlamentní vyšetřovací komise v kauze Dozimetr Rajchl klade „nezodpovězené" otázky. Kauza je pojmenovaná po Věslavu Michalíkovi (jedno z pěti „podezřelých úmrtí"), který měl klíčově vypovídat. Lidé jako Kos či Augustin se do svých funkcí dostali jen díky moci STAN a TOP 09 v Praze; Jakub Michálek (Piráti) veřejně řekl, že je STAN „překroužkoval černými penězi z Dozimetru". Rajchl poukazuje na dvojí metr: stačilo jedno svědectví ke stíhání Marka Schneidera (ODS) a Martina Dvořáka, ale STAN a TOP 09 jako právnické osoby — proti nimž je pět vzájemně se kryjících svědectví a které měly být „na vrcholu pyramidy" — se nestíhají. Navazuje na [Kauza Dozimetr](#kauza-dozimetr).
 
 **Zdroje:** [Rajchl — Videoportál: Dozimetr komise, 11. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-dozimetr-komise-11-6-2026)
+
+---
+
+### Časová osa Dozimetru: propojení STAN s organizovanou skupinou (Rajchl, 17. 6. 2026)
+
+Rajchl v krátkém videu předkládá chronologickou rekapitulaci kauzy jako argument pro nutnost vyšetřovací komise. Klíčové body časové osy (jeho verze):
+
+- **Říjen 2021** — Spolu a STAN vyhrávají volby.
+- **Listopad 2021** — z policejních odposlechů (zveřejněných 2025) má plynout, že organizovaná skupina kolem Rédla, Hlubučka, Gazdíka a Polčáka si dává za prioritu obsadit posty ministra vnitra a spravedlnosti lidmi ze STAN („musíme mít klid na práci").
+- **Prosinec 2021** — Rakušan jako kandidát na ministra vnitra sdělil policejnímu prezidentu Švejdarovi, že s ním už nepočítá; Švejdar podává žádost do civilu; vzniká vláda Fialy, Rakušan ministrem vnitra.
+- **Duben 2022** — Rakušan jmenuje policejním prezidentem „svého kamaráda" Vondráška; z přepisů (zveřejněných září 2025) má plynout, že Rakušan svolal straníky STAN a sdělil jim chystané zatýkání v kauze Dozimetr — „vysoce pravděpodobné, že měl přístup do spisu".
+- **Květen 2022** — Hlubuček převádí majetky a nemovitosti.
+- **Červen 2022** — zatýkání, Rédl a Hlubuček do vazby, Gazdík končí na MŠMT.
+- **Červenec 2022** — potvrzeno, že Rakušan disponoval stejným šifrovaným telefonem jako Rédl, Hlubuček, Polčák a Gazdík (ten „pak dal na hraní svým dětem").
+- **Září 2025** — u soudu má být potvrzeno, že 30 % „ukradených peněz" vždy putovalo do hnutí STAN.
+
+Navazuje na [Fremrova výpověď: Rakušan v šifrované síti](#fremrova-výpověď-rakušan-byl-aktivní-v-šifrované-síti) a [Dozimetr: proč se nestíhají STAN a TOP 09 (11. 6.)](#dozimetr-proč-se-nestíhají-stan-a-top-09-rajchl-11-6-2026).
+
+**Zdroje:** [Rajchl — Videoportál: Dozimetr časová osa, 17. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-dozimetr-časová-osa-17-6-2026)

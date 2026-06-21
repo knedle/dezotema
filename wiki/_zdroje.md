@@ -2324,3 +2324,12 @@
 - **Délka:** 00:03:26 | „Řešení problému s Českou televizí: dobrovolné koncesionářské poplatky"
 - **Poznámka:** Návrh dobrovolných koncesionářských poplatků jako „nejlepší řešení" (Ipsos: 15 % důchodců, 40 % studentů; reálně < 10 %); politici by ztratili vliv, ČT by musela „bojovat o diváka"; kritika „euroliberálních oveček", odejdivší novináři (Wollner, Friedrichová, Černá) označeni za „neúspěšné", vlastní seznam preferovaných (Paukner, Dobijášová, Bazalová, Stoniš, Kulidakis, Štrunz).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Dozimetr časová osa (17. 6. 2026) {#jindřich-rajchl--videoportál-dozimetr-časová-osa-17-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-17_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/4031891956942976>
+- **Datum záznamu:** 2026-06-17
+- **Délka:** 00:01:38 | „Rekapitulace kauzy Dozimetr v kostce"
+- **Poznámka:** Chronologická časová osa Dozimetru (2021–2025) jako argument pro vyšetřovací komisi: skupina Rédl/Hlubuček/Gazdík/Polčák obsazuje vnitro+spravedlnost přes STAN, Rakušan odstavil Švejdara a jmenoval Vondráška, měl přístup do spisu a stejný šifrovaný telefon jako „mafiáni", 30 % ukradených peněz do STAN.
+- **Zpracováno:** ano
