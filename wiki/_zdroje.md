@@ -2333,3 +2333,12 @@
 - **Délka:** 00:01:38 | „Rekapitulace kauzy Dozimetr v kostce"
 - **Poznámka:** Chronologická časová osa Dozimetru (2021–2025) jako argument pro vyšetřovací komisi: skupina Rédl/Hlubuček/Gazdík/Polčák obsazuje vnitro+spravedlnost přes STAN, Rakušan odstavil Švejdara a jmenoval Vondráška, měl přístup do spisu a stejný šifrovaný telefon jako „mafiáni", 30 % ukradených peněz do STAN.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (17. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-17-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-17_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2224166485011838>
+- **Datum záznamu:** 2026-06-17
+- **Délka:** 01:09:12 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** G7 jako „válečná schůzka" (Rutte „aktivace obranných systémů NATO", Merz/Karney, šéf Luftwaffe, Trump „liška podšitá", USA přesouvá placení na Evropu); Hormuz — Trump VIP poplatky za tankery + česká „flotila z Děčína", Katar LNG roky mimo provoz; Ukrajina nábor cizinců (30–50 %) a žoldáci 140 tis. Kč, nevydávat uprchlíky; program SAFE jako skryté zbrojení z peněz ČR (Rumunsko 16,68 mld €); „bateriový zákon" — baterioví baroni a ČEZ; Španělsko legalizuje ~1 mil. migrantů + EP návratová centra + agenda 2030; sankce neúčinné (Fabrizio Pagani, ex-G20), 21. balíček; Zelenský nelegitimně na G7/NATO, ale 70 mld. $ jistá; Senát zamítl zpřísnění změny pohlaví + kritika trans-gender ve školách (výrok stochastického teroru).
+- **Zpracováno:** ano

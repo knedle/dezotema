@@ -256,3 +256,17 @@ Vize: ČR může mít v příštích 30 letech levnou stabilní elektřinu a „
 > „Pojďme skutečně se vrátit od ideologie ke zdravému rozumu a pojďme financovat projekty, které mají smysl." — Jindřich Rajchl, [Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
 
 **Zdroje:** [Rajchl — Seminář Příliš drahý vítr 12. 6. 2026](_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
+
+### „Bateriový zákon": po solárních baronech přicházejí „baterioví baroni" (Vrabel, 17. 6. 2026)
+
+K studii poradenské společnosti AFRY (pro Beyond Fossil Fuels), podle níž ve frontách na připojení k distribučním sítím v Evropě čeká ~455 GW bateriových úložišť a 375 GW obnovitelných zdrojů (zablokovaná hodnota přes 100 mld. EUR, vč. ČR), Vrabel připomíná „tiše" přijatý český zákon z listopadu 2025. Vysvětluje mechanismus: protože přechodem od stabilní (uhelné/jaderné) energetiky k OZE vzniká při větru/slunci přebytek, který je třeba „odvést", stát zavádí dotované bateriové úložiště. Vybraní „spřátelení energobaroni" uzavřou smlouvu s ČEZ a připojí baterie do páteřní sítě: při přebytku elektřinu „stáhnou" (ČEZ jim zaplatí), při nedostatku ji dodají zpět (ČEZ zaplatí znovu). Náklady ponese stát/občané — Vrabel je odhaduje řádově podobně jako náklady na solární barony („tolik, kolik byl náš [státní] dluh"). Finanční toky, které dříve protékaly přes solární barony, „teď protečou přes baterijové barony".
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+---
+
+### Sankce proti Rusku jsou neúčinné — Fabrizio Pagani (ex-G20) (Vrabel, 17. 6. 2026)
+
+Vrabel cituje bývalého vyjednavače za G20 Fabrizia Paganiho, podle něhož ekonomická válka Washingtonu nemůže Rusko k ničemu přinutit, protože Moskva už svou ekonomiku úspěšně izolovala. Vrabel souhlasí: Rusko sice sankcemi a omezením obchodu trpí, ale vybudovalo vlastní platební systém, navázalo se na BRICS, exportuje do Asie a postavilo nová potrubí — na plynu a ropě dnes vydělává „tolik, kolik před konfliktem", protože ceny vzrostly a našli se jiní odběratelé. Chystaný 21. balíček sankcí (mj. zákaz vystupování ruských umělců v EU) označuje za absurdní: „za chvilku budou sankce proti červené barvě, protože připomíná ruskou vlajku".
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)

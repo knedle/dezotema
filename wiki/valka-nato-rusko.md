@@ -1408,3 +1408,35 @@ K rozšíření obranné spolupráce ČR s Itálií (munice firmy Fiocchi pod ho
 Vrabel popisuje brutalitu ukrajinské mobilizace (jednotky TCK): syn v Mykolajivu ubránil otce před odvodovým komandem; Fedor Košelňák byl násilně naložen do autobusu deseti maskovanými muži a po dvou hodinách zemřel „na zástavu srdce" během lékařské prohlídky; ombudsman Lubinec uvedl, že komise ignorují skutečný zdravotní stav (člověk před chirurgickým zákrokem uznán schopným za 15 minut). Vrabel přirovnává Zelenského zacházení s lidmi k Hitlerovi — „posílá je na porážku jako dobytek". Navazuje na [Ukrajinci nechtějí bojovat — TCK „lov lidí" (6. 6.)](#ukrajinci-nechtějí-bojovat--tck-lov-lidí-a-úplatek-12-000--vrabel-6-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+
+### G7 jako „válečná schůzka"; Rutte a „aktivace obranných systémů NATO" (Vrabel, 17. 6. 2026)
+
+Vrabel čte summit G7 ve Francii jako „válečnou schůzku zemí NATO plus přidružených": všichni mluví o vítězství nad Ruskem a o Ukrajině jako budoucím členu EU, v závěrečném prohlášení chybí jakákoli zmínka o mírovém urovnání (naopak přísnější sankce na ruský ropný/plynárenský sektor a navýšení vojenské podpory). Znepokojil ho Mark Rutte, který používá nový termín „aktivace obranných/bezpečnostních systémů NATO" — Vrabelovi to zní, jako by se připravovala válka; zároveň Rutte oznámil, že ČR a několik zemí sice letos nedají 2 % HDP, ale „udělají vše" pro jejich překročení (Babiš to slíbil). Merz označil ruský požadavek na Donbas za nepřijatelný a tvrdil, že Rusko nikdy neuspělo v útočných válkách — Vrabel mu „připomíná německé 20. století". Kanadský premiér Karney prohlásil, že „Putin tuto válku prohraje". USA podle Rutteho přenášejí odpovědnost (a placení) na Evropu (550 mil. obyvatel vs. 330 mil. v USA, 8 hodin letu). Trump je dle Vrabela „liška podšitá" — na společné fotce se jako jediný neotočil k fotografovi; „spirit of Anchorage" (nabídka Rusku) zůstal neimplementován, protože Evropa tlačí na pokračování konfliktu. Vrabel připomíná i výrok šéfa Luftwaffe (z 16. 6.), že Německo je „připraveno válčit s Ruskem klidně dnes večer", a soudí, že bez summitu G7 by svět byl „spíš lepší".
+
+> „Je to opravdu i těžko číst ty zprávy, protože to je všude jenom válka, příprava na válku, zbrojení, zbraně a šíření nenávisti vůči Rusku." — Ladislav Vrabel, [Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+---
+
+### Ukrajina najímá cizince a žoldáky za 140 tis. Kč; nevydávat uprchlíky (Vrabel, 17. 6. 2026)
+
+Vrabel uvádí, že ukrajinský ministr obrany Fedorov plánuje obsadit 30–50 % útočných a pěchotních jednotek zahraničními rekruty (přes soukromé náborové agentury) a Ukrajina nabízí žoldákům ~140 000 Kč měsíčně — což čte jako důkaz vážného nedostatku vojáků a „nucených únosů" na ulicích. Kategoricky odmítá výzvy k vydávání ukrajinských uprchlíků v branném věku zpět na Ukrajinu: pro ně by to byla „poprava" (zacházení jako s dezertéry). Žádá soudit případné kriminálníky podle českých zákonů a deportovat až za závažné činy, ne plošně. Argumentuje empatií („představte si Českou republiku ve válce") a tvrdí, že hlavní obětí konfliktu jsou sami Ukrajinci — země bude na konci „vybydlená, zdevastovaná, zadlužená", připravená na „digitální stát s novým naváženým obyvatelstvem". Pasáž doprovází opakovaný černý humor o sebevrazích, kteří mohou jít „rychle ukončit život" na frontu. K žadatelce, podle níž utekli jen bohatí Ukrajinci, dodává, že život bohatého i chudého má stejnou hodnotu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+---
+
+### Program SAFE jako skryté zbrojení z peněz ČR; Rumunsko (Vrabel, 17. 6. 2026)
+
+K úvěru 16,68 mld. EUR pro Rumunsko z programu SAFE (z toho ~10 mld. na obranné projekty 2026–2030) Vrabel rozvíjí kritiku celého programu: jde podle něj o mechanismus, jak se příspěvky ČR (a dalších zemí) do EU „vezmou a převedou do programu SAFE", z něhož se financuje zbrojení, „protože sami bychom tolik do zbrojení nedávali" — a to způsobem, „aby si toho občané nevšimli". Připomíná, že premiér Babiš se před třemi dny radoval, kolik ČR z programu SAFE dostane. Rumunsko označuje za „skorumpovanou, prodanou" zemi, která už při rozbíjení Jugoslávie poskytla základny k útokům na Srbsko výměnou za vstup do EU, a nyní se z ní buduje logistický uzel NATO na jihovýchodním křídle.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+---
+
+### Zelenský na G7 a NATO: nelegitimní účast, ale 70 mld. dolarů jistá (Vrabel, 17. 6. 2026)
+
+Vrabel zpochybňuje, proč byl Zelenský na summitu G7 (sdružení nejvyspělejších demokratických ekonomik), když je Ukrajina „několikrát zkrachovalá", zcela závislá na západních penězích a fakticky nedemokratická (bez opozice, voleb a s prezidentem po vypršení mandátu). Rutte oznámil, že na summit NATO v Ankaře (7.–8. 7.) nebude Zelenský vpuštěn na plenární zasedání (jen na okraj) a nekoná se rada NATO–Ukrajina na nejvyšší úrovni. Vrabel přesto očekává, že se v Ankaře rozhodne o dalších 70 mld. dolarů pro Ukrajinu, které „zaplatíme my všichni" — včetně peněz pro žoldáky. Komentuje i Zelenského zjevně lepší zdravotní stav („naučil se zacházet s kokainem"), což čte jako špatnou zprávu, protože konflikt tím bude pokračovat. Sám se vymezuje jako „na straně lidí, ne politických stran ani velmocí" a politiku označuje za „velké divadlo".
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)

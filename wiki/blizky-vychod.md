@@ -320,3 +320,11 @@ J. D. Vance oznámil, že USA a Írán 14. 6. „elektronicky podepsali mírovou
 Vrabel po prostudování vojenských analytiků upřesňuje stav íránské dohody: nejde o mír, ale o **memorandum o porozumění** (obsah neznámý); Hormuz má být otevřen „v příštích dnech", ale konečná dohoda se bude vyjednávat **60–90 dní**. Írán prý odmítá zastavit obohacování uranu a požaduje uvolnění zmrazených aktiv (Západ jich od ~2015 zadržel 120–150 mld. $; mělo by se uvolnit ~10 %, cca 6,6 + 6,6 mld. — jde o íránské peníze, ne americké, jako kdysi Obamovy „palety hotovosti" po prohře v Haagu). Trump pohrozil, že pokud Írán získá/vyvine jadernou zbraň, „zažije peklo". Klíčová podmínka Íránu: zastavení útoků na Libanon — což Izrael odmítá (Netanjahu: „není to konec konfliktu", chce pád íránského režimu). Írán navíc nově chce **Rusko a Čínu jako garanty** dohody — porušení by pak mohlo vést k velkému konfliktu. Vrabel uzavírá, že ani jedna strana neslevila ze stanovisek a není jisté, že dohoda dopadne.
 
 **Zdroje:** [Vrabel — Zprávy v devět 16. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
+
+---
+
+### Hormuz: Trump chce „VIP poplatky" za průjezd, evropská a česká účast; Katar LNG roky mimo provoz (Vrabel, 17. 6. 2026)
+
+Vrabel upozorňuje, že Trumpova administrativa (šéfka aparátu Susie Wiles) připravuje zpoplatněné „VIP povolení" pro průjezd ropných tankerů Hormuzským průlivem s doprovodem amerického námořnictva — a zvažuje i nucené poskytování pojištění přes zákon o válečné výrobě. Považuje za absurdní, že USA, „které jsou někde jinde", chtějí „kasírovat" lodě, zatímco volný průjezd mají fakticky zajišťovat evropské (francouzské, britské) válečné lodě — včetně „celé flotily z Děčína" / českého „námořního dělostřelectva", jehož účast přislíbili Macinka a Babiš. Politicky to ČR staví na jednu stranu konfliktu; Vrabel z toho vyvozuje růst rizika teroristických útoků a migrace i v ČR (migrační pakt už platí). Odmítá optimismus, že je krize u konce: cituje Bloomberg, že Katar (závod Ras Laffan, ~20 % světových dodávek LNG, dvě linky poškozené íránskými raketami v březnu) obnoví jen polovinu produkce do měsíce a plné obnovení „potrvá roky" — tankery i terminály jsou poškozené, těžbu „nezapne klíček". Krizi přičítá Trumpovi.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)

@@ -91,3 +91,13 @@ K dotazu, zda Ukrajina potřebuje projekty normalizující LGBTQ+ komunitu (pře
 K údajům Českého statistického úřadu (úbytek obyvatel o ~19 800 za první čtvrtletí roku, porodnost klesá pátým rokem za sebou — narodilo se jen 17 500 dětí, zemřelo 30 100) Vrabel přičítá pokles porodnosti zdražování („dráž se žije") a podvědomému vnímání blížící se války.
 
 **Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+
+---
+
+### Trans-gender ideologie ve školách jako manipulace dětí — Vrabel (17. 6. 2026)
+
+K zamítnutí novely o zpřísnění podmínek pro změnu pohlaví Senátem (pro zrušení zákona 42 senátorů) Vrabel deklaruje lhostejnost k tomu, „kdo s kým spí" a k soukromému životu dospělých (vč. homosexuálních párů), „dokud do toho netáhnou děti a zvířata". Ostře ale odmítá „trans-gender ideologii" propagovanou neziskovkami ve školách: líčí scénář, kdy neziskovky a psychologové opakovaně „přemlouvají" chlapce do dívčího oblečení a dívky do mužských rolí, až dítě po „výplachu mozku" uvěří, že je opačného pohlaví; v 16 letech následuje nevratná operace a doživotní hormonální léčba, takže člověk skončí podle Vrabela jako „zmrzák", který nemůže mít rodinu. Srovnává to s vykonstruovanými obviněními učitelů ze zneužití, z nichž manipulované dítě „neví, jak ven".
+
+Výrok na konci pasáže (lidé podílející se na této agendě „by potřebovali malý dvorek ohnaný ostnatým drátem, dlouhý bič a dobrého dozorce") je veden v [stochasticky-teror.md](stochasticky-teror.md#přehled-výroků).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
