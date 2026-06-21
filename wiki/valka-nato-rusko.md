@@ -892,6 +892,16 @@ K úvěru 16,68 mld. EUR pro Rumunsko z programu SAFE (z toho ~10 mld. na obrann
 
 ---
 
+### Jeden tank Leopard = 745 zachráněných životů: zbrojení vs. léčba — Rajchl (18. 6. 2026)
+
+Rajchl staví výdaje na zbraně do morálního protikladu k záchraně lidských životů. U příležitosti poděkování za sbírku pro Pavlínu Navrátilovou (za týden přes 600 tis. Kč) a připomenutí loňské sbírky pro „paní Báru" (4. stádium rakoviny — individuální léčba ve Švýcarsku poté, co jí české zdravotnictví nabízelo už jen paliativní péči) uvádí příklad: jeden tank Leopard stojí 745 milionů Kč — za tu částku by se podle něj dalo „zachránit 745 lidských životů". Peníze nejsou neomezené a je „mnohem čestnější dávat je na záchranu životů než do strojů, které lidské životy ničí". Navazuje na jeho stejné rámování u [F-35 (+40 mld.)](kauzy.md#prodražení-o-dalších-40-miliard--rajchl-14-6-2026).
+
+> „Je mnohem lépe a mnohem čestnější dávat peníze na záchranu lidských životů, než do strojů, které lidské životy ničí." — Jindřich Rajchl, [Videoportál 18. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-leopard-vs-záchrana-životů-18-6-2026)
+
+**Zdroje:** [Rajchl — Videoportál: Leopard vs. záchrana životů, 18. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-leopard-vs-záchrana-životů-18-6-2026)
+
+---
+
 ## EU jako vojenská struktura
 
 ### Odmítnutí EU armády a jaderného štítu — diplomacie místo přípravy na válku

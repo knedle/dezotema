@@ -2361,3 +2361,12 @@
 - **Délka:** 01:26:56 | Záznam (FB zablokoval živé vysílání)
 - **Poznámka:** FB zablokoval živé vysílání na 3 kanálech („kyberšikana" za fotku z UFC Freedom 250 s Trumpem) = cenzura; rozbor článku Tomáše Fiersta „jak bys řešil covid" (reakce na Václava Hořejšího) + Zítkovy dodatky (PCR 86 % falešně poz., ivermectin/hydroxychlorochin zatajovány, biolaboratoře, šarže E/22R–Z, Remdesivir, vystoupení z WHO); ČT porušuje zákon od 12. 3. 2020 → vracení poplatků, Smrš odmítl Zítka do Máte slovo; opakovaná výzva k vojenskému tribunálu Norimberg 2.0 (stoch. teror). Cizí sdílené texty „20 pravidel přežití" a „10 zákonů frekvence" nezpracovány.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Leopard vs. záchrana životů (18. 6. 2026) {#jindřich-rajchl--videoportál-leopard-vs-záchrana-životů-18-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-18_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/4563800157239183>
+- **Datum záznamu:** 2026-06-18
+- **Délka:** 00:02:23 | Poděkování za sbírku pro Pavlínu Navrátilovou (600 tis. Kč)
+- **Poznámka:** Poděkování za sbírku (Navrátilová, dříve Bára — léčba ve Švýcarsku); morální argument zbrojení vs. záchrana životů — jeden tank Leopard = 745 mil. Kč = „745 zachráněných životů", peníze raději na léčbu než na zbraně.
+- **Zpracováno:** ano
