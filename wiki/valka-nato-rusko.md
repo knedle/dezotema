@@ -1261,7 +1261,7 @@ Vrabel upozorňuje na specifičnost Polska v NATO: Poláci dle něj „opravdu n
 
 ### Tulsi Gabbard rezignovala — „výjimka v Trumpově administrativě" musela odejít (Vrabel, 22. 5. 2026)
 
-Ředitelka Národní zpravodajské služby USA Tulsi Gabbard rezignovala s odvoláním na zdravotní stav manžela. Vrabel ji označuje za „naprostou výjimku v celé Trumpově administrativě" — jako jediná ze všech úředníků dělala věci pro obyčejné lidi: odhalila 120 zahraničních biolaboratoří financovaných USA (viz [Gabbard a biolaboratoře — 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)), přinášela do agendy témata, která by jinak zůstala skryta. Vrabel tvrdí, že tato rezignace musela přijít, ať byl zástupný důvod jakýkoli: „kdyby nebyl tenhle důvod, tak by se našel jiný."
+Ředitelka Národní zpravodajské služby USA Tulsi Gabbard rezignovala s odvoláním na zdravotní stav manžela. Vrabel ji označuje za „naprostou výjimku v celé Trumpově administrativě" — jako jediná ze všech úředníků dělala věci pro obyčejné lidi: odhalila 120 zahraničních biolaboratoří financovaných USA (téma podrobně v [konspirace.md — biolaboratoře](konspirace.md#gabbard-oficiálně-odtajnila-dokumenty-o-120-biolaboratořích--konspirace-se-stala-pravdou-vrabel-13-6-2026)), přinášela do agendy témata, která by jinak zůstala skryta. Vrabel tvrdí, že tato rezignace musela přijít, ať byl zástupný důvod jakýkoli: „kdyby nebyl tenhle důvod, tak by se našel jiný."
 
 **Zdroje:** [Vrabel — Večerní zprávy 22. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-22-5-2026)
 
