@@ -278,3 +278,9 @@ Vrabel cituje bývalou britskou premiérku **Liz Truss**, která prý otevřeně
 Ke zprávě, že Španělsko eviduje ~900 tis. (a dle NGO brzy přes milion) žádostí o legalizaci pobytu migrantů, Vrabel opakuje svou tezi: evropským politikům nejde o zabránění migraci, ale o její **kontrolu** — proto bojují pouze proti „nelegální" migraci a poté ji hromadně legalizují (analogie s Merkelovou). Souběžně Evropský parlament schválil zpřísnění pravidel pro navracení nelegálních migrantů (vč. návratových center mimo EU) — Vrabel to označuje za kosmetický „byrokratický" krok, protože EP je „absolutně globalistický" a antiglobalistická agenda by neprošla. Zařazuje to do širší „globalistické agendy 2030" (očkování, války, digitální měna, Green Deal, „červi místo hovězího", vyvlastňování domů), s níž „nelze bojovat a vyhrát"; jediné řešení vidí v tom, aby ČR „dokud má ústavu" vystoupila z EU/NATO a klimatických i migračních struktur a „uzavřela se, aby se v ní dalo žít" — jinak ji čeká totéž co Británii, Německo či Švédsko.
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+### EU zúží dočasnou ochranu pro ukrajinské muže (18–60) — Vrabel (18. 6. 2026)
+
+Evropská komise chce prodloužit dočasnou ochranu pro uprchlíky z Ukrajiny, ale zúžit její rozsah — Německo a další státy podporují omezení pro muže ve vojenském věku (uváděno 23–60, resp. 18–60), zejména pro nově příchozí. Vrabel to čte jako krok, jak ukrajinské muže schopné boje „posílat na frontu". Zároveň opakuje, že vytvořením dočasné ochrany se Ukrajinci trvale přesunuli do hostitelských zemí (ČR, Polsko) a „už nikdy neodejdou", čímž se tyto země „rozbily". Komentuje fotku Ursuly von der Leyen s ukrajinskou (ne unijní) vlajkou na prsou — „kouká na mě peklo".
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)

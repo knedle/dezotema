@@ -723,3 +723,11 @@ Vrabel kritizuje projev ministra zahraničí Petra Macinky na konferenci o inves
 Ke stanovisku Národní rozpočtové rady (schodek 2027 může přesáhnout 350 mld. Kč; letos plánováno 310 mld.) Vrabel ironicky „gratuluje" vládě ke čtvrtému nejvyššímu schodku v historii ČR — přestože schodek Fialovy vlády byl jedním z hlavních předvolebních argumentů Andreje Babiše. Zmiňuje i „únikovou doložku" EU umožňující vyšší schodek při zvýšených výdajích na obranu.
 
 **Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+
+## Represe a policejní brutalita na Západě
+
+### Rostoucí policejní brutalita na „globalistickém Západě" — Vrabel (18. 6. 2026)
+
+Vrabel upozorňuje na případ, kdy německá policie zmlátila a zadržela Poláky, kteří se chtěli pomodlit a zanechat kříž na hřbitově v Berlíně (vyvolalo reakce v Polsku i Německu). Zasazuje to do vzorce, kterého si všímá „poslední týdny": výrazně zvýšená policejní brutalita na Západě — vedle Německa i v Británii a u propalestinských demonstrací proti izraelským útokům na Gazu. Vyvozuje, že „globalistický Západ" dává policii pokyn být brutální.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)

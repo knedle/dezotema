@@ -328,3 +328,19 @@ Vrabel po prostudování vojenských analytiků upřesňuje stav íránské doho
 Vrabel upozorňuje, že Trumpova administrativa (šéfka aparátu Susie Wiles) připravuje zpoplatněné „VIP povolení" pro průjezd ropných tankerů Hormuzským průlivem s doprovodem amerického námořnictva — a zvažuje i nucené poskytování pojištění přes zákon o válečné výrobě. Považuje za absurdní, že USA, „které jsou někde jinde", chtějí „kasírovat" lodě, zatímco volný průjezd mají fakticky zajišťovat evropské (francouzské, britské) válečné lodě — včetně „celé flotily z Děčína" / českého „námořního dělostřelectva", jehož účast přislíbili Macinka a Babiš. Politicky to ČR staví na jednu stranu konfliktu; Vrabel z toho vyvozuje růst rizika teroristických útoků a migrace i v ČR (migrační pakt už platí). Odmítá optimismus, že je krize u konce: cituje Bloomberg, že Katar (závod Ras Laffan, ~20 % světových dodávek LNG, dvě linky poškozené íránskými raketami v březnu) obnoví jen polovinu produkce do měsíce a plné obnovení „potrvá roky" — tankery i terminály jsou poškozené, těžbu „nezapne klíček". Krizi přičítá Trumpovi.
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+---
+
+### Izrael přerušil kontakt s Kallas; Vrabel paradoxně za Kallas proti české vládě (18. 6. 2026)
+
+Po výrocích Kaji Kallas přirovnávajících izraelské zacházení s Palestinci k apartheidu izraelský ministr zahraničí Gideon Sa'ar oznámil ukončení veškerého kontaktu s ní. Vrabel — jinak Kallas ostře kritický — v této věci stojí za jejím postojem: Izrael podle něj „provádí genocidu" v Gaze a Libanonu, zatímco česká vláda (Babiš, Macinka) deklaruje bezvýhradnou podporu Izraele a hodlá vetovat evropské rezoluce. Doplňuje, že Izrael porušil příměří dvojitým útokem na civilní vozidlo a poté na zdravotníky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+
+---
+
+### Írán bude vybírat poplatky v Hormuzu; tři neslučitelné pozice (Vrabel, 18. 6. 2026)
+
+Íránský parlamentní předseda Ghalibaf potvrdil, že Írán bude vybírat poplatky za průjezd Hormuzským průlivem — což Vrabel předpovídal (a Macron tvrdil opak). Trump zároveň stáhl požadavek, aby se Írán vzdal balistických raket (silný konvenční odstrašující prostředek prý snižuje potřebu jaderného). Írán nepovažuje mír za uzavřený, dokud Izrael neopustí Libanon; Netanjahu odmítá stáhnout vojska z jižního Libanonu. Vrabel shrnuje tři neprotínající se pozice: Írán (zmrazená aktiva, konec sankcí, volný obchod, poplatky, odchod USA z BV, konec války v Libanonu/Gaze) × USA (Írán bez suverenity a obohacování uranu, poplatky pro USA) × Izrael (likvidace íránského režimu, pokračování války) — jediný společný bod je otevřený Hormuz kvůli penězům; Izrael je „rušivý element", který nechce konec konfliktu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)

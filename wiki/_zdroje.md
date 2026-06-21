@@ -2370,3 +2370,12 @@
 - **Délka:** 00:02:23 | Poděkování za sbírku pro Pavlínu Navrátilovou (600 tis. Kč)
 - **Poznámka:** Poděkování za sbírku (Navrátilová, dříve Bára — léčba ve Švýcarsku); morální argument zbrojení vs. záchrana životů — jeden tank Leopard = 745 mil. Kč = „745 zachráněných životů", peníze raději na léčbu než na zbraně.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (18. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-18-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-18_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1666237024636665>
+- **Datum záznamu:** 2026-06-18
+- **Délka:** 00:41:06 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Útoky na Moskvu = eskalace NATO/EU vs. Rusko (analogie Jugoslávie 1999, drony z DE); PURL + NATO Review 3.0 (USA přesouvá zbrojení/riziko na Evropu, Eastern flank); Izrael přerušil kontakt s Kallas — Vrabel za Kallas proti čes. vládě (genocida Gaza/Libanon); Hormuz poplatky (Ghalibaf) + Trump/Írán rakety + tři neslučitelné pozice; EU zúží dočasnou ochranu pro ukr. muže (na frontu), VDL s ukr. vlajkou; Putin Rusko-ASEAN (Rusko není izolované); policejní brutalita na Západě (Poláci v Berlíně, propalestinské demonstrace); Palantir/Anthropic = tech. suverenita EU (přechod na Linux); oprava dezinformace — haagský rozhodčí soud NErozhodl, že Krym je ruský.
+- **Zpracováno:** ano

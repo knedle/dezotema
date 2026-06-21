@@ -79,3 +79,11 @@ Ke zprávě, že ruská FSB odhalila operaci zahraničních tajných služeb s n
 
 ---
 
+
+---
+
+### Palantir/Anthropic a technologická suverenita EU — Vrabel (18. 6. 2026)
+
+Francouzská zpravodajská agentura ukončila smlouvu s americkým Palantirem a nahradila ho domácím konkurentem; obavy o technologickou suverenitu EU vzrostly poté, co USA zablokovaly cizincům přístup k „hraničním modelům" společnosti Anthropic. Francie i Německo navíc přecházejí ve veřejné správě z Windows na Linux/open source. Vrabel to čte jako boj o moc mezi „nejvyššími patry globalistů" v USA a EU (USA odposlouchávaly i spojence za Merkelové) a jako rozdělení digitálního světa: Evropa nechce být přímo kontrolována a řízena z USA. Varuje ale, že to neznamená svobodu — kontrolu nad daty a chováním občanů jen převezme EU místo USA.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
