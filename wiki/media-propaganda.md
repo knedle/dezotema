@@ -378,6 +378,18 @@ Rajchl cituje průzkum Ipsos: dobrovolně by koncesionářské poplatky platilo 
 
 ---
 
+### Dobrovolné poplatky by donutily ČT „bojovat o diváka" — Rajchl (17. 6. 2026)
+
+Rajchl se vrací k návrhu **dobrovolných koncesionářských poplatků** (viz [Rajchl: dobrovolné poplatky](#rajchl-dobrovolné-koncesionářské-poplatky-jako-jediné-spravedlivé-řešení) a [Ipsos 14. 6.](#ipsos-jen-15--důchodců-a-40--studentů-by-dobrovolně-platilo-čt--rajchl-14-6-2026)) a označuje je za „to nejlepší možné řešení". Opakuje data Ipsos (15 % důchodců, 40 % studentů by platilo) a odhaduje, že při reálném placení by souhlas klesl pod 10 %. Dva argumenty: (1) politici by ztratili veškerý vliv — nerozhodovali by o rozpočtu ani výši poplatků a ČT by se stala „naprosto nezávislou"; (2) ČT by musela „bojovat o diváka" a nabízet obsah i lidem, kterým dnes „vůbec nic neříká".
+
+Tvrdí, že ČT dnes „vysílá jenom pro úzkou skupinku euroliberálních oveček", které ostatní povinně platí. Jmenovitě označuje Marka Wollnera, Noru Friedrichovou a Zuzanu Černou (kteří z ČT odešli) za „neúspěšné lidi" se „zkrachovalými projektíky" (u Černé tvrdí sledovanost „asi 20 lidí"). Naopak vyjmenovává novináře, jejichž obsah by si rád zaplatil: Tomáš Paukner, Markéta Dobijášová, Angelika Bazalová (investigativa), Marek Stoniš, Tomáš Kulidakis (politika) a Pavel Štrunz (Echo24).
+
+> „A proto vysílá jenom pro úzkou skupinku euroliberálních oveček, my ostatní jim to platíme, tuhle jich propagandu." — Jindřich Rajchl, [Videoportál: dobrovolné poplatky ČT, 17. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026)
+
+**Zdroje:** [Rajchl — Videoportál: dobrovolné poplatky ČT, 17. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026)
+
+---
+
 ### Umělá nenávist ve společnosti a anonymita sociálních sítí — Tarabová (15. 6. 2026)
 
 Tarabová tvrdí, že nikdy nezažila ve společnosti tolik nenávisti — a že je „uměle vytvořená" rozdělením lidí do znepřátelených skupin, kde jedna druhou „bytostně nenávidí". Vinu klade i na anonymitu sociálních sítí: pod věcným příspěvkem (např. o vizi strany PRO) se místo diskuse o obsahu objevují „jen urážky, lži, dehonestace a vulgarity", často od stále stejných lidí. Vyzývá k návratu „lidství" a vzájemnému respektu — „nemusíme se milovat, ale je potřeba se respektovat"; každý ať si „miluje Danuši Nerudovou", ale neupírá jí, že důvěřuje Jindřichu Rajchlovi.

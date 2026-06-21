@@ -144,6 +144,10 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Donald Trump | ✅ pozitivní | Citován jako vzor — „velmi tvrdě" bojuje proti větrníkům, v USA se žádné nové nestaví | 2026-06-12 | [Seminář Příliš drahý vítr](../_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026) |
 | Ivan Noveský | ○ neutrální | Přejímá jeho termín „občasné zdroje" (místo „obnovitelné") pro vítr a slunce | 2026-06-12 | [Seminář Příliš drahý vítr](../_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026) |
 | Jana Zvěřetek-Hamplová | ○ neutrální | Odpoledne na semináři měla radit, jak se administrativně bránit akceleračním zónám | 2026-06-12 | [Seminář Příliš drahý vítr](../_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026) |
+| Marek Wollner | ❌ negativní | Po odchodu z ČT označen za „neúspěšného" se „zkrachovalým projektíkem" | 2026-06-17 | [Videoportál: dobrovolné poplatky ČT](../_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026) |
+| Zuzana Černá | ❌ negativní | Po odchodu z ČT označena za „neúspěšnou", sledovanost „asi 20 lidí" | 2026-06-17 | [Videoportál: dobrovolné poplatky ČT](../_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026) |
+| Tomáš Paukner | ✅ pozitivní | Jmenován mezi novináři, jejichž investigativu by si Rajchl rád zaplatil v „nové" ČT | 2026-06-17 | [Videoportál: dobrovolné poplatky ČT](../_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026) |
+| Pavel Štrunz | ✅ pozitivní | Echo24, vysoká sledovanost — Rajchl by si rád zaplatil jím moderovanou debatu | 2026-06-17 | [Videoportál: dobrovolné poplatky ČT](../_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026) |
 
 ---
 

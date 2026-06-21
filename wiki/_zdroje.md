@@ -2315,3 +2315,12 @@
 - **Délka:** 00:59:13 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** G7; Kallas — zákaz ruských umělců (Netrebko) a vojáků = nacismus (Charta OSN, Lavrov: VDL „Führer"); Británie financuje uran pro Ukrajinu (210 mil £) + sankce na stínovou flotilu/Yandex; Írán memorandum (60–90 dní, garanti Rusko/Čína, ~10 % aktiv, Izrael/Libanon překážka); Kushner/Witkoff do Moskvy („spirit of Anchorage"), Trump nechce vyjednávat „za Ukrajinu"; VDL: Ukrajina do EU hotová věc; Zelenskyj pozval Putina/Putin odmítl (neústavní → podpis problém), Schröder odmítnut; Británie — Liz Truss (migrace jako zbraň), Tommy Robinson, policejní brutalita → občanská válka; tanky D35; Luftwaffe (Neumann) připraven na Rusko (Kaliningrad/Petrohrad).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: dobrovolné poplatky ČT (17. 6. 2026) {#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-17_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Videoportál)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2268183050383765>
+- **Datum záznamu:** 2026-06-17
+- **Délka:** 00:03:26 | „Řešení problému s Českou televizí: dobrovolné koncesionářské poplatky"
+- **Poznámka:** Návrh dobrovolných koncesionářských poplatků jako „nejlepší řešení" (Ipsos: 15 % důchodců, 40 % studentů; reálně < 10 %); politici by ztratili vliv, ČT by musela „bojovat o diváka"; kritika „euroliberálních oveček", odejdivší novináři (Wollner, Friedrichová, Černá) označeni za „neúspěšné", vlastní seznam preferovaných (Paukner, Dobijášová, Bazalová, Stoniš, Kulidakis, Štrunz).
+- **Zpracováno:** ano
