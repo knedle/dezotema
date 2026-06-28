@@ -2416,3 +2416,13 @@
 - **Délka:** 01:03:16 | Zprávy v devět s komentářem (moderátorka Zuzka)
 - **Poznámka:** Válka NATO/EU/Ukrajina vs. Rusko („opona spadne", lháři von der Leyen/Costa, Trump 350 mld $); Irán–USA memorandum (14 bodů z Al Jazeera/Al-Arabia) = kapitulace USA + shortování ropy/krypta; migrace = Kalergiho plán/globalistická agenda (přijdou desítky milionů); klimatické změny + chemtrails (bílé slunce, těžké kovy/hliník); Miloš Zeman se obhajuje za řád Bílého lva Zelenskému (ČR má odebrat, Lorencová vrátila řád); cenzura RT/Sputnik (zprávy se v ČR nedají otevřít); biolaboratoře na Ukrajině (Larry Johnson, ex-CIA — patogeny na genetický profil Rusů); Babiš = Pavel, žádná změna (L-39 pro Ukrajinu); Bělorusko — Zelenský vyhrožuje, Gajdukevič „celý arzenál" (konflikt ne před summitem NATO).
 - **Zpracováno:** ano
+
+## Jana Zwyrtek Hamplová — Přednáška: akcelerační zóny a protiústavnost (seminář, sdíleno 20. 6. 2026) {#jana-zwyrtek-hamplová--přednáška-akcelerační-zóny-protiústavnost-seminář-sdíleno-20-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-20_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (na jejím kanálu sdílena přednáška ze semináře)
+- **Řečník:** Jana Zwyrtek Hamplová (senátorka, advokátka — veřejné a ústavní právo, samospráva)
+- **URL:** <https://m.facebook.com/watch/?v=1727811965020698>
+- **Datum záznamu:** 2026-06-20
+- **Délka:** 00:21:36 | Sněmovní seminář „Příliš drahý vítr" — ústavně-právní rozbor akceleračních oblastí
+- **Poznámka:** Akcelerační zóny/oblasti pro VTE označuje za protiústavní („znásilnění práva") — protekční zjednodušené stavební řízení pro vybrané stavebníky (OZE) porušuje rovnost před zákonem; přímý zásah do samosprávy obcí (územní plány) a vlastnických práv bez konzultace; nepřezkoumatelnost výběru lokalit; nezohledněná kumulace vlivů na krajinu a životní prostředí. Podala připomínky jako občanka ČR (aktivní legitimace — dopad na celé území), žádá úplné vypuštění AO; s obcemi připravena jít soudním přezkumem až k Ústavnímu soudu (odkaz na opakované nálezy ÚS o zásazích do samosprávy).
+- **Zpracováno:** ano

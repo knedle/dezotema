@@ -142,6 +142,23 @@ Jakub Svoboda, občanský aktivista z oblasti Ralska, přednesl na sněmovním s
 
 ---
 
+### Právní přednáška: akcelerační zóny jako „znásilnění práva" a protiústavnost — Hamplová (seminář, sdíleno 20. 6. 2026)
+
+Senátorka a advokátka Jana Zwyrtek Hamplová (specializace na veřejné a ústavní právo a samosprávu) přednesla na semináři „Příliš drahý vítr" ústavně-právní rozbor akceleračních oblastí pro VTE. Označuje je za „znásilnění práva" a protiústavní krok:
+
+- **Porušení rovnosti před zákonem.** Akcelerační zóny vytvářejí nedůvodně protekční, zjednodušené stavební řízení pro vybranou skupinu stavebníků (OZE) — „pozitivní právní diskriminaci". Logické by bylo naopak přísnější posuzování kvůli trvalým a vysoce zatěžujícím dopadům na krajinu (zatímco u garáže trvá povolení roky).
+- **Zásah do samosprávy a vlastnických práv.** Zóny shora zasahují územní plány obcí a vlastnická práva, aniž se kdokoli obcí a vlastníků ptal; připomíná opakované nálezy Ústavního soudu rušící zásahy státu do samosprávy.
+- **Nepřezkoumatelnost a kumulace.** Není čím zdůvodnit výběr konkrétních lokalit; nezohledňuje se kumulace vlivů (hluk, krajina, životní prostředí) v součtu — „dělají to po kouscích a doufají, že si toho lidé nevšimnou".
+- **Procesní obrana.** Podala připomínky jako občanka ČR (aktivní legitimace: dopad na celé území), požaduje úplné vypuštění akceleračních oblastí z územního rozvojového plánu; s obcemi je připravena jít soudním přezkumem až k Ústavnímu soudu.
+
+> „Nazvala jsem to znásilnění práva, protože nic jiného to není. […] Rovnost před zákonem není privilegium." — Jana Zwyrtek Hamplová, [seminář Příliš drahý vítr](_zdroje.md#jana-zwyrtek-hamplová--přednáška-akcelerační-zóny-protiústavnost-seminář-sdíleno-20-6-2026)
+
+Kompletní zpracování viz [Konference „Příliš drahý vítr"](extra/prilis-drahy-vitr.md#6-jana-zwyrtek-hamplová--právní-přednáška).
+
+**Zdroje:** [Hamplová — Přednáška: akcelerační zóny a protiústavnost (seminář, sdíleno 20. 6. 2026)](_zdroje.md#jana-zwyrtek-hamplová--přednáška-akcelerační-zóny-protiústavnost-seminář-sdíleno-20-6-2026)
+
+---
+
 ## Zahraniční zkušenosti
 
 ### Francie: moratorium na větrné elektrárny, Montpellier soud — Rajchl (6. 5. 2026)
