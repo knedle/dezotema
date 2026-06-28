@@ -303,6 +303,7 @@
 - Vrabel jako „pravdivostní extrémista" — kritika kultury „o nikom se nemluví"; pokrytectví Rajchla (porno „pro Němce", udával Kutý/Jaška/bratra), Zemana, Konečné — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - **22. 6.** — Pavel vs. Babiš = „iluze demokracie" (jako Starmer v Británii); Macinka vs. Pavel „šplhání" (Pavel kariérní rozvědčík, Macinka „podržtaška Klause"), ale oba dělají totéž — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - **23. 6.** — protesty mají smysl (Francouzská revoluce, Srbsko Rio Tinto/dvoje volby); ČR 2022 „nevydržela", podpora Rajchla = „největší politická chyba" — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- **25. 6.** — idealizace socialistického Československa (220 tis. vojáků, 5–10 % HDP, přesto bezplatné školství/zdravotnictví, důchod v 60, nulová nezaměstnanost); dluh tehdy 3,7 mld $ vs. dnes 169 mld $ — dřív se „rozkradlo 10 % ale vrátilo do oběhu", dnes „odváží ven ze země" — [Idealizace socialistického Československa 25. 6.](../_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -647,3 +648,4 @@
 - [Nedělní vysílání 21. 6. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - [Zprávy v devět 22. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - [Zprávy v devět 23. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- [Idealizace socialistického Československa (25. 6. 2026)](../_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)

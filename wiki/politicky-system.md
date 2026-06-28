@@ -82,6 +82,14 @@ Vrabel reaguje na celonárodní debatu, zda smí Petr Pavel na summit NATO (vlá
 
 ---
 
+### Idealizace socialistického Československa: stát uměl víc s menším dluhem — Vrabel (25. 6. 2026)
+
+Vrabel staví socialistické Československo jako protiklad dnešní ČR. Tvrdí, že ČSSR mělo v míru ~220 tis. aktivních vojáků a na obranu dávalo 5–10 % HDP — a přesto stát zvládal bezplatné vzdělání a zdravotní péči, odchod do důchodu v 60 letech (ženy dříve), výstavbu bytů, silnic, elektráren, přehrad, továren a škol, pomoc zemím třetího světa, „nulovou nezaměstnanost bez ohledu na rasu či vyznání" a podstatně nižší organizovaný zločin i drogovou scénu; „neonacismus byl nemyslitelný". Hlavní pointa je dluhová: tehdejší dluh činil ~3,7 mld $, zatímco samostatná ČR dnes dluží 169 mld $ (3,5 bilionu Kč). V popisu videa to spojuje s rozkrádáním: dřív „se rozkradlo třeba 10 %, ale vrátilo se to do oběhu", dnes se „krade mnohem víc a velká část se odváží ven ze země". Tematicky se potkává s [Černohorského bilancí státního dluhu](#státní-dluh-čr-170190-miliard-1993--35-bilionu-kč-2026--černohorský-7-5-2026) a s Vrabelovou tezí o „rozkradené republice" (viz [kauzy.md](kauzy.md#kauza-ladislav-vrabel--dotační-podvod)).
+
+**Zdroje:** [Vrabel — Idealizace socialistického Československa, 25. 6. 2026](_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika

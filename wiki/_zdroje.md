@@ -2526,3 +2526,12 @@
 - **Délka:** 00:02:27 | Zhlédnutí: 77 037 | Sestřih z debaty 360° o rozhodnutí ÚS
 - **Poznámka:** Pokračování tématu z 24. 6. — Rajchl v debatě 360° rozebírá předběžné opatření ÚS (akreditace Pavla na summit NATO): jde o „zcela výjimečný nástroj", podle něj použitý „podruhé v historii" v podobném typu sporu; cituje disentní stanoviska soudců **Jaromíra Vintra a Veroniky Řepkové** (nástroj jen pro výjimečné případy s hrozbou mimořádné škody) — z Pavlovy cesty žádná mimořádná škoda nehrozí. Dvojí metr: u valorizace důchodů seniorů (podání existovalo) ÚS předběžné opatření sám nevydal, ač mohl. Opakuje podjatost předsedy ÚS **Josefa Baxy** (2019 demonstrace Milionu chvilek + podpis výzvy „chvilka pro rezignaci" k demisi Babiše) — „tím se sám spolitizoval". Moderátorka připomíná, že rozhodovalo 15 soudců (2 disenty, oba jmenováni Pavlem). Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Idealizace socialistického Československa (25. 6. 2026) {#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-25_Ladislav-Vrabel_Videoportál.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1007929691851015>
+- **Datum záznamu:** 2026-06-25
+- **Délka:** 00:01:31 | Zhlédnutí: 9 242 | Krátké srovnání socialistického Československa s dneškem
+- **Poznámka:** Vrabel idealizuje socialistické Československo: ~220 tis. aktivních vojáků a obranné výdaje 5–10 % HDP, a přesto stát zajišťoval bezplatné vzdělání a zdravotní péči, důchod v 60 letech (ženy dříve), stavěl byty/silnice/elektrárny/přehrady/továrny/školy, pomáhal zemím třetího světa, nulová nezaměstnanost bez ohledu na rasu/vyznání, „neonacismus nemyslitelný", lepší práce Sboru národní bezpečnosti, výrazně méně organizovaného zločinu a narkomanů. Klíčový kontrast: tehdejší dluh ~3,7 mld $ vs. dnešní ČR 169 mld $ (3,5 bil. Kč). V popisu dodává tezi o rozkrádání: „dřív se rozkradlo třeba 10 %, ale vrátilo se to do oběhu, dnes se krade mnohem víc a velká část se odváží ven ze země". Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
