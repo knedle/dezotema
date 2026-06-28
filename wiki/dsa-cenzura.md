@@ -200,3 +200,13 @@ Rajchl znovu (viz [Rozsudek nad SPD = posvěcení cenzury, 3. 6.](#rozsudek-nad-
 Zítko ve vysílání komentuje nepravomocný rozsudek nad Tomiem Okamurou (SPD) — pokutu **3 miliony Kč** za předvolební plakát o „chirurzích z dovozu" (viz Rajchlovy záznamy [3. 6.](#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026) a [7. 6.](#rozsudek-nad-spd-jako-pravda-trestným-činem--obhajoba-pojmenování-migrace-rajchl-7-6-2026)). Ironicky poukazuje na to, že hned po rozsudku „chirurgové úřadovali" v Belfastu a Anglii, a označuje rozsudek za stejně absurdní jako stíhání za „šíření poplašné zprávy" — „pravda nikdy nemůže být poplašnou zprávou". Zároveň opakuje výzvu k občanům, aby přestali platit „výpalné" (koncesionářské poplatky ČT) a žádali jejich vrácení (cashback) zpětně od 12. 3. 2020, protože ČT od té doby porušuje zákon o vyváženosti a „masírovala covidiárnu".
 
 **Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
+
+---
+
+### ČT „ocenzurovala" státní hymnu v podání Jarka Nohavicy (Rajchl, 21.–23. 6. 2026)
+
+Rajchl tvrdí, že Česká televize záměrně „utnula" přenos, kdy měl písničkář **Jarek Nohavica** zazpívat státní hymnu (dle popisu na MS v hokejbalu v Ostravě) — oficiálně kvůli „technickým problémům". Podle Rajchla šlo o cenzuru kvůli Nohavicovým mírovým postojům (aby nezaznělo nic proti „unijnímu směřování či válce"); komerční stanice (Nova, Prima) by to prý odvysílaly bez problému. Dne **23. 6. 2026** Rajchl gesto dotáhl: zveřejnil hymnu v Nohavicově podání s tím, že „zastupuje veřejnoprávní televizi" a „nechce za to nic" — rýpnutí do koncesionářských poplatků. (Totéž ČT-cenzuru Nohavicovy hymny nezávisle kritizuje i Jiří Černohorský.) Tematicky souvisí s [media-propaganda — ČT není strážce demokracie](media-propaganda.md#čt-není-strážce-demokracie-ale-probruselského-směřování-dobrovolné-poplatky--rajchl-21-6-2026).
+
+> „Dovolím si zastoupit naši veřejnoprávní televizi a nabídnout vám naši hymnu v podání největšího českého barda Jarka Nohavici […]. A nechci za to nic." — Jindřich Rajchl, [Videoportál 23. 6. 2026](_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie (21. 6. 2026)](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026), [Rajchl — Hymna od Nohavicy (23. 6. 2026)](_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)

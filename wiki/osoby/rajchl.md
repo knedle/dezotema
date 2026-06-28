@@ -9,6 +9,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 ### [DSA a cenzura](../dsa-cenzura.md)
 - Odpor vůči „trusted flaggers", požadavek na oklestění DSA pozměňovacími návrhy — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 - Rozsudek nad SPD (3 mil. Kč za plakát „chirurgové z dovozu") = posvěcení cenzury a tlak na autocenzuru, ohrožení svobody slova — [Videoportál: rozsudek nad SPD a cenzura (3. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026)
+- **23. 6.** — ČT „ocenzurovala" hymnu v podání Jarka Nohavicy („technické problémy"); Rajchl ji sám zveřejnil „a nechce za to nic" (rýpnutí do poplatků) — [Hymna od Nohavicy 23. 6.](../_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)
 
 ### [FARA a neziskovky](../fara-neziskovky.md)
 - Autor návrhu zákona FARA, kritika politických neziskovek financovaných ze zahraničí — [FARA: autorství a srovnání (29. 3. 2026)](../_zdroje.md#jindřich-rajchl--zákon-fara-autorství-a-srovnání-se-zahraničím)
@@ -321,3 +322,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
 - [Videoportál: Ukrajinci před/po válce (16. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-ukrajinci-před-po-válce-16-6-2026)
 - [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+- [Hymna od Nohavicy (ČT cenzura) (23. 6. 2026)](../_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)
