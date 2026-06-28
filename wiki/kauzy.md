@@ -339,7 +339,9 @@ Průběh kauzy:
 
 Vrabel označuje celý řetězec (insolvenční správce, policie, státní zastupitelství, soud) za organizovaný zločin.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+V nedělním vysílání **21. 6. 2026** kauzu zopakoval s dalšími detaily: insolvenční správce si prý část nároku „vymyslel" (570 tis. Kč chybným sečtením), soud uložil platbu „bez jakéhokoliv dokazování" a s příslušenstvím dluh dnes dosahuje ~3 milionů Kč. K Evropskému soudu (ESLP) lze podle něj jít až po vyčerpání všech opravných prostředků v ČR (nejvyšší + ústavní soud); ve věci „bezpečnostního ohrožení" je to navíc zákonem vyňato ze soudního přezkumu. Bojanu označuje za srbskou nacionalistku, která jen pomáhala jemu — není „český vlastenec" ani ohrožení ČR.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026), [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ---
 
@@ -395,7 +397,9 @@ Okresní soud v Českých Budějovicích odsoudil Vrabela za dotační podvod k 
 
 > „Není to Vrabel, kdo krade. [...] Jsou to ty lidi, kteří rozkrádají ty miliardy ze státních rozpočtů." — Ladislav Vrabel, [Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+K odsouzení se vrátil i **21. 6. 2026**: peníze označuje za „náhradu škody", ne dotace (stát firmy zavřel a měl povinnost nahradit škodu), jediné pochybení bylo zaškrtnutí kolonky o bezdlužnosti; k soudu se kvůli nákladům nebránil a „přijal podmínku".
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026), [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ---
 

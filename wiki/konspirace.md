@@ -213,6 +213,16 @@ Pavel Zítko tuto interpretaci přijímá a rozvíjí: sametová revoluce byla d
 
 ---
 
+### CIA dosadila a řídí české elity (Klaus, Havel, Zeman); „prezidenta vybírá CIA" — Vrabel (21. 6. 2026)
+
+Vrabel tvrdí, že převrat v roce 1989 „napsala a udělala CIA" a že si pro něj vybrala lidi, s nimiž spolupracovala a kteří byli „vyškoleni na Západě" (přes Svobodnou Evropu / Hlas Ameriky) — jmenuje Václava Klause, Václava Havla a Miloše Zemana. Od té doby prý čeští politici „jezdí na školení do Aspen Institutu" a jsou „pod kontrolou"; vše dle něj řídí ministerstvo zahraničí USA ve spolupráci s CIA. Z toho vyvozuje, že budoucího prezidenta „vybere CIA" a přes média se to „zahraje". Klause viní z „okupované privatizace" (kvůli čemuž se prý rozešel s Petrem Hájkem v Protiproudu), Zemanovi vyčítá podpis česko-německé deklarace 1997 a finální „rozkaz" ocenit Zelenského a postavit se proti Putinovi. Navazuje na Černohorského/Zítkův výklad [Sametové revoluce jako řízeného rozpadu](#sametová-revoluce-jako-řízený-rozpad-stb-a-kgb) a na tezi, že prezidentské volby „vytáhnou herce" jako na Ukrajině (viz [Predikce](predikce.md)).
+
+> „Prezident bude ten, koho vybere CIA. To bude prezident." — Ladislav Vrabel, [Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+---
+
 ### Havelova rodina a spolupráce s gestapem — Zítko čte slovenský článek
 
 Pavel Zítko přečetl ve svém přenosu ze 8. dubna 2026 slovenský článek (autora: „Peťa Ko"), který tvrdí, že rodina Havelů za druhé světové války spolupracovala s německou správou a gestapem:

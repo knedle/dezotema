@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — V prezidentských volbách „vytáhnou herce" jako Zelenského (21. 6. 2026)
+
+**Předpověď:** Vrabel očekává, že proces „ukrajinizace" ČR je už daný a že v prezidentských volbách establishment „vytáhne" oblíbeného herce — stejně jako na Ukrajině vyšel Volodymyr Zelenský (původně populární herec slibující mír), který se pak stal „diktátorem". Prezidentem se podle něj stane ten, „koho vybere CIA".
+
+> „Předpokládám, že v těch prezidentských volbách vytáhnou herce. Oblíbeného herce. Stejně jako to bylo na Ukrajině." — Ladislav Vrabel
+
+**Horizont:** příští prezidentské volby (neurčeno)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+---
+
+### Ladislav Vrabel — Ukrajina v zimě skolabuje, pak přijde mírové řešení (21. 6. 2026)
+
+**Předpověď:** Vrabel odhaduje, že Rusko se bude snažit vydržet do zimy a nevstoupit se zbraněmi na území EU; zdevastovaná Ukrajina (bez elektřiny, plynu, ropy) zimu nepřežije a skolabuje, načež bude muset přijít mírové řešení. Varuje, že pokud EU/politici naopak válku „vyprovokují", hrozí jaderná eskalace (i ropné sklady v ČR — „Kralupy").
+
+> „Rusové se podle mýho názoru snaží vydržet do zimy, aby Ukrajina skolabovala. A pak bude muset přijít nějaký mírový řešení." — Ladislav Vrabel
+
+**Horizont:** zima 2026/2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+---
+
+### Ladislav Vrabel — Konflikt USA–Írán bude pokračovat roky (21. 6. 2026)
+
+**Předpověď:** Vrabel tvrdí, že íránský konflikt se „takhle nevyřeší" a potáhne se pravděpodobně roky — Trumpova mírová deklarace byla podle něj kapitulací, kterou USA hned zpochybnily (Graham, hrozby kolem Hormuzu), a íránští vyjednavači odešli z jednání ve Švýcarsku.
+
+> „Podle mě to je konflikt na dlouho, možná na roky, spíš si myslím, že na roky, to se nevyřeší takhle." — Ladislav Vrabel
+
+**Horizont:** roky (neurčeno)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+---
+
 ### Jindřich Rajchl — Britský premiér Starmer „zítra" složí funkci (21. 6. 2026)
 
 **Předpověď:** Rajchl uvádí, že se začalo spekulovat, že britský premiér Keir Starmer „zítra" (22. 6.) složí funkci — sám to vítá a označuje Starmera za velmi neúspěšného premiéra, který zapíše do historie „neslavně".

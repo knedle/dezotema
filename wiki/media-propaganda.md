@@ -79,6 +79,16 @@ Vrabel upozorňuje, že sociální sítě pravděpodobně přejdou k digitální
 
 ---
 
+### Facebook „nebezpečnější než média" — řízené potlačování dosahu Vrabela, nadhánění Rajchla (Vrabel, 21. 6. 2026)
+
+Vrabel rozvíjí tezi o Facebooku jako nástroji řízení společnosti (navazuje na [Facebook backdoor (24. 5.)](#facebook-backdoor-eu-vlády-mají-přístup-do-obsahu-vrabel-24-5-2026)). Tvrdí, že Facebook je „mnohem nebezpečnější než tradiční média", protože manipulace není vidět: u jeho příspěvků je „omezený dosah" (sdílení se dál nezobrazuje), zatímco politik, kterého prý FB „dostal za úkol" propagovat, má „deset tisíc lajků" a zobrazuje se i lidem, kteří ho neznají. Konkrétně srovnává sebe (potlačovaný) s Jindřichem Rajchlem (boostovaný) a tvrdí, že to vůbec není „organické" — uživatelé si myslí, že jde o přirozenou popularitu „hvězdy", ale „je to všechno umělé". Opírá se o to, že vláda má dle Zuckerberga „zadní vrátka" do Facebooku, a stejnou logiku přenáší na výsledek voleb a budoucí prezidentskou kampaň („udělají, aby tam byli ti správní lidé").
+
+> „Facebook je mnohem nebezpečnější než média. [...] Vy nevidíte, komu se co zobrazuje." — Ladislav Vrabel, [Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+---
+
 ### Fiala/Decroix Facebook live: cenzura otázek jako normální politická praxe (Zítko, 22. 4. 2026)
 
 Zítko dokumentuje cenzuru během prvního přímého přenosu Petra Fialy a Evy Decroix na Facebooku (21. 4. 2026): ze svých profilů odeslal řadu věcných dotazů k Bitcoinové kauze — žádná nebyla zobrazena. Dva jeho profily plus profil Československo TV2 byly Decroix zablokována; Decroix zablokovala i ministra spravedlnosti Tejce, ačkoliv ho veřejně vyzývala k debatě. Zítko zdokumentoval situaci devíti screenshoty. Označuje to za ukázku způsobu, jakým ODS/Spolu komunikuje: „Takto se staví ODS Spolu čelem k nepříjemným otázkám — na kelo."

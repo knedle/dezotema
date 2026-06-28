@@ -209,6 +209,12 @@
 - Zeman se obhajuje za řád Bílého lva Zelenskému (ČR má odebrat, Lorencová vrátila řád) — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - Babiš = Pavel (L-39 pro Ukrajinu) — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - Bělorusko — Zelenský vyhrožuje, Gajdukevič „celý arzenál" (konflikt ne před summitem NATO) — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+- **21. 6.** — Zeman vyznamenal Zelenského Řádem bílého lva (Nawrocki odebral Řád bílého orla kvůli UPA/Volyň; Lorencová vrátila řád) — má se omluvit/odebrat, Zelenský přirovnán k lupiči v bance — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- ČR/EU/NATO jako přímý účastník války (platby zbraní = spoluvina, analogie objednané vraždy), Rusko se brání a „předsunulo" konflikt, vydrží do zimy → kolaps Ukrajiny — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- Bělorusko — Zelenského ultimátum (repetitory), eskalace na Krymu/Kerčský most — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- Blízký východ — Trumpova deklarace s Íránem = „absolutní kapitulace USA", Graham vyhrožuje převzetím Hormuzu + poplatky pro USA, Ben Gvir „Libanon musí hořet", ČR kryje Izrael (žádné rezoluce), „flotila z Děčína"/Macinka-Babiš — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- Babiš = Pavel (L-39/cvičná letadla pro Ukrajinu, kasírování provizí); SPD poslalo „globalistického" ministra obrany Zunu — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- Migrace = Kalergiho plán (Ukrajinci přes slučování rodin → ~3 mil., muslimové do Evropy, „rozděl a panuj") — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -232,6 +238,7 @@
 - „Bateriový zákon" — po solárních „baterioví baroni" + ČEZ platí dvakrát (stažení/dodání), náklady na občany — [Zprávy v devět 11. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
 - Sankce neúčinné (Pagani ex-G20) — Rusko se odizolovalo, na plynu vydělává jako před válkou — [Zprávy v devět 16. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
 - Uhlíkové kredity — systém prohloubí nerovnost: chudí prodají, bohatí koupí — [Nedělní vysílání 24. 5.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+- **21. 6.** — Srbsko vs. ČR: plán EU omezit noční elektřinu domácnostem, studna/voda jako „státní bohatství" + statisícové pokuty, v Srbsku elektřina ~2 Kč a svoboda (pálenka, bez povinného očkování) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 
@@ -254,6 +261,8 @@
 - **20. 6.** — migrace = Kalergiho plán (přijdou desítky milionů) — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - Klima + chemtrails (bílé slunce, těžké kovy/hliník) — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - Biolaboratoře na Ukrajině cílené na „genetický profil" Rusů (Larry Johnson, ex-CIA) — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+- **21. 6.** — CIA „napsala" převrat 1989 a dosadila Klaus/Havel/Zeman (Aspen Institute), „prezidenta vybírá CIA" — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- Biolaboratoře na Ukrajině (Larry Johnson) + migrace jako Kalergiho plán / „rozděl a panuj" (zopakováno) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -261,6 +270,7 @@
 - ČT jako propaganda ve „Zprávách v devět" (kerosin svádí na ukrajinské drony, jednostranná proukrajinská orientace); Pegasus/NSO konference v Praze vs. manželka jako „bezpečnostní ohrožení" — [Zprávy v devět 2. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026)
 - Soudní zákaz dokumentu „Vina: případ fakulta" + blokované weby RT/Sputnik = „ČR není svobodná země"; odposlech telefonů (FSB, Pegasus, zadní vrátka pro vlády) — [Zprávy v devět 3. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 - Cenzura RT/Sputnik — zprávy se v ČR nedají otevřít, „žijete v zemi s cenzurou" — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+- **21. 6.** — Facebook „nebezpečnější než média" — řízené potlačování dosahu Vrabela vs. nadhánění Rajchla (vláda má zadní vrátka) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ### [Politický systém](../politicky-system.md)
 
@@ -271,11 +281,15 @@
 - Referendum (návrh Tejc) musí být obecné vč. EU/NATO — kvórum 35 % a 300k podpisů příliš; EET = znevýhodnění malých živnostníků oproti velkým hráčům — [Zprávy v devět 3. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 - **8. 6. (1. č.)** — summit NATO jako „divide et impera" (Pavel = Babiš, oba prosazují jaderné zbraně/platby/vojáky); zvýšení plateb za státní pojištěnce o 24 mld = okrádání na zbrojení; Dozimetr parlamentní komise bez pravomoci = „divadlo vlastenců", spící ČR vs protesty v Berlíně — [Zprávy v devět (1. č.) 8. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
 - **13. 6.** — Babiš/Macinka „předstírají opozici" vůči Fialovi, ale vedou stejnou politiku (NATO/EU/USA, Čína jen jak povolí EU); umělý konflikt vláda vs. prezident = iluze, že „nežijeme v totalitě"; Češi „politicky natvrdlí" — [Zprávy v devět 13. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+- **21. 6.** — volební „podvod" SPD/PRO/Trikolora/Svobodní (koalice „Spojení" za 5 % místo 11 %, ÚS proti, kmotr Hrdlička „ovládá vlasteneckou scénu", Okamura přepisuje ČRNPM) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- Referendum jako podvod (250 tis. podpisů, zákaz témat EU/NATO) — chtěl politické vystoupení, ne referendum — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- Vrabel jako „pravdivostní extrémista" — kritika kultury „o nikom se nemluví"; pokrytectví Rajchla (porno „pro Němce", udával Kutý/Jaška/bratra), Zemana, Konečné — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
 - Kauza Bojany Vrabelové: insolvenční správce, soud bez důkazů, Rakušan = bezpečnostní ohrožení státu bez zdůvodnění; organizovaný zločin v institucích — [Nedělní vysílání 24. 5.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 - Vlastní odsouzení za dotační podvod (ČB, 18 měs. podmínka) = politická perzekuce za „zaškrtnutí okýnka" o bezdlužnosti, vinu klade na Babišovu vládu, chce žalovat média; Babiš a rozprodej ČEZ (páteřní síť, baterie/solár bez výběrových řízení, Klausův syn dozoruje) = „rozkradená republika" — [Zprávy v devět 4. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+- **21. 6.** — manželka Bojana: insolvenční dluh ~3 mil. bez dokazování (správce si část „vymyslel"), ESLP až po vyčerpání ČR; vlastní dotační odsouzení = „náhrada škody, ne dotace", přijal podmínku — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 
@@ -524,6 +538,19 @@
 | Andrej Babiš | ❌ negativní | L-39 pro ukrajinské letectvo — „žádná změna", dělá totéž co Pavel; „Česko na prvním místě" jen uspává národ | 2026-06-20 | [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026) |
 | Larry Johnson | ○ neutrální | Bývalý důstojník CIA citován jako zdroj o biolaboratořích USA na Ukrajině (patogeny na „genetický profil" Rusů) | 2026-06-20 | [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026) |
 | Jana Lorencová | ✅ pozitivní | „Opravdový hrdina" — v roce 2022 na Václaváku vrátila Řád bílého lva na protest proti ocenění Zelenského | 2026-06-20 | [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026) |
+| Miloš Zeman | ❌ negativní | Vyznamenal Zelenského Řádem bílého lva — má se omluvit/odebrat; označen za jednoho z „trojky" dosazené CIA (s Klausem a Havlem), podpis česko-německé deklarace 1997 | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Volodymyr Zelenský | ❌ negativní | Přirovnán k lupiči v bance, který „neutekl"; vede „fašistický režim", vyhrožuje Bělorusku; posílá řády poštou zpět do Polska | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Andrej Babiš | ❌ negativní | L-39 / cvičná letadla pro Ukrajinu = „žádná změna", dělá totéž co Pavel; „kasírování provizí" za zbrojní byznys | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Tomio Okamura | ❌ negativní | „Podvodník" — do vyšší politiky přes kmotra Hrdličku, „obětoval" agendu Islám v ČR nechceme; denně „přepisuje" ČR na prvním místě; koaliční volební podvod (5 % místo 11 %) | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Tomáš Hrdlička | ❌ negativní | Kmotr (ODS), který podle Vrabela „vlastní/ovládá vlasteneckou scénu" (SPD, PRO, Trikolora) | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Jindřich Rajchl | ❌ negativní | „Pokrytec" — udával lidi za politický názor (Kutý, Jašek, bratr za nášivky Wagner/Z), natáčel porno „pro Němce", vyhrožoval kvůli vlastnímu zveřejněnému videu; Facebook ho uměle nadhání | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Kateřina Konečná | ❌ negativní | V EP hlasovala pro migrační cesty z Afriky, dnes „vlastenka"; „natahovala" Vrabela se slíbenou spoluprací před eurovolbami | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Václav Klaus | ❌ negativní | Zodpovědný za „okupovanou privatizaci", dosazen CIA; Macinka ho ocenil jako svého „politického otce" | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Václav Havel | ❌ negativní | Spolu s Klausem a Zemanem dosazen a vyškolen CIA při převratu 1989 | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Itamar Ben Gvir | ❌ negativní | Citován s výrokem „Libanon musí hořet" (síť X to odmítla smazat) | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Lindsey Graham | ○ neutrální | Citován — vyhrožuje, že USA převezme Hormuzský průliv silou a bude vybírat poplatky za průjezd | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Miroslav Sládek | ✅ pozitivní | „Velmi tvrdý člověk"; na demonstraci napaden (vytržen megafon od Vrabela), správně připomněl Zemanovu roli v deklaraci 1997 | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Jana Lorencová | ✅ pozitivní | Znovu připomenuta — záznam jejího vrácení vyznamenání označen za „nejsilnější moment" demonstrací | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
 
 ---
 
@@ -589,3 +616,4 @@
 - [Zprávy v devět 15. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-6-2026)
 - [Zprávy v devět 16. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
 - [Zprávy v devět 20. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+- [Nedělní vysílání 21. 6. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)

@@ -286,6 +286,18 @@ Vrabel si v předvolebním průzkumu Kantar (pro ČT) všiml strany **Nové Čes
 
 ---
 
+### Volební „podvod" SPD/PRO/Trikolora; kmotr Hrdlička „ovládá vlasteneckou scénu" — Vrabel (21. 6. 2026)
+
+Vrabel obviňuje volební uskupení „Spojení pro vás" (SPD + PRO + Trikolora + Svobodní) z podvodu na voličích: ač šlo o koalici, kandidovalo jako jediná politická strana — pro vstup do sněmovny jí tak stačilo 5 % místo koaličních 11 %, kterých by podle průzkumů nedosáhli. Hnutí ČR na prvním místě (a před ním dr. Sládek) to napadlo u soudu; krajské soudy prý daly za pravdu (jde o koalici, nelze registrovat jako jednu stranu), ale Ústavní soud rozhodl, že dodržení zákona by „narušilo volby" — Vrabel: podvod, kterým se do sněmovny dostali ti, kdo chtějí dělat zákony, „nikomu nevadí", zatímco obrana u soudu byla vykreslena jako udavačství. Tvrdí, že kvůli tomu jeho voliči (kromě „nejstatečnějších ~14 tisíc") odešli k SPD, které „přeskočí práh".
+
+Do širšího rámce klade tezi, že vlasteneckou scénu „vlastní" kmotr **Tomáš Hrdlička** (ODS): Okamura prý přišel do vyšší politiky přes Hrdličku a u toho byla „obětována" agenda hnutí Islám v ČR nechceme, aby měl Okamura scénu pod kontrolou — což mu prý potvrdili „úplně všichni" (Žárko Jovanović/Raptor TV, Bobošíková, Konečná). Okamura podle Vrabela „přepisuje" ČR na prvním místě (denně opakuje slogany, je v médiích). Dodává, že i Konečná (Stačilo) a Bobošíková ho údajně „natahovaly" se slíbenou spoluprací před eurovolbami a pak couvly. Navazuje na [Demonstrace 2022 zlikvidovány — opozice je dnes součástí vlády (24. 5.)](#demonstrace-2022-zlikvidovány--opozice-je-dnes-součástí-vlády-vrabel-24-5-2026) a [SPD v koalici pořádá demonstrace proti vlastní vládní politice (19.–22. 5.)](#spd-v-koalici-pořádá-demonstrace-proti-vlastní-vládní-politice--vrabel-1922-5-2026).
+
+> „Oni řekli, nám stačí pět procent. [...] A to je podvod." — Ladislav Vrabel, [Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+---
+
 ## Evropský parlament a demokratický deficit
 
 ### EP jako divadlo — předem dohodnuté hlasování
@@ -366,6 +378,18 @@ Jindřich Rajchl obhajuje tvrdou politickou odvetu jako legitimní nástroj. Sch
 > „Tady máte jasný důkaz toho, že je tato chamrať, fialovo-modrožlutá chamrať, fašistická, není o čem." — Jiří Černohorský, [TikTok živě 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
 
 **Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
+
+---
+
+### Vrabel jako „pravdivostní extrémista"; kritika kultury „o nikom se nemluví" — pokrytectví Rajchla (21. 6. 2026)
+
+Vrabel přijímá nálepku „extrémisty" a obrací ji: říká, že je „pravdivostní (pravdicový) extrémista", protože pravda je z principu extrém — nelze ji „ředit" půlpravdami a kompromisy („stačí jedna kapka lži a otráví celou nádrž pravdy"). Odmítá českou konvenci „o nikom se nemluví, špínu pod koberec" jako mechanismus, který znemožňuje pojmenovat základní problémy a dostat se „z marastu".
+
+Jako příklad pokrytectví, které pojmenovává, uvádí Jindřicha Rajchla: tvrdí, že Rajchl „udával" lidi za politický názor (Robert Kutý — dosud podmínka, Kuba Jašek — psychologické vyšetření a ztráta práce, Robertův bratr za odznak „Z" a nášivku Wagner Group) a že jako student natáčel porno „pro německou společnost", ač dnes káže „hodnoty rodiny". Zdůrazňuje, že neřeší Rajchlovo soukromí, jen to, co sám zveřejnil — a kritizuje, že kvůli vlastnímu (s kameramanem natočenému a uploadnutému) videu s manželkou pak označil jeho zveřejnění za „útok na rodinu". Stejnou optikou „pokrytectví" zmiňuje Zemana (řád Bílého lva) i Konečnou (dříve v EP hlasovala pro migrační cesty z Afriky, dnes „vlastenka"). Srov. [Vrabelovo hodnocení Rajchla — Zmíněné osoby](osoby/vrabel.md#zmíněné-osoby).
+
+> „Pravda je extrém. [...] Tam nelze jinak, než být extrémista." — Ladislav Vrabel, [Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
 ---
 

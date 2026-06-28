@@ -281,3 +281,11 @@ K studii poradenské společnosti AFRY (pro Beyond Fossil Fuels), podle níž ve
 Vrabel cituje bývalého vyjednavače za G20 Fabrizia Paganiho, podle něhož ekonomická válka Washingtonu nemůže Rusko k ničemu přinutit, protože Moskva už svou ekonomiku úspěšně izolovala. Vrabel souhlasí: Rusko sice sankcemi a omezením obchodu trpí, ale vybudovalo vlastní platební systém, navázalo se na BRICS, exportuje do Asie a postavilo nová potrubí — na plynu a ropě dnes vydělává „tolik, kolik před konfliktem", protože ceny vzrostly a našli se jiní odběratelé. Chystaný 21. balíček sankcí (mj. zákaz vystupování ruských umělců v EU) označuje za absurdní: „za chvilku budou sankce proti červené barvě, protože připomíná ruskou vlajku".
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+---
+
+### Srbsko vs. ČR: plán EU omezit noční elektřinu, „voda už není vaše" — Vrabel (21. 6. 2026)
+
+Vrabel staví Srbsko jako protiklad „šikany" v ČR/EU a uvádí dva konkrétní příklady regulace. (1) **Noční elektřina:** EU prý uvažuje nutit domácnosti šetřit elektřinu večer a v noci, aby zbylo víc energie pro datová centra a „elektrifikovaný průmysl" — což spojuje s „klimatickou bruselskou politikou" cílící na deindustrializaci. (2) **Voda ze studny:** sdílí (s výhradou, že nepotvrzeno) zprávu, že za vlastní studnu hrozí od roku 2026 statisícové pokuty — „studna je vaše, ale voda už ne", protože podzemní voda je v ČR „státní bohatství" a majitel jen uživatel potřebující povolení k nakládání s vodami. Cituje známého, který se odstěhoval do Srbska: tam lze mít tři studny, pálit pálenku, není povinné očkování, elektřina je „za dvě koruny" a vytápění většího domu ~3–4 tis. Kč/měsíc — „a není to v EU". Doplňuje [Srbsko má levný plyn díky přímé dohodě Vučić–Putin](#obnovení-ruských-dodávek-jako-jediné-řešení) a osobní [Srbsko jako model suverenity](osoby/vrabel.md#suverenita-a-eu).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
