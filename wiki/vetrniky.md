@@ -159,6 +159,21 @@ Kompletní zpracování viz [Konference „Příliš drahý vítr"](extra/prilis
 
 ---
 
+### Petice EP 0482/2021: „zdraví, nebo zájmy investorů" a princip předběžné opatrnosti — Ondrušová (seminář, sdíleno 21. 6. 2026)
+
+Slovenská aktivistka Ing. Katarína Ondrušová přednesla na sněmovním semináři „Příliš drahý vítr" stav petice Evropského parlamentu **č. 0482/2021** o dopadech větrných elektráren na zdraví. Rámcuje ji jako spor o to, zda bude mít v Evropě vyšší hodnotu zdraví občanů, nebo ekonomické zájmy investorů.
+
+- **Vývoj petice.** Vznikla 2021, dnes spojuje občanské iniciativy z více než 15 evropských zemí; otevřena k projednání byla až 2025, ČR a SR se oficiálně připojily v prosinci 2025. Dne **25. 9. 2025** výbor EP pro petice rozhodl, že petice zůstává **otevřená** — podle Ondrušové tím uznal, že větrné parky „naozaj môžu škodiť zdraviu" a že otázky hluku, infrazvuku a zdravotních dopadů nebyly evropskými institucemi uzavřeny. V březnu 2026 proběhla v EP mezinárodní konference (vědci, lékaři, poslanci, aktivisté i lobby Wind Europe) se závěrem, že pochybnosti o dopadech na zdraví musí být důsledně přezkoumány.
+- **Chybějící limity a předběžná opatrnost.** V legislativě (ČR, SK ani jinde) nejsou limity na infrazvuk; už v roce 2018 WHO upozornila na potřebu dalšího výzkumu a doporučila obezřetnost. EU stojí na principu předběžné opatrnosti — pokud existuje riziko pro zdraví, povinností státu není pochybnosti zlehčovat, ale prověřit je. Odkazuje na Aarhuskou úmluvu, dohovor o krajině, smlouvu o EU, směrnici RED3, ústavu a Listinu základních práv.
+- **„Najskôr zdravie, potom byznys."** Není proti zelené energii, ale žádá „sedlácký rozum" — kde se vyrobí, tam spotřebovat (nenaruší se síť, energie by byla levnější). Peníze z EU jsou „požička", kterou splácejí všichni, ale zisk jde jen pár investorům. Slovenský premiér sice prohlásil, že Slovensko VtE nepotřebuje, ale příprava staveb pokračuje „papírovo" — podle Ondrušové se připravuje půda pro další vládu.
+- **Výzva.** Před volbami (10. měsíc) apeluje na účast — „nemôže 5 poslancov rozhodnúť o zdraví celej dediny"; vyzývá k šíření informací a aktivitě, ne jen k „palcům" na Facebooku. Představila knihu „Negatívne účinky veterných elektrární" (200–300 studií, ~800 odkazů; na výzvu z Bruselu přeložena do angličtiny). Navazuje na ostatní přednášky téhož semináře ([Turánek](#odborná-přednáška-pulzní-infrazvuk-eroze-lopatek-devastace-půdy-a-rozpad-venkova--turánek-seminář-sdíleno-14-6-2026), [Zlínský](#lékařská-přednáška-jak-pulzní-infrazvuk-poškozuje-tělo-a-princip-předběžné-opatrnosti--zlínský-seminář-sdíleno-15-6-2026)).
+
+> „Najskôr zdravie, potom byznys." — Katarína Ondrušová, [seminář Příliš drahý vítr](_zdroje.md#katarína-ondrušová--petice-ep-04822021-a-zdraví-seminář-sdíleno-21-6-2026)
+
+**Zdroje:** [Ondrušová — Petice EP 0482/2021 a zdraví (seminář, sdíleno 21. 6. 2026)](_zdroje.md#katarína-ondrušová--petice-ep-04822021-a-zdraví-seminář-sdíleno-21-6-2026)
+
+---
+
 ## Zahraniční zkušenosti
 
 ### Francie: moratorium na větrné elektrárny, Montpellier soud — Rajchl (6. 5. 2026)
