@@ -23,6 +23,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Slovensko — COVID testy jako sběr DNA Matovičem pro izraelské laboratoře, porodnost SK −20 % — [Portál 11:11 7. 6.](../_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)
 - Porodnost Q1 2026 jen 17,5 tis. narozených (vs. 111 tis./2021), <70 tis./rok = „genocida/sterilizace očkováním" (Fürst/SmÍŠ Lab) — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - **21. 6.** — šarže „E" a 22R–22Z (5 % šarží = >75 % zemřelých), 60 tis. mrtvých Německo (Sterz)/desítky milionů globálně, Comirnaty 15 str. vedl. účinků (Indie), pokles porodnosti −30 % (Q1 jen 17,5 tis.), vina vlád Babiše i Fialy = „genocida/sterilizace" — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+- **24. 6.** — křest knihy J. Peterkové „Já, dezinformátorka" (beletrie o době 2020–24); COVID recap = pokusy na lidech/Norimberský kodex/genocida/sterilizace, −30 % porodnost, výzva k tribunálu (kniha G. Franka); šarži „E" (96 % úmrtnost) „doporučil pro vládu, parlament a jejich rodiny" (→ [stoch. teror](../stochasticky-teror.md)) — [Křest knihy 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -71,6 +72,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Füllmich přenos — Bytel TV: 22 zrušených YouTube kanálů + 4 zablokované účty, čl. 17 Listiny, „pravda je jako voda" — [Füllmich živě z vězení 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 - FB blok — Facebook zablokoval živé vysílání na 3 kanálech („kyberšikana" za fotku z UFC Freedom 250 s Trumpem), odvysíláno jako záznam; rozbor „jak bys řešil covid" (Fierst vs. Hořejší) + výzva k tribunálu Norimberg 2.0 — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - **21. 6.** — FB „falešný klon" kanálu s ukradenou identitou + manipulace čísel sledujících (originál 1000 za 3 dny → klon „dorovnán", živé sledování uměle sníženo na 50 při 1300–1400 zobrazeních), blokace pozvánky a měsíční blok vysílání = „kriminální" cenzura — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+- **24. 6.** — otevřený dopis TV NOVA (red. Klárová) a Seznamu (Ciroková) s výzvou referovat o covidu/knize pravdivě; ČT každý den porušuje zákon (Dvořák/Souček/Chudárek „přes 300 tis."), poplatky vrátit od 12. 3. 2020 — [Křest knihy 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
 
 ---
 
@@ -155,6 +157,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Jindřich Rajchl | ❌ negativní | „Vládní koaliční poslanec" — nesplněné „desatero" z 26. 1. (vystoupení z WHO, zrušení očkovací strategie, odstoupení od pandemické smlouvy); „buď máte výsledky, nebo výmluvy" | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
 | Valerij Pjakin | ○ neutrální | Ruský „akademik" blízký Putinovi — citován, že „na 99,9 %" bude obnoveno Československo jako po druhé světové válce | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
 | Petr Pavel | ❌ negativní | „Neměl koule" odpovědět na otevřený dopis Soni Pekové (doručen do datové schránky); skrývá se před dotazy, výjezdy s prověřenými lidmi | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
+| Jana Peterková | ✅ pozitivní | Autorka knihy „Já, dezinformátorka" — „byla mezi prvními, kdo po 12. 3. 2020 varoval", inspirace pro Zítka; kmotrem knihy je Zítko | 2026-06-24 | [Křest knihy „Já, dezinformátorka", 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026) |
+| Michala Klárová | ❌ negativní | Redaktorka TV NOVA — Zítko jí napsal otevřený dopis (vynechal „vážená"), vyzval NOVU přiznat „spravodajská selhání" v době covidu a referovat o křtu knihy | 2026-06-24 | [Křest knihy „Já, dezinformátorka", 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026) |
+| Kristýna Ciroková | ❌ negativní | Redaktorka Seznam Zprávy — dle Zítka debaty končí nálepkami „Putinova děvka / proruský kanál"; uvedena jako příklad „prestitutky" | 2026-06-24 | [Křest knihy „Já, dezinformátorka", 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026) |
 
 ---
 
@@ -212,3 +217,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [„33 základních pravd" + UFC preview (14. 6. 2026)](../_zdroje.md#československo-tv2--33-základních-pravd-14-6-2026)
 - [UFC Freedom 250 naplněno (15. 6. 2026)](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - [Slunovrat 11:11: falešný klon, COVID tribunál, obnova ČSR (21. 6. 2026)](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+- [Křest knihy „Já, dezinformátorka" (24. 6. 2026)](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
