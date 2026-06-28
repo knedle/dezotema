@@ -170,6 +170,8 @@ Slovenská aktivistka Ing. Katarína Ondrušová přednesla na sněmovním semin
 
 > „Najskôr zdravie, potom byznys." — Katarína Ondrušová, [seminář Příliš drahý vítr](_zdroje.md#katarína-ondrušová--petice-ep-04822021-a-zdraví-seminář-sdíleno-21-6-2026)
 
+Kompletní zpracování viz [Konference „Příliš drahý vítr"](extra/prilis-drahy-vitr.md#7-ing-katarína-ondrušová--petice-evropského-parlamentu).
+
 **Zdroje:** [Ondrušová — Petice EP 0482/2021 a zdraví (seminář, sdíleno 21. 6. 2026)](_zdroje.md#katarína-ondrušová--petice-ep-04822021-a-zdraví-seminář-sdíleno-21-6-2026)
 
 ---
