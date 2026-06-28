@@ -242,6 +242,16 @@ Rajchl tvrdí, že ho uráží, jak Petr Pavel „degraduje" prezidentský úřa
 
 ---
 
+### ÚS uložil akreditovat Pavla na summit; Rajchl: „skandální", podjatý Baxa (24. 6. 2026)
+
+Ústavní soud předběžným opatřením uložil vládě Andreje Babiše povinnost akreditovat prezidenta Petra Pavla na summit NATO v Ankaře (završení sporu o účast — viz [Spor Pavel vs. Babiš (22. 6.)](#spor-pavel-vs-babiš-o-summit-kompetenční-žaloba-a-starmerova-rezignace-jako-iluze-demokracie--vrabel-22-6-2026) a [Výčet 19 summitů (Vrabel, 23. 6.)](#výčet-19-summitů-nato-jako-důkaz-že-ostuda-pavla-je-umělé-téma--vrabel-23-6-2026), kde Vrabel předpovídal, že Pavel u ÚS uspěje). Rajchl rozhodnutí označuje za „zcela skandální": ÚS podle něj „vybočil ze svého rámce" a posunul ČR z parlamentní demokracie do „režimu prezidentské republiky" — „otevření Pandořiny skříňky" s dalekosáhlými důsledky; rychlost i odůvodnění považuje za „nevalidní". Předsedu ÚS **Josefa Baxu** označuje za podjatého: v roce 2019 se zúčastnil demonstrace spolku Milion chvilek proti vládě Babiše a podepsal výzvu „chvilka pro rezignaci" žádající demisi Babišovy vlády — „takový člověk z principu nemůže být nestranný". Připojuje hodnocení Miloše Zemana (ÚS „podjatý") a Petra Macinky („ústavní puč").
+
+> „Toto rozhodnutí nás posunuje z režimu parlamentní demokracie do režimu prezidentské republiky. Je otevřením Pandořiny skříňky." — Jindřich Rajchl, [Videoportál 24. 6. 2026](_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
+
+**Zdroje:** [Rajchl — ÚS uložil akreditovat Pavla na summit, 24. 6. 2026](_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

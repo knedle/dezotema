@@ -97,6 +97,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Debata (4. 6.): konsolidace Fialovy vlády = okrádání rodin (Onsemi 10 mld, rodičák pod inflací, zrušené slevy −135 tis.), recept = rovná daň + nejnižší energie + dotace českým firmám — [Videoportál: debata o ekonomice Fialovy vlády (4. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-debata-ekonomika-fialy-4-6-2026)
 - Pavel — indoktrinace dětí ve školách (Kunovice) + program PRO školství (zákaz indoktrinace/inkluze/neziskovek); Pavel/Ankara = umanutost; Hřib útoky na poslankyně + dvojí metr na mladé; protekcionismus — přednost českých firem (45 % zpět do rozpočtu), ČR jako koloniální systém (7. 6.) — [FB Live: nenechme si rozkládat zemi (7. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
 - **21. 6.** — Petr Pavel jako „pózer/kašpár", ne osobnost (Le Mans/MotoGP, kult osobnosti à la Kim Čong-un, Eva Pavlová „Madonna", chybí v Lidicích), Babiš/Ivana Tykač lepší prezident — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+- **24. 6.** — ÚS uložil vládě akreditovat Pavla na summit NATO = „skandální", posun do prezidentské republiky („Pandořina skříňka"); předseda ÚS Josef Baxa podjatý (2019 demonstrace Milionu chvilek + výzva k demisi Babiše) — [ÚS: akreditace Pavla na summit (24. 6. 2026)](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -240,6 +241,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Volodymyr Zelenský | ❌ negativní | „Adoruje nacizmus" (pojmenování jednotky po UPA) — drží řád Bílého lva, který by mu měl být odebrán jako polský řád Bílé orlice | 2026-06-21 | [FB Live: ČT není strážce demokracie](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026) |
 | Jaromír Nohavica | ✅ pozitivní | „Legenda, největší český bard" — ČT cenzurovala (utnula) jeho zpěv hymny na MS v hokejbalu, prý kvůli jeho mírovým postojům | 2026-06-21 | [FB Live: ČT není strážce demokracie](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026) |
 | Ivana Tykač | ✅ pozitivní | Spekuluje se o její prezidentské kandidatuře — Rajchl by ji preferoval před Pavlem, „dělala by čest Pražskému hradu" | 2026-06-21 | [FB Live: ČT není strážce demokracie](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026) |
+| Josef Baxa | ❌ negativní | Předseda ÚS — podle Rajchla podjatý (2019 se účastnil demonstrace Milionu chvilek proti Babišovi a podepsal výzvu k jeho demisi); jím vedený ÚS uložil akreditovat Pavla na summit = „skandální" rozhodnutí | 2026-06-24 | [ÚS: akreditace Pavla na summit](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026) |
 
 ---
 
@@ -323,3 +325,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál: Ukrajinci před/po válce (16. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-ukrajinci-před-po-válce-16-6-2026)
 - [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - [Hymna od Nohavicy (ČT cenzura) (23. 6. 2026)](../_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)
+- [ÚS: akreditace Pavla na summit (24. 6. 2026)](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
