@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Britský premiér Starmer „zítra" složí funkci (21. 6. 2026)
+
+**Předpověď:** Rajchl uvádí, že se začalo spekulovat, že britský premiér Keir Starmer „zítra" (22. 6.) složí funkci — sám to vítá a označuje Starmera za velmi neúspěšného premiéra, který zapíše do historie „neslavně".
+
+> „Dnes čerstvě se začalo spekulovat, že zítra složí funkci premiér Velké Británie Keir Starmer." — Jindřich Rajchl
+
+**Horizont:** 22. 6. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
+
+### Jindřich Rajchl — Evropský průmysl skoupí Čína kvůli Green Dealu (21. 6. 2026)
+
+**Předpověď:** Rajchl předpovídá, že kvůli Green Dealu (vysoké ceny energií) evropský automobilový a další průmysl nezanikne, ale skoupí ho čínští akcionáři — Evropa skončí jako „kolonie Číny".
+
+> „Evropský automobilový průmysl nezanikne. Bude pokračovat dál. Jenom ji skoupí čínští akcionáři." — Jindřich Rajchl
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
+
 ### Ladislav Vrabel — Konflikt s Běloruskem nepřijde před summitem NATO (20. 6. 2026)
 
 **Předpověď:** Vrabel očekává, že přes Zelenského výhrůžky Bělorusku nedojde k otevřenému konfliktu „teď" — před summitem NATO podle něj žádný takový konflikt nebude, byť eskalace už probíhá.

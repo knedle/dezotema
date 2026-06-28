@@ -196,6 +196,17 @@ Vrabel ke zprávě (Politico), že evropské firmy (hotelové řetězce Meliá, 
 Vrabel po opětovném poslechu Putinova projevu z fóra v Petrohradu shrnuje jeho hlavní poselství: evropská ekonomika byla „znásilněna" — stala se z ní politický nástroj (sankce, cla, vydírání), a proto nefunguje. Jako důkaz uvádí zavírání německých podniků a stěhování chemičky BASF do Číny. Evropu označuje (z pohledu světa) za „nejkritizovanější místo na světě" — víc než USA (kvůli Íránu) i Izrael. Kontrastuje to s pohledem, kde ekonomika = byznys a čísla, a politika slouží dobrým vztahům mezi zeměmi. Rozšiřuje záznam z [BRICS předčil G7](#brics-předčil-g7-putin-varuje-před-usdt-a-digitálním-eurem-vrabel-5-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+
+### Green Deal zničí evropský průmysl — Čína skoupí automobilky, zavřená hliníkárna Žiar (Rajchl, 21. 6. 2026)
+
+Rajchl cituje rozhovor expertů o budoucnosti evropského automobilového průmyslu s pointou, že průmysl „nezanikne — jen ho skoupí čínští akcionáři". BMW, Audi i Volkswagen hlásí obrovské ztráty; jejich akcionáři podle něj rádi prodají při dobré nabídce, takže Evropa skončí jako „kolonie Číny". Jako konkrétní příklad uvádí hliníkárnu v **Žiaru nad Hronom** (~16 % evropské spotřeby hliníku), která je zavřená, protože kvůli vysoké ceně elektřiny (z velké části daň Green Dealu) nemůže konkurovat — hliník se teď dováží z Číny se **zhruba sedminásobnou uhlíkovou stopou**. Upozorňuje na absurditu: atmosféra je jedna, takže pro klima je dovoz z Číny horší, než kdyby se hliník vyráběl doma. Zpochybňuje i „jednotný trh", když Francie a Portugalsko mají výrazně levnější elektřinu. Navazuje na jeho výklad Green Dealu jako „apokalypsy Evropy" (viz [predikce 14. 6.](predikce.md)).
+
+> „Lepší devastaci evropského průmyslu by nevymyslel nikdo na světě, než se to povedlo vám." — Jindřich Rajchl (k Bruselu), [FB Live 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
+
 ## Energetika a Rusko
 
 ### Obnovení dovozu ruského plynu a ropy jako řešení energetické krize

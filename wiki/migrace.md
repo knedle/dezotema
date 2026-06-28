@@ -304,3 +304,16 @@ Vrabel upozorňuje na nevládní studii britského poslance **Ruperta Lowea** (1
 Ke zprávě o rekordních počtech migrantů (304 mil. lidí žijících mimo zemi původu v roce 2024) Vrabel tvrdí, že hlavní příčinou migrace není ekonomika ani klima, ale „globalistická agenda": cílem je jeden světový stát s jednou světovládou řízenou elitami. Odvolává se na „Kalergiho plán" — vytvoření „nového evropského člověka", smíšeného a vykořeněného, který nebude vědět, „kým je", aby národy už nikdy nedržely pohromadě. EU podle něj proto „bojuje jen s nelegální migrací" naoko, ale promíchání populace je jejím principem (zboření národů kvůli „míru"). Předpovídá, že dosavadní příchod milionů z Afriky a Blízkého východu je teprve začátek — s válkami, vedry/klimatem a otevřenými hranicemi přijdou „desítky milionů" a velká demografická změna (viz [predikce](predikce.md)). ČR si podle něj situaci zhoršila migračním paktem (platným od 12. 6.) a otevřením hranic ukrajinským uprchlíkům. Navazuje na [Migrační pakt vstoupil v platnost — Kalergiho plán (12. 6.)](#migrační-pakt-vstoupil-v-platnost--vláda-ho-podle-vrabela-neodmítla-12-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
+### Zrušit dočasnou ochranu a dávky, automatická deportace; vyvrácení statistiky Lásky; neasimilace dětí — Rajchl (21. 6. 2026)
+
+Rajchl opakuje výzvu zrušit dočasnou ochranu a veškeré dávky Ukrajincům: mnozí prý mezi čtyřma očima přiznávají, že „se modlí, ať válka neskončí" (jinak by museli mít živnost a přišli by o příspěvky), podnikají bez živnostenského oprávnění a neplatí daně ani pojistné. Žádá revizi pobytu příchozích po roce 2022 (kdo si nenašel práci, „tady nemá co dělat") a zavedení **automatické deportace** za jakýkoli trestný čin či násilný přestupek (analogie: host, který vám doma krade, musí pryč).
+
+- **Vyvrácení statistiky Václava Lásky.** Na Láskovu statistiku, že odsouzených Ukrajinců ve vězení je procentuálně méně než Čechů, reaguje, že jde o „demagogii nejtěžšího kalibru": při ~dvouleté délce trestního řízení se pachatelé z let 2024–2026 ještě ve vězení nenacházejí. Správné srovnání by bylo počtem **zahájených trestních řízení za poslední 4 roky** (ne tresty za 20 let) — pak „vypadnou úplně jiná čísla".
+- **Ukrajinské děti se neasimilují.** Proti tvrzení ministra Plagy o dobré asimilaci tvrdí, že velká část ukrajinských dětí do školy nechodí, nebo neumí pořádně česky; jediný žák nerozumějící výkladu zdržuje vzdělávání celé třídy. Navrhuje vytvořit jim vlastní třídy, ale ne na úkor vzdělávání českých dětí — zdůrazňuje, že nejde o národnost („i kdyby byli z Bangladéše").
+
+Navazuje na [Rozdíl mezi Ukrajinci před válkou a po válce (Rajchl, 16. 6.)](#rozdíl-mezi-ukrajinci-před-válkou-a-po-válce-zrušit-dávky-a-dočasnou-ochranu--rajchl-16-6-2026).
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)

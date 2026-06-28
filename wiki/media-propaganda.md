@@ -22,6 +22,21 @@ Nejlepší řešení: ČT se musí uživit sama ze sledovanosti. Pokud chtějí 
 
 ---
 
+### ČT není strážce demokracie, ale probruselského směřování; dobrovolné poplatky — Rajchl (21. 6. 2026)
+
+Rajchl věnoval celé vysílání médiím a tvrdí, že Česká televize „už roky dokazuje, že není strážcem demokracie, ale strážcem probruselského a prounijního směřování ČR" — upravuje obsah tak, aby vytvářela dojem neodpovídající realitě. Klíčové body:
+
+- **Cenzura Jaromíra Nohavicy.** ČT podle něj „rychle utnula" přenos, když měl Nohavica zazpívat hymnu na MS v hokejbalu v Ostravě — prý aby nezaznělo nic proti unijnímu směřování či válce (Nohavica apeluje na mír). Tvrdí, že Nova či Prima by to bez problému odvysílaly.
+- **Stávka zaměstnanců ČT je protizákonná.** Zaměstnanci placení z veřejných peněz nesmějí zneužívat obrazovku ČT k prosazování vlastních zájmů (jiný způsob financování, než určí vláda) — tím se podle něj „pohybují mimo zákonný rámec".
+- **ČT horší a dražší než komerční média.** CNN Prima News (ocenění za zpravodajství) dělá podle něj „stokrát lepší práci" se šestinou zaměstnanců a bez garantovaného rozpočtu; Nova i Prima jsou „mnohem objektivnější". Proč by ČT měla být výjimkou, která nemusí bojovat o diváka?
+- **Dobrovolné koncesionářské poplatky (řešení).** Navrhuje, aby si ČT vydělala na provoz dobrovolnými poplatky — pak by žádný politik neurčoval její rozpočet a ČT by musela bojovat o diváka. Sám deklaruje, že by rád platil i víc, kdyby reportáže dělali jím preferovaní novináři (Paukner, Dobijášová, Štrunc, Panenka), ale odmítá platit „za evropskou propagandu". K návrhu se prý připojil i Miloš Zeman; odkazuje na průzkum Ipsos (dobrovolně by platilo jen ~15 % důchodců).
+
+> „Pro demokracii v České republice by bylo lepší, kdyby tady žádná Česká televize nebyla." — Jindřich Rajchl, [FB Live 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
+
 ### Ceny Anděl: vulgární výstupy vůči politikům — argument pro zrušení ČT poplatků
 
 Rajchl v živém vysílání z Budapešti (12. 4. 2026) zmiňuje galavečer Cen Anděl, kde účinkující adresovali přítomným politikům vulgární a hanlivé vzkazy. Tuto událost využívá jako argument pro zrušení povinných televizních poplatků: veřejnoprávní média podobné výstupy nekritizují ani nekorigují, a tím de facto legitimizují útoky na politické představitele, za jejichž přenos občané platí z vlastní kapsy.
@@ -160,6 +175,16 @@ Případ Natálie Vachatové: označena za „ruskou kolaborantku" jen proto, ž
 > „Buďte si jistí, že já jsem sice označený za toho, kdo kreslí terče. Ale k tomu terčování přispívá taky Adéla Urbanová, která napíše, že jsem ruský agent, a pak jeden z jejích sledujících napíše: ‚Budeš viset ty zmrdě, my si tě najdeme.'" — Jindřich Rajchl, [Média: Zuzana Černá, ODS Hedia (6. 5.)](_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
 
 **Zdroje:** [Rajchl — Média: Zuzana Černá, ODS Hedia, dvojí metr, 6. 5. 2026](_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
+
+---
+
+### Dvojí metr v kauzách: byty vs. Pauknerovy korupce; demaskování pseudonymu — Rajchl (21. 6. 2026)
+
+Rajchl tvrdí, že média a Milion chvilek řeší poslední měsíc „byty" (ministryně Mrázová, poradkyně Bárta, Prokop), ale ignorují mnohem závažnější korupční kauzy za desítky až stovky milionů, které „na stříbrném podnose" servíruje na Facebooku **Tomáš Paukner**: předražený nákup 20 let starých repasovaných vrtulníků, „malé domů" Hladíka (MŽP) a kauza náměstka Karla Dvořáka (justice za Blažka), který bez výběrového řízení dostával lukrativní zakázky od firem napojených na Prahu (odnož dozimetru). Seznam podle něj místo řešení kauz **změnil pravidla Seznam Médium**, aby Pauknera donutil odhalit identitu (ověření totožnosti) — to označuje za přímý útok na demaskování pseudonymu (kontrast s účtem „Julius Šuman", který média kdysi bez výhrad přebírala). Milion chvilek a Mikuláše Mináře (jemuž vyčítá zpronevěru 7 mil. při zakládání nikdy nevzniklé strany) líčí jako „vlivovou strukturu" financovanou lidmi nesmířenými s výsledkem voleb, kteří si z Petra Pavla udělali náhradního „lídra opozice". Spravedlnost má podle něj „díky médiím jedno oko pootevřené" (řeší byty, ne dozimetr, vrtulníky či pět podezřelých úmrtí).
+
+> „Jaký jste strážci demokracie, když si vybíráte jenom některé kauzy?" — Jindřich Rajchl, [FB Live 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 
 ---
 

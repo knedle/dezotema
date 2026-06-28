@@ -2426,3 +2426,12 @@
 - **Délka:** 00:21:36 | Sněmovní seminář „Příliš drahý vítr" — ústavně-právní rozbor akceleračních oblastí
 - **Poznámka:** Akcelerační zóny/oblasti pro VTE označuje za protiústavní („znásilnění práva") — protekční zjednodušené stavební řízení pro vybrané stavebníky (OZE) porušuje rovnost před zákonem; přímý zásah do samosprávy obcí (územní plány) a vlastnických práv bez konzultace; nepřezkoumatelnost výběru lokalit; nezohledněná kumulace vlivů na krajinu a životní prostředí. Podala připomínky jako občanka ČR (aktivní legitimace — dopad na celé území), žádá úplné vypuštění AO; s obcemi připravena jít soudním přezkumem až k Ústavnímu soudu (odkaz na opakované nálezy ÚS o zásazích do samosprávy).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — FB Live: ČT není strážce demokracie (21. 6. 2026) {#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-21_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook Live)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1147458754261704>
+- **Datum záznamu:** 2026-06-21
+- **Délka:** 01:03:38 | „Česká televize není strážcem demokracie. Je strážcem probruselského směřování ČR."
+- **Poznámka:** ČT = strážce probruselského směřování, ne demokracie (cenzura hymny J. Nohavicy, stávka jako protizákonné zneužití obrazovky, ČT horší/dražší než Nova/Prima/CNN Prima News), návrh dobrovolných koncesionářských poplatků (připojil se Zeman); dvojí metr v kauzách (média řeší byty, ignorují Pauknerovy kauzy — vrtulníky, Hladík, Dvořák/dozimetr; Seznam demaskuje Pauknerův pseudonym; Minář 7 mil. / Milion chvilek jako vlivová struktura); Petr Pavel jako „pózer/kašpár" (Le Mans/MotoGP, kult osobnosti à la Kim Čong-un, Eva Pavlová „Madonna", chybí v Lidicích, Babiš/Tykač lepší); Zelenský adoruje nacismus (UPA) — Pavlovo mlčení urážka předků, odebrat řád Bílého lva, ať Ukrajinci vrátí Polsku i peníze; zrušit dočasnou ochranu/dávky Ukrajincům + automatická deportace (vyvrácení statistiky V. Lásky o vězních); ukrajinské děti se neasimilují a brzdí výuku (vs. Plaga); Green Deal zničí evropský průmysl (čínští akcionáři skoupí automobilky, zavřená hliníkárna Žiar n. Hronom); zbrojení (F-35/munice/tanky) vs. záchrana životů (sbírky Bára/Pavlína, 1 mil. = 1 život), „odstrašování Putina" = lež. Predikce: Starmer „zítra" rezignuje.
+- **Zpracováno:** ano

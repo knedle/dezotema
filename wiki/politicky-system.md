@@ -212,6 +212,16 @@ V rozhovoru pro TV Česko Tarabová hodnotí prezidentský úřad:
 
 ---
 
+### Petr Pavel jako „pózer/kašpár", ne osobnost — Rajchl (21. 6. 2026)
+
+Rajchl tvrdí, že ho uráží, jak Petr Pavel „degraduje" prezidentský úřad chováním „mediální hvězdy na úrovni Československo hledá Superstar": fotí závody Le Mans a MotoGP (s Valentinem Rossim), leze na stožáry jako „zachránce paraglidistů", komentuje koncesionářské poplatky. Prezident podle něj má být „morálním, mravním a intelektuálním lídrem" a pracovat pro občany — což Pavel nedělá. Adoraci v médiích (Pavel „sklidil větší aplaus" na koncertě; Eva Pavlová „jako Madonna", ženy chtějí její účes) přirovnává k „referování o Kim Čong-unovi" — horšímu než severokorejská propaganda; připomíná, že tatáž média se dříve smála kultu osobnosti kolem Putina (judo, hokej). Vyčítá Pavlovi, že se jel fotit na závody, místo aby byl v Lidicích. Na rozdíl od Klause, Zemana i Havla (s nimiž nesouhlasil, ale byli to „osobnosti" s nezpochybnitelným intelektem) je Pavel podle něj „pózer/reklamní figurka". Doufá ve změnu za rok a půl; jako lepší alternativy jmenuje Andreje Babiše a možnou kandidátku Ivanu Tykač. Navazuje na [Pavel „panák" — Tarabová (15. 6.)](#pavel-panák-vs-zeman-můj-prezident-favorit-marek-vašut--tarabová-15-6-2026).
+
+> „Petr Pavel je kašpár, který se předvádí před televizními kamerami […] vyhrazuje pozici prezidenta naší země." — Jindřich Rajchl, [FB Live 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

@@ -410,6 +410,16 @@ Poté, co polský prezident odebral Zelenskému řád Bílé orlice, vyzval Vrab
 
 ---
 
+### Polské odebrání řádu demaskovalo Zelenského; Pavlovo mlčení = urážka předků — Rajchl (21. 6. 2026)
+
+Rajchl označuje odebrání nejvyššího polského vyznamenání (řád Bílé orlice) Zelenskému za „zásadní moment" — jedna „dírka do přehrady" lži, po níž se „celé sesype". Poláci podle něj Zelenského demaskovali: kdo adoruje nacismus, nepatří mu nejvyšší státní vyznamenání. UPA označuje za nacistickou jednotku, která ve Volyni vyvraždila desetitisíce lidí (včetně těhotných žen a dětí přibíjených na stromy) a do roku 1947 vraždila i Židy, Čechy a Slováky — pokud Zelenský pojmenuje jednotku po UPA, „je nacistou". Současnou Ukrajinu charakterizuje obrazem „boří se sochy Bulgakova a staví sochy Bandery". Pavlovo mlčení (jako držitele i udělovatele řádu Bílého lva Zelenskému) nazývá „obrovskou urážkou předků" a obviňuje opozici z dvojího metru (obviňuje vlastence z „náckovství" kvůli odporu k sjezdu Landsmannschaftu, ale tleská „otevřenému náckovi" Zelenskému). Vyzývá Pavla k odebrání řádu Bílého lva. Ukrajincům vracejícím polská vyznamenání ironicky doporučuje „dotáhnout to do konce" a vrátit Polsku i všechny peníze. Navazuje na [Zelenský pojmenoval jednotku po UPA — Rajchl (31. 5./7. 6.)](#zelenský-pojmenoval-jednotku-po-upa--důkaz-nacistické-ideologie-výzva-k-odebrání-řádu-pavlovi-rajchl-31-5-2026).
+
+> „V tuto chvíli je naše nejvyšší vyznamenání v rukou člověka, který adoruje nacizmus. Takhle prosté to je." — Jindřich Rajchl, [FB Live 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
+
 ## Vyjednávání a mír
 
 ### EU mírový plán (DE/FR/UK) + Babiš chce Merze; Německo vypadlo z Rady bezpečnosti OSN (Vrabel, 4. 6. 2026)
@@ -521,6 +531,16 @@ Předseda Evropské rady António Costa dvakrát zavolal do Ruska kvůli možný
 ---
 
 ## NATO, zbrojení a militarizace ČR/Evropy
+
+### Zbrojení vs. záchrana životů — peníze na zbraně místo na léčbu (Rajchl, 21. 6. 2026)
+
+Rajchl staví do protikladu výdaje na zbrojení a záchranu konkrétních lidských životů: jedna letová hodina F-35 (~1 milion Kč) by mohla zaplatit léčbu, kterou pojišťovna nehradí, a zachránit jeden život. Ilustruje to sbírkami pro nemocné (Bára z Opavy — české zdravotnictví jí ve 31 letech nabídlo jen paliativní péči, za 1 mil. Kč jí umožnili individuální léčbu ve Švýcarsku, která zabírá; Pavlína z Olomouckého kraje). Tvrdí, že „odstrašování Putina" a nutnost zbrojit (160 → 240 mld. Kč, tanky, BVP, munice, F-35) je „lež" a „snaha přetransformovat peníze do kapes zbrojařů, bankéřů a finančních institucí". Deklaruje, že jedním z hlavních směrů jeho politiky bude investovat do technologií a lidí zachraňujících životy, ne do „železa, které lidské životy ničí". Navazuje na svůj dřívější morální argument (1 tank Leopard = 745 mil. Kč = „745 zachráněných životů", [zdroj 18. 6.](_zdroje.md#jindřich-rajchl--videoportál-leopard-vs-záchrana-životů-18-6-2026)).
+
+> „Zachránit lidský život je noblesní a ctnostné, zničit ho je nehumánní a odporné." — Jindřich Rajchl, [FB Live 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+**Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
 
 ### Lavrov na BRICS: Donbas — jazyková práva, Ukraina 4× překročila MMF limit (Vrabel, 15. 5. 2026)
 
