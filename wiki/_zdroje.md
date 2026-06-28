@@ -2517,3 +2517,12 @@
 - **Délka:** 00:02:26 | Zhlédnutí: 51 341 | Promo na pořad 360° (CNN Prima News) + reakce na rozhodnutí ÚS
 - **Poznámka:** Ústavní soud (předběžné opatření) uložil vládě Andreje Babiše povinnost akreditovat prezidenta Petra Pavla na summit NATO v Ankaře. Rajchl to označuje za „zcela skandální", ÚS dle něj „vybočil ze svého rámce" a rozhodnutí posouvá ČR z parlamentní do prezidentské republiky = „otevření Pandořiny skříňky"; rychlost i odůvodnění označuje za „nevalidní". Předsedu ÚS **Josefa Baxu** označuje za podjatého — v roce 2019 se zúčastnil demonstrace spolku Milion chvilek proti vládě Babiše a podepsal výzvu „chvilka pro rezignaci" k demisi Babišovy vlády. Cituje i Zemana (ÚS „podjatý") a Macinku („ústavní puč"). (Završuje ságu Pavel vs. summit — potvrzuje Vrabelův odhad, že Pavel u ÚS uspěje.) Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — 360° k rozhodnutí ÚS (předběžné opatření) (25. 6. 2026) {#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-25_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook / sdílení z pořadu 360° CNN Prima News)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2002757127277378>
+- **Datum záznamu:** 2026-06-25
+- **Délka:** 00:02:27 | Zhlédnutí: 77 037 | Sestřih z debaty 360° o rozhodnutí ÚS
+- **Poznámka:** Pokračování tématu z 24. 6. — Rajchl v debatě 360° rozebírá předběžné opatření ÚS (akreditace Pavla na summit NATO): jde o „zcela výjimečný nástroj", podle něj použitý „podruhé v historii" v podobném typu sporu; cituje disentní stanoviska soudců **Jaromíra Vintra a Veroniky Řepkové** (nástroj jen pro výjimečné případy s hrozbou mimořádné škody) — z Pavlovy cesty žádná mimořádná škoda nehrozí. Dvojí metr: u valorizace důchodů seniorů (podání existovalo) ÚS předběžné opatření sám nevydal, ač mohl. Opakuje podjatost předsedy ÚS **Josefa Baxy** (2019 demonstrace Milionu chvilek + podpis výzvy „chvilka pro rezignaci" k demisi Babiše) — „tím se sám spolitizoval". Moderátorka připomíná, že rozhodovalo 15 soudců (2 disenty, oba jmenováni Pavlem). Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

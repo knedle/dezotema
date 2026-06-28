@@ -98,6 +98,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Pavel — indoktrinace dětí ve školách (Kunovice) + program PRO školství (zákaz indoktrinace/inkluze/neziskovek); Pavel/Ankara = umanutost; Hřib útoky na poslankyně + dvojí metr na mladé; protekcionismus — přednost českých firem (45 % zpět do rozpočtu), ČR jako koloniální systém (7. 6.) — [FB Live: nenechme si rozkládat zemi (7. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
 - **21. 6.** — Petr Pavel jako „pózer/kašpár", ne osobnost (Le Mans/MotoGP, kult osobnosti à la Kim Čong-un, Eva Pavlová „Madonna", chybí v Lidicích), Babiš/Ivana Tykač lepší prezident — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **24. 6.** — ÚS uložil vládě akreditovat Pavla na summit NATO = „skandální", posun do prezidentské republiky („Pandořina skříňka"); předseda ÚS Josef Baxa podjatý (2019 demonstrace Milionu chvilek + výzva k demisi Babiše) — [ÚS: akreditace Pavla na summit (24. 6. 2026)](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
+- **25. 6.** — 360°: předběžné opatření „podruhé v historii", disent Vintra/Řepkové (jen pro mimořádnou škodu), dvojí metr vůči valorizaci důchodů — [360° k rozhodnutí ÚS (25. 6. 2026)](../_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -326,3 +327,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - [Hymna od Nohavicy (ČT cenzura) (23. 6. 2026)](../_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)
 - [ÚS: akreditace Pavla na summit (24. 6. 2026)](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
+- [360° k rozhodnutí ÚS (25. 6. 2026)](../_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)

@@ -248,7 +248,11 @@ Rajchl tvrdí, že ho uráží, jak Petr Pavel „degraduje" prezidentský úřa
 
 > „Toto rozhodnutí nás posunuje z režimu parlamentní demokracie do režimu prezidentské republiky. Je otevřením Pandořiny skříňky." — Jindřich Rajchl, [Videoportál 24. 6. 2026](_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
 
-**Zdroje:** [Rajchl — ÚS uložil akreditovat Pavla na summit, 24. 6. 2026](_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
+V debatě 360° (**25. 6.**) Rajchl argumentaci rozvedl: předběžné opatření je „zcela výjimečný nástroj", v podobném typu sporu prý použitý teprve „podruhé v historii". Opírá se o disentní stanoviska soudců **Jaromíra Vintra a Veroniky Řepkové**, podle nichž lze tento nástroj použít jen ve výjimečných případech s hrozbou mimořádné škody — z Pavlovy cesty do Ankary podle něj žádná mimořádná škoda nehrozí. Poukazuje na dvojí metr: u valorizace důchodů seniorů (kde podání existovalo) ÚS předběžné opatření sám nevydal, ač mohl. Moderátorka připomněla, že rozhodovalo 15 soudců a oba disentující jmenoval Petr Pavel.
+
+> „To, že Petr Pavel pojede do Ankary nebo nepojede do Ankary — tam hrozí nějaká mimořádná škoda? V žádném případě ne." — Jindřich Rajchl, [360° 25. 6. 2026](_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
+
+**Zdroje:** [Rajchl — ÚS uložil akreditovat Pavla na summit, 24. 6. 2026](_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026), [Rajchl — 360° k rozhodnutí ÚS, 25. 6. 2026](_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
 
 ---
 
