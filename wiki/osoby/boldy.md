@@ -6,13 +6,35 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 
 ## Témata
 
-| Téma | Co konkrétně zastává |
-|------|----------------------|
-| [Konspirační teorie](../konspirace.md) | Trump jako Abaddon/Moon Child, Velký Izrael, třetí chrám, hospodářská krize záměrně plánována elitami (přelomu 2026/2027), tokenizace majetku, chemtrails, dvojníci politiků, Nord Stream (Mosad/Ukrajina), ČR jako centrum okultismu, Mesiáš a válka s Íránem; Artemis jako AI podvod a odvedení pozornosti; Trump hrozí vymazáním civilizace; Holocaust denial — 6 mil. je „píčovina", Chazarové vs. Židi; 13 vědců zavražděno po objevu volné energie (24. 5.) |
-| [COVID a vakcíny](../covid-vakciny.md) | mRNA v rostlinách a potravinovém řetězci, depopulace |
-| [Média a propaganda](../media-propaganda.md) | ČT jako propaganda, TV Nova ještě horší, filmy jako záměrné odhalení plánů elit |
-| [Ceny energií](../ceny-energie.md) | Válka s Íránem může poslat ropu na 300 USD/barel, paliva 70–150 Kč/litr |
-| [Větrné elektrárny](../vetrniky.md) | Píseň proti větrníkům na Moravě — výzva poslat turbíny „do Bruselu" a protestovat v Praze |
+### [Konspirační teorie](../konspirace.md)
+- Trump jako démonická entita Abaddon / „Moon Child" — [5. 3. 2026](../_zdroje.md#konspirátor-boldy--krvavý-měsíc-a-trump)
+- Plán Velkého Izraele a stavba třetího chrámu — [5. 3. 2026](../_zdroje.md#konspirátor-boldy--krvavý-měsíc-a-trump)
+- Hospodářská krize záměrně plánována elitami na přelomu 2026/2027 — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Tokenizace majetku jako nástroj elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Chemtrails — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Dvojníci (klony) politiků a celebrit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Nord Stream odpálen Mosadem / Ukrajinou — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- ČR jako centrum okultismu — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Příchod Mesiáše a válka s Íránem — [15. 3. 2026](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+- Artemis jako AI podvod a odvedení pozornosti — [9. 4. 2026](../_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026)
+- Trump hrozí vymazáním civilizace — [9. 4. 2026](../_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026)
+- Popírání holocaustu — 6 milionů obětí označuje za „píčovinu", staví Chazary proti Židům — [24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+- 13 vědců údajně zavražděno po objevu volné energie — [24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+
+### [COVID a vakcíny](../covid-vakciny.md)
+- mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Depopulace jako cíl elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+
+### [Média a propaganda](../media-propaganda.md)
+- ČT jako propaganda, TV Nova ještě horší — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Filmy jako záměrné odhalení plánů elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+
+### [Ceny energií](../ceny-energie.md)
+- Válka s Íránem může poslat ropu na 300 USD/barel — [15. 3. 2026](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+- Paliva by mohla stát 70–150 Kč/litr — [15. 3. 2026](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+
+### [Větrné elektrárny](../vetrniky.md)
+- Píseň proti větrníkům na Moravě — výzva poslat turbíny „do Bruselu" a protestovat v Praze — [3. 6. 2026](../_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
 
 ---
 

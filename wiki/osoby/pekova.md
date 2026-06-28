@@ -6,9 +6,13 @@
 
 ## Témata
 
-| Téma | Co konkrétně zastává |
-|------|----------------------|
-| [COVID a vakcíny](../covid-vakciny.md) | Vlastní analýzy vzorků slovenských vakcín; vakcíny obsahovaly nedeklarované látky; petice za odpovědnost jako EU precedens; mezinárodní COVID aktivismus hodnotí jako „předstíranou hru"; kritizuje nečinnost parlamentu ČR i Slovensku; chce kandidovat na veřejnou funkci |
+### [COVID a vakcíny](../covid-vakciny.md)
+- Provádí vlastní laboratorní analýzy vzorků slovenských vakcín — [Soběšovice — přednáška část 1 (1. 4.)](../_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+- Tvrdí, že vakcíny obsahovaly nedeklarované látky — [Soběšovice — přednáška část 1 (1. 4.)](../_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+- Petici za odpovědnost prezentuje jako možný precedens v rámci EU — [Chcimír: Füllmich, petice, Pavel (22. 4.)](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026)
+- Mezinárodní COVID aktivismus hodnotí jako „předstíranou hru" / „divadlo pro lidi" — [Mezinárodní podpora jako divadlo (26. 4.)](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026)
+- Kritizuje nečinnost parlamentu v ČR i na Slovensku — [Svobodný vysílač CS: COVID tour (9. 4.)](../_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)
+- Zvažuje kandidaturu na veřejnou funkci — [Soběšovice — Q&A část 2 (1. 4.)](../_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4)
 
 ---
 

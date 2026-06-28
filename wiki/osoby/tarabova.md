@@ -6,15 +6,41 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 
 ## Témata
 
-| Téma | Co konkrétně zastává |
-|------|----------------------|
-| [Ceny energií](../ceny-energie.md) | Zdražování nafty, nesoulad s cenou barelu, kritika vlády za nečinnost, výzva k bojkotu čerpacích stanic |
-| [Větrné elektrárny](../vetrniky.md) | Veřejné projednání Radiopalác 15. 5.: Beranovi vypnutý mikrofon, EU směrnice RED 3 vs. praxe, výzva zahlcení MMR připomínkami; vláda ANO+Motoristé sobě navazuje na Fialovu politiku beze změny; na svém kanálu sdílela Rajchlův úvodní projev semináře „Příliš drahý vítr" (12. 6.) — viz [Rajchl ve vetrniky.md](../vetrniky.md#seminář-příliš-drahý-vítr-green-deal-jako-ideologie-akcelerační-zóny-farizejství-ochránců--rajchl-12-6-2026); sdílela i odbornou přednášku prof. Turánka z téhož semináře (pulzní infrazvuk, zdravotní dopady) (14. 6.) |
-| [FARA a neziskovky](../fara-neziskovky.md) | ANO nezjišťuje zahraniční financování neziskovek; Milion chvílek — hierarchie, skrytý účet, napojení na neziskový sektor |
-| [COVID a vakcíny](../covid-vakciny.md) | Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe); VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku); svědectví amerického lékaře o absenci výuky bezpečnosti vakcín; virologie jako pseudověda — viry nikdy nebyly izolovány, experimenty se španělskou chřipkou (1918) neprokázaly přenos; NOS (Národní očkovací strategie) schválena neoprávněně vládou v demisi; WHO = soukromá organizace financovaná Gatesem; vakcíny způsobují autismus, ADHD, ekzémy, onko u dětí; „nátlaky jsou pro otroky"; léky na obezitu pro děti (Novo Nordisk/Wegovy, BlackRock) místo prevence (12. 6.) |
-| [Rodina a děti](../rodina-deti.md) | Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické |
-| [Suverenita a EU](../suverenita-eu.md) | Brněnské zastupitelstvo: 14. 4. 2026 schválilo konání sudetoněmeckého sjezdu; Němci dluží ČR válečné reparace; kritika primátorky Vaňkové; sjezd eskaluje — německý ministr vnitra + bavorský premiér jako hosté; Petr Pavel „Spojené státy evropské" = zánik ČR; Ukrainizace společnosti — telefonní šmejdi (senioři), dávkový podvod, automatické vyhoštění pachatelů; Pavel = „panák"/„zelená guma"/hlásná trouba Koláře, nedůstojný úřadu (Ankara), 60% podpora vs. 80% proti euru; Zeman = „můj prezident"; prezidentský favorit Marek Vašut (15. 6.) |
-| [Média a propaganda](../media-propaganda.md) | ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti; výzva k stávce/okupační stávce zaměstnanců ČT (20.5.); „vládní moc se může uchýlit k násilí"; umělá nenávist ve společnosti + anonymita sociálních sítí (urážky místo věcné debaty), výzva k respektu (15. 6.) |
+### [Ceny energií](../ceny-energie.md)
+- Zdražování nafty a nesoulad s cenou barelu — cena na pumpách neodpovídá vývoji ceny ropy — [Cena pohonných hmot (12. 3.)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste)
+- Kritika vlády za nečinnost a výzva k bojkotu čerpacích stanic — [Cena pohonných hmot (12. 3.)](../_zdroje.md#lenka-tarabová--cena-pohonných-hmot-stále-roste)
+
+### [Větrné elektrárny](../vetrniky.md)
+- Veřejné projednání v Radiopaláci 15. 5.: Beranovi vypnutý mikrofon, EU směrnice RED 3 vs. praxe, výzva k zahlcení MMR připomínkami — [Veřejné projednání (15. 5.)](../_zdroje.md#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026)
+- Vláda ANO+Motoristé sobě navazuje na Fialovu politiku beze změny — [Veřejné projednání (15. 5.)](../_zdroje.md#lenka-tarabová--veřejné-projednání-větrné-elektrárny-15-5-2026)
+- Na svém kanálu sdílela Rajchlův úvodní projev semináře „Příliš drahý vítr" — viz [Rajchl ve vetrniky.md](../vetrniky.md#seminář-příliš-drahý-vítr-green-deal-jako-ideologie-akcelerační-zóny-farizejství-ochránců--rajchl-12-6-2026) — [Seminář Příliš drahý vítr (12. 6.)](../_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026)
+- Sdílela odbornou přednášku prof. Turánka z téhož semináře (pulzní infrazvuk, zdravotní dopady) — [Turánek — přednáška VTE/FVE (14. 6.)](../_zdroje.md#jaroslav-turánek--přednáška-vte-fve-seminář-sdíleno-14-6-2026)
+
+### [FARA a neziskovky](../fara-neziskovky.md)
+- ANO nezjišťuje zahraniční financování neziskovek — [ANO nechává neziskovky (23. 3.)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky)
+- Milion chvilek — hierarchie, skrytý účet, napojení na neziskový sektor — [Chvilkařská chobotnice (27. 3.)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice)
+
+### [COVID a vakcíny](../covid-vakciny.md)
+- Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe) — [Vakcinační genocida (23. 3.)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog)
+- VZP bonus 500 Kč za očkování jako diskriminace (§ 198/2009, § 402 trestního zákoníku) — [VZP: bonus za očkování (30. 3.)](../_zdroje.md#lenka-tarabová--vzp-bonus-za-očkování-jako-diskriminace)
+- Svědectví amerického lékaře o absenci výuky bezpečnosti vakcín — [Výzva lékařům — anglické svědectví (30. 3.)](../_zdroje.md#lenka-tarabová--výzva-lékařům-anglické-svědectví)
+- Virologie jako pseudověda — viry nikdy nebyly izolovány, experimenty se španělskou chřipkou (1918) neprokázaly přenos — [Podvod století (2. 4.)](../_zdroje.md#lenka-tarabová--podvod-století-virologie-jako-pseudověda-2-4-2026)
+- NOS (Národní očkovací strategie) schválena neoprávněně vládou v demisi; WHO = soukromá organizace financovaná Gatesem — [NOS: hlasování výboru (30. 4.)](../_zdroje.md#lenka-tarabová--nos-hlasování-výboru-pro-zdravotnictví-30-4-2026)
+- Vakcíny způsobují autismus, ADHD, ekzémy, onko u dětí; „nátlaky jsou pro otroky" — [„Nejbezpečnější vakcína je žádná vakcína" (1. 5.)](../_zdroje.md#lenka-tarabová--nejbezpečnější-vakcína-je-žádná-vakcína-1-5-2026)
+- Léky na obezitu pro děti (Novo Nordisk/Wegovy, BlackRock) místo prevence — [Videoportál: Novo Nordisk (12. 6.)](../_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
+
+### [Rodina a děti](../rodina-deti.md)
+- Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické — [Bagatelizace násilí na dětech (4. 4.)](../_zdroje.md#lenka-tarabová--bagatelizace-násilí-na-dětech-4-4-2026)
+
+### [Suverenita a EU](../suverenita-eu.md)
+- Brněnské zastupitelstvo 14. 4. schválilo konání sudetoněmeckého sjezdu; Němci dluží ČR válečné reparace; kritika primátorky Vaňkové; sjezd eskaluje — německý ministr vnitra + bavorský premiér jako hosté — [Brněnské zastupitelstvo (14. 4.)](../_zdroje.md#lenka-tarabová--brněnské-zastupitelstvo-a-sudetoněmecký-sjezd-14-4-2026)
+- Petr Pavel „Spojené státy evropské" = zánik ČR; Ukrainizace společnosti — telefonní šmejdi (senioři), dávkový podvod, automatické vyhoštění pachatelů — [Nedělní živé vysílání (26. 4.)](../_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026)
+- Pavel = „panák"/„zelená guma"/hlásná trouba Koláře, nedůstojný úřadu (Ankara), 60% podpora vs. 80% proti euru; Zeman = „můj prezident"; prezidentský favorit Marek Vašut — [Rozhovor TV Česko (15. 6.)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
+
+### [Média a propaganda](../media-propaganda.md)
+- ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti — [ČT a ČRo: zrušit (18. 4.)](../_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
+- Výzva ke stávce/okupační stávce zaměstnanců ČT; „vládní moc se může uchýlit k násilí" — [ČT stávka (20. 5.)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
+- Umělá nenávist ve společnosti + anonymita sociálních sítí (urážky místo věcné debaty), výzva k respektu — [Rozhovor TV Česko (15. 6.)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
 
 ---
 
