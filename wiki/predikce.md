@@ -55,7 +55,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 > „Dnes čerstvě se začalo spekulovat, že zítra složí funkci premiér Velké Británie Keir Starmer." — Jindřich Rajchl
 
 **Horizont:** 22. 6. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno — Starmer 22. 6. 2026 oznámil rezignaci z funkce premiéra i lídra labouristů (referoval Vrabel ve [Zprávách v devět 22. 6.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026), který ji označil za „cynický podvod demokratické obnovy").
 **Zdroj:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 
 ---

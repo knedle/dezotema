@@ -215,6 +215,14 @@
 - Blízký východ — Trumpova deklarace s Íránem = „absolutní kapitulace USA", Graham vyhrožuje převzetím Hormuzu + poplatky pro USA, Ben Gvir „Libanon musí hořet", ČR kryje Izrael (žádné rezoluce), „flotila z Děčína"/Macinka-Babiš — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - Babiš = Pavel (L-39/cvičná letadla pro Ukrajinu, kasírování provizí); SPD poslalo „globalistického" ministra obrany Zunu — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - Migrace = Kalergiho plán (Ukrajinci přes slučování rodin → ~3 mil., muslimové do Evropy, „rozděl a panuj") — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- **22. 6.** — Pavel vs. Babiš summit NATO / kompetenční žaloba k ÚS = boj o zbrojní zakázky nebo štvaní; žádný jiný kurz Pavla — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- Starmer rezignoval = „cynický podvod demokratické obnovy" (von Hofmeister), paralela s ČR 2025 (volby = iluze, staronová vláda jede stejně) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- Polsko vs. Ukrajina — válka o vyznamenání (Nawrocki odebral řád Bílého orla, Ukrajinci vrací poštou, Volyň, konference Gdaňsk 25.–26. 6.) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- Trump chce 350 mld $ od Evropy za Bidenovu pomoc Ukrajině (EU se zadluží vůči USA) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- „Barbarossa 2.0" — tanky Německa do Litvy, 5000 vojáků k Bělorusku, Vilnius mobilizace (Bruško); CSG/Avia motory pro ukr. drony (Eurosatory) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- Dánsko — mladí Ukrajinci s SS symboly (~65 tis.); riziko ozbrojených Ukrajinců v EU (analogie Turci/džihad) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- Babiš 2020 vyhostil ~80 ruských diplomatů + adoroval Zelenského = žádná změna kurzu — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- Blízký východ — Írán/USA pokrok (6 mld $, IAEA), ale Netanyahu nestahuje z Libanonu + Hormuz; Sýrie al-Šaraa „schizofrenní" (odmítá zásah proti Hizballáhu); ČR jediná plně kryje Izrael (Macinka veto) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -239,6 +247,7 @@
 - Sankce neúčinné (Pagani ex-G20) — Rusko se odizolovalo, na plynu vydělává jako před válkou — [Zprávy v devět 16. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
 - Uhlíkové kredity — systém prohloubí nerovnost: chudí prodají, bohatí koupí — [Nedělní vysílání 24. 5.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 - **21. 6.** — Srbsko vs. ČR: plán EU omezit noční elektřinu domácnostem, studna/voda jako „státní bohatství" + statisícové pokuty, v Srbsku elektřina ~2 Kč a svoboda (pálenka, bez povinného očkování) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- **22. 6.** — Západní dystopie: Německo zvyšuje důchodový věk na 73, Kanada eutanazie (50 tis., i psychicky nemocní), ČR zvyšuje odchod do důchodu — stát potřebuje peníze na válku (vyšší schodek 2027) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 
@@ -271,6 +280,7 @@
 - Soudní zákaz dokumentu „Vina: případ fakulta" + blokované weby RT/Sputnik = „ČR není svobodná země"; odposlech telefonů (FSB, Pegasus, zadní vrátka pro vlády) — [Zprávy v devět 3. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 - Cenzura RT/Sputnik — zprávy se v ČR nedají otevřít, „žijete v zemi s cenzurou" — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - **21. 6.** — Facebook „nebezpečnější než média" — řízené potlačování dosahu Vrabela vs. nadhánění Rajchla (vláda má zadní vrátka) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- **22. 6.** — vítá stávku ČT/ČRo (doporučuje trvalou), ČT = válečná/globalistická propaganda; Minář placená nastrčená figurka (Halík mu pomáhal s diplomkou) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 
 ### [Politický systém](../politicky-system.md)
 
@@ -284,6 +294,7 @@
 - **21. 6.** — volební „podvod" SPD/PRO/Trikolora/Svobodní (koalice „Spojení" za 5 % místo 11 %, ÚS proti, kmotr Hrdlička „ovládá vlasteneckou scénu", Okamura přepisuje ČRNPM) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - Referendum jako podvod (250 tis. podpisů, zákaz témat EU/NATO) — chtěl politické vystoupení, ne referendum — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - Vrabel jako „pravdivostní extrémista" — kritika kultury „o nikom se nemluví"; pokrytectví Rajchla (porno „pro Němce", udával Kutý/Jaška/bratra), Zemana, Konečné — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- **22. 6.** — Pavel vs. Babiš = „iluze demokracie" (jako Starmer v Británii); Macinka vs. Pavel „šplhání" (Pavel kariérní rozvědčík, Macinka „podržtaška Klause"), ale oba dělají totéž — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -551,6 +562,11 @@
 | Lindsey Graham | ○ neutrální | Citován — vyhrožuje, že USA převezme Hormuzský průliv silou a bude vybírat poplatky za průjezd | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
 | Miroslav Sládek | ✅ pozitivní | „Velmi tvrdý člověk"; na demonstraci napaden (vytržen megafon od Vrabela), správně připomněl Zemanovu roli v deklaraci 1997 | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
 | Jana Lorencová | ✅ pozitivní | Znovu připomenuta — záznam jejího vrácení vyznamenání označen za „nejsilnější moment" demonstrací | 2026-06-21 | [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026) |
+| Keir Starmer | ○ neutrální | Jeho rezignace (22. 6.) označena (s citací von Hofmeistera) za „cynický podvod demokratické obnovy" — vystřídá ho „jiný Starmer", kurz se nezmění | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
+| Ahmed al-Šaraa | ○ neutrální | Syrský prezident v „schizofrenní" pozici — odmítl zásah proti Hizballáhu, jen politická jednání; spolupracuje se Západem, ale spíš tajně podpoří islamisty (paralela Erdogan) | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
+| Karol Nawrocki | ⚖️ rozporuplný | „Jak ho nemusím" — ale odebrání Řádu bílého orla Zelenskému je „sympatické" | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
+| Petr Macinka | ❌ negativní | Vetuje rezoluce EU proti Izraeli; „podržtaška Klause", k moci se „prošplhal" osobními kontakty — dělá ale totéž co Pavel (NATO/USA) | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
+| Andrej Babiš | ❌ negativní | Slibuje plnit závazky vůči NATO; v roce 2020 vyhostil ~80 ruských diplomatů a adoroval Zelenského — „žádná změna kurzu" oproti Fialovi | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
 
 ---
 
@@ -617,3 +633,4 @@
 - [Zprávy v devět 16. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
 - [Zprávy v devět 20. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - [Nedělní vysílání 21. 6. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- [Zprávy v devět 22. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)

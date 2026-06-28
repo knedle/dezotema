@@ -62,6 +62,18 @@ Ke zprávě, že premiér Babiš chce s ukrajinskou stranou navrhnout partnerům
 
 ---
 
+### Spor Pavel vs. Babiš o summit (kompetenční žaloba) a Starmerova rezignace jako „iluze demokracie" — Vrabel (22. 6. 2026)
+
+Ke sporu o summit NATO (vláda rozhodla, že delegaci povede Babiš, Hrad chystá kompetenční žalobu k ÚS) Vrabel opakuje, že nevidí jediný kurz, v němž by se Pavel lišil od Babiše/Macinky — ptá se diváků, „jakou ostudu Pavel dělá" a co jiného by na summitu prosazoval. Spor čte buď jako boj o zbrojní zakázky (Pavel/Kolář vs. Macinka s kontakty v USA), nebo jako záměrné „štvaní společnosti" a „umělé téma" odvádějící pozornost od toho, že je ČR vtahována do války.
+
+Rezignaci britského premiéra Keira Starmera (22. 6.) — kterou média líčí jako vítězství demokracie a „nový kurz" — označuje (s citací komentátora K. von Hofmeistera) za „cynický podvod demokratické obnovy" v systému ovládaném globalistickými zájmy: vystřídá ho „jiný Starmer" a Británie zůstane ve stejných problémech, jen se „upustí tlak". Vidí přímou paralelu s ČR 2025: po vlně odporu proti Fialovi přišly volby a „staronová vláda" (Vojtěch, Šilerová, Havlíček, Babiš + Okamura/Macinka), ale kurz (proti Rusku, pro NATO/EU/Agendu 2030) se nezměnil — „krok A" z let 2022–2024 neměl ve volbách 2025 návaznost. Rozšiřuje [Umělý konflikt vláda vs. prezident (13. 6.)](#umělý-konflikt-vláda-vs-prezident-babišmacinka-předstírají-opozici-vůči-fialovi--vrabel-13-6-2026) a [Summit NATO/OSN jako „divide et impera" (8. 6.)](#summit-natoosn-jako-divide-et-impera--pavel-a-babiš-dělají-v-nato-totéž-vrabel-8-6-2026).
+
+> „Je to iluze demokracie. To, co udělali dneska v Británii, to samé udělali v roce 25 v České republice." — Ladislav Vrabel, [Zprávy v devět 22. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika

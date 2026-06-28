@@ -1235,6 +1235,18 @@ Vrabel popisuje další eskalaci: Zelenský v projevu vyhrožuje Bělorusku vál
 
 ---
 
+### „Barbarossa 2.0": tanky do Litvy, mladí Ukrajinci s SS symboly, české motory pro drony (Vrabel, 22. 6. 2026)
+
+V den výročí operace Barbarossa (22. 6.) Vrabel rámcuje militarizaci NATO jako přípravu na válku s Ruskem. Cituje ruského náměstka MZV Alexandra Bruška, podle něhož „pokračující militarizace NATO a EU se začíná podobat plánům nacistického Německa na invazi do SSSR v roce 1941". Konkrétně: Německo přesouvá tanky do Litvy a k běloruské hranici umístí do roku 2027 trvale ~5000 vojáků (Bild), Vilnius se připravuje na „totální mobilizaci", pobaltské země jsou „nejvíc nacifikované po Ukrajině". Výroba zbraní se přesouvá z Ukrajiny do zemí EU, aby je Rusko nemohlo bombardovat bez přímého útoku na EU — Vrabel opakuje, že „už jsme ve válce s Ruskem", jen Rusové se snaží udržet boje na území Ukrajiny (likvidace velitelských center / důstojníků NATO, mimo Zelenského palác a parlament).
+
+Dva konkrétní symptomy: (1) **Dánská státní TV** varuje před pravicovým extremismem mladých ukrajinských uprchlíků (svastiky, znaky SS; ~65 tis. mladých Ukrajinců) — Vrabel: Evropa „se probouzí" k nacismu na Ukrajině, který od roku 2022 popírala (Rajchl ještě 2023 hlásil lidi za písmeno Z); varuje, že ozbrojení Ukrajinci v EU mohou být bezpečnostním rizikem (analogie s Turky a hypotetickým „džihádem"). (2) **České zbrojní byznysy**: Avia (Avianera Technologies, skupina CSG Michala Strnada) podepsala s Ukrainian Armor dohodu o vývoji a dodávkách motorů pro ukrajinské řízené střely a drony — na veletrhu Eurosatory, kde se na velkém plátně promítalo bombardování Moskvy. Navazuje na [Útoky na Moskvu jako eskalace (18. 6.)](#útoky-na-moskvu-jako-eskalace-natoeu-vs-rusko-analogie-jugoslávie-1999-vrabel-18-6-2026).
+
+> „My už jsme ve válce s Ruskem, jenom Rusové se snaží, aby z toho nebyla světová válka, aby se to odehrávalo na území Ukrajiny." — Ladislav Vrabel, [Zprávy v devět 22. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+
+---
+
 ## Zahraniční aktéři a precedenty
 
 ### Srbsko nechce do EU — obchod s Čínou a spolupráce s Ruskem jako vzor suverenity (Vrabel, 5. 6. 2026)

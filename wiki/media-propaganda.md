@@ -37,6 +37,16 @@ Rajchl věnoval celé vysílání médiím a tvrdí, že Česká televize „už
 
 ---
 
+### Vrabel vítá stávku ČT/ČRo a demonstraci Milionu chvilek (22. 6. 2026)
+
+Vrabel reaguje na výstražnou stávku zaměstnanců ČT a Českého rozhlasu (proti změně financování) a na navazující demonstraci Milionu chvilek před ČT. Stávku vítá a ironicky doporučuje „dotáhnout ji k dokonalosti" — ke stoprocentní a trvalé — protože by si podle něj všichni „oddychli", kdyby skončilo médium dělající „válečnou a globalistickou propagandu". Účast „tisíců" před ČT bagatelizuje: jsou to prý hlavně lidé „nasátí" na ČT (zaměstnanci, externí firmy, jejich rodiny), takže stačilo, aby přišlo ~30 % z nich. Připomíná, že na Václavském náměstí dal divákům odhlasovat, že ČT nesmí na pódium. Mikuláše Mináře (nově s „copánky", aby vypadal „jako kluk z ulice") označuje za placenou nastrčenou figurku napojenou i na Sudetoněmecký Landsmannschaft, jemuž s diplomovou prací na FF UK pomáhal Tomáš Halík. K formě financování opakuje, že je „jedno", zda poplatky nebo daně — „stejně to zaplatíme"; chce kompletní výměnu vedení ČT a vyvážené zpravodajství (jako požadoval 2022). Navazuje na [ČT a ČRo by měly být zrušeny — Tarabová](#čt-a-čro-by-měly-být-zrušeny--tarabová-duben-2026).
+
+> „Bych jim doporučoval, aby to dotáhli k dokonalosti, ke stoprocentní stávce, trvalý." — Ladislav Vrabel, [Zprávy v devět 22. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+
+---
+
 ### Ceny Anděl: vulgární výstupy vůči politikům — argument pro zrušení ČT poplatků
 
 Rajchl v živém vysílání z Budapešti (12. 4. 2026) zmiňuje galavečer Cen Anděl, kde účinkující adresovali přítomným politikům vulgární a hanlivé vzkazy. Tuto událost využívá jako argument pro zrušení povinných televizních poplatků: veřejnoprávní média podobné výstupy nekritizují ani nekorigují, a tím de facto legitimizují útoky na politické představitele, za jejichž přenos občané platí z vlastní kapsy.
