@@ -323,6 +323,16 @@ Dne 17. 6. 2026 Facebook znemožnil Zítkovi spustit živé vysílání („Tent
 
 ---
 
+### Facebook „dorovnává" falešný klon kanálu a manipuluje čísla sledujících — Zítko (21. 6. 2026)
+
+Zítko popisuje, jak Facebook podle něj kriminálně manipuluje jeho dosah. Roky byl jeho kanál Československo TV2 „zakonzervován" na 9700 sledujících a vedle něj existoval **falešný klon** „s ukradenou identitou" (stejné jméno i fotky, spravovaný někým jiným), který přebíral jeho videa a doplňoval je „krávovinami", aby to vypadalo, že se Zítko zbláznil. Po měsíční blokaci živého vysílání reaktivoval prázdný prosincový profil „Pavel Zítko" a díky sdílení diváků dosáhl 1000 sledujících za 3 dny a 4 hodiny — načež do několika hodin vznikl klon se stejnými fotkami a Facebook mu „dorovnal" počet sledujících (z ~desetiny na tisíc), aby čtenáře zmátl. Tvrdí, že FB „kouzlí s čísly": při 1300–1400 zobrazeních ukazuje jen ~50 živě sledujících, zatímco „vyvolené" účty mají interakci „větší než Trump, Shakira nebo Lopez". K tomu zablokoval i pozvánku na vysílání („spam"). Originál radí poznat podle počtu sledování (146) a příspěvků (135) a podle absence „hejtrů" v komentářích. Navazuje na [Facebook zablokoval živé vysílání ČsTV2 (17. 6.)](#facebook-zablokoval-živé-vysílání-čstv2--kyberšikana-kvůli-fotce-z-ufc-zítko-17-6-2026).
+
+> „Co Facebook umí, umí kouzlit s čísly sledujících." — Pavel Zítko, [Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+
+**Zdroje:** [ČsTV2 — Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+
+---
+
 ## Blokace zahraničních médií v ČR
 
 ### RT.com a Sputnik blokovány českými poskytovateli internetu — Vrabel (3. 5. 2026)

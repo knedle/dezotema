@@ -298,6 +298,14 @@ Do širšího rámce klade tezi, že vlasteneckou scénu „vlastní" kmotr **To
 
 ---
 
+### Aspen Institute dosazuje „loutky"; podvod v prezidentských volbách 2023 — Zítko (21. 6. 2026)
+
+Pavel Zítko (sám kandidát v prezidentských volbách 2023, kandidaturu prý vyhlásil 17 dní před uzávěrkou) popisuje volby jako řízený podvod, který „zmapoval jako insider". Tvrdí, že „první šestka" kandidátů byla předem „zaklincována" přes **Aspen Institute**; jakmile se on sám z posledního místa posunul na sedmé, „chazarská mafie jako majitel Fortuny" prý třikrát srazila jeho sázkový kurz z 1:60–1:70 na 1:555. Dále uvádí, že jeho hlasovací lístky byly „okamžitě zkartovány/zašity" a navzdory zákonné povinnosti mu je ministerstvo vnitra při třech návštěvách nikdy nepředložilo ke kontrole. Tvrdí, že na ukradení identity prezidentského kandidáta (klon kanálu „Pavel Zítko, prezident 2023") podával trestní oznámení. Mechanismus „dosazování vybraných loutek" zobecňuje na „jakékoliv volby". Tematicky navazuje na Vrabelovu tezi, že [v prezidentských volbách „vytáhnou herce"](#vrabel-jako-pravdivostní-extrémista-kritika-kultury-o-nikom-se-nemluví--pokrytectví-rajchla-21-6-2026) i na [konspirační výklad CIA dosazující elity](konspirace.md#cia-dosadila-a-řídí-české-elity-klaus-havel-zeman-prezidenta-vybírá-cia--vrabel-21-6-2026).
+
+**Zdroje:** [ČsTV2 — Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+
+---
+
 ## Evropský parlament a demokratický deficit
 
 ### EP jako divadlo — předem dohodnuté hlasování

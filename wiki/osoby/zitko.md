@@ -22,6 +22,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Babiš tiskovka o vakcínách — „neználek", vinu hodil na „Baťovou"/Chlíbka/Prymulu, výzva na rozbor krve (spike/grafen vs. placebo); „viry se šíří jen TV", patentované nemoci — [Měnová reforma 1953 a Blažcoin 3. 6.](../_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
 - Slovensko — COVID testy jako sběr DNA Matovičem pro izraelské laboratoře, porodnost SK −20 % — [Portál 11:11 7. 6.](../_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)
 - Porodnost Q1 2026 jen 17,5 tis. narozených (vs. 111 tis./2021), <70 tis./rok = „genocida/sterilizace očkováním" (Fürst/SmÍŠ Lab) — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+- **21. 6.** — šarže „E" a 22R–22Z (5 % šarží = >75 % zemřelých), 60 tis. mrtvých Německo (Sterz)/desítky milionů globálně, Comirnaty 15 str. vedl. účinků (Indie), pokles porodnosti −30 % (Q1 jen 17,5 tis.), vina vlád Babiše i Fialy = „genocida/sterilizace" — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -34,6 +35,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - „Blažcoin" — policie po roce přiznává jen miliardu, Zítko trvá na 100+ mld, 50 PC vráceno Jiříkovskému (na jednání přinesl jen 1), ODS Havránek daňová výjimka do 40 mil. — [Měnová reforma 1953 a Blažcoin 3. 6.](../_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
 - ODS jako systematické rozkrádání od 1989 (video Hranaři: privatizace, vytunelované banky, LTO, „1 bilion ročně odchází z ČR") — [Portál 11:11 7. 6.](../_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)
 - Reiner Füllmich jako politický vězeň — únos z Mexika tajnou službou, soudy = korporace, COVID = biozbraň/Norimberský kodex, propuštění čekáno do 12. 9. — [Füllmich živě z vězení 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+- **21. 6.** — podvod v prez. volbách 2023: Aspen Institute dosadil „první šestku", po Zítkově posunu z posledního na 7. místo Fortuna („chazarská mafie") 3× srazila jeho kurz (1:60 → 1:555), hlasovací lístky zničeny/nepředloženy (3× na MV) — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+- Bitcoiny 100+ mld (dvě tržiště Sheep 39 918 + Nucleus 5366 BTC, Blažek/Tyc/Daňhel, nečinnost NCOZ/Olomouc) — zopakováno — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - COVID rozsudky: Peková (4 případy za šíření poplašné zprávy), Čermák (terorismus), Popelka, Křivka (Z tričko) — označuje je za politicky motivované; interpelace Majerové-Tejce; Tejc slíbil změnu trestního zákoníku do konce dubna 2026 — Zítko hodnotí jako prázdné sliby — [Interpelace Majerová-Tejc 23. 4.](../_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
@@ -54,6 +57,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Freedom 250 / UFC — central casting/dvojníci (Biden/Netanjahu/Bush/Cheney popraveni), EBS/Bluebeam, 9/11 hologramy, JFK starter/Trump finisher; 5D vzestup a vibrace (Dolores Cannon, 7 faktorů frekvence, „Kristovská DNA" 17 %) — [Freedom 250 / UFC 11:11 12. 6.](../_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
 - UFC Freedom 250 „naplněno" — Topuria/hadi prohrál s Gaethjem = demontáž admiralty; Trump „6 větami" ukončil válku s Íránem (Hormuz, 3 lodě staženy, Muscat 8. 6., 147 mld $, Epstein files); „Michelle Obama je muž"/Macron Ladyboy; Dana White Epstein art — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - Haagský arbitrážní rozsudek o Krymu jako „právní knockout" Ruska (Azovské moře = vnitřní vody RF) → ⚡ konflikt s Vrabelem ([valka-nato-rusko.md](../valka-nato-rusko.md)); Írán memorandum QAnon spin (Versailles, tajná dohoda Omán 4. 6., velká aliance) — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+- **21. 6.** — obnova ČSR (zákon 542/1992 nulitní, ČSR „běží dál", reparace 9500 t zlata / 28–29 bil. jen pro ČSR; akademik Pjakin „99,9 % obnova") + QFS (kolaterální účty, rodný list jako burzovní papír, ISO 20022, JFK „starter"/Trump „finisher", finále k 4. 7.) — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -66,6 +70,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Sůl nad zlato — GŘ Chudárek plat 346 800 + bonusy (až 3,4 mil./rok), 3000 vs 500 zaměstnanců (Nova), rada ČT nominovaná stranami — [Sůl nad zlato 8. 6.](../_zdroje.md#československo-tv2--sůl-nad-zlato-8-6-2026)
 - Füllmich přenos — Bytel TV: 22 zrušených YouTube kanálů + 4 zablokované účty, čl. 17 Listiny, „pravda je jako voda" — [Füllmich živě z vězení 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 - FB blok — Facebook zablokoval živé vysílání na 3 kanálech („kyberšikana" za fotku z UFC Freedom 250 s Trumpem), odvysíláno jako záznam; rozbor „jak bys řešil covid" (Fierst vs. Hořejší) + výzva k tribunálu Norimberg 2.0 — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+- **21. 6.** — FB „falešný klon" kanálu s ukradenou identitou + manipulace čísel sledujících (originál 1000 za 3 dny → klon „dorovnán", živé sledování uměle sníženo na 50 při 1300–1400 zobrazeních), blokace pozvánky a měsíční blok vysílání = „kriminální" cenzura — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 
 ---
 
@@ -145,6 +150,11 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Reiner Füllmich | ✅ pozitivní | Přenesl jeho první živý rozhovor z věznice (přes Bytel TV) za 2,5 roku; označuje ho za „bijce číslo jedna" proti covidové mafii a politického vězně; kandidát na „spolkového kancléře č. 1" | 2026-06-12 | [Füllmich živě z vězení, 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026) |
 | Jana Peterková | ✅ pozitivní | Křest její knihy „Já dezinformátorka" (st 1:11 u památníku K. H. Máchy v Doksech) — Zítko propaguje jako první počin „scény" varující před covidem | 2026-06-12 | [Füllmich živě z vězení, 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026) |
 | Dolores Cannon | ✅ pozitivní | Citována jako autorita New Age výkladu: Země jako první planeta zvyšující vibrace, vzestup do 5D, tři vlny dobrovolníků | 2026-06-12 | [Freedom 250 / UFC, 12. 6.](../_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026) |
+| Andrej Babiš | ❌ negativní | Spolu s Fialovou vládou „stoprocentně namočen" do „masových vražd, genocidy a sterilizace národa" injekcemi biozbraně COVID-19; krevní testy by ukázaly placebo vs. ostrá šarže | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
+| Petr Fiala | ❌ negativní | Korporátní představitel spoluzodpovědný za „genocidu a sterilizaci" COVID vakcinací — musí stanout před tribunálem | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
+| Jindřich Rajchl | ❌ negativní | „Vládní koaliční poslanec" — nesplněné „desatero" z 26. 1. (vystoupení z WHO, zrušení očkovací strategie, odstoupení od pandemické smlouvy); „buď máte výsledky, nebo výmluvy" | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
+| Valerij Pjakin | ○ neutrální | Ruský „akademik" blízký Putinovi — citován, že „na 99,9 %" bude obnoveno Československo jako po druhé světové válce | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
+| Petr Pavel | ❌ negativní | „Neměl koule" odpovědět na otevřený dopis Soni Pekové (doručen do datové schránky); skrývá se před dotazy, výjezdy s prověřenými lidmi | 2026-06-21 | [Slunovrat 11:11, 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026) |
 
 ---
 
@@ -201,3 +211,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Freedom 250 / UFC 11:11 (12. 6. 2026)](../_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
 - [„33 základních pravd" + UFC preview (14. 6. 2026)](../_zdroje.md#československo-tv2--33-základních-pravd-14-6-2026)
 - [UFC Freedom 250 naplněno (15. 6. 2026)](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+- [Slunovrat 11:11: falešný klon, COVID tribunál, obnova ČSR (21. 6. 2026)](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
