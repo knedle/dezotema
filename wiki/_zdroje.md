@@ -2407,3 +2407,12 @@
 - **Délka:** 01:25:10 | První večerní zprávy na náhradním profilu Pavel Zítko
 - **Poznámka:** Zpracován pouze **haagský arbitrážní rozsudek o Krymu** (15. 6.) — Zítko jej prezentuje jako vítězství Ruska („právní knockout", Azovské moře = vnitřní vody RF, zamítnuty ukr. nároky) → ⚡ konflikt s Vrabelovým výkladem (valka-nato-rusko.md). Zbytek videa (FB blokace, COVID biozbraň/tribunál, ČSR/Versailles/reparace/QAnon, Írán memorandum QAnon spin, spirituální texty Poláková/Aboličeno, pozvánky) = recap/logistika, nezpracováno.
 - **Zpracováno:** ano (částečně — viz poznámka)
+
+## Ladislav Vrabel — Zprávy v devět (20. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-20-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-20_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook Live / ČR1)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2098998917631927>
+- **Datum záznamu:** 2026-06-20
+- **Délka:** 01:03:16 | Zprávy v devět s komentářem (moderátorka Zuzka)
+- **Poznámka:** Válka NATO/EU/Ukrajina vs. Rusko („opona spadne", lháři von der Leyen/Costa, Trump 350 mld $); Irán–USA memorandum (14 bodů z Al Jazeera/Al-Arabia) = kapitulace USA + shortování ropy/krypta; migrace = Kalergiho plán/globalistická agenda (přijdou desítky milionů); klimatické změny + chemtrails (bílé slunce, těžké kovy/hliník); Miloš Zeman se obhajuje za řád Bílého lva Zelenskému (ČR má odebrat, Lorencová vrátila řád); cenzura RT/Sputnik (zprávy se v ČR nedají otevřít); biolaboratoře na Ukrajině (Larry Johnson, ex-CIA — patogeny na genetický profil Rusů); Babiš = Pavel, žádná změna (L-39 pro Ukrajinu); Bělorusko — Zelenský vyhrožuje, Gajdukevič „celý arzenál" (konflikt ne před summitem NATO).
+- **Zpracováno:** ano

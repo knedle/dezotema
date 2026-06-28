@@ -54,6 +54,14 @@ Vrabel tvrdí, že vláda Andreje Babiše vyhrála volby na narativu, že je opa
 
 ---
 
+### Babiš = Pavel: žádná změna ve vládě, L-39 pro Ukrajinu (Vrabel, 20. 6. 2026)
+
+Ke zprávě, že premiér Babiš chce s ukrajinskou stranou navrhnout partnerům (Norsko, Dánsko, Nizozemsko, Belgie) financování nákupu deseti cvičně-bojových letounů L-39 pro ukrajinské letectvo, Vrabel konstatuje „žádnou změnu" — Babiš pokračuje v podpoře zbrojení pro Ukrajinu. Připomíná, že jde o tatáž letadla, která dříve Ukrajincům nabízel prezident Pavel a Babiš to tehdy odmítl s tím, že je ČR potřebuje. Vyvozuje, že Babiš dělá „úplně to samé co Pavel" (paralela i s jadernými zbraněmi od Francie) — voliči, kteří čekali změnu, se dočkali jen rétoriky „Česko na prvním místě", kterou Babiš „uspí národ", a pak se pokračuje dál. Navazuje na [Umělý konflikt vláda vs. prezident; Babiš/Macinka „předstírají opozici" (13. 6.)](#umělý-konflikt-vláda-vs-prezident-babišmacinka-předstírají-opozici-vůči-fialovi--vrabel-13-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika

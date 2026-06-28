@@ -86,6 +86,14 @@ Jádro sporu: zda rozsudek čehokoli „rozhodl o příslušnosti Krymu" (Zítko
 
 ---
 
+### Válka NATO/EU/Ukrajina proti Rusku — „opona brzy spadne" (Vrabel, 20. 6. 2026)
+
+Vrabel ke svým předčítaným zprávám (z RT/Sputniku) opakuje tezi, že nejde o válku Ukrajiny proti Rusku, ale že ve válce s Ruskem je celý Západ — NATO, EU i Česká republika. Tiskové prohlášení Zelenského, von der Leyen a Antonia Costy (otevření prvního „klastru" přístupových jednání Ukrajiny s EU) označuje za lhaní: politici prý líčí, že „Ukrajina sama tvrdě útočí a vyhrává", zatímco realita je, že útoky vede Západ společně s Ukrajinou (zbraně, peníze na chod státu i výrobu zbraní, muniční iniciativa, vojáci). Předpovídá, že „opona brzy spadne" a lidé uvidí, že „král je nahý" — tedy že jde o válku NATO/EU/Ukrajiny proti Rusku. Cituje Trumpovo prohlášení, že Evropa má zaplatit 350 mld. $ za Bidenovy zbraně, i tezi, že Trump (sám biznismen, který válku spoluzaložil za prvního období) se po anglicku „vycouvává" a hraje mírotvorce. Navazuje na [Tři fáze konfliktu Západ–Rusko (31. 5.)](#tři-fáze-konfliktu-západrusko-od-majdanu-k-terorismu-na-ruském-území-vrabel-31-5-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
 ## Průběh války, útoky a „terorismus"
 
 ### Drony z Ukrajiny zabily studenty — Kyjev si „zaslouží Sylvestra" (25. 5. 2026)
@@ -252,6 +260,14 @@ Vrabel tvrdí, že zatímco zahraniční média líčí, jak Ukrajina „začín
 
 ---
 
+### Zelenský vyhrožuje Bělorusku, Bělorusko hrozí „celým arzenálem" (Vrabel, 20. 6. 2026)
+
+Vrabel popisuje eskalaci vůči Bělorusku: Zelenský prý otevřeně pohrozil, že pokud Bělorusko do týdne nestáhne zbraně od ukrajinské hranice, udělá to Ukrajina sama. Běloruský poslanec Oleg Gajdukevič odpověděl, že výhrůžky, vydírání a ultimáta na Bělorusko neplatí; pokud Západ na Bělorusko zaútočí, nepůjde o „speciální vojenskou operaci", ale o použití „celého arzenálu sil a prostředků" — a do konfliktu se zaplete celá Evropa. Vrabel zdůrazňuje, že za Zelenským fakticky stojí NATO a EU, že Bělorusko je vyzbrojené (Iskandery podél hranice, údajně už jaderné zbraně) a varuje „nedávejte vypálené sirky zpátky do krabičky". Konflikt podle něj nepřijde hned — čeká se na summit NATO (viz [predikce](predikce.md)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
 ## Stav Ukrajiny a mobilizace
 
 ### Výzva Zemanovi: odebrat Zelenskému Řád bílého lva (Vrabel, 2. 6. 2026)
@@ -383,6 +399,14 @@ Dva body k Ukrajině a Zelenskému:
 - **Odebrání řádu:** polský prezident Karol Navrocki oficiálně odebral Zelenskému Řád Bílé orlice kvůli pojmenování jednotky po UPA (volyňský masakr, 80–100 tis. obětí). Vrabel se ptá, kdy ČR odebere Zelenskému Řád Bílého lva (udělil ho Miloš Zeman), a kritizuje „vlastence" z SPD adorující Zemana (řadí ho k „falešné trojce" Klaus/Zeman/Havel a Česko-německé deklaraci 1997). Viz [Zelenský a UPA (31. 5.)](#zelenský-pojmenoval-jednotku-po-upa--důkaz-nacistické-ideologie-výzva-k-odebrání-řádu-pavlovi-rajchl-31-5-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)
+
+---
+
+### Zeman se obhajuje, proč ocenil Zelenského — Vrabel: zostudil ČR (20. 6. 2026)
+
+Poté, co polský prezident odebral Zelenskému řád Bílé orlice, vyzval Vrabel opakovaně Miloše Zemana, aby se vyjádřil k udělení Řádu bílého lva Zelenskému. Zeman vydal prohlášení: dlouhodobě prý kritizoval ukrajinský nacionalismus (Bandera, Azov), ale Zelenského vyznamenal v roce 2022 „z jediného důvodu" — že při ruském útoku neutekl (paralela s rokem 1968); vnitřní problémy Ukrajiny (korupce, potlačování demokracie, uctívání válečných zločinců) se ale podle Zemana zhoršují a „za nic z toho by si Zelenský vyznamenání nezasloužil". Vrabel reakci odmítá: přirovnává Zelenského k lupiči, který v bance vraždí a bere rukojmí, a Zeman mu za to, že „neutekl", dává nejvyšší vyznamenání. Označuje udělení řádu za Zemanův „poslední politický čin", kterým „zostudil Českou republiku i sám sebe"; ČR by měla řád odebrat jako Polsko, a pokud toho Zeman není schopen, měl se aspoň omluvit národu. Připomíná Janu Lorencovou, která řád Bílého lva v roce 2022 na Václaváku vrátila. Navazuje na [Zelenského náborová propaganda a odebrání řádu (Navrocki) — Vrabel (19. 6.)](#zelenského-náborová-propaganda-a-odebrání-řádu-navrocki--vrabel-19-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 
 ---
 

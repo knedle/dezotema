@@ -296,3 +296,11 @@ Vrabel komentuje video z Floridy, kde muslimové napadli kazatele čtoucího Bib
 Vrabel upozorňuje na nevládní studii britského poslance **Ruperta Lowea** (16. 6.), podle níž bylo v Británii více než **250 tisíc** bílých britských dívek znásilněno, sexuálně vykořisťováno nebo zneužito převážně pákistánskými muslimskými gangy, zatímco policie, místní úřady a další orgány je opakovaně nedokázaly ochránit (ze strachu z obvinění z rasismu/xenofobie) — systematický celostátní vzorec a institucionální utajování (nejznámější Rotherham, „grooming" přes vydírání fotkami). Studie nebyla hrazena z veřejných peněz, ale z darů ~24 tis. lidí (790 tis. liber). Vrabel ji uvádí jako varování pro ČR po podpisu migračního paktu a kritizuje kriminalizaci těch, kdo na to upozorňují.
 
 **Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)
+
+---
+
+### Migrace jako Kalergiho plán; čekají nás mnohem větší vlny (Vrabel, 20. 6. 2026)
+
+Ke zprávě o rekordních počtech migrantů (304 mil. lidí žijících mimo zemi původu v roce 2024) Vrabel tvrdí, že hlavní příčinou migrace není ekonomika ani klima, ale „globalistická agenda": cílem je jeden světový stát s jednou světovládou řízenou elitami. Odvolává se na „Kalergiho plán" — vytvoření „nového evropského člověka", smíšeného a vykořeněného, který nebude vědět, „kým je", aby národy už nikdy nedržely pohromadě. EU podle něj proto „bojuje jen s nelegální migrací" naoko, ale promíchání populace je jejím principem (zboření národů kvůli „míru"). Předpovídá, že dosavadní příchod milionů z Afriky a Blízkého východu je teprve začátek — s válkami, vedry/klimatem a otevřenými hranicemi přijdou „desítky milionů" a velká demografická změna (viz [predikce](predikce.md)). ČR si podle něj situaci zhoršila migračním paktem (platným od 12. 6.) a otevřením hranic ukrajinským uprchlíkům. Navazuje na [Migrační pakt vstoupil v platnost — Kalergiho plán (12. 6.)](#migrační-pakt-vstoupil-v-platnost--vláda-ho-podle-vrabela-neodmítla-12-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)

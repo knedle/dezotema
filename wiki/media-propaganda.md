@@ -300,6 +300,14 @@ Vrabel zároveň informoval, že v souběžné vlastní právní kauze vyhrál p
 
 ---
 
+### Zprávy z RT/Sputniku se v ČR nedají otevřít — „žijete v zemi s cenzurou" (Vrabel, 20. 6. 2026)
+
+Vrabel při přípravě zpráv zjistil, že tři položky, které poslal z Russia Today a Sputnik Globe, se jeho kolegyni v ČR nedaly otevřít. Z toho vyvozuje, že Češi „žijí v zemi, kde jim vláda dělá cenzuru" a nemají právo podívat se na zprávy z Ruska — vláda prý rozhoduje, co občané smějí číst, jako by nebyli dospělí a schopní sami rozeznat propagandu. Označuje to za důkaz, že ČR není svobodná země. Navazuje na [RT.com a Sputnik blokovány českými poskytovateli (3. 5.)](#rtcom-a-sputnik-blokovány-českými-poskytovateli-internetu--vrabel-3-5-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
 ## Vlastenecká scéna a peníze
 
 ### Vlastenecká scéna jako byznys — transparentní účty místo vlastenectví (25. 5. 2026)

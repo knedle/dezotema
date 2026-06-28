@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Konflikt s Běloruskem nepřijde před summitem NATO (20. 6. 2026)
+
+**Předpověď:** Vrabel očekává, že přes Zelenského výhrůžky Bělorusku nedojde k otevřenému konfliktu „teď" — před summitem NATO podle něj žádný takový konflikt nebude, byť eskalace už probíhá.
+
+> „Myslím si, že se to nestane teď, protože se čeká na summit NATO. Před summitem NATO předpokládám, že žádný takový konflikt nebude, ale ta eskalace už je." — Ladislav Vrabel
+
+**Horizont:** do summitu NATO (čeká se na summit NATO)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
+### Ladislav Vrabel — Klid kolem Íránu vydrží jen do podzimních primárek v USA (20. 6. 2026)
+
+**Předpověď:** Vrabel odhaduje, že současný stav (memorandum, otevírání Hormuzu) je jen dočasný a vydrží do podzimu, než proběhnou americké primárky; poté podle něj bude konflikt pokračovat dál.
+
+> „Obávám se, že tahle situace může trvat jenom do podzimku, až projdou primárky a Donald Trump uspěje, tak se obávám, že ten konflikt bude probíhat dál." — Ladislav Vrabel
+
+**Horizont:** podzim 2026 (po amerických primárkách)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
+### Ladislav Vrabel — Čekají nás „desítky milionů" migrantů a velká demografická změna (20. 6. 2026)
+
+**Předpověď:** Vrabel předpovídá, že dosavadní migrace (miliony z Afriky a Blízkého východu) je jen začátek — kvůli válkám, vedrům/klimatu a otevřeným hranicím přijdou „desítky milionů" lidí a velká změna ve složení evropského obyvatelstva.
+
+> „Zatím jezdí miliony lidí z Afriky a z Blízkého východu, ale jakmile půjdou desítky milionů, tak to uvidíme teprve, ty změny, a myslím si, že to přijde." — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+
+---
+
 ### Jindřich Rajchl — Green Deal přivede Evropu kolem 2030 k „totálnímu problému" (14. 6. 2026)
 
 **Předpověď:** Rajchl předpovídá, že soubor nařízení Green Dealu (ETS1/ETS2, RED3, EPBD4, CBAM) přivede ČR a Evropu kolem roku 2030 do „totálního problému": bezemisní budovy povinné u nových veřejných staveb od 2028 a soukromých od 2030; drtivá většina lidí si nebude moci dovolit vlastní bydlení (skoupí ho investiční skupiny); ETS2 ~90–100 tis. Kč na domácnost ročně. Při vystoupení z EU a obratu (Čína/Indie/USA) by naopak ČR mohla být v roce 2035 „jednou z nejbohatších zemí Evropy".
