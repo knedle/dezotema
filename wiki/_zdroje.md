@@ -2481,3 +2481,12 @@
 - **Délka:** 00:01:01 | Zhlédnutí: 134 729 | Sdílení hymny v podání Jarka Nohavicy (přepis = text hymny)
 - **Poznámka:** Symbolické gesto — Rajchl „zastupuje veřejnoprávní televizi" a zveřejňuje českou hymnu v podání Jarka Nohavicy, o kterou prý ČT diváky připravila „kvůli technickým problémům" (navazuje na jeho tvrzení o cenzuře z 21. 6.); dovětek „a nechci za to nic" = rýpnutí do koncesionářských poplatků. Přepis obsahuje pouze text hymny; tematicky → [dsa-cenzura.md](dsa-cenzura.md).
 - **Zpracováno:** ano
+
+## Jiří Černohorský — ČT cenzura hymny (Nohavica) (23. 6. 2026) {#jiří-černohorský--čt-cenzura-hymny-nohavica-23-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-23_Jiří-Černohorský_ud83cudde8ud83cuddffu2764ufe0fu2764ufe0fu2764ufe0fud.txt)
+- **Kanál:** Jiří Černohorský (Facebook reel)
+- **URL:** <https://www.facebook.com/reel/1643053833655530>
+- **Datum záznamu:** 2026-06-23
+- **Délka:** 00:04:19 | Reakce na sdílení hymny v podání Jarka Nohavicy (děkuje za ~100 zpráv)
+- **Poznámka:** Cenzura hymny v podání Jarka Nohavicy ze strany ČT — Černohorský ji označuje za „nehoráznost" a porušení Ústavy / Listiny základních práv (čl. 17 odst. 3 „Cenzura je nepřípustná"); tvrdí, že ČT to měla připravené předem („Závada není na vašem přijímači" jako za socialismu) a ocenzurovala hymnu, protože „nezapadá do jejich ukrajinského nacistického konceptu"; ČT „jde na ruku prozápadním/proukrajinským" zájmům a má být zrušena — žádné koncesionářské poplatky („výpalné"), 8 miliard ani koruna z rozpočtu. Tematicky → [dsa-cenzura.md](dsa-cenzura.md) (shoda s Rajchlem). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
