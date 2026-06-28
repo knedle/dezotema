@@ -1,0 +1,736 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/924737027256998
+Datum videa:  2026-05-25
+Zpracováno:   2026-05-28 09:18:24
+Jazyk:        cs
+Délka:        00:49:58
+Popis:        25. 5. 2026 Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    25s
+Přepis:       9m 13s
+Rychlost:     5.4x realtime
+Celkem:       9m 38s
+================================================================================
+PŘEPIS
+================================================================================
+
+[01:59] Vážení přátelé, dneska je ponědělí 25.5.26, je 21 hodin,
+[02:05] takže dneska jsme tady velmi na čas se zprávami a vítám vás u nich.
+[02:12] Zuzko, tobě hezký večer a pojďme na první zprávu.
+[02:17] Hezký večer všem a začneme teda.
+[02:20] Ukrajinská armáda minulý týden uvedla, že u Starobělsku
+[02:24] v okupované Luhanské oblasti zasáhla elitní dronovou velitelskou jednotku.
+[02:30] Pohár trpělosti přetekl. Za současných podmínek začínají
+[02:35] ozbrojené sily Ruské federace provádět serii systematických úderů
+[02:39] na ukrajinské podniky v Kijevě, včetně konkrétních míst navržení výroby,
+[02:45] programování a přípravy na použití UAV, používánych kijevským režimem
+[02:51] za pomocí specialistů NATO, kteří jsou odpovědní za dodávky při slušenství
+[02:56] a také za poskytování zpravodajských služeb.
+[02:59] Údery budou vynuceny jak na rozhodovací centra, tak na velicí místa.
+[03:05] Vzhledem k tomu, že vyše uvedené objekty jsou roztroušeny po celém Kijevě,
+[03:09] upozorňuje ministerstvo obrany Ruské federace zahraniční občany,
+[03:14] včetně personálu diplomatických misí a zástupců mezinárodních organizací
+[03:19] na nutnost, co nejdříve opustit město a ubyvatele ukrajinského hlavního města,
+[03:26] aby se nepřivlížovali k objektům vojenských a administrativních infrastruktury.
+[03:32] To jsou samozřejmě smutné věci, co se děje teď v Kijevě na Ukrajině.
+[03:37] Když jsme měli zprávu, nevím, jak je to dlouho možná, tak týden, dva týdny,
+[03:42] kdy rusové vyzvali, aby se stáhli, myslím, že to bylo z Kijeva dokonce,
+[03:49] zahraniční pracovníci, tak se tomu tenkrát Evropská unie vysmála,
+[03:53] že oni se nenechají zastrašovat Ruskem.
+[03:56] Že to je známý blav ruský. Teď mám takový pocit, že už se tomu nevysmívají
+[04:02] o tom útoku, který byl ze soboty na neděli, neděli ráno, kde rusové zautočili
+[04:09] jedním oriešníkem, dvěma kinžály, tři zirkony padly, 30 iskanderů
+[04:17] a 40 dalších raket plus asi 500 dronů, tak už se dneska nikdo nesmíje.
+[04:23] Nesmíje, my jsme tady o tom informovali spolu.
+[04:26] Právě ve čtvrtek, v pátek o tom teroristickém útoku ze strany Ukrajiny,
+[04:31] kdy zautočili na internát v Ruské federaci, kde zabili, nevím,
+[04:38] kolik je teď konzusko obětí už potvrzených.
+[04:40] 21.
+[04:42] 21 obětí, většina z toho byly dívky, pokud vím, studentky.
+[04:47] Byl to velmi brutální čin, protože to bylo po ránu, když byli ještě,
+[04:51] předtím nešli do školy, pokud vím, a byly to tři vlny útoků,
+[04:56] kůdronových, přímo cílený na tu internátní školu, na ten internát té školy.
+[05:01] Takže to byl cílený útok na studenty ruský a to samozřejmě jsme tady mluvili o tom
+[05:07] ve čtvrtek, v pátek, že sice je super, že dobře, že v OSN a i Vladimír Putin
+[05:14] mluvili o terorismu a o tom, že je potřeba přistupovat k tomu jako k terorismu,
+[05:18] že nevzali horký hlavy a nešli srovnat Ukrajinu se zemí,
+[05:23] ale taky jsme mluvili o tom, že je úplně evidentní,
+[05:26] že někdo dlouhodobě terorizuje zemi a útočí na děky,
+[05:30] takže to je zrovna citlivý téma. Když někdo zabijí děky,
+[05:34] to prostě se velmi těžko udrží nějaká politická úroveň,
+[05:38] to jsou lidi naštvaný. Dokonce v Rusku slyším zhodně míst,
+[05:43] že jsou lidi naštvaný a že si myslí, že to, co udělal ruský režim v neděli
+[05:48] na ten útok na Kiev, že to nebyla dostatečná odplata,
+[05:51] že je potřeba, aby Rusko utočilo dál.
+[05:54] Marko Rubio, americký ministr zahraničních věcí,
+[05:56] mluvil dneska s Sergejem Lavrovem, s ministrem zahraničních věcí
+[06:00] Ruské federace a Sergej Lavrov mu potvrdil, že na základě
+[06:04] teroristických útoků ze strany ukrajinského režimu
+[06:07] budou ze strany Ruské federace pokračovat útoky,
+[06:11] a to tvrdé útoky, budou pokračovat na Kiev a budou pokračovat
+[06:15] především teda na vojenská zařízení nebo zařízení,
+[06:17] která mají něco společného s velením a s armádou ukrajinskou,
+[06:23] ale vyzvali lidi, aby se odsud stáli,
+[06:26] víte, že už v sobotu američani vyzvali svoje lidi,
+[06:29] aby se stáli z Kieva, později to udělali ukrajinský režim,
+[06:33] že vyzval ukrajince jako takový, oznámil, že bude velký útok
+[06:36] a teď čeká Kiev další velký útok. Je to smutná věc,
+[06:41] varujeme tady před tím roky, roky mluvíme o tom,
+[06:44] že válka je blbá v tom, že zabijí lidi, že lidi u toho trpí,
+[06:48] a bohužel naši politici pořád dál podporují tu válku,
+[06:54] pořád dál mluví o tom, že je potřeba Rusko porazit,
+[06:56] když už dávno je jasný, že to není možný na bojišky,
+[06:59] minimálně ne bez toho, aniž by byly miliony mrtvých
+[07:03] a neustále posílejí další peníze na Ukrajinu a chválí se,
+[07:07] jak dali 90 miliard Ukrajině, tak se chválí,
+[07:10] že dají 140 miliard dolarů přes NATO Ukrajině,
+[07:13] že budeme platit 0,25%. Náš premiér se chválí,
+[07:18] že uděláme všechno pro to, aby jsme plnili závazky vůči NATO.
+[07:22] Náš prezident minulý týden vyzval veřejně pro,
+[07:26] pro Guardian, pro britský denník, že je potřeba vytasit zuby na Rusko,
+[07:30] že je potřeba další vojenský akce a tohle je důsledek.
+[07:34] Dneska v noci budou mít v Kijevě pravděpodobně,
+[07:37] nebo v dalších dnech budou mít v Kijevě problém.
+[07:41] Viděl jsem taky nějaký lidi, kteří mluví na sociálních sítích z Kijeva
+[07:45] a je mi prostě těch lidí líto, protože bohužel každá věc,
+[07:49] která se stane, má nějaký svůj následek.
+[07:52] Ten zákon příčiny a následku funguje bezvadně,
+[07:55] funguje stoprocentně, funguje kdekoliv, kdykoliv.
+[07:58] Všechno, co zažíváme, tak je výsledkem věcí,
+[08:02] které jsme udělali v minulosti, věcí, které jsme řekli
+[08:04] a na které jsme mysleli. V buddhismu se tomu říká karma
+[08:08] a bohužel tenhle princip funguje pro každýho,
+[08:11] ať je Ukrajinec, Čech nebo Tibetian, to prostě je věc univerzální
+[08:15] a Ukrajinci od roku 2014 rozvíjeli nacismus ve svojí zemi,
+[08:23] podporovali politiky, kteří byly neonacisté,
+[08:25] zavírali oči před tím, že se zabíjí lidi,
+[08:28] zavírali oči před tím, že se posílají zbraně do armády,
+[08:31] která zabíjí lidi, stejně tak, jako to děláme my v České republice,
+[08:34] stejně tak, jako to dělají naši občany. Zavírají oči před tím,
+[08:37] že naši politici posílají peníze a zbraně na Ukrajinu.
+[08:41] Nechtějí už o tom moc slyšet, protože už jsou tím unavení
+[08:44] a tohleto je důsledek. A samozřejmě bude to horší a horší,
+[08:48] pokud to půjde tímhle způsobem dál. Takže to je velmi smutná zpráva.
+[08:54] Kdo jste věřící, modlete se za ty lidi na Ukrajině, v Kijevě,
+[08:59] za ty civilisty, který nemají až zas tak moc společného s tou válkou,
+[09:03] který nerozdělávali ten protiruský nacismus a bohužel jsou tam zavření,
+[09:07] protože neměli peníze na úplatky, aby utekli, nebo dělejte dobré přání,
+[09:11] protože to je to poslední, co můžeme teď udělat.
+[09:13] Mohli jsme toho udělat víc, mohli jsme zastavit financování
+[09:16] ukrajinského nacistického režimu, aby nemohl provádět ty teroristické útoky,
+[09:22] třeba na tu internátní školu v Ruské federaci, kde zabili ty holky, studentky.
+[09:28] Ale my místo toho vyrábíme drony pro Ukrajinu, posíláme tam drony
+[09:31] a posíláme jim peníze na to, aby mohli vyrábět drony.
+[09:34] Krev je bohužel i na našich rukách. Pojďme na další zprávu.
+[09:39] Na další zprávu je taková krečoučka, ale zajímavá.
+[09:41] Americký velvyslanec v Izraeli, Mike Huckbee, prohlásil,
+[09:46] že obyvateli Libanonu, které nyní bombarduje IDF,
+[09:51] by měli být Izraeli vděční za mobilní telefony, šery rajčata
+[09:55] a vodní melouny bez seminek. Mně to přijde, že si dělali graci.
+[10:00] Tak ten, jak se tomu říká, hypokrasy, česky vždycky, jak?
+[10:10] Pokrytectví, jako manželka mi napovídá, jak mluvit česky.
+[10:15] Pokrytectví.
+[10:15] Pokrytectví, to po mně tohle slovo.
+[10:16] Vždycky vypadává to pokrytectví.
+[10:18] To pokrytectví, co se týče Izraele a pásmu Gazi a Libanonu
+[10:23] a vůbec to, jakým způsobem se IDF, ty izraelské defense forces,
+[10:28] ty ozbrojené síly, nějakým způsobem fungují a vůbec i vláda,
+[10:32] jakým způsobem izraelská funguje vůči tomu svýmu okolnímu obyvatelstvu
+[10:36] ty poslední roky, to je prostě, to pokrytectví je neuvěřitelný.
+[10:39] Teď jsem zase četl o tom, jak mezinárodní organizace šly pomáhat do Libanonu,
+[10:46] jak je zastavila IDF, jak je stříleli gumovými projektily,
+[10:52] kolik lidí bylo zadržených, kolik lidí bylo zraněných a to byly Evropani.
+[10:55] Potom, když přijeli zpátky do Španělska do Bilba, tak ještě tam dostali od vlastní policie.
+[11:01] Tak to jsou věci, o kterých se nikde nepíše, o kterých se nikde nemluví.
+[11:04] To, že tam probíhá genocida, to je naprosto šílená věc v Gaze.
+[11:09] Naše vláda zase místo toho, aby se zabývala těmito věcmi,
+[11:12] dokonce i Evropská unie se tím zabývá, dokonce i v Evropské,
+[11:16] unie jsou státy, který se tím zabývají a Evropská unie není jednotná
+[11:19] a proto je Evropská unie se dokonce zabývá tím, že ne ve všem podporuje Izrael,
+[11:25] tak naše vláda vydala prohlášení skrze Petra Macinku,
+[11:28] že nepodpoří rezoluce z Evropské unie, který by byly proti izraelský,
+[11:34] ale bude jednoznačně stát na straně Izraela.
+[11:36] Takže za mě toto, to, že stojíme jednoznačně na straně Spojených států a Izraela,
+[11:41] i když páchají váleční zločiny ve Venezuele, v Iránu, v Gaze, v Libanonu,
+[11:46] to máme taky krev, bohužel, na našich rukou.
+[11:50] Česká republika se stala zemí bohatou, protože teď západ žije na dluh,
+[11:54] takže i my žijeme na dluh, všechno jsme prodali, takže z toho nějaké peníze máme,
+[11:59] stejně tak, jako když bohatý šlechtic prodá bohatství, které jeho rodina hromadila,
+[12:05] tak my, co jsme měli všechno za minulýho režimu ve svém vlastnictví,
+[12:08] všechny továrny, všechny majetek, všechny obchody, všechnou výrobu,
+[12:12] tak jsme všechno prodali na západ, ty peníze si teď užíváme, cítíme se jako bohatí,
+[12:18] do toho jsme se ještě zadlužili, cítíme se jako bohatí, samozřejmě na úkor našich dětí
+[12:22] a jejich dětí zadlužili jsme naše děti a naše vnuky, tak jsme pánové tvorstvami Češi,
+[12:27] nafoukaný národ, který najednou dělá obrovskou mezinárodní politiku
+[12:32] a jede do Afriky, tam dává moudra, dokonce Tomiho Kamurel do Srbska dával moudra,
+[12:37] jak by Srbsko suverénní samostatní mělo vstoupit do Evropské unie,
+[12:40] tenhle je ten vlastenec suverenista, tak propagoval Evropskou unii v suverénním Srbsku,
+[12:45] to mě úplně dostalo, Macinka jezdí z jedné země do druhé, kde ukazuje,
+[12:50] jak Česká republika se do všeho teď motá, podporujeme Izrael, podporujeme spojený státy,
+[12:55] jsme s těmi největšími hráči, vyrábíme zbraně, vyděláváme,
+[12:59] máme nejbohatšího zbrojaře na světě, teď je to nejmladšího Sernada,
+[13:02] to je současná Česká republika a bohužel i v tomhle konfliktu jsme na té špatný straně
+[13:08] a to s tím, že obyvatelstvo zavírá oči před tím, že podporujeme izraelský režim
+[13:14] se všemi zločiny, který páchá.
+[13:19] Jan, pan minister řekl, že bude vetovat veškeré případné další sankce vůči Izraeli, že?
+[13:26] Ano.
+[13:27] Tady se trošku připomeneme Tulsi Gavard, bývalý důstojník ukrajinské tajné služby SBU
+[13:34] Vasilí Prozorov tvrdí, že na Ukrajině fungovaly biologické laboratoře
+[13:38] pod kontrolou amerického Pentagonu.
+[13:40] Podle Prozorova byla spolupráce zahájena po podpisu dohody o biologické bezpečnosti
+[13:46] mezi Spojenými státy a Ukrajinou v roce 2005.
+[13:50] Tvrdí, že osobně viděl dokumenty dokazující kontrolu laboratoři ze strany Pentagonu
+[13:55] a že v zařízeních probíhal vývoj nebezpečných patogénů.
+[14:00] Prozorov dále uvádí, že tehdejší ukrajinský prezident,
+[14:03] Viktor Janukovic, po nástupu do funkce část projektu zastavil,
+[14:07] ale po událostech na Evromajdanu v roce 2014 byla jejich činnost obnovena.
+[14:13] Tvrdzení bývalého důstojníka SBU...
+[14:16] Ne, to už asi...
+[14:24] To bude další zpráva.
+[14:26] Tak je to dost zajímavá zpráva.
+[14:28] Tak my to víme už od Viktorie Nuland, žeho z roku 2022,
+[14:32] která v čele kongresu mluvila o tom,
+[14:35] že se museli...
+[14:38] Rychle zajistit ty biolaboratoře na Ukrajině,
+[14:41] aby rusové nezískali ten genetický materiál,
+[14:44] který tam byl vyráběný nebo který tam byl studovaný v těch laboratořích.
+[14:49] Tak nám to si Gabar, která rezignovala tři dny zpátky
+[14:52] z pozice šéfový tajných služeb Spojených států,
+[14:56] tak nám oznámila oficiálně a veřejně,
+[14:59] že bylo, stuším, že 120 laboratoří, Zuzko, 120 laboratoří,
+[15:02] že bylo na Ukrajině, amerických.
+[15:04] No a to...
+[15:06] 120 celkem a 40...
+[15:08] Na Ukrajině.
+[15:09] Děkuju ještě, že máme tebe.
+[15:11] Hlavu, která si to všechno pamatuje, 120 celkem, 40 na Ukrajině.
+[15:15] Ale tady vidíte, jak Spojený státy fungujou.
+[15:17] Nejenom, že mají všude vojenský základny,
+[15:19] ale ještě mají po celém světě rozesetý biolaboratoře.
+[15:23] A ta ve Wuhanu, myslím, že ta je taky americká,
+[15:25] nebo minimálně doktor Fauci tam jezdil,
+[15:27] tam, kde se vyráběl koronavirus, tam, kde se studovali koronaviry.
+[15:32] A otázka je, kdo z nich je za to zodpovědný,
+[15:34] za tu katastrofu koronaviru, kterou jsme tady zažili celý svět.
+[15:38] Celý svět zavřený, ekonomika zavřená, lidi zavřený doma, očkování.
+[15:43] Kdo to způsobil? Kdo vypustil?
+[15:46] Kdo dělal ty viry v té vojenské laboratoři?
+[15:49] Kdo je vypustil? Kdo je vynes ven?
+[15:51] Někdo to pravděpodobně byl.
+[15:54] No a to jsme se zatím pořád nedozvěděli.
+[15:56] Američani pro mě jsou saspekt číslo jedna, podezřelí číslo jedna.
+[16:03] Čína nebo...
+[16:04] Spojený státy, a pro mě spíš spojený státy, když to tak vidím,
+[16:07] protože když vidím, jakým způsobem operují, jak mají rozesetý biolaboratoře,
+[16:12] hlavně všude jinde, než ve spojených státech, kdyby to uteklo.
+[16:15] Stejně jako s ebolou, kterou, když měli případy, které mohly být nakažený ebolou,
+[16:21] tak co s nima udělali? Zákaz do spojených států.
+[16:25] Letadla měla nařízeno, že pokud by mělo letět letadlo s nějakým nakaženým ebolou
+[16:30] do spojených států, tak měli rozkaz střílet.
+[16:32] To se pohybovalo po sociálních sítích, tato zpráva, takže nevím, jestli to je ověřená zpráva.
+[16:36] To jenom, abych tady nedělal nějaký drb.
+[16:39] Ale to, co není drb, to, co jsme se rozvěděli od našeho ministerstva zdravotnictví,
+[16:44] tak náš minister zdravotnictví Adam Vojtěch řekl, že je pišný, že je hrdý na to,
+[16:50] že můžeme přijmout toho amerického lékaře, který byl v kontaktu s nakaženým ebolou,
+[16:56] a vzít ho do České republiky.
+[16:58] A že američani jsou ještě tak skvělí, že zaplatili letadlo, aby nám sem tu ebolu poslali.
+[17:03] Takže tolik k biolaboratořím a k tomu, jakým způsobem zachází spojení státy
+[17:08] s nebezpečnými patogeny, s jejich vývojem, s jejich kultivací, s jejich výzkumem.
+[17:14] A v případě, že se někdo nakazí, jak zachází s těmi lidmi, kteří jsou nakažení,
+[17:19] a jak zachází se svými vazaly, jako je Česká republika nebo i Německo,
+[17:23] protože i do Německa poslali.
+[17:26] Ligi, kteří byly v kontaktu s nakaženým ebolou.
+[17:29] Takže takhle fungují spojené státy.
+[17:31] To jsou ty spojené státy, které jsou pro ministra Petra Macinku a pro André Babiše
+[17:37] tím nejlepším partnerem, který jsou tím naším velkým bratrem,
+[17:42] ke kterému musíme my vzlížet a udělat všechno, co po nás kýjí.
+[17:46] A když nám zavolá Donald Trump, tak hurá, hurá.
+[17:49] Tak když můžeme na Mezinárodním fóru někde mluvit o Donaldu Trumpovi
+[17:53] a veřejně mu lézt.
+[17:56] Nevím, jak se to říká slušně, tak to prostě uděláme.
+[18:00] Bohužel, tohle je naše vláda, tohle je současná situace.
+[18:04] A to, že se našel další člověk ve spojených státech,
+[18:07] kdo to veřejně říká o těch biolaboratořích, to je velký zázrak,
+[18:11] protože tu si Gabald před třemi dny rezignovala,
+[18:14] sice odůvodnila tu rezignaci těm, že má nemocného manžela,
+[18:17] ale všichni jsme tak nějak tušili, že tenhle stav není udržitelný dlouhodobě
+[18:21] pro tu si Gabald, aby ona věci takovýhle říkala veřejně,
+[18:26] jako šefová tajných služeb.
+[18:28] Takže jsem rád, že se našel v Americe další statečný člověk,
+[18:31] který tyhle věci říká veřejně.
+[18:36] Tak ona tu si Gabald hlavně byla trošku na jiné léněji vůči Iránu než Trump.
+[18:43] Že ona prostě ti tvrdila, že nepřipravují žádné jadrné zbraně.
+[18:48] Ano, to je taky další věc, kterou veřejně ona prohlásila.
+[18:51] Nebyla teda sama, byl to taky Charlie Kemp.
+[18:53] Charlie Kirk, který...
+[18:55] Její kamarád.
+[18:56] Její kamarád a byl to taky šéf, co to bylo za úřad?
+[19:02] Ještě tam byl jeden bezpečnostní úřad, jeho šéf taky rezignoval,
+[19:06] který ho dosadil Donald Trump a ten řekl potom,
+[19:08] že když mluvil s Charlie Kirkem před tím, než byl zastřelený,
+[19:11] tak ho Charlie prosil, aby Američani nešli do Iránu.
+[19:15] Takže je tam nějaká skupina statečných lidí ve Spojených státech
+[19:18] vysoce postavených, který teda dosadil i Trump,
+[19:21] který přišli v souvislosti s Trumpem,
+[19:23] s tou magou, s tím velkým hnutím,
+[19:26] který chtělo velký dobrý změny v Americe,
+[19:28] ale který zůstali věrný nějakým těm ideálům předvolebních slibů
+[19:34] a předpokládám, že po tom, co Charlie Kirk byl zastřelený,
+[19:37] tu si Gabbard odešla, rezignovala
+[19:42] a ten, teď si taky nepamatuju, taky mladý člověk v našem věku,
+[19:48] něco málo přes 30, taky rezignoval,
+[19:52] takže myslím si, že tyhle lidi budou prostě odstavovat.
+[19:54] Měli jsme ho ve zprávách, takže už jsme to řekli.
+[20:01] To, že si nepamatujeme všechno, to prostě nejde v tom přívolu informací.
+[20:05] Tak pojďme na další zprávu, Zuzko.
+[20:07] Tak dnes skončila oficiální část sudeto německého Landsmannschaftu v Čechách
+[20:13] a hned přišlo prohlásení navzdory protestům.
+[20:17] Byla celková atmosféra sjezdu sudeckých Němců v Brně pokojná
+[20:21] a nálada velice srdečná.
+[20:24] Vzal německý list Sudetische Zeitung.
+[20:28] Předák sudeto německého krajanského združení Bernd Posselt
+[20:32] řekl Bavorské vřejnou právní stanici BR,
+[20:36] že by se akce mohla střídavě konat v Německu a v Česku.
+[20:41] V řadě českých měst už podle něj místní projevili o pořádání sjezdu zájem.
+[20:46] Setkání v Brně dnes po čtyřech dnech skončilo
+[20:49] u ctění památky oběti nacizmu v Kovnicových kolejích.
+[20:53] Příštím roce...
+[20:54] ... se podle poslata sjezdu sudetských Němců uskuteční opět v Německu
+[20:59] a to v Norimberku.
+[21:00] Zároveň uvedl, že o pořádání některého z příštích sjezdu
+[21:04] usiluje hned několik měst.
+[21:07] Jako příklad uvedl Cheb,
+[21:09] kde podle něj příslušnou občanskou iniciativu
+[21:12] vede bývalý starosta města Antonín Jalovec.
+[21:19] Tady jsem čet jeden komentář,
+[21:21] který bych chtěl zodpovědět ohledně Izraelsko.
+[21:25] Palestinského konfliktu, ale teď se omluvám,
+[21:28] zodpovíme ho později, nebo třeba v neděli ve vysílání
+[21:32] bych to mohl rozebrat trošku víc, tady pro paní Šárku Petráskovou.
+[21:36] My jsme neřekli, že Izrael jsou teroristky,
+[21:40] ale mluvili jsme o válečných zločinech,
+[21:42] to je poměrně velký rozdíl, ale to bychom mohli rozebrat
+[21:46] radši v nedělním vysílání, když tak zkuste mi položit
+[21:49] tu otázku do nedělního vysílání, protože to je trošku širší téma.
+[21:51] Můžeme tam rozebrat tu otázku Izraelsko-Palestinského konfliktu
+[21:56] trošičku dohloubky. A co se týče Sudeto Německého Landsmannschaftu,
+[22:00] my jsme právě teď skončili schůzi s lidma, který zastupovali naše hnutí
+[22:06] na tom Sudeto Německém Landsmannschaftu, nebo na tom sijezdu v Brně.
+[22:10] Samozřejmě tam nebyli jako podporovatele, ale byli tam jako proti
+[22:14] tomu sijezdu Sudeto Německého Landsmannschaftu.
+[22:16] Chtěl bych vám všem vyjádřit obdiv, kteří jste byli na té demonstraci
+[22:21] a podporu, protože jsem rád, že se vás tam sešlo tolik
+[22:24] proti tomu Sudeto Německého Landsmannschaftu.
+[22:27] Bohužel bylo tam málo lidí a je pravdou, že se v médiích hned objevilo
+[22:33] paní Vaňková s Berntem Poseltem zprávy o tom, že teď jim to připadalo skvělý,
+[22:39] takže teď to budou dělat každý rok. Na střídačku jednou v Německu,
+[22:42] jednou v Čechách. Takže to opravdu byla otevřena ta pandořina skřínka,
+[22:47] kde se budou teď dělat tradiční sijezdy Sudeto Německého Landsmannschaftu
+[22:50] Česká republice. To, že by to mělo být v Liberci příští rok,
+[22:57] je pravděpodobně nepravda, protože s kým přišel pan Suchopár,
+[23:06] který nám to řekl před několika měsíci, že má tuhle informaci,
+[23:09] my jsme to ověřovali už před měsícem a půl, přijíma na Sudeto Německém
+[23:13] Landsmannschaftu i v Liberci, ty nám řekly, že žádná taková věc se neplánuje,
+[23:19] na příští rok je naplánovaný se Sudeto Německého Landsmannschaftu,
+[23:21] někde v Bavorsku. Mezi Němci v Brně se teď mluvilo o tom,
+[23:26] že by to mohlo být v Norymberku, že už mají nakoupený lístky,
+[23:30] někteří říkali, ale oficiálně zatím Norymberk zveřejněný není,
+[23:33] takže příští rok to bude pravděpodobně v Německu,
+[23:35] ale další rok čekajte zase v České republice a právě proto jsme udělali
+[23:39] taky tu petici za prohlášení Sudeto Německého Landsmannschaftu
+[23:43] za extremistickou organizaci, protože to je první krok k tomu,
+[23:46] aby se to dostalo na půdu parlamentu a řešilo se to,
+[23:49] jestli bude parlament za to, aby byl Sudeto Německý Landsmannschaft
+[23:54] prohlášený za extremistickou organizaci nebo ne,
+[23:57] protože taky by tam bylo jenom vyjádření 70. poslanců,
+[24:00] že nesouhlasí se sjezdem, což byl opravdu jenom politický výstřel do tmy,
+[24:06] což jsem říkal, že to nebude mít žádný vliv, tam se musí jít legislativní cestou,
+[24:10] musí být prohlášený za extremistickou organizaci,
+[24:13] musí to odhlasovat parlament, musí se,
+[24:16] musí se to předat ministerstvu vnitra, s tím, že parlament chce,
+[24:19] aby to ministerstvo vnitra takhle evidovalo a pak se s tím může jít někam dál,
+[24:24] takže dneska jsme zprovoznili naštěstí, náš IT, náš ITák,
+[24:30] hlavní radek z tábora, nevím, jestli můžu říkat příjmenně,
+[24:34] radši říkat nebudu, ale patří mu velký dík, pracoval na tom,
+[24:38] zprovoznil naše webové stránky, takže máte petici zase na stránkách
+[24:42] www.cr1.cz, možná vám ji můžu ukázat, můžete ji rovnou,
+[24:46] můžete ji rovnou stáhnout, podepsat, poslat do našeho hnutí,
+[24:52] pokud si myslíte, že je to potřeba, abychom se dostali do parlamentu
+[24:57] tadyhle s tím, tak mi nejde načíst, tak možná na tom ještě pracuje,
+[25:02] bohužel, www.cr1.cz, zkuste to třeba později, určitě to bude fungovat
+[25:07] snad během dneška, ještě už si mě tam dneska vidělo,
+[25:09] už se mi stavovalo co k petici, takže už to fungovalo.
+[25:13] Nejde o to, kolik nazbíráme podpisů, jakože bychom museli
+[25:16] nazbírat, tak jako když jsme dělali petici pro odvolání vlády v roce 22,
+[25:22] že jsme potřebovali 100 000 lasů, ne, tak nám stačí 10 000 podpisů,
+[25:26] aby jsme to dostali na půdu parlamentu a parlament se tím bude muset
+[25:28] potom zabývat, takže 10 000 podpisů není zas tak moc a ještě jsem slíbil
+[25:33] dneska, že uděláme elektronickou petici, protože petice se dá podepisovat
+[25:36] i elektronicky, ale nejenom přes e-mail, to se musí dělat přes ověřený
+[25:40] elektronický podpis před datovou schránku nebo přes nějakou jinou formu
+[25:44] ověřeného elektronického podpisu, takže to vám ještě v budoucnu dáme.
+[25:49] Takže to je tolik, co se týče Landsmannschaftu, ještě taky dneska
+[25:52] na schůzi jsem se dozvěděl, že tam lidi, se kterýma spolupracujeme,
+[25:57] nechali konkrétně Lucie Zajicová, paní, se kterou spolupracujeme
+[26:02] na celý té akci, ale i v rámci voleb jsme spolupracovali,
+[26:06] tak nechala vytisknout 6 000 takových letáčků, oni vychází z těchhle
+[26:10] německých letáčků, Němci, Der Spiegel, německý,
+[26:14] nějaký denník, udělal takovou stránku, vám opanaci,
+[26:19] to znamená byl dědeček nacista a udělali, nebo čekajte,
+[26:25] vlastně já to dám v češtině, udělali v té Němčině,
+[26:29] to je byl váš dědeček nacista, v češtině to přeložili,
+[26:32] zjistěte, co vaše rodina dělala za Hitlera, co dělali vaše prarogiče
+[26:35] za nacistické éry a co jich sousedé, Spiegel pro vás sestavil
+[26:39] miliony členských karet NSDAP, zde můžete prohledávat soubory
+[26:43] a vytvořit si vlastní osobnost.
+[26:44] Je tady přihláška například Hans Miller, takže něco jako u nás
+[26:49] jsou ty cibulkovy spisy, nebo jak se to jmenovalo,
+[26:54] kde jste mohli zjišťovat, kdo byl členem STB a co tam dělal,
+[26:59] tak tady Němci udělali takovouhle hezkou věc a Lucka Zajicová
+[27:03] to ještě s našimi lidmi rozdávali právě na sjezdu
+[27:06] sudetu německého Landsmannschaftu, těm sudeťákům,
+[27:09] těm skopčákům, tenhle ten letáček, aby si mohli prověřit,
+[27:13] jestli jejich dědeček byl taky nacista.
+[27:14] Jestli je uvedený v těch seznamech, mně to připadá jako
+[27:17] moc hezká aktivita, která tematicky velmi dobře zapadla
+[27:21] do toho sjezdu sudetu německého Landsmannschaftu.
+[27:25] Tak, jinak jsem včera dostal dotaz ještě, krátce jenom řeknu,
+[27:31] dostal jsem dotaz na téma doktor Sládek na té demonstraci,
+[27:36] během nedělního vysílání jsem to komentoval,
+[27:37] ale neviděl jsem, co se tam stalo, poté jsem se na to podíval
+[27:41] a je to přesně tak, jak jsem předpokládal.
+[27:43] Doktor Sládek byl zavřený na pankráci 17 dní
+[27:47] za údajné rozmýchávání nenávěstí vůči Němcům.
+[27:52] A to bylo za to, že kritizoval právě Miloše Zemana a ostatní,
+[27:57] kteří vytvořili tu slavnou česko-německou deklaraci v roce 1997,
+[28:02] která byla v podstatě dveřmi k tomu, aby se mohli sudeto němeční Němci pozvat,
+[28:07] aby se jim mohli vracet majetky.
+[28:09] To bylo takový to urovnání.
+[28:11] Němci, vy jste nám trochu ublížili,
+[28:12] my jsme trochu ublížili vám, co jsme si, to jsme si, všechno bude zapomeno.
+[28:16] Podepsáno, česko-německá deklarace.
+[28:18] A to je to, co tam připomínal doktor Sládek do megafonu,
+[28:22] že Miloš Zeman byl právě tím, kdo propagoval, prosazoval
+[28:26] tuto česko-německou deklaraci a ještě udělal podvod na tehdy doktora Sládka,
+[28:30] který byl předsedou republikánů na velmi podobný politický úrovni
+[28:34] jako Miloš Zeman a třikrát mu zatelefonoval do Brna,
+[28:37] a doktor Sládek nám to vyprávěl a vylákal ho podvodem do Prahy.
+[28:41] Jakmile doktor Sládek přijel do Prahy, tak hned na něj skočila policia
+[28:44] a Miloš Zeman ho takhle dostal na pankráz do vězení.
+[28:46] A to je to, co mu tam doktor Sládek připomínal.
+[28:49] Vůbec se tomu nedivím, že mu to připomínal,
+[28:51] protože ze strany Miloše Zemana to je opravdu nechutné,
+[28:54] tohleto, co udělal.
+[28:57] A bohužel ti vlastenci, kteří tam stáli, kteří říkali,
+[28:59] my jsme si přišli poslechnout prezidenta Zemana,
+[29:02] tak zautočili na doktora Sládka, 75-letého doktora Sládka.
+[29:07] Tam začali pošťuchovat, píchat do něj, bouchat do něj.
+[29:10] Za mě velká ostuda.
+[29:11] Takže tolik jenom dopovím k tomu sudeto-německému Landsmannschaftu.
+[29:16] Sjezd skončil, ale ta aktivita sudeto-německého Landsmannschaftu nekončí.
+[29:21] A pokud jste nebyli na demonstraci, jenom proto,
+[29:24] abyste se setkali s kamarády, ale skutečně vám jde o to,
+[29:26] aby se neprezentovala Česká republika,
+[29:29] tak jak to udělal bavorský premiér Seeder,
+[29:32] že teď potom Landsmannschaftu, kde řekl,
+[29:35] že Česko a Bavorsko jsou sousední země
+[29:37] a budou teď rozvíjet spolupráci po tom, co ho přijmul prezident,
+[29:42] a ponížil Českou republiku na nějaké Česko,
+[29:44] které má mít význam jako Bavorsko, jako sousední země.
+[29:48] Pokud se vám tohle nelíbí, tak bych vám doporučil,
+[29:51] abyste se chopili těch peticí a začali je tisknout,
+[29:55] protože petice musí být podepsaná podle zákona,
+[29:58] jinak není platná. Když je to jenom na internetu,
+[30:00] tak to můžeme dát jenom jako doprovodný číslo,
+[30:03] že tam lidi napsali svoje jméno a e-mailovou adresu,
+[30:05] ale petice musí být podepsaná, aby byla platná,
+[30:07] aby jsme ji mohli nést do parlamentu.
+[30:09] Jakmile budeme 10 000 podpisů, tak pak parlament bude muset
+[30:12] vyslyšet tadyhle tu žádost obyvatelstva
+[30:15] a bude k tomu muset vydat usnesení.
+[30:17] Takže jakmile podepíšeme dostatečně tu petici,
+[30:20] tak parlament se tím bude muset zabývat na základě té petice
+[30:23] a bude muset vydat usnesení, že buď to prohlásí,
+[30:27] sude to německý landsmannschaft za extremistickou organizaci,
+[30:31] anebo ne, a budou tam vidět jména těch poslanců,
+[30:34] kteří je hlasovali. Takže pokud vám tohle připadá
+[30:37] jako smysluplná aktivita, jako správný krok legislativní,
+[30:40] tak na stránkách cd1.cz můžete stáhnout,
+[30:43] podepsat a poslat zpátky poštou a obejděte taky sousedy a kamarády.
+[30:48] Tak pojďme na další zprávu, Zuzko.
+[30:51] V Estonsku byl obnoven pomník pro hrdiny z Waffen SS.
+[30:55] V estonském městě Jovi.
+[30:57] Byl znovu odhalen památník věnovaný dvěma důstojníkům,
+[31:02] majoru Georgu Södenovi a nadporučíku Ralu Jirádovi,
+[31:07] hrdinům, kteří během druhé světové války bojovali v řadách
+[31:12] 20. Estonské granátnické divize Waffen SS.
+[31:17] Tak to vidíme, že po celém západě, jak se nám tady najednou objevují
+[31:22] nacisté jako houby podešky, když Vladimír Putin v roce 22.
+[31:26] 24. 2. vydal.
+[31:28] Ten svůj slavný projev, tak mluvil o tom, že poslali ruskou armádu
+[31:32] na Ukrajinu kvůli tomu, aby dynacifikovali Ukrajinu.
+[31:35] Mezikým nám tady začali lidi popotahovat na policii a skoro
+[31:40] zavírat za to, když mluvili o dynacifikaci, že to je ruská
+[31:44] propaganda a podívejte se dneska. Potom v kanadském parlamentu,
+[31:49] že ho tam tleskali, když tam přišel ten bývalý SSák vonka
+[31:54] a uvedli ho jako bojovníka za svobodu, za svobodnou Ukrajinu
+[31:58] lety 42 a 45, náš parlament odmítnul projednat návrh
+[32:06] Jardi Foldyny, poslance z SPD, za což mu teda patří kredit,
+[32:10] který navrhnul, aby se zabývali v našem parlamentu odmítnutím
+[32:14] nacizmu, tak to náš parlament ještě zabývalé vlády odmítl
+[32:18] se tím zabývat. Mohl by to možná navrhnout poslanec Foldyna
+[32:22] teďkon, tak už by se snad k tomu parlament mohl postavit
+[32:24] nějakým způsobem, lepším způsobem, takže to bych byl rád,
+[32:28] že se to projednávalo. No a vidíte, v pobaltských zemích
+[32:31] nám taky vyrůstají nacisté jako hoby podeště a oslavují se
+[32:35] jako hrdinové, stejně jako na Ukrajině prohlásil ukrajinský
+[32:39] parlament Štěpána Vanderu za národního hrdinu.
+[32:44] Tak, pojďme dál.
+[32:47] Velitel NATO, admirál Pěr Vandír, prohlásil, že Evropa v současné době
+[32:53] nemá pro Palantýr žádného skutečného konkurenta
+[32:56] a obhajoval rozhodnutí aliance rychle příjmou systému
+[32:59] americké společnosti pro boj s umělou inteligencí
+[33:03] a zároveň varoval, že Evropa musí rychle jednat a budovat vlastní alternativy.
+[33:08] Vezmeme si něco z regálu, co Spojené státy používali, řekl Vandír,
+[33:13] s tím, že Evropa musí dokázat, že dokáže dodat ekvivalentní technologie
+[33:18] během několika měsíců, let, ne desetiletí.
+[33:23] Co to znamená, Zuzko? Pěr Vandír prohlásil, že Evropa nemá pro Palantýr
+[33:29] žádného skutečného konkurenta.
+[33:30] To znamená, že nám chtějí do Evropské unie nasadit Palantýr.
+[33:36] Rozumím to úplně. Palantýr je v Americe, je to společnost,
+[33:42] před kterou varuju taky už nějakou dobu. Myslím, že se tomu taky nikdo jiný
+[33:46] zatím nevěnoval moc v České republice, co to je Palantýr.
+[33:48] Palantýr je společnost, která se zabývá sledováním lidí,
+[33:54] která se zabývá bezpečností, má vojenské zakázky,
+[34:00] od armády Spojených států, od Pentagonu. A za Palantýrem stojí
+[34:04] Peter Thiel, který je jedním z dvou lidí, který vystupují za Palantýr.
+[34:10] A Peter Thiel je velmi úzce spojený s tou současnou vládou Donalda Trumpa.
+[34:16] A to přes Ilona Muska a přes J.D.O. Vance, protože Peter Thiel je jeden
+[34:22] z té takzvané PayPal mafie. To jsou globalisté, ale kteří jsou
+[34:30] technokraté. Oni jsou zástupci, oni jsou lidi, kteří pracují v té technokratické
+[34:35] společnosti. A ta technokratická společnost je něco, co vzniklo ve Spojených státech
+[34:39] počátkem 20. století. A ta technokratická společnost měla za cíl vytvořit
+[34:46] technit. Zemi, která měla sát od Jižní Ameriky přes Latinskou Ameriku,
+[34:51] přes celou Severní Ameriku, včetně Kanady, až přes Gronsko do Gronska.
+[34:56] A takhle měl vypadat technit a měl být řídit právě ne demokratické,
+[35:00] ale odborníky, protože technokracie je hnutí, které propaguje vládu skrze elity,
+[35:08] ale skrze odborné elity, skrze vládu odborníků. Jedním z těch hlavních
+[35:13] propagátorů byl právě dědeček Elona Muska. Dneska je to Elon Musk,
+[35:17] který propaguje právě technokracie skrze umělou inteligenci. A je to taky Peter Thiel
+[35:22] a je to taky J.D. Vance, ale J.D. Vance ne tak otevřeně, ale Peter Thiel je hlavním
+[35:29] sponzorem J.D. Vance a partnerem Elona Muska v té takzvané PayPal mafie.
+[35:34] A PayPal mafie, tak si začali říkat o ně sami jednou, vznikla taková fotka jich třech,
+[35:40] kde byli na té fotce a řekli o sobě, udělali, vyfotili se v brýlích,
+[35:43] udělali takovou legrační fotku a řekli o sobě, že jsou PayPal mafie.
+[35:47] A to jsou lidi, kteří zakládali PayPal, jedna vlastně z prvních digitálních měn
+[35:53] na světě ve velkým, protože PayPal je digitální měna, která funguje po celém světě,
+[35:58] která se používá.
+[35:59] Pochází z Ameriky, všichni ji určitě znáte a za kým právě stojí tyhle lidi.
+[36:04] Takže tyhle lidi, minimálně Peter Thiel, stojí za palantýrem ve Spojených státech
+[36:12] a J.D. Vance, který je jeho koněm politickým, který je dneska víceprezidentem
+[36:17] Spojených států, právě vytváří ty věci tak, aby palantýr získával armádní zakázky,
+[36:23] protože to jsou obrovské armádní zakázky na řízení bezpečnosti ve státu,
+[36:29] na veškeré ty bezpečnostní, řekněme, bezpečnostní procesy, které jsou spojené se státem.
+[36:37] Je tady velké propojení soukromého kapitálu a státních struktur, které probíhá ve Spojených státech.
+[36:43] Taková skoro nová, řekněme, elitářská digitální feudalizace.
+[36:48] Ten režim ve Spojených státech se velmi silně mění z demokracie na...
+[36:54] A dějte, tady máme taky ještě třetího zprávaře.
+[36:57] Děkuji.
+[36:57] Třetího zprávaře.
+[36:59] Ve Spojených státech se mění společnost z demokratický na digitální feudalismus.
+[37:04] Vidíte, jak funguje Donald Trump, že na vyjednávání za stát posílá svoje kamarády,
+[37:10] realitní makléře a svýho zetě, jak už se jedná o Kušneře nebo o Stýva Vytkofa,
+[37:16] který jedne jménem Spojených států.
+[37:19] To jsou nevolený lidi, takže ta demokracie opravdu ustupuje tady tomu rodinnému klanu,
+[37:23] proto mluvím o feudalismu, anebo obchodním partnerům.
+[37:28] A...
+[37:28] A...
+[37:29] Zavádí se digitální prostě kontrola obyvatelstva.
+[37:33] Palantír funguje taky v Británii.
+[37:35] V Británii ho řídí vnuk Osvalda Mosleyho.
+[37:38] Osvald Mosley byl zakladatel fašistické strany,
+[37:42] britské fašistické strany ve třicátém třetím roce, myslím, že nebo ve třicátém druhém roce,
+[37:47] myslím, že zakládal fašistickou stranu britskou.
+[37:50] Byl to právě dědeček Osvalda Mosleyho, který řídí Palantír pro Spojení království.
+[37:56] Takže teď se Palantír tlačí...
+[37:59] Tlačí do Evropy a myslím si, že i v souvislosti s kým byli Američani teď v Číně,
+[38:04] kde testovali a prolíželi a domlouvali biznis ve věcech kontroly sociálního kreditu,
+[38:11] sledování obyvatelstva digitálních měn, proto tam byl zástupce mimo jiné Visi jako platidla,
+[38:17] Elon Musk jako zakladatel PayPalu a tak dále.
+[38:20] Takže to je to, co se nám chystá do Evropy.
+[38:23] My jsme americkou kolonii, vidíte, jak se naše vláda chová ke Spojeným státům, o tom mluvím,
+[38:29] pořád a budou nám nasazovat přes Andreje Babiše taky Palantír, předpokládám.
+[38:35] Taky pojďme dál.
+[38:37] Tady je to taková krátká zpráva mezi prezidentem a republikány, takže už jeho tím.
+[38:43] V kongresu došlo k velkému rozkolu.
+[38:45] Mnohým zákonodarcům došla trpělivost po té, co Donald Trump zveřejlnil záměr
+[38:50] své politické spojence finančně odměnit z peněz daňových poplatníků.
+[38:57] Nevím o tom víc, takže to komentovat nebudu, díky za zprávu,
+[39:01] ale to je to, co myslím, že to říkám, to, jakým způsobem funguje Donald Trump,
+[39:05] to, co sliboval před volbami, je úplně diametrálně odlišné.
+[39:09] Je to úplně opak, je to úplně stejně jako s Andrejem Babišem.
+[39:13] To je taky multimiliarda ředenských nejbohatších lidí.
+[39:17] Chová se velmi podobně Andrej Babiš jako Donald Trump,
+[39:20] taky velmi silně kritizuje média jako Donald Trump,
+[39:24] ale Andrej Babiš ještě nerozdává státní peníze svým kamarádům přímo veřejně,
+[39:29] jestli už se Donald Trump posunul.
+[39:31] V tom vytváření toho feudalismu nebo toho oligarchismu
+[39:37] nebo toho digitálního feudalismu,
+[39:40] ty ztráty státnosti a oddělení státu od kapitálu soukromýho,
+[39:44] tam je čím dál tím větší, jak už je to přesvěd,
+[39:46] nebo je teď celkově přesto vládnutí Donalda Trumpa,
+[39:49] kde on vládne tak trošku jako diktátor a zatahuje do toho svoji rodinu,
+[39:55] tak Andrej Babiš si myslím, že na tom je ještě trošičku líp.
+[40:00] My jsme ještě kousíček pozadu Donald Trumpu, že taky ve vládě trošičku dál,
+[40:04] ale ta opačnost toho výkonu funkce, tak jak Donald Trump sliboval před volbami
+[40:12] a to, co vykonává teď, on je naprosto zřetelná,
+[40:15] úplně stejně jako Andrej Babiš, který sliboval,
+[40:17] že nebudeme podporovat Ukrajinu, zrušíme na Kubletadale F-35,
+[40:21] zrušíme muniční iniciativu, zastrupujeme důchodový věk
+[40:24] a tak nebudeme podporovat válku v žádným případě,
+[40:27] tak vidíme, že se děje úplný opak.
+[40:30] Ukrajinu podporujeme Spojené státy
+[40:33] a prostě jedeme politiku stejně jako Donald Trump.
+[40:38] No ještě jsem tady měla zprávu o tom, že teda Rubio telefonoval s Lavrovem,
+[40:45] ale to si v podstatě zmínil.
+[40:48] Nedali jsme se dneska žádnou zprávu Irán-Spojené státy,
+[40:51] protože tam je to dohoda-nedohoda, takže až bude něco.
+[40:58] Aleksandr Vočič z Číny o tom dneska informoval.
+[41:01] To jsem se právě chtěla zeptat, jestli nemáš nějaký blížší informace o ty návštěvě, no?
+[41:07] Mám jo, ty návštěvě o tom konfliktu Irán-Amerika.
+[41:11] On, Aleksandr Vočič, poměrně dává dobrý zprávy,
+[41:15] jakoby ze zákulisí té nejvyšší geopolitiky.
+[41:19] A řekl, že z toho má rozporuplné pocity a že si není úplně jistý,
+[41:23] kterým směrem se budou ubírat ty americko-iránské rozhovory.
+[41:29] Že to není možné.
+[41:31] Možná až zase tak úplně jistý, že to bude tou správnou cestou k míru.
+[41:34] Ale on neřekl, že to nepůjde tou cestou, řekl, že si to není jistý.
+[41:38] Jinak Aleksandr Vočič v Číně podepsal stovky dokumentů,
+[41:43] nebo tisíce dokumentů napodepisovali, ne, stovky, nebo tisíce dokumentů.
+[41:48] Vlastně bydlel ve stejném apartmánu, nebo ve stejném domě,
+[41:51] jako bydlel před ním americký prezident,
+[41:55] respektive před ním ruský prezident a před ním americký prezident.
+[41:58] Prohlásil, že Srbsko bude možná pro...
+[42:01] Čínu nejdůležitějším evropským partnerem,
+[42:05] že cesty jsou otevřené pro Srbsko absolutně,
+[42:09] a že má z toho velmi dobrý pocit.
+[42:14] Dostal nejvyšší vyznamenání od Sikypinga,
+[42:17] od čínského prezidenta Sikypinga, nejvyšší vyznamenání,
+[42:20] který Čína vůbec uděluje zahraničním osobnostem,
+[42:23] takže to dostal dneska Aleksandr Vočič.
+[42:25] Takže ta návštěva v Číně začala Donaldem Trumpem,
+[42:31] pokračovala...
+[42:32] Vladimírem Putinem,
+[42:34] a teď pokračuje Aleksandrem Vočičem,
+[42:36] takže to je asi tolik, co bych k tomu mohl říct,
+[42:38] jen tak ve zkratce.
+[42:41] Tady jsem ještě našla jednu takovou zprávu zajímavou,
+[42:46] že nějaký, ty to budeš určitě vědět,
+[42:55] teď počkej, já se to musím trošičku přiblížit,
+[42:58] to jsem teď tam našla.
+[43:03] Srbsko už není bratr.
+[43:05] Brna bych...
+[43:06] Nyní jsme Evropská unie.
+[43:08] Předseda Srbského parlamentu prohlásil,
+[43:10] konec bratrství, země je zcela pro hodnoty Evropské unie
+[43:14] a územní celistost Ukrajiny.
+[43:17] Obchod s Ruskem, jak řekl, už není kriticky.
+[43:21] Zvolil si Bělehrad, který se mezi Moskou a Bruselem rotuje už desítky let.
+[43:27] Zrada velkého bratra je označována jako Evropská volba.
+[43:32] A to čteš kde, tu zprávu, Zuzko?
+[43:34] A teď jsem to našla někde,
+[43:36] tady se mi to spadlo,
+[43:39] ale prohlásil to předseda Srbského parlamentu, Brna bych.
+[43:45] Brna bych je bývalá premiérka, dneska předsedně parlamentu,
+[43:49] ale kde čteš tu zprávu, kde máš ten zdroj té informace?
+[43:53] Spadlo mi to, omlouvám se, nevidím to.
+[43:56] Můžu vám s klidem říct, že to je nesmysl,
+[44:00] protože Brna bych je bývalá premiérka,
+[44:04] ona je ta...
+[44:06] ta lesba, která zakázala, jestli si vzpomínáte,
+[44:11] když byl duhový pochod v Srbsku, když měl být LGBT největší pochod v Bělehradu,
+[44:16] a byl zakázaný, tak ona byla ta, která to vyhlašovala,
+[44:19] přestože je lesba, je to partnerka Aleksandra Vučiče,
+[44:22] a není to politik, který by udělal nějaké takovéhle prohlášení bez Aleksandra Vučiče,
+[44:28] to nepřipadá v úvahu, a už určitě ne,
+[44:31] v době, kdy zrovna včera Aleksandr Vučič v Číně vydal veřejné prohlášení,
+[44:36] že z Evropské unie dostává návrhy, s kým se smí bavit a s kým se nesmí bavit,
+[44:41] a on takový žádný doporučení respektovat nebude,
+[44:46] že dostal od Bloombergu nějaké doporučení, dělal takové satirické srangičky,
+[44:52] že by možná mohl dostat seznam lidí od svých západních partnerů nebo od Bloombergu,
+[44:58] s kým se smí bavit a s kým ne, ale potom dodal, že prostě tohle na ně neplatí,
+[45:03] že Srbsko je suverénní země, on je prezidentem suverénní země,
+[45:06] a bude zastupovat svoji zemi tak, jak uzná za vhodný, a bude jednat s kým uzná za vhodný.
+[45:13] Myslím si, že to docela prokazuje svojí návštěvou teď v Číně a svými prohlášeními,
+[45:19] že v žádném případě pro Srbsko nehrozí, že by dávali Rusku nějaké sankce.
+[45:25] Samozřejmě v Srbsku jsou hlasy o tom, že by Srbsko mělo vstoupit do Evropské unie.
+[45:30] To je něco, co ta současná vláda z Geigela, jak už jsem dneska ve vysílání nebo ve zprávách řekl,
+[45:36] když byl v Běléhradu náš předseda parlamentu Tomio Okamura s Jaroslavem Foldynou,
+[45:43] tak se pišnil tím, že Srbům doporučil, aby vstoupili do Evropské unie.
+[45:49] Takže to jsem opravdu kritizoval, protože místo toho, aby se ten velký vlastenec učil,
+[45:54] jak se daří Srbům udržet se mimo globalistické struktury, jako je Evropská unie,
+[45:59] na to tak tam přijel on, velký vlastenec, podporovat vstup Srbska do Evropské unie.
+[46:05] Mluví se,
+[46:06] v posledních dnech, poměrně dost o Evropské unii, dokonce už jsem sám začal být naštvaný na to,
+[46:13] jakým způsobem mluví Aleksandr Vučič o Evropské unii a někteří politici srbští,
+[46:18] protože nechci, aby Srbsko vstoupilo do Evropské unie, ale po tom, co jsem viděl Aleksandra Vučiče
+[46:23] teď v Číně, tak si nemyslím, že by se Srbsko chystalo do Evropské unie.
+[46:28] Jak říkám, můj odhad je 95 %, že se Srbsko do Evropské unie nechystá.
+[46:34] Krom toho není to ani zas tak moc jednoduchý,
+[46:36] protože Srbsko neuznává legitimitu a samostatnost Kosova jako samostatného území
+[46:43] a považuje Kosovo za svoje území.
+[46:47] A Evropská unie se přesto těžko může přenést, když není vyřešená tato územní otázka.
+[46:55] A je to podmínka pro vstup Srbska do Evropské unie, aby Srbsko přiznalo Kosovu samostatnost.
+[47:02] Nejsem si úplně jistý, že někdo v současné srbské vládě
+[47:05] je ochotný udělat takovýhle ústupek vůči Evropské unii.
+[47:09] Samozřejmě to není něco, čím by si člověk mohl být stoprocentně jistý,
+[47:13] protože ty globalisky investují opravdu stovky a stovky miliard do toho,
+[47:17] aby si koupili Srbsko taky.
+[47:20] Ale Srbsko je obchodní partner s Čínou, má od Číny vojenský technologie,
+[47:26] má od Číny jiný technologie, dopravní infrastrukturu,
+[47:30] spoustu obchodních smluv podepsaných.
+[47:34] Je to partner politický zhruba.
+[47:35] Je to partner politický zhruba.
+[47:37] Nedokážu si moc dobře představit, jak by to politicky fungovalo,
+[47:41] aby Srbsko v současné době vstoupilo do Evropské unie.
+[47:45] Nedokážu si to představit.
+[47:47] Kdyby Srbsko vstoupilo do Evropské unie, tak by muselo Evropská unie
+[47:51] popřít tolik svých vlastních pravidel,
+[47:55] že si nejsem úplně jistý, jestli to vůbec je možné.
+[47:59] Možná je to tak, jak říká jeden můj kamarád
+[48:03] jeden můj kamarád v Srbsku,
+[48:05] Goran Petronijevič, známý to advokát, který taky vystupoval
+[48:09] v České republice i na první mírový konferenci,
+[48:13] která proběhla i na Václavském náměstí.
+[48:18] Evropská unie předskýrá, že chce, aby Srbsko vstoupilo do Evropské unie.
+[48:22] A Srbsko předskýrá, že chce vstoupit do Evropské unie.
+[48:26] Obě dvě strany ví, že to není pravda, ale všichni pokračují v tom, aby předskýrali.
+[48:31] Uvidíme, jak to bude.
+[48:35] Tohle je můj pohled.
+[48:39] Tohle je můj pohled na tu situaci, ale samozřejmě nikdo neví, co se v budoucnu stane.
+[48:43] Nikdo nemáme křišťálovou kouli.
+[48:47] Dokážu jenom vysvětlovat to, co vidím.
+[48:51] A samozřejmě, kdyby Srbsko vstoupilo do Evropské unie, tak by to pro Srbsko byla katastrofa,
+[48:55] protože by Srbsko ztratilo svoji identitu, svoji suverenitu,
+[48:59] což samozřejmě si určitě nepřeju.
+[49:03] Protože kdyby si koupili nemovitosti v Srbsku,
+[49:07] a je jich docela dost, který si je koupili pro jistotu, kdyby bylo potřeba,
+[49:11] tak myslím si, že by velmi na tom vydělali,
+[49:15] protože potom by se nemovitosti museli srovnat s ostatními zeměmi Evropské unie,
+[49:19] alespoň částečně, a ty ceny nemovitosti v Srbsku v tuhle chvíli jsou velmi nízký.
+[49:23] Takže minimálně pro tyhle lidi by to byl zisk.
+[49:27] Ale osobně mě by bylo strašně líto dalšího národa, který by padl do rukou globalistů,
+[49:31] a tohle v Srbsku nikdy nestane, to, co se stalo v České republice.
+[49:37] Všecko, paní šéfu?
+[49:39] Dobře.
+[49:41] Všecko. OK. Děkujeme pěkně za sledování zpráv, přátelé.
+[49:45] Zítra se uvidíme u dalších zpráv a přejeme vám hezký večer.
+[49:49] Zuzko, tobě díky moc za připravení dnesních zpráv a těším se na zítra.
+[49:53] Tobě děkujeme za komentáře a všem přejeme hezký večer.

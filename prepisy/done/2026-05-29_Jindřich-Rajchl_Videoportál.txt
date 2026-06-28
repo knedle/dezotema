@@ -1,0 +1,44 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/983123217898288
+Datum videa:  2026-05-29
+Zpracováno:   2026-05-31 16:43:10
+Jazyk:        cs
+Délka:        00:01:39
+Zhlédnutí:    51 285
+Popis:        Fakt by mě zajímalo, co by ti všichni demonstranti za tu úžasně nezávislou  Českou televizi řekli na tohle video, kde bývalý ředitel ČT2 Jan Štern hovořil o tom, jak byla zastavena reportáž o selhání 
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    12s
+Přepis:       18s
+Rychlost:     5.2x realtime
+Celkem:       51s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Všechny ty údaje, které jsme získávali,
+[00:04] svědčily o tom, co teda na první pohled bylo zřejmé,
+[00:07] že došlo k neuvěřitelnému selání policie.
+[00:11] Takže dopadla ta deka do české televize v té podobě,
+[00:21] že já jsem objednal jako ředitel ČT2
+[00:28] aktuální dokument u Jany Škopkové
+[00:33] na téma zásahu na Filozofické fakultě
+[00:39] a najednou se mi tam začaly klást překážky
+[00:44] a já jsem ale na tom trval, nejdřív to odmítnul dramaturg.
+[00:49] Já jsem řekl, ne, je to dobrý téma, ať to Jana dělá.
+[00:54] Potom se to dostalo mému šefovi,
+[00:59] řediteli programu, dostalo se to ředitelce vývoje a obsahu
+[01:03] a tito dva to společnými silami zařízli,
+[01:09] protože měli větší, teda vyšší bere.
+[01:13] A já jsem dokonce byl za generálním ředitelem,
+[01:16] Součkem, Honzou Součkem, a říkal jsem mu,
+[01:19] Honzo, prostě já apeluji na tebe, ať nás to necháš udělat,
+[01:24] protože to je opravdu skandální, co se tam stalo a zaslouží.
+[01:29] Si to, aby se na to ta Jana Škopková podívala v tom dokumentu,
+[01:33] on mi na to jako nic neřekl, no ale stejnak se to nepovolilo.
