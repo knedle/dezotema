@@ -317,3 +317,11 @@ Rajchl opakuje výzvu zrušit dočasnou ochranu a veškeré dávky Ukrajincům: 
 Navazuje na [Rozdíl mezi Ukrajinci před válkou a po válce (Rajchl, 16. 6.)](#rozdíl-mezi-ukrajinci-před-válkou-a-po-válce-zrušit-dávky-a-dočasnou-ochranu--rajchl-16-6-2026).
 
 **Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+---
+
+### Francouzka odsouzena za „nenávist" po sexuálním napadení migrantem — Vrabel (23. 6. 2026)
+
+Vrabel tvrdí, že migrační pakt přivádí převážně mladé muže z islámských zemí, kteří „vypadají, jako kdyby jeli dobýt Evropu", a tak se i chovají. Jako příklad „potlačování svobody slova" uvádí francouzský případ: ženu, do jejíhož bytu se vloupal a sexuálně ji napadl migrant (dle Vrabela z africké/islámské země), prý soud odsoudil k podmíněnému trestu (cca 1,5 roku) za to, že po incidentu veřejně prohlásila, že bezpečnost Francouzů nejvíc ohrožují migranti z Afriky a Blízkého východu — tedy za „šíření nenávisti vůči určitým rasám"; pachatel přitom zůstal na svobodě. Zasazuje to do teze, že ČR „kopíruje" dvě cesty současně — ukrajinskou (likvidace opozice, militarizace) a západní (migrace + trestání projevu podle rasy/náboženství). Navazuje na [Británie: Henry Novak a „obrácený rasismus" (2. 6.)](#británie-případ-henryho-novaka-a-obrácený-rasismus-vrabel-2-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)

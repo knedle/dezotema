@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Válka Bělorusko vs. NATO/Ukrajina možná „během pár dnů" (23. 6. 2026)
+
+**Předpověď:** Vrabel považuje za „docela reálné" a „vysoce pravděpodobné", že po Zelenského opakovaných výhrůžkách (a schválení úderů na běloruské rafinerie) Ukrajina — fakticky NATO přes Ukrajinu — během příštích pár dnů zaútočí na Bělorusko, čímž se konflikt rozšíří o další zemi (Rusko slíbilo Bělorusku vojenskou pomoc). Mírně eskaluje jeho [predikci z 20. 6.](#ladislav-vrabel--konflikt-s-běloruskem-nepřijde-před-summitem-nato-20-6-2026) (že konflikt nepřijde před summitem NATO).
+
+> „Lze předpokládat s vysokou pravděpodobností, že se nám tady během příštích pár dnů může rozběhnout další válka, a to mezi Běloruskem a v podstatě NATO." — Ladislav Vrabel
+
+**Horizont:** dny (konec června 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+
+---
+
 ### Ladislav Vrabel — V prezidentských volbách „vytáhnou herce" jako Zelenského (21. 6. 2026)
 
 **Předpověď:** Vrabel očekává, že proces „ukrajinizace" ČR je už daný a že v prezidentských volbách establishment „vytáhne" oblíbeného herce — stejně jako na Ukrajině vyšel Volodymyr Zelenský (původně populární herec slibující mír), který se pak stal „diktátorem". Prezidentem se podle něj stane ten, „koho vybere CIA".

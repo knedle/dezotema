@@ -1247,6 +1247,16 @@ Dva konkrétní symptomy: (1) **Dánská státní TV** varuje před pravicovým 
 
 ---
 
+### Lavrov: „spirit of Anchorage" jako možné získání času; příprava útoku na Kyjev; Bělorusko (Vrabel, 23. 6. 2026)
+
+Vrabel rozebírá tvrdé vyjádření Sergeje Lavrova. Lavrov prý naznačil obavu, že summit Trump–Putin na Aljašce (Anchorage) mohl — podobně jako minské dohody — sloužit jen k „získání času" pro vyzbrojení Ukrajiny; přímo to přirovnal k tomu, jak Angela Merkelová („rodič jedna") později přiznala, že minské dohody měly Ukrajině dát čas se vyzbrojit. Lavrov zopakoval cíle SVO (neutrální, nezařazená a nejaderná Ukrajina; zrušení diskriminace ruského jazyka a kanonického pravoslaví; uznání „nové reality" Krymu, Donbasu a Novoruska) a varoval, že Bělorusko je vtahováno do konfliktu — Rusko mu dle dohody o svazovém státě poskytne v případě úderů na běloruské území vojenskou pomoc. Klíčové: trvá doporučení zahraničním státům **evakuovat diplomaty z Kyjeva** — Vrabel to čte jako jasný signál přípravy tvrdého ruského útoku na Kyjev. Doplňuje, že Evropa záměrně útočí na Rusko jen z ukrajinského území (Storm Shadow den po Starmerově pádu), aby nepřišly odvetné údery na EU — proto „obětním beránkem" zůstává Ukrajina. Navazuje na [Barbarossa 2.0 (22. 6.)](#barbarossa-20-tanky-do-litvy-mladí-ukrajinci-s-ss-symboly-české-motory-pro-drony-vrabel-22-6-2026).
+
+> „Je úplně evidentní, že se Rusové chystají na tvrdý útok na Kyjev." — Ladislav Vrabel, [Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+
+---
+
 ## Zahraniční aktéři a precedenty
 
 ### Srbsko nechce do EU — obchod s Čínou a spolupráce s Ruskem jako vzor suverenity (Vrabel, 5. 6. 2026)

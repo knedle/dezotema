@@ -74,6 +74,14 @@ Rezignaci britského premiéra Keira Starmera (22. 6.) — kterou média líčí
 
 ---
 
+### Výčet 19 summitů NATO jako důkaz, že „ostuda Pavla" je umělé téma — Vrabel (23. 6. 2026)
+
+Vrabel reaguje na celonárodní debatu, zda smí Petr Pavel na summit NATO (vláda rozhodla, že ne, Hrad podal kompetenční žalobu k ÚS), tím, že prošel všech **19 summitů NATO od vstupu ČR (1999–2025)** a kdo na nich ČR reprezentoval: Washington 1999 (Havel), Řím 2002, Praha 2002 (Havel), Istanbul 2004, Brusel 2005, Riga 2006, Bukurešť 2008, Štrasburk/Kehl 2009, Lisabon 2010, Chicago 2012 (Klaus), Newport 2014, Varšava 2016, Brusel 2018, 2021 (Zeman), Vilnius 2023, Washington 2024, Haag 2025 (Pavel). Závěr: delegaci **vždy vedl prezident**, jedinou výjimkou byl rok 2022, kdy Zeman nesměl ze zdravotních důvodů létat a zastoupil ho premiér Fiala. Vrabel z toho dovozuje, že nikoho nikdy nezajímalo, kdo ČR na summitu zastupuje — „umělá aféra" má jen odvést pozornost od toho, že se ČR ženou do války; je mu „jedno", zda pojede Pavel nebo Babiš, protože „oba tam udělají úplně to samé" (podpoří NATO, vstup Ukrajiny do EU/NATO, 82 mld pro Ukrajinu). Předpovídá, že Pavel nakonec u ÚS uspěje a pojede. Rozšiřuje [Spor Pavel vs. Babiš a Starmerova rezignace jako „iluze demokracie" (22. 6.)](#spor-pavel-vs-babiš-o-summit-kompetenční-žaloba-a-starmerova-rezignace-jako-iluze-demokracie--vrabel-22-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika

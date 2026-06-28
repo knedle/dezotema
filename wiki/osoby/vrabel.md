@@ -223,6 +223,12 @@
 - Dánsko — mladí Ukrajinci s SS symboly (~65 tis.); riziko ozbrojených Ukrajinců v EU (analogie Turci/džihad) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - Babiš 2020 vyhostil ~80 ruských diplomatů + adoroval Zelenského = žádná změna kurzu — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - Blízký východ — Írán/USA pokrok (6 mld $, IAEA), ale Netanyahu nestahuje z Libanonu + Hormuz; Sýrie al-Šaraa „schizofrenní" (odmítá zásah proti Hizballáhu); ČR jediná plně kryje Izrael (Macinka veto) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- **23. 6.** — Lavrov: „spirit of Anchorage" jako možné získání času (analogie minských dohod/Merkelové), výzva opustit Kyjev = příprava útoku; Bělorusko — Zelenský schválil údery na rafinerie, Rusko poskytne pomoc — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- Pavel a summit NATO — výčet 19 summitů (vždy prezident, kromě 2022 Fiala) = „ostuda" je umělé téma; oba (Pavel/Babiš) tam udělají totéž — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- V4 zase jednotná (Babiš + maďarský premiér Magyar), protože i Maďarsko souhlasí s válkou = příprava na mobilizaci — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- Polsko vs. Ukrajina — historická paměť (Volyň) vítězí nad prozápadní touhou, Poláci domobrana (Braun/Konfederace) — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- Írán — Rubio: USA do Íránu investovat nebude (memorandum „hra"), Trump chce 350 mld $ od Evropy; Trump = kapitulace, ne diplomacie, cíl „pevnost Amerika"/komodity — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- Policejní brutalita Západu (Andersson/Dánsko, Británie, němečtí policisté vs. Poláci na hřbitově) = předválečný stav; ČR zastrašování (Čermák, Z, Kutý) — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -272,6 +278,7 @@
 - Biolaboratoře na Ukrajině cílené na „genetický profil" Rusů (Larry Johnson, ex-CIA) — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - **21. 6.** — CIA „napsala" převrat 1989 a dosadila Klaus/Havel/Zeman (Aspen Institute), „prezidenta vybírá CIA" — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - Biolaboratoře na Ukrajině (Larry Johnson) + migrace jako Kalergiho plán / „rozděl a panuj" (zopakováno) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- **23. 6.** — Sense8 (Wachowski): společnost rozdělena vertikálně (elity vs. lid), ne horizontálně — elity vytvářejí konflikty, aby si udržely bohatství; Albánie/Srbsko protesty proti Kushnerovým rezortům jako vzor odporu lidu — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -295,6 +302,7 @@
 - Referendum jako podvod (250 tis. podpisů, zákaz témat EU/NATO) — chtěl politické vystoupení, ne referendum — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - Vrabel jako „pravdivostní extrémista" — kritika kultury „o nikom se nemluví"; pokrytectví Rajchla (porno „pro Němce", udával Kutý/Jaška/bratra), Zemana, Konečné — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - **22. 6.** — Pavel vs. Babiš = „iluze demokracie" (jako Starmer v Británii); Macinka vs. Pavel „šplhání" (Pavel kariérní rozvědčík, Macinka „podržtaška Klause"), ale oba dělají totéž — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- **23. 6.** — protesty mají smysl (Francouzská revoluce, Srbsko Rio Tinto/dvoje volby); ČR 2022 „nevydržela", podpora Rajchla = „největší politická chyba" — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -567,6 +575,10 @@
 | Karol Nawrocki | ⚖️ rozporuplný | „Jak ho nemusím" — ale odebrání Řádu bílého orla Zelenskému je „sympatické" | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
 | Petr Macinka | ❌ negativní | Vetuje rezoluce EU proti Izraeli; „podržtaška Klause", k moci se „prošplhal" osobními kontakty — dělá ale totéž co Pavel (NATO/USA) | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
 | Andrej Babiš | ❌ negativní | Slibuje plnit závazky vůči NATO; v roce 2020 vyhostil ~80 ruských diplomatů a adoroval Zelenského — „žádná změna kurzu" oproti Fialovi | 2026-06-22 | [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026) |
+| Sergej Lavrov | ○ neutrální | Citován — „spirit of Anchorage" mohl být získáním času (jako minské dohody/Merkelová); cíle SVO; Rusko poskytne Bělorusku vojenskou pomoc; výzva opustit Kyjev | 2026-06-23 | [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026) |
+| Peter Magyar | ❌ negativní | Nový maďarský premiér — díky němu je V4 zase „jednotná", protože má na válku stejný názor jako ostatní (na rozdíl od Orbána) = příprava na mobilizaci | 2026-06-23 | [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026) |
+| Marco Rubio | ○ neutrální | Citován — USA do Íránu investovat nebude (memorandum o ~300 mld $ byla „hra"); Vrabel to bere jako potvrzení své skepse | 2026-06-23 | [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026) |
+| Grzegorz Braun | ✅ pozitivní | „Náš kamarád a kolega" — europoslanec a předseda Konfederace; Poláci dle Vrabela díky němu dělají domobranu proti migračnímu paktu | 2026-06-23 | [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026) |
 
 ---
 
@@ -634,3 +646,4 @@
 - [Zprávy v devět 20. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - [Nedělní vysílání 21. 6. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - [Zprávy v devět 22. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- [Zprávy v devět 23. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)

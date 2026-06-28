@@ -212,6 +212,14 @@ Ke schválení zrušení dovozních cel EU na americké výrobky (součást loň
 
 ---
 
+### V4 je zase jednotná, protože i Maďarsko souhlasí s válkou — Vrabel (23. 6. 2026)
+
+K odletu Andreje Babiše na summit V4 (s novým maďarským premiérem Peterem Magyarem) Vrabel reaguje na nadšení „vlastenců" na sociálních sítích („konečně V4 pohromadě, vláda zdravého rozumu"). Cituje ČTK, podle níž byla spolupráce V4 v minulých letech oslabená kvůli odlišným pohledům na válku — Orbánovo Maďarsko udržovalo dobré vztahy s Moskvou. Vrabel z toho vyvozuje opačné čtení než vlastenci: V4 se zase může scházet právě proto, že nový maďarský premiér Magyar (i Babiš) už má na válku „stejný názor jako ostatní" lídři (Ukrajina do EU, Rusko agresor, NATO zachránce, plnění závazků). Sjednocená V4 tak podle něj není dobrá zpráva, ale příprava na to, „jak budou mobilizovat vaše syny". Navazuje na jeho tezi o Magyarovi jako „falešném mesiáši" a o umělé „opozici".
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+
+---
+
 ## Různé — EU, euro, referendum a Green Deal
 
 ### Digitální euro: závazné pro všechny členské státy EU (Vrabel, 16. 5. 2026)
