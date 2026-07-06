@@ -35,6 +35,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **25. 6.** — Bilance 33 let české politiky: „rozkradená země", Babiš jako výjimka (snížil schodek), vláda Fialy = „idioti" (Lipavský, Hladík, Černochová, Kupka, Rakušan) — [FB Live: ÚS nerespektovat 25. 6.](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 - **26. 6.** — Eskalace: Pavel by neměl na summit jet vůbec, skutečným strůjcem je lobbista Petr Kolář (zbrojařské kšefty); predikuje, že vláda kauzu politicky ustojí — [FB Live: zklamání z Brna a eskalace ÚS 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 - **28. 6.** — Právní rozbor čl. 63 (kontrasignace, Havlovo rozhodnutí 1993): Pavlův podpis bez vlády nemá váhu, jde jen o to vzít s sebou Koláře kvůli zbrojním kšeftům — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+- **29. 6.** — Vláda nabídla kompromis (Pavel jen na jednu neformální akci); „marnost nad marnost" — Pavel stále nechápe, že ho vláda nechce — [Videoportál: marnost nad marnost 29. 6.](../_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - 90 mld. EUR EU pro Ukrajinu = faktický dárek (nesplacení) — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
@@ -250,3 +251,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [FB Live: ÚS nerespektovat (25. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 - [FB Live: zklamání z Brna a eskalace ÚS (26. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 - [FB Live: čl. 63, Polsko–Ukrajina (28. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+- [Videoportál: marnost nad marnost (29. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)

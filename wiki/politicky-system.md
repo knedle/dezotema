@@ -308,6 +308,16 @@ V rozhovoru pro TN.cz Rajchl odmítá argument ÚS, že vyloučení Pavla z dele
 
 ---
 
+### Vláda nabídla kompromis — Pavel jen na jednu neformální akci; „marnost nad marnost" — Černohorský (29. 6. 2026)
+
+Vláda Andreje Babiše rozhodla, že se Petr Pavel může summitu NATO v Ankaře zúčastnit jen v omezené míře — jedné neformální večeře/akce, nikoli jako plnohodnotný člen delegace. Pavel to označil za rozpor s předběžným opatřením Ústavního soudu, které vládě zakázalo bránit mu v účasti. Černohorský to komentuje jako „marnost nad marnost": Pavlovi podle něj nelze vysvětlit, že ho na summitu ve skutečnosti nikdo ze současné vlády nechce, a připomíná starší video, kde Pavel stál stranou, zatímco si vláda (Babiš, motoristé, SPD) připíjela šampaňským po jmenování — čekal, zda si s ním někdo přiťukne.
+
+> „Petřík Pavlík ne a ne to pochopit [...] že ho nikdo z vlády nechce na samitu NATO v Ankaře." — Jiří Černohorský, [Videoportál 29. 6. 2026](_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
+
+**Zdroje:** [Černohorský — Videoportál: marnost nad marnost, 29. 6. 2026](_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

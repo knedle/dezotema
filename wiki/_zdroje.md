@@ -2616,3 +2616,12 @@
 - **Délka:** 01:06:23 | Rekordní vedro + varování před falešným FB profilem + pokračování kauzy ÚS/Pavel + Polsko vs. Ukrajina
 - **Poznámka:** Tři zpracovaná témata: (1) Právní rozbor čl. 63 Ústavy — Havlovo rozhodnutí 1993 přeneslo sjednávání smluv na vládu, prezidentův podpis bez kontrasignace nemá váhu; skutečným cílem cesty do Ankary je vzít s sebou poradce Petra Koláře kvůli zbrojním kšeftům (Strnadovy akcie +11 % po rozhodnutí ÚS); zmínka o 70 mld. EUR ročně pro Ukrajinu — [politicky-system.md](politicky-system.md). (2) Krize Polsko–Ukrajina eskaluje kvůli pojmenování jednotky po UPA — pochybnosti o Katyni a smolenské havárii 2010 (považuje za záměrnou), predikce možného příchodu polské armády na hranice a rozpadu Ukrajiny — [valka-nato-rusko.md](valka-nato-rusko.md). (3) ⚡ Konflikt s Vrabelem: rekordní vedro (41,4 °C) je normální, „žádné klimatické změny se nedějí" — [konspirace.md](konspirace.md). Nezpracováno: varování před falešným profilem Pavla Cymbála na FB (osobní/logistika), opakovaná kritika hlasování o Hunkovi (již dříve zdokumentováno). Bez predikcí (mimo zmíněnou) a stoch. teroru nad rámec již zaznamenaného.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál: marnost nad marnost (29. 6. 2026) {#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-29_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/100085862388850/videos/1021988443564367>
+- **Datum záznamu:** 2026-06-29
+- **Délka:** 00:02:48 | Zhlédnutí: 20 055 | Reakce na kompromisní nabídku vlády v kauze Ankara
+- **Poznámka:** Pokračování kauzy ÚS/Pavel/Ankara — vláda Babiše rozhodla, že se Pavel zúčastní summitu jen omezeně (jedna neformální akce/večeře), Pavel to označuje za rozpor s předběžným opatřením ÚS. Černohorský to komentuje jako „marnost nad marnost" — Pavel nechápe, že ho ve vládě nikdo nechce; připomíná starší video, kde stál stranou při přípitku vlády po jmenování. Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
