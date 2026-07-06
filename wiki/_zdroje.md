@@ -2706,3 +2706,12 @@
 - **Délka:** 00:07:10 | Zhlédnutí: 493 | Satirický monolog o krachu německého autoprůmyslu
 - **Poznámka:** Zákaz spalovacích motorů od 2035 (EU Green Deal) + drahé energie + americká 15% cla (VW −70 mld. Kč) + čínské dotované elektromobily = kolaps VW/Mercedes/BMW; cituje varování šéfa BMW Olivera Zipseho a paniku šéfa VW Thomase Schaefera. Tematicky → [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (2. 7. 2026) {#ladislav-vrabel--zprávy-v-devět-2-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-02_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1570221104723563>
+- **Datum záznamu:** 2026-07-02
+- **Délka:** 00:56:06 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
+- **Poznámka:** Čtyři zpracovaná témata: (1) Soudní dvůr EU potvrdil, že sdílení obsahu Russia Today je trestný čin i pro soukromé osoby (až 5 let) — Vrabel maže celý archiv pořadu a přestává sdílet ruská média — [dsa-cenzura.md](dsa-cenzura.md). (2) Německo obžalovalo Ukrajince za Nord Stream, potvrzeno zapojení ukrajinských státních orgánů — [konspirace.md](konspirace.md). (3) Dvojí metr: aktivisté pašující drony na Ukrajinu bez povolení „nespáchali trestný čin", na rozdíl od Vrabelova vlastního odsouzení za chybu ve formuláři — [kauzy.md](kauzy.md). (4) Rostoucí nerovnost v ČR (Knight Frank) + teze o centralizaci moci „shora" (BlackRock/Vanguard) — [konspirace.md](konspirace.md). Ostatní zprávy (Tucker Carlson zakládá třetí stranu, EU dotace pro Jižní Kavkaz, digitální ID v USA, Kaja Kalas, Zelenskyj a rakety z Norska, Hormuzský průliv) jen rychlý přehled bez samostatného zpracování. Bez predikcí (nad rámec již zaznamenaných) a stoch. teroru.
+- **Zpracováno:** ano

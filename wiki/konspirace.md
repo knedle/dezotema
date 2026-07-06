@@ -404,6 +404,14 @@ Boldy odmítá verzi, že za sabotáží plynovodu Nord Stream stálo Rusko, a o
 
 ---
 
+### Německo obžalovalo Ukrajince za Nord Stream — potvrzeno zapojení ukrajinských státních orgánů (Vrabel, 2. 7. 2026)
+
+Německé generální státní zastupitelství potvrdilo obžalobu Ukrajince (Sergij K.) v souvislosti se sabotáží plynovodů Nord Stream v roce 2022 — podle prokuratury obžalovaný a další příslušníci ukrajinské armády vypracovali plán na příkaz státních orgánů Ukrajiny. Kyjev útok dlouhodobě popíral. Vrabel to považuje za potvrzení své dlouhodobé teze, že za sabotáží nestál žádný „soukromý" tým, ale ukrajinský stát/režim Zelenského — operace (hluboký ponor v Severním moři, umístění výbušnin) je podle něj natolik technicky náročná, že představa soukromé iniciativy je „značně naivní".
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+
+---
+
 ## Globalistická agenda a další výklady
 
 ### Rodný list jako obchodní papír na burze v New Yorku — admirality law (Zítko)
@@ -490,6 +498,16 @@ Vrabel přebírá tvrzení bývalého důstojníka CIA Larryho Johnsona, že USA
 Vrabel propojuje zničení 94 % zemědělské půdy v Gaze s tím, co dle něj probíhá „po celém Západě": vyplácení nizozemských zemědělců za ukončení činnosti, skupování orné půdy Billem Gatesem (dle Vrabela největší vlastník orné půdy v USA) a globalisty na Ukrajině. Ústřední teze: „kdo ovládá jídlo, ovládá lidi" — chystá se změna v tom, kdo produkuje a kontroluje potravinový řetězec; v ČR ho podle Vrabela ovládá Andrej Babiš, který „bude spolupracovat s globalisty". Navazuje na jeho výklad globalistů útočících na rodinu, stát, národ a náboženství (viz [Globalisté bojují vždy proti čtyřem věcem](#globalisté-bojují-vždy-proti-čtyřem-věcem-rodina-stát-národ-náboženství-vrabel-17-5-2026)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Rostoucí nerovnost v ČR a centralizace moci „shora" (Vrabel, 2. 7. 2026)
+
+Podle dat Knight Frank vzrostl v ČR mezi lety 2021–2026 počet lidí s majetkem nad ~600 mil. Kč o 67,4 % (8. nejrychlejší růst na světě), zatímco reálné mzdy podle OECD ve stejném období rekordně klesaly — Polsko mělo ještě rychlejší růst počtu boháčů, ale zároveň v reálných mzdách ČR přeskočilo. Vrabel z toho vyvozuje širší tezi o centralizaci moci: politická rozhodnutí se dnes nedělají zdola (jako v „řecké demokracii"), ale shora — čeká se, co rozhodne Donald Trump, Petr Maďar nebo Andrej Babiš, ne co odhlasuje parlament. Totéž platí v byznysu: malé a střední firmy mizí, nahrazují je nadnárodní řetězce (Tesco, Lidl, Kaufland), a přibližně 15 % akcií většiny firem viditelných v okolí vlastní BlackRock nebo Vanguard — firmy, které jsou vzájemně propojené tak, že nelze zjistit, kdo je skutečně ovládá. Podle tabulek, na které odkazuje, vlastní 1 % lidí přes 93 % veškerého bohatství světa; v ČR je to dle něj dáno především energetikou a zbraněmi.
+
+> „To, čeho jsme svědky, je přesouvání majetku od obyčejných lidí směrem k elitám [...] a centralizace vlastně i finančního vládnutí." — Ladislav Vrabel, [Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 
 ---
 

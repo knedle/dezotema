@@ -411,6 +411,12 @@ K odsouzení se vrátil i **21. 6. 2026**: peníze označuje za „náhradu ško
 
 **Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026), [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
+Dvojí metr rozvádí **2. 7. 2026** srovnáním se zprávou, že čeští občané (investor Jan Weverka, herec Ondřej Vetchý a bezpečnostní expert Milan Mikulecký), kteří v rámci sbírky „Drony Nemesis" bez povolení převáželi vojenské drony na Ukrajinu, byli po více než roce vyšetřování vojenskou policií zproštěni podezření ze spáchání trestného činu (možný jen kázeňský postih od armády). Vrabel poukazuje na nesoulad: vývoz zbraní bez povolení do válčící cizí země je „naprostá pohoda", zatímco jeho vlastní chybné zaškrtnutí kolonky o bezdlužnosti na žádosti o odškodnění vedlo k trestnímu odsouzení.
+
+> „Naopak za trestný čin byl odsouzený Ladislav Vrabel za to, že [...] zaškrtl kolonku, že ty firmy jsou bezdlužné vůči státu. [...] Ale vyvážet zbraně bez povolení do cizí země [...] to je v České republice naprostá pohoda." — Ladislav Vrabel, [Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+
 ---
 
 ### Babiš a rozprodej ČEZ — „rozkradená republika" (Vrabel, 4. 6. 2026)

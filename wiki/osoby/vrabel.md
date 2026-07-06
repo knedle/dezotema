@@ -243,6 +243,10 @@
 - Wikileaks: Kolář jako velvyslanec radil přejmenovat raketovou základnu v Brdech na „radar", počkat na vládu Topolánka — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
 - Británie 300 mld. liber na zbrojení + jaderné sklady v UK jako mezikrok k přesunu blíž k Rusku — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
 - Host u Petr Budeš TV: Pavel prosazoval jaderné zbraně v ČR už jako generál NATO; proč globalisté „pustili" Babiše (slib zamítnutí referenda); varování o uzavírajícím se „okně" pro vystoupení z EU (precedent Katalánska) — [Facebook Live: rozhovor s Petrem Budešem 30. 6.](../_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
+- **2. 7.** — Soudní dvůr EU: sdílení obsahu RT je trestné i pro soukromé osoby (až 5 let) — maže archiv, přestává sdílet ruská média — [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+- Německo obžalovalo Ukrajince za Nord Stream, potvrzeno zapojení ukrajinského státu — [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+- Dvojí metr: pašeráci dronů na Ukrajinu bez trestu vs. jeho vlastní odsouzení za chybu ve formuláři — [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+- Rostoucí nerovnost v ČR (Knight Frank) + centralizace moci „shora" (BlackRock/Vanguard) — [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -604,6 +608,9 @@
 | Peter Thiel | ❌ negativní | „Jeden z nejnebezpečnějších, nejvýše postavených lidí" — provozuje tajnou síť „Dialog" (200 vlivných lidí), sponzor J. D. Vance, majitel Palantiru | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
 | J. D. Vance | ❌ negativní | Americký viceprezident — dříve pracoval pro Petera Thiela, který je jeho hlavním sponzorem; „Thiel stojí za ním a on stojí za Thielem" | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
 | Michal Strnad | ⚖️ rozporuplný | Akcie jeho zbrojovky klesly o 50 % — Vrabel předpovídá dočasný růst před summitem NATO, dlouhodobě ale zánik zbrojařského byznysu | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
+| Tucker Carlson | ✅ pozitivní | Zakládá třetí politickou stranu v USA po rozchodu s Trumpem — Vrabel se s ním ztotožňuje (sám dřív podporoval dnešní koalici/opozici, než pochopil potřebu třetí strany) | 2026-07-02 | [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026) |
+| Kaja Kalas | ❌ negativní | „Jeden z největších válečných nacistických, fašistických štváčů EU" — komentuje i její proměněný vzhled od nástupu do funkce | 2026-07-02 | [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Stěžuje si na nedodané rakety z Norska; Vrabel komentuje jeho vzhled jako důkaz „vážného problému s drogama" a fyzického rozpadu | 2026-07-02 | [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026) |
 | Petr Kolář | ❌ negativní | Dle Wikileaks jako velvyslanec v USA jednal mimo rámec MZV — radil přejmenovat raketovou základnu na „radar" a počkat na vládu Topolánka místo Paroubka; „naprosto proti zájmům ČR" | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
 | Andrej Babiš | ⚖️ rozporuplný | Predikce: do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku na 65 let, jako už učinil u F-35/muniční iniciativy/jaderných zbraní | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
 | Keir Starmer | ❌ negativní | 300 mld. liber na zbrojení, zatímco běžní Britové si nemohou dovolit topit — „lidi zlikviduje" | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
@@ -681,3 +688,4 @@
 - [Zprávy v devět 29. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 - [Zprávy v devět 30. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
 - [Facebook Live: rozhovor s Petrem Budešem (30. 6. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
+- [Zprávy v devět (2. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)

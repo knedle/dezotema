@@ -214,3 +214,13 @@ Touž cenzuru nezávisle (23. 6.) ostře odsoudil i **Jiří Černohorský**: oz
 > „Scenzurovali Českou národní hymnu jenom proto, že jim nezapadá do jejich ukrajinského nacistického konceptu. […] Cenzura je nepřípustná." — Jiří Černohorský, [reel 23. 6. 2026](_zdroje.md#jiří-černohorský--čt-cenzura-hymny-nohavica-23-6-2026)
 
 **Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie (21. 6. 2026)](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026), [Rajchl — Hymna od Nohavicy (23. 6. 2026)](_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026), [Černohorský — ČT cenzura hymny (23. 6. 2026)](_zdroje.md#jiří-černohorský--čt-cenzura-hymny-nohavica-23-6-2026)
+
+---
+
+### Soudní dvůr EU: sdílení obsahu Russia Today je trestný čin i pro soukromé osoby (Vrabel, 2. 7. 2026)
+
+Soudní dvůr Evropské unie potvrdil odsouzení tří osob v Německu za zveřejnění videí Russia Today Deutschland na volně přístupném webu financovaném jen z dobrovolných darů — soud rozhodl, že nezáleží na tom, zda šlo o podnikání, jak dlouho byl obsah dostupný nebo jak široce se šířil; kdokoli, kdo je přímo či nepřímo odpovědný za zpřístupnění zakázaného obsahu veřejnosti, může být podle sankčních pravidel EU postihován jako „provozovatel". Podle citovaného německého zákona hrozí za porušení až 5 let vězení. Vrabel to čte jako rozšíření zákazu RT za hranice vysílacích společností na jakoukoli soukromou osobu a v přímé reakci smazal veškerý archiv pořadu „Zprávy v devět" a oznámil, že přestává sdílet obsah z ruských médií (RT, Sputnik) — nadále bude jen mluvenou formou přebírat informace, případně sdílet obsah srbských médií. Přirovnává postup EU k mafii: nejdřív nabídne pomoc/dotace, pak si vynutí protislužbu — stejný mechanismus, jakým podle něj funguje čistý příjemce/čistý plátce v EU fondech.
+
+> „Zveřejnění prostě jenom videa nebo článku z médií z Ruské federace, i když nepopírá žádnou genocidu nebo neschvaluje žádné válečné zločiny, už je u nás trestné." — Ladislav Vrabel, [Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
