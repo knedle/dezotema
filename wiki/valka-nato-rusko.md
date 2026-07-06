@@ -361,7 +361,11 @@ Na tiskové konferenci **30. 6. 2026** Rajchl formálně oznámil, že poslaneck
 
 > „Fašismus je tou sedlinou. [...] Je vysoce neúctivé, aby řád, jenž nese jméno tohoto celoživotního bojovníka proti fašismu, nesl člověk, jenž naopak fašismus minimálně omlouvá, či možná dokonce adoruje." — Jindřich Rajchl, [Videoportál 30. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
 
-**Zdroje:** [Rajchl — Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026), [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026), [Rajchl — Videoportál: návrh na odebrání řádu, 30. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
+O den později (**1. 7. 2026**) Rajchl reaguje na ohlasy: opoziční politici (jmenuje poslance Ženíška), kteří Turkovi vyčítali „hajlování" a SPD běžně nazývají „náckci", podle něj k pojmenování jednotky po UPA mlčí, případně zpochybňují Rajchlův duševní stav. Kontrastuje to s postojem Polska — polský prezident Nawrocki, premiér Tusk i polský ministr obrany otevřeně hrozí, že pokud Zelenskyj od pojmenování jednotky neustoupí, Polsko bude vetovat vstup Ukrajiny do Evropské unie.
+
+> „Nevím, pane Ženíšku, jestli byste tohle řekl do očí prezidentovi Polska Nawrockému, premiérovi Tuskovi či jejich ministru obrany." — Jindřich Rajchl, [Videoportál 1. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-reakce-na-ohlasy-1-7-2026)
+
+**Zdroje:** [Rajchl — Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026), [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026), [Rajchl — Videoportál: návrh na odebrání řádu, 30. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026), [Rajchl — Videoportál: reakce na ohlasy, 1. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-reakce-na-ohlasy-1-7-2026)
 
 ---
 

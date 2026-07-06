@@ -2688,3 +2688,12 @@
 - **Délka:** 00:49:39 | Zhlédnutí: 162 | Facebook blokace/klon profilu (logistika), astrologie úplňku, MedBeds, pozvánka na akci, aktualita bitcoin kauzy
 - **Poznámka:** Dvě zpracovaná témata: (1) Bitcoin kauza — stížnost Pavla Blažka, Karima Tice a Daňhela zamítnuta, VSZ Olomouc/NCOZ na případu pracuje přes rok — [kauzy.md](kauzy.md). (2) MedBeds — uniklý „standardní operační postup" (4 fáze léčby) a konkrétní časový rámec civilního nasazení (4. čtvrtletí 2026 – 2. čtvrtletí 2027) — [konspirace.md](konspirace.md). **Predikce:** civilní nasazení MedBeds (viz [predikce.md](predikce.md)). Zbytek videa: logistika (blokace/falešný klon profilu, přesun na Rumble), astrologický rituál k jahodovému úplňku, pozvánka na sraz v Penzionu Ráj — nezpracováno. Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: reakce na ohlasy (1. 7. 2026) {#jindřich-rajchl--videoportál-reakce-na-ohlasy-1-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-01_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1534071481427689>
+- **Datum záznamu:** 2026-07-01
+- **Délka:** 00:02:01 | Zhlédnutí: 151 171
+- **Poznámka:** Pokračování tématu UPA/Řád bílého lva — Rajchl reaguje na ohlasy svého návrhu (30. 6.): opoziční politici (Ženíšek), kteří kritizují SPD za „náckovství", k pojmenování ukrajinské jednotky po UPA mlčí nebo zpochybňují jeho duševní stav; kontrastuje s Polskem, kde prezident, premiér i ministr obrany hrozí vetem vstupu Ukrajiny do EU, pokud Zelenskyj neustoupí. Tematicky → [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
