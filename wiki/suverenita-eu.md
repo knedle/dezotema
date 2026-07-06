@@ -443,6 +443,14 @@ Sjezd německé AfD v Erfurtu doprovázela mimořádná bezpečnostní opatřen�
 
 ---
 
+### Hodnocení AfD jako „jediné alternativy" pro Německo; SPD jako „falešná karta" (Vrabel, 5. 7. 2026)
+
+Na dotaz k AfD Vrabel odkazuje na projev Alice Weidelové, s nímž prý souzní, a osobně se hlásí k jádru programu strany (migrace, boj proti globalismu, obrana proti deindustrializaci Německa) — zmiňuje, že bývalý partner jeho kamarádky patřil mezi tři zakladatele AfD, motivované migrační krizí. Výslovně se distancuje od frakce spojené se sudetoněmeckým Landsmannschaftem a požadavkem na zrušení Benešových dekretů. AfD označuje za „jedinou alternativu" pro Německo navzdory tomu, že je to už velká strana s „různě špinavými hrami" a různou mírou napojení jednotlivých členů na NATO — přeje si, aby na rozdíl od jiných stran po zvolení nezradila voličům slibovanou politiku. Kontrastuje to s SPD: přestože v ní má osobní přátele, označuje ji za absolutně centrálně řízenou stranu, kde si žádný poslanec netroufne jít proti Tomiu Okamurovi — toho samotného nazývá „falešnou kartou".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+
+---
+
 ### Trump: „nemůžete být komunista i vlastenec zároveň" — Vrabelova esej o americké historii a suverenismu (4. 7. 2026)
 
 Trump k 250. výročí nezávislosti USA prohlásil, že Amerika opět čelí „komunistické hrozbě" a nelze být zároveň loajální Marxovi i Americe. Vrabel s tímto konkrétním výrokem souhlasí a rozvíjí z něj vlastní definici: vlastenec/suverenista chce, aby jeho země zůstala celá a samostatná, zatímco globalisté (i komunisté v minulosti přes Internacionálu a Varšavskou smlouvu) usilují o rozpuštění států do většího celku. Zároveň silně kritizuje samotné USA jako stát: připomíná genocidu domorodých Američanů, otrokářství (odhad až 500 mil. mrtvých na cestě z Afriky), segregaci ještě v 50. letech, atomové bombardování Hirošimy a Nagasaki jako jediný stát, který použil jaderné zbraně na civilisty, napalm ve Vietnamu a dnešní hegemonii postavenou na petrodolaru (dohoda s OPEC z roku 1974) — podle Vrabela zdroj bohatství USA není práce, ale „okrádání celého světa". Zmiňuje i aktuální požadavek Trumpa na 350 mld. dolarů od EU jako náhradu za zbraně dodané Ukrajině v letech 2022–2024 jako další příklad tohoto mechanismu. Ministra zahraničí Petra Macinku kritizuje za projev, že česká svoboda pochází ze svobody USA — označuje to za ztrátu soudnosti.
@@ -455,4 +463,6 @@ Trump k 250. výročí nezávislosti USA prohlásil, že Amerika opět čelí �
 
 Ursula von der Leyen při návštěvě Irska (které od 1. 7. předsedá EU) uvedla, že bez dohody o nových „vlastních zdrojích" EU (odhad ~66 mld. eur ročně) by musel unijní rozpočet klesnout o 40 %, jinak budou muset členské státy zvýšit národní příspěvky. Vrabel to spojuje s dřívějším plánem EU „vrátit do oběhu" soukromé úspory občanů a s financováním Ukrajiny: ČR odvádí do rozpočtu EU cca 2,24 % HDP, ze kterého se platí i úroky a jistina za schválených 90 mld. eur pro Ukrajinu (viz [Babiš a Okamura tvrdí, že ČR neplatí Ukrajině, 3. 7.](valka-nato-rusko.md#babiš-a-okamura-tvrdí-že-čr-neplatí-ukrajině--přitom-už-schválili-30-z-70-mld-eur-vrabel-3-7-2026)) — 40% navýšení příspěvků by tak fakticky byly další peníze na tento účel, přestože Tomio Okamura veřejně tvrdí, že ČR na Ukrajinu nic nedává.
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+Rajchl (5. 7.) i Vrabel (5. 7.) na totéž oznámení reagují nezávisle na sobě shodným odmítnutím: Rajchl vzkazuje, že by jako premiér EU „ani vindru" nedal a rozpočet EU by nechal škrtnout klidně o 40 % (obsahuje prý hlavně klimatickou agendu, Ukrajinu a „LGBTQ"), Vrabel dodává přesnější kontext programu „Savings and Investments" (von der Leyenová dlouhodobě cílí na soukromé úspory Evropanů, odhadem 300–600 mld. eur) jako alternativního zdroje k navýšení daní.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)

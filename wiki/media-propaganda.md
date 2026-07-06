@@ -212,6 +212,16 @@ Rajchl tvrdí, že média a Milion chvilek řeší poslední měsíc „byty" (m
 
 ---
 
+### Kauza Čestmír Strakatý: lynč od vlastní liberální scény za fotku s Turkem — pokrytectví „tolerance" (Rajchl, 5. 7. 2026)
+
+Moderátor Čestmír Strakatý čelí vlně nenávisti od vlastní liberální scény poté, co sdílel společnou fotografii s Filipem Turkem (kterého předtím opakovaně zval do svého pořadu). Rajchl — ač Strakatého dříve věcně kritizoval za to, že nikdy nepozval jeho samotného k obhajobě, když o něm mluvil s hosty — se nyní staví za něj: srovnává reakci „pravdoláskařů" s inkvizicí vůči komukoli, kdo se jen málo odchýlí od jejich linie (EU, Ukrajina, LGBTQ), a cituje anonymní bonmot, že „na světě není netolerantnějších lidí, než těch, kteří hlásají toleranci na každém kroku". Incident dává do souvislosti s vlastní zkušeností z debaty na CNN Prima News, kde moderátorka Pavlína Wolfová mlčela, když Jan Jakob označil Filipa Turka za „hnědého Turka", ale okamžitě zasáhla, když Rajchl o Jakobovi řekl, že mu „připadá jako mimoň" — přičemž srovnání s barvou nacismu považuje za nesrovnatelně těžší osobní urážku než „mimoň", navíc vůči někomu, kdo v tu chvíli neseděl ve studiu a nemohl se bránit. Poukazuje na dvojí metr: týž lidé, kterým vadí Turkovy mladické „vtípky", nevidí problém v tom, že Volodymyr Zelenskyj otevřeně pojmenovává vojenské jednotky po UPA.
+
+> „Jaká horší urážka je, než říct o někom, že je hnědý? [...] To je ten nejpodlejší možný útok, který může někdo vůbec podniknout." — Jindřich Rajchl, [FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+
+---
+
 ## Mainstream jako politický aktivismus
 
 ### Nora Friedrichová (DVTV) — Rajchlova výzva opakování odmítnuta

@@ -490,6 +490,32 @@ Rajchl označuje odebrání nejvyššího polského vyznamenání (řád Bílé 
 
 ---
 
+### Formální návrh na odebrání Řádu bílého lva Zelenskému — jednomyslná podpora SPD, pozitivní reakce Polska a Slovenska (Rajchl, 5. 7. 2026)
+
+Poté, co polský prezident Karol Nawrocki oficiálně odebral Zelenskému Řád Bílé orlice (na čemž se shodlo celé polské politické spektrum od Tuska po Kaczyńského) a polský ministr obrany pohrozil vetem vstupu Ukrajiny do EU, pokud Ukrajina neustoupí, Rajchl svou dřívější rétorickou výzvu (viz [7. 6.](#emisní-povolenky--spekulativní-derivátový-trh-němci-v-kleštích-penzijní-fondy--válka-povolenkám-zrušit-ets1ets2-i-za-cenu-vystoupení-z-eu-zelenský-upa--adorace-neonacismu-odebrat-řád-bílého-lva-čr-mlčí-vs-polsko-v4--čr-nedokáže-najít-národní-shodu-napříč-spektrem-7-6-2026) a [21. 6.](#21-6--zelenský-adoruje-nacismus-upa-pavlovo-mlčení--urážka-předků-odebrat-řád-bílého-lva-ať-ukrajinci-vrátí-polsku-i-peníze-zrušit-dočasnou-ochranudávky-ukrajincům--automatická-deportace-vyvrácení-statistiky-v-lásky-o-vězních-ukrajinské-děti-se-neasimilují-a-brzdí-výuku-vs-plaga-21-6-2026)) povýšil na formální parlamentní návrh na odebrání Řádu bílého lva Volodymyru Zelenskému — poslanecký klub SPD (15 poslanců) ho podpořil jednomyslně, Tomio Okamura okamžitě bez váhání. Připomíná, že řád zavedl v roce 1922 T. G. Masaryk, který fašismus označoval za „patologickou sedlinu na národní demokracii" — dnes ho drží člověk pojmenovávající jednotky po UPA. Rajchl zdůrazňuje, že podstatné je návrh vůbec vyslovit bez ohledu na šanci na úspěch, a klade důraz na to, že Polákům (kterým Ukrajina „po čtyřech letech pomoci za 226 mld. Kč plivla do obličeje") tím chtěl ukázat solidaritu V4. Návrh přivítal europoslanec Jaroslav Tyška v Polsku (50 tis. lajků) i místopředseda Slovenské národní rady Andrej Danko.
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+
+---
+
+### ⚡ Konflikt: Vrabel odmítá Rajchlův návrh na odebrání Řádu bílého lva jako prázdné gesto (5. 7. 2026)
+
+Ve stejný den, kdy Rajchl (viz výše) prezentuje svůj formální návrh jako důležitý čin národní cti, Vrabel jej hodnotí opačně — jako „jenom líbivé řeči": odebrat vyznamenání může výhradně prezident svým rozhodnutím, a Petr Pavel to nikdy neudělá, takže návrh nic nezmění. Připomíná, že Miloš Zeman coby bývalý prezident už řád nemůže vzít zpět a jeho vlastní výzvy k „nápravě" jsou jen snahou zachránit si tvář za to, že vyznamenání Zelenskému sám udělil. Podle Vrabela podobná gesta (stejně jako spor o „odebrání pravomocí prezidenta" — viz [politicky-system.md](politicky-system.md#odebrání-pravomocí-prezidenta-jako-mediální-manipulace--vrabel-o-vondráčkovi-5-7-2026)) slouží jen k tomu, aby lidé měli pocit, že „někdo za ně bojuje", zatímco válka a posílání peněz na Ukrajinu pokračují beze změny.
+
+> „To jsou jenom líbivý řeči, aby lidi dávali lajky. [...] A lidi umírají dál a válka jede dál." — Ladislav Vrabel, [Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+
+---
+
+### Ukrajina po válce bude „ukřivděná" a obrátí se proti Západu — analogie s Výmarskou republikou (Rajchl, 5. 7. 2026)
+
+Rajchl varuje, že polská reakce na spor o Řád Bílé orlice (žádná omluva, jen vracení vyznamenání a nevděk) je předzvěstí toho, jak se Ukrajina zachová po skončení války vůči celému Západu: bude se cítit zrazená a podvedená (částečně oprávněně — v Istanbulu 2022 byla mírová dohoda na stole, ale Boris Johnson zablokoval západní garance) a obrátí se proti těm, kdo ji financovali. Klíčové je pro něj varování polského historika Šviatla, že Ukrajina bude mít po válce nejlépe vyzbrojenou a vycvičenou armádu v Evropě — přirovnává to k nacistickému Německu, které jen 6 let po hyperinflaci a hladomoru Výmarské republiky rozpoutalo světovou válku, protože ho Západ (ze strachu ze spojení s komunistickým SSSR) finančně a vojensky „vychoval" jako protiváhu Stalinovi. Rajchl vidí paralelu v dnešním financování Ukrajiny (90 mld. eur z EU, plánovaných 70 mld. dolarů přes NATO) jako vytváření „přehrady mezi Ruskem a námi", která se může stejně jako Německo obrátit proti svým sponzorům. Uzavírá, že by na Ukrajinu neposlal „už ani korunu" a apeloval by na uzavření míru za každou cenu.
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+
+---
+
 ### TCK brutalita a nespokojenost v ukrajinském parlamentu — 66 % chce mír (Vrabel, 3. 7. 2026)
 
 Poslanec ukrajinského parlamentu veřejně kritizoval ministra Fedorova za tvrzení, že je „ukrajinské nebe chráněné" — podle něj existují „dvě Ukrajiny": realita ministra a realita občanů, kteří vidí hořící Kyjev a oběti na infrastruktuře. Vrabel to čte jako důkaz, že po 4,5 letech války lidem dochází trpělivost, a dokládá to videi jednotek TCK násilně odvlékajících muže z ulic (několik mužů najednou tahá jednoho do auta, manželky odháněné pepřovým sprejem) — podle něj to dávno není odvod, ale únos. Cituje průzkum, podle nějž 66 % Ukrajinců preferuje okamžitý mír před vítězstvím nad Ruskem, a odhaduje, že reálné číslo bude ještě vyšší. Rozšiřuje [Ukrajinci nechtějí bojovat — TCK „lov lidí" (6. 6.)](#ukrajinci-nechtějí-bojovat--tck-lov-lidí-a-úplatek-12-000--vrabel-6-6-2026) a [TCK: násilná mobilizace a úmrtí na odvodové komisi (12. 6.)](#tck-na-ukrajině-násilná-mobilizace-a-úmrtí-na-odvodové-komisi-vrabel-12-6-2026).
@@ -1419,7 +1445,9 @@ The Telegraph píše, že Washington oficiálně varoval Polsko před rostoucím
 
 Na setkání BRICS (po útoku USA na Írán) se podle Vrabela poprvé výrazně mluvilo o bezpečnosti — téma má být hlavním bodem podzimního (zářijového) summitu BRICS. Írán, který na setkání dorazil krátce po skončení bojů, ostatním členům podle Vrabela ukázal, že USA jsou ochotné napadnout kohokoliv (Rusko, pak Írán); v americké bezpečnostní doktríně je přitom jako největší riziko označena Čína, což cítí i Indie. Z toho Vrabel usuzuje, že se BRICS z čistě ekonomického uskupení postupně přetváří ve vojensko-bezpečnostní pakt a svět se zřetelně polarizuje na dva bloky.
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+Vrabel k tomu 5. 7. dodává vlastní postoj: k případnému vstupu ČR do BRICS (po vystoupení z EU) by byl zdrženlivý — nechce vyměnit podřízenost Bruselu za podřízenost Číně a Rusku — a preferuje spíše srbský model vojenské neutrality s obchodními vztahy na všechny strany (viz [Konkrétní návrh: ČR podle vzoru Srbska, 5. 7.](#konkrétní-návrh-čr-podle-vzoru-srbska--vojenská-neutralita--obchod-se-všemi-bloky-vrabel-5-7-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
 ---
 
@@ -1474,6 +1502,14 @@ Ve vysílání 24. 5. Vrabel dodává nový detail z Vučičovy návštěvy v Č
 > „Takhle si představuji tu svobodu — že můžete dělat obchod s kým chcete a nikdo vás netlačí." — Ladislav Vrabel, [Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026)
 
 **Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Večerní zprávy 16. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-5-2026), [Vrabel — Nedělní vysílání 17. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-17-5-2026), [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
+
+---
+
+### Konkrétní návrh: ČR podle vzoru Srbska — vojenská neutralita + obchod se všemi bloky (Vrabel, 5. 7. 2026)
+
+Vrabel syntetizuje svůj dlouhodobý obdiv k Srbsku (viz výše) do konkrétního zahraničněpolitického programu pro ČR. Model: vojenská neutralita (Srbsko i uprostřed NATO odmítá vojenské závazky) kombinovaná s obchodem se všemi velkými bloky najednou — EU (největší srbský export), Čínou (bezcelní obchod s tisíci výrobky, výstavba dálnic/železnic, jediná evropská výroba humanoidních robotů), Ruskem (přímá dohoda s Putinem o ceně plynu pod tržní úrovní) i USA. Srbsko podle něj dokazuje, že malá země (7 mil. obyvatel) nemusí volit stranu — může být součástí čínské iniciativy Belt and Road a zároveň obchodovat se Západem. Pro ČR (11 mil. obyvatel) navrhuje stejný recept: neúčastnit se případné války s Ruskem na svém území („chcete válčit s Ruskem? Ne přes Českou republiku"), udržet obchodní vztahy s Ruskem i Německem současně, a do bezpečnostně-vojenské roviny BRICSu (na niž se BRICS podle Vrabela posouvá, viz [BRICS se mění na bezpečnostní pakt, 4. 7.](#brics-se-mění-z-obchodního-uskupení-na-bezpečnostní-pakt-kvůli-útoku-usa-na-írán-vrabel-4-7-2026)) se nezapojovat, dokud to nebude nutné — pouze v ekonomické/obchodní rovině. Připouští, že takovou politiku by v ČR dnes neprosadil žádný politik.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
 ---
 

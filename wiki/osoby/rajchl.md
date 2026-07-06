@@ -65,12 +65,16 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **30. 6.** — formální návrh SPD na koaliční radu: doporučit prezidentovi odebrat Zelenskému Řád bílého lva, po vzoru Polska; cituje Masaryka (fašismus = „sedlina národní demokracie") — [Videoportál: návrh na odebrání řádu (30. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
 - **1. 7.** — reakce na ohlasy: opozice (Ženíšek) mlčí k UPA, ale zpochybňuje jeho duševní stav; Polsko hrozí vetem vstupu Ukrajiny do EU — [Videoportál: reakce na ohlasy (1. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-reakce-na-ohlasy-1-7-2026)
 - **3. 7.** — Pavel na summitu škodí kvůli vztahům s USA; odmítá platit „sponzorům státního terorismu" po obžalobě Ukrajinců za Nord Stream; predikuje, že Babiš půjčku Ukrajině v zákulisí podpoří — [Videoportál: Nord Stream a 70 miliard (3. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
+- **5. 7.** — formální parlamentní návrh na odebrání Řádu bílého lva Zelenskému, jednomyslná podpora klubu SPD, pozitivní reakce Polska a Slovenska; odmítá von der Leyenové nové daně („ani vindru"); Ukrajina po válce bude „ukřivděná", analogie s Výmarskou republikou — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
 - Sankce nefungují, ČR kupuje ropu přes překupníky (profituje Čína), cesta do Moskvy jako jediné řešení, cena benzínu v ČR mohla klesnout na 30 Kč/l — [Ruská ropa za přímou cenu — Prima (8. 4. 2026)](../_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026)
 - Diverzifikace zdrojů + státní obchodník s plynem + exit z ETS1/ETS2 — [Videoportál: emisní povolenky a ETS2 (4. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-emisní-povolenky-ets2-4-6-2026)
 - Green Deal zničí evropský průmysl — Čína skoupí automobilky, zavřená hliníkárna Žiar n. Hronom (7× uhlíková stopa dovozu) (21. 6.) — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+### [Migrace](../migrace.md)
+- **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -90,6 +94,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **21. 6.** — ČT = strážce probruselského směřování, ne demokracie (cenzura hymny Nohavicy, stávka jako protizákonné zneužití obrazovky, ČT horší/dražší než Nova/Prima/CNN Prima News, dobrovolné poplatky); dvojí metr v kauzách (Paukner: vrtulníky/Hladík/Dvořák/dozimetr vs. byty), Seznam demaskuje Pauknerův pseudonym; Milion chvilek/Minář jako vlivová struktura — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **26. 6.** — sněmovní faktická poznámka: dobrovolné koncesionářské poplatky v libovolné výši (klidně 50 mld. rozpočet), politici bez vlivu na ČT, porušení etického kodexu ČT při stávce — [Videoportál: sněmovní debata o ČT (26. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
 - **27. 6.** — TN.cz rozhovor: žádný precedent nebyl porušen (o delegaci vždy rozhodovala vláda), Pavel by byl kvůli Trumpově urážce kontraproduktivní, soudci ÚS působili nejistě — [Videoportál: TN.cz rozhovor (27. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)
+- **5. 7.** — kauza Čestmír Strakatý: lynč od liberální scény za fotku s Turkem; debata CNN Prima — „hnědý Turek" vs. mlčení k Zelenského UPA jednotkám — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -104,6 +109,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **21. 6.** — Petr Pavel jako „pózer/kašpár", ne osobnost (Le Mans/MotoGP, kult osobnosti à la Kim Čong-un, Eva Pavlová „Madonna", chybí v Lidicích), Babiš/Ivana Tykač lepší prezident — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **24. 6.** — ÚS uložil vládě akreditovat Pavla na summit NATO = „skandální", posun do prezidentské republiky („Pandořina skříňka"); předseda ÚS Josef Baxa podjatý (2019 demonstrace Milionu chvilek + výzva k demisi Babiše) — [ÚS: akreditace Pavla na summit (24. 6. 2026)](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
 - **25. 6.** — 360°: předběžné opatření „podruhé v historii", disent Vintra/Řepkové (jen pro mimořádnou škodu), dvojí metr vůči valorizaci důchodů — [360° k rozhodnutí ÚS (25. 6. 2026)](../_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
+- **5. 7.** — vzor Irska: 15% rovná daň, 12,5% korporátní daň, protekcionismus (dluhopisy, potravinový řetězec, jednotné místo kontaktu pro velké stavby) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -251,6 +257,10 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Jaromír Nohavica | ✅ pozitivní | „Legenda, největší český bard" — ČT cenzurovala (utnula) jeho zpěv hymny na MS v hokejbalu, prý kvůli jeho mírovým postojům | 2026-06-21 | [FB Live: ČT není strážce demokracie](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026) |
 | Ivana Tykač | ✅ pozitivní | Spekuluje se o její prezidentské kandidatuře — Rajchl by ji preferoval před Pavlem, „dělala by čest Pražskému hradu" | 2026-06-21 | [FB Live: ČT není strážce demokracie](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026) |
 | Josef Baxa | ❌ negativní | Předseda ÚS — podle Rajchla podjatý (2019 se účastnil demonstrace Milionu chvilek proti Babišovi a podepsal výzvu k jeho demisi); jím vedený ÚS uložil akreditovat Pavla na summit = „skandální" rozhodnutí | 2026-06-24 | [ÚS: akreditace Pavla na summit](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026) |
+| Volodymyr Zelenský | ❌ negativní | Formální parlamentní návrh na odebrání Řádu bílého lva; jednomyslná podpora klubu SPD | 2026-07-05 | [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026) |
+| Čestmír Strakatý | ⚖️ rozporuplný | Dříve kritizován za neochotu pozvat Rajchla k obhajobě, dnes hájen proti lynči vlastní liberální scény za sdílení fotky s Turkem | 2026-07-05 | [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026) |
+| Filip Turek | ✅ pozitivní | Označení „hnědý Turek" (Jan Jakob) hodnotí jako nejtěžší možnou urážku, horší než jeho vlastní glosa o „mimoni" | 2026-07-05 | [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026) |
+| Ursula von der Leyen | ❌ negativní | Chce nové daně pro EU, jinak škrtne 40 % rozpočtu — Rajchl: „ani vindru", ať klidně škrtne | 2026-07-05 | [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026) |
 
 ---
 
@@ -341,3 +351,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál: návrh na odebrání řádu Zelenskému (30. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
 - [Videoportál: reakce na ohlasy (1. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-reakce-na-ohlasy-1-7-2026)
 - [Videoportál: Nord Stream a 70 miliard (3. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
+- [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)

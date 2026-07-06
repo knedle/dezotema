@@ -144,6 +144,8 @@ Podle zprávy SIPRI Francie mezi roky 2025 a 2026 zvýšila svůj jaderný arzen
 
 Litevské parlamentní strany se dle Vrabela dohodly na zrušení ústavního zákazu jaderných zbraní a zahraničních vojenských základen na svém území (zákaz platil od rozpadu SSSR, zrušení vyžaduje dvoutřetinovou většinu). Vrabel to řadí vedle „nejnebezpečnějších věcí poslední doby" jako je česká muniční iniciativa — pobaltské země podle něj závodí v přibližování jaderných zbraní k ruské hranici, zatímco on opakovaně varuje „nedávejte ty vypálené sirky zpátky do krabičky".
 
-**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+Ve vysílání 5. 7. Vrabel doplňuje odhad konkrétní distribuce: Německo má jaderné zbraně získat od Británie, Polsko od Francie — v kontextu očekávání, že na summitu NATO v Ankaře se bude jednat o rozmístění jaderných zbraní napříč evropskými zeměmi (Finsko, pobaltské státy) jako reakce na ukrajinské rakety s deklarovaným doletem až 2000 km (systém Flamingo).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
 ---

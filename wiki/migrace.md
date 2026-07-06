@@ -109,7 +109,15 @@ Rajchl na tiskové konferenci cituje studii Institutu pro kriminologii, který o
 
 Rajchl kontrastuje tyto závěry s tvrzením exministra Vít Rakušana, že z Ukrainy nepřichází „excesivní kriminalita" — označuje ho za prokázanou lež.
 
-**Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026)
+**Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+
+---
+
+### Rovné podmínky pro Ukrajince jako pro Čechy; „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci (Rajchl, 5. 7. 2026)
+
+Polsko zrušilo bezplatné bydlení pro ukrajinské uprchlíky (nastavilo pro ně stejná pravidla jako pro Poláky) — čeští mainstreamoví komentátoři to označili za bezcitné, Rajchl naopak žádá stejný krok pro ČR: srovnává to s českými emigranty před rokem 1989, kteří v cizině nedostávali žádné výhody a museli začínat od nuly (příklad vlastní sestřenice v USA). Za klíčový argument považuje to, že uprchlíci z Ukrajiny běžně jezdí „na dovolenou" zpět na Ukrajinu — což je podle něj v přímém rozporu s postavením uprchlíka (přirovnání: Kajínek by se také nemohl vrátit „na návštěvu" do věznice, ze které utekl). Navrhuje, aby návrat na Ukrajinu byl umožněn pouze těm, kdo splní podmínky českého azylového zákona; jinak jde o ekonomickou migraci, ne o útěk před válkou. Doplňuje vlastní zkušenost, kdy se ukrajinská žena bránila brzkému konci války, protože by tím přišla o dávky na bydlení.
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
 ---
 

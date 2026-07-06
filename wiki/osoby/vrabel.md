@@ -250,6 +250,7 @@
 - **4. 7.** — AfD sjezd v Erfurtu: globalismus útočí na stát/národ/náboženství/rodinu — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - Trump „komunista nebo vlastenec" + Vrabelova esej o americké historii (genocida, otroctví, petrodolar) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - Von der Leyen: bez nových vlastních zdrojů klesne rozpočet EU o 40 % — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- **5. 7.** — hodnocení AfD jako „jediné alternativy" pro Německo (výhrady jen k Landsmannschaft frakci); SPD centrálně řízená, Okamura „falešná karta"; doplnění von der Leyenové 40% rozpočtu o reakci Rajchla — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -328,6 +329,7 @@
 - **22. 6.** — Pavel vs. Babiš = „iluze demokracie" (jako Starmer v Británii); Macinka vs. Pavel „šplhání" (Pavel kariérní rozvědčík, Macinka „podržtaška Klause"), ale oba dělají totéž — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - **23. 6.** — protesty mají smysl (Francouzská revoluce, Srbsko Rio Tinto/dvoje volby); ČR 2022 „nevydržela", podpora Rajchla = „největší politická chyba" — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 - **25. 6.** — idealizace socialistického Československa (220 tis. vojáků, 5–10 % HDP, přesto bezplatné školství/zdravotnictví, důchod v 60, nulová nezaměstnanost); dluh tehdy 3,7 mld $ vs. dnes 169 mld $ — dřív se „rozkradlo 10 % ale vrátilo do oběhu", dnes „odváží ven ze země" — [Idealizace socialistického Československa 25. 6.](../_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)
+- **5. 7.** — film Citizen Vigilant + sen o zabití Zelenského — teze „systém, ne člověk"; Vondráčkovo „odebrání pravomocí prezidenta" jako mediální manipulace — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -367,6 +369,7 @@
 - EU otevře 8. 7. šestý klastr přístupových jednání s Ukrajinou — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [konspirace.md](../konspirace.md)
 - MO koupilo bytový komplex v Jincích pro vojáky; vlastní vzpomínka na šikanu na vojně — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- **5. 7.** — ⚡ Konflikt: odmítá Rajchlův návrh na odebrání Řádu bílého lva jako prázdné gesto; konkrétní návrh zahraniční politiky ČR podle vzoru Srbska (vojenská neutralita + obchod se všemi bloky); doplnění BRICS a jaderných zbraní (UK→Německo, Francie→Polsko) — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
 ---
 
@@ -650,6 +653,12 @@
 | Vladimir Putin | ✅ pozitivní | Oznámení o rozšiřování „bezpečnostního pásma" bere jako logické a promyšlené; souhlasí s Medveděvovou kritikou USA | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
 | Dmitrij Medveděv | ✅ pozitivní | Jeho kritiku útoku USA na Írán jako „zhroucení mezinárodního práva" Vrabel stoprocentně sdílí, chválí ho jako vzdělaného člověka s dobrým historickým přehledem | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
 | Petr Macinka | ❌ negativní | Projev o tom, že česká svoboda pochází ze svobody USA — Vrabel: „už prostě nevidí svět takový, jaký je" | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
+| Volodymyr Zelenskyj | ⚖️ rozporuplný | Objekt vlastního snu o zabití — nakonec „nezabil", protože by ho systém stejně nahradil jiným (Zalužný) | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
+| Jindřich Rajchl | ⚖️ rozporuplný | Návrh na odebrání Řádu bílého lva Zelenskému označen za „jenom líbivé řeči" bez reálného efektu | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
+| Alice Weidelová | ✅ pozitivní | Její projev na sjezdu AfD Vrabel označuje za velmi blízký vlastnímu pohledu na politiku | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
+| Tomio Okamura | ❌ negativní | „Falešná karta" — SPD je absolutně centrálně řízená strana, nikdo si netroufne jít proti němu | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
+| Libor Vondráček | ❌ negativní | Prosadil změnu prezentovanou jako „odebrání pravomocí prezidenta" — Vrabel: jde jen o formální přesun jmenovacího úkonu, mediální manipulace | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Model vojenské neutrality + obchodu se všemi bloky (270 tis. lidí na shromáždění) — vzor pro zahraniční politiku ČR | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
 
 ---
 
@@ -727,3 +736,4 @@
 - [Zprávy v devět (2. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 - [Zprávy v devět (3. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
 - [Zprávy v devět (4. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- [Nedělní vysílání (5. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)

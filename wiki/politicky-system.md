@@ -344,6 +344,22 @@ Vláda Andreje Babiše rozhodla, že se Petr Pavel může summitu NATO v Ankaře
 
 ---
 
+### „Odebrání pravomocí prezidenta" jako mediální manipulace — Vrabel o Vondráčkovi (5. 7. 2026)
+
+Předseda Sněmovny Libor Vondráček prosadil změnu, po níž titulky médií hlásaly, že parlament „odebral pravomoci prezidenta". Vrabel vysvětluje skutečný mechanismus: u jmenování na některé zahraniční pozice dosud platilo, že návrh připraví ministerstvo zahraničí, schválí vláda a prezident provede formální jmenovací akt — nově tento poslední krok provede rovnou vláda/premiér bez prezidentova podpisu. Jde tedy jen o přesun čistě formálního úkonu, ne o věcnou pravomoc, ale titulek „odebrali pravomoci prezidentovi" vyzní jako zásadní oslabení hlavy státu. Vrabel to řadí do stejné kategorie jako polemiku o odebrání Zelenského vyznamenání (viz [Rajchlův návrh na odebrání Řádu bílého lva](valka-nato-rusko.md#formální-návrh-na-odebrání-řádu-bílého-lva-zelenskému-jednomyslná-podpora-spd-pozitivní-reakce-polska-a-slovenska-rajchl-5-7-2026)) — jde o „líbivé řeči" a mediální divadlo, které odvádí pozornost od skutečně zásadních jednání (jaderné zbraně, peníze pro Ukrajinu, členství v NATO).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+
+---
+
+### Film Citizen Vigilant a sen o zabití Zelenského — „systém, ne člověk" (Vrabel, 5. 7. 2026)
+
+K diváckému dotazu na (v Německu zakázaný) nízkorozpočtový film Citizen Vigilant — kde hlavní hrdina vraždí zkorumpované soudce a pachatele, které systém nepotrestal — Vrabel film chválí jako „nastavení zrcadla společnosti" a rozvíjí vlastní tezi o dvou pilířích spravedlnosti (odstrašení a trest): když systém přestane trestat, lidé si podle něj nakonec vezmou spravedlnost do vlastních rukou, a přesně to podle něj vede k stavu, jaký je dnes na Ukrajině. Popisuje vlastní sen z téže noci, v němž objevil byt Volodymyra Zelenského a zvažoval, zda by ho měl zabít — nakonec ho „nezabil", mimo jiné proto, že by ho systém (kabala) stejně nahradil jiným loutkovým vůdcem (např. Valerijem Zalužným), protože podle Vrabela nejde o konkrétní osoby, ale o strukturu moci, která si politiky vybírá a formuje bez ohledu na to, kdo konkrétně sedí ve funkci. Dokládá to paralelou: nejede na summit NATO odmávat peníze Fiala, ale Babiš — výsledek je stejný. Doplňuje srovnání se svým vlastním sporem s justicí (žalované trestní oznámení manželky na insolvenčního správce, které opakovaně řeší tentýž zaujatý policista v Českých Budějovicích) jako příklad „mafiánsky" propojené struktury moci (soudci, policie, státní zástupci, politici).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr
@@ -568,6 +584,16 @@ Rajchl v FB live (3. 5. 2026) popsal konkrétní ekonomický program PRO, který
 - 3měsíční výpovědní lhůta pro „zelenáče" (green deal konzultanty a poradce) — Rajchl se zavazuje okamžitě ukončit závazky, které ČR přijala ve prospěch EU klimatické agendy na úkor průmyslu
 
 **Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+
+---
+
+### Vzor Irska: 15% rovná daň, protekcionismus a dluhopisy — rozšíření programu PRO (Rajchl, 5. 7. 2026)
+
+Rajchl rozvíjí svůj dřívější návrh 15% rovné daně (viz [Flat tax 15 %, 3. 5.](#flat-tax-15--dph-15--adresné-dluhopisy-a-státní-obchodník-s-plynem--rajchl-3-5-2026)) o konkrétní vzor Irska: to je díky nízké 12,5% korporátní dani a odbourané byrokracii jedinou zemí z bývalé skupiny „PIIGS" (Portugalsko, Itálie, Irsko, Řecko, Španělsko), která se z dluhové krize vymanila opačnou cestou než škrty — v roce 2025 mělo nejvyšší růst HDP v EU (12,2 %, rychleji než Čína) a přebytkový státní rozpočet, přestože je vojensky neutrální a téměř nic nedává na zbrojení. Rajchl navrhuje pro ČR: rovnou 15% daň se stabilitou na 4 roky a minimem výjimek (jednoduché daňové přiznání „na pivní tácek"), zrušení šedé ekonomiky (fakturační podvody se přestanou vyplácet), zpětné přilákání zahraničních firem k danění v ČR (dnes odchází ročně oficiálně 613 mld. Kč, neoficiálně přes bilion). Doplňuje protekcionistický balíček: adresné dluhopisy na konkrétní stavby (D3, D47, Dukovany) s úrokem 6–7 % místo úroků zahraničním bankám, veřejné zakázky primárně pro české firmy (odkazuje na spočítaných 45 % návratnosti veřejných peněz do rozpočtu do 3 let u českých firem, oproti téměř nulové návratnosti u zahraničních — příklad Onsemi, 10 mld. Kč za 1000 pracovních míst), vlastní potravinový řetězec nakupující od českých zemědělců (vzor: chorvatský řetězec Plodine) a jednotné místo kontaktu pro velké stavby místo obcházení 65 úřadů.
+
+> „Národní pilíř, peníze naší ekonomiky, protekcionalismus našeho trhu, našich podnikatelů. Už dost bylo globalismu." — Jindřich Rajchl, [FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
 ---
 
