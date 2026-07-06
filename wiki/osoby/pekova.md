@@ -14,6 +14,9 @@
 - Kritizuje nečinnost parlamentu v ČR i na Slovensku — [Svobodný vysílač CS: COVID tour (9. 4.)](../_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)
 - Zvažuje kandidaturu na veřejnou funkci — [Soběšovice — Q&A část 2 (1. 4.)](../_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4)
 
+### [Kauzy a korupce](../kauzy.md)
+- Petice o milost pro 4 osoby odsouzené za covidové výroky (přes 1000 podpisů) — Hrad odpověděl po 2 měsících přes úředníka, žádost o audienci zamítnuta — [Videoportál: Hrad odpověděl na Pekovou (26. 6.)](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -28,6 +31,7 @@
 | Jiří Turánek | ✅ pozitivní | Spoluautor sněmovního semináře o covidových datech; Peková jeho práci považuje za vědecky závažnou | 2026-04-26 | [COVID tour 26. 4.](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026) |
 | Petr Pavel | ❌ negativní | Jeho právník odmítl žádost o audienci; Peková považuje odmítnutí za signál: „mají prezidenta, ke kterému se nedá dostat" | 2026-04-22 | [Chcimír 22. 4.](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026) |
 | Pavel Zítko | ✅ pozitivní | Organizátor COVID tour, hostitel přenosů; Peková mu důvěřuje jako platformě | 2026-04-22 | [Chcimír 22. 4.](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026) |
+| Petr Pavel | ❌ negativní | Nový řádek: na petici o milost (7. 5.) odpověděl po 2 měsících přes úředníka, ne osobně; odmítl i osobní jednání | 2026-06-26 | [Videoportál: Hrad odpověděl na Pekovou 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026) |
 
 ---
 
@@ -39,3 +43,4 @@
 - [Chcimír: Füllmich, petice, Pavel (22. 4. 2026)](../_zdroje.md#pavel-zítko--chcimír-peková-covid-tour--füllmich-petice-pavel-22-4-2026)
 - [Mezinárodní podpora jako divadlo (26. 4. 2026)](../_zdroje.md#pavel-zítko--peková-mezinárodní-podpora-jako-divadlo-covid-tour-26-4-2026)
 - [Palouček: dopisy Rajchlovi (1. 5. 2026)](../_zdroje.md#pavel-zítko--palouček-u-plzně-peková-dopisy-rajchlovi-1-5-2026)
+- [Videoportál: Hrad odpověděl na Pekovou (26. 6. 2026)](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)

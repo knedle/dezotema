@@ -146,6 +146,16 @@ Soňa Peková a Pavel Zítko jsou trestně stíháni za „šíření poplašné
 
 ---
 
+### Hrad odpověděl na Pekovou petici o milost — zamítnutí přes úředníka, ne osobně (Zítko, 26. 6. 2026)
+
+Soňa Peková obdržela (po téměř dvou měsících) odpověď na svůj otevřený dopis z 7. května, adresovaný osobně Petru Pavlovi, v němž s více než tisícem podpisů žádala o objektivní přezkoumání trestních stíhání/pravomocných trestů čtyř osob odsouzených za veřejná vyjádření během covidové pandemie. Odpověď opět nepodepsal prezident, ale úředník kanceláře (ředitel legislativního odboru, dle dopisu Ing. Milan Vašina) — dopis Peková komentovala se zklamáním („odpověď opět delegoval na někoho, koho jsem se neptala"). Kancelář prezidenta v dopise uvádí, že institut milosti je určen jen pro výjimečné humanitární případy (péče o nezletilé dítě, závažný zdravotní stav, vysoký věk) a neslouží k přezkoumávání rozhodnutí nezávislých soudů; žádost o osobní jednání s prezidentem odmítla s odkazem na jeho pracovní vytíženost. Zítko na to reaguje svou opakovanou tezí, že soudy (včetně Ústavního) jsou „soukromé firmy s IČ" bez skutečné nezávislosti, a poukazuje na to, že Ústavní soud dokázal ve věci Pavlovy účasti na summitu NATO rozhodnout bleskově (během jednoho–dvou dnů), zatímco běžné případy řeší měsíce až půl roku — což čte jako důkaz konfliktu zájmů, protože soudce Ústavního soudu jmenoval sám Pavel.
+
+> „Založte si prosím tuto informaci do přihrádky pro a proti, kterou použijete, když se budou blížit prezidentské volby." — Soňa Peková, [Videoportál 26. 6. 2026](_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
+
+**Zdroje:** [Zítko — Videoportál: Hrad odpověděl na Pekovou, 26. 6. 2026](_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
+
+---
+
 ### Reiner Füllmich — uvěznění šéfa Corona-Ausschuss jako politický proces (Zítko, 12. 6. 2026)
 
 Zítko přenesl na svém kanálu (ze studia Bytel TV) první živý rozhovor s německým právníkem **Reinerem Füllmichem** od jeho zadržení 13. října 2023. Füllmich, zakladatel vyšetřovacího výboru Corona-Ausschuss, je dle Zítka vězněn ve věznici Bremervörde už 2,5 roku jako politický vězeň. Zítko a Füllmich popisují případ takto:

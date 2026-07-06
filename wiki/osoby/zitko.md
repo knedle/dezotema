@@ -38,6 +38,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Reiner Füllmich jako politický vězeň — únos z Mexika tajnou službou, soudy = korporace, COVID = biozbraň/Norimberský kodex, propuštění čekáno do 12. 9. — [Füllmich živě z vězení 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 - **21. 6.** — podvod v prez. volbách 2023: Aspen Institute dosadil „první šestku", po Zítkově posunu z posledního na 7. místo Fortuna („chazarská mafie") 3× srazila jeho kurz (1:60 → 1:555), hlasovací lístky zničeny/nepředloženy (3× na MV) — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 - Bitcoiny 100+ mld (dvě tržiště Sheep 39 918 + Nucleus 5366 BTC, Blažek/Tyc/Daňhel, nečinnost NCOZ/Olomouc) — zopakováno — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+- Hrad odpověděl na Pekovou petici o milost (přes úředníka, ne osobně Pavlem) — zamítnutí, žádost o audienci odmítnuta; kontrast rychlosti ÚS v Pavlově kauze vs. běžné případy — [Videoportál: Hrad odpověděl na Pekovou 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - COVID rozsudky: Peková (4 případy za šíření poplašné zprávy), Čermák (terorismus), Popelka, Křivka (Z tričko) — označuje je za politicky motivované; interpelace Majerové-Tejce; Tejc slíbil změnu trestního zákoníku do konce dubna 2026 — Zítko hodnotí jako prázdné sliby — [Interpelace Majerová-Tejc 23. 4.](../_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
@@ -160,6 +161,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Jana Peterková | ✅ pozitivní | Autorka knihy „Já, dezinformátorka" — „byla mezi prvními, kdo po 12. 3. 2020 varoval", inspirace pro Zítka; kmotrem knihy je Zítko | 2026-06-24 | [Křest knihy „Já, dezinformátorka", 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026) |
 | Michala Klárová | ❌ negativní | Redaktorka TV NOVA — Zítko jí napsal otevřený dopis (vynechal „vážená"), vyzval NOVU přiznat „spravodajská selhání" v době covidu a referovat o křtu knihy | 2026-06-24 | [Křest knihy „Já, dezinformátorka", 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026) |
 | Kristýna Ciroková | ❌ negativní | Redaktorka Seznam Zprávy — dle Zítka debaty končí nálepkami „Putinova děvka / proruský kanál"; uvedena jako příklad „prestitutky" | 2026-06-24 | [Křest knihy „Já, dezinformátorka", 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026) |
+| Petr Pavel | ❌ negativní | Neodpověděl osobně na Pekové petici o milost — nechal odpovědět úředníka; obviněn z konfliktu zájmů (jmenoval soudce ÚS, kteří v jeho vlastní kauze rozhodli bleskově) | 2026-06-26 | [Videoportál: Hrad odpověděl na Pekovou, 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026) |
+| Soňa Peková | ✅ pozitivní | Sdílí její otevřený dopis a zklamání z odpovědi Hradu; zdůrazňuje, že petici podepsalo přes 1000 lidí | 2026-06-26 | [Videoportál: Hrad odpověděl na Pekovou, 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026) |
 
 ---
 
@@ -218,3 +221,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [UFC Freedom 250 naplněno (15. 6. 2026)](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - [Slunovrat 11:11: falešný klon, COVID tribunál, obnova ČSR (21. 6. 2026)](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 - [Křest knihy „Já, dezinformátorka" (24. 6. 2026)](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
+- [Videoportál: Hrad odpověděl na Pekovou (26. 6. 2026)](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)

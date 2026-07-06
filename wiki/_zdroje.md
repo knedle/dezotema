@@ -2580,3 +2580,12 @@
 - **Délka:** 01:02:52 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
 - **Poznámka:** Tři zpracovaná témata: (1) Digitální euro — konkrétní scénáře kontroly nákupů/expirujících peněz/vynucené poslušnosti (Kanada, Řecko, Čína jako precedenty), výzva bojovat za hotovost — [digitalni-kontrola.md](digitalni-kontrola.md). (2) Summit NATO Ankara — 70 mld. dolarů pro Ukrajinu je vedlejší, hlavní otázkou je členství Ukrajiny v NATO (= přímý konflikt s Ruskem); predikuje schválení peněz vládou — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Petr Macinka prosazuje povinnou tříměsíční vojenskou službu — varování mužům v branném věku — [valka-nato-rusko.md](valka-nato-rusko.md). Ostatní zprávy (VW propouštění, MiCA regulace kryptoměn, Hormuz/Írán, Izrael–Libanon dohoda, Krym stav nouze, Lavrov vs. Rubio spor o Aljašku) jen rychlý přehled bez samostatného zpracování. **Predikce:** ČR nakonec schválí 70 mld. dolarů pro Ukrajinu (viz [predikce.md](predikce.md)). Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: Hrad odpověděl na Pekovou (26. 6. 2026) {#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-26_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=4102049973420948&_rdr>
+- **Datum záznamu:** 2026-06-26
+- **Délka:** 00:46:05 | Zhlédnutí: 553 | Facebook blokace/klon profilu (logistika) + čtení odpovědi Hradu + pozvánka na akci v červenci
+- **Poznámka:** Jediné zpracované téma: Soňa Peková zveřejnila odpověď Kanceláře prezidenta republiky na svou petici (7. 5. 2026, přes 1000 podpisů) žádající milost/přezkoumání trestů 4 osob odsouzených za covidové výroky — odpověděl úředník (ředitel legislativního odboru), ne Pavel osobně; milost je vyhrazena jen pro humanitární případy, žádost o osobní jednání zamítnuta. Zítko to spojuje se svou tezí o soudech jako „soukromých firmách" a poukazuje na kontrast rychlosti ÚS v Pavlově vlastní kauze (Ankara) vs. měsíce/půl roku u běžných případů. Zbytek videa: logistika (4denní blokace profilu na FB, falešný klon, přesun na Rumble/Substack) a pozvánka na sraz v Penzionu Ráj 4.–6. 7. 2026 — nezpracováno (osobní/organizační). Tematicky → [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
