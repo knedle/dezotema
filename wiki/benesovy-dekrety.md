@@ -350,6 +350,16 @@ Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal,
 
 ---
 
+### Zklamání z reakce na sjezd v Brně — slíbený otevřený dopis se nikdy nerealizoval (Černohorský, 26. 6. 2026)
+
+Měsíc po sjezdu Černohorský vysvětluje, proč dočasně přerušil vysílání: zlomilo ho, jak vlastenecká scéna kauzu Landsmannschaftu odbyla. Kritizuje výstup aktivisty Robina Čumpelíka, který na akci u brněnského výstaviště veřejně napadl Kateřinu Konečnou a hnutí Stačilo za to, že na protest přišli s vlastními stranickými tričky — sám ale nechápe tuhle kritiku, protože nedělní shromáždění na Dominikánském náměstí (Konečná, Reichel, Zeman, slovenský Bláha) bylo otevřeně politickou akcí od začátku. Hlavní zdroj frustrace: čtyřdenní mobilizace lidí do Brna měla vyústit v otevřený dopis podepsaný politiky, odborníky a historiky se stovkami tisíc podpisů (300–500 tisíc), adresovaný vládě i opozici s požadavkem, aby se podobný sjezd („nacistická prasárna") už nikdy nekonal na území ČR — nic z toho se nestalo, akce skončila jen politickými proslovy bez konkrétního výstupu, takže se scénář může opakovat v Liberci nebo Chebu. Vidí v tom důkaz, že se vlastenecká scéna nedokáže sjednotit napříč stranickými značkami (PRO, SPD, Trikolora, Svobodní, KSČM, Česká společnost Respekt) a přirovnává stranické tříštění k dobytku značkovanému plackami.
+
+> „Přestaňte se značkovat jako dobytek." — Jiří Černohorský, [FB Live 26. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
+
+**Zdroje:** [Černohorský — FB Live: zklamání z Brna, 26. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
+
+---
+
 ## Bernd Posselt a požadavky na zrušení dekretů
 
 ### Posselt v Pohořelicích — veřejné projevy za zrušení dekretů

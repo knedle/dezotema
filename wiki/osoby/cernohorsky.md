@@ -33,6 +33,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **24. 6.** — ÚS a spor Pavel vs. Babiš o Ankaru = „velice nebezpečný precedent" (prezidentský systém bojuje s parlamentní demokracií); připomíná staré Babišovo varování o „loutce", co se „utrhne ze řetězu" — [ÚS precedent a Babišovo varování 24. 6.](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026)
 - **25. 6.** — ÚS „nahradil" parlamentní demokracii (soudní moc nemá vykládat, co má vláda dělat); výzva Babišovi rozhodnutí nerespektovat; podmíněná obava z „novodobého Pinočeta na Hradě"/cizí armády při eskalaci — [FB Live: ÚS nerespektovat 25. 6.](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 - **25. 6.** — Bilance 33 let české politiky: „rozkradená země", Babiš jako výjimka (snížil schodek), vláda Fialy = „idioti" (Lipavský, Hladík, Černochová, Kupka, Rakušan) — [FB Live: ÚS nerespektovat 25. 6.](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
+- **26. 6.** — Eskalace: Pavel by neměl na summit jet vůbec, skutečným strůjcem je lobbista Petr Kolář (zbrojařské kšefty); predikuje, že vláda kauzu politicky ustojí — [FB Live: zklamání z Brna a eskalace ÚS 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - 90 mld. EUR EU pro Ukrajinu = faktický dárek (nesplacení) — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
@@ -56,6 +57,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Magistrát Brno dal ~15M Kč Meeting Brno na LM sjezd — [FB Live „dopoledníček" 21. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-dopoledníček-21-5-2026)
 - NATO max 1,2–1,3 % HDP, 0,7 % přesměrovat do zdravotnictví; Juchelka VR brýle pro sestřičky = odtrženost od reality — [FB Live 22. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-22-5-2026)
 - Brno: čtení jmen 1 518 obětí nacistické okupace (Obrana národa 2) — stud z neznalosti 240 ulic pojmenovaných po hrdinech — [FB Live 2 (22. 5. 2026)](../_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
+- Zklamání z reakce na sjezd v Brně — slíbený otevřený dopis s podpisy se nikdy nerealizoval, vlastenecká scéna se tříští na stranické značky — [FB Live: zklamání z Brna 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Bitcoin kauza jako organizovaný zločin, Blažek jako „bílý kůň" — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -195,6 +197,11 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Petr Hladík | ❌ negativní | Ministr životního prostředí — výrok „ČR se otepluje 2× rychleji než kdekoliv na světě" hodnocen jako nesmysl | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
 | Jana Černochová | ❌ negativní | Ministryně obrany — tričko „fuck off Putin", nekompetentní doporučení firmy; armáda ČR v „dezolátním stavu" kvůli jejímu odzbrojování | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
 | Vít Rakušan | ❌ negativní | „Ten by měl lozit kanálama" — dehumanizující urážka v kontextu jeho kritiky vlády Babiše | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
+| Robin Čumpelík | ❌ negativní | Kritizován za veřejné napadení Kateřiny Konečné/Stačilo na brněnské demonstraci kvůli stranickým tričkům | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
+| Kateřina Konečná | ✅ pozitivní | Bráněna proti Čumpelíkově kritice — účast na politické demonstraci na Dominikánském náměstí byla legitimní | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
+| Petr Kolář | ❌ negativní | Označen za skutečného strůjce kauzy Ankara — lobbista domlouvající zbrojařské kšefty, obviněn ze „zabíjení dalších a dalších lidí"; terč explicitní násilné fantazie | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
+| Petr Pavel | ❌ negativní | „Míň než hovno v trávě" — pouhá „loutka/marioneta" Petra Koláře; terč explicitní násilné fantazie (vykopání, kopání až do Kyjeva) | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
+| Petr Macinka | ✅ pozitivní | „Velice inteligentní borec", ne hlupák — jeho ironické výroky („soudruh prezident") interpretovány jako záměrné vyjádření zoufalství nad Pavlem | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
 
 ---
 
@@ -236,3 +243,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [ČT cenzura hymny (Nohavica) (23. 6. 2026)](../_zdroje.md#jiří-černohorský--čt-cenzura-hymny-nohavica-23-6-2026)
 - [ÚS precedent a Babišovo varování (24. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026)
 - [FB Live: ÚS nerespektovat (25. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
+- [FB Live: zklamání z Brna a eskalace ÚS (26. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)

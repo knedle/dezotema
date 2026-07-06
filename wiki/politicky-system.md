@@ -278,6 +278,16 @@ V debatě 360° (**25. 6.**) Rajchl argumentaci rozvedl: předběžné opatřen�
 
 ---
 
+### Kauza vyvrcholila: Pavel by neměl jet vůbec, skutečným viníkem je lobbista Petr Kolář (Černohorský, 26. 6. 2026)
+
+Černohorský mění postoj: zatímco dřív kritizoval hlavně ÚS, teď tvrdí, že Petr Pavel by na summit NATO do Ankary neměl jet vůbec — i kdyby to ÚS „doporučil", vláda (Andrej Babiš coby nejvyšší ústavní činitel v parlamentním systému) by rozhodnutí neměla respektovat, protože ÚS „na to neměl právo" a jeho rozhodnutí je „naprostá šaškárna", kterou „právníci rozsekají". Skutečným strůjcem celé kauzy podle něj není samotný Pavel („obyčejná loutka/marioneta"), ale poradce Petr Kolář — lobbista, kterého obviňuje z domlouvání zbrojařských kšeftů a napojení na „našeho zbrojaře" ziskujícího na válce na Ukrajině; Pavlovu přítomnost na summitu považuje jen za záminku, aby se tam Kolář mohl dostat a sjednávat provize. Zpochybňuje také oficiální zdůvodnění cesty (čl. 63 Ústavy — reprezentace státu navenek), protože o státních zakázkách stejně rozhoduje vláda Babiše, takže Pavel by na summitu „stejně nic nezmohl". Zdůrazňuje, že ČR je parlamentní, nikoliv prezidentský systém. Zároveň predikuje, že vláda Babiše/Macinky kauzu politicky ustojí navzdory mediální kampani, protože „právní pravda" je na jejich straně.
+
+> „Petr Pavel do žádné Ankary nepojede. [...] Tohle není o tom, že bych nerespektoval rozhodnutí ústavního soudu — to, co předvedl ústavní soud, je naprostá šaškárna." — Jiří Černohorský, [FB Live 26. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
+
+**Zdroje:** [Černohorský — FB Live: zklamání z Brna a eskalace ÚS, 26. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

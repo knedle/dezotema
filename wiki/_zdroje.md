@@ -2562,3 +2562,12 @@
 - **Délka:** 00:06:00 | Zhlédnutí: 121 816 | Faktické poznámky v Poslanecké sněmovně (debata odbočila od služebního zákona k ČT)
 - **Poznámka:** Rajchl v reakci na Mariana Jurečku a Piráty opakuje a rozvádí návrh dobrovolných koncesionářských poplatků ČT (viz [Organizovaný zločin v politice, 19. 4. 2026](media-propaganda.md#rajchl-dobrovolné-koncesionářské-poplatky-jako-jediné-spravedlivé-řešení)): kdo chce, zaplatí i vysokou částku (rozpočet klidně 50 mld. Kč), kdo nechce, neplatí nic — argumentuje, že to zcela vyváže ČT z politického vlivu a donutí ji soutěžit o diváka. Odmítá logiku pojistného systému, poukazuje na porušení etického kodexu ČT (čl. 23.4) při redaktorské stávce a na zvýšení poplatků koalicí půl roku před volbami navzdory opačným slibům. Tematicky → [media-propaganda.md](media-propaganda.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — FB Live: zklamání z Brna a eskalace ÚS (26. 6. 2026) {#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-26_Jiří-Černohorský-Živě_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/100085862388850/videos/1998254587463432>
+- **Datum záznamu:** 2026-06-26
+- **Délka:** 00:47:48 | Vysvětlení pauzy ve vysílání + pokračování kauzy ÚS/Pavel/Ankara
+- **Poznámka:** Dvě témata: (1) Zklamání z reakce vlastenecké scény na sjezd Landsmannschaftu v Brně (květen 2026) — kritika Robina Čumpelíka za napadení Konečné/Stačilo na demonstraci; hlavní stížnost, že slíbený otevřený dopis s 300–500 tisíci podpisy nikdy nevznikl, akce skončila jen politickými proslovy; vlastenecká scéna se tříští na stranické značky (PRO/SPD/Trikolora/Svobodní/KSČM/ČSR) — [benesovy-dekrety.md](benesovy-dekrety.md). (2) Eskalace kauzy ÚS/Pavel/Ankara — Pavel by neměl jet vůbec, ÚS „chyboval", skutečným strůjcem je lobbista Petr Kolář (obviněn ze zbrojařských kšeftů a profitování z válečných obětí); predikuje, že vláda Babiše/Macinky kauzu politicky ustojí — [politicky-system.md](politicky-system.md). **Stoch. teror:** explicitní násilné fantazie vůči Petru Pavlovi („nakopal bych tě do prdele, kopal bych tě až do Kyjeva") a Petru Kolářovi („vykopal bych ho z hradu, kopal bych ho až do Bruselu"); dehumanizace Pavla („jsi míň než hovno v trávě").
+- **Zpracováno:** ano
