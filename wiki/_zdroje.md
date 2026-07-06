@@ -2661,3 +2661,12 @@
 - **Délka:** 00:48:48 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
 - **Poznámka:** Tři zpracovaná témata: (1) Predikce — Babiš do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku na 65 let — [predikce.md](predikce.md). (2) Wikileaks: Petr Kolář jako velvyslanec v USA radil přejmenovat raketovou základnu v Brdech na „radar" a počkat na vládu Topolánka místo Paroubka — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Británie: 300 mld. liber na zbrojení (kritika pokrytectví vůči chudobě), USA staví jaderné sklady v UK jako mezikrok k přesunu jaderných zbraní blíž k Rusku (UK→Polsko, Francie→ČR); dvě cesty jaderné politiky (odstrašení vs. odzbrojení a la Reykjavík) — [jaderne-zbrane.md](jaderne-zbrane.md). Ostatní zprávy (Maďarsko/Orbán vs. Petr Maďar, Írán-USA jednání, NATO velitelství v Pobaltí, GRECO korupční hodnocení ČR, Ukrajina/stínová flotila) jen rychlý přehled bez samostatného zpracování. Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Facebook Live: rozhovor s Petrem Budešem (30. 6. 2026) {#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-30_Ladislav-Vrabel_Facebook-Live_1.txt)
+- **Kanál:** Ladislav Vrabel (host u Petr Budeš TV)
+- **URL:** <https://www.facebook.com/100087923704145/videos/27618271341136589>
+- **Datum záznamu:** 2026-06-30
+- **Délka:** 00:55:03 | Hostování v pořadu Petr Budeš TV
+- **Poznámka:** Rozhovor z velké části shrnuje již zdokumentovaná témata (tři body summitu NATO, nemožnost vojensky porazit Rusko, jaderná triáda/„mrtvá ruka", cesta odzbrojení a la Reykjavík, Kolář jako zbrojní zprostředkovatel, vzorec porušování slibů Babišem). Tři nově zpracované prvky: (1) Petr Pavel prosazoval jaderné zbraně v ČR už jako generál NATO, museli ho brzdit Američané — [jaderne-zbrane.md](jaderne-zbrane.md). (2) Proč globalisté „pustili" Babiše k moci — slib zamítnutí referenda o EU/NATO jako lakmusový papírek — [konspirace.md](konspirace.md). (3) Varování, že „okno" pro legální vystoupení ČR z EU se brzy uzavře (federalizace EU), s precedentem tvrdého zásahu Španělska proti katalánským politikům — [suverenita-eu.md](suverenita-eu.md). Bez predikcí (nad rámec již zaznamenaných) a stoch. teroru.
+- **Zpracováno:** ano

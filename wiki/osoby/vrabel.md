@@ -242,6 +242,7 @@
 - **30. 6.** — predikce: Babiš do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
 - Wikileaks: Kolář jako velvyslanec radil přejmenovat raketovou základnu v Brdech na „radar", počkat na vládu Topolánka — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
 - Británie 300 mld. liber na zbrojení + jaderné sklady v UK jako mezikrok k přesunu blíž k Rusku — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+- Host u Petr Budeš TV: Pavel prosazoval jaderné zbraně v ČR už jako generál NATO; proč globalisté „pustili" Babiše (slib zamítnutí referenda); varování o uzavírajícím se „okně" pro vystoupení z EU (precedent Katalánska) — [Facebook Live: rozhovor s Petrem Budešem 30. 6.](../_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -679,3 +680,4 @@
 - [Zprávy v devět 27. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
 - [Zprávy v devět 29. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 - [Zprávy v devět 30. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+- [Facebook Live: rozhovor s Petrem Budešem (30. 6. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)

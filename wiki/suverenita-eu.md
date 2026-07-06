@@ -96,6 +96,14 @@ Rajchl ve shrnujícím videu odmítá euro „kategoricky" — nikoli ze sentime
 
 ---
 
+### „Okno" pro vystoupení z EU se brzy zavře — varování na příkladu Katalánska (Vrabel, 30. 6. 2026)
+
+V rozhovoru pro Petr Budeš TV Vrabel varuje, že ČR má už jen omezený čas (podle něj „možná ještě několik let, možná už ani ne"), kdy je vystoupení z Evropské unie legálně možné — v okamžiku, kdy se EU „zfederalizuje", se toto okno uzavře a další pokusy o odtržení už nebudou tolerovány. Jako varovný precedens uvádí Katalánsko: když se katalánští politici pokusili o odtržení od Španělska, byli zatčeni, zbiti policií a uvězněni — protože „Španělsko se nemůže rozpadat", stejně jako se federalizovaná EU nebude moci nechat rozpadnout. Sám počítá s tím, že pokud bude toto stanovisko prosazovat dál, hrozí mu podobný osud. Uvádí to jako naléhavý apel: jediná cesta ke změně systému vede přes vystoupení z EU i NATO, dokud je to ještě legální možnost.
+
+**Zdroje:** [Vrabel — Facebook Live: rozhovor s Petrem Budešem, 30. 6. 2026](_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"

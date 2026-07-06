@@ -223,6 +223,16 @@ Vrabel tvrdí, že převrat v roce 1989 „napsala a udělala CIA" a že si pro 
 
 ---
 
+### Proč globalisté „pustili" Babiše k moci: slib zamítnutí referenda jako lakmusový papírek (Vrabel, 30. 6. 2026)
+
+V rozhovoru pro Petr Budeš TV Vrabel rozvádí svou tezi o CIA/globalistickém výběru politiků na konkrétním příkladu Andreje Babiše. Během předvolební kampaně 2025 Babiš i jeho hnutí mluvili o vystoupení z EU a NATO — dokud veřejně neprohlásil, že v žádném případě nepřipustí referendum o vystoupení z EU ani z NATO. Podle Vrabela právě v tento okamžik přišlo (od CIA či amerického ministerstva zahraničí, „přes 4 kanály") schválení, že se Babiš může stát premiérem, protože garantoval, že bude nadále pracovat pro EU a NATO — přirovnává to k Robertu Ficovi na Slovensku, který sliboval odmítnutí migrantů a zbraní pro Ukrajinu, a nakonec obojí dělá. Jako důkaz konzistence tohoto vzorce vyjmenovává, že Babiš porušil sliby ohledně F-35, muniční iniciativy, vakcinace (spolupodíl na násilném očkování) a nyní i slibu nesouhlasu se 70 mld. dolarů pro Ukrajinu — vsází se, že totéž se stane i s tímto slibem.
+
+> „V tomhle tom okamžiku, kdy se postavil za ty globalisty a jasně to slíbil, tak najednou bylo povoleno někde z CIA [...], že Andrej Babiš se může stát premiérem České republiky, protože bude pracovat pro EU a pro NATO." — Ladislav Vrabel, [Facebook Live: rozhovor s Petrem Budešem, 30. 6. 2026](_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
+
+**Zdroje:** [Vrabel — Facebook Live: rozhovor s Petrem Budešem, 30. 6. 2026](_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
+
+---
+
 ### Havelova rodina a spolupráce s gestapem — Zítko čte slovenský článek
 
 Pavel Zítko přečetl ve svém přenosu ze 8. dubna 2026 slovenský článek (autora: „Peťa Ko"), který tvrdí, že rodina Havelů za druhé světové války spolupracovala s německou správou a gestapem:

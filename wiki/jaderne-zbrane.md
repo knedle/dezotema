@@ -124,6 +124,14 @@ Vrabel dále rozebírá dvě možné cesty jaderné politiky: (1) cesta „jader
 
 ---
 
+### Pavel prosazoval jaderné zbraně v ČR už jako generál NATO — museli ho brzdit sami Američané (Vrabel, 30. 6. 2026)
+
+V rozhovoru pro Petr Budeš TV Vrabel tvrdí, že Petr Pavel byl už v době, kdy působil jako generál v NATO, jediným zástupcem z východního bloku, který požadoval umístění jaderných zbraní na území ČR a dalších východoevropských zemí — natolik intenzivně, že ho v tom museli krotit samotní Američané. Vrabel to čte jako důkaz, že Pavlův současný postoj k jaderným zbraním (návrh z března 2026, aby se ČR zapojila do francouzského jaderného „deštníku") není nová pozice, ale dlouhodobý rys, a spekuluje, že právě proto byl Pavel „vybrán" pro roli prezidenta v tomto historickém období — v návaznosti na varování profesora Staňka (ještě před covidem) a Oskara Krejčího (2020, „osa zla": Rusko, Čína, Indie), že se dlouhodobě připravuje válka.
+
+**Zdroje:** [Vrabel — Facebook Live: rozhovor s Petrem Budešem, 30. 6. 2026](_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
+
+---
+
 ### Francouzský jaderný arzenál +80 hlavic — nové kolo zbrojení (Vrabel, 9. 6. 2026)
 
 Podle zprávy SIPRI Francie mezi roky 2025 a 2026 zvýšila svůj jaderný arzenál zhruba o 80 hlavic na přibližně 730 a hlavní mocnosti modernizují arzenály. Vrabel to čte jako nové kolo jaderných závodů, před nímž varuje od roku 2022; jedinou cestou k trvalému míru jsou podle něj odzbrojovací smlouvy. Navazuje na [Jaderné odzbrojení jako jediná cesta k míru (6. 6.)](#jaderné-odzbrojení-jako-jediná-cesta-k-míru--výzva-vrabel-6-6-2026).
