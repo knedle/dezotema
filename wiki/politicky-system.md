@@ -258,9 +258,13 @@ Rajchl tvrdí, že ho uráží, jak Petr Pavel „degraduje" prezidentský úřa
 
 V debatě 360° (**25. 6.**) Rajchl argumentaci rozvedl: předběžné opatření je „zcela výjimečný nástroj", v podobném typu sporu prý použitý teprve „podruhé v historii". Opírá se o disentní stanoviska soudců **Jaromíra Vintra a Veroniky Řepkové**, podle nichž lze tento nástroj použít jen ve výjimečných případech s hrozbou mimořádné škody — z Pavlovy cesty do Ankary podle něj žádná mimořádná škoda nehrozí. Poukazuje na dvojí metr: u valorizace důchodů seniorů (kde podání existovalo) ÚS předběžné opatření sám nevydal, ač mohl. Moderátorka připomněla, že rozhodovalo 15 soudců a oba disentující jmenoval Petr Pavel.
 
+**Jiří Černohorský** (24. 6.) na stejnou kauzu reaguje z jiného úhlu: líčí sled událostí jako podezřelý — jeden den vláda odmítne zařadit Pavla do delegace do Ankary, druhý den Pavel „pláče" a podává na ÚS „směšnou kompetenční žalobu", třetí den je hotovo „resumé" předjímající rozhodnutí, ačkoliv soud ještě ani nezasedal. Připomíná staré předvolební video Andreje Babiše, v němž varoval, že pokud se na Hrad dostane „loutka" ovládaná Petrem Fialou a DSSS, „utrhne se ze řetězu" — to považuje za naplňující se prorocké varování. Podle Černohorského jde o „velice nebezpečný precedent": prezidentský systém začíná bojovat s parlamentní demokracií, zatímco „fialovo-modrožlutá banda" a „tleskači Milionu chvilek" si vůbec neuvědomují, o co tu jde.
+
+> „To, co se odehrává v České republice, opravdu velice nebezpečný precedent [...] prezidentský systém tady začíná bojovat s parlamentní demokracií." — Jiří Černohorský, [Videoportál 24. 6. 2026](_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026)
+
 > „To, že Petr Pavel pojede do Ankary nebo nepojede do Ankary — tam hrozí nějaká mimořádná škoda? V žádném případě ne." — Jindřich Rajchl, [360° 25. 6. 2026](_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
 
-**Zdroje:** [Rajchl — ÚS uložil akreditovat Pavla na summit, 24. 6. 2026](_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026), [Rajchl — 360° k rozhodnutí ÚS, 25. 6. 2026](_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
+**Zdroje:** [Rajchl — ÚS uložil akreditovat Pavla na summit, 24. 6. 2026](_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026), [Černohorský — ÚS precedent a Babišovo varování, 24. 6. 2026](_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026), [Rajchl — 360° k rozhodnutí ÚS, 25. 6. 2026](_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
 
 ---
 

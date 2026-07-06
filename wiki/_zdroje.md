@@ -2518,6 +2518,15 @@
 - **Poznámka:** Ústavní soud (předběžné opatření) uložil vládě Andreje Babiše povinnost akreditovat prezidenta Petra Pavla na summit NATO v Ankaře. Rajchl to označuje za „zcela skandální", ÚS dle něj „vybočil ze svého rámce" a rozhodnutí posouvá ČR z parlamentní do prezidentské republiky = „otevření Pandořiny skříňky"; rychlost i odůvodnění označuje za „nevalidní". Předsedu ÚS **Josefa Baxu** označuje za podjatého — v roce 2019 se zúčastnil demonstrace spolku Milion chvilek proti vládě Babiše a podepsal výzvu „chvilka pro rezignaci" k demisi Babišovy vlády. Cituje i Zemana (ÚS „podjatý") a Macinku („ústavní puč"). (Završuje ságu Pavel vs. summit — potvrzuje Vrabelův odhad, že Pavel u ÚS uspěje.) Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Videoportál: ÚS precedent a Babišovo varování (24. 6. 2026) {#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-24_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/100085862388850/videos/1561036332269862>
+- **Datum záznamu:** 2026-06-24
+- **Délka:** 00:03:02 | Zhlédnutí: 63 951 | Reakce na kauzu Pavel vs. delegace do Ankary
+- **Poznámka:** Stejná kauza jako u Rajchla ze stejného dne, jiný úhel: Černohorský líčí sled událostí jako podezřelý — vláda odmítne zařadit Pavla do delegace do Ankary, Pavel „pláče" a podává na ÚS „směšnou kompetenční žalobu", následně je hotovo „resumé" předjímající rozhodnutí, ačkoliv soud ještě nezasedal. Připomíná staré předvolební video Andreje Babiše varující, že pokud se na Hrad dostane „loutka" ovládaná Petrem Fialou a DSSS, „utrhne se ze řetězu" — to považuje za naplňující se varování. Hodnotí to jako „velice nebezpečný precedent": prezidentský systém začíná bojovat s parlamentní demokracií, „fialovo-modrožlutá banda" a „tleskači Milionu chvilek" si to prý neuvědomují. Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — 360° k rozhodnutí ÚS (předběžné opatření) (25. 6. 2026) {#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-25_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl (Facebook / sdílení z pořadu 360° CNN Prima News)
