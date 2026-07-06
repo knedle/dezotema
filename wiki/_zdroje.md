@@ -2670,3 +2670,12 @@
 - **Délka:** 00:55:03 | Hostování v pořadu Petr Budeš TV
 - **Poznámka:** Rozhovor z velké části shrnuje již zdokumentovaná témata (tři body summitu NATO, nemožnost vojensky porazit Rusko, jaderná triáda/„mrtvá ruka", cesta odzbrojení a la Reykjavík, Kolář jako zbrojní zprostředkovatel, vzorec porušování slibů Babišem). Tři nově zpracované prvky: (1) Petr Pavel prosazoval jaderné zbraně v ČR už jako generál NATO, museli ho brzdit Američané — [jaderne-zbrane.md](jaderne-zbrane.md). (2) Proč globalisté „pustili" Babiše k moci — slib zamítnutí referenda o EU/NATO jako lakmusový papírek — [konspirace.md](konspirace.md). (3) Varování, že „okno" pro legální vystoupení ČR z EU se brzy uzavře (federalizace EU), s precedentem tvrdého zásahu Španělska proti katalánským politikům — [suverenita-eu.md](suverenita-eu.md). Bez predikcí (nad rámec již zaznamenaných) a stoch. teroru.
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: rozhovor s Patrikem Pečénkou (30. 6. 2026) {#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-30_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová (rozhovor natočen 27. 6. 2026, zveřejněn 30. 6.)
+- **URL:** <https://m.facebook.com/watch/?v=1676650160306129&_rdr>
+- **Datum záznamu:** 2026-06-30
+- **Délka:** 00:15:23 | Zhlédnutí: 146 | Rozhovor s Patrikem Pečénkou
+- **Poznámka:** Dvě zpracovaná témata: (1) Reakce na Babišovo lednové přiznání covidových chyb — požaduje zákaz mRNA vakcín a vyšetřování poradních orgánů (Prymula); klíčový právní argument, že testy (vč. Diana Bion Technologies) nebyly dle kontroly SÚKL validovány, takže všech ~600 mimořádných opatření 2020–2022 je „právně nulitních" — volá po zákonu a odškodnění — [covid-vakciny.md](covid-vakciny.md). (2) I americké senátní vyšetřování covidu považuje za „slepou uličku", protože nezpochybňuje samotnou infekční teorii viru — [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

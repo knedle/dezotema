@@ -42,6 +42,18 @@ Mluvčí Pavel Zítko označuje PCR testy za „neprůkazné věštění ze sopl
 
 ---
 
+### Testy nebyly validovány (SÚKL), opatření jsou „právně nulitní" — Tarabová (30. 6. 2026)
+
+V reakci na lednové přiznání Andreje Babiše (na půdě Poslanecké sněmovny), že vláda za covidu „poslouchala špatné odborníky" a přejímala informace o vakcínách od EU, Tarabová argumentuje, že jde o prázdná slova bez nápravných kroků. Poradní týmy ministerstva zdravotnictví byly dle ní obsazeny lidmi napojenými na Českou vakcinologickou společnost (soukromý spolek, ne státní orgán, „plný vojenských důstojníků") — politici se tak nemohli reálně rozhodovat jinak, protože jim jiní „odborníci" nebyli k dispozici. Požaduje, aby byl na základě Babišova přiznání okamžitě zakázán mRNA vakcíny v ČR a aby ministr Adam Vojtěch inicioval vyšetřování členů poradních orgánů (jmenovitě zmiňuje profesora Prymulu jako člověka s „ohromným střetem zájmu", který by měl stát před soudem, ne vystupovat v médiích).
+
+Klíčový právní argument: veškerých ~600 mimořádných opatření vydaných od března 2020 do února 2022 stálo na tvrzení o počtu pozitivních PCR/antigenních testů — žádný test použitý v ČR ale nebyl validován vůči referenční jednotce. Jako důkaz uvádí kontrolu SÚKL (vyžádanou přes podnět kolegy Davida Šupíka), která k testům firmy Diana Bion Technologies (hojně používaným v ČR) potvrdila, že nesplňují zákon o zdravotnických prostředcích pro in vitro diagnostiku a validovány nebyly — jejich výsledky tak mají „nulitní výpovědní hodnotu". Z toho vyvozuje, že všechna mimořádná opatření jsou právně neplatná („nulitní"), a požaduje zákon, který by to výslovně deklaroval — otevřelo by to cestu k odškodnění lidí pokutovaných, propuštěných z práce nebo bez příjmu kvůli izolaci, i těch se zdravotními následky po očkování. Zmiňuje, že její vlastní žalobu na ministerstvo zdravotnictví Městský soud v Praze zamítl s tím, že otázka validity testů je pro řízení „nepodstatná". Zároveň sleduje probíhající slyšení amerického Senátu k covidové politice a doporučuje do jejich uzavření preventivně zakázat mRNA vakcíny i v Evropě.
+
+> „Veškerá ta mimořádná opatření [...] mají právně nulitu." — Lenka Tarabová, [Videoportál: rozhovor s Patrikem Pečénkou, 30. 6. 2026](_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
+
+**Zdroje:** [Tarabová — Videoportál: rozhovor s Patrikem Pečénkou, 30. 6. 2026](_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
+
+---
+
 ## Vakcíny
 
 ### Comirnaty nebyla testována na karcinogenitu — svědectví šéftoxikologa Pfizer Europe
@@ -122,6 +134,16 @@ Lenka Tarabová sdílí video anglicky mluvícího hosta, který zastává radik
 ⚡ **Konflikt:** Tato tvrzení jsou v přímém rozporu s vědeckým konsensem. SARS-CoV-2 i mnohé jiné viry byly izolovány, kultivovány a jejich genomy sekvenováním ověřeny nezávislými laboratořemi po celém světě.
 
 **Zdroje:** [Tarabová — Podvod století: virologie jako pseudověda, 2026-04-02](_zdroje.md#lenka-tarabová--podvod-století-virologie-jako-pseudověda-2-4-2026)
+
+---
+
+### I americké senátní vyšetřování jde „špatným směrem", protože nezpochybňuje infekční teorii (Tarabová, 30. 6. 2026)
+
+Tarabová opakuje svou pozici, že virus nelze v laboratoři vytvořit tak, aby byl přenosný, a že „infekční teorie" (přenos nemoci mezi lidmi konkrétním patogenem) nebyla nikde na světě prokázána — proto odmítá i americký narativ o uměle vytvořeném viru z laboratoře ve Wu-chanu. Sleduje probíhající slyšení Senátu USA k COVID politice (lockdowny, roušky, vakcíny, vyšetřování okolí Anthonyho Fauciho) jako potenciální zdroj řešení, protože ČR je na to „malá zemička" — ale i tento proces považuje za „slepou uličku", protože podle ní útočí jen na laboratoře a konkrétní osoby, aniž by zpochybnil samotný předpoklad, že covid byl infekční onemocnění šířené virem.
+
+⚡ **Konflikt:** Viz výše — tvrzení je v rozporu s vědeckým konsensem o izolaci a přenosu SARS-CoV-2.
+
+**Zdroje:** [Tarabová — Videoportál: rozhovor s Patrikem Pečénkou, 30. 6. 2026](_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
 
 ---
 

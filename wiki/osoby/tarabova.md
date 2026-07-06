@@ -28,6 +28,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - NOS (Národní očkovací strategie) schválena neoprávněně vládou v demisi; WHO = soukromá organizace financovaná Gatesem — [NOS: hlasování výboru (30. 4.)](../_zdroje.md#lenka-tarabová--nos-hlasování-výboru-pro-zdravotnictví-30-4-2026)
 - Vakcíny způsobují autismus, ADHD, ekzémy, onko u dětí; „nátlaky jsou pro otroky" — [„Nejbezpečnější vakcína je žádná vakcína" (1. 5.)](../_zdroje.md#lenka-tarabová--nejbezpečnější-vakcína-je-žádná-vakcína-1-5-2026)
 - Léky na obezitu pro děti (Novo Nordisk/Wegovy, BlackRock) místo prevence — [Videoportál: Novo Nordisk (12. 6.)](../_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
+- **30. 6.** — testy (Diana Bion Technologies) nevalidovány dle SÚKL, ~600 mimořádných opatření je „právně nulitních"; požaduje zákon a odškodnění; i senátní vyšetřování USA jde „špatným směrem" (nezpochybňuje infekční teorii) — [Videoportál: rozhovor s Pečénkou (30. 6.)](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické — [Bagatelizace násilí na dětech (4. 4.)](../_zdroje.md#lenka-tarabová--bagatelizace-násilí-na-dětech-4-4-2026)
@@ -75,6 +76,8 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Miloš Zeman | ✅ pozitivní | „Můj prezident" — „má to v hlavě srovnané", podporuje PRO; výhrada jen k řádu Bílého lva pro Zelenského (rozhodnuto 2022) | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
 | Petr Kolář | ❌ negativní | Pavel je dle Tarabové jen jeho „hlásná trouba" | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
 | Marek Vašut | ✅ pozitivní | Tarabové favorit na prezidenta — přijatelný oběma stranami, miluje ČR, nehájí euro | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | Přiznal covidové chyby (leden 2026), ale bez nápravných kroků jeho slova „nic neznamenají" — chybí zákaz mRNA vakcín a vyšetřování poradních orgánů | 2026-06-30 | [Videoportál: rozhovor s Pečénkou](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026) |
+| Roman Prymula | ❌ negativní | „Ohromný střet zájmu" — měl by stát před soudem, ne vystupovat v médiích | 2026-06-30 | [Videoportál: rozhovor s Pečénkou](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026) |
 
 ---
 
@@ -100,3 +103,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [ČT stávka a občanská neposlušnost (20. 5. 2026)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
 - [Videoportál: Novo Nordisk (12. 6. 2026)](../_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
 - [Rozhovor pro TV Česko: prezidentský úřad (15. 6. 2026)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
+- [Videoportál: rozhovor s Patrikem Pečénkou (30. 6. 2026)](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
