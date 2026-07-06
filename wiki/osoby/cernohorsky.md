@@ -31,6 +31,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - ČT umlčuje primátora — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
 - **23. 6.** — ČT „scenzurovala" hymnu v podání Nohavicy = porušení Ústavy / Listiny čl. 17.3 („cenzura je nepřípustná"), připraveno předem, ČT „jde na ruku proukrajinským zájmům" a má být zrušena (žádné poplatky) — [ČT cenzura hymny 23. 6.](../_zdroje.md#jiří-černohorský--čt-cenzura-hymny-nohavica-23-6-2026)
 - **24. 6.** — ÚS a spor Pavel vs. Babiš o Ankaru = „velice nebezpečný precedent" (prezidentský systém bojuje s parlamentní demokracií); připomíná staré Babišovo varování o „loutce", co se „utrhne ze řetězu" — [ÚS precedent a Babišovo varování 24. 6.](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026)
+- **25. 6.** — ÚS „nahradil" parlamentní demokracii (soudní moc nemá vykládat, co má vláda dělat); výzva Babišovi rozhodnutí nerespektovat; podmíněná obava z „novodobého Pinočeta na Hradě"/cizí armády při eskalaci — [FB Live: ÚS nerespektovat 25. 6.](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
+- **25. 6.** — Bilance 33 let české politiky: „rozkradená země", Babiš jako výjimka (snížil schodek), vláda Fialy = „idioti" (Lipavský, Hladík, Černochová, Kupka, Rakušan) — [FB Live: ÚS nerespektovat 25. 6.](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - 90 mld. EUR EU pro Ukrajinu = faktický dárek (nesplacení) — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
@@ -186,6 +188,13 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Petr Pavel | ❌ negativní | „Kašpárek na kolobrndě", „uplakánek" — podal „směšnou" kompetenční žalobu k ÚS kvůli vyloučení z delegace do Ankary | 2026-06-24 | [ÚS precedent a Babišovo varování](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026) |
 | Andrej Babiš | ✅ pozitivní | Jeho staré předvolební video (varování před „loutkou", co se „utrhne ze řetězu", pokud se dostane na Hrad) hodnotí jako prorocké a pravdivé | 2026-06-24 | [ÚS precedent a Babišovo varování](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026) |
 | Petr Fiala | ❌ negativní | Spolu s „tleskači Milionu chvilek" si prý neuvědomuje, že jde o posun k prezidentskému systému na úkor parlamentní demokracie | 2026-06-24 | [ÚS precedent a Babišovo varování](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026) |
+| Josef Baxa | ❌ negativní | Předseda ÚS — grafická sexuální dehumanizace („felace Petru Pavlovi"); připomíná jeho vstup do KSČ v roce 1988 | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | Vyzývá ho nerespektovat rozhodnutí ÚS jako „lepší variantu"; zároveň chválen jako jediný premiér po letech, co snížil schodek rozpočtu | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
+| Petr Pavel | ❌ negativní | „Šašek", „imbecil", „kašpar na kolobrndě" — kompetenční žaloba k ÚS kvůli Ankaře hodnocena jako trapné, dětinské chování | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
+| Jan Lipavský | ❌ negativní | Ministr zahraničí — příklad „nekompetence" vlády Fialy (výrok o Nutelle v Německu) | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
+| Petr Hladík | ❌ negativní | Ministr životního prostředí — výrok „ČR se otepluje 2× rychleji než kdekoliv na světě" hodnocen jako nesmysl | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
+| Jana Černochová | ❌ negativní | Ministryně obrany — tričko „fuck off Putin", nekompetentní doporučení firmy; armáda ČR v „dezolátním stavu" kvůli jejímu odzbrojování | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
+| Vít Rakušan | ❌ negativní | „Ten by měl lozit kanálama" — dehumanizující urážka v kontextu jeho kritiky vlády Babiše | 2026-06-25 | [FB Live: ÚS nerespektovat](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026) |
 
 ---
 
@@ -226,3 +235,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Video 1300390062287902 (29. 5. 2026)](../_zdroje.md#jiří-černohorský--video-1300390062287902-29-5-2026)
 - [ČT cenzura hymny (Nohavica) (23. 6. 2026)](../_zdroje.md#jiří-černohorský--čt-cenzura-hymny-nohavica-23-6-2026)
 - [ÚS precedent a Babišovo varování (24. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026)
+- [FB Live: ÚS nerespektovat (25. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)

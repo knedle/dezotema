@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jiří Černohorský — „Novodobý Pinočet na Hradě" při eskalaci sporu ÚS vs. Babiš (25. 6. 2026)
+
+**Předpověď:** Podmíněná úvaha — pokud by Andrej Babiš odmítl respektovat rozhodnutí Ústavního soudu (akreditace Pavla na summit NATO) a spor by se vyhrotil, mohlo by to dle Černohorského vyústit až v „novodobého Pinočeta na Hradě" nebo v nasazení cizí armády (Bundeswehr / jednotky EU) na českém území. Sám ale odhaduje nízkou pravděpodobnost, protože český národ „nepůjde do ulic" a armáda ČR je kvůli předchozí vládní politice v „dezolátním stavu".
+
+> „Pokud by se to vyhrotilo, tak to může dojít k tomu, že budeme mít novodobýho Pinočeta na Hradě." — Jiří Černohorský
+
+**Horizont:** neurčeno (podmíněno eskalací sporu ÚS vs. vláda)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — FB Live: ÚS nerespektovat, 25. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
+
+---
+
 ### Ladislav Vrabel — Válka Bělorusko vs. NATO/Ukrajina možná „během pár dnů" (23. 6. 2026)
 
 **Předpověď:** Vrabel považuje za „docela reálné" a „vysoce pravděpodobné", že po Zelenského opakovaných výhrůžkách (a schválení úderů na běloruské rafinerie) Ukrajina — fakticky NATO přes Ukrajinu — během příštích pár dnů zaútočí na Bělorusko, čímž se konflikt rozšíří o další zemi (Rusko slíbilo Bělorusku vojenskou pomoc). Mírně eskaluje jeho [predikci z 20. 6.](#ladislav-vrabel--konflikt-s-běloruskem-nepřijde-před-summitem-nato-20-6-2026) (že konflikt nepřijde před summitem NATO).

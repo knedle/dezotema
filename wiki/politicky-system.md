@@ -268,6 +268,16 @@ V debatě 360° (**25. 6.**) Rajchl argumentaci rozvedl: předběžné opatřen�
 
 ---
 
+### ÚS „nahradil" parlamentní demokracii; výzva Babišovi rozhodnutí nerespektovat — Černohorský (25. 6. 2026)
+
+Černohorský ve více než hodinovém živém vysílání kauzu vyhrocuje na maximum. Argumentuje, že Ústavní soud jako soudní moc nemá právo „vykládat", co má vláda dělat — může zákon zrušit jako protiústavní, ale nemůže vládě přikazovat, jak konkrétně jednat vůči třetí straně (Pavlově účasti na summitu); v tom vidí zásah do dělby moci a nahrazení parlamentní demokracie. Vyzývá Andreje Babiše, aby rozhodnutí ÚS **nerespektoval**, i za cenu mediální bouře („co tady udělá modrožlutá banda, to je nepředstavitelné") — a naopak varuje, že podřízení se je „prohra, kterou si Petr Pavel bude vykládat jako vítězství". Zároveň přiznává obavu z eskalace: pokud by Babiš odmítl uposlechnout, mohlo by to podle něj vyústit až v „novodobého Pinočeta na Hradě" nebo nasazení cizí armády (Bundeswehr/jednotky EU) v ČR — odhaduje ale, že k tomu reálně nedojde, protože český národ „nepůjde do ulic" a armáda ČR je kvůli Černochové v „dezolátním stavu". Připomíná, že předseda ÚS Josef Baxa vstoupil do KSČ v roce 1988.
+
+> „Ústavní soud nemá právo nahrazovat parlamentní demokracii a vykládat něco, co vláda má dělat." — Jiří Černohorský, [FB Live 25. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
+
+**Zdroje:** [Černohorský — FB Live: ÚS nahradil parlamentní demokracii, 25. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr
@@ -440,6 +450,16 @@ Jindřich Rajchl obhajuje tvrdou politickou odvetu jako legitimní nástroj. Sch
 Vrabel přijímá nálepku „extrémisty" a obrací ji: říká, že je „pravdivostní (pravdicový) extrémista", protože pravda je z principu extrém — nelze ji „ředit" půlpravdami a kompromisy („stačí jedna kapka lži a otráví celou nádrž pravdy"). Odmítá českou konvenci „o nikom se nemluví, špínu pod koberec" jako mechanismus, který znemožňuje pojmenovat základní problémy a dostat se „z marastu".
 
 Jako příklad pokrytectví, které pojmenovává, uvádí Jindřicha Rajchla: tvrdí, že Rajchl „udával" lidi za politický názor (Robert Kutý — dosud podmínka, Kuba Jašek — psychologické vyšetření a ztráta práce, Robertův bratr za odznak „Z" a nášivku Wagner Group) a že jako student natáčel porno „pro německou společnost", ač dnes káže „hodnoty rodiny". Zdůrazňuje, že neřeší Rajchlovo soukromí, jen to, co sám zveřejnil — a kritizuje, že kvůli vlastnímu (s kameramanem natočenému a uploadnutému) videu s manželkou pak označil jeho zveřejnění za „útok na rodinu". Stejnou optikou „pokrytectví" zmiňuje Zemana (řád Bílého lva) i Konečnou (dříve v EP hlasovala pro migrační cesty z Afriky, dnes „vlastenka"). Srov. [Vrabelovo hodnocení Rajchla — Zmíněné osoby](osoby/vrabel.md#zmíněné-osoby).
+
+---
+
+### Bilance politiky od r. 1993: „rozkradená země", Babiš vs. „idioti" ve vládě Fialy — Černohorský (25. 6. 2026)
+
+Černohorský shrnuje 33 let české polistopadové politiky jako sled „podvodů a krádeží" (ODS, ČSSD) a tvrdí, že země byla „rozkradená doslova do písmene" — západní kapitál skoupil české pozemky, lesy i firmy, ze státního majetku nezůstalo prakticky nic. Jedinou výjimku vidí v **Andreji Babišovi**, který jako první premiér po letech dokázal snížit schodek státního rozpočtu (než ho zastavil covid). Ostře kontrastuje předchozí generaci politiků (Klaus, Zeman, Topolánek, Paroubek, Sobotka — „šmejdi, podvodníci", ale ne „idioti") se současnou vládní garniturou Petra Fialy, kterou označuje za „tupé", nekompetentní: ministr zahraničí **Jan Lipavský** (Nutella v Německu levnější/větší jako argument), ministr životního prostředí **Petr Hladík** („ČR se otepluje 2× rychleji než kdekoliv na světě"), ministryně obrany **Jana Černochová** (tričko „fuck off Putin", doporučení firmy od „bankovní úřednice"), ministr dopravy **Martin Kupka** i **Vít Rakušan** jsou dle něj příklady „debilů", které by v minulosti nikdo do vysoké politiky nepustil. Celou vládní koalici označuje za „fialovo-modrožlutou bandu" a srovnává současnou politickou scénu se sitcomem.
+
+> „Nikdy jste nemohli nikoho nazvat naprostým idiotem. A Fiala — tupej, blbej idiot, a obklopil se víceméně tím samým." — Jiří Černohorský, [FB Live 25. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
+
+**Zdroje:** [Černohorský — FB Live: ÚS nahradil parlamentní demokracii, 25. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 
 > „Pravda je extrém. [...] Tam nelze jinak, než být extrémista." — Ladislav Vrabel, [Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 

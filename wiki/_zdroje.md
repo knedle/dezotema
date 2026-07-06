@@ -2536,6 +2536,15 @@
 - **Poznámka:** Pokračování tématu z 24. 6. — Rajchl v debatě 360° rozebírá předběžné opatření ÚS (akreditace Pavla na summit NATO): jde o „zcela výjimečný nástroj", podle něj použitý „podruhé v historii" v podobném typu sporu; cituje disentní stanoviska soudců **Jaromíra Vintra a Veroniky Řepkové** (nástroj jen pro výjimečné případy s hrozbou mimořádné škody) — z Pavlovy cesty žádná mimořádná škoda nehrozí. Dvojí metr: u valorizace důchodů seniorů (podání existovalo) ÚS předběžné opatření sám nevydal, ač mohl. Opakuje podjatost předsedy ÚS **Josefa Baxy** (2019 demonstrace Milionu chvilek + podpis výzvy „chvilka pro rezignaci" k demisi Babiše) — „tím se sám spolitizoval". Moderátorka připomíná, že rozhodovalo 15 soudců (2 disenty, oba jmenováni Pavlem). Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Jiří Černohorský — FB Live: ÚS „nahradil" parlamentní demokracii, výzva Babišovi nerespektovat (25. 6. 2026) {#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-25_Jiří-Černohorský-Živě_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/100085862388850/videos/1039899518498865>
+- **Datum záznamu:** 2026-06-25
+- **Délka:** 01:14:54 | Pokračování kauzy ÚS/Pavel/Ankara + obecná bilance politiky
+- **Poznámka:** Dvě témata: (1) Vyhrocené pokračování kauzy z 24. 6. — Černohorský argumentuje, že ÚS coby soudní moc nemá právo „vykládat", co má vláda dělat (jen rušit zákony), a nahradil tak parlamentní demokracii; vyzývá Babiše, aby rozhodnutí nerespektoval, i za cenu mediální bouře. Varuje před rizikem eskalace („novodobý Pinočet na Hradě", nasazení Bundeswehru/armády EU), ale odhaduje, že k tomu nedojde (národ „nepůjde do ulic", armáda ČR „v dezolátním stavu" kvůli Černochové). Předseda ÚS Josef Baxa vstoupil do KSČ v roce 1988. (2) Bilance 33 let české politiky od 1993: země „rozkradená doslova do písmene", chválí Babiše za snížení schodku rozpočtu, ostře kritizuje ministry vlády Fialy jako nekompetentní (Lipavský, Hladík, Černochová, Kupka, Rakušan) — vs. minulá generace (Klaus/Zeman/Topolánek/Paroubek/Sobotka), kteří byli „šmejdi", ale ne „idioti". **Predikce:** podmíněná — pokud by konflikt ÚS/Babiš eskaloval, hrozí „novodobý Pinočet na Hradě" nebo nasazení cizí armády v ČR (odhaduje nízkou pravděpodobnost). **Stoch. teror:** graficko-sexuální degradace Josefa Baxy („dělají felaci Petru Pavlovi", „Baxa nastavil svůj anál"); Vít Rakušan „by měl lozit kanálama". Tematicky → [politicky-system.md](politicky-system.md).
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Idealizace socialistického Československa (25. 6. 2026) {#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026}
 - **Soubor:** [přepis](prepisy/done/2026-06-25_Ladislav-Vrabel_Videoportál.txt)
 - **Kanál:** Ladislav Vrabel (Facebook)
