@@ -2625,3 +2625,12 @@
 - **Délka:** 00:02:48 | Zhlédnutí: 20 055 | Reakce na kompromisní nabídku vlády v kauze Ankara
 - **Poznámka:** Pokračování kauzy ÚS/Pavel/Ankara — vláda Babiše rozhodla, že se Pavel zúčastní summitu jen omezeně (jedna neformální akce/večeře), Pavel to označuje za rozpor s předběžným opatřením ÚS. Černohorský to komentuje jako „marnost nad marnost" — Pavel nechápe, že ho ve vládě nikdo nechce; připomíná starší video, kde stál stranou při přípitku vlády po jmenování. Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (29. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-29-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-29_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1826203084827393>
+- **Datum záznamu:** 2026-06-29
+- **Délka:** 00:31:42 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
+- **Poznámka:** Tři zpracovaná témata: (1) Tři skutečně zásadní otázky summitu NATO — 70 mld. EUR ročně pro Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro ČR od Francie — [jaderne-zbrane.md](jaderne-zbrane.md). (2) Únik sítě „Dialog" Petera Thiela — 200 vlivných lidí rozhoduje bez demokratické kontroly, propojení s J. D. Vancem a Palantirem — [digitalni-kontrola.md](digitalni-kontrola.md). (3) Akcie Strnadovy zbrojovky −50 %, predikce krátkodobého růstu před summitem NATO a dlouhodobého zániku zbrojovek — [valka-nato-rusko.md](valka-nato-rusko.md). Ostatní zprávy (Benátská komise a Maďarsko, Lukašenko cesta do Asie, ruské útoky na Ukrajinu, Turecko/F-35/S-400, Írán-USA jednání, zemětřesení ve Venezuele) jen rychlý přehled bez samostatného zpracování. **Predikce:** akcie zbrojovek (viz [predikce.md](predikce.md)). Bez stoch. teroru.
+- **Zpracováno:** ano

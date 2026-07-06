@@ -97,3 +97,13 @@ Ke zprávě, že ruská FSB odhalila operaci zahraničních tajných služeb s n
 Francouzská zpravodajská agentura ukončila smlouvu s americkým Palantirem a nahradila ho domácím konkurentem; obavy o technologickou suverenitu EU vzrostly poté, co USA zablokovaly cizincům přístup k „hraničním modelům" společnosti Anthropic. Francie i Německo navíc přecházejí ve veřejné správě z Windows na Linux/open source. Vrabel to čte jako boj o moc mezi „nejvyššími patry globalistů" v USA a EU (USA odposlouchávaly i spojence za Merkelové) a jako rozdělení digitálního světa: Evropa nechce být přímo kontrolována a řízena z USA. Varuje ale, že to neznamená svobodu — kontrolu nad daty a chováním občanů jen převezme EU místo USA.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+
+---
+
+### Únik sítě „Dialog" Petera Thiela — 200 vlivných lidí rozhoduje bez demokratické kontroly (Vrabel, 29. 6. 2026)
+
+Na internet unikly interní záznamy ze soukromé sítě „Dialog" založené technologickým investorem Peterem Thielem — obsahují jména přes 200 účastníků z politiky, byznysu a technologického sektoru (únik způsobila chyba zabezpečení, ne hackerský útok). Vrabel to čte jako důkaz, že o životech lidí ve skutečnosti nerozhodují voliči, ale neveřejné skupiny vlivných osob bez jakékoli demokratické kontroly — přirovnává to k tomu, jak SPD dosadilo do vlády ministra obrany Jaromíra Zunu místo voliči zvoleného kandidáta (tam se to alespoň ví, kdo rozhoduje). Připomíná, kdo Thiel je: spoluzakladatel PayPalu (člen tzv. „PayPal mafie" s Elonem Muskem), hlavní sponzor viceprezidenta USA J. D. Vance (který pro něj dříve pracoval) a majitel firmy Palantir — technologie využívající umělou inteligenci k vyhodnocování bezpečnostních hrozeb a cílů, se schopností i vydat pokyn k jejich fyzické likvidaci. Thiela označuje za jednoho z nejnebezpečnějších a nejvýše postavených lidí současnosti.
+
+> „To je 200 vlivných lidí, kteří se scházejí a rozhodují o našich životech, aniž bychom věděli, kdo to je. To nemá s demokracií co dělat." — Ladislav Vrabel, [Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)

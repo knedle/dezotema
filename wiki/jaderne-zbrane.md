@@ -102,6 +102,16 @@ Výbor finského parlamentu pro obranu schválil návrh zákona umožňující d
 
 ---
 
+### Tři skutečně zásadní otázky summitu NATO: peníze, členství Ukrajiny, jaderné zbraně pro ČR (Vrabel, 29. 6. 2026)
+
+Vrabel tvrdí, že mediální spor o to, kdo povede českou delegaci na summitu NATO v Ankaře (Pavel vs. Babiš), je záměrné odvádění pozornosti od tří skutečně zásadních bodů jednání: (1) 70 mld. EUR ročně pro Ukrajinu na zbraně, (2) vstup Ukrajiny do NATO — což by znamenalo plnohodnotnou válku mezi NATO a Ruskem na území celé aliance, nejen na Ukrajině, a (3) vyzbrojení ČR jadernými zbraněmi od Francie — návrh, s nímž přišel Petr Pavel už v březnu 2026 a který v květnu/červnu potvrdil i Andrej Babiš (navazuje na [Jaderné zbraně v ČR: Babiš i Pavel shodně za, 19. 5. 2026](#jaderné-zbraně-v-čr-babiš-i-pavel-shodně-za-start-smlouva-skončila-19-5-2026)). Kritizuje česká média, že se místo těchto otázek věnují jen personální při o vedení delegace, a varuje, že bez ohledu na výsledek sporu o vedoucího delegace jsou to právě tyto tři body, které „naprosto jasně ohrožují naše životy".
+
+> „Tam vůbec nejde o to, jestli na samit NATO pojede Petr Pavel nebo nepojede. [...] Jde o to, jakým způsobem bude Česká republika hlasovat ke třem základním otázkám." — Ladislav Vrabel, [Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+
+---
+
 ### Francouzský jaderný arzenál +80 hlavic — nové kolo zbrojení (Vrabel, 9. 6. 2026)
 
 Podle zprávy SIPRI Francie mezi roky 2025 a 2026 zvýšila svůj jaderný arzenál zhruba o 80 hlavic na přibližně 730 a hlavní mocnosti modernizují arzenály. Vrabel to čte jako nové kolo jaderných závodů, před nímž varuje od roku 2022; jedinou cestou k trvalému míru jsou podle něj odzbrojovací smlouvy. Navazuje na [Jaderné odzbrojení jako jediná cesta k míru (6. 6.)](#jaderné-odzbrojení-jako-jediná-cesta-k-míru--výzva-vrabel-6-6-2026).

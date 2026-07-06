@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Akcie zbrojovek porostou před summitem NATO, dlouhodobě „budou zničeny" (29. 6. 2026)
+
+**Předpověď:** I když akcie Michala Strnada aktuálně klesly o 50 % kvůli spekulacím o konci války, Vrabel předpovídá jejich krátkodobý růst před červencovým summitem NATO v Ankaře (kde se očekává schválení zbrojních obchodů za desítky až stovky miliard dolarů). Dlouhodobě ale předpovídá opak: zbrojovky „jednoho dne budou zničeny, vyhozeny do povětří" a ztratí veškerou hodnotu, jejich vlastníci se budou muset skrývat v Jižní Americe.
+
+> „Uvidíme, jak dlouho to bude trvat, protože jednoho dne se to otočí, jednoho dne ty zbrojovky budou zničený." — Ladislav Vrabel
+
+**Horizont:** krátkodobě do summitu NATO (7.–8. 7. 2026), dlouhodobě neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+
+---
+
 ### Jiří Černohorský — Krize Polsko–Ukrajina povede k rozpadu Ukrajiny (28. 6. 2026)
 
 **Předpověď:** V souvislosti se zhoršujícími se vztahy mezi Polskem a Ukrajinou (kvůli pojmenování ukrajinské jednotky po UPA) Černohorský předpovídá, že by se na hranici s Ukrajinou mohla objevit polská armáda, a že celá situace může vyústit v rozpad/„konec" Ukrajiny. Pokud navíc Poláci začnou vyhošťovat ukrajinské uprchlíky, očekává další migrační vlnu do ČR.

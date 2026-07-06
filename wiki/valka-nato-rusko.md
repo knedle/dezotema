@@ -963,6 +963,16 @@ Vrabel kreslí historickou paralelu s protektorátním průmyslem přeměněným
 
 ---
 
+### Akcie Strnadovy zbrojovky −50 %; predikce dočasného růstu, dlouhodobě „vyhozeny do povětří" (Vrabel, 29. 6. 2026)
+
+Podle ankety ČTK mezi analytiky propadly akcie zbrojařských firem kvůli přestřelenému předchozímu růstu a spekulacím o konci války na Ukrajině — akcie Michala Strnada klesly o 50 %. Vrabel předpovídá, že před červencovým summitem NATO v Ankaře ceny opět porostou, protože se tam dohodnou zbrojní obchody za desítky až stovky miliard dolarů a lidé „lhostejní k lidským životům" budou znovu nakupovat. Dlouhodobě ale předpovídá opak: až se válka jednou obrátí, zbrojovky budou „zničeny, vyhozeny do povětří" a ztratí veškerou hodnotu, zatímco jejich vlastníci se budou skrývat v Brazílii nebo Argentině.
+
+> „Jednoho dne ty zbrojovky budou zničený, jednoho dne budou vyhozeny do povětří, ztratí veškerou hodnotu, a ty lidi, který jsou vlastníci těch zbrojovek, tak se budou snažit schovávat v Brazílii nebo v Argentině." — Ladislav Vrabel, [Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+
+---
+
 ### Euroclear: Rusko vyhrálo arbitráž o zmrazená aktiva — Vrabel chce platby z platů eurokomisařů (1. 6. 2026)
 
 Finanční depozitář Euroclear se odvolal proti rozhodnutí Moskevského arbitrážního soudu ve sporu o aktiva ruské centrální banky (pohledávka ~18,2 bilionu rublů). Vrabel připomíná, že EU čtyři roky drží zmrazená ruská aktiva, Ukrajině vyplácí úroky z jejich výnosů a uvažovala i o jejich úplné konfiskaci — Kaja Kallas prý tvrdila, že jako právnička si dokáže představit, „jak to udělat právně, aby to mohli ukrást." Tlak z USA a ECB tomu zabránil, proto si EU raději půjčila 90 miliard EUR. Rusko podle Vrabela podalo žalobu právem a vyhrálo; Euroclear se brání, protože platit nechce.

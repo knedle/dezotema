@@ -236,6 +236,9 @@
 - Dánsko/EU omezují dočasnou ochranu ukrajinským mužům v branném věku = „čistý fašismus" (+ karmická teze o SS v minulém životě) — [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
 - Nord Stream 2 žaluje EU u ESD, Pobaltí/Polsko žádají zákaz ruské ropy — řešením je vystoupit z EU — [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
 - Německý solární boom (1000 GW) — ČR se změní z vývozce na dovozce elektřiny — [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+- **29. 6.** — Tři zásadní otázky summitu NATO: 70 mld. EUR/rok pro Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro ČR od Francie — [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+- Únik sítě „Dialog" Petera Thiela — 200 vlivných lidí rozhoduje bez demokratické kontroly (propojení s J. D. Vancem, Palantirem) — [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+- Akcie Strnadovy zbrojovky −50 %, predikce dočasného růstu před summitem a dlouhodobého zániku zbrojovek — [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -594,6 +597,9 @@
 | Zdeněk Hřib | ⚖️ rozporuplný | Macinka ho zesměšnil za „modrou knížku"; Vrabel to obrací proti Macinkovi (sám bez vojny), ale nechává i Hřiba bez obhajoby | 2026-06-27 | [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026) |
 | Petr Macinka | ❌ negativní | Propagandistické video pro povinnou vojenskou službu; sám na vojně nebyl (modrá knížka), přitom v USA domlouvá zbrojní kontrakty — „velmi nechutná politika" | 2026-06-27 | [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026) |
 | Aleksandar Vučić | ⚖️ rozporuplný | Kritizuje, že pořádá vlastní státem řízenou demonstraci (jako u nás SPD s Landsmannschaftem) — ale jinak chválí jeho zahraniční i vnitřní politiku (levné ruské energie, obchod s Čínou, prosperita) | 2026-06-27 | [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026) |
+| Peter Thiel | ❌ negativní | „Jeden z nejnebezpečnějších, nejvýše postavených lidí" — provozuje tajnou síť „Dialog" (200 vlivných lidí), sponzor J. D. Vance, majitel Palantiru | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
+| J. D. Vance | ❌ negativní | Americký viceprezident — dříve pracoval pro Petera Thiela, který je jeho hlavním sponzorem; „Thiel stojí za ním a on stojí za Thielem" | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
+| Michal Strnad | ⚖️ rozporuplný | Akcie jeho zbrojovky klesly o 50 % — Vrabel předpovídá dočasný růst před summitem NATO, dlouhodobě ale zánik zbrojařského byznysu | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
 
 ---
 
@@ -665,3 +671,4 @@
 - [Idealizace socialistického Československa (25. 6. 2026)](../_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)
 - [Zprávy v devět 26. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 - [Zprávy v devět 27. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+- [Zprávy v devět 29. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
