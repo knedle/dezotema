@@ -357,7 +357,11 @@ Rajchl oceňuje okamžitou reakci polského prezidenta Nawrockého, který navrh
 
 Téma znovu otevřel **7. 6. 2026**: UPA označil za „čisté nacisty" (masakry žen a dětí, okupace části Slovenska do roku 1947), kontrastoval shodu napříč polským spektrem (Tusk i Nawrocki) s tím, že v ČR „všichni zbaběle mlčí", a připomněl korupci v Zelenského okolí (v Polsku zadržen bývalý náměstek ministra vnitra Bedrinsky za úplatek).
 
-**Zdroje:** [Rajchl — Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026), [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+Na tiskové konferenci **30. 6. 2026** Rajchl formálně oznámil, že poslanecký klub SPD přednese na koaliční radě návrh, aby Poslanecká sněmovna doporučila prezidentovi republiky odebrat Zelenskému Řád bílého lva — výslovně po vzoru Polska, kde k odebrání Řádu Bílé orlice došlo napříč celým politickým spektrem (koalice, opozice i Lech Wałęsa). Připomíná, že jednotky UPA vraždily Čechoslováky (spolu s Poláky a Židy na Volyni) až do roku 1947, kdy je porazila československá armáda v „akci B" (B = banderovci). Zdůrazňuje, že řád nese jméno T. G. Masaryka, který v roce 1926 (rozhovor pro Prager Tagblatt) označil fašismus za „sedlinu naší národní demokracie" — nikoli za okrajovou skupinu lidí, jak měl tvrdit (blíže neurčený) „pan Foltin". Vyjadřuje naději, že návrh podpoří napříč politickým spektrem i v ČR.
+
+> „Fašismus je tou sedlinou. [...] Je vysoce neúctivé, aby řád, jenž nese jméno tohoto celoživotního bojovníka proti fašismu, nesl člověk, jenž naopak fašismus minimálně omlouvá, či možná dokonce adoruje." — Jindřich Rajchl, [Videoportál 30. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
+
+**Zdroje:** [Rajchl — Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026), [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026), [Rajchl — Videoportál: návrh na odebrání řádu, 30. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
 
 ---
 

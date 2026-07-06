@@ -2634,3 +2634,12 @@
 - **Délka:** 00:31:42 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
 - **Poznámka:** Tři zpracovaná témata: (1) Tři skutečně zásadní otázky summitu NATO — 70 mld. EUR ročně pro Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro ČR od Francie — [jaderne-zbrane.md](jaderne-zbrane.md). (2) Únik sítě „Dialog" Petera Thiela — 200 vlivných lidí rozhoduje bez demokratické kontroly, propojení s J. D. Vancem a Palantirem — [digitalni-kontrola.md](digitalni-kontrola.md). (3) Akcie Strnadovy zbrojovky −50 %, predikce krátkodobého růstu před summitem NATO a dlouhodobého zániku zbrojovek — [valka-nato-rusko.md](valka-nato-rusko.md). Ostatní zprávy (Benátská komise a Maďarsko, Lukašenko cesta do Asie, ruské útoky na Ukrajinu, Turecko/F-35/S-400, Írán-USA jednání, zemětřesení ve Venezuele) jen rychlý přehled bez samostatného zpracování. **Predikce:** akcie zbrojovek (viz [predikce.md](predikce.md)). Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: návrh na odebrání řádu Zelenskému (30. 6. 2026) {#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-30_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1328454432820293>
+- **Datum záznamu:** 2026-06-30
+- **Délka:** 00:02:55 | Zhlédnutí: 35 421 | Tisková konference SPD
+- **Poznámka:** Pokračování tématu UPA (viz 31. 5. a 7. 6.) — Rajchl oznamuje formální návrh SPD, aby Poslanecká sněmovna doporučila prezidentovi odebrat Zelenskému Řád bílého lva, po vzoru Polska (Nawrocki odebral Řád Bílé orlice napříč celým politickým spektrem). Připomíná vraždění Čechoslováků UPA do roku 1947 („akce B") a cituje Masaryka (1926): fašismus je „sedlina naší národní demokracie". Tematicky → [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
