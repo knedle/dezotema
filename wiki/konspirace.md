@@ -334,6 +334,16 @@ Vrabel ve zprávách otevřel téma změny klimatu jako osobní pozorování: sl
 
 ---
 
+### ⚡ Konflikt: Rekordní vedro je normální, „žádné klimatické změny se nedějí" — Černohorský (28. 6. 2026)
+
+V reakci na teplotní rekord ČR (41,4 °C, překonání dřívějšího rekordu 40,4 °C z roku 2000) Černohorský tvrdí, že teploty kolem 40 °C nejsou v ČR ničím neobvyklým — odkazuje na vlastní přehled letních teplot od zániku ČSFR (1994) na svém Facebooku, podle něhož se teploty nad 35 °C objevují běžně „co dva roky". Uzavírá, že „žádné klimatické změny se nedějí" a označuje zastánce klimatických opatření (omezení fosilních paliv, aut, prosazování větrných elektráren) za „zelené, grindýlové fanatiky". Argumentuje, že ČR leží v mírném pásu (ne na poušti), takže by obnovitelné zdroje stejně nemohly nahradit fosilní/jadernou energii v poměru 50:50. Postoj je v přímém protikladu k Vrabelově opakované tezi o pozorovatelné změně klimatu (viz výše) — Vrabel klimatické změny bere jako fakt (byť s otevřenou příčinou), zatímco Černohorský jejich existenci rovnou popírá.
+
+> „Žádný klimatický katastrofy, prosím vás, nic takového se nekoná." — Jiří Černohorský, [FB Live 28. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+
+**Zdroje:** [Černohorský — FB Live: čl. 63, Polsko–Ukrajina, 28. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+
+---
+
 ### Babiš/digitální ID: věkové ověření na soc. sítích = sledování všech dospělých (Vrabel, 18. 5. 2026)
 
 Vrabel tvrdí, že Babiš svou schůzkou s Globální Leadership Exchange (organizace pro duševní zdraví a digitální závislost dětí) de facto zahájil prosazování digitálního ID v ČR. Logika kroků: 1) soc. sítě škodí dětem, 2) zavést věkový zákaz do 14 let, 3) aby se ověřilo, kdo má 14+, musí se ověřit každý uživatel digitální identitou. Výsledkem bude, že každý přihlášení na soc. síti bude vázán na občanský průkaz — stát i platformy budou vědět, kdo, kdy a co napsal, komu a o čem.

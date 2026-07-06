@@ -361,6 +361,16 @@ Téma znovu otevřel **7. 6. 2026**: UPA označil za „čisté nacisty" (masakr
 
 ---
 
+### Krize Polsko–Ukrajina eskaluje kvůli UPA; pochybnosti o Katyni a Smolensku; predikce rozpadu Ukrajiny (Černohorský, 28. 6. 2026)
+
+Černohorský navazuje na spor vyvolaný Zelenského pojmenováním vojenské jednotky po UPA (vyvraždění ~100 tisíc Poláků v letech 1943–44) — na rozdíl od Čechů jsou Poláci podle něj k urážkám svých padlých předků citliví a nenechají si to líbit; zmiňuje video údajného polského poslance pálícího vlajku Pravého sektoru a tvrzení, že Ukrajina Polsku vyhrožuje drony. Spekuluje, že by ho nepřekvapila tajná dohoda Polska s Ruskem na společné vojenské operaci. K tomu připojuje dvě otevřené pochybnosti: oficiální verzi Katyňského masakru nepovažuje za věrohodnou, a leteckou havárii polského prezidentského letadla u Smolenska (2010, zahynula celá polská vládní delegace) považuje za záměrnou akci s cílem zabránit polsko-ruskému usmíření. Předpovídá, že by se na hranici s Ukrajinou mohla objevit polská armáda a že situace může vyústit v rozpad/konec Ukrajiny — zejména pokud Poláci začnou vyhošťovat ukrajinské uprchlíky, což by vedlo k další migrační vlně do ČR.
+
+> „Ukrajincům z toho nebude moc dvakrát dobře [...] a zazvonil konec a Ukrajiny je konec." — Jiří Černohorský, [FB Live 28. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+
+**Zdroje:** [Černohorský — FB Live: čl. 63, Polsko–Ukrajina, 28. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+
+---
+
 ### Zelenskyj: peníze z prodeje Chelsea a „humanitární pomoc" na zbraně (Vrabel, 9. 6. 2026)
 
 Vrabel komentuje výzvu Zelenského v Londýně, aby ~2,4 mld. liber z prodeje fotbalového klubu Chelsea (Abramovič) — vyčleněných na humanitární pomoc — bylo použito na ukrajinskou protivzdušnou obranu a protiraketové systémy. Označuje to za starý vzorec „humanitární pomoci na zbraně" / „humanitárního bombardování" (paralela s Václavem Havlem).

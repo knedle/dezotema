@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jiří Černohorský — Krize Polsko–Ukrajina povede k rozpadu Ukrajiny (28. 6. 2026)
+
+**Předpověď:** V souvislosti se zhoršujícími se vztahy mezi Polskem a Ukrajinou (kvůli pojmenování ukrajinské jednotky po UPA) Černohorský předpovídá, že by se na hranici s Ukrajinou mohla objevit polská armáda, a že celá situace může vyústit v rozpad/„konec" Ukrajiny. Pokud navíc Poláci začnou vyhošťovat ukrajinské uprchlíky, očekává další migrační vlnu do ČR.
+
+> „Myslím si, že se objeví Polská armáda na hranicích Ukrajiny. [...] A zazvonil konec a Ukrajiny je konec." — Jiří Černohorský
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — FB Live: čl. 63, Polsko–Ukrajina, 28. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+
+---
+
 ### Ladislav Vrabel — ČR nakonec schválí 70 mld. dolarů pro Ukrajinu ze summitu NATO (26. 6. 2026)
 
 **Předpověď:** Bez ohledu na to, kdo povede českou delegaci na summitu NATO v Ankaře (Pavel nebo Babiš), Vrabel předpovídá, že vláda nakonec schválí požadovaných 70 mld. dolarů pro Ukrajinu — stejně jako v prosinci schválila 90 mld. Andrej Babiš prý bude nejprve předstírat odpor („že ne, že ne, že ne"), ale nakonec to podepíše. Odkazuje na svou dřívější úspěšnou predikci, že Petr Pavel na summit nakonec pojede navzdory počátečnímu odmítnutí.

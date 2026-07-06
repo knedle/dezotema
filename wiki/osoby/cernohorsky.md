@@ -34,6 +34,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **25. 6.** — ÚS „nahradil" parlamentní demokracii (soudní moc nemá vykládat, co má vláda dělat); výzva Babišovi rozhodnutí nerespektovat; podmíněná obava z „novodobého Pinočeta na Hradě"/cizí armády při eskalaci — [FB Live: ÚS nerespektovat 25. 6.](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 - **25. 6.** — Bilance 33 let české politiky: „rozkradená země", Babiš jako výjimka (snížil schodek), vláda Fialy = „idioti" (Lipavský, Hladík, Černochová, Kupka, Rakušan) — [FB Live: ÚS nerespektovat 25. 6.](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 - **26. 6.** — Eskalace: Pavel by neměl na summit jet vůbec, skutečným strůjcem je lobbista Petr Kolář (zbrojařské kšefty); predikuje, že vláda kauzu politicky ustojí — [FB Live: zklamání z Brna a eskalace ÚS 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
+- **28. 6.** — Právní rozbor čl. 63 (kontrasignace, Havlovo rozhodnutí 1993): Pavlův podpis bez vlády nemá váhu, jde jen o to vzít s sebou Koláře kvůli zbrojním kšeftům — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - 90 mld. EUR EU pro Ukrajinu = faktický dárek (nesplacení) — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
@@ -58,6 +59,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - NATO max 1,2–1,3 % HDP, 0,7 % přesměrovat do zdravotnictví; Juchelka VR brýle pro sestřičky = odtrženost od reality — [FB Live 22. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-22-5-2026)
 - Brno: čtení jmen 1 518 obětí nacistické okupace (Obrana národa 2) — stud z neznalosti 240 ulic pojmenovaných po hrdinech — [FB Live 2 (22. 5. 2026)](../_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
 - Zklamání z reakce na sjezd v Brně — slíbený otevřený dopis s podpisy se nikdy nerealizoval, vlastenecká scéna se tříští na stranické značky — [FB Live: zklamání z Brna 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
+- Krize Polsko–Ukrajina kvůli UPA — pochybnosti o Katyni a smolenské havárii 2010, predikce příchodu polské armády na hranice a rozpadu Ukrajiny — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Bitcoin kauza jako organizovaný zločin, Blažek jako „bílý kůň" — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -72,6 +74,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 ### [Konspirační teorie](../konspirace.md)
 - Sametová revoluce jako řízený rozpad, Havel a Schwarzenberg jako agenti Západu — [Brno a Landsmannschaft 6. 4. 2026](../_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
 - „Česko je plán" a příprava na připojení k Německu — [Česko je plán 14. 11. 2025](../_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
+- ⚡ Konflikt s Vrabelem: rekordní vedro je normální, „žádné klimatické změny se nedějí" — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -202,6 +205,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Petr Kolář | ❌ negativní | Označen za skutečného strůjce kauzy Ankara — lobbista domlouvající zbrojařské kšefty, obviněn ze „zabíjení dalších a dalších lidí"; terč explicitní násilné fantazie | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
 | Petr Pavel | ❌ negativní | „Míň než hovno v trávě" — pouhá „loutka/marioneta" Petra Koláře; terč explicitní násilné fantazie (vykopání, kopání až do Kyjeva) | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
 | Petr Macinka | ✅ pozitivní | „Velice inteligentní borec", ne hlupák — jeho ironické výroky („soudruh prezident") interpretovány jako záměrné vyjádření zoufalství nad Pavlem | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
+| Petr Kolář | ❌ negativní | Nový řádek: skutečný důvod cesty do Ankary — lobbista domlouvající zbrojní kontrakty (Strnadova zbrojovka +11 % akcie) bez kontroly vlády | 2026-06-28 | [FB Live: čl. 63, Polsko–Ukrajina](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Pojmenování jednotky po UPA rozdmýchalo krizi s Polskem; označen za „nacistické prase" | 2026-06-28 | [FB Live: čl. 63, Polsko–Ukrajina](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026) |
 
 ---
 
@@ -244,3 +249,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [ÚS precedent a Babišovo varování (24. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-ús-precedent-babišovo-varování-24-6-2026)
 - [FB Live: ÚS nerespektovat (25. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-ús-nerespektovat-25-6-2026)
 - [FB Live: zklamání z Brna a eskalace ÚS (26. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
+- [FB Live: čl. 63, Polsko–Ukrajina (28. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)

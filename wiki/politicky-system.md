@@ -298,6 +298,16 @@ V rozhovoru pro TN.cz Rajchl odmítá argument ÚS, že vyloučení Pavla z dele
 
 ---
 
+### Právní rozbor čl. 63: prezidentův podpis bez kontrasignace nemá váhu; skutečným cílem je vzít s sebou Koláře — Černohorský (28. 6. 2026)
+
+Černohorský jde do detailu ústavní argumentace o pravomocích prezidenta sjednávat mezinárodní smlouvy (čl. 63 Ústavy). Připomíná, že už Václav Havel rozhodnutím č. 144/1993 Sb. přenesl sjednávání většiny mezinárodních smluv na vládu a ministry — prezident tedy fakticky sám žádné texty smluv nevyjednává. Klíčový argument: i kdyby chtěl prezident nějakou smlouvu sjednat osobně, jeho podpis bez kontrasignace (spolupodpisu premiéra nebo pověřeného ministra) nemá žádnou právní váhu — vláda tak má nad zahraničněpolitickými kroky prezidenta absolutní kontrolu. Z toho vyvozuje, že skutečným smyslem Pavlovy touhy jet do Ankary není nic, co by vyžadovalo jeho osobní účast, ale to, aby s ním mohl letět poradce Petr Kolář — lobbista s vazbami na zbrojní průmysl, který podle Černohorského domlouvá kontrakty (např. se Strnadovou zbrojovkou) bez jakékoli kontroly vlády. Jako nepřímý důkaz uvádí neověřenou informaci, že akcie Strnadovy zbrojařské firmy po rozhodnutí ÚS vzrostly o 11 %. Zmiňuje také, že na summitu NATO se má schvalovat dalších 70 mld. EUR pro Ukrajinu — a to nikoli jednorázově, ale každoročně.
+
+> „Nutnost spolupodpisu [...] kdyby chtěl prezident nějakou smlouvu sjednat osobně, jeho podpis nemá žádnou váhu bez spolupodpisu, tedy té kontrasignace." — Jiří Černohorský, [FB Live 28. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+
+**Zdroje:** [Černohorský — FB Live: čl. 63, Polsko–Ukrajina, 28. 6. 2026](_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr
