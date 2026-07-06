@@ -115,7 +115,11 @@ Rajchl v živém vysílání z 19. dubna 2026 jde dál než zrušení poplatků:
 
 > „Nenuďte nás, abychom si platili propagandu, která nás pomlouvá, dehonestuje a lže o nás." — Jindřich Rajchl, [Organizovaný zločin v politice, 19. 4. 2026](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
 
-**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
+V poslanecké sněmovně (**26. 6. 2026**), v debatě odbočivší od služebního zákona k ČT (Marian Jurečka), Rajchl návrh zopakoval konkrétněji: nechť si ČT stanoví dobrovolný poplatek v libovolné výši (třeba 10 tisíc Kč měsíčně) a rozpočet klidně 50 miliard Kč ročně — ale jen od těch, kdo o službu stojí. Argumentuje, že by to politiky zcela vyvázalo z vlivu na veřejnoprávní média („my do toho nebudeme moci sáhnout") a přinutilo ČT soutěžit o diváka místo vysílání jen pro „eurounijní prokyjevskou" voličskou základnu. Odmítá logiku přirovnání k pojistnému systému — jde o platbu za konkrétní službu, kterou část platících odmítá a která je navíc uráží („dezoláti" apod.), a poukazuje na porušení etického kodexu ČT (čl. 23.4) při stávce redaktorů. Připomíná, že koalice poplatky zvýšila půl roku před volbami, ač to neslíbila.
+
+> „Chci si zaplatit za službu, která mě bude nějakým způsobem obohacovat, a ne která mě bude pomlouvat a urážet." — Jindřich Rajchl, [Videoportál: sněmovní debata o ČT, 26. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
+
+**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
 
 ---
 

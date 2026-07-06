@@ -2553,3 +2553,12 @@
 - **Délka:** 00:01:31 | Zhlédnutí: 9 242 | Krátké srovnání socialistického Československa s dneškem
 - **Poznámka:** Vrabel idealizuje socialistické Československo: ~220 tis. aktivních vojáků a obranné výdaje 5–10 % HDP, a přesto stát zajišťoval bezplatné vzdělání a zdravotní péči, důchod v 60 letech (ženy dříve), stavěl byty/silnice/elektrárny/přehrady/továrny/školy, pomáhal zemím třetího světa, nulová nezaměstnanost bez ohledu na rasu/vyznání, „neonacismus nemyslitelný", lepší práce Sboru národní bezpečnosti, výrazně méně organizovaného zločinu a narkomanů. Klíčový kontrast: tehdejší dluh ~3,7 mld $ vs. dnešní ČR 169 mld $ (3,5 bil. Kč). V popisu dodává tezi o rozkrádání: „dřív se rozkradlo třeba 10 %, ale vrátilo se to do oběhu, dnes se krade mnohem víc a velká část se odváží ven ze země". Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026) {#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-26_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1749959576415470>
+- **Datum záznamu:** 2026-06-26
+- **Délka:** 00:06:00 | Zhlédnutí: 121 816 | Faktické poznámky v Poslanecké sněmovně (debata odbočila od služebního zákona k ČT)
+- **Poznámka:** Rajchl v reakci na Mariana Jurečku a Piráty opakuje a rozvádí návrh dobrovolných koncesionářských poplatků ČT (viz [Organizovaný zločin v politice, 19. 4. 2026](media-propaganda.md#rajchl-dobrovolné-koncesionářské-poplatky-jako-jediné-spravedlivé-řešení)): kdo chce, zaplatí i vysokou částku (rozpočet klidně 50 mld. Kč), kdo nechce, neplatí nic — argumentuje, že to zcela vyváže ČT z politického vlivu a donutí ji soutěžit o diváka. Odmítá logiku pojistného systému, poukazuje na porušení etického kodexu ČT (čl. 23.4) při redaktorské stávce a na zvýšení poplatků koalicí půl roku před volbami navzdory opačným slibům. Tematicky → [media-propaganda.md](media-propaganda.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
