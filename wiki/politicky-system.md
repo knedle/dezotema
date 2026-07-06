@@ -308,6 +308,22 @@ V dalším rozhovoru Rajchl doplňuje důvod, proč by Pavel neměl na summit NA
 
 ---
 
+### Únik dokumentu MO o dopravě 35 osob do Ankary usvědčuje Hrad ze lži — Černohorský (3. 7. 2026)
+
+Černohorský poukazuje na to, že média zveřejnila dokument z ministerstva obrany (se jmenovaným zdrojem) obsahující žádost o leteckou přepravu 35 osob do Ankary — přestože Hrad předtím veřejně popíral, že by taková žádost vůbec existovala. Argumentuje, že pokud by šlo o padělek, jmenovaný úředník by se okamžitě ozval a označil dokument za fake, což se nestalo — považuje to tedy za usvědčení Petra Pavla ze lži.
+
+**Zdroje:** [Černohorský — FB Live: letní sestřih (3. 7. 2026)](_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
+
+---
+
+### Kontroverzní projev v Terezíně: přeživší „taky dělali chyby" — omluva za 3 dny (Černohorský, 3. 7. 2026)
+
+Černohorský ostře kritizuje Pavlův proslov při pietním aktu v Terezíně, kde měl prezident naznačit, že i přeživší nacistické okupace (včetně těch, kdo se po válce mstili retribucemi) se dopouštěli „chyb" — Černohorský to interpretuje jako srovnávání viny obětí s viníky. Argumentuje, že nikdo nemá právo hodnotit činy lidí, kteří prošli šesti lety okupace, perzekuce a nucených prací, natož je stavět na roveň pachatelům. Výrok vyvolal okamžitou kritiku a Pavel se za tři dny v mainstreamových médiích omluvil s tím, že to „takhle nemyslel" — Černohorský to považuje za další důkaz, že jde o „křiváka" neschopného postavit se rovně za vlastní slova.
+
+**Zdroje:** [Černohorský — FB Live: letní sestřih (3. 7. 2026)](_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
+
+---
+
 ### Právní rozbor čl. 63: prezidentův podpis bez kontrasignace nemá váhu; skutečným cílem je vzít s sebou Koláře — Černohorský (28. 6. 2026)
 
 Černohorský jde do detailu ústavní argumentace o pravomocích prezidenta sjednávat mezinárodní smlouvy (čl. 63 Ústavy). Připomíná, že už Václav Havel rozhodnutím č. 144/1993 Sb. přenesl sjednávání většiny mezinárodních smluv na vládu a ministry — prezident tedy fakticky sám žádné texty smluv nevyjednává. Klíčový argument: i kdyby chtěl prezident nějakou smlouvu sjednat osobně, jeho podpis bez kontrasignace (spolupodpisu premiéra nebo pověřeného ministra) nemá žádnou právní váhu — vláda tak má nad zahraničněpolitickými kroky prezidenta absolutní kontrolu. Z toho vyvozuje, že skutečným smyslem Pavlovy touhy jet do Ankary není nic, co by vyžadovalo jeho osobní účast, ale to, aby s ním mohl letět poradce Petr Kolář — lobbista s vazbami na zbrojní průmysl, který podle Černohorského domlouvá kontrakty (např. se Strnadovou zbrojovkou) bez jakékoli kontroly vlády. Jako nepřímý důkaz uvádí neověřenou informaci, že akcie Strnadovy zbrojařské firmy po rozhodnutí ÚS vzrostly o 11 %. Zmiňuje také, že na summitu NATO se má schvalovat dalších 70 mld. EUR pro Ukrajinu — a to nikoli jednorázově, ale každoročně.

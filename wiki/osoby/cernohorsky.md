@@ -36,6 +36,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **26. 6.** — Eskalace: Pavel by neměl na summit jet vůbec, skutečným strůjcem je lobbista Petr Kolář (zbrojařské kšefty); predikuje, že vláda kauzu politicky ustojí — [FB Live: zklamání z Brna a eskalace ÚS 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 - **28. 6.** — Právní rozbor čl. 63 (kontrasignace, Havlovo rozhodnutí 1993): Pavlův podpis bez vlády nemá váhu, jde jen o to vzít s sebou Koláře kvůli zbrojním kšeftům — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 - **29. 6.** — Vláda nabídla kompromis (Pavel jen na jednu neformální akci); „marnost nad marnost" — Pavel stále nechápe, že ho vláda nechce — [Videoportál: marnost nad marnost 29. 6.](../_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
+- **3. 7.** — únik dokumentu MO o dopravě 35 osob usvědčuje Hrad ze lži; kontroverzní projev v Terezíně (přeživší „taky dělali chyby") — [FB Live: letní sestřih 3. 7.](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - 90 mld. EUR EU pro Ukrajinu = faktický dárek (nesplacení) — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
@@ -62,6 +63,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Zklamání z reakce na sjezd v Brně — slíbený otevřený dopis s podpisy se nikdy nerealizoval, vlastenecká scéna se tříští na stranické značky — [FB Live: zklamání z Brna 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 - Krize Polsko–Ukrajina kvůli UPA — pochybnosti o Katyni a smolenské havárii 2010, predikce příchodu polské armády na hranice a rozpadu Ukrajiny — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 - Zákaz spalovacích motorů 2035 (Green Deal) jako příčina krachu VW/Mercedes/BMW — americká cla + čínské dotované elektromobily — [Videoportál: krach automobilového průmyslu 2. 7.](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
+- Pavel podporuje euro a vzdání se práva veta v zahraniční politice ve prospěch EU — [FB Live: letní sestřih 3. 7.](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Bitcoin kauza jako organizovaný zločin, Blažek jako „bílý kůň" — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -258,3 +260,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: marnost nad marnost (29. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
 - [Videoportál: Grolich žebrá o peníze (30. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
 - [Videoportál: krach automobilového průmyslu (2. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
+- [FB Live: letní sestřih (3. 7. 2026)](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)

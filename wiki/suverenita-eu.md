@@ -30,6 +30,16 @@ Paralelně v FB live z 26. dubna cituje data: 70 % občanů ČR si euro nepřeje
 
 ---
 
+### Pavel podporuje euro a chce se vzdát práva veta v zahraniční politice — Černohorský (3. 7. 2026)
+
+Černohorský rozšiřuje kritiku Pavlova postoje k suverenitě o dva konkrétní body. Zaprvé, Pavel měl veřejně prohlásit, že „česká koruna je k ničemu" a brání rozvoji, a že je třeba přijmout euro — Černohorský to odmítá s odkazem na zdražení života na Slovensku po zavedení eura v roce 2009 a na to, že vlastní měnová politika (ČNB, úrokové sazby) je jedna z mála zbylých forem české suverenity. Zadruhé, Pavel měl podporovat zrušení práva veta ČR v některých zahraničněpolitických otázkách ve prospěch Evropské unie/Evropského parlamentu/Evropské komise — Černohorský se ptá, zda by se to týkalo i Benešových dekretů, na které si dělá nárok Německo i Maďarsko.
+
+> „Nějaké euro? Ty vole, jděte s tím do prdele! [...] Prezident České republiky? Ne, tohle je zaprodanec, kolaborant a velezrádce." — Jiří Černohorský, [FB Live: letní sestřih, 3. 7. 2026](_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
+
+**Zdroje:** [Černohorský — FB Live: letní sestřih, 3. 7. 2026](_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
+
+---
+
 ### Kolaborant = kdo chce euro a zrušení veta, ne kdo jedná s Ruskem
 
 Rajchl v krátkém videu z 11. dubna 2026 přeformuloval pojem „kolaborace" v reakci na diskusi o Maďarsku: za kolaboranta neoznačuje toho, kdo obchoduje s Ruskem nebo hájí maďarské právo veta, ale toho, kdo chce nutit ČR přijmout euro a zrušit právo veta v EU. Tím přímo napadá oponenty označující ekonomické kontakty s Ruskem za kolaboraci. Jako „neférové zasahování" označuje aktivity EU prostřednictvím paktu DSA a tajných služeb ve volbách v Maďarsku — oproti tomu otevřenou americkou podporu konzervativní vlády považuje za standardní politiku; o tomto rozdílu mluvil i JD Vance.
