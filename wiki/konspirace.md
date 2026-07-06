@@ -295,6 +295,14 @@ Ve vysílání z 26. 5. 2026 Zítko přidal klíčový „důkaz" korporátní p
 
 ---
 
+### ⚡ Konflikt: Vrabel odmítá teorii o pokračující existenci Československa — Zítko/Konspirátor vs. Vrabel
+
+V reakci na diváckou poznámku o „karmě" plynoucí z toho, že „jsme stále Československo, jen v tom žijeme v iluzi", Vrabel teorii o právním pokračování ČSR přímo odmítá — na rozdíl od Zítkovy a Konspirátorovy opakované argumentace (zákon 11/1918, admiralty law, viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026)). Argumentuje, že Československo se rozdělilo na ČR a Slovensko, obě země uznal celý svět včetně OSN, a žádný soud nepřipustí argument, že by protizákonnost rozdělení (kterou sám připouští jako fakt) znamenala pokračující existenci společného státu — jde podle něj o „iluzi několika lidí", kterou neuznává ani většina národa, natož Slovensko. Odmítá i tvrzení, že ČR je ve skutečnosti soukromá „LTD" nebo „s.r.o." společnost: pokud taková firma s názvem „Česká republika LTD" v Británii existuje, je to jen běžně založená soukromá firma bez vztahu ke státu, který má vlastní ústavu, hranice, prezidenta, parlament i vládu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
 ### Aljaška: pronájem na 99 let — Bělousov, Romanovci a Trump-Putin — Zítko (20. 5. 2026)
 
 Zítko ve vysílání 20. 5. 2026 přijal a prezentoval konspirologický výklad o tzv. „případ Aljaška":

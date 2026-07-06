@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Rusko provede preventivní úder na místa s jadernými zbraněmi u svých hranic (4. 7. 2026)
+
+**Předpověď:** Až si bude Rusko jisté chystaným útokem na svém území, provede preventivní vojenský úder (analogický 24. únoru 2022 vůči Ukrajině) na území, kde by mohly být umístěny zbraně ohrožující Rusko — týkalo by se to zemí s dlouhým doletem raket blízko ruských hranic, jako Litva, Lotyšsko, Estonsko a Finsko, které aktuálně ruší zákazy umístění jaderných zbraní.
+
+> „Předpokládám, že Rusové budou dělat podobnou věc, jakou udělali 24. února roku 2022 směrem k Ukrajině." — Ladislav Vrabel
+
+**Horizont:** neurčeno (podmíněno dalším rozmístěním jaderných zbraní v Pobaltí/Finsku)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
 ### Jindřich Rajchl — Babiš bude v zákulisí podporovat půjčku Ukrajině i přes veřejné výhrady (3. 7. 2026)
 
 **Předpověď:** Rajchl je „naprosto jednoznačně přesvědčen", že Andrej Babiš bude na summitu NATO v zákulisí podporovat 70 mld. dolarů pro Ukrajinu i muniční iniciativu, bez ohledu na veřejně deklarované výhrady — protože tuto podporu poskytoval „vždycky".

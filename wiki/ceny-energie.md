@@ -307,3 +307,11 @@ Vrabel staví Srbsko jako protiklad „šikany" v ČR/EU a uvádí dva konkrétn
 Vrabel upozorňuje na plán Německa vybudovat až 1000 gigawattů solárních kapacit, což podle něj zásadně změní evropskou energetickou soustavu: ČR, která byla ještě v roce 2022 čistým vývozcem elektřiny v Evropě, se stane čistým dovozcem a bude draze nakupovat elektřinu z Německa vyrobenou ze slunce. Odpovědnost klade na Fialovu i Babišovu vládu (a jmenovitě na Petra Macinku, který byl 8. května na oslavě konce 2. světové války v Německu) za to, že ČR neinvestovala včas do vlastní energetické soběstačnosti a nechala „odevzdat" tento zdroj příjmů Německu. Zmiňuje také, že Německo plánuje ukončit spalování uhlí až v roce 2038 (hnědé uhlí o 8 let dříve), zatímco ČR se od uhlí odklání rychleji, přestože ho stále částečně dováží z Austrálie.
 
 **Zdroje:** [Vrabel — Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+
+---
+
+### Ázerbájdžán/Arménie „diverzifikace" energie od Ruska; Trump hrozí EU ukončením dodávek (Vrabel, 4. 7. 2026)
+
+EU vysílá do Arménie skupinu expertů, aby pomohli diverzifikovat její energetické zdroje (obdoba již etablované role Ázerbájdžánu jako náhradního dodavatele po přerušení ruského plynu) — Vrabel to čte jako stejný mechanismus, jaký zažila ČR: nahrazení levné ruské energie dražší z USA se pak eufemisticky nazývá „diverzifikace rizik". Zmiňuje i aktuální hrozbu Donalda Trumpa: pokud EU do 4. 7. nesplní jeho obchodní požadavky (zrušení cel na americké zboží, zatímco evropský vývoz do USA je zatížen 15% clem), USA přestanou EU dodávat energie.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)

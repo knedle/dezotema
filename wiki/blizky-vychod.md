@@ -379,6 +379,14 @@ Izraelské ministerstvo obrany oznámilo úspěšné testy modernizované verze 
 
 ---
 
+### Medvedev: útok USA na Írán je „zhroucení mezinárodního práva" — Vrabel žádá mezinárodní izolaci USA (Vrabel, 4. 7. 2026)
+
+Místopředseda ruské bezpečnostní rady Dmitrij Medveděv ostře kritizoval postup USA vůči Íránu jako nevyprovokovanou agresi a „zhroucení systému mezinárodního práva" — Írán dle něj nepředstavoval pro USA bezprostřední hrozbu a spor měl řešit diplomaticky, případně Rada bezpečnosti OSN. Vrabel s Medveděvem stoprocentně souhlasí a tvrdí, že USA při útoku na Írán bezdůvodně zabily přes sto dětí/dívek (v přepisu zaznělo číslo 136, Vrabel si nebyl jistý přesným počtem a plete si ho s ruským úderem na internát v Rusku). Zdůrazňuje, že nesympatizuje s íránským režimem (kritizuje nerovnoprávnost žen v islámu), ale řešením takového režimu podle něj není válka a zabíjení civilistů, nýbrž prosazování práv žen jinou cestou. Volá po tom, aby se „celý svět spojil" a USA potrestal — vojensky je izoloval mezi oceány a nechal je hospodařit jen s vlastním dolarem; zdůrazňuje, že si nepřeje kolaps ani bankrot USA, jen konec jejich zasahování do ostatních zemí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
 ### Nepsaná pravidla mezi hlavami států — USA varovaly Írán před dalším atentátem, kontrast s Venezuelou (Vrabel, 3. 7. 2026)
 
 Írán se připravuje na masový smuteční obřad (odhad až 20 mil. lidí) za zabitého nejvyššího vůdce; současně vyšlo najevo, že USA během konfliktu tajně varovaly Teherán před izraelským plánem zabít další vrcholné íránské představitele, se kterými chtěl Washington po konci války jednat. Vrabel z toho vyvozuje obecnou úvahu o diplomacii: mezi hlavami států platí nepsaná pravidla vzájemného respektu k funkci (ne k osobě), díky nimž zůstávají otevřené dveře k jednání — příkladem je podle něj i to, že Rusko mohlo Zelenského „milionkrát" zabít, ale neudělalo to. Kontrastuje to s přístupem USA: v Íránu rovnou „pozabíjeli celé vedení", a k venezuelskému exprezidentovi Nicolási Maduru, drženému ve vězení v USA, se objevila fotografie vyhublého, vyhladovělého muže — Vrabel připouští, že jde pravděpodobně o ilustrační obrázek vytvořený umělou inteligencí (přístup k Madurovi ve vězení není reálný), ale považuje za věrohodné, že ho tam Američané skutečně mučí hladem. Celkově to čte jako důkaz, že USA po rozpadu východního bloku obvykle nevyjednávají, ale likvidují režim, dosazují loutky a „všechno rozkradou".

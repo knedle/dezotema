@@ -464,7 +464,7 @@ Rajchl ve vysílání z 31. 5. 2026 odkazuje na data ÚZISu, která zveřejnila 
 
 Pavel Zítko formuluje podmínku, za níž se kauza covidu uzavře: „Tečka za covidem bude, až všichni odpovědní budou stát před tribunálem a budou čelit spravedlivému trestu." Cituje německého lékaře Güntera Franka. COVID tour je přímou cestou k naplnění tohoto cíle — sbírání podpisů, osvěta a tlak na politiky.
 
-**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026), [Zítko — petice za prezidentem, 2026-03-31](_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
+**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026), [Zítko — petice za prezidentem, 2026-03-31](_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3), [Československo TV2 — Videoportál 3. 7. 2026](_zdroje.md#československo-tv2--videoportál-3-7-2026)
 
 ---
 

@@ -247,6 +247,9 @@
 - Německo obžalovalo Ukrajince za Nord Stream, potvrzeno zapojení ukrajinského státu — [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 - Dvojí metr: pašeráci dronů na Ukrajinu bez trestu vs. jeho vlastní odsouzení za chybu ve formuláři — [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 - Rostoucí nerovnost v ČR (Knight Frank) + centralizace moci „shora" (BlackRock/Vanguard) — [Zprávy v devět 2. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+- **4. 7.** — AfD sjezd v Erfurtu: globalismus útočí na stát/národ/náboženství/rodinu — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- Trump „komunista nebo vlastenec" + Vrabelova esej o americké historii (genocida, otroctví, petrodolar) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- Von der Leyen: bez nových vlastních zdrojů klesne rozpočet EU o 40 % — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -272,6 +275,7 @@
 - Uhlíkové kredity — systém prohloubí nerovnost: chudí prodají, bohatí koupí — [Nedělní vysílání 24. 5.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 - **21. 6.** — Srbsko vs. ČR: plán EU omezit noční elektřinu domácnostem, studna/voda jako „státní bohatství" + statisícové pokuty, v Srbsku elektřina ~2 Kč a svoboda (pálenka, bez povinného očkování) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - **22. 6.** — Západní dystopie: Německo zvyšuje důchodový věk na 73, Kanada eutanazie (50 tis., i psychicky nemocní), ČR zvyšuje odchod do důchodu — stát potřebuje peníze na válku (vyšší schodek 2027) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- Ázerbájdžán/Arménie „diverzifikace" energie od Ruska; Trump hrozí EU ukončením dodávek — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 
@@ -297,6 +301,8 @@
 - **21. 6.** — CIA „napsala" převrat 1989 a dosadila Klaus/Havel/Zeman (Aspen Institute), „prezidenta vybírá CIA" — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - Biolaboratoře na Ukrajině (Larry Johnson) + migrace jako Kalergiho plán / „rozděl a panuj" (zopakováno) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - **23. 6.** — Sense8 (Wachowski): společnost rozdělena vertikálně (elity vs. lid), ne horizontálně — elity vytvářejí konflikty, aby si udržely bohatství; Albánie/Srbsko protesty proti Kushnerovým rezortům jako vzor odporu lidu — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- ⚡ Medvedev kritizuje útok USA na Írán jako „zhroucení mezinárodního práva" — Vrabel žádá mezinárodní izolaci USA — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -353,6 +359,14 @@
 - Ukrajina a Německo zřizují pracovní skupinu na násilný návrat mužů v brančím věku; dvojí metr vůči migrantům z islámských zemí — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) → [migrace.md](../migrace.md)
 - Izrael testuje Iron Dome/Iron Beam — obrana vs. „Velký Izrael" — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 - USA tajně varovaly Írán před dalším atentátem; nepsaná diplomatická pravidla vs. Maduro — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
+- **4. 7.** — Poslanec Matecki v polském Sejmu kritizuje Ukrajinu za velebení UPA — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- Rusko oznámilo dobytí Konstantinovky, Zelenskyj vyzývá Putina na schůzku tam — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- Putin: bezpečnostní pásmo dle intenzity úderů → predikce preventivního úderu na Pobaltí — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [predikce.md](../predikce.md)
+- Ukrajinský dronový útok na ropný terminál u Petrohradu — vtažení NATO do konfliktu, ne vítězství — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- BRICS se mění z obchodního uskupení na bezpečnostní pakt kvůli USA/Íránu — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- EU otevře 8. 7. šestý klastr přístupových jednání s Ukrajinou — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [konspirace.md](../konspirace.md)
+- MO koupilo bytový komplex v Jincích pro vojáky; vlastní vzpomínka na šikanu na vojně — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 
 ---
 
@@ -631,6 +645,11 @@
 | Andrej Babiš | ❌ negativní | Tvrdí, že ČR neplatí Ukrajině, přitom už schválil 30 z 70 mld. eur — označeno za lež | 2026-07-03 | [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) |
 | Tomio Okamura | ❌ negativní | Stejně jako Babiš veřejně tvrdí, že ČR neplatí Ukrajině, přestože k tomu dal mandát vlády | 2026-07-03 | [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) |
 | Nicolás Maduro | ○ neutrální | Zmíněn ve vazbě v USA — vyhublá fotka (pravděpodobně AI), Vrabel považuje za věrohodné, že je mučen hladem | 2026-07-03 | [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) |
+| Dariusz Matecki | ✅ pozitivní | Poslanec PiS kritizoval v Sejmu Ukrajinu za velebení UPA — Vrabel oceňuje „aspoň trošku zdravého rozumu", ale považuje to za nedostatečné | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Vyzval Putina na schůzku v dobité Konstantinovce — Vrabel: „plácnutí do vzduchu", Zelenskyj je na jednání s Putinem „opravdu malý pán" | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
+| Vladimir Putin | ✅ pozitivní | Oznámení o rozšiřování „bezpečnostního pásma" bere jako logické a promyšlené; souhlasí s Medveděvovou kritikou USA | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
+| Dmitrij Medveděv | ✅ pozitivní | Jeho kritiku útoku USA na Írán jako „zhroucení mezinárodního práva" Vrabel stoprocentně sdílí, chválí ho jako vzdělaného člověka s dobrým historickým přehledem | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
+| Petr Macinka | ❌ negativní | Projev o tom, že česká svoboda pochází ze svobody USA — Vrabel: „už prostě nevidí svět takový, jaký je" | 2026-07-04 | [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) |
 
 ---
 
@@ -707,3 +726,4 @@
 - [Facebook Live: rozhovor s Petrem Budešem (30. 6. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
 - [Zprávy v devět (2. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 - [Zprávy v devět (3. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+- [Zprávy v devět (4. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)

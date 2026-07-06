@@ -268,6 +268,22 @@ Vrabel popisuje eskalaci vůči Bělorusku: Zelenský prý otevřeně pohrozil, 
 
 ---
 
+### Rusko oznámilo dobytí Konstantinovky — Zelenskyj vyzývá Putina na schůzku přímo tam (Vrabel, 4. 7. 2026)
+
+Náčelník ruského generálního štábu Valerij Gerasimov oznámil dobytí Konstantinovky v Doněcké oblasti (Kyjev to popírá a mluví o pokračující obraně); podle ruské strany bránilo město ~13 500 ukrajinských vojáků ve dvou kruzích zákopů (150 km) s těžkou technikou včetně dělostřelectva z české muniční iniciativy — většina obránců byla dle Ruska zlikvidována. Zelenskyj v reakci vyzval Putina k osobní schůzce přímo v Konstantinovce, aby si ověřil skutečnou situaci na místě. Vrabel to označuje za „plácnutí do vzduchu" — Putin řekl, že se Zelenským bude jednat nanejvýš v Moskvě, a k pádu Konstantinovky spíš věří ruské verzi než dosavadní ukrajinské válečné propagandě (odkazuje na [kritiku Fedorova v ukrajinském parlamentu, 3. 7.](#tck-brutalita-a-nespokojenost-v-ukrajinském-parlamentu--66--chce-mír-vrabel-3-7-2026)). Predikuje, že ruská armáda bude postupovat směrem na Kramatorsk a fakticky ovládne celou Doněckou oblast.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
+### Ukrajinský dronový útok na ropný terminál u Petrohradu — vtažení NATO do konfliktu, ne vítězství (Vrabel, 4. 7. 2026)
+
+Ukrajinský dronový útok zasáhl ropný terminál a přístavní infrastrukturu v Leningradské oblasti poblíž Petrohradu — ruské úřady ho označily za jeden z největších dronových útoků v regionu; Zelenskyj potvrdil úder na cíle „podporující ruské válečné úsilí". Vrabel zdůrazňuje asymetrii sil: Rusko je jaderná velmoc s vlastní výrobou zbraní, Ukrajina má necelých 20 milionů obyvatel a musí „lovit" starší muže na ulicích, aby měla vojáky. Skutečným cílem takových útoků hluboko na ruské území proto podle něj není vojenské vítězství (Rusko nelze „zlikvidovat"), ale vyprovokování tvrdší ruské odpovědi a vtažení evropských zemí NATO přímo do konfliktu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
 ## Stav Ukrajiny a mobilizace
 
 ### Výzva Zemanovi: odebrat Zelenskému Řád bílého lva (Vrabel, 2. 6. 2026)
@@ -487,6 +503,14 @@ Poslanec ukrajinského parlamentu veřejně kritizoval ministra Fedorova za tvrz
 K vlastnímu tématu tříměsíční povinné vojenské služby (viz [Macinka prosazuje povinnou vojenskou službu, 26.–27. 6.](#petr-macinka-prosazuje-povinnou-tříměsíční-vojenskou-službu--vrabel-varuje-muže-v-branném-věku-26-6-2026)) Vrabel doplňuje zprávu od známého ze Srbska, kde se zavádí stejně dlouhá (tříměsíční) povinná vojenská služba — vojákům tam nově pořizují herny s Playstation na volný čas. Klíčový rozdíl je ale podle Vrabela v důvodu: v Srbsku se služba zavádí kvůli skutečné obraně země, kdežto v ČR kvůli závazkům vůči „bukurešťské devítce", tedy fakticky kvůli přípravě na konflikt s Ruskem.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
+### Poslanec Matecki v polském Sejmu kritizuje Ukrajinu za velebení UPA (Vrabel, 4. 7. 2026)
+
+Poslanec strany Právo a spravedlnost Dariusz Matecki ve svém projevu v Sejmu kritizoval Ukrajinu za to, že vytváří „panteon hrdinů" z osobností spojovaných s vraždami polských civilistů (UPA) — projev několikrát přerušil předseda Sejmu a záznam získal velkou pozornost na sociálních sítích; část polské scény (strana Konfederace) navíc nahlas řeší budoucí uspořádání ukrajinského území. Vrabel oceňuje, že se v polské politice objevuje aspoň částečně „zdravý rozum", ale kritiku považuje za nedostatečnou — místo pojmenování Ukrajiny jako celku jako „barbarského, nacistického státu" (přivazování lidí ke sloupům za krádež jídla, i policií) se řeší jen velebení dávných postav. Přirovnává to k tomu, jako by oběť znásilnění byla kritizována za to, že si pachatel při vniknutí rozkopal dveře. Navazuje na [Polsko žádá Ukrajinu o přejmenování jednotky po UPA (6. 6.)](#polsko-žádá-ukrajinu-o-přejmenování-jednotky-po-upa-vrabel-6-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 
 ---
 
@@ -1104,6 +1128,14 @@ Vrabel reaguje na tvrzení Andreje Babiše a Tomia Okamury, že Česká republik
 
 ---
 
+### Ministerstvo obrany koupilo bytový komplex v Jincích pro vojáky — Vrabelova vlastní zkušenost s šikanou na vojně (Vrabel, 4. 7. 2026)
+
+Ministerstvo obrany koupilo rezidenční komplex v Jincích (274 mil. Kč, původně určený jako seniorské bydlení) k ubytování vojáků, především příslušníků dělostřeleckého pluku — investice má dle ministerstva stabilizovat personál a zvýšit atraktivitu vojenské služby. Vrabel na zprávu reaguje osobní vzpomínkou na vlastní základní vojenskou službu v Příbrami: přestože sám neměl větší problémy, byl svědkem brutální šikany („mazáci" jednoho vojína „rozjížděli") a musel využít svých kontaktů, aby ho ochránil; zmiňuje i kamaráda, který vojnu psychicky nezvládal a musel přesluhovat. Uzavírá, že je mu líto „každého kluka navlíknutého do munduru".
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
 ## EU jako vojenská struktura
 
 ### Odmítnutí EU armády a jaderného štítu — diplomacie místo přípravy na válku
@@ -1188,7 +1220,21 @@ Vrabel komentuje úvahy norského ministra zahraničí Espena Barta Eideho o vst
 
 ---
 
+### EU otevře 8. 7. šestý klastr přístupových jednání s Ukrajinou — nečekaná rychlost (Vrabel, 4. 7. 2026)
+
+Výbor stálých zástupců (Coreper) má 8. 7. schválit otevření již šestého klastru přístupových jednání EU s Ukrajinou (a Moldavskem); maďarský zástupce v pracovní skupině pro rozšíření EU 3. 7. souhlasil se schválením výsledků screeningu. Vrabel připomíná, že první klastr byl slavnostně otevřen (von der Leyen, Costa a Zelenskyj v Evropském parlamentu) teprve před necelým týdnem — rychlost, jakou Ukrajina postupuje směrem k členství, ho překvapuje i s ohledem na jeho dosavadní kritiku procesu (viz [Ukrajina do EU/NATO odblokována, 4. 6.](#ukrajina-do-eunato-odblokována--čl-427-jako-past-rutte-nezvratná-cesta-vrabel-4-6-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
 ## Eskalace a hrozba rozšíření konfliktu
+
+### Putin: čím víc úderů na ruské civilní cíle, tím větší bezpečnostní pásmo — predikce preventivního úderu na Pobaltí (Vrabel, 4. 7. 2026)
+
+Putin oznámil, že Rusko v reakci na ukrajinské útoky na civilní objekty posílí ochranu obyvatelstva a může rozšířit „bezpečnostní pásmo" podél svých hranic — čím víc útoků, tím rozsáhlejší nárazníkové území bude muset vytvořit. Vrabel to čte jako upřesnění cílů SVO: pokud Ukrajina disponuje raketami s doletem až 2000 km (ukrajinská média o systému Flamingo), Rusko bude muset odsunout případné vojenské základny z dosahu mnohem dál, než se dosud předpokládalo — a to platí i pro pobaltské státy (Litva, Lotyšsko, Estonsko) a Finsko, které aktuálně samy zvažují či ruší zákazy umístění jaderných zbraní na svém území (viz [Litva ruší zákaz jaderných zbraní, 3. 7.](jaderne-zbrane.md#litva-ruší-ústavní-zákaz-jaderných-zbraní-a-cizích-vojenských-základen-vrabel-3-7-2026)). Predikuje, že jakmile si Rusko bude jisté chystaným útokem, provede preventivní úder analogický 24. únoru 2022 vůči Ukrajině — tentokrát s cílem zničit zbraně, které by ho ohrožovaly, dřív, než budou plně rozmístěny.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 
 ### Predikce: Rusko zaútočí na Evropu v létě 2026 — Vrabel
 
@@ -1366,6 +1412,14 @@ Vrabel rozebírá tvrdé vyjádření Sergeje Lavrova. Lavrov prý naznačil oba
 The Telegraph píše, že Washington oficiálně varoval Polsko před rostoucím napětím v nadcházejících měsících a nastínil možné scénáře — dronové útoky na kritickou infrastrukturu (elektrárny) i simulované letecké údery testující polskou protivzdušnou obranu. Vrabel to komentuje jako „klasiku": rozehrát válku v Polsku je scénář, který podle něj zná už z minula. Rozvíjí vlastní „karmickou" tezi — čím víc se o možném ruském útoku na Polsko mluví, tím reálnější riziko se vytváří (ať už jako skutečný záměr, false flag, nebo vyprovokování Ruska). Souběžně Polsko rozhodlo vyřadit své stíhačky MiG-29 ze služby, místo aby je (podle dřívější dohody výměnou za ukrajinskou dronovou technologii) předalo Ukrajině — Vrabel to čte jako diplomatickou trhlinu mezi oběma zeměmi, byť polskou politickou scénu k Ukrajině popisuje jako celkově rozpolcenou.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
+### BRICS se mění z obchodního uskupení na bezpečnostní pakt kvůli útoku USA na Írán (Vrabel, 4. 7. 2026)
+
+Na setkání BRICS (po útoku USA na Írán) se podle Vrabela poprvé výrazně mluvilo o bezpečnosti — téma má být hlavním bodem podzimního (zářijového) summitu BRICS. Írán, který na setkání dorazil krátce po skončení bojů, ostatním členům podle Vrabela ukázal, že USA jsou ochotné napadnout kohokoliv (Rusko, pak Írán); v americké bezpečnostní doktríně je přitom jako největší riziko označena Čína, což cítí i Indie. Z toho Vrabel usuzuje, že se BRICS z čistě ekonomického uskupení postupně přetváří ve vojensko-bezpečnostní pakt a svět se zřetelně polarizuje na dva bloky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 
 ---
 

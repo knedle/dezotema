@@ -432,3 +432,27 @@ K dohodě ministrů financí EU (za ČR Alena Šilerová) o rozšíření mechan
 K nejpalčivějšímu bodu červnového summitu EU — víceletému rozpočtu na roky 2028–2034 (~1,7 bilionu EUR / přes 41 bilionů Kč) — Vrabel upozorňuje, že ČR hrozí velké škrty z kohezních fondů, protože z hlediska evropských tabulek už patří mezi „dostatečně rozvinuté" státy. Původní návrh Komise by ČR mohl připravit až o ~243–250 mld Kč; podle výzkumníka IEP Filipa Kšenka přitom evropské fondy financují ~40–50 % veřejných investic v Česku, takže výpadek by znamenal „citelné ztráty".
 
 **Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)
+
+---
+
+### AfD sjezd v Erfurtu: globalismus útočí na stát, národ, náboženství a rodinu — Vrabel (4. 7. 2026)
+
+Sjezd německé AfD v Erfurtu doprovázela mimořádná bezpečnostní opatření (policejní jednotky z Berlína, vodní děla, psi) kvůli ~25 000 demonstrantům; sjezd se přesto uskutečnil. Vrabel k tomu formuluje svou tezi o boji „globalismu proti suverenismu": ačkoliv má AfD podle průzkumů největší volební potenciál v Německu, čelí masivním protestům organizovaným „zfanatizovanými" lidmi ovlivněnými globalistickými médii (v ČR analogicky Seznam Zprávy, Novinky, Česká televize). Globalisté podle něj systematicky útočí na čtyři pilíře, které drží zemi pohromadě — stát, národ, náboženství a rodinu — aby na jejich troskách vznikl jeden velký nadnárodní celek. Totéž vidí v českém parlamentu: opozice pracuje pro EU otevřeně, koalice skrytě (odmítá referendum i vystoupení z EU, zatímco veřejně naříká, že „to chce Brusel").
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
+### Trump: „nemůžete být komunista i vlastenec zároveň" — Vrabelova esej o americké historii a suverenismu (4. 7. 2026)
+
+Trump k 250. výročí nezávislosti USA prohlásil, že Amerika opět čelí „komunistické hrozbě" a nelze být zároveň loajální Marxovi i Americe. Vrabel s tímto konkrétním výrokem souhlasí a rozvíjí z něj vlastní definici: vlastenec/suverenista chce, aby jeho země zůstala celá a samostatná, zatímco globalisté (i komunisté v minulosti přes Internacionálu a Varšavskou smlouvu) usilují o rozpuštění států do většího celku. Zároveň silně kritizuje samotné USA jako stát: připomíná genocidu domorodých Američanů, otrokářství (odhad až 500 mil. mrtvých na cestě z Afriky), segregaci ještě v 50. letech, atomové bombardování Hirošimy a Nagasaki jako jediný stát, který použil jaderné zbraně na civilisty, napalm ve Vietnamu a dnešní hegemonii postavenou na petrodolaru (dohoda s OPEC z roku 1974) — podle Vrabela zdroj bohatství USA není práce, ale „okrádání celého světa". Zmiňuje i aktuální požadavek Trumpa na 350 mld. dolarů od EU jako náhradu za zbraně dodané Ukrajině v letech 2022–2024 jako další příklad tohoto mechanismu. Ministra zahraničí Petra Macinku kritizuje za projev, že česká svoboda pochází ze svobody USA — označuje to za ztrátu soudnosti.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+---
+
+### Von der Leyen: bez nových vlastních zdrojů klesne rozpočet EU o 40 % — souvislost s financováním Ukrajiny (Vrabel, 4. 7. 2026)
+
+Ursula von der Leyen při návštěvě Irska (které od 1. 7. předsedá EU) uvedla, že bez dohody o nových „vlastních zdrojích" EU (odhad ~66 mld. eur ročně) by musel unijní rozpočet klesnout o 40 %, jinak budou muset členské státy zvýšit národní příspěvky. Vrabel to spojuje s dřívějším plánem EU „vrátit do oběhu" soukromé úspory občanů a s financováním Ukrajiny: ČR odvádí do rozpočtu EU cca 2,24 % HDP, ze kterého se platí i úroky a jistina za schválených 90 mld. eur pro Ukrajinu (viz [Babiš a Okamura tvrdí, že ČR neplatí Ukrajině, 3. 7.](valka-nato-rusko.md#babiš-a-okamura-tvrdí-že-čr-neplatí-ukrajině--přitom-už-schválili-30-z-70-mld-eur-vrabel-3-7-2026)) — 40% navýšení příspěvků by tak fakticky byly další peníze na tento účel, přestože Tomio Okamura veřejně tvrdí, že ČR na Ukrajinu nic nedává.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)

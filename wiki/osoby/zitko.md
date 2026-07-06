@@ -227,3 +227,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál: Hrad odpověděl na Pekovou (26. 6. 2026)](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
 - [Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](../_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
 - [Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026)
+- [Videoportál: Cesta do ráje, karta dne (3. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-3-7-2026)
