@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — MedBeds budou civilně nasazeny mezi 4. čtvrtletím 2026 a 2. čtvrtletím 2027 (30. 6. 2026)
+
+**Předpověď:** Podle uniklého „standardního operačního postupu" (zdroj: Vesna Kurguz), který Zítko sdílel, budou léčebná zařízení MedBeds zpřístupněna civilnímu obyvatelstvu v časovém rámci od čtvrtého čtvrtletí 2026 do druhého čtvrtletí 2027 — po dětech zachráněných z tunelů a válečných veteránech, kteří už mají být léčeni.
+
+> „Časový rámec civilního nasazení [...] čtvrté čtvrtletí 2026, to znamená podzim, zima až 2. čtvrtletí 2027." — Pavel Zítko
+
+**Horizont:** 4. čtvrtletí 2026 – 2. čtvrtletí 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Zítko — Videoportál: MedBeds, jahodový úplněk, bitcoin, 30. 6. 2026](_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
+
+---
+
 ### Ladislav Vrabel — Babiš do ~2 let ustoupí EU a zruší slib snížení důchodového věku (30. 6. 2026)
 
 **Předpověď:** Babiš slíbil vrátit věk odchodu do důchodu na 65 let, což Evropská komise kritizuje jako dlouhodobě neúnosné (+2 % HDP na výdaje). Vrabel předpovídá, že Babiš tento slib za přibližně dva roky vzdá a nechá o věci rozhodnout Evropskou unii — podle stejného vzorce, jaký už uplatnil u F-35, muniční iniciativy a jaderných zbraní pro ČR.

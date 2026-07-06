@@ -537,6 +537,14 @@ Rok po Blažkově odstoupení (30. 5. 2025) Zítko komentuje policejní sdělen�
 
 ---
 
+### Stížnost Blažka, Tice a Daňhela zamítnuta (30. 6. 2026)
+
+Zítko informuje, že stížnost skupiny kolem Pavla Blažka, Karima Tice a Daňhela (spolu s dalšími desítkami zapojených lidí, kteří se dle Zítka podíleli na pokusu ukrást a zlegalizovat přes 100 miliard Kč v Jiříkovského bitcoinech) byla zamítnuta. Vrchní státní zastupitelství v Olomouci na případu pracuje přes rok; státní zástupkyně Lastovecká byla mezitím odvolána. Zítko odhaduje, že jediným důvodem stížnosti byla snaha vyhnout se vězení, a připomíná, že NCOZ má už rok k dispozici veškeré důkazy a specifikaci trestných činů i zapojených osob (viz jeho dřívější analýza v pořadu Rozpleteno).
+
+**Zdroje:** [Zítko — Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
+
+---
+
 ## Hejtman Grolich žádá občany o finanční dary na kampaň
 
 Černohorský ostře kritizuje video hejtmana Jihomoravského kraje **Jana Grolicha** (KDU-ČSL), v němž hejtman veřejně žádá běžné občany o finanční dary — argumentuje potřebou „mít v politice odborníky a vzdělané lidi", na což jsou třeba peníze. Černohorský to považuje za nedůstojné chování politika a poukazuje na to, že strany jako KDU-ČSL mají standardně kontakty na sponzory a lobbisty, takže osobní žebrání o peníze od občanů vnímá jako pokrytecké.

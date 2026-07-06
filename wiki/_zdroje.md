@@ -2679,3 +2679,12 @@
 - **Délka:** 00:15:23 | Zhlédnutí: 146 | Rozhovor s Patrikem Pečénkou
 - **Poznámka:** Dvě zpracovaná témata: (1) Reakce na Babišovo lednové přiznání covidových chyb — požaduje zákaz mRNA vakcín a vyšetřování poradních orgánů (Prymula); klíčový právní argument, že testy (vč. Diana Bion Technologies) nebyly dle kontroly SÚKL validovány, takže všech ~600 mimořádných opatření 2020–2022 je „právně nulitních" — volá po zákonu a odškodnění — [covid-vakciny.md](covid-vakciny.md). (2) I americké senátní vyšetřování covidu považuje za „slepou uličku", protože nezpochybňuje samotnou infekční teorii viru — [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026) {#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-30_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1792229125482721&_rdr>
+- **Datum záznamu:** 2026-06-30
+- **Délka:** 00:49:39 | Zhlédnutí: 162 | Facebook blokace/klon profilu (logistika), astrologie úplňku, MedBeds, pozvánka na akci, aktualita bitcoin kauzy
+- **Poznámka:** Dvě zpracovaná témata: (1) Bitcoin kauza — stížnost Pavla Blažka, Karima Tice a Daňhela zamítnuta, VSZ Olomouc/NCOZ na případu pracuje přes rok — [kauzy.md](kauzy.md). (2) MedBeds — uniklý „standardní operační postup" (4 fáze léčby) a konkrétní časový rámec civilního nasazení (4. čtvrtletí 2026 – 2. čtvrtletí 2027) — [konspirace.md](konspirace.md). **Predikce:** civilní nasazení MedBeds (viz [predikce.md](predikce.md)). Zbytek videa: logistika (blokace/falešný klon profilu, přesun na Rumble), astrologický rituál k jahodovému úplňku, pozvánka na sraz v Penzionu Ráj — nezpracováno. Bez stoch. teroru.
+- **Zpracováno:** ano

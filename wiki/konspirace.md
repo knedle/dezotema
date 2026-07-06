@@ -175,6 +175,14 @@ Zítko věří v brzké zavedení Quantum Financial System (QFS), který ukonč�
 
 ---
 
+### MedBeds: uniklý „standardní operační postup" a časový rámec civilního nasazení (Zítko, 30. 6. 2026)
+
+Zítko sdílí dokument od zdroje „Vesna Kurguz" (Srbsko), který popisuje MedBeds jako čtyřfázovou technologii: (1) diagnostický sken celého těla za 90 sekund (kvantové pole, DNA, telomery), (2) 45minutový „systematický detox" (extrakce těžkých kovů, rozpuštění kalcifikace šišinky způsobené fluoridem/glyfosátem/hliníkem), (3) 60–180minutová regenerace buněk (reaktivace telomerázy, mobilizace kmenových buněk), (4) „optimalizace DNA" — aktivace údajně potlačených řetězců 2–12 a kalibrace na frekvenci 528 Hz. Pořadí nasazení: nejprve děti zachráněné z podzemních tunelů, poté váleční veteráni, nakonec civilisté. Konkrétní časový rámec civilního nasazení: **4. čtvrtletí 2026 až 2. čtvrtletí 2027** (dokument datován „revize 7.4", autorizace květen 2025).
+
+**Zdroje:** [Zítko — Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
+
+---
+
 ## Historické konspirační výklady
 
 ### „Česko je plán" — záměrná eroze národní identity
