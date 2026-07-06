@@ -676,6 +676,14 @@ Ke konci francouzsko-německého projektu stíhačky FCAS, britskému zvažován
 
 ---
 
+### Wikileaks: Petr Kolář jako velvyslanec radil USA přejmenovat raketovou základnu na „radar" a počkat na vládu Topolánka (Vrabel, 30. 6. 2026)
+
+Vrabel cituje (dle vlastních slov z uniklých dokumentů Wikileaks) epizodu z doby, kdy byl Petr Kolář velvyslancem ČR ve Spojených státech: měl jednat s americkými partnery bez vědomí Ministerstva zahraničí ČR a doporučil jim dvě věci ohledně plánované americké protiraketové základny v Brdech. Zaprvé, aby o projektu nemluvili jako o „raketové základně", ale jako o „radaru" — česká veřejnost to prý lépe přijme, i když šlo fakticky o raketovou základnu. Zadruhé, aby s jednáním počkali, až skončí vláda Jiřího Paroubka a nastoupí vláda Mirka Topolánka, protože za Paroubka by projekt neprošel. Vrabel to hodnotí jako jednání „naprosto proti zájmům České republiky" a jako důkaz dlouhodobého vzorce — Kolář dodnes (jako poradce na Hradě) prosazuje jaderné zbrojení a zbrojní kontrakty bez ohledu na to, kdo je u moci.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+
+---
+
 ### F-35 jako příprava útoku na Rusko, tanky po D35, cvičení u Suvalk, dvojí metr u Ukrajiny — Vrabel (13. 6. 2026)
 
 V komentáři Vrabel propojuje několik zpráv do téze o blížící se válce s Ruskem:

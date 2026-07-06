@@ -112,6 +112,18 @@ Vrabel tvrdí, že mediální spor o to, kdo povede českou delegaci na summitu 
 
 ---
 
+### Británie: 300 mld. liber na zbrojení; jaderné zbraně se posouvají blíž k Rusku (Vrabel, 30. 6. 2026)
+
+Britský premiér Keir Starmer představil desetiletý plán navýšení obranného rozpočtu (z 2,3 na 2,7 %, cíl 3 % HDP) — 300 mld. liber během čtyř let, včetně 5 mld. na drony a 115 mil. na AI technologie; slibuje ~60 000 pracovních míst. Vrabel to kontrastuje s vlastní zkušeností ze života v Británii (2000–2013): běžní lidé si podle něj často nemohli dovolit topit (platili si elektřinu předplacenou kartou) a žili na hranici chudoby — obří vojenské výdaje tak jdou na úkor obyčejných lidí, kterým „stát nedá ani na topení". Odmítá zdůvodnění výdajů „obranou Británie" — poukazuje, že britské rakety týden předtím útočily hluboko na ruské území, takže případný ruský protiúder by nebyl nevyprovokovaný. Souběžně USA investují 4+ mld. dolarů do modernizace vojenských základen ve Velké Británii (Lakenheath, Mildenhall, Fairford) včetně nových bunkrů pro skladování jaderných zbraní — Vrabel to čte jako další krok v postupu jaderných zbraní směrem k Rusku: z Británie se mají později přesunout do Polska, podobně jako z Francie do ČR (viz [Jaderné zbraně v ČR, 19. 5.](#jaderné-zbraně-v-čr-babiš-i-pavel-shodně-za-start-smlouva-skončila-19-5-2026)). USA zároveň vyvíjí první novou jadernou hlavici po 40 letech pro ponorky třídy Columbia.
+
+Vrabel dále rozebírá dvě možné cesty jaderné politiky: (1) cesta „jaderného odstrašení" prosazovaná Pavlem od roku 2014 v NATO — podle Vrabela vede nevyhnutelně k jaderné výměně, protože ruská doktrína („mrtvá ruka") předepisuje použití jaderných zbraní při ohrožení existence státu; (2) cesta odzbrojení podle vzoru Gorbačov–Reagan (Reykjavík) — postupné omezování a satelitní kontrola arzenálů jako jediná skutečná cesta k míru.
+
+> „Jaderná výměna mezi Ruskou federací a Evropou je existenční hrozbou minimálně pro Evropu určitě." — Ladislav Vrabel, [Zprávy v devět 30. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+
+---
+
 ### Francouzský jaderný arzenál +80 hlavic — nové kolo zbrojení (Vrabel, 9. 6. 2026)
 
 Podle zprávy SIPRI Francie mezi roky 2025 a 2026 zvýšila svůj jaderný arzenál zhruba o 80 hlavic na přibližně 730 a hlavní mocnosti modernizují arzenály. Vrabel to čte jako nové kolo jaderných závodů, před nímž varuje od roku 2022; jedinou cestou k trvalému míru jsou podle něj odzbrojovací smlouvy. Navazuje na [Jaderné odzbrojení jako jediná cesta k míru (6. 6.)](#jaderné-odzbrojení-jako-jediná-cesta-k-míru--výzva-vrabel-6-6-2026).

@@ -239,6 +239,9 @@
 - **29. 6.** — Tři zásadní otázky summitu NATO: 70 mld. EUR/rok pro Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro ČR od Francie — [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 - Únik sítě „Dialog" Petera Thiela — 200 vlivných lidí rozhoduje bez demokratické kontroly (propojení s J. D. Vancem, Palantirem) — [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 - Akcie Strnadovy zbrojovky −50 %, predikce dočasného růstu před summitem a dlouhodobého zániku zbrojovek — [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+- **30. 6.** — predikce: Babiš do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+- Wikileaks: Kolář jako velvyslanec radil přejmenovat raketovou základnu v Brdech na „radar", počkat na vládu Topolánka — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+- Británie 300 mld. liber na zbrojení + jaderné sklady v UK jako mezikrok k přesunu blíž k Rusku — [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -600,6 +603,9 @@
 | Peter Thiel | ❌ negativní | „Jeden z nejnebezpečnějších, nejvýše postavených lidí" — provozuje tajnou síť „Dialog" (200 vlivných lidí), sponzor J. D. Vance, majitel Palantiru | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
 | J. D. Vance | ❌ negativní | Americký viceprezident — dříve pracoval pro Petera Thiela, který je jeho hlavním sponzorem; „Thiel stojí za ním a on stojí za Thielem" | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
 | Michal Strnad | ⚖️ rozporuplný | Akcie jeho zbrojovky klesly o 50 % — Vrabel předpovídá dočasný růst před summitem NATO, dlouhodobě ale zánik zbrojařského byznysu | 2026-06-29 | [Zprávy v devět 29. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026) |
+| Petr Kolář | ❌ negativní | Dle Wikileaks jako velvyslanec v USA jednal mimo rámec MZV — radil přejmenovat raketovou základnu na „radar" a počkat na vládu Topolánka místo Paroubka; „naprosto proti zájmům ČR" | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | Predikce: do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku na 65 let, jako už učinil u F-35/muniční iniciativy/jaderných zbraní | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
+| Keir Starmer | ❌ negativní | 300 mld. liber na zbrojení, zatímco běžní Britové si nemohou dovolit topit — „lidi zlikviduje" | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
 
 ---
 
@@ -672,3 +678,4 @@
 - [Zprávy v devět 26. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 - [Zprávy v devět 27. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
 - [Zprávy v devět 29. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+- [Zprávy v devět 30. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)

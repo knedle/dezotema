@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Babiš do ~2 let ustoupí EU a zruší slib snížení důchodového věku (30. 6. 2026)
+
+**Předpověď:** Babiš slíbil vrátit věk odchodu do důchodu na 65 let, což Evropská komise kritizuje jako dlouhodobě neúnosné (+2 % HDP na výdaje). Vrabel předpovídá, že Babiš tento slib za přibližně dva roky vzdá a nechá o věci rozhodnout Evropskou unii — podle stejného vzorce, jaký už uplatnil u F-35, muniční iniciativy a jaderných zbraní pro ČR.
+
+> „Bych tipnul, že to bude trvat tak dva roky, než Andrej Babiš poleví úplně a nechá to, aby to rozhodla Evropská unie." — Ladislav Vrabel
+
+**Horizont:** ~2 roky (do cca poloviny 2028)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 30. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
+
+---
+
 ### Ladislav Vrabel — Akcie zbrojovek porostou před summitem NATO, dlouhodobě „budou zničeny" (29. 6. 2026)
 
 **Předpověď:** I když akcie Michala Strnada aktuálně klesly o 50 % kvůli spekulacím o konci války, Vrabel předpovídá jejich krátkodobý růst před červencovým summitem NATO v Ankaře (kde se očekává schválení zbrojních obchodů za desítky až stovky miliard dolarů). Dlouhodobě ale předpovídá opak: zbrojovky „jednoho dne budou zničeny, vyhozeny do povětří" a ztratí veškerou hodnotu, jejich vlastníci se budou muset skrývat v Jižní Americe.

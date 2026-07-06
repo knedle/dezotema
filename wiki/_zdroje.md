@@ -2652,3 +2652,12 @@
 - **Délka:** 00:03:31 | Zhlédnutí: 18 487 | Reakce na sdílené video hejtmana Grolicha
 - **Poznámka:** Kritika hejtmana Jihomoravského kraje Jana Grolicha (KDU-ČSL) za video, v němž žádá občany o finanční dary na politickou kampaň — Černohorský to považuje za nedůstojné a pokrytecké (strany typu KDU-ČSL mají standardně sponzory/lobbisty). Tematicky → [kauzy.md](kauzy.md). **Stoch. teror:** explicitní násilná fantazie vůči Janu Grolichovi („kopu do prdele hodně špičatou botou [...] až do Bruselu, anebo možná do Kyjeva"). Bez predikcí.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (30. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-30-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-30_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/4579400555612937>
+- **Datum záznamu:** 2026-06-30
+- **Délka:** 00:48:48 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
+- **Poznámka:** Tři zpracovaná témata: (1) Predikce — Babiš do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku na 65 let — [predikce.md](predikce.md). (2) Wikileaks: Petr Kolář jako velvyslanec v USA radil přejmenovat raketovou základnu v Brdech na „radar" a počkat na vládu Topolánka místo Paroubka — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Británie: 300 mld. liber na zbrojení (kritika pokrytectví vůči chudobě), USA staví jaderné sklady v UK jako mezikrok k přesunu jaderných zbraní blíž k Rusku (UK→Polsko, Francie→ČR); dvě cesty jaderné politiky (odstrašení vs. odzbrojení a la Reykjavík) — [jaderne-zbrane.md](jaderne-zbrane.md). Ostatní zprávy (Maďarsko/Orbán vs. Petr Maďar, Írán-USA jednání, NATO velitelství v Pobaltí, GRECO korupční hodnocení ČR, Ukrajina/stínová flotila) jen rychlý přehled bez samostatného zpracování. Bez stoch. teroru.
+- **Zpracováno:** ano
