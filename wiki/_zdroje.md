@@ -2643,3 +2643,12 @@
 - **Délka:** 00:02:55 | Zhlédnutí: 35 421 | Tisková konference SPD
 - **Poznámka:** Pokračování tématu UPA (viz 31. 5. a 7. 6.) — Rajchl oznamuje formální návrh SPD, aby Poslanecká sněmovna doporučila prezidentovi odebrat Zelenskému Řád bílého lva, po vzoru Polska (Nawrocki odebral Řád Bílé orlice napříč celým politickým spektrem). Připomíná vraždění Čechoslováků UPA do roku 1947 („akce B") a cituje Masaryka (1926): fašismus je „sedlina naší národní demokracie". Tematicky → [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál: Grolich žebrá o peníze (30. 6. 2026) {#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-30_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/100085862388850/videos/1550345206631040>
+- **Datum záznamu:** 2026-06-30
+- **Délka:** 00:03:31 | Zhlédnutí: 18 487 | Reakce na sdílené video hejtmana Grolicha
+- **Poznámka:** Kritika hejtmana Jihomoravského kraje Jana Grolicha (KDU-ČSL) za video, v němž žádá občany o finanční dary na politickou kampaň — Černohorský to považuje za nedůstojné a pokrytecké (strany typu KDU-ČSL mají standardně sponzory/lobbisty). Tematicky → [kauzy.md](kauzy.md). **Stoch. teror:** explicitní násilná fantazie vůči Janu Grolichovi („kopu do prdele hodně špičatou botou [...] až do Bruselu, anebo možná do Kyjeva"). Bez predikcí.
+- **Zpracováno:** ano

@@ -67,6 +67,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Letná 2026 financována neziskovkami (Šimon Pánek); výzva k obnovení trestu smrti za vlastizradu — [Návrat z bandovolené 2. 4. 2026](../_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
 - Korupce na Ukrajině — Mindić/Firepoint/Kvartal 95 (z videa Konečné) — [FB Live 10. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-10-5-2026)
 - Meeting Brno 15 mil. na sudetoněmecké akce — [FB Live „dopoledníček" 21. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-dopoledníček-21-5-2026)
+- Hejtman Grolich (KDU-ČSL) žádá občany o finanční dary na kampaň — nedůstojné a pokrytecké — [Videoportál: Grolich žebrá o peníze 30. 6. 2026](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
@@ -208,6 +209,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Petr Macinka | ✅ pozitivní | „Velice inteligentní borec", ne hlupák — jeho ironické výroky („soudruh prezident") interpretovány jako záměrné vyjádření zoufalství nad Pavlem | 2026-06-26 | [FB Live: zklamání z Brna](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026) |
 | Petr Kolář | ❌ negativní | Nový řádek: skutečný důvod cesty do Ankary — lobbista domlouvající zbrojní kontrakty (Strnadova zbrojovka +11 % akcie) bez kontroly vlády | 2026-06-28 | [FB Live: čl. 63, Polsko–Ukrajina](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026) |
 | Volodymyr Zelenskyj | ❌ negativní | Pojmenování jednotky po UPA rozdmýchalo krizi s Polskem; označen za „nacistické prase" | 2026-06-28 | [FB Live: čl. 63, Polsko–Ukrajina](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026) |
+| Jan Grolich | ❌ negativní | Hejtman Jihomoravského kraje (KDU-ČSL) — kritizován za žádost o finanční dary od občanů; terč explicitní násilné fantazie | 2026-06-30 | [Videoportál: Grolich žebrá o peníze](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026) |
 
 ---
 
@@ -252,3 +254,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [FB Live: zklamání z Brna a eskalace ÚS (26. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 - [FB Live: čl. 63, Polsko–Ukrajina (28. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 - [Videoportál: marnost nad marnost (29. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
+- [Videoportál: Grolich žebrá o peníze (30. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
