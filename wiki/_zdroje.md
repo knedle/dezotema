@@ -2697,3 +2697,12 @@
 - **Délka:** 00:02:01 | Zhlédnutí: 151 171
 - **Poznámka:** Pokračování tématu UPA/Řád bílého lva — Rajchl reaguje na ohlasy svého návrhu (30. 6.): opoziční politici (Ženíšek), kteří kritizují SPD za „náckovství", k pojmenování ukrajinské jednotky po UPA mlčí nebo zpochybňují jeho duševní stav; kontrastuje s Polskem, kde prezident, premiér i ministr obrany hrozí vetem vstupu Ukrajiny do EU, pokud Zelenskyj neustoupí. Tematicky → [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál: krach automobilového průmyslu (2. 7. 2026) {#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-02_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/100085862388850/videos/3918601268448057>
+- **Datum záznamu:** 2026-07-02
+- **Délka:** 00:07:10 | Zhlédnutí: 493 | Satirický monolog o krachu německého autoprůmyslu
+- **Poznámka:** Zákaz spalovacích motorů od 2035 (EU Green Deal) + drahé energie + americká 15% cla (VW −70 mld. Kč) + čínské dotované elektromobily = kolaps VW/Mercedes/BMW; cituje varování šéfa BMW Olivera Zipseho a paniku šéfa VW Thomase Schaefera. Tematicky → [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

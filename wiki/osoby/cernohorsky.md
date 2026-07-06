@@ -61,6 +61,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Brno: čtení jmen 1 518 obětí nacistické okupace (Obrana národa 2) — stud z neznalosti 240 ulic pojmenovaných po hrdinech — [FB Live 2 (22. 5. 2026)](../_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
 - Zklamání z reakce na sjezd v Brně — slíbený otevřený dopis s podpisy se nikdy nerealizoval, vlastenecká scéna se tříští na stranické značky — [FB Live: zklamání z Brna 26. 6.](../_zdroje.md#jiří-černohorský--fb-live-zklamání-z-brna-a-eskalace-ús-26-6-2026)
 - Krize Polsko–Ukrajina kvůli UPA — pochybnosti o Katyni a smolenské havárii 2010, predikce příchodu polské armády na hranice a rozpadu Ukrajiny — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+- Zákaz spalovacích motorů 2035 (Green Deal) jako příčina krachu VW/Mercedes/BMW — americká cla + čínské dotované elektromobily — [Videoportál: krach automobilového průmyslu 2. 7.](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Bitcoin kauza jako organizovaný zločin, Blažek jako „bílý kůň" — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -210,6 +211,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Petr Kolář | ❌ negativní | Nový řádek: skutečný důvod cesty do Ankary — lobbista domlouvající zbrojní kontrakty (Strnadova zbrojovka +11 % akcie) bez kontroly vlády | 2026-06-28 | [FB Live: čl. 63, Polsko–Ukrajina](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026) |
 | Volodymyr Zelenskyj | ❌ negativní | Pojmenování jednotky po UPA rozdmýchalo krizi s Polskem; označen za „nacistické prase" | 2026-06-28 | [FB Live: čl. 63, Polsko–Ukrajina](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026) |
 | Jan Grolich | ❌ negativní | Hejtman Jihomoravského kraje (KDU-ČSL) — kritizován za žádost o finanční dary od občanů; terč explicitní násilné fantazie | 2026-06-30 | [Videoportál: Grolich žebrá o peníze](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026) |
+| Oliver Zipse | ✅ pozitivní | Šéf BMW — „snad jediný chlap v evropském autoprůmyslu, kterému ještě zbyly koule"; marně varoval EU před zákazem spalovacích motorů | 2026-07-02 | [Videoportál: krach automobilového průmyslu](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026) |
 
 ---
 
@@ -255,3 +257,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [FB Live: čl. 63, Polsko–Ukrajina (28. 6. 2026)](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 - [Videoportál: marnost nad marnost (29. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
 - [Videoportál: Grolich žebrá o peníze (30. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
+- [Videoportál: krach automobilového průmyslu (2. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)

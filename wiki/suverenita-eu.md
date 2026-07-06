@@ -156,6 +156,16 @@ Závěr: souhrnný dopad těchto nařízení v horizontu 10–15 let převýší
 
 ---
 
+### Zákaz spalovacích motorů 2035 jako příčina kolapsu německého autoprůmyslu — Černohorský (2. 7. 2026)
+
+V satiricky laděném monologu Černohorský líčí krach německého autoprůmyslu (VW, Mercedes, BMW — propouštění, zavírání továren) jako přímý důsledek bruselské „ekologické agendy": zákazu spalovacích motorů od roku 2035, odstřižení od levné energie a přeregulace. Šéf BMW Oliver Zipse podle něj marně varoval, že Evropa se „řítí do zdi" a že přechod na elektromobily povede k masivnímu smrštění průmyslu bez potřebné infrastruktury či vlastní výroby baterií. K tomu se přidaly americké 15% cla na evropské automobily (VW přišel o 70 mld. Kč) a čínské státem dotované elektromobily, které díky nízkým mzdám v Šen-čenu vytlačují evropskou konkurenci cenou. Šéf značky VW Thomas Schaefer měl na poradě prohlásit, že „střecha nám hoří" a firma už není konkurenceschopná se svými strukturami a náklady.
+
+> „Politici přiložili průmyslu pistoli k hlavě. [...] Nutit německé inženýry přecházet na elektromobily, to je jako nutit [...] vařit veganské párky z tofu." — Jiří Černohorský, [Videoportál 2. 7. 2026](_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
+
+**Zdroje:** [Černohorský — Videoportál: krach automobilového průmyslu, 2. 7. 2026](_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
+
+---
+
 ## Evropský parlament a V4 strategie
 
 ### Evropský parlament jako divadlo — skutečná moc je v Komisi
