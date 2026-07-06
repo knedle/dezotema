@@ -2598,3 +2598,12 @@
 - **Délka:** 00:02:13 | Zhlédnutí: 126 136 | Ukázka z rozhovoru pro TN.cz
 - **Poznámka:** Pokračování kauzy ÚS/Pavel/Ankara — Rajchl odmítá, že vyloučením Pavla z delegace byla porušena ústavní zvyklost: zvyklostí bylo, že o složení delegace rozhoduje vláda, ne že prezident musí být vždy zahrnut — dosud se to prostě nestalo, jde tedy o bezprecedentní, nikoli protiprávní situaci. Zpochybňuje přínos Pavlovy účasti kvůli výměně administrativy v USA (Biden→Trump) a připomíná Pavlův starší výrok, že mu Trump „odpuzuje jako lidská bytost". Kritizuje nejisté vystoupení soudců ÚS na tiskovce. Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (27. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-27-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-27_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/986882287660410>
+- **Datum záznamu:** 2026-06-27
+- **Délka:** 00:57:05 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
+- **Poznámka:** Čtyři zpracovaná témata: (1) Povinná vojenská služba — pokračování z 26. 6., Macinkovo propagandistické video a jeho pokrytectví (sám na vojně nebyl, přitom domlouvá zbrojní kontrakty v USA) — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Dánsko/EU omezují dočasnou ochranu ukrajinským mužům v branném věku = „čistý fašismus" (+ karmická teze) — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Nord Stream 2 žaluje EU u ESD, Litva/Estonsko/Polsko žádají zákaz ruské ropy — Vrabel: řešením je vystoupit z EU — [ceny-energie.md](ceny-energie.md). (4) Německý solární boom (1000 GW) promění ČR z vývozce na dovozce elektřiny — [ceny-energie.md](ceny-energie.md). Ostatní zprávy (Rubio/Lavrov spor o Aljašku, Kuba, AFD/migrace v Německu, Vučićova demonstrace, zákaz sociálních sítí v Austrálii, Binance/MiCA, OpenAI/Trump, Porsche přesun výroby) jen rychlý přehled bez samostatného zpracování. Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

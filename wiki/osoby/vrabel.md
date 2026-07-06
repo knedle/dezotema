@@ -232,6 +232,10 @@
 - **26. 6.** — Digitální euro: konkrétní scénáře kontroly (embargo na maso/benzín dle uhlíkové stopy, expirující peníze, zmrazení účtů dle Kanady/Řecka/Číny), výzva bojovat za hotovost — [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 - Summit NATO Ankara — 70 mld. $ pro Ukrajinu vedlejší, hlavní je členství Ukrajiny v NATO (= přímý konflikt s Ruskem); predikce, že vláda peníze schválí — [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 - Petr Macinka prosazuje povinnou tříměsíční vojenskou službu — varování mužům v branném věku ať mají „záložní plán" — [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+- **27. 6.** — Macinkovo pokrytectví: sám na vojně nebyl (modrá knížka), přesto prosazuje povinnou službu a domlouvá zbrojní kontrakty v USA — [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+- Dánsko/EU omezují dočasnou ochranu ukrajinským mužům v branném věku = „čistý fašismus" (+ karmická teze o SS v minulém životě) — [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+- Nord Stream 2 žaluje EU u ESD, Pobaltí/Polsko žádají zákaz ruské ropy — řešením je vystoupit z EU — [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+- Německý solární boom (1000 GW) — ČR se změní z vývozce na dovozce elektřiny — [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -587,6 +591,9 @@
 | Andrej Babiš | ❌ negativní | Predikce: bude předstírat odpor vůči požadavku 70 mld. $ pro Ukrajinu na summitu NATO, ale nakonec schválí — stejně jako 90 mld. v prosinci | 2026-06-26 | [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026) |
 | Ursula von der Leyen | ❌ negativní | Citovaný výrok, že „vysoké úspory Evropanů jsou problém" — spojeno s programem Savings and Investments jako přípravou na digitální euro | 2026-06-26 | [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026) |
 | Vlasta Kovářová | ✅ pozitivní | Senátorka — jediná, kdo dle Vrabela aktivně bojuje za zachování hotovosti; zaslouží si „velký dík" | 2026-06-26 | [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026) |
+| Zdeněk Hřib | ⚖️ rozporuplný | Macinka ho zesměšnil za „modrou knížku"; Vrabel to obrací proti Macinkovi (sám bez vojny), ale nechává i Hřiba bez obhajoby | 2026-06-27 | [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026) |
+| Petr Macinka | ❌ negativní | Propagandistické video pro povinnou vojenskou službu; sám na vojně nebyl (modrá knížka), přitom v USA domlouvá zbrojní kontrakty — „velmi nechutná politika" | 2026-06-27 | [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026) |
+| Aleksandar Vučić | ⚖️ rozporuplný | Kritizuje, že pořádá vlastní státem řízenou demonstraci (jako u nás SPD s Landsmannschaftem) — ale jinak chválí jeho zahraniční i vnitřní politiku (levné ruské energie, obchod s Čínou, prosperita) | 2026-06-27 | [Zprávy v devět 27. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026) |
 
 ---
 
@@ -657,3 +664,4 @@
 - [Zprávy v devět 23. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 - [Idealizace socialistického Československa (25. 6. 2026)](../_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)
 - [Zprávy v devět 26. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+- [Zprávy v devět 27. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)

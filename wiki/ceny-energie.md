@@ -289,3 +289,21 @@ Vrabel cituje bývalého vyjednavače za G20 Fabrizia Paganiho, podle něhož ek
 Vrabel staví Srbsko jako protiklad „šikany" v ČR/EU a uvádí dva konkrétní příklady regulace. (1) **Noční elektřina:** EU prý uvažuje nutit domácnosti šetřit elektřinu večer a v noci, aby zbylo víc energie pro datová centra a „elektrifikovaný průmysl" — což spojuje s „klimatickou bruselskou politikou" cílící na deindustrializaci. (2) **Voda ze studny:** sdílí (s výhradou, že nepotvrzeno) zprávu, že za vlastní studnu hrozí od roku 2026 statisícové pokuty — „studna je vaše, ale voda už ne", protože podzemní voda je v ČR „státní bohatství" a majitel jen uživatel potřebující povolení k nakládání s vodami. Cituje známého, který se odstěhoval do Srbska: tam lze mít tři studny, pálit pálenku, není povinné očkování, elektřina je „za dvě koruny" a vytápění většího domu ~3–4 tis. Kč/měsíc — „a není to v EU". Doplňuje [Srbsko má levný plyn díky přímé dohodě Vučić–Putin](#obnovení-ruských-dodávek-jako-jediné-řešení) a osobní [Srbsko jako model suverenity](osoby/vrabel.md#suverenita-a-eu).
 
 **Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+
+---
+
+### Nord Stream 2 žaluje EU u ESD; Litva/Estonsko/Polsko chtějí úplný zákaz ruské ropy — Vrabel: řešením je vystoupit z EU (27. 6. 2026)
+
+Švýcarská Nord Stream 2 AG podala žalobu k Evropskému soudnímu dvoru proti zákazu dovozu ruského plynu (má platit od konce roku 2027) — namítá, že jde fakticky o vyvlastnění komerčního využití plynovodu bez náhrady. Souběžně Litva a Estonsko vyzvaly EU k co nejrychlejšímu zákazu ruské ropy a polský ministr energetiky Wojciech Rona žádá úplné odmítnutí ruských dodávek do konce roku 2026 (i za cenu vyšších cen), zatímco Maďarsko a Slovensko jsou na ruských dodávkách silně závislé. Vrabel argumentuje, že zákaz plynovodu nevyvlastňuje samotné potrubí (vlastníci si ho „mohou nechat"), ale brání jeho komerčnímu využití. Klíčový argument: pokud Polákům/Pobaltí vadí ruská ropa, ať ji sami nekupují, ale nemají právo to vnucovat ostatním členským státům přes společnou politiku EU — řešením je, aby ČR z EU vystoupila a mohla si sama rozhodovat o nákupu levné a kvalitní ruské ropy/plynu (na které jsou uzpůsobené i české rafinerie), bez ohledu na politický názor na válku na Ukrajině. Politiky prosazující odstřižení od Ruska označuje za zkorumpované „fašisty", kteří chtějí Rusko okrást o suroviny — a varuje, že tlak na jadernou velmoc může eskalovat až k použití taktických jaderných zbraní.
+
+> „Jestli Polákům rusové vadí [...], tak to přece nemusí kupovat. A nám, když nevadí, tak to kupovat můžeme. [...] Jediné, co je potřeba, je nebýt v Evropské unii." — Ladislav Vrabel, [Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+
+---
+
+### Německý solární boom (1000 GW) promění ČR z vývozce na dovozce elektřiny — Vrabel (27. 6. 2026)
+
+Vrabel upozorňuje na plán Německa vybudovat až 1000 gigawattů solárních kapacit, což podle něj zásadně změní evropskou energetickou soustavu: ČR, která byla ještě v roce 2022 čistým vývozcem elektřiny v Evropě, se stane čistým dovozcem a bude draze nakupovat elektřinu z Německa vyrobenou ze slunce. Odpovědnost klade na Fialovu i Babišovu vládu (a jmenovitě na Petra Macinku, který byl 8. května na oslavě konce 2. světové války v Německu) za to, že ČR neinvestovala včas do vlastní energetické soběstačnosti a nechala „odevzdat" tento zdroj příjmů Německu. Zmiňuje také, že Německo plánuje ukončit spalování uhlí až v roce 2038 (hnědé uhlí o 8 let dříve), zatímco ČR se od uhlí odklání rychleji, přestože ho stále částečně dováží z Austrálie.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)

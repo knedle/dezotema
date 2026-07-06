@@ -302,6 +302,16 @@ Vrabel tvrdí (s odkazem na Putinova čísla o dezercích), že Ukrajinci necht�
 
 ---
 
+### Dánsko/EU omezují dočasnou ochranu ukrajinským mužům, aby zabránily útěku před mobilizací — „čistý fašismus" (Vrabel, 27. 6. 2026)
+
+Dánská vláda mění pravidla dočasné ochrany tak, aby ji nešlo využívat k vyhýbání se ukrajinské mobilizaci (odůvodnění ministra pro imigraci Mortena Bødskova: „podkopává to ukrajinské válečné úsilí") — Vrabel upozorňuje, že ke stejnému kroku se chystá Evropská komise a Norsko to už zavedlo. Označuje to za „čistý fašismus": podle Ženevské konvence má člověk prchající před válkou nárok na ochranu v první bezpečné zemi bez ohledu na to, zda je vojenského věku — cílem omezení je poslat tyto muže zpátky na frontu, protože je Zelenskyj potřebuje do armády. Připojuje svou „karmickou" tezi, že politici prosazující takové kroky museli být v minulém životě v SS nebo jiné nacistické struktuře, protože nepochopili mezinárodní konvence o právu na útěk před válkou.
+
+> „Za mě tohle je čistý fašismus. Tohle je čistý fašismus." — Ladislav Vrabel, [Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+
+---
+
 ### Ukrajina jako fašistický stát z definice — Vrabel (1. 5. 2026)
 
 Vrabel v komentáři k prvomájovému průvodu „proti fašismu v parlamentu" v Praze přečetl akademickou definici fašismu a bod po bodu ji aplikoval na Ukrajinu. Výsledek: Ukrajina je dle Vrabela „naprosto fašistický režim z definice":
@@ -408,6 +418,12 @@ Vrabel opakovaně zdůrazňuje jako „šokující" a „neuvěřitelné" video,
 > „Macinka už tady prosazuje, že má být tříměsíční vojenská služba. [...] Vy, kdo jste v zálohách vojenských, tak bych opravdu přemýšlel nad záložním plánem. A vy, kdo jste ve vojenském věku, tak přemýšlejte, pro Boha, do budoucna." — Ladislav Vrabel, [Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+Následující den (**27. 6.**) Vrabel reaguje na Macinkovo propagandistické video, v němž ministr zahraničí obhajuje návrh povinného tříměsíčního vojenského výcviku jako protipól „ufňukaných" Pirátů (osobně napadá Zdeňka Hřiba za jeho „modrou knížku" — zdravotní osvobození od vojny). Vrabel poukazuje na hlubokou pokrytectví: Macinka sám na vojně nikdy nebyl, přesto posílá na vojnu ostatní; téže Macinka na cestě do USA vyjednává zbrojní kontrakty a dělá z ČR „zbrojařskou zemi pro Spojené státy" (viz [Macinka a americké zbrojní kontrakty](#zbrojní-byznys-bez-výběrových-řízení--kolář-a-macinka-jako-zprostředkovatelé-vrabel-5-6-2026)), zatímco ve videu tvrdí, že chce investovat do mladých lidí místo do zbraní. Sám Vrabel odmítá povinnou vojenskou službu i pro Německo (kvůli WWII by podle něj Německo nemělo mít armádu „dalších tisíc let") i pro ČR — z osobní zkušenosti popisuje vojnu jako šokující zkušenost a vyzývá lidi, kteří to obhajují (zejména ženy v komentářích), ať si to nejdřív sami vyzkoušejí.
+
+> „On jde podepisovat kontrakty do Kongresu, domlouvat kontrakty na zbrojení pro Českou republiku [...], ale křičí proti Petrovi Pavlovi, že on nás prodává americkým zbrojařům." — Ladislav Vrabel, [Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
 
 ---
 
