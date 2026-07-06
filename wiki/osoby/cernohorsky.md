@@ -80,6 +80,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Sametová revoluce jako řízený rozpad, Havel a Schwarzenberg jako agenti Západu — [Brno a Landsmannschaft 6. 4. 2026](../_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
 - „Česko je plán" a příprava na připojení k Německu — [Česko je plán 14. 11. 2025](../_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
 - ⚡ Konflikt s Vrabelem: rekordní vedro je normální, „žádné klimatické změny se nedějí" — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
+- Potvrzuje víru v chemtrails na základě vlastního pozorování oblohy — [Videoportál: chemtrails na obloze 3. 7.](../_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -261,3 +262,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: Grolich žebrá o peníze (30. 6. 2026)](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
 - [Videoportál: krach automobilového průmyslu (2. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
 - [FB Live: letní sestřih (3. 7. 2026)](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
+- [Videoportál: chemtrails na obloze (3. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)

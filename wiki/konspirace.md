@@ -348,7 +348,9 @@ Vrabel tvrdí, že chemtrails (kondenzační stopy letadel) jsou záměrné syp�
 
 Vrabel ve zprávách otevřel téma změny klimatu jako osobní pozorování: slunce je podle něj dnes „bílé a pálící" (dříve žluté), vedra nesnesitelná, mizí hmyz, přibývá krupobití a eroze půdy. Nechává otevřené, zda jde o přirozené cykly, ozonovou díru, nebo lidský vliv. Spekuluje, že chemtrails mohou být pokusem potlačit skleníkový efekt, ale diví se, proč se do atmosféry sype tolik různých jedovatých těžkých kovů (hliník vysušuje a zakyseluje půdu, proniká do potravin) místo jediné látky. Na rozdíl od klimatu označuje migraci za „nepřirozenou" a řízenou. Rozšiřuje [Chemtrails: sypání těžkých kovů do atmosféry (15. 5.)](#chemtrails-sypání-těžkých-kovů-do-atmosféry-větrníky-60-kg-nanočástic-vrabel-15-5-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
+Černohorský (3. 7. 2026) nezávisle potvrzuje tutéž víru v chemtrails — popisuje vlastní pozorování stop na obloze, které dle něj „na tisíc procent" nejsou přirozené meteorologické jevy, ale uměle vytvořené frekvencemi (bez upřesnění mechanismu nad rámec Vrabelova výkladu).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026), [Černohorský — Videoportál: chemtrails na obloze, 3. 7. 2026](_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
 
 ---
 

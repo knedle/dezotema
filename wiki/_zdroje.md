@@ -2742,3 +2742,12 @@
 - **Délka:** 01:55:05 | Extrémně dlouhý „letní sestřih" — pokračování kauzy ÚS/Pavel/Ankara a obecná kritika Pavla
 - **Poznámka:** Většina obsahu (přes hodinu) je opakování už rozsáhle zdokumentované kritiky Petra Pavla (lži o komunistické minulosti, incident se standartou, žebrání o plat pro první dámu, Kolář jako poradce atd.) — nezpracováno jako duplicitní. Tři nově zpracovaná témata: (1) Únik dokumentu MO o žádosti na dopravu 35 osob do Ankary usvědčuje Hrad ze lži — [politicky-system.md](politicky-system.md). (2) Kontroverzní projev v Terezíně (přeživší „taky dělali chyby") + omluva za 3 dny — [politicky-system.md](politicky-system.md). (3) Pavel podporuje euro a vzdání se práva veta v zahraniční politice — [suverenita-eu.md](suverenita-eu.md). Vedlejší obsah: kritika pražské dopravní politiky, sněmovní návrh na zákaz alkoholu (STAN), osobní vzkazy divákům — nezpracováno. **Stoch. teror:** Černohorského vlastní schválení trestu smrti/oprátky pro Pavla; sdílený a odcitovaný výrok o „kulce mezi oči" pro Moniku Babišovou. Bez predikcí.
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál: chemtrails na obloze (3. 7. 2026) {#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-03_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě (Facebook)
+- **URL:** <https://www.facebook.com/100085862388850/videos/1214188147460248>
+- **Datum záznamu:** 2026-07-03
+- **Délka:** 00:02:11 | Zhlédnutí: 10 683 | Pokračování z předchozího videa (chemtrails na obloze)
+- **Poznámka:** Beze změny/posunu oproti již zdokumentovanému tématu chemtrails (viz konspirace.md, Vrabel 20. 6.) — Černohorský jen osobně potvrzuje víru v teorii na základě vlastního pozorování oblohy, bez nového mechanismu či tvrzení. Přidán jako doplňkový zdroj k existujícímu záznamu. Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
