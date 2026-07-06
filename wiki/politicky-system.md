@@ -288,6 +288,16 @@ V debatě 360° (**25. 6.**) Rajchl argumentaci rozvedl: předběžné opatřen�
 
 ---
 
+### Žádný precedent nebyl porušen; Pavel by byl kvůli Trumpovi na summitu kontraproduktivní — Rajchl (27. 6. 2026)
+
+V rozhovoru pro TN.cz Rajchl odmítá argument ÚS, že vyloučení Pavla z delegace porušilo ústavní zvyklost: podle něj zvyklost nikdy nespočívala v tom, že by ústava účast prezidenta vyžadovala, ale v tom, že o složení delegace vždy rozhodovala vláda — a dosud žádná vláda prezidenta nevyloučila, tudíž nejde o porušení zavedeného úzu, ale o zcela bezprecedentní (novou) situaci, na kterou se ÚS „velmi slabým a chabým" argumentem odvolává neprávem. Zpochybňuje také věcný přínos Pavlovy účasti: Pavel měl dobré vztahy s administrativou Joe Bidena, ne s aktuální administrativou Donalda Trumpa (přirovnává to k vyslání člověka s dobrými kontakty u vlády Fialy na jednání s Babišem) — navíc Pavel dříve veřejně řekl, že mu Trump „odpuzuje jako lidská bytost" a že doufá, že mu už nikdy nebude muset podat ruku, což si podle Rajchla Spojené státy budou pamatovat. Kriticky hodnotí i vystoupení soudců ÚS na tiskové konferenci jako nejisté a nepůsobící sebevědomě.
+
+> „Ani jeden prezident v historii nejel na summit NATO bez souhlasu vlády. [...] Jedná se o bezprecedentní situaci, o naprosto novou situaci." — Jindřich Rajchl, [Videoportál: TN.cz rozhovor, 27. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)
+
+**Zdroje:** [Rajchl — Videoportál: TN.cz rozhovor, 27. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

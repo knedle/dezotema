@@ -86,6 +86,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Zuzana Černá: faktické chyby + označení za „ruskou kolaborantku" Natálie Vachatové = „bolševické manýry"; ODS Hedia žhářská hrozba bez odsouzení vs. lynčování Rajchla za „terče" — [Média: Zuzana Černá, ODS Hedia, dvojí metr (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
 - **21. 6.** — ČT = strážce probruselského směřování, ne demokracie (cenzura hymny Nohavicy, stávka jako protizákonné zneužití obrazovky, ČT horší/dražší než Nova/Prima/CNN Prima News, dobrovolné poplatky); dvojí metr v kauzách (Paukner: vrtulníky/Hladík/Dvořák/dozimetr vs. byty), Seznam demaskuje Pauknerův pseudonym; Milion chvilek/Minář jako vlivová struktura — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **26. 6.** — sněmovní faktická poznámka: dobrovolné koncesionářské poplatky v libovolné výši (klidně 50 mld. rozpočet), politici bez vlivu na ČT, porušení etického kodexu ČT při stávce — [Videoportál: sněmovní debata o ČT (26. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
+- **27. 6.** — TN.cz rozhovor: žádný precedent nebyl porušen (o delegaci vždy rozhodovala vláda), Pavel by byl kvůli Trumpově urážce kontraproduktivní, soudci ÚS působili nejistě — [Videoportál: TN.cz rozhovor (27. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -330,3 +331,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [ÚS: akreditace Pavla na summit (24. 6. 2026)](../_zdroje.md#jindřich-rajchl--ús-akreditace-pavla-summit-24-6-2026)
 - [360° k rozhodnutí ÚS (25. 6. 2026)](../_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
 - [Videoportál: sněmovní debata o ČT (26. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
+- [Videoportál: TN.cz rozhovor (27. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)

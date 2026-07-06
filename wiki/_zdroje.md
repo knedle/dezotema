@@ -2589,3 +2589,12 @@
 - **Délka:** 00:46:05 | Zhlédnutí: 553 | Facebook blokace/klon profilu (logistika) + čtení odpovědi Hradu + pozvánka na akci v červenci
 - **Poznámka:** Jediné zpracované téma: Soňa Peková zveřejnila odpověď Kanceláře prezidenta republiky na svou petici (7. 5. 2026, přes 1000 podpisů) žádající milost/přezkoumání trestů 4 osob odsouzených za covidové výroky — odpověděl úředník (ředitel legislativního odboru), ne Pavel osobně; milost je vyhrazena jen pro humanitární případy, žádost o osobní jednání zamítnuta. Zítko to spojuje se svou tezí o soudech jako „soukromých firmách" a poukazuje na kontrast rychlosti ÚS v Pavlově vlastní kauze (Ankara) vs. měsíce/půl roku u běžných případů. Zbytek videa: logistika (4denní blokace profilu na FB, falešný klon, přesun na Rumble/Substack) a pozvánka na sraz v Penzionu Ráj 4.–6. 7. 2026 — nezpracováno (osobní/organizační). Tematicky → [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: TN.cz rozhovor (27. 6. 2026) {#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-27_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1992508238118391>
+- **Datum záznamu:** 2026-06-27
+- **Délka:** 00:02:13 | Zhlédnutí: 126 136 | Ukázka z rozhovoru pro TN.cz
+- **Poznámka:** Pokračování kauzy ÚS/Pavel/Ankara — Rajchl odmítá, že vyloučením Pavla z delegace byla porušena ústavní zvyklost: zvyklostí bylo, že o složení delegace rozhoduje vláda, ne že prezident musí být vždy zahrnut — dosud se to prostě nestalo, jde tedy o bezprecedentní, nikoli protiprávní situaci. Zpochybňuje přínos Pavlovy účasti kvůli výměně administrativy v USA (Biden→Trump) a připomíná Pavlův starší výrok, že mu Trump „odpuzuje jako lidská bytost". Kritizuje nejisté vystoupení soudců ÚS na tiskovce. Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
