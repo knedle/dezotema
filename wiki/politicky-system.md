@@ -298,6 +298,16 @@ V rozhovoru pro TN.cz Rajchl odmítá argument ÚS, že vyloučení Pavla z dele
 
 ---
 
+### Pavel na summitu škodí kvůli vztahům s USA; odmítá platit „sponzorům státního terorismu" — Rajchl (3. 7. 2026)
+
+V dalším rozhovoru Rajchl doplňuje důvod, proč by Pavel neměl na summit NATO jet: má špatné vztahy se Spojenými státy, které tam budou hrát klíčovou roli — zejména kvůli klíčovému bodu jednání, 70 mld. dolarům pro Ukrajinu. Zároveň předpovídá, že Andrej Babiš bude tuto půjčku v zákulisí jednoznačně podporovat, i přes veřejné výhrady, protože „ji podporoval vždycky" stejně jako muniční iniciativu. Odmítá dál posílat peníze Ukrajině s odkazem na tentýž den zveřejněnou zprávu (Novinky.cz), že za vyhozením plynovodu Nord Stream stáli Ukrajinci na přímý pokyn státu — Ukrajinu tak označuje za „sponzora státního terorismu", kterému by ČR neměla dávat další půjčky ani dary, ale naopak by měla žádat reparace za útok na evropskou infrastrukturu.
+
+> „Prosím vás, můžeme dál dávat peníze teroristům, kteří útočí na evropskou infrastrukturu?" — Jindřich Rajchl, [Videoportál 3. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
+
+**Zdroje:** [Rajchl — Videoportál: Nord Stream a 70 miliard, 3. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
+
+---
+
 ### Právní rozbor čl. 63: prezidentův podpis bez kontrasignace nemá váhu; skutečným cílem je vzít s sebou Koláře — Černohorský (28. 6. 2026)
 
 Černohorský jde do detailu ústavní argumentace o pravomocích prezidenta sjednávat mezinárodní smlouvy (čl. 63 Ústavy). Připomíná, že už Václav Havel rozhodnutím č. 144/1993 Sb. přenesl sjednávání většiny mezinárodních smluv na vládu a ministry — prezident tedy fakticky sám žádné texty smluv nevyjednává. Klíčový argument: i kdyby chtěl prezident nějakou smlouvu sjednat osobně, jeho podpis bez kontrasignace (spolupodpisu premiéra nebo pověřeného ministra) nemá žádnou právní váhu — vláda tak má nad zahraničněpolitickými kroky prezidenta absolutní kontrolu. Z toho vyvozuje, že skutečným smyslem Pavlovy touhy jet do Ankary není nic, co by vyžadovalo jeho osobní účast, ale to, aby s ním mohl letět poradce Petr Kolář — lobbista s vazbami na zbrojní průmysl, který podle Černohorského domlouvá kontrakty (např. se Strnadovou zbrojovkou) bez jakékoli kontroly vlády. Jako nepřímý důkaz uvádí neověřenou informaci, že akcie Strnadovy zbrojařské firmy po rozhodnutí ÚS vzrostly o 11 %. Zmiňuje také, že na summitu NATO se má schvalovat dalších 70 mld. EUR pro Ukrajinu — a to nikoli jednorázově, ale každoročně.

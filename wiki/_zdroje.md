@@ -2724,3 +2724,12 @@
 - **Délka:** 00:56:37 | Zhlédnutí: 301 | Facebook logistika, denní konstelace, QAnon/Trump recap, aktualita soudního odvolání, pozvánka na akci
 - **Poznámka:** Jediné zpracované téma: shrnutí Zítkova trestního stíhání (odsouzen 3 roky nepodmíněně za „šíření poplašné zprávy") — zadržení 10. 10. 2023, evropský zatýkací rozkaz i přes zplnomocněného advokáta, 110 dní vazby, ozbrojený zásah 3. 2. 2025 bez obvinění; první reakce Krajského soudu v Ústí nad Labem na odvolání odmítla veškeré důkazy (vč. CDC dokumentu o ~150 tis. úmrtích po vakcinaci v USA) jako „dezinformaci", protože to „nebylo v televizi". Tematicky → [covid-vakciny.md](covid-vakciny.md). Zbytek videa: logistika (FB blokace/klony), astrologická konstelace dne, recap QAnon/Trump/Deep State tezí (Central Casting, dvojníci, korporace USA), pozvánka na akci v Ráji — nezpracováno (repetice/logistika). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Nord Stream a 70 miliard (3. 7. 2026) {#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-03_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/5468097640082962>
+- **Datum záznamu:** 2026-07-03
+- **Délka:** 00:01:07 | Zhlédnutí: 72 277
+- **Poznámka:** Pokračování kauzy ÚS/Pavel/Ankara — Pavel na summitu škodí kvůli špatným vztahům s USA, klíčovým bodem jednání je 70 mld. dolarů pro Ukrajinu; předpovídá, že Babiš půjčku v zákulisí podpoří i přes veřejné výhrady. S odkazem na zprávu o obžalobě Ukrajinců za Nord Stream (na příkaz státu) odmítá dál dávat peníze „sponzorům státního terorismu". Tematicky → [politicky-system.md](politicky-system.md). Bez predikcí (mimo zmíněnou) a stoch. teroru.
+- **Zpracováno:** ano

@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Babiš bude v zákulisí podporovat půjčku Ukrajině i přes veřejné výhrady (3. 7. 2026)
+
+**Předpověď:** Rajchl je „naprosto jednoznačně přesvědčen", že Andrej Babiš bude na summitu NATO v zákulisí podporovat 70 mld. dolarů pro Ukrajinu i muniční iniciativu, bez ohledu na veřejně deklarované výhrady — protože tuto podporu poskytoval „vždycky".
+
+> „Já jsem naprosto jednoznačně přesvědčen, že on bude tu půjčku Ukrajině podporovat. V zákulisí ji bude zcela jednoznačně podporovat." — Jindřich Rajchl
+
+**Horizont:** summit NATO v Ankaře, 7.–8. 7. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Videoportál: Nord Stream a 70 miliard, 3. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
+
+---
+
 ### Pavel Zítko — MedBeds budou civilně nasazeny mezi 4. čtvrtletím 2026 a 2. čtvrtletím 2027 (30. 6. 2026)
 
 **Předpověď:** Podle uniklého „standardního operačního postupu" (zdroj: Vesna Kurguz), který Zítko sdílel, budou léčebná zařízení MedBeds zpřístupněna civilnímu obyvatelstvu v časovém rámci od čtvrtého čtvrtletí 2026 do druhého čtvrtletí 2027 — po dětech zachráněných z tunelů a válečných veteránech, kteří už mají být léčeni.

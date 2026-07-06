@@ -64,6 +64,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **21. 6.** — Zelenský adoruje nacismus (UPA), Pavlovo mlčení = urážka předků, odebrat řád Bílého lva (ať Ukrajinci vrátí Polsku i peníze); zrušit dočasnou ochranu/dávky Ukrajincům + automatická deportace (vyvrácení statistiky V. Lásky o vězních), ukrajinské děti se neasimilují a brzdí výuku (vs. Plaga) — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **30. 6.** — formální návrh SPD na koaliční radu: doporučit prezidentovi odebrat Zelenskému Řád bílého lva, po vzoru Polska; cituje Masaryka (fašismus = „sedlina národní demokracie") — [Videoportál: návrh na odebrání řádu (30. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
 - **1. 7.** — reakce na ohlasy: opozice (Ženíšek) mlčí k UPA, ale zpochybňuje jeho duševní stav; Polsko hrozí vetem vstupu Ukrajiny do EU — [Videoportál: reakce na ohlasy (1. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-reakce-na-ohlasy-1-7-2026)
+- **3. 7.** — Pavel na summitu škodí kvůli vztahům s USA; odmítá platit „sponzorům státního terorismu" po obžalobě Ukrajinců za Nord Stream; predikuje, že Babiš půjčku Ukrajině v zákulisí podpoří — [Videoportál: Nord Stream a 70 miliard (3. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -339,3 +340,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál: TN.cz rozhovor (27. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)
 - [Videoportál: návrh na odebrání řádu Zelenskému (30. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-návrh-na-odebrání-řádu-zelenskému-30-6-2026)
 - [Videoportál: reakce na ohlasy (1. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-reakce-na-ohlasy-1-7-2026)
+- [Videoportál: Nord Stream a 70 miliard (3. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
