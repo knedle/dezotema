@@ -497,6 +497,14 @@ Dopis žádá prezidenta o využití ústavních pravomocí (čl. 62G a 63.1K) k
 
 ---
 
+### Zítkovo odvolání: Krajský soud v Ústí n. L. odmítl důkazy jako „nebylo v televizi" (2. 7. 2026)
+
+Zítko líčí dosavadní průběh svého trestního stíhání za „šíření poplašné zprávy" (odsouzen na 3 roky nepodmíněně): zadržení 10. 10. 2023, evropský zatýkací rozkaz vydaný přesto, že už měl advokáta s plnou mocí ho zastupovat, 110 dní vazby, a zásah ozbrojené jednotky 3. 2. 2025 bez následného obvinění. K odvolání u Krajského soudu v Ústí nad Labem (rok čekání) nyní dorazila první reakce — podle Zítka soud veškeré předložené důkazy (ověřené kopie, místopřísežná prohlášení, přeložený dokument CDC o cca 150 tisících úmrtích po očkování v USA k 28. 8. 2021) zařadil do kategorie „dezinformace" s odůvodněním, že to nebylo odvysíláno v televizi. Srovnává to s bitcoinovou kauzou (100+ mld. Kč), kde po roce stále nepadlo obvinění, a uzavírá, že justice funguje jako „ochranka gaunerů v korporaci".
+
+**Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026)
+
+---
+
 ### Soud v Amsterdamu: Gates, Bourla a Rutte jako obžalovaní
 
 Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou obžalovaní Bill Gates, Albert Bourla (CEO Pfizer) a Mark Rutte. Pokračování je naplánováno na 22. října 2026.

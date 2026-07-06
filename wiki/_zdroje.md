@@ -2715,3 +2715,12 @@
 - **Délka:** 00:56:06 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
 - **Poznámka:** Čtyři zpracovaná témata: (1) Soudní dvůr EU potvrdil, že sdílení obsahu Russia Today je trestný čin i pro soukromé osoby (až 5 let) — Vrabel maže celý archiv pořadu a přestává sdílet ruská média — [dsa-cenzura.md](dsa-cenzura.md). (2) Německo obžalovalo Ukrajince za Nord Stream, potvrzeno zapojení ukrajinských státních orgánů — [konspirace.md](konspirace.md). (3) Dvojí metr: aktivisté pašující drony na Ukrajinu bez povolení „nespáchali trestný čin", na rozdíl od Vrabelova vlastního odsouzení za chybu ve formuláři — [kauzy.md](kauzy.md). (4) Rostoucí nerovnost v ČR (Knight Frank) + teze o centralizaci moci „shora" (BlackRock/Vanguard) — [konspirace.md](konspirace.md). Ostatní zprávy (Tucker Carlson zakládá třetí stranu, EU dotace pro Jižní Kavkaz, digitální ID v USA, Kaja Kalas, Zelenskyj a rakety z Norska, Hormuzský průliv) jen rychlý přehled bez samostatného zpracování. Bez predikcí (nad rámec již zaznamenaných) a stoch. teroru.
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026) {#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-02_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1976285016342508&_rdr>
+- **Datum záznamu:** 2026-07-02
+- **Délka:** 00:56:37 | Zhlédnutí: 301 | Facebook logistika, denní konstelace, QAnon/Trump recap, aktualita soudního odvolání, pozvánka na akci
+- **Poznámka:** Jediné zpracované téma: shrnutí Zítkova trestního stíhání (odsouzen 3 roky nepodmíněně za „šíření poplašné zprávy") — zadržení 10. 10. 2023, evropský zatýkací rozkaz i přes zplnomocněného advokáta, 110 dní vazby, ozbrojený zásah 3. 2. 2025 bez obvinění; první reakce Krajského soudu v Ústí nad Labem na odvolání odmítla veškeré důkazy (vč. CDC dokumentu o ~150 tis. úmrtích po vakcinaci v USA) jako „dezinformaci", protože to „nebylo v televizi". Tematicky → [covid-vakciny.md](covid-vakciny.md). Zbytek videa: logistika (FB blokace/klony), astrologická konstelace dne, recap QAnon/Trump/Deep State tezí (Central Casting, dvojníci, korporace USA), pozvánka na akci v Ráji — nezpracováno (repetice/logistika). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

@@ -46,6 +46,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Zítko sám má soudní zákaz vstupu do Prahy (2 roky); TV cenzura: pořad Máte slovo odmítl jeho účast — [Máte slovo živě: Prymula, zákaz Prahy 17. 4.](../_zdroje.md#pavel-zítko--máte-slovo-živě-prymula-zákaz-prahy-17-4-2026)
 - Odvolání proti rozsudku Dvořákové (3 roky nepodmíněně) — „pravda není poplašná zpráva", 11 porušených zákonů — [Měnová reforma 1953 a Blažcoin 3. 6.](../_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
 - Bytel TV: 22 zrušených YouTube kanálů + 4 účty (čl. 17 Listiny); Okamura 3 mil. za plakát „chirurgové z dovozu", výzva k cashbacku poplatků ČT — [Füllmich živě z vězení 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+- Odvolání u Krajského soudu Ústí n. L. — soud odmítl důkazy (vč. CDC dokumentu) jako „dezinformaci", protože „nebylo v televizi"; shrnutí stíhání (zadržení 2023, 110 dní vazby, ozbrojený zásah 2025 bez obvinění) — [Videoportál: konstelace, Trump, Krajský soud 2. 7.](../_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Přistání na Měsíci jako podvod, Artemis jako pokračování; CIA umlčela Kubricka; QAnon: klony/herci/EBS/Guantanamo; Save the Children / adrenochrom; Quantum Financial System; MedBeds; plochá Země (Gleasonova mapa); Trump=herec (170 cm vs. 190 cm), Biden dvě výšky; EBS = reprízování událostí, které se již odehrály — [Večerník 2. dubna](../_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
@@ -225,3 +226,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Křest knihy „Já, dezinformátorka" (24. 6. 2026)](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
 - [Videoportál: Hrad odpověděl na Pekovou (26. 6. 2026)](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
 - [Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](../_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
+- [Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026)
