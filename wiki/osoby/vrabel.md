@@ -229,6 +229,9 @@
 - Polsko vs. Ukrajina — historická paměť (Volyň) vítězí nad prozápadní touhou, Poláci domobrana (Braun/Konfederace) — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 - Írán — Rubio: USA do Íránu investovat nebude (memorandum „hra"), Trump chce 350 mld $ od Evropy; Trump = kapitulace, ne diplomacie, cíl „pevnost Amerika"/komodity — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 - Policejní brutalita Západu (Andersson/Dánsko, Británie, němečtí policisté vs. Poláci na hřbitově) = předválečný stav; ČR zastrašování (Čermák, Z, Kutý) — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+- **26. 6.** — Digitální euro: konkrétní scénáře kontroly (embargo na maso/benzín dle uhlíkové stopy, expirující peníze, zmrazení účtů dle Kanady/Řecka/Číny), výzva bojovat za hotovost — [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+- Summit NATO Ankara — 70 mld. $ pro Ukrajinu vedlejší, hlavní je členství Ukrajiny v NATO (= přímý konflikt s Ruskem); predikce, že vláda peníze schválí — [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+- Petr Macinka prosazuje povinnou tříměsíční vojenskou službu — varování mužům v branném věku ať mají „záložní plán" — [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -580,6 +583,10 @@
 | Peter Magyar | ❌ negativní | Nový maďarský premiér — díky němu je V4 zase „jednotná", protože má na válku stejný názor jako ostatní (na rozdíl od Orbána) = příprava na mobilizaci | 2026-06-23 | [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026) |
 | Marco Rubio | ○ neutrální | Citován — USA do Íránu investovat nebude (memorandum o ~300 mld $ byla „hra"); Vrabel to bere jako potvrzení své skepse | 2026-06-23 | [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026) |
 | Grzegorz Braun | ✅ pozitivní | „Náš kamarád a kolega" — europoslanec a předseda Konfederace; Poláci dle Vrabela díky němu dělají domobranu proti migračnímu paktu | 2026-06-23 | [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026) |
+| Petr Macinka | ❌ negativní | Prosazuje povinnou tříměsíční vojenskou službu — „neuvěřitelné"; na cestě do USA domlouval zbrojní kontrakty, konkuruje Petru Kolářovi | 2026-06-26 | [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026) |
+| Andrej Babiš | ❌ negativní | Predikce: bude předstírat odpor vůči požadavku 70 mld. $ pro Ukrajinu na summitu NATO, ale nakonec schválí — stejně jako 90 mld. v prosinci | 2026-06-26 | [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026) |
+| Ursula von der Leyen | ❌ negativní | Citovaný výrok, že „vysoké úspory Evropanů jsou problém" — spojeno s programem Savings and Investments jako přípravou na digitální euro | 2026-06-26 | [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026) |
+| Vlasta Kovářová | ✅ pozitivní | Senátorka — jediná, kdo dle Vrabela aktivně bojuje za zachování hotovosti; zaslouží si „velký dík" | 2026-06-26 | [Zprávy v devět 26. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026) |
 
 ---
 
@@ -649,3 +656,4 @@
 - [Zprávy v devět 22. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - [Zprávy v devět 23. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 - [Idealizace socialistického Československa (25. 6. 2026)](../_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)
+- [Zprávy v devět 26. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)

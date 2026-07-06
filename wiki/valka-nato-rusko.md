@@ -391,6 +391,26 @@ Vrabel zpochybňuje, proč byl Zelenský na summitu G7 (sdružení nejvyspělej�
 
 ---
 
+### Summit Ankara: 70 mld. dolarů je vedlejší, hlavní je členství Ukrajiny v NATO — Vrabel (26. 6. 2026)
+
+Vláda přijala zásady, se kterými česká delegace pojede na summit NATO v Ankaře (2 % HDP na obranu do konce roku); spor o to, kdo delegaci povede (Pavel vs. Babiš), Vrabla „až tak nezajímá" — cokoliv se tam schválí, musí stejně potvrdit vláda. Predikuje, že Česko nakonec 70 mld. dolarů pro Ukrajinu schválí (odkazuje na svůj dřívější odhad, že Pavel na summit nakonec pojede, který se potvrdil) — Babiš prý bude předstírat odpor a pak stejně podepíše, jako v prosinci s 90 mld. Zdůrazňuje, že částka je vedlejší: skutečně zásadní otázkou summitu je, zda NATO odsouhlasí členství Ukrajiny, což by znamenalo přímý vojenský konflikt s Ruskou federací. Kriticky glosuje, že Petr Macinka na cestě do Washingtonu domlouval zbrojní kontrakty s americkými firmami a nyní „konkuruje" Petru Kolářovi coby zprostředkovatel.
+
+> „Ono nejde jenom o těch 70 miliard, jde taky o to, že Ukrajina se má stát členem NATO, a to je ta nejzásadnější věc. [...] Pokud NATO rozhodne, že přijme Ukrajinu do NATO, tak jsme v přímém vojenském konfliktu s Ruskou federací." — Ladislav Vrabel, [Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+---
+
+### Petr Macinka prosazuje povinnou tříměsíční vojenskou službu — Vrabel varuje muže v branném věku (26. 6. 2026)
+
+Vrabel opakovaně zdůrazňuje jako „šokující" a „neuvěřitelné" video, v němž Petr Macinka veřejně prosazuje zavedení povinné tříměsíční základní vojenské služby v ČR pro všechny. Spojuje to s celkovým trendem směřování k válce (americké tvrzení, že „Ukrajina vyhrává", jako příprava veřejnosti na schválení dalších peněz a členství v NATO na summitu v Ankaře) a přímo vyzývá diváky v záloze i v brance věku, aby si připravili „záložní plán".
+
+> „Macinka už tady prosazuje, že má být tříměsíční vojenská služba. [...] Vy, kdo jste v zálohách vojenských, tak bych opravdu přemýšlel nad záložním plánem. A vy, kdo jste ve vojenském věku, tak přemýšlejte, pro Boha, do budoucna." — Ladislav Vrabel, [Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+---
+
 ### Zelenského náborová propaganda a odebrání řádu (Navrocki) — Vrabel (19. 6. 2026)
 
 Dva body k Ukrajině a Zelenskému:

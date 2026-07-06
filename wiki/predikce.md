@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — ČR nakonec schválí 70 mld. dolarů pro Ukrajinu ze summitu NATO (26. 6. 2026)
+
+**Předpověď:** Bez ohledu na to, kdo povede českou delegaci na summitu NATO v Ankaře (Pavel nebo Babiš), Vrabel předpovídá, že vláda nakonec schválí požadovaných 70 mld. dolarů pro Ukrajinu — stejně jako v prosinci schválila 90 mld. Andrej Babiš prý bude nejprve předstírat odpor („že ne, že ne, že ne"), ale nakonec to podepíše. Odkazuje na svou dřívější úspěšnou predikci, že Petr Pavel na summit nakonec pojede navzdory počátečnímu odmítnutí.
+
+> „Bych se znovu vsadil [...], že Česká republika nakonec do toho půjde a bude dávat ty peníze do NATO, těch sedmdesát miliard." — Ladislav Vrabel
+
+**Horizont:** summit NATO v Ankaře, 7.–8. 7. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+---
+
 ### Jiří Černohorský — „Novodobý Pinočet na Hradě" při eskalaci sporu ÚS vs. Babiš (25. 6. 2026)
 
 **Předpověď:** Podmíněná úvaha — pokud by Andrej Babiš odmítl respektovat rozhodnutí Ústavního soudu (akreditace Pavla na summit NATO) a spor by se vyhrotil, mohlo by to dle Černohorského vyústit až v „novodobého Pinočeta na Hradě" nebo v nasazení cizí armády (Bundeswehr / jednotky EU) na českém území. Sám ale odhaduje nízkou pravděpodobnost, protože český národ „nepůjde do ulic" a armáda ČR je kvůli předchozí vládní politice v „dezolátním stavu".

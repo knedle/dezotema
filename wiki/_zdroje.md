@@ -2571,3 +2571,12 @@
 - **Délka:** 00:47:48 | Vysvětlení pauzy ve vysílání + pokračování kauzy ÚS/Pavel/Ankara
 - **Poznámka:** Dvě témata: (1) Zklamání z reakce vlastenecké scény na sjezd Landsmannschaftu v Brně (květen 2026) — kritika Robina Čumpelíka za napadení Konečné/Stačilo na demonstraci; hlavní stížnost, že slíbený otevřený dopis s 300–500 tisíci podpisy nikdy nevznikl, akce skončila jen politickými proslovy; vlastenecká scéna se tříští na stranické značky (PRO/SPD/Trikolora/Svobodní/KSČM/ČSR) — [benesovy-dekrety.md](benesovy-dekrety.md). (2) Eskalace kauzy ÚS/Pavel/Ankara — Pavel by neměl jet vůbec, ÚS „chyboval", skutečným strůjcem je lobbista Petr Kolář (obviněn ze zbrojařských kšeftů a profitování z válečných obětí); predikuje, že vláda Babiše/Macinky kauzu politicky ustojí — [politicky-system.md](politicky-system.md). **Stoch. teror:** explicitní násilné fantazie vůči Petru Pavlovi („nakopal bych tě do prdele, kopal bych tě až do Kyjeva") a Petru Kolářovi („vykopal bych ho z hradu, kopal bych ho až do Bruselu"); dehumanizace Pavla („jsi míň než hovno v trávě").
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (26. 6. 2026) {#ladislav-vrabel--zprávy-v-devět-26-6-2026}
+- **Soubor:** [přepis](prepisy/done/2026-06-26_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1010567678367517>
+- **Datum záznamu:** 2026-06-26
+- **Délka:** 01:02:52 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
+- **Poznámka:** Tři zpracovaná témata: (1) Digitální euro — konkrétní scénáře kontroly nákupů/expirujících peněz/vynucené poslušnosti (Kanada, Řecko, Čína jako precedenty), výzva bojovat za hotovost — [digitalni-kontrola.md](digitalni-kontrola.md). (2) Summit NATO Ankara — 70 mld. dolarů pro Ukrajinu je vedlejší, hlavní otázkou je členství Ukrajiny v NATO (= přímý konflikt s Ruskem); predikuje schválení peněz vládou — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Petr Macinka prosazuje povinnou tříměsíční vojenskou službu — varování mužům v branném věku — [valka-nato-rusko.md](valka-nato-rusko.md). Ostatní zprávy (VW propouštění, MiCA regulace kryptoměn, Hormuz/Írán, Izrael–Libanon dohoda, Krym stav nouze, Lavrov vs. Rubio spor o Aljašku) jen rychlý přehled bez samostatného zpracování. **Predikce:** ČR nakonec schválí 70 mld. dolarů pro Ukrajinu (viz [predikce.md](predikce.md)). Bez stoch. teroru.
+- **Zpracováno:** ano

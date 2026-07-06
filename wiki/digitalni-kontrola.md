@@ -53,6 +53,16 @@ Vrabel tvrdí, že digitální euro a CBDC jsou součástí záměrného projekt
 
 ---
 
+### Digitální euro: konkrétní scénáře kontroly nákupů, expirujících peněz a vynucené poslušnosti (Vrabel, 26. 6. 2026)
+
+V reakci na schválení pozice Evropského parlamentu k digitálnímu euru (výbor ECON, 43:14:1 hlasů, 23. 6. 2026) Vrabel rozvádí konkrétní scénáře zneužití programovatelné měny. Stát by mohl kvůli klimatickým cílům omezit nákup hovězího masa nebo benzínu na pevný týdenní/měsíční limit navázaný na uhlíkovou stopu; mohl by soudně nařídit snížený „rozpočet" konkrétní osobě jako trest (příklad: Robert Kutý). Historické analogie zneužití peněz jako nástroje nátlaku: Kanada 2022 (ministryně financí Chrystia Freeland zmrazila účty účastníkům konvoje truckerů i lidem, kteří jim jen nosili jídlo a benzín — stávka tím skončila), Řecko (MMF nařídil strhávat prostředky z účtů nad 100 tisíc eur a omezil hotovostní výběry na 40–50 eur denně), Čína (rutinní zmrazování účtů díky již existujícím digitálním penězům). Historicky se také zaváděly peníze s expirací (Bavorsko — platnost 30 dní, aby se rychleji utrácely při krizi). Spojuje to s výrokem Ursuly von der Leyenové, že „vysoké úspory Evropanů jsou problém", který má vyřešit program Savings and Investments. Jako krajní, konspirační scénář zmiňuje propojení s univerzálním základním příjmem podmíněným „řádným občanstvím" — s odkazem na výrok Aleny Schillerové, že neočkovaným je „potřeba dělat život těžký", by dle Vrabela stát mohl digitální dávky neočkovaným omezit na životní minimum. Vyzývá k podpoře senátorky Vlasty Kovářové (jediná, kdo dle něj za hotovost aktivně bojuje) a k demonstraci za zachování hotovosti.
+
+> „Suverenita je cash, hotovost. [...] A finanční stabilita — no tak vy si spoříte do polštáře." — Ladislav Vrabel, [Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět, 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+
+---
+
 ### Kryptoměny: sledování státem a hrozba kvantových počítačů (Vrabel, 31. 5. 2026)
 
 Vrabel je opatrný vůči kryptoměnám ze dvou důvodů. Za prvé: státy zavedly povinnou identifikaci (KYC) při nákupu i prodeji — projekt, který začínal jako decentralizovaný nástroj svobody, se stává nástrojem centralizace a sledování. Za druhé: kvantové počítače mohou v budoucnu prolomit šifrovací bezpečnost kryptopeněženek, což při panice způsobí masové výprodeje a krádež velkých částek.
