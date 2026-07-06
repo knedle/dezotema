@@ -2751,3 +2751,12 @@
 - **Délka:** 00:02:11 | Zhlédnutí: 10 683 | Pokračování z předchozího videa (chemtrails na obloze)
 - **Poznámka:** Beze změny/posunu oproti již zdokumentovanému tématu chemtrails (viz konspirace.md, Vrabel 20. 6.) — Černohorský jen osobně potvrzuje víru v teorii na základě vlastního pozorování oblohy, bez nového mechanismu či tvrzení. Přidán jako doplňkový zdroj k existujícímu záznamu. Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 3. 7. 2026 {#ladislav-vrabel--zprávy-v-devět-3-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-03_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2124301988485204>
+- **Datum záznamu:** 2026-07-03
+- **Délka:** 00:56:13 | Pravidelný přehled zahraničních a domácích zpráv s komentářem
+- **Poznámka:** Zpracováno 11 témat: (1) Moldavský premiér rezignoval, paralela s pokrytectvím českých politiků — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Trump: podpora NATO „absurdní", stažení tankové brigády z Pobaltí, snaha donutit Evropu ke sjednocené armádě — [valka-nato-rusko.md](valka-nato-rusko.md). (3) TCK brutalita a kritika Fedorova v ukrajinském parlamentu, 66 % chce mír — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Rusko prý brzy zaútočí na Polsko (varování USA); Polsko nepředá MiGy-29 Ukrajině — [valka-nato-rusko.md](valka-nato-rusko.md). (5) Izrael testuje Iron Dome/Iron Beam — obrana vs. „Velký Izrael" — [blizky-vychod.md](blizky-vychod.md). (6) Litva ruší ústavní zákaz jaderných zbraní a cizích základen — [jaderne-zbrane.md](jaderne-zbrane.md). (7) Predikce 3 klíčových témat summitu NATO v Ankaře — doslovné zopakování vlastní predikce z 29. 6., přidán jen jako zdroj — [jaderne-zbrane.md](jaderne-zbrane.md). (8) Babiš/Okamura tvrdí, že ČR neplatí Ukrajině, přitom už schválili 30 z 70 mld. eur — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Ukrajina a Německo zřizují pracovní skupinu na násilný návrat mužů v brančím věku, dvojí metr vůči migrantům z islámských zemí — [migrace.md](migrace.md). (10) Povinná vojenská služba ČR vs. Srbsko — [valka-nato-rusko.md](valka-nato-rusko.md). (11) USA tajně varovaly Írán před dalším atentátem; nepsaná diplomatická pravidla vs. Maduro — [blizky-vychod.md](blizky-vychod.md). Bez nových predikcí (mimo zopakovanou) a stoch. teroru.
+- **Zpracováno:** ano

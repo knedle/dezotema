@@ -108,7 +108,7 @@ Vrabel tvrdí, že mediální spor o to, kdo povede českou delegaci na summitu 
 
 > „Tam vůbec nejde o to, jestli na samit NATO pojede Petr Pavel nebo nepojede. [...] Jde o to, jakým způsobem bude Česká republika hlasovat ke třem základním otázkám." — Ladislav Vrabel, [Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026), [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
 
 ---
 
@@ -137,5 +137,13 @@ V rozhovoru pro Petr Budeš TV Vrabel tvrdí, že Petr Pavel byl už v době, kd
 Podle zprávy SIPRI Francie mezi roky 2025 a 2026 zvýšila svůj jaderný arzenál zhruba o 80 hlavic na přibližně 730 a hlavní mocnosti modernizují arzenály. Vrabel to čte jako nové kolo jaderných závodů, před nímž varuje od roku 2022; jedinou cestou k trvalému míru jsou podle něj odzbrojovací smlouvy. Navazuje na [Jaderné odzbrojení jako jediná cesta k míru (6. 6.)](#jaderné-odzbrojení-jako-jediná-cesta-k-míru--výzva-vrabel-6-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)
+
+---
+
+### Litva ruší ústavní zákaz jaderných zbraní a cizích vojenských základen (Vrabel, 3. 7. 2026)
+
+Litevské parlamentní strany se dle Vrabela dohodly na zrušení ústavního zákazu jaderných zbraní a zahraničních vojenských základen na svém území (zákaz platil od rozpadu SSSR, zrušení vyžaduje dvoutřetinovou většinu). Vrabel to řadí vedle „nejnebezpečnějších věcí poslední doby" jako je česká muniční iniciativa — pobaltské země podle něj závodí v přibližování jaderných zbraní k ruské hranici, zatímco on opakovaně varuje „nedávejte ty vypálené sirky zpátky do krabičky".
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
 
 ---

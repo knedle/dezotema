@@ -474,6 +474,22 @@ Rajchl označuje odebrání nejvyššího polského vyznamenání (řád Bílé 
 
 ---
 
+### TCK brutalita a nespokojenost v ukrajinském parlamentu — 66 % chce mír (Vrabel, 3. 7. 2026)
+
+Poslanec ukrajinského parlamentu veřejně kritizoval ministra Fedorova za tvrzení, že je „ukrajinské nebe chráněné" — podle něj existují „dvě Ukrajiny": realita ministra a realita občanů, kteří vidí hořící Kyjev a oběti na infrastruktuře. Vrabel to čte jako důkaz, že po 4,5 letech války lidem dochází trpělivost, a dokládá to videi jednotek TCK násilně odvlékajících muže z ulic (několik mužů najednou tahá jednoho do auta, manželky odháněné pepřovým sprejem) — podle něj to dávno není odvod, ale únos. Cituje průzkum, podle nějž 66 % Ukrajinců preferuje okamžitý mír před vítězstvím nad Ruskem, a odhaduje, že reálné číslo bude ještě vyšší. Rozšiřuje [Ukrajinci nechtějí bojovat — TCK „lov lidí" (6. 6.)](#ukrajinci-nechtějí-bojovat--tck-lov-lidí-a-úplatek-12-000--vrabel-6-6-2026) a [TCK: násilná mobilizace a úmrtí na odvodové komisi (12. 6.)](#tck-na-ukrajině-násilná-mobilizace-a-úmrtí-na-odvodové-komisi-vrabel-12-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
+### Povinná vojenská služba ČR vs. Srbsko — stejná délka, jiný důvod (Vrabel, 3. 7. 2026)
+
+K vlastnímu tématu tříměsíční povinné vojenské služby (viz [Macinka prosazuje povinnou vojenskou službu, 26.–27. 6.](#petr-macinka-prosazuje-povinnou-tříměsíční-vojenskou-službu--vrabel-varuje-muže-v-branném-věku-26-6-2026)) Vrabel doplňuje zprávu od známého ze Srbska, kde se zavádí stejně dlouhá (tříměsíční) povinná vojenská služba — vojákům tam nově pořizují herny s Playstation na volný čas. Klíčový rozdíl je ale podle Vrabela v důvodu: v Srbsku se služba zavádí kvůli skutečné obraně země, kdežto v ČR kvůli závazkům vůči „bukurešťské devítce", tedy fakticky kvůli přípravě na konflikt s Ruskem.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
 ## Vyjednávání a mír
 
 ### EU mírový plán (DE/FR/UK) + Babiš chce Merze; Německo vypadlo z Rady bezpečnosti OSN (Vrabel, 4. 6. 2026)
@@ -1072,6 +1088,22 @@ Vrabel spojuje několik zpráv do teze, že válka je „obrovská příležitos
 
 ---
 
+### USA stahují tankovou brigádu z Pobaltí, Trump: podpora NATO je „absurdní" — snaha donutit Evropu ke sjednocené armádě (Vrabel, 3. 7. 2026)
+
+Trump před summitem NATO v Ankaře na síti Social napsal, že je „absurdní", aby USA dál udržovaly jednostranný vztah s aliancí — spojenci prý pro Ameriku nebyli, když šlo o operace proti Íránu, a chce, aby si Evropa hájila obranu sama. Souběžně Pentagon stahuje z Pobaltí americkou tankovou brigádu (zatím nejasné, zda ji něco nahradí), zatímco evropské státy v NATO zůstávají podle expertů dál výrazně závislé na USA (zpravodajství, protivzdušná obrana, satelity). Vrabel to čte jako potvrzení své starší teze (viz [PURL a „NATO Review 3.0" (18. 6.)](#purl-a-nato-review-30-usa-přesouvá-zbrojení-i-riziko-na-evropu-vrabel-18-6-2026)): cílem je záměrně nechat NATO vypadat rozbité, aby se Evropa „semkla" a vytvořila vlastní armádu — v takovém scénáři budou vojáky do případné války s Ruskem dodávat hlavně země „bukurešťské devítky" (ČR, Polsko, Slovensko aj.), protože Německo (270 tis. vojáků) a Polsko (cíl 400 tis.) spolu s Ruskem, Čínou a Severní Koreou nedají dohromady dost lidí bez mobilizace. Doplňuje odhad, že pokud konflikt bude pokračovat „lidským způsobem", je třeba počítat s mobilizací.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
+### Babiš a Okamura tvrdí, že ČR neplatí Ukrajině — přitom už schválili 30 z 70 mld. eur (Vrabel, 3. 7. 2026)
+
+Vrabel reaguje na tvrzení Andreje Babiše a Tomia Okamury, že Česká republika „nebude platit" novou půjčku 70 mld. eur pro Ukrajinu, o níž se má jednat na summitu v Ankaře. Upozorňuje, že z této částky je zhruba 30 mld. (necelá polovina) ve skutečnosti součástí už dřív schválených 90 mld. eur z prosince, které Babišova vláda odsouhlasila na základě mandátu od vlády i s vědomím Okamury. Argumentuje přirovnáním k rodinnému rozpočtu: to, že peníze neplyne přímo z českého státního rozpočtu, ale z rozpočtu EU (kam ČR přispívá 2,24 %), neznamená, že je ČR neplatí — stejně jako manželka platící z rodinné výplaty stále platí manželovými penězi, i když formálně platba jde z jejího účtu. Označuje tvrzení „neplatíme" za lež, protože ČR už úroky z vyplacených částek fakticky platí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
 ## EU jako vojenská struktura
 
 ### Odmítnutí EU armády a jaderného štítu — diplomacie místo přípravy na válku
@@ -1329,6 +1361,14 @@ Vrabel rozebírá tvrdé vyjádření Sergeje Lavrova. Lavrov prý naznačil oba
 
 ---
 
+### USA varovaly Polsko před ruským útokem; Polsko nepředá Ukrajině MiGy-29 (Vrabel, 3. 7. 2026)
+
+The Telegraph píše, že Washington oficiálně varoval Polsko před rostoucím napětím v nadcházejících měsících a nastínil možné scénáře — dronové útoky na kritickou infrastrukturu (elektrárny) i simulované letecké údery testující polskou protivzdušnou obranu. Vrabel to komentuje jako „klasiku": rozehrát válku v Polsku je scénář, který podle něj zná už z minula. Rozvíjí vlastní „karmickou" tezi — čím víc se o možném ruském útoku na Polsko mluví, tím reálnější riziko se vytváří (ať už jako skutečný záměr, false flag, nebo vyprovokování Ruska). Souběžně Polsko rozhodlo vyřadit své stíhačky MiG-29 ze služby, místo aby je (podle dřívější dohody výměnou za ukrajinskou dronovou technologii) předalo Ukrajině — Vrabel to čte jako diplomatickou trhlinu mezi oběma zeměmi, byť polskou politickou scénu k Ukrajině popisuje jako celkově rozpolcenou.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
 ## Zahraniční aktéři a precedenty
 
 ### Srbsko nechce do EU — obchod s Čínou a spolupráce s Ruskem jako vzor suverenity (Vrabel, 5. 6. 2026)
@@ -1508,3 +1548,11 @@ Nová bulharská vláda (prezident Rumen Radev, ministr obrany Stojanov) prohlá
 K účasti Vladimíra Putina na plenárním zasedání summitu Rusko–ASEAN v Kazani (35 let vztahů, ~10 zemí jihovýchodní Asie) Vrabel argumentuje, že Rusko není izolovaná země, jak tvrdí čeští politici a EU („zemljanka, kde vybírají čipy z praček"), ale největší země světa a stále významný světový politický hráč. Summit bere jako důkaz šíře ruských mezinárodních vazeb.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+
+---
+
+### Moldavský premiér rezignoval — paralela s českými politiky předstírajícími odpor k financování Ukrajiny (Vrabel, 3. 7. 2026)
+
+Moldavský premiér Aleksandru Munteanu oznámil rezignaci se slovy, že už nemůže vykonávat funkci v souladu se svými zásadami a hodnotami. Vrabel otevřeně přiznává, že nezná pozadí (nátlak, kompromitující materiál, nebo upřímné rozhodnutí) — motivaci vidí v současném dění v Moldavsku, kde se EU snaží zemi „získat pro sebe", aby ji mohla v budoucí válce připojit k Rumunsku. Z toho odvozuje obecnější úvahu o politicích, kteří jdou s „globalisty" podporujícími zbrojení a válku proti Rusku, zatímco veřejně předstírají opak — dává si to do souvislosti s českými politiky, kteří na sociálních sítích prezentují odpor k posílání peněz Ukrajině, ale ve skutečnosti vyjednávají o zbrojení a hlasují pro schválení peněz (viz [Babiš a Okamura tvrdí, že ČR neplatí Ukrajině — 3. 7.](#babiš-a-okamura-tvrdí-že-čr-neplatí-ukrajině--přitom-už-schválili-30-z-70-mld-eur-vrabel-3-7-2026)). Připomíná vlastní zkušenost z počátku ruské invaze (24. 1. 2022, spolupráce s Jakubem Wolbertem/hnutím Cípl PES) — jak rychle politici i spolupracovníci „vycouvali", jakmile šlo o riziko vězení za protiválečné demonstrace.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)

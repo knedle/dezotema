@@ -368,3 +368,19 @@ Vrabel čte ze zveřejněného textu memoranda o porozumění mezi USA a Íráne
 K jednání USA o pomoci se situací v Libanonu Vrabel komentuje postoj syrského prezidenta Ahmeda al-Šaraa: ten odmítl, že by Sýrie vojensky zasáhla proti Hizballáhu, řekl, že cesta nevede přes vojenské operace, ale přes politická jednání, a označil Hizballáh za „jedinou sílu schopnou zabránit Izraeli v invazi hlouběji do Libanonu". Vrabel z toho vyvozuje, že al-Šaraa je v „schizofrenní situaci": navenek spolupracuje se Západem (díky němuž se dostal k moci), ale fakticky bude spíš tajně podporovat radikálnější islámské skupiny a nechce ani plně spolupracovat s Izraelem (trn v oku muslimskému světu). Přirovnává ho k tureckému prezidentu Erdoganovi — muslimskému lídrovi člena NATO, který zároveň dobře spolupracuje s Ruskem. Závěr: skutečným problémem je dle al-Šaraa „okupace, útlak a porušování suverenity izraelskou armádou", ne jen Hizballáh.
 
 **Zdroje:** [Vrabel — Zprávy v devět 22. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+
+---
+
+### Izrael testuje Iron Dome/Iron Beam — právo na obranu vs. plány na „Velký Izrael" (Vrabel, 3. 7. 2026)
+
+Izraelské ministerstvo obrany oznámilo úspěšné testy modernizované verze protivzdušného systému Iron Dome ve spojení s laserovým systémem Iron Beam, které mají zvládat masivnější a rychlejší útoky. Vrabel k investicím do vlastní obrany (včetně Izraele — zmiňuje i vlastní zkušenost se všudypřítomnou vojenskou přítomností v zemi) principiálně nic nenamítá, ale opakuje svou tezi, že současná izraelská vláda nejde jen o obranu, nýbrž plní sionistické plány na „Velký Izrael" a chce ovládnout celý Blízký východ (viz [Írán „telenovela"... Izrael, „Velký Izrael" — 13. 6.](#írán-telenovela-38-a-manipulace-ropy-izrael-velký-izrael-a-netanjahu-řídící-usa--vrabel-13-6-2026)) — vadí mu především útoky na Gazu a Libanon.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
+### Nepsaná pravidla mezi hlavami států — USA varovaly Írán před dalším atentátem, kontrast s Venezuelou (Vrabel, 3. 7. 2026)
+
+Írán se připravuje na masový smuteční obřad (odhad až 20 mil. lidí) za zabitého nejvyššího vůdce; současně vyšlo najevo, že USA během konfliktu tajně varovaly Teherán před izraelským plánem zabít další vrcholné íránské představitele, se kterými chtěl Washington po konci války jednat. Vrabel z toho vyvozuje obecnou úvahu o diplomacii: mezi hlavami států platí nepsaná pravidla vzájemného respektu k funkci (ne k osobě), díky nimž zůstávají otevřené dveře k jednání — příkladem je podle něj i to, že Rusko mohlo Zelenského „milionkrát" zabít, ale neudělalo to. Kontrastuje to s přístupem USA: v Íránu rovnou „pozabíjeli celé vedení", a k venezuelskému exprezidentovi Nicolási Maduru, drženému ve vězení v USA, se objevila fotografie vyhublého, vyhladovělého muže — Vrabel připouští, že jde pravděpodobně o ilustrační obrázek vytvořený umělou inteligencí (přístup k Madurovi ve vězení není reálný), ale považuje za věrohodné, že ho tam Američané skutečně mučí hladem. Celkově to čte jako důkaz, že USA po rozpadu východního bloku obvykle nevyjednávají, ale likvidují režim, dosazují loutky a „všechno rozkradou".
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)

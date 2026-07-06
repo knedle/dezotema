@@ -341,6 +341,19 @@
 - Technologie (dating aplikace, sociální sítě) ničí mezilidské vztahy a způsobují demografickou krizi; panoptikon efekt — nikdo netančí v klubech ze strachu ze záznamu; algoritmy optimalizované pro engagement, ne lásku; slib internetu (svoboda, demokracie) se nenaplnil — [Demografická krize a technologie (1. 5.)](../_zdroje.md#ladislav-vrabel--demografická-krize-a-technologie-1-5-2026)
 - Trans-gender ideologie ve školách = manipulace dětí neziskovkami/psychology k nevratné tranzici (po výplachu mozku „zmrzák"), tolerance dospělých soukromě; Senát zamítl zpřísnění změny pohlaví — [Zprávy v devět 16. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
 
+### [Válka, NATO a Rusko](../valka-nato-rusko.md)
+
+- **3. 7.** — Moldavský premiér rezignoval, paralela s pokrytectvím českých politiků v otázce financování Ukrajiny — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+- Trump: podpora NATO „absurdní", USA stahují tankovou brigádu z Pobaltí — snaha donutit Evropu ke sjednocené armádě — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+- TCK brutalita a kritika ministra Fedorova v ukrajinském parlamentu, 66 % Ukrajinců chce mír — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+- USA varovaly Polsko před ruským útokem; Polsko nepředá Ukrajině MiGy-29 — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+- Babiš a Okamura tvrdí, že ČR neplatí Ukrajině, přitom už schválili 30 z 70 mld. eur — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+- Povinná vojenská služba ČR vs. Srbsko — stejná délka, jiný důvod — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+- Litva ruší ústavní zákaz jaderných zbraní a cizích vojenských základen — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) → [jaderne-zbrane.md](../jaderne-zbrane.md)
+- Ukrajina a Německo zřizují pracovní skupinu na násilný návrat mužů v brančím věku; dvojí metr vůči migrantům z islámských zemí — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) → [migrace.md](../migrace.md)
+- Izrael testuje Iron Dome/Iron Beam — obrana vs. „Velký Izrael" — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
+- USA tajně varovaly Írán před dalším atentátem; nepsaná diplomatická pravidla vs. Maduro — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
+
 ---
 
 ## Zmíněné osoby
@@ -614,6 +627,10 @@
 | Petr Kolář | ❌ negativní | Dle Wikileaks jako velvyslanec v USA jednal mimo rámec MZV — radil přejmenovat raketovou základnu na „radar" a počkat na vládu Topolánka místo Paroubka; „naprosto proti zájmům ČR" | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
 | Andrej Babiš | ⚖️ rozporuplný | Predikce: do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku na 65 let, jako už učinil u F-35/muniční iniciativy/jaderných zbraní | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
 | Keir Starmer | ❌ negativní | 300 mld. liber na zbrojení, zatímco běžní Britové si nemohou dovolit topit — „lidi zlikviduje" | 2026-06-30 | [Zprávy v devět 30. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026) |
+| Donald Trump | ⚖️ rozporuplný | Prohlásil podporu NATO za „absurdní" a stahuje americká vojska z Pobaltí — Vrabel to čte jako záměrnou strategii donutit Evropu ke sjednocené armádě | 2026-07-03 | [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) |
+| Andrej Babiš | ❌ negativní | Tvrdí, že ČR neplatí Ukrajině, přitom už schválil 30 z 70 mld. eur — označeno za lež | 2026-07-03 | [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) |
+| Tomio Okamura | ❌ negativní | Stejně jako Babiš veřejně tvrdí, že ČR neplatí Ukrajině, přestože k tomu dal mandát vlády | 2026-07-03 | [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) |
+| Nicolás Maduro | ○ neutrální | Zmíněn ve vazbě v USA — vyhublá fotka (pravděpodobně AI), Vrabel považuje za věrohodné, že je mučen hladem | 2026-07-03 | [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026) |
 
 ---
 
@@ -689,3 +706,4 @@
 - [Zprávy v devět 30. 6. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-6-2026)
 - [Facebook Live: rozhovor s Petrem Budešem (30. 6. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
 - [Zprávy v devět (2. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+- [Zprávy v devět (3. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
