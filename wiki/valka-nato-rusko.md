@@ -758,7 +758,9 @@ Vrabel cituje Kirilla Dmitrijeva z fóra v Petrohradu: Rusko a USA mají podepsa
 
 K jednání ukrajinského ministra Fedorova s Markem Ruttem (formát Rammstein, pokračování české muniční iniciativy) Vrabel rozvíjí tezi, že válku udržuje nadnárodní zbrojní síť: zbraně se nakupují za veřejné peníze bez výběrových řízení (předražené), pak „se účetně někam odvezou" a nelze je dopočítat. Jedou v tom dle něj všechny vlády NATO/EU i přidružené země. Jako konkrétní české „zprostředkovatele" zbrojních obchodů jmenuje Petra Koláře (kdysi velvyslanec v USA, vedl obchodní delegaci při nákupu stíhaček) a dnes Petra Macinku (jezdí do Kongresu domlouvat výrobu zbraní pro USA). Politici se podle něj do funkcí dostávají proto, že jim kampaně platí zbrojaři — a důsledkem jsou drahé energie, jídlo (40 % lidí nevyjde s příjmy) a mrtví.
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+**15. 7.** — Vrabel dokládá tezi na dvou čerstvých případech. Ministr zahraničí Petr Macinka jednal s Izraelem o nákupu protivzdušného systému SPIDER na česko-izraelském podnikatelském fóru v Tel Avivu — Vrabel ironicky popisuje rutinu, kdy si Macinka po každém takto dojednaném kontraktu (v řádu stovek milionů) jde na Facebooku vyfotit „jedno koaliční" pivo s Tomiem Okamurou. Následně dokládá na reálném příkladu: dva týdny po schůzce zbrojaře Michala Strnada s Okamurou (jehož SPD řídí ministerstvo obrany) oznámil resort dvě miliardové zakázky bez výběrového řízení ve prospěch Strnadových firem — nákup nákladních vozů Tatra a samohybných minometů SAM-120 v rámci slovenského nákupu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ---
 
@@ -1302,7 +1304,9 @@ Výbor stálých zástupců (Coreper) má 8. 7. schválit otevření již šest�
 
 Putin oznámil, že Rusko v reakci na ukrajinské útoky na civilní objekty posílí ochranu obyvatelstva a může rozšířit „bezpečnostní pásmo" podél svých hranic — čím víc útoků, tím rozsáhlejší nárazníkové území bude muset vytvořit. Vrabel to čte jako upřesnění cílů SVO: pokud Ukrajina disponuje raketami s doletem až 2000 km (ukrajinská média o systému Flamingo), Rusko bude muset odsunout případné vojenské základny z dosahu mnohem dál, než se dosud předpokládalo — a to platí i pro pobaltské státy (Litva, Lotyšsko, Estonsko) a Finsko, které aktuálně samy zvažují či ruší zákazy umístění jaderných zbraní na svém území (viz [Litva ruší zákaz jaderných zbraní, 3. 7.](jaderne-zbrane.md#litva-ruší-ústavní-zákaz-jaderných-zbraní-a-cizích-vojenských-základen-vrabel-3-7-2026)). Predikuje, že jakmile si Rusko bude jisté chystaným útokem, provede preventivní úder analogický 24. únoru 2022 vůči Ukrajině — tentokrát s cílem zničit zbraně, které by ho ohrožovaly, dřív, než budou plně rozmístěny.
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+**15. 7.** — Rusko odmítlo možnost nasazení mezinárodních sil na Ukrajině po případné mírové dohodě a označilo takové jednotky za hrozbu a legitimní vojenský cíl — reakce na pařížské potvrzení „koalice ochotných", že po skončení bojů vyšle mnohonárodnostní síly. Mluvčí Kremlu Peskov k tomu znovu opakuje tezi o „nárazníkové zóně": čím hlouběji do ruského území Ukrajina útočí, tím dál od hranic bude muset Rusko svou bezpečnostní zónu posunout — teoreticky až k hranicím NATO, pokud by odpalovací zařízení skončila jen na jeho území. Vrabel předpokládá, že „globalisté" jsou ochotni posouvat hranice Ukrajiny nebo dělat cokoliv jiného, jen aby mohli v konfliktu pokračovat.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ### Predikce: Rusko zaútočí na Evropu v létě 2026 — Vrabel
 
@@ -1877,7 +1881,9 @@ K pohřbu ostatků deseti dalších identifikovaných obětí genocidy ve Srebre
 
 Vrabel referuje o nepotvrzené zprávě, že senátor Lindsey Graham (kterého den předtím označil za „největšího amerického válečného štváče") zemřel — sám vyjadřuje pochybnost, ale bere zprávu jako pravděpodobně pravdivou. Upozorňuje, že Graham byl krátce předtím s Donaldem Trumpem předkladatelem návrhu zákona (nikoliv exekutivního nařízení, tedy vymahatelného soudně), který by uvalil 500% cla na obchod se všemi zeměmi nakupujícími ruskou ropu a plyn (Indie, Čína, Slovensko aj.). Varuje, že by to znamenalo rozdělení světového obchodu a mohlo vážně narušit fungování americké i evropské ekonomiky — přirovnává to k dopadu horšímu než uzavření Hormuzského průlivu.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+**15. 7.** — Vrabel k návrhu dodává srovnání: citoval zahraniční komentátor ho označil za „Joea Bidena 2.0 v podobě Donalda Trumpa" — 500% cla na obchodní partnery Ruska jsou podle Vrabela v důsledku horší než cokoliv, co prosazoval Biden. Poznamenává, že ČR se navzdory iluzi „lepší vlády" posunula na ruském seznamu nepřátelských zemí z desátého na páté místo.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ---
 
@@ -1909,7 +1915,9 @@ Armáda ČR (Vojenský zdravotní ústav) chystá zásadní rekonstrukci vojensk
 
 Vrabel rozvíjí včerejší zprávu o smrti senátora Lindseyho Grahama: upozorňuje, že Graham zemřel na „zástavu srdce" doslova do 24 hodin poté, co se v Kyjevě fotil se Zelenským u sestřeleného ruského dronu, přičemž na fotkách vypadal zdravě — spekuluje, že mohl být otráven nebo jinak „vypnut" Ruskem. Dodává otázku, kdo bude další, a poukazuje na nesoulad: pokud by naopak Írán zabil Trumpa, byl by to podle mezinárodního práva a rétoriky Západu terorismus, zatímco smrt Grahama (podle jeho spekulace ruskou rukou) nikdo takto nerámuje.
 
-**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+**15. 7.** — Vrabel se k teorii vrací s osobní anekdotou (sám dostal bolest v krku poté, co byl v obchodě s kašlající prodavačkou, což dává žertem do souvislosti s „rychlostí" údajné Grahamovy nemoci) a doplňuje motiv: Graham už v letech 2022–2023 veřejně říkal, že na Ukrajině (především na Donbase) leží 12 bilionů dolarů v nerostném bohatství a že to „nenechá Putinovi" — Vrabel z toho vyvozuje, že o tato nerostná ložiska (spolu s ruskými zásobami plynu, ropy, vody a kovů) především jde západním globalistům v celém konfliktu, ne o žádné hodnoty.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ---
 
@@ -2014,3 +2022,53 @@ Indie odmítla uspěchat obchodní dohodu s Washingtonem poté, co USA nenabídl
 Předsedkyně strany Rozum a Spravedlnost (BSW) Sahra Wagenknechtová varuje, že se Německo stává přímou stranou ukrajinského konfliktu, protože financuje německými zbraněmi a technologiemi údery na ruské vnitrozemí — čímž si podle ní „koleduje o odvetu". Upozorňuje, že v Rusku zaznívají hlasy volající po útocích na německé zbrojní závody, a označuje jednání vlády Friedricha Merze za nezodpovědné a překračující jednu červenou linii za druhou. Vrabel jen krátce komentuje, že Wagenknechtová (mimo AfD, s vlastní stranou) věci popisuje „naprosto přesně", a připomíná svou dřívější předpověď, že se realita začne veřejně probírat.
 
 **Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Kyjevská deklarace a Den ukrajinské státnosti — jen Srbsko ji nepodepsalo (Vrabel, 15. 7. 2026)
+
+U příležitosti Dne ukrajinské státnosti (15. 7.) přijeli do Kyjeva evropští představitelé včetně rumunského prezidenta, moldavské prezidentky, srbského prezidenta a předsedkyně Evropské komise. Zelenskyj u této příležitosti udělil Ursule von der Leyenové první ukrajinský Řád Evropy za její příspěvek k evropské integraci Ukrajiny — Vrabel to komentuje ironicky. Zúčastněné státy podepsaly „kyjevskou deklaraci" podporující suverenitu a územní celistvost Ukrajiny, odsuzující ruskou vojenskou operaci, volající po zesílení sankcí a podporující zřízení zvláštního tribunálu pro „zločin agrese" proti Ukrajině. Srbský prezident Aleksandar Vučić byl jedinou hlavou účastnického státu, která závěrečný dokument odmítla podepsat — Vrabel to vítá jako projev suverenity a upozorňuje, že jakmile podobný evropský tribunál (bez celosvětové jurisdikce) formálně odsoudí Rusko za válečné zločiny, zpravodajství bude nuceno mluvit stejným jazykem, jinak by se samo vystavovalo obvinění ze zpochybňování „válečných zločinů".
+
+Ve stejné zprávě srovnává Zelenského s Vladimirem Putinem prostřednictvím sdíleného obrázku — popisuje Putina jako klidného muže „bojujícího za mír", zatímco Zelenského dehumanizuje přezdívkou „Holodomír" (rozvíjí dřívější motiv z 3. 6.) a připomíná mu 1–2,5 milionu padlých Ukrajinců.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
+### Koalice ochotných — Starmer: 25 zemí připraveno nasadit vojska na Ukrajinu po příměří (Vrabel, 15. 7. 2026)
+
+Britský premiér Keir Starmer oznámil, že „koalice ochotných" (přes 25 zemí) má jasné plány na nasazení mnohonárodnostních sil na Ukrajině, připravené k rozmístění během několika dní, jakmile bude dosaženo příměří. Vrabel to dává do souvislosti s pařížským jednáním koalice (viz [Babiš a koalice ochotných, 14. 7.](#koalice-ochotných-rozšiřuje-protiraketovou-obranu--babiš-chce-čr-do-projektu-balistických-střel-vrabel-14-7-2026)), kde se dohodlo i to, že Francie poskytne Ukrajině licenci na výrobu raket protivzdušné obrany. Upozorňuje na dvojí neslučitelnost cílů: Rusko odmítá jak myšlenku příměří (chce až mír po dosažení svých vojenských cílů), tak nasazení mnohonárodnostních sil, protože jeho cílem zůstává vojensky neutrální a odzbrojená Ukrajina s armádou o max. 80 tisíci vojáků.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
+### Drony nejsou obrana, jsou útok — kritika EU-Ukrajina „dohody o dronech" (Vrabel, 15. 7. 2026)
+
+Ursula von der Leyenová oznámila nové partnerství EU a Ukrajiny v oblasti obranného průmyslu (tzv. dohoda o dronech), které má propojit ukrajinské inovace s evropskými průmyslovými kapacitami při výrobě bezpilotních systémů — doprovodila to slovy „Ukrajina je Evropa a Evropa je Ukrajina". Vrabel odmítá rámování dronů jako „protiraketového štítu": popisuje, že ukrajinské drony ve skutečnosti provádí teroristické útoky na ruské civilní cíle (autobusy, civilní auta, infrastrukturu) hluboko na ruském území, ne obranu. Zdůrazňuje obrácenou logiku eskalace citací šéfredaktorky Russia Today: Rusko na evropské území neposlalo jediný dron, tank, raketu ani letadlo, zatímco Evropa naopak průběžně posílá vybavení na ruské území — každý takový dron podle něj přibližuje otevřený válečný konflikt EU s Ruskem. V této souvislosti zmiňuje, že ČR se na výrobě útočných dronů (v hodnotě 20 milionů, byznys) podílí, a připomíná předvolební sliby Filipa Turka propagovat výrobu dronů s umělou inteligencí jako „třívrstvou obranu" — označuje to za zavádějící, protože jde o útočné, ne obranné zbraně.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
+### Nedostatek vojáků jako slabý článek evropské obrany (Vrabel, 15. 7. 2026)
+
+Finský ministr obrany Antti Häkkänen varoval, že Evropě nestačí nakupovat tanky, letadla a rakety — mnohem větším problémem se stává nedostatek lidí ochotných bránit svou zemi, a personální krize se může stát nejslabším článkem evropské obranyschopnosti. Vrabel předpovídá, že toto téma během několika týdnů převezmou i čeští politici (Petr Pavel, poté Andrej Babiš) a že se bude postupně „skloňovat ve všech pádech" — očekává, že u případné budoucí konfrontace s Ruskem (odhadované na roky 2029–2030) půjde nábor vojáků stejnou cestou jako na Ukrajině: nejdřív dobrovolníci a propaganda, pak mobilizace, a nakonec (až budou mobilizovaní vojáci pozabíjeni) tvrdá nucená mobilizace.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
+### Macronova raketa pro Ukrajinu a budoucí výrobní závod jako vojenský cíl (Vrabel, 15. 7. 2026)
+
+Emmanuel Macron nabídl Zelenskému raketu vážící přibližně tunu a půl (větší než Trumpem nabízené rakety Patriot PAC-2) v rámci dohod „koalice ochotných". Vrabel poukazuje na logický důsledek: výroba tak těžké rakety vyžaduje rozsáhlou továrnu, kterou by bylo nutné postavit přímo na Ukrajině s americkou a francouzskou účastí — a takový závod bude z vesmíru viditelný a stane se pravděpodobným ruským vojenským cílem. Z toho vyvozuje, že USA, Francie i Británie budou muset tuto infrastrukturu i vojensky chránit, což zvyšuje pravděpodobnost přímého zapojení západních vojáků — a předpokládá, že dříve nebo později pošle vojáky na Ukrajinu i ČR, navzdory Babišovu aktuálnímu ujištění o opaku (odkazuje na Babišův vzorec „řekne něco a otočí to o 180 stupňů" během půl roku až roku).
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
+### Další dotace EU pro ukrajinské zbrojení — 300 milionů eur (Vrabel, 15. 7. 2026)
+
+Ukrajinské firmy získají přístup ke zbrojním programům Evropské unie a dalších více než 300 milionů eur — podle ukrajinského ministra obrany Denyse Šmyhala jde o součást dohod podepsaných s komisařem pro obranu Andriusem Kubiliusem. Vrabel k tomu jen krátce poznamenává, že jde o další stovky milionů navrch k již schváleným 90 a 40 miliardám přes NATO, zatímco „lidi nemají pomalu co jíst" — nemá k tomu sofistikovanější komentář.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)

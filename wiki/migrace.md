@@ -293,7 +293,9 @@ Vrabel cituje bývalou britskou premiérku **Liz Truss**, která prý otevřeně
 
 Ke zprávě, že Španělsko eviduje ~900 tis. (a dle NGO brzy přes milion) žádostí o legalizaci pobytu migrantů, Vrabel opakuje svou tezi: evropským politikům nejde o zabránění migraci, ale o její **kontrolu** — proto bojují pouze proti „nelegální" migraci a poté ji hromadně legalizují (analogie s Merkelovou). Souběžně Evropský parlament schválil zpřísnění pravidel pro navracení nelegálních migrantů (vč. návratových center mimo EU) — Vrabel to označuje za kosmetický „byrokratický" krok, protože EP je „absolutně globalistický" a antiglobalistická agenda by neprošla. Zařazuje to do širší „globalistické agendy 2030" (očkování, války, digitální měna, Green Deal, „červi místo hovězího", vyvlastňování domů), s níž „nelze bojovat a vyhrát"; jediné řešení vidí v tom, aby ČR „dokud má ústavu" vystoupila z EU/NATO a klimatických i migračních struktur a „uzavřela se, aby se v ní dalo žít" — jinak ji čeká totéž co Británii, Německo či Švédsko.
 
-**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+**15. 7.** — Vrabel se k tématu vrací s aktualizovanými čísly: podle dostupných informací bylo podáno zhruba 1,3 milionu žádostí o legalizaci (dříve se mluvilo o půl milionu, pak o 800 tisících), přičemž se nyní hovoří až o třech milionech lidí — přirovnává to k rozměrům německé migrační vlny z roku 2015. Zdůrazňuje přesun hlavní odpovědnosti za posuzování žádostí z Národní policie na Ministerstvo inkluze, sociálního zabezpečení a migrace, které je podle kritiků vstřícnější než bezpečnostní složky, a upozorňuje na podezření, že významná část žádostí je podvodná (falešné doklady). Svou tezi, že politici z nelegální migrace záměrně dělají legální (aby nad ní měli kontrolu), dokládá konkrétním příkladem: europoslankyně Kateřina Konečná v Evropském parlamentu hlasovala pro vytváření legálních migračních cest z Afriky (aby se migranti „netopili" na moři) — Vrabel varuje, že i politici vnímaní jako „sympatičtí" prosazují takové kroky a lidé by je za to měli plně volat k odpovědnosti, ne jim to odpouštět kvůli jiným postojům.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ### EU zúží dočasnou ochranu pro ukrajinské muže (18–60) — Vrabel (18. 6. 2026)
 
@@ -355,5 +357,23 @@ Vrabel tvrdí, že migrační pakt přivádí převážně mladé muže z islám
 ### Britská policejní „barevná karta" jako důkaz rasového dvojího metru (Vrabel, 14. 7. 2026)
 
 Vrabel komentuje virální video britské policistky, která při zákroku u pouličního konfliktu použije kartu s odstíny barvy pleti, aby porovnala tón kůže útočníka (bílého Brita) a oběti — na základě toho okamžitě vytáhne obušek a začne útočníka bít, protože ho podle barvy pleti vyhodnotí jako viníka. Vrabel to popisuje jako „krásné, opravdu vkusné" video dokládající, že v britském systému je viník vždy ten světlejší a oběť vždy ta tmavší, bez ohledu na skutečný průběh konfliktu.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Švédsko: pobodání pětileté dívky migrantem jako „sebevražda Evropy" (Vrabel, 15. 7. 2026)
+
+Ve švédském Helsingborgu zůstává v kritickém stavu pětiletá dívka po pobodání nožem v parku; policie zadržela chlapce mladšího 15 let, který byl kvůli věku okamžitě propuštěn a o němž odmítá zveřejnit další podrobnosti. Vrabel předpokládá, že útočník je „na 100 %" přistěhovalec (jinak by média podle něj otevřeně napsala, že je Švéd) a že kvůli věku nebude nikdy stíhán. Řadí případ do širšího vzorce, který nazývá „migrační sebevraždou Evropy" — souběžnou s „ekonomickou" (pivovary v Německu, konec Zetoru po 80 letech) a „vojenskou" sebevraždou (dodávky zbraní proti Rusku): připomíná, že jen v Německu je evidováno 80 útoků nožem denně. Rozšiřuje o poznámku, že ČR je součástí stejného procesu (migrační pakt od 12. 6. 2026, cca 2 miliony Ukrajinců), byť zatím v menším měřítku islámské migrace.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
+### Gibraltar: zrušení hraničního plotu se Španělskem usnadní i nelegální migraci (Vrabel, 15. 7. 2026)
+
+Po 117 letech byl odstraněn hraniční plot „La Verja" mezi Gibraltarem a Španělskem v rámci nové dohody mezi Británií, EU, Španělskem a Gibraltarem o zrušení hraničních kontrol — oficiálním cílem je usnadnit každodenní život asi 15 000 španělských pracovníků a turistů. Vrabel poukazuje na to, že zrušení kontrol stejně tak usnadní přechod přibližně 15 000 nelegálních migrantů denně, a považuje to za zjevný, i když nepřiznaný, důsledek dohody.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 **Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)

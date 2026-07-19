@@ -505,6 +505,14 @@ Maďarský parlament schválil sedmnáctý dodatek ústavy ukončující mandát
 
 ---
 
+### Szijjártó opouští politiku k čínskému BYD — další příznak „ukrajinizace" Maďarska (Vrabel, 15. 7. 2026)
+
+Bývalý maďarský ministr zahraničí Péter Szijjártó (dlouholetý spolupracovník Viktora Orbána) se vzdal poslaneckého mandátu poté, co přijal pracovní nabídku čínského výrobce elektromobilů BYD — na sociální síti nabídku označil za „mimořádnou profesní příležitost". Vrabel ho přirovnává k bývalému rakouskému kancléři Sebastianu Kurzovi, který podobně opustil politiku pro dobře placené místo v americké firmě, a hodnotí Szijjártóa jako jednoho z posledních evropských politiků, kteří podle něj „vždy stáli na správné straně" (spolu s Robertem Ficem, kterého považuje jen za „napůl" v této kategorii). Interpretuje jeho odchod jako útěk před politickým nebezpečím, které v Maďarsku po nástupu Petera Magyara hrozí opozičním politikům spjatým s Orbánem — a řadí to k dalším důkazům, že se Maďarsko nachází na „ukrajinské cestě" likvidace opozice, stejně jako podle něj postupně i ČR.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
 ### Zetor přesouvá výrobu z ČR kvůli Green Dealu — Rajchl slibuje tvrdý boj proti EU (Rajchl, 14. 7. 2026)
 
 Výrobce malých traktorů Zetor po 80 letech definitivně končí s výrobou v Brně a přesouvá produkci do Asie (viz i [Vrabelův komentář ke stejné zprávě, 13. 7.](valka-nato-rusko.md)) — jde podle Rajchla o posledního výrobce malých traktorů, který v Evropě zůstal. Příčinou je dle něj Green Deal — „pomatená fanatická ideologie", která nijak nezlepšuje životní prostředí (globální uhlíková stopa se nezmění, výroba jen přechází jinam), ale slouží k obohacení západoevropských investičních a penzijních fondů, které profitují z obchodu s emisními povolenkami. Za stranu PRO deklaruje tvrdý a nekompromisní boj proti Green Dealu i proti Ursule von der Leyenové a jejímu vedení EU, pokud bude v prosazování této politiky pokračovat.

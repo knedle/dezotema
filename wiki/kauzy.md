@@ -427,6 +427,16 @@ Boldy poukazuje na dvojí metr kolem Turkovy nehody: když před rokem v květnu
 
 **Zdroje:** [Boldy — Videoportál 15. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)
 
+---
+
+## EET 2.0 — likvidace malého podnikání
+
+### Nová evidence tržeb zvýhodňuje dotované velké firmy na úkor malých podnikatelů (Vrabel, 15. 7. 2026)
+
+Poslanecká sněmovna ve třetím čtení schválila vládní návrh zákona o (modernizované) evidenci tržeb, tzv. EET 2.0 — cílem má být narovnání podnikatelského prostředí, omezení šedé ekonomiky a spravedlivější výběr daní (vláda si od toho slibuje 14 miliard Kč). Vrabel argument o „narovnání prostředí" odmítá: skutečnou tržní ekonomiku podle nějničí právě dotace — jako příklad uvádí Andreje Babiše, jehož firma provozující bufet může prodávat levněji, protože jiná firma ve stejném koncernu čerpá miliardové dotace EU. Totéž se podle něj týká nadnárodních řetězců (Tesco, Globus), které prostřednictvím fakturace mezi mateřskými a dceřinými firmami v zemích s nižší daní legálně snižují svůj daňový základ a neplatí tolik daní jako malý podnikatel podléhající plné kontrole finančního úřadu — ten navíc nemá výhody velkých řetězců (nižší vstupní ceny, pozemky a nájmy zdarma od měst). Závěr: EET 2.0 v praxi likviduje malé a střední podnikání, opačně než sliby z let 1989–1990 o rovné startovní čáře pro všechny (cituje novinářku Janu Lorencovou). Připomíná také Babišovy dřívější výroky o „zlodějských hospodských" jako osobní motivaci, proč sám s gastronomickým podnikáním skončil.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
 ## Kauza Ladislav Vrabel — dotační podvod
 
 ### Odsouzení za „zaškrtnutí okýnka" jako politická perzekuce (Vrabel, 4. 6. 2026)

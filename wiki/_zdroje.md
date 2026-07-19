@@ -3021,3 +3021,12 @@
 - **Délka:** 00:01:31
 - **Poznámka:** Zpracováno 1 téma: Pavlovo pokrytectví v kauze Turek vs. Černochová — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Facebook Live 15. 7. 2026 {#ladislav-vrabel--facebook-live-15-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-15_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1057234063508340>
+- **Datum záznamu:** 2026-07-15
+- **Délka:** 01:11:08
+- **Poznámka:** Zpracováno 20 témat ("Zprávy v devět s komentářem"): (1) Kyjevská deklarace, jen Srbsko nepodepsalo — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Koalice ochotných — Starmer, 25 zemí — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Drony jako útočné zbraně (EU-Ukrajina dohoda) — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Švédsko — pobodání pětileté dívky — [migrace.md](migrace.md). (5) Španělsko — legalizace migrantů, Konečná — [migrace.md](migrace.md). (6) Nedostatek vojáků v Evropě (finský ministr) — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Macronova raketa a výrobní závod jako cíl — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Trump 500% cla na Rusko, „Biden 2.0" — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Donbas/Peskov — nárazníková zóna — [valka-nato-rusko.md](valka-nato-rusko.md). (10) Macinka — nákup SPIDER, „koaliční pivo" — [valka-nato-rusko.md](valka-nato-rusko.md). (11) Strnad/Okamura — zakázky bez výběrového řízení — [valka-nato-rusko.md](valka-nato-rusko.md). (12) Odklad valorizace důchodů + satirický program — [politicky-system.md](politicky-system.md). (13) Trump/Írán — jen vojenská síla — [blizky-vychod.md](blizky-vychod.md). (14) EU dotace pro ukrajinské zbrojení (300 mil. eur) — [valka-nato-rusko.md](valka-nato-rusko.md). (15) EET 2.0 — likvidace malého podnikání — [kauzy.md](kauzy.md). (16) Rusko odmítá mezinárodní síly na Ukrajině — [valka-nato-rusko.md](valka-nato-rusko.md). (17) Lindsey Graham — motiv nerostného bohatství Donbasu — [valka-nato-rusko.md](valka-nato-rusko.md). (18) AI/AGI a Agenda 2030 — [ceny-energie.md](ceny-energie.md), [predikce.md](predikce.md). (19) Maďarsko — Szijjártó odchod k BYD — [suverenita-eu.md](suverenita-eu.md). (20) Gibraltar — zrušení hraničního plotu — [migrace.md](migrace.md). 2 výroky stochastického teroru (Trump, Babiš) — [stochasticky-teror.md](stochasticky-teror.md).
+- **Zpracováno:** ano

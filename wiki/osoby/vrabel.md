@@ -396,17 +396,22 @@
 - **13. 7.** — vláda připravuje legislativu pro přechod na válečnou/obrannou ekonomiku; nová biolaboratoř v Orlických horách; otrava Grahama (rozšíření teze); nová francouzská koalice balistické obrany (ČR nepodepsala); petrodolar/petrojuan a predikce kolapsu US ekonomiky; Německo 50 000 dronů, „oko za oko"; Zelenskyj vyměnil vládu i vyšetřovatele — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
 - **14. 7.** — Babiš/koalice ochotných chce ČR do protiraketového projektu balistických střel; Bulharsko odmítá koalici; Donbas ~95 % obsazen; Polsko podzimní cvičení; Rubio/ICC sankce (dvojí metr suverenity); Sojuz na ISS jako důkaz možné rusko-americké spolupráce; Indie odmítá dohodu s USA, BRICS vs. NATO; pád vlády Svyrydenkové, Zelenskyj „diktátor par excellence"; Wagenknechtová — Německo stranou konfliktu — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - Maďarsko: Orbánovo „právo na odpor" proti odvolání prezidenta Šujoka, paralela s Pavlovým předvolebním slibem — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) → [suverenita-eu.md](../suverenita-eu.md)
+- **15. 7.** — Kyjevská deklarace (jen Srbsko nepodepsalo); koalice ochotných — Starmer, 25 zemí připraveno; drony jako útočné zbraně (EU-Ukrajina dohoda); nedostatek vojáků v Evropě (finský ministr); Macronova raketa a výrobní závod jako budoucí cíl; Trump 500% cla „Biden 2.0"; Peskov — nárazníková zóna, Rusko odmítá mezinárodní síly na Ukrajině; zbrojní byznys (Macinka/SPIDER, Strnad/Okamura); Lindsey Graham — motiv nerostného bohatství Donbasu; další dotace EU pro ukrajinské zbrojení — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
+- Maďarsko: Szijjártó opouští politiku k čínskému BYD, paralela s Kurzem, „ukrajinizace" Maďarska — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) → [suverenita-eu.md](../suverenita-eu.md)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- Odklad valorizace důchodů (+150 Kč) — kritika Babišových slibů, satirický „program" znárodnění jeho majetku — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ### [Kauzy](../kauzy.md)
 - Evropský prokurátor vyšetřuje dotace Agrofertu — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - Filip Turek — nehoda a tlak na rezignaci; Vrabel ho brání i přes nesouhlas s jeho postoji, kritizuje Babiše — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- EET 2.0 — likvidace malého podnikání ve prospěch dotovaných velkých firem — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ### [Blízký východ](../blizky-vychod.md)
 - Larry Johnson zesměšňuje plán útoku na Kharg Island — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - Trump zrušil 20% tranzitní daň za Hormuz, nahradil úplnou blokádou íránských lodí — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- Trump: jediný účinný způsob komunikace s Íránem je vojenská síla — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ### [Konspirace](../konspirace.md)
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -414,9 +419,13 @@
 ### [Migrace](../migrace.md)
 - Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - Britská policejní „barevná karta" jako důkaz rasového dvojího metru — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- Švédsko — pobodání pětileté dívky migrantem, „sebevražda Evropy" — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+- Španělsko — legalizace migrantů, kritika Kateřiny Konečné — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+- Gibraltar — zrušení hraničního plotu usnadní i nelegální migraci — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ### [Ceny energie a ekonomika](../ceny-energie.md)
 - Zánik německých pivovarů a propouštění ve VW jako signál automatizace; predikce plné AGI/nezaměstnanosti 2027–2028 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- AI/AGI do „příštího roku"; Agenda 2030 a „neúžiteční jedlíci" — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
@@ -735,6 +744,16 @@
 | Sahra Wagenknechtová | ✅ pozitivní | Přesně popisuje, že se Německo stává přímou stranou ukrajinského konfliktu | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
 | Volodymyr Zelenský | ❌ negativní | Obměnil vládu i vyšetřovatele uprostřed korupčního vyšetřování — „diktátor par excellence" | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
 | Viktor Orbán | ⚖️ rozporuplný | Volá po „právu na odpor" proti odvolání prezidenta Šujoka — Vrabel srovnává s Pavlovým předvolebním slibem | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Udělil von der Leyenové Řád Evropy; dehumanizován přezdívkou „Holodomír", srovnán s Putinem jako „na kokainu" a agresivní | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Keir Starmer | ○ neutrální | Oznámil připravenost 25 zemí nasadit vojska na Ukrajinu po příměří | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Emmanuel Macron | ❌ negativní | Nabídl Zelenskému těžkou raketu a licenci na její výrobu — riziko, že se z Ukrajiny stane vojenský cíl | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Kateřina Konečná | ❌ negativní | Hlasovala v EP pro vytváření legálních migračních cest z Afriky — příklad „sympatického" politika prosazujícího škodlivou agendu | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Petr Macinka | ❌ negativní | Jednal s Izraelem o nákupu systému SPIDER; rituál „koaličního piva" s Okamurou po každém zbrojním kontraktu | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Tomio Okamura | ❌ negativní | Přes SPD řízené ministerstvo obrany zajistil Michalu Strnadovi dvě miliardové zakázky bez výběrového řízení | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Michal Strnad | ❌ negativní | Získal zbrojní zakázky (Tatra, minomety SAM-120) v hodnotě dvou miliard bez výběrového řízení dva týdny po schůzce s Okamurou | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Andrej Babiš | ❌ negativní | Odklad valorizace důchodů na +150 Kč; Vrabel navrhuje satirický „program" znárodnění jeho majetku a rozdání důchodcům | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Donald Trump | ❌ negativní | „Jediný účinný způsob komunikace s Íránem je vojenská síla" — Vrabel reaguje osobním, vulgárním výrokem (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
+| Péter Szijjártó | ○ neutrální | Opustil politiku pro místo v čínském BYD — Vrabel: útěk před politickým nebezpečím v „ukrajinizujícím se" Maďarsku | 2026-07-15 | [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) |
 
 ---
 
@@ -820,3 +839,4 @@
 - [Nedělní vysílání (12. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - [Zprávy v devět (13. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
 - [Facebook Live (14. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- [Facebook Live (15. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)

@@ -392,6 +392,14 @@ Boldy kritizuje chování Petra Pavla během znění státní hymny v Karlových
 
 Černohorský se vrací k tématu platů politiků s aktualizovanými čísly: předsedkyně sněmovny Markéta Pekarová Adamová pobírá 394 000 Kč měsíčně (přidala si z dřívějších 350 000 Kč). Zároveň veřejně vyzývala občany, kteří si nestěžují na ceny energií, aby si oblékli dva svetry. Tuto kombinaci Černohorský komentuje vulgarismem „ludra" a označuje za symbol morálního bankrotu vládnoucí politické třídy.
 
+---
+
+### Odklad valorizace důchodů (+150 Kč měsíčně) — kritika Babišových předvolebních slibů (Vrabel, 15. 7. 2026)
+
+Ministr práce a sociálních věcí Aleš Juchelka oznámil, že vláda počká na další data o inflaci, než rozhodne o lednové valorizaci penzí — podle dostupných údajů by se průměrný starobní důchod od ledna mohl zvýšit přibližně o 150 Kč, tedy zhruba o polovinu dříve zmiňované částky. Vrabel to sarkasticky srovnává s hodnotou „dvou obložených chlebíčků" a připomíná, že Andrej Babiš postavil celou předvolební kampaň mimo jiné na snížení věku odchodu do důchodu a na valorizaci důchodů seniorům. V návaznosti na to nabízí vlastní „politický program": kdyby byl zvolen premiérem, znárodnil by soukromý majetek Andreje Babiše (odhadovaných ~100–150 miliard Kč, sedmý nejbohatší člověk v ČR) a rozdělil ho mezi důchodce (cca 50 000 Kč na osobu) — přičemž bezprostředně poznámku o tom, že by senioři měli jít „umlátit Andreje prázdnými hadrovými taškami", výslovně stahuje jako satiru a odkazuje na trestní stíhání Tomáše Čermáka (5,5 roku vězení) za obdobně formulovanou výzvu (viz [stochasticky-teror.md](stochasticky-teror.md)).
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
 **Zdroje:** [Černohorský — Brno a Landsmannschaft, 2026-04-06](_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
 
 ---

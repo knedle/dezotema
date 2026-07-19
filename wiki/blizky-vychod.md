@@ -437,6 +437,14 @@ Teherán varoval, že jakoukoli logistickou či vojenskou pomoc americkým silá
 
 ---
 
+### Trump: jediný účinný způsob komunikace s Íránem je vojenská síla (Vrabel, 15. 7. 2026)
+
+Donald Trump v rozhovoru pro Fox News prohlásil, že jediným účinným způsobem komunikace s Íránem je vojenská síla, a tvrdil, že americký úder výrazně oslabil íránské vojenské a jaderné kapacity — kdyby USA nyní od konfliktu ustoupily, obnova by Íránu podle jeho odhadu trvala až 20 let. Dodal, že plánovaná dohoda s Teheránem byla na poslední chvíli zrušena a zazněly hrozby útoků na mosty a energetická zařízení. Vrabelova reakce na výrok je čistě osobní a vulgární (viz [stochasticky-teror.md](stochasticky-teror.md)) — k samotnému obsahu prohlášení věcný komentář nepřidává.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
 ### Trump zrušil 20% tranzitní daň za Hormuz den po jejím oznámení — místo toho úplná blokáda íránských lodí (Vrabel, 14. 7. 2026)
 
 Den poté, co Trump oznámil 20% tranzitní daň za proplouvání Hormuzským průlivem, ji zrušil a nahradil úplnou blokádou lodí spojených s íránskými přístavy nebo nákladem. Vrabel komentuje rychlost a nepředvídatelnost, s jakou Trump obrací svá vlastní rozhodnutí, a spojuje to s možností tržního profitování z takto vyvolané volatility cen.
