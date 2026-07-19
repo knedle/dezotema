@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Ukrajina se do dvou měsíců zhroutí, pokud nedojde k mírové dohodě (12. 7. 2026)
+
+**Předpověď:** Jakákoliv budoucí mírová dohoda bude odrážet aktuální kontrolu území v okamžiku jejího podpisu — čím déle válka trvá, tím horší vyjednávací pozici bude mít Ukrajina. Pokud se do dvou měsíců neuzavře mírová dohoda, nedojde podle Rajchla k eskalaci (jak předpokládá Petr Pavel), ale ke zhroucení Ukrajiny, protože jí docházejí zdroje. Dodává, že zastánci pokračování války budou později tvrdit, že vždy chtěli mír.
+
+> „Pokud do dvou měsíců nedojde k uzavření té dohody, tak podle mého názoru — ne, že dojde k eskalaci, jak to říká Petr Pavel — ale prostě ta Ukrajina se zhroutí, protože jí prostě dochází už úplně všechno." — Jindřich Rajchl
+
+**Horizont:** cca 2 měsíce od 12. 7. 2026 (do poloviny září 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Facebook Live 12. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026)
+
+---
+
 ### Ladislav Vrabel — Rusko provede preventivní úder na místa s jadernými zbraněmi u svých hranic (4. 7. 2026)
 
 **Předpověď:** Až si bude Rusko jisté chystaným útokem na svém území, provede preventivní vojenský úder (analogický 24. únoru 2022 vůči Ukrajině) na území, kde by mohly být umístěny zbraně ohrožující Rusko — týkalo by se to zemí s dlouhým doletem raket blízko ruských hranic, jako Litva, Lotyšsko, Estonsko a Finsko, které aktuálně ruší zákazy umístění jaderných zbraní.

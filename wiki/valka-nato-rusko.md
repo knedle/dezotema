@@ -558,6 +558,14 @@ Ve Lvově došlo k potyčkám mezi obyvateli a pracovníky ukrajinských náboro
 
 ## Vyjednávání a mír
 
+### Mír bude odrážet aktuální kontrolu území — čím déle válka trvá, tím hůř pro Ukrajinu (Rajchl, 12. 7. 2026)
+
+Rajchl opakuje svou dlouhodobou tezi, že jakákoliv budoucí mírová dohoda bude vycházet z faktické kontroly území v okamžiku podpisu — proto podle něj každý další den a měsíc trvání konfliktu zhoršuje vyjednávací pozici Ukrajiny. Zdůrazňuje, že netleská žádné ze stran (obě podle něj lhaly, proto válka vůbec trvá) a sám chce jen mír. Predikuje, že pokud se do dvou měsíců neuzavře dohoda, nedojde k eskalaci (jak předpokládá Petr Pavel), ale ke zhroucení Ukrajiny kvůli vyčerpání zdrojů (viz [predikce.md](predikce.md)) — a že zastánci pokračování války si pak budou zpětně nárokovat, že chtěli mír „odjakživa".
+
+**Zdroje:** [Rajchl — Facebook Live 12. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026)
+
+---
+
 ### EU mírový plán (DE/FR/UK) + Babiš chce Merze; Německo vypadlo z Rady bezpečnosti OSN (Vrabel, 4. 6. 2026)
 
 Vrabel referuje (Bloomberg), že Německo, Francie a Británie připravují nový formát jednání o ukončení války na Ukrajině před zimou — vyčítá jim ale, že „otáčejí realitu" (líčí Rusko jako útočníka na civilní cíle, ač podle něj začala Ukrajina). Andrej Babiš navrhuje, aby za EU vyjednával německý kancléř Merz — kterého Vrabel označuje za „válečného štváče" (Taurus na Krym, podpora Izraele a Ukrajiny). Zároveň Německo poprvé v historii nebylo zvoleno do Rady bezpečnosti OSN (104 hlasů; prohrálo s Rakouskem a Portugalskem); německý ministr Wadephul to přičetl podpoře Ukrajiny, Vrabel a citovaný zástupce AfD to čtou jako varovný signál, že „svět Německo nenávidí" za zbrojení a bezhlavou podporu Izraele. ČR se podle Vrabela podporou Ukrajiny, Izraele i Merze „dostala na stranu outsiderů".

@@ -2931,3 +2931,12 @@
 - **Délka:** 00:45:38
 - **Poznámka:** Zpracována 2 témata: (1) Nové nominace v anketě „Cena za svobodu projevu" (Matocha nominoval Klause aj.), rozšíření existujícího tématu z 8. 7. — [politicky-system.md](politicky-system.md). (2) Rozšíření teze o zcinknutých volbách USA 2020 (Dominion, Pensylvánie) — [konspirace.md](konspirace.md). Neprocesováno: vlastní zrušení probačního dohledu (na žádost uživatele). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Facebook Live 12. 7. 2026 {#jindřich-rajchl--facebook-live-12-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-12_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/4495916244068147>
+- **Datum záznamu:** 2026-07-12
+- **Délka:** 00:30:09 (přepis neúplný, obsahuje jen úvodních ~1:18)
+- **Poznámka:** Zpracováno 1 téma: mír bude odrážet aktuální kontrolu území, predikce zhroucení Ukrajiny do 2 měsíců — [valka-nato-rusko.md](valka-nato-rusko.md), [predikce.md](predikce.md). Bez stoch. teroru.
+- **Zpracováno:** ano
