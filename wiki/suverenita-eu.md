@@ -166,7 +166,9 @@ Závěr: souhrnný dopad těchto nařízení v horizontu 10–15 let převýší
 
 **12. 7.** — Vrabel k témuž nařízení (EPBD4, viz výše) doplňuje konkrétní číslo: v ČR se povinnost bezemisních budov týká přibližně 700 000 rodinných domů postavených před rokem 1980 — tedy z velké části domů dnešních důchodců. Popisuje to jako útok na majetek: kdo nebude mít na renovaci peníze, o dům podle něj může fakticky přijít. Kontrastuje to s Babišovou předvolební rétorikou (sliboval „vyhnat Uršulu" von der Leyenovou) a jeho současným vstřícným chováním k ní na unijní scéně.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+**15. 7.** — Zítko sdílí Babišovo vlastní video na totéž téma (stejné číslo 700 000 domů) a interpretuje ho jako potvrzení vlastní teze o „korporaci Česko" chystající se okrádat občany o majetek přes energetické štítky — bez nového faktického detailu.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ---
 

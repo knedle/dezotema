@@ -25,6 +25,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **21. 6.** — šarže „E" a 22R–22Z (5 % šarží = >75 % zemřelých), 60 tis. mrtvých Německo (Sterz)/desítky milionů globálně, Comirnaty 15 str. vedl. účinků (Indie), pokles porodnosti −30 % (Q1 jen 17,5 tis.), vina vlád Babiše i Fialy = „genocida/sterilizace" — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 - **24. 6.** — křest knihy J. Peterkové „Já, dezinformátorka" (beletrie o době 2020–24); COVID recap = pokusy na lidech/Norimberský kodex/genocida/sterilizace, −30 % porodnost, výzva k tribunálu (kniha G. Franka); šarži „E" (96 % úmrtnost) „doporučil pro vládu, parlament a jejich rodiny" (→ [stoch. teror](../stochasticky-teror.md)) — [Křest knihy 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
 - **8. 7.** — opakuje tezi o poklesu porodnosti 2021–2025 o 30 % (35 000 méně dětí ročně), přisouzeno covid vakcinaci — [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
+- **15. 7.** — opakuje tezi o poklesu porodnosti (35 tis., ÚZIS/Kovařík) beze změny; nové tvrzení o svědectví „toxikologa Pfizeru" Helmuta Šterce v Bundestagu (60 000 mrtvých Němců po Comirnaty, analýza 26 000 šarží ve 3 stupních letality) a citát japonského onkologa Fukušimy o genetických vakcínách jako genové terapii — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -42,10 +43,14 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Hrad odpověděl na Pekovou petici o milost (přes úředníka, ne osobně Pavlem) — zamítnutí, žádost o audienci odmítnuta; kontrast rychlosti ÚS v Pavlově kauze vs. běžné případy — [Videoportál: Hrad odpověděl na Pekovou 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
 - Stížnost Blažka, Tice a Daňhela v bitcoin kauze zamítnuta — [Videoportál: MedBeds, jahodový úplněk, bitcoin 30. 6.](../_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
 
+### [Suverenita a EU](../suverenita-eu.md)
+- Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
+
 ### [Politický systém](../politicky-system.md)
 - Vlastní žertovné ocenění „Cena Sira Nicholase Wintona" (za „záchranu životů" v covid genocidě) staví do kontrastu s oficiální anketou Společnosti pro obranu svobody projevu — nesouhlasí s nominací Cyrila Svobody, Ilony Švihlíkové; jako opomíjené hrdiny jmenuje sebe a Tomáše Čermáka — [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 - **11. 7.** — sleduje další nominace (Turánek, a od Matochy Klaus/Janeček/Xaver Veselý/Škopková/Borovan); kritizuje nominaci Václava Klause jako výsměch (strůjce rozdělení ČSFR) — [Videoportál 11. 7.](../_zdroje.md#československo-tv2--videoportál-11-7-2026)
 - Slovenští aktivisté René Baláž a Petr Švec označeni za odstraněné za nepohodlnost (13. 7.) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
+- **15. 7.** — nízká divácká aktivita v nominacích (Kocijánová: 9 příspěvků); nová souběžná anketa Křišťálová lupa (Cena Českého internetu) — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - COVID rozsudky: Peková (4 případy za šíření poplašné zprávy), Čermák (terorismus), Popelka, Křivka (Z tričko) — označuje je za politicky motivované; interpelace Majerové-Tejce; Tejc slíbil změnu trestního zákoníku do konce dubna 2026 — Zítko hodnotí jako prázdné sliby — [Interpelace Majerová-Tejc 23. 4.](../_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
@@ -74,6 +79,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Nicolás Maduro jako dvojník/bývalý řidič autobusu, adrenochrom a financování CIA (13. 7.) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 - Rozšíření právní argumentace o obnově ČSR (zákon 327/1991, petrohradská konference jako místo poválečného rozhodnutí) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 - Oslava výročí Deklarace o svrchovanosti Slovenska ve Staré Bystrici (Klaus + Mečiar), kritika Pavla, Kamenického kritika EU — [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026)
+- **15. 7.** — opakuje tezi o obnově ČSR (zákon 11/1918, 29 bil. Kč reparací) beze změny; rozšiřuje teorii dvojníků o rozhovor Ricarda Bossiho (200 000 náhražek světových vůdců, Netanjahu nahrazen, skutečný vládce Saúdské Arábie „Ben Solomon", Starmer „říká hloupé věci na povel", model „utnout hlavu, ponechat tělo" na příkladu Venezuely); nová teorie „prediktivního programování" vysvětlující sdílení neověřené zprávy o vazbě Pšenáka/Oganesiana/Blujové (→ [stoch. teror](../stochasticky-teror.md)); doplnění QAnon narativu o poločasové show MS ve fotbale s Justinem Bieberem — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -189,6 +195,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Václav Klaus | ❌ negativní | Na oslavě ve Staré Bystrici kritizoval Petra Pavla a varoval před zpochybňováním rodiny/státu — Zítko ho obviňuje z pokrytectví jako spolupachatele „vlastizrady" 1992 | 2026-07-12 | [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026) |
 | Vladimír Mečiar | ❌ negativní | Oslavil Deklaraci o svrchovanosti Slovenska jako historický úspěch — Zítko: zamlčel ožebračení národa a likvidaci životní úrovně | 2026-07-12 | [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026) |
 | Ladislav Kamenický | ⚖️ rozporuplný | Slovenský ministr financí — kritizoval EU za ohrožení slovenské suverenity a Green Deal; Zítko: pokrytecké, když stát svrchovanost sám ztratil rozdělením ČSFR | 2026-07-12 | [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026) |
+| „Pšenák", Oganesian, „Blujová" | ❌ negativní | Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká skupina" (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-15 | [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026) |
+| Benjamin Netanjahu | ⚖️ rozporuplný | Dle sdíleného rozhovoru Ricarda Bossiho nevládne Izraeli — skutečně vládne Saúdské Arábii pod jménem „Ben Solomon" | 2026-07-15 | [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026) |
+| Keir Starmer | ⚖️ rozporuplný | Dle Bossiho teorie mu bylo „nařízeno říkat hloupé věci" jako součást scénáře zesměšňujícího politiky | 2026-07-15 | [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026) |
 
 ---
 
@@ -255,3 +264,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál 11. 7. 2026](../_zdroje.md#československo-tv2--videoportál-11-7-2026)
 - [Nadsvět s hostem 13. 7. 2026](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 - [Nedělní chvilka poezie 12. 7. 2026](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026)
+- [Videoportál 15. 7. 2026](../_zdroje.md#československo-tv2--videoportál-15-7-2026)

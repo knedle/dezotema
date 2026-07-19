@@ -129,7 +129,17 @@ Zítko ve večerníku z 12. dubna 2026 přidává příklad Vladimíra Putina: s
 
 **13. 7.** — Zítko v rozhovoru u Jany Kataríny Benke doplňuje příklad Nicoláse Madura: tvrdí, že současný Maduro je dvojník, zatímco skutečný Maduro byl původně obyčejný řidič autobusu dosazený do prezidentské funkce drogovými kartely coby „kasička" Deep State. Uvádí to jako součást širší teze, že Deep State si podobné „loutky" (jmenuje i Ukrajinu a Venezuelu jako země, kde lidé žili pod hranicí chudoby) vytváří z chudých poměrů a financuje se přes obchod s dětmi a adrenochromem — z těchto zdrojů měla být podle něj financována i CIA.
 
-**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
+**15. 7.** — Zítko sdílí a plně podporuje rozhovor australského „whistleblowera" Ricarda Bossiho, který teorii dvojníků rozšiřuje na téměř všechny světové vůdce: odhaduje počet náhražek (herců, dublérů, klonů, hologramů) na 200 000. Jako důkaz uvádí viditelnou změnu vzhledu vlasů Petra Fialy a Petra Pavla za posledních 10–15 let a proměnu tváře Andreje Babiše. Podle Bossiho článku „bílé klobouky" (síly bojující proti Deep State) systematicky odstranily špičku Deep State (Clintonovi, Obamovi „už byli dávno popraveni") a nahradily je herci a loutkami, které jednají podle scénáře — ponechání „známých tváří" u moci má udržet iluzi kontinuity, zatímco se čistí celý systém (soudnictví, policie, byrokracie) „od gruntu". Konkrétně tvrdí, že v Izraeli nevládne Benjamin Netanjahu, ale skutečně vládne Saúdské Arábii muž jménem „Ben Solomon", a že britský premiér Keir Starmer říká „hloupé věci", protože mu bylo nařízeno je říkat jako součást scénáře zesměšňujícího politiky před veřejností. Jako modelový příklad „odstranění hlavy, ponechání těla" uvádí Venezuelu (Maduro zmizel, zbytek aparátu zůstal). Zítko tuto teorii prezentuje jako vysvětlující a doplňuje vlastní odkaz na šachovnici s nápisem „Checkmate" u wimbledonského finále coby náznak, že rozuzlení („šachmat"/„český mat") může přijít z Česka.
+
+**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
+
+---
+
+### „Prediktivní programování" — nepotvrzená zpráva o vazbě Pšenáka a Oganesiana (Zítko, 15. 7. 2026)
+
+Zítko přiznává, že v sobotu (11. 7.) sdílel nepotvrzenou zprávu o údajném zatčení a vazbě „Pšenáka" a arménského vlogera Oganesiana — dodal k ní slovo „údajně" a druhý den ji sám odvolal, přestože ji část publika mezitím brala jako ověřený fakt. Vysvětluje motivaci sdílení konceptem „prediktivního programování": tvrdí, že pokud si dostatek lidí něco „reálně představí" (i nepravdivou zprávu), tato kolektivní vizualizace pomáhá scénář uskutečnit — jako precedens uvádí olympijské zahajovací ceremoniály v Londýně 2012, které měly předznamenat covidovou pandemii, patentovanou údajně Rothschildem už v roce 2015 a spuštěnou (dle jeho výkladu) až v roce 2019 ve Wuhanu. Vyjadřuje přesvědčení, že „spravedlnost" na jmenované osoby (Pšenák, Oganesian, „Blujová") a jejich „organizovanou zločineckou skupinu" nebude čekat dlouho (viz [stochasticky-teror.md](stochasticky-teror.md)).
+
+**Zdroje:** [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ---
 
@@ -559,7 +569,9 @@ Zítko připomíná měnovou reformu z konce května 1953 jako „loupež stolet
 
 Zítko opakuje svůj výklad, že Německo dluží válečné reparace Československé republice (ne ČR ani SR), a přebírá výpočet „hnutí Jasan" (inženýr Jasan): 28–29 bilionů korun ve zlatě (~9 550 tun) — což je dle něj víc než deklarované měnové zlato USA (8 311 tun) a víc než „20 bilionů", s nimiž operovala Konečná. Opírá se o zákon 11/1918 a pařížskou dohodu z 21. 12. 1945 (náhrada za 360 000 zabitých Čechoslováků). ČR a SR označuje za „korporace" vzniklé protiprávně 1. 1. 1993 bez referenda, zatímco ČSR „nikdy nezanikla". Vyzývá světové mocnosti — Trumpa (USA), Putina (Rusko jako nástupce SSSR) a Si Ťin-pchinga (Čína) — aby pomohly obnovit státnost ČSR a vymoci pohledávku v rámci „vojenského mezinárodního práva". Rozšiřuje existující výklad (viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Deutschland, Čechland nebo Československo?](#deutschland-čechland-nebo-československo--sdl-sjezd-jako-důkaz-záměny-pojmů-26-5-2026)).
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+**15. 7.** — Zítko tutéž tezi opakuje beze změny (zákon 11/1918, 29 bilionů Kč / 9500 tun zlata, „korporace Česko a Slovensko").
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ---
 
@@ -569,7 +581,11 @@ Zítko rozvíjí QAnon narativ o sérii nových „odhalení": Justin Bieber mě
 
 ⚡ **Poznámka:** Jde o neověřitelná konspirační tvrzení bez opory ve faktech.
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+**15. 7.** — Zítko doplňuje, že poločasová show na finále mistrovství světa ve fotbale (neděle, léto 2026) má hlavní hvězdu Justina Biebera — s odkazem na svou tezi o jeho zneužívání na akcích „Shona Kompse alias Pav Didyho" předpokládá, že diváci dostanou „nějaká jemná drobná podprahová sdělení", podobně jako už dříve avizoval u newyorské poločasové show Super Bowlu.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
+
+---
 
 ### „Pevnost Amerika" / TechNate — USA stahuje techniku z NATO, ždímání světa přes digitální měny (Vrabel, 5. 6. 2026)
 

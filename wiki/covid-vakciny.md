@@ -687,7 +687,19 @@ Tezi opakuje i ve vysílání 1. 6. 2026: za čtyři roky o 30 % méně narozen�
 
 ⚡ **Konflikt:** Pokles porodnosti je dokumentovaný demografický jev v ČR i jiných zemích, ale vědecký konsensus ho nepřičítá vakcínám.
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026), [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026)
+**15. 7.** — Zítko tutéž tezi (data Romana Kovaříka, ÚZIS, 1,3 milionu žen) opakuje beze změny, jen s poznámkou, že bez „brigádních porodů" ukrajinských žen v ČR by číslo bylo ještě horší.
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026), [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
+
+---
+
+### Údajné svědectví toxikologa Pfizeru: 60 000 mrtvých Němců po vakcíně Comirnaty (Zítko, 15. 7. 2026)
+
+Zítko cituje vystoupení muže představeného jako „hlavní toxikolog firmy Pfizer" Helmuta Šterce v německém Bundestagu (19. března), který měl uvést, že samotnou vakcínou Comirnaty (Pfizer-BioNTech) bylo v Německu zabito 60 000 lidí. Popisuje analýzu 26 000 výrobních šarží, z nichž 12 000 bylo prověřeno (výsledky měly být zveřejněny na 147 stránkách na blockchainu) a rozděleno do tří skupin podle síly účinku: neškodné placebo (dostali média, politici a další „spoluhráči"), středně škodlivé dávky (amputace končetin, trombózy, embolie) a nejsilnější šarže s letalitou v desítkách procent (až každý pátý příjemce zemřel). Tuto klasifikaci dává do souvislosti s vlastním trestním oznámením, které předložilo přes 2000 důkazů okresnímu soudu — podle Zítka je soudkyně bez ověření označila za „dezinformaci". Doplňuje citát japonského onkologa profesora Fukušimy, který genetické (mRNA) vakcíny označuje za nepřijatelnou formu genové terapie s vedlejšími účinky napříč orgány (vaječníky, mozek, játra, slezina, kostní dřeň) — Zítko z toho vyvozuje, že na území Československa probíhala prostřednictvím „korporací Česko a Slovensko" genocida a sterilizace obyvatelstva, včetně podpory povinného očkování 65+ ze strany prof. Berana (strana PRO).
+
+⚡ **Poznámka:** Jde o neověřené a neověřitelné tvrzení bez dohledatelného zdroje (jméno „Helmut Šterc" ani odpovídající svědectví v oficiálních záznamech Bundestagu nelze dohledat).
+
+**Zdroje:** [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ---
 

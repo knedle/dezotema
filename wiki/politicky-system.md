@@ -535,7 +535,9 @@ Během sjezdu ve Vysočině dostal Zítko od jedné z účastnic žertovné ocen
 
 **11. 7.** — Zítko sleduje průběžné nominace jednotlivých porotců Společnosti pro obranu svobody projevu: Karolína Stoniková nominovala profesora Jaroslava Turánka, zatímco bývalý předseda Rady České televize Pavel Matocha vybral pětici Václav Klaus, Karel Janeček, Luboš Xaver Veselý, Jana Škopková a Aleš Borovan. Nominaci Václava Klause komentuje jako výsměch — připomíná, že Klaus je podle jeho dřívějších tezí strůjcem „vlastizrádného" rozdělení Československa (dohoda s Mečiarem), nikoli bojovníkem za svobodu slova, a stejně tak zpochybňuje, že by se Klaus či Cyril Svoboda kdy reálně za svobodu projevu perzekučně postavili. Vyzývá diváky, aby psali komentáře přímo pod nominace Pavla Matochy a moderátorky Martiny Kocijánové a aktivně tak ovlivnili veřejné hlasování.
 
-**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026)
+**15. 7.** — Zítko konstatuje nízkou aktivitu diváků (u Kocijánové zatím jen devět příspěvků vůči tisícům zhlédnutí) a znovu vyzývá k hlasování; zmiňuje také souběžně startující anketu Křišťálová lupa (Cena Českého internetu), kterou dosud nesledoval, ale nyní vyzývá diváky k aktivní účasti i tam.
+
+**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
 
 ---
 
