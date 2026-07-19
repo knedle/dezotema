@@ -2805,3 +2805,12 @@
 - **Délka:** 00:01:14
 - **Poznámka:** Zpracováno 1 téma: Sabotáž Nord Streamu jako legitimní vojenský cíl, kritika Petra Pavla a médií — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: hejtman Půta a Hvězdovská ulice (6. 7. 2026) {#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-06_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1369721655296815&_rdr>
+- **Datum záznamu:** 2026-07-06
+- **Délka:** 00:01:29
+- **Poznámka:** Zpracováno 1 téma: Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice v Mimoni (zaměněna se silnicí Ralska) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

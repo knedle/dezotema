@@ -556,3 +556,11 @@ Zítko informuje, že stížnost skupiny kolem Pavla Blažka, Karima Tice a Daň
 Černohorský ostře kritizuje video hejtmana Jihomoravského kraje **Jana Grolicha** (KDU-ČSL), v němž hejtman veřejně žádá běžné občany o finanční dary — argumentuje potřebou „mít v politice odborníky a vzdělané lidi", na což jsou třeba peníze. Černohorský to považuje za nedůstojné chování politika a poukazuje na to, že strany jako KDU-ČSL mají standardně kontakty na sponzory a lobbisty, takže osobní žebrání o peníze od občanů vnímá jako pokrytecké.
 
 **Zdroje:** [Černohorský — Videoportál: Grolich žebrá o peníze, 30. 6. 2026](_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
+
+---
+
+## Hejtman Martin Půta (kandidát na Senát) — obvinění ze lži o opravě silnice
+
+Tarabová na místě v Mimoni ukazuje, že hejtman Liberecka Martin Půta ve svém videu prezentoval jako opravenou krajskou investici (4,5 mil. Kč) Hvězdovskou ulici — ve skutečnosti šlo o silnici ve vlastnictví sousedního města Ralska, zatímco skutečná Hvězdovská ulice v Mimoni, o níž se v komunikaci mluvilo, zůstává rozbitá a neopravená. Označuje to jako druhou v pořadí odhalenou nepravdu („lež č. 2") a naznačuje, že vzhledem k opakování už nejde o omyl, ale o „vydírání".
+
+**Zdroje:** [Tarabová — Videoportál: hejtman Půta a Hvězdovská ulice (6. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)

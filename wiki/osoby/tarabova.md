@@ -38,6 +38,9 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - Petr Pavel „Spojené státy evropské" = zánik ČR; Ukrainizace společnosti — telefonní šmejdi (senioři), dávkový podvod, automatické vyhoštění pachatelů — [Nedělní živé vysílání (26. 4.)](../_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026)
 - Pavel = „panák"/„zelená guma"/hlásná trouba Koláře, nedůstojný úřadu (Ankara), 60% podpora vs. 80% proti euru; Zeman = „můj prezident"; prezidentský favorit Marek Vašut — [Rozhovor TV Česko (15. 6.)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
 
+### [Kauzy a korupce](../kauzy.md)
+- Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice — prezentovaná Hvězdovská ulice patřila ve skutečnosti Ralsku, skutečná Hvězdovská v Mimoni zůstala neopravená — [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7.)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
+
 ### [Média a propaganda](../media-propaganda.md)
 - ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti — [ČT a ČRo: zrušit (18. 4.)](../_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
 - Výzva ke stávce/okupační stávce zaměstnanců ČT; „vládní moc se může uchýlit k násilí" — [ČT stávka (20. 5.)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
@@ -78,6 +81,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Marek Vašut | ✅ pozitivní | Tarabové favorit na prezidenta — přijatelný oběma stranami, miluje ČR, nehájí euro | 2026-06-15 | [Rozhovor TV Česko 15. 6.](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026) |
 | Andrej Babiš | ⚖️ rozporuplný | Přiznal covidové chyby (leden 2026), ale bez nápravných kroků jeho slova „nic neznamenají" — chybí zákaz mRNA vakcín a vyšetřování poradních orgánů | 2026-06-30 | [Videoportál: rozhovor s Pečénkou](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026) |
 | Roman Prymula | ❌ negativní | „Ohromný střet zájmu" — měl by stát před soudem, ne vystupovat v médiích | 2026-06-30 | [Videoportál: rozhovor s Pečénkou](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026) |
+| Martin Půta | ❌ negativní | Hejtman Liberecka, kandidát na Senát — obviněn ze lži o opravě silnice (prezentoval cizí silnici v Ralsku jako opravenou Hvězdovskou v Mimoni), Tarabová to nazývá „lží č. 2" a „vydíráním" | 2026-07-06 | [Videoportál: hejtman Půta a Hvězdovská ulice](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026) |
 
 ---
 
@@ -104,3 +108,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: Novo Nordisk (12. 6. 2026)](../_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
 - [Rozhovor pro TV Česko: prezidentský úřad (15. 6. 2026)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
 - [Videoportál: rozhovor s Patrikem Pečénkou (30. 6. 2026)](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
+- [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
