@@ -2895,3 +2895,12 @@
 - **Délka:** 02:06:01
 - **Poznámka:** Zpracováno 6 témat (panelová debata k výročí summitu NATO v Ankaře — hosté bez vlastní stránky osoby): (1) Konspirace „Mezimoří" — šlechta/Habsburkové vs. korporativní skupina (Vítová) — [konspirace.md](konspirace.md). (2) Americké zbrojovky přesouvají výrobu do Evropy (Adam) — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Spor o pravděpodobnost přímého konfliktu s Ruskem (Esentier vs. Kellner) — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier) — [valka-nato-rusko.md](valka-nato-rusko.md). (5) Role Turecka v NATO, puč 2016 (Kellner) — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [valka-nato-rusko.md](valka-nato-rusko.md). Neprocesována úvodní část opakující PURL/70 mld. tezi z předchozího videa 9. 7. Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 10. 7. 2026 {#ladislav-vrabel--zprávy-v-devět-10-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-10_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1355541723340819>
+- **Datum záznamu:** 2026-07-10
+- **Délka:** 00:53:32
+- **Poznámka:** Zpracováno 10 témat: (1) Trump nevylučuje bezletovou zónu nad Ukrajinou — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Teorie „týdenního cyklu" eskalace/deeskalace Írán vázaná na burzu — [blizky-vychod.md](blizky-vychod.md). (3) Zalužný (Telegraph): Ukrajina nevyhrává — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Erdogan podporuje PURL, Trump slibuje F-35 Turecku — [valka-nato-rusko.md](valka-nato-rusko.md). (5) EU povoluje Ukrajině nákup britské techniky, Rearm Europe 800 mld. — [valka-nato-rusko.md](valka-nato-rusko.md). (6) EU 6. klastr s Ukrajinou vs. Srbsko 20 let čeká — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Okamura kritizuje PURL, ač SPD řídí obranu — pokrytectví — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Střet policie s demonstranty v Berlíně kvůli Rheinmetall — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela) — [valka-nato-rusko.md](valka-nato-rusko.md). (10) Dotace 9,5 mil. Kč na obnovu německých hrobů v ČR — [benesovy-dekrety.md](benesovy-dekrety.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

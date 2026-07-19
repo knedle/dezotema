@@ -395,6 +395,14 @@ O den později (**1. 7. 2026**) Rajchl reaguje na ohlasy: opoziční politici (j
 
 ---
 
+### Zelenskyj schválil památníky UPA/Bandera na Ukrajině i ve Venezuele — spolufinancuje EU (Vrabel, 10. 7. 2026)
+
+Volodymyr Zelenskyj podepsal dekret o výstavbě památníků věnovaných Ukrajinské povstalecké armádě (UPA) a osobnostem ukrajinského nacionalistického hnutí (Šuchevyč, Bandera, Melnyk) — jeden komplex na Ukrajině, druhý přímo ve Venezuele, kam po válce podle Vrabela odešla část ukrajinských nacistických kolaborantů (podobně jako do Evropy přes katolickou církev v Římě). Celkové náklady komplexu odhaduje na cca 70 mil. eur (~1,75 mld. Kč), na financování se má podílet i Evropská unie. Vrabel to komentuje sarkasticky — srovnává částku se „směšnou" sumou, kterou ČR posílá na PURL (viz výše), a navrhuje, aby stát podobně jako platí zájezdy na Ukrajinu, hradil důchodcům zájezdy k tomuto památníku, aby na vlastní oči viděli, jak UPA za války „rozpárávala těhotné ženy a vyřezávala nemluvňata". Zasazuje spor do kontextu vyostřených vztahů s Polskem kolem stejného tématu (viz výše) a předpokládá, že po volbách polský protest opět „zavře" a spolupráce s Ukrajinou na vstupu do EU bude pokračovat jako dřív.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
 ### Zelenskyj: peníze z prodeje Chelsea a „humanitární pomoc" na zbraně (Vrabel, 9. 6. 2026)
 
 Vrabel komentuje výzvu Zelenského v Londýně, aby ~2,4 mld. liber z prodeje fotbalového klubu Chelsea (Abramovič) — vyčleněných na humanitární pomoc — bylo použito na ukrajinskou protivzdušnou obranu a protiraketové systémy. Označuje to za starý vzorec „humanitární pomoci na zbraně" / „humanitárního bombardování" (paralela s Václavem Havlem).
@@ -1266,7 +1274,9 @@ Vrabel komentuje úvahy norského ministra zahraničí Espena Barta Eideho o vst
 
 Výbor stálých zástupců (Coreper) má 8. 7. schválit otevření již šestého klastru přístupových jednání EU s Ukrajinou (a Moldavskem); maďarský zástupce v pracovní skupině pro rozšíření EU 3. 7. souhlasil se schválením výsledků screeningu. Vrabel připomíná, že první klastr byl slavnostně otevřen (von der Leyen, Costa a Zelenskyj v Evropském parlamentu) teprve před necelým týdnem — rychlost, jakou Ukrajina postupuje směrem k členství, ho překvapuje i s ohledem na jeho dosavadní kritiku procesu (viz [Ukrajina do EU/NATO odblokována, 4. 6.](#ukrajina-do-eunato-odblokována--čl-427-jako-past-rutte-nezvratná-cesta-vrabel-4-6-2026)).
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+**10. 7.** — Vrabel dává rychlost ukrajinského postupu do kontrastu se Srbskem, které na otevření pouhého třetího klastru čeká už 20 let a osm členských států mu ho odmítá otevřít — Ukrajina zvládla šest klastrů za dva týdny. Aleksandar Vučić k tomu prohlásil, že Srbsko v žádné blízké době do EU nevstoupí (kvůli přátelství s Ruskem i neřešitelné otázce Kosova), a Vrabel dodává vlastní zjištění od zástupce Srbska při EU, že 65 % občanů EU si dle jejího vlastního průzkumu nepřeje přijetí Srbska.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
 
 ---
 
@@ -1740,3 +1750,51 @@ Ve speciálním dvouhodinovém streamu k výročí summitu NATO v Ankaře Vrabel
 **Rusko lituje poválečné shovívavosti.** Miroslav Kellner cituje ruskou televizní debatu, podle níž si Rusové dnes uvědomují, že bylo chybou chovat se po 2. světové válce k některým státům (Finsko, Rumunsko) smířlivě a neuplatnit vůči nim tvrdší poválečné podmínky — jako příklad uvádí, že Finsko dnes zvažuje umístění amerických jaderných zbraní na svém území navzdory poválečné velkorysosti SSSR.
 
 **Zdroje:** [Vrabel — speciální stream: Ankara, panelová debata 9. 7. 2026](_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
+
+---
+
+### Trump nevylučuje bezletovou zónu nad Ukrajinou — riziko přímé války NATO–Rusko (Vrabel, 10. 7. 2026)
+
+Donald Trump na tiskové konferenci se Zelenským uvedl, že nevylučuje vyhlášení bezletové zóny nad Ukrajinou, pokud by to podle něj pomohlo ukončit konflikt. Vrabel na tom ukazuje riziko: skutečná bezletová zóna by znamenala, že spojenecká letadla nad Ukrajinou budou muset sestřelovat cokoliv ruského, co se objeví ve vzduchu — což by fakticky vtáhlo USA/NATO do přímé války s Ruskou federací. Mluvčí Kremlu Dmitrij Peskov reagoval, že jde o „nový prvek" v dosavadních jednáních, který Moskva bude analyzovat, a odmítl Trumpovo tvrzení, že ukrajinské údery na ruská rafinerie a infrastrukturu pomáhají k míru — označil to za „chybu v úsudku": čím více Ukrajina útočí do ruského týlu, tím větší „nárazníkové zóny" bude Rusko nuceno vytvářet. Vrabel to spojuje se svou starší tezí (Evropský parlament, 2023): pokud bude Evropa pokračovat v militarizaci, nelze vyloučit, že by Rusko nakonec postupovalo po zemi směrem k Bruselu, podobně jako v konfliktu, který od 2. světové války přes studenou válku nikdy skutečně neskončil.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
+### Zalužný (Telegraph): Ukrajina nevyhrává — varování před politickými neshodami na Západě (Vrabel, 10. 7. 2026)
+
+Bývalý vrchní velitel ukrajinské armády Valerij Zalužnyj ve svém článku pro Telegraph varoval, že považovat Rusko za poraženého ve válce je mylné hodnocení založené na jednotlivých taktických úspěších, nikoli na celkovém strategickém obrazu — každý získaný metr je vykoupen vysokými ztrátami a udržení pozic je kvůli dronům stále obtížnější; schopnost Ukrajiny pokračovat ve válce zůstává plně závislá na západní podpoře, kterou mohou ohrozit rostoucí politické neshody v USA i Evropě. Vrabel to označuje za „chybu v úsudku" Západu, který si podle něj v posledních týdnech (zejména kolem summitu v Ankaře) osvojil propagandistický narativ, že Ukrajina vyhrává — Zalužnyj jako možný budoucí prezident tuto verzi otevřeně popírá.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
+### Erdogan na summitu podporuje PURL, Trump slibuje F-35 Turecku — znepokojení Izraele (Vrabel, 10. 7. 2026)
+
+Turecký prezident Erdoğan na summitu NATO v Ankaře vyjádřil podporu pokračování vojenské pomoci Ukrajině i iniciativě PURL a nabídl Turecko jako místo pro další jednání mezi Ruskem a Ukrajinou. Vrabel to čte jako součást Trumpovy snahy udržet Erdogana na straně USA/NATO (Trump řekl, že by na summit ani nepřijel, nebýt přátelství s tureckým prezidentem, a přislíbil Turecku stíhačky F-35) — což vyvolává obavy Izraele, který se obává silného Turecka vyzbrojeného americkou technikou. Erdogana popisuje jako nevyzpytatelného pragmatika ochotného spolupracovat současně s NATO, EU i Ruskem podle vlastního zájmu (dřívější kroky: umožnění vstupu uprchlíků do EU jako nátlakový nástroj, dřívější zájem o členství v EU navzdory evropským protestům). Dodává, že Trumpovo zahraničněpolitické manévrování je poháněno tíživou ekonomickou situací USA — veřejný dluh cca 40 bilionů dolarů a rostoucí úroky z amerických dluhopisů, které by při překročení 5 % mohly zhroutit americkou i evropskou ekonomiku; Trumpa přirovnává k pilotovi „přistávajícího letadla s vysazenými motory", který se zatím daří „plundrovat Evropu" (energie, zbraně, GMO potraviny) na úkor USA.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
+### EU povolila Ukrajině nákup britské techniky z půjčky; Rearm Europe 800 mld. eur do 2030 (Vrabel, 10. 7. 2026)
+
+Evropská unie povolila Ukrajině využít prostředky evropského programu (60 mld. eur) na nákup britského vojenského vybavení — dohoda má být formálně projednána příští týden v Paříži, přičemž Evropská komise stanovila podmínku, že se britská vláda musí spolufinancovat na každé jednotlivé smlouvě. Vrabel to zasazuje do širšího obrazu evropského zbrojního programu Rearm Europe, který má do roku 2030 z rozpočtu EU spolknout až 800 mld. eur — z toho 150 mld. eur tvoří program SAFE (viz i [Program SAFE jako skryté zbrojení z peněz ČR; Rumunsko, 17. 6.](#program-safe-jako-skryté-zbrojení-z-peněz-čr-rumunsko-vrabel-17-6-2026)), z něhož má podle pravidel 60 % jít na projekty uvnitř EU a 35 % mimo EU (Austrálie, Kanada, Turecko, Británie) — Británie tak bude vydělávat na výrobě zbraní placené z peněz evropských daňových poplatníků odváděných na podporu Ukrajiny.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
+### Okamura kritizuje příspěvek do PURL, ač SPD řídí ministerstvo obrany — pokrytectví (Vrabel, 10. 7. 2026)
+
+Předseda SPD Tomio Okamura kritizoval rozhodnutí vlády přispět zhruba 140 mil. Kč do programu PURL a požadoval, aby podobná rozhodnutí byla příště předem konzultována s koaličními partnery — koaliční rada k tomu měla zasedat, ale nesešla se, protože klíčoví ministři (Macinka, Šilerová) byli na dovolené. Vrabel označuje Okamurovu stížnost za pokrytectví: ministerstvo obrany, přes které se takové zbrojní dohody domlouvají, patří právě SPD (ministr Jaromír Zuna) — pokud tedy Okamura s rozhodnutím nesouhlasí, jde o rozhodnutí jeho vlastní strany, ne cizí. Připomíná, že SPD navíc porušila předvolební slib, když na pozici ministra obrany nedosadila samotného Okamuru (lídra strany), ale místo něj generála.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
+### Střet policie s demonstranty v Berlíně kvůli zbrojovce Rheinmetall (Vrabel, 10. 7. 2026)
+
+V Berlíně došlo ke střetu mezi policií a demonstranty protestujícími proti otevření vojenské továrny společnosti Rheinmetall ve čtvrti Hessenwinkel (na místě bývalé automobilky) — aktivisté se pokusili prorazit policejní zátaras, byli zadrženi kopáním a obušky. Vrabel to ironicky srovnává s pasivitou v ČR: zatímco Němci protestují proti zbrojovce ve svém městě, čeští občané mlčky přijímají, že se podobná výroba (a logistická role ČR pro NATO) buduje i u nich — dokládá to sarkastickým výčtem: ČR jede „na obě strany" (výročí konce války do Německa i UPA památník na Ukrajině), toleruje migraci i zbrojní byznys ministra Macinky bez odporu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)

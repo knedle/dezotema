@@ -380,6 +380,8 @@
 - Trump a Grónsko — dvojí metr mezinárodního práva, USA jako koloniální mocnost vůči Evropě — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - Německo kupuje rakety Tomahawk — útočná, ne obranná zbraň; osobní vzpomínka manželky na bombardování Jugoslávie 1999 — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - **9. 7. (panelová debata k Ankaře)** — americké zbrojovky přesouvají výrobu do Evropy (Marek Adam); spor o pravděpodobnost přímého konfliktu s Ruskem (Esentier vs. Kellner); Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier); role Turecka v NATO a puč 2016 (Kellner); Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
+- **10. 7.** — ČR na 5. místě ruského seznamu nepřátel; Trump nevylučuje bezletovou zónu nad Ukrajinou (riziko přímé války NATO–Rusko); Zalužný (Telegraph): Ukrajina nevyhrává; Erdogan podporuje PURL, Trump slibuje F-35 Turecku; EU povoluje nákup britské techniky, Rearm Europe 800 mld.; 6. klastr s Ukrajinou vs. Srbsko 20 let čeká; Okamura kritizuje PURL ač SPD řídí obranu; střet policie s demonstranty v Berlíně (Rheinmetall); Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela); dotace na německé hroby v ČR — [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+- Teorie „týdenního cyklu" eskalace/deeskalace u Íránu vázaná na burzu (10. 7.) — [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
@@ -683,6 +685,10 @@
 | Friedrich Merz | ❌ negativní | Prezentuje nákup raket Tomahawk jako „obranu" — Vrabel: jde o čistě útočnou zbraň, zavádějící rétorika | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
 | Volodymyr Zelenský | ⚖️ rozporuplný | Panelová debata: signály zákulisní koordinace s Ruskem (USA věděly o útoku předem, Bennett tvrdí Putinův slib ho nezabít) — Rusku „vyhovuje" jako vůdce | 2026-07-09 | [Speciální stream: Ankara](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026) |
 | Recep Tayyip Erdoğan | ⚖️ rozporuplný | Podle Kellnera přežil puč 2016 organizovaný z NATO základny v Incirliku díky varování Ruska přes Írán — dnes rozkročen mezi NATO a BRICS | 2026-07-09 | [Speciální stream: Ankara](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026) |
+| Recep Tayyip Erdoğan | ⚖️ rozporuplný | Na summitu podpořil PURL i pomoc Ukrajině; „neřízená střela" ochotná spolupracovat s NATO, EU i Ruskem zároveň; dostane od Trumpa F-35 | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
+| Tomio Okamura | ❌ negativní | Kritizuje příspěvek do PURL, ač jeho vlastní strana (SPD) řídí ministerstvo obrany přes které se dohoda uzavřela — označeno za pokrytectví | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
+| Volodymyr Zelenský | ❌ negativní | Schválil výstavbu památníků UPA/Bandera na Ukrajině i ve Venezuele (~70 mil. eur, spolufinancováno EU) | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
+| Valerij Zalužnyj | ○ neutrální | V Telegraphu varuje, že Ukrajina nevyhrává — Vrabel to čte jako popření západní propagandy o ukrajinském vítězství | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
 
 ---
 
@@ -763,3 +769,4 @@
 - [Nedělní vysílání (5. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 - [Zprávy v devět (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - [Speciální stream: Ankara, panelová debata (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
+- [Zprávy v devět (10. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)

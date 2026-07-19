@@ -767,6 +767,14 @@ Vrabel ironizuje: „Slavíme Den EU s osobou, která pomohla Hitlerovi." Zelens
 
 ---
 
+### Dotace 9,5 mil. Kč na obnovu německých hrobů v ČR (Vrabel, 10. 7. 2026)
+
+Ministerstvo pro místní rozvoj (vede Petra Mrázová) vyhodnotilo první dotační výzvu na podporu obnovy hrobů významných německých rodáků v ČR — v hodnotě zhruba 9,5 mil. Kč, s odůvodněním naplňování česko-německé deklarace o vzájemných vztazích. Vrabel to komentuje sarkasticky jako „směšně malou" částku ve srovnání s penězi posílanými na Ukrajinu (viz PURL výše) — ironicky navrhuje čtenářům napsat Babišovi o navýšení rozpočtu programu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
 ### Rozšíření ochrany německého jazyka v pohraničí — Fialova vláda, únor 2024 (Černohorský, 29. 5. 2026)
 
 Černohorský sdílí výpověď učitelky, která dokumentuje: od února 2024 (za Fialovy vlády) byla v pohraničních oblastech ČR rozšířena ochrana německého jazyka. Týká se 8 okresů: Cheb, Karlovy Vary, Sokolov, Liberec, Ústí nad Labem, Český Krumlov, Opava a Svitavy. Opatření zahrnuje povinnou nabídku dvojjazyčné výuky ve všech typech škol (mateřské, základní, střední, učiliště) s 50% výukou v němčině; přípravu a financování německy mluvících učitelů; tvorbu veřejnoprávního a soukromého vysílání v němčině.

@@ -400,3 +400,11 @@ Místopředseda ruské bezpečnostní rady Dmitrij Medveděv ostře kritizoval p
 Írán se připravuje na masový smuteční obřad (odhad až 20 mil. lidí) za zabitého nejvyššího vůdce; současně vyšlo najevo, že USA během konfliktu tajně varovaly Teherán před izraelským plánem zabít další vrcholné íránské představitele, se kterými chtěl Washington po konci války jednat. Vrabel z toho vyvozuje obecnou úvahu o diplomacii: mezi hlavami států platí nepsaná pravidla vzájemného respektu k funkci (ne k osobě), díky nimž zůstávají otevřené dveře k jednání — příkladem je podle něj i to, že Rusko mohlo Zelenského „milionkrát" zabít, ale neudělalo to. Kontrastuje to s přístupem USA: v Íránu rovnou „pozabíjeli celé vedení", a k venezuelskému exprezidentovi Nicolási Maduru, drženému ve vězení v USA, se objevila fotografie vyhublého, vyhladovělého muže — Vrabel připouští, že jde pravděpodobně o ilustrační obrázek vytvořený umělou inteligencí (přístup k Madurovi ve vězení není reálný), ale považuje za věrohodné, že ho tam Američané skutečně mučí hladem. Celkově to čte jako důkaz, že USA po rozpadu východního bloku obvykle nevyjednávají, ale likvidují režim, dosazují loutky a „všechno rozkradou".
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
+### Teorie „týdenního cyklu" eskalace a deeskalace u Íránu — vázáno na burzu (Vrabel, 10. 7. 2026)
+
+K aktuálním zprávám o dočasném omezení vojenských operací mezi Íránem a USA (zprostředkovávají Pákistán a Katar) Vrabel opakuje tezi, kterou prý sleduje od začátku zpráv o konfliktu: každý týden se opakuje stejný vzorec — pondělí a úterý eskalace a útoky, ve středu a čtvrtek se situace „lepší", v pátek přichází dobré zprávy a klid, o víkendu se znovu začne útočit a v pondělí je opět „katastrofa". Toto střídání dává do souvislosti s obchodováním na burze: Donald Trump podle něj potřebuje na víkend nízké ceny ropy a rostoucí akciové trhy, aby bylo možné obchodovat, a cyklus se tak opakuje již čtyřicátý týden, aniž by si toho podle Vrabela někdo všiml.
+
+**Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
