@@ -829,3 +829,11 @@ Tarabová zpochybňuje spolehlivost a snesitelnost mamografického vyšetření 
 Tarabová popisuje rakovinu jako civilizační chorobu vznikající z nárůstu toxicity v těle a cituje (blíže nespecifikovaného) „světově známého doktora Cohena", podle něhož je nádor pouzdro, které si tělo vytváří, aby zachytilo veškeré toxiny. Naznačuje, že chemoterapie nemusí být skutečnou léčbou, ale spíše „dalším komerčním systémem západní medicíny", a vyzývá k hledání příčin nemoci a spolupráci se zastánci alternativních léčebných přístupů namísto pouhého řešení důsledků.
 
 **Zdroje:** [Tarabová — Videoportál: reakce na článek o rakovině (8. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
+
+---
+
+### Osobní svědectví o poškození očkováním — Jana Katarína Benke (13. 7. 2026)
+
+Moderátorka Jana Katarína Benke v rozhovoru s Pavlem Zítkem popisuje vlastní zkušenost: po covid vakcíně jí měly nastat silné bolesti bederní páteře, kvůli kterým přestala chodit a musela lézt po čtyřech — dodnes žije s trvalými následky a bere pravidelné léky, přičemž v Německu by na rozdíl od ČR měla nárok na asistentku kvůli takovému stupni postižení. Zmiňuje také, že její babička (dnes zesnulá) se nechala očkovat pod nátlakem rodiny a médií navzdory obavám, protože „v televizi říkali, že se nenakazíte". Kritizuje, že se v ČR poškozeným covid vakcínou nedaří domoci se odškodnění, na rozdíl třeba od Indie, kde je u nežádoucích účinků na oficiálním seznamu automaticky uznávána souvislost s očkováním.
+
+**Zdroje:** [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)

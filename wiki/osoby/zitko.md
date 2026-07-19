@@ -45,6 +45,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 ### [Politický systém](../politicky-system.md)
 - Vlastní žertovné ocenění „Cena Sira Nicholase Wintona" (za „záchranu životů" v covid genocidě) staví do kontrastu s oficiální anketou Společnosti pro obranu svobody projevu — nesouhlasí s nominací Cyrila Svobody, Ilony Švihlíkové; jako opomíjené hrdiny jmenuje sebe a Tomáše Čermáka — [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 - **11. 7.** — sleduje další nominace (Turánek, a od Matochy Klaus/Janeček/Xaver Veselý/Škopková/Borovan); kritizuje nominaci Václava Klause jako výsměch (strůjce rozdělení ČSFR) — [Videoportál 11. 7.](../_zdroje.md#československo-tv2--videoportál-11-7-2026)
+- Slovenští aktivisté René Baláž a Petr Švec označeni za odstraněné za nepohodlnost (13. 7.) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - COVID rozsudky: Peková (4 případy za šíření poplašné zprávy), Čermák (terorismus), Popelka, Křivka (Z tričko) — označuje je za politicky motivované; interpelace Majerové-Tejce; Tejc slíbil změnu trestního zákoníku do konce dubna 2026 — Zítko hodnotí jako prázdné sliby — [Interpelace Majerová-Tejc 23. 4.](../_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
@@ -70,6 +71,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **21. 6.** — obnova ČSR (zákon 542/1992 nulitní, ČSR „běží dál", reparace 9500 t zlata / 28–29 bil. jen pro ČSR; akademik Pjakin „99,9 % obnova") + QFS (kolaterální účty, rodný list jako burzovní papír, ISO 20022, JFK „starter"/Trump „finisher", finále k 4. 7.) — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 - Numerologický „portál Sýria" 7. 7. (rozklad 7.7.6, energie čísel 7 a 6, návaznost na letní slunovrat a „lví bránu" 8. 8.) — [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 - Rozšíření teze o zcinknutých volbách USA 2020 (Dominion, „signál" z Pensylvánie v Bidenově projevu, výpadek internetu) — [Videoportál 11. 7.](../_zdroje.md#československo-tv2--videoportál-11-7-2026)
+- Nicolás Maduro jako dvojník/bývalý řidič autobusu, adrenochrom a financování CIA (13. 7.) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
+- Rozšíření právní argumentace o obnově ČSR (zákon 327/1991, petrohradská konference jako místo poválečného rozhodnutí) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -178,6 +181,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Lukáš Valášek | ❌ negativní | Jmenován mezi placenými „prestituty/sráči" médií (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-08 | [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026) |
 | Pavel Matocha | ❌ negativní | Bývalý předseda Rady ČT — jako porotce ankety za svobodu projevu nominoval Václava Klause a další; Zítko výběr zpochybňuje | 2026-07-11 | [Videoportál 11. 7.](../_zdroje.md#československo-tv2--videoportál-11-7-2026) |
 | Václav Klaus | ❌ negativní | Nominován na cenu za svobodu projevu — Zítko to označuje za výsměch, připomíná jeho roli strůjce „vlastizrádného" rozdělení Československa | 2026-07-11 | [Videoportál 11. 7.](../_zdroje.md#československo-tv2--videoportál-11-7-2026) |
+| René Baláž | ✅ pozitivní | Slovenský aktivista — dle Zítka zavražděn/odstraněn za nepohodlnost (energetickou zbraní nebo chemickou cestou) | 2026-07-13 | [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026) |
+| Petr Švec | ✅ pozitivní | Podplukovník armády — dle Zítka zavražděn/odstraněn za nepohodlnost | 2026-07-13 | [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026) |
+| Nicolás Maduro | ⚖️ rozporuplný | Dle Zítka dvojník — skutečný Maduro byl bývalý řidič autobusu dosazený drogovými kartely jako „kasička" Deep State | 2026-07-13 | [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026) |
+| Jana Katarína Benke | ✅ pozitivní | Moderátorka pořadu Nadsvět, hostitelka rozhovoru — sdílí vlastní svědectví o poškození covid vakcínou | 2026-07-13 | [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026) |
 
 ---
 
@@ -242,3 +249,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál: Cesta do ráje, karta dne (3. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-3-7-2026)
 - [Videoportál 8. 7. 2026](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 - [Videoportál 11. 7. 2026](../_zdroje.md#československo-tv2--videoportál-11-7-2026)
+- [Nadsvět s hostem 13. 7. 2026](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)

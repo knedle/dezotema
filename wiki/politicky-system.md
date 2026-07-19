@@ -497,6 +497,14 @@ K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vysl�
 
 ---
 
+### Slovenští aktivisté René Baláž a Petr Švec označeni za odstraněné za nepohodlnost (Zítko, 13. 7. 2026)
+
+V rozhovoru u Jany Kataríny Benke Zítko tvrdí, že covidoví „odpůrci" a kritici, kteří se stali nepohodlnými, jsou likvidováni energetickými zbraněmi nebo chemickou cestou — jako příklad uvádí slovenského aktivistu René Baláže a podplukovníka armády Petra Švece, o nichž tvrdí, že jsou mrtví a byli „odstraněni", protože na rozdíl od něj neměli „to štěstí". Řadí je k obecnější tezi, že kdokoliv nepohodlný pro systém (zmiňuje i domnělou smrt kritika Billa Gatese) může být takto umlčen.
+
+**Zdroje:** [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
+
+---
+
 ### Maďarský influencer zadržen za výrok na podporu Orbána — právo na odpor (Vrabel, 9. 7. 2026)
 
 Maďarský tvůrce obsahu Ištvan Šakáč byl 8. 7. zadržen po domovní prohlídce (sedm policistů) poté, co na Facebooku napsal, že pokud by byl Viktor Orbán nezákonně „odveden" (zatčen), nenechají to bez odezvy. Vrabel jeho výrok obhajuje s odkazem na institut práva na odpor zakotvený v článku 23 Listiny základních práv a svobod ČR — pokud by šlo o nezákonný zákrok proti dlouholetému premiérovi, je podle něj legitimní, aby se jeho příznivci postavili na odpor. Srovnává to s vlastní výzvou k odporu na Václavském náměstí v roce 2022 a řadí zadržení Šakáče do stejné kategorie jako pronásledování britského aktivisty „Tommyho Robinsona" — jako součást vzorce popsaného výše.

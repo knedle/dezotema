@@ -2941,6 +2941,15 @@
 - **Poznámka:** Zpracována 2 témata: (1) Nové nominace v anketě „Cena za svobodu projevu" (Matocha nominoval Klause aj.), rozšíření existujícího tématu z 8. 7. — [politicky-system.md](politicky-system.md). (2) Rozšíření teze o zcinknutých volbách USA 2020 (Dominion, Pensylvánie) — [konspirace.md](konspirace.md). Neprocesováno: vlastní zrušení probačního dohledu (na žádost uživatele). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Pavel Zítko — Nadsvět s hostem: Pavel Zítko 13. 7. 2026 {#pavel-zítko--nadsvět-s-hostem-13-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-13_Československo-TV2_Videoportál.txt)
+- **Kanál:** Jana Katarína Benke (host: Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1005736938930034&_rdr>
+- **Datum záznamu:** 2026-07-12 (vysíláno jako „12/7 Nadsvět s hostem")
+- **Délka:** 00:57:10
+- **Poznámka:** Zpracována 4 témata: (1) Slovenští aktivisté René Baláž a Petr Švec označeni za odstraněné za nepohodlnost — [politicky-system.md](politicky-system.md). (2) Osobní svědectví Jany Kataríny Benke o poškození očkováním — [covid-vakciny.md](covid-vakciny.md). (3) Nicolás Maduro jako dvojník/bývalý řidič autobusu, adrenochrom/CIA — [konspirace.md](konspirace.md). (4) Rozšíření právní argumentace o obnově ČSR (zákon 327/1991, petrohradská konference) — [konspirace.md](konspirace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Facebook Live 12. 7. 2026 {#jindřich-rajchl--facebook-live-12-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-12_Jindřich-Rajchl_Facebook-Live.txt)
 - **Kanál:** Jindřich Rajchl (Facebook)

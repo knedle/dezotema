@@ -127,7 +127,9 @@ Zítko ve večerníku z 12. dubna 2026 přidává příklad Vladimíra Putina: s
 
 **11. 7.** — Zítko podrobněji rozvádí tezi o zcinknutých prezidentských volbách USA 2020: tvrdí, že sledoval Bidenův předvolební projev („podivný", zmínka o narození babičky v Pensylvánii), který interpretuje jako signál zákulisního „hoření" volebních výsledků v Pensylvánii — následně měly být napěchovány korespondenční hlasy, zfalšovány elektronické hlasy, vypnut internet a volební systém Dominion měl být řízen ze zahraničí. Prohlašuje se za vítěze starých sázek s „faktčekry" (jmenuje konkrétní osoby), kteří tvrdili, že Biden vyhrál férově, a vyzývá je, aby uznali prohru a zaplatili dohodnuté částky.
 
-**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026)
+**13. 7.** — Zítko v rozhovoru u Jany Kataríny Benke doplňuje příklad Nicoláse Madura: tvrdí, že současný Maduro je dvojník, zatímco skutečný Maduro byl původně obyčejný řidič autobusu dosazený do prezidentské funkce drogovými kartely coby „kasička" Deep State. Uvádí to jako součást širší teze, že Deep State si podobné „loutky" (jmenuje i Ukrajinu a Venezuelu jako země, kde lidé žili pod hranicí chudoby) vytváří z chudých poměrů a financuje se přes obchod s dětmi a adrenochromem — z těchto zdrojů měla být podle něj financována i CIA.
+
+**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 
 ---
 
@@ -620,7 +622,9 @@ V komentáři k Füllmichovu přenosu Zítko zopakoval dva pilíře svého výkl
 
 Podrobnosti viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Rodný list jako obchodní papír](#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) a [Trump, Putin a Xi jako aliance](#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh).
 
-**Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+**13. 7.** — Zítko doplňuje právní argumentaci novým odkazem: zákon č. 327/1991 Sb. prý stanovil, že jediným ústavním způsobem rozdělení Československa je referendum lidu — jelikož k němu nedošlo, je dle něj celé rozdělení „anulitní" a všechny zákony přijaté po 1. 1. 1993 jsou neplatné (včetně česko-německé deklarace 1997, kterou používá Sudetoněmecký Landsmannschaft). Podobně jako po první světové válce (Versailleská dohoda) a po druhé světové válce (kde dle Zítka nikdy nebyla podepsána mírová dohoda, jen příměří), i po ukončení konfliktu na Ukrajině má o budoucím uspořádání evropských států (obnova Československa i obnova Sovětského svazu) rozhodovat společná dohoda velmocí (USA, Ruská federace, Čína, Indie, země BRICS včetně Saúdské Arábie) — zmiňuje v této souvislosti i „petrohradskou konferenci". Jediné, o čem by se podle něj mělo hlasovat, je případné začlenění Podkarpatské Rusi zpět do hranic ČSR do roku 1939.
+
+**Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026), [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 
 ---
 
