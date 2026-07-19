@@ -360,6 +360,10 @@ Vrabel ve zprávách otevřel téma změny klimatu jako osobní pozorování: sl
 
 **Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026), [Černohorský — Videoportál: chemtrails na obloze, 3. 7. 2026](_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
 
+**11. 7.** — Boldy nezávisle přidává vlastní příklad: barevná mračna pozorovaná nad Karlovými Vary, o kterých psal Deník N, označuje za důkaz geoinženýrství a „osévání mraků" chemikáliemi — kritizuje, že ačkoliv se o geoinženýrství mluví i v mainstreamu, lidé si podle něj odmítají spojit souvislosti.
+
+**Zdroje:** [Boldy — Videoportál 11. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
+
 ---
 
 ### ⚡ Konflikt: Rekordní vedro je normální, „žádné klimatické změny se nedějí" — Černohorský (28. 6. 2026)
@@ -457,7 +461,9 @@ Dále aplikuje antisemitskou teorii „Chazarů": rozlišuje mezi „normálním
 
 > „Za druhé světové války bylo vyvražděno šest milionů Židů. Píčovina." — Boldy, [FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
 
-**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+**11. 7.** — Boldy tuto teorii aplikuje na konkrétní osobu: tvrdí, že ministr zahraničí Petr Macinka je napojen na „Chabad Lubovič", kterou popisuje jako sektu masivně rozšířenou v Česku a stojící pod „nadvládou sionismu", zapletenou do obchodu s drogami a praní špinavých peněz přes bitcoiny a darknetové sítě (odkaz na dřívější Boldyho a Zítkovy bitcoinové kauzy, viz [kauzy.md](kauzy.md)).
+
+**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026), [Boldy — Videoportál 11. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 
 ---
 

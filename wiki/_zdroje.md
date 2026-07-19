@@ -2904,3 +2904,12 @@
 - **Délka:** 00:53:32
 - **Poznámka:** Zpracováno 10 témat: (1) Trump nevylučuje bezletovou zónu nad Ukrajinou — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Teorie „týdenního cyklu" eskalace/deeskalace Írán vázaná na burzu — [blizky-vychod.md](blizky-vychod.md). (3) Zalužný (Telegraph): Ukrajina nevyhrává — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Erdogan podporuje PURL, Trump slibuje F-35 Turecku — [valka-nato-rusko.md](valka-nato-rusko.md). (5) EU povoluje Ukrajině nákup britské techniky, Rearm Europe 800 mld. — [valka-nato-rusko.md](valka-nato-rusko.md). (6) EU 6. klastr s Ukrajinou vs. Srbsko 20 let čeká — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Okamura kritizuje PURL, ač SPD řídí obranu — pokrytectví — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Střet policie s demonstranty v Berlíně kvůli Rheinmetall — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela) — [valka-nato-rusko.md](valka-nato-rusko.md). (10) Dotace 9,5 mil. Kč na obnovu německých hrobů v ČR — [benesovy-dekrety.md](benesovy-dekrety.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál 11. 7. 2026 {#konspirátor-boldy--videoportál-11-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-11_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1352245219581803>
+- **Datum záznamu:** 2026-07-11
+- **Délka:** 00:03:08
+- **Poznámka:** Zpracováno 3 témata: (1) Nedůstojné chování Pavla při hymně jako důkaz „loutkovosti" politiků — [politicky-system.md](politicky-system.md). (2) Macinka napojen na Chabad-Lubavič (antisemitská konspirace) — [konspirace.md](konspirace.md). (3) Barevná mračna u Karlových Varů jako geoinženýrství, doplnění existující teze o chemtrails — [konspirace.md](konspirace.md). Bez predikcí. Stoch. teror: dehumanizace Macinky — [stochasticky-teror.md](stochasticky-teror.md).
+- **Zpracováno:** ano

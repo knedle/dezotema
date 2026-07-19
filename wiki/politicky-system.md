@@ -368,6 +368,14 @@ K diskuzi o odvolání Petra Pavla z funkce Boldy tvrdí, že by to samo o sobě
 
 ---
 
+### Nedůstojné chování Petra Pavla při hymně v Karlových Varech jako důkaz „loutkovosti" politiků (Boldy, 11. 7. 2026)
+
+Boldy kritizuje chování Petra Pavla během znění státní hymny v Karlových Varech (podle jeho popisu se prezident „škrábal na hlavě" místo důstojného postoje) a spojuje to s obecnější tezí, že politici jako Okamura či Macinka lidi po volbách vždy zklamou, protože jsou to dosazené „loutky" — svobodné volby jsou dle něj iluze, protože elity si vše plánují dopředu.
+
+**Zdroje:** [Boldy — Videoportál 11. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

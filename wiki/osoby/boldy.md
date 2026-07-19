@@ -25,9 +25,12 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Světu vládne Satan, ne Bůh — společný kult (Saturn/Satan/Black Cube) za všemi náboženstvími a vládami; angličtina jako „čarodějnický jazyk" — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 - Daniel William Schmidt a numerologie („metadata") jako cesta k poznání budoucnosti — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 - Lidstvo jako 300 000letý experiment v „kopuli", odkaz na sumerské bohy a nedokončenou pyramidu — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- Macinka napojen na sektu Chabad-Lubavič (antisemitská konspirace, sionismus, drogy/bitcoiny) — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
+- Barevná mračna u Karlových Varů jako geoinženýrství/chemtrails — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- Nedůstojné chování Pavla při hymně v Karlových Varech jako důkaz „loutkovosti" politiků — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 
 ### [Blízký východ](../blizky-vychod.md)
 - Mlčení médií o Gaze jako propaganda — nezávislí novináři mrtví/zajatí — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
@@ -63,6 +66,8 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Bill Gates | ❌ negativní | Označen za loutku anonymních elit plánujících hospodářskou krizi a depopulaci | 2026-03-12 | [Facebook Live](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) |
 | Petr Pavel | ❌ negativní | Odvolání by nic nevyřešilo — je jen „další loutka" nadnárodních korporací jako všichni prezidenti za posledních 30+ let | 2026-07-07 | [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026) |
 | Amy Eskridge | ✅ pozitivní | Vědkyně zkoumající volnou energii — dle Boldyho zavražděna energetickou zbraní, protože ohrožovala zájmy energetiky a farmaceutického průmyslu | 2026-07-07 | [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026) |
+| Petr Macinka | ❌ negativní | Vulgárně dehumanizován a obviněn z napojení na sektu Chabad-Lubavič (antisemitská konspirace, sionismus, drogy) (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-11 | [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026) |
+| Petr Pavel | ❌ negativní | Nedůstojné chování při hymně v Karlových Varech (škrábání na hlavě) — příklad „loutkovosti" politiků | 2026-07-11 | [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026) |
 
 ---
 
@@ -80,3 +85,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Píseň proti větrníkům na Moravě (3. 6. 2026)](../_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
 - [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 - [Videoportál 9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
+- [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
