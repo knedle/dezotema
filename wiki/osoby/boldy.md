@@ -27,6 +27,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Lidstvo jako 300 000letý experiment v „kopuli", odkaz na sumerské bohy a nedokončenou pyramidu — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 - Macinka napojen na sektu Chabad-Lubavič (antisemitská konspirace, sionismus, drogy/bitcoiny) — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 - Barevná mračna u Karlových Varů jako geoinženýrství/chemtrails — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
+- Požáry v Peru (Cusco/Machu Picchu) a Argentině jako záměrné ničení starobylých civilizací „sionisty" — [13. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-13-7-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
@@ -86,3 +87,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 - [Videoportál 9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
 - [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
+- [Videoportál 13. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-13-7-2026)

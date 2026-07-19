@@ -465,7 +465,9 @@ Dále aplikuje antisemitskou teorii „Chazarů": rozlišuje mezi „normálním
 
 **11. 7.** — Boldy tuto teorii aplikuje na konkrétní osobu: tvrdí, že ministr zahraničí Petr Macinka je napojen na „Chabad Lubovič", kterou popisuje jako sektu masivně rozšířenou v Česku a stojící pod „nadvládou sionismu", zapletenou do obchodu s drogami a praní špinavých peněz přes bitcoiny a darknetové sítě (odkaz na dřívější Boldyho a Zítkovy bitcoinové kauzy, viz [kauzy.md](kauzy.md)).
 
-**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026), [Boldy — Videoportál 11. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
+**13. 7.** — Boldy tvrdí, že za rozsáhlými požáry v archeologicky významných oblastech Peru (Cusco, ohrožení Machu Picchu) a dříve v argentinské Patagonii stojí záměrně „sionisté", kteří chtějí zničit pozůstatky starobylých civilizací — motivem má být rostoucí veřejný zájem o tato místa. Srovnává to s ničením památek na Blízkém východě po 11. září 2001, které podle něj posloužilo jako záminka pro vojenský vpád do regionu.
+
+**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026), [Boldy — Videoportál 11. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-11-7-2026), [Boldy — Videoportál 13. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-13-7-2026)
 
 ---
 

@@ -2923,6 +2923,15 @@
 - **Poznámka:** Zpracováno 3 témata: (1) Nedůstojné chování Pavla při hymně jako důkaz „loutkovosti" politiků — [politicky-system.md](politicky-system.md). (2) Macinka napojen na Chabad-Lubavič (antisemitská konspirace) — [konspirace.md](konspirace.md). (3) Barevná mračna u Karlových Varů jako geoinženýrství, doplnění existující teze o chemtrails — [konspirace.md](konspirace.md). Bez predikcí. Stoch. teror: dehumanizace Macinky — [stochasticky-teror.md](stochasticky-teror.md).
 - **Zpracováno:** ano
 
+## Konspirátor Boldy — Videoportál 13. 7. 2026 {#konspirátor-boldy--videoportál-13-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-13_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/2772147193165420>
+- **Datum záznamu:** 2026-07-13
+- **Délka:** 00:01:35
+- **Poznámka:** Zpracováno 1 téma: požáry v Peru/Argentině jako záměrné ničení starobylých civilizací „sionisty" — [konspirace.md](konspirace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Československo TV2 — Videoportál 11. 7. 2026 {#československo-tv2--videoportál-11-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-11_Československo-TV2_Videoportál.txt)
 - **Kanál:** Československo TV2 (Pavel Zítko)
