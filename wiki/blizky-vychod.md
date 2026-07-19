@@ -141,6 +141,14 @@ Boldy tvrdí, že sionisté prohlásili válku s Íránem za „ideální čas p
 
 ---
 
+### Mlčení médií o Gaze jako propaganda (Boldy, 7. 7. 2026)
+
+Boldy upozorňuje, že se o Gaze (kterou označuje za „srovnanou se zemí") přestalo mluvit, a vysvětluje to tím, že nezávislí novináři a reportéři, kteří by o situaci mohli informovat, jsou mrtví, nezvěstní nebo zajatí. Jediní, kdo o Gaze podle něj dál mluví, jsou mainstreamoví reportéři — což považuje za propagandu.
+
+**Zdroje:** [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+---
+
 
 ## Hormuzský průliv a energetická krize
 

@@ -465,7 +465,9 @@ Dále aplikuje antisemitskou teorii „Chazarů": rozlišuje mezi „normálním
 
 Boldy tvrdí, že v posledních dvou letech záhadně zemřelo 13 vrcholových vědců ze dvou nebo tří stejných korporací, kteří přišli na antigravitaci a volnou energii. Tato oblast je dle Boldyho systematicky potlačována — přesně jako byl potlačen Nikola Tesla — protože by zbavila korporace příjmů z emisních povolenek a fosilních paliv. „Vědecký vývin civilizace je kontrolován korporacemi."
 
-**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+**7. 7.** — Boldy doplňuje konkrétní příklad: vědkyně Amy Eskridge, která zkoumala volnou energii (možnost, aby si lidé vyráběli energii doma sami), byla podle něj zavražděna „energetickou zbraní" (Directed Energy Weapon) poté, co zašla do podobných detailů jako Nikola Tesla. Motiv vidí ve snaze ochránit energetiku, ropný průmysl a farmaceutický/zdravotnický byznys (lidé by přestali platit za léčbu, kterou dnešní systém prodlužuje, aniž by skutečně léčil) před ztrátou příjmů. Řadí ji mezi 12–13 podobně zavražděných vědců za poslední čtyři roky.
+
+**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026), [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 
 ---
 
@@ -680,6 +682,50 @@ Boldy zastává teorii, že elity záměrně vkládají své plány do filmů a 
 > „Proč nám to ukazujou? No, protože jich se potom karma netýká. Když nám ukáží pravdu, to, co bude přicházet, tak jich se karma vyjímá." — Boldy, [Facebook Live 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 
 **Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+
+---
+
+### Havárie vrtulníku „Oliver 3" jako vražda, ne nehoda (Boldy, 7. 7. 2026)
+
+K havárii dvou vrtulníků v Brazílii, při níž zemřel zpěvák (Boldym označovaný jako „Oliver 3"), Boldy tvrdí, že jeden z vrtulníků byl řízen na dálku — podobně jako už dříve sestřelené letadlo nad řekou (rovněž s vědci na palubě). Motivem vraždy mělo být to, že zpěvák byl „zasvěcený" (v klipu má prý znak oka), ale začal mluvit o tématech, která podle Boldyho odhalují skutečné fungování světa: viděl na Antarktidě „ledovou zeď", mluvil o fungování Hollywoodu a o tom, že materiální hodnoty jsou zbytečné — tedy o věcech, o kterých dlouhodobě mluví „konspirátoři". Boldy to interpretuje jako potvrzení vlastních tezí, že svět, který lidem ukazují, je jen „zlaté pozlátko".
+
+**Zdroje:** [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+---
+
+## Organizovaný zločin a mafie
+
+### 'Ndrangheta ovládá evropské podsvětí (Boldy, 7. 7. 2026)
+
+Boldy doporučuje dokument o italské mafii 'Ndrangheta a tvrdí, že jde o nejmocnější mafii světa, figurující s kokainem v 84 zemích (z 80 %), což je podle něj potvrzeno i německým vyšetřováním. Podle Boldyho 'Ndrangheta ovládá evropské podsvětí včetně Německa a České republiky. Zmiňuje slovenského novináře (patrně Jána Kuciaka), který o působení mafie na Slovensku psal knihu.
+
+**Zdroje:** [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+---
+
+## Náboženský a okultní výklad moci
+
+### Světu vládne Satan — společný kult za všemi náboženstvími a vládami; angličtina jako „čarodějnický jazyk" (Boldy, 7. 7. 2026)
+
+Boldy tvrdí, že světu nevládne Bůh, ale Satan — argumentuje tím, že napříč různými náboženstvími se všechny politické strany a vlády světa scházejí u jednoho společného kultu, který spojuje se jmény „Saturn", „Satan" a „Black Cube". Tuto tezi propojuje s tvrzením, že angličtina je „čarodějnický jazyk" — jeho celosvětová dominance má podle něj souviset právě s touto vládou Saturna/Satana.
+
+**Zdroje:** [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+---
+
+### Daniel William Schmidt — numerologie jako „metadata" k poznání budoucnosti (Boldy, 7. 7. 2026)
+
+Boldy zmiňuje Daniela Williama Schmidta, absolventa ekonomie na Chicagské univerzitě, který podle něj mluví o tom, že lidé mají „metadata" — moderní označení pro to, co bylo dříve nazýváno numerologií. Podle Boldyho interpretace Schmidtova výkladu lze pomocí této numerologie poznat vlastní budoucnost.
+
+**Zdroje:** [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+---
+
+### Lidstvo jako 300 000letý experiment v „kopuli" — odkaz na sumerské bohy (Boldy, 7. 7. 2026)
+
+Boldy interpretuje výklad, podle kterého je lidstvo uzavřeno v jakési „kopuli" a žije v experimentu trvajícím 300 000 let. Odkazuje na knihu „Můj otec byl muž v černém", která obsahuje pasáže o Sumerech, bozích a době, po kterou lidem měli vládnout. K tomu připojuje tezi, že nedokončený vrchol egyptské pyramidy čeká na příchod „vyvoleného", který na něj má vstoupit.
+
+**Zdroje:** [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 
 ---
 

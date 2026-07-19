@@ -19,7 +19,18 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Artemis jako AI podvod a odvedení pozornosti — [9. 4. 2026](../_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026)
 - Trump hrozí vymazáním civilizace — [9. 4. 2026](../_zdroje.md#konspirátor-boldy--artemis-jako-odvedení-pozornosti-9-4-2026)
 - Popírání holocaustu — 6 milionů obětí označuje za „píčovinu", staví Chazary proti Židům — [24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
-- 13 vědců údajně zavražděno po objevu volné energie — [24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
+- 13 vědců údajně zavražděno po objevu volné energie; doplněno o Amy Eskridge (zabita „energetickou zbraní") — [24. 5. a 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- 'Ndrangheta ovládá evropské podsvětí (i ČR/Německo), obchod s kokainem v 84 zemích — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- Havárie vrtulníku „Oliver 3" jako vražda (dálkové řízení), ne nehoda — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- Světu vládne Satan, ne Bůh — společný kult (Saturn/Satan/Black Cube) za všemi náboženstvími a vládami; angličtina jako „čarodějnický jazyk" — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- Daniel William Schmidt a numerologie („metadata") jako cesta k poznání budoucnosti — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- Lidstvo jako 300 000letý experiment v „kopuli", odkaz na sumerské bohy a nedokončenou pyramidu — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+### [Politický systém](../politicky-system.md)
+- Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+### [Blízký východ](../blizky-vychod.md)
+- Mlčení médií o Gaze jako propaganda — nezávislí novináři mrtví/zajatí — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
@@ -47,6 +58,8 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Jim Carrey | ○ neutrální | Uveden jako příklad celebrity nahrazené klonem po veřejném gestu iluminátů | 2026-03-12 | [Facebook Live](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) |
 | Rothschildové | ❌ negativní | Označeni za loutky ještě mocnějších anonymních sil, součást elitní sítě | 2026-03-12 | [Facebook Live](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) |
 | Bill Gates | ❌ negativní | Označen za loutku anonymních elit plánujících hospodářskou krizi a depopulaci | 2026-03-12 | [Facebook Live](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy) |
+| Petr Pavel | ❌ negativní | Odvolání by nic nevyřešilo — je jen „další loutka" nadnárodních korporací jako všichni prezidenti za posledních 30+ let | 2026-07-07 | [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026) |
+| Amy Eskridge | ✅ pozitivní | Vědkyně zkoumající volnou energii — dle Boldyho zavražděna energetickou zbraní, protože ohrožovala zájmy energetiky a farmaceutického průmyslu | 2026-07-07 | [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026) |
 
 ---
 
@@ -62,3 +75,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Požár ubytovny — stručný report (14. 4. 2026)](../_zdroje.md#konspirátor-boldy--požár-ubytovny-stručný-report-14-4-2026)
 - [FB Live 24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
 - [Píseň proti větrníkům na Moravě (3. 6. 2026)](../_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
+- [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)

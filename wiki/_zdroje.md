@@ -2823,3 +2823,12 @@
 - **Délka:** 00:01:47
 - **Poznámka:** Zpracováno 1 téma: Trump nevnímá EU jako relevantního partnera kvůli ekonomické slabosti, Green Dealu a migraci (CNN Prima News) — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál 7. 7. 2026 {#konspirátor-boldy--videoportál-7-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-07_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1061496773061956>
+- **Datum záznamu:** 2026-07-07
+- **Délka:** 00:08:57
+- **Poznámka:** Zpracováno 9 témat: (1) Odvolání Pavla by nic nezměnilo, prezidenti jako loutky korporací — [politicky-system.md](politicky-system.md). (2) 'Ndrangheta ovládá evropské podsvětí (i ČR/Německo) — [konspirace.md](konspirace.md). (3) Mlčení médií o Gaze jako propaganda — [blizky-vychod.md](blizky-vychod.md). (4) Vražda vědkyně Amy Eskridge (volná energie) energetickou zbraní, doplnění existující teze o 13 zavražděných vědcích — [konspirace.md](konspirace.md). (5) Havárie vrtulníku „Oliver 3" jako vražda, ne nehoda — [konspirace.md](konspirace.md). (6) Světu vládne Satan, angličtina jako „čarodějnický jazyk" — [konspirace.md](konspirace.md). (7) Daniel William Schmidt — numerologie/„metadata" — [konspirace.md](konspirace.md). (8) Lidstvo jako 300 000letý experiment v „kopuli", sumerští bohové — [konspirace.md](konspirace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

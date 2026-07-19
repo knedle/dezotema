@@ -360,6 +360,14 @@ K diváckému dotazu na (v Německu zakázaný) nízkorozpočtový film Citizen 
 
 ---
 
+### Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky korporací (Boldy, 7. 7. 2026)
+
+K diskuzi o odvolání Petra Pavla z funkce Boldy tvrdí, že by to samo o sobě nic nevyřešilo — na jeho místo by přišla „další loutka". Argumentuje, že za posledních třicet a více let neměla ČR žádného prezidenta, který by se skutečně zastal národa; všichni podle něj pouze zastupují zájmy nadnárodních korporací a do lidí implementují jejich pokyny, nikoli vlastní názory.
+
+**Zdroje:** [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr
