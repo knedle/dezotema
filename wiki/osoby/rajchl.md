@@ -68,6 +68,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **5. 7.** — formální parlamentní návrh na odebrání Řádu bílého lva Zelenskému, jednomyslná podpora klubu SPD, pozitivní reakce Polska a Slovenska; odmítá von der Leyenové nové daně („ani vindru"); Ukrajina po válce bude „ukřivděná", analogie s Výmarskou republikou — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 - **6. 7.** — sabotáž Nord Streamu jako legitimní vojenský cíl (přerušení dodávek/plateb Rusku); kritika Pavla za „schvalování teroristického útoku a vojenského zločinu" a médií za dvojí metr (image vs. válečné zločiny) — [Videoportál 6. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-6-7-2026)
 - **7. 7.** — Trump nevnímá EU jako relevantního partnera (ekonomická slabost, Green Deal a migrace = „dvouocasá příšera"); cituje J. D. Vance, že „největší nepřítel sedí v Bruselu, ne v Moskvě" — [Videoportál 7. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-7-7-2026)
+- **8. 7.** — reakce na Kupku: odmítá, že se na Ukrajině bojuje za ČR nebo že zbrojení odstrašuje Rusko (nemá důvod nás napadnout); vzor Irska (12,2% růst HDP, 0,2% HDP na obranu) — [Videoportál 8. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-8-7-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -264,6 +265,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Filip Turek | ✅ pozitivní | Označení „hnědý Turek" (Jan Jakob) hodnotí jako nejtěžší možnou urážku, horší než jeho vlastní glosa o „mimoni" | 2026-07-05 | [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026) |
 | Ursula von der Leyen | ❌ negativní | Chce nové daně pro EU, jinak škrtne 40 % rozpočtu — Rajchl: „ani vindru", ať klidně škrtne | 2026-07-05 | [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026) |
 | Petr Pavel | ❌ negativní | „Evidentně schvaloval teroristický útok a vojenský zločin" (sabotáž Nord Streamu) — kritika, že médiím/veřejnosti víc záleží na jeho image než na tomto postoji | 2026-07-06 | [Videoportál 6. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-6-7-2026) |
+| Martin Kupka | ❌ negativní | Sněmovní projev o odstrašení Ruska a podpoře Ukrajiny označen za „litánie" a „blábory a nesmysly"; přirovnán k „eurohuérům" | 2026-07-08 | [Videoportál 8. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-8-7-2026) |
 
 ---
 
