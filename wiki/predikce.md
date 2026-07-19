@@ -20,9 +20,11 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **15. 7. update:** Vrabel horizont dále zpřesňuje/zpřísňuje — očekává, že už „příští rok" dojde k plně automatizované generální umělé inteligenci schopné sama sebe vylepšovat a trénovat bez lidského zásahu, s postupem k „válce strojů" mezi technologiemi do let 2028–2029.
 
-**Horizont:** 2026–2028 (nejbližší odhad „příští rok", vnější horizont 2027–2028)
+**16. 7. update:** V souvislosti s Trumpovým zákazem vydání nového modelu OpenAI (odvolávka na národní bezpečnost) znovu potvrzuje horizont roku 2027 jako nejpravděpodobnější pro plnou automatizaci a stoprocentní ztrátu lidských pracovních míst mimo zákonem vyhrazené pozice.
+
+**Horizont:** 2026–2028 (nejbližší odhad „příští rok", opakovaně potvrzovaný odhad 2027, vnější horizont 2028)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+**Zdroj:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026), [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 
 ---
 

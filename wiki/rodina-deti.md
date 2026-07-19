@@ -101,3 +101,13 @@ K zamítnutí novely o zpřísnění podmínek pro změnu pohlaví Senátem (pro
 Výrok na konci pasáže (lidé podílející se na této agendě „by potřebovali malý dvorek ohnaný ostnatým drátem, dlouhý bič a dobrého dozorce") je veden v [stochasticky-teror.md](stochasticky-teror.md#přehled-výroků).
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+
+---
+
+## Eutanazie
+
+### Francie schválila asistovanou sebevraždu — sarkastická kritika (Vrabel, 16. 7. 2026)
+
+Francouzský parlament definitivně schválil zákon umožňující asistovanou sebevraždu (poměr hlasů 291:241) — pacient trpící vážnou nemocí v pokročilé fázi si bude moci podat smrtící látku sám, případně mu ji (pokud toho není fyzicky schopen) podá zdravotník, včetně zdravotní sestry. Vrabel komentář vede čistě sarkasticky — označuje to za „další úspěch satanistů" a ironicky srovnává Macronovo „plnění slibů" s Babišovým tvrzením o 83% plnění vládních slibů.
+
+**Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)

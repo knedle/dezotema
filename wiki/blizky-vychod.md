@@ -458,3 +458,11 @@ Den poté, co Trump oznámil 20% tranzitní daň za proplouvání Hormuzským pr
 Bývalý analytik CIA Larry Johnson se posmívá myšlence amerického speciálního komanda na íránském ostrově Kharg — poukazuje na to, že by síly čelily nepřetržité dronové a raketové palbě a téměř nemožnému zásobování. Vrabel to považuje za „velmi vtipné" a žertuje, že by pro takovou misi bylo potřeba rovnou druhé záchranné mise.
 
 **Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Írán označil Trumpovy nemovitosti na Blízkém východě za legitimní cíle odvety (Vrabel, 16. 7. 2026)
+
+Íránské revoluční gardy zařadily mezi možné cíle budoucích odvetných útoků nemovitosti spojené s Donaldem Trumpem na Blízkém východě — zveřejněný seznam zahrnuje mimo jiné Trump International Hotel and Tower v Dubaji, Trump Plaza Tower v Džiddě, Trump Tower v Rijádu, golfové kluby ve Wadi Safaru a v Kataru i Trump International Hotel v Ománu; večer téhož dne došlo k explozím poblíž centra Dubaje. Vrabel odmítá klasifikovat tento krok jako terorismus — argumentuje, že Trump vyslal armádu na útok proti zemi, která s USA neměla konflikt, přičemž první ranou bylo zabití přibližně 180 dívek ve škole (viz [stochasticky-teror.md](stochasticky-teror.md)), a teprve poté hrozil „poslat zemi do středověku" útoky na civilní cíle — odvetu na jeho soukromý majetek proto považuje za legitimní obranu, ne terorismus. Zároveň seznam nemovitostí (roztroušených po SAE, Kataru, Ománu a Saúdské Arábii) používá jako důkaz své teze o „feudalismu" — zvolený státník si podle něj ponechává rozsáhlý soukromý byznys v regionu, který zároveň vojensky ovlivňuje.
+
+**Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)

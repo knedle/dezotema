@@ -797,6 +797,14 @@ K nové „národní strategii urychlení eliminace nádorových onemocnění zp
 
 ---
 
+### Centralizace zdravotnictví (Vojtěch) — kritika voličů za opakovanou volbu stejných politiků (Vrabel, 16. 7. 2026)
+
+Malé nemocnice varují před připravovanou reformou ministerstva zdravotnictví, která počítá s centralizací složitých zákroků do specializovaných center s moderním vybavením — ministr Adam Vojtěch to obhajuje jako pokračování zavedeného systému (lepší výsledky např. v onkologii a kardiologii), zatímco malé nemocnice namítají zhoršení dostupnosti péče pro odlehlejší regiony; reforma se má týkat i porodnic (nemocnice pod určitým počtem porodů je mají rušit, ženy by rodily centrálně). Vrabel zdůrazňuje svůj dlouhodobý nesouhlas s Vojtěchem — v covidu stál na opačné straně (Vojtěch prosazoval plošné očkování mRNA vakcínami, zatímco Vrabel žádal informovaný souhlas) — a klade zásadní otázku: jak je možné, že voliči Vojtěcha po zkušenosti s covidem znovu zvolili do vlády. Přirovnává to k opakovanému vpouštění zloděje domů a dávání mu klíčů znovu a znovu navzdory opakované škodě; vyzývá diváky, ať napíšou, zda jim to připadá jako „nemoc" národa (amnézie, neschopnost spojit si souvislosti).
+
+**Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
 ## „Jak bys řešil covid ty" — Fierst vs. Hořejší (Zítko, 17. 6. 2026)
 
 ### Zítkův rozbor Fierstova článku + vlastní dodatky

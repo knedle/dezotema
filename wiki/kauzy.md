@@ -634,3 +634,13 @@ Podle nového výkladu ministerstva už pro legální rozdělání ohně na zahr
 Vrabel doplňuje dřívější kritiku ČEZ (viz [Babiš a rozprodej ČEZ](#babiš-a-rozprodej-čez-rozkradená-republika-vrabel-4-6-2026)) o nový detail: vedení společnosti si podle diváckého upozornění rozdělilo na odměnách celkem 191 mil. Kč. Připomíná, že nad ČEZ dozoruje syn Václava Klause (otec současného ministra zahraničí Petra Macinky), a peníze označuje za pocházející přímo z předražených plateb občanů za elektřinu.
 
 **Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+## Kauza Foldina — obvinění z domácího násilí a Vrabelova teze o mediálním lynči
+
+### Vrabel brání poslance SPD Jaroslava Foldinu jako oběť politické likvidace (16. 7. 2026)
+
+Poslanec a vlivný člen hnutí SPD Jaroslav Foldina byl po incidentu ve svém děčínském domě na 14 dní vykázán policií a přišel o legálně držené zbraně; média líčí temný obraz jeho rodinného soužití, sám politik popírá vinu. Vrabel se staví na jeho obranu a rozvíjí tezi o „politickém lynči": srovnává kauzu s dřívějšími kauzami Víta Bárty a Petra Nečase (oba podle něj brutálně mediálně zlikvidováni) i se svou vlastní zkušeností (přes 20 trestních řízení, „naming and shaming" kampaň, do níž se podle něj zapojili Reichelt, Harabová a Černohorský). Popisuje mechanismus totalitního systému, který nejdřív likviduje politickou periferii (sebe sama označuje za „veřejného nepřítele číslo jedna"), než se obrátí i proti vlastním spojencům jako Foldina, a nakonec zůstanou u moci jen ti nejhorší. Zdůrazňuje, že dokud vina není prokázána, je nepřípustné psát o Foldinovi jako o týrajícím manželovi — takové nálepky se člověk už nikdy nezbaví, i kdyby se obvinění ukázalo jako nepravdivé. Přiznává, že s Foldinou má osobní neshodu z roku 2023 (kdy se podle Vrabela „postavil na špatnou stranu" a spojil s Jindřichem Rajchlem), ale odmítá se na jeho mediální likvidaci jakkoli podílet. V závěru navrhuje (výslovně jako fiktivní budoucí zákon, ne aktuální výzvu) trestní odpovědnost novinářů podílejících se na podobných kampaních — viz [stochasticky-teror.md](stochasticky-teror.md).
+
+**Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)

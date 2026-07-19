@@ -376,4 +376,18 @@ Po 117 letech byl odstraněn hraniční plot „La Verja" mezi Gibraltarem a Šp
 
 **Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
-**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+---
+
+### Mačetový útok v Manchesteru — predikce šíření násilí do českých měst (Vrabel, 16. 7. 2026)
+
+Skupina maskovaných mladíků ozbrojených mačetami („zombie knives") zaútočila v centru Manchesteru na posádku auta zastaveného na červenou; policie obvinila dva muže. Vrabel to zasazuje do širšího obrazu „katastrofy" napříč Evropou — stejný problém popisuje v Německu, Španělsku, Portugalsku, Itálii, Řecku a zemích Beneluxu, s osobní vzpomínkou na kontrast mezi upravenou částí kolem Evropského parlamentu v Bruselu a bezprostředně přilehlou čtvrtí, kde se manželka bála sama dojít pro kávu. Predikuje, že podobné násilí („mladíci s mačetami") se postupně rozšíří i do českých měst — nejdřív do bohatších Liberce a Plzně blízko německé hranice, pak dál do Prahy, Moravské Třebové a nakonec Brna — pokud ČR nevystoupí z EU a nezruší migrační pakt. Kriticky se obrací i na europoslankyni Kateřinu Konečnou, které předpovídá totéž v jejím rodném Novém Jičíně kvůli jejímu hlasování pro legální migrační cesty (viz [Španělsko — legalizace migrantů, Konečná, 15. 7.](#španělsko-legalizuje-1-mil-migrantů-eu-bojuje-jen-s-nelegální-migrací-vrabel-17-6-2026)).
+
+**Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
+### Demonstrace v Bruselu proti migraci — Vrabelova reflexe vlastní demonstrační strategie (16. 7. 2026)
+
+V centru Bruselu proběhla demonstrace organizace Save Europe Act (stovky účastníků) požadující přísnější ochranu hranic a omezení nelegální migrace — akce se konala navzdory původnímu zákazu bruselského starosty, který soud zrušil s odkazem na právo na pokojné shromažďování. Vrabel demonstraci vítá, ale považuje ji za neschopnou cokoliv reálně změnit, protože nejde o systémovou politickou změnu. Připomíná vlastní strategii z roku 2022: cílem demonstrací mělo být shromáždit lidi, aby je pak bylo možné politicky zorganizovat a dosadit přes volby do mocenských struktur — což se podle něj nepodařilo, protože se lidé nechali „podvést". Plánuje začít znovu od začátku (shromáždění lidí → politická organizace → volby → obsazení mocenských struktur), tentokrát s větší zkušeností s fungováním tajných služeb a „mafie ve státě", ale i s vědomím zrezignovanější a zfanatizovanější společnosti.
+
+**Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)

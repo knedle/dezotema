@@ -3048,3 +3048,12 @@
 - **Délka:** 00:01:36
 - **Poznámka:** Zpracováno 1 téma: neformální anketa v Chorvatsku o euru — nikdo spokojen, psychologický efekt 7× zdražení — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Facebook Live 16. 7. 2026 {#ladislav-vrabel--facebook-live-16-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-16_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1336405254788410>
+- **Datum záznamu:** 2026-07-16
+- **Délka:** 01:09:43
+- **Poznámka:** Zpracováno 10 témat ("Zprávy v devět s komentářem"): (1) Ukrajina — nový premiér Korecký, odvolání Fedorova, EU překvapena — [valka-nato-rusko.md](valka-nato-rusko.md). (2) „Feudalismus" jako popis politického systému — [politicky-system.md](politicky-system.md). (3) Írán cílí na Trumpovy nemovitosti jako odvetu — [blizky-vychod.md](blizky-vychod.md). (4) Mačetový útok v Manchesteru, predikce šíření do ČR — [migrace.md](migrace.md). (5) Demonstrace v Bruselu proti migraci — [migrace.md](migrace.md). (6) Centralizace zdravotnictví (Vojtěch) — [covid-vakciny.md](covid-vakciny.md). (7) Šanghajská AI dohoda + Trump zakázal model OpenAI, AGI predikce — [ceny-energie.md](ceny-energie.md), [predikce.md](predikce.md). (8) EU povolila Ukrajině čínské komponenty pro drony — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Kauza Foldina — obvinění z domácího násilí, teze o mediálním lynči — [kauzy.md](kauzy.md). (10) Francie schválila eutanazii — [rodina-deti.md](rodina-deti.md). 3 výroky stochastického teroru (Zelenskyj/Fedorov/Syrskyj, Trump, novináři) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí mimo AI/AGI update.
+- **Zpracováno:** ano

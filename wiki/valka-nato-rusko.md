@@ -1957,7 +1957,9 @@ Volodymyr Zelenskyj oznámil rozsáhlé vládní změny včetně odvolání velv
 
 Ukrajinský parlament přijal demisi premiérky Julie Svyrydenkové (258 hlasů, potřeba bylo 226), čímž skončila celá vláda. Zelenskyj odchod naznačil už v neděli po jednání s ní, s odůvodněním potřeby „změny politické strategie". Vrabel odmítá, že by šlo o změnu strategie — ta zůstává stejná — a interpretuje pravidelnou (každoroční) obměnu vlády jako záměrnou taktiku nezvoleného prezidenta: brání tomu, aby se kdokoliv ve funkci „zahřál", vytvořil si politickou pozici nebo zahraniční vazby, a nutí úředníky k poslušnosti vůči Zelenskému. Zdůrazňuje, že současně s vládou byla vyměněna i velvyslankyně v USA a úředníci v trestním řízení, což opakuje závěr z předchozího dne — snahu ochránit se před vlastním stíháním a signalizovat novým lidem, že za rok mohou být vyměněni také. Vrabel to označuje za „diktátorství v moderním pojetí dotažené do absolutní briliantnosti" a předpokládá, že západní média a vlády (včetně české) budou i nadále líčit tyto kroky jako boj proti korupci a demokratizaci.
 
-**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+**16. 7.** — Ukrajinský parlament schválil Serhije Koreckého (dosud šéf Naftohazu) jako nového premiéra a jeho vládu (264 pro, kromě ministrů zahraničí a obrany, které navrhuje přímo prezident). Před úřadem vlády v Kyjevě zároveň protestovalo přes tisíc lidí proti odvolání ministra obrany Michaila Fedorova — oficiálně kvůli sporu s hlavním velitelem Oleksandrem Syrským. Evropský komisař pro obranu Kubilius vyjádřil překvapení a zdůraznil, že s Fedorovem EU „velmi úzce spolupracovala" na hlubokých úderech na Moskvu, Petrohrad a Krym. Vrabel odmítá verzi o sporu s velitelem: interpretuje odvolání jako Zelenského snahu zabránit tomu, aby se jakýkoli ministr (Fedorov si získal oblibu u Ukrajinců i v EU) stal příliš silným a potenciální konkurencí — proto obměňuje vládu každý rok. Zvláště poznamenává nepoměr mediální pozornosti: tisícovou demonstraci v Kyjevě referuje světový tisk, zatímco srovnatelné nebo větší demonstrace v ČR místní média ignorují.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026), [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 
 ---
 
@@ -2072,3 +2074,11 @@ Emmanuel Macron nabídl Zelenskému raketu vážící přibližně tunu a půl (
 Ukrajinské firmy získají přístup ke zbrojním programům Evropské unie a dalších více než 300 milionů eur — podle ukrajinského ministra obrany Denyse Šmyhala jde o součást dohod podepsaných s komisařem pro obranu Andriusem Kubiliusem. Vrabel k tomu jen krátce poznamenává, že jde o další stovky milionů navrch k již schváleným 90 a 40 miliardám přes NATO, zatímco „lidi nemají pomalu co jíst" — nemá k tomu sofistikovanější komentář.
 
 **Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+
+---
+
+### EU poprvé povolila Ukrajině nakupovat čínské komponenty pro drony z unijního úvěru (Vrabel, 16. 7. 2026)
+
+Podle deníku Financial Times bude moci Kyjev poprvé vyčlenit přibližně 6 miliard eur z celkového unijního úvěru na vojenské nákupy (60 mld. eur) na pořízení čínských komponentů pro drony — dosavadní pravidla dovolovala nakupovat jen zbraně od EU, rozvíjet vlastní obranný průmysl nebo nakupovat od schválených výrobců. Vrabel to komentuje jako „smutnou výpověď" o stavu zbrojního průmyslu v Evropské unii, který si sám nedokáže zajistit potřebné komponenty.
+
+**Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
