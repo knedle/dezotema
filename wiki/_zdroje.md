@@ -3039,3 +3039,12 @@
 - **Délka:** 01:00:38
 - **Poznámka:** Zpracováno 8 témat: (1) ČSR obnova/reparace — opakování beze změny — [konspirace.md](konspirace.md). (2) EU/Babiš 700 000 domů (EPBD4) — opakování beze změny — [suverenita-eu.md](suverenita-eu.md). (3) Ricardo Bossi — rozšířená teorie dvojníků/klonů (200 000 náhražek, Ben Solomon, Starmer) — [konspirace.md](konspirace.md). (4) COVID — údajné svědectví toxikologa Pfizeru Helmuta Šterce, 60 000 mrtvých Němců — [covid-vakciny.md](covid-vakciny.md). (5) Pokles porodnosti (35 tis.) — opakování beze změny — [covid-vakciny.md](covid-vakciny.md). (6) Cena za svobodu projevu — pokračování, nízká aktivita diváků — [politicky-system.md](politicky-system.md). (7) Pšenák/Oganesian údajná vazba — teorie „prediktivního programování" — [konspirace.md](konspirace.md). (8) MS ve fotbale — poločasová show Bieber/Diddy — [konspirace.md](konspirace.md). 1 výrok stochastického teroru (Pšenák/Oganesian/Blujová) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál 16. 7. 2026 {#jindřich-rajchl--videoportál-16-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-16_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/930968423341624>
+- **Datum záznamu:** 2026-07-16
+- **Délka:** 00:01:36
+- **Poznámka:** Zpracováno 1 téma: neformální anketa v Chorvatsku o euru — nikdo spokojen, psychologický efekt 7× zdražení — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

@@ -102,7 +102,9 @@ Rajchl ve shrnujícím videu odmítá euro „kategoricky" — nikoli ze sentime
 
 > „V momentě, kdy se vzdáte vlastní národní měny a přijmete euro, tak je to to stejné, jako kdybyste převodovku z auta dali do Bruselu." — Jindřich Rajchl (cituje Vlastimila Tlustého), [Videoportál 5. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026)
 
-**Zdroje:** [Rajchl — Videoportál: ne euru, česká koruna, 5. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026)
+**16. 7.** — Rajchl na dovolené v Chorvatsku doplňuje neformální anketu mezi místními obyvateli o spokojenosti se zavedením eura (1. 1. 2023): z oslovených lidí nenašel jediného spokojeného. Cituje konkrétní postřeh jedné ženy o psychologickém efektu přechodu — dřív dostávali za jedno euro sedm kun, ale to, co dřív stálo jednu kunu, dnes stojí jedno euro, takže vše vnímají jako sedmkrát dražší. Používá to jako argument proti tvrzení, že by euro v ČR nikomu nezdražilo život — bohatnou dál jen nejbohatší, obyčejní lidé podle něj na přechod doplatí.
+
+**Zdroje:** [Rajchl — Videoportál: ne euru, česká koruna, 5. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026), [Rajchl — Videoportál 16. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-16-7-2026)
 
 ---
 

@@ -73,6 +73,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **12. 7.** — mír bude odrážet aktuální kontrolu území; predikce zhroucení Ukrajiny do 2 měsíců bez mírové dohody (viz [predikce.md](../predikce.md)) — [Facebook Live 12. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026)
 - **14. 7.** — Zetor přesouvá výrobu z ČR kvůli Green Dealu; slibuje tvrdý boj proti EU/von der Leyenové — [Videoportál 14. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-14-7-2026)
 - **15. 7.** — SPD (s Okamurou) jednomyslně odmítá Mezinárodní komisi pro odškodnění Ukrajiny jako podvod EU — náklady nejdřív platí členské státy, Rusko až po dobrovolném přiznání viny (nereálné) — [Videoportál 15. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-15-7-2026)
+- **16. 7.** — neformální anketa mezi Chorvaty o euru — nikdo spokojen; psychologický efekt vnímaného 7násobného zdražení po přechodu z kuny — [Videoportál 16. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-16-7-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
