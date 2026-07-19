@@ -366,6 +366,10 @@ Vrabel ve zprávách otevřel téma změny klimatu jako osobní pozorování: sl
 
 **11. 7.** — Boldy nezávisle přidává vlastní příklad: barevná mračna pozorovaná nad Karlovými Vary, o kterých psal Deník N, označuje za důkaz geoinženýrství a „osévání mraků" chemikáliemi — kritizuje, že ačkoliv se o geoinženýrství mluví i v mainstreamu, lidé si podle něj odmítají spojit souvislosti.
 
+**14. 7.** — Vrabel přidává nový konkrétní příklad údajné kontroly počasí: Americká Federální komunikační komise schválila společnosti Reflect Orbital povolení k testování technologie satelitních zrcadel, která mají odrážet sluneční světlo na noční část Země — oficiálně kvůli záchranným pracím nebo zvýšení výkonu solárních elektráren. Astronomové a ekologové varují před narušením astronomických pozorování, oslněním pilotů a řidičů a dopadem na ekosystémy. Společnost odmítá souvislost s vývojem zbraní nebo řízením počasí. Vrabel tomu ironicky nevěří a řadí projekt mezi nástroje globalistů k ovlivňování počasí i politických rozhodnutí — připomíná požáry na Havaji, kde podle jeho pozorování vyhořelo vše kromě domů s modrými střechami, což mu nedává smysl jako přirozený jev.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
 **Zdroje:** [Boldy — Videoportál 11. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 
 ---

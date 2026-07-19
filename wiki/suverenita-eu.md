@@ -489,6 +489,14 @@ Evropská komise zvažuje první komplexní reformu svého fungování za posled
 
 ---
 
+### Orbán vyzývá k „právu na odpor" proti odvolání prezidenta Šujoka — paralela s Pavlovým slibem (Vrabel, 14. 7. 2026)
+
+Maďarský parlament schválil ústavní dodatek umožňující odvolání prezidenta Tamáse Šujoka, kterému dal 5 dní na podpis nebo rezignaci. Viktor Orbán se v reakci odvolává na „právo na odpor" a srovnává postup s ukrajinským „ústavním pučem" 2013–14. Vrabel k tomu přidává vlastní paralelu: připomíná Petr Pavlův předvolební slib z roku 2025 nejmenovat žádného ministra, který by chtěl vystoupit z EU/NATO — což podle něj představuje srovnatelné ústavní překročení pravomocí prezidenta vůči demokraticky zvolené vládě.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
 ### Maďarsko: ústavní většina TISZA odvolává prezidenta Šujoka (Vrabel, 13. 7. 2026)
 
 Maďarský parlament schválil sedmnáctý dodatek ústavy ukončující mandát prezidenta Tamáše Šujoka (139 pro, 6 proti, poslanci Fideszu hlasování bojkotovali) — premiér Peter Magyar obvinil opozici (Fidesz) z pokusu ovládnout prezidentský úřad, zatímco vládní TISZA po volbách disponuje ústavní většinou umožňující měnit základní zákon. Vrabel to označuje za nedemokratický precedens srovnatelný s modely nacistického Německa nebo Stalinovým stylem vlády — na svém žebříčku „nejhorších politických podvodníků světa" řadí Petera Magyara na čtvrté místo (za Zelenským, Trumpem a „Reichelem", jeho posměšnou přezdívkou pro Jindřicha Rajchla).

@@ -394,6 +394,29 @@
 - **12. 7.** — vyhlašuje zářijovou protijadernou demonstraci (RT interview jako spouštěč), podrobné vysvětlení jaderného deštníku — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026) → [jaderne-zbrane.md](../jaderne-zbrane.md)
 - Údajná smrt Lindseyho Grahama, návrh 500% cel na obchod s ruskou ropou; letiště Karlovy Vary předáno armádě/NATO — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - **13. 7.** — vláda připravuje legislativu pro přechod na válečnou/obrannou ekonomiku; nová biolaboratoř v Orlických horách; otrava Grahama (rozšíření teze); nová francouzská koalice balistické obrany (ČR nepodepsala); petrodolar/petrojuan a predikce kolapsu US ekonomiky; Německo 50 000 dronů, „oko za oko"; Zelenskyj vyměnil vládu i vyšetřovatele — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+- **14. 7.** — Babiš/koalice ochotných chce ČR do protiraketového projektu balistických střel; Bulharsko odmítá koalici; Donbas ~95 % obsazen; Polsko podzimní cvičení; Rubio/ICC sankce (dvojí metr suverenity); Sojuz na ISS jako důkaz možné rusko-americké spolupráce; Indie odmítá dohodu s USA, BRICS vs. NATO; pád vlády Svyrydenkové, Zelenskyj „diktátor par excellence"; Wagenknechtová — Německo stranou konfliktu — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
+- Maďarsko: Orbánovo „právo na odpor" proti odvolání prezidenta Šujoka, paralela s Pavlovým předvolebním slibem — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) → [suverenita-eu.md](../suverenita-eu.md)
+
+### [Politický systém](../politicky-system.md)
+- Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+### [Kauzy](../kauzy.md)
+- Evropský prokurátor vyšetřuje dotace Agrofertu — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- Filip Turek — nehoda a tlak na rezignaci; Vrabel ho brání i přes nesouhlas s jeho postoji, kritizuje Babiše — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+### [Blízký východ](../blizky-vychod.md)
+- Larry Johnson zesměšňuje plán útoku na Kharg Island — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- Trump zrušil 20% tranzitní daň za Hormuz, nahradil úplnou blokádou íránských lodí — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+### [Konspirace](../konspirace.md)
+- Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+### [Migrace](../migrace.md)
+- Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- Britská policejní „barevná karta" jako důkaz rasového dvojího metru — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md)
+- Zánik německých pivovarů a propouštění ve VW jako signál automatizace; predikce plné AGI/nezaměstnanosti 2027–2028 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
@@ -706,6 +729,12 @@
 | Tomio Okamura | ❌ negativní | Kritizuje příspěvek do PURL, ač jeho vlastní strana (SPD) řídí ministerstvo obrany přes které se dohoda uzavřela — označeno za pokrytectví | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
 | Volodymyr Zelenský | ❌ negativní | Schválil výstavbu památníků UPA/Bandera na Ukrajině i ve Venezuele (~70 mil. eur, spolufinancováno EU) | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
 | Valerij Zalužnyj | ○ neutrální | V Telegraphu varuje, že Ukrajina nevyhrává — Vrabel to čte jako popření západní propagandy o ukrajinském vítězství | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
+| Andrej Babiš | ❌ negativní | Tlačí ČR do protiraketového projektu balistických střel a zároveň „podrazil" koaličního partnera Filipa Turka — potvrzuje pověst poslušné loutky EU/NATO | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
+| Filip Turek | ⚖️ rozporuplný | Vrabel ho nazývá „nejhorším náckem" na scéně, ale přesto ho brání v kauze dopravní nehody jako nespravedlivě tlačeného k rezignaci | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
+| Marco Rubio | ❌ negativní | Vede kroky proti Mezinárodnímu trestnímu soudu ve jménu americké suverenity — Vrabel v tom vidí dvojí metr | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
+| Sahra Wagenknechtová | ✅ pozitivní | Přesně popisuje, že se Německo stává přímou stranou ukrajinského konfliktu | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
+| Volodymyr Zelenský | ❌ negativní | Obměnil vládu i vyšetřovatele uprostřed korupčního vyšetřování — „diktátor par excellence" | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
+| Viktor Orbán | ⚖️ rozporuplný | Volá po „právu na odpor" proti odvolání prezidenta Šujoka — Vrabel srovnává s Pavlovým předvolebním slibem | 2026-07-14 | [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026) |
 
 ---
 
@@ -790,3 +819,4 @@
 - [Zprávy v devět (11. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 - [Nedělní vysílání (12. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - [Zprávy v devět (13. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+- [Facebook Live (14. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)

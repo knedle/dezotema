@@ -1934,3 +1934,75 @@ Německo financuje nákup 50 000 útočných dronů pro Ukrajinu (ukrajinská fi
 Volodymyr Zelenskyj oznámil rozsáhlé vládní změny včetně odvolání velvyslankyně USA Ščefanie Šyrinové (Oksany Markarovové), která čelila podezřením z korupce — současně vyměnil i vedení orgánů trestního řízení, což Vrabel interpretuje jako snahu vyhnout se vlastnímu trestnímu stíhání. Podává mimořádně tvrdé shrnutí Zelenského kariéry: bývalý herec a komik (kritizuje jeho dřívější vulgární estrádní vystoupení), zvolený prezidentem s podporou ukrajinského oligarchy a Západu navzdory předvolebním slibům ukončit konflikt na Donbasu; za jeho vlády Ukrajina ztratila Donbas, přišla o 1–2,5 milionu obyvatel na frontě a zadlužila se na 200 mld. dolarů vůči BlackRock a MMF; zakázal opozici, ruskou kulturu a sportovce a přesunul zemi z pravoslavného na katolický kalendář. Označuje ho za „nejhorší prototyp člověka 21. století" a nejhoršího politického podvodníka na světě (za ním v jeho žebříčku následují Trump, Rajchl a Peter Magyar).
 
 **Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Ukrajinský parlament schválil demisi vlády Svyrydenkové — Zelenskyj jako „diktátor par excellence" (Vrabel, 14. 7. 2026)
+
+Ukrajinský parlament přijal demisi premiérky Julie Svyrydenkové (258 hlasů, potřeba bylo 226), čímž skončila celá vláda. Zelenskyj odchod naznačil už v neděli po jednání s ní, s odůvodněním potřeby „změny politické strategie". Vrabel odmítá, že by šlo o změnu strategie — ta zůstává stejná — a interpretuje pravidelnou (každoroční) obměnu vlády jako záměrnou taktiku nezvoleného prezidenta: brání tomu, aby se kdokoliv ve funkci „zahřál", vytvořil si politickou pozici nebo zahraniční vazby, a nutí úředníky k poslušnosti vůči Zelenskému. Zdůrazňuje, že současně s vládou byla vyměněna i velvyslankyně v USA a úředníci v trestním řízení, což opakuje závěr z předchozího dne — snahu ochránit se před vlastním stíháním a signalizovat novým lidem, že za rok mohou být vyměněni také. Vrabel to označuje za „diktátorství v moderním pojetí dotažené do absolutní briliantnosti" a předpokládá, že západní média a vlády (včetně české) budou i nadále líčit tyto kroky jako boj proti korupci a demokratizaci.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Koalice ochotných rozšiřuje protiraketovou obranu — Babiš chce ČR do projektu balistických střel (Vrabel, 14. 7. 2026)
+
+Andrej Babiš zveřejnil tříminutové video z jednání „koalice ochotných" v Paříži, kde evropské země (Francie, Británie, Německo, Dánsko, Itálie, Nizozemsko, Norsko, Španělsko, Švédsko) domlouvají novou integrovanou protiraketovou obranu. Babiš chce, aby se ČR k projektu připojila, a prosazuje, aby šlo o čistě unijní projekt bez Británie, srovnatelný s Airbusem. Vrabel tvrdí, že za eufemismem „protiraketová obrana" se ve skutečnosti skrývá výroba balistických střel určených k použití proti Rusku — a to na českém území, což by z ČR udělalo přímý cíl. Připomíná, že Babiš zároveň svaluje vinu za to, že ČR dosud v žádné takové koalici není, na předchozí Fialovu vládu, přestože sám do projektu tlačí. Zmiňuje také, že Francie souhlasila s dodávkou stíhaček Rafale Ukrajině a licencí na výrobu balistických střel (dohoda Macron–Zelenskyj). Jediné, co Vrabel na Babišově vystoupení hodnotí kladně, je slib, že ČR nepošle vojáky na Ukrajinu — tomu ale nevěří vzhledem k Babišově dosavadní politice. Celkově to Vrabel považuje za další důkaz, že Babiš je poslušná loutka EU/NATO — horší než Pavel s Fialou, protože svým voličům úspěšně lže (maloval si na tvář českou vlajku, sliboval „Česko na prvním místě", zatímco dělá opak).
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Bulharsko odmítá vstup do koalice ochotných (Radev, Vrabel 14. 7. 2026)
+
+Bulharský prezident Rumen Radev oznámil, že Bulharsko se nepřipojí ke „koalici ochotných". Navazuje na dřívější Vrabelovo hodnocení Radeva jako politika kontrolovaného oligarchy — Vrabel je vůči němu skeptický a předpovídá, že pokud bude příliš dlouho vzdorovat, čeká ho stejný osud jako Orbána: postupné odstavení podobnými metodami.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Rusko ovládlo ~95 % Donbasu — kritika mediálního rámování „Ukrajina vítězí" (Vrabel, 14. 7. 2026)
+
+Podle Vrabelovy analýzy Rusko ovládá už přibližně 95 % Donbasu. Kritizuje западní média za to, že tuto realitu zastírají a naopak rámují situaci jako „Ukrajina vítězí" — přitom zaměňují ukrajinské dronové a teroristické útoky na ruské území (které nezískávají žádné území) s vojenským vítězstvím. Popisuje současnou fázi jako „křižovatku": buď Západ deeskaluje a umožní nasazení mírových sil, nebo dojde k další eskalaci. Poukazuje na to, že signatáři posledního summitu NATO (včetně Babiše) se stále zavázali k „suverenitě Ukrajiny" (právu vstoupit do EU/NATO), což podle něj znamená, že válka bude pokračovat, dokud Rusko nezíská celý Donbas a Krym.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Polsko uspořádá první společné vojenské cvičení koalice ochotných (Vrabel, 14. 7. 2026)
+
+Polský premiér Donald Tusk oznámil, že na podzim uspořádá na polském území první společné vojenské cvičení „koalice ochotných" za účasti Francie, Británie a Polska. Vrabel zároveň poznamenává, že Polsko v tuto chvíli neposílá Ukrajině další zbraně.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Marco Rubio: ICC vede „válku" proti USA přes mezinárodní právo — dvojí metr suverenity (Vrabel, 14. 7. 2026)
+
+Marco Rubio prohlásil, že Mezinárodní trestní soud (ICC) v Haagu a jeho podporovatelé vedou proti USA „válku" prostřednictvím mezinárodního práva; americké ministerstvo zahraničí oznámilo kroky k omezení schopnosti soudu zasahovat proti americkým vojákům a představitelům, odůvodněné obranou „suverenity" USA. ICC má jurisdikci ve 120 zemích včetně téměř celé Evropy a ČR; USA ani Rusko nejsou signatáři smlouvy. Vrabel na tom ukazuje dvojí metr slova „suverenita": pro USA znamená právo beztrestně napadat země, unášet a zabíjet hlavy států včetně duchovních vůdců a dětí, zatímco jakýkoli pokus trestního tribunálu tato jednání stíhat jako zločiny proti mezinárodnímu právu vede k tomu, že se USA snaží soud oslabit.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Rusko-americká posádka odstartovala k ISS — Vrabel: „aspoň někde ten mozek funguje" (14. 7. 2026)
+
+K Mezinárodní vesmírné stanici odstartovala smíšená rusko-americká posádka (loď Sojuz MS-29 z Bajkonuru) — dva ruští kosmonauti a americký astronaut na jeho první let, expedice má trvat 261 dní. Vrabel toto hodnotí pozitivně jako důkaz, že spolupráce mezi Ruskem a USA je možná, když je vůle. Navazuje na svou opakovanou tezi o „rozděl a panuj" (divide et impera): anglosaské mocnosti podle něj tlačí Slovany (Ukrajince a Rusy) do vzájemné války, která je stála už 3 miliony životů, protože na tomto konfliktu vydělávají — kasírují za zbraně, energie i „špatné GMO jídlo", zatímco Slované se navzájem vraždí.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Indie odmítá uspěchat obchodní dohodu s USA — BRICS jako protiváha NATO/EU (Vrabel, 14. 7. 2026)
+
+Indie odmítla uspěchat obchodní dohodu s Washingtonem poté, co USA nenabídly Indii celní výhody oproti Číně a nevyloučily nová cla ani po podpisu, a Indie zase odmítá otevřít citlivé segmenty zemědělského trhu americkým firmám. Vrabel to hodnotí kladně — ne každá vláda je zkorumpovaná, některé pracují pro vlastní zemi. Zároveň vyvrací Trumpovo opakované tvrzení, že zprostředkoval ukončení konfliktu Indie–Pákistán a že mu volal indický premiér: indická média i premiér to popírají. Připomíná, že Indie je jedním ze zakládajících členů BRICS (spolu s Brazílií, Ruskem, Čínou a Jihoafrickou republikou) a že BRICS dnes funguje jako opozice vůči NATO a EU — přestože Indie i Čína zároveň obchodují se Západem, svět se podle Vrabela jasně rozděluje na dva bloky; BRICS už dnes generuje víc obchodu než G7 dohromady a rychle roste.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Sahra Wagenknechtová: Německo se stává přímou stranou konfliktu na Ukrajině (Vrabel, 14. 7. 2026)
+
+Předsedkyně strany Rozum a Spravedlnost (BSW) Sahra Wagenknechtová varuje, že se Německo stává přímou stranou ukrajinského konfliktu, protože financuje německými zbraněmi a technologiemi údery na ruské vnitrozemí — čímž si podle ní „koleduje o odvetu". Upozorňuje, že v Rusku zaznívají hlasy volající po útocích na německé zbrojní závody, a označuje jednání vlády Friedricha Merze za nezodpovědné a překračující jednu červenou linii za druhou. Vrabel jen krátce komentuje, že Wagenknechtová (mimo AfD, s vlastní stranou) věci popisuje „naprosto přesně", a připomíná svou dřívější předpověď, že se realita začne veřejně probírat.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)

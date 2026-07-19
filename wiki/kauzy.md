@@ -397,6 +397,24 @@ Rajchl odmítá snahy Pirátů připravit Agrofert o dotace EU a označuje je za
 
 > „Nikdy, nikdy, nikdy nebudu na Andreje Babiše útočit přes Čapí hnízdo, přes jeho syna, nebo přes Agrofert. To je absolutně ubohé." — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
+### Evropský prokurátor zahájil trestní řízení kvůli dotacím Agrofertu (Vrabel, 14. 7. 2026)
+
+Evropský prokurátor zahájil trestní řízení ve věci dotací pro Agrofert poté, co na to reagoval na stížnost Pirátů. Vrabel připomíná, že Babišův střet zájmů nebyl vyřešen převodem firmy do svěřenského fondu, a nečeká žádné odsouzení — Babiš podle něj zůstává „užitečnou loutkou", která dělá vše, co globalisté chtějí, a proto mu podobná vyšetřování neuškodí.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+## Filip Turek — dopravní nehoda a tlak na rezignaci
+
+### Vrabel brání Turka i přes nesouhlas s jeho postoji — kritika Babišova podrazu (14. 7. 2026)
+
+Poslanec Filip Turek (vládní zmocněnec pro Green Deal) způsobil v centru Prahy dopravní nehodu, když na křižovatce u Jipáku narazil do sanitního vozu s rozsvícenými majáky. Premiér Babiš po jednání s předsedou motoristů a vicepremiérem Petrem Macinkou uvedl, že pokud se záběry potvrdí, měl by Turek na post zmocněnce rezignovat; opozice žádala i rezignaci na poslanecký mandát. Vrabel nehodu hodnotí jako pravděpodobně Turkovu chybu (sanitka s majáky měla přednost bez ohledu na to, že Turek jel na zelenou), zároveň ale poukazuje na notoricky nepřehlednou křižovatku. Zásadně nesouhlasí s tím, že by nehoda měla mít jakoukoli souvislost s výkonem funkce vládního zmocněnce pro klimatickou změnu — takový důvod k rezignaci by podle něj dával smysl jen při prokázaném vlivu alkoholu či drog. Zdůrazňuje, že sám Turka nemá rád a považuje ho za nejhoršího „nácka" na české veřejné scéně kvůli jeho brutální podpoře Zelenského a urážkám Putina, přesto trvá na tom, že spravedlnost vyžaduje oddělit osobní nehodu od politické funkce. Kritizuje Babiše za to, že takto „podkopl" vlastního koaličního partnera — už dříve mu prý nepomohl při jmenování ministrem — a vidí v tom potvrzení Babišovy povahy.
+
+> „Ale to, co mám rád, je pravda. To, co mám rád, je spravedlnost. A prostě buďme spravedliví." — Ladislav Vrabel, [Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
 **Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
 ## Kauza Ladislav Vrabel — dotační podvod

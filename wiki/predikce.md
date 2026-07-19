@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Plná automatizace/AGI do 2027–2028 přinese masovou nezaměstnanost (14. 7. 2026)
+
+**Předpověď:** S odkazem na závody mezi Anthropic, OpenAI a DeepMind předpovídá dosažení plné automatizace/AGI (umělé obecné inteligence) do roku 2027–2028, což povede k nezaměstnanosti přesahující 50 %. Zdůrazňuje, že tento dopad „nikdo politicky neřeší", a připomíná vlastní přednášku o ChatGPT na olomouckém náměstí v roce 2023 jako důkaz, že na téma upozorňoval včas. V souvislosti s tím zmiňuje aktuální uzavírání německých pivovarů (Eichbaum po ~350 letech, Hofbräuhaus Wolters po ~400 letech) a plánované propouštění až 120 000 zaměstnanců Volkswagenu jako první příznaky širší ekonomické transformace.
+
+> „Do roku 2027, 2028 bude plná automatizace, plné AGI, a nikdo to politicky neřeší." — Ladislav Vrabel (parafráze)
+
+**Horizont:** 2027–2028
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
 ### Jindřich Rajchl — Ukrajina se do dvou měsíců zhroutí, pokud nedojde k mírové dohodě (12. 7. 2026)
 
 **Předpověď:** Jakákoliv budoucí mírová dohoda bude odrážet aktuální kontrolu území v okamžiku jejího podpisu — čím déle válka trvá, tím horší vyjednávací pozici bude mít Ukrajina. Pokud se do dvou měsíců neuzavře mírová dohoda, nedojde podle Rajchla k eskalaci (jak předpokládá Petr Pavel), ale ke zhroucení Ukrajiny, protože jí docházejí zdroje. Dodává, že zastánci pokračování války budou později tvrdit, že vždy chtěli mír.

@@ -434,3 +434,19 @@ Podle deníku New York Times americký ministr zahraničí Marco Rubio rozhoduje
 Teherán varoval, že jakoukoli logistickou či vojenskou pomoc americkým silám bude považovat za přímé zapojení do války proti Íránu. Vrabel na to upozorňuje v souvislosti s tím, že ČR se údajně chystá vyslat do oblasti Hormuzu vlastní radary — z íránského pohledu by se tak ČR mohla stát legitimním cílem. Zmiňuje také, že ministr zahraničí Petr Macinka odcestoval na dvoudenní návštěvu Izraele s doprovodem 30 českých podnikatelů, a připomíná, že česká vláda předem oznámila, že bude vetovat jakoukoli případnou rezoluci EU proti Izraeli — řadí to k důkazům jednostranné proamerické a proizraelské orientace české zahraniční politiky.
 
 **Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Trump zrušil 20% tranzitní daň za Hormuz den po jejím oznámení — místo toho úplná blokáda íránských lodí (Vrabel, 14. 7. 2026)
+
+Den poté, co Trump oznámil 20% tranzitní daň za proplouvání Hormuzským průlivem, ji zrušil a nahradil úplnou blokádou lodí spojených s íránskými přístavy nebo nákladem. Vrabel komentuje rychlost a nepředvídatelnost, s jakou Trump obrací svá vlastní rozhodnutí, a spojuje to s možností tržního profitování z takto vyvolané volatility cen.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Bývalý analytik CIA Larry Johnson zesměšňuje plán útoku na Kharg Island (Vrabel, 14. 7. 2026)
+
+Bývalý analytik CIA Larry Johnson se posmívá myšlence amerického speciálního komanda na íránském ostrově Kharg — poukazuje na to, že by síly čelily nepřetržité dronové a raketové palbě a téměř nemožnému zásobování. Vrabel to považuje za „velmi vtipné" a žertuje, že by pro takovou misi bylo potřeba rovnou druhé záchranné mise.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)

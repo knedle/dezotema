@@ -341,3 +341,19 @@ Navazuje na [Rozdíl mezi Ukrajinci před válkou a po válce (Rajchl, 16. 6.)](
 Vrabel tvrdí, že migrační pakt přivádí převážně mladé muže z islámských zemí, kteří „vypadají, jako kdyby jeli dobýt Evropu", a tak se i chovají. Jako příklad „potlačování svobody slova" uvádí francouzský případ: ženu, do jejíhož bytu se vloupal a sexuálně ji napadl migrant (dle Vrabela z africké/islámské země), prý soud odsoudil k podmíněnému trestu (cca 1,5 roku) za to, že po incidentu veřejně prohlásila, že bezpečnost Francouzů nejvíc ohrožují migranti z Afriky a Blízkého východu — tedy za „šíření nenávisti vůči určitým rasám"; pachatel přitom zůstal na svobodě. Zasazuje to do teze, že ČR „kopíruje" dvě cesty současně — ukrajinskou (likvidace opozice, militarizace) a západní (migrace + trestání projevu podle rasy/náboženství). Navazuje na [Británie: Henry Novak a „obrácený rasismus" (2. 6.)](#británie-případ-henryho-novaka-a-obrácený-rasismus-vrabel-2-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+
+---
+
+### Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr (Vrabel, 14. 7. 2026)
+
+Švédská europoslankyně Abir Al-Sahlaniová nahlásila policii dánského kolegu Christophera Storma poté, co se na sociálních sítích ostře ohradil proti tomu, že v Evropském parlamentu kritizovala kolegy skandující protimigrační slogan „Pošlete je zpátky" — deník Guardian obvinil kritizované poslance, že „klesli na nové dno". Vrabel poukazuje na ironii, že Al-Sahlaniová se narodila v Iráku a sama takto vystupuje proti původním Dánům, kteří chtějí migranty posílat pryč z Dánska; předpokládá, že policie by mohla její oznámení vyhodnotit jako rasově motivovaný útok na minoritu a stíhat dánského politika. Zdůrazňuje, že podobný osud čeká i ČR — migrační pakt už platí a veřejná kritika Ukrajinců či přistěhovalců bude podle něj brzy stejně nemožná jako na Západě.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Britská policejní „barevná karta" jako důkaz rasového dvojího metru (Vrabel, 14. 7. 2026)
+
+Vrabel komentuje virální video britské policistky, která při zákroku u pouličního konfliktu použije kartu s odstíny barvy pleti, aby porovnala tón kůže útočníka (bílého Brita) a oběti — na základě toho okamžitě vytáhne obušek a začne útočníka bít, protože ho podle barvy pleti vyhodnotí jako viníka. Vrabel to popisuje jako „krásné, opravdu vkusné" video dokládající, že v britském systému je viník vždy ten světlejší a oběť vždy ta tmavší, bez ohledu na skutečný průběh konfliktu.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)

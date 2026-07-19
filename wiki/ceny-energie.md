@@ -317,3 +317,11 @@ Vrabel upozorňuje na plán Německa vybudovat až 1000 gigawattů solárních k
 EU vysílá do Arménie skupinu expertů, aby pomohli diverzifikovat její energetické zdroje (obdoba již etablované role Ázerbájdžánu jako náhradního dodavatele po přerušení ruského plynu) — Vrabel to čte jako stejný mechanismus, jaký zažila ČR: nahrazení levné ruské energie dražší z USA se pak eufemisticky nazývá „diverzifikace rizik". Zmiňuje i aktuální hrozbu Donalda Trumpa: pokud EU do 4. 7. nesplní jeho obchodní požadavky (zrušení cel na americké zboží, zatímco evropský vývoz do USA je zatížen 15% clem), USA přestanou EU dodávat energie.
 
 **Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+
+## Automatizace, AI/AGI a budoucnost práce
+
+### Zánik německých pivovarů a propouštění ve VW jako signál blížící se automatizace (Vrabel, 14. 7. 2026)
+
+Vrabel komentuje uzavření dvou historických německých pivovarů (Eichbaum po ~350 letech, Hofbräuhaus Wolters po ~400 letech) a oznámení Volkswagenu o možném propuštění až 120 000 zaměstnanců. Tyto události dává do souvislosti se závodem mezi Anthropic, OpenAI a DeepMind o plnou automatizaci/AGI (umělou obecnou inteligenci), kterou předpovídá do roku 2027–2028 s dopadem nezaměstnanosti přes 50 % — a kritizuje, že tento dopad „nikdo politicky neřeší". Připomíná vlastní přednášku o ChatGPT na olomouckém náměstí v roce 2023 jako důkaz včasného upozornění na téma (viz [predikce.md](predikce.md)).
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
