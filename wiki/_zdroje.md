@@ -2968,6 +2968,15 @@
 - **Poznámka:** Zpracováno 1 téma: mír bude odrážet aktuální kontrolu území, predikce zhroucení Ukrajiny do 2 měsíců — [valka-nato-rusko.md](valka-nato-rusko.md), [predikce.md](predikce.md). Bez stoch. teroru.
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Videoportál 14. 7. 2026 {#jindřich-rajchl--videoportál-14-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-14_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1677647853291852>
+- **Datum záznamu:** 2026-07-14
+- **Délka:** 00:01:44
+- **Poznámka:** Zpracováno 1 téma: Zetor přesouvá výrobu z ČR kvůli Green Dealu, Rajchl slibuje tvrdý boj proti EU/von der Leyenové — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Nedělní vysílání 12. 7. 2026 {#ladislav-vrabel--nedělní-vysílání-12-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-12_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook)

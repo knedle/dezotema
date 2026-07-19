@@ -494,3 +494,11 @@ Evropská komise zvažuje první komplexní reformu svého fungování za posled
 Maďarský parlament schválil sedmnáctý dodatek ústavy ukončující mandát prezidenta Tamáše Šujoka (139 pro, 6 proti, poslanci Fideszu hlasování bojkotovali) — premiér Peter Magyar obvinil opozici (Fidesz) z pokusu ovládnout prezidentský úřad, zatímco vládní TISZA po volbách disponuje ústavní většinou umožňující měnit základní zákon. Vrabel to označuje za nedemokratický precedens srovnatelný s modely nacistického Německa nebo Stalinovým stylem vlády — na svém žebříčku „nejhorších politických podvodníků světa" řadí Petera Magyara na čtvrté místo (za Zelenským, Trumpem a „Reichelem", jeho posměšnou přezdívkou pro Jindřicha Rajchla).
 
 **Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Zetor přesouvá výrobu z ČR kvůli Green Dealu — Rajchl slibuje tvrdý boj proti EU (Rajchl, 14. 7. 2026)
+
+Výrobce malých traktorů Zetor po 80 letech definitivně končí s výrobou v Brně a přesouvá produkci do Asie (viz i [Vrabelův komentář ke stejné zprávě, 13. 7.](valka-nato-rusko.md)) — jde podle Rajchla o posledního výrobce malých traktorů, který v Evropě zůstal. Příčinou je dle něj Green Deal — „pomatená fanatická ideologie", která nijak nezlepšuje životní prostředí (globální uhlíková stopa se nezmění, výroba jen přechází jinam), ale slouží k obohacení západoevropských investičních a penzijních fondů, které profitují z obchodu s emisními povolenkami. Za stranu PRO deklaruje tvrdý a nekompromisní boj proti Green Dealu i proti Ursule von der Leyenové a jejímu vedení EU, pokud bude v prosazování této politiky pokračovat.
+
+**Zdroje:** [Rajchl — Videoportál 14. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-14-7-2026)
