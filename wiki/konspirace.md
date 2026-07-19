@@ -125,7 +125,9 @@ Boldy tvrdí, že veřejné osobnosti — politici i celebrity — jsou nahrazov
 
 Zítko ve večerníku z 12. dubna 2026 přidává příklad Vladimíra Putina: srovnání záběrů Putina z roku 2010 s aktuálními prý odhaluje zřetelné vizuální rozdíly svědčící o záměně za dvojníka.
 
-**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026)
+**11. 7.** — Zítko podrobněji rozvádí tezi o zcinknutých prezidentských volbách USA 2020: tvrdí, že sledoval Bidenův předvolební projev („podivný", zmínka o narození babičky v Pensylvánii), který interpretuje jako signál zákulisního „hoření" volebních výsledků v Pensylvánii — následně měly být napěchovány korespondenční hlasy, zfalšovány elektronické hlasy, vypnut internet a volební systém Dominion měl být řízen ze zahraničí. Prohlašuje se za vítěze starých sázek s „faktčekry" (jmenuje konkrétní osoby), kteří tvrdili, že Biden vyhrál férově, a vyzývá je, aby uznali prohru a zaplatili dohodnuté částky.
+
+**Zdroje:** [Boldy — Facebook Live, 2026-03-12](_zdroje.md#konspirátor-boldy--facebook-live-z-prahy), [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026)
 
 ---
 

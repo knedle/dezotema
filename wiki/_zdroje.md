@@ -2922,3 +2922,12 @@
 - **Délka:** 00:03:08
 - **Poznámka:** Zpracováno 3 témata: (1) Nedůstojné chování Pavla při hymně jako důkaz „loutkovosti" politiků — [politicky-system.md](politicky-system.md). (2) Macinka napojen na Chabad-Lubavič (antisemitská konspirace) — [konspirace.md](konspirace.md). (3) Barevná mračna u Karlových Varů jako geoinženýrství, doplnění existující teze o chemtrails — [konspirace.md](konspirace.md). Bez predikcí. Stoch. teror: dehumanizace Macinky — [stochasticky-teror.md](stochasticky-teror.md).
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál 11. 7. 2026 {#československo-tv2--videoportál-11-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-11_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=985181554567118&_rdr>
+- **Datum záznamu:** 2026-07-11
+- **Délka:** 00:45:38
+- **Poznámka:** Zpracována 2 témata: (1) Nové nominace v anketě „Cena za svobodu projevu" (Matocha nominoval Klause aj.), rozšíření existujícího tématu z 8. 7. — [politicky-system.md](politicky-system.md). (2) Rozšíření teze o zcinknutých volbách USA 2020 (Dominion, Pensylvánie) — [konspirace.md](konspirace.md). Neprocesováno: vlastní zrušení probačního dohledu (na žádost uživatele). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
