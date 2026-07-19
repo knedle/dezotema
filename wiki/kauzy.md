@@ -564,3 +564,11 @@ Zítko informuje, že stížnost skupiny kolem Pavla Blažka, Karima Tice a Daň
 Tarabová na místě v Mimoni ukazuje, že hejtman Liberecka Martin Půta ve svém videu prezentoval jako opravenou krajskou investici (4,5 mil. Kč) Hvězdovskou ulici — ve skutečnosti šlo o silnici ve vlastnictví sousedního města Ralska, zatímco skutečná Hvězdovská ulice v Mimoni, o níž se v komunikaci mluvilo, zůstává rozbitá a neopravená. Označuje to jako druhou v pořadí odhalenou nepravdu („lež č. 2") a naznačuje, že vzhledem k opakování už nejde o omyl, ale o „vydírání".
 
 **Zdroje:** [Tarabová — Videoportál: hejtman Půta a Hvězdovská ulice (6. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
+
+---
+
+## Babišův střet zájmů v onkologické péči (Tarabová, 8. 7. 2026)
+
+V reakci na článek o nárůstu onkologických pacientů Tarabová dohledává majetkové propojení Andreje Babiše se zdravotnictvím: přímo žádnou specializovanou onkologickou kliniku nevlastní, ale přes investiční fond Hartenberg Holding a zdravotnickou skupinu Future Life ovládá zařízení nabízející preventivní onkologické programy a mamografii — konkrétně pražskou kliniku ISCARE (primárně reprodukční medicína, gastroenterologie, plastická chirurgie, ale i nadstandardní onkologické prohlídky) a Polikliniku Modřany (mamologická a onkologická ambulance). Souběžně Babiš politicky a investičně dlouhodobě prosazuje výstavbu nových onkocenter a modernizaci vybavení nemocnic — zmiňuje Národní onkologické centrum v Motole (4,5 mld. Kč, otevření plánováno na srpen 2026, původně mělo být na Královských Vinohradech), Centrum onkologické prevence v Brně (otevřel v květnu 2026) a rekonstruovaný onkologický pavilon v Krči (101 mil. Kč, spolufinancováno EU). Tarabová tím poukazuje na propojení soukromého podnikatelského zájmu s veřejně prosazovanou zdravotní politikou, aniž by tvrdila přímé vlastnictví onkologické kliniky.
+
+**Zdroje:** [Tarabová — Videoportál: reakce na článek o rakovině (8. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)

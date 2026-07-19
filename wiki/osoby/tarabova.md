@@ -29,6 +29,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - Vakcíny způsobují autismus, ADHD, ekzémy, onko u dětí; „nátlaky jsou pro otroky" — [„Nejbezpečnější vakcína je žádná vakcína" (1. 5.)](../_zdroje.md#lenka-tarabová--nejbezpečnější-vakcína-je-žádná-vakcína-1-5-2026)
 - Léky na obezitu pro děti (Novo Nordisk/Wegovy, BlackRock) místo prevence — [Videoportál: Novo Nordisk (12. 6.)](../_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
 - **30. 6.** — testy (Diana Bion Technologies) nevalidovány dle SÚKL, ~600 mimořádných opatření je „právně nulitních"; požaduje zákon a odškodnění; i senátní vyšetřování USA jde „špatným směrem" (nezpochybňuje infekční teorii) — [Videoportál: rozhovor s Pečénkou (30. 6.)](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
+- **8. 7.** — nárůst rakoviny dáván do souvislosti s covid vakcinací od 2021; zpochybnění mamografie jako bolestivé/nespolehlivé diagnostiky; rakovina jako „pouzdro na toxiny" (Dr. Cohen), kritika chemoterapie jako komerčního systému — [Videoportál: reakce na článek o rakovině (8. 7.)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické — [Bagatelizace násilí na dětech (4. 4.)](../_zdroje.md#lenka-tarabová--bagatelizace-násilí-na-dětech-4-4-2026)
@@ -40,6 +41,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 
 ### [Kauzy a korupce](../kauzy.md)
 - Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice — prezentovaná Hvězdovská ulice patřila ve skutečnosti Ralsku, skutečná Hvězdovská v Mimoni zůstala neopravená — [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7.)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
+- Babišův střet zájmů v onkologii — přes Hartenberg Holding/Future Life (ISCARE, Poliklinika Modřany) ovládá onkologickou prevenci, zatímco politicky prosazuje onkocentra (Motol, Brno, Krč) — [Videoportál: reakce na článek o rakovině (8. 7.)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti — [ČT a ČRo: zrušit (18. 4.)](../_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
@@ -82,6 +84,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Andrej Babiš | ⚖️ rozporuplný | Přiznal covidové chyby (leden 2026), ale bez nápravných kroků jeho slova „nic neznamenají" — chybí zákaz mRNA vakcín a vyšetřování poradních orgánů | 2026-06-30 | [Videoportál: rozhovor s Pečénkou](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026) |
 | Roman Prymula | ❌ negativní | „Ohromný střet zájmu" — měl by stát před soudem, ne vystupovat v médiích | 2026-06-30 | [Videoportál: rozhovor s Pečénkou](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026) |
 | Martin Půta | ❌ negativní | Hejtman Liberecka, kandidát na Senát — obviněn ze lži o opravě silnice (prezentoval cizí silnici v Ralsku jako opravenou Hvězdovskou v Mimoni), Tarabová to nazývá „lží č. 2" a „vydíráním" | 2026-07-06 | [Videoportál: hejtman Půta a Hvězdovská ulice](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | Nevlastní přímo onkologickou kliniku, ale přes Hartenberg Holding/Future Life ovládá zařízení s onkologickou prevencí, zatímco politicky prosazuje výstavbu onkocenter — poukázáno na propojení soukromého a veřejného zájmu | 2026-07-08 | [Videoportál: reakce na článek o rakovině](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026) |
 
 ---
 
@@ -109,3 +112,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Rozhovor pro TV Česko: prezidentský úřad (15. 6. 2026)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
 - [Videoportál: rozhovor s Patrikem Pečénkou (30. 6. 2026)](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
 - [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
+- [Videoportál: reakce na článek o rakovině (8. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)

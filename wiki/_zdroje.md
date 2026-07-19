@@ -2850,3 +2850,12 @@
 - **Délka:** 00:03:10
 - **Poznámka:** Zpracováno 1 téma: Kategorické odmítnutí financování Ukrajiny přes program PURL, spor s Macinkou — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: reakce na článek o rakovině (8. 7. 2026) {#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-08_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1317912643885930&_rdr>
+- **Datum záznamu:** 2026-07-08
+- **Délka:** 00:09:12
+- **Poznámka:** Zpracováno 4 témata: (1) Babišův střet zájmů v onkologii (Hartenberg/Future Life vs. veřejná politika) — [kauzy.md](kauzy.md). (2) Nárůst rakoviny spojován s covid vakcinací od 2021 — [covid-vakciny.md](covid-vakciny.md). (3) Zpochybnění mamografie jako diagnostiky — [covid-vakciny.md](covid-vakciny.md). (4) Rakovina jako „pouzdro na toxiny" (Dr. Cohen), kritika chemoterapie — [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

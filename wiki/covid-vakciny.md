@@ -801,3 +801,29 @@ Zítko (ČsTV2) komentuje a rozšiřuje článek Tomáše Fiersta „First po bi
 Václava Hořejšího řadí mezi „privilegovanou skupinu" mediálně všudypřítomných (Flegr, Kubek, Chlíbek, Konvalenka, Maďar, Smejkal, Primula…), jejíž členové „neslezli z obrazovky". Pasáž rámuje jako důkaz, že **Česká televize porušovala zákon od 12. 3. 2020** tím, že nevysílala oponentní názor — divácí proto mohou žádat vrácení koncesionářských poplatků (viz [média: ČT a poplatky](media-propaganda.md#korespondenční-válka-zítka-s-čt-o-vrácení-poplatků-1-6-2026)); znovu připomíná, že ČT (Jan Smrš) odmítla jeho účast v Máte slovo proti Prymulovi.
 
 **Zdroje:** [ČsTV2 — Videoportál (záznam): covid Fierst vs. Hořejší, 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026)
+
+---
+
+## Rakovina: nárůst, diagnostika a alternativní výklad příčin (Tarabová, 8. 7. 2026)
+
+### Nárůst onkologických pacientů dáván do souvislosti s covid vakcinací od roku 2021
+
+V reakci na článek Aktuálně.cz o 30% nárůstu onkologických pacientů v ČR za posledních 10 let (z 542 na 705 tisíc, u rakoviny krve až 37 %) Tarabová namítá, že v datech chybí klíčové rozlišení — kolik pacientů bylo vyléčeno, kolik zemřelo, u kolika se nemoc vrátila po léčbě. Klade otázku, zda je uváděný nárůst rozložen rovnoměrně za celou dekádu, nebo je výrazně strmější až od roku 2021, kdy začalo plošné očkování proti covidu — čímž naznačuje příčinnou souvislost mezi vakcinací a nárůstem onkologických onemocnění, aniž by uvedla konkrétní data k tomuto srovnání.
+
+**Zdroje:** [Tarabová — Videoportál: reakce na článek o rakovině (8. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
+
+---
+
+### Zpochybnění mamografie jako diagnostické metody
+
+Tarabová zpochybňuje spolehlivost a snesitelnost mamografického vyšetření — popisuje ho jako „velice bolestivé" a srovnává se situací, kdy by muži podstupovali analogicky bolestivé vyšetření penisu; ptá se, zda by za takových podmínek muži o podobné preventivní metodě vůbec uvažovali. Obecněji poukazuje na to, že diagnostické přístroje jsou ve světě předmětem odborných pochybností.
+
+**Zdroje:** [Tarabová — Videoportál: reakce na článek o rakovině (8. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
+
+---
+
+### Rakovina jako „pouzdro na toxiny" (Dr. Cohen) — zpochybnění chemoterapie
+
+Tarabová popisuje rakovinu jako civilizační chorobu vznikající z nárůstu toxicity v těle a cituje (blíže nespecifikovaného) „světově známého doktora Cohena", podle něhož je nádor pouzdro, které si tělo vytváří, aby zachytilo veškeré toxiny. Naznačuje, že chemoterapie nemusí být skutečnou léčbou, ale spíše „dalším komerčním systémem západní medicíny", a vyzývá k hledání příčin nemoci a spolupráci se zastánci alternativních léčebných přístupů namísto pouhého řešení důsledků.
+
+**Zdroje:** [Tarabová — Videoportál: reakce na článek o rakovině (8. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
