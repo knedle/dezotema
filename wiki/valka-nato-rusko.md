@@ -1723,4 +1723,20 @@ Donald Trump prohlásil, že další přítomnost amerických vojsk v Evropě bu
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+---
+
+### Panelová debata k Ankaře: americké zbrojovky v Evropě, riziko konfliktu s Ruskem, role Zelenského a Turecka (Vrabel + hosté, 9. 7. 2026)
+
+Ve speciálním dvouhodinovém streamu k výročí summitu NATO v Ankaře Vrabel moderoval debatu s hosty Markem Adamem (Klub Českého pohraničí, Československé mírové fórum), Miroslavem Kellnerem (Národní demokracie) a Vladimírou Vítovou; čtvrtý host vystupoval pod přezdívkou „Esentier" kvůli opakovaným technickým výpadkům spojení.
+
+**Americké zbrojovky přesouvají výrobu do Evropy.** Marek Adam upozorňuje, že americké korporace začínají stavět výrobní linky přímo v Evropě (např. montáž amerických střel v německých či tureckých závodech) — zisk z licencí a klíčových komponentů ale zůstává ve Spojených státech, zatímco finanční břemeno celého zbrojního programu nese Evropa. Pro USA jde podle něj o ideální scénář: nulové riziko vlastních vojáků, zajištěné zakázky pro americké zbrojovky na roky dopředu, náklady platí Evropa.
+
+**Spor o pravděpodobnost přímého konfliktu s Ruskem.** Panelisté se rozcházejí: Esentier varuje, že jde o „nejnebezpečnější dobu" jeho života (horší než Karibská či Berlínská krize) — evropský tlak na ruské zázemí sázkou na to, že to vyvolá změnu režimu, což u Ruska historicky nikdy nefungovalo; pokud se Evropa do roku 2030 skutečně připraví na plnohodnotnou válku, jediným řešením z ruské strany by bylo zastavit to „asymetricky a tvrdě" předem. Naopak Miroslav Kellner argumentuje, že k válce nedojde — na zbrojení jsou potřeba peníze, které Evropa nemá, evropští lídři dnes „skáčou jako loutky" podle Trumpova píšťalky, a ČR má jen asi 5 000 bojeschopných vojáků (žádná reálná schopnost vést útočnou válku).
+
+**Zelenskyj jako Rusku vyhovující vůdce.** Marek Adam upozorňuje na signály nasvědčující zákulisní koordinaci mezi znepřátelenými stranami: USA měly o ruském útoku z 2. července vědět tři dny předem (na základě dohody o hlášení balistických raketových úderů), Zelenskyj byl v zahraničí v momentě, kdy Rusko podniklo velké útoky na Kyjev, a bývalý izraelský premiér Naftali Bennett tvrdí, že mu Putin v roce 2022 slíbil, že Zelenského nezabije. Adam se ptá, proč Zelenskyj coby vůdce Ukrajiny Rusku „vyhovuje", a zmiňuje rostoucí popularitu Valerije Zalužného (bývalý náčelník generálního štábu, dnes velvyslanec ve Velké Británii, dle průzkumů poráží Zelenského) jako možného nástupce s britskou podporou. Host Esentier doplňuje, že Zelenskyj má údajně britskou ochranku a napojení na MI6, které ho přesvědčilo nepodepsat mír v tureckých jednáních, zatímco Zalužný je pod stejným vlivem — na rozdíl od Američanů, kteří na Zelenského vliv nemají.
+
+**Role Turecka v NATO.** Miroslav Kellner (žil v Turecku 20 let) popisuje pokus o vojenský puč proti Erdoganovi v roce 2016, který byl podle něj organizován z americké letecké základny NATO v Incirliku za účasti Německa — puč byl zmařen poté, co ruská rozvědka odhalila přípravu, informovala Írán a ten varoval Erdogana půl hodiny předtím, než komando dorazilo do hotelu, kde měl být zabit. Turecko je podle Kellnera v NATO drženo především kvůli rivalitě s Řeckem (obě země se navzájem potřebují mít v alianci kvůli vzájemnému konfliktu), přestože by ekonomicky raději vstoupilo do BRICS a turecká veřejnost o členství v NATO nejeví velké nadšení.
+
+**Rusko lituje poválečné shovívavosti.** Miroslav Kellner cituje ruskou televizní debatu, podle níž si Rusové dnes uvědomují, že bylo chybou chovat se po 2. světové válce k některým státům (Finsko, Rumunsko) smířlivě a neuplatnit vůči nim tvrdší poválečné podmínky — jako příklad uvádí, že Finsko dnes zvažuje umístění amerických jaderných zbraní na svém území navzdory poválečné velkorysosti SSSR.
+
+**Zdroje:** [Vrabel — speciální stream: Ankara, panelová debata 9. 7. 2026](_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)

@@ -737,3 +737,11 @@ Boldy interpretuje výklad, podle kterého je lidstvo uzavřeno v jakési „kop
 
 ---
 
+### „Mezimoří" — návrat šlechty/Habsburků vs. skupování majetku „klanově korporativní skupinou" (Vítová, host u Vrabela, 9. 7. 2026)
+
+Vladimíra Vítová (hostka v panelové debatě Ladislava Vrabela k summitu NATO v Ankaře, viz [valka-nato-rusko.md](valka-nato-rusko.md#panelová-debata-k-ankaře-americké-zbrojovky-v-evropě-riziko-konfliktu-s-ruskem-role-zelenského-a-turecka-vrabel-hosté-9-7-2026)) rozvíjí teorii, že plánovaným cílem je přeměnit západní Evropu na islámský chalífát, zatímco střední Evropa (tzv. „mezimoří") má být součástí nového geopolitického celku — se dvěma možnými scénáři jeho uspořádání. První je s odkazem na analytika Valerije Pjakina návrat šlechtických rodů a konstituční monarchie po vzoru rozpadu říší po 1. světové válce — jako důkaz uvádí veřejné slyšení v parlamentu chválící konstituční monarchii, televizní pořady o „kultivovaných" šlechticích (Colloredo-Mansfeld, Kinský) a opravy státních zámků „v duchu posledních majitelů". Druhý scénář je ovládnutí regionu „klanově korporativní skupinou" po vzoru Izraele — poukazuje na skupování nemovitostí v Praze developerskými firmami. Tuto vizi řadí k táboru kolem Petra Macinky a Andreje Babiše, druhou (šlechtickou) k táboru kolem Petra Pavla (jednání s Lichtenštejny). Třetí variantu doplňuje odkazem na Valerije Pjakina: pokud ve válce zvítězí Rusko, žádné „mezimoří" nevznikne a zachovají se současné národní státy.
+
+**Zdroje:** [Vrabel — speciální stream: Ankara, panelová debata 9. 7. 2026](_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
+
+---
+

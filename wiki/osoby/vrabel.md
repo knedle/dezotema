@@ -304,6 +304,7 @@
 - **23. 6.** — Sense8 (Wachowski): společnost rozdělena vertikálně (elity vs. lid), ne horizontálně — elity vytvářejí konflikty, aby si udržely bohatství; Albánie/Srbsko protesty proti Kushnerovým rezortům jako vzor odporu lidu — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 - ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - ⚡ Medvedev kritizuje útok USA na Írán jako „zhroucení mezinárodního práva" — Vrabel žádá mezinárodní izolaci USA — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
+- Konspirace „Mezimoří" — návrat šlechty/Habsburků vs. skupování majetku korporativní skupinou (host Vítová, panelová debata 9. 7.) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -378,6 +379,7 @@
 - Solovjov: boj proti „satanistickému Západu" — souhlasí s ruským výkladem konfliktu — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - Trump a Grónsko — dvojí metr mezinárodního práva, USA jako koloniální mocnost vůči Evropě — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - Německo kupuje rakety Tomahawk — útočná, ne obranná zbraň; osobní vzpomínka manželky na bombardování Jugoslávie 1999 — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- **9. 7. (panelová debata k Ankaře)** — americké zbrojovky přesouvají výrobu do Evropy (Marek Adam); spor o pravděpodobnost přímého konfliktu s Ruskem (Esentier vs. Kellner); Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier); role Turecka v NATO a puč 2016 (Kellner); Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
@@ -679,6 +681,8 @@
 | Vladimir Solovjov | ✅ pozitivní | Ruský moderátor — jeho výklad boje proti „zkorumpovanému satanistickému Západu" Vrabel podepisuje | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
 | Donald Trump | ❌ negativní | Nárokuje si Grónsko bez ohledu na mezinárodní právo („jediná hranice je moje svědomí") — Vrabel: „vůbec bych se nedivil, kdyby ho někdo zavraždil" (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
 | Friedrich Merz | ❌ negativní | Prezentuje nákup raket Tomahawk jako „obranu" — Vrabel: jde o čistě útočnou zbraň, zavádějící rétorika | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Volodymyr Zelenský | ⚖️ rozporuplný | Panelová debata: signály zákulisní koordinace s Ruskem (USA věděly o útoku předem, Bennett tvrdí Putinův slib ho nezabít) — Rusku „vyhovuje" jako vůdce | 2026-07-09 | [Speciální stream: Ankara](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026) |
+| Recep Tayyip Erdoğan | ⚖️ rozporuplný | Podle Kellnera přežil puč 2016 organizovaný z NATO základny v Incirliku díky varování Ruska přes Írán — dnes rozkročen mezi NATO a BRICS | 2026-07-09 | [Speciální stream: Ankara](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026) |
 
 ---
 
@@ -758,3 +762,4 @@
 - [Zprávy v devět (4. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - [Nedělní vysílání (5. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 - [Zprávy v devět (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- [Speciální stream: Ankara, panelová debata (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
