@@ -1646,3 +1646,13 @@ K účasti Vladimíra Putina na plenárním zasedání summitu Rusko–ASEAN v K
 Moldavský premiér Aleksandru Munteanu oznámil rezignaci se slovy, že už nemůže vykonávat funkci v souladu se svými zásadami a hodnotami. Vrabel otevřeně přiznává, že nezná pozadí (nátlak, kompromitující materiál, nebo upřímné rozhodnutí) — motivaci vidí v současném dění v Moldavsku, kde se EU snaží zemi „získat pro sebe", aby ji mohla v budoucí válce připojit k Rumunsku. Z toho odvozuje obecnější úvahu o politicích, kteří jdou s „globalisty" podporujícími zbrojení a válku proti Rusku, zatímco veřejně předstírají opak — dává si to do souvislosti s českými politiky, kteří na sociálních sítích prezentují odpor k posílání peněz Ukrajině, ale ve skutečnosti vyjednávají o zbrojení a hlasují pro schválení peněz (viz [Babiš a Okamura tvrdí, že ČR neplatí Ukrajině — 3. 7.](#babiš-a-okamura-tvrdí-že-čr-neplatí-ukrajině--přitom-už-schválili-30-z-70-mld-eur-vrabel-3-7-2026)). Připomíná vlastní zkušenost z počátku ruské invaze (24. 1. 2022, spolupráce s Jakubem Wolbertem/hnutím Cípl PES) — jak rychle politici i spolupracovníci „vycouvali", jakmile šlo o riziko vězení za protiválečné demonstrace.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
+
+---
+
+### Sabotáž Nord Streamu jako legitimní vojenský cíl — kritika Petra Pavla a médií (Rajchl, 6. 7. 2026)
+
+K obžalobě Ukrajince německou prokuraturou za útok na Nord Stream (2022) Rajchl argumentuje, že pokud byl útok zaměřen na přerušení dodávek plynu a ropy do Evropy (a plateb Rusku za ně), šlo o „legitimní cíl" — plynovody jsou strategickým cílem, na který se za ozbrojeného konfliktu útočí stejně jako na vojenské cíle. Kritizuje Petra Pavla, že „evidentně schvaloval teroristický útok a vojenský zločin", a médiím/„pravdoláskařům" vyčítá dvojí metr — nevadí jim to, protože je pro ně důležitější Pavlův image (motorka, záchrana paraglidistů, portrét na známkách) než hodnocení jeho postojů k válečným zločinům.
+
+> „Pokud tento útok byl zaměřen na to, jak přerušit dodávky plynu a ropy do Evropy a zpětně peněz Rusku za tyto produkty, pak by to — říkám záměrně kondicionál — byl legitimní cíl." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Videoportál 6. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-6-7-2026)

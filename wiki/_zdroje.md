@@ -2796,3 +2796,12 @@
 - **Délka:** 01:58:52 | První pravidelné nedělní vysílání od 21 h, volná diskuse/Q&A s diváky
 - **Poznámka:** Zpracováno 8 témat: (1) Film Citizen Vigilant + sen o zabití Zelenského — „systém, ne člověk" — [politicky-system.md](politicky-system.md). (2) ⚡ Konflikt: odmítá Rajchlův návrh na odebrání Řádu bílého lva jako prázdné gesto — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Vondráčkovo „odebrání pravomocí prezidenta" jako mediální manipulace — [politicky-system.md](politicky-system.md). (4) Hodnocení AfD jako „jediné alternativy"; SPD/Okamura „falešná karta" — [suverenita-eu.md](suverenita-eu.md). (5) Konkrétní návrh zahraniční politiky ČR podle vzoru Srbska — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Doplnění BRICS bezpečnostního paktu o vlastní postoj (zdrženlivost) — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Konkretizace distribuce jaderných zbraní v Evropě (UK→Německo, Francie→Polsko) — [jaderne-zbrane.md](jaderne-zbrane.md). (8) Von der Leyenové 40% rozpočet — doplněn jako zdroj — [suverenita-eu.md](suverenita-eu.md). Rozsáhlá pasáž o investicích (kryptoměny, zlato, stříbro, nemovitosti) nezpracována jako mimo tematický rozsah wiki. Bez predikcí (mimo dřívější) a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál 6. 7. 2026 {#jindřich-rajchl--videoportál-6-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-06_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/944491771935320>
+- **Datum záznamu:** 2026-07-06
+- **Délka:** 00:01:14
+- **Poznámka:** Zpracováno 1 téma: Sabotáž Nord Streamu jako legitimní vojenský cíl, kritika Petra Pavla a médií — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
