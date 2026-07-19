@@ -771,7 +771,9 @@ Dále informuje o nové vakcíně **vyrobené umělou inteligencí**, testované
 
 Zítko (s odkazem na data Tomáše Fürsta / SmÍŠ Lab) tvrdí, že za první čtvrtletí 2026 se narodilo jen ~**17,5 tisíce dětí** — proti ~111 tisícům za celý rok 2021 to znamená propad o ~30 % za čtyři roky a předpoklad <70 tisíc za celý rok. Čísla navíc „uměle zvedají" rodící Ukrajinky, takže u původní populace by byla horší. Propad přičítá očkování (odkaz na analýzu ÚZIS na 1,3 mil. žen dle očkovacího statusu — neočkované prý rodí stále stejně) a označuje to za „genocidu a sterilizaci" pod vládami Babiše a Fialy. ČT jako „spolupachatele" (neinformovala objektivně) vyzývá vrátit „výpalné" (poplatky) zpětně od 12. 3. 2020. (Rozšiřuje dříve dokumentovaná tvrzení o propadu porodnosti — viz [osoby/zitko.md](osoby/zitko.md).)
 
-**Zdroje:** [Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026)](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
+**8. 7.** — Zítko opakuje tutéž tezi s odkazem na Kovaříka: porodnost mezi lety 2021 a 2025 klesla o 30 %, nominálně o ~35 000 méně narozených dětí ročně, „vinou nižší porodnosti očkovaných žen" — označuje to za „to nejstrašnější" na celé věci.
+
+**Zdroje:** [Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026)](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026), [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026)
 
 ---
 

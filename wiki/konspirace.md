@@ -593,6 +593,14 @@ Ve vysílání k „portálu 6.6./11:11" Zítko zopakoval své dlouhodobé teze 
 
 ---
 
+### Numerologický „portál Sýria" 7. 7. 2026 (Zítko, 8. 7. 2026)
+
+Zítko líčí 7. 7. 2026 jako vrchol „portálu Sýria" — symbolickou bránu světla, intuice a probouzejícího se vědomí, navazující na letní slunovrat a předznamenávající „lví bránu" 8. 8. Datum rozkládá numerologicky na 7.7.6 (dvojité číslo 7 jako intuice a duchovní poznání, výsledná 6 jako energie lásky a harmonie) a interpretuje ho jako výzvu k vnitřní proměně, ne ke změně vnějšího světa.
+
+**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026)
+
+---
+
 ### Rozdělení ČSFR jako nulitní akt + „velká aliance" čistí Deep State (Zítko, 12. 6. 2026)
 
 V komentáři k Füllmichovu přenosu Zítko zopakoval dva pilíře svého výkladu s několika právními „detaily":

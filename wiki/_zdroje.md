@@ -2859,3 +2859,12 @@
 - **Délka:** 00:09:12
 - **Poznámka:** Zpracováno 4 témata: (1) Babišův střet zájmů v onkologii (Hartenberg/Future Life vs. veřejná politika) — [kauzy.md](kauzy.md). (2) Nárůst rakoviny spojován s covid vakcinací od 2021 — [covid-vakciny.md](covid-vakciny.md). (3) Zpochybnění mamografie jako diagnostiky — [covid-vakciny.md](covid-vakciny.md). (4) Rakovina jako „pouzdro na toxiny" (Dr. Cohen), kritika chemoterapie — [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál 8. 7. 2026 {#československo-tv2--videoportál-8-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-08_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1516629389512470&_rdr>
+- **Datum záznamu:** 2026-07-08 (živě, ohlédnutí za 7. 7.)
+- **Délka:** 00:58:02
+- **Poznámka:** Zpracováno 3 témata: (1) Pokles porodnosti 2021–2025 o 30 % přisuzován covid vakcínám (rozšíření existující teze) — [covid-vakciny.md](covid-vakciny.md). (2) Vlastní „Cena za svobodu projevu" a kritika oficiálních nominací Společnosti pro obranu svobody projevu — [politicky-system.md](politicky-system.md). (3) Numerologický „portál Sýria" 7.7.2026 — [konspirace.md](konspirace.md). Neprocesovány: osobní vyprávění o blokaci FB účtu a sraz „Ráj" (logistika/osobní). Stoch. teror: jmenovité napadení novinářů (Pizda, Ciroková, Lukáš Valášek) jako „sráčů" — [stochasticky-teror.md](stochasticky-teror.md).
+- **Zpracováno:** ano

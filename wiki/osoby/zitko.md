@@ -24,6 +24,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Porodnost Q1 2026 jen 17,5 tis. narozených (vs. 111 tis./2021), <70 tis./rok = „genocida/sterilizace očkováním" (Fürst/SmÍŠ Lab) — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - **21. 6.** — šarže „E" a 22R–22Z (5 % šarží = >75 % zemřelých), 60 tis. mrtvých Německo (Sterz)/desítky milionů globálně, Comirnaty 15 str. vedl. účinků (Indie), pokles porodnosti −30 % (Q1 jen 17,5 tis.), vina vlád Babiše i Fialy = „genocida/sterilizace" — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 - **24. 6.** — křest knihy J. Peterkové „Já, dezinformátorka" (beletrie o době 2020–24); COVID recap = pokusy na lidech/Norimberský kodex/genocida/sterilizace, −30 % porodnost, výzva k tribunálu (kniha G. Franka); šarži „E" (96 % úmrtnost) „doporučil pro vládu, parlament a jejich rodiny" (→ [stoch. teror](../stochasticky-teror.md)) — [Křest knihy 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
+- **8. 7.** — opakuje tezi o poklesu porodnosti 2021–2025 o 30 % (35 000 méně dětí ročně), přisouzeno covid vakcinaci — [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -40,6 +41,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Bitcoiny 100+ mld (dvě tržiště Sheep 39 918 + Nucleus 5366 BTC, Blažek/Tyc/Daňhel, nečinnost NCOZ/Olomouc) — zopakováno — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 - Hrad odpověděl na Pekovou petici o milost (přes úředníka, ne osobně Pavlem) — zamítnutí, žádost o audienci odmítnuta; kontrast rychlosti ÚS v Pavlově kauze vs. běžné případy — [Videoportál: Hrad odpověděl na Pekovou 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
 - Stížnost Blažka, Tice a Daňhela v bitcoin kauze zamítnuta — [Videoportál: MedBeds, jahodový úplněk, bitcoin 30. 6.](../_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
+
+### [Politický systém](../politicky-system.md)
+- Vlastní žertovné ocenění „Cena Sira Nicholase Wintona" (za „záchranu životů" v covid genocidě) staví do kontrastu s oficiální anketou Společnosti pro obranu svobody projevu — nesouhlasí s nominací Cyrila Svobody, Ilony Švihlíkové; jako opomíjené hrdiny jmenuje sebe a Tomáše Čermáka — [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - COVID rozsudky: Peková (4 případy za šíření poplašné zprávy), Čermák (terorismus), Popelka, Křivka (Z tričko) — označuje je za politicky motivované; interpelace Majerové-Tejce; Tejc slíbil změnu trestního zákoníku do konce dubna 2026 — Zítko hodnotí jako prázdné sliby — [Interpelace Majerová-Tejc 23. 4.](../_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
@@ -63,6 +67,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - UFC Freedom 250 „naplněno" — Topuria/hadi prohrál s Gaethjem = demontáž admiralty; Trump „6 větami" ukončil válku s Íránem (Hormuz, 3 lodě staženy, Muscat 8. 6., 147 mld $, Epstein files); „Michelle Obama je muž"/Macron Ladyboy; Dana White Epstein art — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - Haagský arbitrážní rozsudek o Krymu jako „právní knockout" Ruska (Azovské moře = vnitřní vody RF) → ⚡ konflikt s Vrabelem ([valka-nato-rusko.md](../valka-nato-rusko.md)); Írán memorandum QAnon spin (Versailles, tajná dohoda Omán 4. 6., velká aliance) — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - **21. 6.** — obnova ČSR (zákon 542/1992 nulitní, ČSR „běží dál", reparace 9500 t zlata / 28–29 bil. jen pro ČSR; akademik Pjakin „99,9 % obnova") + QFS (kolaterální účty, rodný list jako burzovní papír, ISO 20022, JFK „starter"/Trump „finisher", finále k 4. 7.) — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+- Numerologický „portál Sýria" 7. 7. (rozklad 7.7.6, energie čísel 7 a 6, návaznost na letní slunovrat a „lví bránu" 8. 8.) — [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -166,6 +171,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Kristýna Ciroková | ❌ negativní | Redaktorka Seznam Zprávy — dle Zítka debaty končí nálepkami „Putinova děvka / proruský kanál"; uvedena jako příklad „prestitutky" | 2026-06-24 | [Křest knihy „Já, dezinformátorka", 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026) |
 | Petr Pavel | ❌ negativní | Neodpověděl osobně na Pekové petici o milost — nechal odpovědět úředníka; obviněn z konfliktu zájmů (jmenoval soudce ÚS, kteří v jeho vlastní kauze rozhodli bleskově) | 2026-06-26 | [Videoportál: Hrad odpověděl na Pekovou, 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026) |
 | Soňa Peková | ✅ pozitivní | Sdílí její otevřený dopis a zklamání z odpovědi Hradu; zdůrazňuje, že petici podepsalo přes 1000 lidí | 2026-06-26 | [Videoportál: Hrad odpověděl na Pekovou, 26. 6.](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026) |
+| Cyril Svoboda | ❌ negativní | Nominován porotou Společnosti pro obranu svobody projevu — Zítko odmítá, označuje ho za právníka stojícího za „novou ústavou korporace ČR" a rozdělením Československa, se svobodou slova „za mě jenom ve jméně" | 2026-07-08 | [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026) |
+| Kristýna Ciroková | ❌ negativní | Opětovně jmenována mezi placenými „prestituty/sráči" médií (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-08 | [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026) |
+| Lukáš Valášek | ❌ negativní | Jmenován mezi placenými „prestituty/sráči" médií (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-08 | [Videoportál 8. 7.](../_zdroje.md#československo-tv2--videoportál-8-7-2026) |
 
 ---
 
@@ -228,3 +236,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](../_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
 - [Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026)
 - [Videoportál: Cesta do ráje, karta dne (3. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-3-7-2026)
+- [Videoportál 8. 7. 2026](../_zdroje.md#československo-tv2--videoportál-8-7-2026)

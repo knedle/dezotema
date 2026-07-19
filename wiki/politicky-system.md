@@ -481,6 +481,14 @@ Jako kontrast uvádí případ Coubala — Pavlova sponzora, který za způsoben
 
 ---
 
+### Vlastní „Cena za svobodu projevu" a kritika oficiálních nominací (Zítko, 8. 7. 2026)
+
+Během sjezdu ve Vysočině dostal Zítko od jedné z účastnic žertovné ocenění nazvané „Cena Sira Nicholase Wintona" — s odůvodněním, že „zachránil životy" v době „covid genocidy" (odkaz na Wintonovu záchranu 669 dětí za druhé světové války). Zítko to dává do kontrastu s oficiální anketou Společnosti pro obranu svobody projevu: s letošními nominovanými odborné poroty (mj. **Cyril Svoboda**, **Ilona Švihlíková**, **Markéta Dobiášová**) zásadně nesouhlasí — Cyrila Svobodu označuje za právníka stojícího za „novou ústavou korporace České republiky" a za rozdělením Československa, tedy jako někoho, kdo se svobodou slova nemá nic společného. Kritizuje i loňský ročník ceny: podle jeho slov organizátoři odmítli zveřejnit, kolik z více než 3 000 veřejných nominačních hlasů připadlo komu, a vítězi byli převážně právníci, novináři nebo mrtví (Dominik Duka, Charlie Kirk). Jako opomíjené „skutečné hrdiny" svobody slova jmenuje sebe a **Tomáše Čermáka** (v souvislosti s tímto videem uvádí trest 5,5 roku za „expresivní vyjádření" vůči „covidovým vrahům" — dříve, 17. 5. 2026, byl u Černohorského stejný případ popsán jako „6 let za výhružky politikům", viz výše) a vyzývá diváky, aby do ankety nominovali lidi pronásledované za covidové varování, nikoli mediálně známé osobnosti.
+
+**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026)
+
+---
+
 ### Letná 2026: NGO-řízená demontáž voleb
 
 Jiří Černohorský interpretuje demonstraci Milionu chvilek na Letné 2026 nikoliv jako spontánní občanský protest, ale jako organizovanou politickou kampaň financovanou z NGO sektoru. Poukazuje na to, že výroba takové akce (velké plátno, kilometry kabelů, ozvučení) stojí v řádu desítek milionů — a lidé jako Mikuláš Minář jsou de facto „nastrčenými loutkami" neziskovek. Demonstrace je vzkaz Babišovi, jehož vítězství existenčně ohrožuje tyto organizace. Viz také [FARA a neziskovky — Letná 2026](fara-neziskovky.md#milion-chvilek--struktura-a-financování).
