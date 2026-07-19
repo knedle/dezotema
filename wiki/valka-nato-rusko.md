@@ -1798,3 +1798,59 @@ Předseda SPD Tomio Okamura kritizoval rozhodnutí vlády přispět zhruba 140 m
 V Berlíně došlo ke střetu mezi policií a demonstranty protestujícími proti otevření vojenské továrny společnosti Rheinmetall ve čtvrti Hessenwinkel (na místě bývalé automobilky) — aktivisté se pokusili prorazit policejní zátaras, byli zadrženi kopáním a obušky. Vrabel to ironicky srovnává s pasivitou v ČR: zatímco Němci protestují proti zbrojovce ve svém městě, čeští občané mlčky přijímají, že se podobná výroba (a logistická role ČR pro NATO) buduje i u nich — dokládá to sarkastickým výčtem: ČR jede „na obě strany" (výročí konce války do Německa i UPA památník na Ukrajině), toleruje migraci i zbrojní byznys ministra Macinky bez odporu.
 
 **Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
+### USA schvalují nové sankce proti Rusku (Lindsey Graham) — konec éry mírových jednání (Vrabel, 11. 7. 2026)
+
+Čtyři američtí senátoři v čele s republikánem Lindseym Grahamem oznámili, že se s Donaldem Trumpem dohodli na podpoře nového balíku sankcí proti Rusku i zemím obchodujícím s Moskvou — legislativa má jít brzy k hlasování v Kongresu. Vrabel to čte jako potvrzení trendu posledních týdnů (summit G7, summit NATO v Ankaře, rozmístění systému Palantir u ruských hranic — viz výše): éra jednání „z Aljašky" definitivně skončila a USA se vrací k tvrdé konfrontaci s Ruskem. Zdůrazňuje ironii, že Graham byl už za vlády Joe Bidena jedním z nejagresivnějších zastánců vyzbrojování Ukrajiny a Trump s ním byl v kampani ostře v rozporu — přesto dnes spolu vyhlašují sankce společně.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+### Ukrajina eskaluje — nové velitelství pro útoky na Rusko, licence na výrobu Patriotů (Vrabel, 11. 7. 2026)
+
+Zelenskyj oznámil zřízení nového specializovaného velitelství pro dalekonosné útoky na Ruskou federaci a vznik spojených sil rychlé reakce (útočné jednotky, drony, dělostřelectvo) pod velením brigádního generála Dmitrije Vološina. Zároveň Zelenskyj uvedl, že Ukrajina patří mezi tři země světa technologicky schopné vyrábět systémy Patriot, a Trump přislíbil Ukrajině licenci k jejich výrobě (podle všech zdrojů spíš verze PAC-2) — reálně se výroba pravděpodobně přesune do Německa, protože samotná výrobní kapacita je pro Rusko snadno viditelná ze satelitů a stala by se okamžitým cílem raket (Kinžal, Iskander, Orešnik) stejně jako plánované velitelství pro dalekonosné útoky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+### Rusko přerušilo vodní cestu Don–Azovské moře po útocích na tankery — riziko hladomoru (Vrabel, 11. 7. 2026)
+
+Po ukrajinských dronových útocích na 13 ruských lodí v Černém moři (včetně 10 tankerů) a dalších 8–40 menších tankerů převážejících pohonné hmoty na Krym Rusko dočasně přerušilo dopravu plavebním kanálem mezi řekou Don a Azovským mořem — podle expertů se to může dotknout téměř čtvrtiny vývozu ruské pšenice. Vrabel to spojuje se svou tezí o uzavřeném Hormuzském průlivu: kombinace obou výpadků podle něj na podzim způsobí vážný hlad v asijských a afrických zemích, které jsou na dovozu obilí závislé — vinu klade na „globalisty", kteří udržují konflikty u života.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+### Čína představila mikrovlnnou zbraň proti dronům — možné budoucí předání Rusku (Vrabel, 11. 7. 2026)
+
+Čínští vojenští vědci představili vysokovýkonnou mikrovlnnou zbraň (výkon až 100 gigawattů) schopnou vyřadit elektroniku dronů (komunikaci, navigaci, senzory) i ve větších rojích najednou, včetně satelitů na nízké oběžné dráze. Vrabel to dává do souvislosti s vlastní intuitivní předpovědí manželky o den dříve, že Čína dodá Rusku technologii na vypínání dronů — dosavadní drony podle něj byly hlavním důvodem, proč ruský postup na frontě váznul (levné, početné, znesnadňují obranu dobytého území). Pokud by Rusko takovou zbraň získalo a nasadilo proti ukrajinským dronům, mohlo by to podle Vrabela výrazně urychlit ruský postup a přiblížit konec konfliktu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+### ⚡ Vrabel nesouhlasí s Contem — Rusko JE nebezpečné pro Evropu, možný preventivní úder (Vrabel, 11. 7. 2026)
+
+Bývalý italský premiér Giuseppe Conte varoval, že obraz ruské hrozby je uměle vytvářen, aby ospravedlnil zbrojení a přípravu veřejnosti na válku — odkázal i na vyjádření vrchního velitele sil NATO v Evropě (Alexus Grynkewich), že na základě dostupných informací nelze tvrdit, že Rusko pro Evropu představuje hrozbu. Vrabel s tímto hodnocením nesouhlasí a staví se do přímého protikladu ke svému obvyklému rámování (že válku živí hlavně zbrojaři a politická korupce): tvrdí, že Rusko je pro Evropu „velmi, velmi nebezpečné" — s armádou mířící k 1,5 milionu vojáků (proti cca 20 tisícům v ČR), 50 % rozpočtu na zbrojení, novými zbraněmi (Burevestnik, Sarmat, jaderná torpéda, Orešnik) a odhodláním „semknout se", protože Rusové vnímají, že jde o holé přežití. Vysvětluje, že Rusko samo nechce napadnout Evropu/NATO, ale z taktického hlediska by pro něj bylo „sebevraždou" nechat se obklíčit ze všech stran najednou — proto podle Vrabela nelze vyloučit, že by Rusko v reakci na postupující obklíčení (Palantir, jaderné zbraně, vojenská cvičení u hranic) udeřilo jako první, aby soustředilo síly na jedno místo. Doplňuje osobní charakteristiku Rusů jako „tvrdých, chladných lidí", kteří se historicky (2. světová válka) nezastavují na vlastních hranicích, když bojují.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+### Zpochybnění genocidy ve Srebrenici — odkaz na Mladiče a „prof. Dolečka" (Vrabel, 11. 7. 2026)
+
+K pohřbu ostatků deseti dalších identifikovaných obětí genocidy ve Srebrenici (oficiálně 8 372 zavražděných bosenských civilistů, 1995) Vrabel zprávu zpochybňuje, byť se výslovně distancuje od přímého „popírání genocidy" (trestný čin v ČR). Odkazuje na (zesnulého) českého lékaře profesora Rajka Dolečka a na výpověď generála Ratka Mladiće: podle této verze srbská armáda vyslaná pod Mladićovým velením bojovala v okolí Srebrenice proti mudžahedínským teroristům, kteří vyvražďovali okolní vesnice, civilisty před bojem naložila do autobusů a odvezla je do bezpečí, a šlo tak o boj s ozbrojenými „separatisty" (podle Mladiće řádově stovky mrtvých), nikoli o cílenou genocidu civilního obyvatelstva. Naznačuje, že mezi dodatečně nalézanými a pohřbívanými oběťmi mají být i lidé, kteří „hlasovali ve volbách" po roce 1995 (tedy nebyli mrtví). Srovnává selektivní pozornost Západu k tématu s mlčením o bombardování Jugoslávie NATO v roce 1999 (78 dní, civilisté, dětská nemocnice) a chorvatskou operací Oluja (1995, vyhnání čtvrt milionu Srbů, střelba na prchající ženy a děti ze vzduchu) — obojí označuje za bagatelizované či dokonce oslavované Západem. Uzavírá, že současná Evropská unie je „satanistická" a představuje „vládu nacismu".
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+### Budanov: Ukrajina je „kolébka pravoslaví" — Vrabel historicky rozporuje (Vrabel, 11. 7. 2026)
+
+Šéf ukrajinské vojenské rozvědky Kirilo Budanov při oslavách 975 let Kyjevsko-pečerské lávry prohlásil, že Ukrajina je kolébkou pravoslaví a klášter zůstane duchovním symbolem země — výrok padl v kontextu příprav na vznik národního „panteonu" v části areálu lávry a vyvolal ostrou reakci Ruska (mluvčí MZV Marija Zacharovová jej označila za překrucování historie). Vrabel s tvrzením nesouhlasí — jako laik (ne historik) se domnívá, že pravoslaví vzniklo rozdělením církve na katolickou a pravoslavnou v Byzantské říši (Konstantinopol), nikoli na území dnešní Ukrajiny. Využívá to k širší odbočce: kritizuje katolickou církev za prodej odpustků, okázalost a obvinění z rozšířené pedofilie mezi kněžími (varoval prý před tím i vlastního syna), zatímco pravoslavnou církev popisuje pozitivně (kněží mají rodiny, církev je o „radosti ze života"). Dodává, že Zelenskyj na Ukrajině pravoslaví fakticky potlačuje — věřící navštěvující pravoslavné kostely měla mlátit armáda, pravoslavné svátky byly přesunuty na katolická data.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)

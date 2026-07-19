@@ -244,7 +244,9 @@ K jednání ČR v Bruselu o novém jaderném bloku a oznámení o prodloužení 
 
 Ke zprávě o krizi životních nákladů v EU (ceny nemovitostí +53 % v letech 2015–2024, 1,29 mil. lidí bez domova) Vrabel vykládá inflaci jako nástroj okrádání: vzniká snižováním úrokových sazeb a „tištěním" peněz přes půjčky; Babišovo napumpování peněz v covidu podle něj způsobilo pozdější „Fialovu" inflaci 18 %. Tvrdí, že kdo držel v roce 2021 milion v bance, má dnes poloviční hodnotu — proto radí investovat (nemovitosti, zlato, stříbro) místo držení hotovosti. Opakující se cyklus války–inflace–krize–růst přičítá „chazarským židům v bankách", kteří na válkách bohatnou.
 
-**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+**11. 7.** — Vrabel opakuje a rozšiřuje tutéž tezi v kontextu výroku Ursuly von der Leyenové, že rozpočtu EU chybí 40 % — pokud se nenajdou „vlastní zdroje", zaplatí to členské státy buď přímo (daně), nebo nepřímo přes inflaci, která systematicky přesouvá rodinné úspory (nemovitosti, vklady, firmy) směrem k vrcholu „pyramidy moci". Doporučuje divákům dopředu přemýšlet, jak si ochránit majetek, protože peníze ztrácí hodnotu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 
 ---
 

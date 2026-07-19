@@ -293,7 +293,9 @@ Ke zprávě New York Times, že USA (CENTCOM) zasáhly vodní zařízení v ír�
 
 Vrabel popisuje, jak Trump bombardoval Írán (bomby „za 250 milionů dolarů"), prohlásil, že Írán „už nemá obranu", a vzápětí zrušil avizované bombardování a oznámil blízkou dohodu (podle Vrabela už sedmé „konečné" ultimátum za měsíc). Tvrdí, že kolem Trumpa se opakuje vzorec spekulace s ropou: ~20 minut před Trumpovým oznámením někdo shortuje ropu, po oznámení cena klesne a spekulanti vydělají. Trumpa označuje za „nejkriminálnějšího prezidenta USA", jakého pamatuje.
 
-**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+**11. 7.** — Trump na síti Truth Social pohrozil Íránu „tisíci raket" a zcela zničit celou zemi, pokud by došlo k pokusu o atentát na jeho osobu (izraelské tajné služby měly Washington varovat před íránskou hrozbou). Vrabel na to reaguje mimořádně ostře: připomíná, že Trump sám zahájil zabíjením íránského duchovního vůdce Chameneího (za kterého truchlily desítky milionů lidí) i útokem na dětský internát, a uplatňuje princip „oko za oko" — otevřeně přeje Íránu, aby se mu podařilo Trumpa zabít, a označuje ho za „absolutní zlo" a největšího „gangstera" na světě, srovnatelného s padouchem z filmů o Jamesi Bondovi. Vyzývá, aby se „celý svět spojil" a USA embargem/sankcemi/společnou armádní akcí obklíčil a zastavil coby „světového nepřítele číslo jedna" (viz i [stochasticky-teror.md](stochasticky-teror.md)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026), [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 
 ---
 

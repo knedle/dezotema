@@ -2905,6 +2905,15 @@
 - **Poznámka:** Zpracováno 10 témat: (1) Trump nevylučuje bezletovou zónu nad Ukrajinou — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Teorie „týdenního cyklu" eskalace/deeskalace Írán vázaná na burzu — [blizky-vychod.md](blizky-vychod.md). (3) Zalužný (Telegraph): Ukrajina nevyhrává — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Erdogan podporuje PURL, Trump slibuje F-35 Turecku — [valka-nato-rusko.md](valka-nato-rusko.md). (5) EU povoluje Ukrajině nákup britské techniky, Rearm Europe 800 mld. — [valka-nato-rusko.md](valka-nato-rusko.md). (6) EU 6. klastr s Ukrajinou vs. Srbsko 20 let čeká — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Okamura kritizuje PURL, ač SPD řídí obranu — pokrytectví — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Střet policie s demonstranty v Berlíně kvůli Rheinmetall — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela) — [valka-nato-rusko.md](valka-nato-rusko.md). (10) Dotace 9,5 mil. Kč na obnovu německých hrobů v ČR — [benesovy-dekrety.md](benesovy-dekrety.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět 11. 7. 2026 {#ladislav-vrabel--zprávy-v-devět-11-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-11_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1498970534812927>
+- **Datum záznamu:** 2026-07-11
+- **Délka:** 01:20:57
+- **Poznámka:** Zpracováno 12 témat: (1) Novela stavebního zákona umožňuje demolici bez souhlasu majitele, korupce developerů — [kauzy.md](kauzy.md). (2) Nová přísná pravidla pro pálení dřeva na zahrádkách — [kauzy.md](kauzy.md). (3) Trump vyhrožuje Íránu 1000 raketami — [blizky-vychod.md](blizky-vychod.md). (4) USA schvalují nové sankce proti Rusku (Graham) — [valka-nato-rusko.md](valka-nato-rusko.md). (5) Ukrajina eskaluje — nové velitelství, licence na Patrioty — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Rusko přerušilo vodní cestu Don–Azovské moře, riziko hladomoru — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Čína představila mikrovlnnou zbraň proti dronům — [valka-nato-rusko.md](valka-nato-rusko.md). (8) ⚡ Vrabel nesouhlasí s Contem — Rusko je nebezpečné, možný preventivní úder — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Inflace jako nástroj okrádání o úspory (rozšíření teze) — [ceny-energie.md](ceny-energie.md). (10) Zpochybnění genocidy ve Srebrenici — [valka-nato-rusko.md](valka-nato-rusko.md). (11) Budanov: Ukrajina „kolébka pravoslaví" — Vrabel rozporuje — [valka-nato-rusko.md](valka-nato-rusko.md). (12) ČEZ — 191 mil. Kč na odměnách vedení — [kauzy.md](kauzy.md). Stoch. teror: opakované a vygradované přání zavraždění Trumpa — [stochasticky-teror.md](stochasticky-teror.md).
+- **Zpracováno:** ano
+
 ## Konspirátor Boldy — Videoportál 11. 7. 2026 {#konspirátor-boldy--videoportál-11-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-11_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel

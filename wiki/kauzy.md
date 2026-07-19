@@ -572,3 +572,27 @@ Tarabová na místě v Mimoni ukazuje, že hejtman Liberecka Martin Půta ve sv�
 V reakci na článek o nárůstu onkologických pacientů Tarabová dohledává majetkové propojení Andreje Babiše se zdravotnictvím: přímo žádnou specializovanou onkologickou kliniku nevlastní, ale přes investiční fond Hartenberg Holding a zdravotnickou skupinu Future Life ovládá zařízení nabízející preventivní onkologické programy a mamografii — konkrétně pražskou kliniku ISCARE (primárně reprodukční medicína, gastroenterologie, plastická chirurgie, ale i nadstandardní onkologické prohlídky) a Polikliniku Modřany (mamologická a onkologická ambulance). Souběžně Babiš politicky a investičně dlouhodobě prosazuje výstavbu nových onkocenter a modernizaci vybavení nemocnic — zmiňuje Národní onkologické centrum v Motole (4,5 mld. Kč, otevření plánováno na srpen 2026, původně mělo být na Královských Vinohradech), Centrum onkologické prevence v Brně (otevřel v květnu 2026) a rekonstruovaný onkologický pavilon v Krči (101 mil. Kč, spolufinancováno EU). Tarabová tím poukazuje na propojení soukromého podnikatelského zájmu s veřejně prosazovanou zdravotní politikou, aniž by tvrdila přímé vlastnictví onkologické kliniky.
 
 **Zdroje:** [Tarabová — Videoportál: reakce na článek o rakovině (8. 7. 2026)](_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
+
+---
+
+## Novela stavebního zákona umožňuje demolici staveb bez souhlasu majitele (Vrabel, 11. 7. 2026)
+
+Poslaneckou sněmovnou prošla novela stavebního zákona, která podle kritiků nahrává developerům na úkor běžných vlastníků nemovitostí. Klíčové body: pokud developer nebo stát připravuje projekt se statusem „veřejného zájmu" (nová kategorie zón), může podat žádost o demolici cizí stavby (domu, chaty) bez souhlasu jejího majitele; současně novela dává stavebním úřadům možnost zpětně zlegalizovat černé stavby, pokud by jejich odstranění bylo vyhodnoceno jako nepřiměřený zásah. Vrabel to komentuje jako vyslaný signál, že „porušovat zákon se může vyplatit", a spojuje schválení s korupčním prostředím na úrovni obcí a krajů — developerské firmy dlouhodobě napojené na ODS a ČSSD (jmenuje podnikatele Tomáše Jadličku, „miliardy ve veřejných zakázkách") podle něj profitují z vazeb na poslance, kteří vzešli z „vlasteneckých projektů" zakládaných okolím Václava Klause mladšího — naznačuje, že schválení zákona může být formou splácení předvolební podpory.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+## Nová přísná pravidla pro pálení dřeva na zahrádkách (Vrabel, 11. 7. 2026)
+
+Podle nového výkladu ministerstva už pro legální rozdělání ohně na zahradě nestačí dodržet protipožární pravidla a vhodné povětrnostní podmínky — úředníci mají nově posuzovat i samotný účel spalování. Pokud je nakládání s dřevním odpadem vyhodnoceno jako „neúčelné", hrozí podle zákona o ochraně ovzduší pokuta až 50 000 Kč, podle zákona o odpadech až 1 000 000 Kč fyzické osobě (právnickým osobám až 10 000 000 Kč). Vrabel to komentuje ironicky jako další příklad narůstající byrokratické šikany běžných lidí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+## ČEZ: vedení si rozdělilo 191 mil. Kč na odměnách (Vrabel, 11. 7. 2026)
+
+Vrabel doplňuje dřívější kritiku ČEZ (viz [Babiš a rozprodej ČEZ](#babiš-a-rozprodej-čez-rozkradená-republika-vrabel-4-6-2026)) o nový detail: vedení společnosti si podle diváckého upozornění rozdělilo na odměnách celkem 191 mil. Kč. Připomíná, že nad ČEZ dozoruje syn Václava Klause (otec současného ministra zahraničí Petra Macinky), a peníze označuje za pocházející přímo z předražených plateb občanů za elektřinu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)

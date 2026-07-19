@@ -277,6 +277,7 @@
 - **21. 6.** — Srbsko vs. ČR: plán EU omezit noční elektřinu domácnostem, studna/voda jako „státní bohatství" + statisícové pokuty, v Srbsku elektřina ~2 Kč a svoboda (pálenka, bez povinného očkování) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - **22. 6.** — Západní dystopie: Německo zvyšuje důchodový věk na 73, Kanada eutanazie (50 tis., i psychicky nemocní), ČR zvyšuje odchod do důchodu — stát potřebuje peníze na válku (vyšší schodek 2027) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - Ázerbájdžán/Arménie „diverzifikace" energie od Ruska; Trump hrozí EU ukončením dodávek — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
+- Inflace jako nástroj okrádání o úspory — rozšíření teze v kontextu chybějících 40 % rozpočtu EU (11. 7.) — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 
@@ -339,6 +340,7 @@
 - Kauza Bojany Vrabelové: insolvenční správce, soud bez důkazů, Rakušan = bezpečnostní ohrožení státu bez zdůvodnění; organizovaný zločin v institucích — [Nedělní vysílání 24. 5.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 - Vlastní odsouzení za dotační podvod (ČB, 18 měs. podmínka) = politická perzekuce za „zaškrtnutí okýnka" o bezdlužnosti, vinu klade na Babišovu vládu, chce žalovat média; Babiš a rozprodej ČEZ (páteřní síť, baterie/solár bez výběrových řízení, Klausův syn dozoruje) = „rozkradená republika" — [Zprávy v devět 4. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
 - **21. 6.** — manželka Bojana: insolvenční dluh ~3 mil. bez dokazování (správce si část „vymyslel"), ESLP až po vyčerpání ČR; vlastní dotační odsouzení = „náhrada škody, ne dotace", přijal podmínku — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- **11. 7.** — novela stavebního zákona umožňuje demolici bez souhlasu majitele (korupce developerů/ODS); nová přísná pravidla pro pálení dřeva; ČEZ — 191 mil. Kč na odměnách vedení — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 
@@ -382,6 +384,8 @@
 - **9. 7. (panelová debata k Ankaře)** — americké zbrojovky přesouvají výrobu do Evropy (Marek Adam); spor o pravděpodobnost přímého konfliktu s Ruskem (Esentier vs. Kellner); Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier); role Turecka v NATO a puč 2016 (Kellner); Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 - **10. 7.** — ČR na 5. místě ruského seznamu nepřátel; Trump nevylučuje bezletovou zónu nad Ukrajinou (riziko přímé války NATO–Rusko); Zalužný (Telegraph): Ukrajina nevyhrává; Erdogan podporuje PURL, Trump slibuje F-35 Turecku; EU povoluje nákup britské techniky, Rearm Europe 800 mld.; 6. klastr s Ukrajinou vs. Srbsko 20 let čeká; Okamura kritizuje PURL ač SPD řídí obranu; střet policie s demonstranty v Berlíně (Rheinmetall); Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela); dotace na německé hroby v ČR — [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
 - Teorie „týdenního cyklu" eskalace/deeskalace u Íránu vázaná na burzu (10. 7.) — [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
+- **11. 7.** — nové sankce USA proti Rusku (Graham); Ukrajina eskaluje (velitelství pro útoky, licence na Patrioty); Rusko přerušilo Don–Azovské moře (riziko hladomoru); Čína — mikrovlnná zbraň proti dronům; ⚡ nesouhlasí s Contem, Rusko je nebezpečné a možná udeří preventivně; zpochybnění genocidy ve Srebrenici; Budanov „kolébka pravoslaví" rozporuje — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+- Trump vyhrožuje Íránu 1000 raketami, Vrabel přeje Írán úspěch při zabití Trumpa (11. 7.) — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
@@ -683,6 +687,11 @@
 | Vladimir Solovjov | ✅ pozitivní | Ruský moderátor — jeho výklad boje proti „zkorumpovanému satanistickému Západu" Vrabel podepisuje | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
 | Donald Trump | ❌ negativní | Nárokuje si Grónsko bez ohledu na mezinárodní právo („jediná hranice je moje svědomí") — Vrabel: „vůbec bych se nedivil, kdyby ho někdo zavraždil" (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
 | Friedrich Merz | ❌ negativní | Prezentuje nákup raket Tomahawk jako „obranu" — Vrabel: jde o čistě útočnou zbraň, zavádějící rétorika | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Donald Trump | ❌ negativní | Vyhrožuje Íránu 1000 raketami — Vrabel otevřeně přeje Íránu úspěch při jeho zabití (→ [stoch. teror](../stochasticky-teror.md)); „absolutní zlo", největší gangster světa | 2026-07-11 | [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) |
+| Lindsey Graham | ❌ negativní | Republikánský senátor — dohodl s Trumpem nové sankce proti Rusku; „největší válečník světa", dřívější aktivní podporovatel vyzbrojování Ukrajiny za Bidena | 2026-07-11 | [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) |
+| Volodymyr Zelenský | ❌ negativní | Zřídil velitelství pro dalekonosné útoky na Rusko — Vrabel předpokládá, že ho Rusové brzy zlikvidují | 2026-07-11 | [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) |
+| Kirilo Budanov | ⚖️ rozporuplný | Šéf ukrajinské vojenské rozvědky — tvrzení, že Ukrajina je „kolébka pravoslaví", Vrabel historicky rozporuje | 2026-07-11 | [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) |
+| Ratko Mladić | ⚖️ rozporuplný | Vrabel cituje jeho verzi Srebrenice (boj s teroristy, civilisté odvezeni) jako věrohodnější než oficiální genocidu | 2026-07-11 | [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) |
 | Volodymyr Zelenský | ⚖️ rozporuplný | Panelová debata: signály zákulisní koordinace s Ruskem (USA věděly o útoku předem, Bennett tvrdí Putinův slib ho nezabít) — Rusku „vyhovuje" jako vůdce | 2026-07-09 | [Speciální stream: Ankara](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026) |
 | Recep Tayyip Erdoğan | ⚖️ rozporuplný | Podle Kellnera přežil puč 2016 organizovaný z NATO základny v Incirliku díky varování Ruska přes Írán — dnes rozkročen mezi NATO a BRICS | 2026-07-09 | [Speciální stream: Ankara](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026) |
 | Recep Tayyip Erdoğan | ⚖️ rozporuplný | Na summitu podpořil PURL i pomoc Ukrajině; „neřízená střela" ochotná spolupracovat s NATO, EU i Ruskem zároveň; dostane od Trumpa F-35 | 2026-07-10 | [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) |
@@ -770,3 +779,4 @@
 - [Zprávy v devět (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - [Speciální stream: Ankara, panelová debata (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 - [Zprávy v devět (10. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+- [Zprávy v devět (11. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
