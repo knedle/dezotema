@@ -1664,3 +1664,11 @@ K obžalobě Ukrajince německou prokuraturou za útok na Nord Stream (2022) Raj
 V reakci na sněmovní projev Martina Kupky o nutnosti navýšit obranné výdaje kvůli „odstrašení" Ruska Rajchl odmítá dva argumenty najednou: že se na Ukrajině bojuje za Českou republiku ("ani jednu vteřinu") a že podpora Ukrajiny pomáhá i ČR — místo toho tvrdí, že peníze z českých daní končí u "ukrajinských zlodějů", kteří si za ně kupují "zlaté toalety a bidety". Investice do obrany podle něj Rusko neodstrašují, protože Rusko nemá důvod ČR napadnout — stačí mu sledovat, jak se Evropa ničí sama masivní migrací z Afriky a Green Dealem. Jako alternativní vizi pro ČR opakuje vzor Irska (12,2% růst HDP v loňském roce, jen 0,2% HDP na obranu, přebytkový rozpočet) a odmítá "krmení zbrojařských korporátů" penězi, za které se nakupují zbraně, jež budou za pět let jen "muzejními exponáty".
 
 **Zdroje:** [Rajchl — Videoportál 8. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-8-7-2026)
+
+---
+
+### Kategorické odmítnutí financování Ukrajiny přes program PURL — spor s Macinkou (Rajchl, 8. 7. 2026)
+
+Rajchl reaguje na oznámení ministra zahraničí Petra Macinky, že přesměruje část mandatorních výdajů ministerstva zahraničí do programu **PURL** (viz [PURL a „NATO Review 3.0" — Vrabel, 18. 6.](#purl-a-nato-review-30-usa-přesouvá-zbrojení-i-riziko-na-evropu-vrabel-18-6-2026)), jehož účelem je podle něj shromažďovat peníze evropských a kanadských daňových poplatníků na nákup amerických zbraní pro Ukrajinu. Kategoricky odmítá, aby z českého státního rozpočtu šla na zbraně pro Ukrajinu byť jediná koruna — odvolává se na předvolební slib i na závazek z programového prohlášení vlády prosazovat ukončení konfliktu diplomatickou cestou, který by tímto krokem (podobně jako dříve vláda Petra Fialy) byl porušen. Slibuje, že on i klub SPD budou požadovat revizi rozhodnutí bez ohledu na tlak EU či NATO, a dodává, že mu nezáleží na tom, aby ho za tento krok chválili Petr Pavel nebo Mark Rutte — naopak by to považoval za varovné znamení.
+
+**Zdroje:** [Rajchl — Videoportál 8. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-purl-macinka-8-7-2026)

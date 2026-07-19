@@ -2841,3 +2841,12 @@
 - **Délka:** 00:02:25
 - **Poznámka:** Zpracováno 1 téma: Odmítnutí narativu „Ukrajina bojuje za ČR" a zbrojení proti Rusku, vzor Irska (reakce na Kupku) — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: PURL a Macinka 8. 7. 2026 {#jindřich-rajchl--videoportál-purl-macinka-8-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-08_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1543636527250310>
+- **Datum záznamu:** 2026-07-08
+- **Délka:** 00:03:10
+- **Poznámka:** Zpracováno 1 téma: Kategorické odmítnutí financování Ukrajiny přes program PURL, spor s Macinkou — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
