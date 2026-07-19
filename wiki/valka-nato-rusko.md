@@ -1878,3 +1878,59 @@ Vrabel referuje o nepotvrzené zprávě, že senátor Lindsey Graham (kterého d
 Na divácký dotaz Vrabel potvrzuje zprávu (zaznělo i v rozhlase), že letiště v Karlových Varech se předává armádě a upravuje pro potřeby NATO — řadí to k dalším příkladům přeměny civilní infrastruktury ČR na vojenskou/logistickou kapacitu aliance (viz Macinkovo oznámení o roli ČR jako „logistického centra", výše).
 
 **Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+
+---
+
+### Vláda připravuje legislativu pro přechod na „válečnou nebo obrannou ekonomiku" (Vrabel, 13. 7. 2026)
+
+Vláda podle Vrabela úkolovala ministerstva vnitra a obrany připravit do 12 měsíců návrhy legislativních změn krizového řízení — ministr obrany Jaromír Zuna zdůvodnil to zastaralostí předpisů z 90. let a potřebou reagovat na „nové technologie a charakter rizik". Vrabel čte formulaci doslovně: dokument má „zlepšit řízení přechodu státu na válečnou nebo obrannou ekonomiku" — což podle něj znamená, že vláda nepřímo přiznává přípravu na válku, ovšem s horizontem déle než rok. Propojuje to s výrokem generálního tajemníka NATO Marka Rutteho o nutné „revoluci průmyslu" a s programy Rearm Europe a SAFE (viz výše) — jde podle něj o dlouhodobě plánovanou proměnu celého ekonomického modelu Evropy, ne jen o urychlení výroby zbraní.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Nová vojenská biolaboratoř v Orlických horách — spojenecký systém NATO (Vrabel, 13. 7. 2026)
+
+Armáda ČR (Vojenský zdravotní ústav) chystá zásadní rekonstrukci vojenského výzkumného a nemocničního komplexu v Orlických horách s laboratořemi nejvyššího stupně biologického zabezpečení — objekt slouží k biologické ochraně státu i jako součást „spojeneckého systému v rámci NATO". Vrabel to komentuje sarkasticky s odkazem na svá dřívější tvrzení o amerických biolaboratořích na Ukrajině (Ebola, mor, virus Marburg) — vyjadřuje pochybnost, zda podobný objekt v ČR neřídí ve skutečnosti Američané, a žertuje, že doufá, že při rekonstrukci „neunikne nějaký virus".
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Údajná otrava Lindseyho Grahama Ruskem — zemřel 24 hodin po návštěvě Kyjeva (Vrabel, 13. 7. 2026)
+
+Vrabel rozvíjí včerejší zprávu o smrti senátora Lindseyho Grahama: upozorňuje, že Graham zemřel na „zástavu srdce" doslova do 24 hodin poté, co se v Kyjevě fotil se Zelenským u sestřeleného ruského dronu, přičemž na fotkách vypadal zdravě — spekuluje, že mohl být otráven nebo jinak „vypnut" Ruskem. Dodává otázku, kdo bude další, a poukazuje na nesoulad: pokud by naopak Írán zabil Trumpa, byl by to podle mezinárodního práva a rétoriky Západu terorismus, zatímco smrt Grahama (podle jeho spekulace ruskou rukou) nikdo takto nerámuje.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Nová francouzská koalice pro obranu proti balistickým střelám — ČR nepodepsala (Vrabel, 13. 7. 2026)
+
+Ve Francii vznikla nová mezinárodní koalice pro integrovanou obranu proti balistickým střelám (mj. Německo, Británie, Švédsko, Itálie) — Česká republika se k ní podle oficiálních zpráv zatím nepřipojila a nic nepodepsala. Vrabel to hodnotí pozitivně a vyzývá k udržení tlaku na vládu Andreje Babiše, aby smlouvu nepodepsala — spojuje to se svou avizovanou zářijovou demonstrací proti umístění jaderných/protiraketových systémů na území ČR (viz [jaderne-zbrane.md](jaderne-zbrane.md)), protože podpis takové dohody podle něj otevírá cestu k francouzskému „jadernému deštníku" po celé Evropě.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Petrodolar, petrojuan a predikce možného kolapsu americké ekonomiky do konce roku (Vrabel, 13. 7. 2026)
+
+K aktuální zprávě, že Čína rozšiřuje dohody o obchodu s ropou v juanech se Saúdskou Arábií, SAE a Katarem, Vrabel podrobně vykládá historii petrodolarového systému: Brettonwoodská dohoda (1944) jako základ poválečného globalismu, francouzský požadavek na výměnu dolarů za zlato (1972), kterému USA nemohly vyhovět, a následná dohoda Henryho Kissingera s OPEC/Saúdskou Arábií (1973) — ropa se od té doby prodává výhradně v dolarech výměnou za americkou vojenskou ochranu Saúdské Arábie. Podle Vrabela tím USA fakticky tisknou „bezcenné papírky" za reálné zboží a dodnes na tomto mechanismu bohatnou. Připomíná, že Saddám Husajn (záměr obchodovat ropu v eurech) a Muammar Kaddáfí byli za pokus systém opustit zlikvidováni pod záminkou vymyšlených zbraní hromadného ničení. Když Saúdská Arábie loni neobnovila bezpečnostní dohodu s USA, Trump podle Vrabela zareagoval rozpoutáním konfliktu na Blízkém východě — princip „mafie": kdo nechce platit za ochranu, dostane válku. Uzavírá odhadem (s výhradou nejistoty), že amerického ekonomika by se mohla zhroutit do konce roku 2026 kvůli rozpadu petrodolarového systému a přechodu zemí Perského zálivu k obchodu s Čínou v petrojuanech.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Německo financuje 50 000 útočných dronů pro Ukrajinu — „oko za oko" varování (Vrabel, 13. 7. 2026)
+
+Německo financuje nákup 50 000 útočných dronů pro Ukrajinu (ukrajinská firma Skyeton, software americké Auterion, kontrakt ~90 mil. eur) — v rámci širšího plánu 100 000 dronů od více západních států a dalších 150 000 z Británie. Vrabel na to reaguje principem „oko za oko, zub za zub": pokud Německo financuje desetitisíce dronů určených k útoku na Rusko, je podle něj logické očekávat, že Rusko odpoví srovnatelným počtem dronů namířených na Německo — dodává, že si to nepřeje (má v Německu část rodiny), ale považuje to za spravedlivě předvídatelný důsledek.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Zelenskyj vyměnil vládu i vyšetřovatele uprostřed korupčního vyšetřování (Vrabel, 13. 7. 2026)
+
+Volodymyr Zelenskyj oznámil rozsáhlé vládní změny včetně odvolání velvyslankyně USA Ščefanie Šyrinové (Oksany Markarovové), která čelila podezřením z korupce — současně vyměnil i vedení orgánů trestního řízení, což Vrabel interpretuje jako snahu vyhnout se vlastnímu trestnímu stíhání. Podává mimořádně tvrdé shrnutí Zelenského kariéry: bývalý herec a komik (kritizuje jeho dřívější vulgární estrádní vystoupení), zvolený prezidentem s podporou ukrajinského oligarchy a Západu navzdory předvolebním slibům ukončit konflikt na Donbasu; za jeho vlády Ukrajina ztratila Donbas, přišla o 1–2,5 milionu obyvatel na frontě a zadlužila se na 200 mld. dolarů vůči BlackRock a MMF; zakázal opozici, ruskou kulturu a sportovce a přesunul zemi z pravoslavného na katolický kalendář. Označuje ho za „nejhorší prototyp člověka 21. století" a nejhoršího politického podvodníka na světě (za ním v jeho žebříčku následují Trump, Rajchl a Peter Magyar).
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)

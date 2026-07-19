@@ -252,6 +252,7 @@
 - Von der Leyen: bez nových vlastních zdrojů klesne rozpočet EU o 40 % — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - **5. 7.** — hodnocení AfD jako „jediné alternativy" pro Německo (výhrady jen k Landsmannschaft frakci); SPD centrálně řízená, Okamura „falešná karta"; doplnění von der Leyenové 40% rozpočtu o reakci Rajchla — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 - EU nařizuje bezemisní renovaci 700 000 českých domů (EPBD4, 12. 7.) — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+- EU komise reformuje se, úředníci v hlavních městech (13. 7.); Maďarsko — ústavní většina odvolává prezidenta Šujoka — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -387,10 +388,12 @@
 - **9. 7. (panelová debata k Ankaře)** — americké zbrojovky přesouvají výrobu do Evropy (Marek Adam); spor o pravděpodobnost přímého konfliktu s Ruskem (Esentier vs. Kellner); Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier); role Turecka v NATO a puč 2016 (Kellner); Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 - **10. 7.** — ČR na 5. místě ruského seznamu nepřátel; Trump nevylučuje bezletovou zónu nad Ukrajinou (riziko přímé války NATO–Rusko); Zalužný (Telegraph): Ukrajina nevyhrává; Erdogan podporuje PURL, Trump slibuje F-35 Turecku; EU povoluje nákup britské techniky, Rearm Europe 800 mld.; 6. klastr s Ukrajinou vs. Srbsko 20 let čeká; Okamura kritizuje PURL ač SPD řídí obranu; střet policie s demonstranty v Berlíně (Rheinmetall); Zelenskyj schválil památníky UPA/Bandera (Ukrajina + Venezuela); dotace na německé hroby v ČR — [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
 - Teorie „týdenního cyklu" eskalace/deeskalace u Íránu vázaná na burzu (10. 7.) — [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
+- USA obnovují blokádu Hormuzu (20% poplatek); Rubio ovládá venezuelskou ropu; Írán hrozí zemím podporujícím USA (ČR radary), Macinka v Izraeli (13. 7.) — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 - **11. 7.** — nové sankce USA proti Rusku (Graham); Ukrajina eskaluje (velitelství pro útoky, licence na Patrioty); Rusko přerušilo Don–Azovské moře (riziko hladomoru); Čína — mikrovlnná zbraň proti dronům; ⚡ nesouhlasí s Contem, Rusko je nebezpečné a možná udeří preventivně; zpochybnění genocidy ve Srebrenici; Budanov „kolébka pravoslaví" rozporuje — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 - Trump vyhrožuje Íránu 1000 raketami, Vrabel přeje Írán úspěch při zabití Trumpa (11. 7.) — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 - **12. 7.** — vyhlašuje zářijovou protijadernou demonstraci (RT interview jako spouštěč), podrobné vysvětlení jaderného deštníku — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026) → [jaderne-zbrane.md](../jaderne-zbrane.md)
 - Údajná smrt Lindseyho Grahama, návrh 500% cel na obchod s ruskou ropou; letiště Karlovy Vary předáno armádě/NATO — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+- **13. 7.** — vláda připravuje legislativu pro přechod na válečnou/obrannou ekonomiku; nová biolaboratoř v Orlických horách; otrava Grahama (rozšíření teze); nová francouzská koalice balistické obrany (ČR nepodepsala); petrodolar/petrojuan a predikce kolapsu US ekonomiky; Německo 50 000 dronů, „oko za oko"; Zelenskyj vyměnil vládu i vyšetřovatele — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
@@ -786,3 +789,4 @@
 - [Zprávy v devět (10. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
 - [Zprávy v devět (11. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 - [Nedělní vysílání (12. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+- [Zprávy v devět (13. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)

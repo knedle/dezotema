@@ -478,3 +478,19 @@ Rajchl (5. 7.) i Vrabel (5. 7.) na totéž oznámení reagují nezávisle na sob
 Na CNN Prima News Rajchl hodnotí vztah Trumpovy administrativy k EU: Donald Trump vnímá Evropskou unii jako velmi slabého partnera, kritického zejména vůči tomu, co v Bruselu nazývá „dvouocasou příšerou" — Green Dealu a migraci. Cituje J. D. Vance, který prohlásil, že největší nepřítel v tuto chvíli nesedí v Moskvě, ale v Bruselu, protože brusel jedná proti vlastním občanům. Trump podle Rajchla posuzuje partnery primárně podle ekonomické síly — příkladem je jeho cesta do Číny s rozsáhlou podnikatelskou delegací, přestože čínská ekonomika sama „ekonomicky dodýchává". Rajchl uzavírá, že vzhledem ke klesajícímu podílu EU na světovém HDP si unie ekonomicky nemůže dovolit Green Deal ukončit.
 
 **Zdroje:** [Rajchl — Videoportál 7. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-7-2026)
+
+---
+
+### Evropská komise se reformuje — unijní úředníci přímo v hlavních městech členských zemí (Vrabel, 13. 7. 2026)
+
+Evropská komise zvažuje první komplexní reformu svého fungování za posledních 20 let: větší využití umělé inteligence, rychlejší nábor zaměstnanců a možnost vysílat unijní úředníky přímo do hlavních měst členských států — konečná doporučení má do konce roku 2026 předložit Ursula von der Leyenová. Vrabel to komentuje jako další krok k tomu, že EU „krok po kroku" nahrazuje státní správu jednotlivých zemí vlastní širší byrokratickou sítí přímo v jejich hlavních městech, zatímco vlády (Babiš odmítající referendum o vystoupení z EU) proces mlčky přihlížejí. Předjímá, že výsledkem bude postupné rozpuštění ČR jako svébytného státu — se zachováním jen formálního označení „Česko" na značkách.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Maďarsko: ústavní většina TISZA odvolává prezidenta Šujoka (Vrabel, 13. 7. 2026)
+
+Maďarský parlament schválil sedmnáctý dodatek ústavy ukončující mandát prezidenta Tamáše Šujoka (139 pro, 6 proti, poslanci Fideszu hlasování bojkotovali) — premiér Peter Magyar obvinil opozici (Fidesz) z pokusu ovládnout prezidentský úřad, zatímco vládní TISZA po volbách disponuje ústavní většinou umožňující měnit základní zákon. Vrabel to označuje za nedemokratický precedens srovnatelný s modely nacistického Německa nebo Stalinovým stylem vlády — na svém žebříčku „nejhorších politických podvodníků světa" řadí Petera Magyara na čtvrté místo (za Zelenským, Trumpem a „Reichelem", jeho posměšnou přezdívkou pro Jindřicha Rajchla).
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)

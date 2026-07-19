@@ -410,3 +410,27 @@ Místopředseda ruské bezpečnostní rady Dmitrij Medveděv ostře kritizoval p
 K aktuálním zprávám o dočasném omezení vojenských operací mezi Íránem a USA (zprostředkovávají Pákistán a Katar) Vrabel opakuje tezi, kterou prý sleduje od začátku zpráv o konfliktu: každý týden se opakuje stejný vzorec — pondělí a úterý eskalace a útoky, ve středu a čtvrtek se situace „lepší", v pátek přichází dobré zprávy a klid, o víkendu se znovu začne útočit a v pondělí je opět „katastrofa". Toto střídání dává do souvislosti s obchodováním na burze: Donald Trump podle něj potřebuje na víkend nízké ceny ropy a rostoucí akciové trhy, aby bylo možné obchodovat, a cyklus se tak opakuje již čtyřicátý týden, aniž by si toho podle Vrabela někdo všiml.
 
 **Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
+
+---
+
+### USA obnovují „blokádu" Hormuzu — 20% poplatek z hodnoty přepravovaného nákladu (Vrabel, 13. 7. 2026)
+
+Donald Trump oznámil, že USA obnovují kontrolu nad Hormuzským průlivem a budou od proplouvajících lodí vybírat poplatek ve výši 20 % hodnoty přepravovaného nákladu za „zajištění bezpečnosti" trasy, kterou prochází pětina světových dodávek ropy a plynu. Vrabel to ironizuje jako „mýtné" srovnatelné s DPH a přirovnává k tomu, že by si kdokoli mohl analogicky začít vybírat poplatky na jakémkoliv strategickém úseku silnice — poukazuje na absurditu toho, že USA takto zpoplatňují cizí mezinárodní vodní cestu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Rubio ovládá výnosy z venezuelské ropy přes loutkovou prezidentku — „americký Macinka" (Vrabel, 13. 7. 2026)
+
+Podle deníku New York Times americký ministr zahraničí Marco Rubio rozhoduje o rozdělování výnosů z venezuelského vývozu ropy, které nejprve inkasuje Washington a teprve poté „dle vlastního uvážení" uvolňuje venezuelské vládě — je v pravidelném kontaktu s prozatímní prezidentkou Rodríguezovou. Vrabel to popisuje jako čistě mafiánský model: srovnává ho s únosem venezuelského prezidenta (uvězněného v USA, viz [dřívější zápis o Madurovi](#nepsaná-pravidla-mezi-hlavami-států--usa-varovaly-írán-před-dalším-atentátem-kontrast-s-venezuelou-vrabel-3-7-2026)) a dosazením loutky, která plní pokyny „amerického jednatele" — Rubia označuje za „amerického Macinku".
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+
+---
+
+### Írán hrozí válkou zemím podporujícím USA vojensky — plán ČR poslat radary do Hormuzu; Macinka v Izraeli (Vrabel, 13. 7. 2026)
+
+Teherán varoval, že jakoukoli logistickou či vojenskou pomoc americkým silám bude považovat za přímé zapojení do války proti Íránu. Vrabel na to upozorňuje v souvislosti s tím, že ČR se údajně chystá vyslat do oblasti Hormuzu vlastní radary — z íránského pohledu by se tak ČR mohla stát legitimním cílem. Zmiňuje také, že ministr zahraničí Petr Macinka odcestoval na dvoudenní návštěvu Izraele s doprovodem 30 českých podnikatelů, a připomíná, že česká vláda předem oznámila, že bude vetovat jakoukoli případnou rezoluci EU proti Izraeli — řadí to k důkazům jednostranné proamerické a proizraelské orientace české zahraniční politiky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
