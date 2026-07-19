@@ -2877,3 +2877,12 @@
 - **Délka:** 00:01:16
 - **Poznámka:** Zpracováno 1 téma: Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 9. 7. 2026 {#ladislav-vrabel--zprávy-v-devět-9-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-09_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1395678025794000>
+- **Datum záznamu:** 2026-07-09
+- **Délka:** 00:46:23
+- **Poznámka:** Zpracováno 11 témat: (1) Vláda hodnotí 6 měsíců, neplněné klíčové sliby, PURL — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Zuna/SPD obhajuje PURL, porušené předvolební sliby — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Chat control 2.0 schválen, opakované hlasování — [digitalni-kontrola.md](digitalni-kontrola.md). (4) Globální vzorec perzekuce kritiků (Scott, Ritter, Bystroň, Assange, Brand, Füllmich, Čermák) — [politicky-system.md](politicky-system.md). (5) Maďarský influencer Šakáč zadržen, právo na odpor — [politicky-system.md](politicky-system.md). (6) NATO/Palantir „Maven" digitální dohled nad východním křídlem — [digitalni-kontrola.md](digitalni-kontrola.md). (7) Polský expolitik posílá pomoc ruským vojákům — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Potyčky ve Lvově s náboráři — [valka-nato-rusko.md](valka-nato-rusko.md). (9) Solovjov: boj proti satanistickému Západu — [valka-nato-rusko.md](valka-nato-rusko.md). (10) Trump a Grónsko, dvojí metr mezinárodního práva — [valka-nato-rusko.md](valka-nato-rusko.md). (11) Německo kupuje Tomahawk, útočné vs. obranné zbraně — [valka-nato-rusko.md](valka-nato-rusko.md). Stoch. teror: přání zavraždění Trumpa — [stochasticky-teror.md](stochasticky-teror.md).
+- **Zpracováno:** ano

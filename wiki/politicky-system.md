@@ -481,6 +481,22 @@ Jako kontrast uvádí případ Coubala — Pavlova sponzora, který za způsoben
 
 ---
 
+### Globální vzorec perzekuce kritiků globalistické agendy (Vrabel, 9. 7. 2026)
+
+K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vyslýchán podle protiteroristické legislativy, zabaveno elektronické zařízení, aniž byl z čehokoliv obviněn) Vrabel rozšiřuje seznam podobných případů pronásledování lidí kritických k „globalistické agendě" po celém světě: Scott Ritter (bývalý zbrojní inspektor OSN, nátlak na jeho ruskou manželku, aby ho udala jako ruského agenta), Petr Bystroň (poslanec Evropského parlamentu za AfD — sedm domovních prohlídek na základě obvinění z napojení na „ruského vlivového agenta", stejná technika, jakou se dle Vrabela pokusili použít i na něj samotného v Bělehradě), Julian Assange, Russell Brand (obviněn z několika znásilnění), Reiner Füllmich (stále ve vězení v Německu) a Tomáš Čermák (stále ve vězení v ČR). Vrabel to shrnuje jako systém, kdy elitářská vláda „oligarchů" a miliardářů (Trump, Babiš a další) pracujících pro nadnárodní bankovní/finanční zájmy potřebuje umlčet skutečnou opozici — nejprve skrze policii, státní zástupce a vykonstruované soudní procesy, v krajním případě vězením nebo zabíjením.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
+### Maďarský influencer zadržen za výrok na podporu Orbána — právo na odpor (Vrabel, 9. 7. 2026)
+
+Maďarský tvůrce obsahu Ištvan Šakáč byl 8. 7. zadržen po domovní prohlídce (sedm policistů) poté, co na Facebooku napsal, že pokud by byl Viktor Orbán nezákonně „odveden" (zatčen), nenechají to bez odezvy. Vrabel jeho výrok obhajuje s odkazem na institut práva na odpor zakotvený v článku 23 Listiny základních práv a svobod ČR — pokud by šlo o nezákonný zákrok proti dlouholetému premiérovi, je podle něj legitimní, aby se jeho příznivci postavili na odpor. Srovnává to s vlastní výzvou k odporu na Václavském náměstí v roce 2022 a řadí zadržení Šakáče do stejné kategorie jako pronásledování britského aktivisty „Tommyho Robinsona" — jako součást vzorce popsaného výše.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
 ### Vlastní „Cena za svobodu projevu" a kritika oficiálních nominací (Zítko, 8. 7. 2026)
 
 Během sjezdu ve Vysočině dostal Zítko od jedné z účastnic žertovné ocenění nazvané „Cena Sira Nicholase Wintona" — s odůvodněním, že „zachránil životy" v době „covid genocidy" (odkaz na Wintonovu záchranu 669 dětí za druhé světové války). Zítko to dává do kontrastu s oficiální anketou Společnosti pro obranu svobody projevu: s letošními nominovanými odborné poroty (mj. **Cyril Svoboda**, **Ilona Švihlíková**, **Markéta Dobiášová**) zásadně nesouhlasí — Cyrila Svobodu označuje za právníka stojícího za „novou ústavou korporace České republiky" a za rozdělením Československa, tedy jako někoho, kdo se svobodou slova nemá nic společného. Kritizuje i loňský ročník ceny: podle jeho slov organizátoři odmítli zveřejnit, kolik z více než 3 000 veřejných nominačních hlasů připadlo komu, a vítězi byli převážně právníci, novináři nebo mrtví (Dominik Duka, Charlie Kirk). Jako opomíjené „skutečné hrdiny" svobody slova jmenuje sebe a **Tomáše Čermáka** (v souvislosti s tímto videem uvádí trest 5,5 roku za „expresivní vyjádření" vůči „covidovým vrahům" — dříve, 17. 5. 2026, byl u Černohorského stejný případ popsán jako „6 let za výhružky politikům", viz výše) a vyzývá diváky, aby do ankety nominovali lidi pronásledované za covidové varování, nikoli mediálně známé osobnosti.

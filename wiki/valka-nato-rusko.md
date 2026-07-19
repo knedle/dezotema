@@ -540,6 +540,14 @@ Poslanec strany Právo a spravedlnost Dariusz Matecki ve svém projevu v Sejmu k
 
 ---
 
+### Potyčky ve Lvově s náboráři — Vrabel schvaluje odpor proti mobilizaci (9. 7. 2026)
+
+Ve Lvově došlo k potyčkám mezi obyvateli a pracovníky ukrajinských náborových center poté, co se náboráři pokusili zadržet mladého muže. Vrabel to interpretuje jako důkaz, že se Zelenského režim „rozpadá" kvůli nedostatku vojáků na frontě — připomíná i nedávné vyjádření bývalého velitele Valerije Zalužného, že Ukrajina navzdory tvrzením o vítězství ve skutečnosti nevítězí. Odpor obyvatel vůči násilnému odvádění (dle některých odhadů Ukrajina ztratila přes 2,5 milionu lidí) jednoznačně schvaluje jako legitimní postavení se za vlastní práva proti „jednomu procentu mocných", i když lituje, že to lidem došlo tak pozdě.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
 ## Vyjednávání a mír
 
 ### EU mírový plán (DE/FR/UK) + Babiš chce Merze; Německo vypadlo z Rady bezpečnosti OSN (Vrabel, 4. 6. 2026)
@@ -1162,6 +1170,14 @@ Ministerstvo obrany koupilo rezidenční komplex v Jincích (274 mil. Kč, půvo
 
 ---
 
+### Německo kupuje rakety Tomahawk — „obranná" zbraň, která je ve skutečnosti útočná (Vrabel, 9. 7. 2026)
+
+Německý kancléř Friedrich Merz na okraji setkání v Ankaře oznámil dohodu s USA o nákupu a rozmístění řízených střel Tomahawk, s odůvodněním, že tím Německo „odstraňuje důležitou strategickou mezeru v obraně". Vrabel toto označení odmítá: Tomahawk je podle něj čistě útočná zbraň určená k likvidaci cílů na cizím území, nikoli k obraně vlastního — na rozdíl třeba od systému Patriot, kterým lze střely sestřelovat. Řadí ji do stejné kategorie jako jaderné zbraně na palubě francouzských Rafale (rakety ASMP) nebo amerických F-35 (klouzavé bomby B61), které mu chce dodat Andrej Babiš — jaderné zbraně podle něj nelze použít k obraně vlastního území, aniž by si stát sám kontaminoval vlastní půdu radioaktivitou, takže jejich jediný smysl je útok na nepřítele. Dokládá to osobní vzpomínkou manželky (Srbka) na bombardování Jugoslávie NATO v roce 1999 (78 dní, Tomahawky letící „pomalu" a nepředvídatelně, Srbové chránící mosty improvizovanými večírky) jako příklad toho, že NATO — navzdory své sebeprezentaci jako obranné aliance — už jednou útočilo na cizí, neagresivní zemi a dodnes drží vojska v Kosovu. Podobně odmítá rámování chystaného „jaderného deštníku" (možná dohodnutého na příštím jednání „koalice ochotných" v Paříži) jako obranného nástroje — jde podle něj o umístění útočných jaderných zbraní, ne o štít.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
 ## EU jako vojenská struktura
 
 ### Odmítnutí EU armády a jaderného štítu — diplomacie místo přípravy na válku
@@ -1672,3 +1688,39 @@ V reakci na sněmovní projev Martina Kupky o nutnosti navýšit obranné výdaj
 Rajchl reaguje na oznámení ministra zahraničí Petra Macinky, že přesměruje část mandatorních výdajů ministerstva zahraničí do programu **PURL** (viz [PURL a „NATO Review 3.0" — Vrabel, 18. 6.](#purl-a-nato-review-30-usa-přesouvá-zbrojení-i-riziko-na-evropu-vrabel-18-6-2026)), jehož účelem je podle něj shromažďovat peníze evropských a kanadských daňových poplatníků na nákup amerických zbraní pro Ukrajinu. Kategoricky odmítá, aby z českého státního rozpočtu šla na zbraně pro Ukrajinu byť jediná koruna — odvolává se na předvolební slib i na závazek z programového prohlášení vlády prosazovat ukončení konfliktu diplomatickou cestou, který by tímto krokem (podobně jako dříve vláda Petra Fialy) byl porušen. Slibuje, že on i klub SPD budou požadovat revizi rozhodnutí bez ohledu na tlak EU či NATO, a dodává, že mu nezáleží na tom, aby ho za tento krok chválili Petr Pavel nebo Mark Rutte — naopak by to považoval za varovné znamení.
 
 **Zdroje:** [Rajchl — Videoportál 8. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-purl-macinka-8-7-2026)
+
+---
+
+### Vláda hodnotí 6 měsíců — neplněné klíčové sliby, PURL nakonec ČR stejně zaplatí (Vrabel, 9. 7. 2026)
+
+K vládnímu hodnocení prvního půl roku (Babiš: splněno/rozpracováno 978 z celkových úkolů programu, jako úspěchy uvádí nízkou inflaci a ceny energie) Vrabel namítá, že podstatné není plnění procent programu, ale klíčových předvolebních slibů — a ty podle něj plněny nejsou: snížení věku odchodu do důchodu (vláda to svaluje na EU), konec zelené politiky (motoristé nyní prosazují umístění 500 větrníků do ČR, protože to chce EU) a zastavení plateb na zbraně Ukrajině. K poslednímu bodu počítá konkrétní dopad: Babiš v prosinci na summitu EU odsouhlasil 90 mld. eur pro Ukrajinu (z toho 60 mld. na zbraně) — ČR sice za půjčku neručí (na rozdíl od ostatních členských států), ale to je podle Vrabela horší, protože to znamená, že ČR ji platí přímo přes příspěvky do rozpočtu EU bez ohledu na to, zda EU zkrachuje. Jen úrok (cca 32 %) z českého podílu vychází na řádově miliardu korun ročně, což při odhadované 15leté splatnosti dělá zhruba 45 miliard Kč — proto označuje Babišovo tvrzení, že ČR neposílá peníze na zbraně, za „čistou lež". Podobně kritizuje ministra zahraničí Petra Macinku za cestu do Německa k výročí konce 2. světové války („líbat nohy Němcům") a oznámení příspěvku do programu PURL (viz výše).
+
+Ministr obrany Jaromír Zuna (SPD) k příspěvku do PURL uvedl, že nejde o porušení koaliční smlouvy, přiznal však, že o něm předem nevěděl. Vrabel namítá, že nejde o formální porušení smlouvy, ale o porušení předvolebních slibů SPD — strana slibovala zrušení letadel F-35 i české muniční iniciativy, a nakonec dělá pravý opak (Zuna letadla F-35 naopak označil za „skvělou volbu pro ČR").
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
+### Bývalý polský poslanec posílá humanitární pomoc ruským vojákům (Vrabel, 9. 7. 2026)
+
+Bývalý polský poslanec Krzysztof Tołwiński zakoupil léky a zdravotnický materiál pro příslušníky ruské armády, čímž chtěl vyjádřit nesouhlas se zahraniční politikou polské vlády vůči Rusku, a nabídl další pomoc, pokud by ji ruští vojáci potřebovali. Vrabel jeho krok schvaluje a odmítá, že by šlo o kolaboraci či zradu — v situaci, kdy je podle něj „99 % společnosti zfanatizováno" protiruskou náladou, vidí v takovém gestu jen vyvážení extrémní protiruské fóbie, ne podporu Ruska jako takového. Srovnává to s vlastní organizací demonstrace za urovnání vztahů s Ruskou federací v roce 2024 — cílem není práce pro Rusko, ale snaha o normální diplomatické vztahy ČR se všemi zeměmi světa.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
+### Solovjov: „boj proti zkorumpovanému satanistickému Západu" — Vrabel souhlasí (9. 7. 2026)
+
+Ruský moderátor Vladimír Solovjov ve svém pořadu prezentoval pohled Kremlu na válku na Ukrajině: Rusko podle něj vede boj proti zkorumpovanému Západu a ruský voják představuje obránce tradičních hodnot. Vrabel s tímto výkladem souhlasí a rozvíjí ho vlastní tezí, kterou prý zastává od roku 2022: politický systém na Západě je „pokřivený", politici pracují pro peníze, ne pro lidi, a jejich nenasytnost je nakonec žene k podpoře zbrojního průmyslu (kde se točí „stovky miliard") a k prosazování válek, aby peníze dál přitékaly. Popisuje Západ jako „totálně morálně v troskách" — občané zemí jsou zadluženi, majetek byl rozprodán globalistům, malé podniky zlikvidovány ve prospěch nadnárodních firem neplatících daně, a evropský průmysl se přeorientovává na neustálou výrobu a ničení zbraní. Uzavírá, že současný konflikt je skutečně bojem proti „zlu, které rozkvetlo na Západě".
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
+### Trump a Grónsko — dvojí metr mezinárodního práva (9. 7. 2026)
+
+Donald Trump prohlásil, že další přítomnost amerických vojsk v Evropě bude záviset na tom, zda se USA podaří uzavřít „dobrou dohodu" ohledně Grónska a zda evropští spojenci poskytnou skutečnou podporu USA v Íránu — s odůvodněním, že získání Grónska je potřebné „pro bezpečnost světa", nikoli přímo USA. Vrabel na tom ukazuje dvojí metr mezinárodní politiky: Trump si nárokuje cizí území (Grónsko, dříve Venezuela, Kuba) bez ohledu na chartu OSN, územní celistvost či mezinárodní právo — sám prohlásil, že jedinou hranicí je pro něj „jeho svědomí" — a svět na to jen přihlíží. Kritizuje reakci české a evropské diplomacie (konkrétně ministra Macinku) jako podřízenou vůči USA — Evropa podle něj po „diverzifikaci" od ruských energií skončila v závislosti na dražších amerických dodávkách a nyní i na vynuceném dovozu geneticky modifikovaných potravin výměnou za energie, což označuje za pokračování koloniálního vztahu USA k Evropě od roku 1974.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)

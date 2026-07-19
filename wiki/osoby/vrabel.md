@@ -330,6 +330,8 @@
 - **23. 6.** — protesty mají smysl (Francouzská revoluce, Srbsko Rio Tinto/dvoje volby); ČR 2022 „nevydržela", podpora Rajchla = „největší politická chyba" — [Zprávy v devět 23. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 - **25. 6.** — idealizace socialistického Československa (220 tis. vojáků, 5–10 % HDP, přesto bezplatné školství/zdravotnictví, důchod v 60, nulová nezaměstnanost); dluh tehdy 3,7 mld $ vs. dnes 169 mld $ — dřív se „rozkradlo 10 % ale vrátilo do oběhu", dnes „odváží ven ze země" — [Idealizace socialistického Československa 25. 6.](../_zdroje.md#ladislav-vrabel--idealizace-socialistického-československa-25-6-2026)
 - **5. 7.** — film Citizen Vigilant + sen o zabití Zelenského — teze „systém, ne člověk"; Vondráčkovo „odebrání pravomocí prezidenta" jako mediální manipulace — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+- **9. 7.** — globální vzorec perzekuce kritiků (James Scott/RT, Scott Ritter, Petr Bystroň, Assange, Russell Brand, Füllmich, Čermák) — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- Maďarský influencer Ištvan Šakáč zadržen za výrok na podporu Orbána — obhajuje právem na odpor (čl. 23 Listiny) — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -370,6 +372,16 @@
 - ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [konspirace.md](../konspirace.md)
 - MO koupilo bytový komplex v Jincích pro vojáky; vlastní vzpomínka na šikanu na vojně — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - **5. 7.** — ⚡ Konflikt: odmítá Rajchlův návrh na odebrání Řádu bílého lva jako prázdné gesto; konkrétní návrh zahraniční politiky ČR podle vzoru Srbska (vojenská neutralita + obchod se všemi bloky); doplnění BRICS a jaderných zbraní (UK→Německo, Francie→Polsko) — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+- **9. 7.** — vláda hodnotí 6 měsíců, neplněné klíčové sliby (důchodový věk, větrníky, Ukrajina); PURL nakonec ČR platí přes rozpočet EU (~45 mld. za 15 let); Zuna/SPD obhajuje PURL, porušené sliby (F-35, muniční iniciativa) — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- Bývalý polský poslanec posílá humanitární pomoc ruským vojákům — schvaluje jako vyvážení protiruské hysterie — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- Potyčky ve Lvově s náboráři — schvaluje odpor proti mobilizaci, Zalužný přiznává, že Ukrajina nevítězí — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- Solovjov: boj proti „satanistickému Západu" — souhlasí s ruským výkladem konfliktu — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- Trump a Grónsko — dvojí metr mezinárodního práva, USA jako koloniální mocnost vůči Evropě — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- Německo kupuje rakety Tomahawk — útočná, ne obranná zbraň; osobní vzpomínka manželky na bombardování Jugoslávie 1999 — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md)
+- Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- NATO/Palantir „Maven" — digitální dohled nad východním křídlem, Peter Thiel a technokracie — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 
 ---
 
@@ -659,6 +671,14 @@
 | Tomio Okamura | ❌ negativní | „Falešná karta" — SPD je absolutně centrálně řízená strana, nikdo si netroufne jít proti němu | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
 | Libor Vondráček | ❌ negativní | Prosadil změnu prezentovanou jako „odebrání pravomocí prezidenta" — Vrabel: jde jen o formální přesun jmenovacího úkonu, mediální manipulace | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
 | Aleksandar Vučić | ✅ pozitivní | Model vojenské neutrality + obchodu se všemi bloky (270 tis. lidí na shromáždění) — vzor pro zahraniční politiku ČR | 2026-07-05 | [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026) |
+| Andrej Babiš | ❌ negativní | Hodnocení 6 měsíců vlády — tvrzení o neplacení zbraní Ukrajině označeno za „čistou lež" (ČR platí ~45 mld. přes rozpočet EU) | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Petr Macinka | ❌ negativní | Cesta do Německa „líbat nohy Němcům"; oznámil příspěvek do PURL; kritizován za podřízenost vůči USA v otázce Grónska | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Jaromír Zuna | ❌ negativní | Obhajuje příspěvek do PURL jako neporušující koaliční smlouvu, ač SPD slibovalo zrušení F-35 a muniční iniciativy — nyní F-35 označuje za „skvělou volbu" | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Peter Thiel | ❌ negativní | Zakladatel Palantiru, „PayPal mafie", sponzor J. D. Vance — prosazuje technokracii (vládu skrze technologie/experty) místo demokracie | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Krzysztof Tołwiński | ✅ pozitivní | Bývalý polský poslanec — posílá humanitární pomoc ruským vojákům, Vrabel to schvaluje jako vyvážení protiruské hysterie | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Vladimir Solovjov | ✅ pozitivní | Ruský moderátor — jeho výklad boje proti „zkorumpovanému satanistickému Západu" Vrabel podepisuje | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Donald Trump | ❌ negativní | Nárokuje si Grónsko bez ohledu na mezinárodní právo („jediná hranice je moje svědomí") — Vrabel: „vůbec bych se nedivil, kdyby ho někdo zavraždil" (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
+| Friedrich Merz | ❌ negativní | Prezentuje nákup raket Tomahawk jako „obranu" — Vrabel: jde o čistě útočnou zbraň, zavádějící rétorika | 2026-07-09 | [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026) |
 
 ---
 
@@ -737,3 +757,4 @@
 - [Zprávy v devět (3. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
 - [Zprávy v devět (4. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - [Nedělní vysílání (5. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+- [Zprávy v devět (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)

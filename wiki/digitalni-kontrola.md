@@ -115,3 +115,17 @@ Na internet unikly interní záznamy ze soukromé sítě „Dialog" založené t
 Boldy sarkasticky komentuje schválení zákona Evropským parlamentem, který má oficiálně bojovat proti dětské pedofilii, ale podle něj ve skutečnosti slouží k plošnému sledování občanů. Srovnává to s dlouhodobým odposloucháváním ze strany americké Národní bezpečnostní agentury (NSA), které trvá už přes 20 let, a interpretuje krok EU jako další nástroj větší kontroly populace pod hlavičkou digitalizace a bezpečnosti.
 
 **Zdroje:** [Boldy — Videoportál 9. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
+
+### Chat control 2.0 schválen — opakované hlasování „dokud to neprojde" (Vrabel, 9. 7. 2026)
+
+Vrabel podrobněji rozebírá totéž nařízení, které téhož dne komentoval i Boldy (viz výše): Evropský parlament ve druhém čtení schválil prodloužení tzv. chat control 1.0, umožňující firmám dobrovolně skenovat šifrovanou komunikaci uživatelů kvůli dětské pornografii. Zdůrazňuje dva problematické body. Za prvé procesní: totéž nařízení už jednou neprošlo kvůli odporu veřejnosti, ale jeho zastánci ho „neobvyklým legislativním postupem" vrátili do hlasování a tentokrát prosadili — což podle Vrabela popírá demokratické principy, protože se bude hlasovat opakovaně, dokud výsledek nevyhoví globalistům. Za druhé věcný: podle Vrabela jde o konec reálně šifrované komunikace — poskytovatelé budou muset kontrolovat veškerý obsah, ne jen podezřelý, a klíčové šifrovací klíče jsou už dnes v rukou jen několika málo západních subjektů. Vidí v tom rozšíření kontroly z ovlivňování voleb přes sociální sítě až k přímému čtení soukromých zpráv občanů — nástroj vlády elit, ne demokracie.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
+### NATO buduje digitální dohled nad východním křídlem — systém Palantir „Maven" (Vrabel, 9. 7. 2026)
+
+NATO připravuje rozsáhlý systém digitálního dohledu nad východním křídlem aliance (od Finska po Rumunsko) postavený na vojenské AI platformě **Maven** od Palantiru (viz [Palantir/Anthropic a technologická suverenita EU](#palantiranthropic-a-technologická-suverenita-eu-vrabel-18-6-2026)) — má propojit satelity, drony, radary, kamery a pozemní senzory pro rychlejší sledování pohybu ruských sil a rozhodování v krizi, pod přístupem „první vidět, první rozhodnout, první udeřit". Vrabel to čte jako potvrzení své od roku 2022 opakované teze o obklíčení Ruska hraničními státy NATO (Pobaltí, Finsko, Polsko, Slovensko, ČR, Maďarsko, Bulharsko, Rumunsko, Moldavsko) coby přípravě na útok pomocí letadel F-35 schopných nést jaderné zbraně. Podrobněji představuje samotný Palantir a jeho zakladatele Petera Thiela (spolu s Elonem Muskem tzv. „PayPal mafie", hlavní sponzor J. D. Vance, prosazovatel „technokracie" — vlády řízené technologií a experty místo demokracie) — technologie podle něj nejen sleduje a vyhodnocuje hrozby, ale dokáže na základě zadání i přímo spustit útok zbraněmi (přirovnává ji k fiktivnímu Skynetu z Terminátora).
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
