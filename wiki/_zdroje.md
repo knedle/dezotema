@@ -2868,3 +2868,12 @@
 - **Délka:** 00:58:02
 - **Poznámka:** Zpracováno 3 témata: (1) Pokles porodnosti 2021–2025 o 30 % přisuzován covid vakcínám (rozšíření existující teze) — [covid-vakciny.md](covid-vakciny.md). (2) Vlastní „Cena za svobodu projevu" a kritika oficiálních nominací Společnosti pro obranu svobody projevu — [politicky-system.md](politicky-system.md). (3) Numerologický „portál Sýria" 7.7.2026 — [konspirace.md](konspirace.md). Neprocesovány: osobní vyprávění o blokaci FB účtu a sraz „Ráj" (logistika/osobní). Stoch. teror: jmenovité napadení novinářů (Pizda, Ciroková, Lukáš Valášek) jako „sráčů" — [stochasticky-teror.md](stochasticky-teror.md).
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál 9. 7. 2026 {#konspirátor-boldy--videoportál-9-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-09_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1568058774926247>
+- **Datum záznamu:** 2026-07-09
+- **Délka:** 00:01:16
+- **Poznámka:** Zpracováno 1 téma: Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

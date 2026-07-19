@@ -107,3 +107,11 @@ Na internet unikly interní záznamy ze soukromé sítě „Dialog" založené t
 > „To je 200 vlivných lidí, kteří se scházejí a rozhodují o našich životech, aniž bychom věděli, kdo to je. To nemá s demokracií co dělat." — Ladislav Vrabel, [Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
+
+---
+
+### Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii (Boldy, 9. 7. 2026)
+
+Boldy sarkasticky komentuje schválení zákona Evropským parlamentem, který má oficiálně bojovat proti dětské pedofilii, ale podle něj ve skutečnosti slouží k plošnému sledování občanů. Srovnává to s dlouhodobým odposloucháváním ze strany americké Národní bezpečnostní agentury (NSA), které trvá už přes 20 let, a interpretuje krok EU jako další nástroj větší kontroly populace pod hlavičkou digitalizace a bezpečnosti.
+
+**Zdroje:** [Boldy — Videoportál 9. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)

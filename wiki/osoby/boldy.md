@@ -32,6 +32,9 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 ### [Blízký východ](../blizky-vychod.md)
 - Mlčení médií o Gaze jako propaganda — nezávislí novináři mrtví/zajatí — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 
+### [Digitální kontrola](../digitalni-kontrola.md)
+- Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii, srovnání s NSA — [9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
+
 ### [COVID a vakcíny](../covid-vakciny.md)
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 - Depopulace jako cíl elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
@@ -76,3 +79,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [FB Live 24. 5. 2026](../_zdroje.md#konspirátor-boldy--fb-live-24-5-2026)
 - [Píseň proti větrníkům na Moravě (3. 6. 2026)](../_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
 - [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+- [Videoportál 9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
