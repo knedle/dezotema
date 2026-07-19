@@ -33,6 +33,9 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 - Nedůstojné chování Pavla při hymně v Karlových Varech jako důkaz „loutkovosti" politiků — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 
+### [Kauzy](../kauzy.md)
+- Pavlovo pokrytectví v kauze Turek — Černochová loni bourala bez následků, Pavel žádá Turkovu rezignaci — [15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)
+
 ### [Blízký východ](../blizky-vychod.md)
 - Mlčení médií o Gaze jako propaganda — nezávislí novináři mrtví/zajatí — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 
@@ -69,6 +72,9 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Amy Eskridge | ✅ pozitivní | Vědkyně zkoumající volnou energii — dle Boldyho zavražděna energetickou zbraní, protože ohrožovala zájmy energetiky a farmaceutického průmyslu | 2026-07-07 | [Videoportál 7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026) |
 | Petr Macinka | ❌ negativní | Vulgárně dehumanizován a obviněn z napojení na sektu Chabad-Lubavič (antisemitská konspirace, sionismus, drogy) (→ [stoch. teror](../stochasticky-teror.md)) | 2026-07-11 | [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026) |
 | Petr Pavel | ❌ negativní | Nedůstojné chování při hymně v Karlových Varech (škrábání na hlavě) — příklad „loutkovosti" politiků | 2026-07-11 | [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026) |
+| Petr Pavel | ❌ negativní | Označen za „největšího pokrytce" a „zaprodance" v souvislosti s kauzou Turek — sám porušuje ústavu, ale drží se u moci díky podpoře korporací | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
+| Jana Černochová | ○ neutrální | Uvedena jako příklad dvojího metru — loni bourala s majáky bez následků na rozdíl od Turka | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
+| Filip Turek | ○ neutrální | Uveden jako objekt tlaku na rezignaci po dopravní nehodě — dvojí metr vůči Černochové | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
 
 ---
 
@@ -88,3 +94,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
 - [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 - [Videoportál 13. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-13-7-2026)
+- [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)

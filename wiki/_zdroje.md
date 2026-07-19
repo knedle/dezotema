@@ -3012,3 +3012,12 @@
 - **Délka:** 00:02:29
 - **Poznámka:** Zpracováno 1 téma: SPD odmítá Mezinárodní komisi pro odškodnění Ukrajiny jako podvod EU — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál 15. 7. 2026 {#konspirátor-boldy--videoportál-15-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-15_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1002781172658340>
+- **Datum záznamu:** 2026-07-15
+- **Délka:** 00:01:31
+- **Poznámka:** Zpracováno 1 téma: Pavlovo pokrytectví v kauze Turek vs. Černochová — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

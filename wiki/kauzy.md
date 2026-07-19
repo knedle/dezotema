@@ -397,6 +397,10 @@ Rajchl odmítá snahy Pirátů připravit Agrofert o dotace EU a označuje je za
 
 > „Nikdy, nikdy, nikdy nebudu na Andreje Babiše útočit přes Čapí hnízdo, přes jeho syna, nebo přes Agrofert. To je absolutně ubohé." — Jindřich Rajchl, [Facebook Live 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
+**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+
+---
+
 ### Evropský prokurátor zahájil trestní řízení kvůli dotacím Agrofertu (Vrabel, 14. 7. 2026)
 
 Evropský prokurátor zahájil trestní řízení ve věci dotací pro Agrofert poté, co na to reagoval na stížnost Pirátů. Vrabel připomíná, že Babišův střet zájmů nebyl vyřešen převodem firmy do svěřenského fondu, a nečeká žádné odsouzení — Babiš podle něj zůstává „užitečnou loutkou", která dělá vše, co globalisté chtějí, a proto mu podobná vyšetřování neuškodí.
@@ -415,7 +419,13 @@ Poslanec Filip Turek (vládní zmocněnec pro Green Deal) způsobil v centru Pra
 
 **Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 
-**Zdroje:** [Rajchl — Facebook Live, 31. 5. 2026](_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+---
+
+### Boldy: Pavlovo pokrytectví — Černochová bourala loni bez následků, Turkovi hrozí kvůli tomu rezignace (15. 7. 2026)
+
+Boldy poukazuje na dvojí metr kolem Turkovy nehody: když před rokem v květnu havarovala se svým vozem s majáky ministryně Jana Černochová, nikdo neřešil její rezignaci. Když ale boural Turek, ozval se s požadavkem na okamžitou rezignaci (v případě prokázané viny) prezident Petr Pavel — kterého Boldy označuje za „největšího pokrytce" a „zaprodance": sám prý porušuje ústavu a veřejně používá vulgarismy, přesto zůstává u moci jen díky podpoře „korporací" a demonstrací Milionu chvilek, které ho brání jako „loutku korporátu a vojensko-průmyslového komplexu".
+
+**Zdroje:** [Boldy — Videoportál 15. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)
 
 ## Kauza Ladislav Vrabel — dotační podvod
 
