@@ -781,3 +781,23 @@ Vladimíra Vítová (hostka v panelové debatě Ladislava Vrabela k summitu NATO
 
 ---
 
+### „Tartárie" a rok 1776 — potlačená svobodná energie a nadcházející „Zlatý věk" (Zítko, 16. 7. 2026)
+
+Zítko sdílí a schvaluje text vážící se k výročí 1776 (250 let od americké Deklarace nezávislosti): tvrdí, že rok 1776 nebyl skutečným počátkem USA, ale „krytím" — ve skutečnosti šlo o zánik starší, vyspělejší a svobodnější civilizace zvané Tartárie, kterou tehdejší mocnosti (v textu opakovaně zmiňovaní Rothschildové) vymazaly z map a nahradily systémem centrálních bank, dluhového otroctví, námořního práva a „umělého nedostatku" — volná energie (éter) byla nahrazena fosilními palivy, pravda „spiknutím/dezinformací", duch náboženstvím a svoboda iluzí. Podle textu má současná generace tuto skutečnost postupně odhalovat a lidstvo směřuje k „Zlatému věku", kdy budou uvolněny potlačené Teslovy vynálezy (~6000 patentů). Zítko to spojuje s dalšími numerologickými narážkami (Trumpův projev údajně 32 minut před výročím odletu letadla JFK juniora, souvislost s daty UFC Freedom 250).
+
+⚡ **Poznámka:** Teorie o „Tartárii" je rozšířená internetová konspirace bez historického podkladu.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
+---
+
+### George Soros — „konec impéria", Trump vyšetřuje globální síť (Zítko, 16. 7. 2026)
+
+Zítko sdílí sérii QAnon tvrzení o Georgi Sorosovi: popisuje ho jako vrchol „pyramidy" financující přes 200 zemí, síť neziskovek (Open Society, Tides, Ford Foundation), zkorumpované státní zástupce a soudce (konkrétně zmiňuje soudce „Barrona", který měl přijmout úplatek a zablokovat Trumpovu politiku) i mezinárodní organizace (OSN, Světová banka, MMF). Tvrdí, že Trump nařídil vyšetřování Sorosovy sítě, označil jeho organizace za domácí teroristické skupiny a že FBI provádí razie — to vše má být „největší donucovací opatření proti globalistické síti v historii". Dodává, že hlavní viníci (Clintonovi, Obama) už byli dle jeho dřívějších tvrzení dávno „vyřízeni na Gitmu" a že současný veřejný Soros je jen dvojník. Jmenuje i domácí novináře/aktivisty (Roman Máca, Jan Semper) jako součást stejné financované sítě.
+
+⚡ **Poznámka:** Neověřené QAnon tvrzení bez opory v ověřitelných zdrojích.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
+---
+

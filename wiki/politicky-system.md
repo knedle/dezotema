@@ -537,7 +537,9 @@ Během sjezdu ve Vysočině dostal Zítko od jedné z účastnic žertovné ocen
 
 **15. 7.** — Zítko konstatuje nízkou aktivitu diváků (u Kocijánové zatím jen devět příspěvků vůči tisícům zhlédnutí) a znovu vyzývá k hlasování; zmiňuje také souběžně startující anketu Křišťálová lupa (Cena Českého internetu), kterou dosud nesledoval, ale nyní vyzývá diváky k aktivní účasti i tam.
 
-**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
+**16. 7.** — Zítko zveřejňuje průběžné výsledky hlasování: u Pavla Matochy vede Luboš Xaver Veselý (138 hlasů, po Matochově nedávném rozhovoru s ním), následuje Václav Klaus (75), Karel Janeček (25), Jana Škopková (15) a Aleš Borovan (nejméně) — u Martiny Kocijánové mezitím přibylo na 12 komentářů, poděkoval jmenovitě přispěvatelům (Petr Marhaňka, Romy Havlínová, Iveta Molnárová aj.). Zdůrazňuje, že žádný ze čtyř dosavadních porotců nenominoval nikoho z pronásledovaných kritiků covidu (Tomáš Čermák, Iveta Křížová, Luboš Volný, Jana Peterková, Pavel Hejátko), přestože podmínky ceny cílí právě na osoby pronásledované za svobodu projevu — kritizuje to jako důkaz netransparentnosti společnosti, která odmítla zveřejnit i to, koho reálně nominovalo přes 3000 hlasujících z řad veřejnosti.
+
+**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
 
 ---
 

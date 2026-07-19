@@ -699,7 +699,45 @@ Zítko cituje vystoupení muže představeného jako „hlavní toxikolog firmy 
 
 ⚡ **Poznámka:** Jde o neověřené a neověřitelné tvrzení bez dohledatelného zdroje (jméno „Helmut Šterc" ani odpovídající svědectví v oficiálních záznamech Bundestagu nelze dohledat).
 
-**Zdroje:** [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
+**16. 7.** — Zítko pouští druhé, novější video Helmuta Šterce (na KLA TV, s titulky) — Šterc přirovnává farmaceutický průmysl a instituce financované BlackRockem, Světovou bankou a Rockefellerovou nadací k mafiánské pyramidě moci. Zítko k tomu dodává vlastní politickou kritiku: připomíná, že poslanec Jindřich Rajchl na semináři o covidu v Poslanecké sněmovně (leden 2026) teatrálně sliboval prosadit vystoupení ČR z WHO — půl roku poté se ale nic nezměnilo, zatímco Donald Trump z WHO vystoupil hned první den svého úřadu (leden 2025). Rétoricky se ptá, proč se na to Rajchla nikdo nezeptá.
+
+**Zdroje:** [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
+---
+
+### Americká žaloba: 45 000 mrtvých po očkování, citace zprávy CDC o 150 000 mrtvých (Zítko, 16. 7. 2026)
+
+Zítko cituje video amerického advokáta, který podal žalobu na vládu USA kvůli úmrtí 45 000 osob v souvislosti s očkováním proti covidu. Ve svém vlastním spise (téměř 2000 položek) u okresního soudu v Chomutově předložil jako důkaz zprávu CDC z 28. srpna 2021, která podle něj uváděla, že k danému datu bylo ve Spojených státech vakcínou COVID-19 zabito 150 000 lidí a že vakcína měla jednoznačně negativní čistý přínos (víc úmrtí po vakcíně než na samotnou nemoc, s násobným faktorem 25 dle "doktora Šterce"). Doplňuje to opakovanou tezí, že velkou část covidových úmrtí ve skutečnosti způsobil protokol Remdesivir + ventilátory (s odkazem na již dříve citovaného Petersona Pierra — 53% úmrtnost mezi Afričany při dřívějším použití na ebolu, 8 z 10 pacientů zabito ventilátory) — a že účinné léky (ivermektin, hydroxychlorochin) byly záměrně vyřazeny, aby zbylo očkování jako „jediné řešení".
+
+⚡ **Poznámka:** Neověřitelné tvrzení; citovaný obsah zprávy CDC neodpovídá veřejně dostupným datům CDC o úmrtnosti spojené s covidovými vakcínami.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
+---
+
+### FDA a thimerosal: rtuť v dětských vakcínách nikdy neprošla bezpečnostními testy (Zítko, 16. 7. 2026)
+
+Zítko sdílí tvrzení, že ředitel FDA přiznal, že konzervační látka thimerosal (na bázi rtuti), přidávaná do dětských vakcín od roku 1929, nikdy neprošla testy bezpečnosti pro použití u zdravých kojenců. Vyzývá diváky, aby zvážili, zda není jednodušší „odstranit příčinu" (přestat používat látku) než řešit následky sbírkami na léčbu nemocných dětí.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
+---
+
+### Vyšetřování Anthonyho Fauciho kvůli gain-of-function výzkumu (Zítko, 16. 7. 2026)
+
+Zítko sdílí sérii QAnon tvrzení o blížícím se „zúčtování" s Anthonym Faucim: senátor Roger Marshall měl 13. 7. 2026 vyzvat ke zvláštnímu vyšetřování Fauciho financování výzkumu gain-of-function (spojováno s Peterem Daszakem a virologickým institutem ve Wu-chanu); odtajněné dokumenty prý dokazují, že Fauci pomohl vytvořit COVID-19 a lhal Kongresu. Uvádí, že 29. 7. se má konat slyšení v Senátu s Randem Paulem, kde budou předloženy další odtajněné dokumenty, a že Fauciho asistent David Morens je vyšetřován za porušení federálních předpisů. Řadí to k narativu o „konci hlubokého státu" a predikuje, že postupně budou k odpovědnosti voláni i čeští „covidoví" experti (Prymula, Chlíbek, Konvalinka, Hořejší).
+
+⚡ **Poznámka:** Neověřené QAnon tvrzení; nejedná se o zdokumentovaný veřejný proces.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
+---
+
+### Dr. Pierre Corry: novináři jako spoluviníci mlčení o úmrtích po vakcíně (Zítko, 16. 7. 2026)
+
+Zítko cituje amerického lékaře Pierra Corryho, podle kterého je jedním z největších polistopadových (post-pandemických) skandálů to, o čem se v médiích neinformuje: když náhle zemřou mladí, zdánlivě zdraví lidé, novináři se odmítají zeptat, zda byli očkováni proti covidu a zda to mohlo být přispívajícím faktorem. Corry podle Zítka tvrdí, že každý novinář, který se odmítá na tuto souvislost ptát, je spoluviníkem.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
 
 ---
 

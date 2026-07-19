@@ -169,6 +169,16 @@ Füllmich popsal i vězeňský režim a tvrdí, že vyšetřovací vazba je „b
 
 > „Můj případ je jednoznačně politický proces. […] Připravil jsem se na 5 hodin, zredukovali mi čas na 20 minut s cílem mě demotivovat." — Reiner Füllmich (tlumočeno), [Füllmich živě z vězení 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 
+**Zdroje:** [ČsTV2 — Füllmich živě z vězení, 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+
+---
+
+### Perzekuce kritiků covidu v zahraničí — Rose, Noack, Gold (Zítko, 16. 7. 2026)
+
+Zítko sdílí sérii zahraničních svědectví, která dává do paralely s domácími případy (Zítko, Peková, Čermák): doktorka **Jessica Rose** (tým Dr. McCullougha) prezentuje studii o nárůstu myokarditidy u očkovaných dětí; doktor **Andreas Noack** z Rakouska, který během vlastního živého vysílání v listopadu 2021 vysvětloval princip řezání cév nanočásticemi grafenu, byl podle Zítka za toto vysvětlení zavražděn poté, co k němu během vysílání vtrhla policie. Nejpodrobněji líčí případ americké lékařky **Simone Gold** (postavila se proti lockdownům a prosazovala hydroxychlorochin): byla zatčena FBI, označena vládou za teroristku, její dospívající syn byl sledován agenty TSA, bankovní účty zablokovány a pověst zničena — Zítko to popisuje jako vzorec „selektivního pronásledování", který se dle něj odehrával „všude na světě jako přes kopírák", a srovnává ho s trestním stíháním Tomáše Čermáka v ČR.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
 **Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 
 ---
@@ -426,6 +436,10 @@ Poslanec Filip Turek (vládní zmocněnec pro Green Deal) způsobil v centru Pra
 Boldy poukazuje na dvojí metr kolem Turkovy nehody: když před rokem v květnu havarovala se svým vozem s majáky ministryně Jana Černochová, nikdo neřešil její rezignaci. Když ale boural Turek, ozval se s požadavkem na okamžitou rezignaci (v případě prokázané viny) prezident Petr Pavel — kterého Boldy označuje za „největšího pokrytce" a „zaprodance": sám prý porušuje ústavu a veřejně používá vulgarismy, přesto zůstává u moci jen díky podpoře „korporací" a demonstrací Milionu chvilek, které ho brání jako „loutku korporátu a vojensko-průmyslového komplexu".
 
 **Zdroje:** [Boldy — Videoportál 15. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)
+
+**16. 7.** — Zítko rozšiřuje tutéž tezi o dvojím mediálním metru: dopravní nehoda motorkáře (dle Zítka srovnatelná závažností) se stala i Petru Fialovi a Petru Pavlovi, aniž by to média jakkoli řešila — na rozdíl od Turkovy kauzy, která je nepřetržitě medializována.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
 
 ---
 
