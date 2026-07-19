@@ -73,6 +73,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Rozšíření teze o zcinknutých volbách USA 2020 (Dominion, „signál" z Pensylvánie v Bidenově projevu, výpadek internetu) — [Videoportál 11. 7.](../_zdroje.md#československo-tv2--videoportál-11-7-2026)
 - Nicolás Maduro jako dvojník/bývalý řidič autobusu, adrenochrom a financování CIA (13. 7.) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
 - Rozšíření právní argumentace o obnově ČSR (zákon 327/1991, petrohradská konference jako místo poválečného rozhodnutí) — [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
+- Oslava výročí Deklarace o svrchovanosti Slovenska ve Staré Bystrici (Klaus + Mečiar), kritika Pavla, Kamenického kritika EU — [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -185,6 +186,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Petr Švec | ✅ pozitivní | Podplukovník armády — dle Zítka zavražděn/odstraněn za nepohodlnost | 2026-07-13 | [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026) |
 | Nicolás Maduro | ⚖️ rozporuplný | Dle Zítka dvojník — skutečný Maduro byl bývalý řidič autobusu dosazený drogovými kartely jako „kasička" Deep State | 2026-07-13 | [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026) |
 | Jana Katarína Benke | ✅ pozitivní | Moderátorka pořadu Nadsvět, hostitelka rozhovoru — sdílí vlastní svědectví o poškození covid vakcínou | 2026-07-13 | [Nadsvět s hostem 13. 7.](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026) |
+| Václav Klaus | ❌ negativní | Na oslavě ve Staré Bystrici kritizoval Petra Pavla a varoval před zpochybňováním rodiny/státu — Zítko ho obviňuje z pokrytectví jako spolupachatele „vlastizrady" 1992 | 2026-07-12 | [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026) |
+| Vladimír Mečiar | ❌ negativní | Oslavil Deklaraci o svrchovanosti Slovenska jako historický úspěch — Zítko: zamlčel ožebračení národa a likvidaci životní úrovně | 2026-07-12 | [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026) |
+| Ladislav Kamenický | ⚖️ rozporuplný | Slovenský ministr financí — kritizoval EU za ohrožení slovenské suverenity a Green Deal; Zítko: pokrytecké, když stát svrchovanost sám ztratil rozdělením ČSFR | 2026-07-12 | [Nedělní chvilka poezie 12. 7.](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026) |
 
 ---
 
@@ -250,3 +254,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál 8. 7. 2026](../_zdroje.md#československo-tv2--videoportál-8-7-2026)
 - [Videoportál 11. 7. 2026](../_zdroje.md#československo-tv2--videoportál-11-7-2026)
 - [Nadsvět s hostem 13. 7. 2026](../_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
+- [Nedělní chvilka poezie 12. 7. 2026](../_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026)

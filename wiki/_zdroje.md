@@ -2950,6 +2950,15 @@
 - **Poznámka:** Zpracována 4 témata: (1) Slovenští aktivisté René Baláž a Petr Švec označeni za odstraněné za nepohodlnost — [politicky-system.md](politicky-system.md). (2) Osobní svědectví Jany Kataríny Benke o poškození očkováním — [covid-vakciny.md](covid-vakciny.md). (3) Nicolás Maduro jako dvojník/bývalý řidič autobusu, adrenochrom/CIA — [konspirace.md](konspirace.md). (4) Rozšíření právní argumentace o obnově ČSR (zákon 327/1991, petrohradská konference) — [konspirace.md](konspirace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Pavel Zítko — Nedělní chvilka poezie 12. 7. 2026 {#pavel-zítko--nedělní-chvilka-poezie-12-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-13_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1023008560087234&_rdr>
+- **Datum záznamu:** 2026-07-12
+- **Délka:** 00:23:56
+- **Poznámka:** Zpracováno 1 téma: oslava výročí Deklarace o svrchovanosti Slovenska ve Staré Bystrici (Klaus + Mečiar), kritika Petra Pavla, Kamenického kritika EU — rozšíření tématu obnovy ČSR — [konspirace.md](konspirace.md). Neprocesováno: opakování Cena za svobodu projevu a Bidenův dvojník (již zdokumentováno). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Facebook Live 12. 7. 2026 {#jindřich-rajchl--facebook-live-12-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-12_Jindřich-Rajchl_Facebook-Live.txt)
 - **Kanál:** Jindřich Rajchl (Facebook)
