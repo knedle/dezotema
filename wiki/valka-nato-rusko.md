@@ -1089,6 +1089,14 @@ Finanční depozitář Euroclear se odvolal proti rozhodnutí Moskevského arbit
 
 ---
 
+### SPD odmítá Mezinárodní komisi pro odškodnění Ukrajiny jako další podvod EU (Rajchl, 15. 7. 2026)
+
+Poslanecký klub SPD (Rajchl po konzultaci s Okamurou) jednomyslně nepodpoří návrh na zřízení Mezinárodní komise pro odškodnění Ukrajiny, který má být v nejbližších měsících předložen Poslanecké sněmovně. Rajchl vysvětluje mechanismus jako podvod: veškeré škody má nakonec uhradit Ruská federace, ale až poté, co se ke komisi dobrovolně připojí a jednostranně uzná protiprávnost své agrese i závazek bez výhrad zaplatit vyčíslené škody — což Rajchl označuje za zcela nereálný scénář („to dřív přistane UFO"). Do té doby by náklady komise (nové úřednické posty) hradily členské státy, tedy i ČR z daní občanů. Rajchl to staví do kontrastu s vlastní pozicí SPD coby ochránce peněženek občanů proti byrokracii EU.
+
+**Zdroje:** [Rajchl — Videoportál 15. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-15-7-2026)
+
+---
+
 ### EU nový balík sankcí proti Rusku — „odtud není cesta zpět" (Vrabel, 9. 6. 2026)
 
 K novému sankčnímu balíku Ursuly von der Leyen (90 ruských bank, transakční zákaz pro 35 z nich, zákaz kryptoměn, sankce na stínovou flotilu, zákaz vstupu ruských vojáků do EU, 170 dalších osob a subjektů) Vrabel tvrdí, že projev byl tak tvrdý, že jde o „konečnou" — EU si už nehraje na to, že by někdy chtěla mít s Ruskem obchodní či politické vztahy; cílem je podle něj „zničit Rusko ze všech stran". Balík čte jako absolutní odtržení Západu od Ruska.

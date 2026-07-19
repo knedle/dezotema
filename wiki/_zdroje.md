@@ -3003,3 +3003,12 @@
 - **Délka:** 01:03:59
 - **Poznámka:** Zpracováno 19 témat ("Zprávy v devět s komentářem"): (1) Koalice ochotných — protiraketová obrana, Babiš chce ČR do projektu balistických střel — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Evropský prokurátor vyšetřuje dotace Agrofertu — [kauzy.md](kauzy.md). (3) Bulharsko odmítá koalici ochotných (Radev) — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Donbas ~95 % obsazen, kritika mediálního rámování — [valka-nato-rusko.md](valka-nato-rusko.md). (5) Polsko — podzimní vojenské cvičení koalice ochotných — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů — [politicky-system.md](politicky-system.md). (7) Maďarsko — odvolání prezidenta Šujoka, právo na odpor, paralela s Pavlem — [suverenita-eu.md](suverenita-eu.md). (8) Larry Johnson zesměšňuje plán útoku na Kharg Island — [blizky-vychod.md](blizky-vychod.md). (9) Německé pivovary/VW propouštění + predikce AI/AGI 2027–2028 — [ceny-energie.md](ceny-energie.md), [predikce.md](predikce.md). (10) Trump zvrat v Hormuzské dani, blokáda Íránu — [blizky-vychod.md](blizky-vychod.md). (11) Rubio/ICC — sankce, dvojí metr suverenity — [valka-nato-rusko.md](valka-nato-rusko.md). (12) Filip Turek — nehoda, tlak na rezignaci, Vrabel ho brání — [kauzy.md](kauzy.md). (13) Reflect Orbital — vesmírná zrcadla, konspirace o počasí — [konspirace.md](konspirace.md). (14) Sojuz na ISS — rusko-americká spolupráce, slovanská jednota — [valka-nato-rusko.md](valka-nato-rusko.md). (15) Indie odmítá dohodu s USA, BRICS vs. NATO — [valka-nato-rusko.md](valka-nato-rusko.md). (16) Švédská europoslankyně nahlásila dánského kolegu policii — [migrace.md](migrace.md). (17) Britská policajtka a „barevná karta" — [migrace.md](migrace.md). (18) Ukrajina — pád vlády Svyrydenkové, Zelenskyj „diktátor" — [valka-nato-rusko.md](valka-nato-rusko.md). (19) Wagenknechtová — Německo stranou konfliktu — [valka-nato-rusko.md](valka-nato-rusko.md). Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál 15. 7. 2026 {#jindřich-rajchl--videoportál-15-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-15_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1022596557042644>
+- **Datum záznamu:** 2026-07-15
+- **Délka:** 00:02:29
+- **Poznámka:** Zpracováno 1 téma: SPD odmítá Mezinárodní komisi pro odškodnění Ukrajiny jako podvod EU — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
