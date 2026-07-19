@@ -1862,3 +1862,19 @@ K pohřbu ostatků deseti dalších identifikovaných obětí genocidy ve Srebre
 Šéf ukrajinské vojenské rozvědky Kirilo Budanov při oslavách 975 let Kyjevsko-pečerské lávry prohlásil, že Ukrajina je kolébkou pravoslaví a klášter zůstane duchovním symbolem země — výrok padl v kontextu příprav na vznik národního „panteonu" v části areálu lávry a vyvolal ostrou reakci Ruska (mluvčí MZV Marija Zacharovová jej označila za překrucování historie). Vrabel s tvrzením nesouhlasí — jako laik (ne historik) se domnívá, že pravoslaví vzniklo rozdělením církve na katolickou a pravoslavnou v Byzantské říši (Konstantinopol), nikoli na území dnešní Ukrajiny. Využívá to k širší odbočce: kritizuje katolickou církev za prodej odpustků, okázalost a obvinění z rozšířené pedofilie mezi kněžími (varoval prý před tím i vlastního syna), zatímco pravoslavnou církev popisuje pozitivně (kněží mají rodiny, církev je o „radosti ze života"). Dodává, že Zelenskyj na Ukrajině pravoslaví fakticky potlačuje — věřící navštěvující pravoslavné kostely měla mlátit armáda, pravoslavné svátky byly přesunuty na katolická data.
 
 **Zdroje:** [Vrabel — Zprávy v devět 11. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+
+---
+
+### Údajná smrt Lindseyho Grahama a návrh 500% cel na země obchodující s ruskou ropou (Vrabel, 12. 7. 2026)
+
+Vrabel referuje o nepotvrzené zprávě, že senátor Lindsey Graham (kterého den předtím označil za „největšího amerického válečného štváče") zemřel — sám vyjadřuje pochybnost, ale bere zprávu jako pravděpodobně pravdivou. Upozorňuje, že Graham byl krátce předtím s Donaldem Trumpem předkladatelem návrhu zákona (nikoliv exekutivního nařízení, tedy vymahatelného soudně), který by uvalil 500% cla na obchod se všemi zeměmi nakupujícími ruskou ropu a plyn (Indie, Čína, Slovensko aj.). Varuje, že by to znamenalo rozdělení světového obchodu a mohlo vážně narušit fungování americké i evropské ekonomiky — přirovnává to k dopadu horšímu než uzavření Hormuzského průlivu.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+
+---
+
+### Letiště Karlovy Vary předáno armádě pro potřeby NATO (Vrabel, 12. 7. 2026)
+
+Na divácký dotaz Vrabel potvrzuje zprávu (zaznělo i v rozhlase), že letiště v Karlových Varech se předává armádě a upravuje pro potřeby NATO — řadí to k dalším příkladům přeměny civilní infrastruktury ČR na vojenskou/logistickou kapacitu aliance (viz Macinkovo oznámení o roli ČR jako „logistického centra", výše).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)

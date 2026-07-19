@@ -2940,3 +2940,12 @@
 - **Délka:** 00:30:09 (přepis neúplný, obsahuje jen úvodních ~1:18)
 - **Poznámka:** Zpracováno 1 téma: mír bude odrážet aktuální kontrolu území, predikce zhroucení Ukrajiny do 2 měsíců — [valka-nato-rusko.md](valka-nato-rusko.md), [predikce.md](predikce.md). Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání 12. 7. 2026 {#ladislav-vrabel--nedělní-vysílání-12-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-12_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1055853353453362>
+- **Datum záznamu:** 2026-07-12
+- **Délka:** 01:47:54 (narozeninové nedělní vysílání)
+- **Poznámka:** Zpracováno 6 témat: (1) Vyhlášení zářijové protijaderné demonstrace, vysvětlení jaderného deštníku (RT interview jako spouštěč) — [jaderne-zbrane.md](jaderne-zbrane.md). (2) Španělské hormonální vepřové maso, potravinová soběstačnost — [politicky-system.md](politicky-system.md). (3) Údajná smrt Lindseyho Grahama + návrh 500% cel na obchod s ruskou ropou — [valka-nato-rusko.md](valka-nato-rusko.md). (4) EU nařizuje bezemisní renovaci 700 000 českých domů (EPBD4 update) — [suverenita-eu.md](suverenita-eu.md). (5) Letiště Karlovy Vary předáno armádě/NATO — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Vrabelův postoj ke spojení ČR-SR, preference decentralizace — [politicky-system.md](politicky-system.md). Neprocesováno: opakování PURL/Palantir/SAFE/Rearm Europe (již zdokumentováno). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

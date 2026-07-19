@@ -251,6 +251,7 @@
 - Trump „komunista nebo vlastenec" + Vrabelova esej o americké historii (genocida, otroctví, petrodolar) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - Von der Leyen: bez nových vlastních zdrojů klesne rozpočet EU o 40 % — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - **5. 7.** — hodnocení AfD jako „jediné alternativy" pro Německo (výhrady jen k Landsmannschaft frakci); SPD centrálně řízená, Okamura „falešná karta"; doplnění von der Leyenové 40% rozpočtu o reakci Rajchla — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+- EU nařizuje bezemisní renovaci 700 000 českých domů (EPBD4, 12. 7.) — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -334,6 +335,8 @@
 - **5. 7.** — film Citizen Vigilant + sen o zabití Zelenského — teze „systém, ne člověk"; Vondráčkovo „odebrání pravomocí prezidenta" jako mediální manipulace — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 - **9. 7.** — globální vzorec perzekuce kritiků (James Scott/RT, Scott Ritter, Petr Bystroň, Assange, Russell Brand, Füllmich, Čermák) — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - Maďarský influencer Ištvan Šakáč zadržen za výrok na podporu Orbána — obhajuje právem na odpor (čl. 23 Listiny) — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- **12. 7.** — hormonální španělské vepřové maso, potravinová soběstačnost — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+- Postoj ke spojení ČR-SR — respekt k slovenské vůli, preference decentralizace — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -386,6 +389,8 @@
 - Teorie „týdenního cyklu" eskalace/deeskalace u Íránu vázaná na burzu (10. 7.) — [Zprávy v devět 10. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 - **11. 7.** — nové sankce USA proti Rusku (Graham); Ukrajina eskaluje (velitelství pro útoky, licence na Patrioty); Rusko přerušilo Don–Azovské moře (riziko hladomoru); Čína — mikrovlnná zbraň proti dronům; ⚡ nesouhlasí s Contem, Rusko je nebezpečné a možná udeří preventivně; zpochybnění genocidy ve Srebrenici; Budanov „kolébka pravoslaví" rozporuje — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 - Trump vyhrožuje Íránu 1000 raketami, Vrabel přeje Írán úspěch při zabití Trumpa (11. 7.) — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
+- **12. 7.** — vyhlašuje zářijovou protijadernou demonstraci (RT interview jako spouštěč), podrobné vysvětlení jaderného deštníku — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026) → [jaderne-zbrane.md](../jaderne-zbrane.md)
+- Údajná smrt Lindseyho Grahama, návrh 500% cel na obchod s ruskou ropou; letiště Karlovy Vary předáno armádě/NATO — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
@@ -780,3 +785,4 @@
 - [Speciální stream: Ankara, panelová debata (9. 7. 2026)](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 - [Zprávy v devět (10. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
 - [Zprávy v devět (11. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
+- [Nedělní vysílání (12. 7. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)

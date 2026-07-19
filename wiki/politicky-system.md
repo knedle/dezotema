@@ -639,6 +639,22 @@ Rajchl rozvíjí svůj dřívější návrh 15% rovné daně (viz [Flat tax 15 %
 
 ---
 
+### Hormonálně upravené španělské vepřové maso vyváženo do střední/východní Evropy — potravinová soběstačnost (Vrabel, 12. 7. 2026)
+
+Vrabel reaguje na zprávu (sdílenou divačkou), že Španělsko poráží ročně na 50 milionů prasat, přičemž maso z hormonálně kastrovaných zvířat neputuje na domácí španělský trh, ale do zemí střední a východní Evropy včetně ČR. Argumentuje, že to je důkaz nutnosti potravinové soběstačnosti, kterou sám prosazuje od roku 2022 ve svém programu „Česká republika na první místě" — kritizuje globalistický model levného dovozu (společně s ukrajinským obilím a polskými kuřaty), z něhož podle něj profituje mj. Andrej Babiš (vlastní zemědělsko-chemický byznys), zatímco českým spotřebitelům škodí zdravotně nekvalitní potraviny. Doplňuje osobní radu z gastronomické praxe: nešetřit na jídle (kvalitní maso, máslo místo margarínu, vlastní vývary místo hotových směsí), protože nekvalitní strava se nakonec prodraží na zdravotní péči.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+
+---
+
+### Vrabelův postoj ke spojení Česka a Slovenska — respekt k slovenské vůli, preference decentralizace (Vrabel, 12. 7. 2026)
+
+Na divácký dotaz, zda vidí budoucnost ve znovusjednocení Československa, Vrabel odpovídá zdrženlivě. Osobně má na Slovensko silnou rodinnou vazbu (babička i její manžel ze Slovenska) a dobré zkušenosti ze spolupráce se slovenskou vlasteneckou scénou (Štefan Harabín, protesty proti Fialově vládě v lednu 2023) — z jeho vlastního dotazování slovenských účastníků demonstrací ale vyplynulo, že Slováci jsou na svou samostatnost hrdí a spojení nechtějí, což vnímá jako varování před tím, aby to česká vlastenecká scéna vnucovala. Explicitně kritizuje ty, kdo v ČR tvrdí, že „jsme pořád Československo" — podle něj jde o fakticky nesprávné tvrzení (samostatné státy s vlastní měnou, právním systémem i mezinárodním uznáním po desetiletí). Sjednocení by podle něj muselo vzejít z referenda na Slovensku, ne z české iniciativy. Osobně preferuje opačný směr — decentralizaci veřejné správy směrem k menším komunitám a lokální samostatnosti namísto centralizace nebo sjednocování států.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+
+---
+
 ### Náklady na ukrajinskce pracovníky v ČR: 250 miliard Kč — Rajchl (3. 5. 2026)
 
 Rajchl polemizuje s ministrem Jurečkou (MPSV), který tvrdí, že Ukrainci v ČR jsou pro ekonomiku přínosem. Rajchl namítá, že Jurečkovy výpočty jsou chybné metodologicky:

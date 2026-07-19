@@ -164,6 +164,10 @@ Závěr: souhrnný dopad těchto nařízení v horizontu 10–15 let převýší
 
 **Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
 
+**12. 7.** — Vrabel k témuž nařízení (EPBD4, viz výše) doplňuje konkrétní číslo: v ČR se povinnost bezemisních budov týká přibližně 700 000 rodinných domů postavených před rokem 1980 — tedy z velké části domů dnešních důchodců. Popisuje to jako útok na majetek: kdo nebude mít na renovaci peníze, o dům podle něj může fakticky přijít. Kontrastuje to s Babišovou předvolební rétorikou (sliboval „vyhnat Uršulu" von der Leyenovou) a jeho současným vstřícným chováním k ní na unijní scéně.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+
 ---
 
 ### Zákaz spalovacích motorů 2035 jako příčina kolapsu německého autoprůmyslu — Černohorský (2. 7. 2026)

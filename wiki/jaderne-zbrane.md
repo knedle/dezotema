@@ -149,3 +149,13 @@ Ve vysílání 5. 7. Vrabel doplňuje odhad konkrétní distribuce: Německo má
 **Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
 ---
+
+### Vrabel vyhlašuje zářijovou demonstraci proti jaderným zbraním v ČR — vysvětlení „jaderného deštníku" (Vrabel, 12. 7. 2026)
+
+V narozeninovém nedělním vysílání Vrabel pouští úryvek rozhovoru šéfredaktorky Russia Today (Margarity Simonjanové) pro Euronews: na otázku, jak blízko jsme třetí světové válce, odpovídá „možná pár metrů", týdny až měsíce, a viní z eskalace výhradně Evropu (dodávky zbraní, umožnění ukrajinských úderů hluboko do Ruska, systém Flamingo) — Rusko podle ní na Evropu dosud nevystřelilo jediný náboj, zatímco Evropa poslala na Rusko „tisíce". Vrabel tento výrok bere jako spouštěč k vyhlášení demonstrace na druhou polovinu září (pravděpodobně Václavské náměstí, přesné datum zatím neurčeno) pod názvem „Člověk na první místě" — výslovně nepolitické akce, bez podpory jakýchkoli kandidátů do senátních, komunálních či prezidentských voleb. Chystá petici a trička s nápisem odmítajícím jaderné zbraně na území ČR.
+
+Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje Andrej Babiš (francouzská varianta, na rozdíl od Radka Vondráčka, jenž preferuje americkou): nejde o obranný „deštník" bránící průniku raket, ale o systém s radary, monitoringem, protivzdušnou obranou a vlastními útočnými taktickými jadernými zbraněmi (na francouzské straně letouny Rafale s raketami ASMP, případně české F-35 jako nosiče). Argumentuje, že jakmile ČR takovou dohodu podepíše, stane se legitimním cílem ruského úderu — ruská jaderná doktrína dovoluje použití jaderné zbraně jen v reakci na jaderné ohrožení, takže dokud ČR žádnou takovou dohodu nemá, zůstává mimo riziko. Předpokládá, že pokud by Rusko chtělo demonstrovat odstrašující jaderný úder, mohla by být ČR (na rozdíl od jaderných mocností Francie/Británie nebo hraničících států Pobaltí) vhodným „varovným" cílem právě kvůli menší viditelnosti a absenci vlastních jaderných zbraní.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+
+---
