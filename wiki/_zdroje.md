@@ -2814,3 +2814,12 @@
 - **Délka:** 00:01:29
 - **Poznámka:** Zpracováno 1 téma: Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice v Mimoni (zaměněna se silnicí Ralska) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál 7. 7. 2026 {#jindřich-rajchl--videoportál-7-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-07_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1302667008613052>
+- **Datum záznamu:** 2026-07-07
+- **Délka:** 00:01:47
+- **Poznámka:** Zpracováno 1 téma: Trump nevnímá EU jako relevantního partnera kvůli ekonomické slabosti, Green Dealu a migraci (CNN Prima News) — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

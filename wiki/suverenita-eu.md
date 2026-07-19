@@ -466,3 +466,11 @@ Ursula von der Leyen při návštěvě Irska (které od 1. 7. předsedá EU) uve
 Rajchl (5. 7.) i Vrabel (5. 7.) na totéž oznámení reagují nezávisle na sobě shodným odmítnutím: Rajchl vzkazuje, že by jako premiér EU „ani vindru" nedal a rozpočet EU by nechal škrtnout klidně o 40 % (obsahuje prý hlavně klimatickou agendu, Ukrajinu a „LGBTQ"), Vrabel dodává přesnější kontext programu „Savings and Investments" (von der Leyenová dlouhodobě cílí na soukromé úspory Evropanů, odhadem 300–600 mld. eur) jako alternativního zdroje k navýšení daní.
 
 **Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+
+---
+
+### Trump nevnímá EU jako relevantního partnera — ekonomická slabost, Green Deal a migrace (Rajchl, 7. 7. 2026)
+
+Na CNN Prima News Rajchl hodnotí vztah Trumpovy administrativy k EU: Donald Trump vnímá Evropskou unii jako velmi slabého partnera, kritického zejména vůči tomu, co v Bruselu nazývá „dvouocasou příšerou" — Green Dealu a migraci. Cituje J. D. Vance, který prohlásil, že největší nepřítel v tuto chvíli nesedí v Moskvě, ale v Bruselu, protože brusel jedná proti vlastním občanům. Trump podle Rajchla posuzuje partnery primárně podle ekonomické síly — příkladem je jeho cesta do Číny s rozsáhlou podnikatelskou delegací, přestože čínská ekonomika sama „ekonomicky dodýchává". Rajchl uzavírá, že vzhledem ke klesajícímu podílu EU na světovém HDP si unie ekonomicky nemůže dovolit Green Deal ukončit.
+
+**Zdroje:** [Rajchl — Videoportál 7. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-7-2026)
