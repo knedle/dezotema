@@ -3075,3 +3075,12 @@
 - **Délka:** 00:11:41
 - **Poznámka:** Zpracováno 6 témat: (1) Geoinženýrství — patenty od 1896, Bill Gates přes neziskovky, vesmírná zrcadla — [konspirace.md](konspirace.md). (2) Většina lidí jako „NPC", jen ~1 miliarda „s duší" — [konspirace.md](konspirace.md). (3) Prezidenti jako „jedna panda", nejbohatší nejsou nejmocnější — [konspirace.md](konspirace.md). (4) GMO a průmyslové potraviny jako likvidace — [konspirace.md](konspirace.md). (5) Vakcíny jako biologická zbraň a snižování populace (Gates, TED 2017) — [covid-vakciny.md](covid-vakciny.md). (6) YouTube smazal přes milion videí o vakcínách, umlčovaní vědci — [dsa-cenzura.md](dsa-cenzura.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál 17. 7. 2026 (iluze čerstvosti) {#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti}
+- **Soubor:** [přepis](prepisy/done/2026-07-17_Konspirátor-Boldy-KonspyChannel_Videoportál_1.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/916573954044362>
+- **Datum záznamu:** 2026-07-17
+- **Délka:** 00:03:21
+- **Poznámka:** Zpracováno 1 téma: aditiva v masných výrobcích jako „iluze čerstvosti" (dusitan E250/nitrosaminy, fosfáty, transglutamináza, karmín E120, separát, karagenan E407) — [konspirace.md](konspirace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

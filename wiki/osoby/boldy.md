@@ -32,6 +32,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Většina lidí jako „NPC", jen ~1 miliarda lidí „s duší" a kritickým myšlením — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 - Prezidenti (Trump, Putin) jako „jedna panda ve dvou táborech"; nejbohatší nejsou nejmocnější — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 - GMO a průmyslové potraviny (umělé maso, pasterizované mléko) jako nástroj likvidace — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- Aditiva v masných výrobcích jako „iluze čerstvosti" (dusitan E250, fosfáty, transglutamináza, karmín, karagenan) — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti)
 
 ### [Politický systém](../politicky-system.md)
 - Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
@@ -105,3 +106,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 13. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-13-7-2026)
 - [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)
 - [Videoportál 17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- [Videoportál 17. 7. 2026 (iluze čerstvosti)](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti)

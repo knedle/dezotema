@@ -89,6 +89,22 @@ Boldy tvrdí, že GMO (geneticky modifikované organismy) jsou „velké ohrože
 
 ---
 
+### Aditiva v masných výrobcích jako „iluze čerstvosti" (Boldy, 17. 7. 2026)
+
+V samostatném krátkém videu Boldy popisuje aditiva v levných uzeninách jako „chemický experiment", ne jídlo. Konkrétní tvrzení:
+
+- **Dusitan sodný (E250)** udržuje růžovou barvu (bez něj by maso zšedlo); v žaludku a na pánvi se prý mění na **nitrosaminy** — karcinogeny spojované s rakovinou tlustého střeva.
+- **Fosfáty (E450, E451)** vážou vodu, kterou zákazník „kupuje za cenu masa"; podle Boldyho se snadno vstřebávají, „kamenují cévy", zvyšují riziko infarktu a ničí ledviny.
+- **Transglutamináza** („masné lepidlo") slepuje odřezky do jednoho plátku („Frankensteinovo maso") a u citlivých střev prý spouští autoimunitní reakci.
+- **Karmín (E120)** = barvivo z drcených brouků (červec nopálový), riziko pro alergiky.
+- **Separát** (strojně oddělené maso) a **karagenan (E407)** z řas, který prý narušuje střevní sliznici a vede k „propustnému střevu".
+
+Radí číst složení (>90 % masa), nevěřit nápisům „bez Éček / přírodní" (extrakt z celeru/mangold = „ten samý dusitan") a k uzeninám jíst vitamin C jako „štít" proti tvorbě rakovinotvorných látek. Navazuje na [GMO a průmyslové potraviny jako nástroj likvidace](#gmo-a-průmyslové-potraviny-jako-nástroj-likvidace-boldy-17-7-2026).
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026 (iluze čerstvosti)](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti)
+
+---
+
 ### Dlouhodobě plánovaná „plandemie" — vatikánský deník 1989 (Zítko, 1. 6. 2026)
 
 Zítko ve vysílání 1. 6. 2026 prezentuje jako „důkaz" dlouhodobého plánování pandemie článek, který prý vyšel 1. srpna 1989 v oficiálním vatikánském deníku — tedy 37 let před vysíláním a ještě „za Československa". Článek měl nést titulek „Velký bratr se blíží" a odhalovat „tajný plán na označení každého muže, ženy a dítěte" kódovanými mikročipy implantovanými do každého člověka na světě, propojenými s centrálním počítačem schopným kohokoliv kdykoliv lokalizovat. Klíčová citace, kterou Zítko opakuje: „Vše, co bude muset vláda udělat, je vymyslet něco jako prasečí šipku a vakcínu proti ní." Zítko to spojuje s prasečí chřipkou roku 2009 (20 let po článku) i s pozdějším covidem jako naplněním téhož scénáře.
