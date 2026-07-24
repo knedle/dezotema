@@ -494,3 +494,11 @@ Zítko sdílí a schvaluje analýzu nováčka na scéně Tomáše Pauknera (viz 
 Zítko rozšiřuje tezi o placené propagandě v ČT (viz sekci výše): kromě solárních baronů si prý ČT „kupují" i farmaceutické a zbrojařské korporace, a to nejen přes koncesionářské poplatky, lobbing a neoznačené placené pořady, ale i přímými intervencemi a platbami nadnárodních korporací (odkaz na článek Martina Kiršnera a další sliby Tomáše Pauknera). Uzavírá, že „největší kšeft je válka a zdraví", nejde o objektivní zpravodajství, ale o placenou propagandu; ČT prý minimálně od 12. 3. 2020 neplní zákon o ČT (povinnost vysílat oponentní názory), takže diváci mají „oprávněnou možnost bránit se proti výpalnému" a žádat poplatky zpět za 6+ let.
 
 **Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+
+---
+
+### „Okurková sezóna": plot kolem Rajchlovy zahrady jako titulka místo velkých kauz; řízení Seznamu (Rajchl, 19. 7. 2026)
+
+Rajchl popisuje, jak média v den skončení summitu NATO „přeřadila" z tématu Pavel/summit na útoky na opozici (Turek, Foldyna, on sám). Jako doklad nevyváženosti uvádí, že Seznam Zprávy dvakrát za týden přinesl článek o tom, že si (firma, jejímž je společníkem) oplotila 20 let vlastněný pozemek u Prahy — legálně, po dohodě se sousedy, kvůli bezdomovcům (připomíná případ zavražděné Aničky) — zatímco „velké kauzy" (Rakušanův předražený nákup vrtulníků tři dny před volbami, Bíštan, dozimetr, kanceláře) zůstávají bez pozornosti. Řízení Seznamu dokládá tvrzením Tomáše Pauknera, že šéfredaktor „Čárenský" dostal těsně před nástupem desítky milionů od „Lukačeviče" do ztrátové firmy (koupě třetiny ztrátové firmy za desítky milionů). Navazuje na [Dvojí metr v kauzách: byty vs. Pauknerovy korupce](#dvojí-metr-v-kauzách-byty-vs-pauknerovy-korupce-demaskování-pseudonymu--rajchl-21-6-2026).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)

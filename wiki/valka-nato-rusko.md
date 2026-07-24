@@ -2154,3 +2154,11 @@ Evropská komise spustila s Ukrajinou dohodu o vývoji a výrobě dronů a proti
 K informaci (Financial Times), že Zelenskyj zvažuje odvolání vrchního velitele Syrského poté, co se protesty kvůli odvolání ministra obrany Fedorova změnily v požadavek na výměnu vojenského vedení, Vrabel přidává „vtip": německý Bundestag prý den předtím veřejně jednal a hlasoval o tom, zda by se měl Fedorov vrátit na post ministra obrany. Přirovnává to k operaci Barbarossa — „Němci velí Ukrajincům" — a naznačuje, že nad tím vším stojí „někdo jiný". Navazuje na [záznam z 16. 7. (odvolání Fedorova)](#eu-poprvé-povolila-ukrajině-nakupovat-čínské-komponenty-pro-drony-z-unijního-úvěru-vrabel-16-7-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Rajchl: Ukrajina se zhroutí, ne eskaluje; Zelenskyj → Zalužný, mír u ~90 % Doněcka (19. 7. 2026)
+
+Proti Pavlovu tvrzení, že Ukrajina má „dva měsíce" do ruské eskalace, Rajchl předpovídá naopak zhroucení ukrajinské fronty. Odvolání populárního ministra obrany Michajla Fedorova (dle Rajchla vynucené USA) považuje za první „dominovou kostku" k pádu Zelenského — vyvolalo teprve druhé masové protesty za celou válku (první byly kvůli rušení protikorupčních agentur NABU/SAPO, za nimiž prý též stáli naštvaní Američané). Opakuje svou dlouhodobou tezi: válka skončí, až Rusko ovládne přes 90 % Doněcké oblasti (Konstantinivka už fakticky padla, chystá se ofenziva na Sloviansk, Kramatorsk, obležen Kupjansk) — pak Putin s Trumpem uzavřou dohodu (Rusko vymění zbytek Doněcka za část Charkovské oblasti, aby Trump „dostal něco"), Zelenskyj bude vyměněn za v Londýně připraveného Zalužného („výměna jedné loutky za druhou") a přijde mír. Zdůrazňuje, že čím déle válka trvá, tím horší podmínky pro Ukrajinu (analogie s minskými dohodami a jednáními 2022) — vinu za devastaci Ukrajiny přičítá „válečným štváčům" včetně „pětky" české opozice. Viz [Predikce](predikce.md).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)

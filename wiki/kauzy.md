@@ -441,6 +441,10 @@ Boldy poukazuje na dvojí metr kolem Turkovy nehody: když před rokem v květnu
 
 **Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
 
+**19. 7.** — Rajchl Turka hájí a staví ho do kontrastu s Marianem Jurečkou: nehoda je nedbalost (křižovatka je nepřehledná, zleva jezdí jen tramvaje, ke srážce by došlo tak jako tak), a i kdyby ji zavinil Turek, není to důvod ke složení mandátu ani funkce zmocněnce pro Green Deal. Klíčový argument — rozdíl mezi nedbalostí a úmyslem: Jurečka podle Rajchla úmyslně lhal celému národu (o době, kdy se dozvěděl o střelbě na FF UK, a o ukončení vánočního večírku ministerstva, který prý pokračoval do čtyř do rána), přesto neodstoupil (Fiala prý argumentoval, že „mu to bylo líto") — a nyní jde Jurečka do pořadu 360° volat po Turkově odvolání. To Rajchl označuje za „definici bezpáteřnosti" a farizejství (řadí sem i Rakušanův šifrovaný telefon).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
 ---
 
 ## EET 2.0 — likvidace malého podnikání

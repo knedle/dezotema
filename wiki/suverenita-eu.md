@@ -565,6 +565,22 @@ Ke zprávě, že státní dluh ČR vzrostl v 1. pololetí o 49,2 mld. Kč na rek
 
 ---
 
+### Green Deal jako „highway to hell"; moratorium na větrníky, „válka s Bruselem", příprava na odchod z EU (Rajchl, 19. 7. 2026)
+
+Rajchl reaguje na přiznání Evropské komise, že emisní povolenky brzdí evropský průmysl („soudruzi objevili Ameriku" — stejně jako u odklonu od jádra to prý přiznají pozdě a přesto povolenky nezruší, protože je vlastní německé penzijní/investiční fondy, které by při odpisu „zítra zkrachovaly"). Zasazuje to do řetězce „schodů do pekla": ETS1 (7 000 Kč/osoba ročně) → ETS2 → RED3 (42,5 % elektřiny z OZE do 2030) → EPBD4 (bezemisní budovy, nutné rekonstrukce za statisíce, jinak nutnost prodeje) — v kombinaci s nástupem AI to prý bude „apokalypsa" na trhu práce (odchod firem, příklad Zetoru). Konkrétní požadavky: moratorium na větrné elektrárny „ani jednu jedinou" (jako ve Francii), plný příklon k jaderné energii, odmítnutí „vazalských" notifikačních podmínek EU pro dostavbu Dukovan (do 2096 prodávat 70 % výroby přes lipskou burzu jen jako zálohu za OZE), a neplacení emisních povolenek — i za cenu pokuty 50 mld. ročně se to prý vyplatí. Uzavírá, že „příští roky nebudeme muset válčit s Moskvou, ale s Bruselem", a vyzývá k přípravě na odchod nebo rozpad EU; problémem není nedostatek odvážných politiků, ale chybějící mandát od voličů (SPD + Stačilo jen ~13 %).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### Chorvatsko a euro = „konec Chorvatska" (Rajchl, 19. 7. 2026)
+
+Rajchl opakuje a doplňuje své pozorování z Chorvatska: euro (zavedeno 1. 1. 2023) tam podle něj proklínají i ti, kdo ho původně chtěli — Chorvatsko prudce zdražilo, přišlo o cenovou výhodu vůči Itálii/Španělsku/Francii a ztrácí turisty. Varuje před přijetím eura v ČR jako před „strčením hlavy do oprátky". Rozšiřuje dřívější [anketu z Chorvatska (16. 7.)](#).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
 ### Vučič a „konec volného trhu" — British Steel jako důkaz (Vrabel, 18. 7. 2026)
 
 Vrabel pouští a chválí projev srbského prezidenta Aleksandara Vučiče, který varuje před zhoršující se globální situací, vyzývá k posílení armády, ekonomiky a k tvorbě zásob (potraviny, voda) a prohlašuje, že „volný trh už neexistuje" kvůli bariérám a válkám. Vrabel označuje Vučiče za „nejlepšího politika na světě" a tvrdí, že by ČR řídil úplně stejně. Jako potvrzení Vučičovy teze uvádí britské znárodnění ocelárny British Steel (dříve čínská Jingye Group) z důvodu „národní bezpečnosti", proti němuž se ohradil Peking — obchodní zájmy se dnes prý neprosazují trhem, ale „násilím", clny, sankcemi a válkami; svět je „na divokém západě" a dělí se na dva tábory. Rozšiřuje dřívější [Srbsko jako model suverenity](#).

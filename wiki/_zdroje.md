@@ -3103,6 +3103,15 @@
 - **Poznámka:** Samostatné vysílání „Pfizergate a Uršula 11:11" (odlišné od Videoportálu 16. 7.). Zpracováno 7 témat: (1) Pfizergate — von der Leyen SMS s Bourlou, „nacistický" rodokmen/eugenika, Heiko v Orgenesis — [covid-vakciny.md](covid-vakciny.md). (2) Pohřební služba Marlis (Německo): nadúmrtnost, rychlý rozklad, turbo rakoviny — [covid-vakciny.md](covid-vakciny.md). (3) Studie očkované vs. neočkované děti (Avdičová, 22 kategorií) — [covid-vakciny.md](covid-vakciny.md). (4) Pupečníková krev / byznys s císařskými řezy — [covid-vakciny.md](covid-vakciny.md). (5) Patent Pfizer na dálkové sledování (Bluetooth na hřbitově) — [digitalni-kontrola.md](digitalni-kontrola.md). (6) 40/50 mil. muslimů na dávkách (Petránek) — [migrace.md](migrace.md). (7) ČT placená solár/farma/zbrojaři — [media-propaganda.md](media-propaganda.md). Stoch. teror: 2 výroky (šarže E na média/politiky; schválení Čermáka „naházet do řeky"). Opakování beze změny (jen zdroj): Deep State/Central Casting reprízy, přistání na Měsíci/Kubrick/Area 51, volby 2023 podvod, kauza Blažek/bitcoiny, Kirsch/CDC 150 mil., Cena za svobodu projevu (Čermák/Svoboda). Bez predikcí.
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Nedělní vysílání 19. 7. 2026 {#jindřich-rajchl--nedělní-vysílání-19-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-19_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/2227981648001611>
+- **Datum záznamu:** 2026-07-19
+- **Délka:** 00:58:31
+- **Poznámka:** Zpracováno 11 témat (nedělní vysílání): (1) „Okurková sezóna" — po summitu switch na útoky na opozici, plot u Rajchlovy zahrady jako titulka Seznamu, řízení Seznamu (Čárenský/Lukačevič) — [media-propaganda.md](media-propaganda.md). (2) Turkova nehoda + dvojí metr vůči Jurečkovi (nedbalost vs. úmysl) — [kauzy.md](kauzy.md). (3) Petr Pavel „prezident opozice", výrok „demokracie v ohrožení" — [politicky-system.md](politicky-system.md). (4) Vláda neplní sliby (munice, F-35, PURL), ultimátum FARA/ČT do podzimu, volby 2028 — [politicky-system.md](politicky-system.md), [fara-neziskovky.md](fara-neziskovky.md). (5) Green Deal „highway to hell" — ETS1/2, RED3, EPBD4, moratorium na větrníky, Dukovany, „válka s Bruselem", odchod z EU — [suverenita-eu.md](suverenita-eu.md). (6) Chorvatsko a euro = „konec Chorvatska" — [suverenita-eu.md](suverenita-eu.md). (7) Ukrajina se zhroutí, Zelenskyj→Zalužný — [valka-nato-rusko.md](valka-nato-rusko.md) + [predikce.md](predikce.md). (8) Írán — masivní útok USA „příští týden", DPH nula na PHM/plyn — [blizky-vychod.md](blizky-vychod.md), [ceny-energie.md](ceny-energie.md) + [predikce.md](predikce.md). Bez stoch. teroru.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 18. 7. 2026 {#ladislav-vrabel--zprávy-v-devět-18-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-18_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook)

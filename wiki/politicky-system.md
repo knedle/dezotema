@@ -1053,3 +1053,19 @@ Vrabel komentuje případ Patrika Cigoše, jemuž Olomoucký krajský soud ulož
 Vrabel na dvou zprávách kritizuje „výměnu vůdců bez voleb": v Británii se novým premiérem stal Andy Burnham (zvolen jen vnitrostranicky lejbristy, bez celostátních voleb) — Vrabel ho ironicky překřtil na „Andyho Palšunku" (burn + ham) a předpovídá, že bude „naprosto stejný jako Starmer", stejně jako je u nás „Andy" Babiš stejný jako Fiala („lidi vystřízliví"). V Maďarsku prezident Tamás Šujok podepsal ústavní dodatek ukončující jeho vlastní mandát poté, co ho nový premiér Péter Magyar (strana TISA) označil za „loutku Fideszu" a vyzval k odstoupení — Vrabel to ironizuje jako „demokracii po maďarsku" (prezident se zvoleným mandátem na 5 let odvolán, protože se novému premiérovi „nelíbil"), kterou EU přesto vítá; Magyar si prý dosadí vlastní loutku.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Petr Pavel jako „prezident opozice" a výrok o „demokracii v ohrožení" (Rajchl, 19. 7. 2026)
+
+Rajchl komentuje Pavlův rozhovor (mj. promítaný na Colours of Ostrava — kritizuje politizaci apolitické akce) a jeho výrok, že demokracie v ČR je ohrožena, jako „extrémně nebezpečný" z úst hlavy státu. Vykládá ho jako signál, že Pavel se svým „loutkovodičem" (Petr Kolář — Rajchl upozorňuje na rozpor, zda je či není oficiální poradce) hodlá tlačit na transformaci ČR z parlamentní demokracie na prezidentskou republiku a staví se do role „prezidenta opozice" (odmítnutí konzultačních schůzek Babišem považuje za správné). Obrací argument: demokracie je podle něj ohrožena naopak Pavlem, politickými neziskovkami (Člověk v tísni, Milion chvilek) jednajícími bez volebního mandátu a vychýlenými médii (ČT/ČRo). Odmítá i Pavlovu narážku, že Macinkovo tvrzení o „ústavním puči" by mohlo být šířením poplašné zprávy. Navazuje na [ÚS akreditace Pavla — prezidentská republika](#) (Rajchl 24. 6.).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### Vláda neplní vlastní sliby dostatečně; ultimátum k zákonu FARA a ČT do podzimu (Rajchl, 19. 7. 2026)
+
+Rajchl kritizuje vládu ANO/SPD/Motoristé zprava: neplní dostatečně důsledně vlastní předvolební sliby vtělené do programového prohlášení — muniční iniciativa nebyla zrušena (tlak Francie/Británie), nákup F-35 nebyl zastaven (Rajchl očekává, že nakonec vůbec nebudou dodány), a 140 mil. na program PURL (ukrajinské zbraně) je porušením slibu, že na ukrajinské zbraně nepůjde „ani koruna" (mandatorní výdaj lze podle něj převést do rozpočtové rezervy). Dává vládě čas do podzimu: pokud sama nepředloží zákon FARA, předloží ho sám, „ať se každý ukáže" (viz [fara-neziskovky.md](fara-neziskovky.md)). Požaduje také zásadní změnu financování ČT (prosazuje dobrovolné koncesionářské poplatky — „nebudu platit za propagandu proti sobě") a koncentraci sil do prezidentských voleb 2028 za jednoho kandidáta schopného porazit Pavla (analogie s vlastní dřívější výzvou volit Babiše místo Bašty).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)

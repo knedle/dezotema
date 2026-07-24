@@ -474,3 +474,11 @@ Bývalý analytik CIA Larry Johnson se posmívá myšlence amerického speciáln
 Vrabel referuje o pokračující eskalaci: americké noční údery na Írán si vyžádaly nejméně 3 oběti, Teherán podnikl odvety na cíle v Kuvajtu, Bahrajnu a Jordánsku (škody na energetice) a tvrdí, že u Hormuzského průlivu vybuchly dva ropné tankery (americké velení to popírá). K výzvě USA, aby jejich občané zvážili cesty na Blízký východ (severní Izrael, Gaza), Vrabel dodává, že to platí i pro Čechy — doporučuje raději cestovat do „vojensky neutrálního" Srbska. Válku podle něj netřeba dál komentovat: „nepokračuje, ale rozvíjí se".
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Rajchl: přípravy USA na „masivní útok na Írán příští týden" (19. 7. 2026)
+
+Rajchl upozorňuje, že k íránským břehům se přesouvají americká plavidla a tankovací lodě a že se „příští týden" dá očekávat masivní útok na Írán (s výhradou, že jednání ještě probíhají a může se stát cokoliv). Varuje před dopadem na energetiku (nejvíce v Evropě) a navrhuje připravit legislativu pro rychlejší zásahy státu — místo stropování cen možnost krátkodobě snížit DPH na pohonné hmoty a plyn na nulu (viz [ceny-energie.md](ceny-energie.md)). Viz [Predikce](predikce.md).
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)

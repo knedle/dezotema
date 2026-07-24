@@ -355,3 +355,11 @@ Vrabel referuje o novém akčním plánu Evropské komise pro elektrifikaci (př
 Vrabel zmiňuje jako „docela tvrdou" a „zásadní" zprávu, že Francie kvůli napětí mezi Trumpem a Macronem oficiálně stáhla veškeré své zlaté rezervy uložené u Federálního rezervního systému v New Yorku. Přiznává, že ji slyší poprvé, proto ji zatím nekomentuje a slibuje se k ní vrátit v nedělním vysílání.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Rajchl: místo stropování cen krátkodobě snížit DPH na PHM a plyn na nulu (19. 7. 2026)
+
+V souvislosti s očekávaným útokem USA na Írán a možným cenovým šokem v energetice navrhuje Rajchl připravit legislativu pro rychlé zásahy státu: místo stropování cen mít nástroj krátkodobě snížit DPH na pohonné hmoty a plyn na nulu — „lepší být připraven než překvapen".
+
+**Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)

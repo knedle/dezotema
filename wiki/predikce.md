@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Zhroucení ukrajinské fronty, pád Zelenského a nástup Zalužného (19. 7. 2026)
+
+**Předpověď:** Nepředpovídá ruskou eskalaci (jak tvrdil Pavel), ale zhroucení ukrajinské fronty. Válka skončí, až Rusko ovládne přes 90 % Doněcké oblasti (po pádu Konstantinivky, Sloviansku, Kramatorsku, Kupjansku); pak Putin s Trumpem uzavřou dohodu (Rusko vymění zbytek Doněcka za část Charkovské oblasti), Zelenskyj bude nahrazen v Londýně připraveným Zalužným a přijde mírové jednání. Odvolání Fedorova považuje za první „dominovou kostku" pádu Zelenského.
+
+> „Očekávám, že se blíží ta válka ke konci, Zelenský už má tu židli hodně rozkymácenou." — Jindřich Rajchl
+
+**Horizont:** neurčeno (řádově měsíce)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### Jindřich Rajchl — Masivní útok USA na Írán „příští týden" (19. 7. 2026)
+
+**Předpověď:** K íránským břehům se přesouvají americká plavidla a tankovací lodě; přípravy na masivní útok jsou „v plném proudu" a dá se očekávat příští týden (s výhradou, že jednání ještě probíhají). Varuje před dopadem na energetiku, nejvíce v Evropě.
+
+> „Vypadá to, že se příští týden dočkáme velmi masivního útoku [na Írán]." — Jindřich Rajchl (parafráze)
+
+**Horizont:** ~26. týden po výroku (týden od 20. 7. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
 ### Ladislav Vrabel — Plná automatizace/AGI do 2027–2028 přinese masovou nezaměstnanost (14. 7. 2026)
 
 **Předpověď:** S odkazem na závody mezi Anthropic, OpenAI a DeepMind předpovídá dosažení plné automatizace/AGI (umělé obecné inteligence) do roku 2027–2028, což povede k nezaměstnanosti přesahující 50 %. Zdůrazňuje, že tento dopad „nikdo politicky neřeší", a připomíná vlastní přednášku o ChatGPT na olomouckém náměstí v roce 2023 jako důkaz, že na téma upozorňoval včas. V souvislosti s tím zmiňuje aktuální uzavírání německých pivovarů (Eichbaum po ~350 letech, Hofbräuhaus Wolters po ~400 letech) a plánované propouštění až 120 000 zaměstnanců Volkswagenu jako první příznaky širší ekonomické transformace.
