@@ -486,3 +486,11 @@ K pobodání poslance AFD Michaela Meistera před jeho domem Vrabel přímo pou�
 Zítko sdílí a schvaluje analýzu nováčka na scéně Tomáše Pauknera (viz i dřívější zmínku o jeho odhalení předraženého nákupu vrtulníků Rakušanem) o financování Zeleného obsahu České televize. Podle Pauknerovy analýzy si Svaz moderní energetiky (lobby obnovitelných zdrojů) v projektu „Česko a Evropa řeší klima" (2022–2025, hrazeno Státním fondem životního prostředí i koncesionářskými poplatky) nejen zaplatil scénář a účast expertů prezentovaných jako nezávislých (ředitel PR agentury Obnovitelně Pro Ondřej Novák, Ondřej Přibyla z neziskovky Fakta o klimatu — financované mj. solárním baronem Krskem a evropskou nadací na podporu Green Dealu), ale „koupil si" i konkrétního zaměstnance ČT — meteorologa Michala Žáka, který začal aktivně vystupovat na akcích svazu. Ministr životního prostředí Petr Hladík je líčen jako ten, kdo zadal ČT požadovaný politický obsah bez řádného označení jako reklama/sponzorovaný obsah — Zítko to srovnává s hypotetickou situací, kdy by podobný pořad zadal Filip Turek: podle něj by v takovém případě vyšly do ulic statisíce lidí z Milionu chvilek. Vyzývá diváky, aby žádali vrácení koncesionářských poplatků od 12. 3. 2020 i odškodnění za újmu na zdraví způsobenou vysíláním ČT.
 
 **Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+
+---
+
+### ČT placená nejen solárníky, ale i farma a zbrojaři (Zítko, 16. 7. 2026)
+
+Zítko rozšiřuje tezi o placené propagandě v ČT (viz sekci výše): kromě solárních baronů si prý ČT „kupují" i farmaceutické a zbrojařské korporace, a to nejen přes koncesionářské poplatky, lobbing a neoznačené placené pořady, ale i přímými intervencemi a platbami nadnárodních korporací (odkaz na článek Martina Kiršnera a další sliby Tomáše Pauknera). Uzavírá, že „největší kšeft je válka a zdraví", nejde o objektivní zpravodajství, ale o placenou propagandu; ČT prý minimálně od 12. 3. 2020 neplní zákon o ČT (povinnost vysílat oponentní názory), takže diváci mají „oprávněnou možnost bránit se proti výpalnému" a žádat poplatky zpět za 6+ let.
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)

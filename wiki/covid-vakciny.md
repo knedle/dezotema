@@ -903,3 +903,45 @@ Tarabová popisuje rakovinu jako civilizační chorobu vznikající z nárůstu 
 Moderátorka Jana Katarína Benke v rozhovoru s Pavlem Zítkem popisuje vlastní zkušenost: po covid vakcíně jí měly nastat silné bolesti bederní páteře, kvůli kterým přestala chodit a musela lézt po čtyřech — dodnes žije s trvalými následky a bere pravidelné léky, přičemž v Německu by na rozdíl od ČR měla nárok na asistentku kvůli takovému stupni postižení. Zmiňuje také, že její babička (dnes zesnulá) se nechala očkovat pod nátlakem rodiny a médií navzdory obavám, protože „v televizi říkali, že se nenakazíte". Kritizuje, že se v ČR poškozeným covid vakcínou nedaří domoci se odškodnění, na rozdíl třeba od Indie, kde je u nežádoucích účinků na oficiálním seznamu automaticky uznávána souvislost s očkováním.
 
 **Zdroje:** [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026)
+
+---
+
+## „Pfizergate" a rod von der Leyenových (Zítko, 16. 7. 2026)
+
+### SMS-ky s Bourlou a objednávka 10 vakcín na obyvatele
+
+Zítko rozvíjí narativ „Pfizergate": Ursula von der Leyen měla přes nedohledatelné SMS domluvit s Albertem Bourlou (Pfizer) nákup vakcín za desítky miliard dolarů — dle jeho výpočtu přibližně 4,5 miliardy dávek pro EU, tedy asi 10 vakcín na každého obyvatele včetně kojenců. Bourlu opakovaně označuje za „veterináře", u nějž prý všechna testovaná zvířata na mRNA uhynula. Navazuje na již dokumentované teze o začerněných smlouvách a nákupu za 100+ mld. EUR bez odpovědnosti výrobců (viz [Soudní dvůr EU: Komise pochybila utajením smluv](#soudní-dvůr-eu-komise-pochybila-utajením-vakcinačních-smluv-vrabel-11-6-2026)).
+
+### „Nacistický" rodokmen a eugenika — Heiko von der Leyen v Orgenesis
+
+Přebírá článek Romana Malého (odkaz na Dianu Weil), podle nějž je von der Leyen (rozená Albrecht) potomkem nacistické linie: dědeček Karl Albrecht měl být „kolegou Josefa Mengeleho" a psychologem blízkým Goebbelsovi, otec Ernst Albrecht (zemský premiér) prý rehabilitoval nacisty. Rodina je dle článku zastáncem eugeniky a „nadřazené rasy"; totéž připisuje i kancléři Merzovi. Klíčové obvinění: manžel Heiko von der Leyen je vědeckým ředitelem biotechnologické firmy **Orgenesis** (buněčná/genová terapie, mRNA) — měsíc po podpisu smlouvy Pfizer měl být do koncernu „katapultován" (odkaz na knihu dr. Günthera Franka *Zločin v režii státu*). Vše rámuje operací Paperclip (útěk nacistů do USA/Kanady/Jižní Ameriky, jejich vnuci dnes v EP). Uzavírá to jako „šachmat" kolem Pfizergate.
+
+⚡ **Poznámka:** Genealogická a „eugenická" tvrzení o von der Leyenové jsou nepodložená konspirační narace šířená okrajovými zdroji.
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+
+---
+
+### Pohřební služba Marlis (Německo): nadúmrtnost a rychlý rozklad těl (Zítko, 16. 7. 2026)
+
+Zítko čte a komentuje svědectví německé majitelky pohřebního ústavu (Marlis / „Marta Scholler"): od roku 2021 prý dvojnásobná úmrtnost oproti dřívějšku, přeplněná krematoria a hromadění rakví (příklad 18 úmrtí za víkend z jedné kliniky se 4 chladicími boxy), opakovaná úmrtí ve stejných rodinách (2–4 za rok) i lidí kolem 50 let nalezených mrtvých v posteli. Popisuje „turbo rakoviny" od 2023, mizející posmrtnou ztuhlost a rychlý rozklad (zelenání břicha 3. den), který přičítá chemoterapii, morfiu/fentanylu a očkování. Zítko doplňuje vlastní starší tezi (od Igora z Nitry, 2022), že zaočkovaní umírají „zejména ráno" kvůli nedodržování pitného režimu a „stuhnutí krve" (odkaz na patology Cole, Hirschman, Hodkinson). Vedra označuje jen za spouštěč u oslabených očkovaných. Navazuje na [protokol covidových úmrtí (Peterson Pierre)](#pěti-krokový-protokol-jak-byli-pacienti-zabíjeni-v-nemocnicích) a [Remdesivir a ventilátory](#remdesivir-a-ventilátory-skutečná-příčina-covidových-úmrtí).
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+
+---
+
+### Studie „očkované vs. neočkované děti" — nemocnější ve 22 kategoriích (Zítko, 16. 7. 2026)
+
+Zítko sdílí (přes Vladimíru Avdičovou) údajně „největší kohortovou studii" srovnávající očkované a neočkované děti, podle níž jsou očkované děti nemocnější ve všech 22 kategoriích chronických onemocnění: rakovina +54 %, autismus +180 %, neurovývojové poruchy/ADHD +1254 %, autoimunitní onemocnění +1120 %, motorické postižení +810 %, poruchy řeči +803 %, duševní poruchy +696 %, astma +553 %. Do vakcín dětem přisuzuje „koktejl" (buňky potracených opičích plodů, SV40, grafen). Odkazuje na Nikolaase Halschera (Meg Kaluo Foundation). 
+
+⚡ **Poznámka:** Uváděná čísla pocházejí z aktivistických zdrojů, nikoli z recenzované epidemiologie.
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+
+---
+
+### Pupečníková krev: „nechat dotepat" vs. byznys s císařskými řezy (Zítko, 16. 7. 2026)
+
+Zítko tvrdí, že pupečníková šňůra by se měla po porodu nechat „dotepat" (30–60 minut), aby dítě dostalo maximum kmenových buněk, krve a kyslíku — což prý u císařského řezu není možné, protože dítě musí rychle ven. To spojuje s obviněním, že v pražském Podolí se rodí „41 miminek císařským řezem", aby se mohlo kšeftovat s pupečníkovou krví pro farmaceutický průmysl. Dotepání šňůry a první mlezivo (kolostrum) označuje za „vakcínu, kterou dává maminka", již žádná injekce nenahradí. Spojuje to s propadem porodnosti o 30 %.
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)

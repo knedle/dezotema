@@ -129,3 +129,13 @@ Vrabel podrobněji rozebírá totéž nařízení, které téhož dne komentoval
 NATO připravuje rozsáhlý systém digitálního dohledu nad východním křídlem aliance (od Finska po Rumunsko) postavený na vojenské AI platformě **Maven** od Palantiru (viz [Palantir/Anthropic a technologická suverenita EU](#palantiranthropic-a-technologická-suverenita-eu-vrabel-18-6-2026)) — má propojit satelity, drony, radary, kamery a pozemní senzory pro rychlejší sledování pohybu ruských sil a rozhodování v krizi, pod přístupem „první vidět, první rozhodnout, první udeřit". Vrabel to čte jako potvrzení své od roku 2022 opakované teze o obklíčení Ruska hraničními státy NATO (Pobaltí, Finsko, Polsko, Slovensko, ČR, Maďarsko, Bulharsko, Rumunsko, Moldavsko) coby přípravě na útok pomocí letadel F-35 schopných nést jaderné zbraně. Podrobněji představuje samotný Palantir a jeho zakladatele Petera Thiela (spolu s Elonem Muskem tzv. „PayPal mafie", hlavní sponzor J. D. Vance, prosazovatel „technokracie" — vlády řízené technologií a experty místo demokracie) — technologie podle něj nejen sleduje a vyhodnocuje hrozby, ale dokáže na základě zadání i přímo spustit útok zbraněmi (přirovnává ji k fiktivnímu Skynetu z Terminátora).
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
+### Patent Pfizer na „dálkové sledování očkovaných" — Bluetooth na hřbitově (Zítko, 16. 7. 2026)
+
+Zítko tvrdí, že patentová přihláška firmy Pfizer schválená 31. srpna 2021 je prvním z více než 18 500 patentů sloužících k „dálkovému sledování kontaktů" všech očkovaných lidí na světě. Jako „důkaz" uvádí historku (připisovanou Oganesianovi): na starším Android telefonu (2017–2018) prý přes Bluetooth vyhledávání najdete „spoustu kamarádů" i na prázdném hřbitově — protože pohřbení očkovaní mají díky „genové terapii" stále vysílat signál. Radí to vyzkoušet.
+
+⚡ **Poznámka:** Tvrzení o Bluetooth signálu z očkovaných (živých i mrtvých) je opakovaně vyvrácený hoax.
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)

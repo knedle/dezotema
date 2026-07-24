@@ -402,6 +402,16 @@ Vrabel komentuje nizozemský rozsudek: 33letý irácký žadatel o azyl Jamal T.
 
 ---
 
+### „40 z 50 milionů muslimských imigrantů v Evropě na sociálních dávkách" (Zítko, 16. 7. 2026)
+
+Zítko uvádí tvrzení, že ze zhruba 50 milionů muslimských imigrantů žijících v Evropě jich 40 milionů žije ze sociální pomoci. Odkazuje na zesnulého komentátora Petránka a jeho tezi, že Evropa páchá „trojským koněm migrace svoji sebevraždu".
+
+⚡ **Poznámka:** Uváděná čísla nejsou doložena a neodpovídají dostupným statistikám.
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+
+---
+
 ### Macinka v Izraeli: „ČR nejbezpečnější díky absenci muslimů" — Vrabel oponuje (17. 7. 2026)
 
 Ministr zahraničí Petr Macinka na česko-izraelském podnikatelském fóru prohlásil, že ČR je nejbezpečnější zemí Evropy díky absenci migrantů z islámských zemí. Vrabel s tím nesouhlasí: tvrdí, že islámský problém v ČR existuje, jen není tolik vidět na ulicích. Jako doklady uvádí dokument ČT *Já muslim* (skrytá kamera v mešitě na Černém Mostě — údajné učení, „jak mlátit ženu, aby to nebylo vidět"), svého známého Lukáše Lhoťana (bývalý vysoce postavený muslim, jemuž komunita zaplatila velký hadždž, později sbíral dokumenty — zakončeno policejní razií v mešitě), a příběh Pavlíny Bytařové (bývalá česká muslimka, provdaná imámem, žila prý se dvěma muži, poté se skrývala; pomohl jí Martin Konvička, jehož označuje za „hrdinu"). Uzavírá, že ČR nemá tolik přistěhovalců díky odporu „od roku 2015", ale za budoucí migranty viní právě Macinku, který ČR „zazdil" v migračním paktu. Navazuje na [Migrační pakt platí i pro ČR](#migrační-pakt-platí-i-pro-čr-británie-před-občanskou-válkou-islám-vs-křesťanství--vrabel-13-6-2026).
