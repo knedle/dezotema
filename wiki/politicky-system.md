@@ -1033,3 +1033,15 @@ V úvaze nad Trumpovým výrokem „moje moc je neomezená" Vrabel rozvíjí tez
 **16. 7.** — Vrabel tezi rozvíjí do konceptu „korporátního, fašistického feudalismu": po covidu se podle něj demokracie (fungující parlamenty rozhodující zákony) rozpadla a vše se redukovalo na to, co řekne jediný vůdce — Putin, Trump, Babiš, Zelenskyj — zatímco parlamenty a kongresy jsou jen „přísedící" schvalující rozhodnutí shora (cituje v této souvislosti Daniela Landu z covidové éry). Srovnává Trumpa s Babišem jako srovnatelné oligarchy (oba mezi nejbohatšími lidmi svých zemí) a dokládá to na seznamu Trumpových soukromých nemovitostí na Blízkém východě (golfová hřiště a hotely v SAE, Kataru, Ománu, Saúdské Arábii), které si jako úředník volený k řízení státu ponechal v soukromém vlastnictví. Kontrastuje to se strukturou moci v Rusku a Íránu, kde se dle něj veřejně střídají různé postavy (Putin, Lavrov, Peskov, Zacharovová, Medveděv) a Írán navíc rozdělil území na 12 samostatně velených vojenských celků — což podle Vrabela vysvětluje, proč se íránský stát nerozpadl ani po zabití vrcholných představitelů, zatímco západní systém je postaven na jednotlivcích a bez nich by se zhroutil. Zdůrazňuje, že tím nechce upřednostňovat íránský režim, jen poukazuje na strukturální rozdíl.
 
 **Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026), [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
+## Kritika soudnictví
+
+### Recidivista Cigoš a shovívavost justice — Vrabel volá po trestu smrti/doživotí (17. 7. 2026)
+
+Vrabel komentuje případ Patrika Cigoše, jemuž Olomoucký krajský soud uložil výjimečný trest 27,5 roku za brutální vraždu partnerky (45 ran nožem) spáchanou tři týdny po podmínečném propuštění z výkonu trestu za obdobný čin z roku 2014 (tehdy 45 ran, 10 nožů, 16,5 roku). Vrabel z toho vyvozuje selhání justice: takový člověk za ~15 let vyjde a „udělá to samé"; soudce se prý ještě „omlouvá" za výjimečný trest. Míní, že za takto brutální čin by pachatel měl „viset" (byť sám je „obecně proti trestu smrti") — nebo dostat doživotí a v něm alespoň něco vyrábět pro společnost — aby byly chráněny další potenciální oběti. Do komentáře vkládá etnický podtón (příjmení „Cigoš") a poznámku, že pachatel je „mentálně poškozený, stejně jako jeden z našich politiků".
+
+⚡ **Poznámka:** Výrok obsahuje etnizující narážku; kategorii stochastického teroru viz [stochasticky-teror.md](stochasticky-teror.md).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)

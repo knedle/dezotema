@@ -391,3 +391,19 @@ Skupina maskovaných mladíků ozbrojených mačetami („zombie knives") zaúto
 V centru Bruselu proběhla demonstrace organizace Save Europe Act (stovky účastníků) požadující přísnější ochranu hranic a omezení nelegální migrace — akce se konala navzdory původnímu zákazu bruselského starosty, který soud zrušil s odkazem na právo na pokojné shromažďování. Vrabel demonstraci vítá, ale považuje ji za neschopnou cokoliv reálně změnit, protože nejde o systémovou politickou změnu. Připomíná vlastní strategii z roku 2022: cílem demonstrací mělo být shromáždit lidi, aby je pak bylo možné politicky zorganizovat a dosadit přes volby do mocenských struktur — což se podle něj nepodařilo, protože se lidé nechali „podvést". Plánuje začít znovu od začátku (shromáždění lidí → politická organizace → volby → obsazení mocenských struktur), tentokrát s větší zkušeností s fungováním tajných služeb a „mafie ve státě", ale i s vědomím zrezignovanější a zfanatizovanější společnosti.
 
 **Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
+### Nizozemsko: Iráčan osvobozen po usmrcení 14leté dívky (Vrabel, 17. 7. 2026)
+
+Vrabel komentuje nizozemský rozsudek: 33letý irácký žadatel o azyl Jamal T. byl zproštěn obžaloby z nedbalostního usmrcení a útěku z místa nehody poté, co při řízení (údajně sledoval mobil) srazil a usmrtil 14letou dívku — soud dospěl k závěru, že si podle důkazů neuvědomil, že dívku srazil. Vrabel rozsudek uvádí jako příklad selhání justice vůči migrantům („jeden Jamal, který tam vůbec nemá co dělat, zabije holku a oni ho propustí") a předpovídá, že totéž čeká ČR kvůli migračnímu paktu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Macinka v Izraeli: „ČR nejbezpečnější díky absenci muslimů" — Vrabel oponuje (17. 7. 2026)
+
+Ministr zahraničí Petr Macinka na česko-izraelském podnikatelském fóru prohlásil, že ČR je nejbezpečnější zemí Evropy díky absenci migrantů z islámských zemí. Vrabel s tím nesouhlasí: tvrdí, že islámský problém v ČR existuje, jen není tolik vidět na ulicích. Jako doklady uvádí dokument ČT *Já muslim* (skrytá kamera v mešitě na Černém Mostě — údajné učení, „jak mlátit ženu, aby to nebylo vidět"), svého známého Lukáše Lhoťana (bývalý vysoce postavený muslim, jemuž komunita zaplatila velký hadždž, později sbíral dokumenty — zakončeno policejní razií v mešitě), a příběh Pavlíny Bytařové (bývalá česká muslimka, provdaná imámem, žila prý se dvěma muži, poté se skrývala; pomohl jí Martin Konvička, jehož označuje za „hrdinu"). Uzavírá, že ČR nemá tolik přistěhovalců díky odporu „od roku 2015", ale za budoucí migranty viní právě Macinku, který ČR „zazdil" v migračním paktu. Navazuje na [Migrační pakt platí i pro ČR](#migrační-pakt-platí-i-pro-čr-británie-před-občanskou-válkou-islám-vs-křesťanství--vrabel-13-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)

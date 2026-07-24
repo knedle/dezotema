@@ -2082,3 +2082,35 @@ Ukrajinské firmy získají přístup ke zbrojním programům Evropské unie a d
 Podle deníku Financial Times bude moci Kyjev poprvé vyčlenit přibližně 6 miliard eur z celkového unijního úvěru na vojenské nákupy (60 mld. eur) na pořízení čínských komponentů pro drony — dosavadní pravidla dovolovala nakupovat jen zbraně od EU, rozvíjet vlastní obranný průmysl nebo nakupovat od schválených výrobců. Vrabel to komentuje jako „smutnou výpověď" o stavu zbrojního průmyslu v Evropské unii, který si sám nedokáže zajistit potřebné komponenty.
 
 **Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
+### Trump obviňuje Čínu z vměšování do voleb — „kdo to říká, ten to je" (Vrabel, 17. 7. 2026)
+
+K Trumpově cca 25minutovému projevu, v němž obvinil Čínu z vměšování do amerických voleb (a vyzval republikány k podpoře zákona Save America Act), Vrabel reaguje Putinovým dětským pořekadlem „kdo to říká, ten to je". Připomíná, že Čína se dle něj do geopolitiky (ani do voleb) prakticky nevměšuje a v ukrajinsko-ruském konfliktu zůstává v pozadí a vyzývá k míru. Naproti tomu USA prý po druhé světové válce zasáhly do výměny vlád **73×** (a od sestavení tabulky přibyly další — Venezuela, Írán, pokus o výměnu vlády v Rusku) — otevřeně skrze CIA, armádu, neziskové organizace a média. Jako čistě americkou operaci označuje protiústavní převrat na Ukrajině v roce 2014. Navazuje na [Tři fáze konfliktu Západ–Rusko](#tři-fáze-konfliktu-západrusko-od-majdanu-k-terorismu-na-ruském-území-vrabel-31-5-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Polsko: „mobilizace bez mobilizace", příprava na válku s Ruskem (Vrabel, 17. 7. 2026)
+
+K oznámení poradce polského ministra obrany Matěje Samsonoviče o novém mechanismu, který umožní předem připravit ozbrojené síly, kritickou infrastrukturu, dopravu i státní správu na ozbrojený konflikt bez oficiálního vyhlášení válečného stavu, Vrabel líčí vlastní pozorování: s manželkou sledoval polské zprávy (v angličtině) a měl dojem, že „Poláci už jsou ve válce" — na hranicích prý probíhají velké operace, létají letadla, probíhá příprava na válku s Ruskem. Kontrastuje to s ČR, kde se podle něj „spinká". Navazuje na [Krize Polsko–Ukrajina](#krize-polskoukrajina-eskaluje-kvůli-upa-pochybnosti-o-katyni-a-smolensku-predikce-rozpadu-ukrajiny-černohorský-28-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Řecko blokuje 18. balík sankcí + ruský AI-prank na poradce Dokose (Vrabel, 17. 7. 2026)
+
+Vrabel referuje, že Řecko blokuje nejnovější balík protiruských sankcí kvůli ochraně firmy Dinagas podílející se na přepravě ruského LNG z Arktidy — jednání byla odložena na 23. 7.; případ prý znovu otevřel debatu o pravidle jednomyslnosti. Jako „zajímavost, kterou jinde neuslyšíte" přidává ruský žertovný „prank": ruští „prankeři" pomocí umělé inteligence napodobili hlas ukrajinského ministra obrany Rustema Umerova a nachytali řeckého poradce pro národní bezpečnost Tanose Dokose ve videohovoru — Dokos prý nabídl, že „když najdou nějakého ruského miliardáře", pomohou ho „vybombardovat". Vrabel z toho vyvozuje dvě věci: skandální ochotu řeckého poradce a ukázku, že Rusové se dokážou nabourat do vysoce chráněné komunikace.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### ČR nepozvána do evropského protiraketového štítu — „sleduj peníze" (Vrabel, 17. 7. 2026)
+
+Deset zemí „koalice ochotných" (Německo, Dánsko, Francie, Itálie, Nizozemsko, Norsko, Španělsko, Ukrajina, Švédsko, Velká Británie) nepozvalo ČR k budování nového evropského protiraketového (balistického) štítu s odůvodněním „nejasné pozice ministra zahraničí" a nedostatečně stabilní komunikace se spojenci. Vrabel to nechápe: Babiš podle něj splnil vše (odmával 90 mld. pro Ukrajinu, nákup F-35, udržel ČR v NATO i bez referenda, na summitu NATO odsouhlasil 70 mld. eur ročně pro Ukrajinu i muniční iniciativu) — „co by ještě NATO chtělo?". Uzavírá metodou „sleduj peníze": za zprávou je prý dohoda, že na výrobě vydělá někdo jiný a Češi budou dělat jen „druhořadou" výrobu komponentů (paralela s automobilkami). Zdůrazňuje, že sám zapojení ČR do koalice ani výrobu zbraní neschvaluje. Navazuje na [francouzský „jaderný deštník" / koalici ochotných](#).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)

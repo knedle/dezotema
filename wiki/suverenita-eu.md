@@ -522,3 +522,35 @@ Bývalý maďarský ministr zahraničí Péter Szijjártó (dlouholetý spolupra
 Výrobce malých traktorů Zetor po 80 letech definitivně končí s výrobou v Brně a přesouvá produkci do Asie (viz i [Vrabelův komentář ke stejné zprávě, 13. 7.](valka-nato-rusko.md)) — jde podle Rajchla o posledního výrobce malých traktorů, který v Evropě zůstal. Příčinou je dle něj Green Deal — „pomatená fanatická ideologie", která nijak nezlepšuje životní prostředí (globální uhlíková stopa se nezmění, výroba jen přechází jinam), ale slouží k obohacení západoevropských investičních a penzijních fondů, které profitují z obchodu s emisními povolenkami. Za stranu PRO deklaruje tvrdý a nekompromisní boj proti Green Dealu i proti Ursule von der Leyenové a jejímu vedení EU, pokud bude v prosazování této politiky pokračovat.
 
 **Zdroje:** [Rajchl — Videoportál 14. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-14-7-2026)
+
+---
+
+### Srbsko a EU: obě strany jen předstírají zájem o vstup (Vrabel, 17. 7. 2026)
+
+K výzvě europoslanců, aby Srbsko urychlilo reformy (právní stát, boj s korupcí, svoboda médií) a k výtkám ohledně vazeb na Čínu a Rusko, Vrabel z osobní zkušenosti (nedávný pobyt v Bělehradu, oběd s nejmenovaným politikem zastupujícím Srbsko v přístupových jednáních) tvrdí, že vstup do EU je oboustranná přetvářka: dle statistik EU je proti vstupu 65 % Srbů (reálně dle něj ještě víc). Cituje advokáta Gorana Petroniho: „EU předstírá, že chce Srbsko přijmout, ale nechce; Srbsko předstírá, že chce vstoupit, ale nechce — všichni to vědí a všichni předstírají dál." Jako důvody nemožnosti vstupu uvádí, že srbský prezident Vučić nepodepsal protiruskou deklaraci, otázku Kosova, ruské sankce a čínské hypersonické balistické rakety, které nemá žádný jiný evropský stát. Ilustruje rozdíl mentalit na novém srbském zákoně o povinné legalizaci staveb (osobní komplikace při koupi nemovitosti — legalizace může trvat až 5 let, s domem se mezitím nesmí obchodovat), který Srbové nechápou, protože se u nich vždy stavělo bez povolení a stát pak dělal plošné legalizace.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Zpráva EK o právním státu: kritika ČR (média, střet zájmů), pochvala Maďarska — „protektorát" (Vrabel, 17. 7. 2026)
+
+K výroční zprávě Evropské komise o stavu právního státu, která ČR vytkla nedostatečný pokrok v pravidlech střetu zájmů a skutečného vlastnictví a upozornila na obavy z návrhu zrušit poplatek za veřejnoprávní média (ČT), Vrabel reaguje ostře. Zákon o skutečném vlastnictví podle jeho zkušenosti (byl jednatelem více firem) funguje dobře, takže výtky nechápe. To, že EK zároveň chválí „reformní kroky Maďarska" (které dle Vrabela mění ústavu, aby se zbavilo prezidenta, a jehož státní televize vysílá „černou obrazovku"), zatímco kritizuje ČR za dotýkání se ČT, vykládá jako důkaz, že EU je „náš vládce" rozhodující o tom, co se smí vysílat (ČT prý má v kodexu povinnost vysílat v souladu s politikou EU). ČR přirovnává k „protektorátu"; připomíná, že EK má zřídit vlastní úřady v hlavních městech členských zemí. Navazuje na svou tezi o federalizaci EU (viz [omezené okno pro vystoupení z EU](#)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Emisní povolenky po 2030 a rozhodování kvalifikovanou většinou — konec veta (Vrabel, 17. 7. 2026)
+
+K návrhu EK zachovat bezplatné emisní povolenky pro průmysl i po roce 2030 (nově podmíněné plány na snižování emisí) Vrabel upozorňuje, že o pravidlech ETS se rozhoduje kvalifikovanou většinou, nikoli jednomyslně (právem veta). To považuje za nebezpečný trend federalizace EU: ČR jako malý partner ztrácí své „silné veto" a stává se „malým bezvýznamným státem bez rozhodovacích práv". Samotné emisní povolenky označuje za „zlodějský podvod od začátku do konce". Doplňuje dřívější Rajchlův výklad povolenek (viz [Emisní povolenky: ČR platí 17× víc než Němci](#emisní-povolenky-čr-platí-17-víc-než-němci--platíme-německé-důchody-rajchl-4-6-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### EU vs. Mezinárodní olympijský výbor: absurdní byrokracie kvůli ruským sportovcům (Vrabel, 17. 7. 2026)
+
+Devět zemí EU vyzvalo komisaře Glena Mikalefa, aby EU přestala financovat Mezinárodní olympijský výbor kvůli zrušení zákazu pro ruský olympijský výbor (ruští sportovci se tak budou moci účastnit OH 2028 v Los Angeles). Evropská komise reagovala, že MOV žádné prostředky neposkytuje, takže mu je nemůže odebrat — místo toho prověří případné finanční vazby na jednotlivé sportovní organizace. Vrabel to označuje za „byrokracii na entou" a „top vtip": EU řeší, jak MOV odebrat peníze, aby zjistila, že mu žádné nedává. Zasazuje to do teze o Evropě propadající se do „absolutní kolonie Spojených států".
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)

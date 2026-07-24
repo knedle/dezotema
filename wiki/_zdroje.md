@@ -3084,3 +3084,12 @@
 - **Délka:** 00:03:21
 - **Poznámka:** Zpracováno 1 téma: aditiva v masných výrobcích jako „iluze čerstvosti" (dusitan E250/nitrosaminy, fosfáty, transglutamináza, karmín E120, separát, karagenan E407) — [konspirace.md](konspirace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 17. 7. 2026 {#ladislav-vrabel--zprávy-v-devět-17-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-17_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1016612101158251>
+- **Datum záznamu:** 2026-07-17
+- **Délka:** 00:43:18
+- **Poznámka:** Zpracováno 12 témat ("Zprávy v devět s komentářem"): (1) Trump obviňuje Čínu z vměšování do voleb, USA prý 73× měnily vlády — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Hormuzský průliv každý pátek: manipulace trhu s ropou — [ceny-energie.md](ceny-energie.md). (3) Polsko „mobilizace bez mobilizace" — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Recidivista Cigoš, kritika shovívavosti justice — [politicky-system.md](politicky-system.md). (5) Nizozemsko: Iráčan osvobozen po usmrcení dívky — [migrace.md](migrace.md). (6) Macinka v Izraeli „ČR nejbezpečnější díky absenci muslimů" — Vrabel oponuje — [migrace.md](migrace.md). (7) Srbsko a EU jen předstírají zájem o vstup — [suverenita-eu.md](suverenita-eu.md). (8) Řecko blokuje sankce + ruský AI-prank na poradce Dokose — [valka-nato-rusko.md](valka-nato-rusko.md). (9) ČR nepozvána do evropského protiraketového štítu — [valka-nato-rusko.md](valka-nato-rusko.md). (10) Zpráva EK o právním státu (kritika ČR, pochvala Maďarska), „protektorát" — [suverenita-eu.md](suverenita-eu.md). (11) Emisní povolenky po 2030 + kvalifikovaná většina — [suverenita-eu.md](suverenita-eu.md). (12) EU vs. MOV — ruští sportovci na OH 2028 — [suverenita-eu.md](suverenita-eu.md). Stoch. teror: 1 výrok (Trump — vězení a zabavení majetku i rodině). Bez predikcí.
+- **Zpracováno:** ano
