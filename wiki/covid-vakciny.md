@@ -657,6 +657,14 @@ Zítko ve vysílání 4. 5. 2026 odkazuje na místopřísežné prohlášení pr
 
 ---
 
+### Boldy: vakcíny jako biologická zbraň a nástroj snižování populace (17. 7. 2026)
+
+Boldy tvrdí, že vakcíny mají sloužit jako biologická zbraň — odkazuje na patent, který má vyvěšený na svém profilu. Necituje očekávání nové pandemie, ale existující plán: Bill Gates prý už na konferenci TED v roce 2017 řekl, že snížení populace o 10–15 % „bude daleko lepší". Jako projev tohoto plánu uvádí nárůst rakovin a zdravotních problémů u mladých lidí po covidu a po vakcínách a pokles porodnosti. Argumentuje, že nejde primárně o „zabíjení" lidí (to se prý děje pomalu jídlem, vzduchem), ale o snížení porodnosti tak, aby populace za 10–20 let klesala (více úmrtí než porodů) — odvolává se na statistiku růstu populace, který prý za 6 let sledování „brutálně zpomalil". Navazuje na [Vakcíny COVID-19 = biologické zbraně (Francis Boyle)](#francis-boyle-vakcíny-covid-19--biologické-zbraně-hromadného-ničení--zítko-4-5-2026) a [Propad porodnosti o třetinu](#propad-porodnosti-o-třetinu--data-z-úzis-zítko).
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+
+---
+
 ### Holandský soud: mRNA vakcíny označeny za biologické zbraně — ČsTV2 (7. 5. 2026)
 
 ČsTV2 ve vysílání 7. 5. 2026 cituje soudní případ vedený advokátem Pietrem Stassenem v Nizozemsku. Soud prý poprvé v historii projednává svědectví, že mRNA vakcíny jsou biologické zbraně, nikoliv léky. Žalovaní jsou Bill Gates, Albert Bourla (ředitel Pfizer) a Mark Rutte (former premiér Holandska, nyní generální tajemník NATO). Soud prý nařídil Gatesovi a Bourlovi, aby se dostavili a odpověděli.

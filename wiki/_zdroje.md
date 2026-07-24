@@ -3066,3 +3066,12 @@
 - **Délka:** 01:31:26
 - **Poznámka:** Zpracováno 11 témat: (1) Rajchlův nesplněný slib vystoupení z WHO vs. Trump — [covid-vakciny.md](covid-vakciny.md). (2) „Tartárie" a rok 1776 — [konspirace.md](konspirace.md). (3) Dvojí metr Turek vs. Fiala/Pavel (nehody) — [kauzy.md](kauzy.md). (4) Americká žaloba — 45 000 mrtvých, CDC 150 000 — [covid-vakciny.md](covid-vakciny.md). (5) Umlčovaní lékaři v zahraničí (Rose, Noack, Gold) — [kauzy.md](kauzy.md). (6) Cena za svobodu projevu — aktuální hlasy — [politicky-system.md](politicky-system.md). (7) Kauza Paukner — ČT a Svaz moderní energetiky — [media-propaganda.md](media-propaganda.md). (8) George Soros — konec impéria — [konspirace.md](konspirace.md). (9) Vyšetřování Fauciho (gain-of-function) — [covid-vakciny.md](covid-vakciny.md). (10) FDA/thimerosal — [covid-vakciny.md](covid-vakciny.md). (11) Dr. Pierre Corry — média jako spoluviníci — [covid-vakciny.md](covid-vakciny.md). Opakování beze změny (jen zdroj, bez rozšíření): Helmut Šterc 60 000 Němců, dvojníci Bibi/Biden/Fiala, MedBeds, tunely Central Park/adrenochrom, Bitcoin kauza, Pšenák/Oganesian prediktivní programování. Bez predikcí a stoch. teroru (nad rámec již zdokumentovaného).
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál 17. 7. 2026 {#konspirátor-boldy--videoportál-17-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-17_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/2070534926879095>
+- **Datum záznamu:** 2026-07-17
+- **Délka:** 00:11:41
+- **Poznámka:** Zpracováno 6 témat: (1) Geoinženýrství — patenty od 1896, Bill Gates přes neziskovky, vesmírná zrcadla — [konspirace.md](konspirace.md). (2) Většina lidí jako „NPC", jen ~1 miliarda „s duší" — [konspirace.md](konspirace.md). (3) Prezidenti jako „jedna panda", nejbohatší nejsou nejmocnější — [konspirace.md](konspirace.md). (4) GMO a průmyslové potraviny jako likvidace — [konspirace.md](konspirace.md). (5) Vakcíny jako biologická zbraň a snižování populace (Gates, TED 2017) — [covid-vakciny.md](covid-vakciny.md). (6) YouTube smazal přes milion videí o vakcínách, umlčovaní vědci — [dsa-cenzura.md](dsa-cenzura.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

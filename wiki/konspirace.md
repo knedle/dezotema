@@ -57,6 +57,38 @@ Boldy tvrdí, že vzduch v Evropě je záměrně kontaminován chemtrails (geoen
 
 ---
 
+### Geoinženýrství: patenty od 1896, Bill Gates přes neziskovky, vesmírná zrcadla (Boldy, 17. 7. 2026)
+
+Boldy rozvádí tezi o geoinženýrství: přirozené klimatické cykly (dle něj se klima mění každých 12 000, resp. 24 000 let) nepopírá, ale tvrdí, že existuje přes 120 patentů na modifikaci počasí — první z roku 1896 na rozhánění mlhy, bombardování mraků od r. 1880. Financování dnes prý zajišťuje Bill Gates a jeho neziskové organizace ve spojení s bankami; neziskovky označuje za „černou díru", která má znemožnit dohledatelnost. Nejnovějším plánem má být rozmístění cca tisíce obřích zrcadel přibližně 1650 km nad zemským povrchem simulujících měsíční svit — což by dle Boldyho zlikvidovalo noční živočichy a rostliny („všechno umělé"). Lidi, kteří geoinženýrství a chemtrails zpochybňují (jmenuje slovenský kanál „Vědátor SK"), označuje za „NPC" bez schopnosti si informace ověřit. Navazuje na [Chemtrails a záměrná kontaminace ovzduší](#chemtrails-a-záměrná-kontaminace-ovzduší).
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+
+---
+
+### Většina lidí jako „NPC"; jen ~1 miliarda lidí má „duši" a kritické myšlení (Boldy, 17. 7. 2026)
+
+Boldy opakovaně označuje většinovou populaci za „chodící NPCčka" — lidi neschopné vlastního kritického myšlení a úsudku, kteří jen bagatelizují. Odvolává se na blíže neurčeného „vědce", podle nějž je maximální počet lidí „s duší a s kritickým myšlením" na světě jedna miliarda. Jako příklad utajitelnosti rozsáhlých plánů uvádí projekt Manhattan: prý na něm pracovalo ~100 000 lidí, z nichž 99,9 % do poslední chvíle nevědělo, na čem dělají — z toho vyvozuje, že i dnes lze utajit rozsáhlé operace.
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+
+---
+
+### Prezidenti jako „jedna panda ve dvou táborech"; nejbohatší nejsou nejmocnější (Boldy, 17. 7. 2026)
+
+Boldy tvrdí, že prezidenti jako Trump a Putin jsou „jedna stejná panda, rozdělená do dvou táborů" — přirovnává to k fandění fotbalovým týmům na mistrovství světa (kdo je neutrální, „dělá to špatně"). Lidé s největšími majetky (jmenuje Billa Gatese) podle něj nejsou nejmocnějšími lidmi na světě; nad nimi stojí struktury, které jim dávají rozkazy. Navazuje na [Nadnárodní elity a projekt „Velký Izrael"](#nadnárodní-elity-a-projekt-velký-izrael), kde jsou Gates, Rothschildové a Rockefellerové označeni za „loutky".
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+
+---
+
+### GMO a průmyslové potraviny jako nástroj likvidace (Boldy, 17. 7. 2026)
+
+Boldy tvrdí, že GMO (geneticky modifikované organismy) jsou „velké ohrožení pro lidstvo": v USA se prý od roku 2023 přidávají do rostlin, včely je roznášejí dál a existují na to „sovětské studie". Do stejné linie řadí umělé maso z 3D tiskáren a pasterizované mléko — u něj popisuje osobní „test": litr kupovaného mléka nechal týden odstát a zůstala prý jen čtvrtina „sražené sračky" a zbytek voda. Dochází k závěru, že cílem je přechod „na všechno umělé". Navazuje na [Skupování orné půdy a kontrola potravin jako globalistická agenda](#skupování-orné-půdy-a-kontrola-potravin-jako-globalistická-agenda-vrabel-3-6-2026) a na [mRNA v rostlinách a potravinovém řetězci](covid-vakciny.md#mrna-v-rostlinách-a-potravinovém-řetězci).
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+
+---
+
 ### Dlouhodobě plánovaná „plandemie" — vatikánský deník 1989 (Zítko, 1. 6. 2026)
 
 Zítko ve vysílání 1. 6. 2026 prezentuje jako „důkaz" dlouhodobého plánování pandemie článek, který prý vyšel 1. srpna 1989 v oficiálním vatikánském deníku — tedy 37 let před vysíláním a ještě „za Československa". Článek měl nést titulek „Velký bratr se blíží" a odhalovat „tajný plán na označení každého muže, ženy a dítěte" kódovanými mikročipy implantovanými do každého člověka na světě, propojenými s centrálním počítačem schopným kohokoliv kdykoliv lokalizovat. Klíčová citace, kterou Zítko opakuje: „Vše, co bude muset vláda udělat, je vymyslet něco jako prasečí šipku a vakcínu proti ní." Zítko to spojuje s prasečí chřipkou roku 2009 (20 let po článku) i s pozdějším covidem jako naplněním téhož scénáře.

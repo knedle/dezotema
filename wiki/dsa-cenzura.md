@@ -70,6 +70,14 @@ Zítko na příkladu švýcarského provozovatele **Bytel TV** dokumentuje ploš
 
 ---
 
+### YouTube smazal přes milion videí o vakcínách; umlčovaní vědci (Boldy, 17. 7. 2026)
+
+Boldy tvrdí, že „bývalá šéfka YouTube" nedávno přiznala smazání více než jednoho milionu videí o vakcínách označených za „antivax" — přestože prý šlo o tisíce studií a tisíce vědců s důkazy. Účelem cenzury dle Boldyho bylo, aby se informace „k lidem nedostaly". Do stejné linie řadí umlčování nepohodlných vědců: ti, kdo začnou mluvit, prý ztrácejí práci, jsou „dehonestováni" a končí „sebevraždou" (naznačuje, že jde o vraždy). Jako příklad zmizení informací uvádí přenos konference uznávaných vědců z Rakouska, Německa a Velké Británie, který prý sledoval živě na YouTube, a poté „se slehla zem" — žádné informace o vědcích ani videu už nedohledal. Uzavírá, že tvrzení „vědecky to není dokázáno" a odkaz na „vědecký konsenzus" jsou důsledkem toho, že nesouhlasné studie byly smazány, a že věda „neslouží lidem, ale financím". Navazuje na [Boldy: 13 vědců zavražděno po odkrytí volné energie](konspirace.md#boldy-13-vědců-zavražděno-po-odkrytí-volné-energie-24-5-2026).
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+
+---
+
 ## COVID rozsudky: odsouzení za varování
 
 ### Konkrétní případy odsouzených za covidové výroky

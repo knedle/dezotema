@@ -28,6 +28,10 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Macinka napojen na sektu Chabad-Lubavič (antisemitská konspirace, sionismus, drogy/bitcoiny) — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 - Barevná mračna u Karlových Varů jako geoinženýrství/chemtrails — [11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 - Požáry v Peru (Cusco/Machu Picchu) a Argentině jako záměrné ničení starobylých civilizací „sionisty" — [13. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-13-7-2026)
+- Geoinženýrství — 120+ patentů od 1896, financování Bill Gates přes neziskovky, vesmírná zrcadla — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- Většina lidí jako „NPC", jen ~1 miliarda lidí „s duší" a kritickým myšlením — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- Prezidenti (Trump, Putin) jako „jedna panda ve dvou táborech"; nejbohatší nejsou nejmocnější — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- GMO a průmyslové potraviny (umělé maso, pasterizované mléko) jako nástroj likvidace — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
@@ -45,6 +49,10 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 ### [COVID a vakcíny](../covid-vakciny.md)
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 - Depopulace jako cíl elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Vakcíny jako biologická zbraň, Gates na TEDu 2017 o snížení populace o 10–15 % — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+
+### [DSA a cenzura](../dsa-cenzura.md)
+- YouTube smazal přes milion videí o vakcínách; umlčovaní vědci ztrácejí práci / „sebevraždy" — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT jako propaganda, TV Nova ještě horší — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
@@ -75,6 +83,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Petr Pavel | ❌ negativní | Označen za „největšího pokrytce" a „zaprodance" v souvislosti s kauzou Turek — sám porušuje ústavu, ale drží se u moci díky podpoře korporací | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
 | Jana Černochová | ○ neutrální | Uvedena jako příklad dvojího metru — loni bourala s majáky bez následků na rozdíl od Turka | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
 | Filip Turek | ○ neutrální | Uveden jako objekt tlaku na rezignaci po dopravní nehodě — dvojí metr vůči Černochové | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
+| Bill Gates | ❌ negativní | Financuje geoinženýrství a modifikaci počasí přes neziskovky; na TEDu 2017 mluvil o snížení populace o 10–15 % | 2026-07-17 | [Videoportál 17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026) |
 
 ---
 
@@ -95,3 +104,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 11. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 - [Videoportál 13. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-13-7-2026)
 - [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)
+- [Videoportál 17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
