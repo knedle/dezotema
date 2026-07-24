@@ -3103,6 +3103,15 @@
 - **Poznámka:** Samostatné vysílání „Pfizergate a Uršula 11:11" (odlišné od Videoportálu 16. 7.). Zpracováno 7 témat: (1) Pfizergate — von der Leyen SMS s Bourlou, „nacistický" rodokmen/eugenika, Heiko v Orgenesis — [covid-vakciny.md](covid-vakciny.md). (2) Pohřební služba Marlis (Německo): nadúmrtnost, rychlý rozklad, turbo rakoviny — [covid-vakciny.md](covid-vakciny.md). (3) Studie očkované vs. neočkované děti (Avdičová, 22 kategorií) — [covid-vakciny.md](covid-vakciny.md). (4) Pupečníková krev / byznys s císařskými řezy — [covid-vakciny.md](covid-vakciny.md). (5) Patent Pfizer na dálkové sledování (Bluetooth na hřbitově) — [digitalni-kontrola.md](digitalni-kontrola.md). (6) 40/50 mil. muslimů na dávkách (Petránek) — [migrace.md](migrace.md). (7) ČT placená solár/farma/zbrojaři — [media-propaganda.md](media-propaganda.md). Stoch. teror: 2 výroky (šarže E na média/politiky; schválení Čermáka „naházet do řeky"). Opakování beze změny (jen zdroj): Deep State/Central Casting reprízy, přistání na Měsíci/Kubrick/Area 51, volby 2023 podvod, kauza Blažek/bitcoiny, Kirsch/CDC 150 mil., Cena za svobodu projevu (Čermák/Svoboda). Bez predikcí.
 - **Zpracováno:** ano
 
+## Konspirátor Boldy — Facebook Live 19. 7. 2026 {#konspirátor-boldy--facebook-live-19-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-19_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1005094632331445>
+- **Datum záznamu:** 2026-07-19
+- **Délka:** 00:58:38
+- **Poznámka:** Útržkovité vysílání. Zpracováno 12 témat: (1) Trump „brány pekelné"/Írán, USA varování — [blizky-vychod.md](blizky-vychod.md). (2) Voda na burze + datacentra AI — [konspirace.md](konspirace.md). (3) MS ve fotbale jako okultismus, míč ovládaný AI — [konspirace.md](konspirace.md). (4) Sociální sítě manipulují myšlením — [digitalni-kontrola.md](digitalni-kontrola.md). (5) Větrníky zabíjejí ryby/hmyz/ptáky — [vetrniky.md](vetrniky.md). (6) Film „Včelař"/Trump včelař, Beyoncé→AI, antikrist 2017/Musk roboti — [konspirace.md](konspirace.md). (7) [sloučeno do 6]. (8) IceCube Antarktida vyvolává zemětřesení, kritika Alatry — [konspirace.md](konspirace.md). (9) Darkweb: zbraně/děti/vrazi — [konspirace.md](konspirace.md). (10) „Civilizace s amnézií": obři, dávné technologie — [konspirace.md](konspirace.md). (11) David Icke zakázán do ~30 zemí, Německo/RT — [dsa-cenzura.md](dsa-cenzura.md). (12) Střelba na FF UK + Klánovický les jako odvedení pozornosti — [konspirace.md](konspirace.md). Opakování beze změny (jen zmíněno): sionismus/Izrael třetí chrám a trojský kůň migrace, vakcíny bio zbraň/patent, 'Ndrangheta, cenzura FB, NPC/projekt Manhattan, adrenochrom/tunely. Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Nedělní vysílání 19. 7. 2026 {#jindřich-rajchl--nedělní-vysílání-19-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-19_Jindřich-Rajchl_Facebook-Live.txt)
 - **Kanál:** Jindřich Rajchl (Facebook)

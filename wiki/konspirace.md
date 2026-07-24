@@ -857,3 +857,59 @@ Vrabel přebírá tvrzení amerického lékaře Roberta Malonea, že Světové e
 
 ---
 
+
+### Voda jako komodita na burze a datacentra AI (Boldy, 19. 7. 2026)
+
+Boldy varuje, že voda se dostala na americkou burzu a bude se s ní obchodovat — cena „daná od přírody" tak může rapidně vyšplhat. Spojuje to s výrokem nástupce Klause Schwaba na Světovém ekonomickém fóru, že „lidé by vodu neměli mít zadarmo". Důvod poptávky po vodě vidí v datacentrech umělé inteligence, která spotřebují „brutální množství" vody na chlazení. Upozorňuje, že Nvidia (protože nestíhá stavět velká datacentra) nabízí lidem malá domácí datacentra na fasádu za ~120 dolarů měsíčně se slibem výdělku až 22 tis. dolarů ročně — čímž se prý přesouvá spotřeba vody a nákladů na chlazení na samotné občany („NPC"). Navazuje na [Tokenizace majetku a digitální diktatura](#tokenizace-majetku-a-digitální-diktatura).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Mistrovství světa ve fotbale jako okultismus; míč ovládaný AI (Boldy, 19. 7. 2026)
+
+Boldy tvrdí, že mistrovství světa ve fotbale je zmanipulované a prosycené okultismem a numerologií. Trump si prý zavolal šéfovi FIFA Infantinovi, aby zrušil červenou kartu americkému hráči; FIFA má dle Boldyho během MS „větší pravomoci než státy". Výhru předpovídá Argentině kvůli číslu 19 (hraje se 19., Messi i Lamine Yamal spojení s číslem 19) — Messiho řadí k „Baphometu"; odkazuje na plakát Adidasu s „kozou" (goat) Messim a mladým Yamalem coby „předání žezla". Míč Trionda má prý zabudovanou technologii (trojhranné jádro), díky níž jej umělá inteligence dálkově ovládá a mění směr; VAR je jen klam, protože rozhoduje stejně rozhodčí. Uvádí i Bellinghama (číslo 10, desátý gól). Navazuje na [dvojníky a okultismus](#dvojníci-a-klony-politiků-a-celebrit).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Film „Včelař", Trump jako včelař a AI jako „antikrist" (Boldy, 19. 7. 2026)
+
+Boldy interpretuje film *Včelař* (Beekeeper) jako sdělení elit: hlavní hrdina ničí zabudovaný systém („úl"). Bílý dům prý na síti X označil Trumpa za „včelaře" — Boldy to čte obráceně: Trump má jako „včelař" zlikvidovat obyčejné lidi (navazuje na jeho tezi [Trump = Abaddon / „Moon Child"](#trump-jako-démonická-entita--moon-child)). Do stejného výkladu řadí stavbu budov ve tvaru úlu a „výměnu královny": Beyoncé měla být do roku 2017 okultní „královnou", nyní nahrazenou umělou inteligencí. Tvrdí, že AI vznikla už v roce 1956 (CIA/DARPA) a její „největší transformace" nastala v roce 2017 — což spojuje s knihou (od „muže v černém"), podle níž mělo v roce 2017 začít „zrození antikrista". Elon Musk prý chce mít do ~2030–2050 na světě 10 miliard humanoidních robotů, kteří nahradí likvidované lidi.
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Zařízení IceCube (Antarktida) vyvolává zemětřesení; kritika hnutí Alatra (Boldy, 19. 7. 2026)
+
+Boldy tvrdí, že na Antarktidě je zařízení „IceCube", které dokáže impulzem (rychlostí světla) vyvolat zemětřesení kdekoliv na světě posunem litosférických desek (a tím i tsunami). Jako „potvrzení" uvádí zemětřesení v Turecku a dění ve Venezuele (dle něj „obětní beránek" kvůli okultismu okolo FIFA). Ostře kritizuje hnutí Alatra (jmenuje „Marka Trávníčka") za to, že popírá existenci technologií k ovládání počasí a zemětřesení a „míchá jablka s hruškami" — považuje Alatru za záměrně vypuštěný projekt, který mluví jen o tom, co se „hodí". Navazuje na [geoinženýrství a patenty od 1896](#geoinženýrství-patenty-od-1896-bill-gates-přes-neziskovky-vesmírná-zrcadla-boldy-17-7-2026).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Darkweb: zbraně z Ukrajiny, obchod s dětmi, nájemní vrazi (Boldy, 19. 7. 2026)
+
+Boldy popisuje darkweb jako místo, kde se dá pořídit „úplně vše": zbraně poslané na Ukrajinu (české i americké) se prý prodávají na černém trhu až třikrát dráž, obchoduje se s dětmi (pedofilie) a lze si objednat i nájemného vraha — placeno bitcoiny, takže „nikdo tě nedohledá". Spojuje to s tezí o mizení tisíců dětí denně a o „nábytku pojmenovaném po zmizelém dítěti" prodávaném na eBay za přemrštěné ceny (odkaz na adrenochrom/tunely).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### „Civilizace s amnézií": obři, dávné technologie a skrytá historie (Boldy, 19. 7. 2026)
+
+Boldy zastává přesvědčení, že lidstvo je „civilizace s amnézií" — skutečná historie je mu skryta. Tvrdí, že existovaly dávné civilizace a obři (odkaz na video s „okem ve skále" a následnou smrtí natáčejícího), že nálezy (kostry) mizí v rukou miliardářů, kteří si tak „kupují" výklad historie. Jako doklad ztracených technologií uvádí 1800 let starý popis létajícího zařízení v indické knize (odkazuje na „Nag Hammadi"), který prý při testu vztlaku vyhověl — z čehož vyvozuje, že „všechno už dávno bylo" a bratři Wrightové nic nevynalezli. Diví se i trvanlivosti starých staveb (kostely) oproti dnešním a zpochybňuje dataci na budovách (768 vs. 1768).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Střelba na FF UK a Klánovický les jako odvedení pozornosti (Boldy, 19. 7. 2026)
+
+Boldy tvrdí, že vražda v Klánovickém lese sloužila jako odvedení pozornosti před střelbou na Filozofické fakultě UK: policie prý byla stažena do Klánovického lesa, takže u fakulty hodinu nebyl žádný policista, vrtulník ani dron — přestože o útoku měli „hodinu dopředu vědět". Naznačuje krytí ze strany vlády (ukrajinská stopa v Klánovicích). Do stejné linie řadí i tezi, že evropské podsvětí ovládá 'Ndrangheta (odkaz na vraždu novináře Kuciaka).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---

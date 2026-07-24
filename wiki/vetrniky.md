@@ -246,3 +246,13 @@ Boldy zveřejnil písňové video stylizované jako lidová moravská píseň, k
 Vrabel ke zprávě německých médií o chybějícím systému likvidace vysloužilých větrných turbín (až 500 000 tun materiálu v příštích 10 letech v Německu) upozorňuje na případ podnikatele Michaela Rota, který měl státní prostředky na likvidaci, ale část odpadu nelegálně vyvážel na skládky v zahraničí včetně ČR a Polska. Případ pomohla odhalit starostka obce Jiříkov, která vozidlo zablokovala autem (Vrabel jí navrhuje vyznamenání); požaduje, aby škody, sanaci a pokuty zaplatilo Německo. Zároveň kritizuje „zmocněnce pro větrníky" Filipa Turka, pod nímž se má do ČR instalovat 500 turbín. Z vlastní zkušenosti (pole větrníků mezi Maďarskem a Rakouskem) tvrdí, že z rychle se otáčejících listů (400+ km/h) se uvolňuje sklolaminát a „jed" do ovzduší, který vítr roznáší do dálky. Navazuje na jeho tvrzení o 60 kg nanočástic na větrník (viz [konspirace.md — chemtrails a větrníky](konspirace.md#chemtrails-sypání-těžkých-kovů-do-atmosféry-větrníky-60-kg-nanočástic-vrabel-15-5-2026)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+
+---
+
+### Boldy: větrníky zabíjejí ryby (Dánsko), hmyz a ptáky (Rakousko) (19. 7. 2026)
+
+Boldy tvrdí, že větrné elektrárny ve vodě (Dánsko) svými vibracemi ničí ryby (zmatené, bez kyslíku) — každé ráno je prý „systémoví dobrovolníci" sbírají z pláží, aby se do novin nedostala souvislost s větrníky; zmiňuje i uvolňování látek z nátěru turbín. Na souši (příklad z Rakouska při cestě vlakem) prý u větrníků „nevidíš živého tvora" — vibrace ničí život, migrující ptáci do turbín naletávají. Do stejné linie řadí i „drony na ničení hmyzu" jako likvidaci potravy pro ptáky, žáby a další živočichy — „je to likvidace přírody".
+
+⚡ **Poznámka:** Tvrzení o hromadném úhynu ryb způsobeném vibracemi větrníků a o „dronech na hubení hmyzu" nejsou doložena.
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)

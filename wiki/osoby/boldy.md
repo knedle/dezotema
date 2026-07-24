@@ -33,6 +33,12 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Prezidenti (Trump, Putin) jako „jedna panda ve dvou táborech"; nejbohatší nejsou nejmocnější — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 - GMO a průmyslové potraviny (umělé maso, pasterizované mléko) jako nástroj likvidace — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 - Aditiva v masných výrobcích jako „iluze čerstvosti" (dusitan E250, fosfáty, transglutamináza, karmín, karagenan) — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti)
+- Voda na burze a datacentra AI (Nvidia domácí datacentra, Schwabův nástupce) — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+- MS ve fotbale jako okultismus/numerologie (Messi/Baphomet, Yamal/19), míč Trionda ovládaný AI — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+- Film „Včelař"/Trump jako včelař, Beyoncé nahrazena AI královnou, AI 1956/„antikrist 2017", Musk 10 mld robotů — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+- Zařízení IceCube na Antarktidě vyvolává zemětřesení kdekoliv; kritika hnutí Alatra — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+- Darkweb (zbraně z Ukrajiny 3× dráž, obchod s dětmi, nájemní vrazi); „civilizace s amnézií" (obři, dávné technologie) — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+- Střelba na FF UK + Klánovický les jako odvedení pozornosti — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
@@ -54,6 +60,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - YouTube smazal přes milion videí o vakcínách; umlčovaní vědci ztrácejí práci / „sebevraždy" — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- David Icke zakázán do ~30 zemí; Německo hrozí vězením za sdílení RT („korporátní darwinismus") — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT jako propaganda, TV Nova ještě horší — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
@@ -65,6 +72,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Píseň proti větrníkům na Moravě — výzva poslat turbíny „do Bruselu" a protestovat v Praze — [3. 6. 2026](../_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
+- Větrníky zabíjejí ryby (Dánsko), hmyz (drony) a ptáky (Rakousko) — vibrace/nátěry, ranní sběr uhynulých ryb — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 
 ---
 
@@ -85,6 +93,9 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Jana Černochová | ○ neutrální | Uvedena jako příklad dvojího metru — loni bourala s majáky bez následků na rozdíl od Turka | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
 | Filip Turek | ○ neutrální | Uveden jako objekt tlaku na rezignaci po dopravní nehodě — dvojí metr vůči Černochové | 2026-07-15 | [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026) |
 | Bill Gates | ❌ negativní | Financuje geoinženýrství a modifikaci počasí přes neziskovky; na TEDu 2017 mluvil o snížení populace o 10–15 % | 2026-07-17 | [Videoportál 17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026) |
+| Donald Trump | ❌ negativní | „Loutka" (ruka s Babišem), otevírá „brány pekelné" proti Íránu; jako „včelař" má likvidovat obyčejné lidi (odkaz na Abaddon) | 2026-07-19 | [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026) |
+| Lionel Messi | ❌ negativní | Řadí ho k „Baphometu"; MS ve fotbale dle Boldyho zmanipulované okultismem/numerologií | 2026-07-19 | [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026) |
+| David Icke | ✅ pozitivní | Zákaz jeho vstupu do ~30 zemí označen za umlčování nepohodlné postavy | 2026-07-19 | [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026) |
 
 ---
 
@@ -107,3 +118,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 15. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-15-7-2026)
 - [Videoportál 17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 - [Videoportál 17. 7. 2026 (iluze čerstvosti)](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti)
+- [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)

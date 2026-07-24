@@ -232,3 +232,11 @@ Soudní dvůr Evropské unie potvrdil odsouzení tří osob v Německu za zveře
 > „Zveřejnění prostě jenom videa nebo článku z médií z Ruské federace, i když nepopírá žádnou genocidu nebo neschvaluje žádné válečné zločiny, už je u nás trestné." — Ladislav Vrabel, [Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+
+---
+
+### David Icke zakázán do ~30 zemí; Německo hrozí vězením za sdílení RT — Boldy (19. 7. 2026)
+
+Boldy komentuje zákaz vstupu Davida Ickeho do zhruba 30 zemí jako další případ umlčování nepohodlných postav („chtějí umlčet, protože se o tato témata zajímá čím dál víc lidí"). Řadí sem i to, že v Německu má podle něj hrozit až pět let vězení za sdílení a podporu televize RT a názorů oponujících vládnoucímu narativu — označuje to za „totalitní režim" a „korporátní darwinismus" (buď sdílíš mainstream a jsi volný, nebo sdílíš „pravdu" a jdeš „za katr"). Navazuje na jeho tezi o cenzuře Facebooku a mazání videí (viz [YouTube smazal přes milion videí](dsa-cenzura.md#youtube-smazal-přes-milion-videí-o-vakcínách-umlčovaní-vědci-boldy-17-7-2026)).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)

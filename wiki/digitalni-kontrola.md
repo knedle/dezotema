@@ -147,3 +147,13 @@ Zítko tvrdí, že patentová přihláška firmy Pfizer schválená 31. srpna 20
 K návrhu Evropské komise na společná pravidla bezpečnějšího používání digitálních služeb dětmi (děti do 13 let bez samostatného přístupu na sociální sítě, do 2 let bez obrazovek, větší odpovědnost platforem) Vrabel dodává vlastní výklad: je to prý předstupeň schváleného „chat control" — kontroly veškeré komunikace na Messengeru a WhatsAppu — k němuž jsou potřeba obří datacentra (enormní spotřeba elektřiny a vody na chlazení). Skutečným cílem podle něj je, aby nikdo nemohl na sociální sítě pod falešným jménem kritizovat vládu: přístup na internet má být podmíněn digitálním ID. Označuje EU za „totalitní systém s totální kontrolou", kde jsou zprávy čteny, archivovány a vyhodnocovány na „nebezpečná slova"; závěr přednáší v sarkastické rovině („buďte poslušné ovce, pište, že milujete Babiše"). Navazuje na [chat control 2.0](#) a digitální ID.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Boldy: sociální sítě manipulují myšlením přes „světla na kamerách" (19. 7. 2026)
+
+Boldy tvrdí, že sociální sítě přímo manipulují myšlením uživatelů — čím víc času na nich člověk tráví, tím je „manipulovatelnější". Popisuje, že sám si dal dvouměsíční pauzu od vysílání, protože cítil, že to „s ním dělá špatně" (bezdůvodné konflikty). Naznačuje, že „přes světla na kamerách" dokážou vkládat lidem myšlenky do hlavy. Řadí to k propagandě vtloukané lidem do hlavy.
+
+⚡ **Poznámka:** Tvrzení o ovládání myšlenek „přes světla na kamerách" nemá oporu ve faktech.
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)

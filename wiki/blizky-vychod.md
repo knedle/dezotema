@@ -482,3 +482,11 @@ Vrabel referuje o pokračující eskalaci: americké noční údery na Írán si
 Rajchl upozorňuje, že k íránským břehům se přesouvají americká plavidla a tankovací lodě a že se „příští týden" dá očekávat masivní útok na Írán (s výhradou, že jednání ještě probíhají a může se stát cokoliv). Varuje před dopadem na energetiku (nejvíce v Evropě) a navrhuje připravit legislativu pro rychlejší zásahy státu — místo stropování cen možnost krátkodobě snížit DPH na pohonné hmoty a plyn na nulu (viz [ceny-energie.md](ceny-energie.md)). Viz [Predikce](predikce.md).
 
 **Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### Boldy: Trump otevírá „brány pekelné" proti Íránu; USA varují své občany (19. 7. 2026)
+
+Boldy komentuje Trumpovo prohlášení při nových úderech na Írán, že se „proti Íránu otevřou brány pekelné", a americké „červené varování" občanům po celém světě. Trumpa označuje za loutku (připomíná podání ruky s Babišem — „jedna ruka, všechny loutky") a spojuje to se svým dřívějším výkladem [Trump = Abaddon](konspirace.md#trump-jako-démonická-entita--moon-child). Souběžně tvrdí, že jakmile začal opět vysílat, Facebook mu blokuje nahrávání videí a z Izraele ho někdo „špehuje" (upozornění antiviru).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
