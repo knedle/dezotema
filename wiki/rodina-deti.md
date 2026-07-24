@@ -111,3 +111,11 @@ Výrok na konci pasáže (lidé podílející se na této agendě „by potřebo
 Francouzský parlament definitivně schválil zákon umožňující asistovanou sebevraždu (poměr hlasů 291:241) — pacient trpící vážnou nemocí v pokročilé fázi si bude moci podat smrtící látku sám, případně mu ji (pokud toho není fyzicky schopen) podá zdravotník, včetně zdravotní sestry. Vrabel komentář vede čistě sarkasticky — označuje to za „další úspěch satanistů" a ironicky srovnává Macronovo „plnění slibů" s Babišovým tvrzením o 83% plnění vládních slibů.
 
 **Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
+### Nawrocki odmítl zákon o svazcích osob stejného pohlaví — Vrabel k LGBT (18. 7. 2026)
+
+K odmítnutí polského prezidenta Nawrockého podepsat zákon o právním uznání stejnopohlavních párů (a jeho odmítnutí adopce) zaujímá Vrabel podle svých slov „jiný názor než většina": registrované partnerství považuje za férové — dvěma lidem, kteří spolu žijí, umožňuje společné jmění, dědictví, zastupování partnera a vdovský důchod (moderátorka Zuzka dodává, že v ČR to už platí a EU nutí ostatní země taková manželství uzavřená jinde uznat). Odmítá ale adopci/výchovu dětí stejnopohlavními páry („jdou dětem divným příkladem") a hlavně „tlačení na děti" — Prague Pride (v čele s Kateřinou Konečnou), zvířecí motivy před dětmi a nátlak ve školách (příklad z Německa: srbská matka pokutována, když syn odmítl růžové šatičky). Shrnuje: co kdo dělá v soukromí a jaká má majetková práva mu nevadí, dokud to „nevystavuje s kameramanem" a netlačí na děti.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)

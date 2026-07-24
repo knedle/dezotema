@@ -466,3 +466,11 @@ Bývalý analytik CIA Larry Johnson se posmívá myšlence amerického speciáln
 Íránské revoluční gardy zařadily mezi možné cíle budoucích odvetných útoků nemovitosti spojené s Donaldem Trumpem na Blízkém východě — zveřejněný seznam zahrnuje mimo jiné Trump International Hotel and Tower v Dubaji, Trump Plaza Tower v Džiddě, Trump Tower v Rijádu, golfové kluby ve Wadi Safaru a v Kataru i Trump International Hotel v Ománu; večer téhož dne došlo k explozím poblíž centra Dubaje. Vrabel odmítá klasifikovat tento krok jako terorismus — argumentuje, že Trump vyslal armádu na útok proti zemi, která s USA neměla konflikt, přičemž první ranou bylo zabití přibližně 180 dívek ve škole (viz [stochasticky-teror.md](stochasticky-teror.md)), a teprve poté hrozil „poslat zemi do středověku" útoky na civilní cíle — odvetu na jeho soukromý majetek proto považuje za legitimní obranu, ne terorismus. Zároveň seznam nemovitostí (roztroušených po SAE, Kataru, Ománu a Saúdské Arábii) používá jako důkaz své teze o „feudalismu" — zvolený státník si podle něj ponechává rozsáhlý soukromý byznys v regionu, který zároveň vojensky ovlivňuje.
 
 **Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
+### Noční údery USA na Írán, íránské odvety na Záliv a cestovní varování (Vrabel, 18. 7. 2026)
+
+Vrabel referuje o pokračující eskalaci: americké noční údery na Írán si vyžádaly nejméně 3 oběti, Teherán podnikl odvety na cíle v Kuvajtu, Bahrajnu a Jordánsku (škody na energetice) a tvrdí, že u Hormuzského průlivu vybuchly dva ropné tankery (americké velení to popírá). K výzvě USA, aby jejich občané zvážili cesty na Blízký východ (severní Izrael, Gaza), Vrabel dodává, že to platí i pro Čechy — doporučuje raději cestovat do „vojensky neutrálního" Srbska. Válku podle něj netřeba dál komentovat: „nepokračuje, ale rozvíjí se".
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)

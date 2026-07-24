@@ -554,3 +554,19 @@ K návrhu EK zachovat bezplatné emisní povolenky pro průmysl i po roce 2030 (
 Devět zemí EU vyzvalo komisaře Glena Mikalefa, aby EU přestala financovat Mezinárodní olympijský výbor kvůli zrušení zákazu pro ruský olympijský výbor (ruští sportovci se tak budou moci účastnit OH 2028 v Los Angeles). Evropská komise reagovala, že MOV žádné prostředky neposkytuje, takže mu je nemůže odebrat — místo toho prověří případné finanční vazby na jednotlivé sportovní organizace. Vrabel to označuje za „byrokracii na entou" a „top vtip": EU řeší, jak MOV odebrat peníze, aby zjistila, že mu žádné nedává. Zasazuje to do teze o Evropě propadající se do „absolutní kolonie Spojených států".
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Rekordní státní dluh ČR (342 tis. Kč/obyvatel) jako důsledek rozprodeje republiky (Vrabel, 18. 7. 2026)
+
+Ke zprávě, že státní dluh ČR vzrostl v 1. pololetí o 49,2 mld. Kč na rekordní úroveň (přes 342 tis. Kč na obyvatele včetně nemluvňat) a do konce roku má dosáhnout téměř 4 bilionů, Vrabel argumentuje, že republika byla od roku 1989 „rozebraná, rozprodaná a rozkradená" a předaná „globalistickému západnímu kapitálu" (banky s mateřskými sídly mimo ČR, průmysl, potraviny, benzín; zrušené aerolinky, konec Zetoru, úvahy o prodeji letiště), přičemž se stále víc zadlužuje. Varuje řeckým scénářem: když byla země předlužená, přišel MMF s drastickými opatřeními a „zabavoval lidem peníze z účtů". Klíčová otázka podle něj zní: „komu všichni dlužíme" a „kdo nás ovládá".
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Vučič a „konec volného trhu" — British Steel jako důkaz (Vrabel, 18. 7. 2026)
+
+Vrabel pouští a chválí projev srbského prezidenta Aleksandara Vučiče, který varuje před zhoršující se globální situací, vyzývá k posílení armády, ekonomiky a k tvorbě zásob (potraviny, voda) a prohlašuje, že „volný trh už neexistuje" kvůli bariérám a válkám. Vrabel označuje Vučiče za „nejlepšího politika na světě" a tvrdí, že by ČR řídil úplně stejně. Jako potvrzení Vučičovy teze uvádí britské znárodnění ocelárny British Steel (dříve čínská Jingye Group) z důvodu „národní bezpečnosti", proti němuž se ohradil Peking — obchodní zájmy se dnes prý neprosazují trhem, ale „násilím", clny, sankcemi a válkami; svět je „na divokém západě" a dělí se na dva tábory. Rozšiřuje dřívější [Srbsko jako model suverenity](#).
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)

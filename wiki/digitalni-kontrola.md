@@ -139,3 +139,11 @@ Zítko tvrdí, že patentová přihláška firmy Pfizer schválená 31. srpna 20
 ⚡ **Poznámka:** Tvrzení o Bluetooth signálu z očkovaných (živých i mrtvých) je opakovaně vyvrácený hoax.
 
 **Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+
+---
+
+### EU pravidla pro děti online jako předstupeň chat control a digitálního ID (Vrabel, 18. 7. 2026)
+
+K návrhu Evropské komise na společná pravidla bezpečnějšího používání digitálních služeb dětmi (děti do 13 let bez samostatného přístupu na sociální sítě, do 2 let bez obrazovek, větší odpovědnost platforem) Vrabel dodává vlastní výklad: je to prý předstupeň schváleného „chat control" — kontroly veškeré komunikace na Messengeru a WhatsAppu — k němuž jsou potřeba obří datacentra (enormní spotřeba elektřiny a vody na chlazení). Skutečným cílem podle něj je, aby nikdo nemohl na sociální sítě pod falešným jménem kritizovat vládu: přístup na internet má být podmíněn digitálním ID. Označuje EU za „totalitní systém s totální kontrolou", kde jsou zprávy čteny, archivovány a vyhodnocovány na „nebezpečná slova"; závěr přednáší v sarkastické rovině („buďte poslušné ovce, pište, že milujete Babiše"). Navazuje na [chat control 2.0](#) a digitální ID.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)

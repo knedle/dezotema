@@ -2114,3 +2114,43 @@ Vrabel referuje, že Řecko blokuje nejnovější balík protiruských sankcí k
 Deset zemí „koalice ochotných" (Německo, Dánsko, Francie, Itálie, Nizozemsko, Norsko, Španělsko, Ukrajina, Švédsko, Velká Británie) nepozvalo ČR k budování nového evropského protiraketového (balistického) štítu s odůvodněním „nejasné pozice ministra zahraničí" a nedostatečně stabilní komunikace se spojenci. Vrabel to nechápe: Babiš podle něj splnil vše (odmával 90 mld. pro Ukrajinu, nákup F-35, udržel ČR v NATO i bez referenda, na summitu NATO odsouhlasil 70 mld. eur ročně pro Ukrajinu i muniční iniciativu) — „co by ještě NATO chtělo?". Uzavírá metodou „sleduj peníze": za zprávou je prý dohoda, že na výrobě vydělá někdo jiný a Češi budou dělat jen „druhořadou" výrobu komponentů (paralela s automobilkami). Zdůrazňuje, že sám zapojení ČR do koalice ani výrobu zbraní neschvaluje. Navazuje na [francouzský „jaderný deštník" / koalici ochotných](#).
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Ukrajinské útoky přímo na Moskvu (8 mrtvých) jako zlomová eskalace (Vrabel, 18. 7. 2026)
+
+K nočním ukrajinským dronovým a raketovým útokům na Moskevskou a Tambovskou oblast (zásah logistického centra Wildberries v Kotovsku, sklad v Moskvě, ropný objekt) Vrabel zdůrazňuje, že jde o útoky „našimi drony, dělostřeleckými granáty z české muniční iniciativy, za naše peníze, s naší politickou i vojenskou podporou" — tedy i o útoky NATO. Označuje to za možný zlomový okamžik: od roku 2022 se říkalo, že Západ nesmí dodat zbraně na údery na ruské území, protože by to znamenalo třetí světovou válku; teď se prý „vraždí lidé na ulicích přímo v Moskvě" — přesně to, čeho se Rusko obávalo a čím zdůvodnilo speciální vojenskou operaci. Očekává, že Rusko bude muset přehodnotit vývoj konfliktu; situaci označuje za „absolutně nebezpečnou" a „velmi silnou eskalaci". Obyčejní Rusové prý tlačí vládu k odvetě.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### ČR podporuje čečenskou exilovou vládu (Ičkerie) — „další podporovaný převrat" (Vrabel, 18. 7. 2026)
+
+K jednání představitelů exilové vlády Čečenské republiky Ičkerie v Praze (kritika Kadyrova, výzva k podpoře nezávislosti na ruské nadvládě) Vrabel ironizuje, že „už dlouho jsme nepodpořili žádný teroristický režim" (naposledy Izrael a USA). Tvrdí, že se ČR (za současného ministra zahraničí) staví do role USA/Západu a jezdí po státech podporovat opoziční strany, možná i finančně a přes tajné služby — „vypadá to, že budeme podporovat nějaké převraty". Připomíná čečenskou vazbu na islámský stát a teroristické útoky (škola v Beslanu, Dagestán). Navazuje na tezi o [USA/CIA měnících vlády 73×](#trump-obviňuje-čínu-z-vměšování-do-voleb--kdo-to-říká-ten-to-je-vrabel-17-7-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Zelenský otevírá archivy k Volyni — smír s Polskem jen „aby se vlk nažral" (Vrabel, 18. 7. 2026)
+
+K oznámení, že Zelenskyj otevře archivy SBU a MZV k volyňskému masakru a umožní exhumace (přivítáno Donaldem Tuskem), je Vrabel skeptický: jde prý o gesto, „aby se vlk nažral a koza zůstala celá" — cílem je urovnat polsko-ukrajinský vztah (napjatý po sporu o UPA a po výrocích polského prezidenta), aby mohla pokračovat „společná válka proti Rusku". Věřit Zelenskému je podle něj nebezpečné. Navazuje na [Krize Polsko–Ukrajina kvůli UPA](#krize-polskoukrajina-eskaluje-kvůli-upa-pochybnosti-o-katyni-a-smolensku-predikce-rozpadu-ukrajiny-černohorský-28-6-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### EU–Ukrajina: společná výroba dronů a „sladění standardů" — válku vede EU (Vrabel, 18. 7. 2026)
+
+Evropská komise spustila s Ukrajinou dohodu o vývoji a výrobě dronů a protidronových systémů, uvolnila další 1 mld. eur (~25 mld. Kč) a chce do 2026 zahájit společnou výrobu (do budoucna i protibalistické střely), přičemž von der Leyen mluví o „integraci ukrajinské obranné ekonomiky" a „sladění standardů". Vrabel to bere jako důkaz své teze, že válku proti Rusku nevede Ukrajina, ale EU/NATO/koalice ochotných — Ukrajina je jen „nájemný vrah", jemuž „podáváme zbraně a vedeme ruku". Ironizuje, co znamená „sladění standardů" (jestli i mobilizační jednotky TCK budou verbovat v Teplicích/Kolíně a přivazovat lidi ke stromům). Varuje, že výrobny zbraní se kvůli ruským úderům přesouvají do EU (Dánsko, Německo, ČR), takže Rusko dříve či později zaútočí i na evropské území — „nevíte dny ani hodiny, kdy rakety začnou lítat na evropské území". Navazuje na [EU povolila Ukrajině čínské komponenty](#eu-poprvé-povolila-ukrajině-nakupovat-čínské-komponenty-pro-drony-z-unijního-úvěru-vrabel-16-7-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Odvolání Syrského a hlasování Bundestagu o Fedorovovi — „Německo velí Ukrajincům" (Vrabel, 18. 7. 2026)
+
+K informaci (Financial Times), že Zelenskyj zvažuje odvolání vrchního velitele Syrského poté, co se protesty kvůli odvolání ministra obrany Fedorova změnily v požadavek na výměnu vojenského vedení, Vrabel přidává „vtip": německý Bundestag prý den předtím veřejně jednal a hlasoval o tom, zda by se měl Fedorov vrátit na post ministra obrany. Přirovnává to k operaci Barbarossa — „Němci velí Ukrajincům" — a naznačuje, že nad tím vším stojí „někdo jiný". Navazuje na [záznam z 16. 7. (odvolání Fedorova)](#eu-poprvé-povolila-ukrajině-nakupovat-čínské-komponenty-pro-drony-z-unijního-úvěru-vrabel-16-7-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)

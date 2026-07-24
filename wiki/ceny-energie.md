@@ -339,3 +339,19 @@ Vrabel komentuje uzavření dvou historických německých pivovarů (Eichbaum p
 Vrabel popisuje jako „klasiku, kterou připomínáme každý týden": na začátku týdne se rozběhne válečná rétorika kolem Hormuzského průlivu a v pátek Donald Trump ohlásí, že je průliv „otevřen" (kvůli časovému posunu zpráva k nám přichází později). Podle Vrabela to slouží k tomu, aby velcí obchodníci („verlibáři") uzavřeli sázky na pokles ceny ropy, Trump oznámení načasuje, trhy okamžitě zareagují snížením ceny a spekulanti „zkásnou peníze". Jako doklad uvádí prudký propad provozu Hormuzem (15 lodí 15. 7., 8 lodí 16. 7. — a to jen čínské lodě plující iránskými výsostnými vodami dle obchodní dohody). Trump prý na manipulaci akciových trhů vydělává „stovky miliard"; Vrabel míní, že by za to měl „sedět" a měl by mu (i zčásti rodině) být zabaven majetek (viz [stochasticky-teror.md](stochasticky-teror.md)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### EU akční plán elektrifikace: 2× elektřiny, konec fosilů, chytré elektroměry (Vrabel, 18. 7. 2026)
+
+Vrabel referuje o novém akčním plánu Evropské komise pro elektrifikaci (představen 17. 7.), o němž slyšel projev komisaře pro energetiku Dana Jørgensena na kanálu EU Debates: EU chce během desetiletí zdvojnásobit výrobu elektřiny, odstřihnout se od uhlí, plynu a ropy a přejít na elektromobilitu a elektrické vytápění (tepelná čerpadla místo plynu/kamen). Vrabel to označuje za „zelenou myšuge" a „větrník-kum-zdar": zdroje mají být soláry a větrníky (Německo prý cílí na 1000 GW v solárech, ČEZ malé jaderné reaktory s Rolls-Roycem), stojí to stovky miliard eur a povede to k „flexibilní" spotřebě řízené chytrými elektroměry („prát jen v noci"). Rámuje to jako pokračování snahy von der Leyenové a Babiše „snížit ceny elektřiny" novým energetickým systémem a varuje, že se to citelně dotkne všech.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Francie stáhla zlaté rezervy z Fedu (napětí Trump–Macron) (Vrabel, 18. 7. 2026)
+
+Vrabel zmiňuje jako „docela tvrdou" a „zásadní" zprávu, že Francie kvůli napětí mezi Trumpem a Macronem oficiálně stáhla veškeré své zlaté rezervy uložené u Federálního rezervního systému v New Yorku. Přiznává, že ji slyší poprvé, proto ji zatím nekomentuje a slibuje se k ní vrátit v nedělním vysílání.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)

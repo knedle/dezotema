@@ -400,12 +400,14 @@
 - Maďarsko: Szijjártó opouští politiku k čínskému BYD, paralela s Kurzem, „ukrajinizace" Maďarska — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026) → [suverenita-eu.md](../suverenita-eu.md)
 - **16. 7.** — Ukrajina: nový premiér Korecký, odvolání Fedorova, tisícová demonstrace v Kyjevě, překvapená reakce EU (Kubilius); EU poprvé povolila Ukrajině čínské komponenty pro drony z úvěru — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **17. 7.** — Trump obviňuje Čínu z vměšování do voleb (USA prý 73× měnily vlády); Polsko „mobilizace bez mobilizace"; Řecko blokuje sankce + ruský AI-prank na poradce Dokose; ČR nepozvána do evropského protiraketového štítu („sleduj peníze") — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
+- **18. 7.** — ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace; ČR podporuje čečenskou exilovou vládu (Ičkerie); Zelenský otevírá archivy k Volyni (smír s Polskem); EU–Ukrajina drony/„sladění standardů" (válku vede EU); odvolání Syrského + Bundestag o Fedorovovi („Německo velí Ukrajincům") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - Odklad valorizace důchodů (+150 Kč) — kritika Babišových slibů, satirický „program" znárodnění jeho majetku — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - „Korporátní, fašistický feudalismus" jako popis dnešního politického systému — Trump/Babiš jako oligarchové, srovnání se strukturou moci v Rusku/Íránu — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Recidivista Cigoš (27,5 roku za 2. vraždu ženy) — kritika shovívavosti justice, výzva k trestu smrti/doživotí, etnizující narážka — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+- Výměna lídrů bez voleb: Burnham v UK („Palšunka") a odstoupení prezidenta Šujoka v Maďarsku (Magyarova „loutka") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 
 ### [Kauzy](../kauzy.md)
 - Evropský prokurátor vyšetřuje dotace Agrofertu — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -418,9 +420,11 @@
 - Trump zrušil 20% tranzitní daň za Hormuz, nahradil úplnou blokádou íránských lodí — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - Trump: jediný účinný způsob komunikace s Íránem je vojenská síla — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - Írán označil Trumpovy nemovitosti na Blízkém východě za legitimní cíle odvety — Vrabel to obhajuje jako sebeobranu (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+- Noční údery USA na Írán, íránské odvety na Záliv, cestovní varování — jeďte raději do Srbska — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 
 ### [Konspirace](../konspirace.md)
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+- Robert Malone: WEF (Schwab, Kissinger) jako projekt CIA; obhajoba Malonea jako umlčeného „otce mRNA" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 
 ### [Migrace](../migrace.md)
 - Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -438,15 +442,20 @@
 - AI/AGI do „příštího roku"; Agenda 2030 a „neúžiteční jedlíci" — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - Šanghajská AI dohoda (Rusko/Čína/27 zemí); Trump zakázal model OpenAI; rizika AGI — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Hormuzský průliv každý pátek — Trump prý manipuluje trh s ropou (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+- EU akční plán elektrifikace (2× elektřiny, konec fosilů, chytré elektroměry, „prát v noci") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+- Francie stáhla zlaté rezervy z Fedu (napětí Trump–Macron) — zatím bez komentáře — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+- Rekordní státní dluh ČR (342 tis./obyvatel), rozprodej republiky, řecký scénář MMF — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) → [suverenita-eu.md](../suverenita-eu.md)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 - Centralizace zdravotnictví (Adam Vojtěch) — uzavírání malých nemocnic a porodnic, kritika voličů — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - Francie schválila eutanazii — sarkastická kritika — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+- Nawrocki odmítl zákon o partnerství — Vrabel: registrované partnerství OK, ale proti adopci a „tlačení na děti" (Prague Pride, školy) — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Srbsko a EU jen předstírají zájem o vstup (65 % Srbů proti; nový zákon o legalizaci staveb) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+- Vučič + British Steel — „konec volného trhu", Vučič „nejlepší politik na světě" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - Zpráva EK o právním státu: kritika ČR (média/střet zájmů), pochvala Maďarska — ČR jako „protektorát" — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Emisní povolenky po 2030 + rozhodování kvalifikovanou většinou = konec veta, federalizace EU — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - EU vs. MOV — absurdní byrokracie kvůli ruským sportovcům na OH 2028 — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
@@ -454,6 +463,7 @@
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - NATO/Palantir „Maven" — digitální dohled nad východním křídlem, Peter Thiel a technokracie — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+- EU pravidla pro děti online jako předstupeň chat control a digitálního ID („totalitní systém s totální kontrolou") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 
 ---
 
@@ -787,6 +797,10 @@
 | Petr Macinka | ❌ negativní | Na fóru v Izraeli tvrdil, že ČR je nejbezpečnější díky absenci muslimů — Vrabel oponuje a viní ho ze „zazdění" ČR v migračním paktu | 2026-07-17 | [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026) |
 | Aleksandar Vučić | ⚖️ rozporuplný | Srbský prezident — dle Vrabela do EU nechce, jen „předstírá"; oceňuje, že nepodepsal protiruskou deklaraci a má čínské hypersonické rakety | 2026-07-17 | [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026) |
 | Martin Konvička | ✅ pozitivní | Označen za „hrdinu", který pomohl vyvést ženy z islámu (např. Pavlínu Bytařovou) | 2026-07-17 | [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Označen za „nejlepšího politika na světě"; Vrabel by řídil ČR stejně (zásoby, armáda, „konec volného trhu") | 2026-07-18 | [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) |
+| Robert Malone | ✅ pozitivní | „Otec mRNA" umlčený jako dezinformátor; Vrabel přebírá jeho tvrzení o napojení WEF na CIA | 2026-07-18 | [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) |
+| Andy Burnham | ❌ negativní | Nový premiér UK zvolený bez celostátních voleb — ironicky „Palšunka", prý bude stejný jako Starmer | 2026-07-18 | [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) |
+| Péter Magyar | ❌ negativní | Nový maďarský premiér — donutil prezidenta Šujoka odstoupit, aby si dosadil „vlastní loutku" („demokracie po maďarsku") | 2026-07-18 | [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) |
 
 ---
 
@@ -875,3 +889,4 @@
 - [Facebook Live (15. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - [Facebook Live (16. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - [Zprávy v devět (17. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+- [Zprávy v devět (18. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)

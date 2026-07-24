@@ -849,3 +849,11 @@ Zítko sdílí sérii QAnon tvrzení o Georgi Sorosovi: popisuje ho jako vrchol 
 
 ---
 
+### Světové ekonomické fórum jako projekt CIA (Malone, Schwab, Kissinger) — Vrabel (18. 7. 2026)
+
+Vrabel přebírá tvrzení amerického lékaře Roberta Malonea, že Světové ekonomické fórum (WEF) je od svého vzniku (1971) spojeno s americkou CIA a že jeho zakladatele Klause Schwaba měl „ovlivnit" bývalý ministr zahraničí Henry Kissinger. Vrabel dodává, že ho to nepřekvapuje, protože na CIA je podle něj napojené i české ministerstvo zahraničí, které „chodí pro rozkazy" na americké ministerstvo zahraničí, a CIA má prý „pod kontrolou naše volby i média". Zároveň Malonea hájí jako „otce mRNA", který jako jeden z prvních varoval před mRNA vakcínami a byl za to umlčen coby „dezinformátor" (kritizuje absurditu, že vynálezce technologie je označen za dezinformátora těmi, kdo „to vědí líp" — von der Leyen, Babiš). Navazuje na tezi o [USA/CIA měnících vlády 73×](#trump-obviňuje-čínu-z-vměšování-do-voleb--kdo-to-říká-ten-to-je-vrabel-17-7-2026) (dnes prý otevřeně: Venezuela, Írán).
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
