@@ -358,7 +358,9 @@
 - Technologie (dating aplikace, sociální sítě) ničí mezilidské vztahy a způsobují demografickou krizi; panoptikon efekt — nikdo netančí v klubech ze strachu ze záznamu; algoritmy optimalizované pro engagement, ne lásku; slib internetu (svoboda, demokracie) se nenaplnil — [Demografická krize a technologie (1. 5.)](../_zdroje.md#ladislav-vrabel--demografická-krize-a-technologie-1-5-2026)
 - Trans-gender ideologie ve školách = manipulace dětí neziskovkami/psychology k nevratné tranzici (po výplachu mozku „zmrzák"), tolerance dospělých soukromě; Senát zamítl zpřísnění změny pohlaví — [Zprávy v devět 16. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
 
-### [Válka, NATO a Rusko](../valka-nato-rusko.md)
+### Válka, NATO a Rusko
+
+*Rozděleno na tři stránky:* [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md), [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md), [Válka, NATO a Rusko — eskalace](../valka-nato-rusko.md).
 
 - **3. 7.** — Moldavský premiér rezignoval, paralela s pokrytectvím českých politiků v otázce financování Ukrajiny — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
 - Trump: podpora NATO „absurdní", USA stahují tankovou brigádu z Pobaltí — snaha donutit Evropu ke sjednocené armádě — [Zprávy v devět 3. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026)
