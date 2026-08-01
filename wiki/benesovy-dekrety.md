@@ -422,7 +422,9 @@ Jiří Černohorský sdílel video Jiřiny Babušíkové — komentátorky Česk
 
 ---
 
-## Petr Pavel, Lichtenštejni a politici
+## Politici a Landsmannschaft
+
+*Petr Pavlovy konkrétní kroky (záštita sjezdu, jednání s Lichtenštejny) viz [Petr Pavel](petr-pavel.md).*
 
 ### Fiala v projektu „Pan Evropa" — spojení s Posseltovou agendou od mládí
 
@@ -446,62 +448,11 @@ Rajchl zaujímá kategorickou pozici: žádná debata o Benešových dekretech n
 
 ---
 
-### Petr Pavel jedná s Lichtenštejny: salámová metoda (17.–19. 4. 2026)
-
-Rajchl v krátkém videu z 17. dubna a živém vysílání z 19. dubna rozebírá Pavlova jednání s Lichtenštejny ohledně majetku zajatého Benešovými dekrety. Česká republika vyhrála všechny relevantní spory — jak na domácí, tak na evropské úrovni — přesto Pavel veřejně prohlásil, že „by bylo dobré se nějak domluvit", a jednal dokonce i se soudkyní Soudního dvora EU. Navrhoval zřízení společného fondu spravovaného Lichtenštejny. Rajchl označuje tento přístup za „salámovou metodu": jakmile se uzavře jediná dohoda, fakticky se tím legitimizuje nárok — a otevírají se tisíce dalších nároků od šlechtických rodů z celého pohraničí v hodnotě bilionů korun. Namísto toho by ČR měla otevřít otázku válečných reparací Německa — ideálně společně s Polskem. V živém vysílání z 19. dubna označil Rajchl Pavlova jednání s Lichtenštejny za „naprosto nejhorší věc, co jako nejvyšší ústavní činitel České republiky udělal" a za „čistou kolaboraci".
-
-> „V momentě, kdy uděláte jednu dohodu a řeknete, dobře, my se nebudeme soudit, my se dohodneme na tom, že tady vytvoříme nějaký fond, který budou spravovat Lichtenštejnové, tak v ten moment fakticky uznáváte, legitimizujete, že tady nějaký nárok těch Lichtenštejnů je." — Jindřich Rajchl, [Organizovaný zločin v politice, 19. 4. 2026](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
-
-**Zdroje:** [Rajchl — Petr Pavel a Lichtenštejni (17. 4. 2026)](_zdroje.md#jindřich-rajchl--petr-pavel-a-lichtenštejni-salámová-metoda-17-4-2026), [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026)
-
----
-
-### Petr Pavel: záštita sjezdu Landsmannschaftu = velezrada (§65 ústavy) — Vrabel (18. 5. 2026)
-
-Vrabel ve vysílání z 18. 5. 2026 hodnotí záštitu prezidenta Pavla nad sjezdem sudetoněmeckého Landsmannschaftu jako porušení §65 Ústavy ČR, podle nějž je útok prezidenta na územní celistvost a svrchovanost republiky velezradou. Pavel navíc dříve protiústavně prohlásil, že nejmenuje ministry, kteří by chtěli odejít z EU nebo NATO. Vrabel vyzývá, aby poslanci a senátoři požádali Ústavní soud o prošetření, a požaduje odvolání prezidenta.
-
-Zároveň označuje pozvání bavorského kancléře (zemského premiéra) na Hrad za diplomatické ponížení: prezident přijal regionálního politika na úrovni, která odpovídá setkání prezidenta se suverénním státem — čímž fakticky zařadil ČR na úroveň spolkové země Německa. Vrabel uvádí diplomatické pravidlo: prezident přijímá prezidenta, hejtman přijímá kancléře.
-
-Ve zkráceném klipu ze stejného dne Vrabel rozšiřuje argumentaci. Benešovy dekrety nepovažuje za běžné zákony, ale za součást ústavního pořádku — kdo je chce prolamovat, útočí přímo na uspořádání republiky. Upozorňuje na Wittikobund: organizaci, která se soudila s vedením Landsmannschaftu proto, že se vedení formálně vzdalo požadavků na vracení majetku — jenže značná část členů na „prolamování dekretů" trvá dál. Ve zřizovacích dokumentech Landsmannschaftu stojí heslo **„curik nachajmat"** (zpátky do domoviny) — organizace tedy považuje ČR za svoji domovinu a implicitně si nárokuje návrat. Jako třetí bod obžaloby přidává Vrabel Pavlovo veřejné prohlášení o „Evropských spojených státech" — tj. záměrné oslabení státní suverenity ČR.
-
-Senátory, kteří přes tyto fakta nepodají ústavní žalobu, označuje za spoluviníky: „Jestli senátoři tohle neudělají a nevidí, tak se podle mě dopouštějí velezrady i oni."
-
-> „Prezident republiky Petr Pavel [...] z toho důvodu, že porušuje územní celistvost České republiky, se dopouští velezrady." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
-
-**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026), [Vrabel — FB Live: Pavel velezrada (18. 5. 2026)](_zdroje.md#ladislav-vrabel--fb-live-pavel-velezrada-18-5-2026)
-
----
-
-### Petr Pavel: Posselt 2023 na motorce, Lichtensteinové, bavorský hejtman na Hradě — systémové propojení (Černohorský, 10.–13. 5. 2026)
-
-Jiří Černohorský opakovaně shrnuje propojení prezidenta Petra Pavla s Landsmannschaftem a agendou oslabení suverenity:
-
-- **2023:** Bernd Posselt navštívil Pavla na motorce; Pavel mu veřejně poděkoval za „zlepšování česko-německých vztahů."
-- **Lichtensteinové:** Pavel údajně vyjednával o fondu 35 mld. Kč na uspokojení nároků rodu Lichtensteinů (označovaných za nacistické kolaboranty).
-- **Bavorský hejtman na Hradě:** Bavorský premiér přijal pozvání — přímá vazba na Landsmannschaft.
-- **EU superstat:** Pavel veřejně prosazoval vznik Spojených států evropských a vzdání se práva veta ČR.
-
-Černohorský tyto kroky označuje za části jediného plánu: Landsmannschaft + Lichtensteinové + EU superstat + ztráta veta = systematické podkopávání české suverenity.
-
-**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026)
-
----
-
 ### Vystrčil a Senát dali záštitu Landsmannschaftu — Černohorský (17. 5. 2026)
 
 Jiří Černohorský upozorňuje, že předseda Senátu Miloš Vystrčil udělil záštitu sjezdu Sudetoněmeckého Landsmannschaftu. Černohorský přehrál video ze záznamu Baudyšovy zprávy z roku 2004 o Wittikobundu (radikálním křídle Landsmannschaftu), který prosazuje „právní nárok na vlast." Na adresu Vystrčila poslal email s předmětem „nacistická kurvo" — jako přímý protest proti tomuto rozhodnutí. Zároveň přehrál videa Jiřího Weigla (Institut Václava Klause) a záznamy ze schůzky Schwarzenberg/Hřib.
 
 **Zdroje:** [Černohorský — FB Live 17. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-17-5-2026)
-
----
-
-### Petr Pavel dal záštitu sjezdu Sudetoněmeckého Landsmannschaftu — Černohorský (18. 5. 2026)
-
-Jiří Černohorský věnoval celé video (13:07) skandálu, že prezident Petr Pavel udělil záštitu sjezdu Sudetoněmeckého Landsmannschaftu. Označuje to za porušení článku 1 Ústavy ČR (ČR je svrchovaný stát). Vedle záštity Vystrčila a Senátu jde dle Černohorského o systémové propojení: Pavel vyjednával o fondu pro rod Lichtensteinů, kteří prohráli všechny české i mezinárodní soudy jako nacistické kolaboranty. Posselt veřejně prohlásil, že se mu Benešovy dekrety nelíbí. Martina Dvořáka, který záštitu Landsmannschaftu obhajoval, označil za „hajzla."
-
-> „Sám prezident České republiky. Dal záštitu sudeto německému Landsmannschaftu, jejich sjezdu." — Jiří Černohorský, [Videoportál 18. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
-
-**Zdroje:** [Černohorský — Videoportál 18. 5. 2026](_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
 
 ---
 

@@ -1,4 +1,4 @@
-# Kauzy a korupce
+﻿# Kauzy a korupce
 
 Témata: konkrétní politické kauzy a jejich interpretace zpracovanými mluvčími.
 
@@ -180,18 +180,6 @@ Zítko sdílí sérii zahraničních svědectví, která dává do paralely s do
 **Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
 
 **Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
-
----
-
-## Prezident Petr Pavel — hodnocení Jiřím Černohorským
-
-### Petr Pavel jako „velezrádce" s komunistickou minulostí
-
-Jiří Černohorský označuje Petra Pavla za „velezrádce", jehož slovo nestojí nic. Jako důkazy uvádí: Pavel sloužil komunistickému režimu v 28 letech (kdy nelze hovořit o „mladické nerozvážnosti"), lhal o vstupu do kontrarozvědky, schvaloval v roce 1968 sovětskou invazi a vyhýbá se přímé odpovědi, schůzky se Sudetoněmeckým Landsmannschaftem v Německu (jehož předseda stojí za prolomením Benešových dekretů), jednání s Lichtensteiny označenými za nacistické kolaboranty, ignorování ústavy. Senát měl podle Černohorského dávno podat ústavní žalobu.
-
-> „Za mě tenhle velezrádce, naprostej velezrádce, který nestojí za zájmy České republiky, který je schopen obcházet veškerou justici — jak justici České republiky, tak mezinárodní justici. Za mě Petr Pavel je velezrádce." — Jiří Černohorský, [Petr Pavel jako velezrádce 2026-01-17](_zdroje.md#jiří-černohorský--petr-pavel-jako-velezrádce-17-1-2026)
-
-**Zdroje:** [Černohorský — Petr Pavel jako velezrádce, 2026-01-17](_zdroje.md#jiří-černohorský--petr-pavel-jako-velezrádce-17-1-2026)
 
 ---
 
