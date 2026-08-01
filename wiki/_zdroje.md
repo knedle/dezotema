@@ -3129,3 +3129,93 @@
 - **Délka:** 00:54:16
 - **Poznámka:** Zpracováno 15 témat ("Zprávy v devět s komentářem"): (1) Ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Rekordní státní dluh ČR (342 tis./obyvatel) — rozprodej republiky — [suverenita-eu.md](suverenita-eu.md). (3) ČR podporuje čečenskou exilovou vládu (Ičkerie) — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Zelenský otevírá archivy k Volyni (smír s Polskem) — [valka-nato-rusko.md](valka-nato-rusko.md). (5) Vučič + British Steel — „konec volného trhu" — [suverenita-eu.md](suverenita-eu.md). (6) EU–Ukrajina drony/„sladění standardů", válku vede EU — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Odvolání Syrského + Bundestag o Fedorovovi — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Írán/USA údery + cestovní varování — [blizky-vychod.md](blizky-vychod.md). (9) Robert Malone: WEF napojené na CIA — [konspirace.md](konspirace.md). (10) Nawrocki odmítl partnerství — Vrabel k LGBT — [rodina-deti.md](rodina-deti.md). (11) Francie stáhla zlaté rezervy z Fedu — [ceny-energie.md](ceny-energie.md). (12+13) Burnham v UK a odstoupení prezidenta v Maďarsku (výměna lídrů bez voleb) — [politicky-system.md](politicky-system.md). (14) EU akční plán elektrifikace — [ceny-energie.md](ceny-energie.md). (15) EU pravidla pro děti online + chat control/digitální ID — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Adam Šejna — Milion chvílek: rozhovor 1 (1. 2. 2026) {#adam-šejna--milion-chvílek-rozhovor-1-1-2-2026}
+- **Soubor:** [přepis](prepisy/done/2026-02-01_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://m.facebook.com/watch/?v=1792226441461900&_rdr>
+- **Datum záznamu:** 2026-02-01
+- **Délka:** 00:01:23
+- **Poznámka:** „Gotcha" rozhovor s účastnicí demonstrace Milion chvílek pro demokracii — [politicky-system.md](politicky-system.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — Milion chvílek: rozhovor 2 (2. 2. 2026) {#adam-šejna--milion-chvílek-rozhovor-2-2-2-2026}
+- **Soubor:** [přepis](prepisy/done/2026-02-02_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://m.facebook.com/watch/?v=1767942910544618&_rdr>
+- **Datum záznamu:** 2026-02-02
+- **Délka:** 00:01:40
+- **Poznámka:** Pokračování rozhovoru na demonstraci Milion chvílek, včetně tématu Macinkovy zprávy Turkovi — [politicky-system.md](politicky-system.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — STAN a mladá generace (27. 7. 2026) {#adam-šejna--stan-a-mladá-generace-27-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-27_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/4668593800129752>
+- **Datum záznamu:** 2026-07-27
+- **Délka:** 00:02:11
+- **Poznámka:** Kritika STAN (LGBT, daně, migrace/ceny bytů) jako pokrytectví vůči mladým voličům — [politicky-system.md](politicky-system.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — Petr Pavel nejmenoval Turka ministrem (28. 7. 2026) {#adam-šejna--petr-pavel-nejmenoval-turka-ministrem-28-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-28_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1603538454720787>
+- **Datum záznamu:** 2026-07-28
+- **Délka:** 00:01:24
+- **Poznámka:** Policie nepotvrdila obvinění vůči Turkovi (hajlování) — výzva Pavlovi ke jmenování a omluvě — [kauzy.md](kauzy.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — Nerudová o Turkovi (28. 7. 2026) {#adam-šejna--nerudová-o-turkovi-28-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-28_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/922339330885671>
+- **Datum záznamu:** 2026-07-28
+- **Délka:** 00:01:15
+- **Poznámka:** Obhajoba Turka proti výroku Danuše Nerudové o nežalování Pavla — [kauzy.md](kauzy.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — LGBT aktivisté a děti (29. 7. 2026) {#adam-šejna--lgbt-aktivisté-a-děti-29-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-29_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/906550965834338>
+- **Datum záznamu:** 2026-07-29
+- **Délka:** 00:02:17
+- **Poznámka:** LGBT aktivisté beztrestně obnaženi před dětmi, biblická argumentace proti manželství a hrazené tranzici — [rodina-deti.md](rodina-deti.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — Petr Pavel a nestrannost ústavního soudu (29. 7. 2026) {#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-29_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1056085160103104>
+- **Datum záznamu:** 2026-07-29
+- **Délka:** 00:02:03
+- **Poznámka:** ÚS rozhodl v Pavlův prospěch (NATO summit) rychleji než běžné soudy — Pavel podkopává vlastní řeči o nestrannosti — [politicky-system.md](politicky-system.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — Sociální dávky jako závislost (30. 7. 2026) {#adam-šejna--sociální-dávky-jako-závislost-30-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-30_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1703902154231627>
+- **Datum záznamu:** 2026-07-30
+- **Délka:** 00:00:40
+- **Poznámka:** Přirovnání krmení divoké zvěře k sociálním dávkám — [politicky-system.md](politicky-system.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — Boj proti Bruselu (31. 7. 2026) {#adam-šejna--boj-proti-bruselu-31-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-31_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1574369940954007>
+- **Datum záznamu:** 2026-07-31
+- **Délka:** 00:01:28
+- **Poznámka:** Boj proti „politicko-vojenské mafii", Green Dealu a von der Leyenové; mobilizace k eurovolbám 2029 — [suverenita-eu.md](suverenita-eu.md).
+- **Zpracováno:** ano
+
+## Adam Šejna — Bára Štěpánková: pokrytectví (31. 7. 2026) {#adam-šejna--bára-štěpánková-pokrytectví-31-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-31_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/2321417232027831>
+- **Datum záznamu:** 2026-07-31
+- **Délka:** 00:00:17
+- **Poznámka:** Připomínka staršího výroku Štěpánkové kritizujícího fotky politiků s dětmi — [kauzy.md](kauzy.md).
+- **Zpracováno:** ano

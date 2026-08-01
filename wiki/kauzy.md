@@ -662,3 +662,35 @@ Vrabel doplňuje dřívější kritiku ČEZ (viz [Babiš a rozprodej ČEZ](#babi
 Poslanec a vlivný člen hnutí SPD Jaroslav Foldina byl po incidentu ve svém děčínském domě na 14 dní vykázán policií a přišel o legálně držené zbraně; média líčí temný obraz jeho rodinného soužití, sám politik popírá vinu. Vrabel se staví na jeho obranu a rozvíjí tezi o „politickém lynči": srovnává kauzu s dřívějšími kauzami Víta Bárty a Petra Nečase (oba podle něj brutálně mediálně zlikvidováni) i se svou vlastní zkušeností (přes 20 trestních řízení, „naming and shaming" kampaň, do níž se podle něj zapojili Reichelt, Harabová a Černohorský). Popisuje mechanismus totalitního systému, který nejdřív likviduje politickou periferii (sebe sama označuje za „veřejného nepřítele číslo jedna"), než se obrátí i proti vlastním spojencům jako Foldina, a nakonec zůstanou u moci jen ti nejhorší. Zdůrazňuje, že dokud vina není prokázána, je nepřípustné psát o Foldinovi jako o týrajícím manželovi — takové nálepky se člověk už nikdy nezbaví, i kdyby se obvinění ukázalo jako nepravdivé. Přiznává, že s Foldinou má osobní neshodu z roku 2023 (kdy se podle Vrabela „postavil na špatnou stranu" a spojil s Jindřichem Rajchlem), ale odmítá se na jeho mediální likvidaci jakkoli podílet. V závěru navrhuje (výslovně jako fiktivní budoucí zákon, ne aktuální výzvu) trestní odpovědnost novinářů podílejících se na podobných kampaních — viz [stochasticky-teror.md](stochasticky-teror.md).
 
 **Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+
+---
+
+## Kauza Filip Turek — nejmenování ministrem a spor s Nerudovou
+
+### Policie nepotvrdila hajlování — výzva Pavlovi k jmenování a omluvě (Šejna, 28. 7. 2026)
+
+Adam Šejna (Restart Česko) se vrací ke kauze nejmenování Filipa Turka ministrem prezidentem Petrem Pavlem, odůvodněné obviněním z hajlování/nacistických gest. Tvrdí, že ani policie, která věc vyšetřovala, nedokázala tato obvinění potvrdit jako prokazatelná. Z toho vyvozuje, že Pavel jednal na základě něčeho, co sám označoval za jednoznačně prokázané, ačkoliv prokázané není — a vyzývá ho, aby Turka jako ministra jmenoval a omluvil se mu za dosavadní postup.
+
+> „Petře Pavleji, jmenujte Filipa Turka ministrem. [...] Je na vás, abyste napravil vaši chybu." — Adam Šejna, [Restart Česko — Videoportál, 28. 7. 2026](_zdroje.md#adam-šejna--petr-pavel-nejmenoval-turka-ministrem-28-7-2026)
+
+**Zdroje:** [Šejna — Petr Pavel nejmenoval Turka ministrem, 28. 7. 2026](_zdroje.md#adam-šejna--petr-pavel-nejmenoval-turka-ministrem-28-7-2026)
+
+---
+
+### Nerudová kritizuje Turka za nežalování Pavla — Šejnova obhajoba (28. 7. 2026)
+
+Ke stejné kauze se váže výrok Danuše Nerudové, že se Filip Turek „ráno podíval do zrcadla a spatřil tam nulu" — poté, co se Turek rozhodl nežalovat prezidenta Pavla za jeho výroky o jeho osobě (výroky opírající se dle Šejny o nepodložené tvrzení Ester Pokorné). Šejna se staví za Turka: nežalovat každého, kdo o člověku řekne něco nelichotivého, je podle něj rozumné chování, ne slabost — a vyčítá Nerudové, že sama Turka dlouhodobě kritizuje za „dětinské a nedospělé" výroky, zatímco její vlastní komentář hodnotí jako ještě nižší úroveň.
+
+> „Zkuste se chovat trošičku jako politik. [...] Zkuste nejnižší úroveň, na kterou jste se mohla snížit. Gratuluju." — Adam Šejna, [Restart Česko — Videoportál, 28. 7. 2026](_zdroje.md#adam-šejna--nerudová-o-turkovi-28-7-2026)
+
+**Zdroje:** [Šejna — Nerudová o Turkovi, 28. 7. 2026](_zdroje.md#adam-šejna--nerudová-o-turkovi-28-7-2026)
+
+---
+
+## Bára Štěpánková — starší výrok o fotkách politiků s dětmi
+
+### Připomínka výroku z roku 2017 jako pokrytectví (Šejna, 31. 7. 2026)
+
+Adam Šejna (Restart Česko) připomíná výrok Báry Štěpánkové z roku 2017, kde fotografování politiků s dětmi označila za projev autoritářství a nazvala to odporným. Šejna s tímto hodnocením nesouhlasí — fotku s dítětem nepovažuje za nejnižší možnou formu chování — a označuje výrok za snadno dohledatelný příklad pokrytectví.
+
+**Zdroje:** [Šejna — Bára Štěpánková: pokrytectví, 31. 7. 2026](_zdroje.md#adam-šejna--bára-štěpánková-pokrytectví-31-7-2026)

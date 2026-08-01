@@ -376,6 +376,48 @@ Boldy kritizuje chování Petra Pavla během znění státní hymny v Karlových
 
 ---
 
+### ÚS rozhodl o Pavlovi rychleji než v případech násilných trestných činů — Šejna (29. 7. 2026)
+
+Adam Šejna (Restart Česko) navazuje na kauzu předběžného opatření Ústavního soudu ve prospěch účasti Petra Pavla na summitu NATO v Ankaře (viz [ÚS uložil akreditovat Pavla na summit (24. 6.)](#ús-uložil-akreditovat-pavla-na-summit-rajchl-skandální-podjatý-baxa-24-6-2026)). Cituje Pavlovo prohlášení, že „nezávislá justice je pilířem naší demokracie", a obrací ho proti němu: srovnává rychlost rozhodnutí ÚS v Pavlův prospěch (do dvou dnů) s běžnými soudy, kde rodiče dětských obětí sexuálního násilí čekají na pravomocný rozsudek podstatně déle. Z toho vyvozuje, že člověk, který sám podkopává důvěru občanů ve vlastní justici, by neměl kázat o nestrannosti soudů.
+
+> „Nemyslím si, že člověk, který podkopává důveru českých občanů vůči naší vlastní justici, by měl kázat o tom, že soudy mají být nestrané." — Adam Šejna, [Restart Česko — Videoportál, 29. 7. 2026](_zdroje.md#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026)
+
+**Zdroje:** [Šejna — Petr Pavel a nestrannost ústavního soudu, 29. 7. 2026](_zdroje.md#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026)
+
+---
+
+## Milion chvílek — rozhovory s účastníky (Restart Česko)
+
+### Účastnice protestu odmítají kandidaturu motoristů, přitom hájí „svobodné volby" (Šejna, 1.–2. 2. 2026)
+
+Adam Šejna (Restart Česko) natočil dvě krátká pouliční interview s účastnicemi demonstrace Milion chvílek pro demokracii. V obou rozhovorech vede dotazované k přiznání rozporu: souhlasí s tím, že demonstrace hájí demokracii a svobodné volby, ale zároveň podporují zákaz kandidatury hnutí Motoristé „za jejich prasárny" — což Šejna prezentuje jako protimluv vlastní deklarované víře ve svobodné volby. V prvním videu dotazovaná navíc připouští, že „hajlování na veřejnosti" by mělo být trestným činem, ale neumí vysvětlit, proč taková osoba není ve vězení. Ve druhém videu se řeč stáčí k tomu, že Petr Macinka poslal Filipu Turkovi zprávu s vyjádřením, že by Turka nejmenoval ministrem — dotazovaná ji označuje za „hrozně útočnou" a nevhodnou mezi politiky, aniž zprávu sama četla.
+
+**Zdroje:** [Šejna — Milion chvílek: rozhovor 1, 1. 2. 2026](_zdroje.md#adam-šejna--milion-chvílek-rozhovor-1-1-2-2026), [Šejna — Milion chvílek: rozhovor 2, 2. 2. 2026](_zdroje.md#adam-šejna--milion-chvílek-rozhovor-2-2-2-2026)
+
+---
+
+## Politické strany — kritika STAN
+
+### STAN slibuje mladé generaci ochranu, přitom jedná proti jejím zájmům — Šejna (27. 7. 2026)
+
+Adam Šejna (Restart Česko) kritizuje hnutí STAN za to, že se prezentuje jako strana hájící zájmy mladé generace, zatímco podle něj jedná opačně: aktivně podporuje LGBT agendu, kterou označuje za škodlivou pro děti; hlásá odpovědné hospodaření s rozpočtem, zatímco předseda strany (Vít Rakušan) nakupoval předražené doplňky ke zbraním za státní peníze; podporuje zvyšování daní, což dle Šejny demotivuje podnikání; a čtyři roky u moci nepomohla se snížením cen bytů, naopak podle něj podpořila „nekontrolovanou imigraci z Ukrajiny", která ceny bydlení v Praze i jinde zvýšila. Uzavírá, že přesvědčit mladou generaci, že strana za ni bojuje, zatímco proti ní ve skutečnosti jedná, je „největší zločin, který může politická strana udělat".
+
+> „Ta strana totiž říká mladým lidem, že za ně bojuje, přičemž proti ním aktivně bojuje." — Adam Šejna, [Restart Česko — Videoportál, 27. 7. 2026](_zdroje.md#adam-šejna--stan-a-mladá-generace-27-7-2026)
+
+**Zdroje:** [Šejna — STAN a mladá generace, 27. 7. 2026](_zdroje.md#adam-šejna--stan-a-mladá-generace-27-7-2026)
+
+---
+
+## Sociální dávky
+
+### Sociální dávky jako závislost — analogie s krmením divoké zvěře (Šejna, 30. 7. 2026)
+
+Adam Šejna (Restart Česko) přirovnává vyplácení sociálních dávek ke krmení divoké zvěře: stejně jako se zvíře, kterému se dává jídlo zdarma, přestane o potravu snažit samo a stane se závislým, i lidé, kterým stát dává „úplně všechno zadarmo bez potřeby jakékoliv práce", si na tento stav zvyknou natolik, že už nikdy nebudou pracovat.
+
+**Zdroje:** [Šejna — Sociální dávky jako závislost, 30. 7. 2026](_zdroje.md#adam-šejna--sociální-dávky-jako-závislost-30-7-2026)
+
+---
+
 ## Sociální politika — senioři
 
 ### Valorizace důchodů vs. platy politiků — dvojí metr

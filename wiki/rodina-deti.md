@@ -36,6 +36,18 @@ Jiří Černohorský komentuje video, na němž drag queen předvádí tanec za 
 
 ---
 
+### LGBT aktivisté se obnažují před dětmi beztrestně; biblická argumentace proti manželství a hrazené tranzici (Šejna, 29. 7. 2026)
+
+Adam Šejna (Restart Česko) tvrdí, že zákony chránící děti před obnažováním se na LGBT aktivisty neuplatňují stejně jako na ostatní: zatímco běžné obnažení před dítětem je trestné, LGBT aktivista, který se obnaží (např. s barevně upraveným přirozením) před dětmi na veřejné akci, je prezentován jako „bojovník za svobodu". Srovnává to k společenskému boji proti anorexii a ptá se, proč se společnost nedokáže semknout stejně i v tomto případě.
+
+Argumentuje dále, že manželství je „čistě křesťanská záležitost", původně smlouva mezi Bohem, mužem a ženou, kterou si následně přivlastnil stát — a stejnojmenné právo by tak nemělo náležet ani stejnopohlavním párům, ani registrovaným partnerstvím, s odkazem na to, že v Bibli na to nemají nárok. Odmítá také, aby stát hradil prostředky na tranzici: úkolem státu je dle něj chránit zdraví a bezpečnost občanů, nikoli poskytovat prostředky k tomu, co Šejna považuje za ničení vlastního zdraví.
+
+> „Manželství je čistě křesťanská záležitost a už si ji přivlastnil stát, ještě aby si ji přivlastňovali oni." — Adam Šejna, [Restart Česko — Videoportál, 29. 7. 2026](_zdroje.md#adam-šejna--lgbt-aktivisté-a-děti-29-7-2026)
+
+**Zdroje:** [Šejna — LGBT aktivisté a děti, 29. 7. 2026](_zdroje.md#adam-šejna--lgbt-aktivisté-a-děti-29-7-2026)
+
+---
+
 ## Demografická krize a technologie
 
 ### Technologie a sociální sítě ničí schopnost párovat se — demografická krize (Vrabel)

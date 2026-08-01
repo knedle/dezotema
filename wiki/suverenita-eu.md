@@ -116,6 +116,16 @@ V rozhovoru pro Petr Budeš TV Vrabel varuje, že ČR má už jen omezený čas 
 
 ---
 
+### Boj proti „politicko-vojenské mafii" — mobilizace k eurovolbám 2029 (Šejna, 31. 7. 2026)
+
+Adam Šejna (Restart Česko) popisuje svůj politický boj jako vědomě nejistý — nezajímá ho výsledek, ale to, že se o něj pokusil, a chce motivovat co nejvíc lidí, aby bojovali s ním. Jako klíčovou příležitost změny označuje volby do Evropského parlamentu v roce 2029: pokud se podaří vyměnit dostatek současných europoslanců, šlo by dle něj vrátit EU k velikosti a síle, jakou měla dříve — připomíná, že ČR byla „po boku s americkou ekonomikou" ještě relativně nedávno. Za příčinu úpadku označuje Green Deal, Ursulu von der Leyenovou a migraci.
+
+> „Green Deal se stalo, Uršula von der Leyen se stala, migrace se stala a jdeme prostě do kytek." — Adam Šejna, [Restart Česko — Videoportál, 31. 7. 2026](_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026)
+
+**Zdroje:** [Šejna — Boj proti Bruselu, 31. 7. 2026](_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"

@@ -36,8 +36,14 @@ Tematická wiki názorů, postojů a tvrzení z přepisů videí a rozhovorů. V
 - `Konspirátor-Boldy-KonspyChannel`
 - `Československo-TV2`
 - `Jiří-Černohorský-Živě`
+- `Restart-Cesko` — hlavní kanál **Adama Šejny**
 
 Zdroj se identifikuje z části názvu souboru mezi prvním a druhým podtržítkem, nebo z pole `Kanál:` v METADATA.
+
+### Restart Česko (Adam Šejna) — specifika
+
+- Zpracovávají se i **krátká videa / krátké texty** — projdou stejným zhodnocením témat jako u ostatních zdrojů (Fáze 1).
+- Pokud přepis nese znaky, že **nemluví Šejna** (např. mluví žena, více osob, cizí řečník), soubor **nezpracovávej** — nahlas to uživateli ke kontrole.
 
 ---
 
