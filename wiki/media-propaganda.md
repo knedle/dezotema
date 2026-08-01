@@ -435,7 +435,7 @@ Zítko rozvíjí svou „korespondenční válku" s Českou televizí (viz [kore
 
 Rajchl uvádí jako důkaz nepoctivosti mainstreamu tři případy, kdy údajné „proruské dezinformace" byly během jednoho týdne potvrzeny samotnými oficiálními zdroji či mainstreamem — který je nyní referuje, „jako by se nechumelilo":
 
-- **Biolaboratoře (Echo24):** Tulsi Gabbardová přiznala, že USA financovaly přes 120 tajných laboratoří ve světě, z toho 40 na Ukrajině (gain-of-function výzkum zakázaný v USA). Viz [konspirace.md](konspirace.md#gabbard-oficiálně-odtajnila-dokumenty-o-120-biolaboratořích--konspirace-se-stala-pravdou-vrabel-13-6-2026).
+- **Biolaboratoře (Echo24):** Tulsi Gabbardová přiznala, že USA financovaly přes 120 tajných laboratoří ve světě, z toho 40 na Ukrajině (gain-of-function výzkum zakázaný v USA). Viz [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md#gabbard-oficiálně-odtajnila-dokumenty-o-120-biolaboratořích--konspirace-se-stala-pravdou-vrabel-13-6-2026).
 - **F-35 (Deník CZ):** nákup se prodraží o dalších 40 miliard kvůli špatně spočítaným provozním nákladům (1 letová hodina = milion Kč) — Rajchl to staví proti situaci, kdy se na léčbu nemocných dětí veřejně vybírá. Viz [kauzy.md](kauzy.md#kauza-f-35-nejhorší-kontrakt-ze-všech-zemí).
 - **Ukrajinské dávky (TV Nova):** „každý pátý cizinec" pobíral dávky neoprávněně (dotační turistika, škody v desítkách milionů) — nikoli „ojedinělé případy", jak tvrdil ministr Jurečka.
 

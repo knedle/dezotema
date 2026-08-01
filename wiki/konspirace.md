@@ -1,6 +1,6 @@
-# Konspirační teorie a okultismus
+﻿# Konspirační teorie a okultismus
 
-Témata: konspirační teorie o elitách, okultismus, záměrné krize, technologie kontroly.
+Témata: konspirační teorie o elitách, okultismus, záměrné krize, technologie kontroly. Teorie o kontinuitě Československa viz [Konspirace — Československo a legální kontinuita](konspirace-ceskoslovensko.md), QAnon a Deep State viz [Konspirace — Deep State a QAnon](konspirace-deep-state-qanon.md).
 
 > **Poznámka:** Tvrzení na této stránce jsou postoji a přesvědčeními konkrétních mluvčích. Jsou zde zachycena výhradně jako dokumentace názorů bez hodnocení jejich pravdivosti.
 
@@ -105,14 +105,6 @@ Radí číst složení (>90 % masa), nevěřit nápisům „bez Éček / příro
 
 ---
 
-### Dlouhodobě plánovaná „plandemie" — vatikánský deník 1989 (Zítko, 1. 6. 2026)
-
-Zítko ve vysílání 1. 6. 2026 prezentuje jako „důkaz" dlouhodobého plánování pandemie článek, který prý vyšel 1. srpna 1989 v oficiálním vatikánském deníku — tedy 37 let před vysíláním a ještě „za Československa". Článek měl nést titulek „Velký bratr se blíží" a odhalovat „tajný plán na označení každého muže, ženy a dítěte" kódovanými mikročipy implantovanými do každého člověka na světě, propojenými s centrálním počítačem schopným kohokoliv kdykoliv lokalizovat. Klíčová citace, kterou Zítko opakuje: „Vše, co bude muset vláda udělat, je vymyslet něco jako prasečí šipku a vakcínu proti ní." Zítko to spojuje s prasečí chřipkou roku 2009 (20 let po článku) i s pozdějším covidem jako naplněním téhož scénáře.
-
-**Zdroje:** [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026)
-
----
-
 ### BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu (Vrabel, 8. 6. 2026)
 
 Vrabel popisuje svět jako rozdělující se na dva tábory: BRICS prosazující multipolární svět (nejsilnější Rusko, Čína, Írán + Severní Korea) versus USA, které přes NATO a EU usilují o „unipolární svět" a globální nadvládu. Státy podle něj uzavírají strategická partnerství, smlouvy o výrobě a dodávkách zbraní a společná cvičení na obou stranách. Podstatu konfliktu vidí jako dlouhodobý boj „o americký dolar" a o „globalistickou nadvládu Rothschildů a Rockefellerů" — „chazarských židů, bankéřů", kteří podle něj chtějí ovládnout celý svět. Navazuje na výklad globalistů útočících na rodinu, stát, národ a náboženství (viz [Globalisté bojují vždy proti čtyřem věcem](#globalisté-bojují-vždy-proti-čtyřem-věcem-rodina-stát-národ-náboženství-vrabel-17-5-2026)).
@@ -191,69 +183,7 @@ Zítko přiznává, že v sobotu (11. 7.) sdílel nepotvrzenou zprávu o údajn�
 
 ---
 
-### Trump, Putin a Xi jako koordinovaná aliance proti Deep State — Zítko čte McIntosh
-
-Zítko ve večerníku z 12. dubna 2026 přečetl text amerického autora Johna McIntosha, jehož výklad přijímá jako správný. Ústřední teze: vesmírná soustava vstupuje do nové 26 000leté éry (precese rovnodennosti), přičemž stará patriarchální éra se hroutí. Deep State byl globálně propojený do každého aspektu každodenního života — vlády, média, zdravotnictví, vzdělávání, volby (počítačová manipulace). Vedoucí silou nové éry je „Trumpova aliance" zahrnující Trumpa (USA), Putina (Rusko) a Si Ťin-pchinga (Čína) plus Módího (Indie) a Salmána (Saúdská Arábie) — pro veřejnost se jeví jako soupeři, ale v zákulisí jsou „solidní partneři" operující koordinovaně. Volby nejsou podvodně kradeny ballot-stuffingem, ale předdefinovány počítači.
-
-⚡ **Poznámka:** Tento výklad je v přímém rozporu s Boldyho přesvědčením, podle nějž Trump je démonický „Moon Child" / Abaddon a nikoliv spasitel.
-
-**Zdroje:** [Zítko — Večerník 13. dubna, 2026-04-12](_zdroje.md#pavel-zítko--večerník-deep-state-vs-trump-putin-xi-aliance-13-4-2026)
-
----
-
-## QAnon: globální vojenská operace a záchrana dětí
-
-### Klony, herci a Guantanamo — EBS narativ
-
-Pavel Zítko přijal a šíří narativ hnutí QAnon o probíhající skryté vojenské operaci: klíčové osoby světového établissementu (včetně Charlese III, jehož označuje za „herce s volnem") byly odvezeny na Guantanamo. Na veřejnosti je zastupují herci, dvojníci, hologramy nebo CGI — celkem prý 200 000 nasazených. Informace o operaci bude zveřejněna prostřednictvím EBS (Emergency Broadcast System) ve třech osmihodinových smyčkách; Zítko věří, že tato chvíle nastane v řádu týdnů.
-
-> „V rámci central castingu [...] nasazeno 200 tisíc herců [...] někteří už se zhoupli ti hlavní protagonisté na Gitmo, Guantanamo a jejich role dohrávají herci, tak to všechno se dozvíte v rámci vojenského vysílání EBS ve třech osmihodinových smyčkách." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
-
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
-
----
-
-V dubnu 2026 Zítko přidává další „důkazy" totožnosti herců za elity: Trump v záběrech z Bílého domu měří cca 170 cm, ale skutečný Trump byl vysoký 190 cm — Zítko to označuje za jednoznačný důkaz, že veřejnosti je předváděn herec nebo dvojník. Podobně Biden se na různých záběrech objevoval ve dvou odlišných výškách. EBS (Emergency Broadcast System) Zítko reinterpretuje: „sledujete reprízování událostí, které se již odehrály" — operace je podle něj ve skutečnosti dávno hotová, EBS vysílání bude zpětné zpravodajství.
-
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026)
-
----
-
-### Save the Children: adrenochrom a záchrana dětí z tunelů
-
-Zítko šíří QAnon narativ o záchranné operaci „Save the Children": děti jsou prý vyprošťovány z podzemních tunelů, kde vládnoucí elity provozovaly výrobu a distribuci adrenochromu. Záchrana těchto dětí je „prioritou číslo jedna" probíhající globální vojenské operace. Zítko sám tvrdí, že byl přítomen „zabodávání" dětí ve věku 5–12 let v pražském nákupním centru Kotva v prosinci 2021.
-
-> „Zločiny na dětech, výroba a distribuce adrenochromu a jediná cesta je armáda a globální [vojenská operace]." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
-
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
-
----
-
-### Quantum Financial System a MedBeds
-
-Zítko věří v brzké zavedení Quantum Financial System (QFS), který ukončí „rothschildovské otroctví" privátních bank; jedna karta bude sloužit jako platební i zdravotní průkaz. MedBeds — léčebná lůžka využívající teraherzové frekvence — nahradí chemickou medicínu. Pořadí léčby: nejprve zachráněné děti z tunelů, pak váleční veteráni.
-
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
-
----
-
-### MedBeds: uniklý „standardní operační postup" a časový rámec civilního nasazení (Zítko, 30. 6. 2026)
-
-Zítko sdílí dokument od zdroje „Vesna Kurguz" (Srbsko), který popisuje MedBeds jako čtyřfázovou technologii: (1) diagnostický sken celého těla za 90 sekund (kvantové pole, DNA, telomery), (2) 45minutový „systematický detox" (extrakce těžkých kovů, rozpuštění kalcifikace šišinky způsobené fluoridem/glyfosátem/hliníkem), (3) 60–180minutová regenerace buněk (reaktivace telomerázy, mobilizace kmenových buněk), (4) „optimalizace DNA" — aktivace údajně potlačených řetězců 2–12 a kalibrace na frekvenci 528 Hz. Pořadí nasazení: nejprve děti zachráněné z podzemních tunelů, poté váleční veteráni, nakonec civilisté. Konkrétní časový rámec civilního nasazení: **4. čtvrtletí 2026 až 2. čtvrtletí 2027** (dokument datován „revize 7.4", autorizace květen 2025).
-
-**Zdroje:** [Zítko — Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
-
----
-
 ## Historické konspirační výklady
-
-### „Česko je plán" — záměrná eroze národní identity
-
-Jiří Černohorský tvrdí, že označení „Česko" (místo Česká republika) je součástí dlouhodobého plánu elit na erodování české národní identity, restituce majetků šlechtickým rodům s nacistickou minulostí a budoucí připojení k Německu. Podrobné indicie viz [Suverenita a EU — Plán na germanizaci](benesovy-dekrety.md#přejmenování-na-česko-jako-součást-záměru-připojit-zemi-k-německu).
-
-**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
-
----
 
 ### Přistání na Měsíci jako podvod — NASA Artemis jako pokračování
 
@@ -268,119 +198,6 @@ Pavel Zítko označuje přistání na Měsíci (Apollo) za historický podvod a 
 Zítko zastává teorii ploché Země: Země je topografická rovina ohraničená ledovou stěnou (Antarktida), oceány mají vodorovnou hladinu a tzv. Gleasonova mapa je správnou reprezentací světa — stejné zobrazení prý nese logo OSN. Jako „důkazy" uvádí nehybnost Polárky (na rotující kouli by se pohybovala) a funkčnost slunečních hodin (na rotující kouli by nefungovaly).
 
 **Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
-
----
-
-### Sametová revoluce jako řízený rozpad StB a KGB
-
-Jiří Černohorský tvrdí, že sametová revoluce v roce 1989 byla naplánovaným rozkladem Československa organizovaným ze Západu, na němž se podíleli Václav Havel a Karel Schwarzenberg již v 80. letech. Havla označuje za člena „kolaborantské rodiny", Schwarzenberga za cizího státního příslušníka.
-
-Pavel Zítko tuto interpretaci přijímá a rozvíjí: sametová revoluce byla dle jím čteného slovenského článku „puč provedený pod dirigentskou taktovkou StB a KGB" za pomoci agentů-zivčáků. Vysvětluje, proč komunisté po roce 1989 nijak neutrpěli — naopak ze dne na den se stali největšími podnikateli, protože měli informace o kupónové privatizaci, kterou Zítko označuje za „zlodějinu za bílého dne, kde se rozkrádalo bohatství Československa".
-
-> „To, co se odehrálo v 89., byl naplánovaný rozvrat Československa, a na tomhle naplánovaném rozvratu Československa se podílel už tehdy Václav Havel a Schwarzenberg." — Jiří Černohorský, [TikTok živě 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
-
-**Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025), [ČsTV2 — Večerník 8. dubna, 2026-04-09](_zdroje.md#pavel-zítko--večerník-8-dubna-havel-a-rozdělení-československa-9-4-2026)
-
----
-
-### CIA dosadila a řídí české elity (Klaus, Havel, Zeman); „prezidenta vybírá CIA" — Vrabel (21. 6. 2026)
-
-Vrabel tvrdí, že převrat v roce 1989 „napsala a udělala CIA" a že si pro něj vybrala lidi, s nimiž spolupracovala a kteří byli „vyškoleni na Západě" (přes Svobodnou Evropu / Hlas Ameriky) — jmenuje Václava Klause, Václava Havla a Miloše Zemana. Od té doby prý čeští politici „jezdí na školení do Aspen Institutu" a jsou „pod kontrolou"; vše dle něj řídí ministerstvo zahraničí USA ve spolupráci s CIA. Z toho vyvozuje, že budoucího prezidenta „vybere CIA" a přes média se to „zahraje". Klause viní z „okupované privatizace" (kvůli čemuž se prý rozešel s Petrem Hájkem v Protiproudu), Zemanovi vyčítá podpis česko-německé deklarace 1997 a finální „rozkaz" ocenit Zelenského a postavit se proti Putinovi. Navazuje na Černohorského/Zítkův výklad [Sametové revoluce jako řízeného rozpadu](#sametová-revoluce-jako-řízený-rozpad-stb-a-kgb) a na tezi, že prezidentské volby „vytáhnou herce" jako na Ukrajině (viz [Predikce](predikce.md)).
-
-> „Prezident bude ten, koho vybere CIA. To bude prezident." — Ladislav Vrabel, [Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
-
-**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
-
----
-
-### Proč globalisté „pustili" Babiše k moci: slib zamítnutí referenda jako lakmusový papírek (Vrabel, 30. 6. 2026)
-
-V rozhovoru pro Petr Budeš TV Vrabel rozvádí svou tezi o CIA/globalistickém výběru politiků na konkrétním příkladu Andreje Babiše. Během předvolební kampaně 2025 Babiš i jeho hnutí mluvili o vystoupení z EU a NATO — dokud veřejně neprohlásil, že v žádném případě nepřipustí referendum o vystoupení z EU ani z NATO. Podle Vrabela právě v tento okamžik přišlo (od CIA či amerického ministerstva zahraničí, „přes 4 kanály") schválení, že se Babiš může stát premiérem, protože garantoval, že bude nadále pracovat pro EU a NATO — přirovnává to k Robertu Ficovi na Slovensku, který sliboval odmítnutí migrantů a zbraní pro Ukrajinu, a nakonec obojí dělá. Jako důkaz konzistence tohoto vzorce vyjmenovává, že Babiš porušil sliby ohledně F-35, muniční iniciativy, vakcinace (spolupodíl na násilném očkování) a nyní i slibu nesouhlasu se 70 mld. dolarů pro Ukrajinu — vsází se, že totéž se stane i s tímto slibem.
-
-> „V tomhle tom okamžiku, kdy se postavil za ty globalisty a jasně to slíbil, tak najednou bylo povoleno někde z CIA [...], že Andrej Babiš se může stát premiérem České republiky, protože bude pracovat pro EU a pro NATO." — Ladislav Vrabel, [Facebook Live: rozhovor s Petrem Budešem, 30. 6. 2026](_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
-
-**Zdroje:** [Vrabel — Facebook Live: rozhovor s Petrem Budešem, 30. 6. 2026](_zdroje.md#ladislav-vrabel--facebook-live-rozhovor-petr-budeš-tv-30-6-2026)
-
----
-
-### Havelova rodina a spolupráce s gestapem — Zítko čte slovenský článek
-
-Pavel Zítko přečetl ve svém přenosu ze 8. dubna 2026 slovenský článek (autora: „Peťa Ko"), který tvrdí, že rodina Havelů za druhé světové války spolupracovala s německou správou a gestapem:
-
-- Strýc Václava Havla, Miloš Havel, řídil Barrandovská studia, která za války ovládala německá správa; v Lucerně (majetku Havelů) prý zřídil SD (Sicherheitsdienst) svou rezidenturu a konspirativní byty.
-- Miloš Havel byl dle článku zařazen na listinu válečných zločinců po válce, ale obžaloba zmizela „za nejasných okolností"; poté odcestoval do Západního Německa.
-- Otec a strýc Václava Havla byli dle článku členy svobodozednářské lóže Bohemia a financovali sionistické organizace.
-- Václav Havel byl dle Zítka členem KSČ do roku 1967.
-- Havel třikrát přísahal věrnost třem různým státním subjektům (ČSR → ČSFR → ČR) — Zítko to označuje za „dvojí křivopřísežnictví".
-
-Rozdělení Československa Zítko interpretuje jako vlastizradu: poslanec Jan Stráský vládl bez důvěry parlamentu, zákon 542/1992 byl přijat podvodně, porušen ústavní zákon 327/1991; zákon č. 11/1918 o Československé republice prý zůstává platný. Rozdělení proběhlo pod tlakem Německa, které dle Zítka nechtělo platit válečné reparace, jež se za 30 let vyšplhaly na 29 bilionů korun.
-
-**Zdroje:** [ČsTV2 — Večerník 8. dubna, 2026-04-09](_zdroje.md#pavel-zítko--večerník-8-dubna-havel-a-rozdělení-československa-9-4-2026)
-
----
-
-### Privatizace jako řízená likvidace čs. průmyslu Západem — Solivary Prešov (Zítko, 8. 6. 2026)
-
-Na příkladu solivarů Prešov (článek z r. 2016) Zítko líčí privatizaci po roce 1989 jako záměrnou likvidaci funkčního československého průmyslu řízenou Západem: strategií bylo podnik dočasně převzít, pobírat dotace, a jakmile dotace skončily, výrobu ukončit a zaplavit „uvolněný východní trh" anglosaským zbožím. Solivary (značka Areál Masaryk) prý v noci demontovali „německy mluvící dělníci", stroje rozpálili, aby byly nepoužitelné; podnik nakonec získal rakouský konkurent (Salinen Austria / Bad Reichenhaler). Klíčový moment: perspektivní projekt Zbudza měl v kavernách po těžbě soli skladovat levnou ruskou ropu a plyn — proto ho podle Zítka „lidé blízcí Mečiarově vládě" zmařili (vyhrožování „tak nedokončíte", odčerpání úvěru přes firmu Zbudza Resource se sídlem v americkém Delaware a finanční skupinu J&T Patrika Tkáče). Zmiňuje i likvidaci Poldi Kladno a slovenského zbrojního průmyslu (přičítá Václavu Havlovi). Očkování COVID-19 pak interpretuje jako útok na „paměť národa" — likvidaci pamětníků těchto privatizačních zločinů. Navazuje na jeho výklad rozdělení ČSR jako vlastizrady a ČR/SR jako „korporací" (viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026)).
-
-**Zdroje:** [ČsTV2 — Sůl nad zlato: Solivary a ČT, 8. 6. 2026](_zdroje.md#československo-tv2--sůl-nad-zlato-8-6-2026)
-
----
-
-### Deutschland, Čechland nebo Československo? — SdL sjezd jako důkaz záměny pojmů (26. 5. 2026)
-
-Zítko pojmenovává sjezd SdL v Brně jako konkrétní důsledek toho, že ČR funguje jako „korporace Česko/Čechia/Čechaj" místo právního státu ČSR. Název vysílání „Deutschland, Čekland nebo Československo" vyjadřuje tři směry, kam dle Zítka vede aktuální vývoj: germanizace, korporativní „Čechia" jako přechod, nebo obnova Czechoslovakia.
-
-Argument: „Pokud by stále fungovala Československá republika s ústavou z roku 1921, sjezd SdL by se nemohl konat." Spojuje to s pozorovaným mizením termínu „Česká republika" ve prospěch „Česka" v médiích, mapách (Google) a institucích — vše jako postupné oslabení státní identity.
-
-**Zdroje:** [ČsTV2 — Deutschland, Čechland, Československo, 2026-05-26](_zdroje.md#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026)
-
----
-
-### Villa Tugendhat, tři koruny a možnost obnovení ČS občanství — Zítko (20. 4. a 20. 5. 2026)
-
-Pavel Zítko ve vysílání z 19./20. dubna 2026 rozvinul svůj výklad rozpadu Československa o konkrétní detaily:
-
-- Rozdělení ČS bylo dle Zítka dojednáno v brněnské Vile Tugendhat dne 26. srpna 1992 na schůzce Václava Klause a Vladimíra Mečiara. Tuto schůzku označuje za klíčový akt vlastizrady, který proběhl bez legitimního mandátu.
-- Skutečná mocenská centra světa nejsou demokratické vlády, ale tři „koruny": Vatikán, City of London a Washington DC — tyto tři instituce prý stojí nad státy a národními parlamenti.
-- Zákon č. 11/1918 o Československé republice podle Zítka stále platí; jeho důsledkem je, že občané ČR a SR se mohou přihlásit zpět k československému občanství a domáhat se tak práv plynoucích z platného práva historické ČSR.
-
-Ve vysílání 20. 5. 2026 Zítko tuto teorii rozvedl o nové detaily:
-
-- Válečné reparace, které Německo dluží za druhou světovou válku, náleží výhradně Československé republice — nikoliv samostatné ČR ani SR. Jejich celková výše je dle Zítka 29 bilionů CZK, ekvivalent přibližně 9 500 tun zlata.
-- Jako symbolický důkaz platnosti „historické ČSR" uvádí Zítko příhodu s jírovcem (platanovníkem) u Vily Tugendhat: tento strom prý zemřel rok po podpisu rozdělení — jako by příroda potvrdila nelegitimitu aktu.
-- Slovensko nese dle Zítka bezprostřední důsledky rozdělení: před rokem 1993 bylo Slovensko zemědělsky soběstačné z 98 %, dnes jen z přibližně 38 %; státní dluh vzrostl o 800 %; vojenská kapacita poklesla z přibližně 2 000 letadel na 14 kusů dnes.
-
-Ve vysílání z 26. 5. 2026 Zítko přidal klíčový „důkaz" korporátní povahy ČR a SR: obě jsou prý registrovány u americké Komise pro cenné papíry (SEC) jako soukromé obchodní korporace — Česká republika pod číslem CIK 0000914593, Slovenská republika pod číslem CIK 000091010103. Z toho vyvozuje, že nemohou být suverénními právními státy.
-
-**Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-19-4-2026-zveřejněno-20-4), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026), [ČsTV2 — Deutschland, Čechland, nebo Československo? (26. 5. 2026)](_zdroje.md#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026)
-
----
-
-### ⚡ Konflikt: Vrabel odmítá teorii o pokračující existenci Československa — Zítko/Konspirátor vs. Vrabel
-
-V reakci na diváckou poznámku o „karmě" plynoucí z toho, že „jsme stále Československo, jen v tom žijeme v iluzi", Vrabel teorii o právním pokračování ČSR přímo odmítá — na rozdíl od Zítkovy a Konspirátorovy opakované argumentace (zákon 11/1918, admiralty law, viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026)). Argumentuje, že Československo se rozdělilo na ČR a Slovensko, obě země uznal celý svět včetně OSN, a žádný soud nepřipustí argument, že by protizákonnost rozdělení (kterou sám připouští jako fakt) znamenala pokračující existenci společného státu — jde podle něj o „iluzi několika lidí", kterou neuznává ani většina národa, natož Slovensko. Odmítá i tvrzení, že ČR je ve skutečnosti soukromá „LTD" nebo „s.r.o." společnost: pokud taková firma s názvem „Česká republika LTD" v Británii existuje, je to jen běžně založená soukromá firma bez vztahu ke státu, který má vlastní ústavu, hranice, prezidenta, parlament i vládu.
-
-**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
-
----
-
-### Aljaška: pronájem na 99 let — Bělousov, Romanovci a Trump-Putin — Zítko (20. 5. 2026)
-
-Zítko ve vysílání 20. 5. 2026 přijal a prezentoval konspirologický výklad o tzv. „případ Aljaška":
-
-- **Pronájem, ne prodej**: Rusko Aljašku v roce 1867 neprodalo USA, ale pronajalo na 99 let. Ruský ministr obrany (nebo jeho poradce) Andrej Bělousov prý nalezl originální dokument smlouvy.
-- **Nezaplacená kupní cena**: loď „Orkney" přepravující 7,2 milionu dolarů ve zlatě (sjednaná cena) nikdy do Ruska nedoplula — Zítko tvrdí, že peníze nikdy nebyly vyplaceny.
-- **Vypršelý pronájem**: 99letý pronájem vypršel v roce 1967 — Rusko tedy má právní nárok na vrácení území nebo ekvivalentní kompenzaci.
-- **Ruský požadavek**: Bělousov jménem Ruska požaduje buď vrácení Aljašky, nebo zaplacení 50 bilionů dolarů.
-- **Trump-Putin v Anchorage jako důkaz**: schůzka Trumpa a Putina na Aljašce je dle Zítka přímým „důkazem", že vyjednávání probíhá.
-- **Romanovci**: Melania Trumpová je dle tohoto výkladu potomkem ruských Romanovců; Barron Trump je tak legitimním dědicem ruského carského rodu.
-
-Zítko tuto teorii prezentuje jako vysvětlení, proč se Trump a Putin scházejí — nejde o geopolitiku, ale o dynastické a majetkové nároky.
-
-⚡ **Poznámka:** Historická smlouva z roku 1867 byla kupní (nikoliv nájemní) smlouvou; tvrzení o Romanovcích a vojenském tribunálu nelze ověřit z veřejně dostupných zdrojů.
-
-**Zdroje:** [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026)
 
 ---
 
@@ -494,31 +311,6 @@ Německé generální státní zastupitelství potvrdilo obžalobu Ukrajince (Se
 
 ## Globalistická agenda a další výklady
 
-### Rodný list jako obchodní papír na burze v New Yorku — admirality law (Zítko)
-
-Zítko ve vysílání z 29. dubna 2026 přijal teorii suverénního občana (sovereign citizen) o „právu admirality": při narození je z každého člověka vytvořena „právní fikce" — jeho rodný list je prý obchodní cenný papír obchodovaný na New Yorkské burze. Systém tuto konstrukci záměrně skrývá, protože jde o klíčový nástroj ovládání obyvatelstva. Zítko doplňuje, že maminky při podpisu dokumentu o hlášení narození dítěte odevzdaly práva svého dítěte „do Vatikánu". Zákon admirality byl prý formálně zrušen, ale „zapomněli vám říct" — přirozené a nezadatelné právo stále existuje.
-
-Tato teorie navazuje na Zítkův dřívější výklad, že Vatikán, City of London a Washington DC jsou skutečná mocenská centra světa, zatímco volby a demokratické vlády jsou pouhá „loutková divadla."
-
-**Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)
-
----
-
-### Trump jako mesijáš globalistů: předpověď z let 2020–2021 — Vrabel (5. 5. 2026)
-
-Vrabel ve večerním vysílání (5. 5. 2026) odkazuje na předpovědi z let 2020–2021, které prý koloval v alternativních médiích: globalisté zamýšlejí dosadit do každé západní země falešného „mesijáše" — politika, který se bude tvářit jako bojovník proti globalistické agendě, ale ve skutečnosti bude pracovat pro ně. Lidé si ho sami zvolí, protože bude mluvit jejich jazykem.
-
-Vrabel tvrdí, že Donald Trump přesně odpovídá tomuto vzoru:
-- Byl zvolen masou lidí, kteří chtěli porazit globalisty
-- Po zvolení způsobil větší mezinárodní škody než Joe Biden nebo Barack Obama
-- Íránská válka bez koncepce, Hormuzská krize, potravinový výpadek, cla způsobující nestabilitu
-
-Stejný scénář se dle Vrabela opakuje ve všech západních zemích: vždy zvítězí někdo, kdo vypadá jako odpůrce globalismu, ale po zvolení pokračuje v agendě 2030.
-
-**Zdroje:** [Vrabel — Večerní zprávy: Írán, energetická krize, EU drony, Ukrajinci, 5. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-írán-energetická-krize-eu-drony-ukrajinci-5-5-2026)
-
----
-
 ### Boldy: Holocaust přeceňován, „Chazarové" vs. „Židi" (24. 5. 2026)
 
 Boldy předestírá antisemitský konspiratistický výklad: tvrdí, že za druhou světovou válkou stály USA, Rusko a Evropa, kteří Židy „persekvovali" ještě před Hitlerem. Hitler byl jen loutka, která zakryla skutečné viníky. Počet šesti milionů obětí Holokaustu označuje za „píčovinu" a tvrdí, že se mu podařilo přinutit AI ke snížení tohoto čísla na pět milionů — naznačuje, že skutečný počet byl výrazně nižší.
@@ -542,40 +334,6 @@ Boldy tvrdí, že v posledních dvou letech záhadně zemřelo 13 vrcholových v
 **7. 7.** — Boldy doplňuje konkrétní příklad: vědkyně Amy Eskridge, která zkoumala volnou energii (možnost, aby si lidé vyráběli energii doma sami), byla podle něj zavražděna „energetickou zbraní" (Directed Energy Weapon) poté, co zašla do podobných detailů jako Nikola Tesla. Motiv vidí ve snaze ochránit energetiku, ropný průmysl a farmaceutický/zdravotnický byznys (lidé by přestali platit za léčbu, kterou dnešní systém prodlužuje, aniž by skutečně léčil) před ztrátou příjmů. Řadí ji mezi 12–13 podobně zavražděných vědců za poslední čtyři roky.
 
 **Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026), [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
-
----
-
-### Biolaboratoře Pentagonu na Ukrajině — Prozorov + Gabbard (Vrabel, 25. 5. 2026)
-
-Vrabel cituje dva zdroje potvrzující existenci amerických vojenských biolaboratoří na Ukrajině. Prvním je Vasili Prozorov — bývalý důstojník ukrajinské tajné služby SBU —, který tvrdí, že spolupráce začala smlouvou o biologické bezpečnosti mezi USA a Ukrajinou z roku 2005, osobně viděl dokumenty o kontrole laboratoří Pentagonem a vývoji nebezpečných patogenů; prezident Janukovič část projektu po nástupu zastavil, po Euromajdanu 2014 byla obnovena.
-
-Druhým zdrojem je Tulsi Gabbard (tehdy šéfová amerických tajných služeb, rezignovala 3 dny před vysíláním): veřejně potvrdila 120 amerických biolaboratoří na různých místech světa, z toho 40 na Ukrajině. Vrabel to dává do kontextu výroku Viktorie Nulandové z roku 2022 před Kongresem, kdy mluvila o nutnosti „rychle zajistit biolaboratoře na Ukrajině, aby rusové nezískali genetický materiál."
-
-Vrabel označuje USA za podezřelé číslo jedna i ve věci úniku koronaviru — s odkazem na Fauciho vazby na wuhanskou laboratoř.
-
-**Zdroje:** [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026)
-
----
-
-### Biolaboratoře USA na Ukrajině: 40 z 120 — Gabbard a Hegseth potvrdili (Rajchl, 31. 5. 2026)
-
-Rajchl navazuje na Vrabelovo reportování z 25. 5. 2026 a cituje článek New York Post: Tulsi Gabbard (ředitelka Národní rozvědky USA) a Pete Hegseth (ministr obrany USA) potvrdili, že USA financuje a provozuje 120 biolaboratoří po celém světě, z toho 40 na Ukrajině. Rajchl označuje tuto třetinu soustředěnou na jedné hranici s Ruskem za důkaz, že nejde o běžný „obranný výzkum." Gain-of-function výzkum (přidávání funkcí nebezpečným patogenům) má podle Rajchla jediné smysluplné vysvětlení: vývoj biologických zbraní namířených vůči Rusku. Připomíná výrok Viktorie Nulandové před Kongresem v roce 2022, kdy mluvila o nutnosti „zajistit" laboratoře, a označuje Bidenovu vládu za lhářskou. Gabbard laboratoře prý nyní zavírá.
-
----
-
-### Gabbard oficiálně odtajnila dokumenty o 120 biolaboratořích — „konspirace se stala pravdou" (Vrabel, 13. 6. 2026)
-
-Vrabel referuje, že Tulsi Gabbardová (ředitelka Národní rozvědky USA, končící k 30. 6.) na webu NDI oficiálně zveřejnila **odtajněné dokumenty** o více než 120 biologických laboratořích ve více než 30 zemích financovaných vládou USA — včetně laboratoří na Ukrajině, kde se pracovalo s nebezpečnými patogeny; předchozí administrativu obvinila ze zatajování financování. Dokumenty jsou částečně začerněné (bezpečnost). Vrabel to staví jako „dárek na rozloučenou" a další případ, kdy „ruská propaganda / konspirace" z roku 2022 (Nulandové přiznání Rubiovi) byla po 4,5 letech potvrzena oficiálním zdrojem USA. Rozšiřuje [40 z 120 — Gabbard a Hegseth (Rajchl, 31. 5.)](#biolaboratoře-usa-na-ukrajině-40-z-120--gabbard-a-hegseth-potvrdili-rajchl-31-5-2026).
-
-**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
-
----
-
-### Biolaboratoře na Ukrajině cílené na „genetický profil" Rusů — Larry Johnson (Vrabel, 20. 6. 2026)
-
-Vrabel přebírá tvrzení bývalého důstojníka CIA Larryho Johnsona, že USA na Ukrajině financovaly tajný vojensko-biologický program s nebezpečnými patogeny (antrax, mor, tularemie, Marburg, ebola). Podle Johnsona se patogeny upravovaly tak, aby byly navázané na „genetický profil" a zabíjely cíleně Rusy; Rusové prý přišli laboratoře uzavřít. Jako stavitele/financiéry jmenuje firmy Metabiota, Black & Veatch a CH2M Hill a americký státní rozpočet; existenci prý potvrdila i šéfka amerických tajných služeb. Johnson zároveň kritizoval Západ a WHO, že ruská varování označovaly za dezinformace. Rozšiřuje [Gabbard oficiálně odtajnila dokumenty o 120 biolaboratořích (13. 6.)](#gabbard-oficiálně-odtajnila-dokumenty-o-120-biolaboratořích--konspirace-se-stala-pravdou-vrabel-13-6-2026).
-
-**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 
 ---
 
@@ -605,113 +363,17 @@ Vrabel ve zjevně satirickém duchu „odhaluje", že ministr Petr Macinka je ve
 
 ---
 
-### Měnová reforma 1953 a inflace jako „okrádání" — argument pro hotovost (Zítko, 3. 6. 2026)
-
-Zítko připomíná měnovou reformu z konce května 1953 jako „loupež století": prezident Zápotocký týden předtím ujišťoval „naše měna je pevná", a pak proběhla výměna většinou v poměru 50:1, která připravila Čechoslováky o úspory (následovaly sebevraždy). Z toho rozvíjí tezi o dlouhodobém okrádání inflací: z 1 miliardy korun v oběhu (po reformě 1953, pro české země) se prý dostalo na ~8,7 bilionu korun v roce 2026 (700–750 mld. hotovosti + ~8 bil. „virtuálních" peněz na účtech) — tedy zhruba 8 700násobné znehodnocení. Tištění „ničím nekrytých" peněz (zlatý standard zrušen 1971) označuje za skrytou loupež úspor a argumentuje pro zákonné právo na hotovost a pro uchování hodnoty ve zlatě/stříbře. Navazuje na jeho a Vrabelovu kritiku CBDC/bezhotovostní společnosti (viz [CBDC a digitální euro](digitalni-kontrola.md#cbdc-a-digitální-euro-jako-nástroj-kontroly--velký-reset-vrabel-31-5-2026)).
-
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
-
----
-
-### Válečné reparace a výzva mocnostem obnovit ČSR (Zítko, 3. 6. 2026)
-
-Zítko opakuje svůj výklad, že Německo dluží válečné reparace Československé republice (ne ČR ani SR), a přebírá výpočet „hnutí Jasan" (inženýr Jasan): 28–29 bilionů korun ve zlatě (~9 550 tun) — což je dle něj víc než deklarované měnové zlato USA (8 311 tun) a víc než „20 bilionů", s nimiž operovala Konečná. Opírá se o zákon 11/1918 a pařížskou dohodu z 21. 12. 1945 (náhrada za 360 000 zabitých Čechoslováků). ČR a SR označuje za „korporace" vzniklé protiprávně 1. 1. 1993 bez referenda, zatímco ČSR „nikdy nezanikla". Vyzývá světové mocnosti — Trumpa (USA), Putina (Rusko jako nástupce SSSR) a Si Ťin-pchinga (Čína) — aby pomohly obnovit státnost ČSR a vymoci pohledávku v rámci „vojenského mezinárodního práva". Rozšiřuje existující výklad (viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Deutschland, Čechland nebo Československo?](#deutschland-čechland-nebo-československo--sdl-sjezd-jako-důkaz-záměny-pojmů-26-5-2026)).
-
-**15. 7.** — Zítko tutéž tezi opakuje beze změny (zákon 11/1918, 29 bilionů Kč / 9500 tun zlata, „korporace Česko a Slovensko").
-
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
-
----
-
-### QAnon: adrenochrom, Bieber/Obama, QFS a 250$ bankovka s Trumpem (Zítko, 3. 6. 2026)
-
-Zítko rozvíjí QAnon narativ o sérii nových „odhalení": Justin Bieber měl být jako patnáctiletý v roce 2009 „prodán" rapperem P. Diddym pedofilovi Baracku Obamovi (v rámci „kšeftu s adrenochromem"); o Obamových sklonech má svědčit i tvrzení, že Michelle Obamová je „před přeoperováním Mike Robinson". Robert F. Kennedy Jr. prý poslal delegáta za Reinerem Füllmichem do věznice (Füllmich má být do prázdnin propuštěn). Dále popisuje „pozitivní" signály blížícího se finále: aréna na MMA u Bílého domu s „hvězdnou bránou" (14. 6.), události spojené s 24. 6. a 4. 7. (250. výročí nezávislosti USA), nová „kvantová" 250dolarová bankovka s podobiznou Trumpa, zrušení Fedu a IRS jako „soukromých firem" a Trumpovy exekutivní příkazy „jeden za druhým". Rozšiřuje existující QAnon výklad (viz [Quantum Financial System a MedBeds](#quantum-financial-system-a-medbeds), [Save the Children: adrenochrom](#save-the-children-adrenochrom-a-záchrana-dětí-z-tunelů)).
-
-⚡ **Poznámka:** Jde o neověřitelná konspirační tvrzení bez opory ve faktech.
-
-**15. 7.** — Zítko doplňuje, že poločasová show na finále mistrovství světa ve fotbale (neděle, léto 2026) má hlavní hvězdu Justina Biebera — s odkazem na svou tezi o jeho zneužívání na akcích „Shona Kompse alias Pav Didyho" předpokládá, že diváci dostanou „nějaká jemná drobná podprahová sdělení", podobně jako už dříve avizoval u newyorské poločasové show Super Bowlu.
-
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
-
----
-
 ### „Pevnost Amerika" / TechNate — USA stahuje techniku z NATO, ždímání světa přes digitální měny (Vrabel, 5. 6. 2026)
 
 Vrabel ke zprávě (Die Welt), že USA předaly NATO seznam vojenské techniky (stíhačky, průzkumná letadla, drony, námořní síly), kterou už nechtějí zahrnovat do aliančního plánování, vykládá dlouhodobý „pentagonský plán": vytvořit z USA a okolních států (od Jižní Ameriky přes Kanadu po Grónsko, vč. Kuby) jednu opevněnou „pevnost Ameriku" ve stylu *TechNate* (technokratická idea z počátku 20. století), chráněnou dvěma oceány a protiraketovým „Iron Dome". Teze: zatímco bude zbytek světa ve válce, USA si přes digitální měny „pořeší" svůj nesplatitelný státní dluh a udrží svět obchodující v dolarech — ždímáním ostatních zemí přes cla, sankce, válku na Ukrajině a odstřižení Evropy od ruské energie. Navazuje na jeho výklad technokracie a digitální kontroly (viz [Palantir — digitální feudalismus](#palantir--paypal-mafie-digitální-feudalismus-nato-ho-tlačí-do-evropy-vrabel)).
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
 
-### Globalisté dosazují „falešné mesiáše" napříč Západem — Magyar, Trump, Merz, Babiš (Vrabel, 6. 6. 2026)
-
-K protestům tisíců Maďarů proti premiéru Péteru Magyarovi (který „zradil" slib ochrany hranic a zrušil veto) Vrabel řadí Magyara do vzorce, který popisuje od roku 2020: globalistické elity v každé západní zemi po covidu/válce dosadí „falešného mesiáše" — politika, jenž se tváří jako bojovník za suverenitu a svobodu, ale po zvolení slouží elitám. Příklady: Trump (od něhož se odvrací i Tucker Carlson a Alex Jones), Merz (BlackRock, zrušil dluhovou brzdu), Babiš (nesplněné sliby: muniční iniciativa, F-35, 90 mld. pro Ukrajinu, jaderné zbraně), bulharský Radev, rumunský Georgescu (zakázán soudem). Klíčová teze: svět není rozdělen horizontálně (Rusko vs. Západ), ale vertikálně — „elity proti obyčejným lidem"; volíme ty, koho nám elity dosadí přes média a sponzory. Navazuje na [Trump jako mesijáš globalistů](#trump-jako-mesijáš-globalistů-předpověď-z-let-20202021--vrabel-5-5-2026).
-
-**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
-
----
-
-### Fico ukázal globalistickou tvář: prosadil Macrona jako vyjednavače EU–Rusko (Vrabel, 8. 6. 2026)
-
-K návrhu Roberta Fica, aby případná jednání s Putinem za EU vedl Emmanuel Macron, Vrabel (a jím komentovaný kritický hlas) reagují, že Fico tím „ztratil kredibilitu" ohledně slovenské suverenity. Macrona líčí jako symbol „zelené, chudé, multikulturní a gay Evropy" (Green Deal, francouzský multikulturalismus, zákon hrozící rodičům i psychologům trestem za odrazování dítěte od změny pohlaví, migrace). Fica zařazuje do svého vzorce politiků, kteří se nejdřív tvářili „pronárodně" a postupně odhalují, že jsou „globalisté taky" — stejně jako podle něj Andrej Babiš. Za jediného skutečně suverénního lídra v Evropě označuje Aleksandara Vučiće (Orbán „na půl cesty", Fico „pátý čaj po výluhu" od Vučiće). Navazuje na [Globalisté dosazují „falešné mesiáše" napříč Západem](#globalisté-dosazují-falešné-mesiáše-napříč-západem--magyar-trump-merz-babiš-vrabel-6-6-2026).
-
-> „Fico není národný politik. Ani přesvědčením, ani skutkami." — citováno Vrabelem, [Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
-
-**Zdroje:** [Vrabel — Zprávy v devět (1. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-část-8-6-2026)
-
----
-
-### Arménie: trestní stíhání opozice a síť Rothschild–Trump–Kushner (Vrabel, 6. 6. 2026)
-
-Před parlamentními volbami v Arménii (7. 6.) Vrabel tvrdí, že je trestně stíháno šest politiků strany „Silná Arménie", která se nelíbí globalistům — paralela s předvolební vlnou stíhání v ČR (Babiš, Okamura, Vrabel) a v Německu (domovní prohlídky u Petra Bystroně, AfD). Popisuje „mafiánskou strukturu řízenou shora" rodinou Rothschildů (banky, média, finanční toky), příbuzensky propojenou s Trumpy (Kushnerova sestra je provdána za Neda Rothschilda) — proto spolu „objevili" albánský ostrov. Do politických funkcí se podle něj člověk dostane jen přes „mediální a trestní síto" (a sociální sítě, kde nepohodlní dostávají shadowban). Cíl v Arménii: odříznout zemi od ruského vlivu a zřídit americké vojenské základny pro budoucí útok na Rusko. Predikuje, že globalisté „svého člověka" dosadí (jako u Orbána/Magyara). Navazuje na [Arménie 50 mil. eur](valka-nato-rusko.md#arménie-50-mil-eur-a-polská-žádost-o-americkou-základnu--obkličování-ruska-vrabel-4-6-2026).
-
-**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
-
-### Recap „portál 11:11": vlastizrada 1989, reparace/ČSR a QAnon dvojníci (Zítko, 7. 6. 2026)
-
-Ve vysílání k „portálu 6.6./11:11" Zítko zopakoval své dlouhodobé teze (bez nových detailů): vlastizrada a spiknutí proti lidu od roku 1989 (rozdělení ČSFR zákonem 542 bez referenda, dohoda Klaus–Mečiar u vily Tugendhat, uschlý strom jako „znamení"), trvající právní stát Československá republika a nárok na reparace 28 bilionů (9 550 tun zlata), neplatnost vstupu do EU/NATO (ČSR nikdy nebyla členem), a QAnon „central casting" / dvojníci (Fiala, Pavel, Babiš, Zeman prý „omládli/obrostli vlasem"), adrenochrom a blížící se „odtajnění" kolem 14. 6. (narozeniny Trumpa, UFC u Bílého domu), 24. 6. a 4. 7. Podrobné záznamy viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Válečné reparace a výzva mocnostem (3. 6.)](#válečné-reparace-a-výzva-mocnostem-obnovit-čsr-zítko-3-6-2026) a [QAnon: adrenochrom, Bieber/Obama (3. 6.)](#qanon-adrenochrom-bieberobama-qfs-a-250-bankovka-s-trumpem-zítko-3-6-2026).
-
-**Zdroje:** [ČsTV2 — Portál 11:11: Vlastizrada od 1989, 7. 6. 2026](_zdroje.md#československo-tv2--portál-11-11-vlastizrada-od-1989-7-6-2026)
-
----
-
 ### Numerologický „portál Sýria" 7. 7. 2026 (Zítko, 8. 7. 2026)
 
 Zítko líčí 7. 7. 2026 jako vrchol „portálu Sýria" — symbolickou bránu světla, intuice a probouzejícího se vědomí, navazující na letní slunovrat a předznamenávající „lví bránu" 8. 8. Datum rozkládá numerologicky na 7.7.6 (dvojité číslo 7 jako intuice a duchovní poznání, výsledná 6 jako energie lásky a harmonie) a interpretuje ho jako výzvu k vnitřní proměně, ne ke změně vnějšího světa.
 
 **Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026)
-
----
-
-### Rozdělení ČSFR jako nulitní akt + „velká aliance" čistí Deep State (Zítko, 12. 6. 2026)
-
-V komentáři k Füllmichovu přenosu Zítko zopakoval dva pilíře svého výkladu s několika právními „detaily":
-
-- **Vlastizrada 1992:** rozdělení Československa označuje za nepromlčitelnou vlastizradu „tria pachatelů" Havel–Klaus–Mečiar bez referenda. Argumentuje, že zákon o zániku federace (25. 11. 1992) podepsal premiér Jan Stráský, který od října vládl bez důvěry a nemohl vykonávat pravomoci prezidenta — podpis je proto dle Zítka „nulitní". Federace ČSFR navíc vznikla až 23. 4. 1990 „po pomlčkové válce", zatímco původní stát založený **zákonem č. 11/1918** dle něj nepřetržitě trvá (přežil i protektorát). Občané se mohou „vrátit domů" v rámci práva národa na sebeurčení.
-- **„Velká aliance" vs. Deep State:** triumvirát Vatikán / City of London (finance) / Washington DC (světový policajt) měl za Obamy, Bushe a Clintona na svědomí 11 milionů mrtvých. Deep State teď čistí „velká aliance" Trump–Putin–Xi–Modi–Bin Salmán. Zítko očekává „odtajnění" kolem **14. 6.** (UFC v jižním křídle Bílého domu, narozeniny Trumpa) a **4. 7.** (250 let Deklarace nezávislosti); USA prý vznikly jako první korporace „USA Incorporation" v roce 1871. Opakuje i tezi o rodném listu jako cenném papíru obchodovaném na americké burze a o kvantovém finančním systému (QFS), který má aktiva „vrátit lidem".
-
-Podrobnosti viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-možnost-obnovení-čs-občanství--zítko-20-4-a-20-5-2026), [Rodný list jako obchodní papír](#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) a [Trump, Putin a Xi jako aliance](#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh).
-
-**13. 7.** — Zítko doplňuje právní argumentaci novým odkazem: zákon č. 327/1991 Sb. prý stanovil, že jediným ústavním způsobem rozdělení Československa je referendum lidu — jelikož k němu nedošlo, je dle něj celé rozdělení „anulitní" a všechny zákony přijaté po 1. 1. 1993 jsou neplatné (včetně česko-německé deklarace 1997, kterou používá Sudetoněmecký Landsmannschaft). Podobně jako po první světové válce (Versailleská dohoda) a po druhé světové válce (kde dle Zítka nikdy nebyla podepsána mírová dohoda, jen příměří), i po ukončení konfliktu na Ukrajině má o budoucím uspořádání evropských států (obnova Československa i obnova Sovětského svazu) rozhodovat společná dohoda velmocí (USA, Ruská federace, Čína, Indie, země BRICS včetně Saúdské Arábie) — zmiňuje v této souvislosti i „petrohradskou konferenci". Jediné, o čem by se podle něj mělo hlasovat, je případné začlenění Podkarpatské Rusi zpět do hranic ČSR do roku 1939.
-
-**13. 7. (2)** — Zítko komentuje oslavu výročí Deklarace o svrchovanosti Slovenské republiky (17. 7. 1992) pořádanou stranou Směr ve Staré Bystrici (11.–12. 7. 2026), na níž vystoupili oba hlavní aktéři rozdělení Československa — Václav Klaus a Vladimír Mečiar. Klaus ve svém projevu kritizoval současnou hlavu státu Petra Pavla, který byl ve stejnou dobu na Slovensku na festivalu Pohoda v Trenčíně (Zítko to ironicky komentuje jako „dva prezidenty na Slovensku"), a varoval před zpochybňováním „podstaty člověka, rodiny a státu". Mečiar oslavil deklaraci jako historický úspěch „mnoha pokolení". Zítko oba muže sarkasticky obviňuje z pokrytectví — připomíná, že rozdělení republiky proběhlo bez referenda pár týdnů po volbách 1992, v nichž ani jedna ze stran (HZDS, ODS) rozdělení nesliboval, a klade to za vinu tlaku Londýna a Berlína, který měl Německu ušetřit placení válečných reparací Československu (29 bilionů Kč / 9 550 tun měnového zlata). Doplňuje, že se akce nezúčastnil slovenský premiér Robert Fico (byl na dovolené v Chorvatsku) — pozdrav přednesl ministr financí Ladislav Kamenický, který kritizoval EU za vzdání se míru a tradičních hodnot a útoky na slovenskou suverenitu, včetně předražených cen energií a Green Dealu — což Zítko rovněž komentuje jako pokrytectví lidí, kteří sami rozdělili stát a připravili ho o suverenitu.
-
-**Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026), [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026), [ČsTV2 — Nedělní chvilka poezie, 12. 7. 2026](_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026)
-
----
-
-### Freedom 250 / UFC: finální tah proti Deep State — Zítko (12. 6. 2026)
-
-V hlavním vysílání „Freedom 250 / UFC 11:11" Zítko předkládá ucelené QAnon proroctví: akce UFC v jižním křídle Bílého domu **14. června** (shodou okolností 80. narozeniny Donalda Trumpa, „nebeský portál") a **4. července** (250. výročí Deklarace nezávislosti USA na britské koruně) jsou klíčovými body „osvobození" celého světa od Deep State. Není to prý jen „America First" — důsledky budou „citelné v celém světě", protože „aliance funguje dohromady" (předávka míče Putin→Trump→Melania 2018 jako symbol). Hlavní teze:
-
-- **Central casting / dvojníci:** hlavní představitelé Deep State byli údajně popraveni a nahrazeni dvojníky (~200 000 náhradníků v oběhu), protože „lidstvo by neskouslo" živé popravy. Jmenuje Joea Bidena (originál prý popraven, inaugurace 2021 sestříhaný film — Jill Biden v různých knoflíčcích/botách), Bibi Netanjahua, Hillary Clinton, krále Karla; Bush popraven 4. 1. 2022, Cheney zatčen na letišti, Rumsfeld — všichni za 11. září.
-- **9/11 jako inside job:** dvě „hologramová letadla" zbořila věže; do Pentagonu (kde se hledala největší díra v rozpočtu armády) udeřila „raketa Patriot", Rumsfeld odešel z místnosti 5 minut předtím, zahynulo 60+ generálů.
-- **EBS / Bluebeam:** očekává nouzové vysílání (Emergency Broadcast System) a plánovanou „invazi mimozemšťanů" (operace Bluebeam) jako kulisu globálního stanného práva; „JFK byl starter, Trump je finisher".
-- **Admiralty law → přirozené právo:** 209 „korporací" (států) fungovalo pod námořním právem, rodný list = nákladový list / záruka za dluhy putující do Vatikánu, soudy jsou soukromé firmy registrované u BAR (British Association Register); přechod k „přirozenému právu" vrací lidem vrozená nezadatelná práva a prostředky z **kolaterálních účtů** (v milionech dolarů na jméno) v rámci QFS. Připomíná vlastizradu 1992 (nepromlčitelnou) a reparace 28 bilionů Kč / 9 550 tun zlata „pro Československo, ne pro korporace Česko a Slovensko"; za porušení paktu ICCPR (1966) náleží občanům odškodnění.
-
-> „Všechno okolo je vojenská operace za osvobození dětí, boj proti všudypřítomnému prolezlému Deep State." — Pavel Zítko, [Freedom 250 / UFC 12. 6. 2026](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
-
-Navazuje na [Trump, Putin a Xi jako aliance](#trump-putin-a-xi-jako-koordinovaná-aliance-proti-deep-state--zítko-čte-mcintosh), [Rodný list jako obchodní papír](#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) a [Válečné reparace a výzva mocnostem](#válečné-reparace-a-výzva-mocnostem-obnovit-čsr-zítko-3-6-2026).
-
-**Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
 
 ---
 
@@ -722,20 +384,6 @@ V téže relaci Zítko zarámoval události do New Age výkladu o „vzestupu". 
 Z „kvantové fyziky" vyjmenovává **7 faktorů ovlivňujících vibrační frekvenci**: myšlenky, společnost (lidé kolem), hudba (reaguje na ni i voda), sledované pořady, prostředí/nálada, slovo (pomluvy snižují frekvenci) a vděčnost („univerzální platidlo vesmíru"). K tomu opakuje, že jen ~**17 % obyvatel** „srdce Evropy" má „Kristovskou DNA" a zbytek je „něco jiného" (odkaz na film *Oni žijí* a „aurabrýle" odhalující, kdo je a není člověk).
 
 **Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
-
----
-
-### UFC Freedom 250 „naplněno": demontáž admiralty, konec války s Íránem, „Michelle Obama je muž" — Zítko (15. 6. 2026)
-
-Zítko referuje o akci, kterou předpověděl (viz [Freedom 250, 12. 6.](#freedom-250--ufc-finální-tah-proti-deep-state--zítko-12-6-2026)): UFC Freedom 250 proběhlo 14. 6. (Trumpovy 80. narozeniny, Den vlajky) na trávníku Bílého domu, 7 titulových zápasů. Vykládá je symbolicky:
-
-- **Finále jako demontáž admiralty:** dosud neporažený šampion Ilia Topuria (na zádech tetování dvou propletených hadů = symbol Deep State / práva admirality) prohrál s outsiderem Justinem Gaethjem (kurz 4+ vs. 1,2) — „rozsekaná držka" Topurii má symbolizovat „veřejný souhlas" lidu s koncem námořního práva a návratem k přirozenému právu. Prezident UFC Dana White (z nejužšího Trumpova okruhu) měl prý v pozadí obrazy s „Epsteinovskou" symbolikou (obchodování s dětmi).
-- **Trump „ukončil válku s Íránem":** 14. 6. ve 21:47 prý „šesti větami" ukončil válku a otevřel Hormuz; tři letadlové skupiny (Eisenhower, Lincoln, Truman) se do 90 sekund stáhly. Dohoda byla tajně uzavřena už 8. 6. v Muscatu (Omán): 60denní likvidace uranu, inspektoři, uvolnění 147 mld. $ zmrazených aktiv, zrušení sankcí, obnova vývozu ropy → pád ceny ropy. „Hlavou hada" Deep State v Íránu měly být Epstein kompromateriály pro budoucí vojenské tribunály. Vrchním velitelem „velké aliance" (vs. izolované EU/UK) je dle Zítka Trump (+ Putin, Xi, Modi, Bin Salmán, BRICS).
-- **„Michelle Obama je muž":** bojovník Josh (s tetováním Judova lva = Ježíš) prý během večera „práskl" na celý svět, že Michelle Obama je muž („Mike Robinson"), podobně jako „Ladyboy" Macron — Zítko to bere jako oficiální QAnon odhalení.
-
-> „Zatímco jsi spal, svět se změnil. […] Válka je ukončena, ropa opět teče." — Pavel Zítko, [Freedom 250 / UFC 15. 6. 2026](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
-
-**Zdroje:** [Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026)](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 
 ---
 
@@ -756,9 +404,9 @@ Ve vysílání „Poledník 11:11" Zítko přečetl satirický seznam **„33 z�
 - **Okamura 3 mil. za plakát** vs. Zítkovy 3 roky za „poplašnou zprávu" → [dsa-cenzura.md](dsa-cenzura.md#zítkovo-odvolání-pravda-nemůže-být-poplašná-zpráva-3-6-2026)
 - **ČT „výpalné"** (cashback od 12. 3. 2020) → [media-propaganda.md — ČT výpalné](media-propaganda.md#čt-výpalné-propočet-500-zbytečných-zaměstnanců-výzva-vrátit-poplatky-zítko-7-6-2026)
 - **CO2/Green Deal/uhlíkové povolenky, soláry a větrníky** → [suverenita-eu.md — Green Deal](suverenita-eu.md#eu-a-green-deal), [vetrniky.md](vetrniky.md)
-- **Vlastizrada 1992, ČSR trvá (zákon 11/1918), reparace 9 550 t zlata, vstup do EU/NATO nelegitimní** → [Recap „portál 11:11" (7. 6.)](#recap-portál-1111-vlastizrada-1989-reparacečsr-a-qanon-dvojníci-zítko-7-6-2026), [Válečné reparace (3. 6.)](#válečné-reparace-a-výzva-mocnostem-obnovit-čsr-zítko-3-6-2026)
+- **Vlastizrada 1992, ČSR trvá (zákon 11/1918), reparace 9 550 t zlata, vstup do EU/NATO nelegitimní** → [Recap „portál 11:11" (7. 6.)](konspirace-ceskoslovensko.md#recap-portál-1111-vlastizrada-1989-reparacečsr-a-qanon-dvojníci-zítko-7-6-2026), [Válečné reparace (3. 6.)](konspirace-ceskoslovensko.md#válečné-reparace-a-výzva-mocnostem-obnovit-čsr-zítko-3-6-2026)
 - **Cinknuté volby (Dominion), Joe Biden dvojník (popraven, o půl metru vyšší)** → [Dvojníci a klony](#dvojníci-a-klony-politiků-a-celebrit)
-- **Měnová reforma 1953 + inflace** (1 mld → 8 bil. Kč, okrádání úspor/„paměti národa") → [Měnová reforma 1953 (3. 6.)](#měnová-reforma-1953-a-inflace-jako-okrádání--argument-pro-hotovost-zítko-3-6-2026)
+- **Měnová reforma 1953 + inflace** (1 mld → 8 bil. Kč, okrádání úspor/„paměti národa") → [Měnová reforma 1953 (3. 6.)](konspirace-ceskoslovensko.md#měnová-reforma-1953-a-inflace-jako-okrádání--argument-pro-hotovost-zítko-3-6-2026)
 - **Průmyslové jídlo/cukr vs. tuk, slunce „nebezpečné", astrologie vs. virologie** — drobné zdravotní teze v rámci téhož seznamu (bez samostatného záznamu)
 
 Navíc Zítko kriticky zmínil **Jindřicha Rajchla**, že na mítinku v Bystřci srovnával vakcínu (dle Zítka „biologickou zbraň") s alkoholem a cigaretou, a **Adama Vojtěcha** („zpívající ministr ze Superstáru") jako potřetí nominovaného na zdravotnictví.
@@ -851,7 +499,7 @@ Zítko sdílí sérii QAnon tvrzení o Georgi Sorosovi: popisuje ho jako vrchol 
 
 ### Světové ekonomické fórum jako projekt CIA (Malone, Schwab, Kissinger) — Vrabel (18. 7. 2026)
 
-Vrabel přebírá tvrzení amerického lékaře Roberta Malonea, že Světové ekonomické fórum (WEF) je od svého vzniku (1971) spojeno s americkou CIA a že jeho zakladatele Klause Schwaba měl „ovlivnit" bývalý ministr zahraničí Henry Kissinger. Vrabel dodává, že ho to nepřekvapuje, protože na CIA je podle něj napojené i české ministerstvo zahraničí, které „chodí pro rozkazy" na americké ministerstvo zahraničí, a CIA má prý „pod kontrolou naše volby i média". Zároveň Malonea hájí jako „otce mRNA", který jako jeden z prvních varoval před mRNA vakcínami a byl za to umlčen coby „dezinformátor" (kritizuje absurditu, že vynálezce technologie je označen za dezinformátora těmi, kdo „to vědí líp" — von der Leyen, Babiš). Navazuje na tezi o [USA/CIA měnících vlády 73×](#trump-obviňuje-čínu-z-vměšování-do-voleb--kdo-to-říká-ten-to-je-vrabel-17-7-2026) (dnes prý otevřeně: Venezuela, Írán).
+Vrabel přebírá tvrzení amerického lékaře Roberta Malonea, že Světové ekonomické fórum (WEF) je od svého vzniku (1971) spojeno s americkou CIA a že jeho zakladatele Klause Schwaba měl „ovlivnit" bývalý ministr zahraničí Henry Kissinger. Vrabel dodává, že ho to nepřekvapuje, protože na CIA je podle něj napojené i české ministerstvo zahraničí, které „chodí pro rozkazy" na americké ministerstvo zahraničí, a CIA má prý „pod kontrolou naše volby i média". Zároveň Malonea hájí jako „otce mRNA", který jako jeden z prvních varoval před mRNA vakcínami a byl za to umlčen coby „dezinformátor" (kritizuje absurditu, že vynálezce technologie je označen za dezinformátora těmi, kdo „to vědí líp" — von der Leyen, Babiš). Navazuje na tezi o [USA/CIA měnících vlády 73×](valka-nato-rusko.md#trump-obviňuje-čínu-z-vměšování-do-voleb--kdo-to-říká-ten-to-je-vrabel-17-7-2026) (dnes prý otevřeně: Venezuela, Írán).
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 

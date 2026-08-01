@@ -378,7 +378,7 @@
 - Ukrajinský dronový útok na ropný terminál u Petrohradu — vtažení NATO do konfliktu, ne vítězství — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - BRICS se mění z obchodního uskupení na bezpečnostní pakt kvůli USA/Íránu — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - EU otevře 8. 7. šestý klastr přístupových jednání s Ukrajinou — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
-- ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [konspirace.md](../konspirace.md)
+- ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md)
 - MO koupilo bytový komplex v Jincích pro vojáky; vlastní vzpomínka na šikanu na vojně — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - **5. 7.** — ⚡ Konflikt: odmítá Rajchlův návrh na odebrání Řádu bílého lva jako prázdné gesto; konkrétní návrh zahraniční politiky ČR podle vzoru Srbska (vojenská neutralita + obchod se všemi bloky); doplnění BRICS a jaderných zbraní (UK→Německo, Francie→Polsko) — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 - **9. 7.** — vláda hodnotí 6 měsíců, neplněné klíčové sliby (důchodový věk, větrníky, Ukrajina); PURL nakonec ČR platí přes rozpočet EU (~45 mld. za 15 let); Zuna/SPD obhajuje PURL, porušené sliby (F-35, muniční iniciativa) — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
