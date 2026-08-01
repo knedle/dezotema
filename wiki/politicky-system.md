@@ -386,16 +386,6 @@ Adam Šejna (Restart Česko) navazuje na kauzu předběžného opatření Ústav
 
 ---
 
-## Milion chvílek — rozhovory s účastníky (Restart Česko)
-
-### Účastnice protestu odmítají kandidaturu motoristů, přitom hájí „svobodné volby" (Šejna, 1.–2. 2. 2026)
-
-Adam Šejna (Restart Česko) natočil dvě krátká pouliční interview s účastnicemi demonstrace Milion chvílek pro demokracii. V obou rozhovorech vede dotazované k přiznání rozporu: souhlasí s tím, že demonstrace hájí demokracii a svobodné volby, ale zároveň podporují zákaz kandidatury hnutí Motoristé „za jejich prasárny" — což Šejna prezentuje jako protimluv vlastní deklarované víře ve svobodné volby. V prvním videu dotazovaná navíc připouští, že „hajlování na veřejnosti" by mělo být trestným činem, ale neumí vysvětlit, proč taková osoba není ve vězení. Ve druhém videu se řeč stáčí k tomu, že Petr Macinka poslal Filipu Turkovi zprávu s vyjádřením, že by Turka nejmenoval ministrem — dotazovaná ji označuje za „hrozně útočnou" a nevhodnou mezi politiky, aniž zprávu sama četla.
-
-**Zdroje:** [Šejna — Milion chvílek: rozhovor 1, 1. 2. 2026](_zdroje.md#adam-šejna--milion-chvílek-rozhovor-1-1-2-2026), [Šejna — Milion chvílek: rozhovor 2, 2. 2. 2026](_zdroje.md#adam-šejna--milion-chvílek-rozhovor-2-2-2-2026)
-
----
-
 ## Politické strany — kritika STAN
 
 ### STAN slibuje mladé generaci ochranu, přitom jedná proti jejím zájmům — Šejna (27. 7. 2026)

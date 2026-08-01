@@ -16,7 +16,7 @@ V současné době wiki zpracovává výstupy těchto kanálů a osobností:
 - **Jiří Černohorský** — aktivista spolku Česká Svoboda Respekt
 - **Pavel Zítko** (Československo TV2) — provozovatel alternativního média, témata COVID a kritika vlády
 - **Konspirátor Boldy** — komentátor na platformě KonspyChannel
-- **Adam Šejna** (Restart Česko) — provozovatel kanálu s krátkými politickými videi a pouličními rozhovory
+- **Adam Šejna** (Restart Česko) — influencer strany Motoristé
 
 ## Jak wiki vzniká
 

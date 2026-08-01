@@ -1,6 +1,6 @@
 # Adam Šejna
 
-Provozovatel kanálu Restart Česko, publikuje krátká politická videa a pouliční rozhovory na Facebooku.
+Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 ---
 
@@ -8,7 +8,6 @@ Provozovatel kanálu Restart Česko, publikuje krátká politická videa a pouli
 
 ### [Politický systém](../politicky-system.md)
 
-- Milion chvílek — rozhovory s účastníky demonstrace, kritika rozporu mezi hájením „svobodných voleb" a podporou zákazu kandidatury Motoristů — [Milion chvílek: rozhovor 1](../_zdroje.md#adam-šejna--milion-chvílek-rozhovor-1-1-2-2026), [rozhovor 2](../_zdroje.md#adam-šejna--milion-chvílek-rozhovor-2-2-2-2026)
 - Kritika STAN — LGBT, daně, ceny bytů — [STAN a mladá generace (27. 7.)](../_zdroje.md#adam-šejna--stan-a-mladá-generace-27-7-2026)
 - Petr Pavel a nestrannost Ústavního soudu (rychlost rozhodnutí ve prospěch Pavla vs. běžné soudy) — [29. 7.](../_zdroje.md#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026)
 - Sociální dávky jako závislost (analogie s krmením divoké zvěře) — [30. 7.](../_zdroje.md#adam-šejna--sociální-dávky-jako-závislost-30-7-2026)

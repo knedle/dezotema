@@ -3130,24 +3130,6 @@
 - **Poznámka:** Zpracováno 15 témat ("Zprávy v devět s komentářem"): (1) Ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Rekordní státní dluh ČR (342 tis./obyvatel) — rozprodej republiky — [suverenita-eu.md](suverenita-eu.md). (3) ČR podporuje čečenskou exilovou vládu (Ičkerie) — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Zelenský otevírá archivy k Volyni (smír s Polskem) — [valka-nato-rusko.md](valka-nato-rusko.md). (5) Vučič + British Steel — „konec volného trhu" — [suverenita-eu.md](suverenita-eu.md). (6) EU–Ukrajina drony/„sladění standardů", válku vede EU — [valka-nato-rusko.md](valka-nato-rusko.md). (7) Odvolání Syrského + Bundestag o Fedorovovi — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Írán/USA údery + cestovní varování — [blizky-vychod.md](blizky-vychod.md). (9) Robert Malone: WEF napojené na CIA — [konspirace.md](konspirace.md). (10) Nawrocki odmítl partnerství — Vrabel k LGBT — [rodina-deti.md](rodina-deti.md). (11) Francie stáhla zlaté rezervy z Fedu — [ceny-energie.md](ceny-energie.md). (12+13) Burnham v UK a odstoupení prezidenta v Maďarsku (výměna lídrů bez voleb) — [politicky-system.md](politicky-system.md). (14) EU akční plán elektrifikace — [ceny-energie.md](ceny-energie.md). (15) EU pravidla pro děti online + chat control/digitální ID — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
-## Adam Šejna — Milion chvílek: rozhovor 1 (1. 2. 2026) {#adam-šejna--milion-chvílek-rozhovor-1-1-2-2026}
-- **Soubor:** [přepis](prepisy/done/2026-02-01_Restart-Cesko_Videoportál.txt)
-- **Kanál:** Restart Česko (Adam Šejna)
-- **URL:** <https://m.facebook.com/watch/?v=1792226441461900&_rdr>
-- **Datum záznamu:** 2026-02-01
-- **Délka:** 00:01:23
-- **Poznámka:** „Gotcha" rozhovor s účastnicí demonstrace Milion chvílek pro demokracii — [politicky-system.md](politicky-system.md).
-- **Zpracováno:** ano
-
-## Adam Šejna — Milion chvílek: rozhovor 2 (2. 2. 2026) {#adam-šejna--milion-chvílek-rozhovor-2-2-2-2026}
-- **Soubor:** [přepis](prepisy/done/2026-02-02_Restart-Cesko_Videoportál.txt)
-- **Kanál:** Restart Česko (Adam Šejna)
-- **URL:** <https://m.facebook.com/watch/?v=1767942910544618&_rdr>
-- **Datum záznamu:** 2026-02-02
-- **Délka:** 00:01:40
-- **Poznámka:** Pokračování rozhovoru na demonstraci Milion chvílek, včetně tématu Macinkovy zprávy Turkovi — [politicky-system.md](politicky-system.md).
-- **Zpracováno:** ano
-
 ## Adam Šejna — STAN a mladá generace (27. 7. 2026) {#adam-šejna--stan-a-mladá-generace-27-7-2026}
 - **Soubor:** [přepis](prepisy/done/2026-07-27_Restart-Cesko_Videoportál.txt)
 - **Kanál:** Restart Česko (Adam Šejna)
