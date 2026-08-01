@@ -163,7 +163,7 @@ Vrabel ve své relaci „Zprávy v devět", v níž komentuje zpravodajství (mj
 
 ---
 
-## Selektivita a dvojí metr
+## Dvojí metr v médiích
 
 ### Mediální lynč vs. selektivní ticho
 
@@ -172,8 +172,6 @@ Rajchl kritizuje selektivní aplikaci mediálních kampaní. Mediální útok na
 **Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 
 ---
-
-## Dvojí metr v médiích
 
 ### Hrad prodal tajné informace Deníku N — média mlčí
 
@@ -374,20 +372,6 @@ Vrabel zároveň informoval, že v souběžné vlastní právní kauze vyhrál p
 Vrabel při přípravě zpráv zjistil, že tři položky, které poslal z Russia Today a Sputnik Globe, se jeho kolegyni v ČR nedaly otevřít. Z toho vyvozuje, že Češi „žijí v zemi, kde jim vláda dělá cenzuru" a nemají právo podívat se na zprávy z Ruska — vláda prý rozhoduje, co občané smějí číst, jako by nebyli dospělí a schopní sami rozeznat propagandu. Označuje to za důkaz, že ČR není svobodná země. Navazuje na [RT.com a Sputnik blokovány českými poskytovateli (3. 5.)](#rtcom-a-sputnik-blokovány-českými-poskytovateli-internetu--vrabel-3-5-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
-
----
-
-## Vlastenecká scéna a peníze
-
-### Vlastenecká scéna jako byznys — transparentní účty místo vlastenectví (25. 5. 2026)
-
-Jiří Černohorský kritizuje, že i tzv. vlastenecká scéna podléhá komerční logice: každý tvůrce má transparentní účet, výzvy k finančním příspěvkům a provozuje svoji aktivitu jako „business." Tím se podle Černohorského scéna rozděluje a nedokáže se sjednotit — přesně to, co oponenti chtějí. Jako pozitivní protiklad uvádí Petra Černého Orteka, který od roku 2009 dělal vlasteneckou práci bez transparentního účtu a „měl to srdce."
-
-Paradoxně z toho vyvozuje, že se vůbec nedivil výsměchu Blujové a Pšenáka na demonstraci: „Blujová měla pravdu, když říkala, to je super, že se tady ty dezoláti dohadují." Vnitřní rozpad vlastenecké scény je přímý důsledek toho, že každý vydělává na vlastní iniciativě místo spolupráce.
-
-> „Tady máte každý transparentní účet, podpořte mě, podpořte mě. [...] Každej z toho má jenom business skurvenej. Takže čemu já se to vlastně do hajzlu divím?" — Jiří Černohorský
-
-**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 
 ---
 

@@ -266,7 +266,7 @@ K odletu Andreje Babiše na summit V4 (s novým maďarským premiérem Peterem M
 
 ---
 
-## Různé — EU, euro, referendum a Green Deal
+## EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 
 ### Digitální euro: závazné pro všechny členské státy EU (Vrabel, 16. 5. 2026)
 
@@ -308,23 +308,6 @@ Zítko ve vysílání z 29. dubna 2026 sdílí 13minutový sestřih záběrů, v
 Zítko označuje za tři přímé aktéry vlastizrady Vladimíra Mečiara, Václava Klause a Václava Havla (který prý „křivopřísahal"). Jako motivaci pro zahraniční tlak na rozdělení uvádí, že nástupnické státy ČR a SR nejsou dědici ČSR, a Německo tak nemusí platit válečné reparace.
 
 **Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)
-
----
-
-### Petr Pavel: kritická bilance čtyř let prezidentství — Rajchl (3. 5. 2026)
-
-Rajchl v FB live (3. 5. 2026) sestavil systematický seznam Pavlových kroků, které označuje za poškozování národního zájmu a suverenity ČR:
-
-1. **Ukradený notebook** — incident, který by pro jakéhokoliv jiného politika byl koncem kariéry; Pavel bez důsledků.
-2. **Trump „odporný člověk" a „poškodil NATO více než Putin"** — výroky, které dle Rajchla poškodily postavení ČR v alianční politice za vlády Trumpa.
-3. **Poděkování Bernd Posseltovi (2023)** — vedoucí Sudetoněmeckého Landsmannschaftu, organizace usilující o revizi Benešových dekretů; Pavel mu veřejně poděkoval na sjezdu.
-4. **Navrhoval zavedení eura (2024)** — ač 70 % Čechů euro odmítá.
-5. **Navrhoval zrušení práva veta ČR v EU (2025)** — ač veto je klíčovým ochranným nástrojem malé země.
-6. **Navrhoval vytvoření Spojených států evropských (2026)** — zánik suverenity ČR jako explicitní cíl.
-
-Rajchl shrnuje: Pavel systematicky pracuje na zániku suverenity ČR — od finančního systému (euro) přes rozhodovací pravomoci (veto) až po státnost (USE). Proto Rajchl oznámil, že nepůjde na summit NATO v Ankaře (na pozvání Babiše) — Pavel by tam přítomností podkopával diplomatické postavení Babiše a Macinky.
-
-**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
 
 ---
 

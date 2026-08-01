@@ -71,6 +71,23 @@ Lenka Tarabová označuje Pavlovo veřejné „vyhlášení budoucího směřov�
 
 ---
 
+### Petr Pavel: kritická bilance čtyř let prezidentství — Rajchl (3. 5. 2026)
+
+Rajchl v FB live (3. 5. 2026) sestavil systematický seznam Pavlových kroků, které označuje za poškozování národního zájmu a suverenity ČR:
+
+1. **Ukradený notebook** — incident, který by pro jakéhokoliv jiného politika byl koncem kariéry; Pavel bez důsledků.
+2. **Trump „odporný člověk" a „poškodil NATO více než Putin"** — výroky, které dle Rajchla poškodily postavení ČR v alianční politice za vlády Trumpa.
+3. **Poděkování Bernd Posseltovi (2023)** — vedoucí Sudetoněmeckého Landsmannschaftu, organizace usilující o revizi Benešových dekretů; Pavel mu veřejně poděkoval na sjezdu.
+4. **Navrhoval zavedení eura (2024)** — ač 70 % Čechů euro odmítá.
+5. **Navrhoval zrušení práva veta ČR v EU (2025)** — ač veto je klíčovým ochranným nástrojem malé země.
+6. **Navrhoval vytvoření Spojených států evropských (2026)** — zánik suverenity ČR jako explicitní cíl.
+
+Rajchl shrnuje: Pavel systematicky pracuje na zániku suverenity ČR — od finančního systému (euro) přes rozhodovací pravomoci (veto) až po státnost (USE). Proto Rajchl oznámil, že nepůjde na summit NATO v Ankaře (na pozvání Babiše) — Pavel by tam přítomností podkopával diplomatické postavení Babiše a Macinky.
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+
+---
+
 ### NATO summit: Pavel vs. Babiš jako falešná narativní distrakce — Vrabel (8. 5. 2026)
 
 Vrabel v komentáři ke sporu o účast na summitu NATO (8. 5. 2026) odmítá interpretaci konfliktu mezi prezidentem Pavlem a premiérem Babišem jako skutečného politického střetu. Oba politiky označuje za „hráče na stejné straně": oba slouží NATO a atlantickým strukturám, debata o tom, kdo pojede na summit, je záměrnou mediální distrakcí zakrývající, že pro výsledek summitu nezáleží na tom, zda ČR zastupuje Pavel nebo Babiš — oba by prosazovali identické pozice. Vrabel tak popírá, že volba Babišovy vlády přinesla skutečnou změnu zahraničně-politické orientace.
