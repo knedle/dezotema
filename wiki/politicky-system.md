@@ -365,7 +365,17 @@ Během sjezdu ve Vysočině dostal Zítko od jedné z účastnic žertovné ocen
 
 **16. 7.** — Zítko zveřejňuje průběžné výsledky hlasování: u Pavla Matochy vede Luboš Xaver Veselý (138 hlasů, po Matochově nedávném rozhovoru s ním), následuje Václav Klaus (75), Karel Janeček (25), Jana Škopková (15) a Aleš Borovan (nejméně) — u Martiny Kocijánové mezitím přibylo na 12 komentářů, poděkoval jmenovitě přispěvatelům (Petr Marhaňka, Romy Havlínová, Iveta Molnárová aj.). Zdůrazňuje, že žádný ze čtyř dosavadních porotců nenominoval nikoho z pronásledovaných kritiků covidu (Tomáš Čermák, Iveta Křížová, Luboš Volný, Jana Peterková, Pavel Hejátko), přestože podmínky ceny cílí právě na osoby pronásledované za svobodu projevu — kritizuje to jako důkaz netransparentnosti společnosti, která odmítla zveřejnit i to, koho reálně nominovalo přes 3000 hlasujících z řad veřejnosti.
 
-**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+**20. 7.** — Zítko doplňuje nominace dalších porotců: vývojář počítačových her Dan Vávra už svoji pětku odevzdal (příliš pozdě na ovlivnění); u Martiny Kocijánové, Vadima Petrova, Daniela Kajzera (Echo24) a Tomáše Kulidakise stále lze radit, protože nominace ještě neodevzdali. Kritizuje, že loni organizátoři odmítli zveřejnit rozložení hlasů mezi nominovanými (přes 3000 odevzdaných). U ankety Křišťálová lupa upozorňuje na kategorie „online video", „zpravodajství a publicistika" a „influencer" a vyzývá diváky k hlasování.
+
+**Zdroje:** [ČsTV2 — Videoportál 8. 7. 2026](_zdroje.md#československo-tv2--videoportál-8-7-2026), [ČsTV2 — Videoportál 11. 7. 2026](_zdroje.md#československo-tv2--videoportál-11-7-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026), [Pavel Zítko — Videoportál: výročí měsíčního podvodu 20. 7. 2026](_zdroje.md#pavel-zítko--videoportál-výročí-měsíčního-podvodu-20-7-2026)
+
+---
+
+### Obhajoba klienta stíhaného za komentář proti demonstraci na podporu Pavla — Rajchl (21. 7. 2026)
+
+Rajchl zmiňuje, že bezprostředně po návratu z dovolené obhajoval u okresního soudu v Chebu „obyčejného člověka", kterého se podle něj současný „represivní systém s přetrvávajícími proukrajinskými tendencemi" snažil kriminalizovat pouze za to, že na Facebooku vyjádřil nesouhlasný komentář s demonstrací na podporu Petra Pavla. Řadí případ k obecnější tezi o selektivním vymáhání práva vůči kritikům prezidenta a vlády.
+
+**Zdroje:** [Rajchl — Videoportál 21. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-21-7-2026)
 
 ---
 

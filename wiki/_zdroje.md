@@ -3201,3 +3201,39 @@
 - **Délka:** 00:00:17
 - **Poznámka:** Připomínka staršího výroku Štěpánkové kritizujícího fotky politiků s dětmi — [kauzy.md](kauzy.md).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál 21. 7. 2026 {#jindřich-rajchl--videoportál-21-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-21_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1600732958112109>
+- **Datum záznamu:** 2026-07-21
+- **Délka:** 00:02:40
+- **Poznámka:** Zpracováno 2 témata: (1) Spor vláda vs. prezident jako mediální distrakce od Green Dealu, zdravotnictví a sociálního systému — [petr-pavel.md](petr-pavel.md). (2) Obhajoba klienta u soudu v Chebu stíhaného za FB komentář proti demonstraci na podporu Pavla — [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: MS ve fotbale finále 19. 7. 2026 {#pavel-zítko--videoportál-ms-ve-fotbale-finále-19-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-21_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1558369525650419&_rdr>
+- **Datum záznamu:** 2026-07-21 (vysíláno 19. 7. 2026)
+- **Délka:** 02:24:44
+- **Poznámka:** Zpracováno 2 témata: (1) Finále MS ve fotbale jako pokračování UFC Freedom 250 — globální „veřejný souhlas" s QFS — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). (2) ⚡ Vnitřní spor o pojetí obnovy Československa — Zítko vs. „pan Klobouk"/Patrik Svoboda — [konspirace-ceskoslovensko.md](konspirace-ceskoslovensko.md). Opakování beze změny (jen zmíněno): admiralty law/ČSR kontinuita, rodný list, moon landing tangenta. Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: výročí měsíčního podvodu 20. 7. 2026 {#pavel-zítko--videoportál-výročí-měsíčního-podvodu-20-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-21_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=867170659519884&_rdr>
+- **Datum záznamu:** 2026-07-21 (vysíláno 20. 7. 2026)
+- **Délka:** 01:19:26
+- **Poznámka:** Zpracováno 2 témata: (1) Přistání na Měsíci jako podvod — opakování beze změny, jen doplněn zdroj — [konspirace.md](konspirace.md). (2) Aktualizace nominací „Cena za svobodu projevu" a Křišťálová lupa — [politicky-system.md](politicky-system.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: pozitivní zprávy 21. 7. 2026 {#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-22_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1382112707183844&_rdr>
+- **Datum záznamu:** 2026-07-22 (vysíláno 21. 7. 2026)
+- **Délka:** 01:33:32
+- **Poznámka:** Zpracováno 4 témata: (1) Armádní informátor — chemtrails, morgelony a 5G jako nástroj ovládnutí lidstva — [konspirace.md](konspirace.md). (2) „73,9 % úmrtí po očkování" + citace Andersonové/CDC/RFK ml. — [covid-vakciny.md](covid-vakciny.md). (3) Barbara O'Neillová — dieta místo chemoterapie, úmrtí kojenců — [covid-vakciny.md](covid-vakciny.md). (4) Třípilířová právní argumentace organizovaného zločinu covidu (Lanka, Epstein/Gates, RKI) — [covid-vakciny.md](covid-vakciny.md). Opakování beze změny: pupečníková krev/císařské řezy (jen doplněn zdroj). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

@@ -172,3 +172,11 @@ Zítko referuje o akci, kterou předpověděl (viz [Freedom 250, 12. 6.](#freedo
 **Zdroje:** [Československo TV2 — UFC Freedom 250 naplněno (15. 6. 2026)](_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 
 ---
+
+### Finále MS ve fotbale jako pokračování UFC Freedom 250 — globální „veřejný souhlas" s QFS (Zítko, 19. 7. 2026)
+
+Zítko označuje finále mistrovství světa ve fotbale (Argentina–Španělsko, 19. 7. 2026, Trump osobně na stadionu) za pokračování stejného schématu jako [UFC Freedom 250 (14. 6.)](#ufc-freedom-250-naplněno-demontáž-admirality-konec-války-s-íránem-michelle-obama-je-muž--zítko-15-6-2026): zatímco UFC získalo „veřejný souhlas" amerického lidu, finále MS má získat souhlas celého světa (miliardy diváků) s přechodem od systému námořního práva k novému kvantovému finančnímu systému (QFS). Poukazuje na numerologii (19. 7. = součet číslic 17; 17. 7. odpovídá 4. červenci podle juliánského kalendáře) a na to, že USA veřejně vyhlásily „obnovenou suverenitu" 4. 7. 2026 s třicetidenním přechodným obdobím do 2. 8. 2026. Poločasovou show s Justinem Bieberem (doprovázeným „Vidym alias Shonem Kompsem", obchodníkem s adrenochromem) a předání trofeje Donaldem Trumpem vykládá jako symboly konce „starého systému" — přirovnává to k předávání žezla malému chlapci vedle Messiho. Zdůrazňuje, že rodný list byl prodán jako obchodovatelný „nákladový list" do Vatikánu a peníze z kolaterálních účtů (v milionech dolarů na jméno) se mají po dokončení přechodu vracet lidem.
+
+**Zdroje:** [Pavel Zítko — Videoportál: MS ve fotbale finále 19. 7. 2026](_zdroje.md#pavel-zítko--videoportál-ms-ve-fotbale-finále-19-7-2026)
+
+---

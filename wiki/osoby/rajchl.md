@@ -124,6 +124,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **25. 6.** — 360°: předběžné opatření „podruhé v historii", disent Vintra/Řepkové (jen pro mimořádnou škodu), dvojí metr vůči valorizaci důchodů — [360° k rozhodnutí ÚS (25. 6. 2026)](../_zdroje.md#jindřich-rajchl--360-rozhodnutí-ús-25-6-2026)
 - **5. 7.** — vzor Irska: 15% rovná daň, 12,5% korporátní daň, protekcionismus (dluhopisy, potravinový řetězec, jednotné místo kontaktu pro velké stavby) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 - **19. 7.** — Petr Pavel jako „prezident opozice", výrok „demokracie v ohrožení" jako signál k transformaci na prezidentskou republiku; vláda neplní vlastní sliby (munice, F-35, PURL 140 mil.); volby 2028 sjednotit proti Pavlovi — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+- **21. 7.** — obhajoba klienta u soudu v Chebu stíhaného za FB komentář proti demonstraci na podporu Pavla; kritizuje mediální pozornost věnovanou sporu vláda-prezident jako odvedení od Green Dealu, zdravotnictví a sociálního systému — [Videoportál 21. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-21-7-2026) → [petr-pavel.md](../petr-pavel.md)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)

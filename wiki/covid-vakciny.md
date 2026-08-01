@@ -476,6 +476,16 @@ Pavel Zítko formuluje podmínku, za níž se kauza covidu uzavře: „Tečka za
 
 ---
 
+### Tři právní „pilíře" organizovaného zločinu covidu (Zítko, 21. 7. 2026)
+
+Zítko formuluje třípilířovou právní argumentaci, proč covidová opatření naplňují definici organizovaného zločinu: (1) neplatnost vědeckých podkladů — cituje německý „Lankův precedent" (Stefan Lanka, spalničkový proces u Spolkového soudního dvora), podle nějž studie o izolaci viru nesplňovaly vědeckou metodiku; (2) předem připravený ekonomický motiv — odkazuje na odtajněné spisy Jeffreyho Epsteina a komunikaci Billa Gatese o zakládání účelových zdravotnických fondů s garantovanou návratností, a na iniciativu Evropského parlamentu „pandemie jako obchodní model"; (3) uniklé protokoly německého Institutu Roberta Kocha, které mají dokládat, že politici ohýbali vědecká data podle politického zadání a ignorovali varování vlastních expertů. Z toho vyvozuje, že státní zástupci a soudci, kteří i přes tyto veřejně dostupné důkazy odmítají zahájit trestní stíhání, se stávají spolupachateli podle §367 trestního zákoníku.
+
+⚡ **Poznámka:** Právní důsledky, které Zítko z uvedených zdrojů vyvozuje (naplnění definice organizovaného zločinu, trestní odpovědnost státních zástupců), neodpovídají oficiálnímu výkladu žádného z citovaných rozhodnutí či dokumentů.
+
+**Zdroje:** [Pavel Zítko — Videoportál: pozitivní zprávy 21. 7. 2026](_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)
+
+---
+
 ## Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 
 ### Vakcíny a agresivní recidivy nádorů — PubMed studie (leden 2026)
@@ -731,6 +741,16 @@ Zítko cituje video amerického advokáta, který podal žalobu na vládu USA kv
 
 ---
 
+### „Největší studie pitvy po očkování": 73,9 % úmrtí po vakcíně způsobeno vakcínou — mezinárodní citace (Zítko, 21. 7. 2026)
+
+Zítko cituje, co označuje za „největší studii pitvy po očkování proti covidu, jaká kdy byla provedena": podle ní bylo 73,9 % úmrtí následujících po očkování způsobeno přímo vakcínou. Odkazuje na odhad tří nezávislých analýz (470 000–900 000 zemřelých Američanů — více než ztráty USA v 1. a 2. světové válce, ve Vietnamu a Iráku dohromady) profesora práva Francise Boylea. K tomu řadí sérii mezinárodních citací: europoslankyně Christine Andersonová (AfD) má tvrdit, že zavedení mRNA vakcín „bude připomínáno jako nejhorší zločin v historii proti lidstvu"; bývalý ředitel amerického CDC měl přiznat, že covidové injekce nikdy neměly být nazývány očkováním ani bránit přenosu nákazy; Robert F. Kennedy ml. v rozhovoru z roku 2020 (později stažen z YouTube/Facebooku pro „lékařskou dezinformaci") popisuje obchodní model farmaceutického průmyslu jako výdělek 60 mld. $ ročně z vakcín a 500 mld. $ ročně z léčby zranění vakcínami způsobených.
+
+⚡ **Poznámka:** Neověřitelné a zkreslující tvrzení; neexistuje veřejně publikovaná studie s uváděným výsledkem, citace evropské poslankyně a bývalého ředitele CDC nejsou ověřitelné z uvedeného kontextu.
+
+**Zdroje:** [Pavel Zítko — Videoportál: pozitivní zprávy 21. 7. 2026](_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)
+
+---
+
 ### FDA a thimerosal: rtuť v dětských vakcínách nikdy neprošla bezpečnostními testy (Zítko, 16. 7. 2026)
 
 Zítko sdílí tvrzení, že ředitel FDA přiznal, že konzervační látka thimerosal (na bázi rtuti), přidávaná do dětských vakcín od roku 1929, nikdy neprošla testy bezpečnosti pro použití u zdravých kojenců. Vyzývá diváky, aby zvážili, zda není jednodušší „odstranit příčinu" (přestat používat látku) než řešit následky sbírkami na léčbu nemocných dětí.
@@ -906,6 +926,16 @@ Tarabová popisuje rakovinu jako civilizační chorobu vznikající z nárůstu 
 
 ---
 
+### Barbara O'Neillová: dieta místo chemoterapie a náhlá úmrtí kojenců spojená s očkováním (Zítko, 21. 7. 2026)
+
+Zítko sdílí vystoupení australské „výživové poradkyně" Barbary O'Neillové, která tvrdí, že dříve nebyla žádná náhlá úmrtí kojenců a že dnešní případy s vysokou pravděpodobností souvisejí s očkováním. K léčbě rakoviny doporučuje místo chemoterapie (u níž uvádí 96% úmrtnost pacientů) vyloučení cukru a ovoce na 6 týdnů, zaměření na zeleninu, ořechy, česnek (jako „přírodní antibiotikum") a extrakt z olivových listů, podporu mikrobiomu fermentovanými potravinami a zásadité potraviny.
+
+⚡ **Poznámka:** Barbara O'Neillová byla v Austrálii úředně zbavena oprávnění poskytovat zdravotní poradenství pro nebezpečná doporučení; tvrzení o příčinné souvislosti mezi očkováním a náhlým úmrtím kojenců ani uváděná úmrtnost chemoterapie neodpovídají odborným zdrojům.
+
+**Zdroje:** [Pavel Zítko — Videoportál: pozitivní zprávy 21. 7. 2026](_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)
+
+---
+
 ### Osobní svědectví o poškození očkováním — Jana Katarína Benke (13. 7. 2026)
 
 Moderátorka Jana Katarína Benke v rozhovoru s Pavlem Zítkem popisuje vlastní zkušenost: po covid vakcíně jí měly nastat silné bolesti bederní páteře, kvůli kterým přestala chodit a musela lézt po čtyřech — dodnes žije s trvalými následky a bere pravidelné léky, přičemž v Německu by na rozdíl od ČR měla nárok na asistentku kvůli takovému stupni postižení. Zmiňuje také, že její babička (dnes zesnulá) se nechala očkovat pod nátlakem rodiny a médií navzdory obavám, protože „v televizi říkali, že se nenakazíte". Kritizuje, že se v ČR poškozeným covid vakcínou nedaří domoci se odškodnění, na rozdíl třeba od Indie, kde je u nežádoucích účinků na oficiálním seznamu automaticky uznávána souvislost s očkováním.
@@ -952,4 +982,6 @@ Zítko sdílí (přes Vladimíru Avdičovou) údajně „největší kohortovou 
 
 Zítko tvrdí, že pupečníková šňůra by se měla po porodu nechat „dotepat" (30–60 minut), aby dítě dostalo maximum kmenových buněk, krve a kyslíku — což prý u císařského řezu není možné, protože dítě musí rychle ven. To spojuje s obviněním, že v pražském Podolí se rodí „41 miminek císařským řezem", aby se mohlo kšeftovat s pupečníkovou krví pro farmaceutický průmysl. Dotepání šňůry a první mlezivo (kolostrum) označuje za „vakcínu, kterou dává maminka", již žádná injekce nenahradí. Spojuje to s propadem porodnosti o 30 %.
 
-**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+**21. 7.** — Zítko opakuje tutéž tezi beze změny s odkazem na zahraniční lékařku Susan Humphreysovou (mateřské mléko a nedotčená pupečníková krev jako přirozená imunita nadřazená očkování) a doplňuje statistiku Ústavu pro matku a dítě v Praze (41 % porodů císařským řezem).
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026), [Pavel Zítko — Videoportál: pozitivní zprávy 21. 7. 2026](_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)

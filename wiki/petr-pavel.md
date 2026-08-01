@@ -385,6 +385,14 @@ Rajchl komentuje Pavlův rozhovor (mj. promítaný na Colours of Ostrava — kri
 
 ---
 
+### Spor vláda vs. prezident jako mediální distrakce od skutečných problémů — Rajchl (21. 7. 2026)
+
+V krátkém pozdravném videu po návratu z dovolené Rajchl sám relativizuje mediální pozornost věnovanou vztahu vlády a prezidenta — očekávaný večerní střet s Janem Jakobem na CNN Prima News má být opět o tomto tématu, které ale nepovažuje za podstatné. Podle něj Pavel „vychutnává si svoji Kim Ir-senizaci" a neuvěřitelnou adoraci opozičních „patolízalů", ale to nijak nezlepšuje životy občanů. Za skutečně důležitá témata označuje Green Deal, nedostatek lékařů a zdravotních sester v příštích 10–15 letech a nízké invalidní důchody — sliboval si, že tato témata do debaty přesto prosadí.
+
+**Zdroje:** [Rajchl — Videoportál 21. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-21-7-2026)
+
+---
+
 ### ÚS rozhodl o Pavlovi rychleji než v případech násilných trestných činů — Šejna (29. 7. 2026)
 
 Adam Šejna (Restart Česko) navazuje na kauzu předběžného opatření Ústavního soudu ve prospěch účasti Petra Pavla na summitu NATO v Ankaře (viz [ÚS uložil akreditovat Pavla na summit (24. 6.)](#ús-uložil-akreditovat-pavla-na-summit-rajchl-skandální-podjatý-baxa-24-6-2026)). Cituje Pavlovo prohlášení, že „nezávislá justice je pilířem naší demokracie", a obrací ho proti němu: srovnává rychlost rozhodnutí ÚS v Pavlův prospěch (do dvou dnů) s běžnými soudy, kde rodiče dětských obětí sexuálního násilí čekají na pravomocný rozsudek podstatně déle. Z toho vyvozuje, že člověk, který sám podkopává důvěru občanů ve vlastní justici, by neměl kázat o nestrannosti soudů.

@@ -178,3 +178,13 @@ Podrobnosti viz [Villa Tugendhat, tři koruny](#villa-tugendhat-tři-koruny-a-mo
 **Zdroje:** [Československo TV2 — Füllmich živě z vězení (12. 6. 2026)](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026), [ČsTV2 — Nadsvět s hostem: Pavel Zítko, 13. 7. 2026](_zdroje.md#pavel-zítko--nadsvět-s-hostem-13-7-2026), [ČsTV2 — Nedělní chvilka poezie, 12. 7. 2026](_zdroje.md#pavel-zítko--nedělní-chvilka-poezie-12-7-2026)
 
 ---
+
+### ⚡ Konflikt: vnitřní spor o pojetí obnovy Československa — Zítko vs. „pan Klobouk"/Patrik Svoboda (19. 7. 2026)
+
+Zítko věnuje větší část vysílání sporu s konkurenční frakcí v hnutí za obnovu Československa — skupinou kolem Zdenka Mojmíra Ponerta (přezdívaného „pan Klobouk") a jejího mluvčího Patrika „Morfea" Svobody, kteří prosazují vlastní koncept „Děržava Čechoslovakia". Zítko tento koncept odmítá jako právně bezobsažný: na rozdíl od jeho vlastní teorie (nepřetržitě trvající Československá republika založená zákonem č. 11/1918) nemá „Děržava Čechoslovakia" podle něj žádnou právní kontinuitu s původním státem — jde jen o „skanzen" a „rezervaci pro Indiány", který navíc mlčky připouští další existenci „zločineckých korporací" Česko a Slovensko.
+
+Zítko kritizuje, že tato frakce (i další dřívější spojenci, kteří se od ní postupně odklonili — Ruda Vávra, Jiří Petráš, Standa Šrajtr) redukuje celou agendu jen na jediný symbolický akt — přestřižení občanského průkazu — a nabádá lidi přestat platit hypotéky, exekuce a pojištění, což podle něj lidi zbytečně vystavuje riziku bez právního efektu (jako důkaz uvádí vlastní případ: bez občanského průkazu byl přesto trestně stíhán a odsouzen). Za skutečně účinný krok označuje pouze formální rozvázání „občanskoprávního svazku" s korporacemi Čechia a Slovakia při současném pokračování v běžných platebních povinnostech, dokud nenastane vymahatelnost práva. Naznačuje, že spor mezi frakcemi mohl být vyvolán záměrně („kdo pak jim dal nějaké zlé zadáníčko?").
+
+**Zdroje:** [Pavel Zítko — Videoportál: MS ve fotbale finále 19. 7. 2026](_zdroje.md#pavel-zítko--videoportál-ms-ve-fotbale-finále-19-7-2026)
+
+---

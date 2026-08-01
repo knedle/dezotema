@@ -189,7 +189,9 @@ Zítko přiznává, že v sobotu (11. 7.) sdílel nepotvrzenou zprávu o údajn�
 
 Pavel Zítko označuje přistání na Měsíci (Apollo) za historický podvod a misi NASA Artemis za jeho pokračování. Odkazuje se na Stanleyho Kubricka, o němž tvrdí, že původní přistání natočil jako fikci, podepsal 88stránkovou dohodu o mlčenlivosti na 15 let, a po jejím vypršení zahrnul do posledního filmu (*Eyes Wide Shut*) jména aktérů — načež zemřel na infarkt, který mohl být vyvolán CIA injekční látkou způsobující srdeční selhání.
 
-**Zdroje:** [Zítko — COVID tour ohlášení, 2026-04-02](_zdroje.md#pavel-zítko--covid-tour-ohlášení-2-4)
+**20. 7. 2026** — U příležitosti 57. výročí přistání na Měsíci Zítko tvrzení zopakoval beze změny (Kubrick, chybějící hvězdy na snímcích, vlající vlajka, otisk boty neodpovídající podrážce).
+
+**Zdroje:** [Zítko — COVID tour ohlášení, 2026-04-02](_zdroje.md#pavel-zítko--covid-tour-ohlášení-2-4), [Pavel Zítko — Videoportál: výročí měsíčního podvodu 20. 7. 2026](_zdroje.md#pavel-zítko--videoportál-výročí-měsíčního-podvodu-20-7-2026)
 
 ---
 
@@ -244,6 +246,14 @@ Vrabel ve zprávách otevřel téma změny klimatu jako osobní pozorování: sl
 **14. 7.** — Vrabel přidává nový konkrétní příklad údajné kontroly počasí: Americká Federální komunikační komise schválila společnosti Reflect Orbital povolení k testování technologie satelitních zrcadel, která mají odrážet sluneční světlo na noční část Země — oficiálně kvůli záchranným pracím nebo zvýšení výkonu solárních elektráren. Astronomové a ekologové varují před narušením astronomických pozorování, oslněním pilotů a řidičů a dopadem na ekosystémy. Společnost odmítá souvislost s vývojem zbraní nebo řízením počasí. Vrabel tomu ironicky nevěří a řadí projekt mezi nástroje globalistů k ovlivňování počasí i politických rozhodnutí — připomíná požáry na Havaji, kde podle jeho pozorování vyhořelo vše kromě domů s modrými střechami, což mu nedává smysl jako přirozený jev.
 
 **Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+
+---
+
+### Armádní informátor: chemtrails, morgelony a věže 5G jako nástroj „ovládnutí lidstva" (Zítko, 21. 7. 2026)
+
+Zítko sdílí video označené jako výpověď „armádního informátora" a spojuje ho s vlastní tezí o covidových opatřeních jako testu poslušnosti: chemtrails, morgelony (parazity aktivované dechem, které mají cíleně napadat epifýzu/mozkovou šišinku — „anténu pro napojení na zdroj informací") a věže mobilních sítí 5G měly společně sloužit k „ovládnutí lidstva" a zbavení se „zbytečných jedlíků". Roušky a PCR tyčinky podle něj sloužily ke kontaminaci morgelony, zatímco frekvence 5G sítí byly aktivovány pod označením COVID-19.
+
+**Zdroje:** [Pavel Zítko — Videoportál: pozitivní zprávy 21. 7. 2026](_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)
 
 **Zdroje:** [Boldy — Videoportál 11. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-11-7-2026)
 
