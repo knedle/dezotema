@@ -104,6 +104,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Dobrovolné koncesionářské poplatky jako jediné spravedlivé řešení — [Videoportál: dobrovolné poplatky ČT (17. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026)
 - Zuzana Černá: faktické chyby + označení za „ruskou kolaborantku" Natálie Vachatové = „bolševické manýry"; ODS Hedia žhářská hrozba bez odsouzení vs. lynčování Rajchla za „terče" — [Média: Zuzana Černá, ODS Hedia, dvojí metr (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
 - **21. 6.** — ČT = strážce probruselského směřování, ne demokracie (cenzura hymny Nohavicy, stávka jako protizákonné zneužití obrazovky, ČT horší/dražší než Nova/Prima/CNN Prima News, dobrovolné poplatky); dvojí metr v kauzách (Paukner: vrtulníky/Hladík/Dvořák/dozimetr vs. byty), Seznam demaskuje Pauknerův pseudonym; Milion chvilek/Minář jako vlivová struktura — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+- **24. 7.** — STAN přes dceřinou společnost investoval státní kompenzaci za kampaň do fondu Elevation (analýza T. Pauknera) — obcházení zákona, střet zájmu (energetické firmy), pokrytectví (spekulace na měnách, které chce zrušit euro) — [Videoportál: STAN a fond Elevation (24. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026)
 - **26. 6.** — sněmovní faktická poznámka: dobrovolné koncesionářské poplatky v libovolné výši (klidně 50 mld. rozpočet), politici bez vlivu na ČT, porušení etického kodexu ČT při stávce — [Videoportál: sněmovní debata o ČT (26. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
 - **27. 6.** — TN.cz rozhovor: žádný precedent nebyl porušen (o delegaci vždy rozhodovala vláda), Pavel by byl kvůli Trumpově urážce kontraproduktivní, soudci ÚS působili nejistě — [Videoportál: TN.cz rozhovor (27. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)
 - **5. 7.** — kauza Čestmír Strakatý: lynč od liberální scény za fotku s Turkem; debata CNN Prima — „hnědý Turek" vs. mlčení k Zelenského UPA jednotkám — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
@@ -284,6 +285,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Marian Jurečka | ❌ negativní | „Definice bezpáteřnosti" — úmyslně lhal o střelbě na FF UK a večírku, neodstoupil, přesto volá po Turkově odvolání | 2026-07-19 | [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026) |
 | Petr Pavel | ❌ negativní | „Prezident opozice"; výrok „demokracie v ohrožení" jako nebezpečný signál k transformaci ČR na prezidentskou republiku | 2026-07-19 | [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026) |
 | Petr Pavel | ❌ negativní | „Diletant nebo lhář" — tvrdil, že námitka podjatosti soudu předem podkopává důvěru v justici, opak toho, co stanoví §37 zákona o ÚS | 2026-07-23 | [Videoportál 23. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026) |
+| (mluvčí STAN) Krejčová | ❌ negativní | Obhajovala investici dceřiné společnosti STAN do fondu Elevation výmluvami, které Rajchl postupně vyvrací jako obcházení zákona | 2026-07-24 | [Videoportál: STAN a fond Elevation 24. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026) |
 
 ---
 
@@ -382,3 +384,5 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Facebook Live 12. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026)
 - [Videoportál 14. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-14-7-2026)
 - [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+- [Videoportál: podjatost Ústavního soudu (23. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026)
+- [Videoportál: STAN a fond Elevation (24. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026)

@@ -518,6 +518,19 @@ Navazuje na [Fremrova výpověď: Rakušan v šifrované síti](#fremrova-výpov
 
 ---
 
+### STAN investoval státní kompenzaci za kampaň do fondu Elevation přes dceřinou společnost (Rajchl, 24. 7. 2026)
+
+Na základě analýzy Tomáše Pauknera (viz [Kauza Paukner — placený obsah ČT](media-propaganda.md#kauza-paukner-česká-televize-a-placený-green-deal-obsah-přes-svaz-moderní-energetiky-zítko-16-7-2026)) Rajchl popisuje novou kauzu STAN: hnutí přes svou dceřinou společnost investovalo miliony korun — peníze, které inkasovalo od státu jako kompenzaci za volební kampaň (tzv. kroužkovací kampaň vůči Pirátům) — do investičního fondu Elevation, ačkoli zákon takové využití prostředků zakazuje. Postupně vyvrací obhajobu mluvčí STAN Krejčové:
+- „řádné hospodaření s přebytečnými prostředky" — Rajchl namítá, že šlo o bezúročnou půjčku, tedy reálně ztrátu kvůli inflaci, nikoli řádné hospodaření.
+- „stanovisko úřadu, že dceřiné společnosti mohou investovat své peníze" — Rajchl: šlo o půjčené státní peníze, ne vlastní prostředky dceřiné společnosti, takže jde o obcházení zákona.
+- „nejednalo se o střet zájmu" — Rajchl namítá, že fond Elevation investuje do energetických firem, jejichž výkonnost STAN z pozice vlády může přímo ovlivnit.
+
+Jako pokrytectví navíc zmiňuje, že fond spekuloval i na středoevropských měnách (koruna, zlotý, forint) — přestože STAN prosazuje zavedení eura. Srovnává s hypotetickým stejným jednáním hnutí ANO, které by dle něj vyvolalo mnohahodinovou kritiku od Víta Rakušana a Jany Šebelové. Vyjadřuje naději, že se případem budou zabývat příslušné orgány.
+
+**Zdroje:** [Rajchl — Videoportál: STAN a fond Elevation, 24. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026)
+
+---
+
 ## Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
 
 ### 90 mld. EUR „půjčka", oligarcha Mindić a zbrojní firma Firepoint (Černohorský, 10.–13. 5. 2026)
