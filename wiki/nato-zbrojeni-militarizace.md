@@ -307,6 +307,14 @@ Vrabel popisuje čtyři pilíře americké strategie podle Pentagonu: (1) ovlád
 
 ---
 
+### Lymeská borelióza jako biologická zbraň — senátor Bennet, Robert F. Kennedy ml. (Zítko, 23. 7. 2026)
+
+Zítko cituje výměnu mezi americkým senátorem Michaelem Bennetem a ministrem zdravotnictví Robertem F. Kennedym ml.: senátor se dotazuje, zda je lymeská borelióza uměle vytvořená biologická zbraň, na což Kennedy odpovídá. Zítko z toho vyvozuje, že i borelióza a kontaminovaná klíšťata patří mezi uměle vytvořené patogeny používané proti lidem — v jedné linii s jeho dlouhodobými tezemi o SARS-CoV-2, HIV/AIDS, ptačí chřipce (H5N1), viru Zika a horečce dengue jako patentovaných, tedy uměle vytvořených chorobách.
+
+**Zdroje:** [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
+
+---
+
 ### Petr Pavel na GLOBSECu: EU se má stát investičním a logistickým sektorem NATO (Vrabel, 21. 5. 2026)
 
 Na bezpečnostní konferenci GLOBSEC prezident Pavel argumentoval, že NATO a EU nejsou konkurenti, ale doplňkové pilíře. EU má podle Pavla investovat do vojenské infrastruktury tak, aby odpovídala požadavkům NATO — přístávky, mosty, železnice, letiště. Vrabel čte toto jako plán, aby se EU stala de facto vojensko-ekonomickým blokem podřadným NATO, přičemž NATO si zachová operační velení. Zároveň se USA stahují z přímých závazků — Rutte to „chápe." Výsledek: Evropa ponese větší tíhu případné války s Ruskem bez USA.

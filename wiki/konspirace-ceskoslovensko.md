@@ -21,7 +21,9 @@ Pavel Zítko tuto interpretaci přijímá a rozvíjí: sametová revoluce byla d
 
 > „To, co se odehrálo v 89., byl naplánovaný rozvrat Československa, a na tomhle naplánovaném rozvratu Československa se podílel už tehdy Václav Havel a Schwarzenberg." — Jiří Černohorský, [TikTok živě 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
 
-**Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025), [ČsTV2 — Večerník 8. dubna, 2026-04-09](_zdroje.md#pavel-zítko--večerník-8-dubna-havel-a-rozdělení-československa-9-4-2026)
+**23. 7.** — Zítko rozvíjí tezi o „agentu Zifčákovi" novým „důkazem": hudební videoklip Evy Farné a Miraje Navrátila (vzniklý dle Zítka 30. 3. 2026, symbolicky na den vzniku „vlajky Československé") prý obsahuje skrytou postavu „agenta Šmída" a je „prošpikovaný" indiciemi odkazujícími na inscenaci smrti studenta Martina Šmída 17. listopadu 1989 agentem StB Ludvíkem Zifčákem. Zítko klip označuje za hodný podrobnějšího samostatného rozboru „po sekvencích".
+
+**Zdroje:** [Černohorský — TikTok živě, 2025-06-08](_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025), [ČsTV2 — Večerník 8. dubna, 2026-04-09](_zdroje.md#pavel-zítko--večerník-8-dubna-havel-a-rozdělení-československa-9-4-2026), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 
 ---
 

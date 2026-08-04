@@ -3237,3 +3237,12 @@
 - **Délka:** 01:33:32
 - **Poznámka:** Zpracováno 4 témata: (1) Armádní informátor — chemtrails, morgelony a 5G jako nástroj ovládnutí lidstva — [konspirace.md](konspirace.md). (2) „73,9 % úmrtí po očkování" + citace Andersonové/CDC/RFK ml. — [covid-vakciny.md](covid-vakciny.md). (3) Barbara O'Neillová — dieta místo chemoterapie, úmrtí kojenců — [covid-vakciny.md](covid-vakciny.md). (4) Třípilířová právní argumentace organizovaného zločinu covidu (Lanka, Epstein/Gates, RKI) — [covid-vakciny.md](covid-vakciny.md). Opakování beze změny: pupečníková krev/císařské řezy (jen doplněn zdroj). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: Facebook blokace, kybernetická bezpečnost (23. 7. 2026) {#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-23_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1042351621588672&_rdr>
+- **Datum záznamu:** 2026-07-23 (vysíláno 22. 7. 2026)
+- **Délka:** 00:53:29
+- **Poznámka:** Zpracováno 8 témat: (1) 30denní FB blokace za citaci sestry Kimberly Overton pod záminkou „kybernetické bezpečnosti" — nová konkrétní kauza — [dsa-cenzura.md](dsa-cenzura.md). (2) Sestra Overton jako nový zdroj k protokolu Remdesivir/ventilátory — [covid-vakciny.md](covid-vakciny.md). (3) Neizolovaný virus / žaloba Werner (1,5 mil. euro) — dosud nezachyceno, doplněno — [covid-vakciny.md](covid-vakciny.md). (4) Šarže vakcín (12 000 na blockchainu) a pokles porodnosti −30 % — opakování beze změny, doplněn zdroj — [covid-vakciny.md](covid-vakciny.md). (5) Kauza bitcoinu — jmenovitě kritizuje vyšetřovatele Mazánka a Dragouna (NCOZ/Olomouc) — [kauzy.md](kauzy.md). (6) 17. listopad 1989 jako inscenace StB/KGB — nový „důkaz" (klip Evy Farné) — [konspirace-ceskoslovensko.md](konspirace-ceskoslovensko.md). (7) Volby USA 2020 — Dominion — opakování beze změny — [konspirace.md](konspirace.md). (8) Borelióza jako biologická zbraň (senátor Bennet, RFK ml.) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

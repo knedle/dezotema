@@ -26,7 +26,9 @@ Mluvčí Pavel Zítko tvrdí, že virus SARS-CoV-2 „nikdy nebyl izolován", a 
 
 ⚡ **Konflikt:** Toto tvrzení je v přímém rozporu s vědeckým konsensem. SARS-CoV-2 byl izolován v laboratořích po celém světě.
 
-**Zdroje:** [ČsTV2 — Soběšovice, 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3)
+Zítko k tvrzení dlouhodobě a opakovaně (téměř v každém vysílání) připojuje odkaz na německou odměnu 1,5 milionu euro pro toho, kdo virus SARS-CoV-2 prokazatelně izoluje — cenu dosud nikdo nevyzvedl. V rámci svého trestního stíhání u Okresního soudu v Chomutově (viz [DSA a cenzura — COVID rozsudky](dsa-cenzura.md)) tvrdí, že tuto odměnu nabídl jako „brigádu" napůl (750 tisíc euro) i údajnému státnímu zástupci **Davidu Wernerovi**, který proti němu vedl obžalobu za „šíření poplašné zprávy" — Werner podle Zítka důkaz izolace viru u soudu nikdy nepředložil, ačkoli důkazní břemeno mělo být na straně žaloby.
+
+**Zdroje:** [ČsTV2 — Soběšovice, 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 
 ---
 
@@ -343,7 +345,9 @@ Zítko uvádí, že jeho matka zemřela v říjnu 2020 přesně podle tohoto pro
 
 ⚡ **Konflikt:** Mortalita na umělé plicní ventilaci závisela na závažnosti stavu pacientů; tvrzení o záměrném protokolu zabíjení je v rozporu s klinickými záznamy.
 
-**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026)
+**23. 7.** — Zítko cituje jako druhý, nezávislý zdroj téže teze americkou zdravotní sestru (whistleblowerku) **Kimberly Overton** z JIP, která v rozhovoru s Petem Santillim tvrdí, že pacienti neumírali na COVID, ale na nemocniční protokoly (Remdesivir, ventilátor) — a že totéž pozorovala nejen ve své nemocnici, ale i jinde. Zítko zdůrazňuje, že právě sdílení jejího svědectví bylo Facebookem označeno za porušení „kybernetické bezpečnosti" (viz [DSA a cenzura](dsa-cenzura.md#zítko-30denní-blokace-za-citaci-zdravotní-sestry--kybernetická-bezpečnost-jako-záminka-22-23-7-2026)), zatímco identické tvrzení Petersona Pierra z roku 2021 postihu nepodléhalo.
+
+**Zdroje:** [Zítko — Zahřívací kolo COVID-19, 2026-04-10](_zdroje.md#pavel-zítko--zahřívací-kolo-covid-19-chemoterapie-5g-tribunál-10-4-2026), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 
 ---
 
@@ -401,7 +405,9 @@ Zítko tuto analýzu zasazuje do kontextu svého vlastního věznění: v záchy
 
 ⚡ **Poznámka:** Tvrzení o stratifikaci šarží a vojenskému tribunálu nelze ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [ČsTV2 — Videoportál 15. 5. 2026](_zdroje.md#československo-tv2--videoportál-15-5-2026), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026)
+**23. 7.** — Zítko opakuje tutéž analýzu beze změny (12 000 šarží na blockchainu, 147 stránek dat, rozdělení na placebo/střední/smrtící vrstvu, šarže „E").
+
+**Zdroje:** [ČsTV2 — Videoportál 15. 5. 2026](_zdroje.md#československo-tv2--videoportál-15-5-2026), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 
 ---
 
@@ -715,7 +721,9 @@ Tezi opakuje i ve vysílání 1. 6. 2026: za čtyři roky o 30 % méně narozen�
 
 **15. 7.** — Zítko tutéž tezi (data Romana Kovaříka, ÚZIS, 1,3 milionu žen) opakuje beze změny, jen s poznámkou, že bez „brigádních porodů" ukrajinských žen v ČR by číslo bylo ještě horší.
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026), [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
+**23. 7.** — Zítko opakuje tutéž tezi beze změny (vzorek 1,3 mil. žen, propad o 35 tisíc dětí ročně / 30 % za čtyři roky) jako doklad „sterilizace" očkovaných žen.
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026), [ČsTV2 — Korespondence s ČT, 1. 6. 2026](_zdroje.md#československo-tv2--korespondence-s-čt-1-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 
 ---
 

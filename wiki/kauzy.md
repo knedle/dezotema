@@ -593,6 +593,10 @@ Zítko informuje, že stížnost skupiny kolem Pavla Blažka, Karima Tice a Daň
 
 **Zdroje:** [Zítko — Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026)
 
+**23. 7.** — Zítko konstatuje, že rok a dva měsíce po odhalení kauzy stále nedošlo k jejímu rozlousknutí — jmenovitě kritizuje vyšetřovatele **Mazánka** a **Radima Dragouna** (NCOZ, Vrchní státní zastupitelství Olomouc) za nečinnost, přestože kauza čítá přes 100 miliard Kč.
+
+**Zdroje:** [Zítko — Videoportál: MedBeds, jahodový úplněk, bitcoin (30. 6. 2026)](_zdroje.md#pavel-zítko--videoportál-medbeds-jahodový-úplněk-bitcoin-30-6-2026), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
+
 ---
 
 ## Hejtman Grolich žádá občany o finanční dary na kampaň

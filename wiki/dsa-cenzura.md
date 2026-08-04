@@ -70,6 +70,14 @@ Zítko na příkladu švýcarského provozovatele **Bytel TV** dokumentuje ploš
 
 ---
 
+### Zítko: 30denní blokace za citaci zdravotní sestry — „kybernetická bezpečnost" jako záminka (22.–23. 7. 2026)
+
+Zítko popisuje, jak byl profil „Pavel Zítko" (přejmenovaný na Československo TV2) 22. 7. 2026 na 30 dní zablokován Facebookem oficiálně za porušení zásad „kybernetické bezpečnosti" — příspěvkem, který sdílel i s 1200 sledujícími po pouhých čtyřech dnech od registrace. Jako důkaz absurdity záminky cituje samotný „závadný" příspěvek: citaci zdravotní sestry Kimberly Overton, že covidoví pacienti neumírali na virus, ale na nemocniční protokoly. Poukazuje, že tentýž obsah (od jiného mluvčího, Dr. Petersona Pierra) sdílel už v roce 2021 bez jakéhokoli postihu — z čehož usuzuje, že skutečným cílem bylo omezit dosah kanálu (téměř milion zhlédnutí za 28 dní, nárůst o 782 %), ne řešit bezpečnostní hrozbu. Účet dostal navíc omezení: zákaz reklam a živého vysílání do 20. 8. 2026 a odpojení Messengeru. Zítko zároveň upozorňuje na existenci padělaného kanálu s ukradenou identitou a shodným počtem sledujících, který nevysílá živě. Jako zálohu pro případ úplného zablokování odkazuje na účet na Rumble a texty na Substacku.
+
+**Zdroje:** [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
+
+---
+
 ### YouTube smazal přes milion videí o vakcínách; umlčovaní vědci (Boldy, 17. 7. 2026)
 
 Boldy tvrdí, že „bývalá šéfka YouTube" nedávno přiznala smazání více než jednoho milionu videí o vakcínách označených za „antivax" — přestože prý šlo o tisíce studií a tisíce vědců s důkazy. Účelem cenzury dle Boldyho bylo, aby se informace „k lidem nedostaly". Do stejné linie řadí umlčování nepohodlných vědců: ti, kdo začnou mluvit, prý ztrácejí práci, jsou „dehonestováni" a končí „sebevraždou" (naznačuje, že jde o vraždy). Jako příklad zmizení informací uvádí přenos konference uznávaných vědců z Rakouska, Německa a Velké Británie, který prý sledoval živě na YouTube, a poté „se slehla zem" — žádné informace o vědcích ani videu už nedohledal. Uzavírá, že tvrzení „vědecky to není dokázáno" a odkaz na „vědecký konsenzus" jsou důsledkem toho, že nesouhlasné studie byly smazány, a že věda „neslouží lidem, ale financím". Navazuje na [Boldy: 13 vědců zavražděno po odkrytí volné energie](konspirace.md#boldy-13-vědců-zavražděno-po-odkrytí-volné-energie-24-5-2026).
