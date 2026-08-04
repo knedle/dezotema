@@ -3309,3 +3309,12 @@
 - **Délka:** 00:49:08 | Zhlédnutí: 457
 - **Poznámka:** Zpracováno 1 téma: „Solární záblesk" — kosmický reset Matrixu, merkaba/G-jádro, QFS, plochá Země — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Facebook Live (26. 7. 2026) {#jindřich-rajchl--facebook-live-26-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-26_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1696310828245425>
+- **Datum záznamu:** 2026-07-26
+- **Délka:** 00:51:41
+- **Poznámka:** Zpracováno 10 témat: (1) Úmrtí Karla Schwarzenberga — kondolence — [osoby/rajchl.md](osoby/rajchl.md). (2) Pavlovo veto rozpočtového zákona — [petr-pavel.md](petr-pavel.md). (3) Ekonomický plán (Irsko), „rozvod" od EU, Stiglitz — [politicky-system.md](politicky-system.md). (4) Kritika „farizejského" mentorování (Jakob, Jiří Dvořák) — [media-propaganda.md](media-propaganda.md). (5) Elon Musk potvrzuje tezi o Istanbulu 2022 — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (6–7) Demonstrace na Ukrajině po odvolání Fedorova, predikce o výměně Zelenského — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Útok mačetou v Berlíně, pokrytectví levice — [migrace.md](migrace.md). (9) Konkrétní návrhy k migraci — opakování rozšířené o nové příklady — [migrace.md](migrace.md). (10) Slyšení Fauciho 29. 7. — [covid-vakciny.md](covid-vakciny.md). Bez nových predikcí (opakuje 19. 7.) a stoch. teroru.
+- **Zpracováno:** ano

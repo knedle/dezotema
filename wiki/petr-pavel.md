@@ -412,3 +412,11 @@ Adam Šejna (Restart Česko) navazuje na kauzu předběžného opatření Ústav
 **Zdroje:** [Šejna — Petr Pavel a nestrannost ústavního soudu, 29. 7. 2026](_zdroje.md#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026)
 
 ---
+
+### Pavlovo veto rozpočtového zákona jako definitivní důkaz role „prezidenta opozice" (Rajchl, 26. 7. 2026)
+
+Rajchl označuje Pavlovo veto zákona nezbytného pro sestavení státního rozpočtu (bez něj nelze škrtat mandatorní výdaje) za definitivní důkaz, že se Pavel „pasoval do role lídra opozice" — přestože sliboval být "prezidentem všech". Kontrastuje to s Pavlovým chováním vůči vládě Petra Fialy: čtyři roky nekritizoval ani jeden z Fialových kroků (včetně škrtů školkovného a slevy na manžela v konsolidačním balíčku), naopak jeho rozpočty (dle Rajchla „falešné jak pětník") nikdy nevetoval, ačkoli k tomu byl vyzýván — údajně proto, že mu bylo slíbeno, že rozpočet bude ještě upraven (což se nestalo). Od nástupu vlády Andreje Babiše je to naopak „samý naschvál": nejmenování Filipa Turka, trestní oznámení na Petra Macinku, žaloba k Ústavnímu soudu (kde předběžné opatření padlo do 24 hodin — Rajchl cituje spekulaci, že bylo napsáno ještě před podáním žaloby) a nyní veto rozpočtového zákona. Rajchl argumentuje, že veto je ekonomicky nerealistické — každý ekonom by potvrdil, že bez změny zákona rozpočet „poctivě" sestavit nelze — a uzavírá, že Pavel buď této ekonomické souvislosti nerozumí, nebo mu je to jedno; v obou případech jde o „faul na Českou republiku". Kritizuje také opozici (ODS, Piráty, STAN, KDU-ČSL, TOP 09) za to, že nemá vlastní témata a jen recykluje to, co „nadnáší" Pavlův marketingový tým.
+
+**Zdroje:** [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
+
+---

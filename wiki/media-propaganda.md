@@ -486,3 +486,11 @@ Zítko rozšiřuje tezi o placené propagandě v ČT (viz sekci výše): kromě 
 Rajchl popisuje, jak média v den skončení summitu NATO „přeřadila" z tématu Pavel/summit na útoky na opozici (Turek, Foldyna, on sám). Jako doklad nevyváženosti uvádí, že Seznam Zprávy dvakrát za týden přinesl článek o tom, že si (firma, jejímž je společníkem) oplotila 20 let vlastněný pozemek u Prahy — legálně, po dohodě se sousedy, kvůli bezdomovcům (připomíná případ zavražděné Aničky) — zatímco „velké kauzy" (Rakušanův předražený nákup vrtulníků tři dny před volbami, Bíštan, dozimetr, kanceláře) zůstávají bez pozornosti. Řízení Seznamu dokládá tvrzením Tomáše Pauknera, že šéfredaktor „Čárenský" dostal těsně před nástupem desítky milionů od „Lukačeviče" do ztrátové firmy (koupě třetiny ztrátové firmy za desítky milionů). Navazuje na [Dvojí metr v kauzách: byty vs. Pauknerovy korupce](#dvojí-metr-v-kauzách-byty-vs-pauknerovy-korupce-demaskování-pseudonymu--rajchl-21-6-2026).
 
 **Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### Kritika „farizejského" mentorování občanů — moderátor Jakob a herec Jiří Dvořák (Rajchl, 26. 7. 2026)
+
+Rajchl kritizuje dva mediální projevy blahobytného pokrytectví. V debatě s moderátorem Janem Jakobem (patrně CNN Prima News) mu Jakob namísto věcné argumentace o EU/euru opakovaně vyčítal jeho podnikatelskou minulost („vykazujete vodu a pijete víno") — Rajchl to odmítá s tím, že Jakob sám v životě nic nevytvořil, jen se „přisál na státní cecík". Druhým příkladem je herec Jiří Dvořák, který veřejně prohlásil, že se lidé v ČR „mají jako prasata v žitě" a neváží si toho — Rajchl mu vyčítá, že takto může mluvit díky vlastním honorářům a tantiémům, ale je pokrytecké kázat to lidem vydělávajícím 20–25 tisíc měsíčně v Děčíně, Sokolově nebo Krnově. Sám se hlásí k tomu, že je bohatý, ale vyrůstal z chudých poměrů, a odmítá roli „povrchního mentora" — každý má jinou startovací čáru a i nízkopříjmové profese (popeláři, uklízečky, zdravotní sestry) jsou pro společnost nepostradatelné.
+
+**Zdroje:** [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)

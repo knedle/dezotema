@@ -773,7 +773,11 @@ Zítko sdílí sérii QAnon tvrzení o blížícím se „zúčtování" s Antho
 
 ⚡ **Poznámka:** Neověřené QAnon tvrzení; nejedná se o zdokumentovaný veřejný proces.
 
-**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+**26. 7.** — Rajchl nezávisle potvrzuje totéž slyšení (29. 7., 14:30) jako reálnou, věcnou událost — bez QAnon rámování: senátor Rand Paul má Fauciho vyslechnout s využitím dokumentů odtajněných díky Tulsi Gabbard, které mají dokazovat, že Fauci lhal ohledně financování gain-of-function výzkumu ve Wu-chanu ze strany USA a zároveň cenzuroval informace o laboratorním původu viru. Argumentuje, že dřívější znalost laboratorního původu by umožnila rychlejší a účinnější reakci a zachránila by víc životů. Dále zmiňuje, že mu profesor Beran poslal studii o léku izoprinozin, kterou plánuje zveřejnit — má dokládat, že při jeho včasném nasazení (místo spoléhání výhradně na vakcinaci) šlo ušetřit „několik tisíc" životů; vinu za nevyslyšení klade farmaceutickému lobby, které chtělo na pandemii vydělat, ne zachraňovat životy.
+
+⚡ **Poznámka k dodatku:** Existence slyšení a odtajněných dokumentů nelze nezávisle ověřit z veřejně dostupných zdrojů k datu zpracování.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026), [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 
 ---
 

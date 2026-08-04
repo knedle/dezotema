@@ -520,7 +520,9 @@ Ve stejný den, kdy Rajchl (viz výše) prezentuje svůj formální návrh jako 
 
 Rajchl varuje, že polská reakce na spor o Řád Bílé orlice (žádná omluva, jen vracení vyznamenání a nevděk) je předzvěstí toho, jak se Ukrajina zachová po skončení války vůči celému Západu: bude se cítit zrazená a podvedená (částečně oprávněně — v Istanbulu 2022 byla mírová dohoda na stole, ale Boris Johnson zablokoval západní garance) a obrátí se proti těm, kdo ji financovali. Klíčové je pro něj varování polského historika Šviatla, že Ukrajina bude mít po válce nejlépe vyzbrojenou a vycvičenou armádu v Evropě — přirovnává to k nacistickému Německu, které jen 6 let po hyperinflaci a hladomoru Výmarské republiky rozpoutalo světovou válku, protože ho Západ (ze strachu ze spojení s komunistickým SSSR) finančně a vojensky „vychoval" jako protiváhu Stalinovi. Rajchl vidí paralelu v dnešním financování Ukrajiny (90 mld. eur z EU, plánovaných 70 mld. dolarů přes NATO) jako vytváření „přehrady mezi Ruskem a námi", která se může stejně jako Německo obrátit proti svým sponzorům. Uzavírá, že by na Ukrajinu neposlal „už ani korunu" a apeloval by na uzavření míru za každou cenu.
 
-**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+**26. 7.** — Rajchl s radostí cituje rozhovor Elona Muska pro The Economist, v němž Musk popsal řešení války na Ukrajině „přesně tak", jak to on sám tvrdí už čtyři roky — tedy že šlo o dohodu dostupnou už v Istanbulu 2022. Vítá, že takto uvažuje i vlivný a racionální člověk, kterému je jedno, že ho za to budou nálepkovat jako „proruského kolaboranta" — takový pohled je podle Rajchla čistě pragmatický, nikoli ideologický.
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 
 ---
 

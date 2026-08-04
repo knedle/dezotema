@@ -499,7 +499,9 @@ Rajchl rozvíjí svůj dřívější návrh 15% rovné daně (viz [Flat tax 15 %
 
 > „Národní pilíř, peníze naší ekonomiky, protekcionalismus našeho trhu, našich podnikatelů. Už dost bylo globalismu." — Jindřich Rajchl, [FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
-**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+**26. 7.** — Rajchl oznamuje uspořádání semináře v Poslanecké sněmovně s odborníky na ekonomiku, který má zodpovědět, zda se ČR ještě ekonomicky vyplatí členství v EU — cituje nositele Nobelovy ceny Josepha Stiglitze, že se dle něj členství „už nevyplatí". Argumentuje analogií s manželstvím: ČR do EU vstupovala 1. 5. 2004 za zcela jiných podmínek (bez Green Dealu, bez Lisabonské smlouvy z 2009 posilující bruselské centrum moci, bez masivní migrace) — pokud se svazek stal „vydíráním a uzurpací", má právo o rozvodu uvažovat, stejně jako v manželství, kde by po 22 letech zjistil, že partner je „tyran". Krátkodobě očekává pokles životní úrovně, střednědobě a dlouhodobě zlepšení. Doplňuje symbolický požadavek: sundat vlajky EU z českých budov (ČR je členem stovek dalších mezinárodních organizací, jejichž vlajky nevisí) jako symbol nadřazenosti Bruselu. Odmítá nálepkování debaty o EU/euru jako „proruské" — hodnotí to jako nedostatek věcných argumentů u oponentů.
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 
 ---
 

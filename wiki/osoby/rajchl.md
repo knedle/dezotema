@@ -87,6 +87,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 
 ### [Migrace](../migrace.md)
 - **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
+- **26. 7.** — útok mačetou na LGBTQ demonstraci v Berlíně (pokrytectví levice); rozšířené konkrétní návrhy (zrušení dávek, automatické vyhoštění, konec dočasné ochrany) — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -105,6 +106,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Zuzana Černá: faktické chyby + označení za „ruskou kolaborantku" Natálie Vachatové = „bolševické manýry"; ODS Hedia žhářská hrozba bez odsouzení vs. lynčování Rajchla za „terče" — [Média: Zuzana Černá, ODS Hedia, dvojí metr (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
 - **21. 6.** — ČT = strážce probruselského směřování, ne demokracie (cenzura hymny Nohavicy, stávka jako protizákonné zneužití obrazovky, ČT horší/dražší než Nova/Prima/CNN Prima News, dobrovolné poplatky); dvojí metr v kauzách (Paukner: vrtulníky/Hladík/Dvořák/dozimetr vs. byty), Seznam demaskuje Pauknerův pseudonym; Milion chvilek/Minář jako vlivová struktura — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **24. 7.** — STAN přes dceřinou společnost investoval státní kompenzaci za kampaň do fondu Elevation (analýza T. Pauknera) — obcházení zákona, střet zájmu (energetické firmy), pokrytectví (spekulace na měnách, které chce zrušit euro) — [Videoportál: STAN a fond Elevation (24. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026)
+- **26. 7.** — kritika „farizejského" mentorování (moderátor Jakob, herec Jiří Dvořák) — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026) → [media-propaganda.md](../media-propaganda.md)
 - **26. 6.** — sněmovní faktická poznámka: dobrovolné koncesionářské poplatky v libovolné výši (klidně 50 mld. rozpočet), politici bez vlivu na ČT, porušení etického kodexu ČT při stávce — [Videoportál: sněmovní debata o ČT (26. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
 - **27. 6.** — TN.cz rozhovor: žádný precedent nebyl porušen (o delegaci vždy rozhodovala vláda), Pavel by byl kvůli Trumpově urážce kontraproduktivní, soudci ÚS působili nejistě — [Videoportál: TN.cz rozhovor (27. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-tncz-rozhovor-27-6-2026)
 - **5. 7.** — kauza Čestmír Strakatý: lynč od liberální scény za fotku s Turkem; debata CNN Prima — „hnědý Turek" vs. mlčení k Zelenského UPA jednotkám — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
@@ -127,10 +129,12 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **19. 7.** — Petr Pavel jako „prezident opozice", výrok „demokracie v ohrožení" jako signál k transformaci na prezidentskou republiku; vláda neplní vlastní sliby (munice, F-35, PURL 140 mil.); volby 2028 sjednotit proti Pavlovi — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - **21. 7.** — obhajoba klienta u soudu v Chebu stíhaného za FB komentář proti demonstraci na podporu Pavla; kritizuje mediální pozornost věnovanou sporu vláda-prezident jako odvedení od Green Dealu, zdravotnictví a sociálního systému — [Videoportál 21. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-21-7-2026) → [petr-pavel.md](../petr-pavel.md)
 - **23. 7.** — Pavel „diletant nebo lhář": tvrdil, že namítat podjatost soudu předem podkopává důvěru v justici — Rajchl cituje §37 zákona o ÚS, dle nějž lze podjatost namítnout jedině předem — [Videoportál 23. 7.](../_zdroje.md#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026) → [petr-pavel.md](../petr-pavel.md)
+- **26. 7.** — Pavlovo veto rozpočtového zákona jako definitivní důkaz role „prezidenta opozice"; ekonomický plán (vzor Irska), „rozvod" od EU (Stiglitz); Musk potvrzuje tezi o Istanbulu 2022; demonstrace na Ukrajině po odvolání Fedorova — [Facebook Live 26. 7.](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026) → [petr-pavel.md](../petr-pavel.md), [politicky-system.md](../politicky-system.md), [valka-nato-rusko.md](../valka-nato-rusko.md)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
 - Šarže Pfizer — data ÚZISu (Dobijášová): stovky nežádoucích účinků, 2 úmrtí (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+- **26. 7.** — slyšení Fauciho (29. 7., Rand Paul) jako reálná událost — dokumenty od Tulsi Gabbard o lhaní ohledně gain-of-function a cenzuře původu viru; studie o izoprinozinu od prof. Berana — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
@@ -286,6 +290,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Petr Pavel | ❌ negativní | „Prezident opozice"; výrok „demokracie v ohrožení" jako nebezpečný signál k transformaci ČR na prezidentskou republiku | 2026-07-19 | [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026) |
 | Petr Pavel | ❌ negativní | „Diletant nebo lhář" — tvrdil, že námitka podjatosti soudu předem podkopává důvěru v justici, opak toho, co stanoví §37 zákona o ÚS | 2026-07-23 | [Videoportál 23. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026) |
 | (mluvčí STAN) Krejčová | ❌ negativní | Obhajovala investici dceřiné společnosti STAN do fondu Elevation výmluvami, které Rajchl postupně vyvrací jako obcházení zákona | 2026-07-24 | [Videoportál: STAN a fond Elevation 24. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026) |
+| Karel Schwarzenberg | ⚖️ rozporuplný | Úmrtí — Rajchl vyjadřuje upřímnou soustrast, oceňuje, že si vždy stál pevně za svým názorem, ač s ním v mnohém nesouhlasil | 2026-07-26 | [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026) |
 
 ---
 
@@ -386,3 +391,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - [Videoportál: podjatost Ústavního soudu (23. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026)
 - [Videoportál: STAN a fond Elevation (24. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026)
+- [Facebook Live (26. 7. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
