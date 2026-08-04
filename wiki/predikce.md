@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Úroky nad 5 % ze státních dluhopisů USA vyvolají krizi srovnatelnou s obdobím před 2. světovou válkou (23. 7. 2026)
+
+**Předpověď:** V důsledku uzavření průlivů (Hormuz, Báb al-Mandab) přijdou ropné/plynové státy o cashflow a začnou prodávat americké státní dluhopisy; aby si USA udržely zájem investorů, budou muset zvýšit úrokovou sazbu — jakmile přesáhne 5 %, může to vyvolat rychlý sesun americké ekonomiky do recese s „dominovým efektem" až ke kolapsu srovnatelnému s obdobím před druhou světovou válkou. Kvůli navázanosti české ekonomiky na americkou by to mělo silné dopady i pro ČR.
+
+> „Pokud si chcete představit, co to může znamenat, tak to může vyvolat krizi takovou, jako byla před druhou světovou válkou." — Ladislav Vrabel
+
+**Horizont:** neurčeno (podmíněno vývojem úrokových sazeb)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+---
+
 ### Jindřich Rajchl — Zhroucení ukrajinské fronty, pád Zelenského a nástup Zalužného (19. 7. 2026)
 
 **Předpověď:** Nepředpovídá ruskou eskalaci (jak tvrdil Pavel), ale zhroucení ukrajinské fronty. Válka skončí, až Rusko ovládne přes 90 % Doněcké oblasti (po pádu Konstantinivky, Sloviansku, Kramatorsku, Kupjansku); pak Putin s Trumpem uzavřou dohodu (Rusko vymění zbytek Doněcka za část Charkovské oblasti), Zelenskyj bude nahrazen v Londýně připraveným Zalužným a přijde mírové jednání. Odvolání Fedorova považuje za první „dominovou kostku" pádu Zelenského.

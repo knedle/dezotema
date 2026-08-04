@@ -673,3 +673,13 @@ Předseda Evropské rady António Costa dvakrát zavolal do Ruska kvůli možný
 **Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)
 
 ---
+
+### Rubio–Lavrov na ASEANu: Rusko diplomaticky „vyhrálo", další vyzbrojování Ukrajiny „neakceptovatelné" (Vrabel, 23. 7. 2026)
+
+Na okraj summitu ASEAN (kam Rusko ani USA formálně nepatří, obě byly jen přizvány jako přátelské státy) došlo na žádost americké strany k bilaterálnímu, 35minutovému jednání ministra zahraničí Marka Rubia se Sergejem Lavrovem. Zatímco USA vydaly jen velmi obecné vyjádření, Rusko zveřejnilo diplomatickou cestou (web ministerstva zahraničí) podrobnější popis jednání. Podle Vrabelova výkladu Lavrov Rubiovi na rovinu popsal situaci na bojišti (ruská armáda dle něj nikde neprohrává, opak toho, co píší americká a evropská média) a připomněl, že Rusko akceptovalo vše dohodnuté mezi Trumpem a Putinem v Anchorage, zatímco USA dohodu nedodržely. Lavrov výslovně řekl, že Rusko si je vědomo americké role při navádění ukrajinských raket hluboko na ruské území (Starlink + zpravodajské informace) a že další vyzbrojování Ukrajiny ze strany USA je „nepřijatelné, neakceptovatelné". Vrabel to hodnotí jako diplomatickou výhru Ruska (USA o schůzku samy požádaly, Rubio odešel jako „ne vítěz") a jako signál, že Rusko přestává před Američany předstírat roli usilující o mír — chystá se dokončit „speciální vojenskou operaci" alespoň v části Donbasu a je ochotno k diplomatickému řešení jen za vlastních podmínek, nikoli podmínek Ukrajiny.
+
+> „Rusové jsou připraveni diplomatickému řešení konfliktu, ale pouze za ruských podmínek, ne za podmínek Ukrajiny." — Ladislav Vrabel, [Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+---

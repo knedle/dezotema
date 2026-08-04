@@ -394,6 +394,16 @@ V centru Bruselu proběhla demonstrace organizace Save Europe Act (stovky účas
 
 ---
 
+### EU odmítla zaregistrovat iniciativu Save Europe Act; migrační pakt jako nevyhnutelnost (Vrabel, 23. 7. 2026)
+
+Evropská komise odmítla zaregistrovat Evropskou občanskou iniciativu Save Europe Act (zastavení přistěhovalectví nezápadních migrantů, posílení hranic, remigrace neintegrovaných), pod niž se za měsíc podepsalo ~590 tisíc lidí (k postoupení Evropskému parlamentu je potřeba milion podpisů z členských států) — komise důvod uvedla rozpor se „základními hodnotami EU", konkrétně se zásadami rovnosti a nediskriminace. Organizátoři ohlásili odvolání právní cestou. Vrabel (sám spoluautor jiné evropské občanské iniciativy) argumentuje, že odmítnutí nebylo otázkou nedostatečného počtu hlasů — i 590 tisíc je významné číslo —, ale principiální: požadavek na remigraci migrantů je pro Evropskou komisi neslučitelný se „solidaritou" jako základním stavebním kamenem EU, na níž stojí i migrační pakt. Z toho vyvozuje, že představa, že česká vláda migrační pakt jednoduše odmítne a tím věc vyřeší, je „velmi naivní" — pakt je pro EU stejně zásadní jako odmítnutí remigrace, a začne k nám „velmi brzy" (odhaduje leden až březen) přivážet migranty z islámských zemí. Ilustruje nadřazenost práva EU (čl. 10 Ústavy — mezinárodní smlouvy nad českým právem) přirovnáním k šestiletému dítěti, které nemá jinou možnost než poslechnout rodiče.
+
+> „Migrační pakt je záležitost, která je pro Evropskou komisi úplně stejně postavená na evropských hodnotách, jako [byla] odmítnuta remigrace." — Ladislav Vrabel, [Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+---
+
 ### Nizozemsko: Iráčan osvobozen po usmrcení 14leté dívky (Vrabel, 17. 7. 2026)
 
 Vrabel komentuje nizozemský rozsudek: 33letý irácký žadatel o azyl Jamal T. byl zproštěn obžaloby z nedbalostního usmrcení a útěku z místa nehody poté, co při řízení (údajně sledoval mobil) srazil a usmrtil 14letou dívku — soud dospěl k závěru, že si podle důkazů neuvědomil, že dívku srazil. Vrabel rozsudek uvádí jako příklad selhání justice vůči migrantům („jeden Jamal, který tam vůbec nemá co dělat, zabije holku a oni ho propustí") a předpovídá, že totéž čeká ČR kvůli migračnímu paktu.

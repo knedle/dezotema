@@ -157,3 +157,11 @@ Boldy tvrdí, že sociální sítě přímo manipulují myšlením uživatelů �
 ⚡ **Poznámka:** Tvrzení o ovládání myšlenek „přes světla na kamerách" nemá oporu ve faktech.
 
 **Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### EU pokutovala Google za DMA; Vrabel: Google je americký armádní projekt (23. 7. 2026)
+
+Evropská komise oznámila, že Google porušil pravidla nařízení o digitálních trzích (DMA) — vytýká firmě zvýhodňování vlastních služeb ve výsledcích Google Search a bránění vývojářům aplikací nasměrovat spotřebitele k alternativním nákupním kanálům mimo Google Play; uložila dvě pokuty v celkové výši přibližně 890 milionů eur (460 a 430 mil.). Vrabel předpovídá, že Google pokutu buď nezaplatí, nebo ji zaplatí a EU mu to „vrátí jinde" — srovnává to s dřívějšími případy velkých amerických IT firem pokutovaných EU, kde Donald Trump následně výměnou vyjednal dovoz amerických GMO potravin bez cla nebo 15% clo na evropský vývoz. Tvrdí, že Google není „garážový projekt", ale vznikl jako projekt financovaný institucí napojenou na americkou armádu a dodnes provozuje Google Mapy na amerických vojenských satelitech — z toho vyvozuje, že snaha Evropské komise pokutovat společnost pracující pro potřeby americké armády je „velmi úsměvná".
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)

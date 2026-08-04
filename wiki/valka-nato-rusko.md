@@ -837,7 +837,9 @@ K nočním ukrajinským dronovým a raketovým útokům na Moskevskou a Tambovsk
 
 K jednání představitelů exilové vlády Čečenské republiky Ičkerie v Praze (kritika Kadyrova, výzva k podpoře nezávislosti na ruské nadvládě) Vrabel ironizuje, že „už dlouho jsme nepodpořili žádný teroristický režim" (naposledy Izrael a USA). Tvrdí, že se ČR (za současného ministra zahraničí) staví do role USA/Západu a jezdí po státech podporovat opoziční strany, možná i finančně a přes tajné služby — „vypadá to, že budeme podporovat nějaké převraty". Připomíná čečenskou vazbu na islámský stát a teroristické útoky (škola v Beslanu, Dagestán). Navazuje na tezi o [USA/CIA měnících vlády 73×](#trump-obviňuje-čínu-z-vměšování-do-voleb--kdo-to-říká-ten-to-je-vrabel-17-7-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+**23. 7.** — Doplňuje detaily jednání (proběhlo o víkendu v pražské kavárně za přísných bezpečnostních opatření; předseda exilové vlády Achmed Zakajev se z Londýna připojil videohovorem; cílem je využít oslabení Ruska válkou na Ukrajině k návratu otázky čečenské nezávislosti na mezinárodní scénu). Srovnává to s podporou dalších „opozičních" hnutí rozbíjejících suverénní státy: syrského prezidenta (bývalý velitel teroristické organizace Al-Nusra, kterého Trump po schůzce vyškrtl ze seznamu zemí podporujících terorismus), Izraele („genocida v Gaze", útoky na Libanon), USA vůči Venezuele a Íránu (zabití „duchovního vůdce" a vlády) — a připomíná, že s gruzínskou i běloruskou opozicí jednal i ministr zahraničí Petr Macinka.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026), [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 ---
 

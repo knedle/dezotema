@@ -637,3 +637,11 @@ Výbor stálých zástupců (Coreper) má 8. 7. schválit otevření již šest�
 **Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
 
 ---
+
+### Polský generální štáb očekává ruskou invazi po roce 2027; Poláci jsou „mentálně už ve válce" (Vrabel, 23. 7. 2026)
+
+Generální štáb polských ozbrojených sil pro případ vojenského konfliktu s Ruskem uvedl, že případnou ruskou invazi očekává nejdříve po roce 2027 — součástí příprav je i budování obranných opatření v rámci projektu „Východní štít", na němž polští a němečtí vojáci společně pracují (ženijní úkoly, výměna zkušeností, úprava terénu ke zpomalení postupu nepřátelských jednotek). Vrabel k tomu pouští úryvek vystoupení neidentifikovaného polského důstojníka, který argumentuje, že Polsko nesmí pasivně čekat na ruský útok a v případě signálů o hrozícím napadení by mělo udeřit jako první — což Vrabel označuje za „velmi nebezpečné slovo". Navazuje na svou opakovanou tezi (naposledy v nedělním vysílání), že za čtyři a půl roku protiruské propagandy a sankcí se z mnoha Poláků, zejména důstojníků, stali „absolutní fanatici" a že Poláci jsou už „mentálně ve válce" s Ruskem — s odkazem na záběry z pohraničí, kde se rozvíjejí zátarasy a rozmisťuje technika. Srovnává postoj polského důstojníka s vyjádřením šéfredaktorky Russia Today, která argumentuje, že zatímco Rusko do Evropy neposlalo jediný tank ani raketu, Evropa posílá do Ruska tisíce zbraní — Rusko podle ní drží odstup, ale při pokračující jednotné eskalaci Evropy varuje Sergej Lavrov, že válka „nebude konvenční", což implikuje i jaderný konflikt.
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+---

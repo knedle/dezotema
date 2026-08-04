@@ -3255,3 +3255,12 @@
 - **Délka:** 00:01:40 | Zhlédnutí: 14 242
 - **Poznámka:** Zpracováno 1 téma: Petr Pavel jako „diletant nebo lhář" — lhůta pro námitku podjatosti dle §37 zákona o ÚS — [petr-pavel.md](petr-pavel.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (23. 7. 2026) {#ladislav-vrabel--zprávy-v-devět-23-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-23_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/4500078776893106>
+- **Datum záznamu:** 2026-07-23
+- **Délka:** 01:00:13
+- **Poznámka:** Zpracováno 10 témat: (1) Babiš/Havlíček v Bělehradu vs. Vučičova suverenita — [suverenita-eu.md](suverenita-eu.md). (2) ASEAN Rubio–Lavrov, Rusko diplomaticky „vyhrálo" — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (3) EU odmítla registrovat iniciativu Save Europe Act — [migrace.md](migrace.md). (4) Húsíové zaútočili na tankery, ropa nad 100 $ — [blizky-vychod.md](blizky-vychod.md), predikce o úrocích/krizi — [predikce.md](predikce.md). (5) „Chazarští bankéři"/Fed jako skuteční vládci — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). (6) Zasypání dolu ČSM Karviná — [suverenita-eu.md](suverenita-eu.md). (7) Čečenská exilová vláda v Praze, doplnění — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Polská armáda očekává invazi po 2027 — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (9) Okamura v Číně, zadržený Čech / Strnad — [kauzy.md](kauzy.md). (10) EU pokutovala Google (DMA) — [digitalni-kontrola.md](digitalni-kontrola.md). Bez stoch. teroru.
+- **Zpracováno:** ano

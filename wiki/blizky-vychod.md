@@ -490,3 +490,11 @@ Rajchl upozorňuje, že k íránským břehům se přesouvají americká plavidl
 Boldy komentuje Trumpovo prohlášení při nových úderech na Írán, že se „proti Íránu otevřou brány pekelné", a americké „červené varování" občanům po celém světě. Trumpa označuje za loutku (připomíná podání ruky s Babišem — „jedna ruka, všechny loutky") a spojuje to se svým dřívějším výkladem [Trump = Abaddon](konspirace.md#trump-jako-démonická-entita--moon-child). Souběžně tvrdí, že jakmile začal opět vysílat, Facebook mu blokuje nahrávání videí a z Izraele ho někdo „špehuje" (upozornění antiviru).
 
 **Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Húsíové zaútočili na tankery v Báb al-Mandabu; ropa nad 100 $ poprvé od května (Vrabel, 23. 7. 2026)
+
+Jemenské povstalecké hnutí Húsíové v noci z 22. na 23. 7. zaútočilo balistickými a řízenými střelami i drony na dva tankery (Ensela a Laila) v průlivu Báb al-Mandab mezi Rudým mořem a Adenským zálivem — klíčové námořní trase mezi Evropou a Asií, kousek pod Hormuzským průlivem; na jednom tankeru vypukl rozsáhlý požár. Je to první útok od chvíle, kdy Húsíové oznámili uzavření průlivu pro saúdské lodě — Vrabel to čte jako logické pokračování (USA dál útočí na Írán, „žádné příměří" navzdory Trumpovu tvrzení). V reakci na napětí kolem obou průlivů (Hormuz i Báb al-Mandab) překonala ropa Brent poprvé od května hranici 100 dolarů za barel — psychologicky významnou hranici, naposledy dosaženou po ruské invazi na Ukrajinu 2022 (dříve i 2008/2012, tehdy až ~140 $). Vrabel to spojuje se svou tezí, že Trump střídavě „otevírá a zavírá" úžiny, aby na výkyvech ceny ropy vydělávali spekulanti (viz [Hormuzský průliv každý pátek — manipulace trhu](ceny-energie.md#hormuzský-průliv-každý-pátek-trump-prý-manipuluje-trh-s-ropou-vrabel-17-7-2026)) — očekává, že příští týden se stejným způsobem „vrátí pohádka" o otevření Hormuzu. Zdůrazňuje dopad na státy závislé na vývozu ropy/plynu/amoniaku/hnojiv, které při omezení tranzitu přijdou o cashflow a budou nuceny prodávat americké dluhopisy — což by mohlo zvýšit úrokové sazby USA a při překročení 5 % vyvolat recesi až krizi srovnatelnou s obdobím před druhou světovou válkou (viz [Predikce](predikce.md)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)

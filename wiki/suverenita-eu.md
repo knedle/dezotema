@@ -578,4 +578,18 @@ Rajchl opakuje a doplňuje své pozorování z Chorvatska: euro (zavedeno 1. 1. 
 
 Vrabel pouští a chválí projev srbského prezidenta Aleksandara Vučiče, který varuje před zhoršující se globální situací, vyzývá k posílení armády, ekonomiky a k tvorbě zásob (potraviny, voda) a prohlašuje, že „volný trh už neexistuje" kvůli bariérám a válkám. Vrabel označuje Vučiče za „nejlepšího politika na světě" a tvrdí, že by ČR řídil úplně stejně. Jako potvrzení Vučičovy teze uvádí britské znárodnění ocelárny British Steel (dříve čínská Jingye Group) z důvodu „národní bezpečnosti", proti němuž se ohradil Peking — obchodní zájmy se dnes prý neprosazují trhem, ale „násilím", clny, sankcemi a válkami; svět je „na divokém západě" a dělí se na dva tábory. Rozšiřuje dřívější [Srbsko jako model suverenity](#).
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+**23. 7.** — Vrabel kritizuje návštěvu Andreje Babiše a Karla Havlíčka v Bělehradu: místo aby se od Srbska (ekonomicky rostoucí, bez migrantů, vojensky neutrální, nemusí poslouchat EU) učili, jak vypadá suverenní politika, přesvědčovali Srbsko o výhodách vstupu do EU — totéž podle Vrabela dělal už dřív Tomio Okamura. Jako doklad srbské suverenity cituje odmítnutí prezidenta Vučiče podepsat závěrečnou deklaraci kyjevského summitu „Ukrajina a jihovýchodní Evropa" (uznávající Rusko za agresora) — Srbsko dál obchoduje s Ruskem i Čínou a nepřipojilo se k žádným sankcím. Vučiče znovu označuje za „nejlepšího politika na světě", kterého si přeje mít místo Babiše a Havlíčka.
+
+> „Aleksandar Vučič se nepřipojil ani k jedné sankci proti Ruské federaci [...] je prezidentem suverénní země Srbska. Jeho zvolili srbští občané a on nebude poslouchat příkazy ani z Evropské unie, ani z žádných jiných globalistických organizací." — Ladislav Vrabel, [Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026), [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+---
+
+### Zasypání posledního černouhelného dolu ČSM v Karviné jako likvidace suverenity (Vrabel, 23. 7. 2026)
+
+Na Karvinsku začalo zasypávání první jámy dolu ČSM — posledního činného černouhelného dolu v ČR (těžba skončila v lednu 2026); do téměř kilometr hluboké jámy míří přibližně 45 tisíc kubíků hlušiny, další jámy budou následovat, čímž skončí éra černouhelné těžby v Česku. Vrabel na příkladu ukazuje mechanismus fungování EU: nejprve nasype dotace a fondy (silnice, školy, zemědělství, turistika), výměnou za úpravu zákonů, které připraví právní rámec pro pozdější řízení země zvenčí — a jakmile Evropská komise nařídí likvidaci fosilních paliv, česká vláda nerostné bohatství nechá zatopit vodou a zasypat kamenem, aby ho už nikdo nemohl vytěžit. Zdůrazňuje, že jde o nevratné zničení hodnoty (na rozdíl od pouhého dočasného odstavení), a to bez racionálního důvodu kromě zisku firem podílejících se na zasypávání. Připomíná čl. 10 Ústavy (mezinárodní smlouvy nadřazené českému právu) jako právní základ této podřízenosti — Česká republika je podle něj fakticky „protektorát Evropské unie".
+
+> „Zasypáváme svoje uhelné doly, naše bohatství, naši energii [...] aby se k tomu nikdo nemohl dostat." — Ladislav Vrabel, [Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)

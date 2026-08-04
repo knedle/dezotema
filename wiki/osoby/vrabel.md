@@ -403,6 +403,7 @@
 - **16. 7.** — Ukrajina: nový premiér Korecký, odvolání Fedorova, tisícová demonstrace v Kyjevě, překvapená reakce EU (Kubilius); EU poprvé povolila Ukrajině čínské komponenty pro drony z úvěru — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **17. 7.** — Trump obviňuje Čínu z vměšování do voleb (USA prý 73× měnily vlády); Polsko „mobilizace bez mobilizace"; Řecko blokuje sankce + ruský AI-prank na poradce Dokose; ČR nepozvána do evropského protiraketového štítu („sleduj peníze") — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **18. 7.** — ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace; ČR podporuje čečenskou exilovou vládu (Ičkerie); Zelenský otevírá archivy k Volyni (smír s Polskem); EU–Ukrajina drony/„sladění standardů" (válku vede EU); odvolání Syrského + Bundestag o Fedorovovi („Německo velí Ukrajincům") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
+- **23. 7.** — ASEAN: Rubio–Lavrov, Rusko diplomaticky „vyhrálo", další vyzbrojování Ukrajiny „neakceptovatelné"; doplnění kauzy čečenské exilové vlády (Zakajev videohovorem, srovnání s podporou syrského prezidenta/Izraele/Venezuely/Íránu); polská armáda čeká invazi po 2027, Poláci „mentálně už ve válce" — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -416,6 +417,7 @@
 - Filip Turek — nehoda a tlak na rezignaci; Vrabel ho brání i přes nesouhlas s jeho postoji, kritizuje Babiše — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - EET 2.0 — likvidace malého podnikání ve prospěch dotovaných velkých firem — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - Kauza Foldina — obhajoba poslance SPD obviněného z domácího násilí, teze o mediálním lynči (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
+- Okamura v Číně — obdiv k automobilkám + případ zadrženého Čecha, spekulace o vazbě na Michala Strnada — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 ### [Blízký východ](../blizky-vychod.md)
 - Larry Johnson zesměšňuje plán útoku na Kharg Island — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -423,10 +425,12 @@
 - Trump: jediný účinný způsob komunikace s Íránem je vojenská síla — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - Írán označil Trumpovy nemovitosti na Blízkém východě za legitimní cíle odvety — Vrabel to obhajuje jako sebeobranu (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Noční údery USA na Írán, íránské odvety na Záliv, cestovní varování — jeďte raději do Srbska — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+- Húsíové zaútočili na tankery v Báb al-Mandabu, ropa Brent nad 100 $ poprvé od května — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 ### [Konspirace](../konspirace.md)
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - Robert Malone: WEF (Schwab, Kissinger) jako projekt CIA; obhajoba Malonea jako umlčeného „otce mRNA" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+- „Chazarští bankéři"/Fed jako skuteční vládci nad politiky a válkami — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 ### [Migrace](../migrace.md)
 - Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -438,6 +442,7 @@
 - Demonstrace v Bruselu proti migraci — reflexe vlastní demonstrační strategie z 2022 — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Nizozemsko: Iráčan (Jamal T.) osvobozen po usmrcení 14leté dívky — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Macinka „ČR nejbezpečnější díky absenci muslimů" — Vrabel oponuje (islám v ČR existuje) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+- EU odmítla registrovat iniciativu Save Europe Act (remigrace); migrační pakt jako nevyhnutelnost — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 ### [Ceny energie a ekonomika](../ceny-energie.md)
 - Zánik německých pivovarů a propouštění ve VW jako signál automatizace; predikce plné AGI/nezaměstnanosti 2027–2028 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -458,6 +463,7 @@
 ### [Suverenita a EU](../suverenita-eu.md)
 - Srbsko a EU jen předstírají zájem o vstup (65 % Srbů proti; nový zákon o legalizaci staveb) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Vučič + British Steel — „konec volného trhu", Vučič „nejlepší politik na světě" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+- **23. 7.** — Babiš/Havlíček v Bělehradu přesvědčovali Srbsko o vstupu do EU místo aby se učili suverenitě od Vučiče; zasypání posledního černouhelného dolu ČSM Karviná jako likvidace národního bohatství kvůli EU/Green Dealu — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - Zpráva EK o právním státu: kritika ČR (média/střet zájmů), pochvala Maďarska — ČR jako „protektorát" — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Emisní povolenky po 2030 + rozhodování kvalifikovanou většinou = konec veta, federalizace EU — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - EU vs. MOV — absurdní byrokracie kvůli ruským sportovcům na OH 2028 — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
@@ -466,6 +472,7 @@
 - Chat control 2.0 schválen EU parlamentem opakovaným hlasováním „dokud to neprojde" — konec šifrované komunikace — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - NATO/Palantir „Maven" — digitální dohled nad východním křídlem, Peter Thiel a technokracie — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - EU pravidla pro děti online jako předstupeň chat control a digitálního ID („totalitní systém s totální kontrolou") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+- EU pokutovala Google (DMA) — Google jako americký armádní projekt, pokuta se dle Vrabela nezaplatí nebo se vrátí jinam — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 ---
 
@@ -803,6 +810,14 @@
 | Robert Malone | ✅ pozitivní | „Otec mRNA" umlčený jako dezinformátor; Vrabel přebírá jeho tvrzení o napojení WEF na CIA | 2026-07-18 | [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) |
 | Andy Burnham | ❌ negativní | Nový premiér UK zvolený bez celostátních voleb — ironicky „Palšunka", prý bude stejný jako Starmer | 2026-07-18 | [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) |
 | Péter Magyar | ❌ negativní | Nový maďarský premiér — donutil prezidenta Šujoka odstoupit, aby si dosadil „vlastní loutku" („demokracie po maďarsku") | 2026-07-18 | [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Jediný na kyjevském summitu nepodepsal deklaraci uznávající Rusko za agresora — Vrabel znovu „nejlepší politik na světě" | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Andrej Babiš | ❌ negativní | V Bělehradu přesvědčoval Srbsko o vstupu do EU, místo aby se od Vučiče učil suverenní politice | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Karel Havlíček | ❌ negativní | V Bělehradu chválil srbský ekonomický růst a lákal Srbsko do EU; dříve prodával kmenové buňky s Rajchlem | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Sergej Lavrov | ○ neutrální | Na ASEANu řekl Rubiovi, že další vyzbrojování Ukrajiny ze strany USA je „neakceptovatelné" — Vrabel: diplomatická výhra Ruska | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Marco Rubio | ⚖️ rozporuplný | Odešel ze schůzky s Lavrovem na ASEANu jako „ne vítěz" — USA si schůzku samy vyžádaly | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Tomio Okamura | ⚖️ rozporuplný | V Číně chválil čínské automobilky (Vrabel souhlasí) a osobně jednal o zadrženém Čechovi — podezření na vazbu na Strnada | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Michal Strnad | ⚖️ rozporuplný | Zadržený Čech v Číně dle Vrabelovy spekulace pracuje pro jeho firmu — vysvětluje mimořádné diplomatické nasazení | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Achmed Zakajev | ○ neutrální | Předseda exilové vlády Čečenské republiky Ičkerie (Londýn) — připojil se k pražskému jednání videohovorem | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
 
 ---
 
@@ -892,3 +907,4 @@
 - [Facebook Live (16. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - [Zprávy v devět (17. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - [Zprávy v devět (18. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+- [Zprávy v devět (23. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)

@@ -142,6 +142,12 @@ Před parlamentními volbami v Arménii (7. 6.) Vrabel tvrdí, že je trestně s
 
 **Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
 
+**23. 7.** — Vrabel rozvádí tutéž tezi obecněji: skutečnou světovou mocí nejsou zvolení politici, ale soukromí bankéři, kterým jsou státy zadlužené — americký Fed (soukromá banka) i centrální banky evropských zemí. Tvrdí, že tyto banky založily rodiny „chazarských Židů" vyhnané před staletími z Ruska, které se rozšířily po Evropě a USA; ti podle něj skutečně rozhodují o válkách, ovládají média i organizace jako Globsec a Bilderberg — z čehož vyvozuje, že americkému prezidentovi (Trumpovi) je pro ně nakonec „úplně jedno", je-li nahrazen demokraty, protože obchodní a válečná agenda USA se tím nezmění.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026), [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+---
+
 ### Freedom 250 / UFC: finální tah proti Deep State — Zítko (12. 6. 2026)
 
 V hlavním vysílání „Freedom 250 / UFC 11:11" Zítko předkládá ucelené QAnon proroctví: akce UFC v jižním křídle Bílého domu **14. června** (shodou okolností 80. narozeniny Donalda Trumpa, „nebeský portál") a **4. července** (250. výročí Deklarace nezávislosti USA na britské koruně) jsou klíčovými body „osvobození" celého světa od Deep State. Není to prý jen „America First" — důsledky budou „citelné v celém světě", protože „aliance funguje dohromady" (předávka míče Putin→Trump→Melania 2018 jako symbol). Hlavní teze:

@@ -686,3 +686,13 @@ Ke stejné kauze se váže výrok Danuše Nerudové, že se Filip Turek „ráno
 Adam Šejna (Restart Česko) připomíná výrok Báry Štěpánkové z roku 2017, kde fotografování politiků s dětmi označila za projev autoritářství a nazvala to odporným. Šejna s tímto hodnocením nesouhlasí — fotku s dítětem nepovažuje za nejnižší možnou formu chování — a označuje výrok za snadno dohledatelný příklad pokrytectví.
 
 **Zdroje:** [Šejna — Bára Štěpánková: pokrytectví, 31. 7. 2026](_zdroje.md#adam-šejna--bára-štěpánková-pokrytectví-31-7-2026)
+
+---
+
+## Okamura v Číně: obdiv k automobilkám a případ zadrženého Čecha (Vrabel, 23. 7. 2026)
+
+Předseda Poslanecké sněmovny Tomio Okamura při návštěvě čínského showroomu automobilky Zeekr vyjádřil obdiv k rychlému rozvoji čínského automobilového průmyslu a uvedl, že Evropa v automobilovém závodě ztrácí pozici. Vrabel s tímto konkrétním hodnocením souhlasí (srovnává výkon/cenu čínských elektromobilů s Mercedesem) a používá ho jako doklad své dlouhodobé teze o technologickém náskoku Číny (infrastruktura sledovaná umělou inteligencí, rychlovlaky) oproti „100 let pozadu" zaostávající Evropě.
+
+Zásadní část cesty ale podle Vrabela nebyla o automobilech: česká delegace vedená Okamurou zároveň jednala s čínskými nejvyššími představiteli (Čao Le-ťi, Wang Chu-ning) o případu zadrženého českého občana vyšetřovaného pro podezření z ohrožení státní bezpečnosti Číny — věc řeší i ministr zahraničí Petr Macinka a šéf tajných služeb. Z rozsahu nasazení (předseda sněmovny osobně, celá delegace, koordinace s vládou) Vrabel usuzuje, že nejde o běžného občana, ale o vlivnou osobu z vysokého byznysu — a spekuluje, s odkazem na to, že se za zadrženého do sněmovny osobně zajel přimluvit Michal Strnad, že jde o člověka pracujícího pro Strnadovu firmu. Obchod s Čínou jako takový Vrabel odmítá jako reálnou možnost („zakáže nám to Evropská unie" — přirovnává ČR k „protektorátu" EU, viz [Zasypání dolu ČSM](suverenita-eu.md#zasypání-posledního-černouhelného-dolu-čsm-v-karviné-jako-likvidace-suverenity-vrabel-23-7-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
