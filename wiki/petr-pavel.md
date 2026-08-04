@@ -393,6 +393,16 @@ V krátkém pozdravném videu po návratu z dovolené Rajchl sám relativizuje m
 
 ---
 
+### Pavel „diletant nebo lhář": lhůta pro námitku podjatosti u ÚS (Rajchl, 23. 7. 2026)
+
+Rajchl reaguje na Pavlovo tvrzení, že označovat soud předem za podjatý podkopává důvěru v justici — jako trestní právník ho označuje za projev buď naprosté neznalosti zákona o Ústavním soudu, nebo vědomé lži. Argumentuje §37 zákona o Ústavním soudu: námitku podjatosti lze uplatnit nejpozději při prvním ústním jednání ve věci, později se k ní už nepřihlíží — podjatost tedy nelze namítnout jindy než předem, což je přesný opak toho, co Pavel tvrdil. Osobně se přiklání k výkladu, že jde o vědomé lhaní, s cílem poškodit v očích veřejnosti vládu Andreje Babiše a vykreslit situaci jako nastolování totality. Navazuje na dřívější kritiku Pavlovy role v kauze ÚS a podjatosti předsedy Baxy (viz [ÚS uložil akreditovat Pavla na summit (24. 6.)](#ús-uložil-akreditovat-pavla-na-summit-rajchl-skandální-podjatý-baxa-24-6-2026)).
+
+> „Petr Pavel tedy buď absolutně nezná zákon o ústavním soudu, anebo vědomě obelhává český národ. Já osobně jsem přesvědčen, že druhá varianta je ta správná." — Jindřich Rajchl, [Videoportál 23. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026)
+
+**Zdroje:** [Rajchl — Videoportál 23. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026)
+
+---
+
 ### ÚS rozhodl o Pavlovi rychleji než v případech násilných trestných činů — Šejna (29. 7. 2026)
 
 Adam Šejna (Restart Česko) navazuje na kauzu předběžného opatření Ústavního soudu ve prospěch účasti Petra Pavla na summitu NATO v Ankaře (viz [ÚS uložil akreditovat Pavla na summit (24. 6.)](#ús-uložil-akreditovat-pavla-na-summit-rajchl-skandální-podjatý-baxa-24-6-2026)). Cituje Pavlovo prohlášení, že „nezávislá justice je pilířem naší demokracie", a obrací ho proti němu: srovnává rychlost rozhodnutí ÚS v Pavlův prospěch (do dvou dnů) s běžnými soudy, kde rodiče dětských obětí sexuálního násilí čekají na pravomocný rozsudek podstatně déle. Z toho vyvozuje, že člověk, který sám podkopává důvěru občanů ve vlastní justici, by neměl kázat o nestrannosti soudů.

@@ -3246,3 +3246,12 @@
 - **Délka:** 00:53:29
 - **Poznámka:** Zpracováno 8 témat: (1) 30denní FB blokace za citaci sestry Kimberly Overton pod záminkou „kybernetické bezpečnosti" — nová konkrétní kauza — [dsa-cenzura.md](dsa-cenzura.md). (2) Sestra Overton jako nový zdroj k protokolu Remdesivir/ventilátory — [covid-vakciny.md](covid-vakciny.md). (3) Neizolovaný virus / žaloba Werner (1,5 mil. euro) — dosud nezachyceno, doplněno — [covid-vakciny.md](covid-vakciny.md). (4) Šarže vakcín (12 000 na blockchainu) a pokles porodnosti −30 % — opakování beze změny, doplněn zdroj — [covid-vakciny.md](covid-vakciny.md). (5) Kauza bitcoinu — jmenovitě kritizuje vyšetřovatele Mazánka a Dragouna (NCOZ/Olomouc) — [kauzy.md](kauzy.md). (6) 17. listopad 1989 jako inscenace StB/KGB — nový „důkaz" (klip Evy Farné) — [konspirace-ceskoslovensko.md](konspirace-ceskoslovensko.md). (7) Volby USA 2020 — Dominion — opakování beze změny — [konspirace.md](konspirace.md). (8) Borelióza jako biologická zbraň (senátor Bennet, RFK ml.) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: podjatost Ústavního soudu (23. 7. 2026) {#jindřich-rajchl--videoportál-podjatost-ústavního-soudu-23-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-23_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1476142700985277>
+- **Datum záznamu:** 2026-07-23
+- **Délka:** 00:01:40 | Zhlédnutí: 14 242
+- **Poznámka:** Zpracováno 1 téma: Petr Pavel jako „diletant nebo lhář" — lhůta pro námitku podjatosti dle §37 zákona o ÚS — [petr-pavel.md](petr-pavel.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
