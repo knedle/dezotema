@@ -49,6 +49,14 @@ Zítko věří v brzké zavedení Quantum Financial System (QFS), který ukonč�
 
 ---
 
+### „Solární záblesk" jako kosmický reset Matrixu, aktivace DNA a návrat ukradených peněz (Zítko, 25. 7. 2026)
+
+Zítko čte a plně přejímá dva sdílené texty (autorky Marta Scholler a další) popisující tzv. solární záblesk (solar flash) — cyklickou kosmickou událost srovnávanou s biblickým „koncem světa", která má na krátký okamžik přetížit „umělý firewall AI Matrixu" a umožnit lidstvu „probuzení". Klíčové prvky výkladu: krev jako „přijímací anténa" (proto prý byly covidové injekce cíleně zaměřeny na krev), srdce jako silnější rezonátor než mozek, aktivace „merkaby" (rotujícího světelného pole) a „G-jádra" (černé díry v hrudi), díky nimž tělo při záblesku neshoří, ale „transmutuje" do světelné podoby a projde „portálem" mimo simulaci. Součástí je i odkaz na plochou Zemi (slunce jako „lokální projektor" pod kopulí, ne vzdálená hvězda) a očekávané „tři dny temnoty" / globální výpadek proudu, během nichž má armádní „Aliance" spustit nouzový vysílací systém (EBS) a odhalit skrytou historii lidstva. Výsledkem má být dle textu spuštění Quantum Financial System (QFS) a vrácení „ukradených" peněz lidem (odkaz na rodný list jako burzovní cenný papír). Druhý čtený text rozvádí paralelní myšlenku, že „Matrix jsi ty sám" — tedy že skutečné vězení je vnitřní (strach, trauma, potřeba kontroly), nikoli vnější systém — a kritizuje konkurenční konspirační rámce („agenda 2030", antisemitské výklady typu „Chabad Lubavič a Sion") jako projev tohoto vnitřního naprogramování. Zítko na závěr znovu vyzývá diváky k aktivitě (hlasování v anketách o cenu za svobodu projevu a Křišťálovou lupu) jako praktickému vyjádření „zrychlování" kolektivního probuzení.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 7. 2026](_zdroje.md#pavel-zítko--videoportál-solární-záblesk-25-7-2026)
+
+---
+
 ### MedBeds: uniklý „standardní operační postup" a časový rámec civilního nasazení (Zítko, 30. 6. 2026)
 
 Zítko sdílí dokument od zdroje „Vesna Kurguz" (Srbsko), který popisuje MedBeds jako čtyřfázovou technologii: (1) diagnostický sken celého těla za 90 sekund (kvantové pole, DNA, telomery), (2) 45minutový „systematický detox" (extrakce těžkých kovů, rozpuštění kalcifikace šišinky způsobené fluoridem/glyfosátem/hliníkem), (3) 60–180minutová regenerace buněk (reaktivace telomerázy, mobilizace kmenových buněk), (4) „optimalizace DNA" — aktivace údajně potlačených řetězců 2–12 a kalibrace na frekvenci 528 Hz. Pořadí nasazení: nejprve děti zachráněné z podzemních tunelů, poté váleční veteráni, nakonec civilisté. Konkrétní časový rámec civilního nasazení: **4. čtvrtletí 2026 až 2. čtvrtletí 2027** (dokument datován „revize 7.4", autorizace květen 2025).

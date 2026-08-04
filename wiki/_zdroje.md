@@ -3300,3 +3300,12 @@
 - **Délka:** 01:13:06 | Zhlédnutí: 378
 - **Poznámka:** Zpracována 2 témata: (1) Obhajoba neplatnosti rozdělení ČSFR v reakci na diváckou debatu — opakování beze změny — [konspirace-ceskoslovensko.md](konspirace-ceskoslovensko.md). (2) QAnon „Central Casting" — Macron/Le Pen dvojníci, Prigožin jako test, nepodložená spekulace o Markétě Vaňkové — [konspirace.md](konspirace.md). Bez predikcí. Bez stoch. teroru (Vaňková spekulace nesplňuje kritéria — chybí dehumanizace/výzva k trestu).
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: Solární záblesk (25. 7. 2026) {#pavel-zítko--videoportál-solární-záblesk-25-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-25_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=2027889117862616&_rdr>
+- **Datum záznamu:** 2026-07-25 (vysíláno 23. 7. 2026, 20:50)
+- **Délka:** 00:49:08 | Zhlédnutí: 457
+- **Poznámka:** Zpracováno 1 téma: „Solární záblesk" — kosmický reset Matrixu, merkaba/G-jádro, QFS, plochá Země — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

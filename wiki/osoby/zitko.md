@@ -96,6 +96,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **21. 7.** — armádní informátor: chemtrails, morgelony a 5G jako nástroj ovládnutí lidstva — [Videoportál: pozitivní zprávy 21. 7.](../_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)
 - **23. 7.** — 17. listopad 1989 jako inscenace StB/KGB (agent Zifčák) — nový „důkaz": videoklip Evy Farné s ukrytým „agentem Šmídem"; opakuje beze změny teorii zcinknutých voleb USA 2020 (Dominion) — [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 - **24. 7.** — obhajoba neplatnosti rozdělení ČSFR v diváckém sporu (beze změny); QAnon „Central Casting" — Macron/Le Pen jako test dvojníků, Prigožin jako test na odhalení zrádců; nepodložená spekulace o Markétě Vaňkové — [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)
+- **25. 7.** — „Solární záblesk" jako kosmický reset Matrixu — merkaba, G-jádro, aktivace DNA, tři dny temnoty, QFS a vrácení „ukradených" peněz — [Videoportál 25. 7.](../_zdroje.md#pavel-zítko--videoportál-solární-záblesk-25-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -295,3 +296,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Pfizergate a Uršula 11:11 (16. 7. 2026)](../_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
 - [Videoportál: Facebook blokace, kybernetická bezpečnost (23. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 - [Videoportál: Central Casting 11:11 (24. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)
+- [Videoportál: Solární záblesk (25. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-solární-záblesk-25-7-2026)
