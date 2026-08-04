@@ -684,11 +684,31 @@ Na okraj summitu ASEAN (kam Rusko ani USA formálně nepatří, obě byly jen p�
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
+**25. 7.** — Washington se po měsících neúspěchů znovu snaží obnovit trilaterální jednání (USA–Ukrajina–Rusko) ještě před zimou; Rubio se sešel s Lavrovem v Manile, souběžně telefonovali Zelenskyj s Witkoffem a Kushnerem. Vrabel poukazuje na absurdní rozpor ve výrocích Donalda Trumpa: poté, co Lavrov na jednání s Rubiem znovu zopakoval, že další americké dodávky zbraní Ukrajině jsou nepřijatelné, Trump na sociálních sítích napsal, že žádné zbraně Ukrajině nedodává — USA prý jen prodávají zbraně zemím NATO a EU, a co ty s nimi dále dělají, o tom „nemá tušení". Vrabel to označuje za do očí bijící lež vzhledem k veřejně známým faktům (Musk poskytuje Starlink, USA dodávají naváděcí data pro rakety). Očekává, že Rusko už nebude ochotné dál hrát roli v předstírané mírové hře, kterou hrálo rok po Anchorage. Doplňuje, že Zelenskyj plánuje, že Ukrajina bude do roku 2027 schopná nasadit drony s doletem až 1000 km (aktuálně mají obě strany drony s doletem kolem 3000 km) a buduje výrobní kapacity pro drony přímo ve Spojených státech; ukrajinská armáda navíc v červenci zřídila speciální jednotku pro koordinaci dálkových úderů na ruské území.
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026), [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
+---
+
+### Ukrajinský generál Drapatyj: „Rusko nemá právo na existenci" — Vrabel: čistý nacismus (25. 7. 2026)
+
+Moskva odsoudila výroky velitele ukrajinských pozemních sil Michaila Drapatého (dosazeného Volodymyrem Zelenským) z rozhovoru z roku 2023, který nyní zveřejnil kanál Ukrajiner na YouTube — Drapatyj v něm prohlásil, že Rusko coby národ „nemá právo na existenci", že se u něj po tisíce let civilizačně nic nezměnilo (mentalita ani „imperiální ambice"), a kriticky se vyjádřil i o obyvatelích Donbasu: označil je za osadníky a „kriminální živly" bez ukrajinského národního povědomí, závislé na sociálních dávkách bez ohledu na zemi pobytu. Mluvčí ruského MZV Marija Zacharovová i mluvčí Kremlu Peskov výroky označili za neonacistické — Peskov dodal, že tím Drapatyj fakticky potvrzuje smysl „speciální vojenské operace" (denacifikace Ukrajiny). Vrabel s hodnocením souhlasí bez výhrad: říkat, že ruský národ nemá právo na existenci, je podle něj čistý nacismus, a takový člověk podle něj patří do vězení, nikoli do velení ukrajinské armády — dodává, že tam se pravděpodobně brzy dostane, pokud „nezemře při té denacifikaci".
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
+---
+
+### Rusko odřízlo Ukrajinu od černomořských přístavů; USA chrání kazašskou ropu Chevronu (Vrabel, 25. 7. 2026)
+
+Vrabel upozorňuje na podle něj v médiích téměř nezmiňovanou zásadní změnu taktiky: Rusko posledních deset dní útočí na moldavské/černomořské přístavy a odřízlo Ukrajině přístup ke třem přístavům, čímž ji fakticky zbavilo přístupu k moři — tvrdý zásah do ukrajinské ekonomiky, protože export přes moře (především obilí) před válkou tvořil 19–20 % ukrajinského HDP. Zásadně to podle něj mění vnímání konfliktu, protože prý nezapadá do převažujícího mediálního rámce „Ukrajina vítězí". Souběžně USA vyzvaly Ukrajinu, aby přestala útočit na tankery přepravující kazašskou ropu v oblasti Novorossijsku v Černém moři — varování přišlo po stížnosti americké společnosti Chevron (15% podíl v konsorciu CPC) poté, co byl zasažen jí pronajatý tanker; Washington považuje kaspický ropovod za důležitou alternativu k ruským energetickým surovinám pro Evropu. Vrabel z rychlosti, s jakou Ukrajina na americkou žádost přestala na kazašskou ropu útočit, usuzuje, že je jasně vidět, „kdo tu válku řídí".
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
 ---
 
 ### Ukrajinské útoky na sklady Wildberries v Petrohradu — Vrabel: „40 dní terorismu" (24. 7. 2026)
 
-Ukrajina znovu zaútočila na sklady největšího ruského internetového prodejce Wildberries, tentokrát v Petrohradu a Leningradské oblasti — v logistických centrech v Šušarech a Utkином Zavodu vypukly rozsáhlé požáry, v dalším skladu v Novosaratovce byly hospitalizovány tři osoby, poškozen byl i sklad drůbežárny po útoku dronem; provoz obou center byl dočasně pozastaven. Vrabel útok označuje za teroristický a připomíná, že Volodymyr Zelenskyj vyhlásil (ne doslova, ale fakticky) „40 dní tlaku na Rusko" — čemuž Vrabel říká „40 dní terorismu". Ruská federace se s tím podle něj bude muset nějak vypořádat.
+Ukrajina znovu zaútočila na sklady největšího ruského internetového prodejce Wildberries, tentokrát v Petrohradu a Leningradské oblasti — v logistických centrech v Šušarech a Utkinově Závodu vypukly rozsáhlé požáry, v dalším skladu v Novosaratovce byly hospitalizovány tři osoby, poškozen byl i sklad drůbežárny po útoku dronem; provoz obou center byl dočasně pozastaven. Vrabel útok označuje za teroristický a připomíná, že Volodymyr Zelenskyj vyhlásil (ne doslova, ale fakticky) „40 dní tlaku na Rusko" — čemuž Vrabel říká „40 dní terorismu". Ruská federace se s tím podle něj bude muset nějak vypořádat.
 
 **Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 

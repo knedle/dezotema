@@ -647,3 +647,27 @@ Generální štáb polských ozbrojených sil pro případ vojenského konfliktu
 **Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 ---
+
+### USA čelí nedostatku munice kvůli Ukrajině a Íránu — Vrabel: „válčí, kde můžou" (25. 7. 2026)
+
+Americký senátor Mark Kelly upozornil na výrazný úbytek zásob munice a zbraňových systémů USA (Tomahawky, ATACMS, SM-3, Patriot) v důsledku zásobování Ukrajiny i konfliktu s Íránem — varoval, že v případě rozsáhlejšího konfliktu by USA mohly mít omezenou schopnost dlouhodobé obrany. Debata rovněž srovnává vojenské přístupy: zatímco Rusko a Írán sázejí na jednodušší a levnější zbraně vyráběné ve velkém, USA spoléhají na technologicky vyspělé, ale výrazně dražší systémy. Vrabel to komentuje sarkasticky — sám si nedostatek munice vysvětluje tím, že „kdyby Američané neničili Rusy, mohli by mít HIMARS, kdyby neničili Íránce, mohli by mít Patrioty, a kdyby nevyvraždili indiány, mohli by mít tomahawky" — tedy že nedostatek zbraní je přímým důsledkem vlastní politiky vedení válek na více frontách najednou.
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
+---
+
+### Rumunsko sestřelilo dron podruhé za 24 hodin; Lockheed Martin buduje radary proti dronům (Vrabel, 25. 7. 2026)
+
+Rumunská stíhačka F-16 sestřelila bezpilotní letoun, který ráno narušil vzdušný prostor země — do akce byly vyslány dva stíhací letouny, dron byl sestřelen přibližně 10 km západně od města Gorga. Jde už o druhý sestřelený dron nad Rumunskem během 24 hodin, přičemž oba incidenty se odehrály téměř identicky. Vrabel nabízí několik možných výkladů: může jít o ruský dron jako varování nebo test připravenosti, o provokaci vypuštěnou někým jiným než Ruskem, anebo o postupné vytváření záminky pro budoucí eskalaci („aby jednoho dne mohla jiskra zažehnout" a bylo možné tvrdit, že Rusko napadlo členskou zemi NATO). Zdůrazňuje ironii nákladů — ptá se, kolik stojí nasazení dvou stíhaček F-16 na jeden dron. V souvislosti s tím uvádí zprávu, že americká zbrojovka Lockheed Martin navázala spolupráci se dvěma rumunskými firmami na vývoji a testování radarů proti dronům přímo v Rumunsku — což zapadá do jeho opakované teze o postupném rozmisťování prvků protiraketové/protidronové obrany NATO ve východoevropských zemích, čímž se tyto země samy stávají potenciálním cílem ruské armády.
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
+---
+
+### Ukrajinské námořnictvo poprvé velí mnohonárodním silám NATO (Vrabel, 25. 7. 2026)
+
+Ukrajinské námořnictvo poprvé ve své novodobé historii získalo oprávnění velet mnohonárodním silám NATO při námořních protiminových operacích — stalo se tak během cvičení Sea Breeze 2026, kdy byla ukrajinská jednotka oficiálně začleněna do velitelského systému aliance; jde o historicky první případ, kdy NATO svěřilo ukrajinskému námořnictvu velení nad podřízenými mnohonárodnostními silami tohoto typu. Vrabel to dává do kontextu opakovaných výzev evropských představitelů, že by „byla škoda nevyužít" ukrajinské bojové zkušenosti při budování společné evropské armády — Ukrajina podle něj fakticky velí spojeným jednotkám NATO, aniž by byla formálním členem aliance (neplatí příspěvky, nemá povinnosti, jen čerpá). Připomíná, že Rusko v roce 2022 označilo členství Ukrajiny v NATO za „červenou linii" — dnes tam probíhá nejvíc vojenských cvičení NATO, jsou tam tajné pobočky CIA a Ukrajina fakticky NATO velí — z čehož usuzuje, že konflikt nemá žádné brzké řešení a vyzývá diváky, aby se na dlouhou eskalaci připravili.
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
+---

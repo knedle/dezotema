@@ -876,3 +876,11 @@ K informaci (Financial Times), že Zelenskyj zvažuje odvolání vrchního velit
 Proti Pavlovu tvrzení, že Ukrajina má „dva měsíce" do ruské eskalace, Rajchl předpovídá naopak zhroucení ukrajinské fronty. Odvolání populárního ministra obrany Michajla Fedorova (dle Rajchla vynucené USA) považuje za první „dominovou kostku" k pádu Zelenského — vyvolalo teprve druhé masové protesty za celou válku (první byly kvůli rušení protikorupčních agentur NABU/SAPO, za nimiž prý též stáli naštvaní Američané). Opakuje svou dlouhodobou tezi: válka skončí, až Rusko ovládne přes 90 % Doněcké oblasti (Konstantinivka už fakticky padla, chystá se ofenziva na Sloviansk, Kramatorsk, obležen Kupjansk) — pak Putin s Trumpem uzavřou dohodu (Rusko vymění zbytek Doněcka za část Charkovské oblasti, aby Trump „dostal něco"), Zelenskyj bude vyměněn za v Londýně připraveného Zalužného („výměna jedné loutky za druhou") a přijde mír. Zdůrazňuje, že čím déle válka trvá, tím horší podmínky pro Ukrajinu (analogie s minskými dohodami a jednáními 2022) — vinu za devastaci Ukrajiny přičítá „válečným štváčům" včetně „pětky" české opozice. Viz [Predikce](predikce.md).
 
 **Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### EU umožní prodej nákladu ze zadržených lodí „ruské stínové flotily" — Vrabel: banditismus (25. 7. 2026)
+
+V rámci 21. sankčního balíčku proti Rusku Evropská unie umožní členským státům prodat náklad z lodí spojených s tzv. ruskou stínovou flotilou, které byly zadrženy při námořních kontrolách — dosud mohly být lodě jen zadrženy, nyní je možné zabavené zboží (nejen ropu, ale i obilí a další ruské produkty) přímo prodat. Cílem je dál omezit fungování stínové flotily, kterou Rusko využívá k obcházení sankcí. Vrabel to označuje za „klasický banditismus" a srovnává s postupem Donalda Trumpa vůči Venezuele (zajetí prezidenta s manželkou, uvěznění, ukradení venezuelské ropy) — EU si podle něj vzala z tohoto přístupu příklad a nyní krade a prodává ruskou ropu a obilí na moři stejným způsobem. Varuje, že podobné jednání bude mít následky („karma, zákon příčiny a následku"), které Evropskou unii bolestně dostihnou.
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)

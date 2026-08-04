@@ -338,7 +338,9 @@ Vrabel komentuje uzavření dvou historických německých pivovarů (Eichbaum p
 
 Vrabel popisuje jako „klasiku, kterou připomínáme každý týden": na začátku týdne se rozběhne válečná rétorika kolem Hormuzského průlivu a v pátek Donald Trump ohlásí, že je průliv „otevřen" (kvůli časovému posunu zpráva k nám přichází později). Podle Vrabela to slouží k tomu, aby velcí obchodníci („verlibáři") uzavřeli sázky na pokles ceny ropy, Trump oznámení načasuje, trhy okamžitě zareagují snížením ceny a spekulanti „zkásnou peníze". Jako doklad uvádí prudký propad provozu Hormuzem (15 lodí 15. 7., 8 lodí 16. 7. — a to jen čínské lodě plující iránskými výsostnými vodami dle obchodní dohody). Trump prý na manipulaci akciových trhů vydělává „stovky miliard"; Vrabel míní, že by za to měl „sedět" a měl by mu (i zčásti rodině) být zabaven majetek (viz [stochasticky-teror.md](stochasticky-teror.md)).
 
-**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+**25. 7.** — Vrabel opravuje mediální rámování zdražení pohonných hmot v ČR (ceny už přes týden „určuje volný trh"): není to trh, ale přímý důsledek Trumpova uzavření Hormuzského i Báb al-Mandabského průlivu. Doplňuje ekonomický detail: dočasné vládní snížení spotřební daně z pohonných hmot (jedno z opatření reagujících na zdražování) stálo státní rozpočet asi 3,5 miliardy Kč — částku dává do souvislosti se zbrojními výdaji vlády (prodej letiště, budov aj., viz [Letňany](kauzy.md)). Vyzývá diváky, ať při tankování nenadávají trhu, ale vládě (Babiš, Macinka) a Donaldu Trumpovi osobně.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026), [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
 
 ---
 

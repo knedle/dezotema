@@ -406,6 +406,7 @@
 - **18. 7.** — ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace; ČR podporuje čečenskou exilovou vládu (Ičkerie); Zelenský otevírá archivy k Volyni (smír s Polskem); EU–Ukrajina drony/„sladění standardů" (válku vede EU); odvolání Syrského + Bundestag o Fedorovovi („Německo velí Ukrajincům") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **23. 7.** — ASEAN: Rubio–Lavrov, Rusko diplomaticky „vyhrálo", další vyzbrojování Ukrajiny „neakceptovatelné"; doplnění kauzy čečenské exilové vlády (Zakajev videohovorem, srovnání s podporou syrského prezidenta/Izraele/Venezuely/Íránu); polská armáda čeká invazi po 2027, Poláci „mentálně už ve válce" — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)
 - **24. 7.** — plán „3+2" z Anchorage padl, Rusko rozšíří okupaci Ukrajiny jako „nárazníkovou zónu"; ukrajinské útoky na sklady Wildberries; Bulharsko schválilo americká tankovací letadla (Íránská hrozba odvety); potvrzena smrt Lindseyho Grahama, spekulace o vraždě; rozsudek Kratochvíl/Šádler (Vojáci v záloze za mír) — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)
+- **25. 7.** — Trumpův rozpor o dodávkách zbraní Ukrajině, drony 1000 km do 2027; gen. Drapatyj „Rusko nemá právo na existenci" (čistý nacismus); Rusko odřízlo Ukrajinu od přístavů, USA chrání kazašskou ropu Chevronu; ukrajinské námořnictvo poprvé velí NATO; Rumunsko sestřelilo dron podruhé; USA nedostatek munice; EU umožní prodej nákladu ze zadržených ruských lodí; koalice USA/UK na ochranu Hormuzu, húsíjský útok na Saudi Aramco, US Senát odmítl omezit Trumpa vůči Íránu — [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [blizky-vychod.md](../blizky-vychod.md)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -421,6 +422,7 @@
 - Kauza Foldina — obhajoba poslance SPD obviněného z domácího násilí, teze o mediálním lynči (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Okamura v Číně — obdiv k automobilkám + případ zadrženého Čecha, spekulace o vazbě na Michala Strnada — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **24. 7.** — čínské sankce na Tatru Trucks jako důsledek Okamurovy cesty; Babišův plán vládní čtvrti v Letňanech, spekulace o prodeji budov — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+- **25. 7.** — odchod šéfa BIS Koudelky — dvojitý agent CIA; kauzy COVID/Vrbětice/Ricin nikdy nebudou vyšetřeny — [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
 
 ### [Blízký východ](../blizky-vychod.md)
 - Larry Johnson zesměšňuje plán útoku na Kharg Island — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -430,6 +432,7 @@
 - Noční údery USA na Írán, íránské odvety na Záliv, cestovní varování — jeďte raději do Srbska — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - Húsíové zaútočili na tankery v Báb al-Mandabu, ropa Brent nad 100 $ poprvé od května — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **24. 7.** — doplnění: v Báb al-Mandabu operuje vlastní vojenská mise EU (tři fregaty), politicky řízená Kajou Callas — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+- **25. 7.** — húsíjský útok na ropná zařízení Saudi Aramco; koalice USA/UK na ochranu Hormuzu; US Senát odmítl omezit Trumpovy pravomoci vůči Íránu — [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
 
 ### [Konspirace](../konspirace.md)
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -455,6 +458,7 @@
 - Šanghajská AI dohoda (Rusko/Čína/27 zemí); Trump zakázal model OpenAI; rizika AGI — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Hormuzský průliv každý pátek — Trump prý manipuluje trh s ropou (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - **24. 7.** — USA zavedly nová cla 10–12,5 % na 60 zemí; Kallas: EU se to netýká, ale EU dohoda už dává 15 %; Merz obviňuje Čínu z nekalé konkurence, Vrabel: Německo si za to může samo — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+- **25. 7.** — ceny benzínu — viníkem Trump (uzavření průlivů), ne trh; snížení spotřební daně stálo 3,5 mld. Kč — [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
 - EU akční plán elektrifikace (2× elektřiny, konec fosilů, chytré elektroměry, „prát v noci") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - Francie stáhla zlaté rezervy z Fedu (napětí Trump–Macron) — zatím bez komentáře — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - Rekordní státní dluh ČR (342 tis./obyvatel), rozprodej republiky, řecký scénář MMF — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) → [suverenita-eu.md](../suverenita-eu.md)
@@ -471,6 +475,7 @@
 - Vučič + British Steel — „konec volného trhu", Vučič „nejlepší politik na světě" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - **23. 7.** — Babiš/Havlíček v Bělehradu přesvědčovali Srbsko o vstupu do EU místo aby se učili suverenitě od Vučiče; zasypání posledního černouhelného dolu ČSM Karviná jako likvidace národního bohatství kvůli EU/Green Dealu — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **24. 7.** — ČR dodá Černé Hoře zbraně za 24,2 mil. eur (na rozdíl od Srbska Černá Hora do EU sama chce); vláda prosazuje globalistické zájmy tvrději, než sliboval Babiš v kampani — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+- **25. 7.** — rozhovor Vučiče: eskalace po ruských volbách koncem září, Putin použije jaderné zbraně; americká cla na Srbsko 0 % vs. 15 % pro ČR/EU — [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
 - Zpráva EK o právním státu: kritika ČR (média/střet zájmů), pochvala Maďarska — ČR jako „protektorát" — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Emisní povolenky po 2030 + rozhodování kvalifikovanou většinou = konec veta, federalizace EU — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - EU vs. MOV — absurdní byrokracie kvůli ruským sportovcům na OH 2028 — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
@@ -831,6 +836,9 @@
 | Friedrich Merz | ❌ negativní | Obviňuje Čínu z nekalé konkurence kvůli krizi VW — Vrabel: Německo si za to může samo odstřižením od ruských energií | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
 | Rumen Radev | ⚖️ rozporuplný | Bulharský prezident schválil americká tankovací letadla na základně Bezmer — potvrzuje Vrabelovu dřívější skepsi vůči jeho „proruskému" obratu | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
 | Lindsey Graham | ○ neutrální | Potvrzena smrt — Zelenskyj jede na pohřeb; Vrabel pochybuje o oficiální příčině a zmiňuje spekulace o vraždě (Írán/Rusko/Izrael) | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
+| Michal Koudelka | ⚖️ rozporuplný | Odcházející šéf BIS — dle Vrabela pravděpodobně dvojitý agent CIA; kritizován i Janem Schneiderem za úniky v kauzách Vrbětice/Ricin | 2026-07-25 | [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026) |
+| Michailo Drapatyj | ❌ negativní | Velitel ukrajinských pozemních sil — výrok „Rusko nemá právo na existenci" a o Donbasu jako „kriminálních živlech" — Vrabel: čistý nacismus | 2026-07-25 | [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Rozhovor pro švýcarskou TV — očekává eskalaci po ruských volbách, Putin použije jaderné zbraně; vyjednal 0% cla s USA | 2026-07-25 | [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026) |
 
 ---
 
@@ -922,3 +930,4 @@
 - [Zprávy v devět (18. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - [Zprávy v devět (23. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - [Zprávy v devět (24. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+- [Zprávy v devět (25. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
