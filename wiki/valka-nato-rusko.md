@@ -591,7 +591,9 @@ Vrabel referuje o nepotvrzené zprávě, že senátor Lindsey Graham (kterého d
 
 **15. 7.** — Vrabel k návrhu dodává srovnání: citoval zahraniční komentátor ho označil za „Joea Bidena 2.0 v podobě Donalda Trumpa" — 500% cla na obchodní partnery Ruska jsou podle Vrabela v důsledku horší než cokoliv, co prosazoval Biden. Poznamenává, že ČR se navzdory iluzi „lepší vlády" posunula na ruském seznamu nepřátelských zemí z desátého na páté místo.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
+**24. 7.** — Vrabel potvrzuje, že zpráva o Grahamově smrti byla pravdivá: ukrajinská veřejnoprávní stanice Suspilne informovala, že Volodymyr Zelenskyj 28. 7. odcestuje do USA na jeho pohřeb (pozvánku od organizátorů obdržel přímo). Sdílí video Alexandra Dugina, který Grahamovy výroky za poslední roky (jako jednoho z nejagresivnějších podporovatelů „agrese Západu proti Rusku") označuje za natolik extrémní, že přirovnání k nacismu je „slabé". Vyjadřuje pochybnost o oficiální příčině smrti („krátká nemoc") vzhledem k tomu, že Graham byl ještě dva dny předtím zdravě v Kyjevě s dronem po boku Zelenského — a shrnuje kolující spekulace, že za smrtí mohli stát Íránci, Rusové nebo Izraelci, aniž se sám přiklání ke konkrétní verzi.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ---
 
@@ -683,7 +685,9 @@ Andrej Babiš zveřejnil tříminutové video z jednání „koalice ochotných"
 
 Bulharský prezident Rumen Radev oznámil, že Bulharsko se nepřipojí ke „koalici ochotných". Navazuje na dřívější Vrabelovo hodnocení Radeva jako politika kontrolovaného oligarchy — Vrabel je vůči němu skeptický a předpovídá, že pokud bude příliš dlouho vzdorovat, čeká ho stejný osud jako Orbána: postupné odstavení podobnými metodami.
 
-**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+**24. 7.** — Vrabelova skepse se potvrzuje: bulharský parlament schválil dočasné rozmístění až 8 amerických tankovacích letounů KC-135 a 250 vojáků na základně Bezmer (24. 7. – 1. 10.); NATO (mluvčí plukovník Martin O'Donnell) přislíbilo Bulharsko bránit v případě íránské odvety, premiér Radev zdůraznil, že letouny budou sloužit jen k logistice, ne k bojovým operacím. Írán už předtím Bulharsko varoval před zapojením do americké vojenské kampaně. Vrabel to čte jako přesné zopakování vzorce, který popsal u Radeva už dřív (i u vlastního trestního stíhání za výrok z roku 2022, že se ČR stává terčem pro Rusko) — s tím rozdílem, že zatímco kritika vůči Rusku ho stála žalobu, u Íránu jde vše mnohem rychleji: Írán rovnou prohlásil, že poskytnutí letiště Američanům dělá z Bulharska legitimní cíl odvety. Předjímá, že se tak Evropě otevírá druhé, „íránské" válečné křídlo vedle ruského — obklíčena z obou stran.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ---
 

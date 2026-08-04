@@ -121,7 +121,9 @@ V komentáři Vrabel propojuje několik zpráv do téze o blížící se válce 
 - **Cvičení u Suvalského koridoru** (Litva/Polsko/Německo/Francie, 16.–26. 6., ~10 000 vojáků, 600 ks techniky) u Kaliningradu označuje za cílenou provokaci a eskalaci („nedávejte sirky zpátky do krabičky"). Válku čeká „na spadnutí", oficiálně se mluví o roce 2029.
 - **Dvojí metr u Ukrajiny:** bojovat za Ukrajinu je povoleno (financujeme to — 90mld balíček, 30 % na chod státu, 60 % na zbraně; voják bere ~140 000 Kč/měs.), zatímco Ivan Kratochvíl a českoslovenští vojáci v záloze jsou stíháni za podporu ruských separatistů (soud 24. 7., hrozí 10 let). Ukrajina je v bankrotu a chce dalších 20 mld. dolarů.
 
-**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+**24. 7.** — Městský soud v Praze v kauze spolku Českoslovenští vojáci v záloze za mír rozhodl: Ivan Kratochvíl dostal roční podmíněný trest a pětiletý zákaz organizování spolků zaměřených na vojenský/polovojenský výcvik; Vladimír Šádler dostal podmíněný trest za nezákonné ozbrojování; ostatní obžalovaní i spolek byli obžaloby zproštěni, obvinění z podpory terorismu se nepotvrdilo. Státní zástupce se na místě odvolal. Vrabel to hodnotí jako „velmi dobrou zprávu" — sám čelil obdobnému obvinění (hrozilo mu 8 let) za „zaškrtnutou kolonku v žádosti" a případ nakonec padl — a srovnává s Tomášem Čermákem, odsouzeným na 5,5 roku za terorismus kvůli hyperbolickým výrokům na internetu („to je naprostá brutalita, co se mu stalo... stát se mu bude muset jednou omluvit a rehabilitovat ho").
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ---
 

@@ -227,6 +227,14 @@ Rajchl pozval na navazující seminář **8. 6. 2026 v PS (10:00)** s Hynkem Ber
 
 ---
 
+### ČR nemá od EU žádnou povinnost větrníky stavět — jen dobrovolný závazek 30 % OZE (Vrabel, 24. 7. 2026)
+
+Ministerstvo pro místní rozvoj po více než 15 tisících připomínkách zúžilo návrh akceleračních zón ze 110 na 61 lokalit, materiál chce předložit vládě do konce července — samotné zařazení do zóny přitom automaticky neznamená povolení ani výstavbu turbíny. Vrabel si k tématu dohledal detailnější informace a byl „docela překvapený": akcelerační zóny jsou nástrojem, jak vyhovět dobrovolnému závazku vlády Petra Fialy z roku 2024, že ČR dosáhne přibližně 30 % podílu obnovitelných zdrojů (na cestě k unijnímu cíli 50 % do 2030) — navazuje na 40% podíl „zelené tranzice" v Národním plánu obnovy (fond na obnovu ekonomiky po covidu, od 192 mld. Kč navyšovaný o desítky miliard). Klíčové zjištění: Evropská unie ČR nikterak nenařizuje konkrétní počet turbín ani konkrétní rozsah akceleračních zón — to je čistě dobrovolné rozhodnutí české vlády, jak svůj vlastní závazek naplnit. Vláda by se tedy podle Vrabela mohla rozhodnout žádné větrníky nestavět a ani samotných 30 % obnovitelných zdrojů dodržet nemusí, protože si energetickou koncepci může nastavit jinak — dosud se ale k odstoupení od záměru nijak nevyjádřila (jen Filip Turek si stěžuje na odpor veřejnosti a zmenšení zón). Spojuje to s předchozí zprávou o zatápění a zasypávání uhelných dolů kamenem jako pokračováním téže dobrovolné politiky, kterou začala vláda Andreje Babiše, pokračovala vláda Petra Fialy a nyní v ní pokračuje současná vláda.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+---
+
 ## Kulturní a občanský odpor
 
 ### Píseň „Moravo, nenechci zničit svůj domov" — Boldy (3. 6. 2026)

@@ -3273,3 +3273,12 @@
 - **Délka:** 00:04:20 | Zhlédnutí: 151 536
 - **Poznámka:** Zpracováno 1 téma: STAN investoval státní kompenzaci za kampaň do fondu Elevation přes dceřinou společnost (analýza T. Pauknera) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (24. 7. 2026) {#ladislav-vrabel--zprávy-v-devět-24-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-24_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2052716071996798>
+- **Datum záznamu:** 2026-07-24
+- **Délka:** 01:01:36
+- **Poznámka:** Zpracováno 14 témat: (1) ČR dodá Černé Hoře zbraně, kontrast se Srbskem — [suverenita-eu.md](suverenita-eu.md). (2) Okamura v Číně, čínské sankce na Tatru — [kauzy.md](kauzy.md). (3) Akcelerační zóny — ČR nemá od EU povinnost stavět větrníky — [vetrniky.md](vetrniky.md). (4) Babišův plán vládní čtvrti Letňany — [kauzy.md](kauzy.md). (5) Rozsudek Kratochvíl/Šádler (Vojáci v záloze za mír) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (6) Nová americká cla 10–15 % — [ceny-energie.md](ceny-energie.md). (7) EU ruší ochranu ukrajinským mužům 18–65 let — [migrace.md](migrace.md). (8) Ukrajinské útoky na Wildberries — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (9) Rubio–Lavrov: plán „3+2" padl, Rusko rozšíří okupaci — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (10) Bulharsko a americká tankovací letadla — [valka-nato-rusko.md](valka-nato-rusko.md). (11) Bab al-Mandab — vojenská mise EU — [blizky-vychod.md](blizky-vychod.md). (12) Merz obviňuje Čínu z nekalé konkurence — [ceny-energie.md](ceny-energie.md). (13) Google/Big Tech jako americký armádní projekt, pokračování — [digitalni-kontrola.md](digitalni-kontrola.md). (14) Potvrzena smrt Lindseyho Grahama, spekulace o vraždě — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

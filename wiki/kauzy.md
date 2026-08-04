@@ -702,10 +702,20 @@ Adam Šejna (Restart Česko) připomíná výrok Báry Štěpánkové z roku 201
 
 ---
 
-## Okamura v Číně: obdiv k automobilkám a případ zadrženého Čecha (Vrabel, 23. 7. 2026)
+## Okamura v Číně: obdiv k automobilkám a případ zadrženého Čecha (Vrabel, 23.–24. 7. 2026)
 
 Předseda Poslanecké sněmovny Tomio Okamura při návštěvě čínského showroomu automobilky Zeekr vyjádřil obdiv k rychlému rozvoji čínského automobilového průmyslu a uvedl, že Evropa v automobilovém závodě ztrácí pozici. Vrabel s tímto konkrétním hodnocením souhlasí (srovnává výkon/cenu čínských elektromobilů s Mercedesem) a používá ho jako doklad své dlouhodobé teze o technologickém náskoku Číny (infrastruktura sledovaná umělou inteligencí, rychlovlaky) oproti „100 let pozadu" zaostávající Evropě.
 
 Zásadní část cesty ale podle Vrabela nebyla o automobilech: česká delegace vedená Okamurou zároveň jednala s čínskými nejvyššími představiteli (Čao Le-ťi, Wang Chu-ning) o případu zadrženého českého občana vyšetřovaného pro podezření z ohrožení státní bezpečnosti Číny — věc řeší i ministr zahraničí Petr Macinka a šéf tajných služeb. Z rozsahu nasazení (předseda sněmovny osobně, celá delegace, koordinace s vládou) Vrabel usuzuje, že nejde o běžného občana, ale o vlivnou osobu z vysokého byznysu — a spekuluje, s odkazem na to, že se za zadrženého do sněmovny osobně zajel přimluvit Michal Strnad, že jde o člověka pracujícího pro Strnadovu firmu. Obchod s Čínou jako takový Vrabel odmítá jako reálnou možnost („zakáže nám to Evropská unie" — přirovnává ČR k „protektorátu" EU, viz [Zasypání dolu ČSM](suverenita-eu.md#zasypání-posledního-černouhelného-dolu-čsm-v-karviné-jako-likvidace-suverenity-vrabel-23-7-2026)).
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+**24. 7.** — Čína v reakci na sankce EU vůči Rusku přidala na svůj exportní sankční seznam dalších 14 subjektů z EU, mezi nimi českou firmu Tatra Trucks (vojenské/speciální nákladní automobily) — Čína jí s okamžitou platností přestane dodávat zboží dvojího užití. Mluvčí Tatry uvedl, že to na firmu nebude mít prakticky žádný dopad, protože ČR s Čínou téměř neobchoduje. Vrabel z toho vyvozuje, že Okamurova cesta reálný obchod s Čínou nezajistí — česká zahraniční politika je fakticky politikou EU, a EU vede vůči Rusku sankční politiku, jejímž vedlejším důsledkem jsou i čínské protisankce vůči ČR. Kritizuje, že voliči vlastenecké politiky sázeli na SPD/Okamuru jako na sílu, která povede k vystoupení z EU — předvolební téma „vystoupení z EU" ale strana po volbách opustila stejně jako ostatní, a dnes je pro většinu veřejnosti „mimo téma". Srovnává to s vlastním pozorováním, že se „vlastenecký odpor" (domobrana, demonstrace) rozpadá, zatímco ČR se v zahraniční politice vůči Rusku i Číně drží ještě tvrději při USA/EU než za vlády Petra Fialy — připomíná, že ČR pod Babišem poskočila z 10. na 5. místo na ruském seznamu nepřátelských zemí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+---
+
+## Babišův plán vládní čtvrti v Letňanech — spekulace o prodeji budov (Vrabel, 24. 7. 2026)
+
+Premiér Andrej Babiš chce obnovit plán na výstavbu vládní čtvrti v pražských Letňanech (místo dříve zamýšlené nemocnice) — administrativní komplex pro cca 10 000 státních zaměstnanců, který by nahradil část ministerstev sídlících v centru Prahy. Projekt naráží na blízkost vojenského letiště Praha-Kbely (rostoucí význam pro armádu ČR i NATO) a vyžadoval by souhlas pražského magistrátu. Vrabel připomíná, že Babiš se stejným plánem přišel už v minulém volebním období, a spekuluje, že motivací je snaha získat peníze na zbrojení (viz zakázky pro Černou Horu a Chorvatsko) prodejem historických budov ministerstev v centru Prahy soukromým investorům — ty jsou dle něj udržované, v perfektním stavu a v cenné lokalitě, tedy potenciálně hodnotné v řádu miliard korun.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)

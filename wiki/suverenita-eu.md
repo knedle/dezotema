@@ -582,7 +582,9 @@ Vrabel pouští a chválí projev srbského prezidenta Aleksandara Vučiče, kte
 
 > „Aleksandar Vučič se nepřipojil ani k jedné sankci proti Ruské federaci [...] je prezidentem suverénní země Srbska. Jeho zvolili srbští občané a on nebude poslouchat příkazy ani z Evropské unie, ani z žádných jiných globalistických organizací." — Ladislav Vrabel, [Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026), [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+**24. 7.** — Vrabel doplňuje kontrastní příklad Černé Hory: ČR jí dodá zbraně a vojenský materiál za 24,2 milionu eur (~584 mil. Kč), dohodu oznámili premiéři Babiš a Milojko Spajić; prezident Pavel přijal černohorského premiéra a vyjádřil podporu vstupu Černé Hory do EU. Na rozdíl od Srbska se Černá Hora do EU sama těší a usiluje o vstup — Vrabel to komentuje ambivalentně (klientům radícím s nemovitostmi v Černé Hoře říká, že vstup zvýší ceny nemovitostí, ale i odliv lidí ze země). Zdůrazňuje, že jde o vůbec první zbrojní zakázku ČR se zemí NATO, a vyjadřuje překvapení, jak tvrdě dnešní vláda (přes předvolební billboardy „Česko na prvním místě") prosazuje globalistické zájmy EU/NATO — připomíná, že Babišovi kdysi psal SMS s výhradami ke stejné rétorice v kampani. Rozšiřuje o postřeh, že podobně cestuje i ministr zahraničí Petr Macinka (do Chorvatska „za naše peníze" přesvědčovat o navýšení zbrojení, s příslibem kontraktů od Michala Strnada přes kontakty v americkém Kongresu) i v Izraeli, kde vystupuje, „jako by rozhodoval za celý svět".
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026), [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ---
 

@@ -258,6 +258,7 @@
 
 - Turek (Motoristé sobě) jen zmenšil větrné zóny místo jejich zrušení — Vrabel preferuje jadernou energii a malé reaktory (Rolls-Royce); větrníky 60 kg nanočástic, vibrace, degradace půdy — [Večerní zprávy 15. 5.](../_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026)
 - Toxický odpad z německých turbín nelegálně vyvážen do ČR (případ Michael Rot, odhalila starostka Jiříkova), Turek instaluje 500 turbín, sklolaminát / „jed" do ovzduší — [Zprávy v devět 3. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
+- **24. 7.** — ČR nemá od EU žádnou povinnost větrníky stavět, jde o dobrovolný závazek vlády (30 % OZE, od Fialy 2024) — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 
@@ -404,6 +405,7 @@
 - **17. 7.** — Trump obviňuje Čínu z vměšování do voleb (USA prý 73× měnily vlády); Polsko „mobilizace bez mobilizace"; Řecko blokuje sankce + ruský AI-prank na poradce Dokose; ČR nepozvána do evropského protiraketového štítu („sleduj peníze") — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **18. 7.** — ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace; ČR podporuje čečenskou exilovou vládu (Ičkerie); Zelenský otevírá archivy k Volyni (smír s Polskem); EU–Ukrajina drony/„sladění standardů" (válku vede EU); odvolání Syrského + Bundestag o Fedorovovi („Německo velí Ukrajincům") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **23. 7.** — ASEAN: Rubio–Lavrov, Rusko diplomaticky „vyhrálo", další vyzbrojování Ukrajiny „neakceptovatelné"; doplnění kauzy čečenské exilové vlády (Zakajev videohovorem, srovnání s podporou syrského prezidenta/Izraele/Venezuely/Íránu); polská armáda čeká invazi po 2027, Poláci „mentálně už ve válce" — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)
+- **24. 7.** — plán „3+2" z Anchorage padl, Rusko rozšíří okupaci Ukrajiny jako „nárazníkovou zónu"; ukrajinské útoky na sklady Wildberries; Bulharsko schválilo americká tankovací letadla (Íránská hrozba odvety); potvrzena smrt Lindseyho Grahama, spekulace o vraždě; rozsudek Kratochvíl/Šádler (Vojáci v záloze za mír) — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -418,6 +420,7 @@
 - EET 2.0 — likvidace malého podnikání ve prospěch dotovaných velkých firem — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - Kauza Foldina — obhajoba poslance SPD obviněného z domácího násilí, teze o mediálním lynči (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Okamura v Číně — obdiv k automobilkám + případ zadrženého Čecha, spekulace o vazbě na Michala Strnada — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+- **24. 7.** — čínské sankce na Tatru Trucks jako důsledek Okamurovy cesty; Babišův plán vládní čtvrti v Letňanech, spekulace o prodeji budov — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ### [Blízký východ](../blizky-vychod.md)
 - Larry Johnson zesměšňuje plán útoku na Kharg Island — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -426,6 +429,7 @@
 - Írán označil Trumpovy nemovitosti na Blízkém východě za legitimní cíle odvety — Vrabel to obhajuje jako sebeobranu (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Noční údery USA na Írán, íránské odvety na Záliv, cestovní varování — jeďte raději do Srbska — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - Húsíové zaútočili na tankery v Báb al-Mandabu, ropa Brent nad 100 $ poprvé od května — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+- **24. 7.** — doplnění: v Báb al-Mandabu operuje vlastní vojenská mise EU (tři fregaty), politicky řízená Kajou Callas — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ### [Konspirace](../konspirace.md)
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -443,12 +447,14 @@
 - Nizozemsko: Iráčan (Jamal T.) osvobozen po usmrcení 14leté dívky — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Macinka „ČR nejbezpečnější díky absenci muslimů" — Vrabel oponuje (islám v ČR existuje) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - EU odmítla registrovat iniciativu Save Europe Act (remigrace); migrační pakt jako nevyhnutelnost — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+- **24. 7.** — EU zruší ochranu ukrajinským mužům 18–65 let — kritika jako nehumánní dvojí metr vůči ostatním uprchlíkům — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ### [Ceny energie a ekonomika](../ceny-energie.md)
 - Zánik německých pivovarů a propouštění ve VW jako signál automatizace; predikce plné AGI/nezaměstnanosti 2027–2028 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - AI/AGI do „příštího roku"; Agenda 2030 a „neúžiteční jedlíci" — [Facebook Live 15. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 - Šanghajská AI dohoda (Rusko/Čína/27 zemí); Trump zakázal model OpenAI; rizika AGI — [Facebook Live 16. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 - Hormuzský průliv každý pátek — Trump prý manipuluje trh s ropou (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+- **24. 7.** — USA zavedly nová cla 10–12,5 % na 60 zemí; Kallas: EU se to netýká, ale EU dohoda už dává 15 %; Merz obviňuje Čínu z nekalé konkurence, Vrabel: Německo si za to může samo — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 - EU akční plán elektrifikace (2× elektřiny, konec fosilů, chytré elektroměry, „prát v noci") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - Francie stáhla zlaté rezervy z Fedu (napětí Trump–Macron) — zatím bez komentáře — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - Rekordní státní dluh ČR (342 tis./obyvatel), rozprodej republiky, řecký scénář MMF — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026) → [suverenita-eu.md](../suverenita-eu.md)
@@ -464,6 +470,7 @@
 - Srbsko a EU jen předstírají zájem o vstup (65 % Srbů proti; nový zákon o legalizaci staveb) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Vučič + British Steel — „konec volného trhu", Vučič „nejlepší politik na světě" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - **23. 7.** — Babiš/Havlíček v Bělehradu přesvědčovali Srbsko o vstupu do EU místo aby se učili suverenitě od Vučiče; zasypání posledního černouhelného dolu ČSM Karviná jako likvidace národního bohatství kvůli EU/Green Dealu — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+- **24. 7.** — ČR dodá Černé Hoře zbraně za 24,2 mil. eur (na rozdíl od Srbska Černá Hora do EU sama chce); vláda prosazuje globalistické zájmy tvrději, než sliboval Babiš v kampani — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 - Zpráva EK o právním státu: kritika ČR (média/střet zájmů), pochvala Maďarska — ČR jako „protektorát" — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - Emisní povolenky po 2030 + rozhodování kvalifikovanou většinou = konec veta, federalizace EU — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - EU vs. MOV — absurdní byrokracie kvůli ruským sportovcům na OH 2028 — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
@@ -473,6 +480,7 @@
 - NATO/Palantir „Maven" — digitální dohled nad východním křídlem, Peter Thiel a technokracie — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - EU pravidla pro děti online jako předstupeň chat control a digitálního ID („totalitní systém s totální kontrolou") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - EU pokutovala Google (DMA) — Google jako americký armádní projekt, pokuta se dle Vrabela nezaplatí nebo se vrátí jinam — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+- **24. 7.** — spor USA–EU o digitální služby, hrozba vypnutí Google Maps; celý „Big Five" jako americké armádní projekty (i Muskův Starlink pro Ukrajinu) — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ---
 
@@ -818,6 +826,11 @@
 | Tomio Okamura | ⚖️ rozporuplný | V Číně chválil čínské automobilky (Vrabel souhlasí) a osobně jednal o zadrženém Čechovi — podezření na vazbu na Strnada | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
 | Michal Strnad | ⚖️ rozporuplný | Zadržený Čech v Číně dle Vrabelovy spekulace pracuje pro jeho firmu — vysvětluje mimořádné diplomatické nasazení | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
 | Achmed Zakajev | ○ neutrální | Předseda exilové vlády Čečenské republiky Ičkerie (Londýn) — připojil se k pražskému jednání videohovorem | 2026-07-23 | [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026) |
+| Andrej Babiš | ❌ negativní | ČR dodá Černé Hoře zbraně za 24,2 mil. eur — vláda tvrději prosazuje globalistické zájmy EU/NATO, než sliboval v kampani | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
+| Ivan Kratochvíl | ✅ pozitivní | Soud mu vyměřil jen podmíněný trest (ne hrozících 10 let) v kauze Vojáci v záloze za mír — Vrabel to vítá jako spravedlivý výsledek | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
+| Friedrich Merz | ❌ negativní | Obviňuje Čínu z nekalé konkurence kvůli krizi VW — Vrabel: Německo si za to může samo odstřižením od ruských energií | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
+| Rumen Radev | ⚖️ rozporuplný | Bulharský prezident schválil americká tankovací letadla na základně Bezmer — potvrzuje Vrabelovu dřívější skepsi vůči jeho „proruskému" obratu | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
+| Lindsey Graham | ○ neutrální | Potvrzena smrt — Zelenskyj jede na pohřeb; Vrabel pochybuje o oficiální příčině a zmiňuje spekulace o vraždě (Írán/Rusko/Izrael) | 2026-07-24 | [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026) |
 
 ---
 
@@ -908,3 +921,4 @@
 - [Zprávy v devět (17. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - [Zprávy v devět (18. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - [Zprávy v devět (23. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+- [Zprávy v devět (24. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)

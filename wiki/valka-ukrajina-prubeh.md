@@ -680,6 +680,16 @@ Na okraj summitu ASEAN (kam Rusko ani USA formálně nepatří, obě byly jen p�
 
 > „Rusové jsou připraveni diplomatickému řešení konfliktu, ale pouze za ruských podmínek, ne za podmínek Ukrajiny." — Ladislav Vrabel, [Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+**24. 7.** — Vrabel dovysvětluje kontext jednání: rok předtím v Anchorage (po dlouhých přípravných schůzkách Jareda Kushnera a Steva Witkoffa, „realitních makléřů" bez politického mandátu, pověřených přímo Trumpem) přišly USA s tajným mírovým plánem přezdívaným „3 plus 2" — Rusko by okupovalo a formálně převzalo pouze Doněck, Luhansk a Krym („3"), plus Záporožskou a Chersonskou oblast („2"), a dál by nepostupovalo. Rusko dle svých vlastních prohlášení (Lavrov) svůj díl dohody plnilo a rok čekalo na plnění ze strany USA; teprve na ASEANu Rubio poprvé přiznal, že žádná písemná dohoda nikdy neexistovala a že plán padá, protože Ukrajina podmínky odmítá přijmout. Mluvčí Kremlu Dmitrij Peskov v reakci uvedl, že Rusko v důsledku pádu plánu přehodnocuje svůj postup — už se neomezí jen na Donbas a Krym, ale bude dále okupovat ukrajinské území jako „nárazníkovou zónu", kamkoli „vstoupí noha ruského vojáka". Vrabel to označuje za zásadní obrat, kterého si dosud nikdo v médiích nevšiml.
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+---
+
+### Ukrajinské útoky na sklady Wildberries v Petrohradu — Vrabel: „40 dní terorismu" (24. 7. 2026)
+
+Ukrajina znovu zaútočila na sklady největšího ruského internetového prodejce Wildberries, tentokrát v Petrohradu a Leningradské oblasti — v logistických centrech v Šušarech a Utkином Zavodu vypukly rozsáhlé požáry, v dalším skladu v Novosaratovce byly hospitalizovány tři osoby, poškozen byl i sklad drůbežárny po útoku dronem; provoz obou center byl dočasně pozastaven. Vrabel útok označuje za teroristický a připomíná, že Volodymyr Zelenskyj vyhlásil (ne doslova, ale fakticky) „40 dní tlaku na Rusko" — čemuž Vrabel říká „40 dní terorismu". Ruská federace se s tím podle něj bude muset nějak vypořádat.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ---

@@ -404,6 +404,16 @@ Evropská komise odmítla zaregistrovat Evropskou občanskou iniciativu Save Eur
 
 ---
 
+### Členské státy EU zruší ochranu ukrajinským mužům v bojeschopném věku — Vrabel: nehumánní dvojí metr (24. 7. 2026)
+
+Členské státy EU se shodly, že nově příchozím ukrajinským mužům v bojeschopném věku (23–60 let) už nebude udělována ochrana — podle českého ministerstva vnitra by to mělo snížit tlak na dlouhodobě vytížené kapacity pro přijímání uprchlíků; muži 18–65 let tvoří přibližně polovinu nově příchozích z Ukrajiny, přesný počet mužů v odvodovém věku ministerstvo ani nesleduje. Vrabel rozhodnutí ostře odsuzuje jako „naprosto nehumánní" a v přímém rozporu s Ženevskými konvencemi a mezinárodním právem na ochranu před válkou: tito muži budou vráceni zpět na Ukrajinu, kde je Teritoriální obranné síly (TCK) narukují na frontu, kde pravděpodobně zemřou. Staví do kontrastu, jak snadno získávají ochranu v EU lidé přicházející ze zemí bez aktuální války (Sýrie, Afghánistán, Eritrea, africké státy) — stačí tvrzení o původu bez dokladů — zatímco lidé prchající ze skutečné probíhající války na Ukrajině mají být násilně vraceni zpět. Zdůrazňuje, že nejde o obranu lidí páchajících trestnou činnost nebo aktivně podporujících válku („sláva Ukrajině" — takové rád pošle bojovat), ale o muže, kteří se chtějí jen vyhnout účasti ve válce, mají rodiny a nechtějí bojovat — jejich násilné odeslání zpět označuje za „zločin proti lidskosti". Připomíná, že stejný osud čeká Čechy, pokud by válka přišla i do ČR (a uprchlíci ze Srbska).
+
+> „Jestli někdo utíká z Ukrajiny, protože nechce být součástí té války, tak ho zákonem vzít a násilně ho odvést na Ukrajinu je zločin proti lidskosti." — Ladislav Vrabel, [Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+---
+
 ### Nizozemsko: Iráčan osvobozen po usmrcení 14leté dívky (Vrabel, 17. 7. 2026)
 
 Vrabel komentuje nizozemský rozsudek: 33letý irácký žadatel o azyl Jamal T. byl zproštěn obžaloby z nedbalostního usmrcení a útěku z místa nehody poté, co při řízení (údajně sledoval mobil) srazil a usmrtil 14letou dívku — soud dospěl k závěru, že si podle důkazů neuvědomil, že dívku srazil. Vrabel rozsudek uvádí jako příklad selhání justice vůči migrantům („jeden Jamal, který tam vůbec nemá co dělat, zabije holku a oni ho propustí") a předpovídá, že totéž čeká ČR kvůli migračnímu paktu.

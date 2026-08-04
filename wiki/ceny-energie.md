@@ -358,6 +358,22 @@ Vrabel zmiňuje jako „docela tvrdou" a „zásadní" zprávu, že Francie kvů
 
 ---
 
+### USA zavedly nová cla 10–12,5 % na 60 zemí; Kallas: „EU se to netýká", ale už máme 15 % (Vrabel, 24. 7. 2026)
+
+Spojené státy v pátek zavedly nová cla ve výši 10–12,5 % na zboží od 60 obchodních partnerů (včetně EU a Číny) s odůvodněním, že tyto země dostatečně neomezily dovoz zboží od nucené pracovní síly — krok následoval poté, co vypršela platnost dočasného globálního 10% cla poté, co Nejvyšší soud USA v únoru zrušil Trumpovo plošné reciproční clo 10–50 % vydané na základě Zákona o národních nouzových situacích. Evropská komisařka pro zahraniční věci Kaja Kallas k tomu uvedla, že se to EU netýká, protože již má s USA vlastní obchodní dohodu. Vrabel to komentuje jako „komedii nevídanou": ona samostatná dohoda, kterou vyjednala Ursula von der Leyen, totiž znamená clo ve výši 15 % — vyšší než nově zavedené clo pro ostatní partnery, které mělo EU teprve postihnout. Navazuje na svou opakovanou kritiku „diverzifikace" od ruských energií výměnou za dražší americké dodávky a nevýhodnou obchodní dohodu (GMO potraviny bez cla pro USA, 15% clo na evropský export) — srovnává německou ekonomiku (krize VW, obviňování Číny z „nekalé konkurence" kancléřem Merzem) s výsledkem vlastního rozhodnutí odstřihnout se od levných zdrojů energie.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+---
+
+### Merz obviňuje Čínu z „nekalé konkurence"; Vrabel: Německo si za krizi může samo (24. 7. 2026)
+
+Německý kancléř Friedrich Merz začíná prosazovat tvrdší postoj vůči Číně — reaguje na úbytek pracovních míst, pokles vývozu automobilů a rostoucí obchodní deficit; obviňuje Čínu z „nekalé konkurence" a záměrně podhodnocené měny, přestože ještě nedávno prosazoval opatrnější přístup. Vládní postoj není jednotný (ministerstvo zahraničí chce tvrdší postup, ministerstvo hospodářství se obává čínské odvety), ale tlak malých a středních podniků žene Berlín k tvrdší reakci. Vrabel si všímá německé přezdívky kancléře „Schmerz" (od Schmerzen — bolest) a odmítá rámování viny na Čínu: Německo si ekonomické problémy (statisíce ohrožených míst ve Volkswagenu) způsobilo samo tím, že se odstřihlo od levných ruských energií výměnou za dražší americké dodávky a nevýhodnou obchodní dohodu s USA. Ptá se, v čem konkrétně má spočívat „nekalá" čínská konkurence, když čínská auta jsou prostě levnější a často kvalitnější — odmítá i běžně používaný rámec „fair konkurence" (Ursula von der Leyen) jako ekonomicky nesmyslný: konkurence podle něj přirozeně znamená, že někdo umí a někdo neumí, a Evropa v tuto chvíli neumí, protože se nechala zatáhnout do her, které nemůže vyhrát.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+---
+
 ### Rajchl: místo stropování cen krátkodobě snížit DPH na PHM a plyn na nulu (19. 7. 2026)
 
 V souvislosti s očekávaným útokem USA na Írán a možným cenovým šokem v energetice navrhuje Rajchl připravit legislativu pro rychlé zásahy státu: místo stropování cen mít nástroj krátkodobě snížit DPH na pohonné hmoty a plyn na nulu — „lepší být připraven než překvapen".
