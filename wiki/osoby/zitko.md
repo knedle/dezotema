@@ -95,6 +95,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **20. 7.** — výročí přistání na Měsíci — opakuje tezi beze změny — [Videoportál: výročí měsíčního podvodu 20. 7.](../_zdroje.md#pavel-zítko--videoportál-výročí-měsíčního-podvodu-20-7-2026)
 - **21. 7.** — armádní informátor: chemtrails, morgelony a 5G jako nástroj ovládnutí lidstva — [Videoportál: pozitivní zprávy 21. 7.](../_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)
 - **23. 7.** — 17. listopad 1989 jako inscenace StB/KGB (agent Zifčák) — nový „důkaz": videoklip Evy Farné s ukrytým „agentem Šmídem"; opakuje beze změny teorii zcinknutých voleb USA 2020 (Dominion) — [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
+- **24. 7.** — obhajoba neplatnosti rozdělení ČSFR v diváckém sporu (beze změny); QAnon „Central Casting" — Macron/Le Pen jako test dvojníků, Prigožin jako test na odhalení zrádců; nepodložená spekulace o Markétě Vaňkové — [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -220,6 +221,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Kimberly Overton | ✅ pozitivní | Americká zdravotní sestra (JIP), whistleblowerka — tvrdí, že covidoví pacienti umírali na nemocniční protokoly, ne na virus; kvůli citaci jejího svědectví byl Zítko na FB zablokován | 2026-07-23 | [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026) |
 | Mazánek | ❌ negativní | Vyšetřovatel v kauze bitcoinu — kritizován za nečinnost rok a dva měsíce od odhalení kauzy | 2026-07-23 | [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026) |
 | Radim Dragoun | ❌ negativní | Vyšetřovatel NCOZ / Vrchní SZ Olomouc v kauze bitcoinu — kritizován za nečinnost | 2026-07-23 | [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026) |
+| Emmanuel Macron | ⚖️ rozporuplný | Dle sdíleného textu „Hanna Hanna" nahrazen dvojníkem po znovuzvolení jako součást Central Castingu | 2026-07-24 | [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026) |
+| Marine Le Pen | ✅ pozitivní | Dle sdíleného textu je skutečná a tajně součástí „Aliance" bojující proti Deep State | 2026-07-24 | [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026) |
+| Markéta Vaňková | ⚖️ rozporuplný | Jmenována v nepodložené spekulaci o možném večírku s drogami a dětmi — Zítko sám podává jako domněnku, ne fakt | 2026-07-24 | [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026) |
 
 ---
 
@@ -290,3 +294,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál 16. 7. 2026](../_zdroje.md#československo-tv2--videoportál-16-7-2026)
 - [Pfizergate a Uršula 11:11 (16. 7. 2026)](../_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
 - [Videoportál: Facebook blokace, kybernetická bezpečnost (23. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
+- [Videoportál: Central Casting 11:11 (24. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)

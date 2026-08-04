@@ -3282,3 +3282,12 @@
 - **Délka:** 01:01:36
 - **Poznámka:** Zpracováno 14 témat: (1) ČR dodá Černé Hoře zbraně, kontrast se Srbskem — [suverenita-eu.md](suverenita-eu.md). (2) Okamura v Číně, čínské sankce na Tatru — [kauzy.md](kauzy.md). (3) Akcelerační zóny — ČR nemá od EU povinnost stavět větrníky — [vetrniky.md](vetrniky.md). (4) Babišův plán vládní čtvrti Letňany — [kauzy.md](kauzy.md). (5) Rozsudek Kratochvíl/Šádler (Vojáci v záloze za mír) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (6) Nová americká cla 10–15 % — [ceny-energie.md](ceny-energie.md). (7) EU ruší ochranu ukrajinským mužům 18–65 let — [migrace.md](migrace.md). (8) Ukrajinské útoky na Wildberries — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (9) Rubio–Lavrov: plán „3+2" padl, Rusko rozšíří okupaci — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (10) Bulharsko a americká tankovací letadla — [valka-nato-rusko.md](valka-nato-rusko.md). (11) Bab al-Mandab — vojenská mise EU — [blizky-vychod.md](blizky-vychod.md). (12) Merz obviňuje Čínu z nekalé konkurence — [ceny-energie.md](ceny-energie.md). (13) Google/Big Tech jako americký armádní projekt, pokračování — [digitalni-kontrola.md](digitalni-kontrola.md). (14) Potvrzena smrt Lindseyho Grahama, spekulace o vraždě — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál: Central Casting 11:11 (24. 7. 2026) {#pavel-zítko--videoportál-central-casting-1111-24-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-24_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1050210857423005&_rdr>
+- **Datum záznamu:** 2026-07-24 (vysíláno 23. 7. 2026, 11:11)
+- **Délka:** 01:13:06 | Zhlédnutí: 378
+- **Poznámka:** Zpracována 2 témata: (1) Obhajoba neplatnosti rozdělení ČSFR v reakci na diváckou debatu — opakování beze změny — [konspirace-ceskoslovensko.md](konspirace-ceskoslovensko.md). (2) QAnon „Central Casting" — Macron/Le Pen dvojníci, Prigožin jako test, nepodložená spekulace o Markétě Vaňkové — [konspirace.md](konspirace.md). Bez predikcí. Bez stoch. teroru (Vaňková spekulace nesplňuje kritéria — chybí dehumanizace/výzva k trestu).
+- **Zpracováno:** ano

@@ -190,3 +190,11 @@ Zítko kritizuje, že tato frakce (i další dřívější spojenci, kteří se 
 **Zdroje:** [Pavel Zítko — Videoportál: MS ve fotbale finále 19. 7. 2026](_zdroje.md#pavel-zítko--videoportál-ms-ve-fotbale-finále-19-7-2026)
 
 ---
+
+### Debata s diváky "Neužil vs. Ejsr": obhajoba neplatnosti rozdělení ČSFR beze změny (Zítko, 24. 7. 2026)
+
+Zítko reaguje na diváckou diskuzi pod videem (uživatelé „Bob Ejsr" a „Jan z Neužil") obhajobou svých dlouhodobých tezí bez nových argumentů: nutnost referenda dle zákona 327/1991, neplatnost zákona 542/1992 o zániku federace (nepodepsal ho platný prezident — Havel abdikoval 20. 7. 1992, premiér Stráský byl bez důvěry od října), nepřetržité trvání Československé republiky založené zákonem 11/1918 i přes protektorát, a nárok na reparace 29 bilionů Kč / 9 500 tun zlata výhradně pro ČSR. Doplňuje jen dílčí detaily: mezistupeň „Československá federativní republika" vzniklý 29. 3. 1990 a zrušený už 23. 4. 1990 vlastizrádným aktem poslanců; přirovnání účelového JUDr. postupu právníků k „BAR" registraci u britského práva admirality. Odmítá myšlenku „Czexitu"/"Slovexitu" jako zbytečnou, protože ČSR nikdy členem EU/NATO nebyla, takže není z čeho vystupovat.
+
+**Zdroje:** [Československo TV2 — Videoportál 24. 7. 2026](_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)
+
+---
