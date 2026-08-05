@@ -806,7 +806,9 @@ Vrabel komentuje případ Patrika Cigoše, jemuž Olomoucký krajský soud ulož
 
 Vrabel na dvou zprávách kritizuje „výměnu vůdců bez voleb": v Británii se novým premiérem stal Andy Burnham (zvolen jen vnitrostranicky lejbristy, bez celostátních voleb) — Vrabel ho ironicky překřtil na „Andyho Palšunku" (burn + ham) a předpovídá, že bude „naprosto stejný jako Starmer", stejně jako je u nás „Andy" Babiš stejný jako Fiala („lidi vystřízliví"). V Maďarsku prezident Tamás Šujok podepsal ústavní dodatek ukončující jeho vlastní mandát poté, co ho nový premiér Péter Magyar (strana TISA) označil za „loutku Fideszu" a vyzval k odstoupení — Vrabel to ironizuje jako „demokracii po maďarsku" (prezident se zvoleným mandátem na 5 let odvolán, protože se novému premiérovi „nelíbil"), kterou EU přesto vítá; Magyar si prý dosadí vlastní loutku.
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+**27. 7.** — Vrabelova predikce se potvrzuje: Volodymyr Zelenskyj se setkal s Burnhamem při jeho prvním přijetí zahraničního představitele od nástupu do funkce — Burnham hned prohlásil, že Británie „v žádném případě nebude měnit kurz" podpory Ukrajiny. Vrabel to komentuje sarkasticky („spálená šunka") jako potvrzení, že žádná změna oproti Starmerovi nenastala. Zelenskyj v rozhovoru pro Sky News zároveň oznámil záměr postavit ve Velké Británii velký závod na výrobu dronů a vyjádřil naději, že Londýn bude v tomto směru „postupovat stejně".
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026), [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
 
 ---
 

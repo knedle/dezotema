@@ -715,3 +715,11 @@ Ukrajina znovu zaútočila na sklady největšího ruského internetového prode
 **Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
 ---
+
+### Putin: západní Ukrajina by mohla připadnout Polsku, Maďarsku a Rumunsku (Vrabel, 27. 7. 2026)
+
+Ruský prezident Vladimir Putin v posledním vystoupení uvedl, že západní části Ukrajiny by v budoucnu (dle něj v horizontu několika let až desetiletí) mohly připadnout státům, kterým historicky patřily před připojením k Ukrajině za vlády Stalina — tedy Polsku, Maďarsku a Rumunsku; označil to za „historický návrat". Zároveň zopakoval kritiku ukrajinské politiky vůči rusky mluvícímu obyvatelstvu. Vrabel to spojuje se svou opakovanou tezí, že Ukrajina je fakticky „prodaná" a hluboce zadlužená (90 mld. eur jen z posledního unijního balíčku, vše ve formě půjček) — i po skončení války podle něj Ukrajina zůstane natolik zadlužená vůči EU a Mezinárodnímu měnovému fondu, že jí fakticky nebude patřit, a nevylučuje, že si část jejího území nakonec „vezmou" sousední státy (Polsko, případně Rumunsko). Připomíná i to, že export ukrajinského obilí (dříve 80 % přes Černé moře) je nyní blokován ruským uzavřením přístavů u Oděsy, což dále prohlubuje ukrajinskou fiskální závislost na západních půjčkách.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---

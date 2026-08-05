@@ -340,7 +340,9 @@ Vrabel popisuje jako „klasiku, kterou připomínáme každý týden": na zač�
 
 **25. 7.** — Vrabel opravuje mediální rámování zdražení pohonných hmot v ČR (ceny už přes týden „určuje volný trh"): není to trh, ale přímý důsledek Trumpova uzavření Hormuzského i Báb al-Mandabského průlivu. Doplňuje ekonomický detail: dočasné vládní snížení spotřební daně z pohonných hmot (jedno z opatření reagujících na zdražování) stálo státní rozpočet asi 3,5 miliardy Kč — částku dává do souvislosti se zbrojními výdaji vlády (prodej letiště, budov aj., viz [Letňany](kauzy.md)). Vyzývá diváky, ať při tankování nenadávají trhu, ale vládě (Babiš, Macinka) a Donaldu Trumpovi osobně.
 
-**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026), [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+**27. 7.** — Vrabel popisuje, jak Trump tentokrát pozměnil své obvyklé schéma: napjatou situaci vygradoval oznámením možných úderů na Írán a hlasováním v Senátu o volné ruce k útoku, ceny ropy díky tomu vyskočily přes 100 dolarů — a poté, namísto obvyklého oznámení „na konci týdne" (kdy se cena stihne uklidnit ještě před uzavřením burz), oznámil ústup od útoku na Írán v neděli, tedy den, kdy to nikdo nečekal, takže se propad ceny projevil hned v pondělí. Vrabel to čte jako důkaz, že lidé z Trumpova okolí (jmenuje „realitní makléře" Kushnera a Witkoffa) předem vědí o načasování oznámení a vsázejí na pokles i růst ceny ropy, čímž kasírují „stovky milionů, možná miliardy" dolarů — přirovnává Trumpa k hráči, který střídavě „otevírá a zavírá" Hormuzský průliv každý týden podle potřeby.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026), [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026), [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
 
 ---
 
@@ -389,3 +391,11 @@ V souvislosti s očekávaným útokem USA na Írán a možným cenovým šokem v
 Vrabel kriticky komentuje dvě zprávy týdne: česká vláda odkládá zavedení slev na jízdném pro seniory a studenty s odůvodněním, že si to (v řádu miliard korun) nemůže dovolit — v kontrastu staví Bělehrad, kde je městská hromadná doprava pro seniory zdarma. Ironicky spojuje chybějící prostředky s prioritním financováním Ukrajiny (90 mld. přes EU, plánovaných dalších 70 mld. přes NATO). Druhou zprávou jsou nová pravidla EU ohledně geneticky upravených plodin, podle nichž spotřebitelé ztratí možnost poznat na obalu, zda byla potravina vyrobena pomocí genové editace — Vrabel to dává do souvislosti s nedávno dohodnutým dovozem amerických potravin bez cla, u nichž tak podle něj spotřebitelé už nebudou moci rozeznat geneticky upravený původ.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 26. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-26-7-2026)
+
+---
+
+### České státní dluhopisy klesají — Vrabel: vinna zahraniční politika, ne „mezinárodní situace" (Vrabel, 27. 7. 2026)
+
+České státní dluhopisy v posledních dvou týdnech výrazně ztratily na hodnotě, jejich výnosy (náklady na financování státního dluhu) vzrostly téměř na čtyřleté maximum — ekonomové to připisují zhoršené náladě na světových trzích po eskalaci na Blízkém východě a obavám z inflace. Vrabel toto vysvětlení odmítá: podle něj je hlavní příčinou zahraniční politika samotné ČR — postup z 10. na 5. místo na ruském seznamu nepřátelských zemí dělá z ČR nestabilnější, potenciálně tranzitní zemi pro budoucí konflikt. Jako další faktory uvádí rostoucí zadlužení, slábnoucí ekonomiku, vysoké vstupní ceny energie pro firmy, byrokracii a migraci (zmiňuje anekdotický postřeh o rostoucím počtu žen v hidžábu v Praze jako „ukazatel nestability").
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)

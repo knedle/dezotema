@@ -459,6 +459,16 @@ Boldy doporučuje dokument o italské mafii 'Ndrangheta a tvrdí, že jde o nejm
 
 ---
 
+### Nelegální obchod s lidskými orgány — Kosovo, Ukrajina (Vrabel, 27. 7. 2026)
+
+K moskevskému procesu s izraelským občanem Borisem Wolfmanem (obviněn z organizování mezinárodní sítě obchodu s orgány — vyhledával sociálně slabé lidi v Rusku, převážel je na kliniku v Kosovu, kde jim měly být nelegálně odebírány ledviny; sám obvinění odmítá) Vrabel rozvíjí širší tezi o organizovaném obchodu s lidskými orgány. Připomíná dobově zdokumentovaný případ tzv. „žluté vily" v Kosovu z 90. let (období vlády Hashima Thaçiho, bývalého velitele UÇK, později vyšetřovaného v Haagu) — místo, kam měli být odváženi lidé unesení z ulice za účelem nelegálního odběru orgánů pro západní klientelu; zmiňuje nepotvrzenou informaci o pěti Češích, kteří se v 90. letech na Kosovu ztratili a mohli se stát oběťmi. Tvrdí, že podobný byznys dnes funguje i na Ukrajině — s odkazem na vlastní zkušenost (izraelský známý, který podstoupil transplantaci ledviny v Kazachstánu, přičemž orgán měl pocházet z Ukrajiny) a na vysoký počet ukrajinských padlých (1–2,5 milionu) jako potenciální „zdroj" orgánů prodávaných za 10–15 tisíc eur. V témže kontextu zmiňuje videa, která údajně ukazují ukrajinské vojáky tahající vlastní neposlušné kolegy na laně za vozidlem a případ zastřeleného mentálně nemocného vojáka při pokusu o útěk.
+
+⚡ **Poznámka:** Tvrzení o organizovaném obchodu s orgány padlých ukrajinských vojáků nelze ověřit z veřejně dostupných zdrojů; historický případ „žluté vily" v Kosovu je dokumentovaný mezinárodním vyšetřováním, ale jeho rozsah a souvislost s pěti nezvěstnými Čechy Vrabel sám označuje jako neověřenou informaci z neuvedeného zdroje.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---
+
 ## Náboženský a okultní výklad moci
 
 ### Světu vládne Satan — společný kult za všemi náboženstvími a vládami; angličtina jako „čarodějnický jazyk" (Boldy, 7. 7. 2026)

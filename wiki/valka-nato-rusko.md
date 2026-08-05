@@ -227,6 +227,14 @@ Vrabel operaci označuje za „genocidu a etnickou čistku" — a připomíná n
 
 ---
 
+### 85. výročí masakru v Garavicích — paralela chorvatského a ukrajinského nacionalismu (Vrabel, 27. 7. 2026)
+
+V Garavicích u bosenského Bihaće si připomněli 85 let od masakru, při němž jednotky chorvatských ustašovců v roce 1941 zavraždily podle historických záznamů přibližně 12 000 civilistů — Srbů, Židů a Romů, včetně žen a dětí; místo patří mezi největší popraviště Srbů na území tehdejšího nezávislého státu Chorvatsko. Vrabel zprávu dává do přímé paralely se svou opakovanou tezí o dnešním ukrajinském nacionalismu — způsobem, jakým podle něj „funguje nacismus": nejprve rétorické odepření práva na existenci určité skupině (cituje výrok současného velitele ukrajinské armády, že Rusko „nemá právo na existenci"), poté jeho násilné vyloučení. Řadí to do jedné linie s dřívějším rozborem chorvatské operace Oluja (1995) a se svým dlouhodobým tvrzením o cíleném vyvražďování Rusů na Ukrajině od roku 2014.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---
+
 ### Fico po návštěvě Moskvy: kritika západních médií, EU hrozí Slovensku dotacemi (Vrabel, 16. 5. 2026)
 
 Vrabel informuje, že Robert Fico po návštěvě Moskvy (9. 5. 2026) veřejně kritizoval západní media za způsob, jakým jeho cestu referovaly. Zároveň EU začala hrozit Slovensku pozastavením zemědělských dotací jako nástrojem nátlaku. Vrabel hodnotí EU postup jako vydírání — klasický bruselský mechanismus: kdo se chová suverénně, ztrácí peníze.

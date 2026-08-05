@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Vladimir Putin — Západní Ukrajina připadne Polsku, Maďarsku a Rumunsku (27. 7. 2026)
+
+**Předpověď:** Západní části Ukrajiny (dříve připojené k Ukrajině za Stalina) by mohly v horizontu několika let až desetiletí připadnout Polsku, Maďarsku a Rumunsku, kterým dle Putina historicky patřily — označil to za „historický návrat".
+
+> „Tato území byla Ukrajině připojena za vlády Josipa Stalina... může k takovému vývoji dojít v horizontu několika let až desetiletí." — Vladimir Putin (citováno Vrabelem)
+
+**Horizont:** několik let až desetiletí
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---
+
 ### Ladislav Vrabel — Úroky nad 5 % ze státních dluhopisů USA vyvolají krizi srovnatelnou s obdobím před 2. světovou válkou (23. 7. 2026)
 
 **Předpověď:** V důsledku uzavření průlivů (Hormuz, Báb al-Mandab) přijdou ropné/plynové státy o cashflow a začnou prodávat americké státní dluhopisy; aby si USA udržely zájem investorů, budou muset zvýšit úrokovou sazbu — jakmile přesáhne 5 %, může to vyvolat rychlý sesun americké ekonomiky do recese s „dominovým efektem" až ke kolapsu srovnatelnému s obdobím před druhou světovou válkou. Kvůli navázanosti české ekonomiky na americkou by to mělo silné dopady i pro ČR.

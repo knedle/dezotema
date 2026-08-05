@@ -3345,3 +3345,12 @@
 - **Délka:** 00:01:12 | Zhlédnutí: 27 073
 - **Poznámka:** Zpracováno 1 téma: sankce EU brání Španělsku opravovat ruské hasicí vrtulníky Kamov během požárů — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (27. 7. 2026) {#ladislav-vrabel--zprávy-v-devět-27-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-27_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2044599566151093>
+- **Datum záznamu:** 2026-07-27
+- **Délka:** 01:05:23
+- **Poznámka:** Zpracováno 12 témat: (1) Vláda schválila akcelerační zóny (menší rozsah, stejný cíl 30,1 % OZE) — [vetrniky.md](vetrniky.md). (2) České dluhopisy klesají kvůli zahraniční politice — [ceny-energie.md](ceny-energie.md). (3) Zpráva o extremismu, „rekorytarizace" MV — [kauzy.md](kauzy.md). (4) Nelegální obchod s orgány (Wolfman, Kosovo, Ukrajina) — [konspirace.md](konspirace.md). (5) 85. výročí masakru v Garavicích, paralela s Ukrajinou — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Trumpova manipulace cenou ropy (Írán) — [ceny-energie.md](ceny-energie.md). (7) Sankce EU a vrtulníky Kamov ve Španělsku — doplnění zdroje — [suverenita-eu.md](suverenita-eu.md). (8) Eskalace Saúdská Arábie–Jemen — [blizky-vychod.md](blizky-vychod.md). (9–10) Putinova predikce o západní Ukrajině pro Polsko/Maďarsko/Rumunsko, zadlužení Ukrajiny — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md), [predikce.md](predikce.md). (11) Zelenskyj a nový premiér Burnham — [politicky-system.md](politicky-system.md). (12) Putin navýšil ozbrojené síly, USA omezují dovoz surovin — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). Bez stoch. teroru.
+- **Zpracováno:** ano

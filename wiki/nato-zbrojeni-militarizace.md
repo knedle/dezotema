@@ -679,3 +679,11 @@ Evropská unie a Ukrajina spustily projekt FREJA — vývoj nového evropského 
 **Zdroje:** [Vrabel — Nedělní vysílání 26. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-26-7-2026)
 
 ---
+
+### Putin navýšil počet ozbrojených sil na 2,43 milionu; USA omezují dovoz strategických surovin (Vrabel, 27. 7. 2026)
+
+Vladimir Putin podepsal s platností od 1. srpna dekret zvyšující celkový počet ruských ozbrojených sil na 2 426 130 osob (z toho 1 535 000 vojáků) — navýšení o 25 tisíc oproti dosavadnímu stavu, navazující na již dříve oznámené doplnění záloh o 140 tisíc. Vrabel srovnává tento počet s kapacitami zemí NATO (Německo plánuje 460 tisíc, Polsko stovky tisíc) a konstatuje, že ani component společně nedosahují ruského 1,5milionového aktivního stavu — pokud by Evropa chtěla vážně vést válku s Ruskem, musela by výrazně navýšit počty vojáků, které „se budou muset odněkud vzít". Očekává, že po ruských prezidentských volbách (18.–20. září) může následovat další mobilizace. V souvislosti s tím zmiňuje samostatnou zprávu, že USA od roku 2027 zakážou americkému obrannému průmyslu nákup vybraných strategických surovin z Číny, Ruska, Íránu a Severní Koreje — komentuje to jako další krok k odstřižení dodavatelských řetězců mezi znepřátelenými bloky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---
