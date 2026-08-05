@@ -3327,3 +3327,12 @@
 - **Délka:** 02:04:18
 - **Poznámka:** Velmi dlouhé volné nedělní vysílání, z velké části opakující již zdokumentovaný ideologický rámec (globalismus vs. suverenita, CIA školí politiky, Vučič nezbrojí Ukrajinu, EU jako protektorát) — zpracováno jako doplnění zdrojů. Zpracováno 6 nových témat: (1) Kauza Štefan Bartók (obvinění z týrání) a exekuce Vrabelovy manželky — [kauzy.md](kauzy.md). (2) Rozšíření teorie „chazarských Židů" o nábožensko-historický rámec (Byzanc/Řím, Jasenovac) — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). (3) Projekt FREJA (protiraketová obrana) a expanze Rheinmetallu do Polska, Švýcarsko a vojenská služba duchovních — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (4) USA povolí Saúdské Arábii obohacovat uran, zemětřesení v Íránu — [blizky-vychod.md](blizky-vychod.md). (5) Odklad slev na jízdném, zrušení označování GMO plodin — [ceny-energie.md](ceny-energie.md). Neprocesováno na žádost uživatele: nový model OpenAI, zadlužení EU 82,9 % HDP. Bez predikcí. Bez stoch. teroru (přání „pekla" pro ex-přítelkyni/Pírkovou nesplňuje kritéria — jde o metaforickou kletbu, ne výzvu k reálnému trestu/násilí).
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: expert na extremismus (27. 7. 2026) {#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-27_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1365398741685086>
+- **Datum záznamu:** 2026-07-27
+- **Délka:** 00:03:47 | Zhlédnutí: 129 382
+- **Poznámka:** Zpracováno 1 téma: reakce na experta na extremismus Aleše Michala (ČRo), který navrhl jeho zařazení do zprávy o extremismu — [media-propaganda.md](media-propaganda.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
