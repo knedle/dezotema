@@ -736,6 +736,8 @@ Ukrajinská zbrojařská firma Firepoint podle Vrabela testuje novou balistickou
 
 Vrabel referuje o ukrajinském útoku na íránskou nákladní loď v Kaspickém moři a o vyjádření iráckého národního bezpečnostního poradce Qasima al-Aboudiho, který obvinil Ukrajinu ze zapojení do sabotážních operací v Iráku — malá skupina spolupracující s Kyjevem měla provést několik akcí, jejichž odpovědnost byla následně přenesena na místní odzbrojené skupiny; Irák podrobnosti ani důkazy nezveřejnil. Vrabel to komentuje sarkasticky — „malá, ale šikovná země": Ukrajina podle něj zvládá útočit na Moskvu i Petrohrad, vyhodit do povětří Nord Stream, sestřelit íránskou loď v Kaspickém moři i provádět teroristické útoky v Iráku, a přirovnává to k Zelenskému jako „malému čamrdovi", který dokázal „rozeserat celý svět".
 
-**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+**Krátká zpráva téhož dne** — v samostatném krátkém videu (zveřejněném před večerním vysíláním) Vrabel k témuž útoku na íránskou loď dodává širší rámování: dlouhodobě predikoval, že třetí světová válka pravděpodobněji vypukne v Íránu než na Ukrajině, a útok vnímá jako potenciální spouštěč propojení obou konfliktů (Rusko–Ukrajina a USA–Írán) do jednoho celosvětového střetu — zejména v kontextu souběžné schůzky Zelenského s Trumpem ve Washingtonu. Přirovnává útok k Gleiwickému incidentu z roku 1939 (německá provokace vydávaná za polský útok, použitá jako záminka k napadení Polska) — naznačuje, že podobně nenápadná událost může retrospektivně vyjít jako záměrně vyvolaný spouštěč širšího konfliktu. Íránský ministr zahraničí označil útok za porušení mezinárodního práva a pohrozil odvetou vůči všem zemím podporujícím Ukrajinu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026), [Vrabel — Facebook Live (2) 28. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-2-28-7-2026)
 
 ---

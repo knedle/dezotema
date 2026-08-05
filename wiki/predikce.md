@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Třetí světová válka pravděpodobněji vypukne v Íránu než na Ukrajině (28. 7. 2026)
+
+**Předpověď:** Ukrajinský útok na íránskou obchodní loď v Kaspickém moři může sloužit jako spouštěč propojení konfliktů Rusko–Ukrajina a USA–Írán do jednoho celosvětového střetu; Vrabel dlouhodobě předpokládá, že třetí světová válka je pravděpodobnější v Íránu než na Ukrajině. Přirovnává událost k Gleiwickému incidentu (1939) jako možné záměrné provokaci.
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live (2) 28. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-2-28-7-2026)
+
+---
+
 ### Ladislav Vrabel — Válka skončí až totálním vítězstvím jedné strany; 2–3 roky války, 5–10 let obnovy (28. 7. 2026)
 
 **Předpověď:** Konflikt NATO–Rusko (vedený na ukrajinském území) neskončí kompromisním vyjednáváním, ale jen totálním vítězstvím jedné ze stran — vyjednávací cesta („3+2" z Anchorage) je momentálně mrtvá. Válka bude dle Vrabela pokračovat ještě 2–3 roky, poté bude následovat 5–10 let poválečné obnovy, než se poměry v Evropě vrátí k normálu.
