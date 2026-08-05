@@ -816,4 +816,14 @@ Vrabel na dvou zprávách kritizuje „výměnu vůdců bez voleb": v Británii 
 
 Rajchl kritizuje vládu ANO/SPD/Motoristé zprava: neplní dostatečně důsledně vlastní předvolební sliby vtělené do programového prohlášení — muniční iniciativa nebyla zrušena (tlak Francie/Británie), nákup F-35 nebyl zastaven (Rajchl očekává, že nakonec vůbec nebudou dodány), a 140 mil. na program PURL (ukrajinské zbraně) je porušením slibu, že na ukrajinské zbraně nepůjde „ani koruna" (mandatorní výdaj lze podle něj převést do rozpočtové rezervy). Dává vládě čas do podzimu: pokud sama nepředloží zákon FARA, předloží ho sám, „ať se každý ukáže" (viz [fara-neziskovky.md](fara-neziskovky.md)). Požaduje také zásadní změnu financování ČT (prosazuje dobrovolné koncesionářské poplatky — „nebudu platit za propagandu proti sobě") a koncentraci sil do prezidentských voleb 2028 za jednoho kandidáta schopného porazit Pavla (analogie s vlastní dřívější výzvou volit Babiše místo Bašty).
 
+---
+
+## USA — volební systém
+
+### Trump usiluje o přísnější pravidla pro poštovní hlasování u Nejvyššího soudu (Vrabel, 28. 7. 2026)
+
+Vrabel referuje o Trumpově snaze prosadit u amerického Nejvyššího soudu přísnější pravidla pro poštovní hlasování — bez dalšího rozvedení vlastního hodnocení tuto zprávu zařazuje mezi širší přehled dění.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
 **Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)

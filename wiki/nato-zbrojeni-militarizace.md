@@ -687,3 +687,11 @@ Vladimir Putin podepsal s platností od 1. srpna dekret zvyšující celkový po
 **Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
 
 ---
+
+### Trump přejmenovává Pentagon na „Ministerstvo války"; ruská plovoucí platforma PLOT-47; požáry ve Francii ohrožují leteckou základnu Cazaux (Vrabel, 28. 7. 2026)
+
+Vrabel schvaluje Trumpovo rozhodnutí přejmenovat americké ministerstvo obrany (Pentagon) na „Ministerstvo války" — považuje to za upřímnější označení skutečné funkce úřadu než zavádějící název „obrana". Dále referuje o nové ruské zbraňové technologii — plovoucí protivzdušné platformě PLOT-47, určené k rozšíření obranného perimetru na moři. Samostatně zmiňuje rozsáhlé požáry v jihozápadní Francii (oblast Gironde), které ohrožují infrastrukturu spojenou s francouzským obranným a leteckým průmyslem, konkrétně leteckou základnu Cazaux.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
+---

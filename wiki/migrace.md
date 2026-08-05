@@ -412,6 +412,8 @@ Evropská komise odmítla zaregistrovat Evropskou občanskou iniciativu Save Eur
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
+**28. 7.** — Ke zprávě o stažení německých námořních lodí z oblasti Adenského zálivu (viz [blizky-vychod.md](blizky-vychod.md)) Vrabel s rasově motivovanou glosou o „opálených" německých vojácích dodává, že migrační pakt dál platí a vláda proti němu nic neudělala — jen v prosinci vydala prohlášení, že jej „neberou". Predikuje, že podobní vojáci „v maskáčích" budou brzy i v české armádě, protože i jiné země (USA, Rusko) nabírají migranty do armády výměnou za občanství — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
 ---
 
 ### Členské státy EU zruší ochranu ukrajinským mužům v bojeschopném věku — Vrabel: nehumánní dvojí metr (24. 7. 2026)

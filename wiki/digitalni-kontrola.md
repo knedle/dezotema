@@ -167,3 +167,11 @@ Evropská komise oznámila, že Google porušil pravidla nařízení o digitáln
 **24. 7.** — Vrabel rozvádí tezi na základě zpráv o vyostřeném sporu USA–EU kolem kontroly digitálních služeb: Trump požaduje poplatky za využívání infrastruktury amerických technologických platforem a hrozí omezením jejich dostupnosti pro EU (zmiňován konkrétně Google Maps); EU to označila za porušení mezinárodních pravidel a pohrozila sankcemi vůči americkým technologickým firmám. Vrabel tvrdí, že celý „Big Five" (Google, YouTube apod.) jsou americké armádní/vojenské projekty — Google Mapy fungují na amerických vojenských GPS satelitech, ke kterým EU nemá vlastní náhradu (evropský navigační systém je teprve ve vývoji). Uvádí i X/Twitter Elona Muska jako příklad pokrytectví: Musk vystupuje jako „bojovník za svobodu", ale jeho satelitní internet Starlink umožňuje Ukrajině navádět rakety hluboko do Ruska — bez něj by válka „okamžitě" skončila. Z toho vyvozuje, že když Trump pohrozí vypnutím Google Maps pro Evropu, může se to klidně stát, protože jde o suverénní americkou vojenskou infrastrukturu, nikoli o soukromou firmu — a znovu vyzývá k vystoupení z EU/NATO jako jediné cestě k energetické i technologické suverenitě.
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+
+---
+
+### Meta zavádí ověřování identity přes video-selfie (Vrabel, 28. 7. 2026)
+
+Vrabel zmiňuje novou funkci sociální sítě Meta (Facebook/Instagram), která umožňuje ověřit identitu uživatele prostřednictvím video-selfie — řadí ji ke svým dlouhodobě sledovaným tématům postupného rozšiřování digitální identity a ověřování totožnosti v online prostoru.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)

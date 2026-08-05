@@ -399,3 +399,11 @@ Vrabel kriticky komentuje dvě zprávy týdne: česká vláda odkládá zaveden�
 České státní dluhopisy v posledních dvou týdnech výrazně ztratily na hodnotě, jejich výnosy (náklady na financování státního dluhu) vzrostly téměř na čtyřleté maximum — ekonomové to připisují zhoršené náladě na světových trzích po eskalaci na Blízkém východě a obavám z inflace. Vrabel toto vysvětlení odmítá: podle něj je hlavní příčinou zahraniční politika samotné ČR — postup z 10. na 5. místo na ruském seznamu nepřátelských zemí dělá z ČR nestabilnější, potenciálně tranzitní zemi pro budoucí konflikt. Jako další faktory uvádí rostoucí zadlužení, slábnoucí ekonomiku, vysoké vstupní ceny energie pro firmy, byrokracii a migraci (zmiňuje anekdotický postřeh o rostoucím počtu žen v hidžábu v Praze jako „ukazatel nestability").
 
 **Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---
+
+### Křetínského EPH poprvé ve Fortune Global 500 — Vrabel: profit z vysokých cen elektřiny v ČR (28. 7. 2026)
+
+Vrabel komentuje zprávu, že energetická skupina EPH (Energetický a průmyslový holding) miliardáře Daniela Křetínského se poprvé zařadila do žebříčku Fortune Global 500 největších firem světa podle tržeb. Vrabel to interpretuje jako přímý důkaz svého dlouhodobého tvrzení, že vysoké ceny elektřiny pro české domácnosti a firmy nejsou nešťastnou náhodou, ale výsledkem obchodního modelu, na kterém soukromí majitelé energetických firem (v tomto případě Křetínský) profitují.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)

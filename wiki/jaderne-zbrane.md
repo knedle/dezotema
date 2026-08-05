@@ -158,4 +158,6 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 **Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 
+**28. 7.** — Vrabel opakuje tutéž tezi (Rafale/ASMP jako útočná, ne obranná zbraň) v souvislosti s úvahami o umístění francouzského „jaderného zastřešení" na území ČR — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
 ---

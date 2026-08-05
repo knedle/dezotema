@@ -323,6 +323,8 @@ J. D. Vance oznámil, že USA a Írán 14. 6. „elektronicky podepsali mírovou
 
 **Zdroje:** [Vrabel — Zprávy v devět 15. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-6-2026)
 
+**28. 7.** — K novému setkání Netanjahua s Trumpem o íránském jaderném programu Vrabel opakuje svou skepsi: „stejný příběh 20 let" — srovnává opakovaná tvrzení o íránských jaderných zbraních s dřívějšími nepotvrzenými obviněními vůči Saddámu Husajnovi a Muammaru Kaddáfímu, které následně posloužily jako záminka k invazi/intervenci — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
 ---
 
 ### Írán memorandum: detaily a Izrael jako překážka — Vrabel (16. 6. 2026)
@@ -503,7 +505,9 @@ Jemenské povstalecké hnutí Húsíové v noci z 22. na 23. 7. zaútočilo bali
 
 **27. 7.** — Saúdská koalice bombardovala cíle v provincii Hodajda a na strategickém ostrově Kamarán v Rudém moři jako odvetu za húsíjské útoky na obchodní lodě. Analytici varují, že v krajním případě může cena ropy vyskočit až k hranici 150 dolarů za barel. Vrabel k tomu jen stručně poznamenává, že se konflikt vyvíjí přesně podle očekávání a že do něj bude zatažena i EU (vojenská mise v Báb al-Mandabu) i ČR.
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026), [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026), [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+**28. 7.** — Německé námořnictvo stáhlo dvě lodě z oblasti Adenského zálivu/Rudého moře do východního Středomoří — oficiálním důvodem jsou bezpečnostní a technické problémy (mj. s chlazením). Vrabel k tomu připojuje rasově motivovanou glosu o „opálených" německých vojácích a spojuje zprávu se svou dlouhodobou kritikou migračního paktu (viz [migrace.md](migrace.md)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026), [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026), [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026), [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026), [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 
 ---
 

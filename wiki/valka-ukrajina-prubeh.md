@@ -723,3 +723,19 @@ Ruský prezident Vladimir Putin v posledním vystoupení uvedl, že západní č
 **Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
 
 ---
+
+### Firepoint testuje balistickou střelu s doletem na Moskvu; ruský útok na zbrojní výstavu u Kyjeva (11 mrtvých); Zelenskyj–Trump v Bílém domě (Vrabel, 28. 7. 2026)
+
+Ukrajinská zbrojařská firma Firepoint podle Vrabela testuje novou balistickou střelu s doletem dosahujícím až na Moskvu. Souběžně ruský raketový (Iskander) útok zasáhl zbrojní výstavu nedaleko Kyjeva — podle dostupných zpráv zemřelo 11 lidí. Zelenskyj se sešel s Trumpem v Bílém domě: hlavními tématy byly systémy Patriot (licence) a kondolence k úmrtí Lindseyho Grahama; k důvodu cesty — zda Trump nabídl nové návrhy na ukončení konfliktu — se však nic konkrétního nedozvěděli, což Vrabel připisuje „vojenskému tajemství".
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
+---
+
+### Ukrajina útočí na íránskou loď v Kaspickém moři; Irák obviňuje Ukrajinu ze sabotáží — Vrabel: „šikovná Ukrajina" (28. 7. 2026)
+
+Vrabel referuje o ukrajinském útoku na íránskou nákladní loď v Kaspickém moři a o vyjádření iráckého národního bezpečnostního poradce Qasima al-Aboudiho, který obvinil Ukrajinu ze zapojení do sabotážních operací v Iráku — malá skupina spolupracující s Kyjevem měla provést několik akcí, jejichž odpovědnost byla následně přenesena na místní odzbrojené skupiny; Irák podrobnosti ani důkazy nezveřejnil. Vrabel to komentuje sarkasticky — „malá, ale šikovná země": Ukrajina podle něj zvládá útočit na Moskvu i Petrohrad, vyhodit do povětří Nord Stream, sestřelit íránskou loď v Kaspickém moři i provádět teroristické útoky v Iráku, a přirovnává to k Zelenskému jako „malému čamrdovi", který dokázal „rozeserat celý svět".
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
+---

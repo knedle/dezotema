@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Válka skončí až totálním vítězstvím jedné strany; 2–3 roky války, 5–10 let obnovy (28. 7. 2026)
+
+**Předpověď:** Konflikt NATO–Rusko (vedený na ukrajinském území) neskončí kompromisním vyjednáváním, ale jen totálním vítězstvím jedné ze stran — vyjednávací cesta („3+2" z Anchorage) je momentálně mrtvá. Válka bude dle Vrabela pokračovat ještě 2–3 roky, poté bude následovat 5–10 let poválečné obnovy, než se poměry v Evropě vrátí k normálu.
+
+**Horizont:** 2–3 roky do konce války, dalších 5–10 let obnovy
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
+---
+
 ### Vladimir Putin — Západní Ukrajina připadne Polsku, Maďarsku a Rumunsku (27. 7. 2026)
 
 **Předpověď:** Západní části Ukrajiny (dříve připojené k Ukrajině za Stalina) by mohly v horizontu několika let až desetiletí připadnout Polsku, Maďarsku a Rumunsku, kterým dle Putina historicky patřily — označil to za „historický návrat".

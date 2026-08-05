@@ -187,6 +187,14 @@ Vrabel rozebírá tvrdé vyjádření Sergeje Lavrova. Lavrov prý naznačil oba
 
 ---
 
+### „Kde se to zastaví?" — válka skončí jen totálním vítězstvím jedné strany; NATO vs. Rusko, ne Ukrajina vs. Rusko (Vrabel, 28. 7. 2026)
+
+Na dotaz sledujícího „kde se to všechno zastaví" Vrabel odpovídá rozsáhlým monologem: konflikt podle něj nelze chápat jako válku Ukrajiny s Ruskem, ale jako válku NATO s Ruskem, v níž je Ukrajina jen bojovým polem — proto skončí až totálním vítězstvím jedné ze stran, ne kompromisním vyjednáváním. Připomíná krach plánu „3+2" z aljašského summitu v Anchorage (viz [výše](#lavrov-spirit-of-anchorage-jako-možné-získání-času-příprava-útoku-na-kyjev-bělorusko-vrabel-23-6-2026)) jako důkaz, že vyjednávací cesta je momentálně mrtvá. Zmiňuje francouzské „jaderné zastřešení" (letouny Rafale s raketami ASMP), o kterém uvažuje ČR — připomíná svůj dřívější výklad, že jde o útočnou, nikoli obrannou zbraň (viz [jaderne-zbrane.md](jaderne-zbrane.md)). Sám na základě této úvahy staví útočiště v Srbsku („zachraň se, kdo můžeš") a předpovídá 2–3 roky pokračování války a následně 5–10 let poválečné obnovy, než se poměry v Evropě vrátí k normálu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
+---
+
 ### USA varovaly Polsko před ruským útokem; Polsko nepředá Ukrajině MiGy-29 (Vrabel, 3. 7. 2026)
 
 The Telegraph píše, že Washington oficiálně varoval Polsko před rostoucím napětím v nadcházejících měsících a nastínil možné scénáře — dronové útoky na kritickou infrastrukturu (elektrárny) i simulované letecké údery testující polskou protivzdušnou obranu. Vrabel to komentuje jako „klasiku": rozehrát válku v Polsku je scénář, který podle něj zná už z minula. Rozvíjí vlastní „karmickou" tezi — čím víc se o možném ruském útoku na Polsko mluví, tím reálnější riziko se vytváří (ať už jako skutečný záměr, false flag, nebo vyprovokování Ruska). Souběžně Polsko rozhodlo vyřadit své stíhačky MiG-29 ze služby, místo aby je (podle dřívější dohody výměnou za ukrajinskou dronovou technologii) předalo Ukrajině — Vrabel to čte jako diplomatickou trhlinu mezi oběma zeměmi, byť polskou politickou scénu k Ukrajině popisuje jako celkově rozpolcenou.
