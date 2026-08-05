@@ -381,3 +381,11 @@ Německý kancléř Friedrich Merz začíná prosazovat tvrdší postoj vůči �
 V souvislosti s očekávaným útokem USA na Írán a možným cenovým šokem v energetice navrhuje Rajchl připravit legislativu pro rychlé zásahy státu: místo stropování cen mít nástroj krátkodobě snížit DPH na pohonné hmoty a plyn na nulu — „lepší být připraven než překvapen".
 
 **Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### Slevy na jízdném pro seniory a studenty v nedohlednu; EU ruší povinné označování geneticky upravených plodin (Vrabel, 26. 7. 2026)
+
+Vrabel kriticky komentuje dvě zprávy týdne: česká vláda odkládá zavedení slev na jízdném pro seniory a studenty s odůvodněním, že si to (v řádu miliard korun) nemůže dovolit — v kontrastu staví Bělehrad, kde je městská hromadná doprava pro seniory zdarma. Ironicky spojuje chybějící prostředky s prioritním financováním Ukrajiny (90 mld. přes EU, plánovaných dalších 70 mld. přes NATO). Druhou zprávou jsou nová pravidla EU ohledně geneticky upravených plodin, podle nichž spotřebitelé ztratí možnost poznat na obalu, zda byla potravina vyrobena pomocí genové editace — Vrabel to dává do souvislosti s nedávno dohodnutým dovozem amerických potravin bez cla, u nichž tak podle něj spotřebitelé už nebudou moci rozeznat geneticky upravený původ.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 26. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-26-7-2026)

@@ -671,3 +671,11 @@ Ukrajinské námořnictvo poprvé ve své novodobé historii získalo oprávněn
 **Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
 
 ---
+
+### EU a Ukrajina spouští projekt FREJA (protiraketová obrana); Rheinmetall expanduje do Polska (Vrabel, 26. 7. 2026)
+
+Evropská unie a Ukrajina spustily projekt FREJA — vývoj nového evropského systému obrany proti balistickým raketám; zakládajícími zeměmi jsou Švédsko, Francie, Německo a Itálie. Vrabel s ironií konstatuje, že Česká republika mezi zakládajícími členy není, přestože podle něj vláda obvykle nechce vynechat žádnou příležitost k zapojení do podobných projektů („my přece chceme montovat balistické rakety na svém území, abychom z toho měli nějaké peníze") — předpokládá, že se ČR k projektu později připojí jen v podřízené roli výrobního subdodavatele, zatímco hlavní rizika (stát se cílem) ponese sama. Dále zmiňuje, že německá zbrojovka Rheinmetall (najvětší světový výrobce munice, více než USA) expanduje výstavbou nových továren do Polska — komentuje to jako ironii vzhledem k německé roli ve 2. světové válce. Doplňuje, že Švýcarsko zrušilo výjimku z vojenské služby pro duchovní osoby — ironicky poznamenává, že zatímco švýcarští kněží budou muset nastoupit vojenskou službu, přistěhovalí muslimové jako cizinci povinnosti nepodléhají.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 26. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-26-7-2026)
+
+---

@@ -3318,3 +3318,12 @@
 - **Délka:** 00:51:41
 - **Poznámka:** Zpracováno 10 témat: (1) Úmrtí Karla Schwarzenberga — kondolence — [osoby/rajchl.md](osoby/rajchl.md). (2) Pavlovo veto rozpočtového zákona — [petr-pavel.md](petr-pavel.md). (3) Ekonomický plán (Irsko), „rozvod" od EU, Stiglitz — [politicky-system.md](politicky-system.md). (4) Kritika „farizejského" mentorování (Jakob, Jiří Dvořák) — [media-propaganda.md](media-propaganda.md). (5) Elon Musk potvrzuje tezi o Istanbulu 2022 — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (6–7) Demonstrace na Ukrajině po odvolání Fedorova, predikce o výměně Zelenského — [valka-nato-rusko.md](valka-nato-rusko.md). (8) Útok mačetou v Berlíně, pokrytectví levice — [migrace.md](migrace.md). (9) Konkrétní návrhy k migraci — opakování rozšířené o nové příklady — [migrace.md](migrace.md). (10) Slyšení Fauciho 29. 7. — [covid-vakciny.md](covid-vakciny.md). Bez nových predikcí (opakuje 19. 7.) a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání (26. 7. 2026) {#ladislav-vrabel--nedělní-vysílání-26-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-26_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1391052779647320>
+- **Datum záznamu:** 2026-07-26
+- **Délka:** 02:04:18
+- **Poznámka:** Velmi dlouhé volné nedělní vysílání, z velké části opakující již zdokumentovaný ideologický rámec (globalismus vs. suverenita, CIA školí politiky, Vučič nezbrojí Ukrajinu, EU jako protektorát) — zpracováno jako doplnění zdrojů. Zpracováno 6 nových témat: (1) Kauza Štefan Bartók (obvinění z týrání) a exekuce Vrabelovy manželky — [kauzy.md](kauzy.md). (2) Rozšíření teorie „chazarských Židů" o nábožensko-historický rámec (Byzanc/Řím, Jasenovac) — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). (3) Projekt FREJA (protiraketová obrana) a expanze Rheinmetallu do Polska, Švýcarsko a vojenská služba duchovních — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (4) USA povolí Saúdské Arábii obohacovat uran, zemětřesení v Íránu — [blizky-vychod.md](blizky-vychod.md). (5) Odklad slev na jízdném, zrušení označování GMO plodin — [ceny-energie.md](ceny-energie.md). Neprocesováno na žádost uživatele: nový model OpenAI, zadlužení EU 82,9 % HDP. Bez predikcí. Bez stoch. teroru (přání „pekla" pro ex-přítelkyni/Pírkovou nesplňuje kritéria — jde o metaforickou kletbu, ne výzvu k reálnému trestu/násilí).
+- **Zpracováno:** ano

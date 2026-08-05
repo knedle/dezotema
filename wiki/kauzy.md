@@ -670,6 +670,20 @@ Poslanec a vlivný člen hnutí SPD Jaroslav Foldina byl po incidentu ve svém d
 
 ---
 
+## Kauza Štefan Bartók — obvinění z týrání a Vrabelova exekuce manželky (Vrabel, 26. 7. 2026)
+
+### Vrabel brání Štefana Bartóka, viní ex-přítelkyni a Michaelu Pírkovou z lživého obvinění
+
+Bývalý policista a dlouholetý spolupracovník Vrabela na vlastenecké scéně Štefan Bartók byl vzat do vazby, obviněn z týrání přítelkyně a jejího dítěte. Vrabel se staví na jeho obranu — popisuje, že vztah Bartóka a jeho přítelkyně (jménem Jana) sledoval prakticky celou dobu, sám se s ním o problémech v soukromí bavil, a nikdy neměl pocit, že by byl Bartók agresivní. Naznačuje, že přítelkyně měla opakované psychické záchvaty a labilní stavy, a spolu s další ženou (Michaelou Pírkovou) obvinění zkonstruovaly; vyjadřuje přání, aby pro obě bylo „připraveno speciální oddělení pekla" a lituje, že Bartók coby bývalý policista to ve vazbě nemusí mít lehké. Zdůrazňuje, že podobné falešné obvinění z týrání dítěte znal i z vlastní rodiny a jeho dopady na dítě jsou velmi těžké. Zmiňuje, že celá „vlastenecká scéna" (patriotická opozice mimo parlamentní strany) je v současnosti silně rozprášená — jako další příklad uvádí i vlastní případ místopředsedy hnutí Pavla Fíly a osudy Ivana Kratochvíla.
+
+### Exekuce proti Vrabelově manželce kvůli účtu na demonstrace
+
+Vrabel dále popisuje, že jeho manželka čelí exekuci na základě soudního rozhodnutí týkajícího se bankovního účtu, na který se vybíraly (dle Vrabela zcela legálně) peníze na demonstrace. Označuje rozhodnutí soudu za výsledek koordinovaného postupu policie, státních zástupců a soudců ve spojení s tajnými službami — „hajzl soud" bez řádného odůvodnění. Zmiňuje také, že se mu dříve podařilo u soudu prosadit právo zastupovat manželku (což mu bylo předtím odepřeno) a dostat syna z „šílených řízení".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 26. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-26-7-2026)
+
+---
+
 ## Kauza Filip Turek — nejmenování ministrem a spor s Nerudovou
 
 ### Policie nepotvrdila hajlování — výzva Pavlovi k jmenování a omluvě (Šejna, 28. 7. 2026)

@@ -510,3 +510,13 @@ Jemenské povstalecké hnutí Húsíové v noci z 22. na 23. 7. zaútočilo bali
 Americký Senát poměrem hlasů 49:47 zablokoval rezoluci (předloženou demokraty v rámci zákona o válečných pravomocích), která měla prezidenta Trumpa zavázat k získání souhlasu Kongresu pro další vojenské operace proti Íránu. Trump si tak podle Vrabela zachovává plnou ústavní volnost jednání jako vrchní velitel ozbrojených sil — včetně možnosti nasadit jaderné zbraně. Vrabel z těsného, ale napříč stranami rozděleného hlasování usuzuje, že rozdělení na republikány a demokraty je iluzorní: když jde o Ameriku, Izrael, Rusko nebo Ukrajinu, hlasují obě strany fakticky stejně — přirovnává to k současné české koalici a opozici, které si sice navzájem nadávají, ale při hlasováních o klíčových zahraničněpolitických otázkách jednají shodně. Z toho vyvozuje, že Trump nebude mít důvod se před podzimními volbami do Kongresu (midterms) „brzdit" a bude moci ve válce s Íránem pokračovat bez omezení.
 
 **Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
+---
+
+### USA povolí Saúdské Arábii obohacovat uran; dvě zemětřesení v Íránu (Vrabel, 26. 7. 2026)
+
+Spojené státy jsou připraveny povolit Saúdské Arábii obohacování uranu ve spolupráci s americkou firmou Westinghouse — Vrabel poukazuje na to, že o povolení už nerozhoduje Mezinárodní agentura pro atomovou energii ve spolupráci s OSN, ale přímo Donald Trump, a srovnává to s odepřením práva na jadernou energetiku Íránu (který byl za totéž bombardován). Vysvětlení vidí v tom, že Saúdská Arábie na rozdíl od Íránu nakoupila velké množství amerických státních dluhopisů. Souběžně došlo v Íránu ke dvěma silným zemětřesením v rychlém sledu (magnituda až 5,7) — Vrabel to komentuje ironickou narážkou na možnost cíleného ovlivňování počasí/geologické aktivity, aniž by tvrzení blíže rozvádí.
+
+⚡ **Poznámka:** Narážka na řízené vyvolání zemětřesení není ničím podložena.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 26. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-26-7-2026)
