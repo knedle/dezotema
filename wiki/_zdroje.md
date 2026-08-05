@@ -3336,3 +3336,12 @@
 - **Délka:** 00:03:47 | Zhlédnutí: 129 382
 - **Poznámka:** Zpracováno 1 téma: reakce na experta na extremismus Aleše Michala (ČRo), který navrhl jeho zařazení do zprávy o extremismu — [media-propaganda.md](media-propaganda.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál: požáry Španělsko, Kamov (27. 7. 2026) {#konspirátor-boldy--videoportál-požáry-španělsko-kamov-27-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-27_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1349078960174083>
+- **Datum záznamu:** 2026-07-27
+- **Délka:** 00:01:12 | Zhlédnutí: 27 073
+- **Poznámka:** Zpracováno 1 téma: sankce EU brání Španělsku opravovat ruské hasicí vrtulníky Kamov během požárů — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

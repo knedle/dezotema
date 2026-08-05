@@ -50,6 +50,9 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 ### [Blízký východ](../blizky-vychod.md)
 - Mlčení médií o Gaze jako propaganda — nezávislí novináři mrtví/zajatí — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
 
+### [Suverenita a EU](../suverenita-eu.md)
+- Sankce EU brání Španělsku opravovat ruské hasicí vrtulníky Kamov během požárů — spojeno s odmítáním amerických základen — [27. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-požáry-španělsko-kamov-27-7-2026)
+
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii, srovnání s NSA — [9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
 
@@ -119,3 +122,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 - [Videoportál 17. 7. 2026 (iluze čerstvosti)](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti)
 - [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+- [Videoportál 27. 7. 2026 (požáry Španělsko, Kamov)](../_zdroje.md#konspirátor-boldy--videoportál-požáry-španělsko-kamov-27-7-2026)

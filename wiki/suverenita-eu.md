@@ -599,3 +599,13 @@ Na Karvinsku začalo zasypávání první jámy dolu ČSM — posledního činn�
 > „Zasypáváme svoje uhelné doly, naše bohatství, naši energii [...] aby se k tomu nikdo nemohl dostat." — Ladislav Vrabel, [Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+
+---
+
+### Sankce EU brání Španělsku hasit požáry ruskými vrtulníky Kamov (Boldy, 27. 7. 2026)
+
+Boldy tvrdí, že Španělsko během aktuálních rozsáhlých požárů (lesy i budovy) nemůže nasadit své ruské hasicí vrtulníky Kamov Ka-32, protože kvůli sankcím EU vůči Rusku si nemůže objednat náhradní díly potřebné k jejich provozu — vrtulníky tak zůstávají na zemi. Spojuje to se svou tezí, že Španělsko je jednou z mála zemí, která odmítá umístění amerických vojenských základen na svém území (protože přítomnost americké základny dělá ze země legitimní cíl Ruska) — naznačuje, že škody způsobené sankcemi jsou jistou formou postihu za tento postoj.
+
+⚡ **Poznámka:** Tvrzení o nemožnosti opravit vrtulníky Kamov kvůli sankcím nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Boldy — Videoportál 27. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-požáry-španělsko-kamov-27-7-2026)
