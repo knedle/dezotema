@@ -525,7 +525,11 @@ Dopis žádá prezidenta o využití ústavních pravomocí (čl. 62G a 63.1K) k
 
 Zítko líčí dosavadní průběh svého trestního stíhání za „šíření poplašné zprávy" (odsouzen na 3 roky nepodmíněně): zadržení 10. 10. 2023, evropský zatýkací rozkaz vydaný přesto, že už měl advokáta s plnou mocí ho zastupovat, 110 dní vazby, a zásah ozbrojené jednotky 3. 2. 2025 bez následného obvinění. K odvolání u Krajského soudu v Ústí nad Labem (rok čekání) nyní dorazila první reakce — podle Zítka soud veškeré předložené důkazy (ověřené kopie, místopřísežná prohlášení, přeložený dokument CDC o cca 150 tisících úmrtích po očkování v USA k 28. 8. 2021) zařadil do kategorie „dezinformace" s odůvodněním, že to nebylo odvysíláno v televizi. Srovnává to s bitcoinovou kauzou (100+ mld. Kč), kde po roce stále nepadlo obvinění, a uzavírá, že justice funguje jako „ochranka gaunerů v korporaci".
 
-**Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026)
+**6. 8.** — Zítko oznamuje, že Krajský soud v Ústí nad Labem jeho odvolání nakonec vyhověl usnesením (22 stran, 51 bodů) a vrátil věc zpět Okresnímu soudu v Chomutově k novému projednání — podle Zítka usnesení ve výrokové části konstatuje, že virus SARS-CoV-2 nebyl nikdy izolován, a proto jako původce nemoci COVID-19 „neexistuje". Interpretuje to jako důkaz, že se „věci hýbou" i uvnitř justice. Souběžně upozorňuje na falešné facebookové profily (napodobující názvy jeho kanálů), které šíří zprávy ČT o kauze zkresleně a slouží dle něj k jeho dehonestaci — vyzývá diváky, aby se z nich odhlásili.
+
+⚡ **Poznámka:** Tvrzení o obsahu usnesení Krajského soudu v Ústí nad Labem nelze ověřit z veřejně dostupných zdrojů — stejná výhrada jako u dříve citovaného dokumentu OS Chomutov výše.
+
+**Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026), [ČsTV2 — Videoportál 6. 8. 2026](_zdroje.md#československo-tv2--videoportál-6-8-2026)
 
 ---
 

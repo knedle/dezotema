@@ -3678,3 +3678,12 @@
 - **Délka:** 00:01:22 | Zhlédnutí: 6 714
 - **Poznámka:** Zpracováno 1 téma: Turkova nehoda přešla do trestního řízení (6–12 měsíců), Turek se dobrovolně vzdal postu zmocněnce — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (6. 8. 2026) {#československo-tv2--videoportál-6-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-06_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1057168030046277&_rdr>
+- **Datum záznamu:** 2026-08-06
+- **Délka:** 00:11:39 | Zhlédnutí: 668
+- **Poznámka:** Zpracováno 1 téma: Krajský soud v Ústí n. L. vyhověl odvolání, vrátil věc do Chomutova; tvrzení o konstatování neizolace viru v usnesení; falešné profily — [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
