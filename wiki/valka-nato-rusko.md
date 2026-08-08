@@ -949,4 +949,12 @@ Na nákladním letišti v Lipsku byl v noci na středu vyhlášen bezpečnostní
 
 Vrabel varuje, že Česká republika kopíruje vývoj, kterým si prošla Ukrajina před a během války: silnou protiruskou kampaň, zákaz jakéhokoli kontaktu s ruskými subjekty (sankce, za jejichž porušení hrozí vězení), potlačování politické opozice, která by nešla „mašírovat pod NATO a EU", a omezování svobody slova (např. tresty až 5 let za šíření zpráv z ruských zdrojů). Uzavírá, že pokud bude konflikt s Ruskem dále eskalovat tak, jak se na to Evropa aktuálně chystá, bude ČR touto „ukrajinskou cestou" pokračovat dál.
 
+---
+
+### Zelenskyj v Bělehradu — chladné přivítání, Vučić odmítá zbraně (Vrabel, 7. 8. 2026)
+
+Volodymyr Zelenskyj dorazil do Bělehradu na svou první návštěvu Srbska od nástupu do funkce — na letišti ho přivítala jen srbská ministryně hornictví a energetiky Dubravka Đedović Handanović, žádné fanfáry ani prezident Vučić (s ním se má sejít až následující den). Vrabel to sarkasticky rámuje jako důkaz nízké srbské priority vůči Zelenskému a připomíná Vučićovo předchozí veřejné prohlášení: Srbsko v žádném případě nezmění postoj vůči Rusku a nebude dodávat Ukrajině žádné zbraně — přislíbil jen pomoc s obnovou země až po skončení války, což Vrabel označuje za jedinou vstřícnou zprávu z celé návštěvy.
+
+**Zdroje:** [Vrabel — Zprávy v devět 7. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-8-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)

@@ -3687,3 +3687,12 @@
 - **Délka:** 00:11:39 | Zhlédnutí: 668
 - **Poznámka:** Zpracováno 1 téma: Krajský soud v Ústí n. L. vyhověl odvolání, vrátil věc do Chomutova; tvrzení o konstatování neizolace viru v usnesení; falešné profily — [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (7. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-7-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-07_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/27843311088624785>
+- **Datum záznamu:** 2026-08-07
+- **Délka:** 00:41:20
+- **Poznámka:** Vrabel — deník. Plně zpracováno 2 z 13 témat: kraje bez peněz na krajské silnice, Zelenskyj v Bělehradu — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

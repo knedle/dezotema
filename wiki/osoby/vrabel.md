@@ -582,6 +582,10 @@
 
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 2)
 - **6. 8.** — Irsko opouští vojenskou neutralitu, plán posílení armády a námořnictva — [Zprávy v devět 6. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+- **7. 8.** — kraje nedostanou peníze na silnice 2./3. třídy (poprvé od 2015) — spojuje s prioritou financí na dálnice/železnice pro vojenský přesun a zbrojení — [Zprávy v devět 7. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-8-2026)
+
+### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md) (pokrač. 3)
+- **7. 8.** — Zelenskyj v Bělehradu — chladné přivítání, Vučić odmítá dodávat zbraně, slibuje pomoc s obnovou po válce — [Zprávy v devět 7. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-8-2026)
 
 ---
 

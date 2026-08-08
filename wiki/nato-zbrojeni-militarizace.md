@@ -751,3 +751,11 @@ Vrabel komentuje rozhodnutí posílat na východní křídlo NATO 1600 vojáků 
 Irsko kvůli rostoucímu bezpečnostnímu napětí v Evropě plánuje nabrat tisíce nových vojáků a modernizovat námořnictvo — dosud patřilo (spolu s Rakouskem a Maltou) mezi poslední tři vojensky neutrální státy EU, přičemž jeho neutralita byla založena na historii britské okupace a válek za nezávislost. Vrabel na příkladu vlastní návštěvy Irska (přátelství a pohostinnost místních v Edinburghu) vyjadřuje osobní lítost nad koncem irské neutrality — zmiňuje osobní kontakt s irskou aktivistkou Melissou Comey a nedotažené plány na společnou protiválečnou demonstraci z roku 2023. Řadí Irsko mezi další „padlé" neutrální národy zatažené do konfliktu globalisty a varuje, že podobný osud (v krajním případě až srovnatelný s utrpením Ukrajinců) čeká i další země, které se aktivně nepostaví za svá práva.
 
 **Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+---
+
+### Kraje letos nedostanou peníze na opravy silnic 2. a 3. třídy — poprvé od roku 2015 (Vrabel, 7. 8. 2026)
+
+Kraje podle libereckého hejtmana Martina Půty letos nedostanou ze Státního fondu dopravní infrastruktury žádné peníze na opravy silnic 2. a 3. třídy — poprvé od roku 2015; ministerstvo dopravy argumentuje, že kraje letos přesto dostanou přes 4 mld. Kč na konkrétní projekty, ale na nenárokové opravy krajských silnic už nezbyla rezerva, protože přednost mají investice do dálnic, silnic 1. třídy a železnic. Vrabel to sarkasticky spojuje s předchozí zprávou o odloženém zvýšení slevy na jízdné (50 % místo slíbených 75 %) — obojí čte jako důsledek přesměrování veřejných peněz na zbrojení a podporu Ukrajiny: opravené dálnice, silnice 1. třídy a železnice mají sloužit především k převozu tanků a vojenské techniky, zatímco krajské silnice, po kterých se technika nepřesouvá, zůstávají bez financí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 7. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-8-2026)
