@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Konspirátor Boldy — Evropa zanikne a stane se muslimským státem do roku 2050 (31. 7. 2026)
+
+**Předpověď:** S odkazem na proroctví Nostradama (přirovnání migrantů přicházejících přes moře k „sarančatům") a Baby Vangy tvrdí, že Evropa tak, jak ji dnes známe, do roku 2050 zanikne a stane se muslimským státem — aktuální migrační krize v Ceutě je dle něj počátkem tohoto procesu.
+
+> „Stejně jako Evropu varovala Bába Vanga, která říkala, že do konce roku 2050 Evropa [...] zanikne a bude to vlastně muslimský stát." — Konspirátor Boldy, [Videoportál 31. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
+
+**Horizont:** do konce roku 2050
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Boldy — Videoportál 31. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
+
+---
+
 ### Ladislav Vrabel — Třetí světová válka pravděpodobněji vypukne v Íránu než na Ukrajině (28. 7. 2026)
 
 **Předpověď:** Ukrajinský útok na íránskou obchodní loď v Kaspickém moři může sloužit jako spouštěč propojení konfliktů Rusko–Ukrajina a USA–Írán do jednoho celosvětového střetu; Vrabel dlouhodobě předpokládá, že třetí světová válka je pravděpodobnější v Íránu než na Ukrajině. Přirovnává událost k Gleiwickému incidentu (1939) jako možné záměrné provokaci.

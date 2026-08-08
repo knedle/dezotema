@@ -39,6 +39,10 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Zařízení IceCube na Antarktidě vyvolává zemětřesení kdekoliv; kritika hnutí Alatra — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 - Darkweb (zbraně z Ukrajiny 3× dráž, obchod s dětmi, nájemní vrazi); „civilizace s amnézií" (obři, dávné technologie) — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 - Střelba na FF UK + Klánovický les jako odvedení pozornosti — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+- „Zombie virus" — incident ve Walmartu (obklíčen Národní gardou), spojeno s 5G/6G zářením a vakcínami jako biozbraní — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
+
+### [Migrace](../migrace.md)
+- Ceuta jako „plán elit na likvidaci Evropy" — armáda migrantům pomáhá, ne brání; financování Gates/Rockefeller nadacemi; predikce zániku Evropy (Nostradamus, Baba Vanga, do 2050) — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Odvolání Petra Pavla by nic nezměnilo — všichni prezidenti jsou loutky nadnárodních korporací — [7. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)

@@ -611,3 +611,11 @@ Zítko šíří obsáhlý text (přejatý od zahraničních autorů, sdílený p
 **Zdroje:** [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)
 
 ---
+
+### „Zombie virus" — incident ve Walmartu jako utajovaný experiment (Boldy, 31. 7. 2026)
+
+Boldy tvrdí, že ve světě koluje nový, médii zamlčovaný „zombie virus" — jako důkaz uvádí incident v americkém obchodě Walmart, kde měl muž „vypadající jako zombík" pokousat jiného člověka (oběť skončila v nemocnici, kde si měl personál všimnout, že se před očima měnil), a fakt, že obchod byl následně obklíčen Národní gardou — což podle Boldyho neodpovídá běžnému pokousání. Spojuje to se svou dřívější tezí o patentované vakcíně jako biologické zbrani a s tvrzením, že záření z 5G (a nastupujícího 6G) sítí způsobuje rakovinu — s odkazem na to, že zprávy CDC o riziku rakoviny z těchto technologií „čtené mezi řádky" varování potvrzují.
+
+**Zdroje:** [Boldy — Videoportál 31. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
+
+---
