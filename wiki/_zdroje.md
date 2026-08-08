@@ -3624,3 +3624,12 @@
 - **Délka:** 00:01:28 | Zhlédnutí: 23 942
 - **Poznámka:** Zpracováno 1 téma: humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (5. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-5-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-05_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1035365532416929>
+- **Datum záznamu:** 2026-08-05
+- **Délka:** 01:15:26
+- **Poznámka:** Vrabel — deník. Plně zpracováno 9 z 15 témat: 1600 vojáků na východní křídlo NATO, dron na letišti v Lipsku, Ceuta 15.8., EU 1,4 mld. eur ze zmrazených aktiv, teorie o likvidaci Slovanů, zákaz dočasné ochrany pro ukrajinské muže, ČR na „ukrajinské cestě", Hormuzský průliv v patu, Lotyšsko SS pohřeb/Thompson — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Rusko do Kyjeva) a stoch. teror („Černoch") extrahovány bezvýjimečně.
+- **Zpracováno:** ano

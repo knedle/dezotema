@@ -552,6 +552,21 @@
 ### [Kauzy a korupce](../kauzy.md) (pokrač.)
 - **4. 8.** — nedostatek léku Tamoxifen — „léková soběstačnost"; Rainer Füllmich — mučení ve vazbě, nemohl se rozloučit s umírající matkou — [Zprávy v devět 4. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
 
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač.)
+- **5. 8.** — 1600 vojáků na východní křídlo NATO jako prázdné gesto; EU uvolnila dalších 1,4 mld. eur ze zmrazených ruských aktiv (5. transfer, celkem ~8 mld.) — [Zprávy v devět 5. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md) (pokrač.)
+- **5. 8.** — dron s roznětkou na letišti v Lipsku jako další podezřelý „ruský" incident (paralela s Vrběticemi); ČR na „ukrajinské cestě" (potlačování opozice, protiruská kampaň); Lotyšsko — pohřeb veterána SS Waffen s vojenskými poctami, koncert Thompsona v Chorvatsku — [Zprávy v devět 5. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 3)
+- **5. 8.** — Ceuta: nová invaze plánovaná na 15. 8., cílený útok USA/CIA na Španělsko za odmítnutí vojenských základen; zákaz dočasné ochrany pro ukrajinské muže v bojovém věku nabyl účinnosti — obavy ze šedé ekonomiky a honů na lidi — [Zprávy v devět 5. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač.)
+- **5. 8.** — teorie o cílené likvidaci Slovanů/bílého muže skrze válku, Poláci „další na řadě", propojení s islamizací — [Zprávy v devět 5. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač. 3)
+- **5. 8.** — Írán–USA jednání o Hormuzském průlivu v patu, srovnání se stejným vzorcem jako Ukrajina/Gaza — [Zprávy v devět 5. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
 ---
 
 ## Zmíněné osoby

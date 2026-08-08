@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — ruská armáda dojde minimálně do Kyjeva, případně dál na západ (5. 8. 2026)
+
+**Předpověď:** Vrabel odhaduje, že pokud žádná ze stran ukrajinského konfliktu (ani íránského, ani izraelsko-palestinského) neustoupí, budou tyto konflikty pokračovat, dokud jedna strana vojensky nezvítězí. Je „stoprocentně přesvědčen", že ruská armáda dojde minimálně do Kyjeva, aby tam vyměnila vládu a převzala kontrolu nad celou Ukrajinou. Pokud bude eskalace ze strany evropských zemí (zbrojení, miliony vojáků, jaderné zbraně) pokračovat tak, jak se nyní chystají, připouští, že by ruská armáda mohla nakonec zajistit politická centra „dál na západ" — zmiňuje explicitně možnost postupu až do Bruselu — zdůrazňuje ale, že jde o jeho osobní odhad, ne o utajované informace.
+
+**Horizont:** neurčeno (podmíněno pokračující eskalací)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+---
+
 ### Ladislav Vrabel — západní část Ukrajiny se v příštích letech rozplyne do Polska a Maďarska (1. 8. 2026)
 
 **Předpověď:** K Trumpovu vyjádření o americké těžbě ukrajinských nerostů Vrabel predikuje, že se západní část Ukrajiny (ta, kterou nezabere Rusko) v příštích letech postupně „rozplyne" do sousedních zemí — Polska, Maďarska a dalších. Odkazuje na Putinovo vyjádření, že se v příštích 10 letech budou přepisovat hranice i dalších států EU.

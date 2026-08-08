@@ -233,6 +233,10 @@ Vrabel operaci označuje za „genocidu a etnickou čistku" — a připomíná n
 
 **Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026)
 
+**5. 8.** — K výročí operace Oluja (4.–7. 8.) Vrabel doplňuje nový příklad: v Lotyšsku byl s vojenskými poctami a čestnými salvami pohřben Laimonis Ezergallis (nar. 1923), bývalý příslušník Lotyšské legie Waffen-SS — Moskva pohřeb odsoudila jako oslavu nacistického kolaboranta. Zmiňuje také, že „včera" (4. 8.) proběhl v Chorvatsku výroční koncert nacionalistického zpěváka Thompsona s odhadem až 400 000 návštěvníků a provoláváním nacistických hesel — opakování už zaznamenaného vzorce. Uzavírá, že se z Evropy „stává nacistická a fašistická" tím, jak podobné akty beztrestně velebí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
 ---
 
 ### 85. výročí masakru v Garavicích — paralela chorvatského a ukrajinského nacionalismu (Vrabel, 27. 7. 2026)
@@ -928,3 +932,19 @@ Polské letectvo vyslalo dvojici stíhaček k identifikaci ruského průzkumnéh
 V reakci na nepřesně formulovaný divácký komentář (že slovenský soud „rozhodl, že Rusko není agresor") Vrabel podrobně vysvětluje skutečný obsah rozsudku ve věci Štefana Harabina: slovenský soud nerozhodl, že Rusko agresorem není, ale že o tom nemůže rozhodnout, protože podle mezinárodního práva by o statusu agresora musela rozhodnout Rada bezpečnosti OSN — a ta o Rusku takto nerozhodla. Harabin byl žalován za schvalování ruské agrese (tvrdil, že by na místě Putina jednal stejně), obhájil se argumentem, že bez rozhodnutí Rady bezpečnosti nelze prokázat, že se Rusko agrese dopustilo, a soud tuto argumentaci přijal. Vrabel zdůrazňuje, že jde o rozdíl mezi „soud řekl, že Rusko není agresor" a „soud řekl, že to nelze hodnotit" — a apeluje na přesnost při šíření takových zpráv, aby nevznikaly zbytečné nepřesnosti.
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+---
+
+### Dron s roznětkou na letišti v Lipsku — další v sérii podezřelých „ruských" incidentů (Vrabel, 5. 8. 2026)
+
+Na nákladním letišti v Lipsku byl v noci na středu vyhlášen bezpečnostní poplach poté, co byl v těsné blízkosti ukrajinského nákladního letounu Antonov nalezen dron s připevněnou roznětkou a neznámou látkou; pyrotechnici jej řízeně zneškodnili, německé úřady vyšetřují, zda šlo o cílenou hrozbu. Vrabel incident řadí do série podobných událostí (dronové incidenty v Bulharsku, Polsku, Rumunsku, útoky na železnice a letiště), které mají podle něj obyvatelstvu sugerovat, že na Evropskou unii útočí Rusko — přirovnává to k výbuchu muničních skladů ve Vrběticích, po kterém jako jediný důkaz zůstaly dva ruské pasy. Cíl takových akcí (kdo je provádí a proč) nechává otevřený s tím, že si na to má každý odpovědět sám.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+---
+
+### Česká republika na „ukrajinské cestě" — varování před domácí militarizací a potlačováním opozice (Vrabel, 5. 8. 2026)
+
+Vrabel varuje, že Česká republika kopíruje vývoj, kterým si prošla Ukrajina před a během války: silnou protiruskou kampaň, zákaz jakéhokoli kontaktu s ruskými subjekty (sankce, za jejichž porušení hrozí vězení), potlačování politické opozice, která by nešla „mašírovat pod NATO a EU", a omezování svobody slova (např. tresty až 5 let za šíření zpráv z ruských zdrojů). Uzavírá, že pokud bude konflikt s Ruskem dále eskalovat tak, jak se na to Evropa aktuálně chystá, bude ČR touto „ukrajinskou cestou" pokračovat dál.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)

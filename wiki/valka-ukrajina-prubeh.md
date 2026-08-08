@@ -854,6 +854,10 @@ Donald Trump v telefonickém interview zopakoval, že Ukrajina má rozsáhlé z�
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 
+**5. 8.** — Vrabel rozvíjí tuto tezi v diskusi se známým: souhlasí s názorem, že cílem konfliktu je zlikvidovat slovanské (bílé) muže — Ukrajinci byli první, protože jsou to (podle jeho slov) početný a militantní národ; předpokládá, že dalším cílem po nich budou Poláci, jako další silný a semknutý evropský národ. Zvažuje i širší rámec — že nejde jen o Slovany, ale o útok na bílého (heterosexuálního) muže obecně, a dává to do souvislosti s islamizací západních společností (muslimští starostové ve Velké Británii, vítězství progresivního muslimského kandidáta Abdula El-Sayeda v primárkách demokratů v Michiganu) jako paralelní frontu téhož jevu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
 ---
 
 ### Ruský útok na sklad munice v Chmelnycku — „atomový" hřib z podzemního protiatomového krytu (Vrabel, 2. 8. 2026)

@@ -551,6 +551,10 @@ Saúdský korunní princ Muhammad bin Salman telefonicky vyzval Trumpa, aby se z
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
 
+**5. 8.** — Jednání mezi Íránem a USA (a spojenci) o Hormuzském průlivu zůstávají podle WSJ na mrtvém bodě: Teherán požaduje bezpečnostní záruky, zrušení sankcí a ukončení americké námořní blokády, Washington trvá na tom, že se nejdřív musí obnovit volná plavba. Vrabel v tom vidí stejný vzorec jako u Ruska/Ukrajiny a Izraele/Hamásu — Západ oznámí, že se druhá strana na podmínkách shodla, aby se posléze ukázalo, že žádná ze stran ve skutečnosti neustoupila, protože obě si drží svou vyjednávací páku (Írán uzavřený průliv, Rusko vojenskou převahu). Předpokládá, že žádný z těchto tří konfliktů se v dohledné době (spíš měsíce až roky) nevyřeší, dokud jedna strana vojensky nezvítězí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
 ---
 
 ### Izrael odmítl dodat Ukrajině systém Iron Dome (Vrabel, 3. 8. 2026)

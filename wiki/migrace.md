@@ -235,6 +235,10 @@ Ve druhém videu z téhož dne (Facebook Live) Vrabel k eskalaci v Ceutě dodáv
 
 **1. 8.** — Opakování téže argumentace (von der Leyenová, hlasování Kateřiny Konečné pro legální cesty) bez nového posunu — doplňuje jen mechanismus, jak se z „nelegálního" migranta stává legální žadatel o azyl (nahlášení nezletilosti bez dokladů, záchrana v mezinárodních vodách) a že Itálií dočasně vyhlášené uzavření Schengenu pro Španělsko je jen politické gesto se stejným nulovým reálným efektem — [Zprávy v devět 1. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 
+**5. 8.** — Podle deníku ABC se na marockých sociálních sítích šíří výzvy k nové hromadné akci proti Ceutě plánované na 15. 8. 2026 (organizují ji stejné účty jako minulý nájezd, hlásí se k ní řádově statisíce lidí; hesla typu „poslední příležitost" Vrabel přirovnává k rétorice organizátorů demonstrací z roku 2023). Rozvíjí tezi o cíleném útoku administrativy USA (skrytě přes CIA) na španělskou vládu za to, že odmítla poskytnout Trumpovi vojenské základny a jakoukoli podporu ve válce s Íránem, a naopak jej kritizovala — dokládá to časovou návazností (Meloni oznámila uzavření hranic, pak Švédsko a Andrej Babiš vyzvali k vyřazení Španělska ze Schengenu, poté už 22 zemí EU). Cílem podle něj není zastavit nelegální migraci (na tu vyřazení ze Schengenu nemá žádný vliv, protože nelegální migranti hranice stejně neprochází legálně), ale podkopat politickou podporu současné španělské vlády u vlastních občanů a připravit její pád — analogicky k odstranění Viktora Orbána a rumunského kandidáta Călina Georgescu, tedy vynutit si vládu ochotnou plně podporovat NATO a poskytnout USA základny pro válku na Blízkém východě. Označuje to za „teroristický útok na španělskou suverenitu".
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
 ---
 
 ### Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)
@@ -347,6 +351,12 @@ Ke zprávě, že Španělsko eviduje ~900 tis. (a dle NGO brzy přes milion) ž�
 Evropská komise chce prodloužit dočasnou ochranu pro uprchlíky z Ukrajiny, ale zúžit její rozsah — Německo a další státy podporují omezení pro muže ve vojenském věku (uváděno 23–60, resp. 18–60), zejména pro nově příchozí. Vrabel to čte jako krok, jak ukrajinské muže schopné boje „posílat na frontu". Zároveň opakuje, že vytvořením dočasné ochrany se Ukrajinci trvale přesunuli do hostitelských zemí (ČR, Polsko) a „už nikdy neodejdou", čímž se tyto země „rozbily". Komentuje fotku Ursuly von der Leyen s ukrajinskou (ne unijní) vlajkou na prsou — „kouká na mě peklo".
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+
+**5. 8.** — Opatření nabylo účinnosti: od dneška ukrajinští žadatelé ve věku 18–60 let, kteří nedoloží průkazku o splnění vojenské povinnosti, už nemohou žádat o dočasnou ochranu (mohou požádat jen o azyl, který jim ale pravděpodobně nebude udělen, protože jsou schopni bojovat na Ukrajině). Vrabel to označuje za „barbarské a fašistické" a jedinečné v porovnání s jinými skupinami uprchlíků (Eritrejce, Syřany, Afghánce nikdy nikdo nevracel bojovat do jejich zemí s odkazem na Ženevskou úmluvu) — tvrdí, že tak Evropa postupuje výhradně vůči Ukrajincům. Předpovídá, že to výsledně zvětší v ČR a Evropě šedou ekonomiku (lidé bez dokladů budou pracovat „na černo" pro mafie ze strachu z odhalení) a vytvoří nebezpečné hony na tyto lidi ze strany státu, při nichž může přijít o život i řada policistů — protože dotyční se budou bránit tomu, aby byli posláni na frontu, kde na ně podle zpráv čeká i násilí od domácí vojenské mafie (braní zlata, dokladů, karet, zastřelení při odmítnutí).
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+---
 
 ### Florida, islám a migrační pakt platný v ČR — Vrabel (19. 6. 2026)
 

@@ -429,7 +429,9 @@ Finanční depozitář Euroclear se odvolal proti rozhodnutí Moskevského arbit
 
 > „Podle mě by to měly vzít jim z platu — od Uršuly von der Leyen přes Kaju Kalas až po Andreje Babiše, protože ty všichni to odmávali." — Ladislav Vrabel, [Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 1. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-6-2026)
+**5. 8.** — EU uvolnila pro Ukrajinu dalších 1,4 mld. eur z výnosů (úroků z hotovostních zůstatků) zmrazených ruských rezerv — jde už o pátý takový převod, dosud vyneslo cca 8 mld. eur; samotná jistina (přes 210 mld. eur) zůstává zablokovaná. 95 % částky míří přes „úvěrový mechanismus" na Ukrajinu, zbytek přes Evropský mírový nástroj. Vrabel to označuje za krádež cizích peněz srovnatelnou s americkým zmrazením 100 mld. dolarů Íránu — a varuje, že až konflikt skončí, účet nakonec zaplatí evropští daňoví poplatníci.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
 
 ---
 
@@ -733,5 +735,13 @@ V podniku VOP CZ v Šenově u Nového Jičína byla zahájena výroba 246 bojov�
 Evropská komise vyplatila Ukrajině dalších 3,47 miliardy EUR (~84 mld. Kč) z vojenské části unijní půjčky, určených na nákup vojenské techniky včetně dronů, raket a stíhaček Gripen. Vrabel k tomu opakuje svou tezi, že „Evropská unie" jako taková neexistuje a nemá žádné vlastní peníze ani vlastní občany — je to jen byrokratický nadstát, který si nárokuje právo brát peníze občanům členských států (přirovnává to k farmáři, který „dojí své krávy" a mléko pak rozdává jinam). Posílané peníze podle něj Ukrajina přeměňuje na rakety a drony používané k útokům na Ruskou federaci, které ale platí evropští daňoví poplatníci.
 
 **Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+---
+
+### 1600 vojáků na východní křídlo NATO jako prázdné gesto (Vrabel, 5. 8. 2026)
+
+Vrabel komentuje rozhodnutí posílat na východní křídlo NATO 1600 vojáků (namísto zvažovaných 4400) jako v podstatě bezvýznamné politické gesto — v okamžiku, kdy by došlo k otevřenému konfliktu NATO s Ruskou federací, půjde podle něj rovnou o desetitisíce až statisíce vojáků a rozdíl mezi 1600 a 4400 nebude hrát žádnou roli. Uzavírá, že by tam neměl být posílán „ani jeden".
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
 
 ---
