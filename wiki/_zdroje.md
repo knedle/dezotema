@@ -3660,3 +3660,12 @@
 - **Délka:** 00:46:02
 - **Poznámka:** Vrabel — deník. Plně zpracováno 6 z 12 témat: Ceuta/Lex Ukrajina 7, dron Lipsko (doplnění), Trump/Vance/Thiel technokracie, Írán–Omán Hormuz, klimatický adaptační plán, Irsko neutralita — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (zlato/stříbro) extrahována bezvýjimečně. Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (6. 8. 2026) {#restart-česko--videoportál-6-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-06_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1093562326572077>
+- **Datum záznamu:** 2026-08-06
+- **Délka:** 00:02:13 | Zhlédnutí: 5 243
+- **Poznámka:** Zpracováno 1 téma: demografická náhrada jako nevyhnutelná i v „nejlepším scénáři" (občanství, porodnost), rada mladým mužům — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

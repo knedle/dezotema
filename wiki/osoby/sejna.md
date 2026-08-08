@@ -32,6 +32,10 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 - Akcelerační zóny snížené na 11 % — chválí Filipa Turka jako „vítěze" boje proti větrníkům — [2. 8.](../_zdroje.md#restart-česko--videoportál-2-8-2026-1)
 
+### [Migrace a islamizace](../migrace.md)
+
+- Demografická náhrada jako nevyhnutelná i v „nejlepším scénáři" (občanství, porodnost); rada mladým mužům — [6. 8.](../_zdroje.md#restart-česko--videoportál-6-8-2026)
+
 ---
 
 ## Zmíněné osoby
