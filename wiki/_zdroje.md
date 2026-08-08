@@ -3723,3 +3723,12 @@
 - **Délka:** 00:45:41 | Zhlédnutí: 134
 - **Poznámka:** Zpracováno 3 témata: (1) trestní oznámení na Petra Fialu za „přípravu útočné války" — [kauzy.md](kauzy.md). (2) trestní oznámení „genocida národa, vakcinační holokaust" — [covid-vakciny.md](covid-vakciny.md), stoch. teror extrahován. (3) spor s advokátem Tušlem, teorie o zfalšovaném zatýkacím videu Čermáka — [kauzy.md](kauzy.md). Zbytek (opakované čtení usnesení) je repeat z 6.–7. 8. Bez predikcí.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (8. 8. 2026) {#jindřich-rajchl--videoportál-8-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-08_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1687490385670529>
+- **Datum záznamu:** 2026-08-08
+- **Délka:** 00:03:06 | Zhlédnutí: 6 670
+- **Poznámka:** Zpracováno 1 téma: migrační pakt a Ceuta — čl. 57, komise 15. 10., „salámová metoda" u výjimky ČR, tvrzení o financování Sea Watch/CI/SOS Humanity — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

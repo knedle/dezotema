@@ -96,6 +96,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **30. 7.** — nová policejní čísla k dávkové turistice (300 případů, 18 mil. Kč škody) — trvá na tom, že jde jen o „špičku ledovce" — [Videoportál 30. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dávková-turistika-policejní-čísla-30-7-2026)
 - **2. 8.** — Ceuta jako „invaze, ne migrace", ČT lže o návratu migrantů; migrační pakt — první zpráva Vysoké komise 15. 10., Johansson dnes vyslankyní EU pro Ukrajinu — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 - **4. 8.** — debata s Piráty (Volpe) — Ceuta a „ruské dezinformační weby" — [Videoportál 4. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-4-8-2026)
+- **8. 8.** — migrační pakt a Ceuta: čl. 57 (alternativní pomoc jen na žádost státu), komise 15. 10. určuje kvóty, „salámová metoda" u výjimky ČR; tvrzení o financování Sea Watch/CI/SOS Humanity z německého rozpočtu — [Videoportál 8. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-8-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)

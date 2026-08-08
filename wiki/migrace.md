@@ -303,6 +303,12 @@ Navazuje na [Migrační pakt: Rakušan jediný z V4 pro (Rajchl, 12. 6.)](#migra
 
 **Zdroje:** [Rajchl — FB Live: Green Deal, 14. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
 
+**8. 8.** — V rozhovoru pro CNN Prima News (přenositém jako klip) Rajchl aplikuje tutéž mechaniku konkrétně na krizi v Ceutě: nezletilí migranti budou převezeni do Španělska a Evropská komise pro migraci každoročně 15. října vyhodnotí, které země jsou pod vysokým migračním tlakem, a určí, kolik migrantů musí ostatní státy povinně převzít — s tím, že 30 000 osob a platba 20 000 eur za osobu jsou minima, ne maxima. Cituje konkrétně **čl. 57** klíčového nařízení migračního paktu (pakt se skládá z deseti dokumentů): alternativní materiální pomoc místo přijetí migrantů je možná jen tehdy, pokud o ni zatížený stát sám požádá — pokud si to Španělsko nevyžádá, žádná taková možnost není ve hře. Výjimku ČR (díky přijatým ukrajinským uprchlíkům) popisuje jako dočasnou „salámovou metodu" — jednou vyprší a ČR bude muset migranty (z Ceuty i odjinud) přijímat stejně. Dodává nepodloženou tezi, že mezi organizacemi provozujícími záchranné lodě jsou Sea Watch, CI a SOS Humanity financované z německého státního rozpočtu.
+
+⚡ **Poznámka:** Tvrzení o financování Sea Watch, CI a SOS Humanity z německého státního rozpočtu nelze ověřit z veřejně dostupných zdrojů — tyto organizace se financují převážně z darů a nadačních grantů.
+
+**Zdroje:** [Rajchl — Videoportál 8. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-8-8-2026)
+
 ---
 
 ### Migrační pakt připravovala Babišova vláda (Hamáček); nelze opustit bez vystoupení z EU — Vrabel (14. 6. 2026)
