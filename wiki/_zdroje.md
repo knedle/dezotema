@@ -3669,3 +3669,12 @@
 - **Délka:** 00:02:13 | Zhlédnutí: 5 243
 - **Poznámka:** Zpracováno 1 téma: demografická náhrada jako nevyhnutelná i v „nejlepším scénáři" (občanství, porodnost), rada mladým mužům — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (6. 8. 2026) (2) {#restart-česko--videoportál-6-8-2026-1}
+- **Soubor:** [přepis](prepisy/done/2026-08-06_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/27814746098182832>
+- **Datum záznamu:** 2026-08-06
+- **Délka:** 00:01:22 | Zhlédnutí: 6 714
+- **Poznámka:** Zpracováno 1 téma: Turkova nehoda přešla do trestního řízení (6–12 měsíců), Turek se dobrovolně vzdal postu zmocněnce — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

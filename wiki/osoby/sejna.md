@@ -17,6 +17,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Petr Pavel nejmenoval Turka ministrem — výzva ke jmenování a omluvě — [28. 7.](../_zdroje.md#adam-šejna--petr-pavel-nejmenoval-turka-ministrem-28-7-2026)
 - Obhajoba Turka proti výroku Nerudové — [28. 7.](../_zdroje.md#adam-šejna--nerudová-o-turkovi-28-7-2026)
 - Bára Štěpánková — připomínka staršího výroku o fotkách s dětmi — [31. 7.](../_zdroje.md#adam-šejna--bára-štěpánková-pokrytectví-31-7-2026)
+- Turkova nehoda přešla do trestního řízení (6–12 měsíců), dobrovolná rezignace na post zmocněnce — [6. 8.](../_zdroje.md#restart-česko--videoportál-6-8-2026-1)
 
 ### [Rodina, děti a genderová ideologie](../rodina-deti.md)
 

@@ -441,6 +441,10 @@ Boldy poukazuje na dvojí metr kolem Turkovy nehody: když před rokem v květnu
 
 **Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 
+**6. 8.** — Adam Šejna informuje, že kauza přešla do trestního řízení, což prodlouží dobu do vydání rozhodnutí z původně odhadovaného jednoho měsíce na 6–12 měsíců — což čte jako nestandardní postup policie. Zdůrazňuje, že Turek se funkce vládního zmocněnce pro Green Deal (nehonorované) vzdal dobrovolně, aniž by k tomu měl morální či právní důvod (šetření nebylo uzavřeno), a interpretuje to jako gesto pokory. Lituje ztráty „největšího bojovníka proti Green Dealu" v kritické fázi boje o průmysl a odmítá „politizaci" nehody s odkazem na to, že v ČR se loni stalo přes 85 tisíc dopravních nehod.
+
+**Zdroje:** [Restart Česko — Videoportál 6. 8. 2026 (2)](_zdroje.md#restart-česko--videoportál-6-8-2026-1)
+
 ---
 
 ## EET 2.0 — likvidace malého podnikání
