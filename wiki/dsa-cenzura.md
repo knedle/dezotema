@@ -250,3 +250,11 @@ Soudní dvůr Evropské unie potvrdil odsouzení tří osob v Německu za zveře
 Boldy komentuje zákaz vstupu Davida Ickeho do zhruba 30 zemí jako další případ umlčování nepohodlných postav („chtějí umlčet, protože se o tato témata zajímá čím dál víc lidí"). Řadí sem i to, že v Německu má podle něj hrozit až pět let vězení za sdílení a podporu televize RT a názorů oponujících vládnoucímu narativu — označuje to za „totalitní režim" a „korporátní darwinismus" (buď sdílíš mainstream a jsi volný, nebo sdílíš „pravdu" a jdeš „za katr"). Navazuje na jeho tezi o cenzuře Facebooku a mazání videí (viz [YouTube smazal přes milion videí](dsa-cenzura.md#youtube-smazal-přes-milion-videí-o-vakcínách-umlčovaní-vědci-boldy-17-7-2026)).
 
 **Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Sankční seznam EU z roku 2014: sdílení RT/Sputniku jako trestný čin (Vrabel, 30. 7. 2026)
+
+Vrabel při přípravě rozhovoru pro ruské médium zjistil, že unijní nařízení Rady EU z roku 2014 zařazuje tisíce osob a firem na sankční seznam s odůvodněním, že „ohrožují územní celistvost Ukrajiny" nebo „jednají v rozporu s ústavou Ukrajiny" — mezi ně patří i mediální domy jako RT a Sputnik. Z toho vyvozuje, že sdílení obsahu z takto sankcionovaných médií by mohlo být v ČR trestné až pětiletým odnětím svobody — přestože Ukrajina není členem EU a její ústava nemá s právním řádem Unie nic společného. Vrabel to označuje za absurdní: dohody podobného typu (viz [Bezpečnostní dohoda Polsko–Ukrajina](valka-nato-rusko.md#bezpečnostní-dohoda-polskoukrajina-jako-nástroj-k-potírání-opozice-před-válkou-vrabel-30-7-2026)) pak umožňují stíhat politicky nepohodlné lidi jako šiřitele „ruské propagandy".
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)

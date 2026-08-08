@@ -423,3 +423,11 @@ K mediální zprávě, že budoucnost malých modulárních reaktorů (SMR) je �
 Vrabel referuje o čínském technologickém pokroku ve vývoji komerční jaderné fúze (úspěšné testy supravodivých magnetů pro experimentální fúzní reaktor, dokončení plánováno na 2027, první elektřina z fúze kolem roku 2030) a staví to do kontrastu s tím, čím se podle něj zabývá Západ — válkou, zbrojením a tiskem nekrytých peněz vedoucím k inflaci. Bytové ceny, nájmy a jídlo jsou dle něj oproti stavu před deseti lety řádově dražší, což považuje za typický příznak blížícího se krachu ekonomického systému.
 
 **Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Sucho odstavuje jaderné elektrárny v Rumunsku a Maďarsku — kontrast se 4× levnější energií v Srbsku (Vrabel, 30. 7. 2026)
+
+Kvůli mimořádnému suchu a nízkému průtoku Dunaje musely být odstaveny oba bloky rumunské jaderné elektrárny Černá Voda (téměř pětina spotřeby elektřiny v zemi, výpadek ~1300 MW) — chladicí čerpadla nemohou fungovat pod bezpečnou hranicí hladiny vody; rumunský premiér vyzval domácnosti a průmysl k dobrovolnému omezení odběru ve večerní špičce. Podobně byl kvůli suchu odstaven jeden blok maďarské elektrárny Paks (pokles z 2000 na 1200 MW). Vrabel to řadí do širšího obrazu energetické krize Západu (spolu s předchozí zprávou o nedostatku uranu pro malé modulární reaktory, viz výše) a kontrastuje to se Srbskem, které díky zachování ruských energetických dodávek má 4,5× levnější elektřinu a 4× levnější plyn. Spekuluje, že klimatická agenda EU (přechod na elektřinu, dvojnásobná spotřeba do budoucna) povede k umělému nedostatku energie a deindustrializaci, přičemž zmiňuje i sérii útoků na elektrárny po celém světě (Maďarsko, Rumunsko, Austrálie, USA) jako možný širší vzorec.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)

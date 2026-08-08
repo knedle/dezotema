@@ -175,3 +175,11 @@ Evropská komise oznámila, že Google porušil pravidla nařízení o digitáln
 Vrabel zmiňuje novou funkci sociální sítě Meta (Facebook/Instagram), která umožňuje ověřit identitu uživatele prostřednictvím video-selfie — řadí ji ke svým dlouhodobě sledovaným tématům postupného rozšiřování digitální identity a ověřování totožnosti v online prostoru.
 
 **Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
+---
+
+### EU plán AI „gigatováren" — skutečným cílem je sběr dat, ne konkurenceschopnost (Vrabel, 30. 7. 2026)
+
+Evropská komise vyhlásila plán na výstavbu až sedmi AI „gigatováren" s cílem posílit technologickou suverenitu Evropy vůči USA a Číně (10 mld. eur z veřejných zdrojů, očekávaných dalších 20 mld. eur soukromých investic; cíl Ursuly von der Leyenové: Evropa jako „přední kontinent" v umělé inteligenci). Vrabel to označuje za nereálné — Evropa dle něj v závodě o umělou inteligenci (mezi USA — OpenAI, Anthropic — a Čínou — DeepSeek a další) „není ani kvalifikovaná", nemá vlastní GPS systém ani komunikační infrastrukturu (Facebook, WhatsApp, Google běží přes USA) a technologicky zaostává o desetiletí. Skutečným smyslem gigatováren je podle něj shromažďování dat pro byrokracii — konkrétně evidenci veškerého movitého i nemovitého majetku občanů (včetně zlata a elektroniky) — nikoli konkurenceschopnost v AI.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)

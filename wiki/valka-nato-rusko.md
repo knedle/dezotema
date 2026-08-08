@@ -902,3 +902,11 @@ Proti Pavlovu tvrzení, že Ukrajina má „dva měsíce" do ruské eskalace, Ra
 V rámci 21. sankčního balíčku proti Rusku Evropská unie umožní členským státům prodat náklad z lodí spojených s tzv. ruskou stínovou flotilou, které byly zadrženy při námořních kontrolách — dosud mohly být lodě jen zadrženy, nyní je možné zabavené zboží (nejen ropu, ale i obilí a další ruské produkty) přímo prodat. Cílem je dál omezit fungování stínové flotily, kterou Rusko využívá k obcházení sankcí. Vrabel to označuje za „klasický banditismus" a srovnává s postupem Donalda Trumpa vůči Venezuele (zajetí prezidenta s manželkou, uvěznění, ukradení venezuelské ropy) — EU si podle něj vzala z tohoto přístupu příklad a nyní krade a prodává ruskou ropu a obilí na moři stejným způsobem. Varuje, že podobné jednání bude mít následky („karma, zákon příčiny a následku"), které Evropskou unii bolestně dostihnou.
 
 **Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+
+---
+
+### Bezpečnostní dohoda Polsko–Ukrajina jako nástroj k potírání opozice před válkou (Vrabel, 30. 7. 2026)
+
+Polský prezident podepsal zákon naplňující bilaterální dohodu o spolupráci bezpečnostních složek Polska a Ukrajiny v boji proti kriminalitě — podle některých médií může vytvořit právní rámec pro působení ukrajinské bezpečnostní služby SBU přímo na polském území. Vrabel to spojuje s pozorováním bývalého vojenského zpravodajce, že rok před vypuknutím války se typicky podepisují bezpečnostní a obranné dohody a zároveň se vytvářejí zákony znemožňující jít proti připravované válce (likvidace politické opozice). Odkazuje na obdobný mechanismus, kterým podle něj funguje unijní sankční seznam z roku 2014 (viz [Sankční seznam EU: sdílení RT/Sputniku jako trestný čin](dsa-cenzura.md#sankční-seznam-eu-z-roku-2014-sdílení-rtsputniku-jako-trestný-čin-vrabel-30-7-2026)) — dohoda mezi Polskem a Ukrajinou by tak mohla sloužit k trestnímu stíhání politicky nepohodlných osob označených Kyjevem za „šíření ruské propagandy".
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)

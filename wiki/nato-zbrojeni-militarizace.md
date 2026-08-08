@@ -711,3 +711,19 @@ Vrabel spočítal náklady incidentu, kdy tři stíhačky F-16 vzlétly kvůli s
 **Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
 
 ---
+
+### Raketa dopadla v Polsku — absence protivzdušné obrany NATO; Tusk „50 na 50" (Vrabel, 30. 7. 2026)
+
+Raketa (podle polského premiéra Donalda Tuska pravděpodobně ruská střela typu Ch-101) dopadla na poli asi 45 km jižně od Lublinu; podle ukrajinské strany proti ní měl bezúspěšně zasahovat polský F-16. Vrabel z incidentu (dopad 300 km od českých hranic bez jakékoli reálné reakce kromě mediálního rozruchu) vyvozuje, že NATO nemá funkční protivzdušnou obranu — opakuje svou tezi o neúnosné ekonomice sestřelování dronů (500 tisíc dolarů na jeden zásah, viz výše) a poukazuje na absenci civilní ochrany (kryty, plynové masky) v ČR navzdory rétorice o přípravě na konflikt s Ruskem. Kritizuje Tuskovo prohlášení, že „příštích 100 dní" rozhodne o výsledku války a že šance na (ukrajinské) vítězství jsou „50 na 50" — označuje takovou předpověď za projev buď mentální nemoci, nebo prodejnosti zahraničním zájmům, a trvá na tom, že konflikt se v tak krátké době nemůže rozhodnout, protože ani jedna strana není ochotná se vzdát.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
+
+---
+
+### Výroba obrněných vozidel CV90 v Šenově — bezpečnostní riziko zbrojní výroby (Vrabel, 30. 7. 2026)
+
+V podniku VOP CZ v Šenově u Nového Jičína byla zahájena výroba 246 bojových vozidel pěchoty CV90 (švédská licence) pro armádu ČR — investice do infrastruktury přes 80 mil. Kč, dvě nové výrobní linky. Vrabel k tomu (s odkazem na vlastní anekdotu o europoslankyni Kateřině Konečné, rodačce právě z Nového Jičína) varuje, že zapojení do zbrojní výroby dělá z daných měst legitimní vojenský cíl v případě přímého konfliktu s Ruskem — analogicky k tomu, jak sám zdůvodňuje legitimitu ukrajinských útoků na ruské zbrojovky. Přirovnává situaci k seriálu *Peaky Blinders*, kde je bombardována birminghamská muniční továrna s dělnicemi uvnitř, a doporučuje divákům zvážit rizika práce v podobném provozu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
+
+---

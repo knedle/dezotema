@@ -1005,3 +1005,13 @@ Zítko tvrdí, že pupečníková šňůra by se měla po porodu nechat „dotep
 Zítko tvrdí (s odvoláním na informaci „od pilota") a na spis uložený u okresního soudu v Chomutově (kauza, v níž byl obžalován za šíření poplašné zprávy), že po zavedení covidových vakcín docházelo u pilotů k opakovaným kolapsům ve vysoké letové hladině — s odkazem na dokument CDC z 28. 8. 2021 dokládající zaznamenané případy pilotů British Airways. Letecké společnosti na to podle něj zareagovaly zavedením „třetího pilota" fakticky maskovaného za stevarda — pracovníka schopného pilotovat v případě, že by oba řádní piloti kolabovali současně —, přičemž odbory měly spor o to, aby byl tento záložní pilot placen jako pilot, ne jako stevard. Soudkyně Iva Dvořáková, která jeho případ rozhodovala, celý tento spis podle Zítka bez dalšího zkoumání označila za dezinformaci.
 
 **Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
+
+---
+
+## Fauci se odvolal na 5. dodatek — kontrast s beztrestností v ČR (Vrabel, 30. 7. 2026)
+
+Anthony Fauci byl předvolán k výslechu před americký Senát (na návrh senátora Randa Paula) ohledně původu COVID-19 a financování gain-of-function výzkumu — na více než sto otázek odpověděl odvoláním na pátý dodatek americké ústavy (právo nevypovídat, pokud by se tím mohl usvědčit) a nepromluvil prakticky vůbec, včetně banální otázky na datum. Vrabel to dává do souvislosti s tím, že Rand Paul předtím zveřejnil Fauciho soukromý deník, v němž měl na začátku pandemie 9 z 11 konzultovaných vědců uvést, že virus pravděpodobně unikl z laboratoře ve Wu-chanu — ačkoli Fauci veřejně tvrdil, že se odborníci shodují na přirozeném původu (trh se zvířaty).
+
+Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob covidu je dnes znovu ministrem zdravotnictví bez jakéhokoli vyšetřování či důsledků, zatímco ministerstvo se chlubí novým plánem spolupráce se Světovou zdravotnickou organizací na období 2026–2027 (očkování, digitalizace a „potírání dezinformací" — což podle Vrabela v praxi znamená mazání účtů jako je ten jeho). Připomíná, že jediné „vyšetřování" covidu v ČR proběhlo formou parlamentního semináře svolaného Jindřichem Rajchlem, který skončil jen tím, že Andrej Babiš řekl, že je mu líto, že se stalo pár chyb — bez jakékoli odpovědnosti či nápravy. Sám Vrabel byl naopak odsouzen za podvod kvůli formuláři žádosti o odškodnění, zatímco stát podle něj sám podváděl na vakcínách zlikvidovaných za 8 miliard Kč.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)

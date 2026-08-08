@@ -805,3 +805,13 @@ Dmitrij Medveděv označil zprávy o chystané nové vlně mobilizace v Rusku za
 **Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
 
 ---
+
+### Nuland přiznala sabotáž mírových jednání 2022 — USA/Francie doznaly cílení dronů (Vrabel, 30. 7. 2026)
+
+Bývalá vysoká představitelka amerického ministerstva zahraničí Viktoria Nulandová v rozhovoru s ruským novinářem naznačila, že ona a další západní představitelé v roce 2022 nesouhlasili s částmi tehdejšího návrhu mírové dohody mezi Ruskem a Ukrajinou (dojednávané v Turecku, těsně před podpisem), protože by podle nich omezovaly budoucí vojenské možnosti Ukrajiny. Vrabel to čte jako potvrzení své dlouhodobé teze, že mírová jednání v březnu 2022 byla záměrně sabotována ze Západu (Boris Johnson a další přiletěli za Zelenským s příslibem plné podpory a zbraní) — s odkazem na pozdější přiznání Angely Merkelové, že Minské dohody sloužily jen k získání času na dozbrojení Ukrajiny.
+
+Souběžně Financial Times a dříve Politico potvrdily, že USA a Francie poskytují Ukrajině zpravodajské informace (satelitní snímky, souřadnice cílů) používané při plánování dronových úderů na ruské území. Vrabel to označuje za formální doznání toho, co tvrdí od začátku — že jde o válku Západu proti Rusku vedenou skrze Ukrajinu (financování, zbraně, zpravodajství), nikoli o čistě ukrajinský konflikt — a předpokládá, že Rusko na tento posun bude muset dříve či později reagovat.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
+
+---
