@@ -3525,3 +3525,12 @@
 - **Délka:** 00:00:46 | Zhlédnutí: 4 906
 - **Poznámka:** Opakování beze změny — bohoslužba za Prague Pride v kostele (stejné téma jako předchozí video téhož dne) — jen zdroj přidán k [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (2. 8. 2026) {#československo-tv2--videoportál-2-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-02_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1379440967447820&_rdr>
+- **Datum záznamu:** 2026-08-02
+- **Délka:** 01:06:54 | Zhlédnutí: 360
+- **Poznámka:** Zpracováno 3 témata: (1) Dr. Kirk Moore zproštěn obvinění (solný roztok místo vakcíny) — [covid-vakciny.md](covid-vakciny.md). (2) Senátoři u grilování Fauciho jako hollywoodští herci (Reynolds, Cruise) — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). (3) Fauciho rodina — dcera cenzurovala na Twitteru, manželka NIH Bioethics — [covid-vakciny.md](covid-vakciny.md). Zbytek (GITMO, seznam českých lékařů, VAERS) je opakování beze změny. Stochastický teror: Francis Collins (doživotí) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.
+- **Zpracováno:** ano

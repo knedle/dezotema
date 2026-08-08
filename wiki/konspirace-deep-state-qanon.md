@@ -31,6 +31,14 @@ V dubnu 2026 Zítko přidává další „důkazy" totožnosti herců za elity: 
 
 ---
 
+### Senátoři u grilování Fauciho jako hollywoodští herci v přestrojení (Zítko, 2. 8. 2026)
+
+Zítko rozšiřuje narativ o dvojnících/hercích na senátory účastnící se slyšení Anthonyho Fauciho (29. 7.): domnívá se, že velmi razantní senátoři mohli být ve skutečnosti hollywoodští herci vystupující „v rámci dohody o vině a trestu" — konkrétně senátora Joshe Hawleyho ztotožňuje s hercem Ryanem Reynoldsem a senátora Bernieho Morena s Tomem Cruisem. Navazuje na svou dřívější tezi, že dítě přítomné při Trumpově přísaze byl ve skutečnosti herec Paul Walker v roli J. D. Vanceho. Dále identifikuje ženu v civilu za Fauciho jako možnou Caroline Kennedyovou (podle světle modré kšiltovky s nápisem „Carolina") a poukazuje, že ke konci slyšení se na jejím místě objevila žena v uniformě americké armády — což čte jako signál, že „všechno je pod kontrolou armády".
+
+**Zdroje:** [ČsTV2 — Videoportál 2. 8. 2026](_zdroje.md#československo-tv2--videoportál-2-8-2026)
+
+---
+
 ### Save the Children: adrenochrom a záchrana dětí z tunelů
 
 Zítko šíří QAnon narativ o záchranné operaci „Save the Children": děti jsou prý vyprošťovány z podzemních tunelů, kde vládnoucí elity provozovaly výrobu a distribuci adrenochromu. Záchrana těchto dětí je „prioritou číslo jedna" probíhající globální vojenské operace. Zítko sám tvrdí, že byl přítomen „zabodávání" dětí ve věku 5–12 let v pražském nákupním centru Kotva v prosinci 2021.
