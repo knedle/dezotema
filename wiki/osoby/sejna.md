@@ -27,6 +27,10 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 - Boj proti „politicko-vojenské mafii", Green Dealu a von der Leyenové; mobilizace k eurovolbám 2029 — [31. 7.](../_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026)
 
+### [Větrné elektrárny](../vetrniky.md)
+
+- Akcelerační zóny snížené na 11 % — chválí Filipa Turka jako „vítěze" boje proti větrníkům — [2. 8.](../_zdroje.md#restart-česko--videoportál-2-8-2026-1)
+
 ---
 
 ## Zmíněné osoby

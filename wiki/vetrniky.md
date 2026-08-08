@@ -266,3 +266,11 @@ Boldy tvrdí, že větrné elektrárny ve vodě (Dánsko) svými vibracemi nič�
 ⚡ **Poznámka:** Tvrzení o hromadném úhynu ryb způsobeném vibracemi větrníků a o „dronech na hubení hmyzu" nejsou doložena.
 
 **Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+
+---
+
+### Akcelerační zóny snížené na 11 % — Šejna chválí Filipa Turka jako „vítěze" boje proti větrníkům (2. 8. 2026)
+
+Adam Šejna hodnotí vývoj akceleračních zón jako jednoznačné vítězství ministra Filipa Turka (Motoristé): podle něj se rozsah zón snížil na 11 % z původních 100 % — navazuje tím na dříve zdokumentovaný postup zúžení ze 110 na 61 lokalit (viz [ČR nemá od EU žádnou povinnost větrníky stavět](#čr-nemá-od-eu-žádnou-povinnost-větrníky-stavět--jen-dobrovolný-závazek-30--oze-vrabel-24-7-2026)), byť s jiným metrikou (podíl plochy/zón, ne počet lokalit). Na rozdíl od Vrabelova skeptičtějšího rámování (zdůrazňujícího, že šlo o čistě dobrovolný vládní závazek, který mohl být zrušen zcela) Šejna Turkův výsledek prezentuje jako aktivní vybojovaný úspěch — spojuje ho s Turkovým bojem proti neziskovkám na ministerstvu životního prostředí a zdůrazňuje, že bez tohoto zmenšení by ČR musela EU platit vysoké sankce za nedodržení závazku předchozí vlády.
+
+**Zdroje:** [Restart Česko — Videoportál 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026-1)

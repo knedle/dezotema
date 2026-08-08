@@ -3507,3 +3507,12 @@
 - **Délka:** 00:00:52 | Zhlédnutí: 21 889
 - **Poznámka:** Zpracováno 1 téma: bohoslužba za Prague Pride v kostele — „pošlapávání křesťanské víry" — [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (2) (2. 8. 2026) {#restart-česko--videoportál-2-8-2026-1}
+- **Soubor:** [přepis](prepisy/done/2026-08-02_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1390082159724058>
+- **Datum záznamu:** 2026-08-02
+- **Délka:** 00:00:56 | Zhlédnutí: 7 662
+- **Poznámka:** Zpracováno 1 téma: akcelerační zóny snížené na 11 % — chválí Filipa Turka jako „vítěze" boje proti větrníkům — [vetrniky.md](vetrniky.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
