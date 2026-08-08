@@ -3705,3 +3705,12 @@
 - **Délka:** 00:01:03 | Zhlédnutí: 4 121
 - **Poznámka:** Zpracováno 1 téma: policie potvrdila reálnost Turkových rasistických příspěvků, kritika výběrovosti médií — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (7. 8. 2026) (2) {#restart-česko--videoportál-7-8-2026-1}
+- **Soubor:** [přepis](prepisy/done/2026-08-07_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/29062696936652785>
+- **Datum záznamu:** 2026-08-07
+- **Délka:** 00:00:52 | Zhlédnutí: 4 694
+- **Poznámka:** Zpracováno 1 téma: kritika státního financování Prague Pride, ohrožení morální výchovy dětí — [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
