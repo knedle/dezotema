@@ -831,3 +831,27 @@ Podle britského deníku The Guardian zasáhl Rusko při jednom z nedávných ú
 **Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 
 ---
+
+### USA plánují opustit vedení skupiny SAKU ve Wiesbadenu — další důkaz konfliktu NATO vs. Rusko (Vrabel, 1. 8. 2026)
+
+Podle serveru Politico plánují Spojené státy opustit vedoucí roli ve skupině pro podporu bezpečnosti Ukrajiny (SAKU), struktuře NATO se sídlem v německém Wiesbadenu, která od roku 2022 koordinuje dodávky zbraní, výcvik ukrajinských vojáků a předávání zpravodajských informací — vedení má převzít jiný spojenec (evropská země nebo Kanada), USA ale zůstanou na pozici zástupce velení. Vrabel v tom vidí další přímé potvrzení své teze, že jde o konflikt NATO (nikoli jen USA) vůči Rusku: struktura NATO v Německu předává Ukrajincům přesné souřadnice vojenských cílů a trénuje ukrajinské vojáky v zacházení se zbraněmi, které jim samo NATO dodává — Ukrajinu proto popisuje jako „páté kolo u vozu" tohoto konfliktu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+---
+
+### USA chtějí obnovit mírová jednání — Rusko už „nenaletí", Rubio připisuje pokus k volbám (Vrabel, 1. 8. 2026)
+
+Podle ministra zahraničí Marka Rubia se USA v nadcházejících týdnech pokusí obnovit jednání mezi Ruskem a Ukrajinou, ale obě strany trvají na svých zásadních podmínkách. Vrabel k tomu doplňuje kontext z rozhovoru Rubio–Lavrov v Manile (30–35 minut, převážně formální zdvořilosti): Lavrov už otevřeně řekl, že dohoda z Anchorage (Aljašky) fakticky padla, protože Ukrajina na ni nepřistoupila — Rusko podle Vrabela dalším americkým nabídkám znovu nenaletí, jen si je „vyslechne a zváží". Odhaduje, že skutečným důvodem americké snahy obnovit jednání nejsou reálné šance na dohodu, ale blížící se americké „midterms" volby do Kongresu — Trump potřebuje působit jako mírotvůrce, který slíbil ukončit konflikt „za 24 hodin". Navazuje na jeho dřívější tezi o sabotáži jednání 2022 (Nuland, Boris Johnson) — viz výše.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+---
+
+### Trump: Ukrajina má nerostné bohatství, „vezmeme si co chceme" — Harabin o Anglosasech štvoucích Slovany (Vrabel, 1. 8. 2026)
+
+Donald Trump v telefonickém interview zopakoval, že Ukrajina má rozsáhlé zásoby vzácných zemin a dalších strategických surovin, na jejichž těžbě se mohou podílet americké firmy podle dohody v hodnotě „stovek miliard dolarů" — doslova řekl, že USA „mohou přiletět kdykoli chtějí a vzít si, co chtějí". Vrabel to čte jako důkaz, že USA si Ukrajinu fakticky „koupily" (byť polovina nerostného bohatství leží pod územím Donbasu, které kontroluje Rusko). Připomíná citát Štefana Harabina z osobního setkání v roce 2023 v Bratislavě: jsou to „Anglosasové", kdo žene bratrské slovanské národy (ukrajinský a ruský) proti sobě, aby se navzájem vyvraždily a Západ získal jejich území a nerostné bohatství. Predikuje, že se západní část Ukrajiny (na rozdíl od té, kterou zabere Rusko) v příštích letech postupně „rozplyne" do Polska, Maďarska a dalších sousedních zemí — Ukrajina už dnes má méně než polovinu předválečného obyvatelstva a její obnovu má podle dřívějších dohod řídit americká korporace BlackRock.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+---

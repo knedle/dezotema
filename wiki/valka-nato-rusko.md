@@ -910,3 +910,19 @@ V rámci 21. sankčního balíčku proti Rusku Evropská unie umožní členský
 Polský prezident podepsal zákon naplňující bilaterální dohodu o spolupráci bezpečnostních složek Polska a Ukrajiny v boji proti kriminalitě — podle některých médií může vytvořit právní rámec pro působení ukrajinské bezpečnostní služby SBU přímo na polském území. Vrabel to spojuje s pozorováním bývalého vojenského zpravodajce, že rok před vypuknutím války se typicky podepisují bezpečnostní a obranné dohody a zároveň se vytvářejí zákony znemožňující jít proti připravované válce (likvidace politické opozice). Odkazuje na obdobný mechanismus, kterým podle něj funguje unijní sankční seznam z roku 2014 (viz [Sankční seznam EU: sdílení RT/Sputniku jako trestný čin](dsa-cenzura.md#sankční-seznam-eu-z-roku-2014-sdílení-rtsputniku-jako-trestný-čin-vrabel-30-7-2026)) — dohoda mezi Polskem a Ukrajinou by tak mohla sloužit k trestnímu stíhání politicky nepohodlných osob označených Kyjevem za „šíření ruské propagandy".
 
 **Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
+
+---
+
+### Polské stíhačky zachytily ruský průzkumný letoun nad Baltem — „z komára velblouda" (Vrabel, 1. 8. 2026)
+
+Polské letectvo vyslalo dvojici stíhaček k identifikaci ruského průzkumného letounu bez letového plánu (nebo s vypnutým transpondérem), letícího v mezinárodním vzdušném prostoru cca 40 km severně od Kolobřehu — polský ministr obrany zdůraznil, že letoun polský vzdušný prostor nenarušil. Vrabel incident ironicky přirovnává k obviněnému ze znásilnění, který na oběť z druhé strany ulice jen mrkl, aniž by se k ní přiblížil nebo ji jakkoliv napadl — jde podle něj o typický příklad toho, jak se z běžné a legální situace (let v mezinárodním vzdušném prostoru bez omezení) vytváří poplašná zpráva. Navazuje na jeho opakovanou tezi o „salámové metodě" eskalace (viz výše).
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+---
+
+### Harabinův rozsudek „Rusko není agresor" — Vrabel opravuje nepřesnou interpretaci (1. 8. 2026)
+
+V reakci na nepřesně formulovaný divácký komentář (že slovenský soud „rozhodl, že Rusko není agresor") Vrabel podrobně vysvětluje skutečný obsah rozsudku ve věci Štefana Harabina: slovenský soud nerozhodl, že Rusko agresorem není, ale že o tom nemůže rozhodnout, protože podle mezinárodního práva by o statusu agresora musela rozhodnout Rada bezpečnosti OSN — a ta o Rusku takto nerozhodla. Harabin byl žalován za schvalování ruské agrese (tvrdil, že by na místě Putina jednal stejně), obhájil se argumentem, že bez rozhodnutí Rady bezpečnosti nelze prokázat, že se Rusko agrese dopustilo, a soud tuto argumentaci přijal. Vrabel zdůrazňuje, že jde o rozdíl mezi „soud řekl, že Rusko není agresor" a „soud řekl, že to nelze hodnotit" — a apeluje na přesnost při šíření takových zpráv, aby nevznikaly zbytečné nepřesnosti.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)

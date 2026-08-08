@@ -233,6 +233,8 @@ Ve druhém videu z téhož dne (Facebook Live) Vrabel k eskalaci v Ceutě dodáv
 
 **Zdroje:** [Vrabel — Facebook Live 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 
+**1. 8.** — Opakování téže argumentace (von der Leyenová, hlasování Kateřiny Konečné pro legální cesty) bez nového posunu — doplňuje jen mechanismus, jak se z „nelegálního" migranta stává legální žadatel o azyl (nahlášení nezletilosti bez dokladů, záchrana v mezinárodních vodách) a že Itálií dočasně vyhlášené uzavření Schengenu pro Španělsko je jen politické gesto se stejným nulovým reálným efektem — [Zprávy v devět 1. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
 ---
 
 ### Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)

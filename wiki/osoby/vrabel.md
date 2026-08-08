@@ -511,6 +511,18 @@
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
 - **31. 7.** — Rusko zasáhlo americkou továrnu Terminal Autonomy v Kyjevě — rámuje jako „válku Západu skrze Ukrajinu proti Rusku", predikuje eskalaci mimo Ukrajinu — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 - **31. 7.** — Bilecký (Azov): „nejsme nacisté, jsme nacionalisté" — Vrabel rozvádí vlastní definici rozdílu mezi nacionalismem a nacismem — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+- **1. 8.** — USA opouští vedení SAKU (Wiesbaden); USA chtějí obnovit mírová jednání, ale Rusko už „nenaletí" — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+- **1. 8.** — Trump: Ukrajina má nerostné bohatství, „vezmeme si co chceme"; citát Harabina o Anglosasech štvoucích Slovany; predikce rozplynutí západní Ukrajiny do Polska/Maďarska — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač. 2)
+- **1. 8.** — USA/Izrael připravují bombardování Íránu; odkaz na Žirinovského predikci 3. světové války na Blízkém východě — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač.)
+- **1. 8.** — rozdělená společnost jako nástroj kontroly (paralela USA republikáni/demokraté a ČR); ten, kdo mluví o míru, dělá totéž co předchůdce — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md)
+- **1. 8.** — polské stíhačky zachytily ruský průzkumný letoun nad Baltem — ironizuje jako „z komára velblouda" — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+- **1. 8.** — Harabinův rozsudek „Rusko není agresor" — podrobně opravuje nepřesnou interpretaci zprávy — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 
 ---
 
@@ -871,6 +883,8 @@
 | Daniel Křetínský | ❌ negativní | Jeho firma EPH se poprvé zařadila do Fortune Global 500 — Vrabel: důkaz profitu z vysokých cen elektřiny pro české domácnosti | 2026-07-28 | [Zprávy v devět 28. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026) |
 | Ursula von der Leyenová | ❌ negativní | Citát „nepustíme nikoho, kdo nerespektuje pravidla" k Ceutě — Vrabel: prázdné „chlazení davu" bez reálného obsahu | 2026-07-31 | [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026) |
 | Andrij Bilecký | ⚖️ rozporuplný | Zakladatel praporu Azov odmítající označení „nacista" — Vrabel s obhajobou symboliky souhlasí, ale trvá na tom, že Azov je nacistický kvůli potlačování Rusů | 2026-07-31 | [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026) |
+| Donald Trump | ❌ negativní | Otevřené zklamání — „největší válečný prezident, co pamatuju"; chystá bombardování Íránu | 2026-08-01 | [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026) |
+| Štefan Harabin | ✅ pozitivní | Osobní „kamarád" ze slovenské vlastenecké scény — citován s tezí o Anglosasech štvoucích Slovany proti sobě | 2026-08-01 | [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026) |
 
 ---
 
@@ -968,3 +982,4 @@
 - [Facebook Live (2) (28. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-2-28-7-2026)
 - [Zprávy v devět (28. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 - [Facebook Live (31. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+- [Zprávy v devět (1. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)

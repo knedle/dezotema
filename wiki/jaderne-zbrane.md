@@ -162,6 +162,8 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 **29. 7.** — Vrabel opakuje obavu z podpisu francouzské jaderné aliance (Rafale s raketami ASMP na území ČR) — bez nových argumentů, ale výslovně ji označuje za hlavní téma plánované podzimní demonstrace „Člověk na první místě" — [Zprávy v devět 29. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
 
+**1. 8.** — Opakuje tutéž tezi v souvislosti se zprávou o německo-francouzském jaderném cvičení a rétorikou o „přepevňování" cest a mostů pro přesun vojsk — bez nového posunu — [Zprávy v devět 1. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
 **30. 7.** — Vrabel znovu opakuje stejnou tezi (salámová metoda, útočné rakety, ne obranný „deštník") a naléhá, že demonstrovat je třeba **před** podpisem dohody Andrejem Babišem, ne až poté, kdy už „nebude pro co demonstrovat" — [Zprávy v devět 30. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
 
 ---

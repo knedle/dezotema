@@ -827,3 +827,11 @@ Vrabel referuje o Trumpově snaze prosadit u amerického Nejvyššího soudu př
 **Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 
 **Zdroje:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+
+---
+
+### Rozdělená společnost jako nástroj kontroly — ten, kdo mluví o míru, dělá to samé jako předchůdce (Vrabel, 1. 8. 2026)
+
+V souvislosti se zklamáním z Donalda Trumpa jako „válečného prezidenta" Vrabel zobecňuje pozorování na celý Západ včetně ČR: trend rozdělení společnosti na dva nepřátelské táboy (v USA republikáni/demokraté, v ČR obdobně) podle něj přišel po covidu a slouží k tomu, aby společnost nebyla schopná se sjednotit a prosadit vlastní zájmy — lidé jsou tak „otroky" politiků volených na 4 roky, kteří ve skutečnosti nezastupují občany, ale zbrojní lobby. Tvrdí, že vždy vyhrává ten, kdo mluví o míru, ale po zvolení dělá totéž co předchozí vláda — konkrétně srovnává současnou vládu (Babiš) s vládou Petra Fialy: ta předchozí otevřeně říkala, že chce zbrojit a jde proti Rusku, současná vláda podle něj dělá totéž, jen o tom mluví jinak (řeči o míru, realita opačná — pokračující zbrojení a financování Ukrajiny).
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)

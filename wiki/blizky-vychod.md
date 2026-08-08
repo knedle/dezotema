@@ -534,3 +534,11 @@ Spojené státy jsou připraveny povolit Saúdské Arábii obohacování uranu v
 Podle analytiků se konflikt mezi USA a Íránem dál rozšiřuje — poprvé od jeho vypuknutí byla přímo zasažena egyptská infrastruktura: letecký útok na přístav Damietta způsobil požár dvou plavidel včetně lodi Energos Winter patřící americké společnosti. K útoku se nikdo nepřihlásil; bezpečnostní analytici (CNN) to interpretují jako varovný signál, že Teherán je schopen zasáhnout cíle daleko za frontovou linií, případně prostřednictvím regionálních spojenců („osa odporu"). Vrabel to řadí do řady zemí postupně zatahovaných do konfliktu (předchozí den Irák, nyní Egypt) a rámuje to jako přímý přenos rozjíždějící se třetí světové války, kterou podle něj lidé navzdory dostupné komunikaci a technologiím stejně nejsou schopni rozpoznat.
 
 **Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+---
+
+### USA/Izrael připravují rozsáhlé bombardování Íránu — odkaz na Žirinovského předpověď (Vrabel, 1. 8. 2026)
+
+Podle amerických médií (CBS, CNN) USA a Izrael připravují rozsáhlou bombardovací kampaň zaměřenou především na íránskou energetickou infrastrukturu, útoky by mohly začít už během víkendu — Trump o tom mluvil den předem. Teherán varoval, že zásah nezůstane bez odvety a má připravený plán útoků na izraelské a americké cíle. Vrabel připomíná dřívější předpověď (dle Zuzky od Vladimira Žirinovského), že třetí světová válka nezačne na Ukrajině, ale na Blízkém východě, a vyjmenovává státy už zatažené do konfliktu (Egypt, Irák, Izrael, Libanon, Írán, Kuvajt, Saúdská Arábie, SAE, Bahrajn, Katar) — s tím, že brzy přijde na řadu i Sýrie. Doplňuje otevřené zklamání z Donalda Trumpa, kterého dříve podporoval a vychvaloval, ale nyní jej hodnotí jako „největšího válečného prezidenta", co pamatuje.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)

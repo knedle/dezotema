@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — západní část Ukrajiny se v příštích letech rozplyne do Polska a Maďarska (1. 8. 2026)
+
+**Předpověď:** K Trumpovu vyjádření o americké těžbě ukrajinských nerostů Vrabel predikuje, že se západní část Ukrajiny (ta, kterou nezabere Rusko) v příštích letech postupně „rozplyne" do sousedních zemí — Polska, Maďarska a dalších. Odkazuje na Putinovo vyjádření, že se v příštích 10 letech budou přepisovat hranice i dalších států EU.
+
+**Horizont:** cca 10 let
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+---
+
 ### Ladislav Vrabel — konflikt kolem amerických zájmů na Ukrajině brzy eskaluje mimo Ukrajinu (31. 7. 2026)
 
 **Předpověď:** K ruskému útoku na kyjevský závod americké firmy Terminal Autonomy (výroba útočných dronů) Vrabel předpovídá, že ruské údery na americké/západní zájmy zůstanou zatím jen na území Ukrajiny, ale že to „nebude trvat až zas tak dlouho", než konflikt eskaluje i mimo Ukrajinu.
