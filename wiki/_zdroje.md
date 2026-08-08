@@ -3426,3 +3426,30 @@
 - **Délka:** 00:01:29 | Zhlédnutí: 87 395
 - **Poznámka:** Zpracováno 1 téma: nová policejní čísla k dávkové turistice ukrajinských migrantů (300 případů, 18 mil. Kč) — rozšíření existujícího tématu — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (30. 7. 2026) {#ladislav-vrabel--zprávy-v-devět-30-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-30_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1039644475432768>
+- **Datum záznamu:** 2026-07-30
+- **Délka:** 01:13:53
+- **Poznámka:** Zpracováno 9 témat: (1) Fauci se odvolal na 5. dodatek, kontrast s beztrestností v ČR — [covid-vakciny.md](covid-vakciny.md). (2) Bezpečnostní dohoda Polsko–Ukrajina (SBU na polském území) — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Sankční seznam EU z 2014 — sdílení RT/Sputniku jako trestný čin — [dsa-cenzura.md](dsa-cenzura.md). (4) EU AI „gigatovárny" — sběr dat, ne konkurenceschopnost — [digitalni-kontrola.md](digitalni-kontrola.md). (5) Sucho odstavuje jaderné elektrárny v Rumunsku/Maďarsku — [ceny-energie.md](ceny-energie.md). (6) Raketa v Polsku, Tusk „50 na 50", absence protivzdušné obrany — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (7) Výroba CV90 v Šenově (+ anekdota Konečná) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (8) Nuland přiznala sabotáž mírových jednání 2022, USA/Francie doznaly cílení dronů — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (9) Eskalace v Ceutě — obchod s dětmi, žádné hranice ČR–Španělsko — [migrace.md](migrace.md). Opakování beze změny (jen zdroj): Rafale/ASMP jaderné zastřešení — [jaderne-zbrane.md](jaderne-zbrane.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál: Ceuta jako plán likvidace Evropy (31. 7. 2026) {#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-31_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/2229570001228360>
+- **Datum záznamu:** 2026-07-31
+- **Délka:** 00:05:50 | Zhlédnutí: 3 310
+- **Poznámka:** Zpracováno 3 témata: (1) Ceuta jako „plán elit na likvidaci Evropy" (Gates/Rockefeller financování) — [migrace.md](migrace.md). (2) „Zombie virus" — incident ve Walmartu, 5G/6G — [konspirace.md](konspirace.md). (3) Predikce Nostradama/Baby Vangy o zániku Evropy do 2050 — [predikce.md](predikce.md). Bez stoch. teroru.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Videoportál (31. 7. 2026) {#ladislav-vrabel--videoportál-31-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-31_Ladislav-Vrabel_Videoportál.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/4467509810190022>
+- **Datum záznamu:** 2026-07-31
+- **Délka:** 00:03:52 | Zhlédnutí: 3 158
+- **Poznámka:** Zpracováno 1 téma: eskalace Ceuty — migrační pakt vynutí přerozdělení do zemí, kde migranti „ještě nejsou" (Polsko, ČR, Slovensko, Maďarsko) — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

@@ -203,6 +203,30 @@ V reakci na divácké komentáře Vrabel upřesňuje právní argument, proč po
 
 ---
 
+### Eskalace v Ceutě: „obchod s dětmi", žádné hranice Španělsko–ČR (Vrabel, 30. 7. 2026)
+
+Vrabel referuje o zhoršující se situaci ve španělské enklávě Ceuta (přibližně 1 500 migrantů za týden, přeplněné kapacity pro nezletilé) a spojuje ji se zprávou o legalizaci až 3 milionů nelegálních migrantů španělskou vládou. Pouští video údajného únosu dítěte za bílého dne a varuje, že obchod s dětmi „kvetoucí" v Americe se může rozšířit i do Evropy. Zdůrazňuje, že hraniční plot v Ceutě je (na rozdíl od dobře střeženého maďarsko-srbského plotu) záměrně prostupný, a připomíná, že mezi Španělskem a ČR neexistují žádné hranice — proto vyzývá k opatrnosti ohledně vlastních dětí, nikoli jen k politickému tlaku na vystoupení z EU.
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
+
+---
+
+### Ceuta jako „plán elit na likvidaci Evropy" — Gates/Rockefeller financování (Boldy, 31. 7. 2026)
+
+Boldy interpretuje eskalaci v Ceutě (dle jeho čísel 49 tisíc migrantů) jako záměrný plán na likvidaci Evropy, nikoli živelnou krizi. Tvrdí, že španělská armáda vyslaná do ulic nebrání migrantům ve vstupu, ale naopak jim „odklízí cestu" a usnadňuje průchod, zatímco domobrana, která se snaží bránit obchody a domovy, nemá právo se bránit. Financování masové migrace přisuzuje neziskovým organizacím napojeným na Billa Gatese a Rockefellerovu nadaci po nedávné schůzce s Trumpem a Zuckerbergem, s jediným cílem: likvidací Evropy. Doplňuje spekulaci, že požáry ve Španělsku souvisejí s odmítnutím americké vojenské základny na jeho území. Cituje biblickou předpověď o „sarančatech" (přirovnání k příchozím přes moře) a předpovědi Nostradama a Baby Vangy, že Evropa (tak jak ji známe) do roku 2050 zanikne a stane se muslimským státem.
+
+**Zdroje:** [Boldy — Videoportál 31. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
+
+---
+
+### Migrační pakt vynutí přerozdělení do zemí, kde „ještě nejsou" — Polsko, ČR, Slovensko, Maďarsko (Vrabel, 31. 7. 2026)
+
+Vrabel k pokračující krizi v Ceutě (podle něj plánovaný příliv až 3 milionů migrantů) odmítá kroky některých vlád (italské hrozby uzavřením Schengenu, švédská výzva ke zrušení Schengenu) jako dočasný „populistický" gesta bez reálného efektu, protože migrační pakt zůstává právně závazný a vymahatelný. Tvrdí, že po legalizaci migrantů ve Španělsku bude následovat jejich přerozdělování — nikoli do Německa, Rakouska, Řecka, Nizozemska, Belgie, Švédska, Norska či Dánska, kde je podle něj „už jich moc", ale právě do zemí, kde dosud nejsou: Polska, České republiky, Slovenska a Maďarska. To dává jako důvod, proč musela být (dle jeho dřívějších tvrzení) vyměněna vláda v Maďarsku. Opakuje, že vládní tvrzení o „odmítnutí" migračního paktu jsou prázdná gesta a jediným legálním řešením zůstává vystoupení z EU.
+
+**Zdroje:** [Vrabel — Videoportál 31. 7. 2026](_zdroje.md#ladislav-vrabel--videoportál-31-7-2026)
+
+---
+
 
 ### Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)
 
