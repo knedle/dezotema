@@ -745,3 +745,11 @@ K blížícímu se odchodu ředitele Bezpečnostní informační služby (BIS) M
 **27. 7.** — V souvislosti s přípravou letošní zprávy o extremismu odešli z ministerstva vnitra úředníci, kteří se dlouhodobě podíleli na jejím sestavování — dle serveru Parlamentní listy kvůli neshodám nad podobou dokumentu a v minulosti podporovali zásahy státu proti „rizikovému obsahu" na internetu. Vrabel Parlamentní listy označuje za „hlásnou troubu" současné vlády, podobně jako ostatní média — podle něj jde jen o „rekorytarizaci" (výměnu lidí na postech, aby si noví mocní dosadili vlastní lidi), ne o skutečnou změnu přístupu. Jedinou reálnou změnou ve zprávě o extremismu je dle něj vyřazení vládního SPD ze seznamu sledovaných subjektů — jinak systém zůstává stejný: připomíná, že jeho hnutí neúspěšně žádalo ústavně-právní výbor Poslanecké sněmovny (JUDr. Vesecká), aby přehodnotil a rehabilitoval jeho manželku, kterou bezpečnostní služby označily za „bezpečnostní ohrožení státu" — výbor odpověděl, že do takových záležitostí nemá v úmyslu zasahovat. Jako doklad pokračující represe uvádí, že ve vězení zůstává Tomáš Čermák (za politická prohlášení) a že byl před dvěma měsíci odsouzen člověk za mikinu a auto s písmenem „Z".
 
 **Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---
+
+## Oganesianův gang — krádeže a poškozování registračních značek (Zítko, 28. 7. 2026)
+
+Zítko sdílí a komentuje video, kde se Vojtěch Přenák (dle Zítka člen „Oganesianova gengu") sám natočil, jak vrtačkou rozvrtal dopravní registrační značku — k tomu dodává, že tatáž skupina (spolu s „Blujovou" a dalším členem přezdívaným „Buštipan") se dlouhodobě vyznačuje přelepováním a krádežemi registračních značek, mj. u poslankyně Kateřiny Konečné, senátora Vydláka a dalších lidí v obcích Kurdějov a Soběšovice — což podle Zítka naplňuje skutkovou podstatu až tří paragrafů trestního zákoníku. Kritizuje, že si Přenák dřív na sociálních sítích „hrdinsky" dovolával ochrany ministra vnitra Rakušana, ačkoli ten už ve funkci není (nahradil ho Metnar) — a spekuluje, že pod novým vedením ministerstva nemusí být trestní stíhání tak shovívavé jako dřív.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)

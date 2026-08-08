@@ -198,3 +198,11 @@ Zítko reaguje na diváckou diskuzi pod videem (uživatelé „Bob Ejsr" a „Ja
 **Zdroje:** [Československo TV2 — Videoportál 24. 7. 2026](_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)
 
 ---
+
+### Údajná písemná odpověď Kanceláře prezidenta republiky potvrzuje neplatnost vlády k 1. 1. 1993 (Zítko, 28. 7. 2026)
+
+Zítko k dosavadní argumentaci (viz výše) doplňuje nový důkaz: podle něj obdržel oficiální písemnou odpověď přímo z Kanceláře prezidenta republiky, která potvrzuje, že vláda České republiky nebyla k 1. 1. 1993 nikdy formálně jmenována — protože v té době neexistoval platně zvolený prezident, který by jmenování mohl provést (Havel skončil v úřadu 20. července 1992, znovu zvolen až 2. února 1993).
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
+
+---

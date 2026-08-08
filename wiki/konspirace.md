@@ -587,3 +587,19 @@ Boldy tvrdí, že vražda v Klánovickém lese sloužila jako odvedení pozornos
 **Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 
 ---
+
+### „20 pravidel přežití v systému" — konspirační heuristika (Zítko, 28. 7. 2026)
+
+Zítko přednáší (jako „opakovačku z covid logiky", verze 2026) dvacetibodový seznam obecných pravidel pro rozpoznávání manipulace „systémem": co je oficiálně prohlašováno za bezpečné a účinné, je ve skutečnosti nebezpečné pro občana a výhodné jen pro toho, kdo na tom vydělává; výzva „důvěřuj vědě" znamená „nepokládej otázky"; shoda všech odborníků signalizuje, že jsou placeni ze společného zdroje; cokoli je oficiálně nazváno „dezinformací", je téměř jistě pravda; agresivní veřejné zesměšňování tématu znamená, že ohrožuje základy systému; politik-miliardář nikdy nejedná pro dobro lidí, ale pro posílení vlastní moci; a pokud je řešením problému více kontroly a méně svobody, byl problém vytvořen záměrně. Na tuto heuristiku napojuje konkrétní aplikaci: Československo nikdy nebylo členem EU ani NATO (viz [Rozdělení Československa jako vlastizrada](konspirace-ceskoslovensko.md)), zákaz kouření v restauracích byl „testem poslušnosti" a Green Deal (emisní povolenky, štítky na domy) je dalším uměle vytvořeným problémem k ospravedlnění další kontroly.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
+
+---
+
+### Školství jako nástroj indoktrinace — Rockefeller, Agenda 2030 (Zítko, 28. 7. 2026)
+
+Zítko kritizuje současný vzdělávací systém: děti stráví 15 let života uvnitř instituce, sedí v lavicích pod umělým osvětlením, jedí průmyslově zpracované jídlo a učí se nazpaměť fakta, která nikdy nepoužijí, přičemž jsou trestány za samostatné myšlení místo pokládání otázek. Tvrdí, že se na principu poslušnosti („držet hubu a krok") nic nezměnilo od reforem Marie Terezie a Josefa II. — tehdy šlo o výchovu vojáků a kněží, dnes o výchovu „ne příliš chytrých dělníků, aby byli schopni odporu", což připisuje záměru Johna D. Rockefellera. Do stejné linie řadí Agendu 2030 a koncept „patnáctiminutových měst", které mají dle něj vytvořit „digitální koncentrák", a dodává, že inkluze a další školská nařízení současný stav ještě zhoršují.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
+
+---

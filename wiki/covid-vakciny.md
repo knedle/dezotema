@@ -997,3 +997,11 @@ Zítko tvrdí, že pupečníková šňůra by se měla po porodu nechat „dotep
 **21. 7.** — Zítko opakuje tutéž tezi beze změny s odkazem na zahraniční lékařku Susan Humphreysovou (mateřské mléko a nedotčená pupečníková krev jako přirozená imunita nadřazená očkování) a doplňuje statistiku Ústavu pro matku a dítě v Praze (41 % porodů císařským řezem).
 
 **Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026), [Pavel Zítko — Videoportál: pozitivní zprávy 21. 7. 2026](_zdroje.md#pavel-zítko--videoportál-pozitivní-zprávy-21-7-2026)
+
+---
+
+## Piloti a vakcíny: „třetí pilot maskovaný za stevarda" (Zítko, 28. 7. 2026)
+
+Zítko tvrdí (s odvoláním na informaci „od pilota") a na spis uložený u okresního soudu v Chomutově (kauza, v níž byl obžalován za šíření poplašné zprávy), že po zavedení covidových vakcín docházelo u pilotů k opakovaným kolapsům ve vysoké letové hladině — s odkazem na dokument CDC z 28. 8. 2021 dokládající zaznamenané případy pilotů British Airways. Letecké společnosti na to podle něj zareagovaly zavedením „třetího pilota" fakticky maskovaného za stevarda — pracovníka schopného pilotovat v případě, že by oba řádní piloti kolabovali současně —, přičemž odbory měly spor o to, aby byl tento záložní pilot placen jako pilot, ne jako stevard. Soudkyně Iva Dvořáková, která jeho případ rozhodovala, celý tento spis podle Zítka bez dalšího zkoumání označila za dezinformaci.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
