@@ -3642,3 +3642,12 @@
 - **Délka:** 02:10:02 | Zhlédnutí: 347
 - **Poznámka:** Videorozbor reportáží ČT o bitcoinové kauze — převážně opakování už zdokumentovaného; zpracován dovětek: přesný časový sled předání elektroniky (13.–23. 12. 2024, jeden ze 46 nosičů přinesen až v březnu 2025), rekonstrukce s komparzisty, Uhlířova výplata 160 tis. Kč a jeho citát o „podvracení důvěry v právní stát", švýcarský precedent — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (6. 8. 2026) {#jindřich-rajchl--videoportál-6-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-06_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1508628934644254>
+- **Datum záznamu:** 2026-08-06
+- **Délka:** 00:01:02 | Zhlédnutí: 86 965
+- **Poznámka:** Zpracováno 1 téma (dovětek k debatě s Grolichem): expert Pavel Janeček dal Rajchlovi za pravdu ohledně OZE poplatků a ceny elektřiny — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

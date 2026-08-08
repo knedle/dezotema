@@ -772,7 +772,9 @@ K cenám elektřiny obhajuje politiku, kdy stát přebírá na sebe část popla
 
 **2. 8.** — Rajchl k téže debatě dodává rozbor nákladů na ukrajinskou migraci: odmítá tvrzení Grolicha, že Ukrajinci jsou pro ČR ekonomickým přínosem, s odkazem na policejní vyjádření o dávkové turistice jako „špičce ledovce" a na tabulku MPSV, kterou označuje za metodicky zkreslenou — na straně příjmů počítá se všemi daněmi placenými Ukrajinci (včetně odhadů u DPH), na straně výdajů ale jen s přímými dávkami, nikoli s náklady na zdravotnictví, školství či platy úředníků. Institut ekonomických studií v Kielu (metodika OECD) a New York Times odhadují reálné náklady na cca 250 mld. Kč ročně — 3–4× víc než číslo MPSV. Argumentuje analogií desátého nájemníka bytového domu, který platí nájem, ale ne podíl na společných službách (úklid, výtah, ostraha), a poukazuje na to, že 20 % Ukrajinců v ČR jsou děti/senioři a jen 60 % pracuje — ekonomicky srovnatelné s 20% nezaměstnaností, což nemůže být pro stát čistým přínosem.
 
-**Zdroje:** [Rajchl — TV debata: dotace zemědělcům, ceny energie, 29. 7. 2026](_zdroje.md#jindřich-rajchl--tv-debata-dotace-zemědělcům-ceny-energie-29-7-2026), [Rajchl — Facebook Live 2. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
+**6. 8.** — Rajchl cituje energetického experta Pavla Janečka, který mu k tezi o snížení ceny elektřiny přebráním OZE poplatků státem dal za pravdu — Grolichovu argumentaci (že je jedno, jestli náklad zaplatí občané, nebo státní rozpočet) označuje jako důkaz, že Grolich „tomu vůbec nerozumí".
+
+**Zdroje:** [Rajchl — TV debata: dotace zemědělcům, ceny energie, 29. 7. 2026](_zdroje.md#jindřich-rajchl--tv-debata-dotace-zemědělcům-ceny-energie-29-7-2026), [Rajchl — Facebook Live 2. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026), [Rajchl — Videoportál 6. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-6-8-2026)
 
 ---
 
