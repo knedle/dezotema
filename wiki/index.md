@@ -27,12 +27,17 @@ Obsah je organizován **tematicky** — každá stránka pokrývá jedno téma n
 | [FARA a neziskovky](fara-neziskovky.md) | Zákon o transparentnosti zahraničního financování neziskovek |
 | [Kauzy a korupce](kauzy.md) | Dozimetr, Bitcoin kauza, Hřib, Kettner, F-35 |
 | [Konspirační teorie](konspirace.md) | Konspirační teorie, elity, okultismus, QAnon |
+| [Konspirace: Československo](konspirace-ceskoslovensko.md) | Pokračující existence Československa, admiralty law, reparace, „Česko je plán" |
+| [Konspirace: Deep State a QAnon](konspirace-deep-state-qanon.md) | QAnon, EBS, MedBeds, biolaboratoře, falešní mesiášové, svržení Deep State |
 | [Média a propaganda](media-propaganda.md) | Kritika mainstreamových médií, algoritmy, dezinformace |
 | [Migrace a islamizace](migrace.md) | Migrační pakt, islamizace Západu, ukrajinská migrace |
+| [Petr Pavel](petr-pavel.md) | Prezident Petr Pavel — chování v úřadu, kauza NATO summitu v Ankaře, vztah k Sudetoněmeckému Landsmannschaftu |
 | [Politický systém](politicky-system.md) | Demokracie, volby, politická kultura |
 | [Rodina a děti](rodina-deti.md) | Rodičovská práva, gender a LGBT, demografická krize |
 | [Suverenita a EU](suverenita-eu.md) | Euro, EU, Green Deal, Evropský parlament a V4 |
-| [Válka, NATO a Rusko](valka-nato-rusko.md) | Válka na Ukrajině, eskalace NATO–Rusko, zbrojení, mírová jednání |
+| [Válka na Ukrajině — průběh a vyjednávání](valka-ukrajina-prubeh.md) | Příčiny války, průběh bojů, stav Ukrajiny a mobilizace, mírová jednání |
+| [NATO, zbrojení a militarizace](nato-zbrojeni-militarizace.md) | Zbrojení a vojenské výdaje, korupce ve zbrojních zakázkách, podřízenost ČR vůči NATO |
+| [Válka, NATO a Rusko (eskalace)](valka-nato-rusko.md) | Eskalace vztahu NATO–Rusko, riziko rozšíření konfliktu, zahraniční geopolitičtí aktéři |
 | [Jaderné zbraně a jaderná hrozba](jaderne-zbrane.md) | Rozmisťování jaderných zbraní, nuclear sharing, odstrašení vs. použití, odzbrojení |
 | [Větrné elektrárny](vetrniky.md) | Akcelerační zóny, technická a environmentální kritika |
 
