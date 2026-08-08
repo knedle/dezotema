@@ -3399,3 +3399,30 @@
 - **Délka:** 01:24:17 | Zhlédnutí: 80
 - **Poznámka:** Zpracováno 4 nová témata: (1) „strukturovaná voda" H3O2 (Gerald Pollack) — [konspirace.md](konspirace.md). (2) Aktualizace kauzy Zítko u Krajského soudu v Ústí nad Labem (uzavřeno bez veřejného líčení, dvě možné varianty) — [dsa-cenzura.md](dsa-cenzura.md). (3) „Srdcem pro vlast" (2020) — infiltrace nasazenou trojkou Trčka/Šlajch/Semper/Kořenář — [media-propaganda.md](media-propaganda.md). (4) Benešovy dekrety jako precedens poválečného uspořádání po Ukrajině (USA/Rusko/Čína) — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Opakování beze změny (jen zdroj, bez rozšíření): financování Deníku N miliardáři, Bitcoin kauza, „všichni jsme Paukner", MedBeds/QFS/GESARA a „dopis Trumpa Anonům", Kennedyho obchodní model farmaceutického průmyslu, Pfizer vedlejší účinky. Bez predikcí a stoch. teroru nad rámec již zdokumentovaného.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — TV debata: dotace zemědělcům, ceny energie (29. 7. 2026) {#jindřich-rajchl--tv-debata-dotace-zemědělcům-ceny-energie-29-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-29_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1046155347771144>
+- **Datum záznamu:** 2026-07-29
+- **Délka:** 00:04:28 | Zhlédnutí: 51 058
+- **Poznámka:** Zpracováno 1 téma: TV debata s Grolichem (Lidová strana) — odmítnutí termínu „agrobaroni" pro zemědělské dotace, obhajoba snížení ceny elektřiny přebráním OZE poplatků státem — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (29. 7. 2026) {#ladislav-vrabel--zprávy-v-devět-29-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-29_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1249238670576883>
+- **Datum záznamu:** 2026-07-29
+- **Délka:** 01:01:40
+- **Poznámka:** Zpracováno 11 témat: (1) Narval 140 jako útočná zbraň — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (2) Ekonomika sestřelování dronů (500 tis. $/dron) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (3) Malé modulární reaktory bez uranu kvůli sankcím — [ceny-energie.md](ceny-energie.md). (4) Čínská jaderná fúze vs. „úpadek Západu" — [ceny-energie.md](ceny-energie.md). (5) Uzavření obilného koridoru u Oděsy — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (6) Reakce veřejnosti na ČT24 oslavující útoky na civilní cíle — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (7) Medveďčuk — žádný evropský cíl není mimo dosah — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (8) Varování z armády o 50 % HDP na zbrojení — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (9) Zelenskyj — NATO, Krym, žaloba na Lukašenka — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (10) Lavrov — mír jen v ruském zájmu — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (11) Medveděv odmítá mobilizaci, nová čísla náboru — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Dále: EU dotuje výzkum „zvířata a demokracie" (velryby) — [suverenita-eu.md](suverenita-eu.md); opakování beze změny (jen zdroj): Rafale/ASMP jaderné zastřešení (vazba na podzimní demonstraci) — [jaderne-zbrane.md](jaderne-zbrane.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: dávková turistika, policejní čísla (30. 7. 2026) {#jindřich-rajchl--videoportál-dávková-turistika-policejní-čísla-30-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-30_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/890070903723447>
+- **Datum záznamu:** 2026-07-30
+- **Délka:** 00:01:29 | Zhlédnutí: 87 395
+- **Poznámka:** Zpracováno 1 téma: nová policejní čísla k dávkové turistice ukrajinských migrantů (300 případů, 18 mil. Kč) — rozšíření existujícího tématu — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

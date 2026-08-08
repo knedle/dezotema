@@ -31,6 +31,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Morální argument zbrojení vs. záchrana životů — 1 tank Leopard (745 mil. Kč) = „745 zachráněných životů", peníze raději na léčbu (sbírky Navrátilová/Bára) (18. 6.) — [Videoportál: humanitární dávky (13. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-humanitární-dávky-13-6-2026)
 - Zbrojení vs. záchrana životů — F-35 1 mil./letová hodina = 1 zachráněný život, „odstrašování Putina" označeno za lež (21. 6.) — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **19. 7.** — Turkova nehoda jako nedbalost (hájí ho); dvojí metr vůči Jurečkovi (úmyslná lež o FF UK/večírku, neodstoupil, přesto volá po Turkově odvolání = „bezpáteřnost") — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+- **29. 7.** — TV debata s Grolichem (Lidová strana): odmítá termín „agrobaroni" pro zvýšené zemědělské dotace; obhajuje snížení koncové ceny elektřiny přebráním OZE poplatků státem jako protiinflační opatření — [TV debata: dotace zemědělcům, ceny energie, 29. 7. 2026](../_zdroje.md#jindřich-rajchl--tv-debata-dotace-zemědělcům-ceny-energie-29-7-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
@@ -88,6 +89,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 ### [Migrace](../migrace.md)
 - **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 - **26. 7.** — útok mačetou na LGBTQ demonstraci v Berlíně (pokrytectví levice); rozšířené konkrétní návrhy (zrušení dávek, automatické vyhoštění, konec dočasné ochrany) — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
+- **30. 7.** — nová policejní čísla k dávkové turistice (300 případů, 18 mil. Kč škody) — trvá na tom, že jde jen o „špičku ledovce" — [Videoportál 30. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dávková-turistika-policejní-čísla-30-7-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
