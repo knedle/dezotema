@@ -2,6 +2,8 @@
 
 Česko-slovenský komentátor, žijící v ČR, který pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zpravidla s moderátorkou Zuzkou). Má osobní zkušenost s Evropským parlamentem v Bruselu (vystupoval tam cca v roce 2020), kontakty na diplomatické kruhy napojené na Gazprom a sleduje geopolitiku z pohledu euroskeptika a kritika NATO. Žije střídavě na horách (kopcích 750 m) a ve dvacetimiliontovém městě — pravděpodobně Praha nebo Bratislava.
 
+**Zpravodajský deník:** úplný chronologický přehled všech probíraných témat (i těch bez samostatného zpracování) — [červenec](../zpravodajstvi-vrabel/2026-07.md), [červen](../zpravodajstvi-vrabel/2026-06.md), [květen](../zpravodajstvi-vrabel/2026-05.md), [duben](../zpravodajstvi-vrabel/2026-04.md).
+
 ---
 
 ## Témata
