@@ -1,0 +1,2880 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Československo TV2
+URL:          https://m.facebook.com/watch/?v=1703767387339903&_rdr
+Datum videa:  2026-08-05
+Zpracováno:   2026-08-08 11:53:48
+Jazyk:        cs
+Délka:        02:10:02
+Zhlédnutí:    347
+Popis:        Československo TV2 vysílal(a) živě.
+4/8 BITCOINOVÁ KAUZA-REKONSTRUKCE 20:50:
+Analýza lživých, nepřesných a manipulativních vyjádření ČT v pořadech:
+Reportéři ČT 11. 5. 2026 OPERACE BITCOIN
+ROZPLETENO 
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    1m 2s
+Přepis:       19m 17s
+Rychlost:     6.7x realtime
+Celkem:       20m 19s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Čau, čau, čau.
+[00:03] Krásný, úžasný, báječný, skvělý úterý večer.
+[00:08] Máme 4.8., máme tady 10 minut před 9. hodinou
+[00:14] a máme tady konec té dnešní vysílací trilogie.
+[00:20] A jak se tak říká, to nejlepší.
+[00:24] Nakonec, tak tady máme videorozbor z důkazy,
+[00:29] kde velmi dobře poslouží reportáže České televize
+[00:34] toho veřejnoprávního kanálu, kanál, to je dobrý název,
+[00:41] plnýho nepravdivých informací, lží, polopravd, neúplných věcí.
+[00:50] Takže i pro potřeby policie a orgánů činných trestním řízení
+[00:56] udělám toto vzdělávací.
+[00:59] Kdy ten, který byl roky dehonestován, označován za dezinformátora,
+[01:08] konspirátora, dezoláta, vyřeší tak složitý případ,
+[01:15] kde rok a dva měsíce si elitní útvar NCOZ
+[01:21] s vrchním státním zastupitelstvím nevěděli rady,
+[01:25] nevěděli rady, tápali, zkoumali,
+[01:28] odvolávali Lastovickou, která chtěla obžalovat naprosto oprávněně
+[01:35] Dona Pabla Blažka, jo, toho ministra spravedlnosti,
+[01:40] kde jsme v jednu hodinu jedenáct minut vysílali už dnes důkazy,
+[01:47] které jsou naprosto jednoduše dohledatelné a úplně, úplně neprůstřelné.
+[01:54] A hlavně je to práce, bakalářská práce,
+[01:58] Ondřeje Havlíka, kdy úplnou náhodou v roce 2019
+[02:03] rozebíral kauzu Tomáše Jiříkovského jako bakalářku
+[02:10] a všechny údaje, včetně Jiříkovskýho peněženek,
+[02:15] tam zveřejnil. Takže nejde použít výmluvu,
+[02:19] že to nejde najít, že je to schovaný a další blbý keci.
+[02:24] To jsou jenom zametačky.
+[02:27] Takže první si dále.
+[02:28] Předáme reportáž reportéři ČT Hanuše Hanclíka
+[02:34] z 11. května. Je to necelých 17 minut
+[02:39] a je zajímavý, že i když obě dvě reportáže
+[02:44] dělala česká televize, tak i tam mezi nima
+[02:49] jsou totální rozpory a nepřesnosti.
+[02:52] Takže je vidět, že v české televizi evidentně leva neví,
+[02:58] dělá prava a naopak. Takže v tomto formátu
+[03:02] na tolik lidí, kteří se na to zúčastnili,
+[03:06] jsou to evidentně vyhozené peníze a od 12.3.2020
+[03:12] od rozjetí pod úvodu COVID-19
+[03:16] žádejte oprávněně naprosto vaše výpalny,
+[03:21] který česká televize vybírala jako peníze zpět,
+[03:26] protože neposkytovaly.
+[03:28] V žádném případě vyvážení objektivní informace,
+[03:33] abyste si vy mohli vytvořit svůj názor.
+[03:37] A tyhle ty dva reporty jsou toho evidentním důkazem.
+[03:42] To je z roku letošního. Tak pojďme kousnout
+[03:46] do toho kyselého jablíčka české televize
+[03:51] a pojďme na reportáž Hanuše Hanslíka.
+[03:59] Já zkusím zvuk zesílit,
+[04:27] protože se mi zdá, že to není úplně...
+[04:31] volume doprava.
+[04:33] A a a, jasně, dáme to naplno,
+[04:38] ať ty keci české televize výborně slyšíte.
+[04:45] Tak omlouvám se, teď už to bude naplný pecky.
+[04:51] V kauze, která souvisí s pitcoiny za miliardy
+[04:57] z nelegálního internetového tržiště, vlastně vedlo.
+[05:17] Celá tahle kauza je jeden obrovský...
+[05:20] nejenom problém, ale vlastně bizár.
+[05:23] Policajní orgán rozhodl o zahájení trestního stíhání
+[05:26] tří fyzických osob, a to v přímé souvislosti
+[05:29] s darováním Bitcoinu ministerstvu spravedlnosti.
+[05:32] O čem ta kauza podle vás vypovídá,
+[05:35] když je tady obvěděn i bývalý ministr?
+[05:37] Vypovídá o selhání. O selhání jak jednotlivců,
+[05:40] tak možná i celého toho systému.
+[05:43] Já si myslím, že vypovídá o kradení,
+[05:46] které nabilo naprosto nehorázných rozměrů,
+[05:50] protože pokud někdo nezveřejný,
+[05:54] a já už jsem na to upozorňoval celou dobu,
+[05:58] že se jednalo o krádež více než 100 miliard,
+[06:02] žádný novinář tuhle informaci nevyndá ven,
+[06:07] tak je to skandal gigantických rozměrů,
+[06:10] který podle mě nemá vůbec ve světě obdoby,
+[06:15] a je to obrovská mezinárodní ostuda,
+[06:18] kde možná orgány,
+[06:20] či jiné v trestním řízení,
+[06:22] čekají na zakročení FBI v čele s Cashem Petlem,
+[06:28] aby oni uvedli tu věc na pravou míru,
+[06:32] protože všechny důkazy jsou transparentně uloženy
+[06:37] na blockchainu Jiříkovského peněženek.
+[06:41] Stačí se tam přeci mrknout. Pojďme dál.
+[06:45] V bitcoinové kauze padla nová obvinění.
+[06:50] Vůbec poprvé v historii České republiky
+[06:52] kriminalisté stíhají bývalého ministra spravedlnosti
+[06:55] za úmyslné závažné zločiny.
+[06:57] Pavla Blaška, který stál v čele České justice,
+[07:00] spolu s jeho někdyjším náměstkem Radomírem Daňhelem,
+[07:03] obvinili ze zneužití pravomocí úřední osoby
+[07:06] a praní špinových peněz.
+[07:08] To jsou jenom dva trestní činy.
+[07:11] V jednu hodinu jedenáct minut jsem jich tam já našel
+[07:15] jako amatér devět. Devět.
+[07:19] Byli v postavení úředních osob
+[07:21] a ti vlastně po vzájemné součinnosti
+[07:24] vykonávali svoji pravomoc v rozporu s právním předpisy,
+[07:27] které upravují nakládání se státním majetkem
+[07:30] a případně finančním kontrolům.
+[07:32] Podle vyšetřovatelů zastav v rozporu se zákonem
+[07:35] převzali darem pochybné bitcoiny
+[07:37] v hodnotě bezmála miliardy korun
+[07:39] od odsouzeného zprostředkovatele drogových obchodů
+[07:42] a někdejšího provozovatele
+[07:44] nelegálního internetového tržiště Tomáše Jiříkovského.
+[07:47] A pomohli mu tak majetek třetí řady legalizovat.
+[07:50] Bývalý ministr spravedlnosti Pavel Blažek
+[07:53] a náměstek Radomír Naňhel zneužili autoritu státu
+[07:56] a jednali při nejmenším v nepřímém úmyslu
+[07:59] opatřit Tomáše Jiříkovskému neoprávněný majetkový prospěch.
+[08:02] V nepřímém úmyslu to je velmi diminutivní vyjádření,
+[08:07] protože tady je evidentní,
+[08:10] že to má rysy organizované zločinecké skupiny,
+[08:15] protože se tam muselo
+[08:17] překonat celá řada překážek
+[08:20] na nejvyšším soudu v Brně,
+[08:22] krajském soudu v Brně
+[08:24] i na krajském ředitelství policie v Brně.
+[08:28] Všechno v Brně.
+[08:30] S oběma muži, kteří ještě nedávno stáli v čele justiční exekutivy,
+[08:35] policie stíhá také významného brněnského právníka Káry Matice.
+[08:40] Podle obvinění měl být právě on klíčovým organizátorem
+[08:44] neobvyklé a nezákonné transakce mezi státem a Jiříkovským.
+[08:48] Necítíte vinu?
+[08:49] Samozřejmě ne.
+[08:51] Necítíte vinu?
+[08:52] Absolutně.
+[08:53] Policie vás označuje za organizátor.
+[08:55] Dneska bych udělal jenom jednu věc jinak,
+[08:57] já jsem na to říkal už tehdy,
+[08:59] a to je, že bych nechal co nechat.
+[09:01] Požádal bych, aby o celé té věci rozhodovala celá vláda.
+[09:04] Nikoliv, nikoliv.
+[09:05] Požádal bych, aby o celé té věci rozhodovala celá vláda.
+[09:11] Nejenom Don, Pablo, Blažek a Stanjura,
+[09:14] ale tím by Karim Tic do záležitosti
+[09:17] namočil i premiéra Petra Fialu
+[09:22] a je zajímavý sledovat,
+[09:24] jestli budou vydány notebooky a tablety
+[09:30] a mobilní telefony,
+[09:32] který Stanjura, Pavel Blažek,
+[09:36] ani Eva de Croa neodevzdali,
+[09:40] protože takhle dostali Fauciho na to,
+[09:43] že si tam přeposílal na e-maily
+[09:46] svůj denník.
+[09:48] Takže tam jsou evidentní důkazy,
+[09:51] kdo všechno o tom věděl
+[09:54] a nezastavil tuhle zlodějinu
+[09:57] za víc jak 100 miliard korun.
+[10:00] Ale k tomu se ještě dostaneme.
+[10:02] Advokát kvůli této kauze čelí také kárné žalobě.
+[10:13] Advokát Karim Tic jinak na jedné z faktur
+[10:17] obdržel od Jiříkovského odměnu
+[10:21] advokátskou ve výši 40 milionů korun
+[10:26] a taky se zjistilo, že byl na jeho peněženku
+[10:31] bitcoinovou odeslán nějaký neznámý počet bitcoinů.
+[10:37] To je další velmi zajímavá věc.
+[10:40] Tak navíc ohrožen trestem zákazu výkonu advokacie.
+[10:44] Nedostatečně ověřil původ prostředků,
+[10:48] které měly být darovány státu,
+[10:50] a vůbec celkovou tu transakci nevyhodnotil jako podezřelý obchod.
+[10:54] Obě dvě ty povinnosti mu ukládá zákon
+[10:57] o opatření proti legalizaci výnosu stresné činnosti,
+[11:00] to znamená zákon proti prání špinavých peněz.
+[11:02] To je paragraf, ano, AML.
+[11:04] ... nejde jen o pochybné bitcoiny miliardové hodnoty
+[11:07] spojované se závažným zločinem,
+[11:09] ale i o důvěry hodnost státu.
+[11:11] Ex-ministr spravedlnosti Pavel Blažek totiž patřil
+[11:14] mezi nejvlivnější muže předešlé vlády.
+[11:17] Pavel Blažek patřil mezi konstruktéra Fialovi vlády.
+[11:23] On to vykoumal a vymyslel, jo?
+[11:26] Tuhle tu pětikolkovou demolici,
+[11:29] která tady nechala zásek 1,3 bilionu korun
+[11:34] za svoje volební období.
+[11:37] Nestalo by se nic z toho, pokud by tam nebyl obrovský tlak
+[11:40] ze shoda ze strany toho politického vedení
+[11:43] a nějaký úmysl konat možná dost
+[11:47] nestandardně.
+[11:48] Říkáte, že ti úředníci byli pod tlakem.
+[11:51] Na základě čeho to tvrdíte?
+[11:53] Já si to nebudu jinak vysvětlit, protože...
+[11:57] Nebo v tom jeli všichni jeronýme,
+[12:00] nebo všichni byli motivováni,
+[12:03] že nějakých pár desítek bitcoinů
+[12:07] z tohohle gigantickýho lupu dostanou nasypáno, jo?
+[12:12] Tomu se říká mafiánské praktiky
+[12:16] a organizovaná zločinecká skupina.
+[12:20] Takhle se to dá velmi dobře vysvětlit.
+[12:23] Podle mého názoru, pokud by pod tlakem nebyli,
+[12:28] tak by museli postupovat podle vnitřních předpisů.
+[12:31] S obviněním nesouhlasím.
+[12:33] Zatím mi není známo, že by kdokoliv,
+[12:35] to znamená nějaký soud nebo někdo,
+[12:37] sdělil, že ty bitcoiny opravdu pochází z trestné činnosti.
+[12:40] Tady to je velmi legrační výmluva Pavla Blažka,
+[12:44] protože Tomáš Jiříkovský byl zámečník
+[12:47] a těžko si představit, že by vydělal tyhle bitcoiny
+[12:53] poctivou zámečničinou nebo prodejem buštů
+[12:57] na místních slavnostech nebo na fotbalovém stadionu.
+[13:03] Navíc byl Jiříkovský pravomocně 30. května 2018
+[13:10] odsouzen za trestnou činnost ohledně darknetového tržiště
+[13:16] Sheep Marketplace, které bylo uzavřeno v roce 2013. prosinci
+[13:23] a o kterém se vůbec nemluví, přestože tam evidentně bylo,
+[13:29] a je to ověřitelná věc, 39.918 bitcoinů.
+[13:36] O těch se mlčí. Mluví se jenom o 5366 bitcoinech z Nucleus Marketu,
+[13:44] které byly ovšem velmi zredukovány na 1560,
+[13:51] protože se to rozposílávalo někam jinam, někomu jinému,
+[13:56] a z toho se vypočítal ten dár ve výši necelé jedné miliardy,
+[14:02] a to je necelé jedno procento celkové sumy bitcoinů,
+[14:08] které odésáci spolu s brňáky ukradli.
+[14:12] Takže ta suma, která byla zhruba, byla zhruba.
+[14:14] Vůbec nesouhlasí.
+[14:16] Tahle kauza pro stát znamená jeden obrovský reputační problém,
+[14:21] protože stát selhal na mnoha úrovních, ať už úřednicky nebo politicky,
+[14:27] a je vlastně potřeba se ptát, jak se to mohlo stát, jak vlastně k tomuto selání mohlo dojít.
+[14:34] Že ministerstvo spravedlnosti přijalo pochybný dar od odsouzeného zprostředkovatele drogoví k obchodu Jiříkovského,
+[14:40] vyšlo najevo loň.
+[14:42] Blažek dělá, že to neví,
+[14:44] ale ten rozsudek na devět a půl roku je veřejně dostupný,
+[14:49] takže není problém se podívat, že za kšefty s drogama, zbraněma a pornografií byl už pravomocně Jiříkovský odsouzen.
+[15:12] 2013. Tady to máte.
+[15:14] Ano.
+[15:16] V roce 2013 Jiříkovský vykradl po hackerským útoku dvou mladých američanů,
+[15:24] kterýmu hacknuli ty stránky, kde se kšeftovalo s drogama,
+[15:30] tak ukradl 39.918 bitcoinů,
+[15:36] o kterých se nemluví a který celou dobu jsou zatajovány.
+[15:41] Tady v tomto videu, jednoznačně,
+[15:43] Jiříkovský odkazuje novináře na to,
+[15:47] to se musíte zeptat někde jinde někoho jiného,
+[15:53] protože evidentně Jiříkovský byl jenom bílý kůň a nikoli organizátor.
+[16:00] Programátor z Břeclavy Tomáš Jiříkovský založil a poté řídil nelegální internetové tržiště,
+[16:07] které pojmenoval Sheep Market.
+[16:09] Masaryku, to je jenom kvůli tobě.
+[16:11] Jak jsi se pýtal,
+[16:12] jestli bude něco o bitcoinoch,
+[16:14] tak to je poslední díl a rob si zápisky,
+[16:18] protože ty somáry u vás takový dlho něco zatím neudělaly v tomhle rozsahu,
+[16:25] tak ať jsi poučenej jako profesionální prázkáč a škůdce.
+[16:31] Anonimně se na něm obchodovalo se zbraněmi a především drogami.
+[16:36] On byl jediným, kdo to celé tržiště zpravoval,
+[16:39] takže on je vymyslel, naprogramoval a zpravoval.
+[16:43] Za každý uskutečněný obchod inkasoval Jiříkovský provize právě v podobě bitcoinů.
+[16:48] Už tehdy se na něj proto zaměřila policie.
+[16:50] Poprvé u něj provedla domovní prohlídku v roce 2014,
+[16:54] tu další pak o dva roky později.
+[16:56] Tady žil Tomáš Jiříkov.
+[16:58] Tady 2014 se to týkalo trestné činnosti ohledně tržiště Sheep Market Place
+[17:07] a 2016 to bylo druhý tržiště Nucleus Marketplace.
+[17:13] Takže byly tržiště evidentně dvě.
+[17:17] Jiříkovský se svou rodinou do roku 2016,
+[17:20] v dubnu téhož roku zde policie provedla domovní prohlídku
+[17:23] a odnesla si počítače, mobilní telefony nebo třeba harddisky,
+[17:27] kde byly uloženy bitcoiny, které mají dnes miliardovou hodnotu.
+[17:31] Ano, 50 kusů hardwareu policie odnesla a zapečetila.
+[17:39] Teď poslouchejte dál.
+[17:41] Byl nalezen jeden mobilní telefon, kde byla nalezena právě část databáze toho Sheep Marketu
+[17:48] a zejména díky tomu se nám podařilo pana Jiříkovského spojit právě se Sheep Marketem.
+[17:53] V roce 2019 její pak soud zapozíval na rozsáhlých nelegálních obchodech s drogami.
+[17:59] Tak tady je chyba, protože soud jej poslal do vězení pravomocným rozsudkem v roce 2018,
+[18:10] 30. května.
+[18:12] Takže tady evidentně česká televize lže.
+[18:17] Pravomocný rozsudek vrchního soudu v Olomouci je k dispozici volně přístupný na stránkách TSS
+[18:28] jako příloha bakalářské práce Ondřeje Havlíka.
+[18:33] Jedeme dál.
+[18:35] A z pro nevěru bitcoinů poslal na 9 let do vězení.
+[18:40] 9 a půl roku.
+[18:42] Soud poslatoval, že legální původ bitcoinů Jiříkovský nedokázal doložit elektronikům.
+[18:47] Jo, takže tady výmluva Blažka, že nevěděl, že to je z trestné činnosti, tak je velmi trapná.
+[18:54] Soud první instance ho poslal na 9 let, ale pravomocný rozsudek byl na 9 a půl roku z Olomouce.
+[19:04] Ze 30. května 2018.
+[19:08] Již měl uložena přístupová hesla k bitcoinovým peněženkám, po celou dobu držela policie ve svém depozitu.
+[19:16] Policie celou dobu držela tu techniku ve svém depozitu a nikdo za celou dobu se nekouknul, kolik tam toho lupuje,
+[19:28] i když bylo zdokumentováno velmi pregnantně, precizně v tom rozhodnutí soudu, kolik těch bitcoinů tam bylo.
+[19:38] Jo.
+[19:39] Takže naprosto neuvěřitelná věc.
+[19:42] A ohledně vydání tady selhalo i krajské ředitelství policie jeho moravského kraje v Brně. Ano.
+[19:53] Dokonce to jednoducho vypadalo, že...
+[19:55] Tady toho znáte, ne? Tohohle vocase.
+[19:58] To je jeden z nejznámějších prestitutů, Lukáš Valášek, který 13.12., kdy se otevíral,
+[20:08] v Kotvě zabodávací oddělení pro malé děti ve věku 5 až 11 let, tak se se mnou procházel po Praze,
+[20:19] takovej malej výlet jsme tam měli, a já jsem mu tam trošku tady tomuhle zmrdovi promlouval do duše, jo?
+[20:28] Tak teď tady figuruje v kauze operace bitcoin.
+[20:35] Policie tu techniku smaže, po té, co to soudy...
+[20:40] Policie tu techniku smaže, to bylo rozhodnutí soudu. Ano, správně, Valášku.
+[20:49] Ale nakonec tedy došlo k tomu, že on se k té technice dostal...
+[20:54] Jak se on k té technice dostal? Zorganizoval ozbrojené přepadení toho skladu? Ne, normálně selhali.
+[21:04] Nejvyšší soud Brně, krajský soud Brně...
+[21:08] Ne, i krajské ředitelství policie, který mu tu techniku, aniž by zjistili, kolik tam těch bitcoinů za více jak 100 miliard je,
+[21:19] tak mu to bez ceknutí v prosinci roku 2024 vrátili.
+[21:26] To je jako kdybyste nalezli truhly ze zlatem, počtu 50 kusů, nikdo se tam do toho nepodíval, co tam je,
+[21:36] a pak, když zločinec, ten pirát, co tu ty truhly ukradl, tak mu je zase vrátíte a čekáte, že na jednání o daru 30% ty truhly přinese.
+[21:52] Takže Jiříkovský měl přiníst skoro 50 počítačů, protože asi tři smazali, takže 46 jich měl přiníst zapečetěných,
+[22:04] nebo vůbec se k nim neměl dostat.
+[22:06] Měli být furt pod kontrolou policie a pak by to bylo v pořádku.
+[22:13] Ale Jiříkovský pak tam přines jenom jeden, jeden slovy notebook, ze kterého se už předtím rozesílaly bitcoiny.
+[22:23] Takže vyjádření Jiříkovský se k tomu dostal je neuvěřitelný tady z hlediska tohohle novináře Valáška,
+[22:35] protože tady je selhání několika institucí najednou, který měli smazat a zlikvidovat tu techniku, aby se k tomu nedostal.
+[22:47] Ale to by to pak ODSáci spolu nemohli ukrást.
+[22:51] A zpátky.
+[22:55] Na jaře 2021 se Jiříkovský dostal na podmínku z vězení. Najal si advokáta Káry Matic.
+[23:01] Další lež, jo.
+[23:03] Na jaře 2021.
+[23:05] Na jaře 2021.
+[23:07] Je lež, protože Jiříkovský byl propuštěn na polovinu trestu v listopadu roku 2020, jo.
+[23:19] Ne na jaře roku 2021.
+[23:23] Tady opět další velmi špatná informace z dílny České televize.
+[23:31] A začal právní boj o vydání techniky, která byla klíčem k tomu, aby se dostal k bitcoinům.
+[23:36] A začal právní boj o vydání techniky, které byl klíčem k tomu, aby se dostal k bitcoinům.
+[23:37] On mě tehdy řekl, že by mu měla být vnácená elektronika, na které, kromě to, že tam má tzv. svůj celý digitální život, by mohly být některé přístupové údaje k...
+[23:51] Všichni o tom věděli.
+[23:54] Nebylo náhoda, že Jiříkovský angažoval jako svého obhájce Káry Matice spolužáka Pavla Blažka.
+[24:04] To vůbec nebyla náhoda v komplotu brňáků a v ukradení bitcoinů za více jak 100 miliard korun.
+[24:16] Poslouchejte dál, jak lže Karin Tic.
+[24:20] Virtuální měně, ani kde přesně jsou, ani kolik by tam mělo být, případně kryptoměny.
+[24:28] Jiříkovský nevěděl vůbec nic, teda aspoň říkal, že si nepamatuje,
+[24:36] kolik tam má bitcoinů, jaký k tomu jsou hesla, nepamatuje si vůbec nic,
+[24:43] ale pak je úplně paradoxní, že když si nic nepamatujete, tak přeci nemůžete dát dár ministru spravedlnosti,
+[24:53] protože přeci jenom si ty hesla k těm peněženkám musíte pomatovat,
+[24:58] anebo máte ty klíčový slova pro obnovu peněženek, k tomu se říká CD,
+[25:04] máte je někde poznamenaný a bez toho se do těch peněženek nikdo nemůže dostat.
+[25:12] Žádnej hacker, policie, NCT, EKK, NCOZ, prostě nedostane se tam nikdo.
+[25:22] Já jsem navrhoval, aby ta elektronika byla zabavena státem.
+[25:27] To bylo to rozhodnutí, původně.
+[25:30] Aby se k ním pan Jiříkovský nedostal.
+[25:33] Původně odmítali.
+[25:35] Původně odmítali.
+[25:36] ... elektroniku vydat kvůli obavám, že obsahuje bitcoiny z trestné činnosti.
+[25:41] A najednou ale soudy byly zamotivovány a elektroniku skandálním způsobem vydali.
+[25:49] Dobře poslouchejte.
+[25:51] Jiříkovský s advokátem Kary Menticem je však postupně přesvědčili,
+[25:55] že si hesla už nepamatuje a k bitcoinům se nikdy nedostane.
+[26:00] Bezpečně přitom.
+[26:02] Jak může, když si nepamatuje hesla,
+[26:05] slíbit dar ve výši 30% z těch bitcoinů, který tam jsou.
+[26:13] Jo, naprosto neuvěřitelný tvrzení, který je totálně v rozporu.
+[26:19] Tic nabízel Plaškovu ministerstvu pravý opak.
+[26:22] Pokud mu soudy techniku vydají, Jiříkovský daruje státu třetinu všech svých bitcoinů.
+[26:27] K nímž se dostane. Ministerstvo to však soudům ani státnímu zástupci nezdělilo.
+[26:32] Za mě je to minimálně neprofesionalita ministerstva spravedlnosti o tom,
+[26:37] že i když vědělo o tom, že tady to řízení ještě nebylo ukončeno,
+[26:41] že je v podstatě v běhu, tak nám tuto informaci, nebo minimálně mně určitě,
+[26:47] tuto informaci neposkytlo.
+[26:48] Čekal byste, že se takovouto informaci od ministerstva spravedlnosti dozvíte?
+[26:53] Myslím si, že by to bylo více než vhodné, abych se jí dozvěděl.
+[26:56] Základní rozpor. Podle našich informací vám policie v podstatě vytýká,
+[27:00] že zatímco u soudů s panem Jiřikovským jste tvrdil, neexistují hesla,
+[27:05] tak jste navízel za se ministerstvu výtěžnost Bitcoinu s tím, že...
+[27:09] Vám to neřekl. Vůbec nic. Ani slovo. Ani slovo vám to neřekl.
+[27:14] Po zásahu nejvyššího soudu pak skutečně došlo v případu ke zvratu.
+[27:18] V loni v lednu Brněnský krajský soud techniku vydal
+[27:21] a v březnu si ji pak Jiřikovský i s přístupem k Bitcoinu...
+[27:25] Další lež v pořadu reportéři ČT.
+[27:30] Český...
+[27:30] Český televize nevydal tu techniku v březnu,
+[27:36] ale vydal ji velmi rychle v prosinci roku 2024,
+[27:43] kde vlastně po rozhodnutí nejvyššího soudu v Brně z prosince
+[27:48] v rekordní lhůtě deseti dnů vydal techniku,
+[27:54] kde byly všechny ty Bitcoiny za více jak 100 miliard.
+[27:58] Krajský soud v Brně.
+[28:00] A ještě ten den, kdy padlo rozhodnutí,
+[28:04] tak si Jiřikovský mazal do skladu pro zapečetěné počítače,
+[28:11] do kterých se nikdo z policie za celou dobu do těch lech truhel ze zlatem,
+[28:18] se nekoukal a vydali mu to v prosinci 2024,
+[28:23] kde si s těma Bitcoinama mohl dělat, co chtěl.
+[28:29] Jo?
+[28:30] Naší absolutní šílenost a velká nepřecnost a neprofesionalita redaktorů České televize.
+[28:39] ...v mnoha miliardové hodnotě převzal naspět.
+[28:43] V té době už probíhala tajná a finální jednání o darovací smluvě části Bitcoinů státu.
+[28:50] K převodu pak došlo v této budově.
+[28:52] Byl u toho Jiřikovský s Tycem na jedné straně,
+[28:54] Daňhel na straně druhé a navíc i notář a znalec.
+[28:58] Toho nenavr...
+[28:59] Velmi nepřesná informace.
+[29:01] ...která u ta druhá reportáž vyvrací,
+[29:05] kde se sešly pouze tři lidé, Jiřikovský, Karim Tic a znalec Berger,
+[29:14] někdy začátkem března roku 2025,
+[29:19] aby domluvili předání Bitcoinů,
+[29:22] ale nebyl u toho soudní znalec Míka,
+[29:26] který ten je taky z Brna,
+[29:28] který u toho měl být.
+[29:31] Nebyl u toho žádnej zástupce korporace Česko,
+[29:36] ani Daňhel, ani ředitelka právního odboru
+[29:40] Ministerstva spravedlnosti Benešova.
+[29:45] U toho nebyli přítomní
+[29:47] a Bitcoiny se rozesílali z jednoho počítače,
+[29:53] ne z těch 640,
+[29:55] veselé ještě před darováním Bitcoinů státu dál.
+[30:01] Tady je to opět buď úmyslně anebo z nedbalosti
+[30:06] velmi nepřesně formulováno redaktory České televize.
+[30:12] ... ale advokát Tic.
+[30:15] Zapojení znalce a notáře do realizace tohoto úkonu
+[30:18] bylo pouze formální a bylo vedeno snahou vytvořit
+[30:21] zdání transparentního a legitimního postupu.
+[30:25] Stát získal darem 468 Bitcoinů v hodnotě bezmála miliardy korun.
+[30:30] Zásadní problém,
+[30:31] však bylo, že dárcem byl odsouzený zločinec
+[30:34] a u samotného daru, tedy Bitcoinů,
+[30:37] existovalo vážné riziko, že pocházejí ze zločinu.
+[30:40] ... ten soud jasně deklaroval...
+[30:42] ... zprodeje drog.
+[30:43] ... nezákonnost.
+[30:48] ... lže.
+[30:49] ... chcete zpít Bitcoiny, které byly předmětem daru
+[30:54] ministerstvu spravedlnosti z jeho předchozí trestnou činností,
+[30:58] tak byste musel k tomu skutečně mít nějaké analitické...
+[31:04] ... rozhodnutí Karime toho soudu,
+[31:07] toho vrchního soudu v Omlomouci přeci,
+[31:11] tam se stačí mrknout na ten rozsudek
+[31:15] a hned se zjistí, že to bylo kradený z darknetovýho tržiště
+[31:21] Sheep Marketplace a Nucleus Market bylo nemlich to samý.
+[31:30] ... toho, chane, jsem tyto informace neměl.
+[31:39] ... ale měl si to zjistit.
+[31:40] ... dar však stát přijmout nesmí bez toho,
+[31:42] aniž by si důkladně prověřil jeho původ.
+[31:45] Jak to říct si obecně, pokud o samotné přijetí darů
+[31:50] existovala zde významná právní, finanční i reputační rizika.
+[31:55] ... Blášek s Danihalem přijetí prosadili,
+[31:57] aniž by si nechali vyhotovit odborné posouzení.
+[32:00] Neinformovali o tom předem ani finanční rozvědku, která...
+[32:03] Mrkali jim tam dolary v očích,
+[32:07] prostě byli úplně vomámení.
+[32:11] Možná o tomhle se bavil Blášek v srpnu.
+[32:14] ...
+[32:15] Na Nejedlýho narozeninách, jak se tam schovával před bouškou
+[32:20] a vychytali ho tam novináři,
+[32:24] přestože bydlel za rohem, tak říká se strašně bál boušky.
+[32:28] A možná i tohle řešil šíbr z kanceláře
+[32:33] prezidenta Zemlana pan Nejedlý,
+[32:36] protože jeho role v tom zatím není známá.
+[32:40] ... a legálnost prostředků za stát prověřuje a ignorovali varování,
+[32:45] že ředitelky Úřadu pro zastupování státu ve věcech majetkových.
+[32:49] Přes výslovné upozornění ředitelky Kateřiny a Rajmu
+[32:52] na nezbytnost prověření osoby dárce a původu darovaných prostředků
+[32:56] nepřijali žádná adekvátní opatření k jejich prověření
+[32:59] ani k eliminaci rizik spojených s přijetím daru.
+[33:03] Nebyla chyba iniciovat se psání darovací smlouvy se státem
+[33:08] zastoupeným ministerstvem spravedlnosti ve vztahu k majetku,
+[33:12] který je zatížen tímto podezřením.
+[33:14] Zdrav!
+[33:15] Do okamžiku, než byla otevřena ta peněženka,
+[33:21] nikdo nevěděl, o jaké prostředky se jedná.
+[33:25] Těch peněženek bylo množství a ty tržiště byly dvě.
+[33:31] A nikdo nevěděl ani, kolik tam bude
+[33:33] a ani zda vůbec nějaké podezření tohoto typu může nastat.
+[33:39] Ve skutečnosti značné riziko nezákonného původu bitcoinů
+[33:43] popsaly soudy a vyplývalo i z minulosti samotného daru.
+[33:45] A plně se prokázalo v momentě, kdy stát darované bitcoiny přijal.
+[33:51] Nepocházeli sice z tržiště Sheep Market,
+[33:53] ale z jejich minulosti vyplynulo, že byly spojeny s dalším,
+[33:57] ještě větším nelegálním tržištěm, Nucleus Market.
+[34:01] Takže tady vzpomenuli Sheep Marketplace,
+[34:05] ale nevzpomenuli, že tam bylo 39 918 bitcoinů,
+[34:11] který Jiříkovský měl na svých,
+[34:15] známých peněženkách, protože to byl součást rozsudku
+[34:20] Vrchního soudu v Olomouci a to je bratru kořist
+[34:25] za víc jak 90 miliard korun.
+[34:29] K tomu si přičtěte Nucleus Marketplace
+[34:32] a máte dohromady 102,5 miliardy korun.
+[34:38] Podle toho kurzu, jak se to hejbe,
+[34:40] ale když byl v červenci na výletě v Ázii Jiříkovský,
+[34:46] který ho nepochopitelně propustili,
+[34:49] aby ho pak v srpnu 2025 sundávali ze střechy speciální jednotka,
+[34:57] tak v té době, kdy byl na výletě v Ázii,
+[35:01] tak byl kurz bitcoinu 115 až 120 tisíc dolarů na jeden bitcoin.
+[35:09] Byl skoro dvojnásobnej, než je aktuálně nyní.
+[35:15] A v té době na Tajvanu mohl Jiříkovský realizovat směnu
+[35:22] těchto ukradených bitcoinů pocházejících z drog,
+[35:28] protože takhle ho vypustili do světa,
+[35:32] aby ho pak teatrálně sundávali před polovinou srpna ze střechy baráku.
+[35:40] Jedem dál.
+[35:41] Ty bitcoiny ministerstvu přitekly.
+[35:45] Přímo z kont, které jsou dlouhodobě experty spojovány s nelegálním tržištěm Nucleus,
+[35:53] na kterém se na internetu prodávaly drogy, zbraně, kradené identity,
+[35:58] vše možné další nelegální záležitosti.
+[36:01] Abyste se klienta ptal na Nucleus Marketplace?
+[36:04] Bez komentáře.
+[36:06] Jaký byl ale důvod, proč Jiříkovský bitcoiny daroval,
+[36:10] podle policie zjištný?
+[36:12] Byl zjištný, aby ukradli více,
+[36:16] jak 100 miliard těch zbývajících bitcoinů,
+[36:20] tak záminkou byl tenhle dar
+[36:22] z velmi, ale velmi brutálně poníženého základu,
+[36:27] kde jim ukázali peněženku na screenshotu,
+[36:31] kde bylo 1560 bitcoinů
+[36:34] a z těch vypočítali 30%.
+[36:38] Ale to vůbec nebyly všechny bitcoiny,
+[36:42] kterých bylo podstatně víc,
+[36:45] takže dar byl vůbec nevýborný.
+[36:46] Dar státu nebyl ve výši korporaci,
+[36:49] musím říkat správně,
+[36:51] nebyl ve výši 30%,
+[36:53] ale ve výši necelé 1%.
+[36:56] Společně s Tycem, ale i Blažkem a Danielem
+[37:00] se převzetím daru ze strany státu
+[37:03] měli snažit docílit dojmu,
+[37:05] že jde o bitcoiny legálního původu.
+[37:08] Díky tomu by pak měli Jiříkovský šanci
+[37:10] proměnit všechny své zbývající bitcoiny
+[37:13] nejméně za asi 2 miliardy korun na peníze.
+[37:17] Podstatou plánu bylo,
+[37:18] že nabití části bitcoinů pocházejících z trestné činnosti
+[37:21] do vlastnictví České republiky
+[37:23] mělo vyvolat zdání legálního původu
+[37:25] všech dalších bitcoinů v držení Tomáše Jiříkovského
+[37:28] a tím zhojit jejich právní rizika a vady.
+[37:31] Využil váš klient Tomáš Jiříkovský dohodu,
+[37:35] kterou uzavřel s ministerstvem zpravodlnosti
+[37:38] k tomu, aby směnil nějaké další bitcoiny a podobně?
+[37:46] Tu dohodu nemohl využít k tomu, aby směnil.
+[37:49] Opět Karim Tic lže,
+[37:52] protože s tím papírem ze smlouvou
+[37:55] s ministerstvem zpravodlnosti Jiříkovský
+[37:59] naběhl za Martinem Stránským v Praze,
+[38:03] což je majitel bitcoinové směnárny BitPlus
+[38:07] a šermoval tam s tím papírem,
+[38:11] aby mu vyměnili další bitcoiny.
+[38:15] No a velmi jednoduše trvalo ověření,
+[38:18] kdy se zjistilo, že tyhlety bitcoiny pochází z darknetovýho tržiště,
+[38:23] že jsou takzvaně špinavý
+[38:26] a poslali milýho Jiříkovskýho do hajzlu
+[38:30] i s tou smlouvou, kterou měl podepsanou
+[38:33] s ministerstvem zpravodlnosti.
+[38:36] Tady opět Karim Tic lže.
+[38:39] Bitcoiny nestala se podkladem pro směnu nebo vodu prostředků.
+[38:47] Když se bavíme o tom,
+[38:54] že se pokusil směnit nějaké prostředky,
+[38:57] ano, o tom vím, ale jsem vás nadměčený hostí
+[38:59] a tady rozhodně na tomto místě se na ní odvolám.
+[39:04] Že účel darovací smlouvy mohl být skutečně postraní,
+[39:07] vyšlo najevo pár dnů po jejím podpisu.
+[39:10] Jiříkovský se svým právníkem Ticem dokument využil jako argument.
+[39:14] Když se pokusili prvních 50 bitcoinů směnit na 97 milionů korun
+[39:18] ve směnárně obchodující s kryptoměnami.
+[39:20] Bit plus.
+[39:21] Při kontrole půdu bitcoinů ze strany směnárny,
+[39:24] odkazovali na skutečnost, že Tomáš Jiříkovský ze stejného zdroje
+[39:27] již převedl na základě darovací smlouvy 468 bitcoinů
+[39:31] do vlastní cílí České republiky.
+[39:33] V podstatě usilovali, aby bylo podstatně stínžené
+[39:36] zjištění původu věci, která pochází z trestné činnosti.
+[39:40] Tady na národní třídě sídlí směnárna,
+[39:42] kde se Tomáš Jiříkovský pokusil směnit bitcoiny.
+[39:44] Podezřelý původ kryptoměny tu ale rychle odhalili.
+[39:47] Na místo vyplacení bitcoinů směnárna pokus o jejich směnu nahlásila.
+[39:52] Je to velmi jednoduchý.
+[39:53] ... pokázali z toxického tržiště Nukleus.
+[39:56] A do případu se tak vložila policie.
+[39:58] Jestliže dneska někdo chce spojit bitcoiny z Nukleusu
+[40:02] s trestnou činností mého klienta, nech předložit důkazy.
+[40:07] Tak reagoval Kárim Tic loni v červnu.
+[40:09] Už o dva měsíce později kriminalisté důkazy předložili
+[40:12] a Tomáše Jiříkovského kvůli pokusu o směnu bitcoinů
+[40:15] obvinili straní špinavých peněz.
+[40:18] Zadrželi ho za dramatických okolností.
+[40:20] To je ale už po výletě Tomáše Jiříkovského,
+[40:28] kde celkem nepochopitelně ho postili ven
+[40:32] a umožnili mu odletět do Ázie.
+[40:37] Nejdřív se mluvilo o Filipínách a potom o Tajvanu,
+[40:41] ale tam, když se to nepovedlo v Praze,
+[40:45] určitě měl za úkol vyměnit všechny ty,
+[40:49] které byly miliardy na fiat měny a že jich bylo v té době,
+[40:55] znova upozorňuji, v červenci 2025 byl kurz bitcoinu 115 až 120 tisíc dolarů za jeden kus
+[41:07] a Jiříkovský jich měl ze Sheep Marketplace 39 918
+[41:14] a z Nucleus Marketplace 5 300.
+[41:19] Paroubek by jenom řekl, kdo z vás to má.
+[41:25] Takže to byla dopředu připravená zlodějna.
+[41:35] Tohle je v noci v srpnu Breslovy.
+[41:39] Letos v březnu mu pak obvinění rozšířili,
+[41:41] když její označili za provozovatele a administrátora tržiště Nucleus Market
+[41:46] a začali jej stíhat za zprostředkovávání obchodů s drogami.
+[41:51] To byl klíčový moment kauzy, protože dar státu propojil stresnou činností Jiříkovského.
+[41:56] Jedná se samozřejmě o zdrojový trestný čin a na to navazující legalizaci.
+[42:02] Ten zdrojový trestný čin je právě provozování toho tržiště Nucleus Market.
+[42:08] Ústřední postava celého případu Tomáš Jiříkovský je v současné době držen
+[42:12] v této vazemní věznici v Brně Bohunicích. Hrozí mu mnoho let vězení.
+[42:17] Dlouholeté vězení, v krajním případě až 12 let, nyní hrozí i advokátu Káry Muticovi.
+[42:22] Já nevím vám ani slovo.
+[42:24] Já nevím vůbec.
+[42:27] Takže Jiříkovský mu navrhovala státní zástupkyně 20 let,
+[42:35] Káry Mtic 8 let a Blažek s Daňhelem 6,5 roku.
+[42:40] Chtěli ukrást víc, nebo ukradli víc jak 100 miliard v bitcoinech.
+[42:46] A jaký je proti tomu trest Tomáše Čermáka za slovní vyjádření proti pachatelů masových vražd?
+[42:57] Kdy se vyjádřil vzít zadržky a naházet do řeky, který dostal pět a půl roku v porovnání s touto trestnou činností.
+[43:10] To přeci je absolutně absurdní přirovnání.
+[43:16] Ale také bývalému ministru spravedlnosti Pavlu Blažkovi a jeho náměstkovi Radomíru Daňelovi.
+[43:33] Ani jeden z nich nebyl v místě bydliště k zastížení a ani nereagoval na telefonáty.
+[43:38] Mrtvá ryba.
+[43:49] Zatloukat, zatloukat, zatloukat.
+[43:58] Jenom natahovačka.
+[44:03] Tohle si, já myslím, vůbec nikdo nedokázal představit, ani v těch nejčernějších snech, že je tohle vlastně možné ve vyspělém demokratickém státu.
+[44:14] Nejenom v České republice, v Evropské unii, v západním světě, tohle nemá období.
+[44:23] Tohle, tohle podle mě by nebylo možné, aby se stalo i v Africe, nebo někde na rovníku, u nějakého mužumbury.
+[44:36] Tohle je neuvěřitelné.
+[44:40] V celosvětovém měřítku Masaryku, proto si dělej pozvaň.
+[44:45] Ty poznáme.
+[44:46] Protože tohleto prostě nemá ve světě období, ale hlavně za rok a dva měsíce, kdy já zveřejňuju ten objem loupeže více jak 100 miliard,
+[45:02] proti tomu ukradení Karlštejnu bylo hraní pro malý děti, tak nikdo z novinářů tuto částku neověřil, neskontroloval, nepřevzal
+[45:14] a navíc to neudělala ani.
+[45:16] Národní centrála proti organizovanému zločinu ani to neudělalo dozorující vrchní státní zastupitelství v Olomouci.
+[45:27] To je naprosto neuvěřitelné, protože furt operují, že ta částka 3 miliardy korun byla naprosto v pořádku regulérní a legální,
+[45:40] protože se zatím nikdo nepodíval na blockchain.
+[45:45] A teď se mrkneme.
+[45:46] Na druhou reportáž jiný skupiny, to předcházelo tomuhle videu, ze 17.4. Bitcoin, dar z Nukleusu, se to jmenuje a dala jí Jana Škopková.
+[46:01] Já jsem vůbec nevěděl, kdo to je a byla navržena tady ta Jana Škopková na cenu, kterou uděluje Společnost pro obranu svobody projevu jako bojovnice za svobodu projevu.
+[46:16] Takže já jsem znal Škopkovou do té doby, která hrála jenom v té sérii Slunce Seno, to byla Helenka Ružitková, jinou Škopkovou jsem neznal, ale teď jsem se dozvěděl, že je to tady ta redaktorka.
+[46:33] Takže pojďme se podívat do pořadu 17.4. Jednoduše dohledatelný rozpleteno dar z Nukleusu.
+[46:46] Takže tady uvidíte, jak rozporuplný informace česká televize podává v různých pořadech, že vůbec tady nejsou sladěný a každej jede na vlastní pěst a plácá tam úplný blbosti a je jim to úplně jedno.
+[47:10] Takže pojďme na to, žádný zržování.
+[47:14] Tomáš Jiříkovský měl strávit 9 let ve vězení.
+[47:24] Tak první chyba, paní Škopková, 9,5 roku rozsudek pravomocnej vrchního soudu v Olomouci ze 30. května.
+[47:44] Doložitelný, ověřitelný fakt. První chyba v první minutě.
+[47:51] Nedovolené výroby a jiného nakládání s omamnými a psychotropními.
+[47:55] Chyba byl na svobodě v listopadu roku 2020.
+[48:17] Další nepřesnost opět v první minutě.
+[48:32] Chyba byl na svobodě v listopadu roku 2020.
+[48:34] Do povědomí se Jiříkovský dostal poté, kdy daroval státu bitcoiny v hodnotě více než jedné miliardy korun.
+[48:41] Z tohoto rádoby dobročinného aktu se stala kauza, která smrtla vedení Ministerstva spravedlnosti.
+[48:48] V souvislosti s darem se dnes hovoří o praní špinavých peněz ze strany státu.
+[48:54] A co by to mělo být, paní Škopková, jinýho?
+[48:59] Tím, že když vás chytnou při zlodějně a jste minister,
+[49:03] tak přeci nestačí, že odstoupíte.
+[49:07] Tady je evidentní a jednoznačná trestně právní zodpovědnost,
+[49:13] protože trestní zákonník platí, nebo měl by přeci platit pro všechny.
+[49:32] Jo, internetové tržiště, to nebyla přímá distribuce.
+[49:43] Jo, takhle to krásně najdete.
+[49:45] Jiříkovský byl venku z vězení, ale na jeho zabavené počítače v policajtním skladu v Brně
+[49:56] stále se dal prach. Ta bitcoinů ve virtuálních peněženkách rostla.
+[50:02] Jestli byly na počátku počítače nezajímavé, každým rokem jejich atraktivita stoupala.
+[50:09] Leželi v ní...
+[50:10] A ODSáci spolu s brňákama tohle velmi dobře věděli,
+[50:18] kolik tam je bitcoinů a jakou nabývají hodnotu,
+[50:23] až z toho bylo více jak 100 miliard korun.
+[50:27] Ale k tomu se ještě...
+[50:28] Dostaneme.
+[50:44] Blaškova spolužáka. Úplnou náhodou.
+[51:05] Spolužáka pana ex-ministra Blaška.
+[51:08] Myslím si, že je minimální, téměř nulová,
+[51:11] že to spíš šlo opačným směrem, ta snaha.
+[51:15] To je přesně to vyjádření Jiříkovskýho.
+[51:18] Jestli chcete něco vidět o bitcoinech,
+[51:21] to se musíte zeptat někde jinde někoho jiného.
+[51:27] Bitcoinová kauza, která se začala psát již v roce 2013,
+[51:32] byla spojená hlavně s moravskou metropolí.
+[51:36] Jo.
+[51:37] Z Brna.
+[51:38] Zlatá loď.
+[51:39] Z oblasti z jeho moravského kraje byl pan Jiříkovský,
+[51:42] z Brna byl právník pana Jiříkovského,
+[51:45] z Brna byl náměstek Daňhel,
+[51:47] z Brna byl ministr Blažek
+[51:49] a minimálně ministr Blažek, náměstek Daňhel
+[51:54] a ten právník se znali z předchozích případů
+[51:57] a z předchozího působení v právnické oblasti.
+[51:59] I notář Lubomír Mika, který měl na vše dohlédnout,
+[52:04] byl také z Brna.
+[52:06] To je náhoda.
+[52:07] Brňáci, tož co?
+[52:09] To valíme, jedeme, pereme tam ty bitcoiny
+[52:14] a co ten ještě, když mi tady chybí,
+[52:19] soudní znalec Mika, který nedorazil.
+[52:24] Ten je, ty vole, taky z Brna.
+[52:26] No to snad není možné.
+[52:30] Toto.
+[52:31] Bitcoinová kauze je o tom, jak Jiříkovský získal zabavenou elektroniku.
+[52:37] Jo, jo.
+[52:37] Několika bitcoinovým peněženkám se tak mohl dostat.
+[52:41] Ke všem.
+[52:41] Proč se v souvislosti s dárem státu Jiříkovský přiznal k novému trestnému činu
+[52:46] provozování dalšího drogového tržiště Nukleus na Darkwebu,
+[52:50] za který může jít opět za mříže?
+[52:53] Proč se přiznal k Nukleus Marketu?
+[52:56] Protože tam bylo mín bitcoinů.
+[52:58] Tam bylo 5366 bitcoinů, kdežto na tom dřívějším,
+[53:05] Sheep Marketplace,
+[53:07] bylo 39 918 bitcoinů.
+[53:11] Takže byl cíl dát státu, korporaci, ministerstvu zpravedlnosti,
+[53:19] co nejmíň a ukrást co nejvíc.
+[53:23] Tak z tohohle toho důvodu se použila peněženka Nukleus Marketu,
+[53:30] která ale byla používaná už před tím,
+[53:34] než došlo na to oficiální.
+[53:37] Oficiální obdarování ministerstva.
+[53:40] Žiříkovský a jeho advokát Kárym Tyc věděli,
+[53:47] že se k bitcoinovým peněženkám v zabavené elektronice,
+[53:50] ležící v policijním skladu,
+[53:52] lze dostat je na základě změny rozhodnutí soudu.
+[53:55] Aha.
+[53:55] Nevidávat a vymazat data,
+[53:58] navydat a data nemazat.
+[54:00] Kdo pak asi z nejvyššího soudu
+[54:03] a zakolik tenhle rozsudek změnil?
+[54:08] Bude tam určitě.
+[54:10] Předseda soudu a budou tam určitě minimálně
+[54:14] další dva soudci,
+[54:17] který by pod tímto rozsudkem měli být
+[54:20] jako spolupachatelé organizované zločinecké skupiny podepsání.
+[54:27] Ale na nejvyšším soudě v Brně to nekončí.
+[54:34] Nevím, jestli měl pan Jiříkovský jiné možnosti,
+[54:37] jak se dostat k té elektronice,
+[54:38] kterou potřeboval k tomu, aby se dostal k těm peněženkám.
+[54:42] Jasně, byly tady jiné možnosti
+[54:45] zorganizovat zločineckou skupinu,
+[54:50] tak 10-15 chlapů se samopalama
+[54:54] a ozbrojeným přepadením přepadnout ten sklad
+[55:00] a ukrást tu elektroniku.
+[55:03] Ale takhle, že mu to bylo vydané,
+[55:06] to bylo daleko elegantnější,
+[55:10] bez jediného výstřelu,
+[55:12] za nějaký asi slíbený finanční bakšiš
+[55:17] nebo za vydírání, to nevíme,
+[55:20] se k tomu dostal Jiříkovský
+[55:23] úplně, úplně neuvěřitelným způsobem.
+[55:28] Budu hodnotit chování státních úředníků,
+[55:32] tak těm to musí být úplně jedno.
+[55:33] Tím je nějaký pan Jiříkovský měl být úplně ukradený.
+[55:37] Ale prachy, který dostali slíbený,
+[55:40] jim asi jedno nebyly
+[55:42] a proto rozhodovali,
+[55:44] směrem k vydání týhletý zabavený techniky,
+[55:49] na kterou se prášilo v tom policejním skladu.
+[55:54] První rozhodnutí, které pootevřelo dveře Jiříkovskému
+[55:57] k bitcoinovým peněženkám,
+[55:59] zaznělo 26. července 2023.
+[56:03] Vynesl ho nejvyšší soud v Brně.
+[56:06] Jestli to mám říct jako lidský, k čemu tam došlo,
+[56:08] tak nejvyšší soud řekl Trajskému soudu v Brně,
+[56:12] máte tady človíčka, který si přinesl
+[56:15] ošatku. V té ošatce jsou nějaké
+[56:17] věpka, které jsou zkažené, ale jsou tam i takové,
+[56:21] které jsou naprosto v pohodě konzumovatelné.
+[56:23] Rozdělte mu to a vraťte mu ty, které závadové nejsou.
+[56:28] Jak mu můžou vrátit něco,
+[56:31] když to zapečetili
+[56:32] a nikdo nikdy se
+[56:36] do těch peněženek nepodíval,
+[56:39] protože je to vyloučené, když neznáte
+[56:42] hesla anebo sídy.
+[56:45] Takže ty,
+[56:46] které věděl jedině evidentně
+[56:48] sám Jiříkovský.
+[56:51] Takhle to je jednoduchý.
+[56:52] Celý měsíc po rozhodnutí
+[56:55] nejvyššího soudu znovu se zabývat
+[56:57] elektronikou pana Jiříkovského,
+[56:59] jeho advokát a známý
+[57:01] ministra spravedlností Blaška,
+[57:02] Karim Tic, informuje
+[57:04] ministerstvo spravedlnosti o tom,
+[57:06] že zabavená elektronika může obsahovat
+[57:09] přístupové kódy k databázi
+[57:10] virtuální měny velmi
+[57:12] vysoké hodnoty.
+[57:14] To teda.
+[57:17] Třináctého prosince
+[57:26] dva tisíce
+[57:28] dvacet čtyři, jo?
+[57:30] Sledujte ten fofer.
+[57:44] Považuji za
+[57:45] absurdní
+[57:47] pan David Uhlíř.
+[57:49] Je vám povědomý, tento bývalý
+[57:52] soudce,
+[57:53] tenhle ten milý pán,
+[57:55] který vůbec,
+[57:57] ale vůbec nerozumí
+[57:59] kryptoměnám, sám to o sobě říkal,
+[58:02] byl nominován
+[58:04] nástupkyní
+[58:05] Pavla Blaška,
+[58:07] ministrní spravedlnosti Evou
+[58:09] de Croix, jako
+[58:11] specialista na rozlousknutí
+[58:14] bitcoinové kauzy,
+[58:16] kde,
+[58:17] daleko vhodnější by tam byl
+[58:19] třeba odborník
+[58:20] Dominik Stroukal,
+[58:23] ale šel tam pan Uhlíř,
+[58:25] který měl na konci roku
+[58:27] dva tisíce
+[58:28] dvacet pět v srpnu
+[58:31] předat zprávu
+[58:32] o vyšetřování
+[58:34] a byl někdy
+[58:36] koncem
+[58:39] třiadvacátého, myslím,
+[58:41] července odejít,
+[58:44] aniž by cokoliv
+[58:45] zveřejnil, protože ta
+[58:47] zveřejnění byla
+[58:49] asi šokující, tak
+[58:51] Evíčka de Croix mu
+[58:53] zaplatila sto šedesát
+[58:55] tisíc korun
+[58:56] a pan Uhlíř neřekl
+[58:59] ani slovo
+[59:01] ke zjištěním, který
+[59:03] okolo zametání
+[59:05] evidentního bitcoinové
+[59:07] kauzy zjistil.
+[59:09] Takže tam bych mu
+[59:11] vůbec těch sto šedesát
+[59:13] tisíc nezáviděl,
+[59:15] ale pan Uhlíř,
+[59:17] asi kdyby vypovídal
+[59:19] pod přísahou, tak by říkal
+[59:21] zajímavé věci
+[59:23] za mě, jo, jako svědek.
+[59:27] Aby stát
+[59:28] přijal nabídku darů,
+[59:31] kdy to, zda ten dar
+[59:32] bude realizován nebo ne,
+[59:34] závisí na určitém konkrétním
+[59:36] soudním rozhodnutí
+[59:37] ve věci toho dárce.
+[59:40] To já považuji za
+[59:41] postup, který
+[59:44] podvrací důvěru v právním stát.
+[59:46] Tak to prostě nemá být.
+[59:48] Kdy pan Jiříkovský přijde s takovouhle nabídkou,
+[59:51] tak se vysloveně nabízí
+[59:53] kontaktovat orgány činných
+[59:54] v trestním řízení, kontaktovat soud
+[59:56] i třeba odemčením, odpečetěním
+[59:58] těch počítačů nemůže dojít k tomu,
+[01:00:00] že se změní důkazní situace
+[01:00:02] v trestném činu, ve kterém předtím nebyla dostatečná.
+[01:00:08] Kamil Kroupa je bývalý
+[01:00:09] kriminalista. Poslouchejte.
+[01:00:10] Dnes odborník na praní špiravých peněz.
+[01:00:13] V případě jednoznačně
+[01:00:16] pan advokát pana Jiříkovského
+[01:00:19] měl povinnost zjišťovat
+[01:00:21] původ finančních
+[01:00:23] prostředků svého klienta,
+[01:00:25] protože by hned na počátku
+[01:00:26] musel konstatovat,
+[01:00:29] že nezná zdroj
+[01:00:31] finančních prostředků, nemůže doložit
+[01:00:33] jeho legálnost a tudíž
+[01:00:35] by měl povinnost to reportovat
+[01:00:37] finančnímu analitickému úřadu
+[01:00:39] a rozjelo by se vyšet.
+[01:00:41] Já jsem řekl 160 korun,
+[01:00:43] 160 tisíc korun
+[01:00:45] dostal odměnu
+[01:00:47] pan Uhlíš, jo?
+[01:00:49] Jestli jsem se přeřekl, tak se
+[01:00:50] omlouvám, ale
+[01:00:52] určitě ví zajímavý
+[01:00:55] věci, když se v tom hrabal.
+[01:00:57] ... o původu
+[01:00:59] finančních prostředků
+[01:01:01] pana Jiříkovského, aniž by došlo
+[01:01:03] k daru.
+[01:01:05] Zásadní rozhodnutí přišlo i ze strany
+[01:01:07] ministra spravedlnosti Pavla Blaška,
+[01:01:10] když návrh svého známého
+[01:01:11] káry Matice o darování
+[01:01:13] bitcoinů státu připustil.
+[01:01:14] ... podmínku.
+[01:01:17] Musí být k dispozici konkrétní
+[01:01:18] informace o majetku pana Jiříkovského,
+[01:01:21] tedy kolik bitcoinů se schovává
+[01:01:23] v jeho elektronice.
+[01:01:26] Přesně tato informace
+[01:01:28] je v bakalářské práci
+[01:01:30] Ondřeje Havlíka
+[01:01:32] a je i v rozsudku
+[01:01:34] v rozsudku
+[01:01:36] vrchního soudu
+[01:01:37] v Olomouci, kde jsou i čísla
+[01:01:40] Jiříkovského peněženek.
+[01:01:45] Nevím, proč zrovna
+[01:01:46] ministerstvo spravedlnosti
+[01:01:47] mělo přijímat tento dar,
+[01:01:49] proč ho nemělo přijmout ministerstvo financí.
+[01:01:52] Protože evidentně byly
+[01:01:54] domluvený Pavel, Blažek,
+[01:01:56] Tic a Daňhel
+[01:01:58] jako bývalí spolužáci
+[01:02:00] a partiáci z Brna,
+[01:02:02] že to tímto způsobem
+[01:02:04] zmáknou.
+[01:02:05] To je přeci jasný.
+[01:02:07] Nebo úřad pro zastupování státu věcech majetkových.
+[01:02:10] Já předpokládám, že kdyby
+[01:02:11] někdo přišel na ministerstvo spravedlnosti
+[01:02:14] s tím, že chce darovat
+[01:02:16] pikasův obraz, tak ho
+[01:02:17] zdvořile pošlou do Národní galerie
+[01:02:20] nebo na ministerstvo kultury
+[01:02:22] a nebudou si to vyřizovat sami.
+[01:02:25] Česko se chystalo na štědrý večer
+[01:02:27] a na oslavu Nového roku.
+[01:02:28] Po Blažkově sdělení,
+[01:02:31] že při pouští darování bitcoinů
+[01:02:33] stačilo Brněnskému krajskému soudu
+[01:02:35] pouhých deset pracovních dní
+[01:02:37] kolem Vánoc.
+[01:02:39] Deset pracovních dní
+[01:02:41] stačilo krajskému soudu
+[01:02:43] k rozhodnutí,
+[01:02:45] takže 13. prosince
+[01:02:47] to bylo, takže deset
+[01:02:49] máme 23. prosince
+[01:02:52] 2024
+[01:02:54] a tradá
+[01:02:56] veselé si Jiříkovský
+[01:02:58] jede pro všechny
+[01:03:01] počítače, kde byly
+[01:03:03] uloženy všechny bitcoiny
+[01:03:05] s obou dvou
+[01:03:07] tržišť ve výši
+[01:03:09] více jak 100 miliard
+[01:03:11] korun. Stačí vám to?
+[01:03:14] Takže oni mu to seberou,
+[01:03:16] zapečetěj
+[01:03:17] a zase mu to vrátěj.
+[01:03:19] Po rozhodnutí
+[01:03:20] nejvyššího soudu v Brně,
+[01:03:23] krajskýho soudu v Brně
+[01:03:24] a krajskýho ředitelství
+[01:03:27] policie Jihomoravského
+[01:03:29] kraje taky v Brně.
+[01:03:32] Aby rozhodl o vrácení
+[01:03:34] elektronik Jiříkovskému,
+[01:03:36] protože se do ní nikdo jiný
+[01:03:37] stejně prý nemohl dostat.
+[01:03:41] Jenom příklad ze Švýcarska
+[01:03:43] v rámci vyjednávání
+[01:03:45] tam bylo asi
+[01:03:46] bitcoinů jenom za 1,5
+[01:03:49] milionu euro.
+[01:03:50] Tak bylo vyjednáváno
+[01:03:53] kriminalisty s dotyčným
+[01:03:55] buď to nám
+[01:03:57] vydáte ledžer,
+[01:03:59] to je taková
+[01:04:01] fleška, na který jsou kryptoměny
+[01:04:03] uloženy, nebo
+[01:04:05] trezor, můžou se takto
+[01:04:07] jmenovat. A
+[01:04:09] buď to nám to okamžitě
+[01:04:11] vyndáte i s heslem,
+[01:04:14] anebo jdete
+[01:04:15] rovnou na 3
+[01:04:16] roky do vězení.
+[01:04:19] Takovýmto způsobem
+[01:04:20] se vyjednává o zajištění
+[01:04:23] důkazního
+[01:04:25] předmětu ve Švýcarsku.
+[01:04:28] Jo, to mám
+[01:04:29] z ověřených zdrojů.
+[01:04:31] ...sou předtím vyslechl
+[01:04:35] se soboru IT
+[01:04:37] a je potvrdili, že
+[01:04:40] současné technické prostředky
+[01:04:42] nedovolují
+[01:04:44] ty počítače prostě
+[01:04:46] bez spolupráce Jiříkovského
+[01:04:49] odevřít.
+[01:04:50] A Jiříkovský věděl,
+[01:04:52] že všechny ty peněženky
+[01:04:55] a jejich přístupový hesla,
+[01:04:58] což bylo evidentní.
+[01:05:00] ...soud tak rozhodl,
+[01:05:01] že z více než
+[01:05:02] 50 kusů zabavené elektroniky
+[01:05:05] se mají vymazat data ve třech notebookích
+[01:05:07] a na jednom pevném disku.
+[01:05:09] To je 46.
+[01:05:10] Ostatně se má Jiříkovskému vrátit nevymazané.
+[01:05:14] Ale, ale, ale.
+[01:05:22] Takže to je
+[01:05:23] jako kdyby tam byly
+[01:05:24] truhly, já jsem to už přirovnával
+[01:05:27] v tom vysílání 1.1.
+[01:05:29] 46 truhel
+[01:05:32] se zlatým pokladem
+[01:05:34] a nikdo
+[01:05:38] se do toho nepodívá.
+[01:05:40] Zabaví se to,
+[01:05:42] zapečetí se to
+[01:05:43] a pak se to vrátí
+[01:05:46] tomu pirátovi
+[01:05:47] a čeká se,
+[01:05:49] že přinese
+[01:05:51] ty truhly zase
+[01:05:53] k tomu porcování
+[01:05:55] před zástupci státu.
+[01:05:57] Takže on od 23.
+[01:05:59] prosince
+[01:06:00] 2024 měl
+[01:06:03] veškerou elektroniku k dispozici
+[01:06:06] a až
+[01:06:07] na začátku
+[01:06:09] března 2025
+[01:06:11] přinesl
+[01:06:13] jeden, slovy jeden,
+[01:06:16] počítač,
+[01:06:18] ze kterýho
+[01:06:19] se prováděl ten dár.
+[01:06:22] Ostatní
+[01:06:23] tam vůbec sebou nenosil.
+[01:06:26] Takže je absurdní,
+[01:06:27] že mu to vůbec,
+[01:06:29] vůbec vydali,
+[01:06:31] jo, takovýmhle
+[01:06:33] neuvěřitelným způsobem,
+[01:06:36] protože pokud si to
+[01:06:38] představíte jako truhly,
+[01:06:40] 46 truhel
+[01:06:42] se zlatým pokladem
+[01:06:43] v hodnotě víc jak 100 miliard korun,
+[01:06:46] tak Jiříkovský
+[01:06:48] tam přinese jednu
+[01:06:49] a sám určí,
+[01:06:52] kolik toho zlata
+[01:06:53] tam v tom bude
+[01:06:55] a z toho počtu
+[01:06:57] daruje
+[01:06:58] 30,
+[01:06:59] 100% ministerstvu,
+[01:07:01] jo, rozumíte tomu,
+[01:07:03] jak to udělali,
+[01:07:04] což není ani 1%
+[01:07:06] celkovýho lupu
+[01:07:09] a tohle,
+[01:07:10] tehle ověřitelný údaj
+[01:07:12] nikdo z novinářů
+[01:07:14] za rok a dva měsíce,
+[01:07:17] co tohle zveřejňuju,
+[01:07:18] nevindal ven.
+[01:07:20] Pro všechnu ostatní elektroniku
+[01:07:25] si už v den soudního rozhodnutí
+[01:07:27] Jiříkovský přijel sem.
+[01:07:29] Vánoční dárek
+[01:07:31] 23. prosince,
+[01:07:33] 100 miliard korun
+[01:07:35] zpátky vydáno
+[01:07:37] z policejního skladu.
+[01:07:39] Do policejního skladu
+[01:07:41] v Pražákově ulici v Brně.
+[01:07:43] Převzal si ji policií zapečetěnou
+[01:07:45] nebo otevřenou a rozpečetěnou?
+[01:07:49] Je to důležité.
+[01:07:51] Daloby...
+[01:07:51] Škopková, vůbec tohle
+[01:07:53] není důležitý, protože
+[01:07:55] zapečetěná elektronika
+[01:07:57] znamená, že je v igelitkách
+[01:08:01] zapečetěná
+[01:08:02] a jestliže se roztrhneme,
+[01:08:04] tak Jiříkovskýmu
+[01:08:07] bylo úplně uprdele,
+[01:08:09] jestli ty počítače
+[01:08:10] byly zapečetěný
+[01:08:12] nebo rozpečetěný,
+[01:08:14] protože roztrhnout
+[01:08:16] igeliták umí Jiříkovský
+[01:08:18] sám a evidentně
+[01:08:20] podle rekonstrukce
+[01:08:22] tam přinesl z těch
+[01:08:24] 640 nosičů
+[01:08:26] jeden jediný,
+[01:08:28] který už byl odevřený,
+[01:08:30] takže už z toho notebooku
+[01:08:32] veselé mohly probíhat
+[01:08:34] transakce už od
+[01:08:36] 23. prosince,
+[01:08:39] kdy mu to vydali
+[01:08:40] naprosto neuvěřitelným
+[01:08:42] skandálním způsobem,
+[01:08:44] už mohl posílat
+[01:08:46] bitcoiny komu chtěl, kdy chtěl,
+[01:08:49] kam chtěl, Škopková.
+[01:08:51] Je to jasný?
+[01:08:53] Je to totiž odpověď na otázku,
+[01:08:55] mohl si Jiříkovský ještě
+[01:08:57] před darem státu
+[01:08:58] s počítači a vrácenou elektronikou,
+[01:09:01] co chtěl?
+[01:09:02] Mohl!
+[01:09:03] Protože mu to vůbec neměli vracet,
+[01:09:06] když to zabavili,
+[01:09:08] a měli to vymazat a zničit,
+[01:09:10] anebo všechno mělo
+[01:09:12] připadnout korporaci Česko.
+[01:09:15] Já myslím, že
+[01:09:17] více jak 100 miliard
+[01:09:18] do rozpočtu předlužený
+[01:09:21] korporace by se šiklo.
+[01:09:27] Ale to by to nikdo nemohl ukrát,
+[01:09:30] kdyby to probíhalo takhle.
+[01:09:32] Takže tam musela být ta finta
+[01:09:34] s tím darem.
+[01:09:36] ...pomouci.
+[01:09:37] A to také mlčí.
+[01:09:39] Jiříkovský má elektroniku.
+[01:09:45] Neuvěřitelné.
+[01:09:47] ... začalo připravovat darovací smlouvu
+[01:09:49] mezi ním, bývalým drogovým dýlerem
+[01:09:51] a státem.
+[01:09:53] Do celého příběhu se tehdy dostává
+[01:09:55] i tento muž, inženýr Jiří Berger.
+[01:09:57] Inženýr Jiří Berger
+[01:09:59] provozuje ještě
+[01:10:01] cestovní kancelář
+[01:10:03] a vozí politiky z magistrátu Brno,
+[01:10:05] třeba Vyčmuchlou,
+[01:10:07] Markétu Vaňkovou
+[01:10:09] do Japonska.
+[01:10:11] On je nějakej hodně šikovnej
+[01:10:13] Jiří Berger jako
+[01:10:15] soudní znalec a on je
+[01:10:17] ku podivu taky z Brna.
+[01:10:19] To je ale divný.
+[01:10:21] ...expert na kybernetickou bezpečnost.
+[01:10:23] Koncem února 2025
+[01:10:25] se na něj obrací lidé
+[01:10:27] od ředitelky legislativního odboru
+[01:10:29] ministerstva spravedlnosti
+[01:10:31] Anny Bednářové.
+[01:10:33] ...Ana Bednářová, nevím jestli se mi
+[01:10:35] splet jméno, Ana Bednářová
+[01:10:37] v tom evidentně
+[01:10:39] jela taky
+[01:10:41] a její jméno
+[01:10:43] se tam nikde nevyskytuje,
+[01:10:45] protože ta to mohla
+[01:10:47] v okamžiku toho
+[01:10:49] pofiderního darování
+[01:10:51] zastavit, ale k tomu se
+[01:10:53] ještě v rekonstrukci dostaneme.
+[01:10:55] Zavolali mě
+[01:10:58] s tím, jestli jsem schopen
+[01:11:00] zprovozit 13 let starý počítač,
+[01:11:02] který 13 let údajně neběže.
+[01:11:04] Hele, 13 let starý počítač
+[01:11:06] nemusíte bejt
+[01:11:08] velký počtář
+[01:11:10] a v roce
+[01:11:12] 2025, 13 let
+[01:11:14] starý počítač máte
+[01:11:16] 2012.
+[01:11:18] To
+[01:11:20] provozoval Jiříkovský
+[01:11:22] tržiště
+[01:11:24] Sheep Marketplace, kde bylo
+[01:11:26] 30.918
+[01:11:28] špinavých
+[01:11:30] bitcoinů z drog.
+[01:11:32] Ostatní Jiříkovský
+[01:11:34] za to dostal rozsudek
+[01:11:36] 9 a půl roku,
+[01:11:38] kde jsou ty
+[01:11:40] čísla peněženek tohoto
+[01:11:42] tržiště uvedený,
+[01:11:44] ale o tom se nemluví,
+[01:11:46] protože to je částka
+[01:11:48] za 90 miliard
+[01:11:50] korun, jo?
+[01:11:52] Takže si to jenom na časový
+[01:11:54] ose dejte dohromady.
+[01:11:56] Jestli jsem schopen tam najít
+[01:11:59] jakékoliv kryptoměny,
+[01:12:01] pokud je tam najdu, tak jestli
+[01:12:03] jsem schopen udělat převod
+[01:12:05] na státní peněženku.
+[01:12:07] Soudní znalec, inž. Bergle
+[01:12:09] s nabídkou práce souhlasil, ale dal si
+[01:12:11] podmínky, za kterých je ochoten
+[01:12:13] spolupracovat. Zaprvé
+[01:12:15] výchozím předpokladem je, že
+[01:12:17] počítač dostanu zapečetěný
+[01:12:19] prostředky policie ČR.
+[01:12:21] Zapečetěný
+[01:12:23] počítač bylo porušeno.
+[01:12:25] Jinými slovy,
+[01:12:27] Jiříkovský tedy musel dostat
+[01:12:29] elektroniku policií zapečetěnou,
+[01:12:31] jinak by ani ministerstvo
+[01:12:33] spravedlnosti přece nemohlo
+[01:12:35] spolupracovat toto jeho prohlášení
+[01:12:37] do darovací slouvy.
+[01:12:40] Od 12.4.2016
+[01:12:42] jsem nedisponoval
+[01:12:44] elektronickými zařízeními
+[01:12:46] uvedenými v článku 6,
+[01:12:48] ve kterých se nachází přístupové
+[01:12:50] údaje k virtuálním peněženkám.
+[01:12:52] Ano, tady
+[01:12:54] mluví pravdou, protože
+[01:12:56] od 12. dubna
+[01:12:58] 2016
+[01:13:00] byl Jiříkovský
+[01:13:02] ve vazbě
+[01:13:04] a elektronika
+[01:13:06] byla zabavena
+[01:13:08] a od té doby
+[01:13:10] tyhle obrovské množství
+[01:13:12] bitcoinů byly
+[01:13:14] v policejním skladu.
+[01:13:16] Tady mluví Jiříkovský
+[01:13:18] naprostou pravdu.
+[01:13:20] A neměl jsem
+[01:13:22] tedy možnost jakkoliv ovlivňovat
+[01:13:24] obsah virtuálních peněženek
+[01:13:26] a stav kryptoměn,
+[01:13:28] které se na těchto virtuálních
+[01:13:30] peněženkách aktuálně nacházejí.
+[01:13:32] To sedí.
+[01:13:34] Kdyby byl soupis elektroniky,
+[01:13:36] kterou měl Jiříkovský dodat,
+[01:13:38] ministerstvo spravedlnosti začernilo.
+[01:13:40] V případě
+[01:13:43] výčtu věcí, které měly být
+[01:13:45] nějakým způsobem dopraveny
+[01:13:47] tomu znalci, se určitě nejedná
+[01:13:49] o žádné osobní údaje
+[01:13:51] a velmi pochybuji, že by se dalo
+[01:13:53] udůvodnit, že se jedná o
+[01:13:55] informace z obchodního tajemství.
+[01:13:57] To znamená, začernění této části
+[01:13:59] ze strany ministerstva spravedlnosti
+[01:14:01] je z mého pohledu jednoznačně
+[01:14:03] protizákonné.
+[01:14:05] Jestli tam nejsou čísla
+[01:14:07] těch peněženek, jo?
+[01:14:09] To by byla prča.
+[01:14:11] Ministerstvo by mělo tuhle část
+[01:14:13] smlouvy zveřejnit.
+[01:14:15] I další podmínka ználce inženýra Bergera byla logická.
+[01:14:17] Teprve následně dojde k rozpečetění
+[01:14:19] a k fotodokumentaci.
+[01:14:21] K žádnému
+[01:14:23] rozpečetění nedošlo,
+[01:14:25] protože Jiříkovský přines
+[01:14:27] místo 46
+[01:14:29] nosičů
+[01:14:31] jeden počítač.
+[01:14:33] Slovy jeden.
+[01:14:35] To je výsměh.
+[01:14:45] Třetina,
+[01:14:47] co jim Jiříkovský
+[01:14:49] donese.
+[01:14:51] On určoval, co se nalezne.
+[01:14:53] Protože to ostatní
+[01:14:55] se ukradlo
+[01:14:57] pro Odesáky
+[01:14:59] spolu s Brňákama.
+[01:15:01] Pro všechny
+[01:15:03] zapojený rozhodnutí,
+[01:15:05] nejvyššího soudu,
+[01:15:07] krajskýho soudu,
+[01:15:09] krajskýho ředitelství
+[01:15:11] policie.
+[01:15:13] Těch peněz přeci bylo dost,
+[01:15:15] když ukradnete více,
+[01:15:17] jak 100 miliard.
+[01:15:20] Kdyby se vykopala truhla a měla být plná zlata,
+[01:15:22] tak všichni u toho budou čekat,
+[01:15:25] jak se otevře výko,
+[01:15:27] aby věděli, kolik je tam peněz,
+[01:15:29] aby se z toho určila ta třetina.
+[01:15:31] O tom žádná informace nemáme
+[01:15:33] a pravděpodobně o tom neexistuje žádný záznam,
+[01:15:35] nikdo u toho nebyl
+[01:15:37] jako nezávislý svědek.
+[01:15:39] To je divný.
+[01:15:41] Že otevření nebo připravení toho počítače
+[01:15:43] trvalo třeba 12 hodin,
+[01:15:45] tak to prostě se bude 12 hodin nahrávat.
+[01:15:47] To není žádný problém,
+[01:15:49] dneska to je technicky naprosto bezproblémová věc.
+[01:15:51] Nic se nenahrávalo
+[01:15:55] a ani se nedostavili žádní
+[01:15:57] státní úředníci,
+[01:15:59] aby dokáželi na pomyslné otvírání
+[01:16:01] truhly plné zlata.
+[01:16:03] Zárukou měl být notář z Brna, pan Mika.
+[01:16:05] Taky nepřijel.
+[01:16:07] Taky z Brna.
+[01:16:29] To je naprosto
+[01:16:31] neuvěřitelná věc,
+[01:16:33] kde
+[01:16:35] u takovýhleho
+[01:16:37] lupu
+[01:16:39] se zúčastnili
+[01:16:41] Jiříkovský,
+[01:16:43] údajný hlavní organizátor
+[01:16:45] Karim Tic
+[01:16:47] a soudní znalec
+[01:16:49] Berger z Brna,
+[01:16:51] který ho ale
+[01:16:53] údajně vyplácel,
+[01:16:55] ne aby jednal
+[01:16:57] v zájmu státu,
+[01:16:59] ale vyplácel ho Karim Tic,
+[01:17:01] obhájce obviněnýho.
+[01:17:03] Takže u otvírání
+[01:17:05] peněženek byly 3 lety.
+[01:17:07] A za Česko?
+[01:17:09] Za Ministerstvo
+[01:17:11] Spravedlnosti?
+[01:17:13] Tam nebyl nikdo?
+[01:17:15] To přeci není možný, tohle.
+[01:17:19] Ale u nás
+[01:17:21] je evidentně možný
+[01:17:23] úplně všechno.
+[01:17:25] Masaryku, počůvaj dál.
+[01:17:27] Minimálně stovky milionů korun
+[01:17:29] a v takovém okamžiku,
+[01:17:31] kdyby oni zastupovali sami sebe,
+[01:17:33] svoji rodinu,
+[01:17:35] tak udělejí všechno pro to,
+[01:17:37] aby vždy nespustili z dohledu
+[01:17:39] a měli vždy kontrolu nad tím,
+[01:17:41] co se s tím počítačem děje.
+[01:17:43] To vždycky měla mít pod kontrolou
+[01:17:45] zapečetěný
+[01:17:47] policie.
+[01:17:49] Vůbec nebylo možný
+[01:17:51] tohleto vydávat
+[01:17:53] na pospas Jiřikovskýmu
+[01:17:55] před Vánocema
+[01:17:57] 46 počítačů
+[01:17:59] s více jak 100 miliardama
+[01:18:01] korun.
+[01:18:03] To byl ale pěknej
+[01:18:05] záležitostní dárek
+[01:18:07] na ten štědrej den
+[01:18:09] 2024.
+[01:18:11] Podle mě došlo
+[01:18:15] jeden z dalších mnoha otazníků
+[01:18:17] a tenhle bych řekl,
+[01:18:19] že je téměř kriminální.
+[01:18:23] Ten je 100% kriminální,
+[01:18:25] ne téměř.
+[01:18:27] Tady nemá místo
+[01:18:29] jakákoliv diminutiva,
+[01:18:31] takže první otvírání
+[01:18:33] jednoho notebooku,
+[01:18:35] který tam Jiřikovský
+[01:18:37] přinese,
+[01:18:39] a pět ostatních
+[01:18:41] notebooků a nosičů
+[01:18:43] zůstává někde v prdeli
+[01:18:45] u Jiříkovskýho
+[01:18:47] v bytě
+[01:18:49] a přinese jeden,
+[01:18:51] jeden jedinek.
+[01:18:53] To ostatní
+[01:18:55] je fuč.
+[01:18:58] Pojďme si tedy zrekonstruovat,
+[01:19:04] co se dělo během těch
+[01:19:06] několika dní kolem otvírání
+[01:19:08] virtuálních peněžení obsahujících
+[01:19:10] bitcoiny za miliardy.
+[01:19:12] Pojďme na to, paní Škopková.
+[01:19:14] Teď je to pěkný, fakt.
+[01:19:16] Najali jsme si několik komparzistů.
+[01:19:18] Otvírání vrácené elektroniky
+[01:19:20] proběhlo v Praze,
+[01:19:22] v sídle soudního znalce.
+[01:19:24] Pan inž. Berger čekal
+[01:19:32] ve své kanceláři na doručení
+[01:19:34] zapečetěné elektroniky sepsané
+[01:19:36] v bodě 6 darovací smlouvy.
+[01:19:38] Soudní znalec.
+[01:19:40] Muž v barevné mikině je komparzista
+[01:19:42] a představuje pana Jiříkovského.
+[01:19:44] Vpravo jde představitel
+[01:19:46] pana advokáta Káry Matice.
+[01:19:49] Za korporaci
+[01:19:51] nezapomínáte,
+[01:19:53] že je to někdo?
+[01:19:55] Bylo to ještě před šestým,
+[01:19:57] kdy mi přivezli počítač
+[01:19:59] pan Jiříkovský s panem Tycem.
+[01:20:01] Já si nepomnu, kdy to bylo,
+[01:20:03] ale bylo to v tom týdnu
+[01:20:09] z kraje toho týdne.
+[01:20:11] Jiříkovský měl přinést
+[01:20:13] hromadu zapečetěné elektroniky,
+[01:20:15] na kterou od roku 2016 nesáhl.
+[01:20:17] Jo, jo.
+[01:20:19] Hromada zapečetěných.
+[01:20:21] Já jsem původně předpokládal,
+[01:20:23] že mi přijdou zapečetěné věci.
+[01:20:25] To přeci v tenhle moment
+[01:20:27] musí všechno
+[01:20:29] skončit.
+[01:20:31] Konec.
+[01:20:33] Neplatná smlouva.
+[01:20:35] Nic nebude.
+[01:20:37] Nic neuděláme.
+[01:20:39] Ale v tom případě by ty bitcoiny
+[01:20:41] nikdo nemohl ukrást.
+[01:20:43] Takže se v tom jelo
+[01:20:45] veselé dál
+[01:20:47] a trio Berger, Tyc, Jiříkovský
+[01:20:49] měli volné ruce
+[01:20:51] proto,
+[01:20:53] aby vyčachrovali dár
+[01:20:55] ve výši,
+[01:20:57] kterou uznali za vhodný,
+[01:20:59] aby se vlk nažral
+[01:21:01] a koza zůstala
+[01:21:03] celá.
+[01:21:05] Proto přines Jiříkovský
+[01:21:07] jeden nezapečetěný
+[01:21:09] počítač.
+[01:21:11] Jsem přesvědčený,
+[01:21:13] že ostatní elektronika obsahoval
+[01:21:15] další peněženky.
+[01:21:17] Je to logický předpoklad.
+[01:21:19] Pokud dostanu do ruky počítač,
+[01:21:21] který není zapečetěný,
+[01:21:23] mohl kdokoliv předtím pracovat.
+[01:21:25] Mohlo mít kdokoliv otevřený.
+[01:21:27] Myslím si, že byl nafocený,
+[01:21:29] ale nebylo to potřeba, protože to nebylo zapečetěné.
+[01:21:32] Darovací smlouva byla uzavřena
+[01:21:34] mezi ministerstvem spravedlnosti
+[01:21:36] a dárcem Tomášem Jiříkovským.
+[01:21:38] Inženýr Berger byl znalec
+[01:21:41] a nikoli zástupce státu.
+[01:21:43] Měl otevřít staré...
+[01:21:45] A měl ho platit Karim Tyc,
+[01:21:47] aby těch podivností
+[01:21:49] nebylo málo.
+[01:21:51] Takže takhle
+[01:21:53] tři kluci
+[01:21:55] a tě tam mudrovali,
+[01:21:57] kolik asi výpalného
+[01:21:59] pošlou Pablovi Blažkovi,
+[01:22:01] aby zbytek
+[01:22:03] za více jak 100 miliard
+[01:22:05] mohli rozkrásit.
+[01:22:08] ... zahyslované od roku 2016
+[01:22:10] nedotčené počítače.
+[01:22:12] Nebylo jeho úkolem sledovat,
+[01:22:14] co dělá pan Jiříkovský.
+[01:22:16] Se mnou žádnou smlouvu neměl,
+[01:22:20] ale nebylo to žádné režimové pracoviště,
+[01:22:22] že bychom se tam hlídali v podstatě.
+[01:22:24] Takže seděli jsme tam vždy všichni tři,
+[01:22:26] ale není to tak,
+[01:22:28] že si někdo nemohl hodit na záchod
+[01:22:30] nebo pozadě vyřídit telefon.
+[01:22:32] Této situace, jak se později ukázalo,
+[01:22:34] Jiříkovský využil.
+[01:22:36] Co to je za blbost, Škopková?
+[01:22:38] Když mu vydali
+[01:22:40] 23. prosince
+[01:22:42] všechny
+[01:22:44] nosiče a počítače,
+[01:22:46] tak proč by něco
+[01:22:48] využíval v kanclu
+[01:22:50] 6. března,
+[01:22:52] když si to mohl
+[01:22:54] rozposílat, kdy chtěl,
+[01:22:56] jak chtěl
+[01:22:58] kolik chtěl.
+[01:23:00] To je naprosto
+[01:23:02] zavádějící nesmyslná
+[01:23:04] informace, aby tady byla
+[01:23:06] nějaká zápletka.
+[01:23:08] Protože Jiříkovský
+[01:23:10] přesně měl
+[01:23:12] instrukce, kolik
+[01:23:14] poslat a kolik
+[01:23:16] bude na rozkradení
+[01:23:18] další a legalizace
+[01:23:20] výnosu zdrob
+[01:23:22] za víc jak 100 miliard
+[01:23:24] korun.
+[01:23:27] Pořád tam za
+[01:23:31] českou není nikdo.
+[01:23:33] 6. března se
+[01:23:36] pan Jiříkovský a jeho advokát
+[01:23:38] pan Karim Tic sešli v kanceláři
+[01:23:40] ználce pana inženýra Bergera
+[01:23:42] jen na krátkou dobu.
+[01:23:44] Zase jenom tři.
+[01:23:46] Už jsem viděl přesnou částku, kolik tam je.
+[01:23:48] Tu jsem oznámil panu Jiříkovskému
+[01:23:50] a panu Ticovi a notebook jsem zaklapnul
+[01:23:52] a uložil do trezoru.
+[01:23:54] Hele, další
+[01:23:56] jako finta. Pokud máte
+[01:23:58] ten
+[01:24:00] kód,
+[01:24:02] tý peněženky,
+[01:24:04] pokud máte heslo k tý peněžence,
+[01:24:06] tak je vám
+[01:24:08] úplně prdplatný,
+[01:24:10] že to zavřete do trezoru,
+[01:24:12] protože z jakýhokoliv
+[01:24:14] jinýho
+[01:24:16] přístupu můžete
+[01:24:18] veselé tu peněženku
+[01:24:20] ovládat,
+[01:24:22] vybrabčit. To je další úplně
+[01:24:24] zavádějící
+[01:24:26] informace pro blbce.
+[01:24:28] Tím, že zamknete
+[01:24:30] počítač do trezoru,
+[01:24:32] tak tím neochráníte
+[01:24:34] ten jeho obsah,
+[01:24:36] protože ho můžete vybrabčit
+[01:24:38] odkudkoliv
+[01:24:40] jinud. No a taky
+[01:24:42] Jiříkovský to dělal
+[01:24:44] a udělal.
+[01:24:47] Znalec Berger nahlásil, že v peněžence
+[01:24:49] našel 1561,6
+[01:24:51] bitcoinů. Vypočítal,
+[01:24:53] že 30% z toho
+[01:24:55] je 468 bitcoinů.
+[01:24:57] Hodnota daru státu.
+[01:24:59] Udělal screenshot, fotografii
+[01:25:01] obrazovky a počítač uložil
+[01:25:03] do trezoru. Všichni se rozloučili
+[01:25:08] a odešli. Teď sledujte.
+[01:25:10] Poté začali z notebooku zamčeného
+[01:25:12] v trezoru vyzet bitcoiny.
+[01:25:14] Ale, ale.
+[01:25:16] Když se zeptáte na 14. hodinu,
+[01:25:18] tak jsem určitě ten notebook už
+[01:25:20] otevřený neměl, protože já jsem ho
+[01:25:22] dopoledne sem zjistil,
+[01:25:24] do běhla synchronizace, zjistil sem, kolik tam je.
+[01:25:26] To jsem nahlásil a notebook sem zaklapnul
+[01:25:28] a uložil sem ho do trezoru.
+[01:25:30] Ve 14.30 odchází z virtuální
+[01:25:32] peněženky darkwebového tržiště
+[01:25:34] Nucleus na P1, říkejme
+[01:25:36] na peněženku 1,
+[01:25:38] první více než miliarda.
+[01:25:40] 546 bitcoinů.
+[01:25:42] Miliarda sem,
+[01:25:44] miliarda tam.
+[01:25:46] Vidíte, jak byli
+[01:25:48] nadržený, jak
+[01:25:50] to nemohli vydržet
+[01:25:52] do 7. třetí,
+[01:25:54] až tam se hrajou
+[01:25:56] taškařici s bednářovou
+[01:25:58] a s daňhelem
+[01:26:00] a rovnou
+[01:26:02] šábe se
+[01:26:04] rozposílal
+[01:26:06] 6. třetí ještě
+[01:26:08] před tím
+[01:26:10] oficiálním
+[01:26:12] přeposíláním daru.
+[01:26:14] Takže sledujte dál.
+[01:26:16] Po páté odpoledne
+[01:26:18] odchází z té samé peněženky
+[01:26:20] drogového tržiště další miliarda
+[01:26:22] a více než 100 milionů korun
+[01:26:24] na peněženku P2.
+[01:26:26] Ale, ale.
+[01:26:28] V 10 hodin večer
+[01:26:30] z peněženky P1 odchází 40 bitcoinů
+[01:26:32] Tady si myslím,
+[01:26:35] že je
+[01:26:37] základní chyba
+[01:26:39] a v té první reportáži
+[01:26:41] v té analýze 24.
+[01:26:43] jsem
+[01:26:45] si toho nevšimnul
+[01:26:47] ale teď
+[01:26:49] jsem to ověřil
+[01:26:51] tak kurz 6. března
+[01:26:53] v době,
+[01:26:55] kdy Jiříkovský
+[01:26:57] tam odklonil
+[01:26:59] na 3 peněženky
+[01:27:01] ty částky,
+[01:27:03] které byly
+[01:27:05] vytvořeny
+[01:27:07] za 1 bitcoin
+[01:27:09] ale 7.3.
+[01:27:11] se to
+[01:27:13] propadlo
+[01:27:15] o skoro
+[01:27:17] 3200 dolarů dolů
+[01:27:19] se propadnul
+[01:27:21] kurz bitcoinů
+[01:27:23] takže 7.3.
+[01:27:25] byl kurz 86
+[01:27:27] 737
+[01:27:29] Čabajko,
+[01:27:31] co ten facebook
+[01:27:33] mi tady ukazuje
+[01:27:35] důležitý je,
+[01:27:37] aby to chytli kluci
+[01:27:39] z kriminálky
+[01:27:41] ze státního zastupitelství
+[01:27:43] z NCOZ
+[01:27:45] z NCTEKK
+[01:27:47] a myslím,
+[01:27:49] že se to dostane
+[01:27:51] i k obyčejným lidem
+[01:27:53] jo, tady pro tyhle
+[01:27:55] to dělám,
+[01:27:57] aby nezapomněli
+[01:27:59] kozinům
+[01:28:01] tak,
+[01:28:03] takže skoro
+[01:28:05] 3200 dolarů
+[01:28:07] byl propad u těch bitcoinů
+[01:28:09] což na počtu
+[01:28:11] 468 bitcoinů
+[01:28:13] který měli být darovaný
+[01:28:15] státu
+[01:28:17] dělalo
+[01:28:19] 1 497 000
+[01:28:21] dolarů
+[01:28:23] což v tehdejším kurzu
+[01:28:25] bylo dolar
+[01:28:27] za 23 korun
+[01:28:29] jenom na kurzovým rozdílu
+[01:28:31] tenhle ten pokles
+[01:28:33] 34 milionů
+[01:28:35] korun
+[01:28:37] a tenhle ten pokles
+[01:28:39] jim nehrál, protože
+[01:28:41] Jiříkovský si tam uklidil
+[01:28:43] těch 40 bitcoinů
+[01:28:45] v těch 10 hodin večer
+[01:28:47] a ty potom
+[01:28:49] v dalším průběhu
+[01:28:51] prostě scházeli
+[01:28:53] jo, fajn a super je,
+[01:28:55] že všechny tyhlety informace
+[01:28:57] od údajného
+[01:28:59] dezinformátora
+[01:29:01] a konspirátora
+[01:29:03] si můžete transparentně
+[01:29:05] ověřit
+[01:29:08] jdeme dál
+[01:29:11] z virtuální peněženky drogového tržiště Nucleus
+[01:29:13] kterou našel pan inženýr Berger
+[01:29:15] odešlo 1092 bitcoinů
+[01:29:17] tedy 2 miliardy
+[01:29:19] a 180 milionů
+[01:29:21] jo, to odešlo
+[01:29:23] 6. března
+[01:29:25] a co odešlo po tom
+[01:29:27] co mu vrátili policie
+[01:29:29] z toho zapečetěnýho skladu
+[01:29:31] od 23. prosince
+[01:29:33] to všechno
+[01:29:35] je transparentně uloženo
+[01:29:37] na blockchainu známých
+[01:29:39] peněženek
+[01:29:41] Nucleus Market
+[01:29:43] a SHIB Marketplace
+[01:29:45] stačí se jenom, aby se specializované
+[01:29:47] jednotky policie
+[01:29:49] těch útvarů
+[01:29:51] NCOZ
+[01:29:53] a NCTEKK
+[01:29:55] na ten blockchain podívali
+[01:29:57] Jiříkovský nečekal do
+[01:30:00] druhého dne na žádného notáře
+[01:30:02] ne
+[01:30:04] ani na znalce
+[01:30:06] nečekal ani
+[01:30:08] jo, a kdy chtěl
+[01:30:10] už od toho 23. prosince
+[01:30:12] ten převod už 6.
+[01:30:14] znamená, že musel
+[01:30:16] disponovat nějakou kopii
+[01:30:18] pokud víte, co hledáte
+[01:30:20] to není těžké
+[01:30:22] jeden soubor který se vám vyjde na flešku
+[01:30:24] to, že se tam začali ten samý den
+[01:30:26] konat operace
+[01:30:28] nějakým způsobem dost staví do podivného světla
+[01:30:30] celé to jednání znalce
+[01:30:32] pana Jiříkovského z 6. března
+[01:30:34] nevím, že
+[01:30:36] online se komunita
+[01:30:38] dozvěděla o tom, že
+[01:30:40] peněžinky tržiště Nucleus ožily
+[01:30:42] a dozvěděla se to
+[01:30:45] nejenom komunita, ale
+[01:30:47] i FBI, že
+[01:30:49] dlouho velrybářská
+[01:30:51] mrtvá peněžinka
+[01:30:53] začala posílat
+[01:30:55] bitcoiny na další
+[01:30:57] peněžinky a všechno
+[01:30:59] je to od 23.
+[01:31:01] prosince, kdy byla technika
+[01:31:03] Jiříkovskému vrácena
+[01:31:05] v počtu 46
+[01:31:07] kusů, tak všechno
+[01:31:09] je dohledatelné
+[01:31:11] a to je na tom to
+[01:31:13] nejkrásnější
+[01:31:15] kam potovaly bitcoiny z drogového tržiště
+[01:31:17] na dark webu?
+[01:31:19] kde vystoupily 3 nové peněženky?
+[01:31:21] či asi jsou?
+[01:31:24] později se totiž objevila snaha tvrdit,
+[01:31:26] že bitcoiny ušpiněné drogovým
+[01:31:28] tržištěm nejsou vhodné na úplatky
+[01:31:30] že je vlastně nelze snížit
+[01:31:32] tak úplně pravda to není
+[01:31:34] to samozřejmě tak není
+[01:31:36] že by špinavé bitcoiny byly
+[01:31:38] k ničemu, jenom je prostě
+[01:31:40] neprodáte za plnou cenu
+[01:31:42] vždycky je nějak udáte
+[01:31:44] vždycky najdete nějaké obchodníky
+[01:31:46] nemůžete s nimi třeba
+[01:31:48] obchodovat ve velké množství
+[01:31:50] musíte rozpouštět po nějakým
+[01:31:52] jo na to jsou speciální
+[01:31:54] mixéry, ale když jich máte
+[01:31:56] za víc jak 100 miliard
+[01:31:58] no tak
+[01:32:00] to je ale raketa
+[01:32:02] v menších množstvích
+[01:32:04] ale rozhodně se s nima dá
+[01:32:06] pořídit si krásný život
+[01:32:08] zejména ve východní Ázii
+[01:32:10] je řada dneska služeb
+[01:32:12] proto Jiříkovský cestoval
+[01:32:14] pod dohledem svých
+[01:32:16] organizátorů
+[01:32:18] směňovat bitcoiny
+[01:32:20] do Ázie
+[01:32:22] a nebyl okamžitě
+[01:32:24] jaksi uvalen
+[01:32:26] do vazby
+[01:32:28] i když hrozily vazemní důvody
+[01:32:30] i na všechny zúčastněné
+[01:32:32] v rámci této
+[01:32:34] celé organizované zločinecké
+[01:32:36] skupiny
+[01:32:38] tak si takhle vyjel na výlet
+[01:32:40] aby ho pak
+[01:32:42] v srpnu sundávali
+[01:32:44] ze střechy
+[01:32:46] takzvaných mixérů
+[01:32:48] které poskytují to
+[01:32:50] že vlastně vy na jejich peněžinku
+[01:32:52] pošlete své bitcoiny
+[01:32:54] které chcete vyprat
+[01:32:56] ale počítejte s tím
+[01:32:58] že ztratíte klidně polovinu
+[01:33:01] z té původní hodnoty
+[01:33:03] ostatně Severní Korea
+[01:33:06] se tímto způsobem
+[01:33:08] samozřejmě vzpomíná
+[01:33:13] a oficiální DND
+[01:33:15] ale řídko je v klidu ty maďare
+[01:33:17] 7. března 1D
+[01:33:19] a doplnit do ní částku 30%
+[01:33:21] z toho co se našlo
+[01:33:23] a převést bitcoiny na státní
+[01:33:25] co se našlo na jednom
+[01:33:27] počítači
+[01:33:29] kdy dalších 45
+[01:33:31] počítačů
+[01:33:33] bylo doma
+[01:33:35] v obýváku asi
+[01:33:37] u Jiříkovskýho
+[01:33:39] vnímáte tu absurditu
+[01:33:41] tohohle toho daru
+[01:33:43] který byl
+[01:33:45] limitovaný tím
+[01:33:47] co si asi tak
+[01:33:49] řekne
+[01:33:51] že by schroupnuli
+[01:33:53] a ve skutečnosti
+[01:33:55] to bylo necelé 1%
+[01:33:57] toho celkovýho lupu
+[01:34:11] a Mika Doráží
+[01:34:13] nebyl u otvírání
+[01:34:15] peněženky
+[01:34:17] a ověřil to jenom
+[01:34:19] na základě screenshotu
+[01:34:21] že obvinění
+[01:34:23] pro pana
+[01:34:25] Lubomíra Miku
+[01:34:27] jako člena organizované
+[01:34:29] zločinecké skupiny
+[01:34:31] je zcela na místě
+[01:34:33] protože nebyla
+[01:34:35] dodržena
+[01:34:37] a zapsal si
+[01:34:40] na místě již byly
+[01:34:42] v zasedací místnosti
+[01:34:44] pan Berger který se mi představil
+[01:34:46] jako soudní znalec
+[01:34:48] pan Jiříkovský jako dárce
+[01:34:50] v zápise uvede notář později špatně i jeho jméno
+[01:34:52] Karim Tyc
+[01:34:54] který se mi představil
+[01:34:56] jako advokát zastupujícího Jiříkovského
+[01:34:58] následně se dostavili
+[01:35:00] za ministerstvo spravedlnosti
+[01:35:02] ekonomický náměstek
+[01:35:04] Radomír Daňhel
+[01:35:06] a ředitelka právního odboru
+[01:35:08] ministerstva spravedlnosti
+[01:35:10] Anna Bednářová
+[01:35:12] takže tady evidentní
+[01:35:14] trestně
+[01:35:16] právní odpovědnost
+[01:35:18] pro paní ředitelku
+[01:35:20] Annu Bednářovou
+[01:35:22] a pro už obviněného
+[01:35:24] Radomíra Daňhela
+[01:35:26] jo
+[01:35:28] abysme na nikoho nezapomněli
+[01:35:30] důvodem mé přítomnosti
+[01:35:33] je zachycení
+[01:35:35] průběhu poskytovaného daru
+[01:35:37] ve virtuální měně bitcoin
+[01:35:40] nástupci ministerstva spravedlnosti
+[01:35:42] Daňhel a Bednářová
+[01:35:44] přinesli darovací smlouvu
+[01:35:46] podle které měl být notář Mika
+[01:35:48] přítomný už o několik dnů dřív
+[01:35:50] uz přístupnění virtuálních peněženek
+[01:35:52] sepsaných v bodě 6 a měl ověřit
+[01:35:54] že bitcoinu se na nich najde
+[01:35:56] tak evidentní
+[01:35:58] porušení smlouvy
+[01:36:00] to znamená
+[01:36:02] stop konec
+[01:36:04] finish voláme
+[01:36:06] policii
+[01:36:08] protože se tady kradlo
+[01:36:10] ještě před
+[01:36:12] oficiálním předáním
+[01:36:14] toho daru
+[01:36:16] nic z toho
+[01:36:18] ovšem zúčastnění
+[01:36:20] neudělali
+[01:36:23] ani u jedné z těchto skutečností
+[01:36:25] ráno sedmého
+[01:36:27] když už z peněženky zmizely bitcoiny
+[01:36:29] za miliardy
+[01:36:31] mu proto musel stačit screenshot
+[01:36:33] fotka obrazovky počítače
+[01:36:35] z předešlého dne
+[01:36:37] opět trestně právní odpovědnost
+[01:36:39] porušení
+[01:36:41] smlouvy
+[01:36:43] a konec
+[01:36:45] policie volat
+[01:36:47] a šetřit
+[01:36:50] okamžitě
+[01:36:52] ten notebook byl otevřený den předem
+[01:36:54] manipuloval se s ním
+[01:36:56] a notář
+[01:36:58] protože je to dohledatelný na blockchainu
+[01:37:00] tam všechno transparentně je
+[01:37:02] je to úplně něco jinýho
+[01:37:04] než kradení v igelitkách
+[01:37:06] uvěřil až druhý den
+[01:37:08] že mu někdo ukázal fotografii té truhly
+[01:37:10] screenshot bez ničeho
+[01:37:12] se prakticky nedá
+[01:37:14] dneska v soudním řízení použít jako důkaz
+[01:37:16] prostě to nejde
+[01:37:18] protože dnešní grafické programy
+[01:37:21] vám stvoří jakoukoliv grafickou informaci
+[01:37:23] vytvořit si potvrzení
+[01:37:25] o něčem dneska to řeknete
+[01:37:27] a je o tom potvrzení máte za pár
+[01:37:29] vteřin vytvořené
+[01:37:31] Lubomír Mika
+[01:37:33] jednoznačná trestně
+[01:37:35] právní odpovědnost
+[01:37:37] screenshot by snad byl
+[01:37:40] přijatelný pokud by ho pořídil
+[01:37:42] sám notář den předtím
+[01:37:44] a hned ho sám i ověřil
+[01:37:46] jenže u pořizování této fotky
+[01:37:48] obrazovky pan notář Mika
+[01:37:50] nebyl musel věřit
+[01:37:52] že státu připadne 468
+[01:37:54] bitcoinů
+[01:37:58] v zájmi státu ten den zastupovali dva úspěchy
+[01:38:00] na řednici ministerstva spravedlnosti
+[01:38:02] náměstek Radomír Daňhel
+[01:38:04] a ředitelka legislativního odboru
+[01:38:06] Ana Bednářová
+[01:38:08] špičky naší justice
+[01:38:10] proč se nehledalo i v jiné elektronice pana Jiříkovského
+[01:38:12] proč se zástupci státu neptali
+[01:38:14] to byla dobrá otázka
+[01:38:16] Škopková
+[01:38:18] protože Jiříkovský jim přines
+[01:38:20] ukázat jenom jeden počítač
+[01:38:22] 45 počítačů
+[01:38:24] s ostatníma peněženkama
+[01:38:26] sebou netahal
+[01:38:28] a policie
+[01:38:30] mu je vůbec neměla
+[01:38:32] vydat
+[01:38:34] jednoduchý, ale správně položená
+[01:38:36] otázka
+[01:38:38] chválím Škopková
+[01:38:41] ...
+[01:38:43] byly tam
+[01:38:45] ...
+[01:38:47] ...
+[01:38:49] ...
+[01:38:51] ...
+[01:38:53] ...
+[01:38:55] ...
+[01:38:57] ...
+[01:39:00] ...
+[01:39:02] ...
+[01:39:04] ...
+[01:39:06] ...
+[01:39:08] ...
+[01:39:10] ...
+[01:39:12] ...
+[01:39:14] ...
+[01:39:16] ...
+[01:39:18] ...
+[01:39:20] ...
+[01:39:22] ...
+[01:39:24] ...
+[01:39:26] ...
+[01:39:28] ...
+[01:39:30] rozumněj zdrok.
+[01:39:33] Bylo to v době, kdy měl být
+[01:39:35] notebook uložený v trezoru.
+[01:39:39] No o tom
+[01:39:39] malý dítě nevěří.
+[01:39:42] No to bylo celé, se to se běhlo hrozně rychle.
+[01:39:44] Já jsem ten počítač otevřel, v tu chvíli
+[01:39:46] přišel pan Tic s panem Jiříkovským
+[01:39:48] a když přišli nahoru, tak se ten počítač dosynchronizoval
+[01:39:50] a já jsem zjistil, že teda v podstatě
+[01:39:52] část už byla převedena.
+[01:39:54] A předtím, než bychom byli schopni začít kolem toho
+[01:39:56] diskutovat nebo hádat, tak vlastně
+[01:39:58] začali přicházet ostatní na tu schůzku.
+[01:40:00] Takže v podstatě už tam ten prostor nebyl
+[01:40:01] a já jsem i na té schůzce řekl,
+[01:40:04] že v podstatě část prostředku už byla převedena.
+[01:40:07] Prd, prd, prd
+[01:40:08] a tři transakce
+[01:40:10] a bitcoiny fuč.
+[01:40:12] Jo, takhle to věděl,
+[01:40:14] ale jenom z toho
+[01:40:16] jednoho rozpečetěného
+[01:40:19] počítače, který
+[01:40:20] Jiříkovský přinesl.
+[01:40:22] Jo, ostatní jim
+[01:40:24] ani neokázal.
+[01:40:26] Místo toho, aby zástupci státu
+[01:40:28] tu celou akci zastavili a zavolali
+[01:40:30] policii, nechávají vše běžet
+[01:40:32] dál. To by byl
+[01:40:34] jediný správný
+[01:40:36] postup, který by
+[01:40:38] je zachránil
+[01:40:40] před trestním stíháním.
+[01:40:42] Pokud tedy
+[01:40:43] funguje tady
+[01:40:46] nějaká moc výkona
+[01:40:48] a soudní.
+[01:40:50] Pokud bude fungovat.
+[01:40:53] Za asistence nejvyšších
+[01:40:55] zástupců české justice
+[01:40:57] začíná znalec pan Berger
+[01:40:58] převádět bitcoiny na státní peněženku.
+[01:41:01] Vše jde z peněženky
+[01:41:02] drogového tržiště Nucleus.
+[01:41:05] V jednu chvíli se převod přestává dařit.
+[01:41:07] A přesně vím,
+[01:41:10] v jaký chvíli
+[01:41:11] se převod
+[01:41:13] přestává dařit,
+[01:41:15] protože oni zkušebně
+[01:41:17] provedli
+[01:41:18] jednu transakci,
+[01:41:20] abyste si vyzkoušeli,
+[01:41:22] to je běžná praxe,
+[01:41:24] tak tam převáděli 0,46
+[01:41:26] 0,46
+[01:41:28] 0,46
+[01:41:28] bitcoinu
+[01:41:31] jako zkušební testovací
+[01:41:34] transakci
+[01:41:35] na peněženku,
+[01:41:37] která byla pod kontrolou
+[01:41:39] ministerstva zpravedlnosti.
+[01:41:41] A v jednu chvíli
+[01:41:43] se transakce přestala dařit,
+[01:41:45] protože Jiříkovský
+[01:41:47] den předtím
+[01:41:49] rozposílal
+[01:41:51] 1092 bitcoinů
+[01:41:54] na tři peněženky
+[01:41:55] a tím, že
+[01:41:57] propadnul
+[01:41:58] kurs ještě,
+[01:42:00] tak se mohlo stát,
+[01:42:01] že to prostě přešvihnul
+[01:42:04] a nebyl tam
+[01:42:06] dostatečný počet
+[01:42:09] bitcoinů,
+[01:42:10] takže Jiříkovský
+[01:42:12] už z těch rozposílaných
+[01:42:14] bitcoinů musel
+[01:42:16] dorovnat
+[01:42:18] částku z toho,
+[01:42:20] co už bylo fuč,
+[01:42:21] aby sedělo číslo
+[01:42:23] 468 bitcoinů
+[01:42:27] jako dar.
+[01:42:28] Takže tady to máte
+[01:42:30] taky precizně
+[01:42:32] rozklíčovaný, kdy se
+[01:42:34] zadrhnul tenhle převod,
+[01:42:36] protože na té peněžence
+[01:42:39] Nucleus Market
+[01:42:40] už nebylo
+[01:42:43] dostatečné
+[01:42:44] množství bitcoinů, což ukazuje
+[01:42:46] na tom, že to byly
+[01:42:48] úplný pitomci,
+[01:42:50] který tohleto tam
+[01:42:52] dělali.
+[01:42:53] Ještě takovýmhle
+[01:42:56] diletantským způsobem.
+[01:42:58] A tak vypomáhá pan Jiříkovský.
+[01:43:01] Jo, jo.
+[01:43:02] Poře z peněženky P2, chybějící sumu
+[01:43:04] 228 bitcoinů na státní peněženku.
+[01:43:08] Je tedy jasné,
+[01:43:09] že z peněženek P1, P2 a P3,
+[01:43:12] na které den předtím odešly
+[01:43:13] bitcoiny, patří jistě peněženka
+[01:43:15] P2 s více než miliardou
+[01:43:17] panu Jiříkovskému.
+[01:43:18] Jinak by to nemohl poslat, no.
+[01:43:20] Ani o té skutečnosti se v notářském zápise nic nedozvíte.
+[01:43:23] Ale, ale, Míka
+[01:43:24] z Brna. Špatný.
+[01:43:27] Velký špatný.
+[01:43:29] V poledne je celý akt ukončený
+[01:43:32] a osazenstvo se loučí.
+[01:43:33] Zůstávají ale otázky,
+[01:43:35] na které bychom měli dostat odpovědi.
+[01:43:38] 7. března.
+[01:43:42] Proč Jiříkovský dodal
+[01:43:43] jen jeden rozpečetěný počítač?
+[01:43:45] Kde je těch ostatních
+[01:43:47] 45?
+[01:43:49] Ty můj kvítku medový, to se
+[01:43:51] nikdo nedoví?
+[01:43:52] Proč se nehledali bitcoiny v ostatní elektronice
+[01:43:55] sepsané v bodě 6 darovací smlouvy?
+[01:43:57] Proč uhledání virtuálních peněženek
+[01:44:00] nebyly zástupci
+[01:44:01] státu a nic se nenahrávalo?
+[01:44:03] Proč vše nezaznamenal notář
+[01:44:05] a stačil mu jen screenshot obrazovky?
+[01:44:07] Proč nikomu nevadilo,
+[01:44:09] že Jiříkovský převedl z bitcoinové
+[01:44:11] peněženky více než 2 miliardy
+[01:44:13] v době, kdy byl jím dodaný
+[01:44:15] počítač zamčený v trezoru ználce?
+[01:44:18] No jo,
+[01:44:19] spousta otázek a
+[01:44:21] žádné odpovědi v této
+[01:44:23] zlodějině více jak
+[01:44:25] 100 miliard.
+[01:44:27] To, co jsme nakonec nerozpletli je,
+[01:44:29] zda byla vrácená elektronika rozpečetěná
+[01:44:31] nebo zapečetěná. Této odpovědi
+[01:44:34] se všechny státní instituce brání.
+[01:44:36] Alež kopková,
+[01:44:37] kdy tě to jednou. Když mu to vrátili,
+[01:44:40] tak ty igeliťáky
+[01:44:42] Jiříkovský
+[01:44:43] umí rozpárat,
+[01:44:46] roztrhnout a pak
+[01:44:47] mohl ty bitcoiny poslat
+[01:44:50] kam chtěl
+[01:44:51] už od 23.
+[01:44:53] prosince
+[01:44:54] 2024.
+[01:44:58] Petrstvo připustilo darování
+[01:45:00] bitcoinů. Stát dostane
+[01:45:02] se ze všeho, co se mělo najít.
+[01:45:05] Proč...
+[01:45:05] Ale Jiříkovský
+[01:45:07] vyndal a ukázal jenom jeden.
+[01:45:11] Takže se tam toho
+[01:45:12] moc nenašlo.
+[01:45:14] Takže ve finále dostalo
+[01:45:16] ministerstvo necelé
+[01:45:18] jedno procento
+[01:45:20] z celkového lupu.
+[01:45:22] Tedy nezajistilo, že pokud se
+[01:45:24] elektronika Jiříkovskému předá,
+[01:45:26] bude zapečetěná, aby s ní Jiříkovský
+[01:45:28] nemohl pracovat až do doby,
+[01:45:30] než ji otevře znalec?
+[01:45:32] Když byla vydána nezapečetěná
+[01:45:34] a ministerstvo spravedlnosti si myslelo,
+[01:45:37] že jde o čisté bitcoiny,
+[01:45:38] mohl to být i záměr, aby se Jiříkovský
+[01:45:41] k bitcoinům na vrácené elektronice
+[01:45:43] dostal a místo státu
+[01:45:45] doputovali bitcoiny
+[01:45:46] někomu jinému.
+[01:45:48] Proto se stává klíčovou otázkou.
+[01:45:50] Byla elektronika Jiříkovskému
+[01:45:52] vrácená zapečetěná, nebo ne?
+[01:45:56] Podívejte se, kolik lidí
+[01:45:58] dělalo tuhletu
+[01:46:01] zavádějící,
+[01:46:03] částečně lživou
+[01:46:05] a manipulativní
+[01:46:07] reportáž.
+[01:46:10] Jo?
+[01:46:11] Podívejte se, jaký mančavt
+[01:46:14] český televize
+[01:46:16] na tom makal.
+[01:46:19] Takže,
+[01:46:21] Pavel Zítko, nazývaný
+[01:46:23] jako konspirátor,
+[01:46:25] dezinformátor,
+[01:46:29] udělal práci
+[01:46:30] za polici
+[01:46:32] Český republiky,
+[01:46:34] za elitní útory,
+[01:46:35] za stvar pana Mazánka
+[01:46:37] NCOZ,
+[01:46:39] za pana Dragouna
+[01:46:42] z Vrchního státního
+[01:46:43] zastupitelství,
+[01:46:45] za pana Brejchu
+[01:46:47] jako vrchního
+[01:46:49] velitele NCTEKK,
+[01:46:53] Národní centrála
+[01:46:54] proti terorismu,
+[01:46:56] extremismu
+[01:46:57] a kybernetické kriminalitě.
+[01:47:00] Všechnu práci
+[01:47:01] zcela zdarma
+[01:47:03] na klíč udělal
+[01:47:05] Pavel Zítko.
+[01:47:05] S výkladem
+[01:47:07] to tady máte,
+[01:47:09] máte tady i
+[01:47:11] pro pořádek výčet,
+[01:47:14] kdy počet
+[01:47:15] darknetových tržišť
+[01:47:17] byly dvě.
+[01:47:19] Sheep Marketplace
+[01:47:21] a Nucleus Market,
+[01:47:23] počty bitcoinů,
+[01:47:25] který chtěli spolu
+[01:47:27] odesáci s brňákama
+[01:47:29] ukrást, proprat
+[01:47:31] a legalizovat jako
+[01:47:33] evidentní výnosy
+[01:47:35] stresné,
+[01:47:35] činnosti z prodeje
+[01:47:37] drog, byly v počtu
+[01:47:39] 39.918
+[01:47:42] bitcoinů.
+[01:47:44] Z toho Sheep Marketplace
+[01:47:46] uzavřeno tržiště
+[01:47:48] v prosinci 2013
+[01:47:50] a Nucleus Market
+[01:47:52] uzavřený
+[01:47:53] a krádež bitcoinů
+[01:47:55] v dubnu 2016.
+[01:47:59] Máte tady
+[01:48:00] korunní důkaz,
+[01:48:01] bakalářská práce Ondřeje Havlíka
+[01:48:04] z roku 2019,
+[01:48:05] ze Zemědělské univerzity
+[01:48:09] z neužívání
+[01:48:11] měny bitcoin
+[01:48:12] je dohledatelná.
+[01:48:14] Příloha této práce
+[01:48:16] je vrchní rozsudek
+[01:48:19] vrchního soudu
+[01:48:20] v Olomouci
+[01:48:21] ze dne 35.
+[01:48:24] 2018,
+[01:48:26] kde je trest odnětí svobody
+[01:48:28] ne na devět let,
+[01:48:30] ale byl zvýšen
+[01:48:33] ten původní rozsudek
+[01:48:35] z zemědělské univerzity
+[01:48:36] devět let
+[01:48:39] soudu prvního stupně
+[01:48:41] na pravomocný devět a půl roku.
+[01:48:45] Bakalářská práce
+[01:48:47] Ondřeje Havlíka
+[01:48:48] je uložena na
+[01:48:49] tss.cz
+[01:48:52] takže si to tam můžete dohledat,
+[01:48:55] přečíst, je to 103 stránek,
+[01:48:57] součástí toho
+[01:48:58] je i ten rozsudek
+[01:49:00] vrchního soudu.
+[01:49:02] V Olomouci.
+[01:49:03] Zde je uvedena čísla
+[01:49:06] Jiříkovskýho peněženek,
+[01:49:08] jo,
+[01:49:08] v tom rozsudku
+[01:49:09] i v té práci
+[01:49:11] s dohledatelným množstvím
+[01:49:14] bitcoinů.
+[01:49:15] A tady je další
+[01:49:18] analýza, je tady
+[01:49:20] závažné podezření
+[01:49:23] ze spáchání
+[01:49:24] těchto trestných činů,
+[01:49:26] když bylo obvinění
+[01:49:28] pouze ze dvou.
+[01:49:29] Tak je tady porušení AML,
+[01:49:32] antimany laundry,
+[01:49:34] praní špinavých peněz,
+[01:49:36] to je zákon.
+[01:49:37] Za druhé, zneužití
+[01:49:39] pravomocí veřejné osoby,
+[01:49:42] tam je jich namočených
+[01:49:43] hodně, i ta paní
+[01:49:45] Bednářová, jo,
+[01:49:47] i ten soudní ználec,
+[01:49:49] i ten
+[01:49:50] notář Brna,
+[01:49:54] i ty
+[01:49:55] paracovníci vrchní
+[01:49:57] nejvyššího soudu,
+[01:49:59] krajskýho soudu,
+[01:50:01] i krajskýho ředitelství
+[01:50:03] policie v Brně.
+[01:50:04] Je tady
+[01:50:06] legalizace,
+[01:50:07] výnosů
+[01:50:09] stresné činnosti,
+[01:50:11] protože rozhodně
+[01:50:12] pocházejí ty bitcoiny
+[01:50:15] z drog, takže jsou špinavý,
+[01:50:18] proto to tam hned
+[01:50:19] Martinu Stránskýmu
+[01:50:21] z Bitplus pískalo,
+[01:50:23] že je to
+[01:50:25] z Nucleus Market, a proto to
+[01:50:27] taky nalásil, na rozdíl
+[01:50:29] od ministerstva,
+[01:50:32] který nic nenahlásilo.
+[01:50:34] Je tady i
+[01:50:35] porušování povinností,
+[01:50:37] při zprávě cizího majetku.
+[01:50:39] Pan Daňhel,
+[01:50:41] paní Bednářová,
+[01:50:43] Míka, Bergr,
+[01:50:45] tady ty aktéři,
+[01:50:47] který měli stopnout
+[01:50:49] ten podpis mluvy
+[01:50:51] a zavolat policii.
+[01:50:54] Za pátý podvod,
+[01:50:55] ta částka
+[01:50:56] 30% vůbec,
+[01:50:59] ale vůbec
+[01:51:00] nesouhlasí, protože
+[01:51:02] kdyby tam byly
+[01:51:06] všechny ty peněžky,
+[01:51:07] tak by musel
+[01:51:10] být dár ve výši
+[01:51:12] více než
+[01:51:13] 30 miliard.
+[01:51:15] Takže jako u našich fotbalistů
+[01:51:18] v hotelu Praha,
+[01:51:19] ta částka vůbec nesouhlasí
+[01:51:21] za prostitutky.
+[01:51:23] Za šestý, korupce.
+[01:51:26] Kam a kdy,
+[01:51:27] na jaká čísla peněžinek,
+[01:51:29] se převáděly bitcoiny,
+[01:51:30] už po vrácení 50 počítačů,
+[01:51:34] kdy jenom 3
+[01:51:35] z toho vymazali
+[01:51:36] a jeden nosič
+[01:51:38] Jiříkovskýmu prosinci
+[01:51:40] 2024.
+[01:51:42] To bylo 23. prosince.
+[01:51:46] A potom
+[01:51:47] i 6. třetí den
+[01:51:49] před oficiálním
+[01:51:50] otevřením peněženek,
+[01:51:52] kde odcházely
+[01:51:54] ty víc jak 2 miliardy.
+[01:51:58] Na základě
+[01:51:59] čeho změnili rozhodnutí
+[01:52:01] o zabavení a
+[01:52:02] zlničení
+[01:52:04] 50 počítačů,
+[01:52:06] to je instituce
+[01:52:07] nejvyšší souk Brně,
+[01:52:09] krajský souk Brně
+[01:52:10] a krajské ředitelství
+[01:52:12] policie
+[01:52:13] Jihomoravského kraje v Brně.
+[01:52:16] Jiříkovskému bylo
+[01:52:17] skandálně vráceno
+[01:52:19] těchto 50 zapečetěných
+[01:52:21] počítačů, kdy si je
+[01:52:23] z těch igelitáků mohl
+[01:52:25] roztrhat sám.
+[01:52:27] Samozřejmě nikomu
+[01:52:29] z těch loupežníků
+[01:52:31] organizované zločinecké skupiny
+[01:52:34] to nevadilo.
+[01:52:34] A po selhání
+[01:52:36] těchto institucí v prosinci
+[01:52:39] 2025
+[01:52:41] byly
+[01:52:43] vydány z policejního
+[01:52:45] skladu. A Jiříkovský
+[01:52:47] přinesl na schůzku
+[01:52:49] s Karimem Tycem
+[01:52:51] a Jiřím Bergerem
+[01:52:52] pouze jeden
+[01:52:54] rozpečetěný počítač, ze kterého
+[01:52:57] se už veselé
+[01:52:59] rozesílali
+[01:53:01] bitcoiny před
+[01:53:03] uskutečněním daru
+[01:53:04] 30% pro ministerstvo
+[01:53:07] stravedlnosti, aby se
+[01:53:09] snížil ten počet
+[01:53:11] bitcoinů pro výpočet
+[01:53:13] daru. Už
+[01:53:15] tady
+[01:53:18] u dvou schůzek
+[01:53:20] nebyl žádný
+[01:53:22] zástupce ministerstva
+[01:53:24] stravedlnosti, tedy
+[01:53:26] korporace Česko.
+[01:53:28] A Jiříkovský nedonesl
+[01:53:30] ke kontrole dalších
+[01:53:32] 46 počítačů,
+[01:53:34] které byly
+[01:53:36] dokázatelně vráceny
+[01:53:38] a určitě tam byla
+[01:53:40] další čísla bitcoinových
+[01:53:42] peněženek v hodnotě
+[01:53:44] více než 100
+[01:53:46] miliard, to je hodnota
+[01:53:48] bitcoinů v červenci, kdy
+[01:53:50] rejdil a proháněl se
+[01:53:52] Jiříkovský po Azii
+[01:53:54] a hodnota bitcoinů v té
+[01:53:56] době, kdy to mohl měnit
+[01:53:58] byla 115
+[01:54:00] až 120
+[01:54:02] tisíc dolarů
+[01:54:04] za jeden bitcoin.
+[01:54:06] Za sedmé, další paragraf,
+[01:54:08] který nebyl zmíněn,
+[01:54:10] nepřekažení páchání
+[01:54:12] trestné činnosti,
+[01:54:14] to je bod sedm, paragraf
+[01:54:16] 367
+[01:54:18] trestního zákonníku,
+[01:54:20] bod osm,
+[01:54:22] vše páchané ve zločinném
+[01:54:24] spolčení organizované
+[01:54:26] zločinecké skupiny,
+[01:54:28] to je porušení paragrafu
+[01:54:30] 129 trestního
+[01:54:32] zákonníku a pro Evičku
+[01:54:34] de Croa tady je
+[01:54:36] čin nadržování
+[01:54:38] zametání důkazů
+[01:54:40] pod koberec za dobu delší
+[01:54:42] než jeden rok.
+[01:54:44] K podivným transakcím
+[01:54:46] došlo už
+[01:54:48] na začátku března
+[01:54:50] 6.3. a všechny
+[01:54:52] důkazy leží
+[01:54:54] celou dobu na blockchainu
+[01:54:56] Jiříkovského známých
+[01:54:58] peněženek, které určitě
+[01:55:00] sleduje i FBI
+[01:55:02] a CashPetl.
+[01:55:04] Dále
+[01:55:06] jednání externího auditu
+[01:55:08] za 8 milionů
+[01:55:10] Evou de Croa,
+[01:55:12] odvolání pana Davida Uhlíře,
+[01:55:14] který tam vystupoval,
+[01:55:16] aniž by mohl
+[01:55:18] cokoliv prozradit
+[01:55:20] na co přišel
+[01:55:22] v průběhu zjišťování
+[01:55:24] v červenci 2025,
+[01:55:26] dostal za to
+[01:55:28] 160 tisíc
+[01:55:30] asi jako držhubný
+[01:55:32] a veřejnosti
+[01:55:34] měla být oznámena
+[01:55:36] tahle zpráva
+[01:55:38] v srpnu 2025,
+[01:55:40] ale nějak to
+[01:55:42] na časové ose Evy
+[01:55:44] de Croa neklaplo.
+[01:55:46] Kdo z aktérů
+[01:55:48] už seděl ve vazbě?
+[01:55:50] Jen Jiříkovský, jinak nikdo.
+[01:55:52] Nadávno došlo
+[01:55:54] pouze k obvinění
+[01:55:56] pravděpodobných tří hlavních
+[01:55:58] organizátorů akce
+[01:56:00] a připravované zlodějiny
+[01:56:02] za víc než 100 miliard
+[01:56:04] ve složení Karim Tic.
+[01:56:06] Advokát navrhovány
+[01:56:08] jsou mu 8 let.
+[01:56:10] Pavel Blažek,
+[01:56:12] minister spravedlnosti,
+[01:56:14] návrh 6,5 roku
+[01:56:16] a stejně tak 6,5 roku
+[01:56:18] odnětí svobody
+[01:56:20] návrh pro ekonomického
+[01:56:22] náměstka ministerstva
+[01:56:24] spravedlnosti Radomíra
+[01:56:26] Daňhela.
+[01:56:28] A co ostatní
+[01:56:30] pachatelé trestných
+[01:56:32] činů?
+[01:56:34] To jako nic.
+[01:56:36] Já muzikant,
+[01:56:38] takže si je tady hezky
+[01:56:40] vyjmenujeme.
+[01:56:42] Od propuknutí kauzy
+[01:56:44] po odstoupení ministra Blažka
+[01:56:46] v červnu 2025
+[01:56:48] hrozily tyto
+[01:56:50] jednoznačné
+[01:56:52] vazební důvody
+[01:56:54] u všech podezrelých
+[01:56:56] u páchání
+[01:56:58] obzvlášť závažné
+[01:57:00] ekonomické kriminality,
+[01:57:02] stupky a přečiny.
+[01:57:04] To je důležitá informace
+[01:57:06] pro policii, že by
+[01:57:08] prioritně měli řešit
+[01:57:10] ty nejzávažnější
+[01:57:12] trestné činy.
+[01:57:14] A hrozil
+[01:57:16] tam za a útěk
+[01:57:18] Jiříkovský jim taky
+[01:57:20] zdrhnul do Azie
+[01:57:22] i s těmi peněženkami,
+[01:57:24] aby se tam snažil vyvexlovat
+[01:57:26] ty bitcoiny
+[01:57:28] na dolary,
+[01:57:30] eura nebo jiný.
+[01:57:32] A zase se v klidu vrátil,
+[01:57:34] aby ho policie mohla
+[01:57:36] v srpnu 2025
+[01:57:38] teatrálně v noci
+[01:57:40] sundávat ze střechy,
+[01:57:42] když druhý den
+[01:57:44] měl na policii
+[01:57:46] na základě předvolání
+[01:57:48] vypovídat.
+[01:57:50] Hrozilo tady pro
+[01:57:52] zúčastněné podezrele
+[01:57:54] ovlivňování svědků
+[01:57:56] na svobodě,
+[01:57:58] to byl vazební důvod
+[01:58:00] a hrozilo tady
+[01:58:02] i páchání další
+[01:58:04] trestné činnosti.
+[01:58:06] Podezřelé osoby ze
+[01:58:08] zpáchání obzvlášť závažných
+[01:58:10] trestných činů se škodou
+[01:58:12] zvlášť velkého rozsahu
+[01:58:14] jsou Petr Fiala,
+[01:58:16] bývalý premiér,
+[01:58:18] Pavel Blažek, bývalý minister
+[01:58:20] spravedlnosti, Zbigněk Stanura,
+[01:58:22] bývalý minister financí,
+[01:58:24] Filip Benda,
+[01:58:26] ředitel kabinetu,
+[01:58:28] ministra financí a
+[01:58:30] bratr Marka Bendy,
+[01:58:32] Karel Dvořák,
+[01:58:34] náměstek ministra spravedlnosti
+[01:58:36] Radomír Daňhel,
+[01:58:38] ekonomický náměstek
+[01:58:40] ministerstva spravedlnosti,
+[01:58:42] jak jste na videu viděli,
+[01:58:44] Anu Bednářovou,
+[01:58:46] jasná trestně právní odpovědnost,
+[01:58:48] ředitelka právního odboru
+[01:58:50] ministerstva spravedlnosti,
+[01:58:52] Karim Tic,
+[01:58:54] advokát,
+[01:58:56] Tomáš Jiříkovský,
+[01:58:58] ten jedinej sedí ve vazbě
+[01:59:00] Lubomír Mika, notář,
+[01:59:02] evidentní pochybení
+[01:59:04] opět se škodou
+[01:59:06] velkého rozsahu,
+[01:59:08] Jiří Berger,
+[01:59:10] opět namočenej další
+[01:59:12] brňák jako soudní znalec
+[01:59:14] a Eva de Croa,
+[01:59:16] ministryně spravedlnosti.
+[01:59:18] Zajímavé by pro policii bylo
+[01:59:20] určitě
+[01:59:22] odevzdání notebooků
+[01:59:24] osob Eva de Croa,
+[01:59:26] Zbigněk Stanura
+[01:59:28] a Pavel Blažek, který
+[01:59:30] odevzdali, neodevzdali
+[01:59:32] ani tablety,
+[01:59:34] ani mobilní telefony,
+[01:59:36] které rozhodně
+[01:59:38] můžou skrývat
+[01:59:40] zajímavá zjištění
+[01:59:42] a bylo by žádoucí se
+[01:59:44] na tyto důkazy mrknout.
+[01:59:46] Další zapojené osoby
+[01:59:48] na straně
+[01:59:50] korporace Česko jsou
+[01:59:52] soudci nejvyššího
+[01:59:54] soudu v Brně, kteří rozhodli
+[01:59:56] o vrácení elektroniky,
+[01:59:58] jsou to soudci,
+[02:00:00] krajského soudu v Brně,
+[02:00:02] který bude znova o případu
+[02:00:04] rozhodovat, to je velmi pikantní,
+[02:00:06] a policisté
+[02:00:08] z krajského ředitelství
+[02:00:10] policie jihomoravského
+[02:00:12] kraje se sídlem
+[02:00:14] opět v Brně.
+[02:00:16] Ti, kteří se podepsali
+[02:00:18] pod vrácení elektroniky.
+[02:00:20] Tito všichni
+[02:00:22] svými rozhodnutími
+[02:00:24] umožnili naprosto
+[02:00:26] skandální navrácení
+[02:00:28] počítačové techniky
+[02:00:30] Jiříkovskému v prosinci
+[02:00:32] 2024
+[02:00:34] podle toho výpočtu
+[02:00:36] 23. prosince
+[02:00:38] a jsou trestně
+[02:00:40] právně zodpovědní.
+[02:00:42] Je to jako,
+[02:00:44] kdyby stát pirátům zabavil
+[02:00:46] truhly se zlatým
+[02:00:48] ukradeným pokladem,
+[02:00:50] těch truhel bylo 50,
+[02:00:52] v hodnotě víc jak 100 miliard
+[02:00:54] a uložil je na policii.
+[02:00:56] Pak je zase zcela neporušené.
+[02:00:58] Vrátí v roce
+[02:01:00] 2024
+[02:01:02] v prosinci pirátovi,
+[02:01:04] aniž by je otevřel
+[02:01:06] a zjistil, jaké množství
+[02:01:08] lupu je v nich uložených.
+[02:01:10] A potom
+[02:01:12] na začátku března
+[02:01:14] čeká, kolik lupu
+[02:01:16] přinese ukázat Jiříkovský
+[02:01:18] na jednání se
+[02:01:20] zástupci Česka,
+[02:01:22] kteří tam 6.3.
+[02:01:24] ani nedorazili.
+[02:01:26] Přišli až 7.3.
+[02:01:28] a Jiříkovský jim ukázal
+[02:01:30] jeden počítač,
+[02:01:32] to znamená
+[02:01:34] jednu truhlu,
+[02:01:36] ze kterého už evidentně
+[02:01:38] bitcoiny odcházely
+[02:01:40] předtím.
+[02:01:42] Další možnosti ovlivnění
+[02:01:44] z podezření z korupce
+[02:01:46] při rozhodování
+[02:01:48] o
+[02:01:50] skandálním
+[02:01:52] vrácení 50
+[02:01:54] kusů výpočetních.
+[02:01:56] Techniky Jiříkovskýmu
+[02:01:58] to už jsme tady
+[02:02:00] měli. Organizovaná
+[02:02:02] zločinecká
+[02:02:04] skupina ukradla
+[02:02:06] 5366
+[02:02:08] bitcoinů,
+[02:02:10] o tom referovala Zdíša,
+[02:02:12] pokorná z denníku
+[02:02:14] N. Stále to není
+[02:02:16] zařazeno do výpočtu,
+[02:02:18] protože 30%
+[02:02:20] z 12,5
+[02:02:22] miliard je víc,
+[02:02:24] než necelá jedna miliarda,
+[02:02:26] z Nucleus Marketu.
+[02:02:28] Ale vůbec
+[02:02:30] se nezmiňuje
+[02:02:32] 39
+[02:02:34] 918
+[02:02:36] zabavených bitcoinů
+[02:02:38] z darknetového tržiště
+[02:02:40] Sheep Marketplace. Jejich
+[02:02:42] hodnota byla přes
+[02:02:44] 90 miliard korun
+[02:02:46] vys hodnota
+[02:02:48] bitcoinu v červenci
+[02:02:50] 2025
+[02:02:52] na Coin Market Cap.
+[02:02:54] Tady je evidentní,
+[02:02:56] že zločinci chtěli
+[02:02:58] proprat a legalizovat
+[02:03:00] na základě
+[02:03:02] velmi problematického
+[02:03:04] daru Ministerstvu
+[02:03:06] Spravedlnosti ve výši
+[02:03:08] necelého
+[02:03:10] 1%
+[02:03:12] z celkového lupu.
+[02:03:14] Nikoliv 30%.
+[02:03:16] A tady
+[02:03:18] třešnička na dortu.
+[02:03:20] Navíc ODS
+[02:03:22] díky iniciativě
+[02:03:24] poslance Havránka navrhla
+[02:03:26] zákon, aby příjmy
+[02:03:28] z prodeje dlouhodobě držených
+[02:03:30] kryptoměn, tedy
+[02:03:32] i včetně bitcoinů, v hodnotě
+[02:03:34] nad 40 milionů
+[02:03:36] korun, aby se
+[02:03:38] nedanili.
+[02:03:40] Takže nejenom, že
+[02:03:42] to ukradli, ale
+[02:03:44] ještě se jim z toho lupu
+[02:03:46] chlapcům z ODS
+[02:03:48] nechtělo platit
+[02:03:50] daně. Tedy
+[02:03:52] aby byli
+[02:03:54] Steuer Frei.
+[02:03:56] Abych to tak řekl
+[02:03:58] německy. Proč dlouhodobě
+[02:04:00] nekonali rok
+[02:04:02] a dva měsíce orgány
+[02:04:04] činné v trestním řízení?
+[02:04:06] Konkrétně
+[02:04:08] vrchní státní zastupitelství
+[02:04:10] v Olomouci Radim Dragom.
+[02:04:12] Proč
+[02:04:14] policie ČR nekonala
+[02:04:16] včetně elitních útvarů
+[02:04:18] pana Mazánka
+[02:04:20] NCOZ a pana Brejchy
+[02:04:22] NCTEKK?
+[02:04:24] Proč
+[02:04:26] nekonali?
+[02:04:28] Byla jen vyhozena odejta
+[02:04:30] státní zástupkyně
+[02:04:32] Lastovecká, která
+[02:04:34] chtěla s dostatkem důkazů
+[02:04:36] znést už na začátku
+[02:04:38] roku obvinění
+[02:04:40] proti Pavlu Blažkovi.
+[02:04:42] Kdo lhal
+[02:04:44] v souboji argumentů
+[02:04:46] státních
+[02:04:48] zástupkyn, kde
+[02:04:50] se to řešilo?
+[02:04:52] Lenka Bradáčová,
+[02:04:54] která byla dosazena
+[02:04:56] Pavlem Blažkem
+[02:04:58] versus Petra Lastovecká.
+[02:05:00] Krýs nad
+[02:05:02] zločineckou činnost mafiánských
+[02:05:04] struktur, které ovládly
+[02:05:06] vedení korporace
+[02:05:08] Česko. Proč
+[02:05:10] zástupci Fialovi vlády
+[02:05:12] neodevzdali služební mobily
+[02:05:14] a notebooky po
+[02:05:16] skončení mandátu
+[02:05:18] de Croa Stanjura
+[02:05:20] Blažek, kde se podobně
+[02:05:22] jako u zločince
+[02:05:24] Fauciho budou
+[02:05:26] ukázat potřebné
+[02:05:28] uložené důkazy,
+[02:05:30] komunikace členů vlády
+[02:05:32] a podklady pro objasnění
+[02:05:34] trestně právní činnosti
+[02:05:36] zapojených osob.
+[02:05:38] Důkazy k podání trestního
+[02:05:40] oznámení a sdělení
+[02:05:42] obvinění všem zapojeným
+[02:05:44] zločincům z organizované
+[02:05:46] zločinecké skupiny byly
+[02:05:48] naprosto transparentně
+[02:05:50] odvysílány na mém
+[02:05:52] facebookovém kanále
+[02:05:54] Československo TV 2.
+[02:05:56] Dne čtvrtého osmí
+[02:05:58] v jednu hodinu jedenáct minut
+[02:06:00] a večer
+[02:06:02] potom od dvacet hodin
+[02:06:04] padesát minut
+[02:06:06] v rozboru lží
+[02:06:08] a manipulací k pořadu
+[02:06:10] ČT Rozpleteno
+[02:06:12] ze sedmnáctého dubna
+[02:06:14] a reportéři ČT
+[02:06:16] z jedenáctého května.
+[02:06:18] Tak.
+[02:06:21] Uf.
+[02:06:26] A máme to.
+[02:06:28] Takže mašličky,
+[02:06:30] které jsou
+[02:06:32] ukázáno na zlatým
+[02:06:34] podnose připraveno,
+[02:06:36] aby konalo
+[02:06:38] vrchní státní zastupitelství
+[02:06:40] v Olomouci
+[02:06:42] a policie České republiky,
+[02:06:44] pokud nechtějí být
+[02:06:46] spolupachateli
+[02:06:48] a zametači
+[02:06:50] této obzvlášť
+[02:06:52] závažné trestné
+[02:06:54] činnosti.
+[02:06:56] To byla ale dílka.
+[02:06:58] Hodina se přiblížila.
+[02:07:00] Děkuju všem,
+[02:07:02] který hlasujete
+[02:07:04] na cenu ocenění
+[02:07:06] za svobodu projevu,
+[02:07:08] kde můžete
+[02:07:10] nominovat toho,
+[02:07:12] kdo si myslíte,
+[02:07:14] že byl neoprávněně
+[02:07:16] vězněnej,
+[02:07:18] pronásledovaný,
+[02:07:20] odsouzený atd.
+[02:07:22] Můžete porovnat svoje
+[02:07:24] typy.
+[02:07:26] V komentáři
+[02:07:28] Martině Kocijánové
+[02:07:30] na jejím Facebooku
+[02:07:32] můžete se účastnit
+[02:07:34] do 17. srpna
+[02:07:36] i ankety veřejnosti
+[02:07:38] v
+[02:07:40] Křišťálová lupa,
+[02:07:42] kde můžete zvolit
+[02:07:44] spravodajství a publicistika,
+[02:07:46] váš oblíbený pořad.
+[02:07:48] Můžete zvolit
+[02:07:50] online vysílání
+[02:07:52] oblíbený
+[02:07:54] a můžete zvolit
+[02:07:56] spravodajství
+[02:07:58] všichni,
+[02:08:00] kteří toto rozplétání
+[02:08:02] takto závažné
+[02:08:04] kriminality
+[02:08:06] podpoříte peníze.
+[02:08:08] Tak všem dopředu děkuji.
+[02:08:10] Číslo účtu
+[02:08:12] zde zveřejním.
+[02:08:14] Celkem překvapivě
+[02:08:16] jsem dostal info,
+[02:08:18] že nikomu se objevuje,
+[02:08:20] že stránka peníze nepřijímá,
+[02:08:22] což je zase nějaká
+[02:08:24] asi zlomyslnost
+[02:08:26] nebo zlomyslnost
+[02:08:28] na banky,
+[02:08:30] ale na to jsme si už všimli.
+[02:08:32] Stejně jako na tyto
+[02:08:34] hejterské, fízlácké
+[02:08:36] anebo mouchy
+[02:08:38] z tajných služeb,
+[02:08:40] který se účastní mého vysílání
+[02:08:42] a dneska dostali
+[02:08:44] obrovskou nálož
+[02:08:46] důkazů, kde už
+[02:08:48] není žádná překážka
+[02:08:50] pro sdělení,
+[02:08:52] obvinění
+[02:08:54] a trestního stíhání, zahájení.
+[02:08:56] Tohleto by je
+[02:08:58] zcela zdarma poskytnutá
+[02:09:00] služba pro
+[02:09:02] policii České republiky,
+[02:09:04] pro vrchní
+[02:09:06] státní zastupitelství,
+[02:09:08] pro NCOZ,
+[02:09:10] pro NCTEKK,
+[02:09:12] prostě pro všechny,
+[02:09:14] který rok
+[02:09:16] a dva měsíce
+[02:09:18] obvinili pouze čtyři.
+[02:09:20] Přitom jich v tom jelo
+[02:09:22] několik desítek
+[02:09:24] a těch miliard,
+[02:09:26] bylo víc jak
+[02:09:28] sto.
+[02:09:30] Což je dobrá tečka
+[02:09:32] za tím dnešním večerem
+[02:09:34] v 11 hodin
+[02:09:36] 00.
+[02:09:38] Mám vás rád,
+[02:09:40] mějte příjemný večer
+[02:09:42] a klidnou dobrou noc.
+[02:09:44] Protože dneska bylo někomu
+[02:09:46] horko, ale večer
+[02:09:48] nebo odpoledne
+[02:09:50] už začala bouře.
+[02:09:52] A bouře,
+[02:09:54] jak říká Donald Trump, je.
+[02:09:56] Tady.
+[02:09:58] Mějte se k fanfárově
+[02:10:00] a dobrou noc.
+[02:10:02] Čau.

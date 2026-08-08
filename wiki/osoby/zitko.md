@@ -55,6 +55,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **4. 8.** — bitcoinová kauza: detaily obžaloby (Jiříkovský 20 let, Tyc 8 let, Blažek/Daňhel 6,5 roku), jmenuje nové podezřelé (Anna Bednářová, Karel Dvořák, Filip Benda, soudci Brno), kárný senát zprostil Dragouna i Lastoveckou — [Videoportál 4. 8.](../_zdroje.md#československo-tv2--videoportál-4-8-2026)
 - **4. 8.** — srovnává bitcoinovou kauzu s kauzou Tomáše Paucnera, kterou označuje za „čučkaření pro malé děti" ve srovnání — [Videoportál 4. 8. (2)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-1)
 - **4. 8. (3)** — vlastní soudní kauza: zákaz pobytu v Praze na 24 měsíců, soudkyně Daniela Rajfová jej dle jeho tvrzení opakovaně vykázala z jednací síně, porušení čl. 37/38 Listiny — [Videoportál 4. 8. (3)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
+- **5. 8.** — bitcoinová kauza: přesný časový sled předání elektroniky (13.–23. 12. 2024, jeden ze 46 nosičů až v březnu 2025), rekonstrukce s komparzisty, Uhlířova výplata 160 tis. Kč — [Videoportál 5. 8.](../_zdroje.md#československo-tv2--videoportál-5-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)

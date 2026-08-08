@@ -3633,3 +3633,12 @@
 - **Délka:** 01:15:26
 - **Poznámka:** Vrabel — deník. Plně zpracováno 9 z 15 témat: 1600 vojáků na východní křídlo NATO, dron na letišti v Lipsku, Ceuta 15.8., EU 1,4 mld. eur ze zmrazených aktiv, teorie o likvidaci Slovanů, zákaz dočasné ochrany pro ukrajinské muže, ČR na „ukrajinské cestě", Hormuzský průliv v patu, Lotyšsko SS pohřeb/Thompson — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Rusko do Kyjeva) a stoch. teror („Černoch") extrahovány bezvýjimečně.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (5. 8. 2026) {#československo-tv2--videoportál-5-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-05_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1703767387339903&_rdr>
+- **Datum záznamu:** 2026-08-05
+- **Délka:** 02:10:02 | Zhlédnutí: 347
+- **Poznámka:** Videorozbor reportáží ČT o bitcoinové kauze — převážně opakování už zdokumentovaného; zpracován dovětek: přesný časový sled předání elektroniky (13.–23. 12. 2024, jeden ze 46 nosičů přinesen až v březnu 2025), rekonstrukce s komparzisty, Uhlířova výplata 160 tis. Kč a jeho citát o „podvracení důvěry v právní stát", švýcarský precedent — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
