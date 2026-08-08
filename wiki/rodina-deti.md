@@ -131,3 +131,11 @@ Francouzský parlament definitivně schválil zákon umožňující asistovanou 
 K odmítnutí polského prezidenta Nawrockého podepsat zákon o právním uznání stejnopohlavních párů (a jeho odmítnutí adopce) zaujímá Vrabel podle svých slov „jiný názor než většina": registrované partnerství považuje za férové — dvěma lidem, kteří spolu žijí, umožňuje společné jmění, dědictví, zastupování partnera a vdovský důchod (moderátorka Zuzka dodává, že v ČR to už platí a EU nutí ostatní země taková manželství uzavřená jinde uznat). Odmítá ale adopci/výchovu dětí stejnopohlavními páry („jdou dětem divným příkladem") a hlavně „tlačení na děti" — Prague Pride (v čele s Kateřinou Konečnou), zvířecí motivy před dětmi a nátlak ve školách (příklad z Německa: srbská matka pokutována, když syn odmítl růžové šatičky). Shrnuje: co kdo dělá v soukromí a jaká má majetková práva mu nevadí, dokud to „nevystavuje s kameramanem" a netlačí na děti.
 
 **Zdroje:** [Vrabel — Zprávy v devět 18. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
+
+---
+
+### Bohoslužba za Prague Pride v kostele — „pošlapávání křesťanské víry" (Šejna, 2. 8. 2026)
+
+Adam Šejna kritizuje konání bohoslužby ve jménu Prague Pride v kostele, kde ji navštívil — považuje to za disrespekt vůči křesťanům, kteří přišli na běžnou bohoslužbu a místo toho narazili na téma Pride festivalu. Netvrdí, že by komunita LGBT neměla mít pochopení, ale argumentuje, že pokud sama žádá respekt, musí respektovat i právo křesťanů říkat, že podle jejich víry „tohle nepatří do normálního života" a nepatří to „do domu páně".
+
+**Zdroje:** [Restart Česko — Videoportál 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026)

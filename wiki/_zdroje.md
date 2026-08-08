@@ -3498,3 +3498,12 @@
 - **Délka:** 01:48:22
 - **Poznámka:** Zpracováno 5 témat: (1) Venezuela — zajetí prezidenta, „banditismus" USA — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Rekonstrukce Václavského náměstí jako znemožnění demonstrací, vlastní perzekuce — [politicky-system.md](politicky-system.md). (3) Vystoupení z VHO jako jednoduché rozhodnutí, kritika Adama Vojtěcha — [covid-vakciny.md](covid-vakciny.md). (4) Podzimní demonstrace — témata, hosté (Ivan David, Kovářová) — [jaderne-zbrane.md](jaderne-zbrane.md). (5) Ruský útok na sklad munice v Chmelnycku — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Zbytek (filozofie boží zákon/rozděl a panuj, Oluja, francouzský jaderný deštník, Narval, německý tranzit, Trump/nerostné bohatství) je opakování beze změny. Stochastický teror: dělníci ve zbrojovkách — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (2. 8. 2026) {#restart-česko--videoportál-2-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-02_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/3548095818700715>
+- **Datum záznamu:** 2026-08-02
+- **Délka:** 00:00:52 | Zhlédnutí: 21 889
+- **Poznámka:** Zpracováno 1 téma: bohoslužba za Prague Pride v kostele — „pošlapávání křesťanské víry" — [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
