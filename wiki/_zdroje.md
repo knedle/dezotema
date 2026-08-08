@@ -3696,3 +3696,12 @@
 - **Délka:** 00:41:20
 - **Poznámka:** Vrabel — deník. Plně zpracováno 2 z 13 témat: kraje bez peněz na krajské silnice, Zelenskyj v Bělehradu — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (7. 8. 2026) {#restart-česko--videoportál-7-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-07_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1599203888424685>
+- **Datum záznamu:** 2026-08-07
+- **Délka:** 00:01:03 | Zhlédnutí: 4 121
+- **Poznámka:** Zpracováno 1 téma: policie potvrdila reálnost Turkových rasistických příspěvků, kritika výběrovosti médií — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

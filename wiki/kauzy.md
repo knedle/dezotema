@@ -445,6 +445,10 @@ Boldy poukazuje na dvojí metr kolem Turkovy nehody: když před rokem v květnu
 
 **Zdroje:** [Restart Česko — Videoportál 6. 8. 2026 (2)](_zdroje.md#restart-česko--videoportál-6-8-2026-1)
 
+**7. 8.** — Šejna reaguje na policejní vyjádření, že některé starší Turkovy sdílené příspěvky jsou reálné a podněcovaly k nenávisti (dosud šlo o neprokázaná tvrzení) — média podle něj Turka rovnou označují za vinného, ačkoli o vině má rozhodovat soud, nikoli policie nebo média. Kritizuje výběrovost mediální pozornosti: zatímco se znovu řeší Turek, kauzy s podle něj závažnějším dopadem (bitcoinová kauza, Pauknerova odhalení, Blažkovo přiznání) zůstávají na vedlejší koleji.
+
+**Zdroje:** [Restart Česko — Videoportál 7. 8. 2026](_zdroje.md#restart-česko--videoportál-7-8-2026)
+
 ---
 
 ## EET 2.0 — likvidace malého podnikání
