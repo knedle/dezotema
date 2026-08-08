@@ -3651,3 +3651,12 @@
 - **Délka:** 00:01:02 | Zhlédnutí: 86 965
 - **Poznámka:** Zpracováno 1 téma (dovětek k debatě s Grolichem): expert Pavel Janeček dal Rajchlovi za pravdu ohledně OZE poplatků a ceny elektřiny — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (6. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-6-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-06_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1664408679027878>
+- **Datum záznamu:** 2026-08-06
+- **Délka:** 00:46:02
+- **Poznámka:** Vrabel — deník. Plně zpracováno 6 z 12 témat: Ceuta/Lex Ukrajina 7, dron Lipsko (doplnění), Trump/Vance/Thiel technokracie, Írán–Omán Hormuz, klimatický adaptační plán, Irsko neutralita — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (zlato/stříbro) extrahována bezvýjimečně. Bez stoch. teroru.
+- **Zpracováno:** ano

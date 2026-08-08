@@ -108,6 +108,10 @@ Na internet unikly interní záznamy ze soukromé sítě „Dialog" založené t
 
 **Zdroje:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 
+**6. 8.** — K nejasně formulovaným zprávám o údajných rozporech mezi Trumpem a ministrem války Petem Hegsethem ohledně Íránu (a souběžné zprávě, že Trump favorizuje viceprezidenta J. D. Vance jako republikánského kandidáta na rok 2028) Vrabel rozvíjí profil Vance jako zástupce mladé generace „technokratů" — dosazuje ho do kontextu jeho vztahu k Peteru Thielovi (bývalému zaměstnavateli a hlavnímu sponzorovi), zakladateli Palantiru. Tvrdí, že Thiel je přesvědčen o blížícím se konci demokratického/politického způsobu řízení světa a jeho nahrazení technokratickým modelem řízeným umělou inteligencí a digitálními technologiemi — navazuje tak na hnutí založené již ve 20. letech 20. století (mezi jeho zakladatele řadí dědečka Elona Muska). Vance, Thiel a Musk podle něj společně reprezentují tuto generační vlnu, která má dle jeho odhadu určovat budoucí směřování západních společností.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
 ---
 
 ### Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii (Boldy, 9. 7. 2026)

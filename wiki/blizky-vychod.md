@@ -555,6 +555,10 @@ Saúdský korunní princ Muhammad bin Salman telefonicky vyzval Trumpa, aby se z
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
 
+**6. 8.** — Írán a Omán dosáhli dohody o podmínkách tranzitu přes Hormuzský průliv a připravují společné prohlášení — íránská strana zdůraznila, že realizaci nesmí narušit žádná třetí strana. Vrabel to hodnotí jako logické vyústění: Írán měl podle něj od začátku navrch (kontrolu nad průlivem, rakety), zatímco USA v regionu „absolutně pohořely" — vystřílely většinu svých balistických raket, aniž by zlikvidovaly íránské vojenské kapacity nebo dosáhly jiného cíle než civilních obětí (zmiňuje cca 200 dětských obětí z dřívějších úderů). Předpokládá, že do budoucna budou z tranzitu přes Hormuzský průliv i Báb al-Mandab profitovat výhradně země s teritoriální kontrolou nad těmito vodami (Írán, Omán, Jemen) — nikoli USA.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
 ---
 
 ### Izrael odmítl dodat Ukrajině systém Iron Dome (Vrabel, 3. 8. 2026)

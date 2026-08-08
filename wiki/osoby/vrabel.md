@@ -566,6 +566,22 @@
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 3)
 - **5. 8.** — Írán–USA jednání o Hormuzském průlivu v patu, srovnání se stejným vzorcem jako Ukrajina/Gaza — [Zprávy v devět 5. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+- **6. 8.** — Írán a Omán dosáhli dohody o tranzitu Hormuzem, USA v regionu „prohrálo" — [Zprávy v devět 6. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 4)
+- **6. 8.** — Ceuta (incident s granátem v Marbelle); Lex Ukrajina 7 — trvalý pobyt pro Ukrajince ukončí výjimku ČR z migračního paktu — [Zprávy v devět 6. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md) (pokrač. 2)
+- **6. 8.** — dron na letišti v Lipsku — doplněné detaily (munice z Francie, ministr Dobrindt, analytik Foltyn) — [Zprávy v devět 6. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač.)
+- **6. 8.** — Trump/Vance/Hegseth spory a favorizace Vance na 2028; Peter Thiel/Palantir a technokracie jako budoucí model řízení — [Zprávy v devět 6. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+### [Větrné elektrárny](../vetrniky.md) (pokrač.)
+- **6. 8.** — Národní klimatický adaptační plán — jen 2,5 % prostředků na zadržování vody, zbytek na Green Deal — [Zprávy v devět 6. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 2)
+- **6. 8.** — Irsko opouští vojenskou neutralitu, plán posílení armády a námořnictva — [Zprávy v devět 6. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
 
 ---
 

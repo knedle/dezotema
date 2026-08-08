@@ -745,3 +745,9 @@ Vrabel komentuje rozhodnutí posílat na východní křídlo NATO 1600 vojáků 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
 
 ---
+
+### Irsko opouští vojenskou neutralitu — plán posílení armády a námořnictva (Vrabel, 6. 8. 2026)
+
+Irsko kvůli rostoucímu bezpečnostnímu napětí v Evropě plánuje nabrat tisíce nových vojáků a modernizovat námořnictvo — dosud patřilo (spolu s Rakouskem a Maltou) mezi poslední tři vojensky neutrální státy EU, přičemž jeho neutralita byla založena na historii britské okupace a válek za nezávislost. Vrabel na příkladu vlastní návštěvy Irska (přátelství a pohostinnost místních v Edinburghu) vyjadřuje osobní lítost nad koncem irské neutrality — zmiňuje osobní kontakt s irskou aktivistkou Melissou Comey a nedotažené plány na společnou protiválečnou demonstraci z roku 2023. Řadí Irsko mezi další „padlé" neutrální národy zatažené do konfliktu globalisty a varuje, že podobný osud (v krajním případě až srovnatelný s utrpením Ukrajinců) čeká i další země, které se aktivně nepostaví za svá práva.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)

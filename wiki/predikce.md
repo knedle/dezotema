@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — cena zlata a stříbra po dokončení výprodeje „papírového" zlata prudce vzroste (6. 8. 2026)
+
+**Předpověď:** Vrabel tvrdí, že Čína zakázala obchodování s „papírovým zlatem" (nekrytým fyzickým kovem) a nechává obchodovat jen fyzické zlato na burze v Šanghaji; podobně JP Morgan a další západní centrální banky už půl roku vyprodávají své papírové zásoby zlata a stříbra, aby uměle udržely nízkou cenu, dokud si samy nenakoupí dostatek fyzického kovu. Až tento proces skupování dokončí, očekává, že cena zlata a stříbra „půjde velmi silně nahoru" — doporučuje to jako tip pro dlouhodobé investory.
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+---
+
 ### Ladislav Vrabel — ruská armáda dojde minimálně do Kyjeva, případně dál na západ (5. 8. 2026)
 
 **Předpověď:** Vrabel odhaduje, že pokud žádná ze stran ukrajinského konfliktu (ani íránského, ani izraelsko-palestinského) neustoupí, budou tyto konflikty pokračovat, dokud jedna strana vojensky nezvítězí. Je „stoprocentně přesvědčen", že ruská armáda dojde minimálně do Kyjeva, aby tam vyměnila vládu a převzala kontrolu nad celou Ukrajinou. Pokud bude eskalace ze strany evropských zemí (zbrojení, miliony vojáků, jaderné zbraně) pokračovat tak, jak se nyní chystají, připouští, že by ruská armáda mohla nakonec zajistit politická centra „dál na západ" — zmiňuje explicitně možnost postupu až do Bruselu — zdůrazňuje ale, že jde o jeho osobní odhad, ne o utajované informace.

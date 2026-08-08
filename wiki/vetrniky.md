@@ -274,3 +274,11 @@ Boldy tvrdí, že větrné elektrárny ve vodě (Dánsko) svými vibracemi nič�
 Adam Šejna hodnotí vývoj akceleračních zón jako jednoznačné vítězství ministra Filipa Turka (Motoristé): podle něj se rozsah zón snížil na 11 % z původních 100 % — navazuje tím na dříve zdokumentovaný postup zúžení ze 110 na 61 lokalit (viz [ČR nemá od EU žádnou povinnost větrníky stavět](#čr-nemá-od-eu-žádnou-povinnost-větrníky-stavět--jen-dobrovolný-závazek-30--oze-vrabel-24-7-2026)), byť s jiným metrikou (podíl plochy/zón, ne počet lokalit). Na rozdíl od Vrabelova skeptičtějšího rámování (zdůrazňujícího, že šlo o čistě dobrovolný vládní závazek, který mohl být zrušen zcela) Šejna Turkův výsledek prezentuje jako aktivní vybojovaný úspěch — spojuje ho s Turkovým bojem proti neziskovkám na ministerstvu životního prostředí a zdůrazňuje, že bez tohoto zmenšení by ČR musela EU platit vysoké sankce za nedodržení závazku předchozí vlády.
 
 **Zdroje:** [Restart Česko — Videoportál 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026-1)
+
+---
+
+### Národní adaptační plán na klima: jen 2,5 % jde na zadržování vody, zbytek na Green Deal (Vrabel, 6. 8. 2026)
+
+Ministerstvo životního prostředí (ministr Igor Červený) dokončilo aktualizaci Národního akčního plánu adaptace na změnu klimatu pro roky 2026–2030 a vyčlenilo na opatření z operačního fondu 11,2 mld. Kč — v médiích prezentováno jako investice do zadržování dešťové vody, obnovy vodních toků a mokřadů. Vrabel dopočítává kontext: z celkových cca 220 mld. Kč Národního plánu obnovy jde 40 % (88 mld. Kč) na Green Deal, přičemž z toho jen zlomek (2 mld. Kč, tj. cca 2,5 % z prostředků na Green Deal) skutečně směřuje na zadržování vody v krajině — zbylých 97,5 % jde na větrné a solární elektrárny, přestavbu energetického systému a elektromobilitu. Kritizuje, že ministr ve svém vyjádření mluví výhradně o vodě, ačkoli jde jen o marginální část celkové částky, kterou nazývá „ideologickou agendou 2030" rozpracovanou do vládní strategie.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)

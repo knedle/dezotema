@@ -939,7 +939,9 @@ V reakci na nepřesně formulovaný divácký komentář (že slovenský soud �
 
 Na nákladním letišti v Lipsku byl v noci na středu vyhlášen bezpečnostní poplach poté, co byl v těsné blízkosti ukrajinského nákladního letounu Antonov nalezen dron s připevněnou roznětkou a neznámou látkou; pyrotechnici jej řízeně zneškodnili, německé úřady vyšetřují, zda šlo o cílenou hrozbu. Vrabel incident řadí do série podobných událostí (dronové incidenty v Bulharsku, Polsku, Rumunsku, útoky na železnice a letiště), které mají podle něj obyvatelstvu sugerovat, že na Evropskou unii útočí Rusko — přirovnává to k výbuchu muničních skladů ve Vrběticích, po kterém jako jediný důkaz zůstaly dva ruské pasy. Cíl takových akcí (kdo je provádí a proč) nechává otevřený s tím, že si na to má každý odpovědět sám.
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+**6. 8.** — Doplňuje detaily: letadlo Antonov bylo naloženo vojenskou municí z Francie, rozbuška nalezeného dronu byla podle dosavadních zjištění nefunkční a policie navíc pátrá po dalším objektu/dronu, se kterým se letadlo v noci na středu srazilo. Německý ministr vnitra Alexander Dobrindt označil událost za možný „hybridní útok"; český bezpečnostní analytik Otakar Foltyn incident bez důkazů přisoudil Rusku a připomněl Vrbětice. Vrabel znovu zpochybňuje, že by šlo o ruský útok (žádný z dosavadních dronových incidentů podle něj nebyl prokazatelně ruský, spíše šlo o špatně navedené nebo ukrajinské drony) a vyzývá diváky, aby sami zvážili, komu je k užitku vytvářet dojem, že Rusko na EU průběžně útočí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
 
 ---
 
