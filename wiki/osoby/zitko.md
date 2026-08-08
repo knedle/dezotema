@@ -51,6 +51,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **23. 7.** — rok a dva měsíce od odhalení kauzy stále nerozlousknuto; jmenovitě kritizuje vyšetřovatele Mazánka a Radima Dragouna (NCOZ, Vrchní SZ Olomouc) za nečinnost — [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 - **28. 7.** — Oganesianův gang: Vojtěch Přenák se natočil při rozvrtávání dopravní značky vrtačkou; krádeže/přelepování registračních značek (Konečná, Vydlák); opakuje beze změny Bitcoin kauzu a financování Deníku N miliardáři (Babiš, Křetínský) — [Videoportál 28. 7.](../_zdroje.md#československo-tv2--videoportál-28-7-2026) → [media-propaganda.md](../media-propaganda.md)
 - **4. 8.** — bitcoinová kauza: detaily obžaloby (Jiříkovský 20 let, Tyc 8 let, Blažek/Daňhel 6,5 roku), jmenuje nové podezřelé (Anna Bednářová, Karel Dvořák, Filip Benda, soudci Brno), kárný senát zprostil Dragouna i Lastoveckou — [Videoportál 4. 8.](../_zdroje.md#československo-tv2--videoportál-4-8-2026)
+- **4. 8.** — srovnává bitcoinovou kauzu s kauzou Tomáše Paucnera, kterou označuje za „čučkaření pro malé děti" ve srovnání — [Videoportál 4. 8. (2)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-1)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)

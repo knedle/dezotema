@@ -3579,3 +3579,12 @@
 - **Délka:** 01:37:23 | Zhlédnutí: 189
 - **Poznámka:** Zpracováno 1 téma (rozšíření): bitcoinová kauza — detaily obžaloby a rozšířený okruh podezřelých (Bednářová, Dvořák, Benda, soudci Brno; devět trestných činů místo dvou; kárný senát zprostil Dragouna i Lastoveckou) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (4. 8. 2026) (2) {#československo-tv2--videoportál-4-8-2026-1}
+- **Soubor:** [přepis](prepisy/done/2026-08-04_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=945929635199389&_rdr>
+- **Datum záznamu:** 2026-08-04
+- **Délka:** 00:05:45 | Zhlédnutí: 505
+- **Poznámka:** Krátká pozvánka na živý speciál (opakuje info už zaznamenané); zpracováno 1 nová drobnost: srovnání s kauzou Tomáše Paucnera — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
