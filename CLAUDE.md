@@ -46,6 +46,33 @@ Zdroj se identifikuje z části názvu souboru mezi prvním a druhým podtržít
 - Pokud přepis nese znaky, že **nemluví Šejna** (např. mluví žena, více osob, cizí řečník), soubor **nezpracovávej** — nahlas to uživateli ke kontrole.
 - **Pouliční „gotcha" rozhovory** (Šejna klade otázky náhodným účastníkům demonstrací/akcí, hlavní obsah tvoří odpovědi dotazovaných, ne jeho vlastní tvrzení) — **nezpracovávat**. Soubor přesunout do `done/` bez záznamu ve `_zdroje.md` a bez wiki úprav.
 
+### Ladislav Vrabel — specifika
+
+Kanál má charakter **denního zpravodajského komentáře** — každé video obsahuje velké množství témat, z nichž většina je čistě popisná (referuje aktuální stav/zprávy) bez posunu vůči jeho už zaznamenanému světonázoru. Standardní postup (extrakce jen vybraných témat do tematických stránek) by tím tematické stránky zbytečně zaplevelil opakovaným popisem stavu.
+
+**Odlišný postup zpracování:**
+
+1. Fáze 1 (číslovaný seznam témat) probíhá **stejně jako u ostatních zdrojů** — u každého tématu uživatel posoudí, zda jde o pouhý popis stavu, nebo zda Vrabel přidává vlastní hodnocení/rámování/posun.
+2. **Všechna** témata z videa (vybraná i nevybraná) se zaznamenají jako krátká položka (1 věta) do denního přehledu `wiki/zpravodajstvi-vrabel/YYYY-MM.md` — cílem je mít úplný přehled, co všechno ten den pokrýval, i když to není hodné vlastního tvrzení na tematické stránce.
+3. Jen témata, která uživatel označí jako „s posunem/vlastním úhlem", navíc projdou **plným** zpracováním do tematických stránek (jako u ostatních zdrojů) — u odpovídající položky v denním přehledu se pak připojí odkaz na plnou sekci.
+4. Predikce (`predikce.md`) a stochastický teror (`stochasticky-teror.md`) se extrahují bezvýjimečně jako u všech zdrojů, nezávisle na tomto přehledu.
+5. Stránka osoby (`osoby/vrabel.md`) se aktualizuje jen pro plně zpracovaná témata, ne pro položky, které jsou jen v denním přehledu.
+
+**Formát `wiki/zpravodajstvi-vrabel/YYYY-MM.md`** (jeden soubor per měsíc, řazeno od nejnovějšího videa nahoru):
+
+```markdown
+## YYYY-MM-DD — [krátký název/téma videa]
+
+- **Téma 1:** 1 věta co k tomu řekl (bez posunu)
+- **Téma 2:** 1 věta, ⚡ přidal vlastní komentář → viz [Název tématu](tema.md#kotva)
+
+**Zdroj:** [Video](_zdroje.md#anchor)
+
+---
+```
+
+**Měsíční rozdělení:** při zpracování prvního videa v novém měsíci vytvoř nový soubor `YYYY-MM.md` a přidej řádek do `mkdocs.yml` nav pod vnořenou sekci „Zpravodajství Vrábel" (seznam měsíců, nejnovější nahoře).
+
 ---
 
 ## Výběr souborů ke zpracování
@@ -176,8 +203,9 @@ Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsah
 2. Přečti soubor z `wiki/prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
 3. Identifikuj témata → zobraz uživateli jako interaktivní checkboxy (multiSelect), každé s 1větným popisem
 4. Čekej na výběr uživatele
-5. **Pokud žádné téma nevybráno:** přesuň do `done/`, commitni, konec
+5. **Pokud žádné téma nevybráno:** přesuň do `done/`, commitni, konec (u Ladislava Vrabela platí výjimka — viz krok 6a)
 6. **Pokud témata vybrána:** zpracuj pouze vybraná témata
+6a. **Výjimka — Ladislav Vrabel:** bez ohledu na výběr se **všechna** témata videa zaznamenají jako krátká položka do `wiki/zpravodajstvi-vrabel/YYYY-MM.md`; kroky 7–10 (plné zpracování) proběhnou jen pro vybraná témata. Viz „Ladislav Vrabel — specifika" výše.
 7. Rozšiř existující nebo vytvoř nový MD soubor ve `wiki/`
 8. Přidej záznam do `wiki/_zdroje.md` — soubor jako `[přepis](prepisy/done/název.txt)`, URL jako `<https://...>`
 9. Přesuň soubor do `wiki/prepisy/done/` pomocí PowerShell `Move-Item`
