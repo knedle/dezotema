@@ -3471,3 +3471,12 @@
 - **Délka:** 00:22:34
 - **Poznámka:** Zpracováno 9 témat: (2) EU dvojí řeč o migraci — opakování (jen zdroj) — [migrace.md](migrace.md). (6) USA/Izrael připravují bombardování Íránu, odkaz na Žirinovského predikci — [blizky-vychod.md](blizky-vychod.md). (7) Rozdělená společnost jako nástroj kontroly — [politicky-system.md](politicky-system.md). (9) USA opouští vedení SAKU (Wiesbaden) — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (10) USA chtějí obnovit mírová jednání, skepse — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (11) Trump/Ukrajina nerostné bohatství, Harabin o Anglosasech — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md), [predikce.md](predikce.md). (12) Francouzský jaderný deštník — opakování (jen zdroj) — [jaderne-zbrane.md](jaderne-zbrane.md). (13) Polské stíhačky a ruský průzkumný letoun — [valka-nato-rusko.md](valka-nato-rusko.md). (17) Harabinův rozsudek — oprava nepřesné interpretace — [valka-nato-rusko.md](valka-nato-rusko.md). Nezpracováno (jen zpravodajský deník): Itálie uzavřela Schengen pro Španělsko, Španělsko a nezletilí migranti, 22 zemí EU svolává jednání k Ceutě, osobní historka Calais/Barcelona, Trump odmítl licenci na Patrioty, Polské stíhačky/JETECT propouštění, umělá inteligence nahradí práci, Norimberk — síť lákající nezletilé, financování ukrajinského zbrojení (90 mld. EUR/PURL). Bez stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (1. 8. 2026) {#československo-tv2--videoportál-1-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-01_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1449919833630579&_rdr>
+- **Datum záznamu:** 2026-08-01
+- **Délka:** 01:04:54 | Zhlédnutí: 330
+- **Poznámka:** Zpracováno 2 témata: (1) Zítkovo odvolání vráceno okresnímu soudu v Chomutově bez hlavního líčení — [osoby/zitko.md](osoby/zitko.md). (2) Konkrétní detaily slyšení Fauciho před Kongresem (Rand Paul, 111× odvolání na 5. dodatek, Facebook vypnul přenos) — [covid-vakciny.md](covid-vakciny.md). Zbytek videa (GITMO popravy, dvojníci, oxid grafenu, Andreas Noack, VHO jako zločinecká organizace) je opakování beze změny, nerozšiřováno. Stochastický teror: výzva k trestu smrti pro Fauciho, opakovaná výzva vůči novinářům (Ciroková, Valášek, Svobodová, „Zrzavá Nora") — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.
+- **Zpracováno:** ano
