@@ -753,3 +753,13 @@ K blížícímu se odchodu ředitele Bezpečnostní informační služby (BIS) M
 Zítko sdílí a komentuje video, kde se Vojtěch Přenák (dle Zítka člen „Oganesianova gengu") sám natočil, jak vrtačkou rozvrtal dopravní registrační značku — k tomu dodává, že tatáž skupina (spolu s „Blujovou" a dalším členem přezdívaným „Buštipan") se dlouhodobě vyznačuje přelepováním a krádežemi registračních značek, mj. u poslankyně Kateřiny Konečné, senátora Vydláka a dalších lidí v obcích Kurdějov a Soběšovice — což podle Zítka naplňuje skutkovou podstatu až tří paragrafů trestního zákoníku. Kritizuje, že si Přenák dřív na sociálních sítích „hrdinsky" dovolával ochrany ministra vnitra Rakušana, ačkoli ten už ve funkci není (nahradil ho Metnar) — a spekuluje, že pod novým vedením ministerstva nemusí být trestní stíhání tak shovívavé jako dřív.
 
 **Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
+
+---
+
+## TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+
+V televizní debatě se zástupcem Lidové strany (Grolich) Rajchl odmítá termín „agrobaroni" použitý k označení příjemců zvýšených zemědělských dotací — tvrdí, že jde o dotace pro všechny zemědělce, ne jen velké podniky, a že čeští zemědělci se za předchozí vlády dostali kvůli jejímu selhání do červených čísel. Označuje termín za „závistivé brnkání" cílené na Andreje Babiše.
+
+K cenám elektřiny obhajuje politiku, kdy stát přebírá na sebe část poplatků za OZE: tvrdí, že to nesnižuje skutečnou hodnotu/cenu elektřiny samotné (tu podle něj platí stát z dluhu), ale snižuje **koncovou cenu pro spotřebitele**, což má multiplikační efekt na snížení ceny všech ostatních komodit (potraviny, stavební materiály) a tím i inflace. Grolich namítá, že vyšší cenu tak platí všichni daňovými penězi/dluhem — včetně dotace pro firmy, které si tím „vytápí bazény".
+
+**Zdroje:** [Rajchl — TV debata: dotace zemědělcům, ceny energie, 29. 7. 2026](_zdroje.md#jindřich-rajchl--tv-debata-dotace-zemědělcům-ceny-energie-29-7-2026)
