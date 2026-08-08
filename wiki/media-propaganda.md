@@ -502,3 +502,11 @@ Rajchl kritizuje dva mediální projevy blahobytného pokrytectví. V debatě s 
 Rajchl reaguje na rozhovor „experta na extremismus" z Fakulty sociálních věd Aleše Michala pro Český rozhlas: ten kritizoval výroční zprávu o extremismu za to, že nezmiňuje Rajchla (ani další poslance vládní koalice) jako šiřitele „xenofobních postojů" a „předsudečné nenávisti" vůči Ukrajincům, a navrhl, aby tam byl napříště uveden. Rajchl odmítá, že by rozdmychával nenávist vůči Ukrajincům obecně — trvá na tom, že jde jen o reakci na současnou situaci a rozlišuje mezi Ukrajinci, kteří přišli před 24. únorem 2022, a těmi po tomto datu. Jako oporu cituje zprávu Institutu pro kriminologii, že Ukrajinci ovládli organizovaný zločin v ČR (navazuje na dřívější [NCOZ studii o organizovaném zločinu Ukrajinců, 5. 5.](migrace.md#ncoz-studie-organizovaný-zločin-v-čr-ovládli-ukrajinci--rajchl-5-5-2026)). Argumentuje, že kdyby chtěl rozdmychávat skutečnou nenávist vůči etnické skupině obecně (uvádí příklad Vietnamců či Slováků, kteří v ČR slušně žijí a pracují), nikdo by mu nevěřil — napadá experta jako člověka schovávajícího se za akademický titul, který by v přímé debatě „dopadl jako sedlák u chlívku".
 
 **Zdroje:** [Rajchl — Videoportál 27. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026)
+
+---
+
+### „Srdcem pro vlast" (2020): infiltrace nasazenou „trojkou" — Šlajch, Semper, Kořenář (Zítko, 29. 7. 2026)
+
+Zítko vzpomíná na počátky hnutí „Srdcem pro vlast" (2020, s Robertem Šmukem), kdy jim byl podle jeho tvrzení hned od startu „nasazen" novinář Aleš Trčka, který hnutí naservíroval tři konkrétní hosty s cílem ho zdiskreditovat a rozložit: Antonína Šlajcha (údajně dosud nevyplatil sázku 5000 Kč o to, že Joe Biden vyhrál volby 2020 „podvodem"), Jana Sempera (popisovaného jako cenzor Facebooku) a Patrika Kořenáře („vyvraceč dezinformací", kterého Zítko označuje za notorického lháře). Tuto trojici interpretuje jako záměrně sestavenou infiltrační skupinu nasazenou už v zárodku hnutí, aby ho „zničili a zadupali do země".
+
+**Zdroje:** [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)

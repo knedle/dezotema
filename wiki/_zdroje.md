@@ -3390,3 +3390,12 @@
 - **Délka:** 01:27:35 | Zhlédnutí: 259
 - **Poznámka:** Zpracováno 5 nových témat: (1) piloti a vakcíny — British Airways, „třetí pilot maskovaný za stevarda" — [covid-vakciny.md](covid-vakciny.md). (2) Oganesianův gang — Přenák a vrtačka na dopravní značce, krádeže registračních značek — [kauzy.md](kauzy.md). (3) „20 pravidel přežití v systému" — konspirační heuristika — [konspirace.md](konspirace.md). (4) školství jako nástroj indoktrinace (Rockefeller, Agenda 2030) — [konspirace.md](konspirace.md). (5) údajná písemná odpověď Kanceláře prezidenta o neplatnosti vlády k 1. 1. 1993 — [konspirace-ceskoslovensko.md](konspirace-ceskoslovensko.md). Opakování beze změny (jen zdroj, bez rozšíření): Deník N financovaný miliardáři, Bitcoin kauza (100+ mld.), hon na Thomase Pauknera, Deep State dvojníci/MedBeds/Antarktida (J. D. Vance = „Paul Walker"), Kennedyho obchodní model farmaceutického průmyslu (60 mld./500 mld. $). Bez predikcí a stoch. teroru nad rámec již zdokumentovaného.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (29. 7. 2026) {#československo-tv2--videoportál-29-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-29_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1960806614609362&_rdr>
+- **Datum záznamu:** 2026-07-29
+- **Délka:** 01:24:17 | Zhlédnutí: 80
+- **Poznámka:** Zpracováno 4 nová témata: (1) „strukturovaná voda" H3O2 (Gerald Pollack) — [konspirace.md](konspirace.md). (2) Aktualizace kauzy Zítko u Krajského soudu v Ústí nad Labem (uzavřeno bez veřejného líčení, dvě možné varianty) — [dsa-cenzura.md](dsa-cenzura.md). (3) „Srdcem pro vlast" (2020) — infiltrace nasazenou trojkou Trčka/Šlajch/Semper/Kořenář — [media-propaganda.md](media-propaganda.md). (4) Benešovy dekrety jako precedens poválečného uspořádání po Ukrajině (USA/Rusko/Čína) — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Opakování beze změny (jen zdroj, bez rozšíření): financování Deníku N miliardáři, Bitcoin kauza, „všichni jsme Paukner", MedBeds/QFS/GESARA a „dopis Trumpa Anonům", Kennedyho obchodní model farmaceutického průmyslu, Pfizer vedlejší účinky. Bez predikcí a stoch. teroru nad rámec již zdokumentovaného.
+- **Zpracováno:** ano

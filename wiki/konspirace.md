@@ -603,3 +603,11 @@ Zítko kritizuje současný vzdělávací systém: děti stráví 15 let života
 **Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
 
 ---
+
+### Voda jako „H3O2" — strukturovaná voda místo H2O (Zítko, 29. 7. 2026)
+
+Zítko šíří obsáhlý text (přejatý od zahraničních autorů, sdílený přes „Hana Hanna"), podle nějž voda v lidském těle není běžné H2O, ale odlišná, elektricky nabitá „strukturovaná" forma s jednou molekulou vodíku a kyslíku navíc, označovaná jako H3O2 nebo „EZ voda" (z angl. exclusion zone) — s odkazem na výzkum bioinženýra Geralda Pollacka z Univerzity ve Washingtonu. Tato voda má být „živá", ukládat sluneční a infračervenou energii jako baterie a fungovat jako zdroj tělesné elektřiny — srdce má být podle tohoto výkladu „rezonátor", nikoli pumpa. Tvrdí, že tento poznatek je záměrně vytěsňován ze škol i medicíny, protože strukturovanou vodu „nelze plnit do lahví, patentovat ani prodávat" — na rozdíl od farmaceutických produktů. Jako návod na „nabíjení" vody v těle doporučuje sluneční a infračervené světlo, pohyb a dech, elektrolyty (keltská mořská sůl, shilajit), syrové ovoce a zeleninu, chození bez bot („uzemnění") a hudbu — s odkazem na kontroverzní experimenty Masaru Emota o vlivu emocí a hudby na strukturu vody. Doplňuje odkaz na Rudolfa Steinera a Viktora Schaubergera jako dřívější zastánce podobných myšlenek.
+
+**Zdroje:** [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)
+
+---

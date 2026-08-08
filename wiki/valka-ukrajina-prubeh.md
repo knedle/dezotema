@@ -741,3 +741,11 @@ Vrabel referuje o ukrajinském útoku na íránskou nákladní loď v Kaspickém
 **Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026), [Vrabel — Facebook Live (2) 28. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-2-28-7-2026)
 
 ---
+
+### Benešovy dekrety jako precedens: poválečné uspořádání rozhodnou USA, Rusko a Čína (Zítko, 29. 7. 2026)
+
+Zítko tvrdí, že po skončení konfliktu na Ukrajině nebude o novém uspořádání rozhodovat žádná evropská vláda ani prezident Petr Pavel („107. na hradě"), ale výhradně tři vítězné mocnosti — Spojené státy Donalda Trumpa, Ruská federace Vladimira Putina a Čína Si Ťin-pchinga —, podobně jako tomu bylo po 1. a 2. světové válce, jejichž výsledkem byly „nespochybnitelné" Benešovy dekrety. Z tohoto precedentu vyvozuje, že totéž mocenské rozhodování bude následovat i po ukončení války na Ukrajině — s dopadem i na budoucí uspořádání střední Evropy a případnou obnovu Československa (viz [konspirace-ceskoslovensko.md](konspirace-ceskoslovensko.md)).
+
+**Zdroje:** [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)
+
+---

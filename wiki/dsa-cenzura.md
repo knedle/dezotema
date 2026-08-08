@@ -191,7 +191,9 @@ Zítko se vrací ke svému odsouzení — soudkyně Mgr. Iva Dvořáková z Chom
 
 > „Pravda nikdy nemůže být poplašnou zprávou, tudíž ani trestným činem." — Pavel Zítko, [Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+**29. 7.** — Zítko upřesňuje stav odvolacího řízení: krajský soud v Ústí nad Labem věc uzavřel minulý čtvrtek (23. 7.) bez nařízení veřejného hlavního líčení — ačkoli on i jeho obhájce na veřejném líčení trvali (mj. aby bylo možné vyvrátit rozsudek soudkyně Dvořákové a nechat vypovídat molekulární bioložku Sonju Pekovou jako svědkyni). Výsledek rozhodnutí zatím nemá k dispozici. Popisuje dvě možné varianty: (1) krajský soud potvrdí tříletý nepodmíněný trest — což by dle něj bylo „možná první nepodmíněné odsouzení v Evropě" za covidové výroky (jinde padaly jen podmínky); nebo (2) věc vrátí s odůvodněním zpět okresnímu soudu v Chomutově.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)
 
 ---
 
