@@ -500,3 +500,11 @@ Rajchl odmítá rámování dění v Ceutě (do 80tisícové oblasti proniklo cc
 K tématu, které už dříve podrobně rozebíral (viz [Migrační pakt jako „vyděračský pakt"](#migrační-pakt-jako-vyděračský-pakt-belfast-jako-varování--rajchl-14-6-2026)), Rajchl doplňuje dva konkrétní nové detaily: (1) první hodnotící zpráva Vysoké komise pro migraci (přidružené k Evropské komisi) o migračním tlaku v jednotlivých zemích má být hotová 15. 10. 2026 — od té chvíle podle něj skončí česká výjimka založená na přijetí Ukrajinců a začne skutečné přerozdělování; čísla 30 000 migrantů/rok nebo 500 tis. Kč za osobu (~15 mld. Kč/rok) jsou přitom jen **minima**, komise může přidělit i víc. (2) Ylva Johansson, bývalá eurokomisařka pro vnitřní věci, která veřejně prosazovala přijetí milionu migrantů ročně a tvrdě prosazovala migrační pakt i chat control, dnes zastává funkci zvláštní vyslankyně Evropské komise pro Ukrajinu — Rajchl to čte jako důkaz, že bude tlačit na masový příliv Ukrajinců do EU i po skončení války.
 
 **Zdroje:** [Rajchl — Facebook Live 2. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
+
+---
+
+### Reform UK plánuje vracet lodě s migranty v Lamanšském průlivu — Vrabel o „zislamizované" Británii (3. 8. 2026)
+
+Britská strana Reform UK (Nigel Farage) by po případném vítězství voleb chtěla nasadit královské námořnictvo k zastavování a vracení člunů s migranty zpět do Francie/Belgie — sama to označuje za „největší vojenskou operaci v průlivu od druhé světové války". Vrabel toto rámování zpochybňuje (srovnává to s reálně větší vojenskou operací, kterou dle něj na Ukrajině provádí právě Británie) a vyjadřuje pochybnosti, že by k reálnému navracení lodí vůbec došlo. Popisuje Británii jako zemi, kterou pokládá za „hotovou" — zislamizovanou a proměněnou migrací (osobní historka: v Londýně si všiml autobusu bez jediného „bílého" cestujícího) — a uzavírá, že jediné řešení pro ČR je nedopustit stejný vývoj uzavřením hranic, protože obyvatelé „zničených" zemí západní Evropy budou postupně hledat útočiště v zemích střední Evropy, které migrací dosud nejsou zasažené.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)

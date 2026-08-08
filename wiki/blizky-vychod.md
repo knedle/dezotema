@@ -542,3 +542,19 @@ Podle analytiků se konflikt mezi USA a Íránem dál rozšiřuje — poprvé od
 Podle amerických médií (CBS, CNN) USA a Izrael připravují rozsáhlou bombardovací kampaň zaměřenou především na íránskou energetickou infrastrukturu, útoky by mohly začít už během víkendu — Trump o tom mluvil den předem. Teherán varoval, že zásah nezůstane bez odvety a má připravený plán útoků na izraelské a americké cíle. Vrabel připomíná dřívější předpověď (dle Zuzky od Vladimira Žirinovského), že třetí světová válka nezačne na Ukrajině, ale na Blízkém východě, a vyjmenovává státy už zatažené do konfliktu (Egypt, Irák, Izrael, Libanon, Írán, Kuvajt, Saúdská Arábie, SAE, Bahrajn, Katar) — s tím, že brzy přijde na řadu i Sýrie. Doplňuje otevřené zklamání z Donalda Trumpa, kterého dříve podporoval a vychvaloval, ale nyní jej hodnotí jako „největšího válečného prezidenta", co pamatuje.
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+
+---
+
+### Saúdský princ žádá Trumpa o deeskalaci — Írán popírá tvrzení o jednáních (Vrabel, 3. 8. 2026)
+
+Saúdský korunní princ Muhammad bin Salman telefonicky vyzval Trumpa, aby se zdržel plánovaných útoků na Írán a usiloval o deeskalaci — krátce poté Trump oznámil zrušení připravovaných úderů s odůvodněním, že o to Írán požádal a nabídl obnovení bezpečné plavby Hormuzem. Íránské ministerstvo zahraničí ale popřelo, že by o cokoli takového žádalo nebo že by jednání probíhala, a uvedlo, že armáda je v nejvyšší bojové pohotovosti. Vrabel to čte jako Trumpovu snahu najít si alibi pro vlastní nekonzistentnost (srovnává to s dřívějším Zelenského výhrůžným ultimátem Bělorusku, kde si Zelenskyj rovněž připsal k dobru ústupek, ke kterému fakticky nedošlo) — zapadá to do jeho starší teze o „týdenním cyklu" eskalace a deeskalace (viz výše).
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+---
+
+### Izrael odmítl dodat Ukrajině systém Iron Dome (Vrabel, 3. 8. 2026)
+
+Izrael zablokoval dodávky protiraketového systému Iron Dome na Ukrajinu z obavy, že by se technologie mohla dostat do rukou Íránu — místo toho vrátil USA dříve zapůjčené baterie Patriot, které Washington může přesměrovat na Ukrajinu. Vrabel to srovnává s Trumpovým odmítnutím dát Kyjevu licenci na výrobu Patriotů (obavy, že se technologie „obrátí" proti dárci) — v obou případech tak vlastník nejmodernější technologie raději podporuje Ukrajinu nepřímo, přes americký systém, než aby dal z ruky vlastní vybavení.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)

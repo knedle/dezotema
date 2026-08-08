@@ -139,3 +139,11 @@ K odmítnutí polského prezidenta Nawrockého podepsat zákon o právním uzná
 Adam Šejna kritizuje konání bohoslužby ve jménu Prague Pride v kostele, kde ji navštívil — považuje to za disrespekt vůči křesťanům, kteří přišli na běžnou bohoslužbu a místo toho narazili na téma Pride festivalu. Netvrdí, že by komunita LGBT neměla mít pochopení, ale argumentuje, že pokud sama žádá respekt, musí respektovat i právo křesťanů říkat, že podle jejich víry „tohle nepatří do normálního života" a nepatří to „do domu páně".
 
 **Zdroje:** [Restart Česko — Videoportál 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026), [Restart Česko — Videoportál (3) 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026-2)
+
+---
+
+### Britská studie blokátorů puberty u dětí — „nejvíc kriminální věc na světě" (Vrabel, 3. 8. 2026)
+
+Britský Nejvyšší soud zamítl právní námitku aktivistů a umožnil pokračování klinické studie Pathways (King's College London), která má od 1. srpna zařadit více než 220 dětí ve věku 11–16 let do testování účinků blokátorů puberty u mladistvých zpochybňujících své pohlaví. Vrabel to označuje za jednu z „nejvíc kriminálních" věcí na světě — argumentuje, že děti jsou snadno manipulovatelné, blokátory a hormony jsou celoživotně bolestivé a rozhodnutí učiněné v dětství může vést k hluboké lítosti a depresi v dospělosti. Kritizuje i praxi „dnů tolerance" na školách (včetně Německa), kde si děti zkoušejí opačné genderové role a kde je jim ze strany neziskových organizací sugerováno, že pokud se tak cítí, neměly by se stydět se k tomu přiznat — což podle něj u části dětí vyvolá zbytečné dlouhodobé zmatení identity.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)

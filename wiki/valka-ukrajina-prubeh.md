@@ -863,3 +863,11 @@ Vrabel komentuje záběry obrovského oblaku připomínajícího houbu po jadern
 **Zdroje:** [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
 
 ---
+
+### Ukrajinský dronový útok na pláž v Krasnodaru — 7 mrtvých včetně 3 dětí (Vrabel, 3. 8. 2026)
+
+Ukrajina znovu útočila na sklad Wildberries, ruskou leteckou základnu a rafinerie a zasáhla dronem přeplněnou pláž v Krasnodarském kraji — podle aktuálních zpráv zemřelo 7 lidí (z toho 3 děti) a přibližně 13 bylo zraněno. Vrabel útok rámuje jako teroristický čin umožněný ze Západu — dodáváním dronů, financováním a poskytováním satelitních souřadnic (Starlink) — a opakuje svou tezi, že jde fakticky o společnou operaci USA/NATO/EU a Ukrajiny, nikoli o čistě ukrajinskou vojenskou akci.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+---

@@ -514,9 +514,11 @@
 - **1. 8.** — USA opouští vedení SAKU (Wiesbaden); USA chtějí obnovit mírová jednání, ale Rusko už „nenaletí" — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 - **1. 8.** — Trump: Ukrajina má nerostné bohatství, „vezmeme si co chceme"; citát Harabina o Anglosasech štvoucích Slovany; predikce rozplynutí západní Ukrajiny do Polska/Maďarska — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 - **2. 8.** — ruský útok na sklad munice v Chmelnycku — „atomový" hřib z podzemního protiatomového krytu — [Nedělní vysílání 2. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+- **3. 8.** — dronový útok na pláž v Krasnodaru — 7 mrtvých včetně 3 dětí, rámuje jako terorismus umožněný Západem — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 2)
 - **1. 8.** — USA/Izrael připravují bombardování Íránu; odkaz na Žirinovského predikci 3. světové války na Blízkém východě — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+- **3. 8.** — Saúdský princ žádá Trumpa o deeskalaci, Írán popírá jednání; Izrael odmítl dodat Ukrajině Iron Dome — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
 
 ### [Politický systém](../politicky-system.md) (pokrač.)
 - **1. 8.** — rozdělená společnost jako nástroj kontroly (paralela USA republikáni/demokraté a ČR); ten, kdo mluví o míru, dělá totéž co předchůdce — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
@@ -532,6 +534,19 @@
 
 ### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md)
 - **2. 8.** — podzimní demonstrace „Člověk na první místě" — nadstranická, témata války/jaderných zbraní/digitalizace/koruny, zvažovaní hosté Ivan David a senátorka Kovářová — [Nedělní vysílání 2. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+- **3. 8.** — demonstrace upřesněna na říjen, desatero požadavků — první a hlavní bod: žádná jaderná aliance — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 2)
+- **3. 8.** — vedra/sucho v Rakousku — 20–70% ztráty úrody, vybíjení dobytka; doporučuje pěstovat vlastní zeleninu — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+### [Kauzy a korupce](../kauzy.md)
+- **3. 8.** — bitcoinová kauza (Blažek, Jiříkovský) jako „vrtěti psem" odvádějící pozornost od migračního paktu — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 2)
+- **3. 8.** — Reform UK — vracení lodí v Lamanšském průlivu; Británie jako „zislamizovaná" — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+### [Rodina a děti](../rodina-deti.md)
+- **3. 8.** — britská studie blokátorů puberty u dětí — „nejvíc kriminální věc na světě" — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
 
 ---
 
@@ -993,3 +1008,4 @@
 - [Facebook Live (31. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 - [Zprávy v devět (1. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 - [Nedělní vysílání (2. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+- [Zprávy v devět (3. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)

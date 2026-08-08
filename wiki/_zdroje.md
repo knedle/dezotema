@@ -3534,3 +3534,12 @@
 - **Délka:** 01:06:54 | Zhlédnutí: 360
 - **Poznámka:** Zpracováno 3 témata: (1) Dr. Kirk Moore zproštěn obvinění (solný roztok místo vakcíny) — [covid-vakciny.md](covid-vakciny.md). (2) Senátoři u grilování Fauciho jako hollywoodští herci (Reynolds, Cruise) — [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md). (3) Fauciho rodina — dcera cenzurovala na Twitteru, manželka NIH Bioethics — [covid-vakciny.md](covid-vakciny.md). Zbytek (GITMO, seznam českých lékařů, VAERS) je opakování beze změny. Stochastický teror: Francis Collins (doživotí) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (3. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-3-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-03_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1024520293699209>
+- **Datum záznamu:** 2026-08-03
+- **Délka:** 00:52:55
+- **Poznámka:** Zpracováno 8 témat: (1) Podzimní demonstrace upřesněna na říjen, desatero — [jaderne-zbrane.md](jaderne-zbrane.md). (2) Vedra/sucho — dopady na energetiku a potraviny (Rakousko) — [ceny-energie.md](ceny-energie.md). (3) Bitcoinová kauza jako „vrtěti psem" — [kauzy.md](kauzy.md). (4) Reform UK — vracení lodí v Lamanšském průlivu — [migrace.md](migrace.md). (5) Saúdský princ žádá Trumpa o deeskalaci, Írán popírá jednání — [blizky-vychod.md](blizky-vychod.md). (6) Izrael odmítl dodat Ukrajině Iron Dome — [blizky-vychod.md](blizky-vychod.md). (7) Britská studie blokátorů puberty — [rodina-deti.md](rodina-deti.md). (8) Dronový útok na pláž v Krasnodaru — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

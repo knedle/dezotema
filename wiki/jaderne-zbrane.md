@@ -168,4 +168,6 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 **30. 7.** — Vrabel znovu opakuje stejnou tezi (salámová metoda, útočné rakety, ne obranný „deštník") a naléhá, že demonstrovat je třeba **před** podpisem dohody Andrejem Babišem, ne až poté, kdy už „nebude pro co demonstrovat" — [Zprávy v devět 30. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
 
+**3. 8.** — Upřesňuje termín demonstrace na **říjen** (dříve avizoval druhou polovinu září) a poprvé zveřejňuje strukturu: půjde o „desatero" — deset požadavků/témat. První a nejdůležitější bod je explicitní požadavek, aby ČR (prezident Pavel i vláda Babiše) nebyla „zavlečena" do žádné jaderné aliance — ani NATO nuclear sharing, ani americké, ani francouzské — s odůvodněním, že jde o životy všech obyvatel ČR, nikoli jen politickou preferenci. Slibuje postupně odhalovat další body desatera v dalších dnech. — [Zprávy v devět 3. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
 ---
