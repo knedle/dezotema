@@ -855,3 +855,11 @@ Donald Trump v telefonickém interview zopakoval, že Ukrajina má rozsáhlé z�
 **Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 
 ---
+
+### Ruský útok na sklad munice v Chmelnycku — „atomový" hřib z podzemního protiatomového krytu (Vrabel, 2. 8. 2026)
+
+Vrabel komentuje záběry obrovského oblaku připomínajícího houbu po jaderném výbuchu, který vznikl po ruském útoku na sklad munice v Chmelnycké oblasti — vysvětluje, že šlo o starý protiatomový sklad ještě ze Sovětského svazu, kde Ukrajinci skladovali zbraně (podle dostupných zpráv možná i munici s ochuzeným uranem). Tvrdí, že Rusko disponuje raketami (zmiňuje Kinžal a Orešnik) se speciálními hlavicemi schopnými prorazit až 100 metrů do země, než detonují — což umožňuje zničit i takto chráněné podzemní sklady. Dává to do souvislosti se svou tezí o riziku pro Českou republiku, pokud by se na jejím území nacházely sklady zbraní nebo případně francouzské jaderné zbraně (viz [jaderne-zbrane.md](jaderne-zbrane.md)) — rozdíl mezi zásahem běžného skladu munice a skladu s jadernou municí by byl podle něj zásadní.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+
+---

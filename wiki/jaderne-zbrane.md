@@ -164,6 +164,8 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 **1. 8.** — Opakuje tutéž tezi v souvislosti se zprávou o německo-francouzském jaderném cvičení a rétorikou o „přepevňování" cest a mostů pro přesun vojsk — bez nového posunu — [Zprávy v devět 1. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 
+**2. 8.** — K plánované podzimní demonstraci upřesňuje: půjde o výslovně nadstranickou akci bez podpory politiků kandidujících ve volbách, s tématy války, jaderných zbraní, digitalizace, koruny a ekonomiky. Zvažuje pozvat i jednotlivé politiky jako řečníky (nikoli za strany) — jmenuje europoslance Ivana Davida (SPD) a senátorku Kovářovou jako lidi, kteří se mu líbí, i komunistické aktivisty Josefa Skálu a Petra Bureše. Zdůrazňuje, že podpis dohody o francouzské jaderné alianci (viz výše) je pro něj tím nejnebezpečnějším krokem, kterému chce demonstrací zabránit. Plánování je zatím v počáteční fázi (cca 10 hodin práce, „pár desítek lidí"). — [Nedělní vysílání 2. 8.](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+
 **30. 7.** — Vrabel znovu opakuje stejnou tezi (salámová metoda, útočné rakety, ne obranný „deštník") a naléhá, že demonstrovat je třeba **před** podpisem dohody Andrejem Babišem, ne až poté, kdy už „nebude pro co demonstrovat" — [Zprávy v devět 30. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
 
 ---

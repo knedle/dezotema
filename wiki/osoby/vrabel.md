@@ -513,16 +513,25 @@
 - **31. 7.** — Bilecký (Azov): „nejsme nacisté, jsme nacionalisté" — Vrabel rozvádí vlastní definici rozdílu mezi nacionalismem a nacismem — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 - **1. 8.** — USA opouští vedení SAKU (Wiesbaden); USA chtějí obnovit mírová jednání, ale Rusko už „nenaletí" — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 - **1. 8.** — Trump: Ukrajina má nerostné bohatství, „vezmeme si co chceme"; citát Harabina o Anglosasech štvoucích Slovany; predikce rozplynutí západní Ukrajiny do Polska/Maďarska — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+- **2. 8.** — ruský útok na sklad munice v Chmelnycku — „atomový" hřib z podzemního protiatomového krytu — [Nedělní vysílání 2. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 2)
 - **1. 8.** — USA/Izrael připravují bombardování Íránu; odkaz na Žirinovského predikci 3. světové války na Blízkém východě — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 
 ### [Politický systém](../politicky-system.md) (pokrač.)
 - **1. 8.** — rozdělená společnost jako nástroj kontroly (paralela USA republikáni/demokraté a ČR); ten, kdo mluví o míru, dělá totéž co předchůdce — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+- **2. 8.** — rekonstrukce Václavského náměstí jako záměrné znemožnění demonstrací; vlastní perzekuce po roce 2022 — [Nedělní vysílání 2. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
 
 ### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md)
 - **1. 8.** — polské stíhačky zachytily ruský průzkumný letoun nad Baltem — ironizuje jako „z komára velblouda" — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 - **1. 8.** — Harabinův rozsudek „Rusko není agresor" — podrobně opravuje nepřesnou interpretaci zprávy — [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+- **2. 8.** — Venezuela — zajetí prezidenta a jeho ženy, přepadení paláce jako „banditismus" USA — [Nedělní vysílání 2. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+
+### [COVID a vakcíny](../covid-vakciny.md) (pokrač.)
+- **2. 8.** — vystoupení z VHO jako jednoduché rozhodnutí vlády; kritika Adama Vojtěcha za obnovení spolupráce s VHO — [Nedělní vysílání 2. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+
+### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md)
+- **2. 8.** — podzimní demonstrace „Člověk na první místě" — nadstranická, témata války/jaderných zbraní/digitalizace/koruny, zvažovaní hosté Ivan David a senátorka Kovářová — [Nedělní vysílání 2. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
 
 ---
 
@@ -983,3 +992,4 @@
 - [Zprávy v devět (28. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 - [Facebook Live (31. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 - [Zprávy v devět (1. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+- [Nedělní vysílání (2. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)

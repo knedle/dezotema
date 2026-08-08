@@ -3489,3 +3489,12 @@
 - **Délka:** 01:03:46
 - **Poznámka:** Zpracováno 7 témat: (1) Debata s Grolichem — náklady na ukrajinskou migraci (Kiel institut, NYT) — [kauzy.md](kauzy.md). (2) Ceuta jako „invaze, ne migrace" — [migrace.md](migrace.md). (3+4) Migrační pakt — první zpráva 15. 10., Johansson vyslankyní pro Ukrajinu — [migrace.md](migrace.md). (5+6) Fauciho slyšení — právní detaily (judikát 1896, žaloby na Pfizer, milost od 2014), volání po českém slyšení — [covid-vakciny.md](covid-vakciny.md). (7) Akreditace Pokorné vs. blokace webů 2022 — [dsa-cenzura.md](dsa-cenzura.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání (2. 8. 2026) {#ladislav-vrabel--nedělní-vysílání-2-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-02_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1526799535162547>
+- **Datum záznamu:** 2026-08-02
+- **Délka:** 01:48:22
+- **Poznámka:** Zpracováno 5 témat: (1) Venezuela — zajetí prezidenta, „banditismus" USA — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Rekonstrukce Václavského náměstí jako znemožnění demonstrací, vlastní perzekuce — [politicky-system.md](politicky-system.md). (3) Vystoupení z VHO jako jednoduché rozhodnutí, kritika Adama Vojtěcha — [covid-vakciny.md](covid-vakciny.md). (4) Podzimní demonstrace — témata, hosté (Ivan David, Kovářová) — [jaderne-zbrane.md](jaderne-zbrane.md). (5) Ruský útok na sklad munice v Chmelnycku — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Zbytek (filozofie boží zákon/rozděl a panuj, Oluja, francouzský jaderný deštník, Narval, německý tranzit, Trump/nerostné bohatství) je opakování beze změny. Stochastický teror: dělníci ve zbrojovkách — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.
+- **Zpracováno:** ano

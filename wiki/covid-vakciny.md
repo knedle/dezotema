@@ -889,6 +889,10 @@ Malé nemocnice varují před připravovanou reformou ministerstva zdravotnictv�
 
 **Zdroje:** [Vrabel — Facebook Live 16. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-7-2026)
 
+**2. 8.** — Vrabel na dotaz diváka odpovídá, že vystoupení z VHO (soukromé organizace) je otázkou jediného rozhodnutí vlády — dává příklad Donalda Trumpa, který z VHO vystoupil jedním dekretem. Místo toho ministerstvo Adama Vojtěcha oznámilo obnovení spolupráce s VHO a rozšíření očkování do lékáren. Zmiňuje kontakt Jamese Roguského (odborník na VHO, vystupující na kanálu Redacted), podle nějž VHO buduje rozsáhlý systém sledování komunikace a kontroly webů pod záštitou boje s „dezinformacemi" o očkování — což spojuje s dřívějším hlasováním Kateřiny Konečné v Evropském parlamentu pro potírání „dezinformací" o vakcínách.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+
 ---
 
 ## „Jak bys řešil covid ty" — Fierst vs. Hořejší (Zítko, 17. 6. 2026)

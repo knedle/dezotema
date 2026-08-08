@@ -817,6 +817,8 @@ Podle deníku Financial Times bude moci Kyjev poprvé vyčlenit přibližně 6 m
 
 K Trumpově cca 25minutovému projevu, v němž obvinil Čínu z vměšování do amerických voleb (a vyzval republikány k podpoře zákona Save America Act), Vrabel reaguje Putinovým dětským pořekadlem „kdo to říká, ten to je". Připomíná, že Čína se dle něj do geopolitiky (ani do voleb) prakticky nevměšuje a v ukrajinsko-ruském konfliktu zůstává v pozadí a vyzývá k míru. Naproti tomu USA prý po druhé světové válce zasáhly do výměny vlád **73×** (a od sestavení tabulky přibyly další — Venezuela, Írán, pokus o výměnu vlády v Rusku) — otevřeně skrze CIA, armádu, neziskové organizace a média. Jako čistě americkou operaci označuje protiústavní převrat na Ukrajině v roce 2014. Navazuje na [Tři fáze konfliktu Západ–Rusko](valka-ukrajina-prubeh.md#tři-fáze-konfliktu-západrusko-od-majdanu-k-terorismu-na-ruském-území-vrabel-31-5-2026).
 
+**2. 8.** — K vlastnímu zamyšlení o porušování mezinárodního práva doplňuje konkrétní popis zásahu USA ve Venezuele: podle Vrabela přijeli, zajali prezidenta i jeho ženu a přepadli palác — čistý „banditismus" vůči suverénní zemi, srovnatelný s americkým útokem na Írán (zabití nejvyššího duchovního vůdce, přirovnává k zabití papeže) — [Nedělní vysílání 2. 8.](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 
 ---
