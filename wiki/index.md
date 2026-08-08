@@ -12,7 +12,6 @@ Obsah je organizován **tematicky** — každá stránka pokrývá jedno téma n
 - [Pavel Zítko / Československo TV2](https://www.facebook.com/CeskoslovenskoTV2) — alternativní médium
 - [Jiří Černohorský Živě](https://www.facebook.com/cernohorsky.jiri) — aktivista, komentátor
 - [Ladislav Vrabel](https://www.facebook.com/ladislav.vrabel.2025) — organizátor demonstrací, komentátor večerních zpráv
-- Soňa Peková — molekulární bioložka, klinická genetička, kritička covidových opatření a mRNA vakcín
 - [Adam Šejna](https://www.facebook.com/61586055215179) — provozovatel kanálu Restart Česko, influencer strany Motoristé
 
 ## Témata
