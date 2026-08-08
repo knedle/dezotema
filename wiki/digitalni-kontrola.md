@@ -183,3 +183,11 @@ Vrabel zmiňuje novou funkci sociální sítě Meta (Facebook/Instagram), která
 Evropská komise vyhlásila plán na výstavbu až sedmi AI „gigatováren" s cílem posílit technologickou suverenitu Evropy vůči USA a Číně (10 mld. eur z veřejných zdrojů, očekávaných dalších 20 mld. eur soukromých investic; cíl Ursuly von der Leyenové: Evropa jako „přední kontinent" v umělé inteligenci). Vrabel to označuje za nereálné — Evropa dle něj v závodě o umělou inteligenci (mezi USA — OpenAI, Anthropic — a Čínou — DeepSeek a další) „není ani kvalifikovaná", nemá vlastní GPS systém ani komunikační infrastrukturu (Facebook, WhatsApp, Google běží přes USA) a technologicky zaostává o desetiletí. Skutečným smyslem gigatováren je podle něj shromažďování dat pro byrokracii — konkrétně evidenci veškerého movitého i nemovitého majetku občanů (včetně zlata a elektroniky) — nikoli konkurenceschopnost v AI.
 
 **Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
+
+---
+
+### Noční zákaz vycházení v Rotterdamu — pokračování agendy 15minutových měst (Vrabel, 31. 7. 2026)
+
+Druhé největší nizozemské město vyhlásilo v části Rotterdamu noční zákaz vycházení pro každého, kdo v oblasti nebydlí, nepracuje nebo tam nemá jiný oprávněný důvod se nacházet — reakce na dlouholetou noční kriminalitu a nelegální závody. Vrabel to čte jako další krok agendy 2030 a konceptu „15minutových měst" (viz [Zítko — školství jako nástroj indoktrinace](konspirace.md#školství-jako-nástroj-indoktrinace--rockefeller-agenda-2030-zítko-28-7-2026)): cílem je omezit pohyb lidí jen do blízkosti bydliště (v testovaných britských městech už jde o povolení městské rady k vyjezdu ven), a to nejen z důvodů kontroly, ale i jako příprava obyvatel na trvalý nedostatek energie a omezení automobilové dopravy.
+
+**Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)

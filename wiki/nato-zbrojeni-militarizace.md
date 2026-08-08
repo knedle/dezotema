@@ -727,3 +727,11 @@ V podniku VOP CZ v Šenově u Nového Jičína byla zahájena výroba 246 bojov�
 **Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
 
 ---
+
+### Další tranže 3,47 mld. EUR pro Ukrajinu na drony, rakety a Grypeny — „EU nemá vlastní peníze" (Vrabel, 31. 7. 2026)
+
+Evropská komise vyplatila Ukrajině dalších 3,47 miliardy EUR (~84 mld. Kč) z vojenské části unijní půjčky, určených na nákup vojenské techniky včetně dronů, raket a stíhaček Gripen. Vrabel k tomu opakuje svou tezi, že „Evropská unie" jako taková neexistuje a nemá žádné vlastní peníze ani vlastní občany — je to jen byrokratický nadstát, který si nárokuje právo brát peníze občanům členských států (přirovnává to k farmáři, který „dojí své krávy" a mléko pak rozdává jinam). Posílané peníze podle něj Ukrajina přeměňuje na rakety a drony používané k útokům na Ruskou federaci, které ale platí evropští daňoví poplatníci.
+
+**Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+---

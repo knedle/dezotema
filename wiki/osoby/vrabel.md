@@ -494,6 +494,23 @@
 - EU pravidla pro děti online jako předstupeň chat control a digitálního ID („totalitní systém s totální kontrolou") — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - EU pokutovala Google (DMA) — Google jako americký armádní projekt, pokuta se dle Vrabela nezaplatí nebo se vrátí jinam — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **24. 7.** — spor USA–EU o digitální služby, hrozba vypnutí Google Maps; celý „Big Five" jako americké armádní projekty (i Muskův Starlink pro Ukrajinu) — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+- **31. 7.** — noční zákaz vycházení v Rotterdamu jako pokračování agendy 15minutových měst — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač.)
+- **31. 7.** — Egypt zatažen do konfliktu Írán–USA (útok na přístav Damietta) — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+### [Migrace](../migrace.md) (pokrač.)
+- **31. 7.** — Ceuta/migrační pakt: von der Leyenová, Kalergiho plán, příklad Rotterhamu, biografie vlastního migračního aktivismu od 2013 — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač.)
+- **31. 7.** — energetická krize (sucho, jaderné elektrárny Paks/Černá Voda) jako nástroj řízeného snížení světové populace — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+- **31. 7.** — další tranže 3,47 mld. EUR pro Ukrajinu (drony, rakety, Grypeny); opakuje tezi, že „EU nemá vlastní peníze" — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+- **31. 7.** — Rusko zasáhlo americkou továrnu Terminal Autonomy v Kyjevě — rámuje jako „válku Západu skrze Ukrajinu proti Rusku", predikuje eskalaci mimo Ukrajinu — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+- **31. 7.** — Bilecký (Azov): „nejsme nacisté, jsme nacionalisté" — Vrabel rozvádí vlastní definici rozdílu mezi nacionalismem a nacismem — [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 
 ---
 
@@ -852,6 +869,8 @@
 | Donald Trump | ❌ negativní | Přejmenoval Pentagon na „Ministerstvo války" (Vrabel to schvaluje jako „upřímnější"); na schůzce se Zelenským nepřinesl žádné nové návrhy na ukončení konfliktu | 2026-07-28 | [Zprávy v devět 28. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026) |
 | Benjamin Netanjahu | ⚖️ rozporuplný | Setkání s Trumpem o íránském jaderném programu — Vrabel opakovaná tvrzení o íránských zbraních zpochybňuje srovnáním se Saddámem Husajnem a Kaddáfím | 2026-07-28 | [Zprávy v devět 28. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026) |
 | Daniel Křetínský | ❌ negativní | Jeho firma EPH se poprvé zařadila do Fortune Global 500 — Vrabel: důkaz profitu z vysokých cen elektřiny pro české domácnosti | 2026-07-28 | [Zprávy v devět 28. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026) |
+| Ursula von der Leyenová | ❌ negativní | Citát „nepustíme nikoho, kdo nerespektuje pravidla" k Ceutě — Vrabel: prázdné „chlazení davu" bez reálného obsahu | 2026-07-31 | [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026) |
+| Andrij Bilecký | ⚖️ rozporuplný | Zakladatel praporu Azov odmítající označení „nacista" — Vrabel s obhajobou symboliky souhlasí, ale trvá na tom, že Azov je nacistický kvůli potlačování Rusů | 2026-07-31 | [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026) |
 
 ---
 
@@ -948,3 +967,4 @@
 - [Zprávy v devět (27. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
 - [Facebook Live (2) (28. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-2-28-7-2026)
 - [Zprávy v devět (28. 7. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+- [Facebook Live (31. 7. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)

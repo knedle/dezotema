@@ -700,6 +700,14 @@ Moskva odsoudila výroky velitele ukrajinských pozemních sil Michaila Drapaté
 
 ---
 
+### Bilecký (Azov): „nejsme nacisté, jsme nacionalisté" — Vrabel vysvětluje rozdíl (31. 7. 2026)
+
+Americká blogerka zveřejnila rozhovor se zakladatelem praporu Azov Andrijem Bileckým, který odmítl označení „nacista" s tím, že členové Azovu jsou „nacionalisté", a upozornil, že symboly spojované s nacismem (hákový kříž, symboly SS) používali ukrajinští kozáci už před 300 lety. Vrabel k tomu rozvádí svou vlastní definici, kterou uplatňuje napříč tématem (viz výše Drapatyj, 25. 7.): nacismus pro něj neznamená formální spojení s Hitlerem a lety 1938–45, ale jakoukoli ideologii, která na základě národnosti prohlašuje jeden národ za nadřazený a potlačuje práva jiného — zdravý nacionalismus (hrdost na vlastní národ, jako u Čechů) je v pořádku, nacismus začíná tam, kde se upírá právo jinému národu existovat nebo se svobodně hlásit ke své identitě. Podle této definice je Azov nacistický nejen kvůli historické symbolice (tetování s Hitlerem a hákovými kříži u zajatých vojáků), ale především kvůli potlačování práv rusky mluvících obyvatel Ukrajiny na jejich národní identitu — stejný argument, jímž zdůvodňuje i hodnocení generála Drapatého. Připomíná, že UPA jako „nacionalistická" organizace vznikla už kolem roku 1920, tedy dřív, než Hitler ovládl Německo, takže vazba na nacismus nemusí být formálně administrativní, ale ideologická.
+
+**Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+---
+
 ### Rusko odřízlo Ukrajinu od černomořských přístavů; USA chrání kazašskou ropu Chevronu (Vrabel, 25. 7. 2026)
 
 Vrabel upozorňuje na podle něj v médiích téměř nezmiňovanou zásadní změnu taktiky: Rusko posledních deset dní útočí na moldavské/černomořské přístavy a odřízlo Ukrajině přístup ke třem přístavům, čímž ji fakticky zbavilo přístupu k moři — tvrdý zásah do ukrajinské ekonomiky, protože export přes moře (především obilí) před válkou tvořil 19–20 % ukrajinského HDP. Zásadně to podle něj mění vnímání konfliktu, protože prý nezapadá do převažujícího mediálního rámce „Ukrajina vítězí". Souběžně USA vyzvaly Ukrajinu, aby přestala útočit na tankery přepravující kazašskou ropu v oblasti Novorossijsku v Černém moři — varování přišlo po stížnosti americké společnosti Chevron (15% podíl v konsorciu CPC) poté, co byl zasažen jí pronajatý tanker; Washington považuje kaspický ropovod za důležitou alternativu k ruským energetickým surovinám pro Evropu. Vrabel z rychlosti, s jakou Ukrajina na americkou žádost přestala na kazašskou ropu útočit, usuzuje, že je jasně vidět, „kdo tu válku řídí".
@@ -813,5 +821,13 @@ Bývalá vysoká představitelka amerického ministerstva zahraničí Viktoria N
 Souběžně Financial Times a dříve Politico potvrdily, že USA a Francie poskytují Ukrajině zpravodajské informace (satelitní snímky, souřadnice cílů) používané při plánování dronových úderů na ruské území. Vrabel to označuje za formální doznání toho, co tvrdí od začátku — že jde o válku Západu proti Rusku vedenou skrze Ukrajinu (financování, zbraně, zpravodajství), nikoli o čistě ukrajinský konflikt — a předpokládá, že Rusko na tento posun bude muset dříve či později reagovat.
 
 **Zdroje:** [Vrabel — Zprávy v devět 30. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026)
+
+---
+
+### Rusko zasáhlo americkou továrnu Terminal Autonomy v Kyjevě — „válka Západu skrze Ukrajinu proti Rusku" (Vrabel, 31. 7. 2026)
+
+Podle britského deníku The Guardian zasáhl Rusko při jednom z nedávných útoků na Kyjev závod americké společnosti Terminal Autonomy, kde se vyrábí útočné drony využívající umělou inteligenci. Vrabel to čte jako přímé potvrzení své teze (viz předchozí zápis o Nulandové), že nejde o válku Ukrajiny s Ruskem, ale o válku Západu skrze Ukrajinu proti Rusku — a interpretuje ruský útok jako odvetu poté, co po vypršení dřívějších jednání (Anchorage) druhá strana dohody využila jen k získání času. Predikuje, že ruské údery na americké/západní zájmy zůstanou zatím omezené na území Ukrajiny, ale konflikt bude v dohledné době dále eskalovat.
+
+**Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 
 ---

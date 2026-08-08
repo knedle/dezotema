@@ -3453,3 +3453,12 @@
 - **Délka:** 00:03:52 | Zhlédnutí: 3 158
 - **Poznámka:** Zpracováno 1 téma: eskalace Ceuty — migrační pakt vynutí přerozdělení do zemí, kde migranti „ještě nejsou" (Polsko, ČR, Slovensko, Maďarsko) — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Facebook Live (31. 7. 2026) {#ladislav-vrabel--facebook-live-31-7-2026}
+- **Soubor:** [přepis](prepisy/done/2026-07-31_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/27693678006959637>
+- **Datum záznamu:** 2026-07-31
+- **Délka:** 01:35:23
+- **Poznámka:** Zpracováno 7 témat: (1) Ceuta/migrační pakt — von der Leyenová, Kalergiho plán, příklad Rotterhamu — [migrace.md](migrace.md). (2) Egypt zatažen do konfliktu Írán–USA (útok na přístav Damietta) — [blizky-vychod.md](blizky-vychod.md). (3) Další tranže 3,47 mld. EUR pro Ukrajinu (drony, rakety, Grypeny) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md). (4) Rusko zasáhlo americkou továrnu Terminal Autonomy v Kyjevě — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (9) Energetická krize jako nástroj řízeného snížení populace — [ceny-energie.md](ceny-energie.md). (13) Bilecký (Azov): nacismus vs. nacionalismus — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (14) Noční zákaz vycházení v Rotterdamu — 15minutová města — [digitalni-kontrola.md](digitalni-kontrola.md). Nezpracováno (jen zpravodajský deník): Čechoslovak Group dronové centrum, kapacitní mechanismus/ceny elektřiny, Německo přesun vojsk přes ČR, Hamas odzbrojení, Slovensko vodohospodářství SAE, OpenAI singularita, Sýrie diplomat/Bashar Asad. Predikce: eskalace konfliktu mimo Ukrajinu — [predikce.md](predikce.md). Bez stoch. teroru.
+- **Zpracováno:** ano

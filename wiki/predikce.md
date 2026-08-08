@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — konflikt kolem amerických zájmů na Ukrajině brzy eskaluje mimo Ukrajinu (31. 7. 2026)
+
+**Předpověď:** K ruskému útoku na kyjevský závod americké firmy Terminal Autonomy (výroba útočných dronů) Vrabel předpovídá, že ruské údery na americké/západní zájmy zůstanou zatím jen na území Ukrajiny, ale že to „nebude trvat až zas tak dlouho", než konflikt eskaluje i mimo Ukrajinu.
+
+**Horizont:** neurčeno (blízká budoucnost)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+---
+
 ### Konspirátor Boldy — Evropa zanikne a stane se muslimským státem do roku 2050 (31. 7. 2026)
 
 **Předpověď:** S odkazem na proroctví Nostradama (přirovnání migrantů přicházejících přes moře k „sarančatům") a Baby Vangy tvrdí, že Evropa tak, jak ji dnes známe, do roku 2050 zanikne a stane se muslimským státem — aktuální migrační krize v Ceutě je dle něj počátkem tohoto procesu.

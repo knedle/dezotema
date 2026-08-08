@@ -526,3 +526,11 @@ Spojené státy jsou připraveny povolit Saúdské Arábii obohacování uranu v
 ⚡ **Poznámka:** Narážka na řízené vyvolání zemětřesení není ničím podložena.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 26. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-26-7-2026)
+
+---
+
+### Egypt zatažen do konfliktu — útok na přístav Damietta (Vrabel, 31. 7. 2026)
+
+Podle analytiků se konflikt mezi USA a Íránem dál rozšiřuje — poprvé od jeho vypuknutí byla přímo zasažena egyptská infrastruktura: letecký útok na přístav Damietta způsobil požár dvou plavidel včetně lodi Energos Winter patřící americké společnosti. K útoku se nikdo nepřihlásil; bezpečnostní analytici (CNN) to interpretují jako varovný signál, že Teherán je schopen zasáhnout cíle daleko za frontovou linií, případně prostřednictvím regionálních spojenců („osa odporu"). Vrabel to řadí do řady zemí postupně zatahovaných do konfliktu (předchozí den Irák, nyní Egypt) a rámuje to jako přímý přenos rozjíždějící se třetí světové války, kterou podle něj lidé navzdory dostupné komunikaci a technologiím stejně nejsou schopni rozpoznat.
+
+**Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
