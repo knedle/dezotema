@@ -3480,3 +3480,12 @@
 - **Délka:** 01:04:54 | Zhlédnutí: 330
 - **Poznámka:** Zpracováno 2 témata: (1) Zítkovo odvolání vráceno okresnímu soudu v Chomutově bez hlavního líčení — [osoby/zitko.md](osoby/zitko.md). (2) Konkrétní detaily slyšení Fauciho před Kongresem (Rand Paul, 111× odvolání na 5. dodatek, Facebook vypnul přenos) — [covid-vakciny.md](covid-vakciny.md). Zbytek videa (GITMO popravy, dvojníci, oxid grafenu, Andreas Noack, VHO jako zločinecká organizace) je opakování beze změny, nerozšiřováno. Stochastický teror: výzva k trestu smrti pro Fauciho, opakovaná výzva vůči novinářům (Ciroková, Valášek, Svobodová, „Zrzavá Nora") — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Facebook Live (2. 8. 2026) {#jindřich-rajchl--facebook-live-2-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-02_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/898353422854313>
+- **Datum záznamu:** 2026-08-02
+- **Délka:** 01:03:46
+- **Poznámka:** Zpracováno 7 témat: (1) Debata s Grolichem — náklady na ukrajinskou migraci (Kiel institut, NYT) — [kauzy.md](kauzy.md). (2) Ceuta jako „invaze, ne migrace" — [migrace.md](migrace.md). (3+4) Migrační pakt — první zpráva 15. 10., Johansson vyslankyní pro Ukrajinu — [migrace.md](migrace.md). (5+6) Fauciho slyšení — právní detaily (judikát 1896, žaloby na Pfizer, milost od 2014), volání po českém slyšení — [covid-vakciny.md](covid-vakciny.md). (7) Akreditace Pokorné vs. blokace webů 2022 — [dsa-cenzura.md](dsa-cenzura.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

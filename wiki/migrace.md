@@ -484,3 +484,19 @@ Zítko uvádí tvrzení, že ze zhruba 50 milionů muslimských imigrantů žij�
 Ministr zahraničí Petr Macinka na česko-izraelském podnikatelském fóru prohlásil, že ČR je nejbezpečnější zemí Evropy díky absenci migrantů z islámských zemí. Vrabel s tím nesouhlasí: tvrdí, že islámský problém v ČR existuje, jen není tolik vidět na ulicích. Jako doklady uvádí dokument ČT *Já muslim* (skrytá kamera v mešitě na Černém Mostě — údajné učení, „jak mlátit ženu, aby to nebylo vidět"), svého známého Lukáše Lhoťana (bývalý vysoce postavený muslim, jemuž komunita zaplatila velký hadždž, později sbíral dokumenty — zakončeno policejní razií v mešitě), a příběh Pavlíny Bytařové (bývalá česká muslimka, provdaná imámem, žila prý se dvěma muži, poté se skrývala; pomohl jí Martin Konvička, jehož označuje za „hrdinu"). Uzavírá, že ČR nemá tolik přistěhovalců díky odporu „od roku 2015", ale za budoucí migranty viní právě Macinku, který ČR „zazdil" v migračním paktu. Navazuje na [Migrační pakt platí i pro ČR](#migrační-pakt-platí-i-pro-čr-británie-před-občanskou-válkou-islám-vs-křesťanství--vrabel-13-6-2026).
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Ceuta jako „invaze, ne migrace" — ČT lže o návratu migrantů (Rajchl, 2. 8. 2026)
+
+Rajchl odmítá rámování dění v Ceutě (do 80tisícové oblasti proniklo cca 50 tisíc marockých migrantů) jako „migraci" nebo „doplňování lidských zásob" (parafráze Angely Merkelové) — trvá na tom, že jde o „čistou invazi" a „občanskou válku", srovnatelnou s dřívějšími nájezdy v Lampeduse a na Lesbosu, jen ve větším měřítku. Tvrdí, že Česká televize v pátek/sobotu lživě informovala o tom, že se situace uklidnila a většina migrantů se vrátila zpět — na základě vlastní komunikace s lidmi na místě to označuje za „absolutní lež". Řešením není dočasné vyloučení Španělska ze Schengenu (Itálie, 1 měsíc) ani žádné podobné gesto, ale to, aby si ČR chránila vlastní hranice a byla připravena vystoupit ze Schengenu, pokud bude třeba.
+
+**Zdroje:** [Rajchl — Facebook Live 2. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
+
+---
+
+### Migrační pakt — první zpráva Vysoké komise 15. 10.; Johansson dnes vyslankyní EU pro Ukrajinu (Rajchl, 2. 8. 2026)
+
+K tématu, které už dříve podrobně rozebíral (viz [Migrační pakt jako „vyděračský pakt"](#migrační-pakt-jako-vyděračský-pakt-belfast-jako-varování--rajchl-14-6-2026)), Rajchl doplňuje dva konkrétní nové detaily: (1) první hodnotící zpráva Vysoké komise pro migraci (přidružené k Evropské komisi) o migračním tlaku v jednotlivých zemích má být hotová 15. 10. 2026 — od té chvíle podle něj skončí česká výjimka založená na přijetí Ukrajinců a začne skutečné přerozdělování; čísla 30 000 migrantů/rok nebo 500 tis. Kč za osobu (~15 mld. Kč/rok) jsou přitom jen **minima**, komise může přidělit i víc. (2) Ylva Johansson, bývalá eurokomisařka pro vnitřní věci, která veřejně prosazovala přijetí milionu migrantů ročně a tvrdě prosazovala migrační pakt i chat control, dnes zastává funkci zvláštní vyslankyně Evropské komise pro Ukrajinu — Rajchl to čte jako důkaz, že bude tlačit na masový příliv Ukrajinců do EU i po skončení války.
+
+**Zdroje:** [Rajchl — Facebook Live 2. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)

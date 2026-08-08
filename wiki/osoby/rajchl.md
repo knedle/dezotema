@@ -10,6 +10,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Odpor vůči „trusted flaggers", požadavek na oklestění DSA pozměňovacími návrhy — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 - Rozsudek nad SPD (3 mil. Kč za plakát „chirurgové z dovozu") = posvěcení cenzury a tlak na autocenzuru, ohrožení svobody slova — [Videoportál: rozsudek nad SPD a cenzura (3. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-rozsudek-spd-cenzura-3-6-2026)
 - **23. 6.** — ČT „ocenzurovala" hymnu v podání Jarka Nohavicy („technické problémy"); Rajchl ji sám zveřejnil „a nechce za to nic" (rýpnutí do poplatků) — [Hymna od Nohavicy 23. 6.](../_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)
+- **2. 8.** — neudělení akreditace Zdislavě Pokorné vs. blokace webů v únoru 2022 (NIC.cz) — pokrytectví mainstreamu; vlastní zkušenost s výhrůžkou Rakušana a trestním stíháním občanů za názor — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 
 ### [FARA a neziskovky](../fara-neziskovky.md)
 - Autor návrhu zákona FARA, kritika politických neziskovek financovaných ze zahraničí — [FARA: autorství a srovnání (29. 3. 2026)](../_zdroje.md#jindřich-rajchl--zákon-fara-autorství-a-srovnání-se-zahraničím)
@@ -32,6 +33,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Zbrojení vs. záchrana životů — F-35 1 mil./letová hodina = 1 zachráněný život, „odstrašování Putina" označeno za lež (21. 6.) — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **19. 7.** — Turkova nehoda jako nedbalost (hájí ho); dvojí metr vůči Jurečkovi (úmyslná lež o FF UK/večírku, neodstoupil, přesto volá po Turkově odvolání = „bezpáteřnost") — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - **29. 7.** — TV debata s Grolichem (Lidová strana): odmítá termín „agrobaroni" pro zvýšené zemědělské dotace; obhajuje snížení koncové ceny elektřiny přebráním OZE poplatků státem jako protiinflační opatření — [TV debata: dotace zemědělcům, ceny energie, 29. 7. 2026](../_zdroje.md#jindřich-rajchl--tv-debata-dotace-zemědělcům-ceny-energie-29-7-2026)
+- **2. 8.** — k téže debatě dodává rozbor nákladů na ukrajinskou migraci (Kiel institut/NYT ~250 mld. Kč vs. MPSV metodika, analogie desátého nájemníka) — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
@@ -90,6 +92,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 - **26. 7.** — útok mačetou na LGBTQ demonstraci v Berlíně (pokrytectví levice); rozšířené konkrétní návrhy (zrušení dávek, automatické vyhoštění, konec dočasné ochrany) — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 - **30. 7.** — nová policejní čísla k dávkové turistice (300 případů, 18 mil. Kč škody) — trvá na tom, že jde jen o „špičku ledovce" — [Videoportál 30. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dávková-turistika-policejní-čísla-30-7-2026)
+- **2. 8.** — Ceuta jako „invaze, ne migrace", ČT lže o návratu migrantů; migrační pakt — první zpráva Vysoké komise 15. 10., Johansson dnes vyslankyní EU pro Ukrajinu — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -138,6 +141,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
 - Šarže Pfizer — data ÚZISu (Dobijášová): stovky nežádoucích účinků, 2 úmrtí (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 - **26. 7.** — slyšení Fauciho (29. 7., Rand Paul) jako reálná událost — dokumenty od Tulsi Gabbard o lhaní ohledně gain-of-function a cenzuře původu viru; studie o izoprinozinu od prof. Berana — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
+- **2. 8.** — právní rozbor slyšení Fauciho (judikát 1896, milost od 2014, žaloby na Pfizer v 5 státech USA); volá po obdobném slyšení pro české experty (Primula) — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
@@ -295,6 +299,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | (mluvčí STAN) Krejčová | ❌ negativní | Obhajovala investici dceřiné společnosti STAN do fondu Elevation výmluvami, které Rajchl postupně vyvrací jako obcházení zákona | 2026-07-24 | [Videoportál: STAN a fond Elevation 24. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026) |
 | Karel Schwarzenberg | ⚖️ rozporuplný | Úmrtí — Rajchl vyjadřuje upřímnou soustrast, oceňuje, že si vždy stál pevně za svým názorem, ač s ním v mnohém nesouhlasil | 2026-07-26 | [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026) |
 | Aleš Michal | ❌ negativní | „Expert na extremismus" (FSV) — v ČRo navrhl zařadit Rajchla do zprávy o extremismu za xenofobii vůči Ukrajincům; Rajchl ho označuje za schovávajícího se za akademický titul | 2026-07-27 | [Videoportál 27. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026) |
+| Jan Grolich | ❌ negativní | V debatě o nákladech na ukrajinskou migraci označen za „naprostého ekonomického analfabeta a notorického lháře" | 2026-08-02 | [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026) |
 
 ---
 
