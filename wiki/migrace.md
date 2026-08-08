@@ -459,6 +459,10 @@ Evropská komise odmítla zaregistrovat Evropskou občanskou iniciativu Save Eur
 
 **Zdroje:** [Vrabel — Zprávy v devět 24. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 
+**4. 8.** — Nová konkretizace pravidla EU platná od 1. 8. 2026: dočasnou ochranu nově získají jen ti žadatelé o ukrajinskou dočasnou ochranu, kteří doloží splnění vojenské povinnosti vůči Ukrajině (na starší žádosti se nevztahuje; institut jako celek je prodloužen do 4. 3. 2028). Vrabel opakuje svůj závěr, že jde o vracení válečných uprchlíků přímo na frontu — a doplňuje konkrétní statistiku: dle jeho odhadu byl loni podíl vojáků zemřelých/těžce zraněných do 48 hodin od nasazení na frontu kolem 75 %.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
+
 ---
 
 ### Nizozemsko: Iráčan osvobozen po usmrcení 14leté dívky (Vrabel, 17. 7. 2026)
@@ -516,3 +520,11 @@ Britská strana Reform UK (Nigel Farage) by po případném vítězství voleb c
 Rajchl komentuje televizní debatu s pirátským poslancem Samuelem Volpem (CNN Prima News) o Ceutě a migrační politice EU — ironizuje Volpeho tvrzení, že za přílivem Maročanů do Ceuty stojí „ruské dezinformační weby", a poukazuje, že Volpe navíc nevěděl, že Ceuta ani není součástí schengenského prostoru. Z toho vyvozuje, že s takto nekompetentním partnerem nemá smysl o řešení migrace diskutovat. Opakuje svůj závěr, že celoevropské řešení migrace je „mrtvé" — EU migraci podle něj fakticky podporuje (financuje neziskovky přivážející migranty), takže jedinou cestou je, aby si ČR společně s V4 a jihovýchodní Evropou zavedla vlastní migrační politiku a ochranu hranic, nezávisle na vyděračském migračním paktu.
 
 **Zdroje:** [Rajchl — Videoportál 4. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-4-8-2026)
+
+---
+
+### Host Michala Gánovská: organizované svážení migrantů do Ceuty, geopolitický tlak USA/Izraele na Španělsko (Vrabel, 4. 8. 2026)
+
+Vrabelovým hostem byla slovenská mezinárodní komentátorka Michala Gánovská, spolupracující i s marockými a španělskými médii. Podle jejích informací nešlo o klasickou migrační vlnu, ale o mladé muže z celého Maroka organizovaně svážené autobusy se souhlasem marocké vlády — přislíbeno jim bylo razítko umožňující pohyb po celém Schengenu. Zpochybňuje slovenská/česká médiální čísla (80 000 příchozích, jen 2 000 zbylo) jako nepodložená — ani španělská média takové počty neuvádí. Spouštěčem byl podle ní rozsudek nejvyššího španělského soudu (rozdílné zacházení s migranty přes plot vs. přes moře) v kombinaci s dlouhodobým geopolitickým tlakem: od března 2026 americké osobnosti a instituce (analytik Michael Rubin, kongresman Mario Díaz-Balart, výbor Sněmovny reprezentantů, izraelský velvyslanec při OSN) postupně zpochybňovaly španělskou suverenitu nad Ceutou a Melillou — poté, co Španělsko odmítlo poskytnout USA vojenské základny pro operace v regionu (mj. proti Íránu). Krizi interpretuje jako „varovný prst" pro Španělsko, koordinovaný USA, Izraelem a Marokem, nikoli živelnou událost — přičemž oficiální (EU) média o tomto geopolitickém pozadí nepíšou, zatímco mimoevropská a marocká média o roli Trumpovy administrativy mluví otevřeně. Předpokládá, že požadavek na vyloučení Španělska ze Schengenu (22 zemí EU vedených Meloniovou) reálně nepovede k žádné legislativní změně, jen k symbolickým prohlášením a případně zesíleným hraničním kontrolám.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)

@@ -544,9 +544,13 @@
 
 ### [Migrace](../migrace.md) (pokrač. 2)
 - **3. 8.** — Reform UK — vracení lodí v Lamanšském průlivu; Británie jako „zislamizovaná" — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+- **4. 8.** — nová pravidla EU pro dočasnou ochranu Ukrajinců (jen se splněnou vojenskou povinností); host Michala Gánovská — organizované svážení migrantů do Ceuty, geopolitický tlak USA/Izraele na Španělsko — [Zprávy v devět 4. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - **3. 8.** — britská studie blokátorů puberty u dětí — „nejvíc kriminální věc na světě" — [Zprávy v devět 3. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+### [Kauzy a korupce](../kauzy.md) (pokrač.)
+- **4. 8.** — nedostatek léku Tamoxifen — „léková soběstačnost"; Rainer Füllmich — mučení ve vazbě, nemohl se rozloučit s umírající matkou — [Zprávy v devět 4. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
 
 ---
 
@@ -1009,3 +1013,4 @@
 - [Zprávy v devět (1. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 - [Nedělní vysílání (2. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
 - [Zprávy v devět (3. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+- [Zprávy v devět (4. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)

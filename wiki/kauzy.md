@@ -773,3 +773,19 @@ K cenám elektřiny obhajuje politiku, kdy stát přebírá na sebe část popla
 Ke zprávě, že olomoucké státní zastupitelství obžalovalo čtyři lidi v bitcoinové kauze (Tomáš Jiříkovský, exministr spravedlnosti Pavel Blažek, jeho bývalý náměstek Daňhel a advokát Karim Tyc — pro Blažka žalobkyně navrhuje 6,5 roku vězení) Vrabel vyjadřuje skepsi, že by Blažek („Don Pablo") reálně šel na tak dlouho do vězení — srovnává to s vlastním stíháním, kde mu média avizovala 8 let za nezaškrtnutou kolonku v žádosti o covidové odškodnění. Argumentuje, že jde o „vrtěti psem": kauza podle něj slouží k odvedení pozornosti veřejnosti od migračního paktu a situace v Ceutě právě ve chvíli, kdy europoslankyně za ANO Zuzana Dostálová otevřeně potvrdila jeho dlouhodobou tezi, že vládní „odmítnutí" migračního paktu je jen prohlášení bez právního účinku, protože pakt je vymahatelnou směrnicí/nařízením EU. Předpokládá, že buď Jiříkovský, nebo Blažek „odnesou" symbolický trest, aby se veřejnost uklidnila, ale skutečná mocenská struktura zůstane nedotčená.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+---
+
+### Nedostatek léku Tamoxifen na rakovinu prsu — Vrabel propaguje „lékovou soběstačnost" (4. 8. 2026)
+
+Lék Tamoxifen EBV používaný při léčbě rakoviny prsu v ČR chybí už více než rok, od června chybí i jeho náhrada — ministerstvo zdravotnictví minulý týden rozeslalo do lékáren jen asi tisíc balení, které rychle došly (např. ve fakultních nemocnicích Homolka a Motol). Vrabel to dává do souvislosti se svým vlastním politickým plánem „Česká republika na prvním místě" (prosazovaným od demonstrací v roce 2022), jehož součástí byl požadavek na lékovou soběstačnost ČR (vlastní výroba/nákup licencí) — tvrdí, že kdyby vláda tento požadavek naplnila, nedostatek základních léků (dříve penicilin, nyní lék na rakovinu prsu) by nenastal. Označuje současný stav za „absolutní selhání" jak předchozí, tak současné vlády, obzvlášť v kontrastu s tím, že na zbraně a peníze pro Ukrajinu prostředky vždy najdou.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
+
+---
+
+### Rainer Füllmich — mučení ve vazbě, nemohl se rozloučit s umírající matkou (Vrabel, 4. 8. 2026)
+
+Podle obhájců byl německý právník Rainer Füllmich (bývalý host Vrabelových demonstrací v roce 2022) během vazby držen v izolaci s omezeným přístupem k ostatním vězňům, telefonování i k podkladům pro obhajobu, a k soudu byl převážen v poutech jako vysoce rizikový vězeň — ačkoli je obviněn „jen" z majetkové trestné činnosti (nákup domu z peněz od podporovatelů jeho organizace, kterou označuje za vykonstruovanou kauzu vzniklou na základě obvinění ženy, kterou sám dosadil do vedení). Nejtvrdší detail: když mu umírala matka, německé úřady mu umožnily návštěvu jen pod podmínkou, že bude opět spoutaný jako těžký kriminálník — Füllmich nakonec návštěvu odmítl, aby matce nezpůsobil takové trauma před smrtí, a nezúčastnil se ani jejího pohřbu. Vrabel jeho případ srovnává s vlastním stíháním (v obou případech měly být zapojeny bezpečnostní/zpravodajské složky) a s Julianem Assangem jako dalším „zničeným" kritikem systému.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)

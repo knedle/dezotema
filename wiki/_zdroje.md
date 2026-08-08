@@ -3552,3 +3552,12 @@
 - **Délka:** 00:03:06 | Zhlédnutí: 102 857
 - **Poznámka:** Zpracováno 1 téma: debata s Piráty (Volpe) — Ceuta a „ruské dezinformační weby" — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (4. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-4-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-04_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1547316833855838>
+- **Datum záznamu:** 2026-08-04
+- **Délka:** 00:59:09
+- **Poznámka:** Zpracováno 4 témata: (2) Nová pravidla EU pro dočasnou ochranu Ukrajinců (jen se splněnou vojenskou povinností) — [migrace.md](migrace.md). (3) Host Michala Gánovská — organizované svážení migrantů do Ceuty, geopolitický tlak USA/Izraele na Španělsko — [migrace.md](migrace.md). (5) Nedostatek léku Tamoxifen — „léková soběstačnost" — [kauzy.md](kauzy.md). (6) Rainer Füllmich — mučení ve vazbě, nemohl se rozloučit s umírající matkou — [kauzy.md](kauzy.md). Nezpracováno (jen zpravodajský deník): rekordní vojenský výcvik studentů, Dánsko losuje branky, Írán chystá odvetu na Ukrajinu, 6G síť (opakování), Karpatská iniciativa, výročí Oluji (opakování), jezídská genocida, polský dálkový plavec. Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
