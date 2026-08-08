@@ -59,6 +59,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii, srovnání s NSA — [9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
+- Humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt — [5. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-5-8-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)

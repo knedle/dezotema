@@ -191,3 +191,11 @@ Evropská komise vyhlásila plán na výstavbu až sedmi AI „gigatováren" s c
 Druhé největší nizozemské město vyhlásilo v části Rotterdamu noční zákaz vycházení pro každého, kdo v oblasti nebydlí, nepracuje nebo tam nemá jiný oprávněný důvod se nacházet — reakce na dlouholetou noční kriminalitu a nelegální závody. Vrabel to čte jako další krok agendy 2030 a konceptu „15minutových měst" (viz [Zítko — školství jako nástroj indoktrinace](konspirace.md#školství-jako-nástroj-indoktrinace--rockefeller-agenda-2030-zítko-28-7-2026)): cílem je omezit pohyb lidí jen do blízkosti bydliště (v testovaných britských městech už jde o povolení městské rady k vyjezdu ven), a to nejen z důvodů kontroly, ale i jako příprava obyvatel na trvalý nedostatek energie a omezení automobilové dopravy.
 
 **Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+
+---
+
+### Humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt (Boldy, 5. 8. 2026)
+
+Boldy sarkasticky komentuje připravovaný komerční humanoidní robot pro řemeslníky (odhadovaná cena 5–20 mil. Kč), jehož vzhled přirovnává k bafometovi a kentaurovi. Ironicky zpochybňuje oficiální prezentaci coby neškodného pomocníka a naznačuje skryté vojenské využití zbraňových systémů a riziko hacknutí — přičemž ujištění výrobce o bezpečnosti a nemožnosti zneužití označuje za nevěrohodná.
+
+**Zdroje:** [Boldy — Videoportál 5. 8. 2026](_zdroje.md#konspirátor-boldy--videoportál-5-8-2026)

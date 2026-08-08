@@ -3615,3 +3615,12 @@
 - **Délka:** 01:48:43 | Zhlédnutí: 185
 - **Poznámka:** Zpracováno: pokračování Fauciho slyšení (7 států žádá stíhání, vyšetřování Floridy, odhad 150 mil. obětí, VAERS statistiky) — [covid-vakciny.md](covid-vakciny.md); nová vlastní kauza — zákaz pobytu v Praze, soudkyně Rajfová — [kauzy.md](kauzy.md); repeat (jen zdroj doplněn): Füllmich, bitcoinová kauza, Putin/covid konspirace. Bez predikcí a stoch. teroru (ambiguní ASR přepis možné výzvy k násilí — nejednoznačné, nezaznamenáno).
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál 5. 8. 2026 {#konspirátor-boldy--videoportál-5-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-05_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel (Facebook)
+- **URL:** <https://www.facebook.com/100083247552502/videos/1088621003519746>
+- **Datum záznamu:** 2026-08-05
+- **Délka:** 00:01:28 | Zhlédnutí: 23 942
+- **Poznámka:** Zpracováno 1 téma: humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
