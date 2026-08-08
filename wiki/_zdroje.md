@@ -3561,3 +3561,12 @@
 - **Délka:** 00:59:09
 - **Poznámka:** Zpracováno 4 témata: (2) Nová pravidla EU pro dočasnou ochranu Ukrajinců (jen se splněnou vojenskou povinností) — [migrace.md](migrace.md). (3) Host Michala Gánovská — organizované svážení migrantů do Ceuty, geopolitický tlak USA/Izraele na Španělsko — [migrace.md](migrace.md). (5) Nedostatek léku Tamoxifen — „léková soběstačnost" — [kauzy.md](kauzy.md). (6) Rainer Füllmich — mučení ve vazbě, nemohl se rozloučit s umírající matkou — [kauzy.md](kauzy.md). Nezpracováno (jen zpravodajský deník): rekordní vojenský výcvik studentů, Dánsko losuje branky, Írán chystá odvetu na Ukrajinu, 6G síť (opakování), Karpatská iniciativa, výročí Oluji (opakování), jezídská genocida, polský dálkový plavec. Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Adam Šejna — Adopce stejnopohlavními páry (4. 8. 2026) {#adam-šejna--adopce-stejnopohlavními-páry-4-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-04_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/3402899476550809>
+- **Datum záznamu:** 2026-08-04
+- **Délka:** 00:01:14 | Zhlédnutí: 3 876
+- **Poznámka:** Zpracováno 1 téma: odmítá adopci dětí stejnopohlavními páry (argument vyváženosti výchovy) — [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

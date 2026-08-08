@@ -142,6 +142,14 @@ Adam Šejna kritizuje konání bohoslužby ve jménu Prague Pride v kostele, kde
 
 ---
 
+### Odmítá adopci dětí stejnopohlavními páry (Šejna, 4. 8. 2026)
+
+Adam Šejna u příležitosti výročí Prague Pride odmítá adopci dětí stejnopohlavními páry — argumentuje, že rodič musí být schopen zajistit dítěti výchovu od obou pohlaví, protože „testosteron" (přisuzovaný otci) musí být vyvážen emoční stránkou (přisuzovanou matce), jinak dítě o tuto část výchovy ochudí. Odlišuje to od situace, kdy dítě přirozeně přijde o jednoho z rodičů (rozvod, odchod) — to podle něj společnost nemůže ovlivnit a měla by takové rodiny podporovat, ale nemělo by se jí to stát záměrně vytvářeným standardem. Uzavírá výzvou, aby si každý upřímně odpověděl, zda je touha stejnopohlavních párů po adopci sobecká, nebo ne.
+
+**Zdroje:** [Restart Česko — Videoportál 4. 8. 2026](_zdroje.md#adam-šejna--adopce-stejnopohlavními-páry-4-8-2026)
+
+---
+
 ### Britská studie blokátorů puberty u dětí — „nejvíc kriminální věc na světě" (Vrabel, 3. 8. 2026)
 
 Britský Nejvyšší soud zamítl právní námitku aktivistů a umožnil pokračování klinické studie Pathways (King's College London), která má od 1. srpna zařadit více než 220 dětí ve věku 11–16 let do testování účinků blokátorů puberty u mladistvých zpochybňujících své pohlaví. Vrabel to označuje za jednu z „nejvíc kriminálních" věcí na světě — argumentuje, že děti jsou snadno manipulovatelné, blokátory a hormony jsou celoživotně bolestivé a rozhodnutí učiněné v dětství může vést k hluboké lítosti a depresi v dospělosti. Kritizuje i praxi „dnů tolerance" na školách (včetně Německa), kde si děti zkoušejí opačné genderové role a kde je jim ze strany neziskových organizací sugerováno, že pokud se tak cítí, neměly by se stydět se k tomu přiznat — což podle něj u části dětí vyvolá zbytečné dlouhodobé zmatení identity.
