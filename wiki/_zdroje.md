@@ -3714,3 +3714,12 @@
 - **Délka:** 00:00:52 | Zhlédnutí: 4 694
 - **Poznámka:** Zpracováno 1 téma: kritika státního financování Prague Pride, ohrožení morální výchovy dětí — [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (7. 8. 2026) {#československo-tv2--videoportál-7-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-08_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1233361188916733&_rdr>
+- **Datum záznamu:** 2026-08-07 (pozn.: soubor nese datum 8. 8. dle metadat/stahování, ale obsah přepisu opakovaně uvádí „7.8., 7. augusta, 7. srpna" — datováno podle obsahu)
+- **Délka:** 00:45:41 | Zhlédnutí: 134
+- **Poznámka:** Zpracováno 3 témata: (1) trestní oznámení na Petra Fialu za „přípravu útočné války" — [kauzy.md](kauzy.md). (2) trestní oznámení „genocida národa, vakcinační holokaust" — [covid-vakciny.md](covid-vakciny.md), stoch. teror extrahován. (3) spor s advokátem Tušlem, teorie o zfalšovaném zatýkacím videu Čermáka — [kauzy.md](kauzy.md). Zbytek (opakované čtení usnesení) je repeat z 6.–7. 8. Bez predikcí.
+- **Zpracováno:** ano

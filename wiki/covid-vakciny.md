@@ -492,6 +492,14 @@ Zítko formuluje třípilířovou právní argumentaci, proč covidová opatřen
 
 ---
 
+### Trestní oznámení na „genocidu národa, vakcinační holokaust a sterilizaci obyvatelstva" (Zítko, 7. 8. 2026)
+
+Zítko podal na krajské státní zastupitelství čtyřstránkové trestní oznámení označené jako „genocida národa, vakcinační holokaust a sterilizace obyvatelstva" — o podání informoval i nejvyšší státní zástupkyni Lenku Bradáčovou a velitele NCOZ Mazánka. Oznámení uzavírá formulací, že kdokoli se s obsahem dokumentu seznámí a nebude okamžitě a bez odkladu konat, stává se sám trestně odpovědným podle §367 trestního zákoníku (nepřekažení trestné činnosti).
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026)
+
+---
+
 ## Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 
 ### Vakcíny a agresivní recidivy nádorů — PubMed studie (leden 2026)

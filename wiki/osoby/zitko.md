@@ -32,6 +32,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **23. 7.** — nový zdroj k protokolu Remdesivir/ventilátory: sestra Kimberly Overton (svědectví Petu Santillimu); neizolovaný virus + žaloba na státního zástupce Wernera (1,5 mil. euro odměna); opakuje beze změny šarže/blockchain (12 000 šarží) a pokles porodnosti −30 %; borelióza jako biologická zbraň (senátor Bennet, RFK ml.) — [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 - **28. 7.** — piloti a vakcíny: British Airways, kolapsy pilotů ve vysoké letové hladině, „třetí pilot maskovaný za stevarda"; opakuje beze změny Kennedyho obchodní model farmaceutického průmyslu (60 mld./500 mld. $) — [Videoportál 28. 7.](../_zdroje.md#československo-tv2--videoportál-28-7-2026)
 - **4. 8. (3)** — pokračování Fauciho kongresového slyšení: 7 amerických států žádá trestní stíhání, floridský generální prokurátor zahájil vyšetřování, odhad 150 mil. celosvětových obětí vakcíny (britský poslanec), VAERS statistika (covid vakcína 2021 = >50 % všech úmrtí po vakcínách za 33 let) — [Videoportál 4. 8. (3)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
+- **7. 8.** — podal trestní oznámení nadepsané „genocida národa, vakcinační holokaust a sterilizace obyvatelstva" — [Videoportál 7. 8.](../_zdroje.md#československo-tv2--videoportál-7-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -56,6 +57,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **4. 8.** — srovnává bitcoinovou kauzu s kauzou Tomáše Paucnera, kterou označuje za „čučkaření pro malé děti" ve srovnání — [Videoportál 4. 8. (2)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-1)
 - **4. 8. (3)** — vlastní soudní kauza: zákaz pobytu v Praze na 24 měsíců, soudkyně Daniela Rajfová jej dle jeho tvrzení opakovaně vykázala z jednací síně, porušení čl. 37/38 Listiny — [Videoportál 4. 8. (3)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
 - **5. 8.** — bitcoinová kauza: přesný časový sled předání elektroniky (13.–23. 12. 2024, jeden ze 46 nosičů až v březnu 2025), rekonstrukce s komparzisty, Uhlířova výplata 160 tis. Kč — [Videoportál 5. 8.](../_zdroje.md#československo-tv2--videoportál-5-8-2026)
+- **7. 8.** — podal trestní oznámení na Petra Fialu za „přípravu útočné války" (dodávky zbraní Ukrajině údajně už začátkem února 2022); spor s advokátem Tušlem, teorie o zfalšovaném zatýkacím videu Tomáše Čermáka — [Videoportál 7. 8.](../_zdroje.md#československo-tv2--videoportál-7-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)

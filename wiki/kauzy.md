@@ -833,3 +833,21 @@ Zítko popisuje vlastní trestní řízení u Obvodního soudu pro Prahu 2 (kauz
 Ve více než dvouhodinovém videorozboru reportáží ČT (Reportéři ČT, Rozpleteno) Zítko po záběrech postupně opravuje řadu dílčích nepřesností (datum propuštění Jiříkovského na podmínku — listopad 2020, ne jaro 2021; pravomocný rozsudek 9,5 roku, ne 9; vydání elektroniky v prosinci 2024, ne v březnu 2025) a doplňuje přesný časový sled předání zabavené elektroniky: Krajský soud v Brně rozhodl o vydání 13. 12. 2024, Jiříkovský si zapečetěnou techniku (46 nosičů) vyzvedl už 23. 12. 2024, ale znalci Bergerovi ji k „rozpečetění" a fotodokumentaci přinesl až začátkem března 2025 — a to jen jeden jediný notebook z 46. Znalec Jiří Berger (soudní znalec na kybernetickou bezpečnost z Brna, provozující zároveň cestovní kancelář vozící brněnské politiky do zahraničí) měl podmínku, že elektroniku dostane od policie stále zapečetěnou — Zítko namítá, že se to nedá ověřit, protože u samotného otevírání počítače v Bergerově kanceláři nebyl přítomen žádný nezávislý svědek za stát ani notář Míka (rovněž z Brna), ačkoli mělo jít o miliardovou hodnotu; scéna byla později pro účely dokumentu rekonstruována najatými komparzisty. Cituje bývalého soudce Davida Uhlíře (koordinátora kauzy, kterého na pozici dosadila Eva Decroix), který sám označil praxi podmiňování přijetí státního daru výsledkem soudního řízení dárce za postup „podvracející důvěru v právní stát" — Uhlíř za nedokončenou zprávu dostal zaplaceno 160 000 Kč. Na dokreslení srovnává postup s údajnou švýcarskou praxí, kde kriminalisté vyjednávají vydání přístupových hesel ke kryptoměnovým peněženkám pod hrozbou až tří let vězení.
 
 **Zdroje:** [ČsTV2 — Videoportál 5. 8. 2026](_zdroje.md#československo-tv2--videoportál-5-8-2026)
+
+---
+
+### Trestní oznámení na Petra Fialu za „přípravu útočné války" (Zítko, 7. 8. 2026)
+
+Zítko podal na krajské státní zastupitelství trestní oznámení na bývalého premiéra Petra Fialu a (mj.) Janu Černochovou za přípravu útočné války (§406) a podněcování útočné války (§407), dále za zneužití pravomoci úřední osoby (§329) a porušení povinnosti při správě cizího majetku (§220). Argumentuje, že ČR dodávala Ukrajině zbraně už začátkem února 2022 — tedy před zahájením ruské „speciální operace" 24. 2. 2022 — což podle něj naplňuje skutkovou podstatu přípravy útočné války; upozorňuje, že Ukrajina navíc nebyla členem NATO. Za tento trestný čin hrozí podle §406 trest odnětí svobody 12–20 let nebo výjimečný trest.
+
+⚡ **Poznámka:** Tvrzení o dodávkách zbraní „začátkem února 2022" nelze ověřit z veřejně dostupných zdrojů; oficiálně zdokumentované dodávky vojenské pomoci ČR Ukrajině probíhaly až po 24. 2. 2022.
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026)
+
+---
+
+### Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko, 7. 8. 2026)
+
+Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) veřejně obvinil Zítka, že je „fízl" a že stojí za uvězněním Čermáka na základě policejní provokace z listopadu (výslech, při kterém policie o Čermákovi nic nezmínila). Zítko obvinění odmítá a v reakci předkládá vlastní teorii, že záznam Čermákova zadržení na polsko-české hranici je zfalšovaný — záběry osoby v policejní vestě nikdy nezachytily obličej zepředu, postava i chůze podle něj neodpovídají Čermákovi a osoby na videu viditelně čekají na pokyn kameramana, než se rozejdou. Uzavírá, že o Tušlovi coby obhájci přestal mít zájem poté, co Jindřich Rajchl veřejně oznámil, že bude Tušla zastupovat on.
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026)
