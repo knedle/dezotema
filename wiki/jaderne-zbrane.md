@@ -160,4 +160,6 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 **28. 7.** — Vrabel opakuje tutéž tezi (Rafale/ASMP jako útočná, ne obranná zbraň) v souvislosti s úvahami o umístění francouzského „jaderného zastřešení" na území ČR — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 
+**29. 7.** — Vrabel opakuje obavu z podpisu francouzské jaderné aliance (Rafale s raketami ASMP na území ČR) — bez nových argumentů, ale výslovně ji označuje za hlavní téma plánované podzimní demonstrace „Člověk na první místě" — [Zprávy v devět 29. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
 ---

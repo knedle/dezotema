@@ -611,3 +611,11 @@ Boldy tvrdí, že Španělsko během aktuálních rozsáhlých požárů (lesy i
 **Téhož dne** — Vrabel nezávisle přináší stejnou zprávu s dalšími detaily: deset ruských hasicích vrtulníků Ka-32 zůstalo ve Španělsku na zemi, protože provozovatelé (soukromé firmy najímané místními samosprávami) kvůli sankcím EU nemohou sehnat náhradní díly ani servis od ruských specialistů; roli hraje i pozastavení certifikace ze strany Evropské agentury pro bezpečnost letectví (EASA). Dodává, že požáry zasáhly i oblíbenou oblast jihozápadní Francie kolem Bordeaux (pláže Biscarrosse, Hossegor) a že podle jedné z divaček oheň postupuje ke zbrojařským závodům — ironicky doufá, že to uspíší nasazení hasicí techniky.
 
 **Zdroje:** [Boldy — Videoportál 27. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-požáry-španělsko-kamov-27-7-2026), [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
+
+---
+
+### EU dotuje výzkum „zvířata a demokracie" — 340 tisíc eur na studium velryb a domácích mazlíčků (Vrabel, 29. 7. 2026)
+
+Vrabel s odkazem na slovenský zdroj vysmívá projektu podpořenému EU částkou 340 tisíc eur, který zkoumá, zda mohou zvířata (krabi, psi) vykonávat „politickou komunikaci" relevantní pro demokratické instituce, a samostatný výzkum vlivu velryb na geopolitiku. Označuje to za symbol plýtvání unijními prostředky a doporučuje peníze věnovat raději na zkoumání toho, „proč akademikům přeskočilo".
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)

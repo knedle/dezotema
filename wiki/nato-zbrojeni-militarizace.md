@@ -695,3 +695,19 @@ Vrabel schvaluje Trumpovo rozhodnutí přejmenovat americké ministerstvo obrany
 **Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 
 ---
+
+### Česká střela Narval 140 jako útočná zbraň — odmítnutí vojenské neutrality (Vrabel, 29. 7. 2026)
+
+K oznámení, že česká firma LPP Praha úspěšně otestovala střelu s plochou dráhou letu Narval 140 (plně vyrobenou v ČR, autonomní naváděním bez GPS, dolet přes 600 km), Vrabel technický úspěch oceňuje, ale namítá, že jde o **útočnou** zbraň — určenou k ničení nepohyblivých cílů (mosty, letiště, základny) na nepřátelském území, nikoli k obraně vlastního území. Opakuje svůj dlouhodobý postoj, že ČR by měla být vojensky neutrální zemí bez útočných zbraní, upřednostňující diplomacii — přestože uznává, že vzhledem k blížící se válce se vyzbrojují i neutrální státy (dává příklad Srbska nakupujícího hypersonické rakety z Číny).
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Ekonomika sestřelování dronů: 500 tisíc dolarů na jeden desetitisícový dron (Vrabel, 29. 7. 2026)
+
+Vrabel spočítal náklady incidentu, kdy tři stíhačky F-16 vzlétly kvůli sestřelení ruských dronů nad Rumunskem: samotný vzlet stál 1,5 milionu dolarů, tři použité rakety dalších 1,2 milionu dolarů — dohromady kolem 500 tisíc dolarů na zničení jednoho dronu v hodnotě přibližně 10–12 tisíc dolarů. Z toho vyvozuje, že takto obrana NATO (deklarující ochranu „každého centimetru" aliančního území) není ekonomicky udržitelná a validuje jeho dřívější kritiku neefektivity západní protivzdušné obrany.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---

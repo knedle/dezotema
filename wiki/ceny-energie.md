@@ -407,3 +407,19 @@ Vrabel kriticky komentuje dvě zprávy týdne: česká vláda odkládá zaveden�
 Vrabel komentuje zprávu, že energetická skupina EPH (Energetický a průmyslový holding) miliardáře Daniela Křetínského se poprvé zařadila do žebříčku Fortune Global 500 největších firem světa podle tržeb. Vrabel to interpretuje jako přímý důkaz svého dlouhodobého tvrzení, že vysoké ceny elektřiny pro české domácnosti a firmy nejsou nešťastnou náhodou, ale výsledkem obchodního modelu, na kterém soukromí majitelé energetických firem (v tomto případě Křetínský) profitují.
 
 **Zdroje:** [Vrabel — Zprávy v devět 28. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
+
+---
+
+### Malé modulární reaktory naráží na nedostatek obohaceného uranu — sankce na Rusko (Vrabel, 29. 7. 2026)
+
+K mediální zprávě, že budoucnost malých modulárních reaktorů (SMR) je „zatím nejistá", Vrabel doplňuje kontext, který podle něj média zamlčují: projekt ČEZ s britskou firmou Rolls-Royce (o kterém informoval už na podzim 2025) naráží na to, že pro tyto reaktory chybí palivo — kvůli sankcím na ruský obohacený uran není co do nich dávat. Tvrdí, že tuto souvislost veřejnost zjistí z médií „o půl roku později", než o ní referoval sám. Spojuje to se svou tezí o postupující ekonomické devastaci a deindustrializaci Západu, která se podle něj naplno projeví, až se začnou „skládat banky a měny".
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Čínský pokrok v jaderné fúzi jako kontrast k „úpadku Západu" (Vrabel, 29. 7. 2026)
+
+Vrabel referuje o čínském technologickém pokroku ve vývoji komerční jaderné fúze (úspěšné testy supravodivých magnetů pro experimentální fúzní reaktor, dokončení plánováno na 2027, první elektřina z fúze kolem roku 2030) a staví to do kontrastu s tím, čím se podle něj zabývá Západ — válkou, zbrojením a tiskem nekrytých peněz vedoucím k inflaci. Bytové ceny, nájmy a jídlo jsou dle něj oproti stavu před deseti lety řádově dražší, což považuje za typický příznak blížícího se krachu ekonomického systému.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)

@@ -749,3 +749,59 @@ Zítko tvrdí, že po skončení konfliktu na Ukrajině nebude o novém uspořá
 **Zdroje:** [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)
 
 ---
+
+### Rusko uzavřelo přístavy u Oděsy — ukrajinský obilný koridor prakticky zastaven (Vrabel, 29. 7. 2026)
+
+Vrabel referuje, že ruská vojenská technika fakticky uzavřela přístup do všech tří přístavů kolem Oděsy, přes které Ukrajina vyvážela zhruba 8 milionů tun obilí měsíčně (cca 80 % jejího exportu). Náhradní trasa po Dunaji zvládne maximálně 1,3 milionu tun měsíčně kvůli byrokratickým a kapacitním omezením. Vrabel z toho vyvozuje dvojí důsledek: zhoršení hladu ve světě (spolu s uzavřeným Hormuzským průlivem a zdraženými hnojivy/pohonnými hmotami) a další ekonomickou devastaci Ukrajiny — ztrátu příjmů do státní kasy, kterou bude muset dorovnávat EU formou dalších dluhopisů, jejichž jistinu a úroky nakonec zaplatí členské státy (včetně ČR) prostřednictvím plateb do unijních fondů. Navazuje na dřívější zprávy o poklesu propustnosti přístavů u Oděsy o ~30 % (viz [Ukrajina přešla k terorismu: izolace Krymu](#ukrajina-přešla-k-terorismu-izolace-krymu-a-útoky-na-přístavy-u-oděsy-vrabel-11-6-2026)) — nyní jde o téměř úplné uzavření.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Reakce veřejnosti na ČT24 oslavující ukrajinské útoky na civilní cíle v Rusku (Vrabel, 29. 7. 2026)
+
+Ke zprávě o ukrajinských dronových útocích na průmyslové cíle v Rusku (sklad, rafinerie v Rjazani) a ruských útocích na Ukrajinu (úmrtí civilisty v Chersonu) Vrabel neupozorňuje na samotnou zprávu, ale na reakce publika: na facebookovém příspěvku ČT24 napočítal 2 800 „lajků" a 780 srdíček proti jen 28 naštvaným smajlíkům u zprávy o útoku na ruské cíle. Z tohoto poměru vyvozuje, že drtivá většina české veřejnosti oslavuje útoky na civilní infrastrukturu nepřátelské strany, což považuje za znepokojivý stav společnosti — bez ohledu na to, kdo válku vyvolal.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Medveďčuk: žádný evropský cíl není pro Rusko mimo dosah — vojenská vs. politická rovina konfliktu (Vrabel, 29. 7. 2026)
+
+Bývalý ukrajinský politik Viktor Medveďčuk prohlásil, že Kyjev se mylně domnívá, že vojenská infrastruktura v Německu je v bezpečí — žádný evropský cíl podle něj není pro Rusko mimo dosah. Vrabel s vojenskou stránkou výroku souhlasí (ruské zbraně mají technicky dosah na výrobny v Německu i Polsku), ale odděluje ji od politické roviny: dosud obě strany předstírají, že jde o konflikt Rusko–Ukrajina, nikoli Rusko–Západ, protože to je pro obě strany pohodlnější (Rusko se vyhýbá riziku 3. světové války, Západ vede válku „skrze Ukrajinu" bez vlastních ztrát). Přirovnává rostoucí napětí k „Čechovově pušce" — čím déle visí na zdi, tím jistěji bude nakonec použita — a upozorňuje, že poslední vyjádření ruské strany (obviňování USA/Evropy z přímé účasti) naznačují posun k otevřenému přiznání konfliktu Rusko–Západ.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Varování z armády: eskalace by mohla znamenat 50 % HDP na zbrojení (Vrabel, 29. 7. 2026)
+
+Vrabel cituje varování „kamaráda z armády": veřejná představa o postupu k válce (nejdřív vojáci, pak zálohy, pak všeobecná mobilizace) je neúplná — již nyní podle něj probíhá přechod na válečnou ekonomiku (nové zbrojní továrny, výroba dronů) a česká armáda se připravuje na nasazení na slovensko-ukrajinské hranici. Pokud by ČR byla oficiálně vtažena do konfliktu s Ruskem, mohlo by to podle tohoto varování znamenat až 50 % HDP na výrobu zbraní (namísto dnešních cca 2 %) — s dopadem na uspokojování základních potřeb obyvatel.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Zelenskyj: stížnost na odmítnutí NATO, Krym „není na stole", zvažuje žalobu na Lukašenka (Vrabel, 29. 7. 2026)
+
+Vrabel komentuje sérii Zelenského vyjádření: stížnost, že nechápe, proč Ukrajina není přijata do NATO (Vrabel argumentuje, že členství validní armády v konfliktu podle čl. 5 by okamžitě vtáhlo celou alianci do války — proto je pro ČR podle něj žádoucí, aby Ukrajina v NATO nebyla); prohlášení, že Krym zůstává ukrajinským územím a v současnosti není předmětem jednání; a zvažovanou žádost o zahájení trestního řízení proti běloruskému prezidentovi Alexandru Lukašenkovi u ukrajinského generálního prokurátora. Poslední bod Vrabel označuje za bezvýznamné politické divadlo bez reálné vymahatelnosti — přirovnává ho k tomu, že by s manželkou doma „odsoudili generála Pavla" v neformálním lidovém soudu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Lavrov: Rusko bude o míru jednat, jen pokud to bude v jeho zájmu (Vrabel, 29. 7. 2026)
+
+Ruský ministr zahraničí Sergej Lavrov k mediálním zprávám o novém mírovém plánu (nabídka vzájemného zastavení útoků ze vzduchu, projednávaná mezi Zelenským a Trumpem) uvedl, že Rusko žádnou oficiální nabídku dosud nedostalo a případnou nabídku bude posuzovat výhradně podle toho, zda bude v souladu s ruskými zájmy — nikoliv automaticky akceptovat. Vrabel vyzdvihuje věcný, neemotivní styl ruských představitelů (Lavrov, Peskov, Zacharovová, Medveděv) v kontrastu k nepředvídatelnosti Donalda Trumpa a vysvětluje posun rétoriky odkazem na předchozí zkušenost: po dohodě z Aljašky Rusko nabídku přijalo, ale USA po roce prohlásily, že „už neplatí", protože ji odmítli Ukrajinci.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### Medveděv odmítá zprávy o nové mobilizaci — čísla o náboru vojáků (Vrabel, 29. 7. 2026)
+
+Dmitrij Medveděv označil zprávy o chystané nové vlně mobilizace v Rusku za lež a nepřátelskou propagandu — podle něj má ruská armáda dostatek personálu (přes 2,5 milionu lidí, z toho 1,5 milionu aktivních vojáků). Uvedl konkrétní čísla za první pololetí 2025: cca 200 tisíc podepsaných smluv s armádou, 16 tisíc dobrovolníků a 40 tisíc rekrutů do dronových jednotek. Vrabel k tomu dodává srovnání: přestože Rusko má výrazně méně obyvatel než celá Evropa (~160 milionů vs. 550 milionů), disponuje větší odhodlaností bojovat (odkazuje na zkušenost z 2. světové války i na aktuální pokles Putinovy popularity jen o 3 procentní body navzdory ukrajinským útokům na ruské území) a nedávno podepsalo nové dohody se Severní Koreou o vojenských zálohách.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
