@@ -93,6 +93,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **26. 7.** — útok mačetou na LGBTQ demonstraci v Berlíně (pokrytectví levice); rozšířené konkrétní návrhy (zrušení dávek, automatické vyhoštění, konec dočasné ochrany) — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 - **30. 7.** — nová policejní čísla k dávkové turistice (300 případů, 18 mil. Kč škody) — trvá na tom, že jde jen o „špičku ledovce" — [Videoportál 30. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dávková-turistika-policejní-čísla-30-7-2026)
 - **2. 8.** — Ceuta jako „invaze, ne migrace", ČT lže o návratu migrantů; migrační pakt — první zpráva Vysoké komise 15. 10., Johansson dnes vyslankyní EU pro Ukrajinu — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
+- **4. 8.** — debata s Piráty (Volpe) — Ceuta a „ruské dezinformační weby" — [Videoportál 4. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-4-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -300,6 +301,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Karel Schwarzenberg | ⚖️ rozporuplný | Úmrtí — Rajchl vyjadřuje upřímnou soustrast, oceňuje, že si vždy stál pevně za svým názorem, ač s ním v mnohém nesouhlasil | 2026-07-26 | [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026) |
 | Aleš Michal | ❌ negativní | „Expert na extremismus" (FSV) — v ČRo navrhl zařadit Rajchla do zprávy o extremismu za xenofobii vůči Ukrajincům; Rajchl ho označuje za schovávajícího se za akademický titul | 2026-07-27 | [Videoportál 27. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026) |
 | Jan Grolich | ❌ negativní | V debatě o nákladech na ukrajinskou migraci označen za „naprostého ekonomického analfabeta a notorického lháře" | 2026-08-02 | [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026) |
+| Samuel Volpe | ❌ negativní | Pirátský poslanec — v debatě o Ceutě tvrdil, že Maročané přišli kvůli „ruským dezinformačním webům"; navíc nevěděl, že Ceuta není v Schengenu | 2026-08-04 | [Videoportál 4. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-4-8-2026) |
 
 ---
 

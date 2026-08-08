@@ -3543,3 +3543,12 @@
 - **Délka:** 00:52:55
 - **Poznámka:** Zpracováno 8 témat: (1) Podzimní demonstrace upřesněna na říjen, desatero — [jaderne-zbrane.md](jaderne-zbrane.md). (2) Vedra/sucho — dopady na energetiku a potraviny (Rakousko) — [ceny-energie.md](ceny-energie.md). (3) Bitcoinová kauza jako „vrtěti psem" — [kauzy.md](kauzy.md). (4) Reform UK — vracení lodí v Lamanšském průlivu — [migrace.md](migrace.md). (5) Saúdský princ žádá Trumpa o deeskalaci, Írán popírá jednání — [blizky-vychod.md](blizky-vychod.md). (6) Izrael odmítl dodat Ukrajině Iron Dome — [blizky-vychod.md](blizky-vychod.md). (7) Britská studie blokátorů puberty — [rodina-deti.md](rodina-deti.md). (8) Dronový útok na pláž v Krasnodaru — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (4. 8. 2026) {#jindřich-rajchl--videoportál-4-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-04_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/947807281668089>
+- **Datum záznamu:** 2026-08-04
+- **Délka:** 00:03:06 | Zhlédnutí: 102 857
+- **Poznámka:** Zpracováno 1 téma: debata s Piráty (Volpe) — Ceuta a „ruské dezinformační weby" — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

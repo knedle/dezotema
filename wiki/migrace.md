@@ -508,3 +508,11 @@ K tématu, které už dříve podrobně rozebíral (viz [Migrační pakt jako �
 Britská strana Reform UK (Nigel Farage) by po případném vítězství voleb chtěla nasadit královské námořnictvo k zastavování a vracení člunů s migranty zpět do Francie/Belgie — sama to označuje za „největší vojenskou operaci v průlivu od druhé světové války". Vrabel toto rámování zpochybňuje (srovnává to s reálně větší vojenskou operací, kterou dle něj na Ukrajině provádí právě Británie) a vyjadřuje pochybnosti, že by k reálnému navracení lodí vůbec došlo. Popisuje Británii jako zemi, kterou pokládá za „hotovou" — zislamizovanou a proměněnou migrací (osobní historka: v Londýně si všiml autobusu bez jediného „bílého" cestujícího) — a uzavírá, že jediné řešení pro ČR je nedopustit stejný vývoj uzavřením hranic, protože obyvatelé „zničených" zemí západní Evropy budou postupně hledat útočiště v zemích střední Evropy, které migrací dosud nejsou zasažené.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+---
+
+### Debata s Piráty (Volpe) — Ceuta a „ruské dezinformační weby" (Rajchl, 4. 8. 2026)
+
+Rajchl komentuje televizní debatu s pirátským poslancem Samuelem Volpem (CNN Prima News) o Ceutě a migrační politice EU — ironizuje Volpeho tvrzení, že za přílivem Maročanů do Ceuty stojí „ruské dezinformační weby", a poukazuje, že Volpe navíc nevěděl, že Ceuta ani není součástí schengenského prostoru. Z toho vyvozuje, že s takto nekompetentním partnerem nemá smysl o řešení migrace diskutovat. Opakuje svůj závěr, že celoevropské řešení migrace je „mrtvé" — EU migraci podle něj fakticky podporuje (financuje neziskovky přivážející migranty), takže jedinou cestou je, aby si ČR společně s V4 a jihovýchodní Evropou zavedla vlastní migrační politiku a ochranu hranic, nezávisle na vyděračském migračním paktu.
+
+**Zdroje:** [Rajchl — Videoportál 4. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-4-8-2026)
