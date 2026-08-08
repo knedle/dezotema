@@ -171,6 +171,10 @@ Füllmich popsal i vězeňský režim a tvrdí, že vyšetřovací vazba je „b
 
 **Zdroje:** [ČsTV2 — Füllmich živě z vězení, 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026), [ČsTV2 — Videoportál 4. 8. 2026 (3)](_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
 
+**2. 8.** — Zítko tlumočí druhý živý rozhovor s Füllmichem (přenos Bytel TV). Füllmich popisuje tři souběžně běžící právní řízení: (1) revize rozsudku u Vrchního zemského soudu v Lipsku pro formální chyby a nepravdivě sestavený příběh obžaloby, (2) odvolání proti rozhodnutí o vazbě, (3) civilní žaloba u soudu v Hannoveru (Dolní Sasko) na stát kvůli únosu z Mexika a politickému pronásledování — rozhodnutí v některém z řízení očekává „v následujících 7 až 10 dnech"; při odpykání dvou třetin trestu (12. 9. 2026) by mohl žádat o propuštění, pokud bude mezitím vynesen pravomocný rozsudek. Na dokreslení tvrzené zkorumpovanosti německé justice uvádí dva kontrastní případy: 62letý soudce s 1,7 milionu dětskopornografických snímků nebyl vzat do vazby a je od r. 2024 na svobodě; matka přítelkyně muže, který zabil šest lidí, také nebyla vzata do vazby — zatímco on sám je ve vyšetřovací vazbě už 2 roky a 9,5 měsíce bez pravomocného rozsudku. Füllmich dále líčí paralelu mezi COVID-19 a epidemií HIV/AIDS na počátku 80. let: podle něj Anthony Fauci a Robert Gallo (s přispěním Luca Montagniera, který virus objevil, a kritika Petera Duesberga) použili u AIDS stejný postup jako později u covidu — vyvolání celospolečenské paniky v médiích a následné nabídnutí léku/vakcíny jako jediného řešení, přičemž nezávislé hlasy byly umlčovány odebráním financování výzkumu a publikací.
+
+**Zdroje:** [ČsTV2 — Videoportál 2. 8. 2026 (2)](_zdroje.md#československo-tv2--videoportál-2-8-2026-1)
+
 ---
 
 ### Perzekuce kritiků covidu v zahraničí — Rose, Noack, Gold (Zítko, 16. 7. 2026)

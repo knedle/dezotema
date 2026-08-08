@@ -3562,6 +3562,15 @@
 - **Poznámka:** Zpracováno 4 témata: (2) Nová pravidla EU pro dočasnou ochranu Ukrajinců (jen se splněnou vojenskou povinností) — [migrace.md](migrace.md). (3) Host Michala Gánovská — organizované svážení migrantů do Ceuty, geopolitický tlak USA/Izraele na Španělsko — [migrace.md](migrace.md). (5) Nedostatek léku Tamoxifen — „léková soběstačnost" — [kauzy.md](kauzy.md). (6) Rainer Füllmich — mučení ve vazbě, nemohl se rozloučit s umírající matkou — [kauzy.md](kauzy.md). Nezpracováno (jen zpravodajský deník): rekordní vojenský výcvik studentů, Dánsko losuje branky, Írán chystá odvetu na Ukrajinu, 6G síť (opakování), Karpatská iniciativa, výročí Oluji (opakování), jezídská genocida, polský dálkový plavec. Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Československo TV2 — Videoportál (2. 8. 2026) (2) {#československo-tv2--videoportál-2-8-2026-1}
+- **Soubor:** [přepis](prepisy/done/2026-08-04_Československo-TV2_Videoportál_3.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1567312418312315&_rdr>
+- **Datum záznamu:** 2026-08-02 (pozn.: soubor nese datum 4. 8. dle metadat/stahování, ale obsah přepisu opakovaně a jednoznačně uvádí „2. srpna, neděle" — datováno podle obsahu)
+- **Délka:** 01:34:24 | Zhlédnutí: 342
+- **Poznámka:** Zpracováno: druhý živý rozhovor s Reinerem Füllmichem — tři souběžná právní řízení (revize Lipsko, odvolání proti vazbě, civilní žaloba Hannover), srovnání s nevzatými do vazby (soudce s dětskou pornografií, vrah šesti lidí), AIDS/HIV paralela (Fauci, Gallo, Montagnier, Duesberg) — [kauzy.md](kauzy.md). Zbytek (Fauciho slyšení, nacistické rodové linie/Paperclip) je opakování beze změny. Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Adam Šejna — Adopce stejnopohlavními páry (4. 8. 2026) {#adam-šejna--adopce-stejnopohlavními-páry-4-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-04_Restart-Cesko_Videoportál.txt)
 - **Kanál:** Restart Česko (Adam Šejna)
