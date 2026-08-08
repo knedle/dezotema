@@ -38,6 +38,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - Brněnské zastupitelstvo 14. 4. schválilo konání sudetoněmeckého sjezdu; Němci dluží ČR válečné reparace; kritika primátorky Vaňkové; sjezd eskaluje — německý ministr vnitra + bavorský premiér jako hosté — [Brněnské zastupitelstvo (14. 4.)](../_zdroje.md#lenka-tarabová--brněnské-zastupitelstvo-a-sudetoněmecký-sjezd-14-4-2026)
 - Petr Pavel „Spojené státy evropské" = zánik ČR; Ukrainizace společnosti — telefonní šmejdi (senioři), dávkový podvod, automatické vyhoštění pachatelů — [Nedělní živé vysílání (26. 4.)](../_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026)
 - Pavel = „panák"/„zelená guma"/hlásná trouba Koláře, nedůstojný úřadu (Ankara), 60% podpora vs. 80% proti euru; Zeman = „můj prezident"; prezidentský favorit Marek Vašut — [Rozhovor TV Česko (15. 6.)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
+- Pavel a fotografování na F1 v Maďarsku jako „PR opičárny"; seznam nesplněných slibů (Kolář, blokování vlády, veto rozpočtu) — viz [petr-pavel.md](../petr-pavel.md) — [Videoportál (28. 7.)](../_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice — prezentovaná Hvězdovská ulice patřila ve skutečnosti Ralsku, skutečná Hvězdovská v Mimoni zůstala neopravená — [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7.)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
@@ -113,3 +114,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: rozhovor s Patrikem Pečénkou (30. 6. 2026)](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
 - [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
 - [Videoportál: reakce na článek o rakovině (8. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
+- [Videoportál (28. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-28-7-2026)

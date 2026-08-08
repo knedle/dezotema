@@ -420,3 +420,21 @@ Rajchl označuje Pavlovo veto zákona nezbytného pro sestavení státního rozp
 **Zdroje:** [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 
 ---
+
+### Petr Pavel a fotografování na F1 v Maďarsku — „PR opičárny" (Tarabová, 28. 7. 2026)
+
+Lenka Tarabová kritizuje Petra Pavla za zveřejněné fotografie z jeho návštěvy okruhu Hungaroring v Maďarsku, kde fotografoval auta jako svůj koníček. Poukazuje, že pro běžného člověka (i profesionální sportovní fotografy) je téměř nemožné získat na podobné akce akreditaci, a ptá se, jakým způsobem se na akci dostal prezident — srovnává to se způsobem, jakým se dostal na večeři s tureckým prezidentem Erdoğanem v Ankaře (kde si účast „vybrečel"). Odmítá argument části veřejnosti, že jde o „geniální reklamu" a „skvělou propagaci" — ptá se, propagaci čeho. Kritizuje, že prezident cestuje za peníze daňových poplatníků, aby si užíval svého koníčku, a nechává se u toho fotografovat pro sociální sítě; to označuje (citujíc Václava Klause) za „falešné a prázdné".
+
+> „Já jako člověk, který patří přece jenom k těm politicky trochu náročnějším, tak bych čekala od prezidenta víc." — Lenka Tarabová, [Videoportál 28. 7. 2026](_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
+
+**Zdroje:** [Tarabová — Videoportál 28. 7. 2026](_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
+
+---
+
+### Petr Pavel — seznam nesplněných slibů a lží: Kolář, blokování vlády, veto rozpočtu (Tarabová, 28. 7. 2026)
+
+Tarabová shrnuje řadu Pavlových výroků, které podle ní odporují jeho pozdějším činům: sliboval, že jediný, kdo bude mít na Hradě slovo, bude „Kolář" — nesplnil; tvrdil, že Kolář není poradce, aby později přiznal, že poradcem je; sliboval, že nebude blokovat sestavování nové vlády, a přesto blokoval; prohlašoval, že nebude aktivistickým prezidentem, a stal se jím; tvrdil, že sestavování rozpočtu je čistě záležitostí vlády, do níž prezident nemá zasahovat, aby ho následně vetoval (viz [Pavlovo veto rozpočtového zákona — Rajchl (26. 7.)](#pavlovo-veto-rozpočtového-zákona-jako-definitivní-důkaz-role-prezidenta-opozice-rajchl-26-7-2026)). Tarabová sama uvádí, že věcně nikdo nechce narůstající veřejný dluh, ale připomíná, že za posledních let žádná vláda (levá ani pravá) nebyla ochotná skutečně šetřit a osekat mandatorní výdaje — a paradoxně by takovou revoluci čekala spíš od „pravicové" vlády Petra Fialy než od vlády Andreje Babiše.
+
+**Zdroje:** [Tarabová — Videoportál 28. 7. 2026](_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
+
+---
