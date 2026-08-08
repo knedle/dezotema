@@ -3516,3 +3516,12 @@
 - **Délka:** 00:00:56 | Zhlédnutí: 7 662
 - **Poznámka:** Zpracováno 1 téma: akcelerační zóny snížené na 11 % — chválí Filipa Turka jako „vítěze" boje proti větrníkům — [vetrniky.md](vetrniky.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (3) (2. 8. 2026) {#restart-česko--videoportál-2-8-2026-2}
+- **Soubor:** [přepis](prepisy/done/2026-08-02_Restart-Cesko_Videoportál_2.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1068757059007653>
+- **Datum záznamu:** 2026-08-02
+- **Délka:** 00:00:46 | Zhlédnutí: 4 906
+- **Poznámka:** Opakování beze změny — bohoslužba za Prague Pride v kostele (stejné téma jako předchozí video téhož dne) — jen zdroj přidán k [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

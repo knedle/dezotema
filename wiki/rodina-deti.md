@@ -138,4 +138,4 @@ K odmítnutí polského prezidenta Nawrockého podepsat zákon o právním uzná
 
 Adam Šejna kritizuje konání bohoslužby ve jménu Prague Pride v kostele, kde ji navštívil — považuje to za disrespekt vůči křesťanům, kteří přišli na běžnou bohoslužbu a místo toho narazili na téma Pride festivalu. Netvrdí, že by komunita LGBT neměla mít pochopení, ale argumentuje, že pokud sama žádá respekt, musí respektovat i právo křesťanů říkat, že podle jejich víry „tohle nepatří do normálního života" a nepatří to „do domu páně".
 
-**Zdroje:** [Restart Česko — Videoportál 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026)
+**Zdroje:** [Restart Česko — Videoportál 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026), [Restart Česko — Videoportál (3) 2. 8. 2026](_zdroje.md#restart-česko--videoportál-2-8-2026-2)
