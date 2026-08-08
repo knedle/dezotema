@@ -282,6 +282,10 @@ PRO tuto situaci veřejně pojmenovalo již 11 měsíců dříve — tiskovka PR
 
 **Zdroje:** [Rajchl — Bitcoin: policie obvinila Blažka, Daňhela, Jiříkovského, 4. 5. 2026](_zdroje.md#jindřich-rajchl--bitcoin-policie-obvinila-blažka-daňhela-jiříkovského-4-5-2026), [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026)
 
+**5. 8.** — Rajchl upřesňuje, proč vyšetřování ztratilo měsíce: trestní řízení proti Blažkovi se rozjelo až po nástupu Jeronýma Tejce na ministerstvo spravedlnosti. Uvádí, že koordinátor Uhlíř dostal za zpracování zprávy o kauze zaplaceno „několik set tisíc korun z peněz daňových poplatníků", ale žádnou nezpracoval — Decroix jeho práci označila za duplicitní k internímu/externímu auditu, který sama nakonec také nezveřejnila v netransparentní podobě. Novým tvrzením je, že díky tomuto zdržení (protaženému až za volby) si Stanjura mohl od státu odkoupit svůj služební mobil a počítač za zbytkovou cenu — Rajchl se domnívá, že jejich obsah „buď smazal, nebo došlapal", ještě než mohly být zajištěny jako důkaz.
+
+**Zdroje:** [Rajchl — Videoportál 5. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-5-8-2026)
+
 ---
 
 ### ČT Reportéři: záměrné zamlčení prvního tržiště — Zítko (13. 5. 2026)

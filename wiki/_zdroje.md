@@ -3553,6 +3553,15 @@
 - **Poznámka:** Zpracováno 1 téma: debata s Piráty (Volpe) — Ceuta a „ruské dezinformační weby" — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Videoportál (5. 8. 2026) {#jindřich-rajchl--videoportál-5-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-05_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1041773548560443>
+- **Datum záznamu:** 2026-08-05
+- **Délka:** 00:02:08 | Zhlédnutí: 127 435
+- **Poznámka:** Zpracováno 1 téma: bitcoinová kauza — Uhlířova nedokončená zpráva, Decroix zdržování, Stanjura si odkoupil služební mobil/počítač za zbytkovou cenu — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět (4. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-4-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-04_Ladislav-Vrabel_Facebook-Live.txt)
 - **Kanál:** Ladislav Vrabel (Facebook)
