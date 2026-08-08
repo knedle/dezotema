@@ -3588,3 +3588,12 @@
 - **Délka:** 00:05:45 | Zhlédnutí: 505
 - **Poznámka:** Krátká pozvánka na živý speciál (opakuje info už zaznamenané); zpracováno 1 nová drobnost: srovnání s kauzou Tomáše Paucnera — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (4. 8. 2026) (3) {#československo-tv2--videoportál-4-8-2026-2}
+- **Soubor:** [přepis](prepisy/done/2026-08-04_Československo-TV2_Videoportál_2.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=2364157170656613&_rdr>
+- **Datum záznamu:** 2026-08-04
+- **Délka:** 01:48:43 | Zhlédnutí: 185
+- **Poznámka:** Zpracováno: pokračování Fauciho slyšení (7 států žádá stíhání, vyšetřování Floridy, odhad 150 mil. obětí, VAERS statistiky) — [covid-vakciny.md](covid-vakciny.md); nová vlastní kauza — zákaz pobytu v Praze, soudkyně Rajfová — [kauzy.md](kauzy.md); repeat (jen zdroj doplněn): Füllmich, bitcoinová kauza, Putin/covid konspirace. Bez predikcí a stoch. teroru (ambiguní ASR přepis možné výzvy k násilí — nejednoznačné, nezaznamenáno).
+- **Zpracováno:** ano

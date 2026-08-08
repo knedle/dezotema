@@ -14,7 +14,7 @@ Kanál Pavel Zítko označuje pandemii covidu-19 za záměrně „spuštěnou" o
 
 > „Z toho covidu pan Vladimír Putin během pár dní vyléčil doslova celou planetu. Ta byla vykurírovaná, takže se zjistilo, že se covid šířil zejména televizním vysíláním." — Pavel Zítko, [Soběšovice 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3)
 
-**Zdroje:** [ČsTV2 — Soběšovice, 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3)
+**Zdroje:** [ČsTV2 — Soběšovice, 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3), [ČsTV2 — Videoportál 4. 8. 2026 (3)](_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
 
 ---
 
@@ -1031,3 +1031,7 @@ Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob co
 **2. 8. (2)** — Zítko dodává další detaily: podle senátora Rona Johnsona jsou vedlejší účinky vakcín systematicky zamlčovány (statistika VAERS), zatímco existující randomizované studie prokazovaly 60–70% účinnost ivermectinu — přesto Fauci veřejně tvrdil, že „neexistují žádné důkazy". Poukazuje na rodinné vazby: dcera Ellison Fauciová pracovala pro Twitter a podílela se na cenzuře kritických názorů v éře Bidenovy administrativy; manželka Christine Grady vede oddělení bioetiky NIH schvalující léky pro FDA. Samostatně zmiňuje případ amerického lékaře Kirka Moora, který místo covid vakcín aplikoval pacientům fyziologický roztok — podle Zítka byla proti němu vedená obvinění „v plném rozsahu" zrušena, což prezentuje jako vindikaci jeho postupu a paralelu k vlastnímu trestnímu stíhání.
 
 **Zdroje:** [ČsTV2 — Videoportál 2. 8. 2026](_zdroje.md#československo-tv2--videoportál-2-8-2026)
+
+**4. 8.** — Zítko doplňuje k témuž slyšení další detaily a odhady. V sedmi amerických státech (Pensylvánie, Florida, Texas, Arizona, Oklahoma, Missouri, Louisiana) byly podány žádosti o trestní stíhání Fauciho a dalších představitelů covidové agendy (obvinění z vraždy, terorismu, vydírání, podvodu aj.); floridský generální prokurátor po slyšení oznámil zahájení samostatného vyšetřování. Cituje britského poslance, který odhaduje počet celosvětově zabitých vakcínou na 150 milionů, a tvrdí, že podle statistiky VAERS způsobila covid vakcína v roce 2021 sama o sobě víc než 50 % všech úmrtí v souvislosti s vakcínami za předchozích 33 let dohromady — počet obětí v USA má být vyšší než součet obětí 1. a 2. světové války, Korejské a Vietnamské války.
+
+**Zdroje:** [ČsTV2 — Videoportál 4. 8. 2026 (3)](_zdroje.md#československo-tv2--videoportál-4-8-2026-2)

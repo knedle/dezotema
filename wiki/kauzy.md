@@ -169,7 +169,7 @@ Füllmich popsal i vězeňský režim a tvrdí, že vyšetřovací vazba je „b
 
 > „Můj případ je jednoznačně politický proces. […] Připravil jsem se na 5 hodin, zredukovali mi čas na 20 minut s cílem mě demotivovat." — Reiner Füllmich (tlumočeno), [Füllmich živě z vězení 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 
-**Zdroje:** [ČsTV2 — Füllmich živě z vězení, 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
+**Zdroje:** [ČsTV2 — Füllmich živě z vězení, 12. 6. 2026](_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026), [ČsTV2 — Videoportál 4. 8. 2026 (3)](_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
 
 ---
 
@@ -558,7 +558,7 @@ Kanál Československo TV2 přinesl ve vysílání 7. 5. 2026 vlastní analýzu 
 - Obvinění čelí dle rozboru **devíti trestným činům**: porušení zákona o AML (praní špinavých peněz), zneužití pravomocí veřejné osoby, legalizace výnosů trestné činnosti, porušování povinností při správě cizího majetku, podvod, korupce, nepřekažení páchání trestné činnosti (§ 367), zločinné spolčení (§ 129, bod 8) a nadržování.
 - Dalšími podezřelými jsou mj. Petr Fiala, Zbigněw Stanjura, Filip Benda (šéf Stanjurova kabinetu), Ana Bednářová (právní odbor MS), Lubomír Mika (notář), Jiří Berger (soudní znalec), Eva Decroix a Karel Dvořák (STAN).
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026)
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026), [ČsTV2 — Videoportál 4. 8. 2026 (3)](_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
 
 ---
 
@@ -799,3 +799,11 @@ K podané obžalobě v bitcoinové kauze (viz [Obžalování v bitcoinové kauze
 V navazujícím krátkém videu téhož dne (pozvánka na živý speciál) srovnává rozsah kauzy s kauzou Tomáše Paucnera (miliardové kšefty se stanem a helikoptérami) — ty označuje za „čučkaření pro malé děti" ve srovnání s víc než 100 miliardami v bitcoinové kauze; zmiňuje i tlak, který podle něj na Paucnera vyvíjeli (ztráta řidičáku, vazba), jako paralelu k vlastní situaci.
 
 **Zdroje:** [ČsTV2 — Videoportál 4. 8. 2026](_zdroje.md#československo-tv2--videoportál-4-8-2026), [ČsTV2 — Videoportál 4. 8. 2026 (2)](_zdroje.md#československo-tv2--videoportál-4-8-2026-1)
+
+---
+
+### Zítkův vlastní soudní spor: zákaz pobytu v Praze, soudkyně Rajfová (Zítko, 4. 8. 2026)
+
+Zítko popisuje vlastní trestní řízení u Obvodního soudu pro Prahu 2 (kauza „vylomené/vysazené dveře") jako důkaz zkorumpovanosti justice. Soudkyně Daniela Rajfová jej podle jeho tvrzení při jednání opakovaně (5×) vykázala z jednací síně, takže nebyl přítomen dokazování ani výpovědím svědků; u vynesení rozsudku navíc chyběl i uváděný státní zástupce Svoboda. Rozsudek — zákaz pobytu v Praze na 24 měsíců a podmínka — napadá jako vydaný v rozporu s čl. 37 a 38 Listiny základních práv a svobod (rovnost účastníků řízení, právo na veřejné projednání věci v jeho přítomnosti). Uvádí, že se proti rozsudku odvolal v poslední den lhůty, ale Městský soud v Praze jej potvrdil bez konání odvolacího jednání a bez podpisu soudce na doručeném rozhodnutí. Incident zdokumentovala i Mladá fronta DNES; Zítko odmítl u soudu prokázat totožnost korporátní průkazkou a podal na soudkyni trestní oznámení, které dle něj nikdo neřeší. Dává to do souvislosti s uvězněním Reinera Füllmicha jako součást stejného vzorce umlčování nepohodlných kritiků justicí.
+
+**Zdroje:** [ČsTV2 — Videoportál 4. 8. 2026 (3)](_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
