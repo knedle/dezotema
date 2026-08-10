@@ -36,6 +36,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **2. 8.** — k téže debatě dodává rozbor nákladů na ukrajinskou migraci (Kiel institut/NYT ~250 mld. Kč vs. MPSV metodika, analogie desátého nájemníka) — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 - **5. 8.** — bitcoinová kauza: trestní řízení proti Blažkovi se rozjelo až po nástupu Tejce; Uhlíř dostal zaplaceno za nezpracovanou zprávu, Decroix ji označila za duplicitní; nové tvrzení — Stanjura si díky zdržení odkoupil od státu služební mobil a počítač za zbytkovou cenu a jejich obsah „smazal nebo došlapal" — [Videoportál 5. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-5-8-2026)
 - **6. 8.** — dovětek k debatě s Grolichem: expert Pavel Janeček dal Rajchlovi za pravdu ohledně snížení ceny elektřiny přebráním OZE poplatků státem — [Videoportál 6. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-6-8-2026)
+- **9. 8.** — podmínka za pokus o vraždu zápalnou lahví (Majdanňuk) jako dvojí metr justice; kritika mediálního nezájmu o bitcoinovou kauzu (opakování) — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
@@ -75,6 +76,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **5. 7.** — formální parlamentní návrh na odebrání Řádu bílého lva Zelenskému, jednomyslná podpora klubu SPD, pozitivní reakce Polska a Slovenska; odmítá von der Leyenové nové daně („ani vindru"); Ukrajina po válce bude „ukřivděná", analogie s Výmarskou republikou — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 - **6. 7.** — sabotáž Nord Streamu jako legitimní vojenský cíl (přerušení dodávek/plateb Rusku); kritika Pavla za „schvalování teroristického útoku a vojenského zločinu" a médií za dvojí metr (image vs. válečné zločiny) — [Videoportál 6. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-6-7-2026)
 - **7. 7.** — Trump nevnímá EU jako relevantního partnera (ekonomická slabost, Green Deal a migrace = „dvouocasá příšera"); cituje J. D. Vance, že „největší nepřítel sedí v Bruselu, ne v Moskvě" — [Videoportál 7. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-7-7-2026)
+- **9. 8.** — vize V4/střední a jihovýchodní Evropy jako poslední obranné linie proti „dvouocasé přišeře"; Německo/Francie/Španělsko jsou „nenávratně ztraceny" — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 - **8. 7.** — reakce na Kupku: odmítá, že se na Ukrajině bojuje za ČR nebo že zbrojení odstrašuje Rusko (nemá důvod nás napadnout); vzor Irska (12,2% růst HDP, 0,2% HDP na obranu) — [Videoportál 8. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-8-7-2026)
 - **8. 7.** — kategoricky odmítá, aby z rozpočtu ČR šla byť koruna na zbraně pro Ukrajinu přes program PURL; spor s Macinkou, požaduje revizi rozhodnutí — [Videoportál: PURL a Macinka 8. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-purl-macinka-8-7-2026)
 - **12. 7.** — mír bude odrážet aktuální kontrolu území; predikce zhroucení Ukrajiny do 2 měsíců bez mírové dohody (viz [predikce.md](../predikce.md)) — [Facebook Live 12. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026)
@@ -97,6 +99,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **2. 8.** — Ceuta jako „invaze, ne migrace", ČT lže o návratu migrantů; migrační pakt — první zpráva Vysoké komise 15. 10., Johansson dnes vyslankyní EU pro Ukrajinu — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 - **4. 8.** — debata s Piráty (Volpe) — Ceuta a „ruské dezinformační weby" — [Videoportál 4. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-4-8-2026)
 - **8. 8.** — migrační pakt a Ceuta: čl. 57 (alternativní pomoc jen na žádost státu), komise 15. 10. určuje kvóty, „salámová metoda" u výjimky ČR; tvrzení o financování Sea Watch/CI/SOS Humanity z německého rozpočtu — [Videoportál 8. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-8-8-2026)
+- **9. 8.** — návrh na deportaci nezaměstnaných ukrajinských mužů v odvodovém věku (vzor PiS); dozvuky debat s Volpem (Ceuta/Schengen) a Kolářem („přímá demokracie") — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -106,6 +109,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 
 ### [Rodina a děti](../rodina-deti.md)
 - ČŠI skandál: povinný dotazník žáků 5. a 9. tříd o rodině, depresích a sebepoškozování — „absolutní zneužití pozice", šmírování dětí bez souhlasu rodičů (24. 5.) — [FB Live 24. 5. 2026](../_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
+- Výzva gayům a lesbám, aby se distancovali od Prague Pride jako „festivalu perverze" — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kritika selektivního mlčení mainstreamu, kauza Uhlová — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
@@ -113,6 +117,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - AI deepfake jako varování před manipulací — [Petr Pavel AI deepfake: satirická kritika (10. 4. 2026)](../_zdroje.md#jindřich-rajchl--petr-pavel-ai-deepfake-satirická-kritika-komunistické-minulosti-10-4-2026)
 - Dobrovolné koncesionářské poplatky jako jediné spravedlivé řešení — [Videoportál: dobrovolné poplatky ČT (17. 6. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-dobrovolné-poplatky-čt-17-6-2026)
 - Zuzana Černá: faktické chyby + označení za „ruskou kolaborantku" Natálie Vachatové = „bolševické manýry"; ODS Hedia žhářská hrozba bez odsouzení vs. lynčování Rajchla za „terče" — [Média: Zuzana Černá, ODS Hedia, dvojí metr (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--média-zuzana-černá-ods-hedia-dvojí-metr-6-5-2026)
+- Kritika moderátorky Adély Snopové za nedostatek respektu k Václavu Klausovi; srovnání s Michalem Půrem — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 - **21. 6.** — ČT = strážce probruselského směřování, ne demokracie (cenzura hymny Nohavicy, stávka jako protizákonné zneužití obrazovky, ČT horší/dražší než Nova/Prima/CNN Prima News, dobrovolné poplatky); dvojí metr v kauzách (Paukner: vrtulníky/Hladík/Dvořák/dozimetr vs. byty), Seznam demaskuje Pauknerův pseudonym; Milion chvilek/Minář jako vlivová struktura — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **24. 7.** — STAN přes dceřinou společnost investoval státní kompenzaci za kampaň do fondu Elevation (analýza T. Pauknera) — obcházení zákona, střet zájmu (energetické firmy), pokrytectví (spekulace na měnách, které chce zrušit euro) — [Videoportál: STAN a fond Elevation (24. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026)
 - **26. 7.** — kritika „farizejského" mentorování (moderátor Jakob, herec Jiří Dvořák) — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026) → [media-propaganda.md](../media-propaganda.md)

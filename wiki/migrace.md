@@ -309,6 +309,10 @@ Navazuje na [Migrační pakt: Rakušan jediný z V4 pro (Rajchl, 12. 6.)](#migra
 
 **Zdroje:** [Rajchl — Videoportál 8. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-8-8-2026)
 
+**9. 8.** — Rajchl shrnuje dozvuky obou debat (úterní s Piráty zástupcem Samuelem Volpem, páteční s Ondřejem Kolářem). Volpe podle něj tvrdil, že Ceuta je součástí Schengenu (80 tisíc obyvatel), a když ho Rajchl opravil, za dvě minuty přiznal, že Ceuta má „jiný režim" a že Maročané „uvěřili dezinformaci" o jejím schengenském statusu. Kolář v debatě argumentoval, že vyjednávání o migraci na úrovni EU je „realizací přímé demokracie" — Rajchl to označuje za fatální neznalost základních politologických termínů u obou debatujících. Zopakoval i argument o rozsudku španělského Nejvyššího soudu z r. 2020 (zákaz deportace nezletilých bez doprovodu), který podle něj motivuje dospělé migranty vydávat se za nezletilé.
+
+**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
+
 ---
 
 ### Migrační pakt připravovala Babišova vláda (Hamáček); nelze opustit bez vystoupení z EU — Vrabel (14. 6. 2026)
@@ -554,3 +558,11 @@ Vrabelovým hostem byla slovenská mezinárodní komentátorka Michala Gánovsk�
 Šejna argumentuje, že negativní dopady migrace v EU jsou nevyhnutelné i v hypoteticky nejlepším scénáři: kdyby ve všech členských státech zvítězily patriotické strany, uzavřely hranice a deportovaly všechny nelegální migranty, stále by zůstala velká skupina lidí, kteří už mezitím získali občanství (podle něj i „vyžebrané" bez skutečného nároku) — ty už deportovat nelze. Tuto skupinu navíc podle něj bude nadále rychle rozšiřovat vyšší porodnost muslimských a jiných přistěhovaleckých komunit ve srovnání s původním obyvatelstvem, zatímco náprava „protirodinné propagandy" mezi mladými Evropany může trvat desítky let. Nadcházející volby do Evropského parlamentu označuje za poslední příležitost tento vývoj zvrátit. Mladým mužům radí dva způsoby osobní ochrany proti migrantským útokům: vydělat dostatek peněz na právníky pro případnou obhajobu při použití sebeobrany a fyzicky zesílit, aby útočníky odradili už svým vzhledem.
 
 **Zdroje:** [Restart Česko — Videoportál 6. 8. 2026](_zdroje.md#restart-česko--videoportál-6-8-2026)
+
+---
+
+### Návrh na deportaci nezaměstnaných ukrajinských mužů v odvodovém věku (Rajchl, 9. 8. 2026)
+
+Rajchl oznamuje, že sám připraví a předloží ve Sněmovně návrh podle vzoru polské strany Právo a spravedlnost (PiS): každý Ukrajinec v odvodovém věku, který v ČR legálně nepracuje, nebo který spáchá dva přestupky či jeden trestný čin, by měl být automaticky deportován zpět na Ukrajinu, aby mohl bojovat za svou vlast. Argumentuje, že je nekonzistentní tvrdit současně, že ukrajinská migrace je pro ČR přínosem i zátěží (cituje Stachovo přetížení a rozhodnutí EU ukončit dočasnou ochranu právě s odůvodněním zátěže na sociální/zdravotní systém), a uzavírá, že jde jednoznačně o zátěž. Klíčovým motivem k rychlému jednání je podle něj obava, že pokud Polsko přijme svůj návrh dřív než ČR, nezaměstnaní ukrajinští muži v odvodovém věku z Polska (protože do Německa a Běloruska by neprošli) uprchnou právě do České republiky — ČR má už dnes nejvyšší podíl Ukrajinců na obyvatele v Evropě. Zvýhodňování Ukrajinců oproti občanům ČR (bydlení, zdravotnictví, školství, mírnější tresty u soudu) označuje za „macešské" chování státu k vlastním lidem.
+
+**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)

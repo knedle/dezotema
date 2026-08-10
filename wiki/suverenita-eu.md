@@ -476,6 +476,10 @@ Na CNN Prima News Rajchl hodnotí vztah Trumpovy administrativy k EU: Donald Tru
 
 **Zdroje:** [Rajchl — Videoportál 7. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-7-2026)
 
+**9. 8.** — Rajchl rozvíjí vizi V4/střední a jihovýchodní Evropy jako poslední obranné linie proti „dvouocasé přišeře" (Green Deal a migrace). Tvrdí, že Německo, Francie a Španělsko jsou vůči tomuto dvojímu ohrožení „nenávratně ztraceny", protože si migraci i energetiku podle něj zničily samy — na rozdíl od střední Evropy, která si migraci „nezaplevelila" a energetický sektor si nezničila Green Dealovými nařízeními. Vyzývá k budování silné V4 (ČR, Polsko, Maďarsko, Slovensko) jako regionu s ještě reálnou šancí na přežití.
+
+**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
+
 ---
 
 ### Evropská komise se reformuje — unijní úředníci přímo v hlavních městech členských zemí (Vrabel, 13. 7. 2026)

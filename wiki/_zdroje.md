@@ -3741,3 +3741,12 @@
 - **Délka:** 00:00:28 | Zhlédnutí: 15 685
 - **Poznámka:** Zpracováno 1 téma: dvojí metr policie u Prague Pride (tolerance nahoty na veřejnosti) — [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Facebook Live (9. 8. 2026) {#jindřich-rajchl--facebook-live-9-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-09_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl (Facebook)
+- **URL:** <https://www.facebook.com/100063460865205/videos/1421345726772725>
+- **Datum záznamu:** 2026-08-09
+- **Délka:** 00:56:26
+- **Poznámka:** Zpracováno 7 témat: (1) podmínka za pokus o vraždu zápalnou lahví — dvojí metr justice (Majdanňuk) — [kauzy.md](kauzy.md). (2) návrh na deportaci nezaměstnaných ukrajinských mužů v odvodovém věku — [migrace.md](migrace.md). (3) dozvuky debat s Volpem a Kolářem (Schengen/Ceuta, „přímá demokracie") — [migrace.md](migrace.md). (4) kritika mediálního nezájmu o bitcoinovou kauzu — opakování beze změny. (5) výzva gayům/lesbám distancovat se od Prague Pride — [rodina-deti.md](rodina-deti.md). (6) kritika moderátorky Adély Snopové — [media-propaganda.md](media-propaganda.md). (7) vize V4 jako obrany proti „dvouocasé přišeře" — [suverenita-eu.md](suverenita-eu.md). Fauciho obvinění z pohrdání Senátem je repeat beze změny. Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

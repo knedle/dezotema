@@ -510,3 +510,11 @@ Rajchl reaguje na rozhovor „experta na extremismus" z Fakulty sociálních vě
 Zítko vzpomíná na počátky hnutí „Srdcem pro vlast" (2020, s Robertem Šmukem), kdy jim byl podle jeho tvrzení hned od startu „nasazen" novinář Aleš Trčka, který hnutí naservíroval tři konkrétní hosty s cílem ho zdiskreditovat a rozložit: Antonína Šlajcha (údajně dosud nevyplatil sázku 5000 Kč o to, že Joe Biden vyhrál volby 2020 „podvodem"), Jana Sempera (popisovaného jako cenzor Facebooku) a Patrika Kořenáře („vyvraceč dezinformací", kterého Zítko označuje za notorického lháře). Tuto trojici interpretuje jako záměrně sestavenou infiltrační skupinu nasazenou už v zárodku hnutí, aby ho „zničili a zadupali do země".
 
 **Zdroje:** [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)
+
+---
+
+### Kritika moderátorky Adély Snopové — nedostatek respektu k Václavu Klausovi (Rajchl, 9. 8. 2026)
+
+Rajchl kritizuje moderátorku Adélu Snopovou (CNN Prima News) za rozhovor s Václavem Klausem v pořadu Napřímo — vytýká jí taktiku „otázka–odpověď–vlastní komentář–jdeme dál" (zabraňující hostovi reagovat), stejnou, jakou dle něj použila i na něj samotného v debatě o Rusku. Zásadní problém vidí v tom, že si dovolila Klause coby bývalého prezidenta věcně konfrontovat a prosazovat vlastní názory na válku na Ukrajině, které označuje za zjednodušující — na rozdíl od moderátora Michala Půra, kterého chválí za to, že hostům dává prostor a své názory prezentuje jen na vlastním podcastu, ne v roli moderátora. Přirovnává ji k bývalé redaktorce ČT Zuzaně Černé, jejíž vlastní projekt po odchodu z ČT rychle zkrachoval pro nezájem.
+
+**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)

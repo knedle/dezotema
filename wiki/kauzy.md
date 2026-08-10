@@ -851,3 +851,13 @@ Zítko podal na krajské státní zastupitelství trestní oznámení na býval�
 Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) veřejně obvinil Zítka, že je „fízl" a že stojí za uvězněním Čermáka na základě policejní provokace z listopadu (výslech, při kterém policie o Čermákovi nic nezmínila). Zítko obvinění odmítá a v reakci předkládá vlastní teorii, že záznam Čermákova zadržení na polsko-české hranici je zfalšovaný — záběry osoby v policejní vestě nikdy nezachytily obličej zepředu, postava i chůze podle něj neodpovídají Čermákovi a osoby na videu viditelně čekají na pokyn kameramana, než se rozejdou. Uzavírá, že o Tušlovi coby obhájci přestal mít zájem poté, co Jindřich Rajchl veřejně oznámil, že bude Tušla zastupovat on.
 
 **Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026)
+
+---
+
+### Podmínka za pokus o vraždu zápalnou lahví — dvojí metr justice u Ukrajince (Rajchl, 9. 8. 2026)
+
+Rajchl kritizuje rozsudek krajského soudu, který Ukrajinci Alexandrovi Majdanňukovi zmírnil trest z nepodmíněného na podmíněný za to, že v noci hodil zapálenou láhev s benzínem na dům, kde spala rodina s dvouletým dítětem (motivem měl být spor o dluh 250 000 Kč s otcem majitele domu) — dům nezačal hořet jen díky náhodě (láhev se rozbila až na dlažbě před domem, ne o fasádu). Rajchl to hodnotí jako fakticky nepřímý úmysl vraždy, upozorňuje, že obžalovaný byl navíc na útěku a u soudu se osobně nedostavil, a srovnává trest s podmínkami udělovanými za pouhé slovní/psané výroky (Martina Bednářová za výrok o Kyjevě, muž vyhrožující mu baseballovou pálkou telefonicky, 71letá důchodkyně za komentář o „dlažební kostce" u Fialova mítinku) — v jeho čtení identická sazba pro pokus o vraždu i za nevinné komentáře na sociálních sítích. Označuje justici za „totálně vychýlenou" v případech s ukrajinským nebo politickým prvkem a slibuje na to reagovat vlastním legislativním návrhem; zmiňuje, že ministr spravedlnosti Jeroným Tejc již oznámil stížnost pro porušení zákona.
+
+⚡ **Poznámka:** Konkrétní jméno a detaily případu (Majdanňuk) nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
