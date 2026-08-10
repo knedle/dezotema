@@ -979,4 +979,20 @@ Polský prezident Karol Nawrocki deklaroval podporu Ukrajině a spolehnutí se n
 
 **Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+---
+
+### Okamura by poslal mladíka na frontu za „vystrčení se z auta"; srovnání s Ivanem Davidem v Srbsku (Vrabel, 9. 8. 2026)
+
+Vrabel navazuje na dřívější kritiku Okamurovy nedůslednosti v otázce financování zbraní pro Ukrajinu ([Okamura kritizuje příspěvek do PURL, ač SPD řídí ministerstvo obrany](#okamura-kritizuje-příspěvek-do-purl-ač-spd-řídí-ministerstvo-obrany--pokrytectví-vrabel-10-7-2026)) další epizodou údajného pokrytectví: připomíná, že Okamura dříve navrhoval poslat na frontu mladého muže jen za to, že se „vystrčil z okna auta" v koloně (podle Vrabela projev jiné mentality, ne provinění) — a odpovídá, že prvního na frontu by poslal samotného Okamuru. Dává do souvislosti Okamurovo vystupování v Srbsku, kde měl srbské politiky přemlouvat ke vstupu do EU, s postojem Ivana Davida, který podle Vrabela naopak srbským politikům řekl otevřeně, že jejich cílem v Evropském parlamentu je EU „rozbít" — z toho vyvozuje, že Okamura jen předstírá suverenistickou a vlastenskou pozici.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### „Posloupnost mobilizace" — Vrabelův scénář cesty k válce v ČR; kritika francouzského „jaderného deštníku" (Vrabel, 9. 8. 2026)
+
+Vrabel popisuje vlastní odhad, jak by podle něj vypadala cesta ČR k mobilizaci: současné každodenní zprávy o „ruských hybridních útocích" jsou dle něj přípravou narativu; v určitém okamžiku dojde k incidentu, po kterém se vyhlásí „stav ohrožení státu" nebo válečný stav, uzavřou hranice a začnou létat „rakety trošičku víc"; když se pak na frontě ukáže nedostatek vojáků, přijdou na řadu nejdřív aktivní zálohy a následně mobilizace podle vojenských ročníků (uniformy prý „se najdou nebo ušijou", odkazuje na nedostatečně vybavené ukrajinské odvedence). Za jedno z nejdůležitějších rizik, kterému má zabránit ohlašovaná demonstrace [„Člověk na prvním místě"](politicky-system.md#ohlášení-veřejného-shromáždění-člověk-na-prvním-místě-3-10-2026--bez-politiků-s-placenou-funkcí-vrabel-9-8-2026), označuje chystanou dohodu Andreje Babiše o „jaderném deštníku" s Francií: argumentuje, že jaderné zbraně jsou z podstaty útočné (nasazují se vždy daleko od vlastního území, ne „nad sebou"), takže umístění francouzských jaderných hlavic v ČR by z republiky učinilo prioritní cíl ruského preventivního úderu právě ve chvíli, kdy by byly nejvíc potřeba. Popisuje i vlastní osobní „posloupnost při mobilizaci" — dopředu sjednanou plnou moc pro blízkou osobu a připravený „čundrácký" batoh — s cílem být do dvou dnů v Srbsku, jediné vojensky neutrální zemi, která se do války nezapojí.
+
+> „Za dva dny jsem v Srbsku. V jediné vojensky neutrální zemi, která do té války nepůjde." — Ladislav Vrabel, [Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)

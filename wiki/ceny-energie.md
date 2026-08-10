@@ -437,3 +437,13 @@ Kvůli mimořádnému suchu a nízkému průtoku Dunaje musely být odstaveny ob
 **3. 8.** — Doplňuje konkrétní hospodářské dopady sucha: podle kolegyně z Rakouska klesnou letos sklizně zelené produkce o cca 20 %, kvůli vysokým cenám pohonných hmot některé farmy hlásí propad výnosů 20–70 % a jedna farma musí kvůli nedostatku krmiva začít vybíjet dobytek. Zmiňuje i to, že pokles hladiny Dunaje v Srbsku odhalil potopené německé lodě z roku 1944 a v Rakousku vyplavaly kosti mamutů. Vrabel z toho vyvozuje, že evropské potraviny výrazně zdraží, a doporučuje divákům začít si pěstovat vlastní zeleninu na venkově („zachraň se, kdo může") — doplňuje, že ČR má díky přírodním poměrům (rybníky, řeky, lesy) mezi evropskými zeměmi nejlepší předpoklady, což z ní podle něj zároveň učiní cíl budoucí migrace ze zemí zasažených klimatickými změnami a stoupající hladinou moří.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+---
+
+## Elektřina — marže a ceny
+
+### Elektřina v ČR jako „1000% marže" — Tykač a Křetínský profitují ze státního cenového stropu (Vrabel, 9. 8. 2026)
+
+Vrabel tvrdí, že výroba elektřiny v ČR stojí přibližně 40–50 haléřů za kWh, zatímco domácnosti v maloobchodní ceně platí až 10 Kč/kWh — což vyčísluje jako zhruba „1000% marži". Srovnává to se Srbskem, kde je elektřina podle jeho dřívějších tvrzení výrazně levnější při srovnatelných výrobních náladech (viz [Sucho odstavuje jaderné elektrárny — kontrast se 4× levnější energií v Srbsku](#sucho-odstavuje-jaderné-elektrárny-v-rumunsku-a-maďarsku--kontrast-se-4-levnější-energií-v-srbsku-vrabel-30-7-2026)). Za viníky označuje energetické magnáty Pavla Tykače a Daniela Křetínského a státní politiku cenových stropů, kterou popisuje jako nástroj, který chrání zisky „energetických baronů" na úkor domácností, místo aby snížil ceny přímo u zdroje.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)

@@ -627,3 +627,11 @@ K argentinským protestům proti návrhu vlády Javiera Milei uvolnit nákup zem
 **Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
 
 ---
+
+### „Hadička" — systematické odčerpávání národního bohatství od roku 1989 (Vrabel, 9. 8. 2026)
+
+Vrabel používá metaforu „hadičky" pro popis mechanismu, kterým je od roku 1989 systematicky odčerpáváno národní bohatství ČR ve prospěch zahraničního/globalistického kapitálu. Na podporu tvrzení promítá archivní záznam z roku 1997 o korupci při privatizaci — konkrétně privatizaci pražských vodáren — s odkazem na schéma úplatků („sedm milionů/milion") a na moderátora Františka Ringo Čecha, který o kauze tehdy informoval. Řadí to k [tezi o rostoucí nerovnosti v ČR a centralizaci moci „shora"](#rostoucí-nerovnost-v-čr-a-centralizace-moci-shora-vrabel-2-7-2026) jako historický precedens téhož procesu.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---

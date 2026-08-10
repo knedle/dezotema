@@ -602,6 +602,27 @@
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 2)
 - **8. 8.** — Ukrajina jako „kartonová demokracie" (zrušené protesty, násilné odvody); Elon Musk odmítl Starlink pro útoky na ruské území — [Zprávy v devět 8. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 2)
+- **9. 8.** — ohlášení veřejného shromáždění „Člověk na prvním místě" (3. 10.) bez politiků s placenou funkcí; doplnění vlastní perzekuce po 2022 (zproštění Ústavním soudem, rozklad demonstrací programem „Kryt"); „národ má právo takovou vládu svrhnout" — kritika porušených slibů Babiše, Okamury/SPD, Motoristů, Trikolóry, PRO, Svobodných — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 3)
+- **9. 8.** — elektřina v ČR jako „1000% marže" — viní Tykače/Křetínského a státní cenové stropy — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 2)
+- **9. 8.** — „hadička": systematické odčerpávání národního bohatství od 1989, archivní klip o privatizaci pražských vodáren (1997) — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+### [Rodina a děti](../rodina-deti.md) (pokrač.)
+- **9. 8.** — EU propojuje podporu LGBT agendy s potřebou financovat Rearm Europe (von der Leyen, 800 mld. eur) — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 2)
+- **9. 8.** — sociální sítě jako navržená závislost a silnější politický nástroj než klasická média; volání po zákonné regulaci — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md) (pokrač. 5)
+- **9. 8.** — kritika Okamury (poslal by mladíka na frontu, srovnání s Ivanem Davidem v Srbsku); „posloupnost mobilizace" — scénář incident→uzavření hranic→odvody podle ročníků; kritika francouzského jaderného deštníku jako rizika pro ČR — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 3)
+- **9. 8.** — teorie o cílené likvidaci Slovanů/bílého muže — Poláci „další na řadě"; „Ukrajina má být zrušena" — teritoriální celistvost vs. sebeurčení, paralela s Kosovem — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -963,6 +984,8 @@
 | Andrij Bilecký | ⚖️ rozporuplný | Zakladatel praporu Azov odmítající označení „nacista" — Vrabel s obhajobou symboliky souhlasí, ale trvá na tom, že Azov je nacistický kvůli potlačování Rusů | 2026-07-31 | [Facebook Live 31. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026) |
 | Donald Trump | ❌ negativní | Otevřené zklamání — „největší válečný prezident, co pamatuju"; chystá bombardování Íránu | 2026-08-01 | [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026) |
 | Štefan Harabin | ✅ pozitivní | Osobní „kamarád" ze slovenské vlastenecké scény — citován s tezí o Anglosasech štvoucích Slovany proti sobě | 2026-08-01 | [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026) |
+| Tomio Okamura | ❌ negativní | Za dřívější výrok o poslání mladíka na frontu Vrabel odpovídá, že prvního na frontu by poslal jeho — v Srbsku měl místo Ivana Davida přemlouvat politiky ke vstupu do EU | 2026-08-09 | [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026) |
+| Pavel Tykač | ❌ negativní | Spolu s Křetínským viněn z „1000% marže" na ceně elektřiny v ČR díky státní politice cenových stropů chránící energetické barony | 2026-08-09 | [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026) |
 
 ---
 
@@ -1064,3 +1087,4 @@
 - [Nedělní vysílání (2. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
 - [Zprávy v devět (3. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
 - [Zprávy v devět (4. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
+- [Nedělní vysílání (9. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)

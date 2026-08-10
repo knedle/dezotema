@@ -203,3 +203,11 @@ Druhé největší nizozemské město vyhlásilo v části Rotterdamu noční z�
 Boldy sarkasticky komentuje připravovaný komerční humanoidní robot pro řemeslníky (odhadovaná cena 5–20 mil. Kč), jehož vzhled přirovnává k bafometovi a kentaurovi. Ironicky zpochybňuje oficiální prezentaci coby neškodného pomocníka a naznačuje skryté vojenské využití zbraňových systémů a riziko hacknutí — přičemž ujištění výrobce o bezpečnosti a nemožnosti zneužití označuje za nevěrohodná.
 
 **Zdroje:** [Boldy — Videoportál 5. 8. 2026](_zdroje.md#konspirátor-boldy--videoportál-5-8-2026)
+
+---
+
+### Sociální sítě jako navrhovaná závislost a nástroj politické manipulace — volání po zákonné regulaci (Vrabel, 9. 8. 2026)
+
+Vrabel tvrdí, že sociální sítě jsou cíleně navrženy jako závislost srovnatelná s drogou — odkazuje na výpovědi bývalých zaměstnanců Facebooku, podle nichž firmy záměrně využívají psychologické poznatky (dopaminová odezva z „feedu", scrollování) k prohlubování návykovosti, aby uživatelé strávili na platformě víc času, viděli víc reklam a poskytli víc dat k trénování AI a cílení reklamy. Popisuje sociální sítě jako silnější politický nástroj než klasická média: algoritmus podle něj může jednoho kandidáta zobrazit tisíckrát častěji než druhého a fakticky tak rozhodovat výsledek voleb. Kritizuje, že stát nijak nereguluje, aby platformy fungovaly podle českého práva a ústavní svobody informací, a nechává „globalisty" prosazovat přes algoritmy vlastní agendu (LGBT, protiruskou) na úkor opačných názorů — včetně programování dětí, kterým je ve školách sdělováno, že důvěryhodná jsou jen „prověřená" média.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)

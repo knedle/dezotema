@@ -3777,3 +3777,12 @@
 - **Délka:** 01:03:13
 - **Poznámka:** Vrabel — deník. Plně zpracováno 11 z 12 témat (Trump taneční sál bez komentáře nezpracován): Maďarsko prezident/Szijjártó, dron Bulharsko/Lipsko, Argentina půda, Německo/ČR zbraně, Ukrajina kartonová demokracie, Musk/Starlink, Turecko Dardanely, Nawrocki, Zelenskyj Bělehrad — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Rusko 95% vyhraje) a stoch. teror (Nawrocki) extrahovány bezvýjimečně.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání (9. 8. 2026) {#ladislav-vrabel--nedělní-vysílání-9-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-09_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2302029873941664>
+- **Datum záznamu:** 2026-08-09
+- **Délka:** 01:53:40
+- **Poznámka:** Vrabel — nedělní speciál. Plně zpracováno 12 z 13 témat (vynechána podrobná rekonstrukce schůzky Vučič–Zelenskyj v Bělehradu, opakování/rozšíření již zpracovaného tématu): husitství/ateismus jako rámec, ohlášení shromáždění „Člověk na prvním místě" — [politicky-system.md](politicky-system.md); ceny elektřiny „1000% marže" — [ceny-energie.md](ceny-energie.md); „hadička"/privatizace 1997 — [konspirace.md](konspirace.md); EU LGBT agenda a Rearm Europe — [rodina-deti.md](rodina-deti.md); vlastní perzekuce po 2022 (Ústavní soud, Kryt) — [politicky-system.md](politicky-system.md); právo národa svrhnout vládu — [politicky-system.md](politicky-system.md); sociální sítě jako nástroj závislosti a manipulace — [digitalni-kontrola.md](digitalni-kontrola.md); posloupnost mobilizace a jaderný deštník s Francií — [valka-nato-rusko.md](valka-nato-rusko.md); kritika Okamury (frontu) — [valka-nato-rusko.md](valka-nato-rusko.md); likvidace Slovanů/Poláci další na řadě, teritoriální celistvost Ukrajiny vs. Kosovo — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md) — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (mobilizace, 2–3 roky války, Poláci další na řadě) a stochastický teror (Okamura na frontu) extrahovány bezvýjimečně.
+- **Zpracováno:** ano

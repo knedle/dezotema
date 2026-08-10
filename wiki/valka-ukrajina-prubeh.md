@@ -94,6 +94,28 @@ Vrabel ke svým předčítaným zprávám (z RT/Sputniku) opakuje tezi, že nejd
 
 ---
 
+### Teorie o cílené likvidaci Slovanů/bílého muže skrze válku — Poláci „další na řadě" (Vrabel, 5.–9. 8. 2026)
+
+Vrabel líčí debatu se svým známým o tom, zda je skutečným cílem ukrajinského konfliktu záměrná likvidace Slovanů, respektive útok na „slovanského bílého muže" obecně. Ukrajinci byli podle něj první proto, že jde o početný a militantní národ; předpovídá, že dalším cílem „snížení populace" budou Poláci, protože jsou v Evropě dalším silným a jednotným národem. Propojuje tezi s paralelním „útokem na bílou rasu" skrze islamizaci Evropy i USA a připouští, že obětí by mohli být i Němci. V nedělním vysílání 9. 8. teorii rozvádí explicitně rasovým rámováním: mluví o „potřebě Slovanů" jako protiváhy k tomu, že „Germány a anglosasy" míchají s muslimy, přičemž slovanské ženy si podle něj muslimové „neberou tolik" — proto je třeba je poslat na frontu. Odhad, že po Ukrajincích budou příštím cílem právě Poláci, opírá i o vlastní zkušenost (dvouletý vztah s Polkou, časté pobyty v Polsku) — popisuje je jako „tvrdý, silný národ", srovnatelný se Srby.
+
+> „Jestli ano, tak další budou Poláci. [...] já předpokládám, že další, kdo je na řadě k tomu, aby se snížili populace, jsou Poláci, jako obvykle, jako v každých válkách." — Ladislav Vrabel, [Facebook Live 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### „Ukrajina má být zrušena" — teorie o neplatnosti její územní celistvosti; paralela s Kosovem (Vrabel, 9. 8. 2026)
+
+Vrabel rozvíjí právní argumentaci (navazuje na [vlastní tezi o poválečných hranicích SSSR](valka-nato-rusko.md#zelenskyj-v-bělehradu--chladné-přivítání-vučić-odmítá-zbraně-vrabel-7-8-2026)): Ukrajina jako samostatný stát vznikla teprve v roce 1991 rozpadem SSSR — předtím podle něj „neexistovala", šlo jen o součást sovětského území („okrajina", přirovnává k českému Pošumaví). Záruky územní celistvosti udělené po druhé světové válce (od 1946–48) proto podle Vrabela náležely Sovětskému svazu, ne nově vzniklé Ukrajině — tudíž se dnešní Ukrajina nemůže odvolávat na právo na územní celistvost, které „nikdy nezískala". Zároveň tvrdí, že Ukrajina „se neosvědčila jako stát" (analogie se zkušební dobou v zaměstnání), protože nezajistila svým obyvatelům život v souladu s mezinárodním právem — a proto by měla být coby stát „zrušena". Rozlišuje to od práva na sebeurčení: obyvatelům západní Ukrajiny by dle něj sebeurčení náleželo, ale ne nárok mít ve „své" zemi Rusy na Donbasu a Krymu, kteří se hlásí k Rusku — tam by se sebeurčení i územní celistvost mělo uplatnit ve prospěch Ruska, protože jde o historicky ruské obyvatelstvo. Stejnou logiku obrací u Kosova: Kosovo je podle něj historické centrum Srbska (první pravoslavné kostely), kam se od 70. let stěhovali (albánští) migranti, kteří většinovou srbskou populaci postupně vytlačili s podporou USA (vyřazení UČK ze seznamu teroristických organizací, bombardování Jugoslávie 1999) — zde by tedy měla platit územní celistvost ve prospěch Srbska, ne právo na sebeurčení pro albánskou většinu, protože jinak by podle něj vznikl precedens pro jakoukoli migrantskou komunitu kdekoli v Evropě (zmiňuje hypotetické „Německo-Afrika", „Británie-Pákistán"). Uzavírá, že Česká republika je „už docela dost ukrajinizovaná", a vládní zákon Lex Ukrajina 7 (viz [Migrace](migrace.md)) označuje za „plánovanou ukrajinizaci České republiky".
+
+> „Ukrajina má být zrušena, protože se neosvědčila jako stát. [...] Tady by měla být uplatněná ta územní celistvost. Proč? No protože historicky tam ty lidi žijou. Srbové." — Ladislav Vrabel, [Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+⚡ **Poznámka:** Tvrzení, že by se poválečné garance územní celistvosti SSSR nevztahovaly na Ukrajinu jako jeho nástupnický stát, a že by mezinárodní právo umožňovalo „zrušení" existujícího uznaného státu, neodpovídá platnému mezinárodnímu právu — Ukrajina je od roku 1991 mezinárodně uznaným státem s vlastními, mezinárodně garantovanými hranicemi (viz i [poznámka u Vrabelovy dřívější verze téže teze](valka-nato-rusko.md#zelenskyj-v-bělehradu--chladné-přivítání-vučić-odmítá-zbraně-vrabel-7-8-2026)).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
 ## Průběh války, útoky a „terorismus"
 
 ### Drony z Ukrajiny zabily studenty — Kyjev si „zaslouží Sylvestra" (25. 5. 2026)

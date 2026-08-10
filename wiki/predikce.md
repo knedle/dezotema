@@ -12,6 +12,38 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — scénář cesty k mobilizaci v ČR: incident → uzavření hranic → odvody podle ročníků (9. 8. 2026)
+
+**Předpověď:** Vrabel popisuje explicitní scénář, jak podle něj bude vypadat cesta ČR k mobilizaci: zesilující zprávy o „ruských útocích" jsou přípravou narativu; dojde k nespecifikovanému incidentu, po kterém se vyhlásí stav ohrožení státu nebo válečný stav a uzavřou hranice; na frontě začne chybět dostatek vojáků, nejdřív se povolají aktivní zálohy a následně proběhne mobilizace podle vojenských ročníků.
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### Ladislav Vrabel — plán „Česká republika na prvním místě" může zahrnovat 2–3 roky války (9. 8. 2026)
+
+**Předpověď:** V rámci ohlášení nového shromáždění „Člověk na prvním místě" Vrabel předpovídá, že v rámci 5–10letého plánu na obnovu české suverenity si národ „možná bude muset projít" dvěma až třemi lety války, než dojde k výsledku, který si představuje (rozpad vlivu EU a nadnárodních korporací v ČR).
+
+**Horizont:** 5–10 let (válka odhadem 2–3 roky v rámci tohoto období)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### Ladislav Vrabel — dalším cílem „snížení populace" po Ukrajincích budou Poláci (5.–9. 8. 2026)
+
+**Předpověď:** V souvislosti s teorií o cílené likvidaci Slovanů/bílého muže skrze válku Vrabel předpovídá, že po Ukrajincích (které popisuje jako první oběť kvůli jejich početnosti a militantnosti) budou dalším cílem „snížení populace" Poláci — odhad opírá o vlastní pozorování, že jde o silný a jednotný evropský národ.
+
+> „Jestli ano, tak další budou Poláci. [...] já předpokládám, že další, kdo je na řadě k tomu, aby se snížili populace, jsou Poláci." — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+
+---
+
 ### Ladislav Vrabel — Rusko vyhraje válku na Ukrajině s „95% pravděpodobností" (8. 8. 2026)
 
 **Předpověď:** V souvislosti s kritikou polského prezidenta Nawrockého Vrabel odhaduje, že konflikt na Ukrajině „s 95% pravděpodobností" skončí ruským vítězstvím — na rozdíl od narativu, že je Rusko „zahnané do kouta" a prohrává. Tvrdí, že fronta jednoznačně postupuje směrem ke Kyjevu a že ukrajinské úspěchy jsou omezeny na ojedinělé teroristické údery, nikoli vojenský postup.

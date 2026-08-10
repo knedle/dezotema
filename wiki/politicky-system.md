@@ -842,4 +842,24 @@ V souvislosti se zklamáním z Donalda Trumpa jako „válečného prezidenta" V
 
 Vrabel tvrdí, že čtyřletá rekonstrukce tramvajové trati na Václavském náměstí (plánovaná do roku 2027) je záměrně protahovaná, aby znemožnila konání velkých demonstrací na místě se silným symbolickým významem — argumentuje, že výměna kolejí, kanalizace a dlažby technicky nemůže trvat čtyři roky. Podobně dává do souvislosti zbourání prostoru pod Národním muzeem (po jeho demonstraci s vysokou účastí) a zaplocení okolí Úřadu vlády i legislativní zákaz shromažďování před Parlamentem. Popisuje vlastní zkušenost z let po roce 2022: media ho po masové demonstraci vykreslila jako „gangstera" (nekoupený lístek na autobus před 20 lety, vymyšlená provozovna na Vltavě), byl odsouzen za nezaškrtnutí kolonky v žádosti o náhradu covidové škody a jeho manželku soud zatížil vykonstruovaným dluhem 2,5 mil. Kč (policie sama v protokolu zaznamenala, že žalobce si „namaloval" 570 tis. Kč z požadovaného milionu, soud přesto důkaz nepřipustil). Tvrdí, že šlo o koordinovanou kampaň „naming and shaming" (odkazuje na vlastní organizaci Kryt) s cílem politicky ho zlikvidovat a rozdělit vlastenecké hnutí pomlouváním (že „pracuje pro policii a tajné služby").
 
-**Zdroje:** [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
+**9. 8.** — Vrabel k tématu dodává, že byl následně i trestně stíhán, ale Ústavní soud ho na základě práva na svobodu slova zprostil. Popisuje také, jak byly podle něj infiltrovány a rozloženy navazující demonstrace na Václavském náměstí, aby se rozšířil narativ, že „demonstrace nemají smysl" — jde o stejný program „Kryt", který podle něj koordinovalo Ministerstvo vnitra cíleně proti němu.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026), [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### Ohlášení veřejného shromáždění „Člověk na prvním místě" (3. 10. 2026) — bez politiků s placenou funkcí (Vrabel, 9. 8. 2026)
+
+Vrabel ohlašuje nástupnickou akci svého hnutí „Česká republika na prvním místě" z roku 2022 pod názvem „Člověk na prvním místě" — veřejné shromáždění (výslovně odmítá termín „demonstrace") na Malostranském náměstí 3. 10. 2026, s možností přesunu na Letnou při vysoké účasti. Termín zdůvodňuje potřebou dvou měsíců na přípravu a propagaci, aby akce „měla hlavu a patu" a nebyla jen další z řady nekoncepčních demonstrací. Na rozdíl od roku 2022, kdy pódiu se 100 000 lidmi podle něj „vytěžili" politici, kteří dnes sedí v Parlamentu a Senátu, na pódiu nebude nikdo, kdo kdy měl jakoukoli placenou politickou funkci, ani současní kandidáti do Senátu — místo politiků slibuje intelektuály a odborníky z relevantních oborů. Celou výzvu rámuje historickou paralelou: připomíná husitské války (spouštěné dle něj korupcí katolické církve, ne komunismem, jak si podle něj mylně vykládá český ateismus) a národní obrození jako doklad schopnosti českého národa „udělat revoluci" — plán „Česká republika na prvním místě" popisuje jako běh na 5 až 10 let, který může zahrnovat i „dva, tři roky války", s cílem, aby na konci byl národ „plný sebevědomých lidí" a EU i nadnárodní korporace se z ČR začaly rozpadat.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### „Národ má právo takovou vládu svrhnout" — výzva podle srbského modelu za nedodržení volebních slibů (Vrabel, 9. 8. 2026)
+
+Vrabel tvrdí, že národ má právo svrhnout vládu, pokud politici po zvolení nedodrží klíčové sliby (referendum o vystoupení z EU/NATO, zrušení muniční iniciativy apod.) — jako vzor uvádí Srbsko, kde opakované masové demonstrace vynutily nové volby. Vyčítá porušení volebních slibů napříč celou tzv. vlastenecko-suverenistickou scénou: Babišovi, Okamurovi a SPD, Motoristům, Trikolóře, straně PRO i Svobodným. Zdůrazňuje, že změnu nesmí čekat od žádné „hvězdy" nebo politika („ani Babiš to neudělá, nikdo to neudělá") — musí ji podle něj vybojovat samotný národ, sjednocený a bez očekávání, že to za něj vyřeší někdo jiný.
+
+> „Nečekejte na nikoho. Nikdo to neudělá. [...] To musí udělat ten národ. To musí udělat každej z nás." — Ladislav Vrabel, [Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
