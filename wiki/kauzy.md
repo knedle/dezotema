@@ -842,7 +842,9 @@ Zítko podal na krajské státní zastupitelství trestní oznámení na býval�
 
 ⚡ **Poznámka:** Tvrzení o dodávkách zbraní „začátkem února 2022" nelze ověřit z veřejně dostupných zdrojů; oficiálně zdokumentované dodávky vojenské pomoci ČR Ukrajině probíhaly až po 24. 2. 2022.
 
-**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026)
+**8. 8.** — Zítko čte kompletní text obou trestních oznámení (na Fialu a v bitcoinové kauze) a jako „důkaz" k oznámení na Fialu pouští klip z jeho vlastního TV vystoupení o rozsahu vojenské pomoci Ukrajině (89 tanků, 226 bojových vozidel, munice v hodnotě 10 mld. Kč) — z Fialovy věty, že „ČR se ještě před vypuknutím ruské agrese rozhodla darovat munici", dovozuje důkaz přípravy útočné války, ačkoli věta samotná jednoznačně neurčuje přesné datum ani rozsah před 24. 2. 2022. V bitcoinové kauze doplňuje jméno velitele NCOZ jako „podplukovník Brejcha" — zbytek (soupis podezřelých, částky, blockchain) je opakování beze změny.
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 8. 8. 2026](_zdroje.md#československo-tv2--videoportál-8-8-2026)
 
 ---
 

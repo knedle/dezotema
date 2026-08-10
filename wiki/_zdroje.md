@@ -3750,3 +3750,12 @@
 - **Délka:** 00:56:26
 - **Poznámka:** Zpracováno 7 témat: (1) podmínka za pokus o vraždu zápalnou lahví — dvojí metr justice (Majdanňuk) — [kauzy.md](kauzy.md). (2) návrh na deportaci nezaměstnaných ukrajinských mužů v odvodovém věku — [migrace.md](migrace.md). (3) dozvuky debat s Volpem a Kolářem (Schengen/Ceuta, „přímá demokracie") — [migrace.md](migrace.md). (4) kritika mediálního nezájmu o bitcoinovou kauzu — opakování beze změny. (5) výzva gayům/lesbám distancovat se od Prague Pride — [rodina-deti.md](rodina-deti.md). (6) kritika moderátorky Adély Snopové — [media-propaganda.md](media-propaganda.md). (7) vize V4 jako obrany proti „dvouocasé přišeře" — [suverenita-eu.md](suverenita-eu.md). Fauciho obvinění z pohrdání Senátem je repeat beze změny. Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (8. 8. 2026) {#československo-tv2--videoportál-8-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-09_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1335106058790211&_rdr>
+- **Datum záznamu:** 2026-08-08 (pozn.: soubor nese datum 9. 8. dle metadat/stahování, ale obsah přepisu opakovaně uvádí „8.8., 11:11" — datováno podle obsahu)
+- **Délka:** 01:33:39 | Zhlédnutí: 49
+- **Poznámka:** Detailní čtení dvou již zaznamenaných trestních oznámení (Fiala — příprava útočné války; bitcoinová kauza) — převážně opakování; dovětek: citace Fialova TV vystoupení jako „důkaz", jméno velitele NCOZ podplukovník Brejcha — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
