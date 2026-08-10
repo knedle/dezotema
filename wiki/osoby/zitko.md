@@ -33,6 +33,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **28. 7.** — piloti a vakcíny: British Airways, kolapsy pilotů ve vysoké letové hladině, „třetí pilot maskovaný za stevarda"; opakuje beze změny Kennedyho obchodní model farmaceutického průmyslu (60 mld./500 mld. $) — [Videoportál 28. 7.](../_zdroje.md#československo-tv2--videoportál-28-7-2026)
 - **4. 8. (3)** — pokračování Fauciho kongresového slyšení: 7 amerických států žádá trestní stíhání, floridský generální prokurátor zahájil vyšetřování, odhad 150 mil. celosvětových obětí vakcíny (britský poslanec), VAERS statistika (covid vakcína 2021 = >50 % všech úmrtí po vakcínách za 33 let) — [Videoportál 4. 8. (3)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
 - **7. 8.** — podal trestní oznámení nadepsané „genocida národa, vakcinační holokaust a sterilizace obyvatelstva" — [Videoportál 7. 8.](../_zdroje.md#československo-tv2--videoportál-7-8-2026)
+- **9. 8.** — čte celý text oznámení: extrapolace 7 500 mrtvých v ČR (z tvrzených 60 000 mrtvých Němců), řetězec osobní odpovědnosti premiér→lékař, požadavek na zastavení očkování — [Videoportál 9. 8.](../_zdroje.md#československo-tv2--videoportál-9-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)

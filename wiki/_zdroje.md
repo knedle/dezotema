@@ -3759,3 +3759,12 @@
 - **Délka:** 01:33:39 | Zhlédnutí: 49
 - **Poznámka:** Detailní čtení dvou již zaznamenaných trestních oznámení (Fiala — příprava útočné války; bitcoinová kauza) — převážně opakování; dovětek: citace Fialova TV vystoupení jako „důkaz", jméno velitele NCOZ podplukovník Brejcha — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (9. 8. 2026) {#československo-tv2--videoportál-9-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-10_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Facebook)
+- **URL:** <https://m.facebook.com/watch/?v=1042848938347775&_rdr>
+- **Datum záznamu:** 2026-08-09 (pozn.: soubor nese datum 10. 8. dle metadat/stahování, ale obsah přepisu uvádí „9.8. neděli" — datováno podle obsahu)
+- **Délka:** 00:40:42 | Zhlédnutí: 173
+- **Poznámka:** Detailní čtení již zaznamenaného trestního oznámení „genocida/vakcinační holokaust" — doplnění: extrapolace 60 000 mrtvých Němců → 7 500 mrtvých v ČR, řetězec osobní odpovědnosti, požadavek na zastavení očkování — [covid-vakciny.md](covid-vakciny.md). Zbytek (soudní usnesení, Fauci) repeat. Bez predikcí a stoch. teroru (stoch. teror k tomuto oznámení už extrahován 7. 8.).
+- **Zpracováno:** ano

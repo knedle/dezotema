@@ -496,7 +496,11 @@ Zítko formuluje třípilířovou právní argumentaci, proč covidová opatřen
 
 Zítko podal na krajské státní zastupitelství čtyřstránkové trestní oznámení označené jako „genocida národa, vakcinační holokaust a sterilizace obyvatelstva" — o podání informoval i nejvyšší státní zástupkyni Lenku Bradáčovou a velitele NCOZ Mazánka. Oznámení uzavírá formulací, že kdokoli se s obsahem dokumentu seznámí a nebude okamžitě a bez odkladu konat, stává se sám trestně odpovědným podle §367 trestního zákoníku (nepřekažení trestné činnosti).
 
-**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026)
+**9. 8.** — Zítko čte celý text oznámení. Za počátek „genocidy" určuje 12. 3. 2020 (zahájení „nemocničního protokolu") a symbolicky i 27. 12. 2020 (den, kdy se dal jako první v ČR demonstrativně očkovat Andrej Babiš „přes zakrytou ruku"). Viní vlády Babiše i Fialy, poslance a senátory hlasující pro prodlužování nouzového stavu, členy pandemických komisí, krizových štábů a hygienické stanice. Z citovaného svědectví „bývalého viceprezidenta Pfizeru" a toxikologa Helmuta Šterce (60 000 mrtvých Němců po vakcíně Comirnaty) extrapoluje analogií odhad cca 7 500 mrtvých na území ČR (Čechy, Morava, Slezsko) — bez zahrnutí úmrtí po vakcínách Moderna, AstraZeneca a Janssen. Opakuje tvrzení o poklesu porodnosti o 35 tisíc dětí/rok (112 000 → 77 000, 2021–2025) jako důkaz „sterilizace obyvatelstva" a o šaržích „E" a „22R–22Z" s až 20% úmrtností. Žádá vydání předběžného opatření a okamžité zastavení veškerého očkování na území ČR, nezávislý laboratorní rozbor složení všech vakcín a šarží a stanovení osobní trestní odpovědnosti v řetězci premiér → ministr zdravotnictví → ředitel nemocnice → primář → očkující lékař, včetně jejich osobní povinnosti hradit odškodnění poškozeným.
+
+⚡ **Poznámka:** Extrapolace „7 500 mrtvých v ČR" i podkladové číslo „60 000 mrtvých Němců" nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 9. 8. 2026](_zdroje.md#československo-tv2--videoportál-9-8-2026)
 
 ---
 
