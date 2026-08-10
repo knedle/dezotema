@@ -587,6 +587,21 @@
 ### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md) (pokrač. 3)
 - **7. 8.** — Zelenskyj v Bělehradu — chladné přivítání, Vučić odmítá dodávat zbraně, slibuje pomoc s obnovou po válce — [Zprávy v devět 7. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-8-2026)
 
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 2)
+- **8. 8.** — Maďarsko dosazuje prezidenta Baku bez řádného konce mandátu; Szijjártó čelí vyšetřování z korupce jako politicky motivované stíhání opozice — [Zprávy v devět 8. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md) (pokrač. 4)
+- **8. 8.** — dron/výbuch v Bulharsku doplněný do série „ruských" incidentů; Turecko omezuje plavbu Dardanely, „pátá kolona" v Evropě; varování Nawrockému před potrestáním Ruskem; Zelenskyj v Bělehradu — oprava médií a kritika Vučičovy právní nekonzistence (Kosovo vs. Ukrajina) — [Zprávy v devět 8. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač.)
+- **8. 8.** — skupování zemědělské půdy globálními investory (Bill Gates), ČR jako nejhorší případ bez ochrany — [Zprávy v devět 8. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 3)
+- **8. 8.** — dvojí metr v dodávkách zbraní — Německo se stydí za houfnice, ČR se chlubí Českou muniční iniciativou — [Zprávy v devět 8. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 2)
+- **8. 8.** — Ukrajina jako „kartonová demokracie" (zrušené protesty, násilné odvody); Elon Musk odmítl Starlink pro útoky na ruské území — [Zprávy v devět 8. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
 ---
 
 ## Zmíněné osoby

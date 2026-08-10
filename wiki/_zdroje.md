@@ -3768,3 +3768,12 @@
 - **Délka:** 00:40:42 | Zhlédnutí: 173
 - **Poznámka:** Detailní čtení již zaznamenaného trestního oznámení „genocida/vakcinační holokaust" — doplnění: extrapolace 60 000 mrtvých Němců → 7 500 mrtvých v ČR, řetězec osobní odpovědnosti, požadavek na zastavení očkování — [covid-vakciny.md](covid-vakciny.md). Zbytek (soudní usnesení, Fauci) repeat. Bez predikcí a stoch. teroru (stoch. teror k tomuto oznámení už extrahován 7. 8.).
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (8. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-8-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-08_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1799978314338313>
+- **Datum záznamu:** 2026-08-08
+- **Délka:** 01:03:13
+- **Poznámka:** Vrabel — deník. Plně zpracováno 11 z 12 témat (Trump taneční sál bez komentáře nezpracován): Maďarsko prezident/Szijjártó, dron Bulharsko/Lipsko, Argentina půda, Německo/ČR zbraně, Ukrajina kartonová demokracie, Musk/Starlink, Turecko Dardanely, Nawrocki, Zelenskyj Bělehrad — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Rusko 95% vyhraje) a stoch. teror (Nawrocki) extrahovány bezvýjimečně.
+- **Zpracováno:** ano

@@ -523,6 +523,10 @@ Turecký prezident Erdoğan na summitu NATO v Ankaře vyjádřil podporu pokrač
 
 **Zdroje:** [Vrabel — Zprávy v devět 10. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-7-2026)
 
+**8. 8.** — Turecko omezuje plavbu obchodních lodí přes Dardanely do Černého moře kvůli rostoucím obavám z útoků v oblasti (mj. zásah turecké lodi u Oděsy, podle Vrabela pravděpodobně ukrajinského původu). Vrabel to dává do souvislosti s vlastním obědovým rozhovorem s kyperským bankovním zástupcem o tureckém obsazení severního Kypru (40 000 vojáků) a s čerstvou tureckou obrannou dohodou se Saúdskou Arábií a Pákistánem — Turecko popisuje jako druhou největší pozemní armádu NATO a „velmi nebezpečnou zemi pro Evropu" díky silné turecké komunitě/„páté koloně" v Rakousku a Německu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
 ---
 
 ### EU povolila Ukrajině nákup britské techniky z půjčky; Rearm Europe 800 mld. eur do 2030 (Vrabel, 10. 7. 2026)
@@ -941,7 +945,9 @@ Na nákladním letišti v Lipsku byl v noci na středu vyhlášen bezpečnostní
 
 **6. 8.** — Doplňuje detaily: letadlo Antonov bylo naloženo vojenskou municí z Francie, rozbuška nalezeného dronu byla podle dosavadních zjištění nefunkční a policie navíc pátrá po dalším objektu/dronu, se kterým se letadlo v noci na středu srazilo. Německý ministr vnitra Alexander Dobrindt označil událost za možný „hybridní útok"; český bezpečnostní analytik Otakar Foltyn incident bez důkazů přisoudil Rusku a připomněl Vrbětice. Vrabel znovu zpochybňuje, že by šlo o ruský útok (žádný z dosavadních dronových incidentů podle něj nebyl prokazatelně ruský, spíše šlo o špatně navedené nebo ukrajinské drony) a vyzývá diváky, aby sami zvážili, komu je k užitku vytvářet dojem, že Rusko na EU průběžně útočí.
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+**8. 8.** — Do stejné série řadí další dva incidenty: bezpilotní letoun narušil bulharský vzdušný prostor z Rumunska a havaroval na slunečnicovém poli poblíž plynovodu (bulharská armáda usuzuje, že šlo s největší pravděpodobností o ukrajinský návnadový dron, incident zatím neoznačuje za úmyslný); ruské velvyslanectví v Německu naopak nález dronu s výbušninou v Lipsku označilo za ukrajinskou provokaci namířenou proti Rusku. Vrabel cituje německou Deutsche Welle, která přiznává, že russká odpovědnost za lipský incident nebyla prokázána — a znovu přirovnává vzorec obviňování Ruska bez důkazů k Vrběticím („přijdete k autu, je zničené, a řeknete, že to udělal ten soused, který vás nemá rád").
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026), [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
 
 ---
 
@@ -956,5 +962,21 @@ Vrabel varuje, že Česká republika kopíruje vývoj, kterým si prošla Ukraji
 Volodymyr Zelenskyj dorazil do Bělehradu na svou první návštěvu Srbska od nástupu do funkce — na letišti ho přivítala jen srbská ministryně hornictví a energetiky Dubravka Đedović Handanović, žádné fanfáry ani prezident Vučić (s ním se má sejít až následující den). Vrabel to sarkasticky rámuje jako důkaz nízké srbské priority vůči Zelenskému a připomíná Vučićovo předchozí veřejné prohlášení: Srbsko v žádném případě nezmění postoj vůči Rusku a nebude dodávat Ukrajině žádné zbraně — přislíbil jen pomoc s obnovou země až po skončení války, což Vrabel označuje za jedinou vstřícnou zprávu z celé návštěvy.
 
 **Zdroje:** [Vrabel — Zprávy v devět 7. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-8-2026)
+
+**8. 8.** — Vrabel podrobně opravuje, co považuje za manipulativní podání zprávy o Vučičově a Zelenského jednání v českých médiích (vychází i z vlastního tříhodinového rozhovoru s posledním prezidentem Jugoslávie a dvojnásobným srbským premiérem). Podle Vučičova vlastního vyjádření se s Zelenským nebavili o bezpečnostní spolupráci v konfliktu s Ruskem, ale o bezpečnosti v zemědělství a energetice; podepsané memorandum se týká výhradně zemědělské spolupráce, ne vojenské; Srbsko nevyrábí drony s Ukrajinou (jen s Izraelem) a nedodává jí zbraně — přislíbenou „humanitární pomoc" (léky) odlišuje od vojenské pomoci typu České muniční iniciativy. V Bělehradu navíc proti návštěvě protestoval vítěz komunálních voleb dr. Nestorović, který Zelenského označil za „posledního fašistu" a odmítl s ním jakoukoli spolupráci. Vrabel ale poprvé veřejně kritizuje samotného Vučiče za nekonzistentní právní argumentaci: Vučič podpořil „územní celistvost" Ukrajiny i její vstup do EU, ačkoli sám v případě Kosova prosazuje stejný princip územní celistvosti vůči srbskému území. Vrabel tvrdí, že jde o dva analogické případy „uměle vytvořených států" (Kosovo z roku 2008, Ukrajina z roku 1991) — a že mezinárodní právo by v obou případech mělo chránit historické obyvatelstvo (Srby v Kosovu, Rusy na Krymu a Donbasu, kterým podle něj náležejí poválečné hranice Sovětského svazu), nikoliv nově utvořený stát. Vučičovu podporu ukrajinské územní celistvosti tak popisuje jako právní chybu vyplývající z toho, že chce zároveň hájit srbský nárok na Kosovo.
+
+⚡ **Poznámka:** Právní výklad, že by se poválečné hranice SSSR měly vztahovat na dnešní Rusko jako jeho „právní nástupce" nezávisle na hranicích uznaných po rozpadu SSSR v roce 1991 (včetně Ukrajiny v tehdejších hranicích), neodpovídá platnému mezinárodnímu právu ani mezinárodně uznaným hranicím.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+---
+
+### Varování polskému prezidentu Nawrockému — riziko „potrestání" po skončení války (Vrabel, 8. 8. 2026)
+
+Polský prezident Karol Nawrocki deklaroval podporu Ukrajině a spolehnutí se na polskou pomoc — ruská mluvčí ministerstva zahraničí Maria Zacharovová na to reagovala obviněním z „klinické rusofobie" a připomenutím, že Polsko podle ní existuje díky Sovětskému svazu. Vrabel vzkazuje Nawrockému totéž, co dříve řekl osobně Vítu Rakušanovi (na mikrofon se ho ptal, zda se nebojí, co se dělalo nacistům po 2. světové válce) — odhaduje, že konflikt s „95% pravděpodobností" skončí ruským vítězstvím, a varuje, že se politici, kteří dnes veřejně šíří proti ruskou nenávist (opírá se přitom o tvrzení, že v konfliktu zemřelo již 100 000 Rusů), po skončení války mohou stát terčem vyhledávání, soudu a potrestání ze strany Ruska — se srovnáním k retribuci vůči nacistům po roce 1945.
+
+⚡ **Poznámka:** Odhad „95% pravděpodobnosti" ruského vítězství je Vrabelův osobní odhad, nikoli podložené vojenské hodnocení.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)

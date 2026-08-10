@@ -759,3 +759,11 @@ Irsko kvůli rostoucímu bezpečnostnímu napětí v Evropě plánuje nabrat tis
 Kraje podle libereckého hejtmana Martina Půty letos nedostanou ze Státního fondu dopravní infrastruktury žádné peníze na opravy silnic 2. a 3. třídy — poprvé od roku 2015; ministerstvo dopravy argumentuje, že kraje letos přesto dostanou přes 4 mld. Kč na konkrétní projekty, ale na nenárokové opravy krajských silnic už nezbyla rezerva, protože přednost mají investice do dálnic, silnic 1. třídy a železnic. Vrabel to sarkasticky spojuje s předchozí zprávou o odloženém zvýšení slevy na jízdné (50 % místo slíbených 75 %) — obojí čte jako důsledek přesměrování veřejných peněz na zbrojení a podporu Ukrajiny: opravené dálnice, silnice 1. třídy a železnice mají sloužit především k převozu tanků a vojenské techniky, zatímco krajské silnice, po kterých se technika nepřesouvá, zůstávají bez financí.
 
 **Zdroje:** [Vrabel — Zprávy v devět 7. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-8-2026)
+
+---
+
+### Dvojí metr v dodávkách zbraní — Německo se stydí, ČR se chlubí (Vrabel, 8. 8. 2026)
+
+Německý ministr obrany Boris Pistorius při návštěvě zbrojovky KNDS „nechtěně" prozradil, že samohybné houfnice RCH-155 jsou už nasazeny na Ukrajině — Berlín dodávky houfnic dosud z bezpečnostních důvodů tajil. Vrabel to kontrastuje s postojem ČR: zatímco velké Německo (80 mil. obyvatel) se bojí veřejně přiznat dodávky konkrétní zbraně, Česká republika naopak zbraně a munici pro Ukrajinu veřejně a hrdě prezentuje pod značkou „Česká muniční iniciativa" — místo aby se schovávala jako ostatní země, přebírá zodpovědnost i za státy, které se k dodávkám nechtějí přiznat. Označuje to za roli „užitečného hlupáka" a připomíná, že Andrej Babiš před volbami slíbil iniciativu zrušit, ale po zvolení ji zachoval s odůvodněním, že si to „partneři" žádají.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)

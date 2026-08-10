@@ -619,3 +619,11 @@ Boldy tvrdí, že ve světě koluje nový, médii zamlčovaný „zombie virus" 
 **Zdroje:** [Boldy — Videoportál 31. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
 
 ---
+
+### Skupování zemědělské půdy globálními investory — ČR jako nejhorší případ (Vrabel, 8. 8. 2026)
+
+K argentinským protestům proti návrhu vlády Javiera Milei uvolnit nákup zemědělské půdy zahraničními investory Vrabel srovnává tři přístupy: Srbsko zákonem zakazuje cizincům (fyzickým osobám) kupovat zemědělskou půdu — koupit ji můžou jen firmy podnikající v Srbsku. Argentina se podle něj chystá jít krok dál a půdu zahraničním investorům prodávat. Za nejhorší ale označuje situaci v ČR, kde zahraniční investoři (jmenuje Billa Gatese jako jednoho z největších světových vlastníků zemědělské půdy) skupují půdu bez zákonné ochrany a bez jakéhokoli veřejného odporu — na rozdíl od Argentiny, kde lidé aspoň vyšli do ulic.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+---

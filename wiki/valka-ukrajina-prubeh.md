@@ -875,3 +875,19 @@ Ukrajina znovu útočila na sklad Wildberries, ruskou leteckou základnu a rafin
 **Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
 
 ---
+
+### Ukrajina jako „kartonová demokracie" — zrušené protesty, vraždění na frontě (Vrabel, 8. 8. 2026)
+
+Ke zprávě o zrušení kyjevského kanálu, který informoval o demonstracích, a předvolávání aktivistů k úřadům (termín „kartonová demokracie" — formálně zachované instituce bez reálného fungování) Vrabel odmítá, že by na Ukrajině vůbec existovala jakákoli demokracie: Zelenskyj už dva roky vládne bez mandátu, parlament je jednostranný, politická opozice byla zlikvidována (kdo neutekl, byl zavřen nebo poslán na frontu), zahraniční média byla zablokována a domácí musí informovat jednotně podle rozhodnutí státní komise. Popisuje násilné odvody — lidi vytahují z auta na ulici bez odvodového lístku, posílají do výcvikových táborů, okrádají o bankovní karty a doklady, a v dokumentovaných případech i zastřelili ty, kdo se snažili utéct nebo odmítli vydat karty. K nedávným demonstracím za návrat ministra obrany Fedorova do funkce dodává, že je stejně „stupidní" volat po konkrétní personální otázce jako po skutečné demokracii, kterou si Ukrajinci (podobně jako Češi) nechali vzít výměnou za příběh, že protesty „nemají smysl".
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+---
+
+### Elon Musk odmítl Starlink pro útoky hluboko na ruské území (Vrabel, 8. 8. 2026)
+
+Elon Musk/SpaceX odmítli umožnit ukrajinské armádě používat satelitní systém Starlink (klíčový komunikační nástroj, na kterém jsou operační centra bez alternativy zcela závislá) k útokům hluboko na ruské území — služba zůstává povolena jen na území Ukrajiny včetně Donbasu a Luhanska. Vrabel zdůrazňuje, že Musk podle něj nejedná samostatně, ale na základě rozhodnutí Pentagonu/Trumpovy administrativy, a nabízí dvě interpretace: buď se USA snaží z konfliktu fakticky stáhnout (protože vidí, že Ukrajina vojensky prohrává), nebo chtějí zodpovědnost za boj s Ruskem přesunout na Evropu. Cituje Trumpovo prohlášení, že USA „jsou za mořem" a nemají s ruským postupem velký problém — což čte jako vzkaz pro Evropu, že se musí o vlastní obranu postarat sama, čímž zmizí vojenská rovnováha sil vůči Rusku, kterou dosud garantovala americká účast.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+---

@@ -512,6 +512,10 @@ Bývalý maďarský ministr zahraničí Péter Szijjártó (dlouholetý spolupra
 
 **Zdroje:** [Vrabel — Facebook Live 15. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-7-2026)
 
+**8. 8.** — Vrabel navazuje dvěma zprávami. Za prvé: maďarská vládní strana Tisza (vedená Péterem Magyarem) nominovala bývalého předsedu Nejvyššího soudu Andráse Baku na prezidenta republiky namísto toho, aby nechala dosluhujícího prezidenta dokončit ústavní mandát a vypsala řádné volby — Vrabel to označuje za „totalitní" praktiku obcházení dělby moci, nezávisle na osobních kvalitách kandidáta. Za druhé: samotný Szijjártó nyní čelí vyšetřování z přijetí úplatku (hrozí až 3 roky) poté, co rezignoval na mandát a přišel o imunitu — Vrabel to srovnává s vlastním stíháním (21 řízení, které skončilo podmínkou za formální chybu v covidové dotaci), s Marine Le Pen (zneužití evropských peněz pro asistenty) a Donaldem Trumpem — jako typický vzorec kriminalizace poražené opozice po převzetí moci, s cílem podle něj dostat Viktora Orbána „za mříže".
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
 ---
 
 ### Zetor přesouvá výrobu z ČR kvůli Green Dealu — Rajchl slibuje tvrdý boj proti EU (Rajchl, 14. 7. 2026)

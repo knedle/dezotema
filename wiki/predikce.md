@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Rusko vyhraje válku na Ukrajině s „95% pravděpodobností" (8. 8. 2026)
+
+**Předpověď:** V souvislosti s kritikou polského prezidenta Nawrockého Vrabel odhaduje, že konflikt na Ukrajině „s 95% pravděpodobností" skončí ruským vítězstvím — na rozdíl od narativu, že je Rusko „zahnané do kouta" a prohrává. Tvrdí, že fronta jednoznačně postupuje směrem ke Kyjevu a že ukrajinské úspěchy jsou omezeny na ojedinělé teroristické údery, nikoli vojenský postup.
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+
+---
+
 ### Ladislav Vrabel — cena zlata a stříbra po dokončení výprodeje „papírového" zlata prudce vzroste (6. 8. 2026)
 
 **Předpověď:** Vrabel tvrdí, že Čína zakázala obchodování s „papírovým zlatem" (nekrytým fyzickým kovem) a nechává obchodovat jen fyzické zlato na burze v Šanghaji; podobně JP Morgan a další západní centrální banky už půl roku vyprodávají své papírové zásoby zlata a stříbra, aby uměle udržely nízkou cenu, dokud si samy nenakoupí dostatek fyzického kovu. Až tento proces skupování dokončí, očekává, že cena zlata a stříbra „půjde velmi silně nahoru" — doporučuje to jako tip pro dlouhodobé investory.
