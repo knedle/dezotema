@@ -158,6 +158,14 @@ Adam Šejna u příležitosti výročí Prague Pride odmítá adopci dětí stej
 
 ---
 
+### Dvojí metr policie u Prague Pride — tolerance nahoty na veřejnosti (Šejna, 10. 8. 2026)
+
+Šejna tvrdí, že se na Prague Pride pohybovali lidé oblečení jen ve spodním prádle, a osobně se na to ptal přítomných policistů — pouze dva mu z „velkého množství" oslovených přiznali, že jde o přestupek, ale že dostali pokyny nezasahovat a nechat to na Pride „v pořádku"; ostatní odmítli komunikovat a odkázali ho na tiskovou mluvčí. Doplňuje pozorování muže tančícího na Václavském náměstí „prakticky striptýz" v průvodu. Slibuje zveřejnit záznam s policisty následující den (s utajenou identitou).
+
+**Zdroje:** [Restart Česko — Videoportál 10. 8. 2026](_zdroje.md#restart-česko--videoportál-10-8-2026)
+
+---
+
 ### Britská studie blokátorů puberty u dětí — „nejvíc kriminální věc na světě" (Vrabel, 3. 8. 2026)
 
 Britský Nejvyšší soud zamítl právní námitku aktivistů a umožnil pokračování klinické studie Pathways (King's College London), která má od 1. srpna zařadit více než 220 dětí ve věku 11–16 let do testování účinků blokátorů puberty u mladistvých zpochybňujících své pohlaví. Vrabel to označuje za jednu z „nejvíc kriminálních" věcí na světě — argumentuje, že děti jsou snadno manipulovatelné, blokátory a hormony jsou celoživotně bolestivé a rozhodnutí učiněné v dětství může vést k hluboké lítosti a depresi v dospělosti. Kritizuje i praxi „dnů tolerance" na školách (včetně Německa), kde si děti zkoušejí opačné genderové role a kde je jim ze strany neziskových organizací sugerováno, že pokud se tak cítí, neměly by se stydět se k tomu přiznat — což podle něj u části dětí vyvolá zbytečné dlouhodobé zmatení identity.

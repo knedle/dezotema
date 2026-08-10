@@ -3732,3 +3732,12 @@
 - **Délka:** 00:03:06 | Zhlédnutí: 6 670
 - **Poznámka:** Zpracováno 1 téma: migrační pakt a Ceuta — čl. 57, komise 15. 10., „salámová metoda" u výjimky ČR, tvrzení o financování Sea Watch/CI/SOS Humanity — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (10. 8. 2026) {#restart-česko--videoportál-10-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-10_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1085108424042535>
+- **Datum záznamu:** 2026-08-10
+- **Délka:** 00:00:28 | Zhlédnutí: 15 685
+- **Poznámka:** Zpracováno 1 téma: dvojí metr policie u Prague Pride (tolerance nahoty na veřejnosti) — [rodina-deti.md](rodina-deti.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

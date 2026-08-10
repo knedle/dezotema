@@ -26,6 +26,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Bohoslužba za Prague Pride v kostele jako „pošlapávání křesťanské víry" — [2. 8.](../_zdroje.md#restart-česko--videoportál-2-8-2026) (opakováno [2. 8.](../_zdroje.md#restart-česko--videoportál-2-8-2026-2))
 - Odmítá adopci dětí stejnopohlavními páry (argument vyváženosti výchovy) — [4. 8.](../_zdroje.md#adam-šejna--adopce-stejnopohlavními-páry-4-8-2026)
 - Kritika státního financování Prague Pride — ohrožení morální výchovy dětí — [7. 8.](../_zdroje.md#restart-česko--videoportál-7-8-2026-1)
+- Dvojí metr policie u Prague Pride — tolerance nahoty na veřejnosti — [10. 8.](../_zdroje.md#restart-česko--videoportál-10-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 
