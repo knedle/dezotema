@@ -848,6 +848,16 @@ Zítko podal na krajské státní zastupitelství trestní oznámení na býval�
 
 ---
 
+### Bitcoinová kauza: údajný poměr Decroix a Havránka jako další „brněnská frajeřina ODS" (Zítko, 12. 8. 2026)
+
+Zítko na základě fotografií z polského lázeňského střediska Karpacz tvrdí, že mezi poslankyní Evou Decroix (ODS) a poslancem Jiřím Havránkem (ODS) probíhá milostný poměr — sestavuje neověřenou „časovou osu" od rozchodu Decroix s manželem (prosinec 2025) přes setkávání dvojice u kávového automatu ve Sněmovně až po společnou cestu do Karpacze v srpnu 2026. Poměr rámuje jako další doklad propojenosti „brněnské sítě" ODS kolem bitcoinové kauzy: připomíná, že Havránek loni navrhl osvobodit od daně zisky z kryptoměn nad 40 mil. Kč (viz [Bitcoinová kauza: detaily obžaloby, 4. 8.](#bitcoinová-kauza-detaily-obžaloby-a-rozšířený-okruh-podezřelých-zítko-4-8-2026)) a že Decroix jako koordinátorka kauzy dosadila Davida Uhlíře. Nově srovnává disproporci trestů: lékař Rát dostal 7 let za 7,5 mil. Kč úplatků, zatímco Blažkovi a spol. je navrhováno 6,5 roku za více než 100 miliard Kč.
+
+⚡ **Poznámka:** Tvrzení o poměru Decroix a Havránka je neověřitelná spekulace založená na fotografiích ze společné cesty, bez dalších důkazů.
+
+**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026)
+
+---
+
 ### Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko, 7. 8. 2026)
 
 Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) veřejně obvinil Zítka, že je „fízl" a že stojí za uvězněním Čermáka na základě policejní provokace z listopadu (výslech, při kterém policie o Čermákovi nic nezmínila). Zítko obvinění odmítá a v reakci předkládá vlastní teorii, že záznam Čermákova zadržení na polsko-české hranici je zfalšovaný — záběry osoby v policejní vestě nikdy nezachytily obličej zepředu, postava i chůze podle něj neodpovídají Čermákovi a osoby na videu viditelně čekají na pokyn kameramana, než se rozejdou. Uzavírá, že o Tušlovi coby obhájci přestal mít zájem poté, co Jindřich Rajchl veřejně oznámil, že bude Tušla zastupovat on.

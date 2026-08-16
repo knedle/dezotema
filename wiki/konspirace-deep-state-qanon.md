@@ -204,3 +204,11 @@ Zítko označuje finále mistrovství světa ve fotbale (Argentina–Španělsko
 **Zdroje:** [Pavel Zítko — Videoportál: MS ve fotbale finále 19. 7. 2026](_zdroje.md#pavel-zítko--videoportál-ms-ve-fotbale-finále-19-7-2026)
 
 ---
+
+### „Americké jubileum" 21. 9. 2026 — biblické znamení konce admirality law a nástupu QFS (Zítko, 12. 8. 2026)
+
+Zítko sdílí a schvaluje teorii navazující na jeho opakovanou tezi o QFS a opuštění „admirality law": 21. září 2026 (250. výročí USA, 5×50 let) odpovídá biblickému „jubilejnímu roku" (den smíření podle hebrejského kalendáře) a má symbolizovat definitivní konec starého finančního systému a nástup „systému založeného na aktivech". Jako doprovodná nebeská znamení uvádí zatmění Slunce (12. 8.), konjunkci šesti planet, roj Perseid a zatmění Měsíce (27.–28. 8.) — přechodné období má trvat od 13. 8. do 11. 9. 2026. Viz [predikce.md](predikce.md).
+
+**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026)
+
+---

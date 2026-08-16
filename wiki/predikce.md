@@ -12,6 +12,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — „Americké jubileum" 21. 9. 2026: konec starého finančního systému (12. 8. 2026)
+
+**Předpověď:** Zítko sdílí a schvaluje teorii, podle níž 21. září 2026 (250. výročí USA, biblické „jubileum") symbolizuje konec starého finančního systému („admirality law") a přechod ke „novému systému založenému na aktivech" (QFS). Přípravné období má probíhat od 13. 8. do 11. 9. 2026, jako nebeská znamení uvádí zatmění Slunce (12. 8.) a Měsíce (27.–28. 8.) a konjunkci šesti planet. Předpovídá, že ke změně dojde „letos", nikoli v nejisté budoucnosti.
+
+**Horizont:** 21. 9. 2026 (příprava od 13. 8. do 11. 9. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026)
+
+---
+
 ### Ladislav Vrabel — scénář cesty k mobilizaci v ČR: incident → uzavření hranic → odvody podle ročníků (9. 8. 2026)
 
 **Předpověď:** Vrabel popisuje explicitní scénář, jak podle něj bude vypadat cesta ČR k mobilizaci: zesilující zprávy o „ruských útocích" jsou přípravou narativu; dojde k nespecifikovanému incidentu, po kterém se vyhlásí stav ohrožení státu nebo válečný stav a uzavřou hranice; na frontě začne chybět dostatek vojáků, nejdřív se povolají aktivní zálohy a následně proběhne mobilizace podle vojenských ročníků.

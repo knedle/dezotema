@@ -3831,3 +3831,12 @@
 - **Délka:** 00:01:57 | Zhlédnutí: 4 182
 - **Poznámka:** Zpracováno 3 témata: euro jako vzdání se suverenity, Pavel a opozice „zaprodávají" republiku — [suverenita-eu.md](suverenita-eu.md); programovatelné digitální euro a Chat Control jako protiústavní, pokrytectví politiků — [digitalni-kontrola.md](digitalni-kontrola.md); média podporují „řízenou sebevraždu" vymýváním mozků — [media-propaganda.md](media-propaganda.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (12. 8. 2026) {#československo-tv2--videoportál-12-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-12_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=2939270353087641&_rdr>
+- **Datum záznamu:** 2026-08-12 (obsah odkazuje na vysílání z 11. 8.)
+- **Délka:** 01:36:49 | Zhlédnutí: 10
+- **Poznámka:** Většina obsahu (genocida/vakcinační holokaust, Fauci, ČT/Chudárek, Havel/korporace Česko, adrenochrom, volební podvody) je repeat již zdokumentovaných témat. Zpracováno 2 nová témata: predikce „Americké jubileum" 21. 9. 2026 (QFS, konec admirality law) — [predikce.md](predikce.md), [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md); bitcoinová kauza — údajný poměr Decroix a Havránka — [kauzy.md](kauzy.md). Bez stoch. teroru (repeat genocidy má stoch. teror již extrahovaný dříve).
+- **Zpracováno:** ano
