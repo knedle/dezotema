@@ -71,6 +71,14 @@ Rajchl kritizuje schválenou unijní regulaci Chat Control, která podle něj um
 
 ---
 
+### Programovatelné euro a Chat Control jako vzdání se suverenity — politici jsou v tom s EU (Šejna, 15. 8. 2026)
+
+Šejna popisuje digitální euro jako programovatelnou měnu: zatímco dnes stát u bankovních peněz vidí kolik jich člověk má, ale ne za co přesně platí, digitální euro by toto rozlišení smazalo a umožnilo „evropskému establishmentu" zakázat platbu komukoli, s kým nesouhlasí. K tomu přidává Chat Control, který označuje za „bezprecedentně protiústavní" — a upozorňuje na pokrytectví: čeští politici, kteří se ohledně Petra Pavla oháněli ústavou, Chat Control sami podpořili. Uzavírá, že v tomto procesu (spolu s odevzdáním práva veta, koruny a soukromí) nejde jen o EU, ale i o vlastní české politiky, kteří „zaprodávají" zemi. Navazuje na Rajchlovu kritiku Chat Control ze 14. 8. výše.
+
+**Zdroje:** [Šejna — Restart Česko: Videoportál, 15. 8. 2026](_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+
+---
+
 ### Kryptoměny: sledování státem a hrozba kvantových počítačů (Vrabel, 31. 5. 2026)
 
 Vrabel je opatrný vůči kryptoměnám ze dvou důvodů. Za prvé: státy zavedly povinnou identifikaci (KYC) při nákupu i prodeji — projekt, který začínal jako decentralizovaný nástroj svobody, se stává nástrojem centralizace a sledování. Za druhé: kvantové počítače mohou v budoucnu prolomit šifrovací bezpečnost kryptopeněženek, což při panice způsobí masové výprodeje a krádež velkých částek.

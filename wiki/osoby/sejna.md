@@ -31,6 +31,15 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 ### [Suverenita a EU](../suverenita-eu.md)
 
 - Boj proti „politicko-vojenské mafii", Green Dealu a von der Leyenové; mobilizace k eurovolbám 2029 — [31. 7.](../_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026)
+- Euro jako vzdání se svobody, Pavel a opozice „zaprodávají" republiku — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md)
+
+- Programovatelné digitální euro a Chat Control jako protiústavní; pokrytectví politiků, kteří Chat Control podpořili — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+
+### [Média a propaganda](../media-propaganda.md)
+
+- Média podporují „řízenou sebevraždu" (euro, Chat Control) vymýváním mozků — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -52,3 +61,4 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Danuše Nerudová | ❌ negativní | Kritizována za výrok o Turkovi jako „nulu"; označena za snížení se na nejnižší úroveň | 2026-07-28 | [Šejna](../_zdroje.md#adam-šejna--nerudová-o-turkovi-28-7-2026) |
 | Bára Štěpánková | ❌ negativní | Připomenut starší výrok o fotkách politiků s dětmi jako pokrytecký | 2026-07-31 | [Šejna](../_zdroje.md#adam-šejna--bára-štěpánková-pokrytectví-31-7-2026) |
 | Ursula von der Leyen | ❌ negativní | Spojována s Green Dealem a úpadkem síly EU | 2026-07-31 | [Šejna](../_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026) |
+| Petr Pavel | ❌ negativní | Netají se přáním zavést euro; součást „zaprodávání" republiky evropskému establishmentu | 2026-08-15 | [Šejna](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026) |

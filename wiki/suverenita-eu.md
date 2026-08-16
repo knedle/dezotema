@@ -126,6 +126,14 @@ Adam Šejna (Restart Česko) popisuje svůj politický boj jako vědomě nejist�
 
 ---
 
+### Euro jako vzdání se svobody — Petr Pavel a opozice „zaprodávají" republiku (Šejna, 15. 8. 2026)
+
+Šejna tvrdí, že Petr Pavel se netají přáním zavést v ČR euro a že v tom nejde sám — stejný postoj má podle něj i většina opozice. Vzdání se koruny rovná se dle jeho slov vzdání se svobody; politici tím podle něj zaprodávají republiku „evropskému establishmentu" (spolu s pravem veta a suverenitou obecně). Celý proces označuje za „řízenou sebevraždu" — navazuje na jeho tezi o digitálním euru a Chat Control (viz [Digitální kontrola](digitalni-kontrola.md#programovatelné-euro-a-chat-control-jako-vzdání-se-suverenity--politici-jsou-v-tom-s-eu-šejna-15-8-2026)).
+
+**Zdroje:** [Šejna — Restart Česko: Videoportál, 15. 8. 2026](_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"

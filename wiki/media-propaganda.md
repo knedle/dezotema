@@ -307,6 +307,14 @@ Rajchl znovu vyzval ke zrušení ČT a Českého rozhlasu: „Právě proto čes
 
 ---
 
+### Média jako podpora „řízené sebevraždy" — zavedení eura a Chat Control (Šejna, 15. 8. 2026)
+
+V souvislosti se svou kritikou zavedení eura a Chat Control (viz [Suverenita a EU](suverenita-eu.md#euro-jako-vzdání-se-svobody--petr-pavel-a-opozice-zaprodávají-republiku-šejna-15-8-2026)) Šejna tvrdí, že média v tomto procesu podporují politiky tím, že „vymývají mozky" lidem, aby si mysleli, že odevzdávání koruny, soukromí a suverenity evropskému establishmentu je „naprosto v pořádku".
+
+**Zdroje:** [Šejna — Restart Česko: Videoportál, 15. 8. 2026](_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+
+---
+
 ## ČT poplatky a omezování na sociálních sítích
 
 ### ČsTV2: kampaň za vrácení televizních poplatků od 12. 3. 2020 (7. 5. 2026)

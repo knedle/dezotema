@@ -3822,3 +3822,12 @@
 - **Délka:** 00:01:15 | Zhlédnutí: 6 506
 - **Poznámka:** Zpracováno 1 nové téma: Chat Control a bezhotovostní společnost jako nástroje totální kontroly, návrh ústavního ukotvení práva na hotovost — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Adam Šejna — Videoportál: euro a suverenita (15. 8. 2026) {#adam-šejna--videoportál-euro-a-suverenita-15-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-15_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1365131071833921>
+- **Datum záznamu:** 2026-08-15
+- **Délka:** 00:01:57 | Zhlédnutí: 4 182
+- **Poznámka:** Zpracováno 3 témata: euro jako vzdání se suverenity, Pavel a opozice „zaprodávají" republiku — [suverenita-eu.md](suverenita-eu.md); programovatelné digitální euro a Chat Control jako protiústavní, pokrytectví politiků — [digitalni-kontrola.md](digitalni-kontrola.md); média podporují „řízenou sebevraždu" vymýváním mozků — [media-propaganda.md](media-propaganda.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
