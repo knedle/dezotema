@@ -311,7 +311,7 @@ Navazuje na [Migrační pakt: Rakušan jediný z V4 pro (Rajchl, 12. 6.)](#migra
 
 **9. 8.** — Rajchl shrnuje dozvuky obou debat (úterní s Piráty zástupcem Samuelem Volpem, páteční s Ondřejem Kolářem). Volpe podle něj tvrdil, že Ceuta je součástí Schengenu (80 tisíc obyvatel), a když ho Rajchl opravil, za dvě minuty přiznal, že Ceuta má „jiný režim" a že Maročané „uvěřili dezinformaci" o jejím schengenském statusu. Kolář v debatě argumentoval, že vyjednávání o migraci na úrovni EU je „realizací přímé demokracie" — Rajchl to označuje za fatální neznalost základních politologických termínů u obou debatujících. Zopakoval i argument o rozsudku španělského Nejvyššího soudu z r. 2020 (zákaz deportace nezletilých bez doprovodu), který podle něj motivuje dospělé migranty vydávat se za nezletilé.
 
-**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
+**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026), [Rajchl — Videoportál: Volpe/Ceuta klip, 10. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-volpeceuta-klip-10-8-2026)
 
 ---
 

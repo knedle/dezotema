@@ -3786,3 +3786,12 @@
 - **Délka:** 01:53:40
 - **Poznámka:** Vrabel — nedělní speciál. Plně zpracováno 12 z 13 témat (vynechána podrobná rekonstrukce schůzky Vučič–Zelenskyj v Bělehradu, opakování/rozšíření již zpracovaného tématu): husitství/ateismus jako rámec, ohlášení shromáždění „Člověk na prvním místě" — [politicky-system.md](politicky-system.md); ceny elektřiny „1000% marže" — [ceny-energie.md](ceny-energie.md); „hadička"/privatizace 1997 — [konspirace.md](konspirace.md); EU LGBT agenda a Rearm Europe — [rodina-deti.md](rodina-deti.md); vlastní perzekuce po 2022 (Ústavní soud, Kryt) — [politicky-system.md](politicky-system.md); právo národa svrhnout vládu — [politicky-system.md](politicky-system.md); sociální sítě jako nástroj závislosti a manipulace — [digitalni-kontrola.md](digitalni-kontrola.md); posloupnost mobilizace a jaderný deštník s Francií — [valka-nato-rusko.md](valka-nato-rusko.md); kritika Okamury (frontu) — [valka-nato-rusko.md](valka-nato-rusko.md); likvidace Slovanů/Poláci další na řadě, teritoriální celistvost Ukrajiny vs. Kosovo — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md) — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (mobilizace, 2–3 roky války, Poláci další na řadě) a stochastický teror (Okamura na frontu) extrahovány bezvýjimečně.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Volpe/Ceuta klip (10. 8. 2026) {#jindřich-rajchl--videoportál-volpeceuta-klip-10-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-10_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1372992180989927>
+- **Datum záznamu:** 2026-08-10
+- **Délka:** 00:01:23 | Zhlédnutí: 70 849
+- **Poznámka:** Krátký klip debaty s Piráty zástupcem Samuelem Volpem o statusu Ceuty (součást EU, ne Schengenu) — stejná událost jako už shrnutá v [Facebook Live 9. 8.](#jindřich-rajchl--facebook-live-9-8-2026), beze změny doplněn jen jako zdroj — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
