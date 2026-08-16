@@ -522,7 +522,9 @@ Bývalý maďarský ministr zahraničí Péter Szijjártó (dlouholetý spolupra
 
 Výrobce malých traktorů Zetor po 80 letech definitivně končí s výrobou v Brně a přesouvá produkci do Asie (viz i [Vrabelův komentář ke stejné zprávě, 13. 7.](valka-nato-rusko.md)) — jde podle Rajchla o posledního výrobce malých traktorů, který v Evropě zůstal. Příčinou je dle něj Green Deal — „pomatená fanatická ideologie", která nijak nezlepšuje životní prostředí (globální uhlíková stopa se nezmění, výroba jen přechází jinam), ale slouží k obohacení západoevropských investičních a penzijních fondů, které profitují z obchodu s emisními povolenkami. Za stranu PRO deklaruje tvrdý a nekompromisní boj proti Green Dealu i proti Ursule von der Leyenové a jejímu vedení EU, pokud bude v prosazování této politiky pokračovat.
 
-**Zdroje:** [Rajchl — Videoportál 14. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-14-7-2026)
+**11. 8.** — Rajchl dává tutéž příčinnou dvojici (Green Deal, ukrajinská migrace) do souvislosti s aktuálním číslem: nezaměstnanost v ČR dosáhla 5 %, nejvyšší hodnoty od přelomu ledna a února 2017 (přes 9 let). Odmítá vysvětlení „odborníků" (např. nástup absolventů do zaměstnání) jako zamlčování skutečných příčin — znovu uvádí Zetor jako příklad firmy vyhnané z ČR vysokými cenami energií a přesun pracovních míst k ukrajinským migrantům na pozicích, o které by čeští občané měli zájem.
+
+**Zdroje:** [Rajchl — Videoportál 14. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-14-7-2026), [Rajchl — Videoportál 11. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-11-8-2026)
 
 ---
 

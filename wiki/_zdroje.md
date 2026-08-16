@@ -3795,3 +3795,12 @@
 - **Délka:** 00:01:23 | Zhlédnutí: 70 849
 - **Poznámka:** Krátký klip debaty s Piráty zástupcem Samuelem Volpem o statusu Ceuty (součást EU, ne Schengenu) — stejná událost jako už shrnutá v [Facebook Live 9. 8.](#jindřich-rajchl--facebook-live-9-8-2026), beze změny doplněn jen jako zdroj — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (11. 8. 2026) {#jindřich-rajchl--videoportál-11-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-11_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1839544563698160>
+- **Datum záznamu:** 2026-08-11
+- **Délka:** 00:02:28 | Zhlédnutí: 62 248
+- **Poznámka:** Nezaměstnanost 5 % (nejvyšší od 2017) jako důsledek Green Dealu a ukrajinské migrace — repeat příčinné argumentace (Zetor, „dvouocasá příšera") s novým aktuálním číslem, doplněno do [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

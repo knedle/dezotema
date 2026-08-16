@@ -84,6 +84,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **15. 7.** — SPD (s Okamurou) jednomyslně odmítá Mezinárodní komisi pro odškodnění Ukrajiny jako podvod EU — náklady nejdřív platí členské státy, Rusko až po dobrovolném přiznání viny (nereálné) — [Videoportál 15. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-15-7-2026)
 - **16. 7.** — neformální anketa mezi Chorvaty o euru — nikdo spokojen; psychologický efekt vnímaného 7násobného zdražení po přechodu z kuny — [Videoportál 16. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-16-7-2026)
 - **19. 7.** — Green Deal „highway to hell" (ETS1/2, RED3, EPBD4, Zetor), moratorium na větrníky „ani jednu", vazalské podmínky Dukovan, „válka s Bruselem" a příprava na odchod z EU (mandát jen ~13 %); Chorvatsko a euro = „konec Chorvatska"; predikce zhroucení Ukrajiny (Zelenskyj→Zalužný, mír u 90 % Doněcka) — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026) → [predikce.md](../predikce.md)
+- **11. 8.** — nezaměstnanost 5 % (nejvyšší od 2017) jako důsledek Green Dealu a ukrajinské migrace; opakuje Zetor a „dvouocasou příšeru" — [Videoportál 11. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-8-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
