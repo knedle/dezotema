@@ -854,7 +854,9 @@ Zítko na základě fotografií z polského lázeňského střediska Karpacz tvr
 
 ⚡ **Poznámka:** Tvrzení o poměru Decroix a Havránka je neověřitelná spekulace založená na fotografiích ze společné cesty, bez dalších důkazů.
 
-**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026)
+**15. 8.** — Zítko opakuje totéž tvrzení beze změny, doplňuje jen dohledaný čtyři roky starý komentář Decroix k Havránkovi jako „domnělý první náznak" a opakuje srovnání trestů Rát vs. Blažek.
+
+**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026), [Československo TV2 — Videoportál 15. 8. 2026](_zdroje.md#československo-tv2--videoportál-15-8-2026)
 
 ---
 

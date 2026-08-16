@@ -458,7 +458,9 @@ Peková z těchto nálezů vyvozuje systémové utajování složení vakcín a 
 
 ⚡ **Konflikt:** Regulační orgány (EMA, SUKL) přítomnost nedeklarovaných látek ani grafenu v schválených šaržích nepotvrdily; vědecký konsensus tyto nálezy nepřijímá.
 
-**Zdroje:** [ČsTV2 — Beseda Zlaté Moravce 14. 5. 2026](_zdroje.md#československo-tv2--beseda-zlaté-moravce-14-5-2026)
+**15. 8.** — Zítko rozšiřuje tvrzení o grafenu i na zubařskou anestezii (oxid grafenu údajně zjištěn v umrtvovadlech) — beze změny argumentace, jen nový produkt.
+
+**Zdroje:** [ČsTV2 — Beseda Zlaté Moravce 14. 5. 2026](_zdroje.md#československo-tv2--beseda-zlaté-moravce-14-5-2026), [ČsTV2 — Videoportál 15. 8. 2026](_zdroje.md#československo-tv2--videoportál-15-8-2026)
 
 ---
 

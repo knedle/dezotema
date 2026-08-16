@@ -3849,3 +3849,12 @@
 - **Délka:** 00:22:23 | Zhlédnutí: 349
 - **Poznámka:** Celý repeat usnesení Krajského soudu v Ústí nad Labem (6. 8., „virus nebyl izolován") v reakci na slovenský hejtrský kanál zpochybňující pravost citace — beze změny textu, jen doplněn zdroj v [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (15. 8. 2026) {#československo-tv2--videoportál-15-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-15_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1455900336372216&_rdr>
+- **Datum záznamu:** 2026-08-15 (obsah odkazuje na vysílání z 14. 8.)
+- **Délka:** 01:51:44 | Zhlédnutí: 79
+- **Poznámka:** Celý repeat už zdokumentovaných témat (genocida/vakcinační holokaust, Fauci, Havel/korporace Československo, volební podvody, Měsíc, ČT/Moravec, bitcoinová kauza Decroix/Havránek), zabalený do textu „25 vyznání šelmy". Beze změny, jen doplněny zdroje — [covid-vakciny.md](covid-vakciny.md) (grafen v anestezii), [kauzy.md](kauzy.md) (Decroix/Havránek). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
