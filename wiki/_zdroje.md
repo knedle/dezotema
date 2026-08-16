@@ -3804,3 +3804,12 @@
 - **Délka:** 00:02:28 | Zhlédnutí: 62 248
 - **Poznámka:** Nezaměstnanost 5 % (nejvyšší od 2017) jako důsledek Green Dealu a ukrajinské migrace — repeat příčinné argumentace (Zetor, „dvouocasá příšera") s novým aktuálním číslem, doplněno do [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (13. 8. 2026) {#jindřich-rajchl--videoportál-13-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-13_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/4569937823287625>
+- **Datum záznamu:** 2026-08-13
+- **Délka:** 00:02:01 | Zhlédnutí: 18 575
+- **Poznámka:** Doplnění ke kauze Majdanňuk (9. 8.): srovnání s podmínkou za komentář o Zuzaně Černé a konkrétní srovnávací tresty (30/18/11 let) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

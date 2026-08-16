@@ -862,4 +862,6 @@ Rajchl kritizuje rozsudek krajského soudu, který Ukrajinci Alexandrovi Majdan�
 
 ⚡ **Poznámka:** Konkrétní jméno a detaily případu (Majdanňuk) nelze ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
+**13. 8.** — Rajchl (přebíraje video TikTok kanálu @pro.cesko) dodává nové srovnání: člověk odsouzený „v pátek" za výhružný komentář k jeho příspěvku o Zuzaně Černé dostal stejnou podmínku jako Majdanňuk za pokus o vraždu zápalnou lahví. Uvádí i konkrétní srovnávací tresty za podobné útoky v ČR (30, 18, 11 let vězení), oproti nimž je Majdanňukova podmínka nepoměrná.
+
+**Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026), [Rajchl — Videoportál 13. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-13-8-2026)
