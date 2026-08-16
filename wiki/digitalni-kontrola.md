@@ -63,6 +63,14 @@ V reakci na schválení pozice Evropského parlamentu k digitálnímu euru (výb
 
 ---
 
+### Chat Control a bezhotovostní společnost jako nástroje totální kontroly — ústavní ukotvení hotovosti (Rajchl, 14. 8. 2026)
+
+Rajchl kritizuje schválenou unijní regulaci Chat Control, která podle něj umožňuje číst i nedokončené, nikdy neodeslané zprávy rozepsané v aplikacích jako Messenger nebo WhatsApp a z jejich obsahu vyvozovat trestní řízení. Ptá se, kdo má zájem na tom, takto občany „šmírovat". Propojuje to s tezí o postupném rušení fyzických peněz: placení hodinkami, telefonem nebo kartou je záměrně prosazováno, protože každá taková platba je sledovatelná — stát díky ní ví, kam člověk jezdí, kde a kolik tankuje, co kupuje a jaké má životní návyky. Strana PRO proto chce zakotvit právo platit hotovostí a českou korunou přímo do Ústavy.
+
+**Zdroje:** [Rajchl — Videoportál 14. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-14-8-2026)
+
+---
+
 ### Kryptoměny: sledování státem a hrozba kvantových počítačů (Vrabel, 31. 5. 2026)
 
 Vrabel je opatrný vůči kryptoměnám ze dvou důvodů. Za prvé: státy zavedly povinnou identifikaci (KYC) při nákupu i prodeji — projekt, který začínal jako decentralizovaný nástroj svobody, se stává nástrojem centralizace a sledování. Za druhé: kvantové počítače mohou v budoucnu prolomit šifrovací bezpečnost kryptopeněženek, což při panice způsobí masové výprodeje a krádež velkých částek.

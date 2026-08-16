@@ -3813,3 +3813,12 @@
 - **Délka:** 00:02:01 | Zhlédnutí: 18 575
 - **Poznámka:** Doplnění ke kauze Majdanňuk (9. 8.): srovnání s podmínkou za komentář o Zuzaně Černé a konkrétní srovnávací tresty (30/18/11 let) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (14. 8. 2026) {#jindřich-rajchl--videoportál-14-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-14_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2266080790882752>
+- **Datum záznamu:** 2026-08-14
+- **Délka:** 00:01:15 | Zhlédnutí: 6 506
+- **Poznámka:** Zpracováno 1 nové téma: Chat Control a bezhotovostní společnost jako nástroje totální kontroly, návrh ústavního ukotvení práva na hotovost — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano

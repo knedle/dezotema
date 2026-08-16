@@ -157,6 +157,9 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 
+### [Digitální kontrola](../digitalni-kontrola.md)
+- **14. 8.** — Chat Control a bezhotovostní společnost jako nástroje totální kontroly; návrh ústavního ukotvení práva na hotovost — [Videoportál 14. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-14-8-2026)
+
 
 ---
 
