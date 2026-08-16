@@ -541,7 +541,9 @@ Zítko líčí dosavadní průběh svého trestního stíhání za „šíření
 
 ⚡ **Poznámka:** Tvrzení o obsahu usnesení Krajského soudu v Ústí nad Labem nelze ověřit z veřejně dostupných zdrojů — stejná výhrada jako u dříve citovaného dokumentu OS Chomutov výše.
 
-**Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026), [ČsTV2 — Videoportál 6. 8. 2026](_zdroje.md#československo-tv2--videoportál-6-8-2026)
+**14. 8.** — Zítko reaguje na slovenský „hejtrský" kanál (Fidliboy z Trenčína), který v anketě zpochybnil pravost jeho čtení usnesení, a znovu doslovně cituje tytéž pasáže (bod 5, „ono ani nemohla, neboť dosud izolován nebyl") jako důkaz, že jde o autentický text soudu, ne jeho výmysl — beze změny oproti 6. 8.
+
+**Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026), [ČsTV2 — Videoportál 6. 8. 2026](_zdroje.md#československo-tv2--videoportál-6-8-2026), [ČsTV2 — Videoportál 14. 8. 2026](_zdroje.md#československo-tv2--videoportál-14-8-2026)
 
 ---
 

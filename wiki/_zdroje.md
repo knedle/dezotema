@@ -3840,3 +3840,12 @@
 - **Délka:** 01:36:49 | Zhlédnutí: 10
 - **Poznámka:** Většina obsahu (genocida/vakcinační holokaust, Fauci, ČT/Chudárek, Havel/korporace Česko, adrenochrom, volební podvody) je repeat již zdokumentovaných témat. Zpracováno 2 nová témata: predikce „Americké jubileum" 21. 9. 2026 (QFS, konec admirality law) — [predikce.md](predikce.md), [konspirace-deep-state-qanon.md](konspirace-deep-state-qanon.md); bitcoinová kauza — údajný poměr Decroix a Havránka — [kauzy.md](kauzy.md). Bez stoch. teroru (repeat genocidy má stoch. teror již extrahovaný dříve).
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (14. 8. 2026) {#československo-tv2--videoportál-14-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-14_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=2224593384748551&_rdr>
+- **Datum záznamu:** 2026-08-14
+- **Délka:** 00:22:23 | Zhlédnutí: 349
+- **Poznámka:** Celý repeat usnesení Krajského soudu v Ústí nad Labem (6. 8., „virus nebyl izolován") v reakci na slovenský hejtrský kanál zpochybňující pravost citace — beze změny textu, jen doplněn zdroj v [covid-vakciny.md](covid-vakciny.md). Bez predikcí a stoch. teroru.
+- **Zpracováno:** ano
