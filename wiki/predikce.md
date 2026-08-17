@@ -22,6 +22,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — Babiš potichu podepíše dohodu o francouzském jaderném deštníku (14. 8. 2026)
+
+**Předpověď:** Vrabel předpovídá, že Andrej Babiš „potichu", bez veřejné debaty, podepíše dohodu s Francií o rozmístění francouzských jaderných zbraní (nosičů Rafale se střelami ASMPA) na území ČR výměnou za přístup k výhodám jednotného evropského trhu podobně jako navrhovaná britsko-unijní dohoda — možná dříve, než se stihne uskutečnit ohlášené veřejné shromáždění „Člověk na prvním místě" (3. 10. 2026).
+
+**Horizont:** před 3. 10. 2026 nebo krátce po (neurčeno přesně)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+
+---
+
 ### Ladislav Vrabel — AFD v Německu skončí jako SPD v ČR — silné řeči bez skutečné změny (13. 8. 2026)
 
 **Předpověď:** Vrabel odhaduje více než 75% pravděpodobnost, že německá AFD (podobně jako Marine Le Pen ve Francii nebo Nigel Farage v Británii), i přes současné vedení v předvolebních průzkumech, po případném zvolení nedodrží svá suverenistická hesla a skončí podobně jako SPD v ČR — silné řeči bez reálné politické změny.

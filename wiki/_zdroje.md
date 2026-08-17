@@ -3850,6 +3850,15 @@
 - **Poznámka:** Doplnění ke kauze Majdanňuk (9. 8.): srovnání s podmínkou za komentář o Zuzaně Černé a konkrétní srovnávací tresty (30/18/11 let) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět (14. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-14-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-14_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/940931562378440>
+- **Datum záznamu:** 2026-08-14
+- **Délka:** 01:09:47
+- **Poznámka:** Vrabel — deník (dlouhé páteční video, natočeno z auta cestou na festival). Plně zpracováno 5 z 15 témat: požáry/drony jako příprava „false flag" narativu + Tucker Carlson — [valka-nato-rusko.md](valka-nato-rusko.md); Catherine Austin Fitts — USA potřebují válku kvůli dolaru — [valka-nato-rusko.md](valka-nato-rusko.md); Lavrov přitvrzuje, plán vyždímat/zdevastovat Evropu — [valka-nato-rusko.md](valka-nato-rusko.md); Conor Kennedy na ruském seznamu hledaných — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); zbytek (ministr Zuna/2% HDP, audit F-35, výbuch KNDS Itálie, Japonsko/Kurily, Británie/jaderný deštník, EU obaly, ukrajinské obilí, generál Grynkewich, USA popravy) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Babiš podepíše francouzský jaderný deštník) extrahována bezvýjimečně; bez stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (14. 8. 2026) {#jindřich-rajchl--videoportál-14-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-14_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

@@ -935,3 +935,11 @@ Elon Musk/SpaceX odmítli umožnit ukrajinské armádě používat satelitní sy
 **Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
 
 ---
+
+### Conor Kennedy na ruském seznamu hledaných za boj na straně Ukrajiny — spekulace o „mentálním poškození" rodiny (Vrabel, 14. 8. 2026)
+
+Rusko zařadilo na mezinárodní seznam hledaných osob 32letého Conora Kennedyho, syna amerického ministra zdravotnictví Roberta F. Kennedyho juniora, za jeho účast v ukrajinské cizinecké legii (dle vlastních dřívějších výpovědí bojoval několik měsíců v Charkovské oblasti v roce 2022) — v nepřítomnosti mu hrozí až 10 let vězení, Moskva stíhá obdobně i další zahraniční dobrovolníky na straně Ukrajiny. Vrabel se pozastavuje nad tím, že syn vysoce postavené americké politické rodiny veřejně přizná boj za „fašistický režim" Zelenského i s odstupem let, kdy je už podle něj každému jasné, oč v konfliktu jde — a spekuluje (s odkazem na vyjádření svého známého lékaře, který doprovázel RFK Jr. na jednu z jeho akcí) o možném „mentálním poškození" v rodině, případně psychosomatických následcích atentátu na prezidenta Johna F. Kennedyho. Srovnává Conora Kennedyho co do „hlouposti" s českým europoslancem Filipem Turkem.
+
+**Zdroje:** [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+
+---

@@ -78,7 +78,9 @@ Na dotaz, zda by preventivní ruský jaderný úder nebyl „menší zlo" než t
 
 K týdnu navíc: Ukrajina otestovala ~10 **dronů řízených výhradně umělou inteligencí** (bez operátora), které samy zabíjely ruské vojáky — Vrabel to sarkasticky komentuje („sláva Ukrajině") jako „poprvé v historii stroj zabíjí lidi bez člověka"; připomíná továrnu Erika Trumpa na robotická zařízení s AI a dohodu se Zelenským testovat je na Ukrajině.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026)
+**14. 8.** — Vrabel rozvíjí tutéž tezi do podoby ucelené „false flag" teorie: každodenní zprávy o záhadných výbuších v rafinériích a zbrojovkách, požárech po celé Evropě a dronech narušujících vzdušný prostor (Rumunsko, Lotyšsko) interpretuje jako přípravu veřejného mínění na okamžik, kdy bude možné říct „už je to tady" — tedy jako needukovanou munici pro budoucí ospravedlnění protiruské eskalace, nikoli nesouvisející náhodné incidenty (odkazuje na svou tezi o [koordinovaných útocích na energetickou infrastrukturu](konspirace.md#koordinované-útoky-na-energetickou-infrastrukturu-po-celém-světě-vrabel-opakovaně-naposledy-13-8-2026)). Cituje souhlasně komentátora Tuckera Carlsona, který ve vysílání u Ricka Sancheze tvrdí, že ukrajinské útoky na ruské území mají za cíl vyprovokovat Moskvu k odpovědi na území členského státu NATO (hypersonický úder na Varšavu nebo Hamburk, případně taktická jaderná zbraň) — což by otevřelo přímý konflikt Rusko–NATO. Vrabel to ilustruje vlastní metaforou „velkého Pepíka", který postrkuje „malého Karla" (Ukrajinu) do rvačky s většími kluky, dokud ti nakonec neuhodí přímo Pepíka — a předpovídá, že jakmile Rusko napadne členskou zemi NATO/EU, je třeba okamžitě „mazat" z EU nejlépe do vojensky neutrálního Srbska, protože poté už státy uzavřou hranice a vyhlásí stav ohrožení.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026), [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
 
 ---
 
@@ -996,3 +998,19 @@ Vrabel popisuje vlastní odhad, jak by podle něj vypadala cesta ČR k mobilizac
 > „Za dva dny jsem v Srbsku. V jediné vojensky neutrální zemi, která do té války nepůjde." — Ladislav Vrabel, [Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
 
 **Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### Catherine Austin Fitts: USA potřebují pokračování války na Ukrajině kvůli dolarové dominanci (Vrabel, 14. 8. 2026)
+
+Americká investiční bankéřka a bývalá vládní úřednice Catherine Austin Fitts (Vrabel s ní referuje o osobním setkání) tvrdí, že Spojené státy potřebují udržet konflikt na Ukrajině v chodu kvůli zachování globálního postavení dolaru jako rezervní měny a kontroly nad světovým finančním systémem — někteří představitelé amerického establishmentu jsou dle ní kvůli tomuto zájmu ochotni jít do extrémních kroků. Vrabel odkazuje na společné video s Tuckerem Carlsonem (zveřejněné s titulky na jeho Facebooku) jako doklad této teze.
+
+**Zdroje:** [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+
+---
+
+### Lavrov: Rusko „přitvrdí" proti všemu, co ze Západu živí ukrajinské válečné úsilí — Vrabel: plán vyždímat a zdevastovat Evropu (Vrabel, 14. 8. 2026)
+
+Ruský ministr zahraničí Sergej Lavrov v rozhovoru pro ruskou státní televizi oznámil, že Moskva použije „mnohem tvrdší metody", aby zničila vše, co ze Západu živí „kyjevskou válečnou mašinu", a odmítl zastavit boje jinak než dosažením dlouhodobého a udržitelného řešení konfliktu. Vrabel to popisuje jako logické vyústění dlouhodobého „houpání" Ruska Západem (odmítnutí přijetí do NATO, nedodržované Minské dohody — dle Angely Merkelové sloužily jen k vyzbrojení Ukrajiny, zdržování po summitu na Aljašce Marcem Rubiem) a předpovídá další eskalaci ze strany Ruska. Spojuje to s tezí, že USA se snaží z konfliktu formálně „vycouvat" (Elon Musk odpojuje Ukrajině Starlink) nikoli proto, aby přestaly být zapojené, ale aby na financování dozbrojení dotlačily výhradně Evropu (Trump žádá po EU zaplatit 300 mld. dolarů za Bidenovu vojenskou pomoc Ukrajině) a nechaly ji „vyždímat" a případně i vojensky zdevastovat, zatímco USA by si zachovaly roli vítězné mocnosti. Dodává otevřenou nejistotu, do jaké míry je i vedení Ruska a Číny skutečně suverénní, nebo součástí téže globalistické struktury (Chabad-Lubavič vliv v Rusku) — po vlastní zkušenosti s Trumpem a českými politiky odmítá „dát ruku do ohně" za jakéhokoli politika, že bojuje za suverenitu, byť cituje srbského režiséra Emira Kusturicu, že v Rusku se bojuje „za zbytky normálního světa".
+
+**Zdroje:** [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)

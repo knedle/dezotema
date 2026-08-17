@@ -668,6 +668,14 @@
 ### [Politický systém](../politicky-system.md) (pokrač. 3)
 - **13. 8.** — Jediná reálná cesta proti Agendě 2030 jsou protesty, ne volby; sebereflexe k roku 2022 a predikce osudu AFD — [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
 
+### [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md) (pokrač. 6)
+- **14. 8.** — Požáry/drony jako příprava „false flag" narativu; Tucker Carlson o provokaci Ruska k útoku na členský stát NATO — [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+- **14. 8.** — Catherine Austin Fitts: USA potřebují válku na Ukrajině kvůli dolarové dominanci — [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+- **14. 8.** — Lavrov přitvrzuje; plán vyždímat a zdevastovat Evropu — [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 6)
+- **14. 8.** — Conor Kennedy na ruském seznamu hledaných; spekulace o „mentálním poškození" rodiny Kennedy — [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1037,6 +1045,10 @@
 | Marek Novák | ✅ pozitivní | Poslanec vládního hnutí, terč falešného úmrtního parte na sociálních sítích — chválen jako jediný politik, který splnil slib a prosazoval prohlášení Landsmannschaftu za extremistickou organizaci | 2026-08-11 | [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026) |
 | Friedrich Merz | ❌ negativní | Německý kancléř označen za bývalého šéfa představenstva BlackRock Deutschland — „absolutní globalista", nehájící německé zájmy; reforma zpravodajských služeb pod jeho vládou míří proti AFD | 2026-08-13 | [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026) |
 | Petr Bystroň | ✅ pozitivní | Europoslanec AFD, osobní kamarád Vrabela (společně strávený čas v Praze i Bělehradě) — líčen jako terč šikany německých tajných služeb (šest domovních prohlídek), srovnáváno s vlastním pronásledováním | 2026-08-13 | [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026) |
+| Tucker Carlson | ✅ pozitivní | Souhlasně citován s teorií, že Ukrajina provokuje Rusko k útoku na členský stát NATO; oceňován za rétoriku blízkou vlastnímu „člověk na prvním místě" | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
+| Catherine Austin Fitts | ✅ pozitivní | Americká investiční bankéřka, osobní známá Vrabela — citována jako autorita na tezi, že USA potřebují válku na Ukrajině kvůli dolarové dominanci | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
+| Conor Kennedy | ❌ negativní | Syn RFK Jr. na ruském seznamu hledaných za boj na Ukrajině — označen za „imbecila", spekulace o mentálním poškození rodiny | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
+| Filip Turek | ❌ negativní | Srovnáván s Conorem Kennedym co do „hlouposti"; označen za sadistu bijícího partnerky a zastánce eskalace vůči Rusku | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
 
 ---
 
@@ -1143,3 +1155,4 @@
 - [Zprávy v devět (11. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
 - [Zprávy v devět (12. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 - [Zprávy v devět (13. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+- [Zprávy v devět (14. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
