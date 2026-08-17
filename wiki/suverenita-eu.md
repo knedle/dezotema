@@ -478,6 +478,14 @@ Rajchl (5. 7.) i Vrabel (5. 7.) na totéž oznámení reagují nezávisle na sob
 
 ---
 
+### Komise „neumí spočítat" úroky z půjčky 90 mld. eur Ukrajině — Vrabel nabízí výpočet (11. 8. 2026)
+
+Podle deníku Berliner Zeitung Evropská komise v odpovědi na dotaz europoslance Fabia De Masiho uvedla, že v současnosti nedokáže určit, kolik bude EU stát úhrada úroků z plánovaného úvěru 90 mld. eur pro Ukrajinu, ani zda na to bude v rozpočtu na rok 2027 dost prostředků; De Masi zároveň vyjádřil obavu, že část peněz skončí u zkorumpovaných oligarchů. Vrabel připomíná, že o tomto problému mluví od prosince 2025, kdy Andrej Babiš v Evropské radě odsouhlasil půjčku s odůvodněním, že „Česká republika za ni neručí" — což je podle Vrabela zavádějící: ručení se týká jen případu krachu EU, jinak úroky i jistinu (Ukrajina ji dle něj nikdy nesplatí) platí členské státy z rozpočtu, tedy běžní občané. Vrabel zpřesňuje svůj prosincový odhad úrokové sazby (do 4 %) na cca 3,35 % a nabízí Komisi výpočet nákladů zdarma.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+
+---
+
 ### Trump nevnímá EU jako relevantního partnera — ekonomická slabost, Green Deal a migrace (Rajchl, 7. 7. 2026)
 
 Na CNN Prima News Rajchl hodnotí vztah Trumpovy administrativy k EU: Donald Trump vnímá Evropskou unii jako velmi slabého partnera, kritického zejména vůči tomu, co v Bruselu nazývá „dvouocasou příšerou" — Green Dealu a migraci. Cituje J. D. Vance, který prohlásil, že největší nepřítel v tuto chvíli nesedí v Moskvě, ale v Bruselu, protože brusel jedná proti vlastním občanům. Trump podle Rajchla posuzuje partnery primárně podle ekonomické síly — příkladem je jeho cesta do Číny s rozsáhlou podnikatelskou delegací, přestože čínská ekonomika sama „ekonomicky dodýchává". Rajchl uzavírá, že vzhledem ke klesajícímu podílu EU na světovém HDP si unie ekonomicky nemůže dovolit Green Deal ukončit.
@@ -522,7 +530,9 @@ Bývalý maďarský ministr zahraničí Péter Szijjártó (dlouholetý spolupra
 
 **8. 8.** — Vrabel navazuje dvěma zprávami. Za prvé: maďarská vládní strana Tisza (vedená Péterem Magyarem) nominovala bývalého předsedu Nejvyššího soudu Andráse Baku na prezidenta republiky namísto toho, aby nechala dosluhujícího prezidenta dokončit ústavní mandát a vypsala řádné volby — Vrabel to označuje za „totalitní" praktiku obcházení dělby moci, nezávisle na osobních kvalitách kandidáta. Za druhé: samotný Szijjártó nyní čelí vyšetřování z přijetí úplatku (hrozí až 3 roky) poté, co rezignoval na mandát a přišel o imunitu — Vrabel to srovnává s vlastním stíháním (21 řízení, které skončilo podmínkou za formální chybu v covidové dotaci), s Marine Le Pen (zneužití evropských peněz pro asistenty) a Donaldem Trumpem — jako typický vzorec kriminalizace poražené opozice po převzetí moci, s cílem podle něj dostat Viktora Orbána „za mříže".
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+**11. 8.** — Maďarský parlament formálně zvolil Andráse Baku prezidentem (140 hlasů, jediný kandidát; volbu i inauguraci bojkotovali poslanci opozičního Fideszu a křesťanských demokratů) — dle agentury Reuters jde o další krok premiéra Magyara k oslabení mocenských struktur spjatých s Orbánem. Vrabel k tomu sarkasticky dodává, že by si bojkotující poslanci měli dávat pozor, aby neskončili ve vězení jako obviněný Szijjártó, a popisuje probíhající „brutální čistky" v Maďarsku (cílené na Szijjártóa i Orbána) jako předváděné navenek coby „revoluce" osvobozující zemi od údajně totalitního a zkorumpovaného režimu Orbána — odměnou je uvolnění zadržovaných peněz z programu Erasmus a dalších dotací pro Maďarsko.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026), [Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
 
 ---
 

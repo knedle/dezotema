@@ -315,6 +315,10 @@ K izraelským úderům na jižní Libanon (70+ úderů, Hezbollah; poškozeno st
 
 **Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
 
+**11. 8.** — Vrabel opakuje tentýž cyklus k aktuálnímu růstu ceny ropy Brent (+5 % za týden, ~80 $), tentokrát s číslem „40× za sebou": očekává, že cena bude růst do čtvrtka/pátku, kdy Trump (možná až večer) oznámí otevření Hormuzského průlivu k obohacení „svých kamarádů", kteří si vsadili na pokles ceny. K souběžné zprávě o „blížící se dohodě" (dle pákistánského ministra obrany) dodává, že „v Pákistánu neví, jaký je den" — obě strany (Írán, USA) zprávu o jednání popírají.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+
 ---
 
 ### Írán: „memorandum" podepsáno (14. 6.), Hormuz otevřen 19. 6., Netanjahu nespokojen — Vrabel (15. 6. 2026)

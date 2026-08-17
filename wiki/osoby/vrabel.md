@@ -633,6 +633,16 @@
 ### [Migrace](../migrace.md) (pokrač. 5)
 - **10. 8.** — Ceuta: sexuální napadení čtyř nezletilých marockých dětí jako „kulturní" jev, apel na ochranu dětí — [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
 
+### [DSA a cenzura internetu](../dsa-cenzura.md)
+- **11. 8.** — EU platí influencery + tlačí na Meta/TikTok kvůli „dezinformacím" o Ceutě, spojeno s chat control — [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 3)
+- **11. 8.** — Evropská komise „neumí spočítat" úroky z půjčky 90 mld. eur Ukrajině; Vrabel nabízí vlastní výpočet (~3,35 %) — [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+- **11. 8.** — Maďarsko: András Baka formálně zvolen prezidentem, pokračování čistek proti Orbánovi a Szijjártóovi — [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač. 4)
+- **11. 8.** — Hormuzský průliv: 40. opakování cyklu manipulace ceny ropy, predikce otevření do 13.–14. 8. — [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -998,6 +1008,8 @@
 | Pavel Tykač | ❌ negativní | Spolu s Křetínským viněn z „1000% marže" na ceně elektřiny v ČR díky státní politice cenových stropů chránící energetické barony | 2026-08-09 | [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026) |
 | Petr Macinka | ❌ negativní | Odmítá jeho tvrzení, že „klimatická změna skončila" — Vrabel trvá na tom, že člověk má vliv na podnebí (kácení lesů, betonizace, větrníky) | 2026-08-10 | [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026) |
 | Aleksandar Vučić | ✅ pozitivní | Obhajován za přijetí Zelenského v Bělehradu jako nutný diplomatický krok bez zbraní pro Ukrajinu — „nejlepší prezident na světě" | 2026-08-10 | [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026) |
+| András Baka | ⚖️ rozporuplný | Zvolen maďarským prezidentem jako jediný kandidát strany Tisza — Vrabel kritizuje způsob zvolení jako „totalitní" nezávisle na osobních kvalitách kandidáta | 2026-08-11 | [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026) |
+| Marek Novák | ✅ pozitivní | Poslanec vládního hnutí, terč falešného úmrtního parte na sociálních sítích — chválen jako jediný politik, který splnil slib a prosazoval prohlášení Landsmannschaftu za extremistickou organizaci | 2026-08-11 | [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026) |
 
 ---
 
@@ -1101,3 +1113,4 @@
 - [Zprávy v devět (4. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
 - [Nedělní vysílání (9. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
 - [Facebook Live (10. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+- [Zprávy v devět (11. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)

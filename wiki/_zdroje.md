@@ -3805,6 +3805,15 @@
 - **Poznámka:** Vrabel — deník. Plně zpracována 4 ze 14 témat: zemětřesení Kolumbie/HAARP spekulace — [konspirace.md](konspirace.md); FPV drony v ČR + odmítání ochrany ukr. mužům — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); dron. útok na Tatarstán/„naše ruce od krve" — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); Ceuta — sexuální napadení nezletilých — [migrace.md](migrace.md); zbytek (Gaza/mírový plán, Nagasaki, dron Lipsko, Turecko Černé moře, migrace Vondra/Gregor, Vučič/Zelenskyj, výbuch Emkov, Podněstří, Dardanely/muslimské NATO, Lamanšský průliv) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (demografická proměna ČR 20/35/50 let) extrahována bezvýjimečně; bez stoch. teroru.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět (11. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-11-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-11_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/3553834634773547>
+- **Datum záznamu:** 2026-08-11
+- **Délka:** 00:57:10
+- **Poznámka:** Vrabel — deník. Plně zpracována 4 ze 14 témat: EU platí influencery + tlak na Meta/TikTok kvůli Ceutě — [dsa-cenzura.md](dsa-cenzura.md); Komise neumí spočítat úroky z půjčky 90 mld. eur — [suverenita-eu.md](suverenita-eu.md); Hormuz — 40. opakování cyklu manipulace ceny ropy — [blizky-vychod.md](blizky-vychod.md); Maďarsko — Baka zvolen prezidentem, pokrač. čistek — [suverenita-eu.md](suverenita-eu.md); zbytek (poslanec Novák/falešné parte, léky na rakovinu, nákup dronů MO, Strnad/CSG zbrojní obchod, Turecko dodávky USA zbraní Ukrajině, migrace-dvojí metr/Safe Europe Act, RT novinářka Fedorova, trest smrti Libanon, Asad/al-Šaraa) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Hormuz do 13.–14. 8.) extrahována bezvýjimečně; bez stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (11. 8. 2026) {#jindřich-rajchl--videoportál-11-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-11_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

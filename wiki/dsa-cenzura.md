@@ -38,6 +38,14 @@ Rajchl v bratislavském projevu (4. 4. 2026) cituje zprávu US House Judiciary C
 
 ---
 
+### EU platí influencery a tlačí na Meta/TikTok kvůli „dezinformacím" o Ceutě (Vrabel, 11. 8. 2026)
+
+Ke zprávě, že eurokomisařka Henna Virkkunen vyzvala platformy Meta a TikTok k intenzivnějšímu zásahu proti dezinformacím v krizových situacích (v reakci na příliv migrantů do Ceuty, který podle agentury AFP částečně podpořila falešná zpráva o „otevřené hranici") a že Evropská rada spustila roční pilotní program dávající influencerům omezený přístup na summity a ministerská jednání (bez práv novinářů — bez účasti na briefinzích a kladení otázek), Vrabel to shrnuje jako oboustrannou strategii: EU si sama platí influencery výměnou za příznivé zpravodajství, zatímco zároveň tlačí na přísnější kontrolu Meta/TikTok a spojuje to s chystaným „chat control" (kontrola veškeré komunikace). Skutečnou příčinu přílivu migrantů do Ceuty (jednostranné rozhodnutí španělské vlády legalizovat 700 000 nelegálních migrantů) považuje za zamlčovanou ve prospěch narativu o „dezinformaci na Facebooku". Dodává, že ústava sice zaručuje svobodný přístup k informacím, ale nikoli k tomu, co úřady označí za „dezinformaci" — pojem, který v ústavě vůbec není definován, ale prosazuje se skrze nadřazenost mezinárodních smluv (čl. 10a/10b ústavy).
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+
+---
+
 ## Blokování na sociálních sítích
 
 ### Facebook jako soukromá firma nad ústavou

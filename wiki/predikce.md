@@ -22,6 +22,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — Trump do čtvrtka/pátku oznámí otevření Hormuzu, cena ropy pak klesne (11. 8. 2026)
+
+**Předpověď:** Vrabel předpovídá, že rostoucí cena ropy Brent (+5 % za týden) bude dál stoupat do čtvrtka, nejpozději pátku, kdy Donald Trump oznámí otevření Hormuzského průlivu — čímž umožní „svým kamarádům" vydělat na předem uzavřených sázkách na pokles ceny. Jde o 40. opakování téhož cyklu, který podle Vrabela pozoruje od května 2026.
+
+**Horizont:** do 13.–14. 8. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+
+---
+
 ### Ladislav Vrabel — postupná demografická proměna ČR: za 20 let jako Rakousko, za 35 let jako Británie, za 50 let „islámská" (10. 8. 2026)
 
 **Předpověď:** Pokud ČR nadále setrvá u „západních" hodnot a přístupu k migraci, bude podle Vrabela do 20 let vypadat jako dnešní Rakousko, o dalších 15 let (tedy za 35 let) jako dnešní Británie, a do 50 let už nebude většinově osídlena „původními bílými obyvateli", ale bude islámská — jeho syn se prý ještě může dožít okamžiku, kdy ČR přestane být „Česká". Anglii už považuje za „ztracenou" bez ohledu na to.
