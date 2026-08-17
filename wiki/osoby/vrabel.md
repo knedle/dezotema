@@ -656,6 +656,18 @@
 - **12. 8.** — Export ukrajinského obilí ohrožen suchem na Dunaji, kombinace s ruským uzavřením přístavů — [Zprávy v devět 12. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 - **12. 8.** — Lavrov: vstup Ukrajiny do EU může rozbít blok; rozšíření teorie o likvidaci Slovanů na 550 mil. Evropanů — [Zprávy v devět 12. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 3)
+- **13. 8.** — Německá reforma zpravodajských služeb jako nástroj proti AFD; Merz jako bývalý šéf BlackRock Deutschland — [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 6)
+- **13. 8.** — Ceuta: zdravotní/bezpečnostní krize (nemoci, napadení), islamizace jako organizovaný proces; osobní historky o migrantských nemocech — [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 4)
+- **13. 8.** — Rotterdam: koordinované útoky na energetickou infrastrukturu po celém světě — [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 3)
+- **13. 8.** — Jediná reálná cesta proti Agendě 2030 jsou protesty, ne volby; sebereflexe k roku 2022 a predikce osudu AFD — [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1023,6 +1035,8 @@
 | Aleksandar Vučić | ✅ pozitivní | Obhajován za přijetí Zelenského v Bělehradu jako nutný diplomatický krok bez zbraní pro Ukrajinu — „nejlepší prezident na světě" | 2026-08-10 | [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026) |
 | András Baka | ⚖️ rozporuplný | Zvolen maďarským prezidentem jako jediný kandidát strany Tisza — Vrabel kritizuje způsob zvolení jako „totalitní" nezávisle na osobních kvalitách kandidáta | 2026-08-11 | [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026) |
 | Marek Novák | ✅ pozitivní | Poslanec vládního hnutí, terč falešného úmrtního parte na sociálních sítích — chválen jako jediný politik, který splnil slib a prosazoval prohlášení Landsmannschaftu za extremistickou organizaci | 2026-08-11 | [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026) |
+| Friedrich Merz | ❌ negativní | Německý kancléř označen za bývalého šéfa představenstva BlackRock Deutschland — „absolutní globalista", nehájící německé zájmy; reforma zpravodajských služeb pod jeho vládou míří proti AFD | 2026-08-13 | [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026) |
+| Petr Bystroň | ✅ pozitivní | Europoslanec AFD, osobní kamarád Vrabela (společně strávený čas v Praze i Bělehradě) — líčen jako terč šikany německých tajných služeb (šest domovních prohlídek), srovnáváno s vlastním pronásledováním | 2026-08-13 | [Zprávy v devět 13. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026) |
 
 ---
 
@@ -1128,3 +1142,4 @@
 - [Facebook Live (10. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
 - [Zprávy v devět (11. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
 - [Zprávy v devět (12. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+- [Zprávy v devět (13. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)

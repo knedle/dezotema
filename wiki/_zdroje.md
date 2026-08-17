@@ -3832,6 +3832,15 @@
 - **Poznámka:** Vrabel — deník. Plně zpracováno 5 z 15 témat: Národní plán obnovy jako nástroj přesunu peněz k elitám — [suverenita-eu.md](suverenita-eu.md); ČEZ zisk a „zestátnění" jako skrytá privatizace — [ceny-energie.md](ceny-energie.md); ministr obrany Zuna/muniční iniciativa pokračuje — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md); ukrajinský export obilí ohrožen suchem na Dunaji — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); Lavrov/rozpad EU — rozšíření teorie o likvidaci Slovanů na celou Evropu (550 mil.) — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); zbytek (Ukrajina/kazašská ropa, Zelenskyj návrhy USA, Putin/tankery, wolfram, Grónsko/Trump kolonie, Kosovo/Srb zbit, Libye, Írán/BRICS, Polsko/Starlink) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Kosovo/Srbsko sjednocení po Ukrajině) extrahována bezvýjimečně; bez stoch. teroru.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět (13. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-13-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-13_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/1605044717661135>
+- **Datum záznamu:** 2026-08-13
+- **Délka:** 00:11:40
+- **Poznámka:** Vrabel — deník (delší video). Plně zpracována 4 ze 16 témat: Německá reforma zpravodajských služeb jako nástroj proti AFD — [digitalni-kontrola.md](digitalni-kontrola.md); Ceuta — zdravotní/bezpečnostní krize, organizovaná islamizace — [migrace.md](migrace.md); Rotterdam — koordinované útoky na energetickou infrastrukturu — [konspirace.md](konspirace.md); Agenda 2030 — jediná cesta jsou protesty, sebereflexe k roku 2022 — [politicky-system.md](politicky-system.md); zbytek (Zelenskyj/mír, Sevastopol, Hormuz/Írán-USA, Kuba, rozpočet USA na obranu, USS Abraham Lincoln, Zelenskyj/rakety, Varšava přehlídka, Libanon/Velký Izrael, USA elektrošokové rukavice, zemědělství ČR/Srbsko, IKEM útok) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (AFD jako SPD, ČR chudší za 20 let) extrahovány bezvýjimečně; bez stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (13. 8. 2026) {#jindřich-rajchl--videoportál-13-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-13_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

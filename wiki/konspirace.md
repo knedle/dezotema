@@ -26,6 +26,14 @@ Boldy tvrdí, že záběry mise NASA Artemis jsou AI-generované záběry ze sta
 
 ---
 
+### „Koordinované" útoky na energetickou infrastrukturu po celém světě (Vrabel, opakovaně, naposledy 13. 8. 2026)
+
+Vrabel při zprávách o jednotlivých útocích na ropná/plynová zařízení — naposledy výbuch na ropném terminálu společnosti Gunvor Energy v přístavu Rotterdam (1 mrtvý, více zraněných) — opakovaně upozorňuje, že podobné útoky (Bulharsko, Libye, Sevastopol a další) se dějí „po celém světě" a „každý den" už několik měsíců, a naznačuje, že jde o koordinovanou kampaň, nikoli o nesouvisející náhodné incidenty, aniž by však uvedl, kdo za koordinací stojí nebo jaký je motiv. Dodává ironicky, že doufá, že lidé nebudou nakonec nuceni jezdit „všichni jenom na kole".
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
+---
+
 ### Přicházející hospodářská krize — záměrné plánování
 
 Boldy předpovídá závažnou ekonomickou krizi srovnatelnou s krizí roku 1929. Cena ropy má dle jeho přesvědčení překročit 200 dolarů za barel, což se projeví zdražením pohonných hmot, potravin i veškerého zboží. Krize je dle Boldyho záměrně plánována elitami, které ji využijí k levnému výkupu majetku od obyčejných lidí. Radí nashromáždění zásob základních potravin.

@@ -863,3 +863,11 @@ Vrabel tvrdí, že národ má právo svrhnout vládu, pokud politici po zvolení
 > „Nečekejte na nikoho. Nikdo to neudělá. [...] To musí udělat ten národ. To musí udělat každej z nás." — Ladislav Vrabel, [Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
 
 **Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### Jediná reálná cesta proti Agendě 2030 jsou masové protesty, ne volby — sebereflexe k roku 2022 (Vrabel, 13. 8. 2026)
+
+Na divácký dotaz, zda existuje řešení, jak globalistům překazit realizaci Agendy 2030, Vrabel odpovídá, že možnost teoreticky existuje (masové pokojné protesty, které donutí vlády padnout, následované nástupem lidí chápajících skutečnou situaci), ale reálná proveditelnost je nízká — vyžadovalo by to aktivní zapojení alespoň 7 % populace. Volby jako cestu odmítá jako fakticky nefunkční, protože zvolení politici (v ČR, Německu, USA) nakonec vždy slouží „globalistům", a médii kontrolovaná politická scéna neumožní projít stranám, které by agendu skutečně chtěly zrušit. Vlastní demonstrace „Česká republika na prvním místě" z roku 2022 hodnotí jako úspěšné v tom smyslu, že vlastenecké téma se stalo hlavním předvolebním tématem všech vládních stran — problém je, že po zvolení sliby neplní; lituje, že lidé nevydrželi demonstrovat dostatečně dlouho na to, aby se celý plán prosadil. Predikuje s odhadovanou pravděpodobností přes 75 %, že AFD v Německu (podobně jako Marine Le Pen ve Francii nebo Nigel Farage v Británii) nakonec dopadne jako SPD v ČR — silné řeči bez skutečné změny po zvolení. Uzavírá vlastní prognózou: pokud lidé nezareagují masovým odporem, je pravděpodobnější, že Agenda 2030 projde a ČR bude za 20 let jednou z chudších zemí světa, stejně jako celá Evropa.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)

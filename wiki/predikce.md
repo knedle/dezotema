@@ -22,6 +22,26 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — AFD v Německu skončí jako SPD v ČR — silné řeči bez skutečné změny (13. 8. 2026)
+
+**Předpověď:** Vrabel odhaduje více než 75% pravděpodobnost, že německá AFD (podobně jako Marine Le Pen ve Francii nebo Nigel Farage v Británii), i přes současné vedení v předvolebních průzkumech, po případném zvolení nedodrží svá suverenistická hesla a skončí podobně jako SPD v ČR — silné řeči bez reálné politické změny.
+
+**Horizont:** neurčeno (vztahuje se k příštím německým volbám)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 13. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
+---
+
+### Ladislav Vrabel — bez masového odporu bude ČR za 20 let jednou z chudších zemí světa (13. 8. 2026)
+
+**Předpověď:** Pokud lidé nezareagují masovým občanským odporem proti globalistické agendě (Agenda 2030), Vrabel předpovídá, že tato agenda „projde" a Česká republika bude za 20 let jednou z chudších zemí světa, stejně jako celá Evropa.
+
+**Horizont:** ~2046 (20 let)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 13. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
+---
+
 ### Ladislav Vrabel — Rusko po vyřešení Ukrajiny sjednotí Srbsko s Kosovem (12. 8. 2026)
 
 **Předpověď:** Vrabel k brutálnímu napadení Srba kosovskou policií předpovídá, že se kosovská otázka „vyřeší, až Rusko vyřeší problémy na Ukrajině a Evropa bude rozbitá" — v horizontu „pár let" pak podle něj Rusko přijde a sjednotí Srbsko zpět s Kosovem a s Republikou srbskou (v Bosně). Islámskou část bývalé Jugoslávie (Bosnu, Albánii) podle něj Rusko řešit nebude.
