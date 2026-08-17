@@ -100,7 +100,11 @@ Vrabel líčí debatu se svým známým o tom, zda je skutečným cílem ukrajin
 
 > „Jestli ano, tak další budou Poláci. [...] já předpokládám, že další, kdo je na řadě k tomu, aby se snížili populace, jsou Poláci, jako obvykle, jako v každých válkách." — Ladislav Vrabel, [Facebook Live 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+**12. 8.** — K výroku ruského ministra zahraničí Sergeje Lavrova, že případný vstup Ukrajiny do EU by mohl vést k rozpadu celého bloku (unie se dle něj čím dál víc profiluje jako bezpečnostně-obranná struktura), Vrabel rozšiřuje svou tezi o záměrné likvidaci na celou Evropu. Tvrdí, že Ukrajinci, až pochopí, že jejich zemi „rozprodal a zadlužil" Zelenský a že ji rozvrátili západní globalisté (BlackRock, Boeing, Lockheed Martin, Palantir) pro vlastní zisk, budou plakat — ale Evropané budou plakat ještě víc, až zjistí, že tentýž Deep State vyvolal válku s Ruskem, aby si Evropu (550 milionů lidí — desetkrát víc než ukrajinská populace) ekonomicky podmanil a vykořistil. Uzavírá, že „Evropa jako Evropská unie" už prošla svým civilizačním i ekonomickým vrcholem a od covidu „jde jenom dolů".
+
+> „Ještě víc budeme plakat my, Evropané, až pochopíme, že globalisté ze Západu [...] vymysleli to, aby v Evropě byla válka s Ruskem, aby si absolutně podmanili a ekonomicky zdominovali a vykořistili Evropu." — Ladislav Vrabel, [Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 
 ---
 
@@ -800,7 +804,9 @@ Zítko tvrdí, že po skončení konfliktu na Ukrajině nebude o novém uspořá
 
 Vrabel referuje, že ruská vojenská technika fakticky uzavřela přístup do všech tří přístavů kolem Oděsy, přes které Ukrajina vyvážela zhruba 8 milionů tun obilí měsíčně (cca 80 % jejího exportu). Náhradní trasa po Dunaji zvládne maximálně 1,3 milionu tun měsíčně kvůli byrokratickým a kapacitním omezením. Vrabel z toho vyvozuje dvojí důsledek: zhoršení hladu ve světě (spolu s uzavřeným Hormuzským průlivem a zdraženými hnojivy/pohonnými hmotami) a další ekonomickou devastaci Ukrajiny — ztrátu příjmů do státní kasy, kterou bude muset dorovnávat EU formou dalších dluhopisů, jejichž jistinu a úroky nakonec zaplatí členské státy (včetně ČR) prostřednictvím plateb do unijních fondů. Navazuje na dřívější zprávy o poklesu propustnosti přístavů u Oděsy o ~30 % (viz [Ukrajina přešla k terorismu: izolace Krymu](#ukrajina-přešla-k-terorismu-izolace-krymu-a-útoky-na-přístavy-u-oděsy-vrabel-11-6-2026)) — nyní jde o téměř úplné uzavření.
 
-**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+**12. 8.** — Vrabel doplňuje, že i náhradní dunajská trasa přes Rumunsko je nyní ohrožena rekordním suchem a výrazným poklesem hladiny řeky — lodě musí plout jen částečně naložené, což dále omezuje kapacitu jediného zbylého vývozního koridoru. Kombinaci ruského uzavření černomořských přístavů a přírodní kalamity na Dunaji shrnuje pesimisticky: „obávám se, že Ukrajinci své obilí prostě vyvážet nebudou" — a že podobné problémy postihnou i další komodity, nejen obilí.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 
 ---
 

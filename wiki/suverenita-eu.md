@@ -486,6 +486,14 @@ Podle deníku Berliner Zeitung Evropská komise v odpovědi na dotaz europoslanc
 
 ---
 
+### Národní plán obnovy jako nástroj přesunu peněz k elitám, ne obnovy ekonomiky (Vrabel, 12. 8. 2026)
+
+Evropská komise oznámila vyplacení 897 mil. eur (~21,8 mld. Kč) České republice z Nástroje pro oživení a odolnost — ČR tak vyčerpala 88 % svého celkového přídělu (8,67 mld. eur), zbývající cíle musí splnit do konce srpna. Vrabel k tomu rozvíjí kritiku Národního plánu obnovy jako celku: fond vznikl oficiálně k obnově ekonomiky po covidu, ale peníze (40 % Green Deal, 20 % digitalizace) ve skutečnosti slouží stejnému účelu jako všechny „finanční nástroje globalizace" posledních desetiletí — přesunu bohatství k elitám na úkor běžných lidí. Konkrétně: v energetice fond financuje přechod od soběstačnosti (ČR byla čistým vývozcem elektřiny) k závislosti na dovozu (cílem má být energetická velmoc Německo, ne ČR); v „digitalizaci" jde o infrastrukturu digitální kontroly občanů (kamery, sběr dat, příprava sítě 6G), nikoli jen o elektronizaci úřadů; ve zdravotnictví fond podle Vrabela financuje centralizaci (viz jeho kritiku zavírání menších onkologických pracovišť a nedostatku léků z předchozího dne), nikoli skutečné zlepšení péče. Zdůrazňuje, že ČR je čistým plátcem do rozpočtu EU — peníze, které „dostává", jsou ve skutečnosti její vlastní prostředky vrácené s podmínkami, na co je smí použít.
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
+---
+
 ### Trump nevnímá EU jako relevantního partnera — ekonomická slabost, Green Deal a migrace (Rajchl, 7. 7. 2026)
 
 Na CNN Prima News Rajchl hodnotí vztah Trumpovy administrativy k EU: Donald Trump vnímá Evropskou unii jako velmi slabého partnera, kritického zejména vůči tomu, co v Bruselu nazývá „dvouocasou příšerou" — Green Dealu a migraci. Cituje J. D. Vance, který prohlásil, že největší nepřítel v tuto chvíli nesedí v Moskvě, ale v Bruselu, protože brusel jedná proti vlastním občanům. Trump podle Rajchla posuzuje partnery primárně podle ekonomické síly — příkladem je jeho cesta do Číny s rozsáhlou podnikatelskou delegací, přestože čínská ekonomika sama „ekonomicky dodýchává". Rajchl uzavírá, že vzhledem ke klesajícímu podílu EU na světovém HDP si unie ekonomicky nemůže dovolit Green Deal ukončit.

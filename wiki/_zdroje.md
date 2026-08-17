@@ -3823,6 +3823,15 @@
 - **Poznámka:** Nezaměstnanost 5 % (nejvyšší od 2017) jako důsledek Green Dealu a ukrajinské migrace — repeat příčinné argumentace (Zetor, „dvouocasá příšera") s novým aktuálním číslem, doplněno do [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Zprávy v devět (12. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-12-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-12_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2000780280568880>
+- **Datum záznamu:** 2026-08-12
+- **Délka:** 00:10:50
+- **Poznámka:** Vrabel — deník. Plně zpracováno 5 z 15 témat: Národní plán obnovy jako nástroj přesunu peněz k elitám — [suverenita-eu.md](suverenita-eu.md); ČEZ zisk a „zestátnění" jako skrytá privatizace — [ceny-energie.md](ceny-energie.md); ministr obrany Zuna/muniční iniciativa pokračuje — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md); ukrajinský export obilí ohrožen suchem na Dunaji — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); Lavrov/rozpad EU — rozšíření teorie o likvidaci Slovanů na celou Evropu (550 mil.) — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); zbytek (Ukrajina/kazašská ropa, Zelenskyj návrhy USA, Putin/tankery, wolfram, Grónsko/Trump kolonie, Kosovo/Srb zbit, Libye, Írán/BRICS, Polsko/Starlink) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (Kosovo/Srbsko sjednocení po Ukrajině) extrahována bezvýjimečně; bez stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (13. 8. 2026) {#jindřich-rajchl--videoportál-13-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-13_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

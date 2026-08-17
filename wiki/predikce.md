@@ -22,6 +22,16 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — Rusko po vyřešení Ukrajiny sjednotí Srbsko s Kosovem (12. 8. 2026)
+
+**Předpověď:** Vrabel k brutálnímu napadení Srba kosovskou policií předpovídá, že se kosovská otázka „vyřeší, až Rusko vyřeší problémy na Ukrajině a Evropa bude rozbitá" — v horizontu „pár let" pak podle něj Rusko přijde a sjednotí Srbsko zpět s Kosovem a s Republikou srbskou (v Bosně). Islámskou část bývalé Jugoslávie (Bosnu, Albánii) podle něj Rusko řešit nebude.
+
+**Horizont:** několik let po vyřešení konfliktu na Ukrajině (neurčeno přesně)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
+---
+
 ### Ladislav Vrabel — Trump do čtvrtka/pátku oznámí otevření Hormuzu, cena ropy pak klesne (11. 8. 2026)
 
 **Předpověď:** Vrabel předpovídá, že rostoucí cena ropy Brent (+5 % za týden) bude dál stoupat do čtvrtka, nejpozději pátku, kdy Donald Trump oznámí otevření Hormuzského průlivu — čímž umožní „svým kamarádům" vydělat na předem uzavřených sázkách na pokles ceny. Jde o 40. opakování téhož cyklu, který podle Vrabela pozoruje od května 2026.

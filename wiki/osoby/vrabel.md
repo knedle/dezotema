@@ -643,6 +643,19 @@
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 4)
 - **11. 8.** — Hormuzský průliv: 40. opakování cyklu manipulace ceny ropy, predikce otevření do 13.–14. 8. — [Zprávy v devět 11. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
 
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 4)
+- **12. 8.** — Národní plán obnovy (897 mil. eur z EU) jako nástroj přesunu peněz k elitám, ne obnovy ekonomiky — [Zprávy v devět 12. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 4)
+- **12. 8.** — ČEZ vyšší zisk z uměle navýšených cen elektřiny; „zestátnění" ve skutečnosti privatizace ziskových částí — [Zprávy v devět 12. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 4)
+- **12. 8.** — Ministr obrany Zuna (SPD) chce posílit muniční iniciativu; Landovský přiznává pokračující vojenskou pomoc Ukrajině — [Zprávy v devět 12. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 5)
+- **12. 8.** — Export ukrajinského obilí ohrožen suchem na Dunaji, kombinace s ruským uzavřením přístavů — [Zprávy v devět 12. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+- **12. 8.** — Lavrov: vstup Ukrajiny do EU může rozbít blok; rozšíření teorie o likvidaci Slovanů na 550 mil. Evropanů — [Zprávy v devět 12. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1114,3 +1127,4 @@
 - [Nedělní vysílání (9. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
 - [Facebook Live (10. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
 - [Zprávy v devět (11. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+- [Zprávy v devět (12. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
