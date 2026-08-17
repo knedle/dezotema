@@ -623,6 +623,16 @@
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 3)
 - **9. 8.** — teorie o cílené likvidaci Slovanů/bílého muže — Poláci „další na řadě"; „Ukrajina má být zrušena" — teritoriální celistvost vs. sebeurčení, paralela s Kosovem — [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
 
+### [Konspirační teorie](../konspirace.md) (pokrač. 3)
+- **10. 8.** — zemětřesení v Kolumbii jako možný důsledek HAARP/„harp" globalistů, spekulativní vazba na Trumpův zájem o TechNate v Jižní Americe — [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 4)
+- **10. 8.** — FPV drony v ČR zabíjejí civilisty, operátor dronu = vrah s „karmou"; kritika odmítání víz a dočasné ochrany ukrajinským mužům ve vojenském věku — [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+- **10. 8.** — dronový útok na Tatarstán (13 mrtvých) — „naše ruce jsou od krve", drony placené z peněz EU/ČR/NATO — [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 5)
+- **10. 8.** — Ceuta: sexuální napadení čtyř nezletilých marockých dětí jako „kulturní" jev, apel na ochranu dětí — [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -986,6 +996,8 @@
 | Štefan Harabin | ✅ pozitivní | Osobní „kamarád" ze slovenské vlastenecké scény — citován s tezí o Anglosasech štvoucích Slovany proti sobě | 2026-08-01 | [Zprávy v devět 1. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026) |
 | Tomio Okamura | ❌ negativní | Za dřívější výrok o poslání mladíka na frontu Vrabel odpovídá, že prvního na frontu by poslal jeho — v Srbsku měl místo Ivana Davida přemlouvat politiky ke vstupu do EU | 2026-08-09 | [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026) |
 | Pavel Tykač | ❌ negativní | Spolu s Křetínským viněn z „1000% marže" na ceně elektřiny v ČR díky státní politice cenových stropů chránící energetické barony | 2026-08-09 | [Nedělní vysílání 9. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026) |
+| Petr Macinka | ❌ negativní | Odmítá jeho tvrzení, že „klimatická změna skončila" — Vrabel trvá na tom, že člověk má vliv na podnebí (kácení lesů, betonizace, větrníky) | 2026-08-10 | [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Obhajován za přijetí Zelenského v Bělehradu jako nutný diplomatický krok bez zbraní pro Ukrajinu — „nejlepší prezident na světě" | 2026-08-10 | [Facebook Live 10. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026) |
 
 ---
 
@@ -1088,3 +1100,4 @@
 - [Zprávy v devět (3. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
 - [Zprávy v devět (4. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-8-2026)
 - [Nedělní vysílání (9. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+- [Facebook Live (10. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)

@@ -3796,6 +3796,15 @@
 - **Poznámka:** Krátký klip debaty s Piráty zástupcem Samuelem Volpem o statusu Ceuty (součást EU, ne Schengenu) — stejná událost jako už shrnutá v [Facebook Live 9. 8.](#jindřich-rajchl--facebook-live-9-8-2026), beze změny doplněn jen jako zdroj — [migrace.md](migrace.md). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Facebook Live (10. 8. 2026) {#ladislav-vrabel--facebook-live-10-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-10_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel (Facebook)
+- **URL:** <https://www.facebook.com/100087923704145/videos/2039459906664445>
+- **Datum záznamu:** 2026-08-10
+- **Délka:** 01:09:55
+- **Poznámka:** Vrabel — deník. Plně zpracována 4 ze 14 témat: zemětřesení Kolumbie/HAARP spekulace — [konspirace.md](konspirace.md); FPV drony v ČR + odmítání ochrany ukr. mužům — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); dron. útok na Tatarstán/„naše ruce od krve" — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md); Ceuta — sexuální napadení nezletilých — [migrace.md](migrace.md); zbytek (Gaza/mírový plán, Nagasaki, dron Lipsko, Turecko Černé moře, migrace Vondra/Gregor, Vučič/Zelenskyj, výbuch Emkov, Podněstří, Dardanely/muslimské NATO, Lamanšský průliv) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (demografická proměna ČR 20/35/50 let) extrahována bezvýjimečně; bez stoch. teroru.
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (11. 8. 2026) {#jindřich-rajchl--videoportál-11-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-11_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

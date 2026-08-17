@@ -233,6 +233,14 @@ Ve druhém videu z téhož dne (Facebook Live) Vrabel k eskalaci v Ceutě dodáv
 
 **Zdroje:** [Vrabel — Facebook Live 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
 
+---
+
+### Ceuta: sexuální napadení nezletilých migrantů jako „kulturní" jev — apel na ochranu dětí (Vrabel, 10. 8. 2026)
+
+Ke zprávě, že se španělská enkláva Ceuta potýká s přeplněnými zařízeními pro nezletilé migranty a že byly nejméně čtyři marocké děti mladší 14 let hospitalizovány kvůli údajnému sexuálnímu napadení (během dvou týdnů dorazilo přes 2 500 migrantů, převážně z Maroka, úřady řeší přesun ~1 000 nezletilých na španělskou pevninu), Vrabel líčí sexualizaci malých dívek jako součást kultury, se kterou přicházející vyrůstají „u strejčka, táty, souseda, bratra", byť dodává, že většina mužů takové jednání odsuzuje. Uzavírá apelem, že tuto kulturu by Evropa neměla vpouštět „minimálně kvůli našim malým holčičkám" — navazuje na svou dřívější tezi o [obchodu s dětmi v souvislosti s Ceutou (30. 7.)](#eskalace-v-ceutě-obchod-s-dětmi-žádné-hranice-španělsko–čr-vrabel-30-7-2026).
+
+**Zdroje:** [Vrabel — Facebook Live 10. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+
 **1. 8.** — Opakování téže argumentace (von der Leyenová, hlasování Kateřiny Konečné pro legální cesty) bez nového posunu — doplňuje jen mechanismus, jak se z „nelegálního" migranta stává legální žadatel o azyl (nahlášení nezletilosti bez dokladů, záchrana v mezinárodních vodách) a že Itálií dočasně vyhlášené uzavření Schengenu pro Španělsko je jen politické gesto se stejným nulovým reálným efektem — [Zprávy v devět 1. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
 
 **5. 8.** — Podle deníku ABC se na marockých sociálních sítích šíří výzvy k nové hromadné akci proti Ceutě plánované na 15. 8. 2026 (organizují ji stejné účty jako minulý nájezd, hlásí se k ní řádově statisíce lidí; hesla typu „poslední příležitost" Vrabel přirovnává k rétorice organizátorů demonstrací z roku 2023). Rozvíjí tezi o cíleném útoku administrativy USA (skrytě přes CIA) na španělskou vládu za to, že odmítla poskytnout Trumpovi vojenské základny a jakoukoli podporu ve válce s Íránem, a naopak jej kritizovala — dokládá to časovou návazností (Meloni oznámila uzavření hranic, pak Švédsko a Andrej Babiš vyzvali k vyřazení Španělska ze Schengenu, poté už 22 zemí EU). Cílem podle něj není zastavit nelegální migraci (na tu vyřazení ze Schengenu nemá žádný vliv, protože nelegální migranti hranice stejně neprochází legálně), ale podkopat politickou podporu současné španělské vlády u vlastních občanů a připravit její pád — analogicky k odstranění Viktora Orbána a rumunského kandidáta Călina Georgescu, tedy vynutit si vládu ochotnou plně podporovat NATO a poskytnout USA základny pro válku na Blízkém východě. Označuje to za „teroristický útok na španělskou suverenitu".

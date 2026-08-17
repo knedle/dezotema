@@ -306,6 +306,14 @@ Ukrajinský dronový útok zasáhl ropný terminál a přístavní infrastruktur
 
 ---
 
+### Dronový útok na ruský Tatarstán — „naše ruce jsou od krve" (Vrabel, 10. 8. 2026)
+
+K útoku, při němž zahynulo nejméně třináct lidí po rozsáhlém dronovém útoku na ruský Nižnekamsk v Tatarstánu (ruská strana hlásí zničení 456 ukrajinských dronů nad svým územím té noci, v Tatarstánu vyhlášen den smutku), Vrabel zdůrazňuje přímou spoluodpovědnost ČR a Západu: drony jsou podle něj placeny z peněz EU, ČR a NATO, Ukrajinci coby žoldáci je jen posílají — proto je podle něj potřeba si uvědomit, že „my máme ruce tady v tom odkrvi", a čím dřív si to Češi uvědomí, tím dřív může konflikt skončit. Navazuje na dřívější tezi o přímé zodpovědnosti ČR za útok na kolej ve [Starobělsku (1. 6.)](#starobělsk-video-z-útoku-na-kolej-budanovovy-výhrůžky-a-přímá-zodpovědnost-čr-vrabel-1-6-2026).
+
+**Zdroje:** [Vrabel — Facebook Live 10. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+
+---
+
 ## Stav Ukrajiny a mobilizace
 
 ### Výzva Zemanovi: odebrat Zelenskému Řád bílého lva (Vrabel, 2. 6. 2026)
@@ -577,6 +585,14 @@ Poslanec strany Právo a spravedlnost Dariusz Matecki ve svém projevu v Sejmu k
 Ve Lvově došlo k potyčkám mezi obyvateli a pracovníky ukrajinských náborových center poté, co se náboráři pokusili zadržet mladého muže. Vrabel to interpretuje jako důkaz, že se Zelenského režim „rozpadá" kvůli nedostatku vojáků na frontě — připomíná i nedávné vyjádření bývalého velitele Valerije Zalužného, že Ukrajina navzdory tvrzením o vítězství ve skutečnosti nevítězí. Odpor obyvatel vůči násilnému odvádění (dle některých odhadů Ukrajina ztratila přes 2,5 milionu lidí) jednoznačně schvaluje jako legitimní postavení se za vlastní práva proti „jednomu procentu mocných", i když lituje, že to lidem došlo tak pozdě.
 
 **Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+
+---
+
+### FPV drony zabíjejí civilisty; kritika odmítání ochrany ukrajinským mužům v ČR — „karma" pro operátory (Vrabel, 10. 8. 2026)
+
+Ke zprávě, že organizace Strong Europe pořádá v ČR kurzy létání s FPV drony pro ukrajinské válečné veterány i české zájemce (bezpečnostní komunita i laici), Vrabel varuje, že jde o zbraň, ne o koníček — ukazuje záběry civilních obětí (prodavač zeleniny, řidiči aut, útok na pláž se sedmi mrtvými dětmi) a tvrdí, že operátor dronu, který zabije civilistu, je vrah a nese za to „karmu" stejně jako dron sám. Zároveň kritizuje, že ČR odmítá vydávat víza a dočasnou ochranu ukrajinským mužům ve vojenském věku, dokud nedoloží potvrzení o odsloužení v armádě — na rozdíl od uprchlíků z Blízkého východu a Afriky, kterým je vstup do Evropy podle něj otevřený bez dokladů. Zastává názor, že všichni Ukrajinci odmítající bojovat pro „fašistický režim" Zelenského by měli utéct ze země a žádná země by neměla vracet válečné uprchlíky zpět. Predikuje, že až Ukrajincům dojdou „lidské baterie" na frontě, budou muset na frontu ti, kdo je tam posílali.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
 
 ---
 

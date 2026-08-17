@@ -255,6 +255,14 @@ Vrabel ve zprávách otevřel téma změny klimatu jako osobní pozorování: sl
 
 ---
 
+### Zemětřesení v Kolumbii — spekulace o HAARP a geopolitickém motivu (Vrabel, 10. 8. 2026)
+
+K zemětřesení v Kolumbii (70 mrtvých) Vrabel nejprve připomíná svou tezi o lidském vlivu na klima (kácení lesů, betonizace měst, větrníky ovlivňující vlhkost a srážky) a odmítá Petra Macinku, který podle něj tvrdí, že „klimatická změna skončila". U samotného zemětřesení jde dál: spekuluje, že příčinou by mohly být „harpy" globalistů (odkaz na HAARP), a hledá politickou souvislost — napadá ho, že by mohlo jít o odvetu za to, že Kolumbie nedostatečně podporuje Trumpův plán vytvořit „TechNate" v Jižní Americe směrem ke Grónsku. Sám dodává, že to může být i čirá náhoda nebo přirozený jev. Připojuje k tomu obecné pozorování, že hoří tankery v Černém moři a obzor je v plamenech.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+
+---
+
 ### Armádní informátor: chemtrails, morgelony a věže 5G jako nástroj „ovládnutí lidstva" (Zítko, 21. 7. 2026)
 
 Zítko sdílí video označené jako výpověď „armádního informátora" a spojuje ho s vlastní tezí o covidových opatřeních jako testu poslušnosti: chemtrails, morgelony (parazity aktivované dechem, které mají cíleně napadat epifýzu/mozkovou šišinku — „anténu pro napojení na zdroj informací") a věže mobilních sítí 5G měly společně sloužit k „ovládnutí lidstva" a zbavení se „zbytečných jedlíků". Roušky a PCR tyčinky podle něj sloužily ke kontaminaci morgelony, zatímco frekvence 5G sítí byly aktivovány pod označením COVID-19.

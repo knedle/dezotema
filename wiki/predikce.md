@@ -22,6 +22,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — postupná demografická proměna ČR: za 20 let jako Rakousko, za 35 let jako Británie, za 50 let „islámská" (10. 8. 2026)
+
+**Předpověď:** Pokud ČR nadále setrvá u „západních" hodnot a přístupu k migraci, bude podle Vrabela do 20 let vypadat jako dnešní Rakousko, o dalších 15 let (tedy za 35 let) jako dnešní Británie, a do 50 let už nebude většinově osídlena „původními bílými obyvateli", ale bude islámská — jeho syn se prý ještě může dožít okamžiku, kdy ČR přestane být „Česká". Anglii už považuje za „ztracenou" bez ohledu na to.
+
+> „Za 50 let můj syn se možná ještě dožije toho, že Česká republika už nebude Česká, už tam nebude většinově osídlená původními bílými obyvateli, ale bude islámská." — Ladislav Vrabel
+
+**Horizont:** 20 let (Rakousko), 35 let (Británie), 50 let (demografická většina)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Facebook Live 10. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-8-2026)
+
+---
+
 ### Ladislav Vrabel — scénář cesty k mobilizaci v ČR: incident → uzavření hranic → odvody podle ročníků (9. 8. 2026)
 
 **Předpověď:** Vrabel popisuje explicitní scénář, jak podle něj bude vypadat cesta ČR k mobilizaci: zesilující zprávy o „ruských útocích" jsou přípravou narativu; dojde k nespecifikovanému incidentu, po kterém se vyhlásí stav ohrožení státu nebo válečný stav a uzavřou hranice; na frontě začne chybět dostatek vojáků, nejdřív se povolají aktivní zálohy a následně proběhne mobilizace podle vojenských ročníků.
