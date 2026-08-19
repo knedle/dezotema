@@ -255,6 +255,20 @@ Ke zprávě, že se španělská enkláva Ceuta potýká s přeplněnými zaří
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026), [Vrabel — Zprávy v devět 17. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
 
+**18. 8.** — K ohlášenému festivalu ukrajinské kultury a nezávislosti (Pools of Nations, Pražský areál 7, 21. 8. 2026) Vrabel poznamenává, že termín připadá na výročí okupace Československa v roce 1968 — komentuje to jako „přepisování historie". Hlavně ale rozpracovává mechanismus Lex Ukrajina 7 dál: trvalý pobyt je vyšší status než dočasná ochrana a po uplynutí zákonné doby na trvalém pobytu vede automaticky k nároku na české občanství. Jakmile Ukrajinci díky zákonu schválenému „skvělým vlasteneckým parlamentem" (v březnu a květnu 2026) tuto cestu projdou, přestávají podle Vrabela záviset na dočasné ochraně úplně — a akce jako tento festival budou podle něj do budoucna běžnou součástí veřejného života ČR, protože se noví občané stanou trvalou součástí populace.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026), [Vrabel — Zprávy v devět 17. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026), [Vrabel — Zprávy v devět 18. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+
+---
+
+### Zrušená akce „jen pro černochy" v Berlíně — Vrabel přiznává vlastní posun k rasovému profilování kvůli migraci (18. 8. 2026)
+
+Berlínské koupaliště zrušilo plánovanou akci vyhrazenou na několik hodin výhradně lidem afrického původu poté, co organizátoři čelili kritice a obavám o bezpečnost. Vrabel k tomu dodává osobní přiznání: ačkoli se dlouhodobě považuje za člověka bez rasových předsudků (zmiňuje černošského kamaráda, dřívější obdiv k multikulturní společnosti v pařížském metru v 90. letech), v posledních letech si všímá vlastního posunu — při pohledu na černocha v dnešní západní Evropě si automaticky spojuje vyšší pravděpodobnost, že jde o nedávného migranta z Afriky/Blízkého východu (přes Ceutu či Lampedusu) než o dlouhodobě usazeného Evropana, a reaguje obezřetně až se strachem. Tento posun explicitně připisuje migrační vlně a migračnímu paktu, ne rase samotné — s tím, že vládní tvrzení o „odmítnutí" migračního paktu je jen slovní gesto bez legislativního účinku (pakt podle něj v ČR nadále platí).
+
+⚡ **Poznámka:** Formulace tohoto segmentu jsou v přepisu prezentovány jako sebeironický/„nejsem rasista, ale" komentář; zachyceno věcně bez dalšího hodnocení.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+
 ---
 
 ### Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)

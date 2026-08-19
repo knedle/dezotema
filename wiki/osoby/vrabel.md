@@ -696,6 +696,20 @@
 ### [Větrné elektrárny](../vetrniky.md) (pokrač. 2)
 - **17. 8.** — ⚡ Konflikt se Šejnou: Turkovo zmenšení zón jako falešná výhra; ČR 4–4,5× dražší energie než Srbsko — [Zprávy v devět 17. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
 
+### [DSA a cenzura](../dsa-cenzura.md) (pokrač. 2)
+- **18. 8.** — Facebook/Instagram algoritmické politické zvýhodňování; vlastní návrh zákazu závislostních mechanismů — [Zprávy v devět 18. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+- **18. 8.** — ⚡ Konflikt: obviňuje Rajchla z pokrytectví (ocenění od Rédové za svobodu slova, zákaz ruských vlajek, sběr kompromitujících materiálů) — [Zprávy v devět 18. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 4)
+- **18. 8.** — Vlastní teorie o cíli války/covidu — dystopie, depopulace (Huxley/Orwell), robotizace — [Zprávy v devět 18. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 8)
+- **18. 8.** — Festival ukrajinské kultury 21. 8. (výročí 1968); Lex Ukrajina 7 — trvalý pobyt → občanství — [Zprávy v devět 18. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+- **18. 8.** — Zrušená akce „jen pro černochy" v Berlíně; vlastní přiznaný posun k rasovému profilování — [Zprávy v devět 18. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 5)
+- **18. 8.** — Prodloužení životnosti jaderných reaktorů na 80 let — skeptický technický komentář — [Zprávy v devět 18. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+
 ---
 
 ## Zmíněné osoby

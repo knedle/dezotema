@@ -236,7 +236,9 @@ Vrabel připomíná výrok Ursuly von der Leyen, která sama přiznala, že Evro
 
 K jednání ČR v Bruselu o novém jaderném bloku a oznámení o prodloužení životnosti bloků v Temelíně (po Dukovanech) Vrabel cituje ministra Karla Havlíčka: odklon EU od jádra byl „strategická chyba", je třeba tlačit na změnu taxonomie, ale „v zeleném parlamentu" to neprojde. Vrabel z toho vyvozuje, že o ČR fakticky rozhoduje EU (ne český parlament, který je „jen na hádky"). Varuje před opakovaným prodlužováním životnosti reaktorů (sovětsky koncipovaná životnost 30 let; sarkofág časem křehne nárazy částic) — řešeným místo stavby nových bloků (kvůli odmítání spolupráce s Ruskem).
 
-**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+**18. 8.** — Vrabel se k tématu vrací se skeptickým komentářem ke zprávě, že ČR plánuje prodloužit provoz reaktorů na 80 let pomocí moderních technologií (digitální modely, umělá inteligence, robotika, 3D tisk). Připomíná vlastní rozhovor s jaderným fyzikem: reaktory jsou konstruovány na 30 let, protože materiál sarkofágu (beton, olovo) postupně křehne nárazy uvolněných částic ze štěpné reakce — dnešní reaktory už slouží 39 let jen díky opakovanému každoročnímu prodlužování životnosti (SÚJB), protože výstavba nových bloků od ruských dodavatelů není politicky průchodná a na americkou/francouzskou technologii ČR čeká. Sarkasticky pochybuje, že by nová technologie (3D tisk) mohla reálně vyřešit fyzikální degradaci materiálu a prodloužit životnost na 80 let. Dodává osobní historku z výcviku soukromého pilota u Temelína — ochrannou zónu (ATZ, 5 km) kolem elektrárny označuje za nedostatečnou vzhledem k rychlosti, jakou by případné malé letadlo mohlo proniknout dovnitř dřív, než by stihla zasáhnout vzdušná obrana.
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 18. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
 
 ---
 

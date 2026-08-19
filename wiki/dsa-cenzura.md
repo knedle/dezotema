@@ -52,6 +52,10 @@ Evropská komise udělila síti X (Twitter) pokutu 120 milionů eur oficiálně 
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
 
+**18. 8.** — Ke kalifornské žalobě 29 amerických států na Metu (Facebook, Instagram) kvůli návykovému designu (nekonečné scrollování, mechanismy zvyšující čas strávený na platformě) Vrabel rozvíjí svůj vlastní návrh řešení, „kdyby měl tu moc": (1) zrušit algoritmické zvýhodňování/potlačování jednotlivých profilů podle politické agendy — sociální síť má podle něj odrážet realitu, ne vytvářet umělé „hvězdy" tím, že se jeden příspěvek zobrazí statisícům lidí a druhý (typicky ten, co prosazuje vystoupení z EU/NATO) je uměle potlačen; (2) zakázat technologické mechanismy vytvářející psychologickou/dopaminovou závislost, protože fungují stejně jako drogový dealer — obzvlášť škodlivé u dětí, kterým rodiče dávají telefon místo společné aktivity. Tvrdí, že díky sociálním sítím (ne klasickým médiím) se v roce 2022 podařilo dostat 100 000 lidí na Václavské náměstí požadovat vystoupení z EU, protože v tu chvíli algoritmy dočasně umožnily tomuto obsahu se šířit.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
+
 ---
 
 ## Blokování na sociálních sítích
@@ -313,3 +317,11 @@ Vrabel při přípravě rozhovoru pro ruské médium zjistil, že unijní naří
 K hysterické reakci mainstreamových médií na rozhodnutí Petra Macinky neudělit akreditaci Zdislavě Pokorné (Deník N) na tiskovou konferenci ministerstva zahraničí Rajchl staví ostrý kontrast s únorem 2022, kdy Národní centrum kybernetických operací vyzvalo poskytovatele (NIC.cz) k blokaci webů opozičních/alternativních médií (mj. „První zprávy CZ") s jediným odůvodněním, že jsou „proruské a dezinformační", bez jakéhokoli ověřování — tehdy mainstream mlčel, protože šlo o jejich politické oponenty. Neudělení jedné akreditace na jednu tiskovku podle něj v žádném případě nelze srovnávat s úplným zablokováním webu a zničením obchodní činnosti. Připomíná vlastní zkušenost: ministr vnitra Vít Rakušan mu veřejně vyhrožoval, že s ním (jako organizátorem demonstrace) „nebude mít slitování" — a dokládá řadou konkrétních kauz, že běžní občané byli trestně stíháni za „šíření poplašné zprávy" jen za vyjádření názoru na sociálních sítích (Martina Bednářová, Jakub Netík, Tomáš Elner, muži z Plzně) — na rozdíl od skutečných výhrůžek násilím vůči jeho osobě a dětem, které policie odmítla řešit jako „netrestný čin". Uzavírá, že kdyby se politici jemu blízcí chovali recipročně (blokovali weby, vyhrožovali novinářům), mainstream by to nikdy nepřipustil mlčet — a vyzývá k tomu, aby si veřejnost tento rozdíl v metru uvědomila.
 
 **Zdroje:** [Rajchl — Facebook Live 2. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
+
+---
+
+### ⚡ Konflikt: Vrabel obviňuje Rajchla z pokrytectví ve svobodě slova — zákaz ruských vlajek a sběr kompromitujících materiálů (Vrabel, 18. 8. 2026)
+
+Petra Rédová předala v Poslanecké sněmovně Jindřichu Rajchlovi ocenění „za zásluhy o svobodu slova" (na základě ankety mezi jejími sledujícími); oba politici u příležitosti ocenění deklarovali usmíření starších sporů a shodu na prosazování národních zájmů. Vrabel toto ocenění zpochybňuje jako nezasloužené — na rozdíl od sebe sama (jehož vlastní boj za svobodu slova vyústil v zatčení, odsouzení a následné vítězství u Ústavního soudu, které vytvořilo precedens chránící dnes ostatní kritiky vlády) poukazuje na dva konkrétní Rajchlovy kroky, které označuje za přímý útok na svobodu politického projevu: (1) na demonstraci, kterou po Vrabelovi převzal, zakázal účastníkům nosit ruské vlajky, ačkoli sám Vrabel na svých demonstracích v roce 2022 nechával účastníky nosit jakoukoli vlajku podle vlastního uvážení; (2) organizátoři veřejně vyzývali účastníky, ať zasílají fotografie/videa osob se symboly „Z" nebo Wagner Group, a na základě toho podávali trestní oznámení — což podle Vrabela vytvořilo atmosféru strachu z vyjádření názoru na rusko-ukrajinský konflikt (dokládá, že člen jeho hnutí Robert Kutý je kvůli takovému udání dosud v podmínce). Uzavírá, že to je přesně politika strachu, kterou sám celou dobu kritizuje jako nástroj poslušnosti.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
