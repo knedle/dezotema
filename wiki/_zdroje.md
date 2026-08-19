@@ -3903,3 +3903,10 @@
 - **Délka:** 01:51:44 | Zhlédnutí: 79
 - **Poznámka:** Celý repeat už zdokumentovaných témat (genocida/vakcinační holokaust, Fauci, Havel/korporace Československo, volební podvody, Měsíc, ČT/Moravec, bitcoinová kauza Decroix/Havránek), zabalený do textu „25 vyznání šelmy". Beze změny, jen doplněny zdroje — [covid-vakciny.md](covid-vakciny.md) (grafen v anestezii), [kauzy.md](kauzy.md) (Decroix/Havránek). Bez predikcí a stoch. teroru.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: daně a vzor Irska (15. 8. 2026) {#jindřich-rajchl--videoportál-daně-a-vzor-irska-15-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-15_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1691652842132994>
+- **Datum záznamu:** 2026-08-15
+- **Zpracováno:** ano
