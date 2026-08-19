@@ -3976,3 +3976,11 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1770966730580575>
 - **Datum záznamu:** 2026-08-17
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (17. 8. 2026) {#restart-česko--videoportál-17-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-17_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1295991506921835>
+- **Datum záznamu:** 2026-08-17
+- **Poznámka:** Opakuje již zdokumentovaný postoj (kritika státního financování Prague Pride, 7. 8. 2026) — jen doplněn zdroj, bez rozšíření textu.
+- **Zpracováno:** ano

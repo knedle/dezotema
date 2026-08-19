@@ -154,7 +154,7 @@ Adam Šejna u příležitosti výročí Prague Pride odmítá adopci dětí stej
 
 Šejna rozlišuje mezi podporou LGBT lidí v tom, aby byli „hrdí na to, jací jsou", a financováním pražského Pride průvodu ze státních peněz — druhé odmítá jako škodlivé „kulturní obohacení", které dlouhodobě poškozuje společnost a ohrožuje morální výchovu dětí. Argumentuje, že veřejné peníze by neměly podporovat nic, co dětem škodí, ale naopak jim pomáhat, protože děti jsou „budoucnost státu".
 
-**Zdroje:** [Restart Česko — Videoportál 7. 8. 2026 (2)](_zdroje.md#restart-česko--videoportál-7-8-2026-1)
+**Zdroje:** [Restart Česko — Videoportál 7. 8. 2026 (2)](_zdroje.md#restart-česko--videoportál-7-8-2026-1), [Restart Česko — Videoportál 17. 8. 2026](_zdroje.md#restart-česko--videoportál-17-8-2026)
 
 ---
 
