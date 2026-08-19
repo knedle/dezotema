@@ -76,7 +76,9 @@ Jiří Černohorský technicky a environmentálně kritizuje větrné elektrárn
 
 Kraj Vysočina hlasoval 11. 5. 2026 o odmítnutí 14 akcelerovaných zón pro větrné elektrárny na svém území — Černohorský výsledek označuje za občanské vítězství. Věří, že za 20–25 let se prosadí nové technologie (cold fusion) a větrné turbíny budou zastaralé ještě před uplynutím plánované životnosti.
 
-**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026)
+**17. 8.** — Černohorský opakuje tutéž technickou kritiku (beton, přístupové silnice pro těžkou techniku, nemožnost odstranění) a doplňuje finanční rozměr: vláda si připisuje zásluhu za snížení cen elektřiny o pouhých 10 %, přestože ceny předtím vzrostly řádově víc; solární dotace stojí státní rozpočet cca 40 mld. Kč ročně a větrné elektrárny podle něj představují stejný typ dotačního „průtokáče". Ptá se, kdo za 25 let ponese finanční zátěž likvidace betonových základů — s odpovědí, že to bude přeneseno na dnešní děti. Kritizuje také, že vláda místo skutečných řešení (odchod z Lipské burzy, podpora domácích zemědělců) jen pokračuje v rámci Evropské unie.
+
+**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026), [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 
 ---
 

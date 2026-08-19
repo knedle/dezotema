@@ -94,6 +94,14 @@ Boldy tvrdí, že „bývalá šéfka YouTube" nedávno přiznala smazání víc
 
 ---
 
+### Facebook penalizoval výrok o Evě Decroix jako „podněcování nenávisti a násilí" (Černohorský, 17. 8. 2026)
+
+Černohorský popisuje aktuální dočasnou blokaci: Facebook mu znemožnil normální fungování účtu (nefunkční zobrazování komentářů, propad dosahu) poté, co pod opakovaně sdíleným videem s ministryní Evou Decroix napsal, že pokud mu ho ještě někdo pošle, „zablokuje ho, nebo ho rovnou utopí" — doprovázeno emoji vody. Toto vyjádření bylo Facebookem vyhodnoceno jako podněcování k nenávisti a násilí. Označuje to za absurdní ve srovnání s běžně tolerovaným obsahem sociálních sítí.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+
+---
+
 ## COVID rozsudky: odsouzení za varování
 
 ### Konkrétní případy odsouzených za covidové výroky

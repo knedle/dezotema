@@ -187,3 +187,19 @@ Britský Nejvyšší soud zamítl právní námitku aktivistů a umožnil pokra�
 Vrabel spojuje podporu rozpadu tradiční rodiny a LGBT+ agendy (mj. Prague Pride) s výroky Ursuly von der Leyen o potřebě „uvolnit" úspory evropských domácností a přeměnit je na investice do zbrojního programu Rearm Europe (800 mld. eur). Argumentuje, že rozpad rodinných a mezigeneračních vazeb brání dlouhodobému hromadění majetku v rodinách, které by jinak mohlo ohrožovat zájmy globalistického kapitálu — LGBT agendu tak čte jako jeden z nástrojů, jak zabránit vzniku silných, majetkově nezávislých rodinných struktur.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+
+---
+
+### Hormonálně navozené kojení u trans rodičů a adopce dětí náhradním mateřstvím v zahraničí — „banda psychopatů" (Černohorský, 17. 8. 2026)
+
+Černohorský reaguje na sdílené video popisující praxi, kdy si transgender rodiče (muži identifikující se jako ženy) nechávají hormonálně navodit laktaci, aby mohli kojit dítě. Označuje to za zdravotně i eticky nepřijatelné, zvlášť v kontrastu s dřívější lékařskou opatrností vůči podávání léků těhotným ženám. Zmiňuje konkrétní znalé případy z ČR, kdy si mužské páry nechaly v zahraničí (kde je to legální) vyrobit dítě prostřednictvím náhradní matky. Rozšiřuje kritiku na Prague Pride obecně (veřejné projevy sexuality na ulici, nárůst pohlavně přenosných chorob v komunitě) a na genderovou ideologii — volá po zákazu těchto praktik a trestněprávním postihu (blázinec, kriminál) pro organizace, které je podporují, protože je považuje za škodlivé pro děti.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+
+---
+
+### Zrušení základní vojenské služby jako počátek „destrukce společnosti" (Černohorský, 17. 8. 2026)
+
+Černohorský tvrdí, že klíčovým momentem rozkladu společnosti bylo zrušení povinné vojenské služby — od té doby podle něj přestali muži „být chlapy": popisuje současné třicátníky a čtyřicátníky jako změkčilé „mamánky" neschopné manuální práce. Kritiku směřuje oboustranně i vůči ženám (přehnaná sexualizace na sociálních sítích, OnlyFans) a uzavírá obecnou tezí, že 37 let porevoluční politiky žádný z těchto problémů neřešilo.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)

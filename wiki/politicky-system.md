@@ -30,6 +30,10 @@ Z toho vyvozuje program kompletní změny systému (připraven dle něj 2022/202
 
 **Zdroje:** [Vrabel — Zprávy v devět 2. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-6-2026), [Vrabel — Nedělní vysílání 16. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026)
 
+**17. 8.** — Černohorský nezávisle komentuje totéž odvolání státní zástupkyně z bitcoinové kauzy (viz výše) a rozšiřuje to na obecnou tezi o 37 letech beztrestnosti napříč všemi porevolučními vládami — zdůrazňuje, že žádná politická strana (přestože disponují dostatečnými finančními prostředky) si nikdy nenajala tým špičkových právníků, aby korupční kauzy skutečně dotáhl k odsouzení; z toho usuzuje, že jde o systémovou shodu zájmů napříč celým politickým spektrem, ne o neschopnost.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+
 ---
 
 ### Zvýšení plateb za státní pojištěnce o 24 mld. = okrádání občanů na zbrojení (Vrabel, 8. 6. 2026)
@@ -881,3 +885,11 @@ Vrabel tvrdí, že národ má právo svrhnout vládu, pokud politici po zvolení
 Na divácký dotaz, zda existuje řešení, jak globalistům překazit realizaci Agendy 2030, Vrabel odpovídá, že možnost teoreticky existuje (masové pokojné protesty, které donutí vlády padnout, následované nástupem lidí chápajících skutečnou situaci), ale reálná proveditelnost je nízká — vyžadovalo by to aktivní zapojení alespoň 7 % populace. Volby jako cestu odmítá jako fakticky nefunkční, protože zvolení politici (v ČR, Německu, USA) nakonec vždy slouží „globalistům", a médii kontrolovaná politická scéna neumožní projít stranám, které by agendu skutečně chtěly zrušit. Vlastní demonstrace „Česká republika na prvním místě" z roku 2022 hodnotí jako úspěšné v tom smyslu, že vlastenecké téma se stalo hlavním předvolebním tématem všech vládních stran — problém je, že po zvolení sliby neplní; lituje, že lidé nevydrželi demonstrovat dostatečně dlouho na to, aby se celý plán prosadil. Predikuje s odhadovanou pravděpodobností přes 75 %, že AFD v Německu (podobně jako Marine Le Pen ve Francii nebo Nigel Farage v Británii) nakonec dopadne jako SPD v ČR — silné řeči bez skutečné změny po zvolení. Uzavírá vlastní prognózou: pokud lidé nezareagují masovým odporem, je pravděpodobnější, že Agenda 2030 projde a ČR bude za 20 let jednou z chudších zemí světa, stejně jako celá Evropa.
 
 **Zdroje:** [Vrabel — Zprávy v devět 13. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
+
+---
+
+### SPD neplní vlastní slib přímé demokracie ani ve vlastní straně — nekonzistentní politika vůči Ukrajincům (Černohorský, 17. 8. 2026)
+
+Černohorský kritizuje SPD za to, že navzdory tomu, že přímá demokracie a odvolatelnost politiků byly jedním z hlavních volebních témat strany, samotný předseda Tomio Okamura žádnou vnitrostranickou přímou demokracii nezavedl. Vyjadřuje zklamání, že se od vstupu SPD do vlády nic v tomto směru nezměnilo. Ke konkrétnímu Okamurovu oznámení o ukončení podpory Ukrajincům od 1. srpna namítá zásadní nekonzistenci: opatření se netýká zpětně stávajících Ukrajinců v ČR (podle něj 300–400 tisíc lidí, které označuje za zneužívající systém), ale jen nově příchozích — takže ti, kdo už v ČR páchají podle něj trestnou činnost a čerpají dávky, budou nadále podporováni, zatímco veřejnost tomu tleská jako splněnému slibu.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)

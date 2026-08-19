@@ -506,6 +506,16 @@ Zítko podal na krajské státní zastupitelství čtyřstránkové trestní ozn
 
 ---
 
+### Očkování těhotných žen a chybějící odškodňovací fond — kritika Babišovy vlády (Černohorský, 17. 8. 2026)
+
+Černohorský vytýká Babišově vládě, že v době covidu doporučila očkování těhotných žen jako bezpečné — v kontrastu se standardní lékařskou opatrností vůči podávání běžných léků těhotným. Tvrdí, že vakcíny „bez ptaní" plošně aplikovali i seniorům v domovech důchodců, což dává do souvislosti s odhadem 35 tisíc zemřelých seniorů. Odmítá jako nedostatečnou Babišovu omluvu ve stylu „stala se chyba" — trvá na tom, že odpovědnost nesou politici, ne odborníci, a kritizuje, že navzdory tomu dosud nevznikl žádný státní odškodňovací fond pro poškozené.
+
+⚡ **Poznámka:** Číslo „35 tisíc mrtvých seniorů" nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+
+---
+
 ## Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 
 ### Vakcíny a agresivní recidivy nádorů — PubMed studie (leden 2026)

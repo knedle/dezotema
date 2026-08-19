@@ -17,6 +17,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Vlastenecká scéna = spolky, nikoliv koordinovaná scéna — každý jede svoji iniciativu, chybí propojení — [FB Live 2 (22. 5. 2026)](../_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
 - Vlastenecká scéna rozbita okolo 2015–2016 vstupem Okamury/SPD/bloku proti islamizaci — [FB Live 2 (22. 5. 2026)](../_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
 - Spolek jako nepolitická alternativa — stranické nálepky lidi rozdělují — [FB Live 2 (22. 5. 2026)](../_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
+- **17. 8.** — SPD neplní vlastní slib přímé demokracie ani ve vlastní straně; nekonzistentní politika vůči Ukrajincům (jen nově příchozí) — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+- **17. 8.** — Odvolání státní zástupkyně z bitcoinové kauzy jako doklad 37 let systémové beztrestnosti politických stran — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -37,6 +39,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **28. 6.** — Právní rozbor čl. 63 (kontrasignace, Havlovo rozhodnutí 1993): Pavlův podpis bez vlády nemá váhu, jde jen o to vzít s sebou Koláře kvůli zbrojním kšeftům — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 - **29. 6.** — Vláda nabídla kompromis (Pavel jen na jednu neformální akci); „marnost nad marnost" — Pavel stále nechápe, že ho vláda nechce — [Videoportál: marnost nad marnost 29. 6.](../_zdroje.md#jiří-černohorský--videoportál-marnost-nad-marnost-29-6-2026)
 - **3. 7.** — únik dokumentu MO o dopravě 35 osob usvědčuje Hrad ze lži; kontroverzní projev v Terezíně (přeživší „taky dělali chyby") — [FB Live: letní sestřih 3. 7.](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
+- **17. 8.** — Facebook penalizoval výrok o Evě Decroix („utopím") jako podněcování nenávisti — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - 90 mld. EUR EU pro Ukrajinu = faktický dárek (nesplacení) — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
@@ -76,6 +79,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
 - Kraj Vysočina odmítl 14 akcelerovaných zón (11. 5. 2026); připomínky do 1. 6. 2026 na MMR — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
+- **17. 8.** — Finanční rozměr: snížení cen elektřiny jen o 10 %, solární dotace 40 mld. Kč/rok, kdo zaplatí likvidaci betonu za 25 let — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 
 ### [Konspirační teorie](../konspirace.md)
 - Sametová revoluce jako řízený rozpad, Havel a Schwarzenberg jako agenti Západu — [Brno a Landsmannschaft 6. 4. 2026](../_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
@@ -93,6 +97,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 ### [Rodina a děti](../rodina-deti.md)
 - LGBT a queer gender zákonem zakázat; drag performace jako programování dítěte; podpora Orbánovy politiky — [Queer gender zákonem zakázat 10. 4. 2026](../_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
 - „Vrátit se ke Sporheltu a do kuchyně" — tradiční role ženy; ženy se nemají vměšovat do politického komentáře — [Video 1706645550679611 27. 5. 2026](../_zdroje.md#jiří-černohorský--video-1706645550679611-27-5-2026)
+- **17. 8.** — Hormonálně navozené kojení u trans rodičů, adopce přes náhradní mateřství v zahraničí — „banda psychopatů"; zrušení vojenské služby jako počátek destrukce společnosti — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+
+### [COVID-19 a vakcíny](../covid-vakciny.md)
+- **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 
 ### [Imigrace](../migrace.md#imigrace-jako-probuzení--černohorský-o-roztržení-společnosti-25-5-2026)
 - Imigrace jako „probuzení" r. 2015; kriminalita v Německu +300–500 % — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)

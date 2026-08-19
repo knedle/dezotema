@@ -3962,3 +3962,10 @@
 - **URL:** <https://www.facebook.com/100085862388850/videos/1383386230523580>
 - **Datum záznamu:** 2026-08-17
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Facebook Live (17. 8. 2026, 2) {#jiří-černohorský--facebook-live-17-8-2026-2}
+- **Soubor:** [přepis](prepisy/done/2026-08-17_Jiří-Černohorský-Živě_Facebook-Live_1.txt)
+- **Kanál:** Jiří Černohorský Živě
+- **URL:** <https://www.facebook.com/100085862388850/videos/1044397518218582>
+- **Datum záznamu:** 2026-08-17
+- **Zpracováno:** ano
