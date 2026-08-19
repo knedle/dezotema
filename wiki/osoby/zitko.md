@@ -82,6 +82,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **23. 7.** — nová konkrétní kauza: 30denní blokace kanálu za sdílení citace sestry Kimberly Overton, oficiálně pro porušení „kybernetické bezpečnosti"; omezení účtu (bez reklam/živého vysílání do 20. 8., odpojený Messenger); zmiňuje padělaný kanál s ukradenou identitou a zálohu na Rumble/Substack — [Videoportál 23. 7.](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 - **29. 7.** — krajský soud v Ústí nad Labem uzavřel odvolací řízení (23. 7.) bez veřejného hlavního líčení; dvě možné varianty výsledku (potvrzení tříletého trestu = „možná první nepodmíněné odsouzení v Evropě" za covidové výroky, nebo vrácení okresnímu soudu v Chomutově) — [Videoportál 29. 7.](../_zdroje.md#československo-tv2--videoportál-29-7-2026)
 - **1. 8.** — výsledek: krajský soud věc vrátil zpět okresnímu soudu v Chomutově (druhá z předjímaných variant) — [Videoportál 1. 8.](../_zdroje.md#československo-tv2--videoportál-1-8-2026)
+- **17. 8.** — detailní rozbor usnesení krajského soudu (7 bodů pochybení okresního soudu); tvrzení o zničených petičních arších z prezidentské kandidatury 2022 — [Videoportál 17. 8.](../_zdroje.md#československo-tv2--videoportál-17-8-2026)
 - **6. 8.** — k témuž rozhodnutí dodává, že písemné usnesení (22 stran, 51 bodů) má konstatovat neizolaci SARS-CoV-2; upozorňuje na falešné profily zneužívající jeho identitu — [Videoportál 6. 8.](../_zdroje.md#československo-tv2--videoportál-6-8-2026)
 
 ### [Konspirační teorie](../konspirace.md)

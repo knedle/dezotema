@@ -3992,3 +3992,10 @@
 - **Datum záznamu:** 2026-08-17
 - **Poznámka:** Pozvánka na „debatní stánek" s Jakubem Svobodou — organizační oznámení, žádná nová tvrzení. Bez zpracování, bez wiki úprav.
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (17. 8. 2026) {#československo-tv2--videoportál-17-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-17_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1399605649019479&_rdr>
+- **Datum záznamu:** 2026-08-17 (nedělní speciál, obsah odkazuje na usnesení z 18. 6., doručené 30. 7.)
+- **Zpracováno:** ano

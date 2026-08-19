@@ -217,7 +217,30 @@ Zítko se vrací ke svému odsouzení — soudkyně Mgr. Iva Dvořáková z Chom
 
 **29. 7.** — Zítko upřesňuje stav odvolacího řízení: krajský soud v Ústí nad Labem věc uzavřel minulý čtvrtek (23. 7.) bez nařízení veřejného hlavního líčení — ačkoli on i jeho obhájce na veřejném líčení trvali (mj. aby bylo možné vyvrátit rozsudek soudkyně Dvořákové a nechat vypovídat molekulární bioložku Sonju Pekovou jako svědkyni). Výsledek rozhodnutí zatím nemá k dispozici. Popisuje dvě možné varianty: (1) krajský soud potvrdí tříletý nepodmíněný trest — což by dle něj bylo „možná první nepodmíněné odsouzení v Evropě" za covidové výroky (jinde padaly jen podmínky); nebo (2) věc vrátí s odůvodněním zpět okresnímu soudu v Chomutově.
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026)
+**16.–17. 8.** — Krajský soud v Ústí nad Labem vydal usnesení (z 18. 6., doručené obhájci 30. 7.) — druhá varianta se potvrdila: rozsudek okresního soudu v Chomutově (soudkyně Mgr. Iva Dvořáková) byl zrušen a věc vrácena k novému projednání. Zítko na svých kanálech šíří a komentuje rozbor tohoto usnesení publikovaný webem Covidlogika (Substack), s citacemi přímo z odůvodnění krajského soudu. Sedm klíčových bodů pochybení okresního soudu, jak je Zítko interpretuje:
+1. **Nepravdivost nelze dovodit jen rozporem s oficiálními stanovisky** — krajský soud odmítl, že by rozpor výroku s oficiálními daty v „citlivé době" sám o sobě zakládal nepravdivost a poplašnost.
+2. **Dezinformace požívá ochrany svobody projevu** — soud konstatoval, že „dezinformace" není samostatná trestněprávní kategorie; vždy je nutné zkoumat kontext a povahu výroku.
+3. **Výroky jsou politickým projevem** — soud kvalifikoval Zítkova vystoupení jako projevy politické povahy požívající nejvyšší ústavní ochrany (kritika vlády, nesouhlas s opatřeními/odborníky).
+4. **Videa nepůsobí seriózně, jsou prolnutá humorem** — soud sám popsal Zítkova videa jako spojená s hudbou a pokusy o legraci, což podle něj oslabuje závěr o vážně míněné poplašné zprávě.
+5. **Absurdní narativy nemohou být poplašné ze své podstaty** — pokud výrok běžný příjemce se zdravým rozumem nebere jako reálnou zprávu o světě, nemohl vyvolat děs, tudíž nejde o trestný čin.
+6. **Žádné důkazy o reálném dopadu** — z rozsudku nevyplývá, kolik lidí videa vidělo, zda byl někdo skutečně vyděšen, ani zda výroky vyvolaly zásah záchranných složek; nebyl identifikován žádný poškozený.
+7. **Přitěžující okolnost „stav pandemie" byla přičtena automaticky, což nelze** — je nutné zkoumat věcnou souvislost; okresní soud navíc nedostatečně vypořádal nález Ústavního soudu o svobodě projevu (čl. 17 Listiny).
+
+Zítko dodává procesní výhrady: z 15 navržených svědků obhajoby nebyl připuštěn ani jeden, státní zástupce (David Werner) během více než ročního procesu mluvil dohromady necelou hodinu, a sám byl na počátku řízení vzat do vazby a čelil evropskému zatýkacímu rozkazu, ačkoli měl obhájce zmocněného k zastupování v nepřítomnosti. Zdůrazňuje, že věc tímto není uzavřena (nebyl zproštěn viny) — případ jde znovu k okresnímu soudu, který musí respektovat závazné právní závěry krajského soudu.
+
+⚡ **Poznámka:** Obsah a interpretaci usnesení krajského soudu nelze nezávisle ověřit z veřejně dostupných zdrojů — vychází výhradně ze Zítkovy prezentace rozboru serveru Covidlogika.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [Československo TV2 — Videoportál 29. 7. 2026](_zdroje.md#československo-tv2--videoportál-29-7-2026), [Československo TV2 — Videoportál 17. 8. 2026](_zdroje.md#československo-tv2--videoportál-17-8-2026)
+
+---
+
+### Zítkova prezidentská kandidatura 2022: tvrzení o zničených petičních arších (17. 8. 2026)
+
+Zítko se vrací ke své kandidatuře na prezidenta „korporace Česko" na podzim 2022 — motivoval ji snahou dostat se do médií a varovat veřejnost před vakcínami. Tvrdí, že třikrát žádal Ministerstvo vnitra o nahlédnutí do vlastních petičních archů, což mu nebylo umožněno; usuzuje, že archy byly zlikvidovány nebo ukradeny a nebyly předloženy před svědky ke kontrole, což čte jako důkaz podvodu a neplatnosti voleb. Rozšiřuje to na obecné tvrzení, že volby v ČR i na Slovensku jsou dlouhodobě (15–20 let) manipulovány prostřednictvím volebního softwaru (Political/Dominion v ČR, ESET na Slovensku) s předem dosazenými kandidáty.
+
+⚡ **Poznámka:** Tvrzení o zničení petičních archů a manipulaci volebního softwaru nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 17. 8. 2026](_zdroje.md#československo-tv2--videoportál-17-8-2026)
 
 ---
 
