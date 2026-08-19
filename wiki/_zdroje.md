@@ -3917,3 +3917,11 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/3608855882598775>
 - **Datum záznamu:** 2026-08-16
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: repost staré debaty o pomoci Ukrajině (17. 8. 2026) {#jindřich-rajchl--videoportál-repost-debaty-ukrajina-17-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-17_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2867016817010958>
+- **Datum záznamu:** 2026-08-17 (repost staršího debatního klipu s Martinem Dvořákem)
+- **Poznámka:** Beze změny obsahu — repost už dříve zdokumentovaných postojů k pomoci Ukrajině (odmítnutí zbrojení, korupce zahraniční pomoci, diplomacie místo války). Bez nových témat, bez wiki úprav.
+- **Zpracováno:** ano
