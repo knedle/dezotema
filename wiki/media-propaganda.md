@@ -536,3 +536,11 @@ Zítko vzpomíná na počátky hnutí „Srdcem pro vlast" (2020, s Robertem Šm
 Rajchl kritizuje moderátorku Adélu Snopovou (CNN Prima News) za rozhovor s Václavem Klausem v pořadu Napřímo — vytýká jí taktiku „otázka–odpověď–vlastní komentář–jdeme dál" (zabraňující hostovi reagovat), stejnou, jakou dle něj použila i na něj samotného v debatě o Rusku. Zásadní problém vidí v tom, že si dovolila Klause coby bývalého prezidenta věcně konfrontovat a prosazovat vlastní názory na válku na Ukrajině, které označuje za zjednodušující — na rozdíl od moderátora Michala Půra, kterého chválí za to, že hostům dává prostor a své názory prezentuje jen na vlastním podcastu, ne v roli moderátora. Přirovnává ji k bývalé redaktorce ČT Zuzaně Černé, jejíž vlastní projekt po odchodu z ČT rychle zkrachoval pro nezájem.
 
 **Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
+
+---
+
+### Zmařená reklama v Brně a obvinění z „bonzáctví" ve vlastenecké komunitě (Černohorský, 17. 8. 2026)
+
+Černohorský popisuje zmařenou domluvu na billboardovou reklamu (kandidatura do Brno-střed) na vozech Dopravního podniku města Brna — po předběžném potvrzení přes zlínskou reklamní agenturu i přímo od zaměstnance dopravního podniku přišlo do 20 minut, respektive dvou dnů, zrušení s odkazem na to, že plochy už jsou obsazené. Aktivista označovaný jako „Dan Novák" se podle Černohorského veřejně chlubil, že o zrušení věděl předem a že Černohorského „slušně poslali do prdele" — což Černohorský čte jako důkaz, že mu někdo z dopravního podniku informace záměrně vynesl. Navazuje na to obviněním, že v uzavřeném chatu jeho podpůrné komunity „Společenství" je osoba, která zprávy soustavně vynáší Lence Tarabové a Novákovi — extrémně rozšiřuje starší tezi o tříštění vlastenecké scény (viz [Zklamání z reakce na sjezd v Brně](benesovy-dekrety.md#zklamání-z-reakce-na-sjezd-v-brně--slíbený-otevřený-dopis-se-nikdy-nerealizoval-černohorský-26-6-2026)) o konkrétní obvinění ze špionáže a zrady uvnitř vlastního tábora.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)

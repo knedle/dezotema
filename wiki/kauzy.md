@@ -326,6 +326,14 @@ Jiří Černohorský odhaluje (s odkazem na informace od Petry Redové), že spo
 
 ---
 
+### První městské brněnské hody — plýtvání a ukrajinská vlajka na magistrátě (Černohorský, 17. 8. 2026)
+
+Černohorský kritizuje uspořádání „prvních městských brněnských hodů" krátce před komunálními volbami jako účelovou akci typu „chléb a hry" placenou z veřejných peněz. Zmiňuje v této souvislosti sochu na náměstí Svobody, kterou hodnotí posměšně jako vzhledově nepovedenou („Gulliverovo hovno") — pořizovací náklad odhaduje na 10–12 milionů Kč, provozní údržbu na půl milionu ročně. Kritizuje také trvalé vyvěšení ukrajinské vlajky na budově magistrátu, kterou označuje hanlivým výrazem, a sarkasticky navrhuje, že by na otevření hodů mohli rovnou pozvat zástupce Sudetoněmeckého Landsmannschaftu (Bernda Posselta), když už město podle něj takto okatě prosazuje „ukronacistickou" symboliku.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
+
+---
+
 ### Babiš-Explosia: prodej státní zbrojovky den po zahájení francouzského vyšetřování — Vrabel (23. 5. 2026)
 
 Ladislav Vrabel upozorňuje na podezřelé načasování: v den, kdy francouzská prokuratura oznámila vyšetřování Andreje Babiše pro finanční machinace (vyvádění peněz, nákup majetku ve Francii), Babiš v živém vysílání zmínil, že „jsou tady nabídky" na prodej státní zbrojovky Explosia francouzským kupcům — Macron prý loboval přímo u Babiše. Explosia (výroba dynamitu a střelného prachu) je jedním z nejziskovějších státních podniků.
@@ -877,3 +885,15 @@ Rajchl kritizuje rozsudek krajského soudu, který Ukrajinci Alexandrovi Majdan�
 **13. 8.** — Rajchl (přebíraje video TikTok kanálu @pro.cesko) dodává nové srovnání: člověk odsouzený „v pátek" za výhružný komentář k jeho příspěvku o Zuzaně Černé dostal stejnou podmínku jako Majdanňuk za pokus o vraždu zápalnou lahví. Uvádí i konkrétní srovnávací tresty za podobné útoky v ČR (30, 18, 11 let vězení), oproti nimž je Majdanňukova podmínka nepoměrná.
 
 **Zdroje:** [Rajchl — Facebook Live 9. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026), [Rajchl — Videoportál 13. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-13-8-2026)
+
+---
+
+## Kauza „Terezy" — podezření na koordinovaný postup policie, soudu a školy proti matce
+
+### Noční zastavení, sporný „lízací test" a odebrání řidičáku (Černohorský, 17. 8. 2026)
+
+Černohorský popisuje případ matky dvou dětí (v jeho vysílání označované jako „Tereza"), kterou v deset hodin večer mimo velké město zastavila policejní hlídka (spojená hlídka z Dobříše a Příbrami) a podrobila ji orientačnímu „lízacímu testu" na drogy — bez řádného postupu, bez předání kopie dokumentace o výsledku a bez možnosti zpochybnit manipulaci s testovacím proužkem (podle Černohorského ho policisté hodili volně na palubní desku vozidla). Na základě testu jí byl odebrán řidičský průkaz. Černohorský, s nímž byla žena v telefonickém spojení v době zásahu, tvrdí, že šlo o cílenou, předem naplánovanou akci vyvolanou jejím bývalým partnerem („zmrt z bohaté rodiny") ve spolupráci s policií, soudem, státním zastupitelstvím i školou dětí (ředitelka, třídní učitelka) s cílem připravit ji o děti a diskreditovat ji jako matku pod vlivem drog. Zmiňuje, že dva oslovení právníci případ po počátečním zájmu bez vysvětlení odmítli převzít, což interpretuje jako zastrašování. Dává to do souvislosti s obdobným podnětem od jiné divačky (dopisovatelka „Zorka") popisující údajně identický postup justice a policie v regionu Frýdek-Místek.
+
+⚡ **Poznámka:** Jméno a detaily případu nelze ověřit z veřejně dostupných zdrojů; jde výhradně o Černohorského jednostrannou interpretaci.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)

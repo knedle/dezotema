@@ -71,6 +71,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Korupce na Ukrajině — Mindić/Firepoint/Kvartal 95 (z videa Konečné) — [FB Live 10. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-10-5-2026)
 - Meeting Brno 15 mil. na sudetoněmecké akce — [FB Live „dopoledníček" 21. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-dopoledníček-21-5-2026)
 - Hejtman Grolich (KDU-ČSL) žádá občany o finanční dary na kampaň — nedůstojné a pokrytecké — [Videoportál: Grolich žebrá o peníze 30. 6. 2026](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
+- **17. 8.** — Kauza „Terezy": podezření na koordinovaný postup policie, soudu a školy proti matce po nočním „lízacím testu"; první brněnské hody jako plýtvání (socha 10–12 mil. Kč) — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
@@ -87,6 +88,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Hrad prodal tajné info Deníku N — média mlčí — [Dvojí metr: Zeman vs. Pavel 27. 1. 2026](../_zdroje.md#jiří-černohorský--dvojí-metr-zeman-vs-pavel-27-1-2026)
 - ČT 8 miliard bez kontroly; Jakub Janda a Štít demokracie jako parazitický projekt — [Návrat z bandovolené 2. 4. 2026](../_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
 - Vlastenecká scéna = byznys; transparentní účty místo skutečného vlastenectví; paralela s Petrem Ortekem — [FB Live „dopoledníček" 21. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-dopoledníček-21-5-2026)
+- **17. 8.** — Zmařená reklama na dopravním podniku Brna; obvinění z „bonzáctví" — únik informací ze soukromého chatu Tarabové a „Dan Novákovi" — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - LGBT a queer gender zákonem zakázat; drag performace jako programování dítěte; podpora Orbánovy politiky — [Queer gender zákonem zakázat 10. 4. 2026](../_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
@@ -103,6 +105,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Přímá výzva k fyzickému napadení Pšenáka: „patří rozkopat rypák" — [FB Live 23. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-23-5-2026)
 - Dvořák — „vzít televizi a hajzla uškrtit / vyhodit ho z okna" — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 - Pavel — „rošlapal rypák, flusil do ksichtu" — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+- „Boreček" (DPP) — „rozbíjí rypák, v nějakým tom kleši" — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 
 ---
 
@@ -215,6 +218,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Volodymyr Zelenskyj | ❌ negativní | Pojmenování jednotky po UPA rozdmýchalo krizi s Polskem; označen za „nacistické prase" | 2026-06-28 | [FB Live: čl. 63, Polsko–Ukrajina](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026) |
 | Jan Grolich | ❌ negativní | Hejtman Jihomoravského kraje (KDU-ČSL) — kritizován za žádost o finanční dary od občanů; terč explicitní násilné fantazie | 2026-06-30 | [Videoportál: Grolich žebrá o peníze](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026) |
 | Oliver Zipse | ✅ pozitivní | Šéf BMW — „snad jediný chlap v evropském autoprůmyslu, kterému ještě zbyly koule"; marně varoval EU před zákazem spalovacích motorů | 2026-07-02 | [Videoportál: krach automobilového průmyslu](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026) |
+| Dan Novák | ❌ negativní | Veřejně se chlubil, že věděl o zmařené reklamní kampani na dopravním podniku Brna a že Černohorského „slušně poslali do prdele" | 2026-08-17 | [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026) |
+| Lenka Tarabová | ❌ negativní | Obviněna, že jí (spolu s Novákem) někdo ze soukromého chatu komunity vynáší interní informace | 2026-08-17 | [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026) |
 
 ---
 
