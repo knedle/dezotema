@@ -3984,3 +3984,11 @@
 - **Datum záznamu:** 2026-08-17
 - **Poznámka:** Opakuje již zdokumentovaný postoj (kritika státního financování Prague Pride, 7. 8. 2026) — jen doplněn zdroj, bez rozšíření textu.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (17. 8. 2026, 2) {#restart-česko--videoportál-17-8-2026-2}
+- **Soubor:** [přepis](prepisy/done/2026-08-17_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1070700632076787>
+- **Datum záznamu:** 2026-08-17
+- **Poznámka:** Pozvánka na „debatní stánek" s Jakubem Svobodou — organizační oznámení, žádná nová tvrzení. Bez zpracování, bez wiki úprav.
+- **Zpracováno:** ano
