@@ -11,6 +11,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Kritika STAN — LGBT, daně, ceny bytů — [STAN a mladá generace (27. 7.)](../_zdroje.md#adam-šejna--stan-a-mladá-generace-27-7-2026)
 - Petr Pavel a nestrannost Ústavního soudu (rychlost rozhodnutí ve prospěch Pavla vs. běžné soudy) — [29. 7.](../_zdroje.md#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026)
 - Sociální dávky jako závislost (analogie s krmením divoké zvěře) — [30. 7.](../_zdroje.md#adam-šejna--sociální-dávky-jako-závislost-30-7-2026)
+- Piráti a regulace Airbnb v Praze jako „komunistický" zásah do vlastnictví — [19. 8.](../_zdroje.md#restart-česko--videoportál-19-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 

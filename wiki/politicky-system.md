@@ -893,3 +893,11 @@ Na divácký dotaz, zda existuje řešení, jak globalistům překazit realizaci
 Černohorský kritizuje SPD za to, že navzdory tomu, že přímá demokracie a odvolatelnost politiků byly jedním z hlavních volebních témat strany, samotný předseda Tomio Okamura žádnou vnitrostranickou přímou demokracii nezavedl. Vyjadřuje zklamání, že se od vstupu SPD do vlády nic v tomto směru nezměnilo. Ke konkrétnímu Okamurovu oznámení o ukončení podpory Ukrajincům od 1. srpna namítá zásadní nekonzistenci: opatření se netýká zpětně stávajících Ukrajinců v ČR (podle něj 300–400 tisíc lidí, které označuje za zneužívající systém), ale jen nově příchozích — takže ti, kdo už v ČR páchají podle něj trestnou činnost a čerpají dávky, budou nadále podporováni, zatímco veřejnost tomu tleská jako splněnému slibu.
 
 **Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+
+---
+
+### Piráti a regulace krátkodobého ubytování v Praze jako „komunistický" zásah do vlastnictví (Šejna, 19. 8. 2026)
+
+Adam Šejna reaguje na video dokládající, jak pražští zastupitelé za Piráty postupují proti nelegálnímu krátkodobému ubytování typu Airbnb v bytech kolaudovaných k bydlení. Argumentuje, že mezi takovým bytem a hotelem není z pohledu nájemníka žádný praktický rozdíl, a kritizuje Piráty za to, že si osobují právo určovat občanům, jak mohou nakládat s vlastním majetkem — srovnává tento přístup s komunismem („pražští komunisté"). Uzavírá výzvou volit v komunálních volbách podle vlastní představy o budoucí podobě Prahy.
+
+**Zdroje:** [Restart Česko — Videoportál 19. 8. 2026](_zdroje.md#restart-česko--videoportál-19-8-2026)

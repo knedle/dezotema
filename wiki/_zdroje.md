@@ -4021,3 +4021,10 @@
 - **Datum záznamu:** 2026-08-19
 - **Poznámka:** Cizí sdílený/přehraný obsah — detailní vojenská analýza fronty ve slovenštině, stylisticky i jazykově odlišná od Černohorského vlastních komentářů. Bez zpracování, bez wiki úprav.
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (19. 8. 2026) {#restart-česko--videoportál-19-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-19_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/951351847970423>
+- **Datum záznamu:** 2026-08-19
+- **Zpracováno:** ano
