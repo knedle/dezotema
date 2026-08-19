@@ -4013,3 +4013,11 @@
 - **URL:** <https://www.facebook.com/61586055215179/videos/929577443525103>
 - **Datum záznamu:** 2026-08-18
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál (19. 8. 2026) {#jiří-černohorský--videoportál-19-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-19_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě
+- **URL:** <https://www.facebook.com/100085862388850/videos/2076034456376990>
+- **Datum záznamu:** 2026-08-19
+- **Poznámka:** Cizí sdílený/přehraný obsah — detailní vojenská analýza fronty ve slovenštině, stylisticky i jazykově odlišná od Černohorského vlastních komentářů. Bez zpracování, bez wiki úprav.
+- **Zpracováno:** ano
