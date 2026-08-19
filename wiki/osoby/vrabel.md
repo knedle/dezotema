@@ -675,6 +675,11 @@
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 6)
 - **14. 8.** — Conor Kennedy na ruském seznamu hledaných; spekulace o „mentálním poškození" rodiny Kennedy — [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+- **15. 8.** — Nedostatek raket Patriot pro Ukrajinu; neobvyklá empatie k Zelenskému jako vmanipulovanému do konfliktu; pokračující dodávky Starlink 2.5 — [Zprávy v devět 15. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 5)
+- **15. 8.** — Polsko (Tusk): budování armády, teorie „kdo je na řadě" (Ukrajina, pak Polsko) k odstranění bílých Slovanů z Evropy — [Zprávy v devět 15. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
+- **15. 8.** — Německo jako logistický uzel NATO; teorie o plánované výměně obyvatel Evropy — [Zprávy v devět 15. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
 
 ---
 

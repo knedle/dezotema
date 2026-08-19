@@ -202,6 +202,10 @@ Vrabel ve vysílání 30. dubna 2026 referuje o dvou zásadních vojenských roz
 
 **Zdroje:** [Vrabel — Noční zprávy: Srbsko, NATO, ETS2, 30. 4. 2026](_zdroje.md#ladislav-vrabel--noční-zprávy-srbsko-nato-ets2-30-4-2026)
 
+**15. 8.** — K vyjádření polského premiéra Donalda Tuska na přehlídce polského námořnictva v Gdyni (polská armáda brzy patří k největším v Evropě, obranu proti válce zajistí jen silný, nezávislý stát) Vrabel rozvíjí vlastní teorii pořadí: pokud je cílem zbavit se Evropu „bílého muže", především Slovana, je první na řadě Ukrajina a druhá Polsko (40 milionů obyvatel). Dokládá osobní glosou od manželčiny polské kamarádky, že atmosféra v Polsku (na rozdíl od „poklidné" ČR) je už napjatá a lidé se bojí. Za výjimečné považuje, že Poláci mají díky vlastní historické zkušenosti druhou světovou válku v živé paměti (na rozdíl od ČR) a přesto nechávají své politiky směřovat zemi k dalšímu konfliktu. Doplňuje sarkastickou poznámku, že Polsko chce mít „jednu z největších" (ne největší) armád, protože ví, že největší bude mít Německo — což navazuje na jeho paralelní úvahu o roli Německa jako logistického uzlu NATO (viz níže).
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
+
 ---
 
 ### Rusko prohlašuje výrobce dronů v Evropě za legitimní vojenské cíle — Zítko (2. 5. 2026)
@@ -769,3 +773,11 @@ Německý ministr obrany Boris Pistorius při návštěvě zbrojovky KNDS „nec
 **11. 8.–12. 8.** — Vrabel navazuje na téma dvakrát. K nominaci Jaromíra Zuny (SPD) do funkce ministra obrany dodává zklamání: SPD si nejvíc nárokovala nálepku vlastenecké strany vzešlé z demonstrací roku 2022, ale místo prosazení slibované politiky obsadila resort obrany ministrem, který chce muniční iniciativu ještě posílit. Vrabel odmítá Babišovo tvrzení (že členství v „koalici ochotných" nepřineslo žádné výsledky) jako účelové gesto pro voliče — ve skutečnosti podle něj muniční iniciativa reálné výsledky přinesla: za vlády Petra Fialy byla ČR na 10. místě žebříčku „nepřátelských zemí" Ruska, s Babišem se posunula na 5. místo. K rozhovoru náměstka MO Jakuba Landovského pro ČT24 (přiznává pokračující českou vojenskou pomoc Ukrajině — munice, drony, peníze do PURL — přestože vláda navenek vystupuje zdrženlivě) dodává, že jde o „přímé zapojení do války", byť se hledá jen to, kdo to zaplatí.
 
 **Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+
+---
+
+### Německo jako logistický uzel NATO — teorie o plánované výměně obyvatel Evropy (Vrabel, 15. 8. 2026)
+
+Ke zprávě o „německém operačním plánu" Bundeswehru — v případě eskalace na východním křídle NATO by mělo přes území Německa směrem k Polsku a hranicím Aliance projet přibližně 800 tisíc vojáků a 200 tisíc obrněných vozidel, německé nemocnice by měly přijímat až tisíc zraněných denně — Vrabel nejprve sarkasticky poznamenává, že zpráva neuvádí, kde se budou pohřbívat tisíce mrtvých. Z toho rozvíjí širší úvahu: na rozdíl od dětství, kdy nechápal, jak mohla vzniknout druhá světová válka jako výsledek postupných společenských procesů, dnes podle něj vidí v přímém přenosu, že žádné takové procesy nejsou — válka je řízena „shora", jen není vidět odkud. Nabízí tři možné cíle takto řízeného plánu: celkové vylidnění světové populace na půl miliardy až miliardu lidí, zbavení se slovanských národů, nebo zbavení se „bílého člověka" v Evropě obecně. Pokud platí poslední varianta, spekuluje, že vzniklou mezeru mají zaplnit legální migranti z islámských zemí (v kontrastu k oficiálně kritizované nelegální migraci) — a v takovém scénáři by dalšími zeměmi zapojenými do konfliktu po Polsku mohli být i Němci, kteří mají coby silný 80milionový národ historicky prokázanou schopnost se „jen tak nedát"; zmiňuje také rostoucí počet mladých Němců prchajících ze země navzdory dřívějším omezením vycestování bez ohlášení odvodové komisi.
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)

@@ -3933,3 +3933,10 @@
 - **Datum záznamu:** 2026-08-17
 - **Poznámka:** Cizí sdílené video — přepis je reportáž Seznam Zpráv o protestech na Ukrajině proti Zelenskému, ne Rajchlova vlastní řeč. Rajchlův komentář je jen sarkastický popisek u sdílení. Bez zpracování, bez wiki úprav.
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (15. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-15-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-15_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1430866475530647>
+- **Datum záznamu:** 2026-08-15
+- **Zpracováno:** ano

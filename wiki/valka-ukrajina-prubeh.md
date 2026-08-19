@@ -936,6 +936,14 @@ Elon Musk/SpaceX odmítli umožnit ukrajinské armádě používat satelitní sy
 
 ---
 
+### Nedostatek raket Patriot pro Ukrajinu — neobvyklá empatie k Zelenskému jako vmanipulovanému do konfliktu (Vrabel, 15. 8. 2026)
+
+Program PURL zatím nedosahuje objemu odpovídajícího potřebám Ukrajiny (28 zemí přislíbilo dohromady přes 6 miliard dolarů, ke konci června šlo o závazky cca 6,3 mld.). Vrabel si všímá, že Zelenskyj v žádosti o rakety Patriot prozradil citlivou informaci — řekl, že potřebuje jen 1 % ze zásob USA (ideálně 10 %, minimálně 5 %, aby Ukrajina přežila zimu) — čímž fakticky odhalil velikost celkových amerických zásob, což Trumpa staví do nepříjemné pozice (musí reagovat na požadavek, který zní jako málo, přestože jde o citlivé vojenské tajemství). K tomu Vrabel vyjadřuje neobvyklou míru pochopení pro Zelenského: přirovnává jeho pozici k člověku, kterého USA a celá Evropa přesvědčily jít do konfliktu příslibem „bezmezné" podpory (zbraně, peníze, zpravodajské informace, výcvik) — a jakmile vyjednal příměří, protlačily ho zpět do boje slibem, že „to vyhrajeme", jen aby mu pak v kritické chvíli oznámily nedostatek raket. Zdůrazňuje, že to neznamená uznání Zelenského jako suverénního prezidenta (odmítá i divácké námitky o jeho „chazarském" původu a globalistickém napojení) — jen konstatuje, že jako člověk se neměl nechat do takové hry vmanipulovat, a že za rozklad Ukrajiny nese historickou odpovědnost. Dokládá to i pokračujícími dodávkami novější generace terminálů Starlink 2.5 (menší, lehčí, úspornější) ukrajinské armádě — což čte jako důkaz, že USA vojenskou podporu (včetně přímé pomoci útočným operacím na ruské území) fakticky neukončily, jen ji přeskupují.
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
+
+---
+
 ### Conor Kennedy na ruském seznamu hledaných za boj na straně Ukrajiny — spekulace o „mentálním poškození" rodiny (Vrabel, 14. 8. 2026)
 
 Rusko zařadilo na mezinárodní seznam hledaných osob 32letého Conora Kennedyho, syna amerického ministra zdravotnictví Roberta F. Kennedyho juniora, za jeho účast v ukrajinské cizinecké legii (dle vlastních dřívějších výpovědí bojoval několik měsíců v Charkovské oblasti v roce 2022) — v nepřítomnosti mu hrozí až 10 let vězení, Moskva stíhá obdobně i další zahraniční dobrovolníky na straně Ukrajiny. Vrabel se pozastavuje nad tím, že syn vysoce postavené americké politické rodiny veřejně přizná boj za „fašistický režim" Zelenského i s odstupem let, kdy je už podle něj každému jasné, oč v konfliktu jde — a spekuluje (s odkazem na vyjádření svého známého lékaře, který doprovázel RFK Jr. na jednu z jeho akcí) o možném „mentálním poškození" v rodině, případně psychosomatických následcích atentátu na prezidenta Johna F. Kennedyho. Srovnává Conora Kennedyho co do „hlouposti" s českým europoslancem Filipem Turkem.
