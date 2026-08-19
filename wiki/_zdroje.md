@@ -3925,3 +3925,11 @@
 - **Datum záznamu:** 2026-08-17 (repost staršího debatního klipu s Martinem Dvořákem)
 - **Poznámka:** Beze změny obsahu — repost už dříve zdokumentovaných postojů k pomoci Ukrajině (odmítnutí zbrojení, korupce zahraniční pomoci, diplomacie místo války). Bez nových témat, bez wiki úprav.
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: sdílená reportáž Seznamu o demonstracích na Ukrajině (17. 8. 2026) {#jindřich-rajchl--videoportál-sdilena-reportaz-seznam-ukrajina-17-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-17_Jindřich-Rajchl_Videoportál_1.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1732347364723263>
+- **Datum záznamu:** 2026-08-17
+- **Poznámka:** Cizí sdílené video — přepis je reportáž Seznam Zpráv o protestech na Ukrajině proti Zelenskému, ne Rajchlova vlastní řeč. Rajchlův komentář je jen sarkastický popisek u sdílení. Bez zpracování, bez wiki úprav.
+- **Zpracováno:** ano
