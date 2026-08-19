@@ -718,6 +718,14 @@ Předseda Evropské rady António Costa dvakrát zavolal do Ruska kvůli možný
 
 ---
 
+### Evropu u mírových jednání budou zastupovat Německo, Británie a Francie — teorie o anglosaských globalistech proti Slovanům (Vrabel, 16. 8. 2026)
+
+Po měsících sporu o to, kdo bude za Evropu vyjednávat s Ruskem (viz [Boj o vyjednavače EU–Rusko, 9. 6.](#boj-o-vyjednavače-eurusko-schröder-lídři-vs-struktury-eu-vrabel-9-6-2026)), padlo rozhodnutí: Německo, Británii a Francii. Vrabel u každého ze tří zástupců zdůrazňuje osobní vazby na globalistické finanční struktury: Friedrich Merz (Německo) je bývalý předseda představenstva BlackRock Deutschland — firmy, která má od roku 2022 spravovat poválečnou obnovu Ukrajiny; Emmanuel Macron (Francie) dříve pracoval pro banku rodiny Rothschildů; britského zástupce spojuje s tím, že Británie díky islamizaci velkých měst (muslimští starostové) fakticky reprezentuje „muslimskou Evropu", a že to byl právě britský premiér, kdo v dubnu 2022 zmařil rozjednanou mírovou dohodu přesvědčením Zelenského, aby ve válce pokračoval. Ani jeden z menších/středních států (Španělsko, Itálie, Polsko, Balkán) podle Vrabela zastoupen nebude. Z toho vyvozuje, že jednání povedou výhradně „anglosasové" hájící zájmy globalistických struktur, ne zájmy „Slovanů" — odkazuje na starší tezi Štefana Harabína (leden 2023), že anglosaské mocnosti systematicky vyvolávají konflikty mezi slovanskými národy.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 16. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026)
+
+---
+
 ### Rubio–Lavrov na ASEANu: Rusko diplomaticky „vyhrálo", další vyzbrojování Ukrajiny „neakceptovatelné" (Vrabel, 23. 7. 2026)
 
 Na okraj summitu ASEAN (kam Rusko ani USA formálně nepatří, obě byly jen přizvány jako přátelské státy) došlo na žádost americké strany k bilaterálnímu, 35minutovému jednání ministra zahraničí Marka Rubia se Sergejem Lavrovem. Zatímco USA vydaly jen velmi obecné vyjádření, Rusko zveřejnilo diplomatickou cestou (web ministerstva zahraničí) podrobnější popis jednání. Podle Vrabelova výkladu Lavrov Rubiovi na rovinu popsal situaci na bojišti (ruská armáda dle něj nikde neprohrává, opak toho, co píší americká a evropská média) a připomněl, že Rusko akceptovalo vše dohodnuté mezi Trumpem a Putinem v Anchorage, zatímco USA dohodu nedodržely. Lavrov výslovně řekl, že Rusko si je vědomo americké role při navádění ukrajinských raket hluboko na ruské území (Starlink + zpravodajské informace) a že další vyzbrojování Ukrajiny ze strany USA je „nepřijatelné, neakceptovatelné". Vrabel to hodnotí jako diplomatickou výhru Ruska (USA o schůzku samy požádaly, Rubio odešel jako „ne vítěz") a jako signál, že Rusko přestává před Američany předstírat roli usilující o mír — chystá se dokončit „speciální vojenskou operaci" alespoň v části Donbasu a je ochotno k diplomatickému řešení jen za vlastních podmínek, nikoli podmínek Ukrajiny.

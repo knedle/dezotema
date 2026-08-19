@@ -681,6 +681,12 @@
 - **15. 8.** — Polsko (Tusk): budování armády, teorie „kdo je na řadě" (Ukrajina, pak Polsko) k odstranění bílých Slovanů z Evropy — [Zprávy v devět 15. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
 - **15. 8.** — Německo jako logistický uzel NATO; teorie o plánované výměně obyvatel Evropy — [Zprávy v devět 15. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
 
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 7)
+- **16. 8.** — Mírová jednání za Evropu povedou Německo/Británie/Francie; teorie o anglosaských globalistech (Merz/BlackRock, Macron/Rothschild) proti Slovanům — [Nedělní vysílání 16. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 4)
+- **16. 8.** — Katalog nesplněných vládních slibů od 2022; nová demonstrace 3. 10. na Malostranském náměstí; návrh reformy (odvolatelnost politiků, zákaz lobbingu) — [Nedělní vysílání 16. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026)
+
 ---
 
 ## Zmíněné osoby
