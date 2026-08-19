@@ -251,6 +251,10 @@ Ke zprávě, že se španělská enkláva Ceuta potýká s přeplněnými zaří
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
 
+**17. 8.** — Vrabel dokládá na konkrétním příkladu, jak Lex Ukrajina 7 činí Okamurovu rétoriku prázdnou: Okamura veřejně požaduje zrušení dočasné ochrany pro Ukrajince a prezentuje to jako vlastenecký úspěch — ovšem jeho vlastní vláda a parlament v květnu 2026 schválili právě Lex Ukrajina 7, který dává Ukrajincům s dočasnou ochranou nárok požádat o trvalý pobyt. Podle Vrabela to fakticky znamená, že dočasná ochrana je pro ně už bezpředmětná — mohou přejít na trvalý pobyt, takže její formální „zrušení" nic nezmění. Vrabel to označuje za záměrné klamání veřejnosti, které funguje jen díky nevědomosti o obsahu vlastního zákona vládní koalice.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026), [Vrabel — Zprávy v devět 17. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
+
 ---
 
 ### Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)

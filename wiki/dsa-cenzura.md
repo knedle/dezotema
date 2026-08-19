@@ -46,6 +46,14 @@ Ke zprávě, že eurokomisařka Henna Virkkunen vyzvala platformy Meta a TikTok 
 
 ---
 
+### Pokuta 120 mil. eur pro X jako trest za zveřejnění cenzurních žádostí — Zuckerbergova „zadní vrátka" (Vrabel, 17. 8. 2026)
+
+Evropská komise udělila síti X (Twitter) pokutu 120 milionů eur oficiálně za porušení pravidel transparentnosti podle DSA (ověřování účtů, transparentnost reklamy, přístup výzkumníků k datům). Vrabel skutečný důvod vidí jinde: Elon Musk dlouhodobě zveřejňuje požadavky evropských vlád na odstraňování obsahu, čímž znemožňuje skrytou cenzuru — pokuta je podle něj trestem právě za tuto transparentnost. Srovnává to s osudem Pavla Durova (zakladatel Telegramu), kterého francouzská policie na letišti zadržela a uvěznila poté, co odmítl s EU spolupracovat na cenzuře Telegramu — po propuštění už Durov cenzurní požadavky plní. Na rozdíl od Durova má Musk podle Vrabela dostatečný vliv (spolupráce s Pentagonem), aby si mohl dovolit s Evropskou komisí nespolupracovat. Klíčovým bodem je citace Marka Zuckerberga, který veřejně přiznal, že zatímco v USA Facebook funguje svobodně, evropské vlády si na Facebooku vyžádaly „zadní vrátka" (backdoors) — mechanismus, kterým lze algoritmicky zvýhodnit vybraného politického kandidáta (masivně šířit jeho příspěvky) a potlačit dosah jiného (typicky toho, kdo prosazuje vystoupení z EU/NATO), aniž by si toho veřejnost všimla, protože každý uživatel vidí jen svůj vlastní news feed. Uzavírá, že jde o rafinovanější nástroj ovlivňování politiky než klasická média, protože nerovné zacházení mezi jednotlivými profily není z venku nijak pozorovatelné.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
+
+---
+
 ## Blokování na sociálních sítích
 
 ### Facebook jako soukromá firma nad ústavou

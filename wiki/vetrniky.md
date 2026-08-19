@@ -279,6 +279,14 @@ Adam Šejna hodnotí vývoj akceleračních zón jako jednoznačné vítězství
 
 ---
 
+### ⚡ Konflikt: Vrabel zpochybňuje Turkovo „vítězství" — procento větrné energie v plánu vlády beze změny (17. 8. 2026)
+
+Na rozdíl od Šejnova hodnocení zmenšení akceleračních zón jako Turkova vybojovaného úspěchu (viz výše) Vrabel tvrdí, že jde o falešnou výhru. Namítá, že klíčovým ukazatelem není rozloha vymezených zón, ale podíl elektřiny, který má být z větrných zdrojů vyráběn podle programového prohlášení vlády — ten zůstává i po zmenšení zón beze změny (cca 13,5 %). Zmenšení zón podle něj neznamená méně větrníků ani nižší podíl větrné energie, jen jejich rozprostření do více lokalit místo koncentrace na méně místech („bude to postavené jinam, ne míň"). Tuto kritiku zasazuje do širšího kontextu cen energie: ČR má podle něj 4–4,5× dražší elektřinu a plyn pro koncového spotřebitele než Srbsko, což řadí mezi hlavní překážky konkurenceschopnosti českého průmyslu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
+
+---
+
 ### Národní adaptační plán na klima: jen 2,5 % jde na zadržování vody, zbytek na Green Deal (Vrabel, 6. 8. 2026)
 
 Ministerstvo životního prostředí (ministr Igor Červený) dokončilo aktualizaci Národního akčního plánu adaptace na změnu klimatu pro roky 2026–2030 a vyčlenilo na opatření z operačního fondu 11,2 mld. Kč — v médiích prezentováno jako investice do zadržování dešťové vody, obnovy vodních toků a mokřadů. Vrabel dopočítává kontext: z celkových cca 220 mld. Kč Národního plánu obnovy jde 40 % (88 mld. Kč) na Green Deal, přičemž z toho jen zlomek (2 mld. Kč, tj. cca 2,5 % z prostředků na Green Deal) skutečně směřuje na zadržování vody v krajině — zbylých 97,5 % jde na větrné a solární elektrárny, přestavbu energetického systému a elektromobilitu. Kritizuje, že ministr ve svém vyjádření mluví výhradně o vodě, ačkoli jde jen o marginální část celkové částky, kterou nazývá „ideologickou agendou 2030" rozpracovanou do vládní strategie.

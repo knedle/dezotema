@@ -687,6 +687,15 @@
 ### [Politický systém](../politicky-system.md) (pokrač. 4)
 - **16. 8.** — Katalog nesplněných vládních slibů od 2022; nová demonstrace 3. 10. na Malostranském náměstí; návrh reformy (odvolatelnost politiků, zákaz lobbingu) — [Nedělní vysílání 16. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026)
 
+### [DSA a cenzura](../dsa-cenzura.md) (pokrač.)
+- **17. 8.** — Pokuta 120 mil. eur pro X jako trest za zveřejnění cenzurních žádostí; Zuckerbergova „zadní vrátka" k algoritmické manipulaci politiky — [Zprávy v devět 17. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 7)
+- **17. 8.** — Lex Ukrajina 7 vs. Okamurova rétorika o zrušení dočasné ochrany — prázdné gesto — [Zprávy v devět 17. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
+
+### [Větrné elektrárny](../vetrniky.md) (pokrač. 2)
+- **17. 8.** — ⚡ Konflikt se Šejnou: Turkovo zmenšení zón jako falešná výhra; ČR 4–4,5× dražší energie než Srbsko — [Zprávy v devět 17. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026)
+
 ---
 
 ## Zmíněné osoby

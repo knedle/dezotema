@@ -3969,3 +3969,10 @@
 - **URL:** <https://www.facebook.com/100085862388850/videos/1044397518218582>
 - **Datum záznamu:** 2026-08-17
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět (17. 8. 2026) {#ladislav-vrabel--zprávy-v-devět-17-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-17_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1770966730580575>
+- **Datum záznamu:** 2026-08-17
+- **Zpracováno:** ano
