@@ -40,6 +40,7 @@ Obsah je organizován **tematicky** — každá stránka pokrývá jedno téma n
 | [Válka, NATO a Rusko (eskalace)](valka-nato-rusko.md) | Eskalace vztahu NATO–Rusko, riziko rozšíření konfliktu, zahraniční geopolitičtí aktéři |
 | [Jaderné zbraně a jaderná hrozba](jaderne-zbrane.md) | Rozmisťování jaderných zbraní, nuclear sharing, odstrašení vs. použití, odzbrojení |
 | [Větrné elektrárny](vetrniky.md) | Akcelerační zóny, technická a environmentální kritika |
+| [Volby 2026 — komunální a senátní](volby-2026.md) | Podpora a kritika stran a kandidátů napříč zdroji |
 
 ### Speciální přehledy
 
