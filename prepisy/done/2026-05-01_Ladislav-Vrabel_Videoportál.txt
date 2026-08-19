@@ -1,0 +1,86 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1998283604121939
+Datum videa:  2026-05-01
+Zpracováno:   2026-05-02 09:46:40
+Jazyk:        cs
+Délka:        00:01:56
+Zhlédnutí:    56 744
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       27s
+Rychlost:     4.2x realtime
+Celkem:       32s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Je mi 30 let.
+[00:01] Žádný z mých kamarádů nemá děti.
+[00:04] Nula. Nikdo.
+[00:05] Nikdo nemá děti.
+[00:06] Víte, jak moc musíte zneužívat savce,
+[00:09] abyste je donutili nemít děti?
+[00:11] Jako doopravdy.
+[00:12] Jakože pojďme se na chvíli vrátit.
+[00:15] Nikdy jsem o tom takhle nepřemýšlel.
+[00:17] Podívejte se, HDP roste,
+[00:19] lidé mají dostatek jídla a tak dále.
+[00:21] Nikdo ale nebude mít děti.
+[00:23] A tak to je po celém světě.
+[00:25] Je to po celém západě i východě.
+[00:26] Děje se to úplně všude.
+[00:27] Takže se něco děje,
+[00:30] zvlášť u mladší generace,
+[00:31] dokonce mladší než já,
+[00:32] třeba u dětí, kterým je dnes asi 18.
+[00:35] Je velký problém, že netančí.
+[00:36] Nikdo netančí. Chodí do klubu a netančí.
+[00:38] Proč tomu tak je?
+[00:39] Protože tě nahrávají.
+[00:41] Když jsi 18-letý kluk a jdeš do klubu,
+[00:43] si nahrávám.
+[00:45] Když oslovíš dívku a pokazíš to,
+[00:46] budeš nahrát.
+[00:47] Všechno je teď jako panoptikon.
+[00:48] Takže kdybyste se mě měli zeptat proč,
+[00:50] moje odpověď je technologie,
+[00:51] moje odpověď jsou sociální sítě,
+[00:53] moje odpověď je AI, moje odpověď jsou algoritmy.
+[00:56] Víte, co algoritmy seznamovacích aplikací dělají?
+[00:58] Víte, jak optimalizují?
+[00:59] Neoptimalizují se tak, abyste potkali svou lásku svého života.
+[01:01] Optimalizují vás, abyste se k aplikaci stále vraceli.
+[01:04] A teď je tu věc, že v podstatě jsme prodali
+[01:06] všechny naše seznamovací normy,
+[01:08] všechny naše mezilidské normy,
+[01:09] technologickým firmám bez našeho souhlasu.
+[01:11] Ano, abychom optimalizovali jejich reklamní algoritmus.
+[01:14] Myslím, že je tu hluboký problém,
+[01:15] když jsme jako společnost neřešili fakt,
+[01:17] že musíme zodpovědně zpravovat technologie.
+[01:19] Technologie jsme brali jako divoký zápas,
+[01:21] že si tam každý může dělat, co chce.
+[01:23] Prostě jen tak prodat milostný život
+[01:25] celých našich mladších generací.
+[01:27] Jen kvůli zisku korporací.
+[01:30] A kdo na to všechno doplatí?
+[01:31] Kdo nese odpovědnost?
+[01:33] Takže myslím, že skutečný problém je,
+[01:34] že jako společnost, jako vláda,
+[01:36] generace, které tu byly přede mnou,
+[01:38] a také moje generace, nechci se z toho vylúčovat,
+[01:40] ale také generace přede mnou,
+[01:41] prostě nechali technologii rozběhnout.
+[01:44] Slib byl, že pokud necháte technologii rozjet,
+[01:47] OK, pokud necháte internet rozjet,
+[01:49] bude demokracie, svoboda, štěstí
+[01:51] a ekonomický růst.
+[01:52] A kde to tedy je?
+[01:53] Myslím, že moje generace si toho porušeného slibu začíná všímat.

@@ -1,0 +1,37 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/903841216009144
+Datum videa:  2026-04-26
+Zpracováno:   2026-04-29 12:40:28
+Jazyk:        cs
+Délka:        01:01:04
+Popis:        Petr Pavel s pětiopozicí frontálně útočí na suverenitu České republiky.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    30s
+Přepis:       10s
+Rychlost:     2.7x realtime
+Celkem:       40s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] krátce zareaguju, jestli mohu. Ale prosím, velmi krátce.
+[00:02] Za prvé, vlastní měna
+[00:04] je samozřejmě jedním ze znaků suverenity.
+[00:06] Za druhé, země, které nemají euro,
+[00:08] rostou rychleji než eurozóna,
+[00:10] kde se eurem platí od roku
+[00:12] 2004, je to naše rychlejší růst
+[00:14] HDP. A za třetí, a to především,
+[00:16] 70%
+[00:18] občanů České republiky
+[00:19] si euro nepřeje. A my tady nejsme o to,
+[00:21] abychom diktovali našim lidem, co si
+[00:23] přejeme my. My jsme tady o toho, abychom
+[00:25] realizovali to, co si přejí oni.

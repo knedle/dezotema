@@ -1,0 +1,990 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1637222400724446
+Datum videa:  2026-06-05
+Zpracováno:   2026-06-07 21:48:05
+Jazyk:        cs
+Délka:        00:57:30
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    27s
+Přepis:       10m 14s
+Rychlost:     5.6x realtime
+Celkem:       10m 42s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:56] hodin a vítejte u zpráv na kanále ČR 1. Zuzko, dobrý večer.
+[03:04] Dobrý večer všem. Tak můžeme začít se zprávama. Co se dneska stalo, Zuzko?
+[03:10] Co se dneska stalo? Ruský prezident Vladimír Putin uvedl, že v současnosti nevidí důvod
+[03:17] pro osobní setkání s ukrajinským prezidentem Vladimirem Zelenským.
+[03:20] Podle Putina obsahoval nedávný Zelenského dopis úrážlivé výroky,
+[03:26] které podle něj vytvářejí podmínky znemužňující jednání na nejvyšší úrovni.
+[03:31] Putin zároveň uvedl, že setkání se Zelenským nikdy zásadně neodmítal,
+[03:36] avšak před případnou schůzkou je podle něj nutné nález řešení klíčových otázek
+[03:41] souvisejících s konfliktem na Ukrajině. Ruský prezident také naznačil,
+[03:45] že Kiev usiluje o setkání lidrů s cílem zastavit postup ruských sil na fronti,
+[03:50] kde Rusko bude usilovat o denacifikaci Ukrajiny, také řekl.
+[03:56] Dodal, že vojenské operace budou pokračovat, dokud nebudou dosažené všechny stanovené cíle.
+[04:02] Tak začneme u toho vlastně dopisu Volodemira Zelenského,
+[04:06] protože to jsme včera ve zprávách neměli, i když ten dopis přišel včera,
+[04:10] ale nestěhli jsme ho zadat do zpráv. Volodemir Zelenský napsal
+[04:16] Vladimíru Putinovi otevřený dopis. Ne, soukromý dopis, nezatelefonoval mu,
+[04:21] nepožádal o jednání o příměří, tak, jak se to dělá běžně, soukromně,
+[04:27] že se nejdřív vyjednává, potom se oznamuje na veřejnost, ale udělal to,
+[04:31] tak, jak to dělá vždy teatrálně, přes média, otevřeným dopisem.
+[04:35] Ten dopis, jestli jste ho někdo četli nebo nečetli, nevím,
+[04:38] ale ten dopis začíná v podstatě výsměchem Vladimíru Putinovi
+[04:43] o slavou Zelenského a Ukrajiny, vyhrožováním,
+[04:49] že Ukrajina útočí na Rusko.
+[04:51] Může útočit na Rusko. Vyhrožováním, že může zautočit na Vladimíra Putina
+[04:57] a tím myslí Vladimíra Putina a ne přímo Rusko, že můžou zabít klidně jeho.
+[05:03] Tím, že už je taky Vladimír Putin starý a že určitě by chtěl,
+[05:06] aby se ten konflikt ukončil, aby se to ještě dožil a tak dál.
+[05:09] V druhé části dopisu, respektive ke konci toho dopisu, je napsáno,
+[05:13] že by bylo potřeba, aby se ten konflikt zastavil a Volodymyr Zelenský napsal,
+[05:17] že je ochotný k setkání s Vladimírem Putinem kdekoliv, kromě Moskvy.
+[05:22] Takže to je dopis, který dostal Vladimír Putin.
+[05:24] Vladimír Putin na něj včera reagoval, když se o novináři ptali,
+[05:29] tak řekl, že kdyby se zastavil boj mezi Ukrajinou a Ruskou federací,
+[05:36] tak co by mohl říct je díky Bohu, že to konečně skončilo,
+[05:39] že to je to, co si samozřejmě on přeje a od samého začátku chce,
+[05:43] aby na Ukrajině byl klid, aby se tam nezabíjeli lidi. To je jeho cíl.
+[05:49] Dneska následovala odpověď.
+[05:52] Vladimíra Putina směrem k Zelenskému oficiální
+[05:55] a Vladimír Putin odmítnul ten dopis Volodomíra Zelenského
+[06:00] s tím, že zaprvé nelze ty věci řešit veřejně,
+[06:04] že nejdřív je potřeba řešit ty věci během jednání,
+[06:08] že je ochotný k setkání s kýmkoliv, včetně Evropanům,
+[06:10] včetně Volodomíra Zelenského a vždycky byl,
+[06:13] ale že k tomu, aby se setkal s Volodomírem Zelenským,
+[06:16] tak se nejdřív musí vyřešit ty problémy, které na Ukrajině jsou
+[06:19] a setkání na nejvyšší úrovni by mělo být jako poslední,
+[06:23] aby se ty dokumenty podepsali.
+[06:25] To je ostatně to, co říká celou dobu.
+[06:29] Dál vlastně řekl, že je pro setkání se Zelenským,
+[06:35] ale že je proti tomu, aby se přelévalo z prázdného do prázdného.
+[06:40] Vladimír Putin taky řekl svůj názor a řekl ho i na ekonomickém foru v Petrohradu,
+[06:46] kde jsem dneska poslouchal jeho projekt,
+[06:47] že podle jeho názoru Volodomír Zelenský se snaží opříměřit pro to,
+[06:53] že Ruská federace začala tvrdší útoky na Kyjev.
+[06:57] A protože Kyjev vidí, že nemá vojáky, nemá zbraně
+[07:00] a Rusko velmi tvrdě poráží Ukrajinu
+[07:04] a Volodomír Zelenský se pravděpodobně bojí blízké prohry,
+[07:08] tak začal i Volodomír Zelenský opakovat to, že by se měl ukončit ten konflikt.
+[07:12] Tak jak to řekl Vladimír Putin, že minulý týden řekl,
+[07:16] že může zodpovědně říct,
+[07:17] že se blížíme ke konci toho konfliktu.
+[07:20] A najednou chce ukončení konfliktu, ale on chce nejdřív příměří.
+[07:24] On chce, aby se udělalo příměří a potom,
+[07:27] že se setká s Vladimírem Putinem.
+[07:28] A to je věc, kterou ruská strana dávno odmítla.
+[07:31] Ruská strana řekla, že nebude příměří a potom vyjednávání,
+[07:35] ale že musí být vyjednávání, musí se dohodnout na konkrétních krocích,
+[07:40] které povedou ke stabilní situaci, k trvalému míru
+[07:42] a potom se můžou ukončit boje.
+[07:45] Takže to je situace, která je dneska.
+[07:48] Volodmír Zelenský, teda Vladimír Putin, dostal taky žádost od Donalda Trumpa,
+[07:55] aby pomohl Ukrajině nastolit mír, aby udělal kompromisy.
+[08:01] Vladimír Putin přístýbil, že kompromisy udělá.
+[08:04] Na druhou stranu Vladimír Putin, stejně tak jako celá ruská diplomacie,
+[08:08] má neustále stejnou rétoriku.
+[08:11] Tvrdí, že je potřeba denacifikovat Ukrajinu,
+[08:13] že je potřeba zajistit práva.
+[08:15] Pro všechny obyvatele.
+[08:17] A je potřeba, aby Ukrajina se nestalo součástí západních vojenských sil.
+[08:23] Takže to jsou věci, které zatím splněné nebyly.
+[08:25] Vladimír Putin řekl, že pokud bude Ukrajina svolná k tomu,
+[08:29] co jsou cíle speciální vojenské operace,
+[08:31] tak samozřejmě jsou ochotní jednat.
+[08:33] Pokud ne, tak bude cílu speciální vojenské operace dosaženo na bojišti,
+[08:39] tak jak to vlastně říkají už přes čtyři roky.
+[08:41] Takže situace se nemění, i když to hezky vypadá.
+[08:45] Včera byla jakási naděje ve vzduchu, že by mohlo dojít k nějakému příměří.
+[08:50] Tak ta situace je stále stejná.
+[08:52] Rusové mají naprosto stále stejnou pozici.
+[08:56] A jsem přesvědčený o tom, že to nebude končit podle podmínek Volodomira Zelenského.
+[09:02] Tak, toť tady k tomu.
+[09:05] Tak tady k tomu, takže přejdeme na zprávu číslo dva.
+[09:09] Na okraji Petrohradského mezinárodního ekonomického fora
+[09:13] se dnes luský minister zahrává.
+[09:15] Na hraničí Sergej Lavrov setkal s prezidentem Aliance nezávislých sociálních demokratů
+[09:20] a líderem Republiky Srbské Miloradem Dodikem.
+[09:23] Lavrov a Dodik diskutovali o dalším rozvoji vztahu mezi Moskvou a Baně a Lukou.
+[09:29] Hovořili také o aktuální situaci v Bosně a Hercegovině,
+[09:32] včetně fungování úřadu vysokého představitele pro Bosnu a Hercegovinu,
+[09:36] který dohlíží na provadění dejtonské mírové dohody.
+[09:41] No, Milorad Dodik a Petrohrad.
+[09:44] Tak k tomu Petrohradu bych měl víc věcí.
+[09:46] Ale když už jsme tady na kousli Milorada Dodika,
+[09:49] tak jsem rád, že se mu podařilo uhájet si svoji pozici v Republice Srbské.
+[09:53] Republika Srbská mimo jiné tedy je velmi krásná země.
+[09:57] Vždycky doporučuji, jestli někdo pojedete směrem těm zemím,
+[10:00] které jsou dneska tak oblíbené.
+[10:02] Asi se ještě dneska o tom budeme bavit o Albánii a o Černé hoře,
+[10:07] protože zatímco Milorad Dodik byl na Petrohradském fóru,
+[10:12] tak Aleksandr Vučič byl v Tivatu.
+[10:16] V Černé hoře, myslím, že tam máme zprávu na to téma taky.
+[10:19] A taky tam byla nedávno Ivanka Trampová se svojím mužem Jaredem Kushnerem.
+[10:25] Možná jste zaregistrovali, jakým způsobem popisovali to,
+[10:28] že tam chtějí mít ten ostrov, ale dostaneme se k tomu asi,
+[10:31] až budeme v Černé hoře.
+[10:34] Tak jestli pojedete do těhle končin, tak vždycky doporučuji
+[10:37] podívat se do Republiky Srbské.
+[10:39] Krásná země, naprosto prázdná panenská příroda.
+[10:42] A tím, že je v té dejtonské smlouvě, v té dejtonské dohodě pod OSN,
+[10:46] tak je v takovém zvláštním mezistavu, do té doby, než se připojí k Srbsku,
+[10:50] což předpokládám, že se stane, tak je v takovém zvláštním mezistavu
+[10:53] taková jakoby země vyčleněná, země nezemě.
+[10:58] Pro ty z vás třeba, kteří zajímají investice, tak bych vám doporučil
+[11:01] se tam podívat třeba kvůli investicím, protože vzhledem k tomu,
+[11:05] že ty země se chystají do Evropské unie, Černá hora, Albánie,
+[11:12] Ivanka Trumpová s Dědenem Kušnerem tam investují,
+[11:15] ale Republika Srbská do Evropské unie nepůjde, ceny nemovitostí jsou tam
+[11:20] velmi příznivé a je to krásná země, takže já jsem si tady udělal
+[11:23] trošičku reklamu jako realitní makléř, protože to je dneska v módě
+[11:27] realitní makléři, šéfem tajných služeb bude teď realitní makléř,
+[11:32] hlavním vyjednovačem za Spojené státy jsou dva realitní makléři,
+[11:36] takže tolik k Republice Srbské. Ale teď k tomu Petrohradskému fóru.
+[11:42] Vladimír Putin tam dneska mluvil a mluvil o ekonomice.
+[11:45] Mluvil o tom jednu zajímavou věc vám řeknu. To, co řekl dneska je,
+[11:49] že státy BRICS předčili v obchodu G7. A to je opravdu, to je velká zpráva.
+[11:58] A zase to ukazuje to, co tady říkám roky rokoucí, že zase jsme na té straně
+[12:02] těch lůzrů, kteří ztrácí, protože Západ opravdu ztrácí.
+[12:07] Vladimír Putin velmi tvrdě kritizoval Evropskou unii směrem k biznisu,
+[12:12] s kýmže Evropská unie v podstatě dělá takovou politiku,
+[12:16] že se firmám nedaří, protože politika se mísí s biznisem a velmi často se politika
+[12:21] vlastně používá jako nátlak, nebo biznis se používá jako nátlak politický
+[12:27] a díky tomu firmám se nedaří, firmy zavírají, odjíždí podnikat jinam.
+[12:32] Evropa je předlužená, stejně jako všechny západní státy.
+[12:36] Vladimír Putin dneska říkal, kolik které státy mají vůči hrubému domácímu produktu
+[12:42] a vlastně tak, jak jsme se o tom bavili včera, tak dneska zrovna o tom mluvil,
+[12:45] jaký jsou procenta jejich splácení dluhů, jaký jsou jejich, jaký jsou jejich v rozpočtech,
+[12:52] jejich deficity a vypadalo to, když jsem to poslouchal, velmi tvrdě pro nás,
+[12:58] pro Evropskou unii a pro Evropu jako takovou.
+[13:01] Mezitím Rusko ekonomicky se drží velmi dobře, státy BRICSu veselé obchodují
+[13:07] a vypadá to, že ten trend toho, že G7 bude upadat a země BRICSu
+[13:12] budou se rozvíjet víc a víc, takže i podle ekonomických ukazatelů,
+[13:16] podle předpovědí, tak BRICS se bude vyvíjet lépe.
+[13:20] Znovu tady jenom připomínám, že jsem do plánu Česká republika na první stě v roce 23
+[13:25] dal takovou poznámku nakonec, že bychom měli přemýšlet o tom,
+[13:28] abychom raději než Evropské unii nebyli součástí BRICSu.
+[13:33] Tak pojďme na další zprávku.
+[13:37] Ukrajinské síly porušily příměři vyjadený elektrárně záporoží.
+[13:42] Drone shodil munici.
+[13:44] Uvádí se v tomto prohlášení.
+[14:09] Tomu se zna nedá ani zasmát.
+[14:11] Nejdřív tam poslali jeden útok,
+[14:13] pak tam poslali další útok,
+[14:14] cílený, naváděný optickým vláknem.
+[14:17] A teď když se teda dohodli, že to rusové opraví,
+[14:20] aby bylo příměří, aby tam nevznikla katastrofa pro celou Evropu,
+[14:23] protože záporožská elektrárna je největší elektrárnou,
+[14:27] tak jakmile tam přijdou technici,
+[14:30] tak tam na ně Ukrajinci hážou drony s náložema.
+[14:33] Tak je to normální tohleto?
+[14:35] Ukrajinci prostě jsou zoufalí stejně jako Hitler na konci války.
+[14:40] A to, co dělají, jsou váloční začiny.
+[14:43] Ta mírající kobyla nejvíc kope.
+[14:46] Ten konflikt tam je na spadnoti, aby rusové dobili Ukrajinu,
+[14:50] aby zničili ten ukrajinský režim, tedy aspoň doufám.
+[14:53] A za to bych mohl být odsouzený, že doufám, že jo.
+[14:57] Za nějakou podporu Ruska, jak nám říkali v roce 22.
+[15:01] Kdo bude podporovat Rusko, půjde na tři roky do vězení.
+[15:04] To jsou zločinci, přátelé.
+[15:07] Vrchní státní zástupce Stříž, který tohle od roku 2022 říkal,
+[15:11] to je zločinec.
+[15:12] Protože...
+[15:13] Protože on popírá svobodu vyjadřovat svůj politický názor
+[15:17] a snaží se zavádět nějakou totalitu.
+[15:19] A jenom proto, aby se Česká republika mohla připojit
+[15:22] na stranu západu proti Rusku, což je samozřejmě jenom proto,
+[15:26] aby na tom vydělávali ti, kteří vyrábí zbraně
+[15:29] a ti, kteří prodávají zbraně,
+[15:31] tak se snažili tady od roku 2022 vyděsit obyvatelstvo,
+[15:35] vystrašit obyvatelstvo výhruškami
+[15:38] a samozřejmě předvoláváním na policii,
+[15:41] skíháním trestním.
+[15:42] ...
+[15:43] Někteří lidé jsou zavření.
+[15:45] Víte, že máme některé lidi v podmínce za to,
+[15:47] že politici z politické strany proje udali,
+[15:50] za to, že si vzali písmeno Z na oznáček.
+[15:53] A tohleto je ta situace, která tady trvá od roku 2022.
+[15:58] Takže jenom chci říct, že co se týče Ukrajinců,
+[16:01] té kobily, která nejvíc kope, když umírá,
+[16:05] doufám, že se Rusům podaří ten fašistický režim
+[16:08] Volodomíra Zelenského spacifikovat tak,
+[16:11] aby nelikvidoval ukrajinské obyvatelstvo,
+[16:12] protože už nám to říkali v roce 2022,
+[16:16] myslím, že to říkal Miroslav Ševčík,
+[16:18] že ten konflikt bude do posledního Ukrajince.
+[16:21] A dneska Scott Reiter mluví o tom,
+[16:23] že ten konflikt, který je na Ukrajině,
+[16:26] že samozřejmě přesto, že Rusové se blíží ke konci,
+[16:30] takže ten konflikt neskončí,
+[16:32] že ten konflikt bude pokračovat dál,
+[16:34] protože Evropa se chystá jít do konfliktu s Ruskou federací,
+[16:37] a on označuje to tak, že to bude do posledního Ukrajince
+[16:39] a do posledního Evropana.
+[16:41] Takže to nechci tady strašit,
+[16:43] ale samozřejmě to se může stát.
+[16:45] V každém případě to, co dělají Ukrajinci poslední týdny,
+[16:47] tak to vidíte.
+[16:48] Chválí se tím, že útočí hluboko do ruského území,
+[16:51] včera zrovna se chválili tím,
+[16:53] že otestovali novou raketu, která doletí do Moskvy,
+[16:56] útočí na studentky na kolejích, který spí,
+[16:59] útočí na civilní autobusy
+[17:02] a po třetí zautočili na jarenou elektrárnu v Záporoží.
+[17:11] Ukrajinské síly bezpilotních systémů
+[17:13] se přihlásily k útoku na dvě nákladní lodě v Azovském moři
+[17:17] při plavbě do přístavu v Rostově na Donu.
+[17:20] Podle velitelé jednotky byly cílem plavidla Natra A Zirkon,
+[17:24] která měla směřovat do ruských přístavů pro náklad obily.
+[17:28] Ukrajinská strana tvrdí, že lodě převážely obily
+[17:31] z okupovaných ukrajinských území.
+[17:33] Při nočním útoku na obou plavidlech vypukly požáry
+[17:36] a členové posádek museli lodě opustit.
+[17:39] Podle dostupných informací mohlo při incidentu
+[17:42] zahynout až pět azerbaidžanských námořníků.
+[17:45] Pokud vím teda ze zpráv, tak jsou jenom raněné
+[17:49] těch pět azerbaidžanských námořníků.
+[17:51] Nemám zprávy o tom, že by byl někdo mrtvý.
+[17:54] Na druhou stranu, Vladimír Putin taky dneska mluvil
+[17:56] zrovna o Azerbaidžánu, asi v souvislosti s tím útokem,
+[18:00] ale mluvil o ekonomice Azerbaidžánu,
+[18:02] jakým způsobem se Azerbaidžánu daří díky tomu,
+[18:05] že spolupracuje s Ruskou federací a s Brixem,
+[18:08] jak zrostl objem, jak zrostl jejich prodej
+[18:12] i pro další země. Co na to říct?
+[18:15] Říkám to pořád, nedávejte si ty sirky,
+[18:18] když to zapálíte, nedávejte je zpátky do krabičky.
+[18:21] Stejně bych to řekl s těma, s tou Ukrajinou.
+[18:24] Prostě Ukrajina, nedoporučoval bych tomu režimu
+[18:27] pořád předstírat, že je silný a dělat teroristický útoky
+[18:30] s tím, že tedy potom někde ve vyjednávání
+[18:34] získá lepší pozici. Tak, jak to tvrdí i Západ,
+[18:37] že musí neustávat.
+[18:38] Musí stále podporovat Ukrajinu,
+[18:40] aby Ukrajina měla lepší vyjednávací pozici.
+[18:42] Podobně nebude mít vůbec lepší vyjednávací pozici.
+[18:45] A nakonec, samozřejmě, Vladimír Putin mluvil o tom,
+[18:48] že nechce mít konflikt s Evropou,
+[18:50] a že nechce mít konflikt s NATO.
+[18:52] Ale víte co, nemůžete pořád dokola někoho útočit.
+[18:59] Nemůžete na medvěda pořád útočit
+[19:01] a pořád do něj píchat někde.
+[19:03] To nejde. Medvěd samozřejmě se nezabývá
+[19:06] nějakýma malýma věcma a snaží se
+[19:08] minimálně Rusko udělat to tak,
+[19:10] aby nebyla velká světová válka,
+[19:12] ale prostě všeho je do času.
+[19:14] Jestli prostě neustále se budou
+[19:16] provádět takovéhle útoky,
+[19:18] no tak ty lidi, kteří provádí ty útoky
+[19:20] a ty lidi, kteří je podporují,
+[19:22] tak prostě nakonec můžou v rámci,
+[19:26] řekněme, karmy, příčiny a následku,
+[19:29] když budou zasývat takovýhle příčiny,
+[19:31] tak prostě může přijít následek.
+[19:33] Obávám se, že nějaký následek prostě přijde.
+[19:38] K incidentu jsi taky vyjádřila,
+[19:40] mluvči ministerstva zahraničí
+[19:42] Maria Zacharová, která uvedla,
+[19:44] že okolnosti tohoto incidentu
+[19:46] se nadále vyšetřují. Ruská strana
+[19:48] zároveň oznámila, že je v kontaktu
+[19:50] s azerbajčanskými úřady a poskytne
+[19:52] potřebnou součinnost při zajišťování
+[19:54] okolnosti útoku a pomoci postiženým
+[19:56] občanům. Tak jenom doplnění.
+[20:01] Tak na další zprávu, Zuzko.
+[20:06] Ano, ukrajinský ministr obrany,
+[20:09] Michailo Fedorov, jednal s generálním
+[20:11] tajemníkem NATO Markem Rutem
+[20:13] o prioritách před nadcházejícím
+[20:15] zasedáním kontaktní skupiny
+[20:17] pro obranu Ukrajiny ve formatu
+[20:19] Rammstein. Hlavními tématy byly
+[20:21] protivzdušná obrana, dodávky munice
+[20:23] a rozvoj ukrajinských bezpilotních
+[20:25] systémů. Podle Fedorova
+[20:27] patří mezi priority další
+[20:29] financování programu PORL,
+[20:31] dodávky raket PADS-3
+[20:33] pro systémy Patriot
+[20:35] a pokračování České muniční
+[20:37] iniciativy podpora výroby
+[20:39] ukrajinských dronů. Příště zasedání
+[20:41] skupiny Rammstein je naplánováno
+[20:43] 18. června.
+[20:45] Kdyby to byli jenom Ukrajinci, kdo boje
+[20:47] proti Rusku, tak by ten
+[20:49] problém byl vyřešený rychle.
+[20:51] Problém je v tom, že dneska taky
+[20:53] mimo jiné Kongres Spojených států
+[20:55] odlasoval další balíček, nevím, jestli
+[20:57] to máme ve zprávách, další balíček
+[20:59] vojenské pomoci Ukrajině.
+[21:01] Ale kdyby to byla jenom
+[21:03] Ukrajina, tak
+[21:05] by se ten konflikt dal vyřešit
+[21:07] rychle. Ale problém je v tom,
+[21:09] že podívejte se, jak vypadá
+[21:11] ukrajinský ministr obrany, když se
+[21:13] potkává se šéfem NATO.
+[21:15] Jaký jsou to ohromní partiáci, kamarádi,
+[21:17] jak se usmívají, jak si podávají ruce.
+[21:19] A proč si podávají ruce?
+[21:21] No podávají si ruce proto,
+[21:23] že pracují na,
+[21:25] řekněme,
+[21:29] festejné síti, která
+[21:31] vyrábí zbraně,
+[21:33] ty zbraně nakupuje za naše peníze,
+[21:35] za veřejné rozpočty,
+[21:37] ty zbraně nakupuje bez
+[21:39] výběrových řízení.
+[21:41] To znamená, to je všechno předražený
+[21:43] a ty zbraně se potom někam
+[21:45] odvezou, napíše se účetně,
+[21:47] že se někam odvezli.
+[21:49] Nikdo to samozřejmě není schopný dopočítat,
+[21:51] protože jakmile to přijede na Ukrajinu,
+[21:53] tak buď to to rusové rovnou zničí, že to vyhodí
+[21:55] do povětří, nebo se to někde
+[21:57] roztrká a nikdo neví, kde,
+[21:59] kdy, jak a kolik se toho
+[22:01] vypálilo. A když už se to dostane
+[22:03] k tomu, že se to vypálí, tak se to prostě jenom
+[22:05] zničí a jdou se vyrobit další
+[22:07] a vezmou nám další peníze.
+[22:09] A díky tomu
+[22:11] máme ceny benzínu, nafty,
+[22:13] podívejte kde, ceny jídla, kde
+[22:15] 40 % lidí má problémy s tím,
+[22:17] aby vůbec vyšlo
+[22:19] z penězi. A to všechno
+[22:21] je kvůli tomu, že se tyhle
+[22:23] chlapíci tak hezky potkávají a
+[22:25] dělají ty krásné biznisy se zbraněmi.
+[22:27] A jedou v tom všechny vlády.
+[22:29] Nejde v tom jenom ukrajinská vláda
+[22:31] a NATO. Jde v tom celé NATO,
+[22:33] jede v tom celá Evropská unie a jedou v tom všechny
+[22:35] vlády minimálně Evropské
+[22:37] unie a přidružených zemí,
+[22:39] jako je Kanada, Spojené státy,
+[22:41] Austrálie
+[22:43] atd.
+[23:13] A poprosím režii ještě, aby mi tam
+[23:15] nechala ten obrázek.
+[23:17] Řeknu vám k tomu jenom,
+[23:19] nevím, jestli znáte ten vtip,
+[23:21] jak se potká protiruský nácek
+[23:23] pro západní globalista
+[23:26] a český ministr zahraničních věcí
+[23:28] v jedné osobě Petra Macinky.
+[23:30] Znáte ho?
+[23:32] Ano.
+[23:34] Ano.
+[23:36] Ano.
+[23:38] Ano.
+[23:40] Ano.
+[23:42] Ano.
+[23:47] Ano.
+[23:49] Ano.
+[23:51] Ano.
+[23:55] Ano.
+[23:57] Ano.
+[23:59] Ano.
+[24:01] Ano.
+[24:03] Ano.
+[24:05] Ano.
+[24:07] Ano.
+[24:09] Ano.
+[24:11] Ano.
+[24:13] Ano.
+[24:15] Ano.
+[24:17] Ano.
+[24:19] a jsou rádi, že jsou v bezpečí. A ti Ukrajinci, ty přijdou
+[24:23] a ty jejich kolegové tam křičí sláva Ukrajině, herojům sláva
+[24:28] a ty nacistické pozdravy. A tyhle ty kluci, co přijdou z toho zajetí,
+[24:34] tak je vidět na nich, že se jim to nechce opakovat,
+[24:37] ale že musí, že musí křičet s nima, protože jinak by je tam zabili,
+[24:40] že to nejsou taky náckové. A to je naprosto brutální.
+[24:43] Podívejte se na to někdy, vřele doporučuji se podívat,
+[24:46] jak probíhají potom ty výměny vězňů, když se ty vojáci dostanou ke svým.
+[24:55] Evropské společnosti omezují své aktivity na Kubě v reakci na nové
+[24:59] americké sankce. Podle denníku Politico se některé firmy zbavují
+[25:04] svých aktiv na ostrově kvůli obavám ze zmrazení majetku
+[25:08] nebo omezení přístupu k americkému finančnímu systému.
+[25:11] Mezi nejvíce zasažené patří španělské hotelové řetězce Melia a Iberostar,
+[25:18] které v posledních týdnech ukončily správnou,
+[25:20] řady hotelů na Kubě. Francouzská společnost SMA CGM a německá
+[25:26] Hapagloid pak pozastavili nákladní dopravu na ostrov a z ostrova.
+[25:33] Podle zástupců evropského biznesu mohou nové sankce nejtvrději dopadnout
+[25:38] na menší a středně velké firmy působící na Kubě.
+[25:43] To je přesně to, o čem mluvil dneska Vladimir Putin na tom
+[25:46] ekonomickém fóru v Petrohradu, že se tady používá biznis
+[25:50] a politika jako nástroj vydírání. To jsou různé sankce,
+[25:57] zákazy obchodování nebo různé cla. A to už není vůbec...
+[26:03] Protože my se tady bavíme pořád, že je tady Amerika jako náš vzor.
+[26:08] Amerika to je to centrum, ten začátek demokracie,
+[26:13] ten hlavní demokratický stát, který funguje na volném obchodu,
+[26:17] na svobodě slova. To jsou ty západní hodnoty.
+[26:21] Ale řekněte mi, kde je zaprvé ta demokracie, když války za Ameriku
+[26:28] řeší teďkon prezident jako diktátor. Dneska jsem taky viděl rozhovor
+[26:32] s jedním senátorem americkým, který zrovna prosadil,
+[26:37] že poprvé se kongres postavil proti tomu, aby byla vedená válka v Iránu,
+[26:43] kde se snaží samozřejmě poukazovat na to, že tam vypršelo to 90-tidení,
+[26:48] řekněme, časového...
+[26:50] řekněme, časové okno, které má prezident k tomu, aby ve výjimečných případech
+[26:54] mohl vést nějakou vojenskou aktivitu, nějakou vojenskou operaci.
+[27:01] Když se na to podíváte, tak rozhodnutí v Evropské unii také přichází ze strany z hora.
+[27:07] Z Evropské komise, potom z Evropské rady, pak se to dá odmávat Evropskému parlamentu,
+[27:12] a pak se to nařídí jednotlivým zemím, kde to ratifikují parlamenty.
+[27:16] Vůbec to není tak, jak to bylo v demokracii, když se podíváme na Řecko nebo na Řím.
+[27:21] Ty říkají, co je, trápí, co by se jak mělo udělat, a potom vešlou svojeho zástupce,
+[27:27] který jde, a ten to prosadí, aby se to udělalo. To je úplně jinak.
+[27:31] Takže v demokracii tady není svoboda slova o tom snad nemá ani cenu se bavit.
+[27:36] Řekněte mi jenom, kolik z vás, a to vy jste ti nejstatečnější, kteří se tady díváte,
+[27:41] jste ochotní říct všechno, co si myslíte, veřejně.
+[27:45] Ale 99 % lidí prostě se bojí říct veřejně to, co si myslí.
+[27:50] Takže...
+[27:51] Svoboda slova tady samozřejmě není, protože za to se trestá.
+[27:55] A obchod, volný obchod, kde je ten volný obchod?
+[27:59] To jsou nátlaky, podívejte se, Maďarsko se včera vzdalo svého práva veto,
+[28:05] svého veta práva, aby mohli dostat 6,6 miliard eur, na který měli právo.
+[28:11] Takže tady se ekonomika používá všude jako nástroj moci, jako vydírání.
+[28:19] A to samé se dneska děje na Kubě,
+[28:21] protože Američani tam teď chystají převzít Kubo, nastourit tam nějaké své pravidla,
+[28:25] dělají tam blokády.
+[28:27] Nedivím se tomu, že tam velké dopravní firmy nechtějí jezdit
+[28:31] a Evropaně odjíždí pryč, protože prostě se bojí toho, co se děje politicky.
+[28:36] Stejně tak je to s tím ruským zmrazeným majetkem v EuroClearu.
+[28:41] EuroClear je finanční instituce, která spravuje finanční aktiva zemí,
+[28:48] které jsou mimo Evropu.
+[28:50] Tak si tam mohou dát peníze, řekněme zjednodušeně,
+[28:54] aby když potřebuje nějaká firma udělat nějaký obchod,
+[28:57] tak aby si tam mohla proměnit peníze, aby se ty obchody mohly dělat.
+[29:01] To je finanční záležitost.
+[29:02] A co udělala Evropská unie?
+[29:04] Řekla ne, ne, ne, my to zabavujeme ty peníze,
+[29:06] dokonce si to chtěli vzít, dokonce si to chtěli ukrát.
+[29:09] Takže bohužel, dokud se, dokud nepochopíme tyhle ty věci,
+[29:14] že ekonomika má být ekonomika podle toho, že se dělá business,
+[29:19] že se nakupuje tam, kde to je výhodné,
+[29:21] no tak prostě nebude ekonomika fungovat.
+[29:23] A stejně tak je to s veřejnýma zakázkama,
+[29:25] mluvil jsem o tom už v Bruselu v Evropském parlamentu v roce 23.
+[29:29] Covid, ty válka na Ukrajině mají jednu společnou věc,
+[29:33] že se dělají obrovský, ale obrovský finanční transakce
+[29:37] z veřejných prostředků bez výběrových řízení.
+[29:39] To znamená protizákonně.
+[29:41] A to dneska probíhá prakticky všechno.
+[29:43] Dneska už se to dělá i v Česku, včera jsme se o tom bavili,
+[29:46] už se nakupuje normálně bez výběrových řízení,
+[29:49] to už někoho nezajímá.
+[29:51] Co se týče zbraní, že by se někdo obtěžoval s výběrovým řízením,
+[29:54] u mě to vůbec neexistuje.
+[29:56] A úřady na to koukají, policie, státní zástupci a soudy,
+[29:59] honí lidi za to, že řeknou někde něco na Facebooku.
+[30:02] V rumunském přístavu Konstancá došlo dnes dopoledne
+[30:10] k incidentu s námořním dronem typu Sea Baby,
+[30:13] teda ukrajinské provenience.
+[30:15] Podle dostupných informací byl objekt spatřen
+[30:18] v areálu civilního přístavu v blízkosti jednoho z mol,
+[30:21] kolem 10 hodin 30 minut místního času.
+[30:24] Následně došlo k jeho explozi.
+[30:27] Rumunské úřady oblast okamžitě uzavřely
+[30:30] a zahájily bezpečnostní zásah.
+[30:34] Podle vyjádření rumunského prezidenta Dana,
+[30:37] byly všechny čtyři ukrajinské námořní drony,
+[30:42] které mířily směrem k Rumunsku, zničeny
+[30:45] nebo explodovaly ještě předtím, než mohly způsobit škody.
+[30:48] Prezident říkal,
+[30:49] že jeden z dronů se samovolně zničil v přístavu Konstanca.
+[30:53] Další byl podle něj zneškodněn pobřežní stráži
+[30:58] na otevřené moři v blízkosti pobřeží.
+[31:01] Zbyle dva drony měly explodovat přibližně 145 km východně od města.
+[31:06] Podle prezidentova prohlášení si incidenty nevyžádaly žádné oběti
+[31:10] ani nespůsobily významné materiální škody.
+[31:14] Dan zároveň uvedl, že Ukrajina Rumunsko předem informovala o tom,
+[31:18] že její námořní drony ztratily kontrolu
+[31:21] a mohly by vstoupit do rumunského prostoru.
+[31:24] No, tak to byla poměrně obsáhlá zpráva.
+[31:28] Tam ani nemám moc prostoru k tomu, abych to komentoval,
+[31:31] ale jednu věc teda k tomu řeknu,
+[31:33] protože rumunský prezident mimo jiné krom toho ještě prohlásil,
+[31:37] že tím vyníkem, to, proč se to vlastně stalo, ten výbuch,
+[31:42] je, že ruská strana započala 24.2.2000
+[31:48] plnohodnotnou válku proti Ukrajině.
+[31:53] Takže to, jakým skutečným důvodem.
+[31:59] To teď opakuju jako mantru prostě. Všichni.
+[32:08] Ale je to docela zajímavý, že jo?
+[32:11] Jako situace, prostě Ukrajinci pošlou někam nějaký drony,
+[32:14] ty drony někde spadnou, vybouchnou,
+[32:17] ale můžou za to rusové, protože rusové napadli Ukrajinu.
+[32:21] No.
+[32:22] Zajímavá logika.
+[32:25] Spojené státy americké předali NATO seznam vojenské techniky,
+[32:29] kterou už nechtějí zahrnovat do aliančního plánování.
+[32:33] Uvadí to německý denník Die Welt.
+[32:36] Změny se podle něj dotknou stíhaček, průzkumných letadel,
+[32:39] dronů i námořních sil a zvýší tlak na Evropské spojence a Kanadu,
+[32:44] aby rychle převzala část úkolů, které dosud zajišťovaly Spojené státy.
+[32:49] Spojence nyní podle listu Die Welt čekají další jednání
+[32:53] o tom, jak případné omezení amerických sil nahradit.
+[32:57] Konzultace mají pokračovat v polovině června na summitu NATO v Ankaře.
+[33:03] No, tak co k tomu říct, to je dlouhodobý plán.
+[33:08] Spojení státy mají nový plán, Pentagon má nový plán
+[33:12] k budoucnosti Spojených států.
+[33:16] V zásadě cílem je vytvořit ze Spojených států
+[33:20] a z okolních států takovou pevnost,
+[33:23] americkou, něco ve stylu TechNate,
+[33:27] což už jsem říkal mnohokrát, což je ta záležitost technokratická
+[33:31] z začátku 20. století, ta idea, že by Spojení státy měly mít
+[33:35] od Jižní Ameriky přes celou Latinskou Ameriku,
+[33:39] Spojení státy Kanadu až ke Gronsku,
+[33:43] a samozřejmě s Kubou, že by to měl být jeden velký americký,
+[33:47] pod americkou kontrolou jeden velký stát.
+[33:51] To je samozřejmě opevněné, řekněme, dvěma oceány z obou stran.
+[33:57] Spojené státy budou mít ten Iron Dome, ten deštník,
+[34:03] který bude sestřelovat všechny rakety, a budou se věnovat tomu,
+[34:07] aby co nejvíc ždímali celý svět, aby vyždímali z celého světa
+[34:11] co nejvíc peněz, jako to třeba dělají teď Evropské unie,
+[34:15] těmi různými obchodními dohodami, tím, že prostě skrze válku na Ukrajině,
+[34:19] kterou oni, do který nás oni zatáhli, kterou oni rozpoutali,
+[34:25] tak vytvořili sankce proti Rusku, aby Evropa se odřízla od ruského plynu
+[34:31] a ruské nafty, ropy, aby to nakupovala od Ameriky,
+[34:35] aby Amerika z toho měla peníze, stejně to je ze cly, z výrobky,
+[34:39] ze všem možným, ze zbraněmi. No a teď to dělají ze zbraněmi,
+[34:43] že nějaké zbraně si nechají, něco nám budou prodávat,
+[34:47] ale samozřejmě na Ukrajinu nebudou dodávat něco, že by to platili oni.
+[34:51] No a tou strategií Spojených států je,
+[34:55] že když bude celý svět ve válce a oni budou
+[34:59] v pohodě, v klidu, opevněný a budou mít pod kontrolou
+[35:03] energetiku, no tak díky tomu, že jsou teď
+[35:07] na tom špatně s tím, jak jsou předlužený, takže díky tomu, že bude svět ve válce,
+[35:11] tak se to nějak srovná a oni si zvládnou mezi tím přes ty digitální měny
+[35:15] pořešit svůj státní dluh a udržet svět,
+[35:19] aby obchodoval dál dolarů. To je to, o co se hraje.
+[35:23] Pravda je taková, že Vladimir Putin dneska mluvil hodně
+[35:27] o suverenitě a o suverénních zemích a o suvereny ZMU jako takovém
+[35:31] a mluvil o tom, jak dobře prosperují země, které platí
+[35:35] ve svojich národních měnách a vyzval země,
+[35:39] protože na tom ekonomickém fóru bylo asi 140, něco přes 140 zemí,
+[35:43] já jsem skoro ke 150 zemím, jestli se nepletu,
+[35:47] ale to možná ZUSka mě doplní a opraví, protože tato bude vědět přesně,
+[35:51] tak Vladimir Putin řekl, nebo upozornil země,
+[35:55] že pokud budou používat americké
+[35:59] a evropské platební metody, že Spojené státy
+[36:03] chtějí používat USDT, což je
+[36:07] digitální měna, to je kryptoměna navázaná na dolar,
+[36:11] anebo digitální euro, takže se může těm státům
+[36:15] stát, že jim nebude umožněný přístup k tomu, aby
+[36:19] používali ty platební systémy, jako to bylo s Ruskem. A řekl, že
+[36:23] v Rusku to je kvůli tomu, že provádí operaci na Ukrajině,
+[36:27] ale africké země těm řekl, že to třeba může být kvůli tomu, že
+[36:31] oni mohou mít třeba nějaké záležitosti, které se nebudou líbit
+[36:35] Evropské unii, nebo v Ázii, nebo na Blízkém východě,
+[36:39] nebo třeba se jim nebude líbit, to řekl Vladimir Putin,
+[36:43] přístup těch zemí k LGBT. A to může být taky důvod k tomu,
+[36:47] aby třeba Evropská unie zmrazila přístup k těm platebním
+[36:51] prostředkům. Takže varoval státy před tím, aby se
+[36:55] příliš silně zapojovaly do platebních systémů Spojených států
+[36:59] a Evropské unie, aby se zamýšleli nad suverenitou a nad
+[37:03] alternativními platebními prostředky, jako to dělá
+[37:07] třeba BRICS, kde se obchoduje
+[37:09] spousta obchodů v jejich národních měnách.
+[37:13] To bylo, myslím si, že velmi zajímavé upozornění.
+[37:19] Je to tak. Myslím, že tohle už jsi zmiňoval, že sněmovna reprezentanta
+[37:23] Spojených států schválila zákon o podpoře Ukrajiny, aby
+[37:27] poskytla Ukrajině novou vojenskou pomoc a uvalila přísnější sankce
+[37:31] proti Rusku. Návrh zákona postoupil prostřednictvím petice o
+[37:35] absolutoriu navzdory snazem mužčího Majka Johnsona zablokovat hlasování.
+[37:39] To už jsi zmiňoval.
+[37:41] No, i v Americe jsou prostě lidi, kteří jsou napojení
+[37:45] na ty, a buďme upřímní, tady prostě nemá pořád cenu říkat si,
+[37:49] že jsou to blázni a tak dále. Blázni jsou ty lidi, co je podporují.
+[37:53] A ty lidi, kteří to dělají, to jsou lidi, jako je Kolář, myslím, že se jmenuje Petr Kolář,
+[37:57] nebo jak se jmenuje ten Kolář prezidentův přítel po boku,
+[38:01] ani nevím, jak se jmenuje jménem. Zuzko, Petr se jmenuje Kolář? Petr, ano.
+[38:05] Děkuju. Petr Kolář, který vyjednával už, když byl jako velvyslanec
+[38:09] České republiky ve Spojených státech, tak vyjednával ze zborujaři, který,
+[38:13] když se dělal prodej koutu, tak vedl obchodní delegaci,
+[38:17] který prostě zprostředkovává ty byznysy. Dneska je to Petr Macinka, který ho nahrazuje,
+[38:21] který jezdí do kongresu, který tam domlouvá, že Česká republika by mohla
+[38:25] pro Spojené státy vyrábět zbraně. To jsou ty lidi, díky kterým je ta válka
+[38:29] na Ukrajině. Ty, který dělaj tyhle obchody se zbraněmi.
+[38:33] Ty, který pracují pro výrobce a pro prodejce zbraní.
+[38:37] To jsou oni. A jsou bohužel i v americkém kongresu,
+[38:41] jsou prostě po celé Evropě, ve všech vládách,
+[38:45] jsou ve všech parlamentech, protože ty politici
+[38:49] se tam dostávají právě protože ty nejbohatší lidi, jim platí ty kampaně.
+[38:53] A to jsou právě zbrojaři. Takhle jednoduchý to je.
+[38:57] Bohužel nás to stojí peníze, protože oni kradou naše peníze.
+[39:01] Oni to neplatí ze svýho. Oni to platí z našich peněz, to je první věc.
+[39:05] A druhá věc, umírají u toho lidi. Když už pomenu to,
+[39:09] že máme drahé jídlo, drahé energie a naši děti nemají vyhlídku hezkou
+[39:13] na budoucnost a lidi se bojí války, ještě u toho umírají lidi.
+[39:17] A za to všechno umířou tyhle ty lidi, kteří podepisují ty dohody.
+[39:21] Dneska jsem poslouchal taky rozhovor ze Scottem Rytrem a on řekl
+[39:25] velmi zajímavou věc. On byl někde v Rusku, tam dával přednášku
+[39:29] a na konci řekl, že je potřeba, aby Rusové pochopili,
+[39:33] že se nesmí mluvit o jaderném odstrašování
+[39:37] a používání jaderných zbraní. Protože jaderná válka
+[39:41] se nedá vyhrát. To není tak. Podle Scotta Rytra není možné,
+[39:45] aby byla nějaká menší jaderná válka. Tak jako se o tom mluví,
+[39:49] že by mohla být třeba menší jaderná válka v Evropě. Co mě se týče,
+[39:53] nejsem si tím jistý, kdyby spadla jedna, dvě atomové bomby,
+[39:57] tak je potom otázka toho, jestli někdo bude mít tu odvahu
+[40:01] o vyšelou konfrontace do odvetního útoku. Ale to je vždycky otázka,
+[40:05] to nikdo neví. Ale pravda je taková, že ty jaderné doktriny
+[40:09] jsou nastavené tak, že když ji lekí raketa, která by byla považovaná
+[40:13] za jadernou raketu, tak se obvykle pošle proti ní raketa
+[40:17] třeba Rusko má takzvanou černou rukou, ten nastavený princip tak,
+[40:21] že kdyby Rusko bylo zničené, tak potom ještě stejně budou
+[40:25] z Ruské federace odpálené rakety proti tomu státu,
+[40:29] ze kterého přišel ten útok a bude zničený ten druhý stát.
+[40:33] Proto Scott Reiter mluvil o tom, že jadernou válku
+[40:37] nelze vyhrát, že je potřeba, aby jaderná válka nebyla,
+[40:41] že to je nezodpovědné, že se tady dělá jaderné odstrašování,
+[40:45] mluví se o použití jaderných bomb.
+[40:47] To je to, proti čemu vlastně brojím celou dobu,
+[40:51] za to jsem byl taky zatčený, zavřený, nebo zatčený jenom ne,
+[40:55] ale odsouzený, pardon. Ale to je to nebezpečí.
+[40:59] Ale Scott Reiter jde tou logickou linkou ještě dál.
+[41:03] On říká, podívejte se, když nemůže být jaderná válka vyhraná,
+[41:07] tak nemá ani cenu, aby se strašilo jadernou válkou.
+[41:11] A nemá cenu ani jaderný odstrašení. Prostě nemá vůbec cenu
+[41:15] vyrábět jaderné zbranění.
+[41:17] Protože jakou to má cenu, když se to nakonec nemůže použít.
+[41:21] Protože prostě, proč budete vyhrožovat něčím, co nemůžete použít,
+[41:25] protože když to použijete, tak zničejte svět a zabijete všechny lidi.
+[41:29] No takže on vyzývá k tomu, abychom se vrátili,
+[41:33] protože Rusko a Spojené státy dneska nemají žádnou dohodu
+[41:37] o nevyrábění zbraní a nerozmisťování. Ty dohody, které začaly,
+[41:41] pamatujete si to možná, když jsem byl malej, tak si to pamatuju,
+[41:45] že jsem se setkával s Gorbačovem v Reykjavíku na Islandu
+[41:49] a podepisovali smlouvy o odzbrojení. Nejdřív rakety dlouhého doletu,
+[41:53] pak rakety středního doletu, Pershing 2, to všechno šlo do garáže.
+[41:57] Vzpomínáte si na to, jak si celý svět oddechnul.
+[42:01] A Scott Ritter, který byl vojenským zbraňovým inspektorem v OSN,
+[42:05] tak měl právě na starosti to, aby dohlížel naplnění těhleckých dohod,
+[42:09] těhleckých smluv o nezbrojení, o nevyrábění zbraní,
+[42:13] o nerozměstňování zbraní atd. Na to je to, kam se musíme vrátit.
+[42:17] A to je to, co má dělat diplomacie. A ne, že Macinka jede tamhle do Ameriky
+[42:21] strašný macher, protože někde podlejzá nějakému kongresmenovi,
+[42:25] aby Češi mohli pro Američany vyrábět zbraně.
+[42:29] Diplomacie má dělat úplně jinou práci. Diplomacie má jezdit
+[42:33] a snažit se o to, aby se udělala dohoda, že se tenhle typ zbraní
+[42:37] nebude používat na obou druhou stranách. To je princip diplomacie.
+[42:41] No takže,
+[42:43] OK, pojďme na další zprávu.
+[42:45] Řetetkyně Evropské komise Ursula von der Leyen
+[42:51] dnes v černohorském Tyvatu zopakovala podporu
+[42:55] dalšímu rozšířování Evropské unie o země západního Balkánu.
+[42:59] Uvedla, že bez tohoto regionu nebude Evropská unie úplná.
+[43:03] Prohlášení zaznělo na samitu EU-Západní Balkán,
+[43:07] který se koná v Černé hoře, a kde se sešly představitelé Evropské unie
+[43:11] a země regionu. Von der Leyenová taky zdůraznila,
+[43:15] že rozšíření Evropské unie je klíčový prvek pro posílení stability,
+[43:20] odolnosti a geopolitického vlivu unie.
+[43:26] Bohužel jsem dneska Ursulu von der Leyen v Černé hoře poslouchal.
+[43:30] Zase mi z toho bylo trošku nevolno.
+[43:34] Poslouchal jsem i prezidenta Černohorského, to bylo ještě horší.
+[43:38] Poslouchal jsem její rozhovory a poslouchal jsem další představitelé,
+[43:42] který tam byli. Co k tomu říct? Podívejte se.
+[43:45] Chorvatsko, když vstoupilo do Evropské unie,
+[43:48] tak samozřejmě tam Němci vybudovali selnice, dálnice a všechno možné,
+[43:53] aby tam mohli jezdit, aby tam měli to krásné pobřeží.
+[43:56] A tak jim Evropská unie nařídila, jak velký oka mají mít v rybářských sítích.
+[44:02] A mezi tím jim Italové z prvotějšího pobřeží vylovili ryby,
+[44:08] protože Italové mohli mít menší oka než Chorvati.
+[44:12] A když se podíváte na to, co se děje dneska,
+[44:16] s kterými přístupovými cestami,
+[44:18] tak Černá hora chce být 28. zemí v Evropské unii,
+[44:22] strašně se tlačí do Evropské unie.
+[44:25] Víte, že jsem vám říkal, že jsme měli být teď v Černé hoře,
+[44:28] bohužel nemůžeme, protože máme nějaké zdravotní záležitosti,
+[44:31] ale pojedeme do Černé hory předpokládám tak za týden.
+[44:34] Kdybyste si chtěli koupit nemovitost Černéhoře v moře,
+[44:37] tak doporučuji, protože ty ceny budou samozřejmě velmi výrazně nahoru,
+[44:42] až Černá hora vstoupí do Evropské unie, a ona vstoupí.
+[44:45] To je naprosto hotová věc.
+[44:47] Ale ještě vám k tomu řeknu jednu věc.
+[44:51] Taky jsem poslouchal včera projev nebo projev vyprávění
+[44:56] Ivanky Trump a Jareda Kushnera.
+[44:59] Možná jste si všimli v našich zprávách,
+[45:01] že v Albánii se už šestý den protestuje.
+[45:04] Co je ten příběh?
+[45:06] Ivanka Trump vypráví s těma krásnýma dlouhýma blondětýma vlasama
+[45:10] naprosto oduševněle.
+[45:12] Že si takhle jeli na jachtě, na prázdninách, na výletě,
+[45:16] že si jeli ve středu zemí a zakotvili u ostrova
+[45:21] a vyšli na ten ostrov a že byla absolutně očarovaná tou přírodou,
+[45:25] jak je to krásný, tak bosí ještě vyšplhali nahoru na kopec
+[45:30] a zjistili, že to tam je krásný a že ona se rozhodla,
+[45:33] že tam bude realizovat svoje realitní a cestovatelské zkušenosti.
+[45:41] Jared Kushner to popisuje tak, že jeli s rodinou na jachtě,
+[45:46] mimochodem jeli s Nedem Rothschildem,
+[45:49] s dědicem klanu Rothschildů,
+[45:52] protože Ned Rothschild má sestru Jareda, nebo Jared Kushner má,
+[46:00] prostě mají tam příbuzené, jsou to zeti, takhle abych,
+[46:03] přes dvě sestry, abych to nepomotal.
+[46:06] Takže jeli jachtou s Nedem Rothschildem,
+[46:11] Ivanka Trumpova, Jared Kushner, Ned Rothschild,
+[46:16] jeli si takhle lodí a najednou se tam objevil premiér Černé hory,
+[46:22] který nebyl pozvaný, najednou se tam objevil,
+[46:25] tak si začali povídat a je to skvělý člověk a umělec
+[46:28] a oni mu řekli, jak se mu líbí ten ostrov
+[46:31] a že teda by tam mohli na tom ostrovi něco udělat.
+[46:34] Takže teď, protože to je chráněné místo, bílý píseční pláže,
+[46:40] to je nádherný ostrov, no tak Albánci protestují,
+[46:43] že nechtějí, aby jim tam Ivanka Trump s Jaredem Kushnerem
+[46:46] si vzali jejich ostrov. Notabene je to vojenská základna bývalá,
+[46:50] takže jestli si vzpomínáte na Epsteinův ostrov,
+[46:53] protkaný různými chodbami a bunkry, tak tohleto je naprosto ten samý případ.
+[46:58] Tam jsou dlouhý vybetonovaný chodby, bunkry a tak dál.
+[47:02] A Ivanka Trump s investicema Jareda Kushnera a s ním,
+[47:07] tak si tam chtějí realizovat své sněhovné automobilní trky,
+[47:10] trošku jako o nějaký duchovní cestě, která by měla dojít ke konci,
+[47:14] a říká, že takhle by si představoval žít každý,
+[47:16] že každý by měl takhle žít, takže Ivanka Trump,
+[47:19] tak si jí smějou všude v Americe, v nezávistých médiích si jí smějou,
+[47:23] že Ivanka Trump si myslí, že každej by měl žít,
+[47:25] takže bude mít svůj soukromý ostrov, že na něj bude jezdit s Rothschildem,
+[47:28] bude tam mít svou infrastrukturu soukromou.
+[47:31] A mezi tím Albánci protestují, protože nechtějí přijít o ten ostrov,
+[47:35] tak jako je vyhnali ze Srbska Jareda Kushnera,
+[47:38] tak se snaží teď Albánci. Takže to je takový příběh.
+[47:41] Jo, a ještě Jared Kushner vlastně říká, odjel jsem, z vlády jsem odjel,
+[47:45] jeli jsme na výlet, byli jsme v Černé hoře, jeli jsme okolo Korfu,
+[47:50] což je další ostrov, který velmi doporučuji, Korfu, můj nejoblíbenější ostrov,
+[47:55] jeli jsme okolo Korfu a přijíždíme právě, byli jsme v Černé hoře,
+[48:01] jeli jsme okolo Korfu a přijíždíme do Albány a tam našli ten krásný ostrov.
+[48:05] Takže tohleto jsou opravdu místa, které jsou zajímavé, doporučuju si tam podívat.
+[48:11] No a v Černé hoře, Černá hora se chystá do Evropské unie,
+[48:14] dneska v Tivatu byl ten summit, byli tam všichni,
+[48:17] jel tam i Aleksandr Vučič, prezident Srbska,
+[48:20] Srbsko dostalo zase za uši, Aleksandr Vučič zase řekl,
+[48:26] že je prezidentem suverénní země, že si to budou dělat po svým,
+[48:29] ale že udělají nějaké právní záležitosti, tak aby mohli postoupit do dalších klastrů,
+[48:34] takže doufám, že je to pořád jenom taková hra,
+[48:37] že Srbsko do Evropské unie vstupovat nebude,
+[48:39] myslím si, že Srbsko se do budoucna spojí s republikou Srbsko,
+[48:43] do Evropské unie nevstoupí, ale co se týče Černé hory,
+[48:47] tak tam je to hotové a z těch projevů, co jsem dneska slyšel,
+[48:50] tak do roku 2028 si myslím, že nejpozději Černá hora bude součástí Evropské unie.
+[48:56] Což je dobrá zpráva pro investory, špatná zpráva pro Černou horu.
+[49:01] Ale kdo chce kam?
+[49:03] Ne.
+[49:04] Ať jemu přáno.
+[49:08] Kdo chce kam, pomožme mu tam.
+[49:11] Izrael a Libanon se dohodli napřímě žít v rámci významného diplomatického průlomu
+[49:16] zprostředkovaného Spojenými státy.
+[49:18] K dohodě došlo po několika denních jednáních vedených Trumpovou administrativou,
+[49:22] přičemž obě země se zavazily zastavit nepředatelské akce
+[49:27] a pokračovat v přímých rozhovorech směřujících k širší mírové dohodě.
+[49:32] Tak to je super, super zpráva.
+[49:35] Každá taková zpráva.
+[49:36] Každá taková dohoda, kde se zastaví zabíjení, je samozřejmě super.
+[49:40] Uvidíme, jak dlouho to vydrží Izraelcům.
+[49:43] Moc tomu nedávám.
+[49:47] Slyšel jsem různý analýzy za poslední dva dny ohledně vztavu Izraele Spojených států.
+[49:52] Moc tomu nedávám, že tam bude mír, ale jsem rád samozřejmě za jakoukoliv dohodu.
+[49:57] Tak, pojďme na další zprávu.
+[49:59] To byla naše poslední zpráva.
+[50:01] Dneska jsme končili dobrou zprávou.
+[50:03] Ano, dneska jsme končili výbornou zprávou.
+[50:06] Ještě se podíváme, jestli tu nemáme nějaký zajímavý komentář.
+[50:13] Irena Richterová. Láďo, proč Srbsko chce vstoupit do EU?
+[50:17] Srbsko je země.
+[50:19] Srbsko vstoupit do EU nechce.
+[50:21] Ale vláda před Aleksandrem Vučičem byla vláda demokratů.
+[50:24] Ta přišla po Miloševičevi.
+[50:27] Přišla vláda demokratů.
+[50:29] A demokraty to jsou, jak se to říká slušně,
+[50:31] když si někdo nechá zaplatit za to, že se prodává,
+[50:34] nevím, jak se to říká slušně,
+[50:36] takže demokraté jsou obecně ti, kteří se nechávají koupit západem.
+[50:40] Takže i demokraté se nechali koupit západem
+[50:43] a podepsali ty první dohody o přístupu Srbska do EU.
+[50:48] A Vučič to zdědil.
+[50:50] Pokud tomu dobře rozumím, tak se docela brání tomu,
+[50:53] aby Srbsko nevstoupilo do EU.
+[50:55] Na druhou stranu, Srbsko je obklopený ze všech stran prakticky,
+[50:59] zeměmi NATO a z velký části zeměmi EU.
+[51:03] A EU je největší investor do Srbska.
+[51:06] A Srbsko má největší vývoz do EU.
+[51:09] Takže Srbsko se snaží s EU udržovat dobré vztahy.
+[51:12] A co se týče obchodu, tak je to samozřejmě pro Srbsko důležitý partner,
+[51:16] protože Srbsko má nějakou geologickou polohu.
+[51:20] Jestli budou všichni v Evropě součástky EU
+[51:23] a Srbsko zůstane mimo EU,
+[51:25] tak si nejsem úplně jistý, jak to pro Srbsko bude dobře, co se týče ekonomiky.
+[51:29] Ale osobně si myslím, že Srbsko nevstoupí do EU,
+[51:33] protože Srbsko dělá obrovský obchod s Čínou.
+[51:36] Aleksandr Vučič byl teď v Číně pět dnů
+[51:39] a podepsal smlouvy s Čínou o investicích asi za miliardu dolarů.
+[51:44] Takže Čína se blíží k tomu, co investuje EU do Srbska
+[51:50] a může se stát, že brzo Prusky předčí na ty investice.
+[51:54] A pro EU je nepřijatelné,
+[51:56] aby Srbsko mělo takovéto obchodní smlouvy s Čínou.
+[51:59] I kvůli sledovacím technologiím, kvůli zbraním,
+[52:02] protože Srbsko také nakupuje od Číny hypersonické balistické rakety.
+[52:06] Které nemá žádná jiná evropská země, kromě Ruska.
+[52:09] Takže to jsou všechno nepřijatelné věci pro EU.
+[52:12] Spolupráce s Ruskem, nepřijatelná pro EU.
+[52:15] Víte, že teď dneska jsme o tom mluvili.
+[52:17] 11 zemí, když jsem mluvil o Petrově Macinkovi,
+[52:20] 11 zemí chce zavést víza nebo zrušit dokonce víza pro Rusy.
+[52:25] V Srbsku se mluvilo o tom, že by se zavedla víza pro Rusy,
+[52:28] protože oni můžou vést víza po nějakou dobu.
+[52:32] Aleksandr Vučič řekl, že to nesmysl, že to neudělá.
+[52:36] Že to nepřipadá v úvahu.
+[52:38] Takže myslím si, že tyhle záležitosti Kosova,
+[52:40] spolupráce s Ruskem, neudělení ruských sankcí,
+[52:42] spolupráce s Čínou a především v těch vojenských záležitostech.
+[52:46] A to nevíme, co domluvil Vučič teď.
+[52:48] Ale my s manželkou předpokládáme, že domluvil nějaké další zbraně.
+[52:52] Akorát se o tom ještě nemluví z Číny.
+[52:54] Technologie.
+[52:56] Můžu vám dát, dám vám video, zítra vám dám video,
+[52:58] koho to budete zajímat.
+[53:00] Takže holka s klukem, dneska ráno jsem to viděl,
+[53:02] jedou do Japonska po zemi.
+[53:04] Bez léta dál.
+[53:06] A přijeli do Srbska, do Subotica a potom do Bělehradu.
+[53:08] Udělali video, viděl jsem 20 minut.
+[53:10] Naprosto parádní video, který vám ukáže, jak vypadá Srbsko.
+[53:12] Takhle pochopíte, co je Srbsko.
+[53:14] Jak jsou unešení z toho, že jedou vlakem 200 km hodině,
+[53:18] úplně novým.
+[53:20] A takový věci. Dám vám to zítra na Facebook,
+[53:22] můžete se na to zítra kouknout.
+[53:24] Srbsko má obrovské investice do infrastruktury,
+[53:26] také od Číny.
+[53:28] Dováží výrobky, má 6 000 výrobků
+[53:30] bez cla s Čínou.
+[53:32] Takže nemyslím si, že Srbsko
+[53:34] vstoupí do Evropské unie, protože pro Evropskou unii
+[53:36] jsou tohle nepřekročitelný věci.
+[53:38] A myslím si, že Srbsko se
+[53:40] prostě toho obchodu s Čínou
+[53:42] a spolupráce s Ruskem
+[53:44] a vojenské spolupráce s Čínou
+[53:46] prostě nehodlá zbavit.
+[53:48] Takže nemyslím si, že Srbsko chce
+[53:50] do Evropské unie.
+[53:52] Takže nemyslím si, že Srbsko chce
+[53:54] do Evropské unie.
+[53:56] Tak ještě tady máme nějaký dotaz zajímavý.
+[54:02] Chodinka Ivanka. Ano, Chodinka Ivanka.
+[54:04] Dobře, přátelé, děkujeme
+[54:06] za nesledování dnešních zpráv.
+[54:08] Dneska jsem trošku víc si dělal
+[54:10] reklamu na Prodej Realit,
+[54:12] protože po půl roce, co jsem se nevěnoval práci
+[54:14] a jenom pracuju pro vás
+[54:16] a děláme zprávy
+[54:18] a už nám běží web mimo jiné
+[54:20] a tak dál.
+[54:22] Celý minulý rok jsme dělali předvolební kampaň,
+[54:24] tak potřebuji zase trošičku
+[54:26] pracovat.
+[54:28] Mojí prací je prodávat reality
+[54:30] v Srbsku a v Černý hoře
+[54:32] a můžeme samozřejmě i někde jinde.
+[54:34] Takže proto jsem mluvil taky trošku dneska o realitách.
+[54:36] Mějte to prosím vás pěkně na paměti.
+[54:38] Kdybyste viděli o někom, kdo by chtěl
+[54:40] koupit nemovitel z Srbsku nebo v Černý hoře,
+[54:42] tak mi prosím vás pěkně dejte vědět.
+[54:44] Ale jinak jdeme zase zpátky do zpráv.
+[54:46] Příště to dělat nebudu.
+[54:48] Dneska jsem si udělal maličko tady reklamu,
+[54:50] a za mě to je všecko.
+[54:52] Díky vám moc, Zuzko, tobě díky
+[54:54] za přípravu zpráv.
+[54:56] Zítra máme sobotu, takže to budeme mít
+[54:58] tady zase nejvíc lidí.
+[55:00] Takže zítra budeme mít velký zprávy určitě.
+[55:02] Těším se na to.
+[55:04] Popovídáme si ještě jeden dotaz.
+[55:06] Tady byl včera, na který bych chtěl odpovědět.
+[55:08] Pán se ptal, jestli by nebylo lepší vzít
+[55:10] tři témata a rozevrat je dohloubky.
+[55:12] My jsme nad tím přemýšleli se Zuzkou
+[55:14] od začátku, jak ten model uděláme.
+[55:16] Ačkejte, tady máme.
+[55:18] Jak to budeme dělat,
+[55:23] ten model, hledali jsme ho.
+[55:25] Nakonec jsme se rozhodli se Zuzkou, že
+[55:27] budeme dělat zprávy v 9 hodin každý den,
+[55:29] že to je to, co je potřeba, aby to bylo pravidelný.
+[55:31] Rozhodli jsme se,
+[55:33] že budeme dělat 5 zpráv, aby to bylo
+[55:35] do 20 minut, ale nejde nám to,
+[55:37] protože je hodně zpráv
+[55:39] každý den, ale mně prostě to připadá
+[55:41] takhle. Když
+[55:43] ty zprávy jsou, a je důležité, abyste
+[55:45] věděli, co se děje, tak ty zprávy
+[55:47] děláme pro to, aby lidi měli přehled
+[55:49] o tom, co se děje, a aby to neměli
+[55:51] od český televize nebo od
+[55:53] jiných médií, kteří
+[55:55] dělají v podstatě válečnou propagandu
+[55:57] a jsou zkorumpovaný a píšou nesmysly.
+[55:59] Takže chceme dělat ty zprávy tak, abyste
+[56:01] věděli, co se skutečně děje.
+[56:03] A připadá nám líto, když jsou tam dobrý
+[56:05] věci, které by člověk měl vědět,
+[56:07] aby jsme je tam nedali. Takže tam
+[56:09] dáváme, když se děje toho hodně ten den,
+[56:11] tak máme hodně zpráv, víte, že máme někdy
+[56:13] patnácti víc zpráv, dneska jsme
+[56:15] měli jedenáct zpráv. A když se toho děje
+[56:17] méně důležitého, zajímavého, když
+[56:19] třeba někdo oznámí, že někam pojede, tak
+[56:21] to tam nedáváme, protože říkáme, to tam dáme,
+[56:23] až to bude. Takže někdy máme třeba
+[56:25] zpráv jenom pět. A takhle to budeme
+[56:27] dělat i dál. Nechceme dělat ten typ pořadu,
+[56:29] že vezmeme tři věci a rozebereme je do hloubky.
+[56:31] My chceme, aby to byly zprávy.
+[56:33] Aby ten člověk, který se každý den dívá,
+[56:35] aby si to, jo, někde si to
+[56:37] poslechnete u želení, nebo sbíráte
+[56:39] ovoce, nebo nevím, co děláte, nebo jedete
+[56:41] někam autem, a když si to poslechnete,
+[56:43] tak abyste měli
+[56:45] přehled o tom, co se děje. A to je
+[56:47] to, co děláme. To znamená,
+[56:49] někdy se snažím komentovat méně
+[56:51] některé věci, některé víc, a snažíme
+[56:53] se, aby to bylo do hodinky. Když je to
+[56:55] půl hodinky, je to super, když je to do hodinky,
+[56:57] je to taky super, ale snažíme se prostě
+[56:59] nevynechávat ty věci. Takže není to ten
+[57:01] typ pořadu, že budeme dělat tři věci,
+[57:03] který rozebereme, snažíme se vám udělat
+[57:05] zprávy a samozřejmě snažíme
+[57:07] se vám říct taky věci, který se nedozvíte
+[57:09] nikde jinde. Tak, to je všechno za mě.
+[57:11] Zuzko, chceš něco říct našim divákům?
+[57:13] Máš krásný srdíčko na krku.
+[57:15] Děkuju, nechci
+[57:17] jenom poděkovat za shledování a
+[57:19] doufám, že byl hezký večer.
+[57:21] Okej, hezký večer, mějte se krásně.
