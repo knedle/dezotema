@@ -531,6 +531,14 @@ Zítko vzpomíná na počátky hnutí „Srdcem pro vlast" (2020, s Robertem Šm
 
 ---
 
+### Nora Fridrichová a Daniel Cortus — urážky za odmítnutí rozhovoru, aktivismus schovaný za profesi (Šejna, 18. 8. 2026)
+
+Adam Šejna popisuje vlastní zkušenost: odmítl pozvání Nory Fridrichové do jejího podcastu, protože nerespektuje její tvorbu a nechtěl svou účastí zvyšovat její dosah — místo věcného přijetí odmítnutí ho začala urážet. Dává to do souvislosti s tím, že Fridrichová do podcastu pozvala Daniela Cortuse (vystupujícího pod přezdívkou „klimatomluva"), který si opakovaně veřejně stěžuje, že mu Filip Turek neodpovídá na zprávy a odmítá s ním jít do rozhovoru — přičemž ho zároveň dlouhodobě veřejně napadá a podle Šejny o něm šíří nepravdivá tvrzení. Šejna z toho vyvozuje obecnější vzorec chování: obě osobnosti podle něj urážejí každého, kdo s nimi odmítne debatovat, a zároveň svůj politický aktivismus schovávají za novinářskou/odbornou profesi.
+
+**Zdroje:** [Restart Česko — Videoportál 18. 8. 2026](_zdroje.md#restart-česko--videoportál-18-8-2026)
+
+---
+
 ### Kritika moderátorky Adély Snopové — nedostatek respektu k Václavu Klausovi (Rajchl, 9. 8. 2026)
 
 Rajchl kritizuje moderátorku Adélu Snopovou (CNN Prima News) za rozhovor s Václavem Klausem v pořadu Napřímo — vytýká jí taktiku „otázka–odpověď–vlastní komentář–jdeme dál" (zabraňující hostovi reagovat), stejnou, jakou dle něj použila i na něj samotného v debatě o Rusku. Zásadní problém vidí v tom, že si dovolila Klause coby bývalého prezidenta věcně konfrontovat a prosazovat vlastní názory na válku na Ukrajině, které označuje za zjednodušující — na rozdíl od moderátora Michala Půra, kterého chválí za to, že hostům dává prostor a své názory prezentuje jen na vlastním podcastu, ne v roli moderátora. Přirovnává ji k bývalé redaktorce ČT Zuzaně Černé, jejíž vlastní projekt po odchodu z ČT rychle zkrachoval pro nezájem.

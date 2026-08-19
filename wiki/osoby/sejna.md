@@ -40,6 +40,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 ### [Média a propaganda](../media-propaganda.md)
 
 - Média podporují „řízenou sebevraždu" (euro, Chat Control) vymýváním mozků — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+- Nora Fridrichová a Daniel Cortus urážejí ty, kdo odmítnou debatu; aktivismus schovaný za profesi — [18. 8.](../_zdroje.md#restart-česko--videoportál-18-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -62,3 +63,5 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Bára Štěpánková | ❌ negativní | Připomenut starší výrok o fotkách politiků s dětmi jako pokrytecký | 2026-07-31 | [Šejna](../_zdroje.md#adam-šejna--bára-štěpánková-pokrytectví-31-7-2026) |
 | Ursula von der Leyen | ❌ negativní | Spojována s Green Dealem a úpadkem síly EU | 2026-07-31 | [Šejna](../_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026) |
 | Petr Pavel | ❌ negativní | Netají se přáním zavést euro; součást „zaprodávání" republiky evropskému establishmentu | 2026-08-15 | [Šejna](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026) |
+| Nora Fridrichová | ❌ negativní | Urazila Šejnu po odmítnutí pozvání do jejího podcastu | 2026-08-18 | [Šejna](../_zdroje.md#restart-česko--videoportál-18-8-2026) |
+| Daniel Cortus | ❌ negativní | „Klimatomluva" — veřejně napadá Filipa Turka za odmítnutí rozhovoru, aktivismus schovaný za profesi | 2026-08-18 | [Šejna](../_zdroje.md#restart-česko--videoportál-18-8-2026) |
