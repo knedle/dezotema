@@ -3910,3 +3910,10 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/1691652842132994>
 - **Datum záznamu:** 2026-08-15
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Facebook Live (16. 8. 2026) {#jindřich-rajchl--facebook-live-16-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-16_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/3608855882598775>
+- **Datum záznamu:** 2026-08-16
+- **Zpracováno:** ano

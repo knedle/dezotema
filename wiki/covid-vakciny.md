@@ -618,6 +618,14 @@ Rajchl odmítá Národní očkovací strategii jako „pumpování veřejných p
 
 ---
 
+### Debata s moderátorkou Čermákovou (Prima, K věci): očkování v lékárnách a nedůvěra po covidu (Rajchl, 16. 8. 2026)
+
+Rajchl komentuje debatu s moderátorkou Čermákovou na Primě (pořad K věci) o Národní očkovací strategii a plánu umožnit očkování v lékárnách. Vytýká jí vnitřní rozpor: když tvrdil, že díky ukrajinské migraci roste výskyt nakažlivých chorob (žloutenka, záškrt, HIV), odmítla to jako tvrzení bez datové opory — ale zároveň sama argumentovala, že neočkovaní lidé (včetně Ukrajinců, kteří mají výrazně nižší proočkovanost než ČR) zvyšují náklady systému kvůli vyšší nemocnosti; obojí prý nemůže platit zároveň. Očkování v lékárnách odmítá jako nebezpečnou banalizaci lékařského zákroku — lékárník nezná zdravotní kartu, alergie ani aktuální stav pacienta (např. probíhající nachlazení), a mělo by mu vždy předcházet vyšetření protilátek, jejichž nezohlednění bylo podle něj jedním z „největších průšvihů" covidové doby. Iniciativu čte jako další ústupek farmaceutické lobby. Na otázku, proč by lidé měli věřit jemu více než odborníkům ministerstva zdravotnictví, odpovídá analogií se špatným právníkem nebo lékařem, který jednou zklame důvěru — tvrdí, že odborníci opakovaně lhali (nutnost roušek, tvrzení že dvě dávky vakcíny „udělají tečku za covidem", že očkování brání přenosu viru na rodiče/prarodiče), částečně kvůli mediální pozornosti, částečně kvůli platbám od farmaceutických firem.
+
+**Zdroje:** [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
+
+---
+
 ### COVID lockdowny: Srbsko versus ČR — Zítko (2. 5. 2026)
 
 Zítko ve vysílání z 2. května 2026 srovnává průběh covidových opatření v různých zemích. Srbsko označuje za pozitivní vzor: vláda sice lockdowny zavedla, ale lidé se vzbouřili a nakonec stormed parlament v Bělehradě — a lockdowny byly zrušeny. Srbsko podle Zítka prošlo pandemií s výrazně menšími restrikcemi než ČR, Španělsko nebo Čína (Shanghai). ČR naopak přijala přísné lockdowny bez odporu veřejnosti.

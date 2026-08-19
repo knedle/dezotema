@@ -119,7 +119,9 @@ V poslanecké sněmovně (**26. 6. 2026**), v debatě odbočivší od služební
 
 > „Chci si zaplatit za službu, která mě bude nějakým způsobem obohacovat, a ne která mě bude pomlouvat a urážet." — Jindřich Rajchl, [Videoportál: sněmovní debata o ČT, 26. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
 
-**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026)
+**16. 8.** — Rajchl doplňuje argument konkrétními příklady bývalých moderátorů ČT, kteří po odchodu z veřejnoprávní stanice ztratili sledovanost: Nora Fridrichová vysílá podcasty na Hero Hero pro „pár stovek" diváků, Marek Volner píše pro Forum24 a „vymýšlí si jeden nesmysl za druhým", Zuzana Černá „zkrachovala". Václav Moravec podle něj sám selhal jako moderátor (neuvěřitelně ukončil debatu s Rajchlem kvůli vlastní neschopnosti ji zvládnout, ne kvůli Rajchlovým „výstřelkům") a jeho kanál dosahuje nižší sledovanosti než konkurenční alternativní kanály (XTV, Petr Bureš, Vox TV, KTV) — na rozdíl od ČT musí tyto kanály bojovat o každého diváka. Moravcovi navíc vydělává i angažmá v „nezávislé" fact-checkingové neziskovce placené rovněž z veřejných peněz. Závěr: kdyby ČT musela soutěžit o diváky jako komerční kanály, dostali by prostor tvůrci jako Petr Holec, Xaver, Radim Panenka, Markéta Dobijášová nebo Tomáš Paukner.
+
+**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026), [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
 
 ---
 
@@ -207,6 +209,14 @@ Rajchl tvrdí, že média a Milion chvilek řeší poslední měsíc „byty" (m
 > „Jaký jste strážci demokracie, když si vybíráte jenom některé kauzy?" — Jindřich Rajchl, [FB Live 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 
 **Zdroje:** [Rajchl — FB Live: ČT není strážce demokracie, 21. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
+
+**16. 8.** — Rajchl se vrací ke kauze předraženého vrtulníku (přezdívaného „Čestmír") — Seznam Zprávy podle něj měsíce ignorovaly zjištění Tomáše Pauknera, jako by neexistoval, a teprve poté, co přišla „protivlna" (patrně vlna kritiky vůči Seznamu), věnovaly kauze najednou několik dní intenzivní pozornosti. Za obzvlášť podezřelé považuje odůvodnění novináře Martina Ondráčka, proč v rozhovorech nesdělil SPZ vrtulníku — údajně utajovaná informace, která by Rusku pomohla vrtulník identifikovat a zacílit. Rajchl namítá, že to je nevěrohodná výmluva zakrývající skutečný důvod mlčení, protože Ondráček dříve ve stejném médiu bez obav zveřejnil polohu české drone-výrobní firmy i tvář její šéfky.
+
+**Zdroje:** [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
+
+**16. 8.** — Rajchl reaguje na rozhovor Martina Ondráčka (zakladatel sbírky Dárek pro Putina) s Radkem Bartoníčkem, kde Ondráček na otázku, zda je lepší být novinářem nebo organizovat sbírku, odpověděl, že sbírka je lepší, „protože za mou prací zůstává spousta mrtvejch rusáků" — a z toho se radoval. Rajchl to označuje za projev psychopatie bez ohledu na vlastní postoj k válce na Ukrajině: sám by nikomu nepřál smrt, byť se mu nelíbí chování ukrajinských ani afrických migrantů. Dokládá dvojí metr justice srovnáním s vlastní obhajobou klienta v Chebu, trestně stíhaného za jedinou větu „Sláva Rusku, popel Ukrajině" (protest proti Zelenského režimu, ne přání smrti Ukrajincům) — zatímco Ondráčkův výrok o radosti z mrtvých Rusů zůstává bez postihu. Zvažuje na něj podat trestní oznámení, ale očekává, že se „nestane vůbec nic", protože justice v rusko-ukrajinském konfliktu jednostranně straní jen jedné straně.
+
+**Zdroje:** [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
 
 ---
 
