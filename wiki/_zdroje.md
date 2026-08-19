@@ -3947,3 +3947,11 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/861912476855037>
 - **Datum záznamu:** 2026-08-16
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: senátní kandidát HK (16. 8. 2026) {#lenka-tarabová--videoportál-senátní-kandidát-hk-16-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-16_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=2636260383486475&_rdr>
+- **Datum záznamu:** 2026-08-16
+- **Poznámka:** Krátký klip kritizující senátního kandidáta (obvod 45, Hradec Králové) — zachycený přepis obsahuje slova, která zní jako citace/přehrávka kandidátova vlastního projevu, ne Tarabové komentář. Bez zpracování, bez wiki úprav.
+- **Zpracováno:** ano
