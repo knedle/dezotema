@@ -612,3 +612,11 @@ Navrhované řešení, které dosud nejpodrobněji shrnuje: (1) okamžitá remig
 Rajchl reaguje na rozhovor Martina Dvořáka (STAN) k invazi marockých migrantů do Ceuty. Dvořák podle něj uznal, že vlna je „problematická", ale zároveň ji obhajoval jako výkon základního práva migrantů „hledat lepší život" a jako vítaný přínos pro vylidňující se Evropu. Rajchl to odmítá jako fatální popření reality — migraci z Afriky považuje za „totální zkázu" evropské bezpečnosti, ekonomiky i sociálního systému, s odkazem na útoky bodnou/sečnou zbraní v Německu (prý každých 18 minut); místo integrace a asimilace mají podle něj migranti cíl „plundrovat", čerpat dávky a měnit Evropu v „islámský chalifát", který nikdy nebude respektovat křesťanství. Označuje Dvořáka za „sociálního inženýra horšího než bolševici" a opakuje starší nálepku „pidiministr" (za dřívější označení koruny za „pidiměnu"). K euru dokládá na příkladu Itálie: Giorgia Meloniová by prý chtěla vůči Bruselu vystupovat razantněji, ale nemůže, protože bez vlastní měny je Itálie na Bruselu/Frankfurtu existenčně závislá — euro tak podle Rajchla brání členským zemím prosazovat vlastní zájmy.
 
 **Zdroje:** [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
+
+---
+
+### Migrace jako „rakovina, která metastázuje" — úvaha o opuštění Schengenu (Rajchl, 23. 8. 2026)
+
+Rajchl k pokračujícímu přílivu migrantů z Ceuty opakuje svou tezi o migraci (africké i ukrajinské) jako největším bezpečnostním riziku ČR a poprvé ji doplňuje metaforou nemoci: migrace je jako rakovina, která „nejdřív si vybere ty nejslabší orgány, ale nakonec požere úplně všechny" — postupně zasáhne i státy, které dosud považuje za bezpečné, protože sociální dávky a tolerance v Německu, Francii a Španělsku jsou pro migranty výhodnější než v ČR, takže je to jen otázka času. Navrhuje ochranu vlastních hranic a v krajním případě zvažuje vystoupení ze schengenského prostoru — bezpečnost staví nad výtky z „nesolidárnosti", s tím, že je ochoten pomáhat finančně a lidsky při přírodních katastrofách, ale migraci označuje za politicky vyvolaný, nikoli přírodní jev.
+
+**Zdroje:** [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)

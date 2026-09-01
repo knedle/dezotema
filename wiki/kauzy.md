@@ -555,6 +555,14 @@ Jako pokrytectví navíc zmiňuje, že fond spekuloval i na středoevropských m
 
 ---
 
+### STAN a TOP 09 jako „dozimetrické strany" — v normální zemi by byly u soudu (Rajchl, 23. 8. 2026)
+
+V reakci na televizní debatu, v níž vystupovali zástupci STAN a TOP 09, Rajchl opakuje označení obou stran za „dozimetrické" (viz [Kauza Dozimetr](#kauza-dozimetr)) a tvrdí, že v „normální zemi" by už dávno byly u soudu, který by rozhodoval o jejich zrušení nebo o astronomické pokutě. Zároveň odmítá, že by extremistické byly strany SPD/PRO — extremistickými nazývá naopak STAN, TOP 09 a Piráty, kterým vyčítá prosazování migrace, emisních povolenek a dalších opatření (např. EPBD) vedoucích dle něj k ochuzení občanů ve prospěch Bruselu.
+
+**Zdroje:** [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
+
+---
+
 ## Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
 
 ### 90 mld. EUR „půjčka", oligarcha Mindić a zbrojní firma Firepoint (Černohorský, 10.–13. 5. 2026)

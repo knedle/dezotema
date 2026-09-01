@@ -438,3 +438,13 @@ Tarabová shrnuje řadu Pavlových výroků, které podle ní odporují jeho poz
 **Zdroje:** [Tarabová — Videoportál 28. 7. 2026](_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
 
 ---
+
+### Projev u Českého rozhlasu 21.8. — „nejbizarnější moment české politiky od roku 1918" (Rajchl, 23. 8. 2026)
+
+Rajchl ostře kritizuje projev Petra Pavla u budovy Českého rozhlasu při vzpomínkové akci na výročí okupace 1968 a označuje ho za „nejbizarnější okamžik historie české politické scény od roku 1918". Argumentuje Pavlovým vlastním životopisem z roku 1987 (dostupným na webu e15/e-dnes), v němž Pavel podle Rajchla neschvaluje okupaci jen mimoděk, ale opakovaně vyjadřuje obdiv k Sovětskému svazu a jeho metodám, popisuje měsíční pobyt v SSSR jako inspirativní zkušenost a slibuje důsledné prosazování stranické linie — v té době jako 27letý dospělý, nikoli sedmiletý chlapec, jak podle Rajchla namítají Pavlovi obhájci. Pavla nepovažuje za přesvědčeného komunistu, ale za „celoživotního oportunistu", který nikdy neriskoval nic ve prospěch nepopulárního postoje a vždy sloužil aktuálnímu režimu u moci — na rozdíl od statisíců lidí (včetně svého otce), kteří odmítli vstup do strany i za cenu ztráty kariéry. Přirovnává situaci k tomu, jako by se 36 let po válce u Lidic omlouval bývalý člen NSDAP usilující o kariéru v nacistické rozvědce. Za obzvlášť pobuřující považuje, že Pavel v projevu srovnával rok 1968 se současností (namítal „útoky na demokratická média" dnes) — což Rajchl odmítá jako srovnání s reálnou vojenskou okupací a umlčením médií tanky. Uzavírá tezí, že prosazování „Spojených států evropských" je dnes srovnatelné, možná i horší, než tehdejší schvalování vstupu Československa do sféry SSSR.
+
+> „On je celoživotní oportunista. On bude vždycky sloužit každému režimu, který bude zrovna u moci." — Jindřich Rajchl, [Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
+
+**Zdroje:** [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
+
+---

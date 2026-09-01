@@ -974,6 +974,10 @@ Rusko zařadilo na mezinárodní seznam hledaných osob 32letého Conora Kennedy
 
 V debatě na CNN Prima News Rajchl tvrdí, že stejně jako v Rusku existují plány na rozložení NATO, existují i v NATO plány na rozložení Ruska — a označuje to za zásadní problém. Odmítá strategii odstrašování jako cestu k míru: podle něj nejmírovější období Evropy nastalo v době uzavírání demilitarizačních smluv (START, SALT), a odstrašování naopak vede k plánům, které mohou v budoucnu přerůst ve válku. Jako vzor uvádí přístup Johna F. Kennedyho — jednat a domlouvat mír u jednacího stolu, ne odstrašováním.
 
-**Zdroje:** [Rajchl — Videoportál 22. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-22-8-2026)
+**23. 8.** — v reakci na televizní debatu Rajchl rozvádí odmítnutí slova „odstrašení" — označuje ho za termín vzniklý „v dílnách zbrojařských lobbistů", který má ospravedlnit nákup dalších zbraní (např. 49 tanků Leopard nebo stíhačky F-35 s dodáním až v roce 2035) místo skutečného odstrašení nepřítele. Tvrdí, že jediné reálně odstrašující jsou jaderné zbraně, které ČR nemá a mít nechce, protože by se tím stala terčem; klasické zbrojení proto o odstrašení nejde, ale o kamufláž pro přesun peněz zbrojařským korporacím (odhaduje polovinu z cca 200 mld. Kč plánovaných výdajů na zbrojení jako zbytnou, s tím, že by mohla jít na zdravotnictví, školství a důchody). Navrhuje, aby se ČR profilovala jako neutrální „most mezi Východem a Západem" a mediátor mírových jednání, po vzoru role, kterou si při konfliktech vzaly Turecko, Izrael a Maďarsko — s tím, že první krok k usmíření musí někdo udělat, jinak bude nepřátelství eskalovat donekonečna jako u manželů čekajících, kdo se omluví první.
+
+> „Já jsem jednoznačným příznivcem dialogu... My musíme budovat přátelství, ne nepřátelství." — Jindřich Rajchl, [Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
+
+**Zdroje:** [Rajchl — Videoportál 22. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-22-8-2026), [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
 
 ---

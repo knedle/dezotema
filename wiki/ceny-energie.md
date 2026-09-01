@@ -207,6 +207,16 @@ Rajchl cituje rozhovor expertů o budoucnosti evropského automobilového průmy
 
 ---
 
+### Emisní povolenky: ČR platí 30× víc než Švédsko a 17× víc než Německo (Rajchl, 23. 8. 2026)
+
+Rajchl v FB Live shrnuje čísla o emisních povolenkách, která prezentoval i v televizní debatě: cena vzrostla o 355 %, ETS1 se aktuálně obchoduje přes 80 eur a ETS2 přes 70 eur — slibované zastropování na 40 eur nikde není. V Asii i USA jsou obdobné vstupy (emise, plyn, elektřina) podle něj mnohem levnější, což dělá Evropu nekonkurenceschopnou. Podle jím citovaného článku zaplatí každý Čech na emisních povolenkách 7 000 Kč ročně (čtyřčlenná rodina 21 000 Kč), zatímco Švédové jen 200 Kč a Němci zhruba 400 Kč na hlavu — tedy ČR platí 30× víc než Švédsko a 17× víc než Německo, přestože Němci mají třikrát vyšší platy. Negativní dopad na české HDP odhaduje s odkazem na Varšavský institut na přes 100 mld. Kč přímo, k tomu připočítává nepřímé dopady (odrazování od podnikání energeticky náročných provozů kvůli vysoké byrokracii a pomalým odpisům). Přirovnává model k sousedovi, který znečišťuje vlastní zahradu produkcí pro souseda a ještě mu za to platí — řešením je odchod z Lipské burzy s emisními povolenkami.
+
+> „Chápete, jak je ten model zkorumpovaný? Jak je to celé nastavené jenom na to, aby... okrádala západní Evropa nás, tu střední a východní Evropu." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
+
+---
+
 ## Energetika a Rusko
 
 ### Obnovení dovozu ruského plynu a ropy jako řešení energetické krize
