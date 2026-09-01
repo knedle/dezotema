@@ -600,6 +600,16 @@ Ke zprávě, že organizace Strong Europe pořádá v ČR kurzy létání s FPV 
 
 ---
 
+### Festival Pulse of Nations v Praze 21.8. jako „urážka" — Ukrajina nese spoluodpovědnost za okupaci 1968 (Rajchl, 20. 8. 2026)
+
+Rajchl kritizuje konání hudebního festivalu Pulse of Nations věnovaného Dni nezávislosti Ukrajiny, který se v Praze koná 21. srpna — v den výročí okupace Československa vojsky Varšavské smlouvy. Za volbu termínu považuje za extrémně necitlivou až záměrně provokativní a tvrdí, že Ukrajina nese za okupaci plnou spoluodpovědnost stejně jako Rusko a ostatní národy tehdejšího SSSR — přirovnává to k tomu, jako by si Němci v ČR slavili nezávislost 15. března (den obsazení zbytku Československa 1939). Vadilo by mu to stejně, kdyby festival pořádali Rusové, Bělorusové, Kazaši nebo Uzbekové. Jako „třešničku na dortu" zmiňuje jméno hlavní vystupující umělkyně Jerry Heil jako nechtěnou narážku.
+
+> „Je to výraz neúcty, despektu vůči naší zemi." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Videoportál 20. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-20-8-2026)
+
+---
+
 ## Vyjednávání a mír
 
 ### Mír bude odrážet aktuální kontrolu území — čím déle válka trvá, tím hůř pro Ukrajinu (Rajchl, 12. 7. 2026)

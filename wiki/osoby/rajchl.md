@@ -86,6 +86,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **16. 7.** — neformální anketa mezi Chorvaty o euru — nikdo spokojen; psychologický efekt vnímaného 7násobného zdražení po přechodu z kuny — [Videoportál 16. 7. 2026](../_zdroje.md#jindřich-rajchl--videoportál-16-7-2026)
 - **19. 7.** — Green Deal „highway to hell" (ETS1/2, RED3, EPBD4, Zetor), moratorium na větrníky „ani jednu", vazalské podmínky Dukovan, „válka s Bruselem" a příprava na odchod z EU (mandát jen ~13 %); Chorvatsko a euro = „konec Chorvatska"; predikce zhroucení Ukrajiny (Zelenskyj→Zalužný, mír u 90 % Doněcka) — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026) → [predikce.md](../predikce.md)
 - **11. 8.** — nezaměstnanost 5 % (nejvyšší od 2017) jako důsledek Green Dealu a ukrajinské migrace; opakuje Zetor a „dvouocasou příšeru" — [Videoportál 11. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-8-2026)
+- **20. 8.** — festival Pulse of Nations (Den nezávislosti Ukrajiny) v Praze 21.8. jako „urážka" — termín výročí okupace 1968, Ukrajina nese spoluodpovědnost jako součást SSSR — [Videoportál 20. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-20-8-2026) → [Válka na Ukrajině](../valka-ukrajina-prubeh.md#festival-pulse-of-nations-v-praze-218-jako-urážka-ukrajina-nese-spoluodpovědnost-za-okupaci-1968-rajchl-20-8-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -328,6 +329,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Zuzana Černá | ❌ negativní | Její samostatný mediální projekt po odchodu z ČT „zkrachoval" | 2026-08-16 | [Facebook Live 16. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026) |
 | Martin Dvořák | ❌ negativní | K Ceutě: obhajoval migraci jako právo na lepší život — označen za „sociálního inženýra horšího než bolševici", opakována nálepka „pidiministr" za výrok o koruně jako „pidiměně" | 2026-08-16 | [Facebook Live 16. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026) |
 | Martin Ondráček | ❌ negativní | Zakladatel sbírky Dárek pro Putina — výrok o radosti z „mrtvejch rusáků" označen za projev psychopatie; Rajchl zvažuje trestní oznámení | 2026-08-16 | [Facebook Live 16. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026) |
+| Petr Pavel | ❌ negativní | Ironicky navrženo, že by měl osobně dorazit na festival Pulse of Nations 21.8. — připomenuto, že ve 27 letech schvaloval okupaci Československa 1968 | 2026-08-20 | [Videoportál 20. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-20-8-2026) |
 
 ---
 
