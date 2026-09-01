@@ -969,3 +969,11 @@ Rusko zařadilo na mezinárodní seznam hledaných osob 32letého Conora Kennedy
 **Zdroje:** [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
 
 ---
+
+### Odstrašování vede k válce, řešením je dialog po vzoru START/SALT — Rajchl (22. 8. 2026)
+
+V debatě na CNN Prima News Rajchl tvrdí, že stejně jako v Rusku existují plány na rozložení NATO, existují i v NATO plány na rozložení Ruska — a označuje to za zásadní problém. Odmítá strategii odstrašování jako cestu k míru: podle něj nejmírovější období Evropy nastalo v době uzavírání demilitarizačních smluv (START, SALT), a odstrašování naopak vede k plánům, které mohou v budoucnu přerůst ve válku. Jako vzor uvádí přístup Johna F. Kennedyho — jednat a domlouvat mír u jednacího stolu, ne odstrašováním.
+
+**Zdroje:** [Rajchl — Videoportál 22. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-22-8-2026)
+
+---
