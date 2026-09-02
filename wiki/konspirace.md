@@ -154,6 +154,14 @@ Boldy zastává přesvědčení, že Trump není politický spasitel, ale démon
 
 ---
 
+### Meme „6-7" a píseň Baby Shark jako démonická čísla (Boldy, 22. 8. 2026)
+
+Boldy tvrdí, že rozšířený dětský meme/fráze „6-7" má skrytý démonický význam. Odvozuje ho od písně rappera Skrily (Doot Doot), který podle Boldyho vyznává africko-karibské náboženství s obětními rituály, jemuž má vděčit za úspěch v hudebním průmyslu. Poukazuje, že zadáním slova „satanic" do gematrické kalkulačky vyjde číslo 67. Dále tvrdí, že populární píseň Baby Shark (17 miliard zhlédnutí na YouTube) obsahuje v textu šestinásobné opakování fráze po třech řádcích (tedy „666") a že samotná melodie má odlišný, s reinkarnací a démony spojený původ. Varuje rodiče, aby dětem zakázali frázi opakovat, protože „přivolává síly, které doma nechcete" — děti jsou dle něj cílem démonů jako nositelé „nejčistší duše". Slibuje podrobnější rozbor (vč. příběhu americké matky Molly) v následujícím vysílání.
+
+**Zdroje:** [Boldy — Videoportál 22. 8. 2026](_zdroje.md#konspirátor-boldy--videoportál-6-7-a-baby-shark-22-8-2026)
+
+---
+
 ### Česká republika jako centrum evropského okultismu
 
 Boldy prezentuje přesvědčení, že Česká republika a východní Německo jsou klíčovým pilířem pro evropský satanismus a okultismus. ČR je podle něj nejen „srdcem Evropy", ale zároveň „srdcem satanistického okultismu".

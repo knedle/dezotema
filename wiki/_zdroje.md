@@ -4085,6 +4085,13 @@
 - **Datum záznamu:** 2026-08-21
 - **Zpracováno:** ano
 
+## Konspirátor Boldy — Videoportál: 6-7 a Baby Shark (22. 8. 2026) {#konspirátor-boldy--videoportál-6-7-a-baby-shark-22-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-22_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/836798366094316>
+- **Datum záznamu:** 2026-08-22
+- **Zpracováno:** ano
+
 ## Restart Česko — Videoportál: Chat Control (21. 8. 2026) {#restart-česko--videoportál-chat-control-21-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-21_Restart-Cesko_Videoportál_1.txt)
 - **Kanál:** Restart Česko (Adam Šejna)
