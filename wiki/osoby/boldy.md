@@ -42,6 +42,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - „Zombie virus" — incident ve Walmartu (obklíčen Národní gardou), spojeno s 5G/6G zářením a vakcínami jako biozbraní — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
 - Meme „6-7" a píseň Baby Shark jako démonická čísla (zpěvák Skrila, gematrie, 666) — [22. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-6-7-a-baby-shark-22-8-2026)
 - UFO poblíž letadla při seskoku padákem u Kunovic — [23. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)
+- Doporučení filmu „2073" jako potvrzení Agendy 2030 — [25. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-film-2073-25-8-2026)
 
 ### [Migrace](../migrace.md)
 - Ceuta jako „plán elit na likvidaci Evropy" — armáda migrantům pomáhá, ne brání; financování Gates/Rockefeller nadacemi; predikce zániku Evropy (Nostradamus, Baba Vanga, do 2050) — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
@@ -139,3 +140,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál: klub Dialog (21. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026)
 - [Videoportál: 6-7 a Baby Shark (22. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-6-7-a-baby-shark-22-8-2026)
 - [Videoportál: UFO a sledování (23. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)
+- [Videoportál: film 2073 (25. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-film-2073-25-8-2026)

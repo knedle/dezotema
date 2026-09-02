@@ -4210,3 +4210,10 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/1455014269803177>
 - **Datum záznamu:** 2026-08-25
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál: film 2073 (25. 8. 2026) {#konspirátor-boldy--videoportál-film-2073-25-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-25_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1067552539002578>
+- **Datum záznamu:** 2026-08-25
+- **Zpracováno:** ano
