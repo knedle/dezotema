@@ -36,6 +36,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Euro jako vzdání se svobody, Pavel a opozice „zaprodávají" republiku — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
 - Kritika Pavlova výroku o „Spojených státech evropských"; civilizační chvála Evropy jako kolébky 99 % vynálezů — [22. 8.](../_zdroje.md#restart-česko--videoportál-22-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 - Sdílený klip o Pavlově životopisu z 1987 — výzva přestat volit „novodobé komunisty" — [23. 8.](../_zdroje.md#restart-česko--videoportál-23-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
+- Shrnutí porušení prezidentského slibu — Turek, ÚS/NATO, „Spojené státy evropské", euro, nově podpora konstituční monarchie — [25. 8.](../_zdroje.md#restart-česko--videoportál-25-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 
@@ -79,3 +80,4 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Petr Pavel | ❌ negativní | Ironicky nazván „agent Pávek" — kritizován za výrok, že „Spojené státy evropské" jsou jediným východiskem pro ČR | 2026-08-22 | [Videoportál 22. 8.](../_zdroje.md#restart-česko--videoportál-22-8-2026) |
 | Petr Pavel | ❌ negativní | Konfrontován se svým životopisem z 1987 (obdiv k SSSR), odmítl odpovědět, zda tomu tehdy věřil; přirovnán k „novodobému komunistovi" a bývalému rozvědčíkovi okrádajícímu dnešní spojence | 2026-08-23 | [Videoportál 23. 8.](../_zdroje.md#restart-česko--videoportál-23-8-2026) |
 | Volodymyr Zelenskyj | ❌ negativní | Odmítá svobodné volby, protože by je prohrál; vydělává na pokračující válce financované EU/NATO/USA | 2026-08-24 | [Videoportál 24. 8.](../_zdroje.md#restart-česko--videoportál-24-8-2026) |
+| Petr Pavel | ❌ negativní | Shrnutí porušení prezidentského slibu — Turek, zneužití ÚS, „Spojené státy evropské", euro, nově i podpora konstituční monarchie | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#restart-česko--videoportál-25-8-2026) |

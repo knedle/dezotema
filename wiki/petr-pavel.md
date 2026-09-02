@@ -415,6 +415,10 @@ Adam Šejna (Restart Česko) navazuje na kauzu předběžného opatření Ústav
 
 **Zdroje:** [Šejna — Petr Pavel a nestrannost ústavního soudu, 29. 7. 2026](_zdroje.md#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026)
 
+**25. 8.** — Šejna shrnuje v krátkém klipu (recitace prezidentského slibu) seznam údajných porušení slibu: nejmenování Turka, „zneužití" Ústavního soudu k účasti na summitu NATO (viz výše), podpora „Spojených států evropských" (viz [Kritika Pavlova výroku o „Spojených státech evropských"](#petr-pavel-a-spojené-státy-evropské-útok-na-českou-suverenitu-26-4-2026)) a zavedení eura/digitálního eura jako ztráty svobody. Nově dodává tvrzení, že Pavel podporuje zavedení konstituční monarchie v ČR.
+
+**Zdroje:** [Restart Česko — Videoportál 25. 8. 2026](_zdroje.md#restart-česko--videoportál-25-8-2026)
+
 ---
 
 ### Pavlovo veto rozpočtového zákona jako definitivní důkaz role „prezidenta opozice" (Rajchl, 26. 7. 2026)
