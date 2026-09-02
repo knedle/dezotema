@@ -34,6 +34,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **4. 8. (3)** — pokračování Fauciho kongresového slyšení: 7 amerických států žádá trestní stíhání, floridský generální prokurátor zahájil vyšetřování, odhad 150 mil. celosvětových obětí vakcíny (britský poslanec), VAERS statistika (covid vakcína 2021 = >50 % všech úmrtí po vakcínách za 33 let) — [Videoportál 4. 8. (3)](../_zdroje.md#československo-tv2--videoportál-4-8-2026-2)
 - **7. 8.** — podal trestní oznámení nadepsané „genocida národa, vakcinační holokaust a sterilizace obyvatelstva" — [Videoportál 7. 8.](../_zdroje.md#československo-tv2--videoportál-7-8-2026)
 - **9. 8.** — čte celý text oznámení: extrapolace 7 500 mrtvých v ČR (z tvrzených 60 000 mrtvých Němců), řetězec osobní odpovědnosti premiér→lékař, požadavek na zastavení očkování — [Videoportál 9. 8.](../_zdroje.md#československo-tv2--videoportál-9-8-2026)
+- **21. 8.** — David Morens (bývalý poradce Fauciho) přiznal vinu u soudu v Marylandu za skrývání záznamů o grantu na výzkum netopýřích koronavirů (subgrant pro Wuhanský institut virologie); hrozí mu 5 let vězení — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- **21. 8.** — opakuje beze změny (nyní datováno 18. 6.) tvrzení o usnesení Krajského soudu v Ústí nad Labem konstatujícím neizolaci SARS-CoV-2 — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -61,6 +63,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **7. 8.** — podal trestní oznámení na Petra Fialu za „přípravu útočné války" (dodávky zbraní Ukrajině údajně už začátkem února 2022); spor s advokátem Tušlem, teorie o zfalšovaném zatýkacím videu Tomáše Čermáka — [Videoportál 7. 8.](../_zdroje.md#československo-tv2--videoportál-7-8-2026)
 - **8. 8.** — detailní čtení trestních oznámení (Fiala, bitcoinová kauza), cituje Fialovo TV vystoupení jako „důkaz" — [Videoportál 8. 8.](../_zdroje.md#československo-tv2--videoportál-8-8-2026)
 - **12. 8.** — bitcoinová kauza: údajný poměr Decroix a Havránka (fotografie z Karpacze), srovnání disproporce trestů Rát vs. Blažek — [Videoportál 12. 8.](../_zdroje.md#československo-tv2--videoportál-12-8-2026)
+- **21. 8.** — kauza Peková: iniciátorem eskalace moderátor Tomáš Salaj, rozhodnutí připisuje ministru Tejcovi, podpůrný komentář Karla Janečka — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- **21. 8.** — rekapitulace tří trestních oznámení (genocida/vakcinační holokaust, Fiala za přípravu útočné války, bitcoinová kauza) + hypotetický scénář veřejné debaty proti „covidové sestavě" — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -117,6 +121,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **28. 7.** — „20 pravidel přežití v systému" (konspirační heuristika o dezinformacích a kontrole); školství jako nástroj indoktrinace (Rockefeller, Agenda 2030, 15minutová města); doplnění právní argumentace o obnově ČSR (údajná písemná odpověď Kanceláře prezidenta o neplatnosti vlády k 1. 1. 1993); opakuje beze změny hon na Thomase Pauknera a Deep State dvojníky (J. D. Vance) — [Videoportál 28. 7.](../_zdroje.md#československo-tv2--videoportál-28-7-2026)
 - **29. 7.** — „strukturovaná voda" H3O2 (Gerald Pollack) jako pseudovědecká alternativa k farmaceutickému průmyslu — [konspirace.md](../konspirace.md); Benešovy dekrety jako precedens poválečného uspořádání po konfliktu na Ukrajině (USA/Rusko/Čína rozhodnou, ne evropské vlády) — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md); opakuje beze změny financování Deníku N miliardáři a Kennedyho obchodní model farmaceutického průmyslu — [Videoportál 29. 7.](../_zdroje.md#československo-tv2--videoportál-29-7-2026)
 - **12. 8.** — predikce „Americké jubileum" 21. 9. 2026 (konec admirality law, nástup QFS, zatmění Slunce/Měsíce jako znamení) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md), [predikce.md](../predikce.md) — [Videoportál 12. 8.](../_zdroje.md#československo-tv2--videoportál-12-8-2026)
+- **21. 8.** — Karel Janeček zbohatl na bitcoinu (2017) díky insider informacím od CIA nebo Fedu — [konspirace.md](../konspirace.md) — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -246,6 +251,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Emmanuel Macron | ⚖️ rozporuplný | Dle sdíleného textu „Hanna Hanna" nahrazen dvojníkem po znovuzvolení jako součást Central Castingu | 2026-07-24 | [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026) |
 | Marine Le Pen | ✅ pozitivní | Dle sdíleného textu je skutečná a tajně součástí „Aliance" bojující proti Deep State | 2026-07-24 | [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026) |
 | Markéta Vaňková | ⚖️ rozporuplný | Jmenována v nepodložené spekulaci o možném večírku s drogami a dětmi — Zítko sám podává jako domněnku, ne fakt | 2026-07-24 | [Videoportál 24. 7.](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026) |
+| Tomáš Salaj | ❌ negativní | Moderátor a „covidový propagátor zapíchávání" — označen za iniciátora eskalace vůči Pekové, přehrán jeho starší výrok o očkování | 2026-08-21 | [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026) |
+| Karel Janeček | ✅ pozitivní | Podpůrný komentář ke kauze Peková hodnocen kladně; zároveň líčen jako někdo, kdo zbohatl na bitcoinu díky insider informacím od CIA/Fedu | 2026-08-21 | [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026) |
+| David Morens | ⚖️ rozporuplný | Bývalý poradce Fauciho — přiznal vinu za skrývání záznamů o původu covidu, ale jeho trest je dle sdíleného komentáře jen „odvedení pozornosti od slona v místnosti" | 2026-08-21 | [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026) |
+| Soňa Peková | ✅ pozitivní | Označena za „hrdinku covidové doby" — odvahu a odbornost jí odebrání znaleckého razítka nevzalo | 2026-08-21 | [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026) |
 
 ---
 
@@ -318,3 +327,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál: Facebook blokace, kybernetická bezpečnost (23. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
 - [Videoportál: Central Casting 11:11 (24. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)
 - [Videoportál: Solární záblesk (25. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-solární-záblesk-25-7-2026)
+- [Videoportál (21. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-21-8-2026)

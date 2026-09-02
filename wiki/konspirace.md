@@ -659,3 +659,11 @@ Tarabová uzavírá video nejasně formulovanou, mysticky laděnou předpovědí
 **Zdroje:** [Tarabová — Videoportál 20. 8. 2026](_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
 
 ---
+
+### Karel Janeček zbohatl na bitcoinu díky insider informacím od CIA nebo Fedu (Zítko, 21. 8. 2026)
+
+V souvislosti s podpůrným komentářem Karla Janečka ke kauze Peková (viz [Kauzy — třetí verze kauzy Peková](kauzy.md#třetí-verze-kauzy-peková-ministr-tejc-moderátor-salaj-jako-iniciátor-podpora-karla-janečka-zítko-21-8-2026)) Zítko líčí historku o Janečkově zbohatnutí na bitcoinu v roce 2017: Janeček měl investovat cca 70 mil. Kč při ceně 300–700 dolarů za kus a prodávat je krátce před propadem způsobeným výrokem šéfa JP Morgan Jamieho Dimona (bitcoin je „scam"), kdy hodnota klesla o cca 1000 dolarů — přičemž JP Morgan byl podle Zítka následně identifikován jako hlavní kupec po tomto propadu, než hodnota vyletěla ze zhruba 3 000 na téměř 20 000 dolarů. Z toho vyvozuje, že Janeček musel mít v té době „dobrou zprávu a dobré kontakty buď na CIA, nebo na Fed", protože jinak by takové časování transakce (výdělek cca 2 miliardy Kč) nebylo možné — obchodní úspěch tak podle něj nebyl založen na veřejně prezentovaných algoritmech („pípáky“), ale na insider informacích.
+
+**Zdroje:** [ČsTV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
+
+---

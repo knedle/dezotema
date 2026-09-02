@@ -174,6 +174,14 @@ Na rozdíl od Černohorského rámování (viz výše) — kde snaha odebrat Pek
 
 ---
 
+### Třetí verze kauzy Peková: ministr Tejc, moderátor Salaj jako iniciátor, podpora Karla Janečka (Zítko, 21. 8. 2026)
+
+Zítko doplňuje kauzu dalšími jmény a detaily. Rozhodnutí o odebrání znaleckého razítka připisuje ministru spravedlnosti Jeronýmu Tejcovi; za spouštěč eskalace označuje moderátora Tomáše Salaje (kanál Niemand Nula), který podle něj načasovaně zaútočil na Pekovou souběžně s zpochybněním studie slovenské Akademie věd (SAV) doktorem Petrem Kotlárem — ministerstvo přitom podle Zítka vůbec neposuzovalo správnost jejích odborných závěrů, jen otázku nestrannosti (v tomto bodě se jeho popis shoduje s Tarabovou verzí výše). Přehrává starší klip, v němž Salaj během pandemie tvrdil, že po jejím skončení budou lidé rozdělení jen do tří skupin — ti, co covid přežili, ti, co se nechali očkovat, a mrtví — a vyzýval k očkování; z toho Zítko usuzuje, že podle Salajovy vlastní logiky by on i další neočkovaní měli být dávno mrtví. Cituje také komentář bývalého prezidentského kandidáta Karla Janečka, který kauzu srovnává s aktuálním znovuotevřením covidové odpovědnosti v USA a označuje Pekovou za jednu z „hrdinek covidové doby" — ztrátu razítka jí prý stát vzít mohl, ale odvahu a odbornost ne.
+
+**Zdroje:** [Československo TV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
+
+---
+
 ### Kritika Rajchlova semináře v PS ke covidu jako „hrané divadlo" (Tarabová, 20. 8. 2026)
 
 Tarabová hodnotí seminář na půdě Poslanecké sněmovny věnovaný covidovým nesrovnalostem, na němž vystoupil Jindřich Rajchl, jako zklamání. Ačkoli podle ní Rajchl řekl řadu věcí, které mohly vzbudit naději, po vlastním prozkoumání situace uzavírá, že žádný reálný efekt tato snaha nemá — jde o „hranou snahu odhalovat nesrovnalosti", nikoli upřímný pokus o nápravu. Takové akce podle ní slouží jako divadlo odvádějící pozornost veřejnosti k jiným tématům.
@@ -887,6 +895,10 @@ Zítko podal na krajské státní zastupitelství trestní oznámení na býval�
 **8. 8.** — Zítko čte kompletní text obou trestních oznámení (na Fialu a v bitcoinové kauze) a jako „důkaz" k oznámení na Fialu pouští klip z jeho vlastního TV vystoupení o rozsahu vojenské pomoci Ukrajině (89 tanků, 226 bojových vozidel, munice v hodnotě 10 mld. Kč) — z Fialovy věty, že „ČR se ještě před vypuknutím ruské agrese rozhodla darovat munici", dovozuje důkaz přípravy útočné války, ačkoli věta samotná jednoznačně neurčuje přesné datum ani rozsah před 24. 2. 2022. V bitcoinové kauze doplňuje jméno velitele NCOZ jako „podplukovník Brejcha" — zbytek (soupis podezřelých, částky, blockchain) je opakování beze změny.
 
 **Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 8. 8. 2026](_zdroje.md#československo-tv2--videoportál-8-8-2026)
+
+**21. 8.** — V souvislosti s kauzou Peková Zítko rekapituluje všechna tři svá dosud podaná trestní oznámení (genocida národa/vakcinační holokaust/sterilizace, příprava útočné války na Fialu, bitcoinová kauza ODS/Spolu/Brňáků) — beze změny oproti dřívějšímu obsahu. Nově nabízí hypotetický scénář: veřejnoprávní debata, v níž by proti Pekové a jemu samotnému stála „nejsilnější covidová sestava" (Primula, Adam Vojtěch, Válek, Fleger, Chlíbek, Kubek, Hořejší, Konvalenka, Maďar, Babiš, Fiala, případně i slovenští „federální pomocníci" Mikas, Čekan, Salaj, Sabaka, Jarčuška) — řečnicky se ptá, jak by taková konfrontace dopadla.
+
+**Zdroje:** [ČsTV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
 ---
 
