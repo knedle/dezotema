@@ -451,6 +451,14 @@ Rajchl ostře kritizuje projev Petra Pavla u budovy Českého rozhlasu při vzpo
 
 ---
 
+### Sdílený klip z rozhovoru o životopisu 1987 — výzva přestat volit „novodobé komunisty" (Šejna, 23. 8. 2026)
+
+Šejna sdílí a doplňuje krátkým komentářem tentýž úryvek rozhovoru, v němž je Pavel konfrontován s pasáží ze svého ručně psaného životopisu z roku 1987 (viz výše) o vlivu léta 1968 a přátel ze Sovětského svazu na jeho tehdejší názory — na přímou otázku, zda tomu v roce 1987 věřil, Pavel odmítá odpovědět s tím, že šlo o „nějaký výklad ruské invaze". Šejna to uvádí slovy, že Pavel „bude vyvracet svá vlastní tvrzení", a uzavírá výzvou, aby ČR přestala do ústavních funkcí volit ty, kdo se nechali „vyškolit na rozvědčíka" a okrádali o tajné informace státy, které dnes nazývá spojenci — označuje to za „tragédii".
+
+**Zdroje:** [Restart Česko — Videoportál 23. 8. 2026](_zdroje.md#restart-česko--videoportál-23-8-2026)
+
+---
+
 ### Projev u Českého rozhlasu 21. 8. — Pavel jako pokrytec; vlastní revizionistický výklad invaze 1968 (Vrabel, 21. 8. 2026)
 
 Vrabel reaguje na týž projev Petra Pavla u budovy Českého rozhlasu (viz Rajchlova kritika výše, nezávisle formulovaná o dva dny později) — Pavel v něm vyzval k obraně nezávislých médií, odkázal na jejich roli v roce 1968 a varoval před „agresivními a rozpínavými tendencemi dnešního Ruska". Vrabel tvrdí, že národ Pavla nenávidí ne za komunistickou minulost, ale za pokrytectví: sloužil bývalému režimu jako student vojenské rozvědky, „převlékl kabát" a dnes kritizuje ty, jimž sloužil, aniž by dokázal držet konzistentní názor.

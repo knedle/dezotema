@@ -4175,3 +4175,10 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1544889507434050>
 - **Datum záznamu:** 2026-08-23
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (23. 8. 2026) {#restart-česko--videoportál-23-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-23_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/941653444907601>
+- **Datum záznamu:** 2026-08-23
+- **Zpracováno:** ano
