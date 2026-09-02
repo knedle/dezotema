@@ -253,3 +253,19 @@ Vietnam v rámci zpřísnění digitální identifikace deaktivoval nebo omezil 
 > „Za chvilku už to nebude potřeba, protože ty kamery okamžitě budou mít jméno každého, kdo je." — Ladislav Vrabel, [Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+
+---
+
+### Pražský projekt Bubny-Zátory jako „15minutové město" — riziko omezení volného pohybu (Vrabel, 20. 8. 2026)
+
+Praha připravuje projekt Bubny-Zátory za zhruba 90 miliard korun, který lze podle Vrabela popsat jako aplikaci konceptu „15minutového města" — obyvatelé mají mít bydlení, práci, školy, služby, obchody, zeleň i dopravu v docházkové/dojezdové vzdálenosti do 15 minut. Sám o sobě to považuje za hezkou myšlenku, ale upozorňuje na to, co se podle něj děje v britských testovacích projektech téhož konceptu: kdo by chtěl takovou čtvrť opustit, musí k tomu žádat radu o zvláštní povolení. Obává se, že jakmile bude mít někdo argument (nedostatek energie, škodlivost cestování), lidé s „vším v dosahu 15 minut" nebudou mít důvod ani prostředek se tomu bránit.
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
+---
+
+### Nová unijní regulace hotovosti (AMLR) — plán zbavit lidi hotovosti a úspor, investiční rady (Vrabel, 20. 8. 2026)
+
+EU od 10. 7. 2027 zavádí přísnější pravidla pro hotovostní platby (nařízení AMLR — Anti Money Laundering Regulation), oficiálně kvůli praní špinavých peněz a daňovým únikům; dotkne se zejména nákupu luxusního zboží (auta, šperky) a transakcí, kde je stranou firma. Vrabel vysvětluje mechanismus (studoval ho jako právník i při certifikaci na realitního makléře): zákon přenáší na firmy odpovědnost státu kontrolovat původ peněz klientů a postupně omezuje množství hotovosti, kterou lze mít/platit (uvádí limit cca 10 000 EUR / 270 000 Kč v ČR, ve Španělsku už nižší, kolem 3 000 EUR). Tvrdí, že skutečným cílem je zbavit svět hotovosti a nakonec i úspor obecně — v digitální ekonomice lze podle něj snadno zavést „datum spotřeby" peněz (historická praxe, např. Bavorsko), aby lidé nuceně utráceli a peníze se nehromadily jako „mrtvá voda" mimo oběh. Spojuje to s programem EU **Savings and Investments** (Ursula von der Leyen) — cílícím na přesun evropských úspor (odhaduje stovky miliard až biliony eur) do investic v AI a zbrojení — a s obecnější tezí o „K modelu" ekonomiky (bohatí bohatnou, střední třída chudne), kdy 12 amerických technologických firem tvoří 36 % hodnoty burzy, přestože jsou podle něj enormně „přepálené" a hrozí jim kolaps. Radí divákům aktivně chránit úspory: nenechávat peníze v bance (transparentní pro finanční úřad), diverzifikovat mezi drahé kovy (i ty budou podle něj brzy registrované v chystaném unijním registru), kryptoměny a zejména nemovitosti — doporučuje konkrétně investice do nemovitostí v Srbsku (mimo EU, ceny na zlomku českých) a Černé Hoře (očekává výprodej po zavedení vízové povinnosti pro Rusy).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)

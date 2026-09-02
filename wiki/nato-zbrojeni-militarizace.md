@@ -781,3 +781,21 @@ Německý ministr obrany Boris Pistorius při návštěvě zbrojovky KNDS „nec
 Ke zprávě o „německém operačním plánu" Bundeswehru — v případě eskalace na východním křídle NATO by mělo přes území Německa směrem k Polsku a hranicím Aliance projet přibližně 800 tisíc vojáků a 200 tisíc obrněných vozidel, německé nemocnice by měly přijímat až tisíc zraněných denně — Vrabel nejprve sarkasticky poznamenává, že zpráva neuvádí, kde se budou pohřbívat tisíce mrtvých. Z toho rozvíjí širší úvahu: na rozdíl od dětství, kdy nechápal, jak mohla vzniknout druhá světová válka jako výsledek postupných společenských procesů, dnes podle něj vidí v přímém přenosu, že žádné takové procesy nejsou — válka je řízena „shora", jen není vidět odkud. Nabízí tři možné cíle takto řízeného plánu: celkové vylidnění světové populace na půl miliardy až miliardu lidí, zbavení se slovanských národů, nebo zbavení se „bílého člověka" v Evropě obecně. Pokud platí poslední varianta, spekuluje, že vzniklou mezeru mají zaplnit legální migranti z islámských zemí (v kontrastu k oficiálně kritizované nelegální migraci) — a v takovém scénáři by dalšími zeměmi zapojenými do konfliktu po Polsku mohli být i Němci, kteří mají coby silný 80milionový národ historicky prokázanou schopnost se „jen tak nedát"; zmiňuje také rostoucí počet mladých Němců prchajících ze země navzdory dřívějším omezením vycestování bez ohlášení odvodové komisi.
 
 **Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
+
+---
+
+### Rozpočet obrany 191 mld. Kč (2 % HDP) — SPD jako jednostranně zbrojařská strana (Vrabel, 20. 8. 2026)
+
+Ministerstvo obrany bude v příštím roce hospodařit s 191 miliardami korun — meziroční nárůst o zhruba 36,2 miliardy — což má ČR umožnit splnit závazek 2 % HDP na obranu; peníze míří na modernizaci armády, nábor personálu a rozjeté zbrojní projekty. Vrabel k tomu dodává, že se předseda Sněmovny Tomio Okamura nedávno tajně sešel s Michalem Strnadem, největším českým zbrojařem. Kritizuje, že SPD (spolu s neoficiální koalicí s Trikolorou a Svobodnými) si z celé vlády vzala právě ministerstvo obrany a jediné, co v ní reálně dělá, je zbrojení — zatímco voliči, kteří tuto „vlasteneckou" koalici volili, čekali podle něj něco jiného.
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
+---
+
+### Cvičení NATO Cyber Junction v Německu — paralela se Stalingradem, „chazarští bankéři" financují válku jako za Hitlera (Vrabel, 20. 8. 2026)
+
+V Německu probíhá (15. 8.–13. 9.) rozsáhlé cvičení Cyber Junction vedené americkou armádou v Evropě a Africe, s účastí vojáků zemí NATO a partnerských států včetně Ukrajiny — cílem je prověřit připravenost k pozemním operacím, rychlé nasazení a testovat bezpilotní systémy, umělou inteligenci a datově řízené velení. Vrabel k tomu poznamenává, že Němci si „válčení" s Ruskem už jednou vyzkoušeli u Stalingradu, a vyjadřuje pochybnost, že by tentokrát na rozdíl od druhé světové války šli do boje spolu s nimi i Američané — očekává, že stejně jako tehdy dají „globalisté bankéři" (opakuje svou tezi o „chazarských Židech", kteří údajně financovali Hitlerovo zbrojení) peníze na válku a nechají „odválčit" ji evropské národy samotné. Srovnává to s domácí situací: zatímco lidé v ČR nemají na topení, Michal Strnad buduje zbrojařské impérium, které má předčit německý Rheinmetall.
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)

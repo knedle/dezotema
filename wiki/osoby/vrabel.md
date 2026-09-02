@@ -720,6 +720,20 @@
 ### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 5)
 - **19. 8.** — Vietnam — deaktivace 86 mil. bankovních účtů bez digitální identity; rozvedeno do tématu digitální dystopie a kontroly — [Zprávy v devět 19. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
 
+### [Větrné elektrárny](../vetrniky.md) (pokrač. 3)
+- **20. 8.** — První pád větrné elektrárny v ČR (Podštát na Přerovsku) — sarkastický komentář o rizicích velkých VtE — [Zprávy v devět 20. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 6)
+- **20. 8.** — Rozpočet MO 191 mld. Kč (2 % HDP) — SPD jako jednostranně zbrojařská strana, tajná schůzka Okamura–Strnad — [Zprávy v devět 20. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+- **20. 8.** — Cvičení NATO Cyber Junction v Německu — paralela se Stalingradem, „chazarští bankéři" financují válku jako za Hitlera — [Zprávy v devět 20. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 6)
+- **20. 8.** — Pražský projekt Bubny-Zátory jako „15minutové město" — riziko omezení volného pohybu — [Zprávy v devět 20. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+- **20. 8.** — Nová unijní regulace hotovosti (AMLR) — plán zbavit lidi hotovosti a úspor, investiční rady — [Zprávy v devět 20. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 9)
+- **20. 8.** — Berlínský spor o vyvlastnění bytů jako předzvěst bytové krize v ČR po migračním paktu — [Zprávy v devět 20. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1202,3 +1216,4 @@
 - [Zprávy v devět (13. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
 - [Zprávy v devět (14. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
 - [Zprávy v devět (19. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+- [Zprávy v devět (20. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)

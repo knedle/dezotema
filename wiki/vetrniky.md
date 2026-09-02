@@ -291,4 +291,12 @@ Na rozdíl od Šejnova hodnocení zmenšení akceleračních zón jako Turkova v
 
 Ministerstvo životního prostředí (ministr Igor Červený) dokončilo aktualizaci Národního akčního plánu adaptace na změnu klimatu pro roky 2026–2030 a vyčlenilo na opatření z operačního fondu 11,2 mld. Kč — v médiích prezentováno jako investice do zadržování dešťové vody, obnovy vodních toků a mokřadů. Vrabel dopočítává kontext: z celkových cca 220 mld. Kč Národního plánu obnovy jde 40 % (88 mld. Kč) na Green Deal, přičemž z toho jen zlomek (2 mld. Kč, tj. cca 2,5 % z prostředků na Green Deal) skutečně směřuje na zadržování vody v krajině — zbylých 97,5 % jde na větrné a solární elektrárny, přestavbu energetického systému a elektromobilitu. Kritizuje, že ministr ve svém vyjádření mluví výhradně o vodě, ačkoli jde jen o marginální část celkové částky, kterou nazývá „ideologickou agendou 2030" rozpracovanou do vládní strategie.
 
+---
+
+### První pád větrné elektrárny v ČR — u Podštátu na Přerovsku (Vrabel, 20. 8. 2026)
+
+U Podštátu na Přerovsku se zřítila přibližně 30 metrů vysoká, 25–30 let stará větrná elektrárna (součást čtyřčlenného parku provozovaného společností Vapol.cz) — nikdo nebyl zraněn, okolnosti vyšetřuje policie a podle starosty měla být brzy rekonstruována. Podle České společnosti pro větrnou energii jde o první pád větrné elektrárny v ČR; město nařídilo odbornou kontrolu zbývajících zařízení. Vrabel sarkasticky komentuje, že šlo o malou 30metrovou elektrárnu a ptá se, jaký „fičák" nastane, až budou padat plánované elektrárny o výšce 270 metrů — doporučuje důkladné zabetonování nově stavěných věží.
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
