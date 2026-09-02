@@ -213,7 +213,9 @@ Rajchl v FB Live shrnuje čísla o emisních povolenkách, která prezentoval i 
 
 > „Chápete, jak je ten model zkorumpovaný? Jak je to celé nastavené jenom na to, aby... okrádala západní Evropa nás, tu střední a východní Evropu." — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
+**23. 8. (sněmovní klip)** — opakuje totéž číslo (30× víc než Švédsko, 17× víc než Německo) v přímém sněmovním vystoupení jako navrhovaný zdroj úspor místo škrtů u občanů — beze změny.
+
+**Zdroje:** [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026), [Rajchl — Videoportál 23. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-23-8-2026)
 
 ---
 
