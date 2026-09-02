@@ -86,7 +86,9 @@ Rajchl v FB live (3. 5. 2026) sestavil systematický seznam Pavlových kroků, k
 
 Rajchl shrnuje: Pavel systematicky pracuje na zániku suverenity ČR — od finančního systému (euro) přes rozhodovací pravomoci (veto) až po státnost (USE). Proto Rajchl oznámil, že nepůjde na summit NATO v Ankaře (na pozvání Babiše) — Pavel by tam přítomností podkopával diplomatické postavení Babiše a Macinky.
 
-**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026)
+**24. 8.** — V krátkém debatním klipu Rajchl týž seznam opakuje beze změny (Lichtenštejnové, vzdání se veta, euro, USE) a rámuje ho jako obranu proti Pavlově kritice vládního závazku nepřekročit 2 % HDP na obranu (na rozdíl od Pavlem preferovaných 5 %) — s tezí, že „prezident není náš nadřízený", nýbrž občané, kteří vládě dali mandát v říjnových volbách.
+
+**Zdroje:** [Rajchl — Za kolik jsme ochotni prodat svrchovanost, 3. 5. 2026](_zdroje.md#jindřich-rajchl--za-kolik-jsme-ochotni-prodat-svrchovanost-eu-válečná-ekonomika-pro-program-3-5-2026), [Rajchl — Videoportál 24. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-24-8-2026)
 
 ---
 
