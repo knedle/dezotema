@@ -320,6 +320,16 @@ K útoku, při němž zahynulo nejméně třináct lidí po rozsáhlém dronové
 
 ## Stav Ukrajiny a mobilizace
 
+### Dezerce ukrajinských vojáků z výcviku v Německu; drastické video mučení vlastních vojáků (Vrabel, 21. 8. 2026)
+
+Německý deník Die Zeit informoval, že v Sasku a Sasku-Anhaltsku úřady evidují zhruba 80 případů, kdy ukrajinští vojáci opustili výcvik v Německu — jako důvody uváděli obavu z nasazení na frontě, snahu vrátit se k rodinám nebo konflikty s nadřízenými (od roku 2022 prošlo výcvikem v Německu přes 29 000 ukrajinských vojáků). Vrabel to považuje za pochopitelné vzhledem k tomu, „co jim tam dělají" — v ČR je podle jeho odhadu vedeno trestní řízení kvůli neoprávněnému opuštění posádky proti čtvrt milionu Ukrajinců. Pouští divákům bez předchozího varování drastické video, které popisuje jako záznam toho, jak ukrajinská armáda zachází s vlastními vojáky — svazování ke stromu, polévání moči, vláčení za autem přivázaným lanem až k smrti — a tvrdí, že podobné praktiky se dříve používaly i civilně (např. veřejné potrestání zlodějů v obchodech) se souhlasem policie, a že týrání vojáků na frontě probíhá se souhlasem/schválením velitelů jednotek. Z toho vyvozuje obecné hodnocení „jejich mentality" a spojuje to s tím, že v ČR žije oficiálně půl milionu, neoficiálně až dva miliony Ukrajinců.
+
+⚡ **Poznámka:** Tvrzení o systematickém mučení vojáků se schválením velitelů je založeno na jednom nepopsaném a needatovaném videu bez ověřitelného kontextu (zdroj, místo, okolnosti natočení neuvedeny) a je zobecněno na hodnocení celého národa.
+
+**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+---
+
 ### KLDR popírá vyslání 50 000 dalších vojáků do Ruska — Vrabel: vyvrací „štvaní" Zelenského (19. 8. 2026)
 
 Místopředsedkyně Komise pro státní záležitosti KLDR odmítla tvrzení Volodymyra Zelenského, že Severní Korea plánuje vyslat do Ruska až 50 000 dalších vojáků — označila ho za nepodložené a za „zinscenovaný incident" (Severní Korea dříve poskytla Rusku vojenskou pomoc; podle odhadů tam v roce 2024 vyslala kolem 14 000 vojáků). Vrabel toto popření prezentuje jako vyvrácení dalšího „štvaní" Zelenského proti Rusku.

@@ -623,6 +623,14 @@ Rajchl k pokračujícímu přílivu migrantů z Ceuty opakuje svou tezi o migrac
 
 ---
 
+### Útok mačetou ve švédské škole a video „Allahu Akbar" v metru — výzva jít do ulic a svrhnout vládu (Vrabel, 21. 8. 2026)
+
+Ke zprávě o útočníkovi s mačetou, který vnikl do švédské školy a zranil několik lidí (policie podezřelého zadržela), Vrabel dodává příklad virálního videa z newyorského metra: muž v bílém hábitu vběhne do vagónu, zakřičí „Alláhu akbar" a hodí tašku na sedadlo — cestující v panice utíkají ven, než odhalí, že šlo o žert („Bůh je velký"). Z obou příkladů vyvozuje, že jediná obrana proti podobným hrozbám je „okamžitě jít do ulic a sundat tuhle vládu" — odmítá argument, že je třeba dát současné vládě šanci, protože „vládne krátce", s tím, že správné vládnutí znamená okamžitě si u EU vynutit ukončení migračního paktu, jinak politici „tam nemají co dělat".
+
+**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+---
+
 ### Berlínský spor o vyvlastnění bytů jako předzvěst bytové krize v ČR po migračním paktu (Vrabel, 20. 8. 2026)
 
 V Berlíně dominuje zemským volbám spor o bydlení: levicová strana Die Linke podmiňuje vstup do vlády vyvlastněním velkých pronajímatelů (firem vlastnících 3000+ bytů, dohromady až 220 000 nemovitostí) — podobný návrh už jednou (nezávazně) podpořilo v referendu 2021 59 % voličů, Die Linke nyní vede průzkumy s téměř 20 %. Vrabel to dává do souvislosti s Prahou, kde je bytů podle něj také nedostatek, a s migračním paktem, který má začít platit od roku 2027: tvrdí, že EU pak bude vědět, kde jsou volné byty, aby do nich mohla umisťovat migranty, takže ani v ČR nezbudou volné byty. Za prvotní příčinu bytové krize označuje migraci v kombinaci se současným ekonomickým systémem, který podle něj už není klasický kapitalismus s nabídkou a poptávkou, ale „korporátní fašismus" — až dojdou volné byty, přijde na řadu vyvlastňování jako v Berlíně, což sám neschvaluje, ale považuje za nevyhnutelný důsledek.

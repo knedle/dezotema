@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Kryptoměny dosáhly dna čtyřletého cyklu, další rok porostou (21. 8. 2026)
+
+**Předpověď:** Vrabel na základě propadu hodnoty dolaru a nákupu dluhopisů americkým ministerstvem financí odhaduje, že kryptoměny dosáhly dna svého čtyřletého cyklu a nyní nastává fáze růstu, která může trvat zhruba rok — proto je podle něj teď dobrý čas začít nakupovat. Přesnější potvrzení své spekulace slíbil po víkendu (pondělí/úterý).
+
+> „Myslím si, že jsme se přesně tam dostali [na dno čtyřletého cyklu] a že teď bude další část toho cyklu, kdy ty kryptoměny polezou nahoru, což může trvat třeba rok." — Ladislav Vrabel
+
+**Horizont:** cca 1 rok od srpna 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+---
+
 ### Pavel Zítko — „Americké jubileum" 21. 9. 2026: konec starého finančního systému (12. 8. 2026)
 
 **Předpověď:** Zítko sdílí a schvaluje teorii, podle níž 21. září 2026 (250. výročí USA, biblické „jubileum") symbolizuje konec starého finančního systému („admirality law") a přechod ke „novému systému založenému na aktivech" (QFS). Přípravné období má probíhat od 13. 8. do 11. 9. 2026, jako nebeská znamení uvádí zatmění Slunce (12. 8.) a Měsíce (27.–28. 8.) a konjunkci šesti planet. Předpovídá, že ke změně dojde „letos", nikoli v nejisté budoucnosti.

@@ -734,6 +734,27 @@
 ### [Migrace](../migrace.md) (pokrač. 9)
 - **20. 8.** — Berlínský spor o vyvlastnění bytů jako předzvěst bytové krize v ČR po migračním paktu — [Zprávy v devět 20. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
 
+### [Petr Pavel](../petr-pavel.md)
+- **21. 8.** — Reakce na projev u ČRo k výročí 1968 — kritika pokrytectví, vlastní revizionistický výklad invaze (jaderné sklady Javor 1/2, hrozba NATO) — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 9)
+- **21. 8.** — Dezerce ukrajinských vojáků z výcviku v Německu (80 případů), drastické video mučení vlastních vojáků — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 5)
+- **21. 8.** — „Farizejové" — Babiš/Okamura/Macinka/Rajchl horší pokrytci než Pavel, ČR na 5. místě nepřátel Ruska — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 10)
+- **21. 8.** — Útok mačetou ve švédské škole + video „Allahu Akbar" v newyorském metru — výzva jít do ulic a svrhnout vládu — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 7)
+- **21. 8.** — ⚡ Konflikt: Tusk by měl být uvězněn za schvalování sabotáže Nord Streamu — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 7)
+- **21. 8.** — Rekordní zisky ropných firem (93 mld. $) — je Trump zachránce USA, nebo nástroj rozkladu? — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 5)
+- **21. 8.** — EU „28. režim" pro firmy jako krok k federalizaci — vlastenecké strany to umožnily — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1108,6 +1129,9 @@
 | Conor Kennedy | ❌ negativní | Syn RFK Jr. na ruském seznamu hledaných za boj na Ukrajině — označen za „imbecila", spekulace o mentálním poškození rodiny | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
 | Filip Turek | ❌ negativní | Srovnáván s Conorem Kennedym co do „hlouposti"; označen za sadistu bijícího partnerky a zastánce eskalace vůči Rusku | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
 | Volodymyr Zelenskyj | ❌ negativní | Tvrzení o vyslání 50 000 severokorejských vojáků do Ruska označeno KLDR za nepodložené a „zinscenované" — čteno jako další „štvaní" proti Rusku | 2026-08-19 | [Zprávy v devět 19. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026) |
+| Petr Pavel | ❌ negativní | Označen za pokrytce za projev k výročí 1968 (bývalý rozvědčík kritizující ty, komu sloužil); jeho hodnocení Ruska jako agresora označeno jen za soukromý názor bez opory v mezinárodním právu | 2026-08-21 | [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026) |
+| Andrej Babiš | ❌ negativní | Označen za „zrádce českého národa" za odmítnutí referenda o vystoupení z EU — jmenovaný terč s výzvou k oběšení (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-21 | [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026) |
+| Donald Tusk | ❌ negativní | Za schvalování sabotáže Nord Streamu (výrok, že by se měli stydět jeho stavitelé) by měl podle Vrabela skončit ve vězení za schvalování teroristického činu | 2026-08-21 | [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026) |
 
 ---
 
@@ -1217,3 +1241,4 @@
 - [Zprávy v devět (14. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
 - [Zprávy v devět (19. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
 - [Zprávy v devět (20. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+- [Zprávy v devět (21. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)

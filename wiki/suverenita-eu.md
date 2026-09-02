@@ -655,3 +655,13 @@ Boldy tvrdí, že Španělsko během aktuálních rozsáhlých požárů (lesy i
 Vrabel s odkazem na slovenský zdroj vysmívá projektu podpořenému EU částkou 340 tisíc eur, který zkoumá, zda mohou zvířata (krabi, psi) vykonávat „politickou komunikaci" relevantní pro demokratické instituce, a samostatný výzkum vlivu velryb na geopolitiku. Označuje to za symbol plýtvání unijními prostředky a doporučuje peníze věnovat raději na zkoumání toho, „proč akademikům přeskočilo".
 
 **Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+
+---
+
+### EU „28. režim" pro firmy jako krok k federalizaci — vlastenecké strany to umožnily (Vrabel, 21. 8. 2026)
+
+Evropská komise připravuje novou právní formu podnikání (tzv. „28. režim"), prezentovanou jako zjednodušení a digitalizace zakládání firem umožňující obchodovat jednotně napříč všemi 27 (+1) členskými státy. Vrabel tomu nevěří — jako protipříklad uvádí čerstvě zavedená unijní pravidla pro balení výrobků, která malým e-shopům podnikajícím přes hranice ukládají registraci a placeného zástupce v každé jednotlivé zemi (stovky eur navíc na zemi), což je pro drobné prodejce likvidační. Skutečným smyslem „28. režimu" je podle něj další krok v postupné globalizaci obchodního práva směřující k jednotnému evropskému trhu a nakonec k „spojeným státům evropským", v nichž by národní státy zanikly. Za to viní „silnou podporu" politiků prezentujících se jako vlastenečtí — Andreje Babiše, Petra Macinku, Tomia Okamuru, Jindřicha Rajchla a Zuzanu Majerovou — kteří podle něj svým sjednocením ve volbách „utopili" hlasy, jež by jinak šly proti EU, a nikdy referendum o vystoupení z EU/NATO nepodmínili účastí ve vládě.
+
+> „Kdyby jsme byli u moci my, [...] tohle by byla jediná věc, přes kterou by nejel vlak." — Ladislav Vrabel, [Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)

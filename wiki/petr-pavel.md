@@ -448,3 +448,13 @@ Rajchl ostře kritizuje projev Petra Pavla u budovy Českého rozhlasu při vzpo
 **Zdroje:** [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
 
 ---
+
+### Projev u Českého rozhlasu 21. 8. — Pavel jako pokrytec; vlastní revizionistický výklad invaze 1968 (Vrabel, 21. 8. 2026)
+
+Vrabel reaguje na týž projev Petra Pavla u budovy Českého rozhlasu (viz Rajchlova kritika výše, nezávisle formulovaná o dva dny později) — Pavel v něm vyzval k obraně nezávislých médií, odkázal na jejich roli v roce 1968 a varoval před „agresivními a rozpínavými tendencemi dnešního Ruska". Vrabel tvrdí, že národ Pavla nenávidí ne za komunistickou minulost, ale za pokrytectví: sloužil bývalému režimu jako student vojenské rozvědky, „převlékl kabát" a dnes kritizuje ty, jimž sloužil, aniž by dokázal držet konzistentní názor.
+
+Dále rozvádí vlastní, dlouhodobě opakovanou revizionistickou tezi o invazi 1968: podle něj nešlo o potlačení Pražského jara, ale o reakci na hromadění zbraní a vojáků NATO na západní straně aliance (především v Bavorsku) — respektive o vojenskou nutnost Sovětského svazu dozbrojit dvě utajovaná úložiště jaderných zbraní na českém území (které nazývá „Javor 1" a „Javor 2") poté, co tehdejší československý režim nesplnil dřívější dohodu se SSSR. Invazi rámuje jako záchranu Československa před tím, aby se v roce 1968 odehrálo totéž, co v roce 1989 — tedy před předčasným přechodem pod vliv NATO — a jako menší zlo oproti hrozící eskalaci studené války. Zdroje k tomuto tvrzení označuje za neveřejné (bývalí funkcionáři, kteří odmítli vystoupit na kameru). Zároveň odmítá Pavlovo srovnání roku 1968 s Ruskem na Ukrajině 2022: mezinárodní právo dle něj nikdy neoznačilo Rusko za agresora (Rada bezpečnosti OSN takové rozhodnutí nevydala), takže jde jen o Pavlův soukromý politický názor, ne o právní fakt. Dodává, že skutečným „rozkradením" země po roce 1989 byl Západ/NATO, ne sovětská přítomnost do roku 1991, kdy ČR měla vlastní bankovnictví, průmysl a obchod.
+
+**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+---

@@ -435,6 +435,14 @@ K obžalobě Ukrajince německou prokuraturou za útok na Nord Stream (2022) Raj
 
 ---
 
+### ⚡ Konflikt (obrácená role): Tusk by měl být uvězněn za schvalování sabotáže Nord Streamu (Vrabel, 21. 8. 2026)
+
+Polský premiér Donald Tusk zopakoval svůj dlouhodobě kritický postoj k Nord Streamu — podle něj by se měli stydět ti, kdo umožnili jeho výstavbu, ne ti, kdo plynovod vyřadili z provozu (sabotáží 2022); zároveň odmítl měnit názor v souvislosti s vyšetřováním sabotáže. Vrabel — s odkazem na vlastní právnické vzdělání a závěrečnou práci na trestní činy — tvrdí, že Tuskův výrok naplňuje skutkovou podstatu trestného činu: schvaluje teroristický útok na strategickou energetickou infrastrukturu státu, a jako vysoký státní představitel by za takový veřejný výrok měl skončit ve vězení. (Role je zde obrácená oproti Rajchlově kritice Pavla výše — tam byl terčem kritiky ten, kdo NEschvaloval útok jako legitimní vojenský cíl; zde Vrabel kritizuje Tuska za to, že sabotáž fakticky schvaluje.)
+
+**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+---
+
 ### Odmítnutí narativu „Ukrajina bojuje za ČR" a zbrojení proti Rusku — vzor Irska (Rajchl, 8. 7. 2026)
 
 V reakci na sněmovní projev Martina Kupky o nutnosti navýšit obranné výdaje kvůli „odstrašení" Ruska Rajchl odmítá dva argumenty najednou: že se na Ukrajině bojuje za Českou republiku ("ani jednu vteřinu") a že podpora Ukrajiny pomáhá i ČR — místo toho tvrdí, že peníze z českých daní končí u "ukrajinských zlodějů", kteří si za ně kupují "zlaté toalety a bidety". Investice do obrany podle něj Rusko neodstrašují, protože Rusko nemá důvod ČR napadnout — stačí mu sledovat, jak se Evropa ničí sama masivní migrací z Afriky a Green Dealem. Jako alternativní vizi pro ČR opakuje vzor Irska (12,2% růst HDP v loňském roce, jen 0,2% HDP na obranu, přebytkový rozpočet) a odmítá "krmení zbrojařských korporátů" penězi, za které se nakupují zbraně, jež budou za pět let jen "muzejními exponáty".

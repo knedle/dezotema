@@ -60,6 +60,14 @@ Vrabel tvrdí, že vláda Andreje Babiše vyhrála volby na narativu, že je opa
 
 ---
 
+### „Farizejové" Babiš, Okamura, Macinka a Rajchl jako horší pokrytci než Pavel (Vrabel, 21. 8. 2026)
+
+V reakci na komentáře pod svým videem (kde diváci nazývají Pavla „farizejem") Vrabel obrací tezi: největšími farizeji jsou podle něj právě politici, kteří toto slovo sami používají — Jindřich Rajchl, Tomio Okamura, Andrej Babiš a Petr Macinka. Na rozdíl od Pavla, který je podle Vrabela „aspoň konzistentní" ve své proNATO a protiruské pozici, tito politici u voličů vytvářejí dojem, že jsou protiváhou vůči Fialově prozápadní politice a snaží se s Ruskem vztahy urovnat — ačkoli to sami nikdy explicitně netvrdili, jen se prezentují jako „opozice" vůči předchozí vládě. Jako důkaz uvádí, že ČR se pod jejich vládou v žebříčku „nepřátelských zemí" Ruské federace posunula z 10. místa (za Fialy) na 5. místo — tedy zhoršila se, místo aby se zlepšila, jak by odpovídalo image budované touto koalicí (viz [Dvojí metr v dodávkách zbraní](nato-zbrojeni-militarizace.md#dvojí-metr-v-dodávkách-zbraní--německo-se-stydí-čr-se-chlubí-vrabel-8-8-2026)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+---
+
 ### Babiš = Pavel: žádná změna ve vládě, L-39 pro Ukrajinu (Vrabel, 20. 6. 2026)
 
 Ke zprávě, že premiér Babiš chce s ukrajinskou stranou navrhnout partnerům (Norsko, Dánsko, Nizozemsko, Belgie) financování nákupu deseti cvičně-bojových letounů L-39 pro ukrajinské letectvo, Vrabel konstatuje „žádnou změnu" — Babiš pokračuje v podpoře zbrojení pro Ukrajinu. Připomíná, že jde o tatáž letadla, která dříve Ukrajincům nabízel prezident Pavel a Babiš to tehdy odmítl s tím, že je ČR potřebuje. Vyvozuje, že Babiš dělá „úplně to samé co Pavel" (paralela i s jadernými zbraněmi od Francie) — voliči, kteří čekali změnu, se dočkali jen rétoriky „Česko na prvním místě", kterou Babiš „uspí národ", a pak se pokračuje dál. Navazuje na [Umělý konflikt vláda vs. prezident; Babiš/Macinka „předstírají opozici" (13. 6.)](#umělý-konflikt-vláda-vs-prezident-babišmacinka-předstírají-opozici-vůči-fialovi--vrabel-13-6-2026).
