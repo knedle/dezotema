@@ -29,6 +29,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Odmítá adopci dětí stejnopohlavními páry (argument vyváženosti výchovy) — [4. 8.](../_zdroje.md#adam-šejna--adopce-stejnopohlavními-páry-4-8-2026)
 - Kritika státního financování Prague Pride — ohrožení morální výchovy dětí — [7. 8.](../_zdroje.md#restart-česko--videoportál-7-8-2026-1)
 - Dvojí metr policie u Prague Pride — tolerance nahoty na veřejnosti — [10. 8.](../_zdroje.md#restart-česko--videoportál-10-8-2026)
+- Podpora vražedkyně Lindsay Clancy (USA) jako důkaz radikalizace feminismu — [26. 8.](../_zdroje.md#restart-česko--videoportál-26-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 

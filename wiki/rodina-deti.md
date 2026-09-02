@@ -203,3 +203,11 @@ Vrabel spojuje podporu rozpadu tradiční rodiny a LGBT+ agendy (mj. Prague Prid
 Černohorský tvrdí, že klíčovým momentem rozkladu společnosti bylo zrušení povinné vojenské služby — od té doby podle něj přestali muži „být chlapy": popisuje současné třicátníky a čtyřicátníky jako změkčilé „mamánky" neschopné manuální práce. Kritiku směřuje oboustranně i vůči ženám (přehnaná sexualizace na sociálních sítích, OnlyFans) a uzavírá obecnou tezí, že 37 let porevoluční politiky žádný z těchto problémů neřešilo.
 
 **Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+
+---
+
+### Podpora vražedkyně Lindsay Clancy jako důkaz radikalizace feminismu (Šejna, 26. 8. 2026)
+
+Šejna komentuje americký případ Lindsay Clancy, která podle zveřejněných informací uškrtila své tři děti (5 let, 3 roky, 8 měsíců) — sám poznamenává, že nemá přímý přístup k reálným informacím a jde o jeho názor založený na dostupných zprávách. Kritizuje reakci části veřejnosti: feministické demonstrace na její podporu (tvrzení, že za čin nemůže, včetně odkazů na horoskop), sbírku na GoFundMe (přes milion dolarů) a trend na sociálních sítích, kdy se ženy fotí s dítětem v náručí s popiskem „me too Lindsay". Tento trend označuje za „absolutní retardaci" a uzavírá, že jde o důkaz radikalizace moderního feminismu jako jedné z „nejšílenějších skupin v celé západní společnosti".
+
+**Zdroje:** [Restart Česko — Videoportál 26. 8. 2026](_zdroje.md#restart-česko--videoportál-26-8-2026)
