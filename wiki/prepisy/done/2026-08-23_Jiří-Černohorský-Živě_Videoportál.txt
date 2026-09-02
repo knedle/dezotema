@@ -1,0 +1,45 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jiří Černohorský Živě
+URL:          https://www.facebook.com/100085862388850/videos/1675512497327051
+Datum videa:  2026-08-23
+Zpracováno:   2026-08-26 17:05:43
+Jazyk:        cs
+Délka:        00:02:00
+Zhlédnutí:    16 130
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    0s
+Přepis:       21s
+Rychlost:     5.6x realtime
+Celkem:       21s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Skončila klimatická krize nebo ji stále čelíme? Máte v tom vůbec jasno v rámci?
+[00:04] No samozřejmě, klimatická krize skončila v souvislosti s financováním nesmyslných programů.
+[00:09] Já bych mohl teď citovat studii, která vyšla 12.8. letošního roku v časopise Nature,
+[00:16] tam píšou nobelisté, kteří poukazují na to, že například opatření, které se týkají větrných elektráren
+[00:23] a které se týkají i fotovoltaických polí, mohou způsobovat velké nepříjemnosti v proudění vzduchu
+[00:30] a tím pádem i změny právě těch klimatů a mohou způsobovat i změny ve srážkách.
+[00:37] Rozumím to, pane poslanec, když se na to podíváme, z pohledu flory a fauny, platí to, že klimatická krize právě teď je?
+[00:44] Klimatická krize není, dochází ke klimatickým změnám a to je historicky dáno celou dobu.
+[00:51] Ano, v současné době máme nadměrné sucho. To nepovažuji za klimatickou krizi.
+[00:57] Spíš bych dával pozor, aby konečně se věnovali pozornost těm vědeckým studiím, které poukazují na to,
+[01:03] že takzvané nějaké ekologické programy při výrobě energii by mohly způsobit naopak škody.
+[01:10] Mimochodem, v tom samém časopise Natureu vyšla studie, která se týkala Arizony,
+[01:16] kde zjistili, že večerní teploty v těch místech, kde se používají fotovoltaiky,
+[01:21] fotovoltaické pole jsou o 3 až 4 stupně vyšší než v okolí.
+[01:25] A já to mohu dotvrdit, protože ředím firmu, která už je víc jak čtvrtstoletí získová,
+[01:31] kde jsou taky fotovoltaické pole a víme, že kolem toho, bezprostředně kolem toho,
+[01:37] je suší ta půda, než je pár desítek metrů dál.
+[01:42] Znamená to, že fotovoltaické panely Solary způsobují sucho?
+[01:45] Ne, ne, je. Způsobují problémy, které mohou vést k tomu, že se tady může měnit
+[01:51] částečně to klima. Já na to jenom upozorňuji, prosím, to jsou vědecké studie,
+[01:55] to nejsou z mé hlavy asi čtu ty vědecké.
+[01:58] A díky za...

@@ -4154,3 +4154,10 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/1020877140766173>
 - **Datum záznamu:** 2026-08-23
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál: mikroklima solárů a větrníků (23. 8. 2026) {#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-23_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě
+- **URL:** <https://www.facebook.com/100085862388850/videos/1675512497327051>
+- **Datum záznamu:** 2026-08-23
+- **Zpracováno:** ano

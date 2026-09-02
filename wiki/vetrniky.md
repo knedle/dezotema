@@ -65,6 +65,14 @@ Vrabel tvrdí, že každý větrník produkuje přibližně 60 kg nanočástic, 
 
 ---
 
+### „Klimatická krize skončila" — studie o mikroklimatických dopadech solárních a větrných polí (Černohorský, rozhovor s poslancem, 23. 8. 2026)
+
+V rozhovoru Černohorský s (v tomto úryvku blíže nejmenovaným) poslancem probírají téma klimatické krize. Poslanec tvrdí, že klimatická krize ve smyslu ospravedlnění financování „nesmyslných programů" skončila — klimatické změny jako takové podle něj existovaly vždy, ale současné sucho za krizi nepovažuje. Cituje studii nositelů Nobelovy ceny publikovanou 12. 8. 2026 v časopise Nature, podle níž větrné elektrárny a fotovoltaická pole mohou měnit proudění vzduchu a tím i lokální klima a srážky. Dokládá to i vlastní zkušeností jako majitel zemědělské firmy s fotovoltaickým polem — půda bezprostředně kolem panelů je sušší než o pár desítek metrů dál. Odkazuje také na (dle něj tutéž) studii z Nature o Arizoně, kde večerní teploty v okolí fotovoltaických polí byly o 3–4 °C vyšší než v okolním terénu. Explicitně odmítá tvrzení, že by fotovoltaika způsobovala sucho — tvrdí jen, že „může vést k částečné změně klimatu".
+
+**Zdroje:** [Černohorský — Videoportál 23. 8. 2026](_zdroje.md#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026)
+
+---
+
 ### Větrné elektrárny: nerecyklovatelné materiály, 8 000 tun betonu, nelze odmontovat — Černohorský
 
 Jiří Černohorský technicky a environmentálně kritizuje větrné elektrárny:

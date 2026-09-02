@@ -81,6 +81,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
 - Kraj Vysočina odmítl 14 akcelerovaných zón (11. 5. 2026); připomínky do 1. 6. 2026 na MMR — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
 - **17. 8.** — Finanční rozměr: snížení cen elektřiny jen o 10 %, solární dotace 40 mld. Kč/rok, kdo zaplatí likvidaci betonu za 25 let — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+- **23. 8.** — rozhovor s poslancem o studiích (Nature) o mikroklimatických dopadech solárních/větrných polí (sucho, +3–4 °C v Arizoně) — [Videoportál 23. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Sametová revoluce jako řízený rozpad, Havel a Schwarzenberg jako agenti Západu — [Brno a Landsmannschaft 6. 4. 2026](../_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
@@ -279,3 +280,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [FB Live: letní sestřih (3. 7. 2026)](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
 - [Videoportál: chemtrails na obloze (3. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
 - [Videoportál (20. 8. 2026, kauza Peková)](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
+- [Videoportál: mikroklima solárů a větrníků (23. 8. 2026)](../_zdroje.md#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026)
