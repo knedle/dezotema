@@ -34,6 +34,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 - Boj proti „politicko-vojenské mafii", Green Dealu a von der Leyenové; mobilizace k eurovolbám 2029 — [31. 7.](../_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026)
 - Euro jako vzdání se svobody, Pavel a opozice „zaprodávají" republiku — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+- Kritika Pavlova výroku o „Spojených státech evropských"; civilizační chvála Evropy jako kolébky 99 % vynálezů — [22. 8.](../_zdroje.md#restart-česko--videoportál-22-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 
@@ -70,3 +71,4 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Daniel Cortus | ❌ negativní | „Klimatomluva" — veřejně napadá Filipa Turka za odmítnutí rozhovoru, aktivismus schovaný za profesi | 2026-08-18 | [Šejna](../_zdroje.md#restart-česko--videoportál-18-8-2026) |
 | Tomáš Zdechovský | ❌ negativní | Europoslanec KDU-ČSL — jmenován jako podporovatel Chat Controlu, zástěrky plošného sledování soukromé komunikace | 2026-08-21 | [Chat Control](../_zdroje.md#restart-česko--videoportál-chat-control-21-8-2026) |
 | Danuše Nerudová | ❌ negativní | Europoslankyně STAN — jmenována jako podporovatelka Chat Controlu | 2026-08-21 | [Chat Control](../_zdroje.md#restart-česko--videoportál-chat-control-21-8-2026) |
+| Petr Pavel | ❌ negativní | Ironicky nazván „agent Pávek" — kritizován za výrok, že „Spojené státy evropské" jsou jediným východiskem pro ČR | 2026-08-22 | [Videoportál 22. 8.](../_zdroje.md#restart-česko--videoportál-22-8-2026) |

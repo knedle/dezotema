@@ -67,7 +67,9 @@ Rajchl v krátkém videu z 17. dubna a živém vysílání z 19. dubna rozebír�
 
 Lenka Tarabová označuje Pavlovo veřejné „vyhlášení budoucího směřování do Spojených států evropských" za „naprosto nepokrytý kolaborantský útok na svrchovanost České republiky." Faktický zánik ČR jako samostatného státu by podle ní znamenal návrat do horší pozice, než jakou měla v Rakousku-Uhersku. Označuje to za „poplivání" Masaryka, Beneše, Štefánika, Kramáře a Rašína — kteří český stát budovali za cenu riskování životů (Rašín a Kramář byli Habsburky odsouzeni k trestu smrti). Pavel, Piráti a STAN se podle Tarabové snaží to, co bylo za 110 let vydobyto, „zašlapat do země a vrátit nás do nějakého většího evropského subteritoria, kde bychom nerozhodovali vůbec o ničem."
 
-**Zdroje:** [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026)
+**22. 8.** — Šejna reaguje na totéž Pavlovo tvrzení (nazývá ho ironicky „agent Pávek") a odmítá, že by „Spojené státy evropské" byly jediným východiskem pro ČR — podle něj existuje spousta alternativ, které nikdo z kritiků nevylučuje spolupráci v EU jako takovou, jen chce zachovat suverenitu, soukromí a vlastní kulturu při zachování společných hranic. Rozvíjí to do civilizační chvály Evropy: „99 %" světových vynálezů pochází z Evropy a i americká kultura je podle něj v jádru evropská (Američané jsou „Evropané, kteří se přestěhovali na jiný kontinent"), přičemž evropskou kulturu dnes „ctí líp" než sama Evropa.
+
+**Zdroje:** [Tarabová — Nedělní živé vysílání, 2026-04-26](_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026), [Restart Česko — Videoportál 22. 8. 2026](_zdroje.md#restart-česko--videoportál-22-8-2026)
 
 ---
 
