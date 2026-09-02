@@ -132,6 +132,10 @@ Na internet unikly interní záznamy ze soukromé sítě „Dialog" založené t
 
 **Zdroje:** [Boldy — Videoportál 21. 8. 2026](_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026)
 
+**23. 8.** — Boldy tvrdí, že mu od chvíle, kdy se začal tématem klubu Dialog zabývat (asi dva týdny), opakovaně selhává kamera na notebooku — přestože zkoušel restart a různá řešení, kamera vydrží funkční jen několik minut, než se znovu vypne. Uvádí, že mu (blíže nespecifikovaná) aplikace ukázala, že ho sledují další čtyři neznámá zařízení. Dává si to do souvislosti s vlastním výzkumem klubu a slibuje pokračování tématu v příštím vysílání.
+
+**Zdroje:** [Boldy — Videoportál 23. 8. 2026](_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)
+
 **6. 8.** — K nejasně formulovaným zprávám o údajných rozporech mezi Trumpem a ministrem války Petem Hegsethem ohledně Íránu (a souběžné zprávě, že Trump favorizuje viceprezidenta J. D. Vance jako republikánského kandidáta na rok 2028) Vrabel rozvíjí profil Vance jako zástupce mladé generace „technokratů" — dosazuje ho do kontextu jeho vztahu k Peteru Thielovi (bývalému zaměstnavateli a hlavnímu sponzorovi), zakladateli Palantiru. Tvrdí, že Thiel je přesvědčen o blížícím se konci demokratického/politického způsobu řízení světa a jeho nahrazení technokratickým modelem řízeným umělou inteligencí a digitálními technologiemi — navazuje tak na hnutí založené již ve 20. letech 20. století (mezi jeho zakladatele řadí dědečka Elona Muska). Vance, Thiel a Musk podle něj společně reprezentují tuto generační vlnu, která má dle jeho odhadu určovat budoucí směřování západních společností.
 
 **Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)

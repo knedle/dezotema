@@ -41,6 +41,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Střelba na FF UK + Klánovický les jako odvedení pozornosti — [19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 - „Zombie virus" — incident ve Walmartu (obklíčen Národní gardou), spojeno s 5G/6G zářením a vakcínami jako biozbraní — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
 - Meme „6-7" a píseň Baby Shark jako démonická čísla (zpěvák Skrila, gematrie, 666) — [22. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-6-7-a-baby-shark-22-8-2026)
+- UFO poblíž letadla při seskoku padákem u Kunovic — [23. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)
 
 ### [Migrace](../migrace.md)
 - Ceuta jako „plán elit na likvidaci Evropy" — armáda migrantům pomáhá, ne brání; financování Gates/Rockefeller nadacemi; predikce zániku Evropy (Nostradamus, Baba Vanga, do 2050) — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
@@ -62,6 +63,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii, srovnání s NSA — [9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
 - Humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt — [5. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-5-8-2026)
 - Elitní klub „Dialog" (Peter Thiel) — rozšíření o seznam členů (Musk, Kushner, Kasparov, Kallas, Ted Cruz), zrušené setkání v Dublinu, plán založit stranu „Kult" a zotročit planetu — [21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026)
+- Vlastní sledování (selhávající kamera notebooku, 4 zařízení) po výzkumu klubu Dialog — [23. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
@@ -136,3 +138,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 27. 7. 2026 (požáry Španělsko, Kamov)](../_zdroje.md#konspirátor-boldy--videoportál-požáry-španělsko-kamov-27-7-2026)
 - [Videoportál: klub Dialog (21. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026)
 - [Videoportál: 6-7 a Baby Shark (22. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-6-7-a-baby-shark-22-8-2026)
+- [Videoportál: UFO a sledování (23. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)

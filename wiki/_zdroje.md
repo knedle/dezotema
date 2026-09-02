@@ -4161,3 +4161,10 @@
 - **URL:** <https://www.facebook.com/100085862388850/videos/1675512497327051>
 - **Datum záznamu:** 2026-08-23
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál: UFO a sledování (23. 8. 2026) {#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-23_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1077837611564180>
+- **Datum záznamu:** 2026-08-23
+- **Zpracováno:** ano
