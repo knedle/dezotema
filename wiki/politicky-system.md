@@ -563,7 +563,9 @@ Rajchl rozvíjí svůj dřívější návrh 15% rovné daně (viz [Flat tax 15 %
 
 **23. 8. (sněmovní vystoupení)** — v přímém sněmovním klipu Rajchl opakuje totéž srovnání (Bulharsko +36 %, Polsko +9 %, Maďarsko +13,5 % vs. ČR v mínusu, poslední zemí s dohnaným předcovidovým HDP) v reakci na opoziční obvinění, že ČR je „nejvíce zadluženou zemí" — namítá, že jiné západní země mají dluh přes 100 % HDP, a jako zdroj úspor navrhuje zrušit emisní povolenky (viz [Emisní povolenky](ceny-energie.md#emisní-povolenky-čr-platí-30-víc-než-švédsko-a-17-víc-než-německo-rajchl-23-8-2026)) místo škrtů u občanů — beze změny oproti 22.–23. 8.
 
-**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Rajchl — Videoportál 15. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-daně-a-vzor-irska-15-8-2026), [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026), [Rajchl — Videoportál 22. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-22-8-2026), [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026), [Rajchl — Videoportál 23. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-23-8-2026)
+**25. 8. (další klip ze stejné nedělní debaty)** — opakuje tatáž čísla (inflace 36,49 %, nárůst platů 22,81 %, propad 15 %, zisky bank o „stovky procent" a zbrojařů o „tisíce procent" za předchozí vlády) beze změny — pouze rámováno jako přímá reakce na kritiku hospodaření od moderátora/oponenta v debatě.
+
+**Zdroje:** [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Rajchl — Videoportál 15. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-daně-a-vzor-irska-15-8-2026), [Rajchl — Facebook Live 26. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026), [Rajchl — Videoportál 22. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-22-8-2026), [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026), [Rajchl — Videoportál 23. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-23-8-2026), [Rajchl — Videoportál 25. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-25-8-2026)
 
 ---
 
