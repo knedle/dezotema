@@ -231,6 +231,22 @@ Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů 
 
 ---
 
+### Letní energetická krize 2026: sucho omezuje jádro a vodní zdroje, uhlí se vrací (Vrabel, 19. 8. 2026)
+
+Vrabel komentuje zprávu, že letošní léto zvýraznilo problémy evropské energetiky: extrémní sucho snižuje výkon vodních elektráren a komplikuje chlazení jaderných bloků, zatímco plynové elektrárny čelí vyšším cenám a narušeným dodávkám LNG kvůli konfliktu na Blízkém východě — uhelné elektrárny tak nečekaně nabývají na významu. Vidí v tom potvrzení své opakované teze: problém není nedostatek plynu obecně, ale to, že jsme se odstřihli od levného ruského plynu a „diverzifikovali" ho koncentrací do jediného náhradního zdroje (LNG), který je teď sám ohrožen válkou — tedy podle něj ne skutečná diverzifikace rizika, ale jeho přesunutí na jedno místo. Odhaduje, že přímý nákup ruského plynu by byl čtyřikrát levnější.
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+
+---
+
+### Zasypané a zatopené uhelné doly — kritika Babišovy vlády (Vrabel, 19. 8. 2026)
+
+V návaznosti na návrat k uhelným elektrárnám (viz výše) Vrabel poukazuje, že české uhelné doly byly zasypány kamenem a zatopeny vodou, takže těžbu nelze snadno obnovit — na rozdíl od Polska, které si své doly „nezasypalo". Sarkasticky navrhuje, aby policie nebo státní zástupce vyšetřili, kdo rozhodl o zasypání dolů za Babišovy vlády, když teď země musí uhlí dovážet (např. z Ukrajiny).
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+
+---
+
 ### EU ekonomika vybudována na levném ruském plynu — vzdáváme se jí dobrovolně (Vrabel, 18. 5. 2026)
 
 Vrabel připomíná výrok Ursuly von der Leyen, která sama přiznala, že Evropa byla „vybudována na levném plynu z Ruska." Vrabel poukazuje na absurditu: desetiletí fungující a ekonomicky výhodné energetické partnerství bylo přerušeno dobrovolně a bez racionálního ekonomického důvodu. Místo levného ruského plynu dovážíme dražší a méně kvalitní LNG z USA, ropu z Venezuely nebo Kazachstánu. Vrabel k tomu dodává: od Nord Streamu, který byl zničen, Trump sám prohlásil, že žádný takový plynovod nebude fungovat — a nefunguje.

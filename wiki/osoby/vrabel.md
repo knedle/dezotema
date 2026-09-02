@@ -710,6 +710,16 @@
 ### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 5)
 - **18. 8.** — Prodloužení životnosti jaderných reaktorů na 80 let — skeptický technický komentář — [Zprávy v devět 18. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
 
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 6)
+- **19. 8.** — Letní energetická krize — sucho omezuje jádro/vodní zdroje, LNG ohroženo Blízkým východem, návrat k uhlí, kritika „diverzifikace" — [Zprávy v devět 19. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+- **19. 8.** — Zasypané a zatopené uhelné doly — kritika Babišovy vlády — [Zprávy v devět 19. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 8)
+- **19. 8.** — KLDR popírá vyslání 50 000 vojáků na Ukrajinu — vyvrácení „štvaní" Zelenského — [Zprávy v devět 19. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 5)
+- **19. 8.** — Vietnam — deaktivace 86 mil. bankovních účtů bez digitální identity; rozvedeno do tématu digitální dystopie a kontroly — [Zprávy v devět 19. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1083,6 +1093,7 @@
 | Catherine Austin Fitts | ✅ pozitivní | Americká investiční bankéřka, osobní známá Vrabela — citována jako autorita na tezi, že USA potřebují válku na Ukrajině kvůli dolarové dominanci | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
 | Conor Kennedy | ❌ negativní | Syn RFK Jr. na ruském seznamu hledaných za boj na Ukrajině — označen za „imbecila", spekulace o mentálním poškození rodiny | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
 | Filip Turek | ❌ negativní | Srovnáván s Conorem Kennedym co do „hlouposti"; označen za sadistu bijícího partnerky a zastánce eskalace vůči Rusku | 2026-08-14 | [Zprávy v devět 14. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Tvrzení o vyslání 50 000 severokorejských vojáků do Ruska označeno KLDR za nepodložené a „zinscenované" — čteno jako další „štvaní" proti Rusku | 2026-08-19 | [Zprávy v devět 19. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026) |
 
 ---
 
@@ -1190,3 +1201,4 @@
 - [Zprávy v devět (12. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 - [Zprávy v devět (13. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-8-2026)
 - [Zprávy v devět (14. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+- [Zprávy v devět (19. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)

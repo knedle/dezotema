@@ -320,6 +320,14 @@ K útoku, při němž zahynulo nejméně třináct lidí po rozsáhlém dronové
 
 ## Stav Ukrajiny a mobilizace
 
+### KLDR popírá vyslání 50 000 dalších vojáků do Ruska — Vrabel: vyvrací „štvaní" Zelenského (19. 8. 2026)
+
+Místopředsedkyně Komise pro státní záležitosti KLDR odmítla tvrzení Volodymyra Zelenského, že Severní Korea plánuje vyslat do Ruska až 50 000 dalších vojáků — označila ho za nepodložené a za „zinscenovaný incident" (Severní Korea dříve poskytla Rusku vojenskou pomoc; podle odhadů tam v roce 2024 vyslala kolem 14 000 vojáků). Vrabel toto popření prezentuje jako vyvrácení dalšího „štvaní" Zelenského proti Rusku.
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+
+---
+
 ### Výzva Zemanovi: odebrat Zelenskému Řád bílého lva (Vrabel, 2. 6. 2026)
 
 V reakci na zprávu, že bývalý polský velvyslanec vrátil ukrajinské vyznamenání kvůli glorifikaci OUN/UPA, Vrabel jako předseda hnutí ČR na prvním místě vyzývá Miloše Zemana, aby Volodymyru Zelenskému odebral Řád bílého lva — nebo se veřejně omluvil za to, že nejvyšší české státní vyznamenání udělil „lídru neonacistického/fašistického režimu Ukrajiny". Tvrdí, že Zelenský si vyznamenání nezaslouží. Výrok navazuje na Vrabelovo dřívější hodnocení Zemana jako „nácka" (viz [Politický systém — brněnská demonstrace](politicky-system.md#brněnská-demonstrace--zklamání-z-vlastenecké-scény-vrabel-31-5-2026)) a Ukrajiny jako „fašistického státu z definice".
