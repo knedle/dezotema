@@ -36,6 +36,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **9. 8.** — čte celý text oznámení: extrapolace 7 500 mrtvých v ČR (z tvrzených 60 000 mrtvých Němců), řetězec osobní odpovědnosti premiér→lékař, požadavek na zastavení očkování — [Videoportál 9. 8.](../_zdroje.md#československo-tv2--videoportál-9-8-2026)
 - **21. 8.** — David Morens (bývalý poradce Fauciho) přiznal vinu u soudu v Marylandu za skrývání záznamů o grantu na výzkum netopýřích koronavirů (subgrant pro Wuhanský institut virologie); hrozí mu 5 let vězení — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 - **21. 8.** — opakuje beze změny (nyní datováno 18. 6.) tvrzení o usnesení Krajského soudu v Ústí nad Labem konstatujícím neizolaci SARS-CoV-2 — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- **21. 8. (večer)** — krize WHO: bankrot, přes 4 800 odešlých zaměstnanců, rezignace hlavního vědeckého ředitele Farrara po Morensově přiznání, výpadek financování 1,7 mld. $ po odchodu USA a Argentiny — [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
+- **21. 8. (večer)** — rozsáhlý článek Karla Janečka: Fauci jako „zlosyn historického významu" srovnávaný s Mengelem, jmenuje české „covidisty" k odpovědnosti (Konvalinka, Hell, Kubek, Maďar, Smejkal, Sempr, Hořejší, Flégr, Chlíbek aj.) — [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -64,6 +66,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **8. 8.** — detailní čtení trestních oznámení (Fiala, bitcoinová kauza), cituje Fialovo TV vystoupení jako „důkaz" — [Videoportál 8. 8.](../_zdroje.md#československo-tv2--videoportál-8-8-2026)
 - **12. 8.** — bitcoinová kauza: údajný poměr Decroix a Havránka (fotografie z Karpacze), srovnání disproporce trestů Rát vs. Blažek — [Videoportál 12. 8.](../_zdroje.md#československo-tv2--videoportál-12-8-2026)
 - **21. 8.** — kauza Peková: iniciátorem eskalace moderátor Tomáš Salaj, rozhodnutí připisuje ministru Tejcovi, podpůrný komentář Karla Janečka — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- **21. 8. (večer)** — kauza Peková pokračování: kritika slovenské studie SAV jako podjaté (McKernan — nedeklarované financování od výrobců mRNA vakcín), Kotleba podal trestní oznámení na Pačese — [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
 - **21. 8.** — rekapitulace tří trestních oznámení (genocida/vakcinační holokaust, Fiala za přípravu útočné války, bitcoinová kauza) + hypotetický scénář veřejné debaty proti „covidové sestavě" — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
@@ -255,6 +258,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Karel Janeček | ✅ pozitivní | Podpůrný komentář ke kauze Peková hodnocen kladně; zároveň líčen jako někdo, kdo zbohatl na bitcoinu díky insider informacím od CIA/Fedu | 2026-08-21 | [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026) |
 | David Morens | ⚖️ rozporuplný | Bývalý poradce Fauciho — přiznal vinu za skrývání záznamů o původu covidu, ale jeho trest je dle sdíleného komentáře jen „odvedení pozornosti od slona v místnosti" | 2026-08-21 | [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026) |
 | Soňa Peková | ✅ pozitivní | Označena za „hrdinku covidové doby" — odvahu a odbornost jí odebrání znaleckého razítka nevzalo | 2026-08-21 | [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026) |
+| Marian Kotleba | ✅ pozitivní | Slovenský politik — podal trestní oznámení na Pačese, který se vydával za soudního znalce při útoku na Pekovou | 2026-08-21 | [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer) |
+| Jeremy Farrar | ○ neutrální | Hlavní vědecký ředitel WHO — rezignoval po odhalení skrývání původu viru souvisejícím s doznáním Davida Morense | 2026-08-21 | [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer) |
+| Anthony Fauci | ❌ negativní | Dle citovaného textu Karla Janečka „zlosyn historického významu" srovnatelný s Mengelem, poškodil důvěru ve vědu víc než kdokoli od 2. světové války | 2026-08-21 | [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer) |
 
 ---
 
@@ -328,3 +334,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál: Central Casting 11:11 (24. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-central-casting-1111-24-7-2026)
 - [Videoportál: Solární záblesk (25. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-solární-záblesk-25-7-2026)
 - [Videoportál (21. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- [Videoportál (21. 8. 2026, večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)

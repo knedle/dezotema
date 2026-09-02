@@ -180,6 +180,10 @@ Zítko doplňuje kauzu dalšími jmény a detaily. Rozhodnutí o odebrání znal
 
 **Zdroje:** [Československo TV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
+**21. 8. (večer)** — Zítko rozvádí kauzu o další vrstvu: studii slovenské Akademie věd (SAV), kterou vláda použila ke zpochybnění Pekové posudku, označuje odborník Kevin McKernan (dle Zítka „jeden z pěti největších světových odborníků" v oboru) za rovněž podjatou — autoři studie měli mít nedeklarované financování od výrobců mRNA vakcín, což podle Zítka představuje neuvedený střet zájmů srovnatelný s tím, z čeho byla obviněna Peková. Zdůrazňuje, že žádná ze stran zpochybňujících Pekovou analýzu neprovedla rozbor stejných vzorků (těch 34 vzorků zůstává uloženo u Pekové v mrazáku). Zmiňuje také, že slovenský politik Marian Kotleba podal trestní oznámení na Mgr. Jana Pačese, PhD. — muže, který na Pekovou původně podal stížnost vydávaje se za soudního znalce, ač jím nikdy nebyl.
+
+**Zdroje:** [ČsTV2 — Videoportál 21. 8. 2026 (večer)](_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
+
 ---
 
 ### Kritika Rajchlova semináře v PS ke covidu jako „hrané divadlo" (Tarabová, 20. 8. 2026)

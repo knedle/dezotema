@@ -19,6 +19,7 @@
 - Slovenský poslanec SaS podal stížnost směřující k odebrání jejího soudně-znaleckého oprávnění kvůli posudku v procesu s Kolárem/Falcim — Černohorský to čte jako snahu ji umlčet ze strany úředníků z doby Babišovy vlády — [Černohorský — Videoportál (20. 8.)](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
 - ⚡ Konflikt: Tarabová totéž odebrání znaleckého razítka vykládá jako čistě formální otázku nestrannosti znalce (nemíchat aktivismus a znaleckou činnost), nikoli jako umlčování ani zpochybnění vědy — [Tarabová — Videoportál (20. 8.)](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
 - Zítko (třetí verze): rozhodnutí připisuje ministru Tejcovi, iniciátorem eskalace moderátor Tomáš Salaj; cituje podpůrný komentář Karla Janečka — [Zítko — Videoportál (21. 8.)](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- Kritika slovenské studie SAV jako podjaté (McKernan); Kotleba podal trestní oznámení na Pačese — [Zítko — Videoportál (21. 8., večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
 
 ---
 
