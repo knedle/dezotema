@@ -4077,3 +4077,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=2894909510874241&_rdr>
 - **Datum záznamu:** 2026-08-20
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál: klub Dialog (21. 8. 2026) {#konspirátor-boldy--videoportál-klub-dialog-21-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-21_Konspirátor-Boldy-KonspyChannel_Videoportál.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1776978986824213>
+- **Datum záznamu:** 2026-08-21
+- **Zpracováno:** ano

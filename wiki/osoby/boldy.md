@@ -60,6 +60,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - Europoslanci schválili „zákon o šmírování lidí" pod záminkou boje proti dětské pedofilii, srovnání s NSA — [9. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-9-7-2026)
 - Humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt — [5. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-5-8-2026)
+- Elitní klub „Dialog" (Peter Thiel) — rozšíření o seznam členů (Musk, Kushner, Kasparov, Kallas, Ted Cruz), zrušené setkání v Dublinu, plán založit stranu „Kult" a zotročit planetu — [21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
@@ -104,6 +105,10 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Donald Trump | ❌ negativní | „Loutka" (ruka s Babišem), otevírá „brány pekelné" proti Íránu; jako „včelař" má likvidovat obyčejné lidi (odkaz na Abaddon) | 2026-07-19 | [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026) |
 | Lionel Messi | ❌ negativní | Řadí ho k „Baphometu"; MS ve fotbale dle Boldyho zmanipulované okultismem/numerologií | 2026-07-19 | [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026) |
 | David Icke | ✅ pozitivní | Zákaz jeho vstupu do ~30 zemí označen za umlčování nepohodlné postavy | 2026-07-19 | [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026) |
+| Peter Thiel | ❌ negativní | Zakladatel Palantiru (sledování obyvatelstva pro americký vojenský průmysl) a elitního klubu „Dialog", který se má 20 let snažit řídit „třetí světovou válku" a plánovat zotročení planety | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
+| Elon Musk | ❌ negativní | Uveden jako člen elitního klubu „Dialog" | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
+| Jared Kushner | ❌ negativní | Uveden jako člen klubu „Dialog", označen za sionistu | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
+| Kaja Kallas | ❌ negativní | Uvedena jako členka klubu „Dialog" | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
 
 ---
 
@@ -128,3 +133,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál 17. 7. 2026 (iluze čerstvosti)](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026-iluze-čerstvosti)
 - [Facebook Live 19. 7. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
 - [Videoportál 27. 7. 2026 (požáry Španělsko, Kamov)](../_zdroje.md#konspirátor-boldy--videoportál-požáry-španělsko-kamov-27-7-2026)
+- [Videoportál: klub Dialog (21. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026)
