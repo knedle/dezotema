@@ -652,3 +652,11 @@ V Berlíně dominuje zemským volbám spor o bydlení: levicová strana Die Link
 V odpovědi na divácký dotaz, zda migraci do Británie skutečně způsobilo vystoupení z EU, Vrabel rozlišuje dva typy migrace do Evropy. Do Británie (Pákistánci, Indové), Francie (obyvatelé bývalých kolonií) i do Německa/Rakouska (Turci na práci od 60. let, později Syřané a Afghánci po otevření hranic 2015) přišli migranti z důvodů, které s Evropskou unií nesouvisí — jde o důsledek vlastní koloniální minulosti těchto zemí nebo jejich vlastních dřívějších náborových programů. Pro ČR je ale migrace podle něj výhradně důsledkem členství v EU a migračního paktu: ČR nikdy nikoho nekolonizovala, nemá „žádné dluhy" vůči bývalým koloniím, a jediné, co „udělala hloupě", bylo otevření hranic ukrajinským uprchlíkům. Migrační pakt dnes podle něj nutí i státy bez vlastní kolonizační historie přijímat migranty v rámci „solidárního" přerozdělování ve prospěch přetížených zemí západní Evropy — což pro ČR na rozdíl od Británie apod. žádnou historickou logiku nemá.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+---
+
+### Islamizace jako „největší a nejnebezpečnější problém" — historie tureckého útlaku Srbů (Vrabel, 25. 8. 2026)
+
+V návaznosti na téma Kosova (viz [Válka, NATO a Rusko](valka-nato-rusko.md#kosovo-a-metochie-útlak-srbů-má-být-vyřešen-po-skončení-války-na-ukrajině-vrabel-25-8-2026)) Vrabel líčí historii tureckého („janičárského") útlaku Srbů na Balkáně (napichování na kůl, únosy dětí za účelem převýchovy na vojáky), aby doložil, že Srbsko zůstalo na rozdíl od zbytku Evropy „etnicky čisté" a bez muslimské populace, protože se islamizaci dlouhodobě bránilo. Explicitně řadí islamizaci nad válku s Ruskem i nad digitalizaci/globalizaci jako „největší a nejnebezpečnější" problém, kterému se věnuje od roku 2013.
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)

@@ -467,6 +467,8 @@ Vrabel reaguje na týž projev Petra Pavla u budovy Českého rozhlasu (viz Rajc
 
 Dále rozvádí vlastní, dlouhodobě opakovanou revizionistickou tezi o invazi 1968: podle něj nešlo o potlačení Pražského jara, ale o reakci na hromadění zbraní a vojáků NATO na západní straně aliance (především v Bavorsku) — respektive o vojenskou nutnost Sovětského svazu dozbrojit dvě utajovaná úložiště jaderných zbraní na českém území (které nazývá „Javor 1" a „Javor 2") poté, co tehdejší československý režim nesplnil dřívější dohodu se SSSR. Invazi rámuje jako záchranu Československa před tím, aby se v roce 1968 odehrálo totéž, co v roce 1989 — tedy před předčasným přechodem pod vliv NATO — a jako menší zlo oproti hrozící eskalaci studené války. Zdroje k tomuto tvrzení označuje za neveřejné (bývalí funkcionáři, kteří odmítli vystoupit na kameru). Zároveň odmítá Pavlovo srovnání roku 1968 s Ruskem na Ukrajině 2022: mezinárodní právo dle něj nikdy neoznačilo Rusko za agresora (Rada bezpečnosti OSN takové rozhodnutí nevydala), takže jde jen o Pavlův soukromý politický názor, ne o právní fakt. Dodává, že skutečným „rozkradením" země po roce 1989 byl Západ/NATO, ne sovětská přítomnost do roku 1991, kdy ČR měla vlastní bankovnictví, průmysl a obchod.
 
-**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+**25. 8.** — opakuje stejnou tezi bez posunu: invaze 1968 podle něj zabránila na 20 let tomu, co se stalo až v roce 1989 (rozpad východního bloku), a bez sovětských vojsk by k tomu došlo o 20 let dřív, podobně jako na kyjevském Majdanu 2014. Připouští, že při invazi zemřelo 108 lidí a že je pochopitelné, že nikdo nemá rád cizí vojska ve své zemi.
+
+**Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026), [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
 
 ---

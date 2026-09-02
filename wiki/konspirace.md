@@ -644,6 +644,24 @@ Boldy doporučuje divákům dokumentární/hraný film „2073" (2024), který p
 
 ---
 
+### Agenda 2030 jako reálná vládní politika vedoucí k technokracii (Vrabel, 25. 8. 2026)
+
+Vrabel tvrdí, že Agenda 2030 není „výmysl", ale reálně zakotvená politika — odkazuje na vládní programové prohlášení a stránku www.2030.cz, kde jednotlivá ministerstva rozpracovávají desítky agend OSN/EU do vlastní působnosti. Předpovídá, že po válce (viz [Predikce](predikce.md#ladislav-vrabel--po-válce-nahradí-demokracii-technokracie-25-8-2026)) dojde k přechodu demokracie na technokracii — vládu založenou na datech a algoritmech místo zkorumpovaných politiků — a jako klíčové postavy budoucí technokratické společnosti (existující dle něj od 20. let minulého století) jmenuje Elona Muska, Petera Thiela a Alexe Karpa (zakladatele Palantiru). Spojuje to s postupující digitalizací peněz (tokenizace majetku, přechod na digitální měnu), narůstajícím kamerovým dohledem a výstavbou datacenter, které mají sloužit primárně novému finančnímu systému.
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Druhá světová válka jako „válka proti Slovanům", Rockefellerové financovali Hitlera i Zelenského (Vrabel, 25. 8. 2026)
+
+Vrabel tvrdí, že druhá světová válka nebyla především válkou proti Židům, ale válkou proti Slovanům — s odkazem na počet zabitých Slovanů oproti obětem holokaustu. Tvrdí, že rodina Rockefellerů (jmenovitě David Rockefeller) financovala nacistické Německo, včetně výroby plynu Cyklon B pro koncentrační tábory, a že tatáž „rodina hazarských židů" dnes financuje Volodymyra Zelenského — se závěrem, že hlavním beneficientem obou válek jsou Spojené státy (po 2. světové válce ovládly světovou rezervní měnu skrze Brettonwoodský systém). Podobně vyzdvihuje financování Adolfa Hitlera americkými firmami (Ford, Coca-Cola).
+
+⚡ **Poznámka:** Tvrzení o financování nacismu i dnešní ukrajinské vlády konkrétní židovskou rodinou/„hazarskými židy" je antisemitský konspirační topos; srov. [BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu](#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026).
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
 ### Voda jako „H3O2" — strukturovaná voda místo H2O (Zítko, 29. 7. 2026)
 
 Zítko šíří obsáhlý text (přejatý od zahraničních autorů, sdílený přes „Hana Hanna"), podle nějž voda v lidském těle není běžné H2O, ale odlišná, elektricky nabitá „strukturovaná" forma s jednou molekulou vodíku a kyslíku navíc, označovaná jako H3O2 nebo „EZ voda" (z angl. exclusion zone) — s odkazem na výzkum bioinženýra Geralda Pollacka z Univerzity ve Washingtonu. Tato voda má být „živá", ukládat sluneční a infračervenou energii jako baterie a fungovat jako zdroj tělesné elektřiny — srdce má být podle tohoto výkladu „rezonátor", nikoli pumpa. Tvrdí, že tento poznatek je záměrně vytěsňován ze škol i medicíny, protože strukturovanou vodu „nelze plnit do lahví, patentovat ani prodávat" — na rozdíl od farmaceutických produktů. Jako návod na „nabíjení" vody v těle doporučuje sluneční a infračervené světlo, pohyb a dech, elektrolyty (keltská mořská sůl, shilajit), syrové ovoce a zeleninu, chození bez bot („uzemnění") a hudbu — s odkazem na kontroverzní experimenty Masaru Emota o vlivu emocí a hudby na strukturu vody. Doplňuje odkaz na Rudolfa Steinera a Viktora Schaubergera jako dřívější zastánce podobných myšlenek.

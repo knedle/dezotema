@@ -1015,3 +1015,25 @@ V debatě na CNN Prima News Rajchl tvrdí, že stejně jako v Rusku existují pl
 **Zdroje:** [Rajchl — Videoportál 22. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-22-8-2026), [Rajchl — Facebook Live 23. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
 
 ---
+
+### Kritika mobilizace ukrajinských žen do armády (Vrabel, 25. 8. 2026)
+
+Bývalý zvláštní vyslanec USA pro Ukrajinu Keith Kellogg v rozhovoru podpořil mobilizaci ukrajinských žen do armády s tím, že bojují stejně dobře jako muži. Vrabel to ostře odmítá — souhlasí nanejvýš s tím, aby ženy sloužily jako zdravotnice, ne v bojových jednotkách — a považuje to za další stupeň vyčerpání ukrajinského národa, který podle něj čeká vyvraždění „do posledního Ukrajince" i „do posledních Ukrajinek". Kritizuje zároveň praxi jednotek TCK, které nuceně odvádějí muže do armády na ulicích.
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Ukrajina jako „neúspěšný stát" bez práva na územní celistvost (Vrabel, 25. 8. 2026)
+
+U příležitosti 35. výročí ukrajinské nezávislosti (USA se nepřipojily ke společnému prohlášení přes 50 zemí při OSN vyzývajícímu k ukončení ruské války) Vrabel tvrdí, že Ukrajina jako stát vzniklý uměle v roce 1991 „se nepovedla" a nemá právo dovolávat se územní celistvosti, protože její vznik sám o sobě porušil poválečné (1945) uspořádání hranic. Odkazuje na ústavní převrat na Majdanu 2014, kdy se dle něj k moci dostali nacisté (jmenuje zesnulého zakladatele praporu Azov) a vyvolali občanskou válku, do níž pak zasáhlo Rusko na obranu obyvatel hlásících se k ruské národnosti. Stejnou logikou zpochybňuje i ukrajinský nárok na Krym, který byl dle něj historicky od 16.–17. století součástí Ruska a Ukrajině ho v 50. letech pouze administrativně přidělil Chruščov.
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Paralela s 2. světovou válkou — Evropa má být „obětována", aby si USA udržely dominanci (Vrabel, 25. 8. 2026)
+
+Vrabel rozvíjí analogii: stejně jako po 2. světové válce z konfliktu ekonomicky nejvíc profitovaly USA (převzaly světovou rezervní měnu, zatímco Evropa byla zničena a Sovětský svaz „vykrvácel"), předpokládá, že i dnešní válka skončí obdobně — zničením/oslabením především východní Evropy ve prospěch udržení americké dominance (viz [Predikce](predikce.md#ladislav-vrabel--evropa-bude-obětována-miliony-mrtvých-slovanů-25-8-2026)). Odhaduje na základě amerických „ex-plukovníků" celkové ztráty milion až 2,5 milionu na straně Ukrajiny a několik set tisíc na straně Ruska — s tím, že „kanónenfutrem" jsou v tomto konfliktu opět Slované, zatímco žoldnéřů z anglosaských zemí je málo.
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)

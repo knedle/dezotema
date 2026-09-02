@@ -12,6 +12,54 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Po válce nahradí demokracii technokracie (25. 8. 2026)
+
+**Předpověď:** Vrabel předpovídá, že po skončení války dojde ke změně politického systému — vysoká nezaměstnanost, ekonomické problémy a nedůvěra k politikům povedou k tomu, že lidé sami budou volat po vládě „bez chyb" řízené technologiemi/AI namísto zkorumpovaných politiků. Za klíčové postavy budoucí technokratické společnosti (existující od 20. let minulého století) označuje Elona Muska, Petera Thiela a Alexe Karpa.
+
+> „Pravděpodobně přijde nový systém technokracie... a jejíž hlavní protagonisté... jsou dneska vlastně v ústředí těch organizací." — Ladislav Vrabel
+
+**Horizont:** neurčeno (po skončení války na Ukrajině)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Ladislav Vrabel — Evropa bude „obětována", miliony mrtvých Slovanů (25. 8. 2026)
+
+**Předpověď:** Podle paralely s 2. světovou válkou (kdy z konfliktu ekonomicky nejvíc těžily USA, zatímco Evropa byla zničena) Vrabel předpovídá, že v následujících měsících a letech bude obětí současné války především východní Evropa, aby si USA udržely dominanci. Odhaduje na základě amerických „ex-plukovníků" celkové ztráty na straně Ukrajiny mezi milionem a 2,5 milionu a na straně Ruska několik set tisíc.
+
+> „Obětí téhle války... bude z velké části Evropy, a především východní Evropy... ten, kdo bude mít největší ztráty... jsou Slovani." — Ladislav Vrabel
+
+**Horizont:** příští měsíce a roky
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Ladislav Vrabel — Otázka Kosova se vyřeší po válce na Ukrajině, srbský národ se spojí (25. 8. 2026)
+
+**Předpověď:** Vrabel odkazuje na dřívější slib ruského velvyslance Srbsku, že po skončení konfliktu na Ukrajině se vyřeší otázka Kosova, a předpovídá, že srbský národ bude nakonec spojený (včetně otázky Republiky srbské).
+
+> „Rusové slíbily už asi před rokem... že až skončí konflikt na Ukrajině, tak se vyřeší otázka Kosova... myslím si, že to tak dopadne, že srbský národ bude nakonec spojený." — Ladislav Vrabel
+
+**Horizont:** po skončení války na Ukrajině
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Ladislav Vrabel — Politiku ČR bude časem určovat spíš Rusko než USA (25. 8. 2026)
+
+**Předpověď:** Vrabel uvádí, že od roku 2022 dlouhodobě odhaduje, že s postupným úpadkem dominance NATO/USA ve světě bude o politickém směřování České republiky časem rozhodovat spíš Ruská federace než Spojené státy. Sám dodává, že situace se může vyvinout i opačně (ČR zůstane v EU, která upadne do „chalifátu" a občanské války).
+
+> „Co mě se týče, tak od roku 2022 typuju na to, že ten, kdo bude určovat politiku v České republice, bude spíš Ruská federace než Spojené státy." — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
 ### Ladislav Vrabel — Kryptoměny dosáhly dna čtyřletého cyklu, další rok porostou (21. 8. 2026)
 
 **Předpověď:** Vrabel na základě propadu hodnoty dolaru a nákupu dluhopisů americkým ministerstvem financí odhaduje, že kryptoměny dosáhly dna svého čtyřletého cyklu a nyní nastává fáze růstu, která může trvat zhruba rok — proto je podle něj teď dobrý čas začít nakupovat. Přesnější potvrzení své spekulace slíbil po víkendu (pondělí/úterý).

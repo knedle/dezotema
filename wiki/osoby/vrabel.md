@@ -790,6 +790,24 @@
 ### [Politický systém](../politicky-system.md) (pokrač. 8)
 - **24. 8.** — Nová osobní nálepka „pracuje pro Rakušana" — rozšíření sbírky obvinění (BIS, policie, Rusko) — [Zprávy v devět 24. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026)
 
+### [Konspirační teorie](../konspirace.md) (pokrač. 5)
+- **25. 8.** — Agenda 2030 jako reálná vládní politika vedoucí k technokracii (Musk, Thiel, Karp) — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+- **25. 8.** — Druhá světová válka jako „válka proti Slovanům", Rockefellerové financovali Hitlera i Zelenského — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+### [Petr Pavel](../petr-pavel.md) (pokrač.)
+- **25. 8.** — Rok 1968 — invaze zabránila „Majdanu" v Československu (opakování) — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 11)
+- **25. 8.** — Kritika mobilizace ukrajinských žen do armády (Keith Kellogg) — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+- **25. 8.** — Ukrajina jako „neúspěšný stát" bez práva na územní celistvost — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+- **25. 8.** — Paralela s 2. sv. válkou — Evropa má být „obětována" — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 10)
+- **25. 8.** — Kosovo a Metochie — útlak Srbů, predikce vyřešení po válce na Ukrajině — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 13)
+- **25. 8.** — Islamizace jako „největší problém" — historie tureckého útlaku Srbů — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1180,6 +1198,9 @@
 | ministr obrany Izraele | ❌ negativní | Za výrok o nutnosti měsíčně zabíjet 30 000 Libanonců by měl být „zavřený nebo zastřelený" (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
 | Petr Macinka | ❌ negativní | Řeč o „bezpečnostních výzvách" ČR (migrace, energetika, konkurenceschopnost) označena za svalování viny na důsledky vlastní politiky vlády | 2026-08-24 | [Zprávy v devět 24. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026) |
 | Vít Rakušan | ❌ negativní | Dle komentáře pod videem prý potřebuje, aby Vrabel tvrdil, že ruská operace je v souladu s chartou OSN — nová položka v sbírce obvinění | 2026-08-24 | [Zprávy v devět 24. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026) |
+| Keith Kellogg | ❌ negativní | Bývalý zvláštní vyslanec USA pro Ukrajinu — kritizován za podporu mobilizace ukrajinských žen do armády | 2026-08-25 | [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026) |
+| David Rockefeller | ❌ negativní | Tvrzení, že financoval nacistické Německo (výrobu Cyklonu B) i dnes financuje Volodymyra Zelenského (→ [konspirace](../konspirace.md)) | 2026-08-25 | [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Odmítá mobilizaci žen kritizovat; jeho vláda financována stejnou rodinou, která dle Vrabela financovala nacismus | 2026-08-25 | [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026) |
 
 ---
 
@@ -1294,3 +1315,4 @@
 - [Facebook Live, dopolední (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dopolední-22-8-2026)
 - [Nedělní vysílání (23. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
 - [Zprávy v devět (24. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026)
+- [Facebook Live (25. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
