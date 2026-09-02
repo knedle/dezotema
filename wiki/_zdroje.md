@@ -4168,3 +4168,10 @@
 - **URL:** <https://www.facebook.com/100083247552502/videos/1077837611564180>
 - **Datum záznamu:** 2026-08-23
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Nedělní vysílání (23. 8. 2026) {#ladislav-vrabel--nedělní-vysílání-23-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-23_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1544889507434050>
+- **Datum záznamu:** 2026-08-23
+- **Zpracováno:** ano

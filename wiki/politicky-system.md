@@ -363,6 +363,22 @@ K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vysl�
 
 ---
 
+### Rozpad vlastenecké scény — obvinění z agenturní spolupráce s BIS/policií, cenzura na Raptor TV (Vrabel, 23. 8. 2026)
+
+Vrabel po setkání v Příčovech popisuje sebe jako „asi nejvíc nenáviděnou osobu v České republice" — nejen ze strany vládní koalice (kterou přirovnal k „zrádcům národa"), ale i uvnitř vlastenecké scény. Tvrdí, že Ivan David jako první v roce 2022 a následně Jindřich Rajchl a Lenka Tarabová šíří tvrzení, že podepsal spolupráci s policií a pracuje jako agent BIS; podobně o něm bývalý policejní prezident Stanislav Novotný veřejně prohlašuje totéž. Popisuje také, že vlastenecká televize Raptor TV (Žarko Jovanović, s nímž dříve úzce spolupracoval při organizaci demonstrací) na něj a jeho hnutí uvalila neoficiální cenzuru — moderátor Honza Dolenc odmítl natočit příznivce s trikem propagujícím plánované shromáždění 3. 10., a příspěvky informující o akci byly na stránce Raptor TV mazány jako „vrábelovský spam". Vrabel to dává do kontextu rozpadu vlastenecké scény na soupeřící politická ega před volbami, kde se z „vlastenectví" stal komerční produkt.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+---
+
+### Vlastní bezpečnostní situace — proč žije v Srbsku (Vrabel, 23. 8. 2026)
+
+V reakci na opakující se obvinění, že žije v Srbsku, protože je „nasazený", Vrabel vysvětluje okolnosti přestěhování: v květnu 2022 (ještě před velkými demonstracemi) se s manželkou přestěhovali do Srbska kvůli vážné, později smrtelné rakovině její matky — chtěl, aby manželka strávila poslední roky s matkou. Po její smrti v Srbsku zůstali. Návrat do ČR podle něj dnes komplikuje bezpečnostní situace: kvůli tomu, že Ukrajinci mají „různé seznamy lidí na odstřel", se v Česku musí pohybovat s ochrankou srovnatelnou s tou, kterou mají vládní představitelé — veřejné vystoupení v Praze pro něj znamená nutnost okamžitě odjet. Doufá v návrat, až se „situace změní".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+---
+
 ### Slovenští aktivisté René Baláž a Petr Švec označeni za odstraněné za nepohodlnost (Zítko, 13. 7. 2026)
 
 V rozhovoru u Jany Kataríny Benke Zítko tvrdí, že covidoví „odpůrci" a kritici, kteří se stali nepohodlnými, jsou likvidováni energetickými zbraněmi nebo chemickou cestou — jako příklad uvádí slovenského aktivistu René Baláže a podplukovníka armády Petra Švece, o nichž tvrdí, že jsou mrtví a byli „odstraněni", protože na rozdíl od něj neměli „to štěstí". Řadí je k obecnější tezi, že kdokoliv nepohodlný pro systém (zmiňuje i domnělou smrt kritika Billa Gatese) může být takto umlčen.

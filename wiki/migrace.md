@@ -644,3 +644,11 @@ Ke zprávě o útočníkovi s mačetou, který vnikl do švédské školy a zran
 V Berlíně dominuje zemským volbám spor o bydlení: levicová strana Die Linke podmiňuje vstup do vlády vyvlastněním velkých pronajímatelů (firem vlastnících 3000+ bytů, dohromady až 220 000 nemovitostí) — podobný návrh už jednou (nezávazně) podpořilo v referendu 2021 59 % voličů, Die Linke nyní vede průzkumy s téměř 20 %. Vrabel to dává do souvislosti s Prahou, kde je bytů podle něj také nedostatek, a s migračním paktem, který má začít platit od roku 2027: tvrdí, že EU pak bude vědět, kde jsou volné byty, aby do nich mohla umisťovat migranty, takže ani v ČR nezbudou volné byty. Za prvotní příčinu bytové krize označuje migraci v kombinaci se současným ekonomickým systémem, který podle něj už není klasický kapitalismus s nabídkou a poptávkou, ale „korporátní fašismus" — až dojdou volné byty, přijde na řadu vyvlastňování jako v Berlíně, což sám neschvaluje, ale považuje za nevyhnutelný důsledek.
 
 **Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+
+---
+
+### Proč je migrace pro ČR jiná než pro Británii, Německo, Francii či Španělsko (Vrabel, 23. 8. 2026)
+
+V odpovědi na divácký dotaz, zda migraci do Británie skutečně způsobilo vystoupení z EU, Vrabel rozlišuje dva typy migrace do Evropy. Do Británie (Pákistánci, Indové), Francie (obyvatelé bývalých kolonií) i do Německa/Rakouska (Turci na práci od 60. let, později Syřané a Afghánci po otevření hranic 2015) přišli migranti z důvodů, které s Evropskou unií nesouvisí — jde o důsledek vlastní koloniální minulosti těchto zemí nebo jejich vlastních dřívějších náborových programů. Pro ČR je ale migrace podle něj výhradně důsledkem členství v EU a migračního paktu: ČR nikdy nikoho nekolonizovala, nemá „žádné dluhy" vůči bývalým koloniím, a jediné, co „udělala hloupě", bylo otevření hranic ukrajinským uprchlíkům. Migrační pakt dnes podle něj nutí i státy bez vlastní kolonizační historie přijímat migranty v rámci „solidárního" přerozdělování ve prospěch přetížených zemí západní Evropy — což pro ČR na rozdíl od Británie apod. žádnou historickou logiku nemá.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)

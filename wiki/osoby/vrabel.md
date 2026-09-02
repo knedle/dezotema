@@ -774,6 +774,16 @@
 ### [Migrace](../migrace.md) (pokrač. 11)
 - **22. 8.** — Maroko nárokuje Ceutu/Melillu — filozofie hranic, srovnání s Donbasem/Krymem/Kosovem/Republikou srbskou — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 7)
+- **23. 8.** — Rozpad vlastenecké scény — obvinění z agenturní spolupráce s BIS/policií (Rajchl, Tarabová, David, Novotný), cenzura na Raptor TV — [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+- **23. 8.** — Vlastní bezpečnostní situace — proč žije v Srbsku (nemoc tchyně, ukrajinské „seznamy na odstřel") — [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 12)
+- **23. 8.** — Proč je migrace pro ČR jiná než pro Británii/Německo/Francii/Španělsko (kolonialismus vs. migrační pakt) — [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 6)
+- **23. 8.** — „Kontrolní seznam" ztráty suverenity — jen koruna zůstala česká — [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1156,6 +1166,12 @@
 | Ivan Noveský | ✅ pozitivní | Bývalý zakladatel ERÚ, kandidát do Senátu za SPD — Vrabel ho i přes nechuť k SPD hodlá podpořit; oceňuje jeho odbornost | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
 | Vladimir Putin | ⚖️ rozporuplný | Odveta za útok na sklad Wildberries označena za pochopitelnou reakci na ukrajinské útoky na civilisty | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
 | Petr Macinka | ❌ negativní | Pozvání do Berlína 9. 5. vystavil ministr Wadephul; řazen do „jedné sebranky" s Pavlem a Babišem dělající „úplně to samé" | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
+| Jindřich Rajchl | ❌ negativní | Spolu s Tarabovou šíří tvrzení, že Vrabel je agent BIS/spolupracuje s policií; dříve zakázal ruské vlajky na demonstracích jako „protistranu" | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
+| Lenka Tarabová | ❌ negativní | Spolu s Rajchlem šíří tvrzení, že Vrabel je agent BIS | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
+| Stanislav Novotný | ❌ negativní | Bývalý policejní prezident — veřejně tvrdí, že Vrabel je agent BIS | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
+| Žarko Jovanović | ❌ negativní | Majitel Raptor TV — dle Vrabela uvalil na jeho hnutí neoficiální cenzuru (odmítnutí natáčet, mazání komentářů) | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
+| Jiří Havel | ❌ negativní | Bývalý spolupracovník — obviněn z krádeže e-mailových adres sledujících a šíření pomluv o satanismu manželky; „má nějakou diagnózu" | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
+| ministr obrany Izraele | ❌ negativní | Za výrok o nutnosti měsíčně zabíjet 30 000 Libanonců by měl být „zavřený nebo zastřelený" (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
 
 ---
 
@@ -1268,3 +1284,4 @@
 - [Zprávy v devět (21. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
 - [Zprávy v devět (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
 - [Facebook Live, dopolední (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dopolední-22-8-2026)
+- [Nedělní vysílání (23. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)

@@ -665,3 +665,11 @@ Evropská komise připravuje novou právní formu podnikání (tzv. „28. reži
 > „Kdyby jsme byli u moci my, [...] tohle by byla jediná věc, přes kterou by nejel vlak." — Ladislav Vrabel, [Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+
+---
+
+### „Kontrolní seznam" ztráty suverenity — jediné, co zbylo, je koruna (Vrabel, 23. 8. 2026)
+
+Vrabel systematicky prochází, co z České republiky ještě podle něj zbylo „české". Obyvatelstvo: odhaduje 1–2 miliony Ukrajinců v ČR (10–20 % populace), kteří se na rozdíl od dříve usazených Vietnamců podle něj „nepočešťují" — z ČR se tak stává „Česko-Ukrajinsko". Hranice: fakticky neexistují, volný pohyb umožňuje komukoli dojít z Afriky až do Kolína. Majetek: silnice a některé pozemky jsou ještě české, ale továrny, obchody, banky, doprava i média jsou většinově v zahraničních rukou (ČR na rozdíl od Srbska nemá zákon bránící cizincům kupovat zemědělskou půdu). Zákony a politika: rozhodují sponzoři a média řízené ze zahraničí (cituje Havlův výrok o „světovém režisérovi"), a zákony EU jsou nadřazené českým podle ústavy. Jediné, co podle něj zůstalo skutečně české, je koruna — a i tu považuje za dočasnou, používanou k zakrytí ostatních ústupků. Definuje vlastenectví jako boj za to, aby v zemi „bydleli Češi", mluvilo se česky a vydělané hodnoty zůstávaly doma — na rozdíl od dnešního stavu, kdy je ČR podle něj „v procesu rozmělňování se" do evropských struktur.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
