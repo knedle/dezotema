@@ -784,6 +784,12 @@
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 6)
 - **23. 8.** — „Kontrolní seznam" ztráty suverenity — jen koruna zůstala česká — [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
 
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 9)
+- **24. 8.** — Macinkova řeč o „bezpečnostních výzvách" ČR — Vrábel rozporuje bod po bodu — [Zprávy v devět 24. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 8)
+- **24. 8.** — Nová osobní nálepka „pracuje pro Rakušana" — rozšíření sbírky obvinění (BIS, policie, Rusko) — [Zprávy v devět 24. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1172,6 +1178,8 @@
 | Žarko Jovanović | ❌ negativní | Majitel Raptor TV — dle Vrabela uvalil na jeho hnutí neoficiální cenzuru (odmítnutí natáčet, mazání komentářů) | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
 | Jiří Havel | ❌ negativní | Bývalý spolupracovník — obviněn z krádeže e-mailových adres sledujících a šíření pomluv o satanismu manželky; „má nějakou diagnózu" | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
 | ministr obrany Izraele | ❌ negativní | Za výrok o nutnosti měsíčně zabíjet 30 000 Libanonců by měl být „zavřený nebo zastřelený" (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-23 | [Nedělní vysílání 23. 8.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026) |
+| Petr Macinka | ❌ negativní | Řeč o „bezpečnostních výzvách" ČR (migrace, energetika, konkurenceschopnost) označena za svalování viny na důsledky vlastní politiky vlády | 2026-08-24 | [Zprávy v devět 24. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026) |
+| Vít Rakušan | ❌ negativní | Dle komentáře pod videem prý potřebuje, aby Vrabel tvrdil, že ruská operace je v souladu s chartou OSN — nová položka v sbírce obvinění | 2026-08-24 | [Zprávy v devět 24. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026) |
 
 ---
 
@@ -1285,3 +1293,4 @@
 - [Zprávy v devět (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
 - [Facebook Live, dopolední (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dopolední-22-8-2026)
 - [Nedělní vysílání (23. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+- [Zprávy v devět (24. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026)
