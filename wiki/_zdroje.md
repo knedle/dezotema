@@ -4070,3 +4070,10 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/2263119874423158>
 - **Datum záznamu:** 2026-08-20
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: kauza Peková, zlatý věk (20. 8. 2026) {#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-20_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=2894909510874241&_rdr>
+- **Datum záznamu:** 2026-08-20
+- **Zpracováno:** ano

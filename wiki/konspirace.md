@@ -651,3 +651,11 @@ Vrabel používá metaforu „hadičky" pro popis mechanismu, kterým je od roku
 **Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
 
 ---
+
+### „Převrácení jachty" a příchod „nového zlatého věku" (Tarabová, 20. 8. 2026)
+
+Tarabová uzavírá video nejasně formulovanou, mysticky laděnou předpovědí blížící se dramatické proměny světa: mluví o tom, že „to, co je před náma, bude velkolepé, velké, hutné, husté", přirovnává současnou situaci k jachtě, která se má „převrátit vzhůru nohama" a znovu narovnat, po čemž má následovat „nový zlatý věk" — dobu, kdy se lidem bude „dobře spát" a diváci budou z celého srdce děkovat „stvořiteli", že mohli tuto proměnu zažít. Předpověď je bez konkrétního data či ověřitelného obsahu (žádná konkrétní událost, jen obrazná řeč o transformaci).
+
+**Zdroje:** [Tarabová — Videoportál 20. 8. 2026](_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
+
+---

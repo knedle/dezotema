@@ -17,6 +17,7 @@
 ### [Kauzy a korupce](../kauzy.md)
 - Petice o milost pro 4 osoby odsouzené za covidové výroky (přes 1000 podpisů) — Hrad odpověděl po 2 měsících přes úředníka, žádost o audienci zamítnuta — [Videoportál: Hrad odpověděl na Pekovou (26. 6.)](../_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
 - Slovenský poslanec SaS podal stížnost směřující k odebrání jejího soudně-znaleckého oprávnění kvůli posudku v procesu s Kolárem/Falcim — Černohorský to čte jako snahu ji umlčet ze strany úředníků z doby Babišovy vlády — [Černohorský — Videoportál (20. 8.)](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
+- ⚡ Konflikt: Tarabová totéž odebrání znaleckého razítka vykládá jako čistě formální otázku nestrannosti znalce (nemíchat aktivismus a znaleckou činnost), nikoli jako umlčování ani zpochybnění vědy — [Tarabová — Videoportál (20. 8.)](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
 
 ---
 

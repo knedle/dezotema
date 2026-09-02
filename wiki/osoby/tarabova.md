@@ -43,6 +43,11 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 ### [Kauzy a korupce](../kauzy.md)
 - Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice — prezentovaná Hvězdovská ulice patřila ve skutečnosti Ralsku, skutečná Hvězdovská v Mimoni zůstala neopravená — [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7.)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
 - Babišův střet zájmů v onkologii — přes Hartenberg Holding/Future Life (ISCARE, Poliklinika Modřany) ovládá onkologickou prevenci, zatímco politicky prosazuje onkocentra (Motol, Brno, Krč) — [Videoportál: reakce na článek o rakovině (8. 7.)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
+- **20. 8.** — ⚡ Konflikt s Černohorského verzí kauzy Peková: odebrání znaleckého razítka bylo čistě formální otázka nestrannosti, ne umlčování — [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
+- **20. 8.** — Kritika Rajchlova semináře v PS ke covidu jako „hrané divadlo" bez reálného efektu — [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
+
+### [Konspirační teorie](../konspirace.md)
+- **20. 8.** — „Převrácení jachty" a příchod „nového zlatého věku" — nejasná mystická předpověď dramatické proměny světa — [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti — [ČT a ČRo: zrušit (18. 4.)](../_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
@@ -86,6 +91,8 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Roman Prymula | ❌ negativní | „Ohromný střet zájmu" — měl by stát před soudem, ne vystupovat v médiích | 2026-06-30 | [Videoportál: rozhovor s Pečénkou](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026) |
 | Martin Půta | ❌ negativní | Hejtman Liberecka, kandidát na Senát — obviněn ze lži o opravě silnice (prezentoval cizí silnici v Ralsku jako opravenou Hvězdovskou v Mimoni), Tarabová to nazývá „lží č. 2" a „vydíráním" | 2026-07-06 | [Videoportál: hejtman Půta a Hvězdovská ulice](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026) |
 | Andrej Babiš | ⚖️ rozporuplný | Nevlastní přímo onkologickou kliniku, ale přes Hartenberg Holding/Future Life ovládá zařízení s onkologickou prevencí, zatímco politicky prosazuje výstavbu onkocenter — poukázáno na propojení soukromého a veřejného zájmu | 2026-07-08 | [Videoportál: reakce na článek o rakovině](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026) |
+| Soňa Peková | ⚖️ rozporuplný | Uznává její vědeckou práci, ale i formální pochybení (podjatost) — odmítá výklad, že by odebrání razítka zpochybnilo její odbornost | 2026-08-20 | [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026) |
+| Jindřich Rajchl | ❌ negativní | Nový řádek: jeho seminář v PS ke covidu hodnotí jako „hrané divadlo" bez upřímné snahy cokoli odhalit | 2026-08-20 | [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026) |
 
 ---
 
@@ -115,3 +122,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
 - [Videoportál: reakce na článek o rakovině (8. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
 - [Videoportál (28. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
+- [Videoportál: kauza Peková, zlatý věk (20. 8. 2026)](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)

@@ -166,6 +166,22 @@ Soňa Peková obdržela (po téměř dvou měsících) odpověď na svůj otevř
 
 ---
 
+### ⚡ Konflikt: odebrání znaleckého razítka jako formální otázka nestrannosti, ne umlčování (Tarabová, 20. 8. 2026)
+
+Na rozdíl od Černohorského rámování (viz výše) — kde snaha odebrat Pekové znalecké oprávnění je politicky motivovaná snaha úředníků z Babišovy éry ji umlčet — Tarabová cituje a vykládá stanovisko Ministerstva spravedlnosti odlišně. Podle ní ministerstvo nijak nezpochybnilo vědecké závěry ani odbornost Soni Pekové, ani o nich vůbec nerozhodovalo. Šlo čistě o formální porušení zákona o znalcích: znalec musí být nepodjatý a nesmí ve stejné věci zároveň veřejně vystupovat jako aktivista prosazující určitý názor. Peková podle citovaného stanoviska opakovaně vystupovala v médiích kriticky ke covidu (spolu se slovenským zmocněncem Kolárem) a tentýž postoj pak formalizovala jako „znalecký posudek" — čímž porušila princip nestrannosti, za což dostala pokutu a pokárání. Tarabová dodává, že takto podjatě postupuje podle jejích zkušeností velká část znalců (jmenovitě v porodnictví a vakcinologii), kteří by měli čelit stejné kritice. Uzavírá, že Peková na razítku není závislá a bude ve výzkumu pokračovat i bez něj.
+
+**Zdroje:** [Tarabová — Videoportál 20. 8. 2026](_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
+
+---
+
+### Kritika Rajchlova semináře v PS ke covidu jako „hrané divadlo" (Tarabová, 20. 8. 2026)
+
+Tarabová hodnotí seminář na půdě Poslanecké sněmovny věnovaný covidovým nesrovnalostem, na němž vystoupil Jindřich Rajchl, jako zklamání. Ačkoli podle ní Rajchl řekl řadu věcí, které mohly vzbudit naději, po vlastním prozkoumání situace uzavírá, že žádný reálný efekt tato snaha nemá — jde o „hranou snahu odhalovat nesrovnalosti", nikoli upřímný pokus o nápravu. Takové akce podle ní slouží jako divadlo odvádějící pozornost veřejnosti k jiným tématům.
+
+**Zdroje:** [Tarabová — Videoportál 20. 8. 2026](_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
+
+---
+
 ### Reiner Füllmich — uvěznění šéfa Corona-Ausschuss jako politický proces (Zítko, 12. 6. 2026)
 
 Zítko přenesl na svém kanálu (ze studia Bytel TV) první živý rozhovor s německým právníkem **Reinerem Füllmichem** od jeho zadržení 13. října 2023. Füllmich, zakladatel vyšetřovacího výboru Corona-Ausschuss, je dle Zítka vězněn ve věznici Bremervörde už 2,5 roku jako politický vězeň. Zítko a Füllmich popisují případ takto:
