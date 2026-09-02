@@ -476,3 +476,13 @@ Dále rozvádí vlastní, dlouhodobě opakovanou revizionistickou tezi o invazi 
 **Zdroje:** [Vrabel — Zprávy v devět 21. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026), [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
 
 ---
+
+### Rok 1968 jako předběhnutí chystané invaze NATO — Zítko cituje hlasování SSSR a cvičení „Černý lev" (25. 8. 2026)
+
+Zítko nabízí vlastní, od Vrabelovy odlišnou verzi revizionistického výkladu srpna 1968: tvrdí, že o invazi do Československa se v SSSR formálně hlasovalo mezi 15 svazovými republikami a že žádný Rus pro ni nehlasoval (jeden se zdržel nebo byl proti), zatímco všech sedm zástupců Ukrajiny (včetně Leonida Brežněva, kterého mylně řadí mezi Ukrajince) hlasovalo pro. Odkazuje na (nejmenovaný) rozsudek Soudního dvora EU a na slovenský případ „Harabin" z 12. ledna, které měly potvrdit, že „Rusko není agresor" — a na články „106 a 107" (bez upřesnění, o jaký právní dokument jde), které prý opravňují Rusko jako nástupnický stát SSSR zasáhnout proti fašismu a nacismu kdekoli na světě bez souhlasu ostatních vítězných mocností. Jako klíčový „důkaz" cituje sdílený komentář k vojenskému cvičení NATO „Černý lev" (Black Lion), které v srpnu 1968 proběhlo v jižním Německu poblíž tehdejších československo-západoněmeckých hranic (s účastí desítek tisíc až půl milionu vojáků NATO včetně amerických a francouzských jednotek) — interpretuje ho jako přípravu na „krvavé obsazení Československa" a invazi vojsk Varšavské smlouvy jako reakci, která NATO předešla „jen o hodiny". Srovnává to s vlastním tvrzením, že premiér Petr Fiala se „přiznal", že ČR dodávala zbraně Ukrajině ještě před 24. únorem 2022 (viz [Kauzy](kauzy.md#fiala-se-prý-přiznal-k-dodávkám-zbraní-ukrajině-před-24-únorem-2022-zítko-25-8-2026)).
+
+⚡ **Poznámka:** Tvrzení o hlasování v sovětském vedení, o rozhodnutích Soudního dvora EU a slovenského soudu ve věci „Harabin" a o citovaných „článcích 106 a 107" nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+
+---

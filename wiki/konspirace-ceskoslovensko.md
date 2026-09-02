@@ -205,4 +205,8 @@ Zítko k dosavadní argumentaci (viz výše) doplňuje nový důkaz: podle něj 
 
 **Zdroje:** [Československo TV2 — Videoportál 28. 7. 2026](_zdroje.md#československo-tv2--videoportál-28-7-2026)
 
+**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu opakuje výklad o neplatnosti rozdělení Československa (Havlova abdikace, zákon 542/1992, chybějící referendum) a o nároku na válečné reparace (29 bilionů Kč / 9 500 tun měnového zlata, kvantový finanční systém) jako téma, které na akci nebylo řešeno — beze změny oproti dřívějším videím.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+
 ---

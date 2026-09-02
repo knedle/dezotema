@@ -4231,3 +4231,10 @@
 - **URL:** <https://www.facebook.com/61586055215179/videos/3589868274493684>
 - **Datum záznamu:** 2026-08-25
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (25. 8. 2026) {#československo-tv2--videoportál-25-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-25_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1529993162235587&_rdr>
+- **Datum záznamu:** 2026-08-25
+- **Zpracováno:** ano

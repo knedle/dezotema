@@ -154,6 +154,10 @@ Soňa Peková obdržela (po téměř dvou měsících) odpověď na svůj otevř
 
 **Zdroje:** [Zítko — Videoportál: Hrad odpověděl na Pekovou, 26. 6. 2026](_zdroje.md#pavel-zítko--videoportál-hrad-odpověděl-na-pekovou-26-6-2026)
 
+**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech jmenuje čtyři osoby, za něž se Peková ve své petici o milost přimlouvala: Luboš Volný, Jana Petéková a Iveta Křížová byli odsouzeni za „šíření poplašné zprávy" v souvislosti s covidovými výroky, čtvrtým je sám Zítko (trest „tři roky natvrdo"). Samostatně zmiňuje případ Tomáše Čermáka, odsouzeného na 5,5 roku vězení za obvinění z „teroristického činu" (nikoli šíření poplašné zprávy) za jeho vyjádření o „covid mafii", masových vrazích a genocidě — obvinění, které dle Zítka na vlasteneckém setkání v Příčovech nikdo nezmínil.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+
 ---
 
 ### Snaha odebrat Pekové soudně-znalecké oprávnění — stížnost slovenského poslance SaS (Černohorský, 20. 8. 2026)
@@ -183,6 +187,24 @@ Zítko doplňuje kauzu dalšími jmény a detaily. Rozhodnutí o odebrání znal
 **21. 8. (večer)** — Zítko rozvádí kauzu o další vrstvu: studii slovenské Akademie věd (SAV), kterou vláda použila ke zpochybnění Pekové posudku, označuje odborník Kevin McKernan (dle Zítka „jeden z pěti největších světových odborníků" v oboru) za rovněž podjatou — autoři studie měli mít nedeklarované financování od výrobců mRNA vakcín, což podle Zítka představuje neuvedený střet zájmů srovnatelný s tím, z čeho byla obviněna Peková. Zdůrazňuje, že žádná ze stran zpochybňujících Pekovou analýzu neprovedla rozbor stejných vzorků (těch 34 vzorků zůstává uloženo u Pekové v mrazáku). Zmiňuje také, že slovenský politik Marian Kotleba podal trestní oznámení na Mgr. Jana Pačese, PhD. — muže, který na Pekovou původně podal stížnost vydávaje se za soudního znalce, ač jím nikdy nebyl.
 
 **Zdroje:** [ČsTV2 — Videoportál 21. 8. 2026 (večer)](_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
+
+---
+
+### Fiala se prý „přiznal" k dodávkám zbraní Ukrajině před 24. únorem 2022 (Zítko, 25. 8. 2026)
+
+Zítko tvrdí, že premiér Petr Fiala se „podřekl" a přiznal, že Česká republika dodávala zbraně a munici Ukrajině ještě před zahájením ruské „speciální operace" 24. února 2022 — což podle něj naplňuje skutkovou podstatu trestného činu podle § 406 a § 407 trestního zákoníku (příprava útočné války). Srovnává to s vlastní tezí o cvičení NATO „Černý lev" před invazí 1968 (viz [Petr Pavel](petr-pavel.md#rok-1968-jako-předběhnutí-chystané-invaze-nato--zítko-cituje-hlasování-sssr-a-cvičení-černý-lev-25-8-2026)) jako důkaz opakujícího se vzorce — přípravy Západu na konflikt předcházející oficiálnímu zahájení bojů.
+
+⚡ **Poznámka:** Tvrzení o konkrétním „přiznání" Petra Fialy nelze ověřit z veřejně dostupných zdrojů; § 406–407 trestního zákoníku se týkají přípravy útočné války vedené Českou republikou, nikoli dodávek zbraní třetí straně.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+
+---
+
+### Kritika vlasteneckého setkání v Příčovech — vyloučená témata a kritika panelistů (Zítko, 25. 8. 2026)
+
+Zítko nezávisle na Vrábelově kritice téže akce (viz [Politický systém — Setkání v Příčovech](politicky-system.md)) hodnotí vlastenecké setkání v Příčovech (23. 8.) jako akci, kterou „ukradli lidem politici a novináři" výběrem neutrálních, nekonfliktních témat. Vyjmenovává, co podle něj chybělo: ekonomické dopady Green Dealu a uhlíkových povolenek (odhaduje odliv 3,7 bilionu Kč ročně), otázka válečných reparací a právní kontinuity Československa (viz [Konspirace — Československo](konspirace-ceskoslovensko.md)), COVID-19 (výslech Fauciho v Kongresu, přiznání Davida Morense — viz [COVID a vakcíny](covid-vakciny.md)) a tresty odsouzených kritiků covidových opatření (viz výše). Kritizuje konkrétní účastníky panelu o nezávislosti médií — moderátora Marka Stoniše (šéfredaktor deníku, který dle Zítka vyhodil redaktora Pavla Cimbála po kampani proti němu) za nominaci bývalého ministra Cyrila Svobody na „největšího bojovníka za svobodu projevu" — a označuje účast politika Petra Štěpánka (Trikolóra) i řešení blízkovýchodního konfliktu na panelu o „středoevropské spolupráci" za tematicky nepatřičné pro akci prezentovanou jako vlastenecká.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
 
 ---
 

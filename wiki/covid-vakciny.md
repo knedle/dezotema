@@ -557,6 +557,10 @@ Zítko líčí dosavadní průběh svého trestního stíhání za „šíření
 
 **21. 8.** — V souvislosti s kauzou Peková (viz [Kauzy — třetí verze kauzy Peková](kauzy.md#třetí-verze-kauzy-peková-ministr-tejc-moderátor-salaj-jako-iniciátor-podpora-karla-janečka-zítko-21-8-2026)) znovu odkazuje na totéž usnesení Krajského soudu v Ústí nad Labem (nyní datuje na 18. 6. 2026) jako na potvrzení neizolace viru — beze změny oproti 6. 8.
 
+**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu zmiňuje totéž usnesení jako potvrzení neizolace viru — beze změny.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+
 **Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026), [ČsTV2 — Videoportál 6. 8. 2026](_zdroje.md#československo-tv2--videoportál-6-8-2026), [ČsTV2 — Videoportál 14. 8. 2026](_zdroje.md#československo-tv2--videoportál-14-8-2026), [ČsTV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
 ---
@@ -1087,3 +1091,9 @@ Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob co
 **21. 8. (večer, Janečkův článek)** — Zítko čte rozsáhlý text Karla Janečka reagující na Fauciho senátní slyšení. Janeček srovnává Fauciho odmítání odpovídat (111 odvolání na pátý dodatek, včetně otázky na barvu kravaty) s tím, jak covidoví „vědátoři" po celém světě požadovali bezpodmínečnou důvěru ve vědu. Fauciho označuje za „nejhoršího kouzelníka" a „zlosyna historického významu", který poškodil důvěru ve vědu víc než kdokoli od dob Josefa Mengeleho, a tvrdí, že lidé kladoucí legitimní otázky o původu viru a financování rizikového výzkumu byli systematicky dehonestováni. Žádá, aby byli k odpovědnosti voláni i čeští protějšky — jmenovitě uvádí Jana Konvalinku, Zdeňka Hella, Milana Kubka, Rastislava Maďara, Petra Smejkala, Jana Sempera, Václava Hořejšího, Jaroslava Flégra, Romana Chlíbka, Rudolfa Tachezyho a Vašákovou. Připomíná vlastní ranou kritiku covidových opatření (blog z 21. 3. 2020, veřejné vystoupení v listopadu 2021 proti očkování zdravých dětí), kterou nikdy nelitoval.
 
 **Zdroje:** [ČsTV2 — Videoportál 21. 8. 2026 (večer)](_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
+
+---
+
+**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu zmiňuje výslech Fauciho a přiznání Davida Morense (beze změny oproti 21. 8.) i pokles porodnosti (35 000 méně narozených ročně, jen 17 500 za 1. čtvrtletí 2026 — beze změny oproti dřívějším videím) jako témata, která na akci nebyla řešena.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)

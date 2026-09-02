@@ -38,6 +38,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **21. 8.** — opakuje beze změny (nyní datováno 18. 6.) tvrzení o usnesení Krajského soudu v Ústí nad Labem konstatujícím neizolaci SARS-CoV-2 — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 - **21. 8. (večer)** — krize WHO: bankrot, přes 4 800 odešlých zaměstnanců, rezignace hlavního vědeckého ředitele Farrara po Morensově přiznání, výpadek financování 1,7 mld. $ po odchodu USA a Argentiny — [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
 - **21. 8. (večer)** — rozsáhlý článek Karla Janečka: Fauci jako „zlosyn historického významu" srovnávaný s Mengelem, jmenuje české „covidisty" k odpovědnosti (Konvalinka, Hell, Kubek, Maďar, Smejkal, Sempr, Hořejší, Flégr, Chlíbek aj.) — [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
+- **25. 8.** — v přehledu vlasteneckého setkání v Příčovech opakuje beze změny Fauciho/Morensovo přiznání, pokles porodnosti a neizolaci SARS-CoV-2 (Ústí n. L.) jako vynechaná témata — [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -68,6 +69,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **21. 8.** — kauza Peková: iniciátorem eskalace moderátor Tomáš Salaj, rozhodnutí připisuje ministru Tejcovi, podpůrný komentář Karla Janečka — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 - **21. 8. (večer)** — kauza Peková pokračování: kritika slovenské studie SAV jako podjaté (McKernan — nedeklarované financování od výrobců mRNA vakcín), Kotleba podal trestní oznámení na Pačese — [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
 - **21. 8.** — rekapitulace tří trestních oznámení (genocida/vakcinační holokaust, Fiala za přípravu útočné války, bitcoinová kauza) + hypotetický scénář veřejné debaty proti „covidové sestavě" — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- **25. 8.** — jmenuje čtyři osoby stíhané za „šíření poplašné zprávy" ke covidu (Volný, Petéková, Křížová, Zítko sám) a samostatný případ Tomáše Čermáka (5,5 roku za „terorismus"); rozšiřuje obvinění Fialy z „přípravy útočné války" o paralelu s cvičením NATO „Černý lev" před invazí 1968; kritizuje výběr témat a panelistů na vlasteneckém setkání v Příčovech (Stoniš, Cyril Svoboda, Žantovský) — [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -125,6 +127,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **29. 7.** — „strukturovaná voda" H3O2 (Gerald Pollack) jako pseudovědecká alternativa k farmaceutickému průmyslu — [konspirace.md](../konspirace.md); Benešovy dekrety jako precedens poválečného uspořádání po konfliktu na Ukrajině (USA/Rusko/Čína rozhodnou, ne evropské vlády) — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md); opakuje beze změny financování Deníku N miliardáři a Kennedyho obchodní model farmaceutického průmyslu — [Videoportál 29. 7.](../_zdroje.md#československo-tv2--videoportál-29-7-2026)
 - **12. 8.** — predikce „Americké jubileum" 21. 9. 2026 (konec admirality law, nástup QFS, zatmění Slunce/Měsíce jako znamení) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md), [predikce.md](../predikce.md) — [Videoportál 12. 8.](../_zdroje.md#československo-tv2--videoportál-12-8-2026)
 - **21. 8.** — Karel Janeček zbohatl na bitcoinu (2017) díky insider informacím od CIA nebo Fedu — [konspirace.md](../konspirace.md) — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
+- **25. 8.** — nová verze revizionismu roku 1968 (hlasování v SSSR, EU soud/Harabin, cvičení NATO „Černý lev") — [petr-pavel.md](../petr-pavel.md); opakuje beze změny obnovu ČSR a válečné reparace (29 bil. Kč / 9500 t zlata) — [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -261,6 +264,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Marian Kotleba | ✅ pozitivní | Slovenský politik — podal trestní oznámení na Pačese, který se vydával za soudního znalce při útoku na Pekovou | 2026-08-21 | [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer) |
 | Jeremy Farrar | ○ neutrální | Hlavní vědecký ředitel WHO — rezignoval po odhalení skrývání původu viru souvisejícím s doznáním Davida Morense | 2026-08-21 | [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer) |
 | Anthony Fauci | ❌ negativní | Dle citovaného textu Karla Janečka „zlosyn historického významu" srovnatelný s Mengelem, poškodil důvěru ve vědu víc než kdokoli od 2. světové války | 2026-08-21 | [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer) |
+| Petr Fiala | ❌ negativní | Tvrzení, že se „přiznal" k dodávkám zbraní Ukrajině před 24. únorem 2022 — obviněn z přípravy útočné války (§406–407) | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026) |
+| Marek Stoniš | ❌ negativní | Šéfredaktor deníku T.O. a porotce ankety o svobodě projevu — kritizován za vyhození redaktora Pavla Cimbála a za nominaci Cyrila Svobody | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026) |
+| Cyril Svoboda | ❌ negativní | Nominován v anketě jako „největší hrdina svobody projevu" — Zítko to odmítá jako výsměch s ohledem na jeho roli v tvorbě ústavy | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026) |
 
 ---
 
@@ -335,3 +341,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál: Solární záblesk (25. 7. 2026)](../_zdroje.md#pavel-zítko--videoportál-solární-záblesk-25-7-2026)
 - [Videoportál (21. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 - [Videoportál (21. 8. 2026, večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
+- [Videoportál (25. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-25-8-2026)
