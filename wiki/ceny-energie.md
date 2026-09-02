@@ -306,6 +306,14 @@ K studii poradenské společnosti AFRY (pro Beyond Fossil Fuels), podle níž ve
 
 ---
 
+### CHEPS a přenos elektřiny z Německa přes ČR — Ivan Noveský a likvidace české energetiky (Vrabel, 22. 8. 2026)
+
+Bývalý zakladatel Energetického regulačního úřadu Ivan Noveský kritizuje plánované investice společnosti ČEPS (přenosová soustava) do sítě, které podle něj slouží především přenosu německé elektřiny přes české území — pokud je ERÚ uzná za „oprávněné náklady", promítnou se v řádu desítek miliard korun do regulovaných cen elektřiny pro české spotřebitele. Vrabel tvrdí, že o tomto mechanismu informuje už od podzimu 2025: ČEPS vybudovalo vedení z Německa přes jižní Čechy/Moravu dál do Rakouska a náklady na to už zaplatili čeští spotřebitelé v ceně drahé elektřiny. Doplňuje, že ČEPS zadává zakázky (nové řídicí systémy pro přenosovou soustavu) bez výběrového řízení firmám jako Bosch — na rozdíl od stíhání „malých lidí" tyto „obří krádeže" prý neřeší žádná policie ani státní zástupci. Skutečným cílem je podle Vrabela udělat z Německa "energetickou velmoc": Česko bylo dřív čistým vývozcem elektřiny, ale záměrnou likvidací vlastní energetické soustavy (viz i [„Bateriový zákon"](#bateriový-zákon-po-solárních-baronech-přicházejí-baterioví-baroni-vrabel-17-6-2026) výše) má být donuceno nakupovat přebytky z plánovaného německého 1000GW solárního programu. Vrabel oznamuje, že podpoří Noveského případnou kandidaturu do Senátu za SPD, přestože stranu jinak nemá rád.
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+---
+
 ### Sankce proti Rusku jsou neúčinné — Fabrizio Pagani (ex-G20) (Vrabel, 17. 6. 2026)
 
 Vrabel cituje bývalého vyjednavače za G20 Fabrizia Paganiho, podle něhož ekonomická válka Washingtonu nemůže Rusko k ničemu přinutit, protože Moskva už svou ekonomiku úspěšně izolovala. Vrabel souhlasí: Rusko sice sankcemi a omezením obchodu trpí, ale vybudovalo vlastní platební systém, navázalo se na BRICS, exportuje do Asie a postavilo nová potrubí — na plynu a ropě dnes vydělává „tolik, kolik před konfliktem", protože ceny vzrostly a našli se jiní odběratelé. Chystaný 21. balíček sankcí (mj. zákaz vystupování ruských umělců v EU) označuje za absurdní: „za chvilku budou sankce proti červené barvě, protože připomíná ruskou vlajku".
@@ -442,7 +450,9 @@ Vrabel komentuje zprávu, že energetická skupina EPH (Energetický a průmyslo
 
 K mediální zprávě, že budoucnost malých modulárních reaktorů (SMR) je „zatím nejistá", Vrabel doplňuje kontext, který podle něj média zamlčují: projekt ČEZ s britskou firmou Rolls-Royce (o kterém informoval už na podzim 2025) naráží na to, že pro tyto reaktory chybí palivo — kvůli sankcím na ruský obohacený uran není co do nich dávat. Tvrdí, že tuto souvislost veřejnost zjistí z médií „o půl roku později", než o ní referoval sám. Spojuje to se svou tezí o postupující ekonomické devastaci a deindustrializaci Západu, která se podle něj naplno projeví, až se začnou „skládat banky a měny".
 
-**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026)
+**22. 8.** — K analýze společnosti Sprott, podle níž evropské jaderné firmy navzdory sankcím dál nakupují ruský uran a související služby (dodávky uranu +7 %, konverze +9 %, obohacování +12 % meziročně; Rusko pokrývá ~16 % evropského trhu s uranem, 24 % konverzních a 23 % obohacovacích služeb), Vrabel rozšiřuje tezi o SMR: nejde jen o britský projekt Rolls-Royce, ale i o Temelín a Dukovany — reaktory jsou technicky konstruovány pro ruské palivo („trojhránky, kostičky, které do sebe zapadají") a přechod na americké palivo Westinghouse nefungoval. Uzavírá, že ČR má jen dvě možnosti: nechat ekonomiku zkolabovat, nebo nakupovat tam, kde palivo skutečně je — tedy z Ruska. Cituje i vlastní starší rozhovor s Ivanem Noveským o tom, že i západní Německo v době studené války stavělo svou ekonomiku na levném ruském plynu. Za viníka označuje především českou vládu, která podle něj měla po odklonu od Fialovy agendy prosadit energetickou suverenitu (vystoupení z EU) — namísto toho „naši politici" i nadále ideologicky odmítají ruské dodávky na úkor konkurenceschopnosti ČR.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026), [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
 
 ---
 

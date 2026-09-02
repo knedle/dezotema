@@ -316,6 +316,14 @@ Pavel Zítko (sám kandidát v prezidentských volbách 2023, kandidaturu prý v
 
 ---
 
+### Setkání v Příčovech — vlastenecká scéna jako loajální vůči vládě, kterou jinak kritizuje (Vrabel, 22. 8. 2026)
+
+Vrabel komentuje vlastenecké setkání v Příčovech (pod záštitou Tomia Okamury), na němž vystoupili mj. Okamura, Petr Žantovský, Marek Stoniš, Petr Štěpánek, Martina Kocijánová a Erik Best. Ocenil jen dva projevy — Honzu Svatoše (za konzistentní kritiku vlády i přes vlastní podporu koalice) a Erika Besta (za osobní vzpomínku, jak ho v roce 2022 varoval, že případnou úspěšnou revoluci nakonec „převezme někdo jiný", tedy Američané). Zbytek publika podle něj vyjadřoval nečekaně silné prorusko laděné sympatie. Okamuru kritizuje za to, že celý projev věnoval frázím o „skvělých česko-slovenských vztazích" a odmítl otázku, zda by neměl sjednocovat vlasteneckou scénu („ať přijdou za ním a volí SPD"). Vytýká celé „elitářské vlastenecké scéně", že se navzdory dlouhodobé kritice vlády na akci veřejně hlásí k její podpoře — a spojuje to se svou opakovanou tezí, že SPD za 12 let neprosadilo žádný ze svých programových bodů přímé demokracie (referendum o vystoupení z EU/NATO), přičemž Babiš explicitně odmítl referendum umožnit. Zmiňuje také, že jeho vlastní živé vysílání mělo v úvodu jen 55 diváků, což připisuje záměrnému omezování dosahu ze strany Facebooku/vlády.
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+---
+
 ## Evropský parlament a demokratický deficit
 
 ### EP jako divadlo — předem dohodnuté hlasování

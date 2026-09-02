@@ -318,6 +318,14 @@ K útoku, při němž zahynulo nejméně třináct lidí po rozsáhlém dronové
 
 ---
 
+### Putinova odveta za útok na sklad Wildberries — srovnání s ukrajinským útokem na pláž (Vrabel, 22. 8. 2026)
+
+Putin oznámil odvetu Ukrajině za útoky na ruské průmyslové podniky a infrastrukturu — konkrétně po ukrajinském úderu na obchodní centrum/sklad společnosti Wildberries, při němž zemřelo 16 lidí. Podle Putina Kyjev „vypustil džina z lahve" a Moskva nyní zasáhne citlivá místa ukrajinské ekonomiky; generální tajemník OSN Guterres útok odsoudil. Vrabel k tomu přímo srovnává nedávný ukrajinský raketový úder na pláž, při němž zahynulo 13 lidí, z toho 7 dětí — a uzavírá, že je mu líto obětí na obou stranách, ale pokud Ukrajina útočí na civilní cíle, nemůže se divit recipročním ruským úderům; jde už podle něj dávno o skutečnou válku, ne „speciální vojenskou operaci". Zdůrazňuje, že „ukrajinské" útoky ve skutečnosti provádí mezinárodní kontingent (Češi, Poláci, Němci, Francouzi, Britové, Američané) financovaný Západem, zatímco Ukrajincům už dochází vlastní lidé do tanků. Řešením by podle něj bylo zastavení financování a jednání o míru na ruských podmínkách (ochrana jazykových a náboženských práv obyvatel), namísto pokračujícího zbrojení — zmiňuje německé oznámení investice 12 mld. dolarů do hypersonických raket schopných útočit hluboko na ruské území jako důkaz, že „jsme na prahu třetí světové války".
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+---
+
 ## Stav Ukrajiny a mobilizace
 
 ### Dezerce ukrajinských vojáků z výcviku v Německu; drastické video mučení vlastních vojáků (Vrabel, 21. 8. 2026)

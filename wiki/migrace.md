@@ -271,6 +271,14 @@ Berlínské koupaliště zrušilo plánovanou akci vyhrazenou na několik hodin 
 
 ---
 
+### Marocký nárok na Ceutu a Melillu — hranice jako „uměle vytvořené", srovnání s Donbasem, Krymem, Kosovem a Republikou srbskou (Vrabel, 22. 8. 2026)
+
+Marocký ministr spravedlnosti označil nárok Rabatu na španělské enklávy Ceuta a Melilla (uplatňovaný od marocké nezávislosti v roce 1956) za „historické a geografické právo" a navrhl společnou komisi k jednání o jejich budoucnosti — zpráva přišla v době hromadného pokusu migrantů proniknout do Ceuty a probíhajících jednání Madridu s Rabatem o migraci a ochraně hranic. Vrabel odhaduje, že Maroko enklávy díky přátelství s Trumpem nakonec získá, a sám s tím nemá problém — rozvádí obecnější tezi (v reakci na diskusi s kamarádem-filozofem o „uměle namalovaných hranicích"): národnostní a státní hranice jsou skutečně politický konstrukt, ale problém není samotné překreslení hranic, nýbrž rozdělení lidí, kteří spolu chtějí žít v jednom státě, a jejich následné potlačování. Jako příklady „správného" sjednocení uvádí sjednocení Ruskem ovládaných obyvatel Donbasu a Krymu (kterým „nacionalisté" po roce 2014 zakazovali ruský jazyk a církev) a jako paralelní křivdy zmiňuje Kosovo (etničtí Srbové utlačováni pod správou NATO/Albánců) a Republiku srbskou v Bosně (dle Daytonské dohody podřízena bosňácké většině). Uzavírá, že problém marocké migrace do Evropy nespočívá v marockém nároku na vlastní historické území, ale v „děravých hranicích" a politice evropských vlád, které migranty na evropském území zadržují a integrují místo návratu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+---
+
 ### Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)
 
 Rajchl reaguje na článek Seznam Zpráv kritizující vládní plán zveřejňovat státní příslušnost pachatelů trestných činů. Tvrdí, že média (a ministr Rakušan) čtyři roky lhala, když uváděla, že kriminalita Ukrajinců je stejná či nižší než Čechů (Rakušan: „Ukrajinci jsou slušnější než Češi") — proto prý zveřejňování vadí, „ukázalo by pravdu". Navrhuje automatické vyhoštění za jakýkoli násilný trestný čin či přestupek spáchaný cizincem, s preventivním účinkem (Ukrajinci podle něj skončí „na frontě" u „zelenského odvodového komanda").

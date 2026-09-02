@@ -512,7 +512,9 @@ Ministr zahraničí Macinka navštívil Berlín 8. května 2026 — na Den vít�
 
 Vrabel to hodnotí jako „historicky nejhorší diplomatický akt od Havlovy humanitární bombardování" a sarkasmem komentuje: český ministr zahraničí slaví Den vítězství v Berlíně s čestným členem organizace přímého nástupce Henleinovy strany a jako hudební podkres vybere německou kapelu zpívající o „ty jsi mě zneužil/chtěl."
 
-**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026)
+**22. 8.** — Vrabel doplňuje jméno hostitele: pozvání do Berlína na 9. 5. Macinkovi vystavil německý ministr zahraničí Johann Wadephul, kterého Petr Pavel následně přijal na Hradě. K aktuální zprávě, že Wadephul navštívil Kyjev kvůli jednání o posílení ukrajinské protivzdušné obrany (bez konkrétního příslibu nových systémů), Vrabel řadí Pavla, Babiše i Macinku do „jedné sebranky" politiků, kteří dělají „úplně to samé" — podporují zbrojaře v USA, plní pokyny EU a „lezou do pozadí" Německu; jejich vzájemné hádky označuje za „divadlo pro lidi", aby vypadalo, že mají odlišné názory.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026), [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
 
 ---
 

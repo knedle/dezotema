@@ -321,7 +321,9 @@ Vrabel informuje, že Peter Magyar — lídr opozice, který vyhrál volby — n
 
 Vrabel cituje výrok Jean-Luca Mélenchona, lídra levicové aliance La France Insoumise: pokud vyhraje francouzské prezidentské volby v roce 2027, Francie pod jeho vedením opustí NATO. Vrabel to zmiňuje jako jednu ze sil, které mohou v blízkých letech přeformovat atlantické spojenectví — vedle Trumpových výroků o NATO jako „papírovém drakovi."
 
-**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026)
+**22. 8.** — K průzkumu z jara 2026 (54 % Francouzů by hlasovalo pro setrvání v alianci) Vrabel upřesňuje pozice kandidátů před volbami 2027: Marine Le Pen prosazuje jen odchod z integrovaného vojenského velení NATO (ne z celé aliance), zatímco Mélenchon žádá úplné vystoupení a větší nezávislost evropské bezpečnostní politiky. Připomíná, že Francie je jedinou jadernou mocností v EU s jednou z nejsilnějších armád, takže by její odchod výrazně ovlivnil evropskou bezpečnost — sám to ale považuje za nepravděpodobné a nevěří, že by Le Pen volby vyhrála; odhaduje, že z NATO by naopak spíš mohly vystoupit malé země jako ČR nebo Slovensko po vzoru vojensky neutrálního Rakouska, Švýcarska či Srbska.
+
+**Zdroje:** [Vrabel — Večerní zprávy: Macinka v Německu, Fico v Moskvě, 9. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-macinka-v-německu-fico-v-moskvě-9-5-2026), [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
 
 ---
 

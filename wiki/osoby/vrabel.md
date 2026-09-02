@@ -755,6 +755,25 @@
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 5)
 - **21. 8.** — EU „28. režim" pro firmy jako krok k federalizaci — vlastenecké strany to umožnily — [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 6)
+- **22. 8.** — Setkání v Příčovech — vlastenecká scéna jako loajální vůči vládě, kterou jinak kritizuje — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 8)
+- **22. 8.** — Ivan Noveský a CHEPS — přenos elektřiny z Německa přes ČR, likvidace české energetiky — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+- **22. 8.** — Evropská závislost na ruském uranu i pro plánované malé reaktory — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 10)
+- **22. 8.** — Putinova odveta (sklad Wildberries) vs. ukrajinský útok na pláž — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 8)
+- **22. 8.** — Budoucnost Francie v NATO — Le Pen vs. Mélenchon — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+### [Benešovy dekrety](../benesovy-dekrety.md)
+- **22. 8.** — Wadephul v Kyjevě — spojení s Macinkou/Landsmannschaftem, „jedna sebranka" politiků — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 11)
+- **22. 8.** — Maroko nárokuje Ceutu/Melillu — filozofie hranic, srovnání s Donbasem/Krymem/Kosovem/Republikou srbskou — [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1132,6 +1151,11 @@
 | Petr Pavel | ❌ negativní | Označen za pokrytce za projev k výročí 1968 (bývalý rozvědčík kritizující ty, komu sloužil); jeho hodnocení Ruska jako agresora označeno jen za soukromý názor bez opory v mezinárodním právu | 2026-08-21 | [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026) |
 | Andrej Babiš | ❌ negativní | Označen za „zrádce českého národa" za odmítnutí referenda o vystoupení z EU — jmenovaný terč s výzvou k oběšení (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-21 | [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026) |
 | Donald Tusk | ❌ negativní | Za schvalování sabotáže Nord Streamu (výrok, že by se měli stydět jeho stavitelé) by měl podle Vrabela skončit ve vězení za schvalování teroristického činu | 2026-08-21 | [Zprávy v devět 21. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026) |
+| Tomio Okamura | ❌ negativní | Na setkání v Příčovech mluvil jen frázemi o vztazích se Slovenskem, odmítl otázku na sjednocení vlastenecké scény; SPD za 12 let nesplnilo slib přímé demokracie | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
+| Erik Best | ✅ pozitivní | Vzpomínka na osobní setkání 2022 — varoval Vrabela, že úspěšnou revoluci by nakonec „převzal někdo jiný" (Američané) | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
+| Ivan Noveský | ✅ pozitivní | Bývalý zakladatel ERÚ, kandidát do Senátu za SPD — Vrabel ho i přes nechuť k SPD hodlá podpořit; oceňuje jeho odbornost | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
+| Vladimir Putin | ⚖️ rozporuplný | Odveta za útok na sklad Wildberries označena za pochopitelnou reakci na ukrajinské útoky na civilisty | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
+| Petr Macinka | ❌ negativní | Pozvání do Berlína 9. 5. vystavil ministr Wadephul; řazen do „jedné sebranky" s Pavlem a Babišem dělající „úplně to samé" | 2026-08-22 | [Zprávy v devět 22. 8.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026) |
 
 ---
 
@@ -1242,3 +1266,4 @@
 - [Zprávy v devět (19. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
 - [Zprávy v devět (20. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
 - [Zprávy v devět (21. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
+- [Zprávy v devět (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
