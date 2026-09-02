@@ -320,7 +320,9 @@ Pavel Zítko (sám kandidát v prezidentských volbách 2023, kandidaturu prý v
 
 Vrabel komentuje vlastenecké setkání v Příčovech (pod záštitou Tomia Okamury), na němž vystoupili mj. Okamura, Petr Žantovský, Marek Stoniš, Petr Štěpánek, Martina Kocijánová a Erik Best. Ocenil jen dva projevy — Honzu Svatoše (za konzistentní kritiku vlády i přes vlastní podporu koalice) a Erika Besta (za osobní vzpomínku, jak ho v roce 2022 varoval, že případnou úspěšnou revoluci nakonec „převezme někdo jiný", tedy Američané). Zbytek publika podle něj vyjadřoval nečekaně silné prorusko laděné sympatie. Okamuru kritizuje za to, že celý projev věnoval frázím o „skvělých česko-slovenských vztazích" a odmítl otázku, zda by neměl sjednocovat vlasteneckou scénu („ať přijdou za ním a volí SPD"). Vytýká celé „elitářské vlastenecké scéně", že se navzdory dlouhodobé kritice vlády na akci veřejně hlásí k její podpoře — a spojuje to se svou opakovanou tezí, že SPD za 12 let neprosadilo žádný ze svých programových bodů přímé demokracie (referendum o vystoupení z EU/NATO), přičemž Babiš explicitně odmítl referendum umožnit. Zmiňuje také, že jeho vlastní živé vysílání mělo v úvodu jen 55 diváků, což připisuje záměrnému omezování dosahu ze strany Facebooku/vlády.
 
-**Zdroje:** [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+**22. 8. (dopolední video)** — Vrabel v krátkém navazujícím videu totéž téma opakuje, s jednou novou paralelou: srovnává manipulaci českých voličů s „operací Trump" v USA — v obou případech byl divákům nabídnut zdánlivý představitel „opozice" proti předchozímu establishmentu, aby si ho zamilovali, zatímco vede tutéž politiku. Uzavírá, že „vlastenectví ukradli globalisté" stejně jako v Americe — mávají vlajkou, ale dělají globalismus.
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026), [Vrabel — Facebook Live, dopolední, 22. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-dopolední-22-8-2026)
 
 ---
 

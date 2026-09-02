@@ -1267,3 +1267,4 @@
 - [Zprávy v devět (20. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
 - [Zprávy v devět (21. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-8-2026)
 - [Zprávy v devět (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-8-2026)
+- [Facebook Live, dopolední (22. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dopolední-22-8-2026)
