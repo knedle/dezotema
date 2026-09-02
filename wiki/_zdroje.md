@@ -4056,3 +4056,10 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1054683694216927>
 - **Datum záznamu:** 2026-08-19
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál (20. 8. 2026, kauza Peková) {#jiří-černohorský--videoportál-20-8-2026-kauza-peková}
+- **Soubor:** [přepis](prepisy/done/2026-08-20_Jiří-Černohorský-Živě_Videoportál_1.txt)
+- **Kanál:** Jiří Černohorský Živě
+- **URL:** <https://www.facebook.com/100085862388850/videos/1866064561037407>
+- **Datum záznamu:** 2026-08-20
+- **Zpracováno:** ano

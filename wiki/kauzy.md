@@ -156,6 +156,16 @@ Soňa Peková obdržela (po téměř dvou měsících) odpověď na svůj otevř
 
 ---
 
+### Snaha odebrat Pekové soudně-znalecké oprávnění — stížnost slovenského poslance SaS (Černohorský, 20. 8. 2026)
+
+Černohorský v rozhovoru popisuje, že poslanec slovenské strany SaS (Sloboda a Solidarita) podal na Slovensku formální stížnost směřující k tomu, aby Soňa Peková přišla o oprávnění soudní znalkyně — v reakci na to, že poskytla vlastní odborný posudek pro proces s Kolárem/Falcim, jehož závěry byly následně publikovány i v amerických a německých médiích. Černohorský tvrdí, že za snahou Pekovou takto umlčet stojí čeští úředníci z doby Babišovy vlády, kteří byli zapojeni do neprůhledných covidových zakázek (např. předražený nákup roušek) — Pekové posudek podle něj ohrožuje právě je, ne současnou vládu, a jejich motivací je, aby vše bylo promlčeno dřív, než by pravda vyšla najevo.
+
+> „Naše instituce v době Babiše provede tohle, co bych očekával od Fialy." — Jiří Černohorský, [Videoportál 20. 8. 2026](_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
+
+**Zdroje:** [Černohorský — Videoportál 20. 8. 2026](_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
+
+---
+
 ### Reiner Füllmich — uvěznění šéfa Corona-Ausschuss jako politický proces (Zítko, 12. 6. 2026)
 
 Zítko přenesl na svém kanálu (ze studia Bytel TV) první živý rozhovor s německým právníkem **Reinerem Füllmichem** od jeho zadržení 13. října 2023. Füllmich, zakladatel vyšetřovacího výboru Corona-Ausschuss, je dle Zítka vězněn ve věznici Bremervörde už 2,5 roku jako politický vězeň. Zítko a Füllmich popisují případ takto:

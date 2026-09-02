@@ -75,6 +75,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Meeting Brno 15 mil. na sudetoněmecké akce — [FB Live „dopoledníček" 21. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-dopoledníček-21-5-2026)
 - Hejtman Grolich (KDU-ČSL) žádá občany o finanční dary na kampaň — nedůstojné a pokrytecké — [Videoportál: Grolich žebrá o peníze 30. 6. 2026](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
 - **17. 8.** — Kauza „Terezy": podezření na koordinovaný postup policie, soudu a školy proti matce po nočním „lízacím testu"; první brněnské hody jako plýtvání (socha 10–12 mil. Kč) — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
+- **20. 8.** — Snaha slovenské SaS a českých úředníků z doby Babišovy vlády odebrat Soně Pekové soudně-znaleckou způsobilost kvůli posudku v procesu s Kolárem/Falcim — [Videoportál 20. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
@@ -228,6 +229,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Oliver Zipse | ✅ pozitivní | Šéf BMW — „snad jediný chlap v evropském autoprůmyslu, kterému ještě zbyly koule"; marně varoval EU před zákazem spalovacích motorů | 2026-07-02 | [Videoportál: krach automobilového průmyslu](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026) |
 | Dan Novák | ❌ negativní | Veřejně se chlubil, že věděl o zmařené reklamní kampani na dopravním podniku Brna a že Černohorského „slušně poslali do prdele" | 2026-08-17 | [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026) |
 | Lenka Tarabová | ❌ negativní | Obviněna, že jí (spolu s Novákem) někdo ze soukromého chatu komunity vynáší interní informace | 2026-08-17 | [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026) |
+| Soňa Peková | ✅ pozitivní | Hájena proti snaze o odebrání soudně-znaleckého oprávnění po jejím posudku v procesu s Kolárem/Falcim — srovnáno s Rajchlovou kritikou stejné kauzy | 2026-08-20 | [Videoportál 20. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková) |
 
 ---
 
@@ -276,3 +278,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: krach automobilového průmyslu (2. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
 - [FB Live: letní sestřih (3. 7. 2026)](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
 - [Videoportál: chemtrails na obloze (3. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
+- [Videoportál (20. 8. 2026, kauza Peková)](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
