@@ -1,0 +1,38 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jiří Černohorský Živě
+URL:          https://www.facebook.com/100085862388850/videos/2146277402984282
+Datum videa:  2026-08-25
+Zpracováno:   2026-08-26 17:06:51
+Jazyk:        cs
+Délka:        00:02:02
+Zhlédnutí:    1 180
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    0s
+Přepis:       16s
+Rychlost:     7.3x realtime
+Celkem:       16s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Vystoupí poslanec Miroslav Ševčík k rozpočtu na příští rok a k zákonu o doplňkovém tenzijním spoření.
+[00:06] Dobrý den, dámy a pánové, dovolte, abych zdůvodnil, proč jdeme s cestou, že chceme přihlasovat Pávkovo,
+[00:18] teda Petra Pavla Pávka, ve to. Musíme si uvědomit, že my jsme přišli k vládě a sestavujeme první vlastní rozpočet.
+[00:29] Ten rozpočet pro letošní rok byl sestavován na základě falešných údajů, na základě nedostatků,
+[00:38] kde chyběly na jednotlivých ministerstvech až 100 miliard koruna, kdy chyběly peníze státním fondu dopravní infrastruktury přes 38 miliard.
+[00:51] My si uvědomujeme, že nelze změnit ty rozpočty z roku na rok.
+[00:58] Je tam potřeba udělat řadu legislativních změn. Nechceme měnit sociální mandatorní výdaje,
+[01:07] ale chceme, aby byly adresné a směřovaly těm, kteří je opravdu potřebují.
+[01:12] Chceme ale změnit tzv. kvazimandatorní výdaje, to znamená hledáme další úspory v těchto finančních prostředcích,
+[01:22] což se podařilo vlastně užít v tomto rozpočtu ve výši téměř 12 miliard.
+[01:28] Velmi často slyšíme kritiku ze strany současné opozice, ale to, co tady pro nás zanechali, tak to opravdu nelze změnit hned.
+[01:41] A já bych použil název českého filmu, který asi mnozí znáte s Bolkem Polívkou,
+[01:49] Dědictví aneb ku hoši gutn tách, takže jsem neřekl to sprosté slovo, které je v tom názvu,
+[01:56] ale je potřeba, aby se promluvil.
+[01:58] Aby se obrali, aby si přiznali to, co nám tady nechali.
