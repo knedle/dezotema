@@ -55,6 +55,10 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 - Demografická náhrada jako nevyhnutelná i v „nejlepším scénáři" (občanství, porodnost); rada mladým mužům — [6. 8.](../_zdroje.md#restart-česko--videoportál-6-8-2026)
 
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+
+- Zelenskyj odmítá svobodné volby, protože by prohrál; vydělává na pokračování války, EU financuje strach jako nástroj kontroly svobod — [24. 8.](../_zdroje.md#restart-česko--videoportál-24-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -74,3 +78,4 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Danuše Nerudová | ❌ negativní | Europoslankyně STAN — jmenována jako podporovatelka Chat Controlu | 2026-08-21 | [Chat Control](../_zdroje.md#restart-česko--videoportál-chat-control-21-8-2026) |
 | Petr Pavel | ❌ negativní | Ironicky nazván „agent Pávek" — kritizován za výrok, že „Spojené státy evropské" jsou jediným východiskem pro ČR | 2026-08-22 | [Videoportál 22. 8.](../_zdroje.md#restart-česko--videoportál-22-8-2026) |
 | Petr Pavel | ❌ negativní | Konfrontován se svým životopisem z 1987 (obdiv k SSSR), odmítl odpovědět, zda tomu tehdy věřil; přirovnán k „novodobému komunistovi" a bývalému rozvědčíkovi okrádajícímu dnešní spojence | 2026-08-23 | [Videoportál 23. 8.](../_zdroje.md#restart-česko--videoportál-23-8-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Odmítá svobodné volby, protože by je prohrál; vydělává na pokračující válce financované EU/NATO/USA | 2026-08-24 | [Videoportál 24. 8.](../_zdroje.md#restart-česko--videoportál-24-8-2026) |

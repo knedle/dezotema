@@ -328,6 +328,14 @@ Putin oznámil odvetu Ukrajině za útoky na ruské průmyslové podniky a infra
 
 ## Stav Ukrajiny a mobilizace
 
+### Zelenskyj odmítá svobodné volby — vydělává na válce, EU financuje strach jako nástroj kontroly (Šejna, 24. 8. 2026)
+
+Šejna reaguje na Zelenského odmítnutí uspořádat svobodné volby, dokud neskončí konflikt s Ruskem (odůvodněné rizikem pro Ukrajinu za války). Tvrdí, že Zelenskyj se ve skutečnosti bojí prohrát — ví, že lidé na Ukrajině chtějí ukončení války, a odmítá riskovat volby, protože by je nevyhrál. Podle Šejny je jediným motivem vydělávání na pokračování konfliktu (peníze z EU, NATO a USA) a udržování napětí mezi Ruskem a Evropou, protože Rusko jednou dobyté území nikdy nevrátí — reálným řešením by bylo přijmout ztrátu části území výměnou za zachování zbytku svobodné Ukrajiny. Rozšiřuje to na obecnější tezi: EU podle něj udržuje evropské občany ve strachu z Ruska (které dle Šejny kvůli členství v NATO nezaútočí), aby ospravedlnila postupné omezování jejich svobod.
+
+**Zdroje:** [Restart Česko — Videoportál 24. 8. 2026](_zdroje.md#restart-česko--videoportál-24-8-2026)
+
+---
+
 ### Dezerce ukrajinských vojáků z výcviku v Německu; drastické video mučení vlastních vojáků (Vrabel, 21. 8. 2026)
 
 Německý deník Die Zeit informoval, že v Sasku a Sasku-Anhaltsku úřady evidují zhruba 80 případů, kdy ukrajinští vojáci opustili výcvik v Německu — jako důvody uváděli obavu z nasazení na frontě, snahu vrátit se k rodinám nebo konflikty s nadřízenými (od roku 2022 prošlo výcvikem v Německu přes 29 000 ukrajinských vojáků). Vrabel to považuje za pochopitelné vzhledem k tomu, „co jim tam dělají" — v ČR je podle jeho odhadu vedeno trestní řízení kvůli neoprávněnému opuštění posádky proti čtvrt milionu Ukrajinců. Pouští divákům bez předchozího varování drastické video, které popisuje jako záznam toho, jak ukrajinská armáda zachází s vlastními vojáky — svazování ke stromu, polévání moči, vláčení za autem přivázaným lanem až k smrti — a tvrdí, že podobné praktiky se dříve používaly i civilně (např. veřejné potrestání zlodějů v obchodech) se souhlasem policie, a že týrání vojáků na frontě probíhá se souhlasem/schválením velitelů jednotek. Z toho vyvozuje obecné hodnocení „jejich mentality" a spojuje to s tím, že v ČR žije oficiálně půl milionu, neoficiálně až dva miliony Ukrajinců.
