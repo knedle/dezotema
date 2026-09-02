@@ -77,6 +77,10 @@ Rajchl kritizuje schválenou unijní regulaci Chat Control, která podle něj um
 
 **Zdroje:** [Šejna — Restart Česko: Videoportál, 15. 8. 2026](_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
 
+**21. 8.** — Šejna pokračuje v kritice Chat Controlu a jmenovitě zmiňuje europoslance, kteří ho podpořili (Tomáš Zdechovský za KDU-ČSL, Danuše Nerudová za STAN). Odmítá oficiální zdůvodnění (ochrana dětí před sexuálním vydíráním a šířením nahých fotografií) jako zástěrku — skutečným cílem je podle něj plošné sledování soukromé komunikace všech občanů, včetně nevinných fotek z výletů nebo intimního obsahu mezi partnery, který by tak mohl kdokoli vidět. Označuje to za „opravdu komunistickou věc", ne jen socialistickou.
+
+**Zdroje:** [Restart Česko — Videoportál: Chat Control, 21. 8. 2026](_zdroje.md#restart-česko--videoportál-chat-control-21-8-2026)
+
 ---
 
 ### Kryptoměny: sledování státem a hrozba kvantových počítačů (Vrabel, 31. 5. 2026)

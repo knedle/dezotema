@@ -186,6 +186,14 @@ Adam Šejna (Restart Česko) kritizuje hnutí STAN za to, že se prezentuje jako
 
 ---
 
+### TOP 09 a státní pozemky pro levnější bydlení — bydlení je odpovědnost jednotlivce, ne státu (Šejna, 21. 8. 2026)
+
+Šejna reaguje na návrh TOP 09 využít státní pozemky k výstavbě levnějšího bydlení. Uznává, že jde o legitimní úhel pohledu (stát má nevyužité pozemky, které by mohly lidem pomoci s bydlením), ale odmítá ho: bydlení je podle něj odpovědností jednotlivce, ne státu, a státní pozemky by měly sloužit spíš investicím, které státu vydělávají peníze, než výstavbě bytů. Jako skutečné řešení nedostatku a zdražování bytů navrhuje přestat šikanovat developery zdlouhavým povolovacím procesem — právě umělé prodlužování výstavby vytváří podle něj umělý nedostatek bytů, který zvyšuje jejich cenu; řešením je umožnit rychlejší výstavbu.
+
+**Zdroje:** [Restart Česko — Videoportál: TOP 09 a státní pozemky, 21. 8. 2026](_zdroje.md#restart-česko--videoportál-top-09-a-státní-pozemky-21-8-2026)
+
+---
+
 ## Sociální dávky
 
 ### Sociální dávky jako závislost — analogie s krmením divoké zvěře (Šejna, 30. 7. 2026)

@@ -4084,3 +4084,17 @@
 - **URL:** <https://www.facebook.com/100083247552502/videos/1776978986824213>
 - **Datum záznamu:** 2026-08-21
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál: Chat Control (21. 8. 2026) {#restart-česko--videoportál-chat-control-21-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-21_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1280317260787125>
+- **Datum záznamu:** 2026-08-21
+- **Zpracováno:** ano
+
+## Restart Česko — Videoportál: TOP 09 a státní pozemky (21. 8. 2026) {#restart-česko--videoportál-top-09-a-státní-pozemky-21-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-21_Restart-Cesko_Videoportál_2.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1366544279026364>
+- **Datum záznamu:** 2026-08-21
+- **Zpracováno:** ano

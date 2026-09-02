@@ -12,6 +12,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Petr Pavel a nestrannost Ústavního soudu (rychlost rozhodnutí ve prospěch Pavla vs. běžné soudy) — [29. 7.](../_zdroje.md#adam-šejna--petr-pavel-a-nestrannost-ústavního-soudu-29-7-2026)
 - Sociální dávky jako závislost (analogie s krmením divoké zvěře) — [30. 7.](../_zdroje.md#adam-šejna--sociální-dávky-jako-závislost-30-7-2026)
 - Piráti a regulace Airbnb v Praze jako „komunistický" zásah do vlastnictví — [19. 8.](../_zdroje.md#restart-česko--videoportál-19-8-2026)
+- TOP 09 a státní pozemky pro levnější bydlení — bydlení je odpovědnost jednotlivce, řešením je zrychlení povolování pro developery — [21. 8.](../_zdroje.md#restart-česko--videoportál-top-09-a-státní-pozemky-21-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -37,6 +38,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 ### [Digitální kontrola](../digitalni-kontrola.md)
 
 - Programovatelné digitální euro a Chat Control jako protiústavní; pokrytectví politiků, kteří Chat Control podpořili — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
+- Chat Control jmenovitě kritizuje Zdechovského a Nerudovou — nejde o ochranu dětí, ale o plošné sledování soukromé komunikace, „opravdu komunistická věc" — [21. 8.](../_zdroje.md#restart-česko--videoportál-chat-control-21-8-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -66,3 +68,5 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Petr Pavel | ❌ negativní | Netají se přáním zavést euro; součást „zaprodávání" republiky evropskému establishmentu | 2026-08-15 | [Šejna](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026) |
 | Nora Fridrichová | ❌ negativní | Urazila Šejnu po odmítnutí pozvání do jejího podcastu | 2026-08-18 | [Šejna](../_zdroje.md#restart-česko--videoportál-18-8-2026) |
 | Daniel Cortus | ❌ negativní | „Klimatomluva" — veřejně napadá Filipa Turka za odmítnutí rozhovoru, aktivismus schovaný za profesi | 2026-08-18 | [Šejna](../_zdroje.md#restart-česko--videoportál-18-8-2026) |
+| Tomáš Zdechovský | ❌ negativní | Europoslanec KDU-ČSL — jmenován jako podporovatel Chat Controlu, zástěrky plošného sledování soukromé komunikace | 2026-08-21 | [Chat Control](../_zdroje.md#restart-česko--videoportál-chat-control-21-8-2026) |
+| Danuše Nerudová | ❌ negativní | Europoslankyně STAN — jmenována jako podporovatelka Chat Controlu | 2026-08-21 | [Chat Control](../_zdroje.md#restart-česko--videoportál-chat-control-21-8-2026) |
