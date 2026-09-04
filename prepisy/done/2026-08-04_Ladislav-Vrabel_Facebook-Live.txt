@@ -1,0 +1,1189 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1547316833855838
+Datum videa:  2026-08-04
+Zpracováno:   2026-08-08 13:31:15
+Jazyk:        cs
+Délka:        00:59:09
+Popis:        4. 8. 2026 - Zprávy v devět s komentářem + host Michala Gánovská
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    28s
+Přepis:       11m 34s
+Rychlost:     5.1x realtime
+Celkem:       12m 3s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:56] Vážení přátelé, vítám vás u Večerních zpráv s komentářem.
+[03:00] Dneska je 4. srpna roku 2026.
+[03:03] Musím vám na úvod říct, že jsem maličko nervózní,
+[03:07] trochu adrenalínu, to jsme tady dlouho neměli,
+[03:10] protože tady máme dneska hosta a do poslední chvíle nám to dělalo maličko,
+[03:15] technický problémy se připojí, takže doufujeme, že bude všechno dobře fungovat.
+[03:19] Zuzko, hezký večer i tobě.
+[03:21] Krásný večer všem.
+[03:21] Zdravím vás všechny, kteří píšete komentáře z různých částí světa
+[03:27] i z různých částí České republiky.
+[03:30] Pojďme na zprávy, dneska máme hodně zpráv, takže pojďme na zprávy.
+[03:35] Celkem 982 studentů úspěšně absolvovalo čtyřtýdenní dobrovolné vojenské cvičení
+[03:42] a složilo vojenskou přísahu.
+[03:44] Výcvik zvládlo 759 mužů a 223 žen,
+[03:48] kteří prošli taktickou přípravou s třelbami,
+[03:51] první pomoci, přesuny se zátěží i výcvikem přežití bez běžného komfortu.
+[03:57] Letošní ročník zaznamenal rekordní zájem.
+[03:59] Nastoupilo 1133 studentů ve věku 18 až 22 let.
+[04:04] Nevšichni náročný program samozřejmě dokončili.
+[04:08] Část absolventů následně pokračuje ve studiu na Univerzitě obrany,
+[04:13] vstupuje do armády České republiky nebo do aktivních záloh.
+[04:18] Tak kolik lidí, že složila přísahu armádě?
+[04:21] 1133 studentů.
+[04:51] Děkujeme, že od našeho ministra zahraničí Petra Macinky
+[04:54] tak se chystá také povinná vojenská služba.
+[04:58] Tak ale není to jenom Česká republika, kde se doplňují stavy vojáků.
+[05:02] Pojďme na další zprávu.
+[05:06] Dánsko prodloužilo povinnou vojenskou službu ze čtyř na jedenáct měsíců.
+[05:14] Opatření je součástí posilování obrany v reakci na válku na Ukrajině.
+[05:19] Do nového programu nastoupilo přibližně 1600 mladých Dánů.
+[05:24] Dánů se hlásí dobrovolně.
+[05:26] Pokud jich ale není dostatek, armáda doplňuje stavy losováním.
+[05:30] Přibližně pětinu letošních odvedenců tvoří ženy.
+[05:33] Novinkou je také zavedení povinné vojenské služby pro ženy starší 18 let.
+[05:39] Mezi novými rekruty je i devatenáctiletá princezna Izabela,
+[05:43] která bude sloužit u gardového husarského kluku.
+[05:47] Tak víte, že s kým přišli Němci, že by dělali losování pro mladé Brance,
+[05:52] ale to by bylo asi...
+[05:54] To by bylo velmi tvrdé, kdyby s kým začali v Německu,
+[05:56] takže se začalo s takovou zemí, kde to vypadá velmi nenápadně,
+[05:59] a to je Dánsko.
+[06:00] My jsme si tady o tom bavili v souvislosti s filmem Hunger Games, Hladové hry,
+[06:05] že tam taky losují v podstatě v každém tom distriktu
+[06:09] nějaké ty děky, které potom jdou bojovat na život a na smrt.
+[06:12] Říkal jsem vám, že to pravděpodobně čeká Evropu,
+[06:15] že Hunger Games je takový science fiction trošičku jako dokument z budoucnosti.
+[06:19] A Dánové s kým začaly?
+[06:21] Aby se doplňovali vojáci, tak Dánové losují.
+[06:26] Sice za kým jsou to nízké počty, ale víme, jak to funguje všechno salámovou metodou,
+[06:30] takže noví vojáci se připravují i v Dánsku.
+[06:35] A samozřejmě je potřeba počítat s kým, že všechny státy,
+[06:38] minimálně koalice ochotných, Evropské unie
+[06:41] a pravděpodobně možná i větší částky NATO,
+[06:45] budou teďkon zavádět povinnou vojenskou službu, nabírat brance.
+[06:49] Když to nepůjde dobrovolně,
+[06:51] dalším krokem bude losování minimálně do té doby,
+[06:54] než bude mobilizace povinná.
+[06:56] Také je docela zajímavé, že šla příkladem devatenáctletá princezna,
+[07:00] takže vidíte, že to je agenda, která se tlačí z hora,
+[07:05] z elit a je potřeba prostě brát nové vojáky,
+[07:08] protože konflikt na Ukrajině a konflikt na Blízkém východě
+[07:12] vůbec nevypadá, že by se měl nějakým způsobem uklidňovat.
+[07:15] Naopak, Evropa se připravuje na válku,
+[07:18] takže je potřeba, aby brali v první řadě naše děti.
+[07:21] Nejdřív vojáci, pak zálohy,
+[07:25] mezi tím mladí branci a potom to bude ročník po ročníku.
+[07:30] Pojďme na další zprávu.
+[07:33] Odstředy vstoupí v Evropské unii v platnost nová pravidla
+[07:37] pro poskytování dočasné ochrany občanům Ukrajiny.
+[07:41] Podle nové úpravy získají tento status u nově podaných žádostí
+[07:45] pouze osoby, které splnily své vojenské povinnosti vůči Ukrajině.
+[07:50] Změna se vztahuje výhradně na žádosti o dočasnou ochranu
+[07:54] podané od 1. srpna letošního roku.
+[07:58] Na osoby, kterým byla ochrana přiznána dříve,
+[08:01] se nová pravidla nevztahuje.
+[08:04] Nová legislativa zároveň prodloužuje platnost
+[08:07] Institutu dočasné ochrany pro osoby vysídlené v důsledku války na Ukrajině
+[08:12] až do 4. března 2028.
+[08:16] Cílem změny je upravit podmínky pro udělování dočasné ochrany
+[08:20] při zachování podpory lidem vrchajícím před ozbrojeným konfliktem.
+[08:24] Tak a tohleto už jsme tady komentovali několikrát.
+[08:29] Vím, že můj názor se liší od většiny české populace,
+[08:33] která říká, Jen si je vemte Ukrajince, už to dávno mělo být.
+[08:37] Jsem absolutně proti tomu a to je proto, že tyhle lidi utíkají před válkou.
+[08:41] Samozřejmě jsem taky proti celému systému dočasné ochrany.
+[08:45] Jak už jsem to říkal od roku 2022, tak ti lidé, kteří utíkají před válkou,
+[08:49] mají být podle ženevské umluvy,
+[08:53] mají být s nimi zacházeno jako úprchlíky před válkou.
+[08:57] A mají být poskytnuto přístřežší strava nějakým takovým základním způsobem,
+[09:01] aby nemuseli být v zemi, kde je čeká válka.
+[09:05] Tomu se běžně říká úprchlíci před válkou nebo váleční úprchlíci.
+[09:09] Ale bohužel, jak vidíte, Evropa potřebuje vojáky.
+[09:13] Ukrajina nemá vojáky. Víte, že berou na Ukrajině ty jednotky TCK
+[09:17] velmi brutálním způsobem.
+[09:19] Na konci už jsem viděl z jedoucího kamionu na silnici, že tahají lidi.
+[09:23] Takže potřebují více a více vojáků a Evropská unie na to reaguje
+[09:27] naprosto fašistickým způsobem, z mého pohledu,
+[09:31] že prostě najednou brání těm válečným úprchlíkům, aby uprchli před válkou.
+[09:35] To znamená, tady ta dočasná ochrana se od teďka
+[09:39] nebude vztahovat na lidi, kteří podle Evropské unie nemají
+[09:43] splněnou vojenskou službu na Ukrajině. A když někdo bude žádat
+[09:47] dočasnou ochranu, tak musí dokumentem prokázat, že má
+[09:51] vojenskou službu splněnou na Ukrajině. To znamená,
+[09:55] ti lidé, kteří uprchli před válkou, budou teďka de facto
+[09:59] vraceni na Ukrajinu přímo na frontu.
+[10:03] Byly tady takový komentáře, že, nebudu říkat
+[10:08] otko, byly tady takový komentáře, že ti, kteří utekli před válkou, budou teďka
+[10:12] na frontu a ti bez nohou budou bydlet do České republiky. To je asi tak, jak to
+[10:16] bude vypadat.
+[10:18] Za mě tohleto je naprosto nehumánní a
+[10:22] co se týče zákonnosti, je to z mého pohledu i proti zákonu,
+[10:26] protože ženská umluva mimo jiné dává
+[10:30] možnost, aby lidem byla poskytnutá mezinárodní ochrana, když jsou pro
+[10:34] následování z důvodu rasy, náboženství, národnostní příslušnosti
+[10:38] k určité sociální skupině nebo politického přesvědčení, anebo když jim hrozí
+[10:42] vážná újma, například mučení, trest smrti nebo nebezpečí plynoucí
+[10:46] z ozbrojeného konfliktu. A to nebezpečí
+[10:50] z ozbrojeného konfliktu je přesně to, na co tady odkazují z ženevské
+[10:54] umluvy. A těm lidem, kteří teď nedostanou tu dočasnou
+[10:58] ochranu a budou nuceni jít na Ukrajinu, tak ti budou
+[11:02] rovnou na frontu. A samozřejmě se k nim budou chovat
+[11:06] tak, jak se k nim chovají, i jako k desertérům. Ne, že dostanou rovnou kulku
+[11:10] do hlavy, ale víme, kolik tam bylo, vidíme to
+[11:14] každou chvilku, kolik lidí je tam mučených
+[11:16] protože je považují za desertéry. A když je nebudou považovat za desertéry
+[11:20] a nebudou je rovnou mučit nebo je rovnou nezabijou, tak je prostě pošlou na frontu.
+[11:24] A ta, nevím jak jsou teďka čísla, ale
+[11:28] před rokem 75% lidí, kteří byli poslaní na frontu, tak během
+[11:32] 48 hodin došli buďto k trvalému nějakému vážnému úrazu
+[11:36] anebo byli zabiti. Takže to procento je
+[11:40] tam velmi tvrdé. Samozřejmě lidi utíkají před válkou, když to úplně zjednoduším,
+[11:44] lidi utíkají před válkou z Ukrajiny a my jsme se k tomu postavili tak, že
+[11:48] je tady nenecháme a pošleme je Zelenskému rovnou do náručí.
+[11:52] A další věc, která je v tomhle tomu špatná, je, že ten konflikt
+[11:56] tím prodlužujeme, protože Ukrajina nemá vojáky a když my jim budeme
+[12:00] posílat více a víc vojáků, tak ten konflikt prostě potrvá díl.
+[12:04] A v souvislosti s tímhle tím mně napadá, jak je možné,
+[12:08] že lidi, kteří utekli před válkou z Ukrajiny,
+[12:12] tak nemají nárok ani na to, aby se schovali v nějaké zemi před válkou,
+[12:16] když víme, že prostě půjdou rovnou na frontu,
+[12:20] zatímco ze Sýrie, z Afganistánu, z Eritreji, z Maroka,
+[12:24] z dalších zemí afrických a blízkovýchodních k nám přicházejí
+[12:28] desítky tisíc lidí za den, někdy i,
+[12:32] a ti lidé, přestože nemají žádný konflikt v jejich zemi,
+[12:36] žádný problém, tak dostávají víza. A to, že dostávají víza,
+[12:40] to, že jsou z nich legální migranti, je přesně na tom stejném právním principu.
+[12:44] To, že žádají jako uprchlíci na základě ženevské umluvy,
+[12:48] že v jejich zemi jim hrozí buď to pronásledování, nebo že jim tam hrozí,
+[12:52] že by mohli jít do vojenského konfliktu. A přitom nemají vůbec tak těžké
+[12:56] podmínky jako Ukrajinci. A o tom, co se děje teď,
+[13:00] vidíte, ten dvojí metr, ten, kdo je z islámských zemí,
+[13:04] do Evropy může, i když mu doma nehrozí, že by šel do války,
+[13:08] ale Ukrajinci prostě tím musí jít do posledního Ukrajince,
+[13:12] a i když je úplně jasné, že jdou rovnou na frontu, tak je tam prostě budeme posílat.
+[13:16] A co se týče té uprchlícké vlny v Ceutě, tak slíbil jsem vám,
+[13:20] že tady budeme mít hosta. Dneska tady máme hosta, který nám přiblíží
+[13:24] další informace z této oblasti.
+[13:28] Poprosím reži, aby nám sem pustil hosta.
+[13:32] Naším hostem je Michala Gánovská, která pracovala ve slovenské televizi
+[13:36] jako mezinárodní host.
+[13:38] Je mezinárodní spravodajka a dneska působí jako politický komentátor,
+[13:42] především v oblasti geopolitiky v různých spravodajských institucích,
+[13:46] většinou alternativních po celém světě.
+[13:50] A mimo jiné spolupracuje také s novináři z Maroka,
+[13:54] takže paní Gánovská, dobrý večer, vítám vás tady.
+[13:58] Máte slovo, osvětlete nám, co se tam děje a informace,
+[14:02] které máte právě k tomuto tématu.
+[14:06] Děkuji velmi pekně za pozvání.
+[14:08] Já jsem na začátek velmi ráda pozvala, teda pozdravila
+[14:12] všech vašich sledovatelů a samozřejmě jsem velmi ráda,
+[14:16] že jsem dostala priestor teda u vás.
+[14:18] Ještě bych se upravila, já jsem pracovala ve spravodajské televizi,
+[14:22] T3, ne v naší, teda STVR, ale to není podstatné.
+[14:26] Podstatné je, že dnes možná, že ozrémíme divákom to,
+[14:30] co se reálně děje v španělskej ex clave Ceuta
+[14:34] a v dalších, protože ano, jako jste vzpomenuli,
+[14:36] tak já spolupracuji mimo jiné.
+[14:38] Nejen teda s marockými mediami, ale i so španělskými,
+[14:40] egyptskými a podobně.
+[14:42] Čiže vím porovnat nějaké zprávy, které jsou zahraničné,
+[14:46] vím porovnat zprávy, které jdou v EU a dokonce, které jdou
+[14:50] na Slovensku, alebo v Česku samozřejmě.
+[14:52] Takže tam se stala teda, abychom tak pochopili
+[14:56] teda souvislosti a vím, že myslím, že včera už jste vy
+[14:59] rozprávali o této situaci, ale já bych se vám teda
+[15:02] v krátkosti povedala, že všechno to spustilo podle
+[15:06] oficiálních zpráv.
+[15:08] Bylo to rozhodnutí nejvyššího španělského súdu,
+[15:11] které vlastně rozhodlo, že migrant, který přijde
+[15:15] přes plot, doslova, tak může být vyhostěný,
+[15:23] ale ten, který přijde po mori, tak nemůže.
+[15:26] No a samozřejmě to spustilo nějaké takové vášnivé
+[15:30] vlastně nějaké debaty o tom, že co teda.
+[15:33] Samozřejmě je to právný precedens, takže už se čekalo,
+[15:36] že budou s tím nějaké takové problémy.
+[15:38] Ještě bych ráda upozornila, že vlastně v Španělsku
+[15:42] je nová krajině pravicová národnokonzervativní strana,
+[15:46] která se jmenuje VOX a ta celá situace, ona je velmi
+[15:49] protimigrační, celá situace, která se teď děje v Španělsku,
+[15:55] tak vlastně posouvá tu popularitu této strany vlastně
+[16:00] vysoko a vysoko, protože naozaj tato strana je postavena
+[16:03] na protimigrační politiku s nulovou toleranciou,
+[16:07] a tak dělej, čiže toto je vlastně taková vnitroštátná situace.
+[16:12] Co se týká situace politické v Španělsku, tak premiér Pedro Sánchez
+[16:18] to má tak dost nahnuté, protože pro každé rozhodnutí
+[16:21] potřebuje vlastně souhlas celé vlády a ta má velmi křehkou
+[16:27] většinu, čiže množství věcí, které by on chtěl, tak i tak nepřejdu,
+[16:31] respektive množství, které by nechtěl, tak přejdu, takže je tam
+[16:35] velmi taková křehká celá ta španělská vláda.
+[16:40] No ale teď pojďme například na ty věci, které se dějaly.
+[16:44] Množstvo videí bylo například, na Slovensku išly samé videa,
+[16:49] že přišli migranti, ale hned se otočili a hned išli pryč.
+[16:54] Toto je vlastně takový ten narativ, který se děje.
+[16:58] Jenže v skutečnosti, když jste si pozřeli jiné videa,
+[17:01] já nevím, přímo ze Španělska, které natáčely lidi, kteří tam žijí,
+[17:04] tak jste viděli, že ty migranti povětšině neodišly.
+[17:08] Leží na ulicích, spí na ulicích, čekají, co s nimi bude.
+[17:11] No a tu se to rozděluje na takové dvě skupiny,
+[17:14] protože já mám informaci tedy přímo z Maroka,
+[17:18] že vlastně množství těch migrantů nebyli klasický migranti,
+[17:22] byli to mladí lidé, to jsme viděli na videách, byli to chlapci,
+[17:26] většinou tedy chlapci muži, a ty byli zvážené z celé krajiny,
+[17:32] z celého Maroka.
+[17:34] Ne z jedné nějaké části, ale doslova jich zvážali autobusy,
+[17:38] nakládali náčmy a tak dále.
+[17:40] Omlouvám se, kdo je svážel? Vláda nebo armáda, nebo kdo je svážel?
+[17:44] No, toto je ještě vlastně, jsou to neoficiálné.
+[17:48] Spravedloducho byli zvážení. Samozřejmě všechno išlo
+[17:51] za souhlasem vlády, hej, tak to si nemusíme rozprávat.
+[17:54] No a vlastně ten kontext, my se ještě dostaneme vlastně do pozadí
+[17:57] a dělej a dělej, hej.
+[17:59] Čiže byli zvážení, bylo jim slybované, že přijďte, dostanete pečátku,
+[18:05] můžete se pohybovat pod celým Schengenem.
+[18:08] No a oni, když přišli, povětšina z nich, tak viděli, že teda nic se neděje.
+[18:12] Ano, někteří se vrátili, ale určitě ne také množství,
+[18:15] jak se u nás hovoří.
+[18:19] V slovenských médiách teda vyšla vlastně zpráva, že
+[18:22] přibližně 80 000 migrantů přišlo do Seuty,
+[18:25] ale tam bylo už jen nějakých dvě tisíc,
+[18:28] což samozřejmě jsou velmi pochybné zprávy,
+[18:31] velmi pochybné zprávy, protože ani samé španělské média
+[18:34] vůbec takovéto něco netvrdí, mají tam dělej krizi.
+[18:37] No a teď jsme se dělej dostávali do toho pozadí.
+[18:41] Není to tak dávno, co Donald Trump kritizoval Španělsko.
+[18:46] Proč? Protože Pedro Sánchez mu nechcel pomoct
+[18:50] s základními, nechcel mu poskytnout základně
+[18:54] pro americké vojáky v Španělsku, nechcel jim povolit přeložby,
+[18:58] a tak dále, a tak dále, čiže nechcel se zúčastnit
+[19:00] vojny proti Iraku. Hned na to vlastně Trump vyhlásil,
+[19:05] že Španělsko neje vhodný partner, už nesou kamaráti,
+[19:08] je to problémový člověk a tak dále, však poznáme teda Trumpa.
+[19:11] No a hned do toho se vlastně zapojilo Maroko,
+[19:17] které je blízkým spojencem v podstatě, ano, Spojených štátov.
+[19:21] No a tu bychom velmi ráda ještě poskytla naozaj exkluzivně
+[19:28] udalosti, které jsem zosumarizovala a které se dělaly
+[19:32] ještě před tím, než se stala tato invázia.
+[19:35] Ona nebyla jen tak, nebyla, teda byla načasovaná
+[19:41] přesně i na den, dokonce vám to povím, toto bylo v den,
+[19:46] moment, já jsem si to připravila, aby jsem něco nezabudla,
+[19:51] protože den trónu, v den trónu se to stalo, vtedy si Maroko
+[19:55] připomínalo výroče nástupu svého panovníka,
+[19:58] Mohameda šiestého. Mohamed šiestý nedávno pomenoval
+[20:03] nejvýznamnější dělnicu po Trumpovi na znák blízkého spojenectva,
+[20:07] hej, takže ona, abychom byli takto v obraze, že co se vlastně dělo.
+[20:11] No a teď, co se dělo v Americe v marci 2026.
+[20:16] Michael Rubin je americký historik, analytik a odborník na Blízký východ.
+[20:22] Označil Španělsko za koloniální mocnost a odporučil uskutočnit
+[20:27] zelený pochod na Ceutu a na Melilu, to jsou vlastně takovéto ex clavy,
+[20:32] respektive polo-en clavy, které patří pod Španělsko.
+[20:36] V apríli 2026 Mario Díaz Ballard je americký politik a republikán,
+[20:43] čiže od Trumpovej administrativy, pochybňuje španělskou suverenitu
+[20:48] nad Ceutou a Melilou v sněmovni reprezentantů USA. Potom dělej,
+[20:55] výbor sněmovně reprezentantů USA pro rozpočtové prostředky
+[20:59] přijíma formulaci podporující marocký postoj a uvádí, že Ceuta a Melila
+[21:04] nejsou španělským územím. Čiže toto se už chystalo v podstatě od marca.
+[21:09] Potom apríl americké médiá zverejňují strategii Izraela využívat spojenectvo
+[21:15] s Marokom proti Španělsku. Takže jsme doma. Jsme doma. A potom júl 2026
+[21:23] Izraelský velvyslanec při OSN obvinuje Španělskou z udržávání koloniálních
+[21:29] enklau, respektive exklau. No a v podstatě toto bylo takové načasování,
+[21:35] že vlastně všechno vyvrcholilo potom touto krízou. Já si myslím teda osobně,
+[21:41] že toto byla kríza. Byla to výstraha, byl to varovný prst, že když Španělsko bude
+[21:46] dělat nějaké problémy, tak samozřejmě přijdou větší tyto migrační vlny.
+[21:51] No, jako víme, tak hned se proti tomu postavilo 22 krajín EU, na čele teda hlavně
+[21:59] s Giorgiou Meloniou, která do toho kecala nejvíce, protože ona postavila tu
+[22:05] svoji politiku na protimigrační této politice. No ale oni vlastně navrhli,
+[22:12] že by chtěli dočasně pozastavit španělský přístup do šengeckého
+[22:16] přístoru. No, ale samozřejmě, že Pedro Sánchez to odmětá.
+[22:21] No a tu teraz mám pocit, že nebude se legislativně extra
+[22:26] robit nič. Myslím si, že to ostane jenom při nějakých vyhláseních,
+[22:30] při nějakých jako postoch na sociální sítě, ale myslím si, že legislativně
+[22:35] nič se nebude zatím robit. Nějaké velké zmeny teraz nepřijdu.
+[22:40] Myslím si teda, že s tím šengeckým přístorem nebude nič extra,
+[22:44] nějaké extra rozhodnutí a že se na základě tohoto neudejí. Ako víme, tak vlastně
+[22:50] ty média to shodnotily tak, že no vlastně se nič nestalo, hej, v pohodě,
+[22:55] jako tam nějaký přišli, nějaký odišli a média to strašně zlahčují, strašně to zlahčují,
+[23:00] ale zase na druhé straně například marocké média, média mimo EU,
+[23:05] vidí v tomto opět vyděráčskou politiku Donalda Trumpa. Samozřejmě tu v těchto
+[23:10] médiách to v životě nezazně, hej, tu se všichni prostě tváří, že to bylo náhodou
+[23:15] a dokonce například já jsem včera robila rozhovor, dnes dokonce, když jsem
+[23:20] dokonce s španělským analytikou včera, s takovým marockým politickým
+[23:25] aktivistem, který pracuje velmi s mládeží, tak on například mi řekl, že
+[23:30] v médiách mimo EU a vlastně i v Maroku se verejně říká, že toto
+[23:35] vyšlo na rozkaz Trumpa. Tu v našich médiách samozřejmě se všichni tváří,
+[23:40] a není to jenom nějaký převádzači, byli tu, udělali si kšeft, ano, jenže
+[23:45] když jsem vám tedy přečítala i tyto souvislosti, ona ta příprava už i v té
+[23:49] americké sněmovni, ona už preběhala od toho marca, hej, čiže tu se
+[23:53] třeba pozorovat na tu geopolitickou celkou situaci, no a tu jsou vlastně
+[23:58] zase v hře starí kamaráti, a to je Izrael a Spojené štáty, hej, takže
+[24:02] nech, nech se na to pozorujeme, jak chceme, tak zase skončíme tam, zase
+[24:06] skončíme v Izraeli a v Spojených štátech amerických, takže také aspoň
+[24:11] shrnutí, prepačte, já se ospravedlňuji, tu je tak strašně teplo, no a to
+[24:15] jsem ještě, a to jsem ještě, že pod Tatrami, hej, tak dnes v Bratislave
+[24:18] to musela být katastrofa, takže snažila jsem se takto vám na pár minut
+[24:22] to všechno shrnout, ale myslím si, že množstvo lidí chápe, že toto byla
+[24:27] první věc, neskončila, určitě neskončila, a toto čeká, v podstatě,
+[24:32] abych to takto shrnula, toto čeká, takové problémy každého, kdo nebude
+[24:37] souhlasit, či už s EU, nebo s Donaldem Trumpem.
+[24:40] Ještě, děkuju za to, ještě se vás zeptám jednu věc, tak jak to vnímám,
+[24:45] tu situaci, tak Donald Trump vydírá Španělsko tím, že tam v podstatě
+[24:52] nějakým způsobem vyprovokoval americká administrativa, nebo CIA,
+[24:57] aby vznikla tahleta migrační krize, a zároveň média v celé Evropě,
+[25:02] minimálně v celé Evropské unii, z toho hned první den udělali obrovskou
+[25:06] záležitost. To jsem, nepamatuju si, že by byl, že by byl, že by byl,
+[25:10] jenom sociální média, který jsou samozřejmě ovládaný vládami,
+[25:14] tak byly plný jenom migrantů ze Seuty. Všichni mluvili jenom tadyhle
+[25:18] na to téma. A mě překvapila reakce našeho premiéra, který okamžitě
+[25:23] vyzval k tomu, že Španělsko má být vyloučené ze šengenského prostoru.
+[25:27] My jsme to tady ve zprávách komentovali, že pohyb migrantů nemá žádnou spojitost
+[25:31] se šengenským prostorem, protože ti migranti se samozřejmě nepohybují
+[25:35] s pasem přes hranice, aby řekli, je, my jsme v šengenském prostoru.
+[25:38] A zavřít šengenský prostor nelze, protože hranice mezi La Jonguera
+[25:43] a Bilbao má nevím jestli tisíc kilometrů. Španělsko s Francíma
+[25:48] má dlouhou hranici. Takže to, že se Španělsko vyloučí ze šengenského prostoru,
+[25:53] je podle mého názoru, a tak jak to tady komentujete, spíš tlak od spojenců
+[25:59] Donalda Trumpa politických, třeba André Babiše, na Španělsko,
+[26:04] protože viděli jsme to i v Maďarsku, jakmile někdo se neklaní Evropské unii
+[26:08] a Natu, tak musí být odstraněný. A vypadá to, že tohle je politický tlak
+[26:13] na španělskou vládu, která pravděpodobně velmi brzy skončí.
+[26:17] Řekněte mi ještě, jak se k tomu staví Slovensko. Slovensko udělalo taky,
+[26:22] taky hraje se spojenými státy, tenhle ten nátlak na španělskou vládu
+[26:26] taky se připojilo k tomu, že by měla, že by Španělsko mělo být vyloučeno
+[26:30] ze šengenského prostoru?
+[26:32] No já bych k tomu Schengenu povedala hlavně, malo by to prebíjat,
+[26:36] a kdyby to teda bylo v praxi, tak ano, máte pravdu, že nedá se to nějak jako,
+[26:40] že vyloučit, alebo nějak postavit můr, alebo takto, ale obnovily by se kontroly.
+[26:45] Obnovily by se opět kontroly, velmi prísné, tak si to představuje,
+[26:49] představuje těch 22 štátov, že vlastně by se obnovily kontroly
+[26:52] ze španělskou, čiže půjčali by jen povedzme nějakých legálných,
+[26:56] legálných lidí. No co se týká Slovenska, tak zatím teda,
+[27:00] jsem nezachytila, aby se bylo nějaké teda od premiéra nějaké oficiální vyjadření.
+[27:05] Vím, že teda se zvažuje nějaká dokonce pomoc španělsku,
+[27:09] ale zatím teda nevím o tom, že by se Slovensko přidalo,
+[27:14] ale povím, že možná, že jsem to jen nezachytila, ale nevím,
+[27:17] nevím o tom, nezachytila jsem dnes ještě zatím tuto informaci.
+[27:21] Vím, že teda náš premiér se staví k migrantům jakože velmi,
+[27:27] velmi kriticky k celé té asilové situaci.
+[27:30] Nemyslím si, že premiér bude oficiálně nějak extra podporovat,
+[27:36] povedzme, přijatí migrantů. Dokonce Slovensko odmítlo
+[27:39] přijatí evropské kvóty, takže zatím si myslím, že je taková
+[27:43] skoro vyčkávací taktika, ale myslím si, že dokonce prezident
+[27:50] Peter Pellegrini měl k tomu takové vyjadření, které směrovalo
+[27:54] teda skoro k tomu, že bychom podporovali ty 22 krajiny.
+[27:59] Rozumím. Okej, paní Gánovská, děkujeme pěkně za vstup,
+[28:03] děkujeme za zprávy, rádi vás pozveme, rádi vás pozveme znovu
+[28:07] a těšíme se na vás a přeju hezký večer do Tatěr, ať tam máte
+[28:13] krásně chládek, hezký večer. Děkujeme, děkujeme, majte se krásně,
+[28:16] do viděňa. Do viděňa. Tak a my budeme pokračovat, Zuzko,
+[28:20] v dalších zprávách.
+[28:25] Odvětný raketový úder na tři cíle na Ukrajině po červencovém útoku
+[28:30] na iránskou loď v Kaspickém moři. Uvedl to vojenský poradce
+[28:34] nejvyššího vůdce Iránu Mohsen Rezai. Podle Rezaiho byla operace
+[28:40] postavená poté, co Kiev označil incident, při něm zahynul iránský
+[28:46] námořník za chybu. Iran ale nadále požaduje kompenzaci
+[28:50] za vzniklé škody. Rezai zároveň varoval, že případná snaha
+[28:55] Spojených států ovládnout Hormuzský průliv by podle
+[28:59] něj mohla vést k rozsáhlému mezinárodnímu konfliktu.
+[29:03] Tak to je zajímavá informace. Iránci reagovali na tu střelbu
+[29:10] na jejich loď ze strany Ukrajiny velmi tvrdě. Řekli, že to je proti
+[29:15] mezinárodnímu právu, že určitě čeká odvěta Ukrajinu. Jak vidíte,
+[29:21] tak ta tvrdá reakce pravděpodobně byla na místě, protože Ukrajinci
+[29:25] se omluvili po té, co tedy původně Volodymyr Zelenský
+[29:30] byl v zásadě velmi tvrdý vůči Iránu. Viděli jsme tady nějaké
+[29:34] videa od ukrajinských vojáků, kteří vyrožovali Iránu, tak Ukrajina
+[29:40] se oficiálně omluvila, ale Iránci nadále požadují očkodnění.
+[29:44] Nestačí momlova, požadují očkodnění. A tak, jak jsme se dozvěděli,
+[29:48] tak už byly připraveny tři útoky na Ukrajinu. Ukrajina pravděpodobně
+[29:51] nechce, aby Irán útočil na Ukrajinu, protože celá Ukrajina
+[29:56] je v dosahu raket iránských a jak vidíme, jakým způsobem
+[30:00] Iránci útočí na americké základny, tak Iránci se toho rozhodně nebojí.
+[30:05] Takže uvidíme, jak bude tenhle ten konflikt probíhat dál,
+[30:08] mezinárodní, jestli z toho bude větší konflikt mezi Iránem a Ukrajinou,
+[30:12] nebo jestli Ukrajina zaplatí očkodné. Tentokrát nebudu ani se sázet.
+[30:17] Víte, že se nehádám, že se sázím, ale tentokrát se nebudu ani sázet.
+[30:21] Myslím si, že to je 60 ku 40 a odhadu, že Ukrajina nezaplatí
+[30:25] a že ten konflikt bude kulminovat. Ale říkám, můj odhad je 60 ku 40,
+[30:29] takže ruku do ohně bych za to nedal. Pojďme na další zprávu, prosím.
+[30:33] Noční útoky ukrajinských dronů na území Ruska si vyžadaly
+[30:38] nejméně 6 mrtvých a 9 zraněných. Podle ruských úřadů se terčem staly
+[30:43] takové sklady v okolí Moskvy a Petrohradu, včetně skladu
+[30:47] největšího ruského internetového prodejce Wildberries,
+[30:50] kde po zásahu vypukl požár. Ruské ministerstvo obrany uvedlo,
+[30:55] že protivzdušná obrana během noci zničila 320 ukrajinských beretů,
+[31:00] bezpilotních letounů. V útoci samozřejmě také pokračovalo Rusko
+[31:05] a podle ukrajinských úřadů si ruské údary během noci vyžadaly
+[31:09] nejméně jednu oběť a několik zraněných.
+[31:12] No tak tady není potřeba dalších komentářů. Víte, že Volodymyr Zelenský
+[31:17] vyhlásil svých 40 dnů teroru a v tom se pokračuje. Otázka je, co bude
+[31:23] po těch 40 dnech. Rusové pravděpodobně 40 dnů můžou vydržet,
+[31:28] ale uvidíme, co bude po těch 40 dnech.
+[31:30] A jaká bude ruská odveta. Zatím se to pořád tváří jako klid před bouří
+[31:36] a všichni se tváří tak, že jsou to Ukrajinci, kteří útočí na Ruskou federaci,
+[31:42] i když ve zprávách mezi politickými komentátory i v politických prohlášeních
+[31:48] už se mluví o tom, že, a to i ze strany Ruské federace z těch nejvyšších míst,
+[31:54] že by Ukrajinci nikdy nemohli útočit, kdyby neměli zbraně od Evropanů nebo od NATO,
+[31:59] kdyby neměli technologii, kdyby neměli informace vojenské, spravodajské
+[32:05] a zároveň i ve zprávách probíhají ty zprávy, že Američané dodávají k těm útokům
+[32:11] spravodajské informace, takže uvidíme, jak to bude pokračovat dál.
+[32:15] Pojďme na další zprávu.
+[32:17] Zelenský schválil 25.6. 40-tidení operaci Ukrajinské bezpečnostní služby SBU
+[32:24] zaměřenou na zvýšení klaku na Rusko.
+[32:27] Po jejím skončení, nyní kým,
+[32:29] EU zvažuje její pokračování.
+[32:31] SBU během 40-tidení operace v LIVU zaměřené proti Rusku zasáhla víc než 100 strategických cílů,
+[32:38] tvrdí Zelenský.
+[32:40] Tak samozřejmě z toho politického hlediska je to pro Ukrajinu docela zásadní,
+[32:46] protože vzpomeňme si, před měsícem a půl všichni byli přesvědčení v zásadě o tom,
+[32:50] kromě médií západních, že Ukrajina už prohrává velmi tvrdě,
+[32:55] ale podařilo se z velký částky,
+[32:57] jaksi objevit,
+[32:59] obnovit důvěru těch lidí,
+[33:01] kteří chtějí, aby Ukrajina vyhrála proti Rusku,
+[33:03] že Ukrajina má nějakou šanci.
+[33:05] Samozřejmě, co se týče reality na vojenském,
+[33:10] z toho hlediska vojenské strategie,
+[33:13] reality na bojišti, to nemá žádný význam.
+[33:15] To, že Ukrajinci útočí raketami na území Ruské federace,
+[33:19] nemá žádný význam na to, kde stojí vojáci
+[33:22] a jaká území Rusko, podle jejich slov, osvobodilo,
+[33:27] podle slov Ukrajiny a Západu.
+[33:29] Na to to nemá žádný vliv.
+[33:31] To znamená, Rusové skutečně postupují,
+[33:33] postupují rychle a zabírají ta území.
+[33:35] To, na co to má vliv, je to, co se děje v médiích,
+[33:39] i u nás, v českých médiích.
+[33:41] To znamená, je to psychologická operace,
+[33:43] aby občané viděli, že Ukrajina útočí na ruské území
+[33:47] a tudíž byli ochotni, abychom posílali další a další peníze
+[33:50] k ukrajinské armádě, aby mohla pokračovat v bojích.
+[33:54] Další efekt, který to má, je ale ze strany Ruské federace,
+[33:58] protože takým co,
+[33:59] na Aljašce byla dohoda 3 plus 2, tedy pět dohromady,
+[34:04] to znamená Luhansk, Doněck, Kherson, Záporoží a Krim,
+[34:10] že zůstanou pod zprávou Ruska
+[34:12] a další území ruská armáda dobývat nebude,
+[34:16] tak po těchto 40 dnech operace,
+[34:19] po tom, co americký minister zahraničí Rubio v Manile prohlásil,
+[34:24] že dohoda s Anchorage vlastně je neplatná,
+[34:26] nebo respektive nikdy žádná dohoda nebyla,
+[34:28] že s ní Rusové nemají počítat,
+[34:31] tak Rusové přehodnotili strategii a řekli,
+[34:33] že budou zabírat další území Ukrajiny,
+[34:36] že neskončí na Dombase, ale půjdou dál
+[34:39] a vytvoří širší nárazníkovou zónu.
+[34:43] Podle některých vyjádření to vypadá,
+[34:46] že Rusové skutečně dojdou do Kyjeva
+[34:49] a budou chtít, aby zabrali Ukrajinu až do Kyjeva.
+[34:53] Takže tady to opravdu nevypadá na žádný konec,
+[34:56] vypadá to na pokračování,
+[34:57] konfliktu a spíš to vypadá na eskalaci.
+[35:00] A jak vidíte mezi tím, co jsme měli na začátku zpráv,
+[35:03] tak evropské země začínají zaprvé posílat Ukrajince
+[35:06] ve vojenském věku na Ukrajinu
+[35:08] a nabírat zatím mezi našimi dětmi vojáky,
+[35:12] ale začíná probíhat i to, že se začíná zavádět
+[35:16] povinná vojenská služba v různých zemích
+[35:18] a myslím, že to brzy přijde i do České republiky.
+[35:21] Tak, můžeme další zprávu, Zuzko?
+[35:24] Ukrajina potřebuje před nadcházející zimou
+[35:27] přibližně 400 milionů eur
+[35:29] na financování dovozu zemního plynu.
+[35:31] Uvedl to ukrajinský ministr energetiky Deni Šmihal
+[35:35] po jednání se zástupcí diplomatického sboru.
+[35:38] Podle Šmihala Kiev jedná s mezinárodními partnery
+[35:41] o zajištění potřebných prostředků
+[35:43] a pokračuje v období energetické struktury
+[35:46] i vytváření zásob, vybavení pro případ
+[35:49] mimořádných situací.
+[35:51] Dodal, že nepokryté potřeby Ukrajinského fondu
+[35:54] energetiky přesahují 507 milionů eur
+[35:57] a energetické společnosti potřebují
+[36:00] dalších 600 milionů eur
+[36:02] na stabilizaci trhu s elektřinou.
+[36:05] Tak samozřejmě, tohle to není problém jenom Ukrajiny.
+[36:07] Nedostatek plynu. Evropská unie má zásobníky
+[36:10] na padesáti procentech, přičemž loni byly někde
+[36:13] přes 70 až 75 procentům,
+[36:16] a to už jsme byli v tom konfliktu.
+[36:18] Normálně by pozimně měly být zásobníky plné,
+[36:20] naplněné, ale bohužel, kromě Srbska,
+[36:23] které...
+[36:24] získalo velmi lukrativní smlouvy
+[36:26] s Ruskou federací
+[36:28] a naplňovalo svoje zásobníky, pokud vím,
+[36:30] tak nevím o tom, že by Evropské země
+[36:32] měly dostatek plynu. Prostě nemají.
+[36:34] A stejněho nemá i Ukrajina.
+[36:36] Samozřejmě je to nepříjemné,
+[36:38] protože Ukrajina bude potřebovat elektřinu
+[36:40] a topení pro lidi.
+[36:42] Na druhou stranu,
+[36:44] Ukrajina je ve válce
+[36:46] a ve válce je z vlastní vůle.
+[36:48] Pojďme na další zprávu.
+[36:51] Nedostatek léku pro léčbu rakoviny
+[36:53] prsu trvá. Náhrada může být
+[36:55] dražší. Lék Tamoxifen
+[36:57] EBV používaný
+[36:59] při léčbě rakoviny prsu
+[37:01] v České republice chybí už více než
+[37:03] rok. Od června není dostupná
+[37:05] ani jeho náhrada.
+[37:07] Ministerstvo zdravotnictví minulý týden
+[37:09] rozeslalo do lekáren přibližně tisíc
+[37:11] balení. Některé nemocniční
+[37:13] lekárny je však rychle vydali pacientům.
+[37:15] Například ve fakultní nemocnici
+[37:17] Homolka a Motol
+[37:19] zásuby během několika dní došly
+[37:21] asi na další dodávku.
+[37:23] Víte co, když jsem
+[37:25] říkal v roce 2022,
+[37:27] když jsme dělali velkou demonstraci na
+[37:29] Václavském náměstí, tu první a potom ty následný,
+[37:31] tak jsem vám říkal, že se říkíme proti
+[37:33] zdi rozjetým autem.
+[37:35] Že ty
+[37:37] agendy globalistické nás
+[37:39] postupně začnou dohánět jedna po druhé.
+[37:41] Jedna z věcí, které jsem napsal do
+[37:43] plánu Česká republika na prvním místě
+[37:45] je, abychom měli lékovou
+[37:47] soběstačnost. Abychom si mohli
+[37:49] vyrábět léky sami. Za ty
+[37:51] roky, které už
+[37:53] plán Česká republika na prvním místě
+[37:55] je na světě a ty 100 000 lidí
+[37:57] protestovali i za plán
+[37:59] Česká republika na prvním místě, protože
+[38:01] proto jsem ty demonstrace svolával.
+[38:03] Kdyby naše vláda si aspoň přečetla
+[38:05] to, co jsme říkali, tak
+[38:07] dávno mohla zajistit
+[38:09] dostatek léků.
+[38:11] Mohla nakoupit licence, mohli jsme už dávno
+[38:13] vyrábět ty léky. A to, že
+[38:15] dneška nedávno jsme neměli
+[38:17] penicilín, dneska nemáme něco tak
+[38:19] základního jako lék proti léčbě
+[38:21] rakovinu prsu, je absolutní
+[38:23] selhání předchozí vlády i
+[38:25] tehlecté vlády. Absolutní. Tady prostě
+[38:27] to je něco, co je neomluvitelné,
+[38:29] že tady umírají lidi na rakovinu, ženy
+[38:31] na rakovinu prsu, protože
+[38:33] nemají léky, protože vláda
+[38:35] není schopná zajistit ty úplně
+[38:37] nejzákladnější potřeby pro naše občany.
+[38:39] Zatímco je samozřejmě vždycky schopná
+[38:41] zajistit zbraně a peníze na zbraně
+[38:43] pro Ukrajinu.
+[38:49] Americký prezident Donald Trump
+[38:53] na konce dne dosáhl dohody
+[38:55] ohledně situace kolem hormonského průlivu.
+[38:57] Podle agentury Bloomberg
+[38:59] označil Washington současný vývoj
+[39:01] za poslední možnost, jak se
+[39:03] Teheran může vyhnout dalšímu vojenskému
+[39:05] tlaku. Trump uvedl, že
+[39:07] pokud k dohodě nedojde, Irán
+[39:09] čekají ničivé údery.
+[39:11] Situace kolem strategicky významného hormonského
+[39:13] průlivu, kterým prochází
+[39:15] významná část světové,
+[39:17] světových dodávek ropy, tak dál
+[39:19] zvyšuje napěti mezi Spojenými státy
+[39:21] a Iránem. Irán mezi tím
+[39:23] jedná s Ománem
+[39:25] o obnovení plavby přes Hormuz.
+[39:30] Klasický příběh. Dneska máme
+[39:32] díl 658, nebo
+[39:34] nevím, téhle noveli
+[39:36] z Blízkého východu. Donald Trump
+[39:38] jeden den říká, že srovná Irán
+[39:40] ze zemí, druhej den říká, že Irán mu
+[39:42] zavolal, že chce jednat, že tedy se
+[39:44] odkládají útoky. Třetí den
+[39:46] Donald Trump říká, máte čas do konce
+[39:48] dnešního večera, jinak vás srovnáme
+[39:50] ze zemí. To znamená, logicky
+[39:52] to vyplývá, že zítra musí přijít zase
+[39:54] něco, že
+[39:56] se útoky odkládají, nebo minimálně
+[39:58] mi to tak připadá, že to tak jde
+[40:00] po sobě. Nebo samozřejmě
+[40:02] může přijít ta druhá možnost, že
+[40:04] ten konflikt se rozjede
+[40:06] ve větším, ještě ve větším a bude se
+[40:08] znovu bombardovat, bude se bombardovat víc
+[40:10] a potom
+[40:13] Bůh s námi. Ne, že by byl věřící,
+[40:15] ale to je samozřejmě věc, která se
+[40:17] dotkne celého světa. Tady
+[40:19] píše Jana Uhlířová, Rusko potřebujeme
+[40:21] léky, nemáme ropu, nemáme,
+[40:23] hlavně naše vláda
+[40:25] nakupuje,
+[40:27] nakupuje,
+[40:29] hlavně zbraně nakupuje vláda a bez Ruska jsme
+[40:31] v. Mně to připomnělo, dneska jsem
+[40:33] viděl krátký komentář
+[40:35] režiséra Emira Kusturici, profesora
+[40:37] Emira Kusturici, který
+[40:39] vystudoval v České republice,
+[40:41] se kterým jsem se setkal, i zkrát jsem s ním
+[40:43] mluvil, velmi zajímavá osobnost.
+[40:45] A ten říká, že v podstatě
+[40:47] v Rusku se dneska bojuje
+[40:49] za záchranu světa.
+[40:51] Když se podívá on na globalistickou
+[40:53] situaci, protože
+[40:55] on je taky silným globalistou,
+[40:57] tak ten otevřeně říká, že
+[40:59] v Rusku se dneska odehrává boj za záchranu
+[41:01] světa. Myslím si, že něco na tom
+[41:03] určitě, něco na tom určitě
+[41:05] je. Tak pojďme na další,
+[41:07] pojďme na další zprávu.
+[41:09] Ukrajina letos na podzim spustí
+[41:11] takzvanou Karpatskou iniciativu,
+[41:13] která propojí osm
+[41:15] zemí Karpatského regionu
+[41:17] v oblasti ekonomiky, bezpečnosti,
+[41:19] obnovy Ukrajiny, turisty,
+[41:21] artistiky a kultury. Podle
+[41:23] Volodymyra Zelenského se projektu
+[41:25] mají účastnit také Česká
+[41:27] a Slovenská republika, Polsko,
+[41:29] Maďarsko, Rakousko, Rumunsko
+[41:31] a Srbsko.
+[41:33] Jsem opravdu zvědavý na to, co z tohohle
+[41:35] z toho bude. Žádný komentář k tomu nemám,
+[41:37] protože to je nová zpráva. Uvidíme,
+[41:39] co to bude znamenat, jsem na to opravdu zvědavý.
+[41:41] Takže tuhle zprávu jsme vám
+[41:43] dali jenom proto, abyste věděli, že se něco
+[41:45] takového připravuje a rozjíždí.
+[41:47] Tak pojďme na další zprávu, prosím.
+[41:49] Že se něco chystá na nás.
+[41:51] Vývoj
+[41:53] mobilních sítí šesté generace,
+[41:55] označovaných jako
+[41:57] 6G, pokračuje.
+[41:59] Technologie má v budoucnu nabídnout
+[42:01] výrazně vyšší rychlosti přenosu
+[42:03] dat, propojení velkého množství
+[42:05] zařízení a nové možnosti
+[42:07] využití umělé inteligence.
+[42:09] Součástí výzkumu je také využití
+[42:11] vyšších frekvencí, včetně
+[42:13] terahercová pásma.
+[42:15] Někteří kritici upozornili,
+[42:17] na možné zdravotní a
+[42:19] bezpečnosti dopady, například obavy
+[42:21] z vlivu záření na lidský
+[42:23] organismus, nebo zneužití nových
+[42:25] technologií ke sledování lidí.
+[42:27] A podívejte, ta nová
+[42:30] technologie 6G funguje úplně
+[42:32] jinak než 5G. To není jenom rychlejší
+[42:34] nebo jiná frekvence. Ta
+[42:36] technologie 6G, tak jak je
+[42:38] popisovaná, spočívá v tom,
+[42:40] že se vysílá signál,
+[42:42] ale to není jenom signál, který jde jedním
+[42:44] směrem, který by šel do našeho
+[42:46] zařízení. To je signál, který jde
+[42:48] těma směry. To znamená, ten
+[42:50] signál jde, ale zároveň posílá
+[42:52] informace o tom, co se
+[42:54] v té síti děje.
+[42:56] A ten systém
+[42:58] 6G je,
+[43:00] protože jsou to vyšší frekvence,
+[43:02] tak musí mít víc, řekněme,
+[43:04] přesměrovávačů, zařízení,
+[43:06] které budou vysílat a přesměrovávat
+[43:08] a řídit
+[43:10] šíření toho signálu.
+[43:12] To znamená, počtejte s tím, že když
+[43:14] půjdete na ulici, tak uvidíme
+[43:16] anteny na každém kroku, na značkách,
+[43:18] na různých jiných, řekněme,
+[43:20] dopravních zařízeních, na sloupech
+[43:22] osvětlení budou tyhle věci
+[43:24] takovým způsobem, aby pracovaly.
+[43:26] A ta sít se bude chovat inteligentně.
+[43:28] To znamená, to je sít, která bude
+[43:30] řízená celou dobu umělou inteligencí
+[43:32] a bude třeba dělat takovou věc, jako
+[43:34] že vy jdete do práce
+[43:36] v 7 hodin ráno a jdete
+[43:38] nějakou trasu. Ta sít bude mít
+[43:40] zmapováno, kudy chodíte každý
+[43:42] den, když půjdete o 5 minut díl, tak to bude
+[43:44] vědět, protože to bude anomálie pro tu
+[43:46] sít, protože ta sít bude
+[43:48] přesměrovávat ten datový tok
+[43:50] k vám na vaše zařízení.
+[43:52] Aby, protože to nebude fungovat
+[43:54] tak moc plošně, tak to bude v podstatě
+[43:56] sledovat vaše zařízení a snažit se
+[43:58] mu to tam dostat, dostatek
+[44:00] informací a ty informace přenášet.
+[44:02] Takže ta sít bude si spíš chovat jako
+[44:04] inteligentní, jako
+[44:06] umělé, jako tvor umělé
+[44:08] inteligence, který je všude.
+[44:10] A ta sít projde
+[44:12] tlustými
+[44:14] vzdmi, dokáže vidět
+[44:16] přes zeď,
+[44:18] kde se lidi pohybou. To už dneska dokáže
+[44:20] i Wi-Fi vidět, kde jste v místnosti.
+[44:22] Ale tahleta 6G
+[44:24] to dokáže velmi přesně, dokáže sledovat
+[44:26] tep srdce, dokáže komunikovat
+[44:28] s těmi zařízeními. A ty zařízení
+[44:30] budou propojené mnohem
+[44:32] víc, než je dneska 5G
+[44:34] s tou sítí 6G, protože
+[44:36] ta 6G bude potřebovat neustále informace
+[44:38] o tom, kde je posilovat tu sítě
+[44:40] a jak ji vylepšovat. To znamená,
+[44:42] ona bude v reálném čase komunikovat
+[44:44] se všemi zařízeními a všechny zařízení
+[44:46] budou neustále
+[44:48] v podstatě zaevidované
+[44:50] v té síti, kde jsou,
+[44:52] jaké jsou to zařízení,
+[44:54] jakým způsobem se
+[44:56] pohybují, co dělají,
+[44:58] jak jsou využívaná. A samozřejmě
+[45:00] víte, že dneska odchází
+[45:02] veškeré informace
+[45:04] z těch mobilních zařízení. Víte, že
+[45:06] když dneska se Zuzkou
+[45:08] si řekneme, že by bylo fajn si koupit
+[45:10] třeba gumový nafokus,
+[45:12] gumový nafokovací člun, protože
+[45:14] gumový nafokovací člun je dobrý
+[45:16] v těchto horkách a chceme si
+[45:18] koupit gumový nafokovací člun
+[45:20] a každý z vás si chce koupit gumový
+[45:22] nafokovací člun, tak se podívejte
+[45:24] za půl hodinky na svoji sociální
+[45:26] sítě, jak vám začne nabízet
+[45:28] gumové nafokovací čluny,
+[45:30] nebo se podívejte na Google
+[45:32] a uvidíte, že jakmile si
+[45:34] poslechnete tyhle zprávy, tak je
+[45:36] vysoká pravdě, protože se vám gumový
+[45:38] člun najednou někde objeví,
+[45:40] protože tady o nafokovacím gumovém
+[45:42] člunu, který potřebujete, mluvíme
+[45:44] a ta umělá inteligence to vyhodnotí
+[45:46] už dneska a začne vám nabízet
+[45:48] reklamy. Z toho jednoznačně vyplývá, že
+[45:50] ty krabičky nás poslouchají celou dobu
+[45:52] a odesílejí ta data. Do toho tady máme
+[45:54] nový chat control
+[45:56] zákon, který
+[45:58] pravděpodobně v souvislosti s těmi
+[46:00] novými datovými centry, kde Evropská
+[46:02] Unie mluví o tom, že tam bude investovat
+[46:04] 30 miliard, respektive Unie 10 miliard
+[46:06] za soukromé zdroje dalších 20
+[46:08] miliard eur, protože chci vyvíjet
+[46:10] umělou inteligenci, tak myslím si, že
+[46:12] tohle stojí příprava právě pro datová
+[46:14] centra, kam se budou ukládat
+[46:16] informace o nás, aby je umělá
+[46:18] inteligence mohla vyhodnocovat v
+[46:20] reálném čase a spolu s tou
+[46:22] sítí 6G, generací 6G,
+[46:24] samozřejmě v reálném čase
+[46:26] budou vědět o nás naprosto všechno.
+[46:28] Co se týče zdravotních dopadů,
+[46:31] to nevím, to jsem zatím neskoumal,
+[46:33] ale když to dokáže přečíst
+[46:35] přes tlustou zeď tep vašeho srdce,
+[46:37] tak se dá předpokládat, že to nějaký
+[46:39] vliv na zdraví může mít, ale
+[46:41] o tom nevím, to jsem opravdu
+[46:43] zatím neskoumal.
+[46:47] Doktor Rainer Fulmich byl
+[46:49] mučen nejméně 6 měsíců
+[46:51] ve věznici Rozdorf.
+[46:53] Podle obhájiců
+[46:55] německého právníka Rainera Fulmicha,
+[46:57] čelil během vazby
+[46:59] mimořádně přísným podmínkám,
+[47:01] tvrdí, že byl od 4. do
+[47:03] prosince 2024
+[47:05] držen v izolaci, měl omezený
+[47:07] kontakt s ostatními vězmi, pohyb
+[47:09] i telefonování. Kritika se
+[47:11] týká také jeho eskortu
+[47:13] k soudu, při kterém měl být
+[47:15] podle těchto tvrzení převážen v poutech
+[47:17] a s bezpečnostními
+[47:19] opatřeními odpovídajícími
+[47:21] vysoce rizikovým osobám. Jeho
+[47:23] obhájici rovněž uvádějí, že měl
+[47:25] stížený přístup k podkladům
+[47:27] pro přípravu obhárovy.
+[47:29] Tak víte, doktor Rainer Fulmich
+[47:31] byl hostem na našich demonstracích
+[47:33] v roce 2022 v České republice.
+[47:35] Telefonicky
+[47:37] myslím, že to bylo konkrétně, jestli si
+[47:39] dobře vzpomínám, před Českou televizí, když jsme měli
+[47:41] pochod na Českou televizi.
+[47:43] Je to člověk, se kterým
+[47:45] máme nějaký dobrý vztah,
+[47:47] je to člověk, který prokázal velkou
+[47:49] odvahu v covidu, chtěl zorganizovat
+[47:51] soudy, lidové
+[47:53] soudy, měl připravených 100
+[47:55] právníků. A to,
+[47:57] za co byl obžalován
+[47:59] a za co je ve vězení a za co je souzen,
+[48:01] je v podstatě majetková trestná
+[48:03] činnost, která vychází z toho, že
+[48:05] žena, kterou si nechal
+[48:07] nasadit jako lídra svojí
+[48:09] vlastní organizace, ho v podstatě
+[48:11] udala za to, že nakoupil dům
+[48:13] a že udělal nějaké podvody z penězí, kteří
+[48:15] mu poslali přispěvovatele.
+[48:17] Je to naprosto vykonstruovaný příběh.
+[48:19] Pravděpodobně paní
+[48:21] bude pracovat pro tajné služby a měla
+[48:23] za úkol ho zlikvidovat. Ale
+[48:25] takováhle majetková trestná činnost, to,
+[48:27] že vzal nějaký peníze a koupil za to
+[48:31] se dneska děje na poli trestný
+[48:33] činnosti a ekonomický. Podívejte, celá
+[48:35] Česká republika je rozkradena. Stejně
+[48:37] tak jako další
+[48:39] země. Když se podíváte na drahou předraženou
+[48:41] elektřinu, tak přece Kairi musí říct,
+[48:43] že by policisté přece a státní
+[48:45] zástupci měli stíhat tu organizovanou
+[48:47] skupinu zločineckou,
+[48:49] která zvýšila bezdůvodně ceny
+[48:51] elektřiny, aby potom ti
+[48:53] energobaroni mohli být v časopise
+[48:55] Forbes mezi nejbohatšími lidmi
+[48:57] na světě. Tam není k tomu
+[48:59] žádný jiný důvod a policie a státní
+[49:01] zástupci se na to nekoukají, na tuhle ohromnou
+[49:03] kriminální organizovanou
+[49:05] trestnou činnost. Ale místo toho
+[49:07] člověk, který mluvil
+[49:09] v covidu o tom, co se vlastně
+[49:11] ve skutečnosti děje, tak je nepřítelem
+[49:13] státu číslo jedna v Německu.
+[49:15] Nejenom on, ale třeba jeden z vedoucích
+[49:17] představitelů AFD. A je
+[49:19] vězněný už dlouhou dobu. Mimo jiné
+[49:21] třeba jedna z těch věcí, který mu dělali, kromě
+[49:23] týrání a mučení, protože toho týrání
+[49:25] a mučení je tam hodně, mohl bych vám
+[49:27] o tom vyprávět díl, ale jsme přece jenom ve správách,
+[49:29] takže není to úplně téma na správy dohloubky,
+[49:31] ale mimo jiné Reinerovi umřela
+[49:33] matka. A
+[49:35] když mu umírala, tak ho tam
+[49:38] když ho, když umírala,
+[49:40] tak požádal, jestli by jí mohl vidět.
+[49:42] A ta německá prokuratura
+[49:44] nebo německé soudy
+[49:46] mu vyhověli, nebo nevím, kdo to řídí
+[49:48] přesně v Německu v tuhle
+[49:50] chvíli, protože třeba v mém případě
+[49:52] ty
+[49:54] trestné, ta trestná skjání,
+[49:56] která proti mně byla, tak řídila vždycky
+[49:58] Bezpečnostní informační služba, Ministerstvo
+[50:00] vnitra a Nejvyšší státní
+[50:02] zastupitelství z Prahy. Dokonce
+[50:04] je tam spousta nezákonných
+[50:06] věcí, že soudy telefonovali
+[50:08] policistům a tak dál, a
+[50:10] policisté mařili výkon.
+[50:12] To se možná někdy rozkryje, až nebude
+[50:14] u moci tahleta vláda, uvidíme.
+[50:16] Ale co se týče případu Reinera Fulmicha,
+[50:18] pravděpodobně taky tam je
+[50:20] tlačeno z těch nejvyšších politických míst
+[50:22] na to, aby bylo s ním zacházeno takovýmhle
+[50:24] způsobem. A nejenom, že šel k
+[50:26] soudu spoutený jako vězeň, který by
+[50:28] ohrožoval životy lidí přes to, že šlo
+[50:30] o nákup nějakého domu, ale
+[50:32] k jeho matce mu řekli, že ho pustí.
+[50:34] Ale, že bude taky svázený
+[50:36] tak, jako šel k soudu, to znamená na nohách,
+[50:38] na rukách svázený jako nejtěžší kriminálník.
+[50:40] On nad tím
+[50:42] přemýšlel a nakonec řekl, že nechce
+[50:44] matce, která umírá, která má poslední dny
+[50:46] způsobit takovéhle trauma před smrtí,
+[50:48] aby viděla svého syna jako
+[50:50] těžkého kriminálníka spoutaného,
+[50:52] přivedeného do nemocnice.
+[50:54] Takže se rozhodl, že matku
+[50:56] radši nenavštíví, aby ji
+[50:58] nespůsobil nějaké
+[51:00] těžké trauma. A Rainer Fulmich se
+[51:02] bohužel neviděl ani ze svojí
+[51:04] matkou, která zemřela
+[51:06] a nebyl ani na jejím pohřbu. A to považuju
+[51:08] za absolutně
+[51:10] katastrofální, když si
+[51:12] vezmeme, že Rainer Fulmich je
+[51:14] nevinný, z mého pohledu absolutně nevinný,
+[51:16] ale i kdyby viný byl, tak
+[51:18] je viný pouze z toho, že nakoupil za
+[51:20] peníze, které mu poslali lidi na nějakou
+[51:22] činnost dům. On
+[51:24] samozřejmě se hájí tím, že ten
+[51:26] dům koupil, protože potřeboval
+[51:28] uchovat tu hodnotu peněz
+[51:30] a nějaké další věci. Jsou tam
+[51:32] nový důkazy v tomto případu.
+[51:34] Za mě toto je naprosto skandální.
+[51:36] Po Julianu Assangevi myslím, že
+[51:38] Rainer Fulmich je další člověk, který
+[51:40] je absolutně zničený, níčený
+[51:42] tím lidským režimem, systémem.
+[51:44] Jestli máte nějakou možnost to podpořit,
+[51:46] napsat mu e-mail, zprávu
+[51:48] nebo něco takového, tak samozřejmě to udělejte.
+[51:50] Pokud byste chtěli napsat
+[51:52] skrze nás, tak můžete napsat
+[51:54] na info
+[51:56] zavinac.cz
+[51:58] Můžete napsat e-mail, zprávu Raineru Fulmichovi
+[52:00] a my mu vaše zprávy
+[52:02] předáme. Tak pojďme na další zprávu.
+[52:04] 3. srpna
+[52:07] Asi jezická komunita
+[52:09] připomínala začátek genocidy,
+[52:11] kterou v roce 2014
+[52:13] zahájil islámský stát
+[52:15] v Iráku. Extremiste zavraždili
+[52:17] tisíce lidí, tisíce žen
+[52:19] a děti odvlekli do otroctví.
+[52:21] Přibližně 50 tisíc jezidů
+[52:23] tehdy uprchlo do hor
+[52:25] Šingálu, kde přežívali
+[52:27] v extrémních podmínkách bez dostatku
+[52:29] vody a potravin.
+[52:31] Mezinárodní zásah pomohl tenkrát prolomit
+[52:33] obležení a umožnil
+[52:35] jejich evakuaci.
+[52:37] Z odhadu bylo zabito 3 až 5 tisíc
+[52:39] jezidů, více než 6 tisíc
+[52:41] žen a děvek bylo uneseno
+[52:43] a tisíce lidí se dodnes pohřešují.
+[52:45] Mnoho přeživších stále žije
+[52:47] v uprchlických táborech
+[52:49] a komunita se z následky genocidy
+[52:51] vyrovnává dodnes.
+[52:53] Tak je to další dneska smutná
+[52:55] zpráva, ještě budeme mít jednu
+[52:57] smutnou zprávu, ale bylo to potřeba
+[52:59] jezidové, určitě se to pamatujete,
+[53:01] když islámský stát řádil
+[53:03] v Syrii, tak začali
+[53:05] unášet tyhle jezídy,
+[53:07] především jezícké ženy, 6 tisíc
+[53:09] zusko, nebo kolik se odhaduje,
+[53:11] že unesli, ale proč je unášeli?
+[53:13] Protože možná si
+[53:15] vzpomenete, my jsme to zveřejňovali tou dobou,
+[53:17] ty trhy s těmi
+[53:19] sexuálními otrokyněmi,
+[53:21] tenkrát oni tam ty jezícké ženy
+[53:23] vystavovali na trhu a měli tam
+[53:25] k nim cenovky a lidi si je,
+[53:27] ti islámský teroristé,
+[53:29] protože jinak se jim říct nedá,
+[53:31] tak si je kupovali.
+[53:33] Dodneška je spousta těch žen
+[53:35] vytvořených, dodneška pravděpodobně
+[53:37] spousta z nich funguje
+[53:39] bohužel jako sexuální otrokyně
+[53:41] pro tyhle ty islámské
+[53:43] teroristy a samozřejmě můžeme
+[53:45] poděkovat Donaldu Trumpovi, že prohlásil, že
+[53:47] Syrii vymazal ze seznamu
+[53:49] zemí, které mají problém s terorismem
+[53:51] a vůdce jedné z těch
+[53:53] teroristických skupin, který je dneska prezidentem
+[53:55] Syrie, tak má i otevřené dveře
+[53:57] u nás na Ministerstvu zahraničních věcí
+[53:59] i v Bílém domě.
+[54:06] A Srbsko a
+[54:08] Republika Srbská
+[54:10] si dnes připomínají výročí
+[54:12] chorvatské operace Oluja
+[54:14] z roku 1995.
+[54:16] Podle srbských zdrojů
+[54:18] během dní zahynulo nejméně
+[54:20] 1886 Srbů
+[54:22] a více než 250 000
+[54:24] lidí opustilo své
+[54:26] domovy. V Srbsku probíhají
+[54:28] pětní akce a vzpomínkové bohoslužby.
+[54:30] V Chorvatsko naopak 5. srpna
+[54:32] slaví Den vítězství
+[54:34] a vlastenecké vděčnosti,
+[54:36] který připomíná obnovení kontroly
+[54:38] nad územím po této operaci.
+[54:42] To je neuvěřitelná zpráva.
+[54:44] To, že je to dneska 31 let,
+[54:46] kdy začala operace Oluja,
+[54:48] v loňi jsme o tom taky mluvili,
+[54:50] ta operace v podstatě znamená,
+[54:52] podívejte, celá ta jugoslávská válka
+[54:54] se odehrávala mimo území Srbska,
+[54:56] kromě Kosova. V Srbsku žádná válka nebyla.
+[54:58] Ale ta válka byla na území Chorvatska
+[55:00] a Chorvaté čistili Chorvatsko
+[55:02] od lidí, kteří byli
+[55:04] srbské národnosti, protože
+[55:06] jsou to nacisté.
+[55:08] A když to udělali přávě při operaci Oluja
+[55:10] v roce 1995, před 31 lety,
+[55:12] tak vyhlásili, že musí všichni Srbové
+[55:14] opustit Chorvatsko.
+[55:16] 250 tisíc lidí šlo průvodem,
+[55:18] to byl opravdu velký průvod, který šel 3 dny.
+[55:20] A ti Chorvaté na ně utočili,
+[55:22] byly to většinou ženy, muži a starci
+[55:24] a děti,
+[55:26] protože muži byli,
+[55:28] ti, kteří tam byli, tak válčili,
+[55:30] bránili ty domovy. Jsou tam strašný příběhy
+[55:32] i od lidí, kterých znám osobně,
+[55:34] strašný příběhy, jak to probíhalo.
+[55:36] Ale to, co bych řekl,
+[55:38] v tom, myslím, že třetím dnu,
+[55:40] dokonce Chorvaté udělali vojenský nálet
+[55:42] vojenskými letadly na ten průvod
+[55:44] a zbombardovali ten průvod,
+[55:46] jinak je stříleli i zezadu.
+[55:48] Takže tohleto je jedna z největších genocid,
+[55:50] které probíhaly po druhé světové válce v Evropě.
+[55:52] Čtvrtmilionu lidí takovýmto způsobem vyhnaných.
+[55:54] A Srbové si to samozřejmě
+[55:56] připomínají jako pětu,
+[55:58] kteří se našli za vraždění.
+[56:02] A mezi tím v Šibeníku dneska
+[56:04] probíhá koncert
+[56:06] toho zpěváka, který si říká Thompson,
+[56:08] o kterém jsme tady taky už mluvili
+[56:10] před několika měsíců, nebo před půl rokem zhruba,
+[56:12] kdy měl koncert, který
+[56:14] provolává nacistická hesla
+[56:16] z druhé světové války
+[56:18] na svém koncertu. Naposledy měl na koncertu
+[56:20] 400 000 lidí, nebo 450 000 lidí.
+[56:22] A premiér potom
+[56:24] chorvatský řekl,
+[56:26] že to, že se tam prohlašují
+[56:28] ta hesla, která se říkala
+[56:30] právě za druhé světové
+[56:32] války nacistické, i za války
+[56:34] té, jak oni říkají,
+[56:36] osvobozenecké, nebo jak ji říkají
+[56:38] v těch devadesátých letech, takže to je
+[56:40] součást jeho kulturního repertoáru.
+[56:42] Takže zatímco Srbové
+[56:44] truchlí tadyhletu záležitost,
+[56:46] tak Chorvaté slaví
+[56:48] svoje nacistické
+[56:50] operace z devadesátých let.
+[56:52] Tak, doufám, že tam máme
+[56:54] ještě toho malýho kluka.
+[56:56] A ještě tady máme dobrou zprávu.
+[56:58] Paráda, protože tímhle bych opravdu nechtěl
+[57:00] končit. Tak pojďme na dobrou zprávu.
+[57:02] Malýho kluka nemáme.
+[57:04] Nemáme, škoda. Ne.
+[57:06] Polský dálkový plavec
+[57:09] Bartolomej Kupkovský
+[57:11] se zapsal do historie.
+[57:13] Jako první člověk zvládl přeplavat
+[57:15] Balcké moře mezi Švédskem
+[57:17] a Polskem bez přestávky.
+[57:19] Kupkovský urazil víc než 160
+[57:21] kilometrů bez spánku
+[57:23] a bez kontaktu s doprovodnou lodi.
+[57:25] Tam mu během výkonu pouze zajišťoval
+[57:27] občerstvění a bezpečnost.
+[57:29] Ve vodě strávil přibližně 56 hodin.
+[57:31] Při předchozím pokusu
+[57:33] v roce 25 skončil
+[57:35] 11 kilometrů před cílem
+[57:37] po více než 50 hodinách boje
+[57:39] s náročnými podmínkami.
+[57:41] V minulosti ho zastavili silné proudy,
+[57:43] počasy nebo vyčerpání.
+[57:45] Extrémní výkon má také
+[57:47] charitativní rozměr.
+[57:49] Kupkovský
+[57:51] svým projevem podporuje
+[57:53] pomoc dětem s onkologickými
+[57:55] onemocněními.
+[57:58] Vynikající máme stojími chlupy,
+[58:00] na rukách, na nohách, úplně všude.
+[58:02] To je samozřejmě velký
+[58:04] gratulace do Polska, to je obrovský výkon.
+[58:06] A to, že vybral 140 tisíc
+[58:08] eur na děky s
+[58:10] rozkížením onkologie, to je samozřejmě
+[58:12] taky velmi záslužný.
+[58:14] Takže zdravíme do Polska
+[58:16] i diváky, kteří jste tady z Polska,
+[58:18] tak samozřejmě velký gratulace.
+[58:20] Děkujeme bardzo.
+[58:22] Vám taky samozřejmě děkujeme za sledování
+[58:24] zpráv a tobě, Zuzko,
+[58:26] za přípravu zpráv. Dneska zprávy byly
+[58:28] obsáhlé, dneska
+[58:30] oproti včerejší okrukové sezóně,
+[58:32] dneska jsme se toho dozvěděli opravdu hodně.
+[58:34] Tondo, tobě díky za to, že jsi zvládnul dnešní
+[58:36] zprávy po technické stránce.
+[58:38] Děkujeme vám za komentáře,
+[58:40] za sdílení, za lajky
+[58:42] a těšíme se na vás
+[58:44] zítra o 9 hodin.
+[58:46] A taky pravděpodobně
+[58:48] ode dneška už můžeme brát další
+[58:50] hosty, protože zdá se, že nám
+[58:52] to funguje, takže jsem rád, že jsme
+[58:54] překonali další metu. Mějte se krásně,
+[58:56] přátelé, hezký večer, máme vás
+[58:58] rádi. Navíděnou zítra
+[59:00] a zítra si teda na závěr dáme toho
+[59:02] malýho kluka. Dobře,
+[59:05] domluveno, domluveno, hezký večer.

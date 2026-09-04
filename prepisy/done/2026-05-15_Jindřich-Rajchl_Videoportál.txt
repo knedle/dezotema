@@ -1,0 +1,96 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/2476600516111412
+Datum videa:  2026-05-15
+Zpracováno:   2026-05-17 16:52:13
+Jazyk:        cs
+Délka:        00:05:37
+Zhlédnutí:    61 000
+Popis:        Nejpodstatnější část mého včerejšího projevu v PSP ČR ve věci sjezdu Sudetoněmeckého landsmanšaftu v Brně.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    6s
+Přepis:       52s
+Rychlost:     6.5x realtime
+Celkem:       58s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Třetí věc, které bych se chtěl zmínit, je věc, která mě leží na srdci asi nejvíce
+[00:09] a to je právě to, jakým způsobem to dopadá na česko-německé vztahy.
+[00:15] Víte, já už jsem to četl v televizi, ale myslím, že je zcela na místě,
+[00:21] aby na půdě této ctěné sněmovny zazněla slova, respektive text prohlášení spolku Lidice Memory.
+[00:29] Tento spolek združuje přeživší a pozůstalé právě z této vesnice,
+[00:36] která byla brutálním způsobem nacisty vypálena.
+[00:40] Dovolte mi, prosím, aby tato slova tady zazněla, abych to prohlášení přečetl,
+[00:44] protože je považuji za naprosto výstižné a všeobsažné k té současné situaci.
+[00:52] Prohlášení Lidice Memory ke sjezdu Sudeten Deutsche Landsmannschaft Bundesverband e.V. v Brně.
+[00:58] Spolek Lidice Memory, který združuje přeživší lidické děti a potomky obětí nacistického teroru v Lidicích,
+[01:05] předkládá k pánovanému sjezdu následující prohlášení.
+[01:09] Zásadně odmítáme, aby se tato akce konala na území České republiky.
+[01:16] Respektujeme Česko-německou deklaraci z roku 1997 i kroky směřující ke smíření,
+[01:23] včetně omluvy, která zazněla při návštěvě německého prezidenta Gauka
+[01:28] v roce 2012 v Lidicích.
+[01:31] Již zadu let spolupracujeme s podobnými německými organizacemi, jako je ta naše.
+[01:38] Neboli předsudky se u nás nekonají.
+[01:43] Smíření však nemůže znamenat zapomnění ani přepisování historické skutečnosti.
+[01:51] Paměť vyhlazení Lidic není abstraktní pojem.
+[01:55] Je to konkrétní bolestná zkušenost našich rodin.
+[01:59] Právě proto nelze přijmout akci, která tuto paměť zlehčuje.
+[02:05] Plánovaný sjezd nepovažujeme za projev smíření,
+[02:10] nejbrž za demonstraci necitlivosti a neúcty.
+[02:14] V kontextu českých dějin jde o krok, který neuznává minulost,
+[02:20] ale naopak znovu otevírá již téměř zahojené rány.
+[02:24] Odmítáme, aby Česká republika poskytovala prostor akcím,
+[02:29] které mohou vést k relativizaci odpovědnosti za válečné zločiny
+[02:33] a k otevírání již uzavřených historických otázek.
+[02:37] Důrazně žádáme ty, kteří o této akci rozhodují,
+[02:42] aby své stanovisko změnili a bez odkladu využili
+[02:46] všechny dostupné právní, politické i diplomatické prostředky
+[02:50] k odvrácení konání tohoto sjezdu v České republice.
+[02:54] Já myslím, že nic dalšího není třeba dodávat.
+[02:58] Tady je opravdu řečeno vše.
+[03:00] Cítíte z tohoto textu nenávist, neochotu ke smíření,
+[03:04] snahu rozbít česko-německé vztahy?
+[03:08] Cítíte z nich nějakou nahnědlost?
+[03:13] Nazvali byste autory tohoto textu nahnědlými nácky?
+[03:17] Přeživší z Lidic? Asi těžko. Škoda, že zde tady
+[03:22] teď zástupci opozice nejsou, protože přesně na tohle bych se jich zeptal.
+[03:26] Na jednu jedinou otázku. Jestli by přeživší a pozůstalé z Lidic
+[03:30] nazvali nahnědlými nácky?
+[03:32] Protože fakticky to usnesení, které zde máme
+[03:36] dnes předloženo, velmi kopíruje
+[03:40] velmi kopíruje a je téměř podobné, obsahově bych řekl,
+[03:44] naprosto stejné, jako právě tohoto prohlášení spolku Lidice Memory.
+[03:48] A to je důvod, proč dnes stojím já.
+[03:52] A věřím, že i většina z vás. Mně tito lidé
+[03:57] prostě nejsou lidově řečeno ukradení. Mně tito lidé
+[04:01] nejsou ho stejní. Já budu chtít, aby její hlas
+[04:05] vždy zazníval a aby nebyl zapomenut.
+[04:10] Závěrem bych chtěl říct, že v České republice evidentně existují
+[04:14] v tuto chvíli dvě skupiny. Jedna, která konání tohoto sjezdu
+[04:18] podporuje, druhá, která si jej nepřeje a o které to vyvolává
+[04:22] bolest a rozítření jejich citů. Otázka je, které z těch
+[04:26] skupin dáme přednost. Naprosto jednoduchá věcná otázka.
+[04:30] A já jsem přesvědčen, že kdyby se ten sjezd konal
+[04:34] v Německu, tak budou spokojeny obě dvě ty skupiny.
+[04:38] Ta, která chce se nadále zbratřovat, zbližovat
+[04:43] se sudeto německým Landsmannschaftem, pořádat pši,
+[04:47] pořádat kulturní akce, by si jistě ráda na území Německa
+[04:51] na tuto akci dojela. A v tu chvíli by to tu druhou skupinu,
+[04:55] která se cítí zraňována, žádným způsobem netrápilo.
+[04:59] A proto se domnívám, že je správné vyhovět té druhé
+[05:03] skupině, nikoli v té první. Sjezd sudeto německého
+[05:07] Landsmannschaftu se měl konat na území Spolkové republiky
+[05:11] Německo. Myslím, že by to bylo úctyhodné a myslím si,
+[05:15] jsem o tom přesvědčen, že by to jak politici, tak občané
+[05:19] Spolkové republiky Německo tento náš požadavek bez zbytku
+[05:23] pochopili. Ale sponě ti, kteří mají ve svém srdci
+[05:27] dostatek empatie a znají naši vzájemnou historii.
+[05:31] Děkuji vám za pozornost.

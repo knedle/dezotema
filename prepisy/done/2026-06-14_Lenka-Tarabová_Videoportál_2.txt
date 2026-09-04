@@ -1,0 +1,590 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Lenka Tarabová
+URL:          https://m.facebook.com/watch/?v=1729081584929858&_rdr
+Datum videa:  2026-06-14
+Zpracováno:   2026-06-15 13:39:07
+Jazyk:        cs
+Délka:        00:22:06
+Zhlédnutí:    5 293
+Popis:        ODBORNÁ PŘEDNÁŠKA ZE SNĚMOVNÍHO SEMINÁŘE K VTE A FVE
+
+Prof. RNDr. Jaroslav Turánek CSc., DSc.
+
+Často vídám a čtu od podporovatelů OZE, jak jsou větrné elektrárny bezkonfliktní. Buď se jedná o osoby, k
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       3m 40s
+Rychlost:     6.0x realtime
+Celkem:       3m 44s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Tady na tom obrázku, to jsem udělal kdysi nějakých 2013,
+[00:15] když jsem byl na vědecké konferenci o vakcinách jako antivaxer na rodu,
+[00:20] tak jsme se byli podívat, to je nejvyšší hora toho rodu,
+[00:25] tak mi to připadalo jako Golgota.
+[00:34] No tam ty tři větrníky.
+[00:37] No a dneska ty Golgoty, co tady budou, mají těch křížů stovky.
+[00:42] Já jsem tu přednášku nazval jako vliv větrných elektráren na zdraví obyvatel,
+[00:52] biologickou integritu ekosystému a sociální soudržnost
+[00:56] a potravinovou bezpečnost České republiky.
+[00:59] Protože o tom se vůbec nemluví, boji vám to prezentuji jako,
+[01:03] že všechno je naprosto skvělé a není to pravda.
+[01:07] Zamlčují soustavně.
+[01:09] Ty dopady, které nejsou malé.
+[01:11] Já tady jenom ty dva citáty, ten, i když se všichni odborníci shodnou,
+[01:18] já myslím, ty vládní odborníci, mohou se mělit.
+[01:22] A čím větší je zájem v daném oboru, tím menší pravděpodobnost,
+[01:26] že výzkumná zjištění jsou pravdivá.
+[01:29] Čili vědět, co je správné a neudělat to, je největší zbavělost,
+[01:33] jak říká Confucius.
+[01:36] No tady máte vývoj větrníků.
+[01:39] Je to stejně, jak s těmi dinosaury.
+[01:40] Je tam megalomanie, aby se vůbec mohl vyčerpat ta nízká energie větru.
+[01:46] Vede k tomu zvětšování a zvětšování.
+[01:48] A skončí to, jak už říkal tady pan Rejchel, slepá ulička.
+[01:51] To víte napravo, toho cíplého ty dinosaura, kterého želou ti malí savci,
+[01:56] což tam budou můžet být v malých modulárních reaktorech.
+[02:02] Tady jenom ukázka, jak pak taková krajina vypadá,
+[02:05] když tam postavíte 250-metrová monstra, což ještě nikdy na světě se nedělá.
+[02:10] A Siemensový získ.
+[02:12] Zůstalo při dvanáctech těch monster, které potřebuje udat.
+[02:16] Je to veliký pomalu, jak tady ta pražská na Pankráci věž, která mě zní.
+[02:23] Tady jsem byl v Bratislavě na konferenci o koronavirových vakcinách,
+[02:28] tak jsem byl ubytován v hotelu a tohle jsem tam viděl.
+[02:31] Napravo to je Zemne, tam na tom horizontu v Burgenlandu
+[02:34] vidíte stovky těch větrníků, je to šílený.
+[02:37] A v noci se podíváte, to jsou ty červené body na horizontu,
+[02:41] to taktuje ty světky.
+[02:42] Je to synchronizováno GPS-kou, aby to všechno taktovalo stejně.
+[02:48] Ten dopad na lidi od červené světlo je vlastně poplaštní signál,
+[02:54] takže to narušuje vaši psychiku.
+[02:57] Přitáhne to hmyz, který tam samozřejmě zahyne,
+[03:00] přitáhne to netopíry, které tam loví.
+[03:02] A toho netopíra nezabijou ty lopatky, těm by se i vyhnul.
+[03:06] Toho zabije ten tlakový ráz za lopatkou,
+[03:08] protože netopír je savec a ty savčí plice jsou jiné než ptači.
+[03:12] Takže mu to roztrhá plice, on padne mrtvý.
+[03:17] Zase ho mě tohoj do ptáhu ptáku,
+[03:19] či potom až tak si může přečít detaily,
+[03:22] abych na to neměl čas.
+[03:23] Prostě už jen to blikání červených světel je nebezpečné.
+[03:27] Tady jsem udělal pár obrázků, abyste si měli představu,
+[03:30] jak se staví taková elektrárna.
+[03:32] To není jenom, že to postaví,
+[03:33] oni musí udělat příjezdové cesty,
+[03:36] musí tam přitáhnout kabely, kterým se ta elektřina potom vede
+[03:39] k těm rozvodlám, aby se napojila na síť.
+[03:41] A to jsou všechno mnoha tunové závaži,
+[03:45] čili už jenom ta doprava devastuje tu půdu pod těma silnicema.
+[03:52] Tady máte ukázku těch velkých lopatek.
+[03:54] Ta jedna lopatka váží 70 až 90 tun.
+[03:59] Takže celý ten komplex má skoro 400 tun,
+[04:03] který rotuje, to je ohromný,
+[04:05] ten setrvačná energie,
+[04:09] kterou v případě nehody musíte zastavit.
+[04:12] K tomu se ještě vrátím, to je další taková fantasmakorie,
+[04:15] který moji nám tady říkají.
+[04:18] Teď ty lopatky mají asi životost 2 až 3 roky.
+[04:22] Takže musí se vyměnit.
+[04:24] A ten odhad je, že v roce 2050
+[04:27] tady bude, někdo říká, 40 do 50 milionů tun
+[04:32] odpadu těch lopatek.
+[04:33] A co se s tím bude dělat?
+[04:35] No tady se ukazují takové eufemistické věci,
+[04:38] že se uděláte lezeckou,
+[04:40] lezeckou stěnu, nebo pro děti hřiště,
+[04:44] přístřežky na ko a tak dále.
+[04:46] Jenomže těch lopatek je tolik, to byste měli,
+[04:48] těch hřiští tolik dětějí mít nebudeme už.
+[04:51] Takže vypadá to posledně takto.
+[04:53] To jsou úložiště lopatek z těch elektráren v Texasu.
+[04:59] Oni tady blázni s asbestem z toho eternitu,
+[05:04] který vlastně, když ho nebudete drtit,
+[05:06] tak nebezpečně není.
+[05:07] A tady uložují tisíce, tisíce,
+[05:10] miliony tun těch lopatek.
+[05:15] Další problém je recyklace,
+[05:17] tak to železo z těch tubusů,
+[05:20] to oni nějak zpracují,
+[05:21] ale pak tam máte v zemi ty patky,
+[05:24] kde tady to stojí.
+[05:25] A ty naše elektrány, které by tady měly být,
+[05:27] doufám, že nebudou,
+[05:28] tak ty potřebuje patkou průměru 30 metrů.
+[05:32] To je 4 tisíce tun železo-betonu.
+[05:36] A myslíte, že ta rekultivace,
+[05:38] jak on nám řekl, my to zrekultivujeme.
+[05:40] No ta rekultivace spočívá v tom,
+[05:42] že uříznou ten vršiček,
+[05:44] na kterým je nasazen ten tubus
+[05:46] a zahrnou to zeminou.
+[05:47] Tomu říkají rekultivace.
+[05:49] Zkuste si dálnící zahrnout půl metrem zeminy
+[05:52] a pak tam pěstujíte brambory.
+[05:53] To je nesmysl, to jsou nesmysly,
+[05:56] tady oni tvrdí a vůbec se tady nezastavují.
+[05:59] Další problém, který tam potom nastane,
+[06:01] je, že vlastně ten beton
+[06:02] zůstává v zemi,
+[06:04] ten alkalizuje tu zemi v tom okolí,
+[06:07] naruší všechny ty kapiláry,
+[06:09] kterými se vsakuje voda,
+[06:10] čili tam vznikne takový špun
+[06:13] hydrogeologicky,
+[06:15] tam se zničí vlastně spodní vody,
+[06:17] protože neprosakují
+[06:18] a nad tím vám neporoste
+[06:20] maximálně tráva,
+[06:21] a dochází tam k větrné erozi.
+[06:26] To znamená,
+[06:27] že jedna ta patka má asi
+[06:28] tisíc betonů čtvrčních,
+[06:30] tam vznikne pustina.
+[06:33] Když máte ten větrný park
+[06:34] a toho nepočítám k tomu přijest dové cesty
+[06:37] a toho, co rozvrtávají kvůli káblům.
+[06:40] Teď,
+[06:42] když mě napadá to,
+[06:45] tak ještě důlezním,
+[06:47] tak oni mluví o infrazvuku.
+[06:49] Já nemluvím o infrazvuku jako takovém,
+[06:51] já mluvím o půlzním infrazvuku,
+[06:54] což je naprosto jiná kategorie.
+[06:56] Oni říkají,
+[06:57] to je jak šumění lesa.
+[06:59] Bolí vás šumění lesa hlava?
+[07:01] Já myslím, že nikolo z toho hlava nebolí.
+[07:03] Zkuste tady těm lidem,
+[07:04] zavřete je do jedné místnosti
+[07:06] a tam jim půjste metrom.
+[07:07] Pik, pik, pik, pik.
+[07:09] Deset hodin. Teď se šilijou.
+[07:11] Nebo si ťukejte takhle na hlavu.
+[07:14] To přesně se děje,
+[07:15] jenom vy to neslyšíte.
+[07:17] Jenom, že vy to neslyšíte.
+[07:19] Ten infrazvuk, to jsou zvukové vlny,
+[07:22] které jsou pod 20 Hz.
+[07:25] Čím velice pomalé,
+[07:26] ti prochází vším.
+[07:28] To nezastaví stěna.
+[07:30] Na rozdíl od normálně slyšitelného
+[07:32] nebo ultrazvuku.
+[07:33] Ten se zastaví nebo odrazi.
+[07:35] Ten infrazvuk, ten prochází v celé volně,
+[07:38] ohybá se nad krajinou
+[07:40] a navíc,
+[07:41] to vám taky neřeknou,
+[07:43] on jde vlastně do země.
+[07:45] A teď podle toho, jaké je podloží,
+[07:47] tak se šíří. Na žulových podložích,
+[07:49] což je vlastně v těch celších zónách
+[07:51] na Vysočině, kde je většinou žula,
+[07:53] tam rychlost, normální rychlost
+[07:55] zvuku ve vzduchu
+[07:57] je 330 metrů za sekundu.
+[08:00] Víte, kolik je v podloží?
+[08:01] 6 tisíc, 6 kilometrů za sekundu.
+[08:05] To prochází do velkých vzdáleností.
+[08:07] Ty seismografy v Německu se vyděsím,
+[08:09] protože to rozezvučí
+[08:10] seismografy a teď se to podráží
+[08:13] zpátky k zemi.
+[08:15] Jakmile ten infrazor,
+[08:17] ten puls dojde
+[08:19] k základům stavby,
+[08:21] tak začíná rezonovat
+[08:22] v té místnosti, tam vznikají kmitny
+[08:25] a ten akustický tlak
+[08:28] v té místnosti,
+[08:30] pokud rezonuje ta stavba,
+[08:32] může být až o 30 decibelů větší.
+[08:39] Dále je tam v noci,
+[08:41] když máte ten
+[08:43] studený vzduch při zemi,
+[08:45] a ten plejší ve výšce,
+[08:47] tak ten infrazor, který jde nahoru,
+[08:49] tak se odrazí, to je jak zrcadlo,
+[08:51] a jde dolů, takže on fokusuje
+[08:53] tu sílu do velkých vzdáleností.
+[08:55] Pak vám ukážu, až kam se může dostat.
+[08:57] A...
+[08:59] pardon...
+[09:05] Další věcí, která tam nastává,
+[09:07] je interference.
+[09:09] Když máte větřinu víc,
+[09:11] a oni nejsou fázově spojeny,
+[09:13] oni jsou fázově posunutí,
+[09:15] takže tam je celá řada vln,
+[09:17] na některých místech se to vyruší,
+[09:19] na jiných se to zesílí, zásadně zesílí.
+[09:21] A to zesílení
+[09:23] budete...
+[09:25] Naměřilo se minimálně 6 kilometrů
+[09:27] u těch menších, a tady to bude dostat
+[09:29] třeba 20 kilometrů. To nikdo nemůže
+[09:31] predikovat. Já vám ukážu potom
+[09:33] z Kanady tu studii.
+[09:35] To je ona.
+[09:38] V té Kanadě, u Otáry, tam je park,
+[09:40] který má 2400
+[09:42] větrníků. Tam máte dole mapku,
+[09:44] to zelné jsou ty parky,
+[09:46] a ty tečky černé, v tom jsou ty větrníky.
+[09:48] A tam je ukázka,
+[09:50] jak ty pulzy,
+[09:52] ten graf uprostřed,
+[09:54] jak ty pulzy se šíří tou krajinou.
+[09:56] Predikovat to na základě
+[09:58] je jenom, jak to vypočtování může.
+[10:00] To musí docházet poměrně
+[10:02] náročným měřením. Takže tam
+[10:04] ukázali, že pokud je dole
+[10:06] žluven podloží,
+[10:08] tak to dochází daleko dál.
+[10:10] Ve Vápencech se to trošku víc tlumí,
+[10:12] ale ne vohodně. V Pískovcích hodně.
+[10:14] A když jsou ruly,
+[10:16] tak tam se to šíří jako v žluvech,
+[10:18] podle toho, jak ty vrstvy
+[10:20] nejsou kolmou, tak se to celkem
+[10:22] zabrzdí v té zemi.
+[10:24] A když jsou vodorovně, to běží
+[10:26] jak ve vlnovodu. A o tom
+[10:29] minule mluvím. Teď se zmíníme
+[10:31] ještě o tom přírodním infrazvuku,
+[10:33] který oni berou jako ty
+[10:35] váschláchulí.
+[10:37] Teď strom, když se takhle komíhá,
+[10:39] tak samozřejmě dělá infrazvukové
+[10:41] vlny, ale ne pulzní.
+[10:43] To je ten rozdíl.
+[10:46] Ten průmyslový infrazvuk,
+[10:48] ten bývá od nějakých bucharů,
+[10:50] od kompresorů, ale ty většiny
+[10:52] větrníky, to je úplně něco jiného.
+[10:54] Protože ten větrník,
+[10:56] to máte 150
+[10:58] metrovej tubus, to je jako ohromná
+[11:00] píšťala varhán.
+[11:02] A jakmile ta lopatka jde kolem toho
+[11:04] stojanu, tam vzniká
+[11:06] tlakový puls, rozezvučí ten stojan
+[11:08] a to se chová jako,
+[11:10] ne jako bodovej zdroj, ale jako liniovej
+[11:12] zdroj, který má tu vlnopluchu
+[11:14] šíření válcovou, či dosahuje
+[11:16] do daleko větších dálek, ona se
+[11:18] nešíří jen vzduchem, ona se
+[11:20] šíří i vlastně raliovým
+[11:22] způsobem v té vrstvě
+[11:24] hlíny, takže ona jde
+[11:26] několika směrně odráží
+[11:28] se od spodní vrstev ještě,
+[11:30] takže projekce těch kmiter, kde
+[11:32] se to rozezvučí hodně
+[11:34] velice obtížná, možná nemožná.
+[11:36] Čili oni popisují,
+[11:38] že až 10-15 kilometrů
+[11:40] to dosahuje, tady se
+[11:42] chlubil pan Turek, že je to
+[11:44] posunul na 800 metrů, no to je nic.
+[11:46] To prostě je nic.
+[11:49] U nás, kdyby se tohle dodržovalo,
+[11:51] tak prakticky to nepostaví,
+[11:53] protože, jak už říkal
+[11:55] doktor Reichl, u nás ta hustota
+[11:57] osídlení, těch sídel je velice
+[11:59] velká. No o těch
+[12:02] seismických vlnách jsme už
+[12:04] mluvili, pak si to přečte v klidu.
+[12:06] To jsem řekl taky.
+[12:10] Tady je ukázka ze švédské
+[12:14] studie, oni to zase zesměšňují.
+[12:16] Tady máte ty křížky
+[12:18] uprostřed, to jsou ty větrníky
+[12:20] a tam měřili v určitých
+[12:22] vzdálenostech ten infrazvuk.
+[12:24] Měřit infrazvuk nebo půlny infrazvuk,
+[12:26] to není jako měřit
+[12:28] normálně telefon a
+[12:30] zjistíte nějakou ladinu
+[12:32] zvuku, protože infrazvuk neslyšíte
+[12:34] a ty normální měřáky
+[12:36] to vůbec nezachytí, oni to úplně
+[12:38] neslyší, nevidí.
+[12:41] Takže to jsou speciální měřáky,
+[12:43] kde se měří v krátkých
+[12:45] časových intervalech minimálně
+[12:47] 100 milisekund, abyste zachytili ten
+[12:49] pík toho pulzu.
+[12:51] Takže ještě ve vzdálenosti
+[12:53] 6 km
+[12:55] naměřili hodnotu
+[12:57] 95
+[12:59] decibelů.
+[13:01] Oni tady dají normu 90 decibelů
+[13:03] i v té hladině
+[13:05] G, to znamená i toho infrazvuku,
+[13:07] ale tady máte překračenou.
+[13:09] No a co to způsobí? Ten infrazvuk,
+[13:12] protože ty vlny jsou dlouhý,
+[13:14] tak naše orgány mohou
+[13:16] rezonovat s těmito vlnami
+[13:18] a rozechvědce.
+[13:20] Čili jsou to hrudík, plíce, ty větší
+[13:22] orgány, oční bulva,
+[13:24] hlava naše rezonuje.
+[13:26] Tomu víc bude
+[13:30] mluvit pan doktor Zdlínský, já jsem tohle
+[13:32] vynechal. Pak je tady
+[13:34] ekologický problém. První problém je
+[13:36] ty lopatky, další problém je vliv
+[13:38] na živočích v tom
+[13:40] zaseženém místě. A potom je to
+[13:42] eroze z těch lopatek.
+[13:44] Vemte si, že ty velké větrníky se točí
+[13:46] na konci rychlostí
+[13:48] 300 až 360 km
+[13:50] podle toho, kolik otáček
+[13:52] ta tvrtule má.
+[13:54] A ještě v těch vzdálenosti
+[13:56] 100 m při 8 m
+[13:58] za sekundu je rychlost 300 km.
+[14:00] Čili ten konec těch lopatek
+[14:02] se pohlbí velkou rychlostí.
+[14:04] A co máte ve vzduchu?
+[14:06] Kroupy, béšť,
+[14:08] sníh, prach
+[14:10] a hmyz. To všechno
+[14:12] působí na ten povrté lopatky
+[14:14] a dochází k
+[14:16] erozi. Tam zase, já jsem
+[14:18] hledal různá data a ta
+[14:20] se líší, ale našel jsem
+[14:22] i data, kolem 4 kg
+[14:24] z té velké lopatky za rok se uvolní.
+[14:26] To máte z těch 3 lopatek
+[14:28] 10 kg
+[14:30] a za 20 let
+[14:32] to máte 20 kg.
+[14:35] Tady to odpadlo.
+[14:37] Teda, to bylo za měsíc,
+[14:39] to bylo, já jsem počel, vycházelo to
+[14:41] čtvrt tuli za životnost
+[14:43] tou větrníku.
+[14:46] Čtvrt tuli mikročástic,
+[14:48] které se rozpráší do
+[14:50] vzduchu, které můžete rychat,
+[14:52] pak padnou, padnou do půdy
+[14:54] a to jsou lamináty, sklolaminát,
+[14:56] epoxi, to se nerozloží
+[14:58] a pokud je menší než
+[15:00] nějakých 5 mikronů,
+[15:02] tak se to dostává kořenem a do rostlin,
+[15:04] ty rostliny se žene zvěř
+[15:06] a vy to vlastně máte jako vrcholný
+[15:08] predátor nebo konsument,
+[15:10] to máte na taliři.
+[15:12] Dneska už ty mikroplasty způsobují takové problémy,
+[15:14] jsme k tomu plní,
+[15:16] protože produkujeme mikroplastů
+[15:18] v hrozném množství.
+[15:20] Pak tam,
+[15:22] no to, o to zkrátí pan doktore,
+[15:24] já to jen doma ještě
+[15:26] dořeknu tady ty věci.
+[15:28] Pak tam jsou ty polyfluované látky,
+[15:30] to jsou nerozložitelné látky.
+[15:32] Některé odhady jsou vysoké,
+[15:34] některé říkají, že to nemám vliv,
+[15:36] to nebudu diskutovat, ale
+[15:38] jsou to nebezpečné látky.
+[15:41] Tady v hospodářských nominálech
+[15:43] se vysmály článku, který jsme tam
+[15:45] s panem Inženem Beranem dali.
+[15:47] Ministerstvo zdravotnictví
+[15:49] nepředstavuje žádný
+[15:51] zdravotní problém, pak se tam smá
+[15:53] nějaký předseda té
+[15:55] energetiky nové, ten to nerozuměl
+[15:57] vůbec, no a zvláštní, že
+[15:59] tam psal nějaký otruba,
+[16:01] jo, tady se věnoval
+[16:03] Fransvuku a vůbec mu nedošlo, že
+[16:05] já mluvím o půl z dívy Fransvuku.
+[16:07] Tak to je ukázka našich
+[16:09] novinářů. Tady máte
+[16:11] výpočet, jsem dělal podle Ericssonovy
+[16:13] rovnice, kolik zásahů
+[16:15] blesků se dá očekávat
+[16:17] v našich elektrárnách 250 metrů
+[16:19] vysokých. U nás je přibližně
+[16:21] dva údery blesků na kilometr
+[16:23] čtvrdečí. Když jsem to
+[16:25] dosadil, tak mi vyšlo asi 3,5
+[16:27] zásahů blesků ty elektrárny.
+[16:29] Tam máte ukázku, co se děje s tou
+[16:31] elektrárnou. Tam může hořet
+[16:33] těch zásahů za rok
+[16:35] u těch velkých až 10.
+[16:39] A co se stane? Tam dojde
+[16:41] bleskově v krátkých
+[16:43] mikrosekundách k toku
+[16:45] proudu 20 000 ampér.
+[16:47] To tu lopatku minimálně eroduje,
+[16:49] neboť to může roztrhnout.
+[16:52] A ty hlášení
+[16:54] ukazují, že asi 1700
+[16:56] z těch
+[16:58] větrníků taky jeden má fatální zásah.
+[17:00] Když to začne hořet,
+[17:02] máte to v lese. No to
+[17:04] neuhasíte. A hlavně
+[17:06] tam je asi metr kvichovej
+[17:08] oleje, ten se vsáhne do
+[17:10] země. Já jsem si četl, jak to nekultivují.
+[17:12] To byla taková saranda. To byl nesmysl.
+[17:14] To byl prostě blázněnc, jo.
+[17:16] To nedostanete z těch
+[17:19] kapuklin v
+[17:21] podloždí horně. No a teď
+[17:23] jenom k tomu zdravotivu.
+[17:25] Jen lehce, to pak pan doktor
+[17:27] to rozebere. Ten
+[17:29] infrazvuk pulzí,
+[17:31] vy ho neslyšíte, ale on má
+[17:33] vliv na vnitřní ucho.
+[17:35] Tam vznikají elektrické signály,
+[17:37] ty jdou do mozku. A ty aktivují
+[17:39] tu osu hypotalamus,
+[17:41] hipofiz a nadlivinky. Výsledkem
+[17:43] je perdamentí stresové
+[17:45] uvolnění, perdamentí
+[17:47] uvolňování stresového hormonu
+[17:49] kortizolu.
+[17:51] I s těmi dopadky dopady tohle
+[17:53] nebudu propírat. I s těmi
+[17:55] dopady na váš imunitní systém
+[17:57] a na celkově vyčerpání organizmu.
+[17:59] Zkuste používat
+[18:01] kortikoidy jako léky.
+[18:03] Co vám to udělá? Zničí vám to
+[18:05] pleť, zničí vám to metabolismus.
+[18:07] Člověk to pak vyhodnocuje
+[18:13] jako iritující
+[18:15] podjet, který vlastně nevnímá
+[18:17] špatně spít a tak dále.
+[18:19] To řekne pan doktor.
+[18:21] Dopad na děti. To dítě, když je
+[18:23] v tom bříšku, ten plot,
+[18:25] to to taky vibruje.
+[18:27] Ono to taky slyší. Čili
+[18:29] dochází k narušení hlubokých
+[18:31] fáz do spánku dítěte.
+[18:33] Výsledkem jsou předčasné
+[18:35] porody a nižší porodní váha.
+[18:37] Už teď máme sniženou porodnost,
+[18:39] tak si zavedeme ještě toto. Hlavně
+[18:41] na venkových, kde se těch dětí pořád
+[18:43] činí víc. Pane profesore,
+[18:48] oblouvám si čas.
+[18:50] Už to je končí. No tady máme
+[18:52] ohrožení reproduce,
+[18:54] endoktost, to všechno slyšíme.
+[18:56] Tady zase to ostatní.
+[18:58] To jsou ty minerální oleje,
+[19:00] o kterých jsem mluvil. Recyklace,
+[19:02] o tom jsem mluvil. Ta devastace
+[19:04] půdy. Dneska
+[19:06] potraviny jsou klíčovou
+[19:08] záležitostí a my si budeme
+[19:10] zhoršovat bolin tu půdy, nebo ji
+[19:12] zdáme do železného betonu.
+[19:17] A pak je ten poslední, to už
+[19:19] končím, ten poslední problém,
+[19:21] o kterém se vůbec nemluví,
+[19:23] je stejný jako v době covidu.
+[19:25] Narošení komunikace
+[19:27] mezi lidmi, rozvrácení
+[19:29] tych venkovských sociét,
+[19:31] lidi přestávají cítit vztah k tomu
+[19:33] domu, připadají si jako
+[19:35] vyhnaní z toho domu a nemají kam jít,
+[19:37] protože ta nemožnost jejice
+[19:39] zaklesá a jinou si nekoupí.
+[19:41] Že v tom, ty vesnice
+[19:43] nechodí boháči. Čili
+[19:45] přestávají mít zájem na tom životu,
+[19:47] na toho venkova.
+[19:51] Je to taková průmyslová kolonizace.
+[19:53] Strácíte útočiště,
+[19:56] váš domov už necítí,
+[19:58] jenom ten vztah už
+[20:00] se za ně necháte brát.
+[20:02] Rozpadají se ty komunity, oštěpí se obce,
+[20:04] odpoutají se ty lidi
+[20:07] od těch kořenů.
+[20:09] No ty sociologické výzkumy to jasně
+[20:11] ukazují v těch zemích v Austrálii,
+[20:13] ve Švédsku. To nejsou nějaké
+[20:15] konspirační teorie,
+[20:17] to jsou fakta. A je to
+[20:19] velice podobné té době COVIDu.
+[20:21] Ekonomicky to je neuvěřitelné,
+[20:24] o tom budou mluvit další.
+[20:26] Ale hlavně vy strácíte důvěru v politiky
+[20:28] a ve demokratickém
+[20:30] zřízení. To je ta největší
+[20:32] ztráta. Prostě už nevěříte vládám,
+[20:34] nebudete chodit k volbám,
+[20:36] budete apatiční.
+[20:40] Kdo má zodpovědnost,
+[20:42] proč se tady neměří infrazukluzii
+[20:44] a tak dále.
+[20:47] Tak a závěr.
+[20:49] Ten zápas od většiny elektrárny
+[20:51] není jen technickým a ekonomickým
+[20:53] sporem o zdroje energie.
+[20:55] Je to hluboký zápas o právo na domů,
+[20:57] klid a zachování
+[20:59] lidské tváře venkova.
+[21:01] Ukazuje se, že pokud stát
+[21:03] prosazuje elektrickou politiku s silou
+[21:05] a ignoruje lidi na zemi,
+[21:07] platí za to daně
+[21:09] v podobě rozpadu společnosti.
+[21:11] Tady máte toho orla, který
+[21:13] prostě je obětí
+[21:15] těch elektrárn.
+[21:18] A co je pohání ty elektrárny?
+[21:20] Není to ten vítr.
+[21:22] Je to vlastně
+[21:24] stav miliard dotací a chtivost
+[21:26] těch větrných baronů,
+[21:28] těch nastrčených šmejdů,
+[21:30] té betonové lobby skrompovaných
+[21:32] politiků a vlastníků hlavních
+[21:34] médií, včetně veřejných
+[21:36] právních, jako ČT a ČR.
+[21:38] Nejsou to jako dnesky,
+[21:40] nejsou na těch seminářích, neinformuj.
+[21:42] Čili někde moratorium
+[21:44] na výstavu má smysl.
+[21:46] No tady máte člověka, který to může
+[21:48] zastavit, ale ten to zřejmě
+[21:50] neudělá.
+[21:53] A tady je písnička
+[21:55] skupinným tým, reklama na ticho.
+[21:57] To se si volím přečíst, tam to je
+[21:59] docela dobrý.
+[22:01] Takže děkuji za pozornost. Musel jsem
+[22:03] takhle ten světem.

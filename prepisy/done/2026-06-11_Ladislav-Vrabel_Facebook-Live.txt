@@ -1,0 +1,780 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1578781450482888
+Datum videa:  2026-06-11
+Zpracováno:   2026-06-14 12:05:16
+Jazyk:        cs
+Délka:        00:42:00
+Popis:        11. 6. 2026 Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    24s
+Přepis:       7m 14s
+Rychlost:     5.8x realtime
+Celkem:       7m 39s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:55] Ty máš tričko ze Zňilky, teď se tak na to koukám.
+[02:59] Vážení čátele, vítám vás u zprávy 2102.
+[03:03] Máme dneska 11.6.2026. Zuzko, ahoj, tobě taky hezky večer.
+[03:08] Krásný večer všem.
+[03:09] Máme tady prvních přes 100 sledující dnešní zprávy, což je skvělé.
+[03:14] Poslední dobu sleduje zprávy čím dál tím víc lidí, což jsem rád.
+[03:18] Vysíláme taky na cery1.cz, kdyby se vám to nedařilo chytit hnedka třeba na sociálních sítích,
+[03:24] jestli nám to tam vzdržují nebo vám to nezveřejňují, tak můžete sledovat na cery1.cz,
+[03:29] www.cery1.cz nebo www.cery1.live, tam vysíláme taky.
+[03:34] Pojďme se busky do zpráv. Dneska máme zpráv hodně a jsou zprávy docela zásadní, bych řekl.
+[03:40] Takže pojďme na to, ať nám to odsýpá.
+[03:43] Ne, odsýpá. Jak se to řekne česky správně? Odsýpá nebo odsýpá?
+[03:47] My říkáme u nás na to odsýpá.
+[03:49] Odsýpá, sípat.
+[03:50] Vy způsobně říkáte sípat, jako odsýpat.
+[03:54] Tak jdeme na to.
+[03:58] Podle magazinu New Scientist měly ukrajinské jednotky na frontě otestovat deset plně autonomních dronů řízených umělou inteligenci.
+[04:07] Tyto drony měly sami vyhledávat cíle a útočit bez toho, aby v okamžiku útoku rozhodoval lidský operator.
+[04:15] Podle výrobce technologie Aleksandra Kochanovského byly při testu zabití ruští vojáci.
+[04:21] Zároveň uvedl,
+[04:22] že šlo pouze o test, nikoliv o plošné nasazení.
+[04:26] Zpráva zatím není nezávisle potřebná oficiálním záznamem, ale pokud se potvrdí, jde o zásadný zlom.
+[04:32] Rozhodování o životě a smrti se přesouvá z člověka na algoritmus.
+[04:39] A víte, co to znamená?
+[04:41] Že jsme zase o krok kupředu.
+[04:44] Takže to je prostě, to je paráda, tadyhle to.
+[04:48] Teď už drony samostatně zabijí lidi.
+[04:53] Ani není k tomu potřeba, samozřejmě je to jenom test,
+[04:56] ani k tomu není potřeba, aby tam byli dronaři z Francie nebo z České republiky
+[05:00] nebo z jiného západního státu, i když samozřejmě ukrajinští dronaři jsou taky velmi
+[05:05] šikovní a umí to s těmi drony, oni se to naučili za tu dobu.
+[05:08] Ale teď už to znamená,
+[05:10] že jsme se u nás na skvělým západě a na Ukrajině naučili vyrábět stroje, který zabijí i bez toho, aniž by tam musel být člověk.
+[05:18] Prostě si vzlítnou,
+[05:19] umělá inteligence najde ruského vojáka a zabije ho.
+[05:22] A to je prostě obrovský pokrok.
+[05:24] A víte co, abych vám vysvětlil,
+[05:27] jak ten pokrok funguje, ono to není samo sebou.
+[05:30] To se pár chytrých hlav dolo dohromady,
+[05:32] a možná bysme si tady jednu chytrou hlavu mohli
+[05:35] pustit, protože jedna chytrá hlava nám už před volbama říkala,
+[05:38] že vlastně přesně tohleto je to, co by
+[05:41] tenhleten skvělej hranatý člověk chtěl dělat, nakonec to teda
+[05:45] nedostal tu funkci díky prezidentu Pavlovi,
+[05:48] ale dostal ji jeho kolega, který dneska
+[05:51] mění
+[05:52] strategii ekonomickou v České republice, na to se dostaneme ke zprávě číslo 2,
+[05:56] po vzoru jeho velkého vzoru Václava Klause a jeho kuponové privatizace.
+[06:01] Takže dneska se dějí opravdu velké věci, ale poprosím režie, jestli by nám mohla pustit
+[06:05] jednoho z těch, jednoho z těch lidí, který nám
+[06:08] před volbami říkali,
+[06:09] jaké to bude, když se budou vyrábět tyhle skvělé drony.
+[06:12] Tohle jsou zbrany minulosti.
+[06:14] Současný konflikt na Ukrajině ukázal, že tanky a OTčka nejsou všemocné.
+[06:18] Proč utracit miliardy za ocel, když se dá investovat do technologií, které v podstatě
+[06:22] vyhrávají válku?
+[06:23] Je potřeba poslouchat reálné odborníky a lidi se zkušenostmi.
+[06:26] Lobbystům a asi paní ministryně je jedno, že nesestřelíme ani Rogalo nad Prahou.
+[06:30] Naša armáda nepotřebuje další muzeum plechu.
+[06:32] Budou sloužit systém několika vrstve obrany,
+[06:35] letectva, dronů, ale i AI.
+[06:36] Potřebujeme sílu, která létá, vidí a zasáhne dřív, když agresor něco spustí.
+[06:41] To je štít a meč 21. století.
+[06:43] Jako kandidát do čela státu mimo jiné přicházíme s vizí masivního dronového programu.
+[06:48] Důstupné rojové i bojové drony.
+[06:49] Společně s PVO a F-35 můžeme vytvořit dostatečně silnou páteř naší obrany.
+[06:55] Přináší nám to i atraktivní role pro mladou generaci.
+[06:57] Datové důstojníky, dronové operátory nebo AI specialisty.
+[07:01] Dejte mi 3. a 4. října hlas a možnost pracovat s odborníky na bezpečnosti této země.
+[07:08] Pojďme dál, Zuzko, to jsme si jenom tady připomněli.
+[07:11] Proč jsme dneska tam, kde jsme?
+[07:12] A pojďme na Ministerstvo zahraničních věcí, které si tady zřizuje
+[07:17] takovou jako by pobočku Ministerstva financí a Ministerstva hospodářství.
+[07:23] Dnes na konferenci Investice mi k partnerství promluvil Minister zahraničních věcí.
+[07:30] Konferenci svolal Ministerstvo zahraničních věcí,
+[07:33] a pořádal ve spolupraci se svazem průmyslu a dopravy a hospodářskou komorou České republiky.
+[07:39] Jsem rád, že jste dnes přijali naše pozvání
+[07:42] a že se zde společně setkáváme, abychom otevřeně diskutovali
+[07:46] o nové podobě české rozvojové politiky
+[07:49] a o příležitostech, které přináší pro stát i podnikatelský sektor.
+[07:55] Tak ještě bych vám tady řekl kousek z této přednášky, z toho projevu Petra Macinky,
+[08:01] protože Petr Macinka se učil u veliká
+[08:04] Václava Klause, který přišel s ekonomickou reformou České republiky.
+[08:09] Možná si to někteří z vás pamatujete. Před tou reformou jsme jako Česká republika měli veškerý
+[08:15] vlastnictví, průmyslu,
+[08:17] majetku, prostě všeho, co bylo na území České republiky, patřilo nám.
+[08:21] Poté přišel Václav Klaus s geniální reformou,
+[08:25] ne měnovou, ale řekněme
+[08:28] reformou vlastnictví.
+[08:30] A tahle reforma se jmenovala kuponová privatizace za úkol měna
+[08:34] sprivatizovat to vlastnictví státu do soukromých ruk.
+[08:38] A my jsme si mysleli, to je skvělý, prostě teďko
+[08:41] to, co tady bylo v rukách státu zanedbávané, nikdo se o to nestaral, teď to dostaneme my,
+[08:47] občané,
+[08:47] a budeme se o to starat, každý dostaneme kousek, každý bude mít svoji malou firmičku,
+[08:52] budeme se o to starat, bude tady nějaká konkurence, všechno to bude skvétat,
+[08:56] budeme mít všichni otevřené možnosti, příležitosti, budeme podnikat,
+[09:00] ty peníze nebudou,
+[09:01] v tom státu se zas tak moc jich nevydělalo, protože se o to nikdo nestaral, bylo to takový jakoby cizí,
+[09:07] teď to bude naše,
+[09:08] tak se o to budeme starat, budeme tu naší zahrádku byznysovou pěkně zalývat,
+[09:12] porostou nám penízky a všichni se budeme mít dobře a budeme si žít v té krásné malé
+[09:17] zemi teď v tom soukromém vlastnictví.
+[09:19] To, co se ve skutečnosti stalo je,
+[09:21] že se to
+[09:22] ze státního vlastnictví
+[09:24] převedlo do vlastnictví soukromého,
+[09:26] ale do zahrádky,
+[09:28] a u toho se pár ligí, řekněme,
+[09:30] získalo nějaké větší majetky,
+[09:33] protože spolupracovali na tom převádění toho majetku do zahraničí a za to dostali
+[09:37] nějaké prebendy, takže pár lidí se stalo bohatými, třeba
+[09:40] Andrej Babiš, který je dneska premiérem vlády a
+[09:43] sedmím nejbohatším člověkem v České republice s vlastnictvím,
+[09:46] myslím, že ve stovkách miliard, snad dokonce.
+[09:49] Tak
+[09:50] přečtu vám kousek dál z
+[09:53] toho projevu Petra Macinky, který právě se vrátil ze Spojených států
+[09:57] a z Německa,
+[09:58] kde
+[09:59] úspěšně podle něj
+[10:01] vytváří
+[10:02] nové obchodní příležitosti. Ve Spojených státech třeba
+[10:05] nabízel, že by Česká republika mohla pro Spojené státy vyrábět zbraně,
+[10:09] abychom si je potom od američanů mohli nakoupit
+[10:12] a věnovat je Ukrajině.
+[10:14] Tak
+[10:15] jako otevřená exportně orientovaná ekonomika nemůžeme stát stranou.
+[10:20] Teď jenom ještě do toho zasáhnu jednu, abych to ujasnil. Petr Macinka nemůže stát stranou
+[10:24] jako přesto, že to je jenom ministr zahraničních věcí, nemůže stát stranou od toho, aby dělal ekonomickou reformu,
+[10:30] protože vyrůstal u Václava Klauze.
+[10:32] Musíme modernizovat náš přístup i nástroje.
+[10:34] Měníme proto příběh české rozvojové politiky.
+[10:38] Starý model byl založen na morální povinnosti, ten nový stojí na strategickém zájmu,
+[10:43] ekonomická logice a partnerství.
+[10:45] Vidíme rozvoj jako investici, nikoli jako charitu.
+[10:48] Jako prostor pro obchod, infrastrukturu, export, know-how a spolupráci, stát, business,
+[10:53] stát, stát,
+[10:54] stát, business, stát.
+[10:55] Není náhodou,
+[10:56] není náhodou,
+[10:57] není náhodou, že Spojené státy dnes otevřeně prosazují princip
+[11:02] trade over aid,
+[11:03] kterému jsme se jako jedni z velmi mála evropských států připojili.
+[11:08] A také jedním z nástrojů této změny je evropská iniciativa
+[11:12] Global
+[11:12] Gateway.
+[11:14] Není je novým pojetím rozvojové spolupráce.
+[11:17] Je to geopolitický nástroj,
+[11:19] kterým Evropská unie nabízí partnerům po celém světě
+[11:22] transparentní důvěr
+[11:24] s periodnou a strategickou alternativu
+[11:27] v době rostoucí globální konkurence a vlivového
+[11:30] soupeření.
+[11:31] Takže jsou to krásná slova pro ty z vás, kteří jste
+[11:35] pochopili všechno a nepotřeba, není to třeba
+[11:38] dovysvětlovat. Pokud jste
+[11:39] někdo na poprvé nepochopili hned, co to znamená, tak Petr Macinka
+[11:43] neříká, že by Česká republika měla být otevřená v rámci obchodu
+[11:48] všem zemí, což by se slušelo na ministra zahraničních věcí.
+[11:51] Petr Macinka tady říká spíš, jako kdyby byl ministrem
+[11:55] hospodářství a financí,
+[11:57] že budeme obchodovat
+[11:58] s kým? No hádejte s kým, tak určitě ne s BRICS, přestože BRICS
+[12:02] předběhl v obchodu G7.
+[12:04] Ale budeme obchodovat
+[12:06] s G7 hlavně se spojenými státy, protože spojené státy je potřeba zachránit před bankrotem, protože jsou předlužené
+[12:13] a dolarů se dneska obchoduje jenom asi
+[12:17] 65 % světového obchodu.
+[12:21] A je potřeba zachránit Evropskou unii, protože ta už nemá peníze
+[12:25] a musí si dokonce i půjčovat na to, aby mohla
+[12:28] dávat peníze Ukrajině.
+[12:29] Takže
+[12:30] to jsou naše hlavní
+[12:31] strategičký a ekonomičký partneři
+[12:34] a samozřejmě v té
+[12:35] ekonomice to už dneska nemůže být tak jako za Václava Klause,
+[12:39] že tady je trh, volný trh a stát by neměl zasahovat. Ne, ne, ne.
+[12:42] Dneska děláme nový model
+[12:44] stát-stát-biznis.
+[12:47] Takhle to pojmenoval
+[12:48] Petr Macinka. Takže
+[12:50] stát dělá business,
+[12:51] dneska zapojuje do toho firmy.
+[12:53] To znamená, máme centrální řízení ekonomiky
+[12:55] a pro koho pracujeme?
+[12:57] Pro Spojené státy a pro Evropskou unii
+[12:59] v rámci globálních
+[13:00] politických, strategických
+[13:02] obchodních zájmů.
+[13:03] Tak, to je nová politika
+[13:05] české vlády.
+[13:10] Na společném jednání evropských institucí se po hodinách vyjednávání podařilo najít kompromis,
+[13:16] spočívající v tom,
+[13:17] že by Kobise měla přijít s úpravou dalších cenových brzd, včetně úpravy
+[13:22] a pro
+[13:22] prodloužení stávajícího cenového stropu
+[13:25] na 45 eur,
+[13:27] to schválil Evropský parlament a také stanovisko k návrhu Evropské komise
+[13:32] na změnu rezervy tržní stability v novém systému
+[13:35] obchodování s emisními
+[13:37] povolenkami pro silniční dopravu,
+[13:40] budovy
+[13:40] a další odvěty Evropské unie.
+[13:43] ETS2, která má vstoupit v platnost v roce 2028.
+[13:48] Systém emisních povolenek má motivovat ke snižování emisí
+[13:52] a společnost si musí kupovat povolenky za každou tunu oxidu uhličitého,
+[13:57] kterou vypustí.
+[13:59] Čím více emisí,
+[14:00] tím mají vyšší náklady
+[14:02] a proto se jim vyplatí investovat do čištějších technologií.
+[14:07] Tam jsem
+[14:08] byl v tom, v té budově tohleto,
+[14:11] si docela pamatuju tu budovu zevnitř, vím jaká je tam atmosféra, jak to tam funguje,
+[14:15] taky jsem tam přednášel.
+[14:17] Je to taková zajímavá záležitost na Evropská unie. Danuši Nerudovou jsem měl tu čest
+[14:22] se o ní poprvé dozvědět z úst jednoho z těch
+[14:26] kvotrů, konkrétně člověka, který tvrdí, že dostal do funkce
+[14:30] Miloše Zemana, když se mě ptal, co bych tak asi chtěl,
+[14:33] nevím, jestli se mě pokoušeli uplatit nebo
+[14:36] co to mělo znamenat, potom se mě zeptali, jestli bych mohl podporovat Danuše Nerudovou
+[14:40] jako kandidátku na prezidentku, to bylo v srpnu roku 2022, ještě před tou největší demonstrací,
+[14:46] vůbec jsem netušil, kdo to Danuše Nerudová je.
+[14:47] Na dneska to víme, kdo je Danuše Nerudová, to je ta paní,
+[14:51] která vyjednala pro Českou republiku,
+[14:53] a nejenom pro Českou republiku,
+[14:54] která vyjednala ty skvělé povolenky, že budou zastropované na 45 eur.
+[15:00] No to je skvělý, to je paráda, sice jenom asi do roku 2027 nebo dokdy, ale
+[15:05] je to skvělá zpráva, konečně budeme mít povolenky,
+[15:09] chemistní povolenky, konečně budeme platit za to,
+[15:12] že si tady topíme,
+[15:13] nebo prostě, že používáme energii.
+[15:15] No nechtěli jste to,
+[15:16] no přece jste to chtěli všichni.
+[15:18] Vždyť jako máme
+[15:20] příliš levnou elektřinu, je potřeba připlatit ještě,
+[15:23] máme levný benzín a naftu, je potřeba připlatit, takže
+[15:26] vám moc gratuluju k tomu, že
+[15:29] máme tuhle tu skvělou zprávu,
+[15:31] že tady máme teďkon ty nové
+[15:32] povolenky a
+[15:34] jak vlastně
+[15:35] celá naše vláda říká, tak je to, sice ten
+[15:38] Green Deal je špatný, ale tohle je skvělý, že se to podařilo zastropovat na 45 eur, takže
+[15:43] gratuluju naší vládě k tomu,
+[15:45] že máme konečně
+[15:47] emisní povolenky, protože
+[15:48] to byla taky jedna z věcí v tom předvolebním programu, tak konečně
+[15:52] emisní povolenky máme, konečně jsme se dočkali.
+[15:55] Sláva naší vládě.
+[15:57] Tak Agenda 2030 nepustí, tam musíme prostě ty emise snížit
+[16:02] nevím
+[16:03] na nulu snad do nějakého roku.
+[16:05] Ono by to zuskošlo, ono by to zuskošlo.
+[16:07] Já vím, ale
+[16:08] Agenda 2030 to nedoholí.
+[16:11] Dobře, tak ono by stačilo z Agendy 2030 vystoupit,
+[16:15] to jsou pětské,
+[16:16] dohody a tak dál, prostě každá smlouva se dá vypovědět, ale
+[16:19] to by se muselo chtít,
+[16:20] tyhle věci vypovědět.
+[16:21] Ono,
+[16:22] to, že máme emisní povolenky, prostě to je jako jediný, kdo tohleto dělá Evropská unie.
+[16:28] Žádná jiná země na světě nejede prostě v těch, v tom Green Dealu
+[16:33] takovýmhle způsobem, to je jenom Evropská unie.
+[16:35] V Číně se to řeší úplně jinak, ve Spojených státech se to řeší jinak, v Africe se to řeší jinak, na blízkým závodním východě se to řeší jinak, v Rusku se to řeší jinak, úplně.
+[16:44] Nikdo nejde do takovýchto absurdních záležitostí, aby likvidoval své vlastní obyvatelstvo,
+[16:49] likvidoval svůj vlastní průmysl,
+[16:51] aby v rámci nějakých klimatických změn, nikdo jiný to nedělá, to je politika Evropské unie.
+[16:56] Každá země chutná jinak, každá země se zůstředí na něco jiného, ale tohle je specialita Evropské unie.
+[17:02] Proto říkám,
+[17:04] že máme z Evropské unie, co?
+[17:08] Vystoupit.
+[17:09] Vystoupit, přesně tak, děkuji za nápověď a děkuju za doplnění, tak pojďme na další zprávu.
+[17:15] Evropská komise neuspěla s obhajovou utajené části
+[17:20] vakcinačních kontraktů, udělala chybu,
+[17:22] když nezveřejnila informaci o smlouvách na nákup vakcín proti covidu,
+[17:27] uvedl generální advokát Soudního dvora Evropské unie
+[17:30] Antonacios Rantos a podpořil
+[17:33] zveřejnění jmén vyjednávačů
+[17:36] i smluvních detailů.
+[17:38] Soudnímu dvoru doporučil zamítnout odvolání, které podala Evrokomise
+[17:43] proti rozsudku Všeobecného soudu z roku 2024,
+[17:48] který nařizoval zveřejnění informací o smlouvách týkajících se
+[17:52] nákupu vakcín.
+[17:54] Přátelé, slíbil jsem tady v jednom komentáři,
+[17:57] že když někdo přijde brzo, uvidí naší první cibuly.
+[18:00] Tak proto mám taky asi tak dobrou náladu, protože manželka před
+[18:04] 15-20 minutama donesla spole
+[18:06] první naší cibuly.
+[18:08] Takže...
+[18:11] Pochlubit, máme to celý palec.
+[18:14] Není to nikde chemicky hnojený atd.
+[18:17] Tak zpátky kuršule von der Leyen.
+[18:19] Děkuju za gratulace.
+[18:20] Ještě, můžu tě přerušit na chvilku?
+[18:23] My dovážíme cibuly z Novýho Zélandu, takže...
+[18:26] No super, my si ji dovážíme.
+[18:27] Máme tady pole, takhle kousek nad barákem.
+[18:30] Zatím nám ji nosil soused svojí a teď už máme svojí.
+[18:33] Tak, není chemicky ošetřená, takže je to absolutně organické.
+[18:36] Tak ale, co jsem chtěl říct. Evropská unie, kuršula von der Leyen
+[18:40] a vakcíny.
+[18:42] To jsou dobré zprávy, že soudy začaly jít do toho, že se musí zveřejnit ty věci.
+[18:48] My jsme to hodně řešili.
+[18:50] Řešili jsme to v Evropském parlamentu, řešili jsme to v rámci Evropské iniciativy.
+[18:55] Máme kolegy, který pracují
+[18:57] v Evropském parlamentu, který nám vysvětlovali, jak to tam funguje.
+[19:00] Ten lobbying.
+[19:01] Jak ty lidi dělají lobbying za zavřenými dveřmi.
+[19:05] A tak dál. Takže ty
+[19:07] ty procesy tam
+[19:09] jsou jednoznačně absolutně korupční.
+[19:11] A co se týče uršuly von der Leyen, tak nebude to není tak zlý, to není tak, že by si uršula von der Leyen
+[19:17] nakradla všechny ty stovky miliard do kapsy,
+[19:19] který se točily na těch Pfizer vakcínách.
+[19:22] To určitě ne, ona se musí dělit.
+[19:24] To není, to není všechno pro ní.
+[19:26] Nebo abyste si nemysleli,
+[19:27] že si to všechno nakradl Babiš.
+[19:29] Ty miliardy.
+[19:30] A že potom
+[19:31] těch 8 miliard korun, co jsme vylili ve vakcínách, protože Andrej toho objednal
+[19:36] víc, než vůbec toho zvládnul do lidí nacpat pod pohruškami a pod
+[19:40] pod různými
+[19:41] boty zdarma a nevím co všechno.
+[19:43] Bude se očkovat teďko na hřišti a budou očkovat všichni a bude se očkovat v trafikách.
+[19:48] Tak to není tak, že by si Andrej Babiš nakradl všechny ty peníze.
+[19:51] To je prostě taková jako struktura moci.
+[19:54] Ten Pfizer to vyrábí, někdo mu to musí dohodnout tu
+[19:57] zakázku. To co je zajímavé, o čem jsem mluvil právě v Evropském parlamentu,
+[20:01] že jsme od
+[20:02] covidu
+[20:03] a té invazy ruské armády na Ukrajinu svědky úplně nového modelu.
+[20:08] Že se absolutně neřeší nějaký zákon
+[20:11] o veřejných zakázkách.
+[20:13] Že se nedělají tendry, že se nesoutěží, kdo dá lepší cenu.
+[20:16] Ne, ne, ne, covid, potřebujeme vakcíny, každý den se o tom píše v novinách, potřebujeme vakcíny, vakcíny, vakcíny,
+[20:23] kdo to dřív udělá,
+[20:24] budeme mít vakcínu, pak přijdou tři firmy a zkoupí se všechno.
+[20:27] Firmy vydělají obrovský balík,
+[20:29] smlouvy všechny začerněný,
+[20:31] no a potom, když se to nepodaří do lidí narvat,
+[20:34] no tak se to vylije,
+[20:35] zlikviduje se to samozřejmě za další peníze.
+[20:38] A to je ten příběh. No a v té struktuře
+[20:39] moci, tak něco vydělá Pfizer, něco vydělá Moderna, Johnson Jo,
+[20:44] něco vydělají ty firmy zdravotnické, něco vydělají ty časopisy, které o tom píšou,
+[20:48] něco vydělají ta média, která to propagují, něco vydělají ty politici, které jsou tam dosazeny, aby to do lidí tlačily.
+[20:54] No a nejméně na tom asi vydělají ty policajky,
+[20:57] který mlátí lidi potom na ulicích, protože ty jediný, co za to mají, tak mají svůj plade, možná nějaký příklad, který mlátí někoho, obzvlášť tu rově.
+[21:04] No takže asi bych to viděl. Takže nebuďte zlí, prosím vás, na Andreje Babiše nebo na Uršilu von der Leyen,
+[21:09] oni to nerozkladli všechno do svých kapec.
+[21:11] Tak pojďme na další zprávu.
+[21:15] Schodek státního rozpočtu může příští rok překročit 350 miliard korun.
+[21:20] V pravidelném čtvrtletním stanovisku
+[21:22] to ve čtvrtek uvedla Národní rozpočtová rada.
+[21:25] V letošním roce vláda plánuje hospodařit s deficitem 310 miliard korun.
+[21:30] Znamenalo by to čtvrtý nejlupší schodek ob vzniku České republiky.
+[21:35] Národní rozpočtová rada kalkuluje,
+[21:37] že při splnění třiprocentního Maastrichtského kriteria
+[21:41] může schodek státního rozpočtu na příští rok přesáhnout
+[21:45] hladinu 350 miliard korun.
+[21:47] Udržení schodku pod třemi procenty hrubého domácího produktu vyžaduje rozpočtová
+[21:54] pravidla Evropské unie.
+[21:56] Rada zároveň upozornila, že nevyloučuje ani překročení hranice 3%
+[22:00] HDP, poukazala přitom na návrh fiskálně strukturálního planu,
+[22:04] který hovoří o možném pokrytí vyššího schodku
+[22:08] únikovou doložkou,
+[22:10] kterou Evropská unie umožňuje při využití zvýšených výdajů na obranu.
+[22:16] No, tak 350 miliard je ruce a slušný zásek.
+[22:20] Můžu poprosit reži
+[22:21] vrátit tam ještě ten obrázek, protože ta trojka
+[22:24] to je prostě, to je nádhera.
+[22:26] To není jako u rejků doma tohleto, to je prostě
+[22:29] trojka lidí, který stojí
+[22:31] takhle na tý diskový konferenci a říkají si, všichni tři, hlavně babi, že, podívejte, jak se mu to honí hlavou.
+[22:36] Vydržíme to ještě?
+[22:38] Nebo už se lidi, nebo už to lidi pochopí a otočí? Ne, ne, ne, ještě,
+[22:42] ještě potřebujeme, ještě aspoň týden nebo dva týdny, aspoň měsíc, ještě potřebujeme být ta dobrá vláda,
+[22:47] která dělá všechno pro dobrýho,
+[22:49] pro dobročestího občana. Ještě to musíme vydržet, ještě to prostě musí, nesmí na to přijít ty lidi.
+[22:54] A Havlíček si říká, takhle kouká
+[22:56] doprava, kouká se a říká si,
+[22:58] no, tak to nám to s tým rejkům docela vyšlo,
+[23:01] ne, začali jsme od kmenových buněk, no a teďko najdeme 350 miliard shodek, to je paráda.
+[23:06] A Šelerová si říká, ale mám tak hezký účest, no těch 350 miliardů vůbec nevadí.
+[23:12] Takhle je tam vidím.
+[23:13] No ne, přátelé, je to paráda, máme skvělou vládu, máme skvělou vládu, máme čtvrtý nejvyšší shodek za existenci České republiky.
+[23:22] Přestože,
+[23:23] přestože shodek
+[23:24] vlády Petra Fialy byl prostě jedním
+[23:27] z těch hlavních argumentů Andreje Babiše v předvolení kampaní.
+[23:35] Partnerství Evropské unie a Norska je v centru pozornosti. Fonderlajnova přijala v Bruselu Jonase Gára Störeho.
+[23:43] Přece k něm ušla Fonderlajn, přijala toho předsedu
+[23:48] Evropské komise v Bruselu.
+[23:50] Setkání zdůraznilo úzké partnerství mezi Evropskou unii a Norskem,
+[23:55] založené na sdílených demokratických hodnotách,
+[23:58] hospodářské spolupráci,
+[24:00] energetické bezpečnosti, opatření v oblasti klimatu
+[24:04] a podpoře evropské stability.
+[24:08] A Norsko není v Evropské unii, že ne?
+[24:10] Norsko není součástí Evropské unie.
+[24:13] Norsko je velmi bohatá země, především
+[24:16] na ropu
+[24:17] a
+[24:18] má velmi vysoký
+[24:19] standard. Bohužel je velmi silně islamizováno Norsko už dlouhodobě.
+[24:24] Norsko je v podstatě oslo, které je strašně předražené.
+[24:27] Strašně předražené město. Je to snad nejdražší, možná po centru Moskvy,
+[24:33] nejdražší asi město v Evropě.
+[24:36] Velmi drahé město v Ruském, na život extrémně drahé.
+[24:40] A potom jsou tam ty krásný fjordy, tyhle místa, polární záře a tak dál.
+[24:46] Velmi zajímavý lidi.
+[24:48] Tady, kde
+[24:49] jsme byli.
+[24:50] A bohužel o to bohatství, který měli,
+[24:53] už přišli v těch posledních letech, protože se začalo
+[24:57] investovat do těch sociálních služeb a do migrantů.
+[25:00] Strašně se tam zdražilo a Norvé si hodně stěžují.
+[25:03] Takže ten jejich
+[25:04] extrémně vysoký životní standard, oproti Evropě, extrémně vysoký životní standard
+[25:09] už ne všichni mají, ty bohaté rodiny samozřejmě ještě pořád ano, ale
+[25:13] jinak už to není taková obrovská sláva, jako to bývala.
+[25:17] A
+[25:18] teď vstoupí do Evropské unie, takže
+[25:20] budou pomalu
+[25:21] strvým pádem dolu, tak jako celá Evropská unie.
+[25:28] Spojené státy zautočily na vodní zařízení v iránské provincii
+[25:32] Hormozgan během posledního kola útoku, uvádí New York Times.
+[25:37] Centcom USA
+[25:39] tvrdí, že šlo o přesnou ránu.
+[25:42] Často však bylo 20 000 městných obyvatel odřiznuto od dodávek vody
+[25:46] v oblasti trpící extrémními teplotami a
+[25:49] silnou závislostí
+[25:51] na vzácných vodních rezervuárech.
+[25:54] Osobně vám řeknu, kdybych měl tu možnost, tak bych dal přesnou ránu Donaldu Trumpovi,
+[25:59] protože odříznul 20 000 lidí od vody.
+[26:01] Za to by si zasloužil přesnou ránu, a to nemyslím nějak jako
+[26:05] rukou nebo něčím takovým. Ne, normálně, tak jako on to poslal k ním raketou, tak bych poslal přesnou ránu
+[26:11] k Donaldu Trumpovi, buď to domů nebo do Bílého domu nebo tam, kde zrovna sedí, protože
+[26:15] to
+[26:16] prostě to je teroristický útok. Odříznout 20 000 lidí od vody,
+[26:21] to je teroristický útok. To je proti mezinárodnímu právu, to není
+[26:24] žádná válka. Odříznout 20 000 lidí od vody
+[26:27] je humanitární katastrofa a terorismus, čistý terorismus.
+[26:31] Můžu vám říct, teď jsem strávil poslední tři dny,
+[26:35] jsem dělal vodu. Kopal jsem, zakopával jsem
+[26:38] jak se to jmenuje, hadici s vodou, teď jsem do
+[26:41] 8 hodin přidělával vodu v technické místnosti, aby šla do domu.
+[26:45] Bez vody
+[26:46] se prostě těžko žije.
+[26:48] Opravdu těžko žije.
+[26:50] Takže
+[26:52] nemám, co bych k tomu řekl víc, co se týče Donalda Trumpa.
+[26:55] Ještě tady nějaký zprávy, myslím, že
+[26:57] máme o Donaldu Trumpovi dneska zuzko, že jo?
+[26:59] Ještě pokračujeme, ano.
+[27:01] Donald Trump prohlásil, že minulou noc
+[27:04] Spojené státy shodily na Irán bomby
+[27:06] v hodnotě 250 milion dolarů.
+[27:09] V rozhovoru pro Fox News prezident uvedl,
+[27:12] že Spojené státy stále neútočí na Irán dostatečně silně,
+[27:16] ale podle něj už Teheran nemá žádnou obranu.
+[27:19] Trump také prohlásil, že vše, co Iránu zbylo,
+[27:22] jsou falešné zprávy
+[27:24] a změnil přitom The New York Times, CNN, NBC a The Wall Street Journal.
+[27:31] My tady dokonce dneska máme video přeložené z Fox News, jestli vidíte,
+[27:36] z titulky,
+[27:37] což přeložil Tonda z režie, zdravíme Tondo do režie, moc děkujeme, takže pokud byste se k tomu chtěli vrátit,
+[27:43] tak to máme dneska 27. minuta
+[27:46] na 20.
+[27:46] minutě se můžete na to video podívat.
+[27:48] Tak,
+[27:49] ještě máme jednu zprávu o Donaldu Trumpu.
+[27:50] Ještě máme jednu o tou nejčerstvější zprávu asi před hodinou.
+[27:55] Americký prezident Donald Trump překvapivě na své sociální síti oznámil,
+[28:01] že ruší útoky a bombardování Iránu, které avizoval na dnešek.
+[28:05] Podle šéfa bylého domu
+[28:07] bude brzy oznámen termín a místo podepsání dohody.
+[28:10] Zatím podle něj došlo k jednáním na nejvyšší úrovni a Irán hlavní body přijal,
+[28:15] prozatím ale zůstal
+[28:16] nevplatnosti americká námořní blokada iránských přístavů.
+[28:20] Trump to napsal na své sociální síti True Social.
+[28:24] Tak
+[28:26] jsou tady dvě věci, které musím říct. Jeden komentář, ale nejdřív tady Donalda Trumpa. Donald Trump dal další ultimátum
+[28:32] Iránu, žeho sedmidenní, ne dvoudenní.
+[28:36] Myslím, že za poslední měsíc už je to snad sedmé ultimátum konečné,
+[28:41] které dal, takže to je prostě naprosto něco šíleného, co dělá Donald Trump.
+[28:45] Nejdřív jim zbombarduje
+[28:47] vodu, takže dvacet tisíc lidí nemá vodu a
+[28:49] potom uvede, že zastavuje
+[28:52] bombardování, že se s Iránem dohodne. Myslím, že mně to připadá už jako ta lenovela španělská, každý týden co samý,
+[28:58] pořád se opakuje stejný příběh.
+[29:01] Ropa ceny, cena ropy
+[29:03] přesně kopíruje ten příběh
+[29:05] a investoři okolo Donalda Trumpa přesně dělají pořád to samé.
+[29:08] Dvacet minut před tím, než Donald Trump oznámí
+[29:11] takovouhle skvělou zprávu,
+[29:13] tak shortují ceny
+[29:14] Europy.
+[29:15] Donald Trump oznámí
+[29:17] tu zprávu,
+[29:18] cena ropy jde dolů,
+[29:19] oni schrábnou peníze a ukáže se, že zase konflikt pokračuje dál.
+[29:23] Podle mě tohle je další jako kriminální čin Donalda Trumpa. Můžu vám říct, že jsem ještě
+[29:28] nevím, že bychom někdy měli
+[29:30] prezidenta Spojených států, kterého bych považoval za
+[29:34] tak kriminálního, jako je Donald Trump.
+[29:37] A to jsem se nikdy
+[29:38] za žádného
+[29:39] prezidenta Spojených států nepral, kromě Donalda Trumpa.
+[29:42] Tomu jsem naletěl asi tak, jako Jindřichu Reichlovi.
+[29:46] Prostě za mě to
+[29:47] je katastrofa. A pak tady mám
+[29:48] zásadní komentář
+[29:50] přátelé
+[29:51] Jifa.
+[29:52] Tak jsem zjistila, že mám na FB také snížený dosah, sdílim taky vaše zprávy a píšu nadhodné komentáře.
+[29:58] Je mi to líto, ale Mark Zuckerberg oznámil několikrát,
+[30:01] že Evropská unie
+[30:03] si vyhradila právo,
+[30:05] aby vlády měly přístup
+[30:07] ve Facebooku takzvaným zadním dvířkám.
+[30:10] To znamená vlády, včetně české vlády, mají možnost
+[30:13] kontrolovat,
+[30:14] kdo má jaký dosah a omezovat lidem dosah.
+[30:17] A bohužel, tak jak omezují dosah mě,
+[30:19] tak bohužel
+[30:20] omezují dosah,
+[30:23] pardon, mám tady nějakou upomínku,
+[30:25] omezují dosah
+[30:27] i lidem, kteří jsou mi blízcí.
+[30:30] Je mi to líto, ale
+[30:31] prostě tohleto, tato vláda dělá,
+[30:34] bylo by potřeba nějakým způsobem se s kým vypořádat, ale nevím jak,
+[30:38] podle mě to je kriminální, protiústavní,
+[30:40] ale nevím jak se s kým vypořádat.
+[30:41] Je mi to líto, jestli to takhle máte,
+[30:44] prostě musíme bojovat dál.
+[30:46] Tak pojďme na další zprávu.
+[30:49] Časté ovstřelování tří klíčových ukrajinských přístavů v oblasti Oděsi snížilo jejich propustnost
+[30:56] přibližně o 30 %. Podle dostupných informací
+[30:59] by pokračující útoky mohly vést k poklesu vývozu
+[31:03] zemědělských produktů o 40 až 50 %.
+[31:07] Omezení exportu by mohlo způsobit přeplnění skladu,
+[31:11] nedostatek provozního kapitálu pro zemědělce a výrazný pokles příjmů z exportu.
+[31:16] Zemědělská produkce
+[31:17] přitom patří mezi hlavní zdroje
+[31:19] devizových příjmů Ukrajiny během války.
+[31:22] Obnova poškozené
+[31:23] přístavní infrastruktury je navíc komplikovaná
+[31:26] nedostatkem finančních prostředků a technických kapacit.
+[31:32] Tak Ukrajince, možná jste si všimli v zahraničí především, ale v České republice možná taky. V médiích se začíná,
+[31:38] především v zahraničí, se začíná mluvit o tom, že Ukrajina začíná vyhrávat.
+[31:43] Že Ukrajina se zase dostala do sedla,
+[31:45] že Ukrajina utočí hluboko do ruského území, že způsobila velké škody
+[31:50] Rusku ekonomické,
+[31:52] že teď blokuje v podstatě Krim, že
+[31:56] lidi, kteří jedou na dovolenou, tak mají problémy,
+[32:00] tvoří se fronty, opouštějí letoviska a tak dál.
+[32:06] To je to, co dělá teď Ukrajina.
+[32:09] Ukrajina začala dělat,
+[32:11] jakoby,
+[32:13] Ukrajina se začala zabývat terorismem, přímým terorismem,
+[32:16] a bombarduje, co může.
+[32:20] Co k tomu říct dál? Myslím, že tady bude ještě další zpráva na tohle téma, Zuzko jedna dneska, že ano?
+[32:25] Já už ani netuším.
+[32:30] Francie, Německo a další členské státy Evropské unie intenzivně diskutují o zásadní reformě
+[32:37] či dokonce rozpuštění 15 let staré evropské služby
+[32:41] pro vnější činnost. To je o diplomatickou službu Evropské unie,
+[32:44] která byla vytvořena v roce 2002
+[32:46] po vstupu
+[32:48] v platnost Lisabonské smlouvy.
+[32:50] Jejím úkolem je koordinovat zahraniční a bezpečnostní politiku Evropské unie,
+[32:55] podporovat vztahy s nečlenskými zeměmi
+[32:57] a zastupovat Evropskou unii v zahraničí.
+[33:00] Cílem plánovaných změn je zefektivnit reakci bloků
+[33:04] na současné geopolitické krize.
+[33:07] Podle informací denníku Financial Times zvažují unijní metropole omezení
+[33:13] pravomocí šéfky unijní diplomacie Kai Callas
+[33:16] a přesun funkcí tohoto úřadu,
+[33:19] disponujícího ročním rozpočtem ve výši jedném miliardu eur,
+[33:23] zpět pod Evropskou komisií jednotlivé členské státy.
+[33:29] No tak to souvisí samozřejmě s tím, že teďko, my jsme se o tom bavili včera, že
+[33:34] v Evropě se hledá ten model, kdo bude vyjednávat s Ruskem a zjistilo se, že
+[33:38] prostě ty věci nejsou úplně jasný, takže
+[33:41] ti, kteří jsou teď u kormidla, se snaží získat si pravomoci pro sebe, proto ruší tadyhle tu komisi, která měla
+[33:47] se zabývat zahraničními věcmi, aby si
+[33:50] usurpovali tu moc do vlastních rukou, především Kaja Callas a Uršula von der Leyen.
+[33:54] To je celé.
+[33:59] Ukrajina se vážně pustila do realizace plánu
+[34:03] na izolaci
+[34:05] Krimu.
+[34:06] Agentůře Reuters, to řekl velitel jednotek bezpilotních systémů ukrajinských ozbrojených stil,
+[34:14] Robert Brody,
+[34:15] řečený Maďar.
+[34:16] Už nyní probíhající kampaň ukrajinských náletů dronů na ruské
+[34:21] okupované
+[34:22] území narušila logistiku,
+[34:25] včetně dodávek paliva na poloostrov. V důsledku toho byly ruské úřady
+[34:29] na Krimu nuceny zavést přísné přídělové systémy
+[34:33] pro prodej paliva. Podle Roberta Brodyho se provoz na dálnici
+[34:38] spojující Rostov, Mariupol, Melitopol a Krim
+[34:42] za poslední měsíc snížil o více než dvě třetiny
+[34:45] kvůli ukrajinským útokům. Maďar je přesvědčen,
+[34:48] že během příštího měsíce bude mít Ukrajina
+[34:51] nad
+[34:51] silnici plnou kontrolu.
+[34:53] V blízké budoucnosti izolujeme Krim,
+[34:55] prohlásil Brody s tím,
+[34:58] že je to stejně snadné jako zastřelit koroptech na otevřeném poli.
+[35:03] No přátelé, to je, když se podívám na tu fotku, poprosím režie ještě jednou o tu fotku,
+[35:09] tak nejdřív jsem se podíval na toho člověka, kterému se říká Maďar, na velitelé jednotek bezpilotních systémů,
+[35:15] ten podle mě vypadá, jako kdyby přišel z filmu
+[35:19] mrtví
+[35:20] vycházejí z hrobů.
+[35:21] Ale pak,
+[35:22] když jsem se podíval na tu paní vedle ní, tak jsem zjistil, že ona skutečně vypadá, jako kdyby přišla z toho filmu
+[35:28] o těch zombíkách.
+[35:29] To člověk, když se podívá do jich očí,
+[35:32] no opravdu, poprosím režie, už to dejte pryč, už se toho bojím, jak u těch lidí,
+[35:38] když je vidím.
+[35:39] Strašný no.
+[35:40] No tak
+[35:41] to je ta zpráva, o který jsem mluvil, no na Krimu
+[35:45] prostě přijeli turisky na Krim, no tak co k tomu říct, přijeli turisky na Krim, tak co dělají Ukrajinci, no tak
+[35:50] prostě musí
+[35:51] likvidovat těm turistům, kteří si mysleli, že si udělají dovolenou na Krimu pěkně,
+[35:56] no taky musí likvidovat možnosti, aby se
+[36:00] rekreovali, takže tam
+[36:01] bombardujou, co jde, uzavírají těm lidem
+[36:04] možnosti jídla,
+[36:05] no a dělají terorismus na Krimu, protože
+[36:08] tam dosáhnu, ale
+[36:09] to byl přece Friedrich Merz,
+[36:11] vzpomeňte si
+[36:12] rok 2024, někdy v říjnu,
+[36:14] mluvil o tom, že
+[36:16] by měli dodat Ukrajině rakety Taurus, protože těmi
+[36:19] by docílili to, aby likvidovali
+[36:21] mosty z Krimu
+[36:22] na pevnickou, na pevnickou část
+[36:24] Ukrajiny, že
+[36:26] tudy Rusové vozí zásoby pro
+[36:28] pro svoje vojska
+[36:29] a že by se mohlo těmi raketami
+[36:32] Taurus útočit na Krim,
+[36:34] že by to změnilo
+[36:35] systém války, no tak to už se stalo,
+[36:37] no takže oni to prostě vždycky tyhle
+[36:39] ty lidi takhle pěkně nám řeknou dopředu, a pak to dělají, tak to dělají,
+[36:42] no ten konflikt se velmi silně eskaluje,
+[36:45] akorát, že tím jak probíhá dlouho, tak se normalizoval,
+[36:48] v očích lidí se normalizoval, nepřijde nám to už to zvláštní,
+[36:52] nebo nějaké šílené, ale prostě šílené to je, prostě nám tady probíhá válka
+[36:57] proti civilistům,
+[36:58] teroristická válka ze strany Ukrajiny.
+[37:02] Tak pojďme na další zprávu, Zuzko.
+[37:04] Ano.
+[37:11] Země Evropské unie
+[37:13] se přou o miliardy eur určené na podporu Ukrajiny.
+[37:17] Po té, co nová maďarská vláda odblokovala 6,6 miliard
+[37:21] eur z evropského mírového nástroje,
+[37:24] vznikl nový spor
+[37:25] a to o to, zda mají peníze zamířit přímo do Kieva,
+[37:29] nebo zda mají být použity na kompenzace státům,
+[37:34] které už Ukrajine poskyty vojenskou pomoc,
+[37:37] tak jak to bylo původně zamýšleno.
+[37:39] Neustřeji se proti sobě postavilo Německo a Polsko.
+[37:43] To jsou naše peníze, vzkazuje Polsko, Bruselu i Kievu.
+[37:47] Varšava požaduje vrácení stovek milionů eur
+[37:50] za zbraně,
+[37:52] které Ukrajina dodala
+[37:53] v prvních měsících války,
+[37:55] řekl náměstek ministra obrany Polska
+[37:58] Cezary Tomčík
+[37:59] pro Polskou rozhlasovou stavnici RMFFM.
+[38:03] Tak to EPF, ten systém,
+[38:06] když vzniklo,
+[38:07] tak
+[38:08] vznikl jako nástroj
+[38:11] Evropské unie, oni všemu říkají nástroj, oni vytváří prostě, vždycky si něco vymyslí, řeknou tomu nástroj nebo projekt nebo
+[38:17] něco takové, tak tohle co to je nástroj, takže tenhle nástroj, abych mluvil jazykem Evropské unie,
+[38:22] vznikl s tím,
+[38:23] že země Evropské unie
+[38:25] mohou
+[38:26] poskytnout Ukrajině zbraně.
+[38:29] A ty zbraně,
+[38:30] které oni poskytnou Ukrajině,
+[38:32] tak Evropská unie jim bude částkou někde okolo 40 až nevím kolik procent, nepamatuji si přesně, už je to delší dobu,
+[38:40] jim bude Evropská unie proplácet.
+[38:43] To bylo jako
+[38:44] máte nějaké zbraně, které nepotřebujete, dejte je Ukrajině,
+[38:48] my vám za to dáme potom část, nevím si, 40-60%, my vám za to dáme peníze
+[38:53] zpátky,
+[38:54] země, nebo možná ještě to bylo víc, nemáme to v té správě Zuzko, kolik to bylo?
+[38:58] Nemám, ale myslím, že to bylo 60%.
+[39:01] 60%.
+[39:03] Ty země si řekly, dobře, tak to se nám vyplatí, protože my tady máme nějaký zastaralý materiál, nějaké zastaralé zbraně, vykážeme prostě
+[39:10] nějakou cenu Evropské unii, která bude třeba trošičku jako blížit se k tomu, jak za kolik jsme to nakupovali, plus nějaké
+[39:16] trošičku opotřebení, plus nějaká práce, kterou jsme do toho dostali, nebo
+[39:19] Bůh ví, jak to vyučitujeme, no ono se nám to vyplatí, protože my něco dáme Ukrajině,
+[39:25] dostaneme peníze od Evropské unie.
+[39:27] No a teď se začíná proplácat ten
+[39:30] EPS systém, ten nástroj,
+[39:32] no a Friedrich Metz přišel s tím, že
+[39:35] oni budou dávat teď velký balík finanční pomoci Ukrajině na zbraně,
+[39:40] a říká, no to nemá cenu,
+[39:41] aby my jsme si z Evropské unie vzali nějaké malé peníze
+[39:45] a velké peníze dali Ukrajině,
+[39:47] tak my jsme pro to, aby to EPS
+[39:49] celé šlo Ukrajině,
+[39:51] ať ty kompenzace, které jsou tam alokované, ty peníze, které jsou tam připravené,
+[39:56] aby si vyplatili zeměm Evropské unie za to, že
+[39:59] poskytli peníze
+[40:00] Ukrajině,
+[40:01] dejte to celé Ukrajině, a Poláci říkají, no to ne,
+[40:04] to ne, to byly peníze, které měly být pro nás, to jsou stíbené peníze pro nás, my s nimi počítáme,
+[40:09] taková byla dohoda, taková byla nabídka,
+[40:12] tak to bylo domluvené, tenhle nástroj takhle fungoval,
+[40:15] my poskytneme Ukrajině
+[40:16] zbraně, a od Evropské unie dostaneme procenta, které jsme si tady vyúčtovali,
+[40:22] a my s tím nesouhlasíme, a
+[40:24] Poláci řekli, že udělají všechno pro to, aby dostali do posledního eura svoje peníze,
+[40:29] no a Němci řekli, že musí, ani oni neřeknou, ale řekli, aby všichni ostatní
+[40:33] jedali Ukrajině, no tak uvidíme,
+[40:35] jak to dopadne,
+[40:36] budeme to ze zájmem sledovat, kolik je tam, 6,6 miliard eur, nebo kolik je tam?
+[40:43] Kolik z toho může být
+[40:45] našich peněz, no teď to zvládneme,
+[40:46] kdybych to hlavě nedal, to je docela
+[40:48] vysoký počty, kolik to bude
+[40:49] z našich peněz, no ale
+[40:51] nějaký docela, docela slušný peníze, to budou i z České republiky určitě,
+[40:55] no tak uvidíme, kolik nám tam
+[40:57] paní Černuchová s panem Rakušanem a s panem Fialou poslali
+[41:02] v rámci tadyhle z toho programu, v rámci tady toho nástroje,
+[41:05] a jsem zvědavý, jak se k tomu postaví teďko
+[41:08] naši skvělí zástupci z naší skvělé nové vlády,
+[41:12] především Andrej Babiš a Petr Macinka, protože jak ty nás zastupují v zahraničí,
+[41:17] jak se k tomu postaví,
+[41:18] typuju si
+[41:20] devětku jedný,
+[41:21] že ty peníze pošlou na Ukrajinu.
+[41:23] Tak přátelé, za mě to je všechno dneska,
+[41:25] Zuzko, zprávy máme vyčerpaný, díky tobě za zprávy, bylo to skvělý 41 minut,
+[41:29] máme tady přesně 400 lidí teďko, takže
+[41:32] předpokládám, že budeme mít aspoň 10 000 sdílení
+[41:35] a 15 000
+[41:36] lajků nebo aspoň 1500,
+[41:39] nebo 15 000 lajků, tak 15 000 lajků
+[41:42] takže tak to na jiných stránkách chodí, když mají 400 sdílení, že mají 15 000 lajků
+[41:47] a pět a půl tisíce sdílení, takže
+[41:49] doufám, že budeme mít taky, mějte se krásně
+[41:51] a uvidíme se zítra v 9 hodin.
+[41:53] Navidenou zítra.
