@@ -1,6 +1,8 @@
 # Ladislav Vrabel
 
-Česko-slovenský komentátor, žijící v ČR, který pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zpravidla s moderátorkou Zuzkou). Má osobní zkušenost s Evropským parlamentem v Bruselu (vystupoval tam cca v roce 2020), kontakty na diplomatické kruhy napojené na Gazprom a sleduje geopolitiku z pohledu euroskeptika a kritika NATO. Žije střídavě na horách (kopcích 750 m) a ve dvacetimiliontovém městě — pravděpodobně Praha nebo Bratislava.
+Český politický aktivista a předseda hnutí ČR1, který na podzim 2022 vstoupil do veřejného povědomí organizováním masových protivládních demonstrací pod heslem „Česká republika na 1. místě!". Bezpečnostní experti ho řadí k předním představitelům tuzemské dezinformační scény, a to především kvůli jeho proruským narativům a ostré kritice NATO, Evropské unie a pomoci Ukrajině. Před svým politickým angažmá podnikal v gastronomii, v průběhu let se však dostal do milionových exekucí a čelil vleklému insolvenčnímu řízení. V minulosti byl souzen za šíření poplašné zprávy, v březnu 2025 ho však Ústavní soud definitivně osvobodil s odkazem na svobodu slova. V červnu 2026 byl nicméně Okresním soudem v Českých Budějovicích nepravomocně odsouzen k 18 měsícům podmíněně za dotační podvod z doby koronavirové pandemie.
+
+Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zpravidla s moderátorkou Zuzkou) a sleduje geopolitiku z pohledu euroskeptika a kritika NATO.
 
 **Zpravodajský deník:** úplný chronologický přehled všech probíraných témat (i těch bez samostatného zpracování) — [červenec](../zpravodajstvi-vrabel/2026-07.md), [červen](../zpravodajstvi-vrabel/2026-06.md), [květen](../zpravodajstvi-vrabel/2026-05.md), [duben](../zpravodajstvi-vrabel/2026-04.md).
 
