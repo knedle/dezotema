@@ -808,4 +808,12 @@ V Německu probíhá (15. 8.–13. 9.) rozsáhlé cvičení Cyber Junction veden
 
 **Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
 
+---
+
+### USA a NATO řeší budoucí rozmístění sil v Evropě — kritika ministra obrany Zůny (Vrabel, 27. 8. 2026)
+
+Generální tajemník NATO Mark Rutte oznámil, že USA po jednání s náměstkem ministra obrany Colbym v Bruselu konzultují se spojenci budoucí rozmístění amerických sil v Evropě — cílem má být „silnější Evropa a Kanada" v rámci NATO; evropské země a Kanada už zvýšily obranné výdaje o více než 139 mld. USD. Vrabel to komentuje sarkasticky: za ČR na jednáních zastupuje ministr obrany za SPD (stranu přímé demokracie), který prosazuje větší zbrojení a samostatnost Evropy kvůli případnému konfliktu s Ruskem — staví to do kontrastu s dřívějšími sliby strany o odmítání zahraničních vojenských závazků.
+
+**Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)

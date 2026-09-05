@@ -570,3 +570,11 @@ Saúdský korunní princ Muhammad bin Salman telefonicky vyzval Trumpa, aby se z
 Izrael zablokoval dodávky protiraketového systému Iron Dome na Ukrajinu z obavy, že by se technologie mohla dostat do rukou Íránu — místo toho vrátil USA dříve zapůjčené baterie Patriot, které Washington může přesměrovat na Ukrajinu. Vrabel to srovnává s Trumpovým odmítnutím dát Kyjevu licenci na výrobu Patriotů (obavy, že se technologie „obrátí" proti dárci) — v obou případech tak vlastník nejmodernější technologie raději podporuje Ukrajinu nepřímo, přes americký systém, než aby dal z ruky vlastní vybavení.
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)
+
+---
+
+### Írán označil exilová média (Radio Farda) za vojenské cíle — riziko útoku i na ČR (Vrabel, 27. 8. 2026)
+
+Íránské ozbrojené síly zařadily několik persko-jazyčných zahraničních médií, včetně Radio Farda (provozovaného americkou RFE/RL se sídlem v Praze), na seznam potenciálních vojenských cílů s odůvodněním, že jde o nástroje amerických a izraelských zpravodajských služeb. Vrabel s hodnocením Íránu souhlasí — srovnává to s vlastní tezí o západních médiích, která podle něj obdobně rozvracela Srbsko a organizovala kyjevský Majdan 2014 — a varuje, že přítomnost takového média v Praze činí Českou republiku potenciálním terčem íránské odvety (byť malým, jako sabotáž nebo výbuch), zejména po zprávě, že ministr zahraničí Petr Macinka předvolal íránského velvyslance „na kobereček". Kritizuje bezpodmínečnou proizraelskou zahraniční politiku české vlády (vetování unijních rezolucí proti Izraeli) jako řízenou tím, „kde tečou peníze", ne principem strany práva, a varuje, že Írán má balistické rakety s doletem až do ČR.
+
+**Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)

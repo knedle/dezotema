@@ -1049,4 +1049,24 @@ V souvislosti se zprávou o výroku Dmitrije Medveděva (dvojí metr Západu —
 
 V krátkém dovětku k hlavnímu vysílání Vrabel rozvádí vlastní spekulaci k tajné návštěvě šéfa CIA Johna Ratcliffa v Moskvě (oficiální verze Trumpa i Peskova: „rutinní jednání tajných služeb"). Argumentuje, že o Ukrajině dlouhodobě jednají Witkoff s Kushnerem, takže cesta šéfa CIA musí souviset s něčím větším — buď s Íránem, nebo s novým ruským krokem vůči Evropě. Nabízí scénář: rusko-americká diplomacie posledních měsíců naznačuje snahu vyhnout se vzájemnému konfliktu, takže pokud by Rusko plánovalo vojenskou akci nejen proti Ukrajině, ale i proti některé zemi z „koalice ochotných", dávalo by smysl, že by o tom předem informovalo Washington — aby se USA do případného konfliktu nezapojily. Podle Vrabela je Rusko připraveno na konflikt s Evropou, ale rozhodně nechce válku se Spojenými státy. Zdůrazňuje, že jde o čistou spekulaci bez potvrzení, kterou zapomněl zmínit v hlavním vysílání.
 
-**Zdroje:** [Vrabel — Facebook Live, dovětek 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026)
+**27. 8.** — Vrabel doplňuje časové detaily (schůzka v Kremlu trvala jen 3–4 hodiny včetně cesty z letiště, Ratcliffe přiletěl vojenským transportním letounem C-17) jako důkaz narychlo svolaného, neplánovaného jednání na vysoké úrovni. Spojuje to s čerstvým ruským testem střely s jaderným pohonem Burevestnik (přezdívané „létající Černobyl" kvůli úniku radiace při předchozím testu) a s tiskovou konferencí mluvčí ruského MZV Marie Zacharovové, kterou obsáhle cituje: Rusko obviňuje evropské lídry ze sabotáže rusko-amerických mírových iniciativ; nalezené německé součástky v ukrajinských dronech činí Německo poprvé přímo odpovědným za smrt civilistů při útoku na ruské území (obec Chorly v Chersonské oblasti); použití britských raket Ukrajinou k úderům na Rusko přibližuje okamžik, kdy Rusko oficiálně označí Spojené království za stranu konfliktu. Dodává protichůdné zprávy západních médií: CBC News tvrdila, že Ratcliffe varoval Rusko před útoky na členské země NATO, zatímco Donald Trump pro Axios podobná varování popřel a novinky označil za nepřesné — Vrabel z toho usuzuje, že šlo o skutečně závažné jednání (možná týkající se Íránu), které zůstává záměrně nejasné.
+
+**Zdroje:** [Vrabel — Facebook Live, dovětek 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026), [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+---
+
+### Výbuch auta v Petrohradu zabil ruského důstojníka — teroristický útok (Vrabel, 27. 8. 2026)
+
+Podle serveru Fontanka zahynul v Petrohradu při explozi nastražené nálože ve svém autě vysoce postavený ruský podplukovník, jeho manželka utrpěla těžká zranění. Vrabel to hodnotí jako jednoznačný teroristický útok — u manželky jako civilistky bez výhrad, u vojáka „těžko říct", ale i tak jde podle něj o terorismus.
+
+**Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+---
+
+### Smrt Radko Mladiće — revizionistický výklad Srebrenice, Joe Biden jako strůjce bosenské války (Vrabel, 27. 8. 2026)
+
+Ke zprávě o úmrtí bývalého bosensko-srbského generála Radka Mladiće (84 let) ve vazbě v Haagu — kde si odpykával doživotní trest za genocidu ve Srebrenici — Vrabel nabízí vlastní historický výklad. Připomíná, že Srbsko žádalo o jeho propuštění na svobodu kvůli zhoršujícímu se zdraví, což bylo odmítnuto. K bosenské válce 90. let tvrdí, že ji rozehrál americký senátor (později viceprezident a prezident) Joe Biden, který prosadil v Kongresu financování a vyzbrojení bosenských muslimů (cca 51 mil. dolarů na samopaly) a později doporučoval bombardování Bělehradu a mostů na řece Drině — dokládá to citací dobového videa s Bidenovým výrokem. Ke Srebrenici cituje (dobovým videozáznamem) samotného Mladiće, jak před vojenskou operací nechal autobusy evakuovat civilisty (ženy, děti, starce) do bezpečí na muslimské území — což podle Vrabela neodpovídá definici genocidy (snaha o vyhlazení etnika včetně dětí). Odkazuje na knihu českého profesora Rajka Dolečka o Srebrenici a na to, že v letech před masakrem bylo napadeno a vyvražděno přes 200 srbských vesnic v okolí bosensko-muslimskými jednotkami. Vyjadřuje přesvědčení, že v Republice srbské je Mladić uctíván jako hrdina.
+
+⚡ **Poznámka:** Jde o revizionistický výklad srebrenického masakru (mezinárodně uznávaného jako genocida rozsudky ICTY) — zachyceno věcně jako Vrabelovo tvrzení, bez potvrzení z nezávislých zdrojů.
+
+**Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)

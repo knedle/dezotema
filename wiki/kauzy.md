@@ -840,6 +840,10 @@ K blížícímu se odchodu ředitele Bezpečnostní informační služby (BIS) M
 
 **Zdroje:** [Vrabel — Zprávy v devět 27. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-7-2026)
 
+**27. 8.** — K výroční zprávě BIS za rok 2025 Vrabel poukazuje na to, co považuje za vnitřní rozpor: zpráva na jednu stranu přiznává, že se BIS nepodařilo spolehlivě prokázat u žádného bezpečnostního incidentu v ČR přímé zapojení Ruska, zároveň ale tvrdí, že Rusko dlouhodobě útočí přes „agenty na jedno použití" a že hrozba opět roste. Označuje to za „schizofrenní" výrok a navrhuje, aby Koudelka (těsně před koncem funkčního období) podstoupil psychiatrické vyšetření. Připomíná vlastní zkušenost z dřívější výroční zprávy BIS (2023/2024), kde měl být terčem pokusu neurčeného „ruského vlivového agenta" o navázání kontaktu — Vrabel tvrdí, že k žádnému takovému kontaktu nedošlo a že šlo o připravenou mediální kampaň (avizovanou předem v televizi) s cílem vykreslit ho jako ruského spolupracovníka, podobně jako podle něj Koudelka dělá dnes s celým Ruskem.
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026), [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
 ---
 
 ## Oganesianův gang — krádeže a poškozování registračních značek (Zítko, 28. 7. 2026)

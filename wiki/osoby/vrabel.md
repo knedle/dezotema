@@ -835,6 +835,29 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 12)
 - **26. 8.** — Sabotáž muniční továrny — zadrženi 2 Lotyši a Ukrajinec — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
 
+### [Blízký východ](../blizky-vychod.md) (pokrač. 5)
+- **27. 8.** — Írán označil exilová média (Radio Farda) za vojenské cíle — riziko útoku i na ČR — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+### [Kauzy a korupce](../kauzy.md) (pokrač. 3)
+- **27. 8.** — BIS výroční zpráva jako „schizofrenní" (Koudelka); vlastní kauza „vlivový agent" — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 7)
+- **27. 8.** — EU rozpočet 2028–2034 — Costa/Babišova „schizofrenie" o zemědělských dotacích — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 12)
+- **27. 8.** — Výbuch auta v Petrohradu zabil ruského důstojníka — teroristický útok — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+- **27. 8.** — Smrt Radko Mladiće — revizionistický výklad Srebrenice, Biden jako strůjce bosenské války — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+- **27. 8.** — Ratcliffe v Moskvě — rozšíření (Burevestnik, Zacharovová, CBC vs. Trump) — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač.)
+- **27. 8.** — Demonstrace „Člověk na prvním místě" — potvrzeno datum a místo (3. 10., Malostranské náměstí) — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 7)
+- **27. 8.** — USA/NATO řeší rozmístění sil v Evropě — kritika ministra obrany Zůny — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 9)
+- **27. 8.** — NGT1/GMO bez označení, srovnání se Srbskem; skeptická reakce na predikci hladomoru v EU — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1345,3 +1368,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (25. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
 - [Facebook Live (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
 - [Facebook Live, dovětek (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026)
+- [Facebook Live (27. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)

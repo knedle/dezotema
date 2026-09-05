@@ -442,6 +442,8 @@ K nejpalčivějšímu bodu červnového summitu EU — víceletému rozpočtu na
 
 **Zdroje:** [Vrabel — Zprávy v devět 19. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-6-2026)
 
+**27. 8.** — Předseda Evropské rady Antonio Costa objížděl členské státy včetně Prahy, aby před koncem roku dojednal shodu na rozpočtu 2028–2034; Babiš při jednání odmítl škrty v zemědělských a kohezních fondech s tím, že ČR nesmí dostat o 228 mld. Kč méně. Vrabel to označuje za další „schizofrenii": rozpočet EU má příjmovou i výdajovou stranu, které se musí rovnat — pokud tedy ČR jako čistý příjemce prosadí vyšší celkový rozpočet, bude muset zároveň platit více do příjmové části, takže si nutně nepolepší tolik, jak Babiš naznačuje. Tvrdí, že Babišovi ve skutečnosti nejde o obyčejné zemědělce, ale o zachování vysokých zemědělských dotací, z nichž nepřímo profituje přes svěřenecký fond a firmu Agrofert.
+
 ---
 
 ### AfD sjezd v Erfurtu: globalismus útočí na stát, národ, náboženství a rodinu — Vrabel (4. 7. 2026)
