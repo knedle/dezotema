@@ -13,6 +13,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Sociální dávky jako závislost (analogie s krmením divoké zvěře) — [30. 7.](../_zdroje.md#adam-šejna--sociální-dávky-jako-závislost-30-7-2026)
 - Piráti a regulace Airbnb v Praze jako „komunistický" zásah do vlastnictví — [19. 8.](../_zdroje.md#restart-česko--videoportál-19-8-2026)
 - TOP 09 a státní pozemky pro levnější bydlení — bydlení je odpovědnost jednotlivce, řešením je zrychlení povolování pro developery — [21. 8.](../_zdroje.md#restart-česko--videoportál-top-09-a-státní-pozemky-21-8-2026)
+- Piráti ve Sněmovně jako „jedno velké divadlo" — rekvizity, fotky pro sociální sítě — [26. 8.](../_zdroje.md#restart-česko--videoportál-26-8-2026-1)
 
 ### [Kauzy a korupce](../kauzy.md)
 

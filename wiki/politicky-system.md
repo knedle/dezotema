@@ -955,3 +955,11 @@ Na divácký dotaz, zda existuje řešení, jak globalistům překazit realizaci
 Adam Šejna reaguje na video dokládající, jak pražští zastupitelé za Piráty postupují proti nelegálnímu krátkodobému ubytování typu Airbnb v bytech kolaudovaných k bydlení. Argumentuje, že mezi takovým bytem a hotelem není z pohledu nájemníka žádný praktický rozdíl, a kritizuje Piráty za to, že si osobují právo určovat občanům, jak mohou nakládat s vlastním majetkem — srovnává tento přístup s komunismem („pražští komunisté"). Uzavírá výzvou volit v komunálních volbách podle vlastní představy o budoucí podobě Prahy.
 
 **Zdroje:** [Restart Česko — Videoportál 19. 8. 2026](_zdroje.md#restart-česko--videoportál-19-8-2026)
+
+---
+
+### Piráti ve Sněmovně jako „jedno velké divadlo" (Šejna, 26. 8. 2026)
+
+V krátkém videu Adam Šejna tvrdí, že Piráti v Poslanecké sněmovně nedělají nic jiného než divadlo — neustále přicházejí s novými „rekvizitami", aby se s nimi vyfotili, pronesli pár efektních vět a sdíleli to na sociálních sítích pro uspokojení vlastních voličů. Ironicky předjímá, že brzy požádají o dotaci na ministerstvu kultury.
+
+**Zdroje:** [Restart Česko — Videoportál 26. 8. 2026 (2)](_zdroje.md#restart-česko--videoportál-26-8-2026-1)
