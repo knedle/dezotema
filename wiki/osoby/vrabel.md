@@ -858,6 +858,29 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 9)
 - **27. 8.** — NGT1/GMO bez označení, srovnání se Srbskem; skeptická reakce na predikci hladomoru v EU — [Facebook Live 27. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
 
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 10)
+- **28. 8.** — Komentář Vladimíra Štěpána k Dukovanům/Temelínu — kritika jeho nekonzistence k vystoupení z EU — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 10)
+- **28. 8.** — MPSV škrtá podporu v nezaměstnanosti od 2027 — kritika priorit rozpočtu — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 13)
+- **28. 8.** — Německý generál Kujat kritizuje pokračující podporu Ukrajiny — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+- **28. 8.** — Zelenskyj nařídil až 1000 dronových úderů denně na Rusko — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 8)
+- **28. 8.** — Babišova „schizofrenie" k rozpočtu EU — souhlas s navýšením kvůli Agrofertu — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 2)
+- **28. 8.** — Konfrontace Koriny Rybářové s Petrem Hájkem na obhajobu demonstrace 3. 10. — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 13)
+- **28. 8.** — Venezuela/OPEC — vzorec „demokratizace" (McGregor o Jugoslávii) — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+- **28. 8.** — Lavrov o multipolárním světě; test mezikontinentální rakety z Plesecku — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 7)
+- **28. 8.** — „Sušenky" z recyklovaného PET plastu jako budoucí potravina — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1369,3 +1392,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
 - [Facebook Live, dovětek (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026)
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+- [Facebook Live (28. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)

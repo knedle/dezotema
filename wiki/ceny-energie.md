@@ -268,6 +268,10 @@ K jednání ČR v Bruselu o novém jaderném bloku a oznámení o prodloužení 
 
 **Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 18. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
 
+**28. 8.** — Vrabel čte a komentuje divácký příspěvek Vladimíra Štěpána (zakladatel hnutí Česká republika na prvním místě): americké palivové články se v Dukovanech zkoušely s fiaskem (praskaly, blokovaly regulační tyče), takže se ČR vrátila k ruským; zásoby ruského paliva vydrží jen 12–16 měsíců; v Dukovanech je odstaven blok 1 kvůli vadné armatuře, v Temelíně jedna ze čtyř chladicích cest kvůli nefunkčnímu náhradnímu ventilu (dovezenému mimo Rusko kvůli embargu); EU má ČR vyhrožovat zastavením plynu/ropy při odchodu z Lipské burzy. Vrabel s věcnou kritikou souhlasí, ale klade Štěpánovi dvě otázky: (1) proč viní jen vládu Petra Fialy a Pavla, když stejnou politiku (odklon od ruských energií) dělala i vláda Babiše — obě jsou podle něj „proti lidem", ne jedna vláda vinná víc; (2) proč Štěpán před volbami objížděl republiku s tvrzením, že vystoupení z EU by druhý den zkrachovalo všechny firmy, když dnes sám mluví o „vydírání" ze strany EU — ptá se, zda „prozřel", a připomíná, že sám volal po vystoupení z EU už od roku 2022.
+
+**Zdroje:** [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
 ---
 
 ### Inflace jako okrádání; držet hotovost je „sebemrzačení" (Vrabel, 12. 6. 2026)

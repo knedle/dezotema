@@ -979,3 +979,11 @@ V krátkém videu Adam Šejna tvrdí, že Piráti v Poslanecké sněmovně nedě
 Černohorský obviňuje bývalou Fialovu vládu ze systematického zadlužení státu a zdražování (mj. zvýšení DPH na potraviny z 12 na 15 %, následně vrácené na 12 %) a jmenuje jako klíčové kauzy Dozimetr, bitcoinovou kauzu a opakované falšování rozpočtu ministrem financí Zbyňkem Stanjurou. Argumentuje, že namísto navrhovaného zákazu komunistických symbolů by mělo dojít ke zrušení a soudnímu stíhání ODS, STAN, Pirátů, KDU-ČSL a TOP 09 jako stran odpovědných za tento stav. Současnou vládu Andreje Babiše naopak obhajuje v souvislosti s přehlasováním prezidentova veta rozpočtu — nutnost upravit zákony kvůli rozpočtové díře zděděné po předchozí vládě označuje za logickou, ne za vinu Babišovy vlády, a kritizuje opozici za záměr napadnout rozpočet u Ústavního soudu jako zneužití instituce, která podle něj nemá do rozpočtových otázek zasahovat.
 
 **Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
+### MPSV škrtá podporu v nezaměstnanosti od 2027 — kritika priorit rozpočtu (Vrabel, 28. 8. 2026)
+
+Ministerstvo práce a sociálních věcí připravuje od ledna 2027 snížení podpory v nezaměstnanosti — v prvních měsících z letošních 80 % zpět na 65 % výdělku, maximální podpora klesne z 80 % na 60 % průměrné mzdy (úspora cca 4,5 mld. Kč ročně); návrh kritizují odbory i zaměstnavatelé. Vrabel — ač se sám nepovažuje za zastánce silné sociální politiky — vyjadřuje podiv, že když se najdou peníze na zbraně pro Ukrajinu a příspěvky ukrajinským uprchlíkům, nenajdou se na podporu vlastních nezaměstnaných občanů; ironicky doplňuje, že řešením podle vlády může být práce ve zbrojovkách v Německu (nabízeny až 100 000 EUR/rok i pro nezkušené).
+
+**Zdroje:** [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)

@@ -1053,3 +1053,19 @@ K dříve avizovanému žhářskému útoku na továrnu vyrábějící drony Vra
 Černohorský reaguje na zprávy o plánované ruské eskalaci s tím, že se potvrzuje jeho dlouhodobé varování „chcimírů": Ukrajina nemá šanci porazit jadernou velmoc v koalici s „posranou Evropskou unií" a situace bude už jen horší, včetně rostoucích civilních obětí. Zmiňuje, že podle jím sledovaných videí sílí v Kyjevě demonstrace a nespokojenost s Volodymyrem Zelenským. Zodpovědnost za pokračování a eskalaci konfliktu připisuje západním vládám (jmenovitě Fialově a Rakušanově politice), které podle něj svým postojem umožnily, aby válka vůbec nastala a pokračovala.
 
 **Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
+### Německý generál Kujat kritizuje pokračující podporu Ukrajiny — evropští politici se bojí přiznat chyby (Vrabel, 28. 8. 2026)
+
+Bývalý německý generál a předseda vojenského výboru NATO Harald Kujat kritizoval pokračující vojenskou podporu Ukrajiny — podle něj se evropští politici zdráhají přiznat chyby dosavadní politiky, ačkoli další financování války znamená jen další oběti a ničení; evropská politika by se měla soustředit na ukončení války a zlepšení situace ukrajinského obyvatelstva, ne na podporu současného vedení. Vrabel vítá, že podobné hlasy zaznívají i z tak vysokých vojenských pozic, a doplňuje odkaz na rozhovor s bývalým plukovníkem americké armády Douglasem McGregorem o Jugoslávii — ne všichni v USA a Německu byli v 90. letech pro bombardování Jugoslávie a pomoc Bosně.
+
+**Zdroje:** [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+---
+
+### Zelenskyj nařídil až 1000 dronových úderů denně na Rusko (Vrabel, 28. 8. 2026)
+
+Podle agentury Reuters nařídil Volodymyr Zelenskyj armádě výrazně zvýšit počet útoků drony dlouhého doletu na cíle v Rusku — cílem je až 1000 úderů denně; útoky již přispěly k poklesu ruské produkce benzinu a problémům s dodávkami paliva. Vrabel to komentuje jako zoufalý krok: Ukrajina už podle něj nemá dostatek vojáků (mobilizace žen nebude vojenskou silou) ani protivzdušnou obranu, takže drony zůstávají jediným prostředkem boje. Očekává, že Rusko na podzim zahájí velkou ofenzivu a může zničit Zelenského režim, a vyjadřuje naději, že Rusko brzy získá od Číny technologie na dálkové rušení dronů, aby se omezily zbytečné civilní oběti — kritizuje pokračující zapojení ČR do „koalice ochotných" a muniční iniciativy.
+
+**Zdroje:** [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)

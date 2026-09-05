@@ -452,6 +452,10 @@ K nejpalčivějšímu bodu červnového summitu EU — víceletému rozpočtu na
 
 **27. 8.** — Předseda Evropské rady Antonio Costa objížděl členské státy včetně Prahy, aby před koncem roku dojednal shodu na rozpočtu 2028–2034; Babiš při jednání odmítl škrty v zemědělských a kohezních fondech s tím, že ČR nesmí dostat o 228 mld. Kč méně. Vrabel to označuje za další „schizofrenii": rozpočet EU má příjmovou i výdajovou stranu, které se musí rovnat — pokud tedy ČR jako čistý příjemce prosadí vyšší celkový rozpočet, bude muset zároveň platit více do příjmové části, takže si nutně nepolepší tolik, jak Babiš naznačuje. Tvrdí, že Babišovi ve skutečnosti nejde o obyčejné zemědělce, ale o zachování vysokých zemědělských dotací, z nichž nepřímo profituje přes svěřenecký fond a firmu Agrofert.
 
+**28. 8.** — Vrabel rozvádí tutéž tezi o Babišově rozpočtové „schizofrenii": zatímco Babiš odmítá, aby z českého rozpočtu šla byť koruna přímo Ukrajině, zároveň nemá problém s tím, že Macinka za ČR odsouhlasuje peníze z rozpočtu EU přímo na zbraně pro Ukrajinu (90 mld. EUR půjčky) — přitom ČR do rozpočtu EU sama přispívá, takže se jí tato platba nepřímo týká. Poukazuje, že jediným politikem, kterého slyšel otevřeně podporovat navýšení rozpočtu EU, je právě Andrej Babiš — v kontrastu s Friedrichem Merzem, který (poprvé se s ním Vrabel shoduje) navyšování odmítá s tím, že evropské státy na to nemají. Vrabel to čte jako důkaz, že Babišovi jde hlavně o zachování zemědělských fondů/Agrofertu, ne o zásadový postoj k penězům pro Ukrajinu.
+
+**Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026), [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
 ---
 
 ### AfD sjezd v Erfurtu: globalismus útočí na stát, národ, náboženství a rodinu — Vrabel (4. 7. 2026)

@@ -113,6 +113,14 @@ Radí číst složení (>90 % masa), nevěřit nápisům „bez Éček / příro
 
 ---
 
+### „Sušenky" z recyklovaného PET plastu jako budoucí potravina (Vrabel, 28. 8. 2026)
+
+Vědci z Illinoiské univerzity vyvíjejí technologii, která pomocí vody, kyslíku, vysoké teploty a tlaku rozloží odpadní PET plast a zemědělský odpad na jednodušší uhlíkaté látky, jež geneticky upravené mikroorganismy dále zpracují na bílkoviny a tuky vhodné k 3D tisku do „sušenek" (zatím nákladné — cca 60 dolarů/kg, cíleno primárně na zásobování astronautů). Vrabel to komentuje sarkasticky jako řešení jím dříve zmíněné predikce hladomoru v EU: srovnává to s oblečením z recyklovaného plastu (které nosit odmítá kvůli obsahu mikroplastů v těle) a s již běžným přidáváním hmyzí (červí) bílkovinné moučky do potravin v EU bez zvláštního označení — uzavírá, že po vyčerpání dobytka (nahrazeného laboratorním masem „od Billa Gatese") zbydou lidem už jen „plastové sušenky".
+
+**Zdroje:** [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+---
+
 ### BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu (Vrabel, 8. 6. 2026)
 
 Vrabel popisuje svět jako rozdělující se na dva tábory: BRICS prosazující multipolární svět (nejsilnější Rusko, Čína, Írán + Severní Korea) versus USA, které přes NATO a EU usilují o „unipolární svět" a globální nadvládu. Státy podle něj uzavírají strategická partnerství, smlouvy o výrobě a dodávkách zbraní a společná cvičení na obou stranách. Podstatu konfliktu vidí jako dlouhodobý boj „o americký dolar" a o „globalistickou nadvládu Rothschildů a Rockefellerů" — „chazarských židů, bankéřů", kteří podle něj chtějí ovládnout celý svět. Navazuje na výklad globalistů útočících na rodinu, stát, národ a náboženství (viz [Globalisté bojují vždy proti čtyřem věcem](#globalisté-bojují-vždy-proti-čtyřem-věcem-rodina-stát-národ-náboženství-vrabel-17-5-2026)).

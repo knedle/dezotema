@@ -839,7 +839,9 @@ K Trumpově cca 25minutovému projevu, v němž obvinil Čínu z vměšování d
 
 **2. 8.** — K vlastnímu zamyšlení o porušování mezinárodního práva doplňuje konkrétní popis zásahu USA ve Venezuele: podle Vrabela přijeli, zajali prezidenta i jeho ženu a přepadli palác — čistý „banditismus" vůči suverénní zemi, srovnatelný s americkým útokem na Írán (zabití nejvyššího duchovního vůdce, přirovnává k zabití papeže) — [Nedělní vysílání 2. 8.](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+**28. 8.** — Podle agentury Bloomberg Venezuela zvažuje vystoupení z OPEC (organizace, kterou před 60 lety pomáhala založit) — o možnosti se jednalo i s americkými představiteli, kteří zároveň vyjednávají o získání podílu na venezuelských ropných polích (v úvahu je i až stoletý pronájem některých ložisek). Vrabel to dává do souvislosti s vyprávěním bývalého plukovníka americké armády Douglase McGregora o Jugoslávii: nadřízený mu v roce 1998 řekl, že bombardování Srbska bude „začátek demokratizace Balkánu" směřující až k Rusku. Z toho Vrabel odvozuje obecný „vzorec demokratizace", který USA podle něj opakovaně aplikují (naposledy na Venezuelu, dříve i na balkánské státy) a chystají i na Grónsko, Kanadu a Kubu: (1) prohlásit vůdce země za diktátora, (2) zabít ho nebo unést a uvěznit, (3) dosadit nové vládce nebo zkorumpovat a zastrašit původní, (4) získat kontrolu nad ekonomikou a nerostným bohatstvím země pod americká křídla.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026), [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026), [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
 
 ---
 
@@ -1023,7 +1025,11 @@ Americká investiční bankéřka a bývalá vládní úřednice Catherine Austi
 
 Ruský ministr zahraničí Sergej Lavrov v rozhovoru pro ruskou státní televizi oznámil, že Moskva použije „mnohem tvrdší metody", aby zničila vše, co ze Západu živí „kyjevskou válečnou mašinu", a odmítl zastavit boje jinak než dosažením dlouhodobého a udržitelného řešení konfliktu. Vrabel to popisuje jako logické vyústění dlouhodobého „houpání" Ruska Západem (odmítnutí přijetí do NATO, nedodržované Minské dohody — dle Angely Merkelové sloužily jen k vyzbrojení Ukrajiny, zdržování po summitu na Aljašce Marcem Rubiem) a předpovídá další eskalaci ze strany Ruska. Spojuje to s tezí, že USA se snaží z konfliktu formálně „vycouvat" (Elon Musk odpojuje Ukrajině Starlink) nikoli proto, aby přestaly být zapojené, ale aby na financování dozbrojení dotlačily výhradně Evropu (Trump žádá po EU zaplatit 300 mld. dolarů za Bidenovu vojenskou pomoc Ukrajině) a nechaly ji „vyždímat" a případně i vojensky zdevastovat, zatímco USA by si zachovaly roli vítězné mocnosti. Dodává otevřenou nejistotu, do jaké míry je i vedení Ruska a Číny skutečně suverénní, nebo součástí téže globalistické struktury (Chabad-Lubavič vliv v Rusku) — po vlastní zkušenosti s Trumpem a českými politiky odmítá „dát ruku do ohně" za jakéhokoli politika, že bojuje za suverenitu, byť cituje srbského režiséra Emira Kusturicu, že v Rusku se bojuje „za zbytky normálního světa".
 
-**Zdroje:** [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+**28. 8.** — Lavrov v rozhovoru pro televizní stanici Al Arabiya označil současné změny ve světě za hlubokou transformaci, která může trvat celé generace — klíčový je podle něj přechod od unipolárního k multipolárnímu uspořádání, v němž sílí Čína, Indie, Brazílie a další státy „globálního jihu". Uvedl, že Rusko po zkušenostech od roku 2022 už nebude se Západem spolupracovat jako dřív, a označil Velkou Británii za jeden z nejnegativnějších faktorů ve vztazích Ruska se Západem. Vrabel doplňuje, že podobně jako Trump má oproti Bidenovi „lepší jméno" (méně nepřátelský vztah k Rusku), mají ho podle něj i Robert Fico a Andrej Babiš oproti Friedrichu Merzovi a Emmanuelu Macronovi — přiznává, že přesně nerozumí, čím si to Babiš zasloužil, ale považuje to za pozitivum pro ČR, byť nedostatečné.
+
+Ruské ministerstvo obrany zároveň oznámilo testovací odpal mezikontinentální balistické rakety z kosmodromu Pleseck (ověření elektronických a letových parametrů) — stejné místo, odkud Rusko dříve testovalo raketu RS Sarmat. Vrabel k tomu jen krátce vyjadřuje naději, že podobnou zbraň Rusko nevyzkouší na nějaké továrně na území ČR.
+
+**Zdroje:** [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026), [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
 
 ---
 
