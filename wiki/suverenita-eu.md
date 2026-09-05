@@ -695,3 +695,11 @@ Vrabel systematicky prochází, co z České republiky ještě podle něj zbylo 
 Černohorský, ač sám dlouhodobě nesouhlasí s tezí, že Rusko je agresorem (invazi datuje k 15. dubnu 2014 a skutečnými agresory označuje USA, Spojené království a Izrael, kteří dle něj zorganizovali kyjevský Majdan), chválí projev ministra zahraničí Petra Macinky pronesený na poradě velvyslanců. I přes formální trvání na negativním hodnocení Ruska v projevu oceňuje odklon od „přiteplené" hodnotové zahraniční politiky směrem k pragmatismu — staví ho do kontrastu s bývalým ministrem Janem Lipavským, kterého označuje hanlivou narážkou na sexuální orientaci. Vyzývá i diváky nesouhlasící s hodnocením Ruska jako agresora, aby si projev přesto poslechli.
 
 **Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
+### Petr Pavel a „paralelní zahraniční politika" — srovnání s polskou kohabitací (Rajchl, TV debata na Primě, 29. 8. 2026)
+
+V televizní debatě Rajchl kritizuje prezidenta Pavla za to, že při návštěvě Ukrajiny přislíbil dodávku letounů L-159, aniž by to s kýmkoli v ČR předem projednal — označuje to za „totální podraz bez skrupulí" a jako předpoklad možné budoucí shody „týmu Česká republika" (o niž usiluje Pavel) žádá, aby prezident přestal vést vlastní zahraniční politiku nezávislou na vládě. Srovnává českou situaci s polskou kohabitací prezidenta Nawrockého a premiéra Tuska: ačkoli mezi nimi panuje podobné napětí, v klíčových momentech (migrace, odsouzení Zelenského pojmenování jednotky po UPA) se dohodnout dokážou — na rozdíl od ČR — protože by polští občané politikům jednajícím proti národním zájmům okamžitě dali najevo nesouhlas. Opakuje odmítnutí eura, zrušení práva veta a „Spojených států evropských" jako fakticky likvidaci suverenity ČR a argumentuje, že vstup do EU v letech 2004–2005 byl jen politickým „výhledem", ne závazkem — po 21 letech (Lisabonská smlouva, migrační pakt, Green Deal, tedy změny, které při vstupu neexistovaly) mají občané právo svůj vztah k EU přehodnotit.
+
+**Zdroje:** [Rajchl — Videoportál, 29. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-29-8-2026)
