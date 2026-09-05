@@ -4351,6 +4351,13 @@
 - **Datum záznamu:** 2026-08-28
 - **Zpracováno:** ano
 
+## Československo TV2 — Videoportál (28. 8. 2026, 2) {#československo-tv2--videoportál-28-8-2026-2}
+- **Soubor:** [přepis](prepisy/done/2026-08-28_Československo-TV2_Videoportál_1.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1747755106477063&_rdr>
+- **Datum záznamu:** 2026-08-28
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (29. 8. 2026) {#jindřich-rajchl--videoportál-29-8-2026}
 - **Soubor:** [přepis](prepisy/done/2026-08-29_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

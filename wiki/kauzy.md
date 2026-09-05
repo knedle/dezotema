@@ -910,6 +910,12 @@ V navazujícím krátkém videu téhož dne (pozvánka na živý speciál) srovn
 
 **Zdroje:** [ČsTV2 — Videoportál 4. 8. 2026](_zdroje.md#československo-tv2--videoportál-4-8-2026), [ČsTV2 — Videoportál 4. 8. 2026 (2)](_zdroje.md#československo-tv2--videoportál-4-8-2026-1)
 
+**28. 8. (2. video)** — Ve 92minutovém speciálu věnovaném výhradně této kauze Zítko čte a komentuje článek Seznam Zpráv s dalšími detaily, aniž mění svou celkovou tezi (přes 100 mld. Kč, ne jen 3 nebo 12,5 mld., jak uváděla média): advokát Karim Tic si měl podle obžaloby vzít 82,7 mil. Kč (přitom smluvených 30 % ze všech peněženek by činilo přes 31 mld. Kč) — Zítko to srovnává s kauzou Davida Ráta (7,5 mil. Kč úplatek → 7 let vězení) jako důkaz nepoměrně mírnějšího metru u řádově vyšší částky (6,5 roku navrhováno pro Blažka a Daňhela, 8 let pro Tice, 20 let + propadnutí majetku pro Jiříkovského). Tic si měl koupit Mercedes-Maybach za 3 mil. Kč, který převedl na manželku; policií mu byl zajištěn jen zlomek majetku (1,19 mil. Kč + 8,9 bitcoinu). Gibraltarský investiční fond „No Free Lunch Fund", kam chtěl Tic část kryptoměny uložit, ji označil za „critical risk" kvůli původu z Nucleus Marketu. Zítko dále rozšiřuje okruh podezřelých o Jiříkovského bratra Lukáše (nezaměstnaného od roku 2007, přesto s bankovními výběry v hodnotě přes 35,5 mil. Kč) a o skrytou hotovost u rodičů (22,7 kg bankovek v hodnotě 4,6 mil. Kč + 1,16 mil. EUR, zahraniční účty v Rakousku a na Slovensku). K dřívější spekulaci o Martinu Nejedlém doplňuje jméno údajného prostředníka Luďka Růžičky. Opakuje beze změny rekapitulaci odsouzení za Sheep Marketplace (2018, 9,5 roku) a rozpor v počtu bitcoinů na Nucleus Marketu (ukázáno 1561, ve skutečnosti mělo být přes 5366).
+
+⚡ **Poznámka:** Konkrétní částky u Tice, propojení s Nejedlým/Růžičkou a majetkové údaje o rodině Jiříkovského nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 8. 2026 (2)](_zdroje.md#československo-tv2--videoportál-28-8-2026-2)
+
 ---
 
 ### Zítkův vlastní soudní spor: zákaz pobytu v Praze, soudkyně Rajfová (Zítko, 4. 8. 2026)
