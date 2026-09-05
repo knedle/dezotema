@@ -942,6 +942,14 @@ Zítko na základě fotografií z polského lázeňského střediska Karpacz tvr
 
 ---
 
+### Bitcoinová kauza jako „největší korupce za 37 let" — legalizace špinavých peněz (Černohorský, 27. 8. 2026)
+
+Černohorský staví do kontrastu mediální pozornost věnovanou Filipu Turkovi (házení jogurtů, dopravní nehoda) s podle něj mnohem závažnějšími kauzami, které mainstream „umlčel" — zejména bitcoinovou kauzu, kterou označuje za největší korupční aféru za celých 37 let od pádu komunismu. Tvrdí, že přijetím zkonfiskovaných bitcoinů do státní pokladny vláda fakticky „legalizovala" špinavé peníze pocházející z pedofilie, dětské pornografie, obchodu s lidskými orgány, prostituce, obchodu s drogami, objednávek vražd a nelegálního obchodu se zbraněmi. Vedle toho zmiňuje předražené zbrojní zakázky ministryně obrany Jany Černochové (těžké kulomety za 1,4 mil. Kč oproti 380 tis. Kč u Dánska, tanky Leopard 2A4 jako „předražený šrot") a demolici stavebního zákona za ministra Bartoše jako příklady škod v řádu miliard, které média podle něj běžně přechází mlčením.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
 ### Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko, 7. 8. 2026)
 
 Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) veřejně obvinil Zítka, že je „fízl" a že stojí za uvězněním Čermáka na základě policejní provokace z listopadu (výslech, při kterém policie o Čermákovi nic nezmínila). Zítko obvinění odmítá a v reakci předkládá vlastní teorii, že záznam Čermákova zadržení na polsko-české hranici je zfalšovaný — záběry osoby v policejní vestě nikdy nezachytily obličej zepředu, postava i chůze podle něj neodpovídají Čermákovi a osoby na videu viditelně čekají na pokyn kameramana, než se rozejdou. Uzavírá, že o Tušlovi coby obhájci přestal mít zájem poté, co Jindřich Rajchl veřejně oznámil, že bude Tušla zastupovat on.
@@ -970,4 +978,6 @@ Rajchl kritizuje rozsudek krajského soudu, který Ukrajinci Alexandrovi Majdan�
 
 ⚡ **Poznámka:** Jméno a detaily případu nelze ověřit z veřejně dostupných zdrojů; jde výhradně o Černohorského jednostrannou interpretaci.
 
-**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
+**27. 8.** — Černohorský podává aktualizaci: dva oslovení právníci případ odmítli převzít (jeden měl podle něj lhát a maskovat vlastní alibi e-maily, druhý přestal komunikovat úplně) — v jednání je nyní další, třetí právní kancelář, se kterou se „Tereska" již sešla. Vyjadřuje přesvědčení, že spor nakonec vyhrají díky podpoře diváků a členů spolku Čest Svoboda Respekt, kteří přispívají na transparentní účet.
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026), [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)

@@ -674,3 +674,11 @@ V odpovědi na divácký dotaz, zda migraci do Británie skutečně způsobilo v
 V návaznosti na téma Kosova (viz [Válka, NATO a Rusko](valka-nato-rusko.md#kosovo-a-metochie-útlak-srbů-má-být-vyřešen-po-skončení-války-na-ukrajině-vrabel-25-8-2026)) Vrabel líčí historii tureckého („janičárského") útlaku Srbů na Balkáně (napichování na kůl, únosy dětí za účelem převýchovy na vojáky), aby doložil, že Srbsko zůstalo na rozdíl od zbytku Evropy „etnicky čisté" a bez muslimské populace, protože se islamizaci dlouhodobě bránilo. Explicitně řadí islamizaci nad válku s Ruskem i nad digitalizaci/globalizaci jako „největší a nejnebezpečnější" problém, kterému se věnuje od roku 2013.
 
 **Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Migrační pakt: 30 000 migrantů ročně, nebo 15 miliard Kč pokuty (Černohorský, 27. 8. 2026)
+
+Černohorský tvrdí, že od poloviny roku 2027 (v přepisu uvádí „za 8–10 měsíců") bude Česká republika na základě migračního paktu EU povinna ročně přijímat 30 000 migrantů z Afriky a Blízkého východu, nebo místo toho zaplatit 15 miliard Kč — každý další rok znovu. Vinu za přijetí paktu přisuzuje ministru vnitra Vítu Rakušanovi. Dává to do souvislosti s obecnou kritikou správy státního dluhu (kterou označuje za dluh vytvořený generacemi politiků za posledních 30+ let, ne současnou vládou) a s obavou z opakování situace v Německu, kde má být ve školních třídách až 40 % dětí přistěhovalců.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)

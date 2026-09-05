@@ -721,3 +721,13 @@ V souvislosti s podpůrným komentářem Karla Janečka ke kauze Peková (viz [K
 **Zdroje:** [ČsTV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
 ---
+
+### ⚡ Laviny v Nepálu jako řízený útok raketou z letadla — analogie s 9/11 jako „největší globální podvod" (Černohorský, 27. 8. 2026)
+
+V reakci na sdílené video Michala Boldyho o katastrofálních lavinách v Nepálu (stovky mrtvých a pohřešovaných) Černohorský spekuluje, že laviny nezpůsobilo zemětřesení, ale záměrně vypálená střela „vzduch-země" z letadla ve výšce kolem šesti kilometrů — všímá si, že katastrofa přišla těsně před výročím (necelé dva roky) nepálských protestů, při nichž obyvatelé svrhli vládu a vypálili vládní budovy. Srovnává to se svým dlouhodobým přesvědčením, že útoky z 11. září 2001 byly „inside job" americké vlády (zpochybňuje pád třetí budovy WTC, neexistenci záběrů letadla u Pentagonu, kráter v Pensylvánii) — a z toho vyvozuje, že podobně „řízená" katastrofa v Nepálu je pravděpodobnější než náhoda. Viníkem označuje kolektivně „globální hajzly" a explicitně „tyhle židy", kteří podle něj ovládají svět a událost byla jejich „pomstou" nebohým Nepálcům za loňské povstání.
+
+⚡ **Poznámka:** Tvrzení je nepodloženou spekulací kombinující sdílené video, teorii o 9/11 jako řízené operaci a explicitně antisemitské přisouzení viny neurčité skupině „Židů" za přírodní katastrofu — viz [Stochastický teror](stochasticky-teror.md).
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---

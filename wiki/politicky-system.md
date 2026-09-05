@@ -963,3 +963,19 @@ Adam Šejna reaguje na video dokládající, jak pražští zastupitelé za Pir�
 V krátkém videu Adam Šejna tvrdí, že Piráti v Poslanecké sněmovně nedělají nic jiného než divadlo — neustále přicházejí s novými „rekvizitami", aby se s nimi vyfotili, pronesli pár efektních vět a sdíleli to na sociálních sítích pro uspokojení vlastních voličů. Ironicky předjímá, že brzy požádají o dotaci na ministerstvu kultury.
 
 **Zdroje:** [Restart Česko — Videoportál 26. 8. 2026 (2)](_zdroje.md#restart-česko--videoportál-26-8-2026-1)
+
+---
+
+### Arogance koaličních politiků — STAN radní o parkování, poslankyně Urbanová a „wellness" na Ukrajině (Černohorský, 27. 8. 2026)
+
+Černohorský dokládá na dvou příkladech, co považuje za typickou aroganci koaličních politiků vůči občanům. Zaprvé cituje radního za STAN (v přepisu neúplně identifikovaného jako „Hlaváček"/"Hlavíček"), který veřejně řekl, že rodiny nepotřebují dvě auta a mohou jezdit MHD — na přímý dotaz novináře Jana Tuny, zda tím půjde sám příkladem, však jasně neodpověděl. Zadruhé cituje (s odkazem na příspěvek Aleše Svobody) poslankyni STAN Kateřinu Urbanovou, která měla plánovat pracovní cestu na Ukrajinu zahrnující pobyt ve wellness centru luxusního hotelu (uvedená cena cca 330–360 USD za osobu a noc) placenou ze státních prostředků. Srovnává to s vlastními čísly o výši poslaneckého platu a náhrad (89 000 Kč čistého + 215–250 000 Kč náhrad) a uzavírá, že takové výdaje by si politici měli hradit sami. V této souvislosti ironicky chválí Tomia Okamuru za sliby omezit náklady na politické cestování a financování neziskových organizací.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
+### Kritika zadlužení za Fialovy vlády a návrh zrušit ODS, STAN, Piráty, KDU-ČSL a TOP 09 (Černohorský, 27. 8. 2026)
+
+Černohorský obviňuje bývalou Fialovu vládu ze systematického zadlužení státu a zdražování (mj. zvýšení DPH na potraviny z 12 na 15 %, následně vrácené na 12 %) a jmenuje jako klíčové kauzy Dozimetr, bitcoinovou kauzu a opakované falšování rozpočtu ministrem financí Zbyňkem Stanjurou. Argumentuje, že namísto navrhovaného zákazu komunistických symbolů by mělo dojít ke zrušení a soudnímu stíhání ODS, STAN, Pirátů, KDU-ČSL a TOP 09 jako stran odpovědných za tento stav. Současnou vládu Andreje Babiše naopak obhajuje v souvislosti s přehlasováním prezidentova veta rozpočtu — nutnost upravit zákony kvůli rozpočtové díře zděděné po předchozí vládě označuje za logickou, ne za vinu Babišovy vlády, a kritizuje opozici za záměr napadnout rozpočet u Ústavního soudu jako zneužití instituce, která podle něj nemá do rozpočtových otázek zasahovat.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)

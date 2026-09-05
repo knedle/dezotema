@@ -9,7 +9,9 @@ Témata: teorie o pokračující existenci Československa, admiralty law, repar
 
 Jiří Černohorský tvrdí, že označení „Česko" (místo Česká republika) je součástí dlouhodobého plánu elit na erodování české národní identity, restituce majetků šlechtickým rodům s nacistickou minulostí a budoucí připojení k Německu. Podrobné indicie viz [Suverenita a EU — Plán na germanizaci](benesovy-dekrety.md#přejmenování-na-česko-jako-součást-záměru-připojit-zemi-k-německu).
 
-**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
+**27. 8.** — Černohorský tento postoj vyostřuje na osobní rovině: prohlašuje, že se hlásí k moravské (nikoli české) národnosti, a nekompromisně odmítá jakékoli pojmenování země jako „Česko" nebo „Čechie" — trvá výhradně na „Česká republika" tvořená třemi zeměmi (Čechy, Morava, Slezsko). Kdokoliv tato jména nerespektuje, má být podle jeho slov „poslán do prdele"; zdůrazňuje, že v tomto bodě nepřipouští žádný kompromis.
+
+**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025), [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 
 ---
 

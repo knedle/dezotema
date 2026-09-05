@@ -673,3 +673,11 @@ Evropská komise připravuje novou právní formu podnikání (tzv. „28. reži
 Vrabel systematicky prochází, co z České republiky ještě podle něj zbylo „české". Obyvatelstvo: odhaduje 1–2 miliony Ukrajinců v ČR (10–20 % populace), kteří se na rozdíl od dříve usazených Vietnamců podle něj „nepočešťují" — z ČR se tak stává „Česko-Ukrajinsko". Hranice: fakticky neexistují, volný pohyb umožňuje komukoli dojít z Afriky až do Kolína. Majetek: silnice a některé pozemky jsou ještě české, ale továrny, obchody, banky, doprava i média jsou většinově v zahraničních rukou (ČR na rozdíl od Srbska nemá zákon bránící cizincům kupovat zemědělskou půdu). Zákony a politika: rozhodují sponzoři a média řízené ze zahraničí (cituje Havlův výrok o „světovém režisérovi"), a zákony EU jsou nadřazené českým podle ústavy. Jediné, co podle něj zůstalo skutečně české, je koruna — a i tu považuje za dočasnou, používanou k zakrytí ostatních ústupků. Definuje vlastenectví jako boj za to, aby v zemi „bydleli Češi", mluvilo se česky a vydělané hodnoty zůstávaly doma — na rozdíl od dnešního stavu, kdy je ČR podle něj „v procesu rozmělňování se" do evropských struktur.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+---
+
+### Pochvala projevu Petra Macinky k velvyslancům — pragmatismus místo „hodnotové politiky" (Černohorský, 27. 8. 2026)
+
+Černohorský, ač sám dlouhodobě nesouhlasí s tezí, že Rusko je agresorem (invazi datuje k 15. dubnu 2014 a skutečnými agresory označuje USA, Spojené království a Izrael, kteří dle něj zorganizovali kyjevský Majdan), chválí projev ministra zahraničí Petra Macinky pronesený na poradě velvyslanců. I přes formální trvání na negativním hodnocení Ruska v projevu oceňuje odklon od „přiteplené" hodnotové zahraniční politiky směrem k pragmatismu — staví ho do kontrastu s bývalým ministrem Janem Lipavským, kterého označuje hanlivou narážkou na sexuální orientaci. Vyzývá i diváky nesouhlasící s hodnocením Ruska jako agresora, aby si projev přesto poslechli.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)

@@ -1045,3 +1045,11 @@ Vrabel rozvíjí analogii: stejně jako po 2. světové válce z konfliktu ekono
 K dříve avizovanému žhářskému útoku na továrnu vyrábějící drony Vrabel doplňuje, že byli zadrženi dva lotyšští občané (jeden v Německu, jeden na Slovensku) a jeden Ukrajinec. Krátce konstatuje, že tedy nešlo o žádné náhodné výtržníky („čučkaři"), ale znovu o Ukrajince — bez dalšího rozvedení, protože o motivu útoku nemá kromě mediálních zpráv žádné další informace.
 
 **Zdroje:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+---
+
+### Ukrajina se blíží kolapsu, Kyjev „nedopadne dobře" (Černohorský, 27. 8. 2026)
+
+Černohorský reaguje na zprávy o plánované ruské eskalaci s tím, že se potvrzuje jeho dlouhodobé varování „chcimírů": Ukrajina nemá šanci porazit jadernou velmoc v koalici s „posranou Evropskou unií" a situace bude už jen horší, včetně rostoucích civilních obětí. Zmiňuje, že podle jím sledovaných videí sílí v Kyjevě demonstrace a nespokojenost s Volodymyrem Zelenským. Zodpovědnost za pokračování a eskalaci konfliktu připisuje západním vládám (jmenovitě Fialově a Rakušanově politice), které podle něj svým postojem umožnily, aby válka vůbec nastala a pokračovala.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)

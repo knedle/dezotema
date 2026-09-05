@@ -486,3 +486,19 @@ Zítko nabízí vlastní, od Vrabelovy odlišnou verzi revizionistického výkla
 **Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
 
 ---
+
+### Pavlův projev u Českého rozhlasu 21. 8. jako pokrytectví — vlastní revizionistický výklad invaze (Černohorský, 27. 8. 2026)
+
+Černohorský ostře napadá projev prezidenta Pavla u budovy Českého rozhlasu k výročí 21. srpna 1968, v němž Pavel srovnával invazi vojsk Varšavské smlouvy se současným Ruskem. Nabízí vlastní verzi události: tvrdí, že násilnosti v Liberci, Prostějově a na Vinohradské třídě byly z většiny vyprovokovány samotnými Čechoslováky (útoky kostkami a Molotovými koktejly, zapalování tanků) na vojáky — mladé kluky ve věku 20–25 let, mezi nimiž byli dle něj převážně Ukrajinci, ne Rusové — kteří byli pod „neskutečným tlakem". Odmítá to jako obhajobu invaze, ale trvá na tom, že oficiální verze je „naprostá lež", a připomíná, že Putin opakovaně uznal odpovědnost tehdejšího SSSR, zatímco oficiální ruská omluva chybí. Hlavní část výpadu ale směřuje k obvinění z pokrytectví: zatímco Pavlova generace „nenávidí" Rusko za 137 mrtvých a 500 zraněných z roku 1968, tentýž establishment (jmenuje bývalého ministra kultury Daniela Hermana) se veřejně smiřuje se Sudetoněmeckým Landsmannschaftem — potomky nacistů odpovědných za smrt asi 360 000 Čechů, Moravanů, Slezanů a Romů za 2. světové války — bez srovnatelně formálního státnického aktu omluvy.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
+### Nezodpovězená žádost o informace k Pavlově účasti na Velké ceně Maďarska F1 (Černohorský, 27. 8. 2026)
+
+Černohorský uvádí, že podal žádost o informace (dle zákona 106/1999 Sb.) ohledně účasti prezidenta Pavla na Velké ceně Maďarska Formule 1 na okruhu Hungaroring — konkrétně kdo cestu financoval a kdo mu zajistil akreditaci. Konstatuje, že zatímco na obdobnou žádost týkající se větrných elektráren mu odpovědělo Ministerstvo životního prostředí, Kancelář prezidenta republiky na jeho dotaz dosud nereagovala, a oznamuje záměr podat další žádost.
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---

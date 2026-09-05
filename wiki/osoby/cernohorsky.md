@@ -19,6 +19,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Spolek jako nepolitická alternativa — stranické nálepky lidi rozdělují — [FB Live 2 (22. 5. 2026)](../_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
 - **17. 8.** — SPD neplní vlastní slib přímé demokracie ani ve vlastní straně; nekonzistentní politika vůči Ukrajincům (jen nově příchozí) — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 - **17. 8.** — Odvolání státní zástupkyně z bitcoinové kauzy jako doklad 37 let systémové beztrestnosti politických stran — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+- **27. 8.** — Arogance koaličních politiků (STAN radní o parkování, poslankyně Urbanová a wellness na Ukrajině); kritika zadlužení za Fialovy vlády a návrh zrušit ODS/STAN/Piráty/KDU-ČSL/TOP 09 — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+- **27. 8.** — Pavlův projev u ČRo 21. 8. jako pokrytectví (vlastní revizionistický výklad 1968 vs. smíření s Landsmannschaftem); nezodpovězená žádost 106 o financování cesty na F1 v Maďarsku — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) → [petr-pavel.md](../petr-pavel.md)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -76,6 +78,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Hejtman Grolich (KDU-ČSL) žádá občany o finanční dary na kampaň — nedůstojné a pokrytecké — [Videoportál: Grolich žebrá o peníze 30. 6. 2026](../_zdroje.md#jiří-černohorský--videoportál-grolich-žebrá-o-peníze-30-6-2026)
 - **17. 8.** — Kauza „Terezy": podezření na koordinovaný postup policie, soudu a školy proti matce po nočním „lízacím testu"; první brněnské hody jako plýtvání (socha 10–12 mil. Kč) — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 - **20. 8.** — Snaha slovenské SaS a českých úředníků z doby Babišovy vlády odebrat Soně Pekové soudně-znaleckou způsobilost kvůli posudku v procesu s Kolárem/Falcim — [Videoportál 20. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
+- **27. 8.** — Bitcoinová kauza jako „největší korupce za 37 let" — legalizace špinavých peněz z pedofilie/orgánů/drog; aktualizace kauzy „Terezy" (třetí právní kancelář) — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
@@ -88,6 +91,14 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - „Česko je plán" a příprava na připojení k Německu — [Česko je plán 14. 11. 2025](../_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025)
 - ⚡ Konflikt s Vrabelem: rekordní vedro je normální, „žádné klimatické změny se nedějí" — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 - Potvrzuje víru v chemtrails na základě vlastního pozorování oblohy — [Videoportál: chemtrails na obloze 3. 7.](../_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
+- **27. 8.** — ⚡ Laviny v Nepálu jako řízený útok raketou z letadla; 9/11 jako „inside job"; „Židé"/globální elity jako viníci pomsty — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+- **27. 8.** — „Česko je plán" vyostřeno na osobní rovinu: moravská národnost, odmítnutí názvu „Česko"/„Čechie" — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md)
+
+### [Suverenita a EU](../suverenita-eu.md)
+- **27. 8.** — Pochvala projevu Petra Macinky k velvyslancům — pragmatismus místo „hodnotové politiky", i přes nesouhlas s tezí o Rusku jako agresorovi — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+- **27. 8.** — Ukrajina se blíží kolapsu, Kyjev „nedopadne dobře"; zodpovědnost připisuje západním vládám — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -107,6 +118,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 ### [Imigrace](../migrace.md#imigrace-jako-probuzení--černohorský-o-roztržení-společnosti-25-5-2026)
 - Imigrace jako „probuzení" r. 2015; kriminalita v Německu +300–500 % — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 - Kritika vítačů (Bartoš/Antifa, CEMPR); média a neziskovky jako hnací síla rozdělení — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+- **27. 8.** — Migrační pakt: 30 000 migrantů ročně nebo 15 mld. Kč pokuty od poloviny roku 2027 — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 
 ### [Stochastický teror](../stochasticky-teror.md)
 - Pavel „adept na trest smrti pověšením" — [Návrat z bandovolené 2. 4. 2026](../_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026), [Videoportál 18. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
@@ -116,6 +128,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Dvořák — „vzít televizi a hajzla uškrtit / vyhodit ho z okna" — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 - Pavel — „rošlapal rypák, flusil do ksichtu" — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 - „Boreček" (DPP) — „rozbíjí rypák, v nějakým tom kleši" — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
+- ⚡ „Židé"/globální elity dehumanizováni jako strůjci genocidní „pomsty" (laviny v Nepálu) — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 
 ---
 
@@ -231,6 +244,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Dan Novák | ❌ negativní | Veřejně se chlubil, že věděl o zmařené reklamní kampani na dopravním podniku Brna a že Černohorského „slušně poslali do prdele" | 2026-08-17 | [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026) |
 | Lenka Tarabová | ❌ negativní | Obviněna, že jí (spolu s Novákem) někdo ze soukromého chatu komunity vynáší interní informace | 2026-08-17 | [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026) |
 | Soňa Peková | ✅ pozitivní | Hájena proti snaze o odebrání soudně-znaleckého oprávnění po jejím posudku v procesu s Kolárem/Falcim — srovnáno s Rajchlovou kritikou stejné kauzy | 2026-08-20 | [Videoportál 20. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková) |
+| Petr Macinka | ✅ pozitivní | Pochválen za projev k velvyslancům — pragmatismus místo „hodnotové politiky" vůči Rusku, i přes nesouhlas s tvrzením o Rusku jako agresorovi | 2026-08-27 | [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) |
+| Kateřina Urbanová | ❌ negativní | Poslankyně STAN — kritizována za plánovanou pracovní cestu na Ukrajinu se zastávkou ve wellness centru za státní peníze | 2026-08-27 | [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) |
+| Petr Pavel | ❌ negativní | Kritizován za projev u ČRo 21. 8. srovnávající invazi 1968 se současným Ruskem — obviněn z pokrytectví vůči smíření s Landsmannschaftem; nezodpovězená žádost o informace k financování cesty na F1 v Maďarsku | 2026-08-27 | [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) |
+| Vít Rakušan | ❌ negativní | Označen za odpovědného za přijetí migračního paktu EU (30 000 migrantů ročně nebo 15 mld. Kč pokuty) | 2026-08-27 | [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) |
 
 ---
 
@@ -281,3 +298,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: chemtrails na obloze (3. 7. 2026)](../_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
 - [Videoportál (20. 8. 2026, kauza Peková)](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
 - [Videoportál: mikroklima solárů a větrníků (23. 8. 2026)](../_zdroje.md#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026)
+- [Facebook Live (27. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
