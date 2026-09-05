@@ -4287,3 +4287,10 @@
 - **URL:** <https://www.facebook.com/100085862388850/videos/1776697980027972>
 - **Datum záznamu:** 2026-08-27
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Facebook Live (27. 8. 2026) {#konspirátor-boldy--facebook-live-27-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-27_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1559051425713134>
+- **Datum záznamu:** 2026-08-27
+- **Zpracováno:** ano

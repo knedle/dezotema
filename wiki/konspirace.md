@@ -722,11 +722,29 @@ V souvislosti s podpůrným komentářem Karla Janečka ke kauze Peková (viz [K
 
 ---
 
+### ⚡ Konflikt: Nepál — virální „stíhačka" je AI podvrh, ale zemětřesení bylo uměle vyvoláno HAARPem (Boldy, 27. 8. 2026)
+
+Boldy vyvrací virální video šířené po Facebooku, které ukazuje stíhačku odpalující raketu na přehradu v Nepálu — tvrdí, že jde o AI podvrh (žádná taková přehrada v Nepálu neexistuje, na videu chybí kouřová stopa rakety, záběry jsou znatelně sestříhané a natáčející osoba nemohla video „nahrát na Instagram" uprostřed toho, jak ji strhává vlna) a apeluje na diváky, ať si informace před sdílením ověřují, případně přes AI. To je přímo v rozporu s videem [Jiřího Černohorského ze stejného dne](#-laviny-v-nepálu-jako-řízený-útok-raketou-z-letadla-analogie-s-911-jako-největší-globální-podvod-černohorský-27-8-2026), který totéž AI video bral jako doklad reálného raketového útoku.
+
+Boldy zároveň trvá na vlastní teorii, kterou popsal v předchozím videu na svém kanálu KonspyChannel: skutečné zemětřesení u tibetských hranic (v datech aplikace Earthquake postrádající údaj o hloubce ohniska, což si vykládá jako důkaz umělého, frekvenčního vyvolání pomocí HAARP) utrhlo ledovec ve výšce 5,2 km, který o 1,2 km níž ucpal řeku a vytvořil dočasnou přehradu z ledu a kamení; ta po několika hodinách praskla a přes 20 metrů vysoká vlna smetla skutečnou vodní elektrárnu (rekonstruovanou od roku 2023) s odhadovanou tisícovkou lidí v okolí. Navazuje na svou dřívější tezi o HAARP a uměle vyvolaných zemětřeseních (viz [Zemětřesení v Kolumbii](#zemětřesení-v-kolumbii--spekulace-o-haarp-a-geopolitickém-motivu-vrabel-10-8-2026)).
+
+**Zdroje:** [Boldy — Facebook Live 27. 8. 2026](_zdroje.md#konspirátor-boldy--facebook-live-27-8-2026)
+
+---
+
+### Smart Cities a depopulace jako motiv cíleného zničení Nepálu (Boldy, 27. 8. 2026)
+
+Boldy propojuje výše popsanou katastrofu v Nepálu s plánovanou výstavbou 17 projektů „smart cities" v zasažených okrscích, které podle něj vyžadovaly přesídlení místních obyvatel — naznačuje, že šlo o cílené zničení oblasti, ne o náhodu. Nepál a Tibet označuje za duchovně významná místa (zmiňuje zakladatele Applu, který tam čerpal inspiraci), jejichž zničení je součástí širšího vzorce likvidace „staré historie" a duchovních center — srovnává to s Irákem, Íránem a Afghánistánem a s Ukrajinou, kde podle něj proběhl americký financovaný převrat (Majdan 2014), jehož existence je dnes „vymazávána" ve prospěch falešného narativu o ruské agresi z roku 2022. Radí divákům vyhledávat informace o projektech smart cities v angličtině, protože česky prý „nic nenajdou".
+
+**Zdroje:** [Boldy — Facebook Live 27. 8. 2026](_zdroje.md#konspirátor-boldy--facebook-live-27-8-2026)
+
+---
+
 ### ⚡ Laviny v Nepálu jako řízený útok raketou z letadla — analogie s 9/11 jako „největší globální podvod" (Černohorský, 27. 8. 2026)
 
 V reakci na sdílené video Michala Boldyho o katastrofálních lavinách v Nepálu (stovky mrtvých a pohřešovaných) Černohorský spekuluje, že laviny nezpůsobilo zemětřesení, ale záměrně vypálená střela „vzduch-země" z letadla ve výšce kolem šesti kilometrů — všímá si, že katastrofa přišla těsně před výročím (necelé dva roky) nepálských protestů, při nichž obyvatelé svrhli vládu a vypálili vládní budovy. Srovnává to se svým dlouhodobým přesvědčením, že útoky z 11. září 2001 byly „inside job" americké vlády (zpochybňuje pád třetí budovy WTC, neexistenci záběrů letadla u Pentagonu, kráter v Pensylvánii) — a z toho vyvozuje, že podobně „řízená" katastrofa v Nepálu je pravděpodobnější než náhoda. Viníkem označuje kolektivně „globální hajzly" a explicitně „tyhle židy", kteří podle něj ovládají svět a událost byla jejich „pomstou" nebohým Nepálcům za loňské povstání.
 
-⚡ **Poznámka:** Tvrzení je nepodloženou spekulací kombinující sdílené video, teorii o 9/11 jako řízené operaci a explicitně antisemitské přisouzení viny neurčité skupině „Židů" za přírodní katastrofu — viz [Stochastický teror](stochasticky-teror.md).
+⚡ **Poznámka:** Tvrzení je nepodloženou spekulací kombinující sdílené video, teorii o 9/11 jako řízené operaci a explicitně antisemitské přisouzení viny neurčité skupině „Židů" za přírodní katastrofu — viz [Stochastický teror](stochasticky-teror.md). Samotný Boldy o den později totéž video označil za AI podvrh — viz [⚡ Konflikt níže](#-konflikt-nepál--virální-stíhačka-je-ai-podvrh-ale-zemětřesení-bylo-uměle-vyvoláno-haarpem-boldy-27-8-2026).
 
 **Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 
