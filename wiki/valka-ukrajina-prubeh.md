@@ -1037,3 +1037,11 @@ U příležitosti 35. výročí ukrajinské nezávislosti (USA se nepřipojily k
 Vrabel rozvíjí analogii: stejně jako po 2. světové válce z konfliktu ekonomicky nejvíc profitovaly USA (převzaly světovou rezervní měnu, zatímco Evropa byla zničena a Sovětský svaz „vykrvácel"), předpokládá, že i dnešní válka skončí obdobně — zničením/oslabením především východní Evropy ve prospěch udržení americké dominance (viz [Predikce](predikce.md#ladislav-vrabel--evropa-bude-obětována-miliony-mrtvých-slovanů-25-8-2026)). Odhaduje na základě amerických „ex-plukovníků" celkové ztráty milion až 2,5 milionu na straně Ukrajiny a několik set tisíc na straně Ruska — s tím, že „kanónenfutrem" jsou v tomto konfliktu opět Slované, zatímco žoldnéřů z anglosaských zemí je málo.
 
 **Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+
+---
+
+### Pokus o žhářský útok na muniční továrnu — zadrženi 2 Lotyši a Ukrajinec, ne „čučkaři" (Vrabel, 26. 8. 2026)
+
+K dříve avizovanému žhářskému útoku na továrnu vyrábějící drony Vrabel doplňuje, že byli zadrženi dva lotyšští občané (jeden v Německu, jeden na Slovensku) a jeden Ukrajinec. Krátce konstatuje, že tedy nešlo o žádné náhodné výtržníky („čučkaři"), ale znovu o Ukrajince — bez dalšího rozvedení, protože o motivu útoku nemá kromě mediálních zpráv žádné další informace.
+
+**Zdroje:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)

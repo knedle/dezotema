@@ -810,6 +810,30 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Migrace](../migrace.md) (pokrač. 13)
 - **25. 8.** — Islamizace jako „největší problém" — historie tureckého útlaku Srbů — [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
 
+### [Kauzy a korupce](../kauzy.md) (pokrač. 2)
+- **26. 8.** — Nové vymáhání dotací od tří firem Agrofertu (1,4 mil. Kč) — opakování teze o Babišově střetu zájmu i přes svěřenecký fond — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 9)
+- **26. 8.** — Obhajoba shromáždění „Člověk na prvním místě" proti nálepce „protivládní demonstrace" — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 14)
+- **26. 8.** — AfD Weidelová — uzavření německých hranic, vracení syrských uprchlíků, Německo v „nezvratném rozkladu" — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+- **26. 8.** — Oprava dřívějšího tvrzení o Lex Ukrajina 7 — jen prodloužení zákona předchozí vlády, plus samostatný dlouhodobý pobyt počítající se celý do 5 let na občanství — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+- **26. 8.** — Migrační pakt — Okamura přiznal, že vláda bude „platit" místo brát migranty — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 11)
+- **26. 8.** — Kosovo/Donbas/Krym — teze „historického práva" na území rozšířená ze včerejšího Kosova — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+### [Rodina a děti](../rodina-deti.md) (pokrač. 2)
+- **26. 8.** — Trumpův zákaz genderové výuky na školách jako výjimka v jinak „katastrofální" politice — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 6)
+- **26. 8.** — Bill Gates přiznal, že ho AI předčila v programování — WHO, eugenika, transhumanismus — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+- **26. 8.** — „Lake America" a plán technátu z 30. let — Musk, Vance, Thiel, Karp — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 12)
+- **26. 8.** — Sabotáž muniční továrny — zadrženi 2 Lotyši a Ukrajinec — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1318,3 +1342,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Nedělní vysílání (23. 8. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
 - [Zprávy v devět (24. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026)
 - [Facebook Live (25. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+- [Facebook Live (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)

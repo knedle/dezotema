@@ -479,7 +479,9 @@ Rajchl odmítá snahy Pirátů připravit Agrofert o dotace EU a označuje je za
 
 Evropský prokurátor zahájil trestní řízení ve věci dotací pro Agrofert poté, co na to reagoval na stížnost Pirátů. Vrabel připomíná, že Babišův střet zájmů nebyl vyřešen převodem firmy do svěřenského fondu, a nečeká žádné odsouzení — Babiš podle něj zůstává „užitečnou loutkou", která dělá vše, co globalisté chtějí, a proto mu podobná vyšetřování neuškodí.
 
-**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
+**26. 8.** — Vrabel k novému případu (tři menší firmy z holdingu — Agro Rosochy, Zeus Brnížov, Lužánská zemědělská — mají podle platebních rozkazů okresních soudů vrátit Podpůrnému garančnímu rolnickému a lesnickému fondu téměř 1,4 mil. Kč za porušení pravidel střetu zájmu v letech 2017–2021, firmy podaly odpor; fond celkem vymáhá 22 mil. Kč od 25 spřízněných firem Agrofertu) opakuje a rozvádí svou tezi o Babišově střetu zájmu: vložení Agrofertu do svěřeneckého fondu neznamená, že ho Babiš neřídí nepřímo, a hlavně z něj má prokazatelný užitek — firmu jednou zdědí jeho děti a průběžně z ní plynou zisky. Zdůrazňuje, že to neznamená podporu žádné vládní ani opoziční strany (ODS, STAN, Motoristé) — všechny označuje za „mafiánské" a zkorumpované stejně jako Babiše.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026), [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
 
 ---
 

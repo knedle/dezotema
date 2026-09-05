@@ -259,6 +259,8 @@ Ke zprávě, že se španělská enkláva Ceuta potýká s přeplněnými zaří
 
 **Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026), [Vrabel — Zprávy v devět 17. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-8-2026), [Vrabel — Zprávy v devět 18. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-8-2026)
 
+**26. 8.** — Vrabel se sám opravuje: dřívější tvrzení, že Lex Ukrajina 7 přinesla „nová" (Babišova) vláda, nebylo přesné — šlo jen o prodloužení novelou z května 2026 toho, co zavedla už vláda předchozí. Zároveň upřesňuje, že vláda rozhodla samostatně (mimo Lex Ukrajina) i o zvláštním dlouhodobém pobytu pro Ukrajince: zatímco pobyt na základě dočasné ochrany se do pětiletého požadavku pro občanství počítá jen z poloviny, při přechodu na tento nový status se počítá celý čas. Zdůrazňuje, že obě vlády (předchozí i současná) v tomto ohledu prosazují stejnou linii — umožnit Ukrajincům trvalý pobyt v ČR.
+
 ---
 
 ### Zrušená akce „jen pro černochy" v Berlíně — Vrabel přiznává vlastní posun k rasovému profilování kvůli migraci (18. 8. 2026)
@@ -507,6 +509,8 @@ Evropská komise odmítla zaregistrovat Evropskou občanskou iniciativu Save Eur
 
 **28. 7.** — Ke zprávě o stažení německých námořních lodí z oblasti Adenského zálivu (viz [blizky-vychod.md](blizky-vychod.md)) Vrabel s rasově motivovanou glosou o „opálených" německých vojácích dodává, že migrační pakt dál platí a vláda proti němu nic neudělala — jen v prosinci vydala prohlášení, že jej „neberou". Predikuje, že podobní vojáci „v maskáčích" budou brzy i v české armádě, protože i jiné země (USA, Rusko) nabírají migranty do armády výměnou za občanství — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 
+**26. 8.** — Vrabel cituje vyjádření Tomia Okamury z Příčovy, že vláda se rozhodla migrační pakt „platit" (finančně přispívat, ale nebrat migranty) — což podle Vrabela potvrzuje jeho vlastní prosincovou předpověď, že žádné skutečné odmítnutí paktu nenastane, jen silné prohlášení. Dodává, že EU nenechá ČR takto platit dlouho a migranti nakonec začnou přijíždět stejně — jediným řešením zůstává vystoupení z EU — [Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
 ---
 
 ### Členské státy EU zruší ochranu ukrajinským mužům v bojeschopném věku — Vrabel: nehumánní dvojí metr (24. 7. 2026)
@@ -652,6 +656,14 @@ V Berlíně dominuje zemským volbám spor o bydlení: levicová strana Die Link
 V odpovědi na divácký dotaz, zda migraci do Británie skutečně způsobilo vystoupení z EU, Vrabel rozlišuje dva typy migrace do Evropy. Do Británie (Pákistánci, Indové), Francie (obyvatelé bývalých kolonií) i do Německa/Rakouska (Turci na práci od 60. let, později Syřané a Afghánci po otevření hranic 2015) přišli migranti z důvodů, které s Evropskou unií nesouvisí — jde o důsledek vlastní koloniální minulosti těchto zemí nebo jejich vlastních dřívějších náborových programů. Pro ČR je ale migrace podle něj výhradně důsledkem členství v EU a migračního paktu: ČR nikdy nikoho nekolonizovala, nemá „žádné dluhy" vůči bývalým koloniím, a jediné, co „udělala hloupě", bylo otevření hranic ukrajinským uprchlíkům. Migrační pakt dnes podle něj nutí i státy bez vlastní kolonizační historie přijímat migranty v rámci „solidárního" přerozdělování ve prospěch přetížených zemí západní Evropy — což pro ČR na rozdíl od Británie apod. žádnou historickou logiku nemá.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+---
+
+### AfD Weidelová: uzavření hranic a plán vrátit syrské uprchlíky — Německo v „nezvratném rozkladu" (Vrabel, 26. 8. 2026)
+
+Šéfka německé AfD Alice Weidelová v rozhovoru pro ZDF ostře kritizovala migrační politiku a bezpečnostní situaci v Německu — ženy se podle ní bojí chodit ven kvůli útokům noži a skupinovým znásilněním páchaným migranty ze Sýrie a Afghánistánu. AfD chce uzavřít německé hranice a je připravena prosazovat i vystoupení Německa ze Schengenu; zvažuje také hromadné vracení asi 1,3 milionu syrských uprchlíků, což by byl v Evropě precedens. Vrabel k tomu dodává vlastní hodnocení: vystoupení ze Schengenu Německu nepomůže a rozklad západní Evropy (kvůli demografii a migrantům s občanstvím, kteří mají mnoho dětí) už nelze zvrátit — čeká „velmi tvrdý konflikt, kde poteče hodně krve". Staví do kontrastu Českou republiku, která díky rozhodnutí z roku 2015 nepustit migranty z islámských zemí pořád má šanci se tomuto scénáři vyhnout, pokud se lidé „znovu probudí" — narůstajícím problémem ČR je jen migrace z Ukrajiny.
+
+**Zdroje:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
 
 ---
 

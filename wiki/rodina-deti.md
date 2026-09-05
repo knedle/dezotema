@@ -174,6 +174,14 @@ Rajchl tvrdí, že česká společnost nemá s homosexualitou problém — podle
 
 ---
 
+### Trumpův zákaz genderové výuky na školách — jedna dobrá věc uprostřed „katastrofy" (Vrabel, 26. 8. 2026)
+
+Donald Trump prohlásil, že americké veřejné školy byly varovány: pokud budou dětem tvrdit, že jsou „uvězněné v nesprávném těle", bude to jeho administrativa považovat za zneužívání dětí. Vrabel s tímto konkrétním krokem souhlasí („po dlouhé době něco, pod co bych se podepsal") a přirovnává ho i ke snížení počtu povinných dětských vakcín v USA (ze 17 na 11). Rámuje ho ale jako výjimku v širším vzorci, kdy vlády „naoko" udělají pár populárních kroků, aby zakryly horší kroky v oblasti globalismu a válek — přirovnává to k tomu, jak si Tomio Okamura přivlastnil Vrabelovo dlouhodobé téma české koruny v ústavě jako vlastní nový požadavek.
+
+**Zdroje:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+---
+
 ### Britská studie blokátorů puberty u dětí — „nejvíc kriminální věc na světě" (Vrabel, 3. 8. 2026)
 
 Britský Nejvyšší soud zamítl právní námitku aktivistů a umožnil pokračování klinické studie Pathways (King's College London), která má od 1. srpna zařadit více než 220 dětí ve věku 11–16 let do testování účinků blokátorů puberty u mladistvých zpochybňujících své pohlaví. Vrabel to označuje za jednu z „nejvíc kriminálních" věcí na světě — argumentuje, že děti jsou snadno manipulovatelné, blokátory a hormony jsou celoživotně bolestivé a rozhodnutí učiněné v dětství může vést k hluboké lítosti a depresi v dospělosti. Kritizuje i praxi „dnů tolerance" na školách (včetně Německa), kde si děti zkoušejí opačné genderové role a kde je jim ze strany neziskových organizací sugerováno, že pokud se tak cítí, neměly by se stydět se k tomu přiznat — což podle něj u části dětí vyvolá zbytečné dlouhodobé zmatení identity.

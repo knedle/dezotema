@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Ukrajina se na podzim zhroutí kvůli ruské ofenzivě a nedostatku energií (26. 8. 2026)
+
+**Předpověď:** V souvislosti s návštěvou šéfa CIA Radcliffa v Moskvě Vrabel odhaduje, že ukrajinská armáda dále kolabuje (nedostatek vojáků, munice, protivzdušné obrany) a že na podzim 2026 zahájí Rusko těžkou ofenzivu, na niž už Ukrajina nebude mít energetické ani obranné kapacity — v důsledku toho může „velmi rychle" dojít ke zhroucení Ukrajiny.
+
+> „Vidíme, že Ukrajina se blíží k kolapsu, protože co se týče podzimu, tak rusové jim dají nějakou těžkou ofenzivu... a prostě může velmi rychle skončit." — Ladislav Vrabel
+
+**Horizont:** podzim 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+---
+
 ### Ladislav Vrabel — Po válce nahradí demokracii technokracie (25. 8. 2026)
 
 **Předpověď:** Vrabel předpovídá, že po skončení války dojde ke změně politického systému — vysoká nezaměstnanost, ekonomické problémy a nedůvěra k politikům povedou k tomu, že lidé sami budou volat po vládě „bez chyb" řízené technologiemi/AI namísto zkorumpovaných politiků. Za klíčové postavy budoucí technokratické společnosti (existující od 20. let minulého století) označuje Elona Muska, Petera Thiela a Alexe Karpa.

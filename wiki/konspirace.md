@@ -415,7 +415,19 @@ Vrabel ve zjevně satirickém duchu „odhaluje", že ministr Petr Macinka je ve
 
 Vrabel ke zprávě (Die Welt), že USA předaly NATO seznam vojenské techniky (stíhačky, průzkumná letadla, drony, námořní síly), kterou už nechtějí zahrnovat do aliančního plánování, vykládá dlouhodobý „pentagonský plán": vytvořit z USA a okolních států (od Jižní Ameriky přes Kanadu po Grónsko, vč. Kuby) jednu opevněnou „pevnost Ameriku" ve stylu *TechNate* (technokratická idea z počátku 20. století), chráněnou dvěma oceány a protiraketovým „Iron Dome". Teze: zatímco bude zbytek světa ve válce, USA si přes digitální měny „pořeší" svůj nesplatitelný státní dluh a udrží svět obchodující v dolarech — ždímáním ostatních zemí přes cla, sankce, válku na Ukrajině a odstřižení Evropy od ruské energie. Navazuje na jeho výklad technokracie a digitální kontroly (viz [Palantir — digitální feudalismus](#palantir--paypal-mafie-digitální-feudalismus-nato-ho-tlačí-do-evropy-vrabel)).
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+**26. 8.** — K úvaze Donalda Trumpa přejmenovat Ontarijské jezero (na hranici s Kanadou) na „Lake America" Vrabel dodává, že technokraté už ve 30. letech minulého století nakreslili mapu plánovaného „technátu" — sahajícího od Bolívie přes Mexiko, celý záliv, USA, Kubu a Kanadu až po Grónsko. Jako důkaz reálného vlivu této technokratické skupiny dnes jmenuje konkrétní osoby na vysokých pozicích: Elona Muska, J. D. Vance, Petera Thiela a Alexe Karpa (Palantir).
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026), [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+---
+
+### Bill Gates přiznal, že ho AI předčila v programování — WHO, eugenika a transhumanismus (Vrabel, 26. 8. 2026)
+
+Bill Gates v rozhovoru pro New York Times přiznal, že současné systémy umělé inteligence ho v programování „do značné míry překonaly", a označil AI za jeden z nejnebezpečnějších nástrojů, jaké lidstvo vytvořilo. Vrabel na to reaguje nedůvěrou vůči samotnému Gatesovi: připomíná, že Gates je druhým největším sponzorem WHO a jako soukromá osoba se „Significant Control" má přístup k jednáním o pandemické smlouvě a mezinárodních zdravotnických předpisech (IHR), přestože tam nemají přístup ani volení poslanci jednotlivých zemí — dokládá tím své starší tvrzení, že WHO je fakticky soukromá, ne veřejná organizace. Poukazuje na to, že Gates zároveň vydělal obrovské peníze na vakcínách a skupuje nejvíc zemědělské půdy v USA, a připomíná jeho dlouhodobý zájem o eugeniku. Propojuje to s tématem transhumanismu (zmiňuje Muskův Neuralink) jako možným cílem „velkého resetu": AI podle něj nemusí být nebezpečná tím, že by dosáhla singularity, ale tím, že je v rukou lidí jako Gates, kteří ji mohou použít k tomu, aby obyčejným lidem vnutili potřebu technologických „vylepšení" a získali nad nimi absolutní kontrolu (sledování skrze telefony a datová centra).
+
+> „Bill Gates nás měl varovat před Billem Gatesem." — Ladislav Vrabel, [Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+**Zdroje:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
 
 ### Numerologický „portál Sýria" 7. 7. 2026 (Zítko, 8. 7. 2026)
 
