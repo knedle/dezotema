@@ -944,6 +944,18 @@ Zítko podal na krajské státní zastupitelství trestní oznámení na býval�
 
 ---
 
+### Trestní oznámení na chemtrails a sítě 5G/6G/7G jako nástroj genocidy (Zítko, 7. 8. a 26.–27. 8. 2026)
+
+Součástí trojice trestních oznámení podaných 7. 8. na Krajské státní zastupitelství v Liberci bylo i oznámení na organizovanou zločineckou skupinu řízenou ze zahraničí, která má prostřednictvím rozprašování chemtrails (směsi těžkých kovů — hliník, baryum, stroncium) a provozu sítí vysílačů 5G/6G/7G (vysílajících hlavně v nočních hodinách) záměrně vyvolávat symptomy podobné onemocnění COVID-19 s cílem redukovat počet obyvatel v rámci „genocidy národa, vakcinačního holokaustu a sterilizace". Argumentuje, že onemocnění COVID-19 bylo patentováno už v roce 2015 (patent připisovaný „panu Rothschildovi"), tedy čtyři roky před oficiálně uváděným objevem viru ve Wu-chanu, a jako podpůrný důkaz uvádí souběh masového očkování proti chřipce a hustou síť 5G vysílačů v italském Bergamu v roce 2019. Odkazuje na nezávislého „badatele" Radovana Dluhého Smithe, kterého má být za publikování těchto informací na Facebooku dlouhodobě blokován.
+
+**26. 8.** — Zítko podal na totéž státní zastupitelství doplňující trestní oznámení, které rozšiřuje původní podání (aby bylo zachováno zákonné doplnění před uplynutím 30denní lhůty 7. 9.) o tvrzení, že manipulace s počasím pomocí chemtrails probíhá už od 70.–80. let minulého století. Zdůrazňuje, že žádá o vydání předběžného opatření k zastavení veškerého očkování v ČR a nezávislou laboratorní analýzu složení a bezpečnosti všech vakcín a šarží, a navrhuje zavést osobní trestní odpovědnost celého řetězce od premiéra a ministra zdravotnictví přes ředitele nemocnice a primáře až po očkujícího lékaře za případné poškození zdraví.
+
+⚡ **Poznámka:** Tvrzení o patentu na COVID-19 z roku 2015, o zdravotních účincích sítí 5G/6G/7G a o příčinné souvislosti s chemtrails nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026)
+
+---
+
 ### Bitcoinová kauza: údajný poměr Decroix a Havránka jako další „brněnská frajeřina ODS" (Zítko, 12. 8. 2026)
 
 Zítko na základě fotografií z polského lázeňského střediska Karpacz tvrdí, že mezi poslankyní Evou Decroix (ODS) a poslancem Jiřím Havránkem (ODS) probíhá milostný poměr — sestavuje neověřenou „časovou osu" od rozchodu Decroix s manželem (prosinec 2025) přes setkávání dvojice u kávového automatu ve Sněmovně až po společnou cestu do Karpacze v srpnu 2026. Poměr rámuje jako další doklad propojenosti „brněnské sítě" ODS kolem bitcoinové kauzy: připomíná, že Havránek loni navrhl osvobodit od daně zisky z kryptoměn nad 40 mil. Kč (viz [Bitcoinová kauza: detaily obžaloby, 4. 8.](#bitcoinová-kauza-detaily-obžaloby-a-rozšířený-okruh-podezřelých-zítko-4-8-2026)) a že Decroix jako koordinátorka kauzy dosadila Davida Uhlíře. Nově srovnává disproporci trestů: lékař Rát dostal 7 let za 7,5 mil. Kč úplatků, zatímco Blažkovi a spol. je navrhováno 6,5 roku za více než 100 miliard Kč.

@@ -559,7 +559,9 @@ Zítko líčí dosavadní průběh svého trestního stíhání za „šíření
 
 **25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu zmiňuje totéž usnesení jako potvrzení neizolace viru — beze změny.
 
-**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+**27. 8.** — Zítko přidává další „vítězství" ve stejné linii: aktuální rozhodnutí slovenského soudu, který osvobodil lékaře MUDr. Petra Liptáka s tím, že veškerá covidová opatření (vyhlášky, nařízení) byla protizákonná — vedle již dříve zmíněného rozsudku ve prospěch kanadského aktivisty Pat Kinga (blokáda silnic) to prezentuje jako sérii soudních proher „COVID mafie" napříč Českem, Kanadou a Slovenskem.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026), [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026)
 
 **Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026), [ČsTV2 — Videoportál 6. 8. 2026](_zdroje.md#československo-tv2--videoportál-6-8-2026), [ČsTV2 — Videoportál 14. 8. 2026](_zdroje.md#československo-tv2--videoportál-14-8-2026), [ČsTV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
@@ -1091,6 +1093,12 @@ Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob co
 **21. 8. (večer, Janečkův článek)** — Zítko čte rozsáhlý text Karla Janečka reagující na Fauciho senátní slyšení. Janeček srovnává Fauciho odmítání odpovídat (111 odvolání na pátý dodatek, včetně otázky na barvu kravaty) s tím, jak covidoví „vědátoři" po celém světě požadovali bezpodmínečnou důvěru ve vědu. Fauciho označuje za „nejhoršího kouzelníka" a „zlosyna historického významu", který poškodil důvěru ve vědu víc než kdokoli od dob Josefa Mengeleho, a tvrdí, že lidé kladoucí legitimní otázky o původu viru a financování rizikového výzkumu byli systematicky dehonestováni. Žádá, aby byli k odpovědnosti voláni i čeští protějšky — jmenovitě uvádí Jana Konvalinku, Zdeňka Hella, Milana Kubka, Rastislava Maďara, Petra Smejkala, Jana Sempera, Václava Hořejšího, Jaroslava Flégra, Romana Chlíbka, Rudolfa Tachezyho a Vašákovou. Připomíná vlastní ranou kritiku covidových opatření (blog z 21. 3. 2020, veřejné vystoupení v listopadu 2021 proti očkování zdravých dětí), kterou nikdy nelitoval.
 
 **Zdroje:** [ČsTV2 — Videoportál 21. 8. 2026 (večer)](_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
+
+**27. 8.** — Zítko přidává další dílčí zprávy k témuž tématu: vedení firmy Pfizer mělo pod přísahou přiznat, že jejich mRNA vakcíny proti covidu nebyly před uvedením na trh nikdy testovány z hlediska schopnosti zastavit přenos viru; s odkazem na (blíže neupřesněného) bývalého toxikologa Pfizeru tvrdí, že firma do vakcín vložila gen SV40 fungující jako spouštěč tzv. „turborakovin". Zmiňuje případ americké lékařky Meryl Nass, která u soudu uspěla poté, co jí lékařská komise státu Maine pozastavila licenci a nařídila psychiatrické vyšetření za předepisování ivermectinu — srovnává to s vlastní zkušeností nátlaku ze strany úřadů. Dále cituje zprávu, že dánský výzkumník Poul Thorsen (jehož starší studie o vakcínách a autismu byla citována CDC i ministrem zdravotnictví USA Robertem F. Kennedym ml.) čelí federálnímu obvinění ze zpronevěry výzkumných grantů a má se v září přiznat k podvodu — což čte jako zpochybnění samotné vědecké báze popírající souvislost očkování s autismem. Jako pozitivní vývoj zmiňuje, že americký stát Florida (díky lékaři Josephu Ladapovi) ruší povinnost čtyř druhů očkování (plané neštovice, hepatitida B, pneumokokové onemocnění, Hib) pro školní docházku, a že byl publikován a prošel recenzním řízením první protokol kombinující ivermectin, fenbendazol a mebendazol k léčbě rakoviny.
+
+⚡ **Poznámka:** Tvrzení o přísežném přiznání Pfizeru ohledně testování přenosu, o genu SV40 ve vakcínách a o obviněních vůči Thorsenovi nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké je Zítko prezentuje.
+
+**Zdroje:** [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026)
 
 ---
 

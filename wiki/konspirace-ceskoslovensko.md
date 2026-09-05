@@ -154,7 +154,11 @@ Zítko opakuje svůj výklad, že Německo dluží válečné reparace Českoslo
 
 **15. 7.** — Zítko tutéž tezi opakuje beze změny (zákon 11/1918, 29 bilionů Kč / 9500 tun zlata, „korporace Česko a Slovensko").
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026)
+**27. 8.** — V přímé, ostré konfrontaci s divačkou vystupující pod přezdívkou „Rybníčková" (kterou spojuje s neurčitou „sektou" komentovanou dříve Kateřinou Včelišovou a Blankou Paciruk) Zítko rozvádí tutéž tezi o dvou frontách: teorii suverénního občana (rodný list jako obchodovatelný cenný papír na burzách, tzv. „ztracený na moři" dle námořního práva) a teorii nezaniklé ČSR. Nově doplňuje, že Německo je dodnes „okupovanou zemí" bez podepsané mírové smlouvy z 2. světové války, a tudíž nemá právní postavení k vymáhání jakýchkoli nároků vůči Československu. Předjímá nové poválečné uspořádání světa, které mají po vzoru Versailles rozhodnout „vítězné mocnosti" — jmenuje USA (Trump), Rusko (Putin), Čínu (Si Ťin-pching), Indii (Módí) a Saúdskou Arábii (bin Salmán) jako vítěze, zatímco Evropskou unii, Spojené království a Ukrajinu řadí mezi poražené. Odmítá platnost jakéhokoli restitučního nároku, na který se „Rybníčková" odvolávala, s tím, že podvedeno bylo 15,5 milionu Čechoslováků, ne jednotlivec.
+
+⚡ **Poznámka:** Jde o Zítkovu interpretaci v přímé polemice s divačkou; obsah jejích tvrzení znám jen z jeho parafráze.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026)
 
 ---
 
