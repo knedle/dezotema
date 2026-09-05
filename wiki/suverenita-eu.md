@@ -158,6 +158,14 @@ Rajchl v Bratislavě rozebírá mechanismus emisních povolenek: byly záměrně
 
 ---
 
+### Vláda nepopírá klima, jen odmítá politiku ničící průmysl — odpověď „panu Klusovi" (Filip Turek, sdílené video, 27. 8. 2026)
+
+Filip Turek reaguje na výrok (přisuzovaný „panu Klusovi"), že kdo popírá klimatickou změnu, je „hloupý, nebo zaplacený". Odmítá to jako nepravdivé zjednodušení: současná vláda podle něj změnu klimatu nepopírá, jen odmítá politiku, která pod záminkou její záchrany ničí evropský průmysl a zdražuje život lidem. Argumentuje, že EU produkuje jen asi 6 % světových emisí skleníkových plynů, přesto má jedny z nejpřísnějších klimatických pravidel na světě — což vede k vytlačování výroby mimo Evropu a jejímu dovozu ze zemí s mírnějšími ekologickými standardy, aniž by to planetě pomohlo. Odpovědnost za současné důsledky Green Dealu klade na předchozí vládu, která evropskou zelenou politiku prosazovala. Kritiku každého nesouhlasu s Green Dealem jako hlouposti nebo korupce označuje za urážku, ne argument.
+
+**Zdroje:** [Restart Česko — Videoportál, 27. 8. 2026 (2)](_zdroje.md#restart-česko--videoportál-27-8-2026-2)
+
+---
+
 ### Emisní povolenky: ČR platí 17× víc než Němci — „platíme německé důchody" (Rajchl, 4. 6. 2026)
 
 Rajchl odkazuje na studii Warsaw Enterprise Institute, kterou prý musel připustit i český mainstream, a vykládá ji jako důkaz, že emisní povolenky jsou „ožebračovací zločinné schéma" bez vztahu k ochraně klimatu. Klíčová čísla, která uvádí: každý občan ČR platí kvůli povolenkám ~7 000 Kč ročně navíc; negativní dopad na HDP až 100 miliard Kč; ČR za povolenky platí 30× (vůči HDP) a 17× více než Němci, kteří ovšem mají trojnásobné platy. Hlavní teze: povolenky jsou „řešením penzijního systému v Německu" — „my za naše faktury za elektřinu platíme německé důchody." Skutečný dopad je dle něj ještě vyšší (dráží se vše — potraviny, stavební materiál, náklady firem), v řádu stovek miliard až bilionů. Raději by zaplatil 100 mld. ze státního rozpočtu, než nadále platit povolenky. Je pro zrušení ETS1 i ETS2 (ETS2 čísla ještě znásobí); systém označuje za hlavní brzdu evropské ekonomiky a důvod, proč Evropa (a Češi) chudnou vůči USA a Asii. Rozšiřuje jeho dřívější výklad povolenek jako přesunu peněz ke spekulantům (viz [Green Deal jako nástroj přesunu peněz ke spekulantům](#green-deal-jako-nástroj-přesunu-peněz-ke-spekulantům)).
