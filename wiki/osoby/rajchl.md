@@ -39,6 +39,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **6. 8.** — dovětek k debatě s Grolichem: expert Pavel Janeček dal Rajchlovi za pravdu ohledně snížení ceny elektřiny přebráním OZE poplatků státem — [Videoportál 6. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-6-8-2026)
 - **9. 8.** — podmínka za pokus o vraždu zápalnou lahví (Majdanňuk) jako dvojí metr justice; kritika mediálního nezájmu o bitcoinovou kauzu (opakování) — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 - **13. 8.** — kauza Majdanňuk: doplnění srovnání s podmínkou za komentář o Zuzaně Černé a konkrétní srovnávací tresty (30/18/11 let) — [Videoportál 13. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-13-8-2026)
+- **26. 8.** — nákup 44 tanků Leopard 2A8 za 39 mld. Kč jako „pojízdné rakve"; peníze mají jít zbrojařům místo do zdravotnictví/školství/důchodů — [Videoportál 26. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-26-8-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#nákup-44-tanků-leopard-2a8-za-39-mld-kč--pojízdné-rakve-rajchl-26-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)

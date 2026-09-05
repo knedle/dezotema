@@ -233,6 +233,16 @@ Rajchl z toho vyvozuje: investice do F-35 a Leopardů je primárně v zájmu zbr
 
 ---
 
+### Nákup 44 tanků Leopard 2A8 za 39 mld. Kč — „pojízdné rakve" (Rajchl, 26. 8. 2026)
+
+Rajchl kritizuje kontrakt ČR na nákup 44 tanků Leopard 2A8 za 39 miliard Kč s odkazem na článek o opuštěných západních tancích v lesích u Slovjansku a Kramatorsku (životnost tanku v boji 5–6 minut). S náklady na údržbu a provoz odhaduje reálnou cenu na trojnásobek, k tomu je nutná rekonstrukce silnic a mostů, protože nové tanky jsou o 16 tun těžší než předchozí model. Přepočítává, že minuta nasazení tanku v případě války by stála zhruba miliardu korun. Tvrdí, že jediným smyslem nákupu jsou zisky zbrojařských korporací, a žádá peníze místo toho investovat do zdravotnictví, školství, důchodů a rodin. Navazuje na svůj opakovaný argument o zbrojení jako korupci ([EU válečná ekonomika, 3. 5. 2026](#eu-válečná-ekonomika-evropa-utrácí-7-více-než-rusko--rajchl-vs-pospíšil-3-5-2026)).
+
+> „Jediné, k čemu slouží ten nákup tanků z vašich daní, z vašich těžce vydělaných peněz, jsou obrovské zisky zbrojařských korporací." — Jindřich Rajchl, [Videoportál 26. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-26-8-2026)
+
+**Zdroje:** [Rajchl — Videoportál, 26. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-26-8-2026)
+
+---
+
 ### Macinka: „americká servility" — Vrabel (3. 5. 2026)
 
 Vrabel kritizuje ministra obrany Jana Macinku za bezpodmínečné přijímání amerických bezpečnostních požadavků a udržování ČR na trajektorii, která by ji mohla vtáhnout do přímého konfliktu s Ruskem. Macinka podepsal bez veřejné debaty přistoupení ČR k různým vojenským závazkům (bunker koalice, F-35 zálohy) a pokračuje v kurzu, který ČR z pohledu Ruska staví do role spolupachatele.
