@@ -615,7 +615,9 @@ Rajchl věnuje hlavní část vysílání shrnutí a rozšíření svého postoj
 
 Navrhované řešení, které dosud nejpodrobněji shrnuje: (1) okamžitá remigrace/deportace ukrajinských mužů v odvodovém věku bez zaměstnání, dle vzoru polské strany PiS — s důrazem na to, aby ČR tento krok provedla dřív než Polsko (jinak přijme jejich přesun) — viz [Návrh na deportaci, 9. 8.](#návrh-na-deportaci-nezaměstnaných-ukrajinských-mužů-v-odvodovém-věku-rajchl-9-8-2026); (2) úplné zrušení institutu dočasné ochrany, včetně pravidla, že odjezd na Ukrajinu „na dovolenou" znamená ztrátu nároku na návrat v tomto režimu (kdo skutečně před válkou prchá, na dovolenou tam nejezdí); (3) plošná revize povolení k pobytu pro všechny, kdo přišli po 24. 2. 2022 na základě dočasné ochrany — návrat na Ukrajinu jako výchozí pravidlo, výjimka jen při prokázání dlouhodobé práce a placení daní, uzavření manželství s českým občanem nebo založení rodiny; (4) bezvýjimečné vyhoštění za spáchaný trestný čin nebo přestupek.
 
-**Zdroje:** [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
+**27. 8.** — K článku na Aktuálně.cz o kritických čekacích dobách na diagnostická vyšetření (3/4 občanů čeká déle než měsíc, každý třetí déle než čtvrt roku — u nádorových onemocnění může jít o rozdíl mezi uzdravením a smrtí) Rajchl tvrdí, že se tím potvrzuje jeho dřívější „proruská dezinformace": příčinou přetížení je nápor ukrajinských migrantů na zdravotní systém přetížený už od roku 2022. Kromě revize pobytů a rychlého návratu migrantů na Ukrajinu nově navrhuje převést peníze z „Národní očkovací strategie" (kterou označuje za pouhý výdělek pro farmaceutické firmy, viz [Covid a vakcíny](covid-vakciny.md#národní-očkovací-strategie--hlasování-výboru-pro-zdravotnictví-29-4-2026)) do obnovy počtu lékařů a zdravotních sester — s odkazem na to, že do deseti let odejde do důchodu třetina z nich.
+
+**Zdroje:** [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026), [Rajchl — Videoportál 27. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-27-8-2026)
 
 ---
 

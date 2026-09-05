@@ -110,6 +110,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **9. 8.** — návrh na deportaci nezaměstnaných ukrajinských mužů v odvodovém věku (vzor PiS); dozvuky debat s Volpem (Ceuta/Schengen) a Kolářem („přímá demokracie") — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 - **16. 8.** — souhrn ukrajinské migrace (1,1–1,5 mil. cizinců, 300–400 tis. na černo, kriminalita dle studie NCOZ, náklady přes čtvrt bilionu); plán revize pobytu a remigrace; reakce na Martina Dvořáka k Ceutě a euru — [Facebook Live 16. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
 - **23. 8.** — migrace jako „rakovina, která metastázuje"; úvaha o vystoupení ze Schengenu — [Facebook Live 23. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026)
+- **27. 8.** — kolaps čekacích dob na diagnostická vyšetření (3/4 lidí přes měsíc, 1/3 přes čtvrt roku) jako důsledek ukrajinské migrace; návrh přesměrovat peníze z Národní očkovací strategie do obnovy zdravotnického personálu — [Videoportál 27. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-27-8-2026) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
