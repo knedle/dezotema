@@ -21,6 +21,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **17. 8.** — Odvolání státní zástupkyně z bitcoinové kauzy jako doklad 37 let systémové beztrestnosti politických stran — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 - **27. 8.** — Arogance koaličních politiků (STAN radní o parkování, poslankyně Urbanová a wellness na Ukrajině); kritika zadlužení za Fialovy vlády a návrh zrušit ODS/STAN/Piráty/KDU-ČSL/TOP 09 — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - **27. 8.** — Pavlův projev u ČRo 21. 8. jako pokrytectví (vlastní revizionistický výklad 1968 vs. smíření s Landsmannschaftem); nezodpovězená žádost 106 o financování cesty na F1 v Maďarsku — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) → [petr-pavel.md](../petr-pavel.md)
+- **28. 8.** — Zadlužení ČR přičítá výhradně Fialově vládě; pokrytectví opozice napadající u ÚS rozpočet Babišovy vlády; „banánový absurdistán" a „kosočtverec bez čárky" (Pekarová) — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+- **28. 8.** — Podrobný rozbor poslaneckých platů a náhrad (paušály bez zdanění a kontroly, ~180–200 tis. Kč/měs. čistého); ústavní imunita bez odpovědnosti za hlasování — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+- **28. 8.** — Vlastní politická vize „Čest Svoboda Respekt" (decentralizované buňky, celostátní referendum); federativnější uspořádání ČR (Morava/Slezsko ve vlajce); kritika mechanismu petic; rekapitulace vlastních aktivit (Koněv, demonstrace u Úřadu vlády, blokace Istanbulské úmluvy) — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+- **28. 8.** — Kritika Petra Pavla — vlajka, drahé vstupenky (5000 Kč), opakovaná narážka na plat — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) → [petr-pavel.md](../petr-pavel.md)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -111,6 +115,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - LGBT a queer gender zákonem zakázat; drag performace jako programování dítěte; podpora Orbánovy politiky — [Queer gender zákonem zakázat 10. 4. 2026](../_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
 - „Vrátit se ke Sporheltu a do kuchyně" — tradiční role ženy; ženy se nemají vměšovat do politického komentáře — [Video 1706645550679611 27. 5. 2026](../_zdroje.md#jiří-černohorský--video-1706645550679611-27-5-2026)
 - **17. 8.** — Hormonálně navozené kojení u trans rodičů, adopce přes náhradní mateřství v zahraničí — „banda psychopatů"; zrušení vojenské služby jako počátek destrukce společnosti — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+- **28. 8.** — Pokles porodnosti (~82 tis./rok) jako měřítko úpadku společnosti; srovnání se socialismem (130–160 tis.); obava ze skladby nově narozených dětí — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
@@ -129,6 +134,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Pavel — „rošlapal rypák, flusil do ksichtu" — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 - „Boreček" (DPP) — „rozbíjí rypák, v nějakým tom kleši" — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 - ⚡ „Židé"/globální elity dehumanizováni jako strůjci genocidní „pomsty" (laviny v Nepálu) — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+- Zbyněk Stanjura — výzva k dlouhému vězení a cíleně nízkému důchodu (15 000 Kč) — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 
 ---
 
@@ -248,6 +254,9 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Kateřina Urbanová | ❌ negativní | Poslankyně STAN — kritizována za plánovanou pracovní cestu na Ukrajinu se zastávkou ve wellness centru za státní peníze | 2026-08-27 | [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) |
 | Petr Pavel | ❌ negativní | Kritizován za projev u ČRo 21. 8. srovnávající invazi 1968 se současným Ruskem — obviněn z pokrytectví vůči smíření s Landsmannschaftem; nezodpovězená žádost o informace k financování cesty na F1 v Maďarsku | 2026-08-27 | [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) |
 | Vít Rakušan | ❌ negativní | Označen za odpovědného za přijetí migračního paktu EU (30 000 migrantů ročně nebo 15 mld. Kč pokuty) | 2026-08-27 | [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) |
+| Zbyněk Stanjura | ❌ negativní | Terč výzvy k dlouhému vězení a cíleně nízkému důchodu (15 000 Kč) v souvislosti s odpovědností za státní dluh | 2026-08-28 | [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) |
+| Markéta Pekarová Adamová | ❌ negativní | Nová přezdívka „kosočtverec bez čárky" nahrazující dřívější vulgární označení | 2026-08-28 | [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) |
+| Petr Pavel | ❌ negativní | Kritizován za použití státní vlajky při startu závodu; drahé vstupenky (5000 Kč) na veřejné setkání; opakovaná narážka na neschopnost „uživit manželku" | 2026-08-28 | [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) |
 
 ---
 
@@ -299,3 +308,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál (20. 8. 2026, kauza Peková)](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
 - [Videoportál: mikroklima solárů a větrníků (23. 8. 2026)](../_zdroje.md#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026)
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+- [Facebook Live (28. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)

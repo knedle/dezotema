@@ -502,3 +502,11 @@ Zítko nabízí vlastní, od Vrabelovy odlišnou verzi revizionistického výkla
 **Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 
 ---
+
+### Kritika Petra Pavla — vlajka, drahé vstupenky a opakovaná narážka na plat (Černohorský, 28. 8. 2026)
+
+Černohorský pokračuje v dlouhodobé kritice Petra Pavla: připomíná, že prezident při startu nějakého závodu použil státní vlajku způsobem, který srovnává s „vytíráním silnice" — v kontrastu s dřívějším pobouřením kolem jiného nedopatření se státní vlajkou. Zmiňuje, že vstupenky na veřejné setkání s prezidentem měly stát 5 000 Kč. Opakuje svou obvyklou narážku, že Pavel není schopen „uživit manželku" z prezidentského platu.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+
+---

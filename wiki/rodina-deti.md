@@ -219,3 +219,11 @@ Vrabel spojuje podporu rozpadu tradiční rodiny a LGBT+ agendy (mj. Prague Prid
 Šejna komentuje americký případ Lindsay Clancy, která podle zveřejněných informací uškrtila své tři děti (5 let, 3 roky, 8 měsíců) — sám poznamenává, že nemá přímý přístup k reálným informacím a jde o jeho názor založený na dostupných zprávách. Kritizuje reakci části veřejnosti: feministické demonstrace na její podporu (tvrzení, že za čin nemůže, včetně odkazů na horoskop), sbírku na GoFundMe (přes milion dolarů) a trend na sociálních sítích, kdy se ženy fotí s dítětem v náručí s popiskem „me too Lindsay". Tento trend označuje za „absolutní retardaci" a uzavírá, že jde o důkaz radikalizace moderního feminismu jako jedné z „nejšílenějších skupin v celé západní společnosti".
 
 **Zdroje:** [Restart Česko — Videoportál 26. 8. 2026](_zdroje.md#restart-česko--videoportál-26-8-2026)
+
+---
+
+### Pokles porodnosti jako měřítko úpadku společnosti (Černohorský, 28. 8. 2026)
+
+Černohorský staví dnešní porodnost (v průměru ~82 000 dětí ročně za poslední tři roky) do kontrastu s obdobím socialismu, kdy se běžně rodilo 120–160 tisíc dětí ročně, a to i v „nejhorších" letech po roce 1968 — z čehož usuzuje, že dnešní doba je pro zakládání rodin hůře nastavená než tehdejší totalitní režim. Za měřítko blahobytu společnosti považuje právě počet dětí, ne subjektivní tvrzení politiků, že „se máme nejlíp, jak jsme se kdy měli". Vyjadřuje znepokojení nad tím, kolik z dnešních narozených dětí tvoří děti přistěhovalců, ukrajinských uprchlíků a Romů namísto Čechů, Moravanů a Slezanů. Na modelovém příkladu běžné rodiny (otec 35 tis. čistého, matka 25 tis.) rozebírá, jak výpadek příjmu během mateřské dovolené nutí rodiny šetřit na téměř všem (kvalitě potravin, dopravě, kosmetice, telekomunikacích) kromě samotného dítěte — s odkazem na statistiku, že 13 % (1,3 mil.) lidí v ČR neušetří z výplaty ani korunu.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)

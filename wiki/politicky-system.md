@@ -978,7 +978,29 @@ V krátkém videu Adam Šejna tvrdí, že Piráti v Poslanecké sněmovně nedě
 
 Černohorský obviňuje bývalou Fialovu vládu ze systematického zadlužení státu a zdražování (mj. zvýšení DPH na potraviny z 12 na 15 %, následně vrácené na 12 %) a jmenuje jako klíčové kauzy Dozimetr, bitcoinovou kauzu a opakované falšování rozpočtu ministrem financí Zbyňkem Stanjurou. Argumentuje, že namísto navrhovaného zákazu komunistických symbolů by mělo dojít ke zrušení a soudnímu stíhání ODS, STAN, Pirátů, KDU-ČSL a TOP 09 jako stran odpovědných za tento stav. Současnou vládu Andreje Babiše naopak obhajuje v souvislosti s přehlasováním prezidentova veta rozpočtu — nutnost upravit zákony kvůli rozpočtové díře zděděné po předchozí vládě označuje za logickou, ne za vinu Babišovy vlády, a kritizuje opozici za záměr napadnout rozpočet u Ústavního soudu jako zneužití instituce, která podle něj nemá do rozpočtových otázek zasahovat.
 
-**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+**28. 8.** — Černohorský se k tématu vrací obšírněji: celkový státní dluh (blížící se 4 bilionům Kč, roční obsluha 100–140 mld. Kč) přičítá výhradně Fialově vládě — „kdo se první utrhl ze řetězu, byla právě ta Fialová vláda" — a označuje za pokrytecké, že tatáž opozice teď napadá u Ústavního soudu hospodaření vlády Babiše. Přirovnává to k domácnosti, která šetří tak, že chodí kázat úspory sousedovi místo toho, aby začala u sebe — v tomto duchu zmiňuje i příklad radních Prahy 1/2, kteří prodali 12 000 parkovacích karet na jen 9 000 skutečných míst. Vlastní dřívější vulgární označení političek nahrazuje na žádost kamarádky eufemismem „kosočtverec bez čárky" a v tomto duchu navrhuje přejmenovat Českou republiku na „banánový absurdistán" (s cedulí na hranicích i v němčině).
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026), [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+
+---
+
+### Podrobný rozbor poslaneckých platů a náhrad — „ať začnou šetřit u sebe" (Černohorský, 28. 8. 2026)
+
+V reakci na vlastní téma šetření státního rozpočtu Černohorský podrobně rozebírá příjmy poslanců: základní plat řadového poslance pro rok 2026 činí 106 433 Kč (násobeno koeficientem valorizace 1,08), k tomu přistupují paušální náhrady (na ošacení, stravné, dopravu) v řádu desítek tisíc korun měsíčně, které jsou dle něj vypláceny v čistém, bez zdanění a bez sociálního/zdravotního pojištění a bez nutnosti cokoli dokládat — poslanec tak reálně utratí jen zlomek z paušálu na dopravu a zbytek si ponechává. Celkový měsíční příjem takto dosahuje řádově 180 000–200 000+ Kč čistého, přičemž poslanci v hlavním sále Sněmovny v roce 2025 zasedali jen asi 70–75 dní. Doplňuje, že výkon poslaneckého mandátu podle ústavy (čl. 26–27) není právně „prací" ani „zaměstnáním" a nevztahuje se na něj zákoník práce ani osobní odpovědnost za hlasování — což používá jako vysvětlení, proč si poslanci mohou dovolit i pít alkohol v budově Sněmovny. Uzavírá, že pokud politici chtějí skutečně šetřit, měli by začít těmito vlastními výhodami, ne škrty u občanů.
+
+⚡ **Poznámka:** Konkrétní částky paušálních náhrad a jejich zdanění nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké je Černohorský prezentuje.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+
+---
+
+### Vlastní politická vize „Čest Svoboda Respekt" — decentralizované společenství místo politiky (Černohorský, 28. 8. 2026)
+
+Černohorský představuje svou alternativu k tradičním politickým stranám: spolek/společenství „Čest Svoboda Respekt" s vlastním rozpočtem nezávislým na státu (inspirovaným organizační strukturou KSČ), rozděleným do decentralizovaných „buněk" po celé republice, s cílem prosadit celostátní referendum. Slibuje, že případný poslanecký plat by z poloviny posílal na transparentní účet. K tomu navrhuje federativnější uspořádání ČR se zahrnutím symbolů Moravy a Slezska do státní vlajky jako reakci na „pragocentrismus". Kritizuje současný systém sběru podpisů pod peticemi (elektronické petice bez podpory známé osobnosti nebo poslance jsou dle něj k ničemu) a tvrdí, že členská základna jeho společenství (11 000+ lidí) by dokázala rychle nasbírat 10 000 podpisů potřebných k projednání petičním výborem Sněmovny.
+
+Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na sundání ukrajinské vlajky ze sochy maršála Koněva, dvoudenní shromáždění před Úřadem vlády (které mělo přispět k tomu, že vláda nepodepsala jeden ze dvou Globálních kompaktů OSN o migraci), a spolu se Zdeňkem Chytrým podíl na zablokování zákona „manželství pro všechny" a Istanbulské úmluvy — v této souvislosti opakuje odmítání adopce dětí homosexuálními páry.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 
 ---
 
