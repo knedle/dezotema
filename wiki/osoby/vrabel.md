@@ -823,6 +823,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 11)
 - **26. 8.** — Kosovo/Donbas/Krym — teze „historického práva" na území rozšířená ze včerejšího Kosova — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+- **26. 8. (dovětek)** — Šéf CIA Ratcliffe v Moskvě — spekulace, že Rusko předem varuje USA před akcí proti „koalici ochotných" — [Facebook Live, dovětek 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026)
 
 ### [Rodina a děti](../rodina-deti.md) (pokrač. 2)
 - **26. 8.** — Trumpův zákaz genderové výuky na školách jako výjimka v jinak „katastrofální" politice — [Facebook Live 26. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
@@ -1343,3 +1344,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět (24. 8. 2026)](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-8-2026)
 - [Facebook Live (25. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
 - [Facebook Live (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+- [Facebook Live, dovětek (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026)

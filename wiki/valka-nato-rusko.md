@@ -1042,3 +1042,11 @@ V souvislosti se zprávou o výroku Dmitrije Medveděva (dvojí metr Západu —
 **26. 8.** — Vrabel rozvíjí obecnou tezi „historického práva" na území: namísto mezinárodněprávních konceptů (územní celistvost, sebeurčení) navrhuje kritérium, kdo na daném území dlouhodobě žije, hospodaří a buduje stát. Aplikuje ji na tři případy současně — Kosovo a Metochie historicky patří Srbům (Albánci tam přišli jako pozdější přistěhovalci), Donbas a Krym patří Rusům (jako historicky rusky osídlené oblasti), zatímco zbytek dnešní Ukrajiny (vzniklé až 1991) má právo na vlastní stát jen tam, kde se místní obyvatelstvo samo hlásí k ukrajinské identitě. Očekává, že v důsledku podobných sporů dojde k celkovému „přerozdělování světa" a kreslení nových map.
 
 **Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026), [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+
+---
+
+### Šéf CIA Ratcliffe v Moskvě — spekulace: Rusko předem varuje USA před akcí proti „koalici ochotných" (Vrabel, dovětek, 26. 8. 2026)
+
+V krátkém dovětku k hlavnímu vysílání Vrabel rozvádí vlastní spekulaci k tajné návštěvě šéfa CIA Johna Ratcliffa v Moskvě (oficiální verze Trumpa i Peskova: „rutinní jednání tajných služeb"). Argumentuje, že o Ukrajině dlouhodobě jednají Witkoff s Kushnerem, takže cesta šéfa CIA musí souviset s něčím větším — buď s Íránem, nebo s novým ruským krokem vůči Evropě. Nabízí scénář: rusko-americká diplomacie posledních měsíců naznačuje snahu vyhnout se vzájemnému konfliktu, takže pokud by Rusko plánovalo vojenskou akci nejen proti Ukrajině, ale i proti některé zemi z „koalice ochotných", dávalo by smysl, že by o tom předem informovalo Washington — aby se USA do případného konfliktu nezapojily. Podle Vrabela je Rusko připraveno na konflikt s Evropou, ale rozhodně nechce válku se Spojenými státy. Zdůrazňuje, že jde o čistou spekulaci bez potvrzení, kterou zapomněl zmínit v hlavním vysílání.
+
+**Zdroje:** [Vrabel — Facebook Live, dovětek 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026)
