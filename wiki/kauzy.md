@@ -800,6 +800,16 @@ Ke stejné kauze se váže výrok Danuše Nerudové, že se Filip Turek „ráno
 
 ---
 
+## Kauza „parazité" na ministerstvu životního prostředí
+
+### Turek obhajuje výrok o „parazitech" — konkrétní úředníci fakturovali za práci proti státu (Filip Turek, sdílené video, 27. 8. 2026)
+
+Filip Turek (dříve vládní zmocněnec, poslanec, čestný prezident Motoristů — strany vedoucí ministerstvo životního prostředí) reaguje na mediální kritiku svého dřívějšího výroku (leden/únor 2026), kdy měl označit úředníky za „parazity". Tvrdí, že nešlo o plošné označení všech státních úředníků, ale o konkrétní jmenovitě zmíněné osoby — a že tato jména se následně objevila v kauze, která ukázala, že fakturovali státu za žalování státu, za práci proti zadání ministerstev, za neúměrně vysoké částky i za běžných podmínek, a že si mezi sebou domlouvali zakázky. Vyjadřuje očekávání (bez oficiálního potvrzení z jakékoli pozice), že věc povede k trestním oznámením, a trvá na tom, že jeho původní tvrzení bylo v těchto konkrétních případech potvrzeno.
+
+**Zdroje:** [Restart Česko — Videoportál, 27. 8. 2026](_zdroje.md#restart-česko--videoportál-27-8-2026)
+
+---
+
 ## Bára Štěpánková — starší výrok o fotkách politiků s dětmi
 
 ### Připomínka výroku z roku 2017 jako pokrytectví (Šejna, 31. 7. 2026)

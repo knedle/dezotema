@@ -4301,3 +4301,10 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1599768461657620>
 - **Datum záznamu:** 2026-08-27
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (27. 8. 2026) {#restart-česko--videoportál-27-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-27_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (sdílené video Filipa Turka)
+- **URL:** <https://www.facebook.com/61586055215179/videos/2274008470109740>
+- **Datum záznamu:** 2026-08-27
+- **Zpracováno:** ano
