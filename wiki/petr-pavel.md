@@ -483,7 +483,9 @@ Zítko nabízí vlastní, od Vrabelovy odlišnou verzi revizionistického výkla
 
 ⚡ **Poznámka:** Tvrzení o hlasování v sovětském vedení, o rozhodnutích Soudního dvora EU a slovenského soudu ve věci „Harabin" a o citovaných „článcích 106 a 107" nelze ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+**28. 8.** — Zítko opakuje tvrzení o článcích „106 a 107" Charty OSN (opravňujících Rusko jako nástupnický stát SSSR zasáhnout proti fašismu kdekoli bez souhlasu ostatních mocností) beze změny v souvislosti se svou tezí o blížícím se přitvrzení ruské zahraniční politiky.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026), [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
 
 ---
 

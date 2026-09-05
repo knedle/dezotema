@@ -71,6 +71,12 @@ Na příkladu solivarů Prešov (článek z r. 2016) Zítko líčí privatizaci 
 
 **Zdroje:** [ČsTV2 — Sůl nad zlato: Solivary a ČT, 8. 6. 2026](_zdroje.md#československo-tv2--sůl-nad-zlato-8-6-2026)
 
+**28. 8.** — Zítko rozšiřuje tezi o řízené likvidaci na bankovní sektor: české banky byly v 90. letech nejprve sanovány z veřejných peněz (uvádí IPB a Ekoagrobanku jako příklady bank zachraňovaných státem), a jakmile byly „vyčištěné", prodány zahraničním vlastníkům — Česká spořitelna rakouské Erste, Komerční banka francouzské skupině, ČSOB belgické KBC, UniCredit italským vlastníkům. Odhaduje, že tímto mechanismem (zisky bank odcházející mimo ČR) ročně mizí ze země přibližně 1 bilion Kč. Doplňuje jmenovitý seznam dalších postav 90. let spojených s privatizačním rozkrádáním — Saša Novák (Chomutov), Patrik Oulický (Ústí nad Labem), Marek Dalík a Aleš Zbíček.
+
+⚡ **Poznámka:** Konkrétní odhad „1 bilion Kč ročně" a jmenovité role uvedených osob nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
+
 ---
 
 ### Deutschland, Čechland nebo Československo? — SdL sjezd jako důkaz záměny pojmů (26. 5. 2026)
@@ -100,6 +106,10 @@ Ve vysílání 20. 5. 2026 Zítko tuto teorii rozvedl o nové detaily:
 Ve vysílání z 26. 5. 2026 Zítko přidal klíčový „důkaz" korporátní povahy ČR a SR: obě jsou prý registrovány u americké Komise pro cenné papíry (SEC) jako soukromé obchodní korporace — Česká republika pod číslem CIK 0000914593, Slovenská republika pod číslem CIK 000091010103. Z toho vyvozuje, že nemohou být suverénními právními státy.
 
 **Zdroje:** [ČsTV2 — Bitcoin: Tejc, Šilerová a ČS teorie, 2026-04-20](_zdroje.md#pavel-zítko--bitcoin-tejc-šilerová-a-čs-teorie-19-4-2026-zveřejněno-20-4), [ČsTV2 — Videoportál 20. 5. 2026](_zdroje.md#československo-tv2--videoportál-20-5-2026), [ČsTV2 — Deutschland, Čechland, nebo Československo? (26. 5. 2026)](_zdroje.md#československo-tv2--deutschland-čechland-nebo-československo-26-5-2026)
+
+**28. 8.** — K 34. výročí dohody ve Vile Tugendhat Zítko přehrává a komentuje dobový cca 13minutový kompilát televizních záběrů z roku 1992, v němž prakticky všichni tehdejší klíčoví politici (Klaus, Mečiar, Havel, Dubček, Zeman, zástupci ODS i HZDS) opakovaně veřejně slibují, že o rozdělení Československa rozhodne referendum — které nakonec nikdy neproběhlo. Zdůrazňuje, že ani ODS, ani HZDS neměly rozdělení státu ve volebním programu voleb z června 1992 (jediný, kdo ho měl, byl Ján Slota s necelými 10 % hlasů na Slovensku) a že podle průzkumu z listopadu 1992 chtělo referendum přes 80 % Slováků. Nově explicitně propojuje neplatnost rozdělení ČSFR s covidovou agendou (od 12. 3. 2020) do jednoho uceleného shrnutí a požaduje zřízení vojenského tribunálu, který by soudil „korporace Čechia a Slovakia" jak za privatizační rozkrádání, tak za „genocidu národa a sterilizaci" prostřednictvím covidových opatření a vakcín — obojí staví na stejné právní konstrukci (neplatnost/nelegitimita poválečného a porevolučního uspořádání).
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
 
 ---
 
@@ -137,6 +147,22 @@ Zítko ve vysílání z 29. dubna 2026 přijal teorii suverénního občana (sov
 Tato teorie navazuje na Zítkův dřívější výklad, že Vatikán, City of London a Washington DC jsou skutečná mocenská centra světa, zatímco volby a demokratické vlády jsou pouhá „loutková divadla."
 
 **Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)
+
+**28. 8.** — Zítko rozšiřuje teorii suverénního občana o tvrzení, že nejen soudy a exekutoři, ale i policie, Úřad vlády, jednotlivá ministerstva a Kancelář prezidenta jsou fakticky „soukromé firmy" evidované mezinárodním obchodním identifikačním číslem (UPIK/DUNS) — jediné skutečně platné právo má být mezinárodní obchodní právo (odkazuje na ustanovení „UCC 1-308"). Dodává, že český státní znak byl od roku 2006 „ztracen". K rodnému listu jako obchodovatelnému cennému papíru nově upřesňuje, že jde o majetek Vatikánu obchodovaný na burze NASDAQ (v dřívějších verzích uváděl newyorskou burzu) — otisk chodidla novorozence v porodnici interpretuje jako akt, kterým dochází ke zcizení identity dítěte do tohoto systému.
+
+⚡ **Poznámka:** Tvrzení o UPIK/DUNS číslech státních institucí, „ztraceném" státním znaku a obchodování rodných listů na NASDAQ nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
+
+---
+
+### Guterres měl v roce 2023 zpochybnit suverenitu ČR (Zítko, 28. 8. 2026)
+
+Zítko tvrdí, že generální tajemník OSN António Guterres měl v roce 2023 prohlásit, že Česká republika není suverénním ani právním státem — analogicky k tvrzení, že Ukrajina je právně stále součástí Sovětského svazu. Prezentuje to jako externí potvrzení své vlastní teorie o neplatnosti vzniku ČR jako nástupnického státu.
+
+⚡ **Poznámka:** Citovaný výrok Guterrese nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
 
 ---
 

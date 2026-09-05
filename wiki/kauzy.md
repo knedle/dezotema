@@ -964,7 +964,11 @@ Zítko na základě fotografií z polského lázeňského střediska Karpacz tvr
 
 **15. 8.** — Zítko opakuje totéž tvrzení beze změny, doplňuje jen dohledaný čtyři roky starý komentář Decroix k Havránkovi jako „domnělý první náznak" a opakuje srovnání trestů Rát vs. Blažek.
 
-**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026), [Československo TV2 — Videoportál 15. 8. 2026](_zdroje.md#československo-tv2--videoportál-15-8-2026)
+**28. 8.** — K rekapitulaci bitcoinové kauzy (opakování dřívějších čísel a jmen beze změny — Jiříkovský, Blažek, Daňhel, Tic, vrácení 46 počítačů) Zítko přidává novou spekulaci: bývalý poradce prezidenta Miloše Zemana Martin Nejedlý měl mít v srpnu 2023 obchodní vztah s advokátem Karimem Ticem (Jiříkovského obhájcem) — spekuluje, že Pavel Blažek se v té době skrýval v hospodě, kde náhodou probíhala Nejedlého oslava.
+
+⚡ **Poznámka:** Propojení Martina Nejedlého s kauzou je nepodložená spekulace bez uvedených důkazů.
+
+**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026), [Československo TV2 — Videoportál 15. 8. 2026](_zdroje.md#československo-tv2--videoportál-15-8-2026), [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
 
 ---
 
