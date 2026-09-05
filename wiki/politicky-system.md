@@ -987,3 +987,11 @@ V krátkém videu Adam Šejna tvrdí, že Piráti v Poslanecké sněmovně nedě
 Ministerstvo práce a sociálních věcí připravuje od ledna 2027 snížení podpory v nezaměstnanosti — v prvních měsících z letošních 80 % zpět na 65 % výdělku, maximální podpora klesne z 80 % na 60 % průměrné mzdy (úspora cca 4,5 mld. Kč ročně); návrh kritizují odbory i zaměstnavatelé. Vrabel — ač se sám nepovažuje za zastánce silné sociální politiky — vyjadřuje podiv, že když se najdou peníze na zbraně pro Ukrajinu a příspěvky ukrajinským uprchlíkům, nenajdou se na podporu vlastních nezaměstnaných občanů; ironicky doplňuje, že řešením podle vlády může být práce ve zbrojovkách v Německu (nabízeny až 100 000 EUR/rok i pro nezkušené).
 
 **Zdroje:** [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+---
+
+### Srovnání Masarykovy republiky s dnešním stavem svobody slova (Šejna, 28. 8. 2026)
+
+Šejna vychází z Masarykova prvního prezidentského projevu (citujícího Komenského) a připomíná, že republika nebyla darem, ale výsledkem boje a obětí — měla stát na svobodném občanovi, demokracii, odpovědnosti a pravdě, se státem sloužícím občanovi. Klade otázku, jak se společnost od tohoto ideálu dostala k dnešnímu stavu, kdy se lidé znovu bojí říkat nahlas některé názory, svoboda slova je oslavována jen do chvíle, než někdo řekne něco nepohodlné, a stát i evropské instituce stále hlouběji zasahují do každodenního života občana — vždy s odůvodněním, že je to „pro jeho dobro". Popisuje současný vztah občan–stát jako obrácený: z odpovědného občana se stává někdo, komu politici vysvětlují, co si má myslet, jak žít a co obětovat ve jménu jejich představ o lepším světě.
+
+**Zdroje:** [Restart Česko — Videoportál 28. 8. 2026](_zdroje.md#restart-česko--videoportál-28-8-2026)

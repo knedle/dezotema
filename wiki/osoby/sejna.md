@@ -14,6 +14,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Piráti a regulace Airbnb v Praze jako „komunistický" zásah do vlastnictví — [19. 8.](../_zdroje.md#restart-česko--videoportál-19-8-2026)
 - TOP 09 a státní pozemky pro levnější bydlení — bydlení je odpovědnost jednotlivce, řešením je zrychlení povolování pro developery — [21. 8.](../_zdroje.md#restart-česko--videoportál-top-09-a-státní-pozemky-21-8-2026)
 - Piráti ve Sněmovně jako „jedno velké divadlo" — rekvizity, fotky pro sociální sítě — [26. 8.](../_zdroje.md#restart-česko--videoportál-26-8-2026-1)
+- Srovnání Masarykovy republiky s dnešním stavem svobody slova a zasahováním státu/EU do života občana — [28. 8.](../_zdroje.md#restart-česko--videoportál-28-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
