@@ -369,7 +369,9 @@ Zítko popisuje, jak Facebook podle něj kriminálně manipuluje jeho dosah. Rok
 
 > „Co Facebook umí, umí kouzlit s čísly sledujících." — Pavel Zítko, [Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
 
-**Zdroje:** [ČsTV2 — Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+**29. 8.** — Zítko dokládá rozdíl mezi originálem a klonem novými čísly: originální profil „Pavel Zítko" má 2800 sledujících a 2900 příspěvků, zatímco padělaný kanál se stejným jménem a fotkou jen 368 sledujících a 88 příspěvků. Dále upozorňuje na nesrovnalost ve statistikách sdílení — dopolední vysílání (11:11) mělo za 24 hodin 303 sdílení, zatímco večerní vysílání ve „výhodnějším" čase (20:30 ve všední den) jen 23 sdílení — což považuje za další důkaz, že Facebook čísla u jeho vysílání účelově potlačuje.
+
+**Zdroje:** [ČsTV2 — Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026), [ČsTV2 — Videoportál 29. 8. 2026](_zdroje.md#československo-tv2--videoportál-29-8-2026)
 
 ---
 

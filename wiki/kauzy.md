@@ -990,7 +990,9 @@ Zítko na základě fotografií z polského lázeňského střediska Karpacz tvr
 
 Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) veřejně obvinil Zítka, že je „fízl" a že stojí za uvězněním Čermáka na základě policejní provokace z listopadu (výslech, při kterém policie o Čermákovi nic nezmínila). Zítko obvinění odmítá a v reakci předkládá vlastní teorii, že záznam Čermákova zadržení na polsko-české hranici je zfalšovaný — záběry osoby v policejní vestě nikdy nezachytily obličej zepředu, postava i chůze podle něj neodpovídají Čermákovi a osoby na videu viditelně čekají na pokyn kameramana, než se rozejdou. Uzavírá, že o Tušlovi coby obhájci přestal mít zájem poté, co Jindřich Rajchl veřejně oznámil, že bude Tušla zastupovat on.
 
-**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026)
+**29. 8.** — Zítko rozšiřuje teorii o dalších nesrovnalostech: Čermák prý nereaguje na dopisy s otázkami, na které mohli znát odpověď jen oni dva, návštěva u něj ve věznici v Liberci není možná a v televizním vysílání o něm byl místo něj údajně pouštěn jen „hologram". Z toho usuzuje, že Čermák možná není reálně ve výkonu trestu.
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 29. 8. 2026](_zdroje.md#československo-tv2--videoportál-29-8-2026)
 
 ---
 

@@ -72,6 +72,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **21. 8.** — rekapitulace tří trestních oznámení (genocida/vakcinační holokaust, Fiala za přípravu útočné války, bitcoinová kauza) + hypotetický scénář veřejné debaty proti „covidové sestavě" — [Videoportál 21. 8.](../_zdroje.md#československo-tv2--videoportál-21-8-2026)
 - **25. 8.** — jmenuje čtyři osoby stíhané za „šíření poplašné zprávy" ke covidu (Volný, Petéková, Křížová, Zítko sám) a samostatný případ Tomáše Čermáka (5,5 roku za „terorismus"); rozšiřuje obvinění Fialy z „přípravy útočné války" o paralelu s cvičením NATO „Černý lev" před invazí 1968; kritizuje výběr témat a panelistů na vlasteneckém setkání v Příčovech (Stoniš, Cyril Svoboda, Žantovský) — [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026)
 - **26.–27. 8.** — trestní oznámení (7. 8., doplněné 26. 8.) na organizovanou skupinu za chemtrails a sítě 5G/6G/7G jako nástroj vyvolávající symptomy COVID-19 v rámci genocidy/sterilizace; žádá předběžné opatření k zastavení očkování a nezávislou laboratorní analýzu vakcín — [Videoportál 27. 8.](../_zdroje.md#československo-tv2--videoportál-27-8-2026)
+- **29. 8.** — rozšiřuje teorii o zfalšovaném zatčení Tomáše Čermáka o spekulaci, že reálně nemusí být ve výkonu trestu (nereaguje na dopisy, nelze ho navštívit, TV prý vysílala jen „hologram") — [kauzy.md](../kauzy.md#spor-se-advokátem-patrikem-tušlem--teorie-o-zfalšovaném-zatýkacím-videu-tomáše-čermáka-zítko-7-8-2026) — [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
+- **29. 8.** — opakuje beze změny bitcoinovou kauzu (100+ mld., nečinnost NCOZ/Vrchního SZ Olomouc přes rok a čtvrt) — [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -83,6 +85,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **15. 7.** — nízká divácká aktivita v nominacích (Kocijánová: 9 příspěvků); nová souběžná anketa Křišťálová lupa (Cena Českého internetu) — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
 - **16. 7.** — průběžné výsledky hlasování (Xaver Veselý 138, Klaus 75, Janeček 25, Škopková 15; Kocijánová 12 komentářů); kritika, že žádný porotce nenominoval skutečně pronásledované kritiky covidu — [Videoportál 16. 7.](../_zdroje.md#československo-tv2--videoportál-16-7-2026)
 - **20. 7.** — doplňuje další nominace (Dan Vávra, dosud nerozhodnutí Kocijánová/Petrov/Kajzer/Kulidakis); vyzývá k účasti v anketě Křišťálová lupa (kategorie online video, zpravodajství, influencer) — [Videoportál: výročí měsíčního podvodu 20. 7.](../_zdroje.md#pavel-zítko--videoportál-výročí-měsíčního-podvodu-20-7-2026)
+- **29. 8.** — Kocijánová zveřejnila vlastní pětici nominovaných (Robejšek, Bohuš, Šnajder, Žantovský, Jakl), z níž ani jeden neodpovídá jménům, která jí radili diváci (mj. Zítko, Čermák, Peková) — prezentuje to jako důkaz, že šlo jen o „divadlo pro lidi" — [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - COVID rozsudky: Peková (4 případy za šíření poplašné zprávy), Čermák (terorismus), Popelka, Křivka (Z tričko) — označuje je za politicky motivované; interpelace Majerové-Tejce; Tejc slíbil změnu trestního zákoníku do konce dubna 2026 — Zítko hodnotí jako prázdné sliby — [Interpelace Majerová-Tejc 23. 4.](../_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
@@ -95,6 +98,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **1. 8.** — výsledek: krajský soud věc vrátil zpět okresnímu soudu v Chomutově (druhá z předjímaných variant) — [Videoportál 1. 8.](../_zdroje.md#československo-tv2--videoportál-1-8-2026)
 - **17. 8.** — detailní rozbor usnesení krajského soudu (7 bodů pochybení okresního soudu); tvrzení o zničených petičních arších z prezidentské kandidatury 2022 — [Videoportál 17. 8.](../_zdroje.md#československo-tv2--videoportál-17-8-2026)
 - **6. 8.** — k témuž rozhodnutí dodává, že písemné usnesení (22 stran, 51 bodů) má konstatovat neizolaci SARS-CoV-2; upozorňuje na falešné profily zneužívající jeho identitu — [Videoportál 6. 8.](../_zdroje.md#československo-tv2--videoportál-6-8-2026)
+- **29. 8.** — opakuje beze změny tvrzení o rozhodnutí krajského soudu (30. 7.), že SARS-CoV-2 nebyl izolován — [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Přistání na Měsíci jako podvod, Artemis jako pokračování; CIA umlčela Kubricka; QAnon: klony/herci/EBS/Guantanamo; Save the Children / adrenochrom; Quantum Financial System; MedBeds; plochá Země (Gleasonova mapa); Trump=herec (170 cm vs. 190 cm), Biden dvě výšky; EBS = reprízování událostí, které se již odehrály — [Večerník 2. dubna](../_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
@@ -146,6 +150,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - Füllmich přenos — Bytel TV: 22 zrušených YouTube kanálů + 4 zablokované účty, čl. 17 Listiny, „pravda je jako voda" — [Füllmich živě z vězení 12. 6.](../_zdroje.md#československo-tv2--füllmich-živě-z-vězení-12-6-2026)
 - FB blok — Facebook zablokoval živé vysílání na 3 kanálech („kyberšikana" za fotku z UFC Freedom 250 s Trumpem), odvysíláno jako záznam; rozbor „jak bys řešil covid" (Fierst vs. Hořejší) + výzva k tribunálu Norimberg 2.0 — [UFC Freedom 250 naplněno 15. 6.](../_zdroje.md#československo-tv2--ufc-freedom-250-naplněno-15-6-2026)
 - **21. 6.** — FB „falešný klon" kanálu s ukradenou identitou + manipulace čísel sledujících (originál 1000 za 3 dny → klon „dorovnán", živé sledování uměle sníženo na 50 při 1300–1400 zobrazeních), blokace pozvánky a měsíční blok vysílání = „kriminální" cenzura — [Slunovrat 11:11 21. 6.](../_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+- **29. 8.** — nová čísla k témuž tématu: originál 2800 sledujících/2900 příspěvků vs. klon 368 sledujících/88 příspěvků; dopolední vysílání mělo 303 sdílení za 24h oproti 23 sdílením večerního vysílání ve „výhodnějším" čase — další „důkaz" manipulace čísel — [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
 - **24. 6.** — otevřený dopis TV NOVA (red. Klárová) a Seznamu (Ciroková) s výzvou referovat o covidu/knize pravdivě; ČT každý den porušuje zákon (Dvořák/Souček/Chudárek „přes 300 tis."), poplatky vrátit od 12. 3. 2020 — [Křest knihy 24. 6.](../_zdroje.md#jana-peterková--křest-knihy-já-dezinformátorka-24-6-2026)
 - **16. 7. (Pfizergate 11:11)** — ČT placená nejen solárníky, ale i farma a zbrojaři (článek Kiršner, Paukner); „největší kšeft je válka a zdraví", ČT prý porušuje zákon od 12. 3. 2020 — [Pfizergate a Uršula 11:11, 16. 7.](../_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
 - **29. 7.** — vzpomínka na hnutí „Srdcem pro vlast" (2020) a infiltraci nasazenou „trojkou" (Aleš Trčka, Antonín Šlajch, Jan Semper, Patrik Kořenář); opakuje beze změny hon na Thomase Pauknera („všichni jsme Paukner") — [Videoportál 29. 7.](../_zdroje.md#československo-tv2--videoportál-29-7-2026)
@@ -272,6 +277,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Petr Fiala | ❌ negativní | Tvrzení, že se „přiznal" k dodávkám zbraní Ukrajině před 24. únorem 2022 — obviněn z přípravy útočné války (§406–407) | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026) |
 | Marek Stoniš | ❌ negativní | Šéfredaktor deníku T.O. a porotce ankety o svobodě projevu — kritizován za vyhození redaktora Pavla Cimbála a za nominaci Cyrila Svobody | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026) |
 | Cyril Svoboda | ❌ negativní | Nominován v anketě jako „největší hrdina svobody projevu" — Zítko to odmítá jako výsměch s ohledem na jeho roli v tvorbě ústavy | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026) |
+| Martina Kocijánová | ❌ negativní | Porotkyně ankety o svobodě projevu — vyzvala diváky k tipům, ale nominovala pětici jmen, která se v komentářích vůbec neobjevila | 2026-08-29 | [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026) |
+| Tomáš Čermák | ⚖️ rozporuplný | Spolupracovník/kamarád, u jehož uvěznění Zítko nově spekuluje, že reálně nemusí být ve výkonu trestu | 2026-08-29 | [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026) |
 
 ---
 
@@ -350,3 +357,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál (27. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-27-8-2026)
 - [Videoportál (28. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-28-8-2026)
 - [Videoportál (28. 8. 2026, 2)](../_zdroje.md#československo-tv2--videoportál-28-8-2026-2)
+- [Videoportál (29. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-29-8-2026)

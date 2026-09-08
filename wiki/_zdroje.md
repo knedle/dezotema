@@ -4378,3 +4378,10 @@
 - **URL:** <https://www.facebook.com/100085862388850/videos/2112863869330979>
 - **Datum záznamu:** 2026-08-29
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (29. 8. 2026) {#československo-tv2--videoportál-29-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-29_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2 (Pavel Zítko)
+- **URL:** <https://m.facebook.com/watch/?v=1378481577749298&_rdr>
+- **Datum záznamu:** 2026-08-29
+- **Zpracováno:** ano
