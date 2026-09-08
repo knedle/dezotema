@@ -60,6 +60,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 ### [Migrace a islamizace](../migrace.md)
 
 - Demografická náhrada jako nevyhnutelná i v „nejlepším scénáři" (občanství, porodnost); rada mladým mužům — [6. 8.](../_zdroje.md#restart-česko--videoportál-6-8-2026)
+- **1. 9.** — krátké video „proč migrace v Evropě nefunguje" — násilí, okrádání, zneužívání dávek (Německo, Británie, Francie) — [1. 9.](../_zdroje.md#restart-česko--videoportál-1-9-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
 

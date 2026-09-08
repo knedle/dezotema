@@ -4449,6 +4449,13 @@
 - **Datum záznamu:** 2026-09-01
 - **Zpracováno:** ano
 
+## Restart Česko — Videoportál (1. 9. 2026) {#restart-česko--videoportál-1-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-01_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1783116323031245>
+- **Datum záznamu:** 2026-09-01
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (2. 9. 2026) {#jindřich-rajchl--videoportál-2-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-02_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

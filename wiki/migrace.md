@@ -597,7 +597,9 @@ Vrabelovým hostem byla slovenská mezinárodní komentátorka Michala Gánovsk�
 
 Šejna argumentuje, že negativní dopady migrace v EU jsou nevyhnutelné i v hypoteticky nejlepším scénáři: kdyby ve všech členských státech zvítězily patriotické strany, uzavřely hranice a deportovaly všechny nelegální migranty, stále by zůstala velká skupina lidí, kteří už mezitím získali občanství (podle něj i „vyžebrané" bez skutečného nároku) — ty už deportovat nelze. Tuto skupinu navíc podle něj bude nadále rychle rozšiřovat vyšší porodnost muslimských a jiných přistěhovaleckých komunit ve srovnání s původním obyvatelstvem, zatímco náprava „protirodinné propagandy" mezi mladými Evropany může trvat desítky let. Nadcházející volby do Evropského parlamentu označuje za poslední příležitost tento vývoj zvrátit. Mladým mužům radí dva způsoby osobní ochrany proti migrantským útokům: vydělat dostatek peněz na právníky pro případnou obhajobu při použití sebeobrany a fyzicky zesílit, aby útočníky odradili už svým vzhledem.
 
-**Zdroje:** [Restart Česko — Videoportál 6. 8. 2026](_zdroje.md#restart-česko--videoportál-6-8-2026)
+**1. 9.** — V krátkém shrnujícím videu Šejna opakuje tutéž tezi ve zhuštěné podobě: nekontrolovaná migrace vede k násilí (včetně znásilňování), okrádání, zneužívání sociálních dávek a celkovému úpadku života — jako důkaz odkazuje na současnou situaci v Německu, Británii a Francii. Uzavírá, že bez možnosti předem zjistit, kdo z příchozích se dopustí trestné činnosti, nelze čekat, „až se něco stane", a je nutné migraci kontrolovat předem.
+
+**Zdroje:** [Restart Česko — Videoportál 6. 8. 2026](_zdroje.md#restart-česko--videoportál-6-8-2026), [Restart Česko — Videoportál 1. 9. 2026](_zdroje.md#restart-česko--videoportál-1-9-2026)
 
 ---
 
