@@ -44,6 +44,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
+- **2. 9.** — výzva, aby se ČR připojila k polskému požadavku (prezident Nawrocki) na válečné reparace od Německa (Polsko 1,5 bil. eur); kritika médií za mlčení k 87. výročí napadení Polska — [Videoportál 2. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026) → [benesovy-dekrety.md](../benesovy-dekrety.md#brněnský-pochod-smíření-nelze-vynutit-válečné-reparace-jako-podmínka--rajchl-24-5-2026)
 - EU jako nové Rak.-Uh. (70 % zákonů = transpozice); emisní spekulanti; Southport jako varování; DSA ovlivnil volby v 8 zemích — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
 - Íránská krize → nutnost obnovení ruské ropy; Pavel nevysílán na NATO summit — [Facebook Live 5. dubna: energetika, Orbán, Minář (5. 4. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-5-dubna-energetika-orbán-minář-5-4-2026)
 - Česká kupní síla 1/3 německé při stejných cenách = ekonomická kolonizace — [Ekonomická kolonizace ČR — mzdová nerovnost v EU (9. 4. 2026)](../_zdroje.md#jindřich-rajchl--trojnásobně-nižší-mzdy-v-čr-ekonomická-kolonizace-eu-9-4-2026)
@@ -357,6 +358,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Eva Decroix | ❌ negativní | Rozšíření kauzy Uhlíř — najala ho, pak jeho hotovou zprávu odmítla proplatit s odůvodněním duplicity auditu; Rajchl žádá její osobní finanční odpovědnost | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
 | Petr Pavel | ❌ negativní | Rozhovor na CNN Prima News — návrh na snížení počtu nemocnic a přístrojů označen za „tragikomedii" odtrženou od reality | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
 | John Ratcliffe | ○ neutrální | Ředitel CIA — jeho návštěva Moskvy interpretována jako vyjednávání mírových podmínek pro Ukrajinu | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
+| Karol Nawrocki | ✅ pozitivní | Vzor: znovu vznesl požadavek na plnou úhradu válečných reparací od Německa (1,5 bil. eur) — Rajchl vyzývá ČR, aby se připojila | 2026-09-02 | [Videoportál 2. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026) |
 
 ---
 
@@ -460,3 +462,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Facebook Live (26. 7. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 - [Videoportál: expert na extremismus (27. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026)
 - [Facebook Live (30. 8. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
+- [Videoportál (2. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026)

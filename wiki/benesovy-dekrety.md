@@ -175,7 +175,9 @@ Podmínku jakéhokoli smíření formuloval jednoznačně: Německo musí nejprv
 
 > „Smíření a odpuštění od nás, kterým jste ublížili, tak začněte tím, že nám zaplatíte škody, které jste tady způsobili." — Jindřich Rajchl, [Brněnský pochod — projev (24. 5. 2026)](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
 
-**Zdroje:** [Rajchl — Brněnský pochod, projev, 24. 5. 2026](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026)
+**2. 9.** — Rajchl reaguje na vzpomínkovou akci k 87. výročí zahájení 2. světové války (1. 9. 1939), na které polský prezident Karol Nawrocki znovu vznesl požadavek na plnou úhradu válečných reparací od Německa — Polsko si škody vyčíslilo na 1,5 bilionu eur (cca 30 bilionů Kč). Rajchl kritizuje česká média za „ohlušující ticho" k výročí i k polskému požadavku a vyzývá, aby se ČR k polskému nároku bez váhání připojila — společný postup považuje za cestu k větší šanci na úspěch. Odhaduje, že i nižší česká částka reparací by pokryla minimálně 7 let státního rozpočtu, a navrhuje využít je na investice do rozvoje země.
+
+**Zdroje:** [Rajchl — Brněnský pochod, projev, 24. 5. 2026](_zdroje.md#jindřich-rajchl--brněnský-pochod-projev-24-5-2026), [Rajchl — Videoportál 2. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-2-9-2026)
 
 ---
 
