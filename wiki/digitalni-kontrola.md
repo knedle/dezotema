@@ -67,7 +67,9 @@ V reakci na schválení pozice Evropského parlamentu k digitálnímu euru (výb
 
 Rajchl kritizuje schválenou unijní regulaci Chat Control, která podle něj umožňuje číst i nedokončené, nikdy neodeslané zprávy rozepsané v aplikacích jako Messenger nebo WhatsApp a z jejich obsahu vyvozovat trestní řízení. Ptá se, kdo má zájem na tom, takto občany „šmírovat". Propojuje to s tezí o postupném rušení fyzických peněz: placení hodinkami, telefonem nebo kartou je záměrně prosazováno, protože každá taková platba je sledovatelná — stát díky ní ví, kam člověk jezdí, kde a kolik tankuje, co kupuje a jaké má životní návyky. Strana PRO proto chce zakotvit právo platit hotovostí a českou korunou přímo do Ústavy.
 
-**Zdroje:** [Rajchl — Videoportál 14. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-14-8-2026)
+**30. 8.** — Rajchl doplňuje, že vedle práva platit hotovostí chce PRO do Ústavy zakotvit i obecnější „právo žít offline" — a vysvětluje, proč k tomu nutně potřebuje senátní křesla: bez souhlasu Senátu nelze Ústavu měnit vůbec, ať se jakkoli mluví o zbytečnosti této komory. Jako další příklady ústavních změn, které bez Senátu nejsou možné, uvádí definici manželství jako svazku muže a ženy a ústavní ukotvení dvou pohlaví (vzor Slovenska) — v kampani před komunálními a senátními volbami 2026 na to váže podporu vlastních senátních kandidátů (Milan Loprajs, Jan Skalický, Hynek Beran, Josef Šorm).
+
+**Zdroje:** [Rajchl — Videoportál 14. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-14-8-2026), [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
 
 ---
 

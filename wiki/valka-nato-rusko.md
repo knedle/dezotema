@@ -1059,6 +1059,10 @@ V krátkém dovětku k hlavnímu vysílání Vrabel rozvádí vlastní spekulaci
 
 **Zdroje:** [Vrabel — Facebook Live, dovětek 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026), [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
 
+**30. 8. (Rajchl, jiná interpretace)** — Rajchl nabízí odlišný výklad téže návštěvy: podle něj Ratcliffe (spolu se šéfem vatikánské diplomacie) vyjednával konkrétní podmínky ukončení války na Ukrajině, protože pro Trumpa je konflikt už jen „přítěží" — americké firmy mají výhodné kontrakty se Zelenským na ukrajinské nerostné bohatství a půdu, takže pokračování války nemá pro USA další hodnotu, zatímco fronta se Rusům podle Rajchla rychle láme u Sloviansku a Kramatorsku. Odhaduje podmínky dohody: Rusko získá zbytek Doněcké oblasti (silou, nebo dohodou), vrátí část Charkovské oblasti a ponechá si Luhaňskou, Chersonskou a Záporožskou oblast v současném rozsahu — výměnou za americkou žádost o pomoc s ekonomickým tlakem na Írán (přes Rusko a Čínu). Zmiňuje také, že se na Ukrajině denně konají masové protivládní protesty kvůli korupční aféře „Forrest Gump" (zasáhla i šéfa prezidentské kanceláře Kirila Budanova, zachyceného na nahrávce s výrokem, že korupci nechce potírat, ale „řídit a usměrňovat") — dohoda by tak podle něj mohla znamenat i konec Zelenského u moci. Opakuje svou dřívější tezi, že mnohem lepší dohoda (zachování autonomie Doněcka/Luhaňska v rámci Ukrajiny, plná kontrola Záporoží/Chersonu) byla na stole už v Istanbulu na jaře 2022, než ji odmítl Boris Johnson, a viní z prodloužení války (a padlých „zhruba dva miliony lidí") politiky typu Martina Dvořáka, kteří mluvili o vítězství místo jednání.
+
+**Zdroje:** [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
+
 ---
 
 ### Výbuch auta v Petrohradu zabil ruského důstojníka — teroristický útok (Vrabel, 27. 8. 2026)

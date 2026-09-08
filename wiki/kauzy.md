@@ -932,6 +932,10 @@ Ve více než dvouhodinovém videorozboru reportáží ČT (Reportéři ČT, Roz
 
 **Zdroje:** [ČsTV2 — Videoportál 5. 8. 2026](_zdroje.md#československo-tv2--videoportál-5-8-2026)
 
+**30. 8.** — Rajchl rozšiřuje roli znalce Jiřího Bergera o novou vazbu: byl to právě on, kdo v restauraci s Jiříkovským, Tycem a směnárníkem Stránským osobně domlouval podmínky směny bitcoinů, a byl to on, kdo doporučil, že zapečetěný počítač má projít přes notáře Míku (podle Rajchla Blaškova spolužáka) — přestože počítač k notáři nakonec dorazil nezapečetěný a den předtím, než notář poslal miliardu na ministerstvo spravedlnosti, měl (pravděpodobně Jiříkovský) převést přes 2 miliardy Kč na jiný účet. Rajchl zdůrazňuje, že Berger byl zároveň spolužákem i dlouholetým poradcem ministra financí Zbyňka Stanjury (2022 až do vypuknutí kauzy, firma E-Fractal s.r.o. si u ministerstva financí a jím řízené Generální finanční inspekce naúčtovala přes 10 mil. Kč) — a přesto nebyl obviněn, ačkoli u výslechu využil práva nevypovídat kvůli riziku vlastního trestního stíhání. Žádá vysvětlení, proč obžaloba míří jen na Jiříkovského, Tyce, Blažka a Daňhela, ale ne na Bergera, a spojuje to s vlastní tezí, že by to vedlo přímo ke Stanjurovi.
+
+**Zdroje:** [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
+
 ---
 
 ### Trestní oznámení na Petra Fialu za „přípravu útočné války" (Zítko, 7. 8. 2026)
@@ -974,7 +978,9 @@ Zítko na základě fotografií z polského lázeňského střediska Karpacz tvr
 
 ⚡ **Poznámka:** Propojení Martina Nejedlého s kauzou je nepodložená spekulace bez uvedených důkazů.
 
-**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026), [Československo TV2 — Videoportál 15. 8. 2026](_zdroje.md#československo-tv2--videoportál-15-8-2026), [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
+**30. 8.** — Rajchl se vrací k roli Evy Decroix jako koordinátorky kauzy, konkrétně k tomu, že najala bývalého soudce Davida Uhlíře na zpracování zprávy o postupu policie a justice (viz [Bitcoinová kauza: rekonstrukce předání elektroniky, 5. 8.](#bitcoinová-kauza-rekonstrukce-předání-elektroniky-přesný-časový-sled-zítko-5-8-2026)), ale poté jeho hotovou práci odmítla přijmout s odůvodněním, že by duplikovala interní a externí audit — Uhlíř přesto dostal zaplaceno (v přepisu neuvedena přesná částka, „400 tisíc nebo kolik"). Rajchl nekritizuje Uhlíře (dokončenou práci by si nechal zaplatit každý), ale žádá, aby takové rozhodnutí neslo osobní důsledky pro Decroix, která kontrakt uzavřela i zrušila — jako příklad obecnějšího principu hmotné a trestní odpovědnosti politiků a úředníků, které chce prosazovat: kdo jako manažer v soukromé firmě udělá chybné rozhodnutí stojící peníze, nese za ně odpovědnost, veřejná správa by podle něj měla fungovat stejně. Zmiňuje i to, že Decroix od doby, kdy se provalil její vztah s Havránkem, dlouho nebyla ve Sněmovně vidět a při televizní debatě o kauze na CNN Prima News ODS raději vyslala zástupce z Pirátů.
+
+**Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026), [Československo TV2 — Videoportál 15. 8. 2026](_zdroje.md#československo-tv2--videoportál-15-8-2026), [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026), [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
 
 ---
 

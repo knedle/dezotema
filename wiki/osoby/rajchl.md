@@ -40,6 +40,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **9. 8.** — podmínka za pokus o vraždu zápalnou lahví (Majdanňuk) jako dvojí metr justice; kritika mediálního nezájmu o bitcoinovou kauzu (opakování) — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
 - **13. 8.** — kauza Majdanňuk: doplnění srovnání s podmínkou za komentář o Zuzaně Černé a konkrétní srovnávací tresty (30/18/11 let) — [Videoportál 13. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-13-8-2026)
 - **26. 8.** — nákup 44 tanků Leopard 2A8 za 39 mld. Kč jako „pojízdné rakve"; peníze mají jít zbrojařům místo do zdravotnictví/školství/důchodů — [Videoportál 26. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-26-8-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#nákup-44-tanků-leopard-2a8-za-39-mld-kč--pojízdné-rakve-rajchl-26-8-2026)
+- **30. 8.** — znalec Jiří Berger jako opomenutá klíčová osoba bitcoinové kauzy (propojoval Jiříkovského/Tyce se směnárníkem Stránským, spolužák a poradce Zbyňka Stanjury) a rozšíření role Evy Decroix v kauze Uhlíř — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [kauzy.md](../kauzy.md#bitcoinová-kauza-rekonstrukce-předání-elektroniky-přesný-časový-sled-zítko-5-8-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
@@ -93,6 +94,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **29. 8.** — TV debata na Primě: kritika Pavlovy „paralelní zahraniční politiky" (slib L-159 Ukrajině bez konzultace); srovnání s polskou kohabitací Nawrocki/Tusk; vstup do EU 2004 jako „výhled", ne závazek — [Videoportál 29. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-29-8-2026) → [suverenita-eu.md](../suverenita-eu.md#petr-pavel-a-paralelní-zahraniční-politika--srovnání-s-polskou-kohabitací-rajchl-tv-debata-na-primě-29-8-2026)
 - **29. 8. (2)** — rozhovor s Petrem Hájkem: ČR nemá být „poslušné dítě" EU, vzor Polska/Orbána; úspora ~250 mld. Kč ve výdajích bez zvýšení daní občanům, místo toho zdanit rekordní zisky bank a zbrojařů — [Videoportál 29. 8. 2026 (2)](../_zdroje.md#jindřich-rajchl--videoportál-29-8-2026-2) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
 - **23. 8.** — odstrašení jako termín „zbrojařských lobbistů"; jaderné zbraně jako jediný reálný odstrašující prvek; ČR jako navrhovaný „most" mezi Východem a Západem (vzor Turecko/Izrael/Maďarsko) — [Facebook Live 23. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026) → [Válka na Ukrajině](../valka-ukrajina-prubeh.md#odstrašování-vede-k-válce-řešením-je-dialog-po-vzoru-startsalt--rajchl-22-8-2026)
+- **30. 8.** — vlastní interpretace návštěvy šéfa CIA Ratcliffa v Moskvě jako vyjednávání mírových podmínek pro Ukrajinu (Rusko získá Doněck, vrátí část Charkovska); korupční aféra „Forrest Gump" a protesty proti Zelenskému — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [Válka, NATO a Rusko](../valka-nato-rusko.md#šéf-cia-ratcliffe-v-moskvě--spekulace-rusko-předem-varuje-usa-před-akcí-proti-koalici-ochotných-vrabel-dovětek-26-8-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -167,6 +169,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **23. 8. (sněmovní klip)** — opakuje beze změny bilanci Fialovy vlády (Bulharsko/Polsko/Maďarsko vs. ČR) a emisní povolenky v reakci na opoziční obvinění ze zadlužování — [Videoportál 23. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-23-8-2026)
 - **24. 8.** — opakuje seznam „protičeských" výroků Pavla (Lichtenštejnové, veto, euro, USE), rámováno jako obrana slibu max. 2 % HDP na obranu — „prezident není náš nadřízený" — [Videoportál 24. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-24-8-2026) → [petr-pavel.md](../petr-pavel.md#petr-pavel-kritická-bilance-čtyř-let-prezidentství--rajchl-3-5-2026)
 - **25. 8.** — další klip ze stejné nedělní debaty, opakuje tatáž čísla bilance Fialovy vlády beze změny — [Videoportál 25. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-25-8-2026) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
+- **30. 8.** — rozhovor Petra Pavla na CNN Prima News jako „tragikomedie" — kritika návrhu na snížení počtu nemocnic a přístrojů, vlastní program zdravotnictví/školství (stipendia vázaná na závazek zůstat v ČR) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [petr-pavel.md](../petr-pavel.md#rozhovor-na-cnn-prima-news-jako-tragikomedie--návrh-na-snížení-počtu-nemocnic-a-přístrojů-rajchl-30-8-2026)
+- **30. 8.** — kompletní přehled ekonomického programu PRO (škrty výdajů, zrušení Leopardů/F-35, konec dotací neziskovkám, zrušení ETS1/ETS2, sektorové daně bank/zbrojařů, digitální daň) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -180,6 +184,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - **14. 8.** — Chat Control a bezhotovostní společnost jako nástroje totální kontroly; návrh ústavního ukotvení práva na hotovost — [Videoportál 14. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-14-8-2026)
+- **30. 8.** — doplňuje „právo žít offline" a ústavní definici manželství/dvou pohlaví jako další příklady změn nemožných bez Senátu; propojuje se senátní kampaní PRO — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
 
 
 ---
@@ -347,6 +352,11 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Petr Pavel | ❌ negativní | Ironicky navrženo, že by měl osobně dorazit na festival Pulse of Nations 21.8. — připomenuto, že ve 27 letech schvaloval okupaci Československa 1968 | 2026-08-20 | [Videoportál 20. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-20-8-2026) |
 | Petr Pavel | ❌ negativní | Projev u Českého rozhlasu 21.8. „nejbizarnější moment české politiky od 1918" — „celoživotní oportunista" bez páteře, přirovnán k nacistovi omlouvajícímu se za Lidice | 2026-08-23 | [Facebook Live 23. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026) |
 | Matěj Ondřej Havel | ❌ negativní | Přezdívka „Baby Fiala" — v TV debatě v argumentačním deficitu vytáhl narážku na SMS z Kremlu, což Rajchl označuje za „totální dno" | 2026-08-23 | [Facebook Live 23. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026) |
+| Jiří Berger | ❌ negativní | Znalec propojující účastníky bitcoinové kauzy (Jiříkovský, Tyc, směnárník Stránský), spolužák a dlouholetý poradce Zbyňka Stanjury — přesto neobviněn; Rajchl žádá vysvětlení | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
+| Zbyněk Stanjura | ❌ negativní | Propojení s Bergerem (spolužák, poradce od 2022, firma E-Fractal fakturovala 10+ mil. Kč ministerstvu financí) jako důvod, proč case Bergera nesmí být rozkryt | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
+| Eva Decroix | ❌ negativní | Rozšíření kauzy Uhlíř — najala ho, pak jeho hotovou zprávu odmítla proplatit s odůvodněním duplicity auditu; Rajchl žádá její osobní finanční odpovědnost | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
+| Petr Pavel | ❌ negativní | Rozhovor na CNN Prima News — návrh na snížení počtu nemocnic a přístrojů označen za „tragikomedii" odtrženou od reality | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
+| John Ratcliffe | ○ neutrální | Ředitel CIA — jeho návštěva Moskvy interpretována jako vyjednávání mírových podmínek pro Ukrajinu | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
 
 ---
 
@@ -449,3 +459,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál: STAN a fond Elevation (24. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-stan-a-fond-elevation-24-7-2026)
 - [Facebook Live (26. 7. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 - [Videoportál: expert na extremismus (27. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026)
+- [Facebook Live (30. 8. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
