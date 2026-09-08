@@ -96,6 +96,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **29. 8. (2)** — rozhovor s Petrem Hájkem: ČR nemá být „poslušné dítě" EU, vzor Polska/Orbána; úspora ~250 mld. Kč ve výdajích bez zvýšení daní občanům, místo toho zdanit rekordní zisky bank a zbrojařů — [Videoportál 29. 8. 2026 (2)](../_zdroje.md#jindřich-rajchl--videoportál-29-8-2026-2) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
 - **23. 8.** — odstrašení jako termín „zbrojařských lobbistů"; jaderné zbraně jako jediný reálný odstrašující prvek; ČR jako navrhovaný „most" mezi Východem a Západem (vzor Turecko/Izrael/Maďarsko) — [Facebook Live 23. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026) → [Válka na Ukrajině](../valka-ukrajina-prubeh.md#odstrašování-vede-k-válce-řešením-je-dialog-po-vzoru-startsalt--rajchl-22-8-2026)
 - **30. 8.** — vlastní interpretace návštěvy šéfa CIA Ratcliffa v Moskvě jako vyjednávání mírových podmínek pro Ukrajinu (Rusko získá Doněck, vrátí část Charkovska); korupční aféra „Forrest Gump" a protesty proti Zelenskému — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [Válka, NATO a Rusko](../valka-nato-rusko.md#šéf-cia-ratcliffe-v-moskvě--spekulace-rusko-předem-varuje-usa-před-akcí-proti-koalici-ochotných-vrabel-dovětek-26-8-2026)
+- **3. 9.** — výzva ke zdrženlivosti k incidentu v Halle/Lipsku; připomíná polský raketový incident 2022 (ukrajinská raketa mylně přisouzena Rusku, Duda: Zelenskyj o tom věděl předem) — [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) → [Válka, NATO a Rusko](../valka-nato-rusko.md#německo-chystá-tvrdší-opatření-proti-rusku--spekulace-o-false-flag-u-incidentu-v-halle-vrabel-29-8-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -359,6 +360,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Petr Pavel | ❌ negativní | Rozhovor na CNN Prima News — návrh na snížení počtu nemocnic a přístrojů označen za „tragikomedii" odtrženou od reality | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
 | John Ratcliffe | ○ neutrální | Ředitel CIA — jeho návštěva Moskvy interpretována jako vyjednávání mírových podmínek pro Ukrajinu | 2026-08-30 | [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) |
 | Karol Nawrocki | ✅ pozitivní | Vzor: znovu vznesl požadavek na plnou úhradu válečných reparací od Německa (1,5 bil. eur) — Rajchl vyzývá ČR, aby se připojila | 2026-09-02 | [Videoportál 2. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026) |
+| Andrzej Duda | ✅ pozitivní | Bývalý polský prezident — v podcastu uvedl, že Zelenskyj věděl o ukrajinském původu rakety (2022) předem a přesto žádal svalit vinu na Rusko | 2026-09-03 | [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) |
+| Jana Černochová | ❌ negativní | Po polském raketovém incidentu 2022 na síti X vyzývala ke zvážení aktivace čl. 5 NATO, než se ukázalo, že šlo o ukrajinskou raketu — příklad unáhlené reakce | 2026-09-03 | [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) |
 
 ---
 
@@ -463,3 +466,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál: expert na extremismus (27. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026)
 - [Facebook Live (30. 8. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
 - [Videoportál (2. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026)
+- [Videoportál (3. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026)
