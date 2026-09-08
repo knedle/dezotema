@@ -227,3 +227,13 @@ Vrabel spojuje podporu rozpadu tradiční rodiny a LGBT+ agendy (mj. Prague Prid
 Černohorský staví dnešní porodnost (v průměru ~82 000 dětí ročně za poslední tři roky) do kontrastu s obdobím socialismu, kdy se běžně rodilo 120–160 tisíc dětí ročně, a to i v „nejhorších" letech po roce 1968 — z čehož usuzuje, že dnešní doba je pro zakládání rodin hůře nastavená než tehdejší totalitní režim. Za měřítko blahobytu společnosti považuje právě počet dětí, ne subjektivní tvrzení politiků, že „se máme nejlíp, jak jsme se kdy měli". Vyjadřuje znepokojení nad tím, kolik z dnešních narozených dětí tvoří děti přistěhovalců, ukrajinských uprchlíků a Romů namísto Čechů, Moravanů a Slezanů. Na modelovém příkladu běžné rodiny (otec 35 tis. čistého, matka 25 tis.) rozebírá, jak výpadek příjmu během mateřské dovolené nutí rodiny šetřit na téměř všem (kvalitě potravin, dopravě, kosmetice, telekomunikacích) kromě samotného dítěte — s odkazem na statistiku, že 13 % (1,3 mil.) lidí v ČR neušetří z výplaty ani korunu.
 
 **Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+
+---
+
+### Komunální program „Podpora dětí bez rozdílu" — nerovné financování dětských talentů v Liberci (Tarabová, 1. 9. 2026)
+
+Tarabová jako kandidátka na primátorku Liberce (komunální volby 2026, strana PRO) představuje první bod svého patnáctibodového programu: tvrdí, že liberecký magistrát dnes finančně podporuje především děti v tzv. „TOP/VIP" sportovních oddílech, zatímco děti věnující se jiným sportům nebo netolika mediálně viditelným talentům (malování, zpěv, hra na hudební nástroj, technické obory) srovnatelnou podporu nedostávají. Navrhuje sjednotit městskou finanční podporu pro všechny talentované děti bez rozdílu oboru, s odůvodněním, že takto podpořené děti budou vzorem svým vrstevníkům (v kontrastu k trávení času s mobilem/tabletem) a že peníze na to lze najít úsporami v rozpočtu magistrátu (viz i její kritika předraženého projektu Tržního náměstí).
+
+**Zdroje:** [Tarabová — Videoportál 1. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-1-9-2026)
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)

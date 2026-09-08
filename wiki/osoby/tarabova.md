@@ -33,6 +33,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 
 ### [Rodina a děti](../rodina-deti.md)
 - Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické — [Bagatelizace násilí na dětech (4. 4.)](../_zdroje.md#lenka-tarabová--bagatelizace-násilí-na-dětech-4-4-2026)
+- **1. 9.** — komunální program pro Liberec „Podpora dětí bez rozdílu" — kritika nerovné podpory dětských talentů (jen „TOP/VIP" sporty) magistrátem — [Videoportál 1. 9.](../_zdroje.md#lenka-tarabová--videoportál-1-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Brněnské zastupitelstvo 14. 4. schválilo konání sudetoněmeckého sjezdu; Němci dluží ČR válečné reparace; kritika primátorky Vaňkové; sjezd eskaluje — německý ministr vnitra + bavorský premiér jako hosté — [Brněnské zastupitelstvo (14. 4.)](../_zdroje.md#lenka-tarabová--brněnské-zastupitelstvo-a-sudetoněmecký-sjezd-14-4-2026)
@@ -123,3 +124,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: reakce na článek o rakovině (8. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
 - [Videoportál (28. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
 - [Videoportál: kauza Peková, zlatý věk (20. 8. 2026)](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
+- [Videoportál (1. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-1-9-2026)
