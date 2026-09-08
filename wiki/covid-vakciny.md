@@ -1105,3 +1105,11 @@ Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob co
 **25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu zmiňuje výslech Fauciho a přiznání Davida Morense (beze změny oproti 21. 8.) i pokles porodnosti (35 000 méně narozených ročně, jen 17 500 za 1. čtvrtletí 2026 — beze změny oproti dřívějším videím) jako témata, která na akci nebyla řešena.
 
 **Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
+
+---
+
+### 41 milionů dodaných dávek, 18 milionů zlikvidováno za ~8 mld. Kč — zamlčené nežádoucí účinky jako „úmyslné zabití" (Vrabel, 31. 8. 2026)
+
+Ke zprávě, že ČR od roku 2020 odebrala celkem 41 mil. dávek covidových vakcín, z nichž bylo skutečně využito necelou polovinu, cca 4 mil. dávek bylo darováno do zahraničí a přes 18 mil. dávek skončilo kvůli prošlé expiraci v likvidaci (náklad cca 8 mld. Kč) — spotřeba přitom klesla z přes 15 mil. dávek v roce 2021 na jen 228 tis. v roce 2025 — Vrabel kritizuje Andreje Babiše jako „špatného manažera": pokud se sám prezentoval jako podnikatel, který by měl řídit stát jako firmu, nákup poloviny nevyužitého materiálu by v soukromé firmě považoval za hrubé selhání vysvětlující potřebu následných státních dotací. Doplňuje novou zprávu, že ministerstvo zdravotnictví o nežádoucích účincích vakcín vědělo a odmítlo je zveřejnit — což by podle něj jako soudce kvalifikoval jako úmyslné zabití, protože porušuje mezinárodní právo na informovaný souhlas (odkaz na Norimberský kodex): lidem měla být cesta k očkování prezentována politicky a strachem („kdo se neočkuje, ohrožuje ostatní"), ne lékařsky s řádným poučením o rizicích. Kritizuje Jindřicha Rajchla a Janu Zwyrtek Hamplovou za to, že namísto slibovaného boje proti covidovým křivdám uspořádali jen parlamentní seminář, po němž Babiš pouze konstatoval, že „se staly chyby" — bez jakéhokoli vyšetřování či odškodnění obětí.
+
+**Zdroje:** [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)

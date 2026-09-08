@@ -4421,6 +4421,13 @@
 - **Datum záznamu:** 2026-08-31
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Facebook Live (31. 8. 2026) {#ladislav-vrabel--facebook-live-31-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-31_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1778519469821307>
+- **Datum záznamu:** 2026-08-31
+- **Zpracováno:** ano
+
 ## Lenka Tarabová — Videoportál (1. 9. 2026) {#lenka-tarabová--videoportál-1-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-01_Lenka-Tarabová_Videoportál.txt)
 - **Kanál:** Lenka Tarabová

@@ -840,7 +840,9 @@ Vrabel kritizuje projev ministra zahraničí Petra Macinky na konferenci o inves
 
 Ke stanovisku Národní rozpočtové rady (schodek 2027 může přesáhnout 350 mld. Kč; letos plánováno 310 mld.) Vrabel ironicky „gratuluje" vládě ke čtvrtému nejvyššímu schodku v historii ČR — přestože schodek Fialovy vlády byl jedním z hlavních předvolebních argumentů Andreje Babiše. Zmiňuje i „únikovou doložku" EU umožňující vyšší schodek při zvýšených výdajích na obranu.
 
-**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026)
+**31. 8.** — Vláda schválila návrh rozpočtu na rok 2027 se schodkem 389 mld. Kč (druhý nejvyšší v historii ČR po roce 2021 — 419,7 mld.), příjmy mají růst o 3,3 % na 2,189 bil. Kč, výdaje o 6,2 % na cca 2,578 bil. Kč, mezi prioritami je 289 mld. investic a výdaje na obranu 195 mld. (2,04 % HDP). Babiš, Schillerová a Havlíček rozpočet prezentovali jako vynikající a zdůvodňovali schodek dluhem po „předchozí vládě" — Vrabel to komentuje jako výborně zahraný divadlo: současná vláda je podle něj fakticky totožná s tou covidovou (personální kontinuita), jen prošla úspěšnou psychologickou kampaní, která veškerý dřívější odpor přesměrovala výhradně na značku ODS, ačkoli i strany jako Motoristé, Trikolora či SPD mají podle něj kořeny nebo sponzory napojené na ODS (kmotr Hrdlička). Investice do dálnic/železnic/silnic vysvětluje jako přípravu infrastruktury pro válku (přesun těžké vojenské techniky), nikoli obnovu ekonomiky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026), [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 
 ## Represe a policejní brutalita na Západě
 

@@ -488,7 +488,9 @@ Ursula von der Leyen při návštěvě Irska (které od 1. 7. předsedá EU) uve
 
 Rajchl (5. 7.) i Vrabel (5. 7.) na totéž oznámení reagují nezávisle na sobě shodným odmítnutím: Rajchl vzkazuje, že by jako premiér EU „ani vindru" nedal a rozpočet EU by nechal škrtnout klidně o 40 % (obsahuje prý hlavně klimatickou agendu, Ukrajinu a „LGBTQ"), Vrabel dodává přesnější kontext programu „Savings and Investments" (von der Leyenová dlouhodobě cílí na soukromé úspory Evropanů, odhadem 300–600 mld. eur) jako alternativního zdroje k navýšení daní.
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+**31. 8.** — Vrabel identifikuje český „klon" tohoto unijního programu: místopředseda ODS Pavel Drobil navrhuje národní investiční holding „Národ sobě", do kterého by se vložily zbývající státní podíly ve firmách (příklady: národní podnik Budvar, podíl státu v ČEZ) a jenž by následně vstoupil na burzu — s odůvodněním, že Češi mají cca 2 biliony Kč „ladem" ležících na krátkodobých vkladech a penzijních fondech, které kvůli inflaci ztrácejí hodnotu. Vrabel označuje návrh za téměř doslovnou kopii Savings and Investments (tam 10 bilionů eur unijních úspor, tady 2 biliony Kč českých) — cílem je podle něj nasměrovat soukromé úspory občanů do financování zbrojní/válečné ekonomiky a dokončit privatizaci posledního zbylého státního majetku ve prospěch soukromých (často zahraničních) investorů. Ironicky glosuje samotný název „Národ sobě" jako geniální marketing pro to, co ve skutečnosti znamená vyvedení peněz lidí do soukromých kapes.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026), [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 
 ---
 

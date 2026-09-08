@@ -684,7 +684,9 @@ Vrabel tvrdí, že druhá světová válka nebyla především válkou proti Ži
 
 **29. 8.** — Vrabel rozvíjí tutéž tezi u zprávy, že americký ministr financí Scott Bessent ve svém příspěvku pro Financial Times o Teheránské konferenci (1943) zmínil jen Roosevelta a Churchilla a opomněl Stalina (na což upozornil až čtenář z Oxfordu). Vrabel to označuje za „nebetyčnou drzost" — zdůrazňuje, že o výsledku 2. světové války rozhodl především Sovětský svaz (bitva u Stalingradu), zatímco zásluhy Británie a USA jsou ve srovnání „zanedbatelné". Opakuje tezi, že šlo o „válku globalistů proti Slovanům", v níž bylo Německo jen „prostředníkem" financovaným globalisty — stejně jako je dnes prostředníkem Ukrajina — a že kdyby SSSR válku nevyhrál, globalisté by dnes ovládali i východní Evropu (Sovětský svaz), stejně jako už ovládají Spojené státy a západní Evropu.
 
-**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+**31. 8.** — Vrabel rozšiřuje paralelu o osobu německého kancléře Friedricha Merze (přezdívaného „Schmerz" — viz [ceny-energie.md](ceny-energie.md#merz-obviňuje-čínu-z-nekalé-konkurence-vrabel-německo-si-za-krizi-může-samo-24-7-2026)): tvrdí, že podobně jako měl být Hitler levobočkem jednoho z Rothschildů, Merz předtím, než se stal kancléřem, působil jako předseda představenstva BlackRock Deutschland — pobočky největší kapitálové firmy na světě, která má od roku 2022 přislíbeno vést poválečnou obnovu Ukrajiny. Z toho vyvozuje, že Merzovým skutečným úkolem je dovést Německo k válce stejně, jako to (dle Vrabelovy teze) udělal Hitler, a že veškerá jeho zbrojní politika (výrok z roku 2023 o možném bombardování Krymského mostu raketami Taurus) neslouží Německu, ale zájmům BlackRocku.
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026), [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 
 ---
 
@@ -761,5 +763,15 @@ V reakci na sdílené video Michala Boldyho o katastrofálních lavinách v Nep�
 ⚡ **Poznámka:** Tvrzení je nepodloženou spekulací kombinující sdílené video, teorii o 9/11 jako řízené operaci a explicitně antisemitské přisouzení viny neurčité skupině „Židů" za přírodní katastrofu — viz [Stochastický teror](stochasticky-teror.md). Samotný Boldy o den později totéž video označil za AI podvrh — viz [⚡ Konflikt níže](#-konflikt-nepál--virální-stíhačka-je-ai-podvrh-ale-zemětřesení-bylo-uměle-vyvoláno-haarpem-boldy-27-8-2026).
 
 **Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
+### 163 nalezených pohřešovaných dětí na Floridě jako důkaz obchodu s dětmi na úrovni „Deep State" (Vrabel, 31. 8. 2026)
+
+Ke zprávě, že floridské úřady během pětidenní operace „Shield State White" (rozšířené i do dalších šesti amerických států, Portorika a 12 zahraničních zemí) našly a zajistily 163 pohřešovaných dětí, z nichž některé byly podle generálního prokurátora Jamese Uthmeiera obětí zneužívání, zanedbávání či obchodování — Vrabel vítá záchranu samotnou, ale tvrdí, že jde jen o zlomek: odhaduje, že dále existují tisíce až desetitisíce dalších obchodovaných dětí (na orgány nebo pro sexuální účely). Řadí to do rámce teorie o americkém „Deep State", který podle něj netvoří jen „chazarští Židé", ale i satanisté praktikující rituální zneužívání — připomíná Epsteinovy seznamy a ostrov a spekuluje o roli „šéfové týmu Hillary Clintonové" v organizaci „pizzagate". Cituje (opakovaně, s odkazem na dřívější přeložené video) Vladimira Putina, který měl rétoricky popsat západní elity jako ty, kdo se „stovky let živí lidským masem" a jejichž „upíří bál" nyní končí.
+
+⚡ **Poznámka:** Tvrzení o rozsahu obchodu s dětmi v řádu tisíců/desetitisíců a propojení s „pizzagate" a satanistickými elitami je nepodložená spekulace nad rámec skutečné (ověřitelné) zprávy o floridské policejní operaci.
+
+**Zdroje:** [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 
 ---

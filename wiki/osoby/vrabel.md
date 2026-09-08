@@ -911,6 +911,19 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Kauzy a korupce](../kauzy.md) (pokrač. 4)
 - **30. 8.** — smear kampaň znovu přerámovává dřívější odsouzení za „zaškrtnutí okýnka" jako „daňové podvody" — [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 13)
+- **31. 8.** — rozpočet 2027 (schodek 389 mld. Kč) — kritika, že vláda je fakticky totožná s tou předchozí/covidovou — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 9)
+- **31. 8.** — program „Národ sobě" (Pavel Drobil) jako český klon EU Savings and Investments — vyvedení úspor občanů do zbrojní ekonomiky — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+
+### [COVID a vakcíny](../covid-vakciny.md) (pokrač. 2)
+- **31. 8.** — 41 mil. dávek vakcín, 18 mil. zlikvidováno za ~8 mld. Kč; zamlčené nežádoucí účinky jako „úmyslné zabití" — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 9)
+- **31. 8.** — Friedrich Merz jako „nový Hitler" řízený BlackRockem — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+- **31. 8.** — 163 nalezených dětí na Floridě jako důkaz obchodu s dětmi/Deep State — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1313,6 +1326,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Kateřina Konečná | ❌ negativní | Označena za průkopnici techniky „řízené nenávisti" — kampaň „anti-Fiala" před volbami 2025 | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
 | Zuzana Majerová | ❌ negativní | Prohlásila odstranění Petra Fialy/Pavla za „nejvyšší prioritu" — příklad schématu „anti-Pavel" | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
 | Richard Štěpán | ⚖️ rozporuplný | Organizátor demonstrace KSČM 5. 9. — Vrabel podporuje akci, ale odmítá jeho rámování Pavla jako „militantního" | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
+| Pavel Drobil | ❌ negativní | Místopředseda ODS — návrh investičního holdingu „Národ sobě" označen za český klon EU Savings and Investments a nástroj k vyvedení úspor občanů do zbrojní ekonomiky/soukromých kapes | 2026-08-31 | [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026) |
+| Friedrich Merz | ❌ negativní | Bývalý předseda představenstva BlackRock Deutschland — přirovnán k Hitlerovi jako loutce financované globalisty k vedení Německa do války | 2026-08-31 | [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026) |
 
 ---
 
@@ -1434,3 +1449,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (28. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
 - [Facebook Live (29. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
 - [Facebook Live (30. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
+- [Facebook Live (31. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
