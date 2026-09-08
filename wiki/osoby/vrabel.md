@@ -939,6 +939,17 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 15)
 - **1. 9.** — Erdogan/Turecko jako „pátá kolona" v Německu/Rakousku (setkání s Putinem/Lukašenkem na ŠOS) — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
 - **1. 9.** — nová obvinění Ruska bez důkazů (Halle, elektrárna Jänschwalde, polská továrna VB Electronics) — paralela s postupnou přípravou 2. světové války — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+- **2. 9.** — jména podezřelých z Halle zveřejněna (jen na základě DNA), srovnání s kauzou Vrbětice, „silná čtyřka" (Pavel/Babiš/Macinka/Zůna) — [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
+- **2. 9.** — Bělehrad hostil hnutí nezúčastněných zemí — vojenská neutralita (Srbsko) jako vzor pro ČR — [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
+
+### [Benešovy dekrety](../benesovy-dekrety.md) (pokrač.)
+- **2. 9.** — Nawrockého výzva k reparacím od Německa; historie česko-německé deklarace (Zeman/Klaus); kritika Macinkovy návštěvy Německa — [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 12)
+- **2. 9.** — zdražování plynu (+56 %) a elektřiny (+33 %) jako důsledek volby politiků; Křetínský profituje — [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 10)
+- **2. 9.** — Palantir/Karp/Thiel/Musk — technokratická elita, DARPA/Google, protesty sester proti Palantiru v USA — [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
 
 ---
 
@@ -1347,6 +1358,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Alena Schillerová | ❌ negativní | Návrh zdanit vlastníky více nemovitostí označen za „salámovou metodu" prosazování daňové agendy | 2026-09-01 | [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026) |
 | Recep Tayyip Erdoğan | ⚖️ rozporuplný | Setkání s Putinem/Lukašenkem na ŠOS — popsán jako klíčový geopolitický hráč, který by mohl nasadit tureckou „pátou kolonu" v Německu/Rakousku | 2026-09-01 | [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026) |
 | Daniel Křetínský | ❌ negativní | Jeho firma LEAG/EPH provozuje elektrárnu Jänschwalde, u níž Německo bez důkazů obvinilo Rusko ze sabotáže | 2026-09-01 | [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026) |
+| Karol Nawrocki | ✅ pozitivní | Polský prezident — vyzval Německo k plné úhradě válečných reparací a otevřeně řekl, že Německo napadlo Polsko; Vrabel oceňuje, že tuto „pravdu" vyslovil | 2026-09-02 | [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026) |
+| Petr Macinka | ❌ negativní | Odjel na státní návštěvu Německa ve výročí 2. sv. války místo požadování reparací — označeno za jednu z největších politických ostud | 2026-09-02 | [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026) |
+| Alex Karp | ❌ negativní | Ředitel Palantiru — investuje do nové ukrajinské obranné firmy s Fedorovem; propojen s CIA, Thielem a Muskem jako součást technokratické elity | 2026-09-02 | [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Hostil setkání hnutí nezúčastněných zemí v Bělehradě, obhajoval vojenskou suverenitu a multilateralismus | 2026-09-02 | [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026) |
 
 ---
 
@@ -1470,3 +1485,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (30. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
 - [Facebook Live (31. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 - [Facebook Live (1. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+- [Facebook Live (2. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)

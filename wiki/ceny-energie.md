@@ -494,6 +494,8 @@ Vrabel tvrdí, že výroba elektřiny v ČR stojí přibližně 40–50 haléř�
 
 **Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 
+**2. 9.** — Ke zprávě, že velkoobchodní ceny energie pro rok 2026/2027 výrazně rostou (zemní plyn na českém trhu +56 %, na evropském trhu TTF kolem +60 %; roční kontrakt elektřiny zdražil přibližně o třetinu), Vrabel opakuje svou tezi o osobní odpovědnosti politiků: zajistit občanům dostupné energie je podle něj jejich základní povinnost, ne věc „trhu" nebo „kapitalismu", protože elektřina a plyn jsou nezbytné komodity (na rozdíl třeba od luxusního zboží). Kritizuje, že přes stále funkční plynovody z Ruska čeští i evropští politici odmítají levné ruské zdroje ze zásadových/korupčních důvodů (jmenuje znovu Daniela Křetínského jako toho, kdo z drahé elektřiny profituje) — a sarkasticky glosuje souběžnou zprávu o navýšení rozpočtu Kanceláře prezidenta o 4 mil. Kč, že to možná bude „akorát na plyn" pro Hrad.
+
 ---
 
 ### Rekordní zisky ropných firem (93 mld. $) — je Trump zachránce USA, nebo nástroj jejich rozkladu? (Vrabel, 21. 8. 2026)
