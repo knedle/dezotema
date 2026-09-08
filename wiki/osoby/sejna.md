@@ -42,6 +42,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - Shrnutí porušení prezidentského slibu — Turek, ÚS/NATO, „Spojené státy evropské", euro, nově podpora konstituční monarchie — [25. 8.](../_zdroje.md#restart-česko--videoportál-25-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 - **30. 8.** — opakuje tezi o Pavlově rozvědčické minulosti v reakci na jeho nabídku koordinovat zahraniční politiku s vládou; srovnává s nejmenováním Turka — [30. 8.](../_zdroje.md#restart-česko--videoportál-30-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 - **31. 8.** — ke kritice Pavlova návrhu na snížení počtu nemocnic dodává, že by z toho profitovali zbrojní lobbisté i sám prezident — [31. 8.](../_zdroje.md#restart-česko--videoportál-31-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
+- **2. 9.** — vlastní anketa: 23 z 27 tisíc hlasů proti znovuzvolení Pavla prezidentem — [2. 9.](../_zdroje.md#restart-česko--videoportál-2-9-2026) → viz [petr-pavel.md](../petr-pavel.md)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 

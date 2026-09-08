@@ -528,3 +528,13 @@ Rajchl ostře kritizuje nedělní rozhovor Petra Pavla s Petrem Kováčem na CNN
 **Zdroje:** [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026), [Restart Česko — Videoportál 31. 8. 2026](_zdroje.md#restart-česko--videoportál-31-8-2026)
 
 ---
+
+### Vlastní anketa: 23 z 27 tisíc hlasů proti znovuzvolení Pavla (Šejna, 2. 9. 2026)
+
+Šejna zveřejňuje výsledky vlastní neformální ankety na svém Facebooku („Měl by Petr Pavel být příštím prezidentem ČR, nebo ne?") — z více než 27 000 hlasů (při 157 000 zhlédnutích) se přes 23 000 vyslovilo proti znovuzvolení Pavla. Argumentuje, že jde o spolehlivější obraz veřejného mínění než tradiční průzkumy dotazující „jen pár tisíc lidí", a vyzývá sledující k dalšímu hlasování a odběru profilu, aby podobné ankety mohly oslovit více lidí.
+
+⚡ **Poznámka:** Jde o nereprezentativní samovýběrovou anketu mezi vlastními sledujícími kanálu, ne o sociologický průzkum.
+
+**Zdroje:** [Restart Česko — Videoportál 2. 9. 2026](_zdroje.md#restart-česko--videoportál-2-9-2026)
+
+---
