@@ -523,6 +523,8 @@ Rajchl ostře kritizuje nedělní rozhovor Petra Pavla s Petrem Kováčem na CNN
 
 **31. 8.** — Černohorský reaguje na totéž vyjádření Pavla o přebytku nemocnic/přístrojů extrémně ostře (viz [stochastický teror](stochasticky-teror.md)) a dokládá kontrast konkrétním případem: jeho platforma Společenství Čest Svoboda Respekt v únoru 2026 na žádost člena finančně pomohla muži s rakovinou krku/hrtanu — dnes mu posílá fotky, jak tráví čas s vnučkou. Kritizuje průměrné čekací doby na vyšetření magnetickou rezonancí (odhaduje 3–4 měsíce) i na operaci kyčle (uvádí konkrétní případ čekání přes dva roky) jako důkaz, že Pavlův návrh na snížení kapacit je odtržený od reality lidí, kterým on sám dokáže pomoci adresně.
 
-**Zdroje:** [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+**31. 8. (Šejna)** — Šejna k témuž výroku dodává vlastní interpretaci motivu: naznačuje, že ušetřené peníze by směřovaly ke „zbrojním lobbistům" a že z takového uspořádání by profitoval i samotný prezident osobně.
+
+**Zdroje:** [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026), [Restart Česko — Videoportál 31. 8. 2026](_zdroje.md#restart-česko--videoportál-31-8-2026)
 
 ---
