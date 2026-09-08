@@ -4456,6 +4456,13 @@
 - **Datum záznamu:** 2026-09-01
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Videoportál (2. 9. 2026) {#jiří-černohorský--videoportál-2-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-02_Jiří-Černohorský-Živě_Videoportál.txt)
+- **Kanál:** Jiří Černohorský Živě
+- **URL:** <https://www.facebook.com/100085862388850/videos/2918317015185602>
+- **Datum záznamu:** 2026-09-02
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (2. 9. 2026) {#jindřich-rajchl--videoportál-2-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-02_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

@@ -30,6 +30,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **31. 8.** — Poslanecké vedlejší příjmy ze souběhu funkcí (Skopeček, Fiala, Richterová aj., celkem ~94 mil. Kč za 20 poslanců) — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 - **31. 8.** — Podpora Robina Čumpelíka, kritika „vlastenecké scény" (Příčovy) a vlastních diváků za slepé tleskání politikům — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 - **31. 8.** — Rozšíření vize „Čest Svoboda Respekt" — princip kolektivního rozhodování (370+ členů), konkrétní příklady adresné charitativní pomoci — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+- **2. 9.** — Kritika systému posuzování invalidních důchodů (onkologičtí pacienti snížení na 1. stupeň) v kontrastu s vysokými vedlejšími příjmy politiků (Juchelka) — [Videoportál 2. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-2-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -321,3 +322,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - [Facebook Live (28. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 - [Facebook Live (31. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+- [Videoportál (2. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-2-9-2026)
