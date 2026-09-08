@@ -914,7 +914,25 @@ Vrabel tvrdí, že čtyřletá rekonstrukce tramvajové trati na Václavském n�
 
 **9. 8.** — Vrabel k tématu dodává, že byl následně i trestně stíhán, ale Ústavní soud ho na základě práva na svobodu slova zprostil. Popisuje také, jak byly podle něj infiltrovány a rozloženy navazující demonstrace na Václavském náměstí, aby se rozšířil narativ, že „demonstrace nemají smysl" — jde o stejný program „Kryt", který podle něj koordinovalo Ministerstvo vnitra cíleně proti němu.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026), [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+**30. 8.** — Vrabel popisuje novou vlnu téže kampaně, spuštěnou krátce po ohlášení shromáždění 3. 10.: znovu se šíří obvinění, že je agentem BIS (šíří ho mj. Ivan David a „Standa Novotný", dříve i Jindřich Rajchl a Lenka Tarabová), nově navíc tvrzení, že okradl táborskou buňku hnutí Česká republika na prvním místě — což odmítá s tím, že k jedinému účtu hnutí má přístup jen on a místopředseda Pavel Fíla. Samostatně rozebírá kampaň novináře Petra Hájka (Protiproud): připomíná jeho dlouholeté propojení s ODS (kampaně pro stranu i osobně pro Václava Klause) a s Petrem Macinkou (oba pracovali jako Klausovi asistenti/sekretáři) a fakt, že Hájka bezplatně právně zastupuje Jindřich Rajchl od roku 2022 výměnou za jeho podporu — což podle Vrabela vysvětluje, proč Hájek musí současnou vládu hájit a jeho kritiky (včetně Vrabela) nálepkovat jako spojence Milionu chvilek. Zmiňuje, že na Hájkovu kampaň veřejně reagovala Korina Rybářová (obhájila Vrabela a financování demonstrací sbírkami mezi lidmi).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 2. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-2-8-2026), [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Facebook Live 30. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
+
+---
+
+### Teorie „řízené nenávisti k vládci" — psychologická technika před válkou, teď „anti-Pavel" místo „anti-Fiala" (Vrabel, 30. 8. 2026)
+
+Vrabel popisuje, co považuje za opakující se psychologickou techniku „globalistů" před válkou: cíleně vytvořit v obyvatelstvu masovou nenávist vůči konkrétnímu vládci (uvádí příklady — nenávist k Bidenovi v USA, k Merzovi dnes v Německu, k Fialovi v ČR), díky níž se každý, kdo se postaví „proti" této osobě, automaticky stane v očích lidí zachráncem bez ohledu na to, co skutečně prosazuje — a jakmile je zvolen, davová psychóza ho chrání před kritikou po dlouhou dobu. Tvrdí, že tuto techniku v ČR jako první uplatnila Kateřina Konečná kampaní „anti-Fiala" před volbami 2025, a že totéž nyní opakuje ve verzi „anti-Pavel" (KSČM, Zuzana Majerová prohlašující odstranění Petra Fialy/Pavla za „nejvyšší prioritu"). Podle Vrabela jde o odklon od „politiky věcí" (co je třeba prosadit) k neplodné „politice osobností" (koho odstranit) — poukazuje, že klíčové zahraničněpolitické postoje (podpora NATO/EU, označení Ruska za agresora, podpora Ukrajiny) sdílí napříč celým politickým spektrem v ČR včetně SPD a Okamury, takže v této otázce reálně neexistuje žádná opozice.
+
+**Zdroje:** [Vrabel — Facebook Live 30. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
+
+---
+
+### Podpora demonstrace KSČM 5. 9. na Malostranském náměstí — s výhradou vůči rámování „proti Pavlovi" (Vrabel, 30. 8. 2026)
+
+Vrabel oznamuje, že hnutí Česká republika na prvním místě podpoří demonstraci KSČM plánovanou na 5. 9. na Malostranském náměstí (organizátor Richard Štěpán), protože souhlasí s jejím postojem proti zbrojení a proti protiruské nenávisti. Distancuje se však od rámování akce jako útoku výhradně na Petra Pavla (kritizuje konkrétně komentář Richarda Štěpána, že Pavel je „militantní") — argumentuje, že jde o odpor vůči zbrojení obecně, nikoli jen vůči jedné osobě, a varuje před opakováním schématu „anti-Pavel" popsaného výše. Zdůrazňuje, že jedinou politickou stranou dlouhodobě a programově usilující o vystoupení ČR z EU a NATO je jeho vlastní hnutí, nikoli KSČM (která podle něj referendum o vystoupení před volbami 2025 nakonec nekomunikovala).
+
+**Zdroje:** [Vrabel — Facebook Live 30. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
 
 ---
 

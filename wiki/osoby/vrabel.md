@@ -903,6 +903,14 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 3)
 - **29. 8.** — souhlasně cituje Fica na oslavách SNP („bez Ruska není mír v Evropě"); opakuje ohlášení shromáždění 3. 10. na Malostranském náměstí za „urovnání vztahů s Ruskou federací" — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 12)
+- **30. 8.** — nová vlna smear kampaně (BIS agent, krádež táborské buňky hnutí) od Ivana Davida, Standy Novotného, dříve Rajchla/Tarabové; rozbor propojení Petra Hájka s ODS a Rajchlem — [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
+- **30. 8.** — teorie „řízené nenávisti k vládci" (anti-Fiala → anti-Pavel), Kateřina Konečná jako průkopnice tohoto schématu — [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
+- **30. 8.** — podpora demonstrace KSČM 5. 9. na Malostranském náměstí, s výhradou vůči rámování „proti Pavlovi" — [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
+
+### [Kauzy a korupce](../kauzy.md) (pokrač. 4)
+- **30. 8.** — smear kampaň znovu přerámovává dřívější odsouzení za „zaškrtnutí okýnka" jako „daňové podvody" — [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1299,6 +1307,12 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | David Konecký | ❌ negativní | Velvyslanec ČR při NATO — kritizován (i s dehumanizující nálepkou „psychopat", → [stoch. teror](../stochasticky-teror.md)) za tvrzení, že aliance je připravena okamžitě bránit své území proti Rusku | 2026-08-29 | [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026) |
 | Radim Panenka | ✅ pozitivní | Zástupce šéfredaktora Parlamentních listů, vyšetřovaný policií za komentář k úmrtí Ratka Mladiće — Vrabel ho hájí jako oběť politicky motivovaného vyšetřování | 2026-08-29 | [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026) |
 | Robert Fico | ✅ pozitivní | Chválen za projev na oslavách SNP: „bez Ruska není mír v Evropě", nacismus „zůstal v hlavách lidí" | 2026-08-29 | [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026) |
+| Petr Hájek | ❌ negativní | Novinář Protiproud — dlouholeté propojení s ODS a Václavem Klausem, bezplatně zastupován Rajchlem od 2022, což vysvětluje jeho kampaň proti Vrabelovi | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
+| Korina Rybářová | ✅ pozitivní | Veřejně reagovala na Hájkovu kampaň a obhájila Vrabela | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
+| Ivan David | ❌ negativní | Šíří obvinění, že Vrabel je agentem BIS | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
+| Kateřina Konečná | ❌ negativní | Označena za průkopnici techniky „řízené nenávisti" — kampaň „anti-Fiala" před volbami 2025 | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
+| Zuzana Majerová | ❌ negativní | Prohlásila odstranění Petra Fialy/Pavla za „nejvyšší prioritu" — příklad schématu „anti-Pavel" | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
+| Richard Štěpán | ⚖️ rozporuplný | Organizátor demonstrace KSČM 5. 9. — Vrabel podporuje akci, ale odmítá jeho rámování Pavla jako „militantního" | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
 
 ---
 
@@ -1419,3 +1433,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
 - [Facebook Live (28. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
 - [Facebook Live (29. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+- [Facebook Live (30. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)

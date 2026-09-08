@@ -545,7 +545,9 @@ Dvojí metr rozvádí **2. 7. 2026** srovnáním se zprávou, že čeští obča
 
 > „Naopak za trestný čin byl odsouzený Ladislav Vrabel za to, že [...] zaškrtl kolonku, že ty firmy jsou bezdlužné vůči státu. [...] Ale vyvážet zbraně bez povolení do cizí země [...] to je v České republice naprostá pohoda." — Ladislav Vrabel, [Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026)
+**30. 8.** — Nová vlna smear kampaně tentýž případ znovu přerámovává jako „daňové podvody" — viz rozšířená reakce v [politicky-system.md](politicky-system.md#rekonstrukce-václavského-náměstí-jako-záměrné-znemožnění-demonstrací--vlastní-perzekuce-po-roce-2022-vrabel-2-8-2026).
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026), [Vrabel — Facebook Live 30. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
 
 ---
 
