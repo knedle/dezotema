@@ -68,6 +68,14 @@ Video sdílené Lenkou Tarabovou (text čte René Kanský) mapuje strukturu spol
 
 ---
 
+### Zásah do komunálních voleb v Liberci — selektivní výběr kandidátů na debatu (Tarabová, 2. 9. 2026)
+
+Tarabová kritizuje Milion chvilek pro demokracii za organizaci předvolební besedy s kandidáty na primátora Liberce (17. 9. 2026), na kterou z 11 kandidujících subjektů pozvali jen 7 — její stranu PRO (kde sama kandiduje na primátorku) vynechali s odůvodněním výsledků komunálních voleb 2022. Namítá, že to je nekonzistentní: PRO v roce 2022 byla zcela nová, mediálně neznámá strana, zatímco mezi pozvanými jsou uskupení, která v tomto konkrétním složení v roce 2022 vůbec nekandidovala — „Lepší Liberec" (vzniklo kolem exstarosty Bratislavic Lukáše Pohanky) a „Liberecká devítka" (společná kandidátka TOP 09 a KDU-ČSL, v roce 2022 kandidující jako součást vítězné koalice se Starosty). Uzavírá otázkou, proč se politická nezisková organizace vůbec angažuje v komunálních volbách.
+
+**Zdroje:** [Tarabová — Videoportál 2. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-2-9-2026)
+
+---
+
 ### Letná 2026: odhad 10 milionů Kč — kdo za Mináři skutečně stojí
 
 Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letné stála v řádu deseti milionů Kč: jenom pronájem a instalace jedné velkoformátové obrazovky plus kilometry kabelů by k tomuto číslu snadno dospěly. Z toho vyvozuje, že Minář sám toto financovat nemohl a za ním musí stát politické neziskovky — jako nejpravděpodobnějšího sponzora označuje Šimona Pánka z Člověka v tísni. Demonstraci interpretuje nikoliv jako spontánní občanský protest, ale jako politický vzkaz Andreji Babišovi, jehož výhru ve volbách tyto organizace považují za existenční hrozbu.

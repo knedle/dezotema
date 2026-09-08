@@ -19,6 +19,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 ### [FARA a neziskovky](../fara-neziskovky.md)
 - ANO nezjišťuje zahraniční financování neziskovek — [ANO nechává neziskovky (23. 3.)](../_zdroje.md#lenka-tarabová--ano-nechává-neziskovky)
 - Milion chvilek — hierarchie, skrytý účet, napojení na neziskový sektor — [Chvilkařská chobotnice (27. 3.)](../_zdroje.md#lenka-tarabová--chvilkařská-chobotnice)
+- **2. 9.** — Milion chvilek selektivně vynechal její stranu PRO z debaty kandidátů na primátora Liberce — [Videoportál 2. 9.](../_zdroje.md#lenka-tarabová--videoportál-2-9-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
 - Comirnaty nebyla testována na karcinogenitu (svědectví šéftoxikologa Pfizer Europe) — [Vakcinační genocida (23. 3.)](../_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog)
@@ -125,3 +126,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál (28. 7. 2026)](../_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
 - [Videoportál: kauza Peková, zlatý věk (20. 8. 2026)](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
 - [Videoportál (1. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-1-9-2026)
+- [Videoportál (2. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-2-9-2026)

@@ -4477,6 +4477,13 @@
 - **Datum záznamu:** 2026-09-02
 - **Zpracováno:** ano
 
+## Lenka Tarabová — Videoportál (2. 9. 2026) {#lenka-tarabová--videoportál-2-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-02_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=4005782376395196&_rdr>
+- **Datum záznamu:** 2026-09-02
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (2. 9. 2026) {#jindřich-rajchl--videoportál-2-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-02_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl
