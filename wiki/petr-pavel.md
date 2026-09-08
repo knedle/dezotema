@@ -538,3 +538,11 @@ Rajchl ostře kritizuje nedělní rozhovor Petra Pavla s Petrem Kováčem na CNN
 **Zdroje:** [Restart Česko — Videoportál 2. 9. 2026](_zdroje.md#restart-česko--videoportál-2-9-2026)
 
 ---
+
+### Satirický postřeh: Pavel prý „kopíruje" mluvu Petra Koláře (Vrabel, 3. 9. 2026)
+
+Vrabel si všímá, že bezpečnostní poradce Petr Kolář má nápadně podobný způsob mluvy (tón, „vrčení") jako prezident Petr Pavel, a žertem usuzuje, že se tomu Pavel od Koláře naučil — přirovnává to k epizodě seriálu Dr. House, kde pacient trpěl nemocí napodobování okolí. Zasazuje to do širší, opakované teze o Pavlovi jako „kopírce": jako rozvědčík kopíroval Sovětský svaz, v NATO kopíroval NATO, a nyní kopíruje Koláře.
+
+**Zdroje:** [Vrabel — Facebook Live 3. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+
+---

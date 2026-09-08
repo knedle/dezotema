@@ -951,6 +951,21 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Konspirační teorie](../konspirace.md) (pokrač. 10)
 - **2. 9.** — Palantir/Karp/Thiel/Musk — technokratická elita, DARPA/Google, protesty sester proti Palantiru v USA — [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
 
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 16)
+- **3. 9.** — Macinkovo předvolání ruské velvyslankyně kvůli Halle jako ponižující gesto; dvojí metr (české drony/rakety na ruská letiště = terorismus); aféra s Pšenákovou pastí (falešný rozhovor, makety zbraní/výbušniny) — [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 7)
+- **3. 9.** — konec zlatého standardu 1971, znehodnocení dolaru (3 % původní hodnoty), „plundrování" (Catherine Austin Fitts), doporučení nedržet peníze v bankách — [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+
+### [Kauzy a korupce](../kauzy.md) (pokrač. 5)
+- **3. 9.** — Národní fond obnovy: 40 % na Green Deal, 20 % na digitalizaci místo odškodnění zkrachovalých živnostníků po covidu — [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 11)
+- **3. 9.** — oznámení petice za referendum o vystoupení z EU (obchází zákaz témat EU/NATO v chystaném zákonu o referendu) — [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+
+### [Petr Pavel](../petr-pavel.md) (pokrač. 2)
+- **3. 9.** — satirický postřeh, že Pavel „kopíruje" mluvu Petra Koláře (přirovnání k Dr. House) — [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1362,6 +1377,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Petr Macinka | ❌ negativní | Odjel na státní návštěvu Německa ve výročí 2. sv. války místo požadování reparací — označeno za jednu z největších politických ostud | 2026-09-02 | [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026) |
 | Alex Karp | ❌ negativní | Ředitel Palantiru — investuje do nové ukrajinské obranné firmy s Fedorovem; propojen s CIA, Thielem a Muskem jako součást technokratické elity | 2026-09-02 | [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026) |
 | Aleksandar Vučić | ✅ pozitivní | Hostil setkání hnutí nezúčastněných zemí v Bělehradě, obhajoval vojenskou suverenitu a multilateralismus | 2026-09-02 | [Facebook Live 2. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026) |
+| Petr Macinka | ❌ negativní | Předvolal si ruskou velvyslankyni kvůli Halle (ponižující gesto vůči „velké" zemi); zapleten do trapné aféry — na falešný rozhovor s aktivistou Pšenákem přišel s odhalenými maketami zbraní/výbušniny | 2026-09-03 | [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026) |
+| Vojtěch Pšenák | ○ neutrální | Aktivista, který pod falešnou identitou „Tomáš Paucner" vylákal Macinku na schůzku; podle Vrabela zkoušel podobný trik i na něm samotném (listopad 2024) | 2026-09-03 | [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026) |
+| Petr Kolář | ⚖️ rozporuplný | Satiricky zmíněn jako vzor, od kterého se Pavel „naučil" svůj řečnický styl | 2026-09-03 | [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026) |
+| Petr Pavel | ❌ negativní | Satirický postřeh, že „kopíruje" mluvu Petra Koláře stejně jako dřív kopíroval SSSR a NATO | 2026-09-03 | [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026) |
 
 ---
 
@@ -1486,3 +1505,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (31. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 - [Facebook Live (1. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
 - [Facebook Live (2. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
+- [Facebook Live (3. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)

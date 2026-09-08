@@ -1027,3 +1027,15 @@ Rajchl kritizuje rozsudek krajského soudu, který Ukrajinci Alexandrovi Majdan�
 **27. 8.** — Černohorský podává aktualizaci: dva oslovení právníci případ odmítli převzít (jeden měl podle něj lhát a maskovat vlastní alibi e-maily, druhý přestal komunikovat úplně) — v jednání je nyní další, třetí právní kancelář, se kterou se „Tereska" již sešla. Vyjadřuje přesvědčení, že spor nakonec vyhrají díky podpoře diváků a členů spolku Čest Svoboda Respekt, kteří přispívají na transparentní účet.
 
 **Zdroje:** [Černohorský — Facebook Live 17. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026), [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+
+---
+
+## Národní fond obnovy — 40 % na Green Deal místo odškodnění zkrachovalých živnostníků (Vrabel, 3. 9. 2026)
+
+### Stát odmítl odškodnit firmy zničené covidem, fond na obnovu šel jinam
+
+Vrabel popisuje vlastní zkušenost z doby covidu: jako právník se dotazoval ministerstva (financí, nebo průmyslu), zda stát nahradí škody firmám zavřeným kvůli restrikcím, a dostal písemné vyjádření šéfa právního oddělení, že stát žádné škody vyplácet nebude — místo toho se měly vypisovat dílčí dotační programy. Ke svým žádostem o takovou dotaci byl následně (podle svých slov) odsouzen, protože v žádosti čestně zaškrtl bezdlužnost firem, ačkoli ty ve skutečnosti dlužily na sociálním a zdravotním pojištění (protože v té době musely přednostně platit jiné závazky). Jako konkrétní příklad dopadu uvádí přátele z Českých Budějovic, kteří si těsně před covidem otevřeli obchod s oblečením, po zavření podniku se zadlužili a museli odjet pracovat do Rakouska (jeden dodnes, druhá si při manuální práci zničila záda) — stát se k nim podle Vrabela nikdy nepostavil, přestože o žádnou pomoc ani nežádali.
+
+Klíčovým bodem kritiky je Národní fond obnovy, který měl být určen k nastartování ekonomiky poškozené covidem. Podle Vrabelova zjištění šlo 40 % prostředků fondu na „zelenou tranzici" (Green Deal) a 20 % na digitalizaci (datová centra, sledování občanů) — místo skutečné pomoci zkrachovalým malým a středním podnikatelům, kteří byli podle něj hlavními poškozenými. Fond si mezitím na svůj provoz dále půjčuje (aktuální dluh fondu odhaduje na výrazně přes 200 mld. Kč). Uzavírá, že velcí podnikatelé jako Andrej Babiš si vždy dokážou pomoci sami, zatímco malí živnostníci zůstali bez odškodnění.
+
+**Zdroje:** [Vrabel — Facebook Live 3. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
