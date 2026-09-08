@@ -111,7 +111,9 @@ Jiří Černohorský opakovaně shrnuje propojení prezidenta Petra Pavla s Land
 
 Černohorský tyto kroky označuje za části jediného plánu: Landsmannschaft + Lichtensteinové + EU superstat + ztráta veta = systematické podkopávání české suverenity.
 
-**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026)
+**31. 8.** — Černohorský opakuje totéž propojení (veto, Lichtensteinové, Landsmannschaft/Posselt) beze změny a rámuje ho jako „velezradu" — doprovázeno extrémní rétorikou vůči Pavlovi i poradci Petru Kolářovi včetně opakované výzvy k obnovení trestu smrti (→ [stochastický teror](stochasticky-teror.md)).
+
+**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 
 ---
 
@@ -519,6 +521,8 @@ Zítko nabízí vlastní, od Vrabelovy odlišnou verzi revizionistického výkla
 
 Rajchl ostře kritizuje nedělní rozhovor Petra Pavla s Petrem Kováčem na CNN Prima News, který označuje za „tragikomedii" plnou hlouposti, prázdnoty a „argumentační zoufalosti" — kdyby to viděl na internetu bez kontextu, myslel by si, že jde o AI generované video. Za nejtragičtější považuje Pavlovo vyjádření ke zdravotnictví: prezident řekl, že ČR má příliš mnoho nemocnic a příliš mnoho přístrojů (magnetické rezonance), a navrhl jejich počet snížit. Rajchl to označuje za odtržené od reality lidí, kteří čekají na vyšetření magnetickou rezonancí i tři měsíce a na operace kloubů (kyčel, koleno) i přes rok v bolestech. Staví proti tomu vlastní program „přesně obráceně": posílení počtu zdravotních sester a lékařů (mj. návrat k dostatečnosti čtyřletého středoškolského vzdělání pro všeobecnou sestru bez nutnosti dalších nástaveb, vyšší platy), a systém školného a stipendií pro strategické obory (medicína, právo, ekonomie, technika) — stát zaplatí studium (u medicíny odhaduje náklad 5–6 mil. Kč) nejlepším studentům podle výsledků přijímaček, výměnou za závazek minimálně 10 let pracovat v ČR, jinak musí stipendium splatit; obory jako „genderová a klimatická studia" si mají studenti platit sami. Argumentuje, že to sníží odchody čerstvých absolventů do zahraničí (po 5–10 letech v ČR už si člověk obvykle založí rodinu a zůstane) a zmírní závislost zdravotnictví na zahraničním personálu — kritizuje jazykovou bariéru ukrajinských zdravotních sester zejména v psychiatrii, kde je verbální porozumění pacientovi klíčové.
 
-**Zdroje:** [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
+**31. 8.** — Černohorský reaguje na totéž vyjádření Pavla o přebytku nemocnic/přístrojů extrémně ostře (viz [stochastický teror](stochasticky-teror.md)) a dokládá kontrast konkrétním případem: jeho platforma Společenství Čest Svoboda Respekt v únoru 2026 na žádost člena finančně pomohla muži s rakovinou krku/hrtanu — dnes mu posílá fotky, jak tráví čas s vnučkou. Kritizuje průměrné čekací doby na vyšetření magnetickou rezonancí (odhaduje 3–4 měsíce) i na operaci kyčle (uvádí konkrétní případ čekání přes dva roky) jako důkaz, že Pavlův návrh na snížení kapacit je odtržený od reality lidí, kterým on sám dokáže pomoci adresně.
+
+**Zdroje:** [Rajchl — Facebook Live 30. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 
 ---

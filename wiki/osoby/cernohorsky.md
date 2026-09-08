@@ -26,6 +26,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **29. 8.** — Přesný mechanismus výpočtu platové základny (101 364→106 433 Kč, zákon 236/1995 a 57/2025) a koeficientu; srovnání se socialistickým Československem (armáda 5–10 % HDP vs. dnešní 2 %, vyrovnaný rozpočet vs. 4 biliony dluhu); návrhy zrušit daň z nemovitosti, Senát (přes referendum), daň z příjmu fyzických osob a dotace solárním baronům, místo toho zdanit banky/korporace/Big Tech; kritika výpočtu invalidního důchodu — [Facebook Live 29. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-29-8-2026)
 - **28. 8.** — Vlastní politická vize „Čest Svoboda Respekt" (decentralizované buňky, celostátní referendum); federativnější uspořádání ČR (Morava/Slezsko ve vlajce); kritika mechanismu petic; rekapitulace vlastních aktivit (Koněv, demonstrace u Úřadu vlády, blokace Istanbulské úmluvy) — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 - **28. 8.** — Kritika Petra Pavla — vlajka, drahé vstupenky (5000 Kč), opakovaná narážka na plat — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) → [petr-pavel.md](../petr-pavel.md)
+- **31. 8.** — Opakuje beze změny propojení Landsmannschaft/Lichtensteinové/veto jako „velezradu" (viz [petr-pavel.md](../petr-pavel.md)); kritika Pavlova návrhu na snížení počtu nemocnic — kontrast s adresnou pomocí lidem přes vlastní platformu → [petr-pavel.md](../petr-pavel.md)
+- **31. 8.** — Poslanecké vedlejší příjmy ze souběhu funkcí (Skopeček, Fiala, Richterová aj., celkem ~94 mil. Kč za 20 poslanců) — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+- **31. 8.** — Podpora Robina Čumpelíka, kritika „vlastenecké scény" (Příčovy) a vlastních diváků za slepé tleskání politikům — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+- **31. 8.** — Rozšíření vize „Čest Svoboda Respekt" — princip kolektivního rozhodování (370+ členů), konkrétní příklady adresné charitativní pomoci — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -136,6 +140,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - „Boreček" (DPP) — „rozbíjí rypák, v nějakým tom kleši" — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 - ⚡ „Židé"/globální elity dehumanizováni jako strůjci genocidní „pomsty" (laviny v Nepálu) — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - Zbyněk Stanjura — výzva k dlouhému vězení a cíleně nízkému důchodu (15 000 Kč) — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+- Petr Pavel — dehumanizace jako „vřed k vypálení" + obnovená výzva k trestu smrti/oběšení za „velezradu" — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+- Petr Kolář (poradce prezidenta) — sexualizovaná dehumanizace + výzva k popravě oběšením — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 
 ---
 
@@ -258,6 +264,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Zbyněk Stanjura | ❌ negativní | Terč výzvy k dlouhému vězení a cíleně nízkému důchodu (15 000 Kč) v souvislosti s odpovědností za státní dluh | 2026-08-28 | [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) |
 | Markéta Pekarová Adamová | ❌ negativní | Nová přezdívka „kosočtverec bez čárky" nahrazující dřívější vulgární označení | 2026-08-28 | [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) |
 | Petr Pavel | ❌ negativní | Kritizován za použití státní vlajky při startu závodu; drahé vstupenky (5000 Kč) na veřejné setkání; opakovaná narážka na neschopnost „uživit manželku" | 2026-08-28 | [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026) |
+| Petr Pavel | ❌ negativní | Opakovaná kritika (veto, Lichtensteinové, Landsmannschaft) rámovaná jako „velezrada"; extrémní rétorika včetně obnovené výzvy k trestu smrti (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-31 | [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026) |
+| Petr Kolář | ❌ negativní | Sexualizovaná dehumanizace + výzva k popravě oběšením v souvislosti s Pavlovou zahraniční politikou (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-31 | [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026) |
+| Robin Čumpelík | ✅ pozitivní | Chválen za video kritizující proměnu vlasteneckého setkání v Příčovech na pouhou přehlídku politiků | 2026-08-31 | [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026) |
+| Jan Skopeček | ❌ negativní | Vedlejší příjem 5 174 087 Kč za rok 2025 ze souběhu více funkcí — kritizován jako střet zájmů | 2026-08-31 | [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026) |
 
 ---
 
@@ -310,3 +320,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: mikroklima solárů a větrníků (23. 8. 2026)](../_zdroje.md#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026)
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - [Facebook Live (28. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+- [Facebook Live (31. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)

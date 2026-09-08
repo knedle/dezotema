@@ -4414,6 +4414,13 @@
 - **Datum záznamu:** 2026-08-30
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Facebook Live (31. 8. 2026) {#jiří-černohorský--facebook-live-31-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-31_Jiří-Černohorský-Živě_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský Živě
+- **URL:** <https://www.facebook.com/100085862388850/videos/1618166170100577>
+- **Datum záznamu:** 2026-08-31
+- **Zpracováno:** ano
+
 ## Lenka Tarabová — Videoportál (1. 9. 2026) {#lenka-tarabová--videoportál-1-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-01_Lenka-Tarabová_Videoportál.txt)
 - **Kanál:** Lenka Tarabová

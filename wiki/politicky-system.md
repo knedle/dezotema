@@ -1022,6 +1022,10 @@ V reakci na vlastní téma šetření státního rozpočtu Černohorský podrobn
 
 **Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026)
 
+**31. 8.** — V reakci na článek Aktuálně.cz (reagující na jeho předchozí video) Černohorský rozebírá konkrétní vedlejší příjmy jednotlivých poslanců za rok 2025 plynoucí ze souběhu více funkcí: Jan Skopeček (ODS) 5 174 087 Kč, Petr Fiala 5 048 333 Kč, Marian Jurečka cca 4 066 000 Kč, místopředsedkyně Sněmovny Olga Richterová cca 4 343 981 Kč (přepočteno na cca 434 tis. Kč měsíčně), Markéta Pekarová Adamová 4 223 000 Kč, Radek Vondráček (dvě funkce) 4 178 000 Kč, Aleš Juchelka 4 141 000 Kč a Patrik Nacher (tři funkce) 4 120 000 Kč — celkem odhaduje, že těchto 20 nejlépe vydělávajících poslanců stálo stát cca 94 mil. Kč. Kritizuje zejména souběh poslaneckého mandátu s členstvím v dozorčích radách jako střet zájmů, který by měl být okamžitě zakázán — srovnává se staršími případy vícenásobných funkcí (Michal/Ivan Hašek za ČSSD, poslanec Hrnčíř za SPD).
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+
 ---
 
 ### Vlastní politická vize „Čest Svoboda Respekt" — decentralizované společenství místo politiky (Černohorský, 28. 8. 2026)
@@ -1030,7 +1034,17 @@ V reakci na vlastní téma šetření státního rozpočtu Černohorský podrobn
 
 Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na sundání ukrajinské vlajky ze sochy maršála Koněva, dvoudenní shromáždění před Úřadem vlády (které mělo přispět k tomu, že vláda nepodepsala jeden ze dvou Globálních kompaktů OSN o migraci), a spolu se Zdeňkem Chytrým podíl na zablokování zákona „manželství pro všechny" a Istanbulské úmluvy — v této souvislosti opakuje odmítání adopce dětí homosexuálními páry.
 
-**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+**31. 8.** — Černohorský zdůrazňuje princip kolektivního rozhodování ve společenství (dnes 370+ členů, funguje od roku 2022): tvrdí, že s výjimkou jednoho jediného případu nikdy sám nerozhodl o žádném návrhu — o všem hlasují členové. Uvádí konkrétní příklady adresné pomoci financované společenstvím: v únoru 2026 pomohli muži s rakovinou krku/hrtanu na žádost jiného člena; nabízí, že by obdobně profinancoval elektrický (místo ručního) invalidní vozík konkrétnímu muži a pronajal na desítky let stánek nezaměstnané kamarádce s psychickými problémy, aby mohla prodávat vlastní ruční práce. Tvrdí, že když se sejde dostatečný počet lidí (odhaduje potřebu cca 400 000, tedy „autobus" organizovaných lidí), dokážou vyvinout na politiky reálný tlak, který samotné demonstrace nebo petice nedokážou.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+
+---
+
+### Podpora Robina Čumpelíka — kritika „vlastenecké scény" (Příčovy) a vlastních diváků za slepé tleskání politikům (Černohorský, 31. 8. 2026)
+
+Černohorský vyjadřuje uznání komentátorovi Robinu Čumpelíkovi za video kritizující proměnu vlasteneckého setkání v Příčovech — souhlasí s tezí, že akce přestala být o skutečné alternativě a odvaze a stala se jen přehlídkou politiků (explicitně jmenuje Tomia Okamuru jako někoho, kdo tam „nemá co pohledávat"). Ostře napadá vlastní diváky, kteří podle něj „37 let" bezmyšlenkovitě tleskají politikům bez ohledu na jejich skutky — konkrétně vyčítá, že jim nevadí pokračující zbrojení a financování Ukrajiny pod ministerstvem obrany vedeným SPD, setrvání Adama Vojtěcha ve funkci ani to, že Andrej Babiš u covidu jen přiznal „udělali jsme chybu" bez skutečné nápravy (žádá zřízení odškodňovacího fondu). Obviňuje část svého publika z pokrytectví — kdyby cokoliv podobného udělal politik, kterého nemají rádi, okamžitě by ho odsoudili, ale u „svých" oblíbenců totéž mlčky přecházejí.
+
+**Zdroje:** [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 
 ---
 
