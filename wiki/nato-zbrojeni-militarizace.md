@@ -784,6 +784,10 @@ Německý ministr obrany Boris Pistorius při návštěvě zbrojovky KNDS „nec
 
 **Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
 
+**1. 9.** — Ministr obrany Jaromír Zůna (SPD) v rozhovoru pro EUACTIV potvrdil, že „česká muniční iniciativa bude pokračovat tak dlouho, jak bude Ukrajina potřebovat pomoc" — letos má dodat zhruba milion kusů 155mm dělostřelecké munice za 5 mld. eur (iniciativa od založení v roce 2024 dodala kumulativně přes 4,3 mil. kusů). Vrabel to komentuje sarkastickým „poděkováním" celé vládní koalici (SPD, Trikolóra, Svobodní, ANO i Motoristé — ministr zahraničí Macinka navíc poslal 140 mil. Kč do programu PURL) za to, že navzdory předvolebním slibům zrušení iniciativy v ní ČR pokračuje „svým jménem" — na rozdíl od zemí, které dodávky munice raději neveřejní, protože se obávají ruské odvety. Připomíná, že current vláda je v tomto ohledu podle něj „mnohem horší" než ta předchozí, protože lhala o úmyslu iniciativu zrušit, zatímco Fialova vláda byla otevřeně proruská.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026), [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
 ---
 
 ### Německo jako logistický uzel NATO — teorie o plánované výměně obyvatel Evropy (Vrabel, 15. 8. 2026)

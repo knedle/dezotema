@@ -4442,6 +4442,13 @@
 - **Datum záznamu:** 2026-09-01
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Facebook Live (1. 9. 2026) {#ladislav-vrabel--facebook-live-1-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-01_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1782270146299075>
+- **Datum záznamu:** 2026-09-01
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Videoportál (2. 9. 2026) {#jindřich-rajchl--videoportál-2-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-02_Jindřich-Rajchl_Videoportál.txt)
 - **Kanál:** Jindřich Rajchl

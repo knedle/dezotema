@@ -424,7 +424,9 @@ Rajchl klade za hlavní příčinu ekonomického zaostávání ČR neschopnost d
 
 Vrabel vysvětluje právo veta jako základní nástroj suverenity: kterýkoli z 27 členských států může zablokovat rozhodnutí poškozující jeho zájmy (jako příklad uvádí, že Babiš mohl vetovat půjčku 90 mld. EUR pro Ukrajinu). Jeho zrušení (přechod na rozhodování kvalifikovanou většinou) by podle Vrabela znamenalo konec ČR jako suverénního státu — malá země by neměla prakticky žádný hlas a EU by jí mohla nařídit cokoli (migrační pakt, „fašistický model prokuratury", i přejmenování země). Lidi prosazující zrušení veta označuje buď za skorumpované globalistickými strukturami, nebo (s odkazem na Martina Konvičku) za „sexuálně frustrované" se submisivně-masochistickými sklony.
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)
+**1. 9.** — Vrabel navazuje na zprávu, že 11 členských zemí EU (Rakousko, Dánsko, Belgie, Finsko, Francie, Německo, Lucembursko, Nizozemsko, Rumunsko, Španělsko, Švédsko) v dopise šéfce unijní diplomacie Kaji Kallasové vyzvalo k přechodu na hlasování kvalifikovanou většinou v části zahraniční politiky (tzv. přemosťovací doložka, čl. 31 SEU). Tvrdí, že právo veta je fakticky již mrtvé, protože klíčová rozhodnutí (Green Deal, migrační pakt) byla schválena předchozími vládami a dnešní vláda už je nemůže zvrátit — pouze u budoucích rozhodnutí ještě formálně veto zůstává, než ho i tam zruší. Přirovnává EU k partě přátel, do které náhle přibyl „šestý člen", jenž si nárokuje rozhodovat za všechny — a jedinou obranou je vystoupení, protože bilaterální dohody o volném obchodu by fungovaly i bez členství (naopak volný pohyb osob dle něj přestal dávat smysl kvůli přijímání migrantů z islámských zemí).
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026), [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
 
 ### ETS2: zastropování na 45 EUR je lež — zrušit emisní povolenky (Rajchl, 11. 6. 2026)
 

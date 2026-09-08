@@ -537,7 +537,9 @@ Turecký prezident Erdoğan na summitu NATO v Ankaře vyjádřil podporu pokrač
 
 **8. 8.** — Turecko omezuje plavbu obchodních lodí přes Dardanely do Černého moře kvůli rostoucím obavám z útoků v oblasti (mj. zásah turecké lodi u Oděsy, podle Vrabela pravděpodobně ukrajinského původu). Vrabel to dává do souvislosti s vlastním obědovým rozhovorem s kyperským bankovním zástupcem o tureckém obsazení severního Kypru (40 000 vojáků) a s čerstvou tureckou obrannou dohodou se Saúdskou Arábií a Pákistánem — Turecko popisuje jako druhou největší pozemní armádu NATO a „velmi nebezpečnou zemi pro Evropu" díky silné turecké komunitě/„páté koloně" v Rakousku a Německu.
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026)
+**1. 9.** — Ke zprávě o neformálním setkání Erdogana s Putinem a Lukašenkem na okraji summitu Šanghajské organizace pro spolupráci (jednali i o válce na Ukrajině, bezpečnosti v Černém moři a hospodářské spolupráci) Vrabel opakuje tezi o Turecku jako klíčovém geopolitickém hráči „napůl cesty" mezi konfliktem v Íránu a na Ukrajině — nově s odkazem na čerstvě podepsanou tureckou-saúdskoarabsko-pákistánskou obrannou dohodu („první muslimská jaderná aliance", sekretariát v Rijádu) rozvádí tezi o „páté koloně": pokud by došlo k širšímu konfliktu, Erdogan by podle něj mohl nasadit silnou tureckou komunitu v Německu a Rakousku k odzbrojení místní policie, což by dané země mohly mít problém ustát.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026), [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
 
 ---
 
@@ -1089,7 +1091,9 @@ Ke zprávě o úmrtí bývalého bosensko-srbského generála Radka Mladiće (84
 
 K agenturní zprávě, že německá vláda (kancléř Friedrich Merz) připravuje nová opatření proti ruským subjektům (reakce mj. na srpnový incident s dronem u letiště Halle) a že se souběžně v Bruselu chystá další sankční balík EU, Vrabel poznamenává, že Rusko už dříve ústy Marie Zacharovové a Sergeje Lavrova avizovalo, že eskalující zapojení Británie do konfliktu je jen otázkou času, než na ni Rusko zareaguje stejným způsobem — a že Německo teď nechce zůstat pozadu. K incidentu v Halle dodává vlastní spekulaci: šlo o letadlo naložené zbraněmi, u kterého byl nalezen a zneškodněn dron/výbušnina — připouští, že mohlo jít o ruský pokus zničit zbraně mířící na ruské území, ale stejně tak o „false flag" operaci pod cizí vlajkou, kterou si Němci zinscenovali, aby ukázali útok Ruska na jejich letadlo. Zároveň upozorňuje na politický kontext v pozadí — blížící se zemské volby v jedné ze spolkových zemí (podle něj v Sasku), kde má vyhrát AfD, a snahu ostatních stran a spolkové vlády tomu zabránit, což označuje za popření demokracie.
 
-**Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+**1. 9.** — Vrabel rozšiřuje pozorovaný vzorec o dva nové případy obviňování Ruska bez důkazů: německá vláda (ministr vnitra Alexander Dobrindt) oficiálně označila Rusko za viníka srpnového pokusu o útok na letiště v Halle i sabotáže elektrárny Jänschwalde v Braniborsku (provozuje ji společnost LEAG, patřící do skupiny EPH českého podnikatele Daniela Křetínského) — s odůvodněním, že to „zapadá do scénáře ruských hybridních operací", tedy bez toho, aby proběhlo dokazování a odsouzení jako u klasického trestního činu. Podobně v Polsku vyšetřují požár v továrně VB Electronics (vyrábí komponenty pro drony pro polskou a ukrajinskou armádu) po zadržení maskované osoby, která přelezla plot — vyšetřování zatím vinu nepotvrdilo, ale Vrabel předjímá, že k tomu dojde ze stejného politického, nikoli důkazního důvodu. Spojuje to se svou tezí, že druhá světová válka (jejíhož 87. výročí zahájení — 1. 9. 1939 — si dnes připomínáme) také nezačala „jeden den", ale byla roky připravována propagandou vytvářející nenávist k nepříteli (tehdy k Židům/Německu, dnes k Rusku) — a že třetí světová válka již podobným způsobem probíhá, jen to zatím není takto pojmenováno.
+
+**Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026), [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
 
 ---
 

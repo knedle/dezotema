@@ -924,6 +924,22 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **31. 8.** — Friedrich Merz jako „nový Hitler" řízený BlackRockem — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 - **31. 8.** — 163 nalezených dětí na Floridě jako důkaz obchodu s dětmi/Deep State — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 
+### [Větrné elektrárny](../vetrniky.md) (pokrač. 4)
+- **1. 9.** — akcelerační zóny schváleny navzdory slibu zrušit Green Deal (66 turbín Zlínsko/Olomoucko, 50+ ve Slezsku) — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 11)
+- **1. 9.** — daň z nemovitosti pro vlastníky více nemovitostí jako „salámová metoda" zdaňování — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 9)
+- **1. 9.** — muniční iniciativa pokračuje „dokud bude Ukrajina potřebovat" (Zůna/SPD), sarkastické poděkování celé koalici — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 10)
+- **1. 9.** — právo veta v EU fakticky již zrušeno — 11 zemí žádá rozšíření hlasování kvalifikovanou většinou — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 15)
+- **1. 9.** — Erdogan/Turecko jako „pátá kolona" v Německu/Rakousku (setkání s Putinem/Lukašenkem na ŠOS) — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+- **1. 9.** — nová obvinění Ruska bez důkazů (Halle, elektrárna Jänschwalde, polská továrna VB Electronics) — paralela s postupnou přípravou 2. světové války — [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1328,6 +1344,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Richard Štěpán | ⚖️ rozporuplný | Organizátor demonstrace KSČM 5. 9. — Vrabel podporuje akci, ale odmítá jeho rámování Pavla jako „militantního" | 2026-08-30 | [Facebook Live 30. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026) |
 | Pavel Drobil | ❌ negativní | Místopředseda ODS — návrh investičního holdingu „Národ sobě" označen za český klon EU Savings and Investments a nástroj k vyvedení úspor občanů do zbrojní ekonomiky/soukromých kapes | 2026-08-31 | [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026) |
 | Friedrich Merz | ❌ negativní | Bývalý předseda představenstva BlackRock Deutschland — přirovnán k Hitlerovi jako loutce financované globalisty k vedení Německa do války | 2026-08-31 | [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026) |
+| Alena Schillerová | ❌ negativní | Návrh zdanit vlastníky více nemovitostí označen za „salámovou metodu" prosazování daňové agendy | 2026-09-01 | [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026) |
+| Recep Tayyip Erdoğan | ⚖️ rozporuplný | Setkání s Putinem/Lukašenkem na ŠOS — popsán jako klíčový geopolitický hráč, který by mohl nasadit tureckou „pátou kolonu" v Německu/Rakousku | 2026-09-01 | [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026) |
+| Daniel Křetínský | ❌ negativní | Jeho firma LEAG/EPH provozuje elektrárnu Jänschwalde, u níž Německo bez důkazů obvinilo Rusko ze sabotáže | 2026-09-01 | [Facebook Live 1. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026) |
 
 ---
 
@@ -1450,3 +1469,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (29. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
 - [Facebook Live (30. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
 - [Facebook Live (31. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+- [Facebook Live (1. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)

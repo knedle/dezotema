@@ -308,3 +308,11 @@ U Podštátu na Přerovsku se zřítila přibližně 30 metrů vysoká, 25–30 
 **Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 6. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-8-2026)
+
+---
+
+### Akcelerační zóny schváleny navzdory slibu zrušit Green Deal — 66 turbín na Zlínsku/Olomoucku (Vrabel, 1. 9. 2026)
+
+Vláda schválila akcelerační zóny pro obnovitelné zdroje, které mají urychlit povolování větrných elektráren — na pomezí Zlínského a Olomouckého kraje má vzniknout až 66 turbín, ve Slezsku je vyčleněno 6 lokalit pro více než 50 elektráren; starostové požadují místo stanovených 500 metrů odstup alespoň 1500 metrů a zvažují správní žalobu. Vrabel to označuje za podvod vlády, která před volbami slibovala Green Deal zrušit (ministr zahraničí prohlásil, že „klimatická krize skončila") — namísto rozvázání smlouvy s Bruselem a případného vystoupení z EU jen zmenšila akcelerační zóny, čímž se stejný počet turbín „nacpe" na menší plochu. Použitou přirovnávací metaforou (znásilnění, kde je jediným řešením „odmítnutí", nikoli vyjednávání o místě činu) ilustruje svůj obecný závěr, že s Evropskou unií jako celkem se „nedá vyjednávat" a jediná cesta je vystoupení.
+
+**Zdroje:** [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
