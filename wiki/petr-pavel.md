@@ -461,7 +461,9 @@ Rajchl ostře kritizuje projev Petra Pavla u budovy Českého rozhlasu při vzpo
 
 Šejna sdílí a doplňuje krátkým komentářem tentýž úryvek rozhovoru, v němž je Pavel konfrontován s pasáží ze svého ručně psaného životopisu z roku 1987 (viz výše) o vlivu léta 1968 a přátel ze Sovětského svazu na jeho tehdejší názory — na přímou otázku, zda tomu v roce 1987 věřil, Pavel odmítá odpovědět s tím, že šlo o „nějaký výklad ruské invaze". Šejna to uvádí slovy, že Pavel „bude vyvracet svá vlastní tvrzení", a uzavírá výzvou, aby ČR přestala do ústavních funkcí volit ty, kdo se nechali „vyškolit na rozvědčíka" a okrádali o tajné informace státy, které dnes nazývá spojenci — označuje to za „tragédii".
 
-**Zdroje:** [Restart Česko — Videoportál 23. 8. 2026](_zdroje.md#restart-česko--videoportál-23-8-2026)
+**30. 8.** — K nové zprávě, že Pavel nabídl premiérovi a ministrovi zahraničí koordinaci zahraniční politiky, Šejna opakuje tutéž tezi a doplňuje srovnání: pokud prezident argumentuje, že nejmenoval Filipa Turka ministrem kvůli jeho dřívějším (a nepotvrzeným) výrokům, sám by kvůli vlastní minulosti neměl mít právo do zahraniční politiky vůbec zasahovat — protože byl vyškolen jako rozvědčík a okrádal o tajné informace státy, které dnes označuje za spojence.
+
+**Zdroje:** [Restart Česko — Videoportál 23. 8. 2026](_zdroje.md#restart-česko--videoportál-23-8-2026), [Restart Česko — Videoportál 30. 8. 2026](_zdroje.md#restart-česko--videoportál-30-8-2026)
 
 ---
 

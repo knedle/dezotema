@@ -4407,6 +4407,13 @@
 - **Datum záznamu:** 2026-08-30
 - **Zpracováno:** ano
 
+## Restart Česko — Videoportál (30. 8. 2026) {#restart-česko--videoportál-30-8-2026}
+- **Soubor:** [přepis](prepisy/done/2026-08-30_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Česko (Adam Šejna)
+- **URL:** <https://www.facebook.com/61586055215179/videos/1792030455262382>
+- **Datum záznamu:** 2026-08-30
+- **Zpracováno:** ano
+
 ## Lenka Tarabová — Videoportál (1. 9. 2026) {#lenka-tarabová--videoportál-1-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-01_Lenka-Tarabová_Videoportál.txt)
 - **Kanál:** Lenka Tarabová
