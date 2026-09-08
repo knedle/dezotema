@@ -172,7 +172,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** 5–10 let (válka odhadem 2–3 roky v rámci tohoto období)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+**Zdroj:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026) (zopakováno beze změny)
 
 ---
 

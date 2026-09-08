@@ -816,4 +816,12 @@ Generální tajemník NATO Mark Rutte oznámil, že USA po jednání s náměstk
 
 **Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
 
+---
+
+### NATO není připraveno na válku s Ruskem — kritika velvyslance Koneckého (Vrabel, 29. 8. 2026)
+
+Český velvyslanec při NATO David Konecký prohlásil, že aliance je schopna okamžitě a účinně bránit každý kus svého území proti případnému ruskému útoku, byť rozsáhlý konflikt v nejbližších letech nepředpokládá. Vrabel to označuje za nesmysl a nazývá ho „psychopatem" (→ [stochastický teror](stochasticky-teror.md)): NATO podle něj nemá funkční protivzdušnou obranu (odkazuje na neschopnost sestřelovat i jen drony přelétávající nad územím EU) ani dostatek vojáků navzdory 550 milionům obyvatel Evropy. Poukazuje na ekonomickou neudržitelnost obrany proti levným dronům a raketám (vzlet stíhačky stojí čtvrt milionu eur, dron 10 tisíc eur) a na to, že proti ruským zbraním jako Buerevestnik, Sarmat, Kinžál nebo Orešnik nemá Aliance žádnou obranu. Zmiňuje také plánovanou továrnu na drony na Slovensku jako nebezpečnou eskalaci. Nabízí dvě možná vysvětlení pokračujícího zbrojení: buď jde (podobně jako v Orwellově „1984") o nástroj neustálé války k udržení kontroly nad vlastním obyvatelstvem skrze strach a ekonomický tlak, nebo o reálnou přípravu na válku s Ruskou federací — vzhledem k tomu, že se boje již přenesly na ruské území, přiklání se spíše k druhé variantě.
+
+**Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)

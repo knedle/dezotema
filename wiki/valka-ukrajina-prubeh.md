@@ -1069,3 +1069,11 @@ Bývalý německý generál a předseda vojenského výboru NATO Harald Kujat kr
 Podle agentury Reuters nařídil Volodymyr Zelenskyj armádě výrazně zvýšit počet útoků drony dlouhého doletu na cíle v Rusku — cílem je až 1000 úderů denně; útoky již přispěly k poklesu ruské produkce benzinu a problémům s dodávkami paliva. Vrabel to komentuje jako zoufalý krok: Ukrajina už podle něj nemá dostatek vojáků (mobilizace žen nebude vojenskou silou) ani protivzdušnou obranu, takže drony zůstávají jediným prostředkem boje. Očekává, že Rusko na podzim zahájí velkou ofenzivu a může zničit Zelenského režim, a vyjadřuje naději, že Rusko brzy získá od Číny technologie na dálkové rušení dronů, aby se omezily zbytečné civilní oběti — kritizuje pokračující zapojení ČR do „koalice ochotných" a muniční iniciativy.
 
 **Zdroje:** [Vrabel — Facebook Live 28. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+
+---
+
+### Ruský dronový útok na muniční sklad zabil 37 lidí — logický vojenský cíl (Vrabel, 29. 8. 2026)
+
+Podle agenturní zprávy zahynulo při nočním ruském dronovém útoku na sklad v ukrajinské obci Mila nejméně 37 lidí a dalších 42 bylo zraněno, evakuováno bylo přes 380 osob; poškozeno bylo nejméně 50 obytných budov včetně domova pro seniory. Zelenskyj uvedl, že ve skladu byly munice, drony a výbušniny, jejichž následné exploze rozšířily škody. Vrabel komentuje, že si nedokáže představit, že by Rusko neútočilo na muniční sklady a podobná zařízení, až se konflikt „rozjede víc", a varuje diváky žijící poblíž takových zařízení, aby s tím počítali.
+
+**Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)

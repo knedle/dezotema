@@ -1075,4 +1075,22 @@ Ke zprávě o úmrtí bývalého bosensko-srbského generála Radka Mladiće (84
 
 ⚡ **Poznámka:** Jde o revizionistický výklad srebrenického masakru (mezinárodně uznávaného jako genocida rozsudky ICTY) — zachyceno věcně jako Vrabelovo tvrzení, bez potvrzení z nezávislých zdrojů.
 
-**Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+**29. 8.** — Vrabel navazuje zprávou, že policie prověřuje vyjádření zástupce šéfredaktora Parlamentních listů Radima Panenky k Mladičově úmrtí — Panenka zpochybnil spravedlnost procesu a označil jeho odsouzení za výsledek „politizovaného tribunálu". Vrabel se staví na jeho stranu a srovnává Haagský tribunál s podobnými mezinárodními soudy, které podle něj slouží k perzekuci „antiglobalistických" politických oponentů. Nabízí vlastní teorii, proč musela být Jugoslávie rozbita: v 80. letech dávala coby vojensky neutrální stát dohromady další neutrální země (hnutí nezúčastněných, do NATO ani východního bloku), což podle Vrabela představovalo nebezpečný precedens — dnes prý stejnou roli hraje vojensky neutrální Srbsko, které pořádá obdobná setkání „nezúčastněných" zemí. Avizuje připravované video s advokátem Goranem Petronjevičem (obhájcem Miloševiće) reagující na rozhovor bývalého plukovníka americké armády Douglase McGregora, který měl veřejně pojmenovat konkrétní americké, německé a další důstojníky a politiky podílející se na rozbití Jugoslávie v 90. letech.
+
+**Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+---
+
+### Německo chystá tvrdší opatření proti Rusku — spekulace o „false flag" u incidentu v Halle (Vrabel, 29. 8. 2026)
+
+K agenturní zprávě, že německá vláda (kancléř Friedrich Merz) připravuje nová opatření proti ruským subjektům (reakce mj. na srpnový incident s dronem u letiště Halle) a že se souběžně v Bruselu chystá další sankční balík EU, Vrabel poznamenává, že Rusko už dříve ústy Marie Zacharovové a Sergeje Lavrova avizovalo, že eskalující zapojení Británie do konfliktu je jen otázkou času, než na ni Rusko zareaguje stejným způsobem — a že Německo teď nechce zůstat pozadu. K incidentu v Halle dodává vlastní spekulaci: šlo o letadlo naložené zbraněmi, u kterého byl nalezen a zneškodněn dron/výbušnina — připouští, že mohlo jít o ruský pokus zničit zbraně mířící na ruské území, ale stejně tak o „false flag" operaci pod cizí vlajkou, kterou si Němci zinscenovali, aby ukázali útok Ruska na jejich letadlo. Zároveň upozorňuje na politický kontext v pozadí — blížící se zemské volby v jedné ze spolkových zemí (podle něj v Sasku), kde má vyhrát AfD, a snahu ostatních stran a spolkové vlády tomu zabránit, což označuje za popření demokracie.
+
+**Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+---
+
+### Fico na oslavách SNP: „bez Ruska není mír v Evropě" — Vrabel souhlasí (29. 8. 2026)
+
+Robert Fico na oslavách 82. výročí Slovenského národního povstání prohlásil, že v Evropě nelze zajistit bezpečnost a mír bez Ruska, že EU potřebuje více diplomacie a méně zbraní a rusofobie a že nacismus „zůstal v hlavách lidí". Vrabel s ním souhlasí a odmítá představu EU jako „mírového projektu". V návaznosti opakuje ohlášení vlastního veřejného shromáždění 3. 10. na Malostranském náměstí (tentokrát ne přímo „za urovnání vztahů s Ruskou federací" jako minule, ale se stejným cílem) a chystaného dokumentu adresovaného Ruské federaci s ujištěním, že Česká republika s ní nechce konflikt.
+
+**Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)

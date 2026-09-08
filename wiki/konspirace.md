@@ -682,7 +682,9 @@ Vrabel tvrdí, že druhá světová válka nebyla především válkou proti Ži
 
 ⚡ **Poznámka:** Tvrzení o financování nacismu i dnešní ukrajinské vlády konkrétní židovskou rodinou/„hazarskými židy" je antisemitský konspirační topos; srov. [BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu](#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026).
 
-**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026)
+**29. 8.** — Vrabel rozvíjí tutéž tezi u zprávy, že americký ministr financí Scott Bessent ve svém příspěvku pro Financial Times o Teheránské konferenci (1943) zmínil jen Roosevelta a Churchilla a opomněl Stalina (na což upozornil až čtenář z Oxfordu). Vrabel to označuje za „nebetyčnou drzost" — zdůrazňuje, že o výsledku 2. světové války rozhodl především Sovětský svaz (bitva u Stalingradu), zatímco zásluhy Británie a USA jsou ve srovnání „zanedbatelné". Opakuje tezi, že šlo o „válku globalistů proti Slovanům", v níž bylo Německo jen „prostředníkem" financovaným globalisty — stejně jako je dnes prostředníkem Ukrajina — a že kdyby SSSR válku nevyhrál, globalisté by dnes ovládali i východní Evropu (Sovětský svaz), stejně jako už ovládají Spojené státy a západní Evropu.
+
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
 
 ---
 

@@ -881,6 +881,28 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Konspirační teorie](../konspirace.md) (pokrač. 7)
 - **28. 8.** — „Sušenky" z recyklovaného PET plastu jako budoucí potravina — [Facebook Live 28. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 11)
+- **29. 8.** — kontinuita zahraniční politiky Fialy, Pavla i Babiše — SPD/ministr obrany Zůna neumožní referendum o vystoupení z NATO, jaderný deštník s Francií i dodávky pro Ukrajinu zůstávají beze změny navzdory předvolebním slibům — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 14)
+- **29. 8.** — Německo (Merz) chystá tvrdší sankce proti Rusku; spekulace, že dron u letiště Halle mohl být „false flag" operace — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+- **29. 8.** — vyšetřování novináře Radima Panenky za komentář k Ratku Mladičovi — kritika Haagského tribunálu jako politického nástroje, teorie že Jugoslávie byla rozbita kvůli konceptu vojenské neutrality (hnutí nezúčastněných); avizuje video s advokátem Petronjevičem a rozhovorem Douglase McGregora — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 14)
+- **29. 8.** — ruský dronový útok na muniční sklad na Ukrajině (37 mrtvých) — komentuje jako logický vojenský cíl — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 8)
+- **29. 8.** — americký ministr financí opomněl Stalina/SSSR při zmínce Teheránské konference — rozšiřuje tezi, že 2. světová válka byla „válka globalistů proti Slovanům" (Německo jako tehdejší „prostředník", dnes Ukrajina) — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+### [Migrace](../migrace.md) (pokrač. 15)
+- **29. 8.** — soukromé bezpečnostní hlídky v azylovém centru v Essexu — historická paralela islamizace s Mohamedem/Medínou, Kosovem, Sýrií, Egyptem; tvrdí, že vláda migrační pakt fakticky neodmítla — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 8)
+- **29. 8.** — napadá velvyslance Koneckého za tvrzení o připravenosti NATO bránit se Rusku — detailní rozbor slabin (jaderné zbraně, rakety, ekonomika) — teze, že zbrojení buď slouží ke kontrole obyvatel strachem (Orwell), nebo je přípravou skutečné války — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 3)
+- **29. 8.** — souhlasně cituje Fica na oslavách SNP („bez Ruska není mír v Evropě"); opakuje ohlášení shromáždění 3. 10. na Malostranském náměstí za „urovnání vztahů s Ruskou federací" — [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1274,6 +1296,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Keith Kellogg | ❌ negativní | Bývalý zvláštní vyslanec USA pro Ukrajinu — kritizován za podporu mobilizace ukrajinských žen do armády | 2026-08-25 | [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026) |
 | David Rockefeller | ❌ negativní | Tvrzení, že financoval nacistické Německo (výrobu Cyklonu B) i dnes financuje Volodymyra Zelenského (→ [konspirace](../konspirace.md)) | 2026-08-25 | [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026) |
 | Volodymyr Zelenskyj | ❌ negativní | Odmítá mobilizaci žen kritizovat; jeho vláda financována stejnou rodinou, která dle Vrabela financovala nacismus | 2026-08-25 | [Facebook Live 25. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026) |
+| David Konecký | ❌ negativní | Velvyslanec ČR při NATO — kritizován (i s dehumanizující nálepkou „psychopat", → [stoch. teror](../stochasticky-teror.md)) za tvrzení, že aliance je připravena okamžitě bránit své území proti Rusku | 2026-08-29 | [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026) |
+| Radim Panenka | ✅ pozitivní | Zástupce šéfredaktora Parlamentních listů, vyšetřovaný policií za komentář k úmrtí Ratka Mladiće — Vrabel ho hájí jako oběť politicky motivovaného vyšetřování | 2026-08-29 | [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026) |
+| Robert Fico | ✅ pozitivní | Chválen za projev na oslavách SNP: „bez Ruska není mír v Evropě", nacismus „zůstal v hlavách lidí" | 2026-08-29 | [Facebook Live 29. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026) |
 
 ---
 
@@ -1393,3 +1418,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live, dovětek (26. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-dovětek-26-8-2026)
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
 - [Facebook Live (28. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
+- [Facebook Live (29. 8. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)

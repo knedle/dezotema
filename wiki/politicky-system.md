@@ -924,7 +924,9 @@ Vrabel ohlašuje nástupnickou akci svého hnutí „Česká republika na první
 
 **26. 8.** — V reakci na komentáře, které chystané shromáždění 3. 10. označují za protivládní demonstraci (mj. Petr Hájek z Protiproudu navrhující spojení s Milionem chvilek), Vrabel odmítá, že by šlo o akci namířenou proti konkrétním politikům či stranám (Babišovi, motoristům) nebo o podporu jiných: zdůrazňuje, že „člověk není na prvním místě" pro žádnou z dosavadních vlád (ani ODS, ani současnou), a cílem je změna celého systému bez závislosti na bohatých elitách, ne výměna jedné garnitury za druhou.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Nedělní vysílání 16. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026), [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+**29. 8.** — Vrabel opakuje a doplňuje katalog nesplněných slibů novým rámováním: zahraniční politika Petra Fialy, Petra Pavla (Hradu) i současné vlády Andreje Babiše je podle něj „bez výjimek naprosto totožná" — liší se jen v tom, co se veřejnosti říká, nikoli v hlasování a prosazované politice (jaderný deštník od Francie, podpora NATO, plnění zbrojního průmyslu, podpora Ukrajiny). Jako doklad uvádí, že SPD/ministr obrany Zůna nikdy neumožní referendum o vystoupení z NATO/EU, a že Pavel s Babišem si k dohodě o francouzském jaderném deštníku „notovali" postupně (Pavel v březnu, Babiš o dva měsíce později) — a přesto Babiš následně schválil dalších 40 mld. pro Ukrajinu.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Nedělní vysílání 16. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026), [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
 
 ---
 
