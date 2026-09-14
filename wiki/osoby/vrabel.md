@@ -985,6 +985,21 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Migrace](../migrace.md) (pokrač. 16)
 - **4. 9.** — reakce na varování ukrajinského velvyslance před ruskými veterány — Vrabel obrací: hrozbou jsou ukrajinští veteráni (riziko vzniku mafie) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
 
+### [Petr Pavel](../petr-pavel.md) (pokrač. 3)
+- **5. 9.** — demonstrace KSČM/Stačilo „Zastavme Petra Pavla" jako opakování škodlivé „antipolitiky" po vzoru anti-Fiala kampaně — [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+
+### [DSA a cenzura](../dsa-cenzura.md) (pokrač. 3)
+- **5. 9.** — zatčení Tomáše Hrdličky za odznak „Z"; podrobný popis vzniku precedentu (PRO/Vacek/Rajchl); stav Kutého, manželky (Srbsko) a Popelky (leukemie) — [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 18)
+- **5. 9.** — rozpor Merz (obviňuje Rusko z dronového útoku) vs. Trump (popírá plán Putina útočit na NATO) jako důkaz false-flag vzorce — [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 13)
+- **5. 9.** — růst cen potravin (FAO index nejvýš od 3/2022) přičítán válce na Ukrajině a uzavření Hormuzu (opakování) — [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 11)
+- **5. 9.** — EU řeší žádost Ukrajiny o miliardy na Patriot rakety — problém je nedostatek raket, ne peněz; 90mld půjčka stále nevyplacena — [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1407,6 +1422,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Marta Kos | ❌ negativní | Eurokomisařka pro rozšíření — zrušila návštěvu Bělehradu kvůli glorifikaci Mladiće; její vyjádření Vučić označil za „hloupé" | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
 | Aleksandar Vučić | ✅ pozitivní | Obhájil plánovaný státní pohřeb Radka Mladiće a odmítl kritiku Marty Kos | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
 | Radko Mladić | ✅ pozitivní | Popsán jako srbský národní hrdina bojující za životy Srbů — pokračování revizionistického výkladu Srebrenice | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
+| Tomáš Hrdlička | ✅ pozitivní | Člen Vrabelova hnutí zadržený a vyslýchaný za odznak „Z"; případ jde ke státnímu zástupci | 2026-09-05 | [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026) |
+| Friedrich Merz | ❌ negativní | Obvinil Rusko z dronového útoku na německé letiště bez důkazů, vyzval EU k omezení víz pro Rusy | 2026-09-05 | [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026) |
+| Donald Trump | ⚖️ rozporuplný | Popřel, že by Putin plánoval útok na NATO — v rozporu s narativem ostatních západních politiků, ale Vrabel to využívá jako potvrzení své teze | 2026-09-05 | [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026) |
 
 ---
 
@@ -1533,3 +1551,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (2. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
 - [Facebook Live (3. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
 - [Facebook Live (4. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+- [Facebook Live (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)

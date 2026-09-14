@@ -852,4 +852,12 @@ V Polsku začaly záložníkům a vybraným civilistům (lékaři, IT specialist
 
 **Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
 
+---
+
+### EU řeší žádost Ukrajiny o miliardy na Patriot rakety — problém je nedostatek raket, ne peněz (Vrabel, 5. 9. 2026)
+
+EU prověřuje žádost Ukrajiny o další miliardy eur na posílení protivzdušné obrany, včetně nákupu amerických raket PAC-3 do systému Patriot — první žádost v rámci nového evropského podpůrného úvěru, jenž má doplnit již schválených 90 mld. EUR (viz [EU 90 mld. EUR Ukrajině — faktický dárek, ne půjčka](#eu-90-mld-eur-ukrajině--faktický-dárek-ne-půjčka-25-5-2026)). Vrabel upozorňuje na klíčový detail, který podle něj v debatě chybí: **problémem není nedostatek peněz, ale nedostatek samotných raket** — USA vyrábí jen omezené množství (odhaduje kolem 18 kusů ročně, možná do tisíce), zatímco Ukrajina by jich potřebovala tisíce ročně; EU proto tlačí na Španělsko a Itálii, aby své zásoby PAC-3 (s odůvodněním blížící se expirace) předaly Ukrajině. Dodává, že už schválených 90 mld. EUR z prosince Ukrajině dosud nebylo vyplaceno, protože EU peníze fyzicky nemá a nepodařilo se jí vydat plánované dluhopisy (nikdo o ně nemá zájem) — jedinou reálnou zásobou likvidity, na kterou podle něj EU cílí, jsou úspory občanů (viz program Savings and Investments a jeho český klon [Národ sobě](suverenita-eu.md#von-der-leyen-bez-nových-vlastních-zdrojů-klesne-rozpočet-eu-o-40--souvislost-s-financováním-ukrajiny-vrabel-4-7-2026)).
+
+**Zdroje:** [Vrabel — Facebook Live 5. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)

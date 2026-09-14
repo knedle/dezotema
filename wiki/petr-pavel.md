@@ -556,3 +556,11 @@ Vrabel si všímá, že bezpečnostní poradce Petr Kolář má nápadně podobn
 **Zdroje:** [Restart Česko — Videoportál 3. 9. 2026](_zdroje.md#restart-česko--videoportál-3-9-2026)
 
 ---
+
+### Demonstrace KSČM/Stačilo „Zastavme Petra Pavla" jako opakování škodlivého vzorce „antipolitiky" (Vrabel, 5. 9. 2026)
+
+Vrabel komentuje demonstraci KSČM a Stačilo na Malostranském náměstí namířenou proti Petru Pavlovi. Kritizuje samotný koncept: stejně jako předchozí kampaň „proti Petru Fialovi" nahradila věcnou politiku pouhým odporem vůči konkrétní osobě (výsledkem bylo, že se národ „zbavil" Fialy, ale skutečná politika se nezměnila), i tato demonstrace je podle něj postavena na negativním vymezení, ne na věcném programu — takový cyklus podle něj jen vede k tomu, že po odstranění jedné osoby nastoupí někdo horší, na kterého se spustí další kampaň. Přesto oceňuje dva konkrétní projevy: šéfredaktora komunistického týdeníku Naše pravda (mluvil věcně o nutnosti zachování plurality politických názorů) a Richarda Štěpána, který kritizoval jmenování Jana Landovského (dříve spojeného s neziskovým sektorem) vládním poradcem dohlížejícím na plnění závazku 5 % HDP na obranu. Kritizuje naopak vystoupení nezletilého mluvčího na politickém pódiu jako nevhodné zapojování dětí do politiky.
+
+**Zdroje:** [Vrabel — Facebook Live 5. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+
+---
