@@ -4588,3 +4588,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=1105361831953464&_rdr>
 - **Datum záznamu:** 2026-09-05
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál (5. 9. 2026) {#československo-tv2--videoportál-5-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-05_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=4728801657442311&_rdr>
+- **Datum záznamu:** 2026-09-05
+- **Zpracováno:** ano

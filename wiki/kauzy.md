@@ -1002,6 +1002,14 @@ Zítko na základě fotografií z polského lázeňského střediska Karpacz tvr
 
 ---
 
+### Bitcoinová kauza: Jiříkovský odvolal „dar" ministerstvu ze „vzdoru"; notář Míka nově obviněn z krytí (Zítko, 5. 9. 2026)
+
+Tomáš Jiříkovský odvolal svůj dřívější „dar" 960 mil. Kč (1 % z celkového lupu) ministerstvu spravedlnosti — Zítko to čte jako „nevděk" za to, že je jediný z celé organizované skupiny, kdo skončil ve vazbě, zatímco hlavní organizátoři (Pavel Blažek, Radomír Daňhel, advokát Karim Tyc) zůstávají na svobodě. Opakuje již dříve zveřejněné navrhované tresty (viz [Bitcoinová kauza: detaily obžaloby, 4. 8.](#bitcoinová-kauza-detaily-obžaloby-a-rozšířený-okruh-podezřelých-zítko-4-8-2026)) a roli Any Bednářové (ředitelka právního odboru MSp) v ověření daru jen na základě screenshotu — nově do stejné role krytí zahrnuje i notáře **Lubomír Míku** (dle Zítka spolužáka Zbyňka Stanjury), který měl ověřit dar bez přítomnosti u skutečného předání a spolu s Bednářovou nepřivolat policii, když zjistili porušení smlouvy (bitcoiny přesunuté před schůzkou na jiné peněženky). Novým detailem je i tvrzení, že se Jiříkovský při cestě do Asie neúspěšně pokoušel směnit část bitcoinů u pražské směnárny Bitplus (majitel Martin Strácký ho odmítl kvůli rizikovosti transakce).
+
+**Zdroje:** [Československo TV2 — Videoportál 5. 9. 2026](_zdroje.md#československo-tv2--videoportál-5-9-2026)
+
+---
+
 ### Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko, 7. 8. 2026)
 
 Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) veřejně obvinil Zítka, že je „fízl" a že stojí za uvězněním Čermáka na základě policejní provokace z listopadu (výslech, při kterém policie o Čermákovi nic nezmínila). Zítko obvinění odmítá a v reakci předkládá vlastní teorii, že záznam Čermákova zadržení na polsko-české hranici je zfalšovaný — záběry osoby v policejní vestě nikdy nezachytily obličej zepředu, postava i chůze podle něj neodpovídají Čermákovi a osoby na videu viditelně čekají na pokyn kameramana, než se rozejdou. Uzavírá, že o Tušlovi coby obhájci přestal mít zájem poté, co Jindřich Rajchl veřejně oznámil, že bude Tušla zastupovat on.
