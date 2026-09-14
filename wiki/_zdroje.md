@@ -4511,3 +4511,10 @@
 - **URL:** <https://www.facebook.com/61586055215179/videos/2115192386049216>
 - **Datum záznamu:** 2026-09-03
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Dozimetr, druhé zasedání (4. 9. 2026) {#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-04_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2048802752487358>
+- **Datum záznamu:** 2026-09-04
+- **Zpracováno:** ano

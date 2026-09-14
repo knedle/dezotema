@@ -627,6 +627,14 @@ V reakci na televizní debatu, v níž vystupovali zástupci STAN a TOP 09, Rajc
 
 ---
 
+### Druhé zasedání komise: státní zastupitelství odmítlo spis, spor s Papjanovským (Rajchl, 4. 9. 2026)
+
+Rajchl informuje o druhém zasedání parlamentní vyšetřovací komise pro Dozimetr. Nejvyšší státní zastupitelství odmítlo komisi poskytnout spisový materiál a nesdělilo ani trvalé adresy obviněných (což komisi komplikuje jejich předvolání) — na rozdíl od komise Bečva, kde byl spisový materiál poskytnut ještě za běžícího vyšetřování; Rajchl to označuje za nekonzistentní s ustálenou praxí a slibuje prosadit novelu trestního řádu, která zakotví povinnost orgánů činných v trestním řízení poskytovat součinnost sněmovním vyšetřovacím komisím. Zároveň řeší spor s poslancem Janem Papjanovským (STAN), členem komise, který podle Rajchla porušil dohodnutý způsob komunikace (dosavadní praxe, kdy o závěrech komise informuje veřejně jen předseda/místopředsedové) a veřejně to označil za „cenzuru" — Rajchl to odmítá a varuje, že pokud bude Papjanovský komunikovat mimo dohodu, bude odpovídat stejně.
+
+**Zdroje:** [Rajchl — Videoportál: Dozimetr, druhé zasedání a spor s Papjanovským (4. 9. 2026)](_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026)
+
+---
+
 ## Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
 
 ### 90 mld. EUR „půjčka", oligarcha Mindić a zbrojní firma Firepoint (Černohorský, 10.–13. 5. 2026)

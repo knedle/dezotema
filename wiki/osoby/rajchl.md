@@ -41,6 +41,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **13. 8.** — kauza Majdanňuk: doplnění srovnání s podmínkou za komentář o Zuzaně Černé a konkrétní srovnávací tresty (30/18/11 let) — [Videoportál 13. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-13-8-2026)
 - **26. 8.** — nákup 44 tanků Leopard 2A8 za 39 mld. Kč jako „pojízdné rakve"; peníze mají jít zbrojařům místo do zdravotnictví/školství/důchodů — [Videoportál 26. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-26-8-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#nákup-44-tanků-leopard-2a8-za-39-mld-kč--pojízdné-rakve-rajchl-26-8-2026)
 - **30. 8.** — znalec Jiří Berger jako opomenutá klíčová osoba bitcoinové kauzy (propojoval Jiříkovského/Tyce se směnárníkem Stránským, spolužák a poradce Zbyňka Stanjury) a rozšíření role Evy Decroix v kauze Uhlíř — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [kauzy.md](../kauzy.md#bitcoinová-kauza-rekonstrukce-předání-elektroniky-přesný-časový-sled-zítko-5-8-2026)
+- **4. 9.** — druhé zasedání komise Dozimetr: státní zastupitelství odmítlo poskytnout spisový materiál i adresy obviněných (na rozdíl od komise Bečva); slibuje novelu trestního řádu; spor s Janem Papjanovským (STAN) o porušení dohody o komunikaci — [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026) → [kauzy.md](../kauzy.md#druhé-zasedání-komise-státní-zastupitelství-odmítlo-spis-spor-s-papjanovským-rajchl-4-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
@@ -362,6 +363,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Karol Nawrocki | ✅ pozitivní | Vzor: znovu vznesl požadavek na plnou úhradu válečných reparací od Německa (1,5 bil. eur) — Rajchl vyzývá ČR, aby se připojila | 2026-09-02 | [Videoportál 2. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026) |
 | Andrzej Duda | ✅ pozitivní | Bývalý polský prezident — v podcastu uvedl, že Zelenskyj věděl o ukrajinském původu rakety (2022) předem a přesto žádal svalit vinu na Rusko | 2026-09-03 | [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) |
 | Jana Černochová | ❌ negativní | Po polském raketovém incidentu 2022 na síti X vyzývala ke zvážení aktivace čl. 5 NATO, než se ukázalo, že šlo o ukrajinskou raketu — příklad unáhlené reakce | 2026-09-03 | [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) |
+| Jan Papjanovský | ❌ negativní | Poslanec STAN v komisi Dozimetr — porušil dohodnutý způsob komunikace o zjištěních komise a veřejně to nazval „cenzurou"; Rajchl to odmítá a hrozí stejnou reakcí | 2026-09-04 | [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026) |
 
 ---
 
@@ -465,5 +467,6 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Facebook Live (26. 7. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 - [Videoportál: expert na extremismus (27. 7. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-expert-na-extremismus-27-7-2026)
 - [Facebook Live (30. 8. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026)
+- [Videoportál: Dozimetr, druhé zasedání (4. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026)
 - [Videoportál (2. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026)
 - [Videoportál (3. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026)
