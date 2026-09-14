@@ -478,6 +478,14 @@ Na dotaz k AfD Vrabel odkazuje na projev Alice Weidelové, s nímž prý souzní
 
 ---
 
+### Zemské volby v Sasko-Anhaltsku — AfD s přes 40 % může poprvé vytvořit samostatnou vládu (Šejna, 5. 9. 2026)
+
+Šejna upozorňuje na zemské volby v Sasko-Anhaltsku (6. 9. 2026), kde AfD podle průzkumů vede s přes 40 % hlasů, daleko před CDU — přitom ještě v roce 2021 volby jasně vyhrála CDU. Pokud by se průzkumy potvrdily, byla by to poprvé v historii AfD, kdy by strana získala samostatnou (nikoli koaliční) vládu některé německé spolkové země. Šejna to interpretuje jako signál, že velká část Němců chce změnu dosavadního politického směru země, a případný výsledek považuje za možný začátek nové politické éry v celém Německu, ne jen v jedné spolkové zemi.
+
+**Zdroje:** [Restart Česko — Videoportál 5. 9. 2026](_zdroje.md#restart-česko--videoportál-5-9-2026)
+
+---
+
 ### Trump: „nemůžete být komunista i vlastenec zároveň" — Vrabelova esej o americké historii a suverenismu (4. 7. 2026)
 
 Trump k 250. výročí nezávislosti USA prohlásil, že Amerika opět čelí „komunistické hrozbě" a nelze být zároveň loajální Marxovi i Americe. Vrabel s tímto konkrétním výrokem souhlasí a rozvíjí z něj vlastní definici: vlastenec/suverenista chce, aby jeho země zůstala celá a samostatná, zatímco globalisté (i komunisté v minulosti přes Internacionálu a Varšavskou smlouvu) usilují o rozpuštění států do většího celku. Zároveň silně kritizuje samotné USA jako stát: připomíná genocidu domorodých Američanů, otrokářství (odhad až 500 mil. mrtvých na cestě z Afriky), segregaci ještě v 50. letech, atomové bombardování Hirošimy a Nagasaki jako jediný stát, který použil jaderné zbraně na civilisty, napalm ve Vietnamu a dnešní hegemonii postavenou na petrodolaru (dohoda s OPEC z roku 1974) — podle Vrabela zdroj bohatství USA není práce, ale „okrádání celého světa". Zmiňuje i aktuální požadavek Trumpa na 350 mld. dolarů od EU jako náhradu za zbraně dodané Ukrajině v letech 2022–2024 jako další příklad tohoto mechanismu. Ministra zahraničí Petra Macinku kritizuje za projev, že česká svoboda pochází ze svobody USA — označuje to za ztrátu soudnosti.

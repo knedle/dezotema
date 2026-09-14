@@ -35,6 +35,8 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 ### [Suverenita a EU](../suverenita-eu.md)
 
+- **5. 9.** — zemské volby v Sasko-Anhaltsku: AfD s přes 40 % může poprvé vytvořit samostatnou vládu, signál možné politické změny v celém Německu — [5. 9.](../_zdroje.md#restart-česko--videoportál-5-9-2026) → [suverenita-eu.md](../suverenita-eu.md#zemské-volby-v-sasko-anhaltsku--afd-s-přes-40--může-poprvé-vytvořit-samostatnou-vládu-šejna-5-9-2026)
+
 - Boj proti „politicko-vojenské mafii", Green Dealu a von der Leyenové; mobilizace k eurovolbám 2029 — [31. 7.](../_zdroje.md#adam-šejna--boj-proti-bruselu-31-7-2026)
 - Euro jako vzdání se svobody, Pavel a opozice „zaprodávají" republiku — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
 - Kritika Pavlova výroku o „Spojených státech evropských"; civilizační chvála Evropy jako kolébky 99 % vynálezů — [22. 8.](../_zdroje.md#restart-česko--videoportál-22-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
