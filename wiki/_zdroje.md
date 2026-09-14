@@ -4546,3 +4546,10 @@
 - **URL:** <https://www.facebook.com/61586055215179/videos/1084242607390511>
 - **Datum záznamu:** 2026-09-04
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (4. 9. 2026, média a selektivita) {#restart-česko--videoportál-4-9-2026-media-selektivita}
+- **Soubor:** [přepis](prepisy/done/2026-09-04_Restart-Cesko_Videoportál_1.txt)
+- **Kanál:** Restart Cesko
+- **URL:** <https://www.facebook.com/61586055215179/videos/948382398305621>
+- **Datum záznamu:** 2026-09-04
+- **Zpracováno:** ano

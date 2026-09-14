@@ -554,3 +554,11 @@ Rajchl kritizuje moderátorku Adélu Snopovou (CNN Prima News) za rozhovor s Vá
 Černohorský popisuje zmařenou domluvu na billboardovou reklamu (kandidatura do Brno-střed) na vozech Dopravního podniku města Brna — po předběžném potvrzení přes zlínskou reklamní agenturu i přímo od zaměstnance dopravního podniku přišlo do 20 minut, respektive dvou dnů, zrušení s odkazem na to, že plochy už jsou obsazené. Aktivista označovaný jako „Dan Novák" se podle Černohorského veřejně chlubil, že o zrušení věděl předem a že Černohorského „slušně poslali do prdele" — což Černohorský čte jako důkaz, že mu někdo z dopravního podniku informace záměrně vynesl. Navazuje na to obviněním, že v uzavřeném chatu jeho podpůrné komunity „Společenství" je osoba, která zprávy soustavně vynáší Lence Tarabové a Novákovi — extrémně rozšiřuje starší tezi o tříštění vlastenecké scény (viz [Zklamání z reakce na sjezd v Brně](benesovy-dekrety.md#zklamání-z-reakce-na-sjezd-v-brně--slíbený-otevřený-dopis-se-nikdy-nerealizoval-černohorský-26-6-2026)) o konkrétní obvinění ze špionáže a zrady uvnitř vlastního tábora.
 
 **Zdroje:** [Černohorský — Facebook Live 17. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
+
+---
+
+### Dvojí metr médií: řeší „neopatrnost" Macinky, ne Pšenákovo schválení vraždy (Šejna, 4. 9. 2026)
+
+Šejna kritizuje, že média po zveřejnění rozhovoru Vojtěcha Pšenáka s Petrem Macinkou natočeného na skrytou kameru řeší jen to, jak byl Macinka „neopatrný" — ale ignorují, že tentýž Pšenák dříve v rozhovoru schválil vraždu politického aktivisty na opačné straně politického spektra (na otázku, zda je dobře, že ho zastřelili, odpověděl, že „mohlo to přijít dřív"). Tvrdí, že média by podobný výrok normálně odsoudila jako škodící vlastní straně, ale protože nesedí k „chvilkařskému narativu", o něm raději nereferují — viz i samotný výrok zaznamenaný v [stochastickém teroru](stochasticky-teror.md).
+
+**Zdroje:** [Restart Česko — Videoportál 4. 9. 2026](_zdroje.md#restart-česko--videoportál-4-9-2026-media-selektivita)

@@ -54,6 +54,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 - Média podporují „řízenou sebevraždu" (euro, Chat Control) vymýváním mozků — [15. 8.](../_zdroje.md#adam-šejna--videoportál-euro-a-suverenita-15-8-2026)
 - Nora Fridrichová a Daniel Cortus urážejí ty, kdo odmítnou debatu; aktivismus schovaný za profesi — [18. 8.](../_zdroje.md#restart-česko--videoportál-18-8-2026)
+- **4. 9.** — kritika dvojího metru médií: řeší Macinkovu „neopatrnost", ne Pšenákovo dřívější schválení vraždy aktivisty — [4. 9.](../_zdroje.md#restart-česko--videoportál-4-9-2026-media-selektivita) → [media-propaganda.md](../media-propaganda.md#dvojí-metr-médií-řeší-neopatrnost-macinky-ne-pšenákovo-schválení-vraždy-šejna-4-9-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -98,3 +99,4 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Petr Pavel | ❌ negativní | Výsměch nad tím, že si z něj vlastní tribut udělala i KSČM | 2026-09-03 | [Videoportál 3. 9.](../_zdroje.md#restart-česko--videoportál-3-9-2026) |
 | Petr Macinka | ⚖️ rozporuplný | Veřejně „konstruktivně zkritizoval" Šejnu po zveřejnění rozhovoru s Pšenákem nahraného na skrytou kameru; Šejna kritiku přijímá s nadhledem | 2026-09-04 | [Videoportál 4. 9.](../_zdroje.md#restart-česko--videoportál-4-9-2026-macinka) |
 | Vojtěch Pšenák | ○ neutrální | Aktivista, který se Šejnou natočil rozhovor na skrytou kameru a zveřejnil ho (stejný, kdo dříve nastražil léčku na Macinku) | 2026-09-04 | [Videoportál 4. 9.](../_zdroje.md#restart-česko--videoportál-4-9-2026-macinka) |
+| Vojtěch Pšenák | ❌ negativní | Označen za „odporného člověka" — dříve schválil vraždu politického aktivisty výrokem „mohlo to přijít dřív"; kritika médií, že to neřeší | 2026-09-04 | [Videoportál 4. 9.](../_zdroje.md#restart-česko--videoportál-4-9-2026-media-selektivita) |
