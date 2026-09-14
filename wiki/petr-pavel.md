@@ -566,3 +566,11 @@ Vrabel komentuje demonstraci KSČM a Stačilo na Malostranském náměstí namí
 **Zdroje:** [Vrabel — Facebook Live 5. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
 
 ---
+
+### „Kim-irsenizace" Petra Pavla — dvojí metr médií vůči Pavlovi a Babišovi (Rajchl, 6. 9. 2026)
+
+Rajchl srovnává přístup CNN Prima News k rozhovorům s prezidentem Pavlem (týden předtím) a s premiérem Babišem (tentýž den): vůči Pavlovi byla moderace servilní a poslušná bez jediného skočení do řeči, vůči Babišovi naopak tvrdá a neustále přerušující — pokud jde o objektivitu, měl by být přístup stejný k oběma, nebo žádný. Podobně kontrastuje nadšené tleskání moderátorky Adely Snopové (TV Nova) při tvrdém útoku na bývalého prezidenta Václava Klause s adorací současného prezidenta. Jako příklad kultu osobnosti uvádí Pavlovu jízdu na motorce Harley-Davidson v čele kolony motorkářů ve flanelové košili — razí pro to termín „kim-irsenizace" (odkaz na severokorejský kult osobnosti), který očekává, že bude jen dále sílit.
+
+**Zdroje:** [Rajchl — Facebook Live 6. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
+
+---

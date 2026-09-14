@@ -633,6 +633,10 @@ Rajchl informuje o druhém zasedání parlamentní vyšetřovací komise pro Doz
 
 **Zdroje:** [Rajchl — Videoportál: Dozimetr, druhé zasedání a spor s Papjanovským (4. 9. 2026)](_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026)
 
+**6. 9.** — Rajchl podává podrobnou rekapitulaci a eskalaci celé situace. Žádost o spisový materiál byla podána na začátku července; státní zastupitelství po ní odpovědělo poprvé po 14 dnech zamítavě, po druhé (týden před druhým zasedáním komise) po dalším měsíci opět zamítavě. Argumentaci opírá o § 48 odst. 4 jednacího řádu Poslanecké sněmovny — pokud má komise právo pořizovat si materiály, ostatní orgány veřejné správy jsou povinny jí je poskytnout. Komise se dohodla na dvou paralelních krocích: podat žádost k soudům (již probíhá u dvou soudů) a prosadit novelu trestního řádu (nyní ve druhém čtení) explicitně zakotvující povinnost součinnosti orgánů činných v trestním řízení vůči sněmovním i senátním vyšetřovacím komisím — s dopadem i na budoucí komise (zmiňuje možnou budoucí komisi pro bitcoiny). Adresy trvalého bydliště obviněných si komise obstará vlastní cestou. Spor s Janem Papjanovským (STAN) dále vyhrocuje: srovnává jeho porušení dohodnuté komunikační praxe s předchozí komisí k Filozofické fakultě, kde opozice (ANO, SPD) stejné usnesení „do puntíku" respektovala. Kritizuje novináře Jindřicha Štídla (Seznam Zprávy) za to, že mlčky přejímá Papajanovského verzi, ačkoli by při obdobné situaci u komise vyšetřující ANO křičel o krytí ze strany státního zastupitelství — a naznačuje otevření bitcoinové kauzy jako protiúder, pokud opozice bude nadále sabotovat. Příští zasedání komise je plánováno na 17. 9. 2026; Rajchl odhaduje, že spis by mohl komise získat začátkem roku 2027.
+
+**Zdroje:** [Rajchl — Facebook Live 6. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
+
 ---
 
 ## Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95

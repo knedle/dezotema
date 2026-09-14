@@ -111,6 +111,8 @@ Rajchl kontrastuje tyto závěry s tvrzením exministra Vít Rakušana, že z Uk
 
 **Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 
+**6. 9.** — Rajchl rozšiřuje téma podvodných telefonátů o konkrétní odhad: podle nezávislého institutu se sídlem v Ženevě ukrajinská call centra připraví evropské a americké důchodce o miliardu dolarů měsíčně (typicky falešné investice do kryptoměn). Kritizuje, že se čeští politici v Poslanecké sněmovně věnují spíš „potenciálním ruským hybridním hrozbám" než tomuto reálnému a vyčíslitelnému okrádání seniorů, a tvrdí, že ukrajinské orgány činné v trestním řízení tyto podvody vědomě neřeší, protože z nich samy profitují — na rozdíl od české policie a státního zastupitelství, kterým ale bez součinnosti ukrajinské strany chybí možnost pachatele zadržet nebo zajistit prostředky. Navrhuje, aby ČR vetovala jakékoli návrhy ve prospěch Ukrajiny, dokud Kyjev tuto trestnou činnost nezačne řešit.
+
 ---
 
 ### Rovné podmínky pro Ukrajince jako pro Čechy; „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci (Rajchl, 5. 7. 2026)

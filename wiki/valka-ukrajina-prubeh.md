@@ -1085,3 +1085,11 @@ Podle agenturní zprávy zahynulo při nočním ruském dronovém útoku na skla
 Podle agenturní zprávy zasáhl dron kancelář šéfa ukrajinské tajné služby SBU Vasyla Maljuka v centru Kyjeva, zraněno bylo nejméně dvanáct lidí; Zelenskyj oznámil, že Ukrajina připravuje odvetu. Vrabel útok přiřazuje k předchozímu dni referovanému incidentu, kdy si mezi sebou střílely složky GRU a SBU, a považuje za „logicky nesmyslné", aby dva dny po vnitřním konfliktu bezpečnostních složek najednou dopadl na stejné místo ruský dron — srovnává tuto nedůvěryhodnost s tezí o umělém původu covidu (netopýr a had na tržišti). Vlastní odhad: útok si provedli Ukrajinci sami, v rámci vnitřního vyřizování účtů mezi bezpečnostními složkami.
 
 **Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+---
+
+### Zelenskyj žádá předčasnou výplatu tranže z půjčky 90 mld. EUR; korupční zatčení nejvyššího žalobce Ukrajiny (akce Kraken) — Rajchl (6. 9. 2026)
+
+K probíhajícím jednáním Witkoffa a Kushnera v Moskvě Rajchl tvrdí, že skutečnými zájemci o mír jsou jen USA a Rusko — Evropská unie mír nechce, protože rozjela válečnou ekonomiku prospívající zbrojařským firmám sponsorujícím politiky, a ani Volodymyr Zelenskyj o ukončení války nestojí, protože válka mu umožňuje udržet se u moci a dál rozkrádat veřejné a zahraniční finance. Jako důkaz uvádí, že Zelenskyj požádal Evropskou unii o předčasnou výplatu jedné z tranší již schválené půjčky 90 mld. eur (rozdělené do několika splátek podle kalendáře) — což Rajchl čte jako signál, že „cítí, že se mu krátí čas". Zmiňuje také, že protikorupční akce Kraken zadržela při korupci nejvyššího státního žalobce Ukrajiny — s poznámkou, že by bylo rychlejší sepsat seznam ukrajinských činitelů, kteří v korupci zapojeni nejsou, protože takový seznam by byl velmi krátký.
+
+**Zdroje:** [Rajchl — Facebook Live 6. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
