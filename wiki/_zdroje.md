@@ -4560,3 +4560,10 @@
 - **URL:** <https://www.facebook.com/61586055215179/videos/1600798358369882>
 - **Datum záznamu:** 2026-09-05
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál (5. 9. 2026) {#jindřich-rajchl--videoportál-5-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-05_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2835000226871914>
+- **Datum záznamu:** 2026-09-05
+- **Zpracováno:** ano

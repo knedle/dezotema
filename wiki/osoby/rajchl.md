@@ -98,6 +98,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **23. 8.** — odstrašení jako termín „zbrojařských lobbistů"; jaderné zbraně jako jediný reálný odstrašující prvek; ČR jako navrhovaný „most" mezi Východem a Západem (vzor Turecko/Izrael/Maďarsko) — [Facebook Live 23. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026) → [Válka na Ukrajině](../valka-ukrajina-prubeh.md#odstrašování-vede-k-válce-řešením-je-dialog-po-vzoru-startsalt--rajchl-22-8-2026)
 - **30. 8.** — vlastní interpretace návštěvy šéfa CIA Ratcliffa v Moskvě jako vyjednávání mírových podmínek pro Ukrajinu (Rusko získá Doněck, vrátí část Charkovska); korupční aféra „Forrest Gump" a protesty proti Zelenskému — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [Válka, NATO a Rusko](../valka-nato-rusko.md#šéf-cia-ratcliffe-v-moskvě--spekulace-rusko-předem-varuje-usa-před-akcí-proti-koalici-ochotných-vrabel-dovětek-26-8-2026)
 - **3. 9.** — výzva ke zdrženlivosti k incidentu v Halle/Lipsku; připomíná polský raketový incident 2022 (ukrajinská raketa mylně přisouzena Rusku, Duda: Zelenskyj o tom věděl předem) — [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) → [Válka, NATO a Rusko](../valka-nato-rusko.md#německo-chystá-tvrdší-opatření-proti-rusku--spekulace-o-false-flag-u-incidentu-v-halle-vrabel-29-8-2026)
+- **5. 9.** — v rozhovoru u Tomáše Lukavce opakuje polskou raketovou historku (bez posunu), doplňuje detail o letadle AWACS, které dokázalo za desítky vteřin určit ukrajinský původ rakety — [Videoportál 5. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-5-9-2026) → [Válka, NATO a Rusko](../valka-nato-rusko.md#německo-chystá-tvrdší-opatření-proti-rusku--spekulace-o-false-flag-u-incidentu-v-halle-vrabel-29-8-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -472,3 +473,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (4. 9. 2026, migrace)](../_zdroje.md#jindřich-rajchl--videoportál-4-9-2026-migrace)
 - [Videoportál (2. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-2-9-2026)
 - [Videoportál (3. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026)
+- [Videoportál (5. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-5-9-2026)
