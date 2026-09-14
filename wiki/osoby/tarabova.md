@@ -56,6 +56,9 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - Výzva ke stávce/okupační stávce zaměstnanců ČT; „vládní moc se může uchýlit k násilí" — [ČT stávka (20. 5.)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
 - Umělá nenávist ve společnosti + anonymita sociálních sítí (urážky místo věcné debaty), výzva k respektu — [Rozhovor TV Česko (15. 6.)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
 
+### [Politický systém](../politicky-system.md)
+- **4. 9.** — komunální program pro Liberec: „Městské bydlení pro liberečany, ne pro spekulanty" — podpora družstevního bydlení jako levnější a bezpečnější alternativy k hypotéce pro mladé lidi — [Videoportál 4. 9.](../_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -127,3 +130,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: kauza Peková, zlatý věk (20. 8. 2026)](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026)
 - [Videoportál (1. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-1-9-2026)
 - [Videoportál (2. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-2-9-2026)
+- [Videoportál: bydlení v Liberci (4. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)

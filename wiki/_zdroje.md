@@ -4525,3 +4525,10 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/924944250673739>
 - **Datum záznamu:** 2026-09-04
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: bydlení v Liberci (4. 9. 2026) {#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-04_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1798107281211746&_rdr>
+- **Datum záznamu:** 2026-09-04
+- **Zpracováno:** ano

@@ -1065,3 +1065,11 @@ Ministerstvo práce a sociálních věcí připravuje od ledna 2027 snížení p
 Šejna vychází z Masarykova prvního prezidentského projevu (citujícího Komenského) a připomíná, že republika nebyla darem, ale výsledkem boje a obětí — měla stát na svobodném občanovi, demokracii, odpovědnosti a pravdě, se státem sloužícím občanovi. Klade otázku, jak se společnost od tohoto ideálu dostala k dnešnímu stavu, kdy se lidé znovu bojí říkat nahlas některé názory, svoboda slova je oslavována jen do chvíle, než někdo řekne něco nepohodlné, a stát i evropské instituce stále hlouběji zasahují do každodenního života občana — vždy s odůvodněním, že je to „pro jeho dobro". Popisuje současný vztah občan–stát jako obrácený: z odpovědného občana se stává někdo, komu politici vysvětlují, co si má myslet, jak žít a co obětovat ve jménu jejich představ o lepším světě.
 
 **Zdroje:** [Restart Česko — Videoportál 28. 8. 2026](_zdroje.md#restart-česko--videoportál-28-8-2026)
+
+---
+
+### Komunální program: „Městské bydlení pro liberečany, ne pro spekulanty" (Tarabová, 4. 9. 2026)
+
+Lenka Tarabová, kandidátka na primátorku Liberce (strana PRO), představuje bod 2 volebního programu: podporu dostupného bydlení pro mladé lidi formou družstevního bydlení. Argumentuje, že Česká republika má nejhorší a nejdražší bydlení v EU, a mladí lidé si nemohou dovolit hypotéku ani nájem, což je vede k odchodu z Liberce nebo k odkládání založení rodiny. Družstevní bydlení popisuje jako levnější a bezpečnější alternativu k hypotéce (delší splátkové lhůty, ochrana členství v družstvu vs. riziko ztráty bytu, který stále vlastní banka) a slibuje posílit tento model a podpořit vznik nových bytových družstev, případně urychlit nebo navýšit plánovaný počet bytů podle zájmu obyvatel.
+
+**Zdroje:** [Tarabová — Videoportál: bydlení v Liberci, 4. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)
