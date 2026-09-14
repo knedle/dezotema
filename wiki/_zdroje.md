@@ -4504,3 +4504,10 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1061758726450045>
 - **Datum záznamu:** 2026-09-03
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (3. 9. 2026) {#restart-česko--videoportál-3-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-03_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Cesko
+- **URL:** <https://www.facebook.com/61586055215179/videos/2115192386049216>
+- **Datum záznamu:** 2026-09-03
+- **Zpracováno:** ano

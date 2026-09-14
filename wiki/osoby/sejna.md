@@ -43,6 +43,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - **30. 8.** — opakuje tezi o Pavlově rozvědčické minulosti v reakci na jeho nabídku koordinovat zahraniční politiku s vládou; srovnává s nejmenováním Turka — [30. 8.](../_zdroje.md#restart-česko--videoportál-30-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 - **31. 8.** — ke kritice Pavlova návrhu na snížení počtu nemocnic dodává, že by z toho profitovali zbrojní lobbisté i sám prezident — [31. 8.](../_zdroje.md#restart-česko--videoportál-31-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 - **2. 9.** — vlastní anketa: 23 z 27 tisíc hlasů proti znovuzvolení Pavla prezidentem — [2. 9.](../_zdroje.md#restart-česko--videoportál-2-9-2026) → viz [petr-pavel.md](../petr-pavel.md)
+- **3. 9.** — komentář ke klipu, v němž si KSČM udělala vlastní posměšný „vlastňák" Petru Pavlovi — [3. 9.](../_zdroje.md#restart-česko--videoportál-3-9-2026) → viz [petr-pavel.md](../petr-pavel.md)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 
@@ -90,3 +91,4 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Petr Pavel | ❌ negativní | Shrnutí porušení prezidentského slibu — Turek, zneužití ÚS, „Spojené státy evropské", euro, nově i podpora konstituční monarchie | 2026-08-25 | [Videoportál 25. 8.](../_zdroje.md#restart-česko--videoportál-25-8-2026) |
 | Petr Pavel | ❌ negativní | Kritika návrhu na snížení počtu nemocnic — naznačuje osobní prospěch prezidenta ze zbrojních zakázek | 2026-08-31 | [Videoportál 31. 8.](../_zdroje.md#restart-česko--videoportál-31-8-2026) |
 | Petr Pavel | ❌ negativní | Opakovaně kritizován za rozvědčickou minulost v souvislosti s nabídkou koordinovat zahraniční politiku s vládou; srovnáno s nejmenováním Turka | 2026-08-30 | [Videoportál 30. 8.](../_zdroje.md#restart-česko--videoportál-30-8-2026) |
+| Petr Pavel | ❌ negativní | Výsměch nad tím, že si z něj vlastní tribut udělala i KSČM | 2026-09-03 | [Videoportál 3. 9.](../_zdroje.md#restart-česko--videoportál-3-9-2026) |

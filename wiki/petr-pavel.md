@@ -546,3 +546,13 @@ Vrabel si všímá, že bezpečnostní poradce Petr Kolář má nápadně podobn
 **Zdroje:** [Vrabel — Facebook Live 3. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
 
 ---
+
+### KSČM zesměšňuje Petra Pavla vlastním „vlastňákem" (Šejna, 3. 9. 2026)
+
+Šejna komentuje krátký klip, v němž si komunisté (KSČM) udělali vlastní posměšný tribut/„vlastňák" Petru Pavlovi — vysmívá se KSČM, že je natolik neschopná, že si dělá legraci i ze svého vlastního prezidenta.
+
+> „Představte si, že jste tak špatný komunista, že i KSČM si z vás dělá prdel." — Adam Šejna, [Restart Česko](_zdroje.md#restart-česko--videoportál-3-9-2026)
+
+**Zdroje:** [Restart Česko — Videoportál 3. 9. 2026](_zdroje.md#restart-česko--videoportál-3-9-2026)
+
+---
