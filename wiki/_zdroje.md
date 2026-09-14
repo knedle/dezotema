@@ -4581,3 +4581,10 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1091897753258628>
 - **Datum záznamu:** 2026-09-05
 - **Zpracováno:** ano
+
+## Lenka Tarabová — TV Česko: transparentnost (5. 9. 2026) {#lenka-tarabová--tv-česko-transparentnost-5-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-05_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1105361831953464&_rdr>
+- **Datum záznamu:** 2026-09-05
+- **Zpracováno:** ano

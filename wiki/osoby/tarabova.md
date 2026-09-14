@@ -58,6 +58,9 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 
 ### [Politický systém](../politicky-system.md)
 - **4. 9.** — komunální program pro Liberec: „Městské bydlení pro liberečany, ne pro spekulanty" — podpora družstevního bydlení jako levnější a bezpečnější alternativy k hypotéce pro mladé lidi — [Videoportál 4. 9.](../_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)
+- **5. 9.** — kritika nepřehlednosti veřejné správy (posl.cz, smlouvy samospráv); návrh podcastů vysvětlujících rozhodnutí radnice — [TV Česko 5. 9.](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
+- **5. 9.** — strany kandidují v komunálních volbách pod jinými názvy (KDU+TOP09 jako „Liberecká devítka"), výzva ověřovat, kdo je za kandidátkou — [TV Česko 5. 9.](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
+- **5. 9.** — vlastní politická historie: komunální politika od 2014, vyloučení, covidový aktivismus (Pocket Spark/Svobodný Liberec), vstup do PRO na žádost Rajchla a liberecké skupiny — [TV Česko 5. 9.](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
 
 ---
 
@@ -131,3 +134,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál (1. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-1-9-2026)
 - [Videoportál (2. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-2-9-2026)
 - [Videoportál: bydlení v Liberci (4. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)
+- [TV Česko: transparentnost (5. 9. 2026)](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)

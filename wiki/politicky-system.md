@@ -1073,3 +1073,27 @@ Ministerstvo práce a sociálních věcí připravuje od ledna 2027 snížení p
 Lenka Tarabová, kandidátka na primátorku Liberce (strana PRO), představuje bod 2 volebního programu: podporu dostupného bydlení pro mladé lidi formou družstevního bydlení. Argumentuje, že Česká republika má nejhorší a nejdražší bydlení v EU, a mladí lidé si nemohou dovolit hypotéku ani nájem, což je vede k odchodu z Liberce nebo k odkládání založení rodiny. Družstevní bydlení popisuje jako levnější a bezpečnější alternativu k hypotéce (delší splátkové lhůty, ochrana členství v družstvu vs. riziko ztráty bytu, který stále vlastní banka) a slibuje posílit tento model a podpořit vznik nových bytových družstev, případně urychlit nebo navýšit plánovaný počet bytů podle zájmu obyvatel.
 
 **Zdroje:** [Tarabová — Videoportál: bydlení v Liberci, 4. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)
+
+---
+
+### Transparentnost místní politiky — kritika nepřehlednosti, návrh podcastů vysvětlujících rozhodnutí radnice (Tarabová, 5. 9. 2026)
+
+V rozhovoru pro TV Česko Tarabová kritizuje nedostatečnou transparentnost veřejné správy: web Poslanecké sněmovny (posl.cz) neumožňuje běžnému občanovi jednoduše sledovat průběh přijímání zákonů (hlasování nejsou popsána, je potřeba dohledávat stenoprotokoly), stejný problém má dohledávání smluv a rozhodnutí na úrovni místních samospráv — podle ní záměrně, aby se běžní lidé „nepídili". Jako řešení navrhuje, aby politici po zvolení pokračovali v komunikaci s občany formou krátkých podcastů a videí vysvětlujících konkrétní rozhodnutí rady města (např. velké zakázky), místo aby byli aktivní jen před volbami. Jako součást svého programu na primátorku Liberce slibuje intenzivnější a nepřetržitou komunikaci s občany po celé čtyři roky mandátu.
+
+**Zdroje:** [Tarabová — TV Česko: transparentnost, 5. 9. 2026](_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
+
+---
+
+### Politické strany kandidují v komunálních volbách pod jinými názvy, aby zastřely svou identitu (Tarabová, 5. 9. 2026)
+
+Tarabová upozorňuje, že celostátní strany v komunálních volbách často kandidují pod jinými, lokálními názvy, aby nebyly na první pohled rozpoznatelné — jako příklad z Liberce uvádí koalici KDU-ČSL a TOP 09 kandidující pod názvem „Liberecká devítka". Vyzývá voliče, aby si před volbami ověřovali, kdo skutečně stojí za konkrétní kandidátkou, zejména pokud jde o politiky, kteří jsou ve funkcích už řadu let (4, 8, 12 let) bez viditelného přínosu — odkazuje na vlastní příspěvek „Škatulata, batulata, hejbejte se", který podobné přesuny stejných tváří pod novými značkami v Liberci mapuje.
+
+**Zdroje:** [Tarabová — TV Česko: transparentnost, 5. 9. 2026](_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
+
+---
+
+### Vlastní politická historie a vstup do strany PRO (Tarabová, 5. 9. 2026)
+
+Tarabová popisuje svou politickou dráhu: v roce 2014 podpořila vznik komunálního politického hnutí v Chrastavicích a stala se součástí koalice, ale po čtyřech letech byla ze hnutí vyloučena poté, co začala nesouhlasit se způsobem fungování. Zpětně to hodnotí jako šťastnou náhodu vzhledem k nadcházejícímu covidu — během lockdownů se scházela s dalšími aktivními občany v Liberci (neformální skupina „Pocket Spark", později přejmenovaná na „Svobodný Liberec"), z níž vzešli budoucí členové strany PRO. Do politiky se vrátila loni na podzim na žádost Jindřicha Rajchla, ale hlavně na žádost této liberecké skupiny, která jí dala důvěru — kandidátku PRO pro Liberec postavili samostatně poté, co selhalo jednání o koalici s PRO ano.
+
+**Zdroje:** [Tarabová — TV Česko: transparentnost, 5. 9. 2026](_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
