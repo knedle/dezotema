@@ -966,6 +966,25 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Petr Pavel](../petr-pavel.md) (pokrač. 2)
 - **3. 9.** — satirický postřeh, že Pavel „kopíruje" mluvu Petra Koláře (přirovnání k Dr. House) — [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
 
+### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 8)
+- **4. 9.** — nová aplikace EZ Karta jako naplnění varování o digitálním „covidovém pasu"; spojení s Palantirem, AI nezaměstnaností a nepodmíněným příjmem — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 17)
+- **4. 9.** — mírová jednání USA–Rusko–Ukrajina (Witkoff, Kushner poprvé i do Kyjeva letadlem), 65% šance na neúspěch (predikce) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+- **4. 9.** — pokračování false-flag vzorce: Robejšek o Halle/Lipsku, sabotáž elektrické stanice v Německu (klimatický aktivista) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+- **4. 9.** — dodatek k Mladičovu úmrtí: plánovaný státní pohřeb, kritika EU (Marta Kos), obhajoba Vučiće — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 15)
+- **4. 9.** — dron zasáhl kancelář šéfa SBU v Kyjevě — Vrabel: vnitřní vyřizování účtů mezi bezpečnostními složkami, ne ruský útok — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 10)
+- **4. 9.** — nový obranný dokument ČR (Rusko jako hlavní hrozba) — výzva zásobit se na dlouhodobý konflikt — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+- **4. 9.** — Německo vyrábí 5000 dálkových dronů pro Ukrajinu (dolet 1500 km) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+- **4. 9.** — Polsko rozesílá mobilizační kartičky záložníkům; výzva mladým mužům nejít bojovat — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+### [Migrace](../migrace.md) (pokrač. 16)
+- **4. 9.** — reakce na varování ukrajinského velvyslance před ruskými veterány — Vrabel obrací: hrozbou jsou ukrajinští veteráni (riziko vzniku mafie) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1381,6 +1400,13 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Vojtěch Pšenák | ○ neutrální | Aktivista, který pod falešnou identitou „Tomáš Paucner" vylákal Macinku na schůzku; podle Vrabela zkoušel podobný trik i na něm samotném (listopad 2024) | 2026-09-03 | [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026) |
 | Petr Kolář | ⚖️ rozporuplný | Satiricky zmíněn jako vzor, od kterého se Pavel „naučil" svůj řečnický styl | 2026-09-03 | [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026) |
 | Petr Pavel | ❌ negativní | Satirický postřeh, že „kopíruje" mluvu Petra Koláře stejně jako dřív kopíroval SSSR a NATO | 2026-09-03 | [Facebook Live 3. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026) |
+| John Ratcliffe | ○ neutrální | Ředitel CIA — znovu se setkal s ruskými tajnými službami, v souvislosti s chystanými jednáními o míru | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Slouží dle Vrabela „globalistické kabale", ne zájmům Ukrajiny — jako důkaz opět zablokování istanbulské dohody 2022 | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
+| Petr Robejšek | ✅ pozitivní | Komentátor CNN Prima News — souhlas s jeho tvrzením, že za incidentem Halle/Lipsko nestáli Rusové, ale Ukrajinci | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
+| Vasyl Zvarič | ❌ negativní | Ukrajinský velvyslanec v ČR — varování před ruskými veterány označeno za nesmysl; skutečnou hrozbou jsou dle Vrabela ukrajinští veteráni | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
+| Marta Kos | ❌ negativní | Eurokomisařka pro rozšíření — zrušila návštěvu Bělehradu kvůli glorifikaci Mladiće; její vyjádření Vučić označil za „hloupé" | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Obhájil plánovaný státní pohřeb Radka Mladiće a odmítl kritiku Marty Kos | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
+| Radko Mladić | ✅ pozitivní | Popsán jako srbský národní hrdina bojující za životy Srbů — pokračování revizionistického výkladu Srebrenice | 2026-09-04 | [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026) |
 
 ---
 
@@ -1506,3 +1532,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (1. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
 - [Facebook Live (2. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026)
 - [Facebook Live (3. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+- [Facebook Live (4. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)

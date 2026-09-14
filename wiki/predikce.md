@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — 65% šance na neúspěch mírových jednání USA–Rusko–Ukrajina (4. 9. 2026)
+
+**Předpověď:** V souvislosti s chystanou cestou Witkoffa a Kushnera do Moskvy a Kyjeva Vrabel odhaduje na 65 % pravděpodobnost, že současná mírová jednání nepovedou k úspěchu — čeká, že Rusko odmítne příměří bez záruk, že ho Západ nevyužije k přezbrojení Ukrajiny (odkazuje na obdobné zablokování dohody v Istanbulu 2022).
+
+> „Já myslím si, že 65 % pravděpodobnosti je, že mírová jednání nedopadnou dobře." — Ladislav Vrabel
+
+**Horizont:** nejbližší týdny (víkendová jednání, 4.–7. 9. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+---
+
 ### Ladislav Vrabel — Ukrajina se na podzim zhroutí kvůli ruské ofenzivě a nedostatku energií (26. 8. 2026)
 
 **Předpověď:** V souvislosti s návštěvou šéfa CIA Radcliffa v Moskvě Vrabel odhaduje, že ukrajinská armáda dále kolabuje (nedostatek vojáků, munice, protivzdušné obrany) a že na podzim 2026 zahájí Rusko těžkou ofenzivu, na niž už Ukrajina nebude mít energetické ani obranné kapacity — v důsledku toho může „velmi rychle" dojít ke zhroucení Ukrajiny.

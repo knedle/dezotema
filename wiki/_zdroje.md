@@ -4532,3 +4532,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=1798107281211746&_rdr>
 - **Datum záznamu:** 2026-09-04
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Facebook Live (4. 9. 2026) {#ladislav-vrabel--facebook-live-4-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-04_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2093330607992312>
+- **Datum záznamu:** 2026-09-04
+- **Zpracováno:** ano

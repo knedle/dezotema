@@ -1077,3 +1077,11 @@ Podle agentury Reuters nařídil Volodymyr Zelenskyj armádě výrazně zvýšit
 Podle agenturní zprávy zahynulo při nočním ruském dronovém útoku na sklad v ukrajinské obci Mila nejméně 37 lidí a dalších 42 bylo zraněno, evakuováno bylo přes 380 osob; poškozeno bylo nejméně 50 obytných budov včetně domova pro seniory. Zelenskyj uvedl, že ve skladu byly munice, drony a výbušniny, jejichž následné exploze rozšířily škody. Vrabel komentuje, že si nedokáže představit, že by Rusko neútočilo na muniční sklady a podobná zařízení, až se konflikt „rozjede víc", a varuje diváky žijící poblíž takových zařízení, aby s tím počítali.
 
 **Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+---
+
+### Dron zasáhl kancelář šéfa SBU v Kyjevě — Vrabel: šlo o vnitřní vyřizování účtů, ne o ruský útok (Vrabel, 4. 9. 2026)
+
+Podle agenturní zprávy zasáhl dron kancelář šéfa ukrajinské tajné služby SBU Vasyla Maljuka v centru Kyjeva, zraněno bylo nejméně dvanáct lidí; Zelenskyj oznámil, že Ukrajina připravuje odvetu. Vrabel útok přiřazuje k předchozímu dni referovanému incidentu, kdy si mezi sebou střílely složky GRU a SBU, a považuje za „logicky nesmyslné", aby dva dny po vnitřním konfliktu bezpečnostních složek najednou dopadl na stejné místo ruský dron — srovnává tuto nedůvěryhodnost s tezí o umělém původu covidu (netopýr a had na tržišti). Vlastní odhad: útok si provedli Ukrajinci sami, v rámci vnitřního vyřizování účtů mezi bezpečnostními složkami.
+
+**Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)

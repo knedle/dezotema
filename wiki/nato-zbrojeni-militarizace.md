@@ -828,4 +828,28 @@ Generální tajemník NATO Mark Rutte oznámil, že USA po jednání s náměstk
 
 **Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
 
+---
+
+### Nový obranný dokument ČR označuje Rusko za hlavní hrozbu — výzva zásobit se na dlouhodobý konflikt (Vrabel, 4. 9. 2026)
+
+Nový český obranný dokument označuje Rusko za nejzávažnější hrozbu pro bezpečnost ČR a připravuje zemi na možnost dlouhodobého konfliktu vysoké intenzity, který může přijít bez dostatečného varování — plány počítají s modernizací armády, posílením zásob, rozvojem dvou brigád, úpravami dopravní infrastruktury pro spojenecké síly a větším zapojením civilního sektoru a obyvatelstva. Vrabel to nebere na lehkou váhu a vyzývá diváky, aby si připravili „baťůžek" a udělili plnou moc blízké osobě zůstávající v ČR pro jednání s úřady či ohledně nemovitostí. Upozorňuje, že státní zásoby jídla v ČR vydrží jen na jeden a půl dne, přestože mají podle plánu činit patnáct dnů — srovnává to s vlastní zkušeností manželky z jugoslávské války, kdy normální život přešel do bombardování během jednoho dne bez varování.
+
+**Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+---
+
+### Německo vyrábí 5000 dálkových útočných dronů pro Ukrajinu (Vrabel, 4. 9. 2026)
+
+Německo zahájilo výrobu více než 5000 dálkových útočných dronů pro Ukrajinu s využitím umělé inteligence k překonávání elektronického rušení; některé mají mít dosah až 1500 km. Vrabel to čte jako snahu Západu umožnit pokračující útoky na ruské území, i kdyby se konflikt táhl dál, a připomíná vlastní vyjádření Vladimira Putina, že ukrajinské dronové útoky mají znatelný dopad na ruskou ekonomiku (odhadem 1 % HDP) — významné poškození, byť ne zničující. Klade otázku, kde je hranice mezi „ukrajinským" a „západním" útokem, když Západ drony vyrábí, financuje, dodává satelitní data i souřadnice cílů a Ukrajina jen poskytuje území, odkud se útočí — přirovnává současnou fázi konfliktu k odraženému tenisovému míčku, který se právě vrací zpět k tomu, kdo ho vyslal.
+
+**Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+---
+
+### Polsko rozesílá mobilizační kartičky záložníkům — Vrabel vyzývá mladé muže, aby nešli bojovat (4. 9. 2026)
+
+V Polsku začaly záložníkům a vybraným civilistům (lékaři, IT specialisté, logistici) chodit mobilizační kartičky určující jednotku a místo nástupu v případě mobilizace — podle polského úřadu pro vojenský nábor jde o standardní každoroční postup. Vrabel varuje, že podobné kroky (spolu se změnami mobilizačních zákonů v ČR) mohou předcházet konfliktu bez varování, a znovu líčí zkušenost manželky z Jugoslávie, kde normální život přešel do bombardování během jednoho dne. Vyzývá především mladé muže, aby v případě mobilizace nešli bojovat „za Ukrajinu, chazarské židy, FED a nový světový řád řízený dolarem a americkou armádou", a opakuje výzvu z předchozích vysílání zásobit se a připravit si plnou moc pro blízké.
+
+**Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
