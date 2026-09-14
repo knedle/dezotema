@@ -502,7 +502,9 @@ Zítko podal na krajské státní zastupitelství čtyřstránkové trestní ozn
 
 ⚡ **Poznámka:** Extrapolace „7 500 mrtvých v ČR" i podkladové číslo „60 000 mrtvých Němců" nelze ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 9. 8. 2026](_zdroje.md#československo-tv2--videoportál-9-8-2026)
+**6. 9.** — Zítko v rozhovoru zpřesňuje žádost z tohoto oznámení specificky na souvislost s autismem: cituje analýzu Soni Pekové (34 vzorků dovezených vládním zmocněncem SR Petrem Kotlárem, „obrovské množství nedeklarované DNA") a materiály Roberta F. Kennedyho ml. jako ministra zdravotnictví USA. Vyzývá krajské státní zastupitelství, aby kontaktovalo nejvyšší státní zastupitelství a NCOZ s žádostí o předběžné opatření a analýzu všech použitých vakcinačních šarží v ČR z hlediska souvislosti s autismem — jinak jsou dle něj tyto orgány samy trestně spoluodpovědné podle §367.
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 9. 8. 2026](_zdroje.md#československo-tv2--videoportál-9-8-2026), [ČsTV2 — Videoportál 6. 9. 2026](_zdroje.md#československo-tv2--videoportál-6-9-2026-bewit)
 
 ---
 

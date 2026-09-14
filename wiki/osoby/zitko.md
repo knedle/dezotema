@@ -40,6 +40,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **21. 8. (večer)** — rozsáhlý článek Karla Janečka: Fauci jako „zlosyn historického významu" srovnávaný s Mengelem, jmenuje české „covidisty" k odpovědnosti (Konvalinka, Hell, Kubek, Maďar, Smejkal, Sempr, Hořejší, Flégr, Chlíbek aj.) — [Videoportál 21. 8. (večer)](../_zdroje.md#československo-tv2--videoportál-21-8-2026-večer)
 - **25. 8.** — v přehledu vlasteneckého setkání v Příčovech opakuje beze změny Fauciho/Morensovo přiznání, pokles porodnosti a neizolaci SARS-CoV-2 (Ústí n. L.) jako vynechaná témata — [Videoportál 25. 8.](../_zdroje.md#československo-tv2--videoportál-25-8-2026)
 - **27. 8.** — slovenský soud osvobodil MUDr. Petra Liptáka a prohlásil covidová opatření za protizákonná; k tomu přidává novou sérii dílčích zpráv: Pfizer pod přísahou přiznal netestování zastavení přenosu, gen SV40 jako spouštěč „turborakovin", Meryl Nass vyhrála soud proti pozastavení licence za ivermectin, Poul Thorsen obviněn z podvodu s CDC granty (výzkum autismu), Florida ruší 4 povinná očkování ve školách, publikován protokol ivermectin+fenbendazol+mebendazol na rakovinu — [Videoportál 27. 8.](../_zdroje.md#československo-tv2--videoportál-27-8-2026)
+- **6. 9.** — sponzorovaný rozhovor s firmou BEWIT (esenciální oleje); v rámci něj zpřesňuje srpnové trestní oznámení o žádost na analýzu všech vakcinačních šarží v ČR z hlediska autismu (odkaz na Pekovou/Kotlára a RFK ml.) — [Videoportál 6. 9.](../_zdroje.md#československo-tv2--videoportál-6-9-2026-bewit) → [covid-vakciny.md](../covid-vakciny.md#trestní-oznámení-na-genocidu-národa-vakcinační-holokaust-a-sterilizaci-obyvatelstva-zítko-7-8-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -360,3 +361,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál (28. 8. 2026, 2)](../_zdroje.md#československo-tv2--videoportál-28-8-2026-2)
 - [Videoportál (29. 8. 2026)](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
 - [Videoportál (5. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-5-9-2026)
+- [Videoportál: rozhovor s BEWIT (6. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-6-9-2026-bewit)
