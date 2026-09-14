@@ -777,3 +777,9 @@ Ke zprávě, že floridské úřady během pětidenní operace „Shield State W
 **Zdroje:** [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 
 ---
+
+### Krize s vodou a „tokenizace vody" na blockchainu — předpověděl Bill Gates (Boldy, 6. 9. 2026)
+
+Boldy komentuje rozhodnutí soudu v Jacksonu (Mississippi), které dle něj omezuje právo občanů na čistou pitnou vodu a na pravdivé informace od vládních úředníků. Spojuje to s tvrzením, že lidstvo je připravováno na jednu z největších krizí v historii — nedostatek vody, ať už záměrně vyvolaný nebo ne — kterou už dříve předpověděl Bill Gates (podobně jako předtím covid, odkaz na cvičení Event 201 těsně před pandemií). Řešením krize má být „tokenizace" vody — její obchodování na burze/blockchainu — na němž se má podílet i Donald Trump.
+
+**Zdroje:** [Konspirátor Boldy — Facebook Live 6. 9. 2026](_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)

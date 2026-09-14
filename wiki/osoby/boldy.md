@@ -44,6 +44,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - UFO poblíž letadla při seskoku padákem u Kunovic — [23. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)
 - Doporučení filmu „2073" jako potvrzení Agendy 2030 — [25. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-film-2073-25-8-2026)
 - ⚡ Konflikt: virální „stíhačka nad Nepálem" je AI podvrh, ale zemětřesení bylo uměle vyvoláno HAARPem; Smart Cities/depopulace jako motiv zničení Nepálu — [27. 8. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-27-8-2026)
+- Soud v Jacksonu (Mississippi) omezuje právo na čistou vodu a pravdivé informace; blížící se krize vody a její „tokenizace" na blockchainu (předpověděl Bill Gates, zapojen i Trump) — rozšíření tématu „voda na burze" z 19. 7. — [6. 9. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
 
 ### [Migrace](../migrace.md)
 - Ceuta jako „plán elit na likvidaci Evropy" — armáda migrantům pomáhá, ne brání; financování Gates/Rockefeller nadacemi; predikce zániku Evropy (Nostradamus, Baba Vanga, do 2050) — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
@@ -143,3 +144,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál: UFO a sledování (23. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-ufo-a-sledování-23-8-2026)
 - [Videoportál: film 2073 (25. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-film-2073-25-8-2026)
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-27-8-2026)
+- [Facebook Live (6. 9. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
