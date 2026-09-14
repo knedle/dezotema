@@ -68,6 +68,10 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 
 - Zelenskyj odmítá svobodné volby, protože by prohrál; vydělává na pokračování války, EU financuje strach jako nástroj kontroly svobod — [24. 8.](../_zdroje.md#restart-česko--videoportál-24-8-2026)
 
+### [Válka, NATO a Rusko](../valka-nato-rusko.md)
+
+- **4. 9.** — reakce na kritiku od Petra Macinky po rozhovoru s aktivistou Vojtěchem Pšenákem (skrytá kamera); upřesnění, že je jen fanoušek Motoristů, ne členem strany — [4. 9.](../_zdroje.md#restart-česko--videoportál-4-9-2026-macinka) → [valka-nato-rusko.md](../valka-nato-rusko.md)
+
 ---
 
 ## Zmíněné osoby
@@ -92,3 +96,5 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 | Petr Pavel | ❌ negativní | Kritika návrhu na snížení počtu nemocnic — naznačuje osobní prospěch prezidenta ze zbrojních zakázek | 2026-08-31 | [Videoportál 31. 8.](../_zdroje.md#restart-česko--videoportál-31-8-2026) |
 | Petr Pavel | ❌ negativní | Opakovaně kritizován za rozvědčickou minulost v souvislosti s nabídkou koordinovat zahraniční politiku s vládou; srovnáno s nejmenováním Turka | 2026-08-30 | [Videoportál 30. 8.](../_zdroje.md#restart-česko--videoportál-30-8-2026) |
 | Petr Pavel | ❌ negativní | Výsměch nad tím, že si z něj vlastní tribut udělala i KSČM | 2026-09-03 | [Videoportál 3. 9.](../_zdroje.md#restart-česko--videoportál-3-9-2026) |
+| Petr Macinka | ⚖️ rozporuplný | Veřejně „konstruktivně zkritizoval" Šejnu po zveřejnění rozhovoru s Pšenákem nahraného na skrytou kameru; Šejna kritiku přijímá s nadhledem | 2026-09-04 | [Videoportál 4. 9.](../_zdroje.md#restart-česko--videoportál-4-9-2026-macinka) |
+| Vojtěch Pšenák | ○ neutrální | Aktivista, který se Šejnou natočil rozhovor na skrytou kameru a zveřejnil ho (stejný, kdo dříve nastražil léčku na Macinku) | 2026-09-04 | [Videoportál 4. 9.](../_zdroje.md#restart-česko--videoportál-4-9-2026-macinka) |

@@ -4539,3 +4539,10 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/2093330607992312>
 - **Datum záznamu:** 2026-09-04
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (4. 9. 2026, Macinka) {#restart-česko--videoportál-4-9-2026-macinka}
+- **Soubor:** [přepis](prepisy/done/2026-09-04_Restart-Cesko_Videoportál.txt)
+- **Kanál:** Restart Cesko
+- **URL:** <https://www.facebook.com/61586055215179/videos/1084242607390511>
+- **Datum záznamu:** 2026-09-04
+- **Zpracováno:** ano
