@@ -104,6 +104,14 @@ Vrabel staví socialistické Československo jako protiklad dnešní ČR. Tvrdí
 
 ---
 
+### ČR jako „totalita na cestě" — teorie mass formation aplikovaná na Rusko jako společného nepřítele (Vrabel, 6. 9. 2026)
+
+Vrabel rozlišuje tři systémy vlády: ideál („lidé si vládnou sami"), tyranii (jeden nebo několik lidí vládne ostatním násilím) a totalitu — systém, kde je jeden názor prosazovaný velkou skupinou lidí a každý jiný je potlačován, aniž by šlo o klasickou diktaturu. Aplikuje na to znovu teorii „mass formation" Matthiase Desmeta (viz [Mass Formation — základ covidové poddajnosti](covid-vakciny.md#matthias-desmet-teorie-mass-formation--základ-covidové-poddajnosti-rajchl-a-vrabel-květen-2026)): čtyři podmínky (izolace, ztráta smyslu, volně plovoucí úzkost, volně plovoucí frustrace) byly podle něj po roce 2022 znovu naplněny se stejným mechanismem jako v nacistickém Německu (tam „vinen" byli „židovští kapitalisté") — dnešním pojmenovaným nepřítelem je Rusko. Tvrdí, že za frustraci společnosti ve skutečnosti nemůže Rusko, ale to, že „jsme se nechali okrást globalistickým západem" a naši politici rozprodávají zemi zahraničním strukturám. Argumentuje, že tento proces byl v ČR spuštěn prohlášením vrchního státního zástupce Igora Stříže na začátku roku 2022, že podpora Ruska může vést až ke třem rokům vězení — což označuje za varovný signál rozporu s právním řádem, protože podpora kterékoli strany cizího konfliktu nemá být trestná, pokud tato strana nevede válku proti ČR. Českou republiku (a celý Západ) považuje za „totalitu na cestě", ne za plnou totalitu — tou by se stala až v okamžiku, kdy by začala vraždit vlastní obyvatelstvo, což na rozdíl od ČR podle něj již dnes dělá Ukrajina (potlačení opozice, zákaz ruského jazyka, násilné odvody civilistů, mizející statisíce vojáků).
+
+**Zdroje:** [Vrabel — Facebook Live 6. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika

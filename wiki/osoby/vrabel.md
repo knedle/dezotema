@@ -1000,6 +1000,15 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 11)
 - **5. 9.** — EU řeší žádost Ukrajiny o miliardy na Patriot rakety — problém je nedostatek raket, ne peněz; 90mld půjčka stále nevyplacena — [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 14)
+- **6. 9.** — ČR jako „totalita na cestě" — teorie mass formation (Desmet) aplikovaná na Rusko jako společného nepřítele — [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
+
+### [DSA a cenzura](../dsa-cenzura.md) (pokrač. 4)
+- **6. 9.** — rozhovor s Hrdličkou a advokátem Bubeníčkem: detailní právní rozbor kauzy „Z" (§405/365), návrh recipročních trestních oznámení (ukrajinská vlajka, Zelenskyj v Bělehradě, Zeman) — [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 19)
+- **6. 9.** — Lavrov: incident v Lipsku je „skutečný začátek" reálné války; rekapitulace mírových jednání (Zelenskyj odmítá územní ústupky) — [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1425,6 +1434,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Tomáš Hrdlička | ✅ pozitivní | Člen Vrabelova hnutí zadržený a vyslýchaný za odznak „Z"; případ jde ke státnímu zástupci | 2026-09-05 | [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026) |
 | Friedrich Merz | ❌ negativní | Obvinil Rusko z dronového útoku na německé letiště bez důkazů, vyzval EU k omezení víz pro Rusy | 2026-09-05 | [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026) |
 | Donald Trump | ⚖️ rozporuplný | Popřel, že by Putin plánoval útok na NATO — v rozporu s narativem ostatních západních politiků, ale Vrabel to využívá jako potvrzení své teze | 2026-09-05 | [Facebook Live 5. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026) |
+| Tomáš Hrdlička | ✅ pozitivní | Host vysílání — vlastní vylíčení zadržení a výslechu na Bartolomějské za odznak „Z" | 2026-09-06 | [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026) |
+| Petr Bubeníček | ✅ pozitivní | Host vysílání, advokát — poskytl právní rozbor kauzy „Z", potvrdil právní nejistotu a kritizoval justiční praxi | 2026-09-06 | [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026) |
+| Sergej Lavrov | ○ neutrální | Citován: incident v Lipsku označil za „skutečný začátek" reálné války, podmínil mír plnými právy ruskojazyčného obyvatelstva Ukrajiny | 2026-09-06 | [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026) |
 
 ---
 
@@ -1553,3 +1565,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (4. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
 - [Facebook Live (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
 - [Facebook Live, samostatné video (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-samostatné-video-5-9-2026)
+- [Facebook Live (6. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
