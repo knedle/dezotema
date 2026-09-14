@@ -621,6 +621,10 @@ Navrhované řešení, které dosud nejpodrobněji shrnuje: (1) okamžitá remig
 
 **Zdroje:** [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026), [Rajchl — Videoportál 27. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-27-8-2026)
 
+**4. 9.** — K nařízení EU, které nově odmítá dočasnou ochranu ukrajinským mužům v odvodovém věku bez prokázané vojenské povinnosti, Rajchl opakuje své rozlišení uprchlík/migrant a svůj návrh na deportace (viz výše, 9. 8.) — jako vzor navíc uvádí Dánsko, které identifikovalo 14 „bezpečných zón", odkud nepřijímá žádné ukrajinské migranty.
+
+**Zdroje:** [Rajchl — Videoportál 4. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-4-9-2026-migrace)
+
 ---
 
 ### Martin Dvořák o Ceutě: „lidé mají právo hledat lepší život" — Rajchl odmítá jako nebezpečný relativismus (16. 8. 2026)
