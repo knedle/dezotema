@@ -1552,3 +1552,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (3. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
 - [Facebook Live (4. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
 - [Facebook Live (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
+- [Facebook Live, samostatné video (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-samostatné-video-5-9-2026)
