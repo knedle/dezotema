@@ -535,7 +535,9 @@ Rajchl ostře kritizuje nedělní rozhovor Petra Pavla s Petrem Kováčem na CNN
 
 ⚡ **Poznámka:** Jde o nereprezentativní samovýběrovou anketu mezi vlastními sledujícími kanálu, ne o sociologický průzkum.
 
-**Zdroje:** [Restart Česko — Videoportál 2. 9. 2026](_zdroje.md#restart-česko--videoportál-2-9-2026)
+**6. 9.** — aktualizovaný stav téže ankety: 42 900 hlasů, z toho 36 800 proti a 5 700 pro znovuzvolení Pavla.
+
+**Zdroje:** [Restart Česko — Videoportál 2. 9. 2026](_zdroje.md#restart-česko--videoportál-2-9-2026), [Restart Česko — Videoportál 6. 9. 2026](_zdroje.md#restart-česko--videoportál-6-9-2026-anketa)
 
 ---
 

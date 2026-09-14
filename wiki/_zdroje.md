@@ -4595,3 +4595,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=4728801657442311&_rdr>
 - **Datum záznamu:** 2026-09-05
 - **Zpracováno:** ano
+
+## Restart Česko — Videoportál (6. 9. 2026, anketa) {#restart-česko--videoportál-6-9-2026-anketa}
+- **Soubor:** [přepis](prepisy/done/2026-09-06_Adam-Šejna_Videoportál_1.txt)
+- **Kanál:** Adam Šejna
+- **URL:** <https://www.facebook.com/61586055215179/videos/1807674433584143>
+- **Datum záznamu:** 2026-09-06
+- **Zpracováno:** ano

@@ -46,6 +46,7 @@ Provozovatel kanálu Restart Česko, influencer strany Motoristé.
 - **31. 8.** — ke kritice Pavlova návrhu na snížení počtu nemocnic dodává, že by z toho profitovali zbrojní lobbisté i sám prezident — [31. 8.](../_zdroje.md#restart-česko--videoportál-31-8-2026) → viz [petr-pavel.md](../petr-pavel.md)
 - **2. 9.** — vlastní anketa: 23 z 27 tisíc hlasů proti znovuzvolení Pavla prezidentem — [2. 9.](../_zdroje.md#restart-česko--videoportál-2-9-2026) → viz [petr-pavel.md](../petr-pavel.md)
 - **3. 9.** — komentář ke klipu, v němž si KSČM udělala vlastní posměšný „vlastňák" Petru Pavlovi — [3. 9.](../_zdroje.md#restart-česko--videoportál-3-9-2026) → viz [petr-pavel.md](../petr-pavel.md)
+- **6. 9.** — aktualizace vlastní ankety o Pavlovi: 42 900 hlasů, 36 800 proti — [6. 9.](../_zdroje.md#restart-česko--videoportál-6-9-2026-anketa) → viz [petr-pavel.md](../petr-pavel.md)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 
