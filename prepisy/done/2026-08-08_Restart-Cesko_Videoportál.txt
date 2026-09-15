@@ -1,0 +1,32 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Restart Cesko
+URL:          https://www.facebook.com/61586055215179/videos/1099591432494444
+Datum videa:  2026-08-08
+Zpracováno:   2026-08-08 19:07:02
+Jazyk:        cs
+Délka:        00:00:15
+Zhlédnutí:    5 217
+Popis:        Tohle je příšerný…
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    5s
+Přepis:       3s
+Rychlost:     4.2x realtime
+Celkem:       8s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Dobrý den, můžete se zeptat, vy jste páníček, nebo ne?
+[00:03] Zvíře nemůže chodit venku bez páníčka samo.
+[00:05] Vy jste páníček, nebo je někdo z nás páníček?
+[00:07] Je to páníček? A kde máte vodítko?
+[00:11] Je vytřičenej.
+[00:12] Vytřičenej? Vštěkni.
+[00:13] A.
+[00:13] Dej pac.

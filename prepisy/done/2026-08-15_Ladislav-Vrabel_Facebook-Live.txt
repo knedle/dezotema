@@ -1,0 +1,1184 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1430866475530647
+Datum videa:  2026-08-15
+Zpracováno:   2026-08-18 20:51:22
+Jazyk:        cs
+Délka:        00:59:29
+Popis:        15. 8. 2026 - Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    31s
+Přepis:       15m 19s
+Rychlost:     3.9x realtime
+Celkem:       15m 51s
+================================================================================
+PŘEPIS
+================================================================================
+
+[03:01] Vážení přátelé, hezký večer. Máme sobotu, 15. srpna,
+[03:06] to znamená jsme ve třech čtvrkinách prázdnin.
+[03:10] Už se vám to blíží, děti, do školy a vám, rodičům,
+[03:14] zase vy si konečně odpočinete. Děti, mám takový pocit.
+[03:18] Dědečkové babičky asi přijdou o vnoučky zase,
+[03:21] ale prostě takový je koloběh života, takhle už to je.
+[03:25] Jinak, co se týče dnešního večera, máme sobotu,
+[03:31] máme poslední zprávy tento týden, takže bych chtěl poděkovat Zuzce a Tondovi
+[03:36] za skvělý týden zpráv. Dnešní zprávy jsou opravdu nabitý.
+[03:39] A chtěl bych poděkovat vám, protože tady máme hodně komentářů,
+[03:43] které děkují nám. A vy děkujete nám a my děkujeme vám.
+[03:47] A jsem rád, že děkujete nám, protože to ukazuje,
+[03:51] že jsou pořád v České republice lidi, kteří chtějí vědět, co se děje.
+[03:54] Včera spousta lidí leží na gauči a říkají, no mě to nezajímá, co se děje,
+[04:00] no to nějak bude, jestli bude válka nebo ne, tomu nevěřím,
+[04:04] a ta politika mě to nezajímá, jak si to děje, jak je.
+[04:07] Ale pravda je taková, že to, co se děje, politika naprosto definuje to,
+[04:13] jaký máme život. A proto je potřeba, aby jsme věděli, co se děje,
+[04:17] protože procházíme takovou dobou změn, kterou jsme neprošli za velmi dlouhou dobu,
+[04:22] naposledy v roce 1989.
+[04:24] Velké změny v Česko-Slovensku, řekníme tehdy.
+[04:28] A od té doby žádné velké změny nebyly, ale to, čím procházíme teď
+[04:31] na úrovni celého světa, tak to jsou naprosto turbulentní záležitosti.
+[04:36] Je potřeba je sledovat, je potřeba se v nich orientovat,
+[04:39] abyste se dokázali připravit na budoucnost nejenom vaší,
+[04:42] ale i vašich děkí a vašich třeba vnouček, pokud už nějaké máte.
+[04:46] Takže vítám vás ještě jednou u zpráv a Zuzko, je to na tobě.
+[04:50] Pojďme na první zprávu.
+[04:52] Tak krásný večer všem. Začneme u nás.
+[04:56] V Ralsku na Českolipsku má vzniknout rozsáhlý Ralsko AIL Campus,
+[05:01] který připravuje společnost ze skupiny Findom.
+[05:05] Projekt počítá s datovým centrem pro vysoce výkonné digitální technologie
+[05:09] a s předpokládaným instalovaným výkonem 90 MHz.
+[05:13] Vystavba by podle plánu měla začít příští rok a trvat přibližně 20 měsíců.
+[05:18] Skupina Findom zároveň v lokalitě připravuje
+[05:22] fotovoltavickou elektrárnu o výkonu 6,2 MW,
+[05:26] která by však pokryla jen část energetických potřeb plánovaného datového centra.
+[05:33] Tohle je jedna z věcí, možná ta nejzásadnější věc,
+[05:36] pokud se tady bavíme o tom, že procházíme změnou.
+[05:39] Protože aniž by si to většina populace uvědomovala,
+[05:44] tak ztrácíme absolutně svoje soukromí.
+[05:47] My jsme se o tom asi ještě moc nebavili,
+[05:49] ale to, co se stane, řekněme, za pět let,
+[05:52] tak za pět let ode dneška, tak už nebudou jim prakticky nikdo,
+[05:57] prakticky žádné soukromí. Proč?
+[05:59] No, protože státy masivně investují do,
+[06:03] i soukromé společnosti masivně investují do vývoje umělé technologie
+[06:08] a do zřizování datových center.
+[06:11] I z národního plánu obnovy 20%, to je víc než 200 miliard,
+[06:15] je ten národní plán obnovy, více než 20% z toho jde na digitalizaci.
+[06:19] A tohle bylo naplánováno už v roce 2021.
+[06:22] Takže to není žádná krátkodobá záležitost,
+[06:25] kdyby se teď někdo rozhodl, ale to je dlouhodobý plán
+[06:27] pro to, aby se digitalizovala společnost.
+[06:31] A digitalizací společnosti si nepředstavujte jenom to,
+[06:33] že nebudete muset jít na úřad, ale vyřídíte si to z počítače
+[06:36] nebo z telefonu. To je samozřejmě věc, která je dobrá.
+[06:39] Ale digitalizací se mění také to, že se vyvíjí datová centra,
+[06:45] která ukládají data. A jaká data ukládají?
+[06:47] No tak máme tady třeba nový zákon chat control.
+[06:50] To znamená, ukládá se všechno, co kde řeknete a napíšete.
+[06:54] To tady nikdy v minulosti nebylo. Každý diktátor v minulosti,
+[06:58] každý totalitní režim by si přál, aby mohl kontrolovat to,
+[07:02] co lidi říkají a co píšou, jak mezi sebou komunikují.
+[07:07] To tady opravdu nikdy nebylo. Víte, že jsme měli takový ten film
+[07:10] Ucho, že komunisky jako režim, státní bezpečnost za toho
+[07:16] minulého režimu dělali odposlechy k jakých individů,
+[07:19] jako je třeba tady Zuzka nebo Tonda. Mě by asi neodposlouchávali,
+[07:24] protože jsem nezajímavý, ale takovýhle individu, aby určitě odposlouchávali.
+[07:28] Ale dneska oni neodposlouchávají jenom takový individu,
+[07:31] ale poslouchají každýho. A ta data se ukládají a v reálném čase
+[07:35] se ta data třídí a zanedlouho nebude se už jenom dělat to,
+[07:41] že nás bude ten systém, ten režim kontrolovat,
+[07:44] ale bude také vyhodnocovat, co můžeme říct a co nemůžeme říct
+[07:47] v reálné komunikaci druhému člověku.
+[07:49] A protože se většina komunikace opravdu přesunula do té digitální sféry,
+[07:54] na sociální sítě, do těch různých kecálků, které jsou messengery,
+[07:57] whatsappy, telegramy, signály a nevím co všechno ještě dalšího,
+[08:02] tak většina komunikace je dneska kontrolovaná
+[08:05] a většina komunikace bude velmi brzo řízená.
+[08:09] Režimy budou už představce si takového Stalina,
+[08:13] kdyby mohl kontrolovat to, co všichni řeknou,
+[08:15] a kdyby mohl taky řídit to, co ty lidi řeknou.
+[08:19] A to možná Stalin, nevím, jestli to je ten nejlepší příklad,
+[08:22] možná jsou tady ještě horší diktátoři, který bychom si mohli připomenout.
+[08:27] A tohle stoje přesně to, čím dneska procházíme
+[08:29] a proč se tak masivně investuje do digitálních technologií.
+[08:33] Do kontroly veškerý komunikace, do řízení toho,
+[08:37] co a kde můžeme komunikovat, do ukládání všech těch dat,
+[08:41] vyhodnocování těch dat v reálném čase.
+[08:45] Samozřejmě to, co některé celé,
+[08:49] celé Brity v digitálních technologiích říkají,
+[08:51] takže cílem je pre-crime, to znamená předcházení kriminalitě.
+[08:56] A předcházení kriminalitě, když dneska je kriminální
+[08:59] i pustit si tadyhle ty zprávy, co jsou za mnou,
+[09:01] to je dneska na pět let vězení, když tohleto někde sdílíte,
+[09:05] tak je jasný, že takové totalitě, do jaké padáme teď,
+[09:10] no myslím si, že už v jaké jsme, že prostě nikdo z nás nematuje.
+[09:15] Možná, že se to ještě netýká většinové populace,
+[09:17] že by většinová populace cítila následky,
+[09:20] ale většinová populace už je takovým způsobem kontrolovaná,
+[09:23] jako nikdy nebyla.
+[09:27] Tato zpráva se objevuje čím del častějc,
+[09:32] a teď na to upozorňuje britský denník, kde ekonomist,
+[09:35] že by se Moldavsko v budoucnu mohlo sjednotit s Rumunském.
+[09:39] Tento scénář by mohl představovat jednu z cest,
+[09:42] jak by se Moldavsko mohlo dostat do Evropské unie,
+[09:45] pokud by jeho samostatný vstup narazil na politické překážky
+[09:49] v některém z českých států.
+[09:52] Časopis zmiňuje zajména možnost,
+[09:55] že by Francie mohla v budoucnu zablokovat další rozšířování Evropské unie.
+[10:01] Prioritou Moldavské vlády však zůstává samostatná evropská integrace.
+[10:06] Aktuální průzkumy ukazují,
+[10:08] že podpora sjednocení je v Moldavské společnosti rozdělena.
+[10:13] Tak tady samozřejmě nejde o to,
+[10:15] že by Francie chtěla zablokovat rozšířování Evropské unie.
+[10:18] Francie...
+[10:19] Francie...
+[10:19] Francie...
+[10:19] Francie...
+[10:19] V podstatě neexistuje, stejně tak, jako neexistuje Británie,
+[10:23] stejně tak, jako neexistuje Česká republika a ostatní státy.
+[10:26] To jsou takové prázdné skořápky, které nemají ani hranice,
+[10:30] které nemají ani samostatnou vládu,
+[10:32] které nemají ani zákony, které by byly suverénní,
+[10:36] nemají ani svoji ekonomiku, nemají ani svoje obchody,
+[10:40] nemají ani svoje telekomunikace, nemají ani spojí armádu.
+[10:44] Prostě všechno, všechny, veškeré ty státy,
+[10:46] které dneska nazýváme státy, jsou podřízené globálnímu řízení.
+[10:51] A to globální řízení samozřejmě chce, aby se rozširovala Evropská unie
+[10:55] směrem k Ruské federaci proto, aby mohla rozbít Ruskou federaci,
+[11:00] aby mohla rozbít Rusko na malé státy, aby mohla vyplenit Rusko tak,
+[11:04] jak si to ti, kteří zřídili tenhle globalistický systém,
+[11:09] vysnívají už stale tím. Pořád jsou to stejné rodiny,
+[11:11] pořád jsou to stejné tajné organizace, které stojí zatím,
+[11:16] zatím finančním systémem, zatím vůbec celým systémem,
+[11:20] který dneska prožíváme. Takže spojení Moldavska s Rumunském
+[11:23] není proto, aby se zabránilo Francii, že by mohla zablokovat
+[11:27] tu Moldavska do Evropské unie, ten nesmysl. To je proto,
+[11:30] aby se mohlo urychleně Moldavsko přijmout do Evropské unie,
+[11:35] aby se tam mohly poslat zbraně, aby mohlo Moldavsko se zapojit
+[11:38] do Půrlu, aby se mohlo zapojit do programu SAFE,
+[11:41] aby se mohlo zapojit do programu Rearm Europe, aby i v Moldavsku
+[11:45] byl program Agendy 2030 urychlovaný z Evropské unie
+[11:50] a aby v případě konfliktu s Ruskou federací měl ten globální západ
+[11:54] okličené Rusko ještě na dalším místě, aby tam mohly být vojenské základny,
+[11:59] odkud poletí F-35 s jadernými zbraněmi na Rusko.
+[12:02] To je přece naprosto jasné.
+[12:08] Ministerstvo národní obrany oznámilo, že v pátek 14. srpna
+[12:12] byl v oblasti Plauru v okrese Tuce objeven dron.
+[12:15] Dron byl 15. srpna zneškodněn.
+[12:18] A provedl to specializovaný tým za bezpečnostních podmínek.
+[12:22] Dron byl nalezen v kontextu, kdy se ve stejný den v okrese Tuce
+[12:27] a v oblasti pohoří Mejcin zřítil jiný dron.
+[12:30] I tento byl kontrolovaný zneškodněn.
+[12:33] Situace na hranici Rumunska s Ukrajinou se v posledních dnech
+[12:37] výrazně zhoršila. Rumunský ministr obrany radu Mirauta
+[12:41] v pátek večer uvedl, že útoky na ukrajinské frontě
+[12:45] v blízkosti rumunských hranic dosáhly v posledné
+[12:48] době bezprecedentní intenzity. Podle něj bylo během
+[12:54] posledních 96 hodin zaznamenáno více než 100 dronů.
+[12:59] Zvýšená aktivita souvisí s intenzivnějšími ruskými útoky
+[13:02] na cíle na Ukrajině poblíž rumunského území.
+[13:06] No tak tohle už je vážná zpráva, protože podívejte,
+[13:10] slyšíme to každý den. Včera jsme se o tom bavili.
+[13:12] Každý den slyšíme o nějakých dronech, které zasánou území
+[13:15] Evropské unie. Ale tady už nám Rumuni tvrdí,
+[13:19] že v posledních 96 hodin zaznamenali na svojem území
+[13:22] kolik? 100 dronů? 100 dronů. To už je samozřejmě
+[13:27] naprosto zásadní, protože tady už se dá klidně vyhlásit
+[13:32] bezpečnostní horožení země. Samozřejmě celá tato záležitost
+[13:36] musí být koordinovaná, takže Rumunsko to neudělá
+[13:38] bez rozkazu ze CIA a bez rozkazu z NATO.
+[13:43] Ale jak vidíte, minimálně v médiích se každý den
+[13:47] ta situace přiostřuje a přitvrzuje se a to, kam to vede,
+[13:52] samozřejmě všichni víme.
+[13:56] Spojené státy vysílají letadlovou loď USS George Washington
+[14:01] do oblasti Blízkého východu. Má nahradit letadlovou loď
+[14:05] USS Abraham Lincoln. Ta je v regionu nasazena až víc než 250 dní
+[14:11] a o přesunu informoval deníkde Wall Street Journal.
+[14:14] USS George Washington byla dosud nasazena v azijsko-pacifickém
+[14:19] regionu a její přesun do blízkosti, do oblasti Blízkého východu
+[14:24] současně znamená absenci americké letadlové loďi v západním pacifiku.
+[14:30] No, tak hrají na babu, že jo. Fulku má babu tahle loď,
+[14:34] fulku má babu tohleto loď, tak se tam američani střídají.
+[14:39] Uvidíme, jak to bude pokračovat dál, ale pořád to vypadá
+[14:43] tak nějak stejně, že jo, ta situace.
+[14:47] No jo, to předtím tvrdili, že ta loď je v pohodě, námořníci jsou
+[14:51] v pohodě.
+[14:52] No, tak když jim tam psychicky kolabujou po 250 dnech zavřených
+[14:57] na palubě, tak je museli vyměnit, přece jenom je tam 5000 lidí a ono
+[15:01] být skoro rok nebo tři čtvrtě roku, jak je to 250 dní, tři čtvrtě
+[15:05] roku zavřený na na lodi, ještě když tam prostě pořád čelíte
+[15:09] tomu, že ty Iránci můžou poslat raketu kdykoliv a spálit vás,
+[15:14] tak to asi není úplně, chápu, že to je za dobrý peníze,
+[15:17] ty americký vojáci mají dobrý peníze, ale osobně bych prostě
+[15:21] na tu lodi nalezl, protože člověk nikdy neví, kdy se to zvrpne
+[15:25] na té lodi, ta je prostě jak na střelnici, panáček.
+[15:31] Přesně tak, americký prezident Donald Trump prohlásil,
+[15:35] že po porážce Iránu hodla hormonský průliv prohlásit
+[15:40] za území Spojených států.
+[15:42] Trump zároveň uvedl, že Spojené státy mají schopnost
+[15:44] Irán zničit, ale podle jeho slov to nechtějí udělat.
+[15:48] Teheránu také pohrozí výrazně silnější odvětou v případě,
+[15:52] že by Irán zničil.
+[15:53] Mě by jenom zajímalo, jestli ten Donald Trump
+[15:57] je nějakej robot, nebo jestli je to klon,
+[16:00] nebo jestli jsou to jenom dvojníci.
+[16:02] To není důležitý k tý zprávě.
+[16:04] Donald Trump, to je fuk, je to prostě nějaká značka,
+[16:07] je to americký prezident a co řekne, tak to má nějakou váhu,
+[16:10] protože to je americký prezident.
+[16:12] No to je super, že bude teď prohlašovat hormonský průliv
+[16:15] za území Spojených států, proč ne?
+[16:18] Tak jako za chvilku si, za chvilku může prohlásit
+[16:21] za území Spojených států.
+[16:22] Třeba Českou republiku, myslím si, že by se určitě našli ve vládě
+[16:25] minimálně dva předseda vlády a ministr zahraničních věcí,
+[16:29] který by to uvítali, kdyby Česká republika byla dalším státem
+[16:32] Spojených států amerických. Samozřejmě to se nestane,
+[16:34] protože budeme součástí Spojených států evropských,
+[16:37] ale to, co dělá Donald Trump, prostě myslel jsem si,
+[16:41] že už nedokáže překonat nějakým způsobem moje očekávání
+[16:48] v tom, že by mě překvapil, ale tohle mě docela překvapilo.
+[16:50] Když jsem slyšel, že budou mít Spojený státy pod kontrolou
+[16:53] hormonský průliv, tak včera jsem to komentoval,
+[16:56] že jedině pokud se dohodnou s Iránem, ale to mě nenapadlo,
+[16:59] že druhej den Donald Trump řekne, že prohlásí hormonský průliv,
+[17:02] který je úplně na druhé straně od Spojených států
+[17:05] za svoje vlastní území. To je prostě nějaké mezinárodní právo,
+[17:10] nějaká územní celistvost, nějaká charta OSN,
+[17:13] nějaká bezpečnostní struktura světa, nějaké prostě zákony,
+[17:18] nebo vůbec pravidla.
+[17:20] Ne, to pro Donalda Trumpa vůbec neplatí.
+[17:23] Donald Trump prostě, když se vyspí a řekne, že chce nějakou zemi,
+[17:27] aby byla součástí Spojených států, tak to prostě musí být.
+[17:30] A celý svět mlčí. To je na tomto nejzajímavější.
+[17:34] Celý svět mlčí. Žádný prezident, žádný politik.
+[17:38] Nebo viděli jste, že by třeba Andrej Babiš, náš premiér,
+[17:40] že by se dneska k tomu vyjádřil? Protože dřív se to tak dělávalo.
+[17:44] Když byla nějaká takováhle prohlášení, tak se komunicky vyjadřovali
+[17:47] představitelé země. Andrej Babiš se cítí být v čele naší země,
+[17:51] tak předpokládám, že by se k tomu mohl vyjádřit,
+[17:53] že by mohl říct, že to je nepřijatelné, že hormonský průliv
+[17:55] jsou z částky mezinárodní vody, z částky vody Omanu
+[17:59] a z částky vody Iránu a že Spojené státy nemají žádný právní nárok
+[18:03] na to, aby ho prohlašovali za svoje vlastní území.
+[18:06] Ale neviděl jsem Andreje Babiše. Nevím, jestli byste viděli Andreje Babiše,
+[18:09] že by se k tomu vyjádřil, tak mi dejte vědět v komentářích, prosím vás.
+[18:16] Program PURL, jehož prostřednictvím Spojenci financují nákup
+[18:20] amerických zbraní a munice pro Ukrajinu, zatím nedosahuje objemu,
+[18:26] který by odpovědl rozsahu ukrajinských potřeb.
+[18:29] Podle údajů zveřejněných Volvimirem Zelenským, činili ke konci června
+[18:34] finanční závazky 28 zemí zapojených do iniciativy přibližně 6,3 miliardy dolarů.
+[18:41] Na to následně potvrdilo, že Spojenci a partneři prostřednictvím PURL
+[18:46] přislíbili víc než 6 miliard dolarů na vojenské vybavení ze Spojených států.
+[18:53] Můžu poprosit režie o tu předchozí fotku?
+[18:56] Tam mně se líbí, jak glumovi narostli, jak se nechal narůst fousy a vlasy
+[19:01] a jak to má hezky vystříhaný tam. Ještě byste mohl nechat takhle ty...
+[19:06] Víte, jak tam mají takhle ty dvě S, tak by si to tam mohl nechat vystříhat.
+[19:09] No...
+[19:10] ...
+[19:10] To je fuk.
+[19:12] Prostě, co se týče PURL, to je jenom jedna z těch,
+[19:15] to je jenom jedna z těch, že jo, způsobů financování.
+[19:19] Samozřejmě Volodomír Zelenský poslední dny se snaží získat od Spojených států rakety,
+[19:26] že jo, teď přišel s tím, že vlastně má, dostává jenom 1% ze zásob raket Patriot,
+[19:32] co mají Spojený státy.
+[19:33] A to je docela zajímavé, protože tím vyzradil, kolik vlastně zásob Patriotů,
+[19:40] střel, mají Spojený státy.
+[19:42] Protože kdyby řekl, kolik jich potřebuje, tak dobře, ale když řekl,
+[19:47] potřebuje jenom 1% toho, co máte v zásobách, tak vyzradil naprosto tajnou informaci.
+[19:52] Je otázka, jak vůbec to ví, kolik mají Spojený státy zásob raket Patriot.
+[19:57] Řekl, že by potřeboval 10, ale že možná by stačilo aspoň 5%,
+[20:01] aby přežila Ukrajina zimu, ale lepší by bylo 10.
+[20:04] Aby počítával, kolik raket mají rusové, kolik na ně pada,
+[20:09] takže to je to, co se stává.
+[20:09] Protože Ukrajina se nemá teď prakticky čím bránit.
+[20:12] A postavil Donalda Trumpa, který tvrdí, že Spojené státy mají dost raket
+[20:16] do docela nepříjemné situace, protože Donald Trump teď jak na to má reagovat,
+[20:22] když on potřebuje jenom 5% toho, co se někde válí ve skladech Spojených států,
+[20:28] armády Spojených států, to není tak moc.
+[20:31] Na druhou stranu musím vám říct, možná se mnou nebudete souhlasit,
+[20:34] ale musím vám říct, že na straně Volodymyra Zelenského to docela chápu.
+[20:38] Jo, představte si, že řídíte nějakou zemi a Spojený státy vás přesvědčí,
+[20:46] abyste šli do války. Slíbí vám bezmeznou podporu vojenskou,
+[20:50] že vás budou podporovat, dokud nevyhrajete.
+[20:52] Že vás budou podporovat všim, co budete potřebovat.
+[20:55] Pak vám to slíbí ještě další státy, celá Evropa,
+[20:58] že vám dají všechno, co budete potřebovat, jenom abyste šli do války.
+[21:01] Vy teda do té války vlezete a nahednou vypadá to,
+[21:05] že prostě ten soupeř je silnej v roce 22.
+[21:09] Tak hned po měsíci jdete podepsat mírový dohody.
+[21:12] A ta Evropa za váma zase přijde, spolu s těmi američanami,
+[21:15] řekne vám, neblázni, to vyhrajeme.
+[21:18] Dostaneš všechno, co budeš potřebovat.
+[21:20] Na co si vzpomeneš, to dostaneš. Peníze, zbraně, vojáky,
+[21:24] inteligenci ti dá, myslím, jako inteligenci zpravodajské informace,
+[21:30] internet, GPS souřadnice, navádění.
+[21:33] Dáme ti odborníky, které ti vyškolí tvoje vojáky.
+[21:36] Všechno ti poskytneme.
+[21:37] Tak vy jdete válčit a oni vám prostě, když začnete jako tvrdě prohrávat,
+[21:41] tak vám řeknou, no hele, ale my máme sami málo,
+[21:44] my ti prostě víc raket nedáme.
+[21:46] Takže docela chápu Volodomira Zelenskýho,
+[21:48] že po Spojených státech, který ho natlačili do toho konfliktu,
+[21:52] takže ty rakety chce, rozumím tomu.
+[21:56] Na druhou stranu je pravda, že neměl se nechat natlačit
+[21:59] do nějaký takovýhle hry.
+[22:01] Vím, že mi tady píšete určitě, že je chazarský žid,
+[22:04] že je sam Zelenský a že pracuje pro ty globalistické struktury,
+[22:07] stejně jako Trump.
+[22:08] Ano, nehádám se, neříkám, že to je prezident suverénní země.
+[22:13] Žádnou takovou věc jsem neřekl.
+[22:15] Jenom říkám prostě, jako člověk neměl se nechat do tohohle z toho natlačit,
+[22:18] protože historicky on je zodpovědný za likvidaci Ukrajiny.
+[22:22] A to je prostě věc, která je neoddiskutovatelná.
+[22:25] Spojení státy v tuhle chvíli nechali Ukrajinu docela na pospas.
+[22:29] Ještě tady budeme mít dneska zprávu o internetu,
+[22:32] o Starlinku, takže zase přeskočím, ať to neprotahujeme.
+[22:38] Tak v posledních dnech jsme se tady bavili o Starlinku,
+[22:40] že Elon Musk nechce poskytovat internet Ukrajincům
+[22:43] a často ty ukrajinské jednotky byly naprosto závislé na Starlinku,
+[22:47] protože jakmile byly bez internetu, tak ztratili veškerou komunikaci,
+[22:51] jak s velením, tak prostě mezi sebou víceméně.
+[22:55] A dneska tady máme zprávu, Zuzko, můžeš se dostat na Starlink,
+[22:58] přečíst nám ji?
+[22:59] Ano, když si to najdu, Starlink.
+[23:07] Ukrajinské jednotky.
+[23:09] Podle dostupných informací začínají dostávat novou generaci
+[23:14] terminálu Starlink 2.5.
+[23:17] Oproti předchozí verzi jsou výrazně menší, lehčí
+[23:20] a energeticky úspornější.
+[23:22] Motnost terminálu klesla přibližně na 2,9 na 1,1 kilogramu,
+[23:30] zatímco průměrná spotřeba energie se snížila ze 75 až 100 na 35 až 50 vatů.
+[23:37] Tyto parametry usnadňují.
+[23:39] Výrazně snížení v terénu, například ve vozidlech nebo v omezeném prostoru.
+[23:44] Nižší hmotnost a spotřeba mohou být vhodné také při instalaci na větší bezpilotní prostředky,
+[23:52] kde každý kilogram a vat navíc omezuje možnosti platformy.
+[23:59] Oficiální údaje společnosti Starlink potvrzují výrazné snížení hmotnosti
+[24:04] i spotřeby oproti předchozí generaci.
+[24:07] Hm.
+[24:08] Hm.
+[24:09] My taky měli Starlink.
+[24:10] Koupili jsme si ho v roce 22 kvůli demonstracím na Václaváku,
+[24:13] abychom měli svůj internet.
+[24:16] Pak jsme ho teda vrátili, ale taky jsme si ho pořídili.
+[24:20] No, v těch předchozích dnech jsem vám říkal, že to je zvláštní,
+[24:24] že samozřejmě Elon Musk se nerozhodne sám.
+[24:28] To muselo jít z vedení amerického státu.
+[24:31] A nechápal jsem, proč najednou američani chtějí zrušit Ukrajincům internet.
+[24:37] Nerozuměl jsem tomu.
+[24:39] Takže si nejsem úplně jistý, že to je zvláštní,
+[24:41] že si prostě chtějí z toho nějakým způsobem vycouvat, nebo co chtějí.
+[24:45] Ale teď už víme, o co šlo.
+[24:47] Nešlo vůbec o žádnou závažnou věc, protože dostali Starlink úplně jiný.
+[24:52] Dostali prostě nějakej novější model.
+[24:54] Takže Spojené státy pokračují přímo.
+[24:57] Spojené státy pokračují přímo v tom, aby dodávali vojenské armádě internet k tomu,
+[25:04] aby mohli pokračovat ukrajinskí vojáci v boji.
+[25:08] Protože bez těch...
+[25:09] Protože bez internetu oni by těžko pokračovali.
+[25:11] Takže je naprosto evidentní, že to, co včera Sergej Lavrov jsme měli ve zprávách,
+[25:16] řekl, že by chtěl od Američanů vědět, co znamená jejich zapojování se do útoků
+[25:21] proti Ruské federaci, tak tady máme odpověď ze Spojených států ve formě
+[25:27] zdviženého prostředníčku, kdybych to řekl takhle neslušně.
+[25:32] To tak prostě je.
+[25:34] Protože kdyby Spojené státy nechtěly pomáhat Ukrajincům, aby útočili hluboko
+[25:38] do ruského útoku,
+[25:39] tak by ty předsunuté jednotky, které jsou nejdál, které prostě nemají přístup
+[25:43] k ukrajinskému internetu, tak by jim nedali.
+[25:46] Nedali by jim ty Starlinky, protože bez nich oni by nemohli útočit.
+[25:49] Takže tohleto to není tak, že Spojené státy poskytují Ukrajině internet.
+[25:54] Ne, tohleto je internet, který je přímo určený pro armádu,
+[25:57] aby mohli oni útočit na ruské území.
+[26:01] Jedním z největších ekonomických překvapení války s Iránem
+[26:08] je podle dostupných analýz relativně mírný růst cen,
+[26:11] přestože je hormonský průliv z velké části uzavřen.
+[26:16] Cena ropy Brent zůstává přibližně o 40 dolarů za barel
+[26:20] pod maximem 126 dolarů, kterého dosáhla 30. dubna.
+[26:25] Na trhu se dokonce krátce objevil přebytek ropy,
+[26:28] takže motoristé a nidovozci zatím nečeli zásadní energetické krizi.
+[26:33] Významnou roli v tlumení dopadu podle textu se hrává Čína,
+[26:37] která pomáhá udržovat světový trh s ropou zásadně.
+[26:41] Zároveň omezuje ekonomický tlak konfliktu na spojené státy.
+[26:46] Tenhle titul, že Čína převzala od OPEC kontrolu nad trhej s ropou,
+[26:51] je maličko nadsazený. Nevím, kdo vyrobil tenhle obrázek.
+[26:56] To si myslím, že rozhodně není.
+[26:59] OPEC pořád má v zásadě kontrolu nad ropou ve světě, v zásadě.
+[27:04] Ale to, že Čína nějakým způsobem do toho zasahuje, je to velká země.
+[27:12] Nevím, co bych k tomu měl říct víc.
+[27:15] Pojďme na další zprávu.
+[27:17] Tondo, tobě se omlouvám za to, že jsem ti vypnul titulek.
+[27:20] Chtěl jsem ukázat tady komentář.
+[27:22] Zase nám tady někdo děkoval.
+[27:24] A pak ještě jeden komentář, že někdo sdílí naše vysílání.
+[27:27] Tak za to děkujeme. Pojďme na další zprávu.
+[27:30] Tak zůstaneme v Číně.
+[27:32] Čínské námořnictvo upravuje jednu ze svých největších tříd válečních lodí.
+[27:37] Jediný snímek z lodě Hudong z Hongua v Šanghaji zachycuje rozestavenou fregatu typu 054B,
+[27:45] jejíž uspořádaní na třídi se líší od prvních dvou lodí této třídy.
+[27:50] První fregaty jsou vybaveny vertikálním odpalovacím systémem
+[27:54] s 32 raketovými buňkami Nové.
+[27:57] Rozestavené lodi jsou podle dostupných snímků patrné prvky,
+[28:01] které mohou odpovídat šesti blokům z osmi buňkách,
+[28:05] tedy 48 odpalovacím blokům.
+[28:07] Pokud se konfigurace potvrdí, znamenalo by to zvýšení kapacity o 50%,
+[28:13] aniž by bylo nutné výrazně zvětšovat trup nebo zavadit zcela novou třídu fregat.
+[28:19] A jedeme.
+[28:20] Zdravím, tady máme Piotka z Vratislavy.
+[28:23] Pěkný večjůr a tady vidím, že máme zajímavý komentář od něj.
+[28:28] Co se týče Číňanů, no tak Čína zbrojí ve velkém,
+[28:31] o tom jsme se taky bavili včera, takže nemusíme to rozebírat,
+[28:34] můžeme přeskočit komentář na toto téma,
+[28:36] informace o tom.
+[28:37] Ta informace je zajímavá.
+[28:38] Když vidím tu čínskou, tak si říkám, že to bude facek jak potlesku v Národním divadlu,
+[28:42] až to začne střílet.
+[28:43] Ale pojďme na další zprávu, a myslím, že jsme přeskočili sedmičku USA.
+[28:47] Jenom pro informaci.
+[28:51] Píše to tady Tonda.
+[28:52] Ale pojďme na další zprávu, Zuzko.
+[28:55] Já se omlouvám.
+[28:58] Polský premiér Donald Tusk během přehlídky polského námořnictva v Gdyni prohlásil,
+[29:04] že polské ozbrojené síly budou brzy patřit k největším v Evropě.
+[29:09] Podle něj Polsko o válku neusiluje.
+[29:11] Zároveň se ji však může vyhnout pouze země, která je silná, připravená, nezávislá a suverénní.
+[29:19] Varšava buduje vojenskou sílu, která může rozhodovat o bezpečnosti celého regionu.
+[29:25] Za hlavní pilíře polské bezpečnosti označil kromě silné armády také výkon o ekonomiku,
+[29:31] pevná spojenectví a promyšlenou zahraniční politiku.
+[29:35] Změnil spolupráci kolem Balckého moře v Francii.
+[29:39] Velkou Britanii a Nizozemském.
+[29:42] Premier zároveň obhajoval pokračující podporu Ukrajiny.
+[29:46] Podle něj Polsko pomáhá Ukrajině především kvůli vlastní bezpečnosti a bezpečnosti polských občanů.
+[29:54] No podívejte, taky jsme se o tom bavili v posledních dnech.
+[29:59] Říkal jsem vám, pak když je cílem zbavit se bílého muže, především Slovana,
+[30:05] tak první na řadě je Ukrajina.
+[30:08] A druhý na řadě je Polsko.
+[30:11] Protože Polsku má 40 milionů lidí.
+[30:14] A přestože v Polsku je míň mužů než žen, to je kvůli tomu, že ve válce ztratili hodně mužů,
+[30:20] takže muži jsou tam cenění.
+[30:22] Jestli máte někdo nedostatek žen v České republice, doporučuji dojet do Polska.
+[30:27] Polky jsou krásný, vaří vynikající supu jako polívku.
+[30:32] A hodně se o sebe starají.
+[30:35] Polské holky jsou vynikající.
+[30:38] A je tam nedostatek chlapů.
+[30:40] Takže jestli máte někdo pocit, že v Čechách na vás holky tolik nekoukají,
+[30:45] zkuste se jít podívat do Polska.
+[30:47] Doporučuji.
+[30:48] A tady omlouvám se Priotrkovi z Wroclavy, že tam posílám nějaký další chlapíky.
+[30:56] Ale co se týče Polska, podle mě Polsko je další na řadě.
+[31:01] Dneska taky moje manželka mluvila s naší kamarádkou z Polska,
+[31:04] je jedna z nejlepších kamarádek.
+[31:06] Říkala, že se začíná bát.
+[31:08] Že opravdu ta atmosféra v Polsku je tvrdá.
+[31:11] Zatímco v České republice se nikdo nebojí války,
+[31:14] protože všichni jsou v pohodě, protože máme samozřejmě novou vládu,
+[31:17] která nikoho nepošle do války.
+[31:19] V Polsku je to trošku jinak.
+[31:21] Tam se jede velmi tvrdě proti Rusku a velmi tvrdě se mluví o tom,
+[31:26] že může přijít válka.
+[31:28] Polsko chce mít taky největší armádu v Evropě,
+[31:34] ale už neříkají největší, říkají jednu z největších,
+[31:36] protože ví, že největší armádu bude mít Německo.
+[31:39] Tak to se máme na co těšit, protože to už jsme tady měli,
+[31:42] největší armádu v Německu.
+[31:44] Zajímavé je, že ty Poláci prostě si nepamatují tu druhou světovou válku,
+[31:49] protože Poláci si pamatují druhou světovou válku jako lidi.
+[31:52] A velmi často mluví o druhé světové válce, ne jako v České republice.
+[31:55] V Polsku je prostě pořád v živé paměti druhá světová válka,
+[31:59] protože strajkili hodně mužů.
+[32:01] A město o tom mluví. A nechápu, jak ty Poláci,
+[32:04] že nechají prostě tyhle své politiky, aby táhli Polsko do další války.
+[32:08] Nerozumím tomu. Fakt to nechápu.
+[32:10] No, pojďme na další zprávu. Třeba na tu sedmičku už.
+[32:13] Ano, vrátím se, omlouvám se k sedmičce.
+[32:16] Spojené státy připravují tlak na desítky partnerských zemí,
+[32:20] aby si v globálním závodě o umělou inteligenci vybrali
+[32:24] mezi spoluprací s Washingtonem a čínskými iniciativami.
+[32:28] Informuje o tom Agentura Reuters
+[32:30] s odvolaním na amerického představitele
+[32:32] a interní návrh dopisu ministerstva zahraničí.
+[32:36] Washington chce, aby země zapojene do americké iniciativy Pax Vica
+[32:41] současně nevstupovaly do konkurenčních čínských projektů.
+[32:45] Cílem je omezit přístup Pekingu k technologiím, čipům
+[32:49] a kritickým surovinám, nezbytným pro rozvoj pokročilé AI.
+[32:53] Vypadá to, že nás čeká nová studená válka,
+[32:56] jestli nebude teda horká.
+[32:58] Ale rozdělení světa probíhá.
+[33:00] Na plné čáře Evropa samozřejmě bude patřit pod Spojené státy.
+[33:04] Tam není vůbec o čem diskutovat,
+[33:06] že by si nějaké státy vybíraly, že budou v rámci umělé inteligence
+[33:10] spolupracovat s Čínou.
+[33:12] To prostě samozřejmě vůbec nepřipadá v úvahu.
+[33:15] Takže nevím, jestli to nebyla zbytečná nějaká taková výzva,
+[33:19] aby se státy rozhodly.
+[33:21] Možná se jenom vytváří zase nějaký příběh
+[33:25] pro budoucí konflikt mezi Západem a Čínou.
+[33:29] Nevím proč.
+[33:30] Takováhle zpráva přichází, protože pro mě to je naprosto jasný,
+[33:33] že u nás bude palantýr a datové centra se budou u nás dělat,
+[33:37] ale veškerá většina toho toku, stejně 75 % veškerého toku internetu
+[33:42] jede přes Spojené státy.
+[33:44] Prakticky veškerá komunikace, kterou máme, jede přes Spojené státy.
+[33:49] Někdy vám o tom můžu říct víc, protože mám jednoho kamaráda
+[33:53] z Kalifornie, ze Silicon Valley, který mi vysvětloval tyto věci
+[33:56] poměrně dohloubky, jak funguje internet, jeho zabezpečení, klíče,
+[33:59] k čemu má přístup stát a jaké jsou vlastně důvody k tomu,
+[34:05] že to funguje tak, jak to funguje, jaká je architektura internetu.
+[34:09] Evropa je absolutně podřízená Spojeným státům v oblasti internetu,
+[34:14] v oblasti umělé inteligence a v oblasti komunikace. Absolutně.
+[34:22] Německo by se v případě vážné eskalace konfliktu na východním kříhle
+[34:26] NATO stalo jedním z klíčových logistických úzlů aliance.
+[34:30] Stav jeho infrastruktury však.
+[34:32] Vyvolává otázku, zda by země dokázala zvládnout nápor spojený s přesunem
+[34:37] stovek tisíc vojáků a obrovského množství vojenské techniky.
+[34:41] Podle takzvaného německého operačního plánu, který vypracoval Bundeswehr,
+[34:46] by v případě krize mělo být přes území Německa směrem k Polsku
+[34:51] a východním hranicím NATO přesunuto přibližně 800 tisíc vojáků
+[34:56] a zhruba 200 tisíc obrněných a dalších vozidel.
+[35:00] Německo by zároveň fungovalo jako hlavní zdravotnické zázemí NATO.
+[35:05] Podle plánu Bundeswehru by německé nemocnice mohly v případě rozsáhlějšího konfliktu
+[35:12] přijímat až tisíc zraněných denně.
+[35:16] No, to je super. A není tam v té správě také, kde budou ty hřbitovy,
+[35:20] kde budou přijímat, jestli bude tisíc zraněných denně,
+[35:23] kde budou přijímat třeba dva tři tisíce mrtvých denně?
+[35:26] To tam nepíšou. Možná je budou zárabávat rovnou po cestě někde okolo Žadce,
+[35:30] nebo tak něco, že by tam mohli vykopat nějaké válečné hroby.
+[35:34] No, je to prostě příběh. Minimálně je to zajímavé v tom, že žijeme v zajímavé době.
+[35:42] Protože vždycky, když jsem byl malej, tak jsem se bál války.
+[35:45] Zdálo se mi o druhé světové válce pravděpodobně nějaké blbé zážitky z minulých životů.
+[35:50] Ale potom, když jsem dospíval a když jsem byl starší, tak jsem přemýšlel hodně nad tím,
+[35:56] jak je to možné, že se vůbec ta druhá světová válka,
+[36:00] jak je možné, že vlastně ta společnost do toho spadla.
+[36:04] Říkal jsem si, jaké procesy se musí stát ve společnosti, aby se stala světová válka.
+[36:10] A to, co je zajímavé na tom, je, že dneska už to vím.
+[36:13] A nejsou to žádné procesy ve společnosti. Protože teď to vidím v přímém přenosu.
+[36:18] Je to naprosto z hora řízeno. Nevíme odkud, protože tam nedohlídneme.
+[36:24] Můžeme si o tom tady povídat, ale nevidíme to.
+[36:27] A my vidíme jenom, jak skrze prostředníky,
+[36:30] se vytváří ta válka, jak ty politici říkají každý den,
+[36:34] že Rusko je agresor, že Vladimír Putin chce napadnout Evropu,
+[36:38] že je potřeba zbrojit. Samozřejmě jenom pro obranu.
+[36:42] Že je potřeba pomáhat Ukrajině, protože Ukrajina se brání.
+[36:45] A tak dál. A vidíme tu válečnou propagandu, ty lži,
+[36:48] to obrovské množství lži, kde není kousek pravdy.
+[36:52] A vidíme, že prostě tohleto je přesně...
+[36:55] Jo, když si představíte, že bysme za rok byli ve válce,
+[36:58] tak se podívejte na ty čtyři a půl roku zpátky,
+[37:00] nebo i na těch pět let už volby Petra Fialy,
+[37:04] který říkal, že patříme na západ.
+[37:06] Už tenkrát jsem si říkal, co to je po covidu za nesmysl,
+[37:09] že dělá reklamní předvolební kampaň, patříme na západ.
+[37:13] Proč? Proboha, co to je?
+[37:15] A pochopili jsme to, až když Rusové přišli na Ukrajinu.
+[37:17] Ale tu už samozřejmě všechny ty věci byly naplánované,
+[37:20] rozběhnuté, ty politici věděli.
+[37:22] Takže když se podíváme na těch pět let zpátky,
+[37:26] tak vidíme naprosto dokonale jako vzrcadle celý příběh toho,
+[37:30] jak se rozehrává válka.
+[37:32] No a 800 tisíc vojáků má jíst přes Německo,
+[37:35] protože Německo bude důležitý úzel.
+[37:37] Samozřejmě v Německu je vedení NATO i dneska.
+[37:40] Takže samozřejmě, že Německo je zásadní země pro budoucí válku s Ruskem,
+[37:45] protože Němci jsou prostě válečníci.
+[37:48] Vždycky byli, jsou koordinovaní, jsou poslušní.
+[37:52] Jsou tvrdí.
+[37:54] Když jsou v armádě, tak nepřemýšlí a bojují.
+[37:57] Takže to je jasné, že Německo bude další země.
+[38:02] A otázka je, jaký je plán.
+[38:04] Jestli je plán celkový vylínění populace na půl miliardy nebo na miliardu.
+[38:08] Nebo jestli je plán zbavení se slovanských lidí.
+[38:12] Nebo jestli je plán zbavit se bílýho člověka v Evropě.
+[38:15] Teď se bavím jenom o Evropě.
+[38:17] Jestli je cíl opravdu v Evropě,
+[38:19] aby se v Evropě vzniknul nějaký,
+[38:21] jak by řekli,
+[38:22] Německý myšun,
+[38:23] nějakých různých odstínů, barev, pleti,
+[38:27] tak je samozřejmě tady potřeba přivážet další lidi z těch islámských zemí.
+[38:35] Samozřejmě legálně.
+[38:37] Legálně, protože ilegální migrace, to je zlo.
+[38:40] To je strašný.
+[38:41] Ilegální migrace, tomu všichni politici pořád mluví o ilegální migraci, jak je to strašný.
+[38:46] Ale legální migrace je v pohodě.
+[38:48] Když přivezou pár milionů lidí legálně, tak to je v pohodě.
+[38:52] Slováci teď,
+[38:53] měli přivez nějakých dvěstě padesát tisíc,
+[38:55] tak se jen tedy v Malé Slovensko přiveze dvěstě padesát tisíc,
+[38:58] tak nějak kolik milionů přiveze Evropa.
+[39:01] Takže z jedné strany dovážení migrantů,
+[39:04] a z druhé strany konflikt s Ruskem.
+[39:09] Mně to připadá jako, že tohle by mohlo být plán.
+[39:12] Jestli tohleto je plán, někde tam zora,
+[39:15] no tak můžou být Němci taky další na řadě,
+[39:17] protože Německo jako se svými osmdesáti miliony lidma
+[39:21] už ukázali historicky, ukázali už několikrát,
+[39:23] že to je velmi silný národ, který se jen tak nedá.
+[39:26] Takže jo, tam bych si taky dokázal představit,
+[39:30] že by bylo, že možná v budoucnosti
+[39:33] bude hodně Němců válčit a hodně Poláků.
+[39:36] Taky hodně Němců utíká ze země.
+[39:38] Ještě nedávno mladí Němci nesměli odejít ze země
+[39:41] víc než myslím, že na tři měsíce,
+[39:43] nebo na jak dlouho, Zuzko, jestli si vzpomínáš,
+[39:45] aniž by se nahlásili u odvodové komise
+[39:47] a dostali povolení.
+[39:49] Spousta lidí utíká z Německa.
+[39:52] Ani se tomu nedivím.
+[39:57] Osobně bych taky asi utíkal,
+[40:01] ale osobně bych možná už měl zbalený baťužek,
+[40:04] kdybych byl v Čechách, tak bych měl zbalený baťužek
+[40:07] a už bych přemýšlel.
+[40:09] Už bych se koukal takhle dodálky
+[40:11] a bych měl připravené hodinky s kompasem
+[40:13] a nějaké energetické tyčinky v tom baťužku,
+[40:17] nějakou mapu.
+[40:19] Takové věci.
+[40:21] Nějakou tu flašku, co se dokáže filtrovat voda,
+[40:24] nějaký peníze bych měl připravený cizí.
+[40:27] Nějaké dobré boty,
+[40:29] protože člověk, když bude utíkat
+[40:31] přes různý státy, tak to může trvat.
+[40:34] Už bych si je vyšlápnul ty boty pomalu.
+[40:37] Když budete vyšlápávat potom nové boty,
+[40:39] tak budete mít puchejře.
+[40:41] Lepší si je vyšlápnout teď, zajít na pár kopců,
+[40:43] aby až potom poběžíte přes Šumavu,
+[40:45] abyste už měli trošku zaběhlý.
+[40:49] Udělal bych si možná takový nějaký nácvik toho,
+[40:52] kudy přes Šumavu, až bude vyhlášený stav
+[40:54] ohrožení země nebo váleční stav
+[40:56] a budou zavřený hranice.
+[40:58] A nebo ne, nebo v Ráběli jenom straší
+[41:00] a klidně lidi můžou sedět doma a čekat.
+[41:03] Jako na Ukrajině.
+[41:04] Tam taky prostě sedí čtyři a půl roku
+[41:06] a teď prostě je vytáhnou z auta,
+[41:08] tam je s kopou a manželky zbijou
+[41:10] a babičky zbijou a pepřák na to používají.
+[41:14] Ty lidi mlátí, pak je odváží.
+[41:17] To je nejhorší, co jsem snad viděl,
+[41:20] jako noční můra, co jsem viděl,
+[41:22] jak odváží lidi, jak unáší lidi na Ukrajině.
+[41:24] A svět mlčí.
+[41:26] Demokracie, svět mlčí.
+[41:28] Ještě jim je tam budeme posílat teď.
+[41:30] I z celé Evropské unie.
+[41:32] Oni už nemají dneska nárok ani na to,
+[41:34] aby byli váleční uprchlíci.
+[41:36] Na to mají nárok jenom, když jsou muslimové.
+[41:39] To prostě bílý Slovani nemůžou.
+[41:41] A ještě tady využili tu nenávist
+[41:43] těch národů vůči těm Ukrajincům.
+[41:45] A ještě naše národy říkají,
+[41:47] jenom tam pošlete všechny.
+[41:49] A ještě náš předseda parlamentu
+[41:51] nebo poslanecký sněmovny,
+[41:53] tak ten by posílal do první linie
+[41:55] dokonce mladého Ukrajince,
+[41:57] který si stoupnul za jízdy
+[41:59] a vystrčil hlavu z okníka ze střechy.
+[42:01] Čímž prokázal, že je dobrý řidič.
+[42:03] A můžu vám říct, že mně,
+[42:05] když bylo 20 nebo 18 let,
+[42:07] jak jsem dělal úplně stejné věci.
+[42:09] Měl takový auto s velkým střečním oknem.
+[42:11] Pamatuju se jak dneska,
+[42:13] jak jsem se pokoušel za jízdy vylejzat ven.
+[42:15] Nebo jako vystrkovat hlavu.
+[42:17] Prostě mladý kluk jsem byl taky.
+[42:19] Divokej.
+[42:21] Ale Tomio Okamura by ho poslal
+[42:23] do první bojový linie na smrt.
+[42:25] To je tvrdý.
+[42:27] To je fakt tvrdý.
+[42:29] Nechci používat neslušný slova,
+[42:31] ale to je opravdu tvrdý.
+[42:33] No, pojďme dál. Německo 800 000 vojáků
+[42:35] a 200 000 obrněných vozidel
+[42:37] už se připravují.
+[42:40] Polské bezpečnostní složky
+[42:42] zmařily další pokus o hromadný průnik
+[42:44] nelegálních migrantů přes hranici
+[42:46] do španělské Seuty.
+[42:48] Hlavně, aby dokázali zabránit
+[42:50] taky policisti
+[42:52] hromadnému průniku, až ti, kteří už tady jsou,
+[42:54] si vyhlídnou ty mladé evropské holky.
+[42:56] To by bylo potřeba.
+[42:58] Protože to, že přijde nějaká zpráva,
+[43:00] že zabránili teď nějakému průniku,
+[43:02] to je prostě zpráva,
+[43:04] aby se ukázalo, že to je v pořádku,
+[43:06] aby se lidi uklidnili,
+[43:08] že to tam mají pod kontrolou,
+[43:10] a tak dál. Pojďme dál.
+[43:12] Prostě tato zpráva, podle mě,
+[43:14] jediné, co stojí za dokumentování,
+[43:16] je tato strana.
+[43:18] Takže nemám to dočíst.
+[43:20] Ne, prostě nějaká propaganda
+[43:22] migračního paktu,
+[43:24] jak je prostě všechno skvělý,
+[43:26] jak je nelegální migrace pod kontrolou.
+[43:28] Ale dobře, tak to přečti,
+[43:30] když už tam máme video.
+[43:32] Tak já jenom k tomu řeknu,
+[43:34] že oni měli smůlu,
+[43:36] že nešli po vodě.
+[43:40] To je taková propaganda,
+[43:42] když k nám jezdí miliony těch uprchlíků
+[43:44] legálně a nelegálně taky,
+[43:46] a to není jenom přes Seutu přece.
+[43:48] Nyní jako tam jezdí pořád
+[43:50] minimálně 10 lodí
+[43:52] různých neziskových organizací,
+[43:54] který křížují to pobřeží
+[43:56] od Libie, nevím,
+[43:58] egyptské pobřeží,
+[44:00] prostě celé Středozemní moře,
+[44:02] celý Egypt, co to tam je,
+[44:04] Tunis,
+[44:06] Maroko,
+[44:08] a ještě tam je jedna země mezi nimi,
+[44:10] prostě všechny tyhle,
+[44:12] sakra, Egypt, Tunis, Maroko,
+[44:14] a co je mezi nimi tam ještě,
+[44:16] možná napište mi to někdo tady,
+[44:18] jsem z úplného blbce.
+[44:20] Co to tam je,
+[44:22] Maroko, Tunis,
+[44:24] Egypt,
+[44:26] no tak fakt nevím,
+[44:28] tak to mě zabijte tohleto,
+[44:30] no to nevadí, prostě nevím,
+[44:32] prostě si nemůžu vzpomenout,
+[44:34] to je moje paměť děrová.
+[44:36] Takže tam jezdí ty lodí,
+[44:38] minimálně 10 lodí,
+[44:40] z velkých neziskových organizací,
+[44:42] tam neustále křižuje to moře
+[44:44] a oni jakmile vyjedou
+[44:46] na těch člunech,
+[44:48] tak oni vlastně pár kilometrů
+[44:50] už jsou, nebo párset metrů,
+[44:52] už jsou v mezinárodních vodách,
+[44:54] takže oni je, Alžír, děkuju,
+[44:56] takže oni je naberou
+[44:58] do těch lodí
+[45:00] a už jsou zachráněný
+[45:02] z mezinárodních vod
+[45:04] a už s nima jedou přes celý středozemní moře
+[45:06] a jedou s nima do Itálie
+[45:08] většinou, nebo někam prostě,
+[45:10] na Lampedusu, nebo někam do nějakého toho tábora,
+[45:12] tam je odvezou,
+[45:14] no a tam už dostanou razítko, to jsou zachráněný,
+[45:16] ty přijeli po moři, no a frrrr
+[45:18] do Evropy. Takže to, že nám tady
+[45:20] tykon řeknou, že 100 lidí neprošlo přes Ceutu,
+[45:22] to prostě nemá vůbec,
+[45:24] to vůbec nemá cenu. Kolik chodí přes řecký ostrovy?
+[45:26] Tam je nespočet
+[45:28] malých ostrovů z Turecka.
+[45:30] Tam hromadně jezdí po člunech,
+[45:32] přijdou do Řecka, no a pak si to štrádujou
+[45:34] Rumunsko, Bulharsko, Maďarsko,
+[45:36] nebo dřív chodili přes Ukrajinu,
+[45:38] nevím, kudy chodí teďkon,
+[45:40] nebo další, prostě
+[45:42] přes tu Ceutu,
+[45:44] tam taky
+[45:46] chodí hromada lidí,
+[45:48] přes Španělsko. Dokážu si
+[45:50] představit, že se dostanou do Evropy
+[45:52] nějak jinak, nevím, ale pořád je tady ještě
+[45:54] ta legální migracie, teď jako to pořád
+[45:56] slyšíte, že je potřeba pořád přivážet
+[45:58] nějaký, k nám teďko ne, protože
+[46:00] jsme vzali dva miliony Ukrajinců, nebo kolik těch
+[46:02] je u nás, ale v ostatních zemích to
+[46:04] slyšíte každou chvíli, že je potřeba pracovní
+[46:06] síly a pořády dováží, takže Evropa
+[46:08] se islamizuje prostě neuvěřitelně
+[46:10] rychlým tempem. Mikrofon,
+[46:16] Zuzanko, máš. Dobrý.
+[46:18] Lidskoprávní organizace
+[46:20] Human Rights Watch vyzvala
+[46:22] americký kongres, aby zablokoval
+[46:24] plánovaný vývoz velké
+[46:26] zásilky munice z Turecka na Ukrajinu.
+[46:28] Podle nich mají okazetovou
+[46:30] munici, která představuje riziko
+[46:32] pro civilní obyvatelstvo.
+[46:34] Organizace upozorňuje, že
+[46:36] část submunice
+[46:38] po dopadu nemusí explodovat
+[46:40] a může zůstat v terénu
+[46:42] dlouhé roky. Nevybuchlé kusy
+[46:44] pak představují nebezpečí podobné
+[46:46] našlapným minám i po skončení
+[46:48] boju. Zároveň tvrdí,
+[46:50] že munice má být víc než
+[46:52] 30 let stará, což podle
+[46:54] organizace zvyšuje riziko selhání.
+[46:56] Ukrajina však okazetovou
+[46:58] munici považuje za důležitý
+[47:00] prostředek obrany.
+[47:03] No, víte, mně došel
+[47:05] jogurt, jo, teď mám rád řecký
+[47:07] jogurt a 9,9%
+[47:09] tuku v tom a to si dávám každej
+[47:11] den teďko s těma datlema
+[47:13] z Libanonu, už jsem vám to říkal, ty budou teďko dražší.
+[47:15] Ale manželka teďko
+[47:17] koupila jiný jogurt. Dala mi na výběr
+[47:19] prostě ze dvou ona pije takový ty tekutý
+[47:21] jogurty, jo. Takže asi
+[47:23] napíšu do Spojených států, jestli by mohli
+[47:25] zařídit, aby moje manželka nakupovala
+[47:27] jogurt řecký. Protože evidentní,
+[47:29] že teďko všechno musí
+[47:31] zařizovat Spojený stát. I
+[47:33] organizace Human Rights Watch
+[47:35] žádá americký
+[47:37] kongres, aby americké
+[47:39] kongres rozhodnul o tom, že
+[47:41] Turci nebudou dodávat
+[47:43] kazetovou munici
+[47:45] kazetovou munici Ukrajincům.
+[47:47] Samozřejmě americký
+[47:49] kongres k tomu musí dát souhlas,
+[47:51] protože to je,
+[47:53] protože to mají Turci od
+[47:55] Spojených států. Ale evidentně
+[47:57] prostě dneska všechno rozhodují američani.
+[47:59] To je první věc. Druhá věc. Kazetová
+[48:01] munice. Bavili jsme se o tom tady
+[48:03] tři dny zpátky, Zuzko, je to, co jsme měli tu
+[48:05] zprávu. Ano, dneska. No, čemu
+[48:07] slouží kazetová munice? To prostě
+[48:09] hodíte ze zora, ono se to
+[48:11] rozpadne, ono to spadne,
+[48:13] ono to vybouchne, rozlítne
+[48:15] se to na spoustu kousků,
+[48:17] ještě tam do toho třeba můžou být takový
+[48:19] nějaký koule, jo, jakože
+[48:21] ta bomba spadne a teď se rozlítnou
+[48:23] ty koule takhle. A to je přesně
+[48:25] to, co vidíte na těch fotkách, že vidíte
+[48:27] díry ve zdech takhle různě,
+[48:29] když vidíte. To není
+[48:31] ze střelby, to jsou tak, a to je, nebo
+[48:33] může to být, ale to může být taky
+[48:35] kazetová munice. Protože kazetová munice
+[48:37] je něco,
+[48:39] co je vytvořený k tomu, aby to zabilo
+[48:41] co nejvíc lidí. Když to někam dopadne,
+[48:43] třeba jako házeli teď
+[48:45] Ukrajinci na tu ruskou pláž, kde
+[48:47] čtyři děky zavraždili a
+[48:49] nevím kolik dospělých, několik desítek
+[48:51] dospělých, jo, plná pláž, že jo, lidi se
+[48:53] koupou, tak si představte,
+[48:55] když tam spadne taková kazetová munice
+[48:57] omylem. No, tak prostě tam nebude
+[48:59] 20 mrtvých nebo 30 mrtvých,
+[49:01] ale bude tam třeba 300 mrtvých. K tomu je určená
+[49:03] kazetová munice. Proto většina
+[49:05] zemí odepsala
+[49:07] dohody o tom, že nebude používat
+[49:09] kazetovou munici, protože to
+[49:11] je určený primárně k
+[49:13] zabíjení civilistů. No, a Turci
+[49:15] to teď dodávají
+[49:17] Ukrajincům a Kongres Spojených
+[49:19] států, jsem na to velmi zvědavý,
+[49:21] ale předpokládám, že k tomu dá
+[49:23] souhlas, aby jim to dodali. Ale jsem zvědavý,
+[49:25] možná, že ne, možná, že jim křivím, ale
+[49:27] uvidíme, protože co z toho, na druhou stranu
+[49:29] mají Spojený státy, aby Turci, aby
+[49:31] Turkům povolili, že na Ukrajině bude
+[49:33] kazetová munice. No, uvidíme, jsem zvědavý.
+[49:35] Ale teď mi to ještě připomnělo jednu věc. Včera
+[49:37] jsme byli na tom koncertu, Abba, slíbil jsem vám,
+[49:39] že vám o tom řeknu, bylo to super.
+[49:41] Prostě holce, 75 let
+[49:43] a prostě zpívá jako tančí.
+[49:45] Abba? Dokonce byli tam...
+[49:47] Ne Abba, Bonnie M, promiň.
+[49:49] Bonnie M, Bonnie M a
+[49:51] mě se trošku
+[49:53] pletou tyhle dvě a Bonnie M, na tom jsme byli včera,
+[49:55] ale představte si, chtěl jsem vám ukázat
+[49:57] video, nahrál jsem ho asi
+[49:59] po třiceti minutách koncertu,
+[50:01] ty holky,
+[50:04] ty zpěvačky, že tam byly
+[50:06] tři, jedna mladší a dvě ty starší
+[50:08] a ty jedny 75 a ty druhý
+[50:10] nevím, 72 nebo co, tak
+[50:12] si dali jakoby pauzu. Říkal jsem si,
+[50:14] no to je jasný, teď si jdou dát pauzu,
+[50:16] protože ten, co tam byl s nima zpěvák, tak začal
+[50:18] představovat kapelu.
+[50:20] Říkal jsem si, teď si musí dát pauzu
+[50:22] hodně. Ježiš, oni si takhle stoupili
+[50:24] dozadu a místo toho, aby odpočívali,
+[50:26] tak tam celou dobu prostě tancovali,
+[50:28] tleskali, prostě
+[50:30] dělali show. Neuvěřitelný, neuvěřitelný.
+[50:32] Tak to jsem vám jenom chtěl říct,
+[50:34] že jako mě utancovali,
+[50:36] protože ty holky tancovali celou dobu
+[50:38] a mně se prostě jako,
+[50:40] mně se podařilo celostavit v nějaký,
+[50:42] mně se nejvíc jako bavila
+[50:44] mě Dediku, to je prostě moje
+[50:46] oblíbený Dediku, taková šílená písnička,
+[50:48] určitě znáte,
+[50:50] ale lidi nejvíc reagovali
+[50:52] a skákali na
+[50:54] hra, hra, hra
+[50:56] Sputin, Lover of the Russian Queen,
+[50:58] znáte, takže to byla nejoblíbenější
+[51:00] písnička v Srbsku, manželka říkala,
+[51:02] že nevím, jestli to zahraju, dneska je to
+[51:04] takový politicky nekorektní, že jo,
+[51:06] končí to, all those
+[51:08] Russians, tak jestli
+[51:10] to tam pustí, ale tam prostě skákali
+[51:12] na pódiu černošky, černoši
+[51:14] prostě všichni, byl tam jenom jeden bílý,
+[51:16] jinak to byli všichni černí, skákali
+[51:18] prostě v to, v to publikum,
+[51:20] tam byli, jo, nevím, tisíce, tisíce lidí,
+[51:22] skákali taky a nejvíc
+[51:24] prostě se bavili na Rasputina.
+[51:26] Tak to jsem vám jenom tohle slíbil
+[51:28] a co se týče toho,
+[51:30] jak jsme byli na tom koncertě Boniem, pak mi manželka
+[51:32] říkala, že v Srbsku je tylko návrh
+[51:34] zákona, jenom návrh zatím,
+[51:36] že když někde hoří,
+[51:38] takže by se tam 30 let nesmělo
+[51:40] stavět, že jediný, co by se tam dělalo,
+[51:42] že by se tam vysazovaly stromy, tak to
+[51:44] prosím vás řekněte někdo těm inteligentům
+[51:46] v našem parlamentu, než začnou
+[51:48] taky zapalovat lesy, aby se mohly stavět ty
+[51:50] vrtulníky, ty větrníky,
+[51:52] protože dneska hoří Chorvatsko, hoří
+[51:54] Řecko, Španělsko, Maďarsko,
+[51:56] prostě hoří půlka světa
+[51:58] a Let's Grow se mluví
+[52:00] o tom, že to zapalujou developeři
+[52:02] nebo skupiny, který chtějí
+[52:04] stavět větrný elektrárny a tak dál
+[52:06] a myslím si, že tenhle ten návrh ze
+[52:08] Srbského parlamentu je velmi inteligentní,
+[52:10] protože samozřejmě
+[52:12] může se stát požáromilem,
+[52:16] zapálit něco, aby se tam potom mohlo stavět
+[52:18] a byl by takovýhle zákon, tak by to
+[52:20] prostě nezapálel a myslím si, že by to mohlo
+[52:22] hodně pomoct tomu, aby svět tolik nehořel.
+[52:24] A stejně ten bordel
+[52:27] v tom ovzduši dělají ty větrníky.
+[52:34] Nejenom větrníky, ale vem si,
+[52:37] to je každej den,
+[52:39] to je každej den Rusko hodí nějakých
+[52:41] několik set balistických raket
+[52:43] na Ukrajinu. Ukrajina odpálí
+[52:45] dvakrát tolik
+[52:47] těch interceptorů, co se jmenuje,
+[52:49] ty protivzdušní obrany,
+[52:51] plus pořád lítají stovky
+[52:53] dronů každej den,
+[52:55] který mají nálože, plus se střílí,
+[52:57] to znamená, to samozřejmě tomu vzduchu
+[52:59] taky nepomůže. V Iránu tam
+[53:01] to taky se válčí, tam to taky
+[53:03] tomu vzduchu nepomůže. Do toho
+[53:05] Evropu, tak jak jsem říkal na Václavském
+[53:07] náměstí 3. 9.,
+[53:09] že to máme brát z Ruska,
+[53:11] ne proto, že bych miloval Rusko, ale proto,
+[53:13] že tam ta trubka je natažená,
+[53:15] ty trubky jsou tam nataženy, já jí jsem to říkal
+[53:17] tenkrát, kdyby byly nataženy do Švýcarska,
+[53:19] Švýcaři měli ropu, tak bych to chtěl kupovat
+[53:21] do Švýcarska. Tak dneska se to dováží
+[53:23] tankerama,
+[53:25] ty tankery prostě vyprodukují neuvěřitelné
+[53:27] množství bordelu do vzduchu
+[53:29] a samozřejmě převáží
+[53:31] nějaký tenhle ten
+[53:33] LNG plin, že jo, to všechno
+[53:35] se dováží dneska tankerama.
+[53:37] Plus samozřejmě veškerý zboží,
+[53:39] který putuje po ceny světě těma tankerama,
+[53:45] je toho nad Spojenými státy
+[53:47] v každou chvíli, myslím, že já snad nevím,
+[53:49] jestli pět nebo deset tisíc letadel
+[53:51] jenom nad Spojenými státama, tak si vemte
+[53:53] kolik těch letadel lítá
+[53:55] všude možně.
+[53:57] To si myslím, že
+[53:59] ty vrtulníky, ty větrníky samozřejmě taky
+[54:01] dělají problémy, především pracují
+[54:03] s vlhkovským vzduchem, protože oni vytváří
+[54:05] proudy a srážky
+[54:07] a takový věci a mění to proudění
+[54:09] vzduchu, takže tam je to především
+[54:11] o tom suchu, ale
+[54:13] poškozený vzduch je, myslím si,
+[54:15] že především z těch tankerů a
+[54:17] z těch válek.
+[54:19] A dáš zase na to sucho, no?
+[54:21] To sucho samozřejmě je
+[54:23] obrovský problém a to sucho
+[54:25] je způsobený především výstavbou,
+[54:27] že jo, a v těch městech taky,
+[54:29] jo, to je prostě všude bude asfalt
+[54:31] nebo se to seká, stromy
+[54:33] vykácený,
+[54:35] tak člověk se nemůže potom divit, že
+[54:37] se to akumuluje a že se nedřív
+[54:39] láhá a to Česká republika je pořád ještě
+[54:41] jedno z nejlepších míst na světě,
+[54:43] protože jsme měli
+[54:45] před Babišem ještě chytřejší lidi
+[54:47] a ty stavěli rybníky
+[54:49] a ještě před
+[54:51] těma dle vládama od roku 89
+[54:53] jsme měli ještě chytřejší vlády za Husáka,
+[54:55] kde ty jsi mu dělala, že osobní
+[54:57] sekretářku, tak si to
+[54:59] pamatuj, že jak fungovalo fungování státu,
+[55:01] jak fungoval stát, kdy se stavěly
+[55:03] přehrady, kdy se stavěly vodní díla,
+[55:05] no to se dneska už od
+[55:07] 89. se nepostavila jediná
+[55:09] přehrada, jediný vodní dílo.
+[55:11] To komunistky jako dokázali
+[55:13] vybudovat to zadržování vody
+[55:15] v krajině, takže můžeme jim
+[55:17] poděkovat.
+[55:20] V noci
+[55:22] zpátku na sobotu se představitelé
+[55:24] Ukrajiny a příslušníci Azovu
+[55:26] oficiálně rozloučili s
+[55:28] Jevhenem Konovalcem,
+[55:30] jehož ostatky byly exhumovány
+[55:32] v Nizozemsku. Konovalec
+[55:34] byl prvním vůdcem organizace
+[55:36] ukrajinských nacionalistů,
+[55:38] ještě před Stepanem Banderou.
+[55:40] Základní obřad konoval
+[55:42] katedrálu Skříšení Ježíše.
+[55:44] Hlavně řečník byl zakladatel Azovu
+[55:46] Andriy Bilecký, který Konovalce
+[55:48] označil za představitele
+[55:50] generaci ukrajinských nacionalistických
+[55:52] a vojenských nutí.
+[55:54] No to je Bilecký, vždycky, když
+[55:56] ho vidím, tak si vzpomenu na ten film
+[55:58] BBC, zakončený tím, jak tam on vede
+[56:00] Azov a křičí sláva Ukrajině.
+[56:02] A oni křičí sláva Ukrajině!
+[56:04] A on křičí gerum sláva!
+[56:06] Oni křičí gerum sláva!
+[56:10] Náckové si dojeli pro dalšího
+[56:12] nácka do Holandska,
+[56:14] v současnosti nacistický Holandsko
+[56:16] jim ho pěkně vykopalo,
+[56:18] předalo a oni si ho jeli pohřbít
+[56:20] s podstama pěkně po nacisticku
+[56:22] do svojí nacistické Ukrajiny.
+[56:24] Co k tomu říct, k tomu se moc víc říct nedá.
+[56:26] Tak dáme si takové veselější
+[56:30] zprávy na závěr dvě.
+[56:32] Super, super!
+[56:34] Stavební dělnici v Belgickém
+[56:36] Dendermont narazily při
+[56:38] kopání základu na nečekalý poklad.
+[56:40] Brtak se zasekl o zlatou
+[56:42] slidku ukrytou hluboko v zemi.
+[56:44] Policie následně při prohlídce
+[56:46] místa objevila desetky zlatých slidků
+[56:48] a stovky starověkých
+[56:50] zlatých mincí. Nález úřady
+[56:52] zabezpečili, zapečetili,
+[56:54] zaevidovali a nyní zjišťují,
+[56:56] komu patří.
+[56:58] Ty vidíš, jak mám ty dolary takhle jako
+[57:00] v očích, jak striček, skrblík, jak to vidím,
+[57:02] hned bych si tam schočil. Dneska jsem
+[57:04] celý den lepil dlažbu,
+[57:06] obklady, ale zítra
+[57:08] si místo do té zbíječky,
+[57:10] místo toho na mých
+[57:12] kání lepidla, si tam dám, mám takový dlouhý
+[57:14] vrták a půjdu taky vrtat. A rozvrtám
+[57:16] prostě celý okolí, budu
+[57:18] vrtat do země, dokud ne,
+[57:20] no asi ne, nepůjdu, ale šel bych prostě,
+[57:22] to bych taky chtěl objevit, takovýhle
+[57:24] zlatý poklad. A říkali, že musí
+[57:26] určit, komu to patří. Tak to je jasný, komu to
+[57:28] patří, ne, to bude patřit státu.
+[57:30] No, tam je šance,
+[57:33] že ty, když budeš vrtat, že se tam nějaký
+[57:35] zlatý poklad najde? Přijdu
+[57:37] pomoct. Nevím, nevím, Zuzko,
+[57:39] ale prostě, když vidím to zlato, tak bych šel vrtat,
+[57:41] klidně celý měsíc bych vrtal, jako kdyby
+[57:43] byla nějaká šance.
+[57:45] No a teď něco pro
+[57:47] osvěžení, protože
+[57:49] tady je skutečně teda
+[57:51] neskutečně.
+[58:05] Niagara z kanadské strany.
+[58:08] Niagara? Z kanadské strany.
+[58:10] Z který strany? Z kanadské.
+[58:15] Z kanadské strany.
+[58:18] Niagara z kanadské strany.
+[58:20] Nádhera.
+[58:22] Žádnou plavštěnku bych si nevzala.
+[58:24] Neuvěřitelný pro mě,
+[58:27] úplně neuvěřitelný. Krásný.
+[58:29] Krásný. No, tak jednou, Zuzko,
+[58:31] až nebudeme muset, no ne,
+[58:33] to bysme mohli zvládnout i při zpráv.
+[58:35] Někdy prostě vezme malý letadlo a poletíme
+[58:37] se na ty vodopády podívat.
+[58:39] Až budeme mít čas, až budeme bohat.
+[58:41] Až vyvrtám ten poklad.
+[58:44] Až vyvrtám ten poklad,
+[58:46] tak koupím malý letadlo a poletíme se
+[58:48] na to proletět.
+[58:50] Přátelé, a pošle mi vám odsek
+[58:52] video do zpráv. Vám dáme video,
+[58:54] ale držte, co vyvrtáme. Hezký večer,
+[58:56] zítra v 9, pravidelného
+[58:58] nedělního živého vysílání. Zuzko,
+[59:00] ty si krásně odpočiň, zítra nemusíš
+[59:02] připravovat zprávy. Tondo, ty si
+[59:04] užij krásný den s dcerou, jestli s ní budeš
+[59:06] zítra. Máš volnou neděli
+[59:08] a vy všichni si taky
+[59:10] užijte krásnou neděli. Uvidíme se zítra večer
+[59:12] v 9. Díky za sledování,
+[59:14] sdílení, díky za
+[59:16] lajky. Ještě radši máme srdíčka
+[59:18] a napište nám nějaký pěkný komentář,
+[59:20] tak si můžeme něco hezkýho pročíst.
+[59:22] Pěkný zbytek večera.
+[59:24] Hezký zbytek večera, krásnou neděli.

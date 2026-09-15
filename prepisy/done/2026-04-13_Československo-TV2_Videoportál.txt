@@ -1,0 +1,966 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Československo TV2
+URL:          https://m.facebook.com/watch/?v=1321915449757874&_rdr
+Datum videa:  2026-04-13
+Zpracováno:   2026-04-21 18:09:18
+Jazyk:        cs
+Délka:        01:20:33
+Zhlédnutí:    550
+Popis:        Československo TV2 vysílal(a) živě.
+12/4 VEČERNÍK 21:04:
+Rozbor událostí okolo Donalda Trumpa.
+Kdo vnímá šachovou partii a kdo se nechal nachytat? Nejen s Íránem…
+Masky proti virům?
+Tajné spisy o fale
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    39s
+Přepis:       10m 57s
+Rychlost:     7.3x realtime
+Celkem:       11m 37s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Čau, čau, čau, krásný, úžasný, báječný, skvělý večer, máme tady 21.04., máme tady 12. dubna 2026,
+[00:16] nebo chcete-li na Slovensku apríla a vrcholí pravoslavné velikonoce, takže tady máme určitý časový posun
+[00:30] a potom je tam posun i v rámci gregorianského a julianského kalendáře,
+[00:40] který možná taky, až nastane ten správný čas, tak zamíchá určitým způsobem s kartami,
+[00:51] protože jaro je tady, i když někdy ještě fouká poněkud chladný vítr,
+[00:59] ale...
+[01:00] ale už se nezadržitelně blíží tohleto období začátku, regulérního začátku roku,
+[01:13] protože stačí se mrknout jenom na astrology a horoskopy, čím pakže začínají, nezačínají,
+[01:22] znamením z prosince a ledna ani kozoroha, ani vodnáře,
+[01:29] ale začínají...
+[01:30] začínají právě úřadujícím znamením Berana, Bíka a už to jede dál,
+[01:38] začínají prostě horoskopy znameními, které jsou evidentně, zřetelně a zřejmě jarní.
+[01:50] Dnešní vysílání jsem nazval souhrn událostí týdne, kde určitě stojí za poslechnutí si
+[02:00] polečné vysílání na svobodný-vysílač.cz, kde s Pavlem Hlávkou jsme vysílali se Soňou Pekovou
+[02:11] a avizovali jsme tam další zastávky v rámci naší tour Pravda o COVID-19
+[02:21] a nejenom to, která pokračuje vlastně 22. dubna od 18 hodin,
+[02:30] v Mostě, v komunitním centru Chcimír, potom 24. dubna pokračuje v pátek v 15 hodin
+[02:46] a to je Master Horse Club Svojetice.
+[02:51] Uříčem tady budeme nejblíž Praze a co by kamenem dohodil i,
+[03:00] od některých obcí Sředočeského kraje, jako jsou například Říčany, Benešov,
+[03:10] i to nebude daleko, Skolína, Nymburka, Poděbrat a dalších.
+[03:17] Potom dobrá zpráva pro Liberečáky, Jablonečáky ze severu,
+[03:25] protože bude Bedřichov, penzion UKO.
+[03:30] Koneční bašta těchto setkání v neděli, 26. dubna od 13.00.
+[03:40] Takže to je další velmi nabitý týden
+[03:45] a další týden pokračujeme v krásné Lípě u Rumburka, Vansdorfu,
+[03:52] takže i šluknovský výběžek zůstane neopomenut.
+[03:57] Tam to bude od 17. hodin.
+[04:00] V kyně v krásné Lípě a poslední zatím zafixovaný termín
+[04:07] na setkání se Soňou Pekovou na besedu, kde se budete moci zeptat
+[04:14] na cokoliv, co vás bude zajímat, tak poslední termín je právě
+[04:20] u Pavla Hlávky na Paloučku u obce Příšov.
+[04:26] Je to 5,5-6 km.
+[04:30] Od Plzně a v případě nepřízně počasí to bude v hospodě,
+[04:36] ale všichni věříme, že prvomájová atmosféra bude přenesená
+[04:44] do tohoto areálu a vlastně v báječným prostředí v lese
+[04:51] se bude moci 1. května toto open air setkání uskutečnit.
+[05:00] A teď, co se dělo tenhle týden?
+[05:03] Tak chlapci, tři a jedno děvče plus asi ten kameraman,
+[05:09] který je tam točil, tak jako v těch bájných letech 69, 70, 71 a 72,
+[05:21] kde tam vlastně Apollo 17 zanechalo toho kameramana,
+[05:27] který natáčel od let rakety.
+[05:30] Jako kdyby se tam tady ta myška namotala do produkce Stanley Kubricka,
+[05:37] protože je zřejmé, že se nelíbil film Ice White Chat,
+[05:42] který popisoval satanistické rituály.
+[05:46] To byl poslední Kubrickův film v roce 1999,
+[05:53] kdy pracoval na dotáčkách a u toho si vystřihnul spověď
+[06:00] o tom, že do býtí měsíce byl podvod natáčený v Área 51 v poušti v Nevadě
+[06:09] a nějak mu nepomohlo.
+[06:13] 88 stran podepsaný mlčenlivosti na 15 let a za pár dnů zemřel.
+[06:23] Ostatně dvě hodiny před smrtí ještě telefonová Nicole Kidman,
+[06:27] která hrála hlavní roli s Tomem Cruisem.
+[06:30] V tom filmu, který je u nás přeložený jako spalující touha,
+[06:36] poslední Kubrickův film, tak říkal,
+[06:39] hele, nejezdi určitě ke mně, v té době bydlel v hrabství Hampshire v Británii,
+[06:47] zabijou nás dřív, než si stačíme kýchnout.
+[06:51] To byla poslední slova Stanleyho Kubricka do telefonu,
+[06:56] takže každopádně teď to režíroval.
+[07:00] Jinej reža a chybějící stíny a renonci v posádce i to,
+[07:06] že pátý člen je natáčel ve vesmíru.
+[07:09] Někomu mohlo být i divný to, že v těch dávných dobách,
+[07:15] kdy technika a technologie, která je ve vašem mobilním telefonu,
+[07:22] se tenkrát vešla do nějakého objemnějšího panelového domu.
+[07:28] To, co vy máte.
+[07:29] Teď v mobilu.
+[07:31] Takže tam stihli jako doletět za tři dny.
+[07:34] Teď jim to jako ten oblet trval šest dnů a ještě zpátky.
+[07:41] Takže jsou tady takové jemné nesrovnalosti
+[07:45] a je to jenom kvůli tomu, abyste si toho všimli.
+[07:48] A už jste se nenechali oblbovat, očurávat i s ostatními věcmi minule.
+[07:57] Takže vlastně v páteční výsledku,
+[07:59] kde jsme vysílání tam udělali zlepšovací návrh dědy Drchlíka,
+[08:05] kde tam ťuknul takovej klíneček a zachránil budoucnost lidstva.
+[08:12] Pokud jste neviděli tenhle páteční večerníček,
+[08:16] tak ho můžete zkouknout ze záznamu.
+[08:18] A pokud jste neviděli to společné vysílání se Soňou Pekovou,
+[08:24] tak určitě zkoukněte buď na Svobodný vysílači,
+[08:28] nebo tady na www.svobodny-vysílači.cz.
+[08:29] Tady na Facebooku je tady odkaz na YouTube Svobodný vysílač,
+[08:35] kde toto vysílání společné dvouhodinové je uloženo.
+[08:43] Tak, někteří sledují, co se děje u Maďarů,
+[08:48] jestli vyhraje Maďar anebo Orbán.
+[08:52] A zase tady to slouží po té vesmírné misi k upoutávání.
+[08:58] Vaší pozornosti, protože dopadne to tak,
+[09:02] jak to kočírujou a jak to dopadnout má.
+[09:07] A rozhodně tam nějaká strategie bude.
+[09:12] Určitě, co se stalo, tak nevyhlásili výsledky voleb v Maďarsku
+[09:20] dvě minuty po uzavření volebních místností.
+[09:24] Jako se jim to v případě Macron a jeho výsledky,
+[09:27] Ladyboy povedlo v Paříži, kde všichni juchali.
+[09:34] A Ladyboy a Emmanuel Macron z toho vůbec nadšení nebyli.
+[09:45] Takže to vypadalo, že tam byl jasný rozsudek
+[09:50] a vystřídání za dvojníka.
+[09:54] Ostatně tady dneska jsem sdílel,
+[09:58] rozdíly ve vizáži Vladimíra Putina 2010
+[10:03] a toho, kdo přišel potom, který by asi neviděl.
+[10:08] Jenom ten slepý a nebo úplně blbý,
+[10:11] což může být kombinace těch masaryků, máců,
+[10:16] cemperů a dalších, který tohleto mají prostřednictvím
+[10:23] neziskových organizací Šorošovského typu.
+[10:28] Velmi štědře zaplaceno a tímto způsobem manipulují lidi.
+[10:36] Už dlouhá, dlouhá léta.
+[10:38] Protože to, že jsme si zvykli, že politici kradnou,
+[10:43] že všech si kradnou, tak to byl určitý zvyk.
+[10:48] Ale budíček nastal u covidu, protože se lidi začaly zabíjet.
+[10:54] A začaly se zabíjet při rozjezdu.
+[10:57] Za pomocí trojkombinace midazolam, remdesivir a ventilátory.
+[11:05] A umělá intubace.
+[11:07] A to byly ty skutečné covidové oběti, kam Blatný se neprozřetelně prozradil,
+[11:15] že tam píšou i oběti automobilových nehod a další,
+[11:19] aby opticky zvyšovali ten strašlivý virus, který nikdy nebyl izolován.
+[11:27] Aby vytvářeli čísla plus vystrašení z médií,
+[11:32] které doprovodilo tohleto s cílem zabodat, zabodat, zabodat
+[11:38] co největší část populace neozkoušenou a nedostatečně otestovanou vakcínou.
+[11:45] A ty plody se sklízejí dnes.
+[11:48] Dojebaný zdraví, zničený životy a pozabíjený lidi i v produktivním věku.
+[11:56] Nebo neuvěřitelný potíže dětských zabodaných pacientů.
+[12:03] To je vůbec celková opodstatněnost očkování proti dětem
+[12:09] a potom ty sbírky na martínky a podobný, když se jim něco stane.
+[12:15] A nebo stejně tak, jako i u dospělých, tady jsem vlastně v pátek vysílal paní Barbaru O'Neill,
+[12:23] která evidentně vidí tam, že je tady.
+[12:25] Nebo stejně tak, jako i u dospělých, tady jsem vlastně v pátek vysílal paní Barbaru O'Neill, která evidentně vidí tam, že je tady.
+[12:26] Nebo stejně tak, jako i u dospělých, tady jsem vlastně v pátek vysílal paní Barbaru O'Neill, která evidentně vidí tam, že je tady.
+[12:53] Nebo stejně tak, jako i u dospělých, tady jsem vlastně vysílal paní Barbaru O'Neill, která evidentně vidí tam, že je tady.
+[12:55] měly být extrémněji smrtelnější než některé jiné samozřejmě politici,
+[13:03] kromě toho brněnského senátora, který ho zapíchávala manželka jedno ramínko,
+[13:11] druhý ramínko, tak za 20 dnů byl mrtvej, tak ten si dal ostrou vakcínu,
+[13:17] ale zítkova receptura tak, aby první se zabodala v roce 2020,
+[13:24] celá Babišova vláda, včetně poslanců, senátorů, jejich rodin, jejich dětí
+[13:33] a teď ne připravenýma injekcema, ne placebo, ne vitamín C, ne B12,
+[13:41] ale šaržemi, který by vybrali lidi.
+[13:46] Jo?
+[13:47] To byl ten hlavní argument pro to, aby se vybudovala ta důvěra,
+[13:53] protože kdyby uhynuli politici, tak by to byla jasná zpráva směrem k lidem,
+[14:00] no a kdyby to přežili, tak by to byla další jasná zpráva,
+[14:05] že vakcína je odzkoušená a bezpečná a že se tady s lidma nebude mediálně vyjebávat.
+[14:13] Jo?
+[14:14] Tak, jdeme teďka na...
+[14:17] Donalda Trumpa, protože Trumpova hra byla velmi dobře popsána v jednom příspěvku
+[14:23] z dílny John McIntosh, protože někteří v tom stále nemají jasno,
+[14:32] někteří, a že jich je, těch vykladačů a hlasatelů,
+[14:37] videa naběhlo na kauzu Írám s vytřeštěnejma očima,
+[14:43] tak tohleto uvádí trošku věci nám.
+[14:47] Na pravou míru.
+[14:51] Tímto způsobem je odhalován falešné a pravda je zjevená jako všudy přítomná.
+[14:58] Sama o sobě.
+[15:00] Základním předpokladem je, že to, co je skutečné, nemá začátek ani konec.
+[15:07] Co to obnáší?
+[15:08] V podstatě celý vesmír, který je tím odhalen jako iluze nebo sen.
+[15:15] Nicméně my jako konečná pravda.
+[15:18] Nebo jedno já se pohybujeme v tomto snu a proto je cenné mít určité povědomí
+[15:28] o tom, co se v něm skutečně děje.
+[15:32] Za tímto účelem a o tomto tématu občas diskutuji.
+[15:37] Například v tomto článku.
+[15:40] To je úvod John McIntosh a velmi souzním s těmito vyjádřeními.
+[15:47] V současné době se sluneční soustava přechází do nové éry míru a světla
+[15:56] na konci opakujícího se cyklu 26 tisíc let zvaného precese rovnodennosti.
+[16:06] Poslední éra byla patriarchální a s jejím hroucením nastává dočasná fáze chaosu,
+[16:13] chaosu, zmatku a konfliktu.
+[16:17] Každý, kdo je byt jen trochu bdělý, potvrdí, že se to v tuto chvíli děje globálně.
+[16:24] Pokud máte problém s obrazem či zvukem, vycestujte z toho a načtěte si znovu toto video
+[16:32] na originálním kanále a ono vám to bude fungovat normálně.
+[16:39] Každý posun do nové éry zahrnuje jedinečný druh směřování nebo vedení,
+[16:44] které má vznešený úhel pohledu.
+[16:47] Protože vlastně vidí, co se musí změnit.
+[16:50] Tímto vedením je v tomto bodě a případě Trump, nebo přesněji Trumpova aliance,
+[16:59] která zahrnuje Trumpa v Americe a Putina v Rusku a Xi Jinpinga v Číně.
+[17:07] Protože všichni tři, i když tam některý se snaží hrát, že jsou soupeřícími a soutěžícími,
+[17:17] tak jedou v naprostém souladu a stačí si vzpomenout na příběh z roku 2018,
+[17:26] kdy se mezi Donaldem Trumpem a Vladimírem Putinem předávala ta myčuda fotbalová,
+[17:35] kdy tam došlo k tomu přihrání i pro ty tupější, to byl určitý symbolický odkaz,
+[17:45] preberaně loptí.
+[17:47] Ty, fotbalovej, jo, a vidíte, my jsme se na poslední chvíli ještě nominovali
+[17:57] na šampionát v Kanadě, v Spojených státech a Mexiku v letošním roce.
+[18:06] A ještě navíc jako bonus nám dali celkem hratelnou skupinu.
+[18:13] Když už jsme u toho sportu, tak vlastně, co se týká,
+[18:17] naší československé holubiččí povahy, chcímí ruk, tak jste to mohli vidět,
+[18:26] ať už naživo nebo ze záznamu, Jirka Procházka v UFC měl úplně na lopatě
+[18:35] toho novozélandskýho bojovníka, ten měl prokopaný koleno,
+[18:41] že stál na jedný noze a přesto Jirka se domluvil,
+[18:47] že zápas bude kvůli zranění ukončen a neukončil ho,
+[18:54] čemuž se divil i šéf Dana White, šéf organizace UFC,
+[19:01] a nechal si tady od kulhajícího borce napálit levačkou k knockout
+[19:09] a dorazit se na zemi vlastně v prakticky úplně, úplně vyhraném zápase.
+[19:17] Čemuž jako nikdo z těch expertů nerozumí a nechápe,
+[19:25] proč se to takhle stalo a proč to takhle dopadlo.
+[19:29] Pokračuji dál v tomhletom textu.
+[19:32] Ještě tady je spolupracující Modi v Indii, Salman v Saudský Arábi
+[19:41] a další spolupracující státníci, spolupracující nám,
+[19:47] například ve Združení zemí BRICS.
+[19:52] Pro masy v některých ohledech protivníci, ale ve skutečnosti solidní partneři
+[19:59] v tomto posunu nové éry v zákulisí, kde Vladimír Putin se vyjavřel zcela jasně
+[20:05] směrem k těm organizátorům New World Order, Nového světového řádu,
+[20:12] že ples upíru satanistů, konzumentů, dětského.
+[20:17] Masa končí, jenom aby bylo jasno, samozřejmě i výrobců a konzumentů adrenochromu.
+[20:27] Co představuje starou éru je globální aliance, která se volně nazývá Hluboký stát,
+[20:36] neboli Deep State.
+[20:38] Mají mnoho dalších jmén, ale v podstatě stačí tento jejich jeden název, jejich vliv,
+[20:47] až do Trumpova otevřeného zapojení v roce 2016 byl totální a zahrnoval každý aspekt každodenního života.
+[20:59] Tahle chobotnice Deep Stateu byla prolezlá prakticky všude a nic nebylo nedotčeno jejich hanebnou a zákeřnou skvrnou.
+[21:10] To zahrnovalo všechny vlády a všechny zmanipulované,
+[21:17] respektive podvodně ukradené volby vhazováním, pohřbíváním papírků do urny,
+[21:25] kdy, jako ve filmu Jáchyme, hoď ho do stroje, vybral vítěze voleb počítač.
+[21:33] Asi takhle to běželo.
+[21:35] Celou dobu nikdo nevysvětlil, proč se volby nekonají na blockchainu,
+[21:42] aby si každý mohl zkontrolovat, jestli jeho hlas byl zahraněn.
+[21:47] A komu tento hlas dal.
+[21:51] Zahrnovaly veškeré zdravotnictví.
+[21:54] To znamená kšeftování s chemií, chemikáliemi velkých farmaceutických společností
+[22:01] a léčení, nebo respektive předstírání léčení,
+[22:06] protože zdravý pacient je nulový přínos pro farmaceutický průmysl.
+[22:12] Veškeré vzdělávání, které bylo stejné,
+[22:16] jako v době Marie Terezie a císaře Josefa,
+[22:21] kdy to bylo mentorování věcí a programování mysli
+[22:29] pod lživými, nefunkčními teoriemi Darwinova,
+[22:35] že jsme z Vopice a že je to rychle rotující koule,
+[22:41] a že hladina vody je vodokulatá.
+[22:45] A ne vodorovná a další školou a vědou šířené bláboli.
+[22:53] Veškeré komunikační prostředky, mainstreamová média byly taky součástí programování mysli lidí.
+[23:02] Veškerý zábavní průmysl, veškeré dopravní prostředky,
+[23:06] veškeré energie a technologie, veškerý módní průmysl,
+[23:11] veškeré soudnictví,
+[23:14] to je systém prokuratury, soudů, u nás státního zastupitelství.
+[23:19] Veškeré potravinávství a zemědělství, které je našpikováno a prošpikováno
+[23:27] jedy a nepříliš zdravý vhodnými potravinami v těch supermarketech,
+[23:36] protože někdy to, co potraviny obsahují, je opravdu šílený,
+[23:43] prostě vličné.
+[23:44] A potraviny, které se stále vytvoří na soudnictví,
+[23:47] jsou skutečně jednoduché.
+[23:51] Ahojte, pojďte zase na městě, která je obce.
+[23:55] Ahojte, kdo je obce?
+[23:57] Ahojte, kdo je obce?
+[23:59] Ahojte, kdo je obce?
+[24:02] Ahojte, kdo je obce?
+[24:03] Ahojte, kdo je obce?
+[24:05] Ahojte, kdo je obce?
+[24:07] Ahojte, kdo je obce?
+[24:10] Ahojte, kdo je obce?
+[24:12] neprotestoval, američtí sportovci nebyli diskvalifikováni
+[24:18] nebo vyloučeni z některých soutěží a karavana jela veselé dál.
+[24:24] Lidé, kteří nebyli součástí malého elitního vnitřního kruhu,
+[24:28] který zahrnoval globální pedofíly, únosy, mučení, vraždy
+[24:33] a satanské rituály přes 8 milionů ročně,
+[24:37] byly k tomu donucování, přes 8 milionů ročně se ztratilo dětí na planetě,
+[24:45] byly k tomu donucování sexuálním vykořišťováním,
+[24:50] uplatkářstvím a výhruškami miliony a miliony z nich.
+[24:56] Velká část toho se odehrávala pod zemí v dlouhých tunelech zvaných dumps.
+[25:02] Většina lidí, kteří se přiklonili k ideologiím,
+[25:05] které se dnes označují jako radiologi,
+[25:07] publikálně levicové, ať už pod jakýmkoliv názvem,
+[25:12] jsou obětmi tohoto nátlaku a papouškují to, co se jim řekne.
+[25:18] Pokud by se Trumpova aliance nedostala k moci v době,
+[25:22] kdy se tak stalo, včetně toho, co se milně jevilo jako čtyřletá absence,
+[25:29] Trumpovo drtivé vítězství ve druhém ze tří funkčních období,
+[25:33] velká část světové populace by byla nyní,
+[25:38] pravděpodobně už mrtvá.
+[25:41] Tohle je celý fakt, protože automatické pero alias období 46. prezidentství
+[25:52] byl fake Joe Biden, byl tam dvojník, některý byl asi o půl metru větší
+[26:00] než ten originál, a ten originál byl popraven ještě před složením slibu,
+[26:08] na inauguraci. Tohle je další věc, která je už pro spoustu lidí evidentní a prokázaná.
+[26:18] Oběť agendy jednoho světového řádu Deep State, jejím stílem je snížit populaci,
+[26:25] nebo budeme mluvit v minulém čase, bylo snížit populaci na 500 milionů až jednu miliardu,
+[26:33] většinou otroci elit Deep State.
+[26:37] Tak proto ta agenda depopulace, vyhlazování lidí a sterilizace,
+[26:44] která je evidentní, protože za pouhé 4 roky zabodávání COVID-19
+[26:51] klesla porodnost o 35 000 nově narozených dětí ročně.
+[26:58] To znamená, ročně se rodí jedno už celkem větší město,
+[27:06] méně, takže vymíráme a máme nejnižší porodnost za 240 let na našem území.
+[27:17] Aby bylo dosaženo úplného zničení Deep State a zahájení toho, čemu se říká Zlatý věk,
+[27:24] muselo být dosazeno velmi radikální vedení, ne politické.
+[27:31] Trump je ten radikální,
+[27:34] briljantní strategický vůdce, ten, který s nima hraje multidimenzionální šachy,
+[27:41] který se odehrávají i za pomoci dvojníků, méně či hůře vydařených,
+[27:47] já jsem viděl minimálně 15 až 20 Trumpů,
+[27:52] a vždycky záleží o tom, jestli to vysílání organizuje Deep State a nebo Bílé klobouky,
+[28:00] protože obsah toho vysílání je divný.
+[28:04] Diametrálně jiný.
+[28:08] Je Donald Trump strategický vůdce,
+[28:15] který je tu z velké části proto, aby otřásl zakořeněným kolektivním vědomím lidstva,
+[28:22] které bylo z velké části spoluviníky v naivní spolupráci s Deep State
+[28:29] na zorganizování jejich vlastního zániku anebo zotročení.
+[28:35] Nikdy v zaznamenané historii nezachránil jeden člověk se svým týmem celý svět před naprostou zkázou,
+[28:46] snad jenom ve filmu Armageddon.
+[28:48] Tohle to bylo, což Trumpa bez pochyby činí největšího vůdce v historii.
+[28:56] A popřít tento zásadní fakt znamená přiznat,
+[29:02] že člověk podlehl největšího vůdce v historii,
+[29:04] podlehl neúnavnému tlaku mainstreamových médií,
+[29:09] aniž by provedl skutečný a seriózní hloubkový výzkum,
+[29:14] nebo přiznat, že je spoluviníkem a kolaborantem Deep State.
+[29:21] Jako malý příklad toho, co Trumpova aliance udělala,
+[29:24] uvádíme několik základních snadno i pro Masaryka ověřitelných faktů.
+[29:30] Zničila starý finanční systém,
+[29:33] založený na Fiat měnách.
+[29:36] To zmiňoval i děda Vrchlík,
+[29:39] že jsou to neplatné staré peníze,
+[29:43] kde se peníze jednoduše tisknou ze vzduchu
+[29:47] bez podložení zlatem,
+[29:50] které skončilo v srpnu roku 1979 A1
+[29:55] a nahradila ho QFS,
+[29:58] kvantovým finančním systémem,
+[30:00] který zahrnuje krytí reálnými akce,
+[30:03] většinou s zlatem, stříbrem
+[30:06] a technologií blockchain pro sledování všech finančních aktivit
+[30:11] z hlediska přecnosti a odstranění možnosti praní špinavých peněz
+[30:16] a masivních podvodů s tím spojených.
+[30:20] Blockchain je i důležitý mrknout se konečně po roce,
+[30:24] ne Vánoce, ale na to, jak spolu partička Pavla Blaška,
+[30:30] Daniela Stanjury a jejich spolupráce,
+[30:32] jejich spolupracujících Brňáků,
+[30:35] chtěla ukrást víc než 100 miliard
+[30:38] jeřikovského bitcoinech pocházejících z prodeje drog.
+[30:44] Už by po vícek roce bylo pomálu na čase,
+[30:49] aby se na to specialisté u NCT, EKK a NCOZ kapánek mrkli.
+[30:59] Stačí se podívat na blockchain,
+[31:01] protože všechny zápisy jsou tam evidovány.
+[31:08] Tak dál.
+[31:10] Vyčistila tunely Deep State armáda Trumpovy aliance
+[31:14] po celém světě a osvobodila miliony vězněných dětí,
+[31:18] které byly používány k výrobě adrenochromu,
+[31:22] elixír věčného mládí odebraný z krve mučených dětí.
+[31:27] Je to největší drogový biznis na světě.
+[31:31] Větší? Ne.
+[31:32] Větší než je kšeftování s kokainem,
+[31:35] jenom pro vaši představu.
+[31:37] To je víc jak 100 miliard dolarů ročně v koksu.
+[31:43] Adrenochrom a kšeftování s dětmi je vyšší položka.
+[31:49] Přinesl skutečný mír většině světa a brzy celému
+[31:54] základní aspekt globálního konceptu zvaného GESARA,
+[31:59] zákon o globální ekonomické bezpečnosti a reformaci,
+[32:04] což je koncept, na kterém se v zákulisí dohodlo 209 zemí
+[32:10] po celém světě, včetně korporací Česko i Slovensko,
+[32:15] které ovšem nejsou právními státy.
+[32:18] Jehož cílem je vyrovnat podmínky pro všechny
+[32:21] a přerozdělit bohatství ve velkém měřítku.
+[32:24] V době psaní tohoto textu se to rychle odehrává.
+[32:28] Přinesl odhalil volební podvody po celém světě
+[32:34] díky přepracování volebních systémů,
+[32:37] včetně manipulovaných volebních strojů,
+[32:40] to jsou ty známý dominiony, které mohly být
+[32:45] a byly po celá léta využívány k manipulaci voleb
+[32:50] po celém světě prostřednictvím internetu.
+[32:53] U nás se o toto starala firma Hewlett Packard,
+[32:57] dosazená bez výběrového řízení,
+[33:01] ostatně Rakušan za to dostal pokutu 975 tisíc korun,
+[33:07] ale frčí to dál na Slovensku,
+[33:11] politiky vybírá počítačová firma ESET.
+[33:16] Takže jachyme, hoď ho do stroje, běží stále dál.
+[33:22] Tak, nechal zatknout mnoho, mnoho tisíc,
+[33:28] aktérů DeepStay, včetně mnoha šefů korporací a vlád.
+[33:34] Byli souzeni u vojenských soudů a často popravováni.
+[33:39] Většinou měli na výběr tři možnosti,
+[33:43] který, nevím, co by si člověk vybral,
+[33:48] zastřelit, oběsit anebo smrtící injekce.
+[33:53] Takže pěkně děkuju za takovejhle výběr.
+[33:56] Tady ty výběrový řízení se děli na Guantanamo,
+[34:01] Gitmo, kde šéfem, o kterým jsem dlouhodobě mluvil,
+[34:06] že je tam vrchním velitelem, tak je admirál Crandall.
+[34:12] Tak, nechal zatknout mnoho tisíc aktérů, ano,
+[34:18] a poté je nahradili herci.
+[34:22] Biden byl zřejmým příkladem, kterého si mohl všimnout,
+[34:27] naprosto každý.
+[34:29] A to nás přivádí k pozadí Trumpovi šachové hry.
+[34:33] Aby mohla být realizována tato rozsáhlá strategie,
+[34:37] jejíž příprava trvala desítky let obdoby,
+[34:41] JFK, který byl starter,
+[34:45] a Donald Trump je nazýván finisher, dokončovatel.
+[34:50] Takže desítky let trvala příprava,
+[34:56] byli mnozí z takzvaných protivníků,
+[34:59] například hlavy států, představitelé korporací,
+[35:02] médií, členové opozičních stran.
+[35:05] Mnozí z těchto aktérů byli buď zatčeni
+[35:09] a poté propuštěni na svobodu pod přísným dohledem
+[35:13] s tím, že budou dodržovat scénář,
+[35:16] s ním, že byla s nimi uzavřena dohoda zachraňující jim život,
+[35:23] protože zločiny proti lidskosti jsou podle vojenského práva
+[35:28] trestány smrtí, aby tak mohly hrát roli,
+[35:34] kterou jim Trumpova aliance přidělila
+[35:38] v předem připravených scénářích.
+[35:41] Aby takoví kreténi jako Anála Masaryk si mysleli,
+[35:45] že je páníci ochrání a že všechno běží tak,
+[35:51] jako tankyard.
+[35:54] Takže tohle je další evidentní a velmi chytrá strategie,
+[36:02] protože tupouni toto rozhodně neprohlédnou.
+[36:06] Tak, toto je globální a masivní.
+[36:10] Velká část toho, co lidstvo vidí, je loutkové divadlo.
+[36:14] Proto je tam dáno to, že si vemte popcorn.
+[36:19] Hele, ať vyhraje ten,
+[36:21] nebo ten, všechno je pod kontrolou aliance
+[36:24] a všechno je strategií toho,
+[36:27] že to dopadne přesně tak, jak má.
+[36:32] Takže o tohle si vůbec nelamte hlavu,
+[36:37] že by to mělo vliv na to, co přijde
+[36:42] a co už nelze v žádným případě zastavit.
+[36:46] Pantony má herců, kteří tančí podle melodie
+[36:50] Trumpovy hry s jediným stílem.
+[36:53] Zcela otřást globálním vědomím,
+[36:56] což, jak by většina souhlasila, se právě děje,
+[36:59] pomocí neustálých manévrů sem a tam
+[37:03] a matoucích rozporuplných akcí,
+[37:07] aby se rozpadla naprogramovaná hypnóza většiny lidstva
+[37:13] a pravda dostala šanci proniknout na světlo.
+[37:18] To vše při decimování jádra Deep State,
+[37:21] což se již ovšem stalo,
+[37:24] a vy většinu věcí sledujete už ze záznamu,
+[37:29] jako reprízu tohoto filmu, co se už dávno minulosti stalo.
+[37:37] Lidstvo to však musí vidět,
+[37:41] a to říká Donald Trump opakovaně,
+[37:44] aby to fungovalo dlouhodobě a ne,
+[37:47] aby to jen za pár let znovu vytvořili zlovolní hráči.
+[37:52] Toto je srdcem Trumpovy hry změnit zatuchlá přesvědčení
+[37:57] a otevřít nejenom mysl a vědomí,
+[38:01] ale v konečném důsledku i srdce jako největší rezonátor,
+[38:07] deset tisíckrát silnější než mozek,
+[38:11] a srdce není v žádném případě jenom pumpa.
+[38:15] Aby se řídila základními principy všech filozofií lásky.
+[38:22] Pro ty, kteří by se chtěli vzdělávat v průběhu Trumpovy šachové hry,
+[38:27] je zde několik důvěryhodných zdrojů,
+[38:30] které poskytují přesné informace, co se skutečně děje.
+[38:36] Bill Barney na YouTube,
+[38:40] Promethean Action YouTube,
+[38:43] John Michael Chambers na kanále YouTube.
+[38:48] Co se opravdu děje, je pak vyprávěno ve Fikci o realitě,
+[38:53] Johnová nová kniha Park Lady, Budíček,
+[38:58] a nebo Steve Bannon na Telegramu,
+[39:02] kde najdete nejnovější informace a aktualizace,
+[39:08] získáte klíčové podrobnosti a jasné pokyny týkající se nadchází,
+[39:13] aktivace EBS, možných scénářů výpadku proudu a médií,
+[39:21] globálních finančních změn, včetně bankrotů,
+[39:25] globálního resetu měny a dalších událostí.
+[39:31] Takže tady si myslím, že to bylo hezky v mašličkách v tomto paketu
+[39:38] srozumitelným způsobem vysvětleno.
+[39:41] A teď, co vám Facebook skrývá na mých stránkách,
+[39:47] tak si projedeme k čemu tady vlastně o víkendu došlo
+[39:56] a co jsem tam přidal jako takové ohlídnutí za tím,
+[40:04] co se dělo a co se děje.
+[40:06] Tak tady máte jenom pro porovnání typy masek,
+[40:10] proti některým věcem.
+[40:14] A tady zednická maska sloužila,
+[40:21] zednický respirátor, proti nejsmrtelnějšímu viru v historii.
+[40:27] Aspoň si to porovnejte.
+[40:29] Jako drátěné pletivo proti mouchám.
+[40:33] Asi to někteří přirovnávali.
+[40:36] No a hlavně ten virus SARS-CoV-2.
+[40:40] Nikdy v minulosti nebyl izolován.
+[40:44] Stále je tam odměna 1,5 milionů euro.
+[40:50] Tenhle týden tady jsem dal z YouTube
+[40:56] hodinu a devět minut trvající video o spolupráci
+[41:00] Václava Havla s STB.
+[41:04] Na slovensku EŠTB.
+[41:06] A dneska ze podobného,
+[41:09] soudku tady toto video.
+[41:13] Doslova před chvílí, před hodinou.
+[41:16] Tajné spisy o falešných lídrech.
+[41:20] Nebo o falešných lidech.
+[41:23] Tady vidíte dvojníka Gustava Husáka.
+[41:27] S tímhletím si pohrávala STB taky celou dobu.
+[41:34] Takže velmi zajímavý video,
+[41:37] který popisuje dvojníky mocných utajené spisy
+[41:44] o záměnách politických lídrů ČSSR.
+[41:49] Československé socialistické republiky.
+[41:53] Taky jsem tam šoupnul v souvislosti
+[41:57] s blížící se akcí, která je plánována.
+[42:05] Máte slovo.
+[42:06] O tom jsem mluvil už v pátek.
+[42:08] Jestli byste mě tam chtěli vidět,
+[42:11] tak jsme udělali takový referendum malý
+[42:14] na Československo TV dvojce.
+[42:17] Že jste říkali, že jo.
+[42:19] Protože pokud je tam plukovník prof. Roman Primula,
+[42:24] jako hlavní propagátor zabodávání hostem u Jilkový.
+[42:29] Pokud je tam prof. Jiří Beran,
+[42:32] který podporoval myšlenku zapíchávání,
+[42:35] ohrožených skupin 60 plus povinně,
+[42:40] jako expert strany pro,
+[42:43] tak v rámci vyváženosti spravodajství
+[42:46] a dodržování smlouvy s lidmi,
+[42:49] by tam asi kvůli vyváženosti spravodajství
+[42:53] a kvůli tomu, že se hraje o obrovské prachy
+[42:56] v koncesionárských poplacích,
+[42:59] asi neměl chybět Pavel Zítko ve studiu.
+[43:03] Když bude?
+[43:04] Když bude řeč o očkování
+[43:09] a o jeho kladech či záporech,
+[43:13] tak si myslím, že určitě bych k tomu měl co říct.
+[43:17] Tady vám pustím kousíček ukázku,
+[43:21] tady ty okultistické seance
+[43:24] s řediteli nemocnic v zádech,
+[43:27] někteří teda už jsou vlastně kvůli kradení
+[43:32] obrovských stovek milionů v práci policie a soudů,
+[43:39] ale kradlo se teda velmi významným způsobem
+[43:44] za doby covidu, ale co ještě podstatnější,
+[43:48] ty lidi se zabíjeli a probíhala tady u toho sterilizace.
+[43:52] Takže jenom tak vzpomínkově ukázka tady
+[43:56] z té okultistické seance ředitelů špitálu,
+[44:01] který stáli v zádech Romanu Primulovi,
+[44:06] veselé tam byli bez roušek, jak se začalo natáčet,
+[44:10] nasadili roušky, takže vzpomínková.
+[44:14] Ruku v ruce s uzavřením právě zmíněných stravovacích provozů.
+[44:21] Je tu ještě jedno opatření, které z legislativních důvodů
+[44:24] platí na rozdíl od ostatních od dnešního rána.
+[44:27] Nikoliv od konkrétního data.
+[44:29] Možnost se chtěl omluvit.
+[44:34] Pokud chceme vyhlásit opatření právně korektně,
+[44:36] musíme to takto udělat.
+[44:42] Na zastávkách veřejné dopravy, tedy na nástupištích,
+[44:45] přístřežcích a čekárnách veřejné dopravy,
+[44:48] jsme zavedli z toho důvodu, že toto opatření
+[44:52] je logickým doplňkem v minulosti
+[44:55] zavedené povinnosti nosit roušky v MHD.
+[45:00] Na zastávkách se schromažďují velké počty cestujících
+[45:04] při čekání na spoje.
+[45:07] To se nedá poslouchat. Samozřejmě další sračky,
+[45:11] zákaz pivu, kolik asi zachránilo lidí,
+[45:16] tohleto proboha.
+[45:18] Nepište mi to tady s tím Orbánem a tamtím druhým.
+[45:22] Je to úplně jedno v této fázi.
+[45:26] Pokud jste nepochopili, že je to vojenská operace,
+[45:31] že si tady hrajete na to, že volby něco můžou rozhodnout,
+[45:36] teď tam máte tady ty vaše geroje, reichly,
+[45:40] SPD, vidíte to. A co se stalo s reichlovýho desatera,
+[45:45] který hřímal ve sněmovně 26. ledna? Nic?
+[45:50] Nic se nestalo? Nevystoupil nikdo z VHO?
+[45:54] Nezrušil nikdo Národní očkovací strategii
+[45:58] a dalších 8 bodů? Tak k čemu to je,
+[46:02] jestli vy hrajete dle nebo tamten? Přestaňte si hrát
+[46:08] a poutat pozornost na něco, co nemůžete ovlivnit.
+[46:14] Dejte si popcorn, dejte si nohy do tepla
+[46:19] a sledujte to jako film, protože tady každý má pocit,
+[46:25] že musí buď to fandit Spartě nebo Slávii
+[46:29] nebo minimálně slezané Baníku,
+[46:33] i když půjde do druhé ligy možná.
+[46:36] Takže tohleto je potřeba, aby konečně jste kopali
+[46:42] za kolektivní vědomí a za národní tým,
+[46:47] a ne za tenhle klubismus, protože to je jejich cíl,
+[46:52] rozdělit to, vytvořit chaos, najít tam rozdíly,
+[46:57] že i když paní doktorkou Pekovou se shodujeme třeba v 90 % věcí,
+[47:05] v něčem se neschodujeme, ale proto to není důvod,
+[47:10] abychom nedonesli nebo nedoručili petici Pávkovi nahrad,
+[47:16] když nebudeme polemizovat nad podvodem,
+[47:21] jak se dostal a vyhrál tenhle Aspeňák volby.
+[47:26] To mám zdokumentováno a bude to vytaženo,
+[47:30] až nastane ten správný čas.
+[47:33] Jak se podvádělo v prezidentských volbách,
+[47:37] jak měl Pávek v objednaný Fórum Karlín už v pondělí,
+[47:41] i když souboj s Babišem byl až o víkendu,
+[47:45] jak mi neukázali moje petiční archy,
+[47:48] i když jsem byl třikrát na ministerstvu a další věci.
+[47:52] Nebudu to tady dokola opakovat, tady ty jejich manipulace,
+[47:58] protože tohle je evidentní.
+[48:02] Tady máte třeba vašeho Babiše.
+[48:07] Důchodová reforma.
+[48:53] Evidentní zločin, vakcinační holokaust, genocida národa,
+[49:02] tady už nejsou potřeba žádný studie, rozvahy,
+[49:07] tady je potřeba podívat se, že se nám kvůli nižší porodnosti
+[49:12] očkovaných narodilo nejméně dětí v historii o 35 tisíc méně,
+[49:20] než v roce 21.
+[49:23] Já jsem opakovaně navrhoval projekt, který jsem pracovně nazval
+[49:26] Přivez seniora, dostaneš vakcínu.
+[49:28] Protože jsou zase lidé, kteří jsou mladšího věku,
+[49:31] nemají na očkování nárok a stojí o očkování,
+[49:34] a ti lidé by mohli přivez nějakého úplně cizího důchodce,
+[49:37] který bydlí někde vedle nich, pomoct mu,
+[49:40] a odměnou pro ně by bylo to, že by se mohli sami naočkovat.
+[49:44] Jo, brali byste to jako takový druh eutanázie,
+[49:49] sdílny tady Milana Kupka.
+[49:51] Já jsem opakovaně navrhoval projekt, který jsem pracovně nazval
+[49:54] Přivez seniora, dostaneš vakcínu.
+[49:56] A dalších propagátorů, zabodávačů, jako byl Flaeger,
+[50:00] co to bylo za zprávu mražáky v ulicích na mrtvoly,
+[50:05] který doteď tam žádný nebyly,
+[50:08] jestli tohle modelově nemohla být poplašná zpráva,
+[50:12] protože pravda nikdy poplašnou zprávou nemůže být.
+[50:18] Sukl se neobtěžoval u poloviny úmrtí zjistit šarže,
+[50:25] na který zemřeli.
+[50:27] Úmyslně se tato data nesledují,
+[50:31] vystoupil s tímto Tomáš Fierst za Smith
+[50:36] a za ty, kteří činí statistiku.
+[50:40] Tady je takový milý obrázek Aspen Institutu,
+[50:45] protože je úplně jedno, kdo je v jaké straně
+[50:50] nebo v jakém uskupení.
+[50:52] Důležitý je, abyste byli v Aspenu,
+[50:56] potom budete v té, či o ne dosazené vládě.
+[51:03] Aspoň tohle takhle dopustím.
+[51:06] Ale co je hlavní, všechno je to o dětech
+[51:15] a o záchraně dětí z tunelů NATO.
+[51:19] Nesmíme v žádném případě zapomenout.
+[51:23] Je to operace na osvobození dětí.
+[51:27] Tohle je to, co se děje.
+[51:31] A tady se bojuje o budoucnost světa.
+[51:35] Tady zase takový hezký seznam ne Aspen Institutu,
+[51:40] ale už těch, kteří byli popraveni
+[51:45] u vojenského tribunálu si vyslechli.
+[51:49] Spravedlivý trest vy to jenom teď vidíte z reprízy.
+[51:55] Proto tomu Donald Trump říká Central Casting.
+[52:01] Proto to opakuje.
+[52:04] Tady je rozdíl, jak vypadala armáda za Joe'a Bidena
+[52:10] a jak vypadá za Donalda Trumpa.
+[52:14] Vidíte tam viditelný rozdíl vizuální v tom,
+[52:20] jak tohle to vypadá a hlavně v tom, co se děje.
+[52:26] Tak konec korporátní tyrannie a příchod Zlatého věku.
+[52:33] Je další článek.
+[52:36] Astronauti nám tady v té plechovce jako přistáli.
+[52:41] Tady máte, že v oceánu.
+[52:44] Některým je oceán po kotníky nebo po kolena.
+[52:49] Vidíte, jak někteří aktéři ovládají ty Kristovi metody,
+[52:56] že chodí po hladině a tak.
+[52:59] Takže to byla jenom taková momentová,
+[53:01] taková momentka.
+[53:04] Tady ten chlapík se jmenuje profesor Francis Boyle.
+[53:10] Profesor práva, který podal místo přísežné prohlášení
+[53:15] a je na okresním soudu v Chomutově ve spise
+[53:20] ohledně toho, že covid-19, vakcíny, očkování,
+[53:27] ať už jim říkáte, jak chcete,
+[53:29] že tyto injekce jsou biologické zbraně hromadného ničení
+[53:36] a on jako profesor práva a autor zákona
+[53:40] o zbraní hromadného ničení o tom přeci něco musí vědět.
+[53:47] Takže tohleto je další věc,
+[53:51] která v žádném případě nelze zastavit
+[53:55] a výborná byla i v klubu Lávka,
+[53:58] doktorka Ute Krüger, což je patoložka,
+[54:04] která praktikuje ve Švédsku
+[54:07] a překládal ji tady pan doktor Aleš Novotný,
+[54:13] překladatel tlumoční knihy dalšího lékaře Gintra Franka
+[54:20] Zločin v režii států.
+[54:22] Dáme se tady jenom takový krátký výsek,
+[54:26] paní doktorka.
+[54:27] Pani doktorka je autorkou knihy
+[54:31] Geimpft gestorben, očkován, zemřel
+[54:35] a vystupovala tam jednoznačně v souvislosti,
+[54:41] že vakcíny COVID-19 způsobují rakoviny,
+[54:47] že je tam evidentní příčina souvislosti.
+[54:50] Ostatně opakování matka moudrosti.
+[55:08] Už v roce 2020 jsou větší vlády,
+[55:19] které nemá výrobní výrobní struktury,
+[55:22] které se mohou dovolit dostat do týdne
+[55:31] těch prac, které brzy se představuje nedostatek a výrobních rad.
+[55:41] Je to prostě nevýrobný výrobní struktura,
+[55:44] Jsou študie,
+[55:47] jako tato se záží roku 2025.
+[55:55] Je to kohortová študie.
+[55:58] Kohorta je vybrána z kutina individuí,
+[56:04] které mají během nějaké časové doby určitý znak.
+[56:12] A to byla v tomto případě koronasprutka.
+[56:15] A študie je z Jižní Koreje.
+[56:23] Ještě jednou to zkoukli vědci,
+[56:34] tuto studii z Jižní Koreje.
+[56:39] To je anglicky a to já se vzdal.
+[56:43] Že si to ti vědci můžou sami prohlížet.
+[56:46] Já angliští upozorňuji.
+[56:47] To říkám rovnou.
+[56:49] A tady byly 8,4 milionů datensetřů.
+[56:55] 8,4 milionů.
+[56:58] 8 milionů 400 tisíc dat.
+[57:02] A to byly mezi 2021 a 2023.
+[57:06] Mezi lety 2021 a 2023 jsou zpracované v Teslu.
+[57:09] Sledovali v té době moje videa.
+[57:12] Je to základní vědění.
+[57:17] Je to základní vědění.
+[57:21] Je to základní vědění.
+[57:21] Je to základní vědění.
+[57:21] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Je to základní vědění.
+[57:22] Těchto injekcí modifikované RNA rok po aplikaci
+[57:33] a s výšeným rizikem onemocnit česky různými druhy rakoviny.
+[57:42] Je to štítná žláza, žaludek, tenké střevo, lunge, brust a prostata.
+[58:00] Tyto dvě firmy, Fitsena a Biontech, stejně jako naše vlády,
+[58:07] co se týče trvalého haly,
+[58:15] ne, že necháme.
+[58:17] Lhali jsme se napálit, ale lhali jsme vám.
+[58:22] Masaryku to nebudu obnovovat úplně já sám.
+[58:26] To bude obnovovat Československou republiku
+[58:29] podle stále platného zákona.
+[58:31] Já vím, že idiot jako ty to nemůže najít.
+[58:35] Asi tam má problém zadat zákony pro lidi 11 lomeno 1918.
+[58:42] Asi je to pro vola koho, nebo pro vola,
+[58:47] vola, jaké je to těžké to najít, že je to stále platný zákon.
+[58:52] A o usporiadaní štátov v Evropě budu rozhodovat nezítko,
+[59:00] ten bude jen napovedat, aby to bylo korektně, podle práva,
+[59:05] ale budu rozhodovat Donald Trump, Vladimir Putin a Xi Jinping.
+[59:12] Už paní máješ, maladěc.
+[59:15] Takže takhle jednoduše.
+[59:17] A to budete teprve fidlači na housličky valit bulvy.
+[59:25] Jdeme dál k těmhletěm, jenomže se mi to tady myhlo.
+[59:29] Jinak většinou ty příspěvky jsou přede mnou skryty.
+[59:34] Tady vidíte Vladimir Putin verze 2010 a pozdější.
+[59:41] Takže vidíte tady rozdíl, který je nepřehledný.
+[59:47] I když se tomu říkalo stejným jménem.
+[59:53] Takže i takhle běží ta operace, že to není úplně stejný a totožný.
+[01:00:00] A vždycky musíte dávat bacha, kdo ten film vysílá, která strana.
+[01:00:07] Tady máme vykulence z kolína a dal jsem ho tam na schvál, dvojí metr.
+[01:00:16] Zrušení poplatků za ČT je devastující.
+[01:00:20] Budeme se bránit obstrukcemi a ústavním soudem.
+[01:00:23] Takže tady jsem to okomentoval, jestli ČT dodržuje zákon o vyváženosti informací,
+[01:00:33] se ukáže v nominaci na čtvrteční vysílání pořadu.
+[01:00:39] Máte slovo o očkování, jestli se to bude jmenovat držte huby.
+[01:00:46] Máte slovo, v případě, že je to, máte slovo.
+[01:00:49] A soutěží se tady o miliardy korun do rozpočtu z koncesionářských poplatků.
+[01:00:57] Neměl by tam u Jílkové v nominaci chybět proti Primulovi Beranovi Pavel Zítko,
+[01:01:06] pokud tam Pavel Zítko nebude se jednat o vyvážené spravodajství,
+[01:01:14] o vyvážené informování veřejnosti a česká televize si nezaslouží ani korunu z vašich peněz,
+[01:01:26] protože nepodává ty vyvážené informace a nedávala zcela úmyslně ani v roce 2020,
+[01:01:36] ani v rámci prezidentský kapadě, kdy jsem byl úplně odstíněnej, abych neřekl už,
+[01:01:44] na konci roku 2022 pravdu o sračkách v injekcích covidu-19 a o devastujících účincích na lidské zdraví,
+[01:01:58] což se teď projevuje v celé nahotě právě nejnižší porodností za 240 let na našem území díky zaočkovaným ženám.
+[01:02:11] A to je opět studie na internetu.
+[01:02:14] A 1,3 milionu žen, jo?
+[01:02:19] Tak a pak to, co vidíte v televizi, tak vidíte tady chlapce, jak si upravuje masku
+[01:02:28] a jak vypadá jako úplně někdo jiný než ten, co je pod maskou, jo?
+[01:02:35] Takhle to vypadá na začátku a pak, když si to nandá, tak nejste schopní vůbec,
+[01:02:44] ten rozdíl postřehnout a to je jenom jedna z metod.
+[01:02:49] Ještě používají pro vysílání klony, dvojníky, hologramy, AI a další, takže tímhle tím to rozhodně nekončí.
+[01:03:05] Aprílový Artemis 2, tak je to tady další článeček z dílny COVID Logika.
+[01:03:13] Proč?
+[01:03:14] Proč nám ty věci ukazují na 1. apríla, kdy Artemis vystartoval?
+[01:03:20] No, odpověď je jednoduchá, protože si z nás dělají prdel.
+[01:03:25] Stejně jako ukázali první foto země Koule 1. dubna 1960, Artemis 2, on byl nějaký Artemis 1,
+[01:03:36] i v tomhle testují naši pozornost.
+[01:03:39] Předtím to bylo přeci Apollo.
+[01:03:41] V jednom slený moreném nelze souhlasit, když říká, že tenkrát na to nikdo nenaletí.
+[01:03:51] Že tentokrát na to nikdo nenaletí.
+[01:03:54] Nesouhlasíme, protože spousta pitomců o tom ani minuto nezapochybovala a považuje to za hotovou věc.
+[01:04:03] Věď Masaryku s Análovou.
+[01:04:05] Vy určitě jste tam v tom kosmo byli i s tím pátým.
+[01:04:11] S kameramanem, co je tam natáčel.
+[01:04:15] I s tím, jak v roce 1972 zůstal kameraman na měsíci, ho tam zapomněli,
+[01:04:24] protože Apollo 17 odfrčelo a tenhle ten chudák tam zůstal.
+[01:04:31] Bylo to opět, upozorňuji, na poušti v Nevadě a tenkrát to točil Stanley Kubrick, režisér.
+[01:04:41] Ani zatím nevíme, kdo to režíroval, ale věřím, že se to časem dozvíme.
+[01:04:49] No a nakonec dnešního nedělního show, vysílání, si dáme rozdíl mezi 3D a 5D.
+[01:05:00] Jako pořád si některý myslí, že budou muset si někam stěhovat, nebo že to něco přenese na jinou 5D zemi.
+[01:05:11] Je to jenom tady a tady.
+[01:05:15] Tady v těchto místech se tato změna obrovská odehrává.
+[01:05:24] Ne venku, ale uvnitř.
+[01:05:26] Drazí, píše Jana Jilková, 5D, nová země, je stav vaší mysli.
+[01:05:35] Nikam se nikdo nebude muset stěhovat.
+[01:05:39] A tak to je.
+[01:05:40] Co vlastně znamená 5D země?
+[01:05:45] Slyšeli jste to všude.
+[01:05:46] Lidé mluví o přechodu do 5D země, jako by to bylo nějaké místo, kam všichni jednoho dne dorazíme, jako cíl, jako něco mimo nás.
+[01:05:57] Ale pokud opravdu zpomalíte, rozdýcháte se a vcítíte se do toho, uvědomujete si, že to tak není.
+[01:06:08] 5D není místo, kam jdete.
+[01:06:10] Je to způsob, jakým vidíte, protože můžete pozorovat stejnou realitu a někdo vidí sračky, negace, spiknutí, židi, chabat, lubavič, katastrofa, všichni zemřeme.
+[01:06:26] A někdo vidí kvantový finanční systém, zlatý věk a vidí úplně jinou realitu, i když se koukají na úplně, úplně.
+[01:06:40] 5D není místo, kam jdete.
+[01:06:40] To samý, jo, tohle je důležitý se uvědomit.
+[01:06:46] Uvědomujete si, že to tak není.
+[01:06:48] 5D není místo, kam jdete.
+[01:06:51] Je to způsob, jakým vidíte.
+[01:06:53] Je to posun ve vědomí, který mění to, jak prožíváte.
+[01:06:58] Ten týž svět, ve kterém jste vždy stáli, země nezmizí, nebe se nerozdělí.
+[01:07:06] Co se změní, jste vy.
+[01:07:09] Tohle to mezi židlí a počítačem.
+[01:07:14] V nižších stavech vědomí je život poháněný strachem, kontrolou, přežitím, srovnáváním.
+[01:07:21] Všechno se zdá těžké, reaktivní a vnější.
+[01:07:25] Jste neustále vtahováni do toho, co se děje kolem vás.
+[01:07:29] Vokopávají vám kotníky, lžou o vás.
+[01:07:34] Vymýšlej si, snaží se na vás útočit.
+[01:07:36] A vy asi je naserete nejvíc.
+[01:07:39] Když je asi ignorujete.
+[01:07:42] Takže tohle je taky evidentní, že chtějí vás vyprovokovat
+[01:07:48] a chtějí se krmit vaší energí obhajováním
+[01:07:53] a tím, co je pro zúčastněného aktéra víc než zřejmé.
+[01:08:01] Pokud si vyčlení ten čas a sleduje to, co se tak děje
+[01:08:05] a kdy se tak děje.
+[01:08:07] A kdy zejména po 24. únoru, kdy jsem poprvé vysílal
+[01:08:12] se Soně Opekovou na Petr Bureš TV,
+[01:08:16] takže se rozjeli tady ty vokopávačky, útoky
+[01:08:21] a tady ta aktivita zase všichni.
+[01:08:26] Nazítka děsná, sranda, že vždycky je tam nějakej spouštěč,
+[01:08:31] který tohleto všechno odstartuje.
+[01:08:34] Tak, jdeme dál.
+[01:08:38] Ale jak se vaše vědomí mění, začíná se dít něco jiného.
+[01:08:50] Jste neustále vtahováni do toho, co se děje kolem vás,
+[01:08:53] snažíte se tomu dát smysl, snažíte se to zvládnout.
+[01:08:57] Stáváte se méně reaktivními a více přítomnými.
+[01:09:03] Přestáváte se honit za potvrzením
+[01:09:06] a začínáte důvěrovat tomu,
+[01:09:10] co cítíte.
+[01:09:11] Tady je důležitý uvěř a já ti ukážu,
+[01:09:16] než ukaž mi to a já uvěřím.
+[01:09:19] Takhle jednoduchá změna toho přístupu,
+[01:09:23] která se odehrává v Makovicích některých jedinců.
+[01:09:28] Tento souboj, takhle jednoduchá změna přístupu, to je.
+[01:09:36] Prohlédnete si věci rychleji, cítíte pravdu.
+[01:09:40] Abyste ji potřebovali vysvětlovat.
+[01:09:43] Tomu lidé říkají 5D.
+[01:09:45] Není to dokonalost, je to jasnost.
+[01:09:49] Je to soudržnost, je to život z místa,
+[01:09:53] kde láska není něco, o čem mluvíte.
+[01:09:56] Je to něco, s čím operujete.
+[01:10:00] A proto se zdá, že se všechno právě teď mění.
+[01:10:05] Vztahy se mění, přednostně mizí stará identita.
+[01:10:10] Stará identita už nesedí.
+[01:10:13] Není to nabízeno, je to zdokonalování.
+[01:10:16] Cokoliv postaveného na strachu nebo iluzi v tomto stavu nemůže obstát.
+[01:10:23] Takže se to začíná rozpouštět.
+[01:10:27] To je to důležité slovíčko.
+[01:10:29] To je ten skutečný přechod.
+[01:10:31] Ne opuštění země, ale její odlišné prožívání.
+[01:10:36] Dva lidé mohou stát na stejném místě.
+[01:10:39] A žít v úplně jiných realitách.
+[01:10:42] Jeden vidí chaos a druhý vidí jasnost.
+[01:10:46] Stejný svět, ale jiné vědomí.
+[01:10:50] Takže nejde o čekání, až se tam venku něco stane.
+[01:10:54] Jde o to, co si vybíráte.
+[01:10:57] Tady a teď. Každý den.
+[01:11:00] To je ten posun.
+[01:11:02] A ať si to lidé uvědomují, nebo ne, už se tohleto kolem vás.
+[01:11:09] Děje.
+[01:11:10] Takže tohleto je velmi dobře vysvětleno.
+[01:11:15] Pak je tady další video, který je ze 17. března letošního roku.
+[01:11:24] Z covid logiky.
+[01:11:26] Oficiální data.
+[01:11:30] Neexistuje důkaz existence viru SARS-CoV-2.
+[01:11:35] Laik si může izolování analogicky představit,
+[01:11:39] jako házení pytle, ve kterém jsou kameny a pingpongové míčky na zeď.
+[01:11:45] Kameny, než představují toxiny z potravy, ovzduší a vakcín.
+[01:11:50] Pingpongové míčky, než představují takzvané viry.
+[01:11:54] A zeď budeš naše zdraví.
+[01:11:57] Virologie tvrdí, že tu zeď rozbíjí pingpongové míčky,
+[01:12:02] ale nikdy nebyla schopna vzít pytel očištěných,
+[01:12:07] to je to kouzelný slovíčko,
+[01:12:09] izolovaných pingpongových míčků a vrhnout ho na zeď,
+[01:12:14] aby zjistila, zda zeď skutečně rozbíjí.
+[01:12:19] Odměna vypsaná německým podnikatelem za důkaz izolování SARS-CoV-2
+[01:12:26] se aktuálně vyšpelala na 1,5 milionu euro.
+[01:12:30] Nikdo si prémii stále nevyzvedne.
+[01:12:34] Já jsem to nabízel údajnýmu státnímu doktoru,
+[01:12:36] údajnýmu státnímu zástupci Wernerovi jako Brigošku,
+[01:12:40] že když přinese důkaz izolování údajného původce nemoci SARS-CoV-19,
+[01:12:48] virus SARS-CoV-2, že může s tím dotyčným skasírovat,
+[01:12:53] když pojedou na půl 750 tisíc euro krát 24 korun,
+[01:12:59] je to dost peněz, měl by na benzín nebo naftu,
+[01:13:03] podle toho, čím jezdí na dost dlouho dopředu,
+[01:13:06] ale je vidět, že jako údajný státní zástupce bere asi dost peněz,
+[01:13:10] že ho to nezaujalo.
+[01:13:13] A nebo že by věděl o tom, že údajný virus,
+[01:13:17] údajného původce nemoci COVID-19 nikdy nikdo neizoloval.
+[01:13:24] Kdo ví?
+[01:13:26] Možná se ještě zeptají Davida Wernera u vojenského tribunálu,
+[01:13:34] jak to všechno vlastně on ve skutečnosti myslel.
+[01:13:41] Tak, co tady je?
+[01:13:43] Nikolaus Halscher, ten jsem byl potěšenej, že byl jmenovaný
+[01:13:47] v souvislosti se soudem v Amsterdamu jako zdroj,
+[01:13:52] protože sdílím jeho videa, které jsou v angličtině,
+[01:13:56] ale jsou srozumitelné, co všechno způsobily injekce COVID-19.
+[01:14:03] Tady je snímeček, kvůli kterému asi Peťa Fiala nemá moc velkou radost.
+[01:14:11] To je z dávných dob černobílé fotografie,
+[01:14:16] kde tady Fiala je ten druhý chlapec z liva s aktovkou,
+[01:14:23] kterou patrně nosil Bernd Posltovi.
+[01:14:27] To je ten, který má přijet na siest sudeto německého.
+[01:14:32] Takže takhle hluboko jsou kořeny tzv. panevropské unie na Moravě,
+[01:14:46] a tady jsou evidentní snahy sudeťáků nějak revokovat
+[01:14:53] a nějak spochybňovat Benešovi dekrety a snahu ukrást majetky.
+[01:15:01] A toto se dělo u nás i pomocí tzv. církevních restitucí
+[01:15:08] a dalších kejklů, které se odehrávaly na našem území.
+[01:15:15] Americký lid byl zotročen židosionistickou mafí,
+[01:15:19] která ho od roku 1917 vláčí z jedné války do druhé
+[01:15:24] a cynicky na nich vydělává. Kdo to řekl? John F. Kennedy.
+[01:15:29] Takže to byl ten starter a tady podle salutování vidíte,
+[01:15:37] že hlavní roli je armáda, nikoliv někdo jiný,
+[01:15:44] a hlavní je boj za osvobození dětí.
+[01:15:49] Ostatně velmi, velmi zajímavý projev tady měla tento týden Melanie Trump.
+[01:15:58] Takže tady určitě uvidíme ještě důsledky toho,
+[01:16:04] že se ji snažili namočit do případu Epstein,
+[01:16:09] ale tohle je to hlavní.
+[01:16:13] Ukončení obchodování s lidmi, s lidskými orgány, s dětmi
+[01:16:19] a ukončení zrůdné výroby adrenochromu
+[01:16:26] a tohle to prostě musí skončit.
+[01:16:30] Tady ty zvěrstva, který byly po dlouhá staletí prováděna na dětech,
+[01:16:38] tak tohle prostě není možné, aby dál trvalo.
+[01:16:43] A to je úkol číslo jedna zločiny.
+[01:16:47] Číslo dvě jsou až potom na druhém místě covid-19
+[01:16:53] a všechny další důsledky.
+[01:16:56] Nejsou tím hlavním.
+[01:16:59] Číslo jedna je ukončení obchodování s dětmi
+[01:17:06] a jejich můčení za účelem izolování adrenalinu
+[01:17:13] a z adrenalinu se potom vyráběl adrenochrom.
+[01:17:19] Takže tohle tady pod pláštíkem politického boje
+[01:17:25] nasazených loutek, ať z té, či z oné strany, dlouho, dlouho trvalo.
+[01:17:32] Tak, teď ještě jenom tady dáme číslo.
+[01:17:37] Tady stránka facebooková Profil Československo TV 2 má.
+[01:17:43] Toto číslo stále nemám.
+[01:17:46] Termín mého odvolacího soudu, kde jsem od okresního soudu v Chomutově,
+[01:17:52] za varování lidem.
+[01:17:55] A záchranu stovek, možná tisíců lidských životů vyfasoval trest
+[01:18:01] tři roky nepodmíněně za údajné šíření poplašné zprávy.
+[01:18:07] Stále čekám na termín odvolacího soudu,
+[01:18:11] ukrajinského soudu v Ústí nad Labem.
+[01:18:14] Spisů je tam téměř dva tisíce ve složce,
+[01:18:18] takže to asi studujou.
+[01:18:20] No a pokud byste mě chtěli podpořit v tomto mým,
+[01:18:24] boji za pravdu,
+[01:18:27] a uvidíme, jak zareaguje Jílko Vá,
+[01:18:30] v pořadu máte slovo,
+[01:18:32] protože rád bych tam Primulovi i Beranovi řekl k tomuto tématu
+[01:18:37] v rámci vyváženého spravodajství svoje,
+[01:18:41] tak mě můžete podpořit na slovenská čísla účtu,
+[01:18:45] nebo do zprávy, nebo do e-mailu,
+[01:18:49] vám napíšu český.
+[01:18:52] Aby vám záhodou Masaryka nenapadlo,
+[01:18:55] že zahraničními platbami by vytuneloval tento účet.
+[01:19:00] Tak, to je ode mě pro dnešek, pro neděli 12. dubna.
+[01:19:06] Všechno mějte se fanfárově,
+[01:19:09] přeju vám krásný zbytek večera
+[01:19:12] a klidnou dobrou noc.
+[01:19:15] A zítra je pravoslavné velikonoční pončí,
+[01:19:20] velikonoční pondělí.
+[01:19:23] A podle kalendáře můžeme se dostat
+[01:19:28] ještě v rámci nějaký změny úplně někam jinam.
+[01:19:34] Takže buďte byladěni,
+[01:19:39] naladěni na vysoké vibrace,
+[01:19:42] na frekvence a věřte,
+[01:19:45] že pokud to ještě dobře nedopadlo,
+[01:19:49] tak jsme ještě neskončili.
+[01:19:52] Hlasariku, mějte se krásně
+[01:19:55] a ať ti to hezky a hlavně dlouho ještě fidlá.
+[01:20:00] Mějte se fanfárově a přeju hezký večer
+[01:20:04] a díky všem za podporu, že stojíte
+[01:20:08] na straně práva, pravdy a spravedlnosti
+[01:20:13] a lásky a ne na straně zmrdů,
+[01:20:18] který tohle zvěrstvo tady praktikovali
+[01:20:23] na dětech dlouhá staletí.
+[01:20:26] V tomhle tom je velký rozdíl.
+[01:20:29] Díky všem srdcařům a čau.

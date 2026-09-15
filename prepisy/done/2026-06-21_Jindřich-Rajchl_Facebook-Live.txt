@@ -1,0 +1,1770 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/1147458754261704
+Datum videa:  2026-06-21
+Zpracováno:   2026-06-24 20:47:45
+Jazyk:        cs
+Délka:        01:03:38
+Popis:        Česká televize není strážcem demokracie. Je strážcem probruselského směřování České republiky.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    32s
+Přepis:       11m 49s
+Rychlost:     5.4x realtime
+Celkem:       12m 21s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:08] Krásný, dobrý podvečer dámy a pánové. Dnes později, než jste zvyklí, ale kdo sleduje moje facebookové stránky, tak ví proč.
+[00:18] Protože jsme zůstali zaseklí v Měchově na letišti, kde nás nasáčkovali do letadla, ale poté kvůli špatnému počasí na Českou republiku jsme minuli časový slot
+[00:31] a ten další nám přidělili až skutečně o dvě a půl hodiny později. Takže jsem právě teď před chvíli přistál na letiště v Ruzini a dorazil domů a hned zasedl z voleje k počítači,
+[00:46] abych vám mohl poskytnout i dnes živé vysílání, které bude převážně se týkat médií, protože ty byly skutečně v centru dění, ale ještě předtím, než se k ním dostaneme,
+[00:58] tak se pojďme pobavit.
+[01:01] ... které jako vždy byly tento týden na programu všech možných veřejných debat a diskuzí a ty některé hned jsou velmi čerstvé, takže myslím, že to bude stát opravdu za to.
+[01:15] Ještě jednou poprosím zase o sdílení. Dnes asi nebudeme mít tu sledovanost tak vysokou, protože lidé jsou zvyklí chodit na tu šestou, ale abyste věděli, tak ani příští týden nebude vysílání v 6 hodin,
+[01:31] tak jak jste zvyklí, protože a jelikož jsem dostal pozvánku na duel do české televize Světé divse a to se Zdeňkem Hřibem, předsedou Pirátské strany, v 18.15 hodin příští týden, takže určitě se dívejte, myslím, že to bude stát za to.
+[01:51] Uvidíte konfrontaci, přímo konfrontaci politiky osobních invektiv a urážek, kterou předvádějí Piráti, oni nic jiného neumí.
+[02:01] A věcní řešení pro směřování České republiky, které vám tam budu představovat já, protože my jsme stranou programovou, my jsme stranou, která nabízí konkrétní řešení na to,
+[02:14] jakým způsobem dosáhnout prosperity, bezpečnosti, svobody a suverenity České republiky, zatímco Piráti jenom křičí, špatný je Babi, špatná je Mrázová, špatný je Klempís, špatná je Tynde Bárta a tak dále a tak dále.
+[02:30] A já musím říct, že když už jsme právě o tohoto tématu, tak se nemůžu nepozastavit nad tím, jak je neuvěřitelný dvojí metr platí v České republice, co se týče různých politických kaus.
+[02:47] My tady řešíme poslední měsíc byt paní ministrině Mrázové, potom byt poradkyně Andreje Babiše a paní Tynde Bárty a teď byt.
+[03:00] I ty Andreje Prokopá. Já neříkám, že to jsou věci, které by měly zůstat zcela stranou našeho zájmu, ale jak to, že ta samá média a ty samé politické strany neřeší mnohem závažnější korupční kauzy,
+[03:15] které nám pravidelně na své facebookové stránce představuje Thomas Paukner. To jsou věci, kde nejde o jednotky milionů, ale o desítky, stovky milionů, nákup předražených vrtulníků,
+[03:30] malé domů pana Hladíka z ministerstva životního prostředí, teď další kauza Karel Dvořák, náměstek ministra spravedlnosti za doby Pavla Blaška, člověk, který tam seděl u té bitcoinové kauzy a člověk, který od stanu dostával v podstatě i hned po vstupu do politiky a po založení své kanceláře z ruky bez výběrového řízení velmi lukrativní právní zakázky
+[03:58] od
+[04:00] firem napojených na hlavní město Prahu. Prostě faktické další odnož dozimetru toho, že tam pan Hlubuček mu servíroval peníze jak na běžícím pásu. Kde jsou tyhle kauzy? Jak to, že reportéři ČT neřeší absolutně tyto věci, kde jde skutečně o desítky a stovky milionů? Kde to vidíme na seznamu napsané?
+[04:26] Tomas Paukner sám
+[04:28] na své facebookové
+[04:30] stránce uvedl, že
+[04:31] kompletně veškeré
+[04:33] podklady seznamu předal. A seznam
+[04:36] reagoval, že chce schůzku
+[04:38] se šéf-redaktorem Čásenským.
+[04:41] No scházeli byste se
+[04:42] s někým, kdo v podstatě jde
+[04:44] proti vám a kdo je hlavním zastáncem
+[04:46] hnutí stan za poslední
+[04:48] roky? Tady člověk, který tam
+[04:49] brání Víta Rakušana svým
+[04:52] vlastním tělem? Já tedy
+[04:53] určitě ne. Já tedy určitě ne.
+[04:55] Za žádnou cenu. Seznam
+[04:57] medium, nebo respektive seznam
+[05:00] portále seznam medium, kde
+[05:02] lidé publikují svoje názory, tak změnil
+[05:04] kvůli Tomasovi Pauknerovi pravidla.
+[05:06] Protože je známe, že se jedná
+[05:08] o jeho pseudonym, že to není jeho pravé
+[05:10] jméno. A aby on buď to
+[05:12] byl nucen se přiznat ke své
+[05:14] pravé identitě, anebo
+[05:16] přestat psát, tak seznam
+[05:18] změnil podmínky na seznam
+[05:20] medium, že tam musíte
+[05:22] ověřit svoji totožnost. V podstatě se
+[05:24] demaskovat, tak aby bylo
+[05:26] nemožné psát pod jakýmkoliv
+[05:28] pseudonymem. To je příměr,
+[05:30] to je přímý útok na Tomase Pauknera.
+[05:32] Namísto toho, aby
+[05:34] seznam zprávy začaly
+[05:36] ty kauzy řešit, tak jediné,
+[05:38] co jí zajímá, je zjistit,
+[05:40] kdo je za tímto pseudonymem.
+[05:42] Tak daleko jsme se dostali.
+[05:44] To je ta objektivita našich
+[05:46] médií v přímém přenosu.
+[05:48] A dokonce samozřejmě
+[05:50] CEMPER už jako se
+[05:51] vypuštěný CEMPER
+[05:54] jako vždycky se rozčiloval na tím,
+[05:57] že přece nemůžeme brát
+[05:58] informace z neznámého zdroje.
+[06:00] Proč ne?
+[06:03] Pamatujete na internetový účet
+[06:05] Julius Schumann,
+[06:06] který začal zveřejňovat
+[06:08] kauzy? Každý to přebíral v té době.
+[06:11] Všechna média to řešila.
+[06:12] Nikoho nezajímalo, kdo stojí za tím
+[06:14] účtem Julius Schumann. A upřímně,
+[06:17] mě je úplně jedno, kdo je Tomas Paukner.
+[06:19] Mě je úplně jedno, kdo to je.
+[06:21] Mě záleží na tom,
+[06:22] že prostě tady máme, jak
+[06:24] na stříbrném podnose
+[06:26] naservírované závažné
+[06:28] politické kauzy, které stály
+[06:30] daňové poplatníky opravdu
+[06:32] stovky milionů korun.
+[06:34] A nikoho to nezajímá.
+[06:36] Protože se to týká stanu, protože se to týká
+[06:39] pana Rakušana, pana Dvořáka,
+[06:41] který se fotí s Mikulášem
+[06:43] Minářem a jdou tady zachraňovat
+[06:45] demokracii. To je skvělé, když
+[06:47] vít Rakušan, hlava
+[06:49] dozimetrického hnutí stanu, tady
+[06:51] zachraňuje s Mikulášem Minářem,
+[06:53] který spronevěřil
+[06:55] 7 milionů korun, když
+[06:57] zakládal politickou stranu,
+[06:59] kterou nikdy nezaložil, ale ty peníze
+[07:01] na to vybral a nikdy je nevrátil.
+[07:03] Nikdy je nikomu nedal.
+[07:05] Vyplatil si výplaty
+[07:06] a bylo vyřešeno se svým
+[07:09] týmem. Pane Mináři,
+[07:11] jestli chcete
+[07:12] ingerovat do politiky v České republice,
+[07:16] tak ty peníze
+[07:17] vemte a znova tu politickou
+[07:19] stranu založte. Nebuďte srad,
+[07:21] nebuďte zbabělec. Já vím, že jste
+[07:22] i pod živou záminkou
+[07:24] odmítnul debatu se mnou,
+[07:27] kterou právě se nám chtěl
+[07:28] zorganizovat.
+[07:29] A vy jste říkal, že jsem si
+[07:31] objednal, dodnes jste se
+[07:33] za tu lež neomluvil. Mně,
+[07:35] omluvil jste se seznamu, ale mně jste se neomluvil.
+[07:38] Pane Mináři, takže
+[07:39] jestli chcete, tak se prosím neschovávajte
+[07:41] za politickou neziskovkou.
+[07:43] Nedělejte si z toho biznis a kšeft.
+[07:46] A pojďte do politiky,
+[07:47] pojďte se s námi utkat.
+[07:49] Kolik jste dostal hlasů v posledních volbách, pane Mináři?
+[07:52] Nula.
+[07:53] Nula. Tak nemluvte do politiky,
+[07:55] nemáte do ní co mluvit.
+[07:58] Politika je soutěží
+[07:59] politických stran, které občané dávají
+[08:01] ve volbách mandát podle
+[08:03] svých vlastních preferenci.
+[08:05] A jestli, že vy se bojíte na tohle
+[08:07] kolbiště vstoupit, tak mlčte.
+[08:10] To je úplně jednoduché.
+[08:12] A nejdřív se mě omluvte a vlejte těch 7 milionů.
+[08:14] To bude velmi dobrý krok
+[08:15] k tomu, abyste někam se posunul.
+[08:18] A milion chvělek,
+[08:20] nezajímají tyto kauzy, milion chvělek
+[08:22] zajímaly kauzy Andreje Babiše,
+[08:24] pořádali demonstrace na letné
+[08:26] proti Andreji Babišovi.
+[08:27] Zajímal je střed zájmu Andreje Babiše,
+[08:30] který nestál Českou republiku ani
+[08:32] korunu, ale nezajímá je
+[08:34] dozimetr, nezajímají je
+[08:36] kauzy pana Dvořáka,
+[08:38] pana Rakušana,
+[08:40] nezajímá je pět podezělých úmrtí,
+[08:43] nezajímá je organizovaný
+[08:44] zločin české politice. Tady vidíte,
+[08:46] že jim vůbec nejde o žádnou
+[08:48] demokracii. To je vlivová
+[08:50] struktura,
+[08:52] která je financovaná lidmi,
+[08:54] kteří chtějí změnit
+[08:56] směřování České republiky.
+[08:57] Kteří se nesmířili s výsledkem
+[09:00] voleb. Kteří právě proto,
+[09:02] že ty volby prohráli a nemají
+[09:04] v současné době žádného
+[09:06] silného lídra opozice,
+[09:08] tak si udělali
+[09:10] toho lídra z Petra Pavla
+[09:11] a snaží se vlastně
+[09:14] prostřednictvím té takzvané
+[09:16] občanské společnosti, což je
+[09:18] výraz, který já absolutně nesnáším,
+[09:20] protože považuji právě za narušení
+[09:22] standardního politického souboje,
+[09:25] ovlivňovat dění
+[09:26] v České republiky a zvrátit
+[09:27] výsledek voleb. Naše vláda
+[09:30] nebo vláda, kterou já podporuji
+[09:32] v poslanecké sněmovně,
+[09:34] nedělá nic z toho, co by lidem
+[09:36] před volbami neslibovala.
+[09:39] Naopak některé věci by ještě
+[09:40] dělat měla. Navíc.
+[09:42] Pořád mám ten zákon Fara. Věřte mi,
+[09:44] že já ho to nenechám spát.
+[09:46] Já mám trpělivosti dost,
+[09:48] ale jednou skončí a musím říct,
+[09:50] že buď to prostě vláda ten zákon
+[09:52] přednese nebo ho přednesu, já nenechám
+[09:54] ten zákon o politických neziskovkách
+[09:56] prostě a jednoduše vyšumět. V žádném případě
+[09:58] ne, protože právě tohle
+[10:00] je ten
+[10:01] správný nástroj, jakým způsobem
+[10:04] omezit vliv těchto politických neziskovek
+[10:06] často financovaných ze zahraničí
+[10:08] na Českou republiku.
+[10:10] Měli jsme zrušit ty F-35.
+[10:13] Vidíte, že zase
+[10:14] už je zřejmé, že prostě to bude
+[10:16] stát o 40 miliard víc a možná
+[10:18] ještě, já jsem říkal, že to bude stát ještě daleko
+[10:20] víc. Jedna letová hodina
+[10:22] jeden milion konů. Jedna letová
+[10:24] hodina. To může být jeden
+[10:26] zachráněný lidský život. To, že si nám
+[10:28] tady proletí stíhačka po obloze
+[10:30] na jednu hodinu.
+[10:32] Kdybychom ten jeden milion dali lidem,
+[10:34] kteří potřebují léčbu,
+[10:36] kterou zdravotní pojišťovna nehradí, tak můžeme
+[10:38] zachránit jeden lidský život.
+[10:40] Co je lepší? Aby se nám
+[10:42] F-35 proletěla po obloze
+[10:44] nebo abychom zachránili
+[10:46] život jednomu konkrétnímu člověku.
+[10:48] To může být váš život.
+[10:50] To může být život vašeho dítěte,
+[10:52] vašich blízkých. Za mě je
+[10:55] celá jednoznačná věc. Měli jsme zrušit
+[10:57] muniční iniciativu. To, co jsme slíbeli,
+[10:59] jsme měli dělat. Na to
+[11:00] jsme dostali mandát a věřte mi, že já
+[11:03] prostě od těch slibů neustupu a budu
+[11:05] je nadále prosazovat. Byť prostě
+[11:07] nemáme většinu. Množství vždycky píšete
+[11:09] konejte, něco dělejte.
+[11:11] Je nás tam patnáct. Společně
+[11:13] se všemi mými kolegy
+[11:15] v klubu SPD. Je nás tam patnáct.
+[11:18] Není nás tam sto jedna.
+[11:19] Až nás tam bude sto jedna, pak můžete
+[11:21] říkat, že něco neplníme. Teď
+[11:23] v současné době se snažíme ze všech sil
+[11:25] prosazovat to, co jsme vám
+[11:27] slíbili. A týká se to
+[11:29] Tomě Okamury, Radima Fiali, Tomáše
+[11:31] Doležala, Libora Vondráčka,
+[11:33] Lucky Šafránkové, která se velmi angažovala
+[11:36] proti tomu
+[11:38] sjezdu Sudeto Německého Landsmannschaftu.
+[11:39] Tomáše Doležala, který dělá
+[11:41] fantastickou práci. My všichni děláme
+[11:43] maximum, co můžeme.
+[11:46] Ale máme jenom ty karty,
+[11:47] které jste nám rozdali. Žádné jiné
+[11:49] v ruce nemáme. Takže
+[11:51] my neustupujeme ani o
+[11:53] centimetr z našich slibů.
+[11:55] Budeme se snažit tu vládu tlačit tímto
+[11:57] směrem, ale dál jí prostě
+[11:59] dotlačit nemůžeme, než na to, na co
+[12:01] máme sílu.
+[12:03] Každopádně, abych se vrátil
+[12:05] k tomu původnímu
+[12:07] a k té původní tezi.
+[12:09] My jsme dopředu
+[12:11] jasně řekli před volbami,
+[12:13] že změníme financování České televize.
+[12:15] My jsme to jasně řekli.
+[12:17] To není jako vláda Petra Fialy,
+[12:20] která řekla, nezvýšíme daně
+[12:22] a zvýšila je.
+[12:23] Vláda Petra Fialy, která říkala, nezvýšíme
+[12:26] koncesionářské poplatky České televizi
+[12:28] a zvýšila je.
+[12:30] Vláda, která prostě a jednoduše
+[12:32] rezignovala na všechno, co slíbila
+[12:35] před volbami. Oni něco slíbili
+[12:36] a začali dělat něco jiného.
+[12:39] My realizujeme to,
+[12:41] co jsme vám před volbami řekli.
+[12:43] Jak SPD, tak
+[12:45] ano, měli v předvolebním
+[12:47] programu změnu
+[12:49] financování veřejnoprávních
+[12:51] médií. Ten program,
+[12:53] na ten program jsme dostali mandát,
+[12:55] ten program v tuhle tu chvíli realizujeme,
+[12:57] protože jsme ty volby vyhráli.
+[12:59] Oni je prohráli a snaží se to teď
+[13:01] v tuhle tu chvíli zvrátit.
+[13:03] To je prostě evidentní fakt.
+[13:06] Takže já
+[13:08] zase za sebe říkám,
+[13:09] a proto jsem tohle vysílání věnoval
+[13:12] médiím, že v tom je ten obrovský
+[13:14] problém, že vlastně média,
+[13:16] která tady mají před sebou
+[13:17] extrémně závažné kauzy,
+[13:19] které
+[13:19] tak řeší to, jestli
+[13:21] paní Tinde Bárta nechává
+[13:23] v obecním bytě bydlet svoje děti.
+[13:25] Pro boha, kolik to stojí
+[13:27] Českou republiku? Kdyby tam nebydleli
+[13:29] děti, tak tam bude bydlet někdo jiný a bude platit
+[13:31] úplně stejný nájem. To znamená,
+[13:33] nás, daňové poplatníky, to nestálo ani korunu.
+[13:36] Můžeme se tady
+[13:37] spekulovat o tom, jak vysoce je to morální.
+[13:40] Já prostě za sebe říkám,
+[13:41] že s tím problém nemám, ale to je každého věc.
+[13:44] Nicméně,
+[13:45] fakt je ten, že nás to nestálo
+[13:47] ani korunu. Ten prodej
+[13:49] vrtulníků z ministerstva vnitra, respektive
+[13:51] nákup vrtulníků, aby byl přesný, když jsme
+[13:53] kupovali 20 let staré, repasované
+[13:55] vrtulníky dráž, než Rumuní
+[13:57] kupovali nejnovější vrtulník.
+[14:00] Přátelé, to je to samé,
+[14:02] jako kdybyste řekli,
+[14:03] že je v pořádku si koupit 20 let
+[14:05] starého, vylágrovaného Mercedesa
+[14:07] a ne úplně nového
+[14:09] Bauráka za vyšší cenu.
+[14:12] Vy byste si mohli koupit Bauráka,
+[14:14] úplně nového Bauráka
+[14:15] za milion korun a šli byste si koupit
+[14:18] starý, repasovaný
+[14:19] Mercedes, 20 let starý, repasovaný
+[14:21] Mercedes za milion třista tisíc a řekli byste,
+[14:23] to je úplně v pořádku. Není to v pořádku.
+[14:27] Je to zásadní kauza,
+[14:29] která tady rezonuje.
+[14:31] Všichni na sociálních sítích
+[14:33] ji vidí, ale média mlčí.
+[14:35] Milion chvílek mlčí.
+[14:37] Kde jsou reportéři, čekajte.
+[14:39] Máte to přímo od Pauknera
+[14:41] takhle krásně zepsané.
+[14:42] Kde je seznám?
+[14:44] Strážce demokracie.
+[14:46] Jaký jste strážci demokracie,
+[14:48] když si vybíráte jenom některé kauzy?
+[14:50] Jenom kauzy, které se týkají
+[14:52] vládních představitelů, nebo
+[14:54] lidí, kteří jsou s vládou spojeni.
+[14:56] Ale absolutně umlčujete,
+[14:58] zamlčujete, zametáte
+[15:00] pod koberec mnohem závažnější,
+[15:02] důležitější kauzy, které stojí
+[15:04] 100 miliony korun naše daňové
+[15:06] poplatníky. Věřte mi,
+[15:08] že já dnes říkám,
+[15:10] byť moje nejoblíbenější
+[15:13] ministerstvo je
+[15:13] zahraničí, protože prostě
+[15:15] jsem velkým zastáncem středoevropského směřování
+[15:17] České republiky. Dnes bych si přál
+[15:19] sedět na ministerstvu vnitra, protože ten
+[15:21] fofr, který by se tam začal dít,
+[15:24] to jste ještě nezažili.
+[15:25] Tohle je prostě věc, která je naprosto zásadní
+[15:28] a spravedlnost České republice
+[15:30] se zase znovu musí přihlásit
+[15:32] o slovo. To je to, co štve
+[15:34] lidi strašidelně moc,
+[15:36] že prostě vidí, že ta
+[15:37] spravedlnost není slepá,
+[15:40] jak by měla být.
+[15:41] Ne koukat na jednu, na druhou stranu.
+[15:43] Ona má, díky médiím, to jedno oko
+[15:45] trošku pootevřené.
+[15:47] A dívá se na to, že
+[15:49] nahnutí stan na majetek
+[15:51] Petra Fialy. Petr Fiala
+[15:53] má obrovské majetky. Nikdy to
+[15:55] nikoho nezajímalo. Proč?
+[15:58] Z jakého důvodu?
+[16:00] Všichni řeší Tinde Bartu a paní Mrázovou,
+[16:03] ale řeší
+[16:04] majetek Petra Fialy, neřeší
+[16:06] tady peníze,
+[16:09] které se sypaly
+[16:10] do advokátní kanceláře pana Dvořáka.
+[16:12] Ne řeší to, že pan Dvořák tam seděl
+[16:15] v době dozimetru. Ne řeší
+[16:17] nákup vrtulníků tři dny před volbami.
+[16:20] Předražený.
+[16:21] To se neřeší. To je naprosto
+[16:23] pořád. Já se zasadím
+[16:25] o to, aby ta spravedlnost se tady
+[16:27] vrátila. A vy víte, že já jim ustupovat nebudu.
+[16:29] Nebudu. Tohle je věc, kterou
+[16:31] budu prosazovat dál za každou
+[16:33] cenu.
+[16:35] No a ještě k těm
+[16:38] aktualitám, které tady proběhly.
+[16:40] Dnes čerstvě
+[16:41] se začalo spekulovat, že zítra
+[16:44] složí funkci anglický
+[16:46] premiér nebo premiér Velké Británie
+[16:48] Keir Starmer.
+[16:51] Velmi
+[16:51] neúspěšný premiér.
+[16:53] Premiér, který Anglii zavlekl
+[16:56] do doby absolutní
+[16:57] nesvobody. Anglii je
+[16:59] v tuto chvíli zemí, kde je
+[17:01] naprosto nejvíc
+[17:02] trestných činů nebo trestaných lidí
+[17:05] za slovní projevy na internetu.
+[17:08] To je absolutní
+[17:09] jednička daleko před Čínou
+[17:11] v tuhletu chvíli, protože prostě
+[17:13] v Anglii nesmíte říct
+[17:15] nic proti migrantům,
+[17:17] aniž by to nemělo proti vám konsekvence.
+[17:20] Jak už jsem říkal, ten
+[17:21] krásný kreslený vtip, jak
+[17:23] volá jeden Angličan druhému,
+[17:25] nebo volají Angličanovi
+[17:27] a říká mu, jak se tam máte
+[17:29] v té Velké Británii. On říká,
+[17:31] nemůžu si stěžovat.
+[17:33] On říká, no tak to je paráda, ne?
+[17:35] On říká, ne, nemůžu si stěžovat, protože jinak by mě zavřeli.
+[17:38] Tohle je Velká Británie
+[17:39] současnosti. Země, která
+[17:41] absolutně propadla, kriminalitě,
+[17:43] země, která se vymýká
+[17:45] jakékoliv kontrole, já myslím,
+[17:47] že Keir Starmer bude zapsán
+[17:49] velmi neslavným písmem
+[17:51] do historie téhle slavné země.
+[17:54] A je jenom dobře,
+[17:55] že odejde, protože absolutně selhal
+[17:57] ve své roli.
+[18:00] Nemohu se nezastavit ještě
+[18:02] u jedné věci a to bych byl
+[18:04] moc rád, kdybyste také sdíleli
+[18:06] alespoň tuhle pasáž.
+[18:08] Mě uráží to, co předvádí
+[18:10] Petr Pavel. Mě to uráží.
+[18:12] Prezident tady není
+[18:14] od toho, aby jezdil fotit
+[18:16] Le Mans, aby
+[18:18] jezdil fotit závody
+[18:20] MotoGP. Není tady
+[18:23] od toho, aby špahal na stožáry.
+[18:26] Je tady od toho, aby
+[18:27] pracoval. Pracoval pro občany
+[18:29] této země. Aby byl
+[18:31] morálním, mravním a intelektuálním
+[18:33] lídrem České republiky.
+[18:36] To Petr Pavel nedělá.
+[18:38] Já opravdu nechci, aby nám na hradě
+[18:40] seděl Chuck Norris
+[18:41] v šedivé barvě
+[18:43] a snažil se nám tady předvádět
+[18:46] svoje equilibristické kousky,
+[18:48] jaký je to fantastický
+[18:49] zachránce paraglidistů.
+[18:53] Člověk, který
+[18:54] fotí z první řady
+[18:55] MotoGP, pak se jde fotit
+[18:57] s Valentinem Rossym a tak dále.
+[19:00] Mně připadá
+[19:02] až jsem jednoznačně
+[19:04] toho názoru, že Petr Pavel tímto svým
+[19:06] chováním
+[19:07] mediální hvězdy
+[19:09] na úrovni Českohledá Superstar
+[19:13] vyhraduje pozici prezidenta
+[19:15] naší země.
+[19:18] Já musím říct, že
+[19:19] ať jsme
+[19:21] s Milošem Zemanem či s Václavem Klausem
+[19:24] jsme nemuseli mít
+[19:25] na všechno stejný názor, nebo respektive
+[19:27] já jsem měl jiný názor, než měli
+[19:30] oni na některé věci.
+[19:32] U prezidenta Zemana
+[19:33] se to zejména týkalo covidu,
+[19:35] u prezidenta Klause to byly zase další věci,
+[19:38] ale to je
+[19:40] prostě normální. Nemůžete nikdy souhlasit
+[19:42] se vším, co
+[19:44] říká jiný člověk, to je prostě daná věc.
+[19:47] Ale oni byli
+[19:49] skutečně těmi
+[19:50] intelektuálními lídry České republiky.
+[19:53] Nikdo nemůže spochybnit
+[19:54] intelekt Václava Klause a
+[19:56] Miloše Zemana. Nikdo.
+[19:58] Můžete s nimi nesouhlasit, ale musíte
+[20:00] je respektovat. To, co předvádí
+[20:02] Petr Pavel, je
+[20:04] absolutní degradací
+[20:06] toho, na čem
+[20:08] v podstatě vyrůstala celá
+[20:10] polistopadová éra České republiky.
+[20:13] Kdy jsme
+[20:14] měli i s Václavem Havlem, se kterým jsem nesouhlasil
+[20:16] s milionem věcí,
+[20:18] tak to byla osobnost.
+[20:21] Ale Petr Pavel není žádnou
+[20:23] osobností. Petr Pavel je kašpár,
+[20:26] který se předvádí před
+[20:27] televizními kamerami, tu
+[20:29] v pozici nějakého hudebníka,
+[20:32] tu v pozici zachránce paraglajdistů,
+[20:34] kterému hledal čočku,
+[20:36] tu vyleze na stožára, o tom
+[20:37] tu někde komentuje
+[20:39] koncesionářské poplatky, tu si fotí
+[20:42] Lemán, tu inkognito
+[20:44] přijede do Brna,
+[20:45] s kolonou asi 20
+[20:46] aut doprovodních a
+[20:48] policie České republiky pak si přesedne na motorku,
+[20:51] aby zase nám tam ukazoval
+[20:53] imič toho drsnáka.
+[20:55] Teď už vidíte ty oslavné titulky
+[20:57] typu Petr Pavel
+[20:59] sklidil větší aplaus než
+[21:01] slavná skupina, na kterou se přijel podívat.
+[21:03] Ano, Petr Pavel raději se přijede podívat
+[21:05] na zjízdí top, než aby jel
+[21:07] do Lidic. Jak to, že
+[21:09] není v Lidicích? U Evy Pavlové
+[21:12] čteme titulky, že vypadala
+[21:14] jako Madonna, že uchvátila
+[21:16] DAF, že ženy chodí ke
+[21:18] kadeřnicím a žádají
+[21:20] o stejný účest, jako má Eva Pavlová.
+[21:23] Já už jenom čekám
+[21:24] titulek Petr Pavel
+[21:25] vystoupil před Pražský harad
+[21:28] a v tu chvíli se rozestoupila nebesa
+[21:30] a nad ním se rozeklenula
+[21:32] duha. To je prostě
+[21:34] referování jak o Kim Jong-unovi,
+[21:38] to je ještě horší, než
+[21:40] to, co předvádí Severní Korea.
+[21:42] Já si ještě pamatuju, když
+[21:44] naše média, ta samá média
+[21:46] která dnes adorují Petra Pavla
+[21:48] a Evu Pavlovou, tak si
+[21:49] smála, když tohle
+[21:52] to samé dělala ruská média vůči
+[21:54] Vladimíru Putinovi. Kdy Vladimír Putin
+[21:56] jel na let hrát hokej
+[21:58] a byl
+[21:59] vyfocen jak zápasí
+[22:02] v judu a tak dále a všichni
+[22:03] říkají, podívejte se to pěstování
+[22:06] kultu osobnosti, to nekritické
+[22:08] adorování toho
+[22:10] diktátora. A co dělají
+[22:12] dnes? Co dělají dnes?
+[22:16] To jsou úplně titulky,
+[22:17] opravdu, že severokorejská
+[22:19] pravda, bych to tak čekal, že
+[22:21] prostě Petr Pavel, Bůh,
+[22:23] který nám sestoupil z nebec na Pražský
+[22:25] hrad s Madonou,
+[22:27] Eva Madona Pavlová, která nám tam
+[22:29] diktuje nové
+[22:31] módní trendy. Přátelé,
+[22:34] mně to přijde jako
+[22:36] neuvěřitelné zahanbení České republiky.
+[22:38] To, co předvádí tenhle člověk
+[22:40] a já pevně doufám, že
+[22:42] za ten rok a půl si zvolíme nahrát
+[22:44] někoho důstejnějšího. Vůbec by mě nevadilo,
+[22:46] kdyby to byla žena
+[22:47] spekuluje se o tom, že by mohla i kandidovat
+[22:50] paní Ivana Tykač. Okamžitě
+[22:52] bych ji preferoval
+[22:54] vůči Petrovi Pavlovi, protože si myslím,
+[22:56] že to je dáma, která by
+[22:58] rozhodně dělala čest tomu Pražskému hradu
+[23:00] asi stokrát víc než Petr Pavel.
+[23:03] A myslím si, že se
+[23:04] možná ještě vyrojí někdo další, protože
+[23:06] Český národ má spoustu skvělých osobností
+[23:08] a je naší neuvěřitelnou
+[23:10] ostudou, že jsme si
+[23:12] zvolili
+[23:14] na post nejvyššího
+[23:16] ústavního činitele
+[23:17] pozera. Reklamní figurku,
+[23:21] která prostě jezdí po
+[23:23] koncertech, kde se
+[23:25] nechává fotit a sám fotí
+[23:27] a prostě
+[23:28] pasuje se do role nějakého
+[23:31] zachránce tady
+[23:33] České republiky atd.
+[23:35] Je to
+[23:35] neuvěřitelně až negustovní.
+[23:39] Já nevím, jaký výraz
+[23:40] na to správně
+[23:42] najít, ale mně se prostě z toho
+[23:44] zvedá žaludek. To je něco, co prostě
+[23:46] Česká republika neměla zažít
+[23:48] a je naší
+[23:49] velkou ostudou, že jsme tohle vůbec dopustili,
+[23:52] že jsme se nedokázali sjednotit
+[23:54] a řešili jsme tady
+[23:55] nějaké věci, které měl Andrej Babiš.
+[23:58] Andrej Babiš by byl výrazně
+[24:00] lepším prezidentem než Petr Pavel.
+[24:02] O tom, myslím, není nejmenšího
+[24:04] sporu.
+[24:07] No a pak je ještě jedna věc,
+[24:09] u které chci zastavit déle,
+[24:11] než se dostanu k české televizi.
+[24:14] A to je věc,
+[24:16] která se týká onoho vrácení
+[24:17] nejvyššího státního vyznamenání
+[24:20] Polské republiky
+[24:22] řádu Bílé Orlice
+[24:24] Volodymyru Zelenskému.
+[24:27] Pro mě je to
+[24:28] nesmírně důležitý moment.
+[24:30] Já to skutečně vidím jako
+[24:32] naprosto zásadní věc.
+[24:38] Někdy stačí, když se
+[24:39] dlouho, dlouho udržuje lež
+[24:41] v takovém obalu,
+[24:44] který je téměř
+[24:45] nemožné
+[24:47] prorazit, kdy
+[24:49] prostě média stráží
+[24:50] tu lež ze všech svých sil
+[24:53] a pak stačí
+[24:54] jedno narušení, jedna
+[24:57] malá dírka do té přehrady
+[24:59] a ono se to celé sesype.
+[25:01] A já jsem přesvědčen, že přesně
+[25:03] tohle v tuto chvíli nastalo.
+[25:06] Poláci demaskovali
+[25:08] Volodymyra Zelenského.
+[25:10] Poláci jasně řekli,
+[25:13] že lidem,
+[25:14] kteří adorují nacizmus,
+[25:17] nepatří do ruky
+[25:18] jejich nejvyšší státníků.
+[25:20] Kdyby
+[25:23] v České republice
+[25:25] někdo podobným způsobem adoroval
+[25:27] nacizmus jako na Ukrajině,
+[25:31] tak bude čeli trestnímu
+[25:32] stíhání. Cela jednoznačně.
+[25:35] UPA
+[25:36] byla nacistická jednotka.
+[25:38] A pokud Volodymyr Zelensky pojmenuje
+[25:41] vojenskou jednotku
+[25:42] UPA, Ukrajinská postalecká
+[25:45] armáda, která má na svědomí
+[25:46] deseti tisíce lidských životů, včetně
+[25:49] těhotných žen a dětí, které
+[25:50] přibíjeli na strom,
+[25:53] dali taková zvěrstvá, že
+[25:55] němečtí nacisté se předtím
+[25:57] jenom zbadli
+[25:58] znechucením, a někdo
+[26:01] přesto pojmenuje jednotku UPA,
+[26:04] tak prostě je
+[26:05] nacistou. Je nacistou.
+[26:09] Naprosto jednoduché konstatování.
+[26:11] Víte, co charakterizuje
+[26:13] současnou Ukrajinu nejlépe?
+[26:15] To, že se tam
+[26:16] boří Sochy Bulgakova,
+[26:20] autora románu Mistra Markétka,
+[26:23] skvělého díla,
+[26:24] kdo nečetl vřele, doporučuji.
+[26:26] Boří se Sochy Bulgakova
+[26:28] a staví se Sochy Banderovy.
+[26:31] Tahle země
+[26:32] odešla od kultury,
+[26:35] od úcty
+[26:36] ke skutečným velikánům,
+[26:38] k adoraci nacistických zrůd.
+[26:42] A Poláci
+[26:43] to konečně demaskovali.
+[26:46] A ono to má ten dominový efekt.
+[26:49] Najednou další
+[26:50] Ukrajinci začínají vracet ta vyznamenání.
+[26:53] Protože
+[26:54] Zelenský údajně to poslal,
+[26:56] pošto ukazoval nějakou doručenku
+[26:58] a další Ukrajinci se připojili.
+[27:01] Jenom dobře.
+[27:02] Jenom dobře, přátelé. Hrajte tuhletu
+[27:05] notu. Jak říká
+[27:07] klasik, nedužte
+[27:08] soupeře, když dělá chybu.
+[27:11] Ukrajinci tím jasně ukazují,
+[27:13] že stojí za člověkem,
+[27:15] který je lídrem adorace
+[27:17] nacismu, který je lídrem
+[27:18] kleptokratické mafie, která v tuto chvíli
+[27:21] ovládá Kiev. Zcela jednoznačně.
+[27:23] A to je dobře.
+[27:24] Ať to všichni vidíme.
+[27:27] Je to jen a jen správně.
+[27:29] A mimochodem, když už
+[27:31] tedy ti Ukrajinci tímto způsobem
+[27:33] postupují, tak já bych jim doporučil
+[27:34] dotáhnout to do konce
+[27:36] a vrátit Polákům všechny peníze,
+[27:39] které jim Polská republika
+[27:40] poskytla. Nebuďte
+[27:42] pózeři,
+[27:45] nebuďte farizejové, nevracajte
+[27:47] významenání, vraťte i peníze.
+[27:49] Všechno to, co vám Polsko dalo
+[27:50] za poslední čtyři roky, vraťte Polákům.
+[27:53] To už se vám tolik nebude chtít, že?
+[27:57] Ono gesto
+[27:58] o vrácení významenání je hezká věc,
+[28:00] ale vytáhnout peníze ze Šrejtofle, to je
+[28:02] trošku bolestivější.
+[28:04] Takže pokud se vám Poláci nelíbí,
+[28:06] pokud se nejste
+[28:08] schopni jakýmkoliv
+[28:10] způsobem, nejste schopni
+[28:13] pochopit to, jakým
+[28:14] způsobem se Poláci cítí dotčení
+[28:17] tím, že někdo pojmenovává
+[28:19] vojenskou jednotku
+[28:20] po nacistických zrůdách, které
+[28:23] vyvraždili ve volině
+[28:24] jejich předky, tak jim
+[28:26] vraťte ty peníze. Ty vám,
+[28:28] přece musíte tě hrozně moc smrdět.
+[28:30] Ty peníze vám musí úplně hořet v rukou,
+[28:32] ty polské peníze, když jsou to takové
+[28:34] takový odporní
+[28:36] lidé, kteří berou státní
+[28:38] významenání vašemu prezidentovi. Vraťte jim
+[28:40] ty peníze těm Polákom.
+[28:42] Já vás k tomu výzývám, udělejte to.
+[28:45] To budete teprve, fréři.
+[28:48] No a to, co je nejdůležitější
+[28:50] z mého pohledu, a to je samozřejmě
+[28:52] vztah České republice.
+[28:55] Přátelé, když už jsem
+[28:57] u kritiky Petra Pavla,
+[28:59] za mě jeho mlčení v této
+[29:01] otázce je
+[29:03] obrovitánskou urážkou
+[29:06] všech předků,
+[29:07] našich předků, ať už
+[29:09] České republiky, ať už Čechů,
+[29:11] Moravanů, Slezanů nebo Slováků.
+[29:14] Ta jednotka UPA
+[29:16] ve Volině vraždila nejenom
+[29:18] Poláky, vraždila
+[29:20] i Židy, vraždila
+[29:22] i Čechy a Slováky.
+[29:25] Až do roku 1947,
+[29:27] tedy dva roky po válce,
+[29:28] Poláky okupovala
+[29:30] celou řadu slovenských vesnic,
+[29:33] kde vyvraždovala další lidi.
+[29:35] A člověk,
+[29:37] který je držitelem řádu
+[29:39] Bílého lova,
+[29:40] tedy nejvýššího vyznamenání České republiky,
+[29:45] pojmenovává
+[29:46] vojenskou jednotku
+[29:47] pozrůdá, které vyvraždovaly naše předky?
+[29:50] A my budeme mlčet?
+[29:52] My se k tomu nevyjáříme?
+[29:54] My nemáme tu stejnou odvahu jako Poláci?
+[29:57] To jsme opravdu
+[29:58] tak slabí, tak malí,
+[30:00] abychom nedokázali stejně jako Polsko říct,
+[30:03] ani u nás
+[30:04] nemůže platit, že
+[30:05] Volodymyr Zelensky bude
+[30:08] držitelem řádu Bílého lova?
+[30:10] Budeme mlčet, budeme dělat, že se to nestalo?
+[30:13] Kde jste všichni ti,
+[30:14] kteří jste toho
+[30:16] komika neustále
+[30:18] adorovali a říkali jste, jaký je to borec,
+[30:20] a že na Ukraně žádný nacizmus není.
+[30:22] Vůbec žádný tam není.
+[30:24] Stavějí se tam sochy Banderovi,
+[30:26] stavějí se tam sochy Šuchevičovi,
+[30:27] stavějí se tam sochy Děčenkovi,
+[30:30] pojmenovávají se tam jednotky
+[30:32] Edelweiss, UPA
+[30:34] a není tam nacizmus.
+[30:37] Že vás hamba nefackuje.
+[30:38] Vy všichni z opozice, kdo nás
+[30:40] obvinujete s náckoství,
+[30:42] když tady odmítáme sjezd sudeto německého
+[30:44] Landsmannschaftu, tak vy říkáte, že jsme
+[30:47] náckové, ale tleskáte
+[30:49] naprosto otevřenému náckově,
+[30:51] který tady prostě jednoduše
+[30:53] se kloní
+[30:55] a vyvolává staré duchy
+[30:57] ukrajinského nacizmus do druhé světové války?
+[31:00] Tak jste směkný.
+[31:02] Ještě jednou přijdete
+[31:03] k tomu půltíku v poslanecké sněmovně
+[31:05] a budete říkat, že jsme fašovní
+[31:07] nebo náckové, tak tam půjdu já
+[31:08] a vysměju se vám.
+[31:11] Vysměju se vám, protože pokud vy
+[31:13] chcete někoho obvinovat s fašismu a nacizmu,
+[31:15] tak začněte u tohoho Zelenského.
+[31:17] Volejte se mnou potom, ať se
+[31:19] Petr Pavel probere a odebere mu
+[31:21] řád bílého lva.
+[31:23] V tuto chvíli je naše
+[31:26] nejvyšší vyznamenání
+[31:27] v rukou člověka, který adoruje nacizmus.
+[31:30] Takhle prosté to je.
+[31:35] Už jenom proto by Petr Pavel neměl
+[31:36] být prezidentem. Protože
+[31:38] chce euro, protože chce spojené státy
+[31:40] evropské, protože tady poskytuje
+[31:42] záštitu studentu německému
+[31:44] Landsmannschaftu a také proto,
+[31:47] že není schopen
+[31:48] se k tomuto problému postavit
+[31:50] stejně jako polský prezident na vrocky
+[31:52] a jasně a jednoznačně říct,
+[31:55] my se tímto způsobem urážet
+[31:57] nenecháme a odebíráme
+[31:59] Volodymydovi Zelenskému řád bílého lva.
+[32:02] Do té doby,
+[32:03] než to uděláte Petře Pavle a celá
+[32:05] opozice, jste přisluhovači,
+[32:08] jste roztleskávači
+[32:09] nacistického lídra Ukrajiny.
+[32:11] Nic víc, nic méně, stykte se.
+[32:14] Hanbava.
+[32:14] A ještě jednu věc, která se týče
+[32:19] Ukrajiny. Já jsem
+[32:20] publikoval video a několik příspěvků
+[32:23] na to téma, že jsem
+[32:25] zcela jednoznačně proto, aby byla
+[32:27] zrušena dočasná ochrana, aby byly
+[32:29] zrušeny jakékoliv dávky,
+[32:31] které v tuto chvíli dáváme Ukrajincům.
+[32:33] Tohle si také poslechněte, prosím
+[32:35] mě. Mnoho ukrajinských
+[32:37] migrantů, kteří tady dnes žijí, tak vám
+[32:39] říkají, normálně
+[32:41] mezi čtyřma očima,
+[32:44] že se modlí, ať ta vláka
+[32:45] neskončí. Že v tu chvíli by si museli
+[32:47] udělat živnostňák, ztratili by
+[32:49] všechny možné příspěvky na bydlení
+[32:51] atd. Oni jsou schopni vybrat
+[32:53] desetitisíce koruna, podnikají tady
+[32:55] často bez živnostenského oprávnění,
+[32:57] neplatí tady žádné daně, neplatí sociální,
+[32:59] neplatí zdravotní. Proč?
+[33:01] Proč? Z jakého důvodu?
+[33:05] Takže přátelé, zrušme
+[33:06] institut dočasné ochrany,
+[33:08] ať tady začnou fungovat
+[33:10] naprosto normálně. Pojďme udělat
+[33:12] revizi pobytu těch, kteří tady
+[33:13] přišli po roku 2022,
+[33:16] jestli tady mají co dělat, nebo tady nemají
+[33:18] co dělat. Prostě lidé, kteří
+[33:20] si nedokázali za tu dobu najít práci, tak
+[33:22] tady nemají co dělat, z mého pohledu.
+[33:24] A pojďme konečně, prosím,
+[33:26] pěkně zavést ten trest
+[33:28] automatické deportace.
+[33:29] Přece člověk, který přijde
+[33:32] k nám, my mu otevřeme naše dveře,
+[33:34] nabídneme mu možnost žít
+[33:36] pod naší střechou, a on není
+[33:38] schopen respektovat základní pravidla
+[33:40] naší země, které jsou tvořeny
+[33:42] naší legislatovou, našimi zákony,
+[33:44] a spáchat tady trestný čin, nebo
+[33:46] přestupek násilného charakteru,
+[33:48] tady nemá co dělat.
+[33:50] Představte si to do své rodiny.
+[33:52] Představte si, že byste
+[33:53] poskytli přístřešek svého domu
+[33:56] někomu cizímu, kdo by se
+[33:58] ocitl v nějakém problému.
+[34:00] A ten člověk, namísto toho, aby
+[34:02] vám byl vděčný,
+[34:04] tak vám začne doma krást.
+[34:07] Nejdřív jídlo z hlednice,
+[34:09] pak třeba nějaké šaty,
+[34:10] pak už peníze.
+[34:12] A vy jste říkali, to nevadí, buďte tady dál,
+[34:14] buďte tady dál, nám to vůbec nevadí,
+[34:16] že my jsme vám poskytli
+[34:18] to přístřeší, že my jsme
+[34:20] vás pozvali do našeho domu
+[34:22] a vy nám tady kradete.
+[34:24] A možná děláte ještě horší věci,
+[34:26] možná nám tady zbijete občas naše dítě
+[34:28] a tak dále a tak dále.
+[34:30] Pardon? Automatická deportace.
+[34:33] Neumíš žít podle našich pravidel,
+[34:35] nemáš tady co dělat.
+[34:36] Úplně jednoduchá záležitost.
+[34:38] A když jsem tohle
+[34:39] publikoval a celé jednoznačně
+[34:43] řekl, že zatím budu stát a budu to
+[34:44] prosazovat, velmi aktivně,
+[34:47] tak přišel Václav Láska
+[34:49] se statistikou
+[34:51] počtu odsouzených
+[34:52] Ukrajinců, kteří jsou v současné době
+[34:54] ve vězení, ve srovnání
+[34:56] s počtem Čechů, Moravanů
+[34:59] a Slováků, kteří si odpikávají
+[35:00] trest ve vězení. A začal argumentovat,
+[35:03] že těch Ukrajinců je tam méně,
+[35:04] procentuálně. Tak pan Láska
+[35:07] nikdy nepatřil mezi nejostřejší pastelky
+[35:09] v penále, už v době, kdy byl
+[35:10] u policie, tak se
+[35:12] všichni advokáti dělali z něj legraci,
+[35:14] že opravdu hloupějšího policajta ještě
+[35:16] neviděli. Ale prosím
+[35:18] vás pěkně, to je zase
+[35:21] jenom absolutní demagogie.
+[35:22] Z jednoho prostého důvodu.
+[35:26] Ty odsouzení
+[35:27] Ukrajinci, kteří v současné době si odpikávají
+[35:29] trest za situace, kdy
+[35:31] průměrná délka trestního řízení v České
+[35:33] republice je kolem dvou let,
+[35:36] tak si představte,
+[35:38] že ti, kteří spáchali
+[35:39] cokoliv v roce 2022,
+[35:41] tak se dostanou do vězení někde v roce
+[35:43] 2024, 2025.
+[35:46] Takže ti, co spáchali
+[35:47] všechno od roku 2024 do teď,
+[35:50] v tom vězení ještě nejsou.
+[35:52] Nejsou, protože pořád
+[35:53] to trestní řízení běží. Ať už v přípravné
+[35:55] fázi nebo je u soudu, ale ještě nejsou
+[35:57] ve vězení, protože vy musíte být
+[35:59] odsouzen prvoinstančně,
+[36:01] dvojinstančně, pokud se to vrací, tak to trvá
+[36:03] ještě déle a pak teprve dostanete
+[36:05] nástup do výkonu trestu a pak teprve
+[36:07] jdete do toho vězení. To znamená,
+[36:09] ta statistika pana Lásky je absolutně
+[36:11] manipulativní a je to demagogie
+[36:13] toho nejtěžšího možného kalibru,
+[36:15] protože srovnává nesrovnatelné.
+[36:17] Srovnává tresty, kteří si tam odpikávají
+[36:19] Češi, Slováci,
+[36:25] z tresty Ukrajinců, kteří si odpikávají
+[36:28] za poslední dva roky.
+[36:30] To je absolutní nesmysl.
+[36:32] Absolutní nesmysl. Jestli chcete
+[36:34] tu statistiku dát do správných
+[36:36] kontůr, tak musíte
+[36:38] udělat jednu zásadní věc a to je
+[36:40] porovnat počet zahájených
+[36:42] trestních řízení vůči občanům
+[36:44] České republiky, vůči národnosti Čechů,
+[36:47] Moravanů a Slezanů
+[36:48] za poslední čtyři roky, ne za poslední
+[36:50] dvacet let, za poslední čtyři roky
+[36:52] a porovnat to s počtem zahájených trestních řízení
+[36:54] ukrajinských občanů
+[36:57] za poslední čtyři roky. A pak vám
+[36:58] vypadnou úplně jiná čísla.
+[37:00] A všichni to denně vidíme. Všichni to vidíme
+[37:02] každý jeden den.
+[37:05] Stejně tak to, co nám
+[37:06] řekl pan ministr Plaga, že se
+[37:08] tady ukrajinské děti
+[37:11] velmi dobře asimilují.
+[37:13] Není to pravda.
+[37:15] Každý rodič, který má
+[37:16] svoje dítě ve třídě, kam chodí Ukrajinci,
+[37:19] tak to může potvrdit. Ano,
+[37:20] že jsou tady výjimky. Ale velká
+[37:23] části Ukrajinců, buď to do té školy nechodí,
+[37:25] pokud tam chodí, tak neumí
+[37:26] pořádně česky. A stačí samozřejmě
+[37:28] jeden takový žák, který nerozumí tomu
+[37:30] výkladu a v tu chvíli to zdržuje
+[37:32] vzdělávání všech ostatních dětí
+[37:35] v té třídě. A já prostě nebudu
+[37:37] tady hájit Ukrajince. Pardon.
+[37:39] Pomůžeme jim. OK.
+[37:41] Těm, kteří to potřebují. Klidně jim
+[37:42] pojďme vytvořit vlastní vzdělávání vlastní
+[37:44] třídy, ale já to nebudu dělat
+[37:47] na úkor vzdělávání našich
+[37:48] vlastních dětí. Pardon.
+[37:51] Nebudu. Prostě. Ať se to někomu
+[37:53] líbí nebo ne. Klidně zase
+[37:55] mě říkejte, že jsem nácek nebo ksenofob.
+[37:57] Mně nejde o tu národnost.
+[37:59] I kdyby byli z Bangladeše, mně je to
+[38:00] úplně jedno. To není o tom, že to jsou Ukrajinci.
+[38:03] To je o tom, že to poškozuje
+[38:05] vzdělávání našich vlastních dětí.
+[38:08] A vidí to každý jeden
+[38:10] rodič, který prostě ty děti
+[38:11] v takové třídě má.
+[38:15] No a
+[38:16] na závěr pojďme prosím k té stávce
+[38:19] a... nebo stávce,
+[38:21] spíš demonstraci milionů
+[38:23] chvilek a stávce české
+[38:24] zaměstnanců České televize.
+[38:27] Zaprvé já jsem přesvědčen, že Česká televize
+[38:30] a jejich zaměstnanci nesmějí
+[38:31] zneužívat vysílání České televize
+[38:33] k prosazování svých vlastních zájmu.
+[38:36] To říkám jako první jednoznačnou
+[38:38] věc. Oni jsou
+[38:40] placeni z našich denní, oni jsou
+[38:43] povinni pracovat s těmi
+[38:44] penězi, které jim vláda přidělí.
+[38:47] Jakmile začnou
+[38:49] stávkovat za to,
+[38:52] aby Česká televize byla financována
+[38:54] jiným způsobem, než si
+[38:56] představuje vláda, respektive
+[38:58] tím způsobem, který si představují oni
+[38:59] a zneužijí k tomu obrazovku
+[39:02] České televize, tak podle mého názoru
+[39:04] jsou mimo zákon. Pohybují se
+[39:06] mimo zákonný rámec.
+[39:10] Řada z nich kritizovala Václava Moravce,
+[39:12] když neužil své vlastní vysílání
+[39:13] k sebepropagaci, k tomu, že oznámil
+[39:16] odchod z České televize,
+[39:18] aniž by to komukoliv
+[39:20] dopředu řekl. Tohle je to samé.
+[39:23] Můžete si
+[39:24] publikovat, co chcete, můžete
+[39:27] sdělovat lidem vaše názory,
+[39:30] ale nesmíte zneužívat
+[39:31] vysílání České televize
+[39:33] a obrazovky České televize k prosazování
+[39:35] svých vlastních zájmů. To je
+[39:37] protizákon. Mně to vysílání
+[39:40] vůbec chybet nebude, upřímně,
+[39:42] protože Česká televize
+[39:44] už roky dokazuje
+[39:46] že není
+[39:48] strážcem demokracie.
+[39:50] Česká televize je strážcem
+[39:52] probruselského
+[39:55] prounijního směřování České republiky.
+[39:58] Snaží se
+[39:59] upravovat obsah takovým
+[40:01] způsobem, aby vytvářel
+[40:03] dojem, který neodráží
+[40:05] realitu české společnosti.
+[40:09] Baví mě, když
+[40:10] pan Hladík si udělal video,
+[40:12] že mu zrušili už domluvené
+[40:14] vysílání. Že tam měl jít,
+[40:17] že to mělo celé domluvené,
+[40:18] že to bylo odsouhlasené Českou televizí
+[40:20] a pak ten pořad někdo zrušil. A už kříčí,
+[40:23] jak je to strašné, jak se ta Česká
+[40:24] televize mění a tak dále a tak dále.
+[40:27] Pane Hladíku, mě takhle
+[40:29] zrušili účast
+[40:31] pořadu Máte slovo
+[40:32] před někdy čtyřmi nebo pěti lety,
+[40:34] když začínal covid. V roce 2021
+[40:37] to bylo. Na podzim roku
+[40:39] 2021. Měl jsem to
+[40:40] domluvené, měl jsem to potrzené,
+[40:43] měl jsem všechno
+[40:44] absolutně připravené na to, abych tam šel
+[40:46] a den předtím mi zavolali, že ten
+[40:48] pořad, respektive, že můj účast ruší,
+[40:51] protože prostě ministerstvo
+[40:52] zdravotnictví tehdy si nepřeje,
+[40:54] aby tam nějaký rajchlo byl.
+[40:57] Tehdy jsem to říkal, že to je
+[40:59] začátek cenzury.
+[41:01] Až jste, ha ha, cenzura
+[41:02] v České republice, cenzura.
+[41:05] Zesmišňovali jste to,
+[41:07] marginalizovali jste to,
+[41:09] snažili jste se to neustále
+[41:11] nějakým způsobem jenom
+[41:12] ponižovat na to, že si tady rajchlo
+[41:15] něco vymýšlí, tak teď to tady
+[41:16] máte. Sklízíte, co jste
+[41:19] zaseli. Já jsem vás na to
+[41:20] upozorňoval. To vy jste tohle
+[41:23] rozeběhli. Vy jste říkali, že
+[41:25] to není problém, když rajchlo nesmí
+[41:26] na ty obrazovky. Když se dělali
+[41:29] reportáže o demonstracích na Václavském
+[41:31] náměstí, které jsem já svolával
+[41:33] a hodiny se tam bavili o tom,
+[41:35] jaké jsou požadavky demonstrantů
+[41:37] a že ti demonstranti jsou proruští
+[41:38] a tak dále a tak dále. A já jsem neměl
+[41:40] příležitost k tomu vystoupit. Já, který
+[41:43] jsem ty demonstrace svolával, jsem nedostal
+[41:45] jednou jedinkrát příležitost
+[41:47] tam jít a říct, co skutečně
+[41:48] chceme. Že vůbec nejde o Rusko,
+[41:50] že jde o Českou republiku, že jde
+[41:52] o to, jak Petr
+[41:54] Fiale ničí naši zemi a kam
+[41:56] ji dostává. Že Česká
+[41:59] republika v tuhletu chvíli
+[42:00] je právě v té krizi
+[42:02] díky Petrovi Fialovi a my se ji
+[42:04] snažíme z ní dostat. Že jsme
+[42:07] měli nejnižší hospodářský růst,
+[42:09] že jsme byli jako poslední země,
+[42:11] která se vrátila v HDP
+[42:13] na úroveň roku 2019
+[42:14] na předcovidové období.
+[42:17] To jsme, to všechno ukázal Petr
+[42:19] Fiala, že jsme tady měli daleko vyšší
+[42:21] inflaci než Evropská unie. Dnes ji máme
+[42:23] nižší než Evropská unie. Není to korunou,
+[42:25] bylo to Fialou. Tohle
+[42:27] všechno jsme na tom náměstí říkali
+[42:29] a vy jste nám nedali příležitost.
+[42:31] A když jsem říkal, že je to cenzura, tak jste se tomu
+[42:33] smáli. A dnes křičíte.
+[42:36] Ivan Bartoš
+[42:37] na svém Facebooku křičí,
+[42:38] že je téma, že piráti
+[42:41] si stěžují
+[42:43] na Babiše v Evropské unii
+[42:45] a že v 360 se není žádný
+[42:47] pirát. Jak je to možné?
+[42:49] No a když já jsem psal
+[42:50] usnesení k sudetoněmeckému
+[42:52] Landsmannschaftu, tak ten samý
+[42:54] Ivan Bartoš, ten samý Ivan Bartoš
+[42:56] na půdě poslanecké sněmovny
+[42:58] říkal, pan Reichl si tady stěžuje,
+[43:00] že ho nepozvali.
+[43:03] Smáste se, tady to máte.
+[43:05] Tohle všechno je
+[43:06] výsledkem vaší činnosti.
+[43:09] Tohle všechno je výsledkem toho,
+[43:11] že jste českou televizi nechali
+[43:13] utrhnout se úplně
+[43:14] ze všech možných rámců, které
+[43:16] tady kdy veřejnoprávní médium mělo
+[43:18] plnit. Že jste z nich nechali udělat
+[43:21] aktivisty, kteří si dělali
+[43:23] v podstatě to, co chtěli.
+[43:25] Tohle je ten výsledek.
+[43:28] CNN Prima News dostala
+[43:30] ocenění za nejdůležitější
+[43:31] spravodajství v České republice.
+[43:34] Bravo, tleskám jim
+[43:35] zcela oprávním. CNN Prima News
+[43:38] přes všechny výhrady, které
+[43:40] můžeme mít, je dnes
+[43:41] jednoznačně nejobjektivnějším
+[43:44] médiem v České republice
+[43:45] z těch mainstreamových médií samozřejmě.
+[43:48] Nepočítám Deník to a
+[43:49] parlamentní listy a tak dále. Ale z toho
+[43:51] mainstreamu, kam počítám českou
+[43:53] televizi, Primu, Seznam
+[43:56] a tak dále a tak dále
+[43:57] i dnes aktuálně Deník CZ, je
+[43:59] CNN Prima News jednoznačně
+[44:02] nejlepší a nejobjektivnější.
+[44:04] Oni s mnohem nižším rozpočtem
+[44:06] se šestinou zaměstnání
+[44:08] zaměstnanců dělají
+[44:09] stokrát lepší práci než Česká televize.
+[44:13] A vrcholem všeho byla
+[44:14] dnešní cenzura vůči
+[44:16] hymně, kterou měl zaspívat v Ostravě
+[44:18] na mistrovství světa v hokejbalu
+[44:20] Jarek Nohavica.
+[44:22] Jaromír Nohavica,
+[44:25] legenda, největší
+[44:26] český bard, legenda
+[44:28] Ostravy, zpívá
+[44:30] hymnu na mistrovství světa v hokejbale
+[44:32] a Česká televize
+[44:34] to rychle utne.
+[44:36] Rychle ukončí,
+[44:38] aby návrat,
+[44:38] aby náhodou jsme neslyšeli
+[44:40] Jarka Nohavicu zpívat.
+[44:42] Aby náhodou Jarek Nohavica
+[44:44] tam neřekl něco, co České televizi by se nelíbilo.
+[44:47] Co by bylo proti tomu
+[44:48] unijnímu směřování.
+[44:50] Co by bylo proti válce na Ukrajině,
+[44:52] protože Jarek Nohavica se netají tím
+[44:54] a ve svých písních a na svých koncertech
+[44:56] apeluje, abychom se
+[44:58] směřovali k míru
+[45:00] a nikoli k válce.
+[45:02] Jarek Nohavica byl
+[45:04] ustřižen, scenzurován
+[45:06] příjmem přenosu České televize.
+[45:09] Víte co? CNN Prima News
+[45:12] by to klidně odvysílal.
+[45:14] Kdyby tenhle ten zápas
+[45:16] vysílala Nova
+[45:18] nebo Prima,
+[45:19] tak by Jarek Nohavica klidně zaspíval
+[45:22] naši hymnu, byl by to určitě
+[45:24] krásný zážitek a nebyl by
+[45:26] žádný problém.
+[45:28] Jenom na tomhle srovnání vidíte,
+[45:31] co je Česká televize zač.
+[45:33] Že Prima i Nova jsou dnes
+[45:35] mnohokrát objektivnější
+[45:37] než celá slavná
+[45:39] Česká televize.
+[45:40] A to si na tomhle srovnání.
+[45:41] Prima to musí vydělat sami.
+[45:42] Oni nemají žádný garantovaný rozpočet.
+[45:45] Oni, tak jak Česká televize říká,
+[45:47] my přece musíme vědět, kolik budeme mít peněz.
+[45:49] Proč? Nova a Prima to ví?
+[45:52] Ne.
+[45:52] Mají nějaké rozpočty a ty musí naplnit.
+[45:54] A pokud ty nenaplní, tak musí krátit
+[45:57] svoje náklady. Musí rušit
+[45:59] některé projekty, musí propouštět
+[46:00] své zaměstnance. Proč by Česká
+[46:03] televize měla být výjimkou? Proč?
+[46:05] Z jakého důvodu?
+[46:06] Ta dnešní demonstrace, kterou
+[46:10] spořádali spolek
+[46:12] Milion Chvilek pro demokracii, byla
+[46:14] naprostým fiaskem.
+[46:16] Oni vám tam dávají fotky,
+[46:18] jak stojí před Českou televizí, bylo tam
+[46:20] pár stovek lidí. Obrovské rozestupy.
+[46:22] Samozřejmě Dagmar Pecková.
+[46:24] Dagmar Pecková, která žila
+[46:26] celou dobu v Německu, Česká republika jí byla
+[46:28] úplně ukradena, tak najednou jde
+[46:30] strážit Českou televizi.
+[46:32] Pochybuji, že ty koncesionářské popatky
+[46:34] platí. David Smoljak.
+[46:36] Samozřejmě další kandidát
+[46:38] na senátoráti, tam všichni se budou
+[46:40] teď promenádovat a budou si
+[46:42] hrát na strážce demokracie
+[46:44] v České republice.
+[46:46] Já vám teď a tady řeknu jednu
+[46:47] zásadní větu. Kdybyste měli
+[46:50] z tohoto vysílání sdílet jednu
+[46:52] jedinou větu,
+[46:54] jeden jediný okamžik,
+[46:56] jednu jedinou pasáž, tak prosím
+[46:58] nechtěj to tahle. Pro demokracii
+[47:00] v České republice
+[47:02] by bylo lepší, kdyby tady žádná
+[47:04] česká televize nebyla.
+[47:08] Tečka.
+[47:10] To oni křiví tu demokracii.
+[47:12] Právě tím, že cenzurují nohavicu,
+[47:14] právě tím, že tam nepouští
+[47:15] některé lidi, kteří tam nesmí vůbec
+[47:18] ani vkročit
+[47:20] na českou televizi. Že dělají
+[47:22] debatní pořady, kde sedí
+[47:24] zastánci jenom jednoho názorového směru,
+[47:26] vůbec tam není jakýkoliv oponent,
+[47:29] ať už to bylo třeba
+[47:30] ohledně Roberta Fica, pamatuju si to jak
+[47:32] dneska, když tam sedělo šest lidí, včetně
+[47:34] Ivy Pazderkové, která možná ještě byla opělá
+[47:36] v tom pořadu a říkala, no si se tam
+[47:38] ochracovala
+[47:40] proti Roberta Ficovi, cože je to za člověka,
+[47:43] jaká je to strašná zrůda,
+[47:44] a úplně se tam pohoršovala
+[47:46] nad ní. Nebyl tam jeden jediný
+[47:48] zastánce Roberta Fica.
+[47:50] Když se konaly americké volby,
+[47:52] nebyl tam žádný zastánce Donalda Trumpa,
+[47:55] až když se tam vzali
+[47:56] pana Mašína, kterým tam celá
+[47:58] proti očekávání řekl,
+[48:00] že je to dobře, že Trumpu jedá.
+[48:02] A mohl bych pokračovat.
+[48:05] Nezasloužíte si
+[48:06] ani Vindru. Za to, co jste
+[48:08] předvedli dnes s Jarkem Nohavicou,
+[48:11] si nezasloužíte
+[48:12] ani Vindru, protože
+[48:14] Nova a Prima by to odvysílali.
+[48:17] Když tady bude Nova a Prima
+[48:18] a nebudou muset
+[48:20] soupeřit s touhletou
+[48:22] demagogickou a propagandistickou
+[48:24] českou televizí, bude to jen dobře.
+[48:27] Oni nám
+[48:27] to spravodajství a tu publicistiku
+[48:30] poskytnou v mnohem lepší kvalitě,
+[48:32] než ji poskytuje v současné době česká televize.
+[48:35] Není potřeba ji bránit.
+[48:37] Žádná demokracie neutrpí.
+[48:39] Demokracie tady byla před českou
+[48:41] televizí. Myslím, že když ji Socrates
+[48:42] vynalezl ve Starém Řecku, tak ještě žádná
+[48:45] česká televize neexistovala, pokud se
+[48:46] nemýlím.
+[48:48] A věřte mi, že demokracie tady
+[48:50] bude i po té, co česká televize zanikne.
+[48:53] Zcela jistě a jednoznačně.
+[48:56] Zapomeňme na to, a jedná se
+[48:57] jenom o
+[48:58] nátlákovou kampaň, která nemá
+[49:01] s realitou vůbec nic společného. A myslím, že ta účast
+[49:04] dnes, která byla skutečně
+[49:05] zanedbatelná, směšná,
+[49:08] tak si myslím, že jednoznačně
+[49:09] dokazuje, že už lidé toho mají plné zuby.
+[49:12] A ostatně i ten průzkum agentury
+[49:13] Ipsos, který nám řekl, že
+[49:15] by koncesionářské poplatky
+[49:17] dobrovolně platilo pouze 15%
+[49:19] důchodců a tam
+[49:21] říkalo 40% studentů.
+[49:23] Ve skutečnosti si myslím, že by to byly tak 4%.
+[49:26] Protože nikdo ze studentů
+[49:27] se na tu slavnou českou televizi nedívá.
+[49:30] Tak si myslím, že je to jasně
+[49:31] ukázalo, že vlastně naši občané
+[49:33] tu českou televizi nechtějí, nepotřebují.
+[49:36] A pokud ano,
+[49:37] tak pojďte prosím a vyslyšte ten můj
+[49:39] návrh na to, aby byly
+[49:41] koncesionářské poplatky dobrovolné.
+[49:44] Jsem velmi rád, že se k tomuto
+[49:45] mému návrhu připojil i pan prezident Zeman.
+[49:48] Pan prezident Zeman rovně řekl,
+[49:50] že je proto, aby byly dobrovolné
+[49:51] koncesionářské poplatky. Kdo se na mě
+[49:54] díváte, kdo mě sledujete, víte, že já tuhle
+[49:55] tezi razím už
+[49:57] drahně dlouho. Protože
+[49:59] prostě v tu chvíli by česká televize musela
+[50:02] bojovat o svého diváka.
+[50:04] A ne se spolehat na to, že my,
+[50:05] kteří se na ní nechceme dívat, to zaplatit musíme.
+[50:09] Co lepšího
+[50:10] pro nezávislost české televize
+[50:12] můžeme udělat, než to,
+[50:13] abychom jim dali příležitost
+[50:16] vydělat si na svůj
+[50:17] provoz dobrovolnými koncesionářskými
+[50:20] poplatky. Teď a tady
+[50:22] říkám, že kdyby reportéry četé
+[50:24] dělali Tomas Paukner
+[50:26] a Markéta Dobijášová,
+[50:28] Angelika Bazalová, strašně rád
+[50:30] si to zaplatí. Budu první, kdo to
+[50:32] zaplatí. Dám klidně i víc, než
+[50:34] musím v současné době.
+[50:36] Až bude moderovat debaty
+[50:37] na české televizi Pavel Štrunc,
+[50:41] který dělá skvělou práci
+[50:42] na Echo 24, nebo až je
+[50:44] bude moderovat
+[50:46] Radim Panenka, který dělá
+[50:47] naprosto fantastické, jestli je to
+[50:49] za mě nejvzdělenější novinář široko
+[50:52] daleko v České republice, tak si za to
+[50:54] rád zaplatím. Rád. Já
+[50:56] první půjdu poslat české
+[50:58] televizi peníze. Ze svého.
+[51:01] Velmi rád.
+[51:02] Víc. Klidně jim pošlu
+[51:04] tisícovku měsíčně. Nedělá mi to nejmenší problém.
+[51:07] Ale chci,
+[51:08] aby reportéry četé nedělal pan
+[51:10] Moláček, anebo ať dělá jednu reportáž
+[51:12] pan Moláček. Ať dělá jednu reportáž
+[51:14] pan Moláček, ale ať druhou dělá
+[51:16] Markéta Dobijášová. Anebo
+[51:18] Toma Spaukner. Pak je to fér.
+[51:21] Pak je to OK.
+[51:24] Poskytněte obsah
+[51:25] jedné i druhé skupině. Pan Moláček
+[51:28] je jasně orientovaný.
+[51:30] Ten je tady pro
+[51:31] tu opozici a je tady
+[51:33] takovou tou hlavní tváří té stávky.
+[51:36] Tak ale nabídněte také druhé části
+[51:38] naší populace ten obsah,
+[51:40] který my chceme vidět. Dejte nám toho
+[51:42] Pauknera, dejte nám tu Dobijášovou,
+[51:44] dejte nám toho Štrůnce.
+[51:46] Radim a panenku. Nechte
+[51:48] komentovat politiku
+[51:50] ve vašej vysílání Tomase Kulidakise
+[51:53] a Marka Stoniše. Já
+[51:54] to rád zaplatím. A věřím,
+[51:56] že velká část lidí se ke mně připojí.
+[51:59] Ale odmítám platit
+[52:01] za evropskou propagandu,
+[52:03] kterou prostě nejenom,
+[52:05] že nesleduju, ale která lže
+[52:06] od rána do večera o věce,
+[52:08] které jsou bytostným zájmem České republiky.
+[52:11] Odmítám.
+[52:14] Tohle by bylo pro Českou televizi to nejlepší.
+[52:16] A politici by ztratili absolutně jakýkoliv
+[52:18] hliv. Nikdo by nemohl
+[52:20] určit částku, kterou Česká televize dostane.
+[52:22] Nikdo. Kolik by Česká televize
+[52:24] vybrala na dobrovolný koncesionárský
+[52:26] poplací, tolik by měla.
+[52:28] Tolik by měla.
+[52:30] To je podle mého názoru naprosto
+[52:32] nejferovější návrh, kdy
+[52:34] žádný politik už nikdy nemůže
+[52:36] určit, jaká bude výška koncesionárských
+[52:39] poplatků, nemůže určit,
+[52:41] kolik dostane Česká televize ze
+[52:42] státního rozpočtu, nemůže určit nic.
+[52:45] Jestli Česká televize bude mít
+[52:46] tak kvalitní vysílání, že
+[52:48] si ji zaplatí
+[52:50] tady nadpoloviční
+[52:52] většina českých občanů, nějakou
+[52:54] zásadnější částkou, tak ať
+[52:56] mají 50 miliard rozpočet, já jim
+[52:58] to budu přát v tu chvíli. Ale
+[53:01] chci objektivitu, vyváženost,
+[53:03] nestranost. To, co máte ve svém
+[53:05] kodexu, to, co máte v zákoně.
+[53:07] V tuto chvíli ho nedodržujete,
+[53:09] podle mého názoru tím jednoznačně
+[53:11] porušujete české právo, české
+[53:13] zákony a nejste
+[53:15] strážci demokracie, jste naopak
+[53:17] zabijáci demokracie
+[53:19] naší zem. No a
+[53:23] úplně na závěr bych
+[53:25] chtěl ještě poznamenat jednu věc, která se
+[53:27] právě týká také té propagandy,
+[53:29] protože ta zelená propaganda opravdu
+[53:31] dostupuje v recholu. Minulý týden
+[53:33] jsem vám tady říkal
+[53:34] všechny ta, všechna ta nařízení
+[53:37] představoval samé Evropské unie, která
+[53:39] budou znamenat absolutní zkázu
+[53:41] naší ekonomiky a věřte mi,
+[53:43] že prostě pokud s ním něco neuděláme, tak
+[53:45] nejpozději v roce 2030 to na nás
+[53:47] dopadne se vší razancí.
+[53:50] A teď jsem viděl krásný rozhovor,
+[53:52] který je úplně dokonalou
+[53:54] ilustrací toho, kam směřuje
+[53:56] Green Deal.
+[53:56] A bavili se tam experti, co bude s Evropským
+[53:59] automobilovým průmyslem.
+[54:01] Padla tam jedna krásná věta, to prosím také,
+[54:04] když tak sdílejte, pokud budete
+[54:05] moci. I třeba
+[54:08] posílíte messenger přes
+[54:10] WhatsApp. Padla tam krásná věta.
+[54:12] Evropský automobilový průmysl
+[54:14] nezanikne. Bude
+[54:15] pokračovat dál. Jenom
+[54:17] její skoupí čínský
+[54:19] akcionáři. Čínské automobilky.
+[54:24] Tohle dosáhne Green Deal,
+[54:25] přátelé. Green Dealem
+[54:27] dosáhneme toho,
+[54:28] že náš průmysl,
+[54:30] který byl ještě před pár lety
+[54:33] lídrem světa,
+[54:34] bude skoupen číňany.
+[54:38] Na Slovensku mají
+[54:40] fantastickou fabriku na výrobu hliníku.
+[54:43] V žáru nad Hronou.
+[54:45] Produkovala asi 16%
+[54:47] celoevropské
+[54:49] spotřeby hliníku. Fabrika je
+[54:51] zavřená, protože nemá šanci konkurovat
+[54:53] kvůli vysoké ceně elektřiny. Vysoká
+[54:55] cena elektřiny je způsobena převážně Green Dealem.
+[54:59] Jaký jednotný trh
+[55:00] na rybské burze? Jaký jednotný
+[55:02] trh, když francouzi, portugalci mají
+[55:03] výrazně levnější elektřinu, než máme my?
+[55:06] Jaký jednotný trh?
+[55:08] Ten Green Deal prostě způsobuje to,
+[55:11] že fabrika v žáru nad Hronou,
+[55:13] která je udělaná naprosto
+[55:14] geniálně, ekologicky,
+[55:16] s minimálním
+[55:18] uhlíkovou stopou, je zavřená.
+[55:21] A my ten hliník dovážíme
+[55:22] z Číny, kde
+[55:24] ta uhlíková stopa je asi sedminásobně vyšší
+[55:27] než v žáru nad Hronou.
+[55:28] A samozřejmě atmosféra je jen jedna,
+[55:30] takže je úplně jedno, jestli se to CO2
+[55:32] vyprodukuje v Číně nebo v Evropě,
+[55:34] prostě pro atmosféru celého světa
+[55:37] je to úplně ten samý efekt.
+[55:39] Takže místo toho, abychom vyráběli
+[55:40] ten hliník na Slovensku,
+[55:43] v našich podmínkách,
+[55:45] za daleko lepší
+[55:46] ekologické
+[55:47] nastavení,
+[55:51] tak to vyrábíme v Číně,
+[55:53] kde je sedminásobná
+[55:54] uhlíková stopa, ten hliník sem
+[55:56] dovezeme, Číně necháme vydělat
+[55:59] a v finále bude takové,
+[56:00] že Číněni tady zkoupí
+[56:02] náš automobilový průmysl
+[56:04] a v podstatě veškerý průmysl.
+[56:06] Nakonec budeme kolonii Číny,
+[56:08] protože tady zkoupí všechno.
+[56:10] Peníze vládnou světem
+[56:11] a ti akcionáři, kteří budou
+[56:13] prodělávat BMW,
+[56:16] hlásí obrovské ztráty,
+[56:17] Audi hlásí obrovské ztráty,
+[56:20] Volkswagen hlásí obrovské ztráty.
+[56:22] Ti akcionáři v momentě, kdy jim přijde
+[56:24] dobrá nabídka, tak to velmi rádi
+[56:26] prodají. Velmi rádi.
+[56:27] Proč budou držet akcie něčeho, co jde
+[56:29] cukrund, jak kámen do vody.
+[56:32] Takže díky Green Dealu
+[56:34] se nám podaří dosáhnout toho,
+[56:37] že naše fabriky
+[56:37] zkoupí čínský
+[56:39] biznis. Kleskám
+[56:42] soudru do Brusel. Opravdu se vám to
+[56:44] povedlo dokonale. Lepší
+[56:46] devastaci evropského průmyslu
+[56:48] by nevymyslel nikdo na světě,
+[56:50] než se to povedlo vám.
+[56:52] A já prostě znovu říkám, tuhle hru
+[56:54] odmítám hrát.
+[56:56] A úplně závěrem to, co jsem dával
+[56:59] ve čtvrté to video a už jsem to tady
+[57:01] naťukl, mě
+[57:02] čím dál tím víc, když
+[57:05] vyhlašuji různé ty sbírky pro
+[57:07] lidi, kteří jsou nemocní, kteří
+[57:09] trpí nějakou
+[57:11] nevylečetelnou nemocí, ať už
+[57:13] to je rakovina, leukemie
+[57:15] či cokoliv dalšího, ty vzácné
+[57:17] syndromy. Podařilo se nám
+[57:19] vybírat několik stovek tisíc
+[57:21] pro paní Pavlínu
+[57:23] z Olmouckého kraje. Já z toho mám
+[57:25] obrovskou radost a děkuju vám za to. Moc si toho
+[57:27] vážím. Tohle je prostě věc, která
+[57:29] mě dělá ve finále tu největší radost
+[57:31] a je tím největším otonem.
+[57:34] Ale zamysleme se nad tím
+[57:36] na chvíli, na chvíli. Představte
+[57:38] si, kolik lidí, a
+[57:40] znovu říkám, to se zítra může týkat
+[57:42] kohokoliv z vás, kohokoliv.
+[57:44] Mé rodiny, vaší rodiny.
+[57:47] Zítra může přijít ta
+[57:48] diagnóza. Neustále se
+[57:50] snižuje věk
+[57:51] mladých lidí, kteří
+[57:53] prostě trpí rakovinou a dostávají
+[57:56] ty turborakoviny a tak dále a tak dále.
+[57:58] Asi víme proč, ale to jsem teď
+[58:00] nebudu zavádět, protože
+[58:02] to bychom tady byli další hodinu.
+[58:04] Ale to se může týkat kohokoliv z nás
+[58:06] zítra. A představte si, že
+[58:08] dnes jsme v situaci, kdy už
+[58:10] máme tu léčbu, máme ji
+[58:12] k dispozici. Svět ji umí.
+[58:15] Například paní Bára z Opavy,
+[58:17] na kterou jsme se vyzbírávali v Loni,
+[58:19] tak česká medicína ji nabídla
+[58:20] už jenom pariativní léčbu, v podstatě
+[58:22] dožití. V 31 letech
+[58:25] máte manžela, máte rodinu,
+[58:26] máte 1,5 leté dítě a naše
+[58:28] medicína vám řekne, my vám nebudeme
+[58:30] hradit tu individuální nejlepší léčbu.
+[58:33] My už vás necháme jenom bez
+[58:34] bolesti umřít. A vy jdete
+[58:37] s tím verdiktem domů. A přitom
+[58:40] stačí 1 milion korun,
+[58:42] aby tak jako Bára
+[58:43] mohla odcestovat do Švýcarska,
+[58:46] má tam individuální léčbu a její
+[58:48] manžel mi psal minulý týden, že
+[58:50] ty výsledky z května letošního
+[58:52] roku vypadají velmi pozitivně a že
+[58:54] ta léčba zřejmě zabírá. Že to nechce zakřiknout,
+[58:56] ale že všem děkuje,
+[59:00] že jste Báru podpořili. Úžasná rodina,
+[59:02] naprosto fantastičtí lidé.
+[59:04] 1 milion korun.
+[59:06] 1 milion korun.
+[59:09] A my kdykoliv se bavíme o tom, že budeme
+[59:11] zvyšovat peníze na zbrojení, že budeme
+[59:13] financovat Green Deal, že budeme
+[59:15] dekarbonizovat,
+[59:17] tak vyhazujeme miliardy.
+[59:19] Miliardy z našich kapes.
+[59:21] Na tanky, na BVPčka,
+[59:23] na supakaty.
+[59:25] Vyhazujeme peníze na munici.
+[59:28] Vyhazujeme peníze
+[59:30] na to, abychom tady si
+[59:31] dělali větrné elektrárny
+[59:33] a solární elektrárny
+[59:35] a nevím co. 1 milion korun
+[59:38] stačí na záchranu lidského života.
+[59:40] A ten lidský život může být
+[59:42] velmi brzy někoho z našich
+[59:44] blízkých nebo náš vlastní.
+[59:46] Já prostě v tomhle ohledu
+[59:48] zcela jednoznačně, já musím
+[59:50] říct, že tenhle týden, kdy jsem na tím měl čas
+[59:52] přemýšlet, protože jsme byli
+[59:54] právě s manželkou trošku si odpočnout,
+[59:57] tak vám teď a tedy
+[59:58] říkám, že to bude prostě jeden
+[01:00:00] z hlavních směrů mé politiky.
+[01:00:04] Říct člověku,
+[01:00:05] kterého umí moderní
+[01:00:06] medicína zachránit, umí mu zachránit
+[01:00:09] život, říct mu, my vám
+[01:00:11] ty peníze nedáme a raději
+[01:00:13] za ně koupíme tank,
+[01:00:15] je ubohé, je nelidské,
+[01:00:18] je nehumání.
+[01:00:20] Každý ten 1 milion korun, který
+[01:00:21] vyhazujeme z okna, může zachránit
+[01:00:23] jeden lidský život. A já
+[01:00:26] znovu říkám, budu jasně a jednoznačně říkat,
+[01:00:29] že prostě nehodlám
+[01:00:30] dávat peníze
+[01:00:31] do železa, které lidské životy ničí,
+[01:00:35] ale budu se snažit prosazovat,
+[01:00:36] abychom ty peníze investovali
+[01:00:38] do technologií a do lidí, které
+[01:00:40] ty lidské životy zachrání.
+[01:00:43] Zachránit lidský život
+[01:00:45] je noblesní a cnostné,
+[01:00:47] zničit ho
+[01:00:48] je nehumání a odporné.
+[01:00:52] Takže ještě jednou, přátelé,
+[01:00:53] kdykoliv kdokoliv, a můžete mě teď sledovat
+[01:00:56] v jakémkoliv mém vystoupení,
+[01:00:58] já prostě už tuhle
+[01:00:59] tu hru odmítám hrát, nebudu se
+[01:01:01] prostě tady bavit, že máme
+[01:01:02] dávat místo 160 miliard, 200 miliard
+[01:01:06] a 240 miliard do zbrojní,
+[01:01:08] když bychom jenom
+[01:01:09] za zlomek té částky
+[01:01:12] mohli zachránit
+[01:01:13] všechny ty lidi, kteří
+[01:01:16] tady trpí těmi vzácnými chorobami,
+[01:01:18] kteří prostě potřebují individuální léčbu,
+[01:01:20] která je sice drahá, ale
+[01:01:21] velmi účinná. Ostatně na paní Báře
+[01:01:24] je to vidět. Každému tomu člověkovi
+[01:01:26] bychom mohli poskytnout
+[01:01:28] naději. Naději na život,
+[01:01:30] na to, že může žít. A to je pro mě
+[01:01:31] jeden ten lidský zachráněný život
+[01:01:33] je pro mě tisíckrát víc,
+[01:01:35] než jakékoliv odstrašování Putina
+[01:01:37] a jejich keci o tom, že prostě tady
+[01:01:39] se musíme bránit a zbrojit,
+[01:01:41] aby nás nenapadlo náhodou Rusko.
+[01:01:43] Je to nesmysl. Je to lež.
+[01:01:45] Je to jenom snaha přetransformovat
+[01:01:47] peníze z toho, že by mohli zachraňovat
+[01:01:49] lidské životy do
+[01:01:51] kapes všech možných zbrojařů, bankéřů
+[01:01:53] a finančních institucí na celém světě.
+[01:01:57] Tolik za mě, přátelé.
+[01:01:58] Takže děkuji vám, že jste si dnes udělali čas.
+[01:02:01] Moc děkuji za sdílení.
+[01:02:02] Budu velmi rád, když budete tohle video posílat dál.
+[01:02:06] Když budete šířit tyhle zprávy.
+[01:02:07] A příští týden,
+[01:02:09] nezapomeňte, nebude živé vysílání,
+[01:02:11] ale bude duel se Zdenkem Hřibem
+[01:02:13] v české televizi.
+[01:02:15] Jdu na nepřátelské území.
+[01:02:18] Kdyby to bylo u Petra Pavla,
+[01:02:19] tak by to napsali, že jde Reichel
+[01:02:21] do první linie.
+[01:02:23] Ale já si na tyhle
+[01:02:24] adorace opravdu nepotrpím.
+[01:02:26] Každopádně určitě to sledujte,
+[01:02:28] protože uvidíte, že já
+[01:02:30] nebudu vůbec napadat Hřiba
+[01:02:31] jeho financování a to, co
+[01:02:34] Piráti předváděli. Já budu
+[01:02:36] konfrontovat tu urážející
+[01:02:38] politiku
+[01:02:39] osobních invekty v Pirátů
+[01:02:41] s jasnými, konkrétními řešeními pro
+[01:02:44] vás, pro občany České republiky.
+[01:02:46] Protože mě nezajímají floskule a řeči
+[01:02:48] v televize. Mě nezajímá, kdo pojede do Ankary.
+[01:02:50] Mě vůbec nezajímá,
+[01:02:52] jestli dáme na obranu 1,86
+[01:02:54] nebo 2,01.
+[01:02:55] Mně záleží, abyste vy žili
+[01:02:57] bohatší a bezpečnější život.
+[01:03:00] To je můj cíl. Všechno ostatní
+[01:03:02] je nepodstatné a na mém
+[01:03:03] žebříčku priorit mnohem, mnohem nížší.
+[01:03:06] Přátelé, děkuji vám za pozornost.
+[01:03:08] Velmi si to vážím. Velmi děkuji
+[01:03:09] za každé sdílení tohoto videa. Facebook má
+[01:03:11] nové algoritmy, takže cokoliv pošlete
+[01:03:13] Whatsappem, Messengerem, tak ještě
+[01:03:16] zvyšuje dosahy. Já jsem za to
+[01:03:17] nesmírně rád a moc vám za to děkuji.
+[01:03:21] Mějte se moc hezky
+[01:03:21] a příští týden
+[01:03:23] naviděnou v duelu se Zdenkem Řibem.
+[01:03:26] Držte nám palce, buďte s námi,
+[01:03:27] protože my jsme za všech okolností
+[01:03:29] s vámi.
+[01:03:31] Ať žije naše vlast, ať žije
+[01:03:33] Česká republika. Bůh ji ochraňuje.

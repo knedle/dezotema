@@ -1,0 +1,28 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Restart Cesko
+URL:          https://www.facebook.com/61586055215179/videos/2321417232027831
+Datum videa:  2026-07-31
+Zpracováno:   2026-07-31 15:17:35
+Jazyk:        cs
+Délka:        00:00:17
+Zhlédnutí:    5 707
+Popis:        Pokrytectví největšího kalibru
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       3s
+Rychlost:     4.6x realtime
+Celkem:       8s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Báru Štěpánkovou, která kdysi dávno, myslím, že v roce 2017, říkala,
+[00:05] že fotice s dětmi dělají autoritáře a je to odporný.
+[00:09] Fotice s dětmi to není útok, to není úplně to nejnižší, co existuje.
+[00:13] Přijde mi to odporný. Jsou fotky a určitě není problém je najít.

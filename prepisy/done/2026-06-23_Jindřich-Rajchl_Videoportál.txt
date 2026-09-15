@@ -1,0 +1,30 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/851317544372225
+Datum videa:  2026-06-23
+Zpracováno:   2026-06-24 20:34:57
+Jazyk:        cs
+Délka:        00:01:01
+Zhlédnutí:    134 729
+Popis:        Dovolím si zastoupit naši veřejnoprávní televizi a nabídnout vám naši hymnu v podání největšího českého barda Jarka Nohavici, o kterou jste kvůli “technickým problémům” byli ochuzeni. 
+
+A nechci za to
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       3s
+Rychlost:     16.7x realtime
+Celkem:       8s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:01] Kde domov můj, kde domov můj, voda hůčí po lučinách,
+[00:17] bory šumí po sydách, v sadě skví se jara květ,
+[00:27] zemský ráj to na pohled, a to je ta krásná země,
+[00:41] země Česká, domov můj, země Česká, domov můj.

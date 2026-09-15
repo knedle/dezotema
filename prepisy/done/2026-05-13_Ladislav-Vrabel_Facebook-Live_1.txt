@@ -1,0 +1,1092 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1608973773501769
+Datum videa:  2026-05-13
+Zpracováno:   2026-05-14 21:23:32
+Jazyk:        cs
+Délka:        00:39:59
+Popis:        13. 5. 2026 Večerní zprávy s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    21s
+Přepis:       7m 44s
+Rychlost:     5.2x realtime
+Celkem:       8m 5s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:24] Vážení přátelé, vítejte u Večerních zpráv.
+[00:27] Viděli jste novou změlku, ona tady není nějak jako vypilovaná,
+[00:30] to je takový obyčejný intro, 30-tvrtinový, že tam takhle zapadá to sluníčko,
+[00:36] ale je to proto, abyste se mohli naběhnout, že jo,
+[00:38] abyste mohli se přihlásit do toho vysílání.
+[00:41] Jak tak koukám, máme tady dva lidi, tak budeme si udělat
+[00:44] aspoň dvouminutovou změlku, abyste to chtěli,
+[00:46] ale jak nebudeme mít trošku čas, tak si s tím pohledáme.
+[00:49] Vítejte u Večerních zpráv, dneska je 13. května roku 2026,
+[00:53] Zuzko, hezký večer a pojď nám říct, co se dneska stalo,
+[00:57] protože dneska to, dneska není nějak moc zásadních zpráv, že jo,
+[01:01] ale třeba bude víc prostoru na váš dotaz, když budete mít.
+[01:04] Tak pojďme na to, Zuzko, co se dneska děje.
+[01:07] Tak hezký večer všem a asi tou nejzásadnější zprávou je určitě,
+[01:12] že Donald Trump odletěl do Číny.
+[01:16] Takže americký prezident Donald Trump přicestoval
+[01:19] na oficiální návštěvu Číny, jde o jeho první pracovní cestu
+[01:23] do země od roku 2017. Návštěva má trvat tři dny.
+[01:28] Hlavními tématy rozhovoru mají být podle dostupných informací
+[01:32] obchodní vztahy, clá, situace na Blízkém východě,
+[01:36] Irán, Tajván, globální energetika a válka na Ukrajině.
+[01:41] Podle agentury Reuters se zároveň očekává diskuze
+[01:44] o snižení obchodních bariér v hodnotě desitek miliardů dolarů.
+[01:49] Prezidenta USA doprovází také rozsáhlé obchodní delegace
+[01:53] z technologického a průmyslového sektoru.
+[01:58] Myslím si, že se od toho dost očekávalo té zkusky.
+[02:01] Viděl jsem ceremoniál uvítání prezidenta Donalda Trumpa
+[02:06] na letišti sice nebyl nějak velký, ale potom před prezidentským palácem
+[02:10] přijel prezident a seznámil čínský prezident
+[02:14] a seznámil amerického prezidenta s celou čínskou vládou.
+[02:18] Podávali se tam ruce.
+[02:19] Potom se americký prezident s celou delegací obchodníků seznamoval prezidenta.
+[02:24] Bylo to velkolepý. Byly tam vojenské přehlídky atd.
+[02:27] Takže to jsem rád, že mezi těmi dvěmi zeměmi dneska probíhá taková bezchůzka.
+[02:33] Naposledy, když byl čínský prezident ve Spojených státech,
+[02:36] taky byl s manželkou, tak přilekěl Donald Trump s manželkou.
+[02:39] Takže to si myslím, že je dobrý signál pro svět,
+[02:45] že tyto dvě světové velmoci, že bude večeřet,
+[02:49] že bude čínský a americký prezident spolu s manželkou,
+[02:52] že budou večeřet společně.
+[02:54] Ať tam probíhá, co tam probíhá,
+[02:56] tak pokud ta diplomacie je ještě na takovéhle úrovni,
+[02:59] že se potkávají ty manželské páry nejvyšší,
+[03:02] tak to si myslím, že je dobrá věc.
+[03:04] Takže za to jsem rád. Uvidíme, co tam dojednají za biznis, za globalistický.
+[03:08] Aby se nám nespojili ještě Musk a Sam Elliott a Larry Everson
+[03:14] a čínské programy nasledování lidí.
+[03:17] To by byla katastrofa pro svět,
+[03:19] tyhle systémy a začaly nás sledovat všichni globálně.
+[03:23] To byla katastrofa, ale to uvidíme obchodně.
+[03:27] Minimálně politicky jsem rád, že průskětové způsoby probíhá.
+[03:34] Tak když jsi změnil už tu společnost,
+[03:36] tak čínská satelitní společnost Mizaravision
+[03:39] podle zahraničních médií pokračuje ve zveřejňování
+[03:42] satelitních snímků amerických vojenských základen
+[03:45] i navzdory novým sankcím ze strany Spojených států.
+[03:49] Washington firmu zařadil na sankční seznam,
+[03:52] kvůli údajnému poskytování snímků a analýz,
+[03:55] které mohly napomáhat Iránu při sledování pohybu
+[03:58] amerických stilů na Bliském východě.
+[04:00] Americké úřady tvrdí, že společnost publikovala
+[04:03] detailní záběry vojenských aktivit
+[04:06] během operace označované jako Epic Fury.
+[04:10] Podle denníku South China Morning Post
+[04:14] reagovala firma na sankce otevřeně
+[04:17] a bez známek nějakých obav.
+[04:19] Na sociálních sitích dokonce bylo,
+[04:22] že zveřejnila náborovou kampaň
+[04:24] doplněnou screenshotem amerického sankčního oznámení.
+[04:28] Mizar Vision se specializuje na analýzu
+[04:31] komerčních satelitních dát
+[04:33] a v posledních měsících publikovala snímky
+[04:35] amerických bombardérů, letadlových lodí
+[04:38] i těch vojenských základen.
+[04:40] Tak vidíš, tak k něčemu to byly ty sankce.
+[04:44] Aspoň si ta satelitní firma mohla,
+[04:46] když dělala nábor zaměstnanců,
+[04:48] dát reklamu, že dostala sankce od američanů.
+[04:52] No ale jasně, že ty vztahy mezi Čínou
+[04:55] a Spojenými státy nejsou úplně ideální.
+[04:58] Číněni dodávají satelitní snímky,
+[05:00] které pomalají Iránu proti Číně.
+[05:02] Čína jednoznačně stojí za Iránem
+[05:04] jako satelitní partner, stejně tak jako Rusko.
+[05:06] Takže ty vztahy dobrý nejsou.
+[05:08] Předpokládám, že i v Azii se bude rozjíždět válka.
+[05:12] Takže, jak říkám, jsem rád,
+[05:14] že se ještě pořád může americký prezident s čínským
+[05:17] potkat na večeři se svými manželkami.
+[05:20] To je fajn, ale samozřejmě boj mezi Čínou a Amerikou
+[05:23] probíhá minimálně nějaký ekonomický boj
+[05:26] nebo proxi válka v Iránu, řekněme třeba nějaká.
+[05:30] I když to není ještě proxi válka,
+[05:32] ale prostě je tam nějaký konflikt.
+[05:34] Není to úplně čistý.
+[05:36] V rumunské Bukurešti probíhá summit
+[05:41] tzv. Bukureštské devětky, jak jsme už o tom mluvili,
+[05:44] které združuje státy východního křídla NATO.
+[05:47] Lídři členských zemí spolu s představiteli NATO
+[05:50] diskutují především o posílení obrany
+[05:52] východního křídla aliance,
+[05:54] pokračující válce na Ukrajině
+[05:56] a koordinaci společné bezpečnostní politiky.
+[05:59] Mezi hlavní témata patří také
+[06:01] protivzdušná obrana, vojenská připravenost
+[06:04] a posilování evropské obranné spolupráce.
+[06:07] V summitu se účastní také
+[06:10] generální tajemník NATO Mark Rutte
+[06:12] a ukrajinský prezident Volodymyr Zelenský.
+[06:15] Českou republiku zastupuje na summitu
+[06:17] prezident Petr Pavel.
+[06:19] Pozor.
+[06:20] No tak tady bych vám doporučil
+[06:22] maličko spozornit, protože tohle
+[06:24] se vás týká nebo nás týká všech.
+[06:27] Ta Bukurešská devítka to je taková,
+[06:29] to je takový uskupení, kde se státy dohodli,
+[06:32] že v případě napadení Ruskem
+[06:34] budou společně posílat vojáky.
+[06:36] No takže to je potřeba si uvědomit.
+[06:39] Je to, jsou to státy východního křídla NATO
+[06:42] a i v rámci NATO se mluví o tzv. Eastern flank.
+[06:46] O tom často mluví Mark Rutte.
+[06:48] To je to východní křídlo.
+[06:50] Protože to NATO je rozdělený.
+[06:52] Ono to tak trošku zní jako kdyby byla
+[06:54] válka s Ruskem nebo až bude,
+[06:56] tak ten Eastern flank, to východní křídlo
+[06:58] musí dávat vojáky, posílat vojáky.
+[07:00] Takže říkám proto, říkám dávejte pozor,
+[07:02] protože tohle se nás týká.
+[07:04] A to, o čem se bavili právě na té Bukurešské devítce,
+[07:09] tak jsou koordinace společné bezpečnostní politiky.
+[07:14] To je to, kvůli čemu vůbec ta Bukurešská devítka vznikla.
+[07:18] Je to takový jako v rámci NATO
+[07:20] vznikla část východního křídla.
+[07:22] Hele ty Rusové, když nás napadnou, tak my jdeme
+[07:24] a tady si NATO dáme ruku, že jdeme všichni společně.
+[07:27] Mluví o protivzdušné obraně, vojenské připravenosti.
+[07:30] Vojenská připravenost je takový termín pro to,
+[07:32] aby bylo dostatek vojáků.
+[07:34] A posilování evropské obrané spolupráce,
+[07:37] tak to je zase o různých cvičeních,
+[07:39] o tom, jak budou probíhat cvičení v rámci Evropy
+[07:42] a budou se připravovat.
+[07:44] To, že tam je Mark Rutte,
+[07:46] ukrajinský prezident Volodymyr Zelenský,
+[07:48] tak tam je jasný, že to má vysokou důležitost,
+[07:51] když je tam Mark Rutte jako šéf NATO.
+[07:53] A když je tam Volodymyr Zelenský,
+[07:55] tak se to týká budoucího konfliktu s Ruskem.
+[07:58] Českou republiku tam zastupuje Petr Pavel.
+[08:00] Pokud jsem viděl, tak se vyjádřil pro média,
+[08:02] že Rusko nadále zůstává do budoucna
+[08:04] největší hrozbou pro Českou republiku.
+[08:07] Takže sice z toho nemáme moc zprav,
+[08:10] z toho jednají tak ukrajinské devítky,
+[08:12] ale velice živě si dokážu představit,
+[08:14] o čem tam jednají.
+[08:17] Tak snad se zejtra dovíme víc.
+[08:22] Americký prezident Donald Trump
+[08:24] podle zahraničních médií uvedl,
+[08:27] že, teď se mi to někde tři o většině ztratilo,
+[08:30] úplně uvedl.
+[08:33] Prezident J.D. Vance.
+[08:35] No, no.
+[08:39] Normálně do propadlišti dějin to odešlo.
+[08:42] Fakt? Tak ti to mám představit?
+[08:45] Ne, já to představím.
+[08:46] No, komentuješ.
+[08:48] Už to máš, jo?
+[08:50] No, omlouvám se.
+[08:51] Americký prezident Donald Trump
+[08:53] podle zahraničních médií uvedl,
+[08:55] že viceprezident J.D. Vance
+[08:58] obdržel instrukce pro případ atentátu na hlavu státu.
+[09:02] Podle zveřejněných informací,
+[09:04] nikdo, myslím, tady je,
+[09:05] podle zveřejněných informací
+[09:06] měl Trump svému zástupci
+[09:08] doporučit tvrdou reakci vůči Iránu,
+[09:11] pokud by došlo k jeho smrti
+[09:13] v důsledku útoku podporovaného Teheránem.
+[09:15] No, tak na druhou stranu,
+[09:18] jak se to říká,
+[09:19] kdo jinému jámu kopal,
+[09:21] až se uchoutreme.
+[09:23] Takže to, co udělal Donald Trump,
+[09:25] bylo, že zautočil na Irán
+[09:27] a prvním, po kom šel,
+[09:28] byl vůdce Iránu, jejich duchovní vůdce.
+[09:30] Toho zabili.
+[09:32] Takže kdyby jim Irán oplatil stejnou kartou,
+[09:35] tak bude mít J.D. Vance víc práce.
+[09:38] Mě by to asi nějak netrápilo,
+[09:42] kdyby prostě si to vyřídili,
+[09:44] takhle ty účty 50-50,
+[09:45] oko za oko, zub za zub.
+[09:48] Co si rád dělat, jako když...
+[09:51] Ono to zní strašně,
+[09:53] ale přece to, co udělali Spojení státy,
+[09:55] je strašný.
+[09:56] Že zautočili na Irán
+[09:57] a na duchovní vůdce jejich,
+[09:59] to je jako kdyby zautočil támhle Irán
+[10:02] na papeže a zabil papeže,
+[10:04] protože prostě vede křesťany.
+[10:06] To je to, co udělali Spojení státy,
+[10:08] ještě si tím chlubí.
+[10:09] Takže kdyby Irán zabil Donalda Trumpa,
+[10:11] tak pro mě, myslím,
+[10:13] že bych nehnul ani brvou.
+[10:15] A to, proč to Donald Trump říká,
+[10:17] těžko říct,
+[10:18] ale prostě v tom Iránu se to rozhrává,
+[10:20] takže tam nějaká strategie pravděpodobně bude,
+[10:23] proč o tom Donald Trump mluví.
+[10:26] To je právě na tom to zajímavé,
+[10:28] že teda zrovna mluví o tom teď
+[10:30] a spojuje to s tím Iránem, že jo?
+[10:33] No tak možná, že třeba
+[10:35] mají i připravený nějaký,
+[10:37] jak se tomu říká,
+[10:39] útok pod falešnou vlajkou.
+[10:41] Možná, že někdo zaautočí na Donalda Trumpa.
+[10:44] Že Donald Trump bude chvíli nezvěstný, mrtvý,
+[10:46] pak se objeví, vstane z mrtvých jako Ježíš,
+[10:49] protože Donald Trump, že jo,
+[10:51] ten prostě jako se každou chvilku ukazuje
+[10:55] v nějakých takových barvách jako třeba
+[10:58] jako Ježíš na sociálních sítích nebo tak nějak.
+[11:01] Takže nevím, to asi přeálním,
+[11:03] asi takovouhle věc neudělá,
+[11:05] že by ze sebe udělal svatýho,
+[11:06] že by ze sebe udělal Ježíše,
+[11:08] ale na druhou stranu, když vidím ty modlitby
+[11:10] v Bílém domě, jak tam okolo něj sedí
+[11:12] a modlí se za něj a jak o něm mluví,
+[11:15] že on je spasitel, prostě mluví,
+[11:18] co si o něj mluví, co vymyší.
+[11:21] Ruský prezident, ruský ministr zahraničí
+[11:27] Sergej Lavrov přicestoval
+[11:29] na třídenní návštěvu Indie.
+[11:31] V novém díli se ve dnech 14. až 15. května
+[11:35] zúčastní jednání ministrů zahraničí
+[11:37] zemí skupiny BRICS.
+[11:39] Hlavními tématy setkány budou
+[11:41] další rozvoj ekonomické spolupráce,
+[11:43] mezinárodní bezpečnost,
+[11:45] a koordinace postupu členských států
+[11:48] v otázkách globální politiky.
+[11:50] Očekává se také diskuse
+[11:52] o konfliktech na Ukrajině a Blízkém východě,
+[11:55] stejně jako o posilování obchodní vaze
+[11:58] mimo dolarový systém.
+[12:00] Lavrov by měl během návštěvy jednat
+[12:02] i s indickým ministrem zahraničí
+[12:04] Jai Shankarem.
+[12:06] Indie dlouhodobě udržuje vztahy
+[12:08] jak se Západem, tak s Moskvou
+[12:10] a snaží se vystupovat jako významný
+[12:12] diplomatický partner v rámci
+[12:14] uskupení BRICS.
+[12:16] No, tak Indie je hlavně členem BRICS, že jo?
+[12:19] To, že má partnerství se Spojenými státy, je hezký,
+[12:22] ale u nás v médiích pořád říkají,
+[12:24] jak Donald Trump s Indií
+[12:26] a jak Indie nebude odebírat
+[12:28] Ruskou Evropu a tak dál.
+[12:30] A to jsou samozřejmě všechno nesmysly.
+[12:32] Indie je normálně strategicky
+[12:34] minimálně, co se týče
+[12:36] obchodu a co se týče energii,
+[12:39] partnerem Ruský federace.
+[12:41] Takže prostě to, co nám říkají
+[12:43] v České republice.
+[12:44] Dneska za mnou byly na návštěvě dva Češi
+[12:47] a prostě to, co jsem slyšel zase, co se děje
+[12:49] v České republice jako v médiích, co
+[12:51] jakým způsobem tam probíhá
+[12:53] to vymývání mozku,
+[12:55] to je prostě neuvěřitelné.
+[12:57] Vůbec nikdy neví, co se děje v České republice
+[12:59] z médií.
+[13:01] To je prostě jenom samá propaganda.
+[13:03] Takže to je normální věc, že jo?
+[13:05] Že se setkává BRICS,
+[13:07] že se setkávají ministři zahraniční věci
+[13:09] zemí BRICS a jednají
+[13:11] o budoucnosti,
+[13:13] o ekonomice,
+[13:15] o mimo dolaru systému.
+[13:17] Dolarem už se dneska platí jenom
+[13:19] 65% zahraničního obchodu.
+[13:21] Takže dolarový systém
+[13:23] se rozpadá, tak jak to
+[13:25] Vladimir Putin oznámil, že
+[13:27] v únoru roku 2022.
+[13:29] Dneska máme 26.
+[13:31] Máme čtyřiaku z roku
+[13:33] od toho a přesně to, co řekl,
+[13:35] že bude končit ten unipolární
+[13:37] svět, že bude multipolární
+[13:39] svět, tak přesně to, co se to je,
+[13:41] přesně to, co se stalo dneska.
+[13:43] Prostě už to není Spojené státy
+[13:45] a všichni, jenom Česká republika to tak má.
+[13:47] Macinka Donald Trump
+[13:49] šup a už tam lejtím šipku
+[13:51] a prostě Donald Trump
+[13:53] zavolá Andreja Babišovi, ten je z toho
+[13:55] taky celý žovej, takže
+[13:57] Česká republika to pořád má,
+[13:59] že ty Spojené státy bezmězně
+[14:01] miluje a podporuje, ale
+[14:03] ve světě už to tak není.
+[14:05] Spojené státy už nehrajou tak velkou roli,
+[14:07] jako hrály třeba před čtyřmi lety.
+[14:09] Pravda.
+[14:14] Česká republika
+[14:16] je účastník
+[14:18] Německého Bundestagu
+[14:20] za stranu Alternativa pro Německo,
+[14:22] Stefan Kotré
+[14:24] plánuje cestu do Ruska.
+[14:26] Chce se tam zúčastnit Petrohradského
+[14:28] mezinárodního ekonomického fóra.
+[14:30] Podle svých slov chce během návštěvy
+[14:32] jednat o hospodářské spolupráci
+[14:34] a možnosti dialogu
+[14:36] mezi Německem a Ruskem
+[14:38] a to navzdory pokračujícímu napěti
+[14:40] mezi Moskvou a Evropskou unii.
+[14:42] Léně jsem přemýšlel,
+[14:44] letos jsem na to nějak zapomněl,
+[14:46] nějak to jde trošičku mimo mě,
+[14:48] že bych někam takhle cestoval,
+[14:50] takže se tam nechystám
+[14:52] a možná někdy se tam třeba podívám,
+[14:54] ale uvidíme,
+[14:56] co k tomu říct.
+[14:59] No Němci, AFD,
+[15:01] no tak to jsou rebelové,
+[15:03] oni jsou dneska nejsilnější strana politická
+[15:05] v Německu, co se týče předvodních průzkumů.
+[15:07] Uvidíme, až budou volby,
+[15:09] když se podíváme na to,
+[15:11] jak to vypadalo v roce 22, 23,
+[15:13] tak jsme mohli
+[15:15] taky říct, jak jsme mohli
+[15:17] jít do voleb,
+[15:19] jak to vypadalo ještě v roce 25
+[15:21] a potom přijde předvolební kampáně,
+[15:23] najednou média začnou, tyhle ty strany
+[15:25] mají čas, šanci se tam dostat,
+[15:27] tady jsou předvolební průzkumy
+[15:29] a najednou všechno úplně opačně,
+[15:31] viděli jste to v Německu v těch volbách,
+[15:33] jakým způsobem prostě si to mer převzal,
+[15:35] ten má dneska 22%
+[15:37] popularitu,
+[15:39] jenom důvěryhodnost mezi Němci,
+[15:41] což je velmi,
+[15:43] nebo dokonce 16%,
+[15:45] což se dneska říkala doktorka Vítová,
+[15:47] dokonce 16%,
+[15:49] což jako je hodně málo
+[15:51] a uvidíme, jak to bude
+[15:54] pokračovat v Německu. Byl bych rád,
+[15:56] kdyby se v Německu ty věci změnily,
+[15:58] protože Německo je samozřejmě
+[16:00] jedna z těch nejsilnějších zemí v Evropě,
+[16:02] Británii už trošičku vidíme,
+[16:04] že jsou tam snahy, aby se to měnilo,
+[16:06] v Německu by bylo taky fajn, kdyby lidi
+[16:08] změnili tu politiku nějakým způsobem,
+[16:10] ale k tomu, aby se rozpadl
+[16:12] populistický systém a přestala
+[16:14] se dělat Agenda 2030, aby se
+[16:16] přestal dělat chemtrails a
+[16:18] globalismus a sledování a digitální
+[16:20] peněženka, digitální
+[16:22] sledování věku a
+[16:24] všechny tyhle ty věci,
+[16:26] k tomuto ještě máme pořád hodně, hodně,
+[16:28] hodně daleko. A v České republice mi připadá,
+[16:30] že vůbec není žádná šance,
+[16:32] protože tady vůbec lidé nereagují
+[16:34] na to, co se děje. Tady prostě se
+[16:36] rozehrála jenom ta trapná
+[16:38] hra v médiích, Pavel
+[16:40] versus Macinka versus
+[16:42] nevím kdo, a tady se pořád jenom hrajou
+[16:44] lidi proti sobě a ten mu to
+[16:46] nandál a ten to pěkně řek
+[16:48] a ten, ten prostě tohle
+[16:50] to musíte jenom uvěřit. Tady lidi vůbec
+[16:52] v České republice vůbec
+[16:54] nechápou, co se rozehrává
+[16:56] v rámci globalismu, v rámci těch
+[16:58] globalistických dystopických
+[17:00] budoucností, který se tady
+[17:02] rozjíždí. V Německu to je asi trošičku
+[17:04] lepší, co se týče toho,
+[17:06] co lidi vnímají
+[17:08] a uvidíme. Na Slovensku myslím, že to
+[17:10] je trošku lepší, co se týče války,
+[17:12] že tam to trošičku líp
+[17:14] vnímají. V České republice mi připadá, jak jsme
+[17:16] hezky začali v tom roce 22
+[17:18] se scházet na těch demonstracích, jako to mělo
+[17:20] sílu, jak na nás koukal celý svět.
+[17:22] Prostě jsem usadila
+[17:24] do zohory do Ameriky, do Ruska
+[17:26] z kanceláře Donalda
+[17:28] Trumpa pozdravy, tak
+[17:30] Zelenský, že ho hned lhal
+[17:32] o té naší demonstraci,
+[17:34] tak najednou, jako kdyby Česká republika
+[17:36] se propadla úplně do zapomnění,
+[17:38] nějakého hlubokého spánku.
+[17:40] V Německu uvidíme, jak to bude probíhat
+[17:42] dál.
+[17:46] Tam už aspoň
+[17:48] chápou v Německu, že byli pod vedením.
+[17:50] V Čechách ještě ne.
+[17:52] Německu už tomu rozumí. Tam už prostě Merz
+[17:54] velmi drasticky ztratil
+[17:56] popularitu, tam už
+[17:58] chápou, že byli pod vedením, že
+[18:00] si nezvolili
+[18:02] někoho, kdo se bude starat o jejich zájmy,
+[18:04] že Merz se nestará o zájmy. A tu dneska jsem taky viděl
+[18:06] jeho vystoupení někde, kde
+[18:08] Merz mluvil o tom, že Němci
+[18:10] budou muset teď
+[18:12] mít ekonomický problémy,
+[18:14] že bude pro ně těžší
+[18:16] život ekonomický
+[18:18] Němcům. O studiích,
+[18:20] o sociální politice, o tom, jaké budou
+[18:22] škrty v sociální politice a v důchodech
+[18:24] atd. A ty lidi
+[18:26] na něj bučili,
+[18:28] vůbec se jim to nebývalo.
+[18:30] Tam už to pochopili. U nás
+[18:32] v ČR žijou lidi ještě v iluzi,
+[18:34] že tady máme s vládou Andreje Babiše
+[18:36] nějakou změnu k lepšímu.
+[18:38] A ještě pořád jsou v tom nadšení.
+[18:40] Takže v Čechách to ještě bude trvat
+[18:42] nějakou dobu, než lidi procitnou.
+[18:44] Tak snad jednou procitnou.
+[18:49] Jednou procitnou.
+[18:51] Německá
+[18:53] automobilka Volkswagen, podle
+[18:55] informací německých médií, jedná
+[18:57] o možném vstupu do obraného
+[18:59] průmyslu. V rámci připravovaného
+[19:01] společného podniku s izraelskou
+[19:03] zbrojovkou Rafael
+[19:05] se má uvažovat do částečné
+[19:07] přeměně závodů
+[19:09] v Osnambriku,
+[19:11] kde by se místo části civilní
+[19:13] produkce mohly vyrábět komponenty
+[19:15] pro vojenskou techniku. Podle dostupných
+[19:17] informací by spolupráce
+[19:19] měla zahrnovat výrobu vozidel
+[19:21] a montažních celků v Německu,
+[19:23] zatímco klíčové zbraňové systémy,
+[19:25] včetně prvku
+[19:27] protivzdušné obrany
+[19:29] Iron Dome a budoucího
+[19:31] systému Iron
+[19:33] Beam by nadále vznikaly
+[19:35] v Izraeli.
+[19:38] Hurá, super, budou nový tanky.
+[19:40] Budou nový drony,
+[19:42] krásně. Včera, jak jsme se bavili,
+[19:44] o tom, že Rusové otestovali
+[19:46] Sarmat nebo Satan 2,
+[19:48] jsem mu taky říkal, jak jsem si říkal,
+[19:50] to je super, jak to poletí
+[19:52] a tak to z toho vylítne,
+[19:54] takhle těch 16 hlavic,
+[19:56] rozpětí 2000 metrů,
+[19:58] 2000 kilometrů,
+[20:00] pardon, rozpětí 2000 kilometrů,
+[20:02] takže to dokáže zničit
+[20:04] území České republiky,
+[20:06] kus Polska, kus Německa,
+[20:08] kus Rakouska a ještě Slovensko.
+[20:10] To je obrovský,
+[20:12] ty 2000 kilometrů rozpětí,
+[20:14] které mám k tomu,
+[20:16] že poslal ty rakety,
+[20:18] tak jsem si říkal,
+[20:20] je to super,
+[20:22] tak jsem si říkal,
+[20:24] to si musí člověk užívat,
+[20:26] jako ve filmu nebo v nějakých hřech,
+[20:28] jako kluci, když jsme si hráli s tankama
+[20:30] a s letadýlkama a tak dál.
+[20:32] Nakonec, když to uvidíte
+[20:34] ze zdola,
+[20:36] tak je to dobrý ještě,
+[20:38] i když, těžko říct,
+[20:40] když to uvidíte,
+[20:42] že to přilítlo,
+[20:44] když to uvidíte,
+[20:46] ty rakety,
+[20:48] to je paráda,
+[20:50] ta technologie,
+[20:52] to je skvělý.
+[20:54] V Německu teď Volkswagen,
+[20:56] to znamená lidové vozidlo,
+[20:58] tak lidové vozidlo
+[21:00] teď budou nějaké leopardy,
+[21:02] tanky,
+[21:04] nebo nějaké izraelské drony.
+[21:09] To bude teď nový
+[21:11] německý lidový vozidlo.
+[21:13] Podle německého magazínu Der Spiegel
+[21:15] neformálně zabývá možností,
+[21:17] že by bývalá kancelářka
+[21:19] Angela Merkelová mohla
+[21:21] v budoucnu
+[21:23] sehrát roli
+[21:25] zprostředkovatelky v případných jednáních
+[21:27] mezi Ruskem a Ukrajinou.
+[21:29] Diskuse zatím probíhají pouze v zákulisi
+[21:31] a nejsou součástí žádného
+[21:33] oficiálního diplomatického procesu.
+[21:35] No, takže,
+[21:37] tak Vladimir Putin nám řekl,
+[21:39] že by to mohl mít Gerhard Schröder,
+[21:41] třeba bývalý německý kancelář.
+[21:43] Angela Merkelová nastoupila hned po něm.
+[21:45] Ona si taky užila ten nejvyšší
+[21:47] ekonomický rozvoj Německa,
+[21:49] tak jak to vytvořil Gerhard Schröder
+[21:51] společně s Ruskem, který odkud dostával
+[21:53] levné energie.
+[21:55] Akorát, že Angela Merkelová stála
+[21:57] na té druhé straně. Schröder stál
+[21:59] na té straně toho budování
+[22:01] a toho vrcholu, že se tam dostal.
+[22:03] Angela Merkelová taky stála na tom vrcholu,
+[22:05] ale poslala Německo do ekonomické
+[22:07] cesty dolů.
+[22:09] Především s tím,
+[22:11] že říkala
+[22:13] Německa
+[22:15] x set tisíc, respektive
+[22:17] x milionů uprchlíků
+[22:19] ze Syrie, z Afganistánu,
+[22:21] z Eritreji a nevím odkud všude.
+[22:23] Takže ta nastartovala ten kolaps
+[22:25] Německa, německé ekonomiky.
+[22:27] A to, že by teďko...
+[22:29] Samozřejmě, když
+[22:31] přijde Evropská unie s tím, že
+[22:33] pošle Angela Merkelovou,
+[22:35] tak si myslím, že Vladimir Putin
+[22:37] bude akceptovat to, že se Evropská unie
+[22:39] rozhodla pro Angela Merkelová.
+[22:41] Ale nemyslím si, že to je úplně
+[22:43] dobrý nápad, protože Angela Merkelová
+[22:45] už podvedla jednou Ruskožovou
+[22:47] to v
+[22:49] Minských dohodách, kdy
+[22:51] později uvedla, že v podstatě šlo o to,
+[22:53] aby Ukrajina získala čas, aby
+[22:55] se mohla vyzbrojit. Takže posílat
+[22:57] Angelu Merkelovou prostě si myslím, že není
+[22:59] dobrá strategie. Ale je zajímavý,
+[23:02] že jak to napadlo
+[23:04] toho Vladimiru Putinu, že by to byl bývalý
+[23:06] německý kancléř, tak najednou se mluví
+[23:08] o dalším bývalém německém
+[23:10] kancléřovi. Ono se mluví ještě o jednom
+[23:12] dalším politikovi, nezpomínám si na
+[23:14] jeho jméno, on je
+[23:16] v Evropské unii, že by mohli jet
+[23:18] on a Šréder dohromady, takže
+[23:20] o tom se teď jedná, to máme samozřejmě
+[23:22] politici těžkou hlavu, kdo by
+[23:24] měl jít jednat s Ruskem,
+[23:26] vyjednává bezpečnostní architekturu,
+[23:30] až bude na to ten správný čas,
+[23:32] ona ta válka postupuje, že
+[23:34] dneska už měli Slováci trošku
+[23:36] problémy, takže
+[23:38] uvidíme. Vypadá to, že by se to
+[23:40] mohlo brzo stát, že bude Evropská unie,
+[23:42] jednat s Ruskem na téma
+[23:44] na téma toho, jak bude
+[23:46] vypadat dál ta bezpečnostní architektura.
+[23:48] Dneska jsem taky slyšel,
+[23:50] to jsou ale takový drby,
+[23:52] takový drby, někde někdo říkal,
+[23:54] že Evropa
+[23:56] spadne pod Rusko, od Lisabonu
+[23:58] až po hledivost, takže to bude
+[24:00] všechno ruský
+[24:02] pod zprávou Ruska. Už jsem to slyšel asi
+[24:04] před rokem a půl od jednoho mojho známého,
+[24:06] který pracuje v parlamentu, který
+[24:08] taky říkal, že se proslýchá, že by
+[24:10] minimálně část
+[24:12] Evropy měla být pod ruskou zprávou,
+[24:14] tak, jak to bylo pod druhý světový lánce.
+[24:16] Uvidíme, mně připadá, že
+[24:18] je jako těžko si to někom představit, že by
+[24:20] Česká republika spadla pod rusko,
+[24:22] pod ruskou zprávu politickou.
+[24:24] Na druhou stranu prostě
+[24:26] možný je len, což ty věci se strašně rychle
+[24:28] mění, my jsme opravdu maličká země
+[24:30] a ty mocnosti se vždycky
+[24:32] rozajerají a domluvíme
+[24:34] mimo nás, takže
+[24:36] uvidíme, už jsme zažili x zrad
+[24:38] od západních spoleňců, takže
+[24:40] kdyby teď mám Francii a Británii
+[24:42] a Německo, řekli bych, jo OK, tak rusové
+[24:44] vy si nechte Českou republiku
+[24:46] a Češi by to považovali za sradu ze západu,
+[24:48] tak bych se tomu vůbec nedíval, že by se něco takového
+[24:50] mohlo opět městat. Už jsme koneckonců
+[24:52] docela vyždívaní.
+[24:54] No, na druhou stranu nás vlastní
+[24:56] ten západ má tady ty samou obsluhy
+[24:58] a má tady ty očkovací
+[25:00] centra, no nevím, těžko říct.
+[25:02] Jsou to zatím jen spekulace. V kterém případě
+[25:04] to, kdo bude jednat s
+[25:06] Ruskem za Evropskou unii, se zatím neví.
+[25:08] Zatím se to řeší.
+[25:12] To je taky docela zajímavá zpráva.
+[25:14] Podle BBC prošlo britskými vodami
+[25:16] od března nejméně 184
+[25:18] tankerů přepravujících
+[25:20] Rusko-Europu,
+[25:22] na které se stavují sankce
+[25:24] a uskutečnil se celkem 238
+[25:26] plaveb, aniž
+[25:28] by byli zadrženi. Analýza zároveň
+[25:30] uvádí, že neexistují důkazy
+[25:32] o tom, že by britské úřady na některé
+[25:34] z těchto lodí nastoupily, přestože
+[25:36] vláda dříve slíbila tvrdší
+[25:38] postup proti ruskému
+[25:40] stínovému lodstvu.
+[25:42] Neuvěřitelný. BBC
+[25:44] píše takovýhle článek
+[25:46] British Broadcast.
+[25:48] Rusové tam
+[25:50] plavou jak je a vozí tam ropu
+[25:52] a prodávají tam po stovkách tankerů
+[25:54] ropu. Neuvěřitelný.
+[25:56] Ani nevím, co k tomu říct.
+[26:00] K nám nesmí
+[26:02] ani operní pěvkyně, ne?
+[26:04] No, nesmí.
+[26:07] Netrebko má zákaz.
+[26:09] A dokonce ani
+[26:11] ruskou zmrzlinu snad se nesmí prodávat, ne?
+[26:13] No, ona se to jmenuje
+[26:16] nějak jinak. Už se to nemenuje
+[26:18] ruská zmrzlina, ale nějak jinak.
+[26:20] A v Německu
+[26:22] 9. května zákaz
+[26:24] sovětských vlajk, ale u nás taky myslím, že
+[26:26] v Písku, že jim sundali sovětskou vlajku, že jo?
+[26:28] No, ale oni sundali, jako to jim
+[26:30] nařídili, sundat tu sovětskou vlajku
+[26:32] a tak oni sundali tu americkou.
+[26:34] Ale proč jim nařídili
+[26:37] sundat sovětskou vlajku, když nás osvobodil
+[26:39] sovětský svaz? To je prostě pro mě
+[26:41] úplně neuvěřitelný, jak
+[26:43] prostě se může ta země dostat
+[26:45] z celkem svobodný země,
+[26:47] jako to bylo v roce
+[26:49] 2015, 2014, 2012, 2013
+[26:51] a touhle dobou byla Česká republika
+[26:53] docela svobodná země, teda prolezla
+[26:55] korupcí strašně,
+[26:57] ale docela svobodná země. A dneska
+[26:59] jako, prostě jako se nemůže
+[27:01] ani oslavit vítězství druhé světové války,
+[27:03] to už je pro mě jako neuvěřitelné.
+[27:05] To je neuvěřitelné, jak si to lidé nechají
+[27:07] tu svobodu vzít,
+[27:09] jak se bojí.
+[27:11] Neuvěřitelné pro mě. Nebo dělají, že jim je
+[27:13] to jako funk, že to nevidí.
+[27:15] Neuvěřitelné, jak můžou nechat jako
+[27:17] ty vládní struktury, aby jim
+[27:19] dělali prostě takovouhle šikanu.
+[27:21] Jak je to možný?
+[27:23] To je taky dneska, jak jsme byli
+[27:25] na té konferenci na téma
+[27:27] sovjetografinický lancmannschaft,
+[27:29] tak tam ten poslanec taky povídal pořád, no musíte
+[27:31] pochopit, že vláda Andrije Babiše
+[27:33] je tady teprve od prosince,
+[27:35] to všechno Petr Fiala,
+[27:37] Petr Fiala, no tak jako vládnem nebo
+[27:39] nevládnem? Jako pořád se schováváme
+[27:41] za Petra Fialu.
+[27:43] Tady máme šéfa BIS
+[27:45] koudelku, no tak sakra vládnem
+[27:47] nebo nevládnem? Prezidentovi
+[27:49] nechtějí povolit ani to, aby dělal
+[27:51] to, co mu ústava nařizuje,
+[27:53] ale jakmile je o něco, co vláda neudělá,
+[27:55] nebo parlament, ne, ne, ne,
+[27:57] to je, za to všechno může Petr Fiala
+[27:59] a jeho vláda. Neuvěřitelné.
+[28:01] Neuvěřitelné.
+[28:03] Takže to máme...
+[28:10] No jo, určitě.
+[28:12] V Latišsku se rozpadla
+[28:14] vládní koalice. Politické strany,
+[28:16] které dosud tvořily kabinet,
+[28:18] ukončily spolupráci kvůli roztoucím
+[28:20] sporům o klíčové otázky domácí
+[28:22] i zahraniční politiky.
+[28:24] Podle místních médií se napětí v koalici
+[28:26] dlouhodobě zvyšovalo, zejména
+[28:28] v souvislosti s rozpočtovou politikou,
+[28:30] sociálními reformami
+[28:32] a přístupem k bezpečnostním otázkám
+[28:34] v kontextu války
+[28:36] na Ukrajině. Premier
+[28:38] nyní čelí tlaku na sestavení
+[28:40] nové většiny, případně
+[28:42] na předčasné volby. Další
+[28:44] postup má být jasnější pojednání
+[28:46] prezidenta s parlamentními stranami.
+[28:48] No, tak ano.
+[28:50] Takže tak mají trošičku problém
+[28:52] s těmi drony, které létají do Ruska
+[28:54] a z Ruska, takže ministr
+[28:56] obrany podal rezignaci
+[28:58] desátého, teď se to tam
+[29:00] stupňuje. Těžko říct, jako neznám
+[29:02] tu politickou situaci tam přesně,
+[29:04] ale prostě jsou to dvě věci. Buď to tam
+[29:06] někdo má strach, anebo
+[29:08] se tam někde dějou nějaký
+[29:10] byznysy ve zbraních,
+[29:12] kde někdo někomu leze do zelí.
+[29:14] Koneckonců ale ta vláda má několik měsíců
+[29:16] do vládnutí, takže
+[29:18] to, že ten ministr obrany rezignoval,
+[29:20] může být spoustu, spoustu důvodů. Jako
+[29:22] třeba náš ministr spravedlnosti copral
+[29:24] miliardy přes bitcoiny
+[29:26] nějakých špinavých peněz,
+[29:28] tak tenhle ministr obrany taky může už
+[29:30] utíkat někam, protože ví, co se tam
+[29:32] stalo s penězma. Nebo má
+[29:34] strach z toho, co se bude dít o tu
+[29:36] zemi, nechce mít odpovědnost za to, že zatáhne
+[29:38] svoji zemi do války s Ruskem.
+[29:40] Nebo mu jde po krku nějaká
+[29:42] mafie, protože chce, aby podepsal
+[29:44] nějakou předraženou zakázku z
+[29:46] Američany, to prostě těžko říct.
+[29:48] Něco se tam takového děje.
+[29:50] V každém případě budou vol, pár
+[29:52] měsíců dřív volby možná, možná ani
+[29:54] ne. No, přál bych
+[29:56] si, aby, víte, přál bych si,
+[29:58] aby prostě ve všech zemích, tak jak
+[30:00] se podařil ten podvod ve všech
+[30:02] zemích, že lidi si myslí, že mají ve vládách
+[30:04] někoho, kdo je vlastně zastupuje, kdo je najednou
+[30:06] ten skvělej, na to pořád čto
+[30:08] na těch sociálních sítích. Teď máme konečně
+[30:10] ministra zahraničí, který je skvělej.
+[30:12] On jede 8. května do Německa,
+[30:14] 9. května dá na svůj
+[30:16] Facebook německou písničku
+[30:18] a video
+[30:20] ze svojí návštěvy v Německu, a lidi
+[30:22] píšou, jak je skvělej, tam lipány,
+[30:24] ten bod špatný, a vy jste skvělej, vy jste
+[30:26] nejlepší ministr zahraniční věcí.
+[30:28] Tak prostě mě to hlava nebere.
+[30:30] Byl bych rád, kdyby se ty národy
+[30:32] probraly, kdyby si uvědomili,
+[30:34] že jim jde o životy
+[30:36] a vlastně o všechno, že ta politika
+[30:38] řídí to, jak máme drahý rohlíky
+[30:40] a jestli nás budou brát
+[30:42] do války nebo ne. Moje manželka, včera
+[30:44] když jsme se bavili o té situaci, jak říkala,
+[30:46] říkal jsem, podívej se, jak
+[30:48] nás devastuje ekonomicky, jak je to hrozný,
+[30:50] prostě jak nám zlikvidovali ekonomiku, jak nás
+[30:52] ekonomicky devastuje. A ona říkala,
+[30:54] jo, to bude pokračovat
+[30:56] a nakonec lidi budou rádi, že je nevezmou
+[30:58] na frontu. A jsem si uvědomil,
+[31:00] tohle je přesně na Ukrajině. Na Ukrajině
+[31:02] to dotáhli tak daleko, za těch pár let,
+[31:04] že jsou lidi rádi,
+[31:06] že se zvládnou vyhnout tomu, aby je
+[31:08] vzali chybně a odvezli na frontu.
+[31:10] Takhle jsou na tom špatně.
+[31:12] No, takže
+[31:14] mě by, samozřejmě bych si
+[31:16] přál, kdyby se ve všech zemích stalo
+[31:18] to, že se lidi proberou,
+[31:20] uvědomí si, co se děje, aby se dali
+[31:22] dohromady a aby do drčela státu
+[31:24] zvolili ne mafiánský
+[31:26] politiky, který jsou nalepený
+[31:28] na mafiánský struktury,
+[31:30] ale prostě obyčejní lidi, kteří by tam udělali
+[31:32] pořádek. A obvykle se to
+[31:34] stává po velkých válkách, takže
+[31:36] máme šanci. A nevím,
+[31:38] kolik nás bude v České republice, nebo jak to bude
+[31:40] probíhat, ale máme šanci po velký
+[31:42] válce prostě lidi vždycky si
+[31:44] uvědomit, že už nemůžou si dívat
+[31:46] na ty mafiánský
+[31:50] na konci to vede k válce, to jsou cykly.
+[31:52] Po válce vždycky lidi
+[31:54] budují zemi společnýma
+[31:56] silama a potom
+[31:58] přijde to, že se začnou oddělovat
+[32:00] chudí a bohatí,
+[32:02] pak si lidi začnou žít trošku dým, tak se
+[32:04] přestanou věnovat politice, do politiky se
+[32:06] nahrnou ty největší zločinci,
+[32:08] ty začnou postupně rozkrádat tu zemi,
+[32:10] ovládat ničový pozice
+[32:12] a když jsou hodně silný,
+[32:14] tak začnou dělat tu korupci takovým způsobem, že
+[32:16] na to obyčejný člověk nemá vliv
+[32:18] a nakonec dělají tu korupci takovým způsobem,
+[32:20] že se dostanou k tomu, co je nejvíc
+[32:22] ekonomický a to jsou zbraně.
+[32:24] Zbraně dělají největší peníze, protože
+[32:26] prostě tam se utrkají co nejvíc peněz
+[32:28] z těch zbraní, to jsou opravdu velký věci
+[32:30] a lidi už se neodváží
+[32:32] potom, protože už je to tak daleko, už se
+[32:34] proti tomu neodváží říct ani půl slova,
+[32:36] protože už jde o život.
+[32:38] A nakonec se to dostane tak daleko,
+[32:40] že se to dostane do války, protože
+[32:42] ty struktury obchodní,
+[32:44] ty mafiánský struktury, který ovládnou
+[32:46] tu společnost, už jsou tak silný,
+[32:48] že prostě jdou proti jiný zemi a už jdou
+[32:50] krát, už si prostě
+[32:52] už nemají brzdy žádný hranice,
+[32:54] takže táhnou tu zemi do války
+[32:56] a z těch lidí, který
+[32:58] předtím jim říkali, co
+[33:00] mají dělat, tak když se to změní ten
+[33:02] poměr té vlády a ty
+[33:04] mafiánský struktury ovládnou tu společnost,
+[33:06] tak ty mafiánský struktury si potom
+[33:08] z těch lidí udělají svoje vojáky,
+[33:10] který pošlou válčit, aby jim
+[33:12] šli získávat peníze a bohatství.
+[33:14] A tohleto je koloběh, který se
+[33:16] ve společnostech děje, takže
+[33:18] až ta válka proběhne, tak pak zase budou
+[33:20] mít příležitost obyčejný lidi, protože
+[33:22] budou rozničený země
+[33:24] a bude potřeba zase vybudovat zpátky tu
+[33:26] zemi a začít do těch obyčejných
+[33:28] věcí, jako stavět domy
+[33:30] a stavět bydlení pro lidi a
+[33:32] pěstovat jídlo a tak dále.
+[33:41] Z Spojených států schválil Kevina
+[33:43] Wershe jako nového
+[33:45] šéfa americké centrální
+[33:47] banky Federal Reserve.
+[33:49] Kevin Wershe byl
+[33:51] bývalý guberner FEDu,
+[33:53] patří mezi známy ekonomické
+[33:55] osobností ve Spojených státech.
+[33:57] Prezident Donald Trump
+[33:59] dlouhodobě kritizuje současného předsedu
+[34:01] FEDu, je Roma
+[34:03] Pavela a v minulosti
+[34:05] již naznačil, že by
+[34:07] ho chtěl odvolat kvůli
+[34:09] rozdobným názorům na měnovou politiku.
+[34:11] Když se
+[34:14] koukám na burzu, tak
+[34:16] vidím mírný pokles
+[34:18] procentu a půl
+[34:20] na Dow Jones, to není zas tak moc,
+[34:22] takže to
+[34:24] není nějaká, není to, nějak to
+[34:26] neotřáslo trhy, víc otřáslá
+[34:28] teďkon trhy, když Donald Trump vyhlásí otevřený
+[34:30] průliv a zavřený průliv
+[34:32] a tak dál. A je to
+[34:34] věc, kterou jsme čekali, že on
+[34:36] je docela konzervativní,
+[34:38] co se týče ekonomické politiky.
+[34:40] Není moc
+[34:42] co k tomu říct, prostě FED je FED
+[34:44] a bude ho řídit
+[34:46] jiný člověk. Donald Trump měl velmi
+[34:48] špatný vztahy s Jeromem Paulem,
+[34:50] takže si tam to posadil svýho
+[34:52] koně. Je to mladý člověk,
+[34:54] ze kterým Donald Trump vychází dobře.
+[34:56] To asi tak všechno, co
+[34:58] k tomu můžu říct, zatím uvidíme.
+[35:00] Tam to stejně řídí
+[35:02] úplně někdo jiný, než
+[35:04] tyhle ty
+[35:06] lidi, co mají ty výkonný funkce.
+[35:09] Jasně.
+[35:11] Nese hodně po sociálních sítěch,
+[35:13] kteří se těch příjířilo, že Slovensko
+[35:15] zavřelo hranice s Ukrajinou.
+[35:17] Tak jenom, abychom si to upřesnili.
+[35:19] Slovensko dnes krátce
+[35:21] uzavřelo hraniční přechody s Ukrajinou.
+[35:23] Opatření, které trvalo přibližně dvě
+[35:25] hodiny, bylo podle slovenských
+[35:27] úřadů zavedenou z bezpečnostní důvodu
+[35:29] v souvislosti se zhoršenou
+[35:31] situací na ukrajinské straně hranice.
+[35:33] Podle slovenské finanční správy
+[35:35] byly přechody uzavřeny
+[35:37] kolem 15. hodiny a následně znovu
+[35:39] byly uzavřeny přibližně po
+[35:41] 17. hodině. Slovenská
+[35:43] policie uvedla, že situace
+[35:45] na hranicích už je nyní stabilní.
+[35:49] A to mě se vždycky líbí,
+[35:52] jak jenom někdo napíše
+[35:54] Slovaci zavřeli hranice. Hurá, hurá,
+[35:56] pojďme taky.
+[35:58] Ne, tak to bylo kvůli tomu, že Rusové
+[36:00] dneska podnikli masivní útok
+[36:02] na užhorodskou oblast,
+[36:04] největší od začátku konfliktu.
+[36:06] Stále je tam 800
+[36:08] dronů, nebo to je to, co hlásí
+[36:10] Ukrajinci, že tam Rusové vyslali
+[36:12] 800 dronů. Byl bombardovaný
+[36:14] dokonce i Lvov.
+[36:16] Takže kvůli tomu Slováci,
+[36:18] protože jim tam lítaly ruský drony,
+[36:20] tak zavřeli na chviličku hranice, ale
+[36:22] to je to, co jsem říkal, že se přesouvá
+[36:24] ten konflikt čím dál tím víc na západ.
+[36:26] Slováci ty to pochopili mnohem dřív,
+[36:28] než my. Ty už v roce 23 dělali ty
+[36:30] mírový pochody. Když jsem viděl,
+[36:32] tak jsem byl nadšený, jak to tam tedy vychápou.
+[36:34] V České republice pořád ne.
+[36:36] V České republice pořád otvírají to
+[36:38] lány na drony a na zbraně.
+[36:40] Češi jsou nesmrtelní,
+[36:42] prostě.
+[36:47] Tak to je všecko, Zuzko?
+[36:49] Dneska je okluková sezóna tím, že
+[36:51] je Donald Trump v Číně, tak
+[36:53] se všechno soustředilo tam.
+[36:55] Ale to byla od nás
+[36:57] poslední zprávička.
+[36:59] No tak aspoň máme přehled na tom,
+[37:01] co se děje. Děkujeme ti, Zuzko,
+[37:03] za zprávy a těšíme se
+[37:05] asi na zítra na zprávy.
+[37:07] Přejeme vám, máme tady
+[37:09] nějaký, máme tady nějaký
+[37:12] ještě dotaz?
+[37:14] Možná se zítra dovíme něco
+[37:16] víc z tý Číny a z
+[37:18] Bukurešti, nějaký zajímavý informace.
+[37:20] Jo, jo, jo.
+[37:22] Jo, jinak dneska jsme měli docela
+[37:24] docela hezkou konferenci
+[37:26] na svou televizi.
+[37:28] Byly tam dva poslanci, jeden ze SPD,
+[37:30] Josef Nerušil,
+[37:32] druhý z ANO,
+[37:34] Petr Novák, nebo jak se jmenuje?
+[37:36] Jo, Petr Novák.
+[37:38] Petr Pavel, myslím, ale.
+[37:40] Petr Novák.
+[37:42] Jak?
+[37:44] Pavel Novák.
+[37:46] A Pavel Novák, jo.
+[37:48] Neznal jsem ho, viděl jsem ho dneska
+[37:50] poprvé, plus tam byl
+[37:52] předseda Národní demokracie,
+[37:54] on zasedláček, byla tam předsedně
+[37:56] Mírova fora, doktorka Vítová,
+[37:58] na chviličku přišel doktor Sládek,
+[38:00] který se trošičku rozčílil, když viděl
+[38:02] poslance ze SPD. Nevím, jestli
+[38:04] byl odejít, nebo jestli odešel, to nevím,
+[38:06] ještě musím zjistit.
+[38:08] Kdo tam ještě byl? Byl tam,
+[38:10] Adam.
+[38:12] Marek Adam tam byl,
+[38:14] který chvilkuje s komunistama,
+[38:16] chvilku ne, chvilku, no,
+[38:18] okej. A Suchopár.
+[38:20] A pan Suchopárek,
+[38:22] pan Suchopár tam byl.
+[38:24] Pan Suchopár tam byl,
+[38:26] který
+[38:29] organizuje vlastně ty záležitosti
+[38:31] okolo, tu první demonstraci dělal
+[38:33] okolo Světo-Německého Landsmannschaftu,
+[38:35] kam mě pozval, abych tam vystupoval,
+[38:37] nebo to bylo nějaké vysílání,
+[38:39] a pak bylo, že se strašně omluvám,
+[38:41] že mu to strašně blbí, že tam vystupovat nemůžu,
+[38:43] protože tam byl nějakej člověk s ním,
+[38:45] kterej řekl vrabel ne,
+[38:47] tak ten tam, tak ten tam dneska
+[38:49] byl, kdo tam byl ještě?
+[38:51] No nikdo už, jmenoval si všechny.
+[38:53] Jo, tak to byla
+[38:55] docela zajímavá diskuze, asi hodinku a půl
+[38:57] nebo dvě hodinky, tak kdyby vás to zajímalo,
+[38:59] můžete na to juknout.
+[39:01] Pan poslanec z vládní strany,
+[39:03] ano, mi svato svatěství
+[39:05] byl ve veřejném vysílání,
+[39:07] že se pokusí
+[39:09] promluvit s ministrem vnitra,
+[39:11] jakým způsobem prohlásit
+[39:13] sudetu Německý Landsmannschaft
+[39:15] za extremistickou organizaci,
+[39:17] ale neslíbil mi, že to udělá
+[39:19] v parlamentovníkom vědnání, přestože jsem na něj
+[39:21] tlačil, tak to nepřislíbil,
+[39:23] ale slíbil, že
+[39:25] promluví s ministrem vnitra, že na poslaneckém
+[39:27] klubu to budou řešit a tak dále, takže
+[39:29] trochu se nám podařilo poposunout dál
+[39:31] tu myšlenku, aby se
+[39:33] sudetu Německý Landsmannschaft v České republice
+[39:35] prohlásil za extremistickou organizaci
+[39:37] a později zakázala jeho činnost, tak uvidíme,
+[39:39] jak bude plnit
+[39:41] svůj slib pan poslanec.
+[39:43] Koukněte na to.
+[39:45] Tak to je všecko, přátelé, mějte se krásně,
+[39:47] přeju vám krásný
+[39:49] zbytek večera 23, takže máte
+[39:51] ještě spoustu noci,
+[39:53] ještě toho spoustu stěhnete a zítra
+[39:55] naviděno. Zuzko, tobě díky za zprávy.
+[39:57] Krásný večer všem.
