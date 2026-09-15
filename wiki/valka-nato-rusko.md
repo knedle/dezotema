@@ -1073,7 +1073,25 @@ Podle agentury TASS by Steve Witkoff a Jared Kushner měli o víkendu navštívi
 
 **9. 9.** — Podle deníku Financial Times se šéf CIA John Ratcliffe chystá převzít větší roli v jednáních Washingtonu s Ruskem a Ukrajinou, zatímco Bílý dům zvažuje omezit angažovanost zvláštních vyslanců Witkoffa a Kushnera; Ratcliffe má zároveň dál udržovat kontakty s tajnými službami obou válčících zemí. Vrabel to komentuje jako zajímavý, ale zatím nejasný posun bez vlastního výkladu.
 
-**Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+**10. 9.** — Mluvčí Bílého domu Anna Kellyová zprávu Financial Times popřela: žádné změny se neplánují, Trump nadále důvěřuje Witkoffovi a Kushnerovi, a Financial Times článek zveřejnil dřív, než Bílý dům mohl reagovat na jeho dotazy (Trump list označil za „bulvár"). Vrabel to interpretuje jako útok na Witkoffa od proukrajinské skupiny, která si s ním (na rozdíl od jeho dobrých vztahů s Lavrovem a Putinem) nepřeje pokračování mírových jednání.
+
+**Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026), [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
+### Trumpovo vysvětlení války „osobní nevraživostí" Putina a Zelenského jako „rétorika pro primitivy" (Vrabel, 10. 9. 2026)
+
+K vyjádření Donalda Trumpa, že hlavní překážkou mírové dohody je osobní nevraživost mezi Vladimirem Putinem a Volodymyrem Zelenským, Vrabel odmítá tento rámec jako zavádějící „rétoriku pro primitivy" — analogický k narativu, že za válkou stojí Putinova osobní diktátorská povaha. Souhlasí s Trumpem jen v tom, že Putin dohodu chce, ale zdůrazňuje, že Rusko usiluje o tutéž dohodu už od minských jednání (2014–2015): zajištění práv ruskojazyčného obyvatelstva Ukrajiny (jazyk, kultura, náboženství) a absence vojenského ohrožení Ruska — pokud by tyto podmínky byly splněny diplomaticky, „speciální vojenská operace" by nebyla nutná; pokud ne, Rusko je dosáhne vojenskou cestou. Opakuje Lavrovovo varování, že případná válka s Evropou (na rozdíl od „opatrné" operace na Ukrajině, šetřící „slovanské bratry") by byla vedena bez omezení a mohla by vést ke zmizení až 80 % evropské populace — sám ale pochybuje, že by taková válka byla „velmi krátká", jak Lavrov tvrdí, protože zoufalé evropské elity budou tlačit na mobilizaci celého kontinentu.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
+### V4 summit v Bratislavě — Tuskovo varování od CIA a Babišovo nadšení z „obnovené" V4 (Vrabel, 10. 9. 2026)
+
+Na jednání zemí Visegrádské skupiny v Bratislavě (za účasti irského premiéra Michaela Martina) polský premiér Donald Tusk uvedl, že od šéfa CIA Johna Ratcliffa obdržel „poměrně přesnou zprávu" o možném vývoji v nadcházejících měsících a že Polsko i celá Evropa musí být připraveny na „různé scénáře"; zároveň oznámil, že Polsko s Ukrajinou odvrátilo ohrožení jednoho z hraničních přechodů a varoval před dalšími ruskými „provokacemi". Andrej Babiš po jednání vyjádřil nadšení z „obnovené silné V4". Vrabel obojí komentuje sarkasticky: Tuskovo vágní „varování o scénářích" považuje za prázdnou frázi sloužící k ospravedlnění dalšího zbrojení, a samotnou dnešní V4 popisuje jako sestavu poslušných „unijních poskoků" (Babiš, maďarský premiér Péter Magyar) plus Donalda Tuska („jeden z největších válečných štváčů") — jediným ještě „přijatelným" politikem v ní je dle něj slovenský premiér Robert Fico, o jehož politickém přežití ale pochybuje.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
 
 ---
 

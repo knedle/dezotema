@@ -705,3 +705,13 @@ V návaznosti na téma Kosova (viz [Válka, NATO a Rusko](valka-nato-rusko.md#ko
 Ke zprávě, že v anglickém hrabství Essex budou v azylových centrech (Wethersfield, kapacita se má zvýšit z ~800 na 1245, max. 1700 osob) nově působit soukromé bezpečnostní hlídky (Operation Vanguard) kvůli obavám místních, zejména žen, z každodenních přesunů skupin migrantů do okolních měst, Vrabel čerpá z vlastní roční zkušenosti života v Británii. Tvrdí, že země je „zislamizovaná" (starostové největších měst, včetně Londýna, jsou muslimové) a že v Británii operuje na 400 paralelních islámských soudů podle práva šaría vedle britského soudního systému (od článku, který sám překládal kolem roku 2010). Islamizaci popisuje jako opakující se historický vzorec podle vzoru Mohameda v Medíně (postupné etablování, pak převzetí moci a vyvraždění odporu) — u 5 % muslimské populace v zemi prý začíná tlak na zavedení práva šaría, u 20 % dochází k plnému obratu země na islámskou; jako příklady uvádí Kosovo (vyhnání původního obyvatelstva), Sýrii a Egypt (90. léta „harmonie" vystřídané „brutálními čistkami" křesťanů). Cituje video, kde muslimští migranti oznamují obyvateli domu (podle Vrabela možná Židovi), že barák „dostanou" — ne dnes, ale časem. Uzavírá, že totéž čeká i ČR, pokud neuzavře hranice a nevystoupí z EU, a opakuje tezi, že vláda migrační pakt fakticky neodmítla, protože nepodnikla žádné kroky k vyloučení ČR z jeho vymahatelnosti.
 
 **Zdroje:** [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026)
+
+---
+
+### Německo chce Ukrajině předat data o ukrajinských uprchlících (Vrabel, 10. 9. 2026)
+
+Německý ministr zahraničí Johann Wadephul se podle Vrabela vyjádřil ve zprávách v tom smyslu, že se pokusí zajistit Ukrajině data o tom, kteří ukrajinští uprchlíci se nacházejí v Německu. Vrabel to čte jako signál, že podobně jako ukrajinské jednotky TCK a v poslední době i policie „loví" mobilizační věkové ročníky přímo na Ukrajině, totéž by se mohlo rozšířit i do Německa vůči tam žijícím Ukrajincům — což vnímá jako důkaz, že Ukrajině dochází vojáci a Evropa jí v hledání dalších pomáhá.
+
+⚡ **Poznámka:** Přesné znění a kontext vyjádření Johanna Wadephula nelze z přepisu ověřit.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)

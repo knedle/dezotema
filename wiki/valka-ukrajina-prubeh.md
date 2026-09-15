@@ -766,7 +766,9 @@ Předseda Evropské rady António Costa dvakrát zavolal do Ruska kvůli možný
 
 Po měsících sporu o to, kdo bude za Evropu vyjednávat s Ruskem (viz [Boj o vyjednavače EU–Rusko, 9. 6.](#boj-o-vyjednavače-eurusko-schröder-lídři-vs-struktury-eu-vrabel-9-6-2026)), padlo rozhodnutí: Německo, Británii a Francii. Vrabel u každého ze tří zástupců zdůrazňuje osobní vazby na globalistické finanční struktury: Friedrich Merz (Německo) je bývalý předseda představenstva BlackRock Deutschland — firmy, která má od roku 2022 spravovat poválečnou obnovu Ukrajiny; Emmanuel Macron (Francie) dříve pracoval pro banku rodiny Rothschildů; britského zástupce spojuje s tím, že Británie díky islamizaci velkých měst (muslimští starostové) fakticky reprezentuje „muslimskou Evropu", a že to byl právě britský premiér, kdo v dubnu 2022 zmařil rozjednanou mírovou dohodu přesvědčením Zelenského, aby ve válce pokračoval. Ani jeden z menších/středních států (Španělsko, Itálie, Polsko, Balkán) podle Vrabela zastoupen nebude. Z toho vyvozuje, že jednání povedou výhradně „anglosasové" hájící zájmy globalistických struktur, ne zájmy „Slovanů" — odkazuje na starší tezi Štefana Harabína (leden 2023), že anglosaské mocnosti systematicky vyvolávají konflikty mezi slovanskými národy.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 16. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026)
+**10. 9.** — Vrabel tutéž tezi opakuje obecněji: evropští politici (jmenuje znovu Merze jako bývalého šéfa BlackRock Deutschland, i Macrona kvůli manželčině vzhledu) podle něj nejednají z vlastní vůle, ale na příkaz „chazarských elitářských rodin", které usilují o dlouhodobé ekonomické zeslabení a etnické promíchání Evropy prostřednictvím migrace a války — beze změny oproti 16. 8.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 16. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-16-8-2026), [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
 
 ---
 
@@ -1101,3 +1103,13 @@ K probíhajícím jednáním Witkoffa a Kushnera v Moskvě Rajchl tvrdí, že sk
 Vrabel referuje zprávu, že ukrajinský dron zasáhl průmyslové zařízení v ruském městě Nový Urengoj (Jamalsko-Něnecký autonomní okruh) — vzdáleném zhruba 2800 km od ukrajinských hranic — kde po útoku vypukl požár; podle guvernéra oblasti nebyl nikdo zabit ani zraněn. Ruský prezidentský zmocněnec uvedl, že dron se pokusil zasáhnout energetické zařízení v oblasti. Bez vlastního komentáře.
 
 **Zdroje:** [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+---
+
+### Dron u Zelenského letadla cestou na pohřeb norského krále — pochybnosti o autenticitě (Vrabel, 10. 9. 2026)
+
+Norský premiér Jonas Gahr Støre bez podrobností uvedl, že letadlo s Volodymyrem Zelenským málem zasáhl dron při úterním odletu z Moldavska do Norska (cesta na pohřeb zesnulého krále Haralda V.) — zdroj z kanceláře Zelenského výrok zlehčil jako obecný letecký poplach bez skutečného ohrožení, Moldavsko incident popírá. Vrabel k tomu jen letmo poznamenává, že to považuje za možnou snahu Zelenského upoutat pozornost na sebe a médií mít „zajímavý titulek", bez dalšího rozvíjení. Doplňuje pozorování, že komentáře pod českými zpravodajskými články k tématu byly téměř výhradně ve stylu „škoda, že ho to netrefilo" — což čte jako důkaz, že v ČR už není nikdo, kdo by Zelenskému fandil (viz i navazující pozorování o cenzuře komentářů níže).
+
+⚡ **Poznámka:** Incident ani jeho zlehčení Zelenského kanceláří nelze nezávisle ověřit.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)

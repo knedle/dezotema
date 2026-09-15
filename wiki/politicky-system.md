@@ -1143,3 +1143,19 @@ V televizní debatě reaguje Rajchl na kritiku svého rozpočtového hospodařen
 > „Je to prostě k smíchu." — Jindřich Rajchl, [Videoportál 9. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
 
 **Zdroje:** [Rajchl — Videoportál, 9. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
+
+---
+
+### Trumpova "dividenda" 5000 dolarů voličům republikánů jako úplatek a rozklad demokracie (Vrabel, 10. 9. 2026)
+
+Vrabel reaguje na Trumpův slib, že pokud republikáni v listopadových volbách udrží kontrolu nad Kongresem, dostane každý dospělý Američan jednorázově 5000 dolarů (tzv. „Trumpova dividenda", odhadované náklady přes 1 bilion dolarů, financování nespecifikováno; viceprezident Vance naznačil, že nejbohatší by platbu nemuseli dostat). Vrabel to označuje za přímý útok na demokratický systém — volby mají být rozhodováním na základě volebních programů, ne slibem hotovostní platby podmíněné výsledkem voleb, kterou navíc zaplatí sami daňoví poplatníci z veřejného rozpočtu (ne Trump ze svého). Přirovnává to k přímému kupování hlasů a navrhuje za to Trumpovi trest v podobě nucených prací (elektronický kotník, zametání ulic), nikoli vězení. Rozlišuje to od legitimních politických slibů (např. zvýšení důchodů) tím, že podmínka „volte nás a dostanete peníze" je bezprostřední úplatek, ne systémová změna prosazovaná v rámci volebního programu.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
+### Novela stavebního zákona rozšiřuje vyvlastňování ve prospěch soukromých investorů (Vrabel, 10. 9. 2026)
+
+Poslanecká sněmovna po přehlasování Senátu schválila novelu stavebního zákona zjednodušující a urychlující povolování energetických staveb a infrastruktury (Senát ji v srpnu odmítl jako problematickou). Vrabel upozorňuje na klíčovou změnu: možnost vyvlastnění majetku za náhradu, dříve vyhrazená jen pro skutečně veřejný zájem, se nově rozšiřuje i na velké soukromé investiční projekty (např. výstavbu obchodních komplexů nebo bytových domů) — vlastníci sice dostanou finanční náhradu, ale o nemovitost mohou přijít proti své vůli ve prospěch developerského záměru. Kontrastuje to s dřívější praxí (osobní zkušenost z zastupitelstva Českých Budějovic), kde město o odkup pozemků pro obchvat jednalo s majiteli garáží přes rok, aby se vyvlastnění vyhnulo. Zákon podporují podle Vrabela všechny parlamentní strany kromě hnutí ANO, protože jde o skupiny osobně propojené se stavebními zájmy ODS.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)

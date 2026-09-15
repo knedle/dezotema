@@ -590,3 +590,11 @@ Podle deníku Haaretz varoval prezident Spojených arabských emirátů izraelsk
 ⚡ **Poznámka:** Tvrzení o předchozím varování je citováno z jednoho zdroje (deník Haaretz), ne ověřeno nezávisle; interpretace jako „Pearl Harbor" i propojení s tezí o vlivu Chabad Lubavič jsou Vrabelovy vlastní spekulace.
 
 **Zdroje:** [Vrabel — Facebook Live 8. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+
+---
+
+### Írán předán Radě bezpečnosti OSN — Vrabel: předvolební divadlo pro Trumpa (10. 9. 2026)
+
+Rada guvernérů Mezinárodní agentury pro atomovou energii (23 z 35 hlasů) rozhodla předat íránský jaderný spis Radě bezpečnosti OSN pro dlouhodobou nespolupráci Teheránu při objasňování nálezů uranu na nedeklarovaných místech — otevírá to možnost nových sankcí, ač Írán svůj program označuje za mírový. Vrabel opakuje svou dlouhodobou tezi: Rusko a Čína (které mají v Radě bezpečnosti právo veta) tvrdí, že Írán svou dřívější dohodu plnil bezchybně a nemá vojenský jaderný program, zatímco západní většina v Radě guvernérů prosadila předání věci OSN, aby vytvořila politický a mediální tlak ospravedlňující dřívější americký útok na Írán před listopadovými volbami v USA. Předpokládá, že než se věc v OSN skutečně projedná, budou už americké volby za námi a Rusko s Čínou návrh v Radě bezpečnosti „smetou ze stolu" vetem — celé je to tedy podle něj jen „mediální příběh".
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)

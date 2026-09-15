@@ -795,3 +795,11 @@ Zítko sdílí a komentuje video, které dává do souvislosti vznik americké c
 ⚡ **Poznámka:** Tvrzení o zámyslu potopení Titanicu v souvislosti se založením Fedu je konspirační teorie bez historického podložení.
 
 **Zdroje:** [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026)
+
+---
+
+### Zatčení „klimatického extremisty" v Německu jako signál blížícího se rozpadu Západu a občanské války v Evropě (Vrabel, 10. 9. 2026)
+
+Německá policie zadržela v obytném voze 48letého muže s poznámkami vytipovávajícími přes 160 cílů útoků na elektrickou infrastrukturu — vyšetřovatelé jeho motiv spojují s odporem k fosilním palivům, v souvislosti se sérií sabotážních útoků na rozvodny v několika spolkových zemích. Vrabel to dává do souvislosti s rétorikou o „hoření planety" (zmiňuje předsedu Valného shromáždění OSN, který mluvil o „hořících lidech") a tvrdí, že podobná násilná radikalizace bude čím dál častější, protože se „západní systém" ekonomicky i řídicí rozpadá a snaží se udržet mocí formou „digitálního koncentráku" (digitální měna, kamery, sledování, umělá inteligence). Jako doklad uvádí zatčení Tomáše Hrdličky na demonstraci za nošení odznaku s písmenem „Z" a rostoucí protesty po celé Evropě (Řecko, Španělsko, Británie, Irsko) — s výjimkou ČR, kde plánuje totéž „napravit" veřejným shromážděním 3. 10.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)

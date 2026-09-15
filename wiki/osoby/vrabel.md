@@ -1053,6 +1053,35 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Migrace](../migrace.md) (pokrač. 18)
 - **9. 9.** — EU posílá 147 mil. eur Španělsku na migraci v Ceutě; opakovaný odkaz na Rotherham — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+- **10. 9.** — Německo (Wadephul) chce získat data o ukrajinských uprchlících v zemi — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 17)
+- **10. 9.** — Trumpova "dividenda" 5000 $ voličům republikánů jako volební úplatek a útok na demokracii — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+- **10. 9.** — novela stavebního zákona rozšiřuje vyvlastňování ve prospěch soukromých investorů — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 22)
+- **10. 9.** — Bílý dům popřel zprávu FT o omezení role Witkoffa/Kushnera na úkor Ratcliffa — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+- **10. 9.** — Trumpovo vysvětlení války "osobní nevraživostí" Putina a Zelenského odmítnuto jako rétorika pro primitivy; opakuje ruské mírové podmínky — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+- **10. 9.** — V4 summit v Bratislavě — Tuskovo varování od CIA/Ratcliffa, Babišovo nadšení z "obnovené" V4 — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 17)
+- **10. 9.** — dron u letadla Zelenského cestou na pohřeb norského krále Haralda V. — pochybnosti o autenticitě — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+- **10. 9.** — opakuje beze změny tezi o evropských politicích jako "marionetkách" globalistických elit (Merz/BlackRock, Macron) — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 14)
+- **10. 9.** — Westinghouse palivo v Temelíně — kritika "diverzifikace", výzva k odvolání ředitele ČEZ Beneše; překvapení z prorusky/protiukrajinsky laděných komentářů na Facebooku — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 12)
+- **10. 9.** — zatčení "klimatického extremisty" v Německu jako signál rozpadu Západu — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 13)
+- **10. 9.** — EU zvažuje zmrazení dotací Německu, pokud by AfD vytvořila vládu; Vrabel: Německo je na rozdíl od Maďarska čistým plátcem, vydírání by nefungovalo — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač. 7)
+- **10. 9.** — Írán předán Radě bezpečnosti OSN — předvolební divadlo pro Trumpa — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+### [Predikce](../predikce.md)
+- **10. 9.** — předpověď přicházející občanské války v Evropě — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
 
 ---
 
@@ -1485,6 +1514,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Petro Porošenko | ❌ negativní | Citován výrok, že ukrajinské děti budou chodit do „čistých" ukrajinských škol, zatímco Rusové budou „někde ve sklepích" — dokládá dle Vrabela, že Ukrajina neumí zajistit práva vlastním obyvatelům | 2026-09-09 | [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026) |
 | Sergej Lavrov | ○ neutrální | Varuje, že útok Evropy na Rusko by vedl k „velmi krátké" válce, na rozdíl od pomalé speciální operace na Ukrajině, kde Rusko šetří „slovanské bratry" | 2026-09-09 | [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026) |
 | Edi Rama | ❌ negativní | Albánský premiér — protesty proti Kushnerovu realitnímu projektu se rozšiřují do širšího protivládního hnutí proti jeho vládě | 2026-09-09 | [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026) |
+| Donald Trump | ❌ negativní | Slib „dividendy" 5000 $ voličům republikánů rámuje jako přímý volební úplatek a útok na demokracii; navrhuje mu nucené práce | 2026-09-10 | [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026) |
+| Daniel Beneš | ❌ negativní | Generální ředitel ČEZ — obhajuje zavedení amerického paliva Westinghouse do Temelína jako „diverzifikaci"; Vrabel žádá jeho odvolání | 2026-09-10 | [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026) |
+| Donald Tusk | ❌ negativní | Na V4 summitu v Bratislavě cituje varování od CIA/Ratcliffa o „různých scénářích" — Vrabel to považuje za prázdnou frázi ospravedlňující zbrojení; opět „jeden z největších válečných štváčů" | 2026-09-10 | [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026) |
+| Johann Wadephul | ❌ negativní | Německý ministr zahraničí — snaží se zajistit Ukrajině data o ukrajinských uprchlících v Německu, možná pro účely mobilizace | 2026-09-10 | [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026) |
 
 ---
 
@@ -1617,3 +1650,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (7. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
 - [Facebook Live (8. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
 - [Facebook Live (9. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+- [Facebook Live (10. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)

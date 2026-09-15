@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — přicházející občanská válka v Evropě (10. 9. 2026)
+
+**Předpověď:** V souvislosti se zatčením „klimatického extremisty" v Německu (plánujícího útoky na elektrickou infrastrukturu) a rostoucími protesty po Evropě (Řecko, Španělsko, Británie, Irsko) Vrabel opakuje předpověď, kterou mu měl před lety sdělit „nejchytřejší člověk na světě" a s níž se od té doby ztotožnil: v Evropské unii dojde k občanské válce. Očekává, že podobné násilné incidenty (radikalizace kvůli klimatické/migrační politice) budou čím dál častější, „možná každodenní", a povedou k rozsáhlejšímu násilí na ulicích.
+
+> „Já osobně říkám už dvacátým rokem, tak jak mi to říkal nejchytřejší člověk na světě, že v Evropské unii, v Evropě bude občanská válka. [...] Myslím si, že jo. Že to dojde do občanské války." — Ladislav Vrabel
+
+**Horizont:** neurčeno (dlouhodobý trend, „už to začíná")
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
 ### Ladislav Vrabel — 65% šance na neúspěch mírových jednání USA–Rusko–Ukrajina (4. 9. 2026)
 
 **Předpověď:** V souvislosti s chystanou cestou Witkoffa a Kushnera do Moskvy a Kyjeva Vrabel odhaduje na 65 % pravděpodobnost, že současná mírová jednání nepovedou k úspěchu — čeká, že Rusko odmítne příměří bez záruk, že ho Západ nevyužije k přezbrojení Ukrajiny (odkazuje na obdobné zablokování dohody v Istanbulu 2022).
