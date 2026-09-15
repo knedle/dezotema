@@ -783,3 +783,13 @@ Ke zprávě, že floridské úřady během pětidenní operace „Shield State W
 Boldy komentuje rozhodnutí soudu v Jacksonu (Mississippi), které dle něj omezuje právo občanů na čistou pitnou vodu a na pravdivé informace od vládních úředníků. Spojuje to s tvrzením, že lidstvo je připravováno na jednu z největších krizí v historii — nedostatek vody, ať už záměrně vyvolaný nebo ne — kterou už dříve předpověděl Bill Gates (podobně jako předtím covid, odkaz na cvičení Event 201 těsně před pandemií). Řešením krize má být „tokenizace" vody — její obchodování na burze/blockchainu — na němž se má podílet i Donald Trump.
 
 **Zdroje:** [Konspirátor Boldy — Facebook Live 6. 9. 2026](_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
+
+---
+
+### Založení Fedu propojené se zánikem Titanicu — sdílené video (Zítko, 8. 9. 2026)
+
+Zítko sdílí a komentuje video, které dává do souvislosti vznik americké centrální banky Fed (1913) s potopením Titanicu (1912): podle vyprávěného narativu měli na palubě zahynout přední odpůrci centrálního bankovnictví (mj. bankéři blízcí J. P. Morganovi), čímž se uvolnila cesta k prosazení Fedu ovládaného rodinou Rothschildů. Zítko to prezentuje jako další doklad dlouhodobého ovládání světových financí úzkou skupinou bankéřských rodin, navazující na jeho opakovaná tvrzení o Rothschildech (patentované nemoci, viz [covid-vakciny.md](covid-vakciny.md#původ-a-povaha-pandemie)).
+
+⚡ **Poznámka:** Tvrzení o zámyslu potopení Titanicu v souvislosti se založením Fedu je konspirační teorie bez historického podložení.
+
+**Zdroje:** [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026)

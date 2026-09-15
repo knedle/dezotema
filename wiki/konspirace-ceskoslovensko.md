@@ -75,7 +75,11 @@ Na příkladu solivarů Prešov (článek z r. 2016) Zítko líčí privatizaci 
 
 ⚡ **Poznámka:** Konkrétní odhad „1 bilion Kč ročně" a jmenovité role uvedených osob nelze ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026)
+**8. 9.** — Zítko k témuž výkladu doplňuje konkrétní příklad Plzeňského Prazdroje: podnik byl v roce 1990 privatizován za 2 miliardy Kč, zatímco jeho hodnota v roce 2017 (další prodej) dosáhla 125 miliard Kč — tedy „63× reálná hodnota" prodaná do zahraničí.
+
+⚡ **Poznámka:** Uvedené částky u Plzeňského Prazdroje nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 28. 8. 2026](_zdroje.md#československo-tv2--videoportál-28-8-2026), [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026)
 
 ---
 
@@ -170,7 +174,9 @@ Zítko tvrdí, že generální tajemník OSN António Guterres měl v roce 2023 
 
 Zítko připomíná měnovou reformu z konce května 1953 jako „loupež století": prezident Zápotocký týden předtím ujišťoval „naše měna je pevná", a pak proběhla výměna většinou v poměru 50:1, která připravila Čechoslováky o úspory (následovaly sebevraždy). Z toho rozvíjí tezi o dlouhodobém okrádání inflací: z 1 miliardy korun v oběhu (po reformě 1953, pro české země) se prý dostalo na ~8,7 bilionu korun v roce 2026 (700–750 mld. hotovosti + ~8 bil. „virtuálních" peněz na účtech) — tedy zhruba 8 700násobné znehodnocení. Tištění „ničím nekrytých" peněz (zlatý standard zrušen 1971) označuje za skrytou loupež úspor a argumentuje pro zákonné právo na hotovost a pro uchování hodnoty ve zlatě/stříbře. Navazuje na jeho a Vrabelovu kritiku CBDC/bezhotovostní společnosti (viz [CBDC a digitální euro](digitalni-kontrola.md#cbdc-a-digitální-euro-jako-nástroj-kontroly--velký-reset-vrabel-31-5-2026)).
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
+**8. 9.** — Zítko tutéž tezi opakuje beze změny, jen s upřesněnými čísly (720 mld. Kč hotovosti + 8,72 bil. Kč na účtech, tj. shodné ~8 700násobné znehodnocení od reformy 1953).
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026)
 
 ---
 
@@ -184,7 +190,9 @@ Zítko opakuje svůj výklad, že Německo dluží válečné reparace Českoslo
 
 ⚡ **Poznámka:** Jde o Zítkovu interpretaci v přímé polemice s divačkou; obsah jejích tvrzení znám jen z jeho parafráze.
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026)
+**8. 9.** — Zítko tutéž tezi (zákon 11/1918, UPIC/DUNS čísla úřadů, Havlovy tři přísahy, Pařížská dohoda 1945 a reparace 29 bilionů Kč) opakuje beze změny v rámci týdenního shrnutí.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026)
 
 ---
 

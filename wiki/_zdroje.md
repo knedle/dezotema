@@ -4665,3 +4665,11 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1993811548108658>
 - **Datum záznamu:** 2026-09-08
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál (8. 9. 2026) {#pavel-zítko--videoportál-8-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-08_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1428573939187706&_rdr>
+- **Datum záznamu:** 2026-09-08
+- **Zpracováno:** ano
+- **Poznámka:** Ohlédnutí za týdnem — pokračování BEWIT rozhovoru (repríza), obnova ČSR a reparace, měnová reforma 1953, privatizace bank a Plzeňského Prazdroje (jmenovité banky + konkrétní čísla), sdílené video Fed/Rothschild/Titanic, pozdrav Füllmichovi přes Pekovou.
