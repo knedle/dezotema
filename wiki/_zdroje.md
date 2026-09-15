@@ -4753,3 +4753,11 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1094141019804902>
 - **Datum záznamu:** 2026-09-12
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál (13. 9. 2026) {#pavel-zítko--videoportál-13-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-13_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=2054760418511206&_rdr>
+- **Datum záznamu:** 2026-09-13
+- **Zpracováno:** ano
+- **Poznámka:** Ohlášení nedělního vysílání — shrnutí 11. září (beze změny) a prezidentské kandidatury 2022 (beze změny); BEWIT sponsoring.

@@ -219,6 +219,8 @@ K 25. výročí útoků z 11. září 2001 Zítko věnuje celé vysílání roz�
 
 ⚡ **Konflikt:** Fyzikální a strukturální tvrzení o zřícení věží WTC jsou v přímém rozporu se závěry oficiálních technických vyšetřování (NIST); citovaná „svědectví" pilotů a soudní prohlášení nelze nezávisle ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [Československo TV2 — Videoportál 12. 9. 2026](_zdroje.md#československo-tv2--videoportál-12-9-2026)
+**13. 9.** — Zítko ve stručném shrnutí opakuje tutéž teorii beze změny (Rumsfeld/Bush/Cheney popraveni na Gitmu) jako ohlédnutí za posledním vysíláním.
+
+**Zdroje:** [Československo TV2 — Videoportál 12. 9. 2026](_zdroje.md#československo-tv2--videoportál-12-9-2026), [Pavel Zítko — Videoportál 13. 9. 2026](_zdroje.md#pavel-zítko--videoportál-13-9-2026)
 
 ---

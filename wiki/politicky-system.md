@@ -320,7 +320,9 @@ Do širšího rámce klade tezi, že vlasteneckou scénu „vlastní" kmotr **To
 
 Pavel Zítko (sám kandidát v prezidentských volbách 2023, kandidaturu prý vyhlásil 17 dní před uzávěrkou) popisuje volby jako řízený podvod, který „zmapoval jako insider". Tvrdí, že „první šestka" kandidátů byla předem „zaklincována" přes **Aspen Institute**; jakmile se on sám z posledního místa posunul na sedmé, „chazarská mafie jako majitel Fortuny" prý třikrát srazila jeho sázkový kurz z 1:60–1:70 na 1:555. Dále uvádí, že jeho hlasovací lístky byly „okamžitě zkartovány/zašity" a navzdory zákonné povinnosti mu je ministerstvo vnitra při třech návštěvách nikdy nepředložilo ke kontrole. Tvrdí, že na ukradení identity prezidentského kandidáta (klon kanálu „Pavel Zítko, prezident 2023") podával trestní oznámení. Mechanismus „dosazování vybraných loutek" zobecňuje na „jakékoliv volby". Tematicky navazuje na Vrabelovu tezi, že [v prezidentských volbách „vytáhnou herce"](#vrabel-jako-pravdivostní-extrémista-kritika-kultury-o-nikom-se-nemluví--pokrytectví-rajchla-21-6-2026) i na [konspirační výklad CIA dosazující elity](konspirace-ceskoslovensko.md#cia-dosadila-a-řídí-české-elity-klaus-havel-zeman-prezidenta-vybírá-cia--vrabel-21-6-2026).
 
-**Zdroje:** [ČsTV2 — Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026)
+**13. 9.** — Zítko opakuje beze změny, že svou kandidaturu na prezidenta v roce 2022 stáhl 17 dní před koncem kampaně, aby zdokumentoval podvod ve volbách (Dominion, absence blockchainu), a rozšiřuje to na tvrzení, že takto zfalšované byly všechny volby za posledních 15–20 let.
+
+**Zdroje:** [ČsTV2 — Slunovrat 11:11, 21. 6. 2026](_zdroje.md#československo-tv2--slunovrat-1111-21-6-2026), [Pavel Zítko — Videoportál 13. 9. 2026](_zdroje.md#pavel-zítko--videoportál-13-9-2026)
 
 ---
 
