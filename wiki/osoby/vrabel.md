@@ -1022,6 +1022,17 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 12)
 - **7. 9.** — proč Ukrajina nemá lidi; predikce pořadí mobilizace dalších zemí (Polsko, Pobaltí, ČR naposled) — [Facebook Live 7. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
 
+### [Kauzy a korupce](../kauzy.md) (pokrač. 6)
+- **8. 9.** — Evropská komise potvrdila pozastavení dotací Agrofertu — Babiš ve střetu zájmu i přes svěřenský fond (prospěch mají jeho děti) — [Facebook Live 8. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 20)
+- **8. 9.** — Maďarsko vyhostilo 10 ruských diplomatů; Petr Magyar jako „maďarský Rajchl" — [Facebook Live 8. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+- **8. 9.** — Bosna omezuje vztahy se Srbskem po pohřbu Mladiče; historie Republiky srbské — [Facebook Live 8. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+- **8. 9.** — varování Andrewa Bridgena před operací pod falešnou vlajkou v Británii — [Facebook Live 8. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač. 6)
+- **8. 9.** — teorie „izraelského Pearl Harboru" — Netanjahu varován SAE před útokem Hamasu 7.10.2023 — [Facebook Live 8. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1580,3 +1591,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live, samostatné video (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-samostatné-video-5-9-2026)
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
 - [Facebook Live (7. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+- [Facebook Live (8. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)

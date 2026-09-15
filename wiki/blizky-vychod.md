@@ -578,3 +578,13 @@ Izrael zablokoval dodávky protiraketového systému Iron Dome na Ukrajinu z oba
 Íránské ozbrojené síly zařadily několik persko-jazyčných zahraničních médií, včetně Radio Farda (provozovaného americkou RFE/RL se sídlem v Praze), na seznam potenciálních vojenských cílů s odůvodněním, že jde o nástroje amerických a izraelských zpravodajských služeb. Vrabel s hodnocením Íránu souhlasí — srovnává to s vlastní tezí o západních médiích, která podle něj obdobně rozvracela Srbsko a organizovala kyjevský Majdan 2014 — a varuje, že přítomnost takového média v Praze činí Českou republiku potenciálním terčem íránské odvety (byť malým, jako sabotáž nebo výbuch), zejména po zprávě, že ministr zahraničí Petr Macinka předvolal íránského velvyslance „na kobereček". Kritizuje bezpodmínečnou proizraelskou zahraniční politiku české vlády (vetování unijních rezolucí proti Izraeli) jako řízenou tím, „kde tečou peníze", ne principem strany práva, a varuje, že Írán má balistické rakety s doletem až do ČR.
 
 **Zdroje:** [Vrabel — Facebook Live 27. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)
+
+---
+
+### „Izraelský Pearl Harbor" — Netanjahu byl varován před útokem Hamasu (Vrabel, 8. 9. 2026)
+
+Podle deníku Haaretz varoval prezident Spojených arabských emirátů izraelského premiéra Benjamina Netanjahua zhruba deset dní před útokem Hamasu 7. října 2023. Vrabel to čte jako potvrzení dlouhodobě kolující teorie o „izraelském Pearl Harboru": Izrael je podle jeho vlastní zkušenosti (cestoval zemí autem) jedno z nejstřeženějších míst na světě (ozbrojenec v každém autobuse a vlaku, checkpointy všude), takže je nepravděpodobné, že by Hamas dokázal provést takový útok bez povšimnutí a že izraelská reakce trvala 45 minut — pokud byl Netanjahu předem varován, otevírá to otázku, proč nezasáhl. Spojuje to se svou opakovanou tezí o vlivu chasidských/„chazarských" židovských sítí a organizace Chabad Lubavič na americkou (a přeneseně izraelskou) politiku — s odkazem na blízký vztah Jareda Kushnera k Netanjahuovi a na financování politických kampaní (Donalda Trumpa) těmito kruhy.
+
+⚡ **Poznámka:** Tvrzení o předchozím varování je citováno z jednoho zdroje (deník Haaretz), ne ověřeno nezávisle; interpretace jako „Pearl Harbor" i propojení s tezí o vlivu Chabad Lubavič jsou Vrabelovy vlastní spekulace.
+
+**Zdroje:** [Vrabel — Facebook Live 8. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)

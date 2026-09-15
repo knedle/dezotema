@@ -481,7 +481,9 @@ Evropský prokurátor zahájil trestní řízení ve věci dotací pro Agrofert 
 
 **26. 8.** — Vrabel k novému případu (tři menší firmy z holdingu — Agro Rosochy, Zeus Brnížov, Lužánská zemědělská — mají podle platebních rozkazů okresních soudů vrátit Podpůrnému garančnímu rolnickému a lesnickému fondu téměř 1,4 mil. Kč za porušení pravidel střetu zájmu v letech 2017–2021, firmy podaly odpor; fond celkem vymáhá 22 mil. Kč od 25 spřízněných firem Agrofertu) opakuje a rozvádí svou tezi o Babišově střetu zájmu: vložení Agrofertu do svěřeneckého fondu neznamená, že ho Babiš neřídí nepřímo, a hlavně z něj má prokazatelný užitek — firmu jednou zdědí jeho děti a průběžně z ní plynou zisky. Zdůrazňuje, že to neznamená podporu žádné vládní ani opoziční strany (ODS, STAN, Motoristé) — všechny označuje za „mafiánské" a zkorumpované stejně jako Babiše.
 
-**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026), [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
+**8. 9.** — Evropská komise dospěla k formálnímu závěru, že premiér Babiš je v potenciálním střetu zájmu — Svěřenecký fond RSVP Trust, do kterého vložil akcie Agrofertu, situaci dle komise dostatečně neřeší, a komise proto potvrdila pozastavení proplácení části dotací Agrofertu. Babiš na to reagoval slovy, že „ani kdyby se zastřelil", komise by nebyla spokojená, a tvrdí, že Agrofert nevlastní a nemá z něj žádný prospěch. Vrabel jeho obhajobu rozporuje přesně touto logikou: prospěch z jeho rozhodnutí (ovlivňujících zemědělské dotace) mají jeho děti jako budoucí dědicové fondu — a podle konceptu „osoby blízké" tak střet zájmu trvá, i když Babiš sám formálně firmu nevlastní.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026), [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026), [Vrabel — Facebook Live 8. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
 
 ---
 
