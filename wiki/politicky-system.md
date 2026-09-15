@@ -523,6 +523,14 @@ Rajchl líčí debatu na internetové televizi VOX TV (moderátor Kubelík) prot
 
 ---
 
+### Babišova „polská cesta" a koalice, která si hraje na vlastní opozici (Vrabel, 7. 9. 2026)
+
+K vyjádření premiéra Andreje Babiše, že vláda dodrží závazek snížit rozpočtový schodek vůči Evropské komisi a zároveň chce investovat „polskou cestou" (36 mld. Kč na obranu), Vrabel nejprve zpochybňuje samotný pojem — jít „polskou, italskou nebo slovenskou cestou" nedává smysl, protože rozpočet ČR by měl vycházet z potřeb ČR, ne z toho, co dělají jiné země. Formuluje obecnější postřeh o fungování současné koalice: skuteční názoroví oponenti (opozice) v praxi už neexistují, protože koalice si dokáže vytvořit „vlastní opozici" uvnitř sebe — někteří koaliční poslanci (motoristé, SPD) veřejně štěkají proti konkrétním krokům (schodek, ceny paliv), aby si vláda mohla připsat zásluhu za pozdější ústupek pod „tlakem" vlastních partnerů, aniž by šlo o reálný spor. Zopakoval svůj obvyklý závěr, že řešením je vystoupení z EU a NATO a vojenská neutralita, protože ČR si nemůže dovolit zadlužování ani vojenské závazky, které jí tyto organizace vnucují.
+
+**Zdroje:** [Vrabel — Facebook Live 7. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

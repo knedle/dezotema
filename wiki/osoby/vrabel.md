@@ -1008,6 +1008,19 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 19)
 - **6. 9.** — Lavrov: incident v Lipsku je „skutečný začátek" reálné války; rekapitulace mírových jednání (Zelenskyj odmítá územní ústupky) — [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
+- **7. 9.** — Německo zvažuje poskytovat Ukrajině přesné souřadnice cílů v Rusku — přímé zapojení Německa do útoků — [Facebook Live 7. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 15)
+- **7. 9.** — Babišova „polská cesta" a koalice hrající si na vlastní opozici (SPD/motoristé) — [Facebook Live 7. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 12)
+- **7. 9.** — AfD vyhrálo Sasko-Anhaltsko (38–40 %); analýza příčin propadu Německa, obhajoba AfD jako „proněmecké" strany — [Facebook Live 7. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+
+### [Migrace](../migrace.md) (pokrač. 17)
+- **7. 9.** — demonstrace v Doveru; opakování teze o islámu jako právním systému (šaría), ne jen náboženství — [Facebook Live 7. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 12)
+- **7. 9.** — proč Ukrajina nemá lidi; predikce pořadí mobilizace dalších zemí (Polsko, Pobaltí, ČR naposled) — [Facebook Live 7. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
 
 ---
 
@@ -1566,3 +1579,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
 - [Facebook Live, samostatné video (5. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-samostatné-video-5-9-2026)
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
+- [Facebook Live (7. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)

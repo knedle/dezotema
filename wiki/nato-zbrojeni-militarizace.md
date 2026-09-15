@@ -854,6 +854,14 @@ V Polsku začaly záložníkům a vybraným civilistům (lékaři, IT specialist
 
 ---
 
+### Proč Ukrajina nemá lidi a kdo bude mobilizován jako další — Vrabel odpovídá na dotaz diváka (7. 9. 2026)
+
+Na dotaz diváka k výroku J. D. Vance, že „když Ukrajinci nemají lidi do války, půjdou tam naši hoši", Vrabel odpovídá, že Ukrajina skutečně nemá lidi (mobilizace žen, odvody 20letých, zatýkání důchodců a invalidů na ulicích), ale ne peníze — těch má podle něj Zelenského vedení vždy dost. Predikuje pořadí, v jakém budou další země postupně zapojeny do mobilizace: nejdřív Polsko („silný slovanský národ", který je třeba rozbít, aby nemohl vzdorovat plánu na promíchání evropského obyvatelstva s migranty), poté pobaltské státy, které označuje za „úplně sfanatizované". Cituje nové vyjádření ruské strany, že za největší nacisty považuje po Ukrajině právě pobaltské státy, dále Polsko a Českou republiku. Přesto předpokládá, že ČR mobilizována nebude — sarkasticky glosuje, že západní spojenci (Němci, Francouzi, Britové) „milují Čechy" a Andrej Babiš „nedá" české vojáky do války, i když bude ochotně podporovat spojence jinak (souřadnice, munice, peníze).
+
+**Zdroje:** [Vrabel — Facebook Live 7. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+
+---
+
 ### EU řeší žádost Ukrajiny o miliardy na Patriot rakety — problém je nedostatek raket, ne peněz (Vrabel, 5. 9. 2026)
 
 EU prověřuje žádost Ukrajiny o další miliardy eur na posílení protivzdušné obrany, včetně nákupu amerických raket PAC-3 do systému Patriot — první žádost v rámci nového evropského podpůrného úvěru, jenž má doplnit již schválených 90 mld. EUR (viz [EU 90 mld. EUR Ukrajině — faktický dárek, ne půjčka](#eu-90-mld-eur-ukrajině--faktický-dárek-ne-půjčka-25-5-2026)). Vrabel upozorňuje na klíčový detail, který podle něj v debatě chybí: **problémem není nedostatek peněz, ale nedostatek samotných raket** — USA vyrábí jen omezené množství (odhaduje kolem 18 kusů ročně, možná do tisíce), zatímco Ukrajina by jich potřebovala tisíce ročně; EU proto tlačí na Španělsko a Itálii, aby své zásoby PAC-3 (s odůvodněním blížící se expirace) předaly Ukrajině. Dodává, že už schválených 90 mld. EUR z prosince Ukrajině dosud nebylo vyplaceno, protože EU peníze fyzicky nemá a nepodařilo se jí vydat plánované dluhopisy (nikdo o ně nemá zájem) — jedinou reálnou zásobou likvidity, na kterou podle něj EU cílí, jsou úspory občanů (viz program Savings and Investments a jeho český klon [Národ sobě](suverenita-eu.md#von-der-leyen-bez-nových-vlastních-zdrojů-klesne-rozpočet-eu-o-40--souvislost-s-financováním-ukrajiny-vrabel-4-7-2026)).

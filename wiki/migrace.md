@@ -195,6 +195,7 @@ Vrabel ke zprávě o stovkách migrantů prolamujících hraniční plot ve špa
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-6-2026)
 
+**7. 9.** — K demonstraci „migranti proti migraci" v Doveru (Británie), kde maskovaní muži zablokovali silnice k přístavu s hesly „Stop the boats", Vrabel opakuje beze změny svou tezi, že islám nelze schovávat za pojem „náboženství" — jde podle něj primárně o právní systém (šaría), který upravuje, jak se mají muslimové chovat k nemuslimům, a proto se „nás týká" bez ohledu na to, komu se kdo modlí.
 ---
 
 ### Migrační pakt nelze zrušit zevnitř — čl. 10 ústavy, srovnání s Brexitem (Vrabel, 4. 6. 2026)

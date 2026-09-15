@@ -484,6 +484,10 @@ Na dotaz k AfD Vrabel odkazuje na projev Alice Weidelové, s nímž prý souzní
 
 **Zdroje:** [Restart Česko — Videoportál 5. 9. 2026](_zdroje.md#restart-česko--videoportál-5-9-2026)
 
+**7. 9.** — Vrabel referuje o výsledku: AfD v Sasku-Anhaltsku skutečně zvítězila s 38–40 % (víc než dvojnásobek CDU), na samostatnou vládu to ale nestačí. Nabízí vlastní analýzu příčin propadu Německa, které podle něj vedly k tomuto výsledku: masivní migrace od roku 2015 (nedostatek bydlení, zhoršená bezpečnost — „aby holka šla sama večer ven, to je nemyslitelné"), vysoké výdaje na podporu Ukrajiny a odstřižení od levných ruských energií (na němž bylo německé hospodářství vybudováno, jak dříve uznaly i Angela Merkelová a Ursula von der Leyenová). Popisuje ekonomický propad (Volkswagen zvažuje propuštění 100 tisíc lidí) a pád popularity kancléře Friedricha Merze (bývalý předseda představenstva BlackRock), který sliboval zastavení migrace a fiskální disciplínu, ale krátce po zvolení prosadil prolomení ústavní „dluhové brzdy". Odmítá charakterizaci AfD jako „proruské" strany — podle něj je to čistě „proněmecká" strana usilující o obnovení dobrých vztahů s Ruskem (kvůli energiím), podobně jako Vrabelovo hnutí v ČR; zdůrazňuje, že jde jen o výhru v malé spolkové zemi (1,4 mil. obyvatel), ne o celoněmecký obrat.
+
+**Zdroje:** [Restart Česko — Videoportál 5. 9. 2026](_zdroje.md#restart-česko--videoportál-5-9-2026), [Vrabel — Facebook Live 7. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
+
 ---
 
 ### Trump: „nemůžete být komunista i vlastenec zároveň" — Vrabelova esej o americké historii a suverenismu (4. 7. 2026)
