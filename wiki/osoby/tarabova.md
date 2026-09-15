@@ -62,6 +62,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - **5. 9.** — strany kandidují v komunálních volbách pod jinými názvy (KDU+TOP09 jako „Liberecká devítka"), výzva ověřovat, kdo je za kandidátkou — [TV Česko 5. 9.](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
 - **5. 9.** — vlastní politická historie: komunální politika od 2014, vyloučení, covidový aktivismus (Pocket Spark/Svobodný Liberec), vstup do PRO na žádost Rajchla a liberecké skupiny — [TV Česko 5. 9.](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
 - **7. 9.** — komunální program: zastavení projektu „Klimaticky neutrální Liberec" (unijní Net Zero Cities, snížení emisí o 82 % do 2030) — kritika dopadů na občany (zateplování, elektromobilita) — [Videoportál 7. 9.](../_zdroje.md#lenka-tarabová--videoportál-klimaticky-neutrální-liberec-7-9-2026)
+- **14. 9.** — komunální program bod 4: bezpečnost a městská policie — dialog s řadovými strážníky a obyvateli, zlepšení podmínek strážníků, řešení bezdomovectví/návykových látek, navýšení počtu strážníků — [Videoportál 14. 9.](../_zdroje.md#lenka-tarabová--videoportál-bezpečnost-a-městská-policie-14-9-2026)
 
 ---
 
@@ -137,3 +138,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: bydlení v Liberci (4. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)
 - [TV Česko: transparentnost (5. 9. 2026)](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
 - [Videoportál: klimaticky neutrální Liberec (7. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-klimaticky-neutrální-liberec-7-9-2026)
+- [Videoportál: bezpečnost a městská policie (14. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bezpečnost-a-městská-policie-14-9-2026)

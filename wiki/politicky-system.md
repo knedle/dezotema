@@ -1152,6 +1152,14 @@ Tarabová představuje bod 3 volebního programu: přehodnocení účasti Liberc
 
 ---
 
+### Komunální program bod 4: bezpečnost a městská policie v Liberci (Tarabová, 14. 9. 2026)
+
+Tarabová představuje čtvrtý bod volebního programu, věnovaný bezpečnosti Liberce a městské policii. Argumentuje, že bezpečnost nelze řešit „od stolu" — je třeba mluvit se třemi skupinami: obyvateli míst pociťovaných jako nebezpečná, řadovými strážníky v ulicích (ne jen vedením městské policie) a širší veřejností. Chce zlepšit pracovní podmínky a morálku strážníků, aby svou službu nevykonávali jen jako „odbytí hodin procházkami", ale s vnitřním zájmem o bezpečnost — a zdůrazňuje, že mezi strážníky jsou rozdíly v kvalitě práce, které je třeba ocenit, ne je „hodit do jednoho pytle". Za jeden z klíčových problémů považuje nárůst počtu bezdomovců a lidí užívajících návykové látky, kteří podle ní mají pocit „nedotknutelnosti" díky společenské ochraně. Navrhuje také navýšit počet městských strážníků.
+
+**Zdroje:** [Tarabová — Videoportál: bezpečnost a městská policie, 14. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-bezpečnost-a-městská-policie-14-9-2026)
+
+---
+
 ### Debatní spor s „Matějem z Tetína" — zpochybnění kompetence kritika rozpočtu (Rajchl, 9. 9. 2026)
 
 V televizní debatě reaguje Rajchl na kritiku svého rozpočtového hospodaření (SPD dle kritika nechtěla zvyšovat daně) protiútokem na osobu kritika — starostu obce Tetín, kterého oslovuje jako „Matěje". Odmítá, že by šlo o „strunu nenávisti", a argumentuje, že jde o legitimní poukázání na nekompetenci: kritik podle Rajchla „málem zbankrotoval" vlastní obec a rozpočet obce zachránila jen pomoc kraje — proto je dle něj „k smíchu", když ho právě tento člověk poučuje o státním rozpočtu. Debatu odmítá svést na téma dotace pro Tetín, kterou označuje za řádně vyúčtovanou a v souladu s běžným procesem.
