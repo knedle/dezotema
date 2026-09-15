@@ -212,3 +212,13 @@ Zítko sdílí a schvaluje teorii navazující na jeho opakovanou tezi o QFS a o
 **Zdroje:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026)
 
 ---
+
+### 25. výročí 11. září — rozšířená verze "inside job" a QAnon justice (Zítko, 12. 9. 2026)
+
+K 25. výročí útoků z 11. září 2001 Zítko věnuje celé vysílání rozšíření již dříve zdokumentované teze (viz [9/11 jako inside job](#freedom-250-ufc-finální-tah-proti-deep-state--zítko-12-6-2026)) o řadu konkrétních detailů. Fyzikální argumentace: hliníkové letadlo nemohlo prorazit ocelové sloupy věží (tloušťka 12,7 cm — silnější než pancíř tanku T-34 z 2. světové války), věž WTC7 se zřítila za 6,5 sekundy bez zásahu jakéhokoli letadla, pasy únosců zůstaly na místě neporušené i přes deklarovanou teplotu přes 1000 °C. Cituje "svědky" — Johna Leara (syn vynálezce Billa Leara, soudní prohlášení o fyzikální nemožnosti nárazu Boeingu 767) a kapitána Dana Henleyho (bývalý pilot United Airlines, organizace „911 Pilot Whistleblowers"), který tvrdí, že letadla byla elektronicky unesena přes systém „nepřerušitelného autopilota" (technologie údajně existující od 90. let, ne až od patentu 2006) a že žádný pilot nebyl komisí pro 11. září vyslechnut k neschopnosti údajných únosců. Do Pentagonu (kde se ten den řešila záhada 2,3–4 bilionů dolarů chybějících z rozpočtu, oznámená Rumsfeldem den předtím, 10. 9.) podle Zítka nenarazilo letadlo, ale řízená střela (Patriot nebo Tomahawk) — Rumsfeld měl opustit místnost pět minut před zásahem. Rozvádí QAnon justici z již zdokumentované teze: Rumsfeld byl zatčen 27. 5. 2021 a spáchal sebevraždu na Diego Garcia (29. 6. 2021, na Zítkův svátek), George Bush byl odsouzen a popraven na Gitmu (4. 1. 2022), Dick Cheney zatčen na letišti a popraven na Gitmu (29. 1. 2022, na Zítkovy narozeniny) — všichni nahrazeni herci/dvojníky. Dodává antisemitský motiv (údajná absence Židů v práci ten den, „židovský demoliční tým") a propojuje událost s posmrtnou historií Usámy bin Ládina (nalezen a zabit 2011, SEAL Team 6 následně sestřelen, masakr v Benghází 2012 jako krytí zbrojní sítě Obama/Clintonová/Pelosiová).
+
+⚡ **Konflikt:** Fyzikální a strukturální tvrzení o zřícení věží WTC jsou v přímém rozporu se závěry oficiálních technických vyšetřování (NIST); citovaná „svědectví" pilotů a soudní prohlášení nelze nezávisle ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 12. 9. 2026](_zdroje.md#československo-tv2--videoportál-12-9-2026)
+
+---

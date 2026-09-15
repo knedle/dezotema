@@ -4731,3 +4731,11 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1598198435117368>
 - **Datum záznamu:** 2026-09-11
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál (12. 9. 2026) {#pavel-zítko--videoportál-12-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-12_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1714783526985802&_rdr>
+- **Datum záznamu:** 2026-09-12
+- **Zpracováno:** ano
+- **Poznámka:** 25. výročí 11. září 2001 — rozšířená verze "inside job" teorie (hologramy letadel, WTC7, raketa v Pentagonu, poprava Rumsfelda/Bushe/Cheneyho na Gitmu); opakovaně nesrovnalost u ceny za svobodu projevu (Kocijánová).
