@@ -4739,3 +4739,10 @@
 - **Datum záznamu:** 2026-09-12
 - **Zpracováno:** ano
 - **Poznámka:** 25. výročí 11. září 2001 — rozšířená verze "inside job" teorie (hologramy letadel, WTC7, raketa v Pentagonu, poprava Rumsfelda/Bushe/Cheneyho na Gitmu); opakovaně nesrovnalost u ceny za svobodu projevu (Kocijánová).
+
+## Jindřich Rajchl — Videoportál (12. 9. 2026) {#jindřich-rajchl--videoportál-12-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-12_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1590393089257131>
+- **Datum záznamu:** 2026-09-12
+- **Zpracováno:** ano

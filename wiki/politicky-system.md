@@ -1171,3 +1171,11 @@ Poslanecká sněmovna po přehlasování Senátu schválila novelu stavebního z
 Ministerstvo zdravotnictví chce od roku 2030 centralizovat operace zhoubných nádorů — u rakoviny prostaty má počet pracovišť klesnout ze 78 na 22; ministr Adam Vojtěch (ANO) to obhajuje snahou zvýšit kvalitu péče a srovnává ČR nevýhodně s Dánskem, nemocnice a část lékařů varují před přetížením zbylých center a delšími čekacími dobami. Vrabel logiku centralizace odmítá: srovnává ji s absurdním důsledkem, že podle stejné logiky by nejlepší léčbu zajistilo soustředění veškeré péče do jediné (nejlepší) nemocnice, např. IKEM — ve skutečnosti půjde jen o zánik pracovišť, pozdější diagnostiku a víc úmrtí, ne o spojení duplicitních kapacit. Srovnání s Dánskem odmítá jako irelevantní (jiná kultura, jiný životní styl) a nabízí vlastní teorii příčin rakoviny: kombinaci nezdravé stravy (cukr, přebytek masa, překyselený organismus) a na hlubší úrovni „zamrzlých emocí" (především nevyjádřeného hněvu), které blokují průtok energie tělem a spouštějí nekontrolovanou buněčnou reprodukci — namísto řešení těchto příčin podle něj ministerstvo (podobně jako u vakcín) jen léčí důsledky farmaceutickými produkty (např. lék Ozempic, který popisuje jako mimořádně rizikový).
 
 **Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+---
+
+### Odmítnutí nálepky "radikální extremismus" — obrácená definice radikalismu (Rajchl, 12. 9. 2026)
+
+Rajchl reaguje na televizní reportáž, která stranu PRO označila za odliv členů a „radikální extrémní pravici". Tvrzení o odlivu členů popírá — od svého vstupu do Poslanecké sněmovny naopak uvádí přibližně 50% nárůst členské základny. Nálepku „radikální" obrací: požadavky na mír, zrušení Green Dealu, řešení migrace a odmítnutí eura nepovažuje za extremismus, ale za „zdravý rozum" — skutečně radikální je podle něj ztráta vlastní měny, vznik „spojených států evropských", zrušení práva veta a emisní povolenky, díky nimž ČR platí na hlavu nejvíc v celé EU (7000 Kč ročně).
+
+**Zdroje:** [Rajchl — Videoportál 12. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-12-9-2026)

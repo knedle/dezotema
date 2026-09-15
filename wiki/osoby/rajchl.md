@@ -186,6 +186,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **7. 9.** — debata na VOX TV s Janem Jakobem (TOP 09), který ze studia odešel; obvinění Otakara Foltína (TOP 09) z nacistické rétoriky za oslovení části národa slovem „svině" — [Videoportál 7. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
 - **11. 9.** — přímý záznam téže debaty s dalšími příklady dvojího metru (Turek „deratizace", Decroix „sволoč", Novotný o válce/podřezávání) — [Videoportál 11. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
 - **9. 9.** — televizní debatní spor se starostou Tetína „Matějem" — zpochybnění jeho kompetence poučovat o rozpočtu; opakuje beze změny sektorové daně (banky, zbrojaři, digitální daň) — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [politicky-system.md](../politicky-system.md#debatní-spor-s-matějem-z-tetína--zpochybnění-kompetence-kritika-rozpočtu-rajchl-9-9-2026)
+- **12. 9.** — odmítnutí nálepky „radikální extremismus"; obrácená definice radikalismu (ztráta koruny/veta vs. mír a zrušení Green Dealu) — [Videoportál 12. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-12-9-2026) → [politicky-system.md](../politicky-system.md#odmítnutí-nálepky-radikální-extremismus--obrácená-definice-radikalismu-rajchl-12-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -494,3 +495,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (9. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
 - [Videoportál (10. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)
 - [Videoportál (11. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026)
+- [Videoportál (12. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-12-9-2026)
