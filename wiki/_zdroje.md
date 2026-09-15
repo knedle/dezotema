@@ -4687,3 +4687,11 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/1605015334356589>
 - **Datum záznamu:** 2026-09-09
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál (10. 9. 2026) {#pavel-zítko--videoportál-10-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-10_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1024978997240552&_rdr>
+- **Datum záznamu:** 2026-09-10
+- **Zpracováno:** ano
+- **Poznámka:** COVID/rakovina 11:11 — z velké části repríza již zdokumentovaného obsahu (BEWIT sponsoring, PCR podvod, chemoterapie, Chomutovský spis); nové/doplněné body: Naomi Wolf/Pfizer Papers, McCullough Foundation ivermectin+mebendazol na rakovinu (statistiky), Simpsonwood 2000 (thimerosal/autismus), přiznání CEO BioNTech o výjimce zaměstnanců z očkování.

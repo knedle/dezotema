@@ -111,7 +111,9 @@ Na Q&A v Soběšovicích Pavel Zítko a Soňa Peková prezentují data z vlastn�
 
 ⚡ **Konflikt:** Referenční regulační orgány (FDA, EMA, CDC) nezveřejnily žádná data potvrzující tyto počty; tvrzení o záměrném utajování a masové smrtnosti vakcín jsou v rozporu s vědeckým konsensem.
 
-**Zdroje:** [Zítko — Soběšovice Q&A, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4), [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+**10. 9.** — Zítko rozšiřuje tutéž tezi citací americké autorky Naomi Wolf (autorky knihy *Pfizer Papers*, založené na soudně vynucených interních dokumentech firmy), která obvinění popisuje jako „satanské na masivní úrovni" — tvrdí, že Pfizer věděl o poškození plodnosti (otrávené mateřské mléko, pokles počtu spermií, poškozené placenty) a přesto v injekcích pokračoval. Zítko z toho dovozuje, že šlo o „úmyslný útok na reprodukci" vedoucí k propadu porodnosti (opakuje dřívější číslo −30 %/35 tisíc dětí, viz níže) a interpretuje výsledek jako záměrné „nahrazování" původního obyvatelstva Československa jinými národy.
+
+**Zdroje:** [Zítko — Soběšovice Q&A, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4), [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
 
 ---
 
@@ -563,7 +565,9 @@ Zítko líčí dosavadní průběh svého trestního stíhání za „šíření
 
 **27. 8.** — Zítko přidává další „vítězství" ve stejné linii: aktuální rozhodnutí slovenského soudu, který osvobodil lékaře MUDr. Petra Liptáka s tím, že veškerá covidová opatření (vyhlášky, nařízení) byla protizákonná — vedle již dříve zmíněného rozsudku ve prospěch kanadského aktivisty Pat Kinga (blokáda silnic) to prezentuje jako sérii soudních proher „COVID mafie" napříč Českem, Kanadou a Slovenskem.
 
-**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026), [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026)
+**10. 9.** — Zítko znovu opakuje totéž usnesení a dodává, že krajský soud věc vrátil okresnímu soudu v Chomutově s tím, že se musí zabývat jednotlivými tvrzeními jednotlivě — což popisuje jako volbu mezi „monster procesem" a „kapitulací" žaloby — beze změny oproti 6. 8.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026), [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
 
 **Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026), [ČsTV2 — Videoportál 6. 8. 2026](_zdroje.md#československo-tv2--videoportál-6-8-2026), [ČsTV2 — Videoportál 14. 8. 2026](_zdroje.md#československo-tv2--videoportál-14-8-2026), [ČsTV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
@@ -811,7 +815,11 @@ Zítko cituje, co označuje za „největší studii pitvy po očkování proti 
 
 Zítko sdílí tvrzení, že ředitel FDA přiznal, že konzervační látka thimerosal (na bázi rtuti), přidávaná do dětských vakcín od roku 1929, nikdy neprošla testy bezpečnosti pro použití u zdravých kojenců. Vyzývá diváky, aby zvážili, zda není jednodušší „odstranit příčinu" (přestat používat látku) než řešit následky sbírkami na léčbu nemocných dětí.
 
-**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026)
+**10. 9.** — Doplňuje konkrétní historickou událost: v červnu 2000 se úředníci CDC, FDA, WHO a výrobci vakcín sešli na dva dny bez novinářů na uzavřeném setkání v Simpsonwood Retreat Center u Atlanty. Epidemiolog CDC Thomas Verstraeten měl prezentovat data o cca 100 000 dětech ukazující souvislost mezi dávkou thimerosalu (včetně vakcíny proti hepatitidě B podávané při narození) a neurologickými problémy (zpoždění řeči, tiky, záchvaty, ADHD, autismus) — Zítko tvrdí, že místo stažení látky nebo varování rodičů se diskuze zaměřila na právní ochranu výrobců. Dodává, že výskyt diagnostikovaného autismu se od 70. let zvýšil z cca 1 z 10 000 na dnešní 1 ze 31 dětí (podle kalifornských dat až 1 z 12,5 chlapců).
+
+⚡ **Poznámka:** Obsah a závěry uzavřeného setkání v Simpsonwoodu nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké je Zítko prezentuje.
+
+**Zdroje:** [ČsTV2 — Videoportál 16. 7. 2026](_zdroje.md#československo-tv2--videoportál-16-7-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
 
 ---
 
@@ -857,7 +865,11 @@ Společnost BioNTech zastavuje výrobu vakcín proti COVID-19 v Německu. Zítko
 
 ⚡ **Poznámka:** Snížení výroby COVID vakcín reflektuje klesající poptávku; tvrzení o počtu obětí je Sternzova/Zítkova spekulace mimo vědecký konsensus.
 
-**Zdroje:** [ČsTV2 — Souhrn týdne 10/5 (12. 5. 2026)](_zdroje.md#československo-tv2--souhrn-týdne-105-12-5-2026)
+**10. 9.** — Zítko sdílí sestřih, v němž generální ředitel BioNTech (dle titulku videa) říká, že se ze zákona nesměl nechat sám očkovat, protože firma musela zajistit provozuschopnost — Zítko to interpretuje jako přiznání, že vedení firmy vědělo o riziku úmrtí zaměstnanců po vakcíně. Dodává, že podobnou výjimku z povinnosti nechat se očkovat měli i zaměstnanci Pfizeru, Moderny, Johnson & Johnson a AstraZenecy, stejně jako americké regulační agentury FDA, CDC a WHO — což čte jako důkaz systémového střetu zájmů.
+
+⚡ **Poznámka:** Facebook u sdíleného videa sám upozornil na „chybějící kontext"; přesné znění a kontext výroku CEO BioNTechu nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [ČsTV2 — Souhrn týdne 10/5 (12. 5. 2026)](_zdroje.md#československo-tv2--souhrn-týdne-105-12-5-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
 
 ---
 
@@ -1100,7 +1112,11 @@ Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob co
 
 ⚡ **Poznámka:** Tvrzení o přísežném přiznání Pfizeru ohledně testování přenosu, o genu SV40 ve vakcínách a o obviněních vůči Thorsenovi nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké je Zítko prezentuje.
 
-**Zdroje:** [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026)
+**10. 9.** — Zítko doplňuje konkrétní výsledky k dříve zmíněnému protokolu ivermectin/fenbendazol/mebendazol na rakovinu — s odkazem na dotazníkovou observační zprávu McCullough Foundation (197 pacientů, kombinace ivermectin 25 mg + mebendazol 250 mg, 122 dokončených dotazníků po 6 měsících): 84,4 % hlásilo klinický přínos (bez známek onemocnění, regrese nebo stabilizace), 48,4 % redukci nádoru, 36,1 % stabilní onemocnění, 15,6 % progresi; nežádoucí účinky (převážně gastrointestinální) hlásilo ~25 % pacientů. Dodává, že mnozí pacienti souběžně podstupovali i konvenční léčbu (chemoterapie, ozařování, operace).
+
+⚡ **Poznámka:** Uvedené statistiky observační zprávy nelze nezávisle ověřit; jde o nekontrolovanou dotazníkovou studii bez kontrolní skupiny.
+
+**Zdroje:** [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
 
 ---
 
