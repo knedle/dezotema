@@ -1121,3 +1121,11 @@ Tarabová upozorňuje, že celostátní strany v komunálních volbách často k
 Tarabová popisuje svou politickou dráhu: v roce 2014 podpořila vznik komunálního politického hnutí v Chrastavicích a stala se součástí koalice, ale po čtyřech letech byla ze hnutí vyloučena poté, co začala nesouhlasit se způsobem fungování. Zpětně to hodnotí jako šťastnou náhodu vzhledem k nadcházejícímu covidu — během lockdownů se scházela s dalšími aktivními občany v Liberci (neformální skupina „Pocket Spark", později přejmenovaná na „Svobodný Liberec"), z níž vzešli budoucí členové strany PRO. Do politiky se vrátila loni na podzim na žádost Jindřicha Rajchla, ale hlavně na žádost této liberecké skupiny, která jí dala důvěru — kandidátku PRO pro Liberec postavili samostatně poté, co selhalo jednání o koalici s PRO ano.
 
 **Zdroje:** [Tarabová — TV Česko: transparentnost, 5. 9. 2026](_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
+
+---
+
+### Komunální program: zastavení projektu „Klimaticky neutrální Liberec" (Tarabová, 7. 9. 2026)
+
+Tarabová představuje bod 3 volebního programu: přehodnocení účasti Liberce v unijním programu Net Zero Cities (EU Mission Platform Climate Neutral and Smart Cities), k němuž se Liberec jako jediné české město přihlásil a jehož 195stránkový dokument si celý přečetla. Cílem programu je snížit emise skleníkových plynů o 82 % oproti roku 2019 do roku 2030. Kritizuje konkrétní dopady na občany: povinné zateplování domů, výměnu oken a kotlů bez ohledu na to, zda si to lidé mohou dovolit, důraz na elektromobilitu, emisní povolenky a projekty obnovitelných zdrojů — a vyjadřuje podezření, že velká část prostředků směřuje k „expertům" a „kulatým stolům", ne k reálnému přínosu pro obyvatele. Nekritizuje ochranu přírody jako takovou, ale chce projekt „nehystericky" přehodnotit a najít v něm to, co je pro Liberečany skutečně prospěšné; odkazuje na časopis Radix k tématu klimatické krize.
+
+**Zdroje:** [Tarabová — Videoportál: klimaticky neutrální Liberec, 7. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-klimaticky-neutrální-liberec-7-9-2026)
