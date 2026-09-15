@@ -180,6 +180,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **25. 8.** — další klip ze stejné nedělní debaty, opakuje tatáž čísla bilance Fialovy vlády beze změny — [Videoportál 25. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-25-8-2026) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
 - **30. 8.** — rozhovor Petra Pavla na CNN Prima News jako „tragikomedie" — kritika návrhu na snížení počtu nemocnic a přístrojů, vlastní program zdravotnictví/školství (stipendia vázaná na závazek zůstat v ČR) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [petr-pavel.md](../petr-pavel.md#rozhovor-na-cnn-prima-news-jako-tragikomedie--návrh-na-snížení-počtu-nemocnic-a-přístrojů-rajchl-30-8-2026)
 - **30. 8.** — kompletní přehled ekonomického programu PRO (škrty výdajů, zrušení Leopardů/F-35, konec dotací neziskovkám, zrušení ETS1/ETS2, sektorové daně bank/zbrojařů, digitální daň) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
+- **7. 9.** — debata na VOX TV s Janem Jakobem (TOP 09), který ze studia odešel; obvinění Otakara Foltína (TOP 09) z nacistické rétoriky za oslovení části národa slovem „svině" — [Videoportál 7. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -479,3 +480,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (3. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026)
 - [Videoportál (5. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-5-9-2026)
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
+- [Videoportál (7. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026)

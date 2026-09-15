@@ -515,6 +515,14 @@ Jako příklad pokrytectví, které pojmenovává, uvádí Jindřicha Rajchla: t
 
 ---
 
+### Debata na VOX TV s Janem Jakobem — obvinění Otakara Foltína z nacistické rétoriky (Rajchl, 7. 9. 2026)
+
+Rajchl líčí debatu na internetové televizi VOX TV (moderátor Kubelík) proti Janu Jakobovi (TOP 09), který podle něj ke konci debaty „neustál argumentační debakl" a ze studia odešel. Klíčovým momentem měla být Rajchlova reakce na Jakobovu kritiku SPD za šíření obsahu o migraci: Rajchl namítl, že nechutné je především to, že komunikační šéf TOP 09 Otakar Foltín nazval část národa slovem „svině" — a toto oslovení přirovnal k nacistické rétorice vůči židovskému obyvatelstvu (odkaz na dílo Ladislava Fukse). Srovnává vlastní výkon s Lubošem Blahou, který v debatě vypráskal Sašu Vondru — obojí prezentuje jako doklad, že jejich oponenti neobstojí v konfrontaci s „tvrdými argumenty".
+
+**Zdroje:** [Rajchl — Videoportál 7. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
