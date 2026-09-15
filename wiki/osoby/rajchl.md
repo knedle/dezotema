@@ -136,6 +136,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 ### [Rodina a děti](../rodina-deti.md)
 - ČŠI skandál: povinný dotazník žáků 5. a 9. tříd o rodině, depresích a sebepoškozování — „absolutní zneužití pozice", šmírování dětí bez souhlasu rodičů (24. 5.) — [FB Live 24. 5. 2026](../_zdroje.md#jindřich-rajchl--fb-live-24-5-2026)
 - Výzva gayům a lesbám, aby se distancovali od Prague Pride jako „festivalu perverze" — [Facebook Live 9. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-9-8-2026)
+- **10. 9.** — kritika Evy Decroix za výzvu ke „shovívavosti" vůči odsouzeným násilníkům a pedofilům — [Videoportál 10. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kritika selektivního mlčení mainstreamu, kauza Uhlová — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
@@ -375,6 +376,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Jana Černochová | ❌ negativní | Po polském raketovém incidentu 2022 na síti X vyzývala ke zvážení aktivace čl. 5 NATO, než se ukázalo, že šlo o ukrajinskou raketu — příklad unáhlené reakce | 2026-09-03 | [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) |
 | Jan Papjanovský | ❌ negativní | Poslanec STAN v komisi Dozimetr — porušil dohodnutý způsob komunikace o zjištěních komise a veřejně to nazval „cenzurou"; Rajchl to odmítá a hrozí stejnou reakcí | 2026-09-04 | [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026) |
 | Matěj (starosta Tetína) | ❌ negativní | V debatě kritizuje Rajchlovo rozpočtové hospodaření; Rajchl to odmítá jako nekompetentní — kritik podle něj „málem zbankrotoval" vlastní obec | 2026-09-09 | [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) |
+| Eva Decroix | ❌ negativní | Vyzvala ke „shovívavosti" vůči odsouzeným násilníkům a pedofilům — Rajchl to označuje za definitivní politický konec ODS | 2026-09-10 | [Videoportál 10. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026) |
 
 ---
 
@@ -487,3 +489,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (7. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026)
 - [Videoportál (8. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-8-9-2026)
 - [Videoportál (9. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
+- [Videoportál (10. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)

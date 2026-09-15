@@ -237,3 +237,15 @@ Tarabová jako kandidátka na primátorku Liberce (komunální volby 2026, stran
 **Zdroje:** [Tarabová — Videoportál 1. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-1-9-2026)
 
 **Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+
+---
+
+### Eva Decroix vyzvala ke „shovívavosti" vůči odsouzeným násilníkům a pedofilům (Rajchl, 10. 9. 2026)
+
+Rajchl reaguje na vyjádření ministryně spravedlnosti Evy Decroix (ODS), která podle něj vyzvala k shovívavosti vůči odsouzeným násilníkům a pedofilům s tím, že by jim nemělo být bráněno v kontaktu s dětmi. Označuje to za „definitivní politický hrob" ODS a ptá se, zda by sama Decroix svěřila odsouzenému pedofilovi vlastní děti — s tím, že pro ostatní rodiny to jako „správná pokrytecká duše z ODS" prosazuje.
+
+> „Paní Decroix, jedna otázka: Svěřila byste odsouzenému pedofilovi svoje děti?" — Jindřich Rajchl, [Videoportál 10. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)
+
+⚡ **Poznámka:** Přesné znění a kontext vyjádření Evy Decroix, na které Rajchl reaguje, nelze z přepisu ověřit.
+
+**Zdroje:** [Rajchl — Videoportál 10. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)

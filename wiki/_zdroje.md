@@ -4695,3 +4695,10 @@
 - **Datum záznamu:** 2026-09-10
 - **Zpracováno:** ano
 - **Poznámka:** COVID/rakovina 11:11 — z velké části repríza již zdokumentovaného obsahu (BEWIT sponsoring, PCR podvod, chemoterapie, Chomutovský spis); nové/doplněné body: Naomi Wolf/Pfizer Papers, McCullough Foundation ivermectin+mebendazol na rakovinu (statistiky), Simpsonwood 2000 (thimerosal/autismus), přiznání CEO BioNTech o výjimce zaměstnanců z očkování.
+
+## Jindřich Rajchl — Videoportál (10. 9. 2026) {#jindřich-rajchl--videoportál-10-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-10_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1364435975765313>
+- **Datum záznamu:** 2026-09-10
+- **Zpracováno:** ano
