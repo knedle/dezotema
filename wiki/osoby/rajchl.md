@@ -102,6 +102,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **5. 9.** — v rozhovoru u Tomáše Lukavce opakuje polskou raketovou historku (bez posunu), doplňuje detail o letadle AWACS, které dokázalo za desítky vteřin určit ukrajinský původ rakety — [Videoportál 5. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-5-9-2026) → [Válka, NATO a Rusko](../valka-nato-rusko.md#německo-chystá-tvrdší-opatření-proti-rusku--spekulace-o-false-flag-u-incidentu-v-halle-vrabel-29-8-2026)
 - **6. 9.** — „kim-irsenizace" Petra Pavla: dvojí metr médií (CNN Prima servilní k Pavlovi, tvrdá k Babišovi), jízda na motorce Harley jako kult osobnosti — [Facebook Live 6. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026) → [petr-pavel.md](../petr-pavel.md#kim-irsenizace-petra-pavla--dvojí-metr-médií-vůči-pavlovi-a-babišovi-rajchl-6-9-2026)
 - **6. 9.** — Zelenskyj žádá předčasnou výplatu tranže z půjčky 90 mld. EUR; korupční zatčení nejvyššího žalobce Ukrajiny (Kraken) jako důkaz, že Zelenskyj i EU o mír nestojí — [Facebook Live 6. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026) → [Válka na Ukrajině](../valka-ukrajina-prubeh.md#zelenskyj-žádá-předčasnou-výplatu-tranže-z-půjčky-90-mld-eur-korupční-zatčení-nejvyššího-žalobce-ukrajiny-akce-kraken--rajchl-6-9-2026)
+- **8. 9.** — TV debata s poslancem ODS Sokolem: obhajoba AfD po vítězství v Sasku-Anhaltsku (odmítá „nálepkování", dvojí metr k nacismu na Ukrajině), shoda s AfD na euru/Green Dealu/migraci, ale explicitní distance v otázce Benešových dekretů — [Videoportál 8. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-8-9-2026) → [suverenita-eu.md](../suverenita-eu.md#zemské-volby-v-sasko-anhaltsku--afd-s-přes-40--může-poprvé-vytvořit-samostatnou-vládu-šejna-5-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -481,3 +482,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (5. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-5-9-2026)
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
 - [Videoportál (7. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026)
+- [Videoportál (8. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-8-9-2026)
