@@ -559,7 +559,9 @@ K záměru Andreje Babiše oddělit a prodat distribuci ČEZ Vrabel rozvíjí te
 
 > „Prakticky celá Česká republika je roz-kra-de-ná." — Ladislav Vrabel, [Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+**12. 9.** — Vrabel rozšiřuje tutéž tezi obecně na politickou třídu: politici a „elity" u moci jsou podle něj bohatí, protože kradou a jsou součástí mafie rozkrádající stát od roku 1989 — na příkladu ministryně financí Aleny Šilerové (odhaduje jí měsíční příjem na tři čtvrtě milionu Kč plus „lobbyistické miliony bokem", oproti běžnému platu poslance kolem 300 tisíc) ilustruje propast mezi životním standardem „elit" a občanů. Popisuje mocenský systém jako rozdělený na "vládnoucí" třídu a "obyčejné lidi", přičemž mnozí politici (jmenuje Tomia Okamuru) se do vládnoucí třídy protlačují bez ohledu na dřívější vlastenecké sliby — motivem je jen udržet si moc, bohatství a výhody funkce.
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 
 ### Dozimetr — vyšetřovací komise míří na „systémové selhání" (Rajchl, 7. 6. 2026)
 

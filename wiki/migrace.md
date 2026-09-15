@@ -719,3 +719,11 @@ Německý ministr zahraničí Johann Wadephul se podle Vrabela vyjádřil ve zpr
 ⚡ **Poznámka:** Přesné znění a kontext vyjádření Johanna Wadephula nelze z přepisu ověřit.
 
 **Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
+### Britská vesnice Pennington chce referendem odejít od Spojeného království kvůli ubytování žadatelů o azyl (Vrabel, 12. 9. 2026)
+
+Obyvatelé malé anglické obce Pennington v Oxfordshiru (jen několik set obyvatel) mají 15. 9. hlasovat v symbolickém, právně nezávazném referendu o tom, zda má obec usilovat o vlastní samosprávu mimo Spojené království — reakce na plán ministerstva vnitra ubytovat v nedalekém bývalém vojenském areálu až 1250 žadatelů o azyl. Vrabel referendum hodnotí jako neúčinné gesto (i kdyby prošlo, migranti by skončili v sousední vesnici) a zdůrazňuje, že podobná opatření se v Británii dějí „všude" už dlouho — kritizuje Brity za to, že si nechali islamizaci země dojít tak daleko (odkazuje na svou zkušenost z pobytu v Londýně a předchozí zprávu o soše „Lady in Blue" na Trafalgar Square), a srovnává to s Paříží, kde už podle vlastního pozorování téměř nevidí bílé obyvatele. Připomíná svou dlouholetou (od 2012–2013) marnou snahu varovat před masovou migrací a vyzývá k urychlenému uzavření hranic ČR, než bude „pozdě".
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)

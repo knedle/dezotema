@@ -1111,6 +1111,33 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 15)
 - **11. 9.** — ceny benzínu a elektřiny — Německo/Rusko/Srbsko srovnání — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+- **12. 9.** — EU neplní cíle odklonu od ruského plynu/ropy; USA restartují jadernou elektrárnu Palisades — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 14)
+- **12. 9.** — AI existenciální riziko — Húsíové zneužili Claude k vývoji raket, 10% šance vyhubení lidstva — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- **12. 9.** — příprava na válku — scénář atentátu jako spouštěče konfliktu — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- **12. 9.** — BRICS summit v Dillí — společná deklarace přes rozkol Írán–SAE — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač. 8)
+- **12. 9.** — dronový útok na saúdský ropovod Východ–Západ; Húsíové tvrdí, že ukončili kampaň a ovládli Bab al-Mandab — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- **12. 9.** — manželka Madura žádá o domácí vězení; protesty na Slovensku proti izraelské ambasádě — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 23)
+- **12. 9.** — Bělorusko — rozsáhlé vojenské prověrky a mobilizační připravenost — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- **12. 9.** — Peskov: žádné setkání Putin–Zelenskyj na G20 v Miami neplánováno — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- **12. 9.** — Trump v Irsku — kritika Evropy, podpora sjednocení Irska — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+### [Kauzy a korupce](../kauzy.md) (pokrač. 8)
+- **12. 9.** — kritika "elit" a jejich platů (ministryně Šilerová) — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 14)
+- **12. 9.** — Německo se připojuje k použití zmrazených ruských aktiv (200 mld.) pro Ukrajinu — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+### [Migrace](../migrace.md) (pokrač. 20)
+- **12. 9.** — referendum britské vesnice Pennington o odtržení od Spojeného království — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 19)
+- **12. 9.** — Zelenskyj mění velení na Donbasu — Bilecký se vrací k Azovu — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 
 ---
 
@@ -1550,6 +1577,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Boris Pistorius | ❌ negativní | Německý ministr obrany — hledá dobrovolníky pro trvalou brigádu v Litvě, v některých případech může nasazení nařídit | 2026-09-11 | [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026) |
 | Wesley Clark | ○ neutrální | Citován — americký generál, který po 11. září viděl v Pentagonu plán války v sedmi zemích (Irák, Sýrie, Libanon, Libye, Somálsko, Súdán, Írán) | 2026-09-11 | [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026) |
 | Mark Carney | ❌ negativní | Kanadský premiér — slíbil Ukrajině přes 300 mld. kanadských dolarů, další příklad západního „plundrování" | 2026-09-11 | [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026) |
+| Alena Šilerová | ❌ negativní | Ministryně financí — odhadovaný měsíční příjem ¾ milionu Kč plus lobbyistické peníze bokem, příklad propasti mezi „elitami" a občany | 2026-09-12 | [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026) |
+| Aleksandr Lukašenko | ○ neutrální | Běloruský prezident — oznámil rozsáhlé vojenské prověrky a mobilizační připravenost s heslem „připravujeme se na válku, aby k ní nedošlo" | 2026-09-12 | [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026) |
+| Andrij Bilecký | ⚖️ rozporuplný | Velitel Azovu — dle Vrabela dříve hlášen jako mrtvý, nyní se vrací do velení nového seskupení „Střed" na Donbasu | 2026-09-12 | [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026) |
+| Nicolás Maduro | ⚖️ rozporuplný | Bývalý venezuelský prezident vězněný v USA — Vrabel se ptá, kdo je skutečný „zločinec", on nebo Trump | 2026-09-12 | [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026) |
 
 ---
 
@@ -1684,3 +1715,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (9. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 - [Facebook Live (10. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
 - [Facebook Live (11. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+- [Facebook Live (12. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)

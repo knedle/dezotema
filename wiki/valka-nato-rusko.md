@@ -1181,3 +1181,27 @@ K výroku generálního tajemníka NATO Marka Rutteho, že spojenci Ukrajiny „
 Vrabel cituje prohlášení ministra zahraničí Sergeje Lavrova, že Rusko nemá v úmyslu napadnout evropské země, ale pokud Evropa napadne Rusko, půjde o „zásadně jinou a velmi krátkou válku" — na rozdíl od pomalu postupující „speciální vojenské operace" na Ukrajině, kde se Rusko podle Lavrova snaží šetřit civilisty jako „slovanské bratry". Vrabel z toho vyvozuje, že případný konflikt s Evropou by byl veden zcela odlišnými prostředky (např. leteckými/raketovými údery), a varuje, že Česká republika dodává přes polovinu munice využívané v konfliktu proti Rusku. Doplňuje tvrzení ředitele ruské zahraniční rozvědky Sergeje Naryškina, že strategické dokumenty Evropské unie do roku 2030 počítají s možnou vojenskou konfrontací s Ruskem — v protikladu k opakovanému rámování ze strany EU (Kaja Kallasová), že Rusko je „existenční hrozbou" pro Evropu.
 
 **Zdroje:** [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+---
+
+### Bělorusko oznamuje rozsáhlé vojenské prověrky a mobilizační připravenost (Vrabel, 12. 9. 2026)
+
+Běloruský prezident Aleksandr Lukašenko oznámil pokračování rozsáhlých kontrol bojové připravenosti ozbrojených sil — po tankových a motostřeleckých jednotkách nyní prověřuje dělostřeleckou brigádu a slibuje prověrky až po mobilizační připravenost celé armády, s heslem „připravujeme se na válku, aby k ní nedošlo". Souběžně se v jižní Gomelské oblasti u vojenského cvičiště staví nová železniční odbočka s kapacitou až 60 vozů pro příjem vojenských vlaků s personálem a technikou. Vrabel srovnává tuto rétoriku s obdobnými signály jinde (polské mobilizační „kartičky", změna mobilizačního zákona v ČR z roku 2024) a s odkazem na vlastního kamaráda z vojenské rozvědky tvrdí, že poslední rok před válkou se typicky dělá tak, aby obyvatelstvo nic netušilo — teprve když vypukne, zavřou se hranice (jako na Ukrajině 24. 2. 2022), aby lidé nemohli odejít a měli „čím bojovat".
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Peskov: žádné setkání Putina se Zelenským na G20 v Miami neplánováno (Vrabel, 12. 9. 2026)
+
+Mluvčí Kremlu Dmitrij Peskov uvedl, že Rusko v současnosti nepřipravuje případné setkání Vladimira Putina s Volodymyrem Zelenským na prosincovém summitu G20 v Miami — pokud chce Zelenskyj s Putinem jednat, může podle Moskvy přijet do Ruska. Zelenskyj mezitím prohlásil, že pokud bude Putin na summitu přítomen, přijede a je připraven se s ním osobně setkat. Vrabel k tomu skeptický — neví, jak by chtěl Zelenskyj Putina k setkání „donutit" — a připomíná svou dlouhodobou tezi, že na slovech nezáleží, dokud Západ nepřijme ruské podmínky (práva ruskojazyčného obyvatelstva Ukrajiny, žádné vojenské ohrožení Ruska); v opačném případě doporučuje „nechat Rusy na pokoji".
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Trump v Irsku kritizuje Evropu a podporuje sjednocení Irska (Vrabel, 12. 9. 2026)
+
+Donald Trump během dvoudenní návštěvy Irska (spojené s účastí na golfovém turnaji Irish Open na svém resortu) ostře kritizoval evropské spojence za jejich přístup k obchodu, energetice a migraci a jejich zdrženlivost vůči americké válečné akci proti Íránu označil za „zklamání" — zároveň prohlásil, že by bylo „fantastické", kdyby se Irská republika sjednotila se Severním Irskem. Vrabel k tomu bez rozsáhlejšího komentáře jen podotýká, že Trump je německého (ne irského) původu, přestože vzhledem připomíná Ira.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)

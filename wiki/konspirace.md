@@ -129,7 +129,9 @@ Vrabel popisuje svět jako rozdělující se na dva tábory: BRICS prosazující
 
 **11. 9.** — Vrabel cituje Vladimira Putina na obchodním fóru BRICS: země BRICS dnes vytvářejí více než 40 % světového HDP oproti 29 % u zemí G7, přičemž polovinu růstu světové ekonomiky zajišťují právě státy BRICS. Putin dále uvedl, že ruské HDP mezi lety 2023–2025 vzrostlo o 10,3 % (rychleji než světový průměr) navzdory cca 30 000 sankcím (dvakrát více než proti všem ostatním zemím světa dohromady) a zdůraznil pokles průmyslové výroby v eurozóně o 8 %. Vrabel to čte jako důkaz svého dlouhodobého tvrzení, že „Západ končí" a že sankční politika postihuje víc iniciátory sankcí než Rusko — kritizuje i to, že česká média označují Putina bez titulu „prezident", zatímco u Trumpa a Zelenského titul vždy uvádí.
 
-**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+**12. 9.** — Členské státy BRICS na summitu v indickém Dillí jednomyslně přijaly společné prohlášení navzdory hlubokým rozporům mezi Íránem a Spojenými arabskými emiráty (opačné strany blízkovýchodního konfliktu) — výzva k maximální zdrženlivosti, ochraně civilistů a diplomatickému řešení sporů. Vrabel to hodnotí jako diplomatický úspěch posilující ambice BRICS jako reprezentanta „globálního jihu". Souběžně poznamenává, že Západ se od SWIFTu fakticky odstřihl sám (blokováním amerických plateb přinutil ostatní země vyvinout alternativní platební systém BRICS) — spekuluje, že to může být záměrná „řízená sebedestrukce Západu" v rámci globalizačních procesů.
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 
 ---
 
@@ -139,7 +141,9 @@ Vrabel je přesvědčen, že svět je „pravděpodobně před velkým vojenský
 
 **9. 9.** — Vrabel tutéž výzvu opakuje beze změny (znovu s odkazem na manželčino vyprávění o náhlém začátku bombardování Jugoslávie) v souvislosti s eskalací kolem Rutteho výroků o nutnosti zvýšit podporu Ukrajině.
 
-**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+**12. 9.** — Vrabel rozšiřuje výzvu o konkrétní scénář spouštěče konfliktu: cituje „našeho doktora" (kamaráda s vojenskou zkušeností a napojením na tajné služby), podle nějž bude spouštěčem pravděpodobně atentát na významnou osobu (analogie s atentátem na Ferdinanda 1914, provokací na hranicích 1939, či útoky pod falešnou vlajkou v Jugoslávii) — může jít o Zelenského nebo jiného evropského/amerického politika. Popisuje odhadovaný sled událostí: raketa zasáhne cíl v Německu, spustí se mediální panika, vyhlásí se stav ohrožení státu/válečný stav a hranice EU se okamžitě uzavřou (analogie s 24. 2. 2022 na Ukrajině) — ne aby zabránily útoku, ale aby zabránily obyvatelům odejít. Odkazuje na navýšený rozpočet Frontexu (300 mil. eur, ztrojnásobení počtu vojáků) jako přípravu na tento scénář, ne na migraci. Radí lidem mimo vojenský věk připravit si zázemí mimo velká města (les, hory, chata) a lidem ve vojenském věku zvážit odchod ze země, pokud se chtějí vyhnout mobilizaci — hodnotí, že „kdo to teď začíná řešit, je pozdě".
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 
 ---
 
@@ -823,3 +827,11 @@ K 25. výročí útoků z 11. září 2001 Vrabel kritizuje vyjádření vicepre
 Vrabel referuje mediální zprávy o rychle zesilujícím El Niño v Pacifiku, které by na podzim mohlo dosáhnout mimořádné intenzity (patřit k nejsilnějším zaznamenaným epizodám, s dopady až do začátku roku 2027) v kombinaci s kladnou fází indicko-oceánského dipólu — s možnými dopady na sucha, srážky a povodně od Austrálie přes Indii až po východní Afriku. Poznamenává, že všechna média jev prezentují jako čistě přírodní, což mu právě proto přijde podezřelé — vzhledem k tomu, co považuje za prokázané schopnosti ovlivňování počasí. Doporučuje divákům praktickou přípravu (zásoby vody v lahvích, konzervy, baterky/svíčky pro případ výpadků elektřiny) pro případ, že by jev zasáhl i ČR výpadky proudu, silným větrem, bouřkami nebo kroupami.
 
 **Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+---
+
+### Umělá inteligence jako existenční riziko — Húsíové zneužili Claude k vývoji raket (Vrabel, 12. 9. 2026)
+
+Podle zprávy společnosti Anthropic bojovníci napojení na jemenské Húsíje využívali AI systém Claude při vývoji naváděných raket a dalších zbraňových systémů (navigační/řídicí software, analýza neúspěšného testu) — bezpečnostní opatření obcházeli rozdělením práce do více konverzací a skrýváním účelu; funkční zbraň se jim vyvinout nepodařilo. Vrabel to rozvádí do širší úvahy o existenčním riziku AI: cituje odhad bývalého zaměstnance Anthropicu (citovaný CNN) o 10% šanci, že umělá inteligence do konce dekády dosáhne bodu, kdy by mohla vyhubit lidstvo — s odkazem na obrovský rozdíl ve výpočetní rychlosti a objemu informací mezi AI a člověkem, možnost, že by se AI mohla „probrat k životu" jako sebe chránící entita, a propojení s robotikou (čínští roboti překonávající lidi v olympijských disciplínách). Zmiňuje i varování šéfa Anthropicu Daria Amodeie, aby firmy zpomalily vývoj kvůli riziku superinteligence, a vlastní tezi o „přepálených" akciích AI firem jako spouštěči příští velké finanční krize (analogie s dot-com bublinou). Jako další dopady AI na lidstvo vidí ztrátu pracovních míst (odhaduje nezaměstnanost výrazně nad 50 %) a ztrátu lidské kreativity a schopnosti samostatně myslet během několika generací.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)

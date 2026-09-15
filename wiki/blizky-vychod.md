@@ -598,3 +598,35 @@ Podle deníku Haaretz varoval prezident Spojených arabských emirátů izraelsk
 Rada guvernérů Mezinárodní agentury pro atomovou energii (23 z 35 hlasů) rozhodla předat íránský jaderný spis Radě bezpečnosti OSN pro dlouhodobou nespolupráci Teheránu při objasňování nálezů uranu na nedeklarovaných místech — otevírá to možnost nových sankcí, ač Írán svůj program označuje za mírový. Vrabel opakuje svou dlouhodobou tezi: Rusko a Čína (které mají v Radě bezpečnosti právo veta) tvrdí, že Írán svou dřívější dohodu plnil bezchybně a nemá vojenský jaderný program, zatímco západní většina v Radě guvernérů prosadila předání věci OSN, aby vytvořila politický a mediální tlak ospravedlňující dřívější americký útok na Írán před listopadovými volbami v USA. Předpokládá, že než se věc v OSN skutečně projedná, budou už americké volby za námi a Rusko s Čínou návrh v Radě bezpečnosti „smetou ze stolu" vetem — celé je to tedy podle něj jen „mediální příběh".
 
 **Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
+### Dronový útok na saúdský ropovod Východ–Západ (Vrabel, 12. 9. 2026)
+
+Saúdská Arábie dočasně uzavřela strategický ropovod Východ–Západ (1200 km, kapacita 4–5 mil. barelů denně, tranzit ale reálně jen kolem 3 mil. barelů/den) po útoku dronů, které podle Rijádu a Bagdádu přiletěly z Iráku — jde až o 5 % světové spotřeby ropy. K útoku se nikdo nepřihlásil, Donald Trump uvedl, že za ním „určitě" stojí Írán. Vrabel spojuje výpadek s již probíhajícím omezením průlivu Hormuz (odhaduje schodek 20 mil. barelů/den) a předpovídá další zdražení pohonných hmot v ČR.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Húsíové tvrdí, že ukončili vojenskou kampaň a ovládli Bab al-Mandab (Vrabel, 12. 9. 2026)
+
+Podle svého představitele Husama al-Assada Húsíové oznámili ukončení vojenské kampaně v Jemenu s tím, že ovládli část západního pobřeží včetně strategického ostrova Perim v průlivu Bab al-Mandab a že lodní doprava nyní probíhá běžně — hnutí chce z kontroly klíčové námořní trasy ekonomicky těžit. Vrabel tvrzení o „ukončení" odmítá jako předčasné — podle něj se konflikt na Blízkém východě naopak dál rozvíjí a je jen součástí širšího vzorce eskalace (Hormuz, Bab al-Mandab), jehož ekonomické důsledky (nedostatek ropy, hnojiv, jídla) se v Evropě plně projeví teprve na podzim a v příštím roce. Klade otázku „proč" USA (Trump) rozjely tyto konflikty, když mohly zajistit dostatek ropy i hnojiv bez nich — srovnává současnou globální ekonomickou krizi s covidovou pandemií, s tím rozdílem, že tuto krizi podle něj lidé vyvolali vědomě, ne nemoc.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Manželka Nicoláse Madura žádá o domácí vězení ze zdravotních důvodů (Vrabel, 12. 9. 2026)
+
+Cilia Floresová, manželka bývalého venezuelského prezidenta Nicoláse Madura (oba drženi ve federální vazbě v Brooklynu, obviněni z pašování kokainu), požádala amerického soudce o převedení do domácího vězení s odkazem na zhoršené srdeční onemocnění vyžadující specializovaný zákrok. Vrabel se ptá, zda je vůbec „normální", aby prezident a „prezidentová" suverénní země seděli v americkém vězení — navazuje na svou dřívější tezi, že cílem USA je ovládnout venezuelskou ropu prostřednictvím dosazené loutkové vlády, a obrací otázku viny: „kdo je tady zločinec — Madurovi, nebo Trump?"
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Protesty na Slovensku proti otevření izraelské ambasády (Vrabel, 12. 9. 2026)
+
+Tisíce lidí demonstrovaly v Bratislavě proti otevření prvního izraelského velvyslanectví na Slovensku — nesly palestinské vlajky a transparenty na podporu Palestiny. Otevření ambasády představuje obrat v zahraniční politice vlády premiéra Janši oproti jeho předchůdci Golobovi, který Palestinu uznal a zavedl sankční opatření vůči Izraeli, jež Janšova vláda zrušila; opozice kvůli tomu podala návrh na Janšovo odvolání. Vrabel k tomu jen krátce a sarkasticky poznamenává obavu, aby lidé „nakonec nebyli všichni buď mrtví, nebo obřezaní".
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)

@@ -445,7 +445,9 @@ Finanční depozitář Euroclear se odvolal proti rozhodnutí Moskevského arbit
 
 **5. 8.** — EU uvolnila pro Ukrajinu dalších 1,4 mld. eur z výnosů (úroků z hotovostních zůstatků) zmrazených ruských rezerv — jde už o pátý takový převod, dosud vyneslo cca 8 mld. eur; samotná jistina (přes 210 mld. eur) zůstává zablokovaná. 95 % částky míří přes „úvěrový mechanismus" na Ukrajinu, zbytek přes Evropský mírový nástroj. Vrabel to označuje za krádež cizích peněz srovnatelnou s americkým zmrazením 100 mld. dolarů Íránu — a varuje, že až konflikt skončí, účet nakonec zaplatí evropští daňoví poplatníci.
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026)
+**12. 9.** — Německo se připojilo k zemím prosazujícím použití celé jistiny zmrazených ruských aktiv v Euroclearu (cca 200 mld. eur) na financování zbraní pro Ukrajinu. Vrabel se ptá, kdo bude po kancléři Friedrichu Merzovi (bývalém šéfovi BlackRock Deutschland) tuto krádež vymáhat, až Rusko požádá o vrácení peněz — odpovídá, že „nikdo", protože takoví politici jednají podle zásady „po nás potopa": vědí, že za důsledky svých rozhodnutí (např. i konečnou platbu za "ukradené" peníze) nakonec zaplatí sami občané po jejich odchodu z funkce, případně po budoucím nástupu jiné strany (např. AfD v Německu).
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 
 ---
 

@@ -342,7 +342,17 @@ Vrabel staví Srbsko jako protiklad „šikany" v ČR/EU a uvádí dva konkrétn
 
 > „Jestli Polákům rusové vadí [...], tak to přece nemusí kupovat. A nám, když nevadí, tak to kupovat můžeme. [...] Jediné, co je potřeba, je nebýt v Evropské unii." — Ladislav Vrabel, [Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026)
+**12. 9.** — Podle Evropského účetního dvora EU neplní svůj plán na omezení závislosti na ruské ropě a plynu — dovoz ruského plynu sice výrazně klesl, ale hlavním důvodem podle auditorů nebyl program REPowerEU, nýbrž nižší spotřeba způsobená vysokými cenami energií a mírnější zimou; některé státy navíc ruský plyn nadále dovážejí ve velkých objemech. Vrabel k tomu dodává, že pokud to EU myslí s odstřižením od Ruska vážně, Rusko prostě přesměruje své dodávky do Číny a Indie — a i kdyby později chtěla znovu nakupovat, obnovení kontraktů může být obtížné. Zmiňuje, že Jindřich Rajchl veřejně podpořil nákup ruského plynu s tím, že si je vědom rizika nenávisti za tento postoj — a ironicky poznamenává, že o tomtéž mluví už čtyři roky.
+
+**Zdroje:** [Vrabel — Zprávy v devět 27. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-6-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### USA restartují jadernou elektrárnu Palisades — první obnovený reaktor v historii (Vrabel, 12. 9. 2026)
+
+Spojené státy zahájily zavážení 204 palivových souborů do reaktoru jaderné elektrárny Palisades (odstavené od roku 2022) v rámci jejího restartu — pokud kontroly proběhnou bez problémů, měla by se elektrárna vrátit do provozu ještě letos jako první americká jaderná elektrárna znovu zapnutá po vyvezení paliva. Restart souvisí s rostoucí spotřebou elektřiny kvůli datovým centrům a umělé inteligenci. Vrabel to komentuje krátce pozitivně jako návrat k jaderné energii.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 
 ---
 

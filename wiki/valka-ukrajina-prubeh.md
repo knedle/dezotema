@@ -802,7 +802,9 @@ Moskva odsoudila výroky velitele ukrajinských pozemních sil Michaila Drapaté
 
 Americká blogerka zveřejnila rozhovor se zakladatelem praporu Azov Andrijem Bileckým, který odmítl označení „nacista" s tím, že členové Azovu jsou „nacionalisté", a upozornil, že symboly spojované s nacismem (hákový kříž, symboly SS) používali ukrajinští kozáci už před 300 lety. Vrabel k tomu rozvádí svou vlastní definici, kterou uplatňuje napříč tématem (viz výše Drapatyj, 25. 7.): nacismus pro něj neznamená formální spojení s Hitlerem a lety 1938–45, ale jakoukoli ideologii, která na základě národnosti prohlašuje jeden národ za nadřazený a potlačuje práva jiného — zdravý nacionalismus (hrdost na vlastní národ, jako u Čechů) je v pořádku, nacismus začíná tam, kde se upírá právo jinému národu existovat nebo se svobodně hlásit ke své identitě. Podle této definice je Azov nacistický nejen kvůli historické symbolice (tetování s Hitlerem a hákovými kříži u zajatých vojáků), ale především kvůli potlačování práv rusky mluvících obyvatel Ukrajiny na jejich národní identitu — stejný argument, jímž zdůvodňuje i hodnocení generála Drapatého. Připomíná, že UPA jako „nacionalistická" organizace vznikla už kolem roku 1920, tedy dřív, než Hitler ovládl Německo, takže vazba na nacismus nemusí být formálně administrativní, ale ideologická.
 
-**Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+**12. 9.** — Zelenskyj přeskupuje velení na Donbasu: vytváří nové dočasné vojenské seskupení „Střed" pro obranu většiny Doněcké oblasti a jeho velitelem jmenuje brigádního generála Andrije Bileckého, který zároveň zůstává v čele 3. armádního sboru. Vrabel si ironicky povšiml, že Bilecký byl podle dřívějších zpráv „před dvěma týdny" hlášen jako mrtvý, a nyní se přesto vrací do velení — komentuje to jako „scifi" nesrovnalost v narativu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 
 ---
 
