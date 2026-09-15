@@ -1032,6 +1032,27 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 6)
 - **8. 9.** — teorie „izraelského Pearl Harboru" — Netanjahu varován SAE před útokem Hamasu 7.10.2023 — [Facebook Live 8. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+- **9. 9.** — protesty v Albánii proti Kushnerovu projektu escalují po 100 dnech — „plamenákova revoluce", střet s policií, přerůstá do protivládního protestu proti Edimu Ramovi — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 21)
+- **9. 9.** — kritika smlouvy ČR–Ukrajina o vojenské spolupráci uprostřed konfliktu; role Ukrajiny v mírových jednáních; Porošenkův výrok o „čistých školách"; Lavrov o Donbasu — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+- **9. 9.** — Lavrov: útok na Evropu by vedl k „velmi krátké" válce; Naryškin o plánech EU do 2030 — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+- **9. 9.** — šéf CIA Ratcliffe posiluje roli na úkor Witkoffa a Kushnera — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+### [Média a propaganda](../media-propaganda.md) (pokrač.)
+- **9. 9.** — Facebook druhý den po sobě vypnul živé vysílání v polovině — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 11)
+- **9. 9.** — opakuje beze změny výzvu „zachraň se, kdo můžeš" (Jugoslávie jako analogie) — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 16)
+- **9. 9.** — rétorika vs. realita vlády, Okamurův návrh zrušení dávek jako populistická clona, „koalice ochotných" jako chybný překlad — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 16)
+- **9. 9.** — ukrajinský dron zasáhl Nový Urengoj, 2800 km od hranic — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+### [Migrace](../migrace.md) (pokrač. 18)
+- **9. 9.** — EU posílá 147 mil. eur Španělsku na migraci v Ceutě; opakovaný odkaz na Rotherham — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 
 ---
 
@@ -1461,6 +1482,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Tomáš Hrdlička | ✅ pozitivní | Host vysílání — vlastní vylíčení zadržení a výslechu na Bartolomějské za odznak „Z" | 2026-09-06 | [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026) |
 | Petr Bubeníček | ✅ pozitivní | Host vysílání, advokát — poskytl právní rozbor kauzy „Z", potvrdil právní nejistotu a kritizoval justiční praxi | 2026-09-06 | [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026) |
 | Sergej Lavrov | ○ neutrální | Citován: incident v Lipsku označil za „skutečný začátek" reálné války, podmínil mír plnými právy ruskojazyčného obyvatelstva Ukrajiny | 2026-09-06 | [Facebook Live 6. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026) |
+| Petro Porošenko | ❌ negativní | Citován výrok, že ukrajinské děti budou chodit do „čistých" ukrajinských škol, zatímco Rusové budou „někde ve sklepích" — dokládá dle Vrabela, že Ukrajina neumí zajistit práva vlastním obyvatelům | 2026-09-09 | [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026) |
+| Sergej Lavrov | ○ neutrální | Varuje, že útok Evropy na Rusko by vedl k „velmi krátké" válce, na rozdíl od pomalé speciální operace na Ukrajině, kde Rusko šetří „slovanské bratry" | 2026-09-09 | [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026) |
+| Edi Rama | ❌ negativní | Albánský premiér — protesty proti Kushnerovu realitnímu projektu se rozšiřují do širšího protivládního hnutí proti jeho vládě | 2026-09-09 | [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026) |
 
 ---
 
@@ -1592,3 +1616,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026)
 - [Facebook Live (7. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-7-9-2026)
 - [Facebook Live (8. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+- [Facebook Live (9. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)

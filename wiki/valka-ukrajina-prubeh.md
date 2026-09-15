@@ -1093,3 +1093,11 @@ Podle agenturní zprávy zasáhl dron kancelář šéfa ukrajinské tajné služ
 K probíhajícím jednáním Witkoffa a Kushnera v Moskvě Rajchl tvrdí, že skutečnými zájemci o mír jsou jen USA a Rusko — Evropská unie mír nechce, protože rozjela válečnou ekonomiku prospívající zbrojařským firmám sponsorujícím politiky, a ani Volodymyr Zelenskyj o ukončení války nestojí, protože válka mu umožňuje udržet se u moci a dál rozkrádat veřejné a zahraniční finance. Jako důkaz uvádí, že Zelenskyj požádal Evropskou unii o předčasnou výplatu jedné z tranší již schválené půjčky 90 mld. eur (rozdělené do několika splátek podle kalendáře) — což Rajchl čte jako signál, že „cítí, že se mu krátí čas". Zmiňuje také, že protikorupční akce Kraken zadržela při korupci nejvyššího státního žalobce Ukrajiny — s poznámkou, že by bylo rychlejší sepsat seznam ukrajinských činitelů, kteří v korupci zapojeni nejsou, protože takový seznam by byl velmi krátký.
 
 **Zdroje:** [Rajchl — Facebook Live 6. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
+
+---
+
+### Ukrajinský dron zasáhl průmyslový areál v Novém Urengoji, 2800 km od hranic (Vrabel, 9. 9. 2026)
+
+Vrabel referuje zprávu, že ukrajinský dron zasáhl průmyslové zařízení v ruském městě Nový Urengoj (Jamalsko-Něnecký autonomní okruh) — vzdáleném zhruba 2800 km od ukrajinských hranic — kde po útoku vypukl požár; podle guvernéra oblasti nebyl nikdo zabit ani zraněn. Ruský prezidentský zmocněnec uvedl, že dron se pokusil zasáhnout energetické zařízení v oblasti. Bez vlastního komentáře.
+
+**Zdroje:** [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)

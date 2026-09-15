@@ -75,7 +75,9 @@ Vrabel referuje o dohodě Izraele a Libanonu o příměří, zprostředkované T
 
 Vrabel komentuje summit EU–Západní Balkán v Tivatu (von der Leyen: bez západního Balkánu nebude EU „úplná"). Předpovídá vstup Černé hory do EU nejpozději do roku 2028 (dobré pro investory do nemovitostí, špatné pro zemi — analogie s Chorvatskem, kde EU regulovala velikost ok v rybářských sítích ve prospěch Italů). Rozvíjí příběh Ivanky Trumpové a Jareda Kushnera (na jachtě s Nedem Rothschildem), kteří si „objevili" chráněný albánský ostrov (bílé písečné pláže, bývalá vojenská základna s bunkry — analogie s Epsteinovým ostrovem) a chtějí tam realizovat realitní projekt; Albánci proti tomu šestý den protestují, podobně jako předtím Srbové vyhnali Kushnera z Bělehradu. Navazuje na [Kushnerovy realitní projekty na „hřbitovech"](#kushnerovy-realitní-projekty-na-hřbitovech--protesty-v-srbsku-albánii-gaze-vrabel-3-6-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026)
+**9. 9.** — Protesty proti projektu (dle Vrabela chráněná krajinná oblast s koloniemi plameňáků, proto přezdívka „plamenákova revoluce") trvají už přes 100 dní a vyústily ve střet s policií před albánským parlamentem (demonstranti házeli vejce, rajčata a plastové láhve, policie v zásahové výstroji tvrdě zatýkala). Protesty se podle Vrabela postupně rozšiřují do širšího protivládního hnutí proti premiérovi Edimu Ramovi. Rámuje to jako obecný „boj elit proti lidem", v němž policie chrání zahraniční investory na úkor vlastních obyvatel.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 
 ---
 

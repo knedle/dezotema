@@ -562,3 +562,11 @@ Rajchl kritizuje moderátorku Adélu Snopovou (CNN Prima News) za rozhovor s Vá
 Šejna kritizuje, že média po zveřejnění rozhovoru Vojtěcha Pšenáka s Petrem Macinkou natočeného na skrytou kameru řeší jen to, jak byl Macinka „neopatrný" — ale ignorují, že tentýž Pšenák dříve v rozhovoru schválil vraždu politického aktivisty na opačné straně politického spektra (na otázku, zda je dobře, že ho zastřelili, odpověděl, že „mohlo to přijít dřív"). Tvrdí, že média by podobný výrok normálně odsoudila jako škodící vlastní straně, ale protože nesedí k „chvilkařskému narativu", o něm raději nereferují — viz i samotný výrok zaznamenaný v [stochastickém teroru](stochasticky-teror.md).
 
 **Zdroje:** [Restart Česko — Videoportál 4. 9. 2026](_zdroje.md#restart-česko--videoportál-4-9-2026-media-selektivita)
+
+---
+
+### Facebook druhý den po sobě vypnul Vrabelovo živé vysílání v polovině (Vrabel, 9. 9. 2026)
+
+Vrabel upozorňuje, že Facebook mu už druhý den v řadě uprostřed vysílání „Zprávy v devět" ukončil živý přenos (celé vysílání je dostupné jen na YouTube); divákům se navíc nedaří jeho příspěvky sdílet. Interpretuje to jako záměrné potlačování obsahu, který se „nehodí" do jednosměrného mediálního rámování války s Ruskem, a připomíná svou opakovanou tezi o cenzuře vlastního kanálu ze strany Facebooku/vlády.
+
+**Zdroje:** [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)

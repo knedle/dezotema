@@ -234,7 +234,9 @@ Vrabel k pokračující krizi v Ceutě (podle něj plánovaný příliv až 3 mi
 
 Ve druhém videu z téhož dne (Facebook Live) Vrabel k eskalaci v Ceutě dodává: cituje Ursulu von der Leyenovou („Do Evropy nepustíme nikoho, kdo nerespektuje pravidla"), ale podobná vyjádření politiků (Babiš, Meloni, Švédové volající po vyřazení Španělska ze Schengenu) označuje za pouhé „chlazení davu" bez reálného obsahu — technicky nelze uzavřít tisíce kilometrů španělské hranice. Zpochybňuje údaj o 37 500 „dobrovolně" vrácených migrantech do Maroka (pozemní přechod je přitom oficiálně uzavřen). Popisuje, že příliv byl vyvolán jednostranným rozhodnutím španělské vlády udělit legální status uprchlíka až 700 000 lidem. Jako varování, kam otevřená migrace vede, uvádí případ Rotterhamu (dlouhodobě přehlížené zneužívání a obchod s nezletilými dívkami organizovanými skupinami). Doplňuje osobní historii svého angažmá proti migraci od roku 2013 (spolupráce s Islám v ČR nechceme, Martinem Konvičkou, americkým profesorem Billem Warnerem) a připomíná dřívější hlasování Kateřiny Konečné v Evropském parlamentu pro „legální cesty" pro migranty z Afriky jako důkaz dlouhodobého plánu EU. Uzavírá, že jediným řešením zůstává vystoupení z EU. Navazuje na jeho opakovanou tezi o Kalergiho plánu a na [Migrační pakt vynutí přerozdělení (Videoportál, 31. 7.)](#migrační-pakt-vynutí-přerozdělení-do-zemí-kde-ještě-nejsou--polsko-čr-slovensko-maďarsko-vrabel-31-7-2026).
 
-**Zdroje:** [Vrabel — Facebook Live 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026)
+**9. 9.** — K nové zprávě, že Evropská komise schválila Španělsku mimořádnou pomoc 147 mil. eur na zvládnutí migrace v Ceutě (desítky tisíc nelegálních příchodů z Maroka, přes 2000 nezletilých migrantů), Vrabel ironicky komentuje, že peníze věc automaticky „vyřeší", a opakuje beze změny odkaz na Rotherham jako varování před tisíci znásilnění, která podle něj podobná politika přehlížení dlouhodobě umožňuje.
+
+**Zdroje:** [Vrabel — Facebook Live 31. 7. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-7-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 
 ---
 

@@ -135,7 +135,9 @@ Vrabel popisuje svět jako rozdělující se na dva tábory: BRICS prosazující
 
 Vrabel je přesvědčen, že svět je „pravděpodobně před velkým vojenským konfliktem", a opakuje svou výzvu z minulé zimy „zachraň se, kdo můžeš". Zatímco multimiliardáři si podle něj staví obří bunkry a kupují soukromé ostrovy a nejvyšší elity se schovají (např. v Černé Hoře či Srbsku, kde se podle něj válčit nebude), obyčejní lidé by si měli zajistit aspoň skromné zázemí, kde přežijí a vypěstují si jídlo (sám proto „lepí parkety"). Jako analogii uvádí vyprávění manželky o náhlém začátku bombardování Bělehradu v Jugoslávii a svržení atomových bomb na Japonsko — zdánlivý klid se může zlomit ze dne na den. Navazuje na [Přicházející hospodářská krize](#přicházející-hospodářská-krize--záměrné-plánování) a [Bílý muž jako záměrně likvidovaná překážka](#bílý-muž-jako-záměrně-likvidovaná-překážka-globalismu-vrabel-17-5-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+**9. 9.** — Vrabel tutéž výzvu opakuje beze změny (znovu s odkazem na manželčino vyprávění o náhlém začátku bombardování Jugoslávie) v souvislosti s eskalací kolem Rutteho výroků o nutnosti zvýšit podporu Ukrajině.
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 
 ---
 
