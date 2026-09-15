@@ -628,7 +628,9 @@ Navrhované řešení, které dosud nejpodrobněji shrnuje: (1) okamžitá remig
 
 **4. 9.** — K nařízení EU, které nově odmítá dočasnou ochranu ukrajinským mužům v odvodovém věku bez prokázané vojenské povinnosti, Rajchl opakuje své rozlišení uprchlík/migrant a svůj návrh na deportace (viz výše, 9. 8.) — jako vzor navíc uvádí Dánsko, které identifikovalo 14 „bezpečných zón", odkud nepřijímá žádné ukrajinské migranty.
 
-**Zdroje:** [Rajchl — Videoportál 4. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-4-9-2026-migrace)
+**9. 9.** — V televizní debatě Rajchl tutéž tezi (zneužívání dávek a dočasné ochrany ukrajinskými migranty, desítky milionů Kč měsíčně unikající ze státního rozpočtu; Dánsko a jeho 14 „bezpečných zón" jako vzor) opakuje beze změny.
+
+**Zdroje:** [Rajchl — Videoportál 4. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-4-9-2026-migrace), [Rajchl — Videoportál 9. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
 
 ---
 

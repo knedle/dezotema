@@ -125,6 +125,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **27. 8.** — kolaps čekacích dob na diagnostická vyšetření (3/4 lidí přes měsíc, 1/3 přes čtvrt roku) jako důsledek ukrajinské migrace; návrh přesměrovat peníze z Národní očkovací strategie do obnovy zdravotnického personálu — [Videoportál 27. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-27-8-2026) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
 - **4. 9.** — k novému nařízení EU (konec dočasné ochrany pro ukrajinské muže v odvodovém věku bez prokázané vojenské povinnosti) opakuje rozlišení uprchlík/migrant a návrh deportací; nově uvádí Dánsko (14 „bezpečných zón") jako vzor — [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-4-9-2026-migrace) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
 - **6. 9.** — ukrajinská call centra okrádají evropské důchodce o miliardu dolarů měsíčně; navrhuje veto návrhů ve prospěch Ukrajiny, dokud to nezastaví — [Facebook Live 6. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026) → [migrace.md](../migrace.md#ncoz-studie-organizovaný-zločin-v-čr-ovládli-ukrajinci--rajchl-5-5-2026)
+- **9. 9.** — v televizní debatě opakuje beze změny zneužívání dávek a dočasné ochrany ukrajinskými migranty a Dánsko jako vzor (14 „bezpečných zón") — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -182,6 +183,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **30. 8.** — rozhovor Petra Pavla na CNN Prima News jako „tragikomedie" — kritika návrhu na snížení počtu nemocnic a přístrojů, vlastní program zdravotnictví/školství (stipendia vázaná na závazek zůstat v ČR) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [petr-pavel.md](../petr-pavel.md#rozhovor-na-cnn-prima-news-jako-tragikomedie--návrh-na-snížení-počtu-nemocnic-a-přístrojů-rajchl-30-8-2026)
 - **30. 8.** — kompletní přehled ekonomického programu PRO (škrty výdajů, zrušení Leopardů/F-35, konec dotací neziskovkám, zrušení ETS1/ETS2, sektorové daně bank/zbrojařů, digitální daň) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
 - **7. 9.** — debata na VOX TV s Janem Jakobem (TOP 09), který ze studia odešel; obvinění Otakara Foltína (TOP 09) z nacistické rétoriky za oslovení části národa slovem „svině" — [Videoportál 7. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
+- **9. 9.** — televizní debatní spor se starostou Tetína „Matějem" — zpochybnění jeho kompetence poučovat o rozpočtu; opakuje beze změny sektorové daně (banky, zbrojaři, digitální daň) — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [politicky-system.md](../politicky-system.md#debatní-spor-s-matějem-z-tetína--zpochybnění-kompetence-kritika-rozpočtu-rajchl-9-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -372,6 +374,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Andrzej Duda | ✅ pozitivní | Bývalý polský prezident — v podcastu uvedl, že Zelenskyj věděl o ukrajinském původu rakety (2022) předem a přesto žádal svalit vinu na Rusko | 2026-09-03 | [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) |
 | Jana Černochová | ❌ negativní | Po polském raketovém incidentu 2022 na síti X vyzývala ke zvážení aktivace čl. 5 NATO, než se ukázalo, že šlo o ukrajinskou raketu — příklad unáhlené reakce | 2026-09-03 | [Videoportál 3. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-3-9-2026) |
 | Jan Papjanovský | ❌ negativní | Poslanec STAN v komisi Dozimetr — porušil dohodnutý způsob komunikace o zjištěních komise a veřejně to nazval „cenzurou"; Rajchl to odmítá a hrozí stejnou reakcí | 2026-09-04 | [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026) |
+| Matěj (starosta Tetína) | ❌ negativní | V debatě kritizuje Rajchlovo rozpočtové hospodaření; Rajchl to odmítá jako nekompetentní — kritik podle něj „málem zbankrotoval" vlastní obec | 2026-09-09 | [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) |
 
 ---
 
@@ -483,3 +486,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
 - [Videoportál (7. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026)
 - [Videoportál (8. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-8-9-2026)
+- [Videoportál (9. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)

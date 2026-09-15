@@ -4673,3 +4673,10 @@
 - **Datum záznamu:** 2026-09-08
 - **Zpracováno:** ano
 - **Poznámka:** Ohlédnutí za týdnem — pokračování BEWIT rozhovoru (repríza), obnova ČSR a reparace, měnová reforma 1953, privatizace bank a Plzeňského Prazdroje (jmenovité banky + konkrétní čísla), sdílené video Fed/Rothschild/Titanic, pozdrav Füllmichovi přes Pekovou.
+
+## Jindřich Rajchl — Videoportál (9. 9. 2026) {#jindřich-rajchl--videoportál-9-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-09_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1627220585689997>
+- **Datum záznamu:** 2026-09-09
+- **Zpracováno:** ano
