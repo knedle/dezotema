@@ -147,6 +147,12 @@ Lenka Tarabová sdílí video anglicky mluvícího hosta, který zastává radik
 
 **Zdroje:** [Tarabová — Podvod století: virologie jako pseudověda, 2026-04-02](_zdroje.md#lenka-tarabová--podvod-století-virologie-jako-pseudověda-2-4-2026)
 
+**11. 9.** — Zítko rozšiřuje tutéž tezi o konkrétní moderní studii: v tzv. „human challenge" experimentu (Center for Clinical Vaccinology and Tropical Medicine a Oxford Experimental Medicine Clinical Research Facility, výsledky publikované v časopise *Lancet Microbe* 1. 5. 2024) bylo 36 zdravých dobrovolníků (18–30 let) intranazálně vystaveno vzorku SARS-CoV-2 a sledováno 12 měsíců — u žádného z nich se navzdory eskalaci dávky nepodařilo vyvolat trvalou infekci (u 5 z 36 byla PCR testem zjištěna jen „přechodná" infekce). Zítko to interpretuje jako důkaz, že virus SARS-CoV-2 nesplňuje ani základní definici nakažlivosti, a cituje k tomu i knihu *The Contagion Myth* (Thomas Cowen, Daniel Roytas) shrnující, že u žádného kontrolovaného lidského experimentu s nakažlivostí historicky nedošlo k prokázanému přenosu nemoci (včetně pokusů, kdy byl hlen nemocného vstříknut opici a její krev pak zdravému člověku) — příznaky vysvětluje uvolněním zánětlivých látek (histamin, bradykinin) v těle, ne přenosem patogenu. Doplňuje historickou paralelu: v roce 1918 bylo v bostonské věznici 50 vězňům vstříknuto hlen nemocných španělskou chřipkou a nikdo z nich neonemocněl.
+
+⚡ **Konflikt:** Citovaná studie z *Lancet Microbe* je reálná publikace (SARS-CoV-2 human challenge trial), ale její výklad jako důkazu „neexistence nakažlivosti" je v rozporu s vědeckým konsensem — nízká míra infekce v laboratorní challenge studii má metodologické důvody (dávka, imunita dobrovolníků) a neznamená absenci přenosu viru v reálném světě.
+
+**Zdroje:** [Pavel Zítko — Videoportál 11. 9. 2026](_zdroje.md#pavel-zítko--videoportál-11-9-2026)
+
 ---
 
 ### I americké senátní vyšetřování jde „špatným směrem", protože nezpochybňuje infekční teorii (Tarabová, 30. 6. 2026)
@@ -202,6 +208,16 @@ Lenka Tarabová sdílí oznámení VZP, že pojistěnci, kteří se nechají oč
 ---
 
 ## Pokusy o vyšetřování
+
+### Kanadské veřejné slyšení o újmách po vakcínách — Ellisonovo vyšetřování (Zítko, 11. 9. 2026)
+
+Zítko informuje o čtyřdenním veřejném slyšení probíhajícím v Kanadě, kde v rámci tzv. „Ellisonova vyšetřování" vystupují oběti covidových vakcín se svými svědectvími — organizátoři měli obdržet přes 1400 žádostí od lidí z celé Kanady, kteří chtějí vypovídat o zdravotních újmách po očkování. Zítko dodává, že kanadští lékaři a poslanci mají zakázáno o vakcinačních úrazech mluvit veřejně a že ti, kdo v rámci vyšetřování promluví, čelí „obrovskému nátlaku, teroru a finančnímu krachu". Doporučuje divákům sledovat přímé přenosy slyšení pro ty, kdo umí anglicky.
+
+⚡ **Poznámka:** Rozsah, formu a výsledky tohoto kanadského slyšení nelze z přepisu ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Pavel Zítko — Videoportál 11. 9. 2026](_zdroje.md#pavel-zítko--videoportál-11-9-2026)
+
+---
 
 ### Vzorky vakcín bez zájmu úřadů — Soňa Peková
 
@@ -1032,7 +1048,9 @@ Přebírá článek Romana Malého (odkaz na Dianu Weil), podle nějž je von de
 
 ⚡ **Poznámka:** Genealogická a „eugenická" tvrzení o von der Leyenové jsou nepodložená konspirační narace šířená okrajovými zdroji.
 
-**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+**11. 9.** — Zítko dokládá totéž tvrzení citací europoslankyně Christine Andersonové (AfD), která na plénu Evropského parlamentu měla hovořit o probíhajícím trestním vyšetřování Ursuly von der Leyenové ohledně zmizelých SMS zpráv s Albertem Bourlou (Pfizer) — beze změny oproti 16. 7., jen doplňuje přesnou částku podepsané smlouvy (71 mil. eur za 4,5 miliardy dávek, tedy 10 dávek na obyvatele EU).
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026), [Pavel Zítko — Videoportál 11. 9. 2026](_zdroje.md#pavel-zítko--videoportál-11-9-2026)
 
 ---
 
@@ -1116,7 +1134,9 @@ Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob co
 
 ⚡ **Poznámka:** Uvedené statistiky observační zprávy nelze nezávisle ověřit; jde o nekontrolovanou dotazníkovou studii bez kontrolní skupiny.
 
-**Zdroje:** [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
+**11. 9.** — Zítko opakuje tutéž statistiku (84,4 % klinický přínos) beze změny, s odkazem na Nicholase Halschera z McCullough Foundation a na sdílení Alexem Jonesem.
+
+**Zdroje:** [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026), [Pavel Zítko — Videoportál 11. 9. 2026](_zdroje.md#pavel-zítko--videoportál-11-9-2026)
 
 ---
 

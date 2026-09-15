@@ -4709,3 +4709,11 @@
 - **URL:** <https://www.facebook.com/100087923704145/videos/4614582672155222>
 - **Datum záznamu:** 2026-09-10
 - **Zpracováno:** ano
+
+## Pavel Zítko — Videoportál (11. 9. 2026) {#pavel-zítko--videoportál-11-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-11_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1064111389582979&_rdr>
+- **Datum záznamu:** 2026-09-11
+- **Zpracováno:** ano
+- **Poznámka:** COVID-19 podvod, virologie podvod — z velké části repríza (BEWIT, PCR podvod, Chomutovský spis, McCullough ivermectin studie); nové: Oxfordská human challenge studie 2024 (Lancet Microbe), kanadské Ellisonovo vyšetřování, Christine Anderson v EP.
