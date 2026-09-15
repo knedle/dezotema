@@ -1138,6 +1138,25 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 19)
 - **12. 9.** — Zelenskyj mění velení na Donbasu — Bilecký se vrací k Azovu — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- **13. 9.** — obrácená teze „genocidy": 2–2,4 mil. mrtvých ukrajinských vojáků, Zelenskyj jako 9. největší vlastník půdy v USA, dovoz 500 tis.–9 mil. uprchlíků z Asie jako náhrada za padlé — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+- **13. 9.** — opakování třífázové teze (Majdan 2013 jako přípravná fáze) beze změny — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+### [DSA a cenzura](../dsa-cenzura.md) (pokrač. 5)
+- **13. 9.** — kauza Hrdličky: kolektivní vina nepřípustná, srovnání s insigniemi Bundeswehru navazujícími na Wehrmacht — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+### [Petr Pavel](../petr-pavel.md) (pokrač. 4)
+- **13. 9.** — formálně převzal zastupování zahraniční politiky ČR od Babiše na summitu NATO v Tiraně (dohoda s Macinkou/Babišem, dle ČT24) — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 15)
+- **13. 9.** — ztrojnásobení Frontexu (300 mil. EUR, 3× personál) jako příprava na uzavření hranic při válce, ne na migraci — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 24)
+- **13. 9.** — Vučić oznamuje rezignaci na přelomu 25.–26. 9. — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+- **13. 9.** — Zelenskyj varuje před nebezpečností ruského vzdušného prostoru, Putin odpovídá obviněním ze „státního terorismu" — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+- **13. 9.** — opakování teze o „třetí světové válce již probíhající" a politicích/policii jako „sluhách pyramidy moci" beze změny — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 15)
+- **13. 9.** — drobná pozorování: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 
 ---
 
@@ -1581,6 +1600,12 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Aleksandr Lukašenko | ○ neutrální | Běloruský prezident — oznámil rozsáhlé vojenské prověrky a mobilizační připravenost s heslem „připravujeme se na válku, aby k ní nedošlo" | 2026-09-12 | [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026) |
 | Andrij Bilecký | ⚖️ rozporuplný | Velitel Azovu — dle Vrabela dříve hlášen jako mrtvý, nyní se vrací do velení nového seskupení „Střed" na Donbasu | 2026-09-12 | [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026) |
 | Nicolás Maduro | ⚖️ rozporuplný | Bývalý venezuelský prezident vězněný v USA — Vrabel se ptá, kdo je skutečný „zločinec", on nebo Trump | 2026-09-12 | [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026) |
+| Tomáš Hrdlička | ✅ pozitivní | Rozšířená právní obhajoba: kolektivní vina nepřípustná, srovnání s insigniemi Bundeswehru navazujícími na Wehrmacht | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Obrácená teze „genocidy": odpovědný za 2–2,4 mil. mrtvých vojáků, osobně 9. největším vlastníkem půdy v USA a podílníkem britské banky | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
+| Petr Pavel | ○ neutrální | Formálně převzal zastupování zahraniční politiky ČR od Babiše na summitu NATO v Tiraně | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
+| Aleksandar Vučić | ○ neutrální | Oznámil rezignaci na přelomu 25.–26. 9. | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
+| Vladimir Putin | ○ neutrální | Obvinil Ukrajinu ze „státního terorismu" v reakci na Zelenského varování před nebezpečností ruského vzdušného prostoru | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
+| Josef Mengele | ○ neutrální | Zmíněn jako nacistický lékař, který podle „včerejší" zprávy žil po válce ve Švýcarsku | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
 
 ---
 
@@ -1716,3 +1741,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (10. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
 - [Facebook Live (11. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
 - [Facebook Live (12. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- [Nedělní vysílání (13. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)

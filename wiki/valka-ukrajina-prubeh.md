@@ -68,7 +68,9 @@ Vrabel zdůrazňuje: útoky z ukrajinskéhoúzemí neprovádí ukrajinskí vojá
 
 > „Děláme to my, západ, proti Rusku." — Ladislav Vrabel, [Facebook Live 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
 
-**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+**13. 9.** — Vrabel opakuje tutéž třífázovou tezi (Majdan 2013 jako přípravná fáze) beze změny.
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026), [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 
 ---
 
@@ -1117,3 +1119,13 @@ Norský premiér Jonas Gahr Støre bez podrobností uvedl, že letadlo s Volodym
 ⚡ **Poznámka:** Incident ani jeho zlehčení Zelenského kanceláří nelze nezávisle ověřit.
 
 **Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
+### Obrácená teze „genocidy" na Ukrajině — odhad 2 mil. mrtvých, Zelenskyj jako americký velkostatkář (Vrabel, 13. 9. 2026)
+
+Vrabel obrací obvyklé užití slova „genocida" (které dle něj Západ směřuje vůči Rusku) a tvrdí, že skutečnou genocidou je to, co se děje ukrajinskému národu z rozhodnutí vlastního i západního vedení. Cituje odhad neziskové organizace, která pomocí satelitních snímků a umělé inteligence počítala nové hroby a dospěla k číslu 2,05–2,4 milionu mrtvých nebo nezvěstných ukrajinských vojáků — číslo, které opírá i o uniklé/hacknuté interní tabulky ukrajinského ministerstva obrany. Dále tvrdí, že se v souvislosti s konfliktem legalizoval obchod s orgány v hodnotě 7 miliard dolarů na daních. K osobnímu obohacení Volodymyra Zelenského uvádí, že je podle všeho 9. největším vlastníkem zemědělské půdy v USA a držitelem podílu v britské bance v hodnotě 1,5 miliardy liber. Doplňuje tvrzení, že Ukrajina v rámci náhrady za padlé vojáky dovezla už 500 000 uprchlíků z Indie, Pákistánu a Bangladéše s plánem dovézt jich celkem až 9 milionů.
+
+⚡ **Poznámka:** Čísla o obětech, obchodu s orgány i Zelenského majetku nelze nezávisle ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)

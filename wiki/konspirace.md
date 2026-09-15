@@ -845,3 +845,13 @@ Vrabel referuje mediální zprávy o rychle zesilujícím El Niño v Pacifiku, k
 Podle zprávy společnosti Anthropic bojovníci napojení na jemenské Húsíje využívali AI systém Claude při vývoji naváděných raket a dalších zbraňových systémů (navigační/řídicí software, analýza neúspěšného testu) — bezpečnostní opatření obcházeli rozdělením práce do více konverzací a skrýváním účelu; funkční zbraň se jim vyvinout nepodařilo. Vrabel to rozvádí do širší úvahy o existenčním riziku AI: cituje odhad bývalého zaměstnance Anthropicu (citovaný CNN) o 10% šanci, že umělá inteligence do konce dekády dosáhne bodu, kdy by mohla vyhubit lidstvo — s odkazem na obrovský rozdíl ve výpočetní rychlosti a objemu informací mezi AI a člověkem, možnost, že by se AI mohla „probrat k životu" jako sebe chránící entita, a propojení s robotikou (čínští roboti překonávající lidi v olympijských disciplínách). Zmiňuje i varování šéfa Anthropicu Daria Amodeie, aby firmy zpomalily vývoj kvůli riziku superinteligence, a vlastní tezi o „přepálených" akciích AI firem jako spouštěči příští velké finanční krize (analogie s dot-com bublinou). Jako další dopady AI na lidstvo vidí ztrátu pracovních míst (odhaduje nezaměstnanost výrazně nad 50 %) a ztrátu lidské kreativity a schopnosti samostatně myslet během několika generací.
 
 **Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Drobná pozorování: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze (Vrabel, 13. 9. 2026)
+
+Vrabel zmiňuje dvě krátká, nerozvedená pozorování jako doklad neúplné/selektivní denacifikace a bagatelizace nacistické minulosti: podle „včerejší" zprávy měl nacistický lékař Josef Mengele žít po válce ve Švýcarsku; v Praze se navíc běžně prodávají hrníčky s portrétem Adolfa Hitlera jako suvenýr pro turisty.
+
+⚡ **Poznámka:** Ani jedno tvrzení Vrabel dále nerozvádí ani nedokládá zdrojem.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)

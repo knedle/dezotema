@@ -465,7 +465,9 @@ Rajchl ostře kritizuje projev Petra Pavla u budovy Českého rozhlasu při vzpo
 
 **30. 8.** — K nové zprávě, že Pavel nabídl premiérovi a ministrovi zahraničí koordinaci zahraniční politiky, Šejna opakuje tutéž tezi a doplňuje srovnání: pokud prezident argumentuje, že nejmenoval Filipa Turka ministrem kvůli jeho dřívějším (a nepotvrzeným) výrokům, sám by kvůli vlastní minulosti neměl mít právo do zahraniční politiky vůbec zasahovat — protože byl vyškolen jako rozvědčík a okrádal o tajné informace státy, které dnes označuje za spojence.
 
-**Zdroje:** [Restart Česko — Videoportál 23. 8. 2026](_zdroje.md#restart-česko--videoportál-23-8-2026), [Restart Česko — Videoportál 30. 8. 2026](_zdroje.md#restart-česko--videoportál-30-8-2026)
+**13. 9. (Vrabel)** — Vrabel referuje zprávu ČT24, že Petr Pavel formálně převzal zastupování zahraniční politiky ČR od Andreje Babiše na summitu NATO v Tiraně (Albánie) — na základě dohody s Petrem Macinkou a Babišem. Bez vlastního hodnocení jde jen o zaznamenání posunu v dřívějším dlouhém sporu o to, kdo má ČR na summitech NATO reprezentovat (viz výše).
+
+**Zdroje:** [Restart Česko — Videoportál 23. 8. 2026](_zdroje.md#restart-česko--videoportál-23-8-2026), [Restart Česko — Videoportál 30. 8. 2026](_zdroje.md#restart-česko--videoportál-30-8-2026), [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 
 ---
 

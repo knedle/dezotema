@@ -80,7 +80,9 @@ K týdnu navíc: Ukrajina otestovala ~10 **dronů řízených výhradně umělou
 
 **14. 8.** — Vrabel rozvíjí tutéž tezi do podoby ucelené „false flag" teorie: každodenní zprávy o záhadných výbuších v rafinériích a zbrojovkách, požárech po celé Evropě a dronech narušujících vzdušný prostor (Rumunsko, Lotyšsko) interpretuje jako přípravu veřejného mínění na okamžik, kdy bude možné říct „už je to tady" — tedy jako needukovanou munici pro budoucí ospravedlnění protiruské eskalace, nikoli nesouvisející náhodné incidenty (odkazuje na svou tezi o [koordinovaných útocích na energetickou infrastrukturu](konspirace.md#koordinované-útoky-na-energetickou-infrastrukturu-po-celém-světě-vrabel-opakovaně-naposledy-13-8-2026)). Cituje souhlasně komentátora Tuckera Carlsona, který ve vysílání u Ricka Sancheze tvrdí, že ukrajinské útoky na ruské území mají za cíl vyprovokovat Moskvu k odpovědi na území členského státu NATO (hypersonický úder na Varšavu nebo Hamburk, případně taktická jaderná zbraň) — což by otevřelo přímý konflikt Rusko–NATO. Vrabel to ilustruje vlastní metaforou „velkého Pepíka", který postrkuje „malého Karla" (Ukrajinu) do rvačky s většími kluky, dokud ti nakonec neuhodí přímo Pepíka — a předpovídá, že jakmile Rusko napadne členskou zemi NATO/EU, je třeba okamžitě „mazat" z EU nejlépe do vojensky neutrálního Srbska, protože poté už státy uzavřou hranice a vyhlásí stav ohrožení.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026), [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
+**13. 9.** — Vrabel opakuje tutéž rámovací tezi (třetí světová válka již fakticky probíhá, politici a policie jako „sluhové pyramidy moci") beze změny.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 14. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-14-6-2026), [Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026), [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 
 ---
 
@@ -1205,3 +1207,19 @@ Mluvčí Kremlu Dmitrij Peskov uvedl, že Rusko v současnosti nepřipravuje př
 Donald Trump během dvoudenní návštěvy Irska (spojené s účastí na golfovém turnaji Irish Open na svém resortu) ostře kritizoval evropské spojence za jejich přístup k obchodu, energetice a migraci a jejich zdrženlivost vůči americké válečné akci proti Íránu označil za „zklamání" — zároveň prohlásil, že by bylo „fantastické", kdyby se Irská republika sjednotila se Severním Irskem. Vrabel k tomu bez rozsáhlejšího komentáře jen podotýká, že Trump je německého (ne irského) původu, přestože vzhledem připomíná Ira.
 
 **Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Vučić oznamuje rezignaci na konci září (Vrabel, 13. 9. 2026)
+
+Vrabel referuje zprávu, že srbský prezident Aleksandar Vučić oznámil, že na svou funkci rezignuje na přelomu 25.–26. září. Bez vlastního rozsáhlejšího hodnocení jen poznamenává, že jde o výsledek dlouhodobých protivládních protestů v Srbsku.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+---
+
+### Zelenskyj varuje před nebezpečím ruského vzdušného prostoru — Putin: „státní terorismus" (Vrabel, 13. 9. 2026)
+
+Volodymyr Zelenskyj varoval, že ruský vzdušný prostor je nebezpečný pro civilní letadla — Vladimir Putin na to reagoval obviněním Ukrajiny ze „státního terorismu". Vrabel k tomu bez rozsáhlejšího komentáře jen zaznamenává výměnu jako další příklad vzájemných obvinění v probíhajících mírových jednáních.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)

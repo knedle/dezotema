@@ -897,3 +897,11 @@ Německo v Litvě přesouvá tanky pro 45. tankovou brigádu, která se má stá
 Generální tajemník NATO Mark Rutte 10. 9. v Berlíně prohlásil, že spojenci výrazně zrychlují výrobu a inovaci v obranném průmyslu — miliardy dolarů směřují do rozšiřování výrobních kapacit, modernizace továren a otevírání nových výrobních linek, což Rutte nazval „obrannou průmyslovou revolucí". Vrabel to čte jako potvrzení své dlouhodobé teze, že se Evropa z „výrobny aut, kvalitního oblečení, kosmetiky a služeb" proměnila na výrobnu zbraní — a ironicky poznamenává, že zkratka NATO čtená obráceně dává „OTAN" (anglický/francouzský název), což mu při zmínce o „obranné" alianci připadá „přesně po satanisticku" (převrácení významu slov). Připomíná blízký vztah Andreje Babiše s Ruttem z dob, kdy byli oba premiéři.
 
 **Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+---
+
+### Ztrojnásobení Frontexu (300 mil. EUR, 3× personál) jako příprava na válku, ne na migraci (Vrabel, 13. 9. 2026)
+
+Vrabel referuje o rozhodnutí EU ztrojnásobit rozpočet i personál agentury Frontex (navýšení o 300 milionů eur, trojnásobný počet zaměstnanců). Odmítá to číst jako reakci na migrační krizi — počty žadatelů o azyl podle něj naopak klesají — a interpretuje krok jako přípravu na uzavření vnějších hranic EU v okamžiku vypuknutí konfliktu s Ruskem, obdobně jako se hranice uzavřely na Ukrajině 24. 2. 2022. Zmiňuje také, že Polsko se předběžně zavázalo k uplatnění čl. 5 Severoatlantické smlouvy (kolektivní obrana) automatičtěji než dosud. Divákům radí připravit si únikovou cestu z EU do vojensky neutrální oblasti (dává přednost Rumunsku/Srbsku před Maďarskem) předtím, než k uzavření hranic dojde.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
