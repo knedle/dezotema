@@ -111,6 +111,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Green Deal zničí evropský průmysl — Čína skoupí automobilky, zavřená hliníkárna Žiar n. Hronom (7× uhlíková stopa dovozu) (21. 6.) — [FB Live: ČT není strážce demokracie (21. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-čt-není-strážce-demokracie-21-6-2026)
 - **19. 7.** — před očekávaným útokem USA na Írán navrhuje místo stropování cen možnost krátkodobě snížit DPH na PHM a plyn na nulu — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - **23. 8.** — emisní povolenky: ČR platí 30× víc než Švédsko a 17× víc než Německo na hlavu, nárůst ceny o 355 %, dopad na HDP 100+ mld. Kč — [Facebook Live 23. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-23-8-2026) → [ceny-energie.md](../ceny-energie.md#emisní-povolenky-čr-platí-30-víc-než-švédsko-a-17-víc-než-německo-rajchl-23-8-2026)
+- **13. 9.** — "demokratická ropa" jako iluze (ruská ropa přes Turecko/Indii za vyšší cenu); vlastní vize návratu k modelu EHS bez Bruselu — [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) → [ceny-energie.md](../ceny-energie.md#přímý-nákup-ruské-ropy--cesta-do-moskvy-jako-jediné-řešení-rajchl-duben-2026)
 
 ### [Migrace](../migrace.md)
 - **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
@@ -187,6 +188,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **11. 9.** — přímý záznam téže debaty s dalšími příklady dvojího metru (Turek „deratizace", Decroix „sволoč", Novotný o válce/podřezávání) — [Videoportál 11. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
 - **9. 9.** — televizní debatní spor se starostou Tetína „Matějem" — zpochybnění jeho kompetence poučovat o rozpočtu; opakuje beze změny sektorové daně (banky, zbrojaři, digitální daň) — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [politicky-system.md](../politicky-system.md#debatní-spor-s-matějem-z-tetína--zpochybnění-kompetence-kritika-rozpočtu-rajchl-9-9-2026)
 - **12. 9.** — odmítnutí nálepky „radikální extremismus"; obrácená definice radikalismu (ztráta koruny/veta vs. mír a zrušení Green Dealu) — [Videoportál 12. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-12-9-2026) → [politicky-system.md](../politicky-system.md#odmítnutí-nálepky-radikální-extremismus--obrácená-definice-radikalismu-rajchl-12-9-2026)
+- **13. 9.** — rozšíření debaty s Jakobem (neznalost výpočtu HDP, vyvrácení Foltínovy citace Masaryka); Zdeněk Řip narušil debatu na Primě (dvojí metr médií); identifikace „Matěje z Tetína" jako Matěje Hlavatého (Piráti); rozšířený seznam „extremismu" a průzkum SPD/Trikolóra/Svobodní ~10 % — [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -197,6 +199,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
+- **13. 9.** — vlastní rozsáhlá verze teorie o 11. září jako „insider jobu" (Silverstein, odvolaní psi, zničené záznamy SEC, Rumsfeldových 21 bilionů); model kontroly strachem opakující se u Green Dealu, covidu a Ukrajiny — [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) → [konspirace.md](../konspirace.md#25-výročí-11-září--rajchlova-vlastní-verze-strach-jako-nástroj-kontroly-rajchl-13-9-2026)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - **14. 8.** — Chat Control a bezhotovostní společnost jako nástroje totální kontroly; návrh ústavního ukotvení práva na hotovost — [Videoportál 14. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-14-8-2026)
@@ -381,6 +384,12 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Eva Decroix | ❌ negativní | Vyzvala ke „shovívavosti" vůči odsouzeným násilníkům a pedofilům — Rajchl to označuje za definitivní politický konec ODS | 2026-09-10 | [Videoportál 10. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026) |
 | Eva Decroix | ❌ negativní | Použila slovo „sволoč" — příklad dvojího metru vůči Foltínovu výroku „svině" | 2026-09-11 | [Videoportál 11. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026) |
 | Pavel Novotný | ❌ negativní | Měl prohlásit, že by Češi „potřebovali válku" a museli „podřezat ženy a děti" — bez medializace srovnatelné s obviněním Filipa Turka z nacismu | 2026-09-11 | [Videoportál 11. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026) |
+| Zdeněk Řip | ❌ negativní | Předseda Pirátů — v debatě na Primě opakovaně a vědomě narušoval průběh diskuze, bez postihu na rozdíl od hodnocení Rajchlova vlastního chování | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
+| Matěj Hlavatý | ❌ negativní | Starosta Tetína (Piráti) — zadlužil obec o 120 obyvatelích o miliony korun; Rajchl ho srovnává nevýhodně s Jiřím Pospíšilem co do intelektuální úrovně | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
+| Jiří Pospíšil | ⚖️ rozporuplný | TOP 09 — Rajchl s ním nesouhlasí politicky, ale uznává ho jako inteligentního a schopného argumentovat, na rozdíl od Matěje Hlavatého | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
+| Terezie Tománková | ❌ negativní | Moderátorka CNN Prima News — nedokázala včas zasáhnout proti narušování debaty Zdeňkem Řipem | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
+| Larry Silverstein | ❌ negativní | Pronajímatel WTC — sjednal si pojistku proti terorismu pár týdnů před 11. zářím a v den útoku poprvé nesnídal v budově | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
+| Ulrich Sigmund | ○ neutrální | Šéf AfD pro Sasko-Anhaltsko — otevřeně podpořil zbrojení „kvůli migrantům", ne kvůli Rusku; Rajchl to oceňuje jako upřímnost | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
 
 ---
 
@@ -496,3 +505,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (10. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)
 - [Videoportál (11. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026)
 - [Videoportál (12. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-12-9-2026)
+- [Facebook Live (13. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)

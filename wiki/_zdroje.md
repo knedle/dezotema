@@ -4761,3 +4761,10 @@
 - **Datum záznamu:** 2026-09-13
 - **Zpracováno:** ano
 - **Poznámka:** Ohlášení nedělního vysílání — shrnutí 11. září (beze změny) a prezidentské kandidatury 2022 (beze změny); BEWIT sponsoring.
+
+## Jindřich Rajchl — Facebook Live (13. 9. 2026) {#jindřich-rajchl--facebook-live-13-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-13_Jindřich-Rajchl_Facebook-Live.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2079313829643035>
+- **Datum záznamu:** 2026-09-13
+- **Zpracováno:** ano

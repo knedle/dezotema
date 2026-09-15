@@ -525,7 +525,17 @@ Rajchl líčí debatu na internetové televizi VOX TV (moderátor Kubelík) prot
 
 **11. 9.** — Ze zveřejněného přímého záznamu téže debaty Rajchl rozšiřuje argument o dvojím metru dalšími příklady: připomíná, že Filip Turek byl médii obviněn z „nacistické rétoriky" za výrok o „deratizaci parazitů" (úředníků), zatímco Foltínovo oslovení „svině" bylo přejito bez kritiky — a doplňuje další srovnání, která podle něj ukazují stejnou nekonzistenci: Eva Decroix použila slovo „sволoč" a Pavel Novotný měl prohlásit, že by Češi „potřebovali válku" a museli „podřezat ženy a děti" — u obou bez srovnatelné medializace. Jakob na to reaguje odchodem ze studia se slovy „jste proruský trol".
 
-**Zdroje:** [Rajchl — Videoportál 7. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-9-2026), [Rajchl — Videoportál 11. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-11-9-2026)
+**13. 9.** — Rajchl v shrnutí téže debaty dodává další detaily „demolice": Jakob opakovaně reagoval jen frází „jste proruský dezinformátor" a nedokázal odpovědět, jak se počítá HDP, přestože Rajchl argumentoval čísly z ČSÚ a OECD (Jakob je nazval „smyšlenými"). Vyvrací i Foltínovu citaci, podle níž měl T. G. Masaryk část národa označit za „patologickou sedlinu na demokracii" — podle Rajchla Masaryk v rozhovoru pro *Prager Tagblatt* tímto výrazem označil fašismus jako ideologii, ne lidi, a přirovnává Foltínovu/Jakobovu logiku (kolektivní nálepkování bez konkrétního adresáta, s alibismem „vy se k tomu hlásíte sami") k nacistickému zacházení se slovem „Židé". Cituje i Ulricha Sigmunda (šéf AfD pro Sasko-Anhaltsko), který otevřeně podpořil zbrojení „ne kvůli Rusku, ale kvůli migrantům" (aby bylo čím je „deportovat") — oceňuje to jako upřímnost, kterou staví do kontrastu s českými politiky.
+
+**Zdroje:** [Rajchl — Videoportál 7. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-9-2026), [Rajchl — Videoportál 11. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-11-9-2026), [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
+
+---
+
+### Zdeněk Řip narušil televizní debatu na Primě — dvojí metr médií (Rajchl, 13. 9. 2026)
+
+Rajchl kritizuje vystupování předsedy Pirátů Zdeňka Řipa v debatě šesti lídrů stran na CNN Prima News (moderátorka Terezie Tománková): Řip podle něj opakovaně a vědomě skákal ostatním do řeči (i po několik minut), destruoval plynulost debaty a moderátorka na to nezasáhla dostatečně razně — v důsledku Tománková musela přerušit i Karla Havlíčka, který tak nedostal prostor cokoli reálně sdělit. Rajchl to staví do kontrastu s hodnocením vlastního vystupování v médiích: kdyby se takto chovat on, byl by okamžitě na titulní straně Seznamu jako „nedisciplinovaný narušovač" a volalo by se po jeho vyloučení z debat — u Řipa (a Pirátů obecně) podobná kritika nepřichází. Tomia Okamuru z téže debaty naopak chválí jako nejdisciplinovanějšího účastníka.
+
+**Zdroje:** [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
 
 ---
 
@@ -1148,7 +1158,9 @@ V televizní debatě reaguje Rajchl na kritiku svého rozpočtového hospodařen
 
 > „Je to prostě k smíchu." — Jindřich Rajchl, [Videoportál 9. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
 
-**Zdroje:** [Rajchl — Videoportál, 9. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
+**13. 9.** — Rajchl identifikuje kritika jménem — starosta Tetína Matěj Hlavatý (Piráti), který obec o 120 obyvatelích podle něj zadlužil o několik milionů korun a byl zachráněn jen pomocí kraje. V debatě na CNN Prima News (šest lídrů stran) ho srovnává nevýhodně s Jiřím Pospíšilem (TOP 09): ačkoli s Pospíšilovou politikou zásadně nesouhlasí, uznává ho jako „inteligentního člověka schopného formulovat myšlenku", zatímco Hlavatého považuje za intelektuálně i zkušenostně nezpůsobilého radit s rozpočtem pro 10,5milionovou zemi. Vyjadřuje nechápavost, jak mohou voliči (Piráti, STAN) dávat takovým kandidátům 15–16 % hlasů.
+
+**Zdroje:** [Rajchl — Videoportál, 9. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-9-9-2026), [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
 
 ---
 
@@ -1180,4 +1192,6 @@ Ministerstvo zdravotnictví chce od roku 2030 centralizovat operace zhoubných n
 
 Rajchl reaguje na televizní reportáž, která stranu PRO označila za odliv členů a „radikální extrémní pravici". Tvrzení o odlivu členů popírá — od svého vstupu do Poslanecké sněmovny naopak uvádí přibližně 50% nárůst členské základny. Nálepku „radikální" obrací: požadavky na mír, zrušení Green Dealu, řešení migrace a odmítnutí eura nepovažuje za extremismus, ale za „zdravý rozum" — skutečně radikální je podle něj ztráta vlastní měny, vznik „spojených států evropských", zrušení práva veta a emisní povolenky, díky nimž ČR platí na hlavu nejvíc v celé EU (7000 Kč ročně).
 
-**Zdroje:** [Rajchl — Videoportál 12. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-12-9-2026)
+**13. 9.** — Rajchl rozšiřuje seznam toho, co je označováno za „extremismus": odmítnutí přijímat migranty z Afriky i Ukrajiny, uznávání jen dvou pohlaví, manželství jako svazek muže a ženy, odmítnutí náhradního „surogátního" macenství jako obchodu s dětmi, odmítnutí eura a zrušení Benešových dekretů. Naopak za skutečný extremismus (bez použití toho slova médii) označuje: zavedení eura, zrušení Benešových dekretů (rozvrácení majetkových vztahů v pohraničí), vznik „spojených států evropských" (zánik ČR — cituje v tomto smyslu i Petra Pavla), Green Deal ničící evropskou ekonomiku a vtahování ČR do konfliktu s jadernou velmocí. Za skutečné extremisty tak označuje Piráty, STAN, TOP 09 a zčásti KDU-ČSL a ODS. Doplňuje čerstvý průzkum, podle nějž SPD samo dosahuje podpory srovnatelné s výsledkem voleb (7,8 %) a společně s Trikolórou a Svobodnými na cca 10 % — interpretuje to jako odměnu za to, že koalice „neuhnula" od předvolebních slibů.
+
+**Zdroje:** [Rajchl — Videoportál 12. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-12-9-2026), [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)

@@ -822,6 +822,16 @@ K 25. výročí útoků z 11. září 2001 Vrabel kritizuje vyjádření vicepre
 
 ---
 
+### 25. výročí 11. září — Rajchlova vlastní verze: strach jako nástroj kontroly (Rajchl, 13. 9. 2026)
+
+Rajchl věnuje k témuž výročí samostatný, obsáhlý výklad, částečně se překrývající s [Vrabelovou verzí](#25-výročí-11-září--pochybnosti-o-oficiální-verzi-sedmý-mrakodrap-a-plán-válek-v-sedmi-zemích-vrabel-11-9-2026), ale s dalšími konkrétními detaily: pronajímatel World Trade Center Larry Silverstein si pár týdnů před útokem sjednal pojistku speciálně pro případ teroristického útoku (vyplatila 7,2 mld. dolarů) a v den útoku poprvé nesnídal v budově, protože ho manželka poslala k zubaři; hlídací psi hledající výbušniny byli z budov v posledních týdnech před útokem odvoláni pod záminkou rekonstrukce; Komise pro cenné papíry USA (SEC) nikdy nezveřejnila, kdo těsně před útokem obchodoval v abnormálních objemech na pokles akcií United a American Airlines, a záznamy o tomto vyšetřování nechala zničit; BBC odvysílala zprávu o zřícení budovy WTC7 asi 27 minut předtím, než k pádu skutečně došlo; Pentagon zveřejnil záběry nárazu až po soudním příkazu o několik let později, a to jen z jedné nekvalitní kamery. Nejvýrazněji ale rozvádí tvrzení, že ministr obrany Donald Rumsfeld na tiskové konferenci 10. 9. 2001 (den před útokem) oznámil, že armáda není schopna zdokladovat výdaje ve výši 21 bilionů dolarů — po útoku se na to už nikdo nezeptal. Z toho vyvozuje širší tezi: 11. září nastartovalo opakující se „model kontroly strachem" — vyvolání hrozby, obětování osobních práv/svobod (Patriot Act, sledování), a nálepkování každého nesouhlasícího jako nebezpečného — který se od té doby beze změny opakuje u klimatické agendy (Green Deal), covidu i války na Ukrajině („za čtyři roky napadne Rusko" nahradilo „teroristé znovu udeří").
+
+⚡ **Konflikt:** Tvrzení o předem sjednané pojistce, odvolaných psech a zničených záznamech SEC nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké je Rajchl prezentuje; jde o dlouhodobě šířené, nepotvrzené konspirační motivy.
+
+**Zdroje:** [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
+
+---
+
 ### „Super El Niño" — varování před možným ovlivňováním počasí (Vrabel, 11. 9. 2026)
 
 Vrabel referuje mediální zprávy o rychle zesilujícím El Niño v Pacifiku, které by na podzim mohlo dosáhnout mimořádné intenzity (patřit k nejsilnějším zaznamenaným epizodám, s dopady až do začátku roku 2027) v kombinaci s kladnou fází indicko-oceánského dipólu — s možnými dopady na sucha, srážky a povodně od Austrálie přes Indii až po východní Afriku. Poznamenává, že všechna média jev prezentují jako čistě přírodní, což mu právě proto přijde podezřelé — vzhledem k tomu, co považuje za prokázané schopnosti ovlivňování počasí. Doporučuje divákům praktickou přípravu (zásoby vody v lahvích, konzervy, baterky/svíčky pro případ výpadků elektřiny) pro případ, že by jev zasáhl i ČR výpadky proudu, silným větrem, bouřkami nebo kroupami.

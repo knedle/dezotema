@@ -76,7 +76,9 @@ Rajchl kritizoval dopad sankcí: protiruské sankce nefungují — ruské příj
 
 > „Ne, jestli to Rusko prodá nebo neprodá, ale jestli to prodá nám nebo někomu jinému. Teď na tom profituje Čína, vydělává na tom miliardy dolarů a my se tady prostě tváříme, že tu ropu nedostáváme. Stejně ji dostáváme, stejně ji tady kupujeme, akorát přes řetězec překupníků." — Jindřich Rajchl, [Ruská ropa za přímou cenu — Prima 8. 4. 2026](_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026)
 
-**Zdroje:** [Rajchl — Ruská ropa za přímou cenu, 2026-04-08](_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026)
+**13. 9.** — K rostoucím cenám nafty (kolem 50 Kč/l) a plynu (80 eur/MWh) Rajchl rozvádí argument o „demokratické ropě": upravená hodnota 50 Kč o inflaci od Fialovy vlády odpovídá dnešním 65 Kč, takže reálné zdražení je menší, než se zdá — ale hlavní bod směřuje na „liberály/pravdoláskaře", kteří dříve podporovali odstřižení od ruských surovin a psali, že si „rádi připlatí". Tvrdí, že ruská nafta v Rusku stojí kolem 20 Kč/l, takže bez sankcí by se ČR mohla dostat na cca 30 Kč/l místo 50 Kč; ruská ropa se navíc do Evropy stále dostává, jen přes zprostředkovatele (Turecko, Indie), kteří si účtují přirážku — takzvaná „demokratická ropa" je tedy podle něj stejná ruská ropa prodávaná dráž. Kritizuje i to, že ČR se novým zdrojem (Blízký/Střední východ) stala závislá na íránském/blízkovýchodním konfliktu místo diverzifikace. Uzavírá vlastní vizi evropské spolupráce jako návrat k modelu EHS (volný pohyb kapitálu/zboží/služeb/lidí) bez „bruselské centrály", Green Dealu a migračního paktu — a vyzývá odpůrce, ať vysvětlí, co konkrétně by na tomto modelu bylo horší než dnešní členství v EU.
+
+**Zdroje:** [Rajchl — Ruská ropa za přímou cenu, 2026-04-08](_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026), [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
 
 ---
 
