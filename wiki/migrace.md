@@ -682,6 +682,10 @@ V odpovědi na divácký dotaz, zda migraci do Británie skutečně způsobilo v
 
 **Zdroje:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)
 
+**11. 9.** — Poslanecký klub AfD podal trestní oznámení na kancléře Friedricha Merze za jeho výrok v Bundestagu, že koncept remigrace prosazovaný AfD je „etnická čistka podle původu a barvy pleti" — AfD to označuje za pomlouvačné a trestně relevantní. Vrabel s AfD v podstatě souhlasí, ale zpřesňuje vlastní pozici k migraci obecně: rozlišuje migraci z lásky (bez hranic — dává vlastní příklad manželky Srbky a matky provdané v Německu) a migraci osob, které se v zemi zapojí a fungují, od masové, neintegrující se migrace (dává příklad dvou milionů Ukrajinců v ČR), kterou považuje za problém jak pro cílovou zemi, tak pro zemi původu. Remigraci samu za etnickou čistku odmítá — tou byly dle něj skutečné násilné vyhnání/vyvraždění (Bosna, Kosovo, Chorvatsko vůči Srbům), ne návrat nelegálních migrantů výměnou za finanční kompenzaci, kterou navrhuje jako praktické řešení (vyplatit odchod, případně i přijímací zemi). Merzovo srovnání považuje za manipulativní převrácení významu slov („to, co je nahoře, se nazve tím, co je dole").
+
+**Zdroje:** [Vrabel — Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
 ---
 
 ### Islamizace jako „největší a nejnebezpečnější problém" — historie tureckého útlaku Srbů (Vrabel, 25. 8. 2026)

@@ -1083,6 +1083,35 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Predikce](../predikce.md)
 - **10. 9.** — předpověď přicházející občanské války v Evropě — [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
 
+### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 4)
+- **11. 9.** — Litva ruší ústavní zákaz jaderných zbraní; Peskovo varování; přímá paralela s francouzským jaderným deštníkem pro ČR — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 13)
+- **11. 9.** — Německo staví první trvalou zahraniční základnu Bundeswehru (45. tanková brigáda v Litvě) — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+- **11. 9.** — EU schválila 6,1 mld. eur na munici/drony pro Ukrajinu; mechanismus zakázek "z ruky" bez výběrových řízení — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+- **11. 9.** — ministr Zůna neodjede do Číny, poslouchá Okamuru — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+- **11. 9.** — Rutteho "obranná průmyslová revoluce" v Berlíně — Evropa jako výrobna zbraní — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 13)
+- **11. 9.** — 25. výročí 11. září — pochybnosti o oficiální verzi (WTC7, Pentagon, Wesley Clark) — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+- **11. 9.** — "Super El Niño" — varování před ovlivňováním počasí — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+- **11. 9.** — Putinova čísla BRICS (40 % HDP) vs. G7 (29 %) — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+### [Migrace](../migrace.md) (pokrač. 19)
+- **11. 9.** — AfD trestní oznámení na Merze za "etnickou čistku"; Vrabelova nuance k migraci (láska/integrace vs. masová migrace) — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+### [Politický systém](../politicky-system.md) (pokrač. 18)
+- **11. 9.** — centralizace onkologické péče (78→22 pracovišť), kritika Vojtěcha, vlastní teorie příčin rakoviny — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 18)
+- **11. 9.** — ukrajinská mobilizace "podle plánu" — opakuje beze změny tezi režim vs. vlastní lidé — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+### [Kauzy a korupce](../kauzy.md) (pokrač. 7)
+- **11. 9.** — prodej ČSA/Smartwings turecké firmě Pegasus Airlines — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 15)
+- **11. 9.** — ceny benzínu a elektřiny — Německo/Rusko/Srbsko srovnání — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1518,6 +1547,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Daniel Beneš | ❌ negativní | Generální ředitel ČEZ — obhajuje zavedení amerického paliva Westinghouse do Temelína jako „diverzifikaci"; Vrabel žádá jeho odvolání | 2026-09-10 | [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026) |
 | Donald Tusk | ❌ negativní | Na V4 summitu v Bratislavě cituje varování od CIA/Ratcliffa o „různých scénářích" — Vrabel to považuje za prázdnou frázi ospravedlňující zbrojení; opět „jeden z největších válečných štváčů" | 2026-09-10 | [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026) |
 | Johann Wadephul | ❌ negativní | Německý ministr zahraničí — snaží se zajistit Ukrajině data o ukrajinských uprchlících v Německu, možná pro účely mobilizace | 2026-09-10 | [Facebook Live 10. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026) |
+| Boris Pistorius | ❌ negativní | Německý ministr obrany — hledá dobrovolníky pro trvalou brigádu v Litvě, v některých případech může nasazení nařídit | 2026-09-11 | [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026) |
+| Wesley Clark | ○ neutrální | Citován — americký generál, který po 11. září viděl v Pentagonu plán války v sedmi zemích (Irák, Sýrie, Libanon, Libye, Somálsko, Súdán, Írán) | 2026-09-11 | [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026) |
+| Mark Carney | ❌ negativní | Kanadský premiér — slíbil Ukrajině přes 300 mld. kanadských dolarů, další příklad západního „plundrování" | 2026-09-11 | [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026) |
 
 ---
 
@@ -1651,3 +1683,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (8. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
 - [Facebook Live (9. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 - [Facebook Live (10. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+- [Facebook Live (11. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)

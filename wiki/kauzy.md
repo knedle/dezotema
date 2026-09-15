@@ -1061,3 +1061,11 @@ Vrabel popisuje vlastní zkušenost z doby covidu: jako právník se dotazoval m
 Klíčovým bodem kritiky je Národní fond obnovy, který měl být určen k nastartování ekonomiky poškozené covidem. Podle Vrabelova zjištění šlo 40 % prostředků fondu na „zelenou tranzici" (Green Deal) a 20 % na digitalizaci (datová centra, sledování občanů) — místo skutečné pomoci zkrachovalým malým a středním podnikatelům, kteří byli podle něj hlavními poškozenými. Fond si mezitím na svůj provoz dále půjčuje (aktuální dluh fondu odhaduje na výrazně přes 200 mld. Kč). Uzavírá, že velcí podnikatelé jako Andrej Babiš si vždy dokážou pomoci sami, zatímco malí živnostníci zůstali bez odškodnění.
 
 **Zdroje:** [Vrabel — Facebook Live 3. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-3-9-2026)
+
+---
+
+### Prodej ČSA/Smartwings turecké firmě Pegasus Airlines jako další „rozprodej" Česka (Vrabel, 11. 9. 2026)
+
+Turecká letecká skupina Pegasus Airlines má převzít české aerolinky ČSA a spolu s nimi (protože ČSA vlastní 100 % Smartwings) i Smartwings — Úřad pro ochranu hospodářské soutěže spojení podmínečně schválil (Pegasus musí uvolnit letní sloty na trase Praha–Antalya konkurenci), rozhodnutí ale ještě není pravomocné. Vrabel k tomu vypráví osobní vzpomínku: jako vyučený pilot vyrazil s manželkou uprostřed dovolené v Praze rovnou na letiště, aby zachytil poslední let ČSA — a přiznává, že mu na místě „ukáplo", jak moc se ho konec českých aerolinek osobně dotkl. Řadí prodej do dlouhého výčtu odprodaného národního majetku zahraničním vlastníkům (voda — Veolie/Francouzi, elektřina — E.ON/Němci v jižních Čechách a na Moravě, potraviny, textil, technika) a ironicky se ptá, komu bude patřit už jen „vzduch".
+
+**Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)

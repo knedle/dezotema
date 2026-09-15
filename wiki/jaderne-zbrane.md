@@ -148,6 +148,10 @@ Ve vysílání 5. 7. Vrabel doplňuje odhad konkrétní distribuce: Německo má
 
 **Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 
+**11. 9.** — Vrabel k opětovnému projednávání litevské ústavní změny (může se protáhnout do zimního zasedání) dává přímou paralelu s Českou republikou: stejnou „salámovou metodou", jakou Litva postupuje ke zrušení zákazu, postupuje i ČR k připojení k francouzskému jadernému deštníku (Rafale s raketami ASMP) — nejdřív Petr Pavel v březnu 2026, pak Andrej Babiš. Cituje mluvčího Kremlu Dmitrije Peskova, který k litevské ústavní změně řekl, že „litevské území se ocitne v hledáčku" ruských jaderných zbraní, pokud Vilnius zbraně na svém území skutečně rozmístí — protože rozmístěné jaderné zbraně jsou vždy namířeny proti někomu (v tomto případě proti Rusku na východ, ne na západ). Vrabel z toho vyvozuje přímý důsledek pro ČR: v okamžiku podpisu smlouvy s Francií o možném rozmístění francouzských jaderných letadel se ruské raketové síly (hypersonické Kinžaly, Sarmaty) programově zaměří na české území, bez ohledu na to, že samotná letadla by dorazila až později (typicky v momentě další eskalace, kdy by reakční čas byl minimální). Popisuje důsledky jaderného zásahu nad ČR — radioaktivní déšť, zničenou půdu a jídlo, dlouhodobé nemoci z ozáření — a vyzývá k účasti na demonstraci 3. 10. s požadavkem, aby vláda smlouvu s Francií o jaderném odstrašení nepodepsala.
+
+**Zdroje:** [Vrabel — Zprávy v devět 3. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-7-2026), [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
 ---
 
 ### Vrabel vyhlašuje zářijovou demonstraci proti jaderným zbraním v ČR — vysvětlení „jaderného deštníku" (Vrabel, 12. 7. 2026)

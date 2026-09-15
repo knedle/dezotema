@@ -786,7 +786,17 @@ Německý ministr obrany Boris Pistorius při návštěvě zbrojovky KNDS „nec
 
 **1. 9.** — Ministr obrany Jaromír Zůna (SPD) v rozhovoru pro EUACTIV potvrdil, že „česká muniční iniciativa bude pokračovat tak dlouho, jak bude Ukrajina potřebovat pomoc" — letos má dodat zhruba milion kusů 155mm dělostřelecké munice za 5 mld. eur (iniciativa od založení v roce 2024 dodala kumulativně přes 4,3 mil. kusů). Vrabel to komentuje sarkastickým „poděkováním" celé vládní koalici (SPD, Trikolóra, Svobodní, ANO i Motoristé — ministr zahraničí Macinka navíc poslal 140 mil. Kč do programu PURL) za to, že navzdory předvolebním slibům zrušení iniciativy v ní ČR pokračuje „svým jménem" — na rozdíl od zemí, které dodávky munice raději neveřejní, protože se obávají ruské odvety. Připomíná, že current vláda je v tomto ohledu podle něj „mnohem horší" než ta předchozí, protože lhala o úmyslu iniciativu zrušit, zatímco Fialova vláda byla otevřeně proruská.
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026), [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+**11. 9.** — Zůna nakonec v polovině září nepojede na bezpečnostní konferenci MSC v Číně (do Číny místo něj odjede jen pracovník ministerstva) — podle předsedy Sněmovny Tomia Okamury musí Zůna před pondělním jednáním koalice připravit podrobnější rozklad obranného rozpočtu. Vrabel to čte jako důkaz, že Zůna se řídí Okamurou, ne vlastním samostatným směrováním resortu obrany.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026), [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+---
+
+### EU schválila 6,1 mld. eur na munici a drony pro Ukrajinu — mechanismus zakázek „z ruky" bez výběrových řízení (Vrabel, 11. 9. 2026)
+
+Evropská komise schválila 6,1 mld. eur (~147 mld. Kč) na nákup protivzdušné a protiraketové obrany, munice a dronů pro Ukrajinu (mj. rakety PAC-3 pro systémy Patriot) — jde o další tranži z dříve schválené 90mld. eurové půjčky, kterou Ukrajina začíná čerpat dřív, než se původně plánovalo. Vrabel varuje, že těchto 90 mld. na dva roky nebude stačit a Ukrajina bude potřebovat další peníze už po roce. Popisuje konkrétní korupční mechanismus: peníze z národních rozpočtů (rozpuštěné pro veřejnost v inflaci, aby si občané nevšimli přímé souvislosti) jdou do rozpočtu EU a odtud na Ukrajinu, kde se za ně nakupují záměrně předražené zbraně bez výběrových řízení („zakázky z ruky") — rozdíl mezi tržní a fakturovanou cenou pak putuje k zúčastněným politikům a zprostředkovatelům (jmenuje Okamurovo jednání s výrobci zbraní, Macinkovy obchodní cesty do USA). Dodává, že v Kanadě premiér Mark Carney nedávno slíbil Ukrajině dalších přes 300 mld. kanadských dolarů — celý Západ je dle něj v „době plundrování", kdy se země i občané zadlužují bez ohledu na důsledky.
+
+**Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
 
 ---
 
@@ -869,3 +879,19 @@ EU prověřuje žádost Ukrajiny o další miliardy eur na posílení protivzdu�
 **Zdroje:** [Vrabel — Facebook Live 5. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-5-9-2026)
 
 **Zdroje:** [Vrabel — Zprávy v devět 15. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-15-8-2026)
+
+---
+
+### Německo staví první trvalou zahraniční vojenskou základnu v historii Bundeswehru — 45. tanková brigáda v Litvě (Vrabel, 11. 9. 2026)
+
+Německo v Litvě přesouvá tanky pro 45. tankovou brigádu, která se má stát první trvale umístěnou bojovou jednotkou Bundeswehru v zahraničí v celé jeho historii — do roku 2027 má dosáhnout stavu cca 4800 vojáků, umístěných jen několik set kilometrů od Petrohradu. Ministr obrany Boris Pistorius uvedl, že se přednostně hledají dobrovolníci, ale v některých případech může být nasazení nařízeno. Vrabel k tomu poznamenává, že se změnil jen název (Wehrmacht → Bundeswehr) a někdejší nacistické symboly (kříže u Luftwaffe), velitelská struktura i generálové zůstali stejní jen s postupnou obměnou — a hodnotí krok jako další stupeň eskalace bezpečnostní situace v Evropě.
+
+**Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+---
+
+### Rutte v Berlíně vyhlašuje „obrannou průmyslovou revoluci" — Evropa jako výrobna zbraní (Vrabel, 11. 9. 2026)
+
+Generální tajemník NATO Mark Rutte 10. 9. v Berlíně prohlásil, že spojenci výrazně zrychlují výrobu a inovaci v obranném průmyslu — miliardy dolarů směřují do rozšiřování výrobních kapacit, modernizace továren a otevírání nových výrobních linek, což Rutte nazval „obrannou průmyslovou revolucí". Vrabel to čte jako potvrzení své dlouhodobé teze, že se Evropa z „výrobny aut, kvalitního oblečení, kosmetiky a služeb" proměnila na výrobnu zbraní — a ironicky poznamenává, že zkratka NATO čtená obráceně dává „OTAN" (anglický/francouzský název), což mu při zmínce o „obranné" alianci připadá „přesně po satanisticku" (převrácení významu slov). Připomíná blízký vztah Andreje Babiše s Ruttem z dob, kdy byli oba premiéři.
+
+**Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)

@@ -382,7 +382,9 @@ Vrabel komentuje výzvu polského ministra obrany, aby Ukrajina přejmenovala vo
 
 Vrabel tvrdí (s odkazem na Putinova čísla o dezercích), že Ukrajinci nechtějí bojovat, a ilustruje to lidským příběhem: muže odvezly mobilizační jednotky TCK do výcvikového tábora; rodina ho po třech měsících našla a vykoupila písemně za 12 000 dolarů, on okamžitě odletěl do USA — o tři týdny později si pro něj TCK přišly domů. Vrabel z toho vyvozuje, že režim drží lidi ve válce násilím.
 
-**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+**11. 9.** — K oficiální zprávě, že mobilizace v Kyjevě „probíhá podle plánu", Vrabel opakuje beze změny svou tezi, že tímto plánem je bojovat „až do posledního Ukrajince" — rámuje konflikt jako válku ukrajinského režimu proti vlastním lidem, ne proti Rusku, financovanou západními platbami (bez nichž by se režim okamžitě zhroutil); pokud by Rusko dosáhlo Kyjeva a odstranilo Zelenského vedení, šlo by dle něj o „osvobození" Ukrajinců od jejich vlastní elity.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
 
 ---
 

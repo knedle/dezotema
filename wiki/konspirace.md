@@ -127,7 +127,9 @@ Vrabel popisuje svět jako rozdělující se na dva tábory: BRICS prosazující
 
 ⚡ **Poznámka:** Pasáž o „chazarských židech, bankéřích" je antisemitský konspirační topos; srov. [Boldy: Holocaust přeceňován, „Chazarové" vs. „Židi"](#boldy-holocaust-přeceňován-chazarové-vs-židi-24-5-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026)
+**11. 9.** — Vrabel cituje Vladimira Putina na obchodním fóru BRICS: země BRICS dnes vytvářejí více než 40 % světového HDP oproti 29 % u zemí G7, přičemž polovinu růstu světové ekonomiky zajišťují právě státy BRICS. Putin dále uvedl, že ruské HDP mezi lety 2023–2025 vzrostlo o 10,3 % (rychleji než světový průměr) navzdory cca 30 000 sankcím (dvakrát více než proti všem ostatním zemím světa dohromady) a zdůraznil pokles průmyslové výroby v eurozóně o 8 %. Vrabel to čte jako důkaz svého dlouhodobého tvrzení, že „Západ končí" a že sankční politika postihuje víc iniciátory sankcí než Rusko — kritizuje i to, že česká média označují Putina bez titulu „prezident", zatímco u Trumpa a Zelenského titul vždy uvádí.
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
 
 ---
 
@@ -803,3 +805,21 @@ Zítko sdílí a komentuje video, které dává do souvislosti vznik americké c
 Německá policie zadržela v obytném voze 48letého muže s poznámkami vytipovávajícími přes 160 cílů útoků na elektrickou infrastrukturu — vyšetřovatelé jeho motiv spojují s odporem k fosilním palivům, v souvislosti se sérií sabotážních útoků na rozvodny v několika spolkových zemích. Vrabel to dává do souvislosti s rétorikou o „hoření planety" (zmiňuje předsedu Valného shromáždění OSN, který mluvil o „hořících lidech") a tvrdí, že podobná násilná radikalizace bude čím dál častější, protože se „západní systém" ekonomicky i řídicí rozpadá a snaží se udržet mocí formou „digitálního koncentráku" (digitální měna, kamery, sledování, umělá inteligence). Jako doklad uvádí zatčení Tomáše Hrdličky na demonstraci za nošení odznaku s písmenem „Z" a rostoucí protesty po celé Evropě (Řecko, Španělsko, Británie, Irsko) — s výjimkou ČR, kde plánuje totéž „napravit" veřejným shromážděním 3. 10.
 
 **Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+
+---
+
+### 25. výročí 11. září — pochybnosti o oficiální verzi, sedmý mrakodrap a plán válek v sedmi zemích (Vrabel, 11. 9. 2026)
+
+K 25. výročí útoků z 11. září 2001 Vrabel kritizuje vyjádření vicepremiéra a ministra zahraničí Petra Macinky, že „některá data nepotřebují vysvětlení" — naopak tvrdí, že toto konkrétní datum vysvětlení potřebuje nejvíc. Argumentuje fyzikální nemožností oficiální verze: hliníkové letadlo s kerosinovým požárem podle něj nemohlo zničit masivní ocelovou konstrukci mrakodrapů navrženou na vydržení mnohem větší zátěže; sedmá budova Světového obchodního centra se zřítila, aniž do ní narazilo jakékoli letadlo; v Pentagonu nebyly nalezeny žádné trosky letadla; mezi jednotlivými útoky uplynulo přes tři čtvrtě hodiny, aniž by vzlétly americké stíhačky (na rozdíl od standardní reakce na dnešní dronové incidenty); a pasy únosců se našly na místě dřív, než budovy spadly. Připomíná, že na základě zprávy vyšetřovací komise (Kean-Hamilton) byla legitimizována invaze do Iráku a válka v Afghánistánu, a cituje generála Wesleyho Clarka, který měl krátce po útocích v Pentagonu vidět plán války v sedmi zemích (Irák, Sýrie, Libanon, Libye, Somálsko, Súdán, Írán) během pěti let — z nichž se většina později naplnila. Uzavírá, že konspirační vysvětlení („false flag" operace provedená k rozehrání „války proti terorismu") mu připadá logičtější než oficiální verze, byť připouští, že pro to nemá přímé důkazy.
+
+⚡ **Konflikt:** Tvrzení o kontrolované demolici WTC a absenci trosek v Pentagonu jsou v rozporu se závěry oficiálních vyšetřování (komise NIST, 9/11 Commission), které fyzikální kolaps budov i nárazy letadel dokumentují.
+
+**Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+---
+
+### „Super El Niño" — varování před možným ovlivňováním počasí (Vrabel, 11. 9. 2026)
+
+Vrabel referuje mediální zprávy o rychle zesilujícím El Niño v Pacifiku, které by na podzim mohlo dosáhnout mimořádné intenzity (patřit k nejsilnějším zaznamenaným epizodám, s dopady až do začátku roku 2027) v kombinaci s kladnou fází indicko-oceánského dipólu — s možnými dopady na sucha, srážky a povodně od Austrálie přes Indii až po východní Afriku. Poznamenává, že všechna média jev prezentují jako čistě přírodní, což mu právě proto přijde podezřelé — vzhledem k tomu, co považuje za prokázané schopnosti ovlivňování počasí. Doporučuje divákům praktickou přípravu (zásoby vody v lahvích, konzervy, baterky/svíčky pro případ výpadků elektřiny) pro případ, že by jev zasáhl i ČR výpadky proudu, silným větrem, bouřkami nebo kroupami.
+
+**Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
