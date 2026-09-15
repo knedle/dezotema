@@ -184,6 +184,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **30. 8.** — rozhovor Petra Pavla na CNN Prima News jako „tragikomedie" — kritika návrhu na snížení počtu nemocnic a přístrojů, vlastní program zdravotnictví/školství (stipendia vázaná na závazek zůstat v ČR) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [petr-pavel.md](../petr-pavel.md#rozhovor-na-cnn-prima-news-jako-tragikomedie--návrh-na-snížení-počtu-nemocnic-a-přístrojů-rajchl-30-8-2026)
 - **30. 8.** — kompletní přehled ekonomického programu PRO (škrty výdajů, zrušení Leopardů/F-35, konec dotací neziskovkám, zrušení ETS1/ETS2, sektorové daně bank/zbrojařů, digitální daň) — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [politicky-system.md](../politicky-system.md#ekonomický-program-pro)
 - **7. 9.** — debata na VOX TV s Janem Jakobem (TOP 09), který ze studia odešel; obvinění Otakara Foltína (TOP 09) z nacistické rétoriky za oslovení části národa slovem „svině" — [Videoportál 7. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-7-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
+- **11. 9.** — přímý záznam téže debaty s dalšími příklady dvojího metru (Turek „deratizace", Decroix „sволoč", Novotný o válce/podřezávání) — [Videoportál 11. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
 - **9. 9.** — televizní debatní spor se starostou Tetína „Matějem" — zpochybnění jeho kompetence poučovat o rozpočtu; opakuje beze změny sektorové daně (banky, zbrojaři, digitální daň) — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [politicky-system.md](../politicky-system.md#debatní-spor-s-matějem-z-tetína--zpochybnění-kompetence-kritika-rozpočtu-rajchl-9-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
@@ -377,6 +378,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Jan Papjanovský | ❌ negativní | Poslanec STAN v komisi Dozimetr — porušil dohodnutý způsob komunikace o zjištěních komise a veřejně to nazval „cenzurou"; Rajchl to odmítá a hrozí stejnou reakcí | 2026-09-04 | [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026) |
 | Matěj (starosta Tetína) | ❌ negativní | V debatě kritizuje Rajchlovo rozpočtové hospodaření; Rajchl to odmítá jako nekompetentní — kritik podle něj „málem zbankrotoval" vlastní obec | 2026-09-09 | [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) |
 | Eva Decroix | ❌ negativní | Vyzvala ke „shovívavosti" vůči odsouzeným násilníkům a pedofilům — Rajchl to označuje za definitivní politický konec ODS | 2026-09-10 | [Videoportál 10. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026) |
+| Eva Decroix | ❌ negativní | Použila slovo „sволoč" — příklad dvojího metru vůči Foltínovu výroku „svině" | 2026-09-11 | [Videoportál 11. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026) |
+| Pavel Novotný | ❌ negativní | Měl prohlásit, že by Češi „potřebovali válku" a museli „podřezat ženy a děti" — bez medializace srovnatelné s obviněním Filipa Turka z nacismu | 2026-09-11 | [Videoportál 11. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026) |
 
 ---
 
@@ -490,3 +493,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (8. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-8-9-2026)
 - [Videoportál (9. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026)
 - [Videoportál (10. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)
+- [Videoportál (11. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026)

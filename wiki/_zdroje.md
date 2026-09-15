@@ -4717,3 +4717,10 @@
 - **Datum záznamu:** 2026-09-11
 - **Zpracováno:** ano
 - **Poznámka:** COVID-19 podvod, virologie podvod — z velké části repríza (BEWIT, PCR podvod, Chomutovský spis, McCullough ivermectin studie); nové: Oxfordská human challenge studie 2024 (Lancet Microbe), kanadské Ellisonovo vyšetřování, Christine Anderson v EP.
+
+## Jindřich Rajchl — Videoportál (11. 9. 2026) {#jindřich-rajchl--videoportál-11-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-11_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1109509795100628>
+- **Datum záznamu:** 2026-09-11
+- **Zpracováno:** ano

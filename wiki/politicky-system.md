@@ -519,7 +519,9 @@ Jako příklad pokrytectví, které pojmenovává, uvádí Jindřicha Rajchla: t
 
 Rajchl líčí debatu na internetové televizi VOX TV (moderátor Kubelík) proti Janu Jakobovi (TOP 09), který podle něj ke konci debaty „neustál argumentační debakl" a ze studia odešel. Klíčovým momentem měla být Rajchlova reakce na Jakobovu kritiku SPD za šíření obsahu o migraci: Rajchl namítl, že nechutné je především to, že komunikační šéf TOP 09 Otakar Foltín nazval část národa slovem „svině" — a toto oslovení přirovnal k nacistické rétorice vůči židovskému obyvatelstvu (odkaz na dílo Ladislava Fukse). Srovnává vlastní výkon s Lubošem Blahou, který v debatě vypráskal Sašu Vondru — obojí prezentuje jako doklad, že jejich oponenti neobstojí v konfrontaci s „tvrdými argumenty".
 
-**Zdroje:** [Rajchl — Videoportál 7. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-9-2026)
+**11. 9.** — Ze zveřejněného přímého záznamu téže debaty Rajchl rozšiřuje argument o dvojím metru dalšími příklady: připomíná, že Filip Turek byl médii obviněn z „nacistické rétoriky" za výrok o „deratizaci parazitů" (úředníků), zatímco Foltínovo oslovení „svině" bylo přejito bez kritiky — a doplňuje další srovnání, která podle něj ukazují stejnou nekonzistenci: Eva Decroix použila slovo „sволoč" a Pavel Novotný měl prohlásit, že by Češi „potřebovali válku" a museli „podřezat ženy a děti" — u obou bez srovnatelné medializace. Jakob na to reaguje odchodem ze studia se slovy „jste proruský trol".
+
+**Zdroje:** [Rajchl — Videoportál 7. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-7-9-2026), [Rajchl — Videoportál 11. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-11-9-2026)
 
 ---
 
