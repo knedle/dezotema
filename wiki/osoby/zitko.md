@@ -45,6 +45,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **11. 9.** — COVID-19/virologie podvod (z velké části repríza): Oxfordská human challenge studie 2024 (Lancet Microbe, 36 dobrovolníků, žádná trvalá infekce) jako nový důkaz neexistence nakažlivosti; kanadské Ellisonovo vyšetřování (4denní veřejné slyšení, 1400+ žádostí); opakuje beze změny Christine Anderson v EP (Pfizergate), Rudolf Steiner/Tom Cowen/Stefan Lanka (viry jako "buněčný odpad"/exosomy), McCullough Foundation ivermectin studii a Chomutovský spis — [Videoportál 11. 9.](../_zdroje.md#pavel-zítko--videoportál-11-9-2026)
 - **14. 9.** — ČR zaplatila 19 mld. Kč za covid vakcíny, méně než polovina využita; nový detail k „Pfizergate" (manžel von der Leyenové přešel do Orgenesis); extrapolace amerického poměru nákladů (vakcíny vs. léčba poškozených) na ČR: dalších 160–170 mld. Kč na léčbu poškozených vakcínou — [Videoportál 14. 9.](../_zdroje.md#československo-tv2--videoportál-14-9-2026)
 - **15. 9.** — smrt slovenského poslance Jaroslava Pašky připisovaná vakcinaci; ředitelka SÚKL Irena Storová označena za „spolupachatelku genocidy"; citace Aarona Rodgerse o covidu jako „testu poslušnosti" — [Videoportál 15. 9.](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
+- **17. 9.** — Rockefellerův narativ vzniku farmaceutické medicíny (potlačení homeopatie/koloidního stříbra); herbicid Roundup jako příčina Parkinsonovy choroby — [Videoportál 17. 9.](../_zdroje.md#československo-tv2--videoportál-17-9-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -383,3 +384,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál (14. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-14-9-2026)
 - [Videoportál (15. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
 - [Videoportál (16. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-16-9-2026)
+- [Videoportál (17. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-17-9-2026)

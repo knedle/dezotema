@@ -640,6 +640,12 @@ Zítko sdílí a komentuje vystoupení Dr. Helmuta Sterze (dlouholetý toxikolog
 
 > „Es war so geradezu wie ein Blindflug. Die Pharmaindustrie ist meines Erachtens ein Rad in dieser sehr gut geschmierten Maschine der Impfmafia." — Dr. Helmut Sterz, citováno Zítkem, [Večerníček 2026-04-10](_zdroje.md#pavel-zítko--večerníček-dr-sterz-pfizer-toxikolog-covid-tour-11-4-2026)
 
+**17. 9.** — Zítko rozšiřuje kritiku farmaceutického průmyslu o narativ vzniku celého systému: John D. Rockefeller (ropný magnát, ne lékař) měl západní medicínu vybudovat jako odbytiště syntetických chemických produktů vznikajících jako vedlejší produkt zpracování ropy. Financováním a ovlivněním lékařských fakult prosadil, aby osnovy stavěly výhradně na patentovaných farmaceutických produktech, zatímco homeopatii, naturopatii a koloidní stříbro (údajně účinné proti 650 patogenům) nechal vytěsnit jako „šarlatánství" — sám přitom údajně tyto alternativní metody se svou rodinou soukromě vyhledával. Cíl systému popisuje jako celoživotní zákaznickou závislost na potlačování příznaků, ne léčení příčin. Samostatně cituje novou studii, podle níž herbicid Roundup (glyfosát, produkt Monsanto) zanechává trvalé poškození mozku zvyšující náchylnost k Parkinsonově chorobě.
+
+⚡ **Poznámka:** Narativ o Rockefellerově záměrném potlačení homeopatie a koloidního stříbra je zjednodušující historická konspirační interpretace bez uvedení ověřitelných primárních zdrojů.
+
+**Zdroje:** [Zítko — Večerníček 2026-04-10](_zdroje.md#pavel-zítko--večerníček-dr-sterz-pfizer-toxikolog-covid-tour-11-4-2026), [Československo TV2 — Videoportál 17. 9. 2026](_zdroje.md#československo-tv2--videoportál-17-9-2026)
+
 **Zdroje:** [Zítko — Večerníček: Dr. Sterz, 2026-04-10](_zdroje.md#pavel-zítko--večerníček-dr-sterz-pfizer-toxikolog-covid-tour-11-4-2026)
 
 ---
