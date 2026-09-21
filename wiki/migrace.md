@@ -739,3 +739,13 @@ Rajchl rozvádí svou dřívější zmínku o Ulrichu Sigmundovi (šéf AfD pro 
 ⚡ **Poznámka:** Údaj „80 útoků bodnou/sečnou zbraní denně v Německu" nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké ho Rajchl prezentuje.
 
 **Zdroje:** [Rajchl — Videoportál 16. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)
+
+---
+
+### Švédské volby rozhodly hlasy voličů s přistěhovaleckými kořeny — „Švédsko hotovo" (Vrabel, 14. 9. 2026)
+
+Podle zprávy, kterou Vrabel komentuje, švédské parlamentní volby těsně vyhrál středolevý blok (176 křesel) nad pravicovým blokem (173 křesel) díky hlasům voličů s přistěhovaleckými kořeny — dle citovaných čísel by bez těchto hlasů (rozdíl cca 3 křesla) zvítězila pravice. Vrabel z toho vyvozuje, že o výsledku švédských voleb rozhodli muslimští přistěhovalci, a označuje Švédsko za „hotové" — vzpomíná na vlastní zkušenost z 80. let, kdy platilo za jednu z nejsvobodnějších zemí světa, v kontrastu se současným stavem, který přirovnává k (blíže neurčenému) televiznímu seriálu o teroristkách ve švédské škole.
+
+⚡ **Poznámka:** Konkrétní číslo o rozdílu způsobeném hlasy přistěhovalců nelze z přepisu nezávisle ověřit.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)

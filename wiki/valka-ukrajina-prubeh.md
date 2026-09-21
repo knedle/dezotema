@@ -431,7 +431,9 @@ Vrabel v nedělním vysílání (3. 5. 2026) vyslovil názor, že Volodymyr Zele
 
 Bývalá tisková mluvčí Zelenského Julie Mendelová vydala knihu, ve které popisuje, že lidé z Zelenského okolí ho označují za uživatele kokainu. Sama ho při požívání nepřistihla, ale popisuje vzorec chování: před každým rozhovorem odešel na 15 minut na toaletu a vrátil se zcela energetizovaný. Mendelová se za to ocitla na ukrajinskéom seznamu Mirotvorce — Vrabel tvrdí, že jde o seznam určený k fyzické likvidaci osob. Hodnotí situaci jako „odrovnání zbytku Zelenského kariéry."
 
-**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+**14. 9.** — Vrabel doplňuje, že Zelenskyj na Mendelovou nyní formálně uvalil desetileté prezidentské sankce (zmrazení majetku, zákaz obchodních a kapitálových operací) — spolu s dalšími devíti lidmi obviněnými z „šíření ruských dezinformací". Připomíná, že rozhodnutí přišlo měsíce po jejím rozhovoru s Tuckerem Carlsonem, v němž mj. líčila korupci v Zelenského okolí a vzpomínala na duben 2022, kdy Boris Johnson při návštěvě Kyjeva slíbil Zelenskému neomezenou podporu (zbraně, peníze) k porážce Ruska — což dle Vrabela spoluzavinilo zablokování tehdy rozjednané mírové dohody.
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026), [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
 
 ---
 
@@ -1128,4 +1130,16 @@ Vrabel obrací obvyklé užití slova „genocida" (které dle něj Západ smě�
 
 ⚡ **Poznámka:** Čísla o obětech, obchodu s orgány i Zelenského majetku nelze nezávisle ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+**14. 9.** — Vrabel opakuje tutéž tezi (2,5 mil. mrtvých/nezvěstných, Zelenského majetek) a doplňuje konkrétní zdroj plánu na dovoz 9 milionů uprchlíků: americký prezidentský zmocněnec Jared Kushner veřejně prohlásil, že Ukrajina má po válce „potenciál stát se neuvěřitelnou zemí" pro zahraniční investory, pokud vytvoří „fungující systém řízení omezující korupci" — na poválečném plánu má spolupracovat se Zelenským, Světovou bankou a Larrym Finkem (BlackRock). Vrabel to čte jako potvrzení, že poválečná Ukrajina bude fakticky spravována zahraničním kapitálem a osídlena novou pracovní silou z Indie/Pákistánu/Bangladéše místo navrácených uprchlíků z ČR a Evropy.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026), [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
+---
+
+### Kushner: mír „za dveřmi", stačí Ukrajinu dotlačit za Putinovu linii — Rusko naopak „velmi znechucené" (Vrabel, 14. 9. 2026)
+
+Vrabel srovnává protichůdné signály z obou stran před americkými volbami do Kongresu (listopad 2026). Jared Kushner tvrdí, že mírová dohoda je „téměř hotová" — jediné, co zbývá, je přimět Ukrajince stáhnout se za linii vytyčenou Vladimirem Putinem — a označuje Trumpa za „mírotvorce", který dojednal mír v osmi zemích. Naproti tomu z Ruska (dle Vrabelova sledování ruských zdrojů) zaznívá opak: Putin měl být z jednání se Steve Witkoffem a Kushnerem „velmi znechucený", stejně jako z nátlaku Módího, Erdoğana a Tokajeva na summitu v Šanghaji, aby vyhlásil příměří veřejně. Kreml navíc odmítl myšlenku trojstranné schůzky Zelenskyj–Putin–Trump v Miami a Putin označil Zelenského za „teroristu", s nímž se nevyjednává. Vrabel to čte jako důkaz, že Kushnerovo optimistické vykreslení je především předvolební kampaní republikánů (slib ukončení války „do 24 hodin" se protáhl na přes 24 měsíců) — přičemž v samotném Rusku podle něj sílí nálada, že by se země místo trpělivého čekání měla začít aktivně bránit údajně mohutným útokům Západu.
+
+⚡ **Poznámka:** Tvrzení o Putinově „znechucení" z jednání i o většinové ruské náladě je Vrabelova vlastní interpretace nepodložená citovaným zdrojem.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)

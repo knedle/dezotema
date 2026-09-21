@@ -1158,6 +1158,27 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Konspirační teorie](../konspirace.md) (pokrač. 15)
 - **13. 9.** — drobná pozorování: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 
+### [Politický systém](../politicky-system.md) (pokrač. 19)
+- **14. 9.** — hodinová schůzka Babiše s Pavlem na Hradě jako pokračování „umělého konfliktu" prezident/vláda; koordinace zahraniční politiky jen zastírá schválení dalších ~40 mld. $ pro Ukrajinu na summitu NATO v Ankaře; „vlastenecké" strany po vstupu do vlády přestaly mluvit o referendu o EU/NATO — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [politicky-system.md](../politicky-system.md#umělý-konflikt-vláda-vs-prezident-babišmacinka-předstírají-opozici-vůči-fialovi--vrabel-13-6-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
+- **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+- **14. 9.** — Kushner: mír „za dveřmi", stačí dotlačit Ukrajinu za Putinovu linii; Rusko naopak „velmi znechucené" z jednání a nátlaku na summitu v Šanghaji; odmítnutí trojstranné schůzky v Miami — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#kushner-mír-za-dveřmi-stačí-ukrajinu-dotlačit-za-putinovu-linii--rusko-naopak-velmi-znechucené-vrabel-14-9-2026)
+- **14. 9.** — Sikorski: NATO by mělo vzdušnou převahu a mohlo Rusko „poměrně rychle porazit"; Vrabel varuje před přesunem jaderných zbraní k ruským hranicím a spekuluje o francouzských Rafale s ASMP na českém území — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [jaderne-zbrane.md](../jaderne-zbrane.md#sikorski-nato-by-mělo-vzdušnou-převahu-a-mohlo-rusko-poměrně-rychle-porazit--vrabel-varuje-před-jadernou-eskalací-14-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 20)
+- **14. 9.** — doplňuje zdroj plánu na dovoz 9 mil. uprchlíků do poválečné Ukrajiny: Jared Kushner (Světová banka, Larry Fink/BlackRock) — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#obrácená-teze-genocidy-na-ukrajině--odhad-2-mil-mrtvých-zelenskyj-jako-americký-velkostatkář-vrabel-13-9-2026)
+- **14. 9.** — Zelenskyj uvalil desetileté sankce na bývalou mluvčí Julii Mendelovou po jejím rozhovoru s Tuckerem Carlsonem (Boris Johnson a sliby z dubna 2022) — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#mendelová-zelenský-uživatel-kokainu--vrabel-12-5-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 16)
+- **14. 9.** — Dánsko školí 2000 civilních kněží na vojenské pohřby (až 20 denně v případě konfliktu) — sarkastický komentář o „lidské hlouposti" — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#dánsko-školí-2000-civilních-kněží-na-vojenské-pohřby--až-20-denně-vrabel-14-9-2026)
+
+### [Migrace](../migrace.md) (pokrač. 21)
+- **14. 9.** — švédské volby rozhodly hlasy přistěhovalců — „Švédsko hotovo" — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [migrace.md](../migrace.md#švédské-volby-rozhodly-hlasy-voličů-s-přistěhovaleckými-kořeny--švédsko-hotovo-vrabel-14-9-2026)
+
+### [Predikce](../predikce.md) (pokrač. 2)
+- **14. 9.** — Zelenskyj nevydrží 30denní moratorium na útoky na energetickou infrastrukturu (50:50); konflikt s Íránem se nevyřeší jako Venezuela (99:1 proti Trumpovu slibu) — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1606,6 +1627,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Aleksandar Vučić | ○ neutrální | Oznámil rezignaci na přelomu 25.–26. 9. | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
 | Vladimir Putin | ○ neutrální | Obvinil Ukrajinu ze „státního terorismu" v reakci na Zelenského varování před nebezpečností ruského vzdušného prostoru | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
 | Josef Mengele | ○ neutrální | Zmíněn jako nacistický lékař, který podle „včerejší" zprávy žil po válce ve Švýcarsku | 2026-09-13 | [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026) |
+| Jared Kushner | ⚖️ rozporuplný | Nový řádek: vykresluje poválečnou Ukrajinu jako investiční příležitost (Světová banka, Larry Fink) a mír jako „téměř hotový" — Vrabel to čte jako předvolební PR, ne realitu | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
+| Julie Mendelová | ✅ pozitivní | Bývalá mluvčí Zelenského — nyní na 10 let sankcionována za rozhovor s Tuckerem Carlsonem, kde popsala korupci v Zelenského okolí | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
+| Radosław Sikorski | ❌ negativní | Polský ministr zahraničí — tvrzení o vzdušné převaze NATO nad Ruskem hodnoceno jako nebezpečná eskalační rétorika | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
+| Mark Rutte | ❌ negativní | Nový řádek: jeho „hysterický" projev přirovnán ke stylu Adolfa Hitlera; spekulace o duševní nemoci nebo drogách | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
 
 ---
 
@@ -1742,3 +1767,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (11. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
 - [Facebook Live (12. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 - [Nedělní vysílání (13. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+- [Facebook Live (14. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)

@@ -179,3 +179,13 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 **28. 8.** — Vrabel pouští a podporuje video Koriny Rybářové, která na vlasteneckém setkání v Příčovech předala Petru Hájkovi pozvánku na demonstraci 3. 10. — Hájek následně na Protiproudu naznačil, že akce může být financovaná stejně jako Milion chvilek. Rybářová v odpovědi odmítá srovnání (demonstrace „Člověk na prvním místě" i předchozí akce stejných organizátorů z roku 2022 byly dle ní financované výhradně samotnými lidmi) a ptá se, proč Hájek akci veřejně napadá, když se jí sám neúčastní. Vrabel se k tomu připojuje osobní vzpomínkou na Hájka z divadla Kámen (2021/2022), kde hodinu a půl mluvil o nemožnosti změny skrze politické strany, než ho „převálcoval" nepozvaný Jindřich Rajchl (v té době jeho bezplatný advokát) ohlášením vlastní strany — a Hájek na to jen mlčel. Zdůrazňuje, že nestojí na straně žádné z „ODS klik" (motoristé s Klausem ml., PRO/Trikolóra s Hrdličkou, Naše Česko s Kubou a Dlouhým), a odmítá být zatahován do sporů mezi nimi o „korito" — [Facebook Live 28. 8.](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)
 
 ---
+
+### Sikorski: NATO by mělo vzdušnou převahu a mohlo Rusko „poměrně rychle porazit" — Vrabel varuje před jadernou eskalací (14. 9. 2026)
+
+Polský ministr zahraničí Radosław Sikorski na bezpečnostní konferenci v Kyjevě prohlásil, že Polsko a další státy NATO by v případě přímého konfliktu s Ruskem měly výraznou vzdušnou převahu a mohly by Moskvu porazit „poměrně rychle" — jako doklad uvedl, že pokud Ukrajina za půl roku vyřadila polovinu ruských rafinerií, NATO by tu druhou polovinu zvládlo zničit „za šest týdnů". Vrabel argument opravuje (ruské rafinerie vyřazovalo celé NATO, ne samotná Ukrajina) a varuje, že takové výroky přesně odpovídají tomu, co „říká už čtyři roky": Západ soustavně přesouvá letadla schopná nést jaderné hlavice do okolí Ruska pro případný hromadný nálet. V této souvislosti odhaduje, že Českou republiku (podpis buď Babišem, nebo Pavlem) čeká zapojení do francouzské jaderné aliance — letouny Rafale s raketami ASMP by měly operovat z českého území místo francouzského, protože Francie se nechce vystavit riziku ruské odvety na vlastní půdě. Připomíná vyjádření Sergeje Lavrova, že případný přímý střet NATO–Rusko by byl „velmi rychlou válkou" — což si vykládá jako varování před rychlým použitím mimořádně ničivých zbraní.
+
+⚡ **Poznámka:** Tvrzení o plánovaném umístění francouzských jaderných zbraní na českém území je Vrabelova vlastní spekulace, ne doložený fakt.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
+---

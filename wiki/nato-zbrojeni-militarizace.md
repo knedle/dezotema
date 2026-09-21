@@ -905,3 +905,13 @@ Generální tajemník NATO Mark Rutte 10. 9. v Berlíně prohlásil, že spojenc
 Vrabel referuje o rozhodnutí EU ztrojnásobit rozpočet i personál agentury Frontex (navýšení o 300 milionů eur, trojnásobný počet zaměstnanců). Odmítá to číst jako reakci na migrační krizi — počty žadatelů o azyl podle něj naopak klesají — a interpretuje krok jako přípravu na uzavření vnějších hranic EU v okamžiku vypuknutí konfliktu s Ruskem, obdobně jako se hranice uzavřely na Ukrajině 24. 2. 2022. Zmiňuje také, že Polsko se předběžně zavázalo k uplatnění čl. 5 Severoatlantické smlouvy (kolektivní obrana) automatičtěji než dosud. Divákům radí připravit si únikovou cestu z EU do vojensky neutrální oblasti (dává přednost Rumunsku/Srbsku před Maďarskem) předtím, než k uzavření hranic dojde.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+---
+
+### Dánsko školí 2000 civilních kněží na vojenské pohřby — „až 20 denně" (Vrabel, 14. 9. 2026)
+
+Dánská armáda má od ledna 2027 začít školit přibližně 2000 civilních kněží na vedení vojenských pohřbů pro případ rozsáhlého konfliktu — stávajících 95 vojenských kaplanů by při vysokých ztrátách nestačilo. Šéf vojenských kaplanů Tomáš Hebek odhaduje, že v nejhorších dnech případného konfliktu (zejména v Pobaltí) by mohlo padnout 10–20 dánských vojáků denně; výcvik se zaměřuje i na informování rodin a organizaci pohřbů. Vrabel to komentuje se sarkasmem jako ukázku „lidské hloupostí" — místo přípravy na válku (kaplani, pohřby) by podle něj bylo racionálnější usilovat o obnovení dodávek levného ruského plynu a ropy a o zlepšení vztahů s Ruskem.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)

@@ -12,6 +12,26 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Zelenskyj nevydrží 30denní moratorium na útoky na energetickou infrastrukturu (14. 9. 2026)
+
+**Předpověď:** K oznámení Donalda Trumpa, že se Rusko a Ukrajina dohodly přestat útočit na energetickou infrastrukturu druhé strany, Vrabel vyjadřuje skepsi — připomíná, že podobné 30denní příměří v minulosti Rusko dodrželo, zatímco Ukrajina během něj zaútočila na ruská ropná zařízení 48×. Odhaduje šanci na dodržení „tak 50 na 50" v závislosti na tom, jak tvrdý nátlak na Zelenského Trump skutečně vyvíjí.
+
+**Horizont:** cca 30 dní od oznámení (polovina října 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
+---
+
+### Ladislav Vrabel — konflikt s Íránem se nevyřeší jako Venezuela, potáhne se déle (14. 9. 2026)
+
+**Předpověď:** Trump tvrdí, že konflikt s Íránem skončí do konce roku 2026 (po listopadových volbách do Kongresu) stejným způsobem jako ve Venezuele. Vrabel s poměrem 99:1 předpovídá, že se tak nestane — Írán na rozdíl od Venezuely úzce spolupracuje s Ruskem, Čínou a Indií, takže podle něj „mu to Trumpovi neprojde" a konflikt se potáhne podstatně déle.
+
+**Horizont:** konec roku 2026 / po volbách do amerického Kongresu (listopad 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
+---
+
 ### Ladislav Vrabel — přicházející občanská válka v Evropě (10. 9. 2026)
 
 **Předpověď:** V souvislosti se zatčením „klimatického extremisty" v Německu (plánujícího útoky na elektrickou infrastrukturu) a rostoucími protesty po Evropě (Řecko, Španělsko, Británie, Irsko) Vrabel opakuje předpověď, kterou mu měl před lety sdělit „nejchytřejší člověk na světě" a s níž se od té doby ztotožnil: v Evropské unii dojde k občanské válce. Očekává, že podobné násilné incidenty (radikalizace kvůli klimatické/migrační politice) budou čím dál častější, „možná každodenní", a povedou k rozsáhlejšímu násilí na ulicích.
