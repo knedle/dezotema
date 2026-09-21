@@ -1052,7 +1052,11 @@ Přebírá článek Romana Malého (odkaz na Dianu Weil), podle nějž je von de
 
 **11. 9.** — Zítko dokládá totéž tvrzení citací europoslankyně Christine Andersonové (AfD), která na plénu Evropského parlamentu měla hovořit o probíhajícím trestním vyšetřování Ursuly von der Leyenové ohledně zmizelých SMS zpráv s Albertem Bourlou (Pfizer) — beze změny oproti 16. 7., jen doplňuje přesnou částku podepsané smlouvy (71 mil. eur za 4,5 miliardy dávek, tedy 10 dávek na obyvatele EU).
 
-**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026), [Pavel Zítko — Videoportál 11. 9. 2026](_zdroje.md#pavel-zítko--videoportál-11-9-2026)
+**14. 9.** — Zítko doplňuje, že ČR zaplatila za covidové vakcíny 19 mld. Kč, z nichž byla využita méně než polovina — zbytek bude zničen. K rodinnému propojení von der Leyenové dodává nový detail: manžel Heiko von der Leyen měl z pozice ve špitálu v Hannoveru „šupky dupky" přejít do ředitelské funkce ve firmě Orgenesis (NRA/vakcinační výzkum). Extrapoluje americký „obchodní model" (60 mld. USD tržby za vakcíny vs. 500 mld. USD na léčbu zraněných vedlejšími účinky) na ČR: k oněm 19 mld. Kč za vakcíny odhaduje dalších 160–170 mld. Kč vynaložených na léčbu lidí poškozených vakcínou.
+
+⚡ **Poznámka:** Extrapolace „160–170 mld. Kč" na léčbu poškozených je Zítkův vlastní odhad podle amerického poměru nákladů, nikoli doložené české číslo.
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026), [Pavel Zítko — Videoportál 11. 9. 2026](_zdroje.md#pavel-zítko--videoportál-11-9-2026), [Československo TV2 — Videoportál 14. 9. 2026](_zdroje.md#československo-tv2--videoportál-14-9-2026)
 
 ---
 

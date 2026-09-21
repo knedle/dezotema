@@ -192,7 +192,11 @@ Zítko opakuje svůj výklad, že Německo dluží válečné reparace Českoslo
 
 **8. 9.** — Zítko tutéž tezi (zákon 11/1918, UPIC/DUNS čísla úřadů, Havlovy tři přísahy, Pařížská dohoda 1945 a reparace 29 bilionů Kč) opakuje beze změny v rámci týdenního shrnutí.
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026)
+**14. 9.** — Zítko opakuje tutéž tezi (29 bilionů Kč / 9,5 tis. tun měnového zlata) a doplňuje nový motiv, proč Německo reparace neplatí: spekuluje, že Německo mělo prsty v tlaku na „pachatele vlastizrady" Klause, Mečiara a Havla při rozdělení Československa (výhrůžka rozpadem podle jugoslávského scénáře) a že sudetoněmecký Landsmannschaft si tím „přihříval vlastní polívčičku" směrem k obnovení nároků na sudetský majetek. Rozšiřuje také o tvrzení, že guvernéři ČNB Josef Tošovský a Miroslav Singer/Oldřich Dědek — v přepisu jmenován „Niedermayer" — v 90. letech rozprodali zlatý poklad Československa „ve výprodeji".
+
+⚡ **Poznámka:** Jméno „Niedermayer" v souvislosti s rozprodejem zlatých rezerv ČNB v 90. letech nelze ověřit — Zdeněk Tůma a Josef Tošovský byli tehdejšími guvernéry; Oldřich Niedermayer se v této funkci nedohledá.
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026), [Československo TV2 — Videoportál 14. 9. 2026](_zdroje.md#československo-tv2--videoportál-14-9-2026)
 
 ---
 

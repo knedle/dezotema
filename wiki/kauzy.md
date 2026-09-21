@@ -1026,6 +1026,16 @@ Tomáš Jiříkovský odvolal svůj dřívější „dar" 960 mil. Kč (1 % z ce
 
 ---
 
+### Nejvyšší státní zástupkyně Lenka Bradáčová podezřelá z propojení na bitcoinovou kauzu (Zítko, 14. 9. 2026)
+
+Zítko tvrdí, že Lenka Bradáčová bude muset vysvětlovat, co všechno o bitcoinové kauze věděla, a zpochybňuje dosavadní roční nečinnost nejvyššího státního zastupitelství — odkazuje na vlastní trestní oznámení a zveřejněné důkazy, které označuje za „naprosto transparentní a jednoduše dohledatelné". Připomíná, že Bradáčovou do funkce nominoval ministr spravedlnosti Pavel Blažek, a spekuluje, že nástupem Babišovy vlády a jejích jmenovaných funkcionářů (ministr Jeroným Tejc, náměstek Zdeněk Koudelka, bývalá nejvyšší státní zástupkyně Renata Vesecká jako Bradáčové „dlouholetá rivalka") vzniká politický tlak k jejímu prošetření — včetně nečinnosti policejních složek NCOZ a NCTEC.
+
+⚡ **Poznámka:** Jde o Zítkovu spekulaci o motivaci a propojení, ne o doložené obvinění; žádné trestní stíhání Bradáčové v souvislosti s bitcoinovou kauzou nebylo v přepisu doloženo.
+
+**Zdroje:** [Československo TV2 — Videoportál 14. 9. 2026](_zdroje.md#československo-tv2--videoportál-14-9-2026)
+
+---
+
 ### Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko, 7. 8. 2026)
 
 Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) veřejně obvinil Zítka, že je „fízl" a že stojí za uvězněním Čermáka na základě policejní provokace z listopadu (výslech, při kterém policie o Čermákovi nic nezmínila). Zítko obvinění odmítá a v reakci předkládá vlastní teorii, že záznam Čermákova zadržení na polsko-české hranici je zfalšovaný — záběry osoby v policejní vestě nikdy nezachytily obličej zepředu, postava i chůze podle něj neodpovídají Čermákovi a osoby na videu viditelně čekají na pokyn kameramana, než se rozejdou. Uzavírá, že o Tušlovi coby obhájci přestal mít zájem poté, co Jindřich Rajchl veřejně oznámil, že bude Tušla zastupovat on.
