@@ -245,6 +245,16 @@ Zítko zastává teorii ploché Země: Země je topografická rovina ohraničen�
 
 ---
 
+### Sdílený text „vylhaný svět": Darwinova teorie, dinosauři, atomové zbraně a vesmír jako podvod (Zítko, 15. 9. 2026)
+
+Zítko čte a sdílí německy psaný text (autorka „Barbara Pražská"), který shrnuje devět tezí o systematicky zfalšovaných dějinách a vědě: peníze jsou nástrojem kontroly energie lidí, dinosauři nikdy neexistovali, jídlo je úmyslně kontaminováno, lidstvo bylo/je pod nadvládou „kabaly", atomové zbraně jsou podvod („Schwindel"), vesmír je fake a NASA na této lži masivně vydělává, dějiny jsou zmanipulované a vylhané, a na vrcholu „pyramidy" moci stojí jezuité se symbolem vševidoucího oka. Text tyto teze prezentuje jako důsledek stejného mechanismu klamání, jaký Zítko dlouhodobě popisuje u covidu (viz [Původ a povaha pandemie](covid-vakciny.md#původ-a-povaha-pandemie)).
+
+⚡ **Poznámka:** Jde o cizí text, který Zítko sdílí a schvaluje bez vlastního rozšíření o důkazy; jednotlivé teze (neexistence dinosaurů, atomových zbraní) jsou v přímém rozporu s vědeckým konsensem i historickými záznamy (jaderné testy, trinitit).
+
+**Zdroje:** [Československo TV2 — Videoportál 15. 9. 2026](_zdroje.md#československo-tv2--videoportál-15-9-2026)
+
+---
+
 ### UFO poblíž letadla při seskoku padákem (Boldy, 23. 8. 2026)
 
 Boldy popisuje, že při skoku volným pádem u Kunovic jeho přítelkyně vyfotila a natočila „neidentifikovatelný létající objekt" — kulovité těleso, které prolétlo poblíž jejich letadla v odhadované výšce kolem tří kilometrů. Vylučuje, že by šlo o vrtulník, letadlo nebo dron, a slibuje detailnější rozbor fotografií a videa v následujícím vysílání.

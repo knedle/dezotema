@@ -1157,3 +1157,25 @@ Vrabel to kontrastuje se situací v ČR: český ministr zdravotnictví z dob co
 Ke zprávě, že ČR od roku 2020 odebrala celkem 41 mil. dávek covidových vakcín, z nichž bylo skutečně využito necelou polovinu, cca 4 mil. dávek bylo darováno do zahraničí a přes 18 mil. dávek skončilo kvůli prošlé expiraci v likvidaci (náklad cca 8 mld. Kč) — spotřeba přitom klesla z přes 15 mil. dávek v roce 2021 na jen 228 tis. v roce 2025 — Vrabel kritizuje Andreje Babiše jako „špatného manažera": pokud se sám prezentoval jako podnikatel, který by měl řídit stát jako firmu, nákup poloviny nevyužitého materiálu by v soukromé firmě považoval za hrubé selhání vysvětlující potřebu následných státních dotací. Doplňuje novou zprávu, že ministerstvo zdravotnictví o nežádoucích účincích vakcín vědělo a odmítlo je zveřejnit — což by podle něj jako soudce kvalifikoval jako úmyslné zabití, protože porušuje mezinárodní právo na informovaný souhlas (odkaz na Norimberský kodex): lidem měla být cesta k očkování prezentována politicky a strachem („kdo se neočkuje, ohrožuje ostatní"), ne lékařsky s řádným poučením o rizicích. Kritizuje Jindřicha Rajchla a Janu Zwyrtek Hamplovou za to, že namísto slibovaného boje proti covidovým křivdám uspořádali jen parlamentní seminář, po němž Babiš pouze konstatoval, že „se staly chyby" — bez jakéhokoli vyšetřování či odškodnění obětí.
 
 **Zdroje:** [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+
+---
+
+## Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
+
+### Smrt poslance Jaroslava Pašky připisovaná vakcinaci — kritika slovenských „odborníků" a SÚKL
+
+Zítko sdílí a komentuje video o úmrtí Jaroslava Pašky — bývalého slovenského ministra školství, europoslance a místopředsedy SNS — v přímé souvislosti s covidovou vakcinací. Vinu klade slovenským „odborníkům" a veřejným tvářím kampaně (mj. Sabaka, Krčméry, Mikas, Jarčuška, Salaj, Bražinová, Čaputová, Heger, Matovič, Lengvarský), kteří vakcínu prezentovali jako bezpečnou a „svobodu" — a požaduje, aby všichni jmenovaní stanuli před vojenským tribunálem a vysvětlili, kolik na testech a vakcínách vydělali. Odpovědnost za selhání hlásení nežádoucích účinků a úmrtí připisuje řediteli SÚKL Ireně Storové, kterou označuje za „spolupachatelku masových vražd, genocidy národa a sterilizace lidí" — s odkazem na data ÚZIS o poklesu porodnosti o 30 % u 1,3 mil. žen v produktivním věku.
+
+⚡ **Poznámka:** Kauzální souvislost úmrtí Jaroslava Pašky s covidovou vakcinací není v přepisu doložena nezávislým zdrojem, jde o tvrzení sdíleného videa.
+
+**Zdroje:** [Československo TV2 — Videoportál 15. 9. 2026](_zdroje.md#československo-tv2--videoportál-15-9-2026)
+
+---
+
+### Aaron Rodgers (hráč NFL): covid jako „test poslušnosti", ne veřejné zdraví
+
+Zítko cituje výrok amerického fotbalisty Aarona Rodgerse, který covidová opatření popisuje jako „celosvětový multimiliardový psychologický projekt" s cílem zjistit, jak rychle se lidé vzdají vlastního úsudku, práce, vzdělání dětí a práva říct ne — s tím, že 85 % lidí „vyhovělo" a nechalo se očkovat. Rodgers dále v citaci označuje Anthonyho Fauciho za „zločince a masového vraha, pachatele genocidy a sterilizace".
+
+> „Cílem nebylo veřejné zdraví. Cílem bylo změřit, jak rychle se lidé vzdají svého úsudku, své práce, vzdělání svých dětí a svého práva říci ne." — Aaron Rodgers (citováno Zítkem), [Videoportál 15. 9. 2026](_zdroje.md#československo-tv2--videoportál-15-9-2026)
+
+**Zdroje:** [Československo TV2 — Videoportál 15. 9. 2026](_zdroje.md#československo-tv2--videoportál-15-9-2026)
