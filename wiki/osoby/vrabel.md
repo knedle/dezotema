@@ -1239,6 +1239,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
+- **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1834,3 +1837,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (16. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
 - [Facebook Live (18. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
 - [Facebook Live (19. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+- [Nedělní vysílání (20. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)

@@ -1282,7 +1282,9 @@ Volodymyr Zelenskyj varoval, že ruský vzdušný prostor je nebezpečný pro ci
 
 Slovenský premiér Robert Fico ve videoprohlášení (nezúčastnil se kvůli tomu summitu tzv. Karpatské osmičky na Ukrajině) řekl, že je „mírotvorce a pacifista", nechce, aby se Slovensko stalo součástí válečného konfliktu kvůli článku 5 NATO, a že jako premiér udělá vše pro to, aby Slovensko nebylo zataženo do války s Ruskem — tedy i v případě napadení jiného členského státu NATO by Slovensko automaticky neaktivovalo kolektivní obranu. Vrabel to staví do přímého kontrastu s vyjádřením polského ministra zahraničí, že Polsko by v případě napadení Litvy nebo Estonska článek 5 aktivovalo okamžitě, a označuje Ficův postoj za „majstrštik" a odvahu — jediný politik, který si dovolil takto otevřeně vystoupit proti automatismu kolektivní obrany, čímž podle něj naplno odhaluje nejednotu NATO, EU i „koalice ochotných". Vyjadřuje obavu o Ficovu bezpečnost (narážka na možný atentát). V téže souvislosti cituje výrok bývalé tiskové mluvčí Volodymyra Zelenského, že ten byl v prvních hodinách ruské invaze v panice a chtěl nechat odpálit ukrajinské mosty i s vlastními vojáky na nich, což vojáci odmítli provést.
 
-**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+**20. 9.** — Prezident Petr Pavel označil Ficovo vyjádření za závažné a vyslovil naději, že se ČR touto cestou nevydá; Fico mu obratem vzkázal, že jako bývalý generál NATO by si Pavel „rád zabojoval", zatímco on sám dává přednost míru. Vrabel na to reaguje ironicky: přesně proto byl podle něj Petr Pavel na pozici prezidenta dosazen — aby v případě, že ČR půjde do války, měla společnost rovnou svého „pastýře", který ji povede „na maso".
+
+**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026), [Vrabel — Nedělní vysílání 20. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
 
 ---
 
@@ -1293,3 +1295,23 @@ Slovenský premiér Robert Fico ve videoprohlášení (nezúčastnil se kvůli t
 ⚡ **Poznámka:** Interpretace dronového útoku na Moskvu jako důkazu přímé západní účasti na válce je Vrabelova vlastní spekulace.
 
 **Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
+---
+
+### Nejsilnější útok od začátku války během ruských voleb (1900+ dronů, 8 raket Flamingo) — Vrabel: dvojí metr „demokracie" (Vrabel, 20. 9. 2026)
+
+Během konání voleb do ruské Státní dumy (a v jejich předvečer) bylo na Rusko za dva dny vypuštěno přes 1900 dronů a 8 raket Flamingo — dle Vrabela dosud nejsilnější útok od začátku konfliktu. V noci na den voleb letělo na Moskvu 450 dronů, které zasáhly obytný dům (400 evakuovaných, dva mrtví) a ropnou rafinerii; všech 8 raket Flamingo Rusové sestřelili. Vrabel to čte jako záměrnou demonstraci vůči zemi, která se prezentuje jako obránce demokracie: srovnává to s bombardováním ropné rafinerie v Bělehradu Spojenými státy a NATO v roce 1999 (aby lidé nemohli dýchat) a ptá se, proč Západ v době, kdy chce Rusy přesvědčit, aby „svrhli Putina", právě v době voleb spustí největší útok v historii konfliktu, místo aby jim dal prostor svobodně volit. Nezávislý pozorovatel voleb (srbský advokát Goran Petronijević, Vrabelův přítel) referoval, že volby probíhaly klidně a slavnostně, bez hádek. Podle prvních výsledků zvítězila strana Jednotné Rusko se ziskem 57,54 % (komunisté 13,8 %) — Vrabel to komentuje jako potvrzení podpory Putinovi, Lavrovovi, Peskovovi, Medveděvovi a Zacharovové, s odkazem na svou dlouhodobou tezi o soudržnosti pravoslavných slovanských národů v ohrožení. Zdůrazňuje, že Západ se pokusil volby ovlivnit i propagandou o chystané mobilizaci v Rusku (aby odradil mladé muže od hlasování pro Putinovu stranu) — což označuje za „brutální zásah do demokracie". Očekává silnou ruskou odvetu na ukrajinskou vojenskou infrastrukturu v následujících dnech.
+
+⚡ **Poznámka:** Srovnání nezávislosti pozorovatele (advokáta zastupujícího srbského prezidenta a bývalého jugoslávského premiéra) je Vrabelovo vlastní hodnocení důvěryhodnosti zdroje.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 20. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
+
+---
+
+### Fico: Západ vyvolává konflikt NATO–Rusko, protože Ukrajina Rusko porazit nemůže — jen jaderné zbraně by mohly; profesor Yang: válka Rusko–Evropa nevyhnutelná (Vrabel, 20. 9. 2026)
+
+Vrabel rozebírá další Ficovo prohlášení: selhání strategie „zničit Rusko" pomocí plně podporované ukrajinské armády nutí západní politiky hledat jiný způsob, jak konflikt s Ruskem vyprovokovat — přímo mezi NATO a Ruskem. Fico dále řekl, že Rusko nelze porazit konvenčními zbraněmi, jediná cesta by byla přes zbraně jaderné — což Vrabel čte jako potvrzení své vlastní teze z roku 2022. Doplňuje analýzu čínského profesora historie a filozofie Younga (vystudoval na Berkeley), kterého slyšel v podcastu: ten spojuje krizi petrodolarového systému (dohoda z roku 1971, kdy Henry Kissinger navázal dolar na saúdskoarabskou ropu místo zlata, dnes rozkládaná růstem BRICS) s nevyhnutelností války mezi Ruskem a Evropou — logika je, že dokud Evropa (přes Ukrajinu jako prostředníka) útočí na ruské území bez přímé odpovědi, může to trvat donekonečna, protože zbraně a vojáky dodává Západ, ne Ukrajina samotná; aby Rusko mohlo vyhrát, musí se buď zmocnit celé Ukrajiny (změnit vedení v Kyjevě), nebo se dostat do přímého konfliktu s Evropou. Vrabel dodává vlastní vojenskou úvahu, proč by případná válka Rusko–Evropa byla „krátká, ale intenzivní": Rusko má menší populaci (140 mil. vs. evropských 550 mil.) a nemůže vést dlouhou konvenční válku, ale má technologickou převahu v raketových zbraních (Iskander, Kinžál, Orešnik, Sarmat, Burevestnik), proti nimž Evropa nemá obranu — a pokud dojde na jaderné zbraně, Rusko má oproti evropským a francouzsko-britským arzenálům výhodu jedenácti časových pásem (může přežít úder v hloubi země, zatímco Evropa je „zamořená" už po několika explozích). Zdůrazňuje, že jakmile bude na českém území francouzský jaderný „deštník" (Rafale/ASMP), Rusko podle svých vlastních prohlášení (adresovaných už Litvě a Estonsku) okamžitě zacílí svá jaderná zařízení na tato místa jako odvetu.
+
+⚡ **Poznámka:** Vojenské úvahy o pravděpodobnosti a povaze konfliktu Rusko–Evropa jsou Vrabelovy vlastní spekulace, ne doložené analýzy.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 20. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
