@@ -55,6 +55,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - ČT a ČRo by měly být zrušeny jako veřejnoprávní instituce — neplní zákon o nestrannosti; v době covidu 20 z 30 minut večerníku na strach; nejlepší řešení: ČT se musí uživit ze sledovanosti — [ČT a ČRo: zrušit (18. 4.)](../_zdroje.md#lenka-tarabová--čt-a-čro-zrušit-18-4-2026)
 - Výzva ke stávce/okupační stávce zaměstnanců ČT; „vládní moc se může uchýlit k násilí" — [ČT stávka (20. 5.)](../_zdroje.md#lenka-tarabová--čt-stávka-a-občanská-neposlušnost-20-5-2026)
 - Umělá nenávist ve společnosti + anonymita sociálních sítí (urážky místo věcné debaty), výzva k respektu — [Rozhovor TV Česko (15. 6.)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
+- **16. 9.** — ČTK selektivně oslovuje jen některé lídry libereckých kandidátek k dotazu na povolební spolupráci — [Videoportál 16. 9.](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026)
 
 ### [Politický systém](../politicky-system.md)
 - **4. 9.** — komunální program pro Liberec: „Městské bydlení pro liberečany, ne pro spekulanty" — podpora družstevního bydlení jako levnější a bezpečnější alternativy k hypotéce pro mladé lidi — [Videoportál 4. 9.](../_zdroje.md#lenka-tarabová--videoportál-bydlení-v-liberci-4-9-2026)
@@ -63,6 +64,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - **5. 9.** — vlastní politická historie: komunální politika od 2014, vyloučení, covidový aktivismus (Pocket Spark/Svobodný Liberec), vstup do PRO na žádost Rajchla a liberecké skupiny — [TV Česko 5. 9.](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
 - **7. 9.** — komunální program: zastavení projektu „Klimaticky neutrální Liberec" (unijní Net Zero Cities, snížení emisí o 82 % do 2030) — kritika dopadů na občany (zateplování, elektromobilita) — [Videoportál 7. 9.](../_zdroje.md#lenka-tarabová--videoportál-klimaticky-neutrální-liberec-7-9-2026)
 - **14. 9.** — komunální program bod 4: bezpečnost a městská policie — dialog s řadovými strážníky a obyvateli, zlepšení podmínek strážníků, řešení bezdomovectví/návykových látek, navýšení počtu strážníků — [Videoportál 14. 9.](../_zdroje.md#lenka-tarabová--videoportál-bezpečnost-a-městská-policie-14-9-2026)
+- **16. 9.** — kritika Lukáše Hájka (Starostové pro LK) za nálepkování PRO/SPD jako „extremistů"; PRO kvůli tomu odstoupilo od „volebního tržiště" — [Videoportál 16. 9.](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026) → [volby-2026.md](../volby-2026.md#liberec--volební-tržiště-a-odmítnutí-spolupráce-s-pro-tarabová-16-9-2026)
 
 ---
 
@@ -103,6 +105,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Andrej Babiš | ⚖️ rozporuplný | Nevlastní přímo onkologickou kliniku, ale přes Hartenberg Holding/Future Life ovládá zařízení s onkologickou prevencí, zatímco politicky prosazuje výstavbu onkocenter — poukázáno na propojení soukromého a veřejného zájmu | 2026-07-08 | [Videoportál: reakce na článek o rakovině](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026) |
 | Soňa Peková | ⚖️ rozporuplný | Uznává její vědeckou práci, ale i formální pochybení (podjatost) — odmítá výklad, že by odebrání razítka zpochybnilo její odbornost | 2026-08-20 | [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026) |
 | Jindřich Rajchl | ❌ negativní | Nový řádek: jeho seminář v PS ke covidu hodnotí jako „hrané divadlo" bez upřímné snahy cokoli odhalit | 2026-08-20 | [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026) |
+| Lukáš Hájek | ❌ negativní | Lídr Starostů pro Liberecký kraj — arogantní vystupování, nálepkoval PRO a SPD jako „extremistické strany" šířící strach a nenávist, aniž by se s Tarabovou kdy setkal | 2026-09-16 | [Videoportál 16. 9.](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026) |
 
 ---
 
@@ -139,3 +142,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [TV Česko: transparentnost (5. 9. 2026)](../_zdroje.md#lenka-tarabová--tv-česko-transparentnost-5-9-2026)
 - [Videoportál: klimaticky neutrální Liberec (7. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-klimaticky-neutrální-liberec-7-9-2026)
 - [Videoportál: bezpečnost a městská policie (14. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bezpečnost-a-městská-policie-14-9-2026)
+- [Videoportál: volební tržiště (16. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026)

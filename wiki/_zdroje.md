@@ -4796,3 +4796,10 @@
 - **URL:** <https://www.facebook.com/61553793793504/videos/5539000742991820>
 - **Datum záznamu:** 2026-09-19
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: volební tržiště (16. 9. 2026) {#lenka-tarabová--videoportál-volební-tržiště-16-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-16_Lenka-Tarabová_Videoportál.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=906236635643126&_rdr>
+- **Datum záznamu:** 2026-09-16
+- **Zpracováno:** ano

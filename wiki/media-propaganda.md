@@ -477,6 +477,14 @@ Tarabová tvrdí, že nikdy nezažila ve společnosti tolik nenávisti — a že
 
 ---
 
+### ČTK selektivně oslovuje jen některé lídry libereckých kandidátek (Tarabová, 16. 9. 2026)
+
+Tarabová kritizuje Českou tiskovou kancelář za to, že v rámci předvolebního zpravodajství oslovila k dotazu na možnou povolební spolupráci jen některé lídry libereckých kandidátek — ji, jako lídryni PRO, vynechala. Dává to do souvislosti s obecnější zkušeností, že mainstreamová média na televizní debaty (o primátorském křesle apod.) zvou opakovaně jen určitý užší okruh kandidátů, zatímco ostatní ignorují — v kontextu incidentu s Lukášem Hájkem (viz [volby-2026.md](volby-2026.md#liberec--volební-tržiště-a-odmítnutí-spolupráce-s-pro-tarabová-16-9-2026)) to vnímá jako doklad nerovného zacházení v místní politické kultuře.
+
+**Zdroje:** [Tarabová — Videoportál: volební tržiště, 16. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026)
+
+---
+
 ### Média jako „stochastický terorismus": pobodání poslance AFD a štvaní proti Vrabelovi (19. 6. 2026)
 
 K pobodání poslance AFD Michaela Meistera před jeho domem Vrabel přímo používá termín **stochastický terorismus**: média a „levičáci" podle něj nálepkováním politiků jako „fašoun/nácek" z nich dělají „legitimní cíl útoku" pro nepříčetné stoupence, přičemž si zachovávají popiratelnost. Vztahuje to na sebe: v roce 2023 ho Ukrajinec s přítelkyní polil (žluto-modrou) barvou, policie a úřady byly nečinné (Aliance národních sil podala TO), ministerstvo vnitra ho údajně zařadilo do „naming and shaming" skupiny — Vrabel proto očekává jako „další krok" útok nožem a chodí s ochrankou. Mediální štvaní (jmenuje ČT, Novinky) označuje za cílenou likvidaci, která „by měla být trestná"; srovnává s útoky na Fica, Trumpa a smrtí místopředsedy u Tommyho Robinsona. (Jde o Vrabelův popis jevu, nikoli jeho vlastní výrok stochastického teroru.)
