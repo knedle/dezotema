@@ -735,3 +735,20 @@ Vrabel systematicky prochází, co z České republiky ještě podle něj zbylo 
 V televizní debatě Rajchl kritizuje prezidenta Pavla za to, že při návštěvě Ukrajiny přislíbil dodávku letounů L-159, aniž by to s kýmkoli v ČR předem projednal — označuje to za „totální podraz bez skrupulí" a jako předpoklad možné budoucí shody „týmu Česká republika" (o niž usiluje Pavel) žádá, aby prezident přestal vést vlastní zahraniční politiku nezávislou na vládě. Srovnává českou situaci s polskou kohabitací prezidenta Nawrockého a premiéra Tuska: ačkoli mezi nimi panuje podobné napětí, v klíčových momentech (migrace, odsouzení Zelenského pojmenování jednotky po UPA) se dohodnout dokážou — na rozdíl od ČR — protože by polští občané politikům jednajícím proti národním zájmům okamžitě dali najevo nesouhlas. Opakuje odmítnutí eura, zrušení práva veta a „Spojených států evropských" jako fakticky likvidaci suverenity ČR a argumentuje, že vstup do EU v letech 2004–2005 byl jen politickým „výhledem", ne závazkem — po 21 letech (Lisabonská smlouva, migrační pakt, Green Deal, tedy změny, které při vstupu neexistovaly) mají občané právo svůj vztah k EU přehodnotit.
 
 **Zdroje:** [Rajchl — Videoportál, 29. 8. 2026](_zdroje.md#jindřich-rajchl--videoportál-29-8-2026)
+
+---
+
+### Von der Leyenová: EU jako mafie, Kanada jako „přidružený člen", nová bezpečnostní rada nad NATO (Vrabel, 16. 9. 2026)
+
+Vrabel rozebírá 16. projev Ursuly von der Leyenové o stavu Evropské unie ve Štrasburku. Klíčové body jeho kritiky:
+
+- **Kanada jako „první přidružený člen" EU** — oznámeno bez vysvětlení, co status znamená (volný trh? volný pohyb osob?) a bez uvedení, kdo k tomu dal von der Leyenové mandát. Vrabel to čte jako narychlo slepenou reakci na to, že Island v referendu odmítl nejen vstup do EU, ale i další jednání o něm, a že Grónsko podobně odmítlo bližší vazbu — snahu ukázat, že „i velká Kanada chce být součástí EU", přestože podle práva EU může být členem jen evropská země.
+- **EU jako organizovaný zločin** — přirovnává mechanismus rozšiřování EU ke klasické mafii: nejprve dává kandidátským zemím dotace a fondy, čímž je „zaháčkuje", pak vyžaduje splnění podmínek (změny zákonů, nové soudní orgány) výměnou za členství, a jakmile země vstoupí, ztrácí možnost z tohoto vztahu vystoupit — přesně jako u organizovaného zločinu.
+- **Chybějící demokratická legitimita** — von der Leyenová se dle Vrabela odvolávala na „naši demokracii", ačkoli sama nebyla zvolena lidem (demos kratos — vláda lidu), ale zvolena Evropským parlamentem; totéž zpochybnění platí podle něj pro tvrzení, že Ukrajina bojuje za „evropské hodnoty".
+- **Nová evropská bezpečnostní organizace nad NATO** — projev podle Vrabela naznačoval vznik nepojmenované evropské bezpečnostní struktury, která nebude nahrazovat NATO, ale bude „navíc nad" ním — v jeho výkladu důkaz, že se EU fakticky stává vojenským paktem a že se rámec konfliktu posouvá z „NATO–Rusko" na „Evropa–Rusko".
+
+Popisuje projev jako „válečně propagandistický" a od reality odtržený — dokládá to vlastní zkušeností z bruselského Evropského parlamentu, kde viděl na jedné straně přepych (obsluha v bílých rukavičkách) a jen pár set metrů dál bezdomovce a nebezpečné ulice.
+
+⚡ **Poznámka:** Popis obsluhujícího personálu a bezdomovců v okolí Evropského parlamentu obsahuje rasově podbarvené vyjádření (→ [stochastický teror](stochasticky-teror.md)).
+
+**Zdroje:** [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)

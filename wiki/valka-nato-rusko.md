@@ -1218,9 +1218,25 @@ Vrabel cituje prohlášení ministra zahraničí Sergeje Lavrova, že Rusko nem�
 
 **Zdroje:** [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 
+**16. 9.** — Vrabel k opakovanému Lavrovovu varování (tentokrát na Mezinárodním festivalu mládeže v Jekatěrinburgu) tentokrát nesouhlasí s tím, že by případná válka byla „krátká": očekává, že pokud by k útoku na Rusko došlo, potáhla by se „do posledního Evropana", stejně jako válka na Ukrajině pokračuje „do posledního Ukrajince" — Lavrovovo „krátká" čte jako záměrnou výhrůžku rychlým použitím zvlášť ničivých zbraní, ne jako věcnou předpověď délky konfliktu. V téže souvislosti srovnává rychlost eskalace: od majdanu (2013, kdy šlo o „patření na západ") k otevřenému konfliktu uplynulo na Ukrajině 8 let (2014–2022); od nástupu Petra Fialy s heslem „patříme na západ" (2021) uplynulo do dneška jen 5 let — z čehož usuzuje, že podobný proces v ČR postupuje podstatně rychleji než na Ukrajině.
+
+**Zdroje:** [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026), [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
+
 ---
 
-### Bělorusko oznamuje rozsáhlé vojenské prověrky a mobilizační připravenost (Vrabel, 12. 9. 2026)
+### Hašim Tači odsouzen na 25 let za válečné zločiny — UÇK, americký soudce a vynechání zločinů vůči Srbům (Vrabel, 16. 9. 2026)
+
+Zvláštní soud pro Kosovo v Haagu odsoudil bývalého kosovského prezidenta a premiéra Hašima Tačiho na 25 let vězení za vraždy, mučení, kruté zacházení a nezákonné věznění — spolu s dalšími třemi bývalými představiteli UÇK (dostali 18 a 23 let). Vrabel k tomu podává vlastní historický výklad: UÇK byla polovojenská teroristická organizace založená Albánií, USA ji vedly na seznamu teroristických organizací, než v roce 1999 (v rámci rozbíjení Jugoslávie) začaly s Tačim a UÇK spolupracovat a bombardovaly Srbsko — po vzniku samostatného Kosova pak Tači jako premiér a prezident nechával unášet, mučit a fingovaně popravovat vlastní albánskou politickou opozici. Zdůrazňuje, že tribunál (jiný soud než ICTY, který soudil Miloševiče/Mladiće/Karadžiće) odsoudil Tačiho výhradně za zločiny spáchané na vlastních Albáncích, nikoli za zločiny vůči Srbům, Romům či za obchod s orgány (viz [Nelegální obchod s lidskými orgány — Kosovo, Ukrajina](../konspirace.md#nelegální-obchod-s-lidskými-orgány--kosovo-ukrajina-vrabel-27-7-2026)) — což vysvětluje poměrně mírný trest (25 let, po odečtení vazby a dobrého chování odhaduje reálný pobyt kolem osmi let). Za příčinu mírnosti označuje i to, že řízení vedl americký soudce, jmenovaný bývalou šéfkou personálu Evropské unie — s narážkou na dřívější předání dolů a telekomunikací v Kosovu americkým firmám po skončení konfliktu.
+
+**Zdroje:** [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
+
+---
+
+### Ukrajinský prapor „Roland" pojmenovaný po nacistické jednotce z roku 1941 (Vrabel, 16. 9. 2026)
+
+Vrabel k propagandistickému videu ukrajinské jednotky „Roland" (velitel přikrývá spícího vojáka) upozorňuje, že název navazuje na prapor Roland, vytvořený roku 1941 jako součást tzv. Ukrajinské legie pod velením německé vojenské rozvědky Abwehr — spolu s praporem Nachtigall byl připravován v souvislosti s německým útokem na Sovětský svaz a podléhal přímo německému velení. Řadí to vedle praporu Azov jako další doklad, že na Ukrajině dnes působí jednotky vědomě navazující na nacistickou tradici.
+
+**Zdroje:** [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
 
 Běloruský prezident Aleksandr Lukašenko oznámil pokračování rozsáhlých kontrol bojové připravenosti ozbrojených sil — po tankových a motostřeleckých jednotkách nyní prověřuje dělostřeleckou brigádu a slibuje prověrky až po mobilizační připravenost celé armády, s heslem „připravujeme se na válku, aby k ní nedošlo". Souběžně se v jižní Gomelské oblasti u vojenského cvičiště staví nová železniční odbočka s kapacitou až 60 vozů pro příjem vojenských vlaků s personálem a technikou. Vrabel srovnává tuto rétoriku s obdobnými signály jinde (polské mobilizační „kartičky", změna mobilizačního zákona v ČR z roku 2024) a s odkazem na vlastního kamaráda z vojenské rozvědky tvrdí, že poslední rok před válkou se typicky dělá tak, aby obyvatelstvo nic netušilo — teprve když vypukne, zavřou se hranice (jako na Ukrajině 24. 2. 2022), aby lidé nemohli odejít a měli „čím bojovat".
 

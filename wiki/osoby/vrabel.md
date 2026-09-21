@@ -1194,6 +1194,15 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 17)
 - **15. 9.** — USA poprvé veřejně přiznaly zbraně na oběžné dráze pro kontrolu vesmíru — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#usa-poprvé-veřejně-přiznaly-zbraně-na-oběžné-dráze-pro-kontrolu-vesmíru-vrabel-15-9-2026)
 
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
+- **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
+
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 26)
+- **16. 9.** — Lavrov/„krátká válka" — Vrabel nesouhlasí, timeline Ukrajina vs. ČR (patříme na západ); Hašim Tači odsouzen 25 let (UÇK); prapor „Roland" jako nacistická kontinuita — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#hašim-tači-odsouzen-na-25-let-za-válečné-zločiny--uçk-americký-soudce-a-vynechání-zločinů-vůči-srbům-vrabel-16-9-2026)
+
+### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 6)
+- **16. 9.** — Finsko-francouzská řídicí skupina pro jaderné otázky; rozvádí argument proti jadernému odstrašení (scénář 1000+ letadel) — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1646,6 +1655,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Julie Mendelová | ✅ pozitivní | Bývalá mluvčí Zelenského — nyní na 10 let sankcionována za rozhovor s Tuckerem Carlsonem, kde popsala korupci v Zelenského okolí | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
 | Radosław Sikorski | ❌ negativní | Polský ministr zahraničí — tvrzení o vzdušné převaze NATO nad Ruskem hodnoceno jako nebezpečná eskalační rétorika | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
 | Mark Rutte | ❌ negativní | Nový řádek: jeho „hysterický" projev přirovnán ke stylu Adolfa Hitlera; spekulace o duševní nemoci nebo drogách | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
+| Hašim Tači | ❌ negativní | Bývalý prezident Kosova, velitel UÇK — odsouzen na 25 let za vraždy a mučení vlastní albánské opozice; Vrabel: mírný trest kvůli americkému soudci a vynechání zločinů vůči Srbům/obchodu s orgány | 2026-09-16 | [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) |
 
 ---
 
@@ -1784,3 +1794,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Nedělní vysílání (13. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 - [Facebook Live (14. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
 - [Facebook Live (15. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
+- [Facebook Live (16. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
