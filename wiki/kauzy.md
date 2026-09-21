@@ -1089,3 +1089,15 @@ Klíčovým bodem kritiky je Národní fond obnovy, který měl být určen k na
 Turecká letecká skupina Pegasus Airlines má převzít české aerolinky ČSA a spolu s nimi (protože ČSA vlastní 100 % Smartwings) i Smartwings — Úřad pro ochranu hospodářské soutěže spojení podmínečně schválil (Pegasus musí uvolnit letní sloty na trase Praha–Antalya konkurenci), rozhodnutí ale ještě není pravomocné. Vrabel k tomu vypráví osobní vzpomínku: jako vyučený pilot vyrazil s manželkou uprostřed dovolené v Praze rovnou na letiště, aby zachytil poslední let ČSA — a přiznává, že mu na místě „ukáplo", jak moc se ho konec českých aerolinek osobně dotkl. Řadí prodej do dlouhého výčtu odprodaného národního majetku zahraničním vlastníkům (voda — Veolie/Francouzi, elektřina — E.ON/Němci v jižních Čechách a na Moravě, potraviny, textil, technika) a ironicky se ptá, komu bude patřit už jen „vzduch".
 
 **Zdroje:** [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+
+---
+
+## Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
+
+### Ministr Stanjura si nechal schválit 40 mld. Kč na povodně, na Jesenicku utratil jen 4 mld. (Rajchl, 17. 9. 2026)
+
+V televizní debatě s Janem Jakobem Rajchl tvrdí, že ministr financí Zbyněk Stanjura si nechal Poslaneckou sněmovnou (jednomyslně, včetně opozice) schválit půjčku 40 mld. Kč výslovně určenou na odstranění povodňových škod na Jesenicku, ale ve skutečnosti na tento účel použil jen asi 4 mld. Kč (10 %) — zbylých 36 mld. Kč měl použít na zalátání jiných rozpočtových děr. Označuje to za „úvěrový podvod" a „hyenismus", protože poslanci hlasovali pro půjčku výhradně kvůli deklarovanému účelu; připomíná vlastní osobní angažovanost při povodních (sbírka, dovezený vysoušeč) a kritizuje Petra Fialu, že se v regionu pouze nechal vyfotit se Stanjurou a víc se tam neukázal. Jan Jakob tvrzení v debatě odmítl jako „fabulaci".
+
+⚡ **Poznámka:** Přesné čerpání a účelovost prostředků z povodňové půjčky nelze z přepisu nezávisle ověřit — jde o Rajchlovo tvrzení v přímé konfrontaci s Janem Jakobem, který je popřel.
+
+**Zdroje:** [Rajchl — Videoportál 17. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-17-9-2026)

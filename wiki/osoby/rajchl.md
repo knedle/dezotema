@@ -43,6 +43,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **30. 8.** — znalec Jiří Berger jako opomenutá klíčová osoba bitcoinové kauzy (propojoval Jiříkovského/Tyce se směnárníkem Stránským, spolužák a poradce Zbyňka Stanjury) a rozšíření role Evy Decroix v kauze Uhlíř — [Facebook Live 30. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-30-8-2026) → [kauzy.md](../kauzy.md#bitcoinová-kauza-rekonstrukce-předání-elektroniky-přesný-časový-sled-zítko-5-8-2026)
 - **4. 9.** — druhé zasedání komise Dozimetr: státní zastupitelství odmítlo poskytnout spisový materiál i adresy obviněných (na rozdíl od komise Bečva); slibuje novelu trestního řádu; spor s Janem Papjanovským (STAN) o porušení dohody o komunikaci — [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026) → [kauzy.md](../kauzy.md#druhé-zasedání-komise-státní-zastupitelství-odmítlo-spis-spor-s-papjanovským-rajchl-4-9-2026)
 - **6. 9.** — Dozimetr eskaluje: druhé odmítnutí spisu, žaloba k soudům + novela trestního řádu, ostřejší spor s Papajanovským, kritika Štídla (Seznam Zprávy) za dvojí metr, hrozba otevřít bitcoinovou kauzu; příští jednání 17. 9. — [Facebook Live 6. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026) → [kauzy.md](../kauzy.md#druhé-zasedání-komise-státní-zastupitelství-odmítlo-spis-spor-s-papjanovským-rajchl-4-9-2026)
+- **17. 9.** — Stanjura obviněn ze zneužití povodňové půjčky (40 mld. Kč schváleno na Jesenicko, jen 4 mld. skutečně použito) — „úvěrový podvod"; Jakob to odmítl jako fabulaci — [Videoportál 17. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-17-9-2026) → [kauzy.md](../kauzy.md#ministr-stanjura-si-nechal-schválit-40-mld-kč-na-povodně-na-jesenicku-utratil-jen-4-mld-rajchl-17-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
@@ -391,6 +392,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Terezie Tománková | ❌ negativní | Moderátorka CNN Prima News — nedokázala včas zasáhnout proti narušování debaty Zdeňkem Řipem | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
 | Larry Silverstein | ❌ negativní | Pronajímatel WTC — sjednal si pojistku proti terorismu pár týdnů před 11. zářím a v den útoku poprvé nesnídal v budově | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
 | Ulrich Sigmund | ○ neutrální | Šéf AfD pro Sasko-Anhaltsko — otevřeně podpořil zbrojení „kvůli migrantům", ne kvůli Rusku; Rajchl to oceňuje jako upřímnost | 2026-09-13 | [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) |
+| Zbyněk Stanjura | ❌ negativní | Nový řádek: obviněn ze „zneužití" povodňové půjčky 40 mld. Kč na Jesenicku (jen 4 mld. skutečně použito) — „úvěrový podvod" | 2026-09-17 | [Videoportál 17. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-17-9-2026) |
+| Jan Jakob | ❌ negativní | Nový řádek: odmítl tvrzení o zneužití povodňové půjčky jako „fabulaci" | 2026-09-17 | [Videoportál 17. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-17-9-2026) |
 
 ---
 
@@ -508,3 +511,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (12. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-12-9-2026)
 - [Facebook Live (13. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
 - [Videoportál (16. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)
+- [Videoportál (17. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-17-9-2026)
