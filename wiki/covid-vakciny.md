@@ -482,6 +482,26 @@ Peková z těchto nálezů vyvozuje systémové utajování složení vakcín a 
 
 ---
 
+### Jihokorejská studie: +27 % riziko rakoviny po covid vakcíně; „genetický otisk" nalezen v DNA pacientky (Zítko, 17. 9. 2026)
+
+Zítko cituje jihokorejskou studii (přes 8 mil. lidí), která má prokazovat zvýšené celkové riziko rakoviny o 27 % v souvislosti s mRNA a dalšími RNA vakcínami proti covid-19, s rozpadem podle konkrétních typů: rakovina prsu +25 %, tlustého střeva a konečníku +28 %, žaludku +34 %, plic +53 %, prostaty +69 %, štítné žlázy +35 %. Zdůvodňuje to přítomností rakovinotvorné látky SV40 v řadě šarží. Samostatně cituje Nicolase Hulschera (spolupracovníka McCullough Foundation), podle nějž byl v DNA 31leté pacientky s rakovinou nalezen „genetický otisk" vakcíny integrovaný do geneticky husté a nestabilní oblasti genomu s „onkogenním potenciálem" — nejpravděpodobnějším mechanismem má být přenos fragmentů plazmidové DNA z výrobního procesu, přítomných v miliardových množstvích na dávku (odkaz na analýzu 34 šarží Petra Kotlára na Slovensku a analýzu Soni Pekové).
+
+⚡ **Poznámka:** Ani jihokorejská studie, ani nález „genetického otisku" v DNA konkrétní pacientky nejsou v přepisu doloženy ověřitelnou citací (název časopisu, autoři); jde o tvrzení převzatá ze sdílených článků bez možnosti nezávislého ověření.
+
+**Zdroje:** [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+
+---
+
+### Naomi Wolf (Pfizer Papers): vakcína navržená k cílení na reprodukci — kalcifikace placenty, pokles porodní váhy, pohyblivost spermií (Zítko, 17. 9. 2026)
+
+Zítko cituje autorku Naomi Wolf (kniha *Pfizer Papers*), podle níž interní dokumentace Pfizeru odhaluje, že vakcína cílila především na lidskou reprodukci, ne na dýchací systém. Lipidové nanočástice mají procházet všemi membránami včetně placenty, což způsobuje její kalcifikaci a brání přenosu živin a kyslíku k plodu — s tím spojuje pokles porodní váhy novorozenců a 40% nárůst mateřské úmrtnosti na Západě u očkovaných žen. Cituje také „andrologickou zprávu" o zastavení pohyblivosti spermií u mužů a tvrzení, že Pfizer varoval mužské účastníky klinické studie, aby při styku s neočkovanými ženami používali dvě formy antikoncepce — ze 270 zaznamenaných těhotenství v rámci studie bylo 234 záznamů „ztraceno" a ve zbývajících 36 skončilo přes 80 % ztrátou plodu. Navazuje tím na svou opakovanou tezi o poklesu porodnosti v ČR o 30 % (35 tisíc dětí ročně) za poslední čtyři roky.
+
+⚡ **Poznámka:** Konkrétní čísla ze studie Pfizeru (270 těhotenství, 234 „ztracených" záznamů, přes 80% ztráta plodu) nelze ověřit z veřejně dostupných zdrojů — jde o tvrzení převzaté z knihy Naomi Wolf bez uvedení primárního dokumentu.
+
+**Zdroje:** [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+
+---
+
 ### Jedna šarže Pfizer: stovky nežádoucích účinků, 2 úmrtí — data ÚZISu (Rajchl, 31. 5. 2026)
 
 Rajchl ve vysílání z 31. 5. 2026 odkazuje na data ÚZISu, která zveřejnila investigativní novinářka Markéta Dobijášová: jedna jediná šarže vakcíny Pfizer způsobila stovky hlášených nežádoucích účinků, přičemž přibližně polovina z nich byla závažných (stavy bezprostředně ohrožující život, bezvědomí). Ve dvou případech šlo o úmrtí. Rajchl to označuje za přímý důkaz, že vakcíny „nebyly bezpečné," a situaci popisuje jako „absolutní hazard se zdravím mladých lidí a těhotných žen." Zároveň odkazuje na německé výzkumy dokazující, že šarže se lišily svou nebezpečností, a hodnotí celou akci jako „masivní experiment na lidech."

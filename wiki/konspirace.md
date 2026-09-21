@@ -65,6 +65,16 @@ Boldy tvrdí, že vzduch v Evropě je záměrně kontaminován chemtrails (geoen
 
 ---
 
+### RFK Jr. „potvrzuje" chemtrails; Disney měl za 60 mil. $ domalovávat kondenzační stopy do starých filmů (Zítko, 17. 9. 2026)
+
+Zítko sdílí klip amerického ministra zdravotnictví Roberta F. Kennedyho ml., který slibuje zjistit a vyvodit odpovědnost vůči těm, kdo stojí za dlouhodobým rozstřikováním chemických látek (bróm, hliník, stroncium, baryum) z letadel — látky mají být dle citovaných rozborů vody přítomny v koncentracích až stonásobně převyšujících hygienické normy. Jako důkaz dlouhodobého utajování přidává tvrzení, že společnost Disney vypsala 60 mil. USD tendr na dodatečné domalování kondenzačních stop do starších filmů ze 70. a 80. let, aby vytvořila dojem, že jev existoval už tehdy. Zmiňuje, že letadla prý často startovala z Lipska nebo Drážďan a na letovém radaru (Flightradar) se je nedařilo zachytit.
+
+⚡ **Poznámka:** Tvrzení o tendru Disney na dodatečné vkreslování kondenzačních stop do starších filmů nelze ověřit z veřejně dostupných zdrojů.
+
+**Zdroje:** [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+
+---
+
 ### Geoinženýrství: patenty od 1896, Bill Gates přes neziskovky, vesmírná zrcadla (Boldy, 17. 7. 2026)
 
 Boldy rozvádí tezi o geoinženýrství: přirozené klimatické cykly (dle něj se klima mění každých 12 000, resp. 24 000 let) nepopírá, ale tvrdí, že existuje přes 120 patentů na modifikaci počasí — první z roku 1896 na rozhánění mlhy, bombardování mraků od r. 1880. Financování dnes prý zajišťuje Bill Gates a jeho neziskové organizace ve spojení s bankami; neziskovky označuje za „černou díru", která má znemožnit dohledatelnost. Nejnovějším plánem má být rozmístění cca tisíce obřích zrcadel přibližně 1650 km nad zemským povrchem simulujících měsíční svit — což by dle Boldyho zlikvidovalo noční živočichy a rostliny („všechno umělé"). Lidi, kteří geoinženýrství a chemtrails zpochybňují (jmenuje slovenský kanál „Vědátor SK"), označuje za „NPC" bez schopnosti si informace ověřit. Navazuje na [Chemtrails a záměrná kontaminace ovzduší](#chemtrails-a-záměrná-kontaminace-ovzduší).

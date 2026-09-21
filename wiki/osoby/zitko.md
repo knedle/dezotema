@@ -46,6 +46,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **14. 9.** — ČR zaplatila 19 mld. Kč za covid vakcíny, méně než polovina využita; nový detail k „Pfizergate" (manžel von der Leyenové přešel do Orgenesis); extrapolace amerického poměru nákladů (vakcíny vs. léčba poškozených) na ČR: dalších 160–170 mld. Kč na léčbu poškozených vakcínou — [Videoportál 14. 9.](../_zdroje.md#československo-tv2--videoportál-14-9-2026)
 - **15. 9.** — smrt slovenského poslance Jaroslava Pašky připisovaná vakcinaci; ředitelka SÚKL Irena Storová označena za „spolupachatelku genocidy"; citace Aarona Rodgerse o covidu jako „testu poslušnosti" — [Videoportál 15. 9.](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
 - **17. 9.** — Rockefellerův narativ vzniku farmaceutické medicíny (potlačení homeopatie/koloidního stříbra); herbicid Roundup jako příčina Parkinsonovy choroby — [Videoportál 17. 9.](../_zdroje.md#československo-tv2--videoportál-17-9-2026)
+- **17. 9. (2)** — jihokorejská studie (+27 % rakoviny po vakcíně), „genetický otisk" vakcíny v DNA pacientky, Naomi Wolf o cílení vakcíny na reprodukci (kalcifikace placenty, spermie, ztráty těhotenství) — [Videoportál 17. 9. (2)](../_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -151,6 +152,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **14. 9.** — plnější verze vysílání s hostem Jardou Štefcem: WTC7 jako sklad utajovaných záznamů SEC/FBI, dvojí pojistné plnění Silversteina, propojení s Titanicem/Rothschildovým Fedem, motiv Afghánistánu (oslabit Rusko/Čínu) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md); doplňuje reparace/ČSR o motiv německého tlaku na Klause/Mečiara/Havla a rozprodej zlatého pokladu Tošovským/Niedermayerem — [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [Videoportál 14. 9.](../_zdroje.md#československo-tv2--videoportál-14-9-2026)
 - **15. 9.** — sdílený text „vylhaný svět": Darwinova teorie, dinosauři, atomové zbraně a vesmír jako podvod — [Videoportál 15. 9.](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
 - **16. 9.** — z velké části repríza admiralty law/USA Incorporation; nová rodová linie „Kalúny" (Lincoln/JFK/Trump) a výklad BAR jako „British Association Register" (Blažek proti advokátní komoře) — [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) — [Videoportál 16. 9.](../_zdroje.md#československo-tv2--videoportál-16-9-2026)
+- **17. 9. (2)** — RFK Jr. „potvrzuje" chemtrails (Disney 60 mil. $ na domalování stop do starých filmů) — [konspirace.md](../konspirace.md); nová vlna QFS/kolapsu bankovnictví (JP Morgan/XRP, konec SWIFTu, zákaz CBDC) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#quantum-financial-system-a-medbeds) — [Videoportál 17. 9. (2)](../_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -385,3 +387,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál (15. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
 - [Videoportál (16. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-16-9-2026)
 - [Videoportál (17. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-17-9-2026)
+- [Videoportál (17. 9. 2026, 2. video)](../_zdroje.md#československo-tv2--videoportál-17-9-2026-2)

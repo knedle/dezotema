@@ -53,7 +53,11 @@ Zítko šíří QAnon narativ o záchranné operaci „Save the Children": děti
 
 Zítko věří v brzké zavedení Quantum Financial System (QFS), který ukončí „rothschildovské otroctví" privátních bank; jedna karta bude sloužit jako platební i zdravotní průkaz. MedBeds — léčebná lůžka využívající teraherzové frekvence — nahradí chemickou medicínu. Pořadí léčby: nejprve zachráněné děti z tunelů, pak váleční veteráni.
 
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+**17. 9.** — Zítko sdílí a čte text s „čerstvými" konkrétními daty o kolapsu starého bankovního systému: banka JP Morgan měla 7. 9. 2026 provést svou první transakci na síti XRP Ledger (přes protokol ISO 20022) ve spolupráci s Ondo Finance, aniž by to oznámila tiskovou zprávou; systém SWIFT měl zpracovat svou poslední samostatnou transakci 6. 9.; americký Kongres měl 12. 9. tiše schválit trvalý zákaz CBDC (vládní digitální dolar) do roku 2030 jako součást zákona o bydlení, protože decentralizovaný QFS „již běží" a vláda s ním nemůže konkurovat. K tomu doplňuje „Redemption Centers" (směnná centra) ve 14 amerických městech se stálou vojenskou přítomností a dohodami o mlčenlivosti, a prezidentský výnos č. 1478 z 2. 3. (zákaz CBDC, vytvoření strategické rezervy digitálních aktiv). Kartu QFS popisuje jako identickou s budoucí kartou pro MedBeds.
+
+⚡ **Poznámka:** Popsané transakce, zákony a výnosy (JP Morgan/XRP 7. 9., „smrt" SWIFTu 6. 9., zákon o zákazu CBDC 12. 9., výnos 1478) nelze ověřit z veřejně dostupných zdrojů — jde o standardní narativ QFS/„velkého resetu měny" šířený v konspiračních kruzích bez oficiálního potvrzení.
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
 
 ---
 
