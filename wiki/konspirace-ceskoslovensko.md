@@ -150,7 +150,11 @@ Zítko ve vysílání z 29. dubna 2026 přijal teorii suverénního občana (sov
 
 Tato teorie navazuje na Zítkův dřívější výklad, že Vatikán, City of London a Washington DC jsou skutečná mocenská centra světa, zatímco volby a demokratické vlády jsou pouhá „loutková divadla."
 
-**Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026)
+**15. 9.** — Zítko doplňuje dva nové prvky téže teorie. Zaprvé rodovou linii: Abraham Lincoln, autor plánu na obnovu ústavní republiky USA z roku 1789 (tzv. protokoly COG), měl pocházet ze stejné krevní linie jako JFK i Donald Trump (aktuální „vrchní velitel aliance") — Zítko tuto linii nazývá „Kalúny". Zadruhé výklad zkratky advokátní komory BAR jako „British Association Register" — údajně důkaz, že advokáti composed do „služby pro cizí moc" (britskou korunu) v rámci admirality law; tvrdí, že si toho byl vědom i ministr spravedlnosti Pavel Blažek, který proti advokátní komoře z tohoto důvodu vystupoval.
+
+⚡ **Poznámka:** Rodová linie „Kalúny" spojující Lincolna, JFK a Trumpa i výklad zkratky BAR coby „British Association Register" nelze ověřit z žádného veřejně dostupného zdroje — skutečný název profesní organizace advokátů v USA je „bar association" (obecný právní termín, ne akronym vázaný na Británii).
+
+**Zdroje:** [Zítko — Večerník 29. dubna: referendum, vlastizrada, admiralty law, 2. 5. 2026](_zdroje.md#pavel-zítko--večerník-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2026), [Československo TV2 — Videoportál 16. 9. 2026](_zdroje.md#československo-tv2--videoportál-16-9-2026)
 
 **28. 8.** — Zítko rozšiřuje teorii suverénního občana o tvrzení, že nejen soudy a exekutoři, ale i policie, Úřad vlády, jednotlivá ministerstva a Kancelář prezidenta jsou fakticky „soukromé firmy" evidované mezinárodním obchodním identifikačním číslem (UPIK/DUNS) — jediné skutečně platné právo má být mezinárodní obchodní právo (odkazuje na ustanovení „UCC 1-308"). Dodává, že český státní znak byl od roku 2006 „ztracen". K rodnému listu jako obchodovatelnému cennému papíru nově upřesňuje, že jde o majetek Vatikánu obchodovaný na burze NASDAQ (v dřívějších verzích uváděl newyorskou burzu) — otisk chodidla novorozence v porodnici interpretuje jako akt, kterým dochází ke zcizení identity dítěte do tohoto systému.
 

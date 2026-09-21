@@ -149,6 +149,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **13. 9.** — ohlášení nedělního vysílání: opakuje beze změny shrnutí 11. září a vlastní prezidentskou kandidaturu 2022 (volební podvod, Dominion) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md), [politicky-system.md](../politicky-system.md#aspen-institute-dosazuje-loutky-podvod-v-prezidentských-volbách-2023-zítko-21-6-2026) — [Videoportál 13. 9.](../_zdroje.md#pavel-zítko--videoportál-13-9-2026)
 - **14. 9.** — plnější verze vysílání s hostem Jardou Štefcem: WTC7 jako sklad utajovaných záznamů SEC/FBI, dvojí pojistné plnění Silversteina, propojení s Titanicem/Rothschildovým Fedem, motiv Afghánistánu (oslabit Rusko/Čínu) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md); doplňuje reparace/ČSR o motiv německého tlaku na Klause/Mečiara/Havla a rozprodej zlatého pokladu Tošovským/Niedermayerem — [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [Videoportál 14. 9.](../_zdroje.md#československo-tv2--videoportál-14-9-2026)
 - **15. 9.** — sdílený text „vylhaný svět": Darwinova teorie, dinosauři, atomové zbraně a vesmír jako podvod — [Videoportál 15. 9.](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
+- **16. 9.** — z velké části repríza admiralty law/USA Incorporation; nová rodová linie „Kalúny" (Lincoln/JFK/Trump) a výklad BAR jako „British Association Register" (Blažek proti advokátní komoře) — [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) — [Videoportál 16. 9.](../_zdroje.md#československo-tv2--videoportál-16-9-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -381,3 +382,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál (13. 9. 2026)](../_zdroje.md#pavel-zítko--videoportál-13-9-2026)
 - [Videoportál (14. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-14-9-2026)
 - [Videoportál (15. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
+- [Videoportál (16. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-16-9-2026)

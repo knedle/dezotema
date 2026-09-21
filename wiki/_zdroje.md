@@ -4804,6 +4804,13 @@
 - **Datum záznamu:** 2026-09-15
 - **Zpracováno:** ano
 
+## Československo TV2 — Videoportál (16. 9. 2026) {#československo-tv2--videoportál-16-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-16_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1624733365932539&_rdr>
+- **Datum záznamu:** 2026-09-16
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — Facebook Live (19. 9. 2026) {#jiří-černohorský--facebook-live-19-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-19_Jiří-Černohorský_Facebook-Live.txt)
 - **Kanál:** Jiří Černohorský
