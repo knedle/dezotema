@@ -552,6 +552,18 @@ Ministryně financí Alena Schillerová při představení návrhu rozpočtu na 
 
 ---
 
+### Plyn 3× dražší od ledna, elektřina +60 % — příčinou je Blízký východ, ne Ukrajina; blíží se finanční krize (Vrabel, 15. 9. 2026)
+
+Vrabel k rostoucím cenám plynu a elektřiny na světových trzích (plyn zhruba 3× dražší než v lednu, nejvýš od konce roku 2022; elektřina +60 % od ledna) odmítá Babišovo vysvětlení, že za zdražování benzínu a nafty mohou vysoké marže pumpařů — namítá, že kdyby to byla pravda, existovala by konkurence, která by cenu srazila (srovnává s Babišovým opakovaným svalováním viny na podnikatele, např. dřívější tvrzení, že za nedostatek nemocnic a školek mohou „hospodští, co kradou"). Skutečnou příčinou zdražení pohonných hmot a plynu je podle něj válka — nikoli však především ta na Ukrajině, ale konflikt na Blízkém východě: přes Hormuzský průliv prochází podle jeho odhadu kolem 30 % světového plynu, k tomu se přidávají zničené plynovody. Hlavní příčinu vysoké ceny plynu pro ČR ale vidí v tom, že se od roku 2022 neodebírá levný ruský plyn přímo, ale nepřímo přes zprostředkovatele (Američany a další), kteří si účtují násobně víc — řešením by podle něj bylo (jak navrhuje od roku 2022) odstřihnout se od EU a uzavřít bilaterální smlouvu s Ruskem na levný plyn, po vzoru Srbska, které nakupuje ruský plyn levněji než na burze díky dobrým politickým vztahům.
+
+Vrabel dále varuje, že současné zdražování je teprve „začátek krize" — odhaduje, že po energetické krizi bude následovat mnohem větší, absolutní finanční krize: popisuje, jak USA během covidu navýšily množství dolarů v oběhu o 40 %, což se dle něj promítá až nyní — úrok na amerických státních dluhopisech přesáhl 5 %, USA začínají skupovat vlastní dluhopisy a musely vyplatit Saúdskou Arábii a Japonsko poté, co přestaly kupovat americké dluhopisy. To čte jako důkaz, že se systém neskrytého tištění peněz (nekrytých zlatem od roku 1972) blíží ke kolapsu.
+
+⚡ **Poznámka:** Konkrétní čísla o podílu Hormuzského průlivu na světové produkci plynu a o nárůstu dolarové zásoby během covidu jsou Vrabelovy odhady, nelze je z přepisu nezávisle ověřit.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
+
+---
+
 ### Saúdská Arábie omezila dodávky ropy, nejnižší zásoby plynu za poslední roky, snížený rating Polska a Francie (Rajchl, 20. 9. 2026)
 
 Rajchl varuje před prohlubující se evropskou energetickou krizí: Saúdská Arábie má omezit dodávky ropy řadě rafinérií, ČR má nejméně naplněné zásobníky plynu za poslední roky (plyn je „prostě drahý, když už vůbec je"), Polsko a Francie mají snížený rating od mezinárodních ratingových agentur a na každé deváté francouzské čerpací stanici chybí pohonné hmoty — informace, kterou podle něj mainstreamová média téměř nezmiňují. Plyn se aktuálně obchoduje kolem 80 EUR/MWh. Spojuje to s kritikou pokračující podpory Ukrajiny a konfrontační politiky vůči Rusku místo jednání, které podle něj tuto krizi prohlubuje.

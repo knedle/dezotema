@@ -186,6 +186,8 @@ Polský ministr zahraničí Radosław Sikorski na bezpečnostní konferenci v Ky
 
 ⚡ **Poznámka:** Tvrzení o plánovaném umístění francouzských jaderných zbraní na českém území je Vrabelova vlastní spekulace, ne doložený fakt.
 
-**Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+**15. 9.** — Vrabel opakuje tutéž tezi (Sikorského výrok o vzdušné převaze NATO) s doplněním konkrétních čísel podle odhadu SIPRI: Francie a Británie mají dohromady přibližně 515 jaderných hlavic (Francie ~290, Británie ~225), z toho asi 400 rozmístěných (250 francouzských, 120 britských) — v kontrastu s ruským arzenálem, který odhaduje na 5 000 hlavic, tedy desetkrát více, s rychlejšími a manévrujícími raketami. Uvádí, že téhož dne Finsko oficiálně oznámilo připojení k francouzskému jadernému „deštníku" — a spekuluje, že podobné oznámení pro ČR přijde „ex post" (Andrej Babiš věc oznámí až po podpisu, případně vůbec), s příležitostí k podpisu na plánovaném summitu EU-Kanada koncem října 2026.
+
+**Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026), [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
 
 ---

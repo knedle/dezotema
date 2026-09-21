@@ -1143,3 +1143,11 @@ Vrabel srovnává protichůdné signály z obou stran před americkými volbami 
 ⚡ **Poznámka:** Tvrzení o Putinově „znechucení" z jednání i o většinové ruské náladě je Vrabelova vlastní interpretace nepodložená citovaným zdrojem.
 
 **Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
+---
+
+### Zelenskyj podmiňuje energetické příměří ruským ústupkem jako první — Vrabel: žádné příměří nebude (Vrabel, 15. 9. 2026)
+
+Den po Trumpově oznámení 30denního zákazu útoků na ropnou infrastrukturu (viz [predikce](predikce.md#ladislav-vrabel--zelenskyj-nevydrží-30denní-moratorium-na-útoky-na-energetickou-infrastrukturu-14-9-2026)) se Zelenskyj vyjádřil: Ukrajina nebude útočit na ruskou energetickou infrastrukturu, pokud Rusko přestane útočit na ukrajinskou energetickou soustavu, na dovoz jídla a na další „kritické cíle". Vrabel to čte jako podmínku, kterou Rusko nepřijme — Rusko dle mluvčího Kremlu Dmitrije Peskova netvrdí, že má problém s výrobou ropy, ale s exportem kvůli sankcím, takže skutečná ruská protipodmínka by musela zahrnovat i zrušení části z „30 000 sankcí" — což EU dle Vrabela vůbec nezvažuje (naopak mluví o dalších sankcích po ruských dronových incidentech v Polsku). Uzavírá, že žádné energetické příměří tak nečeká, přestože k útokům na obou stranách (včetně útoku na benzínky s civilisty) dál dochází.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)

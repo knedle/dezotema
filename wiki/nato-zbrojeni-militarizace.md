@@ -914,4 +914,10 @@ Dánská armáda má od ledna 2027 začít školit přibližně 2000 civilních 
 
 **Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
 
-**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+---
+
+### USA poprvé veřejně přiznaly zbraně na oběžné dráze pro kontrolu vesmíru (Vrabel, 15. 9. 2026)
+
+Americký ministr letectva poprvé veřejně potvrdil, že USA mají na oběžné dráze umístěné zbraně určené ke „kontrole vesmíru" — nespecifikoval typ ani dobu jejich rozmístění, jen že jsou schopné bránit americké síly před nepřátelskými akcemi. Mluvčí amerických vesmírných sil následně v televizi ABC News potvrdil, že tyto systémy mohou být využity k obranným i ofenzivním účelům. Média to vnímají především jako varování Číně a Rusku; mluvčí ruského ministerstva zahraničí Maria Zacharovová uvedla, že americké přiznání ignoruje důsledky vesmírného konfliktu (rizika pro GPS, vojenskou komunikaci a civilní služby). Vrabel referuje beze vlastního rozsáhlého komentáře, v kontextu rostoucí militarizace vesmíru.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)

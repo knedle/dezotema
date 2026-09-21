@@ -1179,6 +1179,21 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Predikce](../predikce.md) (pokrač. 2)
 - **14. 9.** — Zelenskyj nevydrží 30denní moratorium na útoky na energetickou infrastrukturu (50:50); konflikt s Íránem se nevyřeší jako Venezuela (99:1 proti Trumpovu slibu) — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
 
+### [Ceny energií](../ceny-energie.md) (pokrač. 16)
+- **15. 9.** — plyn 3× dražší od ledna, elektřina +60 % — příčinou je Blízký východ (Hormuz), ne Ukrajina; varuje před blížící se absolutní finanční krizí (dolar, dluhopisy) — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026) → [ceny-energie.md](../ceny-energie.md#plyn-3-dražší-od-ledna-elektřina-60---příčinou-je-blízký-východ-ne-ukrajina-blíží-se-finanční-krize-vrabel-15-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 21)
+- **15. 9.** — Zelenskyj podmiňuje energetické příměří ruským ústupkem jako první; Vrabel nečeká žádné příměří — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#zelenskyj-podmiňuje-energetické-příměří-ruským-ústupkem-jako-první--vrabel-žádné-příměří-nebude-vrabel-15-9-2026)
+
+### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 5)
+- **15. 9.** — doplňuje čísla SIPRI k Sikorského výroku (Francie/Británie 515 hlavic vs. Rusko 5000); Finsko oznámilo připojení k francouzskému jadernému deštníku — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 16)
+- **15. 9.** — SSSR podcenil dopad levného plynu pro Německo po 2. sv. válce a „chazarskou chátru"; Německo takto zbohatlé se znovu zbrojí proti Rusku — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
+
+### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 17)
+- **15. 9.** — USA poprvé veřejně přiznaly zbraně na oběžné dráze pro kontrolu vesmíru — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#usa-poprvé-veřejně-přiznaly-zbraně-na-oběžné-dráze-pro-kontrolu-vesmíru-vrabel-15-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1768,3 +1783,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (12. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
 - [Nedělní vysílání (13. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 - [Facebook Live (14. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+- [Facebook Live (15. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
