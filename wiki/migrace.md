@@ -729,3 +729,13 @@ Německý ministr zahraničí Johann Wadephul se podle Vrabela vyjádřil ve zpr
 Obyvatelé malé anglické obce Pennington v Oxfordshiru (jen několik set obyvatel) mají 15. 9. hlasovat v symbolickém, právně nezávazném referendu o tom, zda má obec usilovat o vlastní samosprávu mimo Spojené království — reakce na plán ministerstva vnitra ubytovat v nedalekém bývalém vojenském areálu až 1250 žadatelů o azyl. Vrabel referendum hodnotí jako neúčinné gesto (i kdyby prošlo, migranti by skončili v sousední vesnici) a zdůrazňuje, že podobná opatření se v Británii dějí „všude" už dlouho — kritizuje Brity za to, že si nechali islamizaci země dojít tak daleko (odkazuje na svou zkušenost z pobytu v Londýně a předchozí zprávu o soše „Lady in Blue" na Trafalgar Square), a srovnává to s Paříží, kde už podle vlastního pozorování téměř nevidí bílé obyvatele. Připomíná svou dlouholetou (od 2012–2013) marnou snahu varovat před masovou migrací a vyzývá k urychlenému uzavření hranic ČR, než bude „pozdě".
 
 **Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### „Dvojí metr" Evropy: zbrojení proti Rusku vs. kritika zbrojení proti migrantům — 80 útoků bodnou/sečnou zbraní denně v Německu (Rajchl, 16. 9. 2026)
+
+Rajchl rozvádí svou dřívější zmínku o Ulrichu Sigmundovi (šéf AfD pro Sasko-Anhaltsko, viz [politicky-system.md](politicky-system.md)), který na otázku o dalším zbrojení odpověděl, že ho nezavrhuje, protože ho bude třeba pro budoucí „remigrační a deportační ofenzivu" — což vyvolalo pobouření německých liberálních médií. Rajchl na tom staví argument o „dvojím metru": zbrojení proti Rusku (vzdálenému „tisíc kilometrů na východ") je společensky přijatelné a chválené, zatímco úvaha o prostředcích proti pachatelům násilí uvnitř Německa je odsuzována jako xenofobie — přestože v Německu má podle něj docházet k 80 útokům bodnou nebo sečnou zbraní denně (tedy zhruba každých 18 minut) na nevinné civilisty. Uzavírá výzvou volit AfD v Německu, Marine Le Pen ve Francii a v ČR koalici SPD+PRO+Trikolóra+Svobodní jako řešení evropské „sebedestrukce".
+
+⚡ **Poznámka:** Údaj „80 útoků bodnou/sečnou zbraní denně v Německu" nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké ho Rajchl prezentuje.
+
+**Zdroje:** [Rajchl — Videoportál 16. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)

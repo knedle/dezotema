@@ -127,6 +127,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **4. 9.** — k novému nařízení EU (konec dočasné ochrany pro ukrajinské muže v odvodovém věku bez prokázané vojenské povinnosti) opakuje rozlišení uprchlík/migrant a návrh deportací; nově uvádí Dánsko (14 „bezpečných zón") jako vzor — [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-4-9-2026-migrace) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
 - **6. 9.** — ukrajinská call centra okrádají evropské důchodce o miliardu dolarů měsíčně; navrhuje veto návrhů ve prospěch Ukrajiny, dokud to nezastaví — [Facebook Live 6. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026) → [migrace.md](../migrace.md#ncoz-studie-organizovaný-zločin-v-čr-ovládli-ukrajinci--rajchl-5-5-2026)
 - **9. 9.** — v televizní debatě opakuje beze změny zneužívání dávek a dočasné ochrany ukrajinskými migranty a Dánsko jako vzor (14 „bezpečných zón") — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
+- **16. 9.** — „dvojí metr" Evropy: zbrojení proti Rusku vs. kritika zbrojení proti migrantům (Sigmund/AfD); 80 útoků bodnou/sečnou zbraní denně v Německu; výzva volit AfD/Le Pen/SPD+PRO+Trikolóra+Svobodní — [Videoportál 16. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -506,3 +507,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (11. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-11-9-2026)
 - [Videoportál (12. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-12-9-2026)
 - [Facebook Live (13. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
+- [Videoportál (16. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)
