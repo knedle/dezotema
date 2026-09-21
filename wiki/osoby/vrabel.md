@@ -1218,6 +1218,27 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
 
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 28)
+- **19. 9.** — USA-Dánsko dohoda o Grónsku — fakticky ztráta suverenity navzdory rétorice o sebeurčení — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+### [DSA a cenzura](../dsa-cenzura.md) (pokrač. 6)
+- **19. 9.** — Trump zakázal CNN/MSNBC/Politico; vlastní zkušenost s cenzurou (Kakáč, Facebook dosah) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+### [Ceny energií](../ceny-energie.md) (pokrač. 18)
+- **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+### [Migrace](../migrace.md) (pokrač. 22)
+- **19. 9.** — ukrajinizace ČR (2 mil.), predikce ukrajinské politické strany ve volbách — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
+- **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+### [Konspirační teorie](../konspirace.md) (pokrač. 17)
+- **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+### [Predikce](../predikce.md) (pokrač. 3)
+- **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1812,3 +1833,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (15. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
 - [Facebook Live (16. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
 - [Facebook Live (18. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+- [Facebook Live (19. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)

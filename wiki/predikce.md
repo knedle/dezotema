@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana (19. 9. 2026)
+
+**Předpověď:** Na základě odhadu ~2 milionů Ukrajinců žijících v ČR (a rostoucí „ukrajinizace" společnosti i armády) Vrabel předpovídá, že v příštích parlamentních volbách bude kandidovat ukrajinská politická strana a bude „dost úspěšná", protože bude mít hodně voličů.
+
+> „Myslím, že v odhodnosti můžeme očekávat v příštích parlamentních volbách nějakou ukrajinskou politickou stranu, která bude kandidovat. A bude pravděpodobně dost úspěšná." — Ladislav Vrabel
+
+**Horizont:** příští parlamentní volby (řádně 2029, není-li konkrétní datum uvedeno jinak)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+---
+
 ### Ladislav Vrabel — Zelenskyj nevydrží 30denní moratorium na útoky na energetickou infrastrukturu (14. 9. 2026)
 
 **Předpověď:** K oznámení Donalda Trumpa, že se Rusko a Ukrajina dohodly přestat útočit na energetickou infrastrukturu druhé strany, Vrabel vyjadřuje skepsi — připomíná, že podobné 30denní příměří v minulosti Rusko dodrželo, zatímco Ukrajina během něj zaútočila na ruská ropná zařízení 48×. Odhaduje šanci na dodržení „tak 50 na 50" v závislosti na tom, jak tvrdý nátlak na Zelenského Trump skutečně vyvíjí.

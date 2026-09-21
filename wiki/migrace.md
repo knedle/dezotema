@@ -34,7 +34,9 @@ Rajchl v Bratislavě uvádí Southport (Velká Británie) jako konkrétní varov
 
 Vrabel popisuje svůj osobní obrat (kolem roku 2021): ač se cítil být Evropanem a měl blízké na Západě, dospěl k závěru, že ČR musí vystoupit z EU, zavřít hranice a uchovat si suverenitu a kulturu — i za cenu, že „nechá ostatní západní země padnout" (EU podle něj padne kvůli islámské migraci a „liberálnímu progresivismu"). Vystoupení označuje za „sobecké, ale záchranu". K hrozbě vstupu Ukrajiny do EU dodává: znamenal by nejen volný pohyb (nekvalitního) zboží a služeb, ale i volný pohyb osob — odhaduje ~2 miliony Ukrajinců v ČR; po skončení války a otevření hranic by váleční veteráni „frnk na západ" a uplatňovali by vůči Čechům morální i finanční nároky za to, že „za ně bojovali". Navazuje na [migrační pakt — jediná cesta vystoupit z EU (4. 6.)](#migrační-pakt-nelze-zrušit-zevnitř--čl-10-ústavy-srovnání-s-brexitem-vrabel-4-6-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+**19. 9.** — Vrabel rozšiřuje odhad „ukrajinizace" ČR o konkrétní svědectví: zdravotní sestra z úrazové ambulance mu napsala, že polovina jejích kolegů v nemocnici jsou Ukrajinci a že mnozí ukrajinští pacienti přicházejí na ošetření bez průkazky a pojištění, protože se bojí úředně se přihlásit kvůli riziku odvodu zpět na frontu — žijí tak v ČR „na černo". Z toho znovu odhaduje minimálně 2 miliony Ukrajinců v zemi a předpovídá, že v příštích parlamentních volbách bude kandidovat ukrajinská politická strana s reálnou šancí na úspěch díky velkému počtu voličů; armádu popisuje jako postupně se „zukrajinizovávající" díky rostoucí spolupráci a výcviku s ukrajinskou armádou.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026), [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 
 ---
 

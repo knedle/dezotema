@@ -517,7 +517,9 @@ Ruský moderátor Vladimír Solovjov ve svém pořadu prezentoval pohled Kremlu 
 
 Donald Trump prohlásil, že další přítomnost amerických vojsk v Evropě bude záviset na tom, zda se USA podaří uzavřít „dobrou dohodu" ohledně Grónska a zda evropští spojenci poskytnou skutečnou podporu USA v Íránu — s odůvodněním, že získání Grónska je potřebné „pro bezpečnost světa", nikoli přímo USA. Vrabel na tom ukazuje dvojí metr mezinárodní politiky: Trump si nárokuje cizí území (Grónsko, dříve Venezuela, Kuba) bez ohledu na chartu OSN, územní celistvost či mezinárodní právo — sám prohlásil, že jedinou hranicí je pro něj „jeho svědomí" — a svět na to jen přihlíží. Kritizuje reakci české a evropské diplomacie (konkrétně ministra Macinku) jako podřízenou vůči USA — Evropa podle něj po „diverzifikaci" od ruských energií skončila v závislosti na dražších amerických dodávkách a nyní i na vynuceném dovozu geneticky modifikovaných potravin výměnou za energie, což označuje za pokračování koloniálního vztahu USA k Evropě od roku 1974.
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+**19. 9.** — Vrabel k oznámené dohodě mezi USA a Dánskem o bezpečnosti Grónska (podpis očekáván při Valném shromáždění OSN) — Washington má získat trvalou kontrolu nad bezpečnostními opatřeními na ostrově a právo blokovat vojenskou přítomnost či „citlivé investice" protivníků bez písemného souhlasu USA — poukazuje na rozpor mezi proklamovaným zachováním dánské suverenity a práva Grónska na sebeurčení a fakticky přiznaným vetem USA nad tím, kdo smí do Grónska investovat (přirovnává k čínskému projektu Pásu a stezky, který by podle takové dohody Grónsko nemohlo přijmout bez amerického souhlasu). Uzavírá, že Grónsko dnem podpisu fakticky ztrácí suverenitu a stává se závislým na rozhodnutích Washingtonu — „slova o suverenitě a sebeurčení" označuje za rétoriku, „aby se koza nažrala a vlk zůstal celý".
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 
 ---
 

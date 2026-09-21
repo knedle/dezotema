@@ -333,3 +333,13 @@ Petra Rédová předala v Poslanecké sněmovně Jindřichu Rajchlovi ocenění 
 **13. 9.** — Vrabel se k případu Hrdličky vrací s rozšířeným právním argumentem: trvá na tom, že kolektivní vina je nepřípustná — nošení odznaku „Z" bez konkrétního doprovodného skutku (výzva k násilí, schvalování konkrétního zločinu) nelze trestat, jde jen o vyjádření politického názoru. Jako analogii uvádí, že příslušníci Bundeswehru dodnes nosí insignie navazující na Wehrmacht, aniž by tím nesli trestní odpovědnost za zločiny nacistického Německa — pouhá symbolická kontinuita tedy sama o sobě zavinění nezakládá. Případ zůstává u státního zástupce.
 
 **Zdroje:** [Vrabel — Facebook Live 6. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-6-9-2026), [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+---
+
+### Trump zakázal CNN, MSNBC a Politico v Bílém domě — Vrabel: západní cenzura je horší než za minulého režimu (19. 9. 2026)
+
+Donald Trump zakázal novinářům CNN, MSNBC a Politico přístup do Bílého domu a deaktivoval jim novinářské průkazy; zpravodajské organizace ohlásily právní kroky s odkazem na první dodatek americké ústavy, ústavní experti opatření zpochybňují. Vrabel opatření označuje za protizákonné, ale srovnává ho s vlastní zkušeností: v předvolební televizní debatě (ČT) mu moderátor „Kakáč" v jeho osmiminutovém čase věnoval čtyři minuty vlastnímu mluvení a nenechal ho představit politický program. Rozšiřuje o obecnější tezi: RT a Sputnik jsou v ČR zakázané, jeho příspěvky na Facebooku mají dosah desetkrát až stokrát nižší, než by odpovídalo počtu sdílení (200–300 sdílení vidí jen pár tisíc lidí, zatímco jinde 50 sdílení vidí 50 000) — s odkazem na výroky Marka Zuckerberga, že vlády EU si vymohly „zadní vrátka" do Facebooku umožňující regulovat viditelnost obsahu. Uzavírá, že dnešní cenzura je „mnohem tvrdší" než za minulého režimu, protože se navenek tváří jako svoboda — neexistuje formální seznam zakázaných témat, místo toho se nežádoucí obsah trestá kriminalizací („šíření poplašné zprávy", „zpochybňování genocidy", „schvalování válečných zločinů") nebo se prostě algoritmicky znevidiitelní.
+
+⚡ **Poznámka:** Konkrétní čísla o poměru sdílení a dosahu jsou Vrabelovo vlastní neověřené pozorování.
+
+**Zdroje:** [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)

@@ -887,3 +887,11 @@ Vrabel zmiňuje dvě krátká, nerozvedená pozorování jako doklad neúplné/s
 ⚡ **Poznámka:** Ani jedno tvrzení Vrabel dále nerozvádí ani nedokládá zdrojem.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+---
+
+### „1 % globalistů" ovládá 99 % lidí, protože ti raději mlčí — buddhistické vysvětlení lidské pasivity reinkarnací ze zvířat (Vrabel, 19. 9. 2026)
+
+V reakci na divácký dotaz, jak je možné, že rozhodnutí malé menšiny globalistů (odhaduje na 1 % populace) se prosazují proti vůli většiny (99 %), Vrabel odmítá, že by šlo o demokracii nebo právo většiny — jde podle něj jen o to, že se 99 % lidí samo vzdává síly tím, že si říká „to nemůžeme změnit" a raději mlčí a „otročí". Vysvětlení doplňuje buddhistickým příměrem, který mu měl vysvětlit „hlavní lama": po průmyslové revoluci lidé začali chovat zvířata ve velkochovech, kde jediné, co zvíře celý život vidí, je louka a člověk — kvůli této silné karmické vazbě se taková zvířata po smrti údajně převtělují zpět jako lidé, ale protože v minulém životě znala jen jíst, spát a plodit potomky, žijí i v lidské podobě primitivním životem bez zájmu o duchovní či společenské otázky — což vysvětluje, proč se většina lidí nechá „jedním procentem" ovládat a využívat.
+
+**Zdroje:** [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)

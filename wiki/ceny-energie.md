@@ -574,6 +574,14 @@ V téže souvislosti referuje zprávu (Reuters), že se zástupci vedení němec
 
 ---
 
+### Trump podepsal zákon o 100% clech na kupce ruské ropy — Vrabel: zneužití dolaru jako rezervní měny (19. 9. 2026)
+
+Donald Trump podepsal zákon zpřísňující sankce proti Rusku (cílí na ruské představitele, energetiku, obranný sektor a „stínovou flotilu" tankerů) a dávající prezidentovi pravomoc uvalit až 100% cla na země ve velkém nakupující ruskou ropu a plyn (ohrožuje zejména Indii). Vrabel argumentuje, že běžná země by měla právo uvalit sankce podle vlastního uvážení, ale USA nejsou „obyčejná země" — po dohodě z Bretton Woods (poválečné ustavení dolaru jako světové rezervní měny a vytvoření platebního systému SWIFT) mají fakticky kontrolu nad celosvětovým finančním systémem, takže americké sankce působí jako sankce celého světa; o takovém kroku by podle něj mělo právo rozhodovat jen Rady bezpečnosti OSN, ne samotné USA. Přirovnává to k partě horolezců, kteří svěří peníze jednomu z nich do úschovy, a ten pak podmiňuje jejich vrácení vlastními rozmary. Dokládá zneužívání dominance dolaru i příkladem obchodní asymetrie: EU platí cla při vývozu zboží (např. aut) do USA, zatímco americké zboží se dováží do EU bez cla — označuje to za důkaz vazalského postavení EU vůči USA. Vyjadřuje zklamání z Trumpa: čekal od něj obchodní, ne válečnou logiku (přirovnává k výhodnosti levného ruského plynu, na němž bylo vybudováno poválečné Německo).
+
+**Zdroje:** [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+---
+
 ### Saúdská Arábie omezila dodávky ropy, nejnižší zásoby plynu za poslední roky, snížený rating Polska a Francie (Rajchl, 20. 9. 2026)
 
 Rajchl varuje před prohlubující se evropskou energetickou krizí: Saúdská Arábie má omezit dodávky ropy řadě rafinérií, ČR má nejméně naplněné zásobníky plynu za poslední roky (plyn je „prostě drahý, když už vůbec je"), Polsko a Francie mají snížený rating od mezinárodních ratingových agentur a na každé deváté francouzské čerpací stanici chybí pohonné hmoty — informace, kterou podle něj mainstreamová média téměř nezmiňují. Plyn se aktuálně obchoduje kolem 80 EUR/MWh. Spojuje to s kritikou pokračující podpory Ukrajiny a konfrontační politiky vůči Rusku místo jednání, které podle něj tuto krizi prohlubuje.
