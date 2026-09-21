@@ -455,6 +455,14 @@ K obžalobě Ukrajince německou prokuraturou za útok na Nord Stream (2022) Raj
 
 ---
 
+### Katalog korupčních kauz ukrajinského vedení jako odpověď na „obránce Ukrajiny" — Nord Stream jako ukrajinsko-americký čin (Černohorský, 19. 9. 2026)
+
+V reakci na diváka, který ho obvinil z postoje proti „obráncům Ukrajiny", Černohorský vyjmenovává sérii korupčních kauz ukrajinských představitelů jako důkaz, že jde o zkorumpovaný režim, ne o hrdiny: Andrij Jermak (bývalý šéf kanceláře Zelenského, vyšetřován kvůli praní peněz přes výstavbu u Kyjeva, ~400 mld. hřiven), Oleksij Černyšov (bývalý vicepremiér, stejná kauza), Timur Mindič (obchodní partner Zelenského, uprchl do Izraele před razií NABU v listopadu 2025 v souvislosti s kauzou „MIDAS" kolem Energoatomu), Herman Haluščenko (bývalý ministr energetiky a spravedlnosti, zadržen při pokusu opustit Ukrajinu, obviněn z praní peněz v téže kauze), Iryna Mudra (náměstkyně šéfa prezidentské kanceláře, spojována s legalizací dalších 150 mld. hřiven) a Ruslan Kravčenko (generální prokurátor, který v noci z 13. na 14. 9. 2026 údajně uprchl ze země se služebním vozem uprostřed vyšetřování podvodných call center). Opakuje tezi, že sabotáž Nord Streamu provedli Ukrajinci s podporou USA, ne Rusko (→ srov. [Sabotáž Nord Streamu jako legitimní vojenský cíl](#sabotáž-nord-streamu-jako-legitimní-vojenský-cíl--kritika-petra-pavla-a-médií-rajchl-6-7-2026)), a formuluje rámec „Rusko není náš nepřítel, Rusko je nepřítel nacismu" — obviňuje ukrajinské vedení z rozpoutání konfliktu (podpora Majdanu, nedodržení Minských dohod, ostřelování Donbasu) a vyjadřuje přání jejich násilné smrti (→ [stochastický teror](stochasticky-teror.md)).
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+
+---
+
 ### ⚡ Konflikt (obrácená role): Tusk by měl být uvězněn za schvalování sabotáže Nord Streamu (Vrabel, 21. 8. 2026)
 
 Polský premiér Donald Tusk zopakoval svůj dlouhodobě kritický postoj k Nord Streamu — podle něj by se měli stydět ti, kdo umožnili jeho výstavbu, ne ti, kdo plynovod vyřadili z provozu (sabotáží 2022); zároveň odmítl měnit názor v souvislosti s vyšetřováním sabotáže. Vrabel — s odkazem na vlastní právnické vzdělání a závěrečnou práci na trestní činy — tvrdí, že Tuskův výrok naplňuje skutkovou podstatu trestného činu: schvaluje teroristický útok na strategickou energetickou infrastrukturu státu, a jako vysoký státní představitel by za takový veřejný výrok měl skončit ve vězení. (Role je zde obrácená oproti Rajchlově kritice Pavla výše — tam byl terčem kritiky ten, kdo NEschvaloval útok jako legitimní vojenský cíl; zde Vrabel kritizuje Tuska za to, že sabotáž fakticky schvaluje.)

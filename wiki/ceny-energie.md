@@ -56,6 +56,14 @@ Tarabová vyjadřuje politování nad neschopností Čechů sjednotit se v odpor
 
 ---
 
+### Obhajoba Babiše ohledně vysokých cen pohonných hmot — viní Izrael, USA a Velkou Británii (Černohorský, 19. 9. 2026)
+
+Černohorský odmítá kritiku, že za rostoucí ceny pohonných hmot (přes 50 Kč/l) může vláda Andreje Babiše. Argumentuje, že ČR nevlastní žádné velké rafinerie (kromě menšího podílu Robin Oil), takže cenu neurčuje česká vláda, ale dění na Blízkém východě a globální trh s ropou. Odpovědnost připisuje Izraeli, USA a Velké Británii, které podle něj záměrně rozvracejí Evropu prostřednictvím podpory Ukrajiny a konfliktu s Íránem, aby z toho profitovaly na úkor evropské ekonomiky (odkaz na dřívější tezi, že si Trump a Biden „mnuli ruce" nad rozvrácenou Evropou). I kdyby Babiš cenu chtěl snížit, mohl by ji dle Černohorského ovlivnit maximálně o 4,50–5 Kč/l.
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+
+---
+
 ## Rusko a energetická krize EU
 
 ### Obnovení ruských dodávek jako jediné řešení

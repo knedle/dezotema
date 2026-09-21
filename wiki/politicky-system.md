@@ -112,6 +112,14 @@ Vrabel rozlišuje tři systémy vlády: ideál („lidé si vládnou sami"), tyr
 
 ---
 
+### Jiří Drahoš — neschválená cesta na Ukrajinu jako důkaz selhání dvoukomorového systému (Černohorský, 19. 9. 2026)
+
+Černohorský kritizuje místopředsedu Senátu Jiřího Drahoše za cestu na Ukrajinu (dle jeho zjištění bez svolení vlády ani parlamentu, k jednání se Zelenským), kterou nemohl zabránit ani ministr zahraničí Tomio Okamura. Argumentuje, že jde o doklad, jak dvoukomorový systém umožňuje jednotlivci „uzurpovat" zahraničněpolitickou moc bez demokratické kontroly. Připomíná svou dřívější nechuť k Drahošovi z prezidentských voleb 2018 („stahovač králíků") a vyjadřuje úlevu, že nezvítězil nad Milošem Zemanem.
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+
+---
+
 ## Prezident a demokracie
 
 ### Minář odmítl debatu — zbabělost nebo taktika
@@ -355,6 +363,24 @@ V tomto kontextu znovu ostře napadá Ladislava Vrábela a Miroslava Sládka (�
 > „Vrábel se Sládkem jsou dva nejhorší zmrdi této scény." — Jiří Černohorský, [Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 **Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+---
+
+### Zákon 302/2016 o financování politických stran „zabetonoval" etablované strany (Černohorský, 19. 9. 2026)
+
+Černohorský kritizuje novelu zákona o politických stranách č. 302/2016 Sb. (mění zákon 424/1991 Sb.), kterou podle něj podepsal Miloš Zeman a která podle něj natrvalo znevýhodnila malé politické strany. Novela podle jeho výkladu umožňuje straně/hnutí zastoupenému v Poslanecké sněmovně alespoň dvě volební období (8 let) zřídit si vlastní neziskovou organizaci, do které jí navíc plyne dalších 10 % z celkového státního příspěvku za hlasy — tedy při 100 mil. Kč za hlasy dalších 10 mil. Kč navíc „z našich peněz". V kombinaci s 5% uzavírací klauzulí to podle něj natrvalo „zabetonovalo" již usazené strany (jmenuje ODS, STAN, TOP 09, KDU-ČSL, Piráty) a znemožnilo vznik nových politických subjektů bez silného mecenáše (příklad: obtížný vstup Motoristů do Sněmovny). Navrhuje snížit uzavírací klauzuli z 5 % na 1 % a celkově revidovat systém přerozdělování stranických příspěvků, který označuje za zdroj korupce.
+
+⚡ **Poznámka:** Přesné číslo zákona si Černohorský v projevu sám opravuje (nejprve uvádí 306, pak 302/2016) — mechanismus dodatečného příspěvku přidružené neziskové organizaci ve výši 10 % nelze z dostupných zdrojů ověřit v podobě, v jaké ho prezentuje.
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+
+---
+
+### Rozšířená matematika sjednocení vlastenecké scény — výsměch kandidátovi Robertu Rosenbergovi (Černohorský, 19. 9. 2026)
+
+Černohorský navazuje na svou dřívější kritiku hesla „jedině ten" (viz výše, 15. 9. 2026) podrobnějším propočtem: součet hlasů SPD, PRO, Trikolóry a Svobodných z voleb 2025 dává necelých 900 tisíc hlasů — pod hranicí potřebnou k sestavení vlády. I po připočtení Stačilo a menších „vlasteneckých" stran, které nepřekročily 5% práh (Přísaha, Česká republika na prvním místě, Švýcarská demokracie, Moravané aj.), by šlo dohromady o necelý milion voličů a odhadem 14–15 poslanců (cca 7,6 %) — pořád nedostatečně na to, aby taková koalice porazila ANO. Uzavírá, že psát na sociální sítě „příští volby musí vyhrát pro/Trikolóra/Svobodní/KSČM/Stačilo" bez Babiše je matematicky negramotné. Jako ilustraci „úpadku" vlastenecké scény zmiňuje kandidaturu bývalého pornoherce Roberta Rosenberga za Svobodné v Praze.
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 
 ---
 

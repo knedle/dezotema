@@ -397,6 +397,16 @@ Dále aplikuje antisemitskou teorii „Chazarů": rozlišuje mezi „normálním
 
 ---
 
+### „Židé z USA" a Rothschildové jako záměrní strůjci rozvratu Evropy přes válku na Ukrajině (Černohorský, 19. 9. 2026)
+
+V rámci obhajoby Andreje Babiše (viz [ceny-energie.md](ceny-energie.md)) Černohorský tvrdí, že za drahými pohonnými hmotami a rozvratem evropské ekonomiky nestojí česká vláda, ale záměrný plán „Židů z USA" a rodiny Rothschildů ve spojení s Velkou Británií — ti měli přes podporu Ukrajiny a konfliktu s Íránem cíleně připravit Evropu o levné ruské suroviny ve svůj prospěch („komu prospívá, že Evropa je v hajzlu"). Odkazuje na starší tezi, že si Trump a Biden „mnuli ruce" nad rozvrácenou Evropou. Totéž schéma aplikuje na sabotáž Nord Streamu, kterou připisuje Ukrajině „za podpory Američanů".
+
+> „Takže v tom mají zase prsty ty skurvení židé, vole, z USA." — Jiří Černohorský, [Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+
+---
+
 ### Boldy: 13 vědců zavražděno po odkrytí volné energie (24. 5. 2026)
 
 Boldy tvrdí, že v posledních dvou letech záhadně zemřelo 13 vrcholových vědců ze dvou nebo tří stejných korporací, kteří přišli na antigravitaci a volnou energii. Tato oblast je dle Boldyho systematicky potlačována — přesně jako byl potlačen Nikola Tesla — protože by zbavila korporace příjmů z emisních povolenek a fosilních paliv. „Vědecký vývin civilizace je kontrolován korporacemi."

@@ -111,6 +111,13 @@ Ke zprávě, že ruská FSB odhalila operaci zahraničních tajných služeb s n
 
 ---
 
+### Podezření na sledování Facebook Messengeru a shadowban (Černohorský, 19. 9. 2026)
+
+Černohorský tvrdí, že Facebook čte soukromé zprávy uživatelů v Messengeru — jako důkaz uvádí, že mu aplikace omezila možnost odeslat zprávu s „nevhodným" obsahem, což podle něj nelze vysvětlit jinak než automatickým prohledáváním obsahu zpráv. Kvůli tomu odmítá s kýmkoliv telefonovat přes Messenger. Dále popisuje opakované potíže se sdílením příspěvků na Facebooku (zpožděné zobrazení, mizející sdílení) jako projev cíleného shadowbanu — srovnává se staršími snímky obrazovky, kdy jeho videa měla statisíce zhlédnutí, než „mu začali dávat pokoj".
+
+⚡ **Poznámka:** Tvrzení, že Facebook automaticky čte a blokuje obsah soukromých zpráv na základě jejich obsahu, nelze z popsaného incidentu (varování o „nevhodné" fotografii) jednoznačně odlišit od standardní automatické detekce citlivého obsahu (např. nahoty), která funguje bez lidského čtení zpráv.
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 
 ---
 
