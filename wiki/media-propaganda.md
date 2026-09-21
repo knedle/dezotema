@@ -578,3 +578,11 @@ Rajchl kritizuje moderátorku Adélu Snopovou (CNN Prima News) za rozhovor s Vá
 Vrabel upozorňuje, že Facebook mu už druhý den v řadě uprostřed vysílání „Zprávy v devět" ukončil živý přenos (celé vysílání je dostupné jen na YouTube); divákům se navíc nedaří jeho příspěvky sdílet. Interpretuje to jako záměrné potlačování obsahu, který se „nehodí" do jednosměrného mediálního rámování války s Ruskem, a připomíná svou opakovanou tezi o cenzuře vlastního kanálu ze strany Facebooku/vlády.
 
 **Zdroje:** [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
+
+---
+
+### Seznam Zprávy (Lukáš Valášek) srovnány s rétorikou nacistického „Der Stürmer" (Rajchl, 19.–20. 9. 2026)
+
+Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulkem „Na akci s Putinovým ideologem má vystoupit Zeman" (o konferenci spolku Svatopluk, na níž mj. online vystoupil ruský komentátor Fjodor Lukjanov). Článek označuje za „štvavý pamflet", jehož poselství — s kýmkoli nekonvenčním je zakázáno mluvit, kdo tento zákaz poruší, je „kolaborant" k reputační likvidaci — přirovnává k rétorice nacistického plátku Der Stürmer i komunistické propagandy. Argumentuje, že demokracie a diplomacie jsou naopak založené na povinnosti jednat i s oponenty, a že ten, kdo brání protistraně mluvit, tím přiznává, že nemá lepší argumenty. Kritizuje také moderátorku CNN Prima News Lucii Čermákovou, která ho měla přerušit, když chtěl na pořadu 360 rozebrat projev Ursuly von der Leyenové.
+
+**Zdroje:** [Rajchl — Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)

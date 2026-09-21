@@ -9,6 +9,7 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | Kandidát/strana | Vztah | Kdo (mluvčí) | Kontext | Datum | Zdroj |
 |---|---|---|---|---|---|
 | Lukáš Hájek (Starostové pro Liberecký kraj) | ❌ negativní | Lenka Tarabová | Arogantní vystupování; označil PRO a SPD za „extremistické strany" šířící strach a nenávist, aniž by se s Tarabovou kdy setkal — PRO kvůli tomu odstoupilo od společné akce „volební tržiště" | 2026-09-16 | [Videoportál 16. 9.](_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026) |
+| SPD+PRO+Trikolóra+Svobodní (klub SPD) | ✅ pozitivní | Jindřich Rajchl | Preference dle průzkumu vzrostly ze 7,5 % na 10 % — přisuzuje to důslednému promírovému postoji k válce na Ukrajině | 2026-09-20 | [Facebook Live 20. 9.](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) |
 
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 

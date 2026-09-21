@@ -549,3 +549,13 @@ Podle Centra biologie rostlin a biodiverzity Slovenské akademie věd nová legi
 Ministryně financí Alena Schillerová při představení návrhu rozpočtu na rok 2027 uvedla, že plošné zvýšení daně z nemovitosti (doporučované Evropskou komisí a MMF) nepředloží — ČR má s 70 % vlastnického bydlení v Evropě anomálii — ale zvažuje zdanění lidí vlastnících více nemovitostí („investiční byty"). Vrabel to označuje za typickou „salámovou metodu" prosazování globalistických agend: nejdřív se zdaní ti, u nichž to vyvolá nejmenší společenský odpor („bohatí s x nemovitostmi"), zatímco vlastníci jednoho domku zůstanou zpočátku ušetřeni — na příkladu dvou vlastních známých (jeden Čech, jeden cizinec žijící v ČR), kteří dlouhodobě investují úvěry do nemovitostí jako formu podnikání, ukazuje, že nejde jen o „superbohaté", ale i o běžné drobné investory. Předpovídá, že po zdanění majitelů více nemovitostí přijde postupně řada i na ty, kdo mají jen dva byty, a nakonec i na vlastníky jediného bytu/domu — s odkazem na dřívější Schillerové výrok, že podnikatelé „musí mít vatu" (finanční rezervu).
 
 **Zdroje:** [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
+---
+
+### Saúdská Arábie omezila dodávky ropy, nejnižší zásoby plynu za poslední roky, snížený rating Polska a Francie (Rajchl, 20. 9. 2026)
+
+Rajchl varuje před prohlubující se evropskou energetickou krizí: Saúdská Arábie má omezit dodávky ropy řadě rafinérií, ČR má nejméně naplněné zásobníky plynu za poslední roky (plyn je „prostě drahý, když už vůbec je"), Polsko a Francie mají snížený rating od mezinárodních ratingových agentur a na každé deváté francouzské čerpací stanici chybí pohonné hmoty — informace, kterou podle něj mainstreamová média téměř nezmiňují. Plyn se aktuálně obchoduje kolem 80 EUR/MWh. Spojuje to s kritikou pokračující podpory Ukrajiny a konfrontační politiky vůči Rusku místo jednání, které podle něj tuto krizi prohlubuje.
+
+⚡ **Poznámka:** Tvrzení o omezení dodávek ropy ze Saúdské Arábie a konkrétní podíl francouzských čerpacích stanic bez paliva nelze z přepisu nezávisle ověřit.
+
+**Zdroje:** [Rajchl — Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)

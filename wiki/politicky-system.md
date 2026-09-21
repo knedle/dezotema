@@ -384,6 +384,16 @@ V tomto kontextu znovu ostře napadá Ladislava Vrábela a Miroslava Sládka (�
 
 ---
 
+### Preference koalice SPD+PRO+Trikolóra+Svobodní vzrostly ze 7,5 % na 10 % (Rajchl, 20. 9. 2026)
+
+Rajchl cituje nový průzkum veřejného mínění, podle nějž preference klubu SPD (zahrnující i PRO, Trikolóru a Svobodné) vzrostly ze 7,5 % na 10 %. Interpretuje to jako důkaz, že si voliči všímají jejich důsledného promírového postoje k válce na Ukrajině — spojuje to s vyjádřením Andreje Babiše, který se ve svém projevu téhož dne dotkl podobného tématu (Evropa mluví víc o válce než o míru, zatímco USA se o mír snaží aktivněji) — a spekuluje, že jde o záměr, ne jen o neschopnost evropských politiků.
+
+⚡ **Poznámka:** Zdroj a metodika citovaného průzkumu preferencí nejsou v přepisu specifikovány.
+
+**Zdroje:** [Rajchl — Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
+
+---
+
 ## Evropský parlament a demokratický deficit
 
 ### EP jako divadlo — předem dohodnuté hlasování
@@ -520,6 +530,14 @@ Jindřich Rajchl obhajuje tvrdou politickou odvetu jako legitimní nástroj. Sch
 > „Za jakýkoliv jejich útok přijde prostě tvrdá odveta. Já už se nehodlám prostě před nimi hrbit a krčit." — Jindřich Rajchl, [FARA/DSA/Dozimetr](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 
 **Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+
+---
+
+### Kupkův výrok „poslat za Ural" jako „bolševické smýšlení" (Rajchl, 20. 9. 2026)
+
+Předseda ODS Martin Kupka na sociální síti napsal, že by Rajchla měl Babiš „poslat za Ural" a označil ho za „putinův hlas v České republice" — reakce na Rajchlovu účast na mezinárodní konferenci spolku Svatopluk, na níž online vystoupil ruský komentátor Fjodor Lukjanov. Rajchl to označuje za ukázku bolševického smýšlení („kdo posílal své názorové oponenty za Ural? Pouze a jenom bolševici") a tvrdí, že kdyby mohl, postavil by Rajchlovi Gulag. Vyzývá Kupku, ať – pokud tvrdí, že se na Ukrajině bojuje za Českou republiku – sám „sundá teflonový oblek", vezme si maskáče a samopal a jde bojovat, místo aby se jen „siláckyfotil" se zbraní; označuje ho za „submisivního omegasamce", který v Bruselu jedná jako „lokaj" bez skutečného hájení národních zájmů.
+
+**Zdroje:** [Rajchl — Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
 
 ---
 

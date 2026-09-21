@@ -1105,6 +1105,16 @@ Podle agentury TASS by Steve Witkoff a Jared Kushner měli o víkendu navštívi
 
 ---
 
+### Projev na konferenci Svatopluk: jednání s Ruskem (Witkoff, Kushner, Ratcliffe) racionálnější než „silácká gesta" von der Leyenové (Rajchl, 19.–20. 9. 2026)
+
+Na mezinárodní konferenci pořádané spolkem Svatopluk (na níž online vystoupil i ruský komentátor Fjodor Lukjanov) přednesl Rajchl projev argumentující pro urychlené mírové vyjednávání na Ukrajině. Tvrdí, že diplomaté USA — Steve Witkoff, Jared Kushner a šéf CIA John Ratcliffe — kteří jednají v Moskvě se zástupci Ruska, nejsou „ruští kolaboranti", ale jednají racionálně a přibližují svět míru, zatímco Ursula von der Leyenová je „dalším válečným štváčem", který politicky i finančně profituje ze zbrojení. Válku na Ukrajině považuje za fakticky rozhodnutou a další prodlužování konfliktu za riziko přerůstající v „kataklyzmický konflikt" s katastrofálními důsledky pro celou Evropu — zdůrazňuje, že je ochoten jednat i se Sergejem Lavrovem nebo Vladimirem Putinem osobně. Odmítá nálepku „proruský" s tím, že nestojí na straně Ruska ani Ukrajiny ani EU, ale na straně míru a obyčejných občanů ČR.
+
+> „Mír není synonymem pro slabost. Je tomu právě naopak." — Jindřich Rajchl, [Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
+
+**Zdroje:** [Rajchl — Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
+
+---
+
 ### Trumpovo vysvětlení války „osobní nevraživostí" Putina a Zelenského jako „rétorika pro primitivy" (Vrabel, 10. 9. 2026)
 
 K vyjádření Donalda Trumpa, že hlavní překážkou mírové dohody je osobní nevraživost mezi Vladimirem Putinem a Volodymyrem Zelenským, Vrabel odmítá tento rámec jako zavádějící „rétoriku pro primitivy" — analogický k narativu, že za válkou stojí Putinova osobní diktátorská povaha. Souhlasí s Trumpem jen v tom, že Putin dohodu chce, ale zdůrazňuje, že Rusko usiluje o tutéž dohodu už od minských jednání (2014–2015): zajištění práv ruskojazyčného obyvatelstva Ukrajiny (jazyk, kultura, náboženství) a absence vojenského ohrožení Ruska — pokud by tyto podmínky byly splněny diplomaticky, „speciální vojenská operace" by nebyla nutná; pokud ne, Rusko je dosáhne vojenskou cestou. Opakuje Lavrovovo varování, že případná válka s Evropou (na rozdíl od „opatrné" operace na Ukrajině, šetřící „slovanské bratry") by byla vedena bez omezení a mohla by vést ke zmizení až 80 % evropské populace — sám ale pochybuje, že by taková válka byla „velmi krátká", jak Lavrov tvrdí, protože zoufalé evropské elity budou tlačit na mobilizaci celého kontinentu.
