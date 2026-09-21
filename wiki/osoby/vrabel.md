@@ -1203,6 +1203,21 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 6)
 - **16. 9.** — Finsko-francouzská řídicí skupina pro jaderné otázky; rozvádí argument proti jadernému odstrašení (scénář 1000+ letadel) — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
 
+### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
+- **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
+
+### [Kauzy a korupce](../kauzy.md) (pokrač. 9)
+- **18. 9.** — EGAP/COVID+ peníze na vývoz na Ukrajinu — dvojí metr vůči vlastnímu odsouzení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
+### [Blízký východ](../blizky-vychod.md) (pokrač. 9)
+- **18. 9.** — Húsíové rozšiřují územní zisky, ohrožují saúdský export ropy — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
+### [Suverenita a EU](../suverenita-eu.md) (pokrač. 15)
+- **18. 9.** — Trump/Monroeova doktrína — vyhrožuje EU i Kanadě kvůli přidružení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
+### [Ceny energií](../ceny-energie.md) (pokrač. 17)
+- **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
 ---
 
 ## Zmíněné osoby
@@ -1656,6 +1671,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Radosław Sikorski | ❌ negativní | Polský ministr zahraničí — tvrzení o vzdušné převaze NATO nad Ruskem hodnoceno jako nebezpečná eskalační rétorika | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
 | Mark Rutte | ❌ negativní | Nový řádek: jeho „hysterický" projev přirovnán ke stylu Adolfa Hitlera; spekulace o duševní nemoci nebo drogách | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
 | Hašim Tači | ❌ negativní | Bývalý prezident Kosova, velitel UÇK — odsouzen na 25 let za vraždy a mučení vlastní albánské opozice; Vrabel: mírný trest kvůli americkému soudci a vynechání zločinů vůči Srbům/obchodu s orgány | 2026-09-16 | [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) |
+| Robert Fico | ✅ pozitivní | Odmítl automatické uplatnění čl. 5 NATO — Vrabel: „majstrštik", jediný odvážný politik v NATO/EU (další obrat od negativního hodnocení z 8. 6.) | 2026-09-18 | [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) |
 
 ---
 
@@ -1795,3 +1811,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (14. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
 - [Facebook Live (15. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
 - [Facebook Live (16. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
+- [Facebook Live (18. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)

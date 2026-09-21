@@ -4867,6 +4867,13 @@
 - **Datum záznamu:** 2026-09-16
 - **Zpracováno:** ano
 
+## Ladislav Vrabel — Facebook Live (18. 9. 2026) {#ladislav-vrabel--facebook-live-18-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-18_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1977415689610668>
+- **Datum záznamu:** 2026-09-18
+- **Zpracováno:** ano
+
 ## Jiří Černohorský — Facebook Live (19. 9. 2026) {#jiří-černohorský--facebook-live-19-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-19_Jiří-Černohorský_Facebook-Live.txt)
 - **Kanál:** Jiří Černohorský

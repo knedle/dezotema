@@ -1273,3 +1273,21 @@ Vrabel referuje zprávu, že srbský prezident Aleksandar Vučić oznámil, že 
 Volodymyr Zelenskyj varoval, že ruský vzdušný prostor je nebezpečný pro civilní letadla — Vladimir Putin na to reagoval obviněním Ukrajiny ze „státního terorismu". Vrabel k tomu bez rozsáhlejšího komentáře jen zaznamenává výměnu jako další příklad vzájemných obvinění v probíhajících mírových jednáních.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+
+---
+
+### Fico odmítá automatické uplatnění čl. 5 NATO — „majstrštik" podle Vrabela, nejednota NATO/EU (Vrabel, 18. 9. 2026)
+
+Slovenský premiér Robert Fico ve videoprohlášení (nezúčastnil se kvůli tomu summitu tzv. Karpatské osmičky na Ukrajině) řekl, že je „mírotvorce a pacifista", nechce, aby se Slovensko stalo součástí válečného konfliktu kvůli článku 5 NATO, a že jako premiér udělá vše pro to, aby Slovensko nebylo zataženo do války s Ruskem — tedy i v případě napadení jiného členského státu NATO by Slovensko automaticky neaktivovalo kolektivní obranu. Vrabel to staví do přímého kontrastu s vyjádřením polského ministra zahraničí, že Polsko by v případě napadení Litvy nebo Estonska článek 5 aktivovalo okamžitě, a označuje Ficův postoj za „majstrštik" a odvahu — jediný politik, který si dovolil takto otevřeně vystoupit proti automatismu kolektivní obrany, čímž podle něj naplno odhaluje nejednotu NATO, EU i „koalice ochotných". Vyjadřuje obavu o Ficovu bezpečnost (narážka na možný atentát). V téže souvislosti cituje výrok bývalé tiskové mluvčí Volodymyra Zelenského, že ten byl v prvních hodinách ruské invaze v panice a chtěl nechat odpálit ukrajinské mosty i s vlastními vojáky na nich, což vojáci odmítli provést.
+
+**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
+---
+
+### České Gripeny poprvé vzlétly kvůli „ruské" dronové aktivitě — Babiš: ČR čelí hybridní válce (Vrabel, 18. 9. 2026)
+
+České stíhačky JAS-39 Gripen vzlétly z Pardubic kvůli dronové aktivitě u západní Ukrajiny v rámci mise NATO monitorující vzdušný prostor u polské hranice — ke kontaktu s žádným dronem nedošlo. Premiér Andrej Babiš zároveň (v reakci na polského premiéra Donalda Tuska) prohlásil, že ČR čelí ze strany Ruska „hybridní válce"; ministr vnitra oznámil posílení hlídek u nádraží a trvající bezpečnostní opatření. Vrabel to označuje za historický, zlomový okamžik — první otevřený vojenský zásah ČR „proti ruské hrozbě" v médiích i armádě — a předpovídá, že od tohoto momentu bude veřejnost čím dál častěji slyšet o sílících ruských útocích, dokud si premiér nevyžádá aktivní odpověď. Zdůrazňuje, že ukrajinská armáda má dle generála Budanova 40–60 % zahraničních vojáků a že drony i jejich dálkové řízení pocházejí ze Západu (výroba v ČR, Polsku, Německu) — placeno z prostředků EU, tedy fakticky evropskými daňovými poplatníky — takže noční útok 350 dronů na Moskvu (dalších 64 sestřeleno u města, 35 dalších dopoledne) a zásah dronem do chladicí věže jaderné elektrárny Kursk (bez úniku radiace) je dle něj fakticky válkou Západu s Ukrajinou proti Rusku, nikoli jen ukrajinskou obranou — a přichází jen tři dny po Trumpem oznámeném energetickém příměří (viz [Zelenskyj podmiňuje energetické příměří, 15. 9.](valka-ukrajina-prubeh.md#zelenskyj-podmiňuje-energetické-příměří-ruským-ústupkem-jako-první--vrabel-žádné-příměří-nebude-vrabel-15-9-2026)). Německo mezitím uzavřelo generální konzulát v Petrohradě (fungoval od roku 1972) — Vrabel to čte jako signál, že se diplomatické vztahy Západu s Ruskem blíží bodu, odkud „spolu ty země ani nebudou chtít mluvit".
+
+⚡ **Poznámka:** Interpretace dronového útoku na Moskvu jako důkazu přímé západní účasti na válce je Vrabelova vlastní spekulace.
+
+**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)

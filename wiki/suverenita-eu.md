@@ -751,4 +751,6 @@ Popisuje projev jako „válečně propagandistický" a od reality odtržený �
 
 ⚡ **Poznámka:** Popis obsluhujícího personálu a bezdomovců v okolí Evropského parlamentu obsahuje rasově podbarvené vyjádření (→ [stochastický teror](stochasticky-teror.md)).
 
-**Zdroje:** [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
+**18. 9.** — Donald Trump podle Vrabela vyhrožuje jak Kanadě, tak celé EU kvůli plánovanému přidružení Kanady k unii (viz [výše](#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)) — Trumpova administrativa a Pentagon podle něj vychází z Monroeovy doktríny, že severní polokoule má patřit do sféry vlivu USA, zatímco Rusku EU sféru vlivu (např. vojenské základny na Ukrajině) odpírá. Vrabel varuje, že sféry vlivu se neurčují prohlášeními Ursuly von der Leyenové, ale velikostí armády a ekonomickou silou — a že pokud si to Evropa s USA rozhádá, může to USA v zimě „potrestat" cly nebo dodatečnou přirážkou na plyn a ropu, zatímco EU si mezitím sama zavřela cestu k levným ruským dodávkám.
+
+**Zdroje:** [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026), [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)

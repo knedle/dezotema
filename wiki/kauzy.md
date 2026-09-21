@@ -557,6 +557,10 @@ Dvojí metr rozvádí **2. 7. 2026** srovnáním se zprávou, že čeští obča
 
 **30. 8.** — Nová vlna smear kampaně tentýž případ znovu přerámovává jako „daňové podvody" — viz rozšířená reakce v [politicky-system.md](politicky-system.md#rekonstrukce-václavského-náměstí-jako-záměrné-znemožnění-demonstrací--vlastní-perzekuce-po-roce-2022-vrabel-2-8-2026).
 
+**18. 9.** — Vrabel k navýšení fondu státní exportní pojišťovny EGAP (z 639 mil. na 1 mld. Kč pro pojištění vývozu firem na Ukrajinu) dodává, že navýšené prostředky mají podle vicepremiéra Karla Havlíčka pocházet z programu COVID+ — tedy z téhož typu dotačního programu určeného k sanaci firem zavřených covidovými opatřeními, za jehož čerpání byl sám odsouzen za dotační podvod. Označuje to za dvojí metr: přesměrování peněz z programu určeného na odškodnění covidových škod k financování vývozu na Ukrajinu je podle něj minimálně stejně sporné jako jeho vlastní chybné zaškrtnutí kolonky o bezdlužnosti, za které byl trestně odsouzen.
+
+**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
 **Zdroje:** [Vrabel — Zprávy v devět 2. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-7-2026), [Vrabel — Facebook Live 30. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-30-8-2026)
 
 ---

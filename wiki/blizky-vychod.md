@@ -613,7 +613,11 @@ Saúdská Arábie dočasně uzavřela strategický ropovod Východ–Západ (120
 
 Podle svého představitele Husama al-Assada Húsíové oznámili ukončení vojenské kampaně v Jemenu s tím, že ovládli část západního pobřeží včetně strategického ostrova Perim v průlivu Bab al-Mandab a že lodní doprava nyní probíhá běžně — hnutí chce z kontroly klíčové námořní trasy ekonomicky těžit. Vrabel tvrzení o „ukončení" odmítá jako předčasné — podle něj se konflikt na Blízkém východě naopak dál rozvíjí a je jen součástí širšího vzorce eskalace (Hormuz, Bab al-Mandab), jehož ekonomické důsledky (nedostatek ropy, hnojiv, jídla) se v Evropě plně projeví teprve na podzim a v příštím roce. Klade otázku „proč" USA (Trump) rozjely tyto konflikty, když mohly zajistit dostatek ropy i hnojiv bez nich — srovnává současnou globální ekonomickou krizi s covidovou pandemií, s tím rozdílem, že tuto krizi podle něj lidé vyvolali vědomě, ne nemoc.
 
-**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+**18. 9.** — Vrabel potvrzuje svou tehdejší předpověď: Húsíové v posledním týdnu naopak výrazně rozšířili územní zisky na pobřeží Rudého moře, ovládli další strategický námořní bod a ohrožují vývoz ropy ze Saúdské Arábie, čímž znovu rozdmýchali jemenskou občanskou válku (dle uváděných čísel již 150 000 obětí a 125 000 vysídlených za tři měsíce) a přispěli k růstu cen pohonných hmot; nyní míří na východní Jemen, bohatý na ropu, kde jim stojí v cestě vláda podporovaná Saúdskou Arábií. Vrabel klade odpovědnost za tento „peklo" na Donalda Trumpa, který konflikt rozpoutal, a srovnává postup USA (přímý úder na jemenskou školku plnou dětí, hrozby srovnat Írán se zemí) jako brutálnější než ruský přístup k civilistům na Ukrajině.
+
+⚡ **Poznámka:** Tvrzení o přímém americkém útoku na jemenskou školku nelze z přepisu nezávisle ověřit.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
 
 ---
 

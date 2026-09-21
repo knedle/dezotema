@@ -564,6 +564,16 @@ Vrabel dále varuje, že současné zdražování je teprve „začátek krize" 
 
 ---
 
+### EU jedná o dani z mimořádných zisků energetických firem — jednání odloženo na říjen; AfD jedná s Kremlem o obnově Nord Streamu (Vrabel, 18. 9. 2026)
+
+Ministři financí EU projednávali zavedení daně z mimořádných zisků energetických společností kvůli růstu cen ropy a plynu po uzavření Hormuzského průlivu — pokračování jednání odloženo na říjen. Vrabel to komentuje jako opakování vzorce, který zažil u Petra Fialy v roce 2021 (slib vyřešit drahou elektřinu do prosince, pak „dělal mrtvého brouka") — ptá se, proč tak závažné jednání nelze svolat okamžitě, ale až za měsíc, a předpovídá, že ropné firmy na hrozbu daně budou reagovat spíš zavíráním čerpacích stanic než snížením cen. Zdůrazňuje, že o hrozícím šoku z odstřižení od ruské ropy a plynu varuje od roku 2022 a že mediální rámování „nečekaného šoku" je zavádějící — od chvíle, kdy Trump uzavřel Hormuzský průliv, měla EU tři až čtyři měsíce na přípravu, ale žádnou nevyužila.
+
+V téže souvislosti referuje zprávu (Reuters), že se zástupci vedení německé AfD (Weidelová, Chrupalla) mají v březnu 2027 sejít s Kremlem zastoupeným Kirillem Dmitrijevem k jednání o obnovení dodávek ruského plynu do Německa, případně provozu plynovodu Nord Stream. Hodnotí to jako dobrý krok, ale spíše symbolický — AfD není u vlády a Vrabel odhaduje vysokou pravděpodobnost, že Německo bude ve válce s Ruskem dříve, než by AfD mohla zvítězit v celostátních volbách.
+
+**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
+---
+
 ### Saúdská Arábie omezila dodávky ropy, nejnižší zásoby plynu za poslední roky, snížený rating Polska a Francie (Rajchl, 20. 9. 2026)
 
 Rajchl varuje před prohlubující se evropskou energetickou krizí: Saúdská Arábie má omezit dodávky ropy řadě rafinérií, ČR má nejméně naplněné zásobníky plynu za poslední roky (plyn je „prostě drahý, když už vůbec je"), Polsko a Francie mají snížený rating od mezinárodních ratingových agentur a na každé deváté francouzské čerpací stanici chybí pohonné hmoty — informace, kterou podle něj mainstreamová média téměř nezmiňují. Plyn se aktuálně obchoduje kolem 80 EUR/MWh. Spojuje to s kritikou pokračující podpory Ukrajiny a konfrontační politiky vůči Rusku místo jednání, které podle něj tuto krizi prohlubuje.
