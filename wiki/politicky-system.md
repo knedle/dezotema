@@ -336,6 +336,28 @@ Vrabel komentuje vlastenecké setkání v Příčovech (pod záštitou Tomia Oka
 
 ---
 
+### Osobní politická cesta a přesvědčení, že volby jsou podvod (Černohorský, 15. 9. 2026)
+
+Černohorský popisuje vlastní politickou biografii jako zdroj přesvědčení, že volební systém je podvod. V prvních svobodných volbách volil Miroslava Sládka (SPR-RSČ), později ČSSD a Miloše Zemana kvůli sociálnímu programu. Klíčový zlom nastal po volbách, kdy se znepřátelené ODS a ČSSD (Klaus, Zeman) dohodly na opoziční smlouvě (1998), ačkoliv měly „naprosto odlišné programy" a předtím se vzájemně napadaly — v tu chvíli dospěl k závěru, že volby jsou podvod sloužící jen k tomu, aby si etablované strany rozdělily moc, peníze a koryta. Od té doby (s výjimkou jednorázové volby ODS v roce 2012 na naléhání otce) k volbám nechodil až do svého vstupu do aktivismu v roce 2015.
+
+> „A to byl moment, kdy já jsem se řekl, já jsem si uvědomil, že volby jsou podvod." — Jiří Černohorský, [Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+---
+
+### Kritika hesla „jedině ten" a napadení Vrábela a Sládka za udání koalic SPD+Stačilo a KSČM+Stačilo (Černohorský, 15. 9. 2026)
+
+Černohorský útočí na příznivce jednotlivých vlasteneckých subjektů (SPD, Stačilo, PRO, Trikolóra, Svobodní), kteří na sociálních sítích vyzývají „pojďme se všichni domluvit a volit jedině [naše strana]" — takové výzvy odmítá jako matematicky nereálné: aby SPD mohlo prosadit svůj program, potřebovalo by samo přes 25 % (aktuálně necelých 12 %), a žádný z voličů konkurenčních vlasteneckých stran by k přeběhnutí nepřesvědčil — každá strana má jen „svoje lidi", kteří jí budou tleskat bez ohledu na realitu.
+
+V tomto kontextu znovu ostře napadá Ladislava Vrábela a Miroslava Sládka („dva nejhorší zmrdi této scény") za to, že před volbami podali stížnosti proti údajně nedeklarovaným koalicím (SPD+Stačilo, KSČM+Stačilo a další) kvůli obcházení volebního zákona — koalice kandidující jako jediná strana potřebuje jen 5 % namísto 11 %. Tvrdí, že jediným motivem Vrábela a Sládka bylo získat přes 1,5 % hlasů coby vlastní volební uskupení a dosáhnout tak na státní příspěvek 10 mil. Kč za hlasy (případně až 40 mil. Kč při zisku nad 3 %) — ne skutečná obrana zákona.
+
+> „Vrábel se Sládkem jsou dva nejhorší zmrdi této scény." — Jiří Černohorský, [Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+---
+
 ## Evropský parlament a demokratický deficit
 
 ### EP jako divadlo — předem dohodnuté hlasování
@@ -1072,7 +1094,9 @@ V reakci na vlastní téma šetření státního rozpočtu Černohorský podrobn
 
 **2. 9.** — Černohorský staví platy politiků (opět připomíná Juchelkových 4,141 mil. Kč za rok 2025) do přímého kontrastu s praxí posuzování invalidních důchodů: čte desítky konkrétních příspěvků z facebookové skupiny invalidních spoluobčanů, v nichž lidem v aktivní onkologické léčbě (včetně paliativní, tedy nevyléčitelné) posudkoví lékaři snížili invalidní důchod z 3. na 1. stupeň (z cca 16–17 tis. na 8–9 tis. Kč měsíčně) s doporučením „najít si přiměřenou práci" — přestože onkologičtí pacienti v léčbě mají obvykle nárok na 3. stupeň. Vysvětluje mechanismus posouzení: při souběhu více zdravotních postižení (např. amputovaná ruka + psychické potíže) se procenta jednotlivých diagnóz nesčítají, ale bere se v úvahu jen nejzávažnější z nich — což může vést k přiznání jen 1. stupně i lidem s kombinací vážných postižení. Cituje konkrétní příklad ženy po odebrání invalidního důchodu, která při hledání práce dostala od zaměstnavatele odmítnutí kvůli zdravotnímu stavu, a citaci jiné ženy, jež v reakci na byrokratické potíže napsala, že jí „zbývá skočit z mostu". Uzavírá otázkou, jak mohli politici za 37 let „pracovat pro lidi", když takto zacházejí s nejzranitelnější skupinou obyvatel.
 
-**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026), [Černohorský — Videoportál 2. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-2-9-2026)
+**15. 9.** — Černohorský rozšiřuje totéž téma o desítky dalších konkrétních příběhů zaslaných sledujícími a poprvé jmenuje konkrétního „viníka": posudkového lékaře **Petra Engela** (pracoviště Plzeň), kterého opakovaně přezdívá „Petr Mengele" (→ [stochastický teror](stochasticky-teror.md)). Mezi popsanými případy: ženě s chronickým selháním ledvin a celoživotní inkontinencí sebrali invalidní důchod 1. stupně; devatenáctiletému chlapci se střední mentální retardací a vzácným genetickým postižením snížili stupeň invalidity na nulu s odůvodněním, že nemá „těžké postižení intelektu"; ženě s implantovaným neurostimulátorem proti neuropatické bolesti posudkový lékař v Karviné snížil invalidní důchod o 30 % s tvrzením, že byl „nadhodnocen"; matce umírající na glioblastom byl zamítnut příspěvek na péči, protože „nesplňuje tři body"; devatenáctileté dívce s mentální úrovní sedmiletého dítěte byl invalidní důchod snížen ze 4. na 2. stupeň. Samostatně čte příběh matky dvou autistických synů, kterou škola po její stížnosti na chování asistentky pedagoga opakovaně obviňovala, že si vymýšlí.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026), [Černohorský — Videoportál 2. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-2-9-2026), [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ---
 
@@ -1203,3 +1227,15 @@ Rajchl reaguje na televizní reportáž, která stranu PRO označila za odliv č
 **13. 9.** — Rajchl rozšiřuje seznam toho, co je označováno za „extremismus": odmítnutí přijímat migranty z Afriky i Ukrajiny, uznávání jen dvou pohlaví, manželství jako svazek muže a ženy, odmítnutí náhradního „surogátního" macenství jako obchodu s dětmi, odmítnutí eura a zrušení Benešových dekretů. Naopak za skutečný extremismus (bez použití toho slova médii) označuje: zavedení eura, zrušení Benešových dekretů (rozvrácení majetkových vztahů v pohraničí), vznik „spojených států evropských" (zánik ČR — cituje v tomto smyslu i Petra Pavla), Green Deal ničící evropskou ekonomiku a vtahování ČR do konfliktu s jadernou velmocí. Za skutečné extremisty tak označuje Piráty, STAN, TOP 09 a zčásti KDU-ČSL a ODS. Doplňuje čerstvý průzkum, podle nějž SPD samo dosahuje podpory srovnatelné s výsledkem voleb (7,8 %) a společně s Trikolórou a Svobodnými na cca 10 % — interpretuje to jako odměnu za to, že koalice „neuhnula" od předvolebních slibů.
 
 **Zdroje:** [Rajchl — Videoportál 12. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-12-9-2026), [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026)
+
+---
+
+## Vlastní vládní program „kdybych byl Babišem" (Černohorský)
+
+### Zrušení tiskových mluvčích, okamžité zbavení imunity a trestní stíhání, konec poslaneckých prázdnin (Černohorský, 15. 9. 2026)
+
+V rozsáhlé úvaze „co by dělal na místě Andreje Babiše" Černohorský předkládá vlastní vizi vládnutí. Navrhuje zrušit funkci tiskových mluvčích vlády a jednotlivých ministrů (ponechal by jen mluvčího na Hradě) — ministři by podle něj měli být osobně povinni odpovídat na dotazy médií, ne se skrývat za mluvčí. Žádá okamžité zbavení poslanecké imunity a trestní stíhání jmenovaných politiků vlády Petra Fialy (Fiala, Rakušan, Černochová, Lipavský, Stanjura, Blažek) za škody způsobené státnímu rozpočtu, s tím, že při velké škodě by měli rovnou putovat do vazby — v této souvislosti používá analogii „za korupci v Číně střílej" (→ [stochastický teror](stochasticky-teror.md)). Dále navrhuje zrušit „poslanecké prázdniny" a alibistické hlasování „zdržel jsem se" (jen ano/ne), snížit vlastní plat i plat všech politiků o 30 %, zrušit nedokladované paušály a zavést pro poslance stejnou cca 210denní pracovní docházku jako u běžných zaměstnanců.
+
+V rámci téhož programu obhajuje Andreje Babiše v kauze Čapí hnízdo (viz [kauzy.md](kauzy.md#agrofert-a-dotace-eu)) a žádá zřízení odškodňovacího fondu pro poškozené covidovou vakcinací (viz [covid-vakciny.md](covid-vakciny.md)); ekonomickou část programu (znárodnění infrastruktury, zdanění bank, konec dotací na fotovoltaiku) viz [suverenita-eu.md](suverenita-eu.md) a [ceny-energie.md](ceny-energie.md); zahraničněpolitickou část (konec podpory Ukrajiny) viz [valka-nato-rusko.md](valka-nato-rusko.md).
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)

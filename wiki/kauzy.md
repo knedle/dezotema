@@ -487,6 +487,14 @@ Evropský prokurátor zahájil trestní řízení ve věci dotací pro Agrofert 
 
 ---
 
+### Obhajoba Babiše v kauze Čapí hnízdo — dotace vrácena, farma slouží veřejnosti (Černohorský, 15. 9. 2026)
+
+Černohorský se ohrazuje proti opakovaným pokusům o trestní stíhání Andreje Babiše v kauze Čapí hnízdo a označuje je za pokrytecké vzhledem k rozsahu jiných kauz (bitcoinová kauza, Dozimetr). Argumentuje, že Babiš spornou dotaci vrátil, že areál Čapího hnízda je veřejně přístupný (kdokoliv tam může přijít, poobědvat, využít zázemí) a že do něj sám investoval víc peněz, než kolik činila sporná dotace. Připomíná, že kauza podle něj vznikla poté, co ministr Stanjura veřejně řekl, že velké firmy nemají nárok na dotace, a doporučil dělení firem na menší subjekty — což je přesně to, co podle Černohorského Agrofert udělal. Zároveň chválí Babišovu adresnou charitativní pomoc přes nadaci Agrofertu (konkrétně zmiňuje čtyři případy, kdy na jeho osobní žádost pomohla lidem, kterým nedokázal pomoci vlastní spolek) a argumentuje, že Agrofert v ČR živí (přímo i nepřímo přes rodinné příslušníky zaměstnanců) řádově sto tisíc lidí.
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+---
+
 ## Filip Turek — dopravní nehoda a tlak na rezignaci
 
 ### Vrabel brání Turka i přes nesouhlas s jeho postoji — kritika Babišova podrazu (14. 7. 2026)

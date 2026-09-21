@@ -532,7 +532,9 @@ Zítko podal na krajské státní zastupitelství čtyřstránkové trestní ozn
 
 ⚡ **Poznámka:** Číslo „35 tisíc mrtvých seniorů" nelze ověřit z veřejně dostupných zdrojů.
 
-**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+**15. 9.** — Černohorský opakuje výzvu ke zřízení odškodňovacího fondu beze změny v argumentaci, ale dokládá vlastní přímou zkušenost: díky osobní intervenci u Babiše pomohla nadace Agrofertu minimálně čtyřem lidem, kterým jeho vlastní spolek pomoci nedokázal — což uvádí jako důvod, proč od Babiše nadále očekává, že podobně vyřeší i odškodnění lidí poškozených covidovou vakcinací (viz i obhajoba Babiše v kauze Čapí hnízdo, [kauzy.md](kauzy.md#agrofert-a-dotace-eu)).
+
+**Zdroje:** [Černohorský — Facebook Live 17. 8. 2026 (2)](_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2), [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ---
 

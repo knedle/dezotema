@@ -141,7 +141,11 @@ Samostatně kritizuje návrh energetického mixu 50 % obnovitelné / 50 % jadern
 
 > „Za to, za těch 600 miliard co dotace se platily za ty soláry, bysme měli postavený další 4 jaderný bloky." — Jiří Černohorský, [FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
 
-**Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
+**15. 9.** — V rámci vlastního vládního programu Černohorský uvádí odlišná čísla: od zavedení dotací v roce 2006 měla ČR na fotovoltaice celkem prodělat „skoro bilion" korun, s aktuálními náklady kolem 40 miliard Kč ročně. Slibuje okamžité zrušení dotací i zákaz další výstavby fotovoltaických elektráren a větrných turbín na volné krajině (malé větrné elektrárny pro vlastní spotřebu domácností by výjimku měly mít).
+
+⚡ **Poznámka:** Údaj „skoro bilion Kč" neodpovídá dříve uváděné částce 600 mld. Kč (7. 5. 2026) za týž účel — rozdíl nelze z dostupných zdrojů ověřit.
+
+**Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026), [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ---
 

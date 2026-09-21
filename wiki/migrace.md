@@ -14,7 +14,9 @@ Jiří Černohorský popisuje, jak ho v roce 2015 „probudila" migrační vlna:
 
 > „Mě to probudilo to, že jsem viděl, co se děje v Itálii, co se děje v Německu, ve Francii, pak ve Švédsku. [...] Pamatujete Refugees will come? Honem rychle imigranti sem. Bartoš, kterej se halil do vlajky Antify a šel v tom průvodu. Všichni popírali no-go zóny ve Švédsku, v Norsku." — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
+**15. 9.** — Černohorský rozvádí stejný příběh vlastního „probuzení" v roce 2015 s dalšími konkrétními detaily: Frontex označuje za organizaci fungující jako „normální pirátská podpora" — neziskovku, která si nechává draze platit za dovážení migrantů do Evropy. O migrantech v Itálii mluví silně dehumanizujícím jazykem (→ [stochastický teror](stochasticky-teror.md)) a jako konkrétní příklad „bezpráví" uvádí incident, kdy italská policie zabavila majetek majiteli hotelu a donutila ho ubytovat migranty.
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026), [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ---
 

@@ -357,6 +357,22 @@ Vrabel cituje výrok Jean-Luca Mélenchona, lídra levicové aliance La France I
 
 ---
 
+### Fialova vláda jako „nacisti" kvůli podpoře Ukrajiny a lhostejnosti k oslavám příslušníka SS divize Galizien (Černohorský, 15. 9. 2026)
+
+Černohorský označuje opoziční „fialovo-modro-žlutou" koalici (ODS, STAN, TOP 09, KDU-ČSL, Piráti) za „normální nacisty" kvůli jejich „bezmezné" podpoře Ukrajiny. Jako důkaz uvádí, že čeští poslanci této koalice zamítli nebo byli lhostejní k parlamentnímu bodu kritizujícímu ovace, které kanadský parlament (za přítomnosti Justina Trudeaua a Volodymyra Zelenského) v roce 2023 vzdal veteránovi Jaroslavu Hunkovi z 14. granátnické divize Waffen-SS Galizien.
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+---
+
+### Vlastní vládní program: okamžité ukončení podpory Ukrajiny a zbrojní iniciativy, rozdělení Ukrajiny (Černohorský, 15. 9. 2026)
+
+V rámci vlastní vize vládnutí „kdybych byl Babišem" (viz [politicky-system.md](politicky-system.md#vlastní-vládní-program-kdybych-byl-babišem-černohorský)) by Černohorský okamžitě zrušil českou zbrojní iniciativu na nákup munice pro Ukrajinu a snížil dávky ukrajinským uprchlíkům o 60 % s podmínkou najít si práci do dvou měsíců. Zdůvodňuje to přesvědčením, že válka na Ukrajině je „dávno v hajzlu" a že o jejím pokračování rozhoduje někdo jiný než česká vláda („kdo jim stojí za prdelí"), a predikuje, že Ukrajina bude nakonec rozdělena — což popisuje jako nevyhnutelné a nutné pro ukončení „krveprolití". Podporu Ukrajině vykresluje jako financování politiků, kteří si dle něj stavějí „zlaté hajzly" a jachty, zatímco jsou „hrobaři vlastního národa".
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+---
+
 ### ČR–Čína: rozvíjet ekonomické vztahy, bez provokací přes Tajwan nebo Dalajlámu (Černohorský, 21. 5. 2026)
 
 Černohorský v politické diskuzi na téma česko-čínských vztahů jednoznačně prosazuje jejich rozvoj. Klíčové body:

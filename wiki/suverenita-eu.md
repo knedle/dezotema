@@ -134,6 +134,16 @@ Adam Šejna (Restart Česko) popisuje svůj politický boj jako vědomě nejist�
 
 ---
 
+### Vlastní vize ekonomické suverenity: znárodnění vody, energetiky a bank, dividendy občanům z ČNB (Černohorský, 15. 9. 2026)
+
+V rámci vlastní představy vládnutí „kdybych byl Babišem" (viz [politicky-system.md](politicky-system.md#vlastní-vládní-program-kdybych-byl-babišem-černohorský)) Černohorský navrhuje vrátit pod plnou státní kontrolu vodu, energetickou infrastrukturu a rafinerie rozprodané po roce 1989 (jmenovitě kritizuje privatizace za vlád Sobotky a Topolánka), s modelem vlastnictví 60 % stát / 40 % soukromý sektor. Zisky z těchto podniků by podle něj měly plynout přímo občanům: každý občan ČR (včetně nově narozených) by měl mít vlastní účet u České národní banky, na který by chodily pravidelné dividendy. Součástí vize je i zdanění bankovních zisků na 40 % (oproti běžným 25 % u fyzických osob), z čehož by měla těžit vlastní síť poboček ČNB s nízkými úrokovými sazbami pro občany. Uvádí také, že by se pokusil odkoupit zpět podíl ve Škodovce.
+
+> „Bank bych zdanil 40 %. Nelíbí se vám to? Běžte do hajzlu." — Jiří Černohorský, [Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"

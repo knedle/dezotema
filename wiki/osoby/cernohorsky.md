@@ -31,10 +31,15 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **31. 8.** — Podpora Robina Čumpelíka, kritika „vlastenecké scény" (Příčovy) a vlastních diváků za slepé tleskání politikům — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 - **31. 8.** — Rozšíření vize „Čest Svoboda Respekt" — princip kolektivního rozhodování (370+ členů), konkrétní příklady adresné charitativní pomoci — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 - **2. 9.** — Kritika systému posuzování invalidních důchodů (onkologičtí pacienti snížení na 1. stupeň) v kontrastu s vysokými vedlejšími příjmy politiků (Juchelka) — [Videoportál 2. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-2-9-2026)
+- **15. 9.** — Osobní politická biografie: opoziční smlouva ODS–ČSSD (1998) jako moment uvědomění, že volby jsou podvod; k volbám nechodil od r. 2012 do vstupu do aktivismu 2015 — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+- **15. 9.** — Kritika hesla „jedině ten" (SPD/Stačilo/PRO/Trikolóra/Svobodní); napadení Vrábela a Sládka za udání koalic SPD+Stačilo/KSČM+Stačilo kvůli státnímu příspěvku za hlasy — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+- **15. 9.** — Rozšíření kritiky posudkových lékařů o desítky nových případů a jmenovaného lékaře Petra Engela („Petr Mengele") z Plzně — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+- **15. 9.** — Vlastní vládní program „kdybych byl Babišem": zrušení tiskových mluvčích, okamžité trestní stíhání a zbavení imunity politiků vlády Fialy, konec poslaneckých prázdnin — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
 - Mix 50/50 technicky nefunkční (jaderný výkon nelze krátkodobě regulovat) — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
+- **15. 9.** — Aktualizované číslo: „skoro bilion" Kč na fotovoltaice od 2006, 40 mld. Kč/rok; navrhuje zákaz další výstavby fotovoltaiky a větrníků na volné krajině — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ### [Volby](../politicky-system.md#volby)
 - Taktická volba výhradně SPD a Stačilo — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -79,6 +84,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Krize Polsko–Ukrajina kvůli UPA — pochybnosti o Katyni a smolenské havárii 2010, predikce příchodu polské armády na hranice a rozpadu Ukrajiny — [FB Live: čl. 63, Polsko–Ukrajina 28. 6.](../_zdroje.md#jiří-černohorský--fb-live-clanek-63-polsko-ukrajina-28-6-2026)
 - Zákaz spalovacích motorů 2035 (Green Deal) jako příčina krachu VW/Mercedes/BMW — americká cla + čínské dotované elektromobily — [Videoportál: krach automobilového průmyslu 2. 7.](../_zdroje.md#jiří-černohorský--videoportál-krach-automobilového-průmyslu-2-7-2026)
 - Pavel podporuje euro a vzdání se práva veta v zahraniční politice ve prospěch EU — [FB Live: letní sestřih 3. 7.](../_zdroje.md#jiří-černohorský--fb-live-letní-sestřih-3-7-2026)
+- **15. 9.** — Vlastní vize ekonomické suverenity: znárodnění vody/energetiky/rafinerií/Škodovky (60:40 stát:soukromý sektor) s dividendami občanům z ČNB; zdanění bank na 40 % — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Bitcoin kauza jako organizovaný zločin, Blažek jako „bílý kůň" — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -89,6 +95,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **17. 8.** — Kauza „Terezy": podezření na koordinovaný postup policie, soudu a školy proti matce po nočním „lízacím testu"; první brněnské hody jako plýtvání (socha 10–12 mil. Kč) — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 - **20. 8.** — Snaha slovenské SaS a českých úředníků z doby Babišovy vlády odebrat Soně Pekové soudně-znaleckou způsobilost kvůli posudku v procesu s Kolárem/Falcim — [Videoportál 20. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
 - **27. 8.** — Bitcoinová kauza jako „největší korupce za 37 let" — legalizace špinavých peněz z pedofilie/orgánů/drog; aktualizace kauzy „Terezy" (třetí právní kancelář) — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+- **15. 9.** — Obhajoba Babiše v kauze Čapí hnízdo (dotace vrácena, areál veřejně přístupný); chvála charitativní pomoci přes nadaci Agrofert — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
@@ -109,6 +116,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
 - **27. 8.** — Ukrajina se blíží kolapsu, Kyjev „nedopadne dobře"; zodpovědnost připisuje západním vládám — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+- **15. 9.** — Vlastní program: okamžité zrušení zbrojní iniciativy a snížení dávek ukrajinským uprchlíkům o 60 %; predikce rozdělení Ukrajiny; Fialova opozice jako „nacisti" kvůli oslavám Hunky v kanadském parlamentu — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -125,11 +133,13 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
+- **15. 9.** — Opakuje výzvu k odškodňovacímu fondu; dokládá vlastní zkušenost se 4 případy pomoci přes nadaci Agrofert na jeho žádost — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ### [Imigrace](../migrace.md#imigrace-jako-probuzení--černohorský-o-roztržení-společnosti-25-5-2026)
 - Imigrace jako „probuzení" r. 2015; kriminalita v Německu +300–500 % — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 - Kritika vítačů (Bartoš/Antifa, CEMPR); média a neziskovky jako hnací síla rozdělení — [Reel „ne jednou to člověk vyslovil" 25. 5. 2026](../_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026)
 - **27. 8.** — Migrační pakt: 30 000 migrantů ročně nebo 15 mld. Kč pokuty od poloviny roku 2027 — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+- **15. 9.** — Frontex jako „moderní pirátství"; dehumanizující líčení migrantů v Itálii a incident se zabaveným hotelem — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ### [Stochastický teror](../stochasticky-teror.md)
 - Pavel „adept na trest smrti pověšením" — [Návrat z bandovolené 2. 4. 2026](../_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026), [Videoportál 18. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
@@ -143,6 +153,9 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Zbyněk Stanjura — výzva k dlouhému vězení a cíleně nízkému důchodu (15 000 Kč) — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 - Petr Pavel — dehumanizace jako „vřed k vypálení" + obnovená výzva k trestu smrti/oběšení za „velezradu" — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 - Petr Kolář (poradce prezidenta) — sexualizovaná dehumanizace + výzva k popravě oběšením — [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+- Migranti v Itálii — kolektivně dehumanizováni zájmenem „to", obviněni z hromadné kriminality — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+- Petr Engel (posudkový lékař) — přezdívka „Petr Mengele" — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+- Fiala, Rakušan, Černochová, Lipavský, Stanjura, Blažek — „za korupci v Číně střílej" navazující na výzvu k trestnímu stíhání — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
 ---
 
@@ -269,6 +282,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Petr Kolář | ❌ negativní | Sexualizovaná dehumanizace + výzva k popravě oběšením v souvislosti s Pavlovou zahraniční politikou (→ [stoch. teror](../stochasticky-teror.md)) | 2026-08-31 | [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026) |
 | Robin Čumpelík | ✅ pozitivní | Chválen za video kritizující proměnu vlasteneckého setkání v Příčovech na pouhou přehlídku politiků | 2026-08-31 | [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026) |
 | Jan Skopeček | ❌ negativní | Vedlejší příjem 5 174 087 Kč za rok 2025 ze souběhu více funkcí — kritizován jako střet zájmů | 2026-08-31 | [Facebook Live 31. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026) |
+| Andrej Babiš | ✅ pozitivní | Obhajován v kauze Čapí hnízdo (dotace vrácena, areál slouží veřejnosti); chválena charitativní pomoc přes nadaci Agrofert; vyzýván ke zřízení odškodňovacího fondu za covid | 2026-09-15 | [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026) |
+| Ladislav Vrabel | ❌ negativní | Nový řádek: spolu se Sládkem znovu napaden jako „nejhorší zmrd této scény" za udání koalic SPD+Stačilo a KSČM+Stačilo kvůli státnímu příspěvku za hlasy | 2026-09-15 | [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026) |
+| Miroslav Sládek | ❌ negativní | Spolu s Vrábelem označen za „nejhoršího zmrda této scény" za totéž udání koalic | 2026-09-15 | [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026) |
+| Petr Engel | ❌ negativní | Posudkový lékař (Plzeň) přezdívaný „Petr Mengele" za snižování invalidních důchodů — terč stochastického teroru | 2026-09-15 | [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026) |
 
 ---
 
@@ -323,3 +340,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (28. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 - [Facebook Live (31. 8. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
 - [Videoportál (2. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-2-9-2026)
+- [Facebook Live (15. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
