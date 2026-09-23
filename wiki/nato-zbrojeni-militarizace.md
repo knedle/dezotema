@@ -8,6 +8,16 @@ Témata: zbrojení a vojenské výdaje ČR/Evropy, korupce ve zbrojních zakázk
 
 ## NATO, zbrojení a militarizace ČR/Evropy
 
+### Strašení válkou kvůli zbrojení, ne zbrojení kvůli strachu — reakce na Krutílka (Rajchl, 22. 9. 2026)
+
+V reakci na poslance ODS Jana Krutílka Rajchl tvrdí, že si Krutílek „plete příčinu a následek": evropské státy podle něj nezbrojí proto, aby odvrátily hrozbu války, ale válkou se záměrně straší, aby se mohly zbrojařským korporacím posílat „stamiliardové" částky. Tyto korporace jsou podle něj často sponzory právě těch politiků, kteří o výdajích rozhodují, což považuje za zarážející a za věc, které je třeba se věnovat. Odvolává se na varování Dwighta D. Eisenhowera před vojensko-průmyslovým komplexem jako největším nebezpečím pro demokracii v Evropě i ve světě. Navazuje na své dřívější tvrzení, že EU přesměrovává peníze zbrojním korporacím, které jsou jejími sponzory ([Brusel jako válečný štváč, 12. 5.](valka-ukrajina-prubeh.md#brusel-jako-hlavní-světový-válečný-štváč--rajchl-12-5-2026)).
+
+> „Neinvestujeme obrovské prostředky do zbrojení, abychom zamezili strachu z války. Je to přesně obráceně. Straší se válkou, aby se mohlo investovat do zbrojení." — Jindřich Rajchl, popis videa, [Videoportál 22. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
+
+**Zdroje:** [Rajchl — Videoportál: Krutílek plete příčinu a následek, 22. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
+
+---
+
 ### Zbrojení vs. záchrana životů — peníze na zbraně místo na léčbu (Rajchl, 21. 6. 2026)
 
 Rajchl staví do protikladu výdaje na zbrojení a záchranu konkrétních lidských životů: jedna letová hodina F-35 (~1 milion Kč) by mohla zaplatit léčbu, kterou pojišťovna nehradí, a zachránit jeden život. Ilustruje to sbírkami pro nemocné (Bára z Opavy — české zdravotnictví jí ve 31 letech nabídlo jen paliativní péči, za 1 mil. Kč jí umožnili individuální léčbu ve Švýcarsku, která zabírá; Pavlína z Olomouckého kraje). Tvrdí, že „odstrašování Putina" a nutnost zbrojit (160 → 240 mld. Kč, tanky, BVP, munice, F-35) je „lež" a „snaha přetransformovat peníze do kapes zbrojařů, bankéřů a finančních institucí". Deklaruje, že jedním z hlavních směrů jeho politiky bude investovat do technologií a lidí zachraňujících životy, ne do „železa, které lidské životy ničí". Navazuje na svůj dřívější morální argument (1 tank Leopard = 745 mil. Kč = „745 zachráněných životů", [zdroj 18. 6.](_zdroje.md#jindřich-rajchl--videoportál-leopard-vs-záchrana-životů-18-6-2026)).

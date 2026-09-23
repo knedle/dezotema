@@ -4901,3 +4901,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=906236635643126&_rdr>
 - **Datum záznamu:** 2026-09-16
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Krutílek plete příčinu a následek (22. 9. 2026) {#jindřich-rajchl--videoportál-krutílek-22-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-22_Jindřich-Rajchl_53K-views-43K-reactions-Pan-kolega-Krutílek-z-ODS-si-.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1426724876052884>
+- **Datum záznamu:** 2026-09-22
+- **Zpracováno:** ano

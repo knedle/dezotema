@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — válka na Ukrajině skončí tak, jak předpovídal; sázka o víno s Krutílkem (22. 9. 2026)
+
+**Předpověď:** Rajchl opakuje, že válka na Ukrajině skončí „přesně tak", jak dříve říkal (tj. mírem podle aktuální vojenské situace / neúspěchem ukrajinské strategie), a nabízí Janu Krutílkovi (ODS) sázku o láhev červeného vína.
+
+> „Já mu teď tady nabízím sázku o dobrou láhev červeného vína, že to skončí přesně tak, jak jsem říkal, protože to jinak ani skončit nemůže." — Jindřich Rajchl
+
+**Horizont:** neurčeno (konec války)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Videoportál: Krutílek plete příčinu a následek, 22. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
+
+---
+
 ### Ladislav Vrabel — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana (19. 9. 2026)
 
 **Předpověď:** Na základě odhadu ~2 milionů Ukrajinců žijících v ČR (a rostoucí „ukrajinizace" společnosti i armády) Vrabel předpovídá, že v příštích parlamentních volbách bude kandidovat ukrajinská politická strana a bude „dost úspěšná", protože bude mít hodně voličů.

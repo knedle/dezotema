@@ -1107,6 +1107,14 @@ Podle agentury TASS by Steve Witkoff a Jared Kushner měli o víkendu navštívi
 
 ---
 
+### „Selhávající taktika" od roku 2022 a sázka o láhev vína na konec války — reakce na Krutílka (Rajchl, 22. 9. 2026)
+
+Rajchl vyčítá Janu Krutílkovi (ODS) a jeho „souputníkům", že čtyři a půl roku prosazují „naprosto selhávající" strategii vůči válce na Ukrajině, která podle něj vedla k „milionům mrtvých" a velké ztrátě ukrajinského území. Ztráty mohly být podle něj mnohem menší, kdyby se „vzal rozum do hrsti" už v roce 2022 (tj. kdyby se tehdy jednalo o míru). Krutílkovi nabízí sázku o láhev červeného vína, že válka skončí přesně tak, jak dříve předpovídal, protože „jinak ani skončit nemůže" (srov. jeho predikce zhroucení Ukrajiny a míru podle aktuální kontroly území — [predikce.md](predikce.md#jindřich-rajchl--ukrajina-se-do-dvou-měsíců-zhroutí-pokud-nedojde-k-mírové-dohodě-12-7-2026)).
+
+**Zdroje:** [Rajchl — Videoportál: Krutílek plete příčinu a následek, 22. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
+
+---
+
 ### Projev na konferenci Svatopluk: jednání s Ruskem (Witkoff, Kushner, Ratcliffe) racionálnější než „silácká gesta" von der Leyenové (Rajchl, 19.–20. 9. 2026)
 
 Na mezinárodní konferenci pořádané spolkem Svatopluk (na níž online vystoupil i ruský komentátor Fjodor Lukjanov) přednesl Rajchl projev argumentující pro urychlené mírové vyjednávání na Ukrajině. Tvrdí, že diplomaté USA — Steve Witkoff, Jared Kushner a šéf CIA John Ratcliffe — kteří jednají v Moskvě se zástupci Ruska, nejsou „ruští kolaboranti", ale jednají racionálně a přibližují svět míru, zatímco Ursula von der Leyenová je „dalším válečným štváčem", který politicky i finančně profituje ze zbrojení. Válku na Ukrajině považuje za fakticky rozhodnutou a další prodlužování konfliktu za riziko přerůstající v „kataklyzmický konflikt" s katastrofálními důsledky pro celou Evropu — zdůrazňuje, že je ochoten jednat i se Sergejem Lavrovem nebo Vladimirem Putinem osobně. Odmítá nálepku „proruský" s tím, že nestojí na straně Ruska ani Ukrajiny ani EU, ale na straně míru a obyčejných občanů ČR.
