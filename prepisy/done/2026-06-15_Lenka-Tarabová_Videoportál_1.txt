@@ -1,0 +1,371 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Lenka Tarabová
+URL:          https://m.facebook.com/watch/?v=1346410880767375&_rdr
+Datum videa:  2026-06-15
+Zpracováno:   2026-06-17 09:25:33
+Jazyk:        cs
+Délka:        00:19:15
+Zhlédnutí:    4 639
+Popis:        SNĚMOVNÍ SEMINÁŘ - PŘÍLIŠ DRAHÝ VÍTR 
+
+MUDr. Vladimír Zlínský byl druhým řečníkem, navázal na prof. Turánka a zaměřil se na téma vlivu větrných elektráren na zdraví.
+
+Až Vám někdo bude tvrdit, jak jso
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    12s
+Přepis:       3m 29s
+Rychlost:     5.5x realtime
+Celkem:       3m 41s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Tak, dalším naším řečníkem bude pan doktor Zlínský a co nám na něj pověděla umělá inteligence.
+[00:06] Vladimír Zlínský je lékař, specializující se na otorinolaringologii,
+[00:13] který po řadě let působení v nemocnicích ve Zlíně kromě Říži a Uherském hradišti
+[00:18] založil vlastní odbornou ordinaci. Vedle své lékařské praxe se věnuje také veřejné službě
+[00:25] a působil jako poslanec parlamentu České republiky, kde se zaměřoval mimo jiné
+[00:30] na zdravotnictví, evropské záležitosti, vzdělávání a elektronizaci zdravotní péče.
+[00:36] Jeho profesní dráha spojuje dlouholeté zkušenosti z medicíny
+[00:40] s aktivním zájemem o fungování veřejných institucí.
+[00:43] A já bych jenom doplnila, že děkujeme za semináře, které jste dělal
+[00:47] pod zvláštní záštitou ohledně doby COVID-19. A vám hned vám musím vydržet.
+[00:52] Tak děkuji.
+[00:56] Děkuji za slovo. Já, než se spustí prezentace, tak bych vás chtěl pozdravit všechny.
+[01:02] Tak jako samozřejmě to představní bylo celkem příjemné,
+[01:05] ale musíme se na to podívat i z jiné stránky, že nikdo nemá jenom dobré vlastnosti.
+[01:12] Každý z nás máme i různé slabosti.
+[01:17] A já musím říct, že jedna z mých slabostí je, že do všeho jdu po hlavě.
+[01:22] Zajímám se hlavně o problematiku, která je nějaká,
+[01:26] nějakým způsobem kontroverzní.
+[01:29] A v podstatě dá se říct, že si mě pamatujete z doby,
+[01:32] kdy já jsem tady pořádal ty semináře na různé varující témata
+[01:37] od COVID-19 až po pokles porodnosti.
+[01:41] A možná si říkáte, že do všeho strkám nos.
+[01:43] Já bych, já se přiznám, že já bych byl strašně rád,
+[01:46] kdyby tady byl nějaký odborník, který by sdílel aspoň částečně naše obavy
+[01:51] ohledně větrných elektráren. Já bych ho tady rád pustil,
+[01:56] my jsme takového nenašli, otázka je, jestli vůbec v České republice
+[01:59] takový nějaký člověk je, který se tím nějak komplexně zabývá,
+[02:03] třeba ho časem najdeme. Ale já se teda pokusím ho nahradit.
+[02:10] Já bych, kromě vás, tady velice rád přivítali zástupce koalice,
+[02:16] zástupce opozice, zástupce médií hlavního proudu,
+[02:20] možná tady někdo je, já nevím.
+[02:22] Já se omlouvám, pane doktore, byli pozváni všichni.
+[02:25] Takže nadále.
+[02:26] Nadálku zdravím všechny, třeba na příští seminář přijdou,
+[02:30] až se ty akcelerační zóny schvály, ono asi pak bude
+[02:34] trošku hustější atmosféra. Já bych první začal od toho,
+[02:40] proč zastánci těch větrných elektráren nás nějakým způsobem
+[02:47] podporují tu výstavu. Proč oni, nebo z jakého pohledu
+[02:53] kritizují ten náš přístup.
+[02:55] Tu naši kritiku. Tak oni tvrdí, že ty moderní elektrárny
+[02:59] jsou bezpečné, že ten infrazvuk rychle klesá,
+[03:03] s druhou mocninou vzdáleností to klesne, takže 500 metrové vzdálenosti
+[03:08] je zcela bezpečné. Pak tvrdí, že když to měří, tak jsou tam
+[03:11] nízké hladiny intenzity v decibelech. Pak tvrdí, že to neslyšíme,
+[03:16] takže je to pravděpodobně zcela bezpečné. Pak tvrdí, že infrazvuk
+[03:20] se nachází všude v přírodě. Já bych vyzdvihl hlavně teda to zemětřesení,
+[03:25] to je velmi zajímavé, já se k tomu ještě vrátím.
+[03:27] A mluvil o tom pan profesor Turánek. Pak tvrdí, že nejsou jasně řečeny
+[03:32] a ozřejmeny ty patofyziologické příčiny, to znamená, jak ten infrazvuk
+[03:38] přesto ten infrazvuk teda působí na to lidské tělo.
+[03:44] A pak ještě tvrdí, že v podstatě se to týká pár procent citlivých jedinců,
+[03:48] kteří vlastně trpí syndromem noceba, to znamená, že nějací dezinformátoři
+[03:53] se jim nakoukali do hlavy.
+[03:55] Jaké mohou mít potíže, oni je pak mají.
+[03:58] Takže z tohoto pohledu, když se na to podíváme, tak se pokusíme
+[04:04] se k tomu postavit čelem, k těm jejich připomínkách.
+[04:08] Já tady nebudu rozvádět, jak vzniká zvuk, on o tom mluvil celkem
+[04:12] pan profesor Turánek, že je to nějaké kmitání částíc molekul vzduchu,
+[04:19] které samozřejmě se může přenášet jak na tekutiny, tak na tuhé látky
+[04:25] a jak tady bylo řečeno, v tekutinách a v tuhých látkách se to přenáší
+[04:29] daleko větší rychlostí.
+[04:32] Co se týká toho, kde se ten infrazvuk nachází, tak když se podíváte
+[04:39] na sluchové pole, tam máte na té podelné křivce frekvenci,
+[04:45] tak my vlastně slyšíme, lidský sluch je uspůsoben na vnímání frekvencí
+[04:51] od 20 Hz do 20 000 Hz.
+[04:54] To znamená 20 kHz a nejvyšší citlivost má asi mezi tisícem až 4 000 Hz,
+[05:03] protože tam máme takzvané řečové pole, to znamená, že se tam domlouváme
+[05:08] a všechny ty měřící přístroje, ty hlukoměry jsou nakalibrovány na tuto oblast,
+[05:13] takže když vám přijde někdo, nějaký odborník a měří vám hlukoměrem
+[05:17] infrazvuk, tak zákonně ti nic nenaměří, protože ten je vlastně kalibrován
+[05:22] na to, aby měřil.
+[05:24] To je v oblasti těch Hz, o kterých jsem mluvil.
+[05:27] A když se podíváme, jak vzniká ten infrazvuk, o tom mluvil pan profesor Turánek,
+[05:34] že tam vlastně ta vrtule se otáčí nějakou frekvencí, to znamená,
+[05:37] ty velké vrtule asi za 8 sekund se otočí jednou, to znamená,
+[05:44] to je frekvence asi 0,125 Hz a protože má 3 lopatky krátří, je 0,375 Hz
+[05:51] a z toho vypočítáme delku vlny.
+[05:53] A to je skoro kilometr.
+[05:55] Tak teďka se ptám, když dáme 500 metrů vzdálenost, vždy ta vlna,
+[06:00] jak by se mohla zeslabit, když má jeden kilometr.
+[06:03] Takže se ptám, jak je to teda, jak bude reagovat, jak budou odpůrci
+[06:10] těch větrných elektráren, které jsou v koalici, jak budou na toto reagovat,
+[06:15] na tuto situaci.
+[06:16] Vždyť těch 500 metrů je úplně směšné, i kilometr je v podstatě směšný.
+[06:20] Takže samozřejmě já nechci říkat, že...
+[06:24] Každý metr, který to odsuneme, je na nic, ale apeluji na zástupce koalici,
+[06:32] aby zásadním způsobem řešili tento problém, tuto problematiku.
+[06:41] A teď, když se podíváme na podpis té akustické vlny, to infrazvuku,
+[06:54] tak ono má nějaké své speciální charakteristiky, protože tam není,
+[06:57] tam je ten pík a ten pík vlastně se skládá z toho, že jsou tam nějaké
+[07:01] vyšší harmonické.
+[07:03] To znamená, že ten kmít, který tam proběhne, stlačí ten vzduch
+[07:07] a tam vzniknou výry a k těm výrům se přidají další pulzy na frekvencí,
+[07:14] které jsou násobkem toho hlavního pulzu.
+[07:16] Takže když to má třeba 1,5 Hz, tak další puls je 3 a tak dále.
+[07:23] To znamená, násobí se třemi, čtyřmi a tak dále.
+[07:26] A ten vlastně nese tu informaci o tom pulzu.
+[07:30] A to je vlastně to, kdy se to seskládá, ty pulzy,
+[07:34] v časovém průběhu, proč to tvoří takový pík.
+[07:40] No a teď se, když se podíváme na ty vlastnosti toho infrazvuku,
+[07:47] to už tady popisoval pan profesor, oni nejsou moc intuitivní ty vlastnosti,
+[07:53] ale chová se to tak, že v podstatě se to různě sčítá, odčítá, ohýbá
+[08:00] a šíří se to na velké vzdálenosti.
+[08:03] A kromě toho se to šíří nehomogenně,
+[08:05] protože jak to interferuje a rezonuje,
+[08:07] tak prostě v některých oblastech, hlavně v těch rezonančních dutinách,
+[08:11] mohou být oblasti, kde je nula
+[08:12] a někde, kde je prostě ta intenzita extrémně vysoká.
+[08:19] No a teď se dostávám k tomu syndromu větrné turbíny.
+[08:24] Na co teda útočí?
+[08:25] On útočí ten infrazvuk hlavně na naši centrální nervovou soustavu.
+[08:30] Z toho vyplývají ty problémy,
+[08:32] protože základním, si myslím, je porucha spánku
+[08:35] a z té poruchy spánku pak už vám vyplývá,
+[08:37] když se někdo nevyspí, tak asi, jakou má náladu,
+[08:40] jak se cítí, jaká je jeho psychická výkonnost,
+[08:44] jaká je jeho koncentrace.
+[08:46] No a k tomu ještě přibývají další problémy,
+[08:49] jak je tlak v hlavě, tlak v uších,
+[08:53] tlak na hrudi a působí to i na vystubulární aparát,
+[08:58] takže se tam objevuje nevolnost a závratě.
+[09:03] No a teď, jak to působí na ten mozek, si říkáte?
+[09:06] Takže, přiznám se, že asi není úplně jasně zatím zjištěno,
+[09:12] jakým způsobem to působí.
+[09:14] Podle toho, co já jsem si hledal, tak ty cesty jsou tří.
+[09:17] Působí to přímo na mozkové buňky,
+[09:20] a to není jen to, než se jenom neurony.
+[09:22] Působí to zprostředkovaně přes receptory a nervové dráhy
+[09:26] a působí to přes tévy.
+[09:31] To jsou možné příčiny vzniku těch obtíží.
+[09:35] Já jsem tady mluvil, nebo pan profesor,
+[09:37] co se hledá do té rezonancí.
+[09:38] Naše tělo je vlastně jakýsi výskoelastické prostředí
+[09:43] a ne homogénní.
+[09:44] My máme se vzpůsobu dutin, kosti
+[09:46] a jak vletí ta infrazvuková vlna do našeho těla,
+[09:51] tak ho celé rozkmitá.
+[09:53] A v některých dutinách dojde takzvané rezonancí.
+[09:56] To znamená, že tam vznikne tím,
+[09:58] že se to odráží od stěny té dutiny,
+[10:01] tak se ty vlny odražené střetnou s tou vlnou,
+[10:05] která směřuje do té dutiny,
+[10:07] a oni se sečtou a někde se odečtou
+[10:09] a ta dutina se rozrezonuje
+[10:11] a ono to pak působí jako zesilovač.
+[10:14] Takže teď samozřejmě vás napadne,
+[10:16] které máme dutiny,
+[10:17] tak je to samozřejmě dutina hrudní,
+[10:19] dutina břišní a dutina lebeční.
+[10:23] A co se týká té dutiny lebeční,
+[10:26] tak tam je zajímavé to,
+[10:28] že ten mozek má svou vlastní elektrickou frekvenci,
+[10:32] několik vln.
+[10:33] Ty vlny jsou alfa, beta.
+[10:35] Teta a delta.
+[10:38] A vlastně ty vlny pomalejší,
+[10:41] teta a delta,
+[10:42] tak ty se aktivují při hlubokém remspánku,
+[10:46] kdy vlastně my nejvíc relaxujeme a odpočíváme.
+[10:49] A mají frekvenci 8 Hz, círka.
+[10:53] A ty vlny, které vznikají v rezonanci s hlavou,
+[10:58] tak prostě některé z těch vln
+[11:01] mohou mít tu frekvenci taky těch 8 Hz.
+[11:04] Takže tam dochází ke kolizi,
+[11:06] to je jedna možnost,
+[11:07] jakým způsobem může se ovlivňovat ta remfáze spánku,
+[11:11] o které jsem mluvil.
+[11:14] A teď se podíváme na ty další možnosti.
+[11:22] Takže my vnímáme zevní prostředí receptory.
+[11:26] A my jsme těmi receptory v podstatě po seti.
+[11:31] A ty receptory jsou mnohé z nich založeny právě na tom,
+[11:38] že přenášejí mechanický pohyb,
+[11:43] na chemický signál.
+[11:46] A tady už cítíte, že ten infrazvuk vlastně tohle by mohl způsobit.
+[11:50] Já ji nebudu všechny ty receptory tady vyjmenovávat,
+[11:53] protože už je trochu tlačí čas.
+[11:56] Ale samozřejmě jsou to receptory,
+[11:57] které sluchový a sluchový orgán, vestibulární orgán,
+[12:01] receptory, které máme v kůžích, matové,
+[12:04] proprioreceptory, které máme ve šlachách, ve svalách,
+[12:07] ve svalech, v kloubech, v kostech, ve vnitřních orgánech.
+[12:12] A ty se přenášejí ty signály z těchto receptorů,
+[12:15] takzvaný aferentními drahami, do určitých částí mozku.
+[12:19] Do mozkového komene, kde se přepnou,
+[12:21] pak se přepnou do talamu, tam se všechny jaksi fůzují,
+[12:25] ty informace, on je analyzuje
+[12:26] a pošle je do limbického systému, do amygdaly.
+[12:31] A to je centrum, které je odpovědné za naši obranu,
+[12:35] abychom přežili ze ním prostředí.
+[12:37] A pokud ta amygdala to vyhodnotí, že jsme ohrožení,
+[12:40] tak spustí stresovou reakci, uteč nebo bojuj.
+[12:49] A přepne se ta amygdala do hypotalamu,
+[12:53] to už nás vědí, že je to někde pod tím talamem,
+[12:56] a přes aktivaci, jak o tom tady hovořil pan profesor,
+[13:01] hypofíza nadledvinkové dráhy
+[13:05] a přes sympatický nervový systém
+[13:07] se spustí ta stresová reakce,
+[13:10] která znamená zvýšený tak,
+[13:17] zvýšenou tepovou frekvenci,
+[13:19] zvýšenou frekvenci dýchání,
+[13:22] rozšíření vzorniček, pocení.
+[13:24] To je dobře, to je dobře, to potřebuje.
+[13:26] To je fajn, když je to akutní.
+[13:28] Jenomže v momentu, když jsme pořád bombardovaní
+[13:30] infrazvukem permanentně, hlavně v noci,
+[13:33] tak to přijde do stavu vyčerpání chronického stresu,
+[13:37] kdy samozřejmě ten organismus nechce ta amygdala,
+[13:40] aby člověk, který je ve stresu a hrozil,
+[13:42] že ho sežere nějaký predátor, aby spal.
+[13:44] Tak trpí nespávostí.
+[13:46] A z toho pak se odvíjí všechny ty problémy.
+[13:49] A co se týká toho působení kortizolu,
+[13:52] o tom taky tady mluvil pán profesor,
+[13:54] tak to nám vlastně zvyšuje hladinu glukózy,
+[13:58] mobilizuje nám metabolismus, potlačuje imunitu
+[14:01] a potlačuje jiné hormonální soustavy,
+[14:06] třeba ten rozmnožovací systém.
+[14:08] Tak to nechceme, že? To je špatně.
+[14:11] No a teďka se podíváme, jak je to zprostředkováno,
+[14:15] makromolekulárně.
+[14:17] Když se podíváte na ten obrázek,
+[14:19] nezdá se vám tam být něco podivného,
+[14:20] takové nějaké tří ose zařízení,
+[14:24] tak to je pohled na mechané receptor,
+[14:26] jmenuje se piezo 1, piezokanálek, z hora.
+[14:29] Tak to absolutně připomíná, to mě právě strašně zaujalo,
+[14:32] tu lopatku té větrné elektrárny.
+[14:34] A funguje to tak, to je páka, ono se to netočí.
+[14:37] To je vsazeno v té membráně buněčné.
+[14:41] A je to trochu prohlé.
+[14:44] Když není drážděn,
+[14:45] ten receptor.
+[14:47] A když jde mechanická síla,
+[14:49] třeba ta vláda na tu infrazvuku,
+[14:50] tak se to prohne,
+[14:51] to vchlípení se vyrovná
+[14:53] a ten kanálek se otevře
+[14:55] a průjde vápník dovnitř.
+[14:56] A ten vápník je signál pak pro tu buňku,
+[14:59] aby vykonala nějaké činnosti.
+[15:00] Třeba generovala depolarizaci
+[15:03] a signál nervový.
+[15:09] Ty pioze receptoru je v těle neuvěřitelné množství,
+[15:13] jsou téměř všude.
+[15:14] Padla za to Nobelová cena
+[15:16] v roce 2021
+[15:17] a pak to začaly vědci nacházet
+[15:20] ve všech částech těla.
+[15:21] Já se zmíním o,
+[15:23] hlavně piezo jedna mě zajímá,
+[15:25] protože to je vlastně ten cévní systém,
+[15:27] o kterém jsem mluvil,
+[15:29] kde vlastně podle
+[15:30] jedné vědkyně,
+[15:36] která se jmenuje Uršula Maria Beluc,
+[15:38] tak je vidět, že každá Uršula nemusí být pro nás hrozbou,
+[15:42] tak ta tvrdí,
+[15:44] že infrazvuk s určitými vlastnou frekvencí,
+[15:46] časový protrvání, tlak,
+[15:49] jak jsem tam popisoval ten charakter,
+[15:54] tak vytváří v tom laminárním průdění
+[15:57] nějaké stresové pole,
+[15:58] takové nějaké,
+[16:01] bych řekl, že se tam vytváří výry
+[16:03] a to atypicky dráždí
+[16:06] ty mechanoreceptory v té cévě
+[16:10] a vede to k tomu,
+[16:12] že je přetížen ta buněčná,
+[16:15] buněčný metabolismus,
+[16:18] vznikají tam radikály kyslíkové,
+[16:24] které jsou velmi reaktivní,
+[16:25] poškozují tu cévu,
+[16:26] ta céva stlušťuje,
+[16:28] vznikají tam ateroskleróza,
+[16:32] nedostatečně proudí krev do všech orgánů,
+[16:36] my se bavíme hlavně o mozku
+[16:38] a pak už se nám z toho vyplývají ty potíže,
+[16:41] kterými ty pacienti trpí,
+[16:43] to znamená bolesti hlavní,
+[16:44] závratě, únavy,
+[16:45] mluvil jsem o té fibroze,
+[16:49] ona tam nastává i fibroza srdce,
+[16:53] o tom nedávno vyšla taky velká studie věců z Mainzů,
+[16:59] no a už se blížím ke konci,
+[17:01] tak co je důležité,
+[17:02] tak já jsem tady nezmínil to zemětřesení,
+[17:05] možná to zemětřesení je jeden z důvodů,
+[17:08] proč my tak reagujeme na ten pluzní zvuk,
+[17:11] protože to zemětřesení má velmi podobný průbě,
+[17:14] jak ta elektrárna,
+[17:16] vzniká tam taky jako takové pluzně,
+[17:18] jak se to tře o sebe,
+[17:20] ty desky, při kterých vzniká to zemětřesení,
+[17:23] tak je možné, že nás ten organismus varuje,
+[17:26] a on nás varuje podvědomně,
+[17:27] to vůbec nejde přes mozkovou kůru.
+[17:29] No a teďka se ještě musíme uvědomit,
+[17:38] že ten výzkum pokračuje,
+[17:40] a není uzavřen.
+[17:43] Uznávám.
+[17:46] Dále bych chtěl říct,
+[17:47] že musíme vzít v úvahu to,
+[17:49] že ne všichni lidi jsou na to stejně citliví.
+[17:51] To znamená lidi,
+[17:52] staří, nemocní, děti, těhotné,
+[17:54] psychicky nemocní a podobně.
+[17:56] Ty jsou největším ohrožením.
+[17:58] Má to tvořit 30% lidí.
+[18:00] A poslední slide,
+[18:01] a ten je asi nejdůležitější ze všeho.
+[18:03] Vyzývám k tomu,
+[18:05] abysme ctili princip předběžné opatrnosti.
+[18:08] Dokud nebude uzavřen ten výzkum,
+[18:10] jak to je,
+[18:11] tak nemůžeme povolit přece stavbu
+[18:13] těch větrných elektrárn,
+[18:15] a nemůžeme obětovat ty lidi.
+[18:17] To, že se nás to netýká,
+[18:19] to přece není možné,
+[18:20] abychom obětovali část naší populace.
+[18:22] Za druhé,
+[18:25] musí být ty větrné elektrárny,
+[18:28] které už jsou postaveny,
+[18:29] případně se budou stavit,
+[18:31] musí být trvalé monitorovány.
+[18:33] Musí být monitorována intenzita
+[18:35] i kvalita toho infrazvuku
+[18:38] a musí to být monitorováno
+[18:40] jak zevně,
+[18:41] tak v uvnitř místnosti a trvalé.
+[18:43] Ale pozor, to ještě nestačí.
+[18:45] Musí to monitorovat nezávislé orgány.
+[18:48] Nemůžou to být orgány,
+[18:49] které jsou závislé,
+[18:50] na podporovateli Green Dealu
+[18:54] a na větrných baronech.
+[18:56] Takže to je základem té mé přednášky,
+[18:59] abych na to upozornil,
+[19:01] že pokud tohle nesplníme,
+[19:03] tak musím říct,
+[19:05] že nebo za to nebudeme bojovat,
+[19:07] tak ta má přednáška se minula účinkem.
+[19:10] Děkuji vám za pozornost.

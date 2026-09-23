@@ -1,0 +1,35 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Restart Cesko
+URL:          https://www.facebook.com/61586055215179/videos/943191652137728
+Datum videa:  2026-08-10
+Zpracováno:   2026-08-10 20:41:56
+Jazyk:        cs
+Délka:        00:00:28
+Zhlédnutí:    43 915
+Popis:        Co se to s naší společností děje?😞
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       6s
+Rychlost:     4.6x realtime
+Celkem:       10s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Dobrý den, můžu se zeptat, kde máte páníčka?
+[00:02] Zvířata nemůžou chodit venku bez páníčka v České republice.
+[00:06] Kde máte páníčka?
+[00:08] A kde je tvůj páníček?
+[00:10] Kdo je tvůj páníček?
+[00:12] Ale tady jsi v Praze, to nemůžeš bez něj.
+[00:14] No to je těžký o tom.
+[00:16] Tak že by jsi správně měl doutůku?
+[00:18] Tak doutůku má zavolat normálně od chytku zvířat.
+[00:22] Jsi aspoň vycvičenej, umíš zaštěkat na povel.
+[00:25] A pad, umíš?

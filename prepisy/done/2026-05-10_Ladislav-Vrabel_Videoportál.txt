@@ -1,0 +1,35 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1487689556182625
+Datum videa:  2026-05-10
+Zpracováno:   2026-05-10 18:30:08
+Jazyk:        cs
+Délka:        00:01:00
+Zhlédnutí:    56 953
+Popis:        Člověk si stěžuje policii, že jiný účastník demonstrace má v Den vítězství na veřejnosti na sobě nacistické symboly. Policie člověka chytne za obě ruce a vede ho směrem "nacista" a jak ho policisté pě
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       20s
+Rychlost:     2.9x realtime
+Celkem:       25s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Když jsou jsou náškové, tak se na ně podívejte, to vám nevadí, ale je propagace na to, že jste všichni.
+[00:12] Ty drahá, co mě uděláš? Ty jsi mě, ty drahá, co mě uděláš?
+[00:19] Jděte dál, jděte dál.
+[00:21] Vyhledá to jako ten konec.
+[00:27] Skvělí.
+[00:41] A tohle bude pro vás.
+[00:45] Ty drahá, co mě uděláš? Ty jsi mě, ty drahá, co mě uděláš?
+[00:49] Jsi mě, ty drahá, co mě uděláš?
+[00:54] Tohle vám je skvělé, v tomto třetí závěre.
+[01:00] Ty drahá, co mě uděláš? Ty jsi mě, ty drahá, co mě uděláš?
+[01:04] Ty drahá, co mě uděláš?

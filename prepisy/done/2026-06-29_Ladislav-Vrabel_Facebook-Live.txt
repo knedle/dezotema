@@ -1,0 +1,479 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1826203084827393
+Datum videa:  2026-06-29
+Zpracováno:   2026-06-30 23:40:44
+Jazyk:        cs
+Délka:        00:31:42
+Popis:        29. 6. 2026 Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    21s
+Přepis:       8m 41s
+Rychlost:     3.6x realtime
+Celkem:       9m 2s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:58] Váši přátelé, vítám vás u zpráv v devět s komentářem.
+[03:03] Dneska je 29.6. roku 2026 a první zpráva bude dneska ode mě je Horko.
+[03:11] Další zprávy budou od Zuzky. Zuzko, hezký večer.
+[03:14] Hezký večer, já mám taky horké zprávy.
+[03:17] Taky, tak pojďme na to.
+[03:22] Benátská komise ve čtvrtek navštíví Maďarsko, aby posoudila ústavní dodatek,
+[03:27] který by odvolal prezidenta Tomáše Šujoka z funkce.
+[03:31] Prezident i vláda premiéra Petra Maďára uvedli, že jsou otevření rozhovorů s delegaci.
+[03:40] Ta Benátská komise je, jmenuji pro informaci,
+[03:45] Benátská komise je poradní orgán Rady Evropy pro ústavní právo
+[03:51] a podporu demokracie lidských práv a právního státu.
+[03:56] Benátská komise je, to už jsem říkala, demokracie. Ano, všechno.
+[04:02] No tak to si říkám.
+[04:03] Řekla všechno.
+[04:06] Maďarský premiér chce odvolat prezidenta
+[04:08] a samozřejmě je to poměrně zásadní krok ve vládě,
+[04:14] protože demokracie, jak bychom se xkrát o tom bavili,
+[04:18] minimálně teda ta zastupitelská demokracie,
+[04:21] která je u nás postavená na třech základních pilířích,
+[04:24] na moci zákonodárné, na moci výkone a na moci soudní.
+[04:29] To znamená, v zemi musí být nějaká stabilita,
+[04:32] aby nikdo neměl totalitní moc.
+[04:34] To znamená, i když lidi volí vládu, tak to neznamená,
+[04:37] že vláda má absolutní moc, ale pořád je tady soud,
+[04:40] který dolíží na to, aby se respektovaly zákony.
+[04:44] A je tady zákonodárná moc, to znamená parlament plus prezident,
+[04:50] protože to je celá zákonodárná moc.
+[04:52] A ta zákonodárná moc přijímá ta pravidla.
+[04:56] Takže parlament, to znamená poslanecká sněmovna plus senát plus prezident,
+[05:00] ta zákonodárná moc přijímá.
+[05:02] A pravidla pro fungování společnosti vláda je vykonává
+[05:05] a soud dohlíží na to, aby byla vykonávána na základě zákona.
+[05:13] A to je zastupitelská demokracie.
+[05:15] Proto nemůže vláda dělat všechno, co si zlíbí,
+[05:18] proto nemůže prezident dělat všechno, co si umane,
+[05:21] proto nemůže soud dělat všechno, co si umane.
+[05:23] Je tam nějaká takováhle, řekněme, stabilita.
+[05:26] A Evropská komise, pardon, Evropská rada má poradní orgán,
+[05:31] který není součástí.
+[05:32] Evropská unie, je to poradní orgán při Evropské radě,
+[05:36] Brnácká komisa, a ta se pojede podívat do Maďarska,
+[05:39] jestli může současná vláda odvolat prezidenta,
+[05:45] což mě připadá na úsoudně absurdní,
+[05:48] že prostě Petr Maďar se staví do pozice diktátora,
+[05:51] hned když byl zvolený, tak kdyby prezidentovi jak raději odstoupí,
+[05:55] nebo že ho odvolají, tak jsem zvědavý, jak se na to Evropská rada
+[05:59] nebo respektive Brnácká komisa,
+[06:01] pod později Evropská unie, bude koukat.
+[06:06] To jsem taky zvědala.
+[06:07] Tisková služba běloruského prezidenta úřadu potvrdila,
+[06:11] že hlava státu, Aleksandr Lukašenko, se vydal na rozsáhlou diplomatickou cestu
+[06:15] po východní a jihovýchodní Ázii.
+[06:19] Vrchní utajení kolem osy Moskva-Minsk vyvolálo v západních
+[06:24] spravodajských službách plnou poplachu a konspiračních teorií.
+[06:29] Běloruský prezident Aleksandr Lukašenko po dvoudením jednání
+[06:32] s Vladimirem Putinem.
+[06:33] Neodletěl zpět do Minsku, ale vydal se na cestu po Ázii.
+[06:37] Uzavřené jednání ve Valdaji proběhlo bez tiskových konferenci
+[06:40] a veřejných prohlášení, což také vyvolálo řadu spekulací.
+[06:44] Podle ruských zdrojů může být hlavním cílem cesty Peking
+[06:48] a jednání s čínským prezidentem Xi Jinpingem, což se potvrdilo.
+[06:52] A spravodajské analitické kruhy spekulují, že Moskva a Minsk
+[06:55] mohly koordinovat další kroky související s válkou na Ukrajině,
+[06:59] včetně možné hlubší role Běloruska nebo zajištění
+[07:03] finanční, technologické a logistické podpory.
+[07:08] Tak Ukrajina vyhrožovala Bělorusku válkou, takže běloruský prezident
+[07:14] teď nednal s Vladimirem Putinem a Xi Jinpingem.
+[07:18] Je to asi taky spojené s tím, že se nám tady stala taková proměna
+[07:23] za těch posledních několik týdnů, že rusové přestali doufat
+[07:27] v ten takzvaný duch Ankoryč.
+[07:29] Spojené státy, pojednání G7, jak všichni říkají,
+[07:32] stojí na straně G7 a Ukrajiny a začalo se velmi tvrdě útočit
+[07:38] hluboko do ruského území.
+[07:42] To znamená, ruská federace musí teď přehodnocovat svůj postup,
+[07:46] protože pak, když by se nezměnil ten postup, tak by ruská federace
+[07:51] prostě mohla být nakonec zničená zevnitř.
+[07:56] To je to, co taky řekl Vladimír Putin.
+[07:59] Teď, že západu se nedaří zlomit Rusko nebo porazit Rusko
+[08:05] na bytovním poli, tak se ho snaží rozložit zevnitř.
+[08:08] Promovali jsme o tom v posledních týdnech několikrát,
+[08:11] takže to není věc, kterou by bylo potřeba rozebírat dál.
+[08:15] To, co je tady samozřejmě nebezpečný pro nás, pro NATO,
+[08:18] je, že se vydává běloruský prezident na cestu do Číny a do Ruska
+[08:25] a evidentně to vypadá, že se bude nějakým způsobem domluvat
+[08:29] další věci.
+[08:29] Další postup, který bude fungovat jiným způsobem.
+[08:31] Maria Zakharová taky dneska večer vydala prohlášení
+[08:36] a v něm mimo jiné zmínila, že by si měly zbystřit továrny,
+[08:43] které vyrábějí zbraně pro útoky na Ruskou federaci.
+[08:46] Takže Rusové nikdy nemluví jen tak zbůdarma.
+[08:51] V České republice se zbraně vyrábí i v dalších státech Evropy,
+[08:55] takže bohužel ten konflikt se nám rozvíjí.
+[08:58] Čili se nám rozvíjí ne úplně příjemným směrem.
+[09:08] Určit konec plynu je absurdní.
+[09:10] Zaskočí, až nebude foukat a svítit.
+[09:13] Míní šéf energetiku.
+[09:15] Na poslední valné hromadě ČES se Jozef Kotrba,
+[09:18] nezávislý odborník působící roky energetického sektoru,
+[09:22] stal jedním z nových členů dozorčí Rady společnosti bez ČES.
+[09:26] Si českou energetickou soustavu nelze představit, zúraznuje.
+[09:31] Zas vás energetiky České republiky s nově nastavenými
+[09:35] změnami taryfní struktury souhlasí,
+[09:38] i když má výhrady k detailům.
+[09:39] Nicméně základní princip, že každý by měl platit
+[09:42] za náklady, které v električní soustavě vyvolávají
+[09:46] zdraví a spravedliví, říká v rozhovoru pro i Nes Premium.
+[09:51] Myslím si, že tady ten pán šéf ČESu,
+[09:54] nebo je šéf ČESu, Zuzko, nebo?
+[09:58] Nezávislý odborník, který byl zvolen do dozorčí rady.
+[10:03] A do dozorčí rady.
+[10:04] Myslím, že to říká správně, protože podívejte se na ta vedra,
+[10:07] která tady jsou poslední dny.
+[10:10] To jaro bylo velmi chladné, najednou takováhle brutální vedra.
+[10:13] Podívejte se někde na Prachaticku, dneska takovýhle kroupy padaly.
+[10:17] Takže počasí je nevyspytatelné.
+[10:20] Nechci tady šířit žádné konspirační teorie,
+[10:23] ale myslím si, že takovéhle kroupy budou pravděpodobně
+[10:26] taky ovlivněné chemtrails, které se sypě do oblak,
+[10:29] které vytváří ta zrnka okolo, kterých se potom kondenzuje led.
+[10:36] Myslím si, že to taky může být spojené s nějakými těmi různými harpy
+[10:41] a různými ovlivňováními počasí ze strany amerických armádních složek.
+[10:47] Když se na to podíváme, tak my si nemůžeme být vůbec jistí tím,
+[10:51] jaké to počasí bude.
+[10:52] Pravděpodobně bude čím dál tím víc vrtkavé.
+[10:56] Může se stát, že třeba taky delší dobu nemusí svítit sluník.
+[10:59] Možná třeba taky i v souvislosti s tím, že se mluví poslední měsíce
+[11:05] o odstíněvání slunce pomocí látek, které připomínají sopečný výbuch,
+[11:12] aby se víc odstínělo slunce kvůli oteplování.
+[11:14] Takže prostě nikdy nevíme, co se může stát, jak to bude se sluníčkem,
+[11:19] kolik bude svítit.
+[11:20] Naše energetická soustava se převádí, aby byla závislá
+[11:23] na německé energetické soustavě, která se chystá vybudovat
+[11:26] tisíc gigawatt v solárech.
+[11:29] Tak je to s větrem, my prostě nevíme, kolik bude foukat,
+[11:33] jestli bude foukat málo nebo moc, jestli nám bude foukat dostatečně.
+[11:37] Takže bohužel v tomhle stomě potřeba souhlasit tady s pánem
+[11:41] z dozorčí Rady Česu. Česká republika jde špatným směrem,
+[11:45] co se týče energetiky. Energetická soustava má být stabilní,
+[11:48] vyvážená a bohužel od toho odcházíme.
+[11:53] No a děláme všechno správně.
+[11:55] Finská ministrině zahraničí Elina Avaltonen uvedla,
+[11:59] že čas na politická jednání s Ruskem ještě nenastal,
+[12:03] protože Moskva podle ní nadále usiluje o podřízení Ukrajiny.
+[12:07] Zdůraznila, že Evropa nesmí hledat mír za každou cenu
+[12:11] a měla by pokračovat v tlaku na Rusko.
+[12:14] Rusko skutečně nechce mír, protože odmítá všechny kompromisy
+[12:17] a neudělalo žádné ústupky. Zároveň taky podpořila
+[12:21] posilování obraných kapacit spojenců a varovala před návratem
+[12:26] ke starým vztahům s Moskvou.
+[12:28] Podle ní bude Finsko pokračovat v politice odstrašování
+[12:32] vůči ruským hybridním hrozbám.
+[12:35] Tak můj názor znáte, můj názor je takový,
+[12:38] že ty staré vztahy s Moskvou byly mnohem lepší než ty dnešní,
+[12:41] protože dneska jsme ve válce s Moskvou.
+[12:43] A položme si jednu otázku. Pani tady z Finska říká,
+[12:47] že nechce, aby se jednalo vůbec s ruskému míru.
+[12:52] Mě by jenom zajímalo, kde tyhle váleční štváči si myslí,
+[12:55] že ten konflikt skončí.
+[12:56] Že Rusko dobije Donbass a tam to skončí?
+[13:02] No neskončí, protože Evropa neustále zbrojí,
+[13:04] nesouhlasí s kým a chce dobít ta území zpátky.
+[13:08] A jakým způsobem si myslí, že může dobít ta území zpátky,
+[13:11] ten náš skvělý západ?
+[13:12] Podívejte se, tady se rozahrává třetí světová válka
+[13:16] a mezi tím náš národ, ohlupený těmi médii,
+[13:19] které dělají ne zprávy, ale propagandu,
+[13:21] tak si nevšímají toho, co se bude ve skutečnosti dít na samitu NATO.
+[13:25] Tam vůbec nejde o to, jestli na samit NATO pojede Petr Pavel nebo nepojede,
+[13:29] vůbec nejde o to, jestli povede samit NATO Andrej Babiš nebo Petr Pavel.
+[13:35] To od celé skutečnosti jde, když už tedy Česká republika,
+[13:38] bohužel je součástí NATO a je zatažená do toho konfliktu,
+[13:43] tak jakým způsobem bude hlasovat a vyjadřovat se k těm třem základním otázkám,
+[13:47] které se budou řešit na samitu NATO.
+[13:50] První z nich je 70 miliard ročně,
+[13:53] poskytovaných Ukrajině na zbraně.
+[13:57] To je něco, co nás každýho bude stát spoustu peněz
+[14:01] a díky tomu prostě naše životy budou dražší
+[14:05] a nebudeme si moc dovolit to, co jsme si mohli dovolit doteď.
+[14:09] Hlavně ten konflikt bude pokračovat dál, dál budou zabíjení lidé.
+[14:12] Další věc, která se tam bude řešit, je vstup Ukrajiny do NATO.
+[14:16] Pak, když se vstoupí Ukrajina do NATO, tak jsme okamžitě ve válce s Ruskem.
+[14:19] V plnohodnotné válce, protože zatím se ta válka sice je mezi NATO
+[14:23] a Ruskem, ale probíhá pouze na území Ukrajiny a Ruska.
+[14:26] V okamžiku, kdy vstoupí Ukrajina do NATO, tak bude ta válka
+[14:30] pravděpodobně po celém území NATO.
+[14:32] A třetí věc, která se tam bude řešit, pravděpodobně,
+[14:36] protože samozřejmě nikdo nám neřekne, co se tam bude řešit.
+[14:38] My musíme se dozvídat z různých alternativních zdrojů,
+[14:41] protože naše vláda místo toho, aby nám řekla naše média,
+[14:44] místo toho, aby se ptala vlády, co se tam bude řešit,
+[14:47] aby se ptali Marka Ruteho, co se bude řešit na samitu NATO.
+[14:50] Tak řeší od rána do večera, kdo povede českou delegaci,
+[14:54] kdo tam pojede a kdo se mezi sebou hádá.
+[14:56] Ale třetí věc, která se bude řešit stoprocentně na samitu NATO,
+[14:59] je vyzbrojování jadernými zbraněmi.
+[15:02] A tady už to řekl prezident Pavel v březnu,
+[15:05] že chce, aby se Česká republika vyzbrojila jadernými zbraněmi.
+[15:08] A v květnu nebo v červnu to potvrdil Andrej Babiš,
+[15:11] že také chce, aby se Česká republika vyzbrojila jadernými zbraněmi od Francie.
+[15:15] Takže to jsou tři věci, které naprosto jasně ohrožují naše životy,
+[15:20] které se tam budou projednávat. A to je důležité.
+[15:23] V souvislosti s tím mě by zajímalo, jak dlouho si myslí naše vlády,
+[15:28] že bude trvat, než rusové zautočí na naše země.
+[15:39] No, Evropská unie diskutuje o další možnosti poskytnout Ukrajině nový úvěr
+[15:44] ve výši 30 až 45 miliardů eur.
+[15:47] V případě, když pokračování konfliktu po roce 2027.
+[15:52] Vyhlásil to předseda výboru pro parlamentní spolupráci Ukrajina-Evropská unie
+[15:57] pro tavery Izvestia.
+[16:00] Možná už dneska lidi začnou chápat to, proč jsme před volbami říkali,
+[16:04] že jediná možnost, jak zachránit Českou republiku, je vystoupit z Evropské unie a z NATO.
+[16:08] Všechno ostatní je prostě kačer donát. Pohádka.
+[16:15] Další penízky. No, potřebuji další penízky.
+[16:17] Ruské ozbrojené síly provedly údery na logistické a vojenské objekty
+[16:23] ukrajinské armády. V důsledku zpravodajských operací
+[16:26] ruská armáda zjistila, že komplex Megasklad v Charkově je využívan
+[16:31] k přepravě a stadovaní zbraní bezpilotních letounů dlouhého doletu
+[16:36] a jejich součástí. Ukrajinský režim plánoval použít drony uložené v Megaskladu
+[16:43] k úderům hluboko na ruské úzamy. Zasaženy byly také plínové
+[16:48] a základní základy.
+[16:48] A palivové objekty v Charkovské a Kirovohradské oblasti
+[16:53] a velitelské stanoviště v jednotě elektronického boje u Nikopolu.
+[17:01] Další videa tam máme ještě, protože rusové taky zautočili na živou sílu.
+[17:09] Ano, ano, ano. Posádka vícenásobného raketometu Grad zničila dočasné
+[17:14] stanoviště živé síly ukrajinských síl v Dněpropetrovské oblasti.
+[17:19] Mělo by to video.
+[17:20] No, podívejte se, jakým způsobem, jaký ohromný pole, jak útočí.
+[17:25] A to nejsou útoky na továrny, to nejsou útoky na ropné, na rafinéry
+[17:32] nebo na ropné sklady, to nejsou útoky na zbraně, tohle jsou útoky na lidi.
+[17:36] Tak jenom, my nepouštíme často takhle brutální záběry, ale chtěl jsem vám jenom
+[17:40] tohle z toho ukázat, protože uvědomte si, že dneska Marie Zacharová
+[17:45] mluvila o tom, že by měly dávat pozor tam, kde vyrábí zbraně, které jsou
+[17:50] používané proti Ruské federaci a rusové útočí na lidi.
+[17:55] Totec to byl několikanásobný útok na živé síly.
+[18:08] Lotyš z Koplánu je společně s Ukrajinou vybudovat závod na výrovu dronů
+[18:13] v přihraniční oblasti u Ruska a Běloruska.
+[18:17] Podle premiéra Andrea Kulbergse má projekt posílit obrané schopnosti země
+[18:23] a přinest investice i nová pracovní místa.
+[18:26] V součástí spolupráce má být také sdílení Ukrajiny
+[18:29] z krajinských zkušeností s bezpilotními technologiemi.
+[18:33] Lotyšské úřady zároveň oznamily, že během léta rozměstí podle hranic
+[18:38] systémy proti dronům a posilí vojenskou přítomnost v regionu.
+[18:43] To budou mít Rusové určitě radost, že budou stavět u ruských hranic
+[18:47] takovýhle výrobny, mně jenom k tomu napadá jedna věc.
+[18:53] U nás máme také politiky, který neustále mluví o tom,
+[18:56] že je potřeba vyrábět drony a vyrábět další munici.
+[18:59] Někde u písku má být nějaká největší továrna na drony postavena.
+[19:06] Tady je taky taková zajímavá zpráva.
+[19:13] Na internet unikly interní záznamy ze soukromé sítě Dialog,
+[19:17] kterou založil technologický investor Peter Thiel.
+[19:20] Podle zveřejněných informací dokumenty obsahují jména více než 200 účastníků
+[19:25] z oblasti politiky, biznesu a technologického sektoru.
+[19:29] Media uvadějí, že data nebyla získána hackerským útokem,
+[19:33] ale kvůli chybně...
+[19:35] zabezpečenému systému.
+[19:38] Unik vyvolal otázky kolem bezpečnosti a ochrany informací,
+[19:42] přičemž podle dostupných zpráv byl zahájen bezpečnostní přeskum.
+[19:47] Tak tady by hlavně lidi měli spozornět nad tím,
+[19:50] jakým způsobem jsou tady tajné organizace,
+[19:53] protože my se tady bavíme o tom, že žijeme v zastupitelské demokracii
+[19:57] a že o našich životech rozhodují lidé, které si lidi zvolili.
+[20:01] Tak zaprvé samozřejmě to není úplně pravda,
+[20:03] třeba v případě SPD.
+[20:05] Lidi volili ty kandidáty, kteří jezdili na mítingy
+[20:08] a SPD potom do funkce ministra obrany.
+[20:11] Namísto jednoho z těch kandidátů z SPD poslalo Jarmíra Zunu,
+[20:15] který tam dělá globalistickou, řekněme, vojenskou agendu.
+[20:19] Ale pořád ještě aspoň se ví, že Jarmír Zuna je ministrem.
+[20:24] Ale tady, co se týče této skupiny Petra Thiela,
+[20:28] tak to je 200 vlivných lidí, kteří se scházejí a rozhodují o našich životech,
+[20:32] aniž bychom věděli, kdo to je.
+[20:34] To nemá s demokracií co dělat.
+[20:36] A Petr Thiel, pokud někdo neznáte Petra Thiela,
+[20:39] Petr Thiel je jeden z lidí, kteří založili PayPal spolu s Elonem Muskem.
+[20:43] To je jeden z tzv. PayPal mafiák.
+[20:47] Oni si o sobě řekli, jak se té hry vyfotili.
+[20:50] Ale Petr Thiel je taky člověkem, který stojí za J.D. Vancem.
+[20:55] J.D. Vance pro něj pracoval.
+[20:57] A Petr Thiel je největším sponzorem J.D. Vance, amerického víceprezidenta.
+[21:01] A Petr Thiel je také člověkem,
+[21:03] který řídí Palantir, technologickou společnost,
+[21:07] která v podstatě dělá sledování a vyhodnocování možných útoků,
+[21:13] třeba mimo jiné sledování lidí ve Spojených státech,
+[21:19] v Británii a v dalších místech a vyhodnocování útoků.
+[21:22] Je to taková technologie, která pracuje s umělou inteligencí,
+[21:27] která třeba, když potřebujete někde zjistit, jaké je tam riziko,
+[21:31] jaké tam mají zbraně, jakým způsobem eliminitujete,
+[21:34] eliminovat ty zbraně, tak zadáte tomu Palantiru tadyhle ten úkol
+[21:39] a on vám vyhodnotí na základě umělé inteligence,
+[21:42] kde jsou nejbližší zbraně, jak je použít a může ten operátor
+[21:47] vydat i pokyn, aby právě Palantir zlikvidoval třeba ty cíle někde.
+[21:52] Takže to je člověk, který stojí za tím lidským, za Palantirem.
+[21:56] A Palantir je firma, která má, za prvé je to velká firma,
+[22:01] která má obrovské dohody.
+[22:03] Samozřejmě.
+[22:04] S lidskou armádou.
+[22:06] Takže to je člověk, který je podle mého názoru velmi nebezpečný,
+[22:10] velmi vysoko postavený.
+[22:12] Jak už jsem řekl, stojí za víceprezidentem Spojených států
+[22:15] a víceprezident stojí za ním.
+[22:17] A ten vytváří takovouhle tajnou skupinu.
+[22:19] Teď to uniklo na světlo boží, která řídí naše životy,
+[22:24] která vyrábí jedna z těch skupin, která vyrábí ty strategie pro to,
+[22:28] jak se mají vést, jak se má vést politika, boj a ekonomika.
+[22:36] Tady jsem si dovolala jednu takovou zprávičku.
+[22:39] Při té hrůzejí dobré zprávy záchranaři vytáhli devítiměsíční dítě
+[22:43] a jeho matku ze sutin z říceniny budovy způsobené zemětřesením ve Venezuele.
+[22:49] Super. Dobrá karma.
+[22:51] Dítě je matka. Jsem rád, že ho vytáhli.
+[22:54] 70 tisíc se tam pohřešuje.
+[22:56] Tisíc a půl lidí je mrtvých.
+[22:58] Můžeme jen spekulovat, proč zrovna Venezuela má takové obrovské zemětřesení.
+[23:03] Mně připadá poslední roky,
+[23:05] když se objevují zemětřesení nebo nějaké takovéhle katastrofy,
+[23:08] že to velmi často bývá nějakým způsobem spojené s politikou.
+[23:11] Ale možná, že to tam jenom hledám.
+[23:13] Možná, že to je náhoda, že zrovna ve Venezuele bylo takovéhle zemětřesení.
+[23:20] Izraelský premiér Benjamin Netanyahu vyzval amerického prezidenta Donalda Trumpa,
+[23:25] aby zastavil případný prodej stíháček F-35 v Turecku.
+[23:30] Svou výzvu zdůvodnil výroky tureckého prezidenta recepta Erdogan,
+[23:36] které Izrael považuje za hrozbu.
+[23:39] Proti možné dohodě se postavila také skupina amerických zákonodarců.
+[23:43] Ti varuji, že turecké vlastnictví ruského systému protivzdušné obrany S-400
+[23:48] by mohlo představovat bezpečnosti, riziko pro citlivé americké vojenské technologie.
+[23:54] Komentovali jsme to také zrovna minulý týden,
+[23:57] jak zásadní a zvláštní pozice je právě Turecka,
+[24:01] protože Turecko je sice součástí NATO, má druhou největší pěší armádu v NATO,
+[24:06] ale na druhou stranu, nebo největší snad dokonce,
+[24:10] tak nevím, jestli největší nebo druhou největší,
+[24:12] ale to, co je zajímavé, je, že Turecko má velmi dobré vztahy také s Ruskem.
+[24:17] A jak vidíte, tak zrovna to, co jsme komentovali minulý týden,
+[24:21] tak najednou se to přetřásá i veřejně, že by Američané neměli dodávat americkou technologii,
+[24:25] protože to Turci můžou předat potom Rusům,
+[24:28] aby mohli to použít k lepšímu vybavení svých strojů.
+[24:33] A víc k tomu, nevím, co bych k tomu víc mohl říct, zajímavá věc.
+[24:37] Estonsko tvrdí, že občasný ukrajinský dron vstupující do vzdušného prostoru NATO je cená,
+[24:46] kterou stojí za to zaplatit za škody, které kievské útoky dlouhého dosahu způsobují Rusku.
+[24:53] Minister zahraničí Margus Cahnka prohlásil, že ukrajinské útoky oslabují ruskou ekonomiku
+[25:00] a vojenskou infrastrukturu. Odmítli obvinění Kremlu
+[25:04] za zapojení balckého moře a varoval, že Evropa by neměla jednat jako prostředník přímírových jednání.
+[25:12] Tak Markus Cahnka je jeden z největších nácků, který v Evropě v politice máme v současné době.
+[25:18] A mě by zajímalo, kde si pan Cahnka myslí, že jako,
+[25:23] jestli tohle za to stojí, pár přelet, pár dronů přes území,
+[25:27] tak co ještě stojí za to, že můžou Ukrajinci útočit hluboko do ruského území.
+[25:32] Jestli až jim vybombardují,
+[25:34] že budou nějaký továrny a zemře tam pár stovek lidí,
+[25:37] jestli to ještě pořád za to bude stát.
+[25:39] Jestli až třeba jim zbombardují nějaké stanoviště vojenské, velitelské, armádní složky,
+[25:45] jestli to za to bude stát.
+[25:47] Nebo jestli až budou kobercově bombardovat jeho zemi rusové,
+[25:51] jestli to ještě pořád bude stát za to, že můžou útočit hluboko do ruského území.
+[25:55] Nebo až přiletí nějaký oriešník s jadernou bombou na jejich území,
+[25:59] jestli ještě pořád bude říkat, že to za to stálo,
+[26:01] že mohli útočit hluboko do ruského území.
+[26:04] Mě by zajímalo, kde se to zastaví, ta nenávist proti rusů.
+[26:08] Kde to má hranice?
+[26:14] Irán pripožádal o nové setkání s vysokými představiteli Spojených států,
+[26:19] uvedl Donald Trump pro Fox News.
+[26:21] Televizní společnost uvádí, že Trumpovi důvěryhodní vyjednávači,
+[26:26] Jared Kushner a Steve Vitkov, odcestují do katarského hlavního města Doha
+[26:32] již tento týden.
+[26:33] Zde se prý uskuteční další kolo technických jednání o implementaci,
+[26:37] ustanovení memoranda a porozumění mezi USA a Iránem.
+[26:41] Donald Trump na své stránce na True Social napsal,
+[26:46] že setkání Kushnera a Vitkova se zastupcí Iránu se uskuteční zítra,
+[26:51] to je z 30. června.
+[26:54] A dneska máme pondělí, který bude jednání.
+[26:59] Ve čtvrtek Donald Trump oznámí, že hormonský průliv je otevřený.
+[27:03] V pátek.
+[27:04] V pátek padne cena ropy dolů.
+[27:06] A ten příběh už znáte.
+[27:08] Pojďme na další zprávu.
+[27:10] Osm set padesátý díl.
+[27:13] Osm set padesátý devátý, abych byl přesný.
+[27:16] Americký minister zahraničí Marco Rubio se ve Washingtonu setkal
+[27:20] s německým ministrem zahraničí Wadem Fulem.
+[27:24] Ministerstvo zahraničí dříve oznámilo, že na pořadu jednání
+[27:28] je situace kolem Ukrajiny a Iránu stejně jako příprava na nadcházející samit NATO,
+[27:33] který se bude konat začátkem července v Ankáře.
+[27:37] Takže...
+[27:40] To je taky, že jo, to je ten minister zahraničí Wadem Fulem,
+[27:43] který pozval osmého května na den konce druhé světové války
+[27:48] našeho ministra zahraničí Macinku.
+[27:50] Ten zhradostí přijal v tohleto zvláštní speciální datum,
+[27:54] že může jíst do Německa.
+[27:56] Tam s ním jednal a potom minister zahraničí Wadem Fulem odjel do České republiky,
+[28:00] konkrétně do Brna, kde byl čestným hostem,
+[28:03] kde byl čestným hostem Sudeto Německého Landsmannschaftu
+[28:06] a hned potom do Prahy, nebo nevím, jestli se v Brně zastavil,
+[28:09] ale byl čestným hostem Sudeto Německého Landsmannschaftu,
+[28:12] nevím, jestli v Brně, ale rozhodně v Německu, ano.
+[28:15] Za současným propadem akcí zbrojařských firem
+[28:19] je jejich přestřelený předchozí růst a spekulace
+[28:23] o konci války na Ukrajině.
+[28:25] Vyplývá to z ankety ČTK mezi analytiky.
+[28:28] Budoucí vývoj bude podle nich záležet především na geopolitické situaci,
+[28:33] konkrétně například i na výsledku červencového jednání NATO v Ankaře.
+[28:38] Tak, dokážu si tipnout, jak v červenci poletí ceny akcí zase nahoru,
+[28:44] protože před tím summitem NATO si na to budou cházet lidi,
+[28:47] kterým je lhostejný, kterým jsou lhostejný lidský životy,
+[28:52] ale budou podporovat finančně tyhle zbrojařské firmy.
+[28:55] Na summitu NATO se dohodnou obchody za desítky, možná stovky miliardů dolarů,
+[29:00] takže ty ceny samozřejmě poletí nahoru.
+[29:03] O těch, o těch...
+[29:04] v biznisech se bude informovat veřejně, takže o tom se bude vědět,
+[29:08] takže lidi zase začnou nakupovat ty akcie,
+[29:10] takže to, že má dneska Michal Strnad propad akcí 50%,
+[29:13] to je miho samozřejmě líto, ale nemusí se bát, ono to zase půjde nahoru.
+[29:17] A uvidíme, jak dlouho to bude trvat, protože jednoho dne se to otočí,
+[29:22] jednoho dne ty zbrojovky budou zničený, jednoho dne budou vyhozeny do povětří,
+[29:26] ztratí veškerou hodnotu a ty lidi, který jsou vlastníci těch zbrojovek,
+[29:31] tak se budou snažit schovávat v Brazílii nebo v Argentině.
+[29:35] NATO ve spolupráci s Kyjevem připravuje vytvoření zbraní
+[29:40] určených k útokům na ruské letecké základny, včetně těch,
+[29:44] které se nacházejí hluboko ve vnitrozemí země,
+[29:47] uvedla mluvči ruského ministerstva zahraničí Maria Zakharová.
+[29:51] Kyjev zesiluje snahy zatáhnout NATO do přímého ozbrojeného konfliktu s Ruskem,
+[29:57] aby zachránil svou bezvýchodnou situaci, dodala.
+[30:01] Dekontrolované,
+[30:02] jednání NATO a Kyjeva dává ruské armádě důvod,
+[30:06] aby zvýšila pozornost vůči podnikům,
+[30:09] které vyrábějí zbraně používané proti Rusku.
+[30:12] Myslím, že jsi to nějak zmiňoval.
+[30:14] Ano, to jsem komentoval.
+[30:16] Jestli někdo pracujete v nějaký továrně,
+[30:19] kde se vyrábí zbraně, které jsou používané proti Rusku,
+[30:22] tak dávajte zvýšenou opatrnost na to,
+[30:24] jestli chodíte do práce nebo ne.
+[30:29] No a to byla ode mě poslední zpráva.
+[30:32] Výborně, tak dneska jsme to zpěhli.
+[30:34] 30 minut, 40 vteřin.
+[30:36] Přátelé, přejeme vám hezký zbytek dnešního paní.
+[30:39] Ne, ještě tam je to www.
+[30:44] Aha, udělali jsme pro vás facebookovou stránku
+[30:47] Zprávy v 9 s komentářem.
+[30:49] Tadyhle ji máte.
+[30:51] Tady jsem vám ji dal teď do komentáře,
+[30:53] kde se vám zobrazuje,
+[30:55] takže pokud byste tam chtěli zajít,
+[30:57] pozvat tam lidi,
+[30:59] tak my tam dáváme zprávy i průběžně přes den.
+[31:01] Takže budeme rádi, když tu stránku podpoříte,
+[31:03] aby se dostali.
+[31:04] Budeme tam dávat zprávy
+[31:06] a videa, které překládá Tonda
+[31:08] s titulkama
+[31:10] a začneme tam taky vysílat
+[31:12] na téhle stránce,
+[31:14] takže pokud vás ta stránka zajímá
+[31:16] a chcete pomoct tomuto projektu,
+[31:18] tak samozřejmě se tam přihlašte
+[31:20] a rozlište to svým známým
+[31:22] a můžete sdílet z téhle stránky.
+[31:24] Za mě to je dneska všechno, přátelé.
+[31:26] Dneska jsme se vešli skoro do půl hodinky
+[31:28] a zítra se uvidíme v 9 hodin.
+[31:30] Krásný noček všem.

@@ -1,0 +1,1617 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/2079313829643035
+Datum videa:  2026-09-13
+Zpracováno:   2026-09-14 19:15:09
+Jazyk:        cs
+Délka:        01:01:01
+Popis:        Ceny pohonných hmot a plynu opět rapidně stoupají. Odstřihli jsme se od Ruska a máme, co jsme chtěli.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    33s
+Přepis:       12m 26s
+Rychlost:     4.9x realtime
+Celkem:       13m 40s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:11] Krásný dobrý večer, dámy a pánové, s drobným spožděním,
+[00:15] zavěděným opět nějakými technickými problémy,
+[00:18] ale nakonec úspěšně se mi podařilo zahajit
+[00:22] toto pravidelné nedělní živé vysílání,
+[00:25] při kterém vás velmi vítám a budu rád,
+[00:29] pokud i dnes se mnou strávíte několik desítek minut
+[00:32] a ohledně, nebo respektive při povídání o problémech,
+[00:37] které nejenom, že jsou aktuální,
+[00:40] ale které mají zásadní dopad na naši budoucnost,
+[00:44] ale které současně vycházejí z naší minulosti.
+[00:49] Vzhledem k tomu, že uplynulo 25 let od pádu
+[00:53] Světového obchodního centra, od destrukce těchto budov,
+[00:58] záměrně říkám destrukce, a pochopíte potom v průběhu
+[01:02] tohoto vysílání, proč, tak jsem přesvědčen,
+[01:05] že je na čase, abychom vlastně,
+[01:08] zhodnotili to čtvrtstoletí a to, že z mého pohledu
+[01:12] se jednalo o naprosto zásadní, dokonce bych se nebál použít
+[01:17] výraz epochální událost, která naprosto změnila
+[01:22] chod našeho světa. Ti z nás, kdo pamatují devadesátky,
+[01:27] tak si jistě vzpomenou, že přes všechny chyby,
+[01:30] které bylo rozhodně nespočet, tak to bylo nejsvobodnější
+[01:35] období našich životů. Tehdy skutečně,
+[01:38] když se všichni chyby, které byly vzpomenu,
+[01:38] nevádl strach, neexistovaly žádné významnější
+[01:44] vojenské konflikty a všechno vypadalo růžově,
+[01:48] kdy po pádu berlínské zdi a pádu vlastně železné opony
+[01:53] jsme měli možnost ukončit tu zbytečnou bipolaritu
+[01:58] a neustále hrození mezi ruskými a spojenými státy,
+[02:02] které bylo, dle mého názoru, zbytečné a které je uměle
+[02:07] vyvoláváno a živeno dodnes. Tu příležitost jsme promarnili
+[02:11] a namísto toho, abychom směřovali k mírovějšímu,
+[02:16] svobodnějšímu světu, tak přišlo 11. září 2001
+[02:21] a s tímto okamžikem se změnilo naprosto vše a má to dopad
+[02:25] i až do dneška. Ale o tom o trošku později,
+[02:28] protože se jedná opravdu o věc, o které jsem přečetl
+[02:31] desítky knih, nastudoval stovky materiálů a všech dalších
+[02:37] dokumentů, které k tomu mají jakoukoliv relevanci
+[02:40] a věřím, že to pro vás bude dnes zajímavé a inspirativní.
+[02:45] Já ale začnu skutečně tím aktuálném a to je to,
+[02:49] že jsem dnes sledoval debatu na Primě v rámci partie
+[02:54] Terezie Tománkové, kde se utkalo šest lídrů stran,
+[03:00] které v současné době mají jaksi nejzásadnější postavení
+[03:03] na naší politické scéně. A musím říct, že jsem byl
+[03:07] prosto šokován, zejména z toho, co tam předvedl
+[03:10] Zdeněk Řip. Tento asociální psychopat jenž není schopen
+[03:15] jakékoliv rozumné komunikace zásadním způsobem
+[03:20] zcela vědomě a i přes opakovaná napomenutí neustále
+[03:26] narušoval průběh té debaty, všem skákal do řeči
+[03:30] a to často i po několik minut. Za pasivního sledování
+[03:34] ze strany Terezie Tománkové, která dle mého názoru
+[03:37] měla zasáhnout mnohem dříve a mnohem razantněji.
+[03:41] Přesně tahle debata je důvodem toho, proč lidé strácejí
+[03:45] o politiku zájem. Upřímně, kdybych nebyl v politice
+[03:50] a podíval se na tu dnešní infozovká show, tak už to nikdy nezapnu.
+[03:56] Nikdy v životě. Naprosto zbytečné dohadování, vstupování si do řeči,
+[04:02] absolutní nedisciplinovanost. Kdybych něco takového předvedl já,
+[04:05] tak už teď to je na titulkách seznamu, garantuji vám.
+[04:08] A okamžitě bych byl onálepkován jako ten největší nedisciplinovaný
+[04:14] narušovač všech možných diskuzí a hned by všichni říkali,
+[04:19] že by Reichel neměl být zván do televize. Přátelé, neměl by do těch debat
+[04:23] být zván Zdeněk Řip. Pokud tímto způsobem hodlá destruovat
+[04:29] jakoukoliv rozumnou, vyváženou politickou debatu,
+[04:32] tak prostě nemá v ní smít místo.
+[04:37] To byla...
+[04:38] To byla ostuda v přímém přenosu, to, co tam předváděl Zdeněk Řip.
+[04:42] Znovu říkám, pro mě nejvíc jeho hodnocení, jeho psychického stavu
+[04:46] je asociální psychopat. Ten člověk nemá vůbec žádný vztah k nikomu,
+[04:51] i když ho vidíte ve sněmovně, to je prostě člověk, který je úplně mimo
+[04:55] jakýkoliv rámec, jakoukoliv normálnost. A dnes, dnes nám to dokázal
+[05:00] v přímém přenosu. Jestliže po tomto výkonu bude tenhle člověk
+[05:04] dál s vám do debat, tak absolutně nechápu to pokrytectví všech
+[05:09] mediálních domů, které říkali, ne, Okamura něco narušuje,
+[05:12] Reichl něco narušuje. Tomio Okamura tam dnes byl zcela s přehledem,
+[05:16] nejdisciplinovanějším politikem, zcela s přehledem.
+[05:20] Zdeněk Řip absolutně zásadním způsobem vstupoval neustále
+[05:25] do toho vysílání a tu debatu rozvrátil. On ji rozvrátil a dle mého názoru
+[05:30] prostě je měla prima zasáhnout, vypnout mu mikrofon nebo ho tam
+[05:33] tuť odvést, ale především už ho tam nikdy nezval.
+[05:36] Absolutně klasická jeho strategie v momentě, kdy zní něco,
+[05:41] co on nechce slyšet, co je jaksi proti tomu narrativu,
+[05:45] které neustále on vytváří kolem Pirátu, že je to jediná strana
+[05:48] bez korupčních skandálu, přitom oni jsou prolezli korupcí až na půdu,
+[05:52] tak začne mluvit, mluvit, mluvit, dávat tam zcela nesouvislé výkřiky
+[05:57] jenom proto, aby ten druhý člověk, ten oponent nemohl dokončit
+[06:02] svoji myšlenku.
+[06:03] A ve finále vlastně to skončí tak, že Terezie Tománková utne
+[06:07] Karla Havlíčka, který v podstatě neměl prostor k tomu,
+[06:10] aby cokoliv reálného řekl.
+[06:12] Namísto toho, aby jasně a důrazně řekla panu Řibovi,
+[06:15] že pokud to bude pokračovat, takže z toho studia prostě bude vyveden.
+[06:19] Na to musí být ta televize připravena.
+[06:22] Prostě tenhle člověk tam absolutním způsobem ničil
+[06:26] jakoukoliv rozumnou diskuzi.
+[06:28] A především, dámy a pánové, to je na tom to nejhorší.
+[06:32] Právě tyto výkony.
+[06:33] Jak už jsem poznamenal, právě tyto destruktivní tahy
+[06:37] jsou důvodem toho, proč se o politiku zajímá
+[06:40] u nás v České republice tak málo lidí.
+[06:42] Protože na to se nedá dívat.
+[06:44] Na to se reálně nedá dívat.
+[06:46] Každý, kdo dnes tu debatu sledoval, tak se nedozvíděl vůbec nic.
+[06:51] Já osobně jsem přesvědčen, že tohle už bylo absolutně zahranou
+[06:55] a já pevně doufám, že na to budou mainstreamová média reagovat,
+[06:59] jelikož tenhle člověk nemá v politice co dělat.
+[07:02] Víte, já jsem byl...
+[07:04] Minulý týden, úplně nulý týden v debatě
+[07:07] na CNN Prima News proti Matěji Hlavatému a Jiřímu Pospíšilově.
+[07:12] A mě v tu chvíli tam úplně do hlavy vletěla jedna jediná myšlenka.
+[07:20] A říkám si, jak ti opoziční voliči můžou volit něco tak ubohého,
+[07:26] jako je stan nebo piráti.
+[07:28] Víte, kdyby byl na té druhé straně,
+[07:30] a já to nikomu jaksi nezakazuji, nezazlívám,
+[07:34] prostě každý máme jiný názor na svět
+[07:36] a máme právo na svůj pohled na politické dění.
+[07:40] A kdyby byl ale na té druhé straně
+[07:42] a byl proevropský a proukrajinský a tak dále,
+[07:46] tak bych tu debatu sledoval
+[07:48] a na jednom místě tam sedí Jiří Pospíšil
+[07:51] a při všech negativech, výhradách, která vůči němu můžeme mít,
+[07:57] tak je nesporné, že se jedná o inteligentního člověka,
+[08:00] který je schopen sformulovat myšlenku
+[08:02] a nějaký jaksi pohled, který se může vytvořit.
+[08:04] A pak vedle něj sedí Matěj Hlavatý,
+[08:09] chlapeček, který dělá starostu v obci,
+[08:12] ještě čítá 120 obyvatel, zdravím do Tetína,
+[08:14] nechápu, jak jste si tam mohli tohleto zvolit,
+[08:17] ale doufám, že moji krajiny z Králové hradeckého kraje
+[08:22] už tohle jaksi po druhé nedopustí.
+[08:24] Ale prosím vás pěkně, to je zoufalost.
+[08:28] Vážně by někdo mohl myslet,
+[08:31] si aspoň na vteřinu seriózně,
+[08:35] že by člověk jako Matěj Hlavatý se měl podílet
+[08:38] na určování chodu České republiky.
+[08:42] Vždyť to je člověk, který na to nemá intelektuálně,
+[08:45] zkušenostně, on na to nemá vůbec z hlediska nějaké své integrity,
+[08:49] to je výsměv.
+[08:52] Znovu říkám, Jiří pospíšel,
+[08:54] můžeme mít tisíc výhrad, ale sledujete
+[08:56] inteligentního člověka, se kterým prostě si vyměňujeme
+[09:00] nějaké argumenty a ta debata má nějaký smysl.
+[09:04] Ale Matěj Hlavatý nám tam radí s rozpočtem,
+[09:07] přestože fakticky zbankrotoval svojí vlastní obec.
+[09:11] Od 120 obyvatelí on tam vyrobil dluh za několik milionů korun.
+[09:15] Protože prostě je to člověk, který to absolutně neumí.
+[09:19] A kdyby ho z toho nevytáhl kraj tou podporou,
+[09:22] tak prostě ten tetín dneska už byl skutečně ve stavu
+[09:26] naprostého krachu.
+[09:29] Takže člověk, který je schopen dovézt k bankrotu obec od 120 lidé,
+[09:35] tak má jaksi mít původ a právo radit nám se sestavováním
+[09:40] státního rozpočtu pro celou Českou republiku,
+[09:42] která má 10,5 milionů lidí? Něco přes?
+[09:46] Jak to chcete volit? A to samé s těmi pedáty.
+[09:50] Já prostě vůbec nechápu, jak tyhle dvě strany,
+[09:54] které jsou plné naprosto hloupých intelektuálně zaostalých lidí,
+[09:59] jak někdo jim může dát svůj hlas.
+[10:01] Já kdyby byl na té druhé straně, tak fakt říkám dobře,
+[10:05] převším všude, co pospíšil má za sebou,
+[10:08] ale je to chytrý člověk, tak tomu to třeba dám.
+[10:11] Nebo v ODS, Vojta Munzár, Karel Haas, chytrý chlapi,
+[10:17] těm bych si dovedl představit, že prostě z té druhé strany
+[10:19] někdo může věřit a říct si, tyhle pánové mají prostě v hlavě
+[10:26] nějaký rozum a jsou schopni něco jaksi dát dokupy.
+[10:30] Ale volit hlava tého, celou tu pirátskou skavadru,
+[10:35] která není schopná u toho půltíku ve sněmovně dát dohromady
+[10:39] téměř jedinou kloudnou větu, volit stan, který je prolezlý
+[10:43] prostě všemi těmi rezidui dozimetru, já to nechápu.
+[10:48] Já to absolutně nechápu.
+[10:50] Že najednou sledujeme to, já samozřejmě nikdy nebudu volit topku,
+[10:54] nikdy jsem ji nevolil a volit ji nebudu, ale to, že prostě vedle sebe
+[10:58] sedí pospíšil z topky, která má já nevím 1,5% a vedle je prostě hlavatý,
+[11:03] který mu nesahá intenzivu.
+[11:05] On má intelektuálně ani pokotníky a on má prostě 15, 16%.
+[11:12] Tak nevím, kde se stala chyba.
+[11:14] Ti lidé opravdu asi neuvažují hlavou, kteří je volí.
+[11:17] Ona tedy polovečka pirátů podle průzkumu ani neví, že Zdeněk Řip je předsedou.
+[11:22] To je to směšné strany evropských bonzáků a udavačů,
+[11:26] kteří prostě jako jediní v Evropě udávají na svou vlastní zemi.
+[11:30] To je, myslím si, skutečný unikát, že oni v té nenávisti,
+[11:33] v určitosti, v účinnosti, v účinnosti,
+[11:35] babišovi jsou schopni dojít tak daleko,
+[11:38] že prostě se budou snažit zlikvidovat největšího zaměstnavatele v oblasti zemědělství.
+[11:44] Tedy společnost Agrofert.
+[11:46] Tady jsou desetitisíce pracovních míst, které jsou závislé na struktuře Agrofertu
+[11:51] a oni reálně by byli schopni to zničit.
+[11:54] Jenom proto, že nesnáší babiše.
+[11:56] A takhle naposledy prostě bonzoval Karel Čurda.
+[12:00] To je prostě Karel Čurda, Vasil Bělák a piráti.
+[12:04] A my...
+[12:06] To tady sledujeme.
+[12:07] Naprosto neuvěřitelné, nepochopitelné pro mě, jak tohle někdo může volit.
+[12:11] Už tady vidím 2539 lidí.
+[12:14] Moc děkuju za tu podporu.
+[12:15] Velmi si ji vážím.
+[12:16] Prosím, sdílejte tohle video.
+[12:18] Dostaneme se právě k těm zásadním tématům,
+[12:21] kterým mimochodem bude i cena plynu, cena ropy,
+[12:24] pohonných hmot na čerpacích stanicích
+[12:27] a i mezinárodní situace.
+[12:29] No a teď pojďme k Jakobovi.
+[12:31] Přátelé,
+[12:34] já musím říct,
+[12:35] že
+[12:36] jsem
+[12:37] nikdy nezažil nic směšnějšího,
+[12:39] než to, co ho předvedl Jan Jakob
+[12:41] při natáčení našeho rozhovoru na Vox TV.
+[12:44] Řeknu vám, co tomu předcházelo, tomu rozhovoru.
+[12:47] Já jsem byl na Vox TV s vám opakovaně už několik týdnů
+[12:51] a produkce mi říkala, že
+[12:53] to musím vždycky zrušit a posunout o týden,
+[12:55] protože se ty oponenti bojí proti mně
+[12:58] si sednout do toho křesla.
+[13:00] Že prostě každý to odříkává
+[13:02] a nechce se nechat zlikvidovat, no.
+[13:04] Tak ona to potom
+[13:05] jste pochopili, proč,
+[13:07] ale nakonec přišel tedy Jan Jakob.
+[13:12] A já jsem neviděl nikdy nic stresnějšího.
+[13:18] Jestli můžete opravdu si
+[13:20] a máte možnost mít pár peněz obětovat,
+[13:24] pořídte si to Vox TV
+[13:27] a podívejte se na celý ten rozhovor.
+[13:29] To byla naprostá demolice.
+[13:33] Jan Jakob neustále opakoval svůj mantru,
+[13:35] že jsme,
+[13:36] protože jsem proruský dezinformátor,
+[13:38] oni vždycky, když nevědí, co dělat,
+[13:40] tak řeknou, že jsme proruští dezinformátoři,
+[13:42] že používáme taktiku vytvoření nepřítele,
+[13:45] odstrašení a následné rozdělení společnosti
+[13:50] a tak dále a tak dále.
+[13:52] Že to je přesně taktika ruských dezinformátorů.
+[13:54] A já jsem mu řekl v té debatě v tom případě,
+[13:56] že jste vy proruský dezinformátor,
+[13:58] protože přesně tohle děláte.
+[14:00] Strašení babišem, strašení putinem,
+[14:03] neustálé rozdělování společnosti
+[14:05] na ty správné a na ty špatné.
+[14:07] Demokratické a nedemokratické.
+[14:10] AFD je nedemokratická strana,
+[14:12] takže samozřejmě vůbec se s ním nemůžeme bavit.
+[14:15] Extremismus.
+[14:17] Vyvolávání strachu z toho, co přijde,
+[14:19] když tady bude vládnout babiš.
+[14:21] Ruské tanky na Smíchově,
+[14:23] už jsme to slyšeli asi milionkrát,
+[14:25] i od Petra Fialy.
+[14:27] A namísto toho, já jsem tam hovořil naprosto jasně,
+[14:31] s konkrétními návody na to,
+[14:33] jak vyřešit shodek státního rozpočtu,
+[14:36] jakým způsobem upravit daně v České republice,
+[14:38] tak, aby byly férovější,
+[14:40] protože v současné době nejsou férové.
+[14:42] V současné době, bohužel, lidé platí daleko větší část,
+[14:47] než korporace, nadnární korporace,
+[14:49] které tady vydělaly obrovské peníze.
+[14:51] Já jsem to zmiňoval mnohokrát,
+[14:53] a prostě politika musí na tuhletu situaci reagovat.
+[14:57] Kdy za uplynulé čtyři doky tady občany
+[15:01] přišli ve státním sektoru
+[15:03] o čtrnáct procent na reálných jimzdách
+[15:05] kvůli Fialovi a jeho vládě.
+[15:07] V soukromém sektoru přišli občany
+[15:10] o zhruba dvanáct procent na reálných jimzdách.
+[15:13] To znamená, vy všichni dnes, my všichni dnes
+[15:17] v průměru bereme o nějakých třináct procent mín,
+[15:21] než jsme brali tehdy v roce 2021 v reálných jimzdách.
+[15:25] A za stejnou dobu, za kterou my jsme přišli o třináct procent,
+[15:29] tady banky vydělaly stovky procent
+[15:31] a zbrojaři tisíce procent.
+[15:33] A není možné v tu chvíli pokračovat
+[15:37] v tom stejném rozložení daní.
+[15:39] Prostě my bychom měli,
+[15:41] a je to podle mou názor naší povinností,
+[15:43] reflektovat tu situaci
+[15:45] a zavést ty sektorové daně vůči bankám
+[15:48] a vůči zbrojařským korporacím.
+[15:50] Sektorová daně vůči bankám je dnes
+[15:52] a existuje v mnoha evropských státech.
+[15:55] Švédsko, Španělsko, Maďarsko, Rumunsko, Slovensko
+[16:00] a tak dále, a tak dále.
+[16:02] Všude ta sektorová daně je.
+[16:04] A přece není možné sledovat,
+[16:06] že banky tady budou vydělávat o desítky miliard,
+[16:08] navíc lidé přicházet o peníze
+[16:10] a vlastně budou stále platit stejný poměr
+[16:13] z hlediska těch daní, jako předtím.
+[16:15] To je povinnost nás, politiků,
+[16:18] zajistit tady spravedlivé podílení se
+[16:21] na chodu tohoto státu,
+[16:23] na nákladech tohoto státu.
+[16:25] A to je to, co dnes prostě neprobíhá
+[16:28] a my musíme na to, z mého pohledu,
+[16:31] zcela jednoznačně,
+[16:33] reagovat změnou daňové legislativy.
+[16:36] Prostě já jsem přesvědčen,
+[16:38] a to není o tom, že bych chtěl
+[16:40] ty zbrojaře o něco obírat.
+[16:42] Naopak, pokud tady roste výrazným způsobem
+[16:45] rozpočet na obranu,
+[16:47] tak nech tím ty peníze dáme.
+[16:49] Když už aspoň je máme dát,
+[16:51] tak teď to dáme českým zbrojařům.
+[16:53] Mimochodem, krásný výraz,
+[16:55] to prosím, když tak můžete sdílet dál,
+[16:57] to bylo úplně geniální.
+[16:59] Ulrich Zygmund, právě šéf AFD
+[17:01] pro Sasko-Anhalsko,
+[17:03] kde získal těch 43%,
+[17:05] tak byl v debatě a tam se ho zeptali,
+[17:07] jestli podporuje zbrojení.
+[17:09] A on řekl, ano, podporuju,
+[17:11] ale ne kvůli Rusku,
+[17:13] ale kvůli těm migrantům.
+[17:15] Až je budeme odsud zase znovu deportovat,
+[17:17] tak se ty zbraně budou hodit.
+[17:19] Ulrich Zygmund.
+[17:21] Šéf Sasko-Anhalska AFD.
+[17:23] Takže on říká,
+[17:25] podporuju zbrojení,
+[17:27] ale ne kvůli Rusku, kvůli těm migrantům.
+[17:29] Tam je budeme potřebovat.
+[17:32] A opravdu
+[17:34] statečnost říct pravdu taková,
+[17:36] jaká je, klobouk dolů.
+[17:38] Takže já říkám, když už tedy máme
+[17:40] takové obrovské výdaje
+[17:42] na obranu,
+[17:44] na příští rok to bude 190 miliard,
+[17:46] nechť většinu dostanou čeští zbrojaři.
+[17:48] Ať tady zaměstnají lidi,
+[17:50] ať tady prostě vytváří další pracovní místa,
+[17:52] ať tady vytváří
+[17:54] lepší podmínky pro jejich subdodavatele,
+[17:56] ať ten biznis alespoň z toho kvete.
+[17:58] Náš biznis.
+[18:00] Máme ty peníze do Švédska, do Německa,
+[18:02] do Ameriky, do Anglie, kamkoliv jinam.
+[18:04] Českým zbrojařům.
+[18:06] Ale pokud je pošleme českým zbrojařům
+[18:08] o desítky biliard víc,
+[18:10] tak je férové, aby z toho vrátili
+[18:12] větší část do státní kasy,
+[18:14] než dávají v současné době.
+[18:16] To snad chápe úplně každý.
+[18:18] Jestliže tady má být navýšení
+[18:20] o nějakých 30 miliard,
+[18:22] tak proč by z těch 30 miliard
+[18:24] prostě oni nemohli dát zase
+[18:26] nějaký podíl, třeba 5 miliard
+[18:28] na státní a férový obchod.
+[18:30] My vám dáme víc peněz ze státního rozpočtu,
+[18:32] vy víc vrátíte. Takhle to bude fungovat.
+[18:34] Ale my už lidem na peníze
+[18:36] sahat nebudeme.
+[18:38] Já teď a tady říkám, že nezvednu
+[18:40] ruku pro jeden jediný návrh,
+[18:42] který by zdražoval život
+[18:44] obyčejným lidem.
+[18:46] Protože už nemají kam sáhnout.
+[18:48] 30% domácností v České republice
+[18:50] neušetří
+[18:52] ze svého měsíčního příjmu
+[18:54] ani korunu. Jedou na dřeň.
+[18:56] Pokud se jim cokoliv rozbije,
+[18:58] mají nějaký nečekaný zdravotní
+[19:00] výdej, tak se okamžitě dostávají
+[19:02] do dluhové pasti.
+[19:04] 19% domácností žije na hranici
+[19:06] nebo pod hranicí chudoby.
+[19:08] A těmto lidem ještě
+[19:10] přiložit na záda cokoliv
+[19:12] je prostě pro mě nemyslitelné
+[19:14] a nikdy to neudělám. Je na čase,
+[19:16] abychom sebrali odvahu a ty peníze
+[19:18] vybrali od těch, kteří tady
+[19:20] vydělávají a vydělávají tedy
+[19:22] obrovské peníze a své zisky zvýšili.
+[19:24] To je za mě naprosto klíčová věc.
+[19:26] No a tohle jsem tam říkal
+[19:28] a Jan Jakob samozřejmě pořád
+[19:30] reagoval těmi slovy, že jsem proruský
+[19:32] dezinformátor, pak přišel největší
+[19:34] i nejvíc komický moment, kdy jsem mu
+[19:36] řekl, jestli ví, jak se počítá HDP
+[19:38] a on to nevěděl.
+[19:40] On to reálně nevěděl. Jak se
+[19:42] chcete bavit o státním rozpočtu
+[19:44] s člověkem, který
+[19:46] neví, jak vypočítat
+[19:48] HDP. Prostě
+[19:50] to už je úplně směšné.
+[19:52] Argumentoval jsem mu čísly a on říká
+[19:54] co jsou ty vaše smyšlená čísla.
+[19:56] Já říkám, tady máte zdroj Český statistický úřad.
+[19:58] Český statistický úřad.
+[20:00] A vy tomu říkáte smyšlená čísla.
+[20:02] Tady máte další zdroj OECD
+[20:04] a tomu říkáte
+[20:06] smyšlená čísla.
+[20:08] To je tak neuvěřitelně komický
+[20:10] rozhovor, který samozřejmě
+[20:12] Jan Jakob zakončil tím, že
+[20:14] uprchl ze studia, kdy nedokázal
+[20:16] unést pravdu
+[20:18] o naprosto jednoduchém prokazatelném
+[20:20] tvrzení, že
+[20:22] Otakar Foltyn tady část
+[20:24] naší veřejnosti pojmenoval
+[20:26] tím obrovský handlivým
+[20:28] názvem svině,
+[20:30] což znovu říkám, je
+[20:32] výraz, který nacisté nejčastěji
+[20:34] v Německu používali
+[20:36] vůči židům. Tento pejorativní
+[20:38] odporný výraz.
+[20:40] Já jsem ho nikdy vůči
+[20:42] komukoliv nepoužil, dokonce ani
+[20:44] vůči Otakaru Foltynovi. A to si o něm
+[20:46] nemyslím vůbec nic dobrého. Stejně bych
+[20:48] ten výraz nepoužil.
+[20:50] Otakar Foltyn totiž je
+[20:52] také velmi intelektuálně nevyznamný.
+[20:54] On je výspělým jedincem.
+[20:56] On si velmi často vymýšlí,
+[20:58] fabuluje.
+[21:00] Vzpomínám například jeho výrok,
+[21:02] kdy říkal, že už Masaryk tvrdil,
+[21:04] že část lidí je
+[21:06] patologická sedlina
+[21:08] na naší demokracii.
+[21:10] Ne. Lhal. Masaryk to
+[21:12] nikdy neřekl. Masaryk
+[21:14] řekl v rozhovoru pro Prager Tagblad,
+[21:16] že fašismus je
+[21:18] patologická sedlina
+[21:20] na naší demokracii. Fašismus.
+[21:22] Ne lidé.
+[21:24] Ta ideologie, ke které má
+[21:26] Otakar Foltyn a Jan Jakob
+[21:28] ve svém myšlení extrémně
+[21:30] blízko. Oni fakticky
+[21:33] uvažují jako fašisté.
+[21:35] Oni de facto rozdělují
+[21:37] tu společnost na ty, kteří
+[21:39] myslí správně a na ty, kteří myslí nesprávně.
+[21:41] Jak vidíte, já jsem tady říkal, že
+[21:43] respektuji, když někdo bude volit ty ostatní.
+[21:45] Ale oni absolutně nerespektují
+[21:47] to, že někdo může mít například
+[21:49] na válku na Ukrajině jiný pohled, než mají oni.
+[21:51] A to jsou tu chvíli
+[21:53] právě ti, kteří označují,
+[21:55] že jsou zoufalí, nešťastní
+[21:57] nebo svině.
+[21:59] Otakar Foltyn vždy po tom používá alibismus,
+[22:01] že nikoho neoznačil konkrétně,
+[22:03] že
+[22:05] se k tomu ti lidé hlásí sami.
+[22:07] No to ti nacisté také ne.
+[22:09] Nacisté také neřekli
+[22:11] tenhle konkrétní člověk je svině.
+[22:13] Oni řekli, Židé jsou svině.
+[22:15] A když tu chvíli Žid se ozval,
+[22:17] tak by ti nacisté řekli,
+[22:19] ale konkrétně jsme vám to neříkali.
+[22:21] Vy se k tomu hlásíte sami, přátelé.
+[22:23] Vy se k tomu hlásíte sami.
+[22:25] To je vaše chyba.
+[22:27] Tenhle ten odporný alibismus Otakara Foltyna,
+[22:29] člověka, který je prostě guma
+[22:31] od hlavy až k patě
+[22:33] do posledního konečku svého prstu,
+[22:35] je jedním ze základů
+[22:37] naprostého rozštěpení naší společnosti.
+[22:39] A to není rozdělování společnosti.
+[22:41] Já vždycky říkám,
+[22:43] že v demokracii společnost má být rozdělena.
+[22:45] Ale tohle to je prostě základ
+[22:47] absolutní nevraživosti v té společnosti.
+[22:49] Rozdělování
+[22:51] na jednu skupinu
+[22:53] těch správných a druhou skupinu těch zlých.
+[22:55] A protože je někdo samozřejmě
+[22:57] nešťastný nebo svině,
+[22:59] tak je nezbytné ho z toho prostoru
+[23:01] vyloučit. No a když jsem tohle
+[23:04] říkal, že se mně absolutně nelíbí
+[23:06] ten dvojí metr, že jakmile Filip Turek
+[23:08] prohlásí cokoliv o deratizování
+[23:10] parazitů, tak hned všichni
+[23:12] tyto tzv. demokraté
+[23:14] pravdoláskaři křičí,
+[23:16] jak je Filip Turek nacista.
+[23:18] Jak je to odporné, že tento výraz
+[23:20] přece používali nacisté,
+[23:22] deratizovat parazity. Tak v momentě,
+[23:24] kdy já jsem řekl Janu Jakobovi,
+[23:26] aha, takže v momentě,
+[23:28] kdy tedy Turek řekne deratizovat
+[23:30] parazity, no tak přece daleko horší jsou ty svině
+[23:32] od Foltína. Proč to neodsoudíte?
+[23:34] Proč neodsoudíte výraz Svoloč
+[23:36] od Evy de Croix, což byla zase
+[23:38] komunistická nadávka na lidi,
+[23:40] kteří jaksi nešli s tou jejich ideologií,
+[23:42] kteří nešli se stranou a vládou.
+[23:44] Proč neodsoudíte Pavla Novotného,
+[23:46] který řekl, že lidé by potřebovali,
+[23:48] čeští lidé by potřebovali válku,
+[23:50] vytáhnout děti a ženy a podřezat je.
+[23:52] Takovou malou válku.
+[23:54] To jsou přece tisíckrát horší výrazy,
+[23:56] které mají k fašismu a nacismu
+[23:58] mnohem blíže, než cokoliv, co kdy řekl Filip Turek.
+[24:00] No a to neunesl.
+[24:04] Začal tam plácat těmi papíry
+[24:06] a nakonec odešel.
+[24:08] A pak jsme měli ještě chvilku
+[24:10] docela rozumný rozhovor
+[24:12] právě s panem Kubelíkem.
+[24:14] Ono, kdyby tam ten Jakob nebyl,
+[24:16] tak by to bylo lepší.
+[24:18] Ten rozhovor by byl kvalitnější,
+[24:20] protože ty jeho výšplechty
+[24:22] se opravdu nedaly vůbec poslouchat
+[24:24] a nemělo to jaksi žádnou úroveň.
+[24:26] Ale na druhou stranu,
+[24:28] zase je to krásná show
+[24:30] a ukázalo se, jak oni jsou zoufale slabí.
+[24:32] To jsou zbabělci.
+[24:35] Víte, kdyby to, co jsem říkal, byla lež,
+[24:37] tak neodcházíte.
+[24:39] Lež vyvrátíte.
+[24:41] Pokud máte lepší argumenty,
+[24:43] pokud máte pravdivé argumenty
+[24:45] ve své torně,
+[24:47] tak lež prostě vyvrátíte.
+[24:49] Já na jeho místě bych si počkal
+[24:51] a pokud by to nebyla pravda,
+[24:53] tak bych prostě použil jasné argumenty
+[24:55] a tu lež vyvrátil.
+[24:57] Ale protože on věděl, že pravdu mám
+[24:59] a že na to už žádný argument neexistuje,
+[25:01] že v tu chvíli definitivně prohrál,
+[25:03] že jsem v tu chvíli rozkryl to jejich pokrytectví,
+[25:05] kdy oni jsou
+[25:07] k fašismu, nacismu, extrémismu
+[25:09] mnohem blíže,
+[25:11] o tisíce mil.
+[25:13] Kdyby byli kdokoliv z nás nebo Filip Turek,
+[25:15] tak to on prostě na to neměl jak reagovat.
+[25:17] Lež vyvrátíte.
+[25:19] Pravdu můžete
+[25:21] jedině překřičet,
+[25:23] případně před ní utect.
+[25:25] Nic jiného vám nezbývá, protože nemáte protiargument.
+[25:27] A Jan Jakob si to uvědomil.
+[25:29] Jan Jakob si uvědomil svoji porážku,
+[25:31] proto předvedl hysterický výstup
+[25:33] a odešel
+[25:35] a má díky tomu ostudu
+[25:37] na celou republiku.
+[25:39] Já jsem za poslední tři dny
+[25:41] nepotkal nikoho, kdo by o tom nevěděl.
+[25:43] A kdo by o tom nemluvil.
+[25:45] Takže skvělá práce, pane Jakobe.
+[25:47] Díky vám,
+[25:49] díky vám, teď celá republika ví,
+[25:51] co jste za farize, pokryce a lháře.
+[25:53] A že nemáte protiargument
+[25:55] proti tomu,
+[25:57] když zcela jednoznačně a věcně vám dokážu,
+[25:59] že vaše tendence
+[26:01] jsou právě fašizující
+[26:03] v naší společnosti.
+[26:05] A tu společnost rozdělujete
+[26:07] vy, nikoliv já.
+[26:09] A to ne tak, že ji rozdělujete
+[26:11] z hlediska nějakých svých politických myšlenek.
+[26:13] Ale že ji rozdělujete
+[26:15] a totálním způsobem rozvracíte,
+[26:17] rozštěpujete na základě
+[26:19] prostě vašeho světonázoru,
+[26:21] který považujete za jediný možný správný.
+[26:23] To je váš problém
+[26:26] a vaše prohra.
+[26:28] Takže pokud můžete, fakt se na to mrkněte na ten Vox.
+[26:30] V momentě, kdy prostě tam Jakob
+[26:32] nebyl schopen odpovědět na to, jak se počítá
+[26:34] HDP, tak to jsem
+[26:36] prostě
+[26:38] sesunul pod stůl, protože prostě
+[26:40] vy jste v poslanecké sněmovně
+[26:42] a předpokládáte tam nějakou úroveň
+[26:44] znalostí. A pak prostě
+[26:46] vidíte ty floskule, kdy oni jenom říkají
+[26:48] uděláme reformy. No tady
+[26:50] tohle zreformujeme, tady tohle
+[26:52] uděláme jinak a změníme.
+[26:54] A jsou to jenom prázdné plky
+[26:56] a nakonec zjistíte, že oni nevědí, jak se
+[26:58] počítá HDP.
+[27:00] To je naprostá tragédie.
+[27:02] No a takže
+[27:04] tohle je za mě naprosto
+[27:06] epochální věc
+[27:08] a fakt se na to mrkněte.
+[27:10] A pokud můžete, tak se podívejte
+[27:12] i na páteční, pardon se to vysílalo
+[27:14] v sobotu, my jsme to natáčeli v pátek s Gabrielou
+[27:16] Sárovskou na nově. Když jsem
+[27:18] byl obviněn z toho, že
+[27:20] nebo respektive obviněn, aby byl
+[27:22] přesný, tak byla tam reportáž a tam
+[27:24] říkali, že se pro
+[27:26] uchytilo a že teď Rajcho s Okamurou
+[27:28] může soutěžit o to, kdo
+[27:30] je větší radikální
+[27:32] extrémista. Tohle tam padlo
+[27:34] v té reportáž. A já jsem říkal
+[27:36] pro boha pěkně, co
+[27:38] je tady chápáno
+[27:41] jako extrém.
+[27:43] To, že nechceme příval migrantů
+[27:45] z Afriky? Že si nechceme
+[27:47] zaplavit Českou republiku ani
+[27:49] migranti z Afriky,
+[27:51] 100 000 migrantů z Afriky, ani 100 000
+[27:53] migrantů z Ukrajiny? Že chceme,
+[27:55] aby Česká republika zůstala
+[27:57] převážně česká? To je extrémismus.
+[27:59] Že nechceme Green Deal,
+[28:01] který naprosto devastuje
+[28:03] naši ekonomiku, který je hlavní
+[28:05] příčinou úpadku Evropy,
+[28:07] která v tuto chvíli dodýchává
+[28:09] a ztrácí za Azií
+[28:11] tempo naprosto mílovými kroky?
+[28:13] To je extrémismus, že nechceme Green Deal?
+[28:15] Tuhle pomatenou ideologii?
+[28:17] Je extrémismus to,
+[28:19] že chceme platit českou korunou,
+[28:21] a ne eurém? To je extrémismus.
+[28:23] Je extrémismus to,
+[28:25] že tvrdíme, že existují jenom dvě pohlaví?
+[28:27] Muž a žena? A že
+[28:29] Sňatek je svazkem jednoho
+[28:31] muže a jedné ženy?
+[28:34] A že děti mají adoptovat pouze
+[28:36] muž a žena, manželské pány?
+[28:38] Že děti nemají být jaksi
+[28:40] obchodním artiklem,
+[28:42] se kterým tady se nakládá
+[28:44] jako na krámu,
+[28:46] že si prostě zaplatím
+[28:48] surrogátní matce a tam jí porodí dítě?
+[28:50] Takhle ho odevzdá?
+[28:52] To je extrémismus.
+[28:55] A nebo je extrémismus to,
+[28:58] že tady někdo chce tím
+[29:00] Green Dealem totálně zničit
+[29:02] evropskou ekonomiku, vyhnat naše firmy,
+[29:04] zničit vaši životní úroveň?
+[29:06] Že někdo nás štve do války
+[29:08] proti jaderné velmoci?
+[29:10] Že někdo zcela jednoznačně
+[29:12] a plánovitě sem vozí ty migranty
+[29:14] a tleská ukrajinským migrantům?
+[29:16] Dneska tam Rakušant řekl, že
+[29:18] 75% práceschopných Ukrajinců pracuje.
+[29:20] Takže jinými slovy, Ukrajinci tady mají
+[29:22] 25% nezaměstnanost.
+[29:24] 25% těch tady živíme,
+[29:26] kteří jsou práceschopní.
+[29:28] To nám tam dneska Rakušant řekl,
+[29:30] akorát on si při své inteligenci to neuvědomuje.
+[29:32] A ještě nám bude tvrdit, že jsou přínosem?
+[29:34] V momentě nemůže být prostě
+[29:36] v plusu jakákoliv komunita,
+[29:38] kde je 25% nezaměstnanost.
+[29:40] Nemůže, to je nesmysl.
+[29:42] On to tam fakticky dneska uznal.
+[29:45] Že prostě nechceme,
+[29:47] že někdo tady chce,
+[29:49] není extrémismus to, že někdo tady chce zavést euro?
+[29:51] Že někdo chce zrušit Benešovi dekrety,
+[29:53] aby rozvrátil majetkové právní stavy v pohraničí?
+[29:55] Že někdo chce
+[29:57] dokonce založit spojené státy
+[29:59] evropské?
+[30:01] Že někdo si myslí, že je 112 pohlaví?
+[30:03] A že si může
+[30:06] brát autobus trolejbus?
+[30:08] Že to klidně může být svatba?
+[30:10] Není tohle extrémismus.
+[30:12] Tohle je přátelé
+[30:15] to, co se nám tady stalo
+[30:17] za poslední roky, kdy my jsme vlastně
+[30:19] osunuli zdravý rozum do pozice extrému.
+[30:21] Dneska ten, kdo hájí zdravý rozum,
+[30:23] tak je extrémista.
+[30:25] A ten, kdo hájí tyto šílenosti,
+[30:27] které totálním způsobem devastují
+[30:29] vůbec tradiční způsob v Evropě,
+[30:31] je schopený islamizovat, je schopený
+[30:33] nahnat do války, je schopený
+[30:35] zdestruovat zelenou dohodou,
+[30:37] tak ten člověk je
+[30:39] moderní, progresivní a demokrat.
+[30:42] To je úplně na hlavu postavené.
+[30:44] My žijeme ve světě za zrcadlem.
+[30:46] To je alenka v říší divů.
+[30:48] Lež a lež je pravda.
+[30:51] Takže podle mě, přátelé,
+[30:53] extrémisté, kdo je extrémisté,
+[30:55] jsou Piráti, STAN, TOP 09
+[30:57] a z velké části
+[30:59] KDU a ODS.
+[31:01] Protože oni tohle všechno chtějí.
+[31:03] Oni nás chtějí připravit o naši suverenitu,
+[31:05] o naši měnu.
+[31:07] Oni nás chtějí připravit o naši existenci.
+[31:09] Petr Pavel je extrémista.
+[31:11] Já jsem neslyšel extrémnější výrok
+[31:13] za poslední roky, než,
+[31:15] že by měly vzniknout Spojené státy Evropské.
+[31:17] Tím pádem zaniknou Česká republika.
+[31:19] Já jsem neslyšel nic víc extrémističtějšího,
+[31:21] než to,
+[31:23] co nám řekl Petr Pavel.
+[31:25] Pro mě je Petr Pavel extrémista. Radikál.
+[31:27] To přece nikoho normálního
+[31:29] nemohlo ještě před deseti lety napadnout.
+[31:31] Před pěti lety.
+[31:33] Že bychom zrušili Českou republiku
+[31:35] a založili Spojené státy Evropské.
+[31:37] On to říká. Tak kdo je tady extrémista?
+[31:40] My, kteří chceme normální způsob života.
+[31:42] Podívejte se, vemte si to
+[31:44] na normální příklad k sobě domů.
+[31:46] Máte dům, postavený dům.
+[31:48] Máte ženu, máte děti.
+[31:50] Žijete, snažíte se
+[31:52] prosperovat. Co je extrém?
+[31:54] To, že chcete, abyste
+[31:56] neplatili zbytečné poplatky za elektřinu,
+[31:58] za plyn a neplatili
+[32:00] za to naprosto nesmyslnou cenu, kterou
+[32:02] neufonancujete? To, že nechcete,
+[32:04] aby vám do toho domu lezly
+[32:06] cizí lidi a
+[32:08] zabydlovali se tam a řekli
+[32:10] my už nám se tady líbí,
+[32:12] my odsud nepůjdeme?
+[32:15] To je taky částečně náš dům?
+[32:18] Chcete se zbavit toho, když
+[32:20] chcete, aby vás někdo nahnal
+[32:22] do války se sousedem, který má
+[32:24] daleko větší pozemek, který je
+[32:26] daleko silnější, který vás může zničit,
+[32:28] tak někdo prostě bude chtít jít
+[32:30] do války s tím sousedem?
+[32:33] Budete to chtít? Já ne.
+[32:35] Já prostě chci žít ve svém domě
+[32:37] v bezpečí, se svými dětmi, se svojí ženou.
+[32:39] Chci tam jít plot, chci tam jít
+[32:41] zamčeno, aby mě tam cizí lidé nelezly.
+[32:43] Chci platit co nejméně
+[32:45] za energie a za všechno, co
+[32:47] souvisí s provozem toho domu, abych
+[32:49] prosperoval, abych vydělával, abych pro
+[32:51] svoji rodinu byl schopen zajistit
+[32:53] kvalitní zdravotní péči a kvalitní vzdělání
+[32:55] pro své děti. Nechci válčit
+[32:57] se svým sousedem, chci se s ním dohodnout.
+[32:59] Chci raději si s ním sednout
+[33:01] a říct, nastavit si podmínky,
+[33:03] abychom spolu dobře vycházeli a abychom
+[33:05] spolu neválčili. A tohle
+[33:07] je extrémismus? Já myslím,
+[33:10] že extrémismus je otevřít
+[33:12] bourací plot, otevřít dveře,
+[33:14] chtít platit za elektřinu
+[33:16] čtyřikrát víc, než bych musel,
+[33:18] válčit se sousedem, který je
+[33:20] mnohonásobně silnější než já a může
+[33:22] mi zabít moje ženy, moji ženu
+[33:24] a moje děti. To je extrémismus? Přece
+[33:26] ne. Pojďme se vrátit k tomu
+[33:29] normálnímu zdravému rozumu, vždyť to se nedá
+[33:31] vůbec poslouchat, co oni předvájí.
+[33:33] No a když už jsme u těch cen, těch energií
+[33:35] a tohle prosím
+[33:37] pozorně si poslechněte, protože
+[33:39] k tomu jsem se chtěl vyjádřit.
+[33:42] Já jsem zaznamenal, teď jede
+[33:44] na těch liptarských sítích, už mě to
+[33:46] posílali lidé,
+[33:48] takový
+[33:50] claim, se tom říká anglicky, prostě
+[33:52] neustále píšou ti lidé
+[33:54] nafta už stojí 50
+[33:56] korun. Proč Reichel
+[33:58] nepořádá demonstrace?
+[34:00] Kde je Reichel, aby pořádal
+[34:02] demonstrace proti tomu, že
+[34:04] ta nafta stojí 50 korun?
+[34:06] Já bych k tomu chtěl se rád vyjádřit,
+[34:08] jestli mohu.
+[34:10] Za prvé, když započítáte
+[34:12] inflaci, tak tehdejších
+[34:14] 50 korun za Fialy by dnes
+[34:16] odpovídalo zhruba 65
+[34:18] korunám za litr nafty.
+[34:20] To oni nechápou,
+[34:22] to je pro ně příliš složitá úvaha.
+[34:24] To znamená, 50 korun
+[34:26] za litr nafty před 4 lety
+[34:28] by v dnešních cenách bylo 65 korun.
+[34:30] To je potřeba si jasně říct.
+[34:33] Ale za druhé, přátelé,
+[34:35] vy liptardi,
+[34:37] pravdoláskaři, vy, kteří
+[34:39] jste tady mávali těmi modrožbou,
+[34:41] těmi plutými ukrajinskými fáborky,
+[34:43] vždyť vy jste to říkali sami, ne?
+[34:45] Vy jste říkali, musíme
+[34:47] se odstřihnout od Ruska
+[34:49] i za cenu toho,
+[34:51] že ty pohonné hmoty budou stát víc?
+[34:53] Vy jste říkali,
+[34:55] já si u té benzínové pumpy
+[34:57] rád připlatím
+[34:59] za to, abych nekupoval
+[35:01] ruskou ropu a ruskou naftu.
+[35:03] To jsem od vás slyšel
+[35:05] celou dobu té války na Ukrajině.
+[35:07] Já jsem vám říkal, že tohle přijde
+[35:09] a bude samozřejmě ještě hůř.
+[35:11] K tomu se vrátím, proč tomu taky.
+[35:13] Ale vy jste to tady
+[35:15] celou dobu tvrdili, jak dneska si pamatuju,
+[35:17] kdy jste všichni psali, já si
+[35:19] za to rád připlatím. No tak plaťte.
+[35:21] Plaťte, vy jste to chtěli.
+[35:23] Vy jste chtěli tu demokratickou
+[35:25] ropu, aby nepocházela
+[35:27] z Ruska, tak jste si
+[35:29] to říkali, vy jste si to přáli. Já jsem vám
+[35:31] tvrdil, že je to nesmysl a že se
+[35:33] dostaneme do situace, kdy prostě nám
+[35:35] vyletí ta cena do povětří
+[35:37] a to samozřejmě dodnes se ta ruská ropa
+[35:39] do Evropy dováží. Kdyby ne,
+[35:41] tak ta cena je ještě úplně někde jinde.
+[35:43] A ono až to skončí, tak
+[35:45] samozřejmě ta cena bude růst dál,
+[35:47] notabene pokud neskončí blokáda Hormuzského
+[35:49] průlivu. Vy jste říkali, že
+[35:51] to chcete. Proč se teď
+[35:53] obracíte na mě? Já jsem říkal, že to nechci.
+[35:55] Že chci, abychom dál brali
+[35:57] ropu z Ruska. Tak jako dnes
+[35:59] navrhuje AFD, kdy Adil Cavajdl
+[36:01] říká, zaplať pámbu, že už
+[36:03] to někdo i v tom Německu pochopil, když
+[36:05] říká, my pojedeme do USA, hned potom do
+[36:07] Ruska koupit levný plyn a levnou
+[36:09] ropu. Vždyť už to říkají
+[36:11] AFD představitelé. Zaplať
+[36:13] pámbu za to, znovu říká. Ale
+[36:15] vy jste tvrdili, že chcete platit víc.
+[36:17] Já mě tak strašně mrzí,
+[36:20] přátelé, že není možné,
+[36:22] aby na té benzínové stanici
+[36:24] byla jedna ta ropa z Ruska,
+[36:26] kde v současné době, jenom
+[36:28] abyste věděli, tak ta
+[36:30] nafta, litr nafty stojí 20 korun.
+[36:32] 20 korun. U nás 50,
+[36:34] v Rusku 20. Samozřejmě by byla
+[36:36] u nás dražší, protože je tam nějaký náklad
+[36:38] na transport a tak dále, a tak dále,
+[36:40] z hlediska daní a všechno. Ale rozhodně bysme
+[36:42] se dostali někam ke 30 korunám, ne k 50.
+[36:44] Já jsem vám to říkal.
+[36:46] Já jsem vám říkal, může stát ten nafta
+[36:48] 30 korun? A vy jste říkali, ne. My si
+[36:50] připlatíme, my ji nechceme.
+[36:52] Tak plaťte. Neotáčejte
+[36:54] se na mě. Plaťte, vy jste to chtěli.
+[36:56] Máte, co jste chtěli.
+[36:58] Nic víc, nic míň, vám na to nemůžu říct.
+[37:00] Plyn v tuto chvíli
+[37:02] stojí 80 euro
+[37:04] za megawatt hodin. Opět
+[37:07] začíná ta cena stoupat naprosto
+[37:09] brutálním způsobem. A my ještě nemáme
+[37:11] ani zaplněné zásobníky,
+[37:13] to znamená, že se bude ta cena
+[37:15] zvyšovat zcela jednoznačně.
+[37:17] Vy jste říkali, že nechcete, aby vás Putin
+[37:19] mohl tou ropou a tím plynem vydírat,
+[37:21] jestli se dobře pamatuju, vážení
+[37:23] pravdoláskaři, že? Že přece
+[37:25] Putin nás nemůže vydírat.
+[37:27] Tak nás vydírá Irán.
+[37:30] Jsme na tom výrazně líp.
+[37:32] Zatímco Ruskoho nám
+[37:35] nikdy ty kohoutky nezamřelo.
+[37:37] Nikdy. I v době války bylo
+[37:39] připravené prostě nám tyhle ty suroviny
+[37:41] dodávat. Tak vy jste
+[37:43] prostě se dostali do situace, že
+[37:45] že nás vydírá Irán.
+[37:47] Já vám gratuluji, já vám tleskám.
+[37:49] Plaťte klidně víc.
+[37:51] Úplná paráda.
+[37:53] Nepochopitelná věc. Už dnes
+[37:55] je zřejmé, že Němci tohle probourají.
+[37:57] Protože AFD směřuje k tomu vítězství.
+[37:59] A oni prostě ty sankce
+[38:01] zruší a začnou hned nakopovat.
+[38:03] Čím dřív to pochopíme i my,
+[38:05] tím víc na tom vyděláme.
+[38:07] Je to absolutní nesmysl.
+[38:09] To, co prostě v tohletu chvíli
+[38:11] předvádíme, je totální
+[38:13] sebedestrukce. Jakmile my
+[38:15] jsme se nezbavili závislosti na Rusku.
+[38:17] My jsme si vytvořili závislost
+[38:19] na státech
+[38:21] blízkého středního východu.
+[38:23] Protože tehdy, já vždycky říkám, je nejlepší
+[38:25] mít zdroje
+[38:27] z více rozsměrů. Protože se vždycky může
+[38:29] něco někde stát, nějaký váleční konflikt, problém
+[38:31] atd. atd. A my jsme v podstatě
+[38:33] ten jeden směr si zavřeli. Díky
+[38:35] vám, pravdoláskaři. Takže
+[38:37] jsme se stali závislými na to, co se
+[38:39] stane v Iránu. Paráda.
+[38:41] Gratuluju.
+[38:45] Víte, ten problém je v tom, že oni nechápou
+[38:47] jeden základní fakt, že
+[38:49] na obchodu vydělávají oba. Prodávající
+[38:51] i kupující. Oni si pořád myslí,
+[38:53] že by na tom vydělalo jenom Rusko.
+[38:55] A ve skutečnosti je to ještě smutnější, protože
+[38:57] faktem je to, že to Rusko
+[38:59] tu ropu prodá vždycky.
+[39:01] Ten plyn prodá vždycky.
+[39:03] Vždycky se najde kupující.
+[39:05] To znamená, tady není otázka,
+[39:07] jestli Rusko ropu prodá a plyn,
+[39:09] jestli ji prodá nebo neprodá.
+[39:11] Tady je otázka, kdo
+[39:13] ji od něj koupí. A to, že
+[39:15] dnes ty státy toho Blízkého východu,
+[39:17] Středního východu, Turecko a další,
+[39:19] že kupují ruskou ropu, pak ji zamíchej
+[39:21] ve své rafinérii. Přidají tam
+[39:23] k tomu nějaké další komponenty a prodají
+[39:25] nám ji jako neruskou.
+[39:27] Tak to už je úplně k smíchu. Protože
+[39:29] my tady pořád tankujeme naftu, která
+[39:31] původem pochází z ruské ropy.
+[39:33] Akorát za ni platíme v podstatě
+[39:35] jednou tolik, než bysme museli.
+[39:37] Protože si prostě tyhle
+[39:39] ty mezičlánky toho Turecka,
+[39:41] všech dalších těch zemí tam kolem,
+[39:43] si prostě na tom, Indie samozřejmě, si na tom
+[39:45] přihodí svoji přidážku a přivezou nám
+[39:47] to sem jako ropu demokratickou.
+[39:49] Já vám gratuluji. To je
+[39:51] úžasný, neuvěřitelný,
+[39:53] totální idiocizmus,
+[39:55] který vy předvádíte.
+[39:57] Vy si kupujete ruskou ropu,
+[39:59] zpracovanou v Turecku nebo v Indii,
+[40:01] za dvojnásobně vyšší cenu.
+[40:03] A plácáte se po zádech, říkáte, že
+[40:05] prostě to děláte strašně dobře, že ta
+[40:07] nafta je demokratická
+[40:09] a ukazujete na mě, že já mám ji demonstrovat.
+[40:13] To fakt nejste normální, nezlobte se.
+[40:15] Já, přátelé,
+[40:18] neznám demokratickou
+[40:20] a totalitní ropu.
+[40:22] Já neznám demokratický a
+[40:24] totalitní plyn. Já znám jenom
+[40:26] levný plyn a drahý plyn,
+[40:28] levnou ropu a drahou ropu.
+[40:30] Nic jiného já neznám. Nic jiného
+[40:32] mě nezajíma. Já tady nejsem
+[40:34] proto, abych poslouchal Brusel,
+[40:36] abych poslouchal to, co si vymyslí
+[40:38] Frau von der Leyen a já podle toho
+[40:40] skákal. Já jsem tady proto,
+[40:42] abych myslel na občany České republiky.
+[40:44] A možná to zní tisíckrát
+[40:46] sobecky, já už jsem to řekl a řeknu to
+[40:48] znovu. Mně nic jiného nezajímá,
+[40:50] než vaše životní úroveň.
+[40:52] O tom je politika.
+[40:54] Maďarsko má svoje politiky,
+[40:56] Polsko má svoje politiky, Německo má svoje
+[40:58] politiky a ti mají hájit zájmy
+[41:00] svých zemí. Česká republika
+[41:02] má mít politiky, kteří hájí zájmy
+[41:04] občanů České republiky.
+[41:06] Nikoho jiného. Mě to nezajímá.
+[41:08] Já nechci slyšet vůbec nic
+[41:10] o žádné evropské solidaritě s migranty,
+[41:12] o tom, že máme nějakým způsobem
+[41:14] tady si zavádět Green Deal,
+[41:16] stavět větrné elektrárny atd.
+[41:18] Mě to nezajímá. Já chci,
+[41:20] aby Česká republika nadále skvětala
+[41:22] a aby se vám tady dobře žilo.
+[41:24] A to, co si chtějí pét z Bruselu,
+[41:26] ať si to pečou tam dál.
+[41:28] Dnes, přátelé, jsem přesvědčen, že prostě
+[41:30] Evropská unie už pro nás není přínosem.
+[41:32] Evropská unie totálním způsobem
+[41:34] vyklojila a každý, kdo říká,
+[41:36] že by zrušení Evropské unie
+[41:38] nebo odchod nás obrovským způsobem
+[41:40] poškodil.
+[41:42] Tak já mám na ně jenom jednu otázku.
+[41:45] Co by se stalo, kdybychom se vrátili k EHS?
+[41:47] K modelu EHS.
+[41:49] To znamená volný pohyb kapitálu,
+[41:51] služeb, zboží, lidí,
+[41:53] ale bez Bruselu.
+[41:55] Bez Green Dealu.
+[41:57] Bez migračního paktu, bez společných pravidel,
+[41:59] bez nucení toho, abychom
+[42:01] tady si museli stavět větrné elektrárny,
+[42:03] abychom elektrinu z Dukovan
+[42:05] prodávali přes Libskou burzu
+[42:07] a ještě sekundárně za těmi jejich
+[42:09] obnovitelnými, neboli lépe řečeno
+[42:11] občasnými zdroji.
+[42:13] Co by se stalo tak hrozného? Řekněte mi.
+[42:15] Představte si Evropu,
+[42:17] spojenou Evropu,
+[42:19] z hlediska pohybu,
+[42:21] z hlediska
+[42:23] společného biznisu,
+[42:25] z hlediska všech těchto věcí,
+[42:27] které byly základem té myšlenky
+[42:29] evropské spolupráce,
+[42:31] ale bez Bruselu.
+[42:33] Bez centrály, která by se nás snažila řídit a uzurpovat.
+[42:35] Nebyl by to lepší model?
+[42:38] Tak ať mě někdo odpoví, ten, kdo je tak,
+[42:40] že je příznivcem Evropské unie.
+[42:42] Co tak hrozného by se nám stalo,
+[42:44] kdybychom se vrátili k EHS?
+[42:46] Já bych chtěl na tohle slyšet odpověď.
+[42:48] Protože za mě to je výrazně lepší model.
+[42:50] Já jsem příznivcem evropské spolupráce,
+[42:52] ale na dobrovolné bázi.
+[42:54] Nikoliv na bázi toho,
+[42:57] že nás někdo bude nutit něco plnit,
+[42:59] vydírat nás našimi vlastními penězi
+[43:01] a v podstatě nás stlačit
+[43:03] do toho, abychom si zdevastovali
+[43:05] svoji vlastní zemi.
+[43:07] Toho příznivcem nejsem.
+[43:09] A pojďme spolupracovat jako rovnocenní
+[43:11] féroví partneři,
+[43:13] kteří se navzájem respektují.
+[43:15] Ne jako totalitní moc
+[43:17] bruselská a malé kolonie,
+[43:19] které musí plnit to, co ten Brusel chce,
+[43:21] jinak jsou zničeny
+[43:23] a zašlapány do země.
+[43:25] Tohle je, přátelé, můj model evropské spolupráce,
+[43:27] který budu prosazovat.
+[43:30] No a pojďme na závěr
+[43:33] ještě k tomu 11. září,
+[43:35] protože to je za mě extrémně
+[43:37] zajímavá záležitost.
+[43:39] A pevně doufám, že i přesto,
+[43:41] že to nezná o nějakou konkrétní věc,
+[43:43] která dnes ovlivní
+[43:45] tu cenu benzínu, plynu nebo elektřiny.
+[43:47] Takže ještě
+[43:49] se mnou posečkáte
+[43:51] a poslechnete si to,
+[43:53] co vám chci říct.
+[43:55] Jak už jsem říkal, já jsem o 11. září
+[43:57] nastudoval stohy všech možných knih.
+[43:59] Bylo to vždycky téma,
+[44:01] o kterém jsem vyprávěl všem lidem ve svém okolí
+[44:03] a všichni říkali, proč to ještě řešíš?
+[44:05] Z jakého důvodu?
+[44:07] Vždyť to už se stalo,
+[44:09] že to přece nemá cenu.
+[44:11] A já říkám, uvědomte si,
+[44:13] že to byl dějný zlom.
+[44:16] Tehdy poprvé
+[44:18] jsme přišli
+[44:20] s tou rétorikou,
+[44:22] že je tady nějaká válka proti terorismu
+[44:24] a že je nezbytné obětovat
+[44:26] část našich práv.
+[44:28] Že je nezbytné vzdát se části našich práv.
+[44:30] Že je nezbytné na základě Patriot Actu
+[44:32] nechat šmírovat tajné služby,
+[44:34] naše e-maily, naše telefonické rozhovory.
+[44:36] Že je prostě normální
+[44:38] nás začít šmírovat,
+[44:40] které by mohly ten terorismus
+[44:42] nějakým způsobem prosazovat.
+[44:44] Tehdy se zavedly dohledy
+[44:46] nad všemi finančními transakcemi.
+[44:48] Protože samozřejmě
+[44:50] se řeklo, že by se tím mohlo
+[44:52] financovat terorismus.
+[44:54] Zejména hotovostními transakcemi.
+[44:56] Přitom samozřejmě víme dnes,
+[44:58] že ti údajní teroristé
+[45:00] byli financováni normálně
+[45:02] bankovními převody z Pakista.
+[45:04] Tehdy to začalo.
+[45:08] Ta atmosféra strachu.
+[45:10] Každý, kdo řekl, ne, já to nechci,
+[45:12] kdo by dal ve svobodné zemi
+[45:14] bez války a bez toho,
+[45:16] aniž bychom museli na někoho útočit,
+[45:18] tak byl okamžitě onálepkován
+[45:20] jako člověk, který hazarduje
+[45:22] zbezpečností té země
+[45:24] a že je možné, že teroristé
+[45:26] ten útok zopakují.
+[45:29] Tehdy začala ta válka
+[45:31] proti neviditelnému terorismu.
+[45:33] První, na koho USA zautočili,
+[45:35] byl Afganistán,
+[45:37] který z těch teroristů
+[45:39] ani jeden nebyl Afgánec.
+[45:41] Drtivá většina byly saudové,
+[45:43] ale Afganistán a Irák,
+[45:45] přestože tyto země s nimi
+[45:47] neměly nic společného.
+[45:51] Tehdy to začalo.
+[45:53] Tohle, tenhle stejný model,
+[45:55] vyvolání strachu,
+[45:57] onálepkování každého,
+[45:59] kdo se proti tomu strachu postaví,
+[46:01] jako člověka, který hazarduje
+[46:03] zbezpečností vlastního národa
+[46:05] a člověk, který by vlastně
+[46:07] neměl být vůbec poslouchán
+[46:09] a měl by být vytlačen, vymezen
+[46:11] na okraj společnosti,
+[46:13] protože on přece nahrává těm druhým.
+[46:15] Stejný model přišel s Green Dealen,
+[46:17] stejný model přišel s Covidem
+[46:19] a stejný model přišel s Ukrajinou.
+[46:21] Tehdy to poprvé začalo
+[46:24] a tehdy na to poprvé lidé kývry.
+[46:26] Na to, že je
+[46:28] lepší omezit
+[46:30] svoje vlastní svobody
+[46:32] za cenu jakési
+[46:34] pofidérní bezpečnost.
+[46:36] Já to odmítám.
+[46:38] Já tenhle pohled na svět odmítám.
+[46:41] 11. září bylo
+[46:43] začátkem tohoto modelu
+[46:45] v ovládnutí celé
+[46:47] západní populace
+[46:49] skrze strach.
+[46:51] Tehdy ten strach
+[46:53] jsme všichni viděli na těch obrazovkách
+[46:55] a v tu chvíli oni ho využili proti nám.
+[46:57] A dělají to dodnes.
+[47:01] Válka proti terorismu,
+[47:03] zavádění Patriot Actu
+[47:05] v Americe, tedy možnosti šmírovat
+[47:07] kohokoliv a kdekoliv,
+[47:10] ostrakizování a onálepkování všech lidí,
+[47:12] kteří byli proti
+[47:14] těmto nesmyslným krokům,
+[47:16] to je to samé dnes.
+[47:18] To samé sledujeme dnes Ukrajinou.
+[47:20] Každý, kdo říká neválčeme,
+[47:22] tak je okamžitě onálepkován,
+[47:24] že pomáhá Rusku.
+[47:26] Že ohrožuje naši bezpečnost.
+[47:28] Tehdy se říkalo, že teroristé znovu zautočí,
+[47:30] že předvedou nějaký další útok.
+[47:32] Dnes se říká, že za čtyři doky zautočí Rusko.
+[47:34] Ten model je stále stejný.
+[47:36] Nenechme se ovládat strachem.
+[47:38] Odmítněme to.
+[47:41] Proto to 11. září je tak důležité.
+[47:43] Já osobně nevěřím
+[47:45] ani za mák té oficiální teorii,
+[47:47] která nám byla prezentována
+[47:49] a kterou nám tehdejší komise
+[47:51] pro vyšetřování 11. září prezentovala.
+[47:53] Těch pochybností je tam
+[47:56] celá řada.
+[47:58] Jsou tam faktory,
+[48:00] které nikdy nemohl zařídit
+[48:02] Usama bin Laden nebo nějaký teroristé.
+[48:04] Nikdy.
+[48:06] Zeptejte se, proč komise pro kontrolu
+[48:08] cených papírů v Americe
+[48:10] dodnes nejenom, že nezveřejnila,
+[48:12] kdo obchodoval v obrovských objemech
+[48:14] na pokles akcí
+[48:16] United Airlines a American Airlines,
+[48:18] kde společnosti jejich letadla
+[48:20] tam havarovala.
+[48:22] Samozřejmě jejich akcie drtivým způsobem
+[48:24] se propadly.
+[48:26] A kdo si obchodoval několik týdnů
+[48:28] před tím 11. zářím
+[48:30] obrovskými objemy
+[48:32] desítkách, stovkách milionů dolarů
+[48:34] na pokles, spekuloval na pokles
+[48:36] těch akcí?
+[48:38] Mnohonásobně se zvýšil objem těch obchodů.
+[48:40] Komise pro cené papíry ve USA
+[48:42] nejenom, že to nezveřejnila,
+[48:44] kdo to byl,
+[48:46] ona nechala ty záznamy zničit.
+[48:49] Aby se to nikdo nikdy nedozvěděl.
+[48:51] Tenhle někdo musel vědět,
+[48:54] že se ta událost stane.
+[48:56] Samozřejmě mohl bych tady argumentovat
+[48:58] pádem World Trade Center 7,
+[49:00] že se zřítila volným pádem
+[49:02] do vlastního půdorysu,
+[49:04] atd.
+[49:06] Ale já vám řeknu jiné věci,
+[49:08] které nejsou třeba tak známé.
+[49:10] Larry J. Silverstein,
+[49:12] který si pronájal
+[49:14] světové obchodní centrum,
+[49:16] tak si pár týdnů před tou událostí
+[49:18] pojistil specificky protiteroristickému útoku.
+[49:20] Protože ten útok
+[49:22] vytvořil 7,2 miliardy dolarů.
+[49:25] Larry J. Silverstein,
+[49:27] tento nájemce,
+[49:29] každý jeden den snídal
+[49:31] v 82. patře
+[49:33] jedné z těch věží.
+[49:35] První den, kdy se tomu tak nestalo,
+[49:37] bylo 11. září.
+[49:39] Byl u zubaře.
+[49:41] Řekl, že ho zachránila jeho manželka,
+[49:44] protože ho poslala k zubaře.
+[49:46] Náhoda.
+[49:48] Kdo dokázal odvolat psi
+[49:50] na základě rekonstrukce,
+[49:52] toho, že se měly rekonstruovat ty budovy?
+[49:54] Prostě poslední týdny,
+[49:56] před tím útokem,
+[49:58] ti psi, kteří vyhledávají bušněny,
+[50:00] tam nebyli. Byli odvoláni.
+[50:03] Jakým způsobem vysvětlíte,
+[50:05] že letadlo narazilo,
+[50:07] to druhé letadlo narazilo do té věže
+[50:09] rychlostí, která překonává destrukční rychlost toho letadla?
+[50:11] To znamená, že by se rozpadlo ve vzduchu.
+[50:13] V té hustotě vzduchu už prostě není možné,
+[50:15] aby se udrželo kompaktní,
+[50:17] aby se rozmačkáno jak plechovka.
+[50:19] Tím obrovským tlakem, hustotou vzduchu.
+[50:21] Letadlo může letět 1000 km za hodinu,
+[50:23] ale v 10 000 m, ne ve 300 m.
+[50:25] To je prostě ten tlak vzduchu,
+[50:27] který ho rozmačká.
+[50:29] Jednoznačná věc, nikdo to na simulátoru nikdy nezaletěl.
+[50:31] Existují desítky
+[50:33] místopřísežných prohlášení,
+[50:35] že to není možné.
+[50:37] A ještě vám řeknu jednu věc,
+[50:39] která je velmi, velmi neznámá.
+[50:42] 10. září, nebo mnoho lidí o ní neví,
+[50:44] 10. září 2001,
+[50:46] den před tím útokem,
+[50:48] tehdejší ministr obrany
+[50:50] USA Donald Rumsfeld
+[50:52] na tiskové konferenci oznámil,
+[50:54] že americká armáda
+[50:56] není schopná zdokladovat výdaje
+[50:58] za 21 bilionů dolarů.
+[51:00] Za 21 bilionů dolarů.
+[51:02] Není schopná zdokladovat,
+[51:04] kam ty peníze šly, za co se utratily.
+[51:06] Po 11. září
+[51:09] už se na to nikdo nikdy nezeptal.
+[51:12] A samozřejmě už potom ty známé detaily,
+[51:14] že BBC odvysílala report,
+[51:16] otáž o pádu té třetí budovy
+[51:18] asi 27 minut předtím, než spadla,
+[51:20] to už vědí dneska snad
+[51:22] už všichni, kdo se o to zajímají.
+[51:24] Takže to jsou prostě všechno
+[51:26] až příliš mnoho náhod,
+[51:28] než abych jim věřil.
+[51:30] A toho samozřejmě nemluvím o Pentagonu,
+[51:32] kde údajně veškeré bezpečnostní kamery
+[51:34] to nezachytily,
+[51:36] měla to zachytit jenom jedna,
+[51:38] která měla rychlost framu za sekundu takovou,
+[51:40] že mají lepší kameru i na benzínce.
+[51:42] A uvolnili ty záběry
+[51:44] až po soudním řízení,
+[51:46] kdy jim to nařídil soud
+[51:48] po nějakých čtyřech nebo pěti letech.
+[51:50] Do té doby nám neukázali jeden záběr
+[51:52] toho letadla narážejícího do Pentagonu.
+[51:54] A mohl bych pokračovat, opravdu,
+[51:56] těch věcí je tisíc.
+[51:58] Takže já skutečně nevěřím,
+[52:00] že tohle byli schopni
+[52:02] spáchat všechno lidé
+[52:04] někde z jeskyně Tora Bora
+[52:06] v Afganistánu.
+[52:08] Já bohužel se domnívám,
+[52:10] že se jednalo o další záminku
+[52:12] pro omezování našich práv,
+[52:14] pro další kšef, pro další biznis.
+[52:16] Zakrylo se spousta stop
+[52:18] a vytvořily se podmínky
+[52:20] pro celá
+[52:22] zásadní změnu
+[52:24] světového uspořádání
+[52:26] a ovládání lidí prostřednictvím strachu.
+[52:28] Proto říkám, prosím, nenechme se ovládat strachem.
+[52:30] Je to to nejdůležitější, co máme.
+[52:32] Jakmile zvítězí strach,
+[52:34] jakmile zvítězí to,
+[52:36] že se budeme bát, že nám schozí planeta,
+[52:38] že se budeme bát z toho,
+[52:40] že nám za šest let tady zautočí Putin,
+[52:42] tak budeme jenom skákat tak,
+[52:44] jak oni pískají podle jejich not,
+[52:46] podle jejich písničky
+[52:48] my budeme tady tancovat.
+[52:50] A to já nechci. Nebojíme se.
+[52:52] Nic takového se nestane.
+[52:54] Planeta určitě neschoří, Putin nezautočí,
+[52:56] nemá k tomu jeden jediný důvod,
+[52:58] pokud na ně nezautočíme my.
+[53:00] A z mého pohledu
+[53:02] celá Evropa v tuto chvíli
+[53:04] čelí daleko většímu nebezpečí
+[53:06] v podobě migrace a Green Dealu.
+[53:08] To je to, co nás může zničit.
+[53:10] Nikoliv klimatická změna, nikoliv Rusko.
+[53:12] Přátelé, na závěr bych vám
+[53:15] chtěl jenom říci, že
+[53:17] si moc vážím toho, že
+[53:19] jsme v tom průzkumu,
+[53:21] který dnes vyšel, fakticky jako
+[53:23] jediná vládní strana posílili.
+[53:25] My jsme měli ve volbách 7,8%.
+[53:27] Teď má SPD
+[53:29] de facto to samé. A když k tomu
+[53:31] připočtete pro trikoloru a svobodné,
+[53:33] tak jsme na 10%.
+[53:35] To znamená zásadní nárůst podpory
+[53:37] pro to naše uskupení.
+[53:39] A já si to velmi vážím
+[53:41] a věřím, že to je výraz,
+[53:43] toho, že jsme prostě
+[53:45] neotočili, že jsme neuhli,
+[53:47] že se dále držíme našich předvolebních slibů.
+[53:49] A to říkám
+[53:51] přesto, že jsem nespokojen
+[53:53] s celou řadou věcí, kterou jsme
+[53:55] zatím předvedli a beru to
+[53:57] samozřejmě i na sebe, protože jsem součástí té vlády.
+[53:59] Já osobně bych chtěl ty změny
+[54:01] razantnější, rychlejší,
+[54:03] bez toho aniž bysme se neustále
+[54:05] omlouvali nebo
+[54:07] ustupovali jejich tlaku. Ano,
+[54:09] chtěl bych už mít tady zákon FARA,
+[54:11] chtěl bych už mít tady vyřešenou českou televizi,
+[54:13] chtěl jsem zrušit některé zbrodářské
+[54:15] kontrakty v čele s tou F-35,
+[54:17] která je naprosto nesmyslná
+[54:19] a zbytečná. Ano, já bych
+[54:21] nedával dvě procenta na obranu, protože
+[54:23] to jsou nesmyslně vynaložené peníze.
+[54:25] Ano, já už bych šel do tvrdého
+[54:27] střetu s Evropskou uní ohledně
+[54:29] Green Dealu a ohledně migračního
+[54:31] paktu. Podle mého názoru bychom
+[54:33] měli postupovat mnohem tvrdším
+[54:35] způsobem, protože k tomu jste nám dali
+[54:37] mandát a to jste od nás očekávali.
+[54:39] A věřte mi, že já budu i
+[54:41] nadále se snažit
+[54:43] ze všech sil vám dokazovat, že to myslím
+[54:45] vážně, ale že je nezbytné
+[54:47] tu podporu, kterou jste nám nyní
+[54:49] evidentně podle toho průzkumu dáváte a
+[54:51] zvyšujete, abychom ji navýšili
+[54:53] ještě výraznějším způsobem.
+[54:55] Aby lidé, kteří jsou připraveni
+[54:57] budovat Českou republiku jako suverénní
+[54:59] zemi, neustupovat Evropské
+[55:01] unii, neustupovat Natu,
+[55:03] neustupovat VHO, neustupovat
+[55:05] všem těm velkým nadnárodním
+[55:07] společnostem, které si z nás chtějí dělat klondajk,
+[55:09] tak aby tyto lidé měli
+[55:11] ještě vyšší váhu slova.
+[55:14] Než těch 7,5%.
+[55:16] A proto budu rád, když nás podpoříte i v
+[55:18] komunálních a senátních volbách.
+[55:20] Máme skvělé senátní kandidáty.
+[55:22] Ostrava,
+[55:24] Milan Loprajs.
+[55:26] Je to Poruba, je to Hlučín,
+[55:28] vy všichni, kdo tam bydlíte, prosím, pojďte
+[55:30] podpořit Milana. Jak už jsem říkal,
+[55:32] já neznám slušnějšího, česnějšího,
+[55:34] rovnějšího člověka, než je Milan.
+[55:36] Fantastický člověk, pojďte, prosím, mu dát hlas.
+[55:38] Děčínsko, Honza Skalický.
+[55:40] To je celý šluknovský
+[55:42] výběžek. Všichni, kdo tam bydlíte,
+[55:44] Warnsdorf a tak dále,
+[55:46] prosím, pojďte podpořit Honzu Skalického.
+[55:48] Neuvěřitelně pracovitý člověk,
+[55:50] který to myslí
+[55:52] s těmi změnami absolutně vážně.
+[55:54] Trutnovsko, Hinek Beran.
+[55:56] Výborní tvář odporu
+[55:58] proti stavění větrných elektráren.
+[56:00] Takže celé Trutnovsko,
+[56:02] Hinek Beran a Příbramsko,
+[56:04] Josef Šorna. A budu velmi rád, když nás
+[56:06] podpoříte i v našich komunálních kandidátkách.
+[56:08] Máme
+[56:10] v táboře šanci pro tábor.
+[56:12] Tam máme lídra
+[56:14] Antonína Snášela.
+[56:16] Máme v Budějovici kandidátku, kde je
+[56:18] na dvojice Petr Šimek.
+[56:20] Pro Budějce. Skvělá
+[56:22] opět kandidátka složená z výborných lidí.
+[56:24] Patrioti Trutnov.
+[56:26] S podporou pro kandidátka číslo
+[56:28] jedna v Trutnově. Ve Zlíně
+[56:30] kandidátka číslo čtyři.
+[56:32] Združení politické strany pro právo, respekt
+[56:34] odbornost a nezávislí.
+[56:36] Bystřici pod Hostýnem.
+[56:38] Pro a svobodní.
+[56:40] Opět tam máme Evu Badinkovou v čele.
+[56:42] Skvělá dáma. V Rožnově
+[56:44] pod Radhoštěm máme
+[56:46] další kandidátku, kde jsme s SPD
+[56:48] dohromady. A
+[56:50] máme tam naše kandidáty
+[56:52] na pozici číslo jedna a tři.
+[56:54] Jdeme SPD a pro.
+[56:56] V Plzni. Koalice SPD, Trikolora a pro
+[56:58] s podporou přísahy.
+[57:00] Magistrát číslo dva.
+[57:02] Máme obvod
+[57:04] na obvodu jedna
+[57:06] máme číslo šest.
+[57:08] Na obvodu dva máme číslo pět.
+[57:10] Na obvodu tři máme číslo šest.
+[57:12] A všude
+[57:14] v podstatě jsme tam dohromady.
+[57:16] SPD, kde si
+[57:18] velmi dobře rozumíme na Plzeňsku a
+[57:20] funguje to tam naprosto perfektně.
+[57:22] Srdcem pro Hrádek.
+[57:24] V Hrádku u Rokica.
+[57:26] Naše kandidátka opět.
+[57:28] Chodský újezd
+[57:30] okres Tachov. Znovu tam máme
+[57:32] kandidátku pro chodském újezdu.
+[57:34] V Tachově máme člena na
+[57:36] kandidáce SPD.
+[57:38] V Rokicanech
+[57:40] člena na kandidáce probudíme Rokicany.
+[57:42] Takže všichni z Rokican, prosím tam.
+[57:44] Dolany je pro Dolany.
+[57:48] Máme číslo čtyři.
+[57:50] Ruda nad Moravou.
+[57:52] Kandidátka pro číslo dva.
+[57:54] Prostějov. Kandidátka náš
+[57:56] prostějov číslo šest.
+[57:58] Beňov. Kandidátka pro
+[58:00] pro náš Beňov
+[58:02] číslo dva. Ústí nad Labem.
+[58:04] Tam máme skvělou kandidátku pro.
+[58:06] Se stačilo s naším
+[58:08] líderem Tomášem Jelinkem číslo čtyři.
+[58:10] V Chomutově. Tam jsme dali
+[58:12] dohromady dokonce SPD
+[58:14] motoristé pro Chomuto
+[58:16] v sobě s číslou osm.
+[58:18] Opravdu tam je
+[58:20] jedna z nejšetších kandidátek, kterou máme.
+[58:22] Ve Vansdorfu
+[58:24] pro. Čistě je naše kandidátka.
+[58:26] Číslo osm. V Litvínově máme
+[58:28] kandidátku Litvíno v sobě, kde se spojili
+[58:30] SPD motoristé a pro
+[58:32] s číslem dva. Takže Litvínov
+[58:34] volí Litvíno v sobě.
+[58:36] V Liberci máme vlastní kandidátku s Lenkou Tarabovou
+[58:38] v čele číslo tři.
+[58:40] V Doxech opět naše kandidátka pro
+[58:42] číslo šest.
+[58:44] Česká lípa SPD s podporou pro
+[58:46] číslo jedna. A já budu
+[58:48] moc rád, když nás podpoříte
+[58:50] zejména v Havířově, kde máme
+[58:52] skvělou vlastní kandidátku
+[58:54] v čele s Martinem Garou.
+[58:56] S tím skvělým člověkem, za kterého dávám
+[58:58] ruku do ohně. A ve Velké Ostravě,
+[59:00] kde jsme se domluvili se švýcarskou demokracií
+[59:02] a se svobodnými a trikolorou.
+[59:04] A samozřejmě i v Rychvaldu a
+[59:06] mnoha dalších obcích. Já vám dám ještě
+[59:08] odkaz tady na mapu
+[59:10] na naší straně pro,
+[59:12] kde můžete si rozkliknout
+[59:14] a kliknout si na váši obec, abyste viděli
+[59:16] přesně koho volit. Protože mnoho těch
+[59:18] kandidátek má název pro,
+[59:20] ale nemají s námi nic společného.
+[59:22] Jako například pro Plzeň. Tak prosím,
+[59:24] pokud nám chcete dát váš hlas, podpořit
+[59:26] naše lidi, aby řídili
+[59:28] tyto poctivý, férový lidé
+[59:30] vaše města, vaše obce,
+[59:32] tak prosím, zkuste si to najít. Budu za to
+[59:34] moc rád, budu za to nesmírně vděčný.
+[59:36] Protože tady to začíná. V tom komunále
+[59:38] začíná velká politika.
+[59:40] A kdo chce uspět v roce 2029,
+[59:42] musí uspět už nyní.
+[59:44] Takže prosím, pojďte podpořit
+[59:46] naše senátní kandidáty, ještě jednou naše komunále,
+[59:48] ale ze senátu Milan Loprajs,
+[59:50] Ostrava, Děčínsko,
+[59:52] Honza Skalický,
+[59:54] Trutnovsko,
+[59:56] Hynek Beran, Příbramsko,
+[59:58] Josef Šorna. Ve všech dalších obvodech
+[01:00:00] prosím, volte kandidáty SPD.
+[01:00:02] A samozřejmě podporujeme i Petru Rédovu,
+[01:00:04] která si to jednoznačně zaslouží.
+[01:00:06] A myslím si, že je to skvělá, skvělá kandidátka.
+[01:00:08] Moc vám děkuju, přátelé.
+[01:00:11] Děkuju vám za vaši podporu. Určitě
+[01:00:13] sledujte ji nadále. Budu vás doufám
+[01:00:15] bavit a myslím, že Jan Jakob
+[01:00:17] není poslední, kdo z toho studia
+[01:00:19] odešel. Že je to jen ten
+[01:00:21] první. Teď to začíná.
+[01:00:23] Pravda konečně se dostává
+[01:00:25] na povrch. Vidíme to v Německu,
+[01:00:27] v AFD, vidíme to ve Francii,
+[01:00:29] Lepenovci. Pojďme to dokázat i tady.
+[01:00:31] Pojďme se přestat bát, pojďme zahodit
+[01:00:33] strach a pojďme být pro.
+[01:00:35] My vám Českou republiku ochráníme
+[01:00:37] a my jsme připraveni
+[01:00:39] se postavit stejně jako AFD,
+[01:00:41] nikoli proti Rusku, ale
+[01:00:43] proti migraci, proti Green Dealu,
+[01:00:45] proti Bruselu a proti válce.
+[01:00:47] Hezký den všem, přeji
+[01:00:49] úspěšný týden, ať se vám daří.
+[01:00:51] Ať žije naše vlast,
+[01:00:53] ať žije naše krásná
+[01:00:55] Česká republika.
+[01:00:57] Bůh ji ochraňuj.
