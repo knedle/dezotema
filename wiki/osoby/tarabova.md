@@ -65,6 +65,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - **7. 9.** — komunální program: zastavení projektu „Klimaticky neutrální Liberec" (unijní Net Zero Cities, snížení emisí o 82 % do 2030) — kritika dopadů na občany (zateplování, elektromobilita) — [Videoportál 7. 9.](../_zdroje.md#lenka-tarabová--videoportál-klimaticky-neutrální-liberec-7-9-2026)
 - **14. 9.** — komunální program bod 4: bezpečnost a městská policie — dialog s řadovými strážníky a obyvateli, zlepšení podmínek strážníků, řešení bezdomovectví/návykových látek, navýšení počtu strážníků — [Videoportál 14. 9.](../_zdroje.md#lenka-tarabová--videoportál-bezpečnost-a-městská-policie-14-9-2026)
 - **16. 9.** — kritika Lukáše Hájka (Starostové pro LK) za nálepkování PRO/SPD jako „extremistů"; PRO kvůli tomu odstoupilo od „volebního tržiště" — [Videoportál 16. 9.](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026) → [volby-2026.md](../volby-2026.md#liberec--volební-tržiště-a-odmítnutí-spolupráce-s-pro-tarabová-16-9-2026)
+- **23. 9.** — komunální program bod 6: audit veřejných financí Liberce — rezerva města klesla z 1,27 mld. na 413 mil. Kč za dva roky, cíl snížit provozní náklady o 3–5 %, výroční zpráva „Kam jdou peníze Liberce?" — [Videoportál 23. 9.](../_zdroje.md#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026)
 
 ---
 
@@ -143,3 +144,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: klimaticky neutrální Liberec (7. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-klimaticky-neutrální-liberec-7-9-2026)
 - [Videoportál: bezpečnost a městská policie (14. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bezpečnost-a-městská-policie-14-9-2026)
 - [Videoportál: volební tržiště (16. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026)
+- [Videoportál: veřejné finance Liberce (23. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026)

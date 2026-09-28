@@ -1230,6 +1230,16 @@ Tarabová představuje čtvrtý bod volebního programu, věnovaný bezpečnosti
 
 ---
 
+### Komunální program bod 6: audit veřejných financí Liberce (Tarabová, 23. 9. 2026)
+
+Tarabová představuje šestý bod volebního programu PRO pro Liberec — kontrolu veřejných financí. Tvrdí, že s hospodařením současného vedení magistrátu jsou občané nespokojeni („kutálejí se nám miliony nahoru dolů" na velké projekty, zatímco v okolí bydliště lidem věci chybí). Odkazuje na zářijovou zprávu, podle níž je Liberecký kraj druhým nejhůře hospodařícím krajem, a za hlavního viníka označuje samotný Liberec: rezerva města podle ní klesla z 1,27 mld. Kč v polovině roku 2024 na 413 mil. Kč na konci června 2026, tedy zhruba o dvě třetiny za dva roky. Navrhuje audit provozu magistrátu a městských společností, snížení provozních nákladů o 3–5 % během volebního období (úspory vrátit do bydlení, dopravy, škol, zdravotnictví a péče o seniory), důslednou kontrolu zakázek a každoroční veřejnou zprávu „Kam jdou peníze Liberce?".
+
+> „S námi se miliony nerozkutálí, to mi věřte." — Lenka Tarabová, [Tarabová — Videoportál: veřejné finance Liberce, 23. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026)
+
+**Zdroje:** [Tarabová — Videoportál: veřejné finance Liberce, 23. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026)
+
+---
+
 ### Debatní spor s „Matějem z Tetína" — zpochybnění kompetence kritika rozpočtu (Rajchl, 9. 9. 2026)
 
 V televizní debatě reaguje Rajchl na kritiku svého rozpočtového hospodaření (SPD dle kritika nechtěla zvyšovat daně) protiútokem na osobu kritika — starostu obce Tetín, kterého oslovuje jako „Matěje". Odmítá, že by šlo o „strunu nenávisti", a argumentuje, že jde o legitimní poukázání na nekompetenci: kritik podle Rajchla „málem zbankrotoval" vlastní obec a rozpočet obce zachránila jen pomoc kraje — proto je dle něj „k smíchu", když ho právě tento člověk poučuje o státním rozpočtu. Debatu odmítá svést na téma dotace pro Tetín, kterou označuje za řádně vyúčtovanou a v souladu s běžným procesem.

@@ -4915,3 +4915,10 @@
 - **URL:** <https://www.facebook.com/100083247552502/videos/2415815625494343>
 - **Datum záznamu:** 2026-09-22
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: veřejné finance Liberce (23. 9. 2026) {#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-23_Lenka-Tarabová_1K-views-17-reactions-PRO-PRÁVO-RESPEKT-ODBORNOST-Prog.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1307867298000290&_rdr>
+- **Datum záznamu:** 2026-09-23
+- **Zpracováno:** ano
