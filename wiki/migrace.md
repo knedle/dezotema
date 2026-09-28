@@ -763,3 +763,11 @@ Podle zprávy, kterou Vrabel komentuje, švédské parlamentní volby těsně vy
 **Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 
 ---
+
+### Legální i nelegální migrace je stejná „sebevražda Evropy" — model rotačních pracovních víz; kritika Konečné (Vrabel, 22. 9. 2026)
+
+K projevu britského labouristy Andyho Burnhama („migrace ano, ale kontrolovaná") Vrabel odmítá rozlišování legální a nelegální migrace: lidem podle něj vadí vraždy, útoky kyselinou, noži a bombami a znásilnění dcer „mudžahedíny", ne právní status migranta — legální příchod džihádistů je podle něj ještě horší. Evropa tím „páchá sociální a demografickou sebevraždu". Jako vlastní model navrhuje jen kulturně kompatibilní migranty (např. buddhisty z Nepálu) na půlroční až roční pracovní víza s povinným návratem, podle dřívějšího režimu pro Ukrajince (konzulát ve Lvově, kvóty). Kritizuje europoslankyni Kateřinu Konečnou, že hlasovala pro legální cesty migrace z Afriky („nevím, co vidí na těch černochách").
+
+> „To, co dělá dneska Evropa, páchá sebevraždu, absolutně sociálně, demograficky páchá sebevraždu a vůbec nezáleží na tom, jestli to je legální migrace nebo nelegální migrace." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)

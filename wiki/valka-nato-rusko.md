@@ -521,7 +521,7 @@ Donald Trump prohlásil, že další přítomnost amerických vojsk v Evropě bu
 
 **19. 9.** — Vrabel k oznámené dohodě mezi USA a Dánskem o bezpečnosti Grónska (podpis očekáván při Valném shromáždění OSN) — Washington má získat trvalou kontrolu nad bezpečnostními opatřeními na ostrově a právo blokovat vojenskou přítomnost či „citlivé investice" protivníků bez písemného souhlasu USA — poukazuje na rozpor mezi proklamovaným zachováním dánské suverenity a práva Grónska na sebeurčení a fakticky přiznaným vetem USA nad tím, kdo smí do Grónska investovat (přirovnává k čínskému projektu Pásu a stezky, který by podle takové dohody Grónsko nemohlo přijmout bez amerického souhlasu). Uzavírá, že Grónsko dnem podpisu fakticky ztrácí suverenitu a stává se závislým na rozhodnutích Washingtonu — „slova o suverenitě a sebeurčení" označuje za rétoriku, „aby se koza nažrala a vlk zůstal celý".
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 
 ---
 
@@ -973,7 +973,9 @@ Polský prezident podepsal zákon naplňující bilaterální dohodu o spoluprá
 
 Polské letectvo vyslalo dvojici stíhaček k identifikaci ruského průzkumného letounu bez letového plánu (nebo s vypnutým transpondérem), letícího v mezinárodním vzdušném prostoru cca 40 km severně od Kolobřehu — polský ministr obrany zdůraznil, že letoun polský vzdušný prostor nenarušil. Vrabel incident ironicky přirovnává k obviněnému ze znásilnění, který na oběť z druhé strany ulice jen mrkl, aniž by se k ní přiblížil nebo ji jakkoliv napadl — jde podle něj o typický příklad toho, jak se z běžné a legální situace (let v mezinárodním vzdušném prostoru bez omezení) vytváří poplašná zpráva. Navazuje na jeho opakovanou tezi o „salámové metodě" eskalace (viz výše).
 
-**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)
+**22. 9.** — K eskortě ruského Il-20 polskými stíhačkami 40 km od pobřeží: „to jsou fakt šašci". Výrok polského ministra obrany o sestřelování ruských dronů nad Ukrajinou považuje za nesmysl — ruské drony mají souřadnice na Ukrajině a do Polska nemíří; Polsko podle něj přesouvá prakticky celou armádu na východní hranici a „Poláci pravděpodobně jsou na řadě další".
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 
 ---
 

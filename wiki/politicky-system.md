@@ -996,7 +996,9 @@ V krátkém vystoupení na Primě Rajchl odmítá, že by zmrazení platů polit
 
 Vrabel upozorňuje na případ, kdy německá policie zmlátila a zadržela Poláky, kteří se chtěli pomodlit a zanechat kříž na hřbitově v Berlíně (vyvolalo reakce v Polsku i Německu). Zasazuje to do vzorce, kterého si všímá „poslední týdny": výrazně zvýšená policejní brutalita na Západě — vedle Německa i v Británii a u propalestinských demonstrací proti izraelským útokům na Gazu. Vyvozuje, že „globalistický Západ" dává policii pokyn být brutální.
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026)
+**22. 9.** — K protestům ve Francii proti zákonu rozšiřujícímu použití zbraně policií („licence zabíjet") Vrabel poukazuje na paradox: proti policejnímu násilí protestující jsou brutálně mláceni policisty — „to je ta kolébka demokracie". Protesty jsou podle něj všude v Evropě, jen v ČR ne.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 
 ### „Demokracie = vláda elit, ne lidu" — Vrabel (19. 6. 2026)
 

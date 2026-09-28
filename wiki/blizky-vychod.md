@@ -597,7 +597,9 @@ Podle deníku Haaretz varoval prezident Spojených arabských emirátů izraelsk
 
 Rada guvernérů Mezinárodní agentury pro atomovou energii (23 z 35 hlasů) rozhodla předat íránský jaderný spis Radě bezpečnosti OSN pro dlouhodobou nespolupráci Teheránu při objasňování nálezů uranu na nedeklarovaných místech — otevírá to možnost nových sankcí, ač Írán svůj program označuje za mírový. Vrabel opakuje svou dlouhodobou tezi: Rusko a Čína (které mají v Radě bezpečnosti právo veta) tvrdí, že Írán svou dřívější dohodu plnil bezchybně a nemá vojenský jaderný program, zatímco západní většina v Radě guvernérů prosadila předání věci OSN, aby vytvořila politický a mediální tlak ospravedlňující dřívější americký útok na Írán před listopadovými volbami v USA. Předpokládá, že než se věc v OSN skutečně projedná, budou už americké volby za námi a Rusko s Čínou návrh v Radě bezpečnosti „smetou ze stolu" vetem — celé je to tedy podle něj jen „mediální příběh".
 
-**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+**22. 9.** — K Trumpovu projevu v OSN (Írán si má vybrat mezi válkou a mírem, dohoda až po midterms) Vrabel tvrdí, že Trump si chce Írán „podmanit" a že jde o „mnohem horší agresi" než ruskou na Ukrajině, protože začala „vyvražděním několika stovek malých dívek" a íránské vlády. Delegace, které opustily sál při projevu Netanjahua („Satanyahu"), podle něj reagují oprávněně: Trump slouží „sionistickým křesťanům a židům" usilujícím o Velký Izrael a před soudem by měl stát nejen Netanjahu, ale i další členové izraelské vlády; Zelenskyj je podle něj „mnohem horší" než Netanjahu, protože „dělá genocidu svého vlastního národa".
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 
 ---
 

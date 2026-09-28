@@ -60,6 +60,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — při podpisu francouzského jaderného deštníku zamíří Rusko Orešniky na ČR (22. 9. 2026)
+
+**Předpověď:** Pokud ČR podepíše dohodu o francouzském „jaderném deštníku" (Rafale s ASMP), Rusko okamžitě zamíří proti ČR rakety Orešnik s jadernými hlavicemi.
+
+> „Rusové okamžitě zamíří proti nám [...] oriešníky s jadernýma hlavicema" — Ladislav Vrabel
+
+**Horizont:** podmíněno podpisem dohody s Francií
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+
+---
+
 ### Jiří Černohorský — ruská ropa a plyn budou v zimě chybět; nafta 60–65 Kč a kolaps zásobování (22. 9. 2026)
 
 **Předpověď:** Dodávky ruské ropy a plynu do Evropy nebudou a v zimě budou „jednoznačně" chybět; při eskalaci přijdou fronty na čerpacích stanicích a nafta za 60–65 Kč, poté přídělový systém a do týdne kolaps zásobování potravinami.

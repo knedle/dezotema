@@ -5010,3 +5010,11 @@
 - **URL:** <https://m.facebook.com/watch/?v=1023409767385403&_rdr>
 - **Datum záznamu:** 2026-09-27
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Zprávy v devět 22. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-22-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-22_Ladislav-Vrabel_22-9-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1614622236715736>
+- **Datum záznamu:** 2026-09-22
+- **Zpracováno:** ano
+- **Poznámka:** Chyba přepisu [43:37–50:21] (opakovaný řádek) — ztracen komentář k Moldavsku a začátek zprávy o Grónsku.

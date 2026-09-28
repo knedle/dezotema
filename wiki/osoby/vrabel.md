@@ -1202,12 +1202,14 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 6)
 - **16. 9.** — Finsko-francouzská řídicí skupina pro jaderné otázky; rozvádí argument proti jadernému odstrašení (scénář 1000+ letadel) — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
+- **22. 9.** — jaderné zbraně v Litvě/ČR = akt agrese; francouzský deštník → Orešniky na ČR — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
 
 ### [Kauzy a korupce](../kauzy.md) (pokrač. 9)
 - **18. 9.** — EGAP/COVID+ peníze na vývoz na Ukrajinu — dvojí metr vůči vlastnímu odsouzení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+- **22. 9.** — Koudelka (BIS) měl spáchat trestný čin šíření poplašné zprávy výrokem o ruském útoku „v řádu měsíců" — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 9)
 - **18. 9.** — Húsíové rozšiřují územní zisky, ohrožují saúdský export ropy — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1229,6 +1231,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Migrace](../migrace.md) (pokrač. 22)
 - **19. 9.** — ukrajinizace ČR (2 mil.), predikce ukrajinské politické strany ve volbách — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+- **22. 9.** — legální i nelegální migrace = „sebevražda Evropy", model rotačních víz, kritika Konečné — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1696,6 +1699,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Mark Rutte | ❌ negativní | Nový řádek: jeho „hysterický" projev přirovnán ke stylu Adolfa Hitlera; spekulace o duševní nemoci nebo drogách | 2026-09-14 | [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) |
 | Hašim Tači | ❌ negativní | Bývalý prezident Kosova, velitel UÇK — odsouzen na 25 let za vraždy a mučení vlastní albánské opozice; Vrabel: mírný trest kvůli americkému soudci a vynechání zločinů vůči Srbům/obchodu s orgány | 2026-09-16 | [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) |
 | Robert Fico | ✅ pozitivní | Odmítl automatické uplatnění čl. 5 NATO — Vrabel: „majstrštik", jediný odvážný politik v NATO/EU (další obrat od negativního hodnocení z 8. 6.) | 2026-09-18 | [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) |
+| Michal Koudelka | ❌ negativní | Výrok o ruském útoku „v řádu měsíců" = poplašná zpráva, měl by být stíhán | 2026-09-22 | [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026) |
+| Kateřina Konečná | ❌ negativní | Hlasovala pro legální cesty migrace z Afriky | 2026-09-22 | [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026) |
+| Benjamin Netanjahu | ❌ negativní | „Satanyahu", před soud s dalšími členy vlády | 2026-09-22 | [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026) |
 
 ---
 
@@ -1838,3 +1844,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (18. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
 - [Facebook Live (19. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - [Nedělní vysílání (20. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
+- [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
