@@ -4996,3 +4996,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=1108274668303656&_rdr>
 - **Datum záznamu:** 2026-09-24
 - **Zpracováno:** ano
+
+## Československo TV2 — Speciál Tomáš Čermák II (25. 9. 2026) {#československo-tv2--speciál-čermák-ii-25-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-26_Československo-TV2_18-reactions-3-comments-Československo-TV2-vysílal.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1969290920411767&_rdr>
+- **Datum záznamu:** 2026-09-25
+- **Zpracováno:** ano
