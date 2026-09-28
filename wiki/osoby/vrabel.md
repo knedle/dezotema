@@ -448,6 +448,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
 - Robert Malone: WEF (Schwab, Kissinger) jako projekt CIA; obhajoba Malonea jako umlčeného „otce mRNA" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - „Chazarští bankéři"/Fed jako skuteční vládci nad politiky a válkami — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
+- **25. 9.** — 1 % vlastní 93 % světa, covid jako přesun majetku; Trump „nepracuje pro USA" — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 
 ### [Migrace](../migrace.md)
 - Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -1163,6 +1164,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Politický systém](../politicky-system.md) (pokrač. 19)
 - **14. 9.** — hodinová schůzka Babiše s Pavlem na Hradě jako pokračování „umělého konfliktu" prezident/vláda; koordinace zahraniční politiky jen zastírá schválení dalších ~40 mld. $ pro Ukrajinu na summitu NATO v Ankaře; „vlastenecké" strany po vstupu do vlády přestaly mluvit o referendu o EU/NATO — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [politicky-system.md](../politicky-system.md#umělý-konflikt-vláda-vs-prezident-babišmacinka-předstírají-opozici-vůči-fialovi--vrabel-13-6-2026)
 - **24. 9.** — Čermák zůstává politickým vězněm; „politika herců" (Babiš „pornoherec"), Babišovo veto by válku ukončilo — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+- **25. 9.** — „vyhráli jsme brand, ne program"; Babiš „cizinec", zakázal referendum; „před francouzskou revolucí"; válka vyžaduje umlčet odpůrce — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1208,6 +1210,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md) (pokrač. 6)
 - **16. 9.** — Finsko-francouzská řídicí skupina pro jaderné otázky; rozvádí argument proti jadernému odstrašení (scénář 1000+ letadel) — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
 - **22. 9.** — jaderné zbraně v Litvě/ČR = akt agrese; francouzský deštník → Orešniky na ČR — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+- **25. 9.** — Pavel „psychopat, který chce všude rozdávat jaderné zbraně"; ochuzený uran v Srbsku — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1722,6 +1725,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Alexander Stubb | ❌ negativní | „Jeden z největších fašistů v Evropě" | 2026-09-25 | [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026) |
 | Marco Rubio | ❌ negativní | „Racionální vláda" v Íránu = podle jeho logiky by nebylo terorismem vyvraždit vládu USA | 2026-09-25 | [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026) |
 | Tommy Robinson | ✅ pozitivní | Citován jako autorita k policii a migrantům | 2026-09-25 | [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026) |
+| Petr Bureš | ✅ pozitivní | Moderátor TV Bureš, spojenec, řečník 3. 10. | 2026-09-25 | [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026) |
+| Andrej Babiš | ❌ negativní | „Cizinec, který není rodilý Čech", zakázal referendum o vystoupení z EU | 2026-09-25 | [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026) |
+| Petr Pavel | ❌ negativní | „Psychopat, který všude chce rozdávat jaderné zbraně" | 2026-09-25 | [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026) |
 
 ---
 
@@ -1868,3 +1874,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 - [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 - [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
+- [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)

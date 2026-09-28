@@ -653,6 +653,18 @@ Vrabel tvrdí, že upřímní politici nemají šanci — uspějí herci, „dne
 
 ---
 
+### „Vyhráli jsme brand, ne program" — heslo „Česko na prvním místě" z demonstrací 2022 převzali Babiš a Okamura; Babiš jako „cizinec" zakázal referendum; „jsme před francouzskou revolucí" (Vrabel, 25. 9. 2026)
+
+V pořadu TV Bureš (propagace shromáždění „Člověk na prvním místě" 3. 10.) Vrabel tvrdí, že demonstrace z roku 2022 prosadily do politiky heslo „Česká republika na prvním místě" — Babiš jezdil v dodávce s nápisem „Česko na prvním místě" a Okamura s „falešnou koalicí" SPD–PRO–Trikolóra–Svobodní ho používal denně —, ale politici převzali jen „brand", ne program (ropa a plyn z Ruska, potravinová soběstačnost, svoboda slova, vystoupení z EU, NATO a WHO). Babiše, který „není žádný rodilý Čech", označuje za „cizince v naší vládě", jenž „nám Čechům zakázal" rozhodnout referendem o vystoupení z EU, v rozporu s ústavním principem, že zdrojem moci je lid. Lidé jsou podle něj „ukolíbaní" odchodem Fialy, ale „jsme v podstatě před francouzskou revolucí" — vlády začnou padat. Válka podle něj vyžaduje umlčet odpůrce: „čím blíž jsme k té válce, tím méně svobody"; připomíná Čapka, kterého „utírali", a Goebbelsovu práci se strachem — k moci se dostávají ti, kdo opakují lež, že „Rusko je agresor".
+
+> „My jsme vyhráli ten brand Česká republika na prvním místě [...] ale nevyhráli jsme to, co se za tím skrývá." — Ladislav Vrabel
+
+> „Prostě ta lež se vezme, postaví se takhle a řekne se, kdo nebude opakovat tu lež, toho zastřelíme. A kdo bude s náma opakovat tu lež, tomu dáme kus kořisti." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
@@ -1010,7 +1022,9 @@ Vrabel upozorňuje na případ, kdy německá policie zmlátila a zadržela Pol�
 
 **22. 9.** — K protestům ve Francii proti zákonu rozšiřujícímu použití zbraně policií („licence zabíjet") Vrabel poukazuje na paradox: proti policejnímu násilí protestující jsou brutálně mláceni policisty — „to je ta kolébka demokracie". Protesty jsou podle něj všude v Evropě, jen v ČR ne.
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+**25. 9. (TV Bureš)** — Nový francouzský zákon podle Vrabela dává policistům „pět důvodů", kdy mohou zastřelit občana; „globalistický syndikát" chce lidi zavřít do „digitálního koncentráku" řízeného přes AI, poslouchající „krabičky" a digitální měnu, kde by mu mohli říct: „Vrábel, ty moc mluvíš, tobě tady strhneme peníze".
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 
 ### „Demokracie = vláda elit, ne lidu" — Vrabel (19. 6. 2026)
 

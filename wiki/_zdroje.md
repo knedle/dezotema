@@ -5042,3 +5042,11 @@
 - **Datum záznamu:** 2026-09-25
 - **Zpracováno:** ano
 - **Poznámka:** Chyba přepisu [03:27–10:37] (halucinace „Krásný večer všem") — ztracen úvod (pravděpodobně o drahé naftě).
+
+## Ladislav Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026 {#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-25_Ladislav-Vrabel_Ladislav-Vrabel-Člověk-na-1-místě.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/3481253802049097>
+- **Datum záznamu:** 2026-09-25
+- **Zpracováno:** ano
+- **Poznámka:** Host-stream na kanálu TV Bureš (moderuje Petr Bureš), propagace shromáždění „Člověk na prvním místě" 3. 10. V části 32:00–1:09:44 mluví hosté (T. Hrdlička, L. Benovský, Z. Žákovičová, A. Šulc, K. Rybářová, L. Křivánková) — jejich tvrzení nezpracována.

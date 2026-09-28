@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — „jsme před francouzskou revolucí" — vlády začnou padat (25. 9. 2026)
+
+**Předpověď:** Evropa je „před francouzskou revolucí": vlády začnou padat a přijdou velké změny; po válce přijde změna systému.
+
+> „My jsme v podstatě před francouzskou revolucí teďkon, protože to, že ty vlády začnou padat a že se bude, že budou velký změny, to je úplně jasný." — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+
+---
+
 ### Ladislav Vrabel — Ukrajina „za dva roky úplně někde jinde"; výroba Patriotů nevznikne (25. 9. 2026)
 
 **Předpověď:** Ukrajina nestihne spustit výrobu střel Patriot (továrnu by Rusové zničili) a za dva roky bude „úplně někde jinde" — Rusové nebudou další dva roky „chodit po Ukrajině s vojáky".

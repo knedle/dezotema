@@ -230,3 +230,9 @@ K 25. výročí útoků z 11. září 2001 Zítko věnuje celé vysílání roz�
 **Zdroje:** [Československo TV2 — Videoportál 12. 9. 2026](_zdroje.md#československo-tv2--videoportál-12-9-2026), [Pavel Zítko — Videoportál 13. 9. 2026](_zdroje.md#pavel-zítko--videoportál-13-9-2026), [Československo TV2 — Videoportál 14. 9. 2026](_zdroje.md#československo-tv2--videoportál-14-9-2026)
 
 ---
+
+### „Donald Trump nepracuje pro Spojené státy" — uzavřením Hormuzu rozbíjí americký systém (Vrabel, 25. a 27. 9. 2026)
+
+Vrabel si „není úplně jistý, že Donald Trump pracuje pro Spojené státy" — spíš podle něj spolupracuje na rozpadu systému „Pax Americana": uzavřel Hormuz a Bab al-Mandab a s nimi ropu, plyn, hnojiva a amoniak, čímž rozbíjí ekonomiku „just in time" (v Češnovicích u Budějovic prý neprodávají naftu, ve Francii je zavřená „asi každá devátá benzinka"). Trump je pro něj horší než Biden: „zabil malý holčičky v Íránu", „vyvraždil celou vládu" a „normalizoval vraždění". Současnou vládu Babiše označuje za „vládu podvodníků a herců", horší než Fialovu, která byla „krutá, ale rovná".
+
+**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
