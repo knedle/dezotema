@@ -785,6 +785,16 @@ Boldy tvrdí, že vakcíny mají sloužit jako biologická zbraň — odkazuje n
 
 ---
 
+### Boldy: dokument Pfizeru — přes 150 000 vedlejších účinků u 48 000 případů; vakcíny proti rakovině „udržují" rakovinu (22. 9. 2026)
+
+Boldy navazuje na svou tezi o depopulaci: od začátku očkování proti covidu podle něj klesá porodnost „nejenom v Česku, ale po celém světě" a rostou „náhodná úmrtí", o nichž se tvrdí, že s vakcínami nesouvisejí. Tvrdí, že našel více než 30stránkový dokument Pfizeru, v němž je za pár měsíců šetřeno zhruba 48 000 případů s více než 150 000 vedlejšími účinky; podle jeho vlastního výpočtu má samotná vakcína Pfizer/BioNTech přes 700 vedlejších účinků, včetně nemocí, o nichž „v životě neslyšel". Pod dokumentem jsou prý články, které vše „bagatelizují". Slibuje k tomu samostatné video na YouTube.
+
+Zároveň tvrdí, že rakovinné buňky jsou „odumřelé buňky", které tělo díky chřipce a dalším „základním nemocem" vypuzuje — a že chystané vakcíny (včetně „vakcíny proti rakovině") je mají v těle naopak udržet, „proto se rakovina rozšiřuje víc a víc". Navazuje na [vakcíny jako biologická zbraň a nástroj snižování populace](#boldy-vakcíny-jako-biologická-zbraň-a-nástroj-snižování-populace-17-7-2026).
+
+**Zdroje:** [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+
+---
+
 ### Holandský soud: mRNA vakcíny označeny za biologické zbraně — ČsTV2 (7. 5. 2026)
 
 ČsTV2 ve vysílání 7. 5. 2026 cituje soudní případ vedený advokátem Pietrem Stassenem v Nizozemsku. Soud prý poprvé v historii projednává svědectví, že mRNA vakcíny jsou biologické zbraně, nikoliv léky. Žalovaní jsou Bill Gates, Albert Bourla (ředitel Pfizer) a Mark Rutte (former premiér Holandska, nyní generální tajemník NATO). Soud prý nařídil Gatesovi a Bourlovi, aby se dostavili a odpověděli.

@@ -4908,3 +4908,10 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/1426724876052884>
 - **Datum záznamu:** 2026-09-22
 - **Zpracováno:** ano
+
+## Konspirátor Boldy — Videoportál (22. 9. 2026) {#konspirátor-boldy--videoportál-22-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-22_Konspirátor-Boldy-KonspyChannel_65K-views-14K-reactions-Díky-a-neboj-.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/2415815625494343>
+- **Datum záznamu:** 2026-09-22
+- **Zpracováno:** ano

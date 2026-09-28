@@ -45,6 +45,10 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Doporučení filmu „2073" jako potvrzení Agendy 2030 — [25. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-film-2073-25-8-2026)
 - ⚡ Konflikt: virální „stíhačka nad Nepálem" je AI podvrh, ale zemětřesení bylo uměle vyvoláno HAARPem; Smart Cities/depopulace jako motiv zničení Nepálu — [27. 8. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-27-8-2026)
 - Soud v Jacksonu (Mississippi) omezuje právo na čistou vodu a pravdivé informace; blížící se krize vody a její „tokenizace" na blockchainu (předpověděl Bill Gates, zapojen i Trump) — rozšíření tématu „voda na burze" z 19. 7. — [6. 9. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
+- „Jelení zombie virus" v USA (uzavřené zóny v 37 státech, nakažené maso v obchodech) — rozšíření tématu zombie viru — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+- Výbuch čtyř sopek v Indonésii a uměle vyvolávaná zemětřesení jako příčina mizení vody — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+- Vodné a stočné stonásobně dražší, WEF „voda není pro všechny", Gates skupuje půdu a vodní práva — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+- Zmizelý vynálezce paliva z plastu jako oběť rafinerií a korporací — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ### [Migrace](../migrace.md)
 - Ceuta jako „plán elit na likvidaci Evropy" — armáda migrantům pomáhá, ne brání; financování Gates/Rockefeller nadacemi; predikce zániku Evropy (Nostradamus, Baba Vanga, do 2050) — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
@@ -72,6 +76,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 - Depopulace jako cíl elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 - Vakcíny jako biologická zbraň, Gates na TEDu 2017 o snížení populace o 10–15 % — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- Dokument Pfizeru (48 000 případů, 150 000+ vedlejších účinků, 700+ účinků vakcíny), pokles porodnosti; vakcíny proti rakovině „udržují" rakovinu v těle — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - YouTube smazal přes milion videí o vakcínách; umlčovaní vědci ztrácejí práci / „sebevraždy" — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
@@ -84,6 +89,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 ### [Ceny energií](../ceny-energie.md)
 - Válka s Íránem může poslat ropu na 300 USD/barel — [15. 3. 2026](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
 - Paliva by mohla stát 70–150 Kč/litr — [15. 3. 2026](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+- Připomíná predikci zdražení paliv (60–70 Kč), nafta přes 50 Kč — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Píseň proti větrníkům na Moravě — výzva poslat turbíny „do Bruselu" a protestovat v Praze — [3. 6. 2026](../_zdroje.md#konspirátor-boldy--píseň-proti-větrníkům-na-moravě-3-6-2026)
@@ -115,6 +121,8 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Elon Musk | ❌ negativní | Uveden jako člen elitního klubu „Dialog" | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
 | Jared Kushner | ❌ negativní | Uveden jako člen klubu „Dialog", označen za sionistu | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
 | Kaja Kallas | ❌ negativní | Uvedena jako členka klubu „Dialog" | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
+| Bill Gates | ❌ negativní | Skupuje půdu a vodní práva kvůli krizi, kterou elity samy způsobují; výrok o „miliardách mrtvých" | 2026-09-22 | [Videoportál 22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026) |
+| Klaus Schwab | ❌ negativní | Jeho nástupce ve WEF měl říct, že „voda není pro všechny" — elity si přivlastňují vodu | 2026-09-22 | [Videoportál 22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026) |
 
 ---
 
@@ -145,3 +153,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Videoportál: film 2073 (25. 8. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-film-2073-25-8-2026)
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-27-8-2026)
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
+- [Videoportál (22. 9. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)

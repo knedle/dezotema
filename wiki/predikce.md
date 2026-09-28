@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Konspirátor Boldy — vodné a stočné stonásobně dražší do 1–2 let (22. 9. 2026)
+
+**Předpověď:** Voda bude obchodována na burze a tokenizována; cena vodného a stočného vzroste v horizontu roku až dvou zhruba stonásobně. Elity podle něj plánují vodní krizi, na niž „budou umírat miliardy lidí".
+
+> „Abyste se nedivili, že potom budete platit 100 násobek toho… A oni to mají v plánu." — Konspirátor Boldy
+
+**Horizont:** 2027–2028
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+
+---
+
+### Konspirátor Boldy — nafta přes 50 Kč za litr, benzín a nafta 60–70 Kč (22. 9. 2026)
+
+**Předpověď:** Ceny pohonných hmot porostou — nafta přesáhne 50 Kč za litr, dle jeho dřívějšího odhadu to bude 60–70 Kč. Navazuje na svou březnovou předpověď 70–150 Kč/l při válce s Íránem.
+
+> „Benzín a nafta prostě poletí nahoru a nebude to jenom 50 korun, bude to 60, 70 korun. Teď už jsme připraveni. Bude přes 50 korun za litr nafty." — Konspirátor Boldy
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+
+---
+
 ### Jindřich Rajchl — válka na Ukrajině skončí tak, jak předpovídal; sázka o víno s Krutílkem (22. 9. 2026)
 
 **Předpověď:** Rajchl opakuje, že válka na Ukrajině skončí „přesně tak", jak dříve říkal (tj. mírem podle aktuální vojenské situace / neúspěchem ukrajinské strategie), a nabízí Janu Krutílkovi (ODS) sázku o láhev červeného vína.

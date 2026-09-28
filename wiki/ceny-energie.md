@@ -96,7 +96,9 @@ Boldy předpovídá, že válka s Íránem (kterou sionisté záměrně iniciuj�
 
 > „Tahleta válka může vystřelit cenu ropy až na 300 dolarů za barel. Co by to znamenalo? Benzín a nafta by se vyšplhala od 70 do 150 korun za litr, takže by se staly naftové i benzínové auta luxusem." — Boldy, [Mesiáš, Írán a ropa 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
 
-**Zdroje:** [Boldy — Mesiáš, Írán a ropa, 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
+**22. 9.** — Boldy se k predikci vrací: připomíná, že před několika měsíci říkal, že benzín a nafta „poletí nahoru" a nebude to jen 50, ale 60–70 Kč za litr (v březnu přitom uváděl rozpětí 70–150 Kč). Nyní tvrdí, že nafta bude přes 50 Kč za litr — „teď už jsme připraveni" — a podobné zdražení čeká i vodu.
+
+**Zdroje:** [Boldy — Mesiáš, Írán a ropa, 2026-03-15](_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa), [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ---
 

@@ -433,7 +433,9 @@ Boldy tvrdí, že v posledních dvou letech záhadně zemřelo 13 vrcholových v
 
 **7. 7.** — Boldy doplňuje konkrétní příklad: vědkyně Amy Eskridge, která zkoumala volnou energii (možnost, aby si lidé vyráběli energii doma sami), byla podle něj zavražděna „energetickou zbraní" (Directed Energy Weapon) poté, co zašla do podobných detailů jako Nikola Tesla. Motiv vidí ve snaze ochránit energetiku, ropný průmysl a farmaceutický/zdravotnický byznys (lidé by přestali platit za léčbu, kterou dnešní systém prodlužuje, aniž by skutečně léčil) před ztrátou příjmů. Řadí ji mezi 12–13 podobně zavražděných vědců za poslední čtyři roky.
 
-**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026), [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026)
+**22. 9.** — Boldy přidává příběh Američana, který měl vynalézt levné palivo z plastu („plastilina, gasilina"), jež by stálo „0,0 prd"; muž prý říkal, že má strach, že ho sledují, a poté zmizel. Důvod vidí v tom, že rafinerie a korporace nechtějí, aby lidé měli věci, které příroda nabízí „de facto zadarmo" — potřebují na lidech „rýžovat" a mít nad nimi kontrolu.
+
+**Zdroje:** [Boldy — FB Live 24. 5. 2026](_zdroje.md#konspirátor-boldy--fb-live-24-5-2026), [Boldy — Videoportál 7. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-7-7-2026), [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ---
 
@@ -656,7 +658,9 @@ Boldy interpretuje film *Včelař* (Beekeeper) jako sdělení elit: hlavní hrdi
 
 Boldy tvrdí, že na Antarktidě je zařízení „IceCube", které dokáže impulzem (rychlostí světla) vyvolat zemětřesení kdekoliv na světě posunem litosférických desek (a tím i tsunami). Jako „potvrzení" uvádí zemětřesení v Turecku a dění ve Venezuele (dle něj „obětní beránek" kvůli okultismu okolo FIFA). Ostře kritizuje hnutí Alatra (jmenuje „Marka Trávníčka") za to, že popírá existenci technologií k ovládání počasí a zemětřesení a „míchá jablka s hruškami" — považuje Alatru za záměrně vypuštěný projekt, který mluví jen o tom, co se „hodí". Navazuje na [geoinženýrství a patenty od 1896](#geoinženýrství-patenty-od-1896-bill-gates-přes-neziskovky-vesmírná-zrcadla-boldy-17-7-2026).
 
-**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026)
+**22. 9.** — Jako další příklad uvádí nedávný výbuch čtyř sopek v Indonésii, které podle něj „absolutně na sebe nenavazujou", což je „až příliš náhodné". Tvrdí, že se „jistými zařízeními" spouštějí zemětřesení a narušuje magma v podzemí, což narušuje i podzemní vodu — „proto mizí voda" (propojuje s tezí o [vodní krizi a tokenizaci vody](#krize-s-vodou-a-tokenizace-vody-na-blockchainu--předpověděl-bill-gates-boldy-6-9-2026)).
+
+**Zdroje:** [Boldy — Facebook Live 19. 7. 2026](_zdroje.md#konspirátor-boldy--facebook-live-19-7-2026), [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ---
 
@@ -744,7 +748,9 @@ Zítko šíří obsáhlý text (přejatý od zahraničních autorů, sdílený p
 
 Boldy tvrdí, že ve světě koluje nový, médii zamlčovaný „zombie virus" — jako důkaz uvádí incident v americkém obchodě Walmart, kde měl muž „vypadající jako zombík" pokousat jiného člověka (oběť skončila v nemocnici, kde si měl personál všimnout, že se před očima měnil), a fakt, že obchod byl následně obklíčen Národní gardou — což podle Boldyho neodpovídá běžnému pokousání. Spojuje to se svou dřívější tezí o patentované vakcíně jako biologické zbrani a s tvrzením, že záření z 5G (a nastupujícího 6G) sítí způsobuje rakovinu — s odkazem na to, že zprávy CDC o riziku rakoviny z těchto technologií „čtené mezi řádky" varování potvrzují.
 
-**Zdroje:** [Boldy — Videoportál 31. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
+**22. 9.** — Boldy tezi rozšiřuje o „jelení zombie virus": přes 30 (dle něj už 37) států USA má kvůli smrtelnému, nevyléčitelnému onemocnění jelenů uzavřené zóny a jeleny odstřelují, aby se maso nedostalo do obchodů. Spekuluje, že se nakažené maso už do supermarketů dostalo a že právě to vysvětluje dříve zmiňované případy lidí, kteří se „chovali jak zombíci" a jedli syrové maso či kočky. Dodává, že nevíme, zda na to nebudou chtít „vymyslet nějakou spasitelskou vakcínu".
+
+**Zdroje:** [Boldy — Videoportál 31. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026), [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ---
 
@@ -822,7 +828,9 @@ Ke zprávě, že floridské úřady během pětidenní operace „Shield State W
 
 Boldy komentuje rozhodnutí soudu v Jacksonu (Mississippi), které dle něj omezuje právo občanů na čistou pitnou vodu a na pravdivé informace od vládních úředníků. Spojuje to s tvrzením, že lidstvo je připravováno na jednu z největších krizí v historii — nedostatek vody, ať už záměrně vyvolaný nebo ne — kterou už dříve předpověděl Bill Gates (podobně jako předtím covid, odkaz na cvičení Event 201 těsně před pandemií). Řešením krize má být „tokenizace" vody — její obchodování na burze/blockchainu — na němž se má podílet i Donald Trump.
 
-**Zdroje:** [Konspirátor Boldy — Facebook Live 6. 9. 2026](_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
+**22. 9.** — Boldy opakuje, že voda „půjde na burzu" a bude tokenizována, a přidává konkrétní odhad: vodné a stočné bude za rok či dva stát „stonásobek" dnešní ceny. Znovu cituje (tentokrát jako „dočasného německého nástupce" Klause Schwaba ve WEF) výrok, že „voda není pro všechny". Elity („papalaši na vrchu") si podle něj přivlastňují vodu i půdu — Bill Gates a další „v uvozovkách farmáři" skupují zemědělskou půdu a vodní práva, protože vědí o přicházející krizi, kterou sami způsobují („chobotnice, která spolupracuje"). Připomíná Gatesův výrok, že „budou umírat miliardy lidí" — video podle svých slov netočí pro strach, ale aby lidi připravil na to, co „pravděpodobně nejspíš přijde". Viz [predikce](predikce.md).
+
+**Zdroje:** [Konspirátor Boldy — Facebook Live 6. 9. 2026](_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026), [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ---
 
