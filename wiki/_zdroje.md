@@ -4943,3 +4943,10 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/2182360509013956>
 - **Datum záznamu:** 2026-09-24
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Nedělní vysílání „Padesátka na krku" (27. 9. 2026) {#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-27_Jindřich-Rajchl_Padesátka-na-krku.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1569064014422116>
+- **Datum záznamu:** 2026-09-27
+- **Zpracováno:** ano

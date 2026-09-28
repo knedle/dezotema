@@ -583,6 +583,8 @@ Rajchl viní Petra Pavla, že jako „vrchní rozvědčík a generál" ve sporu 
 
 > „Petře Pavle, Česká republika, naši občané nechtějí válku, chtějí žít v míru." — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026)
+**27. 9.** — Rajchl označuje za „obrovskou ostudu", že Pavel vůbec prohlásil, že NATO musí mít odvahu sestřelit ruské letadlo (narušující vzdušný prostor, „což se děje běžně"). Ptá se, zda si někdo domýšlí následky — „opravdu chcete, aby sem přiletěly ty Orešniky? Do Ostravy, do Brna, do Plzně, do Prahy?" — a navrhuje místo toho podívat se na konflikt „jejich očima". Opakuje tezi o ukrajinské provokaci (Nord Stream, Przewodów, Duda) jako pravděpodobnějším scénáři než ruský útok na Evropu a tvrdí, že NATO by jednotné nebylo (Turecko, USA) — zbyla by jen část „koalice ochotných" a „hlavní bojiště bude tady u nás".
+
+**Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
 
 ---

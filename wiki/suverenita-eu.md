@@ -144,6 +144,14 @@ V rámci vlastní představy vládnutí „kdybych byl Babišem" (viz [politicky
 
 ---
 
+### ČR jako „ekonomická kolonie EU" — do takové Unie jsme nevstupovali (Rajchl, 27. 9. 2026)
+
+Rajchl tvrdí, že ČR by mohla být jednou z nejbohatších zemí Evropy, ale „plody naší práce směřují jinam" — lidé „pracují na cizí". Za první republiky bylo Československo desátou největší ekonomikou světa a šlo o jediných 20 let bez nadvlády cizí mocnosti; pak přišla nacistická okupace (proti níž se ubránit nešlo), sovětský satelitismus (dle něj z velké části vinou české „neodvahy" a lhostejnosti) a nyní je ČR „ekonomickou kolonií Evropské unie". Kritizuje „českou cestu" — v hospodě si lidé říkají, že Green Deal je na nic a migrace (ukrajinská i africká) šílená, ale nahlas to neřeknou. Třetina domácností podle něj neušetří z výplaty ani korunu a samoživitelky mají druhou a třetí práci. EU se podle něj za 20 let „totálně přeměnila": nikdo nevstupoval do Unie s Lisabonskou smlouvou (centralizace, federalizace), Green Dealem, covidem, směrnicemi EPBD4 a RED3, vnucovaným eurem a zákazem spalovacích motorů ve prospěch elektroaut, jež mají dle něj v celém cyklu horší dopad na přírodu.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"
@@ -420,7 +428,9 @@ Rajchl rozšiřuje svou kritiku emisních povolenek (viz [Emisní povolenky: ČR
 
 > „Já vyhlašuji emisním povolenkám nesmlouvavou válku [...] zrušení emisních povolenek bude cíl číslo jedna, ze kterého já neuhnu ani o centimetr." — Jindřich Rajchl, [FB Live 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
 
-**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026)
+**27. 9.** — Rajchl upřesňuje historii: emisní povolenky měly být původně zavedeny jako ekologická daň s fixní cenou; teprve investiční a důchodové fondy svým kapitálovým vlivem přesvědčily evropské politiky, aby z nich udělali cenný papír, čímž cenu vyhnaly do „neuvěřitelných úrovní" (ETS1 dle něj 81 €, ETS2 71 €). Green Deal podle něj nelze „upravovat ani změkčovat" — je potřeba ho zrušit a přiznat si, že byl lží.
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
 
 ---
 

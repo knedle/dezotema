@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — koalice PRO/SPD/Svobodní/Trikolóra/Motoristé v Chomutově druhá za ANO (27. 9. 2026)
+
+**Předpověď:** V komunálních volbách v Chomutově získá společná kandidátka PRO, SPD, Svobodných, Trikolóry a Motoristů podle průzkumů 17–20 % a má šanci skončit jako druhá nejsilnější strana po ANO.
+
+> „V Chomutově [...] máme dle průzkumů nějakých 17 až 20 % a máme šanci tam být druhou nejsilnější stranou po ANO." — Jindřich Rajchl
+
+**Horizont:** komunální volby 9.–10. 10. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
 ### Konspirátor Boldy — vodné a stočné stonásobně dražší do 1–2 let (22. 9. 2026)
 
 **Předpověď:** Voda bude obchodována na burze a tokenizována; cena vodného a stočného vzroste v horizontu roku až dvou zhruba stonásobně. Elity podle něj plánují vodní krizi, na niž „budou umírat miliardy lidí".

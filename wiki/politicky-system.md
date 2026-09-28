@@ -615,6 +615,22 @@ K vyjádření premiéra Andreje Babiše, že vláda dodrží závazek snížit 
 
 ---
 
+### Bilance šesti let v politice: od Trikolóry k poslaneckému mandátu (Rajchl, 27. 9. 2026)
+
+V nedělním vysílání ke svým 50. narozeninám Rajchl rekapituluje svou politickou dráhu. Do politiky vstoupil v roce 2018 přes Trikolóru, inspirován vítězstvím Donalda Trumpa (2016) — ČR podle něj potřebovala konzervativní stranu se silným ekonomickým programem, která vrátí do politiky „zdravý rozum" poté, co se EU a celý „kolektivní Západ" „utrhl ze řetězu" (BLM, LGBTQ, Green Deal, masová migrace). Zlom přinesl covid, kdy se naplno pustil do obhajoby perzekvovaných; tehdy poznal lidi, s nimiž „táhne káru" dodnes (Jana Zwyrtek Hamplová, Petr Vacek, prof. Beran, dr. Vajíček). Za start své kariéry považuje projev na demonstraci 17. 11. 2021 na Staroměstském náměstí (pořádal Chcípl PES), kde vyzval policisty, aby „šli s námi"; následně mu podle něj ministerstvo zdravotnictví zablokovalo účast v pořadu *Máte slovo*. Eurovolby označuje za zklamání — Česká televize PRO nepustila do žádné velké debaty, jen do „naschvál zaranžované" debaty s Moravským zemským hnutím a hnutím Lano; výsledek 2,15 % byl přesto nejvyšší pod čarou a stal se „vstupenkou" ke spolupráci s SPD, Svobodnými a Trikolórou (zastupitelé ve 12 ze 13 krajů, ve sněmovních volbách 7,8 % a jeho mandát s procentuálně druhým nejvyšším podílem preferenčních hlasů po Filipu Turkovi). Tvrdí, že ze sněmovní opozice rostou preference jedině klubu SPD, protože lidé vidí, že „myslíme ty naše cíle naprosto vážně".
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
+### Spor s Vrabelem: demonstrace 3. 9. 2022 a rozpad jednoty hnutí (Rajchl, 27. 9. 2026)
+
+Rajchl popisuje vznik velké demonstrace na Václavském náměstí 3. 9. 2022: PRO se Zwyrtek Hamplovou plánovali vlastní akci na 11. září, ale na nabídku Jiřího Havla (spolupracujícího s Chcípl PES) spojili síly s Ladislavem Vrabelem — přišlo podle něj kolem 100 tisíc lidí, snad největší demonstrace národně-konzervativního křídla od roku 1989, o níž média „mlčela" a později „lhala". Jednotu podle Rajchla rozbil hlavně Vrabel, který se „vpasoval do role" toho, kdo lidi na Václavák dostal — ve skutečnosti prý přišli za Mirkem Ševčíkem, Vladimírem Štěpánem, Tomášem Lukavcem, Zwyrtek Hamplovou „a snad i za mnou". Po rozchodu Vrabela s Havlem se skupina rozpadla a „osobní ambice vyhrály", čímž se promarnila šance vybudovat na této platformě silný subjekt proti Fialově vládě. Odmítá Vrabelovo tvrzení, že mu „ukradl demonstrace": vlastní demonstraci podle něj odmítal pořádat, dokud Vrabel neskončí — ohlásil ji až na březen 2023, poté co Vrabel na lednové demonstraci s minimální účastí sám oznámil, že velké demonstrace už dělat nebude.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

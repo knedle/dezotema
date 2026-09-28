@@ -1327,3 +1327,29 @@ Vrabel rozebírá další Ficovo prohlášení: selhání strategie „zničit R
 ⚡ **Poznámka:** Vojenské úvahy o pravděpodobnosti a povaze konfliktu Rusko–Evropa jsou Vrabelovy vlastní spekulace, ne doložené analýzy.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 20. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
+
+---
+
+### Západ si neumí přiznat vlastní vinu: Irák, Libye, Green Deal, covid; nejlepší projevy v OSN měli Milei a Lavrov (Rajchl, 27. 9. 2026)
+
+Rajchl staví svůj narozeninový projev na tezi, že největší „prohrou kolektivního Západu" je ztráta upřímnosti — neschopnost přiznat si vlastní chyby a pocit morální nadřazenosti, s nímž diktuje zbytku světa, jak žít. Západ podle něj rozpoutává nejvíc válek a média „největší lež" nepáchají tím, co říkají, ale tím, co zamlčují. Jako příklady uvádí: druhou invazi do Iráku na základě „smyšlené záminky" zbraní hromadného ničení, o níž „všichni věděli" (milion mrtvých) — zpochybňuje sebevraždu zbrojního experta Davida Kellyho, který měl svědčit proti Tonymu Blairovi („podřezal si obě ruce"), a upozorňuje na 75leté utajení dokumentů; válku v Libyi „vylhanou od prvního do posledního centimetru" pod záminkou povstání v Benghází — Kaddáfí podle něj financoval kampaň Nicolase Sarkozyho a byl odstraněn, protože chtěl prodávat ropu a plyn za jiné měny než dolar; Green Deal (viz [emisní povolenky](suverenita-eu.md#emisní-povolenky-jako-spekulativní-derivátový-trh-němci-v-kleštích--válka-povolenkám-rajchl-7-6-2026)) a covid, kdy farmaceutické firmy „lhaly od prvního okamžiku" o vakcíně, která byla „dopředu připravená" jen kvůli zisku a poškodila zdraví milionů lidí. Ptá se, v čem se tehdejší invaze liší od ruského vstupu na Ukrajinu, který Západ označuje za mezinárodní zločin.
+
+Stav Západu ilustruje i Valným shromážděním OSN: nejlepší projevy tam podle něj měli argentinský prezident Javier Milei a ruský ministr zahraničí Sergej Lavrov, zatímco „americký prezident hovoří o vyhlazení národa" a politici „nedemokratického světa" o míru a dialogu. 21. století je podle Rajchla „stoletím úpadku západní civilizace" — ekonomického, mravního i z hlediska svobody a suverenity.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
+### Ukrajina: co média „zamlčují" — Majdan, Donbas, Minsk II, dekret č. 117, Istanbul (Rajchl, 27. 9. 2026)
+
+Rajchl shrnuje ucelený výklad příčin války, který podle něj mainstreamová média zamlčují nebo označují za ruskou dezinformaci:
+- **Majdan 2014** zosnovaly USA v čele s Victorií Nulandovou; do demonstrantů se střílelo z hotelu ovládaného povstalci, a to gruzínskými ostřelovači, kteří měli vyvolat změnu režimu — „kdyby nebylo Majdanu, není dnes válka".
+- **Donbas:** proti ruskojazyčnému obyvatelstvu se podle něj páchala „genocida", používala se kazetová munice a lidem se zakázalo užívat ruštinu — přirovnává to k hypotetickému zákazu slovenštiny v Československu, který by vedl k občanské válce.
+- **Minsk II** (leden/únor 2015) nastavil podmínky míru, které porušil Západ a Ukrajina.
+- **Dekret č. 117** z 24. 3. 2021, jímž Zelenskyj rozhodl o „deokupaci a reintegraci" Krymu a Sevastopolu, podle Rajchla fakticky deklaroval záměr vojensky zaútočit na Krym.
+- **Istanbul 2022:** mírová dohoda byla v dubnu 2022 parafována oběma delegacemi, ale Boris Johnson odmítl s Ruskem cokoli podepsat a slíbil zbraně — „hodili jsme je pod vlak"; odvolává se na šéfa ukrajinské vyjednávací delegace Davida Arachamiju (rozhovor pro 1+1). Válka podle něj stála „asi 2 miliony lidských životů".
+- Z války profitují Zelenskyj, Mindič a další — Mindič podle něj okradl vlastní spoluobčany o peníze určené na energetickou infrastrukturu a postavil si „zlaté záchody a zlaté bidety".
+
+Připouští, že lze vnímat Rusko jako hlavního viníka, protože překročilo hranice 24. 2. 2022, ale dokud si Západ nepřizná „obrovskou část viny", je podle něj odsouzen opakovat stejné chyby.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)

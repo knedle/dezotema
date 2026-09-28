@@ -343,3 +343,13 @@ Donald Trump zakázal novinářům CNN, MSNBC a Politico přístup do Bílého d
 ⚡ **Poznámka:** Konkrétní čísla o poměru sdílení a dosahu jsou Vrabelovo vlastní neověřené pozorování.
 
 **Zdroje:** [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+---
+
+### Velká Británie zatýká za „verbální trestné činy" víc než Rusko a Čína dohromady (Rajchl, 27. 9. 2026)
+
+Rajchl zpochybňuje sebeobraz Západu jako „svobodného světa": ve Velké Británii je podle něj za verbální trestné činy („za to, že říkáte něco, co se jim nelíbí") zatčeno každý rok mnohonásobně víc lidí než v Rusku a Číně dohromady. Řadí to do svého výkladu o „utahování šroubů" a prosazování totalitních manýr na Západě.
+
+> „A budeme si pořád říkat, že my jsme ti svobodní a oni ne?" — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)

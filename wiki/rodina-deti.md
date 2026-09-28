@@ -48,6 +48,14 @@ Argumentuje dále, že manželství je „čistě křesťanská záležitost", p
 
 ---
 
+### LGBTQ „není norma" — oslovovat rodiny, ne „ty, kteří se převlékají za koně a psy" (Rajchl, 27. 9. 2026)
+
+Rajchl vyzývá k „návratu ke zdravému rozumu": přiznat si, že Green Deal je lež, migrace nefunkční projekt a LGBTQ „není norma a není nic, co bychom měli adorovat". Politika má podle něj oslovovat ty, kdo udrží rodinu, mají děti, žijí slušně, platí daně a pomáhají budovat společnost — „ne ty, kteří se převlékají za koně a psy a chodí po ulici" jako údajní zastánci jediných správných hodnot. Morální úpadek Západu spojuje s odchodem od víry a „adorací nenormálních LGBTQ aktivistů" na úkor tradičních rodinných hodnot. Jako vzor staví vlastní rodinu založenou na „absolutní upřímnosti".
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
 ## Demografická krize a technologie
 
 ### Technologie a sociální sítě ničí schopnost párovat se — demografická krize (Vrabel)
