@@ -585,7 +585,9 @@ Rajchl viní Petra Pavla, že jako „vrchní rozvědčík a generál" ve sporu 
 
 **27. 9.** — Rajchl označuje za „obrovskou ostudu", že Pavel vůbec prohlásil, že NATO musí mít odvahu sestřelit ruské letadlo (narušující vzdušný prostor, „což se děje běžně"). Ptá se, zda si někdo domýšlí následky — „opravdu chcete, aby sem přiletěly ty Orešniky? Do Ostravy, do Brna, do Plzně, do Prahy?" — a navrhuje místo toho podívat se na konflikt „jejich očima". Opakuje tezi o ukrajinské provokaci (Nord Stream, Przewodów, Duda) jako pravděpodobnějším scénáři než ruský útok na Evropu a tvrdí, že NATO by jednotné nebylo (Turecko, USA) — zbyla by jen část „koalice ochotných" a „hlavní bojiště bude tady u nás".
 
-**Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+**26.–27. 9. (Vrabel)** — K Pavlovu výroku pro Fox News, že přijde čas sestřelit ruské letadlo či dron, Vrabel (sám pilot) namítá, že ruský vrtulník narušil hranici o 300 m na 40 sekund, což „není zas tak moc", a sestřel by spustil ruské rakety na stíhačky: „za hodinu krizový štáb, za dvě hodiny zavřené hranice, stav ohrožení a vojáci v ulicích". Pavel podle něj mluví za NATO, ne za ČR; Macinka a Babiš se s Hradem sladili v zahraniční politice a „přenechávají otěže generálu NATO". Stačí podle něj „jeden blbec s plnovousem, trénovanej nejdřív pro Moskvu, potom pro New York nebo pro Washington, kterej poslouchá rozkazy".
+
+**Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 
 ---
 

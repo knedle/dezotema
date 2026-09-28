@@ -1413,3 +1413,23 @@ Vrabel tvrdí, že se „připravuje nějaká operace": každodenní zprávy o r
 Vučićův projev v OSN Vrabel chválí jako „vynikající" a potvrzující to, co „říká roky": OSN ani Rada bezpečnosti nefungují, platí právo silnějšího a žijeme ve „světě barbarském, světě strachu a banditismu"; všichni se bojí Trumpa a „lezou mu do pozadí" — Macinka „až po pás". Nespravedlnost podle něj povede k válce po celém světě. Bombardování Jugoslávie 1999 bylo „absolutním aktem agrese" bez mandátu OSN, Jugoslávie byla rozbita jako lídr Hnutí nezúčastněných a Kosovo „ukradeno" kvůli dolům — stejně jako dnes Donbas; Rusům na Donbasu a Krymu se podle něj upírá právo na sebeurčení, které se Kosovu přiznalo.
 
 **Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+
+---
+
+### „Až se obr ožene" — Západ ČR obětuje; Rusko se bude muset pustit do konfliktu s Evropou; ⚡ válka by byla dlouhá (Vrabel, 26. 9. 2026)
+
+K českému stíhacímu dronu Lovec Vrabel používá metaforu Ruska jako „obra", do kterého ČR píchá (letadla, drony, muniční iniciativa s více než polovinou munice). Až se „ožene", nastanou podle něj dva scénáře: buď se aliance po „menším jaderném úderu" na Evropu rozpadne a všichni řeknou „to ty Češi, to je ta muniční iniciativa", nebo Západ ČR „prodá", stáhne se na hranice ze studené války a Česko, Slovensko a Polsko obětuje. Proti Petrosi Michopoulosovi, který doufá v ruský útok na Finsko či Pobaltí, namítá, že pro Evropu je nejvýhodnější současný stav, kdy Rusko „můžete mlátit a on vám nesmí dát ránu zpátky" — pro Rusko je to neudržitelné, a proto „se bude muset pustit s Evropou do konfliktu", pravděpodobně útokem na dva státy a jaderným ultimátem hlavním městům. Putinovi, že se Rusko na konflikt nechystá, nevěří; Rusko ale konflikt nechce, protože je proti Evropě a USA lidnatostně malé. Ivana Davida označuje za „jediného politika, který to má v hlavě v pořádku".
+
+⚡ **Posun:** Na rozdíl od svého souhlasu s Lavrovem (19.–20. 9., „krátká, ale intenzivní válka") nyní tvrdí, že „válka nikdy není rychlá" — byla by dlouhá se „spousty milionů" mrtvých; krátká jen tehdy, kdyby Rusko použilo taktické jaderné zbraně proti jedné či dvěma zemím.
+
+> „Až se ten obr ožene, že se to celý rozpadne [...] to ty Češi, to je ta muniční iniciativa, ty Češi, s kýma si to vyřešte." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+
+---
+
+### Posun postoje k Číně — „velmi příjemně překvapený" její obranou mezinárodního práva (Vrabel, 26. 9. 2026)
+
+K projevu Si Ťin-pchinga v OSN proti postupu USA vůči Íránu a Kubě Vrabel označuje USA za nejsilnějšího „lumpa", který šikanuje, vykořisťuje a napadá, zatímco Čína se jako aspirující velmoc zastává mezinárodního práva a malých zemí. Výslovně přiznává posun vlastního postoje: ještě před pěti lety neměl k Číně dobrý vztah (Tibet, Ujguři), nyní je její politikou posledních let „velmi příjemně překvapený".
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)

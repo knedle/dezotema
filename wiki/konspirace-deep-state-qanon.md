@@ -236,3 +236,11 @@ K 25. výročí útoků z 11. září 2001 Zítko věnuje celé vysílání roz�
 Vrabel si „není úplně jistý, že Donald Trump pracuje pro Spojené státy" — spíš podle něj spolupracuje na rozpadu systému „Pax Americana": uzavřel Hormuz a Bab al-Mandab a s nimi ropu, plyn, hnojiva a amoniak, čímž rozbíjí ekonomiku „just in time" (v Češnovicích u Budějovic prý neprodávají naftu, ve Francii je zavřená „asi každá devátá benzinka"). Trump je pro něj horší než Biden: „zabil malý holčičky v Íránu", „vyvraždil celou vládu" a „normalizoval vraždění". Současnou vládu Babiše označuje za „vládu podvodníků a herců", horší než Fialovu, která byla „krutá, ale rovná".
 
 **Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+
+---
+
+### Papež Lev XIV. v Paříži — celibát jako příčina pedofilie, Vatikán ukrýval nacisty, Jasenovac (Vrabel, 26. 9. 2026)
+
+K mši papeže Lva XIV. v Paříži (700 tisíc lidí) Vrabel navrhuje „anketu", zda lidé souhlasí s pedofilií kněží, kterou přičítá celibátu („když se někdo takhle trýzní a trápí, no tak potom se není co divit, že to odnáší ti malí chlapečci"); pravoslavní kněží s rodinami jsou podle něj „normální". Vatikán prý za druhé světové války přesouval zlato a ukrýval nacisty, pomáhal i v jugoslávské válce a v chorvatském táboře Jasenovac („jediný koncentrační tábor pro děti") měl žádat ušetření těch, kdo konvertují z pravoslaví. Katolickou církev řadí mezi „falešné církve".
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)

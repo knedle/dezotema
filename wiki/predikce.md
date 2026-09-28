@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — Rusko se bude muset pustit do konfliktu s Evropou; válka by byla dlouhá s miliony mrtvých (26. 9. 2026)
+
+**Předpověď:** Aby Rusko neprohrálo, bude se muset pustit do konfliktu s Evropou (pravděpodobně útok na dva státy a jaderné ultimátum); pokud nepoužije taktické jaderné zbraně, bude válka dlouhá a zemřou „spousty milionů" lidí.
+
+> „Pro Ruskou federaci, aby Ruská federace neprohrála, tak se bude muset pustit z Evropu do konfliktu. To je prostě, myslím si, že jednoduchá vojenská logika." — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+
+---
+
 ### Ladislav Vrabel — „jsme před francouzskou revolucí" — vlády začnou padat (25. 9. 2026)
 
 **Předpověď:** Evropa je „před francouzskou revolucí": vlády začnou padat a přijdou velké změny; po válce přijde změna systému.

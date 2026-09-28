@@ -781,3 +781,11 @@ K projevu britského labouristy Andyho Burnhama („migrace ano, ale kontrolovan
 K útoku nožem v klášteře v polském Jarosławi, který spáchal 31letý Ukrajinec, Vrabel připomíná brněnský případ, kdy Ukrajinec v autobuse ubodal chlapce a podle něj „žádný trest neodseděl" — zatímco Tomáš Čermák dostal za slova 5,5 roku; spekuluje, zda pachatel „nepůjde do vězení, protože je Ukrajinec". Druhý den (25. 9.) kritizuje polskou TVP, že spekuluje o ruské provokaci a falešném ukrajinském pasu: média podle něj uplatňují „pravidlo satanismu — to, co je nahoře, je dole, to, co je bílé, je černé", a brzy prý i násilí TCK či zabité dívky v Íránu svedou na Rusy, takže slovo „Rus" se stane synonymem pro „zločinec".
 
 **Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
+
+---
+
+### Británie: „už jediné, k čemu může dojít, je občanská válka"; ČR má ještě šanci „pomoct" 2 milionům Ukrajinců vrátit se (Vrabel, 26. 9. 2026)
+
+K zatčení muže, který propíchl prázdný člun migrantů (hrozí mu 10 let), Vrabel tvrdí, že britští protestující brání tomu, aby „původní obyvatelstvo bylo nahrazeno přistěhovalci", a policie pomáhá migrantům protesty rozbíjet. V Británii je podle něj už pozdě: migranti mají občanství a nelze je deportovat, „jediný, k čemu může dojít, je občanská válka, jinak se těch lidí nemůžou zbavit". ČR má podle něj ještě šanci „pomoct" asi 2 milionům Ukrajinců vrátit se domů („nebudu říkat se těch lidí zbavit, protože to by hnusně znělo") a vystoupit z EU a migračního paktu, dokud je otevřené „Overtonovo okno" — pak prý demonstranty čeká obušek a vězení jako v Katalánsku. Pilířem EU je podle něj „zlikvidovat národní stát".
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)

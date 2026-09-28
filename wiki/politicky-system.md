@@ -639,7 +639,9 @@ V nedělním vysílání ke svým 50. narozeninám Rajchl rekapituluje svou poli
 
 Rajchl popisuje vznik velké demonstrace na Václavském náměstí 3. 9. 2022: PRO se Zwyrtek Hamplovou plánovali vlastní akci na 11. září, ale na nabídku Jiřího Havla (spolupracujícího s Chcípl PES) spojili síly s Ladislavem Vrabelem — přišlo podle něj kolem 100 tisíc lidí, snad největší demonstrace národně-konzervativního křídla od roku 1989, o níž média „mlčela" a později „lhala". Jednotu podle Rajchla rozbil hlavně Vrabel, který se „vpasoval do role" toho, kdo lidi na Václavák dostal — ve skutečnosti prý přišli za Mirkem Ševčíkem, Vladimírem Štěpánem, Tomášem Lukavcem, Zwyrtek Hamplovou „a snad i za mnou". Po rozchodu Vrabela s Havlem se skupina rozpadla a „osobní ambice vyhrály", čímž se promarnila šance vybudovat na této platformě silný subjekt proti Fialově vládě. Odmítá Vrabelovo tvrzení, že mu „ukradl demonstrace": vlastní demonstraci podle něj odmítal pořádat, dokud Vrabel neskončí — ohlásil ji až na březen 2023, poté co Vrabel na lednové demonstraci s minimální účastí sám oznámil, že velké demonstrace už dělat nebude.
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+⚡ **Vrabelova strana sporu (26.–27. 9.):** Vrabel Rajchla jmenovitě zmiňuje jen jednou (26. 9.) — lidé podle něj nepůjdou demonstrovat, protože „Reichel nám řekl, že to nemá smysl, demonstrace"; v témže vysílání zesměšňuje Janu Hruškovou („hysterická") a Vladimíra Štěpána, jehož údajné smlouvy s Ruskem na ropu a plyn jsou „pohádky pro děti" (takovou smlouvu lze podle něj uzavřít jen na vládní úrovni). V nedělním vysílání 27. 9. — v den Rajchlových padesátin — pak bez jména mluví o „podvodníkovi", kterému se „podařilo předat" hnutí z roku 2022 a který ho „celý zahodil do kanálu", a o „klasickém psychopatovi, který zrovna slaví kulaté narozeniny" a „udělá cokoliv pro to, aby se vydrapal nahoru po zádech všech". Jde o implicitní narážky; Rajchlovo tvrzení o „ukradených demonstracích" přímo nekomentuje.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 
 ---
 
@@ -1024,7 +1026,9 @@ Vrabel upozorňuje na případ, kdy německá policie zmlátila a zadržela Pol�
 
 **25. 9. (TV Bureš)** — Nový francouzský zákon podle Vrabela dává policistům „pět důvodů", kdy mohou zastřelit občana; „globalistický syndikát" chce lidi zavřít do „digitálního koncentráku" řízeného přes AI, poslouchající „krabičky" a digitální měnu, kde by mu mohli říct: „Vrábel, ty moc mluvíš, tobě tady strhneme peníze".
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+**26. 9.** — K videím z berlínských protestů proti branné povinnosti Vrabel označuje německé policisty, kteří „táhnou dítě", za „opravdu zločince"; brutalita policie podle něj roste od covidu (ve Francii zatkli i herečku Susan Sarandon). Ironicky vyzývá nosit kytky „majoru Kolářovi", policistovi z jeho demonstrací, pod jehož vedením prý policie pustila ukrajinského útočníka a zatkla jeho.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 
 ### „Demokracie = vláda elit, ne lidu" — Vrabel (19. 6. 2026)
 

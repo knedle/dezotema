@@ -608,3 +608,9 @@ Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulke
 **Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
+
+### ČT24 píše „bez důkazů" o zákazu ruštiny na Ukrajině — „diagnóza" (Vrabel, 26. 9. 2026)
+
+K Lavrovovu výroku v OSN, že ruština je na Ukrajině zakázaná, a k tomu, že ČT24 dodává „bez důkazů", Vrabel připomíná, že sama ČT v letech 2014–2022 informovala o občanské válce na Ukrajině a porušování práv rusky mluvících (Minské dohody): „mohli být aspoň natolik schopni, aby se podívali do vlastních archivů, když už tady tvrdí, že nemají důkazy. To už je opravdu diagnóza."
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)

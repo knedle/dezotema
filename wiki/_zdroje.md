@@ -5050,3 +5050,11 @@
 - **Datum záznamu:** 2026-09-25
 - **Zpracováno:** ano
 - **Poznámka:** Host-stream na kanálu TV Bureš (moderuje Petr Bureš), propagace shromáždění „Člověk na prvním místě" 3. 10. V části 32:00–1:09:44 mluví hosté (T. Hrdlička, L. Benovský, Z. Žákovičová, A. Šulc, K. Rybářová, L. Křivánková) — jejich tvrzení nezpracována.
+
+## Ladislav Vrabel — Zprávy v devět 26. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-26-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-26_Ladislav-Vrabel_26-9-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1886548849388767>
+- **Datum záznamu:** 2026-09-26
+- **Zpracováno:** ano
+- **Poznámka:** Sdílený klip Petrose Michopoulose [01:08:35–01:09:12] a klip Pavla pro Fox News.

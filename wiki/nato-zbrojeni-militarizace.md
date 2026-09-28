@@ -914,7 +914,9 @@ Generální tajemník NATO Mark Rutte 10. 9. v Berlíně prohlásil, že spojenc
 
 Vrabel referuje o rozhodnutí EU ztrojnásobit rozpočet i personál agentury Frontex (navýšení o 300 milionů eur, trojnásobný počet zaměstnanců). Odmítá to číst jako reakci na migrační krizi — počty žadatelů o azyl podle něj naopak klesají — a interpretuje krok jako přípravu na uzavření vnějších hranic EU v okamžiku vypuknutí konfliktu s Ruskem, obdobně jako se hranice uzavřely na Ukrajině 24. 2. 2022. Zmiňuje také, že Polsko se předběžně zavázalo k uplatnění čl. 5 Severoatlantické smlouvy (kolektivní obrana) automatičtěji než dosud. Divákům radí připravit si únikovou cestu z EU do vojensky neutrální oblasti (dává přednost Rumunsku/Srbsku před Maďarskem) předtím, než k uzavření hranic dojde.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+**26. 9.** — K navýšení rozpočtu Frontexu z 1,2 na 11,9 mld. Vrabel s odkazem na šéfredaktora Aeronetu („VK") opakuje, že nejde o vracení migrantů, ale o to, aby Frontex při válečném stavu zadržel prchající občany — „aby měli dostatek lidí potom pro ten vojenský konflikt".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 13. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 
 ---
 
@@ -949,3 +951,13 @@ Stavbu operačního střediska IZS (112) v Karlových Varech za více než půl 
 > „Neuvěřitelné, jak jsou ty lidi zlí a nepřející, jak přejí těm Ukrajincům, aby odváděli na tu frontu a zabíjeli je." — Ladislav Vrabel
 
 **Zdroje:** [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
+
+---
+
+### Směrnice NATO „Resilience Baseline Requirements" — příprava na hromadné oběti; nafta podle priorit a „energetické lockdowny" (Vrabel, 26. 9. 2026)
+
+Ze směrnice NATO „2026 Resilience Baseline Requirements" (15. 9.) Vrabel vybírá body: plán na hromadný příliv osob „přesahující 2 % celkové populace", přednost armády na silnicích před civilisty, plány pro hromadné oběti, zásoby krve a léčiv a rychlé přechody hranic pro síly NATO — „NATO se skutečně připravuje na hromadné oběti". Babišovo nové krizové centrum za více než půl miliardy dává do souvislosti s touto směrnicí. Až nafta dojde, bude se podle něj přidělovat podle priorit: nejvýš armáda, pak zdravotnictví a zbrojovky, velké podniky elit, a na konci malé a střední firmy a lidé, kteří dostanou jen minimum, aby „nesežrali vládu"; Babiš podle něj „umí" lockdowny a zvládne i „energetické lockdowny". Silnice pro tanky přitom ČR platí sama, protože NATO je do výdajů na obranu neuzná.
+
+> „My budeme žít o kůrce a o vodě, ale tanky jezdit budou." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
