@@ -1,0 +1,50 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1512295420545014
+Datum videa:  2026-05-11
+Zpracováno:   2026-05-13 21:45:30
+Jazyk:        sk
+Délka:        00:01:25
+Zhlédnutí:    4 582
+Popis:        Ach ta AI - pořád si plete národnosti... 😄
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    6s
+Přepis:       18s
+Rychlost:     4.6x realtime
+Celkem:       25s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Čo robiť, keby na Slovensku vypukla vojna?
+[00:03] Bot prvý. Pôjdeme do všetkých susedných štátov.
+[00:06] Budeme tam chodiť s vojkami a kričať.
+[00:08] Sláva Slovensku! Najviac nech to kriče na námestie hnaši muži.
+[00:13] Bot druhý. Každý štát, ktorý nám pomôže,
+[00:16] budeme kritizovať, že nám dal málo.
+[00:18] Lebo veď pomôcť nestačí. Musí to byť podľa našich predstav.
+[00:22] Bot tretí. Budeme sa snažiť zatiahnuť do toho,
+[00:25] čo najviac ďalších krajín.
+[00:26] Nech z toho nie je len lokálny problém,
+[00:29] ale poriadna svetová dráma.
+[00:31] Bot štvrtý. Čím viac nám niekto pomôže,
+[00:34] tým viac budeme nevďační.
+[00:36] Veď na čo poďakovať, keď sa dá ešte viac stežovať.
+[00:39] Bot piatý. Budeme len rozprávať, mudrovať
+[00:42] a čakať, že všetko vyrieši niekto iný.
+[00:45] Bot šiestý. Samozrejme sa budeme pravidelne vrácať domov na sviatky.
+[00:49] Kľudne aj do prvej línie. Tam, kde to búchoce, treskoce,
+[00:53] na veďmy vieme, že to nie je také hrozné, ako tvrdíme.
+[00:56] Bot šiedný. Nočné diskotéky na Slovensku musia zostať otvorené,
+[01:00] lebo život ide ďalej a party sa predsa rušiť nebude.
+[01:04] Bot vôsmy. Každý deň budeme otravovať Uršulu,
+[01:07] nech náš mu vodcovi kúpi zlatý záchod z čistého zlata.
+[01:10] Nech sa mu pekne kaká, keď už aj tak celú vojnu prehrávame.
+[01:13] Posledný bot. Nebudeme robiť nič, len budeme chodiť,
+[01:17] žobrať a potom sa tváriť, že celý svet nám stále niečo dlží.

@@ -1,0 +1,523 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jiří Černohorský Živě
+URL:          https://www.facebook.com/100085862388850/videos/1998254587463432
+Datum videa:  2026-06-26
+Zpracováno:   2026-06-28 18:56:23
+Jazyk:        cs
+Délka:        00:47:48
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    36s
+Přepis:       7m 20s
+Rychlost:     6.5x realtime
+Celkem:       7m 57s
+================================================================================
+PŘEPIS
+================================================================================
+
+[04:02] Zdravím, vážení a milí přátelé, převeskej večer.
+[04:10] Tak, dostal jsem tak nějak, já nevím, takovou kritiku ke mně,
+[04:18] že neplním svá slova, ale ne od lidí, kteří nosí v srdci Československou
+[04:27] dneska v lajku České republiky, ale od těch idiotů,
+[04:33] kteří více než svoji vlast milují Ukrajinu, Zelenského,
+[04:39] nacisty z batalionu Azov a tak dále a tak dále.
+[04:45] Milují ten Brusel, tak ty se mě vysmívají, že jsem řekl,
+[04:50] že dám poslední vysílání nadlouho. Já jsem to myslel smrtelně vážně, přátelé.
+[04:57] Prostě opravdu v ten danej moment, já jsem to vysvětloval,
+[05:04] na základě čeho jsem to řekl, a víceméně já si na tom trvám.
+[05:09] Vy podvoze chytě, bílek, tady na zeliští šipřeli.
+[05:13] Já si na tom trvám. A ta situace, která vlastně mě vnitřně,
+[05:22] jak bych to řekl, ten můj boj s tou nespravedlností,
+[05:27] tak ve mně vnitřně fakt, jako nekecám, zlomila,
+[05:31] tak vlastně je přístup k tomu, co se odehrálo, stalo v Brně.
+[05:37] A to je všechno kolem toho sudeto-německýho nacistickýho landsmannschaftu
+[05:42] potomku Henleinovců. Pro mě to, co se stalo v Brně,
+[05:48] ten přístup lidí, pro mě těžký zklamání. Těžký zklamání.
+[05:55] A já jsem taky mluvil o tom, že mě naštvalo. Fakticky totálně mě to rozhodilo,
+[06:02] jak se k té akci přistoupilo. Já jsem řekl, že se to spoustě lidem nebude líbit,
+[06:08] já to beru tak, že to nechci zhazovat, nebo že bych to chtěl hanit, ne.
+[06:15] Tadle kritika byla a vždycky bude směrem k tomu, že je potřeba,
+[06:21] abychom si uvědomili, co prostě děláme špatně. A že to tady děláme
+[06:26] strašně dlouhou dobu špatně. A nikdo vlastně takovým způsobem
+[06:31] do toho nehodí takzvaně obrazně řečeno ty vidle. Všichni to vždycky budou chválit.
+[06:38] I když se jim to nebude třeba zdát, i když tam vidí chyby, tak prostě neřeknou
+[06:42] tohle byla chyba, tohle, tohle. Naprostě většině to lidi neudělají,
+[06:47] aby nešli do sporu. A pruser samozřejmě je, že ta protistrana to nevezme
+[06:54] právě jako otevřenou kritiku s tím, abysme to vylepšili společně,
+[07:00] ale vezmou to tak, no jo, ten Černohorský je nejlepší, ten všechno ví,
+[07:04] všechno zná, dělá ze sebe toho nejlepšího a blá, blá, blá.
+[07:07] To není pravda. To není pravda. Protože kdybych ze sebe chtěl dělat
+[07:12] toho nejlepšího, tak do žádných sporů nepůjdu. Nepůjdu. A budu naopak
+[07:17] vychvalovat všechno, jak je všechno skvělý, abyste mě všichni měli rádi
+[07:21] a všichni jste mě milovali. A to já dělat nebudu, protože to je pokrytecký.
+[07:26] To je pokrytectví. Takže pro mě byl opravdu zlom to, co se stalo v Brně
+[07:31] a tak, jak se k té akci přistoupilo. Já jsem řekl, co tam bylo špatně,
+[07:36] že prostě ta organizace, to, co se tam odehrálo, že jsem to nepochopil.
+[07:42] A jedno, ta poslední kapka vlastně bylo to, že když jsem si srovnal
+[07:48] ten výstup Robina Čumpelíka u toho, u hlavní brány výstaviště,
+[07:58] kdy já jsem řekl, že se mu nedivím a že v podstatě má pravdu.
+[08:03] A že my lidi to pořád nechápeme.
+[08:06] A tam se odehrála ta scéna, že tam přišlo pět lidí s tričkama,
+[08:11] nebo šest lidí, já nevím. S tričkama stačilo.
+[08:16] A přišla tam katka konečná. Já chápu, že tu akci člověk chce podpořit,
+[08:22] ale to je to, o čem se bavíme. A pořád okola, že politické strany,
+[08:28] ať mají v sebe lepší program. A můžu o tom myslet fakt ze srdce.
+[08:32] A vlastenecky. Ale pořád je tam to, že přijdete na to zhromáždění.
+[08:37] A jedni budou tady mít placku Pro, druhý SPD, třetí budou mít placku Tricolory,
+[08:43] čtvrtý Svobodní, pátí KSČM, šest Svoboda Respekt, sedmí ANO,
+[08:52] pak tam přijdou Moravané, prostě ze svojí plackou.
+[08:58] A teď prostě, jak se chcete spojit. A tohle je přesně ono.
+[09:04] Takže Robin, když tam prostě vystartoval,
+[09:08] s tím, že prostě tohle, takhle ne, že se mu to nelíbí.
+[09:12] A že prostě tahle akce musí lidi propojit.
+[09:15] A ne je rozdělovat na základě politiky.
+[09:18] A tady v tomhle směru, a vy se na mě zlobíte.
+[09:21] A mnozí mě nemáte za to rádi. A budete mě nadávat.
+[09:24] A moc krát se to stalo, že jo.
+[09:26] Zvláště ti, co opustili čest, svoboda, respekt.
+[09:29] A ty se v tom vyloženě vyžívali, jak já jsem bezohledný.
+[09:34] A že jsem šmejd i ke svým vlastním lidem.
+[09:36] A že jsem šmejd i ke svým vlastním lidem.
+[09:38] Tak já jsem vám mnozkrát říkal, že před těma volbama, že ano, volte, koho chcete.
+[09:43] Volte toho, kdo vám přijde, že má teda ten nejúžasnější program, jo.
+[09:48] To vám nikdo bránit nemůže a nikdo vás nemůže nutit, ne.
+[09:51] Ty jsou lepší, ty jsou lepší. Za mnou je policie.
+[09:55] Ty jsou lepší a já nevím, co všechno.
+[09:58] A to vám nikdo nemůže nakazovat, ne, nevol toho, vol toho.
+[10:03] Prostě za prvé nepřesvědčíte.
+[10:06] Protože každej, prostě vidíte to všechno.
+[10:08] Vítejte toho svýho pastýře jako toho nejlepšího, jo.
+[10:12] Prostě to není šance.
+[10:14] Takže, a za druhý, vám to nikdo nutit nemůže, protože to je ta svobodná volba.
+[10:19] Ale já vám na to prostě říkám, že ano, volte si, koho chcete,
+[10:23] ale prosím vás, přestaňte se značkovat jako dobytek, jo.
+[10:27] Přestaňte se značkovat jako dobytek.
+[10:29] A to samozřejmě skupinka bývalých členů České společnosti, respekt,
+[10:35] který se přidali na stranu pro, tak to samozřejmě vůči mě zne.
+[10:36] A hnedka, že já vás nazývám dobytkem.
+[10:42] Ne, to tak nikdy nebylo, není to pravda.
+[10:45] To bylo přirovnání, že vlastně vy se označkujete, jo.
+[10:50] A jako právě ten dobytek, jako kravíčky dostávali, že jo, do uší ty plácačky,
+[10:55] pamatujete si to určitě, že.
+[10:57] A tady tohle, to jsem měl na mysli, protože nás to rozděluje.
+[11:03] Ale teďka se chci ještě vrátit zpátky k té akci,
+[11:06] protože tohle jsem měl na mysli, protože nás to rozděluje.
+[11:07] Protože jsem řekl, že prostě už toho mám plné zuby a že fakt se na to vykašlu,
+[11:10] že to nemá smysl.
+[11:13] Já jsem totiž nepochopil vlastně po jedné stránce,
+[11:16] ten Robinův výstup proti Katce Konečné a stačilo.
+[11:19] Protože v neděli ta akce na tom Dominikánském náměstí.
+[11:26] Co se tam odehrálo, co se tam odehrálo?
+[11:30] No vystoupili tam politici, vystoupila tam Katka, vystoupil tam Reichel,
+[11:36] vystoupil tam Miloš Zeman, Bláha ze Slovenska.
+[11:41] Takže to byla politická akce.
+[11:44] Takže nechápu, jo, proč?
+[11:45] Proč se nestalo to, že říct Katce a těm lidem zestačilo?
+[11:50] Prosím vás, pojďte tady za náma, pojďte bokem,
+[11:54] nezlobte se na mě, prosím vás, dejte ty trička pryč,
+[11:58] tohle je naše společný, je to i vaše,
+[12:01] ale není to žádné politické strany.
+[12:03] A ne to udělat tak, jak to udělal Robin,
+[12:06] že to natočila Česká televize, tam byla Prima,
+[12:09] Mainstream a samozřejmě to prase Přenákovo,
+[12:13] který si to natočilo na Hero Hero.
+[12:16] To prostě bylo nesmyslný a už jenom vůči tomu,
+[12:19] že pak celá ta akce vlastně skončila politickýma projevami.
+[12:23] A já jsem ještě týden čekal a nevyhadřoval jsem se k tomu,
+[12:27] protože já jsem si říkal, dobře, tak tyhle věci nejsou úplně nejlepší,
+[12:33] já to vidím jinak, ale třeba,
+[12:35] z toho vyjde nějaké rezoné, které já zatím nevidím.
+[12:40] A to je vlastně důvod celých těch čtyř dní,
+[12:45] že se tahali lidi do Brna, vyzývali se na ty akce
+[12:48] a že tady je teda výstup z toho, a teďka řeknu,
+[12:51] je to otevřený dopis, podepsanej politikama,
+[12:55] podepsanej nějakýma odborníkama, představitelama, historikama,
+[13:01] a bude to směřovat k té opozici
+[13:04] a bude to směřovat k té opozici.
+[13:05] A bude to směřovat k naší vládě, že prostě je tady tolik a tolik petic,
+[13:10] ty se teďka rozjeli po celé České republice
+[13:13] a doufáme, že seženeme 300, 400, 500 tisíc podpisů k tomu,
+[13:19] že nikdy v životě se tato nazistická prasárna
+[13:23] v České republice, v bývalém Československu,
+[13:28] na celém našem území neuskuteční.
+[13:32] Jenže nic z toho nebylo. Žádnej takovej výstup.
+[13:35] Vypadá to jako výstup.
+[13:36] Vlastně jsme se tam přišli, nebo takhle,
+[13:39] politici se tam přišli vykecat, vyprdět a tím to skončilo.
+[13:43] A proto já to kritizuju.
+[13:45] Protože z toho není žádnej výstup.
+[13:49] Není tady uděláno nic, aby se to neopakovalo v Liberci,
+[13:53] aby se tohle svinstvo nazistický, aby se neopakovalo v Chebu,
+[13:58] nebo kde už jsou ty takový vlaštovičky,
+[14:02] že by se to tam mohlo konat.
+[14:03] Proto jsem byl nasranej.
+[14:05] Skrz tenhle ten důvod, jak k tomu lidi přistoupili.
+[14:08] A že prostě nic, nic, a pro mě to je hamba, pro mě je to potupa.
+[14:15] A já to takhle pořád cítím a nedokážu to pořád zežvejkat.
+[14:19] A je to jeden z těch důvodů prostě, kdy mě to ukázalo,
+[14:23] že ten boj prostě teďka ztrácí už pro mě jakýkoliv smysl,
+[14:27] protože ty lidi nejsou schopni pochopit ty základní věci proto,
+[14:31] aby jsme udělali tu sounáležitost, aby jsme se spojili,
+[14:35] aby jsme se propojili.
+[14:36] Že nikdo z těch politiků nechce udělat ten příklad toho,
+[14:40] aby jsme se sjednotili. Ne pod nějakou jednou hlavičkou,
+[14:44] ne pod nějakým jedním politikem, který nás všechny z toho vyvede,
+[14:47] ale aby jsme pochopili, že to musíme být my sami dohromady,
+[14:51] že my musíme mít tu sílu. A když budeme mít tu sílu,
+[14:55] tak potom tady můžou být ty naši vyvolení,
+[14:58] ty, co za nás budou hlásat, ty naše požadavky,
+[15:03] ty naše schválený věci.
+[15:05] Ty, který si odsouhlasíme od spoda. A tohle ne, pořád, pořád,
+[15:10] pořád politika a pořád tady někdo budete vstupovat
+[15:13] do politických strán a tahle jediná strana je správná
+[15:17] a tam ty strany jsou špatný.
+[15:19] Vy to a pořád to nechcete pochopit, lidi to nechápou, ne.
+[15:24] Takže to je to, proč já jsem řekl, že jsem z tohohle všeho zklamanej,
+[15:28] že prostě ten můj boj prostě nikam nedozrál,
+[15:32] nikde není výsledek.
+[15:34] Nebavím se o společenství jako takový a o pomoci lidem, ne.
+[15:38] To je úžasná věc a má to svoje výsledky a pomohlo to spoustě lidem.
+[15:43] Pomohlo to se zdravím, pomohlo to s prací, pomohlo to zvířátkům,
+[15:49] maminkám, rodinám, dětem, spoustě lidem to pomohlo.
+[15:53] Takže to od toho odlišuju. Ale ten politický směr,
+[15:57] to společenství, českou a respekt, to se nenaplnilo, jo.
+[16:02] A ano, já to považuji za takovou,
+[16:04] svoji osobní prohru, ale ne úplně, protože to není jenom mojí věcí.
+[16:10] Já jsem to dál vám všem, vám všem a každý z vás měl možnost se toho chopit
+[16:15] a naprostá většina z vás to neudělala.
+[16:18] A Brno je jenom důsledkem tohohle našeho stupidního chování, jo.
+[16:24] A tím já říkám a dost a stačilo.
+[16:28] Proto já jsem řekl, že na dlouho,
+[16:29] protože jsem byl z toho fakticky hodně frustrovaný,
+[16:32] že prostě neudělal, že prostě
+[16:34] dál už toho mám prostě plný zuby a že si odpočinu.
+[16:38] Jenže, protože já mám tu blbou skurvenou povahu,
+[16:42] ne vůči vám, vůči sobě.
+[16:44] A to, že já jsem empatický cholerik
+[16:49] a samozřejmě člověk nedokáže předjímat a předpokládat,
+[16:55] co ta banda těch naprostých pokryteckých hajzlů,
+[16:59] fialovo-modro-žlutejch, spolu ze stanu,
+[17:03] co znova a znova s tím idiotem na hradě,
+[17:07] co prostě oni jsou schopni vytvářet.
+[17:10] Abych tomu dal ten příklad. Přišlo, že jo, refužist will come,
+[17:15] vítejte uprchlíky, nechceme tu rasisty-nacisty,
+[17:20] rasisty-nacisty, uprchlíky vítejme ty vole.
+[17:23] Rozdělení společnosti. Volby Miloš Zemán-Švancemberg,
+[17:28] rozdělení společnosti. Volby stahovač Králíku Jiří Drahoš,
+[17:33] Miloš Zemán, rozdělení společnosti.
+[17:37] Přišlo dál jako nejhorší a nejlepší ukázka covid.
+[17:42] Roušky ano, roušky ne. Vakcína ano, vakcína ne.
+[17:46] Dodržovat pravidla ano, ne. Rozdělená, rozsekaná společnost
+[17:51] na cimpr-campr, na hadry. A člověk si říká, tak a to je konec,
+[17:55] konec, víc nepřijde. Ne, přišla Ukrajina.
+[17:58] Banda naprosto vylizaných lidí, kteří prostě, ano,
+[18:02] to se nedá jinak říct, protože jestliže někdo naprosto bezmyšlenkovitě věří
+[18:07] sračkám z české televize, tak je prostě vygumovanej.
+[18:11] A já to říct můžu, protože jsem to řekl taky o sobě,
+[18:14] že jsem byl naprosto vygumovanej debil, protože jsem věřil tomu,
+[18:18] co všechno zveřejnila česká televize, český rozhlas. Jo, těmhle sračkám.
+[18:23] Aniž bych si to dál prověřoval, aniž bych o tom vůbec přemýšlel,
+[18:27] protože přemýšlení bolí. Takže jsem řekl, že jsem byl stupidní kretén,
+[18:32] stupidní idiot, debil, který věřil české televizi. Takže já
+[18:37] si to můžu dovolit říct, protože vím, jaký jsem byl na základě,
+[18:42] čeho jsem to dělal, že jsem věřil české televizi a proto to říkám
+[18:46] o těch ostatních, co dneska jsou schopni chodit na ty náměstí a říkat,
+[18:50] já chci povinně platit koncesionářský poplatky.
+[18:53] To prostě je naprosto vymydlený, vylízaný, vybrakovaný.
+[18:57] Hotovo, konec. Konec. To je prostě neuvěřitelné.
+[19:02] A s tímhle, s tím vším prostě, když si to spojíte dohromady,
+[19:06] tak si říkáte, co ještě přijde. Co znova zase může tu společnost
+[19:11] rozdělit. A že to dělal Petr Pavel, že on tu společnost,
+[19:18] on ji chtěl spojovat, stmelovat, to stejné, jak ta okatá čůza,
+[19:23] ta ludra pekarová. My jsme parlamentem pro všechny
+[19:27] i pro ty, co nás nevolili. No, tak to vydrželo asi,
+[19:31] to ji nevydrželo ani, když došla na kraj lesa, jak se říká.
+[19:36] A okamžitě.
+[19:37] Rozdělení společnosti, totálka. Ukrajina, ty vole, Ukrajina bojuje za nás,
+[19:43] jasně, stoprocentně. Ukrajina je napadenej stát ruským agresorem,
+[19:48] rusáci, prostě tohle, tohle, tohle. A vůbec vás nezajímá, kdy to začalo,
+[19:53] jak to začalo, kdo za tím stojí, kdo tam dává peníze, kdo to sponzoroval,
+[19:59] kdo z toho má vlastně ten největší prospěch, komu tohle prospívá.
+[20:04] Za vším hledejte peníze. Chcete najít pravdu,
+[20:06] tak jděte po stopách peněz. Ale to si lidi neřeknou, ne.
+[20:11] Pro ně je pohodlnější věřit sračkám z české televize, co vám lidi,
+[20:16] co vám nakukají moderátoři, vole, kteří jsou schopni tipnout,
+[20:21] scenzurovat jiný názory v televizi a nejenom zemana, nejenom předělaná reportáž,
+[20:28] ale to byl, to byl ten z Plzně, ne starosta, ten, co je na magistrátě, to, co dělá
+[20:37] bifetovaná Vaňková, víte, co myslím, primátor, jo, takže primátora v Plzně uťafli,
+[20:43] pak uťafli dalšího politika v rozhovoru,
+[20:51] to, co předvádí vůči Okamurovi, jak skáčou Macinkovi do řeči,
+[20:56] prostě tohle je česká televize, a vy tohle všechno chválíte a tleskáte tomu,
+[21:01] jo, ta protistrana, protože vám se to líbí, protože Macinka není váš favorit,
+[21:06] a tleskáte tomu imbecilovi zhradu, protože on je důstojnej, velký hovno,
+[21:12] vůbec nedomýšlíte, co se to vlastně děje, co je to za, co je to za obrovský pruser,
+[21:18] co se tady děje za pomocí toho zmrda zhradu, což je Petr Koláš, jo, ten, to je režisér,
+[21:26] to je režisér toho, téhle šílenosti, co se teďka odehrála, a já jsem se přiznal ve statusu,
+[21:32] mně to nedošlo, mně nedošlo to, že vlastně
+[21:36] důvod není, aby Petr Pavel naplňoval článek 63 Ústavy České republiky,
+[21:42] prezident reprezentuje Českou republiku a stát navenek, ale že tam jde jenom o ten doprovod,
+[21:50] o toho skurvenýho zamrda, já jsem řekl, že budu slušnější,
+[21:55] takže o tohohle z toho šmejda odpornýho, zaprodanýho kolaboranta Petra Koláře,
+[22:02] tady tohohle lobbystu, který pracuje pro cizí mocnosti, jo,
+[22:07] který pracuje samozřejmě i pro našeho zbrojaře, pro tohohle vraha,
+[22:12] tuhle špínu, která má krev na rukou, dá se možná říci dvou milionů Ukrajinců
+[22:20] a třeba půl milionu Rusů, tenhle ten strnat má krev na rukou těchhle z těch lidí
+[22:26] a civilistů, tenhle ten strnat má na rukou krev těch studentů z Moskvy, jo,
+[22:32] tenhle ten zmrt. No a samozřejmě Kolář je na tohle to navázaný.
+[22:37] Takže Petr Pavel tam nemůže dojednávat na tom summitu nějaký věci, jo,
+[22:42] i když teda on teda může jakože prezident. Jenže prachy, co se týče státních zakázek,
+[22:48] drží vláda Andreje Babiše, takže Petr Pavel by tam byl stejně namalovaný.
+[22:53] Ten by mohl dávat slova komu chtěl a je mu to prdplatný. Kdežto tenhle ten parchant,
+[23:00] tenhle ten bastard vyjebaný, což je Petr Kolář, tak ten má ty prsty, ten má ty dlouhý
+[23:07] prsty, ten má ty možnosti na ty lobbysty. On byl, on byl velmi slanectvem jak v Americe,
+[23:13] tak v Rusku. Takže on, on má ty možnosti domlouvání těch kšeftů komu,
+[23:20] co nepotřebuje k tomu prezidenta. Jo, představte si, tohle mně došlo,
+[23:25] když jsem si právě položil tu otázku, co tam proboha ten kašpar z toho hradu chce dělat?
+[23:32] Co tam chce dělat? Vždyť ten je tam úplně k hovnu.
+[23:38] Jo, Američani, ty z něho mají prdel, ty ho nesnáší. Trump, ten se mu může jenom vysmát
+[23:47] do kšichtu. Idiot nasral Číňany, jo? Prostě politika, ta hodnotová politika,
+[23:55] tenhle z té vyjebané vlády, fialové, bývalé vlády, pardon, prostě, tak Taiwan, že jo?
+[24:01] No tak ano, ten Taiwan nám strašně pomůže, protože on je světová velmoc, no celkem
+[24:07] určitě. Ne, hodnotová politika, prostě všechno proti Číně, všechno proti Rusku.
+[24:13] Prostě stupidní jako prase, jo? Takže Petr Pavel, Američani, ne, Číňani, ne,
+[24:22] Evropská unie, ta z něho má ještě větší prdel, než má z Bidena.
+[24:26] Jediný, kdo k tomuhle ksindlovi zůstal, je ten šmejt odporný,
+[24:32] ten, co páchá genocidu na svým vlastním národě, a to je to prase vyfetovaný zelencky.
+[24:37] Jo? Takže to je jedinej blbec, kterej tady tomuhle Kašparovi zhradu zůstal.
+[24:44] Takže jsem si říkal, co on na tom summitu na to chce? Proč já, král první, tam musím být?
+[24:52] Z jakýho důvodu? Takže jeho ego, ale to se mně nezdá. Teďka do toho ten ústavní soud,
+[25:00] že to je pruser jako prase. Vždyť oni stali z tohodle systému, kterej tady
+[25:08] máme za ten demokratický, jo? Udělali frašku. Jo, soud s toho udělal frašku,
+[25:15] protože ten, co tvořil ústavu, bývalý ministr Němec, ty vole, já furt si nemůžu
+[25:23] shodnout na to jeho jméno, tak řekl jednoznačně. Ústavní soud na tohle nemá právo.
+[25:30] Na toto nemá právo. Proboha, to je strašný. A ještě ta rychlost, jakým způsobem o tom rozhodli.
+[25:37] Takže tohle všechno.
+[25:38] Udělalo ze systému, z té soudní justice, teda z justice, z parlamentu, z tohohle systému
+[25:47] právního řádu absurdistán. Absurdistán. Tady nějaká blbka ze stanu, že prej Petr Macinka
+[25:56] nemůže být toto, že on má být slušnej a kdesi cosi. Vyjádření Petra Macinky,
+[26:03] prosím vás, jestli to nechápete, tak víceméně to už je zoufalost. To není to,
+[26:09] že Petr Macinka by chtěl být ironický z podstaty věci. Podle mě to je tak, že už neví,
+[26:15] z které do keré, jak vyjádřit to, že na hradě máte naprostýho debila,
+[26:22] že Ústavní soud, že kouří kolářovi, vole. A že tohle je prostě naprostá šílenost.
+[26:30] Že tohle prostě je popření všeho. Teďka jsou na Hitlerově dálnici, tak bude hlaprovací,
+[26:36] k nám, přátelé. Až z toho vyjedu.
+[26:43] Jen tak mimochodem.
+[26:44] Mimochodem chtělo by to opravit tu Hitlerovu dálnici a dát tady cedulu opraveno za peníze
+[26:50] Evropské unie. To by totiž sedělo, jo.
+[26:54] Hitlerová dálnice opravena za peníze Evropské unie. Takže Petr Macinka,
+[27:01] prostě já to vnímám tak, že ten chlap prostě už neví, jakým způsobem by dal jasně najevo,
+[27:07] že prostě na hradě sedí obyčejnej ubožák, normální kreten. Já, Pavel, král první, ty vole.
+[27:14] Protože to, co teď, takže jemu nestačí teda dobře, takže Ústavní soud naprosto proti Ústavně
+[27:24] během necelých 48 hodin uznal něco, dal příkaz vlastně k vládě, na což nemá Ústavně právo,
+[27:34] ale oni to přesto udělali. Udělali ze sebe naprosty hlupáky, šašky, ale úplný totální idioty,
+[27:42] ale co víc, oni naprosto znehodnotili.
+[27:45] Znehodnotili tu instituci toho Ústavního soudu. A teď v tom parlamentě, oni to vědí,
+[27:53] ale jak to, oni to, já, Černohorský to může říct na plnou hubu, ale jako tohle říct Andrej Babiš,
+[27:59] říct to vláda, z těhle úst, z těhle úst je to hrozně nebezpečný, tohle říct.
+[28:06] Protože byste to měli oficiálně potvrzený. Černohorský, ten si to říct dovolí.
+[28:12] Já si dovolím takových věcí, až to hezký není. Spousty chytráků říkají,
+[28:16] a jak to, že nejsou kriminále, jo. No, protože podle některých idiotů,
+[28:21] co si myslí, že vymysleli jízdy za svobodu, tak já jsem Jasnej Fýzl.
+[28:26] A jiných kreténů, jo. Takže já si to říct prostě dovolím, protože vím,
+[28:33] jak si to můžu dovolit říct a co si můžu dovolit říct. A hlavně já nejsem v pozici,
+[28:39] nejsem v pozici právě předsedy vlády, ministra zahraničních věcí.
+[28:45] Nejsem v téhle pozici.
+[28:47] Oni musí velice vážit ty slova. Takže za mě to, co říká Petr Macinka,
+[28:53] je jednoznačně pravda. Ale on to říká proto, protože už mu nic jinýho nezbývá.
+[28:59] Té vládě, těm představitelům už nic jinýho nezbývá. Oni nemůžou říct na plnou hubu to,
+[29:04] co řekne Černohorský. Že Petr Pavel je obyčejná, obyčejnej ubožák.
+[29:10] Že to je prostě magor, že je to debil, egoistický, sebestřednej kretén,
+[29:16] kterej si myslí, jak je důležitej. Petře Pavle, ty seš, ty seš míň než hovno v trávě,
+[29:22] kamaráde. Ty seš míň než hovno v trávě. Protože ty kouříš, vole, ty kouříš,
+[29:29] aniž bys to věděl Petru Kolářovi, vole. To seš ty, protože na tom hradě to ovládá tenhleten
+[29:37] zmetek, tenhleten lobbysta. A proto celá tahle šaškárna, celý tady tenhleten, tahle šílenost,
+[29:47] aby se na summit dostal Petr Kolář. Aby mohl si dojednat kšefty. Aby mohl dojednat kšefty s lobbystama.
+[29:56] Aby z toho měl neskutečný provize miliony, možná miliardy. Za to, aby se tady vraždili lidi.
+[30:03] Tohle je tahle sketa. Tenhleten bastard. Vyjebanej. Tenhleten tady zničil doslova, ano,
+[30:12] tenhleten zmrt za pomoci Petra Pavla. Samozřejmě navázal na politiku těch
+[30:19] idiotů Fialovojích spolu ze stanu, ale tenhleten tomu dal tu korunu.
+[30:24] To poslední, co tomu ještě chybělo. Oni prostě... To je, jak kdyby vybuchla atomová bomba,
+[30:32] vole, v parlamentě a zároveň na hradě v té politické otázce nebo v tom politickém prostředí.
+[30:41] Doteďka ta politika stála za hovno. Ale furt člověk v tom viděl, dejme tomu určitá část lidí,
+[30:49] v tom viděla nějakej řád.
+[30:50] Nějakej smysl, nějakou důstojnost politickou. Ale teď to, to, co předvádí jenom tady tyhle ty
+[30:59] liberálně progresivní egoističní sebestřední kreténi, kteří už tak dávno nemají být,
+[31:06] protože říkám ta z toho stanu na Petra Matřinku, že důstojnou a omluva, tak se mi nahrál zprávu
+[31:14] úplně neslušnou. Mě to totiž nezajímá, protože když je ta ženská totálně vygumovaná kráva,
+[31:20] tak proč bych s ňou měl mluvit v nějakých rukavičkách, takže se mi tam nahrál,
+[31:24] že má držet rypák, protože celý stan bych já postavil mimo zákon, tuhle stranu bych zrušil,
+[31:30] zakázal a Rakušana bych už dávno dal do kriminálu. Takže aby oni se odtírali o vládu Andreje Babiše
+[31:38] nebo Petra Matřinku, ne, oni můžou jenom šoupat nohama a držet rypáky, ty jejich smradlavý,
+[31:44] špinavý rypáky. Tak to jsem té krávě nahrál do, do, na Messenger, protože to je
+[31:50] neuvěřitelný, jo. Takže prostě projevy, ať už to je kdokoliv a Andrej Babiš se neskutečně drží,
+[31:57] protože on tak nějak jako ví, že to za něj ho vyřídí Petr Matřinka.
+[32:03] A to je přesně, to jsou ty takový určitý rozdělený role, jo. Petr Matřinka prostě,
+[32:10] já to nemůžu jako takhle přirovnávat, jo, já tady, ale prostě to je takovej
+[32:16] slušnější černohorský na politické
+[32:20] scéně, jo, podstatně slušnější. Ale ten jeho humor a ten jeho,
+[32:26] ten jeho ironický humor, tak to je přesně to, co teď takhle, to, co on teďka dělá,
+[32:32] Petr Matřinka, tak je důvod toho, že vám říkám, že on nech, on jako, on není hlupák,
+[32:40] to není žádnej debil, jak z té fialovo-modrožluté strany. Petr Matřinka je velice inteligentní borec, jo.
+[32:50] Má tam takový to ego a sebestřednost, ale prostě to k některým lidem patří.
+[32:55] A SouTaxi taky už toho nemálo dokázal, takže si může něco z tohohle dovolit a já si zase řeknu,
+[33:03] že jsou schopný mu něco takovýho jako vyprominout, jo. Takže to, co Petr Matřinka za mě dělá,
+[33:09] není to, že tady primárně chce někomu. To, co dělá Petr Matřinka, už jsem to řekl,
+[33:16] je proto, protože už tady, už se tady neví,
+[33:21] že je to žádnej jinej způsob, jak prostě ukázat na to, že Petr Pavel je prostě obyčejnej hňub,
+[33:29] že to je hňub, že je to řízená figura a že ten blbec si dokonce myslí, že to není pravda
+[33:36] a že on je ten prezident, že on je ten hlavní, protože, takže oni ho vezmou teda do té Ankary
+[33:44] a teď vám můžu říct, jo, už je to tak v prdeli, celou tou ústavou, tohle už se ví,
+[33:50] že to ten ústavní soud posra.
+[33:51] Já bych ho Petra Pavla tam prostě nevzal, já už vám, teďka já jsem změnil názor na základě toho,
+[33:59] co tenhle ten idiot dneska udělal, nebo včera, nebo já nevím kdy,
+[34:03] protože já už z něho fakt, mě už je z něho fyzicky zle, já vidím ty politiky tady z té opozice,
+[34:10] z té bývalé spolu ze stanu, kde kameň jebal cihlu a mě je z nich fyzicky špatně,
+[34:16] mě je fakt z nich fyzicky špatně a podle facebookových pravidel,
+[34:22] oni ve mnohem jiným způsobů, které jsou,
+[34:23] mě budí naprosto nenávist, jo, mě budí, oni mě provokují k těm nenávistným projevům,
+[34:30] tady tyhlensí paraziti, tady tyhlensá banda sráčů a prostě Petr Macinka už neví,
+[34:40] jakým jiným způsobem tady ukázat to, že to, co prostě tady je, že to jsou,
+[34:49] že to je prostě naprosto neuvěřitelné, že už se k tomu nemá,
+[34:54] protože Petr Macinka si nemůže dovolit říct,
+[34:57] jak Černohorský, Petr Pavel, jseš míň než hovno, jseš míň než hovno v trávě,
+[35:04] to hovno v trávě je užitečnější než ty, to hovno v trávě se časem rozloží a zahnojí tu trávu,
+[35:12] zahnojí tu půdu, ty nic, ty akorát všechno pohnojíš, ty všechno, na co zhrábl,
+[35:18] co jsi udělal, to jsi posral, Petře Pavle, všecko, všechno a ústavní soud to jenom dovršil,
+[35:26] takže tenhle systém teďka, to už prostě, to je konec, to je konec,
+[35:32] oni se naprosto jednoznačně odkopali, neuvěřitelným způsobem, na lidi tady serou,
+[35:38] ale jakmile je tady Petr Koláš, dosazený ty jeho loutky v tom,
+[35:45] na ústavním soudě, zůstali tam jenom dva slušní, tak oni se odkopali naprosto nemožným,
+[35:55] neuvěřitelným způsobem,
+[35:57] to prostě, to nejde pochopit, takže o Petr Pavel já řeknu ano,
+[36:03] ty seš prostě obyčejný hovno, míň než hovno, tohle Petr Macinka si nemůže dovolit,
+[36:12] a to ani ožralej jako tenkrát, co se týkalo,
+[36:18] ježiš víte, bože, Zuzana Majerová, to bylo otřesné, to bylo naprosto otřesné,
+[36:27] co si Petr Macinka tenkrát ožralej dovolil,
+[36:29] a tohle si prostě nemůže dovolit ani, tohle vůči prezidentu si nemůže dovolit ani ožralej,
+[36:35] takže proto Petr Macinka to dělá tímto způsobem a nepojedeš ani na OSM,
+[36:42] jo, protože to jinak nejde, to už jinak prostě nejde vyjádřit,
+[36:49] on už nemá, ty lidi v té politice už nemají jiný možnosti pro to vyjádření Petra Macinkej, jo,
+[36:58] a
+[36:59] já už prostě, když to vidím, co tady je, prostě ten způsob, a tady už není žádná většina,
+[37:07] která by souhlasila, nevěřím tomu, nevěřím tomu, že ano, spousta lidí naprosto politicky
+[37:16] vylágrovaných, ale v té většině ty lidi nejsou hloupí, v té většině ty lidi nejsou hloupí,
+[37:22] v žádném případě, a když už to zašlo tak daleko, jako s tím ústavním soudem,
+[37:28] tak už i ta druhá část začíná pochybovat a vidí, že tohle z toho je prostě pruser,
+[37:35] protože ten systém se vlastně rozpadá. To, co vlastně je naprosto, je to špatně postavené,
+[37:43] protože demokratice, parlamentní demokracie, to je, to je otrokářský systém, to je,
+[37:49] to je totalita převlečená v ružových, do ružových šatiček, nebo LGBT možná šatiček,
+[37:56] ale není to parlamentní demokracie,
+[37:59] to je, to je chiméra, protože tady 108 lidí, jenom si řekněte, to může udělat i vláda Andreje Babiše,
+[38:07] cokoliv může jít proti lidu a proti nám lidem a nic s tím nenaděláme.
+[38:11] Tak přesně, jak jsme nenadělali nic s tím, že 108 parchantů, fialovo-modro-žlutejch spolu ze stanu,
+[38:20] změnili zákon, okradli důchodce o 40 papírů, minimálně 40 papírů každého důchodce okradli,
+[38:27] okradli, jo?
+[38:29] Proto volební období, já si myslím, že víc, že podstatně víc, ale to je jedno,
+[38:33] prostě změnili zákon o valorizaci důchodů k obrazu svému,
+[38:37] protože házeli vidlema peníze zmrdovi na Ukrajinu,
+[38:41] tak museli někoho okrát, aby byli aspoň na mandatorní výdaje,
+[38:45] aby měli na ty svoje skurvený platy, tak museli okrát důchodce,
+[38:49] museli okrát živnostníky, museli okrát děti, rodiny, maminky,
+[38:54] prostě všechno, zrušili školkovní, prostě zrušili naprosto všechno,
+[38:59] zastavili stavby, dálnice, tyhle věci, aby mohli mít na ty svoje podělaný prachy,
+[39:06] protože hrozně už...
+[39:08] No, já už to ukončím, protože tady ten signál hapruje, přátelé,
+[39:13] takže co tady k tomuhle tomu dodat?
+[39:17] Já teď už, já jsem změnil názor, protože ještě předtím,
+[39:21] než tady tenhle, já musím být ještě, on, tady tenhle šašek,
+[39:26] takže on musí být automaticky, on tím,
+[39:30] takže on musí být tím vůdcem, on, já první, on musí tu delegaci véct,
+[39:38] on ji musí véct, jo, protože bez něho by to nešlo,
+[39:42] bez něho to nepřipadá v úvahu, prostě on musí být, já ten první,
+[39:47] to je prostě neuvěřitelný, to je neuvěřitelný,
+[39:50] tady tenhle ten kašpar, tenhle ten blbec,
+[39:54] takže prostě, protože tohle se on teď udělal, že vyvedl tady tuhle,
+[39:59] tenhle, on z toho udělal naprostou šaškárnu,
+[40:02] naprostou šaškárnu, a já už prostě, to už nechápete,
+[40:07] to už fakt nechápete, a už nejde, to už prostě nejde udělat z toho větší průser,
+[40:11] než z toho je, jo, malý moment, takže, ne, já bych už mu prostě řekl,
+[40:19] tohle není soudní rozhodnutí, to není o tom, že bych nerespektoval,
+[40:25] že bych nerespektoval soud, tam já jsem dal klíč, ty vole, to je se mnou, to je strašný,
+[40:33] já jsem někam dal klíče, přátelé, a já teďka už ho mám od auta,
+[40:40] a takže to už není o tom, že by se nerespektovalo rozhodnutí ústavního soudu,
+[40:47] to, co předvedl ústavní soud, je naprostá šaškárna, a právníci to rozsekají,
+[40:54] prostě rozsekají, takže já potom, já jsem si říkal, jo, prostě, bohužel,
+[41:01] musíme udělat tu dobrou vůli, jakoby,
+[41:04] musíme,
+[41:06] prostě, aby ten systém, prostě, aby těm, aby prostě úplně takzvaně nepadl,
+[41:11] protože přece tady nikdo nechce občanskou válku, nepokoje v ulicích,
+[41:16] protože tady toto do prčic, ty vole, já to neotevřu, nemůžu najít klíč,
+[41:36] konečně, takže, takže to, co teďka předvedl Petr Pavel,
+[41:43] tak já neměl bych problém říct, ne, nepojedeš tam, prostě tam nepojedeš,
+[41:48] jsi idiot?
+[41:49] Chceš si tady hrát na něco, co nejseš, chceš tady ještě, protože nejvyšší důležitost,
+[41:58] co tady je, ústavní činitel je premiér této země, ne prezident, my nemáme prezidentský
+[42:04] systém, ty kreté, ne, ne, my nemáme prezidentský systém, ten systém je parlamentní,
+[42:10] aspoň si teda na to hrajeme, jo, a tím to taky končí, ten systém je parlamentní a ty tady
+[42:17] nebudeš prostě překopávat
+[42:20] ty onej zvyklosti, vole, jo, prostě tady jsou nějaký zákony a těma se máme řídit a ne to,
+[42:29] co tady předvádíš ty, takže teďka já bych bez problému, přátel, fakt úplně bez problému,
+[42:37] řekl milýmu Petrovi Pavlovi, ne, ty nikam nepojedeš. Ústavní soud, to je doporučení,
+[42:45] to jako z toho a z toho pohledu ten ústavní soud si tohle vůbec nesměl dovolit, ústavní
+[42:51] soud,
+[42:52] tohle na to neměl, já bych to viděl úplně jednoznačně dneska, prostě milej zlatej Petře Pavle,
+[43:00] ty jsi to totálně celý zesral, totálka, udělal z téhle, z tohohle státu za pomocí,
+[43:06] nebo respektive Kolář za pomocí tebe z toho tady udělal naprostou frašku, naprostou frašku,
+[43:14] takže já bych už se s tím nesral, já bych se s tím fakt nesral, tady jsou právníci,
+[43:19] tady je právní rozbor, ústavní soud,
+[43:23] chyboval, tohle si nesměl dovolit, Petr Pavel do žádné ankary nepojede,
+[43:28] zapomeň ty mizernej lobbysto, vole, že tam pojedeš, že tam budeš dojednávat ty svoje špinavý kšefty,
+[43:34] Koláři, vyjebanej, strnat, ať si trhne nohou, jo, zase mu akcie klesnou, půjde s tím do prdele,
+[43:43] já si myslím, že ty zmrde už máš nahrabaný víc než dost, aby se za pomoci tebe zabíjeli další
+[43:48] a další lidi, takže já bych to tímhle tím způsobem bych to ukončil,
+[43:53] až k tomu totiž nevidím problém, vyvrcholilo to dneška, dneškem, kdy tenhle ten idiot si prostě myslí,
+[44:00] že tady všichni z něho padnou na prdel, ani hovno, ani hovno, kdyby to bylo možný,
+[44:04] milej zlatej Petřičku Pavle, tak člověk by šel na hrad, vzal by toho Koláře, vole,
+[44:10] vykopal by ho z toho hradu, kolpal by ho toho hajzla až do Bruselu a tebe bych lapl za flíger,
+[44:15] vole, a nakopal bych tě taky do prdele a kopal bych tě, vole, až někam do toho třeba tvýho
+[44:21] vysněnýho Kyjeva, ty zmrde. A tím bych ukončil jakoukoliv možnost, vole, tvýho králování,
+[44:28] prezidentování, vole, já, Petr Pavel Král I. A tím bych to ukončil, protože vy jste fraška,
+[44:35] vy jste normální fraška, vy jste, i když jste za mě a pro spousty lidí a naprosto pochopitelně,
+[44:41] tenhle systém s demokracií nemá nic společného, je to obyčejnej podvod prostě,
+[44:46] jenom vyžírá lidi, je to víceméně otrokářský systém.
+[44:50] My lidé, my jsme vlastně socioekonomičtí otroci, na nás se vůbec nedává,
+[44:55] referendum celorepublikový udělat nechcete, nechcete uzákonit proveditelný prováděcí zákon
+[45:03] o celostátním referendu, takže se nemáme o čem bavit a tomhle je namočenej i Andrej Babiš,
+[45:09] paní Šilerová, ta to řekla taky, nebude, nechcou referendum a tak dále,
+[45:13] takže za mě prostě jednoznačně tyhle kroky vedou k tomu, že jste potvrdili naše slova těch lidí,
+[45:20] kteří říkají prostě, že nemáte právo takhle rozhodovat,
+[45:24] protože vím, tady to nemá nic společního s demokracií, jasný,
+[45:28] ale bohužel jsme v tom systému, v kterým jsme a nemůžeme, prostě já nechci anarchii,
+[45:34] já nechci anarchii, takže hledám cestu, jak z tohohle, z toho pojebanýho systému,
+[45:39] který se tváří jakože demokratický, tak z toho hledám cestu tak, aby nebyly mrtví v ulicích,
+[45:45] aby tady nebyly nepokoje a tak dále a tak dále a o toho je společenství čest a respekt.
+[45:50] Ale to je jiná kapitola, vy to nechápete, vy budete volit svoje politické lídry.
+[45:55] Takže já to vidím dneska už tak, že to, co tady udělal Petr Pavel,
+[46:00] nebo respektive jak využil kolář svou loutku, svou marionetu,
+[46:07] tak tenhle systém totálně poslal do sraček, poslal ho totálně do sraček,
+[46:13] naprosto ho znedůvěry hodnil, jasný, takže teď už nic horšího být nemůže.
+[46:20] Teď už je tady podle mě právní cesta, Andrej Babiš, vláda České republiky,
+[46:25] je tady parlamentní systém, prezident, kolář, ústavní jsou to totálně posrali
+[46:30] a teď se musí hledat náprava, aby tady ten systém úplně neskolaboval.
+[46:36] Ale ta náprava nezačne tím, že se vezme tady tohle tupý blbý hovado
+[46:41] s tím jeho doprovodem Petrem Kolářem na summit na NATO do Ankary.
+[46:49] Ne.
+[46:50] Já už dneska, když vidím, jak se k tomu staví Petr Macinka,
+[46:55] já jsem naprosto přesvědčený, že ten borec prostě za pomocí jeho
+[47:00] i jeho osobnosti ta vláda tohle ustojí.
+[47:03] Ta vláda to jednoznačně ustojí.
+[47:05] I přes všechny ty vyjebané média, které samozřejmě rozjedou neskutečnou kampaň,
+[47:10] že si dovolili nerespektovat tohle.
+[47:13] Ale prostě tohle je lež.
+[47:15] Tohle je sprostá manipulace, je to lež, to nejsou ani polopravdy,
+[47:20] a teďka ta pravda, ta skutečná pravda, ta právní pravda,
+[47:27] tak je na straně Andreje Babiše, Petra Macinky a téhle z té vlády.
+[47:32] Takže summit na NATO, takhle, milé Petře Pavle, takhle, pane Koláři.
+[47:39] Nasrad, nasrad.
+[47:41] Tak jo, přátelé, já se s váma loučím, mějte hezký večer a opatrujte se.
+[47:46] Mějte hezký večer.

@@ -1,0 +1,49 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/930968423341624
+Datum videa:  2026-07-16
+Zpracováno:   2026-07-17 08:47:49
+Jazyk:        cs
+Délka:        00:01:36
+Zhlédnutí:    89 743
+Popis:        Rychlá anketa z Chorvatska o tom, jak moc jsou tady místní lidé spokojeni se zavedením eura. 
+
+Pokud se nepoučíme, tak nám není pomoci.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    11s
+Přepis:       25s
+Rychlost:     3.7x realtime
+Celkem:       57s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Přátelé, hlásím se vám znovu z Chorvatska, kam jsem dorazil zpět za svojí rodinou
+[00:05] a musím se s vámi podělit o jeden zážitek.
+[00:10] Včera, kdy jsme tady měli takové malé posazení s místními lidmi,
+[00:15] tak jsem si mezi nimi udělal takovou krátkou, rychlou anketu
+[00:19] o tom, jak moc jsou spokojeni se zavedením eura,
+[00:24] které Chorvatsko přijalo 1. ledna 2023.
+[00:28] A dělal jsem si čárku pokaždé, když mi někdo z nich řekl, že je za to rád.
+[00:35] Víte, kolik těch čárek mám, přátelé?
+[00:39] Ani jednu, jedinou.
+[00:42] Nepřejte se ani slyšet, což jsem na adresu tohoto umělého produktu
+[00:48] bruselských byrokratů slyšel.
+[00:51] Ale o jednu poučku, která by pro nás mohla být přínosná,
+[00:55] se s vámi přece jenom podělím.
+[00:58] Jedna žena mi tady řekla, víte, pane doktore,
+[01:01] my jsme díky tomu neuvěřitelně schudli.
+[01:04] Dřív jsme měli za jedno euro sedm kuna.
+[01:08] Ale to, co dřív stálo jedno kuna, dnes stojí jedno euro.
+[01:14] Tudíž je všechno sedmkrát dražší.
+[01:18] Taková je realita, přátelé.
+[01:19] Tak až vám zase někdo bude věšet bulíky na nos,
+[01:22] jak moc nám to euro pomůže a že kvůli tomu v České republice
+[01:26] určitě nikdo neschudne, tak se mu jenom můžete smát do očí.
+[01:30] S bohatnou zase ti nejbohatší, ale obyčejní lidé na to doplatí.

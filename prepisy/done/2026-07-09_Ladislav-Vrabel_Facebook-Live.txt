@@ -1,0 +1,797 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1395678025794000
+Datum videa:  2026-07-09
+Zpracováno:   2026-07-11 11:49:29
+Jazyk:        cs
+Délka:        00:46:23
+Popis:        9. 7. 2026 - Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    24s
+Přepis:       8m 13s
+Rychlost:     5.6x realtime
+Celkem:       8m 38s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:57] Dobrý den, přeju vám hezký večer, pořeju vám pohodu u zprav v 9 s komentářem.
+[03:04] Před chvilkou jsme byli na TV, budeš tam, jsme komentovali, ještě se mějte na to,
+[03:07] dneska si to tady ještě taky okomentujeme. Zuzko, hezký večer tobě,
+[03:12] zdravím Antonína Doreže a prosím, Zuzko, můžeme jít na zprávy.
+[03:18] Tak, hezký večer všem a začneme u nás doma,
+[03:24] protože vláda hodnotila první půl rok svého vládnutí.
+[03:32] Kabinet dnes představil hodnocení své činnosti za uplynulých 6 měsíců.
+[03:36] Premier Andrej Babiš uvedl, že vláda vyhodnocovala ohledně plnění svého programu 978 úkolů.
+[03:43] Ministři ještě dokončili 195 a pracují na dalších 774, nezačali zatím s 9.
+[03:51] Na tiskové konferenci Babiš za největší úspěchy kabinetu označil nízkou inflaci či snižení energie.
+[03:58] Opozice naopak hodnotí kabinet jako vládu.
+[04:01] Arogance, nekompetentnosti a chaosu.
+[04:04] Vládě se podle premiéra daří plnit své sliby.
+[04:08] Za největší úspěchy označil teda tu nízkou inflaci či snižení cen energie.
+[04:12] Na domací unijní úrovni se Babiš soustředí zejména na rozpočet.
+[04:18] Výstup byl také ministr průmyslu Karel Havlíček, který řekl,
+[04:22] že největší úspěchy svého rezortu taky považuje snižení cen energie
+[04:26] a vytvoření prostředí pro podporu energetických náročných odvědomí.
+[04:31] Tak to je skvělý, že vláda plní procenta ze svého volebního programu.
+[04:39] To je skvělý, ale to, co je důležitý, to je, jestli vláda plní ty hlavní věci,
+[04:46] které slíbila v programu. A to máme snižení věku odchodu do důchodu.
+[04:52] A tady slyšíme od vlády, že bohužel to nemůže plnit,
+[04:55] protože Evropská unie to s tím má problém.
+[04:59] Další věc je tady.
+[05:01] Zelená politika motorisky. Motorisky byly proti zelené politice,
+[05:05] vyhlásili konec klimatické krize. A najednou tady máme Filipa Turka,
+[05:09] který říká, že my těch 500 větrníků do České republiky musíme dát.
+[05:14] My to teda zmenšíme to území, naskládáme je na menší území,
+[05:18] ale musíme je sem dát, protože to chce Evropská unie.
+[05:21] Zbraně na Ukrajinu. Nebudeme dávat žádné peníze na zbraně na Ukrajinu.
+[05:26] V prosinci, pět dní, byl Andrej Babiš premiérem.
+[05:31] Jel na summit Evropské unie a odmával tam 90 miliard na Ukrajinu,
+[05:37] z toho 60 miliard na zbraně pro Ukrajinu. A to, že řekl,
+[05:41] že Česká republika za to nebude ručit, to sice je pravda.
+[05:45] Česká republika za to neručí, ale Česká republika to platí.
+[05:49] To je mnohem horší, než kdyby za to ručila. Protože kdyby za to Česká republika
+[05:53] ručila, jako ty ostatní státy, tak to znamená,
+[05:57] že kdyby Evropská unie zkrachovala a nemohla zaplatit tu půjčku,
+[06:01] tak by za to potom, kdyby Evropská unie zkrachovala, tak by nastoupili
+[06:05] ty ostatní státy jako ručitelské státy a pak by to zaplatili
+[06:09] ty ručitelské státy. To pro nás nehrozí, to je skvělý.
+[06:13] Ale abychom měli nějakou výhodu, tak by nejdřív musela zkrachovat Evropská unie.
+[06:17] A dokud Evropská unie bude fungovat a existovat, tak zaplatíme
+[06:21] těch 60 miliard na zbraně úplně stejně jako všechny ostatní státy.
+[06:26] Protože se to platí mechanizmem přes rozpočet Evropské unie,
+[06:29] to znamená přes jednotlivé příspěvky států. Takže jenom úrok,
+[06:33] jenom úrok z té půjčky pro Ukrajinu, a je to půjčka, on je to dár,
+[06:38] peněz na Ukrajinu, dělá zhruba miliardů ročně, kterou už Česká republika
+[06:42] v tomhle roce musí platit přes ty rozpočty z Evropské unie
+[06:45] a každý další rok. A ta jiskina, no tak ta jiskina je samozřejmě
+[06:50] mnohem víc, protože ten úrok jsou 32% zhruba, počtejte,
+[06:55] je to 32%, takže pokud máte 32% jednu miliard,
+[06:59] tak si to vynásobte, kolik to bude, bude to zhruba 30 miliard korun,
+[07:04] jestli dobře počítám, který Česká republika taky zaplatí
+[07:07] v průběhu těch let. To znamená to, že Andrej Babiš řekl,
+[07:11] že nebudeme posílat peníze na zbraně na Ukrajinu, je čistá lež,
+[07:15] protože nás to bude stát, když budeme počítat, že by to bylo na 15 let,
+[07:19] tak počtejte, že nás to bude stát 45 miliard korun.
+[07:23] To je prostě nesmysl, to je lež. A další věc je,
+[07:28] že se nebude podporovat.
+[07:29] Ukrajina, no tak tady máme zase motoristé, teďkon náš oblíbený premiér
+[07:33] zahraničních věcí Petr Macinka, který jel na výročí konce 2. světové války
+[07:37] do Německa, strašně, strašně potěšený, že v tohle významný výročí
+[07:42] může jít do Německa, líbat nohy Němcům.
+[07:45] No tak ten teďkon přišel s tím, že dáme peníze do té iniciativy PURL.
+[07:52] A PURL znamená Prioritized Ukraine Requirement List.
+[07:56] To znamená, to jsou, to je program těch,
+[07:59] zbraní, které jsou prioritní pro Ukrajinu. A PURL znamená,
+[08:04] ten program, ten funguje tak, že země pošlou peníze do Spojených států
+[08:08] a Spojené státy za to pošlou zbraně přímo na Ukrajinu.
+[08:12] A Andrej Babiš nám tady včera řekl na tiskovce, že to byly peníze,
+[08:16] které vyčlenila vláda Petra Fialy, že to je zanedbatelná částka
+[08:21] a že oni to chtěli dát Ukrajině, ale my to dáváme Američanům.
+[08:24] Ale to nejsou peníze Američanům, to jsou peníze Američanům za zbraně,
+[08:29] které automaticky potom okamžitě Američaně posílají Ukrajincům.
+[08:33] Takže platíme další peníze a zbraně Ukrajincům.
+[08:37] Takže může tady Andrej Babiš vykládat do Alleluja a ostatní můžou vykládat
+[08:43] do Alleluja, jak plní program, ale to, co je důležité pro Českou republiku,
+[08:48] tak to samozřejmě nedělají a neplní. Jedou globalistickou agendu,
+[08:51] Ukrajiny zjou Českou republiku, udělali nový zákon pro to,
+[08:55] aby u nás Ukrajinci mohli zůstávat. Jedou klimatickou agendu,
+[08:59] úplně stejně jako předchozí vláda, podporují Ukrajinu úplně stejně
+[09:03] jako předchozí vláda, akorát lidem lžou, že to nedělají.
+[09:09] My jsme měli připraveny tři videa z té tiskové konferenci pana Zunu,
+[09:14] pana Macinku a pana Babiše, když taky najdete potom na streamu.
+[09:25] Můžeme jít na další zprávu?
+[09:27] Jo, určitě, samozřejmě. To je na tobě.
+[09:31] Ještě se vyjádřil Jaromír Zuna.
+[09:34] Takže český příspěvek do fondu na nákup amerických zbraní pro Ukrajinu
+[09:40] sice vyvolal spor v koalici, ale ministr obrany Jaromír Zuna
+[09:44] po jednání s premiérem Andriem Babišem uvedl,
+[09:48] že rozhodnutí nepovažuje za porušení koaliční smlouvy
+[09:52] ani za žádný závažný problém. Zároveň však přiznal,
+[09:56] že o příspěvku předem také nevěděl.
+[09:59] No, mně to je úplně fuk, jestli to je porušení koaliční smlouvy nebo ne,
+[10:03] ale je to porušení předvole.
+[10:04] Protože slíbili zrušit letadla F-35.
+[10:09] Byl to Jaromír Zuna z SPD, který nám oznámil,
+[10:12] že letadla F-35 jsou pro Českou republiku skvělá volba.
+[10:16] To je neuvěřitelné. Slíbili zrušit muniční iniciativu.
+[10:21] A nezrušili muniční iniciativu, prostě všechno důležité,
+[10:24] co slíbili, tak neudělali. Udělali přesný opak.
+[10:28] Můžou prostě nám tady vyprávit, jestli to je porušení koaliční smlouvy
+[10:32] nebo ne, to pro mě není důležité. Pro mě je důležité,
+[10:34] že to je porušení toho, co slibovali lidem a k čemu je lidi zvolili,
+[10:38] aby dělali. A lidi je k něčemu zvolili a oni dělají přesný opak.
+[10:47] Poslanci Evropského parlamentu dnes ve druhém čtení schválili
+[10:51] prodloužení tzv. chatkontrol 1.0. Nařízení, které umožňuje
+[10:56] internetovým firmám dobrovolně skenovat šifrovanou komunikaci
+[11:00] uživatelů kvůli dětské pornografii. Přitom už jednou Evropský parlament
+[11:05] toto zamýtl, ale jeho přiznivci ho neobvyklým legislativním postupem
+[11:09] vrátili do hry. Podle kritiku jde samozřejmě o šmírování lidí.
+[11:15] Tady se můžete podívat, jak dohlasoval.
+[11:19] Tak to máme dvě věci, které je potřeba tady si uvědomit.
+[11:22] První věc je ten samotný systém hlasování v Evropském parlamentu.
+[11:27] Ono už to jednou se to hlasovalo. A protože proky tomu byla nevole lidí,
+[11:31] tak evropští poslanci hlasovali proti a neschválil se ten chatkontrol.
+[11:37] No ale protože globalisky chtějí kontrolovat, co si lidi píší
+[11:41] v soukromých zprávách, no tak se najednou objevilo to hlasování znovu.
+[11:45] A kde je potom nějaký demokratický princip? Tak se to bude hlasovat
+[11:49] do té doby, dokud se to nebude globalistům hodit, až se to jednou prohlasuje,
+[11:54] že tam třeba bude mít těhle poslanců, tak se to bude zkoušet tak dlouho,
+[11:57] dokud to neprojde. A to je prostě nový fenomén tohleto.
+[12:00] Jednou se to hlasovalo, neprošlo to. No to tak jsme zařadili prostě znova.
+[12:04] To je naprostá nehoráznost. Takže zařadili to znova a tentokrát to prošlo.
+[12:09] Tak co, tak se to bude hlasovat znova, aby to znova neprošlo?
+[12:13] No samozřejmě, že ne, protože to globalistům vyšlo, takže teď to bude platné,
+[12:17] že to prošlo. A tohleto samozřejmě popírá absolutně principy demokracie.
+[12:22] To je první věc. Druhá věc je, co to je ten chatkontrol.
+[12:25] To znamená, že když teď posíláme si, my tady třeba v rámci zpráv,
+[12:30] používáme nějakou aplikaci, přes kterou komunikujeme,
+[12:33] no tak tu tajný služby prostě mají k tomu přístup.
+[12:37] Ten provider to kontroluje, ale kontroluje všechno.
+[12:40] Už prostě ty šifrované zprávy nefungují tak, že byste měli jakoukoliv,
+[12:45] jakoukoliv soukromou konverzaci. Prostě všechno, co komunikujete vy soukromně,
+[12:49] tak si to čte třetí strana. To je prostě další nehoráznost.
+[12:54] Ten internet je schválně udělaný, tak existuje něco jako šifrovací klíče.
+[12:57] Jsou jenom čtyři na západě. A to ne proto, že by nebylo možné je vyvinout,
+[13:02] ale proto, aby se zabránilo tomu, aby někdo dokázal zašifrovat komunikaci,
+[13:07] aby lidi měli soukromou komunikaci. A teďka ještě zákonem se uzákonilo,
+[13:11] že to prostě ty firmy mají kontrolovat. A samozřejmě to dostanou povinně kontrolovat.
+[13:16] Takže není to jenom ovlivňování voleb a politiky přes sociální sítě,
+[13:21] ale tentokrát už jdou i do toho, co si mezi sebou my píšeme.
+[13:25] To je prostě pro mě, tohleto je, to nemá co dělat s demokracií
+[13:29] a nemá to co dělat se svobodou.
+[13:32] To je o tom, že lidi rozhodují o tom, co se děje.
+[13:34] Tohleto je vláda, elit, kde nás kontrolují jako malé děti,
+[13:38] aby nás mohli řídit. Za mě tohleto je strašná věc.
+[13:47] V Londýně byl zadržen producent ruské televize Russia Today, James Scott,
+[13:54] který uvedl, že byl po příletu do Velké Británie zadržen
+[13:58] a přibližně dvě a půl hodiny vyslíchan podle britské protiteroristické legislativy.
+[14:03] Britské úřady mu během kontroly zabavili elektronické zařízení,
+[14:07] která mu teda později byla vrácená.
+[14:09] Scott tvrdí, že vůči němu nadále probíhá vyšetřování,
+[14:13] přestože z ničeho obviněn nebyl.
+[14:16] A to je prostě jeden z mnoha případů, je to strašná věc,
+[14:21] ale podívejte se, co třeba udělali Scottu Rytrovi.
+[14:23] Myslím, že ho dneska máme ve zprávách, bývalý vojenský kontrolor z OSN,
+[14:29] kontrolor zbraní, prostě toho, když jsem slyšel vyprávět,
+[14:32] on má manželku z Ruska, jakým způsobem na ní tlačili,
+[14:35] aby udala svojeho manžela, za tím, co jí zadržovali,
+[14:38] že on pracuje pro Rusy.
+[14:40] Podívejte se na Petra Bystrojně, našeho kamaráda,
+[14:42] poslance z Evropského parlamentu, dneska za AFD.
+[14:46] Na něj dělali šili tu stejnou boudu jako na mě s tím ruským vlivovým agentem.
+[14:50] Možná si vzpomínáte, jak byl šéf BIS Koudelka v parlamentu
+[14:54] a mluvil tam o tom, že pořadatel demonstrací,
+[14:59] že byl kontaktován, aby upevnil svoje vztahy s ruským vlivovým agentem.
+[15:04] A připravovali na mě v Běléhradu tu záležitost,
+[15:07] že mě měli vyfotit s tím ruským vlivovým agentem,
+[15:09] což se jim samozřejmě nakonec nepodařilo,
+[15:11] protože jsme se nenechali vlákat do pasky,
+[15:14] ale Petrovi Bystrojňovi udělali sedm prolídek doma
+[15:16] a ničili mu kariéru.
+[15:18] Nebo se podívejte na Juliana Assange,
+[15:21] jakou dobu jeho drželi, co mu udělali.
+[15:24] Toho, že ho obvinili ze znásilnění.
+[15:27] Russell Brand, obviněný z několika znásilnění.
+[15:31] A další a další přece, to jsou stovky.
+[15:35] Nebo Dr. Fulmich, náš kamarád,
+[15:39] který je pořád ve vězení v Německu.
+[15:42] Nebo jeden ze šéfů AFD, který je v Německu.
+[15:45] Podívejte se, co udělali moji manželce, co dělají mě.
+[15:47] Tomáš Čermák, který je pořád ve vězení.
+[15:49] Prostě tady ta elitářská vláda
+[15:53] těch oligarchů,
+[15:54] nebo těch miliardářů,
+[15:56] jako je Trump, Babiš a další,
+[15:59] který pracují pro ty ještě víc bohaté lidi,
+[16:02] jako jsou ty židozednářské rodiny.
+[16:05] A kontrolují bankovní systém,
+[16:07] kontrolují v podstatě ekonomický systém,
+[16:10] finanční systém,
+[16:11] kontrolují výrobu jídla, textilu, drogerie,
+[16:14] vlastně cené papír.
+[16:16] Prostě kontrolují celý obchod.
+[16:18] Kontrolují politiky skrze Aspen Institute.
+[16:21] Podívejte se, kdo z českých politiků
+[16:23] nebyl v Aspen Institute.
+[16:24] Prostě kontrolují nevládní organizace.
+[16:29] Kontrolují prakticky celé řízení státu.
+[16:32] No tak potřebují, aby jim nikdo do toho nemluvil.
+[16:35] Aby nikdo nebojoval za svobodu lidí.
+[16:37] Aby nikdo tady nebyl jako skutečná opozice.
+[16:40] Proto je tady falešná opozice.
+[16:42] A jakmile se objeví nějaká skutečná opozice,
+[16:45] tak je potřeba jí utlačovat skrze policii,
+[16:47] státní zástupce, soudy, vykonstruované procesy
+[16:50] a v horších případech potom skrze vězení
+[16:53] anebo skrze zabíjení.
+[16:54] Tak můžeme na další zprávu, Zuzko?
+[17:05] Ano, pardon.
+[17:07] Maďarský tvůrce obsahu na sociálních sítích
+[17:11] Ištvan Šakáč byl 8. července zadržen poté,
+[17:16] co sedm policistů provedlo domovní prohlídku v jeho bytě.
+[17:19] Podle prohlášenýho manželky a zpráv z maďarských médií
+[17:23] bylo důvodem zadržení vyjádření na Facebooku.
+[17:26] V něm v reakci na politické děni uvedl,
+[17:29] že pokud nezákonně odvedou Viktora Orbána,
+[17:33] nenechají to jen tak bez odezvy.
+[17:35] Událost ve svém videu komentovala novinářka
+[17:37] a bývalá reportérka tiskové agentury Anita Rady.
+[17:42] No tak se podívejte, tak to je přece v pořádku.
+[17:45] Pokud by někdo nezákonně odvedl Viktora Orbána nezákonně,
+[17:50] tak je přece potřeba, aby se lidi za Viktora Orbána postavili,
+[17:53] pokud je to nezákonně.
+[17:55] A jestli tohle někdo prohlásí, tak je to v pořádku,
+[17:57] protože tady existuje institut i v České ústavě,
+[18:02] existuje institut,
+[18:03] jak se to jmenuje, právo na,
+[18:05] teď si nespomínám, možná Zuzko pomůžeš mi,
+[18:09] jak se jmenuje, jak?
+[18:11] Nevím, nevím, co myslíš.
+[18:14] Sakra, sakra, sakra.
+[18:15] No, vzpomenu si později,
+[18:17] ale prostě v ústavním systému existuje takový institut,
+[18:21] vzpomenu si za chviličku, jak se mu říká,
+[18:23] když všechny ostatní, řekněme prostředky,
+[18:26] se lžou v tom soudním a právním systému,
+[18:30] tak mají lidi právo na odpor, se tomu říká.
+[18:32] Právo na odpor.
+[18:33] Postavit se tomu režimu na odpor.
+[18:35] Je to, myslím, článek 22 naší ústavy.
+[18:37] Vyhlašoval jsem, že se mají lidi postavit na odpor
+[18:41] už v roce 2022 na Václavském náměstí.
+[18:44] A pak, když je premiér země, nebo bývalý premiér,
+[18:47] je tou další vládou, která se staví do pozici
+[18:50] nějaké diktátorské vlády, nezákonně odveden,
+[18:53] tak se samozřejmě za něj mají jeho voliči
+[18:56] a lidi, kteří ho podporují postavit,
+[18:58] protože on riskoval svojí kůži za ně nějakých,
+[19:01] nevím, jestli 14 let, nebo jak dlouho byl u moci Viktor Orbán.
+[19:05] Takže to je prostě podle mě naprosto legitimní.
+[19:08] A tady toho člověka, který tohleto řekl,
+[19:10] tak si ho Petr Maďar a jeho vláda podala a zatkla ho.
+[19:13] To je prostě absolutně v rozporu s nějakou svobodou,
+[19:19] s nějakým ústavním principem tohleto.
+[19:21] A děje se to všude po světě. Podívejte se na Tomio Robins,
+[19:24] na toho zatýkají každou chviličku, protože vede protesty.
+[19:27] Tak dělají nám to všem, všem, kteří prostě chtějí bojovat
+[19:30] za svobodu obyčejných lidí.
+[19:33] Problem je v tom, že když si to lidi nechají líbit
+[19:36] a nechají ty svoje statečné lidi, kteří bojují za svobodu,
+[19:40] nechají všechny pozavírat, zničit, zlikvidovat,
+[19:43] no tak potom přijde totalitní režim.
+[19:45] A totalitní režim vždycky, historicky vždycky,
+[19:49] vraždí vlastní obyvatelstvo. Vždycky. Podívejte se na Ukrajinu.
+[19:56] Jo, je to zakotveno v českém právním řádu
+[19:59] právo na odpor v článku 23 listiny základních práv a svobod.
+[20:03] 23, děkuji. Děkuji, Zuzko.
+[20:12] NATO připravuje rozsáhlý systém digitálního dohledu
+[20:17] nad východním křídlem aliance. V jeho centru bude vojenská platforma
+[20:21] umělej inteligenci Maven, americké společnosti Palantir,
+[20:25] účtěná ke sledování pohybu ruských sil a rychlejšímu rozhodování
+[20:29] v případě krize nebo konfliktu. Systém má spojit data ze satelitů,
+[20:33] dronů, radarů, kamer, pozemních senzorů a zpravodajských systémů.
+[20:37] Cílem je vytvořit jednotou síť od Finska po Rumunsko,
+[20:42] která dokáže v reálném čase rozpoznávat hrozby a předvídat informace ve lení.
+[20:48] Projekt označovaný jako Kill Bab propojí tisíce senzorů,
+[20:53] průzkumných dronů, radarů a robotizovaných systémů
+[20:57] s vojenskými prostředky NATO. Tento postup, přístup schodnuje
+[21:02] formuji první vidět, první rozhodnout, první udeřit.
+[21:08] Je to, co vám říkám, od roku 2022, za co jsem byl začený a odsouzený.
+[21:12] Ta hranice okolo Ruský federace, ať už jsou to balský státy,
+[21:16] Finsko, Polsko, Slovensko, Česká republika, Maďarsko, Bulharsko,
+[21:21] Rumunsko, Moldava a tak dále, to všechno chce Západ obklíčit,
+[21:26] tímhle s tím chce Západ obklíčit Rusko. A říkal jsem vám,
+[21:29] že to, co považuji za nejpravděpodobnější, že potom nasadí ty letadla F-35
+[21:34] a další, která dokáží nést jaderné zbraně, aby zautočili,
+[21:38] zautočili na Rusko. Pro ty z vás, kteří třeba jste tady noví,
+[21:42] protože máme tady každý den nové a nové osoby, kteří sledují
+[21:47] pravidelně zprávy v devět s komentářem, tak jsem několikrát mluvil
+[21:51] o tom, co je Palantýr. Palantýr, myslím si, že jsem byl určitě první
+[21:55] v České republice, kdo mluvil o Palantýru. Palantýr je společnost,
+[22:00] kterou založil Peter Thiel. Peter Thiel je globalista, který prosazuje
+[22:08] vládu skrze technologii, vládu skrze odborníky a Peter Thiel je hlavním
+[22:16] sponzorem J.D.O. Vance, amerického víceprezidenta. A Peter Thiel je taky
+[22:22] člověk, který spolu zakládal PayPal. To znamená, je to jeden z těch lidí,
+[22:26] kterým se říká PayPal mafie, protože oni si tak řekli. Oni udělali takovou
+[22:30] fotku s Elonem Muskem a Peter Thiel, ještě jeden člověk, myslím,
+[22:34] že tam byl, tak udělali fotku a říkají si PayPal mafie. A to je člověk,
+[22:39] Peter Thiel, který se etabloval právě v PayPalu. PayPal je vlastně první
+[22:45] digitální měna na světě, která se velmi rozrostla. Takže to je průkopník
+[22:49] technokracie a on pochází stejně jako Elon Musk, protože dědeček
+[22:53] Elona Muska byl jeden ze zakladatelů technokratické společnosti
+[22:56] ve Spojených státech ve 20. letech minulého století. A oni celou dobu
+[23:02] mají tu ideologii technokracie vytvořit ten technate ve Spojených státech,
+[23:08] respektive ze Spojených států. Někde od Jižní Ameriky až do Gronska.
+[23:12] To není z hlavy Donalda Trumpa, to, že by měli Spojený státy mít
+[23:16] Venezuelu, Bolívie, všechno až do Gronska. To je stará idea technitu,
+[23:21] formy řízení společnosti, která má být řízená, dneska už samozřejmě
+[23:26] skrze digitální technologie, dřív nebyly, ale skrze vědu, skrze rozhodnutí,
+[23:32] která jsou pragmatická a ne skrze demokracii. Takže Peter Thiel je člověk,
+[23:36] který pracuje na úplný změně.
+[23:38] Změně konceptu řízení společnosti. A Palantir je firma, kterou on vyvíjel
+[23:42] společně s armádou Spojených států, protože on dostává armádní zakázky
+[23:48] ze CIA. On dostává armádní zakázky a je to soukromá firma,
+[23:52] která má obrovské obchodní kontrakty s armádou Spojených států.
+[23:57] Ale má třeba taky pobočku v Británii, kde ji řídí vnuk zakladatele
+[24:01] britské fašistické strany. Takže tato společnost Palantir je obrovská,
+[24:08] má obrovské zakázky nejenom ve Spojených státech a v Británii,
+[24:11] ale všude možně. A jak vidíte, teď se přesouvá na to východní křídlo NATO.
+[24:14] To znamená, američani vůbec nekončí s tím, že by šli do té války proti Rusku,
+[24:19] ale rozmyslují tam svoji technologie. A ta technologie Palantir je technologie,
+[24:24] která dělá sledování, vyhodnocování, ale taky používání zbraní.
+[24:29] To je takovej, jak to bylo v tom Terminátorovi, jak se to jmenovalo,
+[24:32] ta technologie, kterou tam měli. Dneska mi to trošičku vypadává ty slova.
+[24:38] Onavenej Skynet. Skynet, to je takový Skynet. A ten Palantir udělá to,
+[24:43] že sleduje prostor, vyhodnocuje, co se může dít a vy tam třeba zadáte
+[24:47] támhle nějaká hrozba, jak na ní zareagovat. A on vám nabídne řešení,
+[24:51] támhle máme letadlo, támhle máme tanky, vypočítá efektivitu a když mu zadáte úkol,
+[24:57] tak on spustí ty zbraně a zautočí na to, aby eliminoval tu hrozbu,
+[25:01] když to řekneme takhle, jak to je. Takže to je umělá inteligence,
+[25:03] je to software, umělá inteligence, obrovský, inteligentní, který dokáže
+[25:08] zpracovávat v reálném čase ta zadání vojenské služby a zároveň samozřejmě
+[25:12] sleduje lidi a sleduje občany a dělá všechno možný v oblasti sledování.
+[25:17] Sleduje každý, dokáže každýho člověka zmapovat, vysledovat,
+[25:21] face recognition a další věci. To je Palantir. Abyste rozuměli,
+[25:26] co je Palantir, budeme o něm slyšet víc a víc.
+[25:30] Bývalý polský poslanec, Křištof...
+[25:33] Pane Zuzko, tady máme tady nějaký, jenom vteřinu, máme tady nějaký
+[25:37] komentáře, třeba jako PayPal není digitální měna. Samozřejmě,
+[25:41] že PayPal je digitální forma placení, digitální forma měny,
+[25:46] to znamená, je to nějaká platforma, která používá, abych to upřesnil,
+[25:50] je to nějaká platforma, která používá běžný měny, ale je to digitální
+[25:54] platforma, jak platit digitální formou. No to znamená, jsou to lidi,
+[25:58] kteří se angažují v tom vývoji převést peníze do toho digitálního,
+[26:03] do těch jedniček, nul, a do toho, aby se používaly v sítě digitální
+[26:08] forma placení. Jenom abych to upřesnil, není to digitální měna,
+[26:13] jako třeba jako samostatná měna, která by běžela na blockchainu,
+[26:17] nebo centrální digitální měna. Je to systém, je to forma,
+[26:21] jak skrze digitální prostředí používat platby. Děkuju za upřesnění.
+[26:28] Bývalý polský poslanec Křištof Tolvínský poskytl humanitární pomoc
+[26:32] ruským vojákům.
+[26:35] Křištof zakoupil léky a zdravotnický materiál určený pro příslušníky
+[26:40] ruské armády. Tolvínský uvedl, že tímto krokem vyjadřuje svůj nesouhlas
+[26:45] se zahraniční politikou polské vlády vůči Rusku. Zároveň prohlásil,
+[26:50] že pokud budou ruský vojáci pomoc potřebovat, mohou se na něj obrátit.
+[26:55] Výborně. Tady je potřeba si uvědomit, že když 99% společnosti je sfanatizovaných
+[27:00] proti ruským nacizmem, tak to, že se někdo postaví na stranu ruské,
+[27:05] ruských vojáků a chce jim dodat nějakou humanitární pomoc, neznamená,
+[27:08] že to je kolaborant, zrádce nebo že pracuje pro Rusko. On jenom vyvažuje,
+[27:13] vyvažuje v té společnosti tu šílenou protiruskou fobii. To znamená,
+[27:18] tohle je potřeba samozřejmě, protože třeba co se mně týče,
+[27:21] tak jsem organizoval v roce 2024 demonstraci za urovnání stavů s Ruskou federací.
+[27:26] A to není proto, že bych chtěl pracovat pro Ruskou federaci.
+[27:29] To je proto, že chci, aby se to aspoň trošičku vyrovnalo v České republice,
+[27:33] protože cílem je, aby Česká republika měla dobré diplomatické vztahy
+[27:37] se všemi zeměmi světa. No to znamená, tadyhle se to samozřejmě schvaluje.
+[27:44] Já taky.
+[27:47] Ve Lvově došlo podle místních zdrojů k potičkám mezi obyvateli a pracovníky
+[27:51] ukrajinských náborových center. Incident vypukl poté, co se náboráři pokusili
+[27:57] zadržet mladého muže.
+[28:01] Tak to je potřeba se na to podívat a tady vidíte, že se to Zelenskému opravdu rozpadá,
+[28:06] protože Zelenský nemá, nebo ten jeho režim nemá na frontě vojáky.
+[28:10] Podívejte se, co řekl včera Zálužní, že když lidi říkají, že Ukrajina vítězí,
+[28:15] že je potřeba podívat se na realitu na bojišti, že to tak není, že Ukrajina vítězí,
+[28:19] že to je velmi komplikovaný boj a že Ukrajina opravdu nevítězí.
+[28:23] Podívejte se, co dělají lidem, kteří dělají ty náboráře.
+[28:26] Za mě to je prostě skvělý, že se Ukrajinci postavili za svoje práva,
+[28:30] protože osobně jsem člověk, který vždycky věří v to,
+[28:33] že bychom se my lidi měli postavit za svoje práva a nenechat se utiskovat
+[28:36] prostě jedním procentem mocných, kteří si urvali tu moc skrze korupci,
+[28:42] že je potřeba se postavit za svoje práva, ale podívejte se,
+[28:45] Ukrajinci taky ztratili podle některých odadů už přes 2,5 milionů lidí na tom bojišti.
+[28:50] A takhle dlouho jim to trvalo, než se začali stavět proti tomu unášení těch lidí.
+[28:54] Je potřeba, aby se lidi nebáli, aby lidi se postavili za svoje práva,
+[28:59] protože to je náš svět. My jsme tady sami si rozhodujeme o tom, co se tady děje.
+[29:04] Ukrajincům to bohužel dochází velmi pozdě, ale jsem rád, že jim to dochází.
+[29:08] Samozřejmě naprosto jednoznačně schvaluju to, že se staví tadyhle s tomu,
+[29:13] proti čemu tady mluvíme celou dobu, že se unáší lidi na ulicích,
+[29:17] což je samozřejmě naprosto ilegální a posílají se potom nedobrovolně umírat na frontu.
+[29:23] Jsem rád, že se lidi postavili.
+[29:24] Ale konec konců my jsme tam moc. My jsme vždycky byli tam moc a vždycky jsme a budeme.
+[29:32] My lidi akorát jim nesmíme odevzdávat těm globalistům, těm několika skorumpovaným elitám,
+[29:39] kteří si tu moc potom nechají proto, aby byli ještě víc bohatí, ještě víc skorumpovaní
+[29:43] a aby nás ždímali a aby nás v konečném důsledku potom poslali na frontu,
+[29:50] aby my jsme tam zemřeli. Je prostě potřeba se jim postavit,
+[29:52] dřív než tu válku rozhrají úplně.
+[29:57] Aby už nebylo pak...
+[29:58] Tak pozdě, přesně tak.
+[30:04] Ruský moderátor Vladimír Solovjov ve svém pořadu představil pohled Kremlu na válku na Ukrajině.
+[30:11] Podle něj Rusko vede boj proti skorumpovanému západu
+[30:15] a ruský voják představuje obránce tradičních hodnot.
+[30:20] Tak je. Toto video jsem chtěl, aby jsme měli, takže díky moc Tondovi,
+[30:24] že nám ho přeložil. Uvidíte ho na naší facebookový stránce
+[30:27] zprávy vdověc komentářem, kde vám doporučuji se tam přihlásit,
+[30:30] protože tam máme všechny videa otitulkovaný.
+[30:33] A když se na to podíváte, v důsledku to tak je.
+[30:35] Když jsem v roce 2022 začal bojovat proti korupci, tak jsem říkal lidem,
+[30:39] nemůžete to dopustit. To není jenom o tom, že si ty politici vezmou nějaký malý domu.
+[30:44] Celý systém je pokřivený. Ty politici pracují pro peníze a nepracují pro lidi.
+[30:49] A ve finále udělají to, že budou tak nenažraní těma penězma,
+[30:54] že budou podporovat zbrojní průmysl, protože tam se točí největší peníze,
+[30:58] tam se točí stovky miliard. A potom nakonecky skorumpovaní politici
+[31:03] budou prosazovat válku, protože budou potřebovat, aby peníze přitékaly dál.
+[31:07] A to je to, o čem mluví tady Solovjov. Skutečně západ je satanistický,
+[31:13] funguje absolutně proti lidem. Ve vládách všude jsou skorumpovaní politici,
+[31:18] kteří fungují proti lidem. A nakonec ta válka skutečně je tady proti tomu zlu,
+[31:24] které rozkvetlo na západě. Západ je totálně v troskách morálně,
+[31:28] i jinak. Prostě to, co se děje na západě, že se země zadlužují,
+[31:33] respektive zadlužují se občané těch zemí. My všichni jsme zadlužení,
+[31:37] protože nás naše vlády zadlužují. Nejdřív nám rozkradli majetek,
+[31:41] předali ho těm globalistům do zahraničí, zlikvidovali všechny ty malé podniky,
+[31:45] nebo skoro všechny, které tady byly, aby sem natáhly ty globalistické podniky,
+[31:49] které dneska neplatí daně většinou, odvádí z České republiky peníze
+[31:55] a zadlužují nás dál. A dostalo se to tak daleko, že se evropský průmysl
+[31:59] mění na vojenský průmysl, aby se jenom vyráběli zbraně,
+[32:04] zničili ty zbraně a vyráběli další. Takže skutečně je to boj
+[32:08] proti skorumpovanému satanistickému západu. Vidím to úplně stejně.
+[32:16] Trump, ještě připomeneme si Trumpa na samitě v Ankaře,
+[32:20] co se včera nevyšlo do zpráv. Trump se označil za číslo jedna
+[32:25] na seznámu cílů iránských vražedných útoků.
+[32:27] Podle jeho tvrzení ho to příliš neznepokojuje.
+[32:31] Dělám svou práci a dělám ji, doufám, lépe než kdokoliv jiný před mnou.
+[32:37] No tak to je pravda, že prostě jako může být číslo jedna.
+[32:42] Trump přece začal tu válku tím, že zlikvidoval vedení Iránu.
+[32:45] Proč by Irán neměl zlikvidovat vedení Spojených států?
+[32:48] Kdyby na to měl prostředky, tak předpokládám, že by to Irán ji udělal.
+[32:52] Kdyby měl tu možnost. A jestli ne, tak kdyby byl na místě vedení Iránu,
+[32:55] tak bych to udělal, protože jestli to Donald Trump takhle začal oficiálně,
+[33:00] cíleně, že zlikvidoval vedení Iránu, dokonce duchovního vůdce.
+[33:04] Ne politické, ale duchovního vůdce. No to je prostě absolutní barbarství.
+[33:09] A další, co udělali Spojený státy, dneska o tom mluví jako o chybě,
+[33:12] ale zautočili na dětský internát, na dětskou školu,
+[33:16] kde zavraždili prostě hromady malých holčiček.
+[33:20] To je neuvěřitelné. Vůbec bych se nedívil, kdyby Donalda Trumpa někdo zavraždil.
+[33:25] Podobně si myslím, že by se svět měl spojit, vyhodnotit,
+[33:29] co tady dělají Spojené státy posledních sto let, postavit se proti Spojeným státům dohromady
+[33:34] a prostě jednou provždy zakázat Spojeným státům to, aby dělali tu svoji koloniální válečnou politiku,
+[33:41] kde napade jednu zemi za druhou, aby ji rozkradli.
+[33:44] To je to, co si myslím, že by se mělo stát.
+[33:47] Donald Trump také uvedl, že stažení amerických vojk z Evropy bude záviset na Gronsku a Iránu.
+[34:01] Podle jeho slov...
+[34:02] ...bude další vojenská přítomnost Spojených států v Evropě záviset na dvou klíčových faktorech.
+[34:07] Zda se Washingtonu podaří uzavřít dobrou dohodu ohledně Gronska
+[34:11] a zda evropské spojenci poskytnou skutečnou podporu v boji proti Iránu.
+[34:16] Při této příležitosti také uvedl, že Spojené státy obecně nepotřebují pomoc od nikoho
+[34:22] s výjimkou některých drobných věcí.
+[34:25] Ještě jsem se nerozhodl.
+[34:27] Hodně bude záviset na Gronsku, velmi hodně, jak se zdá.
+[34:30] Chystáme se uzavřít...
+[34:32] ...dvou dohodu ohledně Gronska a pokud ne, možná to udělám.
+[34:35] A hodně závisí také na Iránu.
+[34:37] Myslím, že teď chtějí pomáhat.
+[34:39] Trochu pozdě, když se nad tím tak zamyslíme.
+[34:42] V podstatě už nezbývá tolik bojových operací, ale některé věci budou záviset na Iránu.
+[34:48] Když měli příležitost, možnost pomoci, rozhodli se to neudělat.
+[34:51] A teď chtějí všichni pomáhat.
+[34:53] Všichni chtějí zasáhnout, tak moc chtějí pomoc v Iránu.
+[34:57] Ale my ve skutečnosti nepotřebujeme žádnou pomoc.
+[35:00] Jsou tu nějaké drobnosti, ale celkově nám pomoc není potřeba.
+[35:06] Řekl novinářům na palubě letadla Air Force One.
+[35:09] Trump i na samicu řekl a znova zdůraznil svůj požadavek na Gronsko a uvedl to tak,
+[35:16] že spojené státy toto území prostě potřebují pro ochranu světa, ne spojených států.
+[35:23] No tak to jsou dvě věci.
+[35:24] První věc, jenom krátce, ten Irán.
+[35:27] Všichni chtějí pomoct, takže jenom počítejte s tím, co jsem vám říkal,
+[35:30] že flotila z Děčína, naše námořní flotila pojede, všichni chtějí pomoct.
+[35:34] Všichni se tam snaží jet.
+[35:36] Samozřejmě, že Evropská unie pojede do Iránu a bude se zapojovat do toho konfliktu.
+[35:40] Víc, než se tam už zapojila, plus Británie.
+[35:43] Ale ta věc ohledně Gronska, tak se podívejte, co to je za politiku.
+[35:47] Prostě Donald Trump řekne, že chce Gronsko.
+[35:49] Někde úplně jinde, tamhle v Evropě, prostě chce Gronsko.
+[35:52] Proč? No, protože ho chce.
+[35:54] A o důvodnění, je to důležitý pro bezpečnost světa.
+[35:57] A co nějaká charta OSN, územní celistvost, mezinárodní právo?
+[36:02] No, tak Donald Trump řekne, že pro něj mezinárodní právo nejsou mantinely.
+[36:06] Že pro něj jediné hranice jsou jeho svědomí.
+[36:09] Takže on si zabírá jednu zemi za druhou.
+[36:11] To máte Venezuelu, Kubu, Gronsko.
+[36:14] A celý svět na to kouká, jakože to je v pořádku.
+[36:16] A ještě Macinka, jak mu koukají nohy, takhle od Donalda Trumpa,
+[36:20] takhle dole z kalu, tak mu koukají Macinkovi nohy.
+[36:23] Tak prostě posílá peníze Spojeným státům.
+[36:26] A Andrej Babiš je největší hrdina, protože mu podal Donald Trump v ruku.
+[36:30] To je naše politika, tohleto.
+[36:32] Spojený státy můžou dělat, co chtějí.
+[36:33] Můžou vraždit, můžou rozjíždět války, můžou si zabírat jednotlivý země.
+[36:38] Teď ten Andrej Babiš se k tomu ani nechtěl vyjádřit.
+[36:42] Řekl, no nevím, tam ohledně toho Gronska, tam se dělá nějaká iniciativa,
+[36:47] prostě to ani nechce komentovat.
+[36:49] Tak je potřeba si nalít čistého vína.
+[36:53] Spojené státy nemají žádné právo na to, aby vojensky zasahovali do žádné jiné země.
+[36:58] To má jenom Organizace Spojených národů, Rada bezpečnosti.
+[37:02] Spojené státy dělají terorismus všude po světě.
+[37:06] Rozjíždí války a dělají terorismus.
+[37:09] Vraždí nevinný lidi, nevinný civilisky.
+[37:11] A teď prostě...
+[37:12] Donald Trump říká, no tak uvidíme, jak to dopadne s Gronskem,
+[37:15] jestli tam bude nějaká dobrá dohoda.
+[37:18] A co, jako že si Gronsko koupí, že si ho vezmou?
+[37:20] Že mají právo si brát jednotlivý země?
+[37:22] A my jako Evropská unie se na to co?
+[37:24] Budeme jenom koukat a budeme říkat, jo tak amici,
+[37:27] my jsme diversifikovali svoje rizika,
+[37:29] tak teď už nebudeme kupovat levní energie z Ruska,
+[37:31] ale budeme kupovat drahý z Ameriky.
+[37:34] A američani nás budou vydírat.
+[37:35] Tak my vám teď budeme dodávat GMO jídlo.
+[37:38] Pozor, to jsou geneticky upravované jídlo,
+[37:43] které prostě ostatní země nechtějí.
+[37:45] A ty nám teď budou posílat do Evropské unie
+[37:47] a ještě k tomu bezcela.
+[37:50] Protože Donald Trump řekl, musíte si to vzít
+[37:52] a když si to nevezmete, no tak to nejde,
+[37:55] tak nebudete dostávat energie od nás.
+[37:57] To je ta diversifikace rizik, co udělal Babiš, Fiala
+[38:00] a znovu to dělá Babiš.
+[38:03] To je to, co prostě dělají a Spojené státy nás
+[38:06] jenom ždímají a jenom z nás kořízkí.
+[38:08] Tak jak to dělali posledních minimálně od roku 74.
+[38:12] Jenom prostě jsme jejich kolonie.
+[38:15] OK, pojďme dál.
+[38:17] Tak on to v podstatě na té tiskové konferenci řekl.
+[38:21] Andrej Babiš, myslíš?
+[38:23] Andrej Babiš, jo, jo, jo.
+[38:25] Já tady mám teda dneska poslední zprávu.
+[38:28] Německo se dohodlo se Spojenými státy
+[38:30] na nákupu řízených střel Tomahav,
+[38:33] prohlásil kancelář Friedrich Merz,
+[38:35] na okraju setkání v Ankaže
+[38:37] s MSS Ameriky.
+[38:38] Německou administrativou dohodli na tom,
+[38:41] že Německo zakoupí a rozmístí
+[38:43] americké řízené střely Tomahav.
+[38:45] Tímto způsobem odstranujeme
+[38:47] důležitou strategickou mezeru
+[38:49] v naší obraně.
+[38:50] Zároveň budeme pracovat na vývoji
+[38:52] vlastních evropských systémů
+[38:54] a jejich rozmístění v Evropě,
+[38:56] uvedl Merz.
+[38:58] Tak vám řeknu, jak funguje ta raketa Tomahav,
+[39:00] ta obrana, která nám chybí,
+[39:02] ten obraný prvek Tomahav,
+[39:04] protože moje manželka mi o tom vyprávěla.
+[39:06] To bylo v roce 1999,
+[39:08] společnost žila normálním životem,
+[39:10] jako Česká republika dneska.
+[39:12] A nikdo si nemyslel, že by mohla být válka.
+[39:14] Nikdo. Toho v České republice
+[39:16] myslím, že je dneska mnohem víc lidí,
+[39:17] kteří si myslí, že v České republice bude válka,
+[39:19] než to bylo tehdy třeba v Bělehradu.
+[39:22] A moje manželka říkala jednou večer takové,
+[39:24] jako šla a najednou v televizi slyšela,
+[39:26] že se nepodařila jednání
+[39:28] a že zítra začne bombardování.
+[39:32] No tak šla,
+[39:33] koupila si dva chleby, byla to 20-letá holka,
+[39:35] aby byla zásobená na válku,
+[39:37] tak si koupila dva místo jedno,
+[39:39] to je taková vtipná vsuvka,
+[39:40] a druhý den začalo bombardování.
+[39:42] A to bombardování trvalo 78 dnů.
+[39:45] Srbové mezi tím obklupovali mosty
+[39:47] a dělali tam taneční párty,
+[39:49] aby jim američani nemohli likvidovat mosty.
+[39:51] Velmi hrdiný národ.
+[39:53] Moje manželka nikdy nebyla v krytu
+[39:55] za to bombardování.
+[39:56] Ale říkala, že to nebylo příjemné.
+[39:58] Říkala, že viděla několikrát, jak letí Tomahawk.
+[40:01] A říkala, to není tak,
+[40:02] jak si ty představuješ, že letí Tomahawk,
+[40:04] bum. Ne, ty se díváš na ten Tomahawk
+[40:06] a ty nevíš, kam padne,
+[40:08] kam poletí. Protože ten Tomahawk
+[40:10] prostě letí poměrně pomalu
+[40:11] na to, jak jsem čekala.
+[40:14] Ale to jsou velké otřesy potom, když se něco bombarduje.
+[40:17] Takže Tomahawk není,
+[40:18] přátelé, obrana zbraň,
+[40:19] jak se nám tady snaží Friedrich Merz říct.
+[40:22] Tomahawk je americká raketa,
+[40:24] která je útočná, která je určená k tomu,
+[40:26] aby likvidovala cíle na cizím území.
+[40:28] Stejně tak, jako ty jaderné zbraně,
+[40:30] které nám chce tykon poslat Andrej Babiš,
+[40:32] ty letadla Rafal,
+[40:34] s těma jadernýma zbraněma ASMP,
+[40:36] nebo letadla F-35,
+[40:38] které mají nosit jaderné rakety
+[40:40] klouzavé B61. To jsou všechno
+[40:42] útočné zbraně.
+[40:44] To prostě není žádná obrana.
+[40:46] Stejně tak ty rakety Tomahawk, kěma nesestřelujete.
+[40:48] Patriot je něco jinýho.
+[40:49] Ale Tomahawk F-35,
+[40:51] nebo ty Rafaly s těma ASMP,
+[40:53] to jsou všechno útočné zbraně, protože jadernýma
+[40:55] zbraněma nebráníte svoje
+[40:57] území, protože byste si rozšířili radioaktivitu
+[40:59] na svojem území. To jsou všechno
+[41:01] útočné zbraně.
+[41:03] On Andrej Babiš dneska
+[41:05] na ty tiskovce taky řekl, že
+[41:07] v pondělí bude
+[41:09] zase nějaká rada ty
+[41:11] koalice ochotných
+[41:12] v Paříži. Tak možná domluví
+[41:15] i ten deštníček.
+[41:17] Jestli to bude v Paříži a bude to koalice
+[41:19] ochotných, tak pravděpodobně se tam bude dojednávat
+[41:22] právě to, čemu říkají obrany
+[41:23] o ten jaderný deštník. Ale podívejte se,
+[41:26] takhle nás pořád matou. Oni pořád
+[41:27] říkají, že to je obrana. A co pak na to
+[41:29] je obrana aliance? Proč napadlo
+[41:31] NATO v 99. roce Jugoslávy?
+[41:34] Co pak? Oni se bránili?
+[41:36] Na to se bránilo Jugoslávy? Ne.
+[41:37] Oni napadli Jugoslávy, cizí zemi.
+[41:40] Bombardovali. Do dneška tam mají
+[41:41] rozmístěný vojska
+[41:43] na Kosovu. Do dneška mají
+[41:45] zabraný přes OSN
+[41:47] Republiku Srbskou a Kosovo.
+[41:50] To je prostě útočná
+[41:51] aliance. NATO dělalo hromadu
+[41:53] útočných misí. A teď on dělá
+[41:55] útočnou misi proti Rusku.
+[41:57] Nejdřív sfanatizovali Ukrajince,
+[41:59] vyzbrojili a vytrénovali Ukrajince
+[42:01] a náhnali je do konfliktu proti Ruský
+[42:03] federaci. Je pravda, že teda Ruská
+[42:05] federace dala ten první úder,
+[42:07] že přišla na Ukrajinu. Ale
+[42:09] dneska už válčí
+[42:11] NATO s Ruskem. Vík se tím
+[42:13] nikdo netají.
+[42:15] NATO
+[42:15] dodává zbraně, vojáky, inteligenci,
+[42:18] GPS souřadnice,
+[42:19] dodává satelit.
+[42:21] Omluvám se, jestli dneska pořád utíram
+[42:23] obliče, ale ta kočka mi pustila
+[42:25] trošku chlupy na obliče a trošku mě to
+[42:27] tady lochtá.
+[42:30] Takže NATO prostě
+[42:31] bojuje s Ruskou federací.
+[42:34] NATO není žádná obraná aliance.
+[42:36] A ten jaderný deštník, to není obraný deštník.
+[42:38] To není tak, že nad náma roztáhnou
+[42:39] nějakej deštník, aby k nám nepronikla
+[42:42] ruská raketa. Ne.
+[42:43] Ten jaderný deštník má spočívat v tom,
+[42:46] že dostaneme letadla
+[42:47] s jadernými zbraněmi. Přece se nebudeme
+[42:50] bránit jadernými zbraněmi u nás
+[42:51] nad naším územím. Ne, ty jaderný
+[42:53] zbraně jsou určený jenom k jednomu.
+[42:56] Donést ty jaderný zbraně
+[42:57] na území nepřítele.
+[42:59] A proto říkám, že tohleto je špatná politika.
+[43:02] Politika má být, tak jak jsem
+[43:03] studoval diplomaci. Diplomaci má být
+[43:05] o tom, že se s tou zemí
+[43:07] jedená. Že se snaží
+[43:09] najít nějakou přátelskou notu.
+[43:11] To je základ diplomacie. A cílem
+[43:13] diplomacie je, aby všechny země
+[43:15] měly spolu přátelské
+[43:17] diplomatické vztahy. A ne
+[43:19] válku. Aby jdeme přesně opačným
+[43:21] směrem. Včetně naší vlády.
+[43:23] A je mi to líto. Nesouhlasím s kým.
+[43:25] Nikdy jsem nesouhlasil s politikou téhle
+[43:27] z té vlády. Nesouhlasil jsem s kým, že
+[43:29] chtějí nás udržet v NATO, chtějí nás
+[43:31] udržet v Evropské unii. Já jsem přesvědčený
+[43:33] o tom, že jediný, co je správně, je
+[43:35] vystoupit z Evropské unie a znát to. To je
+[43:37] jediná správná věc.
+[43:41] Tak ukončili jsme
+[43:46] Zuzko? Jo, to byla
+[43:47] poslední zpráva dnešního
+[43:50] večera. Takže děkujeme
+[43:52] za zprávy, děkujeme za to, že sledujete zprávy.
+[43:54] Od zítřka už bude uvádět a končit
+[43:56] zprávy Zuzka, protože ona je připravuje.
+[43:58] Doufám teda.
+[44:00] Takže dneska ještě se s vámi
+[44:02] rozloučím. Děkuju vám za sdílení, za
+[44:04] komentáře.
+[44:06] Peníze žádný nám neposíláte, takže žádný
+[44:08] titulky vám dávat tady už nebudeme, abyste posílali
+[44:10] peníze. Kdybyste chtěli někdo nám
+[44:12] nějaké peníze poslat, tak ještě udělám
+[44:14] pro vás jednu věc, že vám tady ukážu
+[44:16] takhle QR kód na zprávy.
+[44:18] Kdybyste chtěli, tak můžete nějakou kačku
+[44:20] poslat. Máte to
+[44:22] tady, můžete si to vyfotit
+[44:24] tou vaší telefonní bankou
+[44:25] a co ještě bychom lidem
+[44:28] řekli? Prostě je potřeba
+[44:31] bojovat. Je potřeba bojovat, protože
+[44:33] když se všichni seberou, utečou
+[44:35] a smíří se s tím, že naše vláda
+[44:37] si může dělat, co chce, no tak
+[44:39] musíte pochopit, že když se Evropská
+[44:41] Unie stává dneska výrobnou
+[44:43] zbraní a změnila svoji
+[44:45] strategickou pozici
+[44:47] průmyslovou na to,
+[44:49] aby vyráběla zbraně, tak bude potřeba,
+[44:51] aby ty samopaly někdo chytil do rukou,
+[44:53] aby do těch tanků někdo sednul,
+[44:55] aby někdo střílel ty granáty,
+[44:58] aby někdo
+[44:58] vzal do ruky ty pistole,
+[45:01] aby někdo ovládal ty drony.
+[45:02] A tyhle styliky, který to budou dělat,
+[45:05] ty budou v mundurech.
+[45:07] Proto je potřeba,
+[45:08] aby Evropa měla spoustu a spoustu
+[45:10] vojáků. A přemýšlejte nad tím,
+[45:13] kde ty vojáky ta Evropa
+[45:15] asi bude brát,
+[45:17] když je nemá a vyrábí
+[45:18] tolik zbraní, ke kterým bude
+[45:20] potřebovat sta tisíce a sta tisíce
+[45:22] a sta tisíce vojáků. V Rosku
+[45:24] se pravděpodobně odehraje na konci
+[45:26] srpna mobilizace nebo na začátku
+[45:28] září po volbách
+[45:30] a v tom okamžiku prostě
+[45:32] Evropa bude čelit tomu, že sice
+[45:34] investuje sta miliardy do zbraní,
+[45:36] ale nemá žádný vojáky.
+[45:38] A pak přijde nějaká chytrá hlava a řekne
+[45:40] no to je super, že Evropa se stala
+[45:42] velmocí ve zbrojení, že máme
+[45:44] spoustu zbraní, ale kdo ty zbraně
+[45:46] bude skladovat, převážet, ošetřovat
+[45:48] a když bude
+[45:49] potřeba nějaký konflikt,
+[45:52] když se budeme muset bránit, kdo ty
+[45:54] zbraně vezme do ruku a kdo si sedne do těch
+[45:56] tanků. A nám tady chybí
+[45:58] vojáci. A kde vezmeme ty vojáky?
+[46:00] No tak Petr Macinka už má pro vás
+[46:02] odpověk, protože ten už o tom mluvil,
+[46:04] že motoristé prosazují povinnou
+[46:06] vojenskou službu. Přátelé, mějte se
+[46:08] hezky, zdravím vás, uvidíme se zítra v 9.
+[46:11] No a jenom zítra.
+[46:12] Díky moc všem, Zuzce i
+[46:14] Tondovi, i vám všem, který píšete
+[46:16] komentáře, sledujete a sdílíte.
+[46:18] Hezky večer.

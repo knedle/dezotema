@@ -1,0 +1,867 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1666237024636665
+Datum videa:  2026-06-18
+Zpracováno:   2026-06-20 17:24:37
+Jazyk:        cs
+Délka:        00:41:06
+Popis:        18. 6. 2026 Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    25s
+Přepis:       11m 19s
+Rychlost:     3.6x realtime
+Celkem:       11m 44s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:59] Vážení přátelé, máme 18.6.2026, 21 hodin a 3 minuty a my jsme na značkách, že jo Zuzko, jak se říká na značkách, takhle jsme to říkali od roku 2022, kdy jsme dělali demonstrace, nebo i dřív, tak jsme stáli na značkách, takže jsme na značkách každý den.
+[03:17] Zuzko, hezky večer tobě a pojďme na zprávy, protože dneska jich máme teda opravdu hodně, myslím, že máme okolo 20 zpráv, takže pojďme na to, ať to odsýpá, dneska se to hodně děje.
+[03:27] Krásný večer všem.
+[03:58] U toku na moskevský region byly zaznamenány četné následky. Moskevský ropní závod byl přímo zasažen několika drony. Moskva byla zahálená černým mrakem po obrovském požáru v ropné rafinerii a po masivních ukrajinských útocích. V některých částech města a předměstí jsou hlášeny deště s ropou, říkal starosta Sobianin. Jak je patrné z videozávěru v tuto chvíli útočit ukrajinské drony doslova i na civilní domy, sídliště a civilisty v Moskve?
+[04:26] No, to je.
+[04:29] To je nejenom zpráva dne, možná ani ne zpráva týdne nebo zpráva měsíce, ale řekl bych, že to je zpráva, která mění situaci na bojišti v celém tom konfliktu na Ukrajině. A možná jste zaregistrovali ve včerejších zprávách, že jsem o tom, nebo mluvili jsme o tom se Zuzkou ve včerejších zprávách, že byla zasažená 15 kilometrů od Moskvy rafinerie a ropný sklad.
+[04:56] Víte, ten problém je v tom, a bavíme se o tom tady poslední,
+[04:59] týdny. Ten problém je v tom, že když na vás někdo utočí a vy se nebráníte, tak ten utočník získává víc chutí, víc sebevědomí a utočí víc a brutálněji. A tři dny zpátky, když bylo zájeno jednání G7, tak Ukrajinci, a řekl jsem to jasně, Ukrajinci společně s NATO, protože ty drony, to nejsou jenom ukrajinské drony, jsou drony, které se vyrábí v Evropské unii, to jsou drony, které se vyrábí společně s Ukrajinou,
+[05:28] ale vyrábí se v Německu.
+[05:29] A v dalších zemích, doufám, že ne v České republice, ale obávám se, že tak trošku jo, peníze na ně jdou z různých fondů, včetně České republiky, takže to je útok, který je útok Ukrajiny a NATO. A když na začátku toho fora G7 udělali Ukrajinci společně s NATO útok na tu rafinéry vedle Moskvy, tak jsem říkal, že to už je naprosto zásadní věc, protože lidé v Moskvě vidí ty výbuchy, vidí kouř.
+[05:55] A protože nedošlo k žádné odvětě ze strany ruské,
+[05:59] tak přišel další útok na tu stejnou rafinéry, ale tentokrát už lidi v Moskvě mají dým v oknech, v bytech, mají nad sebou černý kouř a na některých místech prší olej, respektive roupa.
+[06:15] A to je to stejné, co udělali, co udělalo NATO v roce 99 v Jugoslávii, v Běléhradu, takhle začalo bombardování Jugoslávě, že vybombardovali rafinéry v Pančevu, která je kousek od Běléhradu, aby lidé měli,
+[06:29] kde byly deště s ropou a dým, aby si rusili v dýmu.
+[06:34] Za mě, za mě, všichni to slaví, že jo? Celý Západ to slaví, ne minimálně Evropská unie, G7 je strašně potěšená, Mark Rutte je potěšený, dal dneska k tomu historickou přednášku,
+[06:47] že to je Rusko, které začalo tu válku v roce 2022, 24.2., začalo full scale operation, tu, řekněme, vojenskou operaci v plné slovo,
+[06:59] síle bezdůvodnou, neodůvodněnou. Taky v roce 2014 zajali Krim
+[07:05] a tím vlastně začali. Takže ta aliance NATO se tváří jako obranná aliance,
+[07:11] která brání Ukrajinu, samozřejmě ji vtahuje do svých spáru.
+[07:15] Ano, Evropská unie vtahuje Ukrajinu do svých spáru a pomalu se nám z toho konfliktu
+[07:20] stává konflikt Ruska s Evropskou uní a s NATO.
+[07:24] A když se podíváte, když se podíváte na to, jakým způsobem se ten konflikt eskaluje,
+[07:31] tak dneska už se utočí na Moskvu. A nejsem si úplně jistý, jak dlouho to bude trvat
+[07:35] v Ruské federaci, kdy udělá to, co jsem říkal v těch posledních týdnech,
+[07:40] kdy budeme se přiznat, že už to není jenom Ukrajina, která válčí s Ruskem,
+[07:45] ale kdy budeme se přiznat, že utočí Evropská unie a NATO s Ruskem
+[07:49] a kdy se začne bránit. Tak vše, co bych k tomu asi zatím tak mohl říct.
+[07:54] Pojďme na dál.
+[07:54] Další zprávu, prosím.
+[08:24] Na západě pocítí bolest pouze tehdy, když útok směřuje k jejich vlastním zájmům.
+[08:24] Že se ve skutečnosti změnilo v konfrontaci s celým NATO, říká Solovjov.
+[08:30] Tak, Solovjov je známý tím, že na Russia 1, nebo Russia 1 se jmenuje,
+[08:36] myslím, že ten kanál, že vlastně celou dobu je takovým tím hlasatelem
+[08:41] těch nejtvrdších opatření, které by Ruská federace měla udělat,
+[08:45] ale v tomhle případě si myslím, že už není zbytí.
+[08:48] Jediný další mezikrok, který mezi tím může být, je, že Ukrajina bude hořet,
+[08:53] že Rusové začnou velmi tvrdě.
+[08:55] I po Ukrajině mnohem větším způsobem než do teďka.
+[09:03] Je to tak.
+[09:10] Trumpová iniciativa PURL, v rámci které evropští spojenci NATO nakupují
+[09:14] americké zbraně pro Ukrajinu, vykazuje velký pokrok a poklada základy pro mír,
+[09:20] uvedl americký ministr války Peter Hexek.
+[09:23] Pokud jde o Ukrajinu, je zde také pokrok.
+[09:26] Před prostřednictvím iniciativy PURL prezidenta Trumpa
+[09:30] se spojenci ujali vedení ve financovaní podpory ukrajinské oblasti.
+[09:33] Ukrajinci drží liny a tváří v tvář ruským útokům, řekl Peter Hexek.
+[10:05] Vypadá to, že se nám mění ten koncept financování a vyzbrojování Ukrajiny.
+[10:29] Taky Peter Hexek řekl, že je na čase, aby Evropa převzala,
+[10:35] aby Evropa převzala vlastně ten závazek za to bránit se,
+[10:42] že Spojené státy to dělat nebudou.
+[10:44] Takže uvidíme, jak to bude probíhat dál,
+[10:49] ale v každém případě ten konflikt se přesouvá na bedra Evropy ještě víc.
+[10:55] Ono samozřejmě s těma raketama, o čem jsem teď mluvil,
+[10:58] tam jsou tři možnosti, co může dodávat Spojené státy.
+[11:00] Buď to může být licence, buď to můžou být komponenty,
+[11:02] které jenom se seskládají, nebo to může být,
+[11:05] může být částečně komponenty a částečně nějaká výroba v Evropě
+[11:10] a na Ukrajině, nebo to může být, nebo to může být licence,
+[11:14] kterou prodejí Spojené státy, s tím, že se to bude kompletně vyrábět u nás
+[11:18] a na Ukrajině, i kdyby to byly jenom komponenty,
+[11:21] tak odborníci říkají, že to bude trvat 6 až 18 měsíců,
+[11:23] než začnou stavět Evropani spolu s Ukrajinci dalekonosné americké rakety,
+[11:30] ale to je to, co se dohodlo na G7, takže tenhle ten,
+[11:34] tenhle ten summit G7 byl velmi tvrdý, teďku máme zase schůzku ministru obrany na to,
+[11:40] takže tam se jedná o dalších věcech a vypadá to, že, vypadá to,
+[11:45] že to nebude jenom o těch 80 miliardách eur, které má dostat Ukrajina,
+[11:49] ale že se budou řešit i závažnější věci.
+[11:56] Pentagon oznámil inspekce amerických síl a vojenských základných v Evropě.
+[12:01] Pete Hexec zdůraznil, že kontroly budou trvat až 6 měsíců
+[12:05] a budou nazývány NATO Review 3.
+[12:07] 0. Tento přeskum bude prováděn s ohledem na návrhy a hodnocení
+[12:12] amerických ozbrojených síl a amerického evropského velitelství.
+[12:16] Bude také zahrnovat konzultace s americkým kongresem a našimi spojenci.
+[12:21] Ale nenechte se mílit, půjde o skutečný přeskum.
+[12:24] Jeho cílem je zajistit, aby NATO rychle a nezvratně směřovalo k modelu,
+[12:31] v němž Evropa hraje vedoucí roli.
+[12:33] NATO čeká největší transformace ve své historii.
+[12:37] Uvedl Rute.
+[13:07] Ponechat výhody s financování války na Ukrajině.
+[13:10] Jenom je otázka, jakým způsobem to budou dělat.
+[13:12] A to, co bude tykom probíhat, je, že Spojené státy budou jaksi hledat
+[13:20] a vytvářet nový model tak, aby v podstatě pakli,
+[13:25] že se rozhoří válka s Ruskou federací, tak aby američani byli za vodou,
+[13:30] aby dodávali jenom zbraně a měli z toho peníze,
+[13:32] aby pokud někdo bude umírat, aby to byly Evropané.
+[13:36] Abych to řekl jednoduše.
+[13:41] Tak, pojďme na další zprávu.
+[13:46] Izrael přerušil kontakt s KJU Kalas a odhalil tak krizi
+[13:50] zahraniční politiky Evropské unie.
+[13:53] Poté, co se objevily zprávy o výrocích, které přirovnavaly
+[13:56] izraelské zacházení s palestinci a partejdů v Jižní Africe,
+[14:00] izraelský ministr zahraničí Gideon Sára prohlásil,
+[14:03] že ukončí veškerý kontakt s touhle diplomatkou Evropské unie.
+[14:09] Hlubší otázkou však není jen to,
+[14:11] co Kalasová řekla, proto Evropa stále nemůže jasně
+[14:16] a konzistentně hovořit o gaze v Izraeli a palestinských právech.
+[14:21] To je tak zvláštní, že by někdy Ladislav Rábel se stavil
+[14:25] na stranu KJ Kalas a ne na stranu Andreje Babiša a Petra Macinky.
+[14:31] Neuvěřitelné. To bych si nikdy nepomyslel,
+[14:33] že se mi tohle může stát, ale v tomhle případě,
+[14:36] bohužel, co se týče KJ Kalas a komunikace o tom,
+[14:40] že Izrael provádí genocidu v Libénii,
+[14:41] v Banonu a v Gaze, tak bohužel musím stát za jejím postojem
+[14:46] a ne za postojem naší české vlády, která řekla,
+[14:49] že bude podporovat izraelský režim za každou cenu
+[14:52] a dělá co koukou a bude vetovat evropské rezoluce.
+[14:59] To je zvláštní svět.
+[15:00] Jo, přesně tak.
+[15:03] Porušený dohod Izrael v rozporu s dohodami o příměři
+[15:06] provedl dvojitý útok v Majfadonu zaměřený na civilní vozidlo
+[15:10] a poté i na zdravotníky.
+[15:12] To je jen taková krátká zpráva.
+[15:14] Tak velmi dobrá zpráva.
+[15:17] Nevěděl jsem, že ji máme, ale velmi dobrá zpráva,
+[15:19] která přesně doplňuje to, o čem jsme tady teď mluvili.
+[15:24] Irán bude vybírat poplatky.
+[15:26] Iránský chalibáv právě potvrdil vybíraní poplatku
+[15:29] v Hormuzském průlivu.
+[15:31] Nepřátelské činy proměnili iránský potenciál
+[15:34] v Hormuzském průlivu ve skutečnost.
+[15:36] Za poskytované služby budeme vybírat poplatky.
+[15:41] To můžeme klidně jít na další zprávu,
+[15:43] protože to bylo pro nás jasné celou dobu.
+[15:45] To říkáme celou dobu od té doby, co to Irán oznámil
+[15:49] a i po tom, co přišla ta skvělá zpráva
+[15:52] o slavu 80. narozením Donalda Trumpa,
+[15:55] že bude mír s Iránem.
+[15:57] A Emmanuel Macron tvrdil, že v žádném případě
+[15:59] nebude Irán vybírat poplatky.
+[16:01] Tak jsme se celou dobu bylo jasný,
+[16:04] že Irán bude chtít vybírat poplatky.
+[16:06] Takže to není potřeba komentovat dál.
+[16:08] Pojďme na další zprávu, prosím.
+[16:10] Evropská komise chce prodloužit dočasnou ochranu
+[16:13] pro uprchlíky z Ukrajiny.
+[16:15] Ale zároveň zůžíjí rozsah, aby nebyla oslabená schopnost
+[16:19] Ukrajiny bránit se.
+[16:20] Podle německé medie Uršula von der Leyen
+[16:23] v dopise Evropským lidrum uvedla,
+[16:25] že Brusel zvažuje omezení pro některé kategorie
+[16:28] ukrajinských občanů.
+[16:30] Nejčastěji se mluví o stížení vstupu mužům
+[16:32] ve vojenském věku.
+[16:34] O podobném návrhu už jednali ministři
+[16:36] vnitra Evropské unie.
+[16:38] Německo a několik dalších států podporují
+[16:40] omezení zjednodušené ochrany pro ukrajinské muže
+[16:43] ve věku 23 až 60 let.
+[16:47] Změny by se měly týkat hlavně novně příchozí,
+[16:50] ne těch, kteří už ochranu v Evropské unii požívají.
+[16:55] Poprosím režie ještě zpátky o ten obrázek.
+[16:58] Všimněte si, jak má Uršula von der Leyen
+[16:59] vlajku na prsou modrožlutou.
+[17:03] A není to vlajka Evropské unie,
+[17:04] je to vlajka Ukrajiny.
+[17:05] Jako kdyby ona byla šéfkou nějaké
+[17:08] nebo zastupovala Ukrajinu.
+[17:10] Všimněte si, jak je podobná vlajka
+[17:12] Evropské unie a Ukrajiny.
+[17:13] Jak má podobné barvy, respektive stejné barvy.
+[17:16] To je zvláštní, že jo?
+[17:17] Za mě Uršula von der Leyen,
+[17:19] když se na ní takto podívám,
+[17:20] tak se na mě kouká peklo.
+[17:22] Protože to, co dělá Uršula von der Leyen,
+[17:25] je čistě pekelné.
+[17:27] A to, že vytvořili dočasnou ochranu,
+[17:30] že zlikvidovali ty země,
+[17:31] přesunuli Ukrajince,
+[17:32] to je samozřejmě proti zájmům
+[17:34] těch jednotlivých zemí,
+[17:35] protože ti Ukrajinci už nikdy neodejdou.
+[17:37] Tím rozbili ty země,
+[17:39] kam Ukrajinci přišli.
+[17:40] Všechny České republiky, Polska a dalších zemí.
+[17:43] Ale to, že chce teďkon tu výjimku
+[17:47] z dočasné ochrany pro muže,
+[17:48] kteří mohou bojovat,
+[17:49] aby je posílali na frontu,
+[17:51] to je za mě peklo.
+[17:56] To je tak.
+[17:58] Trump stáhl požadavek,
+[18:00] aby se Irán vzdál svých balistických raket.
+[18:04] Podle jeho názoru je dobré,
+[18:06] že Irán má silný konvenční odstrašující prostředek,
+[18:09] protože tím snižuje potřebu
+[18:11] jaderného odstrašujícího prostředku.
+[18:13] Koukám se na ty titulky.
+[18:20] Někteří z kluků to mám rád.
+[18:36] Trump jako bůh,
+[18:37] kteří se rozhoduje o tom,
+[18:39] komu může dovolit, aby měl raketu
+[18:41] a komu ne.
+[18:42] Saudská Arábie, Irán.
+[18:44] Mám jim to dovolit, nemám jim to dovolit.
+[18:46] Jestli budou zkoušet vyrábět raketu
+[18:48] nebo ji někde sehnat, tak je zbombarduju,
+[18:50] zažijou peklo.
+[18:51] OK, pojďme dál.
+[19:01] Irán nebude považovat mír za uzavřený,
+[19:04] dokud Izrael neevakuje vojska z Libanonu.
+[19:07] Mluvčí iránského ministerstva zahraničí
+[19:09] Esmail Baghaj v rozhovoru
+[19:11] pro libanonské vydání Al-Aqabahar
+[19:13] uvedl, že stažení
+[19:15] izraelských vojsk z území Libanonu
+[19:17] je jednou z klíčových podmínek
+[19:19] dohody se spojenými státy.
+[19:21] Dokument obsahuje závazek
+[19:22] zaručit suverenitu a územní celistvost Libanonu.
+[19:25] To znamená, že okupační vojska
+[19:27] musí opustit libanonskou půdu.
+[19:29] Jsme přesvědčení ukončit
+[19:31] válku, ale ta neskončí,
+[19:34] dokud tam bude
+[19:35] zůstávat sionistický nepřítel.
+[19:38] Dodal také, že Irán
+[19:39] nezmění svůj postoj k Izraeli,
+[19:41] ale zavazuje se nepodnikat
+[19:43] vůči němu žádné nepřátelské akce
+[19:45] a toto závazek
+[19:47] se vztahuje i na spojence Iránu
+[19:49] mimo jeho hranice.
+[19:51] Izrael není v dokumentu zmíněn
+[19:52] a náš postoj k tomuto zločinnému režimu
+[19:55] zůstává stejný, ale dohoda
+[19:57] hovoří o ukončení války
+[19:58] mezi spojenými státy a jejich spojenci
+[20:01] na jedné straně a Iránem
+[20:02] a jeho spojenci na straně druhé.
+[20:04] Uvedl iránský ministr.
+[20:07] Netanyahu potvrdil,
+[20:09] že Izrael nebude
+[20:10] stahovat vojska z okupovaných území
+[20:13] v Libanonu. Izraelský předseda
+[20:15] vlády Benjamin Netanyahu
+[20:16] řekl, že jednotky zůstanou
+[20:18] na okupovaných územích jižního Libanonu,
+[20:21] protože to je nezbytné
+[20:22] pro dosážení nejvyššího cíle.
+[20:26] Stejně,
+[20:27] jako jsme obnovili bezpečnost
+[20:28] a prosperitu v Gaze,
+[20:30] obnovíme bezpečnost a prosperitu
+[20:33] v severních osadách.
+[20:35] Tak jeden řbitov
+[20:36] z východu, druhý řbitov
+[20:39] z jeho západu.
+[20:41] Teda jeden řbitov ze západu,
+[20:43] druhý řbitov z jeho východu.
+[20:44] Co k tomu říct?
+[20:47] Jako myslím, že se tady jenom teďko
+[20:49] dozvídáme ze zpráv to, jakým způsobem
+[20:52] jsme komentovali před několika dny,
+[20:53] když přišli s tím memorandem o porozumění.
+[20:56] Teď nás čeká 60 dnů
+[20:57] až 90 dnů vyjednávání
+[20:59] a v těch 60 až 90 dnech
+[21:01] se začne ukazovat, jak je to
+[21:03] vlastně složité, protože
+[21:05] Irán má svoji pozici, ze které
+[21:07] neustoupí, to znamená, chtějí zmrazená
+[21:09] aktiva, nechtějí, aby jim někdo dával
+[21:11] sankce, chtějí, aby mohli volně
+[21:13] obchodovat, chtějí vybírat peníze
+[21:15] za průplav formu s kým průlivem,
+[21:17] chtějí, aby se američané stáli z blízkého
+[21:19] východu a chtějí, aby byl ukončený
+[21:21] konflikt především ze strany Izraele
+[21:23] vůči Libanonu a Gazem.
+[21:25] A co se týče Spojených států,
+[21:27] tak ty chtějí, aby Irán neměl
+[21:29] suverenitu, aby nemohl obohacovat Urán,
+[21:31] aby jim vzali peníze,
+[21:34] aby oni vybírali
+[21:35] peníze za průplav
+[21:37] formu s kým průlivem
+[21:39] a tak dál. A co se týče Izraele,
+[21:42] tak Izrael se snaží o to, aby
+[21:43] zlikvidoval iránský režim
+[21:45] a aby válčil
+[21:47] v Libanonu a v Gazem.
+[21:49] Takže prostě nikdo z nich,
+[21:51] když se podíváte na ty tři
+[21:53] pozice, které jsou, ty se nikde neprotínají.
+[21:56] Tam nikde není něco,
+[21:57] něco společného, kde by...
+[22:00] Jako jediný, co je společné,
+[22:02] že všichni chtějí, aby byl otevřený
+[22:03] hormonský průliv, protože
+[22:05] by z toho mohli mít peníze.
+[22:08] Takže to je jediný,
+[22:09] tam vidím jako spojení.
+[22:11] A samozřejmě to, že by se tam...
+[22:15] No ale to zase
+[22:15] Izrael z toho peníze nemá
+[22:17] a znamenal by to konec války. Takže ten Izrael
+[22:19] je tam stejně rušivý element
+[22:21] v tomhle tom směru, který
+[22:23] nechce, aby ten konflikt skončil.
+[22:25] Nejsem si úplně jistý, že to je na dobré cestě.
+[22:27] Uvidíme dál.
+[22:34] Ruský prezident Vladimír Putin
+[22:36] se 17. června zúčastnil
+[22:38] věročního plenárního zasedání
+[22:40] samitu Rusko-ASEAN,
+[22:43] to je Združení národů Jihovýchodní
+[22:44] Azie, který si připomněl
+[22:46] 35 let od navázaní jejich vztahu.
+[22:49] Na programu setkání v Kazaní
+[22:51] bylo zhodnocení strategického
+[22:53] partnerství mezi Ruskou federací
+[22:55] a ASEAN, jakož
+[22:56] i nové možnosti spolupráce
+[22:58] v politické, ekonomické
+[23:00] a humanitární oblasti,
+[23:02] ale také vyměna názoru
+[23:03] na nejnovější mezinárodní
+[23:06] a regionální vývoj.
+[23:11] Tak je důležité
+[23:12] vidět, že Rusko opravdu
+[23:14] není země izolovaná, tak jak nám tvrdí
+[23:16] naši politici, ale
+[23:18] Rusko je země největší na světě
+[23:20] a co se týče toho
+[23:22] setkání s ASEANem,
+[23:24] to je prostě ukázka, kolik je tam zemí.
+[23:26] Tam je 13 zemí, nebo kolik je tam,
+[23:28] žeho si dobře vzpomínám, nebo teď jsem to nezaslech.
+[23:31] Je to v té správě uvedené,
+[23:32] myslím, že tam je 13 zemí.
+[23:34] Je o východní Azie.
+[23:37] Rusko je
+[23:38] velmoc,
+[23:41] jako velmoc působí
+[23:42] na to, že v Evropské unii
+[23:44] to opakují, že ne,
+[23:46] že Rusko je nějaká zemljanka,
+[23:48] kde vybírají čipy z praček,
+[23:51] no tak to ještě neznamená,
+[23:53] že to je realita. Proto je tady ta správa,
+[23:55] abychom viděli, že Rusko
+[23:56] pořád je velkým světovým hráčem
+[23:59] politickým.
+[24:04] Jo.
+[24:14] Tady se opakuje
+[24:15] jenom ta
+[24:16] zpráva, že terroristické činy
+[24:17] situaci na frontě nezmění, za to zajistí
+[24:20] financování nelidského krvavého
+[24:22] banderovského totalitního režimu na Ukrajině
+[24:24] a výrazně zvýší pravděpodobnost
+[24:26] přeněsení aktivní fronty na území
+[24:28] členských států Evropské
+[24:29] Unie. Provozovatel
+[24:32] ukrajinského dronu během dne
+[24:34] zabil řidiče civilního nakladního vozidla.
+[24:36] Můžeme dlouze uvažovat o cynismu
+[24:38] a bezcitnosti nepřítele,
+[24:40] který stojí před námi, ale nemáme zde
+[24:42] co komentovat, abychom ochránili naše
+[24:44] lidi, musíme nepřítele rozrdit
+[24:46] až do posledního kousku.
+[24:48] Tak máme tady co?
+[24:50] Dočasný gubernátor
+[24:52] Belgorodské oblasti, Aleksandr
+[24:54] Šuavev.
+[24:56] Máme co komentovat
+[24:58] k tomu, protože podívejte se, takhle to
+[25:00] vypadá v reálu. Toto je to,
+[25:02] jakým způsobem bojuje Ukrajina a NATO.
+[25:05] To je ta
+[25:06] realita. Člověk jede
+[25:08] někde v práci, představte si to, jak jede
+[25:10] tam nějaký řidič
+[25:12] v České republice, takhle s kamionem,
+[25:14] doma na něj čekají děti a manželka
+[25:17] a domů nepřijede, protože Ukrajinci
+[25:18] prostě poslali nějaký dron
+[25:20] a zabili tohoto člověka na cestě.
+[25:23] To je jejich způsob války.
+[25:28] Zelenský oznámil, že Ukrajina a Německo
+[25:30] podepsali dohodu o obranných
+[25:32] technologiích. Obranou dohodu
+[25:34] zaměřenou na integraci technologií
+[25:36] promluvil o tom Zelenský během
+[25:38] setkání ministrů obrany
+[25:40] a vojenských představitelů ve formatu
+[25:42] Rammstein.
+[25:45] Takže další.
+[25:45] A tady píde to, že se jedná
+[25:48] o společný vývoj obranných technologií,
+[25:50] ale určitě jde o rakety, které
+[25:51] budou lítat do Ruska, že jo?
+[25:53] Protože o tom se dneska mluví
+[25:55] nejvíc o protivzdušné obraně
+[25:58] ze Spojených států a o raketách,
+[26:00] které můžou lítat do Ruska
+[26:01] společně s Německem.
+[26:04] Už nevím, jak to komentovat
+[26:05] dál. Mně připadá, že prostě
+[26:07] o tom mluvíme každý den.
+[26:10] Lidi prostě pořád jsou netečný
+[26:12] a čekají asi, až jim začnou
+[26:14] padat na hlavu rakety, nebo nevím, na co čekají
+[26:16] ještě lidi. OK, pojďme na další
+[26:17] zprávu.
+[26:20] Omezení příspěvku
+[26:21] Spojených států do krizových sil
+[26:23] NATO soupilo v platnost
+[26:25] okamžitě, řekl před čvrtečním
+[26:27] jednáním ministru obrany
+[26:28] Severoatlantické aliance v Bruselu
+[26:31] generální tajemník bloku Mark Rutte.
+[26:33] Dodal, že ostatní spojenci
+[26:35] zvyšují své příspěvky,
+[26:37] aby zaplnění mezery vznikly po americkém
+[26:39] kroku. Rutte zdůraznil,
+[26:42] že aliance o amerických
+[26:43] plánech vyjednila
+[26:45] dlouho předtím.
+[26:46] Tak my jsme se tady bavili
+[26:48] zusko spolu o tom, proč je ten rozkol
+[26:50] mezi Spojenými státy a Evropou,
+[26:53] že za tím stojí, aby se
+[26:54] Evropa dala víc dohromady,
+[26:56] aby se vytvořila evropská armáda
+[26:58] a ono se nám mezi tím vytvořila
+[27:00] taková jako nová forma
+[27:02] NATO. NATO se nám rozděluje na nějaký
+[27:04] částky a Evropa
+[27:06] bude teďkon nějakým tím, jak říkejí
+[27:08] Eastern flank, to je to východní
+[27:10] křídlo NATO, tak to je zajímavé,
+[27:12] tam budou asi pravděpodobně ti vojáci,
+[27:14] kteří budou přímo v tom konfliktu
+[27:16] s Ruskem, až se rozběhne, pokud se rozběhne,
+[27:18] ale je vidět, že Evropa
+[27:20] dneska díky tomu rozkolu
+[27:22] jakoby z USA, který se vytvořil
+[27:24] tak USA, odchází z toho,
+[27:26] aby financovali NATO tím způsobem,
+[27:28] jak jim financovali a tu díru,
+[27:30] která vznikla díky tady tomu,
+[27:32] tak samozřejmě musí zaplatit
+[27:34] evropské státy, takže vlastně
+[27:36] celá tahleta záležitost má za cíl
+[27:38] to, že budeme platit víc peněz,
+[27:40] budeme víc brojit,
+[27:41] a tím je to,
+[27:43] tím je to, tím je to, myslím si,
+[27:45] že už jasný, proč vznikla
+[27:47] tadyhle, proč vznikla tadyhle
+[27:49] ten rozkol. Spojení státy samozřejmě budou
+[27:51] řídit na to dál, protože
+[27:52] NATO je pro ně, NATO je pro ně
+[27:55] zásadní a nebudou ho opouštět, protože
+[27:57] to jim dává sílu, ale
+[27:58] bohužel američani se
+[28:01] hezky vyvlíkli z toho, že by byli
+[28:02] zodpovědní za válku s Ruskem
+[28:04] a že by museli
+[28:07] posílat svoje chlapce umírat.
+[28:12] Tohle ani není teroristický
+[28:14] útok, to je otevřený fašismus.
+[28:16] Tak to Lukašenko označil útok Ukrajiny
+[28:18] na autobus s běloruskými dětmi
+[28:20] v ruské Brianské oblasti.
+[28:22] Jednoznačně konstatujeme, že se jedná
+[28:24] o dron ukrajinského původu.
+[28:26] Je to ukrajinský dron, uvedl
+[28:27] běloruský prezident. Podle jeho slov
+[28:30] Bělorusko očekává
+[28:31] poctivou odpověď od ukrajinských
+[28:33] státních úředníků k tomuto teroristickému
+[28:36] útoku. Pokud nás někdo
+[28:37] považuje
+[28:38] a snaží se nás zatáhnout do
+[28:42] války, myslím, že
+[28:43] to špatně dopadne pro ty,
+[28:46] kteří se o to pokoušejí,
+[28:48] dodal Lukašenko.
+[28:50] Víte, jako nepřeju nikomu
+[28:51] žádný špatný věci, aby se
+[28:54] někomu dělo něco špatného. Opravdu to není
+[28:56] můj životní příběh,
+[28:58] abych lidem přál špatně, ale
+[28:59] v tomhle směru úplně stojím
+[29:02] za prezidentem Lukašenkem
+[29:04] a přál bych si, aby
+[29:06] ty lidé,
+[29:08] kteří stojí za tím terorismem,
+[29:09] který je páchaný a především
+[29:12] když utočí na děti,
+[29:13] autobus s dětmi a škola, támhle studentky
+[29:16] v Íránu
+[29:19] taky,
+[29:20] na školačky, na děti,
+[29:23] tak
+[29:23] tyhle ty lidi, kteří tohle
+[29:26] dělají, těm bych
+[29:28] přál, aby na tomhle světě nebyli.
+[29:30] Víte, pro Bělorusko je to
+[29:32] samozřejmě strašně těžká pozice, protože
+[29:34] vemte si, a o tom taky tady mluvíme už nějakou dobu,
+[29:36] vemte si, že na vás pořád někdo
+[29:38] utočí a vy něco
+[29:40] s tím máte dělat, jak jste prezident země,
+[29:41] a co máte udělat? Máte se nechat vtáhnout
+[29:44] do války, anebo prostě
+[29:46] nechat cizí zemi, aby vám
+[29:47] zabíjela děti na ulicích.
+[29:49] A to je to, co tady dělá
+[29:51] na to, co dělá Evropská unie
+[29:54] společně s Ukrajinou.
+[29:55] To je to, co děláme my.
+[29:57] OK, pojďme na další zprávu.
+[30:01] Německá policie zmlátila a zadržela
+[30:03] Poláky, kteří se chtěli
+[30:05] pomodlit a zanechat kříž na Hřbitově
+[30:07] v Berlíně. Udaz věděla reakce
+[30:09] jak v Německu, tak i v Polsku,
+[30:12] kde se objevují výzvy k důkladnému
+[30:13] objasnění celého tohohle incidentu.
+[30:16] A video nemáme k tomu? Měli jsme
+[30:18] dvě videa, k tomu nemáme?
+[30:20] Video nemáme z jistých důvodů.
+[30:23] Nemáme z jistých důvodů, OK.
+[30:24] Nevím, jaký jsou to důvody, ale prostě
+[30:26] byla to zajímavá zpráva, protože Poláci
+[30:28] se přijeli pomodlit na Hřbitov
+[30:31] a místo toho dostali
+[30:32] od německých policistů. Docela dost
+[30:34] nabančeno, co jsem viděl na těch
+[30:36] videích, jako opravdu, jako skupiny
+[30:38] policistů na ně naskákali,
+[30:40] zkroutili jim tam ruce, pozatýkali je,
+[30:42] zbyli je. Myslím si, že to je dost
+[30:44] šokující i z toho mezinárodního
+[30:46] hlediska, i z toho historického
+[30:48] hlediska. Zase to jenom ukazuje,
+[30:50] co si všímám poslední týdny, ale to
+[30:52] není něco, čeho bych si všímal měsíce.
+[30:54] Toho si všímám poslední týdny. To je
+[30:55] brutální policejní,
+[30:57] nebo to je poměrně zvýšené
+[31:00] policejní brutality. Podívejte se
+[31:02] v Británii, podívejte se
+[31:04] v Německu i třeba, co jsou ty
+[31:05] demonstrace
+[31:06] proti Izraeli, který tam
+[31:09] utočí na gazu, ty propalestinské
+[31:11] demonstrace, jak tam brutálně policie mlátí
+[31:14] lidi. A vidíme to v dalších zemích.
+[31:16] Takže to, co
+[31:17] si začínám všímat, je, že
+[31:19] ten globalistický západ nějakým
+[31:21] způsobem někde pochytil, že
+[31:23] najednou dostávají policisté
+[31:25] přikazy být brutální.
+[31:30] Tak nevím, jestli tady máme video, protože
+[31:33] prostě z technických důvodů se nám nepodařilo
+[31:35] všechno.
+[31:37] V Polsku zakládají
+[31:38] hlídky BP,
+[31:40] které budou
+[31:42] chránit prostory proti
+[31:45] tomu, aby se inženýři a lékaři
+[31:47] dostali do Varšavy.
+[31:49] Nevím, jestli máme to video.
+[31:50] Aha, jestli nemáme video, tak pojďme dál.
+[31:53] Ta zpráva bez videa nemá význam.
+[31:55] Někdy pustíme video
+[31:56] a pokomentujeme to.
+[32:01] Francouzská špionařní agentura ukončila
+[32:03] smlouvu s americkým softwarovým
+[32:05] gigantem Palantir a
+[32:07] nahradila ho domácím konkurentem.
+[32:09] Obavy Evropy o technologickou suverenitu
+[32:11] vzrostly po té, co americká
+[32:12] vláda zablokovala cizincům přístup
+[32:15] k hraničním modelům
+[32:17] společnosti antropi.
+[32:18] Zajména Palantir čeli kritice,
+[32:20] poznamenal denník Financial Times.
+[32:22] Jeho dohoda s britskou zdravotnickou službou
+[32:25] vyvolala politicky i veřejný odpor
+[32:27] v Německu. Palantir odmítlo
+[32:29] uzavřít v rámci obranných zakázek.
+[32:32] Washingtonské
+[32:33] rozhodnutí ohledně
+[32:34] antropik zdůrazněl potřebu umělé
+[32:37] inteligence mimo hranice
+[32:38] spojených států, argumentoval DeWert
+[32:40] a několik zemí se
+[32:42] předhání v zavadění vlastní.
+[32:45] Blokování amerických
+[32:46] nástrojů však sebou nese rizika,
+[32:49] alternativy vyrobené v Evropě jsou
+[32:50] méně kvalitní než
+[32:53] ty americké.
+[32:54] Tohle je docela zásadní zpráva,
+[32:57] tak američani dřív už ještě za
+[32:58] Angeli Merkel odposlouchávali, že ho svoje
+[33:01] spojence, německé politiky
+[33:02] a vůbec i jiné politiky.
+[33:04] Vypadá to, že tady globalisté,
+[33:06] myslím, ti nejvyšší globalisté
+[33:08] je nejvyšších patrech,
+[33:10] mají nějaký boj o moc, co se týče
+[33:12] Evropy a Spojených států,
+[33:14] protože to nešlape všechno
+[33:16] jako hodinky.
+[33:18] Třeba to, že to není to
+[33:20] jenom palantýr ve Francii,
+[33:23] ale francouzi třeba taky odstoupili
+[33:25] v rámci veřejné zprávy
+[33:27] z používání Windows a přešli
+[33:28] na open source a začínají to
+[33:30] dělat, začínají to
+[33:31] praktikovat i v Německu.
+[33:34] Takže tady se nám opravdu
+[33:36] staví v Evropě nějaká,
+[33:38] řekněme,
+[33:40] staví se nám tady nějaký
+[33:42] rozdělení,
+[33:43] rozdělení toho digitálního světa
+[33:45] tak, že Evropani
+[33:47] nechtějí být přímo
+[33:48] kontrolovaní a řízení
+[33:50] Spojenými státy. Nevím, co taky
+[33:52] stojí víc, ale jsou to i
+[33:54] obrovské peníze, které
+[33:56] nepotečou do Spojených států, když
+[33:58] se vemte, že Francia, Německo a další země
+[34:00] přestanou platit
+[34:02] licence za Windows a budou
+[34:05] fungovat na Linuxu, na open sourcech,
+[34:06] ale to, co se teď děje,
+[34:09] samozřejmě děje se to z bezpečnostního
+[34:11] legiska, aby Spojené státy neměly
+[34:12] pod kontrolou, řekněme, veřejnou
+[34:15] zprávu v Evropě a
+[34:16] databáze občanů v Evropě
+[34:18] a tak dál. Tím to neznamená,
+[34:21] že to nebude Evropa, která bude mít
+[34:22] pod kontrolou náš digitální svět,
+[34:25] naše údaje, naše chování,
+[34:27] ale evidentně se
+[34:29] tady mění ten styl a nepojede to přímo
+[34:30] pod Spojenými státy.
+[34:35] Je to možná
+[34:36] poslední příležitost pořídit
+[34:37] zbraně a obrane systémy předtím,
+[34:41] než se Rusko může
+[34:42] o něco pokusit. Takové
+[34:43] je vzkaz z největšího evropského veletrhu
+[34:46] Eurosatory, který
+[34:47] pokračuje v Paříži. A nabitka
+[34:50] světových výrobců, včetně českých,
+[34:52] má jasnou inspiraci. Válečnou
+[34:53] Ukrajinu.
+[34:55] Tak máme skvělou vládu, která
+[34:57] tohle podporuje, která chce vyrábět zbraně
+[35:00] jak pro Američany, tak
+[35:02] spolu s Němci, takže
+[35:03] krom toho máme tady skvělé české
+[35:06] zbrojaře, takže myslím si, že Česká
+[35:08] republika v tomhle tom je absolutně
+[35:10] jako v pohodě. Tady se prostě vyrábět
+[35:12] zbraně budou a samozřejmě
+[35:14] díky tomu bude Česká republika i
+[35:15] cílem případné válce.
+[35:20] Já se omluvám, ale to byla teda poslední
+[35:22] zpráva, protože další máme
+[35:24] bez videí a bez
+[35:26] videí v důvodu těch
+[35:27] technických problémů, taky nemají
+[35:30] asi nějak šanci.
+[35:34] Tady
+[35:35] s těmi technickými
+[35:38] záležitostmi,
+[35:39] proč tam není to video, vám to
+[35:41] vysvětlím naprosto jednoduše, protože tady máme
+[35:43] nějakého trola, který tady píše
+[35:45] velmi vulgárně na to téma,
+[35:47] kterýho samozřejmě zablokujeme,
+[35:49] takovýhle troly tady mít nebudeme.
+[35:51] My máme licenci, na který
+[35:53] vysíláme, která má možnost
+[35:55] mít uschovaných
+[35:57] 10 videí
+[35:58] k uschovně a těch 10 videí
+[36:01] vám pouštět. Pokud byste chtěli,
+[36:02] abychom mohli mít víc videí, tak budeme
+[36:04] muset platit licenci, která stojí
+[36:07] asi 180 dolarů
+[36:09] za měsíc, takže
+[36:10] to, co platíme teď, si tak nějak
+[36:12] platíme z toho, co máme, ale
+[36:14] pokud byste chtěli, abychom měli nějakou lepší
+[36:16] licenci, abychom měli víc videí
+[36:19] a delší videa a vysílali třeba i mimo
+[36:21] zprávy dál, tak tady dole
+[36:23] vám běží číslo účtu, můžete
+[36:25] klidně podpořit a my budeme dávat videí
+[36:27] víc, ale bohužel dneska jsme měli
+[36:29] přes 20 nebo 20 zpráv, takže
+[36:31] se nám tam všechna ta videa nevyšla.
+[36:33] To je ten důvod technický,
+[36:35] proč jsme tam neměli právě ta videa,
+[36:37] která jsme měli, ale nebojte se, my vám je pustíme
+[36:39] zítra ta videa, protože
+[36:41] to, jak zmátěli ty Poláky
+[36:42] německá policie, to si myslím, že je docela
+[36:45] zajímavý. A když jsme skončili takhle rychle,
+[36:47] dneska jsem komentoval opravdu krátce, protože
+[36:49] jsem se bál toho, že máme tolik zpráv,
+[36:51] tak jsem si vzpomněl ještě jednu věc. Tady byl dotaz
+[36:53] a na ten myslím, že vám vlužím
+[36:54] odpověď, jestli soud
+[36:57] po deseti letech prohlásil
+[36:59] v Hágu, že Krim
+[37:01] patří Ukrajině nebo patří
+[37:03] Rusku, protože takhle se
+[37:04] na sociálních sítích nesla zpráva, máme
+[37:07] tady potvrzení od Hágskeho soudu,
+[37:09] že Krim je ruský. Tak bych
+[37:11] vám rád řekl, že ten člověk, který vám to
+[37:12] napsal, tak vás opravdu
+[37:14] uvedl v omyl, protože to je absolutní nesmysl.
+[37:17] Ten rozsudek, tak jak jsem
+[37:19] ho tady do zpráv dostal
+[37:20] od Zuzky, která ho vyhledala,
+[37:23] tak už ve zprávách četla,
+[37:24] že to je rozsudek, nález
+[37:26] rozhodčího soudu. A když jsem
+[37:29] slyšel, že to je nález rozhodčího
+[37:31] soudu, tak jsem vám vysvětloval, že
+[37:32] rozhodčí soud není totéž jako
+[37:34] soud, který by byl státní nebo mezinárodní,
+[37:37] který by byl uznávaný
+[37:38] různými státy jako mezinárodní
+[37:40] soud. A rozhodčí
+[37:42] soudy mají jurisdikci jenom
+[37:44] takovou, která jim je přiznana.
+[37:46] Rozhodčí soudy jsou takové jako
+[37:48] náhražky závislých soudů.
+[37:50] Rozhodčí soudy jsou
+[37:52] soudy, které mohou
+[37:54] soudit, ale jenom podle
+[37:56] mezinárodního práva v rámci
+[37:58] toho, co jim je svěřené. Naobvykle to
+[38:00] bývá tak, že existuje nějaký
+[38:02] obchodní nebo bilaterální
+[38:04] nějaká obchodní nebo bilaterální dohoda
+[38:06] a v té dohodě se ujedná,
+[38:09] než aby se šlo k mezinárodnímu
+[38:10] soudu, tak se jde k takzvanému
+[38:12] rozhodčímu soudu. A když s tím
+[38:14] obě dvě strany souhlasí při sjednávání
+[38:16] té smluvy, tak se potom, aby se nemuseli
+[38:18] platit drahé soudy a nemuselo se čekat,
+[38:21] tak se jde k rychlým rozhodčím soudům.
+[38:23] Tohle byl rozsudek rozhodčího
+[38:24] soudu, nález rozhodčího soudu v Hágu.
+[38:27] A proto tenhle ten
+[38:28] rozhodčí soud nemá jurisdikci,
+[38:30] nemá pravomoc k tomu, aby rozhodoval
+[38:32] o tom, komu patří Krym. To je to, co jsem
+[38:34] vám říkal, když jsem to slyšel.
+[38:36] Ten rozsudek jsem
+[38:38] zběžně prohlédl,
+[38:40] má 480 stran,
+[38:42] zběžně jsem ho prohlédl a to, co se tam
+[38:44] konstatuje, že je to
+[38:47] bilaterální smlouva mezi Ruskou
+[38:48] federací a Ukrajinou o používání
+[38:51] Kerckého mostu
+[38:52] a těch vod, které jsou okolo,
+[38:54] Ukrajina tam vznesla vůči
+[38:56] Rusku různé stížnosti,
+[38:58] různé nároky. Uspěla jenom
+[39:00] v jedné věci a to, že
+[39:02] v rámci nějakých, teď si nepamatuju,
+[39:04] jak se jmenuje přesně,
+[39:05] jak se jmenuje přesně ta směrnice
+[39:08] o životním prostředí, tak
+[39:10] nepodalo Rusko naprosto
+[39:12] přesně všechny zprávy v souhledu
+[39:14] s neposkyžením
+[39:16] životního prostředí při používání
+[39:19] těchto míst, takže tam řekli,
+[39:20] že ano, tam Rusko pochybilo,
+[39:22] ale v těch ostatních věcech, že by bránili
+[39:24] přístupů, zneužívali to, tam
+[39:26] Ukrajina neuspěla a už
+[39:28] vůbec neuspěla v tom, že by
+[39:30] měl soud posoudit,
+[39:32] komu patří Krym, že by měl patřit Ukrajině,
+[39:34] protože ten soud jasně řekl,
+[39:36] že se jedná o rozhodčí soud,
+[39:38] nemá jurisdikci k tomu, aby
+[39:40] rozhodoval, komu patří Krym,
+[39:42] pod jakou správu patří Krym,
+[39:45] takže nemůže ani rozhodnout o tom,
+[39:47] jestli patří pod Ukrajinu
+[39:48] nebo pod Ruskou federaci. Tak jenom, aby bylo
+[39:50] jasno, abychom tady nebyli za
+[39:52] hlupáky,
+[39:53] jako vlastenci jsou hlupáci, protože někdo
+[39:56] na něco napíše a všichni tomu dávají
+[39:58] lajky a všichni si myslí, že
+[39:59] to tak je. Ne, není to tak.
+[40:02] Žádný soud nerozhodl o tom, že
+[40:03] Krym je ruský, omluvám se. Tak, to je
+[40:06] všechno, co jsem vám chtěl říct. Máme
+[40:08] 40 minut dnešní správy, takže jsme
+[40:10] to stěli velmi rychle. Aspoň už je
+[40:12] tříte čas na příbuzné,
+[40:14] na děti, anebo na nějaký
+[40:15] pěkný seriál, dokud
+[40:18] máme ještě pěkně pohodu, dokud nám nelítají
+[40:20] rakety nad hlavou,
+[40:22] dokud nám nevypínají prout a dokud
+[40:24] nemusíte běhat někam do krytu, tak si užijte
+[40:26] pěkně doma pohodu, koukněte
+[40:28] na něco, dejte si brambůrky,
+[40:30] udělejte si teplej čaj, nebo si dejte pivko,
+[40:32] nebo co máte rádi a uvidíme se zase zítra
+[40:34] v 9 hodin. Zuzko,
+[40:36] to by díky moc za připravu
+[40:38] zpráv a Tondovi děkujeme
+[40:40] do reže za přípravu
+[40:41] technických záležitostí
+[40:44] videí a taky zatitulkování
+[40:46] videí, protože to samozřejmě bere
+[40:48] spoustu času a vy, pokud máte zájem
+[40:50] vidět ještě ta videa, protože my jsme přes ně mluvili,
+[40:52] tak si to můžete vrátit zpátky a podívat
+[40:54] se na ty projevy, protože to máte otitulkovaný
+[40:56] do češtiny. Hezký večer.
+[40:58] Brambůrky si nedávejte,
+[40:59] užijte si večer a vidíme se zítra.

@@ -1,0 +1,1397 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/1950020905954077
+Datum videa:  2026-09-06
+Zpracováno:   2026-09-07 20:39:27
+Jazyk:        cs
+Délka:        00:50:12
+Popis:        Kdo a proč brzdí snahu dostat se až na dno žumpy jménem Dozimetr?
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    24s
+Přepis:       9m 52s
+Rychlost:     5.1x realtime
+Celkem:       10m 17s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:14] Krásný dobrý podvečer dámy a pánové, moc vás zdravím u dnešního pravidelného živého vysílání
+[00:19] v obvyklém čase krátce po 18. hodině. Doufám, že mě vidíte, že mě slyšíte
+[00:24] a že se můžeme pustit do naší tradiční necelé hodinky.
+[00:29] Doufám, že dnes to zase bude kratší, když já to vždycky slibuju
+[00:32] a málo kdy se mi to podaří dodržet. Jeden z mála slibů, který mě prostě nejde.
+[00:37] Ale pokusím se dnes být stručnější, protože zase máme krásné babíle,
+[00:43] a byla by škoda ho trávit někde doma, nikoliv venku s našimi nejbližšími.
+[00:49] Tak pojďme na to. Ještě jednou všechny zdravím.
+[00:52] Budu moc rád za sdílení jakéhokoliv počtu, jakýmkoliv kanálem.
+[00:58] Sdílejte, posílejte dál, protože opravdu, tak jak už jsem napsal mnohokrát,
+[01:03] my už mainstream nepotřebujeme. My jsme mainstream.
+[01:06] Pokud se podíváte na statistiky mého facebookového profilu,
+[01:09] a kdybych to sečetl s dalšími sociálními sítěmi a komunikačními kanály,
+[01:13] tak v podstatě ty naše přenosy, naše myšlenky, díky vám, díky vašemu sdílení,
+[01:20] vidí víc lidí, než si čte politické články na seznamu.
+[01:26] Nebo než vidí třeba i na některých televizích veřejnoprávního charakteru.
+[01:32] Samozřejmě české televize, myslím, někde v událostech, komentářích.
+[01:36] Ta zhlédnutí jsou podstatně vyšší.
+[01:39] Chtěl bych moc poděkovat za obrovský počet sdílení, nejenom u sebe,
+[01:43] ale i na sociálních sítích a kanálech jiných lidí, influencerů,
+[01:51] případně alternativních médií, protože například na Protiproudu
+[01:56] rozhovor s Petrem Hajkem přes 85 tisíc zhlédnutí.
+[02:01] Tomáš Lukavec, včera jsme vydávali rozhovor společně,
+[02:06] který jsme točili, myslím, ve čtvrtek, ve středu nebo ve čtvrtek,
+[02:09] tak jsme ho, nebo včera ho Tomáš vydával ráno.
+[02:13] Ten jediný den má přes 110 tisíc zhlédnutí.
+[02:17] 110 tisíc za jeden den.
+[02:19] To je prostě fantastické číslo, je to rozjeté na 200 tisíc
+[02:24] a já moc vám děkuji všem, kteří na ta videa upozorňujete,
+[02:29] kteří posíláte ty linky dál.
+[02:31] Je to ta společná práce a je to daleko...
+[02:35] Každý z vás, kdo pošle jakékoliv takhle video, jakkoliv nás dílí,
+[02:39] tak dělá mnohem víc práce, než ty komentáře.
+[02:43] Ty komentáře, které velmi často čtu ve stylu
+[02:46] tak s tím něco dělejte, tak konejte, tak to řešte.
+[02:49] Dneska jsem upozorňoval na skutečnost, že v partii Terezy a Tománkové
+[02:56] se řešily potenciální ruské hybridní hrozby.
+[03:00] Ruské hybridní útoky.
+[03:02] A že já bych daleko více raději řešil ty aktuální útoky ze strany Ukrajinců,
+[03:08] zejména těch call center,
+[03:11] které obírají naše důchodce o obrovské peníze.
+[03:15] Pokud se díváte, tak prosím pěkně jedno upozornění.
+[03:19] Kdokoliv vám bude volat, bude tvrdit, že je z banky, že potřebuje číslo vašeho účtu,
+[03:25] kdokoliv vám bude volat a bude říkat, že pro vás založí kriptopeněženku
+[03:29] a že tam dáte peníze a že vám to bude strašně moc vydělávat,
+[03:33] nedělejte to, prosím vás, pěkně.
+[03:36] Nedělejte to.
+[03:38] V 99% případů jsou to...
+[03:40] podvodníci, kteří se s vás snaží vylákat peníze.
+[03:45] Teď mě psali jeden pár starší důchodců,
+[03:49] kteří prostě naletěli úplně stejně, že jim někdo nabídnul kriptopeněženku.
+[03:54] Oni poslali někam nějaké peníze, teď jsem tam ukazoval, jak krásně vydělávají.
+[03:59] Samozřejmě ty peníze už byly dávno pryč.
+[04:02] A do toho volal ten zprostředkovatel, že potřebuje další peníze,
+[04:06] aby to mohli zdanit a vyplatit,
+[04:08] a že by mohli investovat ještě více.
+[04:10] Když jim to takhle vydělává a tak dále a tak dále.
+[04:13] A nakonec mi vylákal několikset tisíc korun.
+[04:15] Opravdu, prosím, upozorňuji na to.
+[04:18] Nenechte se, prosím, tímto způsobem nalákat.
+[04:21] Když vám bude někdo říkat, že je od policie, že je z banky,
+[04:24] že vám nabízí nějaký skvělý výhodný obchod,
+[04:28] neposílejte tam ty peníze.
+[04:30] Fakt je to na 99% případů takzvaný scam,
+[04:34] tedy snaha vylákat z vás peníze.
+[04:36] Něco naprosto odporného, zejména právě u starších lidí,
+[04:39] kteří nemají s těmi novými technologiemi zkušenosti
+[04:43] a jsou zneužíváni právě těmito šmejdy.
+[04:46] A namísto toho, abychom s tím něco dělali,
+[04:48] tak tady řešíme potenciální ruské hybridní hrozby.
+[04:51] Takže ještě jednou.
+[04:53] Banka a policie vás nikdy nebudou kontaktovat telefonem
+[04:59] s tím, že chtějí nějaké heslo,
+[05:01] nebo že chtějí, abyste někam poslali nějaké peníze.
+[05:04] Nikdy se to nestane.
+[05:05] Nikdy.
+[05:06] Na 100% případů.
+[05:07] Buďte prosím opatrní.
+[05:09] A abych se vrátil k tomu původnímu.
+[05:11] Já když jsem říkal, že bych daleko radši řešil tenhle problém,
+[05:13] protože na Ukrajině, publikoval jsem to dnes ráno,
+[05:17] podle Nezávislého institutu se sídlem v Ženevě,
+[05:20] odhadem Ukrajinci připraví evropské a americké důchodce
+[05:25] o miliardu dolarů měsíčně.
+[05:27] Miliardu dolarů.
+[05:29] A chtěl bych vám říct ještě jednu věc.
+[05:32] Víte, proč to neřeší nikdo na Ukrajině?
+[05:34] Proč to nikdo nestíhá?
+[05:36] Protože ty tajné služby a různé bezpečnostní služby,
+[05:39] které tam jsou, které už se mezi sebou mimochodem střílí na ulici,
+[05:42] nevím, jestli jste si to ovšemili,
+[05:44] probíhalo to teď sociálními sítěmi,
+[05:46] jak už tam dochází k přestřelkám mezi jednotlivými složkami
+[05:50] služeb Ukrajinské republiky, něco naprosto neuvěřitelného.
+[05:54] To už je opravdu čistá anarchie.
+[05:57] Tak oni to nevyšetřují proto, protože to organizují,
+[06:00] protože na to mají svůj podíl,
+[06:02] protože velmi často z toho dostávají peníze.
+[06:05] A české orgány tak logicky,
+[06:07] a věřte mi, že policie se o to snaží,
+[06:09] i státní zastupitelství,
+[06:11] tady bych chtěl moc poděkovat všem speciálním týmům,
+[06:14] i státním zastupitelům,
+[06:16] tak jak občas kritizují z hlediska svobody názorového projevu,
+[06:19] tak z hlediska této kriminality opravdu dělají maximum.
+[06:23] Ale pokud je to organizováno z Ukrajiny,
+[06:25] přes ty ukrajinská callcentra,
+[06:27] tak bez spolupráce těch ukrajinských orgánů,
+[06:30] oni nemají jak.
+[06:31] ty zločince zadržet,
+[06:34] případně zajistit ty finanční prostředky.
+[06:36] Jsou na tom podobně,
+[06:38] jako my s tím dozimetrem,
+[06:40] a já vám se k tomu postupně dostanu,
+[06:42] protože to bude samozřejmě hlavní bod toho dnešního vysílání.
+[06:45] Ale vy prostě k něčemu potřebujete,
+[06:48] součinnost jiných orgánů.
+[06:50] Bez toho nemáte šanci se pohnout,
+[06:52] to je prostě dará věc,
+[06:54] a myslím si, že každý normální člověk to chápe.
+[06:56] Takže já bych raději řešil tohle,
+[06:58] a zatlačil bych na Ukrajinu s tím,
+[07:00] že Česká republika, pokud tohle nepřestane,
+[07:02] protože oni kdyby chtěli,
+[07:04] oni kdyby chtěli, ti Ukrajinci,
+[07:06] jejich policie, jejich bezpečnostní stožky,
+[07:08] tak tohle vyřeší za dva dny.
+[07:10] Oni to moc dobře vědí,
+[07:12] kde ta koncentra souhlasnou,
+[07:14] říkám, velmi často se na tom sami podílejí.
+[07:16] Ale oni to řešit nechtějí, odmítají,
+[07:21] a já bych prostě reálně řekl,
+[07:23] že Česká republika bude vetovat
+[07:25] jakékoliv návrhy ve prospěch Ukrajiny,
+[07:27] dokud se tohle nevyřeší.
+[07:30] Prostě není možné tolerovat
+[07:32] a mlčky přihlížet tomu,
+[07:34] jak my jim pomáháme.
+[07:36] My tady platíme několik desítek miliard ročně
+[07:38] za ukrajinské migranty,
+[07:40] za tu péči o něm, včetně všech nákladů,
+[07:42] které se jich týkají.
+[07:44] My jsme tam poslali spoustu peněz
+[07:46] za fialově vlády,
+[07:48] my jsme tam poslali spoustu zbraní,
+[07:50] a oni se nám odvděčují tím,
+[07:52] že okrádají naše důchodce.
+[07:55] Tak nezlobte se na mě, ale takhle ne.
+[07:57] Já jsem už to psal,
+[07:59] že musíme prostě rozlišovat,
+[08:01] říkal jsem to i na CNN Prima News,
+[08:03] co se týče pomoci.
+[08:05] My jsme otevřeli brány do kořán,
+[08:07] namísto toho,
+[08:09] abychom selektivně pomohli těm,
+[08:11] kteří to skutečně potřebují.
+[08:13] A děkuju moc za ty reakce
+[08:15] na ten příklad, který jsem dával
+[08:17] na tu migraci,
+[08:19] protože on dokonale sedí.
+[08:21] Prostě když k vám pes
+[08:23] uteče na zahradu za situace,
+[08:25] že jeho pán bije a týrá,
+[08:27] tak logicky ho přijmete,
+[08:29] dáte mu napít,
+[08:31] postaráte se o něj
+[08:33] a tomu sousedovi ho nevrátíte,
+[08:35] nebo to nahlásíte.
+[08:37] Když vám ale pes přeleze plot
+[08:39] proto, aby vám sežral maso z grillu,
+[08:41] tak rozhodně o něj pečovat nebudete.
+[08:43] Nasekáte mu páskem
+[08:45] a hodíte ho zpátky.
+[08:47] A když vám pes přeleze ten plot
+[08:49] proto, že chce ublížit vašemu dítěti,
+[08:51] tak budete to dítě chránit
+[08:53] i ze zbraní v ruce proti tomu psovi.
+[08:55] To samé je s migrací.
+[08:57] Ano, někdo přichází
+[08:59] z té oblasti
+[09:01] Charkova, Doněcku, Luhaňsku
+[09:03] ženy, děti
+[09:05] a těm já první budu zvedat ruku
+[09:07] proto, abychom jim pomohli.
+[09:09] To přece není to samé,
+[09:11] jako platit tady sociální dávky
+[09:13] lidem, kteří si sem jezdí ze Lvova
+[09:15] jenom proto, aby si je vyzvedli
+[09:17] a jedli zpátky.
+[09:20] Tak přece musíme tohle selektovat,
+[09:22] protože jinak dokonce přicházejí
+[09:24] o peníze, mohli bychom pomáhat lépe
+[09:26] a našim lidem, kdyby prostě jsme
+[09:28] obraceli tyhle obrovské finanční prostředky
+[09:30] lidem, kteří prostě sem jdou
+[09:32] pouze za účelem zlepšení své vlastní
+[09:34] ekonomické situace.
+[09:36] Od začátku jsme měli důsledně
+[09:38] rozlišovat mezi
+[09:40] uprchlíkem a migrantem.
+[09:42] Uprchlík je ten,
+[09:44] který utíká z určitého území,
+[09:46] protože mu tam hrozí akutní
+[09:48] nebezpečí na orožení jeho života
+[09:50] či zdraví. To je uprchlík.
+[09:52] Takový člověk
+[09:55] určitě zasluhuje podporu.
+[09:57] Migrant je člověk,
+[09:59] který přichází nikoliv
+[10:01] z toho území, ale jenom
+[10:03] z toho důvodu, aby si
+[10:05] vylepšil svůj vlastní životní úroveň
+[10:07] a využívá, zneužívá
+[10:09] té situace
+[10:11] válečné k tomu, aby se sem dostal
+[10:13] na naše území
+[10:15] bez procedury, která
+[10:17] je standardní pro přijímání
+[10:19] těchto lidí. To jsou prostě lidé, kteří
+[10:21] fakticky zneužívají
+[10:23] té situace. Uvědomme si to.
+[10:25] Oni by se sem za normální okolností
+[10:27] nedostali a tak prostě
+[10:29] vlastně
+[10:31] se snaží vytvořit dojem, že
+[10:33] jsou uprchlíci a přijít sem
+[10:35] a vlastně s tou vlnou sesést.
+[10:37] A proto říkám, že každý člověk, který jede
+[10:39] na Ukrajinu na dovolenou, by měl
+[10:41] okamžitě ten status ztratit, protože není
+[10:43] uprchlík. Z logiky věci.
+[10:45] Prostě nevracíte
+[10:48] se tam, odkud prcháte.
+[10:50] Skutečný uprchlík, když
+[10:52] odchází ze své země, tak ví,
+[10:54] že už se tam pravděpodobně
+[10:56] nikdy nebude moci vrátit.
+[10:58] Všichni, kdo odcházeli z Československa
+[11:00] před rokem 89, odcházeli
+[11:02] s tím, že už se sem nikdy nevrátí,
+[11:04] že už neuvidí své příbuzné, že už
+[11:06] neuvidí své známé. Prostě s tím
+[11:08] odcházeli. Protože nechtěli žít
+[11:11] v režimu, který považovali za totalit.
+[11:13] To samé jsou lidé, kteří
+[11:15] prchají z různých
+[11:17] zemí z celého světa, kde jim opravdu
+[11:19] hrozí nebezpečí na jejich životě. Ale ti, co
+[11:21] přicházejí do Ceuty,
+[11:23] to nejsou žádní uprchlíci. To jsou
+[11:25] čistí ekonomiční migranti. A to
+[11:27] samé platí i Ukrajinci.
+[11:30] Tohle jsme měli dělat a já jsem rád, že Dánsko
+[11:32] sáhlo, přátelé, k tomu, co já jsem
+[11:34] navrhoval, od začátku
+[11:36] definovat
+[11:38] bezpečné oblasti na Ukrajině,
+[11:40] odkud ty uprchlíky, respektive
+[11:42] migranty, přijímat nebudeme.
+[11:44] Tohle udělalo Dánsko.
+[11:46] Když jsem to navrhoval já před čtyřmi lety,
+[11:48] tak jsem byl Putinův sluha,
+[11:50] byl jsem kremelská
+[11:52] hlasná trouba a bufí, co ještě
+[11:54] ksenofob a tak. A teď to udělat bych
+[11:56] Dánsko. Přesně to,
+[11:58] co jsem já navrhoval už před čtyřmi
+[12:00] lety. Definujme oblasti, které
+[12:02] jsou na Ukrajině bezpečné, kde
+[12:04] ta válka se jich dotýká
+[12:06] jenom velmi okrajově nebo vůbec
+[12:08] a odtamtud ty lidi nepřijímejme.
+[12:10] Jedině z těch
+[12:13] oblastí, kde ta válka skutečně působí,
+[12:15] kde skutečně hrozí akutní
+[12:17] nebezpečí, ohrožení života či
+[12:19] zdraví. Tohle jsme měli udělat od začátku.
+[12:21] A když to teď po čtyřech letech
+[12:23] se k tomu rozhoupá Dánsko, a já věřím, že
+[12:25] nebude jediné, že se tím budou inspirovat spoustu
+[12:27] dalších zemí, tak tím pádem
+[12:29] bude najednou všechno
+[12:31] v pořádku. Ale když to říkal Reichel, tak
+[12:33] byl proruský dizolát samozřejmě.
+[12:35] Takže pro mě, já bych to navrhl
+[12:37] rád, zase když mě někdo napíše
+[12:39] konejte, dělejte, řešte to,
+[12:41] já nemám většinu
+[12:43] a ani SPD nemá většinu
+[12:45] ve vládě. Nemůžeme
+[12:47] prosazovat něco, na co ostatní
+[12:49] partnéři nekývnou, protože je nás tam
+[12:51] patnáct. Respektive prosazovat
+[12:53] to můžeme, ale pravděpodobně se nám
+[12:55] to nepodaří. To, že
+[12:58] Tomio Okamura navrhl to, co
+[13:00] říkáme dávno, zrušit veškeré dávky
+[13:02] Ukrajincům, je naprosto správně.
+[13:04] Ale dokud to nebude mít podporu ostatních,
+[13:06] neprojdete.
+[13:08] To samé je s tímto
+[13:10] návrhem na definování
+[13:12] bezpečných oblastí.
+[13:14] To samé je to, co jsem říkal,
+[13:16] že bychom měli automaticky zavést trest
+[13:18] vyhoštění pro všechny cizince, kteří
+[13:20] u nás páchají trestný čin.
+[13:22] Musí s tím souhlasit ostatní. A nebo
+[13:24] nám musíte příště dát víc zavsu,
+[13:26] abychom měli sílu to proset.
+[13:28] Takže kdokoli, kdo říká konejte, řešte
+[13:30] to, já nejsem všemocný.
+[13:32] Já nemůžu přijít do sněmovny a říct
+[13:34] tak a od řícka to platí.
+[13:37] Takhle demokracie nefunguje.
+[13:39] A funguje podle toho, jak jsme v říjnu rozdali karty.
+[13:41] Takhle si to voliči přáli
+[13:43] a to v současné době je.
+[13:45] Když dnes mně píšete, proč
+[13:47] reagujeme na
+[13:49] ten incident v Lipsku tak, jak reagujeme,
+[13:51] tak já už jsem se k tomu vyjádřil
+[13:53] opakovaně. A vyjádřil se
+[13:55] k tomu i můj kolega, bývalý diplomat Petr Vacek.
+[13:57] Prostě já
+[13:59] neberu naši zahraniční politiku
+[14:01] z pozice kolonie, kde musíme se opičit
+[14:03] podle toho, co dělá Německo.
+[14:05] Z mého pohledu
+[14:07] je klíčové se ptát,
+[14:09] kde jsou důkazy.
+[14:11] A já prostě nebudu tady
+[14:13] zavírat to, že za to může Rusko, protože
+[14:15] se našel někde nějaký otisk nějakého
+[14:17] Belorusa, případně nějakého
+[14:19] člověka s lotišským pasem.
+[14:21] Prostě to je pro mě málo,
+[14:23] nezlobte se. Já už jsem, když se mě někdo
+[14:25] zeptal, co si myslí, že by nám lhali,
+[14:27] no lhali nám, už opakovaně.
+[14:29] Lhali nám o Nord Streamu, kdy
+[14:31] nám říkali, že je to vyhodilo do vzduchu Rusko.
+[14:33] Dnes jsou za to zatýkaní Ukrajinci.
+[14:35] A dokonce v Německu
+[14:37] zcela jednoznačně bylo
+[14:39] dokázáno, prokázáno těmi
+[14:41] vyšetřovacími orgány, že to bylo
+[14:43] napokyn vedení Ukrajiny.
+[14:45] To znamená, ukrajinský
+[14:47] stát, kterému my pomáháme,
+[14:49] podnikl teroristický útok proti
+[14:51] kritické evropské infrastruktuře.
+[14:53] Takhle je to jednoduché.
+[14:56] Lhali nám, že to byly Rusové.
+[14:58] V Převodově, pamatujete,
+[15:00] tam nejdřív
+[15:02] bouchly dvě rakety, které
+[15:04] údajně byly ruské. Převrátil
+[15:06] se tam traktor, zemřel tam člověk,
+[15:08] oni nám říkali, jak to byl kousek od skladu
+[15:10] ledku, který kdyby to zasáhlo,
+[15:12] tak tam byl ohňostroj.
+[15:15] A říkali nám dvě ruské rakety.
+[15:17] Dvě ruské rakety. Svolávala se
+[15:19] Bezpečnostní rada státu v Polsku.
+[15:21] Pani Černochová psala na Twitter, že to je
+[15:23] jednoznačný útok Ruska, že není
+[15:25] vůbec o čem hovořit. A že
+[15:27] je potřeba velmi tvrdě odpovědět
+[15:29] a zvážit společnou akci
+[15:31] států NATO. Pamatujete si NATO?
+[15:33] A najednou přišel Joe Biden
+[15:35] a říká, ne, ne, ne,
+[15:37] to nebyly dvě ruské rakety, to byla jedna
+[15:39] ukrajinská. A všimněte si
+[15:41] toho detailu, toho rozdílu, proč ze dvou
+[15:43] byla jedna. Protože
+[15:45] dvě rakety jsou umysl.
+[15:47] Nikdy nedopadnou dvě rakety na stejné
+[15:49] místo. Jedna raketa
+[15:51] se může vykládat jako omyl.
+[15:53] Zbloudělá raketa, raketa, která
+[15:55] byla protivzdušná, která měla
+[15:57] sestřelovat ruskou raketu a zblouděla
+[15:59] na polské území. Přesto,
+[16:01] že máme zjištěno ze systému
+[16:03] Vax, že v té době vůbec
+[16:05] Ukrajina ruskými rakety
+[16:07] bombardována
+[16:09] nebyla. Ze dvou raket
+[16:11] ruských, jedna ukrajinská. Proč?
+[16:13] Tohle je umysl, tohle
+[16:15] je náhoda, omyl.
+[16:18] Já bych se vsadil, že tam byly dvě ukrajinské
+[16:20] rakety, ne jedna, dvě. A že
+[16:22] skutečně cílem bylo trefit ten sklad letku,
+[16:24] protože prostě to by mělo daleko větší
+[16:26] dopad, daleko větší
+[16:28] reakci
+[16:30] ze strany občanů a
+[16:32] vyvolalo by to mnohem širší
+[16:34] pověď a mnohem větší strach u občanů
+[16:36] v celé Evropě.
+[16:38] A třešnička na dort,
+[16:40] minulý rok bývalý
+[16:42] polský prezident Andřej
+[16:44] Duda přišel do polského
+[16:46] podcastu, známého polského podcastu
+[16:48] a tam se jim moderátor ptal na tenhle
+[16:50] ten incident. A on mu
+[16:52] říkal, ptal se ho,
+[16:54] prosím vás pěkně pane prezidente,
+[16:56] vy jste věděli, že to je
+[16:58] ruská, že to je ukrajinská raketa
+[17:00] od začátku. A ten Duda úplně
+[17:02] s vážnou tváří v klidu řekl, ano věděli.
+[17:04] My jsme měli informace z toho
+[17:06] systému AVAX a okamžitě jsme věděli,
+[17:08] že to je raketa ukrajinská,
+[17:10] nikoliv ruská. A
+[17:13] potom další otázka byla, a volal vám
+[17:15] Zelensky, abyste se domluvali? A on říkal, ano
+[17:17] volal mi Zelensky. Volal mi
+[17:19] Zelensky a přesvědčoval mě,
+[17:21] abychom to svedli na Rusko,
+[17:23] abychom prohlásili, že to jsou ruské rakety.
+[17:25] S cílem, ten cíl
+[17:27] byl jednoduchý, zapojit, vyvolat
+[17:29] reakci samozřejmě a zapojit ty
+[17:31] západní státy do války s Ruskem.
+[17:33] A Zelensky dodnes
+[17:35] tvrdí, že to byly ruské rakety.
+[17:37] Přestože volal ten samý den
+[17:39] polskému prezidentovi a přemlouval
+[17:41] ho, aby na to
+[17:43] Rusko hodili. Lhář non
+[17:45] plus ultra, placený
+[17:47] několik let Ruskem 300 milionů
+[17:49] korun, dostal od Ruského
+[17:51] ministerstva kultury Volodymyr Zelensky.
+[17:53] Přátelé, až bude
+[17:55] zase někdo říkat, že tady
+[17:57] konečnou Reichla a Okamuru
+[17:59] platí rusové, tak jediný,
+[18:01] koho skutečně platili rusové
+[18:03] po několik let, a to až do roku 2022,
+[18:05] byl Volodymyr
+[18:07] Zelensky. Jeho firma
+[18:09] Green Films, která
+[18:11] patřila jeho rodině, kterou
+[18:13] měli, kde si on založil společnost
+[18:15] na Kypru Green Family, aby se vyhnul
+[18:17] placení daní
+[18:19] do daňového ráje. Takže prostě
+[18:21] člověk, který lhal v roce
+[18:23] 2019, tehdy říkal, že
+[18:25] s tím nemá nic společného, že
+[18:27] tu společnost nevlastní a tak dále.
+[18:29] Pak ukrajinčí novináři přišli na to, že ano
+[18:31] a Zelensky se musel omlouvat a
+[18:33] prodávat na oko samozřejmě
+[18:35] ten podíl svému kamarádovi.
+[18:37] Takže tenhle člověk, který
+[18:39] nám tady jednoznačně
+[18:41] prostě útočil na polské území,
+[18:43] volal prezidentu Dudovi,
+[18:45] aby se to hodilo na Rusko,
+[18:47] leže nám úplně
+[18:49] do kola, tak najednou my máme věřit,
+[18:51] přestože nám lhali ti Poláci,
+[18:53] bohužel, mrzí mě to, ale musím to tak říct,
+[18:55] Poláci nám lhali v tu dobu,
+[18:57] protože to věděli, že to tak nebylo,
+[18:59] přestože nám lhal Zelensky,
+[19:01] tak myslíte, že teď, týden před
+[19:03] dovolbama v Sasku a Andhalsku,
+[19:05] že nám ti Němci nelžou,
+[19:07] že to nemůže být jinak?
+[19:09] Já neříkám, že ano,
+[19:11] já chci jenom vidět důkazy.
+[19:13] Mně nestačí tvrdzení nějakých služeb,
+[19:15] že jsou si jisté a že to tak je.
+[19:17] A mimochodem,
+[19:19] a to je prosím nejdůležitější,
+[19:21] na co se zaměříme,
+[19:24] zatímco německá média tyto otázky
+[19:26] pokládají. Německá média
+[19:28] říkají, pane Merci,
+[19:30] ukažte nám ty důkazy, my je chceme vidět,
+[19:32] sliboval jste je.
+[19:34] Vítející říkající,
+[19:36] každý den vyzývá Merce,
+[19:38] ukažte nám důkazy.
+[19:40] Tak česká média vůbec
+[19:43] krásně posrsti
+[19:45] jednoznačně za tom, že Rusko,
+[19:47] nepotřebujeme žádné další důkazy,
+[19:49] je to úplně jasné, všichni to víme.
+[19:51] Abyste se nedivili, přátelé,
+[19:53] jako s tím převodovem
+[19:55] a jako s tím non-streamem.
+[19:57] Abyste se ještě nedivili.
+[19:59] Takže tohle, dámy a pánové,
+[20:01] pro mě vyjústňuje v jednu věc,
+[20:03] že já bych
+[20:05] v tuto chvíli
+[20:07] na místě naší vlády,
+[20:09] na místě našich ministrů,
+[20:11] na to nereagoval.
+[20:13] Byl bych velmi zdrženlivý,
+[20:16] byl bych velmi racionální.
+[20:18] Požadoval bych po německé straně důkazy,
+[20:20] ať mi je předloží,
+[20:22] abych se mohl sám rozhodnout
+[20:24] o tom, jakým způsobem
+[20:26] na celý ten incident zareaguji.
+[20:28] Já to vůbec nepodceňuji,
+[20:30] ten incident je vážný,
+[20:32] ať už ho spáchal kdokoliv,
+[20:34] ale vůbec bych se nedivil,
+[20:36] a FD v těch volbách,
+[20:38] a jednak vytvořili zase
+[20:40] další záminku pro silnější reakci
+[20:42] západní Evropy a vtažení do konfliktu
+[20:44] proti Rusku.
+[20:46] Do té doby, dokud neuvidím důkazy,
+[20:48] já bych v žádném případě
+[20:50] nereagoval tím, že si pozvu
+[20:52] velvyslankyni, budu ji někde kárat,
+[20:54] když prostě sám nevím.
+[20:56] Pro mě opravdu nestačí to,
+[20:58] že někdo řekne, takhle to bylo,
+[21:00] a já si tím jistý,
+[21:02] aniž by mě předložil jakýkoliv důkaz.
+[21:04] No a když už jsme u toho,
+[21:07] tak jste jistě zaregistrovali,
+[21:09] minulý týden já jsem vám říkal,
+[21:11] že v Moskvě byl na vyjednávání
+[21:13] šéf CIA,
+[21:15] pan Radcliffe, společně se
+[21:17] šéfem diplomacie Vatikánu,
+[21:19] a tento týden už přiletěli
+[21:21] dokonce Vitkov s Kushnerem,
+[21:23] což jsou dva velmi blízcí muži
+[21:25] Donaldu Trumpovi,
+[21:27] a vyjednávají na
+[21:29] na tom území nebo na té platformě
+[21:31] s nejvyššími ruskými představiteli
+[21:33] podmínky míru.
+[21:35] Kde jsou přátelé, teď prosím vás,
+[21:37] pochopně ti opozičníci
+[21:39] a tam naše média, která nám tvrdily,
+[21:41] že Rusko žádný mír nechce,
+[21:43] že o něm nikdy nechtělo jednat,
+[21:45] že je to jenom habaďůra,
+[21:47] že jejich cílem je
+[21:49] dobít celou Ukrajinu
+[21:51] a potom zautočit na západní Evropu.
+[21:53] Kde jste, prosím vás, teď?
+[21:55] Sám Donald Trump řekl, že to není cílem Ruska.
+[21:57] Kde jste, Wilháři, teď?
+[22:00] V Moskvě se vyjednává mír?
+[22:02] Proč tam musí letět Vitkov a Kushner?
+[22:04] Proč tam není někdo z Evropské unie?
+[22:06] Zeptejte se, proč
+[22:08] Francie neposlala své vyjednavače?
+[22:10] Evropská unie, která se
+[22:12] tak zaklíná tím, že by chtěla mír?
+[22:14] Německo, proč
+[22:17] nepošlou své vyjednavače? Proč tam letí američané?
+[22:19] Protože američané a rusové
+[22:21] v tuto chvíli
+[22:23] jsou jediné dvě strany, které
+[22:25] reálně ten mír chtějí na Ukrajinu.
+[22:27] A je mi strašně líto, že to tak musím říct.
+[22:29] Jsou to jediné dvě země, které
+[22:31] opravdu stojí o ukončení toho konfliktu.
+[22:33] Nestojí o to Evropská unie,
+[22:36] protože rozjela
+[22:38] naprosto nepokrytě
+[22:40] válečnou ekonomiku a cpe stovky
+[22:42] miliard z našich daní zbrojarským firmám,
+[22:44] které velmi často sponsorují ty největší
+[22:46] politiky. Evropská unie
+[22:48] bohužel nechce mír na Ukrajině. I když
+[22:50] se tím zaklíná, je to lež.
+[22:52] Jim se ta válka hodí a chtějí, aby pokračovala.
+[22:54] A bohužel
+[22:56] tu válku nechce ani
+[22:58] nechce ukončit ani
+[23:00] Volodymyr Zelenský. Ani on ji
+[23:02] nechce ukončit. Protože
+[23:04] ví, že by tím skončil.
+[23:06] Skončil by tím on a skončil by tím
+[23:08] jeho období rozkrádání
+[23:10] veřejných financí a zahraniční
+[23:12] finanční pomoci. On moc
+[23:14] dobře ví, že dokud ta válka trvá,
+[23:16] tak on se bude držet toho
+[23:18] svého křesílka a bude moci krást miliardy.
+[23:20] A minimálně bude chtít ještě
+[23:23] rozkrást velkou část té půjčky
+[23:25] těch 90 miliard eur, protože
+[23:27] možná jste si všimli, že požádal
+[23:29] Evropskou unii o předčasnou
+[23:31] splátku. Ta půjčka je rozdělená do několika
+[23:33] tranží a
+[23:35] Volodymyr Zelenský už proti tomu kalendáři
+[23:37] požádal o tu tranži
+[23:39] vyplatit dříve, protože cítí, že se mu
+[23:41] krátí čas.
+[23:44] Mimochodem další akce Kraken
+[23:46] zachycen při korupci
+[23:48] šéf žalobců, nejvyšší
+[23:50] státní zástupce Ukrajiny.
+[23:52] Je jednodušší spíš najít někoho,
+[23:54] kdo tam...
+[23:56] nebo spíš bychom měli to udělat obráceně
+[23:58] a psát těch, kteří v korupci
+[24:00] zapojení nejsou, ale to by ten
+[24:02] seznam byl hodně krátký.
+[24:04] Takže bohužel a
+[24:06] ten, kdo chce mír, samozřejmě
+[24:08] jsou obyčejní lidé.
+[24:10] V Rusku, na Ukrajině, v Evropě
+[24:12] nikdo tu válku nechce.
+[24:14] Ale státní
+[24:17] vedení těch jednotlivých států
+[24:19] a právě ty kliky
+[24:21] kolem zbrojařů, které fakticky vládnou
+[24:23] evropským politikům a
+[24:25] Volodymyr Zelenský, který se drží v zuby nechty
+[24:27] u svého kormidla, tak ti tu válku
+[24:29] bohužel, bohužel, bohužel
+[24:31] chtějí dál. Proto je
+[24:33] prodlužována. Já doufám, že
+[24:35] to vyjednávání dopadne úspěšně, protože
+[24:37] američané se chtějí soustředit na
+[24:39] situaci v Iránu. Ukrajina
+[24:41] je pro ně v tuto chvíli přítěží. To znamená,
+[24:43] pokyn je podle mého názoru jasný
+[24:45] a to je dojednat podmínky míru za
+[24:47] každou cenu. Já pevně doufám, že se to
+[24:49] povede. A nejvtipnější okamžik
+[24:51] bude, bude na jednu
+[24:53] stranu vtipný a na druhou stranu velmi smutný,
+[24:55] že ty podmínky
+[24:57] budou přesně takové, které já jsem
+[24:59] tvrdil, že budou už před třemi
+[25:01] lety. A tehdy mě všichni říkali,
+[25:03] že to bude kapitulace, že nic takového
+[25:05] na to nemůžeme přistoupit a že je
+[25:07] potřeba válčit do posledního Ukrajince.
+[25:09] A já jsem tehdy říkal, stejně to
+[25:11] tak dopadne. Je to jenom otázka,
+[25:13] jestli to bude trvat dva roky, tři roky,
+[25:15] pět let nebo deset let, ale takhle
+[25:17] to dopadne. A jediný rozdíl
+[25:19] bude v tom, že utratíme
+[25:21] stovky miliard dolarů z našich peněz,
+[25:23] které bychom mohli investovat
+[25:25] do rozvoje naší země.
+[25:27] A v tom, že zemře několik milionů
+[25:29] lidí. V tom je jeden
+[25:31] jediný rozdíl, jinak ten výsledek
+[25:33] bude naprosto stejný. Když jsme
+[25:36] za chcimíry, tak
+[25:38] ať si to potom zodpoví všichni tihleti
+[25:40] chciválci,
+[25:42] kteří nás
+[25:44] tímhletím způsobem dehonestovali
+[25:46] a nálepkovali,
+[25:48] jako například
+[25:50] pan Dvořák, pan Rakušan a další
+[25:52] všichni ti stanaři, kteří tam jsou.
+[25:54] No a tolik
+[25:56] za mě, co se týče té zahraniční
+[25:58] politiky, pojďme na tu domácí.
+[26:00] Já bych chtěl, přátelé,
+[26:02] poznavat na to, že
+[26:04] kromě té debaty, kterou jsme viděli na Primě
+[26:06] v té druhé hodině,
+[26:08] tak jsme viděli rozhovor s Andrejem Babišem
+[26:10] v té hodině první.
+[26:12] A mě obrovským způsobem zaujal
+[26:14] naprosto diametrálně rozlišný
+[26:16] přístup k vedení toho rozhovoru
+[26:18] mezi před týdnem,
+[26:20] když tam byl prezident, a teď, když tam byl
+[26:22] premiér. Před tím týdnem
+[26:25] vůči prezidentovi to byla servilita,
+[26:27] poslušnost,
+[26:29] ano pane prezidente,
+[26:31] samozřejmě pane prezidente,
+[26:33] jedno jediné skočení do řeči
+[26:35] tam nebylo, a najednou proti Babišovi
+[26:37] velmi tvrdé
+[26:39] dotazy, velmi jaksi
+[26:41] neustále přerušování skákaní
+[26:43] do řeči. Tak pardon, buď tedy
+[26:45] oběma stejně,
+[26:47] nebo se nemáme vůbec o objektivitě
+[26:49] co bavit. A pokud někdo chce říct, že
+[26:51] je rozdíl mezi prezidentem a premiérem,
+[26:53] tak fajn, tak mě potom
+[26:55] vysvětlete, proč jste vy,
+[26:57] který fandíte Petrovi Pavlovi,
+[26:59] tak strašně moc tleskali
+[27:01] té mladičké holčině,
+[27:03] která už nevím ani jak se jmenuje, Adela Snopová
+[27:05] z TV Nova, která velmi tvrdě
+[27:07] útočila na bývalého prezidenta
+[27:09] Václava Klauze. Proč
+[27:11] budeme útočit na bývalého prezidenta
+[27:13] a předtím současným se plazit po kolenou
+[27:15] a v obou dvou případech
+[27:17] tomu budete tleskat?
+[27:20] Zase dvůj kilometr jako nikdy. No a samozřejmě
+[27:22] kult osobnosti Petr
+[27:24] Pavl projel se s Harleym
+[27:26] motorce Harley
+[27:28] v čele průvodu motorkářů
+[27:30] ve flanelové košeli.
+[27:32] Kim-irsenizace, pamatujte si
+[27:34] tenhle výrok, já jsem ho říkal,
+[27:36] je to můj termín, je to kim-irsenizace
+[27:38] Petra Pavla.
+[27:40] Neustále nadšené tleskání,
+[27:42] už jenom čekám, kdy prostě řeknou, že
+[27:44] díky Petrovi Pavlovi tady vychází každý den
+[27:46] slunce. Opravdu bych se tomu vůbec nedivil,
+[27:48] kdyby tomu bylo, kdyby tomu bylo
+[27:50] jinak. Tak.
+[27:53] No a přátelé,
+[27:55] pojďme tedy na tu klíčovou
+[27:57] věc, kterou jsem vám dnes líbil
+[27:59] a to je dozimetr.
+[28:01] Jak jistě víte,
+[28:05] já udělám krátkou rekapitulaci,
+[28:07] abychom se bavili v nějakém časovém
+[28:09] rámci. My jsme,
+[28:11] já jsem úplně hned po začátku,
+[28:13] po začátku našeho volebního
+[28:15] období, když jsme byli zvoleni,
+[28:17] tak jsem začal obcházet
+[28:19] jednotlivé koaliční partnery a domluval
+[28:21] vznik této sněmovní
+[28:23] vyšetřovací komise.
+[28:25] To se nakonec podařilo a
+[28:27] ten návrh byl zařazen
+[28:29] na březen do poslanecké sněmovny,
+[28:31] kde byla sněmovní
+[28:33] vyšetřovací komise schválena.
+[28:35] Nasledně
+[28:38] jsme potřebovali navolit její členy,
+[28:40] protože ten proces je takový, že
+[28:42] nejdřív musíte ustanovit tu komisi,
+[28:44] potom za nějakou dobu
+[28:46] zvolit její členy
+[28:48] a potom zvolit
+[28:50] předsedu té komise. Všechno dělá
+[28:52] poslanecká sněmovna. Takže
+[28:54] nakonec, díky tomu, že
+[28:56] opozice obstruovala,
+[28:58] a nechtěla ty volební body
+[29:00] zařadit, zřejmě také právě kvůli
+[29:02] této sněmovní vyšetřovací komisi,
+[29:04] tak jsme tu komisi měli
+[29:06] komplet hotovou až v černu.
+[29:08] Ještě jsme rychle zvolali
+[29:10] jedno jednání před prázdninami,
+[29:12] je nás tam 13, opravdu
+[29:14] přes prázdniny není možné
+[29:16] zajistit termín, kde bychom se všichni
+[29:18] sešli. Na té
+[29:20] komisi před těmi prázdninami
+[29:22] jsme se dohodli na tom,
+[29:24] že oslovíme státní zastupitelství
+[29:26] s tím, aby nám poskytlo
+[29:28] k prostudování kompletní vyšetřovací
+[29:30] spis, včetně pomocného
+[29:32] spisu vyšetřovatele. To je spis,
+[29:34] který je neveřejný
+[29:36] a kde vlastně jsou různé
+[29:38] poznatky, které se potom nikde
+[29:40] neobjeví, nikde veřejně nejsou
+[29:42] dostupné ani pro ty obviněné,
+[29:44] ani pro ty obhájce. Abychom věděli,
+[29:46] jak policie postupovala, jakým způsobem
+[29:48] konala či nekonala.
+[29:50] To jsme udělali a na začátku
+[29:53] července jsme odeslali
+[29:55] žádost státnímu zastupitelství,
+[29:57] aby nám tyto materiály
+[29:59] poskytli. Vycházeli
+[30:02] jsme z toho, že v předchozích případech
+[30:04] s tím nebyl nejmenší
+[30:06] problém. Například u vyšetřovací
+[30:08] komise v kauze Bečova,
+[30:10] která se týkala, samozřejmě nebo mířila
+[30:12] v náhnutí ANO,
+[30:14] tak tam státní zastupitelství, přesto,
+[30:16] že se jednalo o živou kauzu,
+[30:18] spis bez nejmenších problémů
+[30:20] poskytl. V tomto případě
+[30:23] nám odpověděli zhruba za 14
+[30:25] dní, že nám nic nedají.
+[30:27] Tak jsme připravili další odpověď,
+[30:29] trávili jsme na tom spoustu času
+[30:31] a velmi
+[30:33] poctivě jsme právně vyargumentovali,
+[30:35] proč by nám ten spis poskytnout
+[30:37] měli, protože jej nutně
+[30:39] potřebujeme a protože bez toho
+[30:41] komise není schopná plnit svůj úkol,
+[30:43] který zadala poslanecká sněmovna
+[30:45] tak, jak má.
+[30:48] A týden před zasedáním
+[30:50] té komise, která byla teď
+[30:52] v pátek, tak nám státní zastupitelství
+[30:54] odpovědělo po druhé, bohužel to
+[30:56] trvalo dlouho, asi měsíc,
+[30:58] tak nám odpověděli po druhé, že nám opět nic
+[31:00] nedají. Za té situace
+[31:02] předvolávat svědky už prostě nemělo smysl,
+[31:04] protože bychom to nestihli. To znamená,
+[31:06] byl to domluvený, odhlasovaný postup,
+[31:08] který nešel zrealizovat
+[31:10] jinak. Chci říci,
+[31:13] že my nemůžeme ten spis získat
+[31:15] nelegálně. Já nemůžu
+[31:17] za žádnou cenu, a shodli
+[31:19] jsme se na tom všichni jednomyslně,
+[31:21] dělat jakékoliv úkroky
+[31:23] nebo
+[31:25] postupy k tomu, které by nám
+[31:27] prostě ten spis zajistili nějakou pokoutnou
+[31:29] cestou. Takhle ta komise
+[31:31] fungovat nemůže a byla by okamžitě
+[31:33] zdiskreditována. Já se
+[31:36] musím ptát, proč státní zastupitelství
+[31:38] odmítá nám
+[31:40] tyto materiály poskytnout, protože
+[31:42] dle mého názoru na to právně
+[31:44] máme jednoznačný nárok.
+[31:46] Státní zastupitelství píše,
+[31:49] že by
+[31:51] muselo být tomu ze zákona
+[31:53] zmocněno, že by ta povinnost jim musela být
+[31:55] uložena zákonem. Paragraf
+[31:57] 48 odstavec 4 jednacího
+[31:59] řádu poslanecké sněmovny,
+[32:01] který je zákonem,
+[32:03] tak jasně říká,
+[32:05] že sněmovní vyšetřovací
+[32:07] komise je oprávněna
+[32:09] pořizovat materiály,
+[32:11] přizvat si tlumočníka,
+[32:13] předvolávat svědky.
+[32:15] To je napsáno přímo v tom paragrafu.
+[32:17] Pokud tedy máme zmocnění
+[32:19] pořizovat si materiály,
+[32:21] pak logicky z tohoto argumentu
+[32:23] vyplývá, z tohoto zákonného ustanovení,
+[32:25] že ty ostatní
+[32:27] instituce a subjekty
+[32:29] veřejné správy jsou povinny nám je
+[32:31] poskytnout. Pokud ne,
+[32:33] tak bychom nic obstarat nemohli, logicky.
+[32:35] Nicméně
+[32:39] ta snaha jakýmkoliv
+[32:41] způsobem blokovat
+[32:43] tu naši práci je tady evidentní.
+[32:45] Proto jsme se dohodli na postupu,
+[32:47] který nám
+[32:49] ten spis
+[32:51] zcela jistě v nějaké době
+[32:53] by zajistit měl.
+[32:55] Ten první je
+[32:57] žádost k soudům.
+[32:59] Je to vedeno v současné době,
+[33:01] je to řízení u dvou soudů.
+[33:03] To znamená, půjde žádost k těm soudům,
+[33:05] ale i s ony.
+[33:07] Pevně doufám, že soud bude
+[33:09] konat rozumně, protože tam není ten důvod
+[33:11] nějakého tvrzení,
+[33:13] že by tím byla porušena rovnozbraní a podobné věci.
+[33:15] Pokud ne,
+[33:18] neprospektive paralelně s tím,
+[33:20] tak aby prostě už nebylo
+[33:22] možné tancovat na tomto
+[33:24] výkladu, že
+[33:26] právo pořizovat různé
+[33:28] písemné materiály a dokumenty,
+[33:30] že tomu nekoresponduje povinnost
+[33:32] státních orgánů tyto dokumenty
+[33:34] vydat, tak chceme
+[33:36] novelizovat trestní řád,
+[33:38] který máme v tuto chvíli projednávání
+[33:40] ve druhém čtení,
+[33:42] tak aby tam bylo jasně a explicitně
+[33:44] napsáno, že orgány činné v trestním
+[33:46] řízení jsou povinny
+[33:48] poskytnout sněmovní vyšetřovací
+[33:50] komisi nebo i senátní vyšetřovací
+[33:52] komisi potřebnou součinnost.
+[33:54] Je to jedna věta, ale
+[33:56] ta to prostě vyřeší.
+[33:58] A vyřeší to nejenom pro tuto komisi,
+[34:00] ale pro všechny komise budoucí,
+[34:02] protože nevylučuju, že tady může být
+[34:04] komise na bitcoiny a další věci.
+[34:06] A já budu velmi rád, když to prostě tímto
+[34:08] způsobem jednou provždy vyřešíme.
+[34:10] Paralelně s tím,
+[34:13] tedy protože nám státní zastupitelství
+[34:15] odmítlo dokonce poskytnout
+[34:17] trvalé bydliště obviněných,
+[34:19] což je z mého pohledu úplně
+[34:21] bezprecedentní,
+[34:23] a kde nevidím opravdu už jedinou
+[34:25] zákonnou oporu pro tento krok,
+[34:27] tak budeme zvát
+[34:29] svědky a nebojte se my,
+[34:31] jestli ty adresy dokážeme obstarat
+[34:33] vlastní cestou. Přesto,
+[34:35] že jsme předpokládali, že státní zastupitelství
+[34:37] samo bude mít zájem
+[34:39] na tom, abychom
+[34:41] došetřili vše, co se týká
+[34:43] této kauzy dozimetra.
+[34:46] Státní zastupitelství by mělo být první,
+[34:48] kdo by na tom měl mít zájem,
+[34:50] protože jestliže občané
+[34:52] mají mít důvěru
+[34:54] v nestranost a
+[34:56] v efektivitu justičních orgánů,
+[34:58] orgánů činných v trestním řízení,
+[35:00] tak tady nemůže existovat kauza,
+[35:02] v níž jsou dány důvodné pochybnosti,
+[35:04] že někdo
+[35:06] to vyšetřování zastavil.
+[35:08] V níž jsou dány důvodné pochybnosti,
+[35:10] že těch několik úmrtí, které tam bylo,
+[35:12] nebylo úplně
+[35:14] úmrtími náhodnými.
+[35:17] Předpokládal jsem, že budeme
+[35:19] naopak jaksi zahrnuti
+[35:21] maximální možnou podporu.
+[35:23] Není tomu tak a
+[35:26] vy sami si prosím odpověste proč.
+[35:28] To, co považuji za naprosto skandální,
+[35:31] je pak chování
+[35:33] poslance Papajanovského
+[35:35] z Hnutí stan. Logicky ví,
+[35:37] že to vyšetřování ohrožuje
+[35:39] Hnutí stan a že pokud bychom byli
+[35:41] úspěšní, tak to může být také konec
+[35:43] tohoto politického subjektu,
+[35:45] včetně jeho politické kariéry.
+[35:47] Poslanec Papajanovský
+[35:50] porušil usnesení,
+[35:52] které jsme
+[35:54] přijali naprosto demokraticky
+[35:56] v rámci naší sněmovní
+[35:58] vyšetřovací komise.
+[36:01] Vždy a za všech okolností a ve všech
+[36:03] případech v minulosti bylo
+[36:05] odhlasováno, že za sněmovní vyšetřovací
+[36:07] komisi hovoří na tiskových konferencích
+[36:09] a závěry komunikuje její
+[36:11] předseda a místopředsedové.
+[36:13] Abychom byli fér, tak jsme jednoho
+[36:15] místopředsedou nabídli opozici.
+[36:18] Tím místopředsedou je paní poslankyně
+[36:20] Ančincová z Pirátů, která z rodinných
+[36:22] důvodů se nemohla zúčastnit
+[36:24] toho jednání v pátek
+[36:26] a tak jsme znovu byli vstřícní
+[36:28] a poskytli jsme, nebo umožnili jsme,
+[36:30] aby za ní přišel
+[36:32] na tiskovou konferenci pan poslanec Žáček
+[36:34] z ODS, aby to nevypadalo
+[36:36] tak, že opozice
+[36:38] není zastoupena.
+[36:40] Shodli jsme se na tom, co na té
+[36:42] tiskové konferenci budeme říkat
+[36:44] a pan poslanec Žáček, musím říct,
+[36:46] velmi férově to respektoval, stejně tak,
+[36:48] jako jsme to respektovali já a kolega
+[36:50] Helebrant, který je druhým místopředsedou té komise.
+[36:52] Přesto Jan Papajanovský
+[36:56] reagoval tak,
+[36:58] že začal svoji vlastní
+[37:00] komunikační rinku,
+[37:02] že začal novinářům trousit informace,
+[37:04] které jsou naprosto lživé
+[37:06] a nepravdivé a které
+[37:08] jejíž jediným cílem je zdiskreditovat
+[37:10] jednání té komise. On na té komisi
+[37:12] vždycky říká, že mu také jde o to, aby byl
+[37:14] ten dozimetr vyšetřen. Není to pravda.
+[37:16] Evidentně se snaží jednání té
+[37:18] komise sabotovat. Chci říct si
+[37:21] jasně a jednoznačně,
+[37:23] že v předchozím případě,
+[37:25] kdy byla tady komise
+[37:27] k vyšetřování Filozofické fakulty
+[37:29] Univerzity Karlovy,
+[37:31] tak byl dohodnut úplně stejný postup,
+[37:33] naprosto totožný postup
+[37:35] pro komunikaci, to znamená,
+[37:37] že pouze předseda a místopředsedové
+[37:39] se k tomu vyjadřovali.
+[37:41] Tehdejší opozice,
+[37:43] poslanci za ANO a SPD,
+[37:45] pan doktor Mašek,
+[37:47] paní profesorka Válková,
+[37:49] Radek Koten z SPD,
+[37:51] to do puntíku respektovali.
+[37:53] Do puntíku.
+[37:55] Ani jednou, přestože o to byli
+[37:57] opakovaně žádáni různými médii,
+[37:59] ani jednou
+[38:01] se k té věci nevyjadřili,
+[38:03] s odkazem na to, že respektují
+[38:05] usnesení, které bylo na té komisi přijato.
+[38:07] Poslanec Papajanovský
+[38:10] to porušil hned po druhém jednání,
+[38:12] a věřte mi, že jsme na něj
+[38:14] všichni oprávněni rozlobeni,
+[38:16] protože vidíme, že jeho cílem
+[38:18] prostě není pomáhat Nýbrž sabotovat.
+[38:20] Nad to tvrzením,
+[38:23] že se nenechá
+[38:25] Reichlem cenzurovat,
+[38:27] které zmínil do médií,
+[38:29] je zcela vylhané,
+[38:31] protože znovu říkám, to nebylo rozhodnutí moje,
+[38:33] bylo to demokratické hlasování
+[38:35] celé komise,
+[38:37] které tímto způsobem proběhlo,
+[38:39] a které, jak říkám, plně vycházelo
+[38:41] ze zažité a ustálené
+[38:43] praxe všech sněmovních vyšetřovacích komisí.
+[38:45] Takže když
+[38:48] to dříve naši poslanci respektovali,
+[38:50] tak to cenzura nebyla,
+[38:52] tak samozřejmě se jim to hodilo do krámu,
+[38:54] nyní najednou to podle
+[38:56] pana Papajanovského cenzura je.
+[38:58] Nad to znovu říkám, to není můj vymysl,
+[39:00] ale klíčové, nebo respektive
+[39:02] naprosto demokraticky přijaté
+[39:04] usnesení. Je to stejné, jako kdybyste
+[39:06] tvrdili, že se nebudete
+[39:08] řídit zákonem, protože jste pro něj nehlasovali.
+[39:10] On říká, já jsem proto nehlasoval,
+[39:12] pro mě to neplatí. Je to stejné,
+[39:14] jako kdybychom si ohlasovali zákon,
+[39:16] část poslanců
+[39:18] ho neschválila, hlasovala by proti,
+[39:20] nebo by se zdržela a řekla by,
+[39:22] my se tím zákonem řídit nebudeme,
+[39:24] protože jsme hlasovali proti
+[39:26] a my prostě se nenecháme tímto
+[39:28] způsobem omezovat. Je to úplně stejné.
+[39:30] A to, co mě absolutně
+[39:33] nejvíc zaráží,
+[39:35] je přístup některých mainstreamových médií,
+[39:37] které na tohle skáčou.
+[39:39] I dnes to napsal naprosto férově.
+[39:42] To, co ovšem předvedl
+[39:44] pan Štídlo ze Seznamu zpráv,
+[39:46] je ukázka
+[39:48] absolutního žurnalistického
+[39:50] selhání
+[39:52] a totálního neprofesionalismu.
+[39:54] Jindří Štídlo byl člověk,
+[39:56] který dříve komentoval fotbal,
+[39:58] když jsem se v něm pohyboval. Nerozuměl.
+[40:00] Pak
+[40:03] se přesunul na politiku.
+[40:05] Nerozumí ještě víc.
+[40:07] Ale výborně reprezentuje
+[40:09] zájmy svých donátorů, kteří je
+[40:11] základní.
+[40:14] Tento člověk se vysmívá
+[40:16] tomu, že jsme ty materiály
+[40:18] od státního zastupitelství nedostali.
+[40:21] Pojďte se zeptat se mnou.
+[40:23] Kdybychom vyšetřovali
+[40:25] například Čapí hnízdo
+[40:27] a státní zastupitelství by nedalo materiály,
+[40:29] neposkytlo by sněmovní vyšetřovací materiály
+[40:31] komisi, kde by měla
+[40:33] převahu bývalá pětikoalice,
+[40:35] ten samý Štídlo
+[40:37] by křičel,
+[40:39] že to je
+[40:41] totální selhání,
+[40:43] že státní zastupitelství
+[40:45] chrání Andreje Babiše,
+[40:47] že je povinno ty materiály poslat
+[40:49] atd.
+[40:52] Ten samý Štídlo by
+[40:54] kdyby se to týkalo Babiše,
+[40:56] křičel na všechny strany,
+[40:58] že státní zastupitelství je ovládáno
+[41:00] Babišem a že krije Babišovi
+[41:02] nekalé zájmy
+[41:04] a nekalé praktiky. Garantuju vám to.
+[41:06] Tyhle lidé
+[41:10] v sobě nemají špetku férovosti,
+[41:12] špetku smyslu pro objektivitu.
+[41:14] Tyto lidé
+[41:16] nechtějí referovat o tom,
+[41:18] co se skutečně děje.
+[41:20] Tyto lidé pouze plní zadání,
+[41:22] které jim dali jejich laboráci.
+[41:24] A je šokující, že média,
+[41:26] která by první měla tlačit na to,
+[41:28] aby to vyšetřování bylo úspěšné,
+[41:30] které by měly
+[41:32] s námi spolupracovat na tom,
+[41:34] abychom se dobrali až na dno té žumpy
+[41:36] jménem dozimetr, abychom zjistili
+[41:38] skutečně, kam až tahle
+[41:40] ta rakovina byla rozlezlá
+[41:42] a metastázovaná,
+[41:44] tak ta média v podstatě tleskají,
+[41:46] k tomu Papajanovskému,
+[41:48] který tady lže o 106,
+[41:50] kdy a ještě ke všemu se snaží
+[41:52] to jednání sabotovat.
+[41:55] Já bych vám chtěl říci,
+[41:57] že i přes omezené možnosti,
+[41:59] které sněmovní vyšetřovací komise
+[42:01] má k dispozici,
+[42:03] tak já za sebe
+[42:05] a i s mými kolegy
+[42:07] uděláme absolutně všechno pro to,
+[42:09] abychom skutečně tohle klubko rozmotali.
+[42:11] A jestliže pan Papajanovský
+[42:14] sundal rukavice,
+[42:16] tak já jsem připravený
+[42:18] ji zvednout,
+[42:20] tu odhozenou rukavici
+[42:22] a věřte mi, že stanu z toho
+[42:24] veselo nebude.
+[42:27] My jsme byli, co by koalice
+[42:29] a s převahou v rámci té sněmovní vyšetřovací komisi
+[42:31] extrémně slušní
+[42:33] a korektní
+[42:35] a myslím, že to může potvrdit
+[42:37] každý, kdo tam seděl,
+[42:39] včetně některých členů opozice.
+[42:42] Pan Papajanovský,
+[42:44] namísto toho, aby si toho vážil,
+[42:46] aby ocenil tu naši korektnost,
+[42:48] tak předvedl
+[42:50] prostý opak
+[42:52] a předvedl nám také to,
+[42:54] jak je ochoten nerespektovat
+[42:56] jasné usnesení,
+[42:58] které dáno komisí,
+[43:00] které on je členem.
+[43:02] My se podle toho zařídíme
+[43:05] a věřte mi, že já udělám
+[43:07] a znovu říkám, není to vůbec nic jednoduchého,
+[43:09] ale udělám všechno, co je v mých silách,
+[43:11] abychom se
+[43:13] dopátrali pravdy.
+[43:16] A jestliže to přátelům z opozice nevoní,
+[43:18] tak vůbec není problém
+[43:20] zahájit i tu bitcoinovou kauzu,
+[43:22] a další jejich lumpárny,
+[43:24] které tady byly.
+[43:27] Chtěl bych vás, přátelé, požádat o jednu věc.
+[43:29] Ať už půjdete volit
+[43:31] kohokoliv na sledujících
+[43:33] komunálních a senátních volbách,
+[43:35] nevolte stan.
+[43:38] Je to mafiánské hnutí,
+[43:40] jsou to lidé, kteří nerespektují žádné dohody,
+[43:42] jsou to lidé, kteří
+[43:44] nerespektují ani demokratické
+[43:46] rozhodnutí orgánu,
+[43:48] kterými jsou členy.
+[43:51] Jsou to lidé, kteří nerespektují vůbec nic.
+[43:53] Jejich jediná snaha
+[43:55] je udržet se u korita
+[43:57] a dál vysávat
+[43:59] veřejné rozpočty.
+[44:04] Nebude, jak říkám, to vůbec jednoduché,
+[44:06] ale mám tam skvělé kolegy
+[44:08] a myslím, že nakonec
+[44:10] úspěšní budeme.
+[44:12] Minimálně nám tahle
+[44:14] extempore, které se
+[44:16] v tuto chvíli stalo,
+[44:18] tak nám pomůže k tomu, abychom vyjasnili
+[44:20] pravomoci té sněmovní vyšetřovací komise
+[44:22] a aby ty další,
+[44:24] které vzniknou,
+[44:26] měly tu práci mnohem lehčí.
+[44:29] I to je velmi dobrý výsledek
+[44:31] toho, co se stalo.
+[44:33] Ale věřte mi, že v žádném případě
+[44:35] to není tak, jak říká pan Papajanovský,
+[44:37] že by jsme
+[44:39] nějakým způsobem byli liknaví,
+[44:41] nebo že by nás státní zastupitelství školilo.
+[44:43] Ne. Bohužel státní zastupitelství
+[44:45] nemá pravdu v té právní argumentaci
+[44:47] zcela jednoznačně,
+[44:49] ale já nemám k dispozici možnost,
+[44:51] jakým způsobem ten spis
+[44:53] si vzít.
+[44:55] Já tam nemůžu přijít a ukrást.
+[44:57] To opravdu nejde.
+[44:59] To znamená, že pokud je tady
+[45:01] nějaká nečinnost z té strany,
+[45:03] tak já musím zvolit všechny další
+[45:05] způsoby, abychom se k tomu spisu dostali
+[45:07] legálně.
+[45:09] A já jsem také naprosto jist
+[45:11] a přesvědčen, že se nám to podaří.
+[45:13] Stejně tak budeme předvolávat
+[45:16] další svědky a myslím si, že to začne být
+[45:18] ještě velmi zajímavé.
+[45:21] Chápu, že pro mnoho z vás se to
+[45:23] může jevit tak, že to trvá dlouho.
+[45:25] Chápu to.
+[45:27] Ale bohužel tady to není
+[45:29] jak uspěchat a v době práce
+[45:31] nikdy ta komise nezasedala,
+[45:33] tak prostě není možné žádným
+[45:35] způsobem, jak si něco uspíšit
+[45:37] a něco udělat jinak, protože prostě na všechny
+[45:39] ty kroky je potřeba souhlasu té komisy.
+[45:41] Další zasedání máme
+[45:43] na plánu 17. září
+[45:45] a tuto chvíli,
+[45:47] tím, že už začala
+[45:49] ta klasická poprázdninová rutina,
+[45:51] tak ty věci začnou běžet
+[45:53] trošku rychleji. Ale prosím, dejte nám čas.
+[45:55] Není to vůbec jednoduché
+[45:57] a myslím, že nakonec
+[45:59] se nám na začátku
+[46:01] roku 2027 podaří získat i ten spis
+[46:03] a pak budeme ještě
+[46:05] mnohem efektivnější.
+[46:07] Ale k tomu, abychom vám
+[46:09] přinesli závěry našeho vyšetřování,
+[46:11] k tomu se dostaneme jak s tím spisem,
+[46:13] tak i bez něj. Věřte mi, že uděláme
+[46:15] pro to absolutní maximum.
+[46:17] Přátelé, chtěl bych vás požádat ještě o jednu věc
+[46:19] a opět dám
+[46:24] tady odkaz na naši
+[46:26] stranu PRO
+[46:28] a na podstránku, kde jsou
+[46:30] volby k roku 2026.
+[46:32] Komunální a senátní volby.
+[46:34] Prosím, zajděte tam, kdo chcete volit nás
+[46:36] nebo naše kolegy z SPD,
+[46:38] svobodných strikolódy, se kterými
+[46:40] tvoříme v mnoha městech a mnoha obcích
+[46:42] koalici a
+[46:44] najděte si, který
+[46:46] ten subjekt to skutečně je. Je tam
+[46:48] kompletně celý seznam, protože já jsem
+[46:50] byl teď v pátek například v Plzni
+[46:52] a
+[46:54] v té Plzni je třeba ten problém, že je tam
+[46:56] subjekt, který se jmenuje PRO Plzeň,
+[46:58] ale to je subjekt, který vznikl z bývalých členů
+[47:00] ODS, pana Štrunce a dalších
+[47:02] a lidé s ním mají velmi
+[47:04] špatné zkušenosti. A teď říkají,
+[47:06] my bysme vás volili, ale vy jste v paktu
+[47:08] s tím Štruncem, s tím Pro Plzeň.
+[47:10] Ne, nejsme. Pro Plzeň nemá
+[47:12] s námi vůbec nic společného.
+[47:14] My máme tam kandidátku strany
+[47:16] pro právo, respekt, odbornost. To znamená,
+[47:18] prosím, a samozřejmě ještě v koalici
+[47:20] s SPD a tak dále a tak dále v dalších městech.
+[47:22] To znamená, zajděte prosím na tu
+[47:24] stránku a najděte si, který konkrétní
+[47:26] subjekt jsme my. Za ty lidi
+[47:28] já ručím a garantuju vám,
+[47:30] že s žádnými bývalými
+[47:32] kmotry s ODS spojení nejsme
+[47:34] nikde. Nikde nekandidujeme
+[47:36] společně s ODS, nikde nekandidujeme
+[47:38] společně se STANem, s Piráty,
+[47:40] s Lidovci nebo s TOP 09.
+[47:42] Do toho bychom nikdy za žádných
+[47:44] okolností nešli. Naopak
+[47:47] máme někde i široké kandidátky,
+[47:49] kde jsou dokonce přítomní motoristé a já
+[47:51] bych byl velmi rád, abychom se nám
+[47:53] dařilo konsolidovat dál. A prosím, nezapomeňte
+[47:55] na naše senátní kandidáty.
+[47:57] Ostravsko Milan Loprajs,
+[47:59] Děčínsko
+[48:01] Jan Skalický,
+[48:03] Trutnovsko Hinek Beran, bojovník
+[48:05] proti větrným elektrárnám
+[48:07] a Příbramsko
+[48:09] pan doktor Šorna, který je tam
+[48:11] lékařem už několik desítek let.
+[48:13] Za každého z nich dám ruku do ohně, za každého
+[48:15] z nich osobně ručím. Pokud by vás sklamali,
+[48:17] jsem připravený odejít z politiky, protože vím, co je to
+[48:19] za lidi a vím, že prostě by
+[48:21] nikdy neotočili a nikdy
+[48:23] neuhnuli se svých slibů, které dali svým
+[48:25] voličům. Děkuju vám
+[48:27] mockrát za vaši podporu. Věřte mi,
+[48:29] že dozimetr jede dál. Ano,
+[48:31] je to pomalé, ale na to jsme byli
+[48:33] připraveni. My máme ten mandát na celý rok,
+[48:35] možná budeme ho potřebovat i prodloužit,
+[48:37] protože skutečně to vůbec není jednoduché
+[48:39] a čeká nás řada výslechů a řada
+[48:41] kroků k tomu, abychom se dopátrali
+[48:43] pravdy. To je můj cíl
+[48:45] a z tohoto cíle já v žádném případě
+[48:47] neuhnu. Stejně tak jako z ostatních
+[48:49] cílů, které jsem vám slíbil,
+[48:51] které budu zcela jednoznačně
+[48:53] prosazovat a moc vám děkuju
+[48:55] za všechny ty zprávy, kdy
+[48:57] mě píšete, že jste
+[48:59] obrovsky rádi za to, že jsem neotočil
+[49:01] ani o centimetr. Že u mnohých
+[49:03] politiků vidíte ty obraty, vidíte
+[49:05] ty veletoče, vidíte ty otočky
+[49:07] o 180 stupňů
+[49:09] a že v tuto chvíli mnozí
+[49:11] jste psali, volili jsme někoho jiného, ale teď
+[49:13] už budeme volit vás, protože jsme
+[49:15] pochopili, že vy neuhnete. Za to
+[49:17] moc děkuju. Musím říct, že tyhle zprávy
+[49:19] mi dělají absolutně největší radost
+[49:21] a jsou tím nejlepším oceněním mé
+[49:23] práce. Velmi si toho vážím.
+[49:25] Přátelé, mějte se moc krásně,
+[49:28] přeji vám úspěšný týden a prosím
+[49:30] zítra natáčím
+[49:32] na VOX TV s panem Jakobem,
+[49:34] tak to bude opět zábava.
+[49:36] E-M-E.
+[49:38] A v úterý
+[49:40] 360 na prvně. Určitě se
+[49:42] dívejte na 360 na prvně.
+[49:44] Budu moc rád, když budete sdílet tohle video.
+[49:46] Prosím, nezapomeňte je posílat svým známým,
+[49:48] ať se šíří dál, ať všichni vědí,
+[49:50] jaká je skutečnost a
+[49:52] nikoli v to, co se nám tady snaží
+[49:54] nalhat některá mainstreamová média.
+[49:56] Díky moc za pozornost, díky moc za vaši
+[49:58] důvěru, díky moc za vaši podporu,
+[50:00] za to, že jste pro. Obrovsky si to
+[50:02] vážíme. Každého jednoho z vás.
+[50:04] Ať žije naše vlast,
+[50:06] ať žije naše krásná Česká republika.
+[50:08] Hezký den všem.

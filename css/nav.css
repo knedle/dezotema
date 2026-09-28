@@ -1,0 +1,9 @@
+/* Oddělení "extra" (negenerických) položek navigace — Predikce a Stochastický
+   teror — vodorovnou čarou. MkDocs Material nemá v nav nativní <hr>, proto
+   přidáváme horní oddělovací linku nad první z dvojice (Predikce). */
+.md-nav__item > .md-nav__link[href$="predikce/"],
+.md-nav__item > .md-nav__link[href$="predikce.html"] {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--md-default-fg-color--lighter);
+}

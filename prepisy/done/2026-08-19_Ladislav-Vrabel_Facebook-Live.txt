@@ -1,0 +1,837 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1054683694216927
+Datum videa:  2026-08-19
+Zpracováno:   2026-08-21 09:59:05
+Jazyk:        cs
+Délka:        00:36:57
+Popis:        19. 8. 2026 - Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    20s
+Přepis:       5m 58s
+Rychlost:     6.2x realtime
+Celkem:       6m 18s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:56] Tak vážení přátelé, hezký večer. Dneska máme středu, 19.8.
+[03:01] Moje sestra má narozeniny, takže přeju všechno nejlepší.
+[03:04] Volal jsem jí, nezvedl mi telefon.
+[03:08] Jsme tady zase večer u naší dneska středeční chvilky poezie a oddychu
+[03:14] u večerních zpráv s komentářem.
+[03:17] Děkuju vám za všechny krásný komentáře, který tady píšete ve spolek takhle na začátek.
+[03:22] Tak, kdybyste ještě k tomu připsali, odkud jste, takhle někdo to tady píše.
+[03:27] Tadyhle, Temelin, 5 km za 90 sekund.
+[03:31] Někdo píšete, odkud jste, napište, odkud jste, jak víme, odkud jste,
+[03:35] odkud nás zdravíte, protože to je fajn.
+[03:37] A ještě tady mám jednu poznámku paní Dědůrková, tady zdraví všechny dobré lidi,
+[03:42] tak bych byl rád, kdyby taky pozdravila někdy mě, takže poprosím příště všechny dobré lidi
+[03:46] a Láďou Hrábela.
+[03:47] Tak, Zuzko, hezký večer i tobě.
+[03:51] Hezký večer všem.
+[03:52] A pojďme na zprávy, dneska toho máme opravdu požehnaně.
+[03:56] Máme to teda seřazený, jak říkali v režii dneska, jako noty na buben,
+[04:00] že to trošku skáče z Iránu do Spojených států, pak do České republiky
+[04:05] a zpátky do Iránu přes Rusko, ale snad se v tom nějak vyznáme
+[04:09] a dáme si to všechno pěkně dohromady, celý ten svět.
+[04:13] Dáme si to dohromady a začneme v Karlových Varech,
+[04:16] na letiště Karlovy Vary má od ledna příštího roku převzít armáda
+[04:20] prostřednicím státního podniku Lom Praha.
+[04:23] Současné civilní letiště však podle odborníků postrádá část potřebné
+[04:28] vojenské infrastruktury a čekají ho proto rozsáhlé úpravy.
+[04:32] Klíčovou investicí má být především prodloužení zletové a přistávací drahy.
+[04:37] Její současná délka pro vojenské využití nepostačuje.
+[04:41] Náklady na její rozšíření se tak odhadují zhruba na 1 miliardu korun.
+[04:47] Miliarda se, miliarda tam, duchoci to zaplatí.
+[04:50] Nebojte se, máme tady, tak, no vidíte to dneska, to máme úplně jinak tady rozházený.
+[04:58] Co se týče vzletový, délky vzletový dráhy, tak kolik, tak tam je potřeba 2,5 kilometru,
+[05:04] aby tam bylo, že jo, na takovýhle letiště, jestli to tak dobře odhaduju,
+[05:07] no aby tam mohly přilítávat, že jo, ty nosiče ademých zbraní, aby mohly vzlítat odstať.
+[05:12] Karlovy Vary, takový hezký město to bylo. No, pojďme dál.
+[05:17] Karlovy Vary, takový hezký město to bylo.
+[05:19] Financování veřejné dopravy se má od roku 2028 změnit.
+[05:24] Kompensace, které kraje a města vyplací dopravcům za zajištění spojů,
+[05:28] by nově měly podlehat 21% DPH.
+[05:33] Změnu přináší novela zákona o daně střídáné hodnoty, schválena ještě v roce 2024.
+[05:39] Dopad na rozpočty měst, krajů a samotné financování veřejné dopravy nyní
+[05:44] nechala analyzovat ministrině financí Alena Schillerová.
+[05:49] Podle výsledku analýzy se může ukázat, jak výrazně změna zatíží veřejné rozpočty
+[05:54] a zda se to promítne do cen jízdného.
+[05:58] Ale, jako když jsem tuto zprávu dneska čet, tak jsem úplně nepochopil, o co jde, Zuzko.
+[06:04] To je tak, že stát dává krajům peníze a kraje potom dávají obcím,
+[06:11] nebo stát dává rovnou obcím, nevím, prostě dostávají kraje i obce,
+[06:14] dostávají peníze od státu a ty potom dotujou veřejnou dopravu.
+[06:19] Rozumím tomu správně, ne? Protože vím, že třeba v budějcích dopravních podnik
+[06:22] vždycky dostával 200 milionů ročně, což je docela dost peněz na dotacích.
+[06:27] A oni teďkon chtějí teda jako z toho, aby se zaplatilo 21% státu daň?
+[06:33] Ano.
+[06:34] Takže stát dá jako dotaci na něco, ale vezme si z toho daň.
+[06:38] Ano, no, protože to bylo...
+[06:39] A proč si nevezme ještě daň z té daně, když potřebuje jako víc peněz?
+[06:43] Nebo že by si třeba mohl dát takhle jako dotací, dotaci dá miliardů,
+[06:47] z toho si 21% vezme jako daň, pak by si mohl spočítat z těch 21% z té daně
+[06:53] třeba ještě 21% další z přidaný odnoty a třeba ještě pětkrát by si mohl zjít
+[06:58] 21% z těch 21%. Aby to bylo jednodušší, že jo?
+[07:01] Když už teda stát dává peníze, tak by si taky něco vzal zpátky.
+[07:05] No to má přece logiku.
+[07:07] No já bych tam přihodil a klidně 30%.
+[07:10] A nebo by mohli dát třeba daň 50%.
+[07:14] To by se dobře počítalo, že dají miliardů a půl miliardy si vezmou na daních.
+[07:19] To má logiku prostě.
+[07:21] Přesně, ale kdyby se to počítalo.
+[07:23] Kdyby se to počítalo, kdyby to bylo takhle pěkně na ty půlky.
+[07:27] No, ok, dobře, tak pojďme dál.
+[07:30] Ale lidi mají peněz dost, oni to zaplatí, tu městskou romannou dopravu,
+[07:34] to je fuk, že jo?
+[07:37] Proč by se měla podporovat městská romanna doprava,
+[07:39] jen jak si lidi koupí kola?
+[07:40] No, auta jim zakážou, tak jak si koupí kola.
+[07:43] No, benzín je drahej, tak si koupí kola.
+[07:46] Přece jako bude víc smrtvejch asi, no ale lidi je dost, že jo?
+[07:50] Teď nám to pořád říkají, že na světě by bylo líp,
+[07:52] kdyby byla jenom půl miliarda lidí nebo miliarda.
+[07:55] Tak ono to má logiku.
+[07:56] Nevím, proč nám pořád říkali, že se má podporovat veřejná doprava,
+[08:00] aby se jako ulepšilo tomu životnímu prostředí,
+[08:04] že je tady moc aut.
+[08:05] No ne, jen jak tam napálí prostě ty daně,
+[08:07] jen jak si na to dají daně.
+[08:10] Lidi to zaplatí, to robí.
+[08:13] Lidi zaplatí všechno a jim je to fuk.
+[08:17] Lidi mají tolik peněz, si na to podívejte,
+[08:20] tamhle se posílají pořád peníze na Ukrajinu,
+[08:23] posílají se pořád peníze do Evropské unie
+[08:26] a lidi to platějí furt a jim je to fuk.
+[08:30] Nikdo neprotestuje, lidi zaplatí všechno.
+[08:32] Tak pojďme dál.
+[08:34] Dále nám by taky mohli lidi poslat nějaký kačky.
+[08:37] Sakra, nechcete nám taky poslat nějaký kačky?
+[08:39] Proč my furt makáme zadarmo, Zuzka?
+[08:41] Proč my furt děláme všechno zadarmo?
+[08:42] Když tady každý si takhle bere peníze.
+[08:46] No, ok, pojďme dál.
+[08:48] Ono to teď hrozně kritizuje koalice,
+[08:51] ale schválili to oni v roce 2024,
+[08:54] to se mi hrozně líbí.
+[08:56] Kdo to kritizuje?
+[08:58] Koalice současná.
+[09:00] Jako babiža spol?
+[09:02] Ne, teda koalice, opozice, kecam, bože.
+[09:07] Jo, jako fiala spol?
+[09:09] Jo, jako stan hlavně.
+[09:11] Jako stan?
+[09:12] No, ty by měli si spíš jako udělat pořádek v tom,
+[09:14] aby jim ty lidi z voken padaly nějak organizovaně,
+[09:17] když to není možný.
+[09:18] To je prostě, jednou spadne tenhle stan,
+[09:20] pak spadne po měsíci, pak tři měsíce pauza.
+[09:23] Jo, jak si to nějak rozpočítají,
+[09:25] jak prostě lidi nejsou v šoku,
+[09:26] že padají lidi z voken moc na jednou,
+[09:28] takhle v krátkých časových intervalech.
+[09:30] A mně nepřišlo, že byli z toho lidi nějak v šoku.
+[09:34] Prostě padli a...
+[09:35] Padnou, no.
+[09:36] Tak lidi už si zvykli, že nám tady vládnou gangstři
+[09:40] a když se jim někdo postaví, takže ho vyhodí z okna.
+[09:43] Pojďme dál.
+[09:45] Ale letošní léto...
+[09:46] Pardon?
+[09:47] No, no.
+[09:50] Letošní léto zvýraznilo problémy evropské energetiky
+[09:53] a nečekáně zvyšilo význam uhelných elektráren,
+[09:57] zatímco jaderné a vodní zdroje omezují výrobu
+[10:00] kvůli nízkým průtokům řek,
+[10:02] plynové elektrárny čelí vyšším cenám
+[10:04] a narušeným dodávkám zemního plynu.
+[10:07] Extremní sycho snižuje výkon vodních elektráren
+[10:10] a komplikuje také provoz některých jaderných elektráren,
+[10:13] které potřebují dostatek vody na chlazení.
+[10:16] V některých případech se provozatelé proto uchylují
+[10:18] k neobvyklým opatřením, aby zajistili dostatečnou hladinu vody pro provoz.
+[10:24] Problémy se teda nevyhvání těm plynovým zdrojům,
+[10:26] protože dodávky LNG ovlivňuje konflikt na blízkom východě.
+[10:31] Takže zlaté uhelné elektrány tak letos získávají větší...
+[10:34] Počkej, počkej, počkej, počkej, počkej, s kým plynem?
+[10:37] Je problém s plynem, protože LNG má problém na blízkém východě,
+[10:43] není problém náhodou...
+[10:44] Ovlivňuje konflikt, dodávky LNG ovlivňuje konflikt na blízkém východě.
+[10:49] A kvůli tomu jsou problémy s plynem v plynových elektránech,
+[10:53] není náhodou, jenom tak se ptám pro kamaráda.
+[10:56] Problém s plynem kvůli tomu, že jsme ho přestali odebírat z Ruska,
+[11:00] kde jsme měli dlouhodobý kontrakty na levný plyn.
+[11:03] Jo, protože...
+[11:04] Tak říkají, no ten problém je, protože je problém na blízkém východě,
+[11:07] tak máme problémy s dodávkami LNG.
+[11:10] No tak ty LNG jsme začali brát kvůli diversifikaci rizik.
+[11:16] Aby kdyby byly nějaký rizika, aby se diversifikace znamená rozložení rizik.
+[11:21] Aby kdyby byly nějaký problémy s ruským plynem, aby jsme mohli brát někde jinde.
+[11:25] Tak to jsme diversifikovali tím způsobem, že jsme se odstříli od Ruska,
+[11:29] ne, že jsme si diversifikovali, že bychom si rozdělili to riziko,
+[11:33] ale my jsme si...
+[11:34] To riziko zhmotnili do jednoho místa, do nějakého LNG plynu,
+[11:40] a tam se teďkon bojuje, takže kdyby jsme bývali, byli, brali plyn z Ruska,
+[11:45] tak jak jsem navaroval na Václaváku v roce 22 dál,
+[11:49] tak jsme dneska ty problémy neměli, jestli tomu dobře rozumím.
+[11:53] Krom toho by to bylo čtyřikrát levnější.
+[11:56] No OK, dobře. Ale co, že se teda vracíme k uhlí?
+[11:59] A jak to uděláme, když jsme tam nasypali do těch uhelných důlů kilometr kamení
+[12:03] a zalili jsme to vodou?
+[12:05] To nejde vodem dát kilometr kamení a vysužit to uhlí.
+[12:09] Tak ho budeme kupovat z Ukrajiny.
+[12:10] Možná bychom ho mohli kupovat z Ukrajiny, když jsme si to svoje zasypali.
+[12:14] Samozřejmě Poláci si to taky nezasypali.
+[12:19] Tak možná bychom mohli požádat, jestli se tady nedívá někdo od policie
+[12:23] nebo nějaký státní zástupce, jestli by to mohli vyšetřovat,
+[12:27] kdo nařídil to, aby se zasypalo a zalilo vodou to naše uhlí,
+[12:33] když ho teď potřebujeme.
+[12:35] To byla Babišova vláda, tak možná bychom mohli jít do Tepláku
+[12:38] všichni za tohle.
+[12:41] Tak s tím plynem.
+[12:47] Chorvatská policie zadržela v půle ukrajinského občana Vladimira Z,
+[12:52] kterého německá spolková prokuratura podezíra z účastí na sabotáži
+[12:56] plynovodu Nord Stream v září 2022.
+[13:00] Podle německých vyšetřovatelů měl pan Z patřit ke skupině potápěčů,
+[13:06] která z plachetní jachty umístila vybušníku na podruby
+[13:10] Nord Stream 1 a Nord Stream 2.
+[13:13] Skupinu měl vést bývalý ukrajinský voják Sergej K.,
+[13:17] jenž byl v roce 2025 zadržen v Itálii a následně vydán do Německa.
+[13:24] Tak za prvý jako nevím, jestli tohleto je povolený v České republice,
+[13:29] abychom to takhle četli, jestli bychom se tím nedopustili
+[13:32] zkvalování genocidy a zkvalování válečných zločinů,
+[13:36] že se ten pán jmenuje, jak se jmenuje?
+[13:38] Vladimír.
+[13:39] Vladimír.
+[13:40] Vladimír Z.
+[13:41] Z, neříkej Z, říkej jenom Vladimír, jo, aby nás někdo nezavřel,
+[13:45] aby nás někdo neudal za to písmeno Z, za to jeho příjmení.
+[13:49] A to je první věc. A druhá věc, tak zase, aby někdo nezavřel měsak,
+[13:53] když to řeknu, jestli by mu neměli spíš dát medaily, jako jo,
+[13:57] než, než ho obviňovat, protože jestli tenhle ten týpek
+[14:01] ještě s nějakýma dalšíma dokázali udělat takovou akci,
+[14:05] jo, jako potopit se, nevím, kolikset metrů hluboko
+[14:09] s výbušnírama, nainstalovat je tam a zase vyplout zpátky
+[14:15] a vyhodit do povětří ten Nord Stream, jo, tak to by je měli vzít
+[14:19] do nějakých tajných služeb amerických do CIA jako jedny
+[14:23] z nejlepších specialistů na, jako na tajný operace.
+[14:26] Jestli tohle dokázali, nikdo si jich nevšiml,
+[14:29] nikdo to nezjistil, nikdo to neobjevil, no to je přece jako práce,
+[14:33] která by i pro CIA byla jako náročná operace.
+[14:36] Jestli to dokázal tady pan Z.
+[14:38] A teď nechci říct.
+[14:39] Nechci, aby to vypadalo, že tady jako schvaluju nějaký
+[14:42] teroristický čin, jo, prosím vás pěkně, aby tady zase
+[14:45] nějaký trouba nepsal, Vrabel schvaluje teroristický čin,
+[14:48] chtěl by dát medaily tady tomu, co udělal ten teroristický čin.
+[14:51] Ne, ne, ne, ne schvaluju teroristický čin, vůbec ne.
+[14:54] Podle mě to samozřejmě udělali Ukrajinci pro Američany,
+[14:58] jenom aby bylo jasno, jo, abyste pochopili, co je sarkazmus,
+[15:02] co je ironie, co je můj názor.
+[15:05] Můj názor je, že to udělali Ukrajinci, ukrajinský stát
+[15:09] na příkaz Spojených států, to je to, co si myslím,
+[15:13] a nám tady vypráví příběh o nějakých lidech, kteří to udělali
+[15:17] jako aktivní občané, kteří samozřejmě, aktivní občané,
+[15:21] kdyby tohle to zvládli, tak by opravdu měli dostat medaily
+[15:25] za výkon a angažma v CIA, možná by rovnou mohli jít
+[15:29] řídit tajný operace, jestli by tohle dokázali jako nějaká
+[15:33] headsparta ukrajinská.
+[15:35] Vyjádřil jsem se jasně, Rusko?
+[15:37] Úplně, rozumitelně.
+[15:39] Tak to jsem rád.
+[15:41] Tak Ukrajina má nového ministra obrany,
+[15:47] a nový ukrajinský ministr obrany, Evgenij Chmara, uvedl,
+[15:51] že Ukrajina musí převzít strategickou iniciativu
+[15:55] a donučit Rusko k míru prostřednictvím vojenské síly,
+[15:59] technologií a rozvoje vlastního obraného průmyslu.
+[16:03] Za jednu z priorit označil pokračování útoku na cíle
+[16:07] hluboko v ruském území.
+[16:09] Podle Chmary je Ukrajina schopna zasávat cíle až na Sibiři.
+[16:13] Zaměřit se chce především na ruský vojenský průmysl,
+[16:17] logistiku a energetiku a infrastrukturu.
+[16:21] Chmara byl ukrajinským parlamentem jmenován ministrem obrany
+[16:25] 312 hlasy.
+[16:27] A vyjadřil se k tomu taky ukrajinský ex-ministr obrany Fedorov,
+[16:33] hned po jeho jmenování, a vyzval uspořádaní voleb
+[16:37] i během probíhající války, respektive válce na Vzdory.
+[16:41] To je hodně správ.
+[16:43] Co se týče Fedorova, ten by samozřejmě chtěl nahradit Volodymyra Zelenskýho,
+[16:47] když tam za něj teď dělají demonstrace na Ukrajině,
+[16:49] takže vyzývá volba.
+[16:51] Nevím, jestli si nějakým způsobem pomůžeme od Zelenského k Fedorovovi,
+[16:57] ale uvidíme, jak to bude probíhat.
+[16:59] Co se týče toho novýho ministra obrany, to je docela řízek,
+[17:03] že chce vyhrát nad Ruskem
+[17:05] skrze
+[17:07] válku a chce
+[17:09] dosáhnout míru a vyhrát nad Ruskem.
+[17:11] Chce dosáhnout míru skrze
+[17:13] vítězství nad Ruskem ve válce.
+[17:15] To je docela boreček.
+[17:17] Jenom bych se takhle zeptal tady pro kamaráda,
+[17:19] když říká pan ministr obrany
+[17:21] nejlepšího státu na světě,
+[17:23] Ukrajiny,
+[17:25] že můžou útočit až na Sibíř,
+[17:27] hluboko do ruského území až na Sibíř.
+[17:29] Jenom bych se chtěl tady zeptat takhle pro kamaráda,
+[17:31] rusové nemůžou útočit
+[17:33] hluboko do ukrajinského území,
+[17:35] nemůžou nějak si intenzivnit
+[17:37] třeba ty útoky.
+[17:41] Tady se podár
+[17:43] bavíme o tom,
+[17:45] kdyby Rusko byla nějaká střelnice.
+[17:47] Jako střelnice,
+[17:49] teď už máme dobré zbraně, teď už tam dostřelíme,
+[17:51] tak tam toho paňáčka takhle zamíříme,
+[17:53] trefíme ho a on padne.
+[17:55] A tím je konec.
+[17:58] Takhle to zní.
+[18:00] Jakmile můžou
+[18:02] už útočit hluboko do ruského území,
+[18:04] tak už je to v podstatě vyhrané.
+[18:06] No, dobře, no.
+[18:08] Jsem na to zvědavý,
+[18:10] jakým to bude soudrům na Ukrajině.
+[18:12] Tak nevím, jestli mě budete slyšet,
+[18:17] slyšíte mě?
+[18:19] Slyšíme tě dobře, Zuzko.
+[18:21] Protože já se tam nějak jako prostě nedostanu, nevadí.
+[18:23] Hlavně, že mě slyšíte.
+[18:25] A podle
+[18:27] ruského ministerstva
+[18:29] pro mimořádné situace,
+[18:33] teď se mi to tady, omlouvám se,
+[18:35] nějak zapadlo, mimořádné situace,
+[18:37] vyslalo
+[18:39] Srbsko letou na pokyn
+[18:41] prezidenta Vladimíra Putina poté,
+[18:43] co Srbsko požádalo Moskvu o pomoc
+[18:45] kvůli zhoršující se situaci
+[18:47] a ohrožení obydlených
+[18:49] oblastí.
+[18:51] V Srbsku nadále hoří desítky požárů,
+[18:53] mezi nejzávažnější ohniska
+[18:55] patří oblast Hory Stolovi
+[18:57] u Kraljeva
+[18:59] a Deli Bladská
+[19:01] Peščara.
+[19:03] V obci Kladno byl kvůli požáru,
+[19:05] který zasahlo více než 800 hektarů,
+[19:07] vyhlášen dokonce stav
+[19:09] a nebylo žádné situace.
+[19:11] Takže Rusko jim poslal
+[19:13] letoun.
+[19:15] Tak jako proč by
+[19:17] neposlalo Rusové, posílali letouny
+[19:19] i k nám? Ne, pokud si dobře vzpomínám,
+[19:21] dřív, když hořelo, ještě když u Rusko nebylo
+[19:23] nepřítel, tak Rusko pomáhalo, kde může,
+[19:25] s vašením, co se týče Srbska,
+[19:27] tak Srbsko má dobrý vztahy s Ruskem,
+[19:29] takže je jasné, že Rusko
+[19:31] poslalo do Srbska, aby se hasilo.
+[19:33] Tam nevím, co bych k tomu komentoval,
+[19:35] víc mohli, všechny státy mohly mít
+[19:37] letouny, dokonce ve Španělsku ani nemohli
+[19:39] vzítnout helikoptéry, kvůli tomu,
+[19:41] že si udělali sankce a nedostali
+[19:43] náradní díly, tak
+[19:45] když nepotřebují hasit, tak jak bojují
+[19:47] proti Rusku, no Srbové proti Rusku nebojují,
+[19:49] jsou vojensky neutrální, takže
+[19:51] Rusové automaticky posílejí pomoc
+[19:53] na hašení, když začne hořet.
+[19:57] Jo, já se omlouvám, ale nemám
+[19:59] obraz, tak budu aspoň číst.
+[20:01] Místo předsedkyně Komise pro
+[20:03] státní záležitosti KLDR
+[20:05] a vlivná představitelka
+[20:07] krajské strany práce odmítla
+[20:09] tvrzení ukrajinského prezidenta
+[20:11] Volodymyra Zelenského, že
+[20:13] Severní Korea plánuje vyslát do Ruska
+[20:15] až 50 000 dalších
+[20:17] vojaků. Podle
+[20:19] ní je
+[20:21] Zelenského tvrzení nepodložené
+[20:23] a jde o zinsenovaný
+[20:25] incident.
+[20:30] Severní Korea jezdříve poskytla Rusku
+[20:32] vojenskou pomoc a podporu
+[20:34] a podle odhadů bylo v roce
+[20:36] 2024 vysláno do
+[20:38] Ruské oblasti kolem 14 000
+[20:40] severokorských vojaků.
+[20:42] Tak aspoň to máme vyvráceno.
+[20:44] To, co nám tady
+[20:46] se snaží prodat Volodymyr Zelenský
+[20:48] jako další
+[20:50] štvaní, tak to máme vyvráceno
+[20:52] ještě ze Severní Korei.
+[20:54] Tak pojďme dál.
+[20:57] Tak...
+[21:00] Čínský prezident Wang Yi navštívil
+[21:02] Jižní Koreu a to uprostřed
+[21:04] Trumpova úsilí o oživení severokorejské
+[21:06] diplomacie. Setkal se
+[21:08] s ministrem zahraničí a
+[21:10] dneska si má setkat dokonce s
+[21:12] prezidentem. Seoul se chystá
+[21:14] nasamit na okraji listopadového
+[21:16] zasedání APEC v Shenzhenu.
+[21:20] A jiho korejský ministr
+[21:22] zahraničí dříve
+[21:24] také sdělil, že budou
+[21:26] diskutovat o otázkách korejského
+[21:28] poloostrova, včetně nedávného
+[21:30] vývoje kolem vojenského cvičení.
+[21:32] Čína vyzvala Jižní Koreu,
+[21:34] aby se hrála konstruktivní roli
+[21:36] v co nejširším návratu
+[21:38] Severní Korei k dialogu
+[21:40] uvedlo ministerstvo.
+[21:42] Vám také uvedl, že Čína je ve své
+[21:44] politice ohledně korejského poloostrova
+[21:46] důsledná a dodal, že doufá
+[21:48] v mírové soužití obou Korei.
+[21:50] OK, skvělý.
+[21:53] Pojďme na další zprávu.
+[21:57] Já samou, já fakt nemám obraz,
+[21:59] takže jsem trošku z toho taková
+[22:01] zmaterá.
+[22:05] Financial Times a další media
+[22:07] varují, že Teheran zvažuje
+[22:09] útoky nad
+[22:11] cíle v Jihovýchodní Evropě,
+[22:13] pokud by americký prezident
+[22:15] Donald Trump rozhodl o dalším vyhrocení
+[22:17] konfliktu.
+[22:19] NATO uvedlo, že je připraveno
+[22:21] reagovat na případnou iránskou
+[22:23] raketovou hrozbu vůči členským
+[22:25] státům. Podle představitele
+[22:27] aliance NATO již
+[22:29] v březnu zachytilo dokonce rakety
+[22:31] vypálené Iránem směrem
+[22:33] na Turecko.
+[22:35] Mezi možnými cíly byly podle listu
+[22:37] zmíněny také Bulharsko
+[22:39] a Kypr. NATO
+[22:41] ale neuvedlo, zda v reakci na tuto
+[22:43] hrozbu, plánuje posílit
+[22:45] protivzdušnou obranu v regionu.
+[22:47] To se nám to docela
+[22:49] nepříjemně přiostřuje, ne?
+[22:51] Když už tady se píše o tom,
+[22:53] že by mohly lítat iránský rakety
+[22:55] na členské země
+[22:57] NATO. Už se mluví o Kypru
+[22:59] a o Bulharsku. Samozřejmě
+[23:01] další, kdo bude na řadě, o kom
+[23:03] se bude mluvit, bude Rumunsko.
+[23:05] To už jsme hned
+[23:07] u Maďarska.
+[23:09] Jenom možná si si vzpomenete,
+[23:11] že před měsící jsem mluvil o tom, jak
+[23:13] Macinka sliboval, že
+[23:15] budeme podporovat Donalda Trumpa
+[23:17] v Iránu.
+[23:19] Mluvil jsem o tom, že bude brzo vyjíždět
+[23:21] naše flotila z Děčína.
+[23:23] Mluvil jsem o tom, že to samozřejmě
+[23:25] je nebezpečná politika i pro nás.
+[23:27] Tak vidíte, ono to teprve
+[23:29] jim skončilo 60-tidenní memorandum
+[23:31] o porozumění.
+[23:33] A už se tady mluví o tom,
+[23:35] že by mohly padat iránský rakety
+[23:37] na území členských
+[23:39] států. A nerad bych tady
+[23:41] někoho plašil, to bych samotně strašně
+[23:43] nerad, ale iránský rakety
+[23:45] balistický mají dolet i do
+[23:47] České republiky. To jenom
+[23:49] říkám tak, aby kvůli tomu
+[23:51] doletu. To neříkám kvůli tomu, že by na nás
+[23:53] měli nějak útočit. Jenom kvůli tomu doletu.
+[23:55] V venezuelské zlaté
+[24:06] rezervy o objemu
+[24:09] přibližně 31
+[24:11] tun a hodnotě
+[24:13] kolem 4 miliard dolarů
+[24:15] uložené v Bank of England
+[24:17] by podle některých zpráv mohly být
+[24:19] převedeny pod kontrolu
+[24:21] o spojených států. Podle
+[24:23] informací citovaných venezuelskými
+[24:25] médii má být zlato
+[24:27] využito v rámci dohody mezi
+[24:29] venezuelskou vládou a opozici
+[24:31] a prostředky by měly sloužit
+[24:33] především k financování obnovy
+[24:35] země. Reuters uvádí, že
+[24:37] Venezuela se snaží k rezervám uloženým
+[24:39] v Londýně znovu získat
+[24:41] přístup. No jestli to američani tak
+[24:43] moc přístupy nebudou. O převodu
+[24:45] zlata do spojených států
+[24:47] však pri oficiálně zatím
+[24:49] nebylo rozhodnuto. Uvedený plán
+[24:51] nám proto nelze označovat
+[24:53] za konfiskaci
+[24:55] či krádež.
+[24:57] A to je čí plán? To je americký plán,
+[24:59] že by převedli venezuelský zlato
+[25:01] do spojených států? No předpokládám
+[25:03] teda, to se tady napíše, ale
+[25:05] předpokládám, že
+[25:07] paní tam
+[25:09] se dohodla.
+[25:11] No jo, no ale
+[25:13] jako kde je naše zlato, to je otázka.
+[25:15] Není naše zlato taky v Londýně
+[25:17] náhodou? Tak je v Benguang, ano.
+[25:19] 60% nebo kolik?
+[25:21] To je zajímavý, že
+[25:24] naše zlato je v Londýně. Ono se jim
+[25:26] tam dokonce propadla podlaha jednou, jako
+[25:28] v tom Londýně,
+[25:30] v tom místě, kde skladují zlato,
+[25:32] protože tam navezli prakticky
+[25:34] všechno zlato z celého světa,
+[25:36] že ho potom něco vezli do spojených států,
+[25:38] ale
+[25:40] otázka je, proč je naše zlato
+[25:42] v Londýně. To, že venezuelský
+[25:44] je tam, nebo že bude venezuelský
+[25:46] v Americe a že je v Londýně, to je proto, že
+[25:48] se nechali okrát,
+[25:50] ale proč my máme mít
+[25:52] zlato v Londýně? Teď to jsou přece naši spojenci.
+[25:54] To nejsou naši,
+[25:56] oficiálně to nejsou naši opresoři,
+[25:58] nebo jak se to říká česky, naši vládci,
+[26:00] nebo nějaká naše
+[26:02] nadřízená země. Ani Británie,
+[26:04] ani Spojené státy.
+[26:06] Možná bysme mohli naše zlato mít
+[26:08] u nás.
+[26:11] Tak my to máme u přátel.
+[26:13] No, tak bych osobně byl docela rád,
+[26:15] kdybychom to od těch přátel vzali domů.
+[26:22] Větnám. V rámci zpřísnění
+[26:24] i digitální identifikace.
+[26:26] Deaktivoval, nebo omezil
+[26:28] více než 86 milionů
+[26:30] bankovních účtů,
+[26:32] které byly neaktivní,
+[26:34] duplicitní, nebo nebyly
+[26:36] biometricky ověřeny. Opatření
+[26:38] souvisí s vládním programem digitalizace
+[26:40] a propojením bankovních služeb
+[26:42] z Národní databazy obyvatel.
+[26:44] Tvrzení, že stát
+[26:46] lidem kvůli odmítnutí digitální
+[26:48] identity zabavil peníze,
+[26:50] však se nepotvrdují.
+[26:52] V řadě případů šlo o zablokování
+[26:54] či deaktivaci účtu, přičem
+[26:56] prostředky zůstávají na těch účtech
+[26:58] i nadále.
+[27:00] Přesně, to není
+[27:03] žádný zabavení peněz, nebo
+[27:05] krádež. Ty peníze tam jsou,
+[27:07] akorát jim zrušily ty účty, protože nemají
+[27:09] digitální identitu.
+[27:11] A když si udělají digitální identitu
+[27:13] a prokážou,
+[27:15] že ten bankovní účet je jejich
+[27:17] a připojí to s tou
+[27:19] digitální identitou, tak možná
+[27:21] ty peníze dostanou.
+[27:23] Takže ten tlak není
+[27:26] na to, aby se kradli
+[27:28] peníze, ten tlak je na to, aby lidé měli
+[27:30] svoji digitální identitu, aby měli každý
+[27:32] digitální identitu. Mluvíme o tom už od covidu,
+[27:34] že všichni lidé budou mít digitální
+[27:36] identitu, protože
+[27:38] digitální identita je něco, co bude
+[27:40] mít každý v telefonu.
+[27:42] Ten telefon je prostě
+[27:44] jednoduše sledovatelný
+[27:46] a stát potom ví,
+[27:48] kde kdo je, v kterou chvíli.
+[27:50] Ví, kde byl,
+[27:52] s kým tam byl.
+[27:54] Může ten telefon odposlouchávat,
+[27:56] může se postahnout, co tam ten člověk
+[27:58] dělal. A k tomu všemu je
+[28:00] potřebná ta digitální identita.
+[28:02] A krom toho, pořád tady máme
+[28:04] takový lidi, jako,
+[28:06] tak si nespomínám na někoho, ale
+[28:08] máme tady takový lidi, kteří na Facebooku
+[28:10] třeba mají falešní profily.
+[28:12] Tak to se taky prostě
+[28:14] nebude. Za chviličku, kdo bude
+[28:16] chtít jít na Facebook, tak tam bude muset jít pod svojí
+[28:18] identitou, pod svojí
+[28:20] digitální identitou časem
+[28:22] a na YouTube taky a na internet
+[28:24] vůbec taky.
+[28:26] A potom to přijde tak, že to bude
+[28:28] v Číně dneska.
+[28:30] Tam v let 4 městech už to funguje tak,
+[28:32] že jdete do tramvaje, nebo
+[28:34] do metra, nebo do něčeho, do nějakého vlaku,
+[28:36] tak vám to oskenuje obličej
+[28:38] a jdete dál. Nebo jdete nakoupit,
+[28:40] tak vám to oskenuje obličej a jdete dál.
+[28:42] Automaticky to
+[28:44] funguje s tou
+[28:46] digitální identitou a
+[28:48] s tím
+[28:50] bankovním účtem a to všechno je propojen
+[28:52] přes ty aplikace, takže
+[28:54] to, co tady
+[28:56] vzniká, ten, to, co
+[28:58] tady vzniká, to, o čem jsme mluvili včera,
+[29:00] řekněme dystopický stát,
+[29:02] kde lidi jsou neustále
+[29:04] kontrolováni, sledováni, posloucháni,
+[29:06] tak
+[29:08] ten základ k tomu je, aby bylo
+[29:10] propojený to, co ten člověk říká,
+[29:12] to, co píše, aby to bylo
+[29:14] propojený s tím, kdo to ve skutečnosti je.
+[29:16] Proto je důležitá ta digitální identita.
+[29:18] Protože dokud máme občanku
+[29:20] v kapse, tak musí přijít policajt,
+[29:22] aby nám tu občanku z kapsi řek,
+[29:24] abysme mu ji ukázali, aby nás
+[29:26] identifikoval.
+[29:28] Proto taky, když si vzpomenete na rok
+[29:30] 2023, na ty demonstrace, co byly
+[29:32] na Václaváku, tak potom na té tiskový konferenci
+[29:34] ty pořadatelé říkali,
+[29:36] pošlete nám prosím vás fotografie
+[29:38] a videa těch lidí, co měli ty oznáčky
+[29:40] Z, a potom říkali,
+[29:42] my jsme identifikovali tři osoby
+[29:44] a potom na ně teprve podali trestní oznávání,
+[29:46] protože je potřebovali identifikovat.
+[29:48] Za chvilku už to nebude
+[29:50] potřeba, protože ty kamery okamžitě
+[29:52] budou mít
+[29:54] jméno každého,
+[29:56] kdo je.
+[29:58] Takže je to kvůli kontrole,
+[30:00] je to kvůli tomu, aby
+[30:02] jsme si nemohli dělat to,
+[30:04] co nechce stát.
+[30:08] Jasně.
+[30:11] Bývalá americká kongresmenka
+[30:13] Marjorie Taylor Greene tvrdí,
+[30:15] že představitelé administrativy
+[30:17] prezidenta Donalda Trumpa
+[30:19] během strategických jednání
+[30:21] diskutují i o možnosti použití
+[30:23] jaderných zbraní proti
+[30:25] Iránu. Greene označila
+[30:27] takovou možnost za číreslo,
+[30:29] aby se varovala před rizikem
+[30:31] jaderné eskalace.
+[30:33] Zároveň zpochybnila tvrzení,
+[30:35] že Irán je blízko získaní
+[30:37] jaderné zbraně a poukázala
+[30:39] na rozdílné odhady amerických
+[30:41] a izraelských představitelů.
+[30:43] Billy Doom její tvrzení
+[30:45] podle agentury Anadol
+[30:47] bezprostředně zatím nereagoval.
+[30:49] Připadá vám Donald Trump
+[30:51] jako někdo, kdo je natolik
+[30:53] předvídatelný, že jste v klidu,
+[30:55] když slyšíte, že přemýšlí
+[30:57] o použití jaderných zbraní?
+[30:59] Mně teda Donald Trump
+[31:01] opravdu nepřipadá
+[31:03] natolik předvídatelný,
+[31:05] abych byl v klidu,
+[31:07] že se něco takového nemůže stát.
+[31:09] A krom toho znáte to
+[31:11] s tou Čechovou puškou, ne?
+[31:13] To byl Čechov, ne?
+[31:15] Čechov.
+[31:17] Když se v prvním dějství
+[31:19] objeví puška na zdi,
+[31:21] tak ve třetím dějství
+[31:23] se z ní bude střílet.
+[31:25] Doufám, že nejsme v prvním dějství,
+[31:27] kde se začíná mluvit
+[31:30] o tom, abychom došli
+[31:32] do třetího dějství.
+[31:37] Já teda tady mám poslední zprávu,
+[31:39] jestli tam, omlouvám se,
+[31:41] fakt to nevidím,
+[31:43] jestli tam režim nepíše,
+[31:45] že jsem něco přeskočila nebo něco.
+[31:47] Spojené arabské emiráty
+[31:49] pozastavily veškerý obchod,
+[31:51] obchodní výměnu
+[31:53] a finanční traxace s Iránem
+[31:55] až do odvolání.
+[31:57] Rozhodnutí přišlo poté,
+[31:59] co emirátské úřady oznámily,
+[32:01] že jejich protivzdušná obrana
+[32:03] zaznamenala dvě balistické rakety
+[32:05] vypalené z Iránu.
+[32:07] Jedna měla dopadnout mimo teritoriální vody
+[32:09] S.A.
+[32:11] a druhá uvnitř jejich vod.
+[32:13] Podle Abu Zabí
+[32:15] rakety ohrožovaly
+[32:17] jejich námožní dopravu.
+[32:19] Teheran odpovědnost odmítá
+[32:21] a označil obvění za nepodložené
+[32:23] a popřel, že by na nějaké rakety
+[32:25] na Spojené arabské emiráty
+[32:27] nějaké rakety vypalily.
+[32:29] Tady píše někdo,
+[32:35] jenom připomínám slova rejchla,
+[32:37] udělejte helloček a zavolejte
+[32:39] policii, je tam člověk s
+[32:41] Wagnerovou nášivkou.
+[32:43] Lidi, přemýšlejte,
+[32:45] koho si volíte.
+[32:47] Tady píše někdo do komentáře.
+[32:49] No, Irán,
+[32:51] že vypálil Irán popírá,
+[32:53] tam taky nevím, co bych k tomu moc
+[32:55] jako zkomentoval.
+[32:57] Spojené arabské emiráty,
+[32:59] prostě ta situace na tom Blízkém východě,
+[33:01] dobře, jak vám teda aspoň dneska něco řeknu,
+[33:03] ta situace na tom Blízkém východě
+[33:05] je taková, že tam mají ropu.
+[33:07] Objevili tam ropu, oni si myslí,
+[33:09] že tam mají hodaláha, že díky tomu jsou bohatý
+[33:11] a toho si všimli
+[33:13] spojení státy. A spojení
+[33:15] státy v roce 72
+[33:17] udělali dohodu, nejdřív se
+[33:19] soudskou Arábí a potom se zeměmi OPEC,
+[33:21] o tom, že
+[33:23] se veškerá ta ropa, která tam je,
+[33:25] bude obchodovat za dolary.
+[33:27] A za to jim slíbili vojenskou
+[33:29] podporu, ochranu. Přišli za nimi
+[33:31] něco jako mafie, hele,
+[33:33] teďko tady my vám budeme dělat ochranu,
+[33:35] jo, vy to budete prostě
+[33:37] tady nám dávat nějaký desátky.
+[33:39] A ty země, ty země
+[33:41] toho blízkého východu si spočítali, že
+[33:43] se jim to vyplatí, protože rova byla taková,
+[33:45] tak se jim to vyplatilo.
+[33:47] Dostávali
+[33:49] za to různý výhody, že jo, ty dolary oni
+[33:51] vytvořili jakou trojčlenku,
+[33:53] že, že
+[33:55] spojení státy
+[33:57] natiskli dolary, ty poslali těm
+[33:59] státům, který potřebovali nakoupit,
+[34:01] nebo respektive ty poslali rovnou do těch zemí
+[34:03] OPECu, ale vyúčtovalo se to
+[34:05] přes ty státy, který nakupovali tu ropu,
+[34:07] a takhle ty státy
+[34:09] toho perskýho zálivu, nebo celého toho
+[34:11] blízkého východu vlastně, který mají
+[34:13] ropu, tak
+[34:15] tak ty z toho zbohatli,
+[34:17] a jsou to spojenci spojených
+[34:19] států, no ale nejsou všichni spojenci
+[34:21] spojených států, a spojený
+[34:23] státy by chtěli, aby všichni dělali
+[34:25] to, že budou pracovat pro spojený státy.
+[34:27] No tak tam prostě
+[34:29] je vojenský konflikt.
+[34:31] No a teďkon ty země mezi sebou, že jo,
+[34:33] trošičku tam mají nějak
+[34:35] velký výměny, protože spojený státy tam mají
+[34:37] vojenský základny,
+[34:39] takže Irán tam utočí na ty
+[34:41] vojenský základny, když oni utočí
+[34:43] z těch vojenských základen,
+[34:45] no a teďkon se stala situace, že
+[34:47] spojený arabský emiráty řekli, že
+[34:49] jedna iránská raketa spadla
+[34:51] do jejich vod, a dělají
+[34:53] z toho velkou věc. Iránci říkají, že
+[34:55] za to nenesou zodpovědnost.
+[34:57] Podle mě to není nějaká
+[34:59] velká věc, ale
+[35:01] prostě se o tom baví.
+[35:03] Nevím, jestli z toho bude něco
+[35:05] víc, nebo ne. Těžko
+[35:07] komentovat takovou zprávu.
+[35:09] No, to byla ode mě poslední
+[35:13] zpráva, já se omlouvám, fakt nevidím,
+[35:15] tak jenom slyším.
+[35:17] Tak pokud tam není,
+[35:19] nepíše někdo, že jsem něco přeskočila,
+[35:21] teda režie, tak
+[35:23] by to mělo být pro dnešek
+[35:25] všechno. Ok, přátelé, tady
+[35:27] píšete, že se uvidíme
+[35:29] v sobotu v Příčovech, když
+[35:31] mě to tady taky dneska padá.
+[35:33] Dneska máme den, teda jako
+[35:35] hejskej. V sobotu
+[35:37] v Příčovech určitě tam bude
+[35:39] spousta lidí od nás, myslím, že tam bude
+[35:41] i Zuzka.
+[35:43] Budeme tam poprvé rozdávat letáčky
+[35:45] na veřejný shromáždění člověk
+[35:47] na prvním místě. Bude tam taky
+[35:49] dlouhý dopis ode mě, pravděpodobně, který dostanete
+[35:51] k dispozici.
+[35:53] Takže, kdo pojedete
+[35:55] v sobotu do Příčov, tak určitě tam potkáte
+[35:57] spoustu lidí, určitě se tam potkáte.
+[35:59] Doporučuji, abyste do Příčov,
+[36:01] jestli pojedete, protože
+[36:03] doporučuji, abyste tam jeli, ale jestli tam už pojedete,
+[36:05] tak doporučuji, abyste se tam
+[36:07] potkali mezi sebou, protože
+[36:09] spousta z vás, který tady
+[36:11] se potkáváte ve zprávách
+[36:13] a každý den si píšete
+[36:15] tady v komentářích, tak možná se budete
+[36:17] chtít poznat osobně, tak si
+[36:19] možná napište i v komentářích, třeba
+[36:21] zítra ještě, napište si
+[36:23] v komentářích, kdo jedete do Příčov,
+[36:25] odkud jedete,
+[36:27] jestli se chcete s někým potkat, atd.
+[36:29] Zkuste se třeba domluvit
+[36:31] a můžete se tam potkat a trošičku
+[36:33] se seznámit. Tak,
+[36:35] toť vše.
+[36:37] Dnešní zprávy nebyly moc o komentářích,
+[36:39] dneska to bylo opravdu o tom, že jsme měli nějaký
+[36:41] přehled zpráv. Uvidíme, jestli
+[36:43] zítra bude něco zajímavého
+[36:45] komentovat a těším se
+[36:47] na viděnou zítra v 9 hodin.
+[36:49] Já taky, snad to
+[36:52] budu i vidět.

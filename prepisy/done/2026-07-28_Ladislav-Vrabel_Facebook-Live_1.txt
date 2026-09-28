@@ -1,0 +1,37 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1026506856754441
+Datum videa:  2026-07-28
+Zpracováno:   2026-07-30 14:00:31
+Jazyk:        cs
+Délka:        00:03:06
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    5s
+Přepis:       27s
+Rychlost:     6.7x realtime
+Celkem:       32s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Vážení přátelé, Ukrajina zautočila na Irán. Víte, že jsem ve zprávách několikrát mluvil o tom, že je otázka, kde ta třetí světová válka v podstatě začne, jestli to bude na Ukrajině nebo v Iránu a že předpokládám, že je docela pravděpodobnější, že by to mohlo být v Iránu.
+[00:24] No tak Zelenský, samozřejmě s podporou západu, s podporou západní pomoci, protože Ukrajina by nemohla válčit, kdybychom nedávali Ukrajině peníze a zbraně, tak zautočil v sobotu na iránskou obchodní loď.
+[00:39] Iránský minister zahraničních věcí řekl, že je to proti mezinárodnímu právu a že to nezůstane bez odvety, že samozřejmě Irán bude muset reagovat na to, že Ukrajina zautočila na Irán.
+[00:54] A že mohou být dotčeny tou odvetou všechny země, které podporují Ukrajinu.
+[01:02] Takže jenom abychom si uvědomili, co se děje, tak Volodomír Zelenský dneska přistál v Spojených státech, má souzku s Donaldem Trumpem o tom, jakým způsobem pokračovat vlastně v tom konfliktu Rusko-Ukrajina, respektive západ skrze Ukrajinu versus Rusko.
+[01:23] A Donald Trump mluví o tom, že má nějaké nové možnosti, jakým způsobem ten konflikt řešit. A mezi tím se hezky ukrajinský prezident zapojil do konfliktu Spojené státy versus Irán tím, že napadl iránskou loď.
+[01:42] Takže se nám tady ty dva konflikty pomalu prolínají a vzniká nám z toho poměrně velký celosvětový konflikt.
+[01:53] Abyste si uvědomili, co se děje. Ono to je takový nenápadný, že Ukrajina zautočila na iránskou loď, ale v zásadě prostě se nám tady spojili ty dva konflikty v nějaký konflikt větší.
+[02:08] Uvidíme, s čím přijde dneska Volodomir Zelenský a Donald Trump ve Spojených státech, ale o tom si povíme večer v devět ve zprávách.
+[02:16] Takže dejte lidem vědět. Ono taky, když se bavíme o historii druhé světové války, tak se mluví o tom, že to byli Němci,
+[02:24] kteří se převlíkli za polské vojáky a napadli dva polské vojáky na hranicích, nebo několik polských vojáků na hranicích,
+[02:31] že to byl začátek druhé světové války. Vždycky potom historicky se to tváří různě, ale považuji to, že Ukrajinci přímo zautočili na Irán
+[02:42] a Irán mluví o tom, že to nemůže nechat bez odvety a že budou ovlivněny všechny země, které, že mohou být ovlivněny všechny země, které podporují Ukrajinu.
+[02:53] Tak mně připadá.
+[02:54] Takže to je docela důležitý a zásadní moment v oblasti světové bezpečnosti. Mějte se hezky, uvidíme se večer v 9 ve zprávách.
