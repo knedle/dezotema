@@ -24,6 +24,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Jiří Černohorský — ruská ropa a plyn budou v zimě chybět; nafta 60–65 Kč a kolaps zásobování (22. 9. 2026)
+
+**Předpověď:** Dodávky ruské ropy a plynu do Evropy nebudou a v zimě budou „jednoznačně" chybět; při eskalaci přijdou fronty na čerpacích stanicích a nafta za 60–65 Kč, poté přídělový systém a do týdne kolaps zásobování potravinami.
+
+> „Nejdřív budou fronty jako prase, a to už ta nafta bude stát 65 až 60 korun. Pak se to omezí [...] v Turanu stačí typuju týden." — Jiří Černohorský
+
+**Horizont:** zima 2026/2027 (podmíněno eskalací)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
+### Jiří Černohorský — při mobilizaci odejdou Češi do ruské armády a „popraví" politiky (22. 9. 2026)
+
+**Předpověď:** Pokud vláda vyhlásí mobilizaci, spousta českých mužů odejde do Ruska, vstoupí dobrovolně do ruské armády a politiky, kteří „ničí Českou republiku", popraví.
+
+> „Takže mobilizace? Jo, bude. Pokud to uděláte, tak vám garantuju [...] aby vás popravili. Aby vás postříleli vy děvky. To se stane." — Jiří Černohorský
+
+**Horizont:** podmíněno vyhlášením mobilizace
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
 ### Konspirátor Boldy — vodné a stočné stonásobně dražší do 1–2 let (22. 9. 2026)
 
 **Předpověď:** Voda bude obchodována na burze a tokenizována; cena vodného a stočného vzroste v horizontu roku až dvou zhruba stonásobně. Elity podle něj plánují vodní krizi, na niž „budou umírat miliardy lidí".

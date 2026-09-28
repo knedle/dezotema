@@ -751,3 +751,15 @@ Podle zprávy, kterou Vrabel komentuje, švédské parlamentní volby těsně vy
 ⚡ **Poznámka:** Konkrétní číslo o rozdílu způsobeném hlasy přistěhovalců nelze z přepisu nezávisle ověřit.
 
 **Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+
+---
+
+### „Nemalá část" Ukrajinců v ČR vraždí, znásilňuje a nevděčně protestuje; ČR platí 600 milionů měsíčně (Černohorský, 22. 9. 2026)
+
+Černohorský tvrdí, že „nemalá část" Ukrajinců v ČR „dělá bordel, vraždí, znásilňuje, chlastá" a natáčí videa o tom, jací jsou Češi „čuráci", že je živí zadarmo; vadí mu i jejich demonstrace s vlajkami (Karlův most). On sám by na jejich místě podle svých slov bojoval, nenechal doma matku s dětmi a v cizí zemi by byl vděčný a učil se jazyk — „to jsme my, Češi, Moravané, Slezané [...] Ukrajinci tohle nebudou", protože „nátura národa se nemění". Zároveň výslovně říká, že netvrdí, že jsou všichni Ukrajinci „hajzlové nacističtí", a zmiňuje své ukrajinské kamarádky. Uvádí, že ČR živí 700 tisíc Ukrajinců a platí na jejich podporu 600 milionů Kč měsíčně.
+
+> „Já neříkám, že jsou všichni Ukrajinci totální zmrdi a že jsou to hajzlové nacističtí. Ne. Ale nemalá část ano." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---

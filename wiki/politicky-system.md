@@ -1160,7 +1160,9 @@ V reakci na vlastní téma šetření státního rozpočtu Černohorský podrobn
 
 ⚡ **Poznámka:** Konkrétní částky platové základny a mzdy ředitele ČT nelze ověřit z veřejně dostupných zdrojů v podobě, v jaké je Černohorský prezentuje.
 
-**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026)
+**22. 9.** — Černohorský se k tématu vrací ironickým úvodem („rok po volbách, všechno se nám napravuje"): nejnižší starobní důchod podle nové valorizace nesmí klesnout pod 10 325,70 Kč, nejnižší invalidní důchod 1. stupně je kolem 6 370 Kč a valorizace důchodců činí zhruba 320 Kč — zatímco poslancům a ústavním činitelům podle zákona 236/1995 vzroste plat o 5,7 % (plus další koeficienty) na zhruba 120 tisíc hrubého, s nezdaněnými náhradami na 160–170 tisíc a s funkcemi ve výborech na 200–220 tisíc. Zmiňuje přeplatky za elektřinu, které si měl nechávat vracet Zdeněk Hřib (40 tisíc měsíčně), a poslance „vlastence" s „27 funkcemi" (jmenuje Martina Haška z PRO), jejichž jména prý zveřejní až po volbách. Zvýšení platů za Babišovy vlády v době, kdy „lidi padají na rypáky", označuje za „nehoráznou aroganci" — „tímhle, pane Andreji Babiši, říkáte těm lidem: my na vás serem". Kdo by si podle něj zasloužil přidat, jsou hasiči (80–100 tisíc, „víc než jakýkoliv poslanec"), dobří učitelé (ne ti, kteří „tleskají LGBT") a zdravotníci, kteří se za covidu „nezaprodali" — ne policisté, kteří podle něj „slouží hajzlům nahoře" a kryjí „Oganesjanův gang".
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026), [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 
 **31. 8.** — V reakci na článek Aktuálně.cz (reagující na jeho předchozí video) Černohorský rozebírá konkrétní vedlejší příjmy jednotlivých poslanců za rok 2025 plynoucí ze souběhu více funkcí: Jan Skopeček (ODS) 5 174 087 Kč, Petr Fiala 5 048 333 Kč, Marian Jurečka cca 4 066 000 Kč, místopředsedkyně Sněmovny Olga Richterová cca 4 343 981 Kč (přepočteno na cca 434 tis. Kč měsíčně), Markéta Pekarová Adamová 4 223 000 Kč, Radek Vondráček (dvě funkce) 4 178 000 Kč, Aleš Juchelka 4 141 000 Kč a Patrik Nacher (tři funkce) 4 120 000 Kč — celkem odhaduje, že těchto 20 nejlépe vydělávajících poslanců stálo stát cca 94 mil. Kč. Kritizuje zejména souběh poslaneckého mandátu s členstvím v dozorčích radách jako střet zájmů, který by měl být okamžitě zakázán — srovnává se staršími případy vícenásobných funkcí (Michal/Ivan Hašek za ČSSD, poslanec Hrnčíř za SPD).
 
@@ -1189,6 +1191,32 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 Černohorský vyjadřuje uznání komentátorovi Robinu Čumpelíkovi za video kritizující proměnu vlasteneckého setkání v Příčovech — souhlasí s tezí, že akce přestala být o skutečné alternativě a odvaze a stala se jen přehlídkou politiků (explicitně jmenuje Tomia Okamuru jako někoho, kdo tam „nemá co pohledávat"). Ostře napadá vlastní diváky, kteří podle něj „37 let" bezmyšlenkovitě tleskají politikům bez ohledu na jejich skutky — konkrétně vyčítá, že jim nevadí pokračující zbrojení a financování Ukrajiny pod ministerstvem obrany vedeným SPD, setrvání Adama Vojtěcha ve funkci ani to, že Andrej Babiš u covidu jen přiznal „udělali jsme chybu" bez skutečné nápravy (žádá zřízení odškodňovacího fondu). Obviňuje část svého publika z pokrytectví — kdyby cokoliv podobného udělal politik, kterého nemají rádi, okamžitě by ho odsoudili, ale u „svých" oblíbenců totéž mlčky přecházejí.
 
 **Zdroje:** [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+
+---
+
+### Babišova vláda jako „menší zlo", ale servilní k Ukrajině; za chování politiků mohou „ovcoidní" voliči (Černohorský, 22. 9. 2026)
+
+Černohorský hodnotí rok Babišovy vlády: výměna vlády měla „do určité míry smysl", protože kdyby zůstali Fiala a Rakušan, on sám by podle něj už „dávno nemluvil a byl v kriminále" a totéž by potkalo aktéry kauzy kolem Ivana Přemysla Hadravy a Ivana Kratochvíla. Kritiku Fialy, Hřiba a Pirátů už považuje za zbytečnou — „nejsou u moci" — a kritizovat je třeba ty, kdo vládnou: Babiše uznává „v určitém směru", ale vyčítá mu (a Motoristům i SPD) nesplněné sliby a „servilitu", s níž vláda „leze Ukrajině a Zelenskýmu do prdele" (Macinka je podle něj „bourák", ale v otázce Ruska a Ukrajiny se chová „jako kunda"). Nechápe voliče jakékoli strany, kteří jen tleskají a přehlížejí nesplněné sliby. Babiše zároveň hájí v otázce dluhu: v letech 2018–2021 prý dluh mírně snížil a většina schodku šla na covid, za nějž vládu viní z podvodů (roušky z Číny). Politici se podle něj chovají tak, jak se chovají, protože je lidé nenutí jinak — „to, jak se chovají politici, je naše vina" — a stát neživí politici, ale občané, jejichž peníze nemají jít na Ukrajinu a dotace miliardářům. Přeje si zažít den, kdy se „Češi, Moravané a Slezané vzbouří", ale polovinu národa považuje za „vylágrované dementy", kterým nevadí bitcoinová kauza ani Dozimetr.
+
+> „Protože my jsme takový ovcoidní kundy, že jim pořád budeme tleskat." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
+### Jurečka „na elektrické křeslo" za invalidní důchodce; výtky Havlíčkovi (Černohorský, 22. 9. 2026)
+
+Černohorský viní bývalého ministra práce Mariana Jurečku, že „zahájil okrádání invalidních důchodců" (navazuje na svou kritiku posudkových lékařů), a obviňuje ho, že dohodil bratrovi zakázky za 280–300 milionů. Prohlašuje, že kdyby to šlo, posadil by ho na elektrické křeslo a předtím zabavil majetek celé jeho rodině. Kritizuje i Karla Havlíčka (ANO), kterého jinak považuje za velmi inteligentního a schopného ministra, že se v debatě na Primě „kroutil jak bajadéra" a Jurečkovu otázku „kdo to zaplatí" nesrazil připomínkou, že minulá vláda zadlužila stát o 1,2 bilionu za čtyři roky. Minulé vládě připisuje, že „zlegalizovala obchod s dětmi, s orgány, s vraždami, zbraněmi". Kritizuje také návrh Borise Šťastného (Motoristé) na neplacené první tři dny nemoci a ministra Juchelku za snížení podpory v nezaměstnanosti v době zvyšování politických platů. Viz [Stochastický teror](stochasticky-teror.md).
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
+### „Zpoplatněné vlastenectví": Tušl a Zítko jako vyžírači dárců; vlastní vysílání bez QR kódu (Černohorský, 22. 9. 2026)
+
+Černohorský obhajuje, proč zveřejnil informace o aktivistovi Tušlovi: ten podle něj přes soukromé zprávy „žebrá" o peníze s odkazem na své děti (tři jeho známí mu prý poslali 30–40 tisíc), zveřejnil falešné parte vytvořené AI (s datem pohřbu 21. 10.) a do vězení nešel „za hrdinství", ale za neplacení alimentů a výhrůžky bývalé partnerce a policistovi; stál prý i za zatažením Tomáše Čermáka do iniciativy „Nepodvolím se". Pavla Zítka obviňuje, že lhal lidem o dovozu vakcín (Sputnik) a „odchytávání poslanců", prodával „fény na vodu" a na prezidentskou kampaň vybral 750 tisíc Kč, přičemž dostal pokutu 40 tisíc — „to se to krásně dělá to vlastenectví"; popisuje „model" vlasteneckých influencerů (krátká videa, motto, QR kód). Sám zdůrazňuje, že 11 let vysílá zadarmo, QR kód „nikdy mít nebude" a raději bude „žrát suchej chleba, než abych prosil a žebral o peníze"; dary, které kdy dostal, podle svých slov poslal na transparentní účet nebo potřebným. Přiznává, že jeho vulgarita odrazuje od sdílení, ale „jiný nebude". Navazuje na svou kritiku [vlastenecké scény jako byznysu](#podpora-robina-čumpelíka--kritika-vlastenecké-scény-příčovy-a-vlastních-diváků-za-slepé-tleskání-politikům-černohorský-31-8-2026).
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 
 ---
 

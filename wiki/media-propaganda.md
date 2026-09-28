@@ -586,3 +586,15 @@ Vrabel upozorňuje, že Facebook mu už druhý den v řadě uprostřed vysílán
 Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulkem „Na akci s Putinovým ideologem má vystoupit Zeman" (o konferenci spolku Svatopluk, na níž mj. online vystoupil ruský komentátor Fjodor Lukjanov). Článek označuje za „štvavý pamflet", jehož poselství — s kýmkoli nekonvenčním je zakázáno mluvit, kdo tento zákaz poruší, je „kolaborant" k reputační likvidaci — přirovnává k rétorice nacistického plátku Der Stürmer i komunistické propagandy. Argumentuje, že demokracie a diplomacie jsou naopak založené na povinnosti jednat i s oponenty, a že ten, kdo brání protistraně mluvit, tím přiznává, že nemá lepší argumenty. Kritizuje také moderátorku CNN Prima News Lucii Čermákovou, která ho měla přerušit, když chtěl na pořadu 360 rozebrat projev Ursuly von der Leyenové.
 
 **Zdroje:** [Rajchl — Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
+
+---
+
+### Moc elit je v médiích — návrh vlastenecké televize financované 30 tisíci členy po 100 Kč (Černohorský, 22. 9. 2026)
+
+Černohorský tvrdí, že elity mají moc, protože mají „naše peníze" a jimi ovládají média, kterým „druhá polovina magorů" věří. Navrhuje vlastní vlasteneckou televizi: tým 5–6 lidí s využitím AI, dvě studia v domech vlastenců, nejprve regionální a pak celostátní licence; financovat by ji mělo 30 tisíc členů jeho platformy (Společenství Čest Svoboda Respekt) po 100 Kč měsíčně, tj. 3 miliony Kč. Stěžuje si, že lidé místo toho „tleskají vůdcům" s vlastními transparentními účty. Zároveň popisuje, že mu Facebook „všechno omezuje" — příspěvky schovává do rámečků a sleduje ho „i v 11 večer".
+
+> „Oni mají moc. Proč mají tu moc? Protože mají naše prachy. Mají naše prachy a těma našema penězma ovládají média." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---

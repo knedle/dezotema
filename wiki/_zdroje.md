@@ -4958,3 +4958,11 @@
 - **Datum záznamu:** 2026-09-21
 - **Zpracováno:** ano
 - **Poznámka:** Převážně sdílený dokumentární text o volyňském masakru (UPA 1943); vlastní komentář Černohorského jen v závěru (zobecnění na „národ", výzva ke sdílení).
+
+## Jiří Černohorský — Facebook Live (22. 9. 2026) {#jiří-černohorský--facebook-live-22-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-22_Jiří-Černohorský_82K-views-368-reactions-Jiří-Černohorský-on-Reels.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1405741741743135>
+- **Datum záznamu:** 2026-09-22
+- **Zpracováno:** ano
+- **Poznámka:** 3 h 22 min živé vysílání. Platy politiků vs. důchody, Babiš „menší zlo", sexistické útoky na političky, Volyň/TikTok, Ukrajinci v ČR, konec války jen ruskými podmínkami/orešníky, ropa a nafta, energetika a datová centra, Pavel a veto jako velezrada, Tušl a Zítko, Jurečka „na elektrické křeslo", vlastenecká TV. Sdílená videa (Blaha, „Dominik"), čtená zpráva fanouška a osobní pasáže nezpracovány.

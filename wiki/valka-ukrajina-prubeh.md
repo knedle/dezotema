@@ -475,7 +475,9 @@ O den později (**1. 7. 2026**) Rajchl reaguje na ohlasy: opoziční politici (j
 
 ⚡ **Poznámka:** Historické údaje pocházejí ze sdíleného dokumentu, ne od Černohorského; jeho vlastní přínos je zobecnění zločinů UPA na Ukrajince jako národ — viz [Stochastický teror](stochasticky-teror.md).
 
-**Zdroje:** [Černohorský — Videoportál: volyňský masakr, 21. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026)
+**22. 9.** — Černohorský popisuje, že Facebook jeho příspěvek o Volyni omezil, a tak jej sestříhal na TikTok (6 tisíc zhlédnutí za 12 hodin) a poslal i poslancům. Odmítá srovnání, které mu tam napsal jeden z diváků, že podobná zvěrstva dnes páchá „Putler" na Ukrajině: zločiny podle něj páchají „ukronacisti" z Azova uctívající Banderu a Šuchevyče, kteří mají zaživa zasypávat dezertéry a zraněné a mučit zajaté Rusy; připouští, že i Rusové páchají zrůdnosti a „mstí se", ale kdyby šlo o srovnatelné zločiny, internet by jich byl plný. Zelenskyj podle něj 26. 5. 2026 udělil jednotce čestný titul „UPA" právě v den výročí volyňského pogromu z roku 1943. Zdůrazňuje, že „nenávidí" ne všechny Ukrajince (má ukrajinské přítelkyně), ale Zelenského, jeho okolí a náboráře TCK, kteří unášejí muže z ulic — „ať pochcípaj" (viz [Stochastický teror](stochasticky-teror.md)).
+
+**Zdroje:** [Černohorský — Videoportál: volyňský masakr, 21. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026), [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 
 ---
 

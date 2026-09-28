@@ -1353,3 +1353,15 @@ Rajchl shrnuje ucelený výklad příčin války, který podle něj mainstreamov
 Připouští, že lze vnímat Rusko jako hlavního viníka, protože překročilo hranice 24. 2. 2022, ale dokud si Západ nepřizná „obrovskou část viny", je podle něj odsouzen opakovat stejné chyby.
 
 **Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
+### Válka skončí jen ruskými podmínkami, nebo „orešníkem vedle orešníku"; porážka Ruska = konec světa; elity v bunkrech (Černohorský, 22. 9. 2026)
+
+Černohorský tvrdí, že válka může skončit jen dvěma způsoby: buď EU „odstraní všechny eurohujerské děvky", přistoupí na ruské podmínky a uzavře příměří (čímž se „ještě část Ukrajiny zachrání"), nebo přijde „orešník vedle orešníku", vybombardovaná Ukrajina a další desítky tisíc mrtvých. Rusko podle něj jednoznačně vítězí, byť za vysokých ztrát (Ukrajina podle něj ztrácí 30 tisíc vojáků měsíčně), a jadernou velmoc, za níž stojí Čína, Indie, Saúdská Arábie, KLDR, Pákistán a BRICS, porazit nelze — kdyby Rusko „padlo na kolena", „končí svět"; odkazuje na expertní popis rakety Sarmat (15 hlavic, 50 klamných cílů). Politiky, kteří věří v porážku Ruska (Pavel, Kolář, Foltýn, Kupka, Fiala, Rakušan, Richterová, Hřib aj.), označuje za „tupé dementy" a „loutky" — „globální zmrdi, kteří ovládají svět", mají podle něj připravené podzemní bunkry se zásobami na sto let a klidně obětují ostatní v „jaderném holokaustu". Vyzývá Babiše, aby opustil „proukrajinskou rétoriku", skončil se zbrojením a přidal se k Ficovi v jednání s Putinem. Lidem, kteří tvrdí, že Rusko nemá rakety, podle něj chybí „důkaz" v podobě „vybombardovaného Kyjeva a Lvova, hnízda nacistických zmrdů". Tvrdí také, že kdyby vláda vyhlásila mobilizaci, spousta Čechů odejde do Ruska, vstoupí do ruské armády a politiky, kteří ničí ČR, „popraví" — viz [Stochastický teror](stochasticky-teror.md) a [predikce](predikce.md).
+
+> „Evropa tleská sobě sama zničení. Evropa tleská válce." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---

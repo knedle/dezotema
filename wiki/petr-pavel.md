@@ -588,3 +588,11 @@ Rajchl viní Petra Pavla, že jako „vrchní rozvědčík a generál" ve sporu 
 **Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
 
 ---
+
+### Vzdání se práva veta jako velezrada — výzva Babišovi k ústavní žalobě; plat a Formule 1 (Černohorský, 22. 9. 2026)
+
+Černohorský označuje Pavlovo „odevzdání práva veta v některých zahraničních otázkách" za velezradu a vyzývá Andreje Babiše, aby našel pět senátorů, kteří by proti prezidentovi podali ústavní žalobu. Kritizuje zvýšení prezidentského platu, z něhož si Pavel podle něj „jezdí na Formuli 1", zatímco lidé „chcípají hladem" a vybírají mezi léky a jídlem. Pavel si podle něj přeje válku a „jaderný holokaust", protože si myslí, že bude sám ochráněn, a těší se na mobilizaci — Černohorský prohlašuje, že by bojovat nešel („tahle země už mně nepatří"). Navazuje na [Pavel podporuje euro a chce se vzdát práva veta](suverenita-eu.md#pavel-podporuje-euro-a-chce-se-vzdát-práva-veta-v-zahraniční-politice--černohorský-3-7-2026).
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---

@@ -124,6 +124,24 @@ Vrabel komentuje zprávu o tom, že JP Morgan Chase plánuje investovat 1,5 bili
 
 ---
 
+### Nedostatek ruské ropy je vina ukrajinských dronů; scénář: nafta 60–65 Kč, příděly, kolaps zásobování do týdne (Černohorský, 22. 9. 2026)
+
+Černohorský tvrdí, že Rusko nezastavilo dodávky ropy do ČR záměrně, ale proto, že ukrajinské drony (s pomocí „globálních hajzlů" z Velké Británie) poškodily rafinerii a Rusko musí chránit vlastní trh a armádu; zásobníky plynu jsou podle něj naplněné méně než za Fialy a ruská ropa i plyn budou v zimě „jednoznačně" chybět. Nastiňuje scénář eskalace: nejdřív fronty a nafta za 60–65 Kč, pak přídělový systém pro zemědělce a dopravce a bez kamionů se zásobování potravinami zhroutí „typuju týden" — jako náznak uvádí, že ve Francii je nezásobená každá desátá pumpa. Babiše tu hájí: bez příměří nemá naftu odkud vzít a cenu může ovlivnit jen o 2–5 Kč. Cituje Lubomíra Blahu, že EU jde po Rusech „jako nacisté po Židech". Viz [predikce](predikce.md).
+
+> „Budete ještě vlastně vzpomínat na to, že jsme měli naftu za 50." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
+### Elektrárny postavil socialismus, za 37 let nic; datová centra s levnou elektřinou mimo burzu; OZE místo Dukovan (Černohorský, 22. 9. 2026)
+
+Černohorský tvrdí, že firmy i domácnosti platí „nehorázné" ceny energií (ČR má podle něj 6.–7. nejdražší elektřinu v EU) kvůli Fialovi, Rakušanovi a Stanjurovi, přičemž všechny elektrárny a přehrady vznikly za socialismu — za 37 let se „nevybudovalo nic", ani přehrada na severní Moravě, jejíž absence podle něj stála při povodních sedm životů. S výslovnou výhradou, že informaci nemá ověřenou, tvrdí, že v ČR fungují čtyři datová centra (páté vzniká u Prahy), která spotřebovávají obrovské množství elektřiny a vody, a Google, Microsoft či Kellnerovi mají mít dlouholeté smlouvy mimo lipskou burzu za „směšné" ceny (uvádí příklad 2,50 Kč proti 8 Kč/kWh pro domácnosti). Solární elektrárny podle něj stojí 40 mld. Kč ročně na dotacích a vláda chce stavět větrníky jen kvůli závazkům vůči EU — Turkovo omezení akceleračních zón je „hovno platný"; za peníze vložené do OZE by podle něj „stály další Dukovany" (navazuje na solární dotace a [větrníky](vetrniky.md)).
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
 ## Plyn v ČR — diverzifikace zásobování
 
 ### Odkud Česká republika bere plyn — Vrabel (27. 4. 2026)

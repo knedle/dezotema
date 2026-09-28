@@ -86,6 +86,14 @@ Postoj implikuje: politický a společenský komentář je mužská doména; že
 
 ---
 
+### Ženy do politiky nepatří — až na výjimky; sexistické útoky na političky (Černohorský, 22. 9. 2026)
+
+Černohorský v dlouhé vulgární pasáži napadá političky — Pirátky („jedna pičulinda vedle druhé", výsměch „čůracím kalíškům" a nebinaritě), europoslankyně Kaju Kallasovou a Ursulu von der Leyenovou, Danuši Nerudovou, Evu Decroix či Janu Černochovou — a tvrdí, že ženy do politiky „úplně nepatří", s výjimkou těch, které se dokážou pohybovat v „mužském prostředí". Nechápe, jak je muži v europarlamentu mohou poslouchat; vysvětluje si to tím, že tam „nesedí skuteční chlapi", ale „teplouši" a „atrapy na chlapy" (Niedermayer, Zdechovský, v ČR Lipavský, Kupka, Jakob). Ve vztahu podle něj „určuje" žena jen jako součást „hry"; „feministické kundy" to už neumějí. Navazuje na svůj výrok o návratu žen „ke sporheltu".
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
 ## Šmírování dětí státem
 
 ### Česká školní inspekce: povinný dotazník o rodině, depresích a sebepoškozování — Rajchl (24. 5. 2026)
