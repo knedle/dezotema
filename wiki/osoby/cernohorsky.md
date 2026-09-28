@@ -44,6 +44,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **22. 9.** — „Zpoplatněné vlastenectví": Tušl (falešné parte, žebrání) a Zítko (750 tis. na kampaň); sám bez QR kódu — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 - **22. 9.** — Pavlovo vzdání se práva veta = velezrada, výzva k ústavní žalobě — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) → [petr-pavel.md](../petr-pavel.md)
 - **24. 9.** — Podmíněné propuštění Čermáka: nepřiměřený trest jako „zářný příklad"; viník Tušl; Zítko prý Čermáka „s největší pravděpodobností" udal; spolek má 700–750 tis. na pomoc — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+- **27. 9.** — Facebookový profil „Politický vězeň Čermák" je podle něj falešný (AI texty, „vesmírný král"), autorem Zítko — [Videoportál 27. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026)
 - **24. 9.** — Premiérský program: platy politiků na úroveň 2010, zrušit paušály a poplatky ČT, „vydat" Fialovu vládu; vlastní kandidatura (Restart pro Brno) a výsměch kampaním — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) → [volby-2026.md](../volby-2026.md)
 
 ### [Ceny energií](../ceny-energie.md)
@@ -407,3 +408,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: volyňský masakr (21. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026)
 - [Facebook Live (22. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 - [Facebook Live (24. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+- [Videoportál: falešný profil Čermák (27. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026)

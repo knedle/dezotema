@@ -4974,3 +4974,10 @@
 - **Datum záznamu:** 2026-09-24
 - **Zpracováno:** ano
 - **Poznámka:** 3 h 09 min. Úvodních 12 min satirická parodie („Franta Novák" — Čermák jako klon). Propuštění Čermáka, Tušl a Zítko (údajné udání), spolek, PHM a omluva Komínkovi, korupce na Ukrajině, příměří a „oříšky", proruská propaganda neexistuje, von der Leyenová, Vlasáková, volební kampaně (vlastní kandidatura Restart pro Brno), Volyň a Zelenskyj, premiérský program.
+
+## Jiří Černohorský — Videoportál: falešný profil Čermák (27. 9. 2026) {#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-27_Jiří-Černohorský_19K-views-67-reactions-Jiří-Černohorský.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/838396809331669>
+- **Datum záznamu:** 2026-09-27
+- **Zpracováno:** ano
