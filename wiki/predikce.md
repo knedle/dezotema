@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — Ukrajina „za dva roky úplně někde jinde"; výroba Patriotů nevznikne (25. 9. 2026)
+
+**Předpověď:** Ukrajina nestihne spustit výrobu střel Patriot (továrnu by Rusové zničili) a za dva roky bude „úplně někde jinde" — Rusové nebudou další dva roky „chodit po Ukrajině s vojáky".
+
+> „Si myslím, že Ukrajina už bude úplně někde jinde za dva roky." — Ladislav Vrabel
+
+**Horizont:** do 9/2028
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
+
+---
+
 ### Ladislav Vrabel — „říjnové překvapení" — válka Evropy s Ruskem, zahájená atentátem nebo útokem pod falešnou vlajkou (24. 9. 2026)
 
 **Předpověď:** V říjnu 2026 přijde „říjnové překvapení" — konflikt Evropy s Ruskem, s velkou pravděpodobností zahájený atentátem na významnou osobu nebo útokem pod falešnou vlajkou.

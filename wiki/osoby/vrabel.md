@@ -1197,6 +1197,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 17)
 - **15. 9.** — USA poprvé veřejně přiznaly zbraně na oběžné dráze pro kontrolu vesmíru — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#usa-poprvé-veřejně-přiznaly-zbraně-na-oběžné-dráze-pro-kontrolu-vesmíru-vrabel-15-9-2026)
 - **24. 9.** — Rutte a 5 000 vzletů proti Íránu — „na nástěnku válečných zločinců" — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+- **25. 9.** — IZS Karlovy Vary jako příprava na válku; Macinkova povinná vojna, Češi „zlí a nepřející" — [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1217,6 +1218,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 9)
 - **18. 9.** — Húsíové rozšiřují územní zisky, ohrožují saúdský export ropy — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+- **25. 9.** — Lapid a „dva konflikty", mesiánská eschatologie; ironický scénář vyvraždění vedení USA; 78 výměn vlád USA — [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 15)
 - **18. 9.** — Trump/Monroeova doktrína — vyhrožuje EU i Kanadě kvůli přidružení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1236,6 +1238,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Migrace](../migrace.md) (pokrač. 22)
 - **19. 9.** — ukrajinizace ČR (2 mil.), predikce ukrajinské politické strany ve volbách — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - **22. 9.** — legální i nelegální migrace = „sebevražda Evropy", model rotačních víz, kritika Konečné — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+- **25. 9.** — Jarosław a „pravidlo satanismu"; Dover a rasistické glosy — [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1716,6 +1719,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Peter Pellegrini | ❌ negativní | Dostal od Rutteho „nabídku, která se neodmítá" (místo v NATO) | 2026-09-24 | [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026) |
 | Aleksandar Vučić | ✅ pozitivní | „Vynikající" projev v OSN o konci mezinárodního práva | 2026-09-24 | [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026) |
 | Mark Rutte | ❌ negativní | „Na nástěnku válečných zločinců" za operaci proti Íránu | 2026-09-24 | [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026) |
+| Alexander Stubb | ❌ negativní | „Jeden z největších fašistů v Evropě" | 2026-09-25 | [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026) |
+| Marco Rubio | ❌ negativní | „Racionální vláda" v Íránu = podle jeho logiky by nebylo terorismem vyvraždit vládu USA | 2026-09-25 | [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026) |
+| Tommy Robinson | ✅ pozitivní | Citován jako autorita k policii a migrantům | 2026-09-25 | [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026) |
 
 ---
 
@@ -1861,3 +1867,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 - [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 - [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+- [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)

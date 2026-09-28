@@ -939,3 +939,13 @@ Americký ministr letectva poprvé veřejně potvrdil, že USA mají na oběžn�
 K Rutteho výroku, že z evropských základen proběhlo 5 000 vzletů pro americkou operaci „Epic Fury" proti Íránu, Vrabel poukazuje, že se „obranná aliance" chlubí útokem na suverénní stát; takoví lidé by podle něj „měli viset na nástěnce válečných zločinců" a být odsouzeni. Článek 5 je podle něj záměrně nejasný, aby se dal „zneužít jakkoli"; opakuje přirovnání Rutteho projevů k Hitlerovi.
 
 **Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+
+---
+
+### Macinkova povinná vojna a IZS v Karlových Varech jako příprava na válku; Češi „zlí a nepřející" Ukrajincům (Vrabel, 25. 9. 2026)
+
+Stavbu operačního střediska IZS (112) v Karlových Varech za více než půl miliardy Vrabel označuje za přípravu na válku („ve válce se to bude hodit"), zbytečnou v době, kdy lidé nemají na naftu. Zatímco v Německu studenti protestují proti povinné službě („Rusko není náš nepřítel"), v ČR lidé podle něj vítají Macinkovu povinnou vojnu („zocelí se") a přejí Ukrajincům, aby byli odvedeni na frontu — takoví Češi si podle něj „tisknou stravenky do pekla". Mazáctví na vojně označuje za „zvrácený systém" a místo povinné služby navrhuje povinné školení v diplomacii.
+
+> „Neuvěřitelné, jak jsou ty lidi zlí a nepřející, jak přejí těm Ukrajincům, aby odváděli na tu frontu a zabíjeli je." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)

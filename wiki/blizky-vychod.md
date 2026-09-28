@@ -315,7 +315,9 @@ Vrabel rozšiřuje tezi o opakujícím se scénáři (viz [11. 6.](#trump-opakov
 
 K izraelským úderům na jižní Libanon (70+ úderů, Hezbollah; poškozeno starověké město Týr) Vrabel tvrdí, že Izrael cíleně ničí historii a kulturní památky (analogie s Kosovem) v rámci projektu **„Velký Izrael"** — aby se popřela existence Palestiny a vznikly „rezorty" (Trump + Kushner). Cituje Trumpovo prohlášení, že „USA nemají suverenitu" a válku fakticky řídí Netanjahu; vysvětluje to vlivem „sionistů / chazarských židů" (Rothschild, Rockefeller, centrální banky, vlastnictví světa „čtyřmi firmami") — odkaz na Karla Gotta o „tajných spolcích řídících svět".
 
-**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+**25. 9.** — K výroku Jaira Lapida, že by Izrael pro Ukrajinu dělal víc, Vrabel popisuje „dva konflikty": globalisté přes USA tlačili Evropu a Ukrajinu proti Rusku a USA napadly Írán kvůli kontrole ropy a plynu. Izrael má podle něj „prakticky pod kontrolou americký kongres", Trump dostal stovky milionů od židovských a sionistických sponzorů, Chabad Lubavič má otevřené dveře do Bílého domu a ve vedení Izraele jsou „náboženští fanatici", kteří věří, že Mesiáš přijde během velké války a obnoví „Velký Izrael" — izraelsko-ukrajinská spolupráce může oba konflikty „velmi rychle propojit". Výslovně dodává, že obyčejní Izraelci jsou „skvělí lidi".
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 **11. 8.** — Vrabel opakuje tentýž cyklus k aktuálnímu růstu ceny ropy Brent (+5 % za týden, ~80 $), tentokrát s číslem „40× za sebou": očekává, že cena bude růst do čtvrtka/pátku, kdy Trump (možná až večer) oznámí otevření Hormuzského průlivu k obohacení „svých kamarádů", kteří si vsadili na pokles ceny. K souběžné zprávě o „blížící se dohodě" (dle pákistánského ministra obrany) dodává, že „v Pákistánu neví, jaký je den" — obě strany (Írán, USA) zprávu o jednání popírají.
 
@@ -603,7 +605,9 @@ Rada guvernérů Mezinárodní agentury pro atomovou energii (23 z 35 hlasů) ro
 
 **23. 9.** — K projevu íránského prezidenta Pezeškjána v OSN Vrabel argumentuje, že Írán jaderné dohody dodržoval a případné podezření měla prověřit MAAE, v krajním případě s vojenským doprovodem jen na základě rozhodnutí Rady bezpečnosti; americký útok je proto válečný zločin „sám o sobě i způsobem provedení" (vyvražděná vláda, „200 školaček"). Zdůrazňuje, že muslimským zemím nefandí — „čeho se nejvíc bojím, jsou muslimové v Evropě".
 
-**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+**25. 9.** — K Rubiovu výroku, že cílem války s Íránem je „racionální vláda", Vrabel ironicky navrhuje obrácený scénář: kdyby se „pár zemí" spojilo a v USA nastolilo „zákonnou vládu" — „vzali by třeba celý kongres, celou vládu [...] jako to udělali Američani v Iránu, že by to rovnou povraždili všechno" — nebyl by to podle Rubiovy logiky terorismus; jinak by teroristou musel být i americký ministr zahraničí (viz [Stochastický teror](stochasticky-teror.md)). K projevu Pezeškjána dodává, že USA od druhé světové války vyměnily vládu v 78 případech „jak na běžícím pásu" a malé země se musí spojit, aby vymáhaly právo.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 ---
 

@@ -5034,3 +5034,11 @@
 - **Datum záznamu:** 2026-09-24
 - **Zpracováno:** ano
 - **Poznámka:** Cizí klipy (Gordon, britský exministr, Rutte) zachyceny jen útržkovitě.
+
+## Ladislav Vrabel — Zprávy v devět 25. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-25-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-25_Ladislav-Vrabel_25-9-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1401638178133225>
+- **Datum záznamu:** 2026-09-25
+- **Zpracováno:** ano
+- **Poznámka:** Chyba přepisu [03:27–10:37] (halucinace „Krásný večer všem") — ztracen úvod (pravděpodobně o drahé naftě).

@@ -397,7 +397,9 @@ Navazuje na [Zveřejňování státní příslušnosti + automatické vyhoštěn
 
 Vrabel cituje bývalou britskou premiérku **Liz Truss**, která prý otevřeně obvinila „globalistické elity", že využívají masovou migraci jako zbraň k oslabení národních států a zničení západní civilizace zevnitř; instituce řízené „levicovou ideologií" potlačují diskusi o roli migrace v růstu kriminality a umlčují ty, kdo na to upozorňují. Připomíná opakované zatýkání aktivisty **Tommyho Robinsona** (i historku, kdy byl zatčen on, nikoli odsouzení pachatelé groomingu) a pouští videa britské **policejní brutality** (vlečení plačícího pětiletého dítěte do auta při zatýkání otce, výhrůžky slzným plynem matce s miminkem; demonstrant sražený o ocelovou tyč). Paralelu vidí v ČR (vlastní zkušenost z demonstrace — policie pustila ukrajinského útočníka a zatkla jeho). Cituje Trumpa („Evropa páchá sebevraždu") a opakuje tezi, že jediná ochrana ČR je odstřižení od EU; varuje před občanskou válkou a vyzývá k protestům „dokud je čas".
 
-**Zdroje:** [Vrabel — Zprávy v devět 16. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026)
+**25. 9.** — K videu migrantů vystupujících v Doveru Vrabel pronáší rasistické glosy („šikovní kluci na olympiádu, běh s taškou"; černí prý „vyhrávají i ve střelbě, protože tam neustále střílí nějaký ty bílí") a tvrdí, že Britové „spinkali" — v MHD „není jediný bílý člověk" a lidé se bojí pouštět děti ven. Uvádí případ spolupracovníka Tommyho Robinsona, který za šunkový sendvič položený u mešity skončil ve vězení, kde ho napadli migranti nožem. Totéž podle něj čeká ČR, pokud se bude volit „pro globalistické politiky, jako je Babiš, Macinka".
+
+**Zdroje:** [Vrabel — Zprávy v devět 16. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-6-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 ### Španělsko legalizuje ~1 mil. migrantů; EU „bojuje jen s nelegální migrací" (Vrabel, 17. 6. 2026)
 
@@ -778,4 +780,4 @@ K projevu britského labouristy Andyho Burnhama („migrace ano, ale kontrolovan
 
 K útoku nožem v klášteře v polském Jarosławi, který spáchal 31letý Ukrajinec, Vrabel připomíná brněnský případ, kdy Ukrajinec v autobuse ubodal chlapce a podle něj „žádný trest neodseděl" — zatímco Tomáš Čermák dostal za slova 5,5 roku; spekuluje, zda pachatel „nepůjde do vězení, protože je Ukrajinec". Druhý den (25. 9.) kritizuje polskou TVP, že spekuluje o ruské provokaci a falešném ukrajinském pasu: média podle něj uplatňují „pravidlo satanismu — to, co je nahoře, je dole, to, co je bílé, je černé", a brzy prý i násilí TCK či zabité dívky v Íránu svedou na Rusy, takže slovo „Rus" se stane synonymem pro „zločinec".
 
-**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)

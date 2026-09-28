@@ -30,7 +30,9 @@ Vrabel uvádí tři podmínky, které mu celkový scénář potvrzují: (1) NATO
 
 K oznámení von der Leyen o mimořádné pomoci 50 mil. eur Arménii (kvůli ruským obchodním omezením, pár dní před volbami 7. 6.) Vrabel tvrdí, že si EU Arménii „kupuje", aby z ní později mohla útočit na Rusko — scénář: ovlivnění voleb → loutková vláda → investice/bankovnictví → vojenské základny (analogie s ČR). Spojuje to se zprávou, že Polsko oficiálně nabídlo USA zřízení stálé vojenské základny na svém území. Vykládá obojí jako součást obkličování Ruské federace.
 
-**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
+**25. 9.** — Zrušení cel EU na arménské zboží má podle Vrabela skutečný cíl, „aby Arménie se zapojila do války proti Rusku po boku Evropské unie".
+
+**Zdroje:** [Vrabel — Zprávy v devět 4. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 ---
 
@@ -1388,7 +1390,9 @@ K Trumpovu setkání se Zelenským (Trump chce znovu jednat s Putinem, varuje, �
 
 > „Kdyby Spojené státy dneska řekly evropským politikům, musíte ten konflikt do zítřka ukončit, jinak vám vypneme Swift, vypneme vám internet a nebudeme vám dodávat ropu, tak je vymalováno." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+**25. 9.** — Trump podle Vrabela opakovaně žádal Zelenského, aby neútočil na ruskou energetiku, ten přesto v den ruských voleb vyhodil do povětří moskevské rafinerie — a Trump ho místo trestu „odměnil" licencí na výrobu střel Patriot, takže „vůbec nemá zájem", aby útoky ustaly. Továrnu by Rusové rozbombardovali; Ukrajina bude podle něj „za dva roky úplně někde jinde". Finského prezidenta Stubba, který žádá Muska o Starlink pro zásahy na ruském území, označuje za „jednoho z největších fašistů v Evropě".
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 
 ---
 
