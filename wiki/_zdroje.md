@@ -4966,3 +4966,11 @@
 - **Datum záznamu:** 2026-09-22
 - **Zpracováno:** ano
 - **Poznámka:** 3 h 22 min živé vysílání. Platy politiků vs. důchody, Babiš „menší zlo", sexistické útoky na političky, Volyň/TikTok, Ukrajinci v ČR, konec války jen ruskými podmínkami/orešníky, ropa a nafta, energetika a datová centra, Pavel a veto jako velezrada, Tušl a Zítko, Jurečka „na elektrické křeslo", vlastenecká TV. Sdílená videa (Blaha, „Dominik"), čtená zpráva fanouška a osobní pasáže nezpracovány.
+
+## Jiří Černohorský — Facebook Live (24. 9. 2026) {#jiří-černohorský--facebook-live-24-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-24_Jiří-Černohorský_85K-views-292-reactions-Jiří-Černohorský-on-Reels.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1575654130226929>
+- **Datum záznamu:** 2026-09-24
+- **Zpracováno:** ano
+- **Poznámka:** 3 h 09 min. Úvodních 12 min satirická parodie („Franta Novák" — Čermák jako klon). Propuštění Čermáka, Tušl a Zítko (údajné udání), spolek, PHM a omluva Komínkovi, korupce na Ukrajině, příměří a „oříšky", proruská propaganda neexistuje, von der Leyenová, Vlasáková, volební kampaně (vlastní kandidatura Restart pro Brno), Volyň a Zelenskyj, premiérský program.

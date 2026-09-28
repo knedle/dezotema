@@ -132,6 +132,14 @@ Výrok na konci pasáže (lidé podílející se na této agendě „by potřebo
 
 ---
 
+### Kauza Terezy Vlasákové jako „spiknutí" úřadů (Černohorský, 24. 9. 2026)
+
+Černohorský tvrdí, že proti Tereze Vlasákové, které jeho spolek pomáhá, probíhá „spiknutí" školy, OSPOD, policie, psychiatričky, GIBS, soudu i státního zastupitelství (o dva dny dříve mluvil o tom, že se ředitelka a učitelka „spikly s OSPODem", aby jí vzali děti). Video Jarči Křivákové o praktikách policie podle něj „stoprocentně" říká pravdu.
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+
+---
+
 ## Eutanazie
 
 ### Francie schválila asistovanou sebevraždu — sarkastická kritika (Vrabel, 16. 7. 2026)

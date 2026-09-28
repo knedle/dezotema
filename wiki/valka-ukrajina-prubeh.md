@@ -477,7 +477,11 @@ O den později (**1. 7. 2026**) Rajchl reaguje na ohlasy: opoziční politici (j
 
 **22. 9.** — Černohorský popisuje, že Facebook jeho příspěvek o Volyni omezil, a tak jej sestříhal na TikTok (6 tisíc zhlédnutí za 12 hodin) a poslal i poslancům. Odmítá srovnání, které mu tam napsal jeden z diváků, že podobná zvěrstva dnes páchá „Putler" na Ukrajině: zločiny podle něj páchají „ukronacisti" z Azova uctívající Banderu a Šuchevyče, kteří mají zaživa zasypávat dezertéry a zraněné a mučit zajaté Rusy; připouští, že i Rusové páchají zrůdnosti a „mstí se", ale kdyby šlo o srovnatelné zločiny, internet by jich byl plný. Zelenskyj podle něj 26. 5. 2026 udělil jednotce čestný titul „UPA" právě v den výročí volyňského pogromu z roku 1943. Zdůrazňuje, že „nenávidí" ne všechny Ukrajince (má ukrajinské přítelkyně), ale Zelenského, jeho okolí a náboráře TCK, kteří unášejí muže z ulic — „ať pochcípaj" (viz [Stochastický teror](stochasticky-teror.md)).
 
-**Zdroje:** [Černohorský — Videoportál: volyňský masakr, 21. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026), [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+**24. 9.** — Černohorský tvrdí, že kniha „Volyň" po začátku války „zmizela" z trhu (výkupci za ni nabízejí 2 700–3 000 Kč). Opakuje, že Zelenskyj udělil 26. 5. 2026 jednotce „Sever" čestný titul „UPA" v den výročí pogromu z roku 1943 — záměrně, protože „Židé milují symboliku" a „Volodymyr Zelenský je Žid"; zároveň je podle něj nacista, „to se v jeho případě nevylučuje", což prý poprvé „potvrdil" potleskem Jaroslavu Hunkovi (SS Galizien) v kanadském parlamentu. UPA podle něj zavraždila i 350–400 volyňských Čechů a ČR by se měla zachovat jako Polsko. Martina Dvořáka (STAN), který podle něj v pořadu *Máte slovo* bagatelizoval Banderu a Šuchevyče jako „věc Ukrajiny", označuje za „lidský odpad" a „zrůdu", která „má sedět v kriminále" za popírání genocidy. Svůj vulgární slovník obhajuje tím, že jinak se o takových „zrůdách" mluvit nedá.
+
+⚡ **Poznámka:** Výklad Zelenského volby data přes „židovskou symboliku" je antisemitský motiv — viz [Stochastický teror](stochasticky-teror.md).
+
+**Zdroje:** [Černohorský — Videoportál: volyňský masakr, 21. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026), [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
 

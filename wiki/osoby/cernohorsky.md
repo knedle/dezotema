@@ -43,6 +43,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **22. 9.** — Jurečka „na elektrické křeslo" za invalidní důchodce; výtky Havlíčkovi, Šťastnému, Juchelkovi — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 - **22. 9.** — „Zpoplatněné vlastenectví": Tušl (falešné parte, žebrání) a Zítko (750 tis. na kampaň); sám bez QR kódu — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 - **22. 9.** — Pavlovo vzdání se práva veta = velezrada, výzva k ústavní žalobě — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) → [petr-pavel.md](../petr-pavel.md)
+- **24. 9.** — Podmíněné propuštění Čermáka: nepřiměřený trest jako „zářný příklad"; viník Tušl; Zítko prý Čermáka „s největší pravděpodobností" udal; spolek má 700–750 tis. na pomoc — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+- **24. 9.** — Premiérský program: platy politiků na úroveň 2010, zrušit paušály a poplatky ČT, „vydat" Fialovu vládu; vlastní kandidatura (Restart pro Brno) a výsměch kampaním — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) → [volby-2026.md](../volby-2026.md)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -50,6 +52,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **15. 9.** — Aktualizované číslo: „skoro bilion" Kč na fotovoltaice od 2006, 40 mld. Kč/rok; navrhuje zákaz další výstavby fotovoltaiky a větrníků na volné krajině — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 - **19. 9.** — Obhajuje Babiše ohledně vysokých cen PHM — viní Izrael, USA a Velkou Británii, ne českou vládu — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 - **22. 9.** — Nedostatek ruské ropy vinou ukrajinských dronů; scénář nafta 60–65 Kč a kolaps zásobování; elektrárny ze socialismu, datová centra s levnou elektřinou mimo burzu, OZE místo Dukovan — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+- **24. 9.** — Omluva Komínkovi: Slovensko má naftu o 4–8 Kč levnější, ceny „jdou za vládou Babiše"; Nemetovo video o zdražení v Německu je lež — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ### [Volby](../politicky-system.md#volby)
 - Taktická volba výhradně SPD a Stačilo — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -122,6 +125,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **27. 8.** — ⚡ Laviny v Nepálu jako řízený útok raketou z letadla; 9/11 jako „inside job"; „Židé"/globální elity jako viníci pomsty — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - **27. 8.** — „Česko je plán" vyostřeno na osobní rovinu: moravská národnost, odmítnutí názvu „Česko"/„Čechie" — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md)
 - **19. 9.** — „Židé z USA" a Rothschildové jako záměrní strůjci rozvratu Evropy přes válku na Ukrajině — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+- **24. 9.** — Elity tolerují pedofilii, adrenochrom, kanibalismus a satanismus; von der Leyenová „by měla být popravena" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - **27. 8.** — Pochvala projevu Petra Macinky k velvyslancům — pragmatismus místo „hodnotové politiky", i přes nesouhlas s tezí o Rusku jako agresorovi — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
@@ -132,6 +136,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **19. 9.** — Katalog korupčních kauz ukrajinského vedení (Jermak, Mindič, Haluščenko aj.) jako odpověď na „obránce Ukrajiny"; Nord Stream jako ukrajinsko-americký čin; rámec „Rusko je nepřítel nacismu, ne náš nepřítel" — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 - **21. 9.** — sdílí dokument o volyňském masakru (UPA 1943, ~100 tis. Poláků); zobecňuje na Ukrajince: „co je to za národ", výzva ke sdílení — [Videoportál 21. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#volyňský-masakr-jako-obraz-ukrajinského-národa--výzva-ke-sdílení-černohorský-21-9-2026)
 - **22. 9.** — Volyň na TikToku, „ukronacisti" z Azova; Zelenskyj a TCK „ať pochcípaj"; válka skončí jen ruskými podmínkami nebo „orešníky", porážka Ruska = konec světa, elity v bunkrech — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
+- **24. 9.** — Příměří by pro Rusko bylo hloupé, NATO „teroristická organizace", „oříšky" na Londýn/Paříž/Brusel/Prahu; korupce 140 mil. USD okrádá vojáky; Volyň, Zelenskyj „Žid a nacista", Dvořák „lidský odpad" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -140,6 +145,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Vlastenecká scéna = byznys; transparentní účty místo skutečného vlastenectví; paralela s Petrem Ortekem — [FB Live „dopoledníček" 21. 5. 2026](../_zdroje.md#jiří-černohorský--fb-live-dopoledníček-21-5-2026)
 - **17. 8.** — Zmařená reklama na dopravním podniku Brna; obvinění z „bonzáctví" — únik informací ze soukromého chatu Tarabové a „Dan Novákovi" — [Facebook Live 17. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026)
 - **22. 9.** — Návrh vlastenecké TV financované 30 tis. členy po 100 Kč; Facebook omezuje dosah — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+- **24. 9.** — „Kde je ta proruská propaganda?"; mlčení o vraždě kněze; obhajoba Rajchla proti Strakatému — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - LGBT a queer gender zákonem zakázat; drag performace jako programování dítěte; podpora Orbánovy politiky — [Queer gender zákonem zakázat 10. 4. 2026](../_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
@@ -147,6 +153,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **17. 8.** — Hormonálně navozené kojení u trans rodičů, adopce přes náhradní mateřství v zahraničí — „banda psychopatů"; zrušení vojenské služby jako počátek destrukce společnosti — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 - **28. 8.** — Pokles porodnosti (~82 tis./rok) jako měřítko úpadku společnosti; srovnání se socialismem (130–160 tis.); obava ze skladby nově narozených dětí — [Facebook Live 28. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
 - **22. 9.** — Ženy do politiky „nepatří" (až na výjimky); sexistické útoky na političky a homofobní na europoslance — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+- **24. 9.** — Kauza Terezy Vlasákové jako „spiknutí" školy, OSPOD, policie a soudu — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
@@ -178,6 +185,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Volodymyr Zelenskyj a ukrajinské vedení — výzva ke „kruté smrti" — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 - **21. 9.** — Ukrajinci jako národ kolektivně dehumanizováni přes zločiny UPA („co je to za národ") — [Videoportál 21. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026)
 - **22. 9.** — Zelenskyj/TCK „ať pochcípaj"; politici „aby vás popravili"; Kyjev/Lvov „hnízdo nacistických zmrdů"; Ukrajinci v ČR; Tušl „zdechl"; Jurečka „na elektrické křeslo" — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+- **24. 9.** — von der Leyenová „by měla být popravena, nemá právo na život"; Dvořák „lidský odpad"; Zelenskyj antisemitsky; Praha jako cíl „oříšků" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
 
@@ -327,6 +335,19 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Boris Šťastný | ❌ negativní | Návrh neplacených prvních 3 dnů nemoci | 2026-09-22 | [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) |
 | Petr Macinka | ⚖️ rozporuplný | „Bourák", ale v otázce Ruska a Ukrajiny selhává | 2026-09-22 | [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) |
 | Kellnerovi (PPF), Google, Microsoft | ❌ negativní | Datová centra s levnou elektřinou mimo burzu | 2026-09-22 | [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) |
+| Tomáš Čermák | ✅ pozitivní | Raduje se z propuštění, trest nepřiměřený; přiznává mu i vlastní vinu | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Pavel Zítko | ❌ negativní | „Vychcanej" manipulátor, „s největší pravděpodobností" udal Čermáka | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Petrková | ❌ negativní | Údajně udala Čermáka spolu se Zítkem | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Miloš Komínek | ✅ pozitivní | Omlouvá se mu — měl pravdu o cenách PHM na Slovensku | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Ursula von der Leyenová | ❌ negativní | „Měla by být popravena" | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Martin Dvořák | ❌ negativní | „Lidský odpad", má sedět v kriminále | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Jindřich Rajchl | ⚖️ rozporuplný | „Není s ním za dobře", ale hájí jeho právo na názor proti Strakatému | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Čestmír Strakatý | ❌ negativní | Nazval Rajchla „posrancem"; „parazit" | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Roman Máca | ❌ negativní | Tvrdil, že jeho spolek financuje Kreml; homofobní urážky | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Sergej Lavrov, Vladimir Putin | ✅ pozitivní | Odmítnutí příměří považuje za rozumné | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Donald Trump | ❌ negativní | „Krypl" — nesplnil slib ukončit válku do týdne | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Tomáš Lukavec | ✅ pozitivní | Rozhovor o von der Leyenové | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Tereza Vlasáková | ✅ pozitivní | Oběť „spiknutí" úřadů | 2026-09-24 | [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
 
 ---
 
@@ -385,3 +406,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (19. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 - [Videoportál: volyňský masakr (21. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026)
 - [Facebook Live (22. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+- [Facebook Live (24. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)

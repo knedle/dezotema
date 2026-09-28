@@ -569,6 +569,14 @@ K moskevskému procesu s izraelským občanem Borisem Wolfmanem (obviněn z orga
 
 ## Náboženský a okultní výklad moci
 
+### Elity tolerují pedofilii, adrenochrom a kanibalismus; von der Leyenová „by měla být popravena" (Černohorský, 24. 9. 2026)
+
+S odkazem na rozhovor Tomáše Lukavce s americkým lobbistou o Ursule von der Leyenové (chce ho přeposlat poslancům) Černohorský tvrdí, že svět toleruje pedofilii vrcholných představitelů, vraždění dětí kvůli adrenochromu, obchod s orgány, kanibalismus a satanistické obřady — „tohle všechno se děje". Von der Leyenovou by podle svých slov „flusnul do ksichtu" a udeřil, označuje ji za „svini", která by „měla být popravena" a spolu s dalšími „nemá právo na život". Viz [Stochastický teror](stochasticky-teror.md).
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+
+---
+
 ### Světu vládne Satan — společný kult za všemi náboženstvími a vládami; angličtina jako „čarodějnický jazyk" (Boldy, 7. 7. 2026)
 
 Boldy tvrdí, že světu nevládne Bůh, ale Satan — argumentuje tím, že napříč různými náboženstvími se všechny politické strany a vlády světa scházejí u jednoho společného kultu, který spojuje se jmény „Saturn", „Satan" a „Black Cube". Tuto tezi propojuje s tvrzením, že angličtina je „čarodějnický jazyk" — jeho celosvětová dominance má podle něj souviset právě s touto vládou Saturna/Satana.

@@ -16,6 +16,12 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | MUDr. Šorna (Senát – Příbramsko) | ✅ pozitivní | Jindřich Rajchl | Jeden ze čtyř podporovaných senátních kandidátů | 2026-09-27 | [Nedělní vysílání 27. 9.](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) |
 | Pro Plzeň | ❌ negativní | Jindřich Rajchl | Nemá s PRO „vůbec nic společného" — „pohrobci ODS", varování před záměnou | 2026-09-27 | [Nedělní vysílání 27. 9.](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) |
 | PRO (komunální kandidátky, vč. Liberec – Tarabová, Šance pro Tábor, Pro Havířov) | ✅ pozitivní | Jindřich Rajchl | 110 kandidátek; v Chomutově koalice s SPD, Svobodnými, Trikolórou i Motoristy — dle průzkumů 17–20 % | 2026-09-27 | [Nedělní vysílání 27. 9.](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) |
+| Grolich | ❌ negativní | Jiří Černohorský | „Obyčejnej sráč", dvakrát zapřel schůzku; výsměch volební reklamě | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Šarapatka | ❌ negativní | Jiří Černohorský | „Psychopat", výsměch volební reklamě | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Martin Dvořák (STAN) | ❌ negativní | Jiří Černohorský | Výsměch básničce pro Klempíře; „lidský odpad", má sedět v kriminále (bagatelizace UPA) | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Ivana Turková, Jan Bittner (Litvínov) | ✅ pozitivní | Jiří Černohorský | Kampaň „měla úroveň" | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| SPD | ⚖️ rozporuplný | Jiří Černohorský | Sám ji volí, ale klip s tlačením dodávky (Rajchl, Foldyna) je „trapný"; kritika za podporu zbrojení Ukrajiny | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Restart pro Brno (Brno-střed) | ✅ pozitivní | Jiří Černohorský | Sám kandiduje na 3. místě | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
 
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
@@ -32,6 +38,14 @@ Rajchl vyzývá k podpoře čtyř senátních kandidátů: Milana Lopraise (Ostr
 ---
 
 ## Komunální volby
+
+### Výsměch volebním kampaním; vlastní kandidatura za Restart pro Brno (Černohorský, 24. 9. 2026)
+
+Černohorský zesměšňuje volební reklamy: Grolicha zná osobně („obyčejnej sráč"), Šarapatku nazývá psychopatem a Martina Dvořáka zesměšňuje za narozeninovou básničku pro Klempíře; naopak reklamy Ivany Turkové a Jana Bittnera (Litvínov) podle něj „měly úroveň". Sám volí SPD, ale její píseň a klip s tlačením dodávky (Rajchl, Foldyna) považuje za trapné. Oznamuje, že kandiduje na třetím místě kandidátky Restart pro Brno v Brně-střed.
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+
+---
 
 ### PRO: 110 komunálních kandidátek, varování před „Pro Plzeň"; komunální politika jako „vratky" z větrníků (Rajchl, 27. 9. 2026)
 

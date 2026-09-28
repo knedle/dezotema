@@ -598,3 +598,13 @@ Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulke
 **Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 
 ---
+
+### „Kde je ta proruská propaganda?" — všude jen prozápadní; mlčení o vraždě kněze; obhajoba Rajchla proti Strakatému (Černohorský, 24. 9. 2026)
+
+Černohorský tvrdí, že proruskou propagandu ve veřejném prostoru nevidí, zatímco „prozápadní, eurohujerská" je všude — ČT, ČT24, Nova, Prima, Novinky, Lidovky, Seznam, Forum 24, Aktuálně i Deník N; proruské weby (AZ24, Aeronet, CZ24) prý nesleduje a s Vladimírem Frantou ze Sputniku nemluvil přes pět let. Popisuje, jak „rozebral" AI Google, až uznala, že proruské weby nemají dosah ČT, a ironizuje tvrzení Romana Máci (2016), že jeho spolek financuje Kreml. Předpovídá, že média budou mlčet o vraždě kněze, kterého měl během mše zavraždit Ukrajinec. Přestože s Rajchlem „není za dobře", hájí jeho právo říct, že Rusko není agresor, proti Čestmíru Strakatému, který Rajchla v upoutávce Hero Hero nazval „posrancem" — „přece máme tu demokracii, nebo nemáme svobodu slova?" Ironicky komentuje i Pavlův projev v OSN, kterému podle fotky naslouchalo „asi osm lidí".
+
+> „Do prdele, kde je ta proruská propaganda?" — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+
+---

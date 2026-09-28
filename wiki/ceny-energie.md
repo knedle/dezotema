@@ -60,7 +60,9 @@ Tarabová vyjadřuje politování nad neschopností Čechů sjednotit se v odpor
 
 Černohorský odmítá kritiku, že za rostoucí ceny pohonných hmot (přes 50 Kč/l) může vláda Andreje Babiše. Argumentuje, že ČR nevlastní žádné velké rafinerie (kromě menšího podílu Robin Oil), takže cenu neurčuje česká vláda, ale dění na Blízkém východě a globální trh s ropou. Odpovědnost připisuje Izraeli, USA a Velké Británii, které podle něj záměrně rozvracejí Evropu prostřednictvím podpory Ukrajiny a konfliktu s Íránem, aby z toho profitovaly na úkor evropské ekonomiky (odkaz na dřívější tezi, že si Trump a Biden „mnuli ruce" nad rozvrácenou Evropou). I kdyby Babiš cenu chtěl snížit, mohl by ji dle Černohorského ovlivnit maximálně o 4,50–5 Kč/l.
 
-**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+**24. 9.** — Černohorský svou obhajobu reviduje a omlouvá se Miloši Komínkovi: myslel si, že Slovensko má levnější PHM díky vlastním rafineriím, ale Slovnaft vlastní cizinci — nafta je tam přesto asi za 46 Kč, tedy o 4–8 Kč levněji, ač spotřební daň je vyšší. Uzavírá, že současné ceny „jdou za vládou Andreje Babiše", která „pro tyhle věci dělá daleko méně a hůř, než to udělala slovenská vláda". Zároveň označuje za lež video Nemeta o celoplošném zdražení potravin v Německu o 30 % — potraviny jsou tam podle něj levnější než v ČR, dražší byla jen vejce kvůli „vymyšlené" ptačí chřipce.
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
 

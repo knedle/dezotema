@@ -511,6 +511,14 @@ Jiří Černohorský interpretuje demonstraci Milionu chvilek na Letné 2026 nik
 
 ---
 
+### Podmíněné propuštění Tomáše Čermáka — nepřiměřený trest jako „zářný příklad" pro umlčení scény (Černohorský, 24. 9. 2026)
+
+Černohorský vítá podmíněné propuštění Tomáše Čermáka, kterého zná od „Jízd za svobodu" (2020). Trest (prakticky šest let) považuje za nepřiměřený ve srovnání s podmínkami pro „Ukroše", násilníky a pedofily: státní zástupce podle něj pracoval „s předpokladem, ne s fakty", že se slovní projevy promění v násilí, a z Čermáka i Tušla chtěli udělat „zářný příklad, aby si každej dával pozor na tu hubu" — i přesto, že „tady máme dneska totalitu a za Rakušana, za tohoto gestapáka". Čermákovi ale připisuje i díl vlastní viny a hlavním viníkem jeho uvěznění je podle něj Tušl („kdyby nebylo Tušla, Tomáš Čermák nikdy v kriminálu nebude"); o termínu soudu věděl přes rodinu přes měsíc předem, ale mlčel, aby se neopakovaly výstupy Zítka, Petrkové a Malého u soudů. Navazuje na svůj výčet [politické perzekuce](#systematická-perzekuce-kritiků--selektivní-uplatňování-práva-černohorský-17-5-2026).
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+
+---
+
 ## Zahraniční politika
 
 ### Česká rozvojová pomoc: kurníky v Salvadoru a chilli v Zambii
@@ -1216,7 +1224,9 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 
 Černohorský obhajuje, proč zveřejnil informace o aktivistovi Tušlovi: ten podle něj přes soukromé zprávy „žebrá" o peníze s odkazem na své děti (tři jeho známí mu prý poslali 30–40 tisíc), zveřejnil falešné parte vytvořené AI (s datem pohřbu 21. 10.) a do vězení nešel „za hrdinství", ale za neplacení alimentů a výhrůžky bývalé partnerce a policistovi; stál prý i za zatažením Tomáše Čermáka do iniciativy „Nepodvolím se". Pavla Zítka obviňuje, že lhal lidem o dovozu vakcín (Sputnik) a „odchytávání poslanců", prodával „fény na vodu" a na prezidentskou kampaň vybral 750 tisíc Kč, přičemž dostal pokutu 40 tisíc — „to se to krásně dělá to vlastenectví"; popisuje „model" vlasteneckých influencerů (krátká videa, motto, QR kód). Sám zdůrazňuje, že 11 let vysílá zadarmo, QR kód „nikdy mít nebude" a raději bude „žrát suchej chleba, než abych prosil a žebral o peníze"; dary, které kdy dostal, podle svých slov poslal na transparentní účet nebo potřebným. Přiznává, že jeho vulgarita odrazuje od sdílení, ale „jiný nebude". Navazuje na svou kritiku [vlastenecké scény jako byznysu](#podpora-robina-čumpelíka--kritika-vlastenecké-scény-příčovy-a-vlastních-diváků-za-slepé-tleskání-politikům-černohorský-31-8-2026).
 
-**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+**24. 9.** — Černohorský tvrdí, že Tušl vedle invalidního důchodu vybíral od dárců až 35 tisíc Kč měsíčně a že mu po zveřejnění 20–25 dárců oznámilo, že přestanou posílat; popisuje jeho „metodiku" — rozeslat upravené fotky Černohorského jako „fízla" a toho, kdo souhlasně zareaguje, požádat o 500–1000 Kč „na dcerky". Nejvyšší trest podle něj Tušl dostal za alimenty a výhrůžky smrtí bývalé partnerce, dětem a policistovi, ne za videa o Ukrajincích. O Zítkovi prohlašuje, že „s největší pravděpodobností" spolu s Petrkovou Čermáka udal, aby „vyměnili jeho svobodu za tu svoji" (opírá se o „indicie" od lidí z hospody, kde byl Čermák zatčen), a že chystá sbírku na Čermáka bez souhlasu rodiny. Zítka označuje za inteligentního, ale „vychcaného" manipulátora, kterému stačí „300–500 lidí s IQ 80 a níže" věřících na bílé klobouky, GESARU a „nelegitimní ČR s.r.o." — tuto teorii sám vyvrací (vláda v demisi má plné pravomoci, zákon 424/1991). Obnovu Československa si umí představit jen po katastrofě, „spousta lidí se toho nedožije". Vlastní spolek podle něj má na účtu 700–750 tisíc Kč určených na pomoc lidem; z darů si prý jen dvakrát proplatil naftu. Úvod vysílání tvoří satirická parodie Zítkových příznivců („Franta Novák" „potvrzuje", že propuštěný Čermák je klon).
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
 
@@ -1362,4 +1372,6 @@ V rozsáhlé úvaze „co by dělal na místě Andreje Babiše" Černohorský p�
 
 V rámci téhož programu obhajuje Andreje Babiše v kauze Čapí hnízdo (viz [kauzy.md](kauzy.md#agrofert-a-dotace-eu)) a žádá zřízení odškodňovacího fondu pro poškozené covidovou vakcinací (viz [covid-vakciny.md](covid-vakciny.md)); ekonomickou část programu (znárodnění infrastruktury, zdanění bank, konec dotací na fotovoltaiku) viz [suverenita-eu.md](suverenita-eu.md) a [ceny-energie.md](ceny-energie.md); zahraničněpolitickou část (konec podpory Ukrajiny) viz [valka-nato-rusko.md](valka-nato-rusko.md).
 
-**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+**24. 9.** — Černohorský svůj program „kdybych byl premiérem" doplňuje: platy politiků by nejen zmrazil, ale novelou zákona 236/1995 snížil na úroveň roku 2010 a zrušil paušály (33 tisíc na bydlení v Praze, 60–70 tisíc na PHM, telefony) — „politik je zaměstnanec nás všech, není to žádnej polobůh". Koncesionářské poplatky by zrušil po ročním přechodném období, ČT by se stala komerční televizí a zákon by všem celoplošným televizím uložil povinné politické debaty placené ze státního rozpočtu (Klempíř podle něj slib ohledně poplatků nesplnil). Podmínkou by bylo „vydání" Fialy, Stanjury, Blažka, Rakušana, Černochové a Lipavského k trestnímu stíhání (neziskovky, muniční iniciativa, Kampelička, Dozimetr); Stanjura podle něj čtyři roky falšoval výkazy rozpočtu a chybí 400 miliard.
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)

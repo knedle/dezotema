@@ -459,7 +459,9 @@ K obžalobě Ukrajince německou prokuraturou za útok na Nord Stream (2022) Raj
 
 V reakci na diváka, který ho obvinil z postoje proti „obráncům Ukrajiny", Černohorský vyjmenovává sérii korupčních kauz ukrajinských představitelů jako důkaz, že jde o zkorumpovaný režim, ne o hrdiny: Andrij Jermak (bývalý šéf kanceláře Zelenského, vyšetřován kvůli praní peněz přes výstavbu u Kyjeva, ~400 mld. hřiven), Oleksij Černyšov (bývalý vicepremiér, stejná kauza), Timur Mindič (obchodní partner Zelenského, uprchl do Izraele před razií NABU v listopadu 2025 v souvislosti s kauzou „MIDAS" kolem Energoatomu), Herman Haluščenko (bývalý ministr energetiky a spravedlnosti, zadržen při pokusu opustit Ukrajinu, obviněn z praní peněz v téže kauze), Iryna Mudra (náměstkyně šéfa prezidentské kanceláře, spojována s legalizací dalších 150 mld. hřiven) a Ruslan Kravčenko (generální prokurátor, který v noci z 13. na 14. 9. 2026 údajně uprchl ze země se služebním vozem uprostřed vyšetřování podvodných call center). Opakuje tezi, že sabotáž Nord Streamu provedli Ukrajinci s podporou USA, ne Rusko (→ srov. [Sabotáž Nord Streamu jako legitimní vojenský cíl](#sabotáž-nord-streamu-jako-legitimní-vojenský-cíl--kritika-petra-pavla-a-médií-rajchl-6-7-2026)), a formuluje rámec „Rusko není náš nepřítel, Rusko je nepřítel nacismu" — obviňuje ukrajinské vedení z rozpoutání konfliktu (podpora Majdanu, nedodržení Minských dohod, ostřelování Donbasu) a vyjadřuje přání jejich násilné smrti (→ [stochastický teror](stochasticky-teror.md)).
 
-**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+**24. 9.** — K nálezu 140 milionů USD (přepočítává na 3,22 mld. Kč) u člověka napojeného na Zelenského Černohorský zdůrazňuje, že ukradené peníze neokrádají „nás", ale vojáky na frontě o proviant, boty a vybavení; ukrajinský dobrovolník je pro něj „v určitém smyslu hrdina", byť „nacisticky vypatlaný", a zraněné vojáky prý Ukrajina „rovnou střílí". Opakuje, že rakety v Polsku (Przewodów) byly ukrajinské a Zelenskyj přemlouval polského prezidenta, aby je označil za ruské, a že Nord Stream vyhodili Ukrajinci s největším podílem USA; kritizuje Nerudovou a Zdechovského za volání po článku 5. Babišovi vyčítá, že slíbil ukončit muniční iniciativu a nedodržel to — výtky směřuje i k Macinkovi, Turkovi, Šťastnému a SPD.
+
+**Zdroje:** [Černohorský — Facebook Live 19. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-19-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
 
@@ -1363,5 +1365,15 @@ Připouští, že lze vnímat Rusko jako hlavního viníka, protože překročil
 > „Evropa tleská sobě sama zničení. Evropa tleská válce." — Jiří Černohorský
 
 **Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+
+---
+
+### Příměří by bylo pro Rusko hloupé — NATO překročilo hranici první; „oříšky" na Londýn, Paříž, Brusel i Prahu (Černohorský, 24. 9. 2026)
+
+K výzvě 50 států OSN (včetně ČR) k bezpodmínečnému příměří, kterou Lavrov odmítl, Černohorský tvrdí, že Rusové by museli být „vymydlené kundy", aby souhlasili. „Hranici" podle něj překročilo NATO už rozšiřováním v letech 1999, 2004 a 2008, porušením neutrality Ukrajiny zakotvené v roce 1991 a Minskými dohodami, které podle výroků Merkelové a Hollanda sloužily jen k vyzbrojení Ukrajiny; příměří by podle něj jen umožnilo doplnit zbraně a EU „pod vedením zmrdů z Izraele a USA" by pak pod falešnou vlajkou znovu vyhlásila Rusku válku. Ruské podmínky považuje za oprávněné: Ukrajina nikdy v NATO ani v EU, konec dodávek zbraní a peněz, pád režimu, dohled sousedních států, konec „biolaboratoří", kde prý vznikají viry zabíjející Rusy, a konec ulic pojmenovaných po Banderovi, Šuchevyčovi a Melnykovi. NATO označuje za „teroristickou organizaci zmrdů, kteří rozsévají válku po celém světě", poukazuje na obklíčení Ruska a srovnává situaci s kubánskou krizí (Kuba si spojence vybrat nesměla, Ukrajina ano). Varuje, že Putin při dalších provokacích pošle „oříšky" (rakety) do Londýna, Paříže, Bruselu — „kde by mohl přistát? V Praze? Protože tady je taky banda kreténů" — a že k tomu mlčí i Babišova vláda. Trumpa nazývá „kryplem", protože sliboval konec války do týdne. Viz [predikce](predikce.md).
+
+> „Neskončí do té doby, dokud nebude Ukrajina poražena na hlavě." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---

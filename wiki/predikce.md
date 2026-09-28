@@ -24,6 +24,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Jiří Černohorský — válka skončí jen porážkou Ukrajiny; po příměří nová válka „pod falešnou vlajkou"; rakety na evropská města (24. 9. 2026)
+
+**Předpověď:** Válka neskončí, dokud Ukrajina nebude poražena nebo nepřijme ruské podmínky; Ukrajina „v životě nebude v NATO" ani v EU. Případné příměří by Západ využil k vyzbrojení a poté pod falešnou vlajkou znovu vyhlásil Rusku válku. Při dalších provokacích Putin pošle rakety („oříšky") na Londýn, Paříž, Brusel, případně Prahu.
+
+> „Neskončí do té doby, dokud nebude Ukrajina poražena na hlavě. [...] Zapomeňte na příměří, které nebude podle ruských požadavků. Tečka." — Jiří Černohorský
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+
+---
+
 ### Jiří Černohorský — ruská ropa a plyn budou v zimě chybět; nafta 60–65 Kč a kolaps zásobování (22. 9. 2026)
 
 **Předpověď:** Dodávky ruské ropy a plynu do Evropy nebudou a v zimě budou „jednoznačně" chybět; při eskalaci přijdou fronty na čerpacích stanicích a nafta za 60–65 Kč, poté přídělový systém a do týdne kolaps zásobování potravinami.
