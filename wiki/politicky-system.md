@@ -954,6 +954,16 @@ Ke stanovisku Národní rozpočtové rady (schodek 2027 může přesáhnout 350 
 
 **Zdroje:** [Vrabel — Zprávy v devět 11. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-6-2026), [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 
+### Zmrazení platů politiků není gesto — nejdřív peníze lidem; poslanec jako služba (Rajchl, 24. 9. 2026)
+
+V krátkém vystoupení na Primě Rajchl odmítá, že by zmrazení platů politiků bylo jen politické gesto pro získání bodů — oponent (Čenčila) podle něj „plete hrušky s jabkama". Schodek rozpočtu podle Rajchla vznikl z velké části tím, že předchozí vláda lidem „sebrala" peníze: zrušení slevy na manželku a dalších úlev znamenalo pro průměrnou rodinu ztrátu 135 tisíc korun za čtyři roky — proto je nejdřív třeba „dát peníze lidem" a teprve potom politikům. Odmítá i srovnání s platy státních zástupců: ti vykonávají profesi, kdežto poslanec má svou práci dělat jako poslání a službu lidem. Sám prý přispívá na charitu a jako advokát by si vydělal víc než ve Sněmovně.
+
+> „Člověk by měl dělat svoje poslání jako službu lidem [...] a kdo to takhle nevnímá, tak tady nemá co dělat." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Prima: zmrazení platů politiků, 24. 9. 2026](_zdroje.md#jindřich-rajchl--prima-zmrazení-platů-politiků-24-9-2026)
+
+---
+
 ## Represe a policejní brutalita na Západě
 
 ### Rostoucí policejní brutalita na „globalistickém Západě" — Vrabel (18. 6. 2026)

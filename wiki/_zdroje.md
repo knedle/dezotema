@@ -4936,3 +4936,10 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/1117016814175417>
 - **Datum záznamu:** 2026-09-24
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Prima: zmrazení platů politiků (24. 9. 2026) {#jindřich-rajchl--prima-zmrazení-platů-politiků-24-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-24_Jindřich-Rajchl_60K-views-45K-reactions-Dnes-jsem-krátce-vystoupil-na.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2182360509013956>
+- **Datum záznamu:** 2026-09-24
+- **Zpracováno:** ano

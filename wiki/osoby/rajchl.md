@@ -199,6 +199,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **13. 9.** — rozšíření debaty s Jakobem (neznalost výpočtu HDP, vyvrácení Foltínovy citace Masaryka); Zdeněk Řip narušil debatu na Primě (dvojí metr médií); identifikace „Matěje z Tetína" jako Matěje Hlavatého (Piráti); rozšířený seznam „extremismu" a průzkum SPD/Trikolóra/Svobodní ~10 % — [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) → [politicky-system.md](../politicky-system.md#debata-na-vox-tv-s-janem-jakobem--obvinění-otakara-foltína-z-nacistické-rétoriky-rajchl-7-9-2026)
 - **20. 9.** — Kupkův výrok „poslat za Ural" jako „bolševické smýšlení"; výzva, ať si sám vezme samopal a jde bojovat, pokud tvrdí, že se na Ukrajině bojuje za ČR — [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) → [politicky-system.md](../politicky-system.md#kupkův-výrok-poslat-za-ural-jako-bolševické-smýšlení-rajchl-20-9-2026)
 - **20. 9.** — preference SPD+PRO+Trikolóra+Svobodní vzrostly ze 7,5 % na 10 %; spojuje s Babišovým vyjádřením k tématu míru — [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) → [politicky-system.md](../politicky-system.md#preference-koalice-spdprotrikolórasvobodní-vzrostly-ze-75--na-10--rajchl-20-9-2026)
+- **24. 9.** — zmrazení platů politiků není gesto: deficit způsobila předchozí vláda, která rodinám „sebrala" 135 tis. Kč za 4 roky (sleva na manželku), nejdřív peníze lidem; poslanec = služba, ne profese (charita, jako advokát by vydělal víc) — [Prima 24. 9. 2026](../_zdroje.md#jindřich-rajchl--prima-zmrazení-platů-politiků-24-9-2026) → [politicky-system.md](../politicky-system.md#zmrazení-platů-politiků-není-gesto-nejdřív-peníze-lidem-poslanec-jako-služba-rajchl-24-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -532,3 +533,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Facebook Live (20. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
 - [Videoportál: Krutílek (22. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
 - [Videoportál: Pavel vs. Fico (24. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026)
+- [Prima: zmrazení platů politiků (24. 9. 2026)](../_zdroje.md#jindřich-rajchl--prima-zmrazení-platů-politiků-24-9-2026)
