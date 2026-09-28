@@ -1240,6 +1240,20 @@ Tarabová představuje šestý bod volebního programu PRO pro Liberec — kontr
 
 ---
 
+### Komunální program bod 7: kancelář ombudsmana pro Liberečany (Tarabová, 26. 9. 2026)
+
+Tarabová navrhuje zřídit v Liberci pozici všeobecného městského ombudsmana, u něhož by občané dostávali prvotní právní rady zdarma. Argumentuje tím, že Liberec má ombudsmana jen pro seniory (stejně jako krajská nemocnice či vysoká škola), ale člověk středního věku nebo s jiným problémem se musí obracet na celorepublikového ombudsmana, který je natolik vytížený, že odpovědi trvají dlouho — a mnoho lidí ani neví, že tuto možnost mají. Podle doprovodného programového textu by ombudsman pomáhal s nečinností magistrátu, průtahy ve stavebním řízení, reklamacemi u dopravního podniku, městskými byty, sociálními službami a školami, zprostředkovával mediaci sousedských sporů a nasměroval občany na odborné poradny — „město má být partnerem občanů, ne překážkou".
+
+Připomíná, že funkci ombudsmanky pro seniory v Liberci dříve sama vykonávala, ale smlouva jí nebyla prodloužena poté, co v rámci protestu proti povinnému očkování a rozdělování společnosti na očkované/neočkované a testované/netestované použila Davidovu hvězdu. Označuje to za překvapení — nečekala by, že se „v 21. století budou odebírat funkce za názor".
+
+Sebe a kandidátku PRO staví do kontrastu s „kariérními politiky": jsou „jedni z vás", ona sama pracuje pro občany šest let a mandát pro ni „není křeslo na čtyři roky" — práce podle ní začíná prvním dnem po zvolení, s otevřenými dveřmi a hledáním řešení společně s občany. Navazuje na svůj slib [nepřetržité komunikace s občany](#transparentnost-místní-politiky--kritika-nepřehlednosti-návrh-podcastů-vysvětlujících-rozhodnutí-radnice-tarabová-5-9-2026).
+
+> „Bylo to pro mě překvapením, protože bych nikdy neočekávala, že v 21. století se budou odebírat funkce za názor." — Lenka Tarabová, [Tarabová — Videoportál: ombudsman pro Liberečany, 26. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-ombudsman-pro-liberečany-26-9-2026)
+
+**Zdroje:** [Tarabová — Videoportál: ombudsman pro Liberečany, 26. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-ombudsman-pro-liberečany-26-9-2026)
+
+---
+
 ### Debatní spor s „Matějem z Tetína" — zpochybnění kompetence kritika rozpočtu (Rajchl, 9. 9. 2026)
 
 V televizní debatě reaguje Rajchl na kritiku svého rozpočtového hospodaření (SPD dle kritika nechtěla zvyšovat daně) protiútokem na osobu kritika — starostu obce Tetín, kterého oslovuje jako „Matěje". Odmítá, že by šlo o „strunu nenávisti", a argumentuje, že jde o legitimní poukázání na nekompetenci: kritik podle Rajchla „málem zbankrotoval" vlastní obec a rozpočet obce zachránila jen pomoc kraje — proto je dle něj „k smíchu", když ho právě tento člověk poučuje o státním rozpočtu. Debatu odmítá svést na téma dotace pro Tetín, kterou označuje za řádně vyúčtovanou a v souladu s běžným procesem.

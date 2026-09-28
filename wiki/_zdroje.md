@@ -4922,3 +4922,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=1307867298000290&_rdr>
 - **Datum záznamu:** 2026-09-23
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Videoportál: ombudsman pro Liberečany (26. 9. 2026) {#lenka-tarabová--videoportál-ombudsman-pro-liberečany-26-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-26_Lenka-Tarabová_43-reactions-PRO-PRÁVO-RESPEKT-ODBORNOST-Programový-bo.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=2949286102118895&_rdr>
+- **Datum záznamu:** 2026-09-26
+- **Zpracováno:** ano
