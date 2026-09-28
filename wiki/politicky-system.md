@@ -515,6 +515,8 @@ Jiří Černohorský interpretuje demonstraci Milionu chvilek na Letné 2026 nik
 
 Černohorský vítá podmíněné propuštění Tomáše Čermáka, kterého zná od „Jízd za svobodu" (2020). Trest (prakticky šest let) považuje za nepřiměřený ve srovnání s podmínkami pro „Ukroše", násilníky a pedofily: státní zástupce podle něj pracoval „s předpokladem, ne s fakty", že se slovní projevy promění v násilí, a z Čermáka i Tušla chtěli udělat „zářný příklad, aby si každej dával pozor na tu hubu" — i přesto, že „tady máme dneska totalitu a za Rakušana, za tohoto gestapáka". Čermákovi ale připisuje i díl vlastní viny a hlavním viníkem jeho uvěznění je podle něj Tušl („kdyby nebylo Tušla, Tomáš Čermák nikdy v kriminálu nebude"); o termínu soudu věděl přes rodinu přes měsíc předem, ale mlčel, aby se neopakovaly výstupy Zítka, Petrkové a Malého u soudů. Navazuje na svůj výčet [politické perzekuce](#systematická-perzekuce-kritiků--selektivní-uplatňování-práva-černohorský-17-5-2026).
 
+⚡ **Konflikt:** Pavel Zítko (ČsTV2) tvrdí, že propuštěný muž nebyl skutečný Čermák, ale dvojník, a udání odmítá — viz [kauzy.md](kauzy.md#propuštění-údajného-tomáše-čermáka-jako-sehraný-justiční-podvod-s-dvojníkem-zítko-2427-9-2026).
+
 **Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
