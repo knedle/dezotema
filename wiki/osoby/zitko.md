@@ -85,6 +85,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **14. 9.** — nejvyšší státní zástupkyně Lenka Bradáčová podezřelá z propojení na bitcoinovou kauzu — nominoval ji Blažek, tlak na prošetření od Babišovy vlády (Tejc, Koudelka) — [Videoportál 14. 9.](../_zdroje.md#československo-tv2--videoportál-14-9-2026) → [kauzy.md](../kauzy.md#nejvyšší-státní-zástupkyně-lenka-bradáčová-podezřelá-z-propojení-na-bitcoinovou-kauzu-zítko-14-9-2026)
 - **24. 9.** — Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (vzdání se stížnosti, odstrašující případ); popírá udání, zatčení v Polsku = provokace proti němu — [ČsTV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-pozvánka-čermák-24-9-2026), [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 - **25. 9.** — „Za mě to v žádným případě nebyl Tomáš Čermák" (výška, uši, bez emocí); rodina a Naxera „museli vědět"; peníze pro Čermáka mají „manželé z Jablonce"; Tušl „somruje", Rajchl nesplnil desatero — [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026)
+- **27. 9.** — „Dvojník", ne „klon"; série otázek k líčení, Čermák „nahražen figurantem bez duše"; Tušl se distancoval; kampaň: 300 z 500 tis. na ochranku; predikce „od 1. 10. se začne hýbat se světem" — [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](../_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -310,6 +311,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Norbert Naxera | ❌ negativní | Advokát Čermáka — „musel vědět", že u soudu není originál | 2026-09-25 | [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026) |
 | Andrej Babiš | ❌ negativní | „Není původní Babiš" (dvojník) | 2026-09-25 | [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026) |
 | Tom Hanks | ❌ negativní | „Jeden z největších pedofilů v Hollywoodu" | 2026-09-25 | [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026) |
+| Patrik Tušl | ⚖️ rozporuplný | „Souputník v boji", ale distancoval se od Čermáka — možná dohoda s policií | 2026-09-27 | [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](../_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026) |
 
 ---
 
@@ -404,3 +406,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-pozvánka-čermák-24-9-2026)
 - [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 - [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026)
+- [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](../_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)

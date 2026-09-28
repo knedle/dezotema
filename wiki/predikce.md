@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — od 1. října „se začne hýbat se světem", konec „staré globalistické party" (27. 9. 2026)
+
+**Předpověď:** V rámci „velkého globálního odhalení" se od 1. 10. 2026 „doslova začne hýbat se světem" a to, co tu bylo v rámci „staré globalistické party", skončí.
+
+> „Jsme už velmi blízko a události říjí na to, co se chystá, a začne se hned od prvního desátý hýbat doslova se světem. To, co tady bylo v rámci staré globalistické party, končí." — Pavel Zítko
+
+**Horizont:** od 1. 10. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)
+
+---
+
 ### Jindřich Rajchl — koalice PRO/SPD/Svobodní/Trikolóra/Motoristé v Chomutově druhá za ANO (27. 9. 2026)
 
 **Předpověď:** V komunálních volbách v Chomutově získá společná kandidátka PRO, SPD, Svobodných, Trikolóry a Motoristů podle průzkumů 17–20 % a má šanci skončit jako druhá nejsilnější strana po ANO.

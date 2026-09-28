@@ -5003,3 +5003,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=1969290920411767&_rdr>
 - **Datum záznamu:** 2026-09-25
 - **Zpracováno:** ano
+
+## Československo TV2 — Otázky Tomáš Čermák III (27. 9. 2026) {#československo-tv2--otázky-čermák-iii-27-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-27_Československo-TV2_39-reactions-5-comments-Československo-TV2-vysílal.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1023409767385403&_rdr>
+- **Datum záznamu:** 2026-09-27
+- **Zpracováno:** ano
