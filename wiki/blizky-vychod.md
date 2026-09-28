@@ -433,7 +433,9 @@ Donald Trump oznámil, že USA obnovují kontrolu nad Hormuzským průlivem a bu
 
 Podle deníku New York Times americký ministr zahraničí Marco Rubio rozhoduje o rozdělování výnosů z venezuelského vývozu ropy, které nejprve inkasuje Washington a teprve poté „dle vlastního uvážení" uvolňuje venezuelské vládě — je v pravidelném kontaktu s prozatímní prezidentkou Rodríguezovou. Vrabel to popisuje jako čistě mafiánský model: srovnává ho s únosem venezuelského prezidenta (uvězněného v USA, viz [dřívější zápis o Madurovi](#nepsaná-pravidla-mezi-hlavami-států--usa-varovaly-írán-před-dalším-atentátem-kontrast-s-venezuelou-vrabel-3-7-2026)) a dosazením loutky, která plní pokyny „amerického jednatele" — Rubia označuje za „amerického Macinku".
 
-**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+**23. 9.** — K jednání Trumpa s Delcy Rodríguezovou o venezuelském dluhu: stejný model jako s Kanadou — „poslouchejte nás a dejte ropu, nebo vás zničíme sankcemi"; Rodríguezová „sklonila hlavu" a nechala Madura ve vězení, „Venezuela je dneska kolonií Spojených států".
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ---
 
@@ -599,7 +601,9 @@ Rada guvernérů Mezinárodní agentury pro atomovou energii (23 z 35 hlasů) ro
 
 **22. 9.** — K Trumpovu projevu v OSN (Írán si má vybrat mezi válkou a mírem, dohoda až po midterms) Vrabel tvrdí, že Trump si chce Írán „podmanit" a že jde o „mnohem horší agresi" než ruskou na Ukrajině, protože začala „vyvražděním několika stovek malých dívek" a íránské vlády. Delegace, které opustily sál při projevu Netanjahua („Satanyahu"), podle něj reagují oprávněně: Trump slouží „sionistickým křesťanům a židům" usilujícím o Velký Izrael a před soudem by měl stát nejen Netanjahu, ale i další členové izraelské vlády; Zelenskyj je podle něj „mnohem horší" než Netanjahu, protože „dělá genocidu svého vlastního národa".
 
-**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+**23. 9.** — K projevu íránského prezidenta Pezeškjána v OSN Vrabel argumentuje, že Írán jaderné dohody dodržoval a případné podezření měla prověřit MAAE, v krajním případě s vojenským doprovodem jen na základě rozhodnutí Rady bezpečnosti; americký útok je proto válečný zločin „sám o sobě i způsobem provedení" (vyvražděná vláda, „200 školaček"). Zdůrazňuje, že muslimským zemím nefandí — „čeho se nejvíc bojím, jsou muslimové v Evropě".
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ---
 

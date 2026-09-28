@@ -352,4 +352,6 @@ Rajchl zpochybňuje sebeobraz Západu jako „svobodného světa": ve Velké Bri
 
 > „A budeme si pořád říkat, že my jsme ti svobodní a oni ne?" — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+**23. 9. (Vrabel)** — K zatčení muže v Anglii za čepici s vlajkou a transparent Vrabel tvrdí, že se Anglie „pomátla" a policisté „patří do ústavu pro choromyslné"; neustálé lhaní podle něj vede ke schizofrenii a paranoie. Protože i v ČR se lže („Rusko agresor"), může se za dva tři roky zatýkat i za českou vlajku. Výstřižek z iDnes o tom, že válku rozpoutal Putin, označuje za „satanismus v přímém přenosu — pravda potlačovaná, převlíkaná do lži". Připomíná, že média dál označují Tomáše Čermáka za „největšího dezinformátora".
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)

@@ -538,7 +538,9 @@ Rajchl (5. 7.) i Vrabel (5. 7.) na totéž oznámení reagují nezávisle na sob
 
 Podle deníku Berliner Zeitung Evropská komise v odpovědi na dotaz europoslance Fabia De Masiho uvedla, že v současnosti nedokáže určit, kolik bude EU stát úhrada úroků z plánovaného úvěru 90 mld. eur pro Ukrajinu, ani zda na to bude v rozpočtu na rok 2027 dost prostředků; De Masi zároveň vyjádřil obavu, že část peněz skončí u zkorumpovaných oligarchů. Vrabel připomíná, že o tomto problému mluví od prosince 2025, kdy Andrej Babiš v Evropské radě odsouhlasil půjčku s odůvodněním, že „Česká republika za ni neručí" — což je podle Vrabela zavádějící: ručení se týká jen případu krachu EU, jinak úroky i jistinu (Ukrajina ji dle něj nikdy nesplatí) platí členské státy z rozpočtu, tedy běžní občané. Vrabel zpřesňuje svůj prosincový odhad úrokové sazby (do 4 %) na cca 3,35 % a nabízí Komisi výpočet nákladů zdarma.
 
-**Zdroje:** [Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
+**23. 9.** — K napjatým jednáním Zelenského s von der Leyenovou (deficit 26 mld. EUR, úvěr 90 mld., Patrioty) Vrabel popisuje model EU: dává peníze, podmiňuje je, přijme zemi a „přebírá pravomoci vládnoucí třídy" — Ukrajinci by vstupem do EU „přišli o svoji zemi kompletně, stejně tak, jako jsme přišli o svoji zemi my". EU podle něj nemá peníze a dluhopisy vydány nebyly; program úspor a investic má přesměrovat „20 bilionů eur" úspor Evropanů do zbrojení.
+
+**Zdroje:** [Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ---
 

@@ -1112,6 +1112,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Ceny energie a ekonomika](../ceny-energie.md) (pokrač. 15)
 - **11. 9.** — ceny benzínu a elektřiny — Německo/Rusko/Srbsko srovnání — [Facebook Live 11. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
 - **12. 9.** — EU neplní cíle odklonu od ruského plynu/ropy; USA restartují jadernou elektrárnu Palisades — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+- **23. 9.** — Ficův summit k nafě = cynismus; jediné řešení ruská ropa a vystoupení z NATO — [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 14)
 - **12. 9.** — AI existenciální riziko — Húsíové zneužili Claude k vývoji raket, 10% šance vyhubení lidstva — [Facebook Live 12. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
@@ -1235,6 +1236,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+- **23. 9.** — Krym ruský (Chruščov, referendum, Charta OSN), Ukrajina „měla přestat existovat"; TCK — „Ukrajinci budou Ukrajince střílet", hrozí i ČR — [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1244,6 +1246,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
+- **23. 9.** — USA by válku ukončily vypnutím Swiftu/internetu/ropy Evropě — [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ---
 
@@ -1702,6 +1705,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Michal Koudelka | ❌ negativní | Výrok o ruském útoku „v řádu měsíců" = poplašná zpráva, měl by být stíhán | 2026-09-22 | [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026) |
 | Kateřina Konečná | ❌ negativní | Hlasovala pro legální cesty migrace z Afriky | 2026-09-22 | [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026) |
 | Benjamin Netanjahu | ❌ negativní | „Satanyahu", před soud s dalšími členy vlády | 2026-09-22 | [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026) |
+| Robert Fico | ⚖️ rozporuplný | Summit EU k nafě = „cynismus", sám součástí globalistických struktur NATO | 2026-09-23 | [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026) |
+| Masúd Pezeškján | ✅ pozitivní | Írán neporušil mezinárodní právo | 2026-09-23 | [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026) |
+| Nikita Chruščov | ❌ negativní | „Opilý Chruščov, který byl Ukrajinec" předal Krym | 2026-09-23 | [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026) |
 
 ---
 
@@ -1845,3 +1851,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live (19. 9. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - [Nedělní vysílání (20. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
 - [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+- [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)

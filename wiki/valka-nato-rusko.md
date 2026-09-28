@@ -1379,3 +1379,11 @@ K výzvě 50 států OSN (včetně ČR) k bezpodmínečnému příměří, ktero
 **Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 
 ---
+
+### USA by mohly válku ukončit ze dne na den — vypnutím Swiftu, internetu a ropy Evropě (Vrabel, 23. 9. 2026)
+
+K Trumpovu setkání se Zelenským (Trump chce znovu jednat s Putinem, varuje, že ukrajinské útoky na rafinerie zvyšují ceny nafty, a přitom dodává Patrioty) Vrabel tvrdí, že jde o „předvolební hru" srovnatelnou s Babišovými sliby. USA podle něj kontrolují evropský internet, energetiku i finance a mohly by konflikt ukončit ze dne na den, ale chtějí, aby umírali Evropané. Zelenského (jméno v přepisu nepadá, ale z kontextu je zřejmé) popisuje jako „narkomana v pokročilém stádiu závislosti".
+
+> „Kdyby Spojené státy dneska řekly evropským politikům, musíte ten konflikt do zítřka ukončit, jinak vám vypneme Swift, vypneme vám internet a nebudeme vám dodávat ropu, tak je vymalováno." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)

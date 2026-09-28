@@ -118,7 +118,11 @@ Vrabel rozvíjí právní argumentaci (navazuje na [vlastní tezi o poválečný
 
 ⚡ **Poznámka:** Tvrzení, že by se poválečné garance územní celistvosti SSSR nevztahovaly na Ukrajinu jako jeho nástupnický stát, a že by mezinárodní právo umožňovalo „zrušení" existujícího uznaného státu, neodpovídá platnému mezinárodnímu právu — Ukrajina je od roku 1991 mezinárodně uznaným státem s vlastními, mezinárodně garantovanými hranicemi (viz i [poznámka u Vrabelovy dřívější verze téže teze](valka-nato-rusko.md#zelenskyj-v-bělehradu--chladné-přivítání-vučić-odmítá-zbraně-vrabel-7-8-2026)).
 
-**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026)
+**23. 9.** — K Pavlovu projevu na summitu Krymské platformy (Krym je ukrajinský, ČR bude Ukrajinu podporovat) Vrabel rozvádí vlastní výklad: Krym byl ruský „od carevny Kateřiny", v roce 1954 ho Ukrajině předal „opilý Chruščov, který byl Ukrajinec", a v referendu se lidé přes 90 % vyslovili pro Rusko (jeho kamarád tam byl pozorovatelem). Ukrajina jako stát „se neosvědčila" a „měla přestat existovat"; Rusko podle něj zasáhlo v souladu s Chartou OSN (článek o bývalých nepřátelských státech a regionálních dohodách) a proti územní celistvosti staví právo na sebeurčení s precedentem Kosova. Pavel si podle něj mezinárodní právo vykládá záměrně jednostranně, z čehož plyne, že ČR bude Ukrajinu podporovat „do nekonečna" a mír „není".
+
+> „Takže pro mě je Krym ruský, a to především z hlediska mezinárodního práva a z hlediska historie." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ---
 
@@ -616,6 +620,14 @@ Rajchl varuje, že polská reakce na spor o Řád Bílé orlice (žádná omluva
 
 ---
 
+### První ozbrojená obrana proti TCK — „za chviličku budou Ukrajinci Ukrajince střílet na ulici"; totéž hrozí ČR (Vrabel, 23. 9. 2026)
+
+K případu z Novovolynsku, kde muž s pistolí osvobodil zadrženého z rukou náborářů TCK, Vrabel předpovídá, že „za chviličku budou Ukrajinci Ukrajince střílet na ulici". Je to podle něj důsledek „protiruské nacifikace", kterou ČR opakuje s několikaletým zpožděním — podobné scény mohou nastat i v ČR za rok až tři, „možná za pár měsíců", dokud bude většina společnosti tvrdit, že Rusko je agresor. Rozebírá, že odvodu se nelze vyhnout, a uvažuje nad dilematem člověka, který by při odporu zastřelil vojáky a „žil s tím, že je vrah".
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+
+---
+
 ### TCK brutalita a nespokojenost v ukrajinském parlamentu — 66 % chce mír (Vrabel, 3. 7. 2026)
 
 Poslanec ukrajinského parlamentu veřejně kritizoval ministra Fedorova za tvrzení, že je „ukrajinské nebe chráněné" — podle něj existují „dvě Ukrajiny": realita ministra a realita občanů, kteří vidí hořící Kyjev a oběti na infrastruktuře. Vrabel to čte jako důkaz, že po 4,5 letech války lidem dochází trpělivost, a dokládá to videi jednotek TCK násilně odvlékajících muže z ulic (několik mužů najednou tahá jednoho do auta, manželky odháněné pepřovým sprejem) — podle něj to dávno není odvod, ale únos. Cituje průzkum, podle nějž 66 % Ukrajinců preferuje okamžitý mír před vítězstvím nad Ruskem, a odhaduje, že reálné číslo bude ještě vyšší. Rozšiřuje [Ukrajinci nechtějí bojovat — TCK „lov lidí" (6. 6.)](#ukrajinci-nechtějí-bojovat--tck-lov-lidí-a-úplatek-12-000--vrabel-6-6-2026) a [TCK: násilná mobilizace a úmrtí na odvodové komisi (12. 6.)](#tck-na-ukrajině-násilná-mobilizace-a-úmrtí-na-odvodové-komisi-vrabel-12-6-2026).
@@ -764,7 +776,9 @@ Putin navrhl jako možného vyjednavače za Evropu Gerharda Schrödera (dobré v
 
 USA (Dan Negro v Radě bezpečnosti OSN, s odkazem na Marka Rubia) vyzvaly k okamžitému příměří na Ukrajině a odsoudily ruské útoky na civilisty. Vrabel to čte jako nástup USA na linii „příměří jako první krok" (společně s Británií, Francií, Německem a Ukrajinou). Tvrdí, že to byly USA, kdo konflikt rozehrál (Majdan 2013, výcvik a zbrojení Ukrajiny už za Trumpova prvního období), že USA nejsou suverénní zemí (mají „loutkové vlády" financované sionistickými bankovními kruhy, Chabad Lubavič) a že stažení USA je jen strategický manévr s cílem dozbrojit Ukrajinu.
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026)
+**23. 9.** — K Rubiovu výroku o zájmu obou stran o omezené příměří (energetika, obilí) Vrabel opakuje, že USA konflikt vyprovokovaly a financovaly, v roce 2022 zabránily míru, válku „prohrály" a nyní se „vtipně nasunuly" do role mírotvorců — „Američani rozpoutali válku proti Rusku, použili Ukrajinu a Evropu jako proxy".
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-6-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 
 ---
 

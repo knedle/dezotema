@@ -144,6 +144,16 @@ Vrabel komentuje zprávu o tom, že JP Morgan Chase plánuje investovat 1,5 bili
 
 ---
 
+### Fico žádá summit EU kvůli cenám nafty — „cynismus"; jediné řešení je ruská ropa a vystoupení z NATO (Vrabel, 23. 9. 2026)
+
+K Ficově žádosti o mimořádný summit EU kvůli cenám nafty (téměř 3 EUR/l) Vrabel tvrdí, že jde o cynismus, protože EU ceny neovlivní — určují je dvě války: Blízký východ (Hormuz a Bab al-Mandab zavřené „jen kvůli USA") a útoky NATO a Ukrajiny na ruské rafinerie; hrozí navíc, že USA omezí vývoz ropy do Evropy. Za odstřižení od ruské ropy viní Babiše, Fialu i „Kameru" (2015); Fico je podle něj sám součástí „globalistických struktur" NATO. Jediné řešení: nakupovat ropu a plyn z Ruska a vystoupit z NATO.
+
+> „Jediný, co má smysl, je nakupovat z Ruska ropu a plyn za dobrý ceny v dobrý kvalitě. Všechno ostatní je Donald Duck." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+
+---
+
 ## Plyn v ČR — diverzifikace zásobování
 
 ### Odkud Česká republika bere plyn — Vrabel (27. 4. 2026)

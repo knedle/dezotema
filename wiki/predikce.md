@@ -60,6 +60,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — v ČR se bude za 2–3 roky zatýkat za českou vlajku a dojde ke scénám jako s TCK (23. 9. 2026)
+
+**Předpověď:** Protože se v ČR lže jako v Británii, může se za dva až tři roky zatýkat za českou vlajku; násilné scény jako s ukrajinskými náboráři TCK mohou v ČR nastat do 1–3 let, „možná za pár měsíců".
+
+> „Nemůžeme se divit, když by za dva roky třeba zatýkali někoho za to, že má českou vlajku. To se klidně může stát, nebo za tři roky." — Ladislav Vrabel
+
+**Horizont:** 2027–2029
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+
+---
+
 ### Ladislav Vrabel — při podpisu francouzského jaderného deštníku zamíří Rusko Orešniky na ČR (22. 9. 2026)
 
 **Předpověď:** Pokud ČR podepíše dohodu o francouzském „jaderném deštníku" (Rafale s ASMP), Rusko okamžitě zamíří proti ČR rakety Orešnik s jadernými hlavicemi.

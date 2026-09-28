@@ -5018,3 +5018,11 @@
 - **Datum záznamu:** 2026-09-22
 - **Zpracováno:** ano
 - **Poznámka:** Chyba přepisu [43:37–50:21] (opakovaný řádek) — ztracen komentář k Moldavsku a začátek zprávy o Grónsku.
+
+## Ladislav Vrabel — Zprávy v devět 23. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-23-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-23_Ladislav-Vrabel_23-9-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1397996352508472>
+- **Datum záznamu:** 2026-09-23
+- **Zpracováno:** ano
+- **Poznámka:** Vysíláno z auta v Srbsku; výpadek [26:34–27:26] a cizí video Trump–Zelenskyj [39:43–40:18].
