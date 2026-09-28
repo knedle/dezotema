@@ -258,3 +258,11 @@ Zítko k dosavadní argumentaci (viz výše) doplňuje nový důkaz: podle něj 
 **Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026)
 
 ---
+
+---
+
+### „Vítězné mocnosti" Trump, Putin, bin Salmán a Módí rozhodnou o obnově Československa; volby 20 let falšovány (Zítko, 24. 9. 2026)
+
+V úvodu speciálu ke kauze Čermák Zítko tvrdí, že Trump, Putin, bin Salmán a Módí jsou a budou „vítěznými mocnostmi", které rozhodnou i o „budoucí podobě našeho právního státu a zpětvzetí Československa"; rozkradení zlatého pokladu a podniků připisuje operaci StB/KGB pod vedením „tria Klaus, Mečiar, Havel". Volby jsou podle něj nejméně 20 let zfalšované přes firmy ESET a Hewlett-Packard vybrané bez tendru a Joe Biden byl „v době inaugurace už popraven".
+
+**Zdroje:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)

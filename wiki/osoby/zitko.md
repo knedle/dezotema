@@ -83,6 +83,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **29. 8.** — rozšiřuje teorii o zfalšovaném zatčení Tomáše Čermáka o spekulaci, že reálně nemusí být ve výkonu trestu (nereaguje na dopisy, nelze ho navštívit, TV prý vysílala jen „hologram") — [kauzy.md](../kauzy.md#spor-se-advokátem-patrikem-tušlem--teorie-o-zfalšovaném-zatýkacím-videu-tomáše-čermáka-zítko-7-8-2026) — [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
 - **29. 8.** — opakuje beze změny bitcoinovou kauzu (100+ mld., nečinnost NCOZ/Vrchního SZ Olomouc přes rok a čtvrt) — [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026)
 - **14. 9.** — nejvyšší státní zástupkyně Lenka Bradáčová podezřelá z propojení na bitcoinovou kauzu — nominoval ji Blažek, tlak na prošetření od Babišovy vlády (Tejc, Koudelka) — [Videoportál 14. 9.](../_zdroje.md#československo-tv2--videoportál-14-9-2026) → [kauzy.md](../kauzy.md#nejvyšší-státní-zástupkyně-lenka-bradáčová-podezřelá-z-propojení-na-bitcoinovou-kauzu-zítko-14-9-2026)
+- **24. 9.** — Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (vzdání se stížnosti, odstrašující případ); popírá udání, zatčení v Polsku = provokace proti němu — [ČsTV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-pozvánka-čermák-24-9-2026), [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -153,6 +154,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **15. 9.** — sdílený text „vylhaný svět": Darwinova teorie, dinosauři, atomové zbraně a vesmír jako podvod — [Videoportál 15. 9.](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
 - **16. 9.** — z velké části repríza admiralty law/USA Incorporation; nová rodová linie „Kalúny" (Lincoln/JFK/Trump) a výklad BAR jako „British Association Register" (Blažek proti advokátní komoře) — [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md#rodný-list-jako-obchodní-papír-na-burze-v-new-yorku--admirality-law-zítko) — [Videoportál 16. 9.](../_zdroje.md#československo-tv2--videoportál-16-9-2026)
 - **17. 9. (2)** — RFK Jr. „potvrzuje" chemtrails (Disney 60 mil. $ na domalování stop do starých filmů) — [konspirace.md](../konspirace.md); nová vlna QFS/kolapsu bankovnictví (JP Morgan/XRP, konec SWIFTu, zákaz CBDC) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#quantum-financial-system-a-medbeds) — [Videoportál 17. 9. (2)](../_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+- **24. 9.** — „Vítězné mocnosti" (Trump, Putin, bin Salmán, Módí) rozhodnou o obnově ČSR; volby 20 let falšovány přes ESET/HP; Biden popraven — [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -297,6 +299,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Tomáš Čermák | ⚖️ rozporuplný | Spolupracovník/kamarád, u jehož uvěznění Zítko nově spekuluje, že reálně nemusí být ve výkonu trestu | 2026-08-29 | [Videoportál 29. 8.](../_zdroje.md#československo-tv2--videoportál-29-8-2026) |
 | Lenka Bradáčová | ❌ negativní | Nejvyšší státní zástupkyně — podezřelá z propojení na bitcoinovou kauzu, kritizována za dlouhodobou nečinnost | 2026-09-14 | [Videoportál 14. 9.](../_zdroje.md#československo-tv2--videoportál-14-9-2026) |
 | Irena Storová | ❌ negativní | Ředitelka SÚKL — označena za „spolupachatelku masových vražd, genocidy národa a sterilizace lidí" za neplnění dohledové funkce | 2026-09-15 | [Videoportál 15. 9.](../_zdroje.md#československo-tv2--videoportál-15-9-2026) |
+| Tomáš Čermák („originál") | ✅ pozitivní | Bojovník proti „covidové mafii"; propuštěný muž je podle něj „údajný" Čermák / dvojník | 2026-09-24 | [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026) |
+| Jiří Lněnička (soudce) | ❌ negativní | Nepovolil ho jako Čermákova zmocněnce, „zmanipulovaný proces" | 2026-09-24 | [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026) |
+| Trump, Putin, bin Salmán, Módí | ✅ pozitivní | „Vítězné mocnosti", rozhodnou o obnově ČSR | 2026-09-24 | [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026) |
+| Klaus, Mečiar, Havel | ❌ negativní | „Trio" rozkradení Československa | 2026-09-24 | [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026) |
 
 ---
 
@@ -388,3 +394,5 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [Videoportál (16. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-16-9-2026)
 - [Videoportál (17. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-17-9-2026)
 - [Videoportál (17. 9. 2026, 2. video)](../_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+- [ČsTV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-pozvánka-čermák-24-9-2026)
+- [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)

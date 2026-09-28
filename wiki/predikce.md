@@ -24,6 +24,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Pavel Zítko — „vítězné mocnosti" rozhodnou o obnově Československa (24. 9. 2026)
+
+**Předpověď:** Trump, Putin, bin Salmán a Módí jako „vítězné mocnosti" rozhodnou o budoucí podobě právního státu a o obnově Československa.
+
+> „Tady těch pět můžeme nazvat, že jsou to a budou vítězné mocnosti, které budou rozhodovat. I o budoucí podobě našeho právního státu a zpět vzetí Československa." — Pavel Zítko
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
+
+---
+
 ### Jiří Černohorský — válka skončí jen porážkou Ukrajiny; po příměří nová válka „pod falešnou vlajkou"; rakety na evropská města (24. 9. 2026)
 
 **Předpověď:** Válka neskončí, dokud Ukrajina nebude poražena nebo nepřijme ruské podmínky; Ukrajina „v životě nebude v NATO" ani v EU. Případné příměří by Západ využil k vyzbrojení a poté pod falešnou vlajkou znovu vyhlásil Rusku válku. Při dalších provokacích Putin pošle rakety („oříšky") na Londýn, Paříž, Brusel, případně Prahu.

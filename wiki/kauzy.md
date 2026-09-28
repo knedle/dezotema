@@ -1046,7 +1046,21 @@ Advokát Patrik Tušl (dříve obhajovaný Zítkem v kauze Tomáše Čermáka) v
 
 **29. 8.** — Zítko rozšiřuje teorii o dalších nesrovnalostech: Čermák prý nereaguje na dopisy s otázkami, na které mohli znát odpověď jen oni dva, návštěva u něj ve věznici v Liberci není možná a v televizním vysílání o něm byl místo něj údajně pouštěn jen „hologram". Z toho usuzuje, že Čermák možná není reálně ve výkonu trestu.
 
-**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 29. 8. 2026](_zdroje.md#československo-tv2--videoportál-29-8-2026)
+**24. 9.** — Zítko znovu odmítá, že by Čermáka udal: 27. 8. 2023 ho prý jen odvezl na čerpací stanici na jižní Moravu, pátrání bylo vyhlášeno až 29. 8.; policie si ho pozvala k výslechu a hned nato proběhlo „sehrané" zatčení v Polsku („kamera, klapka, Čermák po páté, tři, dva, jedna"), po němž se proti němu jako čerstvě zvolenému „generálnímu konzulovi" rozjela kampaň „Bonzítko, Bonzul" — podle něj „koordinovaná, plánovaná policejní operace". Má prý protokol i zvukový záznam výslechu, které zatím nezveřejnil. Všechny profily „Pavel Zítko" kromě jediného pravého jsou podle něj pod kontrolou policie a tajných služeb.
+
+**Zdroje:** [ČsTV2 — Videoportál 7. 8. 2026](_zdroje.md#československo-tv2--videoportál-7-8-2026), [ČsTV2 — Videoportál 29. 8. 2026](_zdroje.md#československo-tv2--videoportál-29-8-2026), [ČsTV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--videoportál-pozvánka-čermák-24-9-2026), [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
+
+---
+
+### Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27. 9. 2026)
+
+Zítko s partnerkou („Kačenkou") jeli 24. 9. 2026 k Okresnímu soudu v Liberci na jednání o podmíněném propuštění Tomáše Čermáka (odsouzen na 5,5 roku za výroky kvalifikované jako terorismus) — z veřejnosti tam podle něj byli jen oni dva, vedle rodiny a „prestitutů" včetně ČT; soudkyně zakázala živý přenos, ne však nahrávání. Líčení označuje za „divadelní představení" a „justiční habaďůru": propuštěný muž je pro něj „údajný Tomáš Čermák" — vychovatelka z věznice prý řekla, že je „jako vyměněný", a sám Čermák, že „má okno", což Zítko srovnává s výpadkem softwaru. Opakovaně sice říká, že „nebude soudit", zda šlo o Čermáka, ale vyzývá diváky, ať srovnávají uši, ruce, ramena i hlas („Alexa za 20 vteřin vám napodobí hlas"). Hlavním účelem „sehraného" jednání bylo podle něj z muže „vymámit" vzdání se práva na stížnost (i za právní tým), čímž přiznal vinu a přišel o nárok na odškodnění za 35 měsíců věznění, a vytvořit „odstrašující případ pro všechny, kteří by se snad snažili kverulovat"; symbolické je prý i datum — výročí druhé pražské defenestrace. Trest považuje za politický (pedofilové a násilníci prý dostávají podmínku): Čermák podle něj jen expresivně mířil na „masové vrahy", pachatele „genocidy národa, vakcinačního holokaustu a sterilizace" — vakcína je podle Zítka biologická zbraň namířená „zejména na Slovany a bílé obyvatelstvo" a covidová mafie „patří před vojenský tribunál". Soudy jsou podle něj obchodní společnosti s čísly DUNS. Připomíná i vlastní kauzy: 110 dní vazby „bez zákonného důvodu", zásah NCTEKK v Doksech (3. 2. 2025) se zabavením telefonů a zrušený rozsudek tří let nepodmíněně; soudce Lněnička mu u vrchního soudu nepovolil být Čermákovým zmocněncem. V pořadu pouští i Čermákovo „video z lesa" (2023) s výzvami „do zbraně… jdeme na ně" proti „vlastizrádcům" jako ukázku, „jak smýšlel Tomáš Čermák originál".
+
+> „Ať už to ve skutečnosti byl on, anebo to byl jeho dvojník, tak vystupoval jako totálně vyměněný a zlomený člověk." — Pavel Zítko, [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
+
+⚡ **Konflikt:** Jiří Černohorský tentýž den propuštění vítal jako skutečného Čermáka a Zítka obvinil, že Čermáka „s největší pravděpodobností" udal a chystá sbírku bez souhlasu rodiny — viz [Černohorský, 24. 9. 2026](politicky-system.md#podmíněné-propuštění-tomáše-čermáka--nepřiměřený-trest-jako-zářný-příklad-pro-umlčení-scény-černohorský-24-9-2026). Zítko ho ve vysíláních nejmenuje; udání popírá (viz níže).
+
+**Zdroje:** [ČsTV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--videoportál-pozvánka-čermák-24-9-2026), [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 
 ---
 

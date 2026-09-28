@@ -97,6 +97,7 @@ Tato stránka eviduje výroky splňující klíčové znaky: **pojmenovaný ter�
 | Jiří Černohorský | Martin Dvořák (poslanec STAN) | „To je prostě lidský odpad. [...] zrůda" a „Dvořák má sedět v kriminále" — dehumanizace + výzva k trestu | 24. 9. 2026 | [Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
 | Jiří Černohorský | Volodymyr Zelenskyj (antisemitský rámec) | „víte o tom, že Židé milují symboliku [...] A Volodymyr Zelenský je Žid" / „tenhle žid, nacistický zločinec" — antisemitská dehumanizace | 24. 9. 2026 | [Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
 | Jiří Černohorský | Praha / „banda kreténů" (obyvatelé evropských metropolí) | „až vám prostě ty oříšky pošle [...] Kde by mohl přistát? V Praze? Protože tady je taky banda kreténů." — hraniční: schvalující rámování ruského raketového úderu na města | 24. 9. 2026 | [Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| Pavel Zítko | „covidová mafie" (Fauci, Prymula aj.), „propagátoři zabodávání biologickou zbraní" | „covidová mafie, patří před vojenský tribunál" / „tyhlety propagátoři zabodávání biologickou zbraní, tyhlety spolupachatelé genocidy národa [...] Tyhlety všichni pičusové" / „A tyhle ty debilové budou obětovaný jako první" — opakovaná výzva k tribunálu + dehumanizace | 24. 9. 2026 | [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026) |
 
 ---
 

@@ -4981,3 +4981,18 @@
 - **URL:** <https://www.facebook.com/61553793793504/videos/838396809331669>
 - **Datum záznamu:** 2026-09-27
 - **Zpracováno:** ano
+
+## Československo TV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026) {#československo-tv2--videoportál-pozvánka-čermák-24-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-25_Československo-TV2_22-reactions-3-comments-Československo-TV2-vysílal.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1722207712200109&_rdr>
+- **Datum záznamu:** 2026-09-24
+- **Zpracováno:** ano
+
+
+## Československo TV2 — Speciál Tomáš Čermák (24. 9. 2026) {#československo-tv2--speciál-čermák-24-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-26_Československo-TV2_15-reactions-3-comments-Československo-TV2-vysílal.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1108274668303656&_rdr>
+- **Datum záznamu:** 2026-09-24
+- **Zpracováno:** ano
