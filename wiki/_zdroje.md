@@ -4950,3 +4950,11 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/1569064014422116>
 - **Datum záznamu:** 2026-09-27
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Videoportál: volyňský masakr (21. 9. 2026) {#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-21_Jiří-Černohorský_81K-views-260-reactions-PROSÍM-SDÍLEJTE-KAM-JEN-MŮŽE.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1733426791220691>
+- **Datum záznamu:** 2026-09-21
+- **Zpracováno:** ano
+- **Poznámka:** Převážně sdílený dokumentární text o volyňském masakru (UPA 1943); vlastní komentář Černohorského jen v závěru (zobecnění na „národ", výzva ke sdílení).

@@ -124,6 +124,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **27. 8.** — Ukrajina se blíží kolapsu, Kyjev „nedopadne dobře"; zodpovědnost připisuje západním vládám — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - **15. 9.** — Vlastní program: okamžité zrušení zbrojní iniciativy a snížení dávek ukrajinským uprchlíkům o 60 %; predikce rozdělení Ukrajiny; Fialova opozice jako „nacisti" kvůli oslavám Hunky v kanadském parlamentu — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 - **19. 9.** — Katalog korupčních kauz ukrajinského vedení (Jermak, Mindič, Haluščenko aj.) jako odpověď na „obránce Ukrajiny"; Nord Stream jako ukrajinsko-americký čin; rámec „Rusko je nepřítel nacismu, ne náš nepřítel" — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+- **21. 9.** — sdílí dokument o volyňském masakru (UPA 1943, ~100 tis. Poláků); zobecňuje na Ukrajince: „co je to za národ", výzva ke sdílení — [Videoportál 21. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#volyňský-masakr-jako-obraz-ukrajinského-národa--výzva-ke-sdílení-černohorský-21-9-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -165,6 +166,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - Fiala, Rakušan, Černochová, Lipavský, Stanjura, Blažek — „za korupci v Číně střílej" navazující na výzvu k trestnímu stíhání — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 - Boris Johnson — explicitní přání smrti při útoku dronem („škoda, že ten vlak... už netrefil") — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 - Volodymyr Zelenskyj a ukrajinské vedení — výzva ke „kruté smrti" — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+- **21. 9.** — Ukrajinci jako národ kolektivně dehumanizováni přes zločiny UPA („co je to za národ") — [Videoportál 21. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026)
 
 ---
 
@@ -354,3 +356,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál (2. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-2-9-2026)
 - [Facebook Live (15. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 - [Facebook Live (19. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
+- [Videoportál: volyňský masakr (21. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026)

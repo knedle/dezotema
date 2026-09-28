@@ -469,6 +469,16 @@ O den později (**1. 7. 2026**) Rajchl reaguje na ohlasy: opoziční politici (j
 
 ---
 
+### Volyňský masakr jako obraz „ukrajinského národa" — výzva ke sdílení (Černohorský, 21. 9. 2026)
+
+Černohorský sdílí zhruba sedmiminutový dokumentární výklad o volyňském masakru: po německém vpádu do SSSR (1941) posílila Organizace ukrajinských nacionalistů (OUN) a Ukrajinská povstalecká armáda (UPA) zahájila počátkem roku 1943 etnické čištění Volyně od Poláků. Text popisuje masakry v Ostrówkách (438 zavražděných, z toho 246 dětí do 14 let), ve Wole Ostrowiecké (529 mrtvých, ženy a děti upáleny v zamčené škole) a v Kisielinu, „Krvavou neděli" 11. 7. 1943 (útok na nejméně 99 polských osad, často na lidi shromážděné v kostelech), extrémně brutální metody vraždění a celkový odhad 100 000 zavražděných a 300 000 vyhnaných Poláků; zmiňuje i vraždy ukrývaných Židů a osudy velitelů (Roman Šuchevyč, Ivan Lytvynčuk, Ivan Klymčak, Dmytro Kljačkivskyj). Černohorský v závěru vlastním slovem dokument zobecňuje na celý národ — je to podle něj „malá ukázka toho, co dělali Ukrajinci, co je to za národ" — a vyzývá ke sdílení, aby hrůzy nebyly zapomenuty a aby nikdo „neblahořečil" Šuchevyčovi, Banderovi a dalším, které vulgárně označuje za zrůdy a vrahy. Navazuje na spor o [pojmenování jednotky po UPA](#zelenský-pojmenoval-jednotku-po-upa--důkaz-nacistické-ideologie-výzva-k-odebrání-řádu-pavlovi-rajchl-31-5-2026) a na [krizi Polsko–Ukrajina](#krize-polskoukrajina-eskaluje-kvůli-upa-pochybnosti-o-katyni-a-smolensku-predikce-rozpadu-ukrajiny-černohorský-28-6-2026).
+
+⚡ **Poznámka:** Historické údaje pocházejí ze sdíleného dokumentu, ne od Černohorského; jeho vlastní přínos je zobecnění zločinů UPA na Ukrajince jako národ — viz [Stochastický teror](stochasticky-teror.md).
+
+**Zdroje:** [Černohorský — Videoportál: volyňský masakr, 21. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026)
+
+---
+
 ### Zelenskyj schválil památníky UPA/Bandera na Ukrajině i ve Venezuele — spolufinancuje EU (Vrabel, 10. 7. 2026)
 
 Volodymyr Zelenskyj podepsal dekret o výstavbě památníků věnovaných Ukrajinské povstalecké armádě (UPA) a osobnostem ukrajinského nacionalistického hnutí (Šuchevyč, Bandera, Melnyk) — jeden komplex na Ukrajině, druhý přímo ve Venezuele, kam po válce podle Vrabela odešla část ukrajinských nacistických kolaborantů (podobně jako do Evropy přes katolickou církev v Římě). Celkové náklady komplexu odhaduje na cca 70 mil. eur (~1,75 mld. Kč), na financování se má podílet i Evropská unie. Vrabel to komentuje sarkasticky — srovnává částku se „směšnou" sumou, kterou ČR posílá na PURL (viz výše), a navrhuje, aby stát podobně jako platí zájezdy na Ukrajinu, hradil důchodcům zájezdy k tomuto památníku, aby na vlastní oči viděli, jak UPA za války „rozpárávala těhotné ženy a vyřezávala nemluvňata". Zasazuje spor do kontextu vyostřených vztahů s Polskem kolem stejného tématu (viz výše) a předpokládá, že po volbách polský protest opět „zavře" a spolupráce s Ukrajinou na vstupu do EU bude pokračovat jako dřív.
