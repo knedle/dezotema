@@ -107,6 +107,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **8. 9.** — TV debata s poslancem ODS Sokolem: obhajoba AfD po vítězství v Sasku-Anhaltsku (odmítá „nálepkování", dvojí metr k nacismu na Ukrajině), shoda s AfD na euru/Green Dealu/migraci, ale explicitní distance v otázce Benešových dekretů — [Videoportál 8. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-8-9-2026) → [suverenita-eu.md](../suverenita-eu.md#zemské-volby-v-sasko-anhaltsku--afd-s-přes-40--může-poprvé-vytvořit-samostatnou-vládu-šejna-5-9-2026)
 - **20. 9.** — projev na konferenci Svatopluk: jednání USA s Ruskem (Witkoff, Kushner, Ratcliffe) racionálnější než „silácká gesta" von der Leyenové; ochoten jednat i s Lavrovem/Putinem — [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#projev-na-konferenci-svatopluk-jednání-s-ruskem-witkoff-kushner-ratcliffe-racionálnější-než-silácká-gesta-von-der-leyenové-rajchl-19-20-9-2026)
 - **22. 9.** — „selhávající taktika" Krutílka a spol. od 2022 vedla k milionům mrtvých a ztrátě území; sázka o láhev vína, že válka skončí, jak předpovídal — [Videoportál 22. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#selhávající-taktika-od-roku-2022-a-sázka-o-láhev-vína-na-konec-války--reakce-na-krutílka-rajchl-22-9-2026)
+- **24. 9.** — spor Pavel–Fico o čl. 5 NATO: „jednoznačně" na straně Fica, Pavel „troubí do války"; nejpravděpodobnější spouštěč = ukrajinská provokace (Nord Stream, Przewodów, Duda: Zelenskyj chtěl „hodit vinu na Putina"); NATO by jednotně nezaútočilo (USA, Turecko v BRICS) — [Videoportál 24. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -406,6 +407,10 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Ursula von der Leyen | ❌ negativní | Nový řádek: označena za „dalšího válečného štváče" profitujícího ze zbrojení, ne hrdinku bránící Evropu | 2026-09-20 | [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) |
 | Jan Krutílek | ❌ negativní | Poslanec ODS — „plete si příčinu a následek" u zbrojení, prosazuje selhávající taktiku vůči Ukrajině; nabídnuta sázka o víno | 2026-09-22 | [Videoportál 22. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026) |
 | Dwight D. Eisenhower | ✅ pozitivní | Citováno jeho varování před vojensko-průmyslovým komplexem jako největším nebezpečím pro demokracii | 2026-09-22 | [Videoportál 22. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026) |
+| Robert Fico | ✅ pozitivní | Ve sporu s Pavlem o čl. 5 NATO stojí „jednoznačně" na jeho straně — realista, má to „v hlavě srovnané stokrát víc" než váleční štváči | 2026-09-24 | [Videoportál 24. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026) |
+| Petr Pavel | ❌ negativní | „Troubí do války", patrně by si přál, aby začala co nejdříve | 2026-09-24 | [Videoportál 24. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Dle Dudy se ho po dopadu rakety v Polsku snažil přesvědčit, aby „hodili vinu na Putina" a zatáhli Evropu do války | 2026-09-24 | [Videoportál 24. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026) |
+| Andrzej Duda | ○ neutrální | Citován jako svědek (podcast Rymanowski Live, 1. 9. 2025) Zelenského snahy svést útok na Rusko | 2026-09-24 | [Videoportál 24. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026) |
 
 ---
 
@@ -526,3 +531,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Videoportál (17. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-17-9-2026)
 - [Facebook Live (20. 9. 2026)](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
 - [Videoportál: Krutílek (22. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
+- [Videoportál: Pavel vs. Fico (24. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026)

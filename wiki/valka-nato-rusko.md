@@ -1292,7 +1292,11 @@ Slovenský premiér Robert Fico ve videoprohlášení (nezúčastnil se kvůli t
 
 **20. 9.** — Prezident Petr Pavel označil Ficovo vyjádření za závažné a vyslovil naději, že se ČR touto cestou nevydá; Fico mu obratem vzkázal, že jako bývalý generál NATO by si Pavel „rád zabojoval", zatímco on sám dává přednost míru. Vrabel na to reaguje ironicky: přesně proto byl podle něj Petr Pavel na pozici prezidenta dosazen — aby v případě, že ČR půjde do války, měla společnost rovnou svého „pastýře", který ji povede „na maso".
 
-**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026), [Vrabel — Nedělní vysílání 20. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
+**24. 9. (Rajchl)** — Rajchl se ve sporu Pavel–Fico staví „logicky zcela jednoznačně" na stranu Fica: zatímco Pavel „co by vrchní rozvědčík a generál už troubí do války a patrně by si přál, aby už co nejdříve začala", Fico je podle něj realista, který to má „v hlavě srovnané stokrát víc než všichni tito váleční štváči dohromady". Za nejpravděpodobnější spouštěč konfliktu NATO–Rusko považuje ukrajinskou provokaci: oba největší útoky na evropskou infrastrukturu za poslední 4,5 roku — Nord Stream a raketa, která dopadla na polské území (Przewodów) — podle něj provedla ukrajinská strana (SBU), přestože média nejprve obviňovala Rusko. Odvolává se na polského exprezidenta Andrzeje Dudu, který v podcastu Rymanowski Live (1. 9. 2025) uvedl, že mu po dopadu rakety volal Zelenskyj a přesvědčoval ho, aby společně „hodili vinu na Putina" a zatáhli tak evropské státy do horkého střetu s Ruskem — o totéž se Ukrajina podle Rajchla bude snažit i nyní. Představu, že by všechny státy NATO „jako jeden muž" zaútočily na Rusko, označuje za naivní a směšnou: USA do jaderného konfliktu nepůjdou (mají dost problémů s Íránem) a tomu, že by Turecko, které se samo hlásí do BRICS, „vytáhlo šavle" na Krym, „můžou věřit opravdu pouze pacienti v psychiatrické léčebně v Bohnicích". Konflikt „absolutně vylučuje" a slibuje, že udělá vše, aby Česko do války s Ruskem zataženo nebylo.
+
+> „Česká republika se nemůže ocitnout ve válce za žádnou cenu. Říkám to jasně a jednoznačně." — Jindřich Rajchl
+
+**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026), [Vrabel — Nedělní vysílání 20. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026), [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026)
 
 ---
 

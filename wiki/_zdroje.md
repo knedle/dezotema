@@ -4929,3 +4929,10 @@
 - **URL:** <https://m.facebook.com/watch/?v=2949286102118895&_rdr>
 - **Datum záznamu:** 2026-09-26
 - **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Pavel vs. Fico, čl. 5 NATO (24. 9. 2026) {#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-24_Jindřich-Rajchl_152K-views-15K-reactions-Ve-sporu-Petra-Pavla-a-Rober.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1117016814175417>
+- **Datum záznamu:** 2026-09-24
+- **Zpracováno:** ano

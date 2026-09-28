@@ -576,3 +576,13 @@ Rajchl srovnává přístup CNN Prima News k rozhovorům s prezidentem Pavlem (t
 **Zdroje:** [Rajchl — Facebook Live 6. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026)
 
 ---
+
+### Pavel „troubí do války" — ve sporu s Ficem o čl. 5 NATO (Rajchl, 24. 9. 2026)
+
+Rajchl viní Petra Pavla, že jako „vrchní rozvědčík a generál" ve sporu s Robertem Ficem o článku 5 NATO „troubí do války" a patrně by si přál, aby začala co nejdříve; politici podle něj nemají občany strašit konfliktem, který Rajchl „absolutně vylučuje". Staví se na stranu Fica. Podrobně viz [Fico odmítá automatické uplatnění čl. 5 NATO](valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026).
+
+> „Petře Pavle, Česká republika, naši občané nechtějí válku, chtějí žít v míru." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026)
+
+---
