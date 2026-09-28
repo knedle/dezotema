@@ -122,7 +122,9 @@ Vrabel rozvíjí právní argumentaci (navazuje na [vlastní tezi o poválečný
 
 > „Takže pro mě je Krym ruský, a to především z hlediska mezinárodního práva a z hlediska historie." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+**24. 9.** — Pavel podle Vrabela slíbil podporu Ukrajině, dokud nezíská zpět Krym, a „oprášená" Krymská platforma slouží k tomu, aby politici „nemuseli řešit minulost" a uznat, že „Krym je ruský" — lidé v referendu sami rozhodli a kdo respektuje demokracii, musí je nechat v Rusku. Slovenský prezident Pellegrini podle něj dostal od Rutteho „nabídku, která se neodmítá" (místo v NATO). Válku o Krym nelze vyhrát, protože Rusko je „největší jaderná velmoc".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ---
 

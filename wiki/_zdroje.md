@@ -5026,3 +5026,11 @@
 - **Datum záznamu:** 2026-09-23
 - **Zpracováno:** ano
 - **Poznámka:** Vysíláno z auta v Srbsku; výpadek [26:34–27:26] a cizí video Trump–Zelenskyj [39:43–40:18].
+
+## Ladislav Vrabel — Zprávy v devět 24. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-24-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-24_Ladislav-Vrabel_24-9-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/886657457810802>
+- **Datum záznamu:** 2026-09-24
+- **Zpracováno:** ano
+- **Poznámka:** Cizí klipy (Gordon, britský exministr, Rutte) zachyceny jen útržkovitě.

@@ -153,7 +153,9 @@ Vrabel je přesvědčen, že svět je „pravděpodobně před velkým vojenský
 
 **12. 9.** — Vrabel rozšiřuje výzvu o konkrétní scénář spouštěče konfliktu: cituje „našeho doktora" (kamaráda s vojenskou zkušeností a napojením na tajné služby), podle nějž bude spouštěčem pravděpodobně atentát na významnou osobu (analogie s atentátem na Ferdinanda 1914, provokací na hranicích 1939, či útoky pod falešnou vlajkou v Jugoslávii) — může jít o Zelenského nebo jiného evropského/amerického politika. Popisuje odhadovaný sled událostí: raketa zasáhne cíl v Německu, spustí se mediální panika, vyhlásí se stav ohrožení státu/válečný stav a hranice EU se okamžitě uzavřou (analogie s 24. 2. 2022 na Ukrajině) — ne aby zabránily útoku, ale aby zabránily obyvatelům odejít. Odkazuje na navýšený rozpočet Frontexu (300 mil. eur, ztrojnásobení počtu vojáků) jako přípravu na tento scénář, ne na migraci. Radí lidem mimo vojenský věk připravit si zázemí mimo velká města (les, hory, chata) a lidem ve vojenském věku zvážit odchod ze země, pokud se chtějí vyhnout mobilizaci — hodnotí, že „kdo to teď začíná řešit, je pozdě".
 
-**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+**24. 9.** — S odkazem na „říjnové překvapení", o němž prý otevřeně mluví američtí moderátoři, Vrabel znovu doporučuje připravit se „jako Sikorski" — rýže, kompoty, vodní pumpa, evakuační batůžek.
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ---
 

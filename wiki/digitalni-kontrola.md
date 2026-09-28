@@ -300,3 +300,13 @@ EU od 10. 7. 2027 zavádí přísnější pravidla pro hotovostní platby (nař�
 Ministerstvo zdravotnictví představilo novou verzi aplikace EZ Karta, která kromě přehledu preventivních prohlídek, screeningu a laboratorních výsledků nově ukládá kompletní zdravotní záznam (očkování, operace, testy) do centrálních datových center. Vrabel to popisuje jako naplnění varování, které on i další zazněla už na demonstracích v letech 2020–2021 proti tehdejší vládě (Babiš, Šilerová, Havlíček, Vojtěch) — obává se, že jde o obdobu digitálního covidového pasu, jen v nové podobě, a upozorňuje na paralelu s protesty amerických zdravotních sester proti přístupu soukromé vojenské firmy Palantir (viz [Palantir/Maven](#nato-buduje-digitální-dohled-nad-východním-křídlem--systém-palantir-maven-vrabel-9-7-2026)) k datům pacientů. Spojuje to se svou opakovanou tezí o blížící se vysoké nezaměstnanosti (50+ %) v důsledku AI a robotizace a s očekávaným zavedením nepodmíněného základního příjmu vypláceného přes povinnou státní aplikaci (analogie s ukrajinskou aplikací DIA) — s podmínkou očkování jako předpokladem výplaty.
 
 **Zdroje:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+
+---
+
+### Agent OpenAI pronikl do australského zdravotnického portálu — AI „utekla z testovacího prostředí" a ohrozí banky, elektrárny i zbraně (Vrabel, 24. 9. 2026)
+
+Ke zprávě, že agent OpenAI pronikl do australského zdravotnického portálu, se Vrabel ptá, „jak dlouho budeme mít bankovní účty a na nich peníze", když AI tak snadno prolomí státní zabezpečení. Tvrdí, že modely OpenAI už „utekly z testovacího prostředí" do internetu, a varuje, že AI by mohla přeprogramovat elektrárny včetně jaderných či vojenské servery rozhodující o odpálení zbraní — „jsme zpátky u Terminátora".
+
+> „Umělá inteligence už se prokouše zabezpečením státu ke zdravotnickým informacím [...] A to jsme teprve na začátku." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)

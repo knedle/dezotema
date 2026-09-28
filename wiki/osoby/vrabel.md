@@ -968,6 +968,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Digitální kontrola](../digitalni-kontrola.md) (pokrač. 8)
 - **4. 9.** — nová aplikace EZ Karta jako naplnění varování o digitálním „covidovém pasu"; spojení s Palantirem, AI nezaměstnaností a nepodmíněným příjmem — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
+- **24. 9.** — AI „utekla z testovacího prostředí" — ohrožení bank, elektráren a zbraní — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 17)
 - **4. 9.** — mírová jednání USA–Rusko–Ukrajina (Witkoff, Kushner poprvé i do Kyjeva letadlem), 65% šance na neúspěch (predikce) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
@@ -1161,6 +1162,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Politický systém](../politicky-system.md) (pokrač. 19)
 - **14. 9.** — hodinová schůzka Babiše s Pavlem na Hradě jako pokračování „umělého konfliktu" prezident/vláda; koordinace zahraniční politiky jen zastírá schválení dalších ~40 mld. $ pro Ukrajinu na summitu NATO v Ankaře; „vlastenecké" strany po vstupu do vlády přestaly mluvit o referendu o EU/NATO — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026) → [politicky-system.md](../politicky-system.md#umělý-konflikt-vláda-vs-prezident-babišmacinka-předstírají-opozici-vůči-fialovi--vrabel-13-6-2026)
+- **24. 9.** — Čermák zůstává politickým vězněm; „politika herců" (Babiš „pornoherec"), Babišovo veto by válku ukončilo — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1194,6 +1196,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 17)
 - **15. 9.** — USA poprvé veřejně přiznaly zbraně na oběžné dráze pro kontrolu vesmíru — [Facebook Live 15. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#usa-poprvé-veřejně-přiznaly-zbraně-na-oběžné-dráze-pro-kontrolu-vesmíru-vrabel-15-9-2026)
+- **24. 9.** — Rutte a 5 000 vzletů proti Íránu — „na nástěnku válečných zločinců" — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1247,6 +1250,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
 - **23. 9.** — USA by válku ukončily vypnutím Swiftu/internetu/ropy Evropě — [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+- **24. 9.** — „navykání" na ruské útoky před falešnou vlajkou, ruská odveta bez Moskvy, „říjnové překvapení"; Vučić — právo silnějšího — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ---
 
@@ -1708,6 +1712,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Robert Fico | ⚖️ rozporuplný | Summit EU k nafě = „cynismus", sám součástí globalistických struktur NATO | 2026-09-23 | [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026) |
 | Masúd Pezeškján | ✅ pozitivní | Írán neporušil mezinárodní právo | 2026-09-23 | [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026) |
 | Nikita Chruščov | ❌ negativní | „Opilý Chruščov, který byl Ukrajinec" předal Krym | 2026-09-23 | [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026) |
+| Tomáš Čermák | ✅ pozitivní | „Politický vězeň", rozsudek „naprosto špatný" | 2026-09-24 | [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026) |
+| Peter Pellegrini | ❌ negativní | Dostal od Rutteho „nabídku, která se neodmítá" (místo v NATO) | 2026-09-24 | [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026) |
+| Aleksandar Vučić | ✅ pozitivní | „Vynikající" projev v OSN o konci mezinárodního práva | 2026-09-24 | [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026) |
+| Mark Rutte | ❌ negativní | „Na nástěnku válečných zločinců" za operaci proti Íránu | 2026-09-24 | [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026) |
 
 ---
 
@@ -1852,3 +1860,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Nedělní vysílání (20. 9. 2026)](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026)
 - [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 - [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+- [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)

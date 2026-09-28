@@ -771,3 +771,11 @@ K projevu britského labouristy Andyho Burnhama („migrace ano, ale kontrolovan
 > „To, co dělá dneska Evropa, páchá sebevraždu, absolutně sociálně, demograficky páchá sebevraždu a vůbec nezáleží na tom, jestli to je legální migrace nebo nelegální migrace." — Ladislav Vrabel
 
 **Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+
+---
+
+### Útok Ukrajince v klášteře v Jarosławi — dvojí metr justice vůči Ukrajincům (Vrabel, 24.–25. 9. 2026)
+
+K útoku nožem v klášteře v polském Jarosławi, který spáchal 31letý Ukrajinec, Vrabel připomíná brněnský případ, kdy Ukrajinec v autobuse ubodal chlapce a podle něj „žádný trest neodseděl" — zatímco Tomáš Čermák dostal za slova 5,5 roku; spekuluje, zda pachatel „nepůjde do vězení, protože je Ukrajinec". Druhý den (25. 9.) kritizuje polskou TVP, že spekuluje o ruské provokaci a falešném ukrajinském pasu: média podle něj uplatňují „pravidlo satanismu — to, co je nahoře, je dole, to, co je bílé, je černé", a brzy prý i násilí TCK či zabité dívky v Íránu svedou na Rusy, takže slovo „Rus" se stane synonymem pro „zločinec".
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)

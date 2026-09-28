@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — „říjnové překvapení" — válka Evropy s Ruskem, zahájená atentátem nebo útokem pod falešnou vlajkou (24. 9. 2026)
+
+**Předpověď:** V říjnu 2026 přijde „říjnové překvapení" — konflikt Evropy s Ruskem, s velkou pravděpodobností zahájený atentátem na významnou osobu nebo útokem pod falešnou vlajkou.
+
+> „Moderátoři o tom mluví naprosto otevřeně ve Spojených státech, že v Evropu čeká válka s Ruskem, že nás čeká říjnové překvapení." — Ladislav Vrabel
+
+**Horizont:** říjen 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+
+---
+
 ### Pavel Zítko — „vítězné mocnosti" rozhodnou o obnově Československa (24. 9. 2026)
 
 **Předpověď:** Trump, Putin, bin Salmán a Módí jako „vítězné mocnosti" rozhodnou o budoucí podobě právního státu a o obnově Československa.

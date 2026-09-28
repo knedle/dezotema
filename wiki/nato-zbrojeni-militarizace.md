@@ -931,3 +931,11 @@ Dánská armáda má od ledna 2027 začít školit přibližně 2000 civilních 
 Americký ministr letectva poprvé veřejně potvrdil, že USA mají na oběžné dráze umístěné zbraně určené ke „kontrole vesmíru" — nespecifikoval typ ani dobu jejich rozmístění, jen že jsou schopné bránit americké síly před nepřátelskými akcemi. Mluvčí amerických vesmírných sil následně v televizi ABC News potvrdil, že tyto systémy mohou být využity k obranným i ofenzivním účelům. Média to vnímají především jako varování Číně a Rusku; mluvčí ruského ministerstva zahraničí Maria Zacharovová uvedla, že americké přiznání ignoruje důsledky vesmírného konfliktu (rizika pro GPS, vojenskou komunikaci a civilní služby). Vrabel referuje beze vlastního rozsáhlého komentáře, v kontextu rostoucí militarizace vesmíru.
 
 **Zdroje:** [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
+
+---
+
+### Rutte: 5 000 vzletů z evropských základen pro útok na Írán — „na nástěnku válečných zločinců" (Vrabel, 24. 9. 2026)
+
+K Rutteho výroku, že z evropských základen proběhlo 5 000 vzletů pro americkou operaci „Epic Fury" proti Íránu, Vrabel poukazuje, že se „obranná aliance" chlubí útokem na suverénní stát; takoví lidé by podle něj „měli viset na nástěnce válečných zločinců" a být odsouzeni. Článek 5 je podle něj záměrně nejasný, aby se dal „zneužít jakkoli"; opakuje přirovnání Rutteho projevů k Hitlerovi.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)

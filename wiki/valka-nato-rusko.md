@@ -1310,7 +1310,9 @@ Slovenský premiér Robert Fico ve videoprohlášení (nezúčastnil se kvůli t
 
 ⚡ **Poznámka:** Interpretace dronového útoku na Moskvu jako důkazu přímé západní účasti na válce je Vrabelova vlastní spekulace.
 
-**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+**24. 9.** — K evakuaci polských hraničních přechodů a dalším letům Gripenů Vrabel zdůrazňuje, že české stíhačky „lítají na rozkaz aliančního vedení NATO, ne na rozkaz české armády" — Babišův slib, že ČR nebude posílat vojáky, proto nemá cenu, protože je může poslat NATO.
+
+**Zdroje:** [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ---
 
@@ -1387,3 +1389,21 @@ K Trumpovu setkání se Zelenským (Trump chce znovu jednat s Putinem, varuje, �
 > „Kdyby Spojené státy dneska řekly evropským politikům, musíte ten konflikt do zítřka ukončit, jinak vám vypneme Swift, vypneme vám internet a nebudeme vám dodávat ropu, tak je vymalováno." — Ladislav Vrabel
 
 **Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+
+---
+
+### Společnost je „navykána" na ruské útoky, aby se útok pod falešnou vlajkou nevyšetřoval; ruští velitelé smějí odvetit bez Moskvy; „říjnové překvapení" (Vrabel, 24.–25. 9. 2026)
+
+Vrabel tvrdí, že se „připravuje nějaká operace": každodenní zprávy o ruských útocích (např. varování CIA před ruskými drony v jižní Evropě podle El Mundo, které zesměšňuje) mají lidi navyknout, aby po skutečném útoku — „pravděpodobně pod falešnou vlajkou" — nikdo nežádal vyšetřování. Cituje spekulace o ruské jaderné raketě údajně viděné v Izraeli či Turecku, která by mohla posloužit k útoku na evropskou zemi, i výrok ukrajinského moderátora Dmitra Gordona, že „za týden, nejpozději za dva" se stane něco, co „dá Ukrajincům nová křídla" (sám to označuje za spekulace, ale „nemá dobrý pocit"). Američtí moderátoři podle něj otevřeně mluví o „říjnovém překvapení" — válce Evropy s Ruskem. Podle „vojenského experta" mohou ruští velitelé při útoku z území evropské země (např. Polska na Kaliningrad) okamžitě udeřit zpět bez souhlasu Moskvy, takže spustit konflikt je „velmi jednoduché" (opakuje 25. 9.). Válku podle něj zahájí „s velkou pravděpodobností atentát na nějakou významnou osobu".
+
+> „Lidi prostě pomalu dostávají každý den do hlavy, že Rusové na nás útočí, aby potom, až přijde ten útok nějaký, pravděpodobně pod falešnou vlajkou, tak aby už nikoho nepřekvapilo, že se to nebude vyšetřovat." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+
+---
+
+### Vučić v OSN: mezinárodní právo neexistuje, platí právo silnějšího; bombardování Jugoslávie 1999 (Vrabel, 24. 9. 2026)
+
+Vučićův projev v OSN Vrabel chválí jako „vynikající" a potvrzující to, co „říká roky": OSN ani Rada bezpečnosti nefungují, platí právo silnějšího a žijeme ve „světě barbarském, světě strachu a banditismu"; všichni se bojí Trumpa a „lezou mu do pozadí" — Macinka „až po pás". Nespravedlnost podle něj povede k válce po celém světě. Bombardování Jugoslávie 1999 bylo „absolutním aktem agrese" bez mandátu OSN, Jugoslávie byla rozbita jako lídr Hnutí nezúčastněných a Kosovo „ukradeno" kvůli dolům — stejně jako dnes Donbas; Rusům na Donbasu a Krymu se podle něj upírá právo na sebeurčení, které se Kosovu přiznalo.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)

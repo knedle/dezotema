@@ -517,7 +517,9 @@ Jiří Černohorský interpretuje demonstraci Milionu chvilek na Letné 2026 nik
 
 ⚡ **Konflikt:** Pavel Zítko (ČsTV2) tvrdí, že propuštěný muž nebyl skutečný Čermák, ale dvojník, a udání odmítá — viz [kauzy.md](kauzy.md#propuštění-údajného-tomáše-čermáka-jako-sehraný-justiční-podvod-s-dvojníkem-zítko-2427-9-2026).
 
-**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+**24. 9. (Vrabel)** — Vrabel označuje rozsudek (5,5 roku za podporu terorismu) za „naprosto špatný", protože k žádnému teroristickému činu nedošlo — na rozdíl od islamistů v Evropě, které soudy posílají na psychiatrii. Čermák je pro něj i po propuštění „politický vězeň", protože má čtyřletou podmínku a doznání u soudu bylo jen podmínkou propuštění; za politické vězně považuje i Slávka Popelku a lidi stíhané za odznak „Z" a sebe samého za „odsouzeného z politických důvodů", kterého „likvidují jiným způsobem".
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ---
 
@@ -638,6 +640,16 @@ V nedělním vysílání ke svým 50. narozeninám Rajchl rekapituluje svou poli
 Rajchl popisuje vznik velké demonstrace na Václavském náměstí 3. 9. 2022: PRO se Zwyrtek Hamplovou plánovali vlastní akci na 11. září, ale na nabídku Jiřího Havla (spolupracujícího s Chcípl PES) spojili síly s Ladislavem Vrabelem — přišlo podle něj kolem 100 tisíc lidí, snad největší demonstrace národně-konzervativního křídla od roku 1989, o níž média „mlčela" a později „lhala". Jednotu podle Rajchla rozbil hlavně Vrabel, který se „vpasoval do role" toho, kdo lidi na Václavák dostal — ve skutečnosti prý přišli za Mirkem Ševčíkem, Vladimírem Štěpánem, Tomášem Lukavcem, Zwyrtek Hamplovou „a snad i za mnou". Po rozchodu Vrabela s Havlem se skupina rozpadla a „osobní ambice vyhrály", čímž se promarnila šance vybudovat na této platformě silný subjekt proti Fialově vládě. Odmítá Vrabelovo tvrzení, že mu „ukradl demonstrace": vlastní demonstraci podle něj odmítal pořádat, dokud Vrabel neskončí — ohlásil ji až na březen 2023, poté co Vrabel na lednové demonstraci s minimální účastí sám oznámil, že velké demonstrace už dělat nebude.
 
 **Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
+### „Politika herců" — Sikorski, Zelenskyj i Babiš jako herci; Babišovo veto by válku ukončilo (Vrabel, 24. 9. 2026)
+
+Vrabel tvrdí, že upřímní politici nemají šanci — uspějí herci, „dneska i pornoherci" (narážka na Zelenského); hercem je podle něj Sikorski, Babiš, který „neustále přehrává", i Macinka — „ti herci nás stáhnou do války". Kdyby Babiš v prosinci „nezvedl ruku" pro 90 miliard eur na Ukrajinu, „ta válka by skončila" — stačilo by veto jediného premiéra, všichni tak nesou „kolektivní vinu". Politici jsou podle něj „loutky, dostávají příkazy" shora: slibují mír (Trump za 24 hodin, Babiš zrušení muniční iniciativy), ale dělají válku.
+
+> „Kdyby Andrej Babiš nezvednul ruku v Evropské unii v prosinci pro 90 miliard peněz na Ukrajinu, tak by ta válka skončila." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ---
 
