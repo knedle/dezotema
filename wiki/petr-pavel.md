@@ -587,7 +587,9 @@ Rajchl viní Petra Pavla, že jako „vrchní rozvědčík a generál" ve sporu 
 
 **26.–27. 9. (Vrabel)** — K Pavlovu výroku pro Fox News, že přijde čas sestřelit ruské letadlo či dron, Vrabel (sám pilot) namítá, že ruský vrtulník narušil hranici o 300 m na 40 sekund, což „není zas tak moc", a sestřel by spustil ruské rakety na stíhačky: „za hodinu krizový štáb, za dvě hodiny zavřené hranice, stav ohrožení a vojáci v ulicích". Pavel podle něj mluví za NATO, ne za ČR; Macinka a Babiš se s Hradem sladili v zahraniční politice a „přenechávají otěže generálu NATO". Stačí podle něj „jeden blbec s plnovousem, trénovanej nejdřív pro Moskvu, potom pro New York nebo pro Washington, kterej poslouchá rozkazy".
 
-**Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+**27. 9. (Vrabel)** — K Pavlovu projevu v OSN, že Krym je ukrajinský, Vrabel namítá, že „Krym je samozřejmě ruský" a ČR se tím zavazuje podporovat Ukrajinu až do porážky Ruska.
+
+**Zdroje:** [Rajchl — Videoportál: Pavel vs. Fico, 24. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 

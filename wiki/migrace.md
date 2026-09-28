@@ -772,7 +772,9 @@ K projevu britského labouristy Andyho Burnhama („migrace ano, ale kontrolovan
 
 > „To, co dělá dneska Evropa, páchá sebevraždu, absolutně sociálně, demograficky páchá sebevraždu a vůbec nezáleží na tom, jestli to je legální migrace nebo nelegální migrace." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+**27. 9.** — Na dotaz o bezpečnosti v Egyptě Vrabel radí vyhnout se „všem nacistickým a islámským státům" (Francie, Británie, Norsko, Švédsko, Egypt) — „v islámské zemi to nikdy není bezpečné"; používá rasovou nálepku „čmoudi" a výslovně se za ni neomlouvá.
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 

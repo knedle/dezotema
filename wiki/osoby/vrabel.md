@@ -449,6 +449,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Robert Malone: WEF (Schwab, Kissinger) jako projekt CIA; obhajoba Malonea jako umlčeného „otce mRNA" — [Zprávy v devět 18. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-7-2026)
 - „Chazarští bankéři"/Fed jako skuteční vládci nad politiky a válkami — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **25. 9.** — 1 % vlastní 93 % světa, covid jako přesun majetku; Trump „nepracuje pro USA" — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+- **27. 9.** — jídlo jako otrava (červi, fluor, GMO), ovlivňování počasí; „Trump nepracuje pro USA", BlackRock a sionismus — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ### [Migrace](../migrace.md)
 - Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -1166,6 +1167,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **24. 9.** — Čermák zůstává politickým vězněm; „politika herců" (Babiš „pornoherec"), Babišovo veto by válku ukončilo — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 - **25. 9.** — „vyhráli jsme brand, ne program"; Babiš „cizinec", zakázal referendum; „před francouzskou revolucí"; válka vyžaduje umlčet odpůrce — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - **26. 9.** — Rajchl „řekl, že demonstrace nemají smysl"; Hrušková a Štěpán jako „snílci"; berlínští policisté „zločinci" — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+- **27. 9.** — implicitní odpověď Rajchlovi — „podvodník", který zahodil rok 2022, „klasický psychopat s kulatými narozeninami" — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1202,6 +1204,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **24. 9.** — Rutte a 5 000 vzletů proti Íránu — „na nástěnku válečných zločinců" — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 - **25. 9.** — IZS Karlovy Vary jako příprava na válku; Macinkova povinná vojna, Češi „zlí a nepřející" — [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 - **26. 9.** — směrnice NATO Resilience = příprava na hromadné oběti; nafta podle priorit, „energetické lockdowny" — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+- **27. 9.** — muniční iniciativa = „zrada národa"; „ani koruna na Ukrajinu" jako podvod, víc než za Fialy — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1213,6 +1216,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **16. 9.** — Finsko-francouzská řídicí skupina pro jaderné otázky; rozvádí argument proti jadernému odstrašení (scénář 1000+ letadel) — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
 - **22. 9.** — jaderné zbraně v Litvě/ČR = akt agrese; francouzský deštník → Orešniky na ČR — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 - **25. 9.** — Pavel „psychopat, který chce všude rozdávat jaderné zbraně"; ochuzený uran v Srbsku — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+- **27. 9.** — Mrtvá ruka a povolení velitelům k odvetě; francouzský deštník přivezou až v nejhorší chvíli — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1261,6 +1265,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **23. 9.** — USA by válku ukončily vypnutím Swiftu/internetu/ropy Evropě — [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
 - **24. 9.** — „navykání" na ruské útoky před falešnou vlajkou, ruská odveta bez Moskvy, „říjnové překvapení"; Vučić — právo silnějšího — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 - **26. 9.** — „až se obr ožene" — Západ ČR obětuje; Rusko se bude muset pustit do konfliktu; ⚡ válka by byla dlouhá; posun postoje k Číně — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+- **27. 9.** — ČR „nepřiznaný protivník", konflikt nevyhnutelný, scénář „za dvě hodiny čl. 5"; diverzifikace = příprava zničení ruské ropné infrastruktury — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 
@@ -1737,6 +1742,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Jindřich Rajchl | ❌ negativní | „Řekl, že demonstrace nemají smysl" | 2026-09-26 | [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026) |
 | Jana Hrušková, Vladimír Štěpán | ❌ negativní | „Snílci" — Štěpánovy smlouvy s Ruskem „pohádky pro děti" | 2026-09-26 | [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026) |
 | Papež Lev XIV. / katolická církev | ❌ negativní | Celibát a pedofilie, Vatikán a nacisté, „falešná církev" | 2026-09-26 | [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026) |
+| Jindřich Rajchl (implicitně) | ❌ negativní | „Podvodník", který zahodil hnutí 2022; „klasický psychopat" s kulatými narozeninami | 2026-09-27 | [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026) |
+| Aleksandar Vučić | ✅ pozitivní | „Jediný normální politik v Evropě", doufá v jeho vítězství | 2026-09-27 | [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026) |
+| Petr Macinka | ❌ negativní | „Lump", „celý život nosil tašku Klausovi", „svazácky" poslal 140 mil. do PURL | 2026-09-27 | [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026) |
 
 ---
 
@@ -1885,3 +1893,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 - [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+- [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)

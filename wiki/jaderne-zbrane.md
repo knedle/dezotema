@@ -82,7 +82,7 @@ Vrabel tvrdí, že česká veřejnost nerozumí skutečnému účelu nákupu F-3
 
 Cenové srovnání: ČR platí 6,25 mld. EUR za 24 letadel (dodání 2031) vs. Jižní Korea/Švýcarsko 5,5 mld. EUR (dodání 2027–28). Mediální debata je dle Vrabela záměrně stočena k otázce „proč dostaneme letadla pozdě" namísto „proč je vůbec kupujeme" — přestože Babiš před volbami slíbil nákup zrušit.
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 23. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-5-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 
@@ -164,7 +164,9 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 **25. 9. (TV Bureš)** — Cílem shromáždění 3. 10. je podle Vrabela zabránit jakékoli dohodě o jaderných zbraních na území ČR (s Francií, Británií, USA „nebo s kýmkoliv"); francouzský „deštník" přirovnává ke Kolářovu „radaru v Brdech", který byl ve skutečnosti raketovou základnou. Petra Pavla, který o jaderných zbraních mluvil už v roce 2014 jako generál NATO, označuje za „psychopata, který všude chce rozdávat jaderné zbraně". Připomíná, že Američané při bombardování Jugoslávie použili munici s ochuzeným uranem, což podle něj v 90. letech způsobilo v Srbsku „epidemii rakoviny" — výbuch hlavice ASMP by byl „statisíce násobky" horší a zásah skladu by zamořil „celou Českou republiku".
 
-**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+**27. 9.** — Francouzský „jaderný deštník" podle Vrabela neexistuje — jde o útočné zbraně (Rafale s ASMP), které Francie přiveze teprve ve chvíli nejvyššího nebezpečí a o jejichž použití bude rozhodovat sama; odstrašení je nesmysl, protože Francie a Británie mají stovky hlavic, Rusko 5–6 tisíc („jako kdyby přišel k Miku Tysonovi a řekl mu: hele, nechci se s tebou prát, ale mám tady boxerky"). Podle ukrajinského média Rusko modernizuje bunkr na Uralu se systémem „Mrtvá ruka", který odpálí zbraně, i kdyby byli všichni mrtví, a ruští velitelé na frontě prý už mají povolení bez souhlasu politického vedení odvetit na Evropu, přijde-li útok z evropského území — „ten rozkaz už padl"; proti Kinžálu, Orešniku a Sarmatu („od Berlína až do Prahy") prý neexistuje obrana. Shromáždění 3. 10. má vytvořit tlak, aby vláda smlouvu s Francií nepodepsala — „při milionu lidí si to netroufnou podepsat".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 **28. 7.** — Vrabel opakuje tutéž tezi (Rafale/ASMP jako útočná, ne obranná zbraň) v souvislosti s úvahami o umístění francouzského „jaderného zastřešení" na území ČR — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 

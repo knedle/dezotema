@@ -961,3 +961,13 @@ Ze směrnice NATO „2026 Resilience Baseline Requirements" (15. 9.) Vrabel vyb�
 > „My budeme žít o kůrce a o vodě, ale tanky jezdit budou." — Ladislav Vrabel
 
 **Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+
+---
+
+### Muniční iniciativa jako „zrada národa" a „ani koruna na Ukrajinu" jako podvod — „posílá se víc než za Fialy" (Vrabel, 27. 9. 2026)
+
+Vrabel tvrdí, že Babiš porušením slibu zrušit muniční iniciativu (po summitu NATO v Bruselu) „zradil český národ": ČR hraje „užitečného idiota", za kterého se schovávají velké země — přes ČR jde podle něj přes polovinu veškeré munice — a Rusko si ji tak může vybrat jako terč „výstražné rány". Heslo „ani koruna na Ukrajinu" je podle něj podvod: Macinka „svazácky" poslal 140 milionů do PURL a Babiš pět dní po jmenování zvedl ruku pro půjčku 90 mld. eur (z toho 60 mld. na zbraně) — ČR za dluhopisy EU „nebude ručit, ale bude to platit" přes rozpočet EU; dluhopisy prý ani nebyly vydány, protože EU nikdo nechce půjčit, a půjčka nevydrží dva roky, „možná rok". Na Ukrajinu se podle něj nyní posílá víc než za Fialy.
+
+> „Česká republika za to nebude ručit, ale bude to platit." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)

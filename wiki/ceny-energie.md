@@ -150,7 +150,9 @@ K Ficově žádosti o mimořádný summit EU kvůli cenám nafty (téměř 3 EUR
 
 > „Jediný, co má smysl, je nakupovat z Ruska ropu a plyn za dobrý ceny v dobrý kvalitě. Všechno ostatní je Donald Duck." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+**27. 9.** — Proč se nekupuje ruská ropa a plyn: podle Vrabela kvůli korupci — i za studené války se plyn vozil, dnes se nakupuje přes prostředníky (USA), „aby si na tom nakradli", a „nakonec to vede k válce, ta korupce". „Lumpové" Macinka a Babiš pomáhají USA udržet moc kvůli penězům; Macinka „celý život nosil tašku Klausovi", jehož syn „hlídá ČEZ".
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 

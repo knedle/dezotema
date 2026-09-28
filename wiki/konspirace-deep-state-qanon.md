@@ -235,7 +235,9 @@ K 25. výročí útoků z 11. září 2001 Zítko věnuje celé vysílání roz�
 
 Vrabel si „není úplně jistý, že Donald Trump pracuje pro Spojené státy" — spíš podle něj spolupracuje na rozpadu systému „Pax Americana": uzavřel Hormuz a Bab al-Mandab a s nimi ropu, plyn, hnojiva a amoniak, čímž rozbíjí ekonomiku „just in time" (v Češnovicích u Budějovic prý neprodávají naftu, ve Francii je zavřená „asi každá devátá benzinka"). Trump je pro něj horší než Biden: „zabil malý holčičky v Íránu", „vyvraždil celou vládu" a „normalizoval vraždění". Současnou vládu Babiše označuje za „vládu podvodníků a herců", horší než Fialovu, která byla „krutá, ale rovná".
 
-**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+**27. 9.** — Vrabel tezi opakuje („podle mě Donald Trump nepracuje pro Spojené státy") a rozšiřuje: USA jsou „kopající umírající kobyla", válka na Ukrajině je boj USA s Rusem jako nástupcem multipolárního světa a Anglosasové vedou „válku proti Slovanům" jako za druhé světové. K výroku Zelenského o Ukrajině jako „velkém Izraeli" připomíná, že obnovu Ukrajiny má na starosti BlackRock — „globalismus a sionismus jde ruku v ruce".
+
+**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 

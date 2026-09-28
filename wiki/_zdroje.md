@@ -5058,3 +5058,11 @@
 - **Datum záznamu:** 2026-09-26
 - **Zpracováno:** ano
 - **Poznámka:** Sdílený klip Petrose Michopoulose [01:08:35–01:09:12] a klip Pavla pro Fox News.
+
+## Ladislav Vrabel — Nedělní vysílání 27. 9. 2026 {#ladislav-vrabel--nedělní-vysílání-27-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-27_Ladislav-Vrabel_27-9-2026-Pravidelné-nedělní-živé-vysílání-v-21h.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1029469906813939>
+- **Datum záznamu:** 2026-09-27
+- **Zpracováno:** ano
+- **Poznámka:** Nedělní vysílání, odpovědi na dotazy diváků (Zuzka moderuje). Klipy: Pavel na Fox News, Babiš o Macronově iniciativě.

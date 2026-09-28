@@ -289,7 +289,9 @@ Ve vysílání 24. 5. Vrabel dodává nový detail z Vučičovy návštěvy v Č
 
 Vrabel syntetizuje svůj dlouhodobý obdiv k Srbsku (viz výše) do konkrétního zahraničněpolitického programu pro ČR. Model: vojenská neutralita (Srbsko i uprostřed NATO odmítá vojenské závazky) kombinovaná s obchodem se všemi velkými bloky najednou — EU (největší srbský export), Čínou (bezcelní obchod s tisíci výrobky, výstavba dálnic/železnic, jediná evropská výroba humanoidních robotů), Ruskem (přímá dohoda s Putinem o ceně plynu pod tržní úrovní) i USA. Srbsko podle něj dokazuje, že malá země (7 mil. obyvatel) nemusí volit stranu — může být součástí čínské iniciativy Belt and Road a zároveň obchodovat se Západem. Pro ČR (11 mil. obyvatel) navrhuje stejný recept: neúčastnit se případné války s Ruskem na svém území („chcete válčit s Ruskem? Ne přes Českou republiku"), udržet obchodní vztahy s Ruskem i Německem současně, a do bezpečnostně-vojenské roviny BRICSu (na niž se BRICS podle Vrabela posouvá, viz [BRICS se mění na bezpečnostní pakt, 4. 7.](#brics-se-mění-z-obchodního-uskupení-na-bezpečnostní-pakt-kvůli-útoku-usa-na-írán-vrabel-4-7-2026)) se nezapojovat, dokud to nebude nutné — pouze v ekonomické/obchodní rovině. Připouští, že takovou politiku by v ČR dnes neprosadil žádný politik.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+**27. 9.** — Vojenská neutralita je podle Vrabela „jediná záruka bezpečí"; Vučić je „jediný normální politik v Evropě" a Fico prý řekl, že by Slovensku „svědčila neutralita". Pro případ války doporučuje jako jediné bezpečné místo Srbsko (neutrální, potravinově soběstačné, s levným plynem a jako jediné v Evropě kromě Ruska s hypersonickými zbraněmi).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 
@@ -1433,3 +1435,13 @@ K českému stíhacímu dronu Lovec Vrabel používá metaforu Ruska jako „obr
 K projevu Si Ťin-pchinga v OSN proti postupu USA vůči Íránu a Kubě Vrabel označuje USA za nejsilnějšího „lumpa", který šikanuje, vykořisťuje a napadá, zatímco Čína se jako aspirující velmoc zastává mezinárodního práva a malých zemí. Výslovně přiznává posun vlastního postoje: ještě před pěti lety neměl k Číně dobrý vztah (Tibet, Ujguři), nyní je její politikou posledních let „velmi příjemně překvapený".
 
 **Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+
+---
+
+### ČR jako „nepřiznaný protivník" Ruska — konflikt je nevyhnutelný; scénář „za dvě hodiny článek 5"; „diverzifikace" jako příprava na zničení ruské ropné infrastruktury (Vrabel, 27. 9. 2026)
+
+Vrabel tvrdí, že ČR je „nepřiznaný protivník" Ruska — posílá dobrovolníky, drony, letadla L-39, granáty a peníze. Rusko podle něj nemůže útočit na infrastrukturu NATO, zatímco Západ ničí tu ruskou; pokud to Rusko nezmění, prohraje vyčerpáním, a proto je přímý konflikt „nevyhnutelný" a může začít „každým dnem" — stačí sporné narušení vzdušného prostoru a sestřel: „během hodiny se sejdou bezpečnostní štáby [...] a během další hodiny vyhlásí stav ohrožení země a uplatnění článku 5" a zavřou se hranice. Odstřižení od ruské ropy a plynu („diverzifikace") dávalo podle něj smysl jen tehdy, když Západ plánoval zničit ruskou ropnou infrastrukturu, což prý posledních několik měsíců dělá — „to nám neřekli dopředu". Za dalšího na řadě považuje Polsko (s odkazem na „Kalergiho" plán) a ČR bude podle něj „islamizovaná úplně stejně" jako ostatní západní země, protože Babiš proti migračnímu paktu neudělal žádný legislativní krok. Posluchačům, kteří se ptají, kam utéct, říká, že jsou „už půl roku pozdě"; jediné bezpečné místo je Srbsko.
+
+> „My jsme jejich protivník. Nepřiznaný, ale protivník." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)

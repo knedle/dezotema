@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — konflikt NATO–Rusko je nevyhnutelný, může začít „každým dnem" (27. 9. 2026)
+
+**Předpověď:** Přímý konflikt NATO s Ruskem je nevyhnutelný a může začít „každým dnem" — sporným narušením vzdušného prostoru a sestřelem, po němž do dvou hodin přijde stav ohrožení, článek 5 a zavřené hranice.
+
+> „Podle mojho názoru je ten konflikt nevyhnutelný." — Ladislav Vrabel
+
+**Horizont:** neurčeno („každým dnem")
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+
+---
+
+### Ladislav Vrabel — Vučić vyhraje volby na premiéra Srbska (27. 9. 2026)
+
+**Předpověď:** Vučić rezignuje na funkci prezidenta, aby mohl kandidovat na premiéra, a volby (zhruba za měsíc) vyhraje.
+
+> „Bude kandidovat [na] premiéra Srbska. Předpokládám, že vyhraje." — Ladislav Vrabel
+
+**Horizont:** srbské volby (cca 10–11/2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+
+---
+
 ### Pavel Zítko — od 1. října „se začne hýbat se světem", konec „staré globalistické party" (27. 9. 2026)
 
 **Předpověď:** V rámci „velkého globálního odhalení" se od 1. 10. 2026 „doslova začne hýbat se světem" a to, co tu bylo v rámci „staré globalistické party", skončí.

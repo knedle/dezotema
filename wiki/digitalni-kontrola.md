@@ -49,7 +49,9 @@ Vrabel tvrdí, že digitální euro a CBDC jsou součástí záměrného projekt
 
 > „V okamžiku, kdy bude digitální měna, tak ta bude jenom někde na internetu. Dokud je nemáme ve fyzický podobě, jako papírky, tak je to chiméra." — Ladislav Vrabel, [Facebook Live 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
 
-**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+**27. 9.** — Digitální euro bylo podle Vrabela spuštěno „mezi firmami"; až nebude hotovost, „nebudeme mít žádný peníze" — jen naprogramovaný účet, se kterým může kdokoliv „cokoliv udělat".
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 

@@ -303,7 +303,9 @@ Vrabel výslovně propojuje islámskou migraci s globalistickým plánem: muslim
 
 Vrabel tvrdí, že chemtrails (kondenzační stopy letadel) jsou záměrné sypání těžkých kovů do atmosféry. Větrné elektrárny pak označuje za druhý zdroj kontaminace: každý větrník prý produkuje přibližně 60 kg nanočástic, které se dostanou do půdy a ovzduší. Větrníky navíc způsobují vibrace a degradaci zemědělské půdy pod nimi. Vrabel to zasazuje do kritiky Green Dealu: ze záminky ochrany přírody dochází ke skutečnému poškozování přírody.
 
-**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026)
+**27. 9.** — „Blázen je ten, kdo o tom nechce mluvit"; nad Srbskem chemtrails prý skoro nevidí, od maďarské hranice je „celá Evropa posypaná".
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 
@@ -581,6 +583,14 @@ S odkazem na rozhovor Tomáše Lukavce s americkým lobbistou o Ursule von der L
 
 ---
 
+### Jídlo jako otrava a ovlivňování počasí — „rozemletí červi", fluor, GMO rajčata; déšť po zničení amerických radarů v Íránu (Vrabel, 27. 9. 2026)
+
+Vrabel tvrdí, že lidem připadá normální, že „nám sypou červy rozemletý do jídla", fluor do zubní pasty a vody a geneticky upravená rajčata, která „po dešti byla jak nová"; pečivo v ČR má prý „divnou chuť" a v Nizozemsku umírají krávy na léky proti plynatosti, zatímco se farmy vykupují (v Srbsku je podle něj GMO zakázané). K ovlivňování počasí uvádí, že v Íránu „vyhodili do povětří americké radary a najednou jim začalo pršet" — „když nějaká země nesouhlasí, tak je tam zemětřesení nebo sucho".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+
+---
+
 ### Světu vládne Satan — společný kult za všemi náboženstvími a vládami; angličtina jako „čarodějnický jazyk" (Boldy, 7. 7. 2026)
 
 Boldy tvrdí, že světu nevládne Bůh, ale Satan — argumentuje tím, že napříč různými náboženstvími se všechny politické strany a vlády světa scházejí u jednoho společného kultu, který spojuje se jmény „Saturn", „Satan" a „Black Cube". Tuto tezi propojuje s tvrzením, že angličtina je „čarodějnický jazyk" — jeho celosvětová dominance má podle něj souviset právě s touto vládou Saturna/Satana.
@@ -744,7 +754,7 @@ Vrabel tvrdí, že druhá světová válka nebyla především válkou proti Ži
 
 **15. 9.** — Vrabel rozvádí tutéž tezi novým historicko-ekonomickým argumentem: SSSR podle něj udělal po válce zásadní chybu, když nechal část poražených nacistů soudit Západem (který je z velké části „omilostnil a schoval" do Švýcarska, Jižní Ameriky a Kanady, zatímco SSSR soudil desetkrát až třicetkrát více viníků) a hlavně když dodával poválečnému Německu levný zemní plyn — čímž ho (dle citovaných výroků Ursuly von der Leyen a Angely Merkelové) fakticky ekonomicky vybudoval, aniž by na tom sám zbohatl (odkazuje na chudobu SSSR v 90. letech). Německo takto zbohatlé pak znovu vyzbrojuje armádu a míří „zase na Rusko". Podcenění SSSR spatřuje ve dvou rovinách: SSSR přecenil evropské občany (že se postaví politice směřující k válce) a podcenil „chazarskou chátru", která dle něj dlouhodobě pracuje na tom, aby po vzestupu Německa mohla „znovu jít na Rusko" — týž mechanismus podle Vrabela hrozí zopakovat, pokud dnešní Rusko uvěří americkým mírovým slibům.
 
-**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026), [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026), [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
+**Zdroje:** [Vrabel — Facebook Live 25. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-25-8-2026), [Vrabel — Facebook Live 29. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-29-8-2026), [Vrabel — Facebook Live 31. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026), [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---
 
