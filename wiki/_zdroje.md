@@ -5257,3 +5257,11 @@
 - **Datum záznamu:** 2026-10-03
 - **Zpracováno:** ano
 - **Poznámka:** Záznam z místa zatčení po shromáždění 3. 10.
+
+## Ladislav Vrabel — Facebook Live: před policejní stanicí (3. 10. 2026) {#ladislav-vrabel--facebook-live-před-policejní-stanicí-3-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-03_Ladislav-Vrabel_Facebook-Live_1.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1855202725666343>
+- **Datum záznamu:** 2026-10-03
+- **Zpracováno:** ano
+- **Poznámka:** Přenos zpřed policejního oddělení Malá Strana během výslechu K. Blahníkové; část přepisu nesrozumitelná.
