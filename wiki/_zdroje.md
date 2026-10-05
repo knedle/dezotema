@@ -5249,3 +5249,11 @@
 - **Datum záznamu:** 2026-09-30
 - **Zpracováno:** ano
 - **Poznámka:** Rozhovor s Tomášem Hrdličkou natočený za jízdy do ČR.
+
+## Ladislav Vrabel — Reels: zatčení Katky Blahníkové (3. 10. 2026) {#ladislav-vrabel--reels-zatčení-blahníkové-3-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-03_Ladislav-Vrabel_269K-views-22K-reactions-Ladislav-Vrabel-on-Reels.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://m.facebook.com/watch/?v=2122329791729226&_rdr>
+- **Datum záznamu:** 2026-10-03
+- **Zpracováno:** ano
+- **Poznámka:** Záznam z místa zatčení po shromáždění 3. 10.

@@ -1748,6 +1748,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Petr Macinka | ❌ negativní | „Lump", „celý život nosil tašku Klausovi", „svazácky" poslal 140 mil. do PURL | 2026-09-27 | [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026) |
 | Tomáš Hrdlička | ✅ pozitivní | Odsouzen za odznak „Z" — politicky perzekvovaný | 2026-09-30 | [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026) |
 | Petr Vacek | ❌ negativní | Trestní oznámení na účastníky s „Z" (2023), „poškození na úrovni humanity" | 2026-09-30 | [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026) |
+| Kateřina Blahníková | ✅ pozitivní | Spolubojovnice od roku 2020, zatčena za písmeno „Z" | 2026-10-03 | [Reels: zatčení Katky Blahníkové (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--reels-zatčení-blahníkové-3-10-2026) |
 
 ---
 
@@ -1898,3 +1899,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026)
+- [Reels: zatčení Katky Blahníkové (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--reels-zatčení-blahníkové-3-10-2026)
