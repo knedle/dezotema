@@ -792,7 +792,9 @@ K útoku nožem v klášteře v polském Jarosławi, který spáchal 31letý Ukr
 
 K zatčení muže, který propíchl prázdný člun migrantů (hrozí mu 10 let), Vrabel tvrdí, že britští protestující brání tomu, aby „původní obyvatelstvo bylo nahrazeno přistěhovalci", a policie pomáhá migrantům protesty rozbíjet. V Británii je podle něj už pozdě: migranti mají občanství a nelze je deportovat, „jediný, k čemu může dojít, je občanská válka, jinak se těch lidí nemůžou zbavit". ČR má podle něj ještě šanci „pomoct" asi 2 milionům Ukrajinců vrátit se domů („nebudu říkat se těch lidí zbavit, protože to by hnusně znělo") a vystoupit z EU a migračního paktu, dokud je otevřené „Overtonovo okno" — pak prý demonstranty čeká obušek a vězení jako v Katalánsku. Pilířem EU je podle něj „zlikvidovat národní stát".
 
-**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+**4. 10.** — Po návštěvě Prahy Vrabel tvrdí, že se Praha stává „česko-ukrajinským městem" (ze tří taxikářů byl „hrozný" jen Ukrajinec) a že se naplňuje jeho výrok o „České Ukrajině" z roku 2022: v ČR bude „dva miliony Ukrajinců, možná přijde pět", budou Čechům „dělat šéfy" a založí si politickou stranu, protože „Češi jsou submisivní". Na Ukrajině podle něj ubylo obyvatel z 51 na „možná 18 milionů" a plánuje se jejich náhrada migranty („prvních 900 000, plán asi na 8 milionů") — ptá se, co čeká „zbytek Slovanů v Evropě".
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 
 ---
 

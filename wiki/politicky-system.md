@@ -647,7 +647,9 @@ Rajchl popisuje vznik velké demonstrace na Václavském náměstí 3. 9. 2022: 
 
 **28. 9. (Černohorský)** — Černohorský ve sporu stojí proti Vrabelovi: Václavák v září 2022 (150–170 tisíc lidí) podle něj nenaplnil Vrabel s Jiřím Havlem sami, ale SPD (Foldyna), Rajchl, Konečná, odbory a další; třetí den prý Vrabel natočil video, že mu Havel „nechce poslat peníze". Vrabelovy útoky na Rajchla označuje za „bláboly", přestože Rajchla sám kritizuje.
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
+**4. 10. (Vrabel)** — Vrabel opakuje, že Rajchl a Vacek „v roce 2023" nalákali lidi na blokádu Úřadu vlády „dokud vláda neustoupí", pak „si zatančili, jede jede mašinka" a šli domů, a mezitím vyrobili strach, že za „Z" či nášivku Wagnerovců půjdou lidé k soudu. Nabídku Aleše Svobody k usmíření („co jsme si, to jsme si") odmítá — Svoboda podle něj „ublížil mně, našim lidem, našemu hnutí" a podrazil ho „velmi brutálním způsobem"; výzvy „musíme se všichni spojovat" považuje za pokrytectví. Na dotační kauzu ani na nálepku „kolaboranti" od Černohorského nereaguje.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 
 ---
 

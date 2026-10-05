@@ -1170,6 +1170,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **27. 9.** — implicitní odpověď Rajchlovi — „podvodník", který zahodil rok 2022, „klasický psychopat s kulatými narozeninami" — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - **30. 9.** — Hrdlička odsouzen za „Z" — precedent vytvořili Rajchl a Vacek, „Reichel je součást vládní moci" — [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026)
 - **3. 10.** — zatčení Blahníkové — „brutální stát pod vládou Babiše"; PRO „ukradla naše demonstrace" a začala „udávat" lidi za „Z" — [Facebook Live: před policejní stanicí (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-před-policejní-stanicí-3-10-2026)
+- **4. 10.** — po shromáždění 3. 10.: „režim má padnout", Babiš odpovídá za represe; odmítá smír s Alešem Svobodou; znovuzvolen předsedou hnutí; zvažuje odejít z české scény a vysílat anglicky — [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1251,6 +1252,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **22. 9.** — legální i nelegální migrace = „sebevražda Evropy", model rotačních víz, kritika Konečné — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 - **25. 9.** — Jarosław a „pravidlo satanismu"; Dover a rasistické glosy — [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 - **26. 9.** — Británie — „jediné řešení občanská válka"; ČR má šanci „pomoct" 2 mil. Ukrajinců vrátit se — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+- **4. 10.** — „Česká Ukrajina" — Praha česko-ukrajinské město, náhrada Ukrajinců migranty — [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1750,6 +1752,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Tomáš Hrdlička | ✅ pozitivní | Odsouzen za odznak „Z" — politicky perzekvovaný | 2026-09-30 | [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026) |
 | Petr Vacek | ❌ negativní | Trestní oznámení na účastníky s „Z" (2023), „poškození na úrovni humanity" | 2026-09-30 | [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026) |
 | Kateřina Blahníková | ✅ pozitivní | Spolubojovnice od roku 2020, zatčena za písmeno „Z" | 2026-10-03 | [Reels: zatčení Katky Blahníkové (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--reels-zatčení-blahníkové-3-10-2026) |
+| Aleš Svoboda | ❌ negativní | Nabídl smír, Vrabel odmítá — „podrazil mě" | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
+| Miloš Zeman | ❌ negativní | „Hajzl", měl by být souzen za výrok o agresivitě Rusů v genech | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
+| Andrej Babiš | ❌ negativní | Odpovídá za represe; fantazie o mučení „náčelníka" | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
+| Kateřina Blahníková | ✅ pozitivní | Zatčena za „Z" — „rodina hnutí" | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
 
 ---
 
@@ -1902,3 +1908,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026)
 - [Reels: zatčení Katky Blahníkové (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--reels-zatčení-blahníkové-3-10-2026)
 - [Facebook Live: před policejní stanicí (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-před-policejní-stanicí-3-10-2026)
+- [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)

@@ -614,3 +614,13 @@ Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulke
 K Lavrovovu výroku v OSN, že ruština je na Ukrajině zakázaná, a k tomu, že ČT24 dodává „bez důkazů", Vrabel připomíná, že sama ČT v letech 2014–2022 informovala o občanské válce na Ukrajině a porušování práv rusky mluvících (Minské dohody): „mohli být aspoň natolik schopni, aby se podívali do vlastních archivů, když už tady tvrdí, že nemají důkazy. To už je opravdu diagnóza."
 
 **Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+
+---
+
+### „Národ je mentálně poškozený" — 99 % Čechů „v lobotomii"; strach v publiku; Radiožurnál jako placená propaganda (Vrabel, 4. 10. 2026)
+
+Vrabel tvrdí, že na Čechy se neútočí fyzicky, ale mentálně: čtyři a půl roku válečné propagandy a zákazu ruských médií poškodilo „všechny, směrem k nacismu" — 99 % národa podle něj žije v „lobotomii" a chodí „jako zombie", zdraví zůstali jen jeho diváci, „určitě ne lidi z dalších politických stran, které schvalují udávání za písmeno Z"; ptá se, zda „nám sypou něco do mraků nebo do vody". Na demonstraci podle něj publikum nereagovalo na politicky nekorektní vtipy — „časová prodleva mezi tím, kdy se něco řekne, a reakcí, to je strach", a to i u jeho nejbližších přátel. Nedělní pořad zahraničních zpravodajů Radiožurnálu (festival „České sny" ve Lvově, zmrzlina, chili con carne) označuje za propagandu, za niž účinkující dostávají „sto, dvě stě tisíc" — „my si sami platíme propagandu" —, zatímco o demonstraci proti jaderným zbraním nepadlo ani slovo.
+
+> „Ten národ je mentálně poškozený. Všichni." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)

@@ -5265,3 +5265,11 @@
 - **Datum záznamu:** 2026-10-03
 - **Zpracováno:** ano
 - **Poznámka:** Přenos zpřed policejního oddělení Malá Strana během výslechu K. Blahníkové; část přepisu nesrozumitelná.
+
+## Ladislav Vrabel — Nedělní vysílání 4. 10. 2026 {#ladislav-vrabel--nedělní-vysílání-4-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-04_Ladislav-Vrabel_4-10-2026-Pravidelné-nedělní-živé-vysílání-ve-21h.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2342057439936340>
+- **Datum záznamu:** 2026-10-04
+- **Zpracováno:** ano
+- **Poznámka:** Vysíláno z benzínky u Budapešti cestou do Srbska. Výpadky [04:17–08:58] a [47:00–50:50]; [50:50–57:20] přehrávané video zatýkání K. Blahníkové.

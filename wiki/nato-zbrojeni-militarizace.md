@@ -970,4 +970,6 @@ Vrabel tvrdí, že Babiš porušením slibu zrušit muniční iniciativu (po sum
 
 > „Česká republika za to nebude ručit, ale bude to platit." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+**4. 10.** — Vrabel zrádu ilustruje podobenstvím o indiánském kmeni, jehož „náčelník ze Slovenska" (Babiš) podvedl lid kvůli byznysu s „americkými kmeny" a dohodl se s „náčelníkem z Francie" na jaderných zbraních — „spravedlivý kmen" by ho podle Vrabela přivázal ke kůlu a mučil (viz [Stochastický teror](stochasticky-teror.md)).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
