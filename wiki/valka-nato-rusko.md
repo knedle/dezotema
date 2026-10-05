@@ -1463,3 +1463,13 @@ Vrabel tvrdí, že ČR je „nepřiznaný protivník" Ruska — posílá dobrovo
 Černohorský znovu zveřejňuje svůj projev z doby po zadržení před ruskou ambasádou (26. 2. 2022), kdy mu podle něj hrozilo 6 měsíců až 3 roky za výrok, že válka „není jen válkou Putina" — rozpoutala ji podle něj v roce 2014 „fašistická ukrajinská vláda", která vzala pod křídla ministerstva obrany jednotky Azov. Fialovu vládu (Fiala, Rakušan, Lipavský, Černochová, Pekarová) označuje za zločince, kteří vyzbrojováním „nacistických jednotek" zatahují ČR do války, a ředitele ČT Petra Dvořáka za lháře; vyzývá policii, aby „tyhle parchanty pozavírala", a vládu „žaluje" za zatahování ČR do války.
 
 **Zdroje:** [Černohorský — Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
+
+---
+
+### „99% jistota, že Evropa jde do války" — teorie úderu 1000–1500 letadel; ČR doma „beránek", v zahraničí „rozdmýchávač války" (Vrabel, 30. 9. 2026)
+
+Vrabel tvrdí, že Evropa jde „s 99% jistotou" do války: narativ narušování vzdušného prostoru podle něj gradoval od „pravděpodobně narušuje" po „musíme se bránit", aniž by byl jediný ruský útok prokázán (bomba na letišti v Lipsku ani obvinění Estonska ze sabotáží podle něj „nedávají smysl" — „čistá válečná propaganda", aby společnost přijala válku). Opakuje teorii o úderu 1 000–1 500 letadel s jadernými zbraněmi na Rusko a tvrdí, že Babiš s Pavlem „pošlou dvě brigády", bude-li napadeno Pobaltí. ČR podle něj doma hraje „nevinňátka a beránky", ale v zahraničí vypadá jako „jeden z největších rozdmýchávačů války" (Koudelka, Pavel). Severní polokoule „jde do světové války", brzy se přidá i Japonsko s konflikty v jihovýchodní Asii; v lednu hrozí nedostatek plynu — radí pořídit si topení na dřevo. Trump dělá podle něj „nejhorší politiku na světě, co pamatuje"; odvolávat Babišovu vládu nemá smysl, „není koho jiného" — lidé „vezmou rozum do hrsti" až po válce.
+
+> „Ono to vypadá, že jdeme do války, prostě podle mě 99% jistota, že Evropa jde do války." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 30. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)

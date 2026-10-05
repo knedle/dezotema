@@ -649,7 +649,11 @@ Rajchl popisuje vznik velké demonstrace na Václavském náměstí 3. 9. 2022: 
 
 **4. 10. (Vrabel)** — Vrabel opakuje, že Rajchl a Vacek „v roce 2023" nalákali lidi na blokádu Úřadu vlády „dokud vláda neustoupí", pak „si zatančili, jede jede mašinka" a šli domů, a mezitím vyrobili strach, že za „Z" či nášivku Wagnerovců půjdou lidé k soudu. Nabídku Aleše Svobody k usmíření („co jsme si, to jsme si") odmítá — Svoboda podle něj „ublížil mně, našim lidem, našemu hnutí" a podrazil ho „velmi brutálním způsobem"; výzvy „musíme se všichni spojovat" považuje za pokrytectví. Na dotační kauzu ani na nálepku „kolaboranti" od Černohorského nereaguje.
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+**30. 9. (Vrabel)** — Vrabel poprvé Rajchla přímo jmenuje: šanci „vytáhnout ČR z války" podle něj zmařil v roce 2022 Jindřich Rajchl, „který ukradl tu naši velkou sílu Václaváku, aby ji postavil proti Rusku", a „vlastenci, kteří se poté, co o mně začali psát hloupé zprávy, otočili proti mně a celý to rozbili" — „to okno se zavřelo v roce 2022". Stranu PRO nazývá „soudruzi", kteří udávají lidi za symboly a jsou „vždy součástí vládní koalice". Kateřina Konečná podle něj prodala domy KSČM, aby zaplatila kampaň Dostálovi a Vidlákovi, a značku Stačilo! vytvořila, aby nebylo vidět, že kandiduje za komunisty.
+
+> „Bohužel můžete poděkovat Jindřichu Rajchlovi, který ukradl tu naši velkou sílu Václaváku, aby ji postavil proti Rusku." — Ladislav Vrabel
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Vrabel — Zprávy v devět 30. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 
 ---
 

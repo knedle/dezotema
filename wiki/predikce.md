@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — „99% jistota", že Evropa jde do války; v lednu nedostatek plynu (30. 9. 2026)
+
+**Předpověď:** Evropa s 99% jistotou vstoupí do války s Ruskem; v lednu 2027 bude v Evropě problém s plynem a ceny budou „katastrofické"; do konfliktů v Asii se brzy zapojí Japonsko.
+
+> „Ono to vypadá, že jdeme do války, prostě podle mě 99% jistota, že Evropa jde do války." — Ladislav Vrabel
+
+**Horizont:** válka neurčeno; plyn leden 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 30. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
+
+---
+
 ### Ladislav Vrabel — konflikt NATO–Rusko je nevyhnutelný, může začít „každým dnem" (27. 9. 2026)
 
 **Předpověď:** Přímý konflikt NATO s Ruskem je nevyhnutelný a může začít „každým dnem" — sporným narušením vzdušného prostoru a sestřelem, po němž do dvou hodin přijde stav ohrožení, článek 5 a zavřené hranice.

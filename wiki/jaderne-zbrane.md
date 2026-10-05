@@ -168,7 +168,9 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 **4. 10.** — Po shromáždění 3. 10. Vrabel uvádí, že výzvu proti jaderné dohodě podepsalo přes 300 lidí (další to kvůli zatýkání nestihli) a hnutí je „minimálně silnější" než Stačilo! a strany, které na Malostranském náměstí demonstrovaly před měsícem; řada lidí (i ze SPD) podle něj nepřišla ze strachu, že je před volbami uvidí „s Vrabelem". Chce brzy další demonstraci s „alespoň deseti tisíci lidí".
 
-**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+**30. 9.** — K britské nabídce jaderného deštníku Finsku a zemím JEF Vrabel říká, že „osobně nechci jít odstrašovat jadernou vzduchovkou Rusko, které má jadernou pistoli" — britský arzenál podle něj nelze s ruským srovnat a bez svolení USA ho Británie použít nesmí. Shromáždění 3. 10. je „na poslední chvíli": „jestli přijde 100 lidí, tak jaderné zbraně budou".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 12. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Vrabel — Zprávy v devět 30. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 
 **28. 7.** — Vrabel opakuje tutéž tezi (Rafale/ASMP jako útočná, ne obranná zbraň) v souvislosti s úvahami o umístění francouzského „jaderného zastřešení" na území ČR — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)
 

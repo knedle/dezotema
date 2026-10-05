@@ -1171,6 +1171,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **30. 9.** — Hrdlička odsouzen za „Z" — precedent vytvořili Rajchl a Vacek, „Reichel je součást vládní moci" — [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026)
 - **3. 10.** — zatčení Blahníkové — „brutální stát pod vládou Babiše"; PRO „ukradla naše demonstrace" a začala „udávat" lidi za „Z" — [Facebook Live: před policejní stanicí (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-před-policejní-stanicí-3-10-2026)
 - **4. 10.** — po shromáždění 3. 10.: „režim má padnout", Babiš odpovídá za represe; odmítá smír s Alešem Svobodou; znovuzvolen předsedou hnutí; zvažuje odejít z české scény a vysílat anglicky — [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+- **30. 9.** — Rajchl „ukradl sílu Václaváku, aby ji postavil proti Rusku"; PRO „soudruzi"; Konečná a domy KSČM — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1270,6 +1271,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **24. 9.** — „navykání" na ruské útoky před falešnou vlajkou, ruská odveta bez Moskvy, „říjnové překvapení"; Vučić — právo silnějšího — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 - **26. 9.** — „až se obr ožene" — Západ ČR obětuje; Rusko se bude muset pustit do konfliktu; ⚡ válka by byla dlouhá; posun postoje k Číně — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - **27. 9.** — ČR „nepřiznaný protivník", konflikt nevyhnutelný, scénář „za dvě hodiny čl. 5"; diverzifikace = příprava zničení ruské ropné infrastruktury — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+- **30. 9.** — „99% jistota" války, teorie úderu 1000–1500 letadel, ČR doma „beránek" — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 
 ---
 
@@ -1756,6 +1758,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Miloš Zeman | ❌ negativní | „Hajzl", měl by být souzen za výrok o agresivitě Rusů v genech | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
 | Andrej Babiš | ❌ negativní | Odpovídá za represe; fantazie o mučení „náčelníka" | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
 | Kateřina Blahníková | ✅ pozitivní | Zatčena za „Z" — „rodina hnutí" | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
+| Jindřich Rajchl | ❌ negativní | „Ukradl sílu Václaváku, aby ji postavil proti Rusku" | 2026-09-30 | [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026) |
+| Kateřina Konečná | ❌ negativní | Prodala domy KSČM na kampaň, Stačilo! jako zástěrka | 2026-09-30 | [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026) |
 
 ---
 
@@ -1909,3 +1913,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Reels: zatčení Katky Blahníkové (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--reels-zatčení-blahníkové-3-10-2026)
 - [Facebook Live: před policejní stanicí (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-před-policejní-stanicí-3-10-2026)
 - [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+- [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
