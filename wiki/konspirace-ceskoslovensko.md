@@ -200,7 +200,9 @@ Zítko opakuje svůj výklad, že Německo dluží válečné reparace Českoslo
 
 ⚡ **Poznámka:** Jméno „Niedermayer" v souvislosti s rozprodejem zlatých rezerv ČNB v 90. letech nelze ověřit — Zdeněk Tůma a Josef Tošovský byli tehdejšími guvernéry; Oldřich Niedermayer se v této funkci nedohledá.
 
-**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026), [Československo TV2 — Videoportál 14. 9. 2026](_zdroje.md#československo-tv2--videoportál-14-9-2026)
+**2. 10.** — Zítko ohlašuje, že na akci 10. 10. se vládě (podatelna ministerstva financí, „Alenka Schillerová") podá „doplatek" ve výši 17,4 miliardy na jednoho Čechoslováka a 550 milionů eur na jednoho Slováka; „faktury" ze sněmu v Soběšovicích (22. 3. 2025) prý stát „nerozporoval". Reparace od Německa přepočítává na 29 bilionů Kč, tj. 9 500 tun zlata — „nemá na ně nárok Konečná ani Rajchl". Rozdělení ČSFR je podle něj nulitní (zákon 542/1992 bez podpisu prezidenta, Stráský bez důvěry), tři poslanci byli prý „zkorumpováni".
+
+**Zdroje:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026), [ČsTV2 — Videoportál 15. 7. 2026](_zdroje.md#československo-tv2--videoportál-15-7-2026), [ČsTV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 8. 9. 2026](_zdroje.md#pavel-zítko--videoportál-8-9-2026), [Československo TV2 — Videoportál 14. 9. 2026](_zdroje.md#československo-tv2--videoportál-14-9-2026), [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
 
 ---
 
@@ -265,4 +267,10 @@ Zítko k dosavadní argumentaci (viz výše) doplňuje nový důkaz: podle něj 
 
 V úvodu speciálu ke kauze Čermák Zítko tvrdí, že Trump, Putin, bin Salmán a Módí jsou a budou „vítěznými mocnostmi", které rozhodnou i o „budoucí podobě našeho právního státu a zpětvzetí Československa"; rozkradení zlatého pokladu a podniků připisuje operaci StB/KGB pod vedením „tria Klaus, Mečiar, Havel". Volby jsou podle něj nejméně 20 let zfalšované přes firmy ESET a Hewlett-Packard vybrané bez tendru a Joe Biden byl „v době inaugurace už popraven".
 
-**Zdroje:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
+**30. 9.** — Zítko pouští archivní záznam z roku 2023, kdy se na mítinku SPD v Ústí nad Labem ptal Tomia Okamury, proč nevyužije „protiprávní rozdělení" Československa k odchodu z NATO a EU (ústavní zákon z 25. 11. 1992 prý „neměl kdo podepsat"); Okamura podle něj „všechno věděl a všechno přiznal", ale vymlouvá se — politiku dělá „jako výdělečnou činnost" a SPD s 15 poslanci by mohla Babiše přinutit, „ale ono se jim nechce".
+
+**2. 10.** — Komunální a senátní volby označuje za „hru na volby" a vyzývá k bojkotu: kandidáti jsou „dopředu vybraní", hlasy „počítá počítač" (firma vybraná bez výběrového řízení, Rakušan prý zaplatil „asi milion pokutu"), Stalin prý řekl, že „nezáleží, kdo hází lístky, ale kdo počítá"; mezi Babišem a Fialou se „skoro nic nezměnilo" a Rajchlovo „desatero" (odchod z WHO aj.) zůstalo nesplněné. O hranicích včetně Československa podle něj rozhodnou „vítězné mocnosti" (Trump, Putin, Si Ťin-pching, Módí, „bílý klobouk Orbán"), „ne Pávek, ne Fiala, ne Babiš" — „Rudá armáda už je velmi blízko Kyjeva" a „schyluje se k bezpodmínečné kapitulaci" Ukrajiny.
+
+> „Tam jinak než blbě nemůžete zvolit, protože ta banda těch idiotů, který jsou vám potom servírovaný při hře na zlýho a hodnýho policajta, je dopředu vybraná." — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](_zdroje.md#československo-tv2--den-šestý-30-9-2026), [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)

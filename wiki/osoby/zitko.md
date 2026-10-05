@@ -47,6 +47,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **15. 9.** — smrt slovenského poslance Jaroslava Pašky připisovaná vakcinaci; ředitelka SÚKL Irena Storová označena za „spolupachatelku genocidy"; citace Aarona Rodgerse o covidu jako „testu poslušnosti" — [Videoportál 15. 9.](../_zdroje.md#československo-tv2--videoportál-15-9-2026)
 - **17. 9.** — Rockefellerův narativ vzniku farmaceutické medicíny (potlačení homeopatie/koloidního stříbra); herbicid Roundup jako příčina Parkinsonovy choroby — [Videoportál 17. 9.](../_zdroje.md#československo-tv2--videoportál-17-9-2026)
 - **17. 9. (2)** — jihokorejská studie (+27 % rakoviny po vakcíně), „genetický otisk" vakcíny v DNA pacientky, Naomi Wolf o cílení vakcíny na reprodukci (kalcifikace placenty, spermie, ztráty těhotenství) — [Videoportál 17. 9. (2)](../_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+- **2. 10.** — „zachránili jsme tisíce životů"; Flegr „zrůdička" — „to udělá někdo jinej"; Ivermectin místo chemoterapie — [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](../_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -86,6 +87,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **24. 9.** — Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (vzdání se stížnosti, odstrašující případ); popírá udání, zatčení v Polsku = provokace proti němu — [ČsTV2 — Videoportál: pozvánka ke kauze Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--videoportál-pozvánka-čermák-24-9-2026), [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 - **25. 9.** — „Za mě to v žádným případě nebyl Tomáš Čermák" (výška, uši, bez emocí); rodina a Naxera „museli vědět"; peníze pro Čermáka mají „manželé z Jablonce"; Tušl „somruje", Rajchl nesplnil desatero — [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026)
 - **27. 9.** — „Dvojník", ne „klon"; série otázek k líčení, Čermák „nahražen figurantem bez duše"; Tušl se distancoval; kampaň: 300 z 500 tis. na ochranku; predikce „od 1. 10. se začne hýbat se světem" — [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](../_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)
+- **28. 9.–2. 10.** — „Čermákiáda": 17 otázek otčímovi Turkovi (výzva „obléhat Holíšov"), profil „Politický vězeň Čermák" podle něj spravuje Turek, Černohorského omluva „teatrální", Šišáková „ex-policistka", fotomontáže, originál „z 99,999 % v ochraně svědků"; posun u Tušla — [ČsTV2 — Otázky na otčíma Martina Turka (28. 9. 2026)](../_zdroje.md#československo-tv2--otázky-na-otčíma-28-9-2026), [ČsTV2 — Den pátý — Tomáš Čermák? (29. 9. 2026)](../_zdroje.md#československo-tv2--den-pátý-29-9-2026), [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](../_zdroje.md#československo-tv2--den-šestý-30-9-2026), [ČsTV2 — Den sedmý — Tomáš Čermák (1. 10. 2026)](../_zdroje.md#československo-tv2--den-sedmý-1-10-2026), [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](../_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -158,6 +160,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **17. 9. (2)** — RFK Jr. „potvrzuje" chemtrails (Disney 60 mil. $ na domalování stop do starých filmů) — [konspirace.md](../konspirace.md); nová vlna QFS/kolapsu bankovnictví (JP Morgan/XRP, konec SWIFTu, zákaz CBDC) — [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#quantum-financial-system-a-medbeds) — [Videoportál 17. 9. (2)](../_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
 - **24. 9.** — „Vítězné mocnosti" (Trump, Putin, bin Salmán, Módí) rozhodnou o obnově ČSR; volby 20 let falšovány přes ESET/HP; Biden popraven — [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 - **25. 9.** — Babiš není „původní Babiš" (výška na fotce); Tom Hanks pedofil — [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026)
+- **30. 9.–2. 10.** — Okamura „přiznal podvod" s rozdělením ČSFR; bojkot voleb („hra na volby"); kapitulace Ukrajiny, „vítězné mocnosti"; QFS/EBS, „Rudý říjen", trest smrti ve vojenském právu; „doplatek" 17,4 mld. na Čechoslováka — [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](../_zdroje.md#československo-tv2--den-šestý-30-9-2026), [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](../_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -312,6 +315,13 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Andrej Babiš | ❌ negativní | „Není původní Babiš" (dvojník) | 2026-09-25 | [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026) |
 | Tom Hanks | ❌ negativní | „Jeden z největších pedofilů v Hollywoodu" | 2026-09-25 | [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026) |
 | Patrik Tušl | ⚖️ rozporuplný | „Souputník v boji", ale distancoval se od Čermáka — možná dohoda s policií | 2026-09-27 | [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](../_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026) |
+| Martin Turek | ❌ negativní | Otčím Čermáka — podle Zítka správce falešného profilu, „17 otázek", výzva „obléhat Holíšov" | 2026-09-28 | [ČsTV2 — Otázky na otčíma Martina Turka (28. 9. 2026)](../_zdroje.md#československo-tv2--otázky-na-otčíma-28-9-2026) |
+| Marie Šišáková | ❌ negativní | „Bývalá zaměstnankyně policie", účetní spolku Černohorského, fotomontáž | 2026-09-29 | [ČsTV2 — Den pátý — Tomáš Čermák? (29. 9. 2026)](../_zdroje.md#československo-tv2--den-pátý-29-9-2026) |
+| Jiří Černohorský | ❌ negativní | „Jedenáctiletý exot", omluva „teatrální" | 2026-09-30 | [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](../_zdroje.md#československo-tv2--den-šestý-30-9-2026) |
+| Patrik Tušl | ⚖️ rozporuplný | „Prokoukává se" — chystá omluvu | 2026-09-30 | [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](../_zdroje.md#československo-tv2--den-šestý-30-9-2026) |
+| Tomio Okamura | ❌ negativní | „Všechno ví" o podvodu s rozdělením ČSFR, ale politiku dělá pro výdělek | 2026-09-30 | [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](../_zdroje.md#československo-tv2--den-šestý-30-9-2026) |
+| Denisa Šmídová (soudkyně) | ❌ negativní | „Dirigentská taktovka" frašky | 2026-10-02 | [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](../_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026) |
+| Jaroslav Flegr | ❌ negativní | „Zrůdička", „to udělá někdo jinej" | 2026-10-02 | [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](../_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026) |
 
 ---
 
@@ -407,3 +417,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-24-9-2026)
 - [ČsTV2 — Speciál Tomáš Čermák II (25. 9. 2026)](../_zdroje.md#československo-tv2--speciál-čermák-ii-25-9-2026)
 - [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](../_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)
+- [ČsTV2 — Otázky na otčíma Martina Turka (28. 9. 2026)](../_zdroje.md#československo-tv2--otázky-na-otčíma-28-9-2026)
+- [ČsTV2 — Den pátý — Tomáš Čermák? (29. 9. 2026)](../_zdroje.md#československo-tv2--den-pátý-29-9-2026)
+- [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](../_zdroje.md#československo-tv2--den-šestý-30-9-2026)
+- [ČsTV2 — Den sedmý — Tomáš Čermák (1. 10. 2026)](../_zdroje.md#československo-tv2--den-sedmý-1-10-2026)
+- [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](../_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)

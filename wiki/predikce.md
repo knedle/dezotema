@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — bezpodmínečná kapitulace Ukrajiny a vojenské stanné právo s trestem smrti (2. 10. 2026)
+
+**Předpověď:** Rudá armáda je „velmi blízko Kyjeva" a vše se „řítí k bezpodmínečné kapitulaci" Ukrajiny, po níž o hranicích (včetně Československa) rozhodnou „vítězné mocnosti"; „až nastane čas", bude aktivováno vojenské stanné právo, které bude soudit i covid zločince, včetně trestu smrti.
+
+> „Bude aktivováno, až nastane čas, viditelně vojenské stanné právo a v rámci vojenského práva stanného je i trest smrti." — Pavel Zítko
+
+**Horizont:** „nezadržitelně se blíží" (neurčeno)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
+
+---
+
 ### Ladislav Vrabel — konflikt NATO–Rusko je nevyhnutelný, může začít „každým dnem" (27. 9. 2026)
 
 **Předpověď:** Přímý konflikt NATO s Ruskem je nevyhnutelný a může začít „každým dnem" — sporným narušením vzdušného prostoru a sestřelem, po němž do dvou hodin přijde stav ohrožení, článek 5 a zavřené hranice.
@@ -45,6 +57,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **Horizont:** od 1. 10. 2026
 **Stav:** 🕐 Čeká na vyhodnocení
 **Zdroj:** [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)
+**Poznámka:** 1. 10. se Zítko k predikci nevrátil; 2. 10. ji přerámoval na „Rudý říjen" („nikdy jsme úplně nevěděli přesně, jaký rok to bude… všechno běží tak, jak má") a zároveň prohlásil, že věštění „není jeho obor" — [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
 
 ---
 

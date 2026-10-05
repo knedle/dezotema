@@ -797,6 +797,16 @@ Zároveň tvrdí, že rakovinné buňky jsou „odumřelé buňky", které tělo
 
 ---
 
+### Zítko: „zachránili jsme tisíce životů"; Flegr „zrůdička" — „nezmlátil jsem ho, to udělá někdo jinej"; Ivermectin místo chemoterapie (Zítko, 2. 10. 2026)
+
+Zítko tvrdí, že ČR byla „díky mé trošce" první ze 43 zemí v počtu lidí odrazených od očkování a „zachránili jsme tisíce lidských životů"; porodnost podle něj klesla o 30 % jen u očkovaných žen. Fauci a Gates jsou „zločinci číslo jedna" a covid mafie patří „před vojenský tribunál". Pouští svůj klip s Jaroslavem Flegrem z ČT24 (2023), Flegra označuje za „zrůdičku", „příbuzného Brůny z povídky Studna" a „spolupachatele masových vražd a genocidy národa" a dodává, že ho „nenapadl, nezmlátil — to udělá někdo jinej", až lidé dají do souvislosti smrt blízkých s „injekcí" (viz [Stochastický teror](stochasticky-teror.md)). Chemoterapie podle něj stojí 111 000 USD ročně při „2–3 % účinnosti", zatímco Ivermectin „pár tisíc korun" — divákům nabízí jeho zprostředkování („napište mi do zprávy").
+
+> „Nenapadnul jsem ho, nezmlátil jsem ho, to udělá někdo jinej, až na to přijdou a dají si do souvislosti to, že jejich dítě, že rodič, prarodič, přítel, známej zemřel kvůli injekci… tak to udělají jiní." — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
+
+---
+
 ### Holandský soud: mRNA vakcíny označeny za biologické zbraně — ČsTV2 (7. 5. 2026)
 
 ČsTV2 ve vysílání 7. 5. 2026 cituje soudní případ vedený advokátem Pietrem Stassenem v Nizozemsku. Soud prý poprvé v historii projednává svědectví, že mRNA vakcíny jsou biologické zbraně, nikoliv léky. Žalovaní jsou Bill Gates, Albert Bourla (ředitel Pfizer) a Mark Rutte (former premiér Holandska, nyní generální tajemník NATO). Soud prý nařídil Gatesovi a Bourlovi, aby se dostavili a odpověděli.

@@ -5073,3 +5073,44 @@
 - **URL:** <https://www.facebook.com/100083247552502/videos/1608005744295524>
 - **Datum záznamu:** 2026-10-03
 - **Zpracováno:** ano
+
+## Československo TV2 — Otázky na otčíma Martina Turka (28. 9. 2026) {#československo-tv2--otázky-na-otčíma-28-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-28_Československo-TV2_25K-views-79-reactions-Československo-TV2-vysílala.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1092965843492691&_rdr>
+- **Datum záznamu:** 2026-09-28
+- **Zpracováno:** ano
+
+
+## Československo TV2 — Den pátý — Tomáš Čermák? (29. 9. 2026) {#československo-tv2--den-pátý-29-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-29_Československo-TV2_15K-views-56-reactions-Československo-TV2-vysílala.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=2200447783859638&_rdr>
+- **Datum záznamu:** 2026-09-29
+- **Zpracováno:** ano
+
+
+## Československo TV2 — Den šestý — Tomáš Čermák? (30. 9. 2026) {#československo-tv2--den-šestý-30-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-30_Československo-TV2_26K-views-83-reactions-Československo-TV2-vysílala.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=4474179519512210&_rdr>
+- **Datum záznamu:** 2026-09-30
+- **Zpracováno:** ano
+
+
+## Československo TV2 — Den sedmý — Tomáš Čermák (1. 10. 2026) {#československo-tv2--den-sedmý-1-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-02_Československo-TV2_15K-views-61-reactions-Československo-TV2-vysílala.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1617421536443562&_rdr>
+- **Datum záznamu:** 2026-10-01
+- **Zpracováno:** ano
+- **Poznámka:** Soubor nese datum stažení; vysíláno 1. 10. 2026. Blok 58:16–1:28 je archivní vysílání z února 2024.
+
+
+## Československo TV2 — Zpravodajství týdne (2. 10. 2026) {#československo-tv2--zpravodajství-týdne-2-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-05_Československo-TV2_Československo-TV2-vysílala-živě.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1090822303324422&_rdr>
+- **Datum záznamu:** 2026-10-02
+- **Zpracováno:** ano
+- **Poznámka:** Soubor nese datum stažení; vysíláno 2. 10. 2026. Velká část je předčítání cizích textů (Lička, Jílková, Avdičová, Wallace, Chambers).

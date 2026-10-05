@@ -57,7 +57,9 @@ Zítko věří v brzké zavedení Quantum Financial System (QFS), který ukonč�
 
 ⚡ **Poznámka:** Popsané transakce, zákony a výnosy (JP Morgan/XRP 7. 9., „smrt" SWIFTu 6. 9., zákon o zákazu CBDC 12. 9., výnos 1478) nelze ověřit z veřejně dostupných zdrojů — jde o standardní narativ QFS/„velkého resetu měny" šířený v konspiračních kruzích bez oficiálního potvrzení.
 
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+**2. 10.** — Zítko předčítá texty (Vladimíra Avdičová, Christian B. Wallace, „Lion White", John Michael Chambers) a přitakává: „Reset je ve finální fázi", aktivace EBS je „přede dveřmi" s úplným výpadkem komunikace, QFS je „v provozu", zatýkají se elity a lidé budou vyzváni „diskrétně navštívit kontaktní místo", kde jim předají informace o „kvantovém účtu"; „osvobozenecká dividenda" má činit 46 bilionů USD ročně. Trump podle předčítaného textu není politik, ale „vrchní velitel aliance" (potomek generála Pattona), USA jsou „ve stavu tajné vojenské okupace" a Joe Biden byl „popraven, ještě než nastoupil" (Si Ťin-pching to prý Trumpovi „vtipně" ukazoval automatickým perem). Zítko dodává, že vojenské stanné právo bude soudit i covid zločince, obchod s dětmi a adrenochrom, a „v rámci vojenského práva je i trest smrti — legitimní trest". Mluví o „Rudém říjnu", zároveň však prohlašuje, že průběh „vojenské operace" zná „celosvětově deset lidí… mezi nimi nejsem já", a věštění „není jeho obor".
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2), [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
 
 ---
 
