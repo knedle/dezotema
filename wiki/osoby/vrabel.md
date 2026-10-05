@@ -1168,6 +1168,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **25. 9.** — „vyhráli jsme brand, ne program"; Babiš „cizinec", zakázal referendum; „před francouzskou revolucí"; válka vyžaduje umlčet odpůrce — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - **26. 9.** — Rajchl „řekl, že demonstrace nemají smysl"; Hrušková a Štěpán jako „snílci"; berlínští policisté „zločinci" — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - **27. 9.** — implicitní odpověď Rajchlovi — „podvodník", který zahodil rok 2022, „klasický psychopat s kulatými narozeninami" — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+- **30. 9.** — Hrdlička odsouzen za „Z" — precedent vytvořili Rajchl a Vacek, „Reichel je součást vládní moci" — [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1745,6 +1746,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Jindřich Rajchl (implicitně) | ❌ negativní | „Podvodník", který zahodil hnutí 2022; „klasický psychopat" s kulatými narozeninami | 2026-09-27 | [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026) |
 | Aleksandar Vučić | ✅ pozitivní | „Jediný normální politik v Evropě", doufá v jeho vítězství | 2026-09-27 | [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026) |
 | Petr Macinka | ❌ negativní | „Lump", „celý život nosil tašku Klausovi", „svazácky" poslal 140 mil. do PURL | 2026-09-27 | [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026) |
+| Tomáš Hrdlička | ✅ pozitivní | Odsouzen za odznak „Z" — politicky perzekvovaný | 2026-09-30 | [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026) |
+| Petr Vacek | ❌ negativní | Trestní oznámení na účastníky s „Z" (2023), „poškození na úrovni humanity" | 2026-09-30 | [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026) |
 
 ---
 
@@ -1894,3 +1897,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+- [Videoportál: další odsouzený za písmeno Z (30. 9. 2026)](../_zdroje.md#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026)

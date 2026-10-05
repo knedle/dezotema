@@ -5241,3 +5241,11 @@
 - **URL:** <https://www.facebook.com/61553793793504/videos/4049683865335601>
 - **Datum záznamu:** 2026-10-05
 - **Zpracováno:** ano
+
+## Ladislav Vrabel — Videoportál: další odsouzený za písmeno Z (30. 9. 2026) {#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-30_Ladislav-Vrabel_30-9-2026-Další-ODSOUZENÝ-za-písmeno-Z-na-odznáčku.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1982449989088206>
+- **Datum záznamu:** 2026-09-30
+- **Zpracováno:** ano
+- **Poznámka:** Rozhovor s Tomášem Hrdličkou natočený za jízdy do ČR.
