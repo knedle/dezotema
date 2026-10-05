@@ -776,7 +776,9 @@ K projevu britského labouristy Andyho Burnhama („migrace ano, ale kontrolovan
 
 **27. 9.** — Na dotaz o bezpečnosti v Egyptě Vrabel radí vyhnout se „všem nacistickým a islámským státům" (Francie, Británie, Norsko, Švédsko, Egypt) — „v islámské zemi to nikdy není bezpečné"; používá rasovou nálepku „čmoudi" a výslovně se za ni neomlouvá.
 
-**Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+**28. 9.** — K situaci v Ceutě Vrabel připomíná své vystoupení v ČT z roku 2023, že „z Evropské unie se stává kalifát" (Německo, Rakousko, Švýcarsko, Nizozemsko, Brusel); ČR je zatím „krásná, bezpečná, čistá", ale s migračním paktem „nezůstane". Ukrajinců je podle něj v ČR „minimálně dva miliony", možná tři až čtyři.
+
+**Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 
 ---
 

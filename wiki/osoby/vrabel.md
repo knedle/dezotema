@@ -1175,6 +1175,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **3. 10.** — zatčení Blahníkové — „brutální stát pod vládou Babiše"; PRO „ukradla naše demonstrace" a začala „udávat" lidi za „Z" — [Facebook Live: před policejní stanicí (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-před-policejní-stanicí-3-10-2026)
 - **4. 10.** — po shromáždění 3. 10.: „režim má padnout", Babiš odpovídá za represe; odmítá smír s Alešem Svobodou; znovuzvolen předsedou hnutí; zvažuje odejít z české scény a vysílat anglicky — [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 - **30. 9.** — Rajchl „ukradl sílu Václaváku, aby ji postavil proti Rusku"; PRO „soudruzi"; Konečná a domy KSČM — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
+- **28. 9.** — Den státnosti — „zrádci pro Západ pro mrzké peníze", koláž projevů PRO 2023 (implicitně Rajchl) — [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1212,6 +1213,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **25. 9.** — IZS Karlovy Vary jako příprava na válku; Macinkova povinná vojna, Češi „zlí a nepřející" — [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 - **26. 9.** — směrnice NATO Resilience = příprava na hromadné oběti; nafta podle priorit, „energetické lockdowny" — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - **27. 9.** — muniční iniciativa = „zrada národa"; „ani koruna na Ukrajinu" jako podvod, víc než za Fialy — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+- **28. 9.** — Macinku „sponzoruje" Strnad/CSG — [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1776,6 +1778,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Ivan David | ✅ pozitivní | Jezdí do Srbska EU „rozbíjet" | 2026-10-02 | [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026) |
 | Adam Vojtěch | ❌ negativní | Převoz pacienta s podezřením na ebolu jako „čest" — sugesce trestu smrti | 2026-10-03 | [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026) |
 | Heiko Schöning | ✅ pozitivní | „Kamarád", varuje před pandemií střevní mikroflóry | 2026-10-03 | [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026) |
+| Michal Strnad | ❌ negativní | „Sponzoruje" Macinku | 2026-09-28 | [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026) |
+| Ana Brnabić | ✅ pozitivní | „Ohromný respekt" | 2026-09-28 | [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026) |
 
 ---
 
@@ -1933,3 +1937,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
 - [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 - [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
+- [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)

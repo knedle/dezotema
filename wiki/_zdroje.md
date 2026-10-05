@@ -5305,3 +5305,11 @@
 - **Datum záznamu:** 2026-10-03
 - **Zpracováno:** ano
 - **Poznámka:** Vysíláno z pražského hotelu po shromáždění 3. 10.; bez obrazových podkladů.
+
+## Ladislav Vrabel — Večerní zprávy 28. 9. 2026 {#ladislav-vrabel--večerní-zprávy-28-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-28_Ladislav-Vrabel_28-9-2026-Večerní-zprávy-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2844778245909056>
+- **Datum záznamu:** 2026-09-28
+- **Zpracováno:** ano
+- **Poznámka:** Na konci (1:08:40–1:12:29) koláž projevů z demonstrací PRO z roku 2023; výpadek [29:28–30:00].

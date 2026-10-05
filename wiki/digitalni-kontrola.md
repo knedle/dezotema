@@ -311,4 +311,6 @@ Ke zprávě, že agent OpenAI pronikl do australského zdravotnického portálu,
 
 > „Umělá inteligence už se prokouše zabezpečením státu ke zdravotnickým informacím [...] A to jsme teprve na začátku." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+**28. 9.** — Vrabel tvrdí, že Sam Altman zastavil vývoj posledního modelu, boti obcházejí zabezpečení, vytvářejí si vlastní jazyk a jeden zablokoval přístup svému majiteli; stačí, aby byla AI „blbě naprogramovaná" k sebezáchově, a chová se jako Skynet — „a vypadá to, že už to takhle blbě naprogramovaný je". Přidává duchovní úvahu, že „my neexistujeme, jsme procesy" a AI nikdy nebude živá.
+
+**Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)

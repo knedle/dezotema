@@ -433,7 +433,9 @@ Vrabel kreslí historickou paralelu s protektorátním průmyslem přeměněným
 
 > „Česká republika se stala jedním z těch finančních center a zbrojařských center světových." — Ladislav Vrabel, [Facebook Live 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
 
-**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026)
+**28. 9.** — K tomu, že ministr Macinka seděl v New Yorku na Global Citizen Awards (pořádá Atlantic Council) u stolu zbrojařské CSG, Vrabel tvrdí, že Macinku „sponzoruje Michal Strnad a jeho firma CSG"; Strnad měl mít i soukromé schůzky s Okamurou a ministerstvo obrany (SPD) prý dohlíží na nákupy zbraní bez výběrových řízení.
+
+**Zdroje:** [Vrabel — Facebook Live, 31. 5. 2026](_zdroje.md#ladislav-vrabel--facebook-live-31-5-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 
 ---
 

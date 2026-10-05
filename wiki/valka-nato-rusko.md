@@ -1396,7 +1396,9 @@ K Trumpovu setkání se Zelenským (Trump chce znovu jednat s Putinem, varuje, �
 
 **25. 9.** — Trump podle Vrabela opakovaně žádal Zelenského, aby neútočil na ruskou energetiku, ten přesto v den ruských voleb vyhodil do povětří moskevské rafinerie — a Trump ho místo trestu „odměnil" licencí na výrobu střel Patriot, takže „vůbec nemá zájem", aby útoky ustaly. Továrnu by Rusové rozbombardovali; Ukrajina bude podle něj „za dva roky úplně někde jinde". Finského prezidenta Stubba, který žádá Muska o Starlink pro zásahy na ruském území, označuje za „jednoho z největších fašistů v Evropě".
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
+**28. 9.** — Trumpova žádost, aby Zelenskyj neútočil na rafinerie, je podle Vrabela předvolební taktika „herce", který „vypadá pokaždé jinak" („tohle není Jim Beam"); válku podle něj rozehrály USA od let 2013/14. Rusové postupují pomalu záměrně, aby si nepoštvali svět — díky tomu „určitě tři čtvrtě světa stojí na straně Ruska".
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Zprávy v devět 25. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 
 ---
 

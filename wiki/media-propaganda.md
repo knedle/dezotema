@@ -623,4 +623,6 @@ Vrabel tvrdí, že na Čechy se neútočí fyzicky, ale mentálně: čtyři a p�
 
 > „Ten národ je mentálně poškozený. Všichni." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+**28. 9.** — Pozvánku na shromáždění 3. 10. podle Vrabela dostaly „stovky médií", zveřejnily ji ale jen ePortál24, InfoKurýr, Petr Bureš a kriticky Petr Hájek; Milion chvilek („jedna ze skupin zaprodaných Západu") měl ke Dni státnosti reklamu všude a živý přenos na ČT24 — „propaganda jede na plné obrátky".
+
+**Zdroje:** [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
