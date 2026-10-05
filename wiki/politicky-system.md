@@ -687,6 +687,16 @@ V pořadu TV Bureš (propagace shromáždění „Člověk na prvním místě" 3
 
 ---
 
+### Národní hrdost, zákaz mobilů ve školách, „socioekonomické vraždy"; Babiš, Motoristé a karenční doba (Černohorský, 12. 9. 2026)
+
+Černohorský tvrdí, že politici po rozkradení majetku ničí i národní hrdost (ČSSR byla v 70. letech prý „třetí nejúspěšnější ekonomika", první republika „devátá"); ročníky 1950–1980 jsou podle něj „poslední generace", která to může napravit, a požaduje úplný zákaz mobilů na všech stupních škol — „zničíme generace dětí, a jim se to podařilo". Připouští, že za socialismu se střílelo na hranicích a byly politické procesy, ale dnes se podle něj „vraždí socioekonomickým způsobem" — sebevraždy z bídy jako výsledek politiky 37 let. Kritizuje Babiše a Motoristy za plán snížit podporu v nezaměstnanosti a vrátit neplacené první tři dny nemocenské (Boris Šťastný je „bývalý ODSák"), zatímco politici mají placenou nepřítomnost; programovému prohlášení vlády se „smál". Rakušan prý bral 60 tisíc měsíčně v dozorčí radě České pošty, zatímco Agrofert zaměstnává 30 tisíc lidí — „v tomhle směru Babiše nechte na pokoji". Za zničení prezidentské standarty skupinou Ztohoven by pachatelům „napařil 20 let".
+
+> „Jsou páchány socioekonomické vraždy. Doslova dopísmene." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

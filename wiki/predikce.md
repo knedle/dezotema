@@ -273,6 +273,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Jiří Černohorský — další pandemie „letos" (12. 9. 2026)
+
+**Předpověď:** Přijde další pandemie, možná ještě letos, a Babiš i Vojtěch v ní „pojedou znova, ještě sofistikovaněji".
+
+> „Já bych se vůbec nedivil, kdyby letos přišli ti parchanti s další řádovou pandemií [...] Zase to přijde." — Jiří Černohorský
+
+**Horizont:** 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
+
+---
+
+### Jiří Černohorský — „Československa už nikdy nebude" (12. 9. 2026)
+
+**Předpověď:** Obnova Československa nenastane nikdy; naopak hrozí, že se ČR (pod názvem „Česko") stane „17. spolkovou republikou Německa".
+
+> „Československa už nikdy nebude. Nikdy. Na to zapomeňte." — Jiří Černohorský
+
+**Horizont:** trvale / 10–20 let
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
+
+---
+
 ### Ladislav Vrabel — přicházející občanská válka v Evropě (10. 9. 2026)
 
 **Předpověď:** V souvislosti se zatčením „klimatického extremisty" v Německu (plánujícího útoky na elektrickou infrastrukturu) a rostoucími protesty po Evropě (Řecko, Španělsko, Británie, Irsko) Vrabel opakuje předpověď, kterou mu měl před lety sdělit „nejchytřejší člověk na světě" a s níž se od té doby ztotožnil: v Evropské unii dojde k občanské válce. Očekává, že podobné násilné incidenty (radikalizace kvůli klimatické/migrační politice) budou čím dál častější, „možná každodenní", a povedou k rozsáhlejšímu násilí na ulicích.

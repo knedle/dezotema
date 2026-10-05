@@ -11,7 +11,9 @@ Jiří Černohorský tvrdí, že označení „Česko" (místo Česká republika
 
 **27. 8.** — Černohorský tento postoj vyostřuje na osobní rovině: prohlašuje, že se hlásí k moravské (nikoli české) národnosti, a nekompromisně odmítá jakékoli pojmenování země jako „Česko" nebo „Čechie" — trvá výhradně na „Česká republika" tvořená třemi zeměmi (Čechy, Morava, Slezsko). Kdokoliv tato jména nerespektuje, má být podle jeho slov „poslán do prdele"; zdůrazňuje, že v tomto bodě nepřipouští žádný kompromis.
 
-**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025), [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+**12. 9. (Černohorský)** — Černohorský klade počátek názvu „Česko" do roku 2016 za Sobotkovy vlády a spojuje ho s Newyorskou deklarací a Agendou 2030; podle něj ho schválili Zaorálek, Hamáček a Zeman a změna dokumentů stála „stovky miliard". Pro Moravany a Slezany je „Česko" „nepřípustné" — navrhuje název „Českomoravská federativní republika" a úpravu vlajky. Odvolává se na Daniela Hermana, který podle Parlamentních listů na sjezdu Landsmannschaftu (kde ho vyznamenal Posselt) řekl, že bychom byli „taková 17. spolková republika" Německa — název „Česko" to podle Černohorského umožní, možná „až za 10, 15, 20 let". V českých rukou je podle něj jen asi 10 % toho, co bylo za ČSFR, a „Československa už nikdy nebude".
+
+**Zdroje:** [Černohorský — Česko je plán, 2025-11-14](_zdroje.md#jiří-černohorský--česko-je-plán-14-11-2025), [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026), [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 
 ---
 

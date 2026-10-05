@@ -832,7 +832,11 @@ V reakci na sdílené video Michala Boldyho o katastrofálních lavinách v Nep�
 
 ⚡ **Poznámka:** Tvrzení je nepodloženou spekulací kombinující sdílené video, teorii o 9/11 jako řízené operaci a explicitně antisemitské přisouzení viny neurčité skupině „Židů" za přírodní katastrofu — viz [Stochastický teror](stochasticky-teror.md). Samotný Boldy o den později totéž video označil za AI podvrh — viz [⚡ Konflikt níže](#-konflikt-nepál--virální-stíhačka-je-ai-podvrh-ale-zemětřesení-bylo-uměle-vyvoláno-haarpem-boldy-27-8-2026).
 
-**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+**12. 9.** — Černohorský 9/11 rozsáhle rozvádí jako součást řady „falešných záminek USA" (Tonkinský záliv — „3,8 milionu mrtvých Vietnamců", ampulka antraxu Colina Powella a Irák, pokusy amerického námořnictva s rozprašováním bakterií v Sanfranciském zálivu): palivo z Boeingu se prý vejde do krychle 3,6 m, „dutý doutník z hliníku" nemohl prorazit ocel, Boeing nemohl letět 800 km/h ve výšce 3 m, do Pentagonu „na tisíc procent žádný letadlo nevpálilo", v Pensylvánii byly „dva bagry a díra", WTC 7 spadla „jak když odstřelujete barák" a pas Muhammada Atty byl „nehořlavý"; připouští i teorii „promítnutých" letadel. Mezi „Epsteinovy pedofily, kteří žrali děti a píchali si adrenochrom" nově řadí i Donalda Trumpa, hollywoodské hvězdy a politiky EU.
+
+> „Američané tady lhali, lžou a lhát budou." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026), [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 
 ---
 

@@ -5189,3 +5189,11 @@
 - **Datum záznamu:** 2026-09-11
 - **Zpracováno:** ano
 - **Poznámka:** Archivní video z roku 2022 (zadržení před ruskou ambasádou 26. 2. 2022), znovu zveřejněno 11. 9. 2026.
+
+## Jiří Černohorský — Facebook Live (12. 9. 2026) {#jiří-černohorský--facebook-live-12-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-12_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1600004624932370>
+- **Datum záznamu:** 2026-09-12
+- **Zpracováno:** ano
+- **Poznámka:** Starší vysílání stažené dodatečně (sync 5. 10.). Úsek 1:09–1:15 je předčítaný cizí slovenský text — nezpracován.

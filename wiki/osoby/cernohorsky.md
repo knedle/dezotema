@@ -48,6 +48,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **24. 9.** — Premiérský program: platy politiků na úroveň 2010, zrušit paušály a poplatky ČT, „vydat" Fialovu vládu; vlastní kandidatura (Restart pro Brno) a výsměch kampaním — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) → [volby-2026.md](../volby-2026.md)
 - **5. 9.** — „nic vám nepatří" — iluze demokracie; nevydaná opozice vs. vydaný Okamura; Hřib a přeplatky; platy poslanců 4 mil. ročně — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - **8. 9.** — volby bez kvóra = podvod, počty členů stran; zrušit peníze, „slovanské občiny"; Google vojenský projekt — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+- **12. 9.** — národní hrdost, zákaz mobilů ve školách, „socioekonomické vraždy"; Babiš/Motoristé a karenční doba; Rakušan v dozorčí radě České pošty — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -131,6 +132,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **27. 8.** — „Česko je plán" vyostřeno na osobní rovinu: moravská národnost, odmítnutí názvu „Česko"/„Čechie" — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026) → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md)
 - **19. 9.** — „Židé z USA" a Rothschildové jako záměrní strůjci rozvratu Evropy přes válku na Ukrajině — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 - **24. 9.** — Elity tolerují pedofilii, adrenochrom, kanibalismus a satanismus; von der Leyenová „by měla být popravena" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+- **12. 9.** — „Česko" od 2016 (Sobotka, Agenda 2030), Herman a „17. spolková republika"; 9/11 a „falešné záminky USA"; Trump mezi „Epsteinovými pedofily" — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - **27. 8.** — Pochvala projevu Petra Macinky k velvyslancům — pragmatismus místo „hodnotové politiky", i přes nesouhlas s tezí o Rusku jako agresorovi — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
@@ -198,6 +200,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 9.** — Hřib „rozkopat rypák", Rakušan „obojek a koule u nohy", Šebelová, LGBT, anonymní uživatel — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - **8. 9.** — ⚠️ „židáci, kteří by měli být vyhubeni"; ruská armáda má „odvézt" Pavla a Koláře; „rozkopat rypáky" majitelům chráněných dílen — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 - **11. 9.** — Fialova vláda — „tresty nejvyšší, z kriminálu nevylézt" (archiv 2022) — [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
+- **12. 9.** — Pavel a Kolář „šibenice", 5–6 členů Fialovy vlády „pověsit", Fauci „pomalé elektrické křeslo", Meeting Brno „za jisté doby se stříleli" — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 
 ---
 
@@ -368,6 +371,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Radim Fiala | ❌ negativní | Prodaná firma profitující z invalidů — „hyenismus" (posun od dřívější podpory) | 2026-09-08 | [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026) |
 | Rothschildové / „židé z Izraele" | ❌ negativní | Strůjci války — „měli by být vyhubeni" | 2026-09-08 | [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026) |
 | Petr Pavel | ❌ negativní | „Kretén na Hradě", větší hrozba než Rusko, „nebudu postrádat" | 2026-09-08 | [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026) |
+| Daniel Herman | ❌ negativní | „Kolaborant, zrádce" — „17. spolková republika" | 2026-09-12 | [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
+| Anthony Fauci | ❌ negativní | „Pomalé elektrické křeslo" | 2026-09-12 | [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
+| Donald Trump | ❌ negativní | Řazen mezi „Epsteinovy pedofily" | 2026-09-12 | [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
+| Boris Šťastný | ❌ negativní | Karenční doba — „bývalý ODSák" | 2026-09-12 | [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
 
 ---
 
@@ -431,3 +438,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 - [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
+- [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
