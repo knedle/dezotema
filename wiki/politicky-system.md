@@ -1364,6 +1364,17 @@ Sebe a kandidátku PRO staví do kontrastu s „kariérními politiky": jsou „
 
 ---
 
+### Beseda v Koloseu: obstrukce opozice, „nevolitelné" strany, kampaň za 2 tisíce a polovina platu na Rajchlův spolek (Tarabová, 1. 10. 2026)
+
+Na předvolební besedě v libereckém Koloseu (Rajchl nedorazil kvůli jednání sněmovny) Tarabová kritizuje opozici, která podle ní „nechutně obstruuje" a zneužívá sněmovnu ke komunální kampani, místo aby si „zametla před vlastním prahem" (Dozimetr, Kampelička, bitcoin, pražský dopravní podnik). STAN označuje za „zločinnou organizaci", ODS spojuje s bitcoinovou kauzou a „Stanjurovým šméčkem", TOP 09 s Dozimetrem, lidovcům upírá křesťanství a Piráty považuje za projekt evropských neziskovek — Hřib je podle ní „psychopat"; všechny označuje za „nevolitelné". Hejtman Martin Půta, kandidující do Senátu, by podle ní „už dávno měl sedět". Kritizuje vedení Liberce za „předražené betonové pomníky": Tržní náměstí za 63 mil. Kč (návrh PRO by prý stál 8 mil.), „nejdražší bazén v Evropě", zničené rododendrony na Masarykově třídě; k bydlení připomíná, že se v letech 1968–1992 postavilo 800 tisíc převážně družstevních bytů, a družstva chce podporovat. Sama slibuje, že jako primátorka věnuje polovinu platu (kolem 130 tisíc) nově založenému Rajchlovu spolku na pomoc nemocným a zbytek alternativním médiím; kampaň PRO prý stála „necelé 2 tisíce", zatímco Starostové měli 5 milionů. Popisuje i rozpad liberecké koalice: GEN (Tibor Batthyány, předseda Rivola) podepsal 4. 5. koalici s PRO a o čtyři dny později vydal článek „s extremistickou PRO nikdy, s dezinformátorkou Tarabovou nikdy"; Trikolóra prý odešla kvůli místům na kandidátce SPD. Rajchla označuje za „budoucího premiéra".
+
+> „Takhle se dá dělat politika. Když se dělá srdcem." — Lenka Tarabová
+
+**Zdroje:** [Tarabová — Beseda v Koloseu (1. 10. 2026)](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
+
+---
+
+
 ### Debatní spor s „Matějem z Tetína" — zpochybnění kompetence kritika rozpočtu (Rajchl, 9. 9. 2026)
 
 V televizní debatě reaguje Rajchl na kritiku svého rozpočtového hospodaření (SPD dle kritika nechtěla zvyšovat daně) protiútokem na osobu kritika — starostu obce Tetín, kterého oslovuje jako „Matěje". Odmítá, že by šlo o „strunu nenávisti", a argumentuje, že jde o legitimní poukázání na nekompetenci: kritik podle Rajchla „málem zbankrotoval" vlastní obec a rozpočet obce zachránila jen pomoc kraje — proto je dle něj „k smíchu", když ho právě tento člověk poučuje o státním rozpočtu. Debatu odmítá svést na téma dotace pro Tetín, kterou označuje za řádně vyúčtovanou a v souladu s běžným procesem.

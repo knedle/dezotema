@@ -31,6 +31,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - Léky na obezitu pro děti (Novo Nordisk/Wegovy, BlackRock) místo prevence — [Videoportál: Novo Nordisk (12. 6.)](../_zdroje.md#lenka-tarabová--videoportál-novo-nordisk-12-6-2026)
 - **30. 6.** — testy (Diana Bion Technologies) nevalidovány dle SÚKL, ~600 mimořádných opatření je „právně nulitních"; požaduje zákon a odškodnění; i senátní vyšetřování USA jde „špatným směrem" (nezpochybňuje infekční teorii) — [Videoportál: rozhovor s Pečénkou (30. 6.)](../_zdroje.md#lenka-tarabová--videoportál-rozhovor-s-patrikem-pečénkou-30-6-2026)
 - **8. 7.** — nárůst rakoviny dáván do souvislosti s covid vakcinací od 2021; zpochybnění mamografie jako bolestivé/nespolehlivé diagnostiky; rakovina jako „pouzdro na toxiny" (Dr. Cohen), kritika chemoterapie jako komerčního systému — [Videoportál: reakce na článek o rakovině (8. 7.)](../_zdroje.md#lenka-tarabová--videoportál-reakce-na-článek-o-rakovině-8-7-2026)
+- **1. 10.** — obhajoba Davidovy hvězdy („zachránili jsme spoustu životů"); „17 mil. úmrtí po vakcínách" = až 1,7 mld. — [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - Bagatelizace násilí na dětech — rodiče varující před ohrožením jsou systémem označováni za hysterické — [Bagatelizace násilí na dětech (4. 4.)](../_zdroje.md#lenka-tarabová--bagatelizace-násilí-na-dětech-4-4-2026)
@@ -41,6 +42,8 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - Petr Pavel „Spojené státy evropské" = zánik ČR; Ukrainizace společnosti — telefonní šmejdi (senioři), dávkový podvod, automatické vyhoštění pachatelů — [Nedělní živé vysílání (26. 4.)](../_zdroje.md#lenka-tarabová--nedělní-živé-vysílání-suverenita-migrace-bitcoin-kauza-26-4-2026)
 - Pavel = „panák"/„zelená guma"/hlásná trouba Koláře, nedůstojný úřadu (Ankara), 60% podpora vs. 80% proti euru; Zeman = „můj prezident"; prezidentský favorit Marek Vašut — [Rozhovor TV Česko (15. 6.)](../_zdroje.md#lenka-tarabová--rozhovor-tv-česko-prezidentský-úřad-15-6-2026)
 - Pavel a fotografování na F1 v Maďarsku jako „PR opičárny"; seznam nesplněných slibů (Kolář, blokování vlády, veto rozpočtu) — viz [petr-pavel.md](../petr-pavel.md) — [Videoportál (28. 7.)](../_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
+- **1. 10.** — Ukrajinci: 1,2 mil. podle cizinecké policie, „od nátury nejsou moc občany", revize městských bytů — [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) → [migrace.md](../migrace.md)
+- **4. 10.** — Landsmannschaft: „potomci zrůd" (→ [stoch. teror](../stochasticky-teror.md)) — [Tarabová — Videoportál: programový bod 12 — Landsmannschaft (4. 10. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bod-12-landsmanšaft-4-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice — prezentovaná Hvězdovská ulice patřila ve skutečnosti Ralsku, skutečná Hvězdovská v Mimoni zůstala neopravená — [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7.)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
@@ -67,6 +70,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - **16. 9.** — kritika Lukáše Hájka (Starostové pro LK) za nálepkování PRO/SPD jako „extremistů"; PRO kvůli tomu odstoupilo od „volebního tržiště" — [Videoportál 16. 9.](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026) → [volby-2026.md](../volby-2026.md#liberec--volební-tržiště-a-odmítnutí-spolupráce-s-pro-tarabová-16-9-2026)
 - **23. 9.** — komunální program bod 6: audit veřejných financí Liberce — rezerva města klesla z 1,27 mld. na 413 mil. Kč za dva roky, cíl snížit provozní náklady o 3–5 %, výroční zpráva „Kam jdou peníze Liberce?" — [Videoportál 23. 9.](../_zdroje.md#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026)
 - **26. 9.** — komunální program bod 7: kancelář ombudsmana pro Liberečany (bezplatné právní rady, mediace sousedských sporů); dříve ombudsmanka pro seniory — smlouva neprodloužena po protestu s Davidovou hvězdou („odebírání funkcí za názor"); „nejsme kariérní politici" — [Videoportál 26. 9.](../_zdroje.md#lenka-tarabová--videoportál-ombudsman-pro-liberečany-26-9-2026)
+- **1. 10.** — beseda v Koloseu: obstrukce opozice, „nevolitelné" strany (STAN „zločinná organizace", Hřib „psychopat"), Půta „měl sedět", kritika vedení Liberce (Tržní náměstí, bazén), polovina platu primátorky na Rajchlův spolek, kampaň za 2 tisíce, rozpad koalice s GEN; Rajchl „budoucí premiér" — [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) → [volby-2026.md](../volby-2026.md)
 
 ---
 
@@ -108,6 +112,11 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Soňa Peková | ⚖️ rozporuplný | Uznává její vědeckou práci, ale i formální pochybení (podjatost) — odmítá výklad, že by odebrání razítka zpochybnilo její odbornost | 2026-08-20 | [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026) |
 | Jindřich Rajchl | ❌ negativní | Nový řádek: jeho seminář v PS ke covidu hodnotí jako „hrané divadlo" bez upřímné snahy cokoli odhalit | 2026-08-20 | [Videoportál 20. 8.](../_zdroje.md#lenka-tarabová--videoportál-kauza-peková-zlatý-věk-20-8-2026) |
 | Lukáš Hájek | ❌ negativní | Lídr Starostů pro Liberecký kraj — arogantní vystupování, nálepkoval PRO a SPD jako „extremistické strany" šířící strach a nenávist, aniž by se s Tarabovou kdy setkal | 2026-09-16 | [Videoportál 16. 9.](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026) |
+| Jindřich Rajchl | ✅ pozitivní | „Budoucí premiér"; polovina platu primátorky na jeho spolek | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| Zdeněk Hřib | ❌ negativní | „Psychopat" | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| Martin Půta | ❌ negativní | „Už dávno měl sedět", kandidatura do Senátu jako útěk | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| Tibor Batthyány / GEN | ❌ negativní | Vypověděl koalici s PRO kvůli Tarabové | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| Petr Král (starosta Mimoně) | ✅ pozitivní | Vzorný starosta s vyrovnaným rozpočtem | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 
 ---
 
@@ -147,3 +156,5 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: volební tržiště (16. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026)
 - [Videoportál: veřejné finance Liberce (23. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026)
 - [Videoportál: ombudsman pro Liberečany (26. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-ombudsman-pro-liberečany-26-9-2026)
+- [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
+- [Tarabová — Videoportál: programový bod 12 — Landsmannschaft (4. 10. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bod-12-landsmanšaft-4-10-2026)

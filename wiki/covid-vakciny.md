@@ -807,6 +807,16 @@ Zítko tvrdí, že ČR byla „díky mé trošce" první ze 43 zemí v počtu li
 
 ---
 
+### Tarabová: Davidova hvězda „zachránila spoustu životů"; „17 milionů úmrtí po vakcínách" = až 1,7 miliardy (1. 10. 2026)
+
+Na besedě v Koloseu Tarabová obhajuje svou akci s Davidovou hvězdou a nápisem „neočkovaný": šlo podle ní o jediný způsob, jak „zbořit mýtus systému", když neměli přístup do médií, a „zachránili jsme spoustu životů"; připomíná, že ODS v roce 2017 použila Davidovu hvězdu s nápisem EET „a nikomu to nevadilo". Tvrdí, že národní systémy hlášení nežádoucích účinků (SÚKL, VAERS aj.) evidují 17 milionů úmrtí po covidových vakcínách; protože se podle ní hlásí jen 1–10 % případů, jde o „170 milionů až 1,7 miliardy možných příčin úmrtí po vakcínách". Odvolává se na Mezinárodní úmluvu o lidských právech a biomedicíně (právo rozhodnout o vlastním těle) a věří, že se to jednou prošetří i v ČR.
+
+> „Mnozí mi dneska říkají, po bitvě každý generál, tak jim opakuju, že já jsem byla generálem před bitvou." — Lenka Tarabová
+
+**Zdroje:** [Tarabová — Beseda v Koloseu (1. 10. 2026)](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
+
+---
+
 ### Holandský soud: mRNA vakcíny označeny za biologické zbraně — ČsTV2 (7. 5. 2026)
 
 ČsTV2 ve vysílání 7. 5. 2026 cituje soudní případ vedený advokátem Pietrem Stassenem v Nizozemsku. Soud prý poprvé v historii projednává svědectví, že mRNA vakcíny jsou biologické zbraně, nikoliv léky. Žalovaní jsou Bill Gates, Albert Bourla (ředitel Pfizer) a Mark Rutte (former premiér Holandska, nyní generální tajemník NATO). Soud prý nařídil Gatesovi a Bourlovi, aby se dostavili a odpověděli.

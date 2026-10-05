@@ -24,6 +24,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Lenka Tarabová — Jindřich Rajchl bude premiérem (1. 10. 2026)
+
+**Předpověď:** Jindřich Rajchl se stane premiérem České republiky.
+
+> „Jindra je budoucím premiérem. Zapište si to za uši." — Lenka Tarabová
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Tarabová — Beseda v Koloseu (1. 10. 2026)](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
+
+---
+
 ### Ladislav Vrabel — konflikt NATO–Rusko je nevyhnutelný, může začít „každým dnem" (27. 9. 2026)
 
 **Předpověď:** Přímý konflikt NATO s Ruskem je nevyhnutelný a může začít „každým dnem" — sporným narušením vzdušného prostoru a sestřelem, po němž do dvou hodin přijde stav ohrožení, článek 5 a zavřené hranice.

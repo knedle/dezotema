@@ -22,6 +22,10 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | Ivana Turková, Jan Bittner (Litvínov) | ✅ pozitivní | Jiří Černohorský | Kampaň „měla úroveň" | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
 | SPD | ⚖️ rozporuplný | Jiří Černohorský | Sám ji volí, ale klip s tlačením dodávky (Rajchl, Foldyna) je „trapný"; kritika za podporu zbrojení Ukrajiny | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
 | Restart pro Brno (Brno-střed) | ✅ pozitivní | Jiří Černohorský | Sám kandiduje na 3. místě | 2026-09-24 | [Facebook Live 24. 9.](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) |
+| STAN / Starostové pro Liberecký kraj | ❌ negativní | Lenka Tarabová | „Zločinná organizace", „nevolitelní"; kampaň za 5 milionů | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| ODS, TOP 09, KDU-ČSL, Piráti | ❌ negativní | Lenka Tarabová | „Nevolitelní" — bitcoin, Dozimetr, falešné křesťanství, projekt neziskovek; Hřib „psychopat" | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| Martin Půta (Senát – Česká Lípa) | ❌ negativní | Lenka Tarabová | 12 let hejtmanem, chce se „uklidit do Senátu", „už dávno měl sedět" | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| GEN (Tibor Batthyány) | ❌ negativní | Lenka Tarabová | Podepsal koalici s PRO a za 4 dny ji vypověděl („s dezinformátorkou Tarabovou nikdy") | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
@@ -52,6 +56,14 @@ Rajchl vyzývá k podpoře čtyř senátních kandidátů: Milana Lopraise (Ostr
 Rajchl vyzývá k podpoře 110 komunálních kandidátek PRO (jmenuje Šanci pro Tábor, Pro Havířov s Martinem Garou a libereckou kandidátku s Lenkou Tarabovou) a varuje před záměnou — „Pro Plzeň" s PRO podle něj nemá nic společného, jde o „pohrobky ODS". Komunální politika je podle něj až na výjimky o velkých zakázkách, ze kterých se dá „co nejvíc vratek vrátit do vlastní kapsy" — například za povolení větrných elektráren od „baronů", kteří chtějí „hyzdit krajinu"; lidé PRO podle něj pro větrníky nikdy hlasovat nebudou. V Chomutově kandiduje PRO v koalici s SPD, Svobodnými, Trikolórou i Motoristy a podle průzkumů má 17–20 %, tedy šanci být druhou nejsilnější silou po ANO. Ohlašuje předvolební turné včetně společné debaty s Milošem Zemanem v Chomutově.
 
 **Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+
+---
+
+### Liberec — beseda v Koloseu: rozpad koalice s GEN, „nevolitelné" strany (Tarabová, 1. 10. 2026)
+
+Tarabová popisuje, že chtěla v Liberci vytvořit silnou „čtvrtou nohu" koalice konzervativních stran: ze sedmi oslovených (SPD, Motoristé, PRO, Svobodní, Trikolóra, GEN, Volt) zbyly tři, a když GEN po podpisu koalice 4. 5. vydal článek „s extremistickou PRO nikdy, s dezinformátorkou Tarabovou nikdy", tým PRO odmítl jít dál bez ní a postavil vlastní kandidátku (číslo 3). STAN, ODS, TOP 09, KDU-ČSL a Piráty označuje za „nevolitelné", senátnímu kandidátovi Martinu Půtovi přeje, aby neuspěl. Podrobněji viz [politicky-system.md](politicky-system.md#beseda-v-koloseu-obstrukce-opozice-nevolitelné-strany-kampaň-za-2-tisíce-a-polovina-platu-na-rajchlův-spolek-tarabová-1-10-2026).
+
+**Zdroje:** [Tarabová — Beseda v Koloseu (1. 10. 2026)](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
 
 ---
 

@@ -5149,3 +5149,19 @@
 - **URL:** <https://www.facebook.com/100063460865205/videos/1070501685862788>
 - **Datum záznamu:** 2026-10-05
 - **Zpracováno:** ano
+
+## Lenka Tarabová — Beseda v Koloseu (1. 10. 2026) {#lenka-tarabová--beseda-koloseum-1-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-02_Lenka-Tarabová_21K-views-78-reactions-VELMI-DĚKUJI-ZA-ZPĚTNOU-VAZBU-Ž.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1416342579859153&_rdr>
+- **Datum záznamu:** 2026-10-01
+- **Zpracováno:** ano
+- **Poznámka:** Předvolební beseda PRO Liberec v MCU Koloseum (vysíláno 1. 10., soubor nese datum 2. 10.).
+
+## Lenka Tarabová — Videoportál: programový bod 12 — Landsmannschaft (4. 10. 2026) {#lenka-tarabová--videoportál-bod-12-landsmanšaft-4-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-04_Lenka-Tarabová_PRO-PRÁVO-RESPEKT-ODBORNOST-Programový-bod-PRO-Liberec.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1059916960251285&_rdr>
+- **Datum záznamu:** 2026-10-04
+- **Zpracováno:** ano
+- **Poznámka:** Zpracován jen výrok do stochastického teroru; programový bod sám uživatel nevybral.

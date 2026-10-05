@@ -791,3 +791,11 @@ K útoku nožem v klášteře v polském Jarosławi, který spáchal 31letý Ukr
 K zatčení muže, který propíchl prázdný člun migrantů (hrozí mu 10 let), Vrabel tvrdí, že britští protestující brání tomu, aby „původní obyvatelstvo bylo nahrazeno přistěhovalci", a policie pomáhá migrantům protesty rozbíjet. V Británii je podle něj už pozdě: migranti mají občanství a nelze je deportovat, „jediný, k čemu může dojít, je občanská válka, jinak se těch lidí nemůžou zbavit". ČR má podle něj ještě šanci „pomoct" asi 2 milionům Ukrajinců vrátit se domů („nebudu říkat se těch lidí zbavit, protože to by hnusně znělo") a vystoupit z EU a migračního paktu, dokud je otevřené „Overtonovo okno" — pak prý demonstranty čeká obušek a vězení jako v Katalánsku. Pilířem EU je podle něj „zlikvidovat národní stát".
 
 **Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+
+---
+
+### Ukrajinci v Liberci: „1,2 milionu podle cizinecké policie", revize městských bytů (Tarabová, 1. 10. 2026)
+
+Tarabová tvrdí, že podle dat cizinecké policie žije v ČR 1,2 milionu Ukrajinců, výrazně víc než oficiální čísla. Ukrajincům nevyčítá, že „otevřenou náruč" využili, ale podle ní „od nátury nejsou moc občany, kteří by se zapojili do našeho žití" a většina lidí s tím má „velké problémy". Jako bývalá členka komise pro přidělování městských bytů se ptá, kde se pro ně najednou vzalo tolik bytů, když dřív bylo na jeden byt 30 zájemců; jako primátorka chce provést revizi přes neziskovky, městské byty, pracovní agentury a úřad práce a s klubem SPD „dotlačit" Babiše k řešení „ukrajinské krize". Téma podle svých slov nezařadila do programu, aby „nedráždila novináře".
+
+**Zdroje:** [Tarabová — Beseda v Koloseu (1. 10. 2026)](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
