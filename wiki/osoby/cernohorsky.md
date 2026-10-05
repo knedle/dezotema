@@ -171,6 +171,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 9.** — porodnost 77 200 (2025), z toho jen ~65 tis. „Čechů"; „vymřeme"; LGBT, „furries", očkování těhotných — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - **28. 9.** — kauza Vlasáková — jmenovitě škola, OSPOD, policista Bílý, soudkyně — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 - **2. 10.** — homofobní a sexistické výroky (Prague Pride, „ekofeministické krávy") — [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
+- **5. 10.** — kauza Vlasáková: nehoda způsobená „záměrně", šikana policie, „domluvená banda" na Příbramsku; spolek platí advokátku — [Facebook Live: kauza Vlasáková (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
@@ -463,3 +464,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
 - [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026)
 - [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
+- [Facebook Live: kauza Vlasáková (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026)

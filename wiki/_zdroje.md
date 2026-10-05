@@ -5234,3 +5234,10 @@
 - **URL:** <https://www.facebook.com/61553793793504/videos/1359155466293333>
 - **Datum záznamu:** 2026-10-02
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Facebook Live: kauza Vlasáková (5. 10. 2026) {#jiří-černohorský--facebook-live-5-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-05_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/4049683865335601>
+- **Datum záznamu:** 2026-10-05
+- **Zpracováno:** ano

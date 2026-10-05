@@ -140,7 +140,9 @@ Výrok na konci pasáže (lidé podílející se na této agendě „by potřebo
 
 **28. 9.** — Černohorský uvádí, že ho dva právníci „strašně zklamali", ale věc se „konečně daří posunout"; jmenovitě viní ředitelku a třídní učitelku, OSPOD, psychiatričku, policistu „pana Bílého", státní zástupkyni a soudkyni, která prý „sama sebe z podjatosti vyšetřovala" — „zatneme jim tipec".
 
-**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
+**5. 10.** — Spolek Čest Svoboda Respekt podle Černohorského sehnal Tereze Vlasákové advokátku (záloha 48 tisíc Kč z transparentního účtu). Popisuje novou událost: Vlasákovou prý záměrně nabourala partnerka jejího bývalého přítele („Varhanová"), která předtím volala policii, že jede bez řidičáku (ten byl podle Černohorského platný, jen uložený na úřadě); policie místo vyšetření nehody Vlasákovou „šikanovala", provedla „lízací" test na drogy a prohledala auto. Na Příbramsku (Dobříš, Příbram, Knín) podle něj funguje „domluvená banda" — státní zástupkyně je prý příbuzná jejího bývalého manžela, propojeni jsou OSPOD, škola, policista Bílý, GIBS a soud.
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Facebook Live: kauza Vlasáková (5. 10. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026)
 
 ---
 
