@@ -5197,3 +5197,11 @@
 - **Datum záznamu:** 2026-09-12
 - **Zpracováno:** ano
 - **Poznámka:** Starší vysílání stažené dodatečně (sync 5. 10.). Úsek 1:09–1:15 je předčítaný cizí slovenský text — nezpracován.
+
+## Jiří Černohorský — Videoportál: archivní projev „Scheiße Merkel" (23. 9. 2026) {#jiří-černohorský--videoportál-scheisse-merkel-23-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-23_Jiří-Černohorský_jedno-dávné-vzpomínkové-aneb-co-Václav-nikdy-neslyše.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1439793204727195>
+- **Datum záznamu:** 2026-09-23
+- **Zpracováno:** ano
+- **Poznámka:** Archivní demonstrační projev (pravděpodobně 2015), znovu zveřejněn 23. 9. 2026.

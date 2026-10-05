@@ -16,7 +16,9 @@ Jiří Černohorský popisuje, jak ho v roce 2015 „probudila" migrační vlna:
 
 **15. 9.** — Černohorský rozvádí stejný příběh vlastního „probuzení" v roce 2015 s dalšími konkrétními detaily: Frontex označuje za organizaci fungující jako „normální pirátská podpora" — neziskovku, která si nechává draze platit za dovážení migrantů do Evropy. O migrantech v Itálii mluví silně dehumanizujícím jazykem (→ [stochastický teror](stochasticky-teror.md)) a jako konkrétní příklad „bezpráví" uvádí incident, kdy italská policie zabavila majetek majiteli hotelu a donutila ho ubytovat migranty.
 
-**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026), [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+**23. 9. (archiv)** — Černohorský znovu zveřejňuje svůj starší demonstrační projev (zřejmě 2015): Amerika je podle něj „ďábel" s „pláštěm z lidské kůže", EU jeho „prodloužená ruka", která chce zlikvidovat východní Evropu; Merkelová je „lidská hyena", „minimálně stejná jako Hitler, ne-li horší", protože pozvala imigranty, kteří „vraždí, znásilňují" („obyčejná soloč"). Uprchlíkům se Sýrie s rodinami by pomohl, imigrantům ne; Sobotku označuje za „vlastizrádce" a vyzývá k odchodu z EU.
+
+**Zdroje:** [Černohorský — Reel „ne jednou to člověk vyslovil", 2026-05-25](_zdroje.md#jiří-černohorský--reel-ne-jednou-to-člověk-vyslovil-25-5-2026), [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026), [Černohorský — Videoportál: archivní projev „Scheiße Merkel" (23. 9. 2026)](_zdroje.md#jiří-černohorský--videoportál-scheisse-merkel-23-9-2026)
 
 ---
 

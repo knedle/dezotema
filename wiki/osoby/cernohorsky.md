@@ -176,6 +176,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **15. 9.** — Frontex jako „moderní pirátství"; dehumanizující líčení migrantů v Itálii a incident se zabaveným hotelem — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 - **22. 9.** — „Nemalá část" Ukrajinců v ČR vraždí a znásilňuje; 700 tis. Ukrajinců za 600 mil. Kč/měs. — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 - **5. 9.** — islamizace nevratná od 7–8 % muslimů; Merkelová „svině"; rasistický výrok o „pářit se s negrama" — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+- **23. 9.** — archivní projev „Scheiße Merkel": Amerika „ďábel", Merkelová „horší než Hitler", imigranti „soloč" — [Videoportál: archivní projev „Scheiße Merkel" (23. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-scheisse-merkel-23-9-2026)
 
 ### [Stochastický teror](../stochasticky-teror.md)
 - Pavel „adept na trest smrti pověšením" — [Návrat z bandovolené 2. 4. 2026](../_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026), [Videoportál 18. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-18-5-2026)
@@ -439,3 +440,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 - [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
 - [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
+- [Videoportál: archivní projev „Scheiße Merkel" (23. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-scheisse-merkel-23-9-2026)
