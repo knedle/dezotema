@@ -1,0 +1,29 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Restart Cesko
+URL:          https://www.facebook.com/61586055215179/videos/1783116323031245
+Datum videa:  2026-09-01
+Zpracováno:   2026-09-01 22:59:46
+Jazyk:        cs
+Délka:        00:00:20
+Zhlédnutí:    8 793
+Popis:        Očividně jsme těch 30 vteřin ani nepotřebovali. Neříkám, že to dělají všichni, ale bohužel nemáme způsob, jak zjistíme kdo co udělá, než si ho sem pustíme. Nemůžeme čekat, než se něco stane. Musíme to
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    0s
+Přepis:       5s
+Rychlost:     3.5x realtime
+Celkem:       5s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Důvodů, proč migrace v Evropě nefunguje do 30 vteřin.
+[00:03] Podání, znásilňování, okrádání lidí, zneužívání sociálních dávek a život v bordelu.
+[00:09] Kdo se mnou nesouhlasíte, stačí se podívat do Německa, Britány nebo France,
+[00:13] jak si tam ti lidé teďka museli žít, kvůli tomu, že si tam nekontrolovatelně
+[00:17] naimplementovali hromadu migrantů z cizích zemí.

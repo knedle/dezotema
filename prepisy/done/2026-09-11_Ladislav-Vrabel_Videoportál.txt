@@ -1,0 +1,35 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/2208647279993267
+Datum videa:  2026-09-11
+Zpracováno:   2026-09-12 12:22:24
+Jazyk:        cs
+Délka:        00:01:20
+Zhlédnutí:    31 678
+Popis:        Vidíte, přesně tady se vlastenci rozdělili na ty, kteří následují funkcionáře, který vymyslel, že písmeno Z na odznáčku má být trestné a ty, kteří bojují za svobodu slova.
+
+Je docela "vtipné", že Tomá
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       3s
+Rychlost:     21.1x realtime
+Celkem:       8s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] To už jim nevnácha, ne?
+[00:02] Já pojď, že jo.
+[00:12] To bylo za komošní, tak je teď zvládně.
+[00:14] Tak jenom, jak se to bude uvolnit?
+[00:30] Tam trefíš, máš se tam prostě hned hlajícíma, že jo?
+[00:32] Tam trefíš?
+[00:37] No, já jsem tam byl přijazdý, jo.
+[00:39] Já jsem tam byl přijazdý, jo.
+[00:44] Já jsem tam byl přijazdý, jo.

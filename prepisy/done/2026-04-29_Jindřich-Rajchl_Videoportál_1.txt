@@ -1,0 +1,30 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/1779268460080063
+Datum videa:  2026-04-29
+Zpracováno:   2026-05-01 16:01:02
+Jazyk:        cs
+Délka:        00:00:24
+Zhlédnutí:    66 297
+Popis:        Europoslanec Zdechovský se poněkud zamotal sám do sebe, když si v naší televizní debatě spletl spirály a vertikály.
+
+To je tak, když je pán suterén a používá tyhle cizí termity, kterým vůbec nerozumí.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    3s
+Přepis:       4s
+Rychlost:     6.0x realtime
+Celkem:       8s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Na europoslance Zdechovského, jestli by přijali takový krok, jako vznik evropského superstátu,
+[00:06] třeba ostatní členové Evropské unie, jestli se třeba na půdě Evropského parlamentu nevede debata
+[00:13] o možném vzniku nějakého podobného uskupení?
+[00:18] Debata se vede v různých spirálách, teďka zrovna se ta debata intenzivně nevede.
