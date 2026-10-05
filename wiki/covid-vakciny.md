@@ -817,6 +817,14 @@ Na besedě v Koloseu Tarabová obhajuje svou akci s Davidovou hvězdou a nápise
 
 ---
 
+### Ebola v Kongu a příští pandemie „střevní mikroflóry"; Vojtěch a „kde by měl být trest smrti" (Vrabel, 3. 10. 2026)
+
+K epidemii eboly v Kongu (přes 4 000 mrtvých) Vrabel doporučuje „zachraň se, kdo můžeš" — odlehlé místo pro případ lockdownů, na které jsou Vojtěch a Babiš „natrénovaní". Cituje „kamaráda" dr. Heiko Schöninga, podle něhož bude další pandemie v oblasti „střevní mikroflóry" s „mRNA antibiotiky", a Gatesův výrok „ne jestli, ale kdy". Připomíná, že Adam Vojtěch označil za „čest" převoz amerického pacienta s podezřením na ebolu, a ptá se, jaký trest by měl dostat člověk, který do země dovezl někoho s nemocí, „která může vyhubit Českou republiku" — „kde by měl být ten trest smrti".
+
+**Zdroje:** [Vrabel — Večerní zprávy 3. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
+
+---
+
 ### Holandský soud: mRNA vakcíny označeny za biologické zbraně — ČsTV2 (7. 5. 2026)
 
 ČsTV2 ve vysílání 7. 5. 2026 cituje soudní případ vedený advokátem Pietrem Stassenem v Nizozemsku. Soud prý poprvé v historii projednává svědectví, že mRNA vakcíny jsou biologické zbraně, nikoliv léky. Žalovaní jsou Bill Gates, Albert Bourla (ředitel Pfizer) a Mark Rutte (former premiér Holandska, nyní generální tajemník NATO). Soud prý nařídil Gatesovi a Bourlovi, aby se dostavili a odpověděli.

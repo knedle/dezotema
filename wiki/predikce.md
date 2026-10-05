@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Katka Blahníková bude do 15 dnů odsouzena na půl roku podmíněně; po vyčerpání rezerv ropa ještě zdraží (3. 10. 2026)
+
+**Předpověď:** Zatčená účastnice shromáždění bude do 15 dnů odsouzena samosoudcem k šesti měsícům podmíněně na rok a půl; po uvolnění strategických rezerv G7 a amerických volbách cena ropy vzroste „ještě víc".
+
+> „My samozřejmě odhadujeme, že dostane půl roku vězení s rokem a půl podmínkou." — Ladislav Vrabel
+
+**Horizont:** do ~18. 10. 2026; zima 2026/27
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Večerní zprávy 3. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
+
+---
+
 ### Pavel Zítko — bezpodmínečná kapitulace Ukrajiny a vojenské stanné právo s trestem smrti (2. 10. 2026)
 
 **Předpověď:** Rudá armáda je „velmi blízko Kyjeva" a vše se „řítí k bezpodmínečné kapitulaci" Ukrajiny, po níž o hranicích (včetně Československa) rozhodnou „vítězné mocnosti"; „až nastane čas", bude aktivováno vojenské stanné právo, které bude soudit i covid zločince, včetně trestu smrti.

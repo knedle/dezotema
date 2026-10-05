@@ -5297,3 +5297,11 @@
 - **Datum záznamu:** 2026-10-02
 - **Zpracováno:** ano
 - **Poznámka:** Vysíláno z pražského hotelu; mezera ~30 s kolem [11:16].
+
+## Ladislav Vrabel — Večerní zprávy 3. 10. 2026 {#ladislav-vrabel--večerní-zprávy-3-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-03_Ladislav-Vrabel_3-10-2026-Večerní-zprávy-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/3101007396764615>
+- **Datum záznamu:** 2026-10-03
+- **Zpracováno:** ano
+- **Poznámka:** Vysíláno z pražského hotelu po shromáždění 3. 10.; bez obrazových podkladů.

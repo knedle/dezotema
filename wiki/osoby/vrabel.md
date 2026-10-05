@@ -923,6 +923,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [COVID a vakcíny](../covid-vakciny.md) (pokrač. 2)
 - **31. 8.** — 41 mil. dávek vakcín, 18 mil. zlikvidováno za ~8 mld. Kč; zamlčené nežádoucí účinky jako „úmyslné zabití" — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
+- **3. 10.** — ebola a příští pandemie; Vojtěch — „kde by měl být trest smrti" — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 9)
 - **31. 8.** — Friedrich Merz jako „nový Hitler" řízený BlackRockem — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
@@ -1224,6 +1225,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **25. 9.** — Pavel „psychopat, který chce všude rozdávat jaderné zbraně"; ochuzený uran v Srbsku — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - **27. 9.** — Mrtvá ruka a povolení velitelům k odvetě; francouzský deštník přivezou až v nejhorší chvíli — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - **2. 10.** — Babiš a francouzský deštník — alegorie Ferdy Mravence „sežrat" — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
+- **3. 10.** — shromáždění 3. 10.: tři výzvy (žádné jaderné zbraně, vyjednavač míru, stop zbraním na Ukrajinu) — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1262,6 +1264,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - **23. 9.** — Krym ruský (Chruščov, referendum, Charta OSN), Ukrajina „měla přestat existovat"; TCK — „Ukrajinci budou Ukrajince střílet", hrozí i ČR — [Zprávy v devět 23. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+- **3. 10.** — Zelenskému „věří nula procent", relativizace Buči — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1771,6 +1774,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Petr Bystroň | ✅ pozitivní | „Kamarád", oběť falešných akcí tajných služeb | 2026-10-01 | [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026) |
 | Donald Trump | ❌ negativní | „Velmi nepovedený prezident", možná dvojník (dříve ✅) | 2026-10-02 | [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026) |
 | Ivan David | ✅ pozitivní | Jezdí do Srbska EU „rozbíjet" | 2026-10-02 | [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026) |
+| Adam Vojtěch | ❌ negativní | Převoz pacienta s podezřením na ebolu jako „čest" — sugesce trestu smrti | 2026-10-03 | [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026) |
+| Heiko Schöning | ✅ pozitivní | „Kamarád", varuje před pandemií střevní mikroflóry | 2026-10-03 | [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026) |
 
 ---
 
@@ -1927,3 +1932,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 - [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
 - [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
+- [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)

@@ -1193,3 +1193,11 @@ Volodymyr Zelenskyj oznámil, že schválil nové operace dlouhého doletu v rea
 ⚡ **Poznámka:** Teze, že hluboké ukrajinské údery jsou záměrnou snahou vyprovokovat širší válku Rusko–Evropa, je Vrabelova vlastní spekulace.
 
 **Zdroje:** [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+
+---
+
+### Zelenskému „věřím nula procent" — Rusko šetří civilisty; relativizace Buči; NATO v Bělehradě 1999 jako „váleční zločinci" (Vrabel, 3. 10. 2026)
+
+K Zelenského dokumentům o ruských útocích na školy a nemocnice Vrabel říká, že mu „věří nula procent" — je to „nevolený prezident, v podstatě diktátor"; Rusko by podle něj Ukrajinu dobylo za měsíc, ale postupuje pomalu, aby šetřilo civilisty, a místní se podle něj cítí „osvobozeni". Naopak USA, NATO a Ukrajině by útoky na školy věřil — NATO v roce 1999 v Bělehradě bombardovalo rafinerii, rozhlas a dětské oddělení nemocnice: „takže my jsme zločinci, váleční". K Buči říká, že „nechce popírat genocidu", dokud ji nevyšetří nezávislý orgán se všemi stranami, a zmiňuje svědectví o vyhazování mrtvol z kamionu. Případný útok KLDR na ČR by podle něj byl děsivý — „to nejsou Slovani, ty s námi nebudou soucítit vůbec".
+
+**Zdroje:** [Vrabel — Večerní zprávy 3. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)

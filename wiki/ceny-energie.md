@@ -158,7 +158,9 @@ K Ficově žádosti o mimořádný summit EU kvůli cenám nafty (téměř 3 EUR
 
 **2. 10.** — K polské dani z mimořádných zisků palivářů a Trumpově výzvě, aby Evropa uvolnila zásoby nafty, Vrabel tvrdí, že Evropa vyčerpá rezervy kvůli Trumpovým volbám a pak „si nechají tu ropu v Americe a Evropa bude mrznout" — za čas se prý „autem zajezdíte, jenom když se domluvíte se sousedy". Jediné řešení je levná ruská ropa přes Družbu, kde „není prostor pro úplatky"; skutečným cílem západní „byznys kliky" je vzít Rusku obchod a „napálit nám 4×, 5× takové ceny", a zároveň likvidovat ropu kvůli Green Dealu, „abychom jezdili na kole".
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Zprávy v devět 2. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
+**3. 10.** — Uvolnění až 100 milionů barelů ze strategických rezerv G7 je podle Vrabela „úlitba Trumpovi" před volbami: po vyčerpání rezerv cena vzroste „ještě víc" a USA přestanou dodávat. Spekuluje, že uzavření Hormuzu a Bab al-Mandab i útoky na ropnou infrastrukturu po světě (Maďarsko, Rumunsko, USA, Austrálie) jsou „schválně" kvůli Green Dealu; konflikt mají řešit Rada bezpečnosti OSN, ne „kriminálníci", kteří „aby prodali víc zbraní, rozpoutají třetí světovou válku".
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Zprávy v devět 2. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026), [Vrabel — Večerní zprávy 3. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 
 ---
 
