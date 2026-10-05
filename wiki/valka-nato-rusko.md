@@ -1473,3 +1473,13 @@ Vrabel tvrdí, že Evropa jde „s 99% jistotou" do války: narativ narušován�
 > „Ono to vypadá, že jdeme do války, prostě podle mě 99% jistota, že Evropa jde do války." — Ladislav Vrabel
 
 **Zdroje:** [Vrabel — Zprávy v devět 30. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
+
+---
+
+### Rusko by mělo „právo" na proxy útoky na území EU v rámci reciprocity; tajné služby „banda amatérů" (Vrabel, 1. 10. 2026)
+
+K jednání Rady EU o hybridních hrozbách a k Rutteho návrhu žádat po Rusku náhradu Vrabel tvrdí, že nezná „ani jeden" prokázaný ruský útok (včetně Vrbětic a Lipska) a tajné služby jsou „banda amatérů, která na objednávku dělá politiku a válečnou propagandu" i falešné akce proti němu a Petru Bystroňovi. Při recipročním přístupu by podle něj Rusko mělo „naprosto jednoznačně právo na to, aby někdo útočil na území Evropské unie ruskými zbraněmi, kdyby si našli nějaký proxy" — tak jako Západ podporuje útoky na Rusko. Rozkol USA–EU je podle něj záměrný, aby „Evropská unie šla do války sama". Nucená renovace budov a daně z nemovitostí mají podle něj donutit Čechy (70 % vlastní bydlení) prodat domy „Hansovi a Johnovi", protože „Evropa potřebuje peníze na válku".
+
+> „Rusko by mělo v rámci reciprocity naprosto jednoznačně právo na to, aby třeba někdo útočil na území Evropské unie ruskýma zbraněma. Kdyby si našli nějaký proxy." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)

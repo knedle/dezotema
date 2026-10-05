@@ -811,3 +811,13 @@ Tarabová tvrdí, že podle dat cizinecké policie žije v ČR 1,2 milionu Ukraj
 Černohorský tvrdí, že imigraci do Evropy „přitáhla Merkelová, tahle ta svině" a pokračuje v ní von der Leyenová; jakmile podíl muslimů v zemi překročí 7–8 %, je stav podle něj „nezvratný". Zmiňuje nožový útok migranta v Plzni či Příbrami a v rasistickém výroku varuje, že se „naše ženský [...] budou pářit s negrama".
 
 **Zdroje:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+
+---
+
+### Migraci 2015 jsme zastavili my, „ne Okamura, který se na tom napakoval"; mešita učí „jak bít ženu"; migrační pakt od 2027 (Vrabel, 1. 10. 2026)
+
+K protimigračním protestům v Irsku Vrabel připomíná, že migraci v letech 2015–2016 v ČR zastavil s Martinem Konvičkou, Jiřím Bartákem a dalšími — „ne díky Okamurovi, který se na tom napakoval". Ve Vídni prý vidí „samý alláhisty", v pražské mešitě prý v pořadu „Já muslim" učili, „jak bít ženu, aby to nebylo vidět", a protesty ve Francii podle něj vždy „převezmou muslimové" a skončí pálením aut. Migrační pakt je podle čl. 10 Ústavy závazný a od roku 2027 začnou do ČR přerozdělovat migranty; výjimku máme jen díky „ukrajinizaci ČR". Volbu vlády v roce 2025 označuje za „obrovskou chybu" — Babiš podle něj porušil všechny sliby včetně neposílání vojáků („dvě brigády"). Navracení migrantů EU je podle něj dvojí metr: deportují pracujícího Srba bez jízdenky, zatímco ti, kdo „s nožem běhají a křičí, že bůh je velký", dostanou léčbu a další šanci.
+
+> „Nepodařilo se to kvůli takovým lidem, jako je Tomio Okamura. Ti se na tom jenom napakovali." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)

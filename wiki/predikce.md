@@ -24,6 +24,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — energetické lockdowny „letos v zimě"; přerozdělování migrantů od 2027 (1. 10. 2026)
+
+**Předpověď:** V zimě 2026/27 přijdou v Evropě „energetické lockdowny"; od roku 2027 začne podle migračního paktu přerozdělování migrantů do ČR.
+
+> „Myslím si, že už letos v zimě zažijeme nějaké energetické lockdowny [...] To si myslím, že bude letos v zimě." — Ladislav Vrabel
+
+**Horizont:** zima 2026/27; 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+
+---
+
 ### Lenka Tarabová — Jindřich Rajchl bude premiérem (1. 10. 2026)
 
 **Předpověď:** Jindřich Rajchl se stane premiérem České republiky.

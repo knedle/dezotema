@@ -593,6 +593,16 @@ Vrabel tvrdí, že lidem připadá normální, že „nám sypou červy rozemlet
 
 ---
 
+### Novela VZP jako „korporátní fašismus"; elity chtějí „zlatou půl miliardu" — covid a náhlá úmrtí jako „předvoj" (Vrabel, 1. 10. 2026)
+
+K novele zdravotního pojištění ministra Vojtěcha Vrabel tvrdí, že jde o „korporátní fašismus" podle WEF: propojení veřejného a soukromého, v němž korporace řídí svět a politici jsou jejich „náměstci"; malé nemocnice zaniknou a přijde centralizace, „15minutová města", kamery a AI. Elity podle něj chtějí, aby na světě zůstala „maximálně 1,5, ale nejlépe 0,5 miliardy" lidí („zlatá půl miliarda") — covid, náhlá úmrtí a ztráta plodnosti „mohly být jenom takový malý předvoj"; energetická krize je „vyvolaná uměle" (Green Deal, války) a letos v zimě podle něj přijdou „energetické lockdowny". Chemtrails nad Rakouskem kontrastuje s modrou oblohou v Srbsku.
+
+> „To, co jsme tady měli v covidu, a to, že dneska lidi umírají na náhlá úmrtí nebo ztrácí plodnost, tak to mohlo být jenom takový jako malý předvoj." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+
+---
+
 ### Světu vládne Satan — společný kult za všemi náboženstvími a vládami; angličtina jako „čarodějnický jazyk" (Boldy, 7. 7. 2026)
 
 Boldy tvrdí, že světu nevládne Bůh, ale Satan — argumentuje tím, že napříč různými náboženstvími se všechny politické strany a vlády světa scházejí u jednoho společného kultu, který spojuje se jmény „Saturn", „Satan" a „Black Cube". Tuto tezi propojuje s tvrzením, že angličtina je „čarodějnický jazyk" — jeho celosvětová dominance má podle něj souviset právě s touto vládou Saturna/Satana.

@@ -450,6 +450,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - „Chazarští bankéři"/Fed jako skuteční vládci nad politiky a válkami — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **25. 9.** — 1 % vlastní 93 % světa, covid jako přesun majetku; Trump „nepracuje pro USA" — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - **27. 9.** — jídlo jako otrava (červi, fluor, GMO), ovlivňování počasí; „Trump nepracuje pro USA", BlackRock a sionismus — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+- **1. 10.** — novela VZP = „korporátní fašismus", „zlatá půl miliarda", covid jako „předvoj" — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
 
 ### [Migrace](../migrace.md)
 - Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -1254,6 +1255,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **25. 9.** — Jarosław a „pravidlo satanismu"; Dover a rasistické glosy — [Zprávy v devět 25. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-9-2026)
 - **26. 9.** — Británie — „jediné řešení občanská válka"; ČR má šanci „pomoct" 2 mil. Ukrajinců vrátit se — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - **4. 10.** — „Česká Ukrajina" — Praha česko-ukrajinské město, náhrada Ukrajinců migranty — [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+- **1. 10.** — migraci 2015 zastavil s Konvičkou, „ne Okamura, který se napakoval"; migrační pakt od 2027 — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1272,6 +1274,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **26. 9.** — „až se obr ožene" — Západ ČR obětuje; Rusko se bude muset pustit do konfliktu; ⚡ válka by byla dlouhá; posun postoje k Číně — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - **27. 9.** — ČR „nepřiznaný protivník", konflikt nevyhnutelný, scénář „za dvě hodiny čl. 5"; diverzifikace = příprava zničení ruské ropné infrastruktury — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - **30. 9.** — „99% jistota" války, teorie úderu 1000–1500 letadel, ČR doma „beránek" — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
+- **1. 10.** — Rusko by mělo „právo" na proxy útoky na EU; tajné služby „banda amatérů" — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
 
 ---
 
@@ -1760,6 +1763,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Kateřina Blahníková | ✅ pozitivní | Zatčena za „Z" — „rodina hnutí" | 2026-10-04 | [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026) |
 | Jindřich Rajchl | ❌ negativní | „Ukradl sílu Václaváku, aby ji postavil proti Rusku" | 2026-09-30 | [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026) |
 | Kateřina Konečná | ❌ negativní | Prodala domy KSČM na kampaň, Stačilo! jako zástěrka | 2026-09-30 | [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026) |
+| Tomio Okamura | ❌ negativní | „Napakoval se" na boji proti migraci | 2026-10-01 | [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026) |
+| Martin Konvička | ✅ pozitivní | Spolu zastavili migraci 2015–16 | 2026-10-01 | [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026) |
+| Petr Bystroň | ✅ pozitivní | „Kamarád", oběť falešných akcí tajných služeb | 2026-10-01 | [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026) |
 
 ---
 
@@ -1914,3 +1920,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live: před policejní stanicí (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--facebook-live-před-policejní-stanicí-3-10-2026)
 - [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 - [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
+- [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)

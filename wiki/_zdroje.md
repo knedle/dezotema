@@ -5281,3 +5281,11 @@
 - **Datum záznamu:** 2026-09-30
 - **Zpracováno:** ano
 - **Poznámka:** Vysíláno z benzínky na srbsko-maďarské hranici; vstup T. Hrdličky [46:41–49:27], klip PRO [44:28–46:06].
+
+## Ladislav Vrabel — Zprávy v devět 1. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-1-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-01_Ladislav-Vrabel_1-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/28983218671313480>
+- **Datum záznamu:** 2026-10-01
+- **Zpracováno:** ano
+- **Poznámka:** Vysíláno z Českého Krumlova; výpadek audia [16:53–17:23].
