@@ -152,6 +152,16 @@ Rajchl tvrdí, že ČR by mohla být jednou z nejbohatších zemí Evropy, ale �
 
 ---
 
+### Výročí Mnichovské zrady — Západ by nás obětoval znovu; spoléhat jen na sebe (Rajchl, 30. 9. 2026)
+
+K výročí Mnichovské dohody Rajchl kritizuje „ohlušující ticho" ČT a Seznamu: připomínka, že nás Západ v roce 1938 „prodal za zlámanou grešli" Hitlerovi navzdory spojenecké smlouvě s Francií („takové malé bilaterální NATO"), se podle něj nehodí „probruselským médiím hlásajícím jednotu NATO". Dnes by to podle něj dopadlo stejně — kvůli ČR by nikdo jadernou válku nezahájil, „jen by nás hodili pod kola". Vyzývá spoléhat se jen na sebe: „nikde v Paříži, v Londýně, v Berlíně, ve Washingtonu, v Moskvě, v Pekingu a už vůbec ne v Bruselu" nevstává politik s myšlenkou pomoci ČR.
+
+> „Jediná ruka, která vám ve finále pomůže, je ta na konci vašeho ramene." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Videoportál: výročí Mnichovské zrady (30. 9. 2026)](_zdroje.md#jindřich-rajchl--videoportál-mnichovská-zrada-30-9-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"
@@ -430,7 +440,9 @@ Rajchl rozšiřuje svou kritiku emisních povolenek (viz [Emisní povolenky: ČR
 
 **27. 9.** — Rajchl upřesňuje historii: emisní povolenky měly být původně zavedeny jako ekologická daň s fixní cenou; teprve investiční a důchodové fondy svým kapitálovým vlivem přesvědčily evropské politiky, aby z nich udělali cenný papír, čímž cenu vyhnaly do „neuvěřitelných úrovní" (ETS1 dle něj 81 €, ETS2 71 €). Green Deal podle něj nelze „upravovat ani změkčovat" — je potřeba ho zrušit a přiznat si, že byl lží.
 
-**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+**4. 10. (Partie)** — Rajchl označuje Green Deal za „chobotnici, která škrtí evropskou ekonomiku" — jako by sprinter na olympiádě „dobrovolně nasadil pouta na nohy" — a emisní povolenky za jeho „nejsilnější chapadlo". Srovnává ceny povolenek (EU 84 €, USA 27 €, Čína 12 €) a jejich nárůst o 355 % a tvrdí, že Češi platí na hlavu nejvíc (Švédové asi 230 Kč, Němci přes 380 Kč, Češi 7 000 Kč ročně) — „platíme za to, že jim dodáváme elektřinu", bez níž by Německo bylo „v blackoutu každý druhý den". Zrušit to podle něj nejde, protože německé investiční a penzijní fondy mají vsazeno do futures, forwardů a derivátů — „je to okrádací model".
+
+**Zdroje:** [Rajchl — FB Live, 7. 6. 2026](_zdroje.md#jindřich-rajchl--fb-live-7-6-2026), [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Partie: Green Deal jako zlodějina (4. 10. 2026)](_zdroje.md#jindřich-rajchl--partie-green-deal-4-10-2026)
 
 ---
 

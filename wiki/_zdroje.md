@@ -5114,3 +5114,38 @@
 - **Datum záznamu:** 2026-10-02
 - **Zpracováno:** ano
 - **Poznámka:** Soubor nese datum stažení; vysíláno 2. 10. 2026. Velká část je předčítání cizích textů (Lička, Jílková, Avdičová, Wallace, Chambers).
+
+## Jindřich Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026) {#jindřich-rajchl--prima-slovák-ods-29-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-29_Jindřich-Rajchl_189K-views-14K-reactions-Samuel-Slovák-jenž-ztělesňuj.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1301125595371514>
+- **Datum záznamu:** 2026-09-29
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: Green Deal a ruská ropa (29. 9. 2026) {#jindřich-rajchl--videoportál-green-deal-a-ruská-ropa-29-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-29_Jindřich-Rajchl_90K-views-78K-reactions-Green-Deal-musí-být-zničen-a-.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1642318094208291>
+- **Datum záznamu:** 2026-09-29
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Videoportál: výročí Mnichovské zrady (30. 9. 2026) {#jindřich-rajchl--videoportál-mnichovská-zrada-30-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-30_Jindřich-Rajchl_123K-views-12K-reactions-Dnešní-den-si-připomínáme-vý.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1792036732011639>
+- **Datum záznamu:** 2026-09-30
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Partie: Green Deal jako zlodějina (4. 10. 2026) {#jindřich-rajchl--partie-green-deal-4-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-04_Jindřich-Rajchl_49K-views-41K-reactions-Klíčová-pasáž-dnešní-Partie-Z.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1060857060261892>
+- **Datum záznamu:** 2026-10-04
+- **Zpracováno:** ano
+
+## Jindřich Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026) {#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-05_Jindřich-Rajchl_Bez-ropy-a-plynu-z-Ruska-se-Evropa-prostě-neobejde-Ať.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1070501685862788>
+- **Datum záznamu:** 2026-10-05
+- **Zpracováno:** ano

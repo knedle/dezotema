@@ -1016,6 +1016,16 @@ V krátkém vystoupení na Primě Rajchl odmítá, že by zmrazení platů polit
 
 ---
 
+### ODS chce „okrást občany" poplatky u lékaře — daně mají platit banky, energetické a zbrojařské firmy (Rajchl, 29. 9. 2026)
+
+V debatě na Primě s poslancem ODS Samuelem Slovákem Rajchl odmítá návrh, aby pacienti platili za návštěvu lékaře: ODS podle něj „jako vždycky chce okrást naše občany" a „už jednou na tom prohrála volby, prohraje je po druhé". Sám prý „nezvedne ruku ani pro jeden jediný návrh, který by bral další peníze z kapes našich občanů" — vyšší daně mají platit banky, energetické a zbrojařské společnosti, které za vlády ODS zvýšily zisky „o stovky procent", zatímco občané přišli o 15 % reálných mezd.
+
+> „Vy už jste je odrbali z kůže, jak nejvíc to jenom šlo." — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026)
+
+---
+
 ## Represe a policejní brutalita na Západě
 
 ### Rostoucí policejní brutalita na „globalistickém Západě" — Vrabel (18. 6. 2026)
