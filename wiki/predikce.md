@@ -72,6 +72,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — Republika srbská se do 3–5 let spojí se Srbskem; Británie bude za 20–30 let „jako Sýrie" (29. 9. 2026)
+
+**Předpověď:** Do tří, nejpozději pěti let se Republika srbská spojí se Srbskem a vznikne „rozšířené Srbsko"; Vučić i Dodik vyhrají volby. Británie bude za 20–30 let „něco jako Sýrie".
+
+> „Očekávám, že do tří let, maximálně do pěti, ale do tří let se spojí Republika Srpská se Srpskem, vznikne rozšířené Srpsko." — Ladislav Vrabel
+
+**Horizont:** 2029–2031; 2046–2056
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+
+---
+
 ### Ladislav Vrabel — konflikt NATO–Rusko je nevyhnutelný, může začít „každým dnem" (27. 9. 2026)
 
 **Předpověď:** Přímý konflikt NATO s Ruskem je nevyhnutelný a může začít „každým dnem" — sporným narušením vzdušného prostoru a sestřelem, po němž do dvou hodin přijde stav ohrožení, článek 5 a zavřené hranice.

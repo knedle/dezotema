@@ -162,6 +162,16 @@ K výročí Mnichovské dohody Rajchl kritizuje „ohlušující ticho" ČT a Se
 
 ---
 
+### Passerelle klauzule a kvalifikovaná většina v obraně a migraci — „Anglosasové se rozhodnou, Slované mašírují"; „konec České republiky" (Vrabel, 29. 9. 2026)
+
+K úvaze Komise o passerelle klauzulích (kvalifikovaná většina v sankcích, lidských právech, obraně a daních) Vrabel tvrdí, že jde o „absolutní, zásadní, nevratnou reformu" a krok k federalizaci: EU má být „nástupcem původních států" a ČR zůstane „jako kraj, něco jako Bavorsko — jen na mapě namalovaná". Malé státy ztratí veto, takže když EU řekne „jdeme do války", budou muset jít — „Anglosasové se rozhodnou, Slované mašírují"; v oblasti lidských práv budou velké státy posílat uprchlíky „do slovanských zemí, které ještě nejsou úplně zislamizované". Kritizuje „vlastence", kteří chtějí EU reformovat — „ten právník tam chce přijít a říct Uršule von der Leyen: teď to budeme dělat jinak" (zřejmě narážka na Rajchla).
+
+> „Tohle je konec. Konec České republiky. Česká republika zůstane jako na mapě namalovaná." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"

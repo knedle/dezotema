@@ -5313,3 +5313,11 @@
 - **Datum záznamu:** 2026-09-28
 - **Zpracováno:** ano
 - **Poznámka:** Na konci (1:08:40–1:12:29) koláž projevů z demonstrací PRO z roku 2023; výpadek [29:28–30:00].
+
+## Ladislav Vrabel — Zprávy v devět 29. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-29-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-29_Ladislav-Vrabel_29-9-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/4585064691769775>
+- **Datum záznamu:** 2026-09-29
+- **Zpracováno:** ano
+- **Poznámka:** Chybí úvod [00:00–03:07].

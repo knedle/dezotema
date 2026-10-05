@@ -1242,6 +1242,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 15)
 - **18. 9.** — Trump/Monroeova doktrína — vyhrožuje EU i Kanadě kvůli přidružení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+- **29. 9.** — passerelle klauzule = „konec ČR", „Anglosasové se rozhodnou, Slované mašírují" — [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1283,6 +1284,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **30. 9.** — „99% jistota" války, teorie úderu 1000–1500 letadel, ČR doma „beránek" — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 - **1. 10.** — Rusko by mělo „právo" na proxy útoky na EU; tajné služby „banda amatérů" — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
 - **2. 10.** — „tři cesty k míru" — zničit USA; Rusové „až do Bruselu vyčistit Evropu od nacismu" — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
+- **29. 9.** — Babiš porušil slib — dvě brigády do Pobaltí, vojáci „žoldáci", scénář mobilizace — [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
 
 ---
 
@@ -1780,6 +1782,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Heiko Schöning | ✅ pozitivní | „Kamarád", varuje před pandemií střevní mikroflóry | 2026-10-03 | [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026) |
 | Michal Strnad | ❌ negativní | „Sponzoruje" Macinku | 2026-09-28 | [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026) |
 | Ana Brnabić | ✅ pozitivní | „Ohromný respekt" | 2026-09-28 | [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026) |
+| Milorad Dodik | ✅ pozitivní | Vyhraje volby, spojení Republiky srbské se Srbskem | 2026-09-29 | [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026) |
 
 ---
 
@@ -1938,3 +1941,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 - [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 - [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
+- [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)

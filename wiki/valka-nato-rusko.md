@@ -1446,7 +1446,11 @@ Vrabel tvrdí, že ČR je „nepřiznaný protivník" Ruska — posílá dobrovo
 
 > „My jsme jejich protivník. Nepřiznaný, ale protivník." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+**29. 9.** — Po schůzce Babiše s Pavlem (při ruském útoku na Pobaltí čl. 5 a vyslání dvou brigád) Vrabel tvrdí, že Babiš porušil slib nikdy neposílat vojáky za hranice — „všechno, co slíbil, už popřel" —, spor Hradu se Strakovkou „byla hra" a bezpečnostní politiku teď řídí „generál NATO" Pavel. Vojáci jsou podle něj „žoldáci, zaplacení, aby zemřeli"; Polsko má prý už asi 10 000 mrtvých a až jich bude 10 000 v ČR, „otočí se vnímání". Rozvádí scénář: incident pod falešnou vlajkou → do hodiny bezpečnostní rada → stav ohrožení, čl. 5, dvě brigády (6–8 tisíc mužů), zavřené hranice → pokud to do dvou týdnů neutichne, mobilizace podle ročníků a „TCK jako na Ukrajině". NATO je podle něj kvůli bombardování Jugoslávie 1999 „teroristická organizace — byla, je a pravděpodobně i bude"; USA se mají „stáhnout z celého světa domů".
+
+> „Jsou to žoldáci [...] Žoldáci v době války prostě jdou umírat." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
 
 ---
 

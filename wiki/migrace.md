@@ -796,7 +796,9 @@ K zatčení muže, který propíchl prázdný člun migrantů (hrozí mu 10 let)
 
 **4. 10.** — Po návštěvě Prahy Vrabel tvrdí, že se Praha stává „česko-ukrajinským městem" (ze tří taxikářů byl „hrozný" jen Ukrajinec) a že se naplňuje jeho výrok o „České Ukrajině" z roku 2022: v ČR bude „dva miliony Ukrajinců, možná přijde pět", budou Čechům „dělat šéfy" a založí si politickou stranu, protože „Češi jsou submisivní". Na Ukrajině podle něj ubylo obyvatel z 51 na „možná 18 milionů" a plánuje se jejich náhrada migranty („prvních 900 000, plán asi na 8 milionů") — ptá se, co čeká „zbytek Slovanů v Evropě".
 
-**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+**29. 9.** — K projevu Andyho Burnhama, „premiéra islámské země", Vrabel tvrdí, že Británie je dnes „poloislámská" a „za 20–30 let bude něco jako Sýrie"; kdyby tam řekl totéž co v ČR, „zastřelí mě hned první den". Londýn by si podle svých slov vybral k bydlení, „kdyby tam nebyli ti muslimové"; Češi jsou za posledních 20 let „studení, uzavření, nafoukaní". Bývalá pražská jednička Stačilo! podle něj chodila na jeho protiislámské demonstrace (2015–16) s Antifou a křičela na ně „nacisté"; migrační krize je podle něj záměr politiků „podle vzoru Kalergiho".
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
 
 ---
 

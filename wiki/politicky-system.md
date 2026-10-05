@@ -721,6 +721,14 @@ K videu, na němž muž při policejní kontrole tvrdil, že je „živý člov�
 
 ---
 
+### „Bůh je mrtvý a to je ta chyba" — útok nožem ve Stážkově; ministerstvo spokojenosti a „novodobý feudalismus" (Vrabel, 29. 9. 2026)
+
+K útoku žáka nožem ve slovenském Stážkově (zemřela učitelka) Vrabel viní násilí v médiích a „nedostatek Boha ve společnosti — Bůh je mrtvý a to je ta chyba"; nejrychlejší cestou je podle něj návrat k náboženství (sám věří v reinkarnaci). Kdyby vládl, zřídil by podle vzoru Bhútánu ministerstvo zkoumající spokojenost lidí a billboardy, „aby lidi milovali svoji zemi". Současný systém podle něj „není demokracie, ale oligarchie, novodobý feudalismus", v němž hloupá společnost nechává vládnout „největší psychopaty".
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
