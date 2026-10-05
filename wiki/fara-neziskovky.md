@@ -91,3 +91,13 @@ Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letn
 Černohorský tvrdí, že tři lidé z neziskové organizace Meeting Brno dostali za deset let pořádání setkání se Sudetoněmeckým Landsmannschaftem přes 15 milionů korun z veřejných zdrojů. Dva lidé, kteří požadovali svobodný přístup k informacím, narazili na podmínku uhradit stovky korun za 5letá data, resp. přes 100 000 korun za 10leté hospodaření. Černohorský Meeting Brno označuje za organizaci, která parazituje na státu a kolaboruje s tím, co nazývá „nacistickým" sudetoněmeckým spolkem. Uvádí to jako argument pro zákon o transparentnosti: bez FARA-type zákona se podobné financování nedá ani prověřit.
 
 **Zdroje:** [Černohorský — Návrat z bandovolené, 2026-04-02](_zdroje.md#jiří-černohorský--návrat-z-bandovolené-2-4-2026)
+
+---
+
+### Lobbisté mimo zákon, zahraniční financování neziskovek jako trestný čin; Šebelová a eutanazie nezletilých (Černohorský, 5. 9. 2026)
+
+Černohorský by lobbisty „postavil mimo zákon", protože podle něj korumpují politiky ve prospěch LGBT neziskovek a korporací; jako příklad uvádí poslankyni Šebelovou (STAN), která podle něj „prosazuje eutanazii i pro nezletilé", protože jí to „někdo nasypal". Navrhuje zákon, podle něhož by zahraniční financování neziskovek působících v ČR bylo trestným činem — jmenuje Meeting Brno, Člověk v tísni a Českou ženskou lobby. Oceňuje Tomia Okamuru, že „se přestal bát" a v televizi řekl, že se zastaví peníze neziskovkám na imigraci, LGBT a Ukrajince.
+
+> „Nemohou být financovány ze zahraničí. Že je to trestný čin. Tečka." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)

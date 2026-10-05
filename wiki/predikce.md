@@ -285,6 +285,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Jiří Černohorský — „vymíráme a vymřeme" do 60–80 let (5. 9. 2026)
+
+**Předpověď:** Kvůli nízké porodnosti Češi, Moravané a Slezané „vymřou" — za 60 až 80 let.
+
+> „Takže my vymíráme… vymíráme a vymřeme. Konec. Tečka." — Jiří Černohorský
+
+**Horizont:** 2086–2106
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+
+---
+
 ### Ladislav Vrabel — 65% šance na neúspěch mírových jednání USA–Rusko–Ukrajina (4. 9. 2026)
 
 **Předpověď:** V souvislosti s chystanou cestou Witkoffa a Kushnera do Moskvy a Kyjeva Vrabel odhaduje na 65 % pravděpodobnost, že současná mírová jednání nepovedou k úspěchu — čeká, že Rusko odmítne příměří bez záruk, že ho Západ nevyužije k přezbrojení Ukrajiny (odkazuje na obdobné zablokování dohody v Istanbulu 2022).

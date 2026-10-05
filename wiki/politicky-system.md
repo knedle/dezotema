@@ -667,6 +667,16 @@ V pořadu TV Bureš (propagace shromáždění „Člověk na prvním místě" 3
 
 ---
 
+### „Nic vám nepatří" — iluze demokracie; nevydaná opozice a dvojí metr vůči Okamurovi (Černohorský, 5. 9. 2026)
+
+Černohorský se ptá, proč vláda se 108 hlasy nevydala k trestnímu stíhání Fialu, Rakušana, Hřiba, Černochovou a Stanjuru, když Okamuru vydali kvůli plakátu, který podle něj „nebyl rasismus" (trestní oznámení podal Pospíšil); Hřib měl podle něj půl roku pobírat přeplatky 40 tisíc měsíčně a „kdokoliv z nás" by za to dostal deset let — „jak může mít někdo imunitu na to, aby mohl krást?". Chválí Mirka Ševčíka, že se s opozicí „nesere". Demokracie je podle něj iluze: „nepatří vám vůbec nic, ani děti" — majetek vám stát při konfliktu zabaví a děti může vzít OSPOD (kauza Terezy Vlasákové). Babiš a Schillerová jsou podle něj proti celostátnímu referendu.
+
+> „Vážně si myslíte, že vám něco patří? Ne. Nepatří vám vůbec nic. Ani děti nepatří." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
@@ -1214,7 +1224,9 @@ V reakci na vlastní téma šetření státního rozpočtu Černohorský podrobn
 
 **22. 9.** — Černohorský se k tématu vrací ironickým úvodem („rok po volbách, všechno se nám napravuje"): nejnižší starobní důchod podle nové valorizace nesmí klesnout pod 10 325,70 Kč, nejnižší invalidní důchod 1. stupně je kolem 6 370 Kč a valorizace důchodců činí zhruba 320 Kč — zatímco poslancům a ústavním činitelům podle zákona 236/1995 vzroste plat o 5,7 % (plus další koeficienty) na zhruba 120 tisíc hrubého, s nezdaněnými náhradami na 160–170 tisíc a s funkcemi ve výborech na 200–220 tisíc. Zmiňuje přeplatky za elektřinu, které si měl nechávat vracet Zdeněk Hřib (40 tisíc měsíčně), a poslance „vlastence" s „27 funkcemi" (jmenuje Martina Haška z PRO), jejichž jména prý zveřejní až po volbách. Zvýšení platů za Babišovy vlády v době, kdy „lidi padají na rypáky", označuje za „nehoráznou aroganci" — „tímhle, pane Andreji Babiši, říkáte těm lidem: my na vás serem". Kdo by si podle něj zasloužil přidat, jsou hasiči (80–100 tisíc, „víc než jakýkoliv poslanec"), dobří učitelé (ne ti, kteří „tleskají LGBT") a zdravotníci, kteří se za covidu „nezaprodali" — ne policisté, kteří podle něj „slouží hajzlům nahoře" a kryjí „Oganesjanův gang".
 
-**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026), [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+**5. 9.** — Poslanci podle Černohorského berou asi 4 miliony čistého ročně (170 tisíc měsíčně, s funkcí 200–220 tisíc) za zhruba 110 jednacích dní, zatímco 3 miliony lidí žijí na hranici chudoby a invalidní důchod 1.–2. stupně činí 7–13 tisíc. Kritizuje i cestu poslankyně Urbanové na Ukrajinu placenou státem („kus kundy ze STANu"), ať si ji z platu 220 tisíc zaplatí sama.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 29. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-29-8-2026), [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 
 **31. 8.** — V reakci na článek Aktuálně.cz (reagující na jeho předchozí video) Černohorský rozebírá konkrétní vedlejší příjmy jednotlivých poslanců za rok 2025 plynoucí ze souběhu více funkcí: Jan Skopeček (ODS) 5 174 087 Kč, Petr Fiala 5 048 333 Kč, Marian Jurečka cca 4 066 000 Kč, místopředsedkyně Sněmovny Olga Richterová cca 4 343 981 Kč (přepočteno na cca 434 tis. Kč měsíčně), Markéta Pekarová Adamová 4 223 000 Kč, Radek Vondráček (dvě funkce) 4 178 000 Kč, Aleš Juchelka 4 141 000 Kč a Patrik Nacher (tři funkce) 4 120 000 Kč — celkem odhaduje, že těchto 20 nejlépe vydělávajících poslanců stálo stát cca 94 mil. Kč. Kritizuje zejména souběh poslaneckého mandátu s členstvím v dozorčích radách jako střet zájmů, který by měl být okamžitě zakázán — srovnává se staršími případy vícenásobných funkcí (Michal/Ivan Hašek za ČSSD, poslanec Hrnčíř za SPD).
 

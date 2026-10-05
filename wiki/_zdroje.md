@@ -5165,3 +5165,11 @@
 - **Datum záznamu:** 2026-10-04
 - **Zpracováno:** ano
 - **Poznámka:** Zpracován jen výrok do stochastického teroru; programový bod sám uživatel nevybral.
+
+## Jiří Černohorský — Facebook Live (5. 9. 2026) {#jiří-černohorský--facebook-live-5-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-05_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1376188648023677>
+- **Datum záznamu:** 2026-09-05
+- **Zpracováno:** ano
+- **Poznámka:** Starší vysílání stažené dodatečně (sync 5. 10.).

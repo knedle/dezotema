@@ -250,7 +250,9 @@ Vrabel spojuje podporu rozpadu tradiční rodiny a LGBT+ agendy (mj. Prague Prid
 
 Černohorský staví dnešní porodnost (v průměru ~82 000 dětí ročně za poslední tři roky) do kontrastu s obdobím socialismu, kdy se běžně rodilo 120–160 tisíc dětí ročně, a to i v „nejhorších" letech po roce 1968 — z čehož usuzuje, že dnešní doba je pro zakládání rodin hůře nastavená než tehdejší totalitní režim. Za měřítko blahobytu společnosti považuje právě počet dětí, ne subjektivní tvrzení politiků, že „se máme nejlíp, jak jsme se kdy měli". Vyjadřuje znepokojení nad tím, kolik z dnešních narozených dětí tvoří děti přistěhovalců, ukrajinských uprchlíků a Romů namísto Čechů, Moravanů a Slezanů. Na modelovém příkladu běžné rodiny (otec 35 tis. čistého, matka 25 tis.) rozebírá, jak výpadek příjmu během mateřské dovolené nutí rodiny šetřit na téměř všem (kvalitě potravin, dopravě, kosmetice, telekomunikacích) kromě samotného dítěte — s odkazem na statistiku, že 13 % (1,3 mil.) lidí v ČR neušetří z výplaty ani korunu.
 
-**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026)
+**5. 9.** — Černohorský uvádí, že v roce 2025 se narodilo 77 200 dětí, z toho asi 12 % matkám cizinkám, takže „Čechů, Moravanů a Slezanů" jen asi 65 tisíc (proti 84 tisícům v roce 2024 a 92 tisícům v roce 2023) — „vymíráme a vymřeme", za 60–80 let. Viní dospělé převlečené za zvířata („furries", hobby horsing) a LGBT („nešukaj") i očkování těhotných, které označuje za „biologickou zbraň" a „zločin proti lidskosti" Babišovy vlády; Bělobrádek prý řekl, že demografickou křivku nahradí migranti.
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 
 ---
 

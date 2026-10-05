@@ -799,3 +799,11 @@ K zatčení muže, který propíchl prázdný člun migrantů (hrozí mu 10 let)
 Tarabová tvrdí, že podle dat cizinecké policie žije v ČR 1,2 milionu Ukrajinců, výrazně víc než oficiální čísla. Ukrajincům nevyčítá, že „otevřenou náruč" využili, ale podle ní „od nátury nejsou moc občany, kteří by se zapojili do našeho žití" a většina lidí s tím má „velké problémy". Jako bývalá členka komise pro přidělování městských bytů se ptá, kde se pro ně najednou vzalo tolik bytů, když dřív bylo na jeden byt 30 zájemců; jako primátorka chce provést revizi přes neziskovky, městské byty, pracovní agentury a úřad práce a s klubem SPD „dotlačit" Babiše k řešení „ukrajinské krize". Téma podle svých slov nezařadila do programu, aby „nedráždila novináře".
 
 **Zdroje:** [Tarabová — Beseda v Koloseu (1. 10. 2026)](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
+
+---
+
+### Islamizace je nevratná od 7–8 % muslimů; Merkelová „tahle svině" (Černohorský, 5. 9. 2026)
+
+Černohorský tvrdí, že imigraci do Evropy „přitáhla Merkelová, tahle ta svině" a pokračuje v ní von der Leyenová; jakmile podíl muslimů v zemi překročí 7–8 %, je stav podle něj „nezvratný". Zmiňuje nožový útok migranta v Plzni či Příbrami a v rasistickém výroku varuje, že se „naše ženský [...] budou pářit s negrama".
+
+**Zdroje:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
