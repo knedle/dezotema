@@ -5181,3 +5181,11 @@
 - **Datum záznamu:** 2026-09-08
 - **Zpracováno:** ano
 - **Poznámka:** Starší vysílání stažené dodatečně (sync 5. 10.).
+
+## Jiří Černohorský — Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026) {#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-11_Jiří-Černohorský_vzpomínka-z-videa-po-tom-co-mě-2622022-zadržela-PČR-.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1643161830648553>
+- **Datum záznamu:** 2026-09-11
+- **Zpracováno:** ano
+- **Poznámka:** Archivní video z roku 2022 (zadržení před ruskou ambasádou 26. 2. 2022), znovu zveřejněno 11. 9. 2026.

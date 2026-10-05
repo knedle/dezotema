@@ -1455,3 +1455,11 @@ Vrabel tvrdí, že ČR je „nepřiznaný protivník" Ruska — posílá dobrovo
 > „Rusové nejsou agresoři, rusové nikdy agresoři nebyli a rozhodně rusové nejsou nebezpečí." — Jiří Černohorský
 
 **Zdroje:** [Černohorský — Facebook Live (8. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+
+---
+
+### Archivní projev (2022): Fialova vláda vyzbrojuje Azov, ČT lže, „patří vám tresty nejvyšší" (Černohorský, zveřejněno 11. 9. 2026)
+
+Černohorský znovu zveřejňuje svůj projev z doby po zadržení před ruskou ambasádou (26. 2. 2022), kdy mu podle něj hrozilo 6 měsíců až 3 roky za výrok, že válka „není jen válkou Putina" — rozpoutala ji podle něj v roce 2014 „fašistická ukrajinská vláda", která vzala pod křídla ministerstva obrany jednotky Azov. Fialovu vládu (Fiala, Rakušan, Lipavský, Černochová, Pekarová) označuje za zločince, kteří vyzbrojováním „nacistických jednotek" zatahují ČR do války, a ředitele ČT Petra Dvořáka za lháře; vyzývá policii, aby „tyhle parchanty pozavírala", a vládu „žaluje" za zatahování ČR do války.
+
+**Zdroje:** [Černohorský — Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)

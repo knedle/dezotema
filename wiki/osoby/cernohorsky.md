@@ -143,6 +143,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **22. 9.** — Volyň na TikToku, „ukronacisti" z Azova; Zelenskyj a TCK „ať pochcípaj"; válka skončí jen ruskými podmínkami nebo „orešníky", porážka Ruska = konec světa, elity v bunkrech — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **24. 9.** — Příměří by pro Rusko bylo hloupé, NATO „teroristická organizace", „oříšky" na Londýn/Paříž/Brusel/Prahu; korupce 140 mil. USD okrádá vojáky; Volyň, Zelenskyj „Žid a nacista", Dvořák „lidský odpad" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **8. 9.** — válku vyprovokoval Západ a „židé z Izraele", Rothschildové; drony = „ekoteroristé", omluva Rusku; Pavel větší hrozba než Rusko — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+- **11. 9.** — archiv 2022: Fialova vláda vyzbrojuje Azov, válku rozpoutala „fašistická ukrajinská vláda" 2014 — [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -196,6 +197,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **24. 9.** — von der Leyenová „by měla být popravena, nemá právo na život"; Dvořák „lidský odpad"; Zelenskyj antisemitsky; Praha jako cíl „oříšků" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 - **5. 9.** — Hřib „rozkopat rypák", Rakušan „obojek a koule u nohy", Šebelová, LGBT, anonymní uživatel — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - **8. 9.** — ⚠️ „židáci, kteří by měli být vyhubeni"; ruská armáda má „odvézt" Pavla a Koláře; „rozkopat rypáky" majitelům chráněných dílen — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+- **11. 9.** — Fialova vláda — „tresty nejvyšší, z kriminálu nevylézt" (archiv 2022) — [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
 
 ---
 
@@ -428,3 +430,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: falešný profil Čermák (27. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026)
 - [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+- [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
