@@ -5220,3 +5220,10 @@
 - **URL:** <https://www.facebook.com/61553793793504/videos/1061617516690480>
 - **Datum záznamu:** 2026-09-28
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Reels: Tušl a „Čechoslováci" (1. 10. 2026) {#jiří-černohorský--reels-1-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-01_Jiří-Černohorský_73K-views-206-reactions-Jiří-Černohorský-on-Reels.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1633815468124514>
+- **Datum záznamu:** 2026-10-01
+- **Zpracováno:** ano

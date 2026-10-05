@@ -703,6 +703,16 @@ V pořadu TV Bureš (propagace shromáždění „Člověk na prvním místě" 3
 
 ---
 
+### „Čechoslováci" a suverénní občané „patří do klece"; selhání policie a výzva ministru Metnarovi (Černohorský, 1. 10. 2026)
+
+K videu, na němž muž při policejní kontrole tvrdil, že je „živý člověk z Československa", že ČR je korporace registrovaná na Slovensku, v Anglii a USA a že zákon o policii neplatí (měl prý zákaz řízení a propadlou STK, a policisté ho přesto nechali odjet), Černohorský označuje tyto „Čechoslováky" za „debily", kteří by neměli volat policii, hasiče ani lékaře ČR, a „nepatří nikam jinam než do klece". Policisté podle něj nedodrželi předpisy; vyzývá ministra vnitra Metnara, aby zastavil odchod kvalitních policistů, i když policie podle něj „šla na ruku takovým zmrdům jako Rakušan". Systém je podle něj „totalita a diktát z Bruselu", ale změna má přijít bez „občanské války a krve v ulicích", cestou jeho spolku.
+
+> „Běžte třeba za šimpanzama do zoologické zahrady, vy debilové, protože vy nepatříte nikam jinam než do klece." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Reels: Tušl a „Čechoslováci" (1. 10. 2026)](_zdroje.md#jiří-černohorský--reels-1-10-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
@@ -1314,7 +1324,9 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 
 **28. 9. (večer, samostatné video)** — Černohorský se veřejně omlouvá: podle zprávy „z důvěryhodného zdroje" je profil „Politický vězeň Čermák" skutečně profilem Tomáše Čermáka („ať už mu ho založil kdokoliv"); omlouvá se lidem, které nazval hlupáky, i Pavlu Zítkovi za vulgární nařčení, že profil založil on — „v tomhle případě jsem hlupák já". ⚡ Zítko omluvu v následujících dnech označil za „teatrální" a profil připisuje Čermákovu otčímovi (viz [kauzy.md](kauzy.md#propuštění-údajného-tomáše-čermáka-jako-sehraný-justiční-podvod-s-dvojníkem-zítko-2427-9-2026)).
 
-**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Videoportál: falešný profil Čermák, 27. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Videoportál: omluva Zítkovi (28. 9. 2026)](_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
+**1. 10.** — Černohorský chystá žalobu za pomluvu na Patrika Tušla, který o něm napsal, že ho „živí diváci" a „čeká na další katastrofu, aby mohl vybírat prachy"; nově jmenuje Moniku Špoulovou, jejímž dětem měl Tušl vyhrožovat zabitím. Dokládá vlastní sbírky: na tornádo na Moravě se vybralo „skoro 900 tisíc" (47 udání, vše doloženo policii, mimo pomoc šla jen nafta) a na povodně šlo podle něj „99,8 %" na pomoc.
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Videoportál: falešný profil Čermák, 27. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Videoportál: omluva Zítkovi (28. 9. 2026)](_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026), [Černohorský — Reels: Tušl a „Čechoslováci" (1. 10. 2026)](_zdroje.md#jiří-černohorský--reels-1-10-2026)
 
 ---
 

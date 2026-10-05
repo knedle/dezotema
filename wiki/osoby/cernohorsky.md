@@ -51,6 +51,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **12. 9.** — národní hrdost, zákaz mobilů ve školách, „socioekonomické vraždy"; Babiš/Motoristé a karenční doba; Rakušan v dozorčí radě České pošty — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 - **28. 9.** — Vrabel a Sládek „kolaboranti" a „největší kurvy scény"; Václavák 2022 nenaplnil Vrabel; vlastenecká scéna jde po penězích (Zítko, Bernardy, Német, Krejčí); profil Čermák možná od „lidí kolem Čermáka"; rada Čermákovi odmítnout násilí — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 - **28. 9.** — veřejná omluva Zítkovi — profil „Politický vězeň Čermák" je podle „důvěryhodného zdroje" Čermákův — [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
+- **1. 10.** — žaloba na Tušla za pomluvu, čísla ze sbírek; „Čechoslováci" do klece, výzva Metnarovi; změna „bez krve v ulicích" — [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -207,6 +208,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **11. 9.** — Fialova vláda — „tresty nejvyšší, z kriminálu nevylézt" (archiv 2022) — [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
 - **12. 9.** — Pavel a Kolář „šibenice", 5–6 členů Fialovy vlády „pověsit", Fauci „pomalé elektrické křeslo", Meeting Brno „za jisté doby se stříleli" — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 - **28. 9.** — Vrabel a Sládek „rozbít rypáky, vykopat z ČR"; Zítko „patří do kriminálu" — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
+- **1. 10.** — Tušl „rozmlátím rypák", Rakušan „dal po tlamě", „Čechoslováci" do klece — [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026)
 
 ---
 
@@ -388,6 +390,8 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Tomáš Čermák | ⚖️ rozporuplný | Soucitné rady, varování před násilím; profil možná od „lidí kolem Čermáka" | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
 | Kateřina Konečná | ✅ pozitivní | Pomáhá nezištně | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
 | Pavel Zítko | ⚖️ rozporuplný | Omluva za nařčení, že založil falešný profil | 2026-09-28 | [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026) |
+| Patrik Tušl | ❌ negativní | Pomluva, chystaná žaloba, fyzické výhrůžky | 2026-10-01 | [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026) |
+| Monika Špoulová | ✅ pozitivní | Oběť Tušlových výhrůžek | 2026-10-01 | [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026) |
 
 ---
 
@@ -455,3 +459,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: archivní projev „Scheiße Merkel" (23. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-scheisse-merkel-23-9-2026)
 - [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 - [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
+- [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026)
