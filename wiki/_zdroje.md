@@ -5213,3 +5213,10 @@
 - **Datum záznamu:** 2026-09-28
 - **Zpracováno:** ano
 - **Poznámka:** Úsek 29:24–40:19 je předčítaná AI rešerše o Vrabelově trestní kauze.
+
+## Jiří Černohorský — Videoportál: omluva Zítkovi (28. 9. 2026) {#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-28_Jiří-Černohorský_Omluva-všem-vám-přatelé-a-také-panu-Pavlovi-Zítko-Pr.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1061617516690480>
+- **Datum záznamu:** 2026-09-28
+- **Zpracováno:** ano

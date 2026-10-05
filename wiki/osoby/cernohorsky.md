@@ -50,6 +50,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **8. 9.** — volby bez kvóra = podvod, počty členů stran; zrušit peníze, „slovanské občiny"; Google vojenský projekt — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 - **12. 9.** — národní hrdost, zákaz mobilů ve školách, „socioekonomické vraždy"; Babiš/Motoristé a karenční doba; Rakušan v dozorčí radě České pošty — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 - **28. 9.** — Vrabel a Sládek „kolaboranti" a „největší kurvy scény"; Václavák 2022 nenaplnil Vrabel; vlastenecká scéna jde po penězích (Zítko, Bernardy, Német, Krejčí); profil Čermák možná od „lidí kolem Čermáka"; rada Čermákovi odmítnout násilí — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
+- **28. 9.** — veřejná omluva Zítkovi — profil „Politický vězeň Čermák" je podle „důvěryhodného zdroje" Čermákův — [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -386,6 +387,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Renata Bernardy | ❌ negativní | Dvakrát ho udala, placený web | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
 | Tomáš Čermák | ⚖️ rozporuplný | Soucitné rady, varování před násilím; profil možná od „lidí kolem Čermáka" | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
 | Kateřina Konečná | ✅ pozitivní | Pomáhá nezištně | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
+| Pavel Zítko | ⚖️ rozporuplný | Omluva za nařčení, že založil falešný profil | 2026-09-28 | [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026) |
 
 ---
 
@@ -452,3 +454,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 - [Videoportál: archivní projev „Scheiße Merkel" (23. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-scheisse-merkel-23-9-2026)
 - [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
+- [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
