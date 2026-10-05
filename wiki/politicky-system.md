@@ -729,6 +729,16 @@ K útoku žáka nožem ve slovenském Stážkově (zemřela učitelka) Vrabel vi
 
 ---
 
+### Shromáždění 3. 10.: „Babiš je EU patriot, ne český patriot"; lidé „odevzdali moc" politikům; „jsme ve válce — válečná daň" (Vrabel, 3. 10. 2026)
+
+Na shromáždění „Člověk na prvním místě" Vrabel rekapituluje hnutí od bušení do hrnců před parlamentem (2020) přes demonstrace 2022: lidé podle něj pochopili plán „ČR na prvním místě", ale ve volbách 2025 moc „odevzdali politikům" — média jim vnutila SPD a nepřiznané koalice PRO/Trikolóra/Svobodní, které „dosadil režim" a hned po volbách prosazují zájmy EU, NATO, Aspen Institute a CNN; „oddělilo se zrno od plev". Babiš podle něj řekl, že je „EU patriot — on je evropský patriot, ne český patriot", porušil slib neposílat „naše kluky" (dvě brigády do Pobaltí) a posílá na Ukrajinu rekordní peníze přes PURL i rozpočet EU. ČR je podle něj „skutečně ve válce" — klid na území je jen proto, že Rusko nechce válčit s NATO, a drahota potravin, energií a daní je „válečná daň". Varuje před lidmi, kteří zklamali: muž, který otevíral demonstraci 3. 9. 2022, si prý dnes přivlastňuje její svolání, Raptor TV jeho akce čtyři roky nevysílá a „za mými zády" vznikl spolek „Česká republika na prvním místě". Kritizuje Petra Hájka („politruk v Květech", Klausův poradce a kupónová privatizace); komunistu Josefa Kupčíka si naopak „váží". S odkazem na Emira Kusturicu tvrdí, že Rusko „se postavilo po desítkách let agresorovi a brání svobodu světa", zatímco USA jsou „trýznitel světa"; strach ve společnosti je největší, „co za 50 let zažil".
+
+> „Jestli vás někdo jednou zklamal, tak mu nevěřte. Jestli vás zklamal hodně, tak mu nevěřte vůbec." — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Shromáždění „Člověk na prvním místě" (3. 10. 2026)](_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

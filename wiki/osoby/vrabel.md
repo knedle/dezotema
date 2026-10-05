@@ -1176,6 +1176,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **4. 10.** — po shromáždění 3. 10.: „režim má padnout", Babiš odpovídá za represe; odmítá smír s Alešem Svobodou; znovuzvolen předsedou hnutí; zvažuje odejít z české scény a vysílat anglicky — [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 - **30. 9.** — Rajchl „ukradl sílu Václaváku, aby ji postavil proti Rusku"; PRO „soudruzi"; Konečná a domy KSČM — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 - **28. 9.** — Den státnosti — „zrádci pro Západ pro mrzké peníze", koláž projevů PRO 2023 (implicitně Rajchl) — [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
+- **3. 10.** — Babiš „EU patriot, ne český"; „odevzdání moci" ve volbách 2025; „jsme ve válce — válečná daň"; Kusturica — [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1228,6 +1229,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **27. 9.** — Mrtvá ruka a povolení velitelům k odvetě; francouzský deštník přivezou až v nejhorší chvíli — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - **2. 10.** — Babiš a francouzský deštník — alegorie Ferdy Mravence „sežrat" — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 - **3. 10.** — shromáždění 3. 10.: tři výzvy (žádné jaderné zbraně, vyjednavač míru, stop zbraním na Ukrajinu) — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
+- **3. 10.** — shromáždění 3. 10. — plné znění tří výzev; řečníci Kratochvíl, VK aj. — [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1783,6 +1785,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Michal Strnad | ❌ negativní | „Sponzoruje" Macinku | 2026-09-28 | [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026) |
 | Ana Brnabić | ✅ pozitivní | „Ohromný respekt" | 2026-09-28 | [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026) |
 | Milorad Dodik | ✅ pozitivní | Vyhraje volby, spojení Republiky srbské se Srbskem | 2026-09-29 | [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026) |
+| Emir Kusturica | ✅ pozitivní | „Velmi silná osobnost" — Rusko brání svobodu světa | 2026-10-03 | [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026) |
+| Ivan Kratochvíl | ✅ pozitivní | Řečník — jaderný deštník jako terč | 2026-10-03 | [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026) |
+| Josef Kupčík | ✅ pozitivní | „Komunista přesvědčením, vážím si ho" | 2026-10-03 | [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026) |
+| Petr Hájek | ❌ negativní | „Politruk", Klausův poradce, „kádruje hnutí" | 2026-10-03 | [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026) |
 
 ---
 
@@ -1942,3 +1948,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 - [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 - [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+- [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)

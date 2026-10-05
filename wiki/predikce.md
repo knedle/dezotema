@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### VK (šéfredaktor Aeronet News) — otevřený konflikt EU s Ruskem kolem roku 2030 (3. 10. 2026)
+
+**Předpověď:** Na shromáždění 3. 10. řečník „VK" předpověděl, že kolem roku 2030 se vyčerpaná Ukrajina neudrží a na frontu přijdou vojáci EU; Vrabel to označil za „dost optimistický" výhled.
+
+> „V roce 2030 vyčerpaná Ukrajina se nedokáže podržet na frontových liniích. Přijdou tam vojáci Evropské unie." — VK (šéfredaktor Aeronet News)
+
+**Horizont:** 2030
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Shromáždění „Člověk na prvním místě" (3. 10. 2026)](_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
+
+---
+
 ### Ladislav Vrabel — Katka Blahníková bude do 15 dnů odsouzena na půl roku podmíněně; po vyčerpání rezerv ropa ještě zdraží (3. 10. 2026)
 
 **Předpověď:** Zatčená účastnice shromáždění bude do 15 dnů odsouzena samosoudcem k šesti měsícům podmíněně na rok a půl; po uvolnění strategických rezerv G7 a amerických volbách cena ropy vzroste „ještě víc".

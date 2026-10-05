@@ -5321,3 +5321,11 @@
 - **Datum záznamu:** 2026-09-29
 - **Zpracováno:** ano
 - **Poznámka:** Chybí úvod [00:00–03:07].
+
+## Ladislav Vrabel — Shromáždění „Člověk na prvním místě" (3. 10. 2026) {#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-03_Ladislav-Vrabel_3-10-2026-Člověk-na-1-místě.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/4506252452926015>
+- **Datum záznamu:** 2026-10-03
+- **Zpracováno:** ano
+- **Poznámka:** Livestream shromáždění (2 h 49 min). Řečníci: I. Kratochvíl, P. Krejčík, J. Kupčík, K. Rybářová, T. Hrdlička, P. Bureš, V. Vítová, L. Křivánková, L. Beňovský, A. Šulc, VK (Aeronet). Úseky [00:01–08:12], [1:03:23–1:04:51] a závěr hudba / halucinace přepisu.
