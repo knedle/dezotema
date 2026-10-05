@@ -5227,3 +5227,10 @@
 - **URL:** <https://www.facebook.com/61553793793504/videos/1633815468124514>
 - **Datum záznamu:** 2026-10-01
 - **Zpracováno:** ano
+
+## Jiří Černohorský — Reels: chemtrails a Prague Pride (2. 10. 2026) {#jiří-černohorský--reels-chemtrails-2-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-02_Jiří-Černohorský_11K-views-327-reactions-Jiří-Černohorský-on-Reels.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1359155466293333>
+- **Datum záznamu:** 2026-10-02
+- **Zpracováno:** ano

@@ -305,7 +305,9 @@ Vrabel tvrdí, že chemtrails (kondenzační stopy letadel) jsou záměrné syp�
 
 **27. 9.** — „Blázen je ten, kdo o tom nechce mluvit"; nad Srbskem chemtrails prý skoro nevidí, od maďarské hranice je „celá Evropa posypaná".
 
-**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+**2. 10. (Černohorský)** — Černohorský natáčí oblohu a tvrdí, že útvary, které stojí při bezvětří na místě, nemohou být kondenzační stopy („tohle nevytváří příroda… toto je lidská činnost"); popírače chemtrails, mezi něž dřív sám patřil, označuje za hlupáky. Účelem je podle něj zastínit slunce, aby lidé neměli vitamin D a byli nemocní, ve prospěch farmaceutických firem — „satanistů"; těžké kovy se prý „chemicky vážou na molekuly vody", padají s deštěm a kontaminují vše včetně bio potravin (známá prý nechala rozebrat dešťovou vodu s „celou Mendělejevovou tabulkou"). Sám si podle svých slov vyléčil „otravu krve" bylinkami a mentálním nastavením; glyfosát označuje za „povolený rakovinotvorný jed".
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Reels: chemtrails a Prague Pride (2. 10. 2026)](_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
 
 ---
 

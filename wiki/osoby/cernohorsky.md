@@ -137,6 +137,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **19. 9.** — „Židé z USA" a Rothschildové jako záměrní strůjci rozvratu Evropy přes válku na Ukrajině — [Facebook Live 19. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-19-9-2026)
 - **24. 9.** — Elity tolerují pedofilii, adrenochrom, kanibalismus a satanismus; von der Leyenová „by měla být popravena" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 - **12. 9.** — „Česko" od 2016 (Sobotka, Agenda 2030), Herman a „17. spolková republika"; 9/11 a „falešné záminky USA"; Trump mezi „Epsteinovými pedofily" — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
+- **2. 10.** — chemtrails jako otrava přes dešťovou vodu, motiv farmafirem-„satanistů"; glyfosát — [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - **27. 8.** — Pochvala projevu Petra Macinky k velvyslancům — pragmatismus místo „hodnotové politiky", i přes nesouhlas s tezí o Rusku jako agresorovi — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
@@ -169,6 +170,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **24. 9.** — Kauza Terezy Vlasákové jako „spiknutí" školy, OSPOD, policie a soudu — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 - **5. 9.** — porodnost 77 200 (2025), z toho jen ~65 tis. „Čechů"; „vymřeme"; LGBT, „furries", očkování těhotných — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - **28. 9.** — kauza Vlasáková — jmenovitě škola, OSPOD, policista Bílý, soudkyně — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
+- **2. 10.** — homofobní a sexistické výroky (Prague Pride, „ekofeministické krávy") — [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
@@ -460,3 +462,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 - [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
 - [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026)
+- [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)

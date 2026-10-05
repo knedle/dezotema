@@ -32,7 +32,9 @@ Jiří Černohorský komentuje video, na němž drag queen předvádí tanec za 
 
 > „Naprosto jednoznačně stojím za Viktorem Orbánem tady v tomhle, a tohle je potřeba zakázat zákonem." — Jiří Černohorský, [Queer svinstvo 2026-04-10](_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
 
-**Zdroje:** [Černohorský — Queer svinstvo, 2026-04-10](_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
+**2. 10.** — Černohorský vtipkuje, že „ČR se otepluje 2,5× rychleji, je to vidět na Prague Pride", ženy z ekologických hnutí nazývá „ekofeministickými krávami" s rasistickou narážkou na partnery („nějakej černoch a ne normální borec") a zesměšňuje hobby horsing a „petplay" na průvodech.
+
+**Zdroje:** [Černohorský — Queer svinstvo, 2026-04-10](_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026), [Černohorský — Reels: chemtrails a Prague Pride (2. 10. 2026)](_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
 
 ---
 
