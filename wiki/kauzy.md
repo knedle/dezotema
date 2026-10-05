@@ -1149,3 +1149,15 @@ V televizní debatě s Janem Jakobem Rajchl tvrdí, že ministr financí Zbyněk
 Černohorský čte příspěvky invalidních důchodců (rakovina s metastázemi „v remisi" snížená ze 3. na 1. stupeň, koxartróza 3.–4. stupně jen s 20% omezením) a kritizuje výběrová řízení do chráněných dílen, kde se dokládá rozhodnutí o invaliditě i valorizace a platy jsou 8–9 tisíc místo 25–30 tisíc; majitelé jsou podle něj „horší zmrdi než politici", „normální nacisti" parazitující na dotacích. Souhrn chce poslat ministru Juchelkovi a žádá zrychlenou novelu. K poslanci SPD Radimu Fialovi připomíná článek, podle něhož nesdělil, komu prodal firmu profitující z invalidních důchodců — pokud tam figuruje přes bílého koně, je to „sprostota nejvyššího kalibru, zrůdnost a hyenismus".
 
 **Zdroje:** [Černohorský — Facebook Live (8. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+
+---
+
+### ⚡ Vrabelova dotační kauza podle AI rešerše — „hochštapler a podvodník" (Černohorský, 28. 9. 2026)
+
+Černohorský předčítá AI rešerši o trestní kauze Ladislava Vrabela: vinen ve dvou bodech se škodou 568 tisíc (jinde uvádí 538); Pizza Originale v Českých Budějovicích (formálně manželky) měla čerpat podporu na nájem, který se provozovny netýkal, a příspěvky na zaměstnance bez odvodů s nepravdivým prohlášením o bezdlužnosti; Cinema Simeris v Praze měla vykazovat „restauraci se 120 místy", která byla podle stavebního úřadu dvěma nelegálními přístřešky, a 278 tisíc převedla do dvou dnů na účet manželky; nájem 300 tisíc za pozemek převedený na tchyni v Bělehradě prý proplatil stát; tři firmy dostaly za rok 2021 asi 2,4 milionu. Vrabel se podle něj neodvolal, „protože na tom vydělal". Kontrastuje to s vlastním odsouzením (18 měsíců podmíněně za přemalování nápisu v galerii trikolórou), které soud po dovolání zrušil, a s vlastním veřejným přiznáním krádeží v 17 letech.
+
+⚡ **Konflikt:** Vrabel své odsouzení prezentuje jako politickou perzekuci za „zaškrtnutí okýnka" o bezdlužnosti a „náhradu škody, ne dotaci" (viz [osoby/vrabel.md](osoby/vrabel.md)).
+
+> „Ladislav Vrábel je za mě obyčejný hochštapler a podvodník." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)

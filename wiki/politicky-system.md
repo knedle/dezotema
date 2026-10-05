@@ -364,7 +364,11 @@ V tomto kontextu znovu ostře napadá Ladislava Vrábela a Miroslava Sládka (�
 
 > „Vrábel se Sládkem jsou dva nejhorší zmrdi této scény." — Jiří Černohorský, [Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 
-**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+**28. 9.** — Černohorský útok na Vrabela a Sládka stupňuje: tím, že „udali" nepřiznané koalice (Okamura, Rajchl, Majerová, Vondráček, Konečná), jednali jako „kolaboranti", kteří „za druhé světové války udávali", zatímco memorandum Pirátů a Zelených jim nevadilo; motivem byly podle něj státní příspěvky (1,5 % = 10 milionů, 3 % = 35–40 milionů). Sládek je podle něj „klasický rasista", který měl v kadeřnictví napadnout ženu (pravomocný peněžitý trest) a ve Šlapanicích majitele pozemků. Vrabelovo tvrzení, že vláda dá na F-35 jaderné zbraně, označuje za „idiotské keci" (stíhačky přijdou až kolem roku 2035). Vlastním testem ukazuje, že programy stran jsou zaměnitelné a „právně nevymahatelné".
+
+> „Za mě Vrábel se Sládkem jsou největší zasraný, zamrdaný kurvy na této vlastenecké scéně." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ---
 
@@ -641,7 +645,9 @@ Rajchl popisuje vznik velké demonstrace na Václavském náměstí 3. 9. 2022: 
 
 ⚡ **Vrabelova strana sporu (26.–27. 9.):** Vrabel Rajchla jmenovitě zmiňuje jen jednou (26. 9.) — lidé podle něj nepůjdou demonstrovat, protože „Reichel nám řekl, že to nemá smysl, demonstrace"; v témže vysílání zesměšňuje Janu Hruškovou („hysterická") a Vladimíra Štěpána, jehož údajné smlouvy s Ruskem na ropu a plyn jsou „pohádky pro děti" (takovou smlouvu lze podle něj uzavřít jen na vládní úrovni). V nedělním vysílání 27. 9. — v den Rajchlových padesátin — pak bez jména mluví o „podvodníkovi", kterému se „podařilo předat" hnutí z roku 2022 a který ho „celý zahodil do kanálu", a o „klasickém psychopatovi, který zrovna slaví kulaté narozeniny" a „udělá cokoliv pro to, aby se vydrapal nahoru po zádech všech". Jde o implicitní narážky; Rajchlovo tvrzení o „ukradených demonstracích" přímo nekomentuje.
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+**28. 9. (Černohorský)** — Černohorský ve sporu stojí proti Vrabelovi: Václavák v září 2022 (150–170 tisíc lidí) podle něj nenaplnil Vrabel s Jiřím Havlem sami, ale SPD (Foldyna), Rajchl, Konečná, odbory a další; třetí den prý Vrabel natočil video, že mu Havel „nechce poslat peníze". Vrabelovy útoky na Rajchla označuje za „bláboly", přestože Rajchla sám kritizuje.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ---
 
@@ -1304,7 +1310,9 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 
 **27. 9.** — Černohorský varuje své přátele, kteří se přidávají k facebookovému profilu „Politický vězeň Čermák": profil je podle něj „falešnej jako prase" — texty píše AI „stupidním způsobem", ohlašuje „stranu pro obnovení státu Československého" a „sílu vesmírného krále" a Čermák podle něj ještě nemá nový mobil, protože původní mu byl zabaven. Autorem může být podle něj jedině Zítko.
 
-**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Videoportál: falešný profil Čermák, 27. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026)
+**28. 9.** — Černohorský rozšiřuje kritiku „vlastenecké scény, která jde jen po penězích": Zítko „patří do kriminálu" (kryptoměna, „andělské hlídky", „fény na vodu", prezidentská kampaň); Renata Bernardy ho prý dvakrát udala, naznačovala, že vykradl byt jejího syna, a založila placený web; skupina kolem Németa (Jurneček, Sogel, Bílý) ho prý chtěla vydírat sestříhanou hlasovou zprávou; Pavel Krejčí, který se přidal k Vrabelovi a Sládkovi, je podle něj „úchylák" a kdysi ho s Pavlem Maškem „vyšachoval" ze strany. K profilu „Politický vězeň Čermák" už neuvádí Zítka jako autora, ale připouští, že ho „vytvořili lidé kolem Tomáše Čermáka" (téhož večera se Zítkovi v samostatném videu omluvil). Čermákovi radí, ať se „vyser[e] na Facebook" a „rádoby vlastenectví", myslí na dceru a práci, protože „pokud jenom jednou šlápneš vedle, jdeš do basy" — a výslovně odmítá násilí („zapálit pochodně, podpálit Senát, vyházet ty zmrdy do Vltavy — tímto způsobem ne, nikdy v životě"). Nezištně podle něj pomáhají Kateřina Konečná, Petra Rédová, Laďa Kytka a senátor Jaroslav Veleba.
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Videoportál: falešný profil Čermák, 27. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ---
 

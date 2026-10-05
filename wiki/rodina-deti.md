@@ -136,7 +136,9 @@ Výrok na konci pasáže (lidé podílející se na této agendě „by potřebo
 
 Černohorský tvrdí, že proti Tereze Vlasákové, které jeho spolek pomáhá, probíhá „spiknutí" školy, OSPOD, policie, psychiatričky, GIBS, soudu i státního zastupitelství (o dva dny dříve mluvil o tom, že se ředitelka a učitelka „spikly s OSPODem", aby jí vzali děti). Video Jarči Křivákové o praktikách policie podle něj „stoprocentně" říká pravdu.
 
-**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+**28. 9.** — Černohorský uvádí, že ho dva právníci „strašně zklamali", ale věc se „konečně daří posunout"; jmenovitě viní ředitelku a třídní učitelku, OSPOD, psychiatričku, policistu „pana Bílého", státní zástupkyni a soudkyni, která prý „sama sebe z podjatosti vyšetřovala" — „zatneme jim tipec".
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ---
 

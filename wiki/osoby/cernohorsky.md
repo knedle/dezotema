@@ -49,6 +49,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 9.** — „nic vám nepatří" — iluze demokracie; nevydaná opozice vs. vydaný Okamura; Hřib a přeplatky; platy poslanců 4 mil. ročně — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
 - **8. 9.** — volby bez kvóra = podvod, počty členů stran; zrušit peníze, „slovanské občiny"; Google vojenský projekt — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 - **12. 9.** — národní hrdost, zákaz mobilů ve školách, „socioekonomické vraždy"; Babiš/Motoristé a karenční doba; Rakušan v dozorčí radě České pošty — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
+- **28. 9.** — Vrabel a Sládek „kolaboranti" a „největší kurvy scény"; Václavák 2022 nenaplnil Vrabel; vlastenecká scéna jde po penězích (Zítko, Bernardy, Német, Krejčí); profil Čermák možná od „lidí kolem Čermáka"; rada Čermákovi odmítnout násilí — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -115,6 +116,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **27. 8.** — Bitcoinová kauza jako „největší korupce za 37 let" — legalizace špinavých peněz z pedofilie/orgánů/drog; aktualizace kauzy „Terezy" (třetí právní kancelář) — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - **15. 9.** — Obhajoba Babiše v kauze Čapí hnízdo (dotace vrácena, areál veřejně přístupný); chvála charitativní pomoci přes nadaci Agrofert — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
 - **8. 9.** — chráněné dílny „parazitují" na invalidech; Radim Fiala a prodaná firma — „hyenismus" — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+- **28. 9.** — ⚡ Vrabelova dotační kauza podle AI rešerše — „hochštapler a podvodník" — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
@@ -164,6 +166,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **22. 9.** — Ženy do politiky „nepatří" (až na výjimky); sexistické útoky na političky a homofobní na europoslance — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 - **24. 9.** — Kauza Terezy Vlasákové jako „spiknutí" školy, OSPOD, policie a soudu — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 - **5. 9.** — porodnost 77 200 (2025), z toho jen ~65 tis. „Čechů"; „vymřeme"; LGBT, „furries", očkování těhotných — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+- **28. 9.** — kauza Vlasáková — jmenovitě škola, OSPOD, policista Bílý, soudkyně — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
@@ -202,6 +205,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **8. 9.** — ⚠️ „židáci, kteří by měli být vyhubeni"; ruská armáda má „odvézt" Pavla a Koláře; „rozkopat rypáky" majitelům chráněných dílen — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 - **11. 9.** — Fialova vláda — „tresty nejvyšší, z kriminálu nevylézt" (archiv 2022) — [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
 - **12. 9.** — Pavel a Kolář „šibenice", 5–6 členů Fialovy vlády „pověsit", Fauci „pomalé elektrické křeslo", Meeting Brno „za jisté doby se stříleli" — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
+- **28. 9.** — Vrabel a Sládek „rozbít rypáky, vykopat z ČR"; Zítko „patří do kriminálu" — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 
 ---
 
@@ -376,6 +380,12 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Anthony Fauci | ❌ negativní | „Pomalé elektrické křeslo" | 2026-09-12 | [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
 | Donald Trump | ❌ negativní | Řazen mezi „Epsteinovy pedofily" | 2026-09-12 | [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
 | Boris Šťastný | ❌ negativní | Karenční doba — „bývalý ODSák" | 2026-09-12 | [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
+| Ladislav Vrabel | ❌ negativní | „Hochštapler a podvodník", „kolaborant", „táhni do Srbska" | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
+| Miroslav Sládek | ❌ negativní | „Klasický rasista", násilí, „zalez do kanálu" | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
+| Pavel Krejčí | ❌ negativní | „Úchylák", vyšachoval ho ze strany | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
+| Renata Bernardy | ❌ negativní | Dvakrát ho udala, placený web | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
+| Tomáš Čermák | ⚖️ rozporuplný | Soucitné rady, varování před násilím; profil možná od „lidí kolem Čermáka" | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
+| Kateřina Konečná | ✅ pozitivní | Pomáhá nezištně | 2026-09-28 | [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
 
 ---
 
@@ -441,3 +451,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
 - [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 - [Videoportál: archivní projev „Scheiße Merkel" (23. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-scheisse-merkel-23-9-2026)
+- [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)

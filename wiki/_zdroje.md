@@ -5205,3 +5205,11 @@
 - **Datum záznamu:** 2026-09-23
 - **Zpracováno:** ano
 - **Poznámka:** Archivní demonstrační projev (pravděpodobně 2015), znovu zveřejněn 23. 9. 2026.
+
+## Jiří Černohorský — Facebook Live (28. 9. 2026) {#jiří-černohorský--facebook-live-28-9-2026}
+- **Soubor:** [přepis](prepisy/done/2026-09-28_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1718358825901003>
+- **Datum záznamu:** 2026-09-28
+- **Zpracováno:** ano
+- **Poznámka:** Úsek 29:24–40:19 je předčítaná AI rešerše o Vrabelově trestní kauze.

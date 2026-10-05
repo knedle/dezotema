@@ -125,6 +125,8 @@ Tato stránka eviduje výroky splňující klíčové znaky: **pojmenovaný ter�
 | Jiří Černohorský | Meeting Brno | „to jsou kolaboranti [...] vlastizrádci. A ty se za jisté doby stříleli. Bohužel dneska to nejde." — legitimizace popravy, lítost, že „dnes to nejde" | 12. 9. 2026 | [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
 | Jiří Černohorský | Anthony Fauci | „má dostat jednoznačně [...] elektrický křeslo [...] hodně pomalý elektrický křeslo. Aby si to ten globální skurvený zmrd užil." — výzva k mučivé popravě | 12. 9. 2026 | [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
 | Jiří Černohorský | Boris Šťastný a Motoristé; zakladatel TV Česko | „Prostě po tlamě [...] po rypáku potřebujete, vy hajzlové" / „kdyby stál vedle mě, tak mu dám po tlamě" — výhrůžky fyzickým napadením | 12. 9. 2026 | [Černohorský — Facebook Live (12. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-12-9-2026) |
+| Jiří Černohorský | Ladislav Vrabel, Miroslav Sládek | „tady těmhle dvou zmrdům rozbít rypáky. Jenom rozbít rypáky, nakopat prdele a vykopat je z České republiky. Vrábele táhni do hajzlu, do toho svýho Srbska [...] A Sládku, ty už zalez někam do kanálu" + „A já bych ho zašil natvrdo" — výzva k fyzickému napadení, vyhnání a uvěznění | 28. 9. 2026 | [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
+| Jiří Černohorský | Pavel Zítko | „ten zmrd patří do kriminálu, nic jinýho, vyjebanej, zasranej, skurvenej zmrd, který ojebává lidi" — dehumanizace + výzva k uvěznění | 28. 9. 2026 | [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026) |
 
 ---
 
