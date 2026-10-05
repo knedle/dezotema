@@ -1483,3 +1483,11 @@ K jednání Rady EU o hybridních hrozbách a k Rutteho návrhu žádat po Rusku
 > „Rusko by mělo v rámci reciprocity naprosto jednoznačně právo na to, aby třeba někdo útočil na území Evropské unie ruskýma zbraněma. Kdyby si našli nějaký proxy." — Ladislav Vrabel
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+
+---
+
+### „Tři cesty ke světovému míru" — zničit USA by přineslo mír; „Rusové by mohli dojít až do Bruselu vyčistit Evropu od nacismu" (Vrabel, 2. 10. 2026)
+
+V parodii Trumpovy logiky („zničíme Írán a bude mír") Vrabel popisuje tři cesty k míru: odzbrojení je nereálné, protože „většina společnosti jsou prostě mentálně zaostalí lidi" ovládaní médii; druhou cestou by bylo zničit USA, „největšího agresora od 2. světové války" — „kdyby se zničily Spojené státy, tak je velká pravděpodobnost, že by mohl nastat na celém světě mír", to ale nechce kvůli 330 milionům lidí; třetí je jaderná válka, která zničí celý svět — „docela reálná možnost". Připomíná, že od roku 2022 říká, že ČR bude znovu suverénní za 5–10 let a mezitím „si možná na dva, tři roky projde válkou", a že už v roce 2023 si v Bruselu dokázal představit, že „Rusové došli až do Bruselu, abychom vyčistili celou tu Evropu od nacismu". Polsko a ČR (přes polovinu munice pro Ukrajinu) podle něj čeká „bumerang". Válečná ekonomika „nemá žádnou hodnotu ze své podstaty", skutečná inflace je „samozřejmě dvouciferná".
+
+**Zdroje:** [Vrabel — Zprávy v devět 2. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)

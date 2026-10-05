@@ -5289,3 +5289,11 @@
 - **Datum záznamu:** 2026-10-01
 - **Zpracováno:** ano
 - **Poznámka:** Vysíláno z Českého Krumlova; výpadek audia [16:53–17:23].
+
+## Ladislav Vrabel — Zprávy v devět 2. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-2-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-02_Ladislav-Vrabel_2-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1617692563090528>
+- **Datum záznamu:** 2026-10-02
+- **Zpracováno:** ano
+- **Poznámka:** Vysíláno z pražského hotelu; mezera ~30 s kolem [11:16].

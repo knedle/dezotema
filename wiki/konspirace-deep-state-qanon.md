@@ -239,7 +239,9 @@ Vrabel si „není úplně jistý, že Donald Trump pracuje pro Spojené státy"
 
 **27. 9.** — Vrabel tezi opakuje („podle mě Donald Trump nepracuje pro Spojené státy") a rozšiřuje: USA jsou „kopající umírající kobyla", válka na Ukrajině je boj USA s Rusem jako nástupcem multipolárního světa a Anglosasové vedou „válku proti Slovanům" jako za druhé světové. K výroku Zelenského o Ukrajině jako „velkém Izraeli" připomíná, že obnovu Ukrajiny má na starosti BlackRock — „globalismus a sionismus jde ruku v ruce".
 
-**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+**2. 10.** — K incidentu na palubě FlyDubai (útočník „pravděpodobně džihádista") Vrabel doufá, že ho Trump nepoužije jako záminku proti Íránu a že „to není skutečný Trump, kterého jsem měl rád — že ho vyměnili za nějakého robota nebo dvojníka, že mu ten scénář píše někdo z Bilderberg Group". Babiš podle něj sliboval neposílat vojáky, teď „bude akční" a pošle dvě brigády, kdyby Rusko napadlo Pobaltí; Macinka by Trumpovi „boty leštil".
+
+**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Zprávy v devět 2. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 
 ---
 

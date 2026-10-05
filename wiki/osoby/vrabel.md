@@ -451,6 +451,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **25. 9.** — 1 % vlastní 93 % světa, covid jako přesun majetku; Trump „nepracuje pro USA" — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - **27. 9.** — jídlo jako otrava (červi, fluor, GMO), ovlivňování počasí; „Trump nepracuje pro USA", BlackRock a sionismus — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - **1. 10.** — novela VZP = „korporátní fašismus", „zlatá půl miliarda", covid jako „předvoj" — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+- **2. 10.** — Trump možná „robot nebo dvojník" řízený Bilderbergem — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 
 ### [Migrace](../migrace.md)
 - Švédská europoslankyně nahlásila dánského kolegu policii za protimigrační slogan — dvojí metr — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -1222,6 +1223,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **22. 9.** — jaderné zbraně v Litvě/ČR = akt agrese; francouzský deštník → Orešniky na ČR — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 - **25. 9.** — Pavel „psychopat, který chce všude rozdávat jaderné zbraně"; ochuzený uran v Srbsku — [TV Bureš: Člověk na 1. místě 25. 9. 2026](../_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
 - **27. 9.** — Mrtvá ruka a povolení velitelům k odvetě; francouzský deštník přivezou až v nejhorší chvíli — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+- **2. 10.** — Babiš a francouzský deštník — alegorie Ferdy Mravence „sežrat" — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1275,6 +1277,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **27. 9.** — ČR „nepřiznaný protivník", konflikt nevyhnutelný, scénář „za dvě hodiny čl. 5"; diverzifikace = příprava zničení ruské ropné infrastruktury — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - **30. 9.** — „99% jistota" války, teorie úderu 1000–1500 letadel, ČR doma „beránek" — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 - **1. 10.** — Rusko by mělo „právo" na proxy útoky na EU; tajné služby „banda amatérů" — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+- **2. 10.** — „tři cesty k míru" — zničit USA; Rusové „až do Bruselu vyčistit Evropu od nacismu" — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 
 ---
 
@@ -1766,6 +1769,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Tomio Okamura | ❌ negativní | „Napakoval se" na boji proti migraci | 2026-10-01 | [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026) |
 | Martin Konvička | ✅ pozitivní | Spolu zastavili migraci 2015–16 | 2026-10-01 | [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026) |
 | Petr Bystroň | ✅ pozitivní | „Kamarád", oběť falešných akcí tajných služeb | 2026-10-01 | [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026) |
+| Donald Trump | ❌ negativní | „Velmi nepovedený prezident", možná dvojník (dříve ✅) | 2026-10-02 | [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026) |
+| Ivan David | ✅ pozitivní | Jezdí do Srbska EU „rozbíjet" | 2026-10-02 | [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026) |
 
 ---
 
@@ -1921,3 +1926,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 - [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 - [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+- [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
