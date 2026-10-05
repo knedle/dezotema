@@ -677,6 +677,16 @@ V pořadu TV Bureš (propagace shromáždění „Člověk na prvním místě" 3
 
 ---
 
+### Volby bez kvóra účasti jsou podvod — strany se „zvolí samy" svými členy; zrušit peníze (Černohorský, 8. 9. 2026)
+
+Černohorský tvrdí, že protože zákon nestanoví kvórum účasti, jsou volby „od základu podvod na nás lidi": strany se mohou „zvolit samy" svými členy, zatímco 30–36 % lidí rezignovalo. Čte z AI počty členů stran (KDU-ČSL 19 tisíc, SPD asi 11 tisíc, ODS 10 tisíc, ANO 2 600, STAN 2 200, TOP 09 2 100, Motoristé asi 1 500, Piráti 1 200). V diváckém „kvízu" říká, že by zrušil peníze a nahradil je výměnným obchodem („v tu chvilku se žádnej politik nebude drát") a vrátil se ke „slovanským občinám" s hodnotami čestnost, morálnost, poznaná pravda, hrdost a odvaha; poslanecká funkce byla podle něj za ČSR „čestnou funkcí". Peníze podle něj „neexistujou" — kdyby si 1–2 miliony lidí šly vybrat úspory, nedostanou je; Google je „vojenský projekt" a AI „nás zabije". Babiš podle něj napraví „k 30 %" a zbytek nechá.
+
+> „Neexistuje v zákoně stanovené procentuální kvórum… To je ten další neskutečnej podvod." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (8. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

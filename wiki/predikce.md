@@ -285,6 +285,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Jiří Černohorský — v Evropě přijde recese, Německo se nevzpamatuje do pěti let (8. 9. 2026)
+
+**Předpověď:** Evropa „spadne na hubu" — přijde recese; Německo se z ekonomického propadu nevzpamatuje do pěti let.
+
+> „Já se toho obávám, že v Evropě přijde recese. Že spadneme na hubu." — Jiří Černohorský
+
+**Horizont:** do 2031
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live (8. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
+
+---
+
 ### Jiří Černohorský — „vymíráme a vymřeme" do 60–80 let (5. 9. 2026)
 
 **Předpověď:** Kvůli nízké porodnosti Češi, Moravané a Slezané „vymřou" — za 60 až 80 let.

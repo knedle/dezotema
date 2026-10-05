@@ -1445,3 +1445,13 @@ Vrabel tvrdí, že ČR je „nepřiznaný protivník" Ruska — posílá dobrovo
 > „My jsme jejich protivník. Nepřiznaný, ale protivník." — Ladislav Vrabel
 
 **Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
+
+---
+
+### Válku vyprovokoval Západ a „židé z Izraele"; drony nad Německem byli „ekoteroristé" — Babiš se má Rusku omluvit; Pavel větší hrozba než Rusko (Černohorský, 8. 9. 2026)
+
+Černohorský tvrdí, že válku vyprovokovaly EU, USA, Británie „a židé z Izraele", aby „rozparcelovaly" Rusko, kterému „nezbylo nic jiného"; USA ve druhé světové válce financovaly Hitlera i SSSR („čím víc mrtvejch, tím líp") a za vším stojí „klán satanistický, klán Rothschildů" (viz [Stochastický teror](stochasticky-teror.md)). Připomíná, že v dubnu 2022 předpověděl, že USA budou Evropě prodávat LNG za trojnásobek. Drony nad německými letišti podle něj vypustili „ekoteroristé", ne Rusko — Babiš, Macinka a Vondráček se mají Rusku omluvit za „křivé obvinění"; totéž prý platí o raketě v Polsku a dronech nad Polskem (ukrajinské provokace). Pavel („kretén na Hradě"), Kolář a Strnad jsou podle něj větší ohrožení ČR než celá Ruská federace, za níž stojí BRICS; jediná raketa na Moskvu by znamenala „končíme všichni". Okamura podle něj získává odvahu díky AfD, ale Německo se nevzpamatuje do pěti let a přijde recese.
+
+> „Rusové nejsou agresoři, rusové nikdy agresoři nebyli a rozhodně rusové nejsou nebezpečí." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (8. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)

@@ -1141,3 +1141,11 @@ V televizní debatě s Janem Jakobem Rajchl tvrdí, že ministr financí Zbyněk
 ⚡ **Poznámka:** Přesné čerpání a účelovost prostředků z povodňové půjčky nelze z přepisu nezávisle ověřit — jde o Rajchlovo tvrzení v přímé konfrontaci s Janem Jakobem, který je popřel.
 
 **Zdroje:** [Rajchl — Videoportál 17. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-17-9-2026)
+
+---
+
+### Chráněné dílny „parazitují" na invalidech; Radim Fiala a prodaná firma — „hyenismus" (Černohorský, 8. 9. 2026)
+
+Černohorský čte příspěvky invalidních důchodců (rakovina s metastázemi „v remisi" snížená ze 3. na 1. stupeň, koxartróza 3.–4. stupně jen s 20% omezením) a kritizuje výběrová řízení do chráněných dílen, kde se dokládá rozhodnutí o invaliditě i valorizace a platy jsou 8–9 tisíc místo 25–30 tisíc; majitelé jsou podle něj „horší zmrdi než politici", „normální nacisti" parazitující na dotacích. Souhrn chce poslat ministru Juchelkovi a žádá zrychlenou novelu. K poslanci SPD Radimu Fialovi připomíná článek, podle něhož nesdělil, komu prodal firmu profitující z invalidních důchodců — pokud tam figuruje přes bílého koně, je to „sprostota nejvyššího kalibru, zrůdnost a hyenismus".
+
+**Zdroje:** [Černohorský — Facebook Live (8. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)

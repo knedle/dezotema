@@ -47,6 +47,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **27. 9.** — Facebookový profil „Politický vězeň Čermák" je podle něj falešný (AI texty, „vesmírný král"), autorem Zítko — [Videoportál 27. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026)
 - **24. 9.** — Premiérský program: platy politiků na úroveň 2010, zrušit paušály a poplatky ČT, „vydat" Fialovu vládu; vlastní kandidatura (Restart pro Brno) a výsměch kampaním — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) → [volby-2026.md](../volby-2026.md)
 - **5. 9.** — „nic vám nepatří" — iluze demokracie; nevydaná opozice vs. vydaný Okamura; Hřib a přeplatky; platy poslanců 4 mil. ročně — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+- **8. 9.** — volby bez kvóra = podvod, počty členů stran; zrušit peníze, „slovanské občiny"; Google vojenský projekt — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -112,12 +113,14 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **20. 8.** — Snaha slovenské SaS a českých úředníků z doby Babišovy vlády odebrat Soně Pekové soudně-znaleckou způsobilost kvůli posudku v procesu s Kolárem/Falcim — [Videoportál 20. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-20-8-2026-kauza-peková)
 - **27. 8.** — Bitcoinová kauza jako „největší korupce za 37 let" — legalizace špinavých peněz z pedofilie/orgánů/drog; aktualizace kauzy „Terezy" (třetí právní kancelář) — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
 - **15. 9.** — Obhajoba Babiše v kauze Čapí hnízdo (dotace vrácena, areál veřejně přístupný); chvála charitativní pomoci přes nadaci Agrofert — [Facebook Live 15. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-15-9-2026)
+- **8. 9.** — chráněné dílny „parazitují" na invalidech; Radim Fiala a prodaná firma — „hyenismus" — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Větrné elektrárny: 20–25 let životnost, nerecyklovatelné materiály, 8 000 t betonu (nelze vyjmout) — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
 - Kraj Vysočina odmítl 14 akcelerovaných zón (11. 5. 2026); připomínky do 1. 6. 2026 na MMR — [Videoportál 14. 5. 2026](../_zdroje.md#jiří-černohorský--videoportál-14-5-2026)
 - **17. 8.** — Finanční rozměr: snížení cen elektřiny jen o 10 %, solární dotace 40 mld. Kč/rok, kdo zaplatí likvidaci betonu za 25 let — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
 - **23. 8.** — rozhovor s poslancem o studiích (Nature) o mikroklimatických dopadech solárních/větrných polí (sucho, +3–4 °C v Arizoně) — [Videoportál 23. 8. 2026](../_zdroje.md#jiří-černohorský--videoportál-mikroklima-solárů-a-větrníků-23-8-2026)
+- **8. 9.** — starosta zlomen výhrůžkami vůči dětem povolil 22 větrníků — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Sametová revoluce jako řízený rozpad, Havel a Schwarzenberg jako agenti Západu — [Brno a Landsmannschaft 6. 4. 2026](../_zdroje.md#jiří-černohorský--brno-a-landsmannschaft-fiala-jako-kolaborant-6-4-2026)
@@ -139,6 +142,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **21. 9.** — sdílí dokument o volyňském masakru (UPA 1943, ~100 tis. Poláků); zobecňuje na Ukrajince: „co je to za národ", výzva ke sdílení — [Videoportál 21. 9. 2026](../_zdroje.md#jiří-černohorský--videoportál-volyňský-masakr-21-9-2026) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#volyňský-masakr-jako-obraz-ukrajinského-národa--výzva-ke-sdílení-černohorský-21-9-2026)
 - **22. 9.** — Volyň na TikToku, „ukronacisti" z Azova; Zelenskyj a TCK „ať pochcípaj"; válka skončí jen ruskými podmínkami nebo „orešníky", porážka Ruska = konec světa, elity v bunkrech — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **24. 9.** — Příměří by pro Rusko bylo hloupé, NATO „teroristická organizace", „oříšky" na Londýn/Paříž/Brusel/Prahu; korupce 140 mil. USD okrádá vojáky; Volyň, Zelenskyj „Žid a nacista", Dvořák „lidský odpad" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md)
+- **8. 9.** — válku vyprovokoval Západ a „židé z Izraele", Rothschildové; drony = „ekoteroristé", omluva Rusku; Pavel větší hrozba než Rusko — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -191,6 +195,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **22. 9.** — Zelenskyj/TCK „ať pochcípaj"; politici „aby vás popravili"; Kyjev/Lvov „hnízdo nacistických zmrdů"; Ukrajinci v ČR; Tušl „zdechl"; Jurečka „na elektrické křeslo" — [Facebook Live 22. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 - **24. 9.** — von der Leyenová „by měla být popravena, nemá právo na život"; Dvořák „lidský odpad"; Zelenskyj antisemitsky; Praha jako cíl „oříšků" — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 - **5. 9.** — Hřib „rozkopat rypák", Rakušan „obojek a koule u nohy", Šebelová, LGBT, anonymní uživatel — [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+- **8. 9.** — ⚠️ „židáci, kteří by měli být vyhubeni"; ruská armáda má „odvézt" Pavla a Koláře; „rozkopat rypáky" majitelům chráněných dílen — [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
 
 ---
 
@@ -357,6 +362,10 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Mirek Ševčík | ✅ pozitivní | „Nesere se" s opozicí | 2026-09-05 | [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026) |
 | Šebelová (STAN) | ❌ negativní | „Prosazuje eutanazii pro nezletilé" | 2026-09-05 | [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026) |
 | Pospíšil | ❌ negativní | Trestní oznámení na Okamuru; homofobní urážky | 2026-09-05 | [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026) |
+| Petra Rédová | ✅ pozitivní | Senátní kandidátka ve Znojmě s podporou SPD | 2026-09-08 | [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026) |
+| Radim Fiala | ❌ negativní | Prodaná firma profitující z invalidů — „hyenismus" (posun od dřívější podpory) | 2026-09-08 | [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026) |
+| Rothschildové / „židé z Izraele" | ❌ negativní | Strůjci války — „měli by být vyhubeni" | 2026-09-08 | [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026) |
+| Petr Pavel | ❌ negativní | „Kretén na Hradě", větší hrozba než Rusko, „nebudu postrádat" | 2026-09-08 | [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026) |
 
 ---
 
@@ -418,3 +427,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live (24. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 - [Videoportál: falešný profil Čermák (27. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026)
 - [Facebook Live (5. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+- [Facebook Live (8. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)

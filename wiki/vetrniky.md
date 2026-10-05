@@ -316,3 +316,11 @@ U Podštátu na Přerovsku se zřítila přibližně 30 metrů vysoká, 25–30 
 Vláda schválila akcelerační zóny pro obnovitelné zdroje, které mají urychlit povolování větrných elektráren — na pomezí Zlínského a Olomouckého kraje má vzniknout až 66 turbín, ve Slezsku je vyčleněno 6 lokalit pro více než 50 elektráren; starostové požadují místo stanovených 500 metrů odstup alespoň 1500 metrů a zvažují správní žalobu. Vrabel to označuje za podvod vlády, která před volbami slibovala Green Deal zrušit (ministr zahraničí prohlásil, že „klimatická krize skončila") — namísto rozvázání smlouvy s Bruselem a případného vystoupení z EU jen zmenšila akcelerační zóny, čímž se stejný počet turbín „nacpe" na menší plochu. Použitou přirovnávací metaforou (znásilnění, kde je jediným řešením „odmítnutí", nikoli vyjednávání o místě činu) ilustruje svůj obecný závěr, že s Evropskou unií jako celkem se „nedá vyjednávat" a jediná cesta je vystoupení.
 
 **Zdroje:** [Vrabel — Facebook Live 1. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-1-9-2026)
+
+---
+
+### Starosta zlomený výhrůžkami vůči dětem povolil 22 větrníků — politici jsou vydíratelní (Černohorský, 8. 9. 2026)
+
+S odkazem na slovenské video („děd Vševěd") Černohorský tvrdí, že jistý český starosta, který byl proti větrníkům, povolil 22 turbín poté, co za ním na nátlak chodili strážníci, policie a hasiči. Zobecňuje: politika s rodinou systém zlomí výhrůžkami, „že prostě zlikvidujou vaši rodinu, nejlépe jedno dítě, pak druhý dítě" — podle vzoru USA „uplatit, zdiskreditovat, a když to nejde, převrat, unesou, zabijou". Větrníky podle něj zabíjejí živé tvory a nevratně ničí půdu; režim označuje za „satanistický, korporátně nacistický, totalitní".
+
+**Zdroje:** [Černohorský — Facebook Live (8. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-8-9-2026)
