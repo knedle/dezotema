@@ -781,7 +781,9 @@ Zítko ve vysílání 4. 5. 2026 odkazuje na místopřísežné prohlášení pr
 
 Boldy tvrdí, že vakcíny mají sloužit jako biologická zbraň — odkazuje na patent, který má vyvěšený na svém profilu. Necituje očekávání nové pandemie, ale existující plán: Bill Gates prý už na konferenci TED v roce 2017 řekl, že snížení populace o 10–15 % „bude daleko lepší". Jako projev tohoto plánu uvádí nárůst rakovin a zdravotních problémů u mladých lidí po covidu a po vakcínách a pokles porodnosti. Argumentuje, že nejde primárně o „zabíjení" lidí (to se prý děje pomalu jídlem, vzduchem), ale o snížení porodnosti tak, aby populace za 10–20 let klesala (více úmrtí než porodů) — odvolává se na statistiku růstu populace, který prý za 6 let sledování „brutálně zpomalil". Navazuje na [Vakcíny COVID-19 = biologické zbraně (Francis Boyle)](#francis-boyle-vakcíny-covid-19--biologické-zbraně-hromadného-ničení--zítko-4-5-2026) a [Propad porodnosti o třetinu](#propad-porodnosti-o-třetinu--data-z-úzis-zítko).
 
-**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+**3. 10.** — Na začátku sezony očkování proti chřipce Boldy tvrdí, že lidé se jdou očkovat „jako stupidní ovce", protože to slyšeli ve zprávách, na iDnes či „od Prymuly"; očkovaní jsou podle něj každoročně nemocní, zatímco on sám chřipku 15–20 let neměl. Propaganda kolem očkování podle něj „funguje několik století". Covidová vakcína měla zachránit životy, místo toho přišla náhlá úmrtí, infarkty u mladých a kolabující sportovci — je to „biologická zbraň, která je potvrzená i v patentu".
+
+**Zdroje:** [Boldy — Videoportál 17. 7. 2026](_zdroje.md#konspirátor-boldy--videoportál-17-7-2026), [Boldy — Videoportál 3. 10. 2026](_zdroje.md#konspirátor-boldy--videoportál-3-10-2026)
 
 ---
 

@@ -76,6 +76,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - mRNA v rostlinách a potravinovém řetězci — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 - Depopulace jako cíl elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 - Vakcíny jako biologická zbraň, Gates na TEDu 2017 o snížení populace o 10–15 % — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
+- Očkování proti chřipce — očkovaní „každoročně nemocní", lidé jdou „jako stupidní ovce"; covidová vakcína jako biologická zbraň „v patentu" (opakování) — [3. 10. 2026](../_zdroje.md#konspirátor-boldy--videoportál-3-10-2026)
 - Dokument Pfizeru (48 000 případů, 150 000+ vedlejších účinků, 700+ účinků vakcíny), pokles porodnosti; vakcíny proti rakovině „udržují" rakovinu v těle — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
@@ -154,3 +155,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Facebook Live (27. 8. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-27-8-2026)
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
 - [Videoportál (22. 9. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+- [Videoportál (3. 10. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-3-10-2026)

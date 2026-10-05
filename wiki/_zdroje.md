@@ -5066,3 +5066,10 @@
 - **Datum záznamu:** 2026-09-27
 - **Zpracováno:** ano
 - **Poznámka:** Nedělní vysílání, odpovědi na dotazy diváků (Zuzka moderuje). Klipy: Pavel na Fox News, Babiš o Macronově iniciativě.
+
+## Konspirátor Boldy — Videoportál (3. 10. 2026) {#konspirátor-boldy--videoportál-3-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-03_Konspirátor-Boldy-KonspyChannel_46K-views-15K-reactions-Nic-se-nezměn.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1608005744295524>
+- **Datum záznamu:** 2026-10-03
+- **Zpracováno:** ano
