@@ -170,7 +170,9 @@ K úvaze Komise o passerelle klauzulích (kvalifikovaná většina v sankcích, 
 
 > „Tohle je konec. Konec České republiky. Česká republika zůstane jako na mapě namalovaná." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+**6. 10.** — K návrhům Komise na rozšíření EU (Černá Hora, Albánie, Ukrajina, Moldavsko), mj. možnosti pozastavit novému členovi hlasovací práva až na 15 let, pokud „nerespektuje hodnoty EU“, Vrabel tvrdí, že „hodnotami“ se myslí podpora Ukrajiny, zákaz obchodu s Ruskem a Čínou nebo migrační pakt. Rozšiřování je podle něj jen „salámová metoda“, jak zavést kvalifikovanou většinu, aby žádný „hrdina se svědomím“ typu Fica nemohl zablokovat vstup Ukrajiny. Později se to má stát obecným pravidlem a změnit Lisabonskou smlouvu. Kvalifikovanou většinou pak bude možné rozhodnout o „přesunu muslimů“ do ČR, Polska, Maďarska a na Slovensko, protože pro EU už to nejsou státy, ale „regiony“. Babiše označuje za „EU patriota“ a připomíná, že Okamura přesvědčoval Srbsko ke vstupu do EU.
+
+**Zdroje:** [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026), [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ---
 

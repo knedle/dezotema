@@ -637,6 +637,14 @@ Zítko cituje kanadského lékaře Williama Makise: antiparazitika jako ivermekt
 
 ---
 
+### Údajný mor v Irkutsku jako protiruská propaganda; covid „pravděpodobně udělali Američané“ (Vrabel, 6. 10. 2026)
+
+K úmrtí výzkumnice protimorového ústavu v Irkutsku Vrabel uvádí, že riziko šíření je podle lékařů velmi nízké a že americká média z toho dělají „velkou věc“, aby si lidé „na podvědomé úrovni“ spojili Rusko s morem. Zároveň připouští, že pokud by globalisté chtěli novou epidemii, „klidně by mohla přijít z Ruska“, tak jako covid „přišel z Číny“. Covid podle něj „pravděpodobně udělali Američané“ v laboratoři řízené Faucim a v prosinci 2019 ho „přivezli američtí vojáci“. Šlo o „vojenskou operaci se svými cíli“ (zákaz chodit k lékaři, ventilátory). Víc se k tomu prý nevyjádří, „aby mu nezrušili YouTube“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+
+---
+
 ### Italská studie: vyšší riziko rakoviny po vakcinaci COVID-19
 
 Zítko v druhém živém vysílání 14. dubna 2026 sdílí italskou studii, která dle jeho výkladu prokázala, že lidé, kteří dostali alespoň jednu dávku vakcíny COVID-19, měli ve srovnání s neočkovanými:

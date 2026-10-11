@@ -924,6 +924,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [COVID a vakcíny](../covid-vakciny.md) (pokrač. 2)
 - **31. 8.** — 41 mil. dávek vakcín, 18 mil. zlikvidováno za ~8 mld. Kč; zamlčené nežádoucí účinky jako „úmyslné zabití" — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
 - **3. 10.** — ebola a příští pandemie; Vojtěch — „kde by měl být trest smrti" — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
+- **6. 10.** — mor v Irkutsku = propaganda; covid „udělali Američané“, „vojenská operace“ — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 9)
 - **31. 8.** — Friedrich Merz jako „nový Hitler" řízený BlackRockem — [Facebook Live 31. 8.](../_zdroje.md#ladislav-vrabel--facebook-live-31-8-2026)
@@ -1232,6 +1233,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **2. 10.** — Babiš a francouzský deštník — alegorie Ferdy Mravence „sežrat" — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 - **3. 10.** — shromáždění 3. 10.: tři výzvy (žádné jaderné zbraně, vyjednavač míru, stop zbraním na Ukrajinu) — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 - **3. 10.** — shromáždění 3. 10. — plné znění tří výzev; řečníci Kratochvíl, VK aj. — [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
+- **6. 10.** — o „deštníku“ by rozhodoval „emocionálně nestabilní“ Macron; výzvy podává 7. 10. vládě — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1247,6 +1249,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 15)
 - **18. 9.** — Trump/Monroeova doktrína — vyhrožuje EU i Kanadě kvůli přidružení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
 - **29. 9.** — passerelle klauzule = „konec ČR", „Anglosasové se rozhodnou, Slované mašírují" — [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+- **6. 10.** — rozšíření EU: pozastavení hlasů na 15 let a kvalifikovaná většina jako cesta k přesunu muslimů do V4; Babiš „EU patriot“, Okamura přesvědčoval Srbsko — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1257,6 +1260,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [DSA a cenzura](../dsa-cenzura.md) (pokrač. 6)
 - **19. 9.** — Trump zakázal CNN/MSNBC/Politico; vlastní zkušenost s cenzurou (Kakáč, Facebook dosah) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - **5. 10.** — § 405: bez odsouzeného válečného zločinu nelze soudit jeho schvalování (Karel a drogerie); Rajchl/Vacek/Stříž — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
+- **6. 10.** — dopis Babišovi a ministru spravedlnosti kvůli stíhaným za „Z“; soudy „dělají politiku“; možná demonstrace 17. 11. — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 18)
 - **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1278,6 +1282,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - **5. 10.** — Future Air Force: globalisté dělají z Druláka a Trumpa „národní ikony“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md) — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
+- **6. 10.** — studenti jako nástroj převratů; Evropa „páchá harakiri“, „držkopád“; Green Deal a likvidace ropy jako depopulace na 1 miliardu — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1292,6 +1297,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **1. 10.** — Rusko by mělo „právo" na proxy útoky na EU; tajné služby „banda amatérů" — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
 - **2. 10.** — „tři cesty k míru" — zničit USA; Rusové „až do Bruselu vyčistit Evropu od nacismu" — [Zprávy v devět 2. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
 - **29. 9.** — Babiš porušil slib — dvě brigády do Pobaltí, vojáci „žoldáci", scénář mobilizace — [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+- **6. 10.** — válka „na 99 %“ začne v Pobaltí, vleklá; jaderné obklíčení Ruska, Mrtvá ruka; „zachraň se, kdo můžeš“ — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ---
 
@@ -1800,6 +1806,12 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Jindřich Rajchl, Petr Vacek | ❌ negativní | Vytvořili zatýkání za „Z“ „na objednávku“ se státním zástupcem Střížem | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
 | Andrej Babiš | ❌ negativní | Daně v rozporu se slibem, migrační pakt odmítl jen verbálně, „hurá“ za SAFE | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
 | Savo Minić / Milorad Dodik | ✅ pozitivní | Gratulace k vítězství v Republice srbské | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
+| Emmanuel Macron | ❌ negativní | „Emocionálně nestabilní“, „psychická porucha“, podvedl Rusko 2022, pracuje pro Rothschilda | 2026-10-06 | [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026) |
+| Tomio Okamura | ❌ negativní | „Pravý vlastenec“ (ironicky), který přesvědčoval Srbsko ke vstupu do EU | 2026-10-06 | [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026) |
+| Michala Gánovská | ✅ pozitivní | Zdroj informací o jaderném deštníku a ruském vnímání ČR | 2026-10-06 | [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026) |
+| Štefan Harabin | ✅ pozitivní | Chystá s ním právní rozbor stíhání za „Z“ | 2026-10-06 | [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026) |
+| Robert Fico | ✅ pozitivní | „Hrdina se svědomím“, který může zablokovat agendu EU | 2026-10-06 | [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026) |
+| Sergej Lavrov | ⚖️ rozporuplný | Nevěří mu, že válka s Evropou bude rychlá a jaderná | 2026-10-06 | [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026) |
 
 ---
 
@@ -1961,3 +1973,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
 - [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
 - [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
+- [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)

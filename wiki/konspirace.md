@@ -896,7 +896,19 @@ Zítko sdílí a komentuje video, které dává do souvislosti vznik americké c
 
 Německá policie zadržela v obytném voze 48letého muže s poznámkami vytipovávajícími přes 160 cílů útoků na elektrickou infrastrukturu — vyšetřovatelé jeho motiv spojují s odporem k fosilním palivům, v souvislosti se sérií sabotážních útoků na rozvodny v několika spolkových zemích. Vrabel to dává do souvislosti s rétorikou o „hoření planety" (zmiňuje předsedu Valného shromáždění OSN, který mluvil o „hořících lidech") a tvrdí, že podobná násilná radikalizace bude čím dál častější, protože se „západní systém" ekonomicky i řídicí rozpadá a snaží se udržet mocí formou „digitálního koncentráku" (digitální měna, kamery, sledování, umělá inteligence). Jako doklad uvádí zatčení Tomáše Hrdličky na demonstraci za nošení odznaku s písmenem „Z" a rostoucí protesty po celé Evropě (Řecko, Španělsko, Británie, Irsko) — s výjimkou ČR, kde plánuje totéž „napravit" veřejným shromážděním 3. 10.
 
-**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+**6. 10.** — Vrabel tvrdí, že Evropa „páchá harakiri“, „jako kdyby ji někdo chtěl zničit“. Odstřihla se od levné ruské energie, kupuje čtyřikrát dražší americkou, pohádala se s USA, přechází na válečnou ekonomiku, chce omezit levné čínské zboží (francouzsko-německý návrh nástroje proti dumpingu) a otevřela „stavidla milionů migrantů“. Proto „se Evropa vaří“ a „bude občanská válka“. Británie podle něj zatkla „50 tisíc lidí“ za příspěvky na sítích, takže Rusko je proti ní „země svobody“. ČR je „na povrchu krásná, uvnitř prohnilá“. Inflace se podle něj zrychluje, protože „končí systém amerického petrodolaru“, a „to, co nás čeká, je ekonomický držkopád“.
+
+**Zdroje:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026), [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+
+---
+
+### Globalisté používají k převratům studenty; Green Deal a útoky na ropu jako plán depopulace na „jednu miliardu“ (Vrabel, 6. 10. 2026)
+
+K tomu, že se studentské protesty z Francie šíří do Itálie, Vrabel tvrdí, že „když globalisté dělají převrat v nějaké zemi, vždycky používají studenty“: v ČR v roce 1989 (student Šmíd), na Majdanu i nyní v Srbsku proti Vučićovi (studentské hnutí kandiduje ve volbách). Šíření protestů z jedné země do druhé je podle něj „naplánované, organizované přes sociální sítě a neziskovky, placené“, což ví „jako organizátor jednoho z největších protestů v ČR“.
+
+V závěru vysílání Vrabel spekuluje, že energetická krize, Green Deal i útoky na ropnou infrastrukturu po světě jsou „cílené“: „chtějí udělat svět bez ropy a bez benzínu“. Popisuje, co by sám dělal, kdyby chtěl snížit lidstvo z 8–9 miliard na jednu miliardu. Nevraždil by, ale udělal by vakcínu způsobující neplodnost, plastové kelímky s mikroplasty, „sypal by do oblohy těžké kovy“, otrávil životní prostředí a provedl deindustrializaci a likvidaci ropy, protože ženy v krizích „nejsou tak plodné“. A „měl by dobrý pocit z toho, že je liberální progresivista, který zachránil planetu“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 
 ---
 

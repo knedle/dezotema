@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — válka Ruska s Evropou „na 99 %“ začne v Pobaltí, ČR v ní bude okamžitě a konflikt bude vleklý; čeká nás „ekonomický držkopád“ (6. 10. 2026)
+
+**Předpověď:** Válka Ruska s Evropou podle něj „na 99 %“ bude. Začne v pobaltských zemích, ČR se do ní kvůli článku 5 zapojí okamžitě a půjde o pomalu se rozšiřující vleklý konflikt raket a dronů, ne o okamžitou jadernou válku. Ekonomicky Evropu kvůli konci petrodolaru čeká „držkopád“.
+
+> „Když se ta válka bude rozbíhat, a myslím si, že na 99 % bude, tak to začne v pobaltských zemích [...] takže v té válce budeme okamžitě, protože se aktivuje článek 5.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+
+---
+
 ### Pavel Zítko — 22. 10. v Amsterdamu usednou Gates, Bourla a Rutte na lavici obviněných (3. 10. 2026)
 
 **Předpověď:** Na jednání 22. října 2026 v Amsterdamu budou Bill Gates, Albert Bourla a Mark Rutte obžalovaní (svědek Mike Yeadon), což bude signálem i pro české „covidové“ aktéry. Reiner Fuellmich by měl být do té doby propuštěn.

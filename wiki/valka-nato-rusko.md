@@ -1057,6 +1057,18 @@ Vrabel popisuje vlastní odhad, jak by podle něj vypadala cesta ČR k mobilizac
 
 ---
 
+### Válka Ruska s Evropou „na 99 %“ začne v Pobaltí a bude vleklá; Evropa chystá jaderné obklíčení Ruska; „zachraň se, kdo můžeš“ (Vrabel, 6. 10. 2026)
+
+K útoku 900 ukrajinských dronů na Rusko a k přesunu švédských Patriotů do Polska Vrabel tvrdí, že „až Rusové řeknou, že trpělivost přetekla, bude nám to líto“. Na rozdíl od Lavrova nevěří, že válka s Evropou bude rychlá a hned jaderná. Podle něj „na 99 %“ začne v Pobaltí, ČR v ní bude „okamžitě“ díky článku 5 a „dvěma Babišovým brigádám“ (uzavřené hranice), a půjde o vleklý konflikt raket a dronů, který „se bude pomalu rozrůstat na celou Evropu“. Jaderné zbraně se podle něj budou rozmisťovat a eskalace bude postupná. Plánem Evropy je podle něj „obklíčit Rusko od Finska po Gruzii“, vyzbrojit okolní státy jadernými střelami na letadlech (F-35, Rafale, ASMP, nuclear sharing) a provést koordinovaný útok. To se ale nemůže povést kvůli ruské rozvědce a systému „Mrtvá ruka“. Jediné řešení je vzájemné odzbrojení.
+
+Rusové podle něj (s odkazem na Gánovskou a Zacharovovou) vnímají ČR a Slovensko „en bloc jako Evropu, jako nepřítele“. Reagovat budou na to, co dělá vláda, ne na to, co chtějí občané, a je „naše chyba“, že jsme si tuto vládu zvolili. Na shromáždění 3. 10. přišlo jen „asi 500 lidí“, „falešná opozice“ (SPD, Trikolóra, Svobodní drží ministerstvo obrany) dělá opak slibů a „celá republika vypadá, že se pomátla“. Proto opakuje „zachraň se, kdo můžeš“.
+
+> „Myslím si, že to začne tam [v Pobaltí] a bude to pokračovat velmi podobně jako na Ukrajině [...] že ten konflikt se pomalu bude rozrůstat na celou Evropu, že bude vleklý.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+
+---
+
 ### Catherine Austin Fitts: USA potřebují pokračování války na Ukrajině kvůli dolarové dominanci (Vrabel, 14. 8. 2026)
 
 Americká investiční bankéřka a bývalá vládní úřednice Catherine Austin Fitts (Vrabel s ní referuje o osobním setkání) tvrdí, že Spojené státy potřebují udržet konflikt na Ukrajině v chodu kvůli zachování globálního postavení dolaru jako rezervní měny a kontroly nad světovým finančním systémem — někteří představitelé amerického establishmentu jsou dle ní kvůli tomuto zájmu ochotni jít do extrémních kroků. Vrabel odkazuje na společné video s Tuckerem Carlsonem (zveřejněné s titulky na jeho Facebooku) jako doklad této teze.
