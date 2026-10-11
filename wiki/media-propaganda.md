@@ -373,7 +373,9 @@ Dne 17. 6. 2026 Facebook znemožnil Zítkovi spustit živé vysílání („Tent
 
 **6. 10.** — Facebook podle Zítka zablokoval živá vysílání na profilu „Pavel Zítko“ až do 5. listopadu. Jako záminku uvedl příspěvek o ivermektinu, skutečným důvodem má být rychlý růst stránky (916 tis. zhlédnutí za 28 dní, +49 %, „blížili jsme se k milionu“) a Čermákiáda. Zítko se proto vrací na starší stránku Československo TV2 (4 800 sledujících) a varuje před jejím „falešným klonem“, který mají ovládat „hejtři, fízlové a agenti“. Předtím kvůli „běsnému spamu“ omezil komentáře jen na přátele. Prediktor David Hurgády mu prý hned řekl, že to „páníčkům v tajných službách“ dlouho nevydrží.
 
-**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
+**8. 10.** — Podle Zítka Facebook zablokoval živé vysílání už na všech jeho profilech. Nový kanál „Pavel Q Zítko“ sice získal za dvě hodiny 200 sledujících, ale Facebook prý vyžaduje 60 dní čekání, než bude moci vysílat živě. Vysílá proto ze záznamu a blokaci připisuje „šou kolem falešné identity údajného Tomáše Čermáka“. Místo konání akce ve Frýdku-Místku zveřejní až den předem „z bezpečnostních důvodů“, aby nedopadl jako Rajchl, kterému v kraji zrušili pronajatý sál.
+
+**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026), [ČsTV2 — Pozvánka: blokace všech profilů (8. 10. 2026)](_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026)
 
 ---
 

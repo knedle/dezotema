@@ -191,6 +191,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **29. 7.** — vzpomínka na hnutí „Srdcem pro vlast" (2020) a infiltraci nasazenou „trojkou" (Aleš Trčka, Antonín Šlajch, Jan Semper, Patrik Kořenář); opakuje beze změny hon na Thomase Pauknera („všichni jsme Paukner") — [Videoportál 29. 7.](../_zdroje.md#československo-tv2--videoportál-29-7-2026)
 - **4. 10.** — ČT „ani korunu", od 12. 3. 2020 na straně „covidové mafie" — [Živě: pozvánka Čermákovi (4. 10. 2026)](../_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
 - **6. 10.** — Facebook zablokoval živá vysílání do 5. 11. (záminka ivermektin), návrat na ČsTV2, varování před klonem — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
+- **8. 10.** — blokace živého vysílání na všech profilech, „Pavel Q Zítko“ musí čekat 60 dní; vysílá ze záznamu — [Pozvánka: blokace všech profilů (8. 10. 2026)](../_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026)
 
 ---
 
@@ -458,3 +459,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: pozvánka Čermákovi (4. 10. 2026)](../_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
 - [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](../_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026)
 - [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
+- [ČsTV2 — Pozvánka: blokace všech profilů (8. 10. 2026)](../_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026)

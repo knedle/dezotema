@@ -5147,6 +5147,13 @@
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 34 min; soubor datován 7. 10., vysíláno v úterý 6. 10. dopoledne.
 
+## Československo TV2 — Pozvánka do Frýdku-Místku: blokace živého vysílání na všech profilech (8. 10. 2026) {#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-08_Československo-TV2_Díky-blokaci-živého-vysílání-na-všech-profilech-ze.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1808822653905842&_rdr>
+- **Datum záznamu:** 2026-10-08
+- **Zpracováno:** ano
+
 ## Jindřich Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026) {#jindřich-rajchl--prima-slovák-ods-29-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-29_Jindřich-Rajchl_189K-views-14K-reactions-Samuel-Slovák-jenž-ztělesňuj.txt)
 - **Kanál:** Jindřich Rajchl
