@@ -5139,6 +5139,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 25 min; soubor datován 6. 10., vysíláno v pondělí 5. 10. večer.
 
+## Československo TV2 — Živě: blokace profilu Pavel Zítko, spor s Bernardy o Čermáka (6. 10. 2026) {#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-07_Československo-TV2_Československo-TV2-vysílala-živě.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1371748605041110&_rdr>
+- **Datum záznamu:** 2026-10-06
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 34 min; soubor datován 7. 10., vysíláno v úterý 6. 10. dopoledne.
+
 ## Jindřich Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026) {#jindřich-rajchl--prima-slovák-ods-29-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-29_Jindřich-Rajchl_189K-views-14K-reactions-Samuel-Slovák-jenž-ztělesňuj.txt)
 - **Kanál:** Jindřich Rajchl

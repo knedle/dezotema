@@ -371,7 +371,9 @@ Výměna eskalovala: referentka odpovídala formulářovými dopisy, které dle 
 
 Dne 17. 6. 2026 Facebook znemožnil Zítkovi spustit živé vysílání („Tento uživatel nemůže vytvořit živé vysílání") — a totéž na kanálech Československo TV2 i Československo 2020. Jako důvod uvádí údajnou „kyberšikanu" a porušení pravidel komunity za zveřejnění fotky z akce UFC Freedom 250 s Donaldem Trumpem. Zítko proto plánované téma (covidová polemika Fierst vs. Hořejší) odvysílal jen jako záznam. Označuje to za přímou cenzuru a ironicky se ptá, co na to „spolek pro obranu svobody projevu Daniela Vávry". Navazuje na [Facebook omezuje dosah ČsTV2 (7. 5.)](#facebook-omezuje-dosah-čstv2-7-5-2026).
 
-**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026)
+**6. 10.** — Facebook podle Zítka zablokoval živá vysílání na profilu „Pavel Zítko“ až do 5. listopadu. Jako záminku uvedl příspěvek o ivermektinu, skutečným důvodem má být rychlý růst stránky (916 tis. zhlédnutí za 28 dní, +49 %, „blížili jsme se k milionu“) a Čermákiáda. Zítko se proto vrací na starší stránku Československo TV2 (4 800 sledujících) a varuje před jejím „falešným klonem“, který mají ovládat „hejtři, fízlové a agenti“. Předtím kvůli „běsnému spamu“ omezil komentáře jen na přátele. Prediktor David Hurgády mu prý hned řekl, že to „páníčkům v tajných službách“ dlouho nevydrží.
+
+**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 
 ---
 

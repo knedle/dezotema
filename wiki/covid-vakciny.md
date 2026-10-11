@@ -631,7 +631,9 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 Zítko cituje kanadského lékaře Williama Makise: antiparazitika jako ivermektin, mebendazol a fenbendazol jsou „napadána, jakmile se objeví v onkologické péči“, a jeho článek o třech pacientech ve 4. stadiu byl po recenzi stažen kvůli „procedurální stížnosti“. Ivermektin a hydroxychlorochin byly podle Zítka účinné i na covid, a „experimentální vakcíny“ proto „nikdy neměly být schváleny“. Fauci a jeho okolí podle něj účinnost zatajili a ivermektin zesměšnili jako „pastu pro koně“. Zájemcům nabízí kontakt na ivermektin a esenciální oleje firmy Bewit, se kterou spolupracuje. Očkovaným s „horšími šaržemi“ (rtuť, formaldehyd, SV-40, grafen) mají přírodní preparáty „zlepšit zdravotní stav“.
 
-**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+**6. 10.** — Zítko tvrdí, že ivermektin je v ČR „neuvěřitelným způsobem nedostupný“, přestože je účinný i „proti formám rakoviny“ a stojí stovky dolarů ročně proti 111 tisícům USD za chemoterapii. Zájemcům nabízí zprostředkování dodavatele.
+
+**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 
 ---
 

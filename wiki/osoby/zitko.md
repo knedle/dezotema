@@ -50,6 +50,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **2. 10.** — „zachránili jsme tisíce životů"; Flegr „zrůdička" — „to udělá někdo jinej"; Ivermectin místo chemoterapie — [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](../_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
 - **5. 10.** — „čtyři fáze vědy", Fauci 111× pátý dodatek, covid „vytlačen z TV" ruskou operací; KS Ústí n. L. prý uznal, že virus nebyl izolován; vojenský tribunál — [Živě: Čermák a petice za ČSFR (5. 10. 2026)](../_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026)
 - **3. 10.** — Amsterdam 22. 10. (Gates, Bourla, Rutte), Florida žaloba na Pfizer (158 893 NÚ, 1 223 mrtvých), antiparazitika vs. rakovina, porodnost −30 % — [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+- **6. 10.** — ivermektin „nedostupný“, účinný proti rakovině; nabízí dodavatele — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -93,6 +94,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **5. 10.** — Čermák „dvojník": petice na „falešném" profilu porušuje slib soudkyni; výzva zveřejnit certifikát Vězňova cesta ještě v noci — [Živě: Čermák a petice za ČSFR (5. 10. 2026)](../_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026)
 - **4. 10.** — pozvánka „údajnému" Čermákovi do Frýdku-Místku (all inclusive); jiné uši, výška, AI hlas; zdravice přes „White Hats" — [Živě: pozvánka Čermákovi (4. 10. 2026)](../_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
 - **3. 10.** — bitcoin „přes 100 mld.“, „půlka ODS do vězení“; rekapitulace Čermákiády — [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+- **6. 10.** — spor s Renatou Bernardy (TV Šalingrad) o identitu Čermáka; certifikát, vykání, Naxera; 110 dní vazby „bez důkazů“ — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -169,6 +171,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **5. 10.** — petice za anulaci rozdělení ČSFR (Stráský bez důvěry → nulitní podpis; zákon 11/1918 platí); doplatek 50 % „faktury" pro Schillerovou; mírová smlouva vítězných mocností určí hranice → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [Živě: Čermák a petice za ČSFR (5. 10. 2026)](../_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026)
 - **4. 10.** — nález ÚS 55/1995 → nulita 1968 i 1992, OSN „uvedena v omyl", Havel „křivopřísežník"; soudy jako firmy (DUNS); volby falšuje HP (ČR) a ESET (SR); reparace 29 bil. Kč / 9 500 t zlata jen pro ČSR — [Živě: pozvánka Čermákovi (4. 10. 2026)](../_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
 - **3. 10.** — královna oběšena na Gitmo, Bush a Cheney popraveni, Biden dvojník; czexit iluze, jen obnova ČSR, Rusko bude chtít „chcimíry“; sjednocení Německa protiprávní, smlouva 2+4 může padnout → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md) — [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+- **6. 10.** — doplatky faktur → arbitráž a insolvence „korporace Česko/Slovensko“ — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
@@ -187,6 +190,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **16. 7. (Pfizergate 11:11)** — ČT placená nejen solárníky, ale i farma a zbrojaři (článek Kiršner, Paukner); „největší kšeft je válka a zdraví", ČT prý porušuje zákon od 12. 3. 2020 — [Pfizergate a Uršula 11:11, 16. 7.](../_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
 - **29. 7.** — vzpomínka na hnutí „Srdcem pro vlast" (2020) a infiltraci nasazenou „trojkou" (Aleš Trčka, Antonín Šlajch, Jan Semper, Patrik Kořenář); opakuje beze změny hon na Thomase Pauknera („všichni jsme Paukner") — [Videoportál 29. 7.](../_zdroje.md#československo-tv2--videoportál-29-7-2026)
 - **4. 10.** — ČT „ani korunu", od 12. 3. 2020 na straně „covidové mafie" — [Živě: pozvánka Čermákovi (4. 10. 2026)](../_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
+- **6. 10.** — Facebook zablokoval živá vysílání do 5. 11. (záminka ivermektin), návrat na ČsTV2, varování před klonem — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 
 ---
 
@@ -346,6 +350,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Reiner Fuellmich | ✅ pozitivní | Má být propuštěn a připojit se k amsterdamskému procesu | 2026-10-03 | [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026) |
 | Michal Piják | ⚖️ rozporuplný | Dřív „na straně covidové mafie“, nyní se „přepřáhl“ (žaloba na Pfizer) | 2026-10-03 | [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026) |
 | Dan Vávra | ❌ negativní | Představitel „chciválek“ (sbírky na zbraně) | 2026-10-03 | [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026) |
+| Renata Bernardy | ❌ negativní | „Hraje hru na Čermáka“, ačkoli dřív zpochybňovala Šišákovou; „ujíždějí nervičky“ | 2026-10-06 | [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026) |
+| Patrik Tušl | ✅ pozitivní | „Spolubojovník“, má Čermáka konfrontovat; prý se „prokoukává“ | 2026-10-06 | [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026) |
+| Naxera (advokát) | ❌ negativní | „Svědek jako kráva“, „hrál hru tajných služeb“ s návštěvami Čermáka | 2026-10-06 | [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026) |
+| Jiří Hradil | ✅ pozitivní | Dohledal fotku z Vězňovy cesty, klade „všetečné“ otázky | 2026-10-06 | [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026) |
 
 ---
 
@@ -449,3 +457,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 - [ČsTV2 — Živě: pozvánka Čermákovi (4. 10. 2026)](../_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
 - [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](../_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026)
+- [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
