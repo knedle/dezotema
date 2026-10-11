@@ -1228,6 +1228,14 @@ Vrabel ohlašuje nástupnickou akci svého hnutí „Česká republika na první
 
 ---
 
+### Dohra shromáždění 3. 10.: spor s Hájkem, Svatošem a Štěpánem; „vlastence nezajímají jaderné zbraně“ (Vrabel, 8. 10. 2026)
+
+Vrabel si stěžuje, že výzva proti jadernému vyzbrojení „neoslovila české vlastence“ a pozornost na sebe strhlo až zatčení Blahníkové (jeho video před stanicí mělo podle něj 400–500 tisíc zhlédnutí). Pouští rozhovor Petra Hájka s Michalem Svatošem (Protiproud), kde zaznělo, že na shromáždění přišlo „pár desítek lidí“, že si Vrabel „staví haciendu v srbských horách“ a přijel kvůli volbám, a Svatoš ho přirovnal k Pavlovi. Vrabel to označuje za „lež“: přišlo podle něj nejméně 500 lidí, výzvu podepsalo přes 300 a hnutí ve volbách nekandiduje, což oba pozvaní věděli. Hájka popisuje jako bývalého „politruka“ Květů z roku 1985, poradce Václava Klause napojeného přes Klausův institut na Macinku, jehož Protiproud je dnes „provládní médium“ (spekuluje o příjmech z prodeje čínských léků). Odmítá i výtku Svobodného rádia (podle něj „rádia SPD“), že by „pracoval s vládou Fialy“. Sarkasticky komentuje tvrzení Vladimíra Štěpána, že byl v roce 2022 domluven s Fialovou vládou na koalici a „klíčových ministerstvech“, které padly jen proto, že Vrabel neudělal další demonstraci s odborníky. Podle Vrabela tehdy existovala nabídka založit stranu ČR na 1. místě s penězi „přes Radima Fialu“ pod podmínkou, že v ní nebude on.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+
+---
+
 ### „Národ má právo takovou vládu svrhnout" — výzva podle srbského modelu za nedodržení volebních slibů (Vrabel, 9. 8. 2026)
 
 Vrabel tvrdí, že národ má právo svrhnout vládu, pokud politici po zvolení nedodrží klíčové sliby (referendum o vystoupení z EU/NATO, zrušení muniční iniciativy apod.) — jako vzor uvádí Srbsko, kde opakované masové demonstrace vynutily nové volby. Vyčítá porušení volebních slibů napříč celou tzv. vlastenecko-suverenistickou scénou: Babišovi, Okamurovi a SPD, Motoristům, Trikolóře, straně PRO i Svobodným. Zdůrazňuje, že změnu nesmí čekat od žádné „hvězdy" nebo politika („ani Babiš to neudělá, nikdo to neudělá") — musí ji podle něj vybojovat samotný národ, sjednocený a bez očekávání, že to za něj vyřeší někdo jiný.

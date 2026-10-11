@@ -5371,6 +5371,13 @@
 - **Datum záznamu:** 2026-10-07
 - **Zpracováno:** ano
 
+## Vrabel — Zprávy v devět 8. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-8-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-08_Ladislav-Vrabel_8-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1595802791758732>
+- **Datum záznamu:** 2026-10-08
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 30. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-30-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-30_Ladislav-Vrabel_30-9-2026-Zprávy-v-devět-s-komentářem.txt)
 - **Kanál:** Ladislav Vrabel

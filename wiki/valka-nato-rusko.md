@@ -1071,6 +1071,16 @@ Rusové podle něj (s odkazem na Gánovskou a Zacharovovou) vnímají ČR a Slov
 
 ---
 
+### Po Ukrajincích jsou „na řadě Poláci“ — globalisté chtějí zničit silné národy a promíchat Evropu migranty (Vrabel, 8. 10. 2026)
+
+K tomu, že Polsko kvůli ruskému útoku na Ukrajinu aktivovalo letectvo a rozeslalo varovné SMS, Vrabel opakuje, že konflikt se podle něj rozroste na území NATO, spíš přes malé pobaltské republiky, ale „pod falešnou vlajkou“ to může být i větší země. Z „dlouhodobé logiky“ globalistů, kteří chtějí zničit silné národy, promíchat je s migranty, vytvořit „evropského člověka“ a superstát, jsou podle něj „další na řadě po Ukrajincích Poláci“. Ti jsou totiž jediný silný, nezislamizovaný národ, který „se postaví chlapi na hranici“. Na Ukrajinu se podle něj už teď dováží „čistí valci“ z Asie, plánovaně 9 milionů lidí. O dalších zemích tvrdí, že ČR „není překážka“ (Babiš migrační pakt odmítl jen „výkřikem“, vymahatelný bude od ledna 2027), Fico vozí 250 tisíc migrantů z Kazachstánu, „Rumuni se vždycky nechají koupit“ a Chorvaté jsou „etnicky nejčistší, náckové“, ale „dají se koupit“.
+
+> „Obávám se, že další na řadě po Ukrajincích jsou Poláci.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+
+---
+
 ### Catherine Austin Fitts: USA potřebují pokračování války na Ukrajině kvůli dolarové dominanci (Vrabel, 14. 8. 2026)
 
 Americká investiční bankéřka a bývalá vládní úřednice Catherine Austin Fitts (Vrabel s ní referuje o osobním setkání) tvrdí, že Spojené státy potřebují udržet konflikt na Ukrajině v chodu kvůli zachování globálního postavení dolaru jako rezervní měny a kontroly nad světovým finančním systémem — někteří představitelé amerického establishmentu jsou dle ní kvůli tomuto zájmu ochotni jít do extrémních kroků. Vrabel odkazuje na společné video s Tuckerem Carlsonem (zveřejněné s titulky na jeho Facebooku) jako doklad této teze.

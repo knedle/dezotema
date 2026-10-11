@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — po Ukrajincích budou „na řadě Poláci“; migrační pakt nám začnou „lifrovat“ od ledna 2027 (8. 10. 2026)
+
+**Předpověď:** Pokud se válka rozšíří na území NATO, globalisté se podle něj zaměří na Polsko jako na poslední silný evropský národ. Migrační pakt bude od ledna 2027 vymahatelný a ČR začnou dřív nebo později přidělovat migranty.
+
+> „Obávám se, že pokud se ten konflikt rozběhne, že Poláci jsou další na řadě.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (Polsko); od ledna 2027 (migrační pakt)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+
+---
+
 ### Ladislav Vrabel — „jakmile se ochladí“ přijdou v ČR nařízené energetické úspory; Ukrajinci budou „velmi brzo“ i v české policii (7. 10. 2026)
 
 **Předpověď:** S příchodem zimy EU a vláda zavedou „úsporné procesy“ v energetice, které poškodí ekonomiku. Ukrajinci během pár let „prorostou“ do české politiky, armády i policie a „velmi brzo“ budou i mezi policisty, kteří zatýkají demonstranty.

@@ -1182,7 +1182,9 @@ Vrabel srovnává protichůdné signály z obou stran před americkými volbami 
 
 Den po Trumpově oznámení 30denního zákazu útoků na ropnou infrastrukturu (viz [predikce](predikce.md#ladislav-vrabel--zelenskyj-nevydrží-30denní-moratorium-na-útoky-na-energetickou-infrastrukturu-14-9-2026)) se Zelenskyj vyjádřil: Ukrajina nebude útočit na ruskou energetickou infrastrukturu, pokud Rusko přestane útočit na ukrajinskou energetickou soustavu, na dovoz jídla a na další „kritické cíle". Vrabel to čte jako podmínku, kterou Rusko nepřijme — Rusko dle mluvčího Kremlu Dmitrije Peskova netvrdí, že má problém s výrobou ropy, ale s exportem kvůli sankcím, takže skutečná ruská protipodmínka by musela zahrnovat i zrušení části z „30 000 sankcí" — což EU dle Vrabela vůbec nezvažuje (naopak mluví o dalších sankcích po ruských dronových incidentech v Polsku). Uzavírá, že žádné energetické příměří tak nečeká, přestože k útokům na obou stranách (včetně útoku na benzínky s civilisty) dál dochází.
 
-**Zdroje:** [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026)
+**8. 10.** — K prohlášení ruského zástupce při OBSE Poljanského, že Rusko na příměří nepřistoupí, Vrabel souhlasí: „taky bych jim žádné příměří nedal… normálně tvrdou kapitulaci Ukrajiny“. Příměří by podle něj po zkušenosti s Minskem posloužilo jen k dozbrojení Ukrajiny. Nejdřív se podle něj musí dohodnout, co bude ruské, jaká budou práva menšin, výzbroj Ukrajiny a hranice NATO, a teprve pak zastavit boje. Do té doby Rusko „zvítězí a nastaví to z pozice síly“. Zmiňuje video, na kterém Ukrajinci údajně týrali mladou Rusku, a „nacistické projevy“ ukrajinských představitelů. Babišovi vyčítá, že souhlasil s tím, že Krym a Donbas jsou ukrajinské.
+
+**Zdroje:** [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026), [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
 
 ---
 

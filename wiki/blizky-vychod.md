@@ -599,6 +599,14 @@ Podle deníku Haaretz varoval prezident Spojených arabských emirátů izraelsk
 
 ---
 
+### Macinka na Chanuce hnutí Chabad Lubavič; Kushner, Lutnick a Adelsonová jako financiéři Trumpa; „Velký Izrael“ (Vrabel, 8. 10. 2026)
+
+K zprávě, že ministr zahraničí Petr Macinka loni v prosinci vystoupil na veřejné oslavě Chanuky pořádané ultraortodoxním hnutím Chabad Lubavič a podpořil přesun ambasády do Jeruzaléma, Vrabel tvrdí, že Chabad má za „jeden z hlavních cílů vytvořit Velký Izrael“ a očekává mesiáše, jehož příchodu musí předcházet velká válka, která „vyvolenému lidu“ dá území Sýrie, Libanonu a dalších zemí. Proto se podle něj na Blízkém východě děje „z velké části, možná z největší části“ to, co se děje. Chabad podle něj podporuje rodina Kushnerů a Trumpa finančně podporovali Lutnick a Miriam Adelsonová. Na fotkách s Macinkou je prý i Boris Šťastný, což vysvětluje Macinkův slib blokovat jakékoli sankce EU proti Izraeli. U jednání Kushnera s Dmitrijevem o americkém vstupu do Nord Streamu naznačuje, že „Velký Izrael“ by se mohl „posunout i směrem na Ukrajinu“ a že „se mluví“ i o Zelenském. Pak se zarazí, „aby ho nezavřeli za antisemitismus“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+
+---
+
 ### Írán předán Radě bezpečnosti OSN — Vrabel: předvolební divadlo pro Trumpa (10. 9. 2026)
 
 Rada guvernérů Mezinárodní agentury pro atomovou energii (23 z 35 hlasů) rozhodla předat íránský jaderný spis Radě bezpečnosti OSN pro dlouhodobou nespolupráci Teheránu při objasňování nálezů uranu na nedeklarovaných místech — otevírá to možnost nových sankcí, ač Írán svůj program označuje za mírový. Vrabel opakuje svou dlouhodobou tezi: Rusko a Čína (které mají v Radě bezpečnosti právo veta) tvrdí, že Írán svou dřívější dohodu plnil bezchybně a nemá vojenský jaderný program, zatímco západní většina v Radě guvernérů prosadila předání věci OSN, aby vytvořila politický a mediální tlak ospravedlňující dřívější americký útok na Írán před listopadovými volbami v USA. Předpokládá, že než se věc v OSN skutečně projedná, budou už americké volby za námi a Rusko s Čínou návrh v Radě bezpečnosti „smetou ze stolu" vetem — celé je to tedy podle něj jen „mediální příběh".
@@ -637,7 +645,9 @@ Podle svého představitele Husama al-Assada Húsíové oznámili ukončení voj
 
 Cilia Floresová, manželka bývalého venezuelského prezidenta Nicoláse Madura (oba drženi ve federální vazbě v Brooklynu, obviněni z pašování kokainu), požádala amerického soudce o převedení do domácího vězení s odkazem na zhoršené srdeční onemocnění vyžadující specializovaný zákrok. Vrabel se ptá, zda je vůbec „normální", aby prezident a „prezidentová" suverénní země seděli v americkém vězení — navazuje na svou dřívější tezi, že cílem USA je ovládnout venezuelskou ropu prostřednictvím dosazené loutkové vlády, a obrací otázku viny: „kdo je tady zločinec — Madurovi, nebo Trump?"
 
-**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+**8. 10.** — K nové obžalobě Madura a jeho manželky v New Yorku (represe, únosy, mučení) Vrabel tvrdí, že hlava státu je podle mezinárodního práva nedotknutelná. Americké „napadení suverénní země, zabití desítek lidí a únos prezidenta“ je podle něj válečný zločin a „barbarství“. Americký soud nemá jurisdikci, soudit by mohl jen tribunál zřízený Radou bezpečnosti OSN.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
 
 ---
 

@@ -912,6 +912,14 @@ V závěru vysílání Vrabel spekuluje, že energetická krize, Green Deal i ú
 
 ---
 
+### USA rozeštvávají slovanské národy a „vydělávají na válkách“; „chabad-lubavičská sionistická pyramida moci“; Hitler jako „levoboček Rothschildů“ (Vrabel, 8. 10. 2026)
+
+K Rubiovu varování před eskalací Vrabel tvrdí, že USA se tváří jako mírotvůrci, ale samy válku připravily: od oranžové revoluce 2004 přes Majdan 2013 („jejich koně“, stanice CIA, výcvik) až po zbraně pro Azov, které podle něj po zákazu Kongresu v roce 2018 dodávaly Kanada a Izrael („náckům do Azova pistole z Izraele“). Za podporou Ukrajiny proti Rusku stojí podle něj „globalistická, chabad-lubavičská, sionistická pyramida moci“, která chce světovou vládu. Totéž podle něj platilo pro druhou světovou válku: Hitler, „o kterém se mluví, že byl levoboček rodiny Rothschildů“, dostal peníze od stejných kruhů, které pak přišly jako „mírotvůrci“, převzaly nacistické vědce, patenty a zlato a přes Marshallův plán a brettonwoodský systém si Evropu zavázaly. I nyní podle něj USA s Ruskem obchodují, Evropě prodávají zbraně, „těší se, že se Evropa zničí“, a nakonec převezmou evropský i ruský byznys. „My jsme vždycky takoví kreténi, že nás poštvou proti sobě slovanské národy.“
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+
+---
+
 ### 25. výročí 11. září — pochybnosti o oficiální verzi, sedmý mrakodrap a plán válek v sedmi zemích (Vrabel, 11. 9. 2026)
 
 K 25. výročí útoků z 11. září 2001 Vrabel kritizuje vyjádření vicepremiéra a ministra zahraničí Petra Macinky, že „některá data nepotřebují vysvětlení" — naopak tvrdí, že toto konkrétní datum vysvětlení potřebuje nejvíc. Argumentuje fyzikální nemožností oficiální verze: hliníkové letadlo s kerosinovým požárem podle něj nemohlo zničit masivní ocelovou konstrukci mrakodrapů navrženou na vydržení mnohem větší zátěže; sedmá budova Světového obchodního centra se zřítila, aniž do ní narazilo jakékoli letadlo; v Pentagonu nebyly nalezeny žádné trosky letadla; mezi jednotlivými útoky uplynulo přes tři čtvrtě hodiny, aniž by vzlétly americké stíhačky (na rozdíl od standardní reakce na dnešní dronové incidenty); a pasy únosců se našly na místě dřív, než budovy spadly. Připomíná, že na základě zprávy vyšetřovací komise (Kean-Hamilton) byla legitimizována invaze do Iráku a válka v Afghánistánu, a cituje generála Wesleyho Clarka, který měl krátce po útocích v Pentagonu vidět plán války v sedmi zemích (Irák, Sýrie, Libanon, Libye, Somálsko, Súdán, Írán) během pěti let — z nichž se většina později naplnila. Uzavírá, že konspirační vysvětlení („false flag" operace provedená k rozehrání „války proti terorismu") mu připadá logičtější než oficiální verze, byť připouští, že pro to nemá přímé důkazy.
