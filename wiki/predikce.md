@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Pavel Zítko — 22. 10. v Amsterdamu usednou Gates, Bourla a Rutte na lavici obviněných (3. 10. 2026)
+
+**Předpověď:** Na jednání 22. října 2026 v Amsterdamu budou Bill Gates, Albert Bourla a Mark Rutte obžalovaní (svědek Mike Yeadon), což bude signálem i pro české „covidové“ aktéry. Reiner Fuellmich by měl být do té doby propuštěn.
+
+> „Amsterdam, to je dějiště toho, že konečně tam budou obviněni [...] Bill Gates, Albert Bourla [...] a Mark Rutte, tak ty zasednou na lavici obviněných.“ — Pavel Zítko
+
+**Horizont:** 22. 10. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+
+---
+
 ### Pavel Zítko — bezpodmínečná kapitulace Ukrajiny a vojenské stanné právo s trestem smrti (2. 10. 2026)
 
 **Předpověď:** Rudá armáda je „velmi blízko Kyjeva" a vše se „řítí k bezpodmínečné kapitulaci" Ukrajiny, po níž o hranicích (včetně Československa) rozhodnou „vítězné mocnosti"; „až nastane čas", bude aktivováno vojenské stanné právo, které bude soudit i covid zločince, včetně trestu smrti.

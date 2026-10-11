@@ -5115,6 +5115,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** Soubor nese datum stažení; vysíláno 2. 10. 2026. Velká část je předčítání cizích textů (Lička, Jílková, Avdičová, Wallace, Chambers).
 
+## Československo TV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026) {#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-06_Československo-TV2_Československo-TV2-vysílala-živě_2.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1745088300128342&_rdr>
+- **Datum záznamu:** 2026-10-03
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 17 min; soubor datován 6. 10., vysíláno v sobotu 3. 10. večer.
+
 ## Československo TV2 — Živě: pozvánka Čermákovi, texty o kontinuitě ČSR (4. 10. 2026) {#československo-tv2--živě-pozvánka-čermákovi-4-10-2026}
 - **Soubor:** [přepis](prepisy/done/2026-10-06_Československo-TV2_Československo-TV2-vysílala-živě_1.txt)
 - **Kanál:** Československo TV2

@@ -115,7 +115,9 @@ Na Q&A v Soběšovicích Pavel Zítko a Soňa Peková prezentují data z vlastn�
 
 **10. 9.** — Zítko rozšiřuje tutéž tezi citací americké autorky Naomi Wolf (autorky knihy *Pfizer Papers*, založené na soudně vynucených interních dokumentech firmy), která obvinění popisuje jako „satanské na masivní úrovni" — tvrdí, že Pfizer věděl o poškození plodnosti (otrávené mateřské mléko, pokles počtu spermií, poškozené placenty) a přesto v injekcích pokračoval. Zítko z toho dovozuje, že šlo o „úmyslný útok na reprodukci" vedoucí k propadu porodnosti (opakuje dřívější číslo −30 %/35 tisíc dětí, viz níže) a interpretuje výsledek jako záměrné „nahrazování" původního obyvatelstva Československa jinými národy.
 
-**Zdroje:** [Zítko — Soběšovice Q&A, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4), [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
+**3. 10.** — Zítko spojuje stejná čísla s žalobou floridského generálního prokurátora z 1. 10. 2026 (49 stran, klamavé obchodní praktiky): 158 893 nežádoucích událostí ve 42 086 hlášeních, 1 223 úmrtí za první tři měsíce a 52 potratů u 458 exponovaných těhotných. Cituje slovenského lékaře Michala Pijáka, který se podle něj „přepřáhl“. Data jsou prý uložena ve spisu u okresního soudu v Chomutově, kde je soudkyně Dvořáková označila za dezinformaci. Bourlu nazývá „masovým vrahem, pachatelem genocidy“. Odkazuje na Kennedyho: vakcíny za 60 mld. USD, léčba poškozených za 500 mld. USD, takže jde o „obchodní model“.
+
+**Zdroje:** [Zítko — Soběšovice Q&A, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-qa-část-2-1-4), [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 
 ---
 
@@ -183,7 +185,7 @@ Ve večerníku 7. dubna 2026 Zítko tato čísla upřesňuje: za čtyři roky se
 
 ⚡ **Konflikt:** Demografové a reprodukční epidemiologové nepřiznávají vakcinaci jako příčinu poklesu porodnosti; pokles sledují napříč neočkovanými i očkovanými populacemi a přisuzují jej ekonomickým a sociálním faktorům.
 
-**Zdroje:** [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026), [ČsTV2 — Večerník 7. dubna, 2026-04-08](_zdroje.md#pavel-zítko--večerník-7-dubna-danykolár-a-úzis-8-4-2026)
+**Zdroje:** [ČsTV2 — Velký pátek: fotonizovaná voda, 2026-04-04](_zdroje.md#pavel-zítko--velký-pátek-fotonizovaná-voda-rudolf-steiner-covid-tour-4-4-2026), [ČsTV2 — Večerník 7. dubna, 2026-04-08](_zdroje.md#pavel-zítko--večerník-7-dubna-danykolár-a-úzis-8-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 
 ---
 
@@ -619,7 +621,17 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 ⚡ **Poznámka:** Existenci takového veřejného trestního řízení nelze ověřit z veřejně dostupných zdrojů; tvrzení je zachyceno výhradně jako výrok Zítka.
 
-**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026)
+**3. 10.** — Zítko ohlašuje „hearing“ 22. října v Amsterdamu, kde mají Gates, Bourla a Rutte usednout na lavici obviněných. Tým vede podle něj advokát Peter Stassen, jako svědek vystoupí bývalý viceprezident Pfizeru Mike Yeadon a „báječné“ by bylo, kdyby byl do té doby propuštěn Reiner Fuellmich. Proces má být „signálem“ i pro Prymulu, Kubka, Flegra, Chlíbka a „další gaunery, kteří tu prováděli vakcinační holokaust, genocidu národa a sterilizaci“. Zmiňuje i „Čákovu věštbu“ o Amsterdamu, kalendáře, které „končí 4. října a začínají 15.“, a Trumpovo „to začne v pondělí“.
+
+**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+
+---
+
+### Antiparazitika (ivermektin, fenbendazol) proti rakovině i covidu jsou potlačována (Zítko, 3. 10. 2026)
+
+Zítko cituje kanadského lékaře Williama Makise: antiparazitika jako ivermektin, mebendazol a fenbendazol jsou „napadána, jakmile se objeví v onkologické péči“, a jeho článek o třech pacientech ve 4. stadiu byl po recenzi stažen kvůli „procedurální stížnosti“. Ivermektin a hydroxychlorochin byly podle Zítka účinné i na covid, a „experimentální vakcíny“ proto „nikdy neměly být schváleny“. Fauci a jeho okolí podle něj účinnost zatajili a ivermektin zesměšnili jako „pastu pro koně“. Zájemcům nabízí kontakt na ivermektin a esenciální oleje firmy Bewit, se kterou spolupracuje. Očkovaným s „horšími šaržemi“ (rtuť, formaldehyd, SV-40, grafen) mají přírodní preparáty „zlepšit zdravotní stav“.
+
+**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 
 ---
 

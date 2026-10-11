@@ -21,7 +21,9 @@ Pavel Zítko přijal a šíří narativ hnutí QAnon o probíhající skryté vo
 
 > „V rámci central castingu [...] nasazeno 200 tisíc herců [...] někteří už se zhoupli ti hlavní protagonisté na Gitmo, Guantanamo a jejich role dohrávají herci, tak to všechno se dozvíte v rámci vojenského vysílání EBS ve třech osmihodinových smyčkách." — Pavel Zítko, [Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
 
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie)
+**3. 10.** — Zítko ukazuje „úmrtní list královny“: Alžběta II. byla podle něj popravena oběšením na Guantánamu (2019). Na Gitmo podle něj „vydechli“ i aktéři 11. září: George W. Bush (4. 1. 2022) a Dick Cheney (29. 1. 2022); Donald Rumsfeld měl spáchat sebevraždu na základně Diego García. Joe Biden byl „popraven ještě než nastoupil do úřadu“ a celé funkční období vládl dvojník (důkazem má být gesto s automatickým perem při návštěvě Si Ťin-pchinga). Ivana Trump podle něj žije a „vyskočí z dortu“.
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 
 ---
 

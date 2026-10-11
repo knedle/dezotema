@@ -289,4 +289,26 @@ V úvodu speciálu ke kauze Čermák Zítko tvrdí, že Trump, Putin, bin Salmá
 
 **5. 10.** — Zítko ohlašuje, že na akci ve Frýdku-Místku půjde podepsat „doplatek 50 % faktury" za majetek ukradený „pučem StB a KGB" (podílové listy), nově adresovaný ministryni financí Aleně Schillerové. Nepočítá s tím, že by „korporace Česko/Slovensko" zaplatila. Rozhodne prý mírová smlouva po válce na Ukrajině, která podle něj stanoví i nové hranice států a uzavřou ji vítězné mocnosti (Trump, Putin, Si Ťin-pching, Módí), ne „Pávek" ani Babiš.
 
-**Zdroje:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](_zdroje.md#československo-tv2--den-šestý-30-9-2026), [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: pozvánka Čermákovi (4. 10. 2026)](_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
+**3. 10.** — Zítko doplňuje, že Joe Biden byl do úřadu „instalován“ zfalšovanými volbami 2020 přes Smartmatic. V ČR prý volby zajišťuje HP „vybraný bez výběrového řízení“ (Rakušan za to zaplatil „asi milion“ pokuty), na Slovensku ESET. Cituje Stalina: „nezáleží na tom, kdo hlasuje, ale kdo hlasy počítá“. Mezi Babišem a Fialou, Metnarem a Rakušanem či Zůnou a Černochovou „se skoro nic nezměnilo“.
+
+**Zdroje:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Den šestý — Tomáš Čermák? (30. 9. 2026)](_zdroje.md#československo-tv2--den-šestý-30-9-2026), [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: pozvánka Čermákovi (4. 10. 2026)](_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+
+
+---
+
+### „Czexit" je iluze, jedinou cestou je obnova ČSR; vítězné mocnosti budou chtít „chcimíry" (Zítko, 3. 10. 2026)
+
+Zítko zesměšňuje představu, že by ČR mohla z EU vystoupit „protestní nótou Uršule“ jako „vlhký sen“ politiků. Jedinou reálnou cestou, jak „sundat smyčku“ EU, je podle něj obnova Československé republiky podle „stále platného“ zákona č. 11/1918, protože ČSR „nikdy nebyla členem EU ani NATO“. Rozhodovat o tom budou vítězné mocnosti (USA, Rusko, Čína, Indie, BRICS). Rusko si podle něj na své západní hranici vybere pacifistický „národ Švejků a chcimírů“, ne „chciválky“, kteří vybírají na dronové a muniční iniciativy (Dan Vávra). Pro Čechoslováky má mluvit i to, že Trumpovy děti s Ivanou jsou „poloviční Čechoslováci“. Demonstrace na náměstích podle něj nic neřeší a politici z nich mají „velkou prdel“. Okamura a Rajchl jsou mezi „patnácti SPDáky“, kteří nesplnili sliby (Rajchlovo „desatero o covidu“ z 26. 1. o vystoupení z WHO a zrušení očkovací strategie), takže jsou jen „služebníci globalistů“.
+
+> „Jediná šance pro nás a pro budoucnost našich dětí je Československo.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+
+---
+
+### Sjednocení Německa 1990 jako protiprávní; dodávky zbraní Ukrajině mohou zrušit smlouvu 2+4 (Zítko, 3. 10. 2026)
+
+K výročí sjednocení Německa Zítko tvrdí, že šlo o protiprávní akt: ke Spolkové republice se podle něj mohly připojit jen spolkové země, které ale na východě „nebyly založeny“ (odvolává se na signatáře smlouvy „Rainera Dudka“). Spolková republika je podle něj dodnes „okupovaná korporace“ pod USA. Smlouvu 2+4 uzavřely čtyři vítězné mocnosti. Pokud Německo dodává zbraně proti Rusku jako nástupci jedné z nich, je to podle Zítka důvod k vypovězení smlouvy, k návratu okupačních zón „a k jednání o obnově Československé republiky“. Odvolává se i na slovenský soud v kauze Harabin (13. 1.), který měl konstatovat, že „Rusko není agresor“. Popisuje také „kolonizaci“ východního Německa západními firmami po roce 1990.
+
+**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+
