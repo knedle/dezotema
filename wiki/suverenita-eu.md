@@ -104,7 +104,9 @@ Rajchl ve shrnujícím videu odmítá euro „kategoricky" — nikoli ze sentime
 
 **16. 7.** — Rajchl na dovolené v Chorvatsku doplňuje neformální anketu mezi místními obyvateli o spokojenosti se zavedením eura (1. 1. 2023): z oslovených lidí nenašel jediného spokojeného. Cituje konkrétní postřeh jedné ženy o psychologickém efektu přechodu — dřív dostávali za jedno euro sedm kun, ale to, co dřív stálo jednu kunu, dnes stojí jedno euro, takže vše vnímají jako sedmkrát dražší. Používá to jako argument proti tvrzení, že by euro v ČR nikomu nezdražilo život — bohatnou dál jen nejbohatší, obyčejní lidé podle něj na přechod doplatí.
 
-**Zdroje:** [Rajchl — Videoportál: ne euru, česká koruna, 5. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026), [Rajchl — Videoportál 16. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-16-7-2026)
+**8. 10.** — Rajchl upozorňuje, že „mainstream“ mlčí o ekonomických problémech dvou největších zemí eurozóny: ve Francii probíhá „masivní výprodej státních dluhopisů“, který tlačí euro dolů vůči dolaru („zaplať pánbůh, že to euro nemáme“), a Německo meziročně přišlo o 10 % nových zakázek, což je podle něj „znak značného úpadku“.
+
+**Zdroje:** [Rajchl — Videoportál: ne euru, česká koruna, 5. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ne-euru-česká-koruna-5-6-2026), [Rajchl — Videoportál 16. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-16-7-2026), [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 
 ---
 

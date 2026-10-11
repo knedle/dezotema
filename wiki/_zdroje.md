@@ -5157,6 +5157,13 @@
 - **Datum záznamu:** 2026-10-07
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Volte PRO: senátoři, koaliční kandidátky, dávky, euro (8. 10. 2026) {#jindřich-rajchl--volte-pro-8-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-08_Jindřich-Rajchl_Pojďte-do-toho-zítra-s-námi-a-volte-PRO.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/39495110670074120>
+- **Datum záznamu:** 2026-10-08
+- **Zpracováno:** ano
+
 ## Lenka Tarabová — Beseda v Koloseu (1. 10. 2026) {#lenka-tarabová--beseda-koloseum-1-10-2026}
 - **Soubor:** [přepis](prepisy/done/2026-10-02_Lenka-Tarabová_21K-views-78-reactions-VELMI-DĚKUJI-ZA-ZPĚTNOU-VAZBU-Ž.txt)
 - **Kanál:** Lenka Tarabová

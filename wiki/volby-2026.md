@@ -27,6 +27,7 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | ODS, TOP 09, KDU-ČSL, Piráti | ❌ negativní | Lenka Tarabová | „Nevolitelní" — bitcoin, Dozimetr, falešné křesťanství, projekt neziskovek; Hřib „psychopat" | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 | Martin Půta (Senát – Česká Lípa) | ❌ negativní | Lenka Tarabová | 12 let hejtmanem, chce se „uklidit do Senátu", „už dávno měl sedět" | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 | GEN (Tibor Batthyány) | ❌ negativní | Lenka Tarabová | Podepsal koalici s PRO a za 4 dny ji vypověděl („s dezinformátorkou Tarabovou nikdy") | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| Společné kandidátky koalice (Chomutov, Jindřichův Hradec – Vondráček; SPD+PRO Litoměřicko) | ✅ pozitivní | Jindřich Rajchl | Spojení „celé vládní koalice včetně Motoristů“ na jednu kandidátku, šance na 1.–2. místo | 2026-10-08 | [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
 
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
@@ -38,7 +39,9 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 
 Rajchl vyzývá k podpoře čtyř senátních kandidátů: Milana Lopraise (Ostrava–Poruba–Hlučín), Jana Skalického (Děčín), Hynka Berana (Trutnovsko, „tvář boje proti větrným elektrárnám") a MUDr. Šorny (Příbramsko). Slibuje, že nikdo z nich nezvedne ruku pro cokoli, co by eskalovalo válku na Ukrajině („ani korunu na Ukrajinu"), pro výcvik ukrajinských vojáků v ČR, podporu ukrajinské migrace, směrnice Green Dealu ani omezování suverenity v EU — naopak podpoří vložení práva platit českou korunou, práva platit v hotovosti a práva „žít offline" (nebýt povinen vyřizovat věci přes internet) do Ústavy. Sám se prý jako jediný člen výboru pro obranu zdržel při hlasování o vzetí na vědomí zprávy o výcviku 800 ukrajinských vojáků v ČR — „nemohl bych se vám podívat do očí".
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+**8. 10.** — Den před volbami Rajchl opakuje výzvu (Loprais – Ostravsko a Hlučínsko, Skalický – Děčínsko a Šluknovský výběžek, Šorna – Příbramsko, Beran – Trutnovsko) a garantuje, že budou hlasovat pro zakotvení koruny, práva platit hotově a práva žít offline v Ústavě, bránit stavbě větrných elektráren, „federalizaci“ EU a „ukrajinizaci“ a bojovat „bok po boku“ s ním proti zatahování ČR do války. Jejich zvolení by bylo „dárkem k jeho 50. narozeninám“.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 
 ---
 
@@ -56,7 +59,9 @@ Rajchl vyzývá k podpoře čtyř senátních kandidátů: Milana Lopraise (Ostr
 
 Rajchl vyzývá k podpoře 110 komunálních kandidátek PRO (jmenuje Šanci pro Tábor, Pro Havířov s Martinem Garou a libereckou kandidátku s Lenkou Tarabovou) a varuje před záměnou — „Pro Plzeň" s PRO podle něj nemá nic společného, jde o „pohrobky ODS". Komunální politika je podle něj až na výjimky o velkých zakázkách, ze kterých se dá „co nejvíc vratek vrátit do vlastní kapsy" — například za povolení větrných elektráren od „baronů", kteří chtějí „hyzdit krajinu"; lidé PRO podle něj pro větrníky nikdy hlasovat nebudou. V Chomutově kandiduje PRO v koalici s SPD, Svobodnými, Trikolórou i Motoristy a podle průzkumů má 17–20 %, tedy šanci být druhou nejsilnější silou po ANO. Ohlašuje předvolební turné včetně společné debaty s Milošem Zemanem v Chomutově.
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+**8. 10.** — Rajchl jmenuje Martina Garu (lídr v Havířově, číslo 6), Lenku Tarabovou v Liberci a společnou kandidátku se SPD na Litoměřicku. V Chomutově a Jindřichově Hradci (Libor Vondráček) se podle něj podařilo spojit „všechny strany naší vládní koalice, včetně Motoristů“ na jednu kandidátku, která má šanci skončit první nebo druhá. Žádá „jeden velký křížek“ u celé kandidátky — větší mandát je podle něj podmínkou, aby mohl prosadit, co lidé chtějí.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 
 ---
 

@@ -112,6 +112,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **30. 9.** — výročí Mnichovské zrady: Západ by nás obětoval znovu, spoléhat jen na sebe — [Rajchl — Videoportál: výročí Mnichovské zrady (30. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-mnichovská-zrada-30-9-2026)
 - **4. 10.** — Green Deal „chobotnice", povolenky EU 84 € vs. Čína 12 €, Češi platí 7 000 Kč/hlavu ročně — [Rajchl — Partie: Green Deal jako zlodějina (4. 10. 2026)](../_zdroje.md#jindřich-rajchl--partie-green-deal-4-10-2026)
 - **27. 9.** — narozeninová bilance: Západ si neumí přiznat vinu (Irák/David Kelly, Libye/Kaddáfí, Green Deal, covid; OSN — nejlepší projevy Milei a Lavrov); co média „zamlčují" o Ukrajině (Majdan/Nulandová, Donbas, Minsk II, dekret č. 117, Istanbul/Johnson, Mindič); Pavlova výzva sestřelit ruské letadlo = Orešniky na ČR; ČR jako „ekonomická kolonie EU" — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md), [petr-pavel.md](../petr-pavel.md), [suverenita-eu.md](../suverenita-eu.md)
+- **8. 10.** — Francie výprodej dluhopisů, euro slábne („zaplať pánbůh, že ho nemáme“), Německo −10 % zakázek — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -140,6 +141,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **6. 9.** — ukrajinská call centra okrádají evropské důchodce o miliardu dolarů měsíčně; navrhuje veto návrhů ve prospěch Ukrajiny, dokud to nezastaví — [Facebook Live 6. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026) → [migrace.md](../migrace.md#ncoz-studie-organizovaný-zločin-v-čr-ovládli-ukrajinci--rajchl-5-5-2026)
 - **9. 9.** — v televizní debatě opakuje beze změny zneužívání dávek a dočasné ochrany ukrajinskými migranty a Dánsko jako vzor (14 „bezpečných zón") — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
 - **16. 9.** — „dvojí metr" Evropy: zbrojení proti Rusku vs. kritika zbrojení proti migrantům (Sigmund/AfD); 80 útoků bodnou/sečnou zbraní denně v Německu; výzva volit AfD/Le Pen/SPD+PRO+Trikolóra+Svobodní — [Videoportál 16. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)
+- **8. 10.** — Ukrajinka vylákala 750 tis. Kč na dávkách, „špička ledovce“ — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -211,6 +213,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **27. 9.** — bilance 6 let v politice (Trikolóra 2018/Trump, covid, 17. 11. 2021, Máte slovo, ČT a eurovolby 2,15 %, spojení s SPD, 7,8 %); spor s Vrabelem o demonstraci 3. 9. 2022 — odmítá, že by mu „ukradl demonstrace" — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
 - **27. 9.** — senátní kandidáti Loprais/Skalický/Beran/Šorna („ani korunu na Ukrajinu", koruna/hotovost/offline do Ústavy); 110 komunálních kandidátek, „Pro Plzeň" = pohrobci ODS; zdržel se u zprávy o výcviku 800 ukr. vojáků — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) → [volby-2026.md](../volby-2026.md)
 - **29. 9.** — ODS chce „okrást občany" poplatky u lékaře; daně mají platit banky, energetika a zbrojaři — [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](../_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026)
+- **8. 10.** — výzva volit PRO: 4 senátoři (koruna, hotovost, offline do Ústavy), koaliční kandidátky vč. Motoristů (Chomutov, J. Hradec) → [volby-2026.md](../volby-2026.md) — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -444,6 +447,9 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | AfD, Marine Le Penová | ✅ pozitivní | Doufá v jejich vítězství a společné zrušení EU; AfD jedná s Gazpromem | 2026-10-05 | [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026) |
 | Gabriela Svárovská | ❌ negativní | Oponentka v debatě („fanatická zelená eurohujerka“ v titulku) | 2026-10-07 | [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026) |
 | Petr Pavel | ❌ negativní | Výzva k sestřelení ruské stíhačky = „absolutní nesmysl“ | 2026-10-07 | [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026) |
+| Martin Gara | ✅ pozitivní | „Úžasný chlap“, lídr PRO v Havířově | 2026-10-08 | [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
+| Lenka Tarabová | ✅ pozitivní | „Skvělá bojovnice“, kandidátka v Liberci | 2026-10-08 | [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
+| Libor Vondráček | ✅ pozitivní | Společná koaliční kandidátka v Jindřichově Hradci | 2026-10-08 | [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
 
 ---
 
@@ -573,3 +579,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Partie: Green Deal jako zlodějina (4. 10. 2026)](../_zdroje.md#jindřich-rajchl--partie-green-deal-4-10-2026)
 - [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026)
 - [Rajchl — Debata se Svárovskou: ČT, F-35, Ukrajina jako útočník (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
+- [Rajchl — Volte PRO: senátoři, koaliční kandidátky, dávky, euro (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)

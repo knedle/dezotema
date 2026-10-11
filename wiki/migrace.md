@@ -324,7 +324,9 @@ Rajchl připomíná, že Vít Rakušan jako jediný z V4 hlasoval pro migrační
 
 K reportáži TV Nova o podvodech s humanitárními dávkami (tzv. dávková turistika, fiktivní adresy, nahlašování počtu osob; ztráty desítek milionů korun za 14 měsíců) Rajchl konstatuje, že totéž čtyři roky tvrdili „kolaboranti typu Rajchla" a byli za to označováni za prokremelské dezinformátory. Cituje údaj, že humanitární dávky zneužíval „každý pátý cizinec" (tj. Ukrajinec — nikdo jiný je nedostává), a označuje to za další „dezinformaci, která se stala pravdou".
 
-**Zdroje:** [Rajchl — Videoportál: humanitární dávky, 13. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-humanitární-dávky-13-6-2026)
+**8. 10.** — Rajchl uvádí další případ: 33letá Ukrajinka měla stát obrat na humanitárních dávkách o 750 tisíc Kč. Garantuje, že jde jen o „špičku ledovce“: lidé podle něj deklarují pobyt v ČR, ale žijí na Ukrajině a z posílaných peněz „si královsky luxusně žijí“.
+
+**Zdroje:** [Rajchl — Videoportál: humanitární dávky, 13. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-humanitární-dávky-13-6-2026), [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 
 **30. 7.** — K nové policejní zprávě o téměř 300 odhalených případech neoprávněného čerpání dávek ukrajinskými migranty (škoda cca 18 milionů korun) — včetně případů, kdy byly ženy nucené podávat desítky žádostí o různé dávky — Rajchl trvá na tom, že jde jen o „špičku ledovce": s odkazem na své dřívější působení coby vyučující na policii tvrdí, že to policisté sami potvrzují, ale skutečný rozsah zůstává „pod kobercem" — [Videoportál 30. 7.](_zdroje.md#jindřich-rajchl--videoportál-dávková-turistika-policejní-čísla-30-7-2026)
 
