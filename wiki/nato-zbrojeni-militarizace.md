@@ -511,7 +511,9 @@ Vrabel čte summit G7 ve Francii jako „válečnou schůzku zemí NATO plus př
 
 K úvěru 16,68 mld. EUR pro Rumunsko z programu SAFE (z toho ~10 mld. na obranné projekty 2026–2030) Vrabel rozvíjí kritiku celého programu: jde podle něj o mechanismus, jak se příspěvky ČR (a dalších zemí) do EU „vezmou a převedou do programu SAFE", z něhož se financuje zbrojení, „protože sami bychom tolik do zbrojení nedávali" — a to způsobem, „aby si toho občané nevšimli". Připomíná, že premiér Babiš se před třemi dny radoval, kolik ČR z programu SAFE dostane. Rumunsko označuje za „skorumpovanou, prodanou" zemi, která už při rozbíjení Jugoslávie poskytla základny k útokům na Srbsko výměnou za vstup do EU, a nyní se z ní buduje logistický uzel NATO na jihovýchodním křídle.
 
-**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026)
+**5. 10.** — K tomu, že ČR získala z programu SAFE úvěr 2,06 mld. € (asi 50 mld. Kč, z toho 23 mld. na dálnici D11 a 20 mld. na tanky Leopard), Vrabel ironicky volá „hurá, jednou za Českou republiku, jednou za Německo“. Tvrdí, že EU „nemá vlastní peníze“: státy jí nejdřív víc zaplatí, aby si pak mohly půjčit (vidí v tom „uroboros“). Skutečným cílem je podle něj dostat „deset bilionů eur“ úspor Evropanů přes fondy Savings and Investments Union do zbrojení. To odmítá eticky i ekonomicky, protože zbraně „nevytvářejí hodnotu“ a jejich nákup je jako peníze spálit. Hrozí podle něj ztráta úspor inflací nebo krach projektů, „až EU začne prohrávat ve válce“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ---
 

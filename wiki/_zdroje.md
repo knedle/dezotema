@@ -5350,6 +5350,13 @@
 - **Zpracováno:** ano
 - **Poznámka:** Vysíláno z benzínky u Budapešti cestou do Srbska. Výpadky [04:17–08:58] a [47:00–50:50]; [50:50–57:20] přehrávané video zatýkání K. Blahníkové.
 
+## Vrabel — Zprávy v devět 5. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-5-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-05_Ladislav-Vrabel_5-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2098192621088191>
+- **Datum záznamu:** 2026-10-05
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Zprávy v devět 30. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-30-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-30_Ladislav-Vrabel_30-9-2026-Zprávy-v-devět-s-komentářem.txt)
 - **Kanál:** Ladislav Vrabel

@@ -146,7 +146,9 @@ Zítko rozvíjí QAnon narativ o sérii nových „odhalení": Justin Bieber mě
 
 K protestům tisíců Maďarů proti premiéru Péteru Magyarovi (který „zradil" slib ochrany hranic a zrušil veto) Vrabel řadí Magyara do vzorce, který popisuje od roku 2020: globalistické elity v každé západní zemi po covidu/válce dosadí „falešného mesiáše" — politika, jenž se tváří jako bojovník za suverenitu a svobodu, ale po zvolení slouží elitám. Příklady: Trump (od něhož se odvrací i Tucker Carlson a Alex Jones), Merz (BlackRock, zrušil dluhovou brzdu), Babiš (nesplněné sliby: muniční iniciativa, F-35, 90 mld. pro Ukrajinu, jaderné zbraně), bulharský Radev, rumunský Georgescu (zakázán soudem). Klíčová teze: svět není rozdělen horizontálně (Rusko vs. Západ), ale vertikálně — „elity proti obyčejným lidem"; volíme ty, koho nám elity dosadí přes média a sponzory. Navazuje na [Trump jako mesijáš globalistů](#trump-jako-mesijáš-globalistů-předpověď-z-let-20202021--vrabel-5-5-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+**5. 10.** — K tomu, že armáda odebrala záštitu konferenci Future Air Force kvůli organizátorům (mj. Petr Marquardt, řečník na konferenci Svatopluk) „zpochybňujícím euroatlantické závazky“, Vrabel tvrdí, že jde o „příběh z dílny globalistů“. Ti podle něj hledají zkušené politiky (Trump, Petr Drulák) a dělají z nich „národní ikony“, které před volbami mluví pronárodně, ale po volbách dělají stejnou globalistickou politiku (Trump „zabírá Venezuelu, útočí na Írán“). Polarizace kolem konference je podle něj „nejlepší kampaň Petra Druláka do prezidentské kampaně“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ---
 

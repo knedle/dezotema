@@ -1177,6 +1177,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **30. 9.** — Rajchl „ukradl sílu Václaváku, aby ji postavil proti Rusku"; PRO „soudruzi"; Konečná a domy KSČM — [Zprávy v devět 30. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-9-2026)
 - **28. 9.** — Den státnosti — „zrádci pro Západ pro mrzké peníze", koláž projevů PRO 2023 (implicitně Rajchl) — [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 - **3. 10.** — Babiš „EU patriot, ne český"; „odevzdání moci" ve volbách 2025; „jsme ve válce — válečná daň"; Kusturica — [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
+- **5. 10.** — státní zástupce zastavil stíhání Čecha z ukrajinské armády → „má jít mýt záchody do vězení“; policie má „úkol rozehrát konflikt“ jako v roce 1989 — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1215,6 +1216,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **26. 9.** — směrnice NATO Resilience = příprava na hromadné oběti; nafta podle priorit, „energetické lockdowny" — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - **27. 9.** — muniční iniciativa = „zrada národa"; „ani koruna na Ukrajinu" jako podvod, víc než za Fialy — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 - **28. 9.** — Macinku „sponzoruje" Strnad/CSG — [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
+- **5. 10.** — SAFE 2,06 mld. € (D11, Leopardy); EU chce 10 bil. € úspor do zbrojení — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1254,6 +1256,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [DSA a cenzura](../dsa-cenzura.md) (pokrač. 6)
 - **19. 9.** — Trump zakázal CNN/MSNBC/Politico; vlastní zkušenost s cenzurou (Kakáč, Facebook dosah) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+- **5. 10.** — § 405: bez odsouzeného válečného zločinu nelze soudit jeho schvalování (Karel a drogerie); Rajchl/Vacek/Stříž — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 18)
 - **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1265,6 +1268,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **26. 9.** — Británie — „jediné řešení občanská válka"; ČR má šanci „pomoct" 2 mil. Ukrajinců vrátit se — [Zprávy v devět 26. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
 - **4. 10.** — „Česká Ukrajina" — Praha česko-ukrajinské město, náhrada Ukrajinců migranty — [Nedělní vysílání 4. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
 - **1. 10.** — migraci 2015 zastavil s Konvičkou, „ne Okamura, který se napakoval"; migrační pakt od 2027 — [Zprávy v devět 1. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+- **5. 10.** — protesty ve Španělsku a Francii jsou ve skutečnosti o migraci, „začínající občanská válka“; „chtělo by to změnu systému“ — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1273,6 +1277,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+- **5. 10.** — Future Air Force: globalisté dělají z Druláka a Trumpa „národní ikony“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md) — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1789,6 +1794,12 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Ivan Kratochvíl | ✅ pozitivní | Řečník — jaderný deštník jako terč | 2026-10-03 | [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026) |
 | Josef Kupčík | ✅ pozitivní | „Komunista přesvědčením, vážím si ho" | 2026-10-03 | [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026) |
 | Petr Hájek | ❌ negativní | „Politruk", Klausův poradce, „kádruje hnutí" | 2026-10-03 | [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026) |
+| Petr Drulák | ⚖️ rozporuplný | Globalisty vytvářená „národní ikona“; polarizace je jeho „nejlepší prezidentská kampaň“ | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
+| Alexander Stubb | ❌ negativní | „Částečně blázen, částečně psychopat“ | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
+| Grzegorz Braun | ✅ pozitivní | Politický přítel, i s mandátem „chodí na ulici a pracuje pro lidi“ | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
+| Jindřich Rajchl, Petr Vacek | ❌ negativní | Vytvořili zatýkání za „Z“ „na objednávku“ se státním zástupcem Střížem | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
+| Andrej Babiš | ❌ negativní | Daně v rozporu se slibem, migrační pakt odmítl jen verbálně, „hurá“ za SAFE | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
+| Savo Minić / Milorad Dodik | ✅ pozitivní | Gratulace k vítězství v Republice srbské | 2026-10-05 | [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026) |
 
 ---
 
@@ -1949,3 +1960,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Večerní zprávy 28. 9. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
 - [Zprávy v devět 29. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
 - [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
+- [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)

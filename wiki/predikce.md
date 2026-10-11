@@ -378,7 +378,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** neurčeno (dlouhodobý trend, „už to začíná")
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026)
+**Zdroj:** [Vrabel — Facebook Live 10. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-9-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ---
 

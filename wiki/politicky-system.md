@@ -1112,7 +1112,9 @@ Vrabel upozorňuje na případ, kdy německá policie zmlátila a zadržela Pol�
 
 **26. 9.** — K videím z berlínských protestů proti branné povinnosti Vrabel označuje německé policisty, kteří „táhnou dítě", za „opravdu zločince"; brutalita policie podle něj roste od covidu (ve Francii zatkli i herečku Susan Sarandon). Ironicky vyzývá nosit kytky „majoru Kolářovi", policistovi z jeho demonstrací, pod jehož vedením prý policie pustila ukrajinského útočníka a zatkla jeho.
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026)
+**5. 10.** — Vrabel tvrdí, že policie má na demonstracích v ČR „nějaký úkol rozehrát konflikt“: těžkooděnci strkají do lidí, dlouze a posměšně zírají na „nejsilnější jedince“ a exemplárně zatýkají ženu, která „nikoho neoslovila“. Přirovnává to k roku 1989 a „agentovi Šmídovi“ i k Majdanu a Gruzii („rozděl a panuj“). Dnešní režim podle něj „není o moc lepší než v roce 89, jestli není horší“. Na Západě (Španělsko, Francie, Německo, Británie) už jde podle něj o boje mezi policií, „která brání globalistický režim, protože je za to placená“, a občany.
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ### „Demokracie = vláda elit, ne lidu" — Vrabel (19. 6. 2026)
 
@@ -1133,6 +1135,16 @@ Vrabel komentuje případ Patrika Cigoše, jemuž Olomoucký krajský soud ulož
 ⚡ **Poznámka:** Výrok obsahuje etnizující narážku; kategorii stochastického teroru viz [stochasticky-teror.md](stochasticky-teror.md).
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### Státní zástupce, který zastavil stíhání Čecha z ukrajinské armády, „má jít do vězení“ (Vrabel, 5. 10. 2026)
+
+Státní zastupitelství zastavilo stíhání Čecha, který v roce 2022 vstoupil bez souhlasu prezidenta do ukrajinské armády, s odůvodněním, že obrana Ukrajiny je „předsunutá obrana ČR“. Vrabel v tom vidí „politický aktivismus“: státní zástupce podle něj „nezastupuje stát, likviduje právní systém“, a měl by být sám stíhán za zneužití pravomoci a odsouzen. Srovnává to se stíháním Ivana Kratochvíla kvůli podpoře bojovníka na straně Donbasu, protože podle něj „nelze bojovat ani na jedné, ani na druhé straně“. Státní zástupci podle něj politicky zasahují i proti němu, jeho manželce, Blahníkové a Hrdličkovi. Úvahu uvádí větou, „jestli by byl odsouzen, kdyby řekl, že by měl být ten státní zástupce zastřelen na místě“, a popisuje fantazii o tom, jak by ve vězení „myl záchody“ před odsouzenými, které tam poslal, „a kamery by měly být vypnuty“ (viz [Stochastický teror](stochasticky-teror.md#přehled-výroků)).
+
+> „Ten státní zástupce by měl být odstíhaný trestně za zneužití pravomoci veřejného činitele [...] Měl by být odsouzený. Měl by jít mýt záchody do vězení.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 
 ---
 
