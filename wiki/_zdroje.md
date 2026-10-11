@@ -5115,6 +5115,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** Soubor nese datum stažení; vysíláno 2. 10. 2026. Velká část je předčítání cizích textů (Lička, Jílková, Avdičová, Wallace, Chambers).
 
+## Československo TV2 — Živě: Čermák „dvojník", petice za ČSFR, čtyři fáze vědy (5. 10. 2026) {#československo-tv2--živě-čermák-petice-5-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-06_Československo-TV2_Československo-TV2-vysílala-živě.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1431621595062611&_rdr>
+- **Datum záznamu:** 2026-10-05
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 25 min; soubor datován 6. 10., vysíláno v pondělí 5. 10. večer.
+
 ## Jindřich Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026) {#jindřich-rajchl--prima-slovák-ods-29-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-29_Jindřich-Rajchl_189K-views-14K-reactions-Samuel-Slovák-jenž-ztělesňuj.txt)
 - **Kanál:** Jindřich Rajchl

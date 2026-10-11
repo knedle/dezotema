@@ -28,7 +28,9 @@ Mluvčí Pavel Zítko tvrdí, že virus SARS-CoV-2 „nikdy nebyl izolován", a 
 
 Zítko k tvrzení dlouhodobě a opakovaně (téměř v každém vysílání) připojuje odkaz na německou odměnu 1,5 milionu euro pro toho, kdo virus SARS-CoV-2 prokazatelně izoluje — cenu dosud nikdo nevyzvedl. V rámci svého trestního stíhání u Okresního soudu v Chomutově (viz [DSA a cenzura — COVID rozsudky](dsa-cenzura.md)) tvrdí, že tuto odměnu nabídl jako „brigádu" napůl (750 tisíc euro) i údajnému státnímu zástupci **Davidu Wernerovi**, který proti němu vedl obžalobu za „šíření poplašné zprávy" — Werner podle Zítka důkaz izolace viru u soudu nikdy nepředložil, ačkoli důkazní břemeno mělo být na straně žaloby.
 
-**Zdroje:** [ČsTV2 — Soběšovice, 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026)
+**5. 10.** — Zítko popisuje „čtyři fáze vědy": „důvěřujte vědě" (Fauci, Gates, Smejkal, Prymula, Hořejší, Flegr, Kubek, Chlíbek), „věda se někdy mýlí", „vědu jsme si vymysleli" (HIV, ebola, dengue i covid jsou „patentované choroby" pro byznys a Gatesovu „depopulaci o 10–15 %") a nakonec „věda odmítá vypovídat" (Fauci se před Kongresem 29. 7. podle něj 111× odvolal na 5. dodatek). Covid podle něj „vytlačila z televize" ruská speciální operace, protože „virus se šířil v televizi". Nově tvrdí, že Krajský soud v Ústí nad Labem při jeho odvolání „kapituloval" a uznal, že virus SARS-CoV-2 nebyl izolován.
+
+**Zdroje:** [ČsTV2 — Soběšovice, 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3), [Československo TV2 — Videoportál 23. 7. 2026](_zdroje.md#pavel-zítko--videoportál-facebook-blokace-kybernetická-bezpečnost-23-7-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026)
 
 ---
 
