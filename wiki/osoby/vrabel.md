@@ -1155,7 +1155,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Petr Pavel](../petr-pavel.md) (pokrač. 4)
 - **13. 9.** — formálně převzal zastupování zahraniční politiky ČR od Babiše na summitu NATO v Tiraně (dohoda s Macinkou/Babišem, dle ČT24) — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
-- **10. 10.** — (9. 10.) Pavel tryskáčem z Maroka na volby, „radši bych mu dal karabáčem“, „generál NATO pro válku“ — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
+- **9. 10.** — Pavel tryskáčem z Maroka na volby, „radši bych mu dal karabáčem“, „generál NATO pro válku“ — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
 
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 15)
 - **13. 9.** — ztrojnásobení Frontexu (300 mil. EUR, 3× personál) jako příprava na uzavření hranic při válce, ne na migraci — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
