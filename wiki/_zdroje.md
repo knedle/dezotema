@@ -5242,6 +5242,14 @@
 - **Datum záznamu:** 2026-10-05
 - **Zpracováno:** ano
 
+## Jiří Černohorský — Facebook Live (2): Vlasáková, „mafie", vlastenecká scéna, písmeno Z (5. 10. 2026) {#jiří-černohorský--facebook-live-5-10-2026-2}
+- **Soubor:** [přepis](prepisy/done/2026-10-05_Jiří-Černohorský_Facebook-Live_1.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1566709515206319>
+- **Datum záznamu:** 2026-10-05
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 48 min, navazuje na přerušené vysílání o kauze Vlasáková.
+
 ## Ladislav Vrabel — Videoportál: další odsouzený za písmeno Z (30. 9. 2026) {#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-30_Ladislav-Vrabel_30-9-2026-Další-ODSOUZENÝ-za-písmeno-Z-na-odznáčku.txt)
 - **Kanál:** Ladislav Vrabel

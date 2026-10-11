@@ -609,6 +609,16 @@ Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulke
 
 ---
 
+### Facebook záměrně přerušuje vysílání; výhrůžné hovory připisuje Štítu demokracie a „gangu Oganesjana" (Černohorský, 5. 10. 2026)
+
+Černohorský je „naprosto jistý", že Facebook úmyslně přerušil jeho předchozí živé vysílání ve chvíli, kdy do něj telefonicky vstoupila Tereza Vlasáková („zrušili signál, abyste to neslyšeli"), a že Vlasákové video odstranil z profilu. Během vysílání mu opakovaně volají neznámá čísla, aby živák přerušila — volající označuje za lidi ze Štítu demokracie, bývalého Ilumiketu a „bandy od Oganesjana". Facebooku vyčítá i to, že k jeho videím schválně vybírá nelichotivé náhledové fotky.
+
+> „Chápete tu rychlost? Chápete, kdo toho Černohorskýho tak asi sleduje?" — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+
+---
+
 ### ČT24 píše „bez důkazů" o zákazu ruštiny na Ukrajině — „diagnóza" (Vrabel, 26. 9. 2026)
 
 K Lavrovovu výroku v OSN, že ruština je na Ukrajině zakázaná, a k tomu, že ČT24 dodává „bez důkazů", Vrabel připomíná, že sama ČT v letech 2014–2022 informovala o občanské válce na Ukrajině a porušování práv rusky mluvících (Minské dohody): „mohli být aspoň natolik schopni, aby se podívali do vlastních archivů, když už tady tvrdí, že nemají důkazy. To už je opravdu diagnóza."

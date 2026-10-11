@@ -1356,6 +1356,34 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 
 ---
 
+### Spory uvnitř vlastenecké scény: Bernardy, Tušl, Novas, Vidra, Galligardy (Černohorský, 5. 10. 2026)
+
+Černohorský popisuje „štvavou kampaň" vlastenců proti sobě (že ho „živí ženské", že krade z příspěvků na společenství) a tvrdí, že spory nejdřív řeší soukromě — na důkaz čte vlastní zprávy Zdeňku Vidrovi (prosinec 2025), Tušlovi (duben 2026) a Sonie Galligardy. Kampaň podle něj rozjela Bernardy (osobní motiv připisuje odmítnutému vztahu), která na příspěvek dala jeho fotku vedle Tarabové a Rajchla; Tušla označuje za „žebráka" vybírajícího peníze od stovek lidí, Novase obviňuje ze zveřejňování jeho soukromých hlasovek (spekuluje, že Novas je sám autorem urážek Petry Rédové pod jménem „Jaroslav Jahodář"). Galligardy, kterou opakovaně zmiňuje s odkazem na „romský, cigánský původ", obviňuje z krádeže u „Dagi". Tarabovou zesměšňuje, ale odmítá, že by byla „falešná opozice" spolupracující s policií.
+
+> „Nejdřív se spojí všichni velcí vlastenci, a jak dosáhnou svého cíle, tak v tu ránu všichni — peníze, peníze, peníze." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+
+---
+
+### Babišova vláda nic nevyšetřuje: dluh 4 biliony, bitcoin, Dozimetr, Kampelička, Lex Ukrajina (Černohorský, 5. 10. 2026)
+
+Černohorský tvrdí, že se po roce nové vlády „nic nezměnilo": Lex Ukrajina nebyl zrušen, podpora Ukrajinců prý stojí „580 milionů měsíčně" a dalších 22 tisíc Ukrajinců má údajně získat pobyt (sám uvádí, že neověřil). Politici za 37 let zadlužili stát „bezmála čtyřmi biliony" (400 tis. Kč na každé narozené dítě), ale žádná vláda nestíhá předchozí: bitcoinová kauza je podle něj „legalizace toho nejhoršího zločinu" (obchod s dětmi, orgány, drogy), Decroix ji „zametla pod koberec", Stanjura „lítá po svobodě", ačkoli prý čtyři roky falšoval rozpočet, Rakušan (dehumanizačně „gestapák, Sturmbannführer") a Hřib měli „jet" v kauze Dozimetr, a u kauzy Kampelička tvrdí, že ODS rozkrádala peníze určené Ukrajině a „když už to málem praskne, tak zabijou ředitele". Proto je „nasraný" na Babiše, Macinku i Okamuru.
+
+> „Jakýkoliv člověk, který by obelhal tento stát na daních o deset tisíc korun, jde okamžitě do basy. A politici mají na všechno imunitu." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+
+---
+
+### „Až se nasere pět milionů lidí" — lid má vzít moc do svých rukou (Černohorský, 5. 10. 2026)
+
+Černohorský doufá, že „se jednou pět milionů lidí nasere a konečně vezme tu moc do svých vlastních rukou": pokud by si lidé sami zvolili kontrolovatelné a odpovědné zástupce, „nemůže to být horší" než 37 let vlády politiků. Lidé podle něj „ve většině nejsou hloupí" a při skutečné možnosti volby by si „další a další zmrdy" nezvolili. Vysílání ale končí pesimisticky: cituje příspěvek, že až budou Češi „znova narváni do dobytčáků", budou se hádat, „kdo bude u okna" — „tohle je tenhle národ".
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+
+---
+
 ### MPSV škrtá podporu v nezaměstnanosti od 2027 — kritika priorit rozpočtu (Vrabel, 28. 8. 2026)
 
 Ministerstvo práce a sociálních věcí připravuje od ledna 2027 snížení podpory v nezaměstnanosti — v prvních měsících z letošních 80 % zpět na 65 % výdělku, maximální podpora klesne z 80 % na 60 % průměrné mzdy (úspora cca 4,5 mld. Kč ročně); návrh kritizují odbory i zaměstnavatelé. Vrabel — ač se sám nepovažuje za zastánce silné sociální politiky — vyjadřuje podiv, že když se najdou peníze na zbraně pro Ukrajinu a příspěvky ukrajinským uprchlíkům, nenajdou se na podporu vlastních nezaměstnaných občanů; ironicky doplňuje, že řešením podle vlády může být práce ve zbrojovkách v Německu (nabízeny až 100 000 EUR/rok i pro nezkušené).

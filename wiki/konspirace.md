@@ -575,6 +575,16 @@ K moskevskému procesu s izraelským občanem Borisem Wolfmanem (obviněn z orga
 
 ---
 
+### „Stát od A do Z prorostlý mafií" — politická, podnikatelská, policejní a soudní (Černohorský, 5. 10. 2026)
+
+Černohorský tvrdí, že Česká republika je „od zvrchu jedna skurvená mafie": lidé na ministerstvech vnitra, financí či průmyslu od 90. let republiku „rozprodali a rozkradli", mají „neuvěřitelné miliardy" a stojí za podobnými případy, jako je kauza Terezy Vlasákové. Stát je podle něj „od A až do Z" prorostlý politickou, podnikatelskou, policejní a soudní mafií až „do nejvyšších míst". Jako příklad uvádí nejmenovaného bývalého ministra financí, který měl jistému „Viktorovi" nabídnout pomoc k jeho penězům za úplatek 300 tisíc eur — jméno slibuje zveřejnit ve společném vysílání s tímto Viktorem.
+
+> „Od A až do Z je tenhle ten stát prorostlý mafií, mafií skurvenou politickou, skurvenou podnikatelskou, skurvenou soudní, policií, soudní mafií." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+
+---
+
 ## Náboženský a okultní výklad moci
 
 ### Elity tolerují pedofilii, adrenochrom a kanibalismus; von der Leyenová „by měla být popravena" (Černohorský, 24. 9. 2026)

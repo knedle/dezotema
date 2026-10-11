@@ -1388,6 +1388,16 @@ K výzvě 50 států OSN (včetně ČR) k bezpodmínečnému příměří, ktero
 
 ---
 
+### „Kde jste byli osm let?" — Donbas, Minsk jako podvod, biolaboratoře; vláda Babiše a Macinky jako „rusobijci" (Černohorský, 5. 10. 2026)
+
+Černohorský odmítá rámování Ruska jako jednostranného agresora: podle něj „nacistický Azov" osm let (2014–2022) vraždil civilisty na Donbasu, Ukrajina bombardovala Donbas kazetovou municí a ještě v lednu 2022 ČT, Aktuálně.cz a Hospodářské noviny informovaly o „probouzejícím se neonacismu" na Ukrajině. Minské dohody byly podle něj „záměrně ušitý podvod", aby se Ukrajina vyzbrojila, a existence biolaboratoří na Ukrajině prý zazněla „letos v americkém Kongresu". Na Donbas podle něj upozorňovali jen Kateřina Konečná a Josef Skála. Kritiku směřuje nově i na Babišovu vládu (Babiš, Macinka, Turek, Šťastný) jako na „rusobijce", kteří přebírají narativ „ruského agresora" — výslovně vyjímá SPD; v EU pak na Kallasovou, von der Leyenovou, Niedermayera, Vondru, Gregorovou a Šimečku.
+
+> „To si jako měli nechat srát pořád na hlavu? [...] Tadle celá vláda, s Andrejem Babišem, s Macinkou, s Turkem, s Borisem Šťastným, všichni tady tyhlenstí rusobijci, běžte do piče." — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+
+---
+
 ### USA by mohly válku ukončit ze dne na den — vypnutím Swiftu, internetu a ropy Evropě (Vrabel, 23. 9. 2026)
 
 K Trumpovu setkání se Zelenským (Trump chce znovu jednat s Putinem, varuje, že ukrajinské útoky na rafinerie zvyšují ceny nafty, a přitom dodává Patrioty) Vrabel tvrdí, že jde o „předvolební hru" srovnatelnou s Babišovými sliby. USA podle něj kontrolují evropský internet, energetiku i finance a mohly by konflikt ukončit ze dne na den, ale chtějí, aby umírali Evropané. Zelenského (jméno v přepisu nepadá, ale z kontextu je zřejmé) popisuje jako „narkomana v pokročilém stádiu závislosti".
