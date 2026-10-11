@@ -5385,6 +5385,14 @@
 - **Datum záznamu:** 2026-10-09
 - **Zpracováno:** ano
 
+## Vrabel — Facebook Live 10. 10. 2026 {#ladislav-vrabel--facebook-live-10-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-10_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1006095219184944>
+- **Datum záznamu:** 2026-10-10
+- **Zpracováno:** ano
+- **Poznámka:** 20 min, natočeno venku v Srbsku („z naší haciendy, jak řekl Michal Svatoš“).
+
 ## Ladislav Vrabel — Zprávy v devět 30. 9. 2026 {#ladislav-vrabel--zprávy-v-devět-30-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-30_Ladislav-Vrabel_30-9-2026-Zprávy-v-devět-s-komentářem.txt)
 - **Kanál:** Ladislav Vrabel

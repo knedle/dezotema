@@ -525,6 +525,16 @@ Vrabel popisuje brutalitu ukrajinské mobilizace (jednotky TCK): syn v Mykolajiv
 
 ---
 
+### Vysvětlení výroku „měli jsme se připojit k Rusku“: podpořit ochranu Rusů na Ukrajině jako u Minských dohod (Vrabel, 10. 10. 2026)
+
+Vrabel vysvětluje svůj výrok z 9. 10., aby „někdo neřekl, že schvaluje válečné zločiny“. Podle něj „všichni víme“ z ČT, Rozhlasu i iDNES, že Ukrajinci od roku 2014 „vraždili a vraždí Rusy, kteří žijí na Ukrajině“. ČR se tehdy připojila k Minským dohodám, tedy k „ruským snahám, aby Rusové nebyli vražděni“. V roce 2021 měl Západ vyslyšet ruskou žádost o jednání a záruky a společně s Ruskem tlačit na Ukrajinu, případně přes Radu bezpečnosti OSN rozhodnout o intervenci. Když to nikdo neudělal, Rusové „šli ty lidi zachránit“ a lidé na Donbasu se v referendu rozhodli pro Rusko. „Z lidského, morálního i zákonného hlediska jsme se měli přidat na ruskou stranu“, také proti rozšiřování NATO a hrozbě jaderných zbraní na ruských hranicích. Politici podle něj místo toho dali přednost „obchodním zájmům globalistů“ a překupování energií přes USA, „pravděpodobně za obrovské úplatky“. Válku podle něj „rozpoutali Američani“ (CIA, cvičení, výcvik, Zelenskyj). Kritizuje Turka („Putin krysa“), Rajchla (od Václaváku „udávání“ za „Z“), Zemana (vyznamenal Zelenského) i Babiše. Připomíná, že Putina považuje za „jednoho z nejlepších politiků na světě“ a že kvůli tomu na něj lidé na ulici plivou a polévají ho barvou.
+
+> „Mentálně jsme se měli snažit o to, aby se nevraždili lidi na Ukrajině, a politicky a diplomaticky jsme se měli snažit o to, aby se nerozehrávala ta válka.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Facebook Live 10. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
+
+---
+
 ### Ukrajina najímá cizince a žoldáky za 140 tis. Kč; nevydávat uprchlíky (Vrabel, 17. 6. 2026)
 
 Vrabel uvádí, že ukrajinský ministr obrany Fedorov plánuje obsadit 30–50 % útočných a pěchotních jednotek zahraničními rekruty (přes soukromé náborové agentury) a Ukrajina nabízí žoldákům ~140 000 Kč měsíčně — což čte jako důkaz vážného nedostatku vojáků a „nucených únosů" na ulicích. Kategoricky odmítá výzvy k vydávání ukrajinských uprchlíků v branném věku zpět na Ukrajinu: pro ně by to byla „poprava" (zacházení jako s dezertéry). Žádá soudit případné kriminálníky podle českých zákonů a deportovat až za závažné činy, ne plošně. Argumentuje empatií („představte si Českou republiku ve válce") a tvrdí, že hlavní obětí konfliktu jsou sami Ukrajinci — země bude na konci „vybydlená, zdevastovaná, zadlužená", připravená na „digitální stát s novým naváženým obyvatelstvem". Pasáž doprovází opakovaný černý humor o sebevrazích, kteří mohou jít „rychle ukončit život" na frontu. K žadatelce, podle níž utekli jen bohatí Ukrajinci, dodává, že život bohatého i chudého má stejnou hodnotu.

@@ -1155,6 +1155,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 
 ### [Petr Pavel](../petr-pavel.md) (pokrač. 4)
 - **13. 9.** — formálně převzal zastupování zahraniční politiky ČR od Babiše na summitu NATO v Tiraně (dohoda s Macinkou/Babišem, dle ČT24) — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
+- **10. 10.** — (9. 10.) Pavel tryskáčem z Maroka na volby, „radši bych mu dal karabáčem“, „generál NATO pro válku“ — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
 
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 15)
 - **13. 9.** — ztrojnásobení Frontexu (300 mil. EUR, 3× personál) jako příprava na uzavření hranic při válce, ne na migraci — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
@@ -1273,6 +1274,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - **7. 10.** — energetická krize je umělá (rafinerie, Hormuz, Green Deal), v zimě přijdou úspory — [Zprávy v devět 7. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 - **9. 10.** — v lednu nebude dost plynu, doporučení 21 °C do tří týdnů; „pořiďte si kamna a domek“ — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+- **10. 10.** — Trump děkuje Putinovi za ropu, Evropa kupuje od USA čtyřikrát dráž kvůli korupci; Nord Stream koupí Američané — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
 
 ### [Migrace](../migrace.md) (pokrač. 22)
 - **19. 9.** — ukrajinizace ČR (2 mil.), predikce ukrajinské politické strany ve volbách — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1290,6 +1292,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **3. 10.** — Zelenskému „věří nula procent", relativizace Buči — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 - **8. 10.** — žádné příměří, „tvrdou kapitulaci Ukrajiny“ — [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
 - **9. 10.** — ukrajinská mobilizace — „co to je za dobytek“; „měli jsme se připojit k Rusku“ — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+- **10. 10.** — vysvětlení „měli jsme se připojit k Rusku“ (Minsk, ochrana Rusů, NATO); Putin „jeden z nejlepších politiků“ — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1847,6 +1850,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Lukáš Valášek | ❌ negativní | „Jeden z nejhorších českých novinářů, který likviduje lidi“ | 2026-10-09 | [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026) |
 | Marco Rubio | ❌ negativní | „Satanisti, všechno otáčí“ | 2026-10-09 | [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026) |
 | VK (Aeronet) | ✅ pozitivní | Shoda, že změna systému přijde až po válce | 2026-10-09 | [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026) |
+| Vladimir Putin | ✅ pozitivní | „Jeden z nejlepších politiků na světě“ | 2026-10-10 | [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026) |
+| Filip Turek | ❌ negativní | Výrok „Putin krysa“ jako ukázka válečné propagandy | 2026-10-10 | [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026) |
+| Miloš Zeman | ❌ negativní | Vyznamenal Zelenského Řádem Bílého lva | 2026-10-10 | [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026) |
+| Michal Svatoš | ❌ negativní | Ironie k „haciendě v Srbsku“ | 2026-10-10 | [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026) |
 
 ---
 
@@ -2012,3 +2019,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 7. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 - [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
 - [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+- [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)

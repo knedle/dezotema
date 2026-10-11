@@ -315,7 +315,9 @@ Vrabel připomíná výrok Ursuly von der Leyen, která sama přiznala, že Evro
 
 > „Dávno, ještě před pár lety, jsme měli stabilní ekonomiku [...] postavenou na dodávkách ropy a plynu z Ruska. A teď se toho dobrovolně zbavujeme. Naprosto bezdůvodně." — Ladislav Vrabel, [Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
 
-**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026)
+**10. 10.** — K Trumpovu poděkování Putinovi za dodávky ruské ropy Vrabel tvrdí, že Evropa je „za největší hlupáky“. Zatímco EU zakazuje ruskou ropu a plyn a von der Leyenová podepsala s USA nákup energií za 800 mld. €, „Američani otevřeně nakupují od Rusů a my přiznaně od Američanů“, čtyřikrát dráž a s neekologickou dopravou LNG tankery. Zároveň evropské zboží platí v USA clo, americké v EU ne. Jediné vysvětlení, které mu „při sledování peněz vychází“, je korupce: přirovnává to k „Pepíkovi“, který přeprodává „Karlova“ vajíčka za čtyřnásobek a nákupčímu „dá z toho deset korun“. Politiky podle něj někdo „zaplatil“ a „diverzifikace rizik“ je zástěrka. Kritizuje to od roku 2015, kdy s tím podle něj začali komunisté, přes všechny vlády. Varuje, že Američané teď chtějí koupit i Nord Stream, takže budeme „ruský plyn z vlastních trubek přeplácet Američanům“.
+
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026), [Vrabel — Facebook Live 10. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
 
 ---
 
