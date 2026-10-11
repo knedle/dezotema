@@ -5164,6 +5164,14 @@
 - **Datum záznamu:** 2026-10-08
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Fanouškovský sestřih: ODS a daně (9. 10. 2026) {#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-09_Jindřich-Rajchl_Další-skvělé-video-od-našich-fanoušků-z-PRO-Česko.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1816407202894388>
+- **Datum záznamu:** 2026-10-09
+- **Zpracováno:** ano
+- **Poznámka:** fanouškovský střih z debaty, více mluvčích.
+
 ## Lenka Tarabová — Beseda v Koloseu (1. 10. 2026) {#lenka-tarabová--beseda-koloseum-1-10-2026}
 - **Soubor:** [přepis](prepisy/done/2026-10-02_Lenka-Tarabová_21K-views-78-reactions-VELMI-DĚKUJI-ZA-ZPĚTNOU-VAZBU-Ž.txt)
 - **Kanál:** Lenka Tarabová

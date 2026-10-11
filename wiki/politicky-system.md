@@ -1094,7 +1094,9 @@ V debatě na Primě s poslancem ODS Samuelem Slovákem Rajchl odmítá návrh, a
 
 > „Vy už jste je odrbali z kůže, jak nejvíc to jenom šlo." — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026)
+**9. 10. (fanouškovský sestřih)** — Rajchl sdílí střih z debaty, kde opakuje tezi, že „ODS chce okrást občany“: Fialova vláda podle něj zrušila školkovné a slevu na manželku, zvýšila daň z nemovitostí, snížila valorizaci důchodů a mladým rodinám vzala jen na daňových změnách 135 tisíc Kč za čtyři roky; „pomáhali jste sobě a Ukrajině v rámci bitcoinové kauzy“. Slibuje snížení daní pro všechny a zastavení zadlužování bez zvyšování daní. *(Střih z více mluvčích, přesná atribuce jednotlivých vět není jistá.)*
+
+**Zdroje:** [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026), [Rajchl — fanouškovský sestřih: ODS a daně (9. 10. 2026)](_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
 
 ---
 

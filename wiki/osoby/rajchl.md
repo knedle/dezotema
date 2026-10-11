@@ -214,6 +214,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **27. 9.** — senátní kandidáti Loprais/Skalický/Beran/Šorna („ani korunu na Ukrajinu", koruna/hotovost/offline do Ústavy); 110 komunálních kandidátek, „Pro Plzeň" = pohrobci ODS; zdržel se u zprávy o výcviku 800 ukr. vojáků — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) → [volby-2026.md](../volby-2026.md)
 - **29. 9.** — ODS chce „okrást občany" poplatky u lékaře; daně mají platit banky, energetika a zbrojaři — [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](../_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026)
 - **8. 10.** — výzva volit PRO: 4 senátoři (koruna, hotovost, offline do Ústavy), koaliční kandidátky vč. Motoristů (Chomutov, J. Hradec) → [volby-2026.md](../volby-2026.md) — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
+- **9. 10.** — sestřih: ODS „okrádá občany“ (školkovné, sleva na manželku, daň z nemovitostí, valorizace, 135 tis. rodinám) — [Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -580,3 +581,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026)
 - [Rajchl — Debata se Svárovskou: ČT, F-35, Ukrajina jako útočník (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 - [Rajchl — Volte PRO: senátoři, koaliční kandidátky, dávky, euro (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
+- [Rajchl — Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
