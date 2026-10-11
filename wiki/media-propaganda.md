@@ -165,6 +165,16 @@ Vrabel ve své relaci „Zprávy v devět", v níž komentuje zpravodajství (mj
 
 ---
 
+### ČT jako „kanál, který nejvíce šíří dezinformace" — proto ji omezit (Rajchl, 7. 10. 2026)
+
+V televizní debatě s Gabrielou Svárovskou (Zelení) Rajchl ironicky přitakává boji s dezinformacemi: pokud s nimi chceme bojovat, je třeba omezit Českou televizi, protože je podle něj „kanál, který nejvíce šíří dezinformace v České republice“. Na námitku, že vysílání kontroluje RRTV a stížnosti lze podat tam, odpovídá, že nejde o bonmot a že to jako poslanec bude realizovat.
+
+> „Jestli chceme bojovat s dezinformacemi, tak my máme v plánu právě omezit tu Českou televizi, což je kanál, který nejvíce šíří dezinformace v České republice.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Debata se Svárovskou (7. 10. 2026)](_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
+
+---
+
 ## Dvojí metr v médiích
 
 ### Mediální lynč vs. selektivní ticho

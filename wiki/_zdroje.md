@@ -5150,6 +5150,13 @@
 - **Datum záznamu:** 2026-10-05
 - **Zpracováno:** ano
 
+## Jindřich Rajchl — Debata se Svárovskou: ČT, F-35, Ukrajina jako útočník (7. 10. 2026) {#jindřich-rajchl--debata-se-svárovskou-7-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-07_Jindřich-Rajchl_Argumentační-debakl-fanatické-zelené-eurohujerky-Svar.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1721658328938061>
+- **Datum záznamu:** 2026-10-07
+- **Zpracováno:** ano
+
 ## Lenka Tarabová — Beseda v Koloseu (1. 10. 2026) {#lenka-tarabová--beseda-koloseum-1-10-2026}
 - **Soubor:** [přepis](prepisy/done/2026-10-02_Lenka-Tarabová_21K-views-78-reactions-VELMI-DĚKUJI-ZA-ZPĚTNOU-VAZBU-Ž.txt)
 - **Kanál:** Lenka Tarabová

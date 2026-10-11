@@ -170,6 +170,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **5. 7.** — kauza Čestmír Strakatý: lynč od liberální scény za fotku s Turkem; debata CNN Prima — „hnědý Turek" vs. mlčení k Zelenského UPA jednotkám — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
 - **19. 7.** — „okurková sezóna": plot u jeho zahrady jako titulka Seznamu místo velkých kauz (Rakušan/vrtulníky); řízení Seznamu (šéfredaktor Čárenský dostal desítky milionů od Lukačeviče) — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - **20. 9.** — Seznam Zprávy (Lukáš Valášek) srovnány s rétorikou nacistického „Der Stürmer" za článek o konferenci Svatopluk; kritika moderátorky Lucie Čermákové (CNN Prima) — [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) → [media-propaganda.md](../media-propaganda.md#seznam-zprávy-lukáš-valášek-srovnány-s-rétorikou-nacistického-der-stürmer-rajchl-19-20-9-2026)
+- **7. 10.** — ČT jako „kanál, který nejvíce šíří dezinformace“ → omezit — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -228,6 +229,9 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 
 
 ---
+
+### [Válka, NATO a zbrojení](../valka-nato-rusko.md)
+- **7. 10.** — výdaje ≠ obranyschopnost, F-35 v r. 2035 „směšné“, odstrašujeme „zálohovými fakturami“ ([nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)); jediný útočník na EU je Ukrajina (Nord Stream, Przewodów), o míru jednají jen USA a Rusko; Pavlova výzva k sestřelu „nesmysl“ — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 
 ## Zmíněné osoby
 
@@ -438,6 +442,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Andrzej Duda | ○ neutrální | Citován jako svědek (podcast Rymanowski Live, 1. 9. 2025) Zelenského snahy svést útok na Rusko | 2026-09-24 | [Videoportál 24. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-pavel-vs-fico-čl-5-24-9-2026) |
 | Samuel Slovák | ❌ negativní | „Ideální představitel ODS — arogance, pokrytectví a hloupost"; poplatky u lékaře | 2026-09-29 | [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](../_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026) |
 | AfD, Marine Le Penová | ✅ pozitivní | Doufá v jejich vítězství a společné zrušení EU; AfD jedná s Gazpromem | 2026-10-05 | [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026) |
+| Gabriela Svárovská | ❌ negativní | Oponentka v debatě („fanatická zelená eurohujerka“ v titulku) | 2026-10-07 | [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026) |
+| Petr Pavel | ❌ negativní | Výzva k sestřelení ruské stíhačky = „absolutní nesmysl“ | 2026-10-07 | [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026) |
 
 ---
 
@@ -566,3 +572,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Videoportál: výročí Mnichovské zrady (30. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-mnichovská-zrada-30-9-2026)
 - [Rajchl — Partie: Green Deal jako zlodějina (4. 10. 2026)](../_zdroje.md#jindřich-rajchl--partie-green-deal-4-10-2026)
 - [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026)
+- [Rajchl — Debata se Svárovskou: ČT, F-35, Ukrajina jako útočník (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)

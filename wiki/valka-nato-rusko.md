@@ -455,7 +455,11 @@ K obžalobě Ukrajince německou prokuraturou za útok na Nord Stream (2022) Raj
 
 > „Pokud tento útok byl zaměřen na to, jak přerušit dodávky plynu a ropy do Evropy a zpětně peněz Rusku za tyto produkty, pak by to — říkám záměrně kondicionál — byl legitimní cíl." — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Videoportál 6. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-6-7-2026)
+**7. 10. (debata se Svárovskou)** — Rajchl nově rámuje Ukrajinu jako jediný stát, který dosud „zásadně zaútočil na území Evropské unie“ — „nechala vyhodit do vzduchu Nord Stream a poslala rakety do Przewodówa“. O míru podle něj reálně jednají jen USA a Rusko, zatímco EU „jenom neustále hovoří o tom, že je potřeba zbrojit a odstrašovat“.
+
+> „Jediný, kdo tady zaútočil zatím zásadně na území Evropské unie, je Ukrajina, která nechala vyhodit do vzduchu Nord Stream a která poslala rakety do Przewodówa.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Videoportál 6. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-6-7-2026), [Rajchl — Debata se Svárovskou (7. 10. 2026)](_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 
 ---
 

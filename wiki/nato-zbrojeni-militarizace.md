@@ -14,7 +14,9 @@ V reakci na poslance ODS Jana Krutílka Rajchl tvrdí, že si Krutílek „plete
 
 > „Neinvestujeme obrovské prostředky do zbrojení, abychom zamezili strachu z války. Je to přesně obráceně. Straší se válkou, aby se mohlo investovat do zbrojení." — Jindřich Rajchl, popis videa, [Videoportál 22. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
 
-**Zdroje:** [Rajchl — Videoportál: Krutílek plete příčinu a následek, 22. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026)
+**7. 10. (debata se Svárovskou)** — Rajchl tvrdí, že mezi výdaji na obranu a obranyschopností „neexistuje přímá úměra“, rozhoduje účelnost a koncepce. Jediné, čím ČR zatím „odstrašuje“, jsou podle něj „zálohové faktury“; dodávku F-35 v roce 2035, „kdy už Putin ani nebude v úřadu“, označuje za „směšnou záležitost“.
+
+**Zdroje:** [Rajchl — Videoportál: Krutílek plete příčinu a následek, 22. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-krutílek-22-9-2026), [Rajchl — Debata se Svárovskou (7. 10. 2026)](_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 
 ---
 
