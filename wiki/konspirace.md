@@ -908,7 +908,9 @@ K tomu, že se studentské protesty z Francie šíří do Itálie, Vrabel tvrdí
 
 V závěru vysílání Vrabel spekuluje, že energetická krize, Green Deal i útoky na ropnou infrastrukturu po světě jsou „cílené“: „chtějí udělat svět bez ropy a bez benzínu“. Popisuje, co by sám dělal, kdyby chtěl snížit lidstvo z 8–9 miliard na jednu miliardu. Nevraždil by, ale udělal by vakcínu způsobující neplodnost, plastové kelímky s mikroplasty, „sypal by do oblohy těžké kovy“, otrávil životní prostředí a provedl deindustrializaci a likvidaci ropy, protože ženy v krizích „nejsou tak plodné“. A „měl by dobrý pocit z toho, že je liberální progresivista, který zachránil planetu“.
 
-**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+**9. 10.** — Vrabel opakuje, že „studentské demonstrace jsou vždycky globalistické“: studenti nemají životní zkušenost, snadno se jim „naprogramuje liberální progresivismus“ a „na děti se nikdo neodváží sáhnout“, kdežto na jeho demonstrace chodí důchodci, „kteří vědí, co se děje“. K útokům dětí ve školách (Polsko nasadilo 24 tisíc policistů, Francie, Itálie, USA) spekuluje, zda „dětem nesypou něco do vody“ nebo zda „umělá inteligence nevymyslela kód“, který přes TikTok podprahově vede děti k násilí, protože „lidský mozek nejde změnit ze dne na den“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 
 ---
 
@@ -916,7 +918,9 @@ V závěru vysílání Vrabel spekuluje, že energetická krize, Green Deal i ú
 
 K Rubiovu varování před eskalací Vrabel tvrdí, že USA se tváří jako mírotvůrci, ale samy válku připravily: od oranžové revoluce 2004 přes Majdan 2013 („jejich koně“, stanice CIA, výcvik) až po zbraně pro Azov, které podle něj po zákazu Kongresu v roce 2018 dodávaly Kanada a Izrael („náckům do Azova pistole z Izraele“). Za podporou Ukrajiny proti Rusku stojí podle něj „globalistická, chabad-lubavičská, sionistická pyramida moci“, která chce světovou vládu. Totéž podle něj platilo pro druhou světovou válku: Hitler, „o kterém se mluví, že byl levoboček rodiny Rothschildů“, dostal peníze od stejných kruhů, které pak přišly jako „mírotvůrci“, převzaly nacistické vědce, patenty a zlato a přes Marshallův plán a brettonwoodský systém si Evropu zavázaly. I nyní podle něj USA s Ruskem obchodují, Evropě prodávají zbraně, „těší se, že se Evropa zničí“, a nakonec převezmou evropský i ruský byznys. „My jsme vždycky takoví kreténi, že nás poštvou proti sobě slovanské národy.“
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+**9. 10.** — Na Rubiův výrok, že USA „nikdy neporušily suverenitu žádné země“, Vrabel odpovídá, že „jsou to satanisti, všechno otáčí“. USA podle něj zlikvidovaly mezinárodní právo v Kosovu, únosem Madura, „vyvražděním íránského vedení“ a útoky na Venezuelu a Kubu. Rusko má naopak pro operaci na Ukrajině „oporu v Chartě OSN“ jako vítěz druhé světové války vůči státu, kde „bují nacismus“, a „minimálně prvotně to bylo po právu“. Za to, že spor trvá, podle něj může Rada bezpečnosti. Svět se USA bojí od Hirošimy a petrodolaru (Kaddáfí, Husajn) a teprve Rusko se jim postavilo. Těší se, „až lidé udělají plot okolo Spojených států“. Na začátku vysílání přirovnává „globalistickou mafii“ k mafii vybírající výpalné, která „uplácí soudce a politiky“ a „postřílí“ ty, kdo se jí postaví (Husajn, Kaddáfí, Maduro, Írán, Rusko přes Ukrajince a pak celou Evropu).
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 
 ---
 

@@ -519,7 +519,9 @@ Ukrajina podle Politico (přebírá ČTK) požádá spojence ve formátu Rammste
 
 Vrabel popisuje brutalitu ukrajinské mobilizace (jednotky TCK): syn v Mykolajivu ubránil otce před odvodovým komandem; Fedor Košelňák byl násilně naložen do autobusu deseti maskovanými muži a po dvou hodinách zemřel „na zástavu srdce" během lékařské prohlídky; ombudsman Lubinec uvedl, že komise ignorují skutečný zdravotní stav (člověk před chirurgickým zákrokem uznán schopným za 15 minut). Vrabel přirovnává Zelenského zacházení s lidmi k Hitlerovi — „posílá je na porážku jako dobytek". Navazuje na [Ukrajinci nechtějí bojovat — TCK „lov lidí" (6. 6.)](#ukrajinci-nechtějí-bojovat--tck-lov-lidí-a-úplatek-12-000--vrabel-6-6-2026).
 
-**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026)
+**9. 10.** — K zprávě Washington Post o dvou milionech mužů, kteří se vyhýbají mobilizaci, a 200 tisících dezertérů pouští Vrabel videa náborářů v Charkově (strčení do 74leté ženy) a lidí přivázaných a zmlácených za krádež „za posvěcení policie“. Komentuje to slovy „co to je prostě za dobytek“. Až se to budou děti učit v dějepise, „odplivnou si, co je Ukrajina“, podle něj „absolutně zkorumpovaná země, kde se obchoduje s lidskými orgány“. Dodává, že „ne všichni Ukrajinci jsou špatní“. Rusové podle něj šli na Ukrajinu „chránit lidi, kteří jsou tam vyvražďováni“, a „my jsme se měli hned na začátku připojit k Rusku a ten nacistický režim odstranit“. ČR to neudělala, protože vlády „pracují pro globalistickou mafii, která chce Rusko rozbít“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 
 ---
 

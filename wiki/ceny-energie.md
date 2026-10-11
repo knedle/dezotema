@@ -295,7 +295,9 @@ Vrabel komentuje zprávu, že letošní léto zvýraznilo problémy evropské en
 
 **7. 10.** — Na slova eurokomisaře Jørgensena, že řešením drahých energií je energetická účinnost a obnovitelné zdroje, Vrabel odpovídá, že energetická krize začala uměle na trzích už v roce 2021 a dnes ji „způsobuje člověk“ útoky na rafinerie a uzavřením Hormuzu. Drahá nafta a benzín jsou podle něj „schválně“, aby se v rámci Green Dealu přestala používat ropa. Za „účinností“ se podle něj skrývají úspory: von der Leyenová už k nim vyzývá, a „jakmile se ochladí“, čeká v ČR „úsporné procesy“, které poškodí ekonomiku i blahobyt („bez energie není ekonomika, bez ekonomiky není bohatství“).
 
-**Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
+**9. 10.** — K varování britského premiéra před zimním nedostatkem plynu Vrabel tvrdí, že nedostatek hrozí celé Evropě: „kdyby ještě v lednu byl plyn v celé Evropě, byl bych velmi překvapený“. Do tří týdnů podle něj přijdou přinejmenším doporučení topit maximálně na 21 °C. Radí pořídit si kamna a dřevo, elektrické topení, nebo „domek někde pryč“ (v Srbsku za půl milionu), společně se sousedy či na venkově u příbuzných, také kvůli „moru z Ruska“. Dětem do škol doporučuje teplé ponožky. „Vedení země vypadá, že chce, aby lidi umrzli.“
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 
 ---
 

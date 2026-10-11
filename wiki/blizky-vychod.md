@@ -603,7 +603,9 @@ Podle deníku Haaretz varoval prezident Spojených arabských emirátů izraelsk
 
 K zprávě, že ministr zahraničí Petr Macinka loni v prosinci vystoupil na veřejné oslavě Chanuky pořádané ultraortodoxním hnutím Chabad Lubavič a podpořil přesun ambasády do Jeruzaléma, Vrabel tvrdí, že Chabad má za „jeden z hlavních cílů vytvořit Velký Izrael“ a očekává mesiáše, jehož příchodu musí předcházet velká válka, která „vyvolenému lidu“ dá území Sýrie, Libanonu a dalších zemí. Proto se podle něj na Blízkém východě děje „z velké části, možná z největší části“ to, co se děje. Chabad podle něj podporuje rodina Kushnerů a Trumpa finančně podporovali Lutnick a Miriam Adelsonová. Na fotkách s Macinkou je prý i Boris Šťastný, což vysvětluje Macinkův slib blokovat jakékoli sankce EU proti Izraeli. U jednání Kushnera s Dmitrijevem o americkém vstupu do Nord Streamu naznačuje, že „Velký Izrael“ by se mohl „posunout i směrem na Ukrajinu“ a že „se mluví“ i o Zelenském. Pak se zarazí, „aby ho nezavřeli za antisemitismus“.
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+**9. 10.** — K americkým sankcím proti Mezinárodnímu trestnímu soudu (Rubio ho označil za „lidský odpad“) Vrabel tvrdí, že tribunály USA vyhovovaly, dokud soudily jugoslávské vůdce, ale „vymkly se z rukou“ zatykačem na Netanjahua. To si podle něj Chabad Lubavič, který chrání „svého hlavního koně“, nemohl nechat líbit, a „musel zaklepat u Trumpa“, aby soud zrušil. Silná pozice islámských zemí v OSN je podle něj důsledkem petrodolaru, který islámským zemím od roku 1972 dal peníze a „hodně dětí“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 
 ---
 

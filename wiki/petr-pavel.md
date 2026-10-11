@@ -569,6 +569,14 @@ Vrabel komentuje demonstraci KSČM a Stačilo na Malostranském náměstí namí
 
 ---
 
+### Pavel na volby z Maroka a zpět soukromým tryskáčem; „generál NATO dosazený vést zemi ve válce“ (Vrabel, 9. 10. 2026)
+
+K zprávě, že prezident Pavel přiletěl 9. 10. z dovolené v Maroku k volbám soukromým tryskáčem spojeným s rodinou podnikatele Pavla Hubáčka a týž den odletěl zpět, Vrabel poznamenává, že „by mu radši dal karabáčem“. Tryskáč je podle něj úplatek „globalistické mafie“, která „uplácí všechny, kdo pro ni pracují“: „za co asi mu to platí, protože má krásné šedé vlasy?“ Pavel je podle něj „generál NATO dosazený do ČR, aby vedl zemi v době války“. Babiš proto „dělá zpátečku“, aby nemusel rozhodovat o smrti „100 000 lidí“, a nechává to na Pavlovi. Připomíná Kolářovu radu Američanům z WikiLeaks, ať o brdské základně mluví jako o radaru. Stejně se podle něj dnes „jaderným deštníkem“ maskují útočné jaderné zbraně. O Babišovi tvrdí, že po revoluci „dostal 550 milionů“ od otce, šéfa komunistů v Bratislavě.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+
+---
+
 ### „Kim-irsenizace" Petra Pavla — dvojí metr médií vůči Pavlovi a Babišovi (Rajchl, 6. 9. 2026)
 
 Rajchl srovnává přístup CNN Prima News k rozhovorům s prezidentem Pavlem (týden předtím) a s premiérem Babišem (tentýž den): vůči Pavlovi byla moderace servilní a poslušná bez jediného skočení do řeči, vůči Babišovi naopak tvrdá a neustále přerušující — pokud jde o objektivitu, měl by být přístup stejný k oběma, nebo žádný. Podobně kontrastuje nadšené tleskání moderátorky Adely Snopové (TV Nova) při tvrdém útoku na bývalého prezidenta Václava Klause s adorací současného prezidenta. Jako příklad kultu osobnosti uvádí Pavlovu jízdu na motorce Harley-Davidson v čele kolony motorkářů ve flanelové košili — razí pro to termín „kim-irsenizace" (odkaz na severokorejský kult osobnosti), který očekává, že bude jen dále sílit.

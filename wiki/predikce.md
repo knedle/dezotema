@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — v lednu nebude v Evropě dost plynu, do tří týdnů přijde doporučení topit na max. 21 °C; změna systému až po válce (9. 10. 2026)
+
+**Předpověď:** Do tří týdnů vlády přijdou přinejmenším s doporučením omezit vytápění na 21 °C. Překvapilo by ho, kdyby v lednu byl v Evropě dostatek plynu pro průmysl i domácnosti. Změna politického systému podle něj „pravděpodobně nebude do té doby, než si projdeme válkou“.
+
+> „Kdyby ještě v lednu byl plyn v celé Evropě, tak bych byl velmi překvapený.“ — Ladislav Vrabel
+
+**Horizont:** cca konec října 2026 (doporučení 21 °C); leden 2027 (plyn)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+
+---
+
 ### Ladislav Vrabel — po Ukrajincích budou „na řadě Poláci“; migrační pakt nám začnou „lifrovat“ od ledna 2027 (8. 10. 2026)
 
 **Předpověď:** Pokud se válka rozšíří na území NATO, globalisté se podle něj zaměří na Polsko jako na poslední silný evropský národ. Migrační pakt bude od ledna 2027 vymahatelný a ČR začnou dřív nebo později přidělovat migranty.

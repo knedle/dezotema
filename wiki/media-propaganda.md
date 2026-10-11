@@ -605,6 +605,14 @@ Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulke
 
 ---
 
+### Zadržení Michaila Zvinčuka (Rybar) v Černé Hoře — Vrabel odmítl s ním natáčet kvůli sankcím (Vrabel, 9. 10. 2026)
+
+K zadržení zakladatele ruského telegramového kanálu Rybar Michaila Zvinčuka a jeho spolupracovníků v Černé Hoře (u zadržených měly být drony) Vrabel uvádí, že ho Zvinčuk nedávno kontaktoval kvůli společné reportáži. Odmítl, protože Rybar je pod sankcemi EU a sám je „v podmínce“, takže by mu za porušení sankcí hrozilo vězení. Zvinčuka popisuje jako bývalého „headhuntera pro Wagnera“ a člověka, který „vyhledával lidi pro Putina“. Zadržení je podle něj „velký politický skandál“ srovnatelný se zatčením Durova, a pokud ho Černá Hora vydá Ukrajině, „to je poprava“. Černá Hora to podle něj udělala kvůli vstupu do EU, stejně jako „Rumuni za bombardování Jugoslávie dostali vstup do EU“. Lukáše Valáška (Aktuálně.cz), který dřív „naháněl“ lidi z Rybaru v Praze, označuje za „jednoho z nejhorších českých novinářů, který likviduje lidi“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+
+---
+
 ### Moc elit je v médiích — návrh vlastenecké televize financované 30 tisíci členy po 100 Kč (Černohorský, 22. 9. 2026)
 
 Černohorský tvrdí, že elity mají moc, protože mají „naše peníze" a jimi ovládají média, kterým „druhá polovina magorů" věří. Navrhuje vlastní vlasteneckou televizi: tým 5–6 lidí s využitím AI, dvě studia v domech vlastenců, nejprve regionální a pak celostátní licence; financovat by ji mělo 30 tisíc členů jeho platformy (Společenství Čest Svoboda Respekt) po 100 Kč měsíčně, tj. 3 miliony Kč. Stěžuje si, že lidé místo toho „tleskají vůdcům" s vlastními transparentními účty. Zároveň popisuje, že mu Facebook „všechno omezuje" — příspěvky schovává do rámečků a sleduje ho „i v 11 večer".
