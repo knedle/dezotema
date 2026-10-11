@@ -5250,6 +5250,13 @@
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 48 min, navazuje na přerušené vysílání o kauze Vlasáková.
 
+## Jiří Černohorský — Havel jako národní památka (6. 10. 2026) {#jiří-černohorský--reels-havel-národní-památka-6-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-06_Jiří-Černohorský_Venca-Flaška-úředně-zaregistrovaná-památka-Ty-vole-t.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1415405286640485>
+- **Datum záznamu:** 2026-10-06
+- **Zpracováno:** ano
+
 ## Ladislav Vrabel — Videoportál: další odsouzený za písmeno Z (30. 9. 2026) {#ladislav-vrabel--videoportál-hrdlička-odsouzen-30-9-2026}
 - **Soubor:** [přepis](prepisy/done/2026-09-30_Ladislav-Vrabel_30-9-2026-Další-ODSOUZENÝ-za-písmeno-Z-na-odznáčku.txt)
 - **Kanál:** Ladislav Vrabel

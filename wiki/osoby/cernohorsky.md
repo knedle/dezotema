@@ -141,6 +141,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **12. 9.** — „Česko" od 2016 (Sobotka, Agenda 2030), Herman a „17. spolková republika"; 9/11 a „falešné záminky USA"; Trump mezi „Epsteinovými pedofily" — [Facebook Live (12. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-12-9-2026)
 - **2. 10.** — chemtrails jako otrava přes dešťovou vodu, motiv farmafirem-„satanistů"; glyfosát — [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
 - **5. 10.** — „stát od A do Z prorostlý mafií" (politická, podnikatelská, policejní, soudní); úplatek 300 tis. eur bývalému ministru financí — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+- **6. 10.** — Havel „opilec“ a „sluha dosazený cizáky“ (schvaluje komentáře k petici „Havel národní památkou“) — [Havel jako národní památka (6. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-havel-národní-památka-6-10-2026) → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md#sametová-revoluce-jako-řízený-rozpad-stb-a-kgb)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - **27. 8.** — Pochvala projevu Petra Macinky k velvyslancům — pragmatismus místo „hodnotové politiky", i přes nesouhlas s tezí o Rusku jako agresorovi — [Facebook Live 27. 8. 2026](../_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
@@ -423,6 +424,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Kateřina Konečná | ✅ pozitivní | Jako jedna z mála upozorňovala na Donbas | 2026-10-05 | [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) |
 | Josef Skála | ✅ pozitivní | Upozorňoval na Donbas od 2016–2017 | 2026-10-05 | [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) |
 | Kaja Kallasová / Ursula von der Leyenová | ❌ negativní | Vulgárně napadeny za narativ „ruského agresora" | 2026-10-05 | [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) |
+| Václav Havel | ❌ negativní | „Opilec“, „sluha dosazený cizáky“; zesměšňuje petici za národní památku | 2026-10-06 | [Havel jako národní památka (6. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-havel-národní-památka-6-10-2026) |
 
 ---
 
@@ -494,3 +496,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
 - [Facebook Live: kauza Vlasáková (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026)
 - [Facebook Live (2): Vlasáková, „mafie", vlastenecká scéna, písmeno Z (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+- [Havel jako národní památka (6. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-havel-národní-památka-6-10-2026)
