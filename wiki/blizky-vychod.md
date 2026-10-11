@@ -593,7 +593,9 @@ Podle deníku Haaretz varoval prezident Spojených arabských emirátů izraelsk
 
 ⚡ **Poznámka:** Tvrzení o předchozím varování je citováno z jednoho zdroje (deník Haaretz), ne ověřeno nezávisle; interpretace jako „Pearl Harbor" i propojení s tezí o vlivu Chabad Lubavič jsou Vrabelovy vlastní spekulace.
 
-**Zdroje:** [Vrabel — Facebook Live 8. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026)
+**7. 10. (3. výročí útoku Hamasu)** — Vrabel opakuje, že saúdský král údajně Netanjahua předem varoval a že v nejstřeženější zemi světa je selhání obrany „prakticky nemožné“. Opatrně, „aby ho nikdo nezastřelil nebo nezavřel“, naznačuje, že události na Blízkém východě mohou být „záměrně vyvolávány“ kruhy jako Chabad Lubavič a křesťanští i židovští sionisté. Ti podle něj věří, že příchodu Mesiáše musí předcházet velká válka, a chtějí naplnit proroctví o vzniku „Velkého Izraele“.
+
+**Zdroje:** [Vrabel — Facebook Live 8. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-8-9-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 
 ---
 

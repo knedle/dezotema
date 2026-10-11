@@ -36,6 +36,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — „jakmile se ochladí“ přijdou v ČR nařízené energetické úspory; Ukrajinci budou „velmi brzo“ i v české policii (7. 10. 2026)
+
+**Předpověď:** S příchodem zimy EU a vláda zavedou „úsporné procesy“ v energetice, které poškodí ekonomiku. Ukrajinci během pár let „prorostou“ do české politiky, armády i policie a „velmi brzo“ budou i mezi policisty, kteří zatýkají demonstranty.
+
+> „Očekávejte, jakmile se ochladí, že se budou dělat nějaké úsporné procesy v naší republice.“ — Ladislav Vrabel
+
+**Horizont:** zima 2026/27 (úspory); „během příštích pár let“ (Ukrajinci)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
+
+---
+
 ### Ladislav Vrabel — válka Ruska s Evropou „na 99 %“ začne v Pobaltí, ČR v ní bude okamžitě a konflikt bude vleklý; čeká nás „ekonomický držkopád“ (6. 10. 2026)
 
 **Předpověď:** Válka Ruska s Evropou podle něj „na 99 %“ bude. Začne v pobaltských zemích, ČR se do ní kvůli článku 5 zapojí okamžitě a půjde o pomalu se rozšiřující vleklý konflikt raket a dronů, ne o okamžitou jadernou válku. Ekonomicky Evropu kvůli konci petrodolaru čeká „držkopád“.

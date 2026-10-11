@@ -641,7 +641,9 @@ Zítko cituje kanadského lékaře Williama Makise: antiparazitika jako ivermekt
 
 K úmrtí výzkumnice protimorového ústavu v Irkutsku Vrabel uvádí, že riziko šíření je podle lékařů velmi nízké a že americká média z toho dělají „velkou věc“, aby si lidé „na podvědomé úrovni“ spojili Rusko s morem. Zároveň připouští, že pokud by globalisté chtěli novou epidemii, „klidně by mohla přijít z Ruska“, tak jako covid „přišel z Číny“. Covid podle něj „pravděpodobně udělali Američané“ v laboratoři řízené Faucim a v prosinci 2019 ho „přivezli američtí vojáci“. Šlo o „vojenskou operaci se svými cíli“ (zákaz chodit k lékaři, ventilátory). Víc se k tomu prý nevyjádří, „aby mu nezrušili YouTube“.
 
-**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+**7. 10.** — K Trumpovu oznámení, že bude mor řešit s Putinem, Vrabel dodává, že západní a polská média „rozjíždějí“ možnost smrtonosné epidemie, snad kvůli americkým volbám nebo ruským úspěchům na Ukrajině. Nevylučuje, že „je naplánováno, aby po epidemii covidu byla válka a po válce zase epidemie“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 
 ---
 

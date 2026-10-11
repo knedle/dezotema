@@ -802,7 +802,9 @@ K zatčení muže, který propíchl prázdný člun migrantů (hrozí mu 10 let)
 
 **29. 9.** — K projevu Andyho Burnhama, „premiéra islámské země", Vrabel tvrdí, že Británie je dnes „poloislámská" a „za 20–30 let bude něco jako Sýrie"; kdyby tam řekl totéž co v ČR, „zastřelí mě hned první den". Londýn by si podle svých slov vybral k bydlení, „kdyby tam nebyli ti muslimové"; Češi jsou za posledních 20 let „studení, uzavření, nafoukaní". Bývalá pražská jednička Stačilo! podle něj chodila na jeho protiislámské demonstrace (2015–16) s Antifou a křičela na ně „nacisté"; migrační krize je podle něj záměr politiků „podle vzoru Kalergiho".
 
-**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+**7. 10.** — Ke koncepci výstavby armády do roku 2040, která má zohlednit „ukrajinské zkušenosti“, Vrabel tvrdí, že Ukrajina během několika let „absolutně proroste do Evropy“: Ukrajinci, kteří tu zůstanou, začnou zakládat politické strany a pronikat do armády i policie. Policisté, kteří dnes zatýkají lidi za „Z“ z trikolóry, budou proto „velmi brzo“ zčásti Ukrajinci („samé dobré zprávy, bude nás chránit“).
+
+**Zdroje:** [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 
 ---
 

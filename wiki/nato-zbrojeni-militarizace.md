@@ -513,7 +513,9 @@ K úvěru 16,68 mld. EUR pro Rumunsko z programu SAFE (z toho ~10 mld. na obrann
 
 **5. 10.** — K tomu, že ČR získala z programu SAFE úvěr 2,06 mld. € (asi 50 mld. Kč, z toho 23 mld. na dálnici D11 a 20 mld. na tanky Leopard), Vrabel ironicky volá „hurá, jednou za Českou republiku, jednou za Německo“. Tvrdí, že EU „nemá vlastní peníze“: státy jí nejdřív víc zaplatí, aby si pak mohly půjčit (vidí v tom „uroboros“). Skutečným cílem je podle něj dostat „deset bilionů eur“ úspor Evropanů přes fondy Savings and Investments Union do zbrojení. To odmítá eticky i ekonomicky, protože zbraně „nevytvářejí hodnotu“ a jejich nákup je jako peníze spálit. Hrozí podle něj ztráta úspor inflací nebo krach projektů, „až EU začne prohrávat ve válce“.
 
-**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
+**7. 10.** — Babišův výrok, že Češi mají v úsporách „biliony“ a mohli by si koupit státní dluh a „vlastnit republiku“, je podle Vrabela jen způsob, jak v ČR „prodat“ unijní program Savings and Investments, který má úspory nasměrovat do zbrojení. Evropa podle něj „vsadila všechno na válečnou ekonomiku“, a pokud válku s Ruskem prohraje, „půjdeme do chudoby“. Lidem doporučuje „nemít všechna vajíčka v jednom košíku“ a varuje před inflací typu měnové reformy, „řeckým“ zdaněním vkladů s limity výběru a ztrátou peněz v bankách. Babiše přirovnává k Trumpovi („jaký jsou to fráři“) a ironicky ho nazývá „svým robotem“, který jeho výzvu proti jaderným zbraním „prezentuje jako svůj nápad“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 17. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-6-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 
 ---
 

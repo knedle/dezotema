@@ -293,7 +293,9 @@ Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů 
 
 Vrabel komentuje zprávu, že letošní léto zvýraznilo problémy evropské energetiky: extrémní sucho snižuje výkon vodních elektráren a komplikuje chlazení jaderných bloků, zatímco plynové elektrárny čelí vyšším cenám a narušeným dodávkám LNG kvůli konfliktu na Blízkém východě — uhelné elektrárny tak nečekaně nabývají na významu. Vidí v tom potvrzení své opakované teze: problém není nedostatek plynu obecně, ale to, že jsme se odstřihli od levného ruského plynu a „diverzifikovali" ho koncentrací do jediného náhradního zdroje (LNG), který je teď sám ohrožen válkou — tedy podle něj ne skutečná diverzifikace rizika, ale jeho přesunutí na jedno místo. Odhaduje, že přímý nákup ruského plynu by byl čtyřikrát levnější.
 
-**Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026)
+**7. 10.** — Na slova eurokomisaře Jørgensena, že řešením drahých energií je energetická účinnost a obnovitelné zdroje, Vrabel odpovídá, že energetická krize začala uměle na trzích už v roce 2021 a dnes ji „způsobuje člověk“ útoky na rafinerie a uzavřením Hormuzu. Drahá nafta a benzín jsou podle něj „schválně“, aby se v rámci Green Dealu přestala používat ropa. Za „účinností“ se podle něj skrývají úspory: von der Leyenová už k nim vyzývá, a „jakmile se ochladí“, čeká v ČR „úsporné procesy“, které poškodí ekonomiku i blahobyt („bez energie není ekonomika, bez ekonomiky není bohatství“).
+
+**Zdroje:** [Vrabel — Zprávy v devět 19. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-8-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 
 ---
 

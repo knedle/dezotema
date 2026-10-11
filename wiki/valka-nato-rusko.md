@@ -1065,7 +1065,9 @@ Rusové podle něj (s odkazem na Gánovskou a Zacharovovou) vnímají ČR a Slov
 
 > „Myslím si, že to začne tam [v Pobaltí] a bude to pokračovat velmi podobně jako na Ukrajině [...] že ten konflikt se pomalu bude rozrůstat na celou Evropu, že bude vleklý.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+**7. 10.** — Vrabel tezi rozvíjí. USA podle něj do války „kvůli Lotyšsku nebo ČR“ nepůjdou (cituje Petra Robejška), jsou „prakticky odzbrojené“ po Íránu, a s Ruskem tak bude bojovat Evropa sama. Konflikt se podle něj rozvine „postupně, přes nějakou pobaltskou zemi“. Nesouhlasí s Lavrovem, že USA „podlehly tlaku Evropy“: o válce podle něj nerozhodují Trump ani von der Leyenová, ale „lidé v pozadí, kteří to financují“. Dohoda z Anchorage byla americký „úskok“, aby se Rusko uklidnilo a Západ se mohl dozbrojit, a Merzova podmínka zastavit nejdřív boje je záměrně nepřijatelná. Schůzku 32 vojenských představitelů NATO v Kyjevě komentuje „dobrý pocit z toho nemám“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026), [Vrabel — Zprávy v devět 7. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 
 ---
 
