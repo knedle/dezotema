@@ -341,7 +341,9 @@ V souvislosti se svou kritikou zavedení eura a Chat Control (viz [Suverenita a 
 
 Vedle Zítka spustila kampaň za vrácení poplatků i ČsTV2. V pořadu z 7. 5. 2026 vyzvala diváky, aby písemně požadovali od ČT vrácení koncesionářských poplatků zaplacených od 12. března 2020 (datum vyhlášení nouzového stavu), s odkazem na porušování zákona č. 483/1991 Sb. o České televizi. Argumentace ČsTV2 souzní se Zítkovou: veřejnoprávní médium ze zákona musí poskytovat vyvážené, ověřené a objektivní informace — to přestalo platit s nástupem COVID propagandy. Viz také: [Zákon č. 483/1991: Zítkovy tři příklady porušení (4. 5. 2026)](#zákon-č-4831991-tři-zdokumentované-příklady-porušení--argument-zítka-proti-placení-poplatků-4-5-2026).
 
-**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026)
+**4. 10.** — Zítko opakuje, že ČT si „nezaslouží ani korunu", protože od 12. 3. 2020 porušuje zákon o vyváženém zpravodajství a „dala se na stranu farmaceutické COVID-19 mafie".
+
+**Zdroje:** [ČsTV2 — Večerník 7. 5. 2026](_zdroje.md#československo-tv2--večerník-7-5-2026-7-5-2026), [ČsTV2 — Živě: pozvánka Čermákovi (4. 10. 2026)](_zdroje.md#československo-tv2--živě-pozvánka-čermákovi-4-10-2026)
 
 ---
 

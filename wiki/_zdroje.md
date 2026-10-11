@@ -5115,6 +5115,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** Soubor nese datum stažení; vysíláno 2. 10. 2026. Velká část je předčítání cizích textů (Lička, Jílková, Avdičová, Wallace, Chambers).
 
+## Československo TV2 — Živě: pozvánka Čermákovi, texty o kontinuitě ČSR (4. 10. 2026) {#československo-tv2--živě-pozvánka-čermákovi-4-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-06_Československo-TV2_Československo-TV2-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1120437110412071&_rdr>
+- **Datum záznamu:** 2026-10-04
+- **Zpracováno:** ano
+- **Poznámka:** 39 min; soubor datován 6. 10., vysíláno v neděli 4. 10. v poledne.
+
 ## Československo TV2 — Živě: Čermák „dvojník", petice za ČSFR, čtyři fáze vědy (5. 10. 2026) {#československo-tv2--živě-čermák-petice-5-10-2026}
 - **Soubor:** [přepis](prepisy/done/2026-10-06_Československo-TV2_Československo-TV2-vysílala-živě.txt)
 - **Kanál:** Československo TV2
