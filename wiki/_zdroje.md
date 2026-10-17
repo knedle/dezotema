@@ -5472,3 +5472,11 @@
 - **Datum záznamu:** 2026-10-12
 - **Zpracováno:** ano
 - **Poznámka:** 9,5 min, ze záznamu (živé vysílání blokováno).
+
+## ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026) {#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-14_Československo-TV2_1410-OHLÉDNUTÍ-ZA-SUPER-SETKÁNÍM-1010-2026-ve-Frýd.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1096176046673434&_rdr>
+- **Datum záznamu:** 2026-10-14
+- **Zpracováno:** ano
+- **Poznámka:** 17,5 min, ze záznamu.

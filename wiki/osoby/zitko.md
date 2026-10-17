@@ -52,6 +52,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **3. 10.** — Amsterdam 22. 10. (Gates, Bourla, Rutte), Florida žaloba na Pfizer (158 893 NÚ, 1 223 mrtvých), antiparazitika vs. rakovina, porodnost −30 % — [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 - **6. 10.** — ivermektin „nedostupný“, účinný proti rakovině; nabízí dodavatele — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 - **12. 10.** — výročí vlastních kauz (Postoloprty, propuštění z vězení, vrácené telefony od NCTEKK); návod na obranu dětí před „koktejlem jedů v injekcích“ (Galerie pravdy) — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
+- **14. 10.** — BEWIT a molekula C60: „stoprocentní prodloužení věku v klinických studiích“ — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -98,6 +99,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **6. 10.** — spor s Renatou Bernardy (TV Šalingrad) o identitu Čermáka; certifikát, vykání, Naxera; 110 dní vazby „bez důkazů“ — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 - **10. 10.** — kurz „je to on, není to on“; dvojník prezidenta USA → proč ne Čermák nebo Pavel („natažená maska“) — [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
 - **12. 10.** — „údajný“ Čermák nedorazil, „17 důvodů, proč to není Čermák“ (s Hradilem); chemtrails/HAARP/5G jako „počasí jako zbraň“ (Kamil z Prešova) — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
+- **14. 10.** — nový falešný profil „Tomáš Kvatro Čermák 2026“ (zelené pivo v říjnu), Turkova smazaná fotomontáž, 17× „jakoby“ v Naxerově videu, Šišáková s pražským mostem; orgonitová děla (Aerot) — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -179,6 +181,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
+- **14. 10.** — „útoky“ na akci (Ivan Masaryk a „partička škůdců“), Facebook skrýval místo (čl. 17 Listiny); odmítá nařčení, že „si namastil kapsu“ — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 - Kampaň za pozvání do pořadu Máte slovo (ČT); ředitel Hinek Chudárek nemá veřejný email; ČT porušuje svůj kodex vyváženosti; pořad Máte slovo = „Držte hubu" přejmenované — [Mobilizace diváků pro Máte slovo 14. 4.](../_zdroje.md#pavel-zítko--mobilizace-diváků-pro-máte-slovo-14-4-2026)
 - Václav Moravec: soudní rozhodnutí odhalilo 141 000 Kč/hodinu (12 hod/měs = ~1,7 mil. Kč/měs z koncesionářských poplatků) — [Máte slovo: kampaň za účast, Moravcův plat 15. 4.](../_zdroje.md#pavel-zítko--máte-slovo-kampaň-za-účast-moravcův-plat-15-4-2026)
 - Dramaturg Jan Smrš odmítl Zítka e-mailem „nevyužijeme"; ČT celkový budget 7,5 mld v 2025, 8,5 mld plánováno 2026 — [Odmítnutí Máte slovo, italská studie, ČT budget 15. 4.](../_zdroje.md#pavel-zítko--odmítnutí-máte-slovo-italská-studie-čt-budget-15-4-2026)
@@ -362,6 +365,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Jiří Hradil | ✅ pozitivní | Dohledal fotku z Vězňovy cesty, klade „všetečné“ otázky | 2026-10-06 | [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026) |
 | Jindřich Rajchl | ○ neutrální | „Vládní poslanec“, kterému v Havířově zrušili sál — důvod utajení místa akce | 2026-10-12 | [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026) |
 | Jiří Hradil | ✅ pozitivní | Spolu rozebrali „17 důvodů, proč to není Tomáš Čermák“ | 2026-10-12 | [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026) |
+| Ivan Masaryk | ❌ negativní | S „partičkou dalších škůdců“ měl e-mailem pronajímatelce narušit akci | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
+| Jiří Černota (BEWIT) | ✅ pozitivní | CEO sponzora; „fantastické“ produkty, publikum ho „nechtělo pustit z placu“ | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
+| Martin Turek | ❌ negativní | Zveřejnil a smazal „hanebnou fotomontáž“ se Zítkem | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
+| Bob Acer | ⚖️ rozporuplný | Přednesl „přesně a exaktně“ část o ČSR, ale sdílí fotomontáže „hry na Čermáka“ | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
 | Petr Pavel | ❌ negativní | „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka | 2026-10-10 | [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026) |
 
 ---
@@ -470,3 +477,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Pozvánka: blokace všech profilů (8. 10. 2026)](../_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026)
 - [ČsTV2 — Setkání Čechoslováků ve Frýdku-Místku: zahájení (10. 10. 2026)](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
 - [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
+- [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)

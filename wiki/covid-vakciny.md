@@ -639,6 +639,16 @@ Zítko cituje kanadského lékaře Williama Makise: antiparazitika jako ivermekt
 
 ---
 
+### Produkty BEWIT a molekula C60 jako prostředek dlouhověkosti (Zítko, 14. 10. 2026)
+
+Zítko na setkání ve Frýdku-Místku propagoval produkty sponzorující firmy BEWIT (CEO Jiří Černota): „více tisíc“ produktů, z toho 450 esenciálních olejů, a molekulu C60. Část produktů má podle něj „způsobovat dlouhověkost“ a v klinických studiích prý vedla „dokonce i ke stoprocentnímu prodloužení věku“. Černota měl místo plánované hodiny odpovídat publiku na otázky „týkající se vašeho zdraví“ hodinu a půl až tři čtvrtě. Už v pozvánce Zítko sliboval i „doporučení pro očkované, kteří podlehli, aby zlepšili svůj zdravotní stav“.
+
+⚡ **Poznámka:** Jde o propagaci sponzora; údaj o „stoprocentním prodloužení věku“ Zítko nedokládá konkrétní studií (prodloužení života u C60 bylo hlášeno jen ve sporné studii na potkanech z roku 2012).
+
+**Zdroje:** [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
+
+---
+
 ### Údajný mor v Irkutsku jako protiruská propaganda; covid „pravděpodobně udělali Američané“ (Vrabel, 6. 10. 2026)
 
 K úmrtí výzkumnice protimorového ústavu v Irkutsku Vrabel uvádí, že riziko šíření je podle lékařů velmi nízké a že americká média z toho dělají „velkou věc“, aby si lidé „na podvědomé úrovni“ spojili Rusko s morem. Zároveň připouští, že pokud by globalisté chtěli novou epidemii, „klidně by mohla přijít z Ruska“, tak jako covid „přišel z Číny“. Covid podle něj „pravděpodobně udělali Američané“ v laboratoři řízené Faucim a v prosinci 2019 ho „přivezli američtí vojáci“. Šlo o „vojenskou operaci se svými cíli“ (zákaz chodit k lékaři, ventilátory). Víc se k tomu prý nevyjádří, „aby mu nezrušili YouTube“.
