@@ -24,6 +24,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Jindřich Rajchl — válka skončí dohodou Trump–Putin, Rusko dostane Kramatorsk a Slovjansk (11. 10. 2026)
+
+**Předpověď:** Trump „už Zelenského obětoval“ a s Putinem se dohodne na míru; Rusko získá ještě Kramatorsk a Slovjansk a „bude po válce“.
+
+> „Je už jenom otázka času, než se s Putinem domluví na podmínkách uzavření míru. Kdy to dopadne tak, jak jsem říkal celou dobu. To znamená, že Rusko dostane ještě Kramatorsk a Slovjansk a bude po válce.“ — Jindřich Rajchl
+
+**Horizont:** neurčeno („otázka času“)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+
+---
+
+### Jindřich Rajchl — obrovská krize v dodávkách plynu (11. 10. 2026)
+
+**Předpověď:** Kvůli nejméně naplněným zásobníkům za deset let (ČR i Německo) hrozí Evropě „obrovská krize v oblasti dodávek plynu“; Německo proto přijme ruský plyn přes Nord Stream v americkém vlastnictví.
+
+> „My máme nejméně naplněné zásobníky za poslední deset let. Němci mají nejméně naplněné zásobníky za poslední deset let. A hrozí nám obrovská krize v oblasti dodávek plynu.“ — Jindřich Rajchl
+
+**Horizont:** zima 2026/27
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+
+---
+
 ### Pavel Zítko — blíží se blackout nebo jiné „překvapení“ (10. 10. 2026)
 
 **Předpověď:** Brzy (možná už cestou domů ze setkání) má přijít blackout nebo jiné „překvapení“; přesné datum prý zná jen asi deset lidí na světě.

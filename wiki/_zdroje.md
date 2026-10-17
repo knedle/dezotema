@@ -5504,3 +5504,11 @@
 - **Datum záznamu:** 2026-10-16
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 36 min, mluví Pavel Zítko. Nezpracováno: nová platforma alternativních médií mimo Facebook, „pravda není věcí většiny" (opakování).
+
+## Rajchl — Nedělní vysílání: volby, cestovní agentura Petra Pavla, ruská ropa do USA (11. 10. 2026) {#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-11_Jindřich-Rajchl_Volby-cestovní-agentura-Petra-Pavla-ruská-ropa-do-USA.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/965711979934204>
+- **Datum záznamu:** 2026-10-11
+- **Zpracováno:** ano
+- **Poznámka:** 54 min, nedělní živé vysílání.

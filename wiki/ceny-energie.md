@@ -92,7 +92,13 @@ Rajchl kritizoval dopad sankcí: protiruské sankce nefungují — ruské příj
 
 > „Když upřednostníte ideologii, naivistickou ideologii před zdravým rozumem, tak vás to vždycky bude stát peníze." — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Ruská ropa za přímou cenu, 2026-04-08](_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026), [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026), [Rajchl — Videoportál: Green Deal a ruská ropa (29. 9. 2026)](_zdroje.md#jindřich-rajchl--videoportál-green-deal-a-ruská-ropa-29-9-2026), [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026)
+**11. 10. — Trump jako vzor:** Trump podle Rajchla „vytřel podlahu“ s EU i se Zelenským: koupil 5 mil. t ruské ropy (zhruba roční spotřeba ČR) a „s přirážkou ji prodá zpátky do Evropy“. Rajchl mu to „vůbec nevyčítá“ a vyzývá české politiky, aby se chovali stejně a „přestali se dívat na nějaké závazky NATO“ a Brusel. Připomíná debatu na Primě, kde Jan Farský tvrdil, že Rusko ropu nevyváží a nemá levnější, a že ji chce kupovat „jen kolaborant a vlastizrádce“ jako Rajchl: „Takže Trump je kolaborant a vlastizrádce?“ „Hlupáci typu Zdechovského, Farského, Jakoba, Nerudové, Rakušana, Hřiba, Matěje Ondřeje Havla“ podle něj „dostali facku od Trumpa“. Protiruské sankce „nás ničí každý jeden den“ a z obchodu, kterého se neúčastníme, „jsme jediní, kdo nevydělá“.
+- **Rozmrazení aktiv:** Trump prý jedná s Putinem, že výměnou za klid zbraní na energetiku rozmrazí ruská aktiva a umožní prodat zahraniční aktiva Lukoilu. Těmi se ale ručí za půjčku Ukrajině, „že to stejně zaplatíme my“.
+- **„Demokratický plyn“:** USA a Německo podle něj jednají s Ruskem o obnovení dodávek přes Nord Stream, pokud ho Američané odkoupí; „pak už ten plyn je demokratický… ideologicky očištěný do čista“. Zásobníky v ČR i Německu jsou prý nejméně naplněné za deset let a „hrozí nám obrovská krize v oblasti dodávek plynu“.
+
+> „Biznis vždycky vyhraje nad ideologií. V každém případě a za každých podmínek.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Ruská ropa za přímou cenu, 2026-04-08](_zdroje.md#jindřich-rajchl--ruská-ropa-za-přímou-cenu-prima-8-4-2026), [Rajchl — Facebook Live 13. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026), [Rajchl — Videoportál: Green Deal a ruská ropa (29. 9. 2026)](_zdroje.md#jindřich-rajchl--videoportál-green-deal-a-ruská-ropa-29-9-2026), [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026), [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 
 ---
 

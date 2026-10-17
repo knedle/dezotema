@@ -125,6 +125,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **20. 9.** — Saúdská Arábie omezila dodávky ropy, nejnižší zásoby plynu za poslední roky v ČR, snížený rating Polska a Francie, plyn kolem 80 EUR/MWh — [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) → [ceny-energie.md](../ceny-energie.md#saúdská-arábie-omezila-dodávky-ropy-nejnižší-zásoby-plynu-za-poslední-roky-snížený-rating-polska-a-francie-rajchl-20-9-2026)
 - **27. 9.** — emisní povolenky byly původně fixní daň, fondy z nich udělaly cenný papír (ETS1 81 €, ETS2 71 €); Green Deal zrušit, ne upravovat — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) → [suverenita-eu.md](../suverenita-eu.md)
 - **29. 9. a 5. 10.** — ruskou ropu a plyn kupujeme stejně přes prostředníky (Indie, Turecko, Schwedt); vzor AfD jednající s Gazpromem; zrušit Green Deal, Schengen, eurozónu — [Rajchl — Videoportál: Green Deal a ruská ropa (29. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-green-deal-a-ruská-ropa-29-9-2026), [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026)
+- **11. 10.** — Trump kupuje 5 mil. t ruské ropy jako vzor („Trump je kolaborant?“, „hlupáci… dostali facku“); rozmrazení aktiv Lukoilu → zaplatíme my; „demokratický plyn“ přes Nord Stream, hrozí krize plynu (→ [predikce](../predikce.md)) — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 
 ### [Migrace](../migrace.md)
 - **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
@@ -215,6 +216,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **29. 9.** — ODS chce „okrást občany" poplatky u lékaře; daně mají platit banky, energetika a zbrojaři — [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](../_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026)
 - **8. 10.** — výzva volit PRO: 4 senátoři (koruna, hotovost, offline do Ústavy), koaliční kandidátky vč. Motoristů (Chomutov, J. Hradec) → [volby-2026.md](../volby-2026.md) — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 - **9. 10.** — sestřih: ODS „okrádá občany“ (školkovné, sleva na manželku, daň z nemovitostí, valorizace, 135 tis. rodinám) — [Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
+- **11. 10.** — hodnocení voleb: PRO nad průzkumy (Loprais 12,75 %, Skalický, Šorna, Beran), výzva ke sjednocení národně konzervativních stran „po vzoru AfD“, STAN „čiré zlo“, Praha se „stockholmským syndromem“; podpora ANO ve 2. kole senátu (Baránková, Daňhová) → [volby-2026.md](../volby-2026.md); Pavlův let do Maroka jako klientelismus, odebrat apanáž Evě Pavlové → [petr-pavel.md](../petr-pavel.md); nedanit české miliardáře, zdanit zahraniční banky a zbrojaře — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -236,6 +238,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 
 ### [Válka, NATO a zbrojení](../valka-nato-rusko.md)
 - **7. 10.** — výdaje ≠ obranyschopnost, F-35 v r. 2035 „směšné“, odstrašujeme „zálohovými fakturami“ ([nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)); jediný útočník na EU je Ukrajina (Nord Stream, Przewodów), o míru jednají jen USA a Rusko; Pavlova výzva k sestřelu „nesmysl“ — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
+- **11. 10.** — válka „fakticky u konce“, Rusko dostane Kramatorsk a Slovjansk (→ [predikce](../predikce.md)); Zelenský „nejzkorumpovanější“, okrádání v době války „si zaslouží trest smrti“ (→ [stoch. teror](../stochasticky-teror.md)) — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 
 ## Zmíněné osoby
 
@@ -451,6 +454,16 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Martin Gara | ✅ pozitivní | „Úžasný chlap“, lídr PRO v Havířově | 2026-10-08 | [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
 | Lenka Tarabová | ✅ pozitivní | „Skvělá bojovnice“, kandidátka v Liberci | 2026-10-08 | [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
 | Libor Vondráček | ✅ pozitivní | Společná koaliční kandidátka v Jindřichově Hradci | 2026-10-08 | [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
+| Lucie Baránková | ✅ pozitivní | Výzva podpořit ji ve 2. kole senátních voleb v Ostravě | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Barbora Daňhová | ✅ pozitivní | Výzva podpořit ji ve 2. kole na Příbramsku | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Martin Gara | ✅ pozitivní | „Neuvěřitelně poctivý kluk“, přes 5 % v Havířově | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Eva Pavlová | ❌ negativní | Výrok, že za neúčast prezidenta u voleb může stát, je „výsměch“; jako „soukromé osobě“ jí má být odebrána apanáž 106 tis. | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Petr Pavel | ❌ negativní | Let do Maroka soukromým tryskáčem — „klientelismus“, „někdo si ho vydržuje“, „papaláš“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Donald Trump | ✅ pozitivní | Nákup ruské ropy jako vzor prosazování národních zájmů — „vůbec mu to nevyčítám“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Jan Farský | ❌ negativní | Nazval nákup ruské ropy kolaborací a vlastizradou — „takže Trump je kolaborant?“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | „Nejzkorumpovanější člověk na světě“, okrádání v době války „si zaslouží trest smrti“ (→ [stoch. teror](../stochasticky-teror.md)) | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| STAN | ❌ negativní | „Čiré zlo“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Zdeněk Hřib | ❌ negativní | Výmluvy po debaklu Pirátů „naprosto směšné“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
 
 ---
 
@@ -582,3 +595,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Debata se Svárovskou: ČT, F-35, Ukrajina jako útočník (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 - [Rajchl — Volte PRO: senátoři, koaliční kandidátky, dávky, euro (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 - [Rajchl — Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
+- [Rajchl — Nedělní vysílání: volby, cestovní agentura Petra Pavla, ruská ropa do USA (11. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)

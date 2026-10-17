@@ -577,6 +577,18 @@ K zprávě, že prezident Pavel přiletěl 9. 10. z dovolené v Maroku k volbám
 
 ---
 
+### „Cestovní agentura Petra Pavla“: let do Maroka jako klientelismus; Eva Pavlová jako „soukromá osoba“ nemá dostávat 106 tisíc (Rajchl, 11. 10. 2026)
+
+Rajchl označuje Pavlovo létání „Maroko–Praha, Maroko–Praha“ kvůli rallye v době komunálních voleb za „šarádu a tragikomedii“. Připomíná, že Pavel v roce 2022 označil komunální volby za „ty nejdůležitější“. Podstatné je podle něj, kdo soukromý tryskáč platil: pronajímatel, majitel banky Creditas, jméno nesdělil, a novináři by u Babiše, Okamury nebo Rajchla „byli čilí jako ohaři“. Je „přesvědčen, že Petr Pavel určitě ne“, a ohlášené dělení nákladů označuje za „damage control“: „Je evidentní, že si tady Petra Pavla někdo vydržuje.“ Jde podle něj o „ukázku jasného klientelismu“ a podezření na střet zájmů. Let vyprodukoval asi 30 t CO₂, roční spotřebu pěti občanů, „ale on může, protože je papaláš“.
+
+Eva Pavlová podle něj výrokem, že za prezidentovu neúčast u voleb „může stát“, „nasadila korunu všemu“. Zákon, že komunální volby jsou vždy první víkend v říjnu, platí dva roky a volba ze zahraničí by vyžadovala hlasovací lístky všech asi 6 000 obcí na každé ambasádě. Mluvčí Hradu Vít Kolář ji označil za „soukromou osobu“. Rajchl proto bude „jednoznačně pracovat na tom, aby jí byla apanáž odejmuta“: „Proč jí tedy dáváme 106 tisíc korun měsíčně? … Za to, že je něčí manželkou.“
+
+> „Pokud se jedná o soukromou osobu, tak jí nemá už platit stát.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+
+---
+
 ### „Kim-irsenizace" Petra Pavla — dvojí metr médií vůči Pavlovi a Babišovi (Rajchl, 6. 9. 2026)
 
 Rajchl srovnává přístup CNN Prima News k rozhovorům s prezidentem Pavlem (týden předtím) a s premiérem Babišem (tentýž den): vůči Pavlovi byla moderace servilní a poslušná bez jediného skočení do řeči, vůči Babišovi naopak tvrdá a neustále přerušující — pokud jde o objektivitu, měl by být přístup stejný k oběma, nebo žádný. Podobně kontrastuje nadšené tleskání moderátorky Adely Snopové (TV Nova) při tvrdém útoku na bývalého prezidenta Václava Klause s adorací současného prezidenta. Jako příklad kultu osobnosti uvádí Pavlovu jízdu na motorce Harley-Davidson v čele kolony motorkářů ve flanelové košili — razí pro to termín „kim-irsenizace" (odkaz na severokorejský kult osobnosti), který očekává, že bude jen dále sílit.

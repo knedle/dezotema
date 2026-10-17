@@ -29,6 +29,14 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | GEN (Tibor Batthyány) | ❌ negativní | Lenka Tarabová | Podepsal koalici s PRO a za 4 dny ji vypověděl („s dezinformátorkou Tarabovou nikdy") | 2026-10-01 | [Beseda 1. 10.](_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 | Společné kandidátky koalice (Chomutov, Jindřichův Hradec – Vondráček; SPD+PRO Litoměřicko) | ✅ pozitivní | Jindřich Rajchl | Spojení „celé vládní koalice včetně Motoristů“ na jednu kandidátku, šance na 1.–2. místo | 2026-10-08 | [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026) |
 
+| Milan Loprais (PRO, Senát – Ostrava) | ✅ pozitivní | Jindřich Rajchl | 12,75 % a třetí místo proti dvěma „extrémně silným“ kandidátům — „fantastický výsledek“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Lucie Baránková (ANO, Senát – Ostrava, 2. kolo) | ✅ pozitivní | Jindřich Rajchl | Výzva voličům PRO podpořit ji ve 2. kole proti Šimetkovi (ODS), „který do Senátu fakticky nechodí“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Barbora Daňhová (ANO, Senát – Příbramsko, 2. kolo) | ✅ pozitivní | Jindřich Rajchl | Výzva voličům Šorny podpořit ji ve 2. kole — „tisíckrát lepší než jakýkoliv ODSák“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Šimetka (ODS, Senát – Ostrava) | ❌ negativní | Jindřich Rajchl | Jedna z nejnižších účastí v Senátu, „celá republika neví, o koho se jedná“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| STAN | ❌ negativní | Jindřich Rajchl | „Čiré zlo“; uspěl i přes Dozimetr, Pražané mají „stockholmský syndrom“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Piráti | ❌ negativní | Jindřich Rajchl | „Dostali vypráskáno“, v Praze ze 17 na 9 % | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Martin Gara (PRO, Havířov) | ✅ pozitivní | Jindřich Rajchl | Přes 5 % se samostatnou kandidátkou, „neuvěřitelně poctivý kluk“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Petra Rédová (Senát – Znojmo) | ✅ pozitivní | Jindřich Rajchl | Gratulace k výsledku přes 12 % ve „velmi těžkém obvodě“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
 ---
@@ -41,7 +49,9 @@ Rajchl vyzývá k podpoře čtyř senátních kandidátů: Milana Lopraise (Ostr
 
 **8. 10.** — Den před volbami Rajchl opakuje výzvu (Loprais – Ostravsko a Hlučínsko, Skalický – Děčínsko a Šluknovský výběžek, Šorna – Příbramsko, Beran – Trutnovsko) a garantuje, že budou hlasovat pro zakotvení koruny, práva platit hotově a práva žít offline v Ústavě, bránit stavbě větrných elektráren, „federalizaci“ EU a „ukrajinizaci“ a bojovat „bok po boku“ s ním proti zatahování ČR do války. Jejich zvolení by bylo „dárkem k jeho 50. narozeninám“.
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
+**11. 10. — výsledky 1. kola a podpora ANO ve 2. kole:** Rajchl hodnotí výsledky senátních kandidátů PRO jako „naprosto úžasné“: Loprais 12,75 % (třetí místo proti Šimetkovi z ODS a Baránkové z ANO), Skalický 10,35 % v Děčíně (Linhart zvolen v 1. kole), Šorna 9,4 % na Příbramsku a Beran přes 5 % na Trutnovsku. Podle něj nikdo „nepropadl“ a ve všech obvodech šli proti kandidátovi ANO. Pro 2. kolo vyjadřuje „jasnou podporu všem kandidátům hnutí ANO“ a vyzývá voliče PRO, aby v Ostravě volili Lucii Baránkovou a na Příbramsku Barboru Daňhovou. Hlasy PRO se ve 2. kole podle něj „fakticky zdvojnásobují“, protože klesá účast; půjde o to, „jestli to budou ODSáci, nebo zástupci hnutí ANO“.
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026), [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 
 ---
 
@@ -62,6 +72,22 @@ Rajchl vyzývá k podpoře 110 komunálních kandidátek PRO (jmenuje Šanci pro
 **8. 10.** — Rajchl jmenuje Martina Garu (lídr v Havířově, číslo 6), Lenku Tarabovou v Liberci a společnou kandidátku se SPD na Litoměřicku. V Chomutově a Jindřichově Hradci (Libor Vondráček) se podle něj podařilo spojit „všechny strany naší vládní koalice, včetně Motoristů“ na jednu kandidátku, která má šanci skončit první nebo druhá. Žádá „jeden velký křížek“ u celé kandidátky — větší mandát je podle něj podmínkou, aby mohl prosadit, co lidé chtějí.
 
 **Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Volte PRO (8. 10. 2026)](_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
+
+---
+
+### Výsledky komunálních voleb: PRO nad průzkumy, výzva ke sjednocení národně konzervativních stran, „stockholmský syndrom“ Prahy (Rajchl, 11. 10. 2026)
+
+Rajchl je s výsledky PRO „partikulárně spokojený“: strana poprvé naplno kandidovala v komunálních volbách a získala zastupitele mj. v Chomutově, Jirkově, Klášterci nad Ohří, Litvínově, Havířově (Martin Gara přes 5 %) i v obou plzeňských obvodech. Ve Vysokém Veselí (Eva Kaprálová) vyhrála a bude mít prvního starostu. Tarabová získala v Liberci 3,53 %. Všude, kde kandidovala, prý PRO výrazně překonala průzkumy (STEM 1,1 %, Prima 1,8 %), a „nemá 1,8 % ani náhodou“; „zelení“ s 2,1 % jsou podle něj jen „kolorit“.
+
+Spokojený ale být nemůže: ve velkých městech, kde se strany nespojily, neuspěl nikdo. V Liberci by SPD (4,5 %) a PRO (3,5 %) měly dohromady 8 %, v Hradci Králové 2,5 % + 3,5 %, a „nejsme tam ani jeden“. Naopak společné kandidátky (Chomutov přes 9 %, Jindřichův Hradec s Liborem Vondráčkem přes 10 %) podle něj ukazují potenciál 10 % v komunálu a „15 % velmi jednoduše“ v celostátních volbách. Zdůrazňuje, že PRO „ani v jednom jediném městě“ spolupráci neodmítla. Vyzývá SPD, Trikolóru, Svobodné i Motoristy, aby zapomněli „žabomyší spory“ a postavili do čela nejsilnější osobnosti (Okamura, Majerová, Vondráček, Turek, Gregor, Fiala, Foldyna, Kaprálová), jinak bude „za tři roky premiérem Vít Rakušan“. Cílem je „silná, jasná národně konzervativní politika… po vzoru AfD“. Lídr, který se bojí „překroužkování“, podle něj „není lídr“.
+
+Koaliční voliči podle něj zčásti nepřišli, protože „některé ty klíčové body… nebyly naplněny“. Slibuje být „ještě důraznější“: prosadit zákon FARA a „řešit“ veřejnoprávní televizi, která „bezskrupulózně tlačí eurohujerské strany“, „bez strachu z toho, co na to řekne Česká televize, Seznam nebo Milion chvilek“.
+
+Pražany, kteří zvolili STAN („čiré zlo“) i po kauze Dozimetr, popisuje jako oběti „stockholmského syndromu“: „Jak kdyby vás jedna parta přes čtyřmi lety okradla… a vy jste ji za čtyři roky zvolili.“ Hlaváček podle něj den po volbách ohlásil dražší MHD a rezidentní parkování: „Chtěli jste to, máte to mít.“ Piráti „dostali vypráskáno“ (v Praze ze 17 na 9 %).
+
+> „Kdekoliv jsme se postavili na jednu kandidátku, tam jsme uspěli.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 
 ---
 

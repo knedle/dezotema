@@ -698,7 +698,9 @@ Rajchl kritizuje konání hudebního festivalu Pulse of Nations věnovaného Dni
 
 Rajchl opakuje svou dlouhodobou tezi, že jakákoliv budoucí mírová dohoda bude vycházet z faktické kontroly území v okamžiku podpisu — proto podle něj každý další den a měsíc trvání konfliktu zhoršuje vyjednávací pozici Ukrajiny. Zdůrazňuje, že netleská žádné ze stran (obě podle něj lhaly, proto válka vůbec trvá) a sám chce jen mír. Predikuje, že pokud se do dvou měsíců neuzavře dohoda, nedojde k eskalaci (jak předpokládá Petr Pavel), ale ke zhroucení Ukrajiny kvůli vyčerpání zdrojů (viz [predikce.md](predikce.md)) — a že zastánci pokračování války si pak budou zpětně nárokovat, že chtěli mír „odjakživa".
 
-**Zdroje:** [Rajchl — Facebook Live 12. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026)
+**11. 10.** — Válka je podle Rajchla „fakticky u konce“: Trump „už Zelenského obětoval“ a je „jen otázka času“, než se s Putinem dohodne na míru. Rusko podle něj „dostane ještě Kramatorsk a Slovjansk a bude po válce“, a „mohli jsme si ušetřit dva miliony mrtvých“. Kdo to nevidí, je „blázen, naivista a idiot“. Zelenský je podle něj „nejzkorumpovanější člověk asi na celém světě“: okrádání spoluobčanů v době války (Mindič a „zlaté záchody a bidety“ z evropských peněz na energetiku) je „největší možný hyenismus“, který „si zaslouží trest smrti“ (viz [Stochastický teror](stochasticky-teror.md)). Trump podle něj na Zelenského výtky reagoval jen „huh, kdo?“.
+
+**Zdroje:** [Rajchl — Facebook Live 12. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026), [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 
 ---
 
