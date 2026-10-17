@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — za 5–7 let budou v ČR sňatky 11–12letých dívek „běžný standard“ (13. 10. 2026)
+
+**Předpověď:** V důsledku migračního paktu (od ledna 2027) budou do 5–7 let v ČR „stovky“ sňatků 11–12letých dívek běžné.
+
+> „Předpokládám, dejte tomu 5–7 let a stovky nějakých manželství malých holčiček 11–12letých v České republice, bude normální jako běžný standard.“ — Ladislav Vrabel
+
+**Horizont:** 2031–2033
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 13. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-10-2026)
+
+---
+
+### Ladislav Vrabel — mírový plán USA a Evropy má 0 % šanci; po třech týdnech naděje atentát a konflikt (13. 10. 2026)
+
+**Předpověď:** Čtyřbodový mírový plán USA a Evropy neprojde; po zhruba třech týdnech „naděje“ přijde atentát na důležitou osobu a spuštění konfliktu.
+
+> „Můj odhad toho, že by tenhle mírový plán prošel, je 0 %. Tentokrát 0 %. […] Uvidíte tři týdny. Budeme žít v naději, že mírový plán uspěje. […] A pak očekávám nějaký atentát na nějakou důležitou osobu. A pak očekávám, že se spustí konflikt.“ — Ladislav Vrabel
+
+**Horizont:** cca 3 týdny (do začátku listopadu 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 13. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-10-2026)
+
+---
+
 ### Ladislav Vrabel — do amerických voleb „euforie“, pak obrat (12. 10. 2026)
 
 **Předpověď:** Následující 2–3 týdny do amerických voleb budou ve znamení „euforie“, že vše jde správným směrem; poté se situace změní (navazuje na predikci z 10. 10.).

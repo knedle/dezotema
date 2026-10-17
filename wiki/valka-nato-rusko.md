@@ -1530,7 +1530,9 @@ K jednání Rady EU o hybridních hrozbách a k Rutteho návrhu žádat po Rusku
 
 > „Rusko by mělo v rámci reciprocity naprosto jednoznačně právo na to, aby třeba někdo útočil na území Evropské unie ruskýma zbraněma. Kdyby si našli nějaký proxy." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+**13. 10.** — Ke slovům šéfa MI5 McCalluma o stupňování ruských hybridních útoků a k Michalu Koudelkovi (BIS) Vrabel prohlašuje, že by tajné služby zrušil, „protože to jsou ty největší lumpové… který si myslí, že můžou jednat mimo rámec zákona“. Tajné služby jsou podle něj „globalistický konglomerát“ zneužívaný k politickému boji, „tentokrát k rozjitření války“. Připomíná Koudelkovu zprávu o ruském agentovi, který „kultivoval vztah“ s pořadatelem demonstrací, a tvrdí, že se s ním nikdy neviděl. Řeči o stupňování útoků bez důkazu prvního útoku jsou podle něj „šílená válečná propaganda“. Útoky dronů na lodě u Bulharska podle něj „pravděpodobně ani Rusko nebylo“: média to tak podávají, „aby lidem pořád dávali do hlavy, že Rusko na nás útočí“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026), [Ladislav Vrabel — Zprávy v devět 13. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-10-2026)
 
 ---
 
