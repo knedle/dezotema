@@ -5456,3 +5456,11 @@
 - **Datum záznamu:** 2025-07-28
 - **Zpracováno:** ano
 - **Poznámka:** Úsek [05:21–05:47] nesrozumitelný (chyba přepisu).
+
+## ČsTV2 — Setkání Čechoslováků ve Frýdku-Místku: zahájení (10. 10. 2026) {#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-11_Československo-TV2_Miroslav-Pastva-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (profil Miroslav Pastva)
+- **URL:** <https://m.facebook.com/watch/?v=1438819678269054&_rdr>
+- **Datum záznamu:** 2026-10-10
+- **Zpracováno:** ano
+- **Poznámka:** 14 min; soubor datován 11. 10., natočeno při zahájení akce 10. 10. Mluví Pavel Zítko, od [~11:00] přednáška „Boba" o ČSR, přepis nesrozumitelný.

@@ -23,7 +23,9 @@ Pavel Zítko přijal a šíří narativ hnutí QAnon o probíhající skryté vo
 
 **3. 10.** — Zítko ukazuje „úmrtní list královny“: Alžběta II. byla podle něj popravena oběšením na Guantánamu (2019). Na Gitmo podle něj „vydechli“ i aktéři 11. září: George W. Bush (4. 1. 2022) a Dick Cheney (29. 1. 2022); Donald Rumsfeld měl spáchat sebevraždu na základně Diego García. Joe Biden byl „popraven ještě než nastoupil do úřadu“ a celé funkční období vládl dvojník (důkazem má být gesto s automatickým perem při návštěvě Si Ťin-pchinga). Ivana Trump podle něj žije a „vyskočí z dortu“.
 
-**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+**10. 10.** — Zítko při zahájení setkání ve Frýdku-Místku varuje, že se „to“ (blackout nebo jiné „překvapení“) blíží; „už to dokonce bylo i v nějakém seriálu“. Na otázku, kdy to bude, odpovídá, že „to ví asi deset lidí na světě“ a on mezi nimi není, proto sleduje ty, kdo to vědí, i když nevystupují v televizi a působí jako „naprostá menšina“. Opakuje i dvojníka prezidenta USA (původní „byl popravený“).
+
+**Zdroje:** [Zítko — Večerník 2. dubna](_zdroje.md#pavel-zítko--večerník-2-dubna-covid-tour-konspirační-teorie), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Setkání Čechoslováků ve Frýdku-Místku: zahájení (10. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
 
 ---
 

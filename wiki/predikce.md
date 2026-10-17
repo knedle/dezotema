@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — blíží se blackout nebo jiné „překvapení“ (10. 10. 2026)
+
+**Předpověď:** Brzy (možná už cestou domů ze setkání) má přijít blackout nebo jiné „překvapení“; přesné datum prý zná jen asi deset lidí na světě.
+
+> „Uvidíme, jestli cestou domů nám neudělají blackout nebo nějaký překvápko, protože už se to blíží.“ — Pavel Zítko
+
+**Horizont:** neurčeno („blíží se“)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Setkání Čechoslováků ve Frýdku-Místku: zahájení (10. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
+
+---
+
 ### VK (šéfredaktor Aeronet News) — otevřený konflikt EU s Ruskem kolem roku 2030 (3. 10. 2026)
 
 **Předpověď:** Na shromáždění 3. 10. řečník „VK" předpověděl, že kolem roku 2030 se vyčerpaná Ukrajina neudrží a na frontu přijdou vojáci EU; Vrabel to označil za „dost optimistický" výhled.
