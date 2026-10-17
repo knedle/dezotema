@@ -39,6 +39,9 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | Petra Rédová (Senát – Znojmo) | ✅ pozitivní | Jindřich Rajchl | Gratulace k výsledku přes 12 % ve „velmi těžkém obvodě“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
 | STAN, ODS | ❌ negativní | Ladislav Vrabel | „Vyhrály volby“ — Vrabel „totálně v šoku“ | 2026-10-10 | [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
 | Martin Kuba (Naše Česko, České Budějovice) | ❌ negativní | Ladislav Vrabel | „Pravá ruka kmotra Dlouhého“, ukrajinský trojzubec na tričku, budějovická „čistá mafie“ | 2026-10-10 | [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
+| ODS, STAN | ❌ negativní | Ladislav Vrabel | „Mafiánské strany“, lidé volí „nové hajzly a ještě horší“ | 2026-10-11 | [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Petr Drulák (prezidentská kandidatura 2028, Svatopluk) | ❌ negativní | Ladislav Vrabel | „Absolutní elitář“, „protekční děcko“, Svatopluk je jeho kampaň od 2022 | 2026-10-11 | [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Zuzana Majerová | ❌ negativní | Ladislav Vrabel | Slibovala referendum o vystoupení z EU, „neudělala ani čárku“ | 2026-10-11 | [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
 ---
@@ -98,6 +101,18 @@ Pražany, kteří zvolili STAN („čiré zlo“) i po kauze Dozimetr, popisuje 
 Večer po volbách je Vrabel „totálně v šoku“ z výsledků: „vyhrává STAN a ODS… ty asi vyhrály volby“. V Českých Budějovicích podle něj vyhrál Martin Kuba („Naše Česko“), „pravá ruka kmotra Dlouhého“, který „ukazuje na ten trojzubec ukrajinský na tričku“. Budějovickou politiku (tlak na majitelku hokejového klubu) označuje za „naprosto brutální mafii… normálně čistou mafii“ a odkazuje na své články na webu „Pomoc Budějovice“. Ironicky dodává, že je „naprostá pohoda… pojďme do války“. Výsledky spojuje s militarizací: když vidí, „jak dopadly volby“, je asi „bojovat za demokracii potřeba“. Ze zprávy o odsouzeném starostovi, kterého lidé volí znovu, vyvozuje, že i on byl „odsouzen za podvody“, protože za covidu zaškrtl, že firmy nemají dluhy vůči státu.
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
+
+---
+
+### Komunální volby jako volba „proti hajzlům“; Drulák a Svatopluk, „absolutní elitář“ s prezidentskými ambicemi (Vrabel, 11. 10. 2026)
+
+Vrabel vysvětluje výsledek komunálních voleb (vítězství STAN a ODS) tím, že lidé vždy volí proti někomu: za covidu proti Babišovi, Vojtěchovi a Hamáčkovi, pak proti Fialovi a Rakušanovi. „Oni nám dávají podat nové hajzly a ještě horší“: ODS a STAN jsou podle něj „mafiánské strany“. Martin Kuba v Budějovicích znovu vyhrál, přestože ho Vrabel jako aktivista dřív „dostal pryč“, protože lidé volí podle billboardů: „Na to jsou ty lidi idioti úplně.“
+
+Na dotaz z chatu označuje platformu Svatopluk za podporu prezidentské kandidatury Petra Druláka „od roku 2022“. Druláka nazývá „absolutním elitářem“ a „protekčním děckem“, „sortou jako Petr Hájek, proplouvat“. V roce 2022 prý odmítl přijít na jeho demonstraci, protože ji pořádá „týpek s insolvencí“. Jana Bogušíková ho dřív podporovala, „udělala pár chyb“; Ilona Švihlíková se bála přijít, „ale aspoň umí mluvit“; Petr Robejšek je „chytrý“ a „rovnější“. Do čela státu podle něj patří lidé, kteří „padli, dělali biznis, krachovali“.
+
+> „Celý Svatopluk je podpora Petra Druláka do prezidentských voleb. Od roku 2022, kdy to vzniklo.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ---
 

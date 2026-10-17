@@ -1182,6 +1182,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **3. 10.** — Babiš „EU patriot, ne český"; „odevzdání moci" ve volbách 2025; „jsme ve válce — válečná daň"; Kusturica — [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
 - **5. 10.** — státní zástupce zastavil stíhání Čecha z ukrajinské armády → „má jít mýt záchody do vězení“; policie má „úkol rozehrát konflikt“ jako v roce 1989 — [Zprávy v devět 5. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
 - **8. 10.** — spor s Hájkem, Svatošem, Svobodným rádiem a Štěpánem po shromáždění; „vlastence nezajímají jaderné zbraně“ — [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+- **11. 10.** — soudci za Z „zločinci“, státní zástupce „by měl viset na nástěnce“ (→ [stoch. teror](../stochasticky-teror.md)); Rajchl a Wacek „vymysleli“ stíhání za Z; „lámání svobody“ a likvidace opozice; odvolatelnost politiků, zákaz politické reklamy — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1276,6 +1277,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **9. 10.** — v lednu nebude dost plynu, doporučení 21 °C do tří týdnů; „pořiďte si kamna a domek“ — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - **10. 10.** — Trump děkuje Putinovi za ropu, Evropa kupuje od USA čtyřikrát dráž kvůli korupci; Nord Stream koupí Američané — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
 - **10. 10. (Zprávy)** — obrat USA kvůli „petrodolaru“, nákup ruské nafty jako předvolební tah; na 80 % po volbách zase zbraně Zelenskému (→ [predikce](../predikce.md)); Evropa „ekonomická sebevražda“ kvůli korupci — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
+- **11. 10.** — petrodolar jako „největší podvod“, Rothschildové a Rockefellerové; Trumpovi „nevěří ani nos mezi očima“ — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ### [Migrace](../migrace.md) (pokrač. 22)
 - **19. 9.** — ukrajinizace ČR (2 mil.), predikce ukrajinské politické strany ve volbách — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1294,6 +1296,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **8. 10.** — žádné příměří, „tvrdou kapitulaci Ukrajiny“ — [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
 - **9. 10.** — ukrajinská mobilizace — „co to je za dobytek“; „měli jsme se připojit k Rusku“ — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - **10. 10.** — vysvětlení „měli jsme se připojit k Rusku“ (Minsk, ochrana Rusů, NATO); Putin „jeden z nejlepších politiků“ — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
+- **11. 10.** — „měli jsme se přidat k Rusku“ v ucelené podobě (denacifikace, demilitarizace, invaze „naprosto odůvodněná“), válka „vymyšlená k okradení Ruska“, Biden v Bosně — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1319,9 +1322,11 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **6. 10.** — válka „na 99 %“ začne v Pobaltí, vleklá; jaderné obklíčení Ruska, Mrtvá ruka; „zachraň se, kdo můžeš“ — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 - **7. 10.** — USA nepůjdou do války za malé země, Evropa sama; Anchorage jako úskok, o válce rozhodují „lidé v pozadí“ — [Zprávy v devět 7. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 - **8. 10.** — po Ukrajincích „jsou na řadě Poláci“; Chorvaté „náckové“, Rumuni „se nechají koupit“ — [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+- **11. 10.** — ČR ve válce s Ruskem (OBSE), „Američani jsou skety“; válka Evropy s Ruskem kolem přelomu roku (→ [predikce](../predikce.md)) — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ### [Volby 2026](../volby-2026.md)
 - **10. 10.** — šok z výsledků („vyhrály STAN a ODS“), Kuba „pravá ruka kmotra Dlouhého“, Budějovice „čistá mafie“ → [volby-2026.md](../volby-2026.md) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
+- **11. 10.** — volby „proti hajzlům“, ODS a STAN „mafiánské strany“; Drulák „absolutní elitář“, Svatopluk jako jeho kampaň — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ---
 
@@ -1863,6 +1868,16 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Martin Kuba | ❌ negativní | „Pravá ruka kmotra Dlouhého“, budějovická „čistá mafie“ | 2026-10-10 | [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
 | Susan Dell | ⚖️ rozporuplný | Internet ji řeší jako „ještěra“; Vrabel neví, „plastiky se nepovedly“ | 2026-10-10 | [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
 | David Icke | ○ neutrální | O „ještěrech“ mluví „velmi otevřeně a dlouho“ — „třeba to možný je“ | 2026-10-10 | [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
+| Jindřich Rajchl | ❌ negativní | „Vymyslel“ stíhání za Z a „udával lidi“; s Wackem domluva s režimem | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Petr Drulák | ❌ negativní | „Absolutní elitář“, „protekční děcko“, Svatopluk je jeho kampaň | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Zuzana Majerová | ❌ negativní | Slibovala referendum o vystoupení z EU, „neudělala ani čárku“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Jana Černochová | ❌ negativní | „Dal bych jí oranžový mundur… jak zametá ulice“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Petr Hájek | ❌ negativní | „Provládní médium“, „sorta, proplouvat“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Miroslav Sládek | ✅ pozitivní | „Mám velmi rád“; citace „když se nevěší, není revoluce“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Tommy Robinson | ✅ pozitivní | „Brzo to vezme do rukou“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Sergej Lavrov | ✅ pozitivní | Jeho výzvy jsme měli slyšet | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Mattias Desmet | ✅ pozitivní | Teorie mass formation a 5 % pravdy | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Donald Trump | ❌ negativní | „Chová se jako bandita“, „nevěřím mu ani nos mezi očima“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
 
 ---
 
@@ -2030,3 +2045,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
 - [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
+- [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)

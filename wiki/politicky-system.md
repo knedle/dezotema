@@ -1146,7 +1146,9 @@ Státní zastupitelství zastavilo stíhání Čecha, který v roce 2022 vstoupi
 
 > „Ten státní zástupce by měl být odstíhaný trestně za zneužití pravomoci veřejného činitele [...] Měl by být odsouzený. Měl by jít mýt záchody do vězení.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
+**11. 10.** — Vrabel výrok zostřuje. Podle něj nelze „schvalovat válečný zločin“, dokud ho neodsoudí tribunál zřízený Radou bezpečnosti OSN, a soudci, kteří trestali za písmeno Z, „to jsou zločinci… nezávislí na právu“. Státní zástupce, který zastavil stíhání Čecha z ukrajinské armády, „by měl viset na nástěnce státních zástupců, kteří likvidují právní systém“, s odkazem na Sládkovo „když se nevěší, tak není revoluce… aby to nebylo tak tvrdé, jak to říká doktor Sládek“ (viz [Stochastický teror](stochasticky-teror.md)). Stíhání za Z podle něj „vymyslel“ Rajchl, který „začal udávat lidi“; odsouzení prý padla „jenom proto, že Rajchl a Wacek řekli, že písmeno Z rovná se schvalování válečných zločinů… To muselo být domluvené, aby se vytvářel strach“. ESLP označuje za „pseudosoud, politický soud“. ČR je podle něj v předposlední fázi totality: protesty vznikají, když se „láme svoboda“, a až je zlomená, totalita „vždycky vraždí vlastní obyvatelstvo. A na Ukrajině to vidíte.“ V ČR byla svoboda zlomena v roce 2022 a „jsme blízko likvidaci politické opozice“, zatímco parlamentní opozice (SPD, PRO, Trikolóra, Svobodní) je podle něj falešná. S odkazem na Mattiase Desmeta tvrdí, že poslední fáze nastane, až umlčí „posledních 5 %“ lidí, kteří říkají pravdu. Jako „změnu systému“ navrhuje odvolatelnost politiků (petice a porota náhodně vybraných občanů; příklad Zuzany Majerové, která pro referendum o vystoupení z EU „neudělala ani čárku“), zákaz politické reklamy a trestnost lobbingu jako úplatku. Janě Černochové by „dal oranžový mundur“ s nápisem a nechal ji zametat ulice.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026), [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ---
 

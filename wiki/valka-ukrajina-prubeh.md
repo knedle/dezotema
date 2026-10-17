@@ -531,7 +531,9 @@ Vrabel vysvětluje svůj výrok z 9. 10., aby „někdo neřekl, že schvaluje v
 
 > „Mentálně jsme se měli snažit o to, aby se nevraždili lidi na Ukrajině, a politicky a diplomaticky jsme se měli snažit o to, aby se nerozehrávala ta válka.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Facebook Live 10. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
+**11. 10.** — V nedělním vysílání Vrabel tezi „měli jsme se přidat k Rusku“ rozvádí do ucelené podoby. Rusko podle něj šlo na Ukrajinu ze dvou důvodů: kvůli denacifikaci, tedy ochraně ruského obyvatelstva Donbasu („prakticky genocida“, 14 000 mrtvých, nesplněné Minské dohody, Porošenkův výrok o dětech ve sklepích, Lavrova všichni „posílali do háje“), a kvůli demilitarizaci, aby Západ s Ukrajinou nezaútočil na Rusko. ČR se podle něj měla k Rusku přidat diplomaticky v obou bodech, a pokud by diplomacie selhala, „rozhodně neposílat zbraně“: „My jsme měli slyšet v tom roce 2020 ty výzvy Sergeje Lavrova, že se tam vraždí obyvatelstvo.“ Invazi označuje za „naprosto odůvodněnou“ s oporou v mezinárodním právu jako „regionální dohodu“ proti nacismu, současně ale připouští, že „je to proti mezinárodnímu právu… nejsem rád, že tam přišli“. Válka byla podle něj „vymyšlená, aby odbili Rusko, aby ho okradli“, a Anglosasové „poštvali Slovany proti sobě“. Ukrajinci jsou „chudáci“, kteří se nechali sfanatizovat nacismem jako Chorvati v 90. letech; v Bosně podle něj „rozehrál válku Joe Biden“ (81 mil. dolarů na samopaly pro bosenské muslimy).
+
+**Zdroje:** [Vrabel — Facebook Live 10. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026), [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ---
 

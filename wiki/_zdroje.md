@@ -5568,3 +5568,11 @@
 - **Datum záznamu:** 2026-10-10
 - **Zpracováno:** ano
 - **Poznámka:** 49 min, se Zuzanou (spolumoderátorka). Večer po komunálních a senátních volbách.
+
+## Ladislav Vrabel — Nedělní vysílání 11. 10. 2026 {#ladislav-vrabel--nedělní-vysílání-11-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-11_Ladislav-Vrabel_Pravidelné-nedělní-živé-vysílání-ve-2100-hod.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/watch/?v=2184488085771406>
+- **Datum záznamu:** 2026-10-11
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 50 min, monolog s dotazy z chatu; sdílená videa protestů v Evropě ([36:08–42:05], část zvuku zkomolená).

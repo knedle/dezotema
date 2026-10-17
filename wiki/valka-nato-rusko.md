@@ -1077,7 +1077,9 @@ K tomu, že Polsko kvůli ruskému útoku na Ukrajinu aktivovalo letectvo a roze
 
 > „Obávám se, že další na řadě po Ukrajincích jsou Poláci.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+**11. 10.** — K prohlášení ruské delegace v OBSE, že ČR je s Ruskem ve válce, Vrabel souhlasí: ČR válku financuje (90 mld. přes evropský rozpočet, PURL, utajené programy), dodává „víc než polovinu munice“ (muniční iniciativa, společná výroba 155 mm s Polskem, střela Narwhal), posílá dobrovolníky a cvičí a léčí vojáky. Rusové válku podle něj nechtějí, chtějí ji ti, kdo na ní vydělají: „Američani jsou skety, který se snaží na všem vždycky vydělat. A nechat krvácet ostatní národy.“ USA a Rusko spolu válčit nebudou, ale obchodovat. Evropa podle něj „vsadila“ na válku za podíl z kořisti. Válka nebude jaderná, ale „oťukávací“ s mobilizací východních zemí, a na rozdíl od „VK“ (2030) ji čeká „někde na přelom roku“. Rusko nakonec bude muset buď zabrat Ukrajinu, nebo „zaútočit na Evropu. Jinak prohraje.“
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026), [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 
 ---
 

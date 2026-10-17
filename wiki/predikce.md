@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — „otázka času“, kdy bude opozice v ČR rozprášena a ukrajinský scénář se přesune do ČR (11. 10. 2026)
+
+**Předpověď:** Likvidace politické opozice v ČR je „otázka času“ a to, „co se stalo na Ukrajině“, se posune do ČR.
+
+> „Takže je otázka času, kdy ta opozice bude rozprášená úplně… A pak se to, co se stalo na Ukrajině, posune na Českou republiku.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
+
+---
+
+### Ladislav Vrabel — válka Evropy s Ruskem začne kolem přelomu roku, ne až 2030; Rusko nakonec zaútočí na Evropu nebo zabere Ukrajinu (11. 10. 2026)
+
+**Předpověď:** Konflikt Evropy s Ruskem (nejaderný, „oťukávací“, s mobilizací východních zemí) se podle něj rozjede kolem přelomu roku 2026/27, ne až v roce 2030 (jak tvrdí „VK“). Rusko pak bude muset buď zabrat celou Ukrajinu, nebo zaútočit na Evropu.
+
+> „Osobně si myslím, mně to připadá někde na přelom roku, na přelom roku, že by mohlo něco spustit, spíš než v roce 2030.“ — Ladislav Vrabel
+
+**Horizont:** přelom roku 2026/27
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
+
+---
+
 ### Ladislav Vrabel — po amerických volbách USA znovu podpoří Zelenského a nákupy ruské ropy skončí (10. 10. 2026)
 
 **Předpověď:** Nákup ruské nafty Spojenými státy je jen předvolební tah; s pravděpodobností „80 %“ se po volbách v USA vše rychle změní a USA budou znovu dodávat zbraně Ukrajině.
