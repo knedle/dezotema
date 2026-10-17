@@ -5512,3 +5512,11 @@
 - **Datum záznamu:** 2026-10-11
 - **Zpracováno:** ano
 - **Poznámka:** 54 min, nedělní živé vysílání.
+
+## Rajchl — Sněmovna: výzva Pavlovi ke zveřejnění úhrady dovolené v Maroku (13. 10. 2026) {#jindřich-rajchl--sněmovna-výzva-pavlovi-maroko-13-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-13_Jindřich-Rajchl_Dnes-jsem-v-Poslanecké-sněmovně-navrhl-do-programu-ak.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1432369089052799>
+- **Datum záznamu:** 2026-10-13
+- **Zpracováno:** ano
+- **Poznámka:** 3 min, projev ve Sněmovně.

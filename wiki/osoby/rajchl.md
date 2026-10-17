@@ -217,6 +217,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **8. 10.** — výzva volit PRO: 4 senátoři (koruna, hotovost, offline do Ústavy), koaliční kandidátky vč. Motoristů (Chomutov, J. Hradec) → [volby-2026.md](../volby-2026.md) — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 - **9. 10.** — sestřih: ODS „okrádá občany“ (školkovné, sleva na manželku, daň z nemovitostí, valorizace, 135 tis. rodinám) — [Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
 - **11. 10.** — hodnocení voleb: PRO nad průzkumy (Loprais 12,75 %, Skalický, Šorna, Beran), výzva ke sjednocení národně konzervativních stran „po vzoru AfD“, STAN „čiré zlo“, Praha se „stockholmským syndromem“; podpora ANO ve 2. kole senátu (Baránková, Daňhová) → [volby-2026.md](../volby-2026.md); Pavlův let do Maroka jako klientelismus, odebrat apanáž Evě Pavlové → [petr-pavel.md](../petr-pavel.md); nedanit české miliardáře, zdanit zahraniční banky a zbrojaře — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+- **13. 10.** — návrh bodu ve Sněmovně: výzva Pavlovi zveřejnit, kdo platil lety do Maroka; vzor Wulffa (2012), „quid pro quo“ → [petr-pavel.md](../petr-pavel.md) — [Sněmovna: výzva Pavlovi (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--sněmovna-výzva-pavlovi-maroko-13-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -464,6 +465,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Volodymyr Zelenskyj | ❌ negativní | „Nejzkorumpovanější člověk na světě“, okrádání v době války „si zaslouží trest smrti“ (→ [stoch. teror](../stochasticky-teror.md)) | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
 | STAN | ❌ negativní | „Čiré zlo“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
 | Zdeněk Hřib | ❌ negativní | Výmluvy po debaklu Pirátů „naprosto směšné“ | 2026-10-11 | [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| Christian Wulff | ○ neutrální | Příklad německého prezidenta, který 2012 rezignoval kvůli dovoleným placeným spřízněnými subjekty | 2026-10-13 | [Sněmovna: výzva Pavlovi (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--sněmovna-výzva-pavlovi-maroko-13-10-2026) |
 
 ---
 
@@ -596,3 +598,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Volte PRO: senátoři, koaliční kandidátky, dávky, euro (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 - [Rajchl — Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
 - [Rajchl — Nedělní vysílání: volby, cestovní agentura Petra Pavla, ruská ropa do USA (11. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+- [Rajchl — Sněmovna: výzva Pavlovi ke zveřejnění úhrady dovolené v Maroku (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--sněmovna-výzva-pavlovi-maroko-13-10-2026)
