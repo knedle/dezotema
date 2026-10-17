@@ -5488,3 +5488,11 @@
 - **Datum záznamu:** 2026-10-14
 - **Zpracováno:** ano
 - **Poznámka:** 7 min, ze záznamu. Úsek [01:53–06:56] poškozen (smyčka „A teď se to vytvořilo"), hlavní vysvětlení chybí.
+
+## ČsTV2 — Proč jsme stále Československo: nej argumenty (15. 10. 2026) {#československo-tv2--proč-jsme-stále-československo-15-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-15_Československo-TV2_1510-PROČ-JSME-STÁLE-ČESKOSLOVENSKO-NEJ-ARGUMENTY.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=853632244476025&_rdr>
+- **Datum záznamu:** 2026-10-15
+- **Zpracováno:** ano
+- **Poznámka:** 17 min, ze záznamu. Rekapitulace ČSR argumentů a falšování voleb (HP/ESET) beze změny.

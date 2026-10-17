@@ -101,6 +101,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **12. 10.** — „údajný“ Čermák nedorazil, „17 důvodů, proč to není Čermák“ (s Hradilem); chemtrails/HAARP/5G jako „počasí jako zbraň“ (Kamil z Prešova) — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 - **14. 10.** — nový falešný profil „Tomáš Kvatro Čermák 2026“ (zelené pivo v říjnu), Turkova smazaná fotomontáž, 17× „jakoby“ v Naxerově videu, Šišáková s pražským mostem; orgonitová děla (Aerot) — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 - **14. 10. (2)** — podmíněné propuštění bylo podle policejního prezidia „předem vyloučeno“ (nenástup do výkonu trestu), přesto k němu došlo — [Proč by to divadlo v Liberci hráli?](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)
+- **15. 10.** — Šalingrad/Bernardy nic nemění, „vyražte do Holíšova“; Bernardy a Černohorský „tvrdí totéž“; jen konfrontace naživo; „20 Trumpů“; vydírání jako ovládací mechanismus politiků — [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -179,6 +180,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **3. 10.** — královna oběšena na Gitmo, Bush a Cheney popraveni, Biden dvojník; czexit iluze, jen obnova ČSR, Rusko bude chtít „chcimíry“; sjednocení Německa protiprávní, smlouva 2+4 může padnout → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md) — [Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](../_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 - **6. 10.** — doplatky faktur → arbitráž a insolvence „korporace Česko/Slovensko“ — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 - **10. 10.** — volby „do korporátních orgánů, nikoliv do státních“, „není koho volit“; blíží se blackout/„překvápko“, datum zná jen ~10 lidí (→ [predikce](../predikce.md)) — [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
+- **15. 10.** — Klaus kandidoval 1992 do FS, ne do ČNR (Hlásenský) → podvodné rozdělení funkcí; „korporaci Česko“ mohou prodat předluženou „třeba na Ukrajinu“; rekapitulace ČSR argumentů — [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -369,6 +371,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Ivan Masaryk | ❌ negativní | S „partičkou dalších škůdců“ měl e-mailem pronajímatelce narušit akci | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
 | Jiří Černota (BEWIT) | ✅ pozitivní | CEO sponzora; „fantastické“ produkty, publikum ho „nechtělo pustit z placu“ | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
 | Martin Turek | ❌ negativní | Zveřejnil a smazal „hanebnou fotomontáž“ se Zítkem | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
+| Renata Bernardy | ❌ negativní | Vysílala s „údajným“ Čermákem; má prý „zpravodajské informace“ o falešném profilu | 2026-10-15 | [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026) |
+| Jiří Černohorský | ❌ negativní | „Zvláštní“, že s Bernardy shodně tvrdí, že profil „Politický vězeň Čermák“ je pravý | 2026-10-15 | [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026) |
+| Václav Klaus | ❌ negativní | Kandidoval 1992 do FS, ne do ČNR — s Mečiarem „roztrhl“ ČSR podvodem | 2026-10-15 | [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026) |
 | Bob Acer | ⚖️ rozporuplný | Přednesl „přesně a exaktně“ část o ČSR, ale sdílí fotomontáže „hry na Čermáka“ | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
 | Petr Pavel | ❌ negativní | „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka | 2026-10-10 | [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026) |
 
@@ -480,3 +485,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 - [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 - [ČsTV2 — Proč by to divadlo 24. 9. v Liberci hráli? (14. 10. 2026)](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)
+- [ČsTV2 — Proč jsme stále Československo: nej argumenty (15. 10. 2026)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
