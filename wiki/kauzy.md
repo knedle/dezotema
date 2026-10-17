@@ -106,6 +106,18 @@ Rajchl dokumentuje případ: aktivista Vojtěch Pšenák zveřejnil na sociáln�
 
 ---
 
+### Rajchl se zastává novinářky Novinek Karolíny Brodníčkové, které anonym vyhrožuje smrtí; dvojí metr Seznamu (16. 10. 2026)
+
+Rajchl připomíná, že patří k „nejtvrdším a nejneústupnějším kritikům“ mainstreamových novinářů, zejména skupiny Seznam (Seznam Zprávy, Novinky.cz). Ta podle něj u výhrůžek měří dvojím metrem: u „eurohujerských a pravdoláskařských“ politiků dává do titulků i „směšné výhrůžky“ typu kletby, zatímco výhrůžky smrtí jemu, jeho rodině a politikům „z našeho kruhu“ přechází „ostentativním mlčením“. Sám prý dostal „desítky a stovky SMSek“ a telefonátů, že mu někdo „přijde rozbít hlavu baseballovou pálkou“, podpálit dům nebo „ať se pořádně rozhlédne, až bude přecházet ulici“. Chce „prolomit bariéru“: veřejně se zastává reportérky Novinek Karolíny Brodníčkové, které „zbabělý anonym“ od srpna telefonicky vyhrožuje smrtí. Výhrůžky násilím či smrtí označuje za „nízké, hloupé… odporné a hnusné“, do demokracie podle něj nepatří a doufá, že pachatel bude dopaden. Její práci bude kritizovat dál, „ale dnes bych chtěl jednoznačně říct, že stojím za vámi“.
+
+⚡ **Poznámka:** O pět dní dříve (11. 10.) Rajchl o Zelenském řekl, že okrádání spoluobčanů v době války „si zaslouží trest smrti“ (viz [Stochastický teror](stochasticky-teror.md)). Nejde o přímou výhrůžku, ale o výrok téhož typu, jaký zde odmítá u jiných.
+
+> „Mohu stokrát nesouhlasit s tím, co o nás píše. Ale nikdy, ani na vteřinu, se nezastanu nikoho, kdo bude vyhrožovat někomu násilím či smrtí.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Zastání novinářky Karolíny Brodníčkové před výhrůžkami smrtí (16. 10. 2026)](_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026)
+
+---
+
 ## Kauza Adam Coubal — dvojí metr justice
 
 ### Usmrcení autem vs. verbální trestný čin — stejný trest

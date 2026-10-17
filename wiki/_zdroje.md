@@ -5552,3 +5552,11 @@
 - **Datum záznamu:** 2026-10-16
 - **Zpracováno:** ano
 - **Poznámka:** 6 min, novinářské dotazy (CNN Prima News, TV Nova).
+
+## Rajchl — Zastání novinářky Karolíny Brodníčkové před výhrůžkami smrtí (16. 10. 2026) {#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-16_Jindřich-Rajchl_V-naší-zemi-je-smutnou-tradicí-že-ač-všichni-unisono-.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1578216973519708>
+- **Datum záznamu:** 2026-10-16
+- **Zpracováno:** ano
+- **Poznámka:** 4 min.
