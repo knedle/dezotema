@@ -5536,3 +5536,11 @@
 - **Datum záznamu:** 2026-10-14
 - **Zpracováno:** ano
 - **Poznámka:** 2,5 min; pozvánka do debaty na CNN Prima News (360°).
+
+## Rajchl — „Tak si to zrekapitulujme“: Pavel, Maroko a Orlen (CNN Prima News, 15. 10. 2026) {#jindřich-rajchl--tak-si-to-zrekapitulujme-15-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-15_Jindřich-Rajchl_Tak-si-to-zrekapitulujme.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2147931005838390>
+- **Datum záznamu:** 2026-10-15
+- **Zpracováno:** ano
+- **Poznámka:** 2,5 min, sestřih z debaty na CNN Prima News (vstupuje moderátor).
