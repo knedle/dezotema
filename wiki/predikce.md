@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — ČR bude za deset let „země nikoho a všech“; policie bude v regionu brutální (14. 10. 2026)
+
+**Předpověď:** Kvůli migračnímu paktu a příchodu muslimů bude ČR za deset let „země nikoho a všech“; v ČR, Polsku, na Slovensku a v Maďarsku bude policie „v následujících měsících až letech“ brutální vůči občanům.
+
+> „Za deset let Česká republika bude vypadat úplně jinak. To už vůbec nebude Česká republika, tak jak my ji známe dneska. To bude země nikoho a všech, a bude se v ní mluvit různými jazyky.“ — Ladislav Vrabel
+
+**Horizont:** 2036; brutalita policie „měsíce až roky“
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 14. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026)
+
+---
+
+### Ladislav Vrabel — válka Evropy s Ruskem by trvala „pěkně 10 let“ a byla krvavá, bez rychlého nasazení jaderných zbraní (14. 10. 2026)
+
+**Předpověď:** Pokud evropská část NATO vstoupí do války s Ruskem, bude to dlouhá (kolem 10 let), krvavá konvenční válka; jaderné zbraně se rychle (nebo vůbec) nepoužijí.
+
+> „Může vést pěkně 10 let válku s Ruskem. […] Nemyslel bych si, že dojde na ty jaderné zbraně nějak rychle, nebo jestli vůbec na ně dojde, ale obávám se, že by to mohlo být velmi krvavé.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (délka ~10 let)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 14. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026)
+
+---
+
 ### Ladislav Vrabel — za 5–7 let budou v ČR sňatky 11–12letých dívek „běžný standard“ (13. 10. 2026)
 
 **Předpověď:** V důsledku migračního paktu (od ledna 2027) budou do 5–7 let v ČR „stovky“ sňatků 11–12letých dívek běžné.
