@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Vučić vyhraje srbské volby (80:20); Fico je „na řadě“ k odstranění (15. 10. 2026)
+
+**Předpověď:** Aleksandar Vučić vyhraje nadcházející srbské volby s pravděpodobností 80 %; Robert Fico bude dalším „zlikvidovaným“ suverenistou.
+
+> „Takže za mě osmdesát ku dvaceti, že vyhraje Aleksandar Vučić. […] Robert Fico je podle mě na řadě.“ — Ladislav Vrabel
+
+**Horizont:** srbské volby; Fico neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
+
+---
+
+### Ladislav Vrabel — pohonné hmoty po volbách 60 Kč, v zimě možná 70 Kč (15. 10. 2026)
+
+**Předpověď:** Benzín a nafta zdraží z 50 Kč na 60 Kč po volbách a v zimě možná na 70 Kč; lidé budou řešit, čím topit.
+
+> „Benzín a nafta stojí padesát. Za chvilku po volbách bude stát šedesát, v zimě možná už sedmdesát.“ — Ladislav Vrabel
+
+**Horizont:** po volbách / zima 2026/27
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
+
+---
+
 ### Ladislav Vrabel — ČR bude za deset let „země nikoho a všech“; policie bude v regionu brutální (14. 10. 2026)
 
 **Předpověď:** Kvůli migračnímu paktu a příchodu muslimů bude ČR za deset let „země nikoho a všech“; v ČR, Polsku, na Slovensku a v Maďarsku bude policie „v následujících měsících až letech“ brutální vůči občanům.

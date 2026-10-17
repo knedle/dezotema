@@ -329,7 +329,9 @@ Vrabel připomíná výrok Ursuly von der Leyen, která sama přiznala, že Evro
 
 **14. 10.** — Trumpova prohlášení o energetickém příměří mezi Ruskem a Ukrajinou podle Vrabela hýbou burzami a „on a lidé kolem něj“ na tom vydělávají stovky milionů dolarů: „toto je obrovská kriminální činnost, to, co dělá Donald Trump. On zneužívá svoji funkci.“ „Ten Trump by zasloužil prostě, nevím, ani nechci říkat, co by zasloužil.“ Ruské suroviny se podle něj mají kupovat přes Američany za čtyřnásobek a peníze jdou na volby a tajné operace, což je „korupce na úrovni států“.
 
-**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026), [Vrabel — Facebook Live 10. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026), [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026), [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026), [Ladislav Vrabel — Večerní zprávy 14. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026)
+**15. 10.** — Macinka a Havlíček se podle Vrabela chválí, jak zabránili růstu cen ropy, plynu a emisních povolenek, ale „vymyslí si nějakou hovadinu“, zatímco lidé nemají na benzín a země nemá zásoby plynu. Macinka se podle něj „naučil od Trumpa“ chválit sám sebe. „Benzín a nafta stojí padesát. Za chvilku po volbách bude stát šedesát, v zimě možná už sedmdesát.“ Brzy prý lidé budou řešit, čím budou doma topit. Írán označuje za „konflikt Donalda Trumpa“.
+
+**Zdroje:** [Vrabel — Večerní zprávy 18. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-18-5-2026), [Vrabel — Facebook Live 10. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026), [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026), [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026), [Ladislav Vrabel — Večerní zprávy 14. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026), [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
 
 ---
 

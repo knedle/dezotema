@@ -1009,3 +1009,11 @@ Ke zprávě o setkání manželů Michaela a Susan Dellových s Trumpem v Bílé
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
 
 ---
+
+### Musk jako „nasazený kůň“ armády a globalistů, politici jako figurky; zelená ideologie vede k novému světovému řádu s kredity (Vrabel, 15. 10. 2026)
+
+Ke zprávě, že Musk vyzval Zelenského k odchodu, Vrabel tvrdí, že „Stargate, Star Shield a Starlink jsou vojenské armádní programy“ a Musk „pracuje pro armádu Spojených států, a to od počátku“. Je to podle něj „nasazený kůň, který pracuje pro ty globalisty“, už od PayPalu se šéfem Palantiru. Všichni politici (Trump, Zelenskyj, Macron, Burnham, von der Leyenová, Kallasová) jsou podle něj figurky těch, kdo je platí, a „ty války rozehrávají ti, kdo je platí“. Kdo neposlouchá, toho zničí média a policie. Ke studii KfW, podle níž Německo potřebuje do roku 2045 šest bilionů eur na klimatickou neutralitu, říká, že peníze půjdou z úspor Němců: „celá zelená ideologie a válka znamená v podstatě ožebračit Němce… ožebračit a zadlužit“. Cílem je podle něj „nový světový řád, kde budou všude kamery“, sledování, místo peněz kredity od státu a práce nahrazená AI a robotizací.
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
+
+---

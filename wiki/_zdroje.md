@@ -5600,3 +5600,11 @@
 - **Datum záznamu:** 2026-10-14
 - **Zpracováno:** ano
 - **Poznámka:** 59 min, zprávy čte Zuzana, nový technik Ivan.
+
+## Ladislav Vrabel — Večerní zprávy 15. 10. 2026 {#ladislav-vrabel--večerní-zprávy-15-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-15_Ladislav-Vrabel_15-10-2026-Večerní-zprávy-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2114735052582801>
+- **Datum záznamu:** 2026-10-15
+- **Zpracováno:** ano
+- **Poznámka:** 41 min, zprávy čte Zuzana. Sdílené video protestů v Evropě [17:04–18:01] bez zvuku.

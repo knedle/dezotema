@@ -164,6 +164,16 @@ K výročí Mnichovské dohody Rajchl kritizuje „ohlušující ticho" ČT a Se
 
 ---
 
+### Suverenisté jsou postupně likvidováni — Orbán „zlikvidován“, Fico „na řadě“, Vučič jako poslední; Babiš má „max. 5 %“ (Vrabel, 15. 10. 2026)
+
+Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označuje za nepřijatelné, ale za svým slovem si nikdy nestojí. Muniční iniciativa podle něj pokračuje, „přestože to slíbil v předvolebním programu“. Šanci, „že by Andrej Babiš udělal něco pro Čechy a pro Českou republiku v Evropské unii“, odhaduje na „maximálně 5 %“. Ke zprávě o obnovení slovensko-ruské mezivládní komise by uvítal, kdyby Slovensko „spadlo pod sféru“ Ruska a vystoupilo z EU, ale nečeká to. Suverenistické politiky podle něj systém postupně odstraňuje: Viktor Orbán „už byl zlikvidován“ a jeho nástupce chce Orbána i Szijjártóa dostat do vězení. „Robert Fico je podle mě na řadě.“ Jediným zbylým suverenistou je Aleksandar Vučić: protesty proti němu sponzorují „západní globalisté“ a kandidáti jsou „placení z Evropské unie“. Na jeho výhru sází „osmdesát ku dvaceti“. Slovensko je podle něj na tom se svobodou slova mnohem lépe než ČR. EU je podle něj „na vrcholu svojí existence a teď už to půjde jenom dolů“.
+
+> „Viktor Orbán… ten už byl zlikvidován. […] Robert Fico je podle mě na řadě.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
+
+---
+
 ### Passerelle klauzule a kvalifikovaná většina v obraně a migraci — „Anglosasové se rozhodnou, Slované mašírují"; „konec České republiky" (Vrabel, 29. 9. 2026)
 
 K úvaze Komise o passerelle klauzulích (kvalifikovaná většina v sankcích, lidských právech, obraně a daních) Vrabel tvrdí, že jde o „absolutní, zásadní, nevratnou reformu" a krok k federalizaci: EU má být „nástupcem původních států" a ČR zůstane „jako kraj, něco jako Bavorsko — jen na mapě namalovaná". Malé státy ztratí veto, takže když EU řekne „jdeme do války", budou muset jít — „Anglosasové se rozhodnou, Slované mašírují"; v oblasti lidských práv budou velké státy posílat uprchlíky „do slovanských zemí, které ještě nejsou úplně zislamizované". Kritizuje „vlastence", kteří chtějí EU reformovat — „ten právník tam chce přijít a říct Uršule von der Leyen: teď to budeme dělat jinak" (zřejmě narážka na Rajchla).
