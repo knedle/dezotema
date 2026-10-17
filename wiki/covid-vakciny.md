@@ -609,7 +609,9 @@ Zítko líčí dosavadní průběh svého trestního stíhání za „šíření
 
 **10. 9.** — Zítko znovu opakuje totéž usnesení a dodává, že krajský soud věc vrátil okresnímu soudu v Chomutově s tím, že se musí zabývat jednotlivými tvrzeními jednotlivě — což popisuje jako volbu mezi „monster procesem" a „kapitulací" žaloby — beze změny oproti 6. 8.
 
-**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026), [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026)
+**12. 10.** — Zítko rekapituluje „výročí“ svých kauz. 10. 10. uplynuly tři roky od „zakleknutí“ u Postoloprt, kde byl obviněn „ze zpronevěry nebo něco“ (věc byla odložena). 11. 10. uplynuly dva roky od propuštění z vězení, kde byl „protiprávně uvězněn“ za údajné šíření poplašné zprávy, „což byla pravda o sračkách v injekcích COVID-19“; krajský soud věc vrátil do Chomutova. 12. 10. mu NCTEKK po roce a osmi měsících vrátila telefony zabavené při zásahu „samopalníků“ 3. 2. 2025.
+
+**Zdroje:** [Československo TV2 — Videoportál 25. 8. 2026](_zdroje.md#československo-tv2--videoportál-25-8-2026), [Československo TV2 — Videoportál 27. 8. 2026](_zdroje.md#československo-tv2--videoportál-27-8-2026), [Pavel Zítko — Videoportál 10. 9. 2026](_zdroje.md#pavel-zítko--videoportál-10-9-2026), [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 
 **Zdroje:** [Zítko — Videoportál: konstelace, Trump, Krajský soud (2. 7. 2026)](_zdroje.md#pavel-zítko--videoportál-konstelace-trump-krajský-soud-2-7-2026), [ČsTV2 — Videoportál 6. 8. 2026](_zdroje.md#československo-tv2--videoportál-6-8-2026), [ČsTV2 — Videoportál 14. 8. 2026](_zdroje.md#československo-tv2--videoportál-14-8-2026), [ČsTV2 — Videoportál 21. 8. 2026](_zdroje.md#československo-tv2--videoportál-21-8-2026)
 
@@ -1166,7 +1168,9 @@ Zítko sdílí (přes Vladimíru Avdičovou) údajně „největší kohortovou 
 
 ⚡ **Poznámka:** Uváděná čísla pocházejí z aktivistických zdrojů, nikoli z recenzované epidemiologie.
 
-**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026)
+**12. 10.** — Na setkání ve Frýdku-Místku zazněl blok o tom, jak bránit děti a vnoučata „před tlakem na zaočkování většinou koktejlem jedů v injekcích“, které jim „píchají tak, aby mohly navštěvovat třeba školku“. Návod je podle Zítka zveřejněný na Galerii pravdy (Pavel Přib).
+
+**Zdroje:** [ČsTV2 — Pfizergate a Uršula 11:11, 16. 7. 2026](_zdroje.md#československo-tv2--pfizergate-a-uršula-1111-16-7-2026), [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 
 ---
 

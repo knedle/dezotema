@@ -5464,3 +5464,11 @@
 - **Datum záznamu:** 2026-10-10
 - **Zpracováno:** ano
 - **Poznámka:** 14 min; soubor datován 11. 10., natočeno při zahájení akce 10. 10. Mluví Pavel Zítko, od [~11:00] přednáška „Boba" o ČSR, přepis nesrozumitelný.
+
+## ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026) {#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-12_Československo-TV2_1210-OHLÉDNUTÍ-ZA-AKCÍ-101010-2026.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1146515841183068&_rdr>
+- **Datum záznamu:** 2026-10-12
+- **Zpracováno:** ano
+- **Poznámka:** 9,5 min, ze záznamu (živé vysílání blokováno).
