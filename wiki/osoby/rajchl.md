@@ -218,6 +218,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **9. 10.** — sestřih: ODS „okrádá občany“ (školkovné, sleva na manželku, daň z nemovitostí, valorizace, 135 tis. rodinám) — [Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
 - **11. 10.** — hodnocení voleb: PRO nad průzkumy (Loprais 12,75 %, Skalický, Šorna, Beran), výzva ke sjednocení národně konzervativních stran „po vzoru AfD“, STAN „čiré zlo“, Praha se „stockholmským syndromem“; podpora ANO ve 2. kole senátu (Baránková, Daňhová) → [volby-2026.md](../volby-2026.md); Pavlův let do Maroka jako klientelismus, odebrat apanáž Evě Pavlové → [petr-pavel.md](../petr-pavel.md); nedanit české miliardáře, zdanit zahraniční banky a zbrojaře — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 - **13. 10.** — návrh bodu ve Sněmovně: výzva Pavlovi zveřejnit, kdo platil lety do Maroka; vzor Wulffa (2012), „quid pro quo“ → [petr-pavel.md](../petr-pavel.md) — [Sněmovna: výzva Pavlovi (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--sněmovna-výzva-pavlovi-maroko-13-10-2026)
+- **13. 10. (2)** — pozměňovací návrh k tisku 111: povinná součinnost OČTŘ s vyšetřovacími komisemi (zkušenost z komise k Dozimetru) → [kauzy.md](../kauzy.md); FARA beze změny — [Videoportál: součinnost vyšetřovacím komisím (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-součinnost-vyšetřovacím-komisím-13-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -599,3 +600,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Fanouškovský sestřih: ODS a daně (9. 10. 2026)](../_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
 - [Rajchl — Nedělní vysílání: volby, cestovní agentura Petra Pavla, ruská ropa do USA (11. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 - [Rajchl — Sněmovna: výzva Pavlovi ke zveřejnění úhrady dovolené v Maroku (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--sněmovna-výzva-pavlovi-maroko-13-10-2026)
+- [Rajchl — Videoportál: součinnost OČTŘ vyšetřovacím komisím, FARA (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-součinnost-vyšetřovacím-komisím-13-10-2026)

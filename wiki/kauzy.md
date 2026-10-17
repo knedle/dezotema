@@ -16,7 +16,9 @@ Rajchl naznačuje, že komise může mít dosah přesahující veřejné očeká
 
 > „Věřte mi, že máme na to. [...] Přesto, že vím, že se jedná o velmi citlivé politické téma, že to může ohrožovat dokonce životy a zdraví v této republice, se pouštím do Dozimetru." — Jindřich Rajchl, [FARA/DSA/Dozimetr](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+**13. 10.** — Rajchl oznamuje dohodu s ministerstvem spravedlnosti na pozměňovacím návrhu k novele trestního zákoníku (sněmovní tisk 111). Orgány činné v trestním řízení budou povinny poskytovat „potřebnou součinnost“ sněmovním i senátním vyšetřovacím komisím. Návrh vychází z toho, „na co jsme narazili v naší sněmovní vyšetřovací komisi v rámci kauzy Dozimetr“: komise má oprávnění materiály požadovat, ale v zákoně chybí odpovídající povinnost je vydat, což je „určité právní vakuum“. Novela má zefektivnit i práci všech budoucích komisí; v zahraničí podle něj „vůbec neexistuje možnost“, že by orgán veřejné správy součinnost odmítl.
+
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Videoportál: součinnost OČTŘ vyšetřovacím komisím, FARA (13. 10. 2026)](_zdroje.md#jindřich-rajchl--videoportál-součinnost-vyšetřovacím-komisím-13-10-2026)
 
 ---
 

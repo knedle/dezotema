@@ -12,7 +12,7 @@ Jindřich Rajchl se prohlašuje za autora návrhu českého zákona FARA (inspir
 
 > „Jediné, co chceme, je to, aby ty neziskovky, které mají peníze ze zahraničí, reportovaly tuto skutečnost do speciálního registru. Nic víc, nic míň." — Jindřich Rajchl, [FARA/DSA/Dozimetr](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Videoportál: součinnost OČTŘ vyšetřovacím komisím, FARA (13. 10. 2026)](_zdroje.md#jindřich-rajchl--videoportál-součinnost-vyšetřovacím-komisím-13-10-2026)
 
 ---
 

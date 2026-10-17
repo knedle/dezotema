@@ -5520,3 +5520,11 @@
 - **Datum záznamu:** 2026-10-13
 - **Zpracováno:** ano
 - **Poznámka:** 3 min, projev ve Sněmovně.
+
+## Rajchl — Videoportál: součinnost OČTŘ vyšetřovacím komisím, FARA (13. 10. 2026) {#jindřich-rajchl--videoportál-součinnost-vyšetřovacím-komisím-13-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-13_Jindřich-Rajchl_Videoportál.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/961356280376279>
+- **Datum záznamu:** 2026-10-13
+- **Zpracováno:** ano
+- **Poznámka:** 2,5 min, tisková konference ve Sněmovně. FARA (poděkování Okamurovi, Rajchl autorem původního návrhu) — opakování beze změny.
