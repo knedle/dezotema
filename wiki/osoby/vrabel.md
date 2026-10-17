@@ -1275,6 +1275,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **7. 10.** — energetická krize je umělá (rafinerie, Hormuz, Green Deal), v zimě přijdou úspory — [Zprávy v devět 7. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 - **9. 10.** — v lednu nebude dost plynu, doporučení 21 °C do tří týdnů; „pořiďte si kamna a domek“ — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - **10. 10.** — Trump děkuje Putinovi za ropu, Evropa kupuje od USA čtyřikrát dráž kvůli korupci; Nord Stream koupí Američané — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
+- **10. 10. (Zprávy)** — obrat USA kvůli „petrodolaru“, nákup ruské nafty jako předvolební tah; na 80 % po volbách zase zbraně Zelenskému (→ [predikce](../predikce.md)); Evropa „ekonomická sebevražda“ kvůli korupci — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
 
 ### [Migrace](../migrace.md) (pokrač. 22)
 - **19. 9.** — ukrajinizace ČR (2 mil.), predikce ukrajinské politické strany ve volbách — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1300,6 +1301,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **6. 10.** — studenti jako nástroj převratů; Evropa „páchá harakiri“, „držkopád“; Green Deal a likvidace ropy jako depopulace na 1 miliardu — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 - **8. 10.** — USA připravily válku, „chabad-lubavičská sionistická pyramida moci“, Hitler jako „levoboček Rothschildů“ — [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
 - **9. 10.** — studenti a děti „programovaní“ (voda, AI kód přes TikTok); USA „satanisti“, Rusko má oporu v Chartě OSN; globalistická mafie — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+- **10. 10. (Zprávy)** — Susan Dell jako „ještěr“: neví, ale „třeba to možný je“ (David Icke) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1317,6 +1319,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **6. 10.** — válka „na 99 %“ začne v Pobaltí, vleklá; jaderné obklíčení Ruska, Mrtvá ruka; „zachraň se, kdo můžeš“ — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 - **7. 10.** — USA nepůjdou do války za malé země, Evropa sama; Anchorage jako úskok, o válce rozhodují „lidé v pozadí“ — [Zprávy v devět 7. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-10-2026)
 - **8. 10.** — po Ukrajincích „jsou na řadě Poláci“; Chorvaté „náckové“, Rumuni „se nechají koupit“ — [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+
+### [Volby 2026](../volby-2026.md)
+- **10. 10.** — šok z výsledků („vyhrály STAN a ODS“), Kuba „pravá ruka kmotra Dlouhého“, Budějovice „čistá mafie“ → [volby-2026.md](../volby-2026.md) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
 
 ---
 
@@ -1854,6 +1859,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Filip Turek | ❌ negativní | Výrok „Putin krysa“ jako ukázka válečné propagandy | 2026-10-10 | [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026) |
 | Miloš Zeman | ❌ negativní | Vyznamenal Zelenského Řádem Bílého lva | 2026-10-10 | [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026) |
 | Michal Svatoš | ❌ negativní | Ironie k „haciendě v Srbsku“ | 2026-10-10 | [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | „Největší zrádce svého národa, největší fašista a nacista“; Ukrajina ale „zneužitá“ USA | 2026-10-10 | [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
+| Martin Kuba | ❌ negativní | „Pravá ruka kmotra Dlouhého“, budějovická „čistá mafie“ | 2026-10-10 | [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
+| Susan Dell | ⚖️ rozporuplný | Internet ji řeší jako „ještěra“; Vrabel neví, „plastiky se nepovedly“ | 2026-10-10 | [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
+| David Icke | ○ neutrální | O „ještěrech“ mluví „velmi otevřeně a dlouho“ — „třeba to možný je“ | 2026-10-10 | [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
 
 ---
 
@@ -2020,3 +2029,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 8. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
 - [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
+- [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)

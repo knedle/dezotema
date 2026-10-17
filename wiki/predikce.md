@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — po amerických volbách USA znovu podpoří Zelenského a nákupy ruské ropy skončí (10. 10. 2026)
+
+**Předpověď:** Nákup ruské nafty Spojenými státy je jen předvolební tah; s pravděpodobností „80 %“ se po volbách v USA vše rychle změní a USA budou znovu dodávat zbraně Ukrajině.
+
+> „Typnu si 80 %, že je taková pravděpodobnost, že po volbách se to velmi rychle změní a Spojený státy budou zase dodávat zbraně a zase budou s Volodymyrem Zelenským velký kamarádi.“ — Ladislav Vrabel
+
+**Horizont:** po amerických volbách do Kongresu (3. 11. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
+
+---
+
 ### Pavel Zítko — EBS bude aktivován do 72 hodin, nejpozději před americkými midterms (16. 10. 2026)
 
 **Předpověď:** Systém nouzového vysílání EBS má být aktivován do 72 hodin, podle Zítkova vlastního odhadu nejpozději před volbami do Kongresu v USA. Mají následovat 3–10 „dní temnoty" a přechod na QFS.

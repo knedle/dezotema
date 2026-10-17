@@ -37,6 +37,8 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | Piráti | ❌ negativní | Jindřich Rajchl | „Dostali vypráskáno“, v Praze ze 17 na 9 % | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
 | Martin Gara (PRO, Havířov) | ✅ pozitivní | Jindřich Rajchl | Přes 5 % se samostatnou kandidátkou, „neuvěřitelně poctivý kluk“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
 | Petra Rédová (Senát – Znojmo) | ✅ pozitivní | Jindřich Rajchl | Gratulace k výsledku přes 12 % ve „velmi těžkém obvodě“ | 2026-10-11 | [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026) |
+| STAN, ODS | ❌ negativní | Ladislav Vrabel | „Vyhrály volby“ — Vrabel „totálně v šoku“ | 2026-10-10 | [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
+| Martin Kuba (Naše Česko, České Budějovice) | ❌ negativní | Ladislav Vrabel | „Pravá ruka kmotra Dlouhého“, ukrajinský trojzubec na tričku, budějovická „čistá mafie“ | 2026-10-10 | [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026) |
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
 ---
@@ -88,6 +90,14 @@ Pražany, kteří zvolili STAN („čiré zlo“) i po kauze Dozimetr, popisuje 
 > „Kdekoliv jsme se postavili na jednu kandidátku, tam jsme uspěli.“ — Jindřich Rajchl
 
 **Zdroje:** [Rajchl — Nedělní vysílání 11. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+
+---
+
+### Šok z výsledků: „vyhrály STAN a ODS“, Kuba v Budějovicích jako „pravá ruka kmotra Dlouhého“, „čistá mafie“ (Vrabel, 10. 10. 2026)
+
+Večer po volbách je Vrabel „totálně v šoku“ z výsledků: „vyhrává STAN a ODS… ty asi vyhrály volby“. V Českých Budějovicích podle něj vyhrál Martin Kuba („Naše Česko“), „pravá ruka kmotra Dlouhého“, který „ukazuje na ten trojzubec ukrajinský na tričku“. Budějovickou politiku (tlak na majitelku hokejového klubu) označuje za „naprosto brutální mafii… normálně čistou mafii“ a odkazuje na své články na webu „Pomoc Budějovice“. Ironicky dodává, že je „naprostá pohoda… pojďme do války“. Výsledky spojuje s militarizací: když vidí, „jak dopadly volby“, je asi „bojovat za demokracii potřeba“. Ze zprávy o odsouzeném starostovi, kterého lidé volí znovu, vyvozuje, že i on byl „odsouzen za podvody“, protože za covidu zaškrtl, že firmy nemají dluhy vůči státu.
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
 
 ---
 

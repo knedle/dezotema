@@ -997,3 +997,15 @@ V reakci na divácký dotaz, jak je možné, že rozhodnutí malé menšiny glob
 **25. 9. (TV Bureš)** — S odkazem na „profesora Staňka" Vrabel uvádí, že 1 % lidí vlastní 93 % majetku světa (údaj z doby před pěti lety, dnes prý „mnohem víc") a že covid „byl prostředek pro to, jak přesunout majetek od lidí směrem k těm elitám". Rozpad impéria (konec Bretton Woods, úroky z amerického dluhu přes bilion dolarů ročně) je podle něj „vždycky provázený válkou".
 
 **Zdroje:** [Vrabel — Facebook Live 19. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+
+---
+
+### Susan Dell jako „ještěr“ — Vrabel připouští, že „ještěrky mezi námi“ mohou být (10. 10. 2026)
+
+Ke zprávě o setkání manželů Michaela a Susan Dellových s Trumpem v Bílém domě (program „Trumpových účtů“ pro děti) Vrabel pouští video a upozorňuje, že „celý internet, média po celém světě“ řeší, zda je Susan Dell „ještěr“. Na detailu záběru má podle něj „opravdu divně“ mrkat („jako kdyby mrkala zdola nahoru“); lidé poukazují na široká ramena, hýbající se ohryzek, oči a „ještěří ruce“. Zdůrazňuje, že tím netvrdí, „že Spojené státy ovládají ještěři“, a že to neví. Zároveň ale „ani nemůže říct, že by to tak nebylo“, protože David Icke „o tom mluví velmi otevřeně a velmi dlouho a třeba to možný je, že jsou tady nějaké ještěrky mezi náma“. Svou spolumoderátorku Zuzanu prý „objímal“ a „připadalo mi docela, že to je ženská“. Uzavírá, že „ty její plastiky… se té ještěrce úplně nepovedly“.
+
+> „Neptejte se mě, jestli svět ovládají ještěři nebo ne, protože to nevím.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
+
+---

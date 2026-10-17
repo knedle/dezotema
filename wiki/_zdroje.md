@@ -5560,3 +5560,11 @@
 - **Datum záznamu:** 2026-10-16
 - **Zpracováno:** ano
 - **Poznámka:** 4 min.
+
+## Ladislav Vrabel — Zprávy v devět 10. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-10-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-10_Ladislav-Vrabel_10-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2326951314734280>
+- **Datum záznamu:** 2026-10-10
+- **Zpracováno:** ano
+- **Poznámka:** 49 min, se Zuzanou (spolumoderátorka). Večer po komunálních a senátních volbách.
