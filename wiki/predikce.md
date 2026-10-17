@@ -1328,3 +1328,14 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **Stav:** 🕐 Čeká na vyhodnocení
 **Zdroj:** [ČsTV2 — Interpelace Majerová-Tejc, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
 
+---
+
+### Konspirátor Boldy — mezihvězdné těleso přinese v listopadu „útok" nebo projekt Blue Beam (28. 7. 2025)
+
+**Předpověď:** Nově objevené mezihvězdné těleso (podobné Oumuamua) se přiblíží k Zemi a v listopadu buď dojde k „nějakému útoku", nebo k inscenovanému projektu Blue Beam.
+
+> „Někteří už naznačují, že možná přijde nějaký útok. A nebo to bude jenom projekt Bluebeam. Každopádně uvidíme v listopadu." — Boldy
+
+**Horizont:** listopad 2025
+**Stav:** ❌ Vyvráceno — v listopadu 2025 nedošlo k žádnému útoku ani „projektu Blue Beam"
+**Zdroj:** [Boldy — ChatGPT: Sledují nás a kdo to je? (28. 7. 2025)](_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)

@@ -49,6 +49,8 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Výbuch čtyř sopek v Indonésii a uměle vyvolávaná zemětřesení jako příčina mizení vody — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 - Vodné a stočné stonásobně dražší, WEF „voda není pro všechny", Gates skupuje půdu a vodní práva — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 - Zmizelý vynálezce paliva z plastu jako oběť rafinerií a korporací — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+- ChatGPT „odhaluje" Archonty — sedm nelidských duchovních entit, které nás sledují (Nag Hammádí, Kniha Henochova) — [28. 7. 2025](../_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)
+- Nové mezihvězdné těleso (jako Oumuamua) jako možný „útok" nebo projekt Blue Beam, „uvidíme v listopadu" (→ [predikce](../predikce.md)) — [28. 7. 2025](../_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)
 
 ### [Migrace](../migrace.md)
 - Ceuta jako „plán elit na likvidaci Evropy" — armáda migrantům pomáhá, ne brání; financování Gates/Rockefeller nadacemi; predikce zániku Evropy (Nostradamus, Baba Vanga, do 2050) — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
@@ -129,6 +131,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 
 ## Zpracované zdroje
 
+- [ChatGPT: Sledují nás a kdo to je? (28. 7. 2025)](../_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)
 - [Poděkování za 50K (3. 3. 2026)](../_zdroje.md#konspirátor-boldy--poděkování-za-50-tisíc-sledujících)
 - [Krvavý měsíc a Trump (5. 3. 2026)](../_zdroje.md#konspirátor-boldy--krvavý-měsíc-a-trump)
 - [Facebook Live z Prahy (12. 3. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)

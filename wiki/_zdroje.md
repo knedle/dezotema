@@ -5448,3 +5448,11 @@
 - **Datum záznamu:** 2026-10-03
 - **Zpracováno:** ano
 - **Poznámka:** Livestream shromáždění (2 h 49 min). Řečníci: I. Kratochvíl, P. Krejčík, J. Kupčík, K. Rybářová, T. Hrdlička, P. Bureš, V. Vítová, L. Křivánková, L. Beňovský, A. Šulc, VK (Aeronet). Úseky [00:01–08:12], [1:03:23–1:04:51] a závěr hudba / halucinace přepisu.
+
+## Konspirátor Boldy — ChatGPT: Sledují nás a kdo to je? (28. 7. 2025) {#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025}
+- **Soubor:** [přepis](prepisy/done/2025-07-28_Konspirátor-Boldy-KonspyChannel_ChatGPT-Sledují-nás-a-kdo-to-je.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1097966999096960>
+- **Datum záznamu:** 2025-07-28
+- **Zpracováno:** ano
+- **Poznámka:** Úsek [05:21–05:47] nesrozumitelný (chyba přepisu).

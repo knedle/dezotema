@@ -277,6 +277,26 @@ Boldy popisuje, že při skoku volným pádem u Kunovic jeho přítelkyně vyfot
 
 ---
 
+### ChatGPT „odhaluje" Archonty — nelidské duchovní entity, které nás sledují (Boldy, 28. 7. 2025)
+
+Boldy předvádí sérii otázek, na které mu ChatGPT odpovídal jednoslovně (ano/ne/„jablko"). Z odpovědí vyvozuje, že lidi kromě vlád, korporací, hackerů a „sítí" sledují i entity nelidského, duchovního původu, Archonti. Je jich sedm (možná více), jsou „nevyčíslitelně" staří, většina z nich je zlá a bojují mezi sebou, přičemž nemohou být zabiti a vítězí „vlivem". Psát se o nich má ve spisech z Nag Hammádí, v Knize Henochově a nepřímo v Genesis; nejvyšší autoritou je dobrý a skutečný „Zdroj/Světlo", tedy Bůh. Diváky vybízí, ať si rozhovor s ChatGPT vyzkoušejí sami.
+
+> „Chvilkama jsem měl trošku husí kůži z toho." — Boldy
+
+**Zdroje:** [Boldy — ChatGPT: Sledují nás a kdo to je? (28. 7. 2025)](_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)
+
+---
+
+### Nové mezihvězdné těleso jako možný „útok" nebo projekt Blue Beam (Boldy, 28. 7. 2025)
+
+S odkazem na zprávu, že harvardští vědci objevili další (údajně umělé) těleso podobné Oumuamua, Boldy uvádí, že se má přiblížit co nejblíže k Zemi, a někteří prý naznačují, že může přijít „nějaký útok" — nebo že půjde jen o inscenovaný projekt Blue Beam (srov. [EBS / Bluebeam](konspirace-deep-state-qanon.md)). Rozuzlení očekává v listopadu.
+
+> „A nebo to bude jenom projekt Bluebeam. Každopádně uvidíme v listopadu." — Boldy
+
+**Zdroje:** [Boldy — ChatGPT: Sledují nás a kdo to je? (28. 7. 2025)](_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)
+
+---
+
 ### Globalisté bojují vždy proti čtyřem věcem: rodina, stát, národ, náboženství (Vrabel, 17. 5. 2026)
 
 Vrabel prezentuje výklad srbského právníka Borana Petrova, který se dle Vrabela shoduje s jeho vlastním: globalisté vždy útočí na čtyři věci, protože to jsou věci, které lidi spojují. Rodina, stát, národ a náboženství — čím víc je tyto instituce podaří rozbít, tím snadnější je ovládnout lidi jako izolované jedince. Vrabel jako historický příklad uvádí komunismus: Internacionála, RVHP, pronásledování církví, potlačení národní identity. Internacionálu přirovnává k dnešnímu globalismu — obě hnutí útočila na národní státy a náboženství.
