@@ -221,6 +221,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **13. 10. (2)** — pozměňovací návrh k tisku 111: povinná součinnost OČTŘ s vyšetřovacími komisemi (zkušenost z komise k Dozimetru) → [kauzy.md](../kauzy.md); FARA beze změny — [Videoportál: součinnost vyšetřovacím komisím (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-součinnost-vyšetřovacím-komisím-13-10-2026)
 - **14. 10.** — Maroko: platil Pavel, Orlen, nebo někdo jiný? Prokázat úhradu, „anebo rezignovat“ jako Wulff; kritici „libtardi a nohsledi“ → [petr-pavel.md](../petr-pavel.md) — [„Pomyslný granát“ (14. 10. 2026)](../_zdroje.md#jindřich-rajchl--pomyslný-granát-pavel-maroko-14-10-2026)
 - **15. 10.** — neúčast u voleb jako „úmysl“, ne chyba; Pavel podruhé v reklamě (Alpine Pro, Orlen); precedent Grosse a Wulffa → [petr-pavel.md](../petr-pavel.md) — [„Tak si to zrekapitulujme“ (15. 10. 2026)](../_zdroje.md#jindřich-rajchl--tak-si-to-zrekapitulujme-15-10-2026)
+- **16. 10.** — Pavlovo vysvětlení „nedostatečné“; ochranka 3 750 € na osobu z daní → žádost podle zákona 106; „papalášství“ a pokrytectví „člověka z lidu“ → [petr-pavel.md](../petr-pavel.md) — [Rozhovor CNN/Nova: Maroko (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -471,6 +472,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Christian Wulff | ○ neutrální | Příklad německého prezidenta, který 2012 rezignoval kvůli dovoleným placeným spřízněnými subjekty | 2026-10-13 | [Sněmovna: výzva Pavlovi (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--sněmovna-výzva-pavlovi-maroko-13-10-2026) |
 | Petr Pavel | ❌ negativní | Má prokázat, kdo platil lety do Maroka (Orlen?), „anebo rezignovat“ | 2026-10-14 | [„Pomyslný granát“ (14. 10. 2026)](../_zdroje.md#jindřich-rajchl--pomyslný-granát-pavel-maroko-14-10-2026) |
 | Stanislav Gross | ○ neutrální | Precedent — odstoupil, když nedokázal vysvětlit původ milionu | 2026-10-15 | [„Tak si to zrekapitulujme“ (15. 10. 2026)](../_zdroje.md#jindřich-rajchl--tak-si-to-zrekapitulujme-15-10-2026) |
+| Petr Pavel | ❌ negativní | „Papalášství“, pokrytec prezentující se „jako člověk z lidu“; vysvětlení úhrady „nedostatečné“ | 2026-10-16 | [Rozhovor CNN/Nova: Maroko (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026) |
 
 ---
 
@@ -607,3 +609,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Videoportál: součinnost OČTŘ vyšetřovacím komisím, FARA (13. 10. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-součinnost-vyšetřovacím-komisím-13-10-2026)
 - [Rajchl — „Pomyslný granát“: Pavel má prokázat úhradu, nebo rezignovat (14. 10. 2026)](../_zdroje.md#jindřich-rajchl--pomyslný-granát-pavel-maroko-14-10-2026)
 - [Rajchl — „Tak si to zrekapitulujme“: Pavel, Maroko a Orlen (CNN Prima News, 15. 10. 2026)](../_zdroje.md#jindřich-rajchl--tak-si-to-zrekapitulujme-15-10-2026)
+- [Rajchl — Rozhovor pro CNN Prima News a TV Nova: „papalášská cesta“ Pavla do Maroka (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026)

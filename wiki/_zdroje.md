@@ -5544,3 +5544,11 @@
 - **Datum záznamu:** 2026-10-15
 - **Zpracováno:** ano
 - **Poznámka:** 2,5 min, sestřih z debaty na CNN Prima News (vstupuje moderátor).
+
+## Rajchl — Rozhovor pro CNN Prima News a TV Nova: „papalášská cesta“ Pavla do Maroka (16. 10. 2026) {#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-16_Jindřich-Rajchl_Dnes-jsem-poskytl-rozhovor-CNN-Prima-News-a-TV-Nova-n.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1713829746377498>
+- **Datum záznamu:** 2026-10-16
+- **Zpracováno:** ano
+- **Poznámka:** 6 min, novinářské dotazy (CNN Prima News, TV Nova).
