@@ -5576,3 +5576,11 @@
 - **Datum záznamu:** 2026-10-11
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 50 min, monolog s dotazy z chatu; sdílená videa protestů v Evropě ([36:08–42:05], část zvuku zkomolená).
+
+## Ladislav Vrabel — Zprávy v devět 12. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-12-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-12_Ladislav-Vrabel_12-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1407471754922297>
+- **Datum záznamu:** 2026-10-12
+- **Zpracováno:** ano
+- **Poznámka:** 47 min, zprávy čte Zuzana. Úsek [31:11–31:21] (pasáž o Tuskovi) v přepisu chybí.

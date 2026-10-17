@@ -1236,7 +1236,9 @@ Vrabel ohlašuje nástupnickou akci svého hnutí „Česká republika na první
 
 Vrabel si stěžuje, že výzva proti jadernému vyzbrojení „neoslovila české vlastence“ a pozornost na sebe strhlo až zatčení Blahníkové (jeho video před stanicí mělo podle něj 400–500 tisíc zhlédnutí). Pouští rozhovor Petra Hájka s Michalem Svatošem (Protiproud), kde zaznělo, že na shromáždění přišlo „pár desítek lidí“, že si Vrabel „staví haciendu v srbských horách“ a přijel kvůli volbám, a Svatoš ho přirovnal k Pavlovi. Vrabel to označuje za „lež“: přišlo podle něj nejméně 500 lidí, výzvu podepsalo přes 300 a hnutí ve volbách nekandiduje, což oba pozvaní věděli. Hájka popisuje jako bývalého „politruka“ Květů z roku 1985, poradce Václava Klause napojeného přes Klausův institut na Macinku, jehož Protiproud je dnes „provládní médium“ (spekuluje o příjmech z prodeje čínských léků). Odmítá i výtku Svobodného rádia (podle něj „rádia SPD“), že by „pracoval s vládou Fialy“. Sarkasticky komentuje tvrzení Vladimíra Štěpána, že byl v roce 2022 domluven s Fialovou vládou na koalici a „klíčových ministerstvech“, které padly jen proto, že Vrabel neudělal další demonstraci s odborníky. Podle Vrabela tehdy existovala nabídka založit stranu ČR na 1. místě s penězi „přes Radima Fialu“ pod podmínkou, že v ní nebude on.
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026)
+**12. 10.** — Okamurovu výzvu, aby EU jednala s Ruskem o míru, Vrabel označuje za „blbost“: EU stojí na straně Ukrajiny, a kdo ji k jednání vyzývá, ve skutečnosti „bojuje za Ukrajinu“. Připomíná, že jeho shromáždění 3. 10. žádalo zřídit funkci mírového vyjednavače ČR, kterého vláda ignoruje. Okamurovi vyčítá, že v Srbsku vyzýval Srby ke vstupu do EU: „Od Tomia Okamury jsem ještě nikdy neslyšel žádnou chytrou větu… to je asi tolik Tomiovi Okamurovi a jeho obrovské japonské mozkovně.“ Jako protiklad chválí Ivana Davida (SPD).
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026), [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026)
 
 ---
 

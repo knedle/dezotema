@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — do amerických voleb „euforie“, pak obrat (12. 10. 2026)
+
+**Předpověď:** Následující 2–3 týdny do amerických voleb budou ve znamení „euforie“, že vše jde správným směrem; poté se situace změní (navazuje na predikci z 10. 10.).
+
+> „Teď budeme mít všichni pocit tři týdny, že se všechno ubírá správným směrem. Stejně tak, jako jsme měli před posledními americkými volbami.“ — Ladislav Vrabel
+
+**Horizont:** americké volby do Kongresu (3. 11. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026)
+
+---
+
+### Ladislav Vrabel — Evropa půjde do války; tvrdé postihy pro ty, kdo nestojí za Ukrajinou; Polsko „na řadě“ kolem přelomu roku (12. 10. 2026)
+
+**Předpověď:** Válce Evropy s Ruskem se podle něj téměř nedá zabránit. Proti lidem, kteří nejsou na straně Ukrajiny, „začnou přicházet tvrdé postihy“ a Polsko je „další na řadě“, s prvními změnami kolem přelomu roku 2026/27.
+
+> „Říkám vám, že Polsko je další na řadě a nemyslím si, že to bude trvat dlouho… osobně bych viděl, že jako někdy na přelomu roku, že už by se mohly nějaké věci začít měnit.“ — Ladislav Vrabel
+
+**Horizont:** přelom roku 2026/27; jinak neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026)
+
+---
+
 ### Ladislav Vrabel — „otázka času“, kdy bude opozice v ČR rozprášena a ukrajinský scénář se přesune do ČR (11. 10. 2026)
 
 **Předpověď:** Likvidace politické opozice v ČR je „otázka času“ a to, „co se stalo na Ukrajině“, se posune do ČR.

@@ -980,4 +980,6 @@ Vrabel tvrdí, že Babiš porušením slibu zrušit muniční iniciativu (po sum
 
 **4. 10.** — Vrabel zrádu ilustruje podobenstvím o indiánském kmeni, jehož „náčelník ze Slovenska" (Babiš) podvedl lid kvůli byznysu s „americkými kmeny" a dohodl se s „náčelníkem z Francie" na jaderných zbraních — „spravedlivý kmen" by ho podle Vrabela přivázal ke kůlu a mučil (viz [Stochastický teror](stochasticky-teror.md)).
 
-**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026)
+**12. 10.** — K výrobě dronů „Charlie One“ v Plzni, kterou propaguje Karel Řehka, Vrabel tvrdí, že „obranný dron“ je nesmysl, protože drony slouží k doručování náloží „hluboko do Ruska“: „to může vymyslet zase jenom takový zelený mozek, jako je Karel Řehka“. Výroba podle něj udělá z Plzně cíl raket a sarkasticky připomíná, že Plzeňáci jsou na bombardování zvyklí z války.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026)

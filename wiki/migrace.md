@@ -830,4 +830,6 @@ K protimigračním protestům v Irsku Vrabel připomíná, že migraci v letech 
 
 > „Nepodařilo se to kvůli takovým lidem, jako je Tomio Okamura. Ti se na tom jenom napakovali." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026)
+**12. 10.** — Ke zprávě, že Babišova vláda udělila dlouhodobý pobyt více Ukrajincům než Fialova, Vrabel ironizuje, že Babiš „urychluje příchod připrchlíků“. Od ledna (migrační pakt) bude podle něj „urychlovat příchody z Afriky… tak jak si to hezky vymyslela Kačenka z Nového Jičína“ (Kateřina Konečná). Přicházející pracovní migranty zesměšňuje rasovými stereotypy: „inženýra poznáte tak, že má v ruce buď kyselinu, nebo bombu, lékaře tak, že má v ruce skalpel“, řidiče tak, že „vjede do davu“, a obecně o „každém, kdo má odstín barvy pleti trošku tmavší, než je tamhle ten kousek dřeva“ (viz [Stochastický teror](stochasticky-teror.md)). Lidé, kterým se to nelíbí, budou podle něj „potlačováni“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026), [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026)
