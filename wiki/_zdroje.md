@@ -5528,3 +5528,11 @@
 - **Datum záznamu:** 2026-10-13
 - **Zpracováno:** ano
 - **Poznámka:** 2,5 min, tisková konference ve Sněmovně. FARA (poděkování Okamurovi, Rajchl autorem původního návrhu) — opakování beze změny.
+
+## Rajchl — „Pomyslný granát“: Pavel má prokázat úhradu, nebo rezignovat (14. 10. 2026) {#jindřich-rajchl--pomyslný-granát-pavel-maroko-14-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-14_Jindřich-Rajchl_Včera-jsem-tady-ve-sněmovně-odpálil-pomyslný-granát-s.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1651815529806728>
+- **Datum záznamu:** 2026-10-14
+- **Zpracováno:** ano
+- **Poznámka:** 2,5 min; pozvánka do debaty na CNN Prima News (360°).
