@@ -100,6 +100,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **10. 10.** — kurz „je to on, není to on“; dvojník prezidenta USA → proč ne Čermák nebo Pavel („natažená maska“) — [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
 - **12. 10.** — „údajný“ Čermák nedorazil, „17 důvodů, proč to není Čermák“ (s Hradilem); chemtrails/HAARP/5G jako „počasí jako zbraň“ (Kamil z Prešova) — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 - **14. 10.** — nový falešný profil „Tomáš Kvatro Čermák 2026“ (zelené pivo v říjnu), Turkova smazaná fotomontáž, 17× „jakoby“ v Naxerově videu, Šišáková s pražským mostem; orgonitová děla (Aerot) — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
+- **14. 10. (2)** — podmíněné propuštění bylo podle policejního prezidia „předem vyloučeno“ (nenástup do výkonu trestu), přesto k němu došlo — [Proč by to divadlo v Liberci hráli?](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -478,3 +479,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Setkání Čechoslováků ve Frýdku-Místku: zahájení (10. 10. 2026)](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
 - [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 - [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
+- [ČsTV2 — Proč by to divadlo 24. 9. v Liberci hráli? (14. 10. 2026)](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)

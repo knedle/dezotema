@@ -5480,3 +5480,11 @@
 - **Datum záznamu:** 2026-10-14
 - **Zpracováno:** ano
 - **Poznámka:** 17,5 min, ze záznamu.
+
+## ČsTV2 — Proč by to divadlo 24. 9. v Liberci hráli? (14. 10. 2026) {#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-14_Československo-TV2_1410-PROČ-BY-TO-DIVADLO-249-V-LIBERCI-HRÁLI-PROTO.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1145463317834650&_rdr>
+- **Datum záznamu:** 2026-10-14
+- **Zpracováno:** ano
+- **Poznámka:** 7 min, ze záznamu. Úsek [01:53–06:56] poškozen (smyčka „A teď se to vytvořilo"), hlavní vysvětlení chybí.
