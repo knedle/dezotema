@@ -5608,3 +5608,11 @@
 - **Datum záznamu:** 2026-10-15
 - **Zpracováno:** ano
 - **Poznámka:** 41 min, zprávy čte Zuzana. Sdílené video protestů v Evropě [17:04–18:01] bez zvuku.
+
+## Ladislav Vrabel — Večerní zprávy 16. 10. 2026 {#ladislav-vrabel--večerní-zprávy-16-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-16_Ladislav-Vrabel_16-10-2026-Večerní-zprávy-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1450404117196014>
+- **Datum záznamu:** 2026-10-16
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 3 min, zprávy čte Zuzana, režie Ivan. Krátká sdílená videa (Trump, Istanbul, Albánie).

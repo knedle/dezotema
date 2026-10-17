@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — do roka hrozí v ČR „tlak zdola“ a terorismus ze strany Ukrajinců (16. 10. 2026)
+
+**Předpověď:** Pokud by ČR omezila podporu Ukrajiny (např. zrušila muniční iniciativu), může do roka přijít „tlak zdola“ až terorismus ze strany (zčásti ozbrojených) Ukrajinců v ČR.
+
+> „Za rok, jak se ta situace postupně mění, možná už to nebude tak jednoduchý udělat. Protože možná už tam bude tlak nejenom ze strany Evropské unie, ale může tam být taky tlak zdola. Taky jako myslím třeba na nějaký terorismus nebo na něco takovýho. To se může stát na území České republiky.“ — Ladislav Vrabel
+
+**Horizont:** do října 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
+
+---
+
+### Ladislav Vrabel — EU rozloží občanská válka; Ukrajina bude „velmi rychle“ v EU a bude řídit evropské armády (16. 10. 2026)
+
+**Předpověď:** Evropskou unii nakonec rozloží občanská válka; Ukrajina se velmi rychle stane členem EU a bude trénovat a částečně řídit evropské armády; rozkol USA–EU je sehraný, aby do války šla Evropa.
+
+> „Osobně si myslím, a říkám to už 20 let, že to nakonec k rozpadu Evropské unie povede, protože v Evropě bude občanská válka. […] Takže Ukrajina bude součástí Evropské unie velmi rychle. […] Ukrajina bude trénovat. A částečně řídit naše armády.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
+
+---
+
 ### Ladislav Vrabel — Vučić vyhraje srbské volby (80:20); Fico je „na řadě“ k odstranění (15. 10. 2026)
 
 **Předpověď:** Aleksandar Vučić vyhraje nadcházející srbské volby s pravděpodobností 80 %; Robert Fico bude dalším „zlikvidovaným“ suverenistou.

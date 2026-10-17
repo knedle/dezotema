@@ -1017,3 +1017,11 @@ Ke zprávě, že Musk vyzval Zelenského k odchodu, Vrabel tvrdí, že „Starga
 **Zdroje:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
 
 ---
+
+### „Hybridní válka počasím“ — USA manipulují počasí ve všech státech; záplavy v Istanbulu (Vrabel, 16. 10. 2026)
+
+Ke zprávě o záplavách v Istanbulu (4 oběti) Vrabel tvrdí, že v Íránu „50 let nepršelo“ a začalo pršet, až když Íránci sestřelili americký „radar“. „Řekněte mi, že Američani nekontrolujou a nemanipulují počasí ve všech státech světa. Všechny ty zemětřesení, chemtrails, to, co na nás sypou, sucha, povodně. Řekněte mi, že v tom nemají prsty.“ Istanbulské záplavy podle něj nebyly přírodní, ale „nějaká hybridní válka skrze počasí, kterou dělají Spojené státy, respektive globalisti“. Sám dodává: „Nemám pro to žádný důkaz, je to jenom něco, co si myslím.“
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
+
+---

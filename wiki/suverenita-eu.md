@@ -170,7 +170,9 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 > „Viktor Orbán… ten už byl zlikvidován. […] Robert Fico je podle mě na řadě.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
+**16. 10.** — Na Babišův výrok, že „Trump nás podrazil“ dohodou s Putinem o ruských palivech, Vrabel odpovídá, že Trump podrazil všechny tím, že „řekl, že bude mírovým prezidentem… a mezitím rozjíždí nové obrovské války“. Dohodou o ruské ropě ale nepodrazil, „protože to je to, co my vám tady říkáme od roku 2022“. Babiš podle něj místo výzvy z Malostranského náměstí (ČR jako zprostředkovatel míru) přenechává mír EU, která „žádný mír nechce“, a dostává od něj „pětku“. Fica, který odjel ze summitu podpořit Vučiće, chválí: „takhle se má dělat politika“. Babiš je naopak „Slovák, který ani neumí česky“ a „měl vždycky zastupovat jenom Slovensko“. Okamura podle něj v Srbsku přemlouval politiky ke vstupu do EU, což je „podřízenost globálním strukturám“. V Srbsku „to, co Srbové vydělají, zůstává doma“, ČR to „odvádí na Ukrajinu, do USA nebo do EU“. K neshodě o rozpočtu EU říká, že se lídři stejně dohodnou, ale EU nakonec rozloží občanská válka, „říkám to už 20 let“. ČR by proto měla vystoupit dřív, „protože každý rozpad takhle velkého celku doprovází většinou spousta krve“. Rozkol USA–EU je podle něj sehraný, aby „do té války šla Evropa, a ne Spojené státy“. Babiš se přiklonil k EU kvůli chemičkám v Německu a dotacím Agrofertu. Ukrajina bude „součástí EU velmi rychle“ a „bude trénovat a částečně řídit naše armády“.
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026), [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
 
 ---
 

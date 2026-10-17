@@ -42,6 +42,9 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | ODS, STAN | ❌ negativní | Ladislav Vrabel | „Mafiánské strany“, lidé volí „nové hajzly a ještě horší“ | 2026-10-11 | [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
 | Petr Drulák (prezidentská kandidatura 2028, Svatopluk) | ❌ negativní | Ladislav Vrabel | „Absolutní elitář“, „protekční děcko“, Svatopluk je jeho kampaň od 2022 | 2026-10-11 | [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
 | Zuzana Majerová | ❌ negativní | Ladislav Vrabel | Slibovala referendum o vystoupení z EU, „neudělala ani čárku“ | 2026-10-11 | [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026) |
+| Jana Zwyrtek Hamplová (senátorka) | ❌ negativní | Ladislav Vrabel | Po demonstraci 3. 9. se distancovala, „zobchodovala to“, „obrovské zklamání“ | 2026-10-16 | [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026) |
+| senátorka Kovářová | ✅ pozitivní | Ladislav Vrabel | „Snad jediný normální senátor“ | 2026-10-16 | [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026) |
+| Ivan David (europoslanec) | ✅ pozitivní | Ladislav Vrabel | „Jediný normální europoslanec“ | 2026-10-16 | [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026) |
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
 ---
@@ -113,6 +116,14 @@ Na dotaz z chatu označuje platformu Svatopluk za podporu prezidentské kandidat
 > „Celý Svatopluk je podpora Petra Druláka do prezidentských voleb. Od roku 2022, kdy to vzniklo.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Nedělní vysílání 11. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
+
+---
+
+### Nízká účast ve 2. kole Senátu: politici z protestů se „otočili“ kvůli funkcím; Hamplová „to zobchodovala“ (Vrabel, 16. 10. 2026)
+
+Nízkou účast ve 2. kole senátních voleb Vrabel vysvětluje tím, že řečníci z protestů let 2021–2023 se „otočili“ a kandidují kvůli funkcím: „Všichni jsou ochotní jít s Babišem… s Evropskou unií… s NATO… proti Rusku… s globalisty, jenom aby měli nějakou funkci.“ Výjimkou jsou senátorka Kovářová („snad jediný normální senátor“) a europoslanec Ivan David („jediný normální“). Popisuje zákulisí demonstrace 3. 9.: senátorka Jana Zwyrtek Hamplová ho prý s pláčem prosila, aby směla demonstraci zakončit, a lobboval za ni i Rajchl. Druhý den se ale od účastníků distancovala, protože zprávy mluvily o „proruských kolaborantech“, a v Senátu nic neprosazovala: „ta to zobchodovala“, „obrovské zklamání“. Kladně zmiňuje energetického odborníka Ivana „Noveského“, „Vladimíru Výtovou“ a Davida Tesáře, kteří se „nezkazili“. Ke zprávě, že Zelenskyj žádá 70 mld. eur, dodává, že Babiš „zvedne pravačku, odmává dalších 70 miliard“ a „Češi to v klidu zaplatí“.
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
 
 ---
 
