@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — EBS bude aktivován do 72 hodin, nejpozději před americkými midterms (16. 10. 2026)
+
+**Předpověď:** Systém nouzového vysílání EBS má být aktivován do 72 hodin, podle Zítkova vlastního odhadu nejpozději před volbami do Kongresu v USA. Mají následovat 3–10 „dní temnoty" a přechod na QFS.
+
+> „Systém nouzového vysílání Emergency Broadcast System EBS bude aktivován během následujících 72 hodin. […] Mělo by to být do poločasových voleb v USA. Takhle aspoň to cítím a vnímám." — Pavel Zítko (čte přeposlanou zprávu, druhá věta je jeho vlastní)
+
+**Horizont:** do 19. 10. 2026; nejpozději americké midterms (3. 11. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026)](_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
+
+---
+
 ### Pavel Zítko — blíží se blackout nebo jiné „překvapení“ (10. 10. 2026)
 
 **Předpověď:** Brzy (možná už cestou domů ze setkání) má přijít blackout nebo jiné „překvapení“; přesné datum prý zná jen asi deset lidí na světě.

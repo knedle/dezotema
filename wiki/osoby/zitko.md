@@ -53,6 +53,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **6. 10.** — ivermektin „nedostupný“, účinný proti rakovině; nabízí dodavatele — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 - **12. 10.** — výročí vlastních kauz (Postoloprty, propuštění z vězení, vrácené telefony od NCTEKK); návod na obranu dětí před „koktejlem jedů v injekcích“ (Galerie pravdy) — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 - **14. 10.** — BEWIT a molekula C60: „stoprocentní prodloužení věku v klinických studiích“ — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
+- **16. 10.** — C60 i pro očkované, „aby se dožili med beds“ (frekvenční léčba), kvantový telefon — [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -102,6 +103,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **14. 10.** — nový falešný profil „Tomáš Kvatro Čermák 2026“ (zelené pivo v říjnu), Turkova smazaná fotomontáž, 17× „jakoby“ v Naxerově videu, Šišáková s pražským mostem; orgonitová děla (Aerot) — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 - **14. 10. (2)** — podmíněné propuštění bylo podle policejního prezidia „předem vyloučeno“ (nenástup do výkonu trestu), přesto k němu došlo — [Proč by to divadlo v Liberci hráli?](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)
 - **15. 10.** — Šalingrad/Bernardy nic nemění, „vyražte do Holíšova“; Bernardy a Černohorský „tvrdí totéž“; jen konfrontace naživo; „20 Trumpů“; vydírání jako ovládací mechanismus politiků — [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
+- **16. 10.** — propuštění má „vylákat a zavřít“ pravého Čermáka („nevylejzej… čekáme tě na tanku s Prigožinem“); DNA/biometrie; rozsudky „napsány dopředu“; seznam „mediálních hrobníků“ (Bernardy, Černohorský, Rajchl, Tarabová, Tušl, manželé z Jablonce…) — [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -181,6 +183,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **6. 10.** — doplatky faktur → arbitráž a insolvence „korporace Česko/Slovensko“ — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 - **10. 10.** — volby „do korporátních orgánů, nikoliv do státních“, „není koho volit“; blíží se blackout/„překvápko“, datum zná jen ~10 lidí (→ [predikce](../predikce.md)) — [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
 - **15. 10.** — Klaus kandidoval 1992 do FS, ne do ČNR (Hlásenský) → podvodné rozdělení funkcí; „korporaci Česko“ mohou prodat předluženou „třeba na Ukrajinu“; rekapitulace ČSR argumentů — [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
+- **16. 10.** — „krádež identity“: Popelka a Dora, 200 000 dvojníků, 20 Trumpů/Putinů, JD Vance = Paul Walker; EBS do 72 hodin / před midterms, 3–10 dní temnoty, QFS (→ [predikce](../predikce.md)); kritici jako „hmyz“, na něž „bude myšleno“ (→ [stoch. teror](../stochasticky-teror.md)) — [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -374,6 +377,15 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Renata Bernardy | ❌ negativní | Vysílala s „údajným“ Čermákem; má prý „zpravodajské informace“ o falešném profilu | 2026-10-15 | [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026) |
 | Jiří Černohorský | ❌ negativní | „Zvláštní“, že s Bernardy shodně tvrdí, že profil „Politický vězeň Čermák“ je pravý | 2026-10-15 | [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026) |
 | Václav Klaus | ❌ negativní | Kandidoval 1992 do FS, ne do ČNR — s Mečiarem „roztrhl“ ČSR podvodem | 2026-10-15 | [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026) |
+| Renata Bernardy | ❌ negativní | Zařazena mezi „mediální hrobníky“; tvrdí prý, že za covidu bral 400 tis./měs.; TV Šalingrad jako „sekta“ | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Ivan Masaryk | ❌ negativní | „Hmyz“, na který „bude myšleno“ v závěru vojenské operace (→ [stoch. teror](../stochasticky-teror.md)) | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Jindřich Rajchl | ❌ negativní | „Korporátník“ mezi těmi, kdo ho „mediálně pohřbili“; kanál mu nenabídl | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Lenka Tarabová | ❌ negativní | Mezi „mediálními hrobníky“; za falešným profilem má stát její „údajný přítel“ Dan Novas | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Patrik Tušl | ❌ negativní | „Ochotně naskočil ve zvracení na Zítka“, nosí tričko „Česko, ne Československo“ | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Jiří Černohorský | ❌ negativní | „Jedenáctiletý“, první z „mediálních hrobníků“; jeho omluva „nedůvěryhodná“ | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Pavel Novotný | ❌ negativní | Za výzvy „k zabíjení žen a dětí“ dostal jen 3 měsíce; „vyslán“ do Liberce potvrdit Čermáka | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Jana Peterková | ✅ pozitivní | Zdarma mu zapůjčila kanál pro živé vysílání | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
+| Tomáš Čermák („pravý“) | ✅ pozitivní | „Zůstaň v bezpečí… tvůj čas teprve přijde“ — čekají ho „na tanku s Prigožinem nebo Kadyrovem“ | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
 | Bob Acer | ⚖️ rozporuplný | Přednesl „přesně a exaktně“ část o ČSR, ale sdílí fotomontáže „hry na Čermáka“ | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
 | Petr Pavel | ❌ negativní | „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka | 2026-10-10 | [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026) |
 
@@ -486,3 +498,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 - [ČsTV2 — Proč by to divadlo 24. 9. v Liberci hráli? (14. 10. 2026)](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)
 - [ČsTV2 — Proč jsme stále Československo: nej argumenty (15. 10. 2026)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
+- [ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)

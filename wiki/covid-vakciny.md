@@ -645,7 +645,9 @@ Zítko na setkání ve Frýdku-Místku propagoval produkty sponzorující firmy 
 
 ⚡ **Poznámka:** Jde o propagaci sponzora; údaj o „stoprocentním prodloužení věku“ Zítko nedokládá konkrétní studií (prodloužení života u C60 bylo hlášeno jen ve sporné studii na potkanech z roku 2012).
 
-**Zdroje:** [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
+**16. 10.** — Zítko doporučuje C60 jako „karbon elixír" i očkovaným, „aby to nebylo chybně interpretováno, že Zítko snad má něco proti zaočkovaným". Mají se tak „zdárně dožít těch dlouho očekávaných med beds", lůžek, která budou léčit „na bázi frekvencí", nejen terahertzových, jaké nabízel „Fénovič". Bude to podle něj „doslova revoluce v medicíně" spolu s kvantovým finančním systémem a „kvantovým telefonem".
+
+**Zdroje:** [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026), [ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026)](_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
 
 ---
 

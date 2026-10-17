@@ -5496,3 +5496,11 @@
 - **Datum záznamu:** 2026-10-15
 - **Zpracováno:** ano
 - **Poznámka:** 17 min, ze záznamu. Rekapitulace ČSR argumentů a falšování voleb (HP/ESET) beze změny.
+
+## ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026) {#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-16_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném profilu „Jana Peterková Official 3")
+- **URL:** <https://m.facebook.com/watch/?v=1796347068068586&_rdr>
+- **Datum záznamu:** 2026-10-16
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 36 min, mluví Pavel Zítko. Nezpracováno: nová platforma alternativních médií mimo Facebook, „pravda není věcí většiny" (opakování).
