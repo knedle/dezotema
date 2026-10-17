@@ -1,0 +1,983 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/1116039844322969
+Datum videa:  2026-09-20
+Zpracováno:   2026-09-21 18:46:11
+Jazyk:        cs
+Délka:        00:39:32
+Popis:        Ohrožuje naši bezpečnost dialog s protistranou nebo silácká gesta se samopalem v ruce?
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    20s
+Přepis:       7m 0s
+Rychlost:     5.6x realtime
+Celkem:       7m 20s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:11] Krásný dobrý podvečer, dámy a pánové, zdravím vás u svého pravidelného nedělního živého vysílání
+[00:18] a dnes v podstatě s jediným tématem, které bude dominovat tomuto mému vystoupení.
+[00:27] A tím je právě ten skandal v vozovkách, který se rozhořel okolo konference pořádané spolkem Svatopluk,
+[00:37] mezinárodní konference, které se účastnili zástupci celé řady států celého světa.
+[00:42] Mezi nimi také vystoupil online šef-redaktor jednoho z ruských médií Fyodor Lukyanov.
+[00:51] Seznam zprávy v čele s hlavním rusobýcem a ukrajinofilem Lukášem Valáškem
+[00:58] se z toho snažili s této události učinit prvotřídní senzaci
+[01:03] a k tomu se samozřejmě připojil předseda ODE.
+[01:07] ODE je nejslabší předseda v historii této kdysi velké a slavné strany
+[01:11] a podle mojí názoru nejslabší politik v polistoporovém období vůbec Martin Kupka.
+[01:19] Když mi na své sociální síti silácky vzkázal, že by mě měl Babiš poslat za Ural
+[01:26] a že jsem putinovým hlasem v České republice.
+[01:31] Já bych si chtěl dovolit reagovat na tyto komentáře.
+[01:37] Na tyto výstupy, které jsou samozřejmě v očích racionálně smýšlejcích lidí
+[01:42] naprosto směšnými výkřiky, ještě nemají s realitou v dnešní době vůbec nic společného.
+[01:49] Realita dnešní doby je taková, že Evropa se snaží ukazovat svaly, které už dávno nemá.
+[01:57] Momentálně jsme se dostali do stavu, kdy nám Saudská Arábie zastavila kohoutky,
+[02:04] celé řadě rafinerí, oznámila, že nebude plnit své závazky.
+[02:09] Kdy Evropa trpí zásadním nedostatkem plynu.
+[02:14] My v České republice máme zdaleka nejméně naplněné zásobníky za poslední roky,
+[02:19] protože ten plyn prostě není a je příliš drahý, když už je.
+[02:24] A v momentě, kdy Polsko a Francie má snížený rating od mezinárodních agentůr,
+[02:31] v momentě, kdy na každé deváté francouzské čerpací stanici nejsou pohoné hmoty,
+[02:38] to je informace, kterou vám média téměř nevzdělují.
+[02:43] Když jsme na Prahu obrovské ekonomické krize, protože právě ty ceny energií dosahují stropu
+[02:49] a budou mít samozřejmě negativní vliv na vývoj naší ekonomiky, na inflaci,
+[02:54] a můžeme se jenom modlit za to, abych tady v zimě bylo dostatek.
+[03:00] V době, kdy namísto dialogu ceníme zuby a snažíme se vyeskalovat celé to napětí onoho vojenského konfliktu,
+[03:08] onoho vojenského konfliktu na Ukrajině, je Evropa prostě papírovým drakem,
+[03:14] papírovým možná spíš slonem, jenže ztrácí sílu, ale přitom se snaží stále ještě v úhozovkách machrovat
+[03:22] a říkat, my všechny porazíme, my jsme ti hrdinové.
+[03:26] Kdo sledoval projev Ursuly von der Leyen, o kterém raději moc česká média neinformovala,
+[03:33] příliš jej nerozebírala, já když jsem je chtěl zmínit na 360,
+[03:38] na CNN Prima News, tak mě moderátorka Lucie Čermáková okamžitě zastavila,
+[03:43] že odbíhám od tématu, no neodbíhám, pokud se tedy bavíme o tom,
+[03:47] že Evropská unie se nám snaží nějakým způsobem tady řídit naše životy.
+[03:52] Jinými slovy, že sedíme v autobusu jménem Evropská unie a řídí ho pološílený blázen
+[03:59] na steroidech a na drogách, který už opravdu ztrácí kontakt s realitou,
+[04:04] tak se jedná o naprosto zásadní věc,
+[04:08] s níž bychom se měli vyjádřit a s níž bychom se měli vypořádat.
+[04:12] Ursula von der Leyenová prokázala, že není schopna vnímat realitu současné doby.
+[04:17] Ona vykreslila situaci v Evropě jako extrémně růžovou, báječnou.
+[04:22] V jedné větě říká, že jsme z 90% při výdobě elektromobilů závislí
+[04:28] na materiálech a dodávkách z Číny a z druhé strany říká,
+[04:32] že Evropa je naprosto suverénní, samostatná a výborně prosperující část,
+[04:38] část světa, která nemá konkurenci.
+[04:42] To je jednoznačný znak naprosté deziluze a opravdu odtržení od reality.
+[04:48] Fakticky se snaží centralizovat, federalizovat Evropu,
+[04:51] fakticky se snaží uzurpovat na téhle lodi bláznů čím dál tím větší porci moci.
+[04:57] A namísto toho, abychom konečně vzali do svých rukou zdravý rozum
+[05:07] a abychom přistoupili racionálně,
+[05:09] k těm problémům, které v současné době služují náš kontinent, naši zemi,
+[05:14] tak se uchylujeme čím dál tím více hysteričtějším výkřikům
+[05:19] a obvinováním každého, kdo nesouhlasí s jediným možným světonázorem
+[05:25] z nějaké kolaborace a nahrávání protivníkovým.
+[05:29] Přátelé, pojmenování pravdivého stavu není kolaborace.
+[05:34] Diskuze s protivníkem, s oponentem, není,
+[05:38] a je jednoduché,
+[05:39] jeho podbízení se jeho názorům.
+[05:43] Já se nedivím, že Martin Kupka vnímá takto tu situaci,
+[05:47] protože on je submisivní omegasamec,
+[05:51] který kdykoliv jedná se svými mocipány v Bruselu,
+[05:54] tak tam jede v předklonu, v podstatě jenom přijmout instrukce.
+[05:58] Nikdy nic neprosadí a nehájí české národní zájmy.
+[06:01] On tam jede jako lokaj, jako vazal.
+[06:04] A proto nemůže rozumět tomu, že někdo jiný může hovořit,
+[06:08] byť i s protivníkem, byť i s názorovým oponentem,
+[06:12] zcela sebevědomě a prosazovat naše národní zájmy.
+[06:15] On to nikdy nedělal. On tomu nerozumí.
+[06:18] Je to kategorie, která je zcela mimo jeho vnímání.
+[06:22] Co mě na tom ovšem zaráží nejvíce je jeho výrok,
+[06:25] že by mě Babiš měl poslat někam za Ural,
+[06:29] což je jednoznačná ilustrace jeho bolševického smýšlení.
+[06:35] Kdo posílal své názorové oponenty za Ural?
+[06:38] Martin Kupka se ještě ani jednou neměl odvahu postavit se mi ve studiu
+[06:44] v přímé názorové konfrontaci.
+[06:46] Myslím, že by dopadl podobně jako Jan Jakob.
+[06:49] Možná, že by neodešel, ale ta ostuda by byla ještě větší.
+[06:52] Ale posílat oponenty za Ural,
+[06:56] namísto jakékoliv diskuze,
+[06:58] namísto vyvrácení jejich argumentů na věcné bázi,
+[07:02] kdo tohle dělal?
+[07:04] Pouze a jenom bolševici.
+[07:06] Tady je ukázka toho,
+[07:08] že Martin Kupka je svým smýšlením totalitní bolševik.
+[07:13] Není ochoten vůbec debatovat,
+[07:16] on na to nemá samozřejmě, ani nemá žádné věcné argumenty,
+[07:19] kterými by to podpořil,
+[07:21] ale on právě se snaží svého protivníky umlčet.
+[07:26] Kdyby bylo na něm, tak nám postaví Gulag.
+[07:29] Jsem si tím naprosto jist.
+[07:31] On by první stavil Gulag, i tenhle ten odésácký svazák.
+[07:36] Ale chtěl bych mu touto cestou zkázat,
+[07:38] co už jsem publikoval, ale ještě to možná rozvést.
+[07:41] Pane Kupko, nenajdete ani slovo v mých projevech,
+[07:45] ve kterém bych já se stavil na stranu Ruska.
+[07:49] Skutečnost, že racionálně poukazuji na to,
+[07:54] že v zájmu bezpečnosti celé České republiky
+[07:57] a v zájmu bezpečnosti celého Starého kontinentu
+[08:00] je uzavřít mírovou dohodu na Ukrajině co nejdříve.
+[08:04] Mimochodem je to i v zájmu Ukrajiny samotné,
+[08:07] protože každý den přichází o další kilometry čtvereční
+[08:10] svého území.
+[08:12] To není nahrávání Rusku.
+[08:14] To je naopak hájení zájmu našich občanů.
+[08:17] Vaše výkřiky, že na Ukrajině se bojuje za Českou republiku,
+[08:21] těmuž nevěří vůbec nikdo.
+[08:23] Jsou to jenom komediální estrády pro naprosté fanatiky,
+[08:27] kteří nejsou schopni vnímat, jaká je skutečná situace na té frontě.
+[08:31] Na Ukrajině se za Českou republiku nikdy nebojovalo.
+[08:36] To je fakt.
+[08:37] To není žádný proruský propagandistický blábol.
+[08:41] To je fakt.
+[08:43] Na Ukrajině se vždy bojovalo za zájmy mocných a bohatých lidí.
+[08:47] A Ukrajina a ukrajinský lid, ten obyčejný lid,
+[08:50] je obětí tohoto velmocenského boje.
+[08:54] A právě proto, že nehodlám přihlížet dalšímu krveprolití,
+[08:59] jako vy, který se frajersky a silácky fotíte v mošnově se samopalem,
+[09:04] přitom to držíte jak prase kost a je vidět,
+[09:06] že byste při prvním výstřelu si vyrazil,
+[09:08] že byste při prvním výstřelu si vyrazil všechny zuby,
+[09:10] tak já nejsem ochoten si získávat laciné politické bodíky
+[09:16] na tom, že budu dál nechávat zbytečně umírat ukrajinské muže,
+[09:22] ukrajinské lidi, ale i ruské lidi.
+[09:25] Já prostě nechci žádné krveprolití.
+[09:28] A ta válka už je dávno rozhodnutá.
+[09:31] A jediné, co nám může přinést, pokud ji včas neukončíme,
+[09:35] bude další stupňování onoho napětí,
+[09:38] a hrozící přerození celé té války
+[09:43] v naprosto zásadní kataklizmický konflikt,
+[09:47] který by měl katastrofální následky pro celou Evropu.
+[09:53] Víte, možná, že jste nechtěli slyšet ty argumenty,
+[09:58] které na té konferenci padly.
+[10:01] Seznam zprávy označil ty výroky Fyodora Lukyanová,
+[10:05] který samozřejmě hovořil online při tom novináři,
+[10:08] úplně hloupě.
+[10:10] Ještě den předtím tvrdili, že přijede do Prahy.
+[10:12] Nejsou schopni si zjistit ani základní fakta
+[10:14] a uvěřit si, že je to nemožné,
+[10:16] že to prostě je zcela mimo jakoukoliv realitu.
+[10:19] Ale přesto nám novináři, kteří jsou strážci té pravdy,
+[10:22] té údajné pravdy, nám tvrdili,
+[10:24] ještě den předtím, že do Prahy přijede i Lukyanov.
+[10:28] A možná, že nechtěli slyšet to, co tam Fyodor Lukyanov řekl.
+[10:32] A to je fakt, že kdyby k takovému konfliktu došlo,
+[10:35] tak prostě nejvíc to odnese střední Evropa.
+[10:38] Nejvíc to odneseme my.
+[10:40] A vy byste proti tomu neměli žádný argument,
+[10:43] protože se tohle vyvrátit nedá.
+[10:45] To je očividný fakt.
+[10:47] A možná, že nechcete, aby to slyšela naše veřejnost.
+[10:50] Aby vám dál věřila ty vaše lži,
+[10:53] ty vaše propagandistické výkřiky,
+[10:55] které nemají s realitou asi jich životy,
+[10:58] asi jich bezpečností vůbec nic společného.
+[11:00] Právě proto se snažíte kohokoliv,
+[11:03] kdo není na vaší straně,
+[11:05] kdo nesouzní s těmi vašimi
+[11:07] pomatenými, šílenými výplody,
+[11:09] umlčet, diskreditovat,
+[11:12] onálepkovat ho jako proruského kolaboranta.
+[11:16] A co je na tom nejzásadnější?
+[11:19] Když pan Valášek píše,
+[11:22] že někteří řečníci mluvili o,
+[11:25] například Miloš Zeman, o Číně,
+[11:28] další, že tam byl pan Černogorský,
+[11:31] a zmiňuje to, že pan Lukjanov
+[11:33] nezmínil některá fakta,
+[11:35] tak je velmi pozoruho,
+[11:37] že pan Valášek se ani slovem
+[11:39] nezmínil o tom,
+[11:41] o čem jsem tam hovořil já.
+[11:43] Protože by se mu to nehodilo do krámu.
+[11:45] Ani trochu.
+[11:48] A přátelé, právě proto,
+[11:50] že jsem vystupoval v bloku týkajícím se médií,
+[11:52] tak bych si vám dovolil tady přednést
+[11:54] ten projev, který jsem tam včera
+[11:56] měl být ve zkrácené podobě,
+[11:58] protože tam nebyl čas,
+[12:00] dneska vám ho přednesu celý.
+[12:02] Abyste si sami udělali obrázek,
+[12:04] nakolik je proruský,
+[12:06] nakolik je,
+[12:08] nějakým způsobem lokajský,
+[12:10] nebo podbízivý vůči Rusku.
+[12:12] Víte,
+[12:15] kdo nás přibližuje míru?
+[12:17] Vitkov,
+[12:21] Kushner, Redcliffe,
+[12:23] šéf CIA, kteří jezdí
+[12:25] do Moskvy jednat,
+[12:28] nebo Ursula von der Leyen,
+[12:30] Martin Kupka se samopalem
+[12:32] a všichni ti, kteří tvrdí,
+[12:34] jsme připraveni se bránit,
+[12:36] budeme se vyzbrojovat
+[12:38] a na ten konflikt s Ruskem
+[12:40] budeme plně připraveni.
+[12:42] Já si myslím, že ti první,
+[12:44] že to, že jedou do Moskvy si sednout
+[12:46] ze zástupci Ruské federace
+[12:48] a snaží se vyjednat
+[12:50] podmínky ukončení
+[12:52] toho zbytečného krve prolití,
+[12:54] je výrazně rozumější
+[12:56] a racionálnější
+[12:58] a přibližuje nás to k míru,
+[13:00] než ti druzí, kteří tady
+[13:02] svými hloupými siláckými gesty
+[13:04] nás jenom přibližují
+[13:06] centimetr pod centimetru blíže
+[13:08] tomu horkému konfliktu.
+[13:10] Za situace, kdy Robert Fico
+[13:12] velmi vážně hovoří o tom,
+[13:15] že se blížíme
+[13:17] tomu konfliktu a že skutečně
+[13:19] už je to na hraně,
+[13:21] za situace, kdy o tom hovoří
+[13:23] prezident Klaus, prezident Zeman,
+[13:25] je extrémně nerozumné
+[13:27] přestat se bavit
+[13:30] a jenom na sebe cenit zuby
+[13:32] a vyhrožovat si, protože tohle
+[13:34] skutečně nemůže vést
+[13:36] k ničemu jinému, než k nějakému
+[13:38] ozbrojenému střetu.
+[13:40] A ty důsledky by byly pro naše
+[13:42] životy naprosto ničivé.
+[13:44] Je to hrajina ještě hůře.
+[13:46] Opravdu to chceme?
+[13:49] Chceme nechat Evropu, Českou republiku
+[13:51] v rukách nějakých šílenců,
+[13:53] kteří nám tady budou určovat,
+[13:55] že se nesmíme bavit s protivníkem,
+[13:57] že nemůžeme s nimi vyjednávat?
+[13:59] Já myslím, že nikoliv.
+[14:02] Je to obrovský hazard.
+[14:04] Je to obrovský hazard, pokud
+[14:06] dále budeme naslouchat Ursule von der Leyen,
+[14:08] Friedrichu Mercovi, Petrovi Pavlovi.
+[14:10] Je to hazard s naší budoucností.
+[14:12] Je to hazard
+[14:14] s mírem.
+[14:16] Je to nadbíhání tomu konfliktu,
+[14:18] který je opravdu přímo za dveřmi.
+[14:20] A já se do té propasti nechci dostat.
+[14:22] Já do ní nechci zkouznout za žádnou cenu,
+[14:24] protože považuji mír
+[14:26] za nejvyšší hodnotu
+[14:28] našich životů.
+[14:30] Jak řekl klasik,
+[14:32] mír není všechno,
+[14:34] ale bez míru všechno ostatní neznamená nic.
+[14:36] Tihle lidé si to neuvědomují
+[14:39] a právě proto
+[14:41] pokračují ve svém proválečném štváctví,
+[14:43] které nám nemůže
+[14:45] v žádném případě a za žádných
+[14:47] okolností v žádném scénáři
+[14:49] přinést cokoliv pozitivního.
+[14:51] Pokud tady můžete,
+[14:53] prosím, a sdílejte má slova dál,
+[14:55] pokud s nimi souzníte,
+[14:57] pošlete
+[14:59] třeba část nebo celé tohle video svým známým,
+[15:01] aby pochopili,
+[15:03] že Reichlovi opravdu
+[15:05] nejde o to nadbíhat Rusku,
+[15:07] protože jediný, kdo tady někomu nadbíhá,
+[15:09] jsou tito lidé typu Kupky
+[15:11] a některých žurnalistů,
+[15:13] kteří si hrají na novodobé kazatele,
+[15:15] morálky, kteří jsou
+[15:17] v podstatě inkvizitory,
+[15:19] jenž nálepují a reputačně likvidují
+[15:21] každého, kdo jim nejde na ruku.
+[15:24] Ať se lidé uvědomí,
+[15:26] že ta
+[15:28] rácio je zcela jednoznačně
+[15:30] na naší straně.
+[15:32] Ještě než se do toho proslovu
+[15:35] opustím, tak
+[15:37] zdůrazním ten jeden zkaz
+[15:39] Martinovi Kupkovi, který jsem slíbil.
+[15:41] Vy, pane Kupko,
+[15:44] tvrdíte, že jste na straně Ukrajiny.
+[15:46] Já jsem nikdy na straně Ruska nebyl,
+[15:48] já jsem vždy hájil pouze české nálepky.
+[15:50] To vy opakovaně
+[15:52] říkáte, že na Ukrajině
+[15:54] se bojuje za Českou republiku.
+[15:56] Takže pokud někoho někam
+[15:59] někdo posílá,
+[16:01] tak první, kdo by měli být příkladem,
+[16:03] jste vy.
+[16:06] Sundejte ten váš teflonový oblek,
+[16:08] nasaďte maskáče, vemte si
+[16:10] ten samopal do ruky
+[16:12] a ukažte nám, že umíte dostat
+[16:14] svým slovům.
+[16:17] Že nejste jenom falešní tlachal,
+[16:19] který se snaží ukazovat
+[16:21] své svary, ale přitom není
+[16:23] schopen podpořit svá
+[16:25] hrdinská slova jediným
+[16:27] reálním konkrétním činem.
+[16:29] Nikdo z vás to nikdy
+[16:31] neudělá. Nikdo
+[16:33] z těch válečních čtváčů, kteří tady
+[16:35] volají, jak jsou na straně Ukrajiny,
+[16:37] jak musíme Ukrajinu podporovat
+[16:39] všemi svými zdroji a silami,
+[16:41] vším, co máme.
+[16:43] Nikdo z nich nepodpoří Ukrajinu
+[16:45] tím, co má on sám.
+[16:49] Nasazením vlastního života.
+[16:51] Jděte nám to dokázat.
+[16:54] Do té doby jste jen
+[16:56] pouťoví vyvolávači,
+[16:58] kterým se můžeme všichni jen smát.
+[17:00] Farizejové,
+[17:02] kteří těží politické body
+[17:04] z utrpení jiných lidí.
+[17:07] A proto vám je pohrdám.
+[17:09] Naprosto a nezvratně.
+[17:11] Přátelé, dovolte mi tedy,
+[17:14] abych vám v tuto chvíli
+[17:16] přednesl svůj projev
+[17:18] v plném znění, tak, jak jsem je měl
+[17:20] připraven na včerejší konferenci
+[17:22] Svatopluk. A vy sami
+[17:24] si udělejte obrázek,
+[17:26] jak moc je
+[17:28] ohrožením bezpečnosti
+[17:30] naší budoucnosti v České republice.
+[17:32] Vážené dámy,
+[17:34] vážení pánové,
+[17:37] původně jsem dnes hodlal hovořit
+[17:39] o obecné roli médií v naší
+[17:41] společnosti. O tom,
+[17:43] jak se postupně transformovala
+[17:45] z pozice nestraných reportérů,
+[17:47] popisujících aktuální
+[17:49] či historické události,
+[17:51] v aktivistické diktátory
+[17:53] jediné přijatelné pravdy,
+[17:55] nemilosrdně drtící
+[17:57] každého, kdo se jejich světonářům
+[17:59] odmítá podrobit.
+[18:02] Avšak po včerejším článku publikovaném
+[18:04] na webu Seznam zprávy
+[18:06] s titulkem
+[18:08] Na akci s putinovým ideologem má vystoupit
+[18:10] Zeman, jsem se rozhodl
+[18:12] svůj projev zaměřit k tomuto
+[18:14] manipulativnímu výplodu,
+[18:16] jenž představuje
+[18:18] dokonalou ilustraci
+[18:20] absolutního úpadku
+[18:22] a degradace většiny
+[18:24] západních mainstreamových médií.
+[18:28] Podstatu celého tohoto
+[18:30] štvavého pamfletu lze schrnout
+[18:32] jedné jediné věty.
+[18:34] S těmi, kdo nekonvenují
+[18:36] našemu vidění světa,
+[18:38] je zapovězen omluvit
+[18:40] či si dokonce vyslechnout jejich názor
+[18:42] a kdo tento zákaz poruší
+[18:44] je zjevný kolaborant,
+[18:46] jenž musí být vyobcován
+[18:48] ze slušné společnosti
+[18:50] a všemi prostředky zničen.
+[18:52] Pokud bych pan Valášek
+[18:55] byl alespoň trochu schopen vnímat
+[18:57] historické paralely,
+[18:59] z čehož jej opravdu nepodezřívám,
+[19:01] tak by se za svůj výtvor
+[19:03] byl stydět.
+[19:06] Byl totiž jako vystřížený
+[19:08] z dob nacismu či komunismu,
+[19:10] kdy každý, kdo se bytěn odvážel
+[19:12] komunikovat s protistranou,
+[19:14] byl označen za agenta cizí moci
+[19:16] a tehdejšími
+[19:18] prorežimními médii
+[19:20] reputačně nemilosrdně zlikvidovat.
+[19:22] Jeho článek je tak
+[19:25] dokonalou ukázkou smutné reality
+[19:27] dnešní doby,
+[19:29] v níž si mainstreamová média
+[19:31] v ničem nezadejí s retorikou
+[19:33] der Stürmer
+[19:35] a jeho práva.
+[19:38] Ať se sami rádi pasují do role
+[19:40] strážců demokracie,
+[19:42] ve skutečnosti jsou to právě oni,
+[19:44] kdo základní principy demokracie
+[19:46] s bolševickou zaujatostí
+[19:48] nemilosrdně pošlapávají.
+[19:50] Ani náznakem jim totiž
+[19:53] nedochází,
+[19:55] že základním pilířem,
+[19:57] na němž celá konstrukce
+[19:59] demokratického světa stojí,
+[20:01] je naopak právo, potřeba
+[20:03] a vpravdě i nutnost
+[20:05] diskutovat i s těmi,
+[20:07] kdož zastávají odlišné postoje
+[20:09] a názory, než jsou ty naše.
+[20:11] Demokracie je založena
+[20:14] na přesvědčení, že své oponenty
+[20:16] neumlčujeme,
+[20:18] nezakazujeme jim mluvit.
+[20:20] Nýbrž s nimi otevřeně
+[20:22] diskutujeme. Pojďme si
+[20:25] tedy v této souvislosti položit
+[20:27] několik klíčových otázek.
+[20:30] Je skutečně problémem,
+[20:32] že spolu lidé z opačných stran
+[20:34] jsou ochotní a schopní mluvit?
+[20:36] V čem tento dialog ohrožuje
+[20:38] naši bezpečnost?
+[20:41] A neohrožuje naši bezpečnost naopak
+[20:43] mnohem více to, že spolumluvit
+[20:45] nebudeme? A vzájemnou
+[20:47] výměnu svých stanovisek omezíme
+[20:49] na zprostředkovanou výměnu výhruže
+[20:51] k vojenskými akcemi?
+[20:54] Demokracie přece není o tom,
+[20:56] že nasloucháme jen těm názorům,
+[20:58] které konvenují našemu vidění
+[21:00] světa. Přičemž ty nepohodlné
+[21:02] a neschválené zakážeme
+[21:04] a umlčíme. Demokracie
+[21:06] je ostretu argumentů
+[21:08] a nezadatelné svobodě
+[21:10] každého jedince
+[21:12] si vytvořit svůj vlastní názor.
+[21:14] Odpovědí na oponentní
+[21:17] argument nemá být
+[21:19] odchod od stolu a zákaz
+[21:21] tento argument znovu vyslovit.
+[21:23] Odpovědí má být lepší
+[21:25] argument. Ten, kdo se snaží
+[21:28] zabránit svému oponentovi prezentovat
+[21:30] své názory, tak fakticky
+[21:32] přiznává, že žádné
+[21:34] lepší argumenty nemá.
+[21:36] A že se pouze obává,
+[21:38] že by široká veřejnost pochopila
+[21:40] a prohlédla, že je
+[21:42] pouhým inkvizitorem, jenž
+[21:44] své názory neumí prosadit jinak,
+[21:46] než silou a zákazem.
+[21:48] Na obdobných
+[21:52] principech jako demokracie
+[21:54] je pak postavena i diplomacie.
+[21:56] Diplomat nejedná pouze
+[21:58] s přáteli. Státník
+[22:00] nevyjednává pouze s lidmi,
+[22:02] s nimiž souhlasí. Mýr
+[22:05] se totiž nevyjednává s přáteli.
+[22:07] Mýr se vyjednává výhradně
+[22:09] mezi oběma stranami konfliktu.
+[22:11] Tedy ten, kdo snahu
+[22:13] o dosažení ukončení
+[22:15] války na Ukrajině pouze
+[22:17] nepředstírá jako
+[22:19] vy a myslí seriózně,
+[22:21] se z logiky věci
+[22:23] nemůže vyhnout jednání
+[22:25] se zástupci RF.
+[22:27] Strategie siláckých
+[22:30] výhružek zastávaná
+[22:32] EU nás od Mýru
+[22:34] pouze zdaluje.
+[22:36] Po čtyřech letech realizace
+[22:38] této selhávající strategie
+[22:40] je nejvyšší čas si to uvědomit.
+[22:42] K Mýru nás naopak
+[22:45] přibližují jednání,
+[22:47] která vedly v Moskvě zástupci
+[22:49] USA.
+[22:52] Witkow, Kushner
+[22:54] či Radcliffe nejsou
+[22:56] pro ruští kolaboranti.
+[22:58] Jsou to lidé, kteří vyvíjejí
+[23:00] seriózní snahu konflikt ukončit.
+[23:02] Evropa by jim neměla
+[23:05] podrážet nohy, ale měla by se
+[23:07] k jejich jednání připojit.
+[23:09] Ursula von der Leyen
+[23:11] není hrdinou bojovnicí
+[23:13] za naši bezpečnost
+[23:15] a za evropské hodnoty.
+[23:18] Je pouze dalším
+[23:20] válečním štráčem politicky
+[23:22] i finančně profitujícím
+[23:24] z masivního zbrojení.
+[23:27] Vážení kolegové,
+[23:29] žijeme v době války
+[23:31] a rostoucího mezinárodního napětí.
+[23:34] Neustále hovoříme
+[23:36] o potřebě dalšího vyzbrojování,
+[23:38] odstrašení,
+[23:40] o vojenské připravenost.
+[23:42] Tohle je ovšem strategie pro budoucnost
+[23:44] naplněnou všudy přítomným
+[23:46] strachem.
+[23:48] Budoucnost založenou na neustálém
+[23:50] balancování na tenké hraně
+[23:52] započetí masivního
+[23:54] a vojenského konfliktu
+[23:56] s využitím jaderných zbraní.
+[23:59] O strategii pro vedení budoucí války
+[24:01] slyšíme naše média hovořit
+[24:03] každý den.
+[24:06] Kam se ale podělá strategie pro mír?
+[24:08] Kde se na naší cestě
+[24:11] stala tato nejvyšší hodnota
+[24:13] našeho života téměř zakázaným
+[24:15] slovem?
+[24:18] Mír není synonymem pro
+[24:20] slabost. Je tomu
+[24:22] právě naopak.
+[24:24] Pouze ty nejsilnější osobnosti
+[24:26] jsou v časech extrémně proválečné
+[24:28] atmosféry schopny postavit
+[24:30] se tomuto fanatickému proudu
+[24:32] a učinit vše, co je
+[24:34] v jejich silách, aby takovému
+[24:36] konfliktu předešli.
+[24:39] Můžeme mít desítky letadel,
+[24:41] stovky tanků a tisíce
+[24:43] raket. Avšak žádná
+[24:45] raketa neumí ukončit
+[24:47] krveprolití a žádný
+[24:49] tank neumí podepsat
+[24:51] mírovou smlouvu. Zbraně mohou
+[24:54] být součástí naší obrany.
+[24:56] Ovšem naše skutečná
+[24:58] bezpečnost a život v míru
+[25:00] může být zajištěna pouze
+[25:02] soustavným a trpělivým
+[25:04] diplomatickým vědnáváním.
+[25:07] V optice aktuálního střetu
+[25:09] na východě Ukrajiny, tak
+[25:11] nesmí a nemůže být
+[25:13] strategií pokračování v dosavaní
+[25:15] zcela selhávající politice,
+[25:17] jeho neustálého prodlužování
+[25:19] a přiživování sílící
+[25:21] eskalace. Naší
+[25:23] povinností je tento konflikt,
+[25:25] jenž v současné době nepřináší
+[25:27] nic jiného, než zbytečně
+[25:29] prolité potoky krve, co nejdříve
+[25:31] končit. V zájmu Ukrajiny,
+[25:34] v zájmu Evropy
+[25:36] a především v zájmu občanů
+[25:38] České republiky. A k dosažení
+[25:41] tohoto cíle nás nepřivede
+[25:43] to, že budeme pokračovat
+[25:45] v dogmatické dehonestaci
+[25:47] všech těch, kteří chtějí navázat
+[25:49] dialog s protistranou.
+[25:51] Právě naopak.
+[25:53] Každý pokus o smyslplnou diskuzi
+[25:55] a zblížení vzájemných stanovisek
+[25:57] bychom měli vítat
+[25:59] a otevřeně podporovat.
+[26:02] Já osobně nechci
+[26:04] žít v Evropě, která se bude
+[26:06] stále více a intenzivněji
+[26:08] připravovat na válku.
+[26:11] Chci žít v Evropě a v naší
+[26:13] zemi, jejíž prioritou bude
+[26:15] zajištění dlouhodobě udržitelného
+[26:17] míru pro všechny své
+[26:19] občany. Nikoliv míru
+[26:21] dočasného a pouze pro někoho.
+[26:23] Nýbrž míru trvalého
+[26:25] a pro všechny.
+[26:27] A to včetně těch, které
+[26:29] dnes můžeme považovat za své nepřátelé.
+[26:31] I oni jsou lidé
+[26:33] jako my. Všechny nás
+[26:36] přece spojuje jeden společný
+[26:38] jmenovatel. Touha žít
+[26:40] šťastný život a vychovávat
+[26:42] naše děti ve světě
+[26:44] bez válek. Naší strategií
+[26:46] tak nesmí být posilování
+[26:48] současných nepřátelských vztahů
+[26:50] a vytváření nepřátel nových.
+[26:52] Naší strategií má být
+[26:55] intenzivní a neutuchající
+[26:57] snaha přetvořit současné
+[26:59] nepřátelé v budoucí přátelé
+[27:01] a partnery. Této
+[27:03] mety však nemůžeme nikdy
+[27:05] dosáhnout zbrojením
+[27:07] a ostentativním a až dětinským
+[27:09] odmítáním vzájemného
+[27:11] dialogu dle pokroucené
+[27:13] logiky Lukáše Valáška,
+[27:15] Martina Kupky a jejich
+[27:17] souputníků. Můžeme je
+[27:19] dosáhnout pouze racionálním
+[27:21] a moudrým vyjednáváním
+[27:23] s důrazem na vzájemný respekt
+[27:25] a pochopení postojů
+[27:27] všech zúčastněných stran.
+[27:29] Včetně Ukrajiny,
+[27:32] včetně Ruska. Bohužel je to
+[27:34] právě tato všudy přítomná
+[27:36] mediální ostrakizace a
+[27:38] nalepkování všech, kteří preferují
+[27:40] podanou ruku na místo výhružek
+[27:42] a vyceněných zubů,
+[27:44] jež nás vzdaluje od
+[27:46] dosažení míru a jež nás
+[27:49] centimetr po centimetru
+[27:51] přibližuje k fatálnímu
+[27:53] vojenskému střetu s katastrofálními
+[27:55] následky pro nás pro všechny.
+[27:57] Ano, je
+[27:59] nesmírně snadné a populární
+[28:01] označit Fyodora Lukyanova
+[28:03] za Putinova ideologa
+[28:05] a propagátora války.
+[28:08] Znemožnit mu prezentovat své
+[28:10] postoje a onálepkovat všechny,
+[28:12] kdo se jen odváží s ním diskutovat
+[28:14] za zrádce našeho národa.
+[28:16] Z hlediska zajištění budoucí
+[28:18] bezpečnosti jak v naší zemi,
+[28:20] tak i v celé Evropě,
+[28:22] je však výrazně rozumnější
+[28:24] jeho argumenty vyslechnout,
+[28:26] předložit mu vysvětlení naší pozice
+[28:28] a dospět ke shodě
+[28:30] na základním faktu, že
+[28:32] vojenský střet je prohrou
+[28:34] pro všechny a že mír
+[28:36] a vzájemný dialog je jedinou
+[28:38] rozumnou cestou
+[28:40] ze současné extrémně vyhrocené situace.
+[28:42] Ano, je nepoměrně
+[28:46] snažší někoho příkře
+[28:48] odsoudit a odmítnout s ním diskutovat.
+[28:50] Mnohem složitější
+[28:52] a však výrazně přínosnější
+[28:54] je sednout si s ním
+[28:56] společně k jednomu stolu
+[28:58] a trpělivě jednat o podmínkách dohody,
+[29:00] na jejím základě dojde
+[29:02] v co nejkratší době k ukončení
+[29:04] zbytečného krveprolití
+[29:06] mladých mužů bojujících
+[29:08] na obou stranách fronty
+[29:10] a k dosažení bezpečnostních záruk
+[29:12] minimalizujících riziko
+[29:14] znovu vypknutí bojů
+[29:16] na rusko-ukrajinské hranici
+[29:18] a eskalace tohoto konfliktu
+[29:20] do celosvětové úrovny.
+[29:24] Diskutovat nejen s ním,
+[29:26] nejbrž i s jakýmkoliv dalším reprezentantem
+[29:28] ruské federace, jenž bude ochoten
+[29:30] o míru
+[29:32] a o ukončení
+[29:34] války na Ukrajině seriózně jednat.
+[29:36] I kdyby jejich jméno
+[29:38] mělo být Sergej Lavrov
+[29:40] nebo Vladimír Putin.
+[29:43] Pojďme tedy dnes společně kategoricky
+[29:45] zmítnout snahu aktivistických
+[29:47] žurnalistů působících
+[29:49] v mainstreamových médiích,
+[29:51] diktovat nám seznam těch,
+[29:53] s nimiž je zakázáno mluvit.
+[29:56] Vymesme se proti jejich systematické
+[29:58] snaze o reputační likvidaci
+[30:00] každého, kdo projeví odvahu
+[30:02] se vzepřít tomuto vylhanému
+[30:04] narativu o proruských silách
+[30:06] naší zemi, snažících se oslabit
+[30:08] či narušit bezpečnost
+[30:10] České republiky.
+[30:13] Ve skutečnosti jsou to totiž
+[30:15] právě tito prováleční štváči,
+[30:17] kdo svým fatálním nepochopením
+[30:19] současné geopolitické situace
+[30:21] s fanatickou proválečnou
+[30:23] retorikou hazardují
+[30:25] s budoucností nás všech.
+[30:27] Téměř nikdo z těchto
+[30:29] falešných uzurpátorů jediné možné
+[30:31] pravdy působících na naší
+[30:33] mainstreamové mediální sféře
+[30:35] totiž nechápe, že
+[30:38] naprosto nejzásadnější otázkou
+[30:40] současné doby není
+[30:42] s kým se mluvit
+[30:44] nesmí. Nýbrž naopak
+[30:46] s kým musíme
+[30:48] být schopni mluvit,
+[30:50] pokud chceme válku jednou
+[30:52] ukončit. Dokud totiž
+[30:54] existuje dialog, existuje
+[30:56] i možnost dohody. Dokud
+[30:59] existuje diplomacie, existuje
+[31:01] možnost deeskalace
+[31:03] současné extrémně napjaté situace.
+[31:05] A dokud existuje jednací
+[31:07] stůl, u něj jsou ochotní
+[31:09] zasednout reprezentanti obou
+[31:11] stran, existuje i možnost,
+[31:13] že o budoucnosti Evropy
+[31:15] nebudou rozhodovat pouze
+[31:17] zbraně. Dámy a pánové,
+[31:20] neobávejme se dialogu.
+[31:22] Neobávejme se vzájemné
+[31:24] výměny, byť i protichůdných
+[31:26] názorů. Neobávejme se
+[31:28] argumentů. Neobávejme se
+[31:30] jednání. A rozhodně se
+[31:32] neobávejme se se vší
+[31:34] vehemencí postavit
+[31:36] systematickému mediálnímu lynchi,
+[31:38] jehož jediným cílem je nás
+[31:40] od této snahy odradit
+[31:42] a reputačně v očích většinové
+[31:44] populace zdiskreditovat.
+[31:47] Byť se pro nás, kteří to s nastolením
+[31:49] míru v Evropě myslíme upřímně a vážně,
+[31:51] jedná o velmi trnitou
+[31:53] cestu, plnou překážek
+[31:55] v podobě primitivních útoků
+[31:57] a urážek ze strany válečních
+[31:59] štváčů, přímo či nepřímo
+[32:01] profitujících ze současných
+[32:03] závodů ve zbrojení.
+[32:05] Musíme tento úkol vnímat nikoli
+[32:07] jako naše právo, nejbrž jako
+[32:09] svou povinnost a učinit
+[32:11] vše, co je v našich silách,
+[32:13] abychom dosáhli naplnění
+[32:15] našeho hlavního poslání,
+[32:17] kterým je zajistit
+[32:20] pro naše děti život v míru.
+[32:22] Žádná cena,
+[32:24] kterou budeme muset
+[32:26] pro naplnění tohoto úkolu
+[32:28] ve vztahu k našim osobním ambicím
+[32:30] zaplatit, není dost
+[32:32] vysoká. A za sebe
+[32:34] říkám, že jsem připraven
+[32:36] bez váhání
+[32:38] uhradit. Navzdory všem
+[32:41] valážkům tohoto světa musíme
+[32:43] usilovat o to, aby
+[32:45] utichly zbraně, udržet
+[32:47] otevřené dveře k jednacímu stolu
+[32:49] a udržet konstruktivní
+[32:51] dialog se všemi, kteří budou
+[32:53] ochotni otevřít dveře
+[32:55] k témuž cíli z druhé strany.
+[32:58] Nedovolme další dlážení
+[33:00] cesty k válce, jehož jsme
+[33:02] aktuálně svědky. Hledejme
+[33:04] každou, byť i sebevíce klikatou
+[33:06] a trnitou cestu k míru,
+[33:08] jednejme dříve,
+[33:10] než za nás začnou mluvit zbraně.
+[33:12] A neustále přitom
+[33:15] mějme na paměti nadčasový
+[33:17] citát Benjamina Franklina
+[33:19] Nikdy neexistovala
+[33:21] dobrá válka, ani
+[33:23] špatný mír.
+[33:25] Děkuji vám za pozornost.
+[33:28] Tohle byl, přátelé, můj projev,
+[33:30] který jsem chtěl celý přednést včera,
+[33:32] bohužel z časových důvodů
+[33:34] na to nedošlo, ale jsem rád, že jsem
+[33:36] měl možnost jej přednést dnes tady před vámi.
+[33:38] Asi pochopíte, že
+[33:40] v momentě, kdy vyšel článek
+[33:42] na seznam zprávách,
+[33:44] jehož cílem bylo
+[33:46] samozřejmě odradit nás
+[33:48] od té účastí na té konferenci,
+[33:50] což v případě Jana Zahradila
+[33:52] se dokonce i povedlo,
+[33:54] tak já jsem
+[33:56] na jednu vteřinu
+[33:58] neváhal se té konference
+[34:00] zúčastnit. Nebudu
+[34:03] ustupovat inkvizitorům.
+[34:05] V žádném případě nikdy
+[34:07] a za žádnou cenu.
+[34:10] Přátelé, budu velmi rád, když budete
+[34:12] tento můj projev sdílet, protože
+[34:14] tle mého názoru se jedná o hlas rozumu,
+[34:16] jenž může pro Českou
+[34:18] republiku přinést mnohem více
+[34:20] než
+[34:22] nějaké populistické šaškování
+[34:24] v maskáčích či focení se
+[34:26] se samopany. Na jedné straně
+[34:29] musíme dosáhnout míru a na té druhé
+[34:31] musíme učinit vše, co je v našich silách,
+[34:33] abychom zachránili Evropu
+[34:35] a Českou republiku ekonomicky,
+[34:37] neboť skutečně míříme
+[34:39] do doby, která nebude
+[34:41] vůbec příjemná
+[34:43] a která s ohledem na dramaticky
+[34:45] dostoucí ceny
+[34:47] všech možných komodit, kdy
+[34:49] plyn už se dnes obchoduje za cenu kolem
+[34:51] 80 EUR za MWh
+[34:53] a pohoné hmoty
+[34:55] samozřejmě už jsou
+[34:57] ve stavu
+[34:59] hodnostného nedostatku,
+[35:01] tak toho nemůže nikdy vyústit
+[35:03] vůbec nic dobrého.
+[35:05] Prosím, pojďme vzít rozum do hrsti.
+[35:07] Opravdu,
+[35:09] tédy přestává veškerá alegrace.
+[35:11] Tohle už není
+[35:13] o nějakém
+[35:15] blábolení
+[35:17] proevropských nesmyslů
+[35:19] a o nějakém zastávání se Green Dealu,
+[35:21] o nějakém dalším šíleném
+[35:23] plnění klimatických cílů,
+[35:25] které si vytyčily
+[35:27] všichni ti sociální
+[35:29] inženýři z Bruselu.
+[35:31] Fanatici, kteří vůbec netuší,
+[35:33] kam Evropu vedou.
+[35:35] A nebo možná tuší.
+[35:38] A o to je to horší.
+[35:40] Pojďte prosím s námi.
+[35:42] My nejsme tady od toho,
+[35:44] abychom fandili Rusku.
+[35:46] My jsme tady od toho,
+[35:48] abychom reprezentovali
+[35:50] zájmy našich občanů.
+[35:52] Na rozdíl od těch,
+[35:54] kteří se tak tváří,
+[35:56] kteří mají plnou pusu
+[35:58] a v skutečnosti je nahrabou
+[36:00] do vlastní kapsy
+[36:02] a nahrávají všem těm,
+[36:04] kteří se nás snaží
+[36:06] k tomuto šílenému válečnému konfliktu dovést.
+[36:09] Nestojím na straně Ruska,
+[36:11] nestojím na straně Ukrajiny,
+[36:13] nestojím na straně Spojených států evropských
+[36:15] a rozhodně nestojím na straně EU.
+[36:17] Stojím na straně míru
+[36:19] a na straně obyčejných lidí.
+[36:22] Zejména těch
+[36:24] z České republiky,
+[36:26] protože to je moje povinnost.
+[36:28] Vy jste mě vyslali do poslanecké sněmovny,
+[36:30] jinými mými nadřízenými,
+[36:32] není jim ani pan Valášek,
+[36:34] není jim ani pan Kupka
+[36:36] a proto se jejich slovy
+[36:38] rozhodně nehodlám řídit
+[36:40] a nedám na jejich výhrušky
+[36:42] a jejich výzvy k tomu,
+[36:44] abych se podrobil jejich
+[36:46] úplně pomatenému vidění světa.
+[36:48] Dám pouze a jenom na to,
+[36:50] co chcete vy,
+[36:52] s čím jste mi svěřili svoji důvěru,
+[36:54] s čím jste mi dali svůj hlas.
+[36:56] To je pro mě moje Bible,
+[36:58] to je můj základ
+[37:00] a to je můj základ.
+[37:03] Dámy a pánové,
+[37:05] moc vám děkuji za vaši pozornost.
+[37:07] Myslím, že důležitější téma
+[37:09] dnes opravdu mít nebudeme
+[37:11] a tak budu rád,
+[37:13] když budete opravdu tohle video
+[37:15] sdílet dál.
+[37:17] Příští týden budeme na cestách,
+[37:19] můžete se podívat na webové stránky
+[37:21] strany PRO,
+[37:23] téměř každý den budeme někde
+[37:25] vystupovat a já se na to moc těším
+[37:27] a pevně doufám,
+[37:29] že i nadále nás budete podporovat
+[37:31] a to vzhleduje jedinou možnou cestou
+[37:33] pro bezpečnou
+[37:35] a prosperující budoucnost naší země.
+[37:37] Minulý týden
+[37:40] průzkumy veřejného mínění ukázaly,
+[37:42] že celá ta naše parta
+[37:44] v tom klubu SPD,
+[37:46] tedy hnutí SPD,
+[37:48] strana PRO, strana Svobodních
+[37:50] a Tricolora sílí
+[37:52] a to velmi zásadně.
+[37:54] Ze 7,5% jsme při součtu
+[37:56] na 10%.
+[37:59] Věřím, že je to odraz skutečnosti,
+[38:01] že lidé pochopili,
+[38:03] že to děláme vážně
+[38:05] a že budeme jejich zájmy
+[38:07] hájit ze všech svých sil,
+[38:09] ať se to někomu líbí nebo ne.
+[38:12] Budu velmi rád, když
+[38:14] alespoň trošku přispěju k tomu,
+[38:16] aby u nás utichly
+[38:18] ty proválečné hlasy
+[38:20] a zazněly více hlasy promírové.
+[38:22] A jsem velmi rád tomu,
+[38:24] že Andrej Babiš dnes ve svém proslovu
+[38:26] se i tohoto tématu dotkl
+[38:28] a že fakticky
+[38:30] se shodujeme
+[38:32] na základním pohledu
+[38:34] věc, že se více mluví o válce než o míru
+[38:36] a že namísto
+[38:38] nás, co by evropského kontinentu,
+[38:40] který by měl být na tom míru,
+[38:42] největší zájem se o něj snaží
+[38:44] mnohem více zástupci
+[38:46] USA,
+[38:48] přičemž Evropa v této snaze je naprosto
+[38:50] impotentní.
+[38:54] Otázka je,
+[38:56] jestli je to jenom neschopnost a amatérismus
+[38:58] nebo záměr.
+[39:00] Já si bohužel myslím, že to druhé.
+[39:02] Přátelé, moc vám děkuji za pozornost,
+[39:04] prosím o sdílení tohoto videa dále,
+[39:06] budu si toho velmi vážit
+[39:08] a věřte mi, že já vás
+[39:10] nikdy a za žádnou cenu nezradím
+[39:12] a v žádném případě
+[39:14] neuhnu a neustoupím
+[39:16] jakémukoliv mediálnímu tlaku.
+[39:18] Mějte se moc pěkně,
+[39:20] držte se
+[39:22] a zůstaňte s námi.
+[39:24] Ať žije naše vlast,
+[39:26] ať žije naše krásná Česká republika.
+[39:28] Bůh ji ochraňuje.
