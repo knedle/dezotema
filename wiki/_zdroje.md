@@ -5672,3 +5672,11 @@
 - **Datum záznamu:** 2026-10-18
 - **Zpracováno:** ano
 - **Poznámka:** 10 min 4 s, emotivní monolog, přepis místy útržkovitý.
+
+## Československo TV2 — Videoportál: reportáž ČT o Čermákovi je lež, Bernardy lhářka (18. 10. 2026) {#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-18_Československo-TV2_Videoportál.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=2017141705623563&_rdr>
+- **Datum záznamu:** 2026-10-18
+- **Zpracováno:** ano
+- **Poznámka:** 1 min 34 s.
