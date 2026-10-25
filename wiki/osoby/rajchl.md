@@ -114,6 +114,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **4. 10.** — Green Deal „chobotnice", povolenky EU 84 € vs. Čína 12 €, Češi platí 7 000 Kč/hlavu ročně — [Rajchl — Partie: Green Deal jako zlodějina (4. 10. 2026)](../_zdroje.md#jindřich-rajchl--partie-green-deal-4-10-2026)
 - **27. 9.** — narozeninová bilance: Západ si neumí přiznat vinu (Irák/David Kelly, Libye/Kaddáfí, Green Deal, covid; OSN — nejlepší projevy Milei a Lavrov); co média „zamlčují" o Ukrajině (Majdan/Nulandová, Donbas, Minsk II, dekret č. 117, Istanbul/Johnson, Mindič); Pavlova výzva sestřelit ruské letadlo = Orešniky na ČR; ČR jako „ekonomická kolonie EU" — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md), [petr-pavel.md](../petr-pavel.md), [suverenita-eu.md](../suverenita-eu.md)
 - **8. 10.** — Francie výprodej dluhopisů, euro slábne („zaplať pánbůh, že ho nemáme“), Německo −10 % zakázek — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
+- **20. 10.** — ETS2 od 2028 jako „past“ a „obrovský podvod“ (56 €/40 mil. povolenek vs. cena přes 70 €, −5,31 % ročně); „jde o okrádání“, ne emise; podpora vlády v odmítnutí i za cenu pokut, zrušit i ETS1, „Green Deal musí být zničen“ → [suverenita-eu.md](../suverenita-eu.md) — [EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -636,3 +637,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Zastání novinářky Karolíny Brodníčkové před výhrůžkami smrtí (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026)
 - [Rajchl — Nedělní vysílání: senátní volby, Pavel a Maroko, Francie, Trump a Ukrajina (18. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 - [Rajchl — Tisková konference: novela trestního zákoníku, § 318a a § 405 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)
+- [Rajchl — EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026)

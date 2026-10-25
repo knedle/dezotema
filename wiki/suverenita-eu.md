@@ -492,7 +492,11 @@ Vrabel vysvětluje právo veta jako základní nástroj suverenity: kterýkoli z
 
 Rajchl reaguje na zprávu, že cena emisní povolenky ETS2 bude „zastropována" na 45 EUR. Tvrdí, že nejde o skutečný strop: po dosažení 45 EUR Evropská unie jen dvakrát ročně uvolní další 4 miliony povolenek (dohromady ~8 % ročně emitovaného množství), takže cena poroste dál. ETS2 označuje za „obrovský kšeft" a „zelenou lež"; má-li Evropa zůstat bohatá, je podle něj nutné zrušit emisní povolenky včetně ETS1. Navazuje na [Emisní povolenky: ČR platí 17× víc než Němci](#emisní-povolenky-čr-platí-17-víc-než-němci--platíme-německé-důchody-rajchl-4-6-2026).
 
-**Zdroje:** [Rajchl — Videoportál: ETS2 zastropování, 11. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ets2-zastropování-11-6-2026)
+**20. 10.** — Rajchl označuje ETS2, která má platit od roku 2028, za „past“, do níž nás mainstream láká „pomalu a dobrovolně“. Zdraží podle něj pohonné hmoty, plyn a uhlí, a přes ně potraviny, elektroniku, stavební materiál, „prostě úplně všechno“. Nový tlumicí mechanismus EU (při ceně nad 56 € dodatečná emise 40 mil. povolenek) je podle něj „obrovský podvod“: povolenka se už obchoduje přes 70 € a 40 milionů jsou jen jednotky procent ročního objemu, zatímco celkový počet povolenek má každý rok klesat o 5,31 %. „Nejde o snižování emisí CO₂, jde o vaše okrádání“: jinak by EU nedovolila dovážet ropu a plyn tankery místo ruských trubek (deset největších tankerů podle něj vypustí víc CO₂ než všechna auta světa) ani lety soukromými tryskáči, jako byl Pavlův let z Maroka (20 t CO₂). Podporuje Babišovu vládu v tom, že ETS2 nepřevezme do legislativy „i za cenu placení pokut“. Jeho cílem je zrušit i ETS1. Dobrovolné zdražování energií „může napadnout opravdu jenom prosté idioty“.
+
+> „Ostatně soudím, že Green Deal musí být zničen. Za každou cenu.“ — Jindřich Rajchl (parafráze Catona)
+
+**Zdroje:** [Rajchl — Videoportál: ETS2 zastropování, 11. 6. 2026](_zdroje.md#jindřich-rajchl--videoportál-ets2-zastropování-11-6-2026), [Rajchl — EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026)](_zdroje.md#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026)
 
 ### ETS2 zastropování na 45 EUR a Danuše Nerudová — Vrabel (11. 6. 2026)
 

@@ -5640,3 +5640,11 @@
 - **Datum záznamu:** 2026-10-20
 - **Zpracováno:** ano
 - **Poznámka:** 3 min 41 s, tisková konference ve Sněmovně. Zpracováno jen téma § 405 (zrušení § 318a nevybráno).
+
+## Rajchl — EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026) {#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-20_Jindřich-Rajchl_EU-se-nás-snaží-vlákat-do-pasti.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1858852865106729>
+- **Datum záznamu:** 2026-10-20
+- **Zpracováno:** ano
+- **Poznámka:** 4 min 15 s.
