@@ -405,7 +405,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **Horizont:** od 1. 10. 2026
 **Stav:** 🕐 Čeká na vyhodnocení
 **Zdroj:** [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)
-**Poznámka:** 1. 10. se Zítko k predikci nevrátil; 2. 10. ji přerámoval na „Rudý říjen" („nikdy jsme úplně nevěděli přesně, jaký rok to bude… všechno běží tak, jak má") a zároveň prohlásil, že věštění „není jeho obor" — [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026)
+**Poznámka:** 1. 10. se Zítko k predikci nevrátil; 2. 10. ji přerámoval na „Rudý říjen" („nikdy jsme úplně nevěděli přesně, jaký rok to bude… všechno běží tak, jak má") a zároveň prohlásil, že věštění „není jeho obor" — [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026). 18. 10. pak Zítko prohlásil „Red October je tady“: komunikace může být v rámci „největší operace v dějinách lidstva“ vypnuta, lidé mají mít připravené jídlo a vodu a „nenechat se zblbnout, i kdyby vám vysílali cokoliv“, protože „vítězství je naše“ — [ČsTV2 — „Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)
 
 ---
 

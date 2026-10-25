@@ -104,6 +104,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **14. 10. (2)** — podmíněné propuštění bylo podle policejního prezidia „předem vyloučeno“ (nenástup do výkonu trestu), přesto k němu došlo — [Proč by to divadlo v Liberci hráli?](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)
 - **15. 10.** — Šalingrad/Bernardy nic nemění, „vyražte do Holíšova“; Bernardy a Černohorský „tvrdí totéž“; jen konfrontace naživo; „20 Trumpů“; vydírání jako ovládací mechanismus politiků — [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
 - **16. 10.** — propuštění má „vylákat a zavřít“ pravého Čermáka („nevylejzej… čekáme tě na tanku s Prigožinem“); DNA/biometrie; rozsudky „napsány dopředu“; seznam „mediálních hrobníků“ (Bernardy, Černohorský, Rajchl, Tarabová, Tušl, manželé z Jablonce…) — [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
+- **18. 10.** — „policejní a agentská provokace“: zklamání, že ho diváci „odepsali“; Černohorský jako „loutkovodič“ a „čisté zlo“; 9 dní na rozhodnutí, zda dál točit; ironické výpady (Rada, Černohorský s Tarabovou, Rajchl, Vrábel); „Red October je tady“ — mějte jídlo a vodu → [kauzy.md](../kauzy.md), [predikce.md](../predikce.md) — [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -390,6 +391,11 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Petr Pavel | ❌ negativní | „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka | 2026-10-10 | [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026) |
 
 ---
+| Jiří Černohorský | ❌ negativní | „Loutkovodič“ útočníka, „čisté zlo“; ironicky „Nezdolný“, sblížil se s Tarabovou | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
+| Václav Rada | ❌ negativní | Ironicky „Čistý“; diváci mu mají napsat, co si o něm myslí | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
+| Lenka Tarabová | ❌ negativní | Ironicky: začala si „velmi rozumět“ s Černohorským | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
+| Jindřich Rajchl | ❌ negativní | Ironicky „budoucí pan premiér“, kterého „všichni obdivují“ | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
+| Ladislav Vrabel | ❌ negativní | Ironicky „zabodaný“ | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
 
 ## Zpracované zdroje
 
@@ -499,3 +505,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Proč by to divadlo 24. 9. v Liberci hráli? (14. 10. 2026)](../_zdroje.md#československo-tv2--proč-by-to-divadlo-v-liberci-hráli-14-10-2026)
 - [ČsTV2 — Proč jsme stále Československo: nej argumenty (15. 10. 2026)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
 - [ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
+- [ČsTV2 — „Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)

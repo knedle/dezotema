@@ -5664,3 +5664,11 @@
 - **Datum záznamu:** 2026-10-22
 - **Zpracováno:** ano
 - **Poznámka:** 3 min 21 s.
+
+## Československo TV2 — „Policejní a agentská provokace“: zklamání z diváků, zvažuje konec vysílání (18. 10. 2026) {#československo-tv2--provokace-zvažuje-konec-18-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-18_Československo-TV2_Je-mi-upřímně-líto-všech-kteří-se-na-tuto-další-ko.txt)
+- **Kanál:** Československo TV2
+- **URL:** <https://m.facebook.com/watch/?v=1764729121497666&_rdr>
+- **Datum záznamu:** 2026-10-18
+- **Zpracováno:** ano
+- **Poznámka:** 10 min 4 s, emotivní monolog, přepis místy útržkovitý.
