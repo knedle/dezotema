@@ -106,6 +106,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **16. 10.** — propuštění má „vylákat a zavřít“ pravého Čermáka („nevylejzej… čekáme tě na tanku s Prigožinem“); DNA/biometrie; rozsudky „napsány dopředu“; seznam „mediálních hrobníků“ (Bernardy, Černohorský, Rajchl, Tarabová, Tušl, manželé z Jablonce…) — [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
 - **18. 10.** — „policejní a agentská provokace“: zklamání, že ho diváci „odepsali“; Černohorský jako „loutkovodič“ a „čisté zlo“; 9 dní na rozhodnutí, zda dál točit; ironické výpady (Rada, Černohorský s Tarabovou, Rajchl, Vrábel); „Red October je tady“ — mějte jídlo a vodu → [kauzy.md](../kauzy.md), [predikce.md](../predikce.md) — [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)
 - **18. 10. (2)** — reportáž ČT o propuštění Čermáka „prokazatelná lež“ (ČT tam nebyla); Bernardy „usvědčená lhářka a manipulátorka“ → [kauzy.md](../kauzy.md) — [Videoportál: ČT lže o Čermákovi (18. 10. 2026)](../_zdroje.md#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026)
+- **18. 10. (3)** — „nikdo tam nebyl, jen ČT“ jako „šachmat“ Bernardy (záběry ze síně: matka, Turek, média); figurant se nepodíval na matku; justiční stráž znala rozsudek 2023 předem; Vězňova cesta 9 vs. 7 vězňů; Bernardy vydíraná/uplacená; „princ se střevíčkem“ → [kauzy.md](../kauzy.md) — [Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -398,6 +399,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Jindřich Rajchl | ❌ negativní | Ironicky „budoucí pan premiér“, kterého „všichni obdivují“ | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
 | Ladislav Vrabel | ❌ negativní | Ironicky „zabodaný“ | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
 | Renata Bernardy | ❌ negativní | „Usvědčená lhářka a manipulátorka“ | 2026-10-18 | [Videoportál: ČT lže o Čermákovi (18. 10. 2026)](../_zdroje.md#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026) |
+| Renata Bernardy | ❌ negativní | „Usvědčená lhářka a manipulátorka“, „lžou tam jako svině“; možná vydíraná či uplacená | 2026-10-18 | [Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026) |
+| Jiří Hradil | ✅ pozitivní | Znal Čermáka dobře, jeden z „princů“, kteří mohou ověřit jeho identitu | 2026-10-18 | [Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026) |
 
 ## Zpracované zdroje
 
@@ -509,3 +512,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
 - [ČsTV2 — „Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)
 - [ČsTV2 — Videoportál: ČT lže o Čermákovi (18. 10. 2026)](../_zdroje.md#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026)
+- [ČsTV2 — Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026)

@@ -5680,3 +5680,11 @@
 - **Datum záznamu:** 2026-10-18
 - **Zpracováno:** ano
 - **Poznámka:** 1 min 34 s.
+
+## Československo TV2 — Živě na kanálu Jana Peterková: „nikdo tam nebyl“ — rozbor rozhovoru TV Šalingrad s Čermákem (18. 10. 2026) {#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-18_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=993103470507729&_rdr>
+- **Datum záznamu:** 2026-10-18
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 5 min 50 s. Zpracováno jen téma Čermák/Bernardy. Úvod o covidu (opakování) a blokace FB z 6. 10. nevybrány.
