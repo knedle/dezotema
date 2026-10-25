@@ -5752,3 +5752,11 @@
 - **Datum záznamu:** 2026-10-20
 - **Zpracováno:** ano
 - **Poznámka:** 52 min (vysílání od 3:00), zprávy čte Zuzana; bez sdílených videí; na konci pozvánka na pochod 17. 11. z Malostranského náměstí a soutěž o plakáty.
+
+## Ladislav Vrabel — Facebook Live (20. 10. 2026) {#ladislav-vrabel--facebook-live-20-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-20_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2609522209564554>
+- **Datum záznamu:** 2026-10-20
+- **Zpracováno:** ano
+- **Poznámka:** 12 min, krátký monolog k Trumpovým výrokům (zpráva ČT) a pozvánka na pochod 17. 11. (Malostranské náměstí ve 13:00 → Klárov); bez sdílených videí.

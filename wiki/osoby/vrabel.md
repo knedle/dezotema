@@ -1250,6 +1250,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **3. 10.** — shromáždění 3. 10.: tři výzvy (žádné jaderné zbraně, vyjednavač míru, stop zbraním na Ukrajinu) — [Večerní zprávy 3. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 - **3. 10.** — shromáždění 3. 10. — plné znění tří výzev; řečníci Kratochvíl, VK aj. — [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
 - **6. 10.** — o „deštníku“ by rozhodoval „emocionálně nestabilní“ Macron; výzvy podává 7. 10. vládě — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
+- **20. 10.** — Trumpova denuklearizace jako „jediná rozumná možnost“, zbraně „do hangáru“ — [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1288,6 +1289,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **6. 10.** — dopis Babišovi a ministru spravedlnosti kvůli stíhaným za „Z“; soudy „dělají politiku“; možná demonstrace 17. 11. — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 - **9. 10.** — voliči SPD/PRO jako „ovce na porážku“; změna systému až po válce — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - **20. 10.** — Trump by v ČR „měl být odsouzený“ jako lidé se „Z“; pochod 17. 11. „za svobodu politického projevu Donalda Trumpa“; Trump říká, co chce „absolutní většina“ — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+- **20. 10. (FB Live)** — bez tribunálu RB OSN nelze státu přisuzovat válečné zločiny, zatýkání za „Z“ „čistý fašismus“; pochod 17. 11., rok 1989 „nemůžeme slavit jako vítězství svobody“ — [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 18)
 - **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2022,6 +2024,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Benjamin Netanjahu | ❌ negativní | „Satanjahu“, Trump ho musí podporovat kvůli penězům Chabadu | 2026-10-20 | [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026) |
 | Marco Rubio | ○ neutrální | Přiznáním zpožděných dodávek si nechává „zadní vrátka“ | 2026-10-20 | [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026) |
 | Jana Bobošíková | ✅ pozitivní | „Docela dobře rozstřelila“ Babiše | 2026-10-20 | [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026) |
+| Donald Trump | ⚖️ rozporuplný | Vítá jeho návrh denuklearizace a výrok, že se Rusko k Ukrajině chová „v pohodě“ („strašně silný argument“); zároveň ho „strašně zklamal“ útoky na Venezuelu a Írán a obchodními válkami | 2026-10-20 | [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026) |
 
 ---
 
@@ -2199,3 +2202,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Nedělní vysílání 18. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026)
 - [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+- [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)

@@ -24,7 +24,9 @@ Vrabel přebírá argument Scotta Rittera (bývalý zbrojní inspektor OSN): jad
 
 V „zprávě dne" Vrabel rozvíjí argument (navazuje na Scotta Rittera, viz [Scott Ritter: jadernou válku nelze vyhrát (5. 6.)](#scott-ritter-jadernou-válku-nelze-vyhrát--návrat-k-odzbrojení-a-diplomacii-vrabel-5-6-2026)): protože jadernou válku nelze vyhrát (po prvních ~20 hlavicích jsou velmoci zničeny), nemá smysl jaderné zbrojení ani „odstrašení" — výroky generála Pavla a Babiše o nutnosti jaderných zbraní „kvůli odstrašení" označuje za nelogické. Jedinou cestou k trvalému míru jsou podle něj mnohostranné závazné smlouvy o odzbrojení (přes OSN, navázání na START a logiku Reykjavíku z 80. let): zbraně nejprve do hangárů, satelitní kontrola, zapečetění, závazek nepoužití a nakonec likvidace. Vyzývá diváky, aby tuto myšlenku šířili a tlačili na parlament.
 
-**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026)
+**20. 10. (FB Live)** — Ke zprávě ČT, že Trump chce na summitu s Čínou a Ruskem mluvit místo o Ukrajině o denuklearizaci, Vrabel říká, že jde o „naprosto zásadní prohlášení“ a o to, co sám „celou dobu“ prosazuje: jaderné zbraně „schovat do hangáru“ a podepsat smlouvy o jaderném odzbrojení. Je podle něj rád, že s tím přišel právě Trump, „jediný“ politik, který něco takového navrhl, protože jde o „jedinou rozumnou možnost“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 6. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-6-2026), [Vrabel — Facebook Live 20. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
 
 ---
 
