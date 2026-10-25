@@ -678,3 +678,13 @@ Vrabel tvrdí, že na Čechy se neútočí fyzicky, ale mentálně: čtyři a p�
 **28. 9.** — Pozvánku na shromáždění 3. 10. podle Vrabela dostaly „stovky médií", zveřejnily ji ale jen ePortál24, InfoKurýr, Petr Bureš a kriticky Petr Hájek; Milion chvilek („jedna ze skupin zaprodaných Západu") měl ke Dni státnosti reklamu všude a živý přenos na ČT24 — „propaganda jede na plné obrátky".
 
 **Zdroje:** [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
+
+---
+
+### Babišova výzva médiím: „média zdivočela“ — licence a likvidační pokuty za válečnou propagandu (Vrabel, 19. 10. 2026)
+
+K výzvě premiéra Babiše, aby česká média nemanipulovala veřejným míněním a vyhýbala se osobním útokům, Vrabel říká, že s ním „obecně“ musí souhlasit: média „zdivočela“ a člověk neví, zda stát řídí vláda, nebo média. Patří podle něj oligarchům s podíly ve výrobě dronů nebo je sponzorují výrobci zbraní, proto dělají „válečnou propagandu“ a jdou proti politikům, kteří jim „nechtějí jít na ruku“. Opakovanou lží o „bezdůvodném“ ruském útoku na Ukrajinu jsou podle něj lidé po čtyři a půl roku zmatení. Navrhuje nový mediální zákon: oddělit zpravodajství od publicistiky, zavést pro všechna média licence a za porušení novinářské etiky, manipulaci či „nedej bože válečnou propagandu“ je „okamžitě ekonomicky zlikvidovat na pokutách“ a sebrat jim licenci. Babišovi vyčítá, že mu to „začalo vadit až teď“ a že vláda žádnou mediální reformu nepřipravila. Vyjmenovává mediální „popravy“: Vít Bárta se podle něj stal „nepřítelem číslo jedna“, protože se nepohodl s kmotry s přístupem k tajným službám, dále Petr Nečas, David Rath i Babiš (kauza syna), který ale dnes „jde ruku v ruce s tajnýma službama“. Sám je podle svých slov příkladem: od roku 2002 byl v Českých Budějovicích „miláčkem médií“, po demonstracích v roce 2022 z něj média udělala „kriminálníka“ (jízda bez lístku jako student, údajné dotace na neexistující firmy, otázka Bastlové, zda neukradl peníze na demonstrace). Žalovat média podle něj nemá smysl, odrazoval ho od toho i Jiří Paroubek.
+
+> „Média jsou velmi nebezpečný nástroj, pakli, že dělají válečnou propagandu a to je to, co dělají dneska prakticky všechna média v České republice.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)

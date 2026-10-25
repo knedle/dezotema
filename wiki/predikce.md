@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — vláda zavede emisní povolenky ETS2 „99 ku 1“, jakmile o tom rozhodne EU (19. 10. 2026)
+
+**Předpověď:** Navzdory Babišovu ujištění česká vláda zavede ETS2 pro budovy a silniční dopravu „100 %“ tak, jak rozhodne EU; jistotu odhaduje na 99 ku 1.
+
+> „Je jasný, že jakmile Evropská unie zavedí, že se budou zavádět evropské povolenky, tak Česká vláda je bude přijímat 100%.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (až EU zavedení pro domácnosti a dopravu potvrdí)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+
+---
+
+### Ladislav Vrabel — Trump si po volbách „vychutná“ Zelenského; summit USA–Rusko–Čína válku nezastaví (19. 10. 2026)
+
+**Předpověď:** Trump se postaví proti Zelenskému a „vychutná si ho“, pravděpodobně až po volbách do Kongresu. Navržený summit Putin–Trump–Si konflikt nezastaví, výsledkem bude nanejvýš obchodní dohoda; mezi USA a Čínou se k roku 2030 chystá vojenský konflikt.
+
+> „Osobně si nemyslím, že by z toho bylo něco, co by mohlo zastavit konflikt mezi Ruskem a Ukrajinou a Evropou. Maximálně prostě z toho bude nějaký obchodní díl, nějaká obchodní dohoda.“ — Ladislav Vrabel
+
+**Horizont:** po volbách do Kongresu USA (3. 11. 2026); summit APEC 18.–19. 11. 2026; konflikt s Čínou kolem roku 2030
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+
+---
+
+### Ladislav Vrabel — francouzský scénář „dojede“ do ČR; z Blízkého východu přijde velká migrační vlna (19. 10. 2026)
+
+**Předpověď:** Bez vystoupení z EU a uzavření hranic se nepokoje typu Francie („občané proti občanům“) přelijí do ČR — ne letos, ale po spuštění migračního paktu od roku 2027. Válka na celém Blízkém východě podle něj vyvolá velkou migrační vlnu.
+
+> „Pokud dneska ten vlak neodkloníme, pokud nevystoupíme z Evropské unie a neuzavřeme hranice… tak tam ten vlak dojede taky.“ — Ladislav Vrabel
+
+**Horizont:** po roce 2027; migrační vlna neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+
+---
+
 ### Ladislav Vrabel — „za dva roky demokrati vyhrajou“ v USA; velká válka je „za dveřma“ (18. 10. 2026)
 
 **Předpověď:** Za dva roky (prezidentské volby 2028) v USA zvítězí demokraté, kteří jsou podle něj „úplně šílený do války s Ruskem“. Evropa ale na ně nemusí čekat a do velké války s Ruskem může jít už dříve.

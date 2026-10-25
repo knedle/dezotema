@@ -5736,3 +5736,11 @@
 - **Datum záznamu:** 2026-10-18
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 36 min (vysílání od 3:00), monolog s dotazy z chatu; sdílená videa protestů ve Francii a Itálii ([34:00–36:41], zvuk zčásti zkomolený), krátké video Babiše a Fica v Novém Sadu.
+
+## Ladislav Vrabel — Zprávy v devět 19. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-19-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-19_Ladislav-Vrabel_19-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/4488854961326067>
+- **Datum záznamu:** 2026-10-19
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 12 min, bez intra; zprávy čte Zuzana, Vrabel vysílá z telefonu ze Srbska, konec vysílání přerušen výpadkem spojení; krátká sdílená videa nepokojů ve Francii ([46:40–48:30]).

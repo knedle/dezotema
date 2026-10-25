@@ -639,7 +639,9 @@ Podle svého představitele Husama al-Assada Húsíové oznámili ukončení voj
 
 ⚡ **Poznámka:** Tvrzení o přímém americkém útoku na jemenskou školku nelze z přepisu nezávisle ověřit.
 
-**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+**19. 10.** — K odložení saúdské investiční konference Future Investment Initiative („Davos v poušti“) na rok 2027 kvůli útokům Húsíů (mj. na sídlo Aramca a letiště v Rijádu) Vrabel říká, že za tím „zase zatím stojí Donald Trump a Spojené státy“. Saúdská Arábie podle něj nechtěla prodloužit dohodu o americké ochraně výměnou za prodej ropy pouze v dolarech, a tak USA zaútočily na Írán a rozpoutaly válku, která míří i proti Saúdům, Emirátům a dalším zemím v oblasti: „Takhle funguje mafie… když se nenecháte chránit, tak vám tam rozpoutají válku.“ Obává se, že válka na celém Blízkém východě vyvolá „velkou migrační vlnu“ (viz [Predikce](predikce.md)).
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026), [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 
 ---
 
