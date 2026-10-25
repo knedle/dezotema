@@ -337,7 +337,7 @@ Vrabel ve zprávách otevřel téma změny klimatu jako osobní pozorování: sl
 
 Černohorský (3. 7. 2026) nezávisle potvrzuje tutéž víru v chemtrails — popisuje vlastní pozorování stop na obloze, které dle něj „na tisíc procent" nejsou přirozené meteorologické jevy, ale uměle vytvořené frekvencemi (bez upřesnění mechanismu nad rámec Vrabelova výkladu).
 
-**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026), [Černohorský — Videoportál: chemtrails na obloze, 3. 7. 2026](_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026), [Černohorský — Videoportál: chemtrails na obloze, 3. 7. 2026](_zdroje.md#jiří-černohorský--videoportál-chemtrails-na-obloze-3-7-2026), [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 **11. 7.** — Boldy nezávisle přidává vlastní příklad: barevná mračna pozorovaná nad Karlovými Vary, o kterých psal Deník N, označuje za důkaz geoinženýrství a „osévání mraků" chemikáliemi — kritizuje, že ačkoliv se o geoinženýrství mluví i v mainstreamu, lidé si podle něj odmítají spojit souvislosti.
 

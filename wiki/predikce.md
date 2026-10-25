@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — schodek rozpočtu se místo slíbeného snižování bude zvyšovat (21. 10. 2026)
+
+**Předpověď:** Babišův slib, že vláda bude v dalších letech snižovat deficit o desítky miliard ročně, se podle něj „do roka a do dne“ obrátí: schodek se nebude snižovat, ale zvyšovat.
+
+> „Do roka a do dne prostě uvidíte, že u Andreje Babiše to bude úplně obrácené.“ — Ladislav Vrabel
+
+**Horizont:** do roka (rozpočet na rok 2028)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+
+---
+
 ### Ladislav Vrabel — létání bude omezeno, letadly budou létat hlavně „papalášové“ (20. 10. 2026)
 
 **Předpověď:** V rámci omezování pohybu lidí se podle něj chystají obchodní „útoky“ proti letecké dopravě, takže do budoucna budou létat hlavně „papalášové“, ne obyčejní lidé. Cestovat do zahraničí radí co nejdřív.

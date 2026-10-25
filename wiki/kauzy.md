@@ -774,6 +774,18 @@ V reakci na článek o nárůstu onkologických pacientů Tarabová dohledává 
 
 ---
 
+## Babiš jako nepřímý spolumajitel ukrajinské kliniky — „brutální střet zájmů“; banky jako obětní beránek (Vrabel, 21. 10. 2026) {#babis-ukrajinska-klinika-vrabel}
+
+Vrabel pouští video Jany Bobošíkové, podle níž Andrej Babiš figuruje jako nepřímý skutečný majitel společnosti, která vlastní 51 % ukrajinské kliniky, a je jedním ze skutečných majitelů Hartenberg Holdingu; klinika za války více než zdvojnásobila tržby a má smlouvu s ukrajinskou státní zdravotní službou, zatímco Babiš jako premiér spolurozhoduje o vztazích s Ukrajinou. Vrabel z toho vyvozuje, že Babiš je „v brutálním střetu zájmů“: „ždímá“ české daňové poplatníky, peníze posílá přes evropský rozpočet na Ukrajinu (podle něj „60 miliard eur“) a pak z nich „těží“ přes podíly ve firmách, které dostávají státní peníze. Ujištění, že ČR za půjčku Ukrajině ručit nebude, označuje za „čistou lež“, protože ji platíme stejně jako ostatní státy. Bobošíkovou chválí jako „vynikající novinářku“ (v politice je podle něj „průšvih“). Babiš je pro něj „nenasytný“ „podvodník nejvyššího kalibru“, který si před volbami nalepil „Česko na prvním místě“ a po volbách se prohlásil za „europatriota“; po skončení války by podle něj měl vést Ukrajince zpět „s ukrajinskou vlajkou“ a „měli by si ho tam nechat“.
+
+Babišův záměr jednat s bankami o nižších sazbách hypoték kvůli jejich ziskům a vyzvat obce, aby ukládaly peníze u ČNB, Vrabel vykládá jako typický postup „klasického komouše“: drahé hypotéky podle něj způsobil sám schodkem rozpočtu, který zvedl sazby ČNB (to prý předpověděl „první den“), a teď ukazuje na banky, stejně jako dřív na pumpaře a v roce 2015 na hospodské. Babiš je podle něj „slibotechna na rok“ a jeho slib snižovat deficit znamená opak (viz [Predikce](predikce.md)). Připomíná, že Babiš je sedmý nejbohatší Čech a začínal s penězi, které mu podle něj „posehnal“ otec po „kamarádech komunistech“.
+
+> „Měli by ho lidi normálně pověsit na nástěnku největších lhářů, podvodníků České republice.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+
+---
+
 ## Novela stavebního zákona umožňuje demolici staveb bez souhlasu majitele (Vrabel, 11. 7. 2026)
 
 Poslaneckou sněmovnou prošla novela stavebního zákona, která podle kritiků nahrává developerům na úkor běžných vlastníků nemovitostí. Klíčové body: pokud developer nebo stát připravuje projekt se statusem „veřejného zájmu" (nová kategorie zón), může podat žádost o demolici cizí stavby (domu, chaty) bez souhlasu jejího majitele; současně novela dává stavebním úřadům možnost zpětně zlegalizovat černé stavby, pokud by jejich odstranění bylo vyhodnoceno jako nepřiměřený zásah. Vrabel to komentuje jako vyslaný signál, že „porušovat zákon se může vyplatit", a spojuje schválení s korupčním prostředím na úrovni obcí a krajů — developerské firmy dlouhodobě napojené na ODS a ČSSD (jmenuje podnikatele Tomáše Jadličku, „miliardy ve veřejných zakázkách") podle něj profitují z vazeb na poslance, kteří vzešli z „vlasteneckých projektů" zakládaných okolím Václava Klause mladšího — naznačuje, že schválení zákona může být formou splácení předvolební podpory.

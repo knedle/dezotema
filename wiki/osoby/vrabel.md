@@ -1258,6 +1258,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Kauzy a korupce](../kauzy.md) (pokrač. 9)
 - **18. 9.** — EGAP/COVID+ peníze na vývoz na Ukrajinu — dvojí metr vůči vlastnímu odsouzení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
 - **22. 9.** — Koudelka (BIS) měl spáchat trestný čin šíření poplašné zprávy výrokem o ruském útoku „v řádu měsíců" — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
+- **21. 10.** — Babiš nepřímým spolumajitelem ukrajinské kliniky (Bobošíková): „brutální střet zájmů“, „nástěnka největších lhářů, podvodníků“; banky jako obětní beránek, „slibotechna“, schodek poroste (→ [predikce](../predikce.md)) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 9)
 - **18. 9.** — Húsíové rozšiřují územní zisky, ohrožují saúdský export ropy — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1276,6 +1277,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **16. 10.** — Trump podrazil válkami, ne ropou; Babiš „Slovák“ a „pětka“, Fico chválen; EU rozloží občanská válka, Ukrajina bude řídit armády (→ [predikce](../predikce.md)) — [Večerní zprávy 16. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
 - **18. 10.** — „lakmusový papírek“ vlastenectví = vystoupení z EU a NATO; Okamura v Srbsku, vystoupení „ekonomicky výhodný“, veto zruší; V4 se nesjednotí, EU se rozpadne nebo bude totalitní — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026)
 - **19. 10.** — ETS2: „proč nevystoupí z EU?“, Babiš „sklapne krovky“, „99 ku 1“ (→ [predikce](../predikce.md)); „Brusel je nadřízený Praze“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+- **21. 10.** — srbští studenti placeni „ze zahraničních fondů“, globalisté proti Vučićovi kvůli barevné revoluci; Srbsko jako vzor — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1290,6 +1292,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **9. 10.** — voliči SPD/PRO jako „ovce na porážku“; změna systému až po válce — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - **20. 10.** — Trump by v ČR „měl být odsouzený“ jako lidé se „Z“; pochod 17. 11. „za svobodu politického projevu Donalda Trumpa“; Trump říká, co chce „absolutní většina“ — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - **20. 10. (FB Live)** — bez tribunálu RB OSN nelze státu přisuzovat válečné zločiny, zatýkání za „Z“ „čistý fašismus“; pochod 17. 11., rok 1989 „nemůžeme slavit jako vítězství svobody“ — [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
+- **21. 10.** — Rajchl „otočil kabátek“ (§ 318a, § 405), „zářez na pažbě“; omluva a rehabilitace všech stíhaných, pochod 17. 11. i „za očištění“ politicky persekvovaných — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 18)
 - **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1319,6 +1322,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **18. 10.** — Babiš „není proti migraci“ (Filipínci, Indové), islamizace západní Evropy, „krásné holky“; ukrajinizace: Ukrajinci „blíž k ozbrojeným mafiím“ (→ [stoch. teror](../stochasticky-teror.md)), nová vlna statisíců až milionů (→ [predikce](../predikce.md)) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026)
 - **19. 10.** — Francie: tři frakce, „občané proti občanům“ = občanská válka, „vlak dojede“ do ČR (→ [predikce](../predikce.md)); Ukrajinci bez dávek, „Srbové by umlátili čepicema“ (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **20. 10.** — Babiš na „nástěnku největších lhářů“, migrační vlna z Ukrajiny přijde kvůli zimě a ruskému postupu — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+- **21. 10.** — „problém je migrace“, ne ilegální; „mačety“, „to mají od Mohameda“, Oslo „rape city“, Macron na stadionu (→ [stoch. teror](../stochasticky-teror.md)); Ukrajincům nedat občanství — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1334,6 +1338,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **17. 10.** — Trumpovo pozastavení sankcí jen předvolební gesto, po volbách další války (→ [predikce](../predikce.md)); Magyar „nejvypočítavější“ — [Zprávy v devět 17. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
 - **19. 10.** — 70 mld. eur „platíme“; Rubiova „chyba softwaru“ nesmysl, Trump si Zelenského „vychutná“, summit Putin–Trump–Si válku nezastaví (→ [predikce](../predikce.md)); Zelenskyj „idiot politický“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **20. 10.** — Zelenskyj „fašista“, „vyfetovaný“, „zbabělec“ (Mendelová); Vance „bomby“, čeští politici otočí jen krátce (→ [predikce](../predikce.md)); „Ukrajinci si můžou za to… sami“, „pomáháme jim do hrobu“; rok UPA jako důsledek lží o nacismu — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+- **21. 10.** — Putin „humanista“ po jedněch volbách; euforie, pak atentát (opakuje); 12 Patriotů měsíčně, zmrazení fronty = vojska NATO = válka; NABU a vily Zelenského; Trump bičem (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1344,6 +1349,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **10. 10. (Zprávy)** — Susan Dell jako „ještěr“: neví, ale „třeba to možný je“ (David Icke) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
 - **15. 10.** — Musk „nasazený kůň“ armády, politici figurky; zelená ideologie a NWO s kredity — [Večerní zprávy 15. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
 - **16. 10.** — „hybridní válka počasím“ ze strany USA (Istanbul), „nemám pro to důkaz“ — [Večerní zprávy 16. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
+- **21. 10.** — oteplování: „bílé“ slunce, práškování, HAARP, „krávy za to nemůžou“ (opakuje) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1370,6 +1376,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **18. 10.** — Rusové „předsunuli“ útok, „první ránu“ nevylučuje; Rusko musí válčit na území Evropy; „za dva roky demokrati vyhrajou“, válka „za dveřma“ (→ [predikce](../predikce.md)); francouzské jaderné zbraně, Bukurešťská devítka na frontu první — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026)
 - **19. 10.** — hybridní hrozba „se nezvyšuje“, Rusové se chtějí válce vyhnout; USA chtějí poštvat Rusko a Evropu (Kissinger); po dobytí Kyjeva NATO „vyprovokuje válku“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **20. 10.** — ukrajinský dron v Litvě, Tusk „trapná komedie“, Sikorski „z praku“; turecké drony nad Řeckem = dvojí metr; vojska NATO na Ukrajině = „začátek války“ — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+- **21. 10.** — dron u Wunstorfu ležel dva roky: zvýšený stupeň hrozby sabotáží zesměšněn — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 
 ### [Volby 2026](../volby-2026.md)
 - **10. 10.** — šok z výsledků („vyhrály STAN a ODS“), Kuba „pravá ruka kmotra Dlouhého“, Budějovice „čistá mafie“ → [volby-2026.md](../volby-2026.md) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
@@ -2025,6 +2032,19 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Marco Rubio | ○ neutrální | Přiznáním zpožděných dodávek si nechává „zadní vrátka“ | 2026-10-20 | [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026) |
 | Jana Bobošíková | ✅ pozitivní | „Docela dobře rozstřelila“ Babiše | 2026-10-20 | [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026) |
 | Donald Trump | ⚖️ rozporuplný | Vítá jeho návrh denuklearizace a výrok, že se Rusko k Ukrajině chová „v pohodě“ („strašně silný argument“); zároveň ho „strašně zklamal“ útoky na Venezuelu a Írán a obchodními válkami | 2026-10-20 | [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026) |
+| Andrej Babiš | ❌ negativní | „Slibotechna“, „klasický komouš“, „lump“, „podvodník nejvyššího kalibru“ v „brutálním střetu zájmů“ (ukrajinská klinika); lidé by ho měli „pověsit na nástěnku největších lhářů“; lže o migračním paktu | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Jana Bobošíková | ✅ pozitivní | „Vynikající novinářka“, odhalila Babišův podíl na ukrajinské klinice; v politice podle něj „průšvih“ | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Jindřich Rajchl | ❌ negativní | „Posranec“, „hajzl“, „velmi rychle proměnný objekt“; s Vackem v roce 2023 „vymyslel“ trestnost písmene Z, teď „otočil kabátek“ | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Jana Zwyrtek Hamplová | ❌ negativní | „Fuj“; s Rajchlem po covidovém semináři chválila Babiše jako „velkého politika“ | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Ursula von der Leyenová | ❌ negativní | Sankce vůči Rusku do konce války; Rusové je prý nakonec „mohli zrušit sami“ | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Doufá v jeho vítězství; jeho politika (bez sankcí, neutralita, suverenita) je vzorem pro ČR | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Steve Witkoff | ○ neutrální | Jeho označení Putina za „humanitáře“ jako doklad obratu po jedněch amerických volbách | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Radko Hokovský, Veronika Černá | ❌ negativní | Podle něj zařídili, že on a manželka nesmějí do buddhistických center, „protože jsme nebezpeční“ | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Emmanuel Macron | ❌ negativní | Prezident, „který zlikvidoval Francii“; ponižující „návrh“ na veřejné bití manželkou, „budou se smažit v pekle“ | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Donald Trump | ⚖️ rozporuplný | Nepokoje ve Francii „pojmenoval správně“ (migrace), USA ale mají stejný problém; kvůli stíhání Madura by ho „slíknul do naha“ a nechal zbičovat | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Nicolás Maduro | ✅ pozitivní | Soucit s ním a s jeho manželkou, kterou podle něj při zatýkání mučili | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Za peníze daňových poplatníků si kupuje podíl v investiční bance, hotely, jachty a vily; zmrazení fronty jen kvůli vojskům NATO | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Luboš Volný, Katka Blahníková | ✅ pozitivní | Patří mezi politicky stíhané, kteří mají být rehabilitováni a dostat omluvu | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
 
 ---
 
@@ -2203,3 +2223,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
+- [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)

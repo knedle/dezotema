@@ -5760,3 +5760,11 @@
 - **Datum záznamu:** 2026-10-20
 - **Zpracováno:** ano
 - **Poznámka:** 12 min, krátký monolog k Trumpovým výrokům (zpráva ČT) a pozvánka na pochod 17. 11. (Malostranské náměstí ve 13:00 → Klárov); bez sdílených videí.
+
+## Ladislav Vrabel — Zprávy v devět 21. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-21-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-21_Ladislav-Vrabel_21-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1086793627687714>
+- **Datum záznamu:** 2026-10-21
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 11 min (vysílání od 3:00), zprávy čte Zuzana, Vrabel vysílá ze studia v Bělehradě; krátké sdílené klipy: Jana Bobošíková o Babišově ukrajinské klinice, Vackova tisková konference PRO z roku 2023, Rajchlova TK k novele trestního zákoníku (20. 10.) a Witkoff u Putina; na konci soutěž o plakáty na pochod 17. 11.
