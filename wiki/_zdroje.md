@@ -5696,3 +5696,11 @@
 - **Datum záznamu:** 2026-10-18
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 1 min 10 s, odpolední vysílání (před večerním „nikdo tam nebyl“). Nevybráno: prodloužení blokace FB do 15. 1.
+
+## Jiří Černohorský — „Jedenáctiletý opět nazvracel na Zítka!“: Zítko udal Čermáka, „historie podvodů“ (sdíleno na ČsTV2, 20. 10. 2026) {#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-20_Československo-TV2_Jedenáctiletý-opět-nazvracel-na-Zítka-Názor-si-udě.txt)
+- **Kanál:** Československo TV2 (sdílené video, celé mluví Jiří Černohorský)
+- **URL:** <https://m.facebook.com/watch/?v=1070944415760662&_rdr>
+- **Datum záznamu:** 2026-10-20
+- **Zpracováno:** ano
+- **Poznámka:** 26 min 13 s. Zpracováno jako zdroj Černohorského (jeho originál v sadě přepisů chybí).

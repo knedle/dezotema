@@ -1384,7 +1384,22 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 
 **1. 10.** — Černohorský chystá žalobu za pomluvu na Patrika Tušla, který o něm napsal, že ho „živí diváci" a „čeká na další katastrofu, aby mohl vybírat prachy"; nově jmenuje Moniku Špoulovou, jejímž dětem měl Tušl vyhrožovat zabitím. Dokládá vlastní sbírky: na tornádo na Moravě se vybralo „skoro 900 tisíc" (47 udání, vše doloženo policii, mimo pomoc šla jen nafta) a na povodně šlo podle něj „99,8 %" na pomoc.
 
-**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Videoportál: falešný profil Čermák, 27. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Videoportál: omluva Zítkovi (28. 9. 2026)](_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026), [Černohorský — Reels: Tušl a „Čechoslováci" (1. 10. 2026)](_zdroje.md#jiří-černohorský--reels-1-10-2026)
+**20. 10.** — V záznamu, který Zítko sdílel na ČsTV2 pod titulkem „Jedenáctiletý opět nazvracel na Zítka!“, Černohorský vítá příspěvek na profilu Tomáše Čermáka, podle něhož ho udal „pán na Z“. Je to pro něj potvrzení dřívějšího podezření: Zítko podle něj neskončil ve vězení „za ty jeho svinstva“, a proto se musel „něčím vykoupit“, a to Čermákem. Číslo telefonu, který mu Zítko dal a dobíjel, prý znal jen Zítko a „možná Peterková“. Zítko a „zmrdi kolem něho“ (Peterková, Bernardy, Malý) pak podle něj Čermákův případ zneužili k vybírání peněz „na úkryt“, a teorii o „klonu“ šíří ze strachu, že Čermák jednou řekne pravdu. Rekapituluje Zítkovu „historii“:
+- Lexus se SPZ „Tycoon 69“, ačkoli má Zítko prý milionové exekuce; auto mu podle Černohorského „sponzorovali“ společníci z očkovacích center.
+- Kryptoměna Tycoon 69 (Trčka, Šmuk).
+- „Andělské hlídky“ s vakcínami „ze Švýcarska“, které nikdy nedorazily, „ale penízky se hrnuly“.
+- „Fény na vodu“ kupované za 50–60 € a prodávané za desítky tisíc, placené besedy.
+- Strašení blackoutem a odstřelovači na Staroměstském náměstí; kvůli tomu se s ním podle svých slov v roce 2020 rozešel.
+- Prezidentská kandidatura: „64 tisíc podpisů za necelých 8 dní“ mohl uvěřit „jenom naprostý imbecil“. Zítko podle něj vybral přes 750 tis. Kč, dostal pokutu 40 tisíc, „710 tisíc mu zůstalo za nehtem“; podklady k přejmenovanému účtu mu tehdy poskytla Tarabová.
+- Libor Malý ho „naprášil“, protože dostával jen „pětku“ měsíčně.
+
+Dále uvádí historky o nebankovní půjčce z roku 2010 („když to nebyl Zítko, tak jeho klon“) a o paní Janě, která mu prý dala 2× 50 tisíc „bez papíru“. Vyzývá ženy, které Zítko případně okradl, aby založily skupinu a podaly hromadné trestní oznámení. Vlastní spolek Čest Svoboda Respekt / Společenství má podle něj na účtech „skoro 800 tisíc“ a on z nich „nevzal jedinou korunu“ bez dokladu a souhlasu členů.
+
+> „Zítko, neznám většího […] hajzla, než seš ty. A kdyby to jenom trochu šlo, tak bych ti do toho kriminálu pomohl. S chutí bych ti namazal tu skluzavku.“ — Jiří Černohorský
+
+⚡ **Konflikt:** 28. 9. se Černohorský Zítkovi veřejně omluvil za nařčení, že profil „Politický vězeň Čermák“ založil Zítko. Nyní tentýž profil bere jako autentické Čermákovo svědectví proti Zítkovi. Zítko naopak tvrdí, že profil spravuje otčím Turek a že má protokol a nahrávku z Chomutova, které ukazují, kdo Čermáka skutečně udal (viz [kauzy.md](kauzy.md)).
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Videoportál: falešný profil Čermák, 27. 9. 2026](_zdroje.md#jiří-černohorský--videoportál-falešný-profil-čermák-27-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Videoportál: omluva Zítkovi (28. 9. 2026)](_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026), [Černohorský — Reels: Tušl a „Čechoslováci" (1. 10. 2026)](_zdroje.md#jiří-černohorský--reels-1-10-2026), [Černohorský — „Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 
 ---
 

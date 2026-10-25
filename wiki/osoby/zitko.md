@@ -393,8 +393,6 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Tomáš Čermák („pravý“) | ✅ pozitivní | „Zůstaň v bezpečí… tvůj čas teprve přijde“ — čekají ho „na tanku s Prigožinem nebo Kadyrovem“ | 2026-10-16 | [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026) |
 | Bob Acer | ⚖️ rozporuplný | Přednesl „přesně a exaktně“ část o ČSR, ale sdílí fotomontáže „hry na Čermáka“ | 2026-10-14 | [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026) |
 | Petr Pavel | ❌ negativní | „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka | 2026-10-10 | [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026) |
-
----
 | Jiří Černohorský | ❌ negativní | „Loutkovodič“ útočníka, „čisté zlo“; ironicky „Nezdolný“, sblížil se s Tarabovou | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
 | Václav Rada | ❌ negativní | Ironicky „Čistý“; diváci mu mají napsat, co si o něm myslí | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
 | Lenka Tarabová | ❌ negativní | Ironicky: začala si „velmi rozumět“ s Černohorským | 2026-10-18 | [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026) |
@@ -406,6 +404,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Jiří Černohorský | ❌ negativní | „Jedenáctiletý“, v „honu na Zítka“ s Bernardy „jeden šik“ | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
 | Jana Peterková | ✅ pozitivní | Půjčila mu profil k vysílání | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
 | Petr Varhaník | ✅ pozitivní | Jediný další, kdo nabídl profil k vysílání | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
+
+---
 
 ## Zpracované zdroje
 

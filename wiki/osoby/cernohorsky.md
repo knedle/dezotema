@@ -53,6 +53,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **28. 9.** — veřejná omluva Zítkovi — profil „Politický vězeň Čermák" je podle „důvěryhodného zdroje" Čermákův — [Videoportál: omluva Zítkovi (28. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-omluva-zítkovi-28-9-2026)
 - **1. 10.** — žaloba na Tušla za pomluvu, čísla ze sbírek; „Čechoslováci" do klece, výzva Metnarovi; změna „bez krve v ulicích" — [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026)
 - **5. 10.** — spory ve vlastenecké scéně (Bernardy, Tušl, Novas, Vidra, Galligardy); Babišova vláda „nic nevyšetřuje" (dluh 4 bil., bitcoin, Dozimetr, Kampelička, Lex Ukrajina); „až se nasere 5 milionů lidí" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) → [politicky-system.md](../politicky-system.md)
+- **20. 10.** — příspěvek profilu Čermáka potvrzuje, že ho udal Zítko („vykoupil se“); rekapitulace Zítkových „podvodů“ (Lexus Tycoon 69, andělské hlídky, fény, prezidentská sbírka 750 tis.); výzva k hromadnému trestnímu oznámení; spolek má 800 tis., „nevzal ani korunu“ → [politicky-system.md](../politicky-system.md) — [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -220,6 +221,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **28. 9.** — Vrabel a Sládek „rozbít rypáky, vykopat z ČR"; Zítko „patří do kriminálu" — [Facebook Live (28. 9. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
 - **1. 10.** — Tušl „rozmlátím rypák", Rakušan „dal po tlamě", „Čechoslováci" do klece — [Reels: Tušl a „Čechoslováci" (1. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-1-10-2026)
 - **5. 10.** — Stanjura „svině… jak je možný, že je na svobodě"; Facebookáři „rozbije bejsbolkou palici" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+- **20. 10.** — Zítko „zmrd skurvenej“, „kripl“; „s chutí bych ti namazal skluzavku“ do kriminálu „aspoň na 5–6 roků“ — [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 
 ---
 
@@ -425,6 +427,12 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Josef Skála | ✅ pozitivní | Upozorňoval na Donbas od 2016–2017 | 2026-10-05 | [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) |
 | Kaja Kallasová / Ursula von der Leyenová | ❌ negativní | Vulgárně napadeny za narativ „ruského agresora" | 2026-10-05 | [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) |
 | Václav Havel | ❌ negativní | „Opilec“, „sluha dosazený cizáky“; zesměšňuje petici za národní památku | 2026-10-06 | [Havel jako národní památka (6. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-havel-národní-památka-6-10-2026) |
+| Pavel Zítko | ❌ negativní | Udal Čermáka, aby se „vykoupil“; „zmrd“, „hajzl“, okrádá lidi (fény, andělské hlídky, prezidentská sbírka); patří do kriminálu | 2026-10-20 | [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026) |
+| Tomáš Čermák | ✅ pozitivní | Profil je jeho; „obyčejný kluk“, kterému Zítko „strčil hlavu do oprátky“ | 2026-10-20 | [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026) |
+| Jana Peterková | ❌ negativní | Mezi „zmrdy kolem Zítka“; možná znala Čermákovo číslo | 2026-10-20 | [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026) |
+| Renata Bernardy | ❌ negativní | Mezi „zmrdy kolem Zítka“, zneužívali Čermákův případ | 2026-10-20 | [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026) |
+| Libor Malý | ❌ negativní | Patřil k okolí Zítka; Zítka „naprášil“ kvůli dělení peněz | 2026-10-20 | [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026) |
+| Lenka Tarabová | ✅ pozitivní | Poskytla mu podklady k Zítkovu přejmenovanému účtu | 2026-10-20 | [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026) |
 
 ---
 
@@ -497,3 +505,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live: kauza Vlasáková (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026)
 - [Facebook Live (2): Vlasáková, „mafie", vlastenecká scéna, písmeno Z (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
 - [Havel jako národní památka (6. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-havel-národní-památka-6-10-2026)
+- [„Jedenáctiletý opět nazvracel na Zítka“: Zítko udal Čermáka (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
