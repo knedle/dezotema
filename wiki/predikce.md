@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — „za dva roky demokrati vyhrajou“ v USA; velká válka je „za dveřma“ (18. 10. 2026)
+
+**Předpověď:** Za dva roky (prezidentské volby 2028) v USA zvítězí demokraté, kteří jsou podle něj „úplně šílený do války s Ruskem“. Evropa ale na ně nemusí čekat a do velké války s Ruskem může jít už dříve.
+
+> „Uvědomte si, že za dva roky demokrati vyhrajou ve Spojených státech.“ / „Mně to tak připadá, že ta válka opravdu je za dveřma. Myslím, jako velká válka.“ — Ladislav Vrabel
+
+**Horizont:** prezidentské volby v USA 2028; válka neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 18. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026)
+
+---
+
+### Ladislav Vrabel — nová vlna statisíců až milionů Ukrajinců; budou chtít, aby Češi šli na frontu (18. 10. 2026)
+
+**Předpověď:** Kvůli eskalaci války a zimě přijdou do ČR „párset tisíc, ne-li v milionech“ dalších Ukrajinců; ukrajinská strana v příštích parlamentních volbách buď zvítězí, nebo bude druhá. Ukrajinci, kteří „už mají odslouženo“, budou podle něj chtít, aby Češi šli sloužit na frontu (nejdřív půjdou země Bukurešťské devítky).
+
+> „Prostě počtejte s tím, že teď se k nám dostane zase párset tisíc, ne-li v milionech Ukrajinců. Ta země už vůbec nebude naše.“ — Ladislav Vrabel
+
+**Horizont:** nejbližší zima 2026/27; strana v příštích parlamentních volbách
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 18. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026)
+
+---
+
 ### Ladislav Vrabel — bez nenásilné revoluce přijde změna systému válkou s Ruskem nebo občanskou válkou v Evropě (17. 10. 2026)
 
 **Předpověď:** Pokud se nepodaří nenásilná změna systému, přijde změna násilnou cestou: válkou s Ruskem, nebo občanskou válkou v Evropě. Západ je podle něj „možná před změnou systému skrze občanskou válku“.

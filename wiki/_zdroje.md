@@ -5728,3 +5728,11 @@
 - **Datum záznamu:** 2026-10-17
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 12 min (vysílání od 3:00), zprávy čte Zuzana, připravil režisér Ivan. Úsek [40:31–40:59] (sdílené video v polštině) bez přepisu.
+
+## Ladislav Vrabel — Nedělní vysílání 18. 10. 2026 {#ladislav-vrabel--nedělní-vysílání-18-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-18_Ladislav-Vrabel_18-10-2026-Pravidelné-nedělní-živé-vysílání-ve-21h.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1087758477366995>
+- **Datum záznamu:** 2026-10-18
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 36 min (vysílání od 3:00), monolog s dotazy z chatu; sdílená videa protestů ve Francii a Itálii ([34:00–36:41], zvuk zčásti zkomolený), krátké video Babiše a Fica v Novém Sadu.
