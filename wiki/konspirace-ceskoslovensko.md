@@ -318,3 +318,27 @@ K výročí sjednocení Německa Zítko tvrdí, že šlo o protiprávní akt: ke
 
 **Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 
+---
+
+### Bob Acer: 46bodový „návod, jak se vrátit domů“; nepodepsaný zákon 542/1992, „BAR“ a insolvence korporací (Zítko a Acer, setkání Frýdek-Místek 10. 10. 2026)
+
+V prvním bloku setkání Čechoslováků ve Frýdku-Místku (záznam Petr Bureš TV, zveřejněn 20. 10.) přednesl Bob Acer argumentaci státoprávní kontinuity. Zákon č. 11/1918 podle něj založil nedělitelný unitární stát „navždy, bez data expirace“. Představa referenda o existenci státu je podle něj „podstrčená past“, absurdní jako oddávající, který by novomanželům nabídl každotýdenní referendum, zda chtějí být spolu. Benešova doktrína kontinuity (dekret 11/1944) podle něj dokládá, že akty z let 1938–39 i 1992 nemohly stát zrušit de iure. ČSR jako zakládající člen OSN si prý drží „původní křeslo“. Ústavní zákon 542/1992 zrušil jen federální aparát ČSFR, ne Československo z roku 1918, a dnešní ČR je „fiktivní komerční struktura postavená na černo“. Tvrzení „ČR je unitární stát“ je podle Acera „totální výsměch“, protože systém „ukradl“ princip nedělitelnosti původnímu celku.
+
+Následuje 46bodový program „návratu domů“:
+- měnová suverenita pod veřejnou kontrolou, krytí měny a zlatý poklad;
+- oddlužení občanů vůči „nelegitimním korporátním institucím“ a zrušení „lichvářských“ exekucí;
+- revize privatizace po roce 1989;
+- voda a energie vyňaté z trhu za nákladové ceny;
+- potravinová soběstačnost a družstevnictví;
+- audit zahraničního dluhu;
+- neutralita „bez účasti na cizích vojenských paktech“;
+- „všelidové volby“ přímých a okamžitě odvolatelných zástupců (ne referendum o existenci státu);
+- „protokol o předání správních agend“ zvoleným zástupcům, „dočasná správa v kontinuitě“ z „uznávaných autorit“ a závěrečné „vyhlášení plné suverenity“.
+
+Zítko navazuje svou verzí. „Podvod“ s korporacemi podle něj začal už v roce 1871 vznikem „USA Incorporation“, ČSR „patřila mezi poslední“. Referendum v roce 1992 se prý nevypsalo, protože tehdy „ještě neměli Smartmatic a Dominion“, aby ho „cinkli“. Zákon 542/1992 podle něj nepodepsal prezident, protože Havel abdikoval, takže rozdělení nemá právní platnost a veškeré normy přijaté od té doby jsou „nulitní“. Tlak na rozdělení přišel podle něj z London City (Klaus a Mečiar „pelášili rovnou z letadla“ pro „volmíně notičky“) a z Německa, které se tím vyhnulo reparacím: 29 bilionů Kč, tj. 9 500 tun zlata. Reparace podle něj nejsou převoditelné na „korporace“ vzniklé po roce 1993. O obnově ČSR prý nerozhodne Fiala, Babiš ani „ten, co sedí na Hradě“, ale „vítězné mocnosti“ (Trump, Putin, Módí, Si Ťin-pching) při mírových jednáních o budoucích hranicích. Do té doby mají být připraveny „podílové listy“ a doplatky faktur, aby se podle obchodního zákoníku vyhlásila insolvence „korporace Česko“ a „korporace Slovensko“. Advokáty podle něj sdružuje komora, která je „partnerskou společností BAR – British Association Register“, „proto všichni drží hubu a krok“. Potravinové zásoby ČR prý vydrží jen 1,5 dne (denně přijíždí 1 800–1 900 kamionů s jídlem) a „fašistické a nacistické praktiky“ EU míří na domácí chovy a pěstování, aby lidé byli odkázáni na obchody.
+
+> „Pokud zákon nepodepíše prezident, není platný, ani tím pádem rozdělení Československa nemůže mít právní platnost a veškeré normy od té doby přijaté jsou nulitní.“ — Pavel Zítko
+
+⚡ **Poznámka:** Ústavní zákon 542/1992 Sb. podepsali předseda Federálního shromáždění Michal Kováč a předseda vlády ČSFR Jan Stráský, na kterého po abdikaci Václava Havla (20. 7. 1992) přešly pravomoci prezidenta. Sám Zítko 5. 10. zpochybňoval právě Stráského podpis (vláda „bez důvěry“), nyní tvrdí, že zákon nepodepsal nikdo v roli prezidenta.
+
+**Zdroje:** [ČsTV2 — První díl setkání Čechoslováků: Bob Acer a Zítko (záznam 10. 10., zveřejněno 20. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026)

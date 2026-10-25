@@ -189,6 +189,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **10. 10.** — volby „do korporátních orgánů, nikoliv do státních“, „není koho volit“; blíží se blackout/„překvápko“, datum zná jen ~10 lidí (→ [predikce](../predikce.md)) — [Setkání Frýdek-Místek: zahájení](../_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
 - **15. 10.** — Klaus kandidoval 1992 do FS, ne do ČNR (Hlásenský) → podvodné rozdělení funkcí; „korporaci Česko“ mohou prodat předluženou „třeba na Ukrajinu“; rekapitulace ČSR argumentů — [Proč jsme stále Československo (15. 10.)](../_zdroje.md#československo-tv2--proč-jsme-stále-československo-15-10-2026)
 - **16. 10.** — „krádež identity“: Popelka a Dora, 200 000 dvojníků, 20 Trumpů/Putinů, JD Vance = Paul Walker; EBS do 72 hodin / před midterms, 3–10 dní temnoty, QFS (→ [predikce](../predikce.md)); kritici jako „hmyz“, na něž „bude myšleno“ (→ [stoch. teror](../stochasticky-teror.md)) — [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
+- **20. 10.** — záznam 1. bloku Frýdku-Místku: Acerův 46bodový „návod, jak se vrátit domů“; zákon 542/1992 nepodepsal prezident → vše „nulitní“; London City a Německo (29 bil. reparací) za rozdělením; insolvence korporací, rozhodnou vítězné mocnosti; advokátní komora = „BAR“; zásoby jídla na 1,5 dne → [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [První díl setkání Čechoslováků: Bob Acer a Zítko (20. 10. 2026)](../_zdroje.md#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -404,6 +405,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Jiří Černohorský | ❌ negativní | „Jedenáctiletý“, v „honu na Zítka“ s Bernardy „jeden šik“ | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
 | Jana Peterková | ✅ pozitivní | Půjčila mu profil k vysílání | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
 | Petr Varhaník | ✅ pozitivní | Jediný další, kdo nabídl profil k vysílání | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
+| Bob Acer | ✅ pozitivní | Přednesl argumentaci kontinuity ČSR a 46bodový „návod, jak se vrátit domů“ | 2026-10-10 | [První díl setkání Čechoslováků: Bob Acer a Zítko (20. 10. 2026)](../_zdroje.md#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026) |
 
 ---
 
@@ -519,3 +521,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Videoportál: ČT lže o Čermákovi (18. 10. 2026)](../_zdroje.md#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026)
 - [ČsTV2 — Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026)
 - [ČsTV2 — Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026)
+- [ČsTV2 — První díl setkání Čechoslováků: Bob Acer a Zítko (20. 10. 2026)](../_zdroje.md#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026)

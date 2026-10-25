@@ -224,7 +224,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** neurčeno („blíží se“)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [ČsTV2 — Setkání Čechoslováků ve Frýdku-Místku: zahájení (10. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026)
+**Zdroj:** [ČsTV2 — Setkání Čechoslováků ve Frýdku-Místku: zahájení (10. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026), [ČsTV2 — První díl setkání Čechoslováků: Bob Acer a Zítko (záznam 10. 10., zveřejněno 20. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026) (týž výrok v delším záznamu)
 
 ---
 

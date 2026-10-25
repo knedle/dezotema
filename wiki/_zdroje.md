@@ -5704,3 +5704,11 @@
 - **Datum záznamu:** 2026-10-20
 - **Zpracováno:** ano
 - **Poznámka:** 26 min 13 s. Zpracováno jako zdroj Černohorského (jeho originál v sadě přepisů chybí).
+
+## ČsTV2 — První díl AKCE SETKÁNÍ ČECHOSLOVÁKŮ: Bob Acer a Pavel Zítko, ČSR včera, dnes a zítra (záznam 10. 10., zveřejněno 20. 10. 2026) {#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-20_Československo-TV2_První-díl-AKCE-SETKÁNÍ-ČECHOSLOVÁKŮ.txt)
+- **Kanál:** Československo TV2 (záznam Petr Bureš TV)
+- **URL:** <https://m.facebook.com/watch/?v=1408401321456370&_rdr>
+- **Datum záznamu:** 2026-10-10 (zveřejněno 2026-10-20)
+- **Zpracováno:** ano
+- **Poznámka:** 58 min 18 s, první blok setkání ve Frýdku-Místku; úvod se kryje se [zahájením 10. 10.](#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026), přednáška Boba Acera je tu poprvé srozumitelně. Úsek [49:08–53:40] bez přepisu.
