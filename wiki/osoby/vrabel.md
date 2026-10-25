@@ -1052,6 +1052,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **9. 9.** — Facebook druhý den po sobě vypnul živé vysílání v polovině — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
 - **9. 10.** — zadržení Zvinčuka (Rybar) — odmítl s ním natáčet kvůli sankcím; Valášek „likviduje lidi“ — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - **19. 10.** — souhlas s Babišovou výzvou, „média zdivočela“; mediální zákon s licencemi a likvidačními pokutami za válečnou propagandu; mediální „popravy“ (Bárta, Nečas, Rath, on sám) — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+- **23. 10.** — Facebook potlačuje dosah (25 z 34 tisíc), „média na míru“ a politické cílení přes Palantir; studentské protesty dělají sociální sítě; odpovědní „do vězení na 20–30 let“ (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 11)
 - **9. 9.** — opakuje beze změny výzvu „zachraň se, kdo můžeš" (Jugoslávie jako analogie) — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
@@ -2078,6 +2079,11 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Giorgia Meloniová | ❌ negativní | Daní energetické firmy kvůli zbrojení jako Babiš; „když si šňupne, tak je taková veselá“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
 | Robert Fico | ✅ pozitivní | Slovensko je díky němu svobodnější než ČR; „další na řadě, koho je potřeba odstranit“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
 | Tomio Okamura / SPD | ❌ negativní | Hlasování ministrů SPD proti režimu Ukrajinců je divadlo „opozice ve vládě“, „nikdo už jim nevěří“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Michal Svatoš | ❌ negativní | Nepřišel na demonstraci proti jadernému vyzbrojení, u Petra Hájka šíří „podvraťácké lži“ (hacienda v Srbsku), aby získal funkci v SPD či PRO | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
+| Petr Hájek | ❌ negativní | Z „Klausovy rodiny“ jako Macinka, proto se staví proti Vrabelovi | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
+| Jindřich Rajchl | ❌ negativní | „Robot“, který ho kopíruje slovo od slova, otočil Václavák proti Rusku a udával lidi za „Z“; novela § 405 „pičovina“ | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
+| dr. Vítová, Miroslav Sládek | ✅ pozitivní | Jediní, kdo na „zaprodané“ vlastenecké scéně zůstali „rovní“ | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Odmítá sankce proti Rusku i zbraně pro Ukrajinu, „pracuje jen pro Srby“ — vzor pro ČR | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
 
 ---
 
@@ -2260,3 +2266,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
 - [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 - [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+- [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)

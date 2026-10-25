@@ -5792,3 +5792,11 @@
 - **Datum záznamu:** 2026-10-23
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 14 min, zprávy čte Zuzana, Vrabel vysílá z cesty (klienti v Subotici); v přepisu výpadek zvuku asi 26:00–30:20; bez sdílených videí.
+
+## Ladislav Vrabel — Facebook Live (23. 10. 2026) {#ladislav-vrabel--facebook-live-23-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-23_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1127971723261438>
+- **Datum záznamu:** 2026-10-23
+- **Zpracováno:** ano
+- **Poznámka:** 45 min, monolog z procházky po Subotici (Srbsko); potlačování dosahu na Facebooku, Srbsko jako vzor, kritika Rajchla a Svatoše; bez sdílených videí.

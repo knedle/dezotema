@@ -95,7 +95,11 @@ Vrabel rozvíjí tezi o Facebooku jako nástroji řízení společnosti (navazuj
 
 > „Facebook je mnohem nebezpečnější než média. [...] Vy nevidíte, komu se co zobrazuje." — Ladislav Vrabel, [Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 
-**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+**23. 10.** — V živém vysílání ze Subotice, kde ho po několika minutách sledovalo 25 lidí z 34 tisíc sledujících (dřív prý okamžitě 200), Vrabel tezi rozvádí: jeho příspěvky s 300 sdíleními vidí 10–30 tisíc lidí, u nepotlačovaných autorů 300 tisíc. Sociální sítě podle něj každému vytvářejí „média na míru“, takže nikdo neví, co vidí ostatní, a jsou proto „mnohem silnější nástroj“ politické propagandy než televize nebo zpravodajské weby. Nově to propojuje s Palantirem a Stargate: z profilů lidí AI vyhodnotí, „jakým způsobem mají cílit politicky“, a podle toho se vybírají a nadhánějí „schopní politici“ (lajky Rajchla, příspěvky SPD), zatímco SPD v Karviné ve skutečnosti „nemá jedno křeslo“. Sociální sítěmi vysvětluje i studentské protesty od Itálie po Irsko, Albánii a Tunisko — „to dělají globalisté“, kteří studenty zneužívají k politice. Potlačování dosahu je podle něj v rozporu s ústavním právem na informace, „za to by všichni ty lidi, kteří tohle dělaj, měli jít do vězení minimálně na 20–30 let“ (viz [Stochastický teror](stochasticky-teror.md)); Česko označuje za „hlubokou totalitu“, kterou nelze prorazit, a jako jedinou cestu vidí přivádět lidi na pravidelné Zprávy v devět.
+
+> „Ten Facebook prostě každému udělá na míru ty jeho média. A my to nevíme, jak to udělají.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026), [Ladislav Vrabel — Facebook Live 23. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
 
 ---
 
