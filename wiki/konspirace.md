@@ -868,6 +868,16 @@ Boldy propojuje výše popsanou katastrofu v Nepálu s plánovanou výstavbou 17
 
 ---
 
+### Hurikán Melissa uměle vyvolán kvůli „Vizi 2030“ pro Jamajku (Boldy, 29. 10. 2025)
+
+Boldy tvrdí, že hurikán Melissa, který zasáhl Jamajku (podle něj silnější než Katrina, rozsahem větší než celá ČR, tři čtvrtiny ostrova bez proudu), nemá „žádné přírodní rozměry“, ale byl uměle vyvolán — jako důkaz uvádí existenci „patentu na řízení hurikánů a tornád“. Motiv spatřuje v jamajském rozvojovém plánu „Vize 2030“ (připravovaném od roku 2009): katastrofa má podle něj ostrov „totálně vyčistit“, zlikvidovat majetek a podniky místních obyvatel a uvolnit místo pro novou infrastrukturu a byznys elit. Kdo považuje hurikán za přírodní jev, ať „spí dál ve své bublině“. Jde o stejný vzorec jako u pozdějšího výkladu [Smart Cities a zničení Nepálu](#smart-cities-a-depopulace-jako-motiv-cíleného-zničení-nepálu-boldy-27-8-2026); navazuje na [geoinženýrství a patenty na modifikaci počasí](#geoinženýrství-patenty-od-1896-bill-gates-přes-neziskovky-vesmírná-zrcadla-boldy-17-7-2026).
+
+> „Jamajka je jenom další projekt elit, kde se vyčistí totálně celá Jamajka a vytvoří se nová infrastruktura pro tadyto ty elity a pro jejich biznis.“ — Boldy
+
+**Zdroje:** [Boldy — Hurikán Melissa, Nová Jamajka 2030 (29. 10. 2025)](_zdroje.md#konspirátor-boldy--hurikán-melissa-nová-jamajka-2030-29-10-2025)
+
+---
+
 ### ⚡ Laviny v Nepálu jako řízený útok raketou z letadla — analogie s 9/11 jako „největší globální podvod" (Černohorský, 27. 8. 2026)
 
 V reakci na sdílené video Michala Boldyho o katastrofálních lavinách v Nepálu (stovky mrtvých a pohřešovaných) Černohorský spekuluje, že laviny nezpůsobilo zemětřesení, ale záměrně vypálená střela „vzduch-země" z letadla ve výšce kolem šesti kilometrů — všímá si, že katastrofa přišla těsně před výročím (necelé dva roky) nepálských protestů, při nichž obyvatelé svrhli vládu a vypálili vládní budovy. Srovnává to se svým dlouhodobým přesvědčením, že útoky z 11. září 2001 byly „inside job" americké vlády (zpochybňuje pád třetí budovy WTC, neexistenci záběrů letadla u Pentagonu, kráter v Pensylvánii) — a z toho vyvozuje, že podobně „řízená" katastrofa v Nepálu je pravděpodobnější než náhoda. Viníkem označuje kolektivně „globální hajzly" a explicitně „tyhle židy", kteří podle něj ovládají svět a událost byla jejich „pomstou" nebohým Nepálcům za loňské povstání.

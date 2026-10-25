@@ -5616,3 +5616,11 @@
 - **Datum záznamu:** 2026-10-16
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 3 min, zprávy čte Zuzana, režie Ivan. Krátká sdílená videa (Trump, Istanbul, Albánie).
+
+## Konspirátor Boldy — Hurikán Melissa: Nová Jamajka 2030 (29. 10. 2025) {#konspirátor-boldy--hurikán-melissa-nová-jamajka-2030-29-10-2025}
+- **Soubor:** [přepis](prepisy/done/2025-10-29_Konspirátor-Boldy-KonspyChannel_Hurikán-Melissa-Nová-Jamajka-2030.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1183831613677407>
+- **Datum záznamu:** 2025-10-29
+- **Zpracováno:** ano
+- **Poznámka:** 2 min 36 s. Starší video stažené dodatečně.
