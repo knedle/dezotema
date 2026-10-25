@@ -439,7 +439,9 @@ Vrabel označuje celý řetězec (insolvenční správce, policie, státní zast
 
 V nedělním vysílání **21. 6. 2026** kauzu zopakoval s dalšími detaily: insolvenční správce si prý část nároku „vymyslel" (570 tis. Kč chybným sečtením), soud uložil platbu „bez jakéhokoliv dokazování" a s příslušenstvím dluh dnes dosahuje ~3 milionů Kč. K Evropskému soudu (ESLP) lze podle něj jít až po vyčerpání všech opravných prostředků v ČR (nejvyšší + ústavní soud); ve věci „bezpečnostního ohrožení" je to navíc zákonem vyňato ze soudního přezkumu. Bojanu označuje za srbskou nacionalistku, která jen pomáhala jemu — není „český vlastenec" ani ohrožení ČR.
 
-**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026), [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+**21. 10. (FB Live)** — Vrabel kauzu zařazuje mezi případy, jejichž rehabilitaci a odškodnění žádá od státu v souvislosti s novelou trestního zákoníku. Nově líčí i vlastní insolvenci: řádně ji splácel, ale po velkých demonstracích v roce 2022 insolvenční správce a soudce podle něj „vymysleli“, že když je schopen pořádat takové demonstrace, může platit víc, a insolvenci zrušili — nyní je v konkurzu, což označuje za „absolutně protiprávní“. Postup správce, soudce a policisty vůči manželce (dluh dnes kolem 3 milionů Kč) nazývá „politicky organizovaný zločin“. Rehabilitaci chce i za zničené podniky (pět na Vltavě, dvě pizzerie a kavárna v Českých Budějovicích) a za odsouzení za dotační podvod, které podle něj byly kompenzace za Babišem zavřené podniky.
+
+**Zdroje:** [Vrabel — Nedělní vysílání 24. 5. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026), [Vrabel — Nedělní vysílání 21. 6. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026), [Ladislav Vrabel — Facebook Live 21. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
 
 ---
 

@@ -5768,3 +5768,11 @@
 - **Datum záznamu:** 2026-10-21
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 11 min (vysílání od 3:00), zprávy čte Zuzana, Vrabel vysílá ze studia v Bělehradě; krátké sdílené klipy: Jana Bobošíková o Babišově ukrajinské klinice, Vackova tisková konference PRO z roku 2023, Rajchlova TK k novele trestního zákoníku (20. 10.) a Witkoff u Putina; na konci soutěž o plakáty na pochod 17. 11.
+
+## Ladislav Vrabel — Facebook Live (21. 10. 2026) {#ladislav-vrabel--facebook-live-21-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-21_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2599525103880888>
+- **Datum záznamu:** 2026-10-21
+- **Zpracováno:** ano
+- **Poznámka:** 17 min, monolog z Bělehradu reagující na Rajchlovu TK k novele trestního zákoníku; rehabilitace politicky persekvovaných a pozvánka na pochod 17. 11. se soutěží o plakáty; bez sdílených videí.

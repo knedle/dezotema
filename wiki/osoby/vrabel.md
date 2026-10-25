@@ -1259,6 +1259,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **18. 9.** — EGAP/COVID+ peníze na vývoz na Ukrajinu — dvojí metr vůči vlastnímu odsouzení — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
 - **22. 9.** — Koudelka (BIS) měl spáchat trestný čin šíření poplašné zprávy výrokem o ruském útoku „v řádu měsíců" — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 - **21. 10.** — Babiš nepřímým spolumajitelem ukrajinské kliniky (Bobošíková): „brutální střet zájmů“, „nástěnka největších lhářů, podvodníků“; banky jako obětní beránek, „slibotechna“, schodek poroste (→ [predikce](../predikce.md)) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- **21. 10. (FB Live)** — zrušená insolvence po demonstracích 2022 a dluh manželky jako „politicky organizovaný zločin“, žádá rehabilitaci i pro sebe — [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 9)
 - **18. 9.** — Húsíové rozšiřují územní zisky, ohrožují saúdský export ropy — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1293,6 +1294,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **20. 10.** — Trump by v ČR „měl být odsouzený“ jako lidé se „Z“; pochod 17. 11. „za svobodu politického projevu Donalda Trumpa“; Trump říká, co chce „absolutní většina“ — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - **20. 10. (FB Live)** — bez tribunálu RB OSN nelze státu přisuzovat válečné zločiny, zatýkání za „Z“ „čistý fašismus“; pochod 17. 11., rok 1989 „nemůžeme slavit jako vítězství svobody“ — [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
 - **21. 10.** — Rajchl „otočil kabátek“ (§ 318a, § 405), „zářez na pažbě“; omluva a rehabilitace všech stíhaných, pochod 17. 11. i „za očištění“ politicky persekvovaných — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- **21. 10. (FB Live)** — změna § 405 je „povinnost“; omluva, odškodnění a zrušení rozsudků za tří vlád (Popelka, Čermák, Volný); Rajchl „psychopat“, Okamura a Majerová „ničí vlasteneckou scénu“ — [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 18)
 - **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2045,6 +2047,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Nicolás Maduro | ✅ pozitivní | Soucit s ním a s jeho manželkou, kterou podle něj při zatýkání mučili | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
 | Volodymyr Zelenskyj | ❌ negativní | Za peníze daňových poplatníků si kupuje podíl v investiční bance, hotely, jachty a vily; zmrazení fronty jen kvůli vojskům NATO | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
 | Luboš Volný, Katka Blahníková | ✅ pozitivní | Patří mezi politicky stíhané, kteří mají být rehabilitováni a dostat omluvu | 2026-10-21 | [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026) |
+| Jindřich Rajchl | ❌ negativní | „Psychopat“ bez svědomí, „prodejnej“, „vždycky bude otáčet kabát“; nezmínil lidi, které sám udal; „budeme ho tepat“, dokud stíhané neodškodní | 2026-10-21 | [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026) |
+| Tomio Okamura, Zuzana Majerová | ❌ negativní | S Rajchlem dlouhodobě „ničí vlasteneckou scénu“, vlastenectví „zobchodují“ za funkce | 2026-10-21 | [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026) |
+| Vít Rakušan | ❌ negativní | Označil jeho manželku za bezpečnostní riziko státu | 2026-10-21 | [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026) |
+| Slávek Popelka, Tomáš Čermák | ✅ pozitivní | Politicky persekvovaní: Popelka má po vězení leukémii, Čermáka trest 5,5 roku „úplně zlomil“ | 2026-10-21 | [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026) |
 
 ---
 
@@ -2224,3 +2230,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
 - [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
