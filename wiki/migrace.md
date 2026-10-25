@@ -752,6 +752,30 @@ Rajchl rozvádí svou dřívější zmínku o Ulrichu Sigmundovi (šéf AfD pro 
 
 ---
 
+### „Francie hoří“: reálná invaze, nasazení armády a remigrace; Mladá Boleslav a „stockholmský syndrom“ voličů (Rajchl, 18. 10. 2026)
+
+Nepokoje ve Francii (a v menší míře v Itálii) Rajchl označuje za „úpadek Evropy v přímém přenosu“ a důsledek „absolutního selhání všech sociálních inženýrů“, kteří tvrdili, že multikulturalismus a migrace Evropu obohacují. Stát podle něj na některých místech ztratil kontrolu a nezvládá to ani policie. Jde prý o „reálnou invazi, reálný převrat“ lidí, kteří odmítají respektovat evropské zásady, a je na místě zvážit nasazení armády. Ostatní radikální muslimové se podle něj budou inspirovat v dalších zemích. Nepokoje považuje za větší hrozbu pro bezpečnost Evropy než cokoliv, co se děje na Ukrajině. Odpovědnost mají nést Emmanuel Macron a Ursula von der Leyenová, kteří by měli odejít, protože „nám mávali před očima migračním paktem“. Výrok Ulricha Siegmunda (AfD), že zbraně se budou hodit „kvůli migrantům“, označuje za „nadčasový“ (viz [Dvojí metr Evropy, 16. 9.](#dvojí-metr-evropy-zbrojení-proti-rusku-vs-kritika-zbrojení-proti-migrantům--80-útoků-bodnousečnou-zbraní-denně-v-německu-rajchl-16-9-2026)). Řešením je podle něj „naprosto tvrdý a nekompromisní přístup“ a „zcela vážně hovořit o remigraci“; víru v asimilaci nazývá naivní. Odsouzení SPD a Tomia Okamury za plakát s africkým migrantem s nožem dnes podle něj „všem normálním lidem“ připadá jako „totální absurdita a selhání justičního systému“. Nálepky xenofoba a rasisty jsou mu „absolutně jedno“.
+
+V ČR cituje průzkum, podle něhož se 63 % obyvatel Mladé Boleslavi (22 % cizinců, v Praze třetina) necítí ve městě bezpečně kvůli cizincům, „samozřejmě“ převážně Ukrajincům. Připomíná výrok Víta Rakušana, že Ukrajinci jsou „slušnější než Češi“ a nezvyšují kriminalitu, a odkazuje na studii Institutu pro kriminologii a zkušenosti policistů s „ukrajinskými rvačkami“ s noži (viz [NCOZ studie, 5. 5.](#ncoz-studie-organizovaný-zločin-v-čr-ovládli-ukrajinci--rajchl-5-5-2026)). Že tito lidé dál volí strany bývalé pětikoalice, nazývá „téměř stockholmským syndromem“. Zelenského varování, že při pádu Ukrajiny přijde 20 milionů Ukrajinců, nebere vážně, ale tvrdí, že pětikoalice by je „znovu vítala“.
+
+> „Dnes je zapotřebí zcela vážně hovořit o remigraci. Zcela vážně.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+
+---
+
+### Dovoz pracovníků z Filipín a Indonésie tlačí dolů mzdy; pracovní agentury jako „vyděračské gangy“; zrušit dávky (Rajchl, 18. 10. 2026)
+
+Rajchl nesouhlasí s plánem Babišovy vlády zvýšit kvóty pro pracovníky z Indonésie a Filipín. Cizinci zvyklí na jiné podmínky nebo Ukrajinci, kteří k mzdě pobírají 10–15 tisíc Kč dávek, jsou ochotni pracovat za 20 tisíc, za které Čech „nezaplatí ani nájem, energie, potraviny a léky“. Vzniká tak nerovnováha, kdy Češi buď práci nemají, nebo pracují za neadekvátní mzdu a musí brát druhou a třetí práci, „cesta do pekel“. Přínos mají jen velcí zaměstnavatelé a „nadnárodní korporace“, kterým se líbí „otrocká mzda“ přes pracovní agentury, jež „nejsou ničím jiným než vyděračskými gangy“. ČR podle něj nemá nedostatek práce, ale „nedostatek adekvátně zaplacené práce“.
+
+Jako řešení navrhuje snížit dávky „notorickým nemakačenkům“ a přebudovat sociální systém na adresný, zeštíhlit stát a zrušit zbytečné agendy diktované EU. Snížení dávek Ukrajincům na polovinu, které prosadil klub SPD, je podle něj málo: dávky by „už neměly být žádné“ (kromě zdravotně postižených). Nezaměstnanost Ukrajinců v produktivním věku uvádí na 25 % oproti 5 % u Čechů: kdo tvrdí, že jsou výdělečnější, „je prostě blázen“. Navazuje na [Ukrajinská migrace: rozsah, kriminalita a plán revize pobytu, 16. 8.](#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026).
+
+> „U nás je nedostatek adekvátně zaplacené práce.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+
+---
+
 ### Švédské volby rozhodly hlasy voličů s přistěhovaleckými kořeny — „Švédsko hotovo" (Vrabel, 14. 9. 2026)
 
 Podle zprávy, kterou Vrabel komentuje, švédské parlamentní volby těsně vyhrál středolevý blok (176 křesel) nad pravicovým blokem (173 křesel) díky hlasům voličů s přistěhovaleckými kořeny — dle citovaných čísel by bez těchto hlasů (rozdíl cca 3 křesla) zvítězila pravice. Vrabel z toho vyvozuje, že o výsledku švédských voleb rozhodli muslimští přistěhovalci, a označuje Švédsko za „hotové" — vzpomíná na vlastní zkušenost z 80. let, kdy platilo za jednu z nejsvobodnějších zemí světa, v kontrastu se současným stavem, který přirovnává k (blíže neurčenému) televiznímu seriálu o teroristkách ve švédské škole.

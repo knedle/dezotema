@@ -5624,3 +5624,11 @@
 - **Datum záznamu:** 2025-10-29
 - **Zpracováno:** ano
 - **Poznámka:** 2 min 36 s. Starší video stažené dodatečně.
+
+## Rajchl — Nedělní vysílání: senátní volby, Pavel a Maroko, Francie, Trump a Ukrajina (18. 10. 2026) {#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-18_Jindřich-Rajchl_Vysvětlení-nákladů-na-hrazení-cest-Petra-Pavla-na-tra.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/28531259029858973>
+- **Datum záznamu:** 2026-10-18
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 0 min, pravidelné nedělní živé vysílání.

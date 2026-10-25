@@ -126,6 +126,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **27. 9.** — emisní povolenky byly původně fixní daň, fondy z nich udělaly cenný papír (ETS1 81 €, ETS2 71 €); Green Deal zrušit, ne upravovat — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026) → [suverenita-eu.md](../suverenita-eu.md)
 - **29. 9. a 5. 10.** — ruskou ropu a plyn kupujeme stejně přes prostředníky (Indie, Turecko, Schwedt); vzor AfD jednající s Gazpromem; zrušit Green Deal, Schengen, eurozónu — [Rajchl — Videoportál: Green Deal a ruská ropa (29. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-green-deal-a-ruská-ropa-29-9-2026), [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026)
 - **11. 10.** — Trump kupuje 5 mil. t ruské ropy jako vzor („Trump je kolaborant?“, „hlupáci… dostali facku“); rozmrazení aktiv Lukoilu → zaplatíme my; „demokratický plyn“ přes Nord Stream, hrozí krize plynu (→ [predikce](../predikce.md)) — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+- **18. 10.** — Trumpův nákup ruské ropy jako „business case“ („ruská ropa s americkou visačkou“), pozastavení US sankcí; Trump „nezradil“, sankce = „vlastňák“ → [ceny-energie.md](../ceny-energie.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 
 ### [Migrace](../migrace.md)
 - **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
@@ -143,6 +144,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **9. 9.** — v televizní debatě opakuje beze změny zneužívání dávek a dočasné ochrany ukrajinskými migranty a Dánsko jako vzor (14 „bezpečných zón") — [Videoportál 9. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-9-9-2026) → [migrace.md](../migrace.md#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026)
 - **16. 9.** — „dvojí metr" Evropy: zbrojení proti Rusku vs. kritika zbrojení proti migrantům (Sigmund/AfD); 80 útoků bodnou/sečnou zbraní denně v Německu; výzva volit AfD/Le Pen/SPD+PRO+Trikolóra+Svobodní — [Videoportál 16. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)
 - **8. 10.** — Ukrajinka vylákala 750 tis. Kč na dávkách, „špička ledovce“ — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
+- **18. 10.** — „Francie hoří“: reálná invaze, zvážit armádu, remigrace, odchod Macrona a von der Leyenové; Mladá Boleslav 63 % lidí se necítí bezpečně, „stockholmský syndrom“ voličů pětikoalice; kvóty z Filipín/Indonésie tlačí mzdy, agentury „vyděračské gangy“, zrušit dávky → [migrace.md](../migrace.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -223,6 +225,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **15. 10.** — neúčast u voleb jako „úmysl“, ne chyba; Pavel podruhé v reklamě (Alpine Pro, Orlen); precedent Grosse a Wulffa → [petr-pavel.md](../petr-pavel.md) — [„Tak si to zrekapitulujme“ (15. 10. 2026)](../_zdroje.md#jindřich-rajchl--tak-si-to-zrekapitulujme-15-10-2026)
 - **16. 10.** — Pavlovo vysvětlení „nedostatečné“; ochranka 3 750 € na osobu z daní → žádost podle zákona 106; „papalášství“ a pokrytectví „člověka z lidu“ → [petr-pavel.md](../petr-pavel.md) — [Rozhovor CNN/Nova: Maroko (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026)
 - **16. 10. (2)** — zastává se novinářky Novinek Brodníčkové, které anonym vyhrožuje smrtí; dvojí metr Seznamu k výhrůžkám; vlastní výhrůžky (pálka, podpálení domu) → [kauzy.md](../kauzy.md) — [Zastání Brodníčkové (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026)
+- **18. 10.** — 2. kolo Senátu: koalice bez senátora kvůli nespojení a účasti 21 %, STAN „mafiánské hnutí“, pád Pirátů a Dvořáka → [volby-2026.md](../volby-2026.md); Pavel: 15 000 € za let Casablanca–Praha nemožné, dva známí doplatili („pay for play“), „bolševický papaláš“, při cizí úhradě rezignovat → [petr-pavel.md](../petr-pavel.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -245,6 +248,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 ### [Válka, NATO a zbrojení](../valka-nato-rusko.md)
 - **7. 10.** — výdaje ≠ obranyschopnost, F-35 v r. 2035 „směšné“, odstrašujeme „zálohovými fakturami“ ([nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)); jediný útočník na EU je Ukrajina (Nord Stream, Przewodów), o míru jednají jen USA a Rusko; Pavlova výzva k sestřelu „nesmysl“ — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 - **11. 10.** — válka „fakticky u konce“, Rusko dostane Kramatorsk a Slovjansk (→ [predikce](../predikce.md)); Zelenský „nejzkorumpovanější“, okrádání v době války „si zaslouží trest smrti“ (→ [stoch. teror](../stochasticky-teror.md)) — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
+- **18. 10.** — „Trump si vybral stranu, a není to Zelenský“ (Starlink, sankce); Johnson zmařil mír, Západ Ukrajinu obětoval; po pádu Kramatorsku a Slovjansku mír (→ [predikce](../predikce.md)); Zelenský žádá dalších 70 mld. € jako „narkoman“, „patří do Haagu“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 
 ## Zmíněné osoby
 
@@ -476,6 +480,19 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Petr Pavel | ❌ negativní | „Papalášství“, pokrytec prezentující se „jako člověk z lidu“; vysvětlení úhrady „nedostatečné“ | 2026-10-16 | [Rozhovor CNN/Nova: Maroko (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026) |
 | Karolína Brodníčková (Novinky.cz) | ⚖️ rozporuplný | Bude ji dál kritizovat, ale proti výhrůžkám smrtí „stojím za vámi“ | 2026-10-16 | [Zastání Brodníčkové (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026) |
 | Seznam Zprávy / Novinky | ❌ negativní | Dvojí metr: výhrůžky jemu a jeho rodině přechází „ostentativním mlčením“ | 2026-10-16 | [Zastání Brodníčkové (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026) |
+| Emmanuel Macron | ❌ negativní | Nese odpovědnost za nepokoje ve Francii, měl by odejít | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Ursula von der Leyenová | ❌ negativní | Spoluodpovědná za migrační krizi („mávali migračním paktem“), měla by odejít | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Ulrich Siegmund | ✅ pozitivní | Výrok, že zbraně se budou hodit „kvůli migrantům“, je „nadčasový“ | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Vít Rakušan | ❌ negativní | Tvrdil, že Ukrajinci jsou „slušnější než Češi“; nesmí vládnout „Rakušan a spol.“ | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Donald Trump | ✅ pozitivní | Nezradil Evropu, stará se o své občany; dobře, že „zlomil hůl“ nad Zelenským | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Chová se jako „narkoman“ (další půjčka 70 mld. €), „patří do Haagu na prvním místě“ | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Boris Johnson | ❌ negativní | Zmařil mírovou dohodu parafovanou Ukrajinou i Ruskem | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Petr Fiala | ❌ negativní | Strašení „ruskými tanky na Smíchově“ kvůli politickým bodům | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Karel Řehka | ❌ negativní | V Senátu bude hlásat přípravu na válku s Ruskem | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Pecková | ❌ negativní | Senátorka, „žádný program nemá v hlavě“ | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Zdeněk Hřib | ❌ negativní | Konfrontační politika bez programu, Piráti „extremistická strana“ | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Martin Dvořák | ❌ negativní | „Nejzbytečnější ministr“, „chciválek“, dobře, že neuspěl v Senátu | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Petr Pavel | ❌ negativní | „Bolševický papaláš“, „falešný do morku kostí“; při cizí úhradě letu má abdikovat | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 
 ---
 
@@ -614,3 +631,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — „Tak si to zrekapitulujme“: Pavel, Maroko a Orlen (CNN Prima News, 15. 10. 2026)](../_zdroje.md#jindřich-rajchl--tak-si-to-zrekapitulujme-15-10-2026)
 - [Rajchl — Rozhovor pro CNN Prima News a TV Nova: „papalášská cesta“ Pavla do Maroka (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026)
 - [Rajchl — Zastání novinářky Karolíny Brodníčkové před výhrůžkami smrtí (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026)
+- [Rajchl — Nedělní vysílání: senátní volby, Pavel a Maroko, Francie, Trump a Ukrajina (18. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)

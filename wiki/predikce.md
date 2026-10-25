@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — po pádu Kramatorsku a Slovjansku mírová dohoda: Rusku zbytek Doněcké oblasti, Ukrajině kus Charkovské (18. 10. 2026)
+
+**Předpověď:** Za pár měsíců padne Kramatorsk a Slovjansk a „přijde na stůl mírová dohoda“: Rusko dostane zbytek Doněcké oblasti a vrátí část Charkovské oblasti, „o kterou nestojí“. Zpřesnění predikce z 11. 10.
+
+> „Vzpomeňte si na mě za pár měsíců, až padne Kramatorsk a Slovjansk, tak přijde na stůl mírová dohoda, že v podstatě Rusku se přiklepne zbytek Doněcké oblasti, Rusko vrátí kousek té Charkovské oblasti, o kterou nestojí, a konečně bude mír.“ — Jindřich Rajchl
+
+**Horizont:** „za pár měsíců“
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+
+---
+
 ### Ladislav Vrabel — do roka hrozí v ČR „tlak zdola“ a terorismus ze strany Ukrajinců (16. 10. 2026)
 
 **Předpověď:** Pokud by ČR omezila podporu Ukrajiny (např. zrušila muniční iniciativu), může do roka přijít „tlak zdola“ až terorismus ze strany (zčásti ozbrojených) Ukrajinců v ČR.
