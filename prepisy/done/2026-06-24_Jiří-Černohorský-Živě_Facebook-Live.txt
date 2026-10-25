@@ -1,0 +1,28 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Jiří Černohorský Živě
+URL:          https://www.facebook.com/100085862388850/videos/2199462404182193
+Datum videa:  2026-06-24
+Zpracováno:   2026-06-28 20:40:20
+Jazyk:        cs
+Délka:        00:02:52
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    5s
+Přepis:       4s
+Rychlost:     34.8x realtime
+Celkem:       10s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] To jsou takový kundy, že to nemá období.
+[00:03] Tuhle písničku jsem ještě chtěl pustit.
+[00:09] Už vlastně brzké ráno, brzké ráno vám přeju.
+[02:30] A já už budu za chvilku doma, mám za sebou dalších 800 kilometrů, jojojo.
+[02:38] Tak se opatrujte a ještě jednou krásné jítro a přeju vám všem šťastný vstup do nového.
+[02:48] Dne, následanou.

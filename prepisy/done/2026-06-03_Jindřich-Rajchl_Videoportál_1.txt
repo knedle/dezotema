@@ -1,0 +1,44 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/4352821411601769
+Datum videa:  2026-06-03
+Zpracováno:   2026-06-07 21:10:24
+Jazyk:        cs
+Délka:        00:02:05
+Zhlédnutí:    131 024
+Popis:        Zde je můj komentář k dnešnímu skandálnímu rozsudku Obvodního soudu pro Prahu 1, jímž bylo hnutí SPD potrestáno peněžitým trestem za spáchání toho nejhoršího hříchu, jehož se můžete v současné hyperko
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    5s
+Přepis:       16s
+Rychlost:     7.5x realtime
+Celkem:       22s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Jak už jste patrně z našich sdělovacích prostředků zaznamenali,
+[00:05] tak obvodní soud pro Prahu 1 dnes zatím nepravomocně potrestal hnutí SPD peněžitým trestem
+[00:14] ve výši 3 milionů korun za využití předvolebního pakátu známého pod názvem
+[00:21] nedostatek lékařů nevyřeší chirurgové zdovozu.
+[00:25] Co by člověk, který se celoživotně věnuje trestnímu právu, považují toto rozhodnutí za naprosto skandál.
+[00:35] Jedná se totiž o faktické posvěcení cenzury.
+[00:41] A co hůře, jedná se o vytváření tlaku na autocenzur.
+[00:46] Na to, aby lidé se obávali sdílet svoje názory, které nejsou aktuálně přijatelné naší eurounijní společnosti.
+[00:58] S obavy před trestně právním represí.
+[01:02] Paradoxně, onen rozsudek byl vydán den poté, kdy byl ve Velké Británii odsouzen na doživotí Vikram Digma,
+[01:12] jenž rituálním nožem ubodal mladého britského studenta Henryho Novaka.
+[01:19] Co je na tom nejhorší, je fakt, že policie po příjezdu na místo,
+[01:24] po pouhém obdvínění z rasismu, spoutala nikoliv pachatele,
+[01:29] ale oběť, která vykrvácela právě spouty na rukou.
+[01:33] Tohle je důsledek přesně této falešné politiky.
+[01:38] SPD byla potrestána za to, že měla odvahu říct pravdu.
+[01:44] A to je za mě stokrát nebezpečnější, než jakýkoliv předvolební plakát.
+[01:49] Já pevně doufám, že v rámci odvolání či dovolání bude SPD úspěšná
+[01:56] a že sloboda slova v České republice zůstane zachována.
+[02:01] Mějte se hezky, bojujte za pravdu a buďte pro.

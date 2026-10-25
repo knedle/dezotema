@@ -1,0 +1,1710 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/956630203510727
+Datum videa:  2026-09-15
+Zpracováno:   2026-09-17 23:02:22
+Jazyk:        cs
+Délka:        01:06:27
+Popis:        15. 9. 2026 - Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    30s
+Přepis:       12m 34s
+Rychlost:     5.3x realtime
+Celkem:       13m 5s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:59] Přátelé, hezky večer, a protože nevím, jak kolikrát týho dneska, jo vím, 15. září je dneska, 15. září to vím, ale nevím, co je za den. Úterý, Zuzko? Úterý, dobře, takže máme 15. září je úterý a vítejte u večerních zpráv s komentářem, Zuzko, hezky večer i tobě.
+[03:17] Krásný večer všem.
+[03:18] A od zítřka to uvádíš ty, protože ty vždycky víš, co je za den a kolikrát týho je a jaký je den, to je lepší, když to budeš uvádět ty.
+[03:25] Nemyslím si, ale já ti to vždycky řeknu před vysíláním.
+[03:30] Dobře, tak se žádná. Tak stalo se dneska něco, Zuzko? Jinak tady máme krásný komentáře, viděl jsem, že tady máme někoho z Holandska, někdo tady zdraví, všechny, co mají vše pět pohromadě, to jsou krásný komentáři, děkuju za komentáře, poděkování různý, paráda.
+[03:48] Paráda.
+[03:50] Dneska byla Zuzana El Amin, byla první v komentáři, myslím, že byla první.
+[03:55] Ok, pojďme na zprávy.
+[03:58] Tak jdeme na to, zůstaneme doma.
+[04:01] Ceny plynu a elektřiny na světových trzích výrazně rostou. Plyn je nyní zhruba třikrát dražší než v lednu a jeho cena se dostala nejvýše od konce roku 22. Elektřina oproti lednu zdražila přibližně o 60%.
+[04:14] Podle některých ekonomů může jít o první fázi nové energetické krize.
+[04:21] Ekonom investiky Vít Hradil uvedl, že pokud bude růst cen pokračovat, bude možné hovořit o krizi.
+[04:27] Podle hlavního ekonoma...
+[04:28] BH, sekurita Štěpana Křečka, už první fáze energetické krize probíhá.
+[04:34] Situaci se zabývá taktě česká vláda.
+[04:37] Premier Andrej Babiš očekává řešení na evropské úrovni a apeluje na společný postup Evropské unie.
+[04:46] A ten Andrej Babiš před volbama jezdil do dávku, měl tam napsáno Česko na prvním místě.
+[04:51] Nevím, proč nejezdil do dávku, neměl tam napsáno, čekáme na evropské řešení.
+[04:55] Po každý, když je nějaký problém, tak čeká na evropské řešení.
+[04:59] No, ale dobře, dneska jsem mluvil s jedním kamarádem, který se mě ptal, volal mě,
+[05:03] protože je to kamarád, který si poupil být v Bělehradu, už má i občanku takovou,
+[05:09] jakoby srbskou, hezkou, ne úplně jako občanku občana, ale jako přistěhovalce, cizince,
+[05:14] že může pracovat, tam má napsáno v Srbsko, že tam může bydlet.
+[05:18] A ptal se mě, kdy si myslím, že by měl přijet, kdy to teda jako, že přijde.
+[05:26] Tak jsme si jako i povídali, říkal jsem mu, že je těžko říct, že o člověk neví dny ani hodiny,
+[05:30] ale k tomu se určitě ještě dostaneme. Ale bavili jsme se taky, o tom povídal,
+[05:34] no Babiš říkal teďkon, že ty, že ta nafta a benzín, že jsou drahý,
+[05:41] protože pumpaři si dávají neuměrně vysoký marž.
+[05:44] Tak jsem říkal, no, tak to je jako klasicky Babiš. My když jsme dělali restaurace,
+[05:50] tak zase Babiš říkal, že kdyby jsme my hospodský nekradli, takže by se postavilo tolik,
+[05:55] a to by bylo.
+[05:56] A to by bylo tolik nemocnic a tolik a tolik školek a tak dále.
+[05:59] A nikdy jsem ty školky a ty nemocnice neviděl.
+[06:03] A hospodský pokrachovali, spousta hospodských pokrachovala,
+[06:06] tak to asi vidíte každý okolo sebe. A to je prostě typický Babiš.
+[06:11] Vždycky, když je problém, tak si to snaží hodit na nějaký lidi, co podnikají.
+[06:16] Tentokrát to háže na ty, který provozují pumpy.
+[06:19] A kdyby to byla pravda, že ten problém s cenama je proto, že pumpaři mají,
+[06:26] mají vysoký marže, no tak by třeba lidi jezdili do Polska pro levnější benzín a naftu.
+[06:32] Nebo do Rakouska, nebo do Německa, nebo na Slovensko.
+[06:36] Ale problém je v tom, že ten benzín a nafta jsou všude drahý.
+[06:40] A proč jsou všude drahý? Protože pumpaři všude dávají strašně vysoký marže?
+[06:45] No to asi ne. Pumpaři, kdyby měli pumpaři strašně vysoký marže,
+[06:50] tak by se našel někdo, kdo by dělal konkurenci. Kdo by to dal levnit, aby jezdili všichni k němu.
+[06:55] Když jsme přece minimálně částečně v tržním hospodářství,
+[06:59] minimálně teda na té úrovni malých podnikatelů, to tak je,
+[07:03] že ta konkurence tam existuje. Takže to, co jsem řekl mému kamarádovi,
+[07:09] že to není proto, že by pumpaři si dávali nějaký vysoký marže.
+[07:15] Ale je to proto, že je válka. Proto je drahá nafta, proto je drahý benzín
+[07:21] a proto je drahý plyn. A proto je drahý jídlo.
+[07:25] A jídlo bude drahý mnohem, mnohem víc, protože, jestli jste si všimli,
+[07:31] asi o tom dneska taky budeme mluvit, současní vyjednávání o energetickým příměří
+[07:36] mezi Ukrajinou a Ruskou federací, tak Volodomír Zelenský zareagoval.
+[07:42] A když už jsme u toho, tak to rovnou řeknu, protože ono se tu taky dotýká těch cen.
+[07:47] Donald Trump přišel s tím, že protože energetická krize, protože jsou vysoko ceny ropy,
+[07:53] vysoko ceny benzínu a nafty,
+[07:55] a řekl, že za to může Zelenský, to je taky takovej druhej babi, zase to není koho hodit,
+[08:00] tak řekl, že Volodomír Zelenský musí přestat útočit na ruskou energetickou infrastrukturu.
+[08:08] Především teda na ropnou infrastrukturu.
+[08:10] A oznámil včera, že udělali američani dohodu, že Donald Trump to všechno vyřídil,
+[08:16] že Ukrajina a Rusko bude mít teďkon 30 dnů neútočení na ropnou soustavu.
+[08:23] No, říkal jsem, že teda to vidím tak patří.
+[08:26] No, říkal jsem, že teda to vidím tak patří.
+[08:26] No, říkal jsem, že teda to vidím tak patří.
+[08:28] Že nevím, jakým způsobem Donald Trump přimáčknul Volodomíra Zelenskýho,
+[08:34] ale jestli mu nevyhrožuje tím, že mu skončí život, tak se obávám, že Volodomír Zelenský se bude cukat.
+[08:40] No a vidíte, dneska to přišlo.
+[08:42] Volodomír Zelenský se k tomu vyjádřil a řekl,
+[08:44] Ano, Ukrajina nebude útočit na ruskou energetickou infrastrukturu,
+[08:51] když Rusko přestane útočit na ukrajinskou ropnou soustavu.
+[08:55] Na ukrajinskou energetickou soustavu.
+[08:58] A taky na zásoby jídla, nebo na dovoz jídla,
+[09:06] a na další kritické cíle pro ukrajinskou společnost.
+[09:13] Takže žádný energetický příměří úplně nečekám.
+[09:20] Rusové se k tomu ještě pořádně nevyjádřili.
+[09:22] Ale nečekám žádných příměří,
+[09:24] protože Volodomír Zelenský,
+[09:26] už druhý den si klade podmínky,
+[09:28] že je potřeba, aby ale teda rusové přestali útočit jako první.
+[09:32] A aby neútočili taky na zásoby jídla,
+[09:36] který Ukrajina někam dováží.
+[09:40] A to samozřejmě.
+[09:42] A na další věci, na elektrickou infrastrukturu,
+[09:45] na elektrárny, na dopravní infrastrukturu.
+[09:48] V podstatě Volodomír Zelenský říká,
+[09:50] ano, my nebudeme útočit na ropnou infrastrukturu Ruský federace,
+[09:55] pokud Rusko přestane útočit na Ukrajinu.
+[09:58] Což je samozřejmě nesmysl.
+[10:00] To je zase snaha o to takzvané příměří.
+[10:03] To samozřejmě v žádném případě nebude.
+[10:05] Uvidíme, co řekne Volodomír Zelenský dál.
+[10:08] Ale podle mého názoru, žádný energetický příměří nebude.
+[10:12] No, tak jak to vidím, tak podle mě nebude.
+[10:15] Koneckonců dneska vidíte, že byla hromada útoků.
+[10:18] Ukrajinci hlásí, že rusové útočili i na benzínky dokonce.
+[10:22] Že zabili civilisty.
+[10:24] Že to není možné, že útočí na benzínky plný civilistů.
+[10:28] A co se týče těch cen,
+[10:32] tak samozřejmě ty ceny jsou výš,
+[10:35] protože je válka na Ukrajině
+[10:37] a protože Ukrajinci útočí na rovnou infrastrukturu Ruska.
+[10:40] Ale rusové říkají, že oni nemají problém s výrobou.
+[10:44] Rusové řekli, my máme problém,
+[10:46] respektive Peskov dneska řekl,
+[10:48] my máme problém s exportem.
+[10:52] Takže pokud by měl být nějaký příměří,
+[10:55] tak ano, my samozřejmě jsme rádi,
+[10:58] aby bylo příměří energetický,
+[11:00] klidně i co se týče příměří v oblasti jídla.
+[11:03] Ale u nás je, myslím, obilí především,
+[11:06] ale u nás je problém nevýroba.
+[11:08] To my máme dostatečnou kapacitu, ale export.
+[11:11] A to znamená co?
+[11:12] To znamená, že Rusko docela chytrým způsobem říká,
+[11:16] tak jak říká Volodymyr Zelenský,
+[11:18] ano, my uděláme energetický příměří,
+[11:20] ale rusové na nás musí nejdřív přestať útočit.
+[11:23] Tak rusové říkají, ano, my jsme ochotní
+[11:25] neutočit na rovnou infrastrukturu Ukrajiny,
+[11:32] možná i na energetickou infrastrukturu Ukrajiny,
+[11:36] ale požadujeme to samé od nich.
+[11:39] A pokud chtějí, abychom nechali Ukrajinu,
+[11:42] aby provážela jídlo,
+[11:44] protože Evropská unie potřebuje jídlo od Ukrajiny,
+[11:47] jinak nebude mít dostatek obilí,
+[11:49] tak my chceme to samé.
+[11:54] A co to znamená?
+[11:55] No to znamená nejenom to, že by se muselo přestat útočit
+[11:58] na ty ruský rovný tankery
+[12:00] a na tankery, který převáží obilí,
+[12:02] ale především, že by se museli zrušit sankce.
+[12:05] A vzhledem k tomu, že my tady máme 30 000 sankcí
+[12:08] a Evropská unie neustále mluví,
+[12:10] dneska zase jsem slyšel na polský televizi,
+[12:13] mluvili o tom, že rusové zase útočili
+[12:16] a jak útočili dronem, že to už není prostě možné takhle,
+[12:20] a že je potřeba další sankce,
+[12:22] a nejenom další sankce, ale další opatření,
+[12:24] tak co se týče sankcí, tak to rozhodně nevypadá,
+[12:30] že by Evropská unie chtěla zrušit těch 30 000 sankcí vůči Rusku,
+[12:34] nebo aspoň nějaké, aby rusové mohli vozit ropu,
+[12:38] aby mohli vozit plyn, aby mohli vozit obilí.
+[12:41] To možná, že Donald Trump by na něco takového přistoupil,
+[12:45] ale Evropská unie v tomhle směru
+[12:47] a vůbec politici evropských zemí vůbec nevypadají,
+[12:50] že by chtěli rušit sankce. Ty vůbec o tom neuvažuj,
+[12:53] vůbec se o tom nemluví.
+[12:55] Co se týče té dohody mezi Ruskou federací a Ukrajinou,
+[12:59] tam to nevidím příliš dobře.
+[13:01] A co se týče cen plynu, tak ceny plynu nerostou nejvíc
+[13:05] kvůli tomu, že je konflikt na Ukrajině.
+[13:08] Ceny plynu rostou nejvíc kvůli tomu, že je konflikt na Blízkém východě.
+[13:12] Protože 30 % plynu, pokud si dobře vzpomínám,
+[13:15] jede přes hormonský průliv, možná víc, už si nespomínám kolik.
+[13:18] A to je ten problém.
+[13:20] Druhý problém je v tom, že jsou zničený plynovody.
+[13:23] No takže...
+[13:24] A hlavně ta cena plynu je tak vysoká proč?
+[13:27] No protože nebereme ten levný ruský plyn.
+[13:30] O tom tady mluvím od roku 2022.
+[13:33] Na Václavském náměstí jsem to říkal.
+[13:35] Přece ty trubky jsou natažený do Ruský federace.
+[13:38] Proto máme brát z Ruský federace.
+[13:40] Kdyby byly natažený do Švýcarska,
+[13:42] tak bych byl pro to, abychom brali ze Švýcarska.
+[13:44] Ale ten plynovod je natažený do Ruský federace.
+[13:47] A pakliže nebereme dostatečně plyn od Ruský federace,
+[13:51] tak samozřejmě bereme někde jinde.
+[13:53] Třeba i ten ruský, z velký částky.
+[13:56] Ale přes někoho jiného, kdo se na tom napakuje.
+[13:59] Přes nějaký Američany nebo přes někoho jiného,
+[14:01] kdo nám to prodá několikrát draž.
+[14:03] A proto je cena plynu vysoká.
+[14:05] A tady by jim byl docela rád,
+[14:07] kdyby Andrej Babiš s náma hrál čistou hru
+[14:09] a řekl, proč je cena plynu vysoká.
+[14:12] Protože to je to, co tady říkám od roku 2022,
+[14:15] naprosto otevřeně.
+[14:17] A Andrej Babiš samozřejmě má všechny podklady pro to,
+[14:20] aby věděl naprosto přesně,
+[14:22] proč je cena plynu takhle vysoká.
+[14:24] A to, co jsem říkal od roku 2022,
+[14:27] že se máme odstřihnout od Evropské unie
+[14:29] a udělat znovu smlouvy s Ruskou federací
+[14:32] a nakupovat levný plyn.
+[14:34] Jinak budeme mít problém.
+[14:36] A ten problém tady dneska je.
+[14:38] A způsobený je přesně politikou České republiky.
+[14:41] Protože v roce 2022 jsem říkal
+[14:44] jasný řešení pro Českou republiku.
+[14:46] Odstřihnout se od Evropské unie,
+[14:48] udělat smlouvy s Ruskou federací,
+[14:50] na levný plyn,
+[14:51] udělat ze zeměmi Evropské unie
+[14:53] bilaterální dohody,
+[14:54] abychom s nimi dál obchodovali,
+[14:56] ale nakupovat ruský plyn.
+[14:58] Podívejte třeba Srbsko.
+[14:59] Nakupuje od Ruska plyn
+[15:01] a nakupuje ho za ceny nižší,
+[15:02] než jsou na burze.
+[15:03] Protože s nimi má dobré politické vztahy.
+[15:06] Jaký je problém?
+[15:08] Srbsko je podobně velká země,
+[15:10] jako Česká republika.
+[15:11] Uprostřed Balkánů.
+[15:12] Česká republika uprostřed té
+[15:14] severnější části Evropy.
+[15:16] Kde je problém?
+[15:17] Proč bychom nemohli být jako Srbsko
+[15:19] a brát taky plyn z Ruska
+[15:21] za malý levný peníze?
+[15:23] O tom by každý s námi chtěl obchodovat,
+[15:25] protože bychom měli tak levnou výrobu,
+[15:27] že by každý chtěl od nás nakupovat.
+[15:29] Ale to není to, co chce Andrej Babiš.
+[15:31] Andrej Babiš čeká na Evropské řešení.
+[15:33] Protože Andrej Babiš je globalista.
+[15:40] Na Evropské řešení určitě přijde.
+[15:44] No tak Evropské řešení známe.
+[15:46] Evropské řešení je,
+[15:47] že od roku 2027
+[15:49] je zákaz veškerého dovozu plynu
+[15:51] z Ruské federace.
+[15:53] To je jejich řešení.
+[15:55] A jestli si myslí lidi dneska v České republice,
+[15:57] že to, co zažíváme, že to už je konec,
+[15:59] a pak už to půjde dolů,
+[16:01] a bude to lepší.
+[16:03] Ne, tohle je začátek tý krize.
+[16:05] Respektive ten začátek krize začal v covidu
+[16:07] a pokračoval od roku 2022 výš.
+[16:09] Ale rozhodně nejsme ještě
+[16:11] na vrcholu tý křipky,
+[16:13] tý krize, která prostě se rozjíždí.
+[16:15] Ta krize se teprve rozjíždí
+[16:19] ty následky toho,
+[16:21] že Američani nakysli 40%
+[16:23] veškerých dolarů, který měli,
+[16:25] tak o 40% nakysli víc dolarů v covidu.
+[16:27] To teprve teď budeme zažívat,
+[16:29] protože se uměle drží ty trhy
+[16:31] tím, že se tisknou papírky,
+[16:33] to znamená, pořád se jde do dluhu
+[16:35] a řeší se to jako, že dluh je v pohodě,
+[16:37] ale dneska už Američani překročili 5%
+[16:39] úroku na dluhopisek,
+[16:41] už začínají zkupovat svoje dluhopisy,
+[16:43] už museli vyplatit Saudskou Arábii,
+[16:45] museli vyplatit Japonce,
+[16:47] neprodávali dluhopisy, to znamená ta krize.
+[16:49] Ta je za rohem.
+[16:51] A to nebude jenom plynová krize,
+[16:53] že bude drahý plyn, nebo energetická krize,
+[16:55] že bude drahá nafta, benzín
+[16:57] a že bude drahá elektřina.
+[16:59] Ne, ne, ne. To je krize.
+[17:01] Absolutní finanční.
+[17:03] Finanční krize.
+[17:05] Protože ten problém spočívá v tom,
+[17:07] že se tady od roku 72
+[17:09] tisknou prázdný papírky, který nejsou
+[17:11] krytý zlatem, a ty se pouští
+[17:13] do oběho. A to musí jednoho dnes
+[17:15] kolabovat. Ahoj.
+[17:22] Neslyším tě, Zuzko, jestli nemáš vyplný mikrofon.
+[17:24] Čeče.
+[17:28] To kdo mi to pořád vypíná?
+[17:30] Tak už tě slyším. Jestli ty tam nemáš nějaký
+[17:32] permulníky, střídky.
+[17:34] Já se po nich rozhlídnu.
+[17:36] Mrchy jedny mají.
+[17:38] Jo, vám doslova pan premiér řek,
+[17:40] že my bojujeme za to,
+[17:42] aby Evropa konečně něco udělala.
+[17:44] Jo, tak.
+[17:46] Jo, no, tak jako, to
+[17:48] jsem si myslel, už jsem to říkal mockrát,
+[17:50] to jsem si myslel dlouhou řadu let,
+[17:52] že je potřeba hledat
+[17:54] evropské řešení. Ale prostě
+[17:56] někdy po tom covidu už jsem si řekl,
+[17:58] ne, to už prostě nejde.
+[18:00] I když mám rád Evropu a žil jsem v různých
+[18:02] částech Evropy, Evropa už je na tom
+[18:04] tak špatně, to západní Evropa už je na tom
+[18:06] tak špatně, že nás prostě stáhne
+[18:08] sebou dolů, když se od ní neozkříneme.
+[18:10] Stáhne nás sebou dolů.
+[18:12] A ač to není hezký vůči mým kamarádům,
+[18:14] který mám v Jemecku, v Británii, ve Francii,
+[18:16] v Itálii a v dalších zemích,
+[18:18] v Dánsku mám od něj kamarádů.
+[18:20] A strávil jsem si na spoustu soukromýho
+[18:22] času a telefonuji si pořád s těmi lidmi.
+[18:24] A oni ví, že
+[18:26] podporuju to, aby se Česká republika
+[18:28] ostříla od Evropské unie. A není to hezký
+[18:30] vůči nim, protože to je sobecký.
+[18:32] Protože chci, aby se zachránila
+[18:34] aspoň Česká republika. Je mi jasný, že to
+[18:36] není hezký. Ale to, že
+[18:38] to prostě nejde na evropský úrovni, už jsem
+[18:40] pochopil před lety. A to, co říká
+[18:42] Andrej Babiš, on to taky
+[18:44] chápe. Ale on je globalista.
+[18:46] On prostě pracuje s těma svýma
+[18:48] kamarádama v Evropské unii. Víte vždycky,
+[18:50] když přejede do Evropské unie, jak se tam s nima zdraví,
+[18:52] jak se s nima objímá, líbá pomalu.
+[18:54] Takže to
+[18:56] není o tom, že by to Andrej Babiš nevěděl.
+[18:58] Andrej Babiš to ví, že to je problém, ale
+[19:00] Andrej Babišově je to celkem fuk.
+[19:02] Mám takový pocit.
+[19:04] A to je ten problém. Protože každý, kdo to
+[19:06] myslí dobře s Českou republikou, tak musí vědět,
+[19:08] že Česká republika se musí odstříhnout
+[19:10] od Evropy, jinak prostě skončí
+[19:12] islamizovaná
+[19:14] a rozmlácená od Ruska
+[19:16] absolutně v ekonomické krizi.
+[19:18] Evropa taky slouží Spojeným státům.
+[19:20] Vykupuje
+[19:22] ten americký dluh
+[19:24] těmi různými obchody, kontrakty.
+[19:26] To všechno dělá Evropská
+[19:28] unie pro to, aby zachránila Spojené
+[19:30] státy. A my to děláme s nimi.
+[19:32] Kdybychom nezachránili Spojené státy,
+[19:34] které si způsobili to sami.
+[19:36] Tím, že nechtěli vyrábět, ale
+[19:38] jenom nakupovali a tiskli peníze,
+[19:40] tak by jsme na tom ekonomicky byli dobře.
+[19:42] Ale protože jedeme
+[19:44] tadyhle tu globalistickou linku,
+[19:46] proto jsme na tom špatný. Podívejte se
+[19:48] na Srbsko. A v Srbsku bohužel
+[19:50] to lidi neví, protože je pořád
+[19:52] krmí ze západu těma informacima, jak na
+[19:54] západě je líp. A spousta lidí to
+[19:56] neví. Ale když se podíváte na
+[19:58] ekonomický tabulky, na čísla, to,
+[20:00] jak roste Srbsko a jak
+[20:02] ostatní části Evropy stagnují
+[20:04] a nebudou do mínusu, tak by vám to bylo
+[20:06] jasný. A je to proč? Protože se
+[20:08] Srbsko neúčastní války. Neposílá tam
+[20:10] peníze, neúčastní se války
+[20:12] a může nakupovat levný energie
+[20:14] z Ruska. Samozřejmě taky
+[20:16] v Srbsku se ta celosvětová
+[20:18] krize dotýká
+[20:20] těch cen. Samozřejmě, že jídlo je dražší,
+[20:22] benzín je dražší, nafta je dražší, to je jasný.
+[20:24] Ale co se týče plynu,
+[20:26] tak má vyjednáno s Ruskem levný.
+[20:28] A co se týče
+[20:30] ekonomiky, tak ekonomika roste,
+[20:32] protože Srbsko staví
+[20:34] domy, staví továrny,
+[20:36] ať už jsou to teď na drony, na baterie,
+[20:38] nebo nevím na co všechno.
+[20:40] A nedělá to, že by dělala
+[20:42] zbraně. Nebo takhle dělá zbraně,
+[20:44] samozřejmě Srbsko je velký výrobce zbraní,
+[20:46] ale nedělá zbraně tak, aby je posílalo
+[20:48] na Ukrajin. Zdaroma třeba.
+[20:50] Jako to dělá Česká republika.
+[20:52] Takže tohle je problém.
+[20:54] Třikrát dražší plyn, to samozřejmě,
+[20:56] to je dopravdu začátek.
+[20:58] Ten problém až přijde, ta krize
+[21:00] až přijde, tak prostě
+[21:02] nebudeme chápat, jak
+[21:04] hluboká může být krize. Doufám,
+[21:06] že bude aspoň, že budou mít lidi aspoň
+[21:08] co jíst. To je můj odhad.
+[21:10] Že budou lidi rádi, když budou mít co jíst,
+[21:12] a když je nevezmou na frontu.
+[21:14] Ten luxus, ve kterém žijeme teďko,
+[21:16] ten skončí. Akorát to ještě
+[21:18] se to nepromítlo
+[21:20] úplně. Ale prostě
+[21:22] v ekonomice to je tak, že každá
+[21:24] věc, která se stane, má
+[21:26] nějaký následek. Tak je to v ekonomice.
+[21:28] A ty věci, které jsme
+[21:30] udělali, minimálně teda od toho
+[21:32] roku 2020, od covidu,
+[21:34] to jsou tak brutální zásahy do
+[21:36] ekonomiky, že se musí
+[21:38] promítnout. Ale když se
+[21:40] podíváme celkově od
+[21:42] roku 72, ta pyramida,
+[21:44] toto letadlo, nebo jak se tomu
+[21:46] říká, to, že pořád se
+[21:48] tvoří nový peníze s úrokem,
+[21:50] a ty peníze nemají žádný
+[21:52] kryt, nemají žádnou hodnotu, tak
+[21:54] to jednoho dne musí skončit. To jednoho dne
+[21:56] musí skolabovat. A obávám se,
+[21:58] že od toho nejsme daleko.
+[22:01] Pojďme na další zprávu, Zuzko, prosím.
+[22:03] Srbský prezident
+[22:06] Aleksandar Vučič při
+[22:08] příležitosti Dne srbské jednoty,
+[22:10] svobody a státní vlajky zdůraznil,
+[22:12] že svoboda je nejvyšší hodnotou
+[22:14] národa a že srbové
+[22:16] mají povinnost chránit svoji jednotu,
+[22:18] jazyk, civilici,
+[22:20] duchovní dědictví a státní
+[22:22] symboly bez ohledu na
+[22:24] státní a politické hranice.
+[22:26] Máme povinnost zůstat
+[22:28] jedním národem, doslova řekl.
+[22:30] Vučič zároveň zdůraznil
+[22:32] význam vztahu mezi Srbském
+[22:34] a Republikou Srbskou. Podle něj
+[22:36] kulturní a duchovní jednota
+[22:38] Srbského národa přesahuje
+[22:40] současné hranice a Srbsko s
+[22:42] Republikou Srbskou musí stát
+[22:44] při sobě i v budoucnu. Ve svém projevu
+[22:46] připomněl také utrpení
+[22:48] Srbského národa během první
+[22:50] světové války
+[22:52] a průlom Solunské fronty,
+[22:54] který se stal symbolem
+[22:56] vítězství a přežití srbského lidu.
+[22:58] Zároveň uvedl, že letošní
+[23:00] vystoupení je naposledy, kdy
+[23:02] při tomto svátku promluvá jako
+[23:04] prezident Srbska. Jo,
+[23:06] protože Vučič poslouchal
+[23:08] demonstranty, že vyhlásil nové
+[23:10] volby, skončí jako prezident
+[23:12] 25. nebo 26.
+[23:14] a bude se ukázat do funkce premiéra.
+[23:16] Doufám, že vyhraje. Přál bych
+[23:18] si, aby Srbové chápali, jak mají dobrýho prezidenta,
+[23:20] protože to, co Západ investuje
+[23:22] za peníze do toho, aby očerněval Vučiče,
+[23:24] v Srbsku má samozřejmě svoje
+[23:26] plody a po 14 letech
+[23:28] ve vedení země je to samozřejmě těžké
+[23:30] se tam udržet. Víte, jak to udělali Orbánovi.
+[23:32] Ale
+[23:34] co k tomu řekla Maria Zachárovová?
+[23:36] To máme ve zprávách, asi nemáme.
+[23:38] Máme?
+[23:41] Jo, protože
+[23:43] podívejte, to s tou
+[23:45] Soluní a s Testaloniky a s Řeckem
+[23:47] atd., to bych tady mohl vyprávět o historii
+[23:49] Srbska dlouho. Tenhle
+[23:51] ten
+[23:53] komentář od Aleksandra
+[23:55] Vučiče samozřejmě směřuje k tomu, aby se
+[23:57] sjednotila Srbsko a republika
+[23:59] Srbská, což doufám, že se brzy stane
+[24:01] a doufám, že se taky
+[24:03] připojí Kosovo, ale jak řekl
+[24:05] ruský ambasador v roce 23,
+[24:07] až skončí válka na Ukrajině,
+[24:09] tak se tyhle ty věci budou řešit a vyřešit.
+[24:11] A myslím si, že se vyřeší.
+[24:13] No, máme tam teda tu
+[24:15] Maria Zachárovovou na téma Srbsko-Zusko, nebo to mám
+[24:17] říct, nebo ty to má jen? Máme tady,
+[24:19] já přečtu již tak ten
+[24:21] kousek. Mluvči
+[24:23] ruského ministerstva zahraničí
+[24:25] Maria Zachárova označila Srbsko
+[24:29] uvedla, že zemi podle ní
+[24:31] nelze podrobit silou.
+[24:33] Připomněla přitom srbskou podporu Rusku
+[24:35] během druhé světové války
+[24:37] i bombardování Jugoslávie v
+[24:39] devadesátých letech. Zachárova
+[24:41] zároveň označila západní sankce proti
+[24:43] Rusku za současné
+[24:45] britní války a prohlásila, že Moskva
+[24:47] prosazuje skutečnou svobodu
+[24:49] a rovnoprávnost.
+[24:51] Zachárovová taky řekla,
+[24:53] že Srbsko je národ, který se nikdy
+[24:55] nepodařilo porazit.
+[24:57] A to je to, co řekl taky Emir Kusturica,
+[24:59] který vystudoval
+[25:01] v Praze, známý režisér,
+[25:03] tak ten řekl, že
+[25:05] pro Srbsko je nejvýšší hodnota
+[25:07] pro Srby, ne pro Srbsko, ale pro Srby,
+[25:09] je nejvýšší hodnota svoboda,
+[25:11] což samozřejmě je pro mě
+[25:13] balzán na srdce, když to slyším,
+[25:15] protože přesně takhle to mám nastavený
+[25:17] taky. A ne každý
+[25:19] tomu rozumí v České republice, ale
+[25:21] proto vždycky všechny demonstrace, co jsem dělal,
+[25:23] tak byly za mír a za svobodu. Slová svoboda
+[25:25] pro mě vždycky byla na nejvyšším místě.
+[25:27] A Emir Kusturica řekl,
+[25:29] že Srbové jsou svobodný národ
+[25:31] a nikdy nebyli poraženi.
+[25:33] Nikdy se nevzdali. A z toho taky
+[25:35] vyplývá síla srbskýho národa.
+[25:37] Bohužel my Češi
+[25:39] jsme byli silní před Bílou horou
+[25:41] a od té doby to s náma jde
+[25:43] trošičku z kopce,
+[25:45] protože nás hamsburkové rozdrtily
+[25:47] a drtí nás
+[25:49] vlastně jakoby celou dobu.
+[25:51] Macinka teď na konec
+[25:53] druhé světové války jede do Německa.
+[25:55] To je strašný, jak jsou
+[25:57] tedy nevzdělené, jak jsou negramotné
+[25:59] prostě, jak nechápou, co se děje
+[26:01] v tom světě.
+[26:03] Takže co se týče Srbů,
+[26:05] ty nebyly pokořené za pětset let od Turků,
+[26:07] od nadvlády, nepřešly na islám,
+[26:09] uchovaly si svoje pravoslaví,
+[26:11] nebyly pokořené rakouském
+[26:13] a uherském, nebyly pokořené
+[26:15] německém, když...
+[26:17] Jo, Srbům se stala podobná
+[26:19] věc jako nám. Se stala ve
+[26:21] třicátém osmém, jim se stala ve čtyřicátém
+[26:23] druhém. Že se vláda dohodla
+[26:25] na nějaký... s Německem
+[26:27] se na něčem dohodli.
+[26:29] Ale Srbové prostě vyšly ven
+[26:31] do ulic a řekli, že prostě vůbec nebudou
+[26:33] akceptovat to, co jejich vláda
+[26:35] udělala za dohody. Takže to je
+[26:37] jiný národ. To je prostě národ, který si
+[26:39] nenechá svobodu vzít. Národ
+[26:41] rebelů. Národ, který není
+[26:43] poražený. Strašně bych si přál, abychom my v České
+[26:45] republice měli taky tyhle
+[26:47] ty vlastnosti, našli je k sobě,
+[26:49] abychom byli taky... Ne, jako
+[26:53] ale co s tím můžeme dělat? Co můžeme dělat?
+[26:55] Co můžeme dělat? No...
+[26:57] To se ale nedá, jako...
+[26:59] Protože to prostě v Srbsku neexistuje.
+[27:01] Prostě něco se stane, tak
+[27:03] lidi jdou a půjdou prostě...
+[27:05] Jak říkal jeden nájznámý, který se odstěhoval
+[27:07] do Srbska v roce
+[27:09] 22 s celou rodinou, ten říkal,
+[27:11] že v covidu, když viděl, co se děje, tak říkal,
+[27:13] tady musíme něco vymyslet, jako co budeme dělat,
+[27:15] aby až přijdou další problémy, aby
+[27:17] jsme už tohle nezažili. A on
+[27:19] říkal, přemýšlel jsem nad tím, kam se odstěhovat.
+[27:21] A pak jsem viděl
+[27:23] záběry z demonstrací v Srbsku
+[27:25] v covidu, když Vučič
+[27:27] nařídil lockdown.
+[27:29] Lidi vyšli do ulic, šli do
+[27:31] parlamentu a celý víkend
+[27:33] bojovali s policisty. A on říkal,
+[27:35] všude po celém
+[27:37] světě lidi byli
+[27:39] mláceni policistama, někde leželi
+[27:41] v krvi. Jenom v Srbsku leželi
+[27:43] v krvi policajti. A to byl ten moment,
+[27:45] kdy se rozhodnul, že se stěhoje
+[27:47] do Srbska. A tak to podle mě má být
+[27:49] ne, že by policajti měli ležet v krvi,
+[27:51] ale prostě ten
+[27:53] režim se má bát
+[27:55] občanům. Vláda se má
+[27:57] bát občanům, a ne
+[27:59] občané vlády. No ale
+[28:01] co my s tím můžeme dělat, no když
+[28:03] to takhle je, to už se nedá.
+[28:05] To pro mě to je,
+[28:07] to je pro mě
+[28:10] neuvěřitelné. Někdo tady
+[28:12] psal komentář, jestli bysme
+[28:14] nepozvali na demonstraci
+[28:16] Daniela Aladina, že to má nastavený
+[28:18] jako my, že to je skvělý člověk.
+[28:20] Tak vám řeknu prvního vystupujícího
+[28:22] pro zraje. Daniel Aladin
+[28:24] bude vystupovat na veřejném
+[28:26] shromáždění třetího desátý
+[28:28] na malostranském náměstí, protože to má
+[28:30] nastavený jako my.
+[28:32] Už jsme dohodnutí asi měsíc a půl.
+[28:34] Tak pojďme na další zprávu.
+[28:37] Běloruský prezident Aleksandr
+[28:39] Lukašenko v úterý jednal
+[28:41] v Minsku s americkým prezidentským
+[28:43] velvyslancem
+[28:45] Kohlem. Washington podle něj
+[28:47] podnikne kroky k navrácení desitek
+[28:49] milionů dolarů z běloruských
+[28:51] aktiv zmrazených v amerických bankách.
+[28:53] Jde především o část
+[28:55] u 43 až 44
+[28:57] milionů dolarů,
+[28:59] kterou Lukašenko označil za peníze
+[29:01] běloruská u Weasley City Bank.
+[29:03] Jednání zároveň
+[29:05] navazují na americké snahy o
+[29:07] propuštění běloruských vězní.
+[29:09] Kohle uvedl, že jeho
+[29:11] dosávání diplomacie vedla
+[29:13] od poloviny roku 25 k
+[29:15] propuštění 700 až
+[29:17] 800 lidí. Podle lidskoprávní
+[29:19] organizace Vyjasna však
+[29:21] bělorusku stále zůstává více než 900
+[29:23] politických vězní.
+[29:25] Lukašenko existenci politických vězní
+[29:27] odmítá.
+[29:29] Tady koukám, že hodně lidí
+[29:31] reaguje velmi pozitivně na Daniela
+[29:33] Aladina,
+[29:35] že pojede do Prahy, že se těší
+[29:37] atd. Jo super, to je
+[29:39] skvělý kluk, on už jednou u nás
+[29:41] vystupoval na demonstraci proti NATO,
+[29:43] když byl summit NATO,
+[29:45] když byli na hradě, že jo,
+[29:47] na pražským, tak my jsme dělali
+[29:49] mírový dny, to byl rok 2024,
+[29:51] květem, a tam vystupoval.
+[29:53] A teďko my jsme
+[29:55] spolu se potkali dvakrát, myslím,
+[29:57] na naší schůzi, když připravujeme
+[29:59] organizaci okolo toho veřejného
+[30:01] shromáždění, takže jsme ho tam měli dvakrát
+[30:03] pozvanýho, mluvili jsme spolu,
+[30:05] je to skvělý kluk, je to voják,
+[30:07] zdravotník,
+[30:09] záchranář, který v covidu
+[30:11] hodně viděl,
+[30:13] hodně dělal, a za mě prostě to, čeho
+[30:15] si nejvíc vážím, je, že neuhnul.
+[30:17] Jako, skoro všichni už uhli.
+[30:19] Skoro všichni se nechali koupit
+[30:21] za nějaký politický funkce,
+[30:23] prostě těch lidí, kteří neuhli
+[30:25] a pořád jedou stejnou linii, je
+[30:27] málo, takže za mě to je,
+[30:29] za mě to je obrovský člověk,
+[30:31] velmi milý člověk,
+[30:33] velmi lidský člověk,
+[30:35] velmi zkušený člověk,
+[30:37] a je to prostě bojovník,
+[30:39] který neuhnul, takový bychom měli být
+[30:41] všichni, s úsměvem na rtu
+[30:43] a bojovat dál.
+[30:45] Takže Daniel Aladin
+[30:47] samozřejmě bude,
+[30:49] Daniel Aladin bude
+[30:51] jedna z hvězd veřejného schromáždění.
+[30:53] Ještě jsme nemluvili o tom, o čem bude mluvit,
+[30:55] s některými lidmi
+[30:57] už jsem domlouval, na jaký téma
+[30:59] budou mluvit, protože
+[31:01] budou tam nějací odborníci, třeba
+[31:03] co se týče mobilizace případný,
+[31:05] vyhlášení válečního
+[31:07] stavu atd., tak tam bude
+[31:09] jeden významný
+[31:11] expert,
+[31:13] o tom vlastně už jsem vám říkal, že
+[31:15] jsme spolu mluvili,
+[31:17] člověk, který zastával pozici,
+[31:19] v české armádě, právě takovou,
+[31:21] že když se něco takového stane, tak má
+[31:23] na starosti takovéhle věci podobné,
+[31:25] ale pojďme dál na zprávy, máme zprávy.
+[31:27] Co se týče Běloruska,
+[31:29] nebudu komentovat, uvidíme, co se z toho
+[31:31] v Evropě, zatím nevím.
+[31:38] Jana-Katerina Benke je tady.
+[31:40] Ahoj, Kačko, doufám, že ti je dobře
+[31:42] a těším se na tebe.
+[31:44] Ruský minister zahraničí
+[31:49] Sergej Lavrov
+[31:51] kritizoval postup Mezinárodního trestního
+[31:53] soudu a prohlásil,
+[31:55] že jeho vyšetřování je podle něj
+[31:57] zaměřeno výhradně proti Rusku.
+[31:59] Zároveň tvrdí, že
+[32:01] válečné zločiny, kterých se dopustila
+[32:03] Ukrajina a ukrajinští občané,
+[32:05] jsou s pravomocí
+[32:07] soudu vyloučeny.
+[32:10] Víte, co ty Rusové, nechci říct,
+[32:12] že jsou hloupí, ale dělají jednu věc špatně.
+[32:14] Prostě nechápou,
+[32:16] přestože jsou vzdělaný.
+[32:18] Lavrov, když mluví o historii,
+[32:20] nebo Medvedě, když mluví o historii
+[32:22] druhé světové války, tak prostě to se člověk učí
+[32:24] od nich.
+[32:26] Ale nechápou jednu zásadní věc.
+[32:28] Druhá světová válka.
+[32:31] O co šlo?
+[32:33] Pomineme napoleonskou válku, ale
+[32:35] začneme od druhé světové války. O co šlo?
+[32:37] Jít do Ruska,
+[32:39] samozřejmě vyhledět co nejvíc slovanů,
+[32:41] proto padly desítky milionů slovanů,
+[32:43] ne anglosassů, ale slovanů.
+[32:45] To byla válka proti slovanům.
+[32:47] Druhá světová válka.
+[32:49] Globalistická válka proti slovanům,
+[32:51] jedna z chazarských center.
+[32:53] Přes financování Hitlera.
+[32:55] Taková proxy válka.
+[32:57] Stejně jako je dneska Ukrajina
+[32:59] a celá Evropa, která se fašizuje
+[33:01] a nacifikuje. Ale v druhé světové
+[33:03] válce Němci došli
+[33:05] do Sovětského svazu.
+[33:07] Rusové položili
+[33:09] desítky milionů životů, snad
+[33:11] nevím, 17 milionů životů, nebo kolik
+[33:13] snad položili.
+[33:15] Strašnou spoustu lidí ztratili.
+[33:17] A strašná válka.
+[33:19] Rusové vyhráli tu válku.
+[33:21] Rudá armáda, Sovětský svaz
+[33:23] vyhráli tu válku
+[33:25] nad Německem. A co udělali?
+[33:27] První chyba. Nechali
+[33:29] Západ, aby soudil váleční
+[33:31] zločince. Oni je soudili taky.
+[33:33] Jenže oni soudili desetkrát,
+[33:35] dvacetkrát, třicetkrát tolik je zločinců,
+[33:37] protože Západ je nesoudil. Západ je
+[33:39] z velký částky omylostnil
+[33:41] a schovával. Do Švýcarska, do Jižní
+[33:43] Ameriky a všude možný. Do Kanady.
+[33:45] Kdežto rusové soudili.
+[33:47] Ale ještě horší
+[33:49] věc, kterou udělali rusové,
+[33:51] že podcenili, co se vlastně
+[33:53] děje. Protože
+[33:55] ta dohoda, která byla poválečná, byla
+[33:57] o tom, že je potřeba dát Německu peníze.
+[33:59] Protože Německo je důležitá země.
+[34:01] Takže se dali spousty
+[34:03] peněz Německu a
+[34:05] nejvíc peněz Německu dal
+[34:07] kdo? Sovětský svaz.
+[34:09] Sovětský svaz v podobě
+[34:12] ledného plynu.
+[34:15] Protože během celý studený války
+[34:17] Sovětský svaz dodával
+[34:19] ledný plyn zemní,
+[34:21] do Německa. A když si
+[34:23] poslechneme Ursula von der Leyen,
+[34:25] nebo Angela Merkel,
+[34:27] nebo i další lidi, to říkají
+[34:29] další politici, tak
+[34:31] Německo bylo vybudováno
+[34:33] díky levnému
+[34:35] plynu z Ruska, ze Sovětského
+[34:37] svazu. To je neoddiskutovatelná
+[34:39] věc. Kdyby rusové
+[34:41] nedávali Německu levný plyn,
+[34:43] tak by Německo nebylo tak bohaté.
+[34:45] A tohle je věc, kterou podcenili.
+[34:47] Protože Sovětský svaz
+[34:49] na tom nezbohatnul. Protože oni vždycky
+[34:51] prodávají ty nerostní suroviny
+[34:53] za nějaký peníze. Ale oni nedělají
+[34:55] to, co dělá Západ. Vyždímat na tom co nejvíc.
+[34:57] Oni dávají slušnou cenu.
+[34:59] Takže Sovětský svaz na tom nezbohatnul.
+[35:01] Viděli jsme, jak vypadal v 90. letech.
+[35:03] Naprostá katastrofa hladou.
+[35:05] Takže to Sovětský svaz
+[35:07] rozhodně neudělal ze sebe velmoc,
+[35:09] že by dával draze
+[35:11] plyn. Ale Německo ze sebe
+[35:13] udělalo poměrně bohatý stát,
+[35:15] díky levným energiím z Ruska,
+[35:17] aby následně
+[35:19] se mohli dát dohromady, vybudovat armádu
+[35:21] a jít zase kam?
+[35:23] Zase do Rusku.
+[35:25] Takže proto říkám, že
+[35:27] Rusové prostě tohleto
+[35:29] podcenili, nepochopili
+[35:31] a odpustili
+[35:33] a prostě podcenili.
+[35:35] Rusové prostě přecenujou
+[35:37] evropský občany,
+[35:39] že ty evropští občany se postaví,
+[35:41] aby byl ve světě klid,
+[35:43] aby se nešlo proti Rusku.
+[35:45] A podcenují tu chazarskou chátru,
+[35:47] která prostě stale tím má
+[35:49] Rusk na celý Rusko.
+[35:51] A podcenují je, že
+[35:53] pracují dlouhodobě a že když jim
+[35:55] po válce začaly
+[35:57] nehnout dávat levný plyn,
+[35:59] no takže se co zotaví,
+[36:01] zbohatnou a půjdou znovu
+[36:03] na Rusko.
+[36:05] A to je velká chyba Ruska.
+[36:07] A jestli teď v tomto konfliktu
+[36:09] začnou Rusové zase dělat
+[36:11] takový chyby, že začnou věřit
+[36:13] američanům. Nějaký
+[36:15] mírový dohody a podobný
+[36:17] jak to říct,
+[36:19] podobný tličky, který zkouší
+[36:21] různě Donald Trump.
+[36:23] Viděli jste to návěřce
+[36:25] v Anchorage, dohoda.
+[36:27] A porodci jim řekli, no ale Ukrajinci nechtějí.
+[36:29] A teď zase zkouší nějaký
+[36:31] příměři atd. Přes Morio,
+[36:33] přes Erdogan a přes Tokájeva.
+[36:35] Prostě zkouší to ze všech stran
+[36:37] a cílíme pořád to samý.
+[36:40] Pořád pro ty chazarský,
+[36:42] ne, pro tu chazarskou židovskou
+[36:44] elitu dobít
+[36:46] Rusko. To je cílem.
+[36:48] Je to naprosto jednoduchý. A lidem
+[36:50] se musí dělat válečná propaganda
+[36:52] a musí se jim zakazovat vidět
+[36:54] pravdu. Proč myslíte
+[36:56] třeba ty ekonomický sankce, jo?
+[36:58] Víte, že od roku 2021
+[37:00] nebo 2020, nevím,
+[37:02] jsou ekonomický sankce na Russia Today
+[37:04] a na Sputnik.
+[37:06] Ekonomický sankce.
+[37:09] Proč jsou ekonomický sankce? Copak
+[37:11] Rusko z toho bohatne?
+[37:13] Nebo proč jsou ekonomický sankce
+[37:15] na Russia Today a na Sputnik?
+[37:17] To nejsou ekonomický sankce.
+[37:19] To je zákaz
+[37:21] přinášení informací o tom,
+[37:23] jak to vypadá v Rusku,
+[37:25] do našich zemí, do České republiky,
+[37:27] do Evropy. Proč? Protože
+[37:29] kdyby lidi viděli, jak to vypadá v Rusku,
+[37:31] tak by pochopili, že Rusové nechtějí
+[37:33] válčit s Evropou. Jenže tady
+[37:35] je potřeba vytvořit ten příběh,
+[37:37] že Rusko je agresor, že napadá Evropu,
+[37:39] že každý den přichází nějaký
+[37:41] drony, že se Rusko chystá
+[37:43] na Evropu, aby se vytvořil ten
+[37:45] potenciál pro to, že až přijde
+[37:47] nějaká, jo, jak dneska říkali, Polsku.
+[37:49] To už není možný ty každý den
+[37:51] útoky, už musíme něco udělat, už musí
+[37:53] přijít odpověď. A už jsem se bál,
+[37:55] že řeknou, musíme zautočit.
+[37:57] Pak nakonec řekli, že ne. Neřekli, že
+[37:59] zautočit, ale že je potřeba nakoupit nějaký
+[38:01] levnější formy
+[38:03] protivzdušní obrany a nový
+[38:05] radary, který budou zakicovat nízko
+[38:07] na pomalu lekící drony, nový z Ruska
+[38:09] a tak dál. Ale
+[38:11] chápejte, že tady se vytváří ten příběh,
+[38:13] aby v České republice a vůbec v celé Evropě
+[38:15] na celém západě, aby pořád
+[38:17] jsme slyšeli tu
+[38:19] válečnou propagandu, jak to Rusko
+[38:21] na nás chce zautočit, jak to
+[38:23] Rusko je agresor.
+[38:25] Abychom neslyšeli to, co říkají ty rusové.
+[38:27] Protože kdybychom slyšeli to, co říkají
+[38:29] ty rusové, tak bychom neuvěřili, kterým je lištím.
+[38:31] Tak bychom to slyšeli z obou
+[38:33] stran, říkali bychom si, jo, tak jo,
+[38:35] tak jako, jo, tak jsou to
+[38:37] agresoři, došli na Ukrajinu,
+[38:39] neměli tam jít, je to samostatný
+[38:41] stát, suverénní, na druhou
+[38:43] stranu jsou tam takovýhle a takovýhle
+[38:45] důvody, ale lidi by začali přemýšlet.
+[38:47] A aby lidi nezačali
+[38:49] přemýšlet, tak se dali ekonomický
+[38:51] sankce na Rašaterii a na
+[38:53] Sputnik. To nejsou ekonomický sankce.
+[38:55] To je součást
+[38:57] váleční propagandy západní.
+[38:59] A to je ten problém. A rusové
+[39:02] tohleto podceňují. Rusové si myslí,
+[39:04] že se Evropani postaví těm svojím
+[39:06] vládám a že ten konflikt zastaví.
+[39:08] Jo. A
+[39:10] podle mě udělali obrovskou chybu
+[39:12] v tý studijní války, že nechali
+[39:14] Německo, aby Německo
+[39:16] takhle zbohatlo, aby takhle
+[39:18] vyrostlo, protože znáte Němce.
+[39:20] Jo. Ahoj.
+[39:26] Známe. Některé
+[39:28] evropské země, podle Euronews,
+[39:30] prosazují snižení financování
+[39:32] unijních institucí, včetně Evropské
+[39:34] komise, Evropského parlamentu
+[39:36] a Rady Evropské unie.
+[39:38] Ušetřené prostředky by měly
+[39:40] být přednostně využity
+[39:42] na jiné priority, mimo jim
+[39:44] na podporu rozšíření
+[39:46] Evropské unie a Ukrajiny.
+[39:48] Novinka.
+[39:50] Novinka, hele. Debata
+[39:52] přichází, kdy
+[39:54] Evropské státy čelí rostloucím výdajům
+[39:56] na obranu energii a
+[39:58] podporu Kieva. Německo spolu s Dánským,
+[40:00] Nizozemským, Rakouským, Finským a Švédským
+[40:02] již tlačí na výrazné
+[40:04] omezení navrhovaného rozpočtu na
+[40:06] roky 28 až
+[40:08] 34. No, tak
+[40:11] jako jsem vám říkal v nedělním vysvětlání,
+[40:13] že na Ukrajinu přivezli nějakou půlmenu
+[40:15] milionu, půl milionu,
+[40:17] pět set tisíc přestěhovalců
+[40:19] z Indie, z Pakistánu a z Bangladeše
+[40:21] a chystají se přivést,
+[40:23] chystají se podle ministerstva zahraničních
+[40:25] věcí, chystají přivést devět
+[40:27] milionů lidí na Ukrajinu.
+[40:29] Z Indie, z Pakistánu, z Bangladeše
+[40:31] a možná z nějakých dalších zemů.
+[40:33] Takže super, že vezmou Ukrajinu
+[40:35] potom do Evropské unie,
+[40:37] tak tady budeme mít pěkně nejenom
+[40:39] Bangladeš ze západu,
+[40:41] ale Pakistán z východu ještě.
+[40:43] Super. Franci
+[40:47] a Velká Británie,
+[40:49] dvě evropské jaderné mocnosti
+[40:51] zapojené do tzv. koalice ochotných,
+[40:53] disponují dohromady
+[40:55] přibližně 515
+[40:57] jaderními hlavicemi.
+[40:59] Podle odhadu Štokholmského mezinárodního
+[41:01] institutu pro výzkum míru
+[41:03] má Francie přibližně
+[41:05] 290 hlavic,
+[41:07] zatímco britský arzenál činí
+[41:09] kolem 225.
+[41:11] Z tohoto množství je podle dostupných odhadů
+[41:13] přibližně 400 hlavic rozmistěno,
+[41:15] kolem
+[41:17] 250 francouzských a 120 britských.
+[41:19] Zbývající hlavice
+[41:21] zatím jsou ve skladech,
+[41:23] ty půjdou k nám. Franci a Velká Británie
+[41:25] tak představují zdaleka největší
+[41:27] evropské jaderné síly. Jejich význam
+[41:29] v evropské bezpečnosti, architektuře
+[41:31] v poslední době neustále
+[41:33] roste, také v souvislosti
+[41:35] s debatou o větší evropské odpovědnosti
+[41:37] za vlastní obranu
+[41:39] a odstrašení.
+[41:41] Ale to je jako,
+[41:43] podívejte se, jak mám velký ramena,
+[41:45] vidíte to? Přes celou obrazovku, ani se mi tam
+[41:47] nevejdou. A to jste neviděli bycáky.
+[41:49] Břicháče, jaký mám.
+[41:51] Prostě když dám ránu,
+[41:53] to je prostě strašný dělo.
+[41:55] Prostě to byste se pak
+[41:57] jako divili, jakou dávám ránu.
+[41:59] Ale prostě
+[42:01] Ruskové mají Tyson.
+[42:05] A když půjdu
+[42:07] do rybu s Mikem Tysonem,
+[42:09] tak vám řeknu narovinu, ať mám
+[42:11] ramena přes celý záda,
+[42:13] tak prostě budu takhle maličkej,
+[42:15] když uvidím Tysona.
+[42:17] Protože bych
+[42:19] nechtěl říct ani
+[42:21] high, kdyby žil rychlej
+[42:23] Tyson. No a to je prostě
+[42:25] ten rozdíl mezi
+[42:27] Ruskem a mezi
+[42:29] Francií a Británií.
+[42:31] Francii a Británii mají dohromady 500
+[42:33] lavic, jo super. Bycáky
+[42:35] paráň. Rusko má 5000.
+[42:37] Desetkrát tolik.
+[42:39] A ty britský
+[42:41] a ty francouzský lítaj jak rychle.
+[42:43] Ty jejich rakety.
+[42:45] Jak poletí rychle. Já jen dva tři tisíce
+[42:47] kilometrů za hodinu. Jak poletí rychle.
+[42:49] A ty ruský dvacet,
+[42:51] pětadvacet,
+[42:54] po cestě ještě manévrujou,
+[42:56] vypouští nástrojní cíle
+[42:58] a rusové mají dobrou protivzdušnou
+[43:00] ochranu. Jako o čem se tady bavíme?
+[43:02] To je zase jenom válečná propaganda.
+[43:04] A dneska Finsko, myslím,
+[43:06] že to je Finsko, kdo odsouhlasilo
+[43:08] dneska a oznámilo, že se
+[43:10] připojují k jadernému
+[43:12] deštníku Francie.
+[43:15] Máme to ve zprávách, Zuzko?
+[43:17] Ne, myslím, že to je Finsko, kdo to
+[43:19] dneska oznámil. Takže
+[43:21] tam už se to dohodlo, už to
+[43:23] veřejně oznámili. No a u nás se čeká,
+[43:25] u nás se čeká,
+[43:27] už to řek Pavel, už to řek Babiš,
+[43:29] tak jenom čekám, kdy řeknou,
+[43:31] kdy bude nějakej summit.
+[43:33] Teďko, myslím, že na konci,
+[43:35] jak se jmenuje,
+[43:37] na konci října, myslím, že má být Evropská
+[43:39] unie summit s Kanadou, že jo?
+[43:41] To má být někdy 20. něco
+[43:43] října. No tak předpokládám,
+[43:45] že tam by klidně
+[43:47] se mohl spotkat Andrej s
+[43:49] Emanuelem, takže by to tam mohli
+[43:51] někde na hajzlíku počkrápnout, jako.
+[43:53] A nebo možná Andrej doletí
+[43:55] do Francie, ale to zase by bylo vidět, že jo?
+[43:57] Že tam letí, to by musel říct, že
+[43:59] tam jde vyjednávat třeba jaderný palivo do
+[44:01] Eregráda, nebo něco takovýho. Protože
+[44:03] předpokládám, že nám to oznámí
+[44:05] ex post, Andrej.
+[44:08] No si myslím, že
+[44:11] nám to oznámí ex post, že to
+[44:13] podepsal. Protože to je,
+[44:15] víte, znám
+[44:17] málo lidí, který
+[44:19] považuju za lidi, který jsou
+[44:21] jako, a teď nebudu
+[44:24] sprostej, ale vypočítavý,
+[44:26] lskivý
+[44:28] a nemluvící
+[44:30] pravdu dohromady. Dohromady
+[44:32] se tomu říká kurva. Ale to
+[44:34] říkal jsem, nebudu sprostej, nebudu
+[44:36] sprostej. Jak říká jeden můj
+[44:38] kamarád z Polska, přemuž,
+[44:40] ten říká, kurva, to není jest
+[44:42] závodstvo, to jest charakter.
+[44:44] A
+[44:46] co se týče Andreje Babiše, tak Andrej Babiš
+[44:48] je prostě
+[44:51] liška prohradná. Liška
+[44:53] mazaná a liška prohradná. Takže předpokládám,
+[44:55] že přijde s kým, že to je podepsaný, nebo
+[44:57] nám to ani neoznámí. A to
+[44:59] je největší problém pro
+[45:01] Českou republiku v tuhle chvíli, který
+[45:03] vidím. No, protože na to se tlačí.
+[45:05] Jak vidíte, tak
+[45:07] včera ministr obrany,
+[45:09] minister, ne, pardon, minister
+[45:11] zahraničí, polský, Sikorský,
+[45:13] mluvil o tom, nebo především o tom
+[45:15] mluvil, včera jsme to měli ve zprávách,
+[45:17] že kdyby se NATO pustilo do Ruska, tak
+[45:19] bude mít převahu lev vzduchu.
+[45:22] A o tom to je, to je to, co říkám od
+[45:24] roku 22, o tom to je.
+[45:26] F-35, Rafaly,
+[45:28] všechny tyhle ty letadla, který
+[45:30] můžou nosit jadevné
+[45:32] zbraně, rozmístit je všude
+[45:34] do všech zemí koalice
+[45:36] ochotných, aby se mohlo,
+[45:38] až bude konflikt s Ruskem,
+[45:40] vzlítnout. A v okamžiku,
+[45:42] kdy budou u nás mý drazí
+[45:44] přátelé tyhle ty letadla Rafal
+[45:46] s raketami ASMP,
+[45:48] protože to je to, co znamená ten jejich jadevný deštník,
+[45:50] že budeme mít útoční jadevné
+[45:52] zbraně. To není žádný deštní.
+[45:54] Nenechte si to navlovit, tuto stulečnost.
+[45:56] To není žádná ochrana. To jsou
+[45:58] útoční jadevné zbraně.
+[46:00] Tak počtejte s tím, že v okamžiku, kdy
+[46:02] vzlítnou, tak
+[46:04] se jde do jadevné války. A jakmile
+[46:06] od nás
+[46:08] vzlítnou Rafaly s ASMP raketami,
+[46:10] tak Rusové posílají jadevné zbraně
+[46:12] zpátky na Českou republiku.
+[46:14] A jak říkám, Rusové je mají
+[46:16] xkrát rychleji jadevné
+[46:18] zbraně. Čekají na stejné věci.
+[46:23] Jako tomu je potřeba
+[46:27] zabránit. Ale proto, moje manželka
+[46:29] s kým přišla, že máme udělat veřejný
+[46:31] shromáždění, to nebylo z mojí hlavy.
+[46:33] Ona přišla a ona prostě nechce, aby
+[46:35] dělal žádný demonstraci u další dobu, protože
+[46:37] ví, co nás to stálo.
+[46:39] Nás to stálo opravdu hodně.
+[46:41] A toho teroru, to si nikdo nedokáže představit.
+[46:43] Ale přišla Bojana a říká,
+[46:49] že to není pro Českou republiku, jestli chtějí přivést
+[46:51] jadevné zbraně do České republiky.
+[46:53] Poděkujte jí, že bude veřejný
+[46:55] shromáždění, ta s kým přišla. To není z mojí hlavy.
+[46:57] Spojené státy mají
+[47:02] na oběžné dráze zbraně
+[47:04] určené ke kontrole vesmíru.
+[47:06] Poprvé to veřejně
+[47:08] potvrdil americký ministr letectva,
+[47:10] který mení,
+[47:12] ale nespecifikoval, o jaký typ
+[47:14] zbraní jde, ani jak dlouho
+[47:16] již ve vesmíru umístěny jsou.
+[47:18] Jsou tam
+[47:21] umístěny pro kontrolu vesmíru,
+[47:23] jsou schopné bránit společné
+[47:25] síly před nepřátelskými akcemi
+[47:27] protivníků, uvedl.
+[47:29] Jeho prohlášení media vnímají
+[47:31] především jako varování
+[47:33] Číně a Rusku.
+[47:35] Mluvčí amerických vesmírních síl
+[47:37] následně v televizi ABC
+[47:39] News potvrdil,
+[47:41] že tyto systémy mohou být podle
+[47:43] pokynů velení využity k obranným
+[47:45] i ofenzivním účelům.
+[47:47] Washington zároveň dlouhodobě
+[47:49] upozorňuje na vývoj
+[47:51] protidružicových zbraní v Rusku a Číně.
+[47:53] Rostoucí militarizace
+[47:55] vesmíru představuje podle
+[47:57] bezpečnostních expertů rizikové
+[47:59] vojenské i civilní systémy.
+[48:01] Případné útoky na satelity by
+[48:03] mohly narušit GPS,
+[48:05] vojenskou komunikaci, navigaci
+[48:07] i služby důležité pro
+[48:09] globální ekonomiku.
+[48:11] Vyjádřila se k tomu
+[48:13] ruská strana, ústy
+[48:15] Marie Zacharové, americké uznání
+[48:17] orbitálních zbraní ignoruje
+[48:19] důsledky vesmírného konfliktu.
+[48:21] Ok, pojďme na další
+[48:23] zprávu.
+[48:27] Šéf iránské organizace
+[48:29] pro atomovou energii Mohamed
+[48:31] Eslami se nemohl zúčastnit
+[48:33] v generální konference Mezinárodní
+[48:35] agentury pro atomovou energii
+[48:37] ve Vídni.
+[48:39] Rakouské úřady mu zrušili vizum,
+[48:41] přičemž Irán tvrdí, že k tomu
+[48:43] došlo pod tlakem Spojených
+[48:45] států. Teherán kvůli incidentu
+[48:47] předvolal rakouského
+[48:49] šarže Dafé, mluvčí
+[48:51] iránského ministerstva
+[48:53] označil odmítnutí
+[48:55] viz za neopodstatněné.
+[48:57] Iránský zástupce
+[48:59] Reza Najafi uvedl, že Rakousko
+[49:01] jako hostitelská
+[49:03] země
+[49:05] měla povinnost umožnit
+[49:07] účastnit se i představitelům
+[49:09] iránského státu
+[49:11] na ty konferenci.
+[49:13] Tak to je
+[49:15] taky prostě víte co.
+[49:17] Přece my jsme
+[49:20] společnost vyspělá,
+[49:22] která je postavená na právu
+[49:24] tak tady se mají dělat
+[49:26] věci podle práva.
+[49:28] Spravedlivě.
+[49:30] Podle nějakých přepisů,
+[49:32] podle nějakých mezinárodních dohod,
+[49:34] podle nějaký logiky, ale ne.
+[49:36] Tadyhle je prostě
+[49:38] i v agentuře
+[49:40] pro kontrolu atomový energie
+[49:42] oni prostě na konferenci mu zakázají
+[49:44] věc, ale to je pořád
+[49:46] to se zakazuje.
+[49:48] Politikům se zakazujou cesty
+[49:50] na různý konference, třeba
+[49:52] tak chtěl jsem přivezt do České republiky
+[49:54] Davida Ica.
+[49:56] Prostě
+[49:58] David Ic má zakázáno
+[50:00] do České republiky do celé 27.
+[50:02] Má zakázáno přijet.
+[50:04] To jsou prostě jako
+[50:06] neuvěřitelný věci. Tady se zakazuje lidem,
+[50:08] aby se cestovalo v 21. století,
+[50:10] aby mohli něco říct.
+[50:12] Ne, že jsou to teroristky, ale aby mohli
+[50:14] něco říct. Tak kde je ta svoboda slova?
+[50:16] Kde je ta demokracie?
+[50:18] Kde je ten svět postavený na nějaký
+[50:20] svobodě politických názorů?
+[50:22] Kde to jsme, když se tady
+[50:24] zakazuje, aby přijel někdo na konferenci,
+[50:26] aby tam třeba mohl obáhajit
+[50:28] svůj postoj, svojí zemi,
+[50:30] nebo přinést nějaké informace.
+[50:33] To je opravdu
+[50:35] barbarství. To, v čem žijeme teď,
+[50:37] to není barbarství
+[50:39] a válka, ale především
+[50:41] barbarství.
+[50:43] Spojené státy přesouvají
+[50:48] 52 milionů dolarů
+[50:50] z vojenské pomoci Evropě
+[50:52] do Latinské Ameriky.
+[50:54] Administrativa prezidenta
+[50:56] Donalda Trumpa přesouvá
+[50:58] 52 milionů dolarů z americké
+[51:00] vojenské pomoci určené pro
+[51:02] Slovensku, Severní Makedonii,
+[51:04] Tunisko a Irak do Panamí,
+[51:06] Peru, Ekvadoru a Kolumbie.
+[51:08] Americké ministerstvo zahraničí
+[51:10] o změně už informovalo
+[51:12] kongres. V rozhodnutí odráží
+[51:14] změnu priorit Trumpovy zahraniční
+[51:16] politiky, která klade větší
+[51:18] důraz na západní polokoly.
+[51:20] Přesunuté prostředky mají podle
+[51:22] ministerstva pomoci v boji proti
+[51:24] obchodu s drogami, nelegální migraci
+[51:26] při zabezpečení panamského průplavu.
+[51:28] Washington zároveň usiluje o
+[51:30] omezení roztoucího vlivu dalších
+[51:32] mocností země nad Číny
+[51:34] v Latinské Americe.
+[51:37] Tak to vyplývá z
+[51:39] nové bezpečnostní správy Pentagonu.
+[51:41] Myslím, že jsem už o tom mluvil, tak to nebudu
+[51:43] komentovat. Pojďme na další správu.
+[51:45] Teď jedna dobrá správa.
+[51:47] Super, konečně.
+[51:49] Jak byl prezident Trump v tom
+[51:51] Irsku, že jo, tak oznámil,
+[51:53] že svoje...
+[51:55] Jak se byl zahrán?
+[51:57] Na Golfu se dělají nejlepší obchody
+[51:59] teďko. Tak oznámil,
+[52:01] že Spojené státy zruší
+[52:03] desetiprocentní clon na irskou whisky.
+[52:05] No tak konečně.
+[52:08] Tak bude Jameson
+[52:10] v Americe
+[52:12] 20% lenější. Ale pozor.
+[52:14] Opatření se má týkat
+[52:16] pouze Irska, nikoliv ostatních
+[52:18] zemí EU.
+[52:20] No jasně, no. Tak jenom Jameson, no.
+[52:22] Jameson a ty irský. Jako osobně
+[52:24] jsem bydlel ve Skotsku.
+[52:26] To jsme byli s Bánovou rok, jsme bydleli ve Skotsku.
+[52:28] Tak jsem samozřejmě ochutnával
+[52:30] všechny single maltky. Teď už nepiju
+[52:32] od roku 2019, nepiju alkohol, ale
+[52:34] tou dobou jsem pěl, že jsem pěl
+[52:36] všechny ty poklouřený
+[52:38] Artbagy a Dalviny
+[52:40] a Lafroigy
+[52:42] a všechny tyhle ty věci. Takže
+[52:44] ale irskou whisky jsem pěl předtím, než jsem
+[52:46] jel do Skotska. A když jsem byl potom ve Skotsku, tak jsem
+[52:48] trošku přičeknul těm Skotským, ale
+[52:50] no tak jo, tak to nebude stát
+[52:52] 15 dolarů, ale bude to stát
+[52:54] 13-50 dolarů, no.
+[52:56] Ten Jameson.
+[52:59] Německý kancelář Friedrich Merz
+[53:01] příští týden neocestuje do
+[53:03] New Yorku na válné sromaždění OSN.
+[53:05] Podle vládního zdroje je jeho
+[53:07] přítomnost v Berlině
+[53:09] nezbytná. Merz čelí politickému
+[53:11] tlaku po historickém volebním
+[53:13] výsledku krajně pravicové
+[53:15] alternativy pro Německo v
+[53:17] Sasku a Alhansku z 6. září.
+[53:19] Další politickou zkouškou
+[53:21] budou pro kanceláře
+[53:23] nedělní zemské volby. Merz se
+[53:25] původně zúčastnit válného
+[53:27] sromaždění měl. Jeho
+[53:29] rozhodnutí zůstaje v Německu,
+[53:31] přichází pak v době roztoucího
+[53:33] tlaku na jeho vládu a sílici
+[53:35] podpory AFD.
+[53:39] Zajímavý, no. Tak to vypadá,
+[53:41] že to chtějí hodit ty problémy,
+[53:43] který jsou z války,
+[53:45] že to chtějí hodit na Merze.
+[53:47] Merze si obětují, že on je
+[53:49] vinník, jde nějaká jiná
+[53:51] politická
+[53:53] síla.
+[53:55] Merze uplidí dublek roku,
+[53:57] aby šel budovat Ukrajinu
+[53:59] a zase bude všechno v pohodě.
+[54:01] Nevím, proč nejde
+[54:03] do AFN, ale
+[54:05] nemyslím si, že to je takhle osobní,
+[54:07] co se týče Merze, že by to bylo tak osobně,
+[54:09] jako že on prohrává
+[54:11] a že by kvůli tomu
+[54:13] nechtěl do AFN. To si nemyslím.
+[54:15] To je vlastně globalista,
+[54:17] absolutně podrženej black rockem,
+[54:19] absolutně podrženej těmi nejvýššími globalisty,
+[54:21] které to řídí Německo
+[54:23] a s tím se počítá.
+[54:25] V politice, takyž takhle vysoký politice,
+[54:27] se nevyhazuje dolů, ale vyhazuje se náhodou.
+[54:29] Podívejte se před námi.
+[54:31] Nerudovou nebo
+[54:33] nevím, další,
+[54:35] Saša Vondr.
+[54:37] Neúspěšný politici doma, tak do
+[54:39] Evropského parlamentu. Tam dostanete pěkně,
+[54:41] nevím kolik dostávají,
+[54:43] půl mega měsíčně nebo kolik,
+[54:45] tak tam mají pěkný teplý místečko.
+[54:47] Musí jako, ten Brusel je krásný,
+[54:49] to vám řeknu. Evropský parlament,
+[54:51] velká pohoda, tam je velká pohoda
+[54:53] v Evropském parlamentu. Občas si tam musí
+[54:55] jít sednout, no ale mají na to
+[54:57] všechny ty asistenty, co jim tam dělaj.
+[54:59] Celá rodina zaměstnaná, takže
+[55:01] takhle se vyjadruje
+[55:03] politice a nemyslete si, že Merck
+[55:05] za to, co udělal pro globalisty,
+[55:07] že bude
+[55:09] mít nějaké problémy.
+[55:11] V žádném případě. Stejně tak si nemyslete,
+[55:13] že by se měl špatně Fiala
+[55:15] nebo Rakuša nebo Černochová.
+[55:17] Ot je postaráno
+[55:19] za to, co udělali pro globalisty,
+[55:21] aby rozjídili válku.
+[55:23] Ot je postaráno a stejně tak bude
+[55:25] postaráno u Andreje Babiše.
+[55:27] Takže mu teď zařízly
+[55:29] dotace, to je jenom nějaká výhruška.
+[55:31] A podle mě, to je to,
+[55:33] proč by předal otěže teď
+[55:35] generálu Pavlovi, protože na něj
+[55:37] někdo zatlačil z NATO, z Evropské
+[55:39] unie, to je v podstatě jedna
+[55:41] organizace, když se to vezme konec za konec,
+[55:43] konec konců, kolem a
+[55:45] kolen. Takže někdo na něj zatlačil,
+[55:47] že je potřeba,
+[55:49] aby uvolnil místo generálovi
+[55:51] NATO, aby jezdil
+[55:53] Babiš takhle maličký vše
+[55:55] na přečeskou televizi. Ano, mluvil jsem s panem
+[55:57] prezidentem. Ano, pan
+[55:59] prezident.
+[56:01] Takže myslím si, že i Andrej Babiš
+[56:04] dostane zase svoje dotace,
+[56:06] že oni to umí pěkně koulet,
+[56:08] aby si udrželi tyhle ty
+[56:10] politiky. Nemyslím si, že by Mertz měl
+[56:12] nějaký problém. Nemyslím si.
+[56:14] NATO poprvé sestřelilo
+[56:17] dron nad Litvou. Stíhačka
+[56:19] NATO v noci na úterý sestřelila
+[56:21] dron, který pronikl do litevského
+[56:23] vzduchu. Podle
+[56:25] litevských představitelů šlo o první
+[56:27] případ, kdy byl dron nad
+[56:29] Litvou sestřelen. Zařízení
+[56:31] pravděpodobně neslo výbušniny.
+[56:33] Pravděpodobně.
+[56:35] Dron byl zničen poblíž obce
+[56:37] Prat-Kunaj, nedaleko Kaunasu.
+[56:39] Podle litevských úřadů
+[56:41] pravděpodobně přiletěl
+[56:43] z území Běloruska. Jeho přesný
+[56:45] původ ale zůstává nadále
+[56:47] předmětem vyšetřování. Italská
+[56:49] stíhačka pusovici v rámci
+[56:51] misie NATO Baltic Air
+[56:53] byla vyslána k jeho zachycení
+[56:55] a nasledně dron
+[56:57] sestřelila. To je to, co jsem
+[57:00] vám už dneska říkal. Oni to
+[57:02] komentují tak, že za první teda naštěstí,
+[57:04] řekli, že se neví ještě odkud je.
+[57:06] Že se to musí vyšetřit.
+[57:08] Takže to jsem rád, že nám nezačala
+[57:10] dneska třetí světová válka.
+[57:12] Že rusové poslali dron
+[57:14] do Litvy. Dokonce řekli, že
+[57:16] ani neznají původ, ani
+[57:18] neznají důvod toho, ani jestli to bylo
+[57:20] úmyslný. Takže to jsem docela
+[57:22] rád. Ale to, co řekli, je,
+[57:24] že se musí udělat kontraopatření.
+[57:26] Protože to už není možné.
+[57:28] To je každej den nějaký útoky.
+[57:30] Takže bude potřeba nakupovat nový radary,
+[57:32] který budou zachycovat nízko a pomalu
+[57:34] letějící drony. Bude potřeba nová
+[57:36] protivzdušná obrana, protože neekonomicky
+[57:38] aby lítaly skíhačky. To už jsme se o tom bavili
+[57:40] o dost dřív.
+[57:42] Pro ti z vás, kteří jste tady poprvé
+[57:44] nebo noví, tak jsme počítali, kolik
+[57:46] stojí, když zlítnou skíhačky
+[57:48] oproti dronu. Dron stojí 10 000
+[57:50] euro a zlet skíhačky
+[57:52] stojí 100 000 euro. Takže tam je
+[57:54] samozřejmě obrovský rozdíl. To je strašně
+[57:56] drahý. Takže o tom taky se dneska
+[57:58] mluvilo, že se budou muset
+[58:00] nový zbraně, že se bude muset spolupracovat
+[58:02] s Ukrajinou, jejich schopnosti
+[58:04] v boji proti
+[58:06] dronům atd. Ale
+[58:08] celkově to pořád vypadá
+[58:10] každý den, že se přituhuje, přituhuje,
+[58:12] přituhuje. Dneska už si myslím, že
+[58:14] většina lidí na západě už je
+[58:16] tou masýrkou tak zblblá,
+[58:18] že si myslí, že prostě na nás
+[58:20] Rusové útočí každý den a za chviličku
+[58:22] dají zelenou k tomu, aby lidi
+[58:24] řekli, hele oni na nás útočí každý den, musíme
+[58:26] se bránit. To je
+[58:29] prostě, to je ta propaganda,
+[58:31] která, osobně jsem si myslel
+[58:33] v roce 22, 23 jsem si
+[58:35] myslel, že ta válka, že Česká republika bude
+[58:37] ve válce už v roce 23 nebo 24,
+[58:39] že to bude mnohem rychleji,
+[58:42] ale to je proto, že jsem neměl zkušenosti
+[58:44] s tím, jak to vlastně ve skutečnosti
+[58:46] vypadá, když se rozjídí válka,
+[58:48] teď už to vidím. Proto to taky trvalo tak dlouho
+[58:50] na Ukrajině, protože se musí přesvědčovat
+[58:52] to obyvatelstvo, musí se dělat
+[58:54] válečná propaganda, zakázat
+[58:56] informace z druhé strany, zakázat
+[58:58] spolupracovat jakýmkoliv způsobem
+[59:00] s druhou stranou, tak to víte, to udělal
+[59:02] Reichel, kdo si vezme oznamenek Z,
+[59:04] tak patří do vězení. Takže
+[59:06] tohle se musí udělat, musí se udělat lidem
+[59:08] ten strach, musí se začít dělat ta
+[59:10] pořádná propaganda, zakázat informace
+[59:12] z druhé strany a až
+[59:14] jsou lidi úplně zblblí a
+[59:16] dojdou do toho názoru, že na ně ta druhá
+[59:18] strana pořád útočí, tak pak
+[59:20] řeknou, dobře, tak to už není možné.
+[59:22] Tak oni na nás pořád útočí,
+[59:24] tak už tak, tak už se pojďme bránit.
+[59:26] A to je, to je, to je to, co
+[59:28] si myslím, že se připravuje, proč
+[59:30] to trvá takhle dlouho a
+[59:32] to je taky to, jak ta válka začne, pokud
+[59:34] začne, tak začne jakýmhle způsobem.
+[59:36] Rusové na nás útočí, musíme se bránit.
+[59:38] Je to tak.
+[59:42] Já mám tady teda poslední zprávu, když mě přijde,
+[59:44] že to je furt taky dokola.
+[59:46] Evropská unie připravuje
+[59:48] pravidla, která by omezila přístup
+[59:50] děti mladších 15 let
+[59:52] k sociálním sítím,
+[59:54] videoplatformám, AI chatbotům
+[59:56] a některým online hrám.
+[59:58] Děti ve věku 13 a 14 let
+[01:00:00] by mohly mít účty pouze ze
+[01:00:02] souhlasení rodičů a za přísnějších
+[01:00:04] podmínek. Děti od 3 do
+[01:00:06] 12 let by mohly využívat
+[01:00:08] jen služby určené dětem
+[01:00:10] a to pod rodičovskou kontrolou.
+[01:00:12] Návrh počítá také s ověřovaným
+[01:00:14] věku uživatelů.
+[01:00:16] Opatření je součástí iniciativy
+[01:00:18] AI Kids Act
+[01:00:20] a návrh zatím není zákonem.
+[01:00:22] Musí je i projednat členské
+[01:00:24] státy a Evropský
+[01:00:26] parlament.
+[01:00:29] Ježíš, tak mě napadl jeden vkip, ale ten kdybych vám řekl,
+[01:00:31] tak jsem politicky skončil a asi
+[01:00:33] lidsky
+[01:00:35] ve vysílání už bych nemohl nikdy vysílat.
+[01:00:37] Ale takže vám ho neřeknu.
+[01:00:39] Řeknu ho až zůsta po vysílání
+[01:00:41] a tomu dovi. Ale
+[01:00:43] tohle je složitá otázka.
+[01:00:48] Osobně mám kamarády,
+[01:00:50] který v Srbsku domluvil
+[01:00:52] se Srbským Telekomem,
+[01:00:54] že sponsoruje jeho
+[01:00:56] vedlejší aktivity, protože
+[01:00:58] on dělá jiný aktivity,
+[01:01:00] jak pomáhat
+[01:01:02] dětem v detoxu od
+[01:01:04] elektroniky. A jak pomáhat
+[01:01:06] dětem v tom, aby nebyli
+[01:01:08] závislí na telefonech.
+[01:01:10] Podle mě by
+[01:01:12] se s tím něco dělat mělo, protože
+[01:01:14] ty děti nemají tu odolnost.
+[01:01:16] Jsou to prostě děti otevřená mysl
+[01:01:18] a když jim rodiče šopnou, tak
+[01:01:20] takhle to běžně rodiče dělají.
+[01:01:22] I mý kamarádi to takhle dělají.
+[01:01:24] Děti, no tak tady mají telefon
+[01:01:26] a musíme jim ho dát, tak jako
+[01:01:28] když všichni ostatní ho mají, tak jak by se
+[01:01:30] cítili, kdyby ho neměli. Podle mě
+[01:01:32] vůbec nevíme, co to těm
+[01:01:34] dětem udělá. Že vyrůstají
+[01:01:36] místo ze psem z telefona.
+[01:01:38] Že budou vyrůstat s umělou inteligencí.
+[01:01:42] Spousta dětí má problémy s tím, že
+[01:01:44] nedostávají dost lajku
+[01:01:46] na sociálních sítích.
+[01:01:48] Třeba si to berou hodně. Některý
+[01:01:50] můžou páchat i sebevraždy kvůli tomu.
+[01:01:52] To jsou všechno těžké věci.
+[01:01:54] Je to pro nás novinka,
+[01:01:56] v podstatě technika. Pro ty
+[01:01:58] děti je to první generace dětí, která má
+[01:02:00] dneska umělou inteligenci v telefonu.
+[01:02:02] To není jenom o
+[01:02:04] erotice na telefonu, že jim mají
+[01:02:06] listovo noho. To by mi až dost tak
+[01:02:08] nevadilo, že kluci budou koukat
+[01:02:10] na to, jak se to dělá. To mi
+[01:02:12] fakt jakoby nějak nevadí. Aspoň budou vědět, až
+[01:02:14] nebudou hledat jako my.
+[01:02:18] Nám to nikdo neukázal.
+[01:02:20] Ale ten problém je jinde. Ten problém je v tom,
+[01:02:22] že ty sociální sítě jsou
+[01:02:24] udělané tak, aby na nich lidi
+[01:02:26] byli co nejvíc závislí.
+[01:02:28] A pořád se vymýšlí nový
+[01:02:30] způsoby, jak získat
+[01:02:32] víc a víc pozornosti lidí a víc a víc
+[01:02:34] uvést ty lidi do závislosti.
+[01:02:36] A najednou lidi ztrácí
+[01:02:38] ten skutečný reálný svět,
+[01:02:40] protože ho nahrazují tím digitálním.
+[01:02:42] Takže podle mě by se tam něco
+[01:02:44] dělat mělo. Samozřejmě, že to je
+[01:02:46] zneužitý, to bude zneužitý k tomu, aby
+[01:02:48] nás všechny kontrolovaly na sociálních sítích,
+[01:02:50] to je jasný. Ale
+[01:02:52] co se týče dětí, tak myslím, že
+[01:02:54] by se měla, měly by se dávat dohromady
+[01:02:56] skupiny, který rozumí dětem.
+[01:02:58] Lidi, kteří pracují s dětmi,
+[01:03:00] kteří pracují ve školkách,
+[01:03:02] doktoři, kteří se zabývají
+[01:03:04] tím, výzkumníci a tak dále. A měly by se
+[01:03:06] dělat konference na tohle téma
+[01:03:08] celosvětově, mělo by se o tom mluvit,
+[01:03:10] mělo by se o tom diskutovat, měly by se
+[01:03:12] hledat argumenty a mělo
+[01:03:14] by se hledat nejlepší řešení. Osobně ho neznám,
+[01:03:16] nevím,
+[01:03:18] nemám malé dítě, můj syn už je dospělý,
+[01:03:20] takže jde to trošičku mimo
+[01:03:22] mě, ale myslím, že něco by se tím mělo
+[01:03:24] dělat. Co, nevím. Ale
+[01:03:26] měly by se najít lidi, kteří
+[01:03:28] tomu rozumí, kteří jsou,
+[01:03:30] kteří prostě přijdou na to,
+[01:03:32] co bude nejlepší pro naše lidi.
+[01:03:34] Neměli by to být politici z Evropské unie.
+[01:03:36] Já taky se na to necítím,
+[01:03:39] prostě nemůžu se cítit na všechno,
+[01:03:41] prostě malým dětem nerozumím, i když
+[01:03:43] mám rád malé děti, jako moc rád,
+[01:03:45] mám s nimi vždycky dobrý kontakt
+[01:03:47] s malými dětmi, ale nerozumím
+[01:03:49] tomu, této problematice a nemyslím
+[01:03:51] si, že by politici museli všechno
+[01:03:53] rozhodnout a všechno řešit, že
+[01:03:55] taky něco by mohli vymyslet odborníci,
+[01:03:57] kteří prostě jsou v nějaké oblasti
+[01:04:01] kovaní a rozumí tomu líp než ty politici.
+[01:04:05] Ne, tam všemu rozumí Uršula,
+[01:04:07] Kája
+[01:04:09] a Antonim.
+[01:04:11] Ale podle mě
+[01:04:17] s těmi dětmi
+[01:04:19] by se mělo něco udělat,
+[01:04:21] ale měly by na to být
+[01:04:23] nějaké konference odborní a měly by to
+[01:04:25] vymyslet lidi, kteří dětem rozumí.
+[01:04:27] Tak to je všechno, poslední zpráva.
+[01:04:29] Tak vidíš,
+[01:04:31] 10.4 minuty, tak tu máme přesně hodinu dneska.
+[01:04:33] Člověk na první stě veřejné schromáždění.
+[01:04:35] To už všichni víte, že
+[01:04:38] člověk na první stě veřejné schromáždění,
+[01:04:40] otázka je, vy to víte tady,
+[01:04:42] nevím, kolik je tady lidí, protože vysílám
+[01:04:44] z telefonu provizorně.
+[01:04:46] 660.
+[01:04:48] 660.
+[01:04:50] Tak vás 660,
+[01:04:52] a vy, kteří vidíte zprávy ze záznamů,
+[01:04:54] protože každej den koukám, že na YouTube
+[01:04:56] kouká nějakých 13 000 lidí,
+[01:04:58] na Facebooku kouká o něco míň,
+[01:05:00] ale nějaké ty 10 000 lidí to jsou,
+[01:05:02] tak vy to víte, ale důležité je,
+[01:05:04] aby to viděli všichni ostatní.
+[01:05:06] A to je vaše práce,
+[01:05:08] přátelé. Jo?
+[01:05:10] Jako ty
+[01:05:12] veřejné schromáždění, my musíme
+[01:05:14] vzbudit ty lidi, aby začali chodit.
+[01:05:16] To není tak, že bude jedno veřejné schromáždění
+[01:05:18] a tím všechno dokážeme.
+[01:05:20] Ne?
+[01:05:22] Ale veřejné schromáždění je potřeba udělat
+[01:05:24] a začít znovu, protože rychle
+[01:05:26] nám to jípnou.
+[01:05:28] Tak se musíme znovu
+[01:05:30] dát dohromady, protože
+[01:05:32] politika se dá dělat
+[01:05:34] z dola jenom dvěma způsoby.
+[01:05:36] Ve volbách a na ulici.
+[01:05:38] Ve volbách jsme to
+[01:05:40] prohráli.
+[01:05:42] To jsme neudělali dobře.
+[01:05:44] Takže teď, 3.10., je to přesně rok
+[01:05:46] od volem.
+[01:05:48] 3.10.2025 byly volby.
+[01:05:50] 3.10.2026
+[01:05:52] jdeme na náměstí říct,
+[01:05:54] hele, super, že byly
+[01:05:56] volby, ale to, co jste slibovali,
+[01:05:58] to neděláme.
+[01:06:00] OK, přátelé, za mě to je všechno.
+[01:06:02] Mám vás moc rád.
+[01:06:04] Přeju vám všechno nejlepší
+[01:06:06] a těším se na vás zítra.
+[01:06:08] A to je všechno, že jo?
+[01:06:11] Já se za tím těším už.
+[01:06:13] Teď na zítra.
+[01:06:15] Už tak? My ani nechceme skončit s těma zprávám,
+[01:06:17] protože už se tak strašně těšíme na zítra.

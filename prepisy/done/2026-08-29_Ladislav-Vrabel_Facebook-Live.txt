@@ -1,0 +1,680 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1419557200120161
+Datum videa:  2026-08-29
+Zpracováno:   2026-09-01 21:08:02
+Jazyk:        cs
+Délka:        00:56:47
+Popis:        29. 8. 2026 - Večerní zprávy s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    0s
+Přepis:       9m 3s
+Rychlost:     6.3x realtime
+Celkem:       9m 3s
+================================================================================
+PŘEPIS
+================================================================================
+
+[02:58] Přátelé, večer se s večerem sešel a dneska je sobota.
+[03:02] Zuzko, kolikrát je? 29.
+[03:04] Ano, přesně tak.
+[03:07] Končí nám pomalu prázdniny a máme tady zprávy v 9 s komentářem.
+[03:13] Doufám, že to dneska bude probíhat všechno tak, jak má,
+[03:15] protože tu máme dneska technicky poměrně těžký, ale pojďme na zprávy.
+[03:24] Zbrojaři hlásí i rekordy ve výrobě a exportu zbraní.
+[03:28] Podle výroční zprávy Ministerstva průmyslu a obchodu
+[03:31] dosáhl český vývoz vojenského materiálu loni 115,4 miliardy korun.
+[03:37] Meziročně teda vzrostl o 21,3 miliardy, tedy téměř o 23%.
+[03:43] Doproti roku 2021 je hodnota vývozu více než sedminásobná.
+[03:48] Posilování ozbrojených sil činitoměř polovinu exportu směřovala na Ukrajinu.
+[03:55] Skutečný poděl přitom může být ještě vyšší,
+[03:57] protože některé státy nám posílají materiál nakoupený v České republice.
+[04:02] Podle prezidenta asociace obraného průmyslu a bezpečnostního průmyslu Jiřího Hinka
+[04:08] nemá řada zemí dostatečně rozvinutý obrany průmysl,
+[04:12] přičem chce ukrajinským ozbrojeným silám pomoci.
+[04:15] A proto v České republice nakupují vojenský materiál a dodávají ho na Ukrajinu.
+[04:21] Tak to je, přiznám se, zpráva, která mě naprosto rozbila.
+[04:26] Naprosto tvrdá zpráva.
+[04:27] Naprosto tvrdá zpráva, protože od roku 21 se z České republiky vstala země po 80 letech,
+[04:38] která se přesměrovala na výrobu zbraní.
+[04:41] Protože nejbohatší člověk dneska je Michal Strnat, zbrojař.
+[04:45] Od roku 21 Česká republika vyvezla víc než do sedmkrát tolik zbraní, než v roce 21.
+[04:55] To je prostě úlet.
+[04:56] A ještě do toho.
+[04:58] A ještě do toho, jak jsme slyšeli, tak tyhle čísla nejsou kompletní.
+[05:02] Ten článek z Lidové, který jsme tady přinesli, to je samozřejmě oslavný článek na to,
+[05:06] jak česká ekonomika skvěle funguje, že vyrábíme zbraně.
+[05:11] Pojďme dál.
+[05:16] Česká republika se podle ministra obrany Jaromíra Zůny za SPD
+[05:21] aktivně zapojuje do evropské vojenské spolupráce.
+[05:25] Patří mezi ně například iniciativa ESSI, zaměřená na posílení protivzdušné
+[05:32] a protiraketové obrany.
+[05:34] Zůna v rozhovoru pro Echo 24 uvedl, že ESSI je úzce spojená
+[05:39] s integrovaným systémem protivzdušné obrany NATO.
+[05:43] Česká republika se podle něj účastní i dalších evropských projektů,
+[05:47] přičemž významnou roli mohou sehrát české firmy v oblasti radarů
+[05:51] a senzorových technologií.
+[05:53] Ministr zároveň uvedl, že Česká republika v roce 2027
+[05:58] splní závazek NATO vydávat na obranu 2%.
+[06:02] HDP, protože příští rok by měl hospodařit přibližně
+[06:06] zo 191 miliardami korun.
+[06:09] Jestli jste někdo čekali, že po tom, co jsme měli 4 roky u vlády Petra Fialu,
+[06:15] který jako první posílal zbraně na Ukrajinu, ještě předtím,
+[06:19] než tam vůbec přišly rusové, a celá naše vláda byla postavená
+[06:22] na zahraniční politice proti ruské pro NATO, pro Evropskou unii
+[06:28] a podporu zbrojního průmyslu. A jestli jste někdo čekali,
+[06:32] že s volbami v roce 2025 přijde otočka, tak otočka přišla,
+[06:37] ale přišla o 360 stupňů, jak řekla tehdejší, myslím,
+[06:42] že to byla Barbon, byla ministrině, už si nepamatuju čeho,
+[06:49] snad, no, už si nepamatuju čeho, ale dneska má taky nějakou zásadní
+[06:53] funkci. No, to je fuk, to není důležitý, člověk zapomíná.
+[06:58] V každém případě zapomínej i naši voliči, protože to,
+[07:03] jsme měli velkou debatu na CNN Prima News, kde, kde se jedná o tom,
+[07:09] aby Andrej Babiš a Petr Pavel zkoordinovali zahraniční politiku,
+[07:14] tak podle mě tam není zas tak moc, co koordinovat. Jediné,
+[07:18] co by měli teda udělat pro to, aby to vypadalo jednotně,
+[07:21] je, aby se přestali hádat, ale to, co prosazují, to znamená jaderné
+[07:26] zbraně od Francie, podporu, podporu NATO, plnění zbrojního průmyslu,
+[07:33] výrobu zbraní, tak to, podporu Ukrajiny, to všechno mají naprosto společné.
+[07:38] A docela mě šokovalo, viděl jsem dneska jedno video Andreje Babiše a Lenky Schillerové,
+[07:46] a jsou, je to takový průřez od roku 2017, jak určitě nemůžou spolupracovat
+[07:51] s SPD, protože to je extremistická strana, že nikdy by nepovolili žádný referendum
+[07:57] o vystoupení z NATO, že, že ano, je jednoznačně prozápadní evropská
+[08:03] politická strana, no tak to prostě je tak, že ano, politická strana ano,
+[08:12] dělá to, co říkala v podstatě, že neumožní žádné referendum o vystoupení
+[08:17] z Evropské unie, že je to politická strana západní, že bude podporovat Ukrajinu.
+[08:23] SPD trošičku dodržuje to, co říkalo v roce 22, že Rusko jednoznačně je agresor,
+[08:29] což říkal Tomio Okamura, že jednoznačně podporují Ukrajinu,
+[08:32] ale před volbama se jakoby maličko vychýlili, aby vypadali, že jdou proti tomu
+[08:37] politickému establishmentu, co se týče zahraniční politiky, ale hned okolo voleb
+[08:42] a po volbách zase hezky zapluhli zpátky ministerstvo obrany,
+[08:46] odevzdali Jaromíru Zunovi, který je generálem, který pracoval pro američany
+[08:50] už v roce 2000 v kousek a podílel se na vývoj F-35, a je to, je to tady.
+[09:02] Že ano, v žádném případě nedovolí žádný referendum o vystupování z NATO.
+[09:07] SPD řeklo ano, my to podpoříme, jenom za to chceme místo předsedy poslanecké sněmovny,
+[09:12] místo obrany, na obraně ministerstvo obrany, to vám dáme, tam si dejte vašeho člověka,
+[09:18] ať dělá pro NATO politiku. No a Andrej Babiš s Petrem Pavlem si začali notovat hned na jaře
+[09:25] pěkně Petr Pavel s tím, že je potřeba podepsat dohodu s Francouzi o jaderném deštníku,
+[09:32] pěkně v březnu, a Andrej Babiš ho následoval hned o 2 měsíce později,
+[09:36] takže celé to divadlo okolo té naší zahraniční politiky, jak udělá ostudu Petr Pavel,
+[09:43] když pojede do Istambulu na summit NATO, jak proti tomu musí všichni bojovat,
+[09:47] protože my jsme vlastenci, byla jenom fraška, tak jak jsem vám říkal,
+[09:51] nakonec Andrej Babiš odmával 40 miliard pro Ukrajinu, stejně tak jako odmával 90 miliard
+[09:56] pro Ukrajinu v rámci Evropské unii, a ta zahraniční politika Petra Pavla,
+[10:00] to znamená Hradu,
+[10:02] bývalé vlády Petra Fialy a současné vlády Andreje Babiše je bez výjimek,
+[10:08] bez výjimek, chápějte, bez výjimek, naprosto totožná, jediná výjimka tam je to,
+[10:13] že se lidem říká něco jiného, ale co se týče prosazování, hlasování toho,
+[10:17] co prosazuje vláda, je úplně stejná. Tak pojďme dál, Zuzko.
+[10:24] Německo chystá tvrdší opatření proti Rusku. Německá vláda připravuje nové opatření
+[10:29] namířena proti ruským subjektům. Podle tří evropských úředníků obeznamených
+[10:34] zjednáním by je mohl kancelář Friedrich Merz oznámit už začátkem příštího týdne.
+[10:40] Současně se v Bruselu připravuje další balík sankcí Evropské unie.
+[10:44] Plánované opatření mají podle zdrojů reagovat také na srpnový incident s dronem u letiště
+[10:50] Valle. Merz tento týden uvedl, že incident ukázal, že Německo čili reálnému
+[10:56] bezpečnostnímu ohrožení. Německé bezpečnosti
+[10:59] složky podle médií podezírají z pokusu o útok Rusko. Berlin však zatím
+[11:04] odpovědnost oficiálně jim nepřipsal. Podle jednoho z úředníků už nestačí pouze
+[11:09] vyhošťování ruských diplomatů či uzavírání ruských institucí v Německu.
+[11:14] Ve hře jsou přísnější sankce a případně další vojenská pomoc Ukrajině.
+[11:19] Konkrétní potřebu německých opatření ale zdroje nezveřejnily. O dalších sankcích
+[11:24] Evropské unie budou ministři zahraničí členských zemí jednat příští týden
+[11:29] v Jirsku. Podle diplomatů se v současnosti přeskoumává seznam zhruba 1600 ruských
+[11:35] osob a společností, na něž se stahují sankce. Přijetí nového balíku se očekává
+[11:41] v polovině října.
+[11:43] Až jsme, pardon. Samozřejmě mě by taky zajímalo, co chystá za tvrdé opatření
+[11:49] německý kancler Mertz proti Rusku. Víte, že rusové ústy Marie Zacharové mluvily
+[11:55] a taky o tom mluvil Sergej Lavrov, ale Marie Zacharová o tom mluvila naprosto jasně,
+[12:00] že Británie tím, jak se zapojuje do toho konfliktu na Ukrajině, takže to je otázka času
+[12:06] v podstatě, kdy ruská strana k tomu tím způsobem přistoupí. Vypadá to, že Německo nechce
+[12:11] být pozadu, aby náhodou nebyla ohrožená jenom Británie, takže se chystá nějakým způsobem
+[12:17] eskalovat taky. Na druhou stranu samozřejmě je tady ta záležitost AFD v Sasku,
+[12:24] v Sasku, myslím, v Sasku, tam někde to je, v jedný z těch spolkových zemí.
+[12:30] Pardon, nepamatuju si přesně, jak se jmenuje, kde AFD pravděpodobně vyhraje a v Německu
+[12:34] teďka jsou média každý den plná toho, jakým způsobem by ostatní politické strany
+[12:40] a především spolková vláda měly zabránit tomu, aby mohla vůbec strana AFD na té zemské
+[12:46] úrovni uplatňovat tu svoji moc, pakliže, pakliže ve volbách vyhraje.
+[12:53] Takže v Německu se rozehrává velmi tvrdý boj, který naprosto popírá demokracii.
+[12:59] Uvidíme, co přineseme.
+[13:00] Předrych Šmerc ohledně, ohledně velkých útoků na Rusko nebo tvrdých opatření
+[13:06] proti Rusko, na to jsem zvědavý. Tak můžeme další zprávu z Rusko?
+[13:10] Při nočním ruském dronovém útoku v okolí ukrajinské vůči pobližky je vazanin
+[13:16] vol nejméně 37 lidí a další 42 byl zraněno. Z oblasti zasažené útokem se podle
+[13:21] ukrajinských úřadů evakuje více než 380 osob. Ruský dron v pátek večer zasáhl
+[13:27] sklad v obci Mila.
+[13:30] Poté nasledoval rozsáhlý požár a série explozí. Poškozeno bylo nejméně 50 obytných
+[13:36] budov, včetně domova pro seniory a osoby se zdravotním postižením.
+[13:40] Zelenský uvedl, že ve skladu byly mimo jiné munice, drony a vybušniny,
+[13:46] jejichž následné detonace výrazně rozšířili rozsah škod.
+[13:50] Nedokážu si představit, že by Rusové neutočili i na muniční sklady
+[13:56] a na další takováto zařízení výrobny zbraní.
+[14:00] Až se ten konflikt rozběhne trošičku víc. Takže na to bych vás chtěl jenom upozornit,
+[14:05] pokud bydlíte někde poblíž, abyste nad tím přemýšleli.
+[14:08] Ještě bych se chtěl vrátit k té předchozí zprávě, protože Friedrich Merz taky zmínil
+[14:12] ten incident v Hale, ulek na lek ještě v Hale. A co víme, tak tam bylo letadlo,
+[14:20] nebo bylo to letadlo, u kterého se našel ten dron, nebo co to bylo?
+[14:23] Letadlo.
+[14:24] Letadlo. Ale to, co jsme zjistili, to letadlo bylo po prostě postřechu naplněný zbraněma.
+[14:30] Takže to, že se podařilo ten dron, tu výbušninu zneškodnit, to je možná pro Němce dobře,
+[14:39] těžko říct, co je dneska dobře, co je dneska špatně, protože ta následná detonace
+[14:43] tam mohla udělat mnohem větší škodu. A je docela logický, že Rusové se snaží
+[14:48] zneškodnit ty zbraně, které potom útočí na ruské území.
+[14:54] Takže vidíte, že to jsou západní země, které posílejí zbraně a útočí na ruské území.
+[15:00] Rusové se samozřejmě snaží pořád jenom otloukat Ukrajinu, ale když mají možnost
+[15:05] zlikvidovat ty zbraně, tak možná je možný, že to byla nějaká ruská cesta
+[15:11] do toho Německa s tím dronem, těžko říct. Možná, že ne, možná, že to byla jenom
+[15:15] false flag operace, že to byla jenom operace pod falešnou vlajkou, kdy Němci chtěli
+[15:20] ukázat, že Rusové útočí na jejich letadlo plný zbraní. Na druhou stranu,
+[15:25] pokud ty zbraně útočí na ruské území, tak ruské počítám, kdy se stane to,
+[15:30] že Rusové řeknou, že jsou to legitimní cíle pro Rusy, i když jsou někde na cestě
+[15:35] směrem na Ukrajinu. To je potřeba si uvědomit. To je stále Česká republika,
+[15:39] jak jsme se o tom bavili v první správě, zvýšila vývoz zbraní, výrobu a vývoz zbraní
+[15:45] sedmkrát od roku 2021. To znamená, my jsme tady v roli toho hloupého,
+[15:52] jak se to říká, v roli toho užitečného idiota, který vzal na sebe nejenom muniční iniciativu
+[15:58] dodávat zbraně na Ukrajinu pod značkou Česko za ostatní země, který se bojí,
+[16:03] protože Němci třeba vůbec nezveřejňují, co dodávají, protože ty se bojí zveřejňovat.
+[16:08] Velmi často se Němci bojí zveřejňovat, co dodávají i rakety atd. Takže předpokládám,
+[16:14] že zveřejňují přes Česko, jak říkáme dneska moderně Česko, přes Českou republiku
+[16:19] v rámci muniční iniciativa. My na sebe bereme to riziko a taky na sebe bereme to riziko,
+[16:24] že se z nás stala ta velmoc ve zbrojení, že se to vyrábí v České republice.
+[16:28] A Česká republika je krásná země. Bylo by jí opravdu škoda, kdyby byla na cimpr-campr.
+[16:33] Tak pojďme na další zprávu, Zuzko.
+[16:35] A to ještě do toho máme tu muniční iniciativu, že jo?
+[16:38] A o tom mluvím, ta muniční iniciativa, to je prostě tak, že malá země,
+[16:43] jako kdyby se obětovala Česká republika, jako kdyby měla být obětovaná.
+[16:47] Pojďte, budeme to všichni dodávat přes Českou republiku, když budou rusové
+[16:50] na někoho chtít útočit, ať útočí na Čechy, jo?
+[16:54] Prostě, co to je za nesmysl, když už chtějí dodávat ty velké země,
+[16:58] když chtějí dodávat zbraně Ukrajincům, proč to nedělají pod svojí značkou?
+[17:01] Proč se to musí dělat jako Česká muniční iniciativa?
+[17:03] A tohleto slíbil Andrej Babiš před volbama, že se zruší,
+[17:07] protože to je velmi nebezpečný pro Českou republiku.
+[17:09] A co udělal Andrej Babiš? Vytřel si s námi se všemi obraz svojí fotky,
+[17:16] kterou má pověšenou u sebe v kanceláři jako budoucího prezidenta.
+[17:20] To si s náma vytřel. Tak pojďme na další zprávu.
+[17:25] Americký minister financí Scott Besant ve svém komentáři pro Financial Times
+[17:31] připomněl Teheránskou konferenci z roku 19.
+[17:34] 1943, při níž se spojeneční představitelé zabývaly další strategií
+[17:40] ve druhé světové válce. Ve zmínce však uvedl pouze amerického prezidenta
+[17:45] Franklina Delano Roosevelta a britského premiéra Vincenta Churchilla.
+[17:50] Na opomenutí sovětského vůdce Josipa Stalina, který se konference rovněž
+[17:54] osobně účastnil, upozornil čtenář Financial Times, nějaký Mike Harris
+[17:59] z Oxfordu.
+[18:01] To byl samozřejmě omyl, že zapomněl.
+[18:04] Na sovětský svat, který vyhrál druhou světovou válku, že v roce 43 se konference
+[18:09] zúčastnil sovětský svat. Samozřejmě, podívejte, to je opravdu už jako
+[18:14] neuvěřitelná drzosť, nebetičná drzosť. To není diplomatický přešlap.
+[18:18] To není prostě chyba. To je nebetičná drzosť, že si minister financí
+[18:23] Spojených států, když se baví o konferenci v roce 43, nespomene na tu zemi,
+[18:29] která vyhrála. To nejsou američani, kdo vyhrál druhou světovou válku.
+[18:32] Američani to, co udělali, tak nasadili vojska. Samozřejmě pár američanů
+[18:36] taky zemřelo. Ale až když bylo jasné, kdo vyhraje tu druhou světovou válku,
+[18:41] Churchill, ty bojovali v okamžiku, kdy byli napadení. A do toho, když se na to podíváme,
+[18:49] taky dlouho váhali, když Churchill samozřejmě, nelze mu úplně vyčítat to,
+[18:55] že by nebyl proti fašistům už ve třicátých letech, když se rozjížděla
+[19:02] fašistická strana na Británii. Ale když se na to podíváte, tak samozřejmě
+[19:06] jejich zásluhy v boji proti fašismu, proti nacismu v druhé světové válce,
+[19:10] i britský, i americký, jsou zanedbatelný proti tomu, jaký byly zásluhy
+[19:17] Sovětského svazu. Protože kdyby Sovětský svaz u Stalingradu nepoložil milion lidí,
+[19:22] nestratil milion lidí a neotočil v tom 42. nebo kdy byla bitva u Stalingradu,
+[19:29] neotočil ten směr války a nezačli Němce, nebo ve 43., pardon, nevím přesně,
+[19:35] nepamatuji si ty data, víte, že nemám úplně paměť, a neotočil ten směr války
+[19:39] a nezačal drtit Němce, no tak se klidně mohlo stát, že Evropa byla absolutně německá,
+[19:45] globalistky by získali to, co chtěli, vždycky, Spojený státy, Británii, kterou měli,
+[19:51] a potom celou západní Evropě, kterou dneska mají, a potom celý východ,
+[19:55] včetně Sovětského svazu, který dneska chtějí, který nemají, a nemají ho právě proto,
+[20:00] že Stalin a Sovětský svaz vyhráli nad globalisty v té druhé světové válce,
+[20:06] protože ta druhá světová válka to byla stejně válka globalistů proti Slovanům,
+[20:11] jako je to dneska. Největší objekt, největší počet objektí byly Slované,
+[20:16] a ten, kdo financoval tu válku, byli globalisté. Němci byli prostředník,
+[20:20] úplně stejně jako je dneska prostředník Ukrajina, jenom aby bylo jasno.
+[20:25] Cisky, kteří pracovali pro globalisty, se dávaly tehdy dohromady přes všechny možný země,
+[20:31] stejně tak, jako se dávají dneska dohromady nacisté ve všech možných zemích
+[20:34] pod značkou globalistů a pod financováním globalistů.
+[20:40] OK, pojďme dál, tady počítač mi už běží do otáček, že se bude vypínat,
+[20:45] takže možná bude poslední video.
+[20:47] Ježíš, ta bitva probíhala od července 42 do února 43, jenom jako v Kán,
+[20:55] dva lidé zemřeli a dalších devět bylo zraněno po té, co řidič ve středu večer
+[21:05] umyslně najel automobilem do skupiny lidí poblíž vlakového nádraží ve francouzském Kán.
+[21:10] Sedm zraněných je podle úřadu ve vážném stávu.
+[21:13] Podezřelým je 26-letý muž s původem z Čečenska, kterého policie krátce počinu zadržela.
+[21:21] Podle vyšetřovatelů incidentu předcházela potička v nedalekém baru,
+[21:25] kterou francouzské úřady v současnosti v případ nepovažují za teroristický čin
+[21:29] a vyšetřují ho jako umyslné násilí a vraždu.
+[21:34] Omlouvám se, máme tady video z toho, ale tímhle s tím skončily titulky, videa a obrázky.
+[21:40] Teď budeme vysílat pěkně postaru, jenom my dva se Zuzkou, protože se mi vybil notebook.
+[21:45] Omlouvám se, ale režie dneska není, protože Tonda musel jet zpříč s dcerou
+[21:50] a mně se nepodařilo zůstat doma, protože jsem manželce slíbil už několik týdnů,
+[21:55] takže jsem jenom odběhnul z festivalu a vysílám z auta.
+[21:58] Bohužel se mi to tady prostě nepodařilo dobít ten odbud, takže vysílám jenom z telefonu.
+[22:03] Co se týče teroristického činu, tak ty teroristické činy, to je bohužel každý den.
+[22:11] To, že se to nevyšetřuje jako teroristický čin, je pro mě trošku záhada,
+[22:15] ale to, co je potřeba si uvědomit, že ty teroristické činy
+[22:21] s migračním paktem se dostanou i do České republiky.
+[22:25] A bohužel, Zuzko, budeme muset přeskočit zprávu, kde máme samopaly,
+[22:32] kam se dostali samopaly Joe Bidena, který prohlasovával v roce 90.
+[22:37] To budeme muset udělat až v pondělí, tuto zprávu, protože tam je video.
+[22:41] A jestli máme nějakou zprávu, která je tvrdě navázaná na video,
+[22:45] tak bohužel budeme muset přeskočit taky. Nevím, ale myslím,
+[22:47] že už tam žádnou další takovou zprávu, která nutně potřebuje video, nemáme.
+[22:51] Můžeme jít asi dál.
+[22:53] No, ještě tady máme ten obchod s lidma.
+[22:55] A tam je taky to video docela zásadní.
+[22:57] Obchod s lidma necháme taky na pondělí.
+[22:59] To je taky zásadní video, omlouvám se, ale tyhle dvě zprávy budeme muset nechat na pondělí.
+[23:03] Tak pojďme na další zprávu.
+[23:04] Takže tohle, tohle, tohle a jdeme.
+[23:08] Aliance NATO je schopna okamžitě bránit, okamžitě bránit své území.
+[23:13] NATO je podle Českého velvyslance při Severoatlantické alianci Davida Koneckého
+[23:19] schopne okamžitě a účinně reagovat na případný ruský vojenský útok.
+[23:23] Rozsáhlý konflikt mezi NATO a Ruskem v nejbližších letech přesto nepředpokládá
+[23:29] a za důležitou podmínku považuje další posilování aliančního odstrašení.
+[23:34] Bezpečnostní prostředí se podle Koneckého výrazně změnilo
+[23:38] a NATO je dnes na případné napadení připraveno lépe než před ruskou invazí na Ukrajinu v roce 22.
+[23:46] Aliance podle něj hodla bránit každý milimetr svého území
+[23:50] a zároveň však nemá zájem o území jiných států.
+[23:53] No podívejte, tady mám také ještě dotaz, jaký máte názor na Slovensku, fabrika na drony.
+[23:58] To je, pořád se bavíme o jedný věci, zbrojení.
+[24:05] Názor na fabriku na Slovensku, na drony, samozřejmě to je špatně,
+[24:08] protože to je nebezpečný, protože ty drony zabijí lidi a rusové budou zabíjet drony.
+[24:13] To je jasný. A jestli budou u toho sedět lidi, tak budou bohužel zabíjet i lidi.
+[24:17] Pakliže se ten konflikt rozšíří směrem z Ukrajiny, což předpokládám.
+[24:21] Ale tady je potřeba pořád přemýšlet nad tím,
+[24:24] co ty Evropani vlastně chtějí. Ti globalisté v Evropě, co vlastně chtějí.
+[24:29] Protože oni pořád, jakoby člověk neví, jestli chtějí protahovat do nekonečná zbrojení
+[24:34] a chtějí využívat tu válku v Rusku a na Ukrajině k tomu,
+[24:39] aby jaksi dělali to, co v podstatě předpovídal George Orwell v roce 1984,
+[24:47] tedy že vznikne ta válka nekonečná, která pomůže těm elitám,
+[24:53] aby udrželi nadvládu nad vlastním obyvatelstvem a díky tomu vnějšímu nepříteli
+[24:58] se jim podaří drtit to obyvatelstvo ekonomicky a ve všech směrech.
+[25:03] To znamená, pořád se bude zbrojit, pořád se budou přesuvovat peníze z našich kapes do zbraní,
+[25:08] budou drahý energie, jídlo, bude se pořád říkat, že to je kvůli válce atd.
+[25:12] A nebo jestli opravdu plánují válku s Ruskou federací.
+[25:17] A to samozřejmě nevím, ale tak, jak to vypadá, jak se zbrojí,
+[25:23] jak moc se zbrojí, jak moc se to přiostřuje ten konflikt,
+[25:26] tak kdyby se neútočilo na území Ruský federace a váčelo se pořád jenom na Ukrajině,
+[25:32] tak bych řekl, možná, že skutečně jenom tím cílem je vytvářet paniku a strach u obyvatelstva,
+[25:39] aby vlády mohly vládnout a vykořišťovat ty lidi a ty bohaté elity,
+[25:43] aby mohly víc přesuvat peníze od obyčejných lidí směrem k sobě,
+[25:47] aby mohli ty miliardáři být ještě bohatější.
+[25:50] A aby si nikdo nestěžoval, aby se lidi báli, protože je tady ten strašák té války,
+[25:55] a když by to někdo kritizoval, tak půjde do vězení.
+[25:57] Ale nejsem si úplně jistý, nejsem si úplně jistý tím, že by to takhle bylo,
+[26:04] protože kdyby ten konflikt zůstal na Ukrajině, tak bych to dokázal takhle vnímat,
+[26:08] ale vzhledem k tomu, že se ten konflikt rozšířil na území Ruský federace a všichni jsou
+[26:13] na to strašně herdí na západě, že útočí na Ruskou federaci,
+[26:16] že chtějí víc útoků na Ruskou federaci a víc raket, které budou lůtat na Ruskou federaci,
+[26:21] tak se obávám, že ta druhá možnost je víc pravděpodobná, že chtějí rozehrát útok
+[26:26] s Ruskou federací, a to i na území Evropy. Takže tady toho se maličko obávám.
+[26:32] A to, že by, jak říká náš velvyslanec v NATO, že by NATO bylo, že by aliance byla připravená
+[26:37] na válku s Ruskem, to je samozřejmě nesmysl. Aliance nemá ani patrioty,
+[26:43] ani protivzdušnou obranu. Na to, že abychom něčím utočili,
+[26:46] nebo jako čím chtějí utočit, těma pár F-35-tkama, těma asi 120 jadernýma
+[26:52] klouzavýma hlavicema B61, který jsou tady na našem území,
+[26:56] tak nemyslím na území českým. Zuzko, trošku ťukáš moc tou klávesnicí.
+[27:00] Pardon. Těma 120 jadernýma klouzavýma hlavicema,
+[27:06] nebo tím, že mají támhle ty Rafaly nějaký, ty ASMP, že mají... Vemte si to britové,
+[27:11] ani nemají samostatně ty zbraně jaderný. To všechno
+[27:16] řídí Spojení stát, jediný, kdo může používat jaderné zbraně samostatně jsou Francouzi.
+[27:20] A to je málo na to postavit se Rusku. Rusové mají obrovský raketový arsenál,
+[27:26] nemá cenu to tady celý vyjmenovávat. Teďka znova testují Burevesměk raketu,
+[27:31] která může zasáhnout jakýkoliv místo na planétě, protože má jaderný pohon a může lítat
+[27:36] v podstatě nekonečně dlouho v atmosféru. My nemáme žádnou obranu proti těmhle zbraním.
+[27:41] Nemáme ani žádnou obranu proti sarmatu, nemáme žádnou obranu proti oriešníku,
+[27:45] nemáme žádnou obranu proti kinžálu. To jsou všechny kinžály,
+[27:49] můžou mít různý druhý hlavic na prohrážení hlubokých bunkrů,
+[27:54] můžou mít hlavice jaderní, můžou tam namontovat prakticky cokoliv, co chtějí.
+[27:59] Tam můžou je posílat ze vzduchu, můžou je posílat ze země atd.
+[28:04] To znamená to, že nám tady říká nějaký tamhle trouba, náš velvyslanec při na to,
+[28:10] že Aliance je připravená válčit s Ruskymi, nesmysl. Když dojde na skutečnou válku s Ruskem,
+[28:16] tak prostě my nejsme připraveni, nikdy nebudeme v nejbližší době připraveni
+[28:20] proti Rusku bojovat. To, že možná máme víc dronů, OK, máme víc dronů.
+[28:25] To, že máme možná nějaký rakety balistický, něco, dobře, ale že máme nějaký tanky německý,
+[28:32] nějaké obrněné vozidla švédské, dobře, něco se nazbrojilo,
+[28:36] ale to se nedá srovnávat s Ruskem. A nemáme vojáky a vemte si,
+[28:40] kde vezme Evropa vojáky. Samozřejmě Evropa má hodně lidí,
+[28:43] Evropa má 550 milionů lidí, ale nemá vojáky. A kde vezme Evropa ty vojáky?
+[28:49] Jak můžou říct, že jsou připravení jít válčit s Ruskem? Nemají vojáky.
+[28:54] Když podívejte se, Rusové jsou spojení se Severní Koreou, jsou spojení s Iránem
+[28:59] a jsou spojení s Čínou. Když dojde k tomu světovému konfliktu a propojí se ty dvě války
+[29:04] na Ukrajině a v Iránu, což se pomalu stává, tak nás zasáhne prakticky jakákoliv
+[29:09] balistická raketa z Iránu. Chápejte, že my to nemusíme dostávat jenom z jedné fronty.
+[29:14] My můžeme dostávat z Iránu, na nás můžou pálit dál, můžou na nás pálit ze Severního moře,
+[29:21] protože tam mají torpé doborci, kteří můžou nás zbrojit. Takže to vůbec není tak,
+[29:26] že Rusko je nějaká obklopená země těma NATO-aliančníma nebo americkýma základnama
+[29:35] a my jsme tady nazbrojení po zubě a můžeme jít na Rusa. To vůbec není rád,
+[29:39] to vůbec není pravda. A je to nebezpečný, že máme takovýhle psychopaty,
+[29:44] jinak to nedokážu nazvat, ve vedení naší země, že máme velvyslance v NATO,
+[29:49] který dokáže veřejnosti tvrdit takovýhle nesmysl. Podívejte se jenom,
+[29:53] když padají z Ukrajiny drony. Tak co dělají, když padají drony?
+[29:57] Bůh toto spadne na území Evropské unie, že to nezvládnu ani sundat,
+[30:02] a to se bavíme o dronech. A nebo k tomu vyšlou stíhačky.
+[30:06] Stíhačky, to je neudržitelný, ekonomicky to je neudržitelný.
+[30:09] Vzlet takový stíhačky je prostě čtvrt milionu euro.
+[30:15] Sto tisíc euro je prostě jedna stíhačka, obvykle letí dvě,
+[30:18] plus vypálí nějaký rakety, když letí nějaký dron.
+[30:21] Ten dron stojí deset tisíc euro. To je ekonomicky neunosný,
+[30:24] nás to zbankrotuje, protože když se vede válka, tak je potřeba pochopit to,
+[30:29] že ta válka je především ekonomický problém, protože ta země musí přijít
+[30:33] na válečnou výrobu a musí to ustát ekonomicky.
+[30:36] Co se týče zdrojů a co se týče ekonomiky.
+[30:38] Takže když rusové začnou posílat hromady levných dronů nebo raket,
+[30:42] který mají nazbrojených a my to budeme sundovat stíhačkama,
+[30:44] tak je to pro nás prostě neudržitelný ekonomicky.
+[30:47] A to je jedna věc. Podívejte se, že ani nezvládli to území ochránit.
+[30:51] A to pořád říkají, my zvládneme ochránit každý centimetr aliance.
+[30:56] Teď je to nesmysl. V okamžiku, kdyby letěl nějaký orešník,
+[30:59] tak na to budou koukat, vyšlou tam nějaké protibalistické rakety.
+[31:02] Pravděpodobnost, že by se střelil orešník, je velmi nízká.
+[31:05] To je jako, když letí kulka, tak je taková pravděpodobnost,
+[31:08] že ji se střelíte pistolí, tu kulku, která letí.
+[31:10] No to je prostě velmi nízká pravděpodobnost.
+[31:13] A jakmile takový orešník dopadne, tak všechny tyhle styl žije o tom,
+[31:17] že aliance je připravená na válku s Ruskem, se rozplynou jako pára nad Hrncem.
+[31:25] Pojďme dál, Zuzko. Au.
+[31:27] Já wise.
+[31:29] V anglickém hrabství Essex budou v asilových centrech
+[31:36] nově působit soukromé bezpečnostní hlidky.
+[31:39] Opatření nazvané Operation Vanguard,
+[31:44] znamená v podstatě operace předvoj,
+[31:47] reaguje na obavy místních obyvatel,
+[31:49] spojené s každodenními cestami žadatelů o asil
+[31:53] z bývalé základný hrav do okolních měst.
+[31:57] Ve Veselfildu je nyní ubytováno přibližně 800 mužů,
+[32:02] čekajících na rozhodnutí o žádosti o asil.
+[32:05] Britské ministerstvo vnitra plánuje kapacitu zvýšit na 1245 osob,
+[32:10] přičemže maximální kapacita může dosáhnout až 1700 lidí.
+[32:15] Podle vedení Essexu mezi místními obyvateli,
+[32:18] zejména ženami a dívkami, rostou obavy o bezpečnost
+[32:21] a kvůli každodenním přesunům migrantů vznikají v centrech měst
+[32:26] větší skupiny mužů právě na tyto obavy má reagovat
+[32:29] nasazení bezpečnostních pracovníků.
+[32:32] Tady si prosím vás pěkně u toho představujte, když Zuzka mluví video,
+[32:35] který tady máme ve studio, ale nemáme se k němu jak dostat,
+[32:39] jak tam ty migranti se modlí na ulicích v Essexu a tak dál.
+[32:44] Takže ten problém, co mě se ví, že tak jsem v Británii žil.
+[32:49] Bydlel jsem rok v Británii, předtím jsem tam byl s bývalou manželkou
+[32:52] taky nějakou dobu, ale s mojí současnou manželkou jsme tam bydleli rok.
+[32:56] Takže jsem to zažil, vím, jak to funguje, to není něco divného.
+[33:00] Prostě Británie je zislamizovaná, taky víte, že starostové těch největších měst,
+[33:06] včetně Londýna, jsou muslimové.
+[33:08] Takže prostě z Británie se stává islámský stát pomalu.
+[33:13] Viděl jsem taky dneska docela zajímavý video, jak přijíčí nějaký muslimský migranti
+[33:19] na člověka, který je v baráku, nevím, jestli to byl žid,
+[33:22] že si přišli pro jeho barák, že ten barák dostanou.
+[33:24] Ne dneska, ne za měsíc.
+[33:26] Ne za rok, ale že ho dostanou.
+[33:28] A on, že prostě bude utíkat.
+[33:30] A to je záležitost, kterou jsme viděli třeba na Kosovu.
+[33:35] Tam prostě přišli muslimskí uprchlíci a tam to prostě dotáhli tak daleko,
+[33:40] že vyhnali to původní obyvatelstvo, vraždili ho, vyhnali.
+[33:42] Ale když se podíváte historicky, tak jsme to viděli všude,
+[33:45] protože když se podíváme na Mohameda, tak on takhle začal.
+[33:49] Mohamed začal tím, že odešel do Medíny a velmi brzo si podmanil celou Medínu
+[33:54] a vyvraždil tam ty vyvraždění.
+[33:56] Žil tam ty okradla, vyvraždil tam ty kmeny židovský jeden po druhým.
+[33:59] Když zůstával ten poslední, tak prostě ty už neměli šanci se ubránit,
+[34:03] protože předtím se nebránili jeden druhý a protože byli rozádaný.
+[34:07] A pak začal napadat karavany a pak vlastně zislamizoval během desetilet
+[34:11] celou Aráby, celý arabský polohostrov.
+[34:13] A když se podíváte od té doby, kam došel islám,
+[34:16] tak nejdřív přijdou, že o tohleto, támhleto, pak křičí po těch svých právech.
+[34:21] A jakmile už jich je 20% v zemi, tak už obrací zemi na islámskou.
+[34:26] Tady jsou, to jsou statistiky. V okamžiku, kdy je jich 5%,
+[34:28] tak už prostě začínají mluvit o tom, že musí být právo šaria součástí práva té země.
+[34:34] To není legrace. A v Británii vím, že když jsem překládal článek tomu obět rok 2010,
+[34:42] nebo tak něco, tak jsem překládal článek o islámských soudech v Británii.
+[34:46] A už tehdy jsem překládal článek, tam bylo nějakých 400 islámských soudů,
+[34:51] který tam operují paralelně vedle soudního britského systému,
+[34:55] že lidi chodí k imámovi se soudit podle práva šaria.
+[34:59] Takže ta společnost prostě, my si to těžko představujeme, jak je to možné,
+[35:03] ale ono to prostě přirozeně takhle běží, že se ty země islamizují jedna za druhou.
+[35:07] Podívejte se Sýrii v 90. letech, to byla krásná křeskanská země.
+[35:11] Mějte tam dneska, podívejte se v Egyptě, když jsem byl poprvé obchodně v Egyptě,
+[35:15] tak ještě tam říkali, že křesťané a muslimové tam žijou krásně spolu,
+[35:20] v nějaký harmonii a tak dál. Krátce na to prostě tam udělali nějaký brutální čistky křesťanské.
+[35:26] A takhle to je prakticky ve všech zemích. Podívejte se do Pákistánu,
+[35:31] když přišli, jak zničili kulturu, největší knihovnu v Egyptě,
+[35:35] druhou jednu z těch dvou největších knihoven, který byly na světě.
+[35:39] Takhle prostě funguje islám. Islám přijde do té země a pomalu tím,
+[35:43] že mají hodně dětí, tak pomalu se tam etablujou a potom tu zemi převezmou.
+[35:51] A takhle to je v Británii. A takhle to je na celém dneska západě.
+[35:54] A takhle to bude v České republice, pokud neuzavřeme hranice a nevystoupíme z Evropské unii.
+[36:02] V Polsku v podstatě taky začaly dělat lítky proti migrantům,
+[36:06] ale v Británii už a v různých místech dělají domobrany,
+[36:10] protože prostě ty lidi tam jsou nebezpečí.
+[36:15] Říkám vám to už, dřív to byly holky, když bylo hodně holek na jednou,
+[36:19] třeba pamatujete si Hamburg v rok 2012, 800 hlášených z násilnění
+[36:24] nebo sexuálních útoků jenom v Hamburgu během oslav Novýho roku.
+[36:28] Ale to byly holky, na který se útočilo. Mladé holky.
+[36:31] Ale dneska už se útočí na všechny. Dneska se útočí normálně na chlapy,
+[36:35] na silných chlapy, zabíjí ho dneje, okrádají. Přijde jich pět, šest,
+[36:39] udělají tohle tamhle, to tamhle mu sundají nebo ho zbijou, okradou, utečou.
+[36:44] V Británii dělají policajti, dělají hony na lupiče, na ulicích,
+[36:50] ale jenom v centru, bohužel. Protože prostě ty muslimský gengy,
+[36:53] migrantský gengy okrádají lidi. Zabíjí ho dne.
+[36:57] A tohle to všechno jsem viděl, když jsem nám to vyprávěl v Kale,
+[37:01] jak nás vykrádali zabíjí ho dne, to bylo před několika lety,
+[37:04] se nám snažili vybrat auto, ale v 11 hodin dopoledne.
+[37:08] No takže nemyslíte si, že Česká republika je z toho venku?
+[37:11] Vůbec ne. Tím, že jsme v Evropské unii, tak nemáme hranice.
+[37:15] Česká republika je krásná, máme krásné holky.
+[37:18] A oni budou chtít přijít sem a budou se chtít etablovat v České republice.
+[37:22] A do toho máme migrační pak, který je sem bude ještě posílat.
+[37:26] To není tak, že ten migrační pak vláda odmítla, to je další lež.
+[37:30] Vláda sice vyhlásila v prosinci na prvním zasedání vlády,
+[37:34] že odmítla migrační pak. To jsou prostě velkohubý slova André Babiše,
+[37:40] že vláda odmítla migrační pak, to nesmysl. Vláda neodmítla migrační pak,
+[37:45] protože nejeli do Bruselu a neudělali žádný kroky pro to,
+[37:49] aby Českou republiku vyloučili z toho migračního paktu.
+[37:52] Migrační pak je vymáhatelný pro Českou republiku.
+[37:55] Pojďme na další zprávu.
+[38:02] Policie prověřuje vyjádření zástupce šef-redaktora parlamentních listů
+[38:07] Radima Panenky.
+[38:09] K úmrtí bývalého velitele Vosenskosrbských sil Radka Mladiče.
+[38:13] Policie podle svého mluvčího zjišťuje,
+[38:17] zda Panenku v příspěvech na sociálních sítích nemohl naplnit skutkovou podstatu
+[38:22] trestního činu spočívajícího ve zlehčování genocidy.
+[38:26] Panenka uvedla, že se dlouhodobě zabývá rozpadem Jugoslávie
+[38:29] a před několika lety napsal knihu věnovanou podle něj
+[38:33] problematickému přístupu Mezinárodního trestního tribunálu pro bývalou Jugoslávii
+[38:39] k Srbům. Ve svém vyjadření zároveň zpochybnil
+[38:41] spravedlnost procesu s Mladičem a označil jeho odsouzení
+[38:47] za výsledek z politizovaného tribunálu.
+[38:50] No to možná si vzpomenete, když tehdy Petr Bílý chtěl dělat
+[38:55] demonstraci za to, že Česká republika chtěla nebo uvažovala
+[39:00] o tom, že bychom vystoupili z nějakého toho Mezinárodního
+[39:04] soudu, který právě má trestní tribunál v Hágu.
+[39:10] Měl jsem, no tak sorry, ale na takovouhle demonstraci nepůjdu,
+[39:13] protože Mezinárodní trestní tribunál v Hágu je politická
+[39:17] záležitost, která stíhá antiglobalistické politické
+[39:23] oponenty, jako byl třeba Radko Mladič nebo Sloboda Miloševič
+[39:28] a další, a utírává tyhle styly těch smrti.
+[39:32] To je prostě přesně to, co dělá soud v Hágu.
+[39:35] Podívejte se třeba na, jak se jmenuje doktor
+[39:40] Radáv, a teď si nespomínám, velkej učitel Aleksandra Vůčiče.
+[39:46] Nespomínáš si, Zuzka, jak se jmenuje?
+[39:48] To je Fug, to nevadí. Prostě takhle to je s tím trestním
+[39:51] tribunálem v Hágu. A co se týče Radka Mladiča a místo
+[39:57] šéf-redaktora, pardon, musím zapnout klimatizaci,
+[39:59] nebo tady omřu, parlamentních listů, mě by zajímalo,
+[40:04] co ten jeho příspěvek na těch sociálních sítích říkal,
+[40:06] za co ho policie vyšetřuje, protože možná se mohli zeptat,
+[40:10] politiků z PRO, ty by mohli zase udělat nějaký rozbor a mohli
+[40:15] by postat zase k soudu pár lidí, jako když si lidi dovolili vzít
+[40:19] oznáček s písmenem Z a náš šéfku, náš šéfku Wagner Group,
+[40:23] tak je posílali k soudu, tak možná by mohli třeba i lidi za to,
+[40:26] že se vyjadřují k Radku Mladičovi, ale víte,
+[40:28] že jsem velmi opatrný, přestože každý den jsme teď mluvili o tom,
+[40:32] že umřel Radko Mladič a popisoval jsem vám ty situace,
+[40:35] tak se snažím být taky velmi opatrný,
+[40:37] protože samozřejmě ten globalistický systém,
+[40:40] pod kterým je dneska Česká republika, tak ten šel rozbít Jugoslávii
+[40:47] a udělal to záměr. Já řeknu vám, proč. V Jugoslávii se teď,
+[40:52] pardon, v Srbsku se bude teďkon konat, a možná, že se už teďkon koná,
+[40:56] protože jsem viděl po Běléhradu, že jsou různý vlajky cizích států,
+[40:59] setkání tzv. nesvrstvených, nezařazených. A to je přesně to,
+[41:04] co dělala Jugoslávie
+[41:07] v těch osmdesátých
+[41:08] a devadesátých
+[41:08] letech. Jugoslávie jako vojenský neutrální stát davala dohromady ostatní
+[41:13] vojenský neutrální státy, které nepatřily ani do NATO,
+[41:16] ani do východního bloku, což byla Jugoslávie. A těch států
+[41:19] najednou začínalo být hodně, které byly vojenský neutrální.
+[41:22] Proto musela být rozbitá Jugoslávie, protože nám tady Jugoslávie
+[41:27] nastavovala nový princip, že nebudeme dělat studenou válku,
+[41:30] že nepůjdeme do války, že budeme vojenský neutrální.
+[41:33] A to je to, co dělá dneska Srbsko. Srbsko je vojenský neutrální.
+[41:36] Nejde do války ani s Ruskem, ani s NATO, prostě je vojenský neutrální.
+[41:41] A dneska se zase stíží tyhle země v Srbsku. Takže to je ten důvod,
+[41:46] proč byla rozbitá Jugoslávia. A to, jak byla rozbitá, tak to víte,
+[41:50] jeden z těch případů byla právě Bosna. A tam to začalo tak,
+[41:55] že Joe Biden prohlasoval v Senátu Spojených států asi 51 milionů
+[42:01] na samopaly pro bosanské
+[42:03] muslimy. A máme tady video, bohužel vám ho dneska neukážeme,
+[42:05] ale si bohužel vám ho ukážeme v pondě, když budeme mít tondu.
+[42:08] Tak až uvidíte ty různé skupiny mujahedinů s těmi americkými
+[42:13] samopály od Joe Bidena, tak pochopíte, proti čemu bojoval
+[42:17] vlastně Radko Mladić a proč je v Srbsku Radko Mladić za hrdinu
+[42:23] válečného a především v republice srbské, což je část Bosnie
+[42:28] a Hercegoviny díky dejtonské umluvě, která je taky naprosto
+[42:32] šílená záležitost. Takže jestli tady se skýhá česká
+[42:36] policie nebo vyšetřuje za tím šéf-redaktora místo
+[42:41] zástupce šéf-redaktora parlamentních listů,
+[42:43] tak se vůbec nevím, protože v České republice se nemůže
+[42:46] říct pravda o tom, co se dělo v Jugoslávii,
+[42:49] protože kdybych vám tady řekl, co se dělo v Jugoslávii,
+[42:51] tak mě okamžitě zavřou za popírání genocidy a schvalování
+[42:56] válečných zločinů. A to nemůžu udělat,
+[42:58] protože vám musím dělat zprávy. Takže vám musím ukazovat to,
+[43:01] co se tam dělo takovým způsobem, abych se nedostal do kriminálu,
+[43:05] abyste zároveň pochopili, co se tam dělo. Ahoj.
+[43:13] Ahoj, myslel jsi Gorana Petroneviče?
+[43:16] Nemyslel jsem Gorana Petroneviče, ne, Goran Petroneviče je náš advokát,
+[43:20] a je to teda taky člověk, který řídil
+[43:23] soudní tribunál proti válečným zločinům v Jugoslávii a odsoudil,
+[43:28] nemyslím, že Javiera Solanu a nevím koho ještě dalšího,
+[43:31] myslím, že odsoudil i další, i nějak, nevím, jestli byla Klintna
+[43:35] nebo někoho, myslím, že i byla Klintna, že odsoudil,
+[43:38] takže na ty je vydaný zatykač v Jugoslávii nebo respektive
+[43:40] v Srbsku. Ale on byl taky, on byl taky advokátem Slobodana
+[43:46] Miloševiče, pokud vím, a nevím, jestli nebyl advokátem taky
+[43:49] Radka Mlagiče, ale nemluvil jsem s Goranem Petronevičem dlouho,
+[43:52] ale připravuju pro něj teďko jedno video, protože jsem se
+[43:56] dozvěděl naprosto jako famózní informace od Gregora McDouglas,
+[44:00] Douglasa McGregora, který v jednom intervju teďko mluvil
+[44:08] o tom, co se dělo v Jugoslávii v 90. letech především,
+[44:12] ale takovým způsobem, že prostě tam normálně řekl,
+[44:15] který lidi z čtyřvězdičkových, třivězdičkových, dvojvězdičkových
+[44:20] a nejenom amerických důstojníků, ale i německých a z jiných zemí,
+[44:24] kdo jakým způsobem co prosazoval, kdo co říkal, kdo se k čemu
+[44:28] jak vyjadřoval a který politici dělali vlastně,
+[44:30] jako by ty protijugoslávské záležitosti politické.
+[44:34] Naprosto fenomenální rozhovor, vůbec nevím, co to popadlo,
+[44:38] takhle se McGregora zveřejnit tolik tajných informací,
+[44:41] ale myslím, že to bude pokračovat. Ty věci se budou vyvíjet,
+[44:45] protože svět je na pokraji třetí světový války
+[44:49] a až ta třetí světová válka skončí, tak bude vypadat
+[44:51] ta bezpečnostní architektura úplně jinak a bude se úplně jinak
+[44:54] skládat ten svět a všechny tyhle věci, které se děly především
+[44:57] Jugoslávie, to se bude všechno řešit zpětně,
+[45:00] protože zatím to má pod kontrolou jako by spojené státy a NATO
+[45:04] a všechno, co řeknou spojené státy a NATO, tak je pravda
+[45:08] a kdo by řekl něco jiného, tak jde do vězení, jako třeba tady
+[45:10] dneska vyšetřujou toho zástupce šéf-redaktora z parlamentní listu,
+[45:16] když řekne, co se skutečně dělo. Protože tady máme takový hajzly,
+[45:19] jako je Reichl, jako je Vacek, který potom podávají trestní oznámení
+[45:23] a píšou, že když si někdo vezme oznáček Z nebo náševku Wagner Group,
+[45:28] tak patří do vězení, protože tady máme takovýhle hajzly.
+[45:31] Řeknu vám to naprosto upřímně. A nejenom tyhle, ale různý jiný.
+[45:36] Ale jakmile se ten systém očistí tadyhle od toho, jakmile ten svět
+[45:40] bude rozbitý a bude se znova skládat, tak se prostě budou muset lidi
+[45:44] podívat pravdě do očí a říct dobře. Tak teď bez toho,
+[45:47] že tady má někdo moc vykládat pravdu, co se stalo, co se skutečně stalo,
+[45:51] kdo co dělal, kdo je tady válečný zločinec a kdo bránil ligy
+[45:55] a hájil jejich svobodu. A to se stane, přátelé, to je otázka,
+[46:00] protože já říkal, plán Česká republika na první nízké záležitost
+[46:03] pět až deset let a mezi tím si možná projdeme dva, tři roky válkou.
+[46:07] Ale to se stane. Jednoho dne se bude psát nová budoucnost
+[46:10] a to obvykle, když se stává, tak potom jsou různé ty strany
+[46:15] toho konfliktu jednacího stolu a pak se musí s pravdou ven.
+[46:19] A to se stane. A Rusové a Čína jsou teď, Rusové, Čína,
+[46:23] Severní Korea a Íra jsou neuvěřitelně silný země.
+[46:27] Vojensky, ekonomicky, politicky. Takže dneska ta situace se úplně mění.
+[46:32] To už není tak, že tady jsou spojení státy a všichni si sednou
+[46:35] na prdel ze spojených států. Ne. Až skončí tenhle ten konflikt,
+[46:39] až skončí tato válka, tak ty věci budou úplně jinak.
+[46:45] Tak si připomeneme osmdesáté výročí Slovenského národního povstání.
+[46:50] Slovenský premiér Robert Fico dnes při oslavách osmdesátého druhého výročí
+[46:56] Slovenského národního povstání prohlásil, že v Evropě nelze zajistit
+[47:02] bezpečnost a mír bez Ruska. Evropská unie podle něj potřebuje
+[47:06] více diplomacie a méně zbraní a rusofobie. Fico během projevu kritizoval
+[47:11] podle svých slov rostoucí militantní atmosféru a nepřátelství vůči Rusku.
+[47:16] Rusko je třeba kritizovat, když dělá chyby, ale nelze,
+[47:20] podémonizovat a vytlačovat z Evropy, uvedlo.
+[47:23] Premiér zároveň zdůraznil, že každý stát by měl respektovat
+[47:27] legitimní bezpečnostní zájmy ostatních zemí. Evropská unie je podle něj
+[47:32] především mírovým projektem a neměla by se stát nástrojem boje proti Rusku.
+[47:38] Tak nemusíme si tady prostě nalhávat takový věci, jako že Evropská unie
+[47:42] je nástrojem míru a podobní nesmysly. Na to už jsme asi moc starí a moc dospěli,
+[47:46] aby jsme ztráceli čas takovýhle věcma. To můžou zkoušet někde v parlamentu.
+[47:50] Nebo v nějakých jiných médiích alternativních, kde se snaží být politicky korektní.
+[47:57] My si tady na takové věci nehráme. Ale řeknu vám jednu věc k tomu.
+[48:01] Mně se líbí, že Fico řekl, že bez Ruska není možný, aby byl mír v Evropě
+[48:05] a taky řekl, že nacizmus zůstal v hlavách lidí. To je to, co Fico popsal poměrně hezky.
+[48:12] Jednu věc vám řeknu. Pokud máte taky pocit, protože 3.10.,
+[48:16] když budeme dělat veřejné shromáždění na malostranském náměstí,
+[48:19] tak tentokrát to nebude.
+[48:20] Za urovnáním stavu s Ruskou federací, jako to bylo poslední veřejné shromáždění,
+[48:25] které jsme dělali. Ale samozřejmě to taky bude za urovnáním stavu s Ruskou federací.
+[48:31] A předpokládám, že dáme dohromady nějaký dokument, který pošleme do Ruské federace
+[48:38] s tím, že nechceme mít konflikt s Ruskou federací. Takže pokud někdo z vás
+[48:42] se chcete účastnit toho, abyste podpořili to, že nechcete, aby Česká republika
+[48:47] měla konflikt s Ruskou federací, tak samozřejmě přijďte,
+[48:50] protože...
+[48:51] To určitě něco uděláme poté. Potom veřejným shromážděním
+[48:54] budeme mít ještě jedno setkání. Takže to víte, že to je naša agenda.
+[48:59] My to říkáme tohle sto pořád. Prostě bez Ruské federace není možný,
+[49:03] aby byla pohoda, protože to je největší země na světě. Je to kousek náš soused.
+[49:07] Je to největší slovanská země. Je to země, která nás zachránila od nacistů,
+[49:11] od anglosasu, od globalistů, který se pokoušeli vyhladit židy a slovany
+[49:16] v druhý světový válce. Nalijeme si čistého vína. Oni nás zachránili.
+[49:22] To není tak, že nás zachránili anglosasové.
+[49:29] Tak vzhledem k tomu, že nemáme tu techniku, tak...
+[49:33] Finito dneska.
+[49:35] To jsi ukázal takhle.
+[49:38] Ne, takhle, takhle. Nechtěl jsem dělat takhle, nechtěl jsem tady hajlovat,
+[49:41] tak jsem ukázal takhle. Ale ne takhle. Znáte film Diktátor se Sašou Baronem Cohenem?
+[49:48] To je podle mě nejinteligentnější, snad jeden z nejinteligentnějších herců,
+[49:52] kterýho máme. Miluji ho prostě. A udělal nejlepší komedii na světě všech dob.
+[49:57] Jmenuje se Diktátor, kterou jsem viděl snad sedmkrát. A tam on právě dělá takhle.
+[50:01] On je životem muslimský diktátor a takhle dělá jako každýho, aby popravovali.
+[50:05] Podívejte se na to, jestli jste to neviděli. Myslím, že budete řvát smíchy.
+[50:08] Je to naprosto, naprosto geniální.
+[50:10] Dátele, děkujeme vám za celý týden, kdy jste s náma sledovali zprávy v 9 s komentářem.
+[50:15] Včera jsme měli na YouTube asi 14 tisíc nebo 13, 14 tisíc lidnutí.
+[50:20] Především taky asi 13 tisíc lidnutí, plus na Facebooku pár tisíc.
+[50:24] Takže začínají přicházet noví lidi, kdo jste tady noví lidi.
+[50:28] Nebojte se, od pondělka zase budou zprávy běhat s videáma a ze všim všudy.
+[50:33] Takže nezapomeňte v pondělí přijít. Dneska je to opravdu výjimečně,
+[50:36] protože jsme byli dlužní, co mě se týče manželce, jeden večer kultury.
+[50:40] A Tonda byl dlužný svojí dceři jeden den, takže prostě dneska jsme to museli trošku ošulit.
+[50:46] Ale v pondělí budeme zase v plný sestavě, protože my vysíláme každej den,
+[50:51] každej večer zdarma. Víte, jaké je to závaz, kolik je to práce.
+[50:56] Takže dneska prostě to nedopadlo dobře s těma obrázkama a videáma.
+[50:59] Ale od pondělka jedeme zase ze všim všudy. A dneska na konci, prosím vás,
+[51:03] si tady představte ten plagát toho člověka s tím otazníkem tady takhle.
+[51:08] Na oře je napsáno člověk na první místě, dole je napsáno veřejné schromáždění
+[51:12] třetího devátý malostranské náměstky od jedné hodiny. Mějte se krásně.
+[51:16] Máme moc rádi a zejtra se uvidíme u pravidelného nedělního živého vysílání
+[51:21] v devět hodin, kde Zuzka už nebude vidět, ale bude tam se mnou v režii taky.
+[51:26] Hezký večer.
+[51:27] Jsem si mohla toho paďulačka namalovat na ksit.
+[51:30] Hezký zbytek večera a krásnou neděli.
+[51:43] Ach jo. Konec jo, jo, asi jo.

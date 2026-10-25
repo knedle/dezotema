@@ -1,0 +1,1831 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        17. 10. 2026 Zprávy v devět s komentářem
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1656189429494196
+Datum videa:  2026-10-17
+Zpracováno:   2026-10-24 16:27:08
+Jazyk:        cs
+Délka:        01:11:50
+Popis:        17. 10. 2026 Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    45s
+Přepis:       14m 6s
+Rychlost:     5.1x realtime
+Celkem:       14m 52s
+================================================================================
+PŘEPIS
+================================================================================
+
+[03:00] Přátelé, hezký večer. Dneska máme 17.10.2026,
+[03:07] tedy 9 hodin, sobota. Všichni jsme se tady sešli.
+[03:11] Omlouvám si, že jsem dneska jenom dal všechny vaše komentáře na obrazovku,
+[03:15] protože, jak vidíte, tak jsem přišel na poslední chvilku.
+[03:19] Máme tady dneska režiséra Ivana, který připravoval zprávy,
+[03:22] takže mu nezapomeňte dokumentovat potom ke konci, jak mu to šlo,
+[03:25] jestli je připravil dobře. Zuzko, hezký večer i tobě.
+[03:29] Krásný večer všem.
+[03:31] Hodím tě na druhou stranu, nechceš takhle? Člověče?
+[03:35] Člověče, nějak mi to je jedno.
+[03:37] Takhle jsme zvyklí se, Jen. Ty se mě ráda dotýkáš tady těm namínkem.
+[03:41] Tak Zuzko, co se dneska stalo?
+[03:44] Co se dneska stalo? Dneska se stalo to, že Hnutí Ano, premiéra Andreje Babiše,
+[03:50] utrpělo ve druhém kole senátních voleb výraznou porážku.
+[03:54] Z celkem 13 kandidátů neuspěl ani jeden.
+[03:57] A Hnutí navíc přišlo o jeden mandát v Senátu.
+[04:00] Babiš už po prvním kole předpovědal, že se ostatní politické síly spojí proti Ano.
+[04:05] Přestože se ještě před hlasováním snažil mobilizovat voliče,
+[04:10] Hnutí odchází z druhého kola bez jediného vítězství.
+[04:15] Ano, ten pohledek je katastrofální.
+[04:21] Určitě jsme si nemysleli, že nezískáme žádného senátora v těchto volbách.
+[04:29] Bohužel.
+[04:30] Musíme se zamyslet nad tím, proč se to stalo a jak se to stalo.
+[04:36] A zamyslet nad tím, že kdo v Hnutí pracuje a nepracuje.
+[04:41] A kdo si zprivatizoval krajské organizace a nezprivatizoval, ale jak pracoval.
+[04:46] Všechno zle je na něco dobré.
+[04:49] A já jsem celkem tomu rád, protože to dává velký mandát.
+[04:58] Na zamišlení se a na změnu a restartnutí. Ano.
+[05:05] To je zajímavé. Takže to, že nezískali žádné hlasy ve volbách, jim dává mandát.
+[05:10] To jsem nepochopil úplně, jak to myslí Ondřej Babiš.
+[05:13] Myslel jsem, že mandát by dostali, kdyby získali hlasy.
+[05:17] A tam na začátku jsem slyšel, že je to proto, že se proti politické straně Ano spojili ostatní politické síly.
+[05:25] A oni v senátu nehlasují občany teď jako voliči.
+[05:28] A oni tam hlasují ostatní politické strany.
+[05:31] Možná jsem to nějak nepochopil, co to je za výmluvu, že se proti Ano spojili ostatní politické strany.
+[05:38] Co mají s volbama, s výsledkem společného ostatní politické strany?
+[05:42] Přece senátní volby jsou přímé volby, kde hlasují občané.
+[05:46] A pokud občané nezvolili ani jednoho kandidáta z politického hodnoty Ano,
+[05:51] tak to není kvůli tomu, že se spojili ostatní politické strany.
+[05:55] Ale je to kvůli tomu, že občané nezvolili nikoho. Ne?
+[05:58] Nebo rozumím tomu správně, Zuzko?
+[06:01] No on to myslí zřejmě tak, že všichni ostatní, já nevím, STAN,
+[06:06] to vždycky podpořili toho jednoho z ODS teda radši.
+[06:10] Piráci, STAN, KDU podpořili vždycky někoho jiného než Ano. Raději.
+[06:15] A těch voličů zřejmě bylo víc, no.
+[06:18] Rozumím, rozumím.
+[06:20] Nevím, jestli se mi neseká obraz, manželka mi asi krade internet.
+[06:24] Myslím, že v ložnici, že určitě se kouká na nějaký seriál,
+[06:28] nebo Rašaterys.
+[06:29] Nebo Pouští, nebo něco takovýho.
+[06:31] No, to, že politická jednití Ano neuspělo v senátních volbách,
+[06:37] tak to brutálně, no tak bych čekal trošičku hlubší sebereflexi
+[06:41] od Andreje Babiše a jeho politiky,
+[06:43] protože Andrej Babiš všechno, co slíbil, tak porušil.
+[06:46] To znamená, tady už vidíme rok po volbách,
+[06:50] ještě ne ani rok po vládníkách, že už politická jednití Ano
+[06:53] strekylo důvěru voličů.
+[06:55] To, že mu dávají nějaké tisíce lidí, nějaký lajky,
+[06:58] na Facebooku, že má pořád nějaký pevný jádru,
+[07:02] který tam komentuje, to neznamená, že má nějakou podporu ve společnosti.
+[07:06] Společnost už si uvědomila, že Andrej Babiš je podvodník,
+[07:10] který lidem řekl, že bude dělat A, a přitom dělá Z,
+[07:14] respektive slíbil lidem, že bude dělat Z, a přitom dělá U.
+[07:18] Takže to už asi každý chápe, tadyhle to.
+[07:24] Takže to je asi, proto je ten výsledek bude takový,
+[07:27] že Andrej Babiš pracuje pro Evropskou unii, pro NATO,
+[07:30] pracuje pro Američany a pro Ukrajinu a nepracuje pro Českou republiku,
+[07:33] jak slíbil. Slíbil, že zruší muniční iniciativu,
+[07:36] místo toho jsme se pochlubili, že dodáváme na Ukrajinu
+[07:39] víc než polovinu veškeré munice a chlubíte tím dál.
+[07:42] Slíbil, že nebude posílat peníze na Ukrajinu, přitom peníze po tom,
+[07:46] co byl dosazený do funkce ministerského předsedy,
+[07:51] tak odhlasoval na Ukrajinu 60 miliard eur na zbraně
+[07:56] a dalších 30 miliard eur na fungování zelenického režimu.
+[07:59] Když letěl do Istambulu na summit NATO,
+[08:02] tak tam odhlasoval dalších 70 miliard nebo kolik dolarů,
+[08:06] 40 miliard navíc nebo 70 miliard navíc,
+[08:09] podle toho, jak se to počítá, pro Ukrajinu ročně.
+[08:12] A teď nám tady média poslední dva dny píšou o tom,
+[08:16] jak se Andrej Babiš chystá přijmout další uprchlíky,
+[08:19] jak to urychluje a čeká se další migrační vlna
+[08:24] v Holodomíru zelenickým muzeum.
+[08:26] Mluví, nebo média mluví o tom,
+[08:28] že by mohlo přijít dalších 150 tisíc uprchlíků
+[08:30] do České republiky z Ukrajiny.
+[08:32] A jestli se bavíme o tom, že oficiálně jich tady máme 400,
+[08:35] tak je to nějaká třetina nebo víc než třetina toho, co tady už je.
+[08:40] A jestli tady neoficiálně, jestli tady tady skutečně máme 2 miliony,
+[08:45] tak se chystá prostě dalších 700 tisíc uprchlíků z Ukrajiny,
+[08:49] který přijdou do České republiky.
+[08:51] Na to všechno je vládá Andrej Babiše.
+[08:53] Takže fakt, že vládá Andrej Babiše, nebo respektive,
+[08:57] ne vládá Andrej Babiše, ale hnutí ano,
+[09:00] které je zodpovědné za tu vládu,
+[09:03] protože voliče si je i jistý, že třeba SPD by možná chtělo,
+[09:07] nebo pro, nebo trikolóna, nebo svobodní,
+[09:09] že by třeba chtěli referendum z Evropské unie.
+[09:11] Samozřejmě, že by nechtěli.
+[09:13] Že šlapou chodník, jako všechny ostatní.
+[09:15] Ale že za to může Andrej Babiš.
+[09:17] Takže ty výsledky vlády, to jsou v podstatě
+[09:21] z velké míry výsledky
+[09:23] vedení toho politického hnutí ano.
+[09:26] Takže myslím si, že tady u Andreje Babiše,
+[09:28] pokud takhle skolabovalo to politické hnutí ano
+[09:33] v senátních volbách, tak bych četl sebereflexy,
+[09:36] protože to je odrazem vlády.
+[09:39] To znamená, že lidi nejsou spokojení s tím,
+[09:41] jak vládne vláda.
+[09:43] A protože lidi vnímají vládu jako politické hnutí ano,
+[09:46] tak to dali především politickému hnutí ano,
+[09:49] takovýmhle způsobem ukázat.
+[09:52] Takže myslím,
+[09:53] že u Andreje Babiše je v celku nezodpovědné mluvit o tom,
+[09:56] že v krajských organizacích lidi nepracují,
+[09:59] ale prostě měl by prostě přímo ten fakt,
+[10:03] že politické hnutí ano je už dneska po volbách
+[10:06] velmi neovlíbené.
+[10:08] No to je to, jak to vidím.
+[10:10] No to nějak zapomněl zmínit své sebereflexy,
+[10:14] že nic neplně a dělá opak, než sliboval.
+[10:18] Dobře, pojďme na další zprávu.
+[10:20] Ano.
+[10:23] Babiš varoval, že Česká republika by v budoucnu
+[10:28] mohla být nucena chránit své hranice před migranty
+[10:31] přicházejícími ze západní Evropy, pokud to takhle bude pokračovat,
+[10:37] prohlásil Babiš.
+[10:38] Podle jeho slov se Česká republika na takovou možnost připravuje.
+[10:42] Zároveň požaduje tvrdší postup proti nelegální migraci.
+[10:46] Po pátečním jednání uvedl, že mezi evropskými lidry
+[10:49] panovaly v tomto směru výrazné neschody.
+[10:52] A nikdo nám nebude mluvit do toho, koho naše firmy budou zaměstnávat,
+[10:57] nebo naše vysoké školy, nebo zkrátka, kdo u nás bude žít,
+[11:03] nenecháme si do toho mluvit.
+[11:13] To video nám nefunguje?
+[11:16] Jedno šlo, já nevím, byly tam dvě, ale asi to druhé nefunguje.
+[11:20] Dobře, OK. Andrej Babiš v podstatě mluvil o tom,
+[11:24] že pak, když to takhle půjde dál, abyste to neviděli,
+[11:27] takže ČR bude muset bránit hranice před nelegálními migranty.
+[11:32] A zamýšlel jsem se nad tím, že to je hezký, že Andrej Babiš volí takhle silná slova,
+[11:38] že budeme možná muset chránit hranice před nelegálními migranty.
+[11:42] Dokonce jsem ho dneska trošku označil, že je trošku zrobotizovaný.
+[11:46] Víte, jak je to s mým robotem, který opakuje všechno, co řeknu, tak to opakuje.
+[11:50] Andrej Babiš začal trošičku opakovat to, co říkám, ale je tam jeden malý rozdíl.
+[11:54] Už jsem byl skoro nadšený, že Andrej Babiš pochopil,
+[11:57] že bude teď jednat v zájmu České republiky proti migraci a bude chtít zavírat hranice.
+[12:02] Ale pak jsem si říkal, jak je to vlastně s tím, že Andrej Babiš zakázal nám, občanům,
+[12:08] abychom si udělali referendum o vystoupení z Evropské unie.
+[12:11] Říkal jsem si, že to přece nejde dohromady.
+[12:13] Na jednu stranu chce zavírat hranice před úprchlíky,
+[12:18] myslím pravděpodobně jako úprchlíky nějakými z těch islámských zemí,
+[12:23] ale on říká ze západu, úprchlíky ze západu.
+[12:26] A na druhou stranu nám zakazuje dělat referendum o vystoupení z Evropské unie,
+[12:30] protože za každou cenu nás chce udržet v Evropské unii.
+[12:33] Tak Evropská unie je postavená na tom, že jsou otevřené hranice.
+[12:36] Tak jak to jde dohromady?
+[12:38] A uvědomil jsem si, jak to jde dohromady.
+[12:40] On takyž mluví o nelegální migraci, o nelegálních úprchlících.
+[12:44] A jsme zase u toho, že ten, kdo je politicky negramotný,
+[12:49] tak nechápe tadyhletu hantírku,
+[12:52] že nám vadí nelegální migraci,
+[12:54] protože ono to nelegální migraci zní trošičku jako islámská migraci,
+[12:59] nebo nelegální migraci zní jako ti, které tady nechceme.
+[13:03] Jo, to je takový spojení, nelegální rovná se negativní.
+[13:07] Takže nelegální migraci, pod tím si lidi představí,
+[13:10] jako to jsou ty špatný, který my tady nechceme.
+[13:13] Jenže pro politiky nelegální migraci je taková obrzlička,
+[13:17] jak říkat navenek, že nechtějí migraci,
+[13:21] ale migraci ne.
+[13:22] Protože nelegální migraci, to jsou ti, kteří migrují,
+[13:28] aniž by jim to povolili politici.
+[13:30] A politici povolují migraci prakticky všem,
+[13:33] ale musí ti lidé projít nějakým řízením, schvalovacím.
+[13:37] To znamená, pokud Andrej Babiš chce uzavírat hranice
+[13:41] před nelegálními migranty, no tak to může vypadat tak,
+[13:44] že se budou kontrolovat tam jako ty lidi,
+[13:47] ale v okamžiku, kdy budou mít asdyl,
+[13:49] nebo budou mít někde napsané,
+[13:51] že do nějakého asylového centra došli,
+[13:53] nebo jestli má vedený asylové řízení,
+[13:55] tak je to v pořádku.
+[13:57] A v okamžiku, kdy to asylové řízení proběhne,
+[13:59] tak vy víte, že se nevrací žádný migranté
+[14:01] do těch islámských zemí.
+[14:04] No tak ho dostanou razítko, že potom pobývají legálně
+[14:07] na území Evropské unie,
+[14:08] a ti se taky budou moct pohybovat na území Evropské unie.
+[14:11] Takže Andrej Babiš opět prostě tady předvádí
+[14:15] mistrovský podvod, mistrovský kousek velhání,
+[14:20] když celá republika říká, jo Andrej Babiš je náš,
+[14:23] on chce znamřít hranice před migrací.
+[14:26] Andrej Babiš ve skutečnosti říká,
+[14:28] že migrace bude dál, že to je v pořádku.
+[14:32] Ale nelegální migrace, to ne.
+[14:36] On to začal tím, co se dělá ve Španělsku.
+[14:39] Jenže to, co udělal Sánčez ve Španělsku,
+[14:41] tak on zlegalizoval těch 800 000 lidí.
+[14:44] On jim dal razítka, to znamená,
+[14:45] to jsou legální migranty.
+[14:47] Takže Andrej Babiš sice mluví o Španělsku,
+[14:49] jestli to je tak,
+[14:50] že to takhle půjde dál,
+[14:51] tak budeme muset uzavřít hranice
+[14:53] před nelegálními migranty.
+[14:55] Ale ti, kteří už mají potvrzení ze Španělska,
+[14:57] tak před těmi Andrej Babiš
+[14:59] žádné hranice zavírat nechce.
+[15:02] Další obrovský podvod ze strany Andreje Babiše
+[15:04] je úplně stejný, jako když řekl,
+[15:06] že vláda odmítá migrační pakt.
+[15:09] Bohužel, odhaduju, že 95 % lidí tohle
+[15:12] není schopných pochopit,
+[15:14] protože jsou politicky nevzdělaní.
+[15:16] A myslí si, že vlastně Andrej Babiš boje
+[15:18] za zájmy České republiky
+[15:20] a bude chtít chránit Českou republiku před migrací.
+[15:22] Bohužel, opak je pravdou.
+[15:25] Ale vy to pravděpodobně,
+[15:26] vy tomu pravděpodobně rozumíte, co jste tady,
+[15:28] ale valná většina prostě pokud se tomu nebude rozumět
+[15:32] a až to pochopí, tak to pochopí až díky tomu,
+[15:34] že v České republice budou spousty a spousty lidí.
+[15:37] Barvy plety trošku tmavší,
+[15:40] než je tamhle to polínko, co tamhle mám jako u kamen,
+[15:43] asi o čtyři odstíny.
+[15:45] A úplně jiných názorů na to, jak by měla fungovat společnost.
+[15:48] Především na ženy, že ženy by měly chodit tři metry za mužem.
+[15:52] Jenom je tam jedna výjimka, kdy ženy chodí před mužem,
+[15:55] to je, když jdou na minové pole,
+[15:56] tak tam jde žena dva metry nebo aspoň čtyři metry před mužem,
+[15:59] že ženy nesmí chodit ven samy bez doprovodu muže
+[16:03] nebo takový věci, k čemu jsou ženy určený,
+[16:06] k plození děkí, k vaření, k uklízení.
+[16:08] A když to náhodou nedělají, tak je potřeba je být,
+[16:11] aby jejich Bůh je potom vzal do nebe atd.
+[16:15] Takže obávám se, že vám tady Babiš zase vklamal.
+[16:19] Bohužel už to vidím dopředu tadyhle,
+[16:22] s tou už jsem se naučil skrz něj vidět.
+[16:26] No a taky varuje pouze předmigranti ze západu,
+[16:30] takže ty z východu.
+[16:33] Ty, který sem budou prchat ve velkým před zimou.
+[16:38] No ne, ne.
+[16:39] Tak jako to, co říkal Volodomír Zelenský dneska
+[16:42] na samitu Evropské unie.
+[16:44] To tam máme ve zprávě, myslím.
+[16:46] Je, no tak to máš smůlu, taky vezmu.
+[16:49] Takže to, co říkal, stejně tam mají 20 zpráv,
+[16:51] takže ti to budeme zkracovat.
+[16:53] To, co říkal Volodomír Zelenský dneska
+[16:56] na samitu Evropské unie je,
+[16:58] že Evropa musí chránit sama sebe
+[17:00] a musí chránit Ukrajinu,
+[17:02] protože tím chrání sama sebe.
+[17:04] A pokud by Ukrajina padla, Rusko jí rozbilo,
+[17:06] tak Evropu čeká 20 milionů upotlíků
+[17:09] až 20 milionů upotlíků ze strany Ukrajiny
+[17:13] do Evropské unie.
+[17:15] Tak si představte 20 milionů lidí dalších,
+[17:17] když přijdou, tak to už pomalu bychom se připravovali
+[17:19] na to, že v České republice bude víc Ukrajinců
+[17:21] než Čechů.
+[17:23] Takže to je opravdu velmi nebezpečné tohleto.
+[17:25] A oproti tomu Andrej Babiš nemluví,
+[17:27] oproti tomu neřekl ani slovo.
+[17:29] Sice Volodomír Zelenský, když přišel na ten samit,
+[17:31] tak se tam s většinou lidí objímal.
+[17:33] Andrej Babiš poměrně hezky,
+[17:35] musím zase říct, aby byl korektní,
+[17:37] jak mu Volodomír Zelenský
+[17:39] dal ruku na rameno,
+[17:41] tak Andrej Babiš se otočil,
+[17:43] v klidu vstal, podal mu ruku,
+[17:45] žádný líbání, žádný jazyky v krku,
+[17:47] žádný objímání.
+[17:49] To se mi líbilo, to bylo korektní
+[17:51] a jasně ukázal odstup,
+[17:53] stejně tak jako Petr Maďar Volodomíru Zelenskýmu,
+[17:55] aby mu ukázali, kam patří,
+[17:57] že nejsou žádní kamarádi, ale že to je nějaká diplomacie.
+[17:59] To se mi líbilo.
+[18:01] Ale na druhou stranu Andrej Babiš tady pomáhá
+[18:03] urychlovat příjem uprchlíků z Ukrajiny,
+[18:05] protože údajně potřebujeme
+[18:07] lidi na práci a teď on
+[18:09] tady bude dávat nový povolení uprchlíkům
+[18:11] z Filipín a nevím ještě odkud,
+[18:13] ještě z nějakého státu.
+[18:15] Takže Andrej Babiš je naprosto
+[18:17] promigrační politik v České republice.
+[18:19] Ve francouzských
+[18:24] městech pokračují
+[18:26] protesty
+[18:28] proti roztoucím životním nákladům
+[18:30] do ulic výše 10 000
+[18:32] demonstrantů, přičemž na několika
+[18:34] místech došlo k násilným střetům
+[18:36] policií. Podle francouzského
+[18:38] ministerstva vnitra bylo do polovený
+[18:40] odpoledne zadrženo přibližně 270
+[18:42] osob, mimo jiné
+[18:44] v Paříži, Marseille, Rennes,
+[18:46] Toulouse a Angers.
+[18:49] Nepokoje zahrňovaly
+[18:51] policií, zapalování
+[18:53] městského mobiliáře,
+[18:55] pokusy o rabování i útoky na vládní
+[18:57] instituce a mediální domy.
+[18:59] Tak poprosím, že ty údaje
+[19:01] ještě nepoučte.
+[19:03] To je tam.
+[19:09] To tam krásně zní.
+[19:13] Poprosím režisánov, už to třetí
+[19:15] video, ať můžeme komentovat.
+[19:17] Přátelé, to,
+[19:19] co teď je ve Francii,
+[19:21] tak dodneška nás média informovala
+[19:23] o tom, že jsou to studenky, kteří
+[19:25] protestují za to, aby
+[19:27] měli ve škole méně žáků
+[19:29] ve třídách a víc učitelů a víc
+[19:31] peněz do školství. To jsme viděli první
+[19:33] měsíc. Od prvního dne vám říkám
+[19:35] zaprvé, že to nejsou studenky,
+[19:37] jenom studenky, že jsou tam studenky, ale to
+[19:39] jsou jenom studenky, že tam je spousta dalších důvodů.
+[19:41] A postupně si to tady vysvětlujeme,
+[19:43] že to jsou v podstatě protesty
+[19:45] naprosto
+[19:47] nespokojeného obyvatelstva,
+[19:49] a to i migrantů, i těm,
+[19:51] kteří se brání před tou migrací,
+[19:53] a všichni směřují svůj hned
+[19:55] směrem na vládu, protože nikdo nesmí říct,
+[19:57] ti, kteří se bojí migrantů, tak
+[19:59] nemůžou říct, že protestují proti migrantům,
+[20:01] a migranti ty
+[20:03] prostě nemůžou říct, že se snaží zničit
+[20:05] ten systém, protože chtějí, aby ta země byla
+[20:07] islámská. Takže
+[20:09] to, co se ve skutečnosti děje, že
+[20:11] započíná nějakási občanská válka
+[20:13] ve Francii, aspoň to tak vypadá,
+[20:15] už se nejedná o studenty, dneska
+[20:17] už nám naše média aspoň říkají,
+[20:19] že se jedná o protesty proti
+[20:21] vládním škrtům, tak už připouští,
+[20:23] že ta nenávist je skutečně proti vládě,
+[20:25] což se tajilo vlastně velmi dlouhou
+[20:27] dobu. A poprosím režie, ještě jednou
+[20:29] o to třetí video se zvukem, podívejte se,
+[20:31] takhle přece nemůžou vypadat
+[20:33] studenky, kteří protestují za to, aby měli
+[20:35] ve škole méně studentů
+[20:37] ve třídě nebo víc učiteli.
+[20:39] No tohle to je opravdu,
+[20:41] já jsem úplně o tom stále.
+[20:43] A když si vezmeme,
+[21:09] že takovýhle boje
+[21:11] se dějou nejenom ve Francii,
+[21:13] ale prostě ve větší části
+[21:15] dneska bych řekl západní Evropy,
+[21:17] no tak možná už by
+[21:19] někdo se mohl zamyslet nad tím, co tedy
+[21:21] říkám od roku 2020.
+[21:23] Že je potřeba uzavřít hranice
+[21:25] České republiky,
+[21:27] protože se musíme
+[21:29] zachránit před
+[21:31] tou islámskou migrací.
+[21:33] A tyhle ty konflikty,
+[21:35] které dneska jsou běžný,
+[21:37] řekněme v Francii,
+[21:39] no tak čekají Českou republiku
+[21:41] zrovna tak? To se k nám přelije, pokud
+[21:43] neuzavřeme hranice, nebudeme
+[21:45] v migračním paktu, začnou nám sem posílat
+[21:47] ty lidi násilím,
+[21:49] budou jim vyplácení dávky jenom na území
+[21:51] České republiky, jenom když tady budou žít.
+[21:53] No tak samozřejmě, že se to přelije k nám.
+[21:55] A jaký k tomu máme důvod, proč
+[21:57] tohle chceme, proč tak strašně chceme patřit
+[21:59] na západ? Přece nebuďme
+[22:01] bláhoví, že ten západ je tak skvělý,
+[22:03] když vidíme, co ten západ ve skutečnosti je.
+[22:05] Západ v osmdesátých letech,
+[22:07] ano, super,
+[22:09] v devadesátých letech super, bydlal jsem v Německu, bydlal jsem
+[22:11] ve Francii, super, už tam začínalo
+[22:13] být trošičku moc Turků,
+[22:15] trošičku moc Alžířanů ve Francii,
+[22:17] trošičku moc Tunizanů a tak dál,
+[22:19] ale pořád ještě to bylo super.
+[22:21] Ale dneska, v roce 2026,
+[22:23] teď Evropa hoří. Proč pořád
+[22:25] chceme patřit na západ? I k tomu, že
+[22:27] Chiméra dávno přežita a ten západ
+[22:29] v podstatě padnul.
+[22:31] Ten západ už nemá šanci, aby se
+[22:33] z toho dostal, nedokážu si představit jak,
+[22:35] protože ti lidé mají francouzské,
+[22:37] německé, rakouské, švédské,
+[22:39] holandské, belgické,
+[22:41] britské, španělské,
+[22:43] portugalské, italské občanství.
+[22:45] Oni mají občanství,
+[22:47] oni jsou občané těch zemí.
+[22:49] A naše jediná šance je, jak
+[22:51] zachránit Českou republiku, je
+[22:53] vyjmout jí, utéct z Evropské
+[22:55] Unie a zavřít hranice.
+[22:57] Jediná možnost. Pojďme na
+[22:59] další zprávu, Zuzko, prosím.
+[23:03] Na další zprávu, to je podobná.
+[23:05] Albanská metropole, která
+[23:07] nadšelí pokračujícím protivládním
+[23:09] protestům. Tisíce demonstrantů
+[23:11] požadují odstoupení premíra
+[23:13] Eddieho Ramy kvůli korupci
+[23:15] a rostoucím životním nákladům
+[23:17] a problémům ve školství.
+[23:19] Při střetech demonstranti
+[23:21] házeli na policisty kameny,
+[23:23] zapalovali barikády,
+[23:25] zatímco bezpečnostní složky
+[23:27] zasahovali slazným
+[23:29] plynem a vodním dělí.
+[23:31] Podle dříve uvedených informací bylo
+[23:33] na začátku nepokoju zadrženo přibližně
+[23:35] 500 lidí a desítky
+[23:37] osob utrpěli zranění.
+[23:39] Policie používají proti
+[23:41] demonstrantům gumové projekty.
+[23:44] To je asi jako
+[23:46] někdo napíše
+[23:48] tamhle to vypadá
+[23:50] na občanskou válku, tak napište,
+[23:52] že jsou to studenti. Nebo nevím,
+[23:54] jak je to možný, že pořád ty
+[23:56] správy mluví o studentských protestech.
+[23:58] Tohle nejsou žádný studentský protesty.
+[24:00] Bohužel v té Albánii,
+[24:02] tam je tohle nějaké lehké video
+[24:04] z toho, jak je vypálená nějaká budova,
+[24:06] ale těch videí, které dostáváme z Albánie
+[24:08] o tom, jak tam policisté
+[24:10] mlátí lidi, ale naprosto brutálně.
+[24:12] A jak lidi lynčují policisty,
+[24:14] když se jim podaří chytit nějakého
+[24:16] policistu.
+[24:18] No to je prostě brutál. To je opravdu
+[24:20] lidi proti režimu, lidi proti systému,
+[24:22] lidi proti státu
+[24:24] a stát proti lidem.
+[24:26] A začalo to tím, že ty
+[24:28] elitáři prostě začaly
+[24:30] si brát, Ivanka Trumpová,
+[24:32] Jared Kushner, jejich ostro
+[24:34] a jejich pobřeží
+[24:36] s chráněnými pelikány
+[24:38] a stát asistuje.
+[24:40] Ne, nebo nepodporuje
+[24:42] lidi, nechrání lidi,
+[24:44] nechrání území,
+[24:46] který je chráněný, který by měl
+[24:48] ten stát chránit, nechrání veřejnou
+[24:50] pláž, nechrání Národní
+[24:52] park, ale chrání zájmy těch
+[24:54] elitářů, kteří si chtějí zprivatizovat
+[24:56] pro sebe jako realitní projekt
+[24:58] ten Národní park.
+[25:00] A tady jasně ukázala ta vláda,
+[25:02] že nestrojí na straně
+[25:04] lidí, na straně státu,
+[25:06] ale na straně proti lidem,
+[25:08] proti státu, na straně těch elitářů.
+[25:10] A proto vzniknul tenhle ten konflikt.
+[25:12] A čím dál, tím dál ten konflikt je, čím víc
+[25:14] lidi protestují za to, že to je jejich země,
+[25:16] tak policie se jim snaží
+[25:18] naznačit, že ta země není jejich,
+[25:20] ale je nějakého režimu,
+[25:22] který má ozbrojené složky, a který si v té zemi
+[25:24] bude dělat, co chce. A tohle
+[25:26] je bohužel
+[25:28] problém v podstatě celého
+[25:30] západního světa dnešního.
+[25:32] Celého západního světa, akorát, že
+[25:34] Albány si to lidi uvědomili
+[25:36] dříve, a ten konflikt proti tomu
+[25:38] režimu začíná dříve, ale
+[25:40] podle mě takovýhle konflikt dříve nebo
+[25:42] později může přijít ve Spojených státech,
+[25:44] v Británii, ve Francii, nebo
+[25:46] kdekoliv jinde. Akorát se
+[25:48] obávám, že v těch západních zemích
+[25:50] a v zemích západní Evropy,
+[25:52] Evropské unie, si nejsem jistý, jestli
+[25:54] ti lidé, včetně
+[25:56] České republiky, budou natolik stateční,
+[25:58] aby ty režimy rozbily, aby rozbily
+[26:00] Evropskou unii. Možná, že se jim to
+[26:02] nepodaří, možná se jim to podaří v takových
+[26:04] těch zemích jako je Albánie, nebo Srbsko,
+[26:06] nebo tam, kde jsou ty lidi trošičku
+[26:08] ostrější, tam se jich ty vlády bojí
+[26:10] a tam ty lidi vyhrajou. Možná,
+[26:12] že ne, ale spíš.
+[26:14] A možná, že v takových Franciích
+[26:16] a Britániích
+[26:18] to prostě nevyhrajou a nakonec
+[26:20] ten, kdo vyhraje ty země, budou právě
+[26:22] ti muslimové, kteří tam
+[26:24] přicestovali, stejně tak, jako to
+[26:26] vyhráli v Kosovu, stejně tak, jako to vyhráli
+[26:28] v Sýrii, jako to vyhráli prakticky
+[26:30] v každé zemi, kam islám přišel
+[26:32] a za ty poslední necelé dva
+[26:34] tisíce let, kam vstoupil islám,
+[26:36] tak pomalu tu zemi převzal
+[26:38] prakticky skoro všude.
+[26:40] Málo kdy se podařilo ten islám
+[26:42] nějakým způsobem vymítit, nebo aby se nerozmohlo.
+[26:44] No, takže
+[26:46] západ Albánie samozřejmě
+[26:48] je, takže
+[26:50] západ
+[26:52] je
+[26:54] prostě před takovým
+[26:56] podle mě před, nejenom před
+[26:58] válkou, možná před občanskou
+[27:00] válkou, možná před
+[27:02] změnou systému skrze
+[27:04] občanskou válku, možná před
+[27:06] změnou systému skrze válku
+[27:08] a to je to, co si myslím.
+[27:10] Proto vlastně jsem taky přišel s tím plánem
+[27:12] Česká republika na první místě se změnou systému
+[27:14] a říkám vám, že jednoho dne
+[27:16] myslím, že ta změna systému přijde, protože
+[27:18] prostě se budou stavět ty režimy,
+[27:20] ty systémy jinak, protože
+[27:22] tyhle cty nefungují. Ale
+[27:24] no vidíme, jak dlouho to bude trvat a jak
+[27:26] moc krvavý to bude. Za mě prostě to nejlepší,
+[27:28] co by bylo, je odejít z Evropské unie
+[27:30] a odejít z těch globalistických organizací,
+[27:32] který jsou zárukou
+[27:34] nás dneska už a zárukou
+[27:36] přesunu velké části
+[27:38] muslimské migrace do českých zemí,
+[27:40] vystoupit z nich a
+[27:42] udělat tu změnu systému
+[27:44] zevnitř České republice,
+[27:46] z dola, pomocí zákonů,
+[27:48] no nenásilnou formou.
+[27:50] Ale víte, tohle, co to je Láďa
+[27:52] vrátil, nenásilná revoluce, ale
+[27:54] pokud se nepodaří nenásilná revoluce
+[27:56] a lidi budou říkat, že vrábili snílek,
+[27:58] že to takhle nejde, že to nemá cenu
+[28:00] a budou dál jako podporovat ten
+[28:02] systém mafiánský, kde ty politický
+[28:04] strany se perou o moc
+[28:06] a pracují pro ty různý
+[28:08] korporace a pro ty různý
+[28:10] oligarchy, no tak to pravděpodobně
+[28:12] bude násilnou cestou. A to
+[28:14] buď tou válkou s Ruskem, nebo nějakou občanskou
+[28:16] válkou v Evropě, jinak to nevyjde.
+[28:18] Možná, napište mi, možná se pletu, možná
+[28:20] mám prostě špatný názor,
+[28:22] možná to vidíte jinak, napište mi to,
+[28:24] mě by to zajímalo, jak si myslíte, že to může
+[28:26] v příštích pěti letech jako v Evropě
+[28:28] vypadat. Tisíce
+[28:33] Tunisanů vyšlo v sobotu do ulic
+[28:35] hlavního města Tunisu
+[28:37] při největším protestu
+[28:39] proti prezidentovi Sajdovi
+[28:41] za poslední roky. Demonstranti
+[28:43] ho obvinují s podkopávání demokracie,
+[28:45] koncentrace moci a
+[28:47] prohloubující se hospodářské krize.
+[28:49] Protesty vedené odbory a
+[28:51] opozičními skupinami přicházejí
+[28:53] v době rostoucí nezaměstnanosti,
+[28:55] nedostatku léku a opakovaných
+[28:57] výpadků vody a elektřiny.
+[28:59] Lid chce pát režimu,
+[29:01] standovali davy a připomněli
+[29:03] tak heslo z Evovce z roku 2011,
+[29:05] která
+[29:07] odstartovala arabské jaro.
+[29:09] Demonstranti požadovali
+[29:11] také propuštění politických věznů
+[29:13] a věznů
+[29:15] kritiku, který kritizovali vládu.
+[29:17] A pořád okola,
+[29:19] dokud lidi nepochopí, že to není
+[29:21] o tom měnit lidi
+[29:23] ve zkaženém systému,
+[29:25] ale že je potřeba změnit systém,
+[29:27] tak to bude pokračovat pořád dál
+[29:29] a podle mýho názoru pořád hůř.
+[29:31] Protože ta situace je čím dál tím horší.
+[29:33] Peníze mají čím dál tím
+[29:35] nižší hodnotu, inflace
+[29:37] prostě v průdce roste,
+[29:39] peníze se kisknou čím dál tím víc,
+[29:41] země jsou čím dál tím víc zadlužené
+[29:43] a politici a ty
+[29:45] elity, které řídí ty společnosti,
+[29:47] kradou čím dál tím víc.
+[29:49] To znamená, lidi mají čím dál tím víc peněz,
+[29:51] nebo peněz. Peněz mají možná
+[29:53] stejně nebo víc, ale ta hodnota
+[29:55] těch peněz je čím dál tím nižší,
+[29:57] to znamená, lidi mají čím dál tím nižší
+[29:59] kupní sílu, to znamená, mají čím dál tím horší
+[30:01] život, do toho se zdražuje
+[30:03] jídlo a energie kvůli válkám,
+[30:05] které se rozbíhají čím dál tím víc,
+[30:07] takže nevidím, kde by se to
+[30:09] mohlo zastavit. Nevidím,
+[30:11] kde by se to mohlo zastavit, zatím vidím, že to bude
+[30:13] pravděpodobně jenom horší a horší. Proto jsem
+[30:15] hlásil taky program
+[30:17] Zahranice, kdo může, že jak
+[30:19] říkám, nahoru do kopců. Pojďme
+[30:21] na další zprávu, Zuzko, prosím.
+[30:24] Jirskou metropolii Dublinem
+[30:26] otřasly nasilné
+[30:28] protiimigrační nepokoje.
+[30:30] Po té, co útočných nožem
+[30:32] napadlo tři děti a jejich
+[30:34] pečovatelků vytržnici, zapalovali
+[30:36] autobusy a
+[30:38] policejní vozidla, rabovali obchody
+[30:40] a střetávali se s bezpečnostními
+[30:42] složkami. Policie
+[30:44] nasadila víc než 400 příslušníků.
+[30:46] No, podívejte se, když
+[30:49] někdo někoho někde napadne nožem
+[30:51] a lidi pro toho protestují,
+[30:53] tak nebudou rabovat obchody.
+[30:55] To znamená, zase jsou tam
+[30:57] nějaké gengy, pravděpodobně
+[30:59] gengy, které by se daly označit
+[31:01] tím přídavným jménem, které začíná
+[31:03] na M, druhé písmeno je
+[31:05] U
+[31:07] a připomíná to mysli.
+[31:09] A nebudu prostě říkat už jako
+[31:11] který to, abych nebyl obviněný z nějaké
+[31:13] předsudečné nenávisky, ale když někdo rabuje
+[31:15] obchody, tak to obvykle nebudou
+[31:17] ryčani, protože ryčani jsou super
+[31:19] lidi, prostě takový rezatý, rádi
+[31:21] pijou Guinness, pivo, rádi hrajou
+[31:23] na kytaru, tancojí, mají se rádi a jsou
+[31:25] strašně milí, strašně slušní a strašně
+[31:27] otevření. No, takže pokud to
+[31:29] vypadá takhle, tak to nejsou ani studencké
+[31:31] protesty, ani protesty lidí proti nějakému
+[31:33] aktu, který se stal, ale už je to
+[31:35] velmi rozvinutá demonstrace, kde zase
+[31:37] hoří Dublin, jo, to je Dublin,
+[31:39] ne, si říkala, Zuzko?
+[31:41] Jo, máš, prosím? Ano.
+[31:43] Ano. Jo, takže
+[31:45] takže prostě pokud hoří Dublin,
+[31:47] tak to není způsobený tím, že by
+[31:49] místní si tam měčili svoje
+[31:51] město, který mají rádi, ale
+[31:53] prostě jsou to zase nějaký přestěhovalci, kteří se
+[31:55] přidali k těm protestům a pomalu je přebírají.
+[31:57] Tak jako jsem vám to říkal, že takhle
+[31:59] to na západě vždycky vypadá, jakmile lidi začnou
+[32:01] protestovat, tak se tam přidají uprchlíci
+[32:03] a začnou to pomalu přebírat tím, že
+[32:05] jakmile je někde chaos, tak začnou dělat
+[32:07] násilí, rabovat, měčit věci
+[32:09] a tu demonstraci přeberou, protože
+[32:11] ty slušný lidi jdou domů, protože
+[32:13] se bojí. Tak tohle
+[32:15] z toho vypadá, že další země, která
+[32:17] nebo další město, který hoří, další
+[32:19] země, která se začíná dostávat
+[32:21] do chaosu. Turecko
+[32:26] vyslalo do Černého moře svou
+[32:28] první plovoucí platformu na
+[32:30] zpracování zemního plynu s
+[32:32] názvem Osman Gazi.
+[32:34] Rozvoj domácí těžby má posílit
+[32:36] energetickou soběstačnost. Podle
+[32:38] tureckého prezidenta Edvana
+[32:40] by měla platformat v roku
+[32:42] 2027 příspět ke
+[32:44] zdvojnásobnění denní produkce
+[32:46] zemního plynu až na 20 milionů
+[32:48] metrů krychlových. V navýšení
+[32:50] těžby by mohl zemní
+[32:52] plyn z domácích zdrojů
+[32:54] zásobovat až každou třetí tureckou
+[32:56] domácnost.
+[32:58] Tak jako jsou to dvě zprávy v jednom.
+[33:00] Samozřejmě to první je dobrý, že
+[33:02] Turci mají nějakou takovou
+[33:04] plošinu a začínají sbírat
+[33:06] víc plynu, to je super.
+[33:08] Pro Turky to je určitě taky dobrý.
+[33:10] Já jsem nebyl v Turecku. V Turecku jsem nebyl možná
+[33:12] 20 let, nebo jak je to dlouho.
+[33:14] Dřív jsem tam jezdil obchodně, nevím, jak to tam
+[33:16] dneska vypadá. Asi se tam zajdu
+[33:18] podívat, nemám to daleko. Zajímá mě to.
+[33:20] A určitě Tureckou dělalo
+[33:22] velký pokrok. Na druhou stranu, jestli se
+[33:24] ta plošina jmenuje Osman Gazi,
+[33:26] tak to trošičku taky naráží na to,
+[33:28] že prezident Erdoğan není
+[33:30] prezidentem, který by byl
+[33:32] zastáncem příliš
+[33:34] nějaké sekularizace, ale spíš
+[33:36] tíhne k těm předkům, kteří byli
+[33:38] pro Islámskou republiku.
+[33:40] To taky si nemyslím, že je úplně
+[33:42] dobrý vzkaz, že se to jmenuje
+[33:44] po nějakém osmanském králi.
+[33:46] Že se to jmenuje po nějakém osmanském králi.
+[33:48] Dokonce jeho palác on si
+[33:50] dělá ve stylu
+[33:53] těch muslimských
+[33:55] vládců dřívějších,
+[33:57] co se týče Erdogana. Zatím můžeme být rádi,
+[33:59] že teda politiku dělá takovou, jakou
+[34:01] dělá, ale u těch
+[34:03] islámských zemí je jeden problém. Dokud jsou
+[34:05] sekularizované, tak ještě
+[34:07] nějakým způsobem to jde. Ale
+[34:09] jakmile začnou přecházet k tomu,
+[34:11] že by chtěli mít islámské právo,
+[34:13] tak to začíná zavánět barbarstvím
+[34:15] a samozřejmě potom je to velmi nebezpečné
+[34:17] i pro nás. A Turci,
+[34:19] když si představíte, kolik mají
+[34:21] buněk v Rakousku
+[34:23] nebo kolik mají v Německu lidí,
+[34:25] tak pro Evropu, jako z hlediska
+[34:27] bezpečnosti, je to velmi nebezpečné. Já si představ,
+[34:29] kdyby se rozpoutala
+[34:31] nějaký větší konflikt
+[34:33] ve Evropě, jak už to dneska hoří,
+[34:35] ve velké části západní
+[34:37] Evropy. Představte si, že se
+[34:39] do toho zapojí pár takovýchto muslimských
+[34:41] lídrů a třeba takový Erdogan vyhlásí,
+[34:43] že je potřeba
+[34:45] mobilizovat cíly
+[34:47] islámské v Evropě.
+[34:49] Kdyby to nedej Bůh, že došlo tak daleko,
+[34:51] že by vyhlásil někdo z nich
+[34:53] z těleckých muslimských lídrů nebo
+[34:55] všichni pohromadě, že ty evropské
+[34:57] vlády jsou proti nim, že
+[34:59] mají obsahit policejní stanice. No ani to
+[35:01] nechci domýšlet, tyhle scénáře.
+[35:03] Prostě západní Evropa je velmi nebezpečný
+[35:05] místo v tuhle chvíli a
+[35:07] Česká republika by měla co nejrychleji
+[35:09] opustit tuhle tu hořící
+[35:11] loď. OK.
+[35:15] OK se neříká,
+[35:18] Zuzko. Každý třetí člověk, se kterým
+[35:20] mluvím, mi říká vždycky,
+[35:22] Láďo, to je super, jak mluvíš, nebo některý, co
+[35:24] mi vykají, to je super, jak mluvíte, ale neříkejte
+[35:26] prosím vás pořád OK.
+[35:28] Zuzko má poslouchat, my jsme český vlastenci, neříkejte OK.
+[35:30] Říkám, omlouvám se,
+[35:32] prostě sleduju pořád nějaký
+[35:34] zprávy v angličtině,
+[35:36] s manželkou občas taky mluvíme anglicky,
+[35:38] že já jsem v
+[35:40] Británii, tak prostě já jsem se tu nějak
+[35:42] naučil, nemějte mi to zaznit, takže
+[35:45] já se omlouvám, a s Zuzkou
+[35:47] to je samozřejmě legrace, protože my si OK
+[35:49] říkáme, Zuzko, dobrý ráno, jak jsi se
+[35:51] vyspala, ona říká OK, a ty
+[35:53] OK, takže my jsme úplně na OK.
+[35:55] Že ho vím, Zuzko.
+[35:57] Určitě, my dva jsme prostě OK.
+[35:59] My jsme OK, tak pojďme dál.
+[36:01] Spojené arabské emiráty
+[36:03] se po dohodě se Saudskou Arabí
+[36:05] znovu zapojí do konfliktu
+[36:07] v Jemenu. Podle informací
+[36:09] denníku The Guardian, který se
+[36:11] odvolává na jemenské zdroje, budou
+[36:13] emiráty nadále finančně
+[36:15] podporovat vybrané provládní
+[36:17] jednotky bojující proti putýjským
+[36:19] povstalcům na jihu země.
+[36:21] Dohoda má zajistit pokračování
+[36:23] financování těchto ozbrojených síl
+[36:25] a potvrzuje přetrvávající
+[36:27] vliv Spojených arabských emirátů
+[36:29] na vývoj konfliktu v Jemenu.
+[36:31] Takže další
+[36:33] země se připoje do vojenského konfliktu.
+[36:35] No nevím, jestli to je OK, nejsou v tom
+[36:37] Saudové samy, ale prostě
+[36:39] je jiný, co to znamená, že bude víc mrtvých,
+[36:41] víc bomb, víc penět do zbraní,
+[36:43] víc zničený infrastruktury.
+[36:45] A jestli to dojde nakonec tak daleko,
+[36:47] že si začnou odpalovat, nebo si začnou
+[36:49] tam navzájem měčit to ocelovací
+[36:51] zařízení na vodu, tak budou ty lidi umírat žízný,
+[36:53] protože nebudou mít co pít.
+[36:55] Moře se pít nedá. A když nebudou
+[36:57] mít co pít, tak začnou utíkat směrem
+[36:59] Hary, tak kam?
+[37:03] Kam?
+[37:05] Kam? No Zuzko, ty jsem slyšel,
+[37:07] že máš velkej pokoj, že máš velkej byt,
+[37:09] že tam máš asi pět volných pokojů, takže
+[37:11] tobě bys tam vešla asi tak třicet osm
+[37:13] migrantů z Saudské Arábie,
+[37:15] z Emirátu a z Jemenu.
+[37:17] Takže kam myslíš, že by
+[37:19] utíkali, no? Do Prahy?
+[37:21] Nevěř všemu, co se říká.
+[37:23] No do Berlína, že jo,
+[37:25] do Prahy, do Drážďan,
+[37:27] do Bratislavy, do Varšavy,
+[37:29] prostě všude. Nemyslete si,
+[37:31] proboha, že budou chodit,
+[37:33] tak jak se to tady vždycky říkalo, ne, my jsme
+[37:35] v pohodě, oni chtějí do Německa, jo? Oni chtějí
+[37:37] do Německa, ale Evropská unie je právě proto,
+[37:39] aby nechodili jenom do Německa.
+[37:41] Udělala migrační pakt, aby
+[37:43] ty lidi prostě, když tady
+[37:45] zůstanou, tak aby dostali radítko, kde
+[37:47] musí být a řeknou
+[37:49] 20 tisíc Česká republika, vy si je rozdělte
+[37:51] a půjde to 3 tisíce do Budějs,
+[37:53] 3 tisíce do Ostravy, 3 tisíce
+[37:55] do Olomouce, 10 tisíc
+[37:57] do Prahy, tam se to spláhne, no
+[37:59] a takhle si je tam
+[38:01] rozdají a podle toho ty lidi, kde
+[38:03] budou bydlet, tak tam budou dostávat ty sociální
+[38:05] dávky, chápete? Takže oni nebudou
+[38:07] moc odjezt do Německa, protože tam je nedostanou,
+[38:09] ty sociální dávky, oni je dostanou tam, kde budou přidělený.
+[38:11] No, protože to bude dobře fungovat, tak
+[38:13] za 3 měsíce přijede Andrej Babiš z Evropské unie
+[38:15] a řekne, jo, super,
+[38:17] no, prostě, tak
+[38:19] musíme být solidární, že jo, takže dalších
+[38:21] 30 tisíc a takhle to prostě
+[38:23] bude, jo. A jestli
+[38:25] začnou chodit po milionech do Evropské unie,
+[38:27] protože se tam mydlí na tom
+[38:29] Blízkém východě, tak víte, že
+[38:31] vždycky ty krize byly spojeny s nějakou válkou,
+[38:33] že jo, ty migrační krize, tak ale
+[38:35] to nebyly takovýhle války, jako je dneska,
+[38:37] je to obrovská válka. A jestli
+[38:39] se rozjede fakt jako třeba na odcelovací zařízení,
+[38:41] nebo ty lidi nebudou mít kde bydlet, nebo tam
+[38:43] začne zuřit nejenom
+[38:45] válka ve smyslu
+[38:47] nějakých raket na různá vojenská
+[38:49] zařízení, ale začnou se, začne se
+[38:51] utočit na civilisty, no tak to uvidíte,
+[38:53] kolik milionů se zvedne a půjde do Evropy.
+[38:55] No a máme tady migrační
+[38:58] pák, Německo je plný, tam už není kde bydlet,
+[39:00] jo, tam spousta lidí
+[39:02] prostě nemá kde bydlet,
+[39:04] spousta lidí nemá kde bydlet. A u nás
+[39:06] je spousta, teď samozřejmě to, že
+[39:08] Zuzka má pět volných pokojů, jsem
+[39:10] jako vystřelil nějakou legraci, jo, ale
+[39:12] spousta z vás má
+[39:14] třeba druhý byt, nebo
+[39:16] třetí byt, nebo čtvrtý byt,
+[39:18] jo, protože třeba
+[39:20] vaši rodiče šetřili a nakoupili
+[39:22] vám nějaký byty, abyste měli z čeho
+[39:24] žít z nějakých pronájmů, nebo jste vydělali
+[39:26] nějaké peníze, a ty byty třeba
+[39:28] nemáte pronajatý,
+[39:30] vždycky, no tak je budete mít pronajatý,
+[39:32] nebo máte nějaký hotel, který třeba
+[39:34] je prázdnej, no, se podívejte, jak
+[39:36] to dělali v Německu, prostě jako v
+[39:38] okamžiku, kdy ty miliony půjdou, tak
+[39:40] dokonce prostě nemáme
+[39:42] uzavřený hranice, tak
+[39:44] Evropská unie je příjme
+[39:46] a rozdá je k nám.
+[39:50] Přesně tak. Polský premiér
+[39:52] Donald Tusk uvedl, že
+[39:54] některé země Evropské unie zvažují
+[39:56] snížení výdajů na
+[39:58] obranu. Polsko je však,
+[40:00] se je však snaží přesvědčit,
+[40:02] aby od těchto plánů
+[40:04] ustoupili a naopak posílili
+[40:06] podporu Ukrajiny. Podle
+[40:08] něj není pomoc Kijevu otázkou
+[40:10] symbolické solidarity,
+[40:12] ale především Evropské
+[40:14] bezpečnosti. Pokud Ukrajina
+[40:16] padne, už to tady máme, všichni
+[40:18] budeme čelit velmi, velmi
+[40:20] vážným problémům.
+[40:23] No, dobře, no, tak Poláci snad dávají.
+[40:25] V situaci, v které ten
+[40:27] zvrot następuje,
+[40:29] Evropa povinna...
+[40:31] ...
+[40:33] ...
+[40:35] ...
+[40:37] ...
+[40:39] ...
+[40:41] ...
+[40:43] ...
+[40:45] ...
+[40:47] ...
+[40:49] ...
+[40:51] ...
+[40:53] ...
+[40:55] ...
+[40:57] ...
+[40:59] ...
+[41:01] nějakou dobu s ní, cestoval jsem tam s ním, tak jsem si všiml,
+[41:04] že Poláci opravdu nenávidí Rusy, to není jako u nás v České republice,
+[41:08] oni je historicky nenávidí, takže se vůbec nedivím tomu,
+[41:11] že se jako takhle strašně tlačí do té války, do toho konfliktu,
+[41:14] tam je to jednodušší to prosadit, než v České republice.
+[41:17] V České republice už spousta lidí taky nenávidí Rusko,
+[41:20] ale to je nějaká propaganda, která ovlivnila mozky lidí
+[41:23] v těch posledních letech, ale Poláci je nenávidí jako dlouhodobě,
+[41:26] takže tam jsou přirozeně další na řadě, hned po těch Ukrajincích
+[41:31] a možná společně s Litvou Estonském a Estonském,
+[41:34] Litvou Lotyšském a Estonském, ale to, že se bojí tadyhle
+[41:40] Donald Tusk, nebo kdo to byl, omlouvám se, ale neviděl jsem,
+[41:43] protože to bylo malý odkaz, když to mám z telefonu,
+[41:46] tak Donald Tusk, tak jako nemusíte se bát jako Donalde,
+[41:51] nemusíte se bát, protože může velký kapitál,
+[41:56] kamarád Andreje Babiše, oni byli spolukamarádi,
+[41:59] když když byl premiér jako Holandská Mark Rutte
+[42:02] a prostě dostaneme to Befelem, no to není tak,
+[42:06] že to záleží na nás, to dostaneme Befelem,
+[42:09] a protože Andrej Babiš a Petr Pavel zakázali Čechům,
+[42:13] že bychom mohli spekulovat nad tím, že bychom vystoupili z NATO,
+[42:17] že si to jako nezasloužíme, že jsme nebyli dost hodný,
+[42:21] aby jsme mohli udělat nějaký referendum,
+[42:23] tak nám to Takíčkové Babiš a Pavel zakázali,
+[42:26] nevím, jako pro mě to je nepochopitelný,
+[42:29] jako co my jsme prostě za, co my jsme za bandu jako zoufalců,
+[42:34] jako my českých chlapy v tomhle věku, v mém věku,
+[42:37] protože to nemůžou udělat 20-letí kluci nebo 30-letí kluci,
+[42:41] jsou mladí na to, ty ještě nechápou, od co dá,
+[42:43] nemají tu zodpovědnost. Na nás je ta zodpovědnost
+[42:45] na prostě chlapech v mém věku a nechápu,
+[42:49] co my jsme za zoufalce, že si prostě tohleto necháme.
+[42:53] Samozřejmě nemůžu mluvit úplně o sobě,
+[42:55] protože se proti tomu stavím každý den veřejně,
+[42:58] ale prostě mluvím za celou naší generaci v České republice
+[43:02] a prostě se stydím, hluboce se stydím za to,
+[43:04] co jsme za zbabilce.
+[43:09] Takže tady nám taky Čech Babiš ze Slovenska
+[43:12] a taky Čech Petr Pavel, původně agent nebo rozvědčík
+[43:18] pro Sovětský svaz, poté rozvědčík pro NATO a pro Ameriku,
+[43:22] zakázali vystupovat z NATO.
+[43:24] No takže my budeme prostě plnit a ještě média budou psát,
+[43:28] jo my si plníme a politici sádají, a vy jste nesplnili,
+[43:33] a my plníme, jo a teď těli kdyžkoli ten Babiš,
+[43:36] tam píšou na těch sociálních, ten Babiš ten je skvělej,
+[43:38] on plní, my si plníme, ten skvělej, to je lhář,
+[43:42] my si přece plníme.
+[43:44] No tak není to jenom prostě jako zbabilectví,
+[43:49] jako se nepostavit, no podle mě to je úplný zoufalství.
+[43:52] No možná bych někdy řekla,
+[43:54] až idioci, když vidím ty lidi, jak se pijou za to,
+[43:56] že plníme, že posíláme peníze prostě do NATO,
+[44:00] no takže opravdu se nebojím úplně toho,
+[44:02] že bychom přestali posílat peníze do NATO.
+[44:07] Nebo co si o to myslíš ty, Zuzka,
+[44:09] protože připadá ti to, ty jsi žena,
+[44:11] tak jako ženy nejsou tady od toho,
+[44:13] aby bojovali za takovýhle věci,
+[44:14] od toho jsou tady muži, aby se postavili takovýmhle zloduchům,
+[44:17] který ničí zemi.
+[44:18] No ale co si o to myslíš ty, jak nás vnímáš,
+[44:20] jako nás, jako český kluky?
+[44:24] To nechceš slyšet.
+[44:25] Nechci to slyšet, dobře,
+[44:27] tak ty máš samozřejmě na to právo kritizovat,
+[44:29] protože ty jsi statečná žena,
+[44:31] která víc než půl roku každej den
+[44:32] i k zvoděm bojuje za tenhle národ,
+[44:34] takže ty samozřejmě na to máš právo,
+[44:36] keď by bylo víc takových statečných lidí jako si ty.
+[44:38] Pojďme na další zprávu, Zuzko.
+[44:41] Děkuju.
+[44:43] Náčelník britské armády,
+[44:44] generál Cyr,
+[44:45] že političní představitelé
+[44:48] představitelé Spojeného království
+[44:50] brzy zahájí
+[44:51] z veřejnosti otevřenou diskusi
+[44:54] o přípravách na možný válečný konflikt.
+[44:57] Podle generála
+[44:58] musí být v britské občané připravení
+[45:00] přinášet oběti,
+[45:13] klást větší důraz
+[45:15] na obranu a bezpečnost
+[45:16] a aktivně podporovat
+[45:18] ozbrojené síly.
+[45:19] Zdůraznil, že odpovědnost
+[45:21] za bezpečnost země
+[45:22] neleží pouze na armádě,
+[45:24] ale také na celé veřejnosti.
+[45:27] No, velmi zkráceně,
+[45:30] jestli jsem to dobře slyšel,
+[45:32] tak jestli jsem dobře slyšel,
+[45:35] co si Zuzko četla v té zprávě,
+[45:37] tak jde o to, že se mají lidi připravit na válku
+[45:39] a že musí aktivně bránit svoji zemi.
+[45:41] Ne? Asi takhle.
+[45:43] Asi takhle.
+[45:46] Brzy zahájí z veřejnosti
+[45:47] otevřenou diskusi
+[45:48] o připrávách na válečný konflikt.
+[45:52] To je super. A to není jedinej,
+[45:54] prostě to je nějakej britský generál,
+[45:55] tohleto?
+[45:56] Jo, náčelník britské armády,
+[45:58] generál Sýr,
+[45:59] dokonce Volker.
+[46:02] Ty kráso.
+[46:04] Už aby Johnny Volker odchází,
+[46:05] už aby ho nešel, ale obávám se,
+[46:07] že není jedinej, to slyšíme prostě
+[46:09] z politických krůvů, to slyšíme prostě
+[46:11] v Británii víc a víc.
+[46:13] Je to trošku těžko pochopitelný,
+[46:14] Británia je poměrně daleko od Ruska,
+[46:16] ale tam to vypadá, že
+[46:18] s tou společností pracují
+[46:20] velmi tvrdě v tom,
+[46:23] že Británie se má chystat
+[46:24] na válku. To skoro nevím nikde jinde,
+[46:26] že Británie takhle
+[46:28] otevřeně s níma mluví o tom, že bude brzo válka
+[46:30] s Ruskem. Nejdříve v České republice
+[46:33] je to tak,
+[46:34] že kdyby válka nikdy neměla být
+[46:36] v České republice a právě proto je to
+[46:38] možná pro mě ještě víc děsivý.
+[46:40] Protože když ty země otevřeně mluví o tom,
+[46:42] že se mají lidi chystat na válku s Ruskem,
+[46:46] když mlží a snaží se předstírat,
+[46:48] že žádná taková věc nehrozí,
+[46:50] žádný takový rizik. Možná je to kvůli tomu,
+[46:51] aby ti lidi nevyplašili, aby jim
+[46:53] z republiky nevzmizeli dřív,
+[46:56] než vláda vyhlásí, že jsou zavřené hranice.
+[46:58] No, nevím, pojďme na další zprávu.
+[47:01] Americký prezident Donald Trump
+[47:03] podepsal exekutivní přikaz,
+[47:05] kterým pozastavil
+[47:07] rozsáhlý balík nových sankcí
+[47:09] proti ruské ekonomice.
+[47:11] Rozhodnutí zdůvodnil národním zájmem
+[47:13] Spojených států.
+[47:14] Sankce měly zahrnovat až 100%
+[47:16] na největší odběratelé
+[47:19] ruské ropy a plynu, včetně Číny
+[47:21] a Indie a postihli
+[47:23] ruských bank i představitelů.
+[47:26] Ruský vyjednávač
+[47:27] Kyril Dmitriev označil krok za historický
+[47:29] okamžik a ukrajinský
+[47:31] prezident Volodymyr
+[47:33] Zelenský naopak varoval, že
+[47:34] oslabení sankcí povzbudí
+[47:37] Putina k dalším útokům.
+[47:40] Tak říkal jsem vám,
+[47:41] že náčekají tři týdny,
+[47:43] jaksi oddechnutí si
+[47:45] a nějakého optimismu, protože
+[47:47] ve Spojených státech je krátce
+[47:49] před volbami a Donald Trump, který se
+[47:51] dostal do funkce mimo jiné tím, že slíbil,
+[47:53] že nebude dělat války, že bude mírový prezident
+[47:55] a válku na Ukrajině zastaví během 24 hodin,
+[47:58] že on je ten jediný,
+[47:59] kdo dokáže tu válku zastavit,
+[48:01] tak má týkom před volbama, protože
+[48:03] prostě nesplnil prakticky
+[48:05] žádnou věc z těchto zásadních
+[48:07] geopolitických otázek
+[48:08] a zdražil život američanům
+[48:10] díky tomu, že rozjíždí další války,
+[48:12] tak se snaží s nějakým způsobem
+[48:14] napravit reputaci, takže
+[48:15] Kyril, kdo to byl,
+[48:19] který tam z Ruska
+[48:20] to tak nějak velmi chválil?
+[48:23] Kdo to byl?
+[48:24] Kyril Dmitriev.
+[48:26] Kyril Dmitriev.
+[48:27] Kyril Dmitriev je vyjednaváč za Rusko.
+[48:29] Jo, jo, jo, omlouvám se, jsem dneska unavený,
+[48:31] my jsme do půl pátý hráli kulečníky,
+[48:33] my jsme byli s kamarádyma z Čech za náma,
+[48:35] přijeli na návštěvu a čtyři dny
+[48:37] jsme s nima cestovali, hledali jsme jim nemovitosti
+[48:39] a včera jsme hráli do rána kulečník.
+[48:43] Jsem trošku unavený,
+[48:44] ale myslím si, že se
+[48:45] ten pan Kyril
+[48:47] vyjednaváč
+[48:49] trošičku jako zbytečně,
+[48:52] veřejně ukazuje,
+[48:54] že ten historický okamžik,
+[48:56] on to možná i historický okamžik je,
+[48:57] ale on ten historický okamžik může velmi brzo opadnout,
+[49:00] protože oni budou brzo v holbi
+[49:02] ve Spojených státech
+[49:03] a prostě už jsme to viděli
+[49:05] u Donalda Trumpa,
+[49:08] jakým způsobem to probíhá. Před volbami je to
+[49:10] mírotvůrce a velmi
+[49:12] chce napravit
+[49:14] všechnou škodu, kterou
+[49:15] Spojené státy
+[49:16] způsobili
+[49:19] a po volbách najednou už nechce,
+[49:21] po volbách dělá další a další války, takže
+[49:24] tenhle historický okamžik, samozřejmě to je
+[49:26] historický okamžik v tom, že Spojené státy
+[49:28] zrušili sance, taky Petr Maďar,
+[49:31] který je
+[49:31] nejvypočítavějším
+[49:34] politikem
+[49:35] v Evropské unii
+[49:36] z těch významných, kdybych počítal
+[49:39] i ty bezvýznamný, tak bych řekl, že je na stejný úrovni
+[49:42] jako Jindřich Rejko,
+[49:43] tak hned řekl, že se k tomu
+[49:45] připojuje, že v podstatě, když může
+[49:48] Donald Trump, tak Maďarsko by taky chtělo mít
+[49:50] aspoň na rok zrušení
+[49:51] ze sankcí, což je docela zvláštní,
+[49:54] protože Andrej Babiš včera mluvil o tom,
+[49:55] že Donald Trump nás všechny podrazil
+[49:57] s tím, že chce rušit sankce,
+[50:00] takže v Evropské unii se nám to
+[50:01] taky maličko rozchází, vidíte, že
+[50:03] každej si hraje pro sebe to, co chce.
+[50:06] Petr Maďar potřebuje
+[50:08] ropu
+[50:09] kvůli tomu, že má mol a mol
+[50:11] mimo jiné
+[50:13] taky se dohodl na odkoupení nise
+[50:15] srbského, takže tam se jedou velký biznesy
+[50:18] v naftě, v benzínu.
+[50:20] Andrej Babiš zase dělá
+[50:21] zemědělství, takže ten potřebuje zase dotace
+[50:23] do zemědělství, takže každej si jedete
+[50:25] tak trošičku na svým písečku,
+[50:27] ale nebojte se, ono jim ta Evropská unie všechno
+[50:31] pohodě. A co se týče Donalda Trumpa, že zrušil
+[50:34] sankce, tak to vidím čistě jenom jako
+[50:35] předvolební gesto, aby se zalíbil
+[50:37] veřejnosti v Americe,
+[50:39] aby vypadal jako mírový
+[50:42] prezident, který to
+[50:43] urovnává s Ruskem.
+[50:45] A je to zajímavé, že vždycky, když ty
+[50:47] politici se chtějí zalíbit lidem, tak jakoby
+[50:49] dělají dobrý vztahy s Ruskem.
+[50:52] Ale když my
+[50:53] děláme demonstraci za urovnání vztahu
+[50:55] s Ruskou federací, tak jsme ty nejhorší.
+[50:57] A když projdou
+[50:59] volby, tak ty lidi jsou zase najednou strašně
+[51:01] proti Rusku. No tak mi by
+[51:03] z toho vyplývalo, že většina
+[51:05] lidí by chtěla mít s Ruskem dobrý
+[51:07] vztahy. Co si o to myslíte vy?
+[51:11] Co si myslíš ty, Rusko?
+[51:12] Je moje logika špatná?
+[51:14] No já si myslím, že je perfektní, že?
+[51:17] Proč ty politici
+[51:20] vždycky před obama mluví o tom, že budou ty země
+[51:22] suverénní a že
+[51:24] Evropská unie je špatná, že se nesmí
+[51:26] oporávat Evropský unii, že je potřeba mít dobrý
+[51:28] vztahy s Ruskem, nebo minimálně
+[51:30] proč k němu nebojovat a dělat mír?
+[51:33] Protože to je to správný.
+[51:35] Teď to babiši tady spočítali, že jo?
+[51:37] No, no, spočítali mu to
+[51:39] málo, měli mu to... Málo, no, ale...
+[51:41] Jako kdyby bylo pomím,
+[51:43] jo, tak bych si vzal nějakej
+[51:44] karabáč nebo bejsbolovou pálku
+[51:46] a takhle bych mu to před záda
+[51:48] začal počítat. Samozřejmě
+[51:50] na náskence, jo, protože mám takovou náskénku,
+[51:53] tam vystí Andrej Babiš
+[51:54] jako zrádce, takže bych tím
+[51:56] karabáčem jako do té náskénky, jo, nemyslete
+[51:58] si, že bych jako sánul Andreja
+[52:00] Babiše, no, bych v životě jako
+[52:02] neudělal a ani bych nikoho k tomu nevyzýval,
+[52:04] no. Na náskénku, pěkně si ho pověřte na náskénku
+[52:07] a takhle
+[52:09] mu nadejte tím karabáčem
+[52:10] a pak si byste podívat do zrcadla
+[52:12] a napište si tam takhle zbabilec.
+[52:18] Pardon.
+[52:20] Izraelskí osadníci v sobotu
+[52:22] napadli diplomatickou delegaci
+[52:24] na okupovaném západním břehu Jordánu.
+[52:27] Mezi jejimi členy byly
+[52:28] také zástupci Polska, Francie a
+[52:30] Belgie. Podle stanice
+[52:32] Al Jazeera, která se
+[52:34] odvolává na izraelský vojenský rozhlas,
+[52:37] útočníci okličili
+[52:38] vozidla diplomatu a rozbili jim
+[52:40] okno na jednom
+[52:42] z automobilů.
+[52:44] Zuzko, dobře,
+[52:46] jenom doplním jednu věc, než dočteme
+[52:48] ty osadníky v Izraeli,
+[52:50] on to taky není až zas tak důležitý, ale
+[52:52] s tím Andrejem Babišem,
+[52:54] někdo si teďka může říct, Ládě vrábil,
+[52:57] lidský Ládě říkal, že
+[52:58] pro nenásilnou revoluci, když on je nenásilný
+[53:00] a teď tady mluví o tom, že si
+[53:02] na zeď pověsí Andreje Babiša a mládí ho
+[53:04] nějakým karabáčem.
+[53:06] Dokážete si uvědomit,
+[53:08] zakolik životů je zodpovědný
+[53:10] ten člověk. Nejenom v COVIDu s těma
+[53:12] vakcínama, ale zakolik životů
+[53:14] teďkon v té válce. Víte, kolik životů
+[53:16] rovná se poslat
+[53:18] Ukrajině peníze na to, aby pokračovala
+[53:20] v té válce? Kolik
+[53:22] Ukrajinců je každej den vyvražděno?
+[53:24] Kolik Rusů každej den je vyvražděno?
+[53:27] Kolik lidí zemře?
+[53:28] Kolik lidských životů to je
+[53:30] každý den, že to pokračuje?
+[53:33] A pokračuje to jenom proto, že
+[53:35] ty politici nedělají to, co slíbili.
+[53:37] Kdyby neposílali tomu
+[53:39] spanatizovanému
+[53:40] nacistickému režimu Zelenského, který slouží
+[53:43] těm zájmům těch globalistů
+[53:45] peníze, tak by ta
+[53:47] válka skončila.
+[53:49] Ta válka, to není tak, že tam
+[53:51] ty globalisty sunou svoje peníze.
+[53:53] Oni tam sunou naše peníze.
+[53:55] A o tom rozhodují ty politici.
+[53:57] To oni tam nedávají svoje peníze.
+[53:59] To není tak, že přijde BlackRock a řekne,
+[54:00] tak zainvestujeme 200 miliard dolarů
+[54:03] do války na Ukrajině.
+[54:04] Ne. BlackRock přijde a řekne,
+[54:07] premiér v České republice
+[54:09] by mohl být Andrej Babiš za podmínky,
+[54:11] že bude dělat všechno, co mu nařídíme.
+[54:13] A potom nařídí, no tak teď
+[54:15] Evropská unie dá 90 miliard
+[54:17] eur Ukrajině na zbraně.
+[54:20] A z čeho?
+[54:20] No z veřejného rozpočtu.
+[54:23] Z peněz občanů.
+[54:24] Oni to dělají z našich peněz,
+[54:26] oni to nedávají ze svých peněz.
+[54:28] Takže tohleto je to, co prostě těm politikům
+[54:31] jednoznačně přičítám,
+[54:34] že oni díky tomu,
+[54:36] že rozhodují o našich penězích,
+[54:37] že naše peníze jdou přímo na zbraně
+[54:39] do toho konfliktu, tak díky tomu
+[54:41] obyčejní lidi umírají,
+[54:43] protože ty obyčejní lidi tam chytají
+[54:45] a posílejí do toho masouninku.
+[54:47] Celý tenhle systém funguje jenom díky tomu,
+[54:49] že ty politici rozhodují proti lidem.
+[54:52] Takže myslím si,
+[54:53] že to neznamená, že bych byl
+[54:55] nějak jako agresivní
+[54:57] nebo nespravedlivý, nebo násilný,
+[54:59] protože člověk, který je zodpovědný
+[55:00] za životy tolika lidí,
+[55:03] si myslím, že když ho přetáhnete
+[55:05] párkrát karabáčem po zádech,
+[55:07] když vysí na náskence,
+[55:08] takže to není moc, že to není ani příliš,
+[55:11] že to dokonce není ani dostatečný,
+[55:13] že to není ani spravedlivý,
+[55:15] že by prostě zasluhoval větší trest,
+[55:17] než přetáhnout po zádech
+[55:19] karabáčem na náskence.
+[55:20] No možná, možná
+[55:22] nějaký soud by ho mohl
+[55:24] odsoudit nakonec, a myslím si,
+[55:26] že se to docela možná stane, až ta válka skončí,
+[55:28] že tyhle politiky budou soudit
+[55:30] za to, za tu válku celou.
+[55:33] Protože ta válka nevzniká sama,
+[55:34] to není tak, že válka je nadhodělá věc.
+[55:36] Tu válku dělají konkrétní lidi,
+[55:38] kteří ji podporují, a na konci
+[55:40] té války je docela možný, že budou souzený za to.
+[55:44] OK, pojďme dál.
+[55:45] Jenom jsem chtěl říct, nemyslete si, že jsem
+[55:47] nějakej násilník. Rozhodně nejsem násilník.
+[55:49] Jede o to, aby tam prostě neumírali další lidi.
+[55:52] A aby se to nerozroslo do
+[55:53] konfliktu na území České republiky.
+[55:55] Aby neumírali lidi u nás.
+[55:57] Protože pak bude pozdě. A pak
+[55:59] můžete říkat, co chcete, že Andrej Babiš
+[56:01] učinil špatný rozhodnutí.
+[56:03] Andrej Babiš udělal špatný rozhodnutí, a pak
+[56:05] budou umírat lidi.
+[56:07] To je to důležité. Ty politici
+[56:09] mají obrovskou zodpovědnost, protože oni rozhodují
+[56:11] o životech lidí.
+[56:13] A nemělo by to být tak, že jsou
+[56:15] nedotknutelní, že jsou beztrestní.
+[56:18] To by neměly být, protože
+[56:19] ty lidi trpí skutečně.
+[56:22] Ty lidi, který umírají,
+[56:23] to je skutečné utrpení.
+[56:25] Pro ty politiky je to nějaký rozhodnutí,
+[56:27] že jede do Bruselu a řekne, ano, my souhlasíme
+[56:29] 60 miliard
+[56:30] eur na zbraně. Ale každá
+[56:33] ta zbraní zabíjí lidi.
+[56:36] OK, omlouvám se, jsem když z úzkosti
+[56:37] točil do izraelských osadníků, klidně
+[56:39] pojďme zpátky k tý zprávě.
+[56:42] Ne, pokračujeme. V Polskě, v Ratislavě
+[56:44] byla na staveništi
+[56:45] objevená německá letecká bomba
+[56:47] z druhé světové války a toho
+[56:49] hmotnosti přibližně 250 kilogramů.
+[56:53] Kvůli jejímu zneškodnění
+[56:54] bude v úterý
+[56:55] 20. října evakováno přibližně
+[56:58] 3000 obyvatel. Ještě
+[57:00] teď se tam nacházejí bomby.
+[57:01] Jsem zvědavá, jaké bomby se budou nacházet
+[57:04] po válce na Ukrajině.
+[57:05] Jo, to je přesně to, čím je to zajímavý.
+[57:07] Prostě Vroclav, krásný město,
+[57:09] tam je tisíc kytar, nebo jak se to jmenuje
+[57:11] festival Vroclav je krásný město.
+[57:15] Myslím, že to je ve Vroclavě,
+[57:16] že to není,
+[57:17] že to není,
+[57:20] myslím, že to je ve Vroclavě.
+[57:22] Ale to není důležité.
+[57:23] Co je důležité, je to, co říká Zuzka.
+[57:25] No, podívejte se, 80 let po válce
+[57:27] tady musí evakovat 3000 lidí,
+[57:28] protože se najdou nějaké staré bomby
+[57:30] a my tady máme, my tady máme co?
+[57:33] My tady máme dneska,
+[57:35] tady máme dneska zaminovávání
+[57:37] území někde v Polsku, že jo?
+[57:40] Ruská federace
+[57:41] chce udělat teďko pruh
+[57:43] nějakých 660 kilometrů
+[57:45] na území
+[57:47] v podstatě Ukrajiny bývalého
+[57:49] dneska, nebo tam někde, jakoby
+[57:51] mezi Ukrajinou a Ruskem
+[57:52] nějaký demilitarizovaný území.
+[57:55] Bůh ví, jak to tam bude vypadat, jestli to bude
+[57:57] jenom pod kontrolou vojáků, nebo jestli to tam
+[57:59] zaminovou. No a to
+[58:00] rakety prostě, jako se vyrábí
+[58:03] pořád dál a dál.
+[58:05] Takže je to škoda, že jsme se nepoučili
+[58:07] aspoň tý druhý světový válce.
+[58:09] A bohužel není to jenom o těch zbraních,
+[58:11] ale kolik
+[58:13] Zuzko v druhý světový válce umřelo lidi?
+[58:15] 50 milionů? Něco takovýho, ne?
+[58:18] Hmm, 52.
+[58:20] 52 milionů,
+[58:21] to je strašný číslo.
+[58:23] 52 milionů, to není jako
+[58:25] 52 tisíce, ale to by bylo, i to by bylo
+[58:27] hodně, ale 52 milionů,
+[58:29] to je přece pět českých republik.
+[58:32] Prostě vygumovaný.
+[58:33] A teď tady rozježdíme
+[58:36] válku, když máme úplně
+[58:37] jako x násobně
+[58:39] jako horší možnosti
+[58:41] vraždění. V dnešní technologie
+[58:43] vyvraždování,
+[58:45] v dnešní technologie jaderných zbraní
+[58:47] a vůbec rychlost raket
+[58:49] a to, jakým způsobem šířit ty
+[58:51] šířit ty zbraně,
+[58:53] je prostě úplně někde jinde.
+[58:55] My tady riskujeme, že prostě se vyhladíme
+[58:58] mezi sebou navzájem.
+[58:59] A ty politici, který ty války pořád
+[59:01] rozjíždí a pořád dělají válečnou
+[59:03] rétoriku, tak my je tam necháme,
+[59:05] my je tam dokonce volíme. A ty novináře,
+[59:08] který si říkají novináři, který dělají
+[59:09] každej den válečnou propagandu,
+[59:11] my je tam necháme. Víte, co řekla moje babička
+[59:13] poslední, než zemřela? Viděli jste možná
+[59:15] to video, možná vám ho znovu pustím.
+[59:17] Ona tak ležela na tý smrtelný postej,
+[59:19] vám to pustím. A moje
+[59:21] babička, která mě vychovávala, kterou mám
+[59:23] prostě jako nejradši,
+[59:25] tak říkala, když jsme se bavili,
+[59:27] a už mluvala trošku pomalu
+[59:35] že by ho pověsila za žebro.
+[59:38] Tak jsem ji jako poslouchal, protože moje babička
+[59:40] je vždycky jako byla míromilovná,
+[59:41] milá babička, prostě nejlepší.
+[59:44] A nikdy bych nevěděl,
+[59:46] že je násilná. Říkám,
+[59:47] jak to myslíš? Ona říká, jo,
+[59:50] za žebro. Myslela tím
+[59:51] jako pověsit za žebro na strom. A nedivím
+[59:54] se tomu, když potom vidíte ten zmar
+[59:55] a to utrpení a vidíte, že jsou
+[59:58] za to zodpovědní lidi, kteří si hrají
+[59:59] na nějaký hogo fogo důležitý,
+[01:00:01] že v oblekách jezdí na nějaké zkusky
+[01:00:03] a rozhodují o životech a smrti
+[01:00:05] milionu a milionu lidí,
+[01:00:07] tak se jí vůbec nedivím, proč ona to zažila.
+[01:00:12] A už budu pozitivnější. Dneska
+[01:00:14] začínám být trošku tmavý a negativní,
+[01:00:15] začnu být pozitivní. Víš, Zuzka?
+[01:00:17] No nevím, nebudeš mít čas? Já tady mám poslední
+[01:00:20] zprávu. Super, úra!
+[01:00:24] Rumunské letectvo
+[01:00:25] podle tamního ministerstva obrany
+[01:00:27] se střelilo dva bezpilotní letoviny
+[01:00:30] nad rumunskými
+[01:00:31] hodami stíhačky.
+[01:00:34] Stíhačky vzletly
+[01:00:36] v 16.43
+[01:00:37] ze základní...
+[01:00:39] V 16.43, jo? To je paráda.
+[01:00:42] Že takhle brzo jako vznikly.
+[01:00:44] No počkej.
+[01:00:46] A radary je teda zachytili, jak dva
+[01:00:48] neznáme vzdušné cíle,
+[01:00:50] přibližně 120 km východně
+[01:00:52] od Hadího
+[01:00:54] ostrova. Oba objekty
+[01:00:56] byly identifikované jako drony a během
+[01:00:58] čtyř minut se střeleny.
+[01:01:01] Původ bezpilotních letovnů
+[01:01:02] zatím nebyl určen.
+[01:01:03] Ten Hadího ostrov mají...
+[01:01:05] Rusko.
+[01:01:07] Rusko. Rusko.
+[01:01:08] Ne, Ukrajinci.
+[01:01:09] A Ukrajinci. A ještě nebylo
+[01:01:11] obviněné Rusko, jo?
+[01:01:14] Zatím nebylo, ale Hadího
+[01:01:16] ostrov mají Ukrajinci, tak když to letělo
+[01:01:18] v Hadího ostrova.
+[01:01:20] A jak je ty radary zachytily, to je super
+[01:01:22] taky, že jo? A ty stíhačky, že se do toho
+[01:01:24] trefí jako, jo? To je takovej dron maličkej,
+[01:01:26] ono to letí rychle. Ta stíhačka letí
+[01:01:28] rychle jako kráva.
+[01:01:30] A stejně se do toho trefí. Paráda. Prostě
+[01:01:32] skvělá zpráva. Jsem strašně jako rád
+[01:01:34] a nadšený, že se mi se po...
+[01:01:36] že se jim to povedlo, jo? To je velmi pozitivní.
+[01:01:38] To je super. Jako to by
+[01:01:40] mohlo být častější. On o tom taky konec
+[01:01:42] konců už mluvil. Náš generál
+[01:01:44] Pavel, náš skvělej prezident, jo?
+[01:01:46] V Americe pro
+[01:01:48] CBC, nebo pro kterou stanici, nebo
+[01:01:50] Fox News. A říkal, brzy
+[01:01:52] přijde čas, kdy mi ty ruský bezpilotní
+[01:01:54] prostředky, nebo ty letadla
+[01:01:56] začneme sestřelovat. Tak je super,
+[01:01:58] že ty Rumunie jako toho zaslechli. Takhle
+[01:02:00] je ovo toho našeho prezidenta v Americe.
+[01:02:02] A že už jako jak vidí nějaký ty
+[01:02:04] drony, který tam letí, mimo jejich
+[01:02:06] území, no tak oni si tam už takhle
+[01:02:08] zaletí jako, tak to zamíří, dvěstě
+[01:02:10] kilometrů, dvacet takhle na dávku, zachytí
+[01:02:12] to, pic, a prostě to pěkně sestřelí.
+[01:02:14] Paráda. Skvělá zpráva.
+[01:02:16] Ještě nějaký drony někde někdo sestřeloval
+[01:02:18] dneska?
+[01:02:20] Ještě v Moldavsku nějak
+[01:02:22] se tam nějakých pět dronů objevilo,
+[01:02:24] nebo co? Pět dronů, to jsou
+[01:02:26] troškady ty Moldavci, pět dronů
+[01:02:28] sestřelovali. A to byli nějaký ruský, ale ne?
+[01:02:30] Fuuu, člověče,
+[01:02:32] asi ono. Protože
+[01:02:34] označilo
+[01:02:36] intendencia vážnou hrozbu pro bezpečnost
+[01:02:38] a samozřejmě
+[01:02:40] obvinilo Rusko.
+[01:02:42] No, asi ne ty rusové,
+[01:02:44] no, ale oni jsou taky skvělí,
+[01:02:46] ne, ty rusové. Jo, oni mají ty
+[01:02:48] jet drony, ty konti rychlý, to
+[01:02:50] lítá rychle, tak to je taky paráda.
+[01:02:52] To je prostě jako popcorn, no,
+[01:02:54] takhle vzít si popcorn, koukat na to a dívat
+[01:02:56] se na ty hvězdní války, jo, takhle
+[01:02:58] potom. Jo, jako v televizi,
+[01:03:00] představte si to jako 3D, jo,
+[01:03:02] až potom takhle poletí jako ten dron okolo
+[01:03:04] vás, tak jenom takhle vezmete tam popcorn,
+[01:03:06] fuuu, to bylo o kousek.
+[01:03:08] A támhle až to bouchne takhle jako,
+[01:03:10] jo, teďko nevím, kde dělaj teďko
+[01:03:12] Škodovka, nevím kde se to,
+[01:03:14] jak se to jmenuje ta Škodovka,
+[01:03:16] no musel bych se podívat, no to je někde telefon, nemám.
+[01:03:18] Ale v jedný Škodovce
+[01:03:20] takhle kousek támhle
+[01:03:22] upí, jak se to tam jmenuje,
+[01:03:24] no někdy vám to řeknu, teď tam
+[01:03:26] zrovna jako zakázali lidem, aby
+[01:03:28] tam jezdili zaměstnanci, protože tam je velká
+[01:03:30] schůze a chtějí tam teďko plánovat
+[01:03:32] výrobu dronů, jako jo, ve Škodovci
+[01:03:34] je to tam jako teďko. Není to
+[01:03:36] v plzeňský Škodovce, ani to není v Marii
+[01:03:38] Boleslavě, jak se to tam jmenuje,
+[01:03:40] jedna z těch Škodovek továrných, tak se tam budou vyrábět
+[01:03:42] teďko ty drony, jako jo,
+[01:03:44] tak, nevím, jestli
+[01:03:46] jste mě říkat, no to je tajný, ale
+[01:03:48] tak si představte, jako že tam bydlíte
+[01:03:50] takhle u toho, takhle, a teď prostě
+[01:03:52] bum, takhle, jo,
+[01:03:54] ráno, tak si říkáte, super, prostě
+[01:03:56] ještě nějakej popcorn, tyvej, tamhle to bouchlo,
+[01:03:58] teď koukáte,
+[01:04:00] vysklený okna, tak si řeknete, no to jsem si
+[01:04:02] myslel, že mám pevnější okna, no ale
+[01:04:04] parágny zůstal stát, a teď
+[01:04:06] zase tamhle další, bum, jo, tak si říkáte,
+[01:04:08] doufám, že tam neměli nějaký
+[01:04:10] ty rakety ASMP,
+[01:04:12] jo, že tam neměli nějaký ty francouzský
+[01:04:14] Rafaly, protože to potom, jako
+[01:04:16] kdybysme tady měli ten řip, to bych si musel
+[01:04:18] dát víc popcornu, protože
+[01:04:20] to by byla podívaná, to tady ještě v
+[01:04:22] Český republice nebylo, jako jaderný výbuch,
+[01:04:24] to bych si to musel pořádně
+[01:04:26] užít, teda, no, takže jsem
+[01:04:28] pozitivní, vidíš to zůstal, jsem pozitivní
+[01:04:30] jako Andrej Babiš, akční a pozitivní.
+[01:04:32] Super.
+[01:04:36] Super.
+[01:04:39] Ok, tak
+[01:04:43] co, tak na závěr jsem to
+[01:04:45] zvládnul být pozitivní,
+[01:04:47] určitě, určitě jsem
+[01:04:49] zvědavý, jestli Andrej Babiš si najde taky čas na to,
+[01:04:51] v celém tom schonu omlouvat se
+[01:04:53] za to, že se mu rozpadej krajský
+[01:04:55] základny, že neuspěli
+[01:04:57] v senátních volbách, že
+[01:04:59] by si mohl najít taky čas na tu naši
+[01:05:01] trojvýzvu, mě by docela zajímalo, jak se k tomu
+[01:05:03] vláda postaví, jestli vůbec
+[01:05:05] nám odpoví, protože když jsme chtěli sundat
+[01:05:07] ukrajinskou vlajku z Národního muzea,
+[01:05:09] podepsali to asi
+[01:05:11] 14 000 lidí, plus asi
+[01:05:13] 13 zástupců různých politických
+[01:05:15] stran a hnutí a skupin,
+[01:05:17] tak vláda se k tomu vůbec nevyjádřila,
+[01:05:19] přestože má povinnost se k tomu vyjádřit
+[01:05:21] podle zákona, tak uvidíme, jestli
+[01:05:23] tahle vláda se k tomu nějakým způsobem vyjádří.
+[01:05:25] Jsem na to opravdu zvědavý
+[01:05:27] a jsem zvědavý, jak se na to, jako,
+[01:05:29] jak se k tomu vyjádří, k tomu, že
+[01:05:31] nechceme mít jaderné zbraně v České republice.
+[01:05:33] OK, přátelé, to je asi všecko
+[01:05:35] dneska, Zuzko.
+[01:05:37] Ano, to byla poslední stráva.
+[01:05:39] Jako už asi 80.
+[01:05:41] týden, Kuse,
+[01:05:43] ti děkuji za to, že jsi zase celý týden
+[01:05:45] připravoval a neúnavně od pondělí do soboty
+[01:05:47] každý den po práci zprávy.
+[01:05:49] Zuzka je neuvěřitelná,
+[01:05:51] ona prostě od rána, od brzo od rána
+[01:05:53] pracuje, chodí do práce,
+[01:05:55] prostě když přijde z práce, skoro pozdě večer,
+[01:05:57] tak jde připravovat zprávy
+[01:05:59] a někdy ještě spolu řešíme
+[01:06:01] nějaké další záležitosti, co je udělat
+[01:06:03] potřeba a přípravu,
+[01:06:05] někdy i do půlnoci a pak zase
+[01:06:07] ráno vstává, takže vůbec nechápu, jak to
+[01:06:09] Zuzko děláš, v každém případě
+[01:06:11] máš můj obrovský respekt,
+[01:06:13] díky ti za to. Vám děkuju
+[01:06:15] přátelé za sledování, kolik tady máme?
+[01:06:17] 613 lidí vidím dobře?
+[01:06:19] Já vidím 630.
+[01:06:21] 630 lidí, tak
+[01:06:23] jsem rád, že tady máme pořád 630
+[01:06:25] lidí, ale jestli to bude pokračovat takhle,
+[01:06:27] že budeme pořád do kisicovky, tak to brzo
+[01:06:29] zabalíme, protože přesto, že vás
+[01:06:31] máme rádi, těch několik tisíc lidí, který
+[01:06:33] sleduje zprávy, ale jako to
+[01:06:35] je potřeba, aby se na to
+[01:06:37] dívalo trošičku víc lidí, aby to mělo
+[01:06:39] cenu takhle jako obětovat každý den
+[01:06:41] x hodin života,
+[01:06:43] takže asi budeme muset začít platit nějakou
+[01:06:45] reklamu, aby se o tom lidi dozvěděli, protože
+[01:06:47] naše lidi vypadaj, že buďto se koukaj
+[01:06:49] na zprávy, ale nemají ochotu to nikde
+[01:06:51] sdílet, no protože to vidíme
+[01:06:53] vždycky nějakých 300 sdílení,
+[01:06:55] anebo se bojí,
+[01:06:57] to je možný, že se bojí,
+[01:06:59] anebo prostě mají bany různý, že se to
+[01:07:01] nešíří organicky dál, takže asi budeme
+[01:07:03] muset platit jako reklamu, možná
+[01:07:05] dělat na to nějaký plagáty, billboardy,
+[01:07:07] internetovou reklamu, aby se o zprávách
+[01:07:09] dozvědělo víc lidí,
+[01:07:11] protože jediný, jak to má smysl, že nás
+[01:07:13] bude hodně, tak jediný, jak to má smysl.
+[01:07:15] OK, nevadí.
+[01:07:17] Zamyslíme se nad tím ještě, přátelé, v každém
+[01:07:19] případě děkujeme za každý sdílení,
+[01:07:21] děkujeme za každý komentář
+[01:07:23] a mějte se hezky, uvidíme se asi
+[01:07:25] v pondělí u zpráv v 9 s komentářem
+[01:07:27] a zítra vy z vás, který
+[01:07:29] máte rádi,
+[01:07:31] když si Láděv Rábel
+[01:07:33] jen tak povídá do větru,
+[01:07:35] nebo povídá s lidma, tak
+[01:07:37] když si povídá s lidma, protože někdy přemýšlím,
+[01:07:39] jen tak do větru, ale
+[01:07:41] u nedělního vysílání si povídám s váma,
+[01:07:43] tak když budete chtít si se mnou zítra popovídat,
+[01:07:45] tak prosím vás, pěkně zkuste si připravit
+[01:07:47] na mě i nějaký komentář,
+[01:07:49] co mi chcete říct, nebo jestli se mě nejco
+[01:07:51] chcete deptat, protože jsem poslední asi 4
+[01:07:53] vysílání nedělní
+[01:07:55] skoro neodpovídal na žádný
+[01:07:57] dotazy, tak zítra bych zkusil
+[01:07:59] odpovědět, jestli máte nějaký
+[01:08:01] dotaz na to, co vás
+[01:08:03] trápí, pokud budu vědět, nebo jestli
+[01:08:05] na to budu mít nějaký názor.
+[01:08:09] Tady někdo píše, a Fico v Srbsku nebude,
+[01:08:11] Fico v Srbsku byl včera,
+[01:08:13] takže to bylo ve zprávách včera.
+[01:08:15] Uvěřte, Fico v Srbsku byl
+[01:08:17] a víte, že Aleksandr
+[01:08:19] vůči, že proti němu se začaly
+[01:08:21] formovat ty protesty, ten studentský
+[01:08:23] pokret. A bylo to potom,
+[01:08:25] co asi před třemi lety,
+[01:08:27] myslím, že teď na podzim, že by to měly být tři
+[01:08:29] roky, jestli si dobře vzpomínám, v Novým
+[01:08:31] Sadu spadla střecha autobusového
+[01:08:33] nádraží, ale jenom taková ta postranní
+[01:08:35] střížka, protože to tam bylo špatně
+[01:08:37] ukotvené, to je historická budova, špatně
+[01:08:39] to udělali, nebylo to
+[01:08:41] kvůli korupci, prostě to někdo udělal chybu,
+[01:08:43] někdo to špatně spočítal, špatně
+[01:08:45] udělal. Padlo to na hlavu lidem
+[01:08:47] a zabilo to nevím jestli třináct lidí,
+[01:08:49] jestli si dobře vzpomínám. Dvanáct asi.
+[01:08:51] Dvanáct lidí.
+[01:08:53] Globalisté z západu to hned využili
+[01:08:55] a začali finančně podporovat protesty.
+[01:08:57] A začali vytvářet protesty proti
+[01:08:59] Aleksandru Vůčičovi a udělali obrovský
+[01:09:01] protesty proti Vůčičovi a
+[01:09:03] poprvé v historii, co pamatuju, se podařilo
+[01:09:05] rozdělit lidi v Srbsku.
+[01:09:07] Na základě toho rozděl a panuj.
+[01:09:09] Pro Vůčiča a proti Vůčičovi.
+[01:09:11] A to ve velkým, to ve velkým.
+[01:09:13] Je to prostě hrozná věc a ve velkým.
+[01:09:15] Ale nepodařilo se rozdělit lidem,
+[01:09:17] lidi v tom, že by byli pro Srbsko
+[01:09:19] nebo pro globalismus. Ne, všichni jsou pro Srbsko.
+[01:09:21] Pro Evropskou unii je opravdu jenom
+[01:09:23] hrstka lidí. A tyhle ty protesty
+[01:09:25] začaly v Novém sadu,
+[01:09:27] protože tam spadla ta střecha.
+[01:09:29] A teď v té předvolební kampani,
+[01:09:31] která je, tak Aleksandru Vůčičovi
+[01:09:33] veřejně
+[01:09:35] ty lídři různě vzkazovali,
+[01:09:37] protože ten lídr studentského pokretu
+[01:09:39] dokonce odmítnul ji do duelu
+[01:09:41] s Aleksandrem Vůčičem. A nejenom on,
+[01:09:43] ale i další z toho vedení toho studentského pokretu
+[01:09:45] odmítnul ji do televize, do duelu.
+[01:09:47] Takže si velmi jako poškodili
+[01:09:49] u Srbů.
+[01:09:51] A pořád vzkazovali Vůčičovi,
+[01:09:53] že se bojí přijít do Novýho sadu,
+[01:09:55] že tam nepůjde. Tak Vůčič přišel
+[01:09:57] do Novýho sadu, šel pěšky,
+[01:09:59] za ním DAF lidí
+[01:10:01] a proti němu přišel Robert Fico,
+[01:10:03] odjel ze summitu Rady Evropy
+[01:10:05] z Bruselu předčasně,
+[01:10:07] opustil ho a byl podpořit
+[01:10:09] právě Aleksandra Vůčiče, šel proti němu,
+[01:10:11] pak se potkali, objímali se,
+[01:10:13] on mu veřejně vyjádřil podporu
+[01:10:15] a Vůčič šel na ten jeho předvolební
+[01:10:17] meeting. Ale to si nedokážete
+[01:10:19] představit, jak vypadal. My tu nemáme obrázek,
+[01:10:21] omlouvám se, neposlal jsem ho do zpráv.
+[01:10:23] Ale tam bylo lidí,
+[01:10:25] řekl bych, tak tolik, jako bylo 3.10.
+[01:10:27] na Václováku,
+[01:10:29] když tam bylo tolik lidí, že nemohli lidi
+[01:10:31] fermentat cigareto, jak tam byly lidi,
+[01:10:33] prostě brutální masy,
+[01:10:35] davy lidí, takže Aleksandra Vůčič
+[01:10:37] má obrovskou podporu a Robert Fico
+[01:10:39] je zrovna ten, kdo ho přijel osobně podpořit
+[01:10:41] v tom nejtěžším městě,
+[01:10:43] což je Nový Sad.
+[01:10:45] Za mě to je všechno, přátelé, mějte si krásně,
+[01:10:47] nebo ještě máme nějakou
+[01:10:49] zprávu? Nemáme.
+[01:10:53] Zuzka už má vyplnit mikrofon,
+[01:10:55] ta už si nedělat krásnou neděli.
+[01:10:57] Že nám tady
+[01:10:59] režie dala obrázek,
+[01:11:01] nebo jestli jsi viděl,
+[01:11:03] neviděl? Viděl jsem, že tady
+[01:11:05] nějaký obrázek je.
+[01:11:07] Kolik Kosova u vás nikdy nezradíme,
+[01:11:09] Fico vyslal Srebskou jasný zkaz.
+[01:11:11] No, ale ještě bych vám přál vidět ten obrázek,
+[01:11:13] kde jsou opravdu ty 10 000 lidí namačkaný,
+[01:11:15] jako, takže
+[01:11:17] Aleksandra Vůčič absolutně vyhrál
+[01:11:19] Nový Sad, jako veřejně,
+[01:11:21] takže doufám, že to bude,
+[01:11:23] že to budou pro něj vítězné volby,
+[01:11:25] doufám, nechci říct hop, dokud nepřeskočíme,
+[01:11:27] ale doufám, že to tak bude.
+[01:11:29] To by byl výzbytek sobotního večera,
+[01:11:31] jdu se trošičku vyspat,
+[01:11:33] protože, jak říkám, do rána jsme hráli kulečník
+[01:11:35] do půl pátý, vyhráli jsme,
+[01:11:37] no, vyhráli jsme 3-1,
+[01:11:39] a zítra snad budou už odpočatý
+[01:11:41] a čerstvější na nedělnu živý vysílání,
+[01:11:43] takže se na vás těším zítra v 9.
+[01:11:45] Hezký večer. Navidenou.

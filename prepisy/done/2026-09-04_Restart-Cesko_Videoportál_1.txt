@@ -1,0 +1,38 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Restart Cesko
+URL:          https://www.facebook.com/61586055215179/videos/948382398305621
+Datum videa:  2026-09-04
+Zpracováno:   2026-09-05 11:12:46
+Jazyk:        cs
+Délka:        00:00:50
+Zhlédnutí:    8 924
+Popis:        Nesmíme zapomínat, co je Vojta Pšenák za člověka. Sice udělal vtipné video s panem Macinkou, ale na jeho vyjádřeních to nic nemění.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    0s
+Přepis:       12s
+Rychlost:     4.0x realtime
+Celkem:       12s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] No jste s nimi manipulativní, jako byl ten pán, který už tady naštěstí není, že?
+[00:03] Naštěstí? Je podle vás dobře, že ho zastřelili?
+[00:05] Tak mohlo to přijít dřív, ale...
+[00:07] Mohlo to přijít dřív. Tato slova vyšla z úst českého Vojty Pšenáka,
+[00:11] který se nestydil za to, že schvaloval vraždu aktivisty na druhé straně bariéry, než je on.
+[00:16] Toto individuum si dokázalo nalákat Petra Macinku na rozhovor
+[00:19] a média to teďka řeší, jak je Petr Macinka neopatrný.
+[00:22] Ale řekněte mi, kdy média řešila, když tento odporný člověk schvaloval vraždu cizího člověka,
+[00:28] protože nesouhlasil si jeho názory.
+[00:30] Samozřejmě, že to neotiskla, přitom oni by to měli zdiskreditovat a říct, že je to špatně,
+[00:34] protože to nesedí k chvilkařskému narrativu, té lásky, kterou všude žíří.
+[00:38] Víte, to tý demonstraci uškozovalo a oni to přesto nechtěli řešit.
+[00:42] Tak mi řekněte, proč řešíte Petra Macinku, který šel k němu do rozhovoru,
+[00:45] ale neřešíte Vojtu Pšenáka, který pobíhá venku a říká takovéhle odporné věci.

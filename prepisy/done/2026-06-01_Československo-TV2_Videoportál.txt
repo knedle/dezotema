@@ -1,0 +1,1720 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Československo TV2
+URL:          https://m.facebook.com/watch/?v=1646370926452785&_rdr
+Datum videa:  2026-06-01
+Zpracováno:   2026-06-03 07:40:46
+Jazyk:        cs
+Délka:        00:56:49
+Zhlédnutí:    156
+Popis:        1/6 Webinář firmy WELL ZONE, 19:00:
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    31s
+Přepis:       10m 19s
+Rychlost:     5.5x realtime
+Celkem:       10m 51s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Takže krásný dobrý večer všem v Československu a kdekoliv, kde jste se připojili na dnešní webinář,
+[00:20] protože dneska, aniž bychom si to se Štefanem uvědomovali, tak je very special datum 1. června,
+[00:30] kdy opravdu už se to zdá tak dlouho, byla Salzburg Arena nabitá k prasknutí a od té doby se událo spousta věcí,
+[00:45] takže pokud můžu vysvětlit to, proč jsem se tady objevil, tak samozřejmě měl jsem něco na práci v tom mezidobí od roku 2020,
+[01:00] v podstatě do teďka jsem se stal youtuberem, s donucení bojoval jsem s covid mafia,
+[01:09] dokonce jsem se dostal i do vazby, do vězení na Slovensku, v Česku, takže jsem ochutnal všechnu tuhletu medicínu,
+[01:22] která byla proti mně použitá, ale samozřejmě jsem po očku pořád sledoval,
+[01:29] co to je?
+[01:30] dělá ten bláznivý švýcár, čím se to zabývá a nepřestal jsem ho sledovat.
+[01:41] A v podstatě všimnul jsem si, že je tam nějaká mašinka Activation V,
+[01:49] která jede na bázi frekvencí, který nahradí v podstatě celou tady tu alopatickou
+[01:58] medicínu, všechny tady ty chemikálie a chemický produkty rockefellerovskýho druhu,
+[02:08] zabodávačky, vočkovačky, to všechno půjde pryč a bude vlastně, co se týká zdraví,
+[02:17] bude na bázi frekvencí. Ale pořád to pro mě nebyl ten hlavní důvod,
+[02:25] proč se objevit na webináři.
+[02:28] Ale co byl úplný masakr bylo, že mi Štefan vlastně v květnu poslal na otestování
+[02:39] ty kafé pody, to jsou pro ty, který neví, tak to nejsou kapsle, ale jsou to zalizovaný...
+[02:49] Ale...
+[02:50] Já vám říkám, že...
+[02:52] Já vám říkám, že...
+[02:54] Já vám říkám, že...
+[02:54] Já vám říkám, že...
+[02:56] Já vám říkám, že...
+[02:57] Jen jedna poprava,
+[02:59] Sandra se ním štěstí,
+[03:00] ale nech happy to mět,
+[03:02] víš, kdo Sandrasny nezná,
+[03:06] musím ti,
+[03:07] osobně,
+[03:08] tady,
+[03:09] ona tu teď nezprávě nemá,
+[03:10] protože je to krásná operace,
+[03:13] víš?
+[03:14] Já to vím.
+[03:15] Musím tě z týmství zaštěstí
+[03:17] v této skvalé komunitě,
+[03:21] která má velkou hodnotu
+[03:22] a hodně musí dělat.
+[03:24] Teď vaši story,
+[03:26] Líbe grise nach Riga, Lettland und gute Besserung, Sandra.
+[03:33] Das wünsche ich hier von Tschechien.
+[03:36] A já to jenom dořeknu, že kafe bylo obrovský téma pro mě,
+[03:43] protože od roku 1993 jsem byl vlastníkem restaurace,
+[03:52] italský restaurace, pizzerie a to, co vlastně během trénování tenisu ve Vídni
+[04:01] jsem rád dělal, tak jsem chodil k Italům a u nás ta gastronomie vypadala
+[04:07] úplně šíleně v 90. letech, tak jsem neměl nic blbějšího za nápad,
+[04:13] než že uděláme pizzerie. A pro mě byl vždycky takový úkaz,
+[04:22] že to muselo dobře všechno vonět kávou, takže postupně jsme se vyzbrojovali,
+[04:29] co se týká kafe, na top level profesionální La Marzocco,
+[04:37] kafémašína GB5, stála 12-14 tisíc možná euro,
+[04:44] k tomu Malkénik profesionální kávovar, k tomu top,
+[04:52] už v té době jsem věděl, ale východní Němci, kde jsem to kupoval,
+[04:58] v Drážďanech, tu espresso mašinu, tak nikdy nebyly tradiční národ na espresso.
+[05:05] Ale zjistil jsem, že v případě, že se káva praží na nižší teploty,
+[05:13] že se doslova jako neusmaží, tak přesně takhle oni vyráběli kafe,
+[05:22] jsem odebíral do restaurace už někdy před 20 lety
+[05:28] a byl to rozdíl oproti těm renomovaným průmyslovým značkám,
+[05:34] kde jsme testovali Illy, Lavazza, Segafredo, Hausbrand,
+[05:41] všechno možné jsme zkoušeli, ale to, že se to bralo z malý manufaktury,
+[05:49] kde to pražili na...
+[05:52] na nižší teploty, tradičním způsobem,
+[05:55] tak jak to Štefan představoval v německém webináři,
+[06:01] tak to byl ten zásadní rozdíl v chuti a lidi to oceňovali
+[06:07] a teď vlastně minulej týden jsme oskoušeli a otestovali kávu Wellzone k tomu.
+[06:17] Dal Štefan ten příběh, hele, je to tradiční,
+[06:22] nyní italská manufakturka, žádná velkovýroba,
+[06:27] vy vyrábějí to na tradičním místě a k tomu mají napasovanou mašinu,
+[06:36] kafé Makína, kterou si můžete zbalit do kufru, vzít sebou do kanceláře,
+[06:44] na dovolenou doma a užít si kafé, který jinak,
+[06:49] troufám si říct sedle ten odhad,
+[06:51] nedostanete v devadesáti devíti procentech restaurací v takovýhle kvalitě,
+[06:59] protože jako gastronom vím, že můžete mít super kafémašinu,
+[07:05] můžete mít super mlínek, záleží na nastavení a Italové to nastavují i podle počasí,
+[07:14] jo, jaký je tlak, tak podle toho se štoluje mlínek, pak můžete mít superkávovou směs,
+[07:20] ale pořád je tam ten lidskej faktor, že vám dobře neupěchujou tu dávku číšníci
+[07:28] a celý snažení je v pytli, že to kafé prostě není ono.
+[07:33] A teď jako na malým mašině pro domácí užití, kde Stefan teda říkal,
+[07:41] že je unikátní spolupráce firmy, která vyrábí tuhletu mašinu, kterou má v ruce,
+[07:49] tradičním způsobem, že to není žádná čínská velkovýroba, že je to furt made in Italy
+[07:58] a stejně tak je i tohleto kafé, tak to preso z toho výjde prostě jako v top nejlepší restauraci,
+[08:10] protože jak se chcete odlišit, Coca-Cola všude stejná, voda, taky ty rozdíly nevidíte,
+[08:18] možná pivečko, že máte dobrý a vinotéku, ale kafé, to už je prostě ruční výroba.
+[08:27] A teď si vemte, že když jdete si vychutnat kávu do kavárny,
+[08:33] tak v současný době zaplatíte 2-3 euro za kávu a nemusí být tak dobrá,
+[08:43] jako si ji uděláte v konstantní kvalitě.
+[08:48] Takže jdete doma, na cestách, na dovolení, kdekoliv, u sebe, na terase, na zahradě,
+[08:58] v altánku, vevnitř, prostě kdekoliv, to je obrovská výhoda,
+[09:05] protože ty profesionální mašiny, ty jsou těžký jak blázen,
+[09:09] ale kancelář to utáhne úplně v pohodě, tady ta malá mašinka,
+[09:15] ale máte naprosto konstantní kvalitu toho kafe.
+[09:19] Tak jsem řekl, tak možná je na čase, že už teď proti covid mafii jsme vyhráli,
+[09:26] jenom to musí proběhnout, že už Československo v rámci dohod,
+[09:33] které budou uzavřené, mírové, myslím, bude taky skoro už upečené.
+[09:40] Tak jsem říkal, no tak že už by byl čas,
+[09:43] že by se ten zítko zase vrátil k tomu, že by nejenom, říkal,
+[09:50] bacha na ty injekce, nejsou oskoušený, může to být průšvih,
+[09:56] a co jsem říkal už od roku 2020, tak že by přišel s něčím,
+[10:01] co těm lidem může pomoct s jejich konkrétním problémem zdravotním,
+[10:08] nekouřit, třeba kdo to zkouší, Stefan je toho důkazní,
+[10:12] já už tady mám dva testovací objekty, na kterých to budeme zkoušet,
+[10:19] no a je tam i kvalita spánku, i ta psychická mlha,
+[10:27] nebo něco, co u některých lidí je, a když si vymete,
+[10:31] že by Activation V jenom fungoval pro kuřáka, tak je tam excelentní
+[10:40] return of life.
+[10:43] Invest, protože pokud budete kouřit v našich zemích,
+[10:47] ve Švýcarsku je to ještě horší, v našich zemích jednu krabičku denně,
+[10:52] tak za měsíc to máte zpátky, ten náklad tady na tuhletu mašinku,
+[10:59] která dělá spoustu dalších věcí, pokud budete kouřit půl krabičky denně,
+[11:04] a tohoto zlo, zvyku, i když některý říkaj, hele, výborný italský espresso,
+[11:11] nemůže být bez cigárky.
+[11:13] Může, protože Štefan je toho důkazem.
+[11:17] Tak máte za dva měsíce navrácený tenhle náklad jenom v cigaretách,
+[11:24] a to nemluvím o těch pozitivech, že vyběhnete z chody,
+[11:28] nebo zadžogujete si podstatně lépe, než když kouříte.
+[11:33] Takže to je takovej můj úvod, co mě přesvědčilo,
+[11:37] protože pořád jsem sledoval, co se děje, ale v podstatě pro mě,
+[11:42] jako letitýho gastronoma italský restaurace,
+[11:48] tak kafe byl prostě zásah na komoru do Černýho,
+[11:54] protože opravdu můžete mít velmi snadno špičkovej produkt,
+[12:01] který můžete mít doma kdekoli po ruce,
+[12:04] protože i na tý blbý benzínce dáte dvě nebo tři eura za kafe,
+[12:10] a prostě zdáváte.
+[12:11] Prostě zdaleka to není ono jako tohleto,
+[12:16] protože vím, jaký rozdíly jsou v Itálii v kavárnách,
+[12:23] protože Línie, ta dálnice Turistico, tak tam mají úplně jinou kafe,
+[12:30] než zajedete někam dovnitro zemí Toskána, kdekoliv,
+[12:35] tak ať se to jmenuje jakkoliv ta pražírna,
+[12:39] tak vždycky tam měli lepší kávu,
+[12:42] než když se jelo ta hlavní štreka na jich Itálie dolů tou botou.
+[12:49] Takže tohleto pro mě úžasnej trh,
+[12:54] úžasnej trh jenom v Československu.
+[12:58] Si uvědomte, že se vypije 25 až 30 milionů kafí každej den.
+[13:09] To je obrovský potenciál pro všechny ty,
+[13:13] kteří si řeknou, chci pít lepší kafe.
+[13:18] Chci pít skoro to nejlepší,
+[13:21] protože ten rozdíl není v ceně jako Škoda Fabia a Rolls Royce.
+[13:30] Když to srovnáváte, tak to není o tolik dražší.
+[13:36] Půjdete se do třetinový ceny nebo poloviční ceny,
+[13:42] kterou máte v restauraci, ale máte to doma.
+[13:47] Máte to ve svém ambiente a máte to kdykoliv,
+[13:52] kde dostanete chuť na skvělou italskou kávu,
+[13:57] kterou můžete doporučit svým známým.
+[14:00] A to je ještě jedna z věcí, kterou mi Štefan řekl.
+[14:04] Pokud to doporučíte pěti lidem, kteří by chtěli pít lepší kávu,
+[14:11] tak máte tuhle kávičku vy osobně gratis.
+[14:16] Takže myslím si, že úžasná strategie, nabídka,
+[14:22] velmi jednoduchá prezentace pro to, abyste to poslali dál,
+[14:28] abyste za to doporučení získali nejen produkt zdarma,
+[14:33] ale i významný podíl na tomto obrovském trhu s kafíčkama,
+[14:40] které v některých případech jsou opatřené žábou,
+[14:46] a tím bych asi skončil, která úplně není vhodná pro lidské zdraví
+[14:52] a vůbec není vhodná ke konzumaci.
+[14:55] Takže tohle jsou hlavní rozdíly, hlavní benefity a myslím si,
+[15:01] že spousta produktů se pro vás ještě jenom chystá
+[15:07] a že tohleto je jenom začátek a úplně jako Peckově to přišlo
+[15:13] na termín před sedmi lety na Salzburg Arena
+[15:19] a 1.6.2026 může odstartovat nová etapa v tom, že pro vás budou,
+[15:31] připravovaný, vyzobávaný špičkový produkty,
+[15:36] ze kterých budete mít velký benefit a v tomhletom top levelu
+[15:43] prostě budete moct fungovat dál, protože ta nabídka,
+[15:52] která se bude dolaďovat a ta vize, která tady je, je ojedinělá
+[16:00] součástí toho týmu, který bude přinášet produkty,
+[16:06] které pro vás budou mít vysokou užitnou hodnotu.
+[16:11] A tím bych skončil a to by byl můj úvod a vlastně dneska jsem tady
+[16:17] od toho, abych přikládal a abych vlastně zprostředkoval ty informace
+[16:25] od zdroje.
+[16:30] Pavel, nevím, co jsi jim všechno říkal, ale měl jsem
+[16:37] hlas, protože jsem myslel, že tohle je ten starý Pavel, který
+[16:42] ve mnohem roce s mnou měl hodně více než 10-14 milionů
+[16:48] výsledků a vždycky jsme si informovali lidem.
+[16:53] Takže velký kompliment a proto rozumím něco českého.
+[16:57] Tvoje element byl káfé, je to pravda?
+[16:59] Ano.
+[17:00] Jak jsem to určitě vzpomněl?
+[17:02] Ano, 23 roky na pizzerii.
+[17:04] Myslím si, že se vám také podívá Milan, Adécka a Alena.
+[17:11] Další lidé jsou přišli a říkají a podívají tě, Pavel,
+[17:17] velmi děkujeme. Fakt je, že společnost Welson
+[17:22] nevzpomíná kompromisy, produkty jsou jednozájemné,
+[17:26] možná chceš to převzít.
+[17:29] Takže Štefan vykládal, že pro mě soustředění bylo
+[17:35] z gastronomy na kávu, proto mě tohleto rozhodujícím způsobem
+[17:42] ovlivnilo, pozdravil účastníky webináře, které se tady objevují
+[17:48] buď tradičně, nebo jste tady úplně, úplně poprvé na Welson
+[17:54] a v podstatě teď vám projdeme.
+[17:58] Projdeme prezentaci, kde budu překládat, kde už jsem svůj statement k tomu řek
+[18:06] a kde pro vás budou a jsou připravovaný produkty, který budou pojedinělí
+[18:14] na trhu svou kvalitou, účinností a funkčností.
+[18:19] Am 20. november ist na Dezka mit Adam und mit anderen Leuten nach Thun gefahren.
+[18:28] Letztes Jahr.
+[18:29] 20. listopadu jela Nadežda s Milanem do Thunu v Loni.
+[18:37] Und sie haben das erste Mal Activation V kennengelernt.
+[18:42] A poprvé se seznámili vlastně v rámci toho podzimního startu s masinkou
+[18:49] nebo s tou kouzelnou frekvenční krabičkou Activation V.
+[18:54] Und seit November bis jetzt.
+[18:56] Und seit November bis jetzt.
+[18:57] Sie sind auch nach Deutschland gekommen und Sie haben gesehen, wie die Firma immer größer wird.
+[19:03] A sledovali den Vývoj, protože nedávno jsme se potkali v Německu u Stuttgartu
+[19:11] a sledují ten posun, jak firma se zvětšuje, expanduje.
+[19:17] Und Sie können nachschauen im Internet über Vagusnerv und Sie werden feststellen,
+[19:22] dass das die Lösung ist für viele Leute da draußen.
+[19:25] A můžete si vygooglit na internetu nebo vyspovídat umělou inteligenci, co je Vagusnerv.
+[19:35] Česky je to bloudivý nerv.
+[19:39] A co všechno vám vlastně v medicíně lékaři neříkali a zatajovali,
+[19:47] že máme určitý orgány, který fungujou a určitý procesy,
+[19:53] ale úmyslně to bylo před lidmi zatajováno.
+[19:57] Daniela hat Activation Vy, das, was ich jetzt in der Hand habe, entwickelt
+[20:02] und ich war der Test, wie sagt man, Testversuch.
+[20:06] Daniela vyvinula vlastně tady ten přístroj, kterej funguje na bázi frekvencí
+[20:15] a Stefan vlastně říkal v tom německém webináři, že byl rok a půl,
+[20:22] jako testobjekt, že se to na něm zkoušelo.
+[20:26] Und Pavel kennt mich schon viele Jahre, wenn wir auf der Bühne waren,
+[20:31] ich war draußen am Rauchen und Pavel war am Arbeiten drinnen,
+[20:35] ich hatte das Problem mit Zigarettenrauchen, ich gebe das zu.
+[20:39] Stefan tady přiznává to, že měl trvalý problém s kouřením
+[20:46] a ze závislostí na kouření, protože když jsme měli mít,
+[20:52] nebo něco, tak já jsem byl vevnitř, vyprávěl jsem bez přestání
+[20:58] a tu a tam Stefan prostě odběhnul ven a musel si dát cigárko
+[21:05] a pak zase naskočil, takže pro něj to byla v tomhletom směru komplikace.
+[21:12] Klár je, že většina lidí má stres, nemá peníze, má problémy,
+[21:18] ale tyhle produkty, které máme tady, mohou být rozdílem.
+[21:24] Takže lidé, kteří mají problémy se stresem, nervozitou
+[21:32] i co se týká třeba finanční situace, tak tyto produkty,
+[21:40] které jsou v nabídce Wellzone, tak můžou být pro mnohé řešení.
+[21:46] Všechno je energie, to ví Pavel.
+[21:49] Všechno je energie, která se nestráví.
+[21:52] A my máme zde přesně takovou rozhodu. A vizionka je reální.
+[21:56] To znamená, že když pak dostanete link od Pavela,
+[22:00] můžete jít přímo do shopu. Mluvíme o nevizionce.
+[22:05] Všechno je v shopu, všechno je reální a všechno funguje.
+[22:09] Takže to není tak, že my přijmeme, nebo možná,
+[22:12] ale že je tam a vy budete předávat.
+[22:15] Ano.
+[22:16] A teď, co se týká aktuální situace, tak to není jenom vize.
+[22:22] Je to reálně všechno dosažitelné.
+[22:26] Tyhle ty produkty jsou všechny v shopu,
+[22:29] takže jakmile uvidíte zveřejněný link,
+[22:33] tak můžete okamžitě se mrknout do nabídky v obchodu
+[22:40] a můžete to, co vás osloví a to, co se vám bude líbit,
+[22:45] nakoupit.
+[22:46] Takže my představujeme produkty v Šváci,
+[22:50] také s laboratorem Pavelem,
+[22:52] nebo, dámy a pánové,
+[22:54] třeba třeba ten B-komplex.
+[22:57] To není B-komplex, který je z hodiny,
+[23:00] nebo z jiného firmy.
+[23:02] To je velmi náročný B-komplex.
+[23:05] Takže u výroby se spolupracuje s laboratoří,
+[23:11] tady konkrétně to, co držel tu lahvičku v Rusku,
+[23:15] je ze Švýcarska.
+[23:18] Je to tekutá forma B-komplexu,
+[23:22] takže to není to, co normálně získáte v distribuční síti.
+[23:28] A všechny další produkty
+[23:31] budete vidět v webinářích v týdnu,
+[23:35] když bude představována představování.
+[23:37] Ale všechny produkty, které jsme představovali,
+[23:40] a také kafe,
+[23:43] které jsme představovali,
+[23:45] nebyly v mém životě nejlepší.
+[23:47] To není industriální kafe,
+[23:49] ale myslím, že Pavel to už všechno rozpověděl,
+[23:52] protože on je gastronóm, on ví detaily,
+[23:56] ale ta tradice,
+[23:58] na kterou chceme žít příští roky,
+[24:01] není industriální.
+[24:03] Takže Štefan vypráví,
+[24:07] nebo teď si do ruky vzal,
+[24:09] vlastně ty dva pody,
+[24:11] kde je káva,
+[24:13] kde je italský espresso,
+[24:15] jedna verze, druhá je to delší,
+[24:18] to Lungo,
+[24:20] a říkal, že lepší kávu nepil.
+[24:23] Já jsem kafe nepil nikdy,
+[24:27] a jenom podle vůně
+[24:30] a podle senzorický,
+[24:33] podle toho, jak to vypadá,
+[24:35] tak mám ve voku, jak by dobrá káva měla být,
+[24:38] ale mám tady ochotný,
+[24:40] ochotný testující,
+[24:42] kteří to zkoušeli
+[24:44] a dospěli ke stejnému výsledku,
+[24:47] že lepší kafe, směs,
+[24:51] prostě neměli,
+[24:53] a přitom to bylo připravovaný
+[24:56] na hostujícím zařízení vlastně,
+[25:00] protože ten kávovar originál,
+[25:04] na kterým je to nastavený,
+[25:07] tak,
+[25:09] kde kooperuje firma,
+[25:11] manufaktura,
+[25:12] vyrábící tu espressomašinku
+[25:15] a ty pody,
+[25:17] tak na tom to ještě nebylo,
+[25:19] takže možná to bude ještě lepší.
+[25:22] Takže po koroně je každý otevřený,
+[25:26] a kdo není otevřený,
+[25:28] je zemřený.
+[25:29] Člověk je otevřený
+[25:31] a frekvence je rozhodnutí
+[25:34] a lifestyle a biovýznamnost
+[25:36] je rozhodnutí.
+[25:37] Takže máme link od Pavela,
+[25:39] který jsme nyní v chátě překladali.
+[25:42] Tento link můžete jen kliknout
+[25:44] a pak jste přišli do legendy.
+[25:47] Pavel,
+[25:48] to chtěl bych zkutečně říct,
+[25:50] že máme v země právě právě právě právě právě právě právě právě právě právě právě.
+[25:53] Takže spousta lidí se během operace
+[25:58] korona nebo covid-19,
+[26:00] jak chcete,
+[26:01] probudilo,
+[26:03] staly se vědomými
+[26:06] a v podstatě
+[26:08] na spoustu věcí nahlíží už dnes jinak
+[26:13] a to, co firma se snaží nabídnout, je to, co je v trendu.
+[26:18] V trendu lidi už čím dál víc si uvědomují,
+[26:22] že jsou to frekvence, které jsou pro tělo a určitý orgány důležitý
+[26:30] a samozřejmě je tam i otázka životního stylu a kvality života,
+[26:37] protože, jak jsem říkal, není takovej rozdíl pít kafe jakýkoliv
+[26:45] a nebo mít v podstatě to nejlepší, co na trhu je pro každodenní užití
+[26:54] vlastně v prostředí, který je vám blízký a je u vás doma,
+[27:00] protože nemusíte zatím běhat do restaurace, kde samozřejmě k tomu utratíte
+[27:07] spoustu dalšího a není to jenom o kávičce,
+[27:13] i když pro některý je kávička velmi důležitá.
+[27:16] A ještě jedna informace, no hajne informacion,
+[27:21] kterou vím jako gastronom, pokud vám někdo připraví špatně kávu
+[27:29] nebo pokud jste fanouškem toho klasického československého způsobu zalití,
+[27:37] turecký kávy, tak tuhletu kávu trávíte pět až osm hodin,
+[27:45] jo, protože ta vstřebatelnost, ta biofifikbarkeit, ta je velmi špatná,
+[27:52] ale pokud skonzumujete super připravený espresso, tak do jedný hodiny je totál vstřebáno všecko
+[28:04] v pořádku strávení.
+[28:07] Není tam to tlačení žaludku nebo nějaký takový ty nepříjemný věvy,
+[28:13] když opomeneme to, že navíc mám může jako výborně chutnat,
+[28:21] protože tak, jak Štefan vysvětloval, že ty průmyslový pražiny a jejich 90% jedou na 500-600 stupňů Celzia,
+[28:33] tak doslova spálí to zrno.
+[28:37] A chladí to vodou, což taky není optimální, tak tady je to mezi 100 až 200 stupni,
+[28:45] praží se to samozřejmě delší dobu a je to chlazený tradičně vzduchem.
+[28:52] A ten výsledek potom máte v té jemné chuti.
+[28:58] Pavel, ty jsi to říkal o industrii a tradicionálně,
+[29:01] a možná jsi to říkal, protože ty se tam znáš,
+[29:35] ale 90% nejde o alkohol, což není dobré pro rukou.
+[29:40] U nás v Wellzone máme výborný produkt, Auralis,
+[29:45] v různých návštěvkách, nevím, jestli to vidíš.
+[29:49] Ano, to je dobré vidět.
+[29:51] Není v ní alkohol, ale všechny keimové zvuky a všechny,
+[29:57] které používáme každý den pro návštěvání, působnost, a tak dále.
+[30:04] Nebo například cukr.
+[30:05] Jich vede i Brzesem.
+[30:07] Předtím vám teďka do ruky jsi vzal takový tři lahvičky,
+[30:11] ty jsou z produktový řady Auralis,
+[30:15] protože hodně lidí používá nějakou dezinfekci,
+[30:20] ale ty masivně jsou vyráběny s alkoholem,
+[30:24] který z hlediska dermatologie nejsou úplně optimální pro vaši kůži,
+[30:32] protože vysušují.
+[30:34] A není to prostě dobrý.
+[30:38] Tak tady, tenhle produkt Auralis je udělaný právě vůbec úplně bez alkoholu
+[30:47] a tam žádný takový ty negativní účinky při hygiéně nejsou.
+[30:55] Entšuldigung, Pavel.
+[30:59] Ja.
+[31:00] To samé je.
+[31:01] Další příklad, jenom aby lidé věděli, jak funguje Wellsun,
+[31:05] a proč jsi říkal,
+[31:07] Štefan, říkaj mi více,
+[31:09] protože ty jsi také úplně šťastný
+[31:11] a neznáš věci,
+[31:13] chtěl jsi pomoci lidem.
+[31:15] Dám ti jedno příklad.
+[31:17] Každý lid vytváří,
+[31:19] prostě tak, každý den,
+[31:21] samozřejmě,
+[31:23] pokud to může.
+[31:25] Ale většina lidí vytváří nepravdu.
+[31:28] Takže každý člověk v podstatě dýchá.
+[31:32] Pokud neuhodila jeho poslední hodina, tak dýchá.
+[31:34] Takže každý člověk v podstatě dýchá.
+[31:36] Takže každý člověk v podstatě dýchá.
+[31:38] Takže každý člověk v podstatě dýchá.
+[31:40] Ale i způsob, jakým dýcháte,
+[31:42] ale i způsob, jakým dýcháte,
+[31:44] může být velmi často,
+[31:46] protože vás to nikdo neučil,
+[31:48] špatný.
+[31:50] A pak jsem rozuměl,
+[31:52] a Daniel říká mi,
+[31:54] víš, když pracujeme s Activation V,
+[31:56] s tím frekvencem,
+[31:58] 60 Hz, Pavel,
+[32:00] musíme mít frekvenci 417 Hz
+[32:02] frekvenci 417 Hz
+[32:04] pro výpravu,
+[32:06] pro výpravu,
+[32:08] pro výpravu,
+[32:10] pokud používáme frekvenci 60 Hz,
+[32:12] pokud používáme frekvenci 60 Hz,
+[32:14] tak zároveň potřebujeme
+[32:16] frekvenci 417 Hz,
+[32:18] tak zároveň potřebujeme frekvenci 417 Hz,
+[32:20] která právě
+[32:22] souvisí s dýcháním
+[32:24] a s pohyblivostí,
+[32:26] takže
+[32:28] tohleto je nutnost
+[32:30] proto, aby
+[32:32] na bázi týhletý frekvence
+[32:34] 417 Hz
+[32:36] tělo správně fungovalo,
+[32:38] a zejména dýchání.
+[32:46] Jo, jo,
+[32:54] tohle mě mívá Štefan
+[32:56] na webinářích na krku
+[32:58] a tady ten
+[33:00] přívěšek vlastně
+[33:02] se jmenuje
+[33:04] Pomáhač při
+[33:06] dýchání.
+[33:11] Jsi skončený?
+[33:13] Ano.
+[33:15] Když to máš
+[33:17] a s tím
+[33:19] dýcháním
+[33:21] přijde
+[33:23] frekvence 417 Hz,
+[33:25] lidé říkají,
+[33:27] že
+[33:29] Štefan nikdy
+[33:31] nebyl
+[33:33] tak esoterický.
+[33:35] To není
+[33:37] nic nejlepšího.
+[33:39] Takže tohleto
+[33:41] vlastně malý
+[33:43] udělátko, který lze
+[33:45] nosit na krku, tak pracuje
+[33:47] na bázi frekvence
+[33:49] 417 Hz
+[33:51] a pokud správně
+[33:53] dýcháte, tak se to
+[33:55] rozezní,
+[33:57] rozvibruje
+[33:59] a v podstatě mnozí
+[34:01] se můžou ptát, jak je možný, že
+[34:03] Štefan se teďka
+[34:05] stal takovým
+[34:07] esoterikem, že se zabývá
+[34:09] věcma, který u něj
+[34:11] nebyly obvyklí.
+[34:13] No to je z toho jedinýho
+[34:15] důvodu, že vlastně
+[34:17] prakticky na sobě
+[34:19] cítí, že
+[34:21] tyhlety věci fungujou
+[34:23] takovýmhle
+[34:25] způsobem, že vlastně my
+[34:27] jako bytosti lidský
+[34:29] jsme na
+[34:31] základě frekvencí
+[34:33] a vibrací.
+[34:35] A nr. 3 na Forever, Aloe Vera.
+[34:37] A u Aloe Vera
+[34:39] jsme si vždy řekli, že
+[34:41] hejtí se třikrát rychle, když
+[34:43] máte věci.
+[34:45] Štefan
+[34:47] patřil mezi zakládající
+[34:49] členy Forever Living Products,
+[34:51] kde tím
+[34:53] prvním klíčovým produktem,
+[34:55] který přivedli na trh, bylo
+[34:57] Aloe Vera, kde
+[34:59] bylo prokázáno,
+[35:01] odzkoušeno a spousta dalších
+[35:03] firmy následovalo,
+[35:05] že léčení, vlastně nebo
+[35:07] hojení rán,
+[35:09] když konzumujete Aloe Vera,
+[35:11] je třikrát rychlejší.
+[35:13] S Auralis
+[35:15] gel, který máme extra,
+[35:17] já bych řekl, 5-6x
+[35:19] rychlejší, to je
+[35:21] jiná liga, takže
+[35:23] dnes existují možnosti
+[35:25] pro děti, pro nás,
+[35:27] co je prostě nejlepší.
+[35:29] Rozumíš, Pavel?
+[35:31] Ano, a teď, co mám v ruce,
+[35:33] ten gel Auralis,
+[35:35] tak v podstatě
+[35:37] je to další level, další stupeň,
+[35:39] že to může být hojení rán
+[35:41] pětkrát, šestkrát
+[35:43] rychlejší, než
+[35:45] u Aloe Vera, že je to
+[35:47] zase vyšší stupeň
+[35:49] a jiná liga.
+[35:51] Moje žena říká nyní představy,
+[35:53] ale myslím, že
+[35:55] byste to měli dělat separátně
+[35:57] přes produkty.
+[35:59] Všechny z nich byly
+[36:01] normální bony pro
+[36:03] a kurce pro
+[36:05] lífy, 1 kg,
+[36:07] sáky.
+[36:09] Takže
+[36:13] Štefan něco přinese.
+[36:15] Dobrá zpráva
+[36:17] pro expanzi
+[36:19] a proto
+[36:21] dál
+[36:23] zapropagovat
+[36:25] tuhletu skvělou
+[36:27] távu
+[36:29] z manufaktury z Itálie,
+[36:31] tak budou i
+[36:33] kilový balení pro gastronomy nebo pro ty, který mají vlastní zařízení s mlínkem
+[36:41] a v podstatě strategie, že velmi dobrý podniky s dobrou klientelou,
+[36:51] který mají dobrý hosty, tak vlastně v restauraci budou moci ochutnat
+[36:57] tuhletu směs a samozřejmě budou potom moci na dobrou radu gastronomů říct,
+[37:05] hele, tak jestli chceš, tak můžeš tohleto kafíčko si jednoduše udělat doma.
+[37:14] A to je zajímavý propagační kanál.
+[37:17] A spět, Pavel, nevím, jestli to vidíš,
+[37:20] kafezak.
+[37:22] Spět, když to bude později,
+[37:27] tak si říkám, že
+[37:27] potřeba ve větším, tak to jsou ty
+[37:30] jutový pytle, který se
+[37:33] Káva dodává v úplně větším
+[37:36] formátu.
+[37:37] Ok, proč je
+[37:45] Wellzone dobrá příležitost?
+[37:49] Protože lidi
+[37:51] chtějí být
+[37:53] zdravější, chtějí
+[37:56] být
+[37:56] dál,
+[37:58] ale aktivní
+[37:59] chtějí se prostě
+[38:01] cítit líp a
+[38:03] fungovat líp
+[38:05] do co nejzršího věku.
+[38:08] Jako zákazník
+[38:25] se můžeš registrovat,
+[38:27] registrační link,
+[38:29] který mezi tím tady během
+[38:31] tohoto webináře dál
+[38:33] Štefan do chatu,
+[38:35] tak si ho můžete skopírovat,
+[38:37] můžete se
+[38:38] zaregistrovat, můžete se
+[38:41] podívat do
+[38:42] shopu, jaký produkty
+[38:45] jsou k dispozici.
+[38:48] A když
+[38:49] jste chtěli,
+[38:50] ale to musíte Daniela a Pavel
+[38:53] odpovědět, protože Pavel
+[38:55] je hodně angažován,
+[38:57] to je, my děláme vždy
+[38:58] většinou o 18 hodinu
+[38:59] většinou o produkty.
+[39:02] Bude to ještě zajímavé,
+[39:03] protože takhle se můžete
+[39:05] zkoušet nějaké produkty.
+[39:07] Jo, jo, jo, pokud vám
+[39:09] tahle ta jako obecná
+[39:12] informace, jakým směrem
+[39:14] se Wellzone pohybuje,
+[39:16] přišla jako
+[39:18] zajímavá, tak ve středu
+[39:20] Daniela,
+[39:22] to je ta, která
+[39:24] v podstatě objevila
+[39:26] a
+[39:27] vyvinula
+[39:28] tu mašinku
+[39:30] Activation V, tak bude
+[39:31] ve středu mluvit
+[39:33] o produktech, takže
+[39:36] od 18 hodin
+[39:37] je německý webinář,
+[39:40] ven inzwischen noch nicht
+[39:42] Sandra ready is,
+[39:44] können wir im 19 Uhr
+[39:46] wieder so
+[39:47] to, wie ich
+[39:49] tschechische
+[39:50] kombination machen.
+[39:53] Wenn du frei bist, dann werde ich
+[39:55] Daniela gleich einbuchen,
+[39:57] und ihr macht einfach diesen
+[39:58] Mittwoch zusammen.
+[40:00] Ok, takže teď jsme to domluvili,
+[40:03] takže co se týká
+[40:04] produktů, který
+[40:06] můžete najít v backoffice,
+[40:08] tak bude detailnější
+[40:10] webinář hned potom německým
+[40:13] v 19 hodin
+[40:15] ve středu
+[40:16] 3. června.
+[40:19] Und dann werden wir über alle Produkte
+[40:21] am Mittwoch reden, über den
+[40:22] Vakusnerv, über den
+[40:24] Activation B, etc.
+[40:27] Über alles.
+[40:28] A třetí webinář
+[40:31] v týdnu bude
+[40:33] ve čtvrtek auch 19 Uhr
+[40:35] tšichisch.
+[40:36] Ok, cool.
+[40:37] Moment, moment, moment,
+[40:38] ich frage Daniela, ist das ok, oder?
+[40:41] Ok, sie freut sich auf dich,
+[40:43] weil sie ist die ganze Zeit
+[40:44] dahinten am Reden und sagt,
+[40:46] ich glaube, der ist ein Profi.
+[40:50] Ja, ja.
+[40:51] Ok, 19 Uhr ist gut.
+[40:53] 19 Uhr ist perfekt.
+[40:55] Ich freue mich.
+[40:57] Genau, was wir noch suchen
+[40:59] ist die original
+[41:01] Tasse.
+[41:03] Co ještě hledáme, je
+[41:06] originál šálek,
+[41:08] protože
+[41:09] Wellzone v rámci
+[41:12] Café Kultury
+[41:13] by rád
+[41:15] vlastně
+[41:17] nabídnul
+[41:19] i odpovídající
+[41:22] obrandovaný šálky,
+[41:24] takže pokud byste měli
+[41:26] nějaký tip,
+[41:27] na to,
+[41:29] který výrobce,
+[41:32] jaký
+[41:33] šálky na Espresso
+[41:36] a Lungo by byly
+[41:37] vhodný, tak
+[41:39] neváhejte kontaktovat
+[41:42] buď mě, anebo přímo
+[41:44] Wellzone
+[41:45] info tady tím,
+[41:48] aby se
+[41:49] postupně doplňoval
+[41:52] ten sortiment, který
+[41:53] začíná být hodně zajímavý.
+[41:56] Máme,
+[41:57] řekněme pro lidi,
+[41:58] 75 limitovaných
+[42:01] šálků
+[42:02] byli vytvořeny.
+[42:04] Jenže víš, Pavel,
+[42:06] že ta šálka
+[42:07] není Čína,
+[42:08] ale je jedna z nejlegendárnějších.
+[42:11] Vyhrátím vám to, když jsi
+[42:12] s vaší ženou přišel.
+[42:15] Jdeme spolu do růstoviny,
+[42:17] ale nyní jdeme do
+[42:18] manufaktury
+[42:19] pro šálky.
+[42:21] Vyhrátili jsme jednu
+[42:22] takto,
+[42:23] ale všechno je italienské,
+[42:27] ale můžete
+[42:27] také vytvořit
+[42:28] v busu,
+[42:29] jak to říkáme,
+[42:30] můžete to vytvořit
+[42:32] a my vytvoříme
+[42:32] naši šálku
+[42:33] vždy.
+[42:34] Výborné je jen,
+[42:36] že máte
+[42:36] takovou šálku,
+[42:37] která je dělá
+[42:38] a necháte
+[42:40] takovou šálku
+[42:41] vytvořit
+[42:42] zvukovou,
+[42:44] zvukovou kremu.
+[42:45] Víš, co si myslím?
+[42:47] Můžete to říct?
+[42:47] Jo, jo, jo,
+[42:48] já to rozumím.
+[42:49] Takže
+[42:50] nejenom,
+[42:51] že ta šálka
+[42:52] je mobilní,
+[42:53] ale je
+[42:54] i komplet
+[42:55] italská,
+[42:56] není to,
+[42:57] prostě žádná
+[42:59] Čína,
+[43:00] takže
+[43:00] je to
+[43:01] technologie
+[43:02] odzkoušená
+[43:04] desítky
+[43:05] let
+[43:06] made in
+[43:06] Italy,
+[43:07] stejně tak,
+[43:08] jako je
+[43:09] speciální
+[43:10] manufaktura
+[43:11] na přípravu
+[43:12] kávy,
+[43:13] který,
+[43:14] ačkoliv jsou to
+[43:15] různý firmy,
+[43:16] tak spolu
+[43:16] dlouhodobě
+[43:18] spolupracujou
+[43:20] tady
+[43:20] v tomhletom
+[43:21] směru,
+[43:22] takže máte
+[43:23] naprosto
+[43:24] produkt,
+[43:26] který je
+[43:26] unikátní,
+[43:27] sladěnej
+[43:29] a
+[43:30] Stefan nabízí
+[43:31] návštěvu
+[43:32] přímo
+[43:32] v těchto
+[43:34] manufaktůrách,
+[43:36] což určitě
+[43:37] může být
+[43:38] velmi zajímavý
+[43:40] a je potřeba
+[43:41] mít
+[43:41] nepříliš
+[43:42] vysokou
+[43:43] vzdálenost,
+[43:44] aby kvůli
+[43:45] kvalitě
+[43:46] krémy
+[43:47] u kávy,
+[43:49] aby
+[43:49] nebyla
+[43:51] ta
+[43:52] vzdálenost,
+[43:53] kterou to
+[43:54] teče
+[43:54] a
+[43:55] presuje
+[43:56] příliš
+[43:56] další
+[43:57] další,
+[43:57] další,
+[43:57] ale
+[43:58] a
+[43:58] hrníček
+[43:59] má být
+[44:01] tlusto
+[44:02] stěný,
+[44:03] aby
+[44:03] udržel
+[44:04] tu
+[44:05] teplotu
+[44:05] kávy.
+[44:07] Možná
+[44:07] ještě
+[44:08] káva,
+[44:09] protože
+[44:09] je to
+[44:09] můj
+[44:10] líblíští
+[44:10] produkt,
+[44:12] nebo
+[44:12] Activation V.
+[44:14] Nezáleží,
+[44:15] když
+[44:15] první
+[44:16] kávu
+[44:17] přijde,
+[44:18] když
+[44:18] to
+[44:19] přijde,
+[44:20] přišlo
+[44:20] příliš
+[44:21] příliš
+[44:21] kávu,
+[44:22] aby
+[44:22] to
+[44:23] bylo
+[44:23] náš,
+[44:23] a
+[44:24] pak
+[44:25] přijde
+[44:25] káva.
+[44:26] A
+[44:26] to
+[44:27] tady
+[44:27] to
+[44:28] není
+[44:28] tři
+[44:28] nebo
+[44:29] tři
+[44:29] nebo
+[44:30] čtyři
+[44:30] nebo
+[44:30] tři
+[44:30] gram,
+[44:31] to
+[44:31] je
+[44:31] tři
+[44:32] gram
+[44:32] půr
+[44:33] kávy.
+[44:35] Takže
+[44:35] to,
+[44:36] co má
+[44:36] Štefan
+[44:37] v ruce,
+[44:38] tak v podstatě
+[44:38] v rámci
+[44:39] přípravy,
+[44:40] abyste se
+[44:41] nelekli,
+[44:42] takže
+[44:42] poprvé
+[44:43] v té
+[44:44] první
+[44:44] fázi
+[44:45] se to
+[44:46] jenom
+[44:46] navlhčí
+[44:47] a
+[44:48] teprve
+[44:48] potom
+[44:49] se
+[44:50] presuje
+[44:51] káva
+[44:51] a
+[44:52] je to
+[44:53] sedmigramový
+[44:55] pot,
+[44:56] který
+[44:57] není
+[44:58] nějaký
+[44:58] redukovaný,
+[45:00] ale
+[45:00] poctivě
+[45:01] tohleto
+[45:02] množství
+[45:03] kávy
+[45:03] je
+[45:03] doporučovaný
+[45:06] na
+[45:06] espresso.
+[45:08] A
+[45:08] to se
+[45:22] nedělá
+[45:22] a
+[45:23] musím
+[45:23] také
+[45:24] zvědět,
+[45:25] že
+[45:26] tady
+[45:26] není
+[45:27] taková
+[45:27] kapučíno,
+[45:29] latte
+[45:29] a taková
+[45:30] věc,
+[45:31] protože
+[45:31] chemická
+[45:32] reakce
+[45:34] není
+[45:35] dobrá
+[45:35] pro
+[45:35] menšinu
+[45:37] jiné
+[45:39] mágny
+[45:40] a takové,
+[45:41] protože
+[45:42] to přijde
+[45:43] chemická
+[45:44] reakce.
+[45:45] Takže
+[45:47] nejenom,
+[45:47] že není
+[45:48] bezkofejnová
+[45:49] káva,
+[45:50] ale
+[45:51] není
+[45:51] vlastně
+[45:52] mašinka
+[45:53] opatřená
+[45:55] i
+[45:55] šlehačem,
+[45:57] na
+[45:57] mlíko,
+[45:59] protože
+[46:00] pokud se
+[46:01] trošku
+[46:01] hloubějš
+[46:02] zabýváte
+[46:03] kávou
+[46:04] a kávovými
+[46:05] produkty,
+[46:06] tak zjistíte,
+[46:07] že tam
+[46:07] probíhá
+[46:08] chemická
+[46:09] reakce
+[46:10] a že
+[46:11] mlíko
+[46:12] a kafe
+[46:13] není
+[46:14] příliš
+[46:14] optimální
+[46:16] kombinace
+[46:17] pro tu
+[46:17] chemickou
+[46:19] reakci
+[46:19] pro
+[46:20] lidský
+[46:21] organismus.
+[46:22] Proto
+[46:22] vlastně
+[46:24] mašinka
+[46:25] Wellzone
+[46:26] nemá tam
+[46:27] ten
+[46:27] spěňovač
+[46:28] a
+[46:29] byla
+[46:30] vlastně
+[46:30] vytvořená,
+[46:31] to jsem
+[46:31] ještě
+[46:31] zapomněl,
+[46:32] přeložit
+[46:33] v 75
+[46:35] kusech
+[46:37] limitovaný
+[46:39] startovací
+[46:40] edice.
+[46:41] A
+[46:41] edice
+[46:42] 566
+[46:44] není
+[46:45] 400
+[46:46] od
+[46:46] Šonvek.
+[46:47] Takže
+[46:51] nějaký
+[46:52] do desíti
+[46:53] kusů
+[46:54] je
+[46:54] ještě
+[46:55] k mání
+[46:55] k objednání
+[46:56] tady
+[46:57] tý
+[46:57] historický
+[46:58] první
+[46:59] limited
+[47:00] edition.
+[47:02] A
+[47:03] většinou
+[47:04] chtěl jsem
+[47:04] vám
+[47:04] tohle
+[47:05] vytvořit.
+[47:06] Já
+[47:07] třeba
+[47:08] vytvořím
+[47:09] tady
+[47:09] na
+[47:10] výpočet.
+[47:11] Mějte
+[47:12] to
+[47:12] v
+[47:13] gardenu,
+[47:13] ale
+[47:13] můžete
+[47:14] i
+[47:14] kompletně
+[47:15] v kompostu
+[47:17] vytvořit.
+[47:18] Recycling
+[47:19] je super
+[47:19] rychle.
+[47:20] To je
+[47:20] super
+[47:20] rychle.
+[47:21] Recyklace
+[47:22] je
+[47:23] super
+[47:24] rychle
+[47:25] a tak
+[47:26] jak se
+[47:26] v některých
+[47:27] zahrádkách
+[47:28] příručkách
+[47:29] doporučuje,
+[47:30] tak
+[47:31] můžete
+[47:32] po roztržení
+[47:33] sáčku
+[47:33] vlastně
+[47:34] použít
+[47:35] jako hnojivo
+[47:36] tuhletu
+[47:37] kávu
+[47:38] po tom,
+[47:39] co vám
+[47:39] udělá radost
+[47:40] a vychutnáte
+[47:41] si ji
+[47:41] ve vašem
+[47:42] domácím
+[47:43] prostředí
+[47:43] anebo
+[47:44] rovnou
+[47:45] i s tím
+[47:46] podem
+[47:47] to
+[47:47] můžete
+[47:48] šoupnout
+[47:49] po
+[47:49] vypresování
+[47:52] vlastně
+[47:52] na váš
+[47:53] kompost,
+[47:54] který se
+[47:55] tady tím
+[47:56] způsobem
+[47:56] obohatí.
+[47:57] A rovněž
+[48:11] další
+[48:12] produkt
+[48:12] Auralis
+[48:13] je použitelný
+[48:14] pro
+[48:15] domácí
+[48:16] zahradníky,
+[48:18] protože
+[48:18] pokud
+[48:19] vlastně
+[48:20] vysprejujete
+[48:21] orchideje,
+[48:22] tak
+[48:23] je to
+[48:24] nabije
+[48:25] větší
+[48:26] silou
+[48:27] než
+[48:27] kdybyste
+[48:28] použili
+[48:29] běžně
+[48:30] jenom
+[48:30] vodu.
+[48:56] Takže
+[48:57] ještě
+[48:57] dvě
+[48:57] vychytky,
+[48:58] pro
+[48:59] použití
+[49:00] Auralisu
+[49:00] víte,
+[49:01] že
+[49:01] ta
+[49:02] mikroflora,
+[49:03] která je
+[49:04] v ústech,
+[49:05] že
+[49:05] doporučujou
+[49:06] i
+[49:06] lidi
+[49:07] členové
+[49:08] vědeckých
+[49:09] rad
+[49:10] toho,
+[49:11] že si
+[49:11] máte ráno
+[49:12] vypláchnout
+[49:13] pusu,
+[49:14] ať už
+[49:14] vodou
+[49:15] nebo
+[49:15] slanou,
+[49:17] teplou
+[49:17] vodou
+[49:18] nebo
+[49:18] olivovým
+[49:19] olejem.
+[49:20] Všechny
+[49:21] tyhle
+[49:21] ty
+[49:21] metody
+[49:22] jsou
+[49:22] a nebo
+[49:23] můžete
+[49:24] použít
+[49:24] Auralis,
+[49:25] tak jak si to
+[49:26] tam stříknul
+[49:27] Štefan,
+[49:28] a další
+[49:28] vychytávka je,
+[49:30] že ženy
+[49:31] vlastně si to
+[49:32] nastříkají
+[49:34] na obličej
+[49:35] před tím,
+[49:36] než
+[49:37] absolvují
+[49:38] kosmetiku.
+[49:42] Azo,
+[49:42] ich sag
+[49:42] auf alle Fall
+[49:43] dir,
+[49:44] Pavel,
+[49:45] danke für das
+[49:46] Vertrauen.
+[49:47] Ich glaube,
+[49:48] wir haben in unserem
+[49:49] Leben,
+[49:49] ich mag mich noch
+[49:50] erinnern in Dubai,
+[49:51] du hattest auch
+[49:52] in Dubai recht,
+[49:53] du hattest schon
+[49:54] in vielen Fällen recht.
+[49:56] Ich würde mich
+[49:57] freuen mit dir
+[49:58] den Weg zu gehen,
+[49:59] den finalen Weg,
+[50:01] als auf Augenhöhe.
+[50:04] Ich bedanke mich
+[50:05] an die Community
+[50:06] in Tšechien,
+[50:08] an Milan,
+[50:09] an Nadecka,
+[50:09] Pavel,
+[50:10] etc.
+[50:11] An alle Leute
+[50:12] und ich glaube,
+[50:13] ihr seid alle
+[50:14] am Mittwoch
+[50:14] wieder dabei,
+[50:15] meine Lady.
+[50:16] Ich höre
+[50:17] dann einfach zu
+[50:18] und jetzt
+[50:19] könnt ihr auf den
+[50:20] Klick gehen,
+[50:21] auf den Link
+[50:21] von Pavel,
+[50:23] könnt euch
+[50:24] registrieren,
+[50:25] könnt
+[50:25] vielleicht noch
+[50:26] eine von
+[50:27] diesen
+[50:27] maschinen holen.
+[50:29] Ich glaube,
+[50:29] káfe wird
+[50:30] in Tšechien
+[50:31] brutal groß.
+[50:34] Takže
+[50:35] tímto bych chtěl
+[50:36] poděkovat
+[50:37] všem,
+[50:38] který jste tady byli,
+[50:39] ať už
+[50:40] tradičním
+[50:40] Nadeždě Milanovi
+[50:42] nebo těm,
+[50:42] který jste tady byli
+[50:43] úplně poprvé
+[50:44] a pokud se
+[50:46] chcete
+[50:46] dál podívat,
+[50:48] co je v nabídce,
+[50:50] za jakých
+[50:51] podmínek,
+[50:51] můžete kliknout
+[50:53] na ten link,
+[50:54] který je v četu.
+[50:56] V komentáři.
+[50:56] Tak koncírské
+[50:57] ráte rein,
+[50:57] moment,
+[50:58] Pavel.
+[50:59] Daniela
+[51:00] máte
+[51:00] nyní
+[51:01] link.
+[51:02] Ti, kteří
+[51:03] nejsou
+[51:03] registrovaní,
+[51:04] můžete
+[51:05] na ten link
+[51:06] jít.
+[51:06] To je
+[51:07] Pavel.
+[51:08] Pavel
+[51:08] může
+[51:09] mít
+[51:09] mnoha
+[51:10] způsoby.
+[51:10] Máte
+[51:11] také
+[51:11] sponsor.
+[51:14] Takže
+[51:14] já
+[51:14] vzpomínám
+[51:15] všechny,
+[51:16] když
+[51:16] vím,
+[51:17] co je
+[51:17] věc.
+[51:18] On ví,
+[51:19] jak
+[51:19] lidi
+[51:20] vytvořit
+[51:22] leadership.
+[51:25] Tak to
+[51:25] chtěl
+[51:25] říct.
+[51:27] Takže
+[51:28] teď
+[51:29] je tam
+[51:29] vložený
+[51:30] link,
+[51:31] kde
+[51:31] můžete
+[51:34] zkouknout
+[51:35] shop,
+[51:36] produkty,
+[51:38] můžete
+[51:38] se podívat
+[51:40] na aktuální
+[51:41] nabídku,
+[51:42] která tam
+[51:43] je i
+[51:43] v rámci
+[51:44] těch posledních
+[51:46] kousků
+[51:47] presovačů
+[51:48] limitovaný
+[51:49] první
+[51:50] edice.
+[51:51] A pokud
+[51:51] se budete
+[51:52] chtít
+[51:53] dozvědět
+[51:54] víc,
+[51:55] tak
+[51:55] Daniela
+[51:56] bude mít
+[51:57] produkty
+[51:58] ve středu
+[51:59] vlastně
+[52:00] v Němčině
+[52:01] od 18.
+[52:03] hodin
+[52:03] a od 19.
+[52:05] na to
+[52:05] navážeme
+[52:06] zase
+[52:07] českým
+[52:09] překladem
+[52:11] pro
+[52:11] Československo
+[52:13] a pro
+[52:14] všechny,
+[52:15] který
+[52:15] rozumí
+[52:16] česky.
+[52:17] Takže
+[52:17] můžete
+[52:18] pozvat
+[52:18] i svoje
+[52:20] hosty.
+[52:20] Pavel,
+[52:21] jenom
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:21] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:22] na
+[52:23] na
+[52:23] na
+[52:23] na
+[52:28] Na moment.
+[52:30] Protože
+[52:30] jsme
+[52:30] teď
+[52:31] někdo
+[52:32] zloučili
+[52:32] a
+[52:32] my
+[52:33] jsme
+[52:33] my
+[52:33] my
+[52:33] jsme
+[52:33] zloučili
+[52:34] Prostě
+[52:34] Takže
+[52:35] kdybyste
+[52:36] měli
+[52:36] takovou
+[52:36] otázku
+[52:37] Takže
+[52:41] kdybyste
+[52:41] měli
+[52:42] takovou
+[52:42] otázku
+[52:42] 1
+[52:43] minutu
+[52:44] 2
+[52:44] Já
+[52:45] myslím,
+[52:46] že
+[52:46] můžeme
+[52:46] dělat
+[52:47] Pavelu
+[52:49] v chatu,
+[52:50] protože
+[52:51] to není
+[52:52] samozřejmé,
+[52:53] že
+[52:53] měl
+[52:53] svoje
+[52:54] čas
+[52:54] a
+[52:54] další
+[52:55] projekty
+[52:56] kde
+[52:57] je
+[52:57] hodně
+[52:57] angaští
+[52:58] a
+[52:59] my
+[53:00] z
+[53:00] naší
+[53:01] firmy
+[53:01] říkáme
+[53:01] v každém
+[53:02] případě
+[53:02] děkujeme
+[53:03] a
+[53:04] doufáme,
+[53:04] že
+[53:04] se
+[53:04] během
+[53:05] na
+[53:06] italijském
+[53:06] podruhě
+[53:07] uvidíme.
+[53:08] No,
+[53:09] jak
+[53:09] ne
+[53:10] můžu
+[53:10] to
+[53:10] ne
+[53:10] lezat,
+[53:11] Pavel,
+[53:11] Susana.
+[53:13] Někdo
+[53:14] tady
+[53:15] říká
+[53:16] Susana,
+[53:18] že
+[53:19] tady
+[53:20] nic
+[53:20] nejde
+[53:21] v chatu,
+[53:24] ale
+[53:24] vidím
+[53:25] tady
+[53:26] zvuk.
+[53:26] Takže
+[53:27] Susko
+[53:27] vidím
+[53:28] nic
+[53:28] se mi
+[53:29] v chatu
+[53:29] nezobrazuje,
+[53:30] ale
+[53:30] pro mě
+[53:31] je to
+[53:32] viditelný,
+[53:33] takže
+[53:34] kdyby
+[53:35] cokoliv
+[53:36] jste
+[53:37] potřebovali,
+[53:38] můžete
+[53:38] se
+[53:39] ozvat
+[53:40] zpátky
+[53:41] na
+[53:42] Messenger,
+[53:43] Telegram,
+[53:44] WhatsApp,
+[53:44] e-mail,
+[53:45] tam,
+[53:46] kde jsem
+[53:46] vám
+[53:47] poslal
+[53:47] pozvánku
+[53:48] na
+[53:49] dnešní
+[53:50] webinář,
+[53:51] kdybyste
+[53:51] potřebovali
+[53:52] cokoliv
+[53:53] vědět
+[53:53] a
+[53:54] ve středu
+[53:55] od 19
+[53:56] hodin
+[53:57] budou
+[53:58] rozebrány
+[53:59] z Danielou
+[54:00] produkty
+[54:01] a vůbec
+[54:03] ta celková
+[54:04] nabídka.
+[54:04] Takže
+[54:04] můžete
+[54:05] Pavel
+[54:06] jen něco
+[54:06] o Nadecku
+[54:07] říct
+[54:08] a o Milanu,
+[54:09] protože
+[54:09] to bylo
+[54:10] vždy
+[54:10] problém
+[54:11] s jazykem,
+[54:12] ale
+[54:13] myslím,
+[54:14] že
+[54:14] je tady
+[54:14] jazyk,
+[54:15] který
+[54:15] nemusí
+[54:16] jazyk.
+[54:17] To znamená,
+[54:18] že jsme
+[54:18] vždy
+[54:19] měli
+[54:20] čas
+[54:20] a vždy
+[54:21] věděli,
+[54:22] že
+[54:22] dva
+[54:22] strany
+[54:23] myslí
+[54:24] to
+[54:25] srdce.
+[54:25] A já
+[54:26] chtěl
+[54:26] se
+[54:26] poděkovat
+[54:27] za
+[54:27] tato
+[54:28] grupu
+[54:29] Nadecka
+[54:30] a Milanu,
+[54:31] protože
+[54:31] Milan je
+[54:32] Nadecka
+[54:34] a Milan
+[54:36] byli
+[54:37] museli
+[54:38] představit,
+[54:39] že jsme
+[54:39] před 20
+[54:40] hodinami
+[54:41] v autu.
+[54:42] On je
+[54:42] ztraten
+[54:43] na ponihov
+[54:44] a vždy
+[54:46] říkal
+[54:46] a říkal,
+[54:47] že
+[54:48] vždy
+[54:48] věděl,
+[54:49] že
+[54:49] jste
+[54:50] dobrý
+[54:50] dělník.
+[54:52] My
+[54:52] se
+[54:53] těšíme
+[54:53] pro Čechy,
+[54:54] ale
+[54:54] já
+[54:54] chtěl
+[54:55] se
+[54:55] poděkovat
+[54:55] a
+[54:56] Daniela
+[54:58] a já
+[54:58] dostáváme
+[54:59] slizovic
+[55:00] od
+[55:01] nich
+[55:01] a
+[55:02] my
+[55:03] chtěl
+[55:03] se
+[55:03] poděkovat
+[55:04] pro
+[55:04] trost,
+[55:06] pravděpodobnost
+[55:06] a
+[55:07] že
+[55:08] jsme
+[55:08] všichni
+[55:08] měli
+[55:08] vědět,
+[55:10] že
+[55:10] můžeme
+[55:10] vědět,
+[55:11] že
+[55:11] můžeme
+[55:12] vědět,
+[55:12] že
+[55:12] můžeme
+[55:12] vědět,
+[55:12] že
+[55:12] můžeme
+[55:12] vědět,
+[55:12] že
+[55:12] můžeme
+[55:12] vědět,
+[55:12] můžeme
+[55:12] vědět,
+[55:12] můžeme
+[55:12] vědět,
+[55:12] Takže
+[55:15] Stefan by
+[55:15] s Danielou
+[55:16] chtěli
+[55:16] extra
+[55:17] poděkovat
+[55:18] Milanovi
+[55:19] a
+[55:21] Nadě
+[55:21] a celý
+[55:22] skupině,
+[55:23] protože
+[55:24] za
+[55:25] upřímnost,
+[55:28] za
+[55:28] lojálnost
+[55:30] a vůbec
+[55:31] za
+[55:32] tu vazbu,
+[55:34] která tam byla
+[55:34] i přes
+[55:35] absenci
+[55:36] jazyka,
+[55:38] takže
+[55:39] to snad
+[55:40] teď
+[55:40] budu
+[55:41] moct
+[55:41] tlumočit,
+[55:44] pokud
+[55:44] bude něco
+[55:45] potřeba,
+[55:46] takže
+[55:46] oceňuje
+[55:47] i to,
+[55:47] že kolikrát
+[55:48] jste cestovali
+[55:49] 20 hodin
+[55:51] autem
+[55:52] a
+[55:53] i tak
+[55:54] jste byli
+[55:55] friš
+[55:56] a
+[55:56] díky
+[55:57] regionu,
+[55:59] ze kterého
+[55:59] jste země
+[56:00] zaslíbené
+[56:01] Slivovici,
+[56:02] tak
+[56:02] velmi
+[56:03] rád
+[56:04] užívá
+[56:05] zase
+[56:06] tuhletu
+[56:07] medicínu,
+[56:08] která
+[56:08] pochází
+[56:09] z Moravy.
+[56:11] Ok,
+[56:11] Pavel,
+[56:11] dánke
+[56:12] a my
+[56:12] hoříme
+[56:13] zase
+[56:13] večer
+[56:14] večer
+[56:14] večer
+[56:14] večer
+[56:14] večer
+[56:14] večer
+[56:14] večer
+[56:14] večer
+[56:15] večer
+[56:15] večer
+[56:16] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:17] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:18] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] večer
+[56:19] Takže díky, zítra se uslyšíme my spolu a se všemi, kteří budou chtít v neděli, v neděli ve středu od 19 hodin.
+[56:31] Děkujeme a já se těším, Michal, a dobrý den, ale hezký večer.
+[56:36] Jsi můj člověk a můj kontroverz, he?
+[56:39] Jo.
+[56:41] Čau.
+[56:41] Já se těším, čau, dobrý den, hezký večer všem, nashle, pa pa.

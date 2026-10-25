@@ -1,0 +1,106 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/25772027702474066
+Datum videa:  2026-05-11
+Zpracováno:   2026-05-13 20:41:47
+Jazyk:        cs
+Délka:        00:05:25
+Zhlédnutí:    52 401
+Popis:        Zde je ještě slíbený rozhovor s Hynkem Beranem a Ivanem Noveským, který jsme natočili minulý týden ve sněmovně o akceleračních zónách pro stavby větrných elektráren. 
+
+Ty mají bohužel být instalovány 
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    6s
+Přepis:       1m 10s
+Rychlost:     4.6x realtime
+Celkem:       1m 17s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Zdravím vás, přátelé, z Poslanecké sněmovny, kde dnes probíhá seminář na téma našich uhelných dolů,
+[00:07] ale tohle video točíme na jiné vysoce aktuální téma, a to je téma větrných elektráden.
+[00:13] Možná to řada z vás neví, ale blíží se termín u závěrky připomínek těm akceleračním zónám,
+[00:20] k jejich umístění, a já myslím, že je nezbytné, abyste získali informace týkající se právě stavby
+[00:27] těchto větrných oblud a mohli se ještě proti tomu nějakým způsobem vymezit.
+[00:32] A já tady mám dnes dva zásné hosty, kteří zavítali na ten seminář a poprosil bych je o krátké vyjádření,
+[00:38] které se týká právě těch větrných elektráden.
+[00:40] Ivan Noveský, samozřejmě. Ivan, řekni nám, prosím tě, kde všude by měly být tyhle větrné elektrády umístěny.
+[00:48] Tahle šílenost se nedá v podstatě přesně definovat, jo, protože něco jiného říká Evropská směrnice,
+[00:54] co jiného říká zákon 2049, to je jasně říkáně zemědělská půda,
+[00:59] a tady ty elektrárny, ty větrníky, jak jim říkáme, se umístí bohužel i na jednice nebo dvice bolně,
+[01:04] což je teda zločin proti ekologii, proti zemědělství.
+[01:07] Ale tam jsou i další věci, třeba akcejační oblast Trhovy Štěpánov,
+[01:14] tak tato akcejační oblast normálně prostě vymazala Blaník jako horu spod Blanícka,
+[01:21] aby se tam mohlo umístit, tak se řeklo, že tam prostě Blaník není.
+[01:25] Co se týká řípů, tak tam je další problém.
+[01:29] Akcejační oblast říká, musíte se koukat na říp ze západu,
+[01:33] protože tím pádem budou větrníky schovaný za řípem.
+[01:36] Když se budete koukat z východu, tak ho neuvidíte, protože ty větrníky budou před řípem.
+[01:42] To tež něco podobného je v Kremě řížit.
+[01:44] Prostě my tady ještě jsme schopní i tu legislativu, která je evropská,
+[01:49] která nás takové demitá, tak jsme ještě schopní normálně nedoležovat
+[01:52] a udělat z toho ještě větší masky.
+[01:56] Opravdu neuvěřitelné, že tady budeme stavit větrníky kolem řípů.
+[02:00] Na druhé straně tady máme Hinka Berana, odborníka na slovu Zlatého,
+[02:04] který už měl celou řadu rozhodů na toto téma.
+[02:07] Hinku, pověz nám něco o efektivitě těch větrných elektráden.
+[02:11] Tak v té efektivitě, nebo spíše neefektivitě, máme už hlubokou tradici.
+[02:16] V době solárních baronů nám slibovali, že nahradí ta obnovitelná
+[02:23] energie veškerou energií uhelnou, která tvořila tehdy asi 30% naší spotřeby.
+[02:29] Nahradili 3% a celé to stálo, všechny ty obnovitelné zdroje,
+[02:34] stály jednou tolik, co stála ta normální elektřina.
+[02:37] Takže to tolik tedy naše tradice. Co se týče současnosti,
+[02:42] tak otázka opravdu nestojí, co říkal tady Ivan, tak,
+[02:45] že bychom měli obětovat naší krajinu za nějakou uhelnou energii.
+[02:51] Řeknu proč.
+[02:53] Co my vyrábíme z toho uhlí, tak je zhruba asi 15 až 20 miliard kWh,
+[02:59] což je čtvrtina naší spotřeby zhruba České republiky.
+[03:03] A těmi větrníky nahradíme 5.
+[03:06] Tudíž čtvrtinu, možná třetinu toho, co nám bude chybět po uzavření uhlí.
+[03:12] Takže ten nesmysl, nebo chcete-li možná i trošku zločinný nesmysl,
+[03:18] je v tom, že si zničíme naši krajinu
+[03:21] a současně dosáhneme
+[03:23] energetické nesoběstačnosti.
+[03:25] Což tedy tato dvojkombinace je poměrně překvapivá.
+[03:29] Bohužel je taková to a asi je dobře, abychom lidi zavčasu varovali,
+[03:33] že to takto nemá být a že je rozdíl mezi obnovitelnou elektřinou
+[03:39] a mezi tím takzvaným environmentem
+[03:43] nebo ochranou životního prostředí.
+[03:46] Protože toto je implementace, jak říkal Ivan, v rozporu se zákonem
+[03:50] a fyzicky je v rozporu s tou ochranou.
+[03:53] Když toto budeme dělat na bonitní horné půdy, nebo na míste, kde to nepatří.
+[03:59] Klasický Green Deal.
+[04:01] Ideologie, která jde proti zdravému rozumu,
+[04:04] která nemá se zdravým rozumem vůbec nic společného
+[04:06] a v tuhletu chvíli už je jej mimo zákon.
+[04:08] My proti tomu budeme velmi tvrdě bojovat.
+[04:10] Nejenom my tři, ale určitě celý poslanecký klub SPD,
+[04:14] celá strana PRO.
+[04:16] My jsme proti tomu, aby tady se stavily větrné elektrárny,
+[04:20] které nikdy nenahradí tu spotřebu,
+[04:22] kterou máme z uhelných elektráden
+[04:25] a pouze budou hyzdit naši krajinu
+[04:27] a samozřejmě budou způsobovat celou řadu negativních vedlejších účinků,
+[04:32] když už jsou dneska naprosto nepopiratelné.
+[04:34] Ale potřebujeme k tomu i vaši pomoc.
+[04:36] Do 15. května mají čas vyjádřit se obce a samozprávné celky.
+[04:41] Do 1. června ostatní občany.
+[04:44] Prosím, nenechte to ladem.
+[04:46] Nezapomeňte na to svoji možnost se vyjádřit právě k těm akceleračním zónám.
+[04:51] Najděte si na stránkách Ministerstva průmyslu a obchodu
+[04:55] a Ministerstva pro místní rozvoj
+[04:57] mapy těch akceleračních zón
+[04:59] a tlačte na své zastupitelé nebo sami se pište vyjádření,
+[05:03] že tyto opravdu obludy, já to neumím nazvat jinak, ve svém katastru nechcete.
+[05:08] My budeme bojovat za vás, ale potřebujeme samozřejmě i vaši pomoc,
+[05:12] abychom to společně zvládli a nezjistili si naši krásnou krajinu
+[05:16] a neznehodnotili si naši velmi bonitní zemědělskou kůru.
+[05:19] Díky moc, buďte pro.
+[05:21] A buďte s námi. My jsme s vámi.

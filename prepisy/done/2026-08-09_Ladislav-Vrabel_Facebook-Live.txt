@@ -1,0 +1,2974 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/2302029873941664
+Datum videa:  2026-08-09
+Zpracováno:   2026-08-10 20:41:22
+Jazyk:        cs
+Délka:        01:53:40
+Popis:        Pravidelné nedělní živé vysílání v 21h
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    58s
+Přepis:       32m 38s
+Rychlost:     3.5x realtime
+Celkem:       33m 37s
+================================================================================
+PŘEPIS
+================================================================================
+
+[03:01] Vážení přátelé, přeju vám hezký večer, dobře se usekte, udělejte si pohodu,
+[03:06] dneska je neděle, takže máme pravidelné nedělní živé vysílání
+[03:09] a to je chvilka na zamišlení se nad tím, co se děje.
+[03:16] Možná, že si tady řekneme něco, co se děje, co se týče zpravodajství,
+[03:21] protože samozřejmě pro vás sledujeme, co se děje po celém světě,
+[03:25] především teda moje manželka a Zuzka, naše zprávařka,
+[03:30] i když taky se samozřejmě snažím být v obraze,
+[03:33] takže když budete mít nějaký dotaz na to, co se děje,
+[03:36] tak samozřejmě klidně se mě ptejte.
+[03:38] Pokud byste měli nějaký dotaz k tomu, o čem budu dneska mluvit,
+[03:41] tak se mě taky ptejte.
+[03:43] Budeme mít, tady píše Eva Malotová, ježiš, to je hezký,
+[03:48] ohoj mladíku, takhle říkám můjemu synovi, mu říkám mládežníku.
+[03:52] No.
+[03:55] Budete mít nějaký dotaz, tak se klidně ptejte,
+[03:57] protože tady je Zuzka, na která nevím, má matričko dneska,
+[04:01] ale je vzadu v režii, takže tady vaše komentáře sleduje
+[04:06] a budeme je tady připínat, na který bude potřeba odpovědět.
+[04:11] A samozřejmě mi říkalo, že se asi budeme dneska bavit o Srbsku,
+[04:14] tak jestli budete mít nějaký dotaz na Srbsko
+[04:17] a na diktátora Zelenského o Srbsku, tak se klidně ptejte,
+[04:21] včera jsem o tom mluvil, myslím si, že dneska bychom se k tomu měli dostat
+[04:25] ještě taky, protože jsem vysvětloval ten rozdíl
+[04:27] mezi územní celistvostí a právem na sebeurčení
+[04:31] i jakým způsobem to vlastně je z hlediska mezinárodního práva.
+[04:35] A myslím si, že jsem přišel s takovým docela revolučním konceptem,
+[04:38] který jsem v podstatě ještě nikde ani ve světě neslyšel
+[04:41] o tom, jak Ukrajina nezvládla to, co vlastně by měl zvládnout
+[04:47] který stát, proto by neměla být platným státem,
+[04:51] ale k tomu se ještě určitě dostaneme.
+[04:53] Ale dneska jsem se s vámi chtěl,
+[04:55] na začátek, pobavit o nás, o Češích.
+[04:58] A tím nemyslím jenom Čechy, ale myslím tím i naše skvělé Romy,
+[05:03] protože Romové jsou součástí naší tradice a naší kultury,
+[05:08] protože romský holky krásně vypadají a romský kluci pěkně hrají
+[05:11] na kytáry a na trumpety a hezky zpívají.
+[05:14] A na basy, hlavně na basy, to jim jde.
+[05:17] A taky Moravani. Moravani dělají skvělý víno a skvělou pálenku.
+[05:23] A myslím si, že osobně...
+[05:25] Třeba vám řeknu naprosto upřímně, myslím si,
+[05:27] že Olomouc je dneska nejlepší město v České republice na život.
+[05:31] A to jsem projel Českou republiku komplet několikrát.
+[05:36] Myslím si, že jsou tam nejpříjemnější lidi taky na Severní Moravě.
+[05:39] A taky co tam máme? Šlonsk, Polsko, Polska.
+[05:43] No ne, to je vlastně ještě Česká republika, Slezko.
+[05:46] Takže taky se budeme mluvit o Slezenech a vůbec o všech,
+[05:48] kteří žijeme v České republice jako původní obyvatele.
+[05:52] A původní obyvatele, myslím, stovky let, kteří tady obýváme tu zemi.
+[05:57] A budu si o tom bavit ze dvou důvodů s vámi.
+[05:59] První důvod, proč se o tom budeme bavit, je,
+[06:02] že se chystá nové veřejné schromáždění.
+[06:05] Rozhodli jsme se, že budeme mluvit o veřejném schromáždění,
+[06:08] nikoli o demonstraci.
+[06:10] A k tomu vám tady něco řeknu.
+[06:14] Počkejte.
+[06:16] K tomu vám tady něco řeknu.
+[06:17] Budu vám tady muset připravit obrázek,
+[06:21] jak náhrát. Počkejte, hned vám to tady ukážu.
+[06:24] Budeme mít takovýhle trička
+[06:26] a budeme mít veřejný schromáždění člověk na prvním místě.
+[06:30] Samozřejmě budeme mít k tomu taky letáky, web a všechno ostatní.
+[06:34] Takže pokud byste chtěli potom nějaký tričko mít,
+[06:37] tak napište rychle, protože budeme je teďkon tisknout,
+[06:40] pojedou do Příčov, v Příčovech budou naši lidi,
+[06:43] takže kdybyste si chtěli nějaký koupit, tak ho tam budeme mít.
+[06:46] Ale to není úplně to nejdůležitější.
+[06:49] Důležitější je bavit se o tom, proč by mělo být veřejné schromáždění
+[06:52] člověk na prvním místě.
+[06:54] A jak ho dostat teďko dolu?
+[06:58] Tričko.
+[06:59] A vidíte, tak teď nevím, nemám tady režiséra,
+[07:02] tondu, musím si tady udělat novou scénu.
+[07:05] Tak, už jsem tady.
+[07:06] Ale o tom se budeme bavit.
+[07:08] Ale začnu trošičku v historii.
+[07:10] Dneska jsem totiž poslouchal zajímavý video
+[07:12] od umělý inteligence vytvořený na YouTube,
+[07:15] protože tam je spousta zajímavých,
+[07:16] jakého materiálu, který taky dělá teď umělá inteligence.
+[07:20] A to video se zabývá tím,
+[07:23] proč je Česká republika specifická v tom,
+[07:26] že jsme nejvíc ateistky na celém světě.
+[07:30] Nejenom v Evropě, ale na celém světě.
+[07:32] A je to absolutní unikat.
+[07:34] Samozřejmě každý ho napadne,
+[07:36] když se řekne, Češi jsou nejvíc ateistky na celém světě,
+[07:39] myslím, že snad jenom 15%,
+[07:41] nebo kolik se hlásí nějaký výře,
+[07:45] tak si řekneme, no to je kvůli komunismu,
+[07:46] protože komunistky potírali kněží, potírali církev,
+[07:50] potírali lidi, kteří chtěli chodit do kostela.
+[07:53] Byl tady 40 let materialismus
+[07:56] a ta politika socialistického státu,
+[08:00] která v podstatě tento náboženství
+[08:03] nejenom, že nepreferovala, ale spíš ho potlačovala.
+[08:07] Ale to je jenom z částky pravda.
+[08:10] A je to jenom velmi malá pravda.
+[08:12] Je to jenom střípek do toho, co se stalo.
+[08:15] A vyskutečnosti si myslím,
+[08:16] že to v podstatě ani nemělo moc velký vliv.
+[08:19] Proč? No, protože podívejte se na Polsko.
+[08:22] Polsko je velmi silně katolická země
+[08:25] a měli komunismus úplně stejně jako my
+[08:27] a úplně stejně je tam potírali.
+[08:28] Stejně to bylo i v dalších zemích.
+[08:30] V Romonsku, Bulharsku, Maďarsku, na Slovensku.
+[08:33] Konec konců byli jsme Československo.
+[08:35] A nikde jinde se to nestalo.
+[08:36] Stalo se to jenom u nás.
+[08:38] A když se bere nějaký argument,
+[08:40] tak ten argument by měl platit plošně, obecně.
+[08:43] A v tomhle případě vidíme, že tady neplatí.
+[08:46] To znamená, musíme hledat tu příčinu někde jinde.
+[08:50] A ta příčina, přátelé, je ve středověku.
+[08:55] Podívejte, vemte si Jan Hus.
+[09:01] Jan Hus, náš velký vzor.
+[09:04] Taky jsme měli nějaké setkání u Sochy a na Huse.
+[09:06] Víte, já jsem o něm často mluvil.
+[09:09] Jan Hus byl kněží, byl to duchovní,
+[09:14] byl to filozof, rektor Karlovy univerzity.
+[09:18] Ale to, co bylo nejdůležitější, je,
+[09:21] že to byl bojovník za obyčejného člověka.
+[09:25] Byl to bojovník, který se postavil proti systému,
+[09:28] proti režimu. Proč?
+[09:29] No, protože tehdy ještě nebyl stát.
+[09:31] Dneska bychom mohli říct, že bojujeme proti systému,
+[09:35] tak bychom mohli říct, že bychom bojovali proti tomu,
+[09:37] co dělá stát špatně.
+[09:38] I když v dnešním pojetí už ani ten stát není to, co to bývalo.
+[09:42] Dneska bychom museli mluvit o nadnárodních organizacích,
+[09:45] jako je třeba Evropská unie, pokud bychom se měli podívat na to,
+[09:48] kdo řídí současnou situaci v České republice.
+[09:52] Myslím, to, co se děje, to, co se dotýká obyčejného člověka,
+[09:55] co člověk smí, co člověk nesmí, kam jdou jeho peníze,
+[09:59] protože takhle to dělala církev.
+[10:01] A tou dobou, za doby 13. a 14. století,
+[10:06] tak to byla církev. A byla to katolická církev.
+[10:10] Víte často, že mluvím velmi tvrdě proti katolické církvi,
+[10:14] ne že bych mluvil špatně proti lidem, který věří v Boha.
+[10:19] To ochraň Bůh, vůbec ne, naopak. Často jsem říkal,
+[10:22] že kdybychom měli víru, že by to bylo to nejrychlejší
+[10:26] pro zhotovení České republiky. Ale církev, to je něco úplně jiného.
+[10:30] A v tom 13. a 14. století církev v podstatě nahrazovala ten stát,
+[10:36] protože církev držela moc v rukou. A církev dělala to,
+[10:40] že třeba vybírala desátky. Takže dneska, když vybírá stát daně,
+[10:44] nebo Evropská unie taky vybírá nějaký daně,
+[10:50] tak tehdy to dělala církev. Nejenom církev, ale taky to dělala církev.
+[10:54] Vybírala desátky. Ale hlavně církev byla nositelem toho,
+[10:59] co se smí říkat a co se nesmí říkat. To je jediné pravdy.
+[11:03] A taky byla držitelem, velkým držitelem půdy.
+[11:07] To znamená, církev tady byla instituce, která nebyla jako dneska,
+[11:11] že zajdete do kostela a tam poprosíte, jestli vám můžou pokřtít dítě,
+[11:16] jestli vám můžou, že bych si pustil RT tady někde,
+[11:19] mám tady někde ovládačku od televize, no nemám.
+[11:21] A mohl jsem vám pustit zakázaný Russia Today nebo Sputnik tady na televizi,
+[11:26] ale nepustím, protože tady nemám ovládačku.
+[11:28] No, dneska je to Evropská unie, kdo říká, co se smí a co se nesmí říkat.
+[11:32] Jaký informace můžeme mít a jaký informace nemůžeme mít.
+[11:36] A jaký informace můžeme předávat dál. A tehdy to byla církev.
+[11:39] A církev nedělala jenom tohle, ale církev dělala ještě jednu strašnou věc.
+[11:44] Církev prodávala odpustky. A proto jsem xkrát mluvil o tom,
+[11:48] že katolickou církev nemám rád z tohohle titulu,
+[11:52] protože třeba pravoslavná církev tohle z toho nedělala.
+[11:55] Je to záležitost katolické círky. A co to znamenalo?
+[11:58] Znamenalo to, přátelé, že ti obyčejní lidé, jako jsme my,
+[12:02] museli poslouchat a dělat to, co se jim nakáže.
+[12:05] Ale ti bohatí, ty elity, tak ty mohly hřešit.
+[12:09] A jít za jednou mladou dívkou, za druhou mladou dívkou
+[12:13] a vzít si je tak, jak je chtěli. A když by zhřešili,
+[12:19] což by zhřešili, tak by si zašli koupit odpustky.
+[12:23] A církev by jim prodala odpustky. A pro ně by to znamenalo nejenom to,
+[12:27] že jsou vykoupeni před Bohem, že po smrti půjdou rovnou do ráje,
+[12:31] ale taky před tím státním systémem. Řekněme, ne státním,
+[12:35] ale před tím systémem, církevním systémem tehdy.
+[12:38] Protože pokud vám církev, nebo předtím,
+[12:40] pokud té elitě církev prodala odpustek, tak se samozřejmě hledělo
+[12:44] na toho člověka jako na nevinného. A to byl ten problém,
+[12:48] proti kterému mluvil Jan Hus. To je to, co on kritizoval.
+[12:54] Že církev prodává odpustky. Že se dělá rozdíl mezi obyčejným člověkem
+[12:59] a těmi bohatými elitami, které jsou jaksi vyvolené.
+[13:01] Což chápeme. A není to jenom podle toho. Jan Hus mluvil o tom,
+[13:06] že by bylo potřeba mluvit česky v českých zemích,
+[13:09] že by se mělo mluvit česky. A v kostele, že by se mělo kázat česky.
+[13:14] Což bylo samozřejmě nemyslitelné tou dobou, protože se kázalo letinsky.
+[13:18] A Jan Hus nedělal jenom tohle, ale on psal české knihy,
+[13:22] Bible, překládal do češtiny. Což bylo absolutně revoluční,
+[13:26] protože i Martin Luther, který přišel o 100 let později
+[13:30] s nějakou revolucí, prostě tohle byla absolutní revoluce v Evropě.
+[13:34] Žádná takováhle revoluční osoba, myšlenka,
+[13:37] žádný takovýhle revoluční akt nepředstavuje.
+[13:40] A byli jsme v tomhle tom prvním, měli bychom být hrdina mistra Jana Husa.
+[13:44] Stejně tak v roce 22 připomínám, že všechny ty velký protesty začaly v Praze.
+[13:49] My jsme začali všechny ty národnostní probouzení
+[13:53] vlastenecký začaly v Praze. Na našich demonstracích
+[13:58] na Václavském náměstí. Podívejte se na znělku.
+[14:00] A samozřejmě díky vám za to všem, protože to je věc, kterou děláme pořád společně.
+[14:06] Samozřejmě tohle se nelíbilo katolické církvi, nelíbilo se to,
+[14:10] šlechticům, no tak německým. Tak co se stalo?
+[14:14] No tak pozvali si, že ho mistra Jana Husa do kostnice, tak to víme.
+[14:18] Dostal glejt, kde mu byl zaručeno králem,
+[14:22] že bude v bezpečí. Mistr Janus tam přijel.
+[14:27] Glejt, neglejt, ho zavřeli, udělali s ním soud.
+[14:31] Soud byl takový podobný asi jako s mojí manželkou. Žádný důkazy se nepřipouští.
+[14:35] Jste vina a tady prostě odsouzena
+[14:39] bezpečnostní orožení státu a tak dál.
+[14:43] Tak to už znáte, ten příběh s mistrem Janem Husem to bylo trošku tvrdší.
+[14:47] Mistr Jan Hus dostal tvrdý trest a upálení na hranici.
+[14:51] Tak a to je začátek, protože tohle to byla první revolta
+[14:55] proti tomu systému, proti té círky. A co následovalo?
+[14:59] Nenásledovalo to, že by se Češi nějak schovali,
+[15:03] že by nějak Češi řekli, demonstrace nemají smysl,
+[15:07] nebo něco takového vůbec ne.
+[15:09] Protože se dalo pár chytrých hlav dohromady a dali dohromady husitství.
+[15:14] Dali dohromady novou církev, protestantskou.
+[15:17] A když se to nelíbilo Němcům, když se to nelíbilo Habsburgům,
+[15:22] přišli, vyslali křižácké výpravy proti Čechům,
+[15:28] vzdorujícím protestantům, kteří se najednou nepodvolili
+[15:32] a odcházeli hromadně z katolické církve.
+[15:35] No tak Češi se toho nebáli, postavili vozové hradby
+[15:39] a 15 let, 15 let, přátelé, válka na Ukrajině je 4,5 roku,
+[15:43] 15 let se bránili Němcům, nebudu říkat Skopčákům,
+[15:48] protože to jsou jenom ti Skopce tam od nás od Krumlova,
+[15:51] tím se říká Skopčáci, Němcům všem, Habsburgům,
+[15:54] křižákům a bránili se a vyhrávali.
+[15:57] Bohužel samozřejmě ta přesila byla obrovská,
+[16:01] takže nakonec jsme byli poraženi,
+[16:04] ale po nějakou dobu jsme měli v České republice svobodu.
+[16:09] Náboženství, dokonce glejtem vyhlášenou.
+[16:14] A to fungovalo, v České republice byly různý církve,
+[16:19] různý náboženství, různý sekty náboženský,
+[16:22] to nebyly jenom husité, ty nebyly všichni stejný.
+[16:26] Česká republika byla v podstatě takovým zdrojem obrození v Evropě,
+[16:31] jediná svobodná, řekněme, země v tomto ohledu.
+[16:35] A to trvalo poměrně dlouho, až prakticky do roku 60.
+[16:40] 1618, 1620, řekněme, do bitvy na Bílé hoře.
+[16:45] Dokonce víte, že jsme ještě před tou Bílou horou vyhodili pár lidí z Voken,
+[16:49] kteří pracovali pro Němce, že jsme se toho nebáli.
+[16:52] Něco podobného, jako říkal Tomáš Čermák, aby jsme přišli do parlamentu,
+[16:56] vytáhali je za rypáky, vyházeli je z mostu do řeky,
+[16:59] abychom si jich zbavili jednou pro vždy.
+[17:01] Tak on to samozřejmě říkal z recese.
+[17:03] Chudá kluk za to dostal pět a půl let vězení.
+[17:05] V České republice to bylo taky tvrdě potlačeno,
+[17:08] když se tenkrát vyházeli nějací ty pobočníci Němců z Voken,
+[17:14] nebylo jich moc, 27 českých šlechticů,
+[17:17] za to zaplatilo veřejně stětím hlavy a vystavením na Karlově mostě.
+[17:22] A potom nám Němci poslali jezuity a začali nás pokatoličťovat.
+[17:28] Takže katolická církev u nás byla nařízená.
+[17:31] Lidi byli kontrolovaní, byli vyslány na vesnice,
+[17:34] byli vyslány jednou.
+[17:35] Byly jednotky, které měly přesvědčovat lidi a pokatolizovávat.
+[17:39] Knižky byly páleny v češtině, Němčina byla nařízená a tak dál.
+[17:43] Toto je naše historie, která trvala potom dlouho,
+[17:47] až do obrození v devatenáctém století,
+[17:49] kde se zase našlo pár chytrých hlav, které říkaly,
+[17:52] hele Češi, my tady mluvíme česky, my nejsme žádný Němci,
+[17:55] my nepatříme na západ, my jsme vlastně tady taková jedna velká rodina
+[17:59] a měli bychom se spojit.
+[18:01] A začali prosazovat český jazyk, českou knihu, českou liturgii.
+[18:05] Dokonce v tom sedmnáctém století jen Jan Amos Komenský utekl.
+[18:09] Protože tehdy utekly deseky tisíce Čechů, když bylo to po Němčování.
+[18:13] To bylo tvrdé. Něco jako teď, ale ještě to není úplně teď.
+[18:17] No i když taky utíká hodně lidí.
+[18:21] Dobře, nebudu to úplně srovnávat.
+[18:23] Jan Amos Komenský strávil zbytek života v exilu.
+[18:26] No, taky znám jednoho, co...
+[18:28] Ale ten tam žije v exilu,
+[18:30] protože má manželku srbskou. No, to je fok, pojďme dál.
+[18:33] Devatenácté století začalo zase znova obrození.
+[18:36] Začala se znova vynořovat ta česká nátura, že jsme Češi.
+[18:41] Ale už prostě nikdy nepřišlo to, že bychom se zberchali z toho,
+[18:47] co nám udělali Němci, co nám udělali Habsburkové,
+[18:50] co nám udělali katolíci, jakým způsobem nás zničili,
+[18:54] jakým způsobem spustošili během těch patnáctilet Českou zemi,
+[18:58] když válčili proti...
+[19:00] proti Kalichu křižáckými výpravami,
+[19:03] když nám popravili, rozprášili a popravili českou šlechtu
+[19:07] a nahradili naší šlechtu německou šlechtou,
+[19:11] majetky českým rodinám šlechtickým zabavili
+[19:15] a vyvraždili spoustu lidí.
+[19:17] Takže tohleto poněmčování a pokatoličkování vedlo k tomu,
+[19:21] že lidi ztratili důvěru ke katolickou církev.
+[19:25] A proto jsme nejateističkejším národem na světě.
+[19:29] Ale...
+[19:30] je taková, že skoro polovina lidí v České republice
+[19:33] sice nejsou katolíci nebo křesťané,
+[19:36] nehlásí se ke konkrétní víře,
+[19:38] a víte, že když bylo sčítání lidu,
+[19:40] tak lidi psali třeba, že se hlásí k džedajům.
+[19:42] To mě přišlo strašně jako...
+[19:44] strašně příjemný, jakože lidi to berou takhle s nadsázkou.
+[19:47] Ale podle statistik zhruba asi polovina lidí
+[19:50] věří v to, že tady je něco většího.
+[19:52] Nějaká karma nebo nějaké vyšší bytí,
+[19:55] nějaká spiritualita, nějaké duchovno,
+[19:58] nějaký vyšší smysl, nějaké vyšší bytí,
+[20:01] nějaký vyšší řád, nebo něco takového,
+[20:04] nebo možnost se probudit třeba,
+[20:08] někteří z nás.
+[20:10] Takže přítel bezejména tady.
+[20:16] Mělo tam být český občan na prvním místě.
+[20:18] Miloš z Otavy, Kanada.
+[20:20] No jo, dobře, Miloši, tak přijď z Otavy do České republiky,
+[20:22] udělej si svoje trička
+[20:24] český občan na prvním místě.
+[20:26] Ne, proč? Proč si je neuděláš, že jo?
+[20:29] Jako...
+[20:33] Nejde o český občan,
+[20:34] nebo o občana na prvním místě.
+[20:35] My jsme dělali Českou republiku na prvním místě
+[20:37] a vlastenství jsme tady zvedli v roce 2022.
+[20:41] Teďkon jsme v jiný situaci.
+[20:43] Teď nejde jenom o to, abychom zvedali vlastenství.
+[20:46] Vlastenství samozřejmě zvedat budeme dál.
+[20:49] A nejde o český občan na prvním místě.
+[20:51] Ne.
+[20:52] Jedna věc je občan,
+[20:54] jedna věc je člověk.
+[20:56] To jsou úplně jiný věci.
+[20:58] Český občan je záležitost republiková
+[21:01] a my jsme čtyři a půl roku nebo jak dlouho
+[21:03] tady tahali republiku na první místo.
+[21:06] Teď přišel čas na to udělat jiný krok.
+[21:09] Protože my jsme udělali demonstrace
+[21:14] Česká republika na prvním místě.
+[21:16] Udělali jsme plán Česká republika na prvním místě,
+[21:20] jak zachránit republiku.
+[21:22] Ale bohužel společnost to nepochopila.
+[21:24] A bohužel to, co se stalo,
+[21:26] podívejte, vysvětlím vám, proč člověk na prvním místě.
+[21:30] Když jsme udělali demonstrace,
+[21:34] proč Česká republika na prvním místě,
+[21:36] tak co se stalo?
+[21:38] Masové demonstrace, spousta lidí,
+[21:40] velká naděje, že se to změní.
+[21:42] A ono se to nezměnilo. Proč?
+[21:44] Protože to hnutí mělo růst dál a dál a dál.
+[21:49] A to, co jsem říkal, nedělám to proto,
+[21:52] abych z toho udělal politické hnutí.
+[21:54] Nevznikne z toho politické hnutí
+[21:56] na tom Václaváku v tom roce 22.
+[21:58] Je potřeba dát dohromady 7 % obyvatelstva,
+[22:02] aby se otočil směrem
+[22:04] země.
+[22:06] A protože naši bezpečnostní tajný služby,
+[22:12] ti, kteří slouží západu,
+[22:14] tak jako konšele, kteří sloužili Němcům,
+[22:17] ti, kteří slouží dneska
+[22:19] tomu globalistickému západu,
+[22:21] Evropské unii, Spojeným státům,
+[22:23] prostě tomu globalistickému západu,
+[22:26] můžeme říkat, rozebereme si to později ještě víc,
+[22:29] tak ti věděli, že tady jim jde o to,
+[22:33] že můžou ztratit Českou republiku.
+[22:35] Proč?
+[22:37] Protože ten globalismus potřebuje
+[22:41] zničit národy, ovládat je.
+[22:43] Stejně jako Habsburkové potřebovali
+[22:45] ovládnout České republice,
+[22:47] zničit intelektuály,
+[22:49] zničit opozici,
+[22:51] zničit protestanty
+[22:53] a nastolit jim, co si mají myslet,
+[22:55] jaký informace smí přijímat a jaký ne.
+[22:57] Úplně stejně to dělá dneska Evropská unia na to,
+[23:00] aby mohla brát naší půdu,
+[23:03] aby mohla brát výdobytky
+[23:05] práce našich lidí.
+[23:07] Tak potřebuje rozbít ten národ.
+[23:09] Proč?
+[23:11] Protože představte si národ jako nádobu.
+[23:13] A když ten národ pracuje
+[23:15] a do té nádoby
+[23:17] hlije to bohatství,
+[23:19] které vezme ze země
+[23:21] a ty výdobytky svojí práce,
+[23:23] tak ta nádoba je čím dál tím víc plná.
+[23:25] A ten národ může víc a víc pít.
+[23:27] A potom je ten národ bohatější
+[23:29] a bohatější a bohatější.
+[23:31] Protože se kumuluje to bohatství
+[23:33] v tom národu.
+[23:35] Ale co by z toho měly potom ty nadnárodní korporace?
+[23:37] Takže tady je potřeba
+[23:39] ten národ rozbít,
+[23:41] aby ten národ nekumuloval to svoje bohatství
+[23:43] do toho kastrolu,
+[23:45] aby oni mohli natáhnout hadičku
+[23:47] ze dna toho kastrolu
+[23:49] a jak my to tam lijeme do toho hrnce,
+[23:51] tak to tou hadičkou pořád odtéká
+[23:53] globalistickým
+[23:55] řekněme strukturám
+[23:57] na západ. To bohatství.
+[23:59] A my na ně pracujeme.
+[24:01] Je to takový trošku nevolnictví.
+[24:03] Je to trošičku jako kdybychom byli jejich kolonie.
+[24:05] No to jsou samozřejmě důkazy,
+[24:07] že je to takové. A tohle se to začalo
+[24:09] už v roce 89.
+[24:11] Protože v roce 89
+[24:13] my jsme měli svoji republiku
+[24:15] a dneska svoji republiku nemáme
+[24:17] a navíc jí máme brutálně zadluženo.
+[24:19] A teď vám pustím jedno video tady,
+[24:21] abyste si odpočinuli od toho,
+[24:23] o čem mluvím na chviličku
+[24:25] a vrátíme se k tomu za chviličku zpátky.
+[24:27] Myslím si, že to je video z roku 97.
+[24:29] Zamyslete se nad tím,
+[24:31] jakým způsobem fungují naši politici.
+[24:33] Že dneska vlastní
+[24:35] všechny ty továrny, všechny ty podniky
+[24:37] zahraniční firmy
+[24:39] a odvádí veškerý zisk
+[24:41] z České republiky pryč.
+[24:44] ...
+[24:46] ...
+[24:48] ...
+[24:50] ...
+[24:52] ...
+[24:54] ...
+[24:56] ...
+[24:58] ...
+[25:01] ...
+[25:03] ...
+[25:05] ...
+[25:07] ...
+[25:10] ...
+[25:13] ...
+[25:15] ...
+[25:17] ...
+[25:19] ...
+[25:21] ...
+[25:23] ...
+[25:25] ...
+[25:27] ...
+[25:29] ...
+[25:32] ...
+[25:34] ...
+[25:37] ...
+[25:41] Protože to je zákonní toknost.
+[25:43] Já člověče vidím tu ruku prozřetelnosti.
+[25:47] Všechno k tomu spěje.
+[25:49] Všechno zapadá do sebe a míří ke katastrofě.
+[25:53] Jeden čin za druhým.
+[25:54] A já jsem si říkal, ty vole, oni po té revoluci, jak to dostali.
+[25:58] Ta šance mít to 20 let, člověče.
+[26:02] Jen se o ty lidi trošku postarat.
+[26:05] Žádnej parazit, já jsem nad tím přemýšlel,
+[26:07] žádnej parazit, člověče, nezničí svýho nositele.
+[26:10] Oni jo.
+[26:11] Oni rozkradli všechno, kluci.
+[26:15] Všechno. Všechno.
+[26:18] Všechno, ano.
+[26:22] Ale jak? Všechno rozkradli.
+[26:31] Teď jsem říkal tady kamarádovi.
+[26:34] Hele, oni třeba teď prostě prodávají pražský vodárny.
+[26:40] Praha. A to tak, že to, co je v zemi, ty roury,
+[26:44] to, co praská, co se musí udržovat, to si město nechá.
+[26:47] A ty počítní stanice a ty přečerpání
+[26:50] a ty, kteří nesou milionový zisky a kteří rozhodujou o ceně vody,
+[26:54] ty prodají svou kromníku. Co prodají, no?
+[26:57] Malá domu. Čili, my budeme platit, ty budeš platit ty roury
+[27:01] a ještě budeš platit vodu.
+[27:03] A někdo se na tom nabalíkuje.
+[27:05] Oni nás přehlasujou.
+[27:10] Ta Odeska nás přehlasuje.
+[27:12] Jde, my jsme teď s kamarádem, s tím Moravcem, dáme to k soudu.
+[27:16] A soud se to zablokuje.
+[27:18] Protože jakmile to zastupitelstvo odsouhlasí, s tím světřená voda nepomůže.
+[27:24] Nebo, hele, oni dělaj, a to je dnes a denně, jo.
+[27:26] Oni dělaj to, že představte si, že si budete, pane režisere, chtít koupit něco za sedm milionů.
+[27:31] Já jsem úředník na ministerstvu privatizace, jo.
+[27:34] Zpíšeme s váma smlouvu a ta bude taková,
+[27:37] že za každej den, co bude mít prodlevu naše smlouva,
+[27:41] vám dáme milion penále.
+[27:43] A já jako úředník to sedm dní zdržím,
+[27:46] to znamená těch sedm milionů, co máte platit,
+[27:48] opomenu.
+[27:50] Nikde není v zákoně např. že to musím udělat hned, když mám hodně práce.
+[27:54] Já to opomenu,
+[27:56] vznikne škoda k vám zaplatit sedm milionů,
+[27:58] vy máte sedm milionů,
+[28:00] takže dostanete tu továrnu zadarmo,
+[28:02] bez ničeho, a mně dáte meloun.
+[28:05] Jsme oba za vodou.
+[28:07] Takhle to dělaj.
+[28:08] Furt se ještě nezastavilo.
+[28:10] Co?
+[28:14] Ten si žije vlastním životem.
+[28:21] No je to, já jsem se úplně v prdeli.
+[28:23] Já jsem byl starý optimista.
+[28:26] Úroveň.
+[28:34] Všechno to haproje.
+[28:36] Je to ale na lidský kvalitě, jo.
+[28:38] Nepovedli jsme se pánu bohu kucí vůbec.
+[28:40] Jsme strašný kurvy.
+[28:42] Hnozní.
+[28:47] Takhle musí se Jan Lucemburský taky věděl, že...
+[28:51] Jel.
+[28:53] Vyjel.
+[28:55] Musíš s kamarádama vyjet.
+[29:00] Tak, přátelé, slyšeli jste to.
+[29:02] Musí se vyjet.
+[29:04] Musí se vyjet.
+[29:06] Ta situace, tohle je samozřejmě video z roku 97.
+[29:09] To byly úplně jiný částky.
+[29:12] Ale stejně.
+[29:13] Předávaly se banky.
+[29:14] Předávaly se továrny.
+[29:16] Všechno, co jsme měli.
+[29:17] Škodovka není česká.
+[29:18] Budvar není český.
+[29:19] Plzeň není česká.
+[29:21] Prostě všechno dneska.
+[29:23] Všechno dneska od rána, když vstaneme.
+[29:26] Tak už když si vyčistíme zuby.
+[29:28] Tak kartáček je zahraniční pasta.
+[29:31] Zahraniční zavodu, která nám teče v trubkách.
+[29:34] Kletíme zahraniční společnosti.
+[29:36] A když si rozsvítíme v koupelně.
+[29:38] Protože vstáváme třeba brzo.
+[29:40] Ráno ještě je tma.
+[29:41] No tak platíme za elektriku.
+[29:43] A peníze z toho se vyvádí ven ze země.
+[29:45] A to jsme teprve začali.
+[29:47] Když se oblíkneme a sedneme do zahraničního auta.
+[29:49] Natankujeme na zahraniční benzínce.
+[29:51] A jedeme pracovat pro zahraniční firmu.
+[29:53] Tak pořád tou hadičkou odtejkají ty peníze.
+[29:56] Přič na západ.
+[29:57] A to je naše současná situace.
+[29:59] A když se podíváte třeba na to.
+[30:04] Na to co se děje s elektřinou.
+[30:07] To je velmi zajímavá věc.
+[30:09] Mluvil jsem o tom.
+[30:11] Na té je prostě krásně vidět.
+[30:13] Jakým způsobem to funguje.
+[30:15] Podívejte se.
+[30:16] Rok 2021 se začala zdražovat elektřina.
+[30:18] Brutálním způsobem.
+[30:20] A tehdy nastoupil Petr Fiala do vlády.
+[30:22] A řekl, že vyřeší ten problém do prosince.
+[30:25] Nevyřešil.
+[30:26] Do dneška se nevyřešil.
+[30:28] Do dneška v České republice je 4,5x dražší elektřina.
+[30:31] Než je v Srbsku.
+[30:33] A není k tomu důvod.
+[30:34] Protože v Srbsku se vyrábí trošičku dražší.
+[30:37] Než se vyrábí v České republice.
+[30:39] A teď vy když děláte business.
+[30:41] Když jsem studoval ekonomiku.
+[30:43] Tak tam se dělá něco, čemu se říká cenotvorba.
+[30:47] Tvorba ceny.
+[30:49] Tak vy vytvoříte tu cenu.
+[30:52] Toho produktu, jaká by měla být.
+[30:54] Máte nějaké náklady.
+[30:56] Na zaměstnance, na ty firmy, na ty továrny.
+[30:58] Na ty elektrárny.
+[31:00] A vyjde vám cena, za kterou to vyrobíte.
+[31:02] A pak by měla být prodejní cena.
+[31:04] Takže vy to vyrobíte třeba za korunu.
+[31:06] Tu kilovatu.
+[31:08] A teď ji máte prodat.
+[31:10] No tak se podíváte, jak vypadá trh.
+[31:12] Tak když si kupuju oblečení.
+[31:14] Tak na tom je marže 100%.
+[31:16] Nebo 200%.
+[31:18] Když si kupuju jídlo v restauraci.
+[31:20] Tak je na tom marže 200-300%.
+[31:22] Když je to nějaká elektronika.
+[31:24] Tak je na tom 20-30%.
+[31:26] Když je to jídlo v obchodě.
+[31:28] Tak je na tom třeba 50-70%.
+[31:32] No tak se podíváte takhle na ten trh.
+[31:34] A prostě zjistíte, že normálně
+[31:36] by byla marže na elektřinu
+[31:38] by měla být třeba 200%.
+[31:40] Že by měla být ta elektřina třeba za 3 koruny.
+[31:44] A to je tak jakoby normální.
+[31:47] Plus ale samozřejmě tady je stát.
+[31:49] A ten stát by měl zohlednit,
+[31:51] že elektřinu potřebují všichni.
+[31:53] Takže pro domácnosti.
+[31:55] Pro obyčejného člověka.
+[31:57] Pro člověka, který žije v České republice.
+[31:59] By měl stát udělat takovou politiku.
+[32:01] Aby ta elektřina byla dostupná.
+[32:03] Aby nebyla dostupná.
+[32:05] Aby byla drahá.
+[32:07] Aby ten člověk nekolaboval.
+[32:09] Prostě to potřebují všichni.
+[32:11] Když je to něco, co nepotřebují všichni,
+[32:13] tak si může někdo říct,
+[32:15] že to není základní lidská potřeba.
+[32:17] Tak nemusí všichni jezdit na dovolenou na Tahiti.
+[32:19] Tak prostě OK, tam ať je to drahý,
+[32:21] jak si to dovolí jen ten, kdo na to má.
+[32:23] Ale elektřinu potřebují všichni.
+[32:25] Děti se potřebují učit do školy.
+[32:27] Potřebují mít počítač k tomu.
+[32:29] To jsou věci, které jsou potřeba doma.
+[32:31] Máma potřebuje vyprat prádlo lidem,
+[32:33] aby chodili v čistém prádle,
+[32:35] aby se nemnožily nemoci,
+[32:37] aby jsme měli hygiénu nějakou.
+[32:39] No tak musí běžet pračka.
+[32:41] No a to jsou takové běžné věci.
+[32:43] Musí se uvařit jídlo, aby se mělo co jíst.
+[32:45] To znamená, stát by tady měl udělat
+[32:47] politiku takovou, aby elektřina byla
+[32:49] levnější, než je průměr trhu.
+[32:51] Ale u nás v České republice
+[32:53] to tak není.
+[32:55] Je to naopak.
+[32:57] V České republice nás vází
+[32:59] kilowata až na deset korun.
+[33:01] To znamená, je tam tisíc procent marže.
+[33:03] A proč je tam tisíc procent marže?
+[33:05] Kde je ten rozdíl mezi tou normální cenou,
+[33:07] za kterou by se to mělo prodávat,
+[33:09] a za tou, kterou se to prodává?
+[33:11] Protože to platí každý člověk.
+[33:13] To jsou neuvěřitelné peníze.
+[33:15] Vemte si každý z vás,
+[33:17] kdybyste mi dali, teď je tady 576 lidí,
+[33:19] kdybyste mi dal každý měsíc tisícku.
+[33:21] Co tisíc korun? Tisíc korun, řekněme, no.
+[33:23] Co tam, tak může být ta marže navíc,
+[33:25] třeba na osobu.
+[33:27] No, teď bych byl tady za vodou 576 tisíc,
+[33:29] za jedno vysílání,
+[33:31] půl mega, no to by byla nádhera.
+[33:33] A to je tady 576 lidí,
+[33:35] v té republice 11 milionů lidí.
+[33:37] Chápete, kolik je to peněz?
+[33:39] No tyhle ty peníze někam jdou.
+[33:41] Tyhle ty peníze
+[33:44] někam odtékají.
+[33:46] Samozřejmě, co zůstane státu,
+[33:48] protože má dividendy z Česu,
+[33:50] je, jakým způsobem si tam rozdělují
+[33:52] peníze v Česu. Jak tam lidi
+[33:54] jezdí na svoje setkání,
+[33:56] management novýma Porschema,
+[33:58] jak si dávají deseti miliony
+[34:00] každej rok do kapsy.
+[34:02] Jen tak, ale veřejně.
+[34:04] Bo ví, co tam jde, ještě neveřejně.
+[34:06] A k tomu, tohle to není potřeba.
+[34:08] Dřív to tak nebylo, dřív to nebylo tak,
+[34:10] že by, mám kamaráda, který šéfoval
+[34:12] elektrárny v jednom kraji.
+[34:14] Jo, samozřejmě měl hezký peníze,
+[34:16] ale takový peníze, že by si kupoval
+[34:18] v Česku, neexistovalo.
+[34:20] A dneska se to děje. Na úkor každého člověka
+[34:22] je tady taková politika,
+[34:24] že někdo na tom strašně bohatný,
+[34:26] nebo ten pan Tykač, který je dneska,
+[34:28] nebo Přetínský, nebo Tykač,
+[34:30] nebo nevím, kdo šla, který
+[34:32] v časopisu Forbes, protože si kupuje
+[34:34] společnosti v zahraničí, další,
+[34:36] protože ty lidi mají z toho takový
+[34:38] obrovské peníze, že si kupují
+[34:40] elektrárny v dalších zemích.
+[34:42] Neuvěřitelný.
+[34:44] A ten, kdo to udělal, je stát.
+[34:46] Protože stát má
+[34:48] zodpovědnost za to, jakým způsobem
+[34:50] se ten stát řídí. Dokonce stát
+[34:52] zastropoval tu cenu. Vzpomeňte si,
+[34:54] stát zastropoval cenu
+[34:56] po našich demonstracích tak vysoko,
+[34:58] aby z toho ty bohatý
+[35:00] byli bohatý ještě víc.
+[35:02] A když se podíváte na to, jaká je
+[35:04] funkce státu, tak
+[35:06] tam jsou politici. A řekněme,
+[35:08] kdybychom byli v demokracii
+[35:10] a zvolili bychom si politiky, tak
+[35:12] ti politici jsou tam proč?
+[35:14] Ti politici jsou tam proto, aby pracovali
+[35:16] pro nás. Pro lidi.
+[35:18] My je volíme. Nevolí je přece dobře
+[35:20] Křekínský a tyka, že volí taky, ale to jsou
+[35:22] dva hlasy.
+[35:24] A když se na to podíváte,
+[35:26] tak by přece ten politik měl
+[35:28] dělat a rozhodovat takovou politiku,
+[35:30] aby když
+[35:32] se rozhoduje, kolik bude stát
+[35:34] elektřina, tak aby ti politici
+[35:36] řekli, dobře tady je výrobní cena
+[35:38] 40-50 halířů reálně
+[35:40] v České republice.
+[35:42] Bude tam marže 200%, tak bude za
+[35:44] korunu 50. Pro domácnosti, pro firmy,
+[35:46] může být trošku vyšší, protože to je
+[35:48] nějaká, aby byly konkurenceschopní,
+[35:50] aby to neměly moc levnější než jinde.
+[35:52] Můžeme podpořit náš průmysl, ale nemusíme
+[35:54] nějak moc. Ale domácnosti,
+[35:56] lidi by to měli mít prostě
+[35:58] za korunu 50 tu elektřinu. To je to, co
+[36:00] jsem navrhoval v roce 2022.
+[36:02] A to je to, co bych udělal, kdybych vládl v České
+[36:04] republice, samozřejmě. Dokonce
+[36:06] jsem navrhoval, že by to měli mít rodiny
+[36:08] zdarma, protože byla poměrně
+[36:10] těžká hospodářská situace a je pořád
+[36:12] pro ty obyčejný lidi, pro ty nejchudší.
+[36:14] Takže jenom
+[36:16] do určitý míry elektřinu, aby se neplejtval.
+[36:18] Ale stát tohle nedělá.
+[36:21] Stát, když dělá rozhodnutí,
+[36:23] tak udělá rozhodnutí takový, že
+[36:25] obyčejným lidem peníze
+[36:27] vezme a dá ty peníze
+[36:29] těm nejbohatším, těm, kteří
+[36:31] mají ty velké firmy, těm, kteří
+[36:33] mají ten napojení na
+[36:35] globalistický kapital.
+[36:37] A nejenom to. Dneska se nám likviduje
+[36:39] celá energetická soustava.
+[36:41] A protože my jsme byli ještě
+[36:43] v roce 22 největším exportérem
+[36:45] elektřiny v Evropě,
+[36:47] tak se předává, tadyhle ty zisky
+[36:49] se předávají Němcům pomalu.
+[36:51] Protože Němcům se předají v rámci
+[36:53] Green Dealu, protože ti vytvoří 1000 gigawatts
+[36:55] v solárních
+[36:57] elektrárnách a budou nám tu elektřinu
+[36:59] prodávat, zatímco my naše elektrárny
+[37:01] boříme. Zasypáváme sklady
+[37:03] s úhlím a boříme naše
+[37:05] úhelné plynové
+[37:07] elektrárny. A to tady
+[37:09] je jasný důkaz toho,
+[37:11] že ti politici, ten
+[37:13] stát, nemají člověka
+[37:15] na prvním místě, ale mají na prvním
+[37:17] místě nějaké bohaté
+[37:19] elity, nějaké
+[37:21] energobarony. Proto udělali takovou
+[37:23] politiku. A těchto lidských příkladů je
+[37:25] spousta. A to, co vám
+[37:27] chci říct, my jsme v roce 2022
+[37:29] vzbudili národ,
+[37:31] který přišel do ulic a
+[37:33] měl za úkol ten národ, aby
+[37:35] se bouřil víc, aby přišlo víc
+[37:37] lidí, aby se zaplňovali ulici,
+[37:39] aby se lidi začali bavit o tom,
+[37:41] co se děje. Proč? Protože jsem
+[37:43] chtěl, aby přišla revoluce.
+[37:45] Revoluce. Ne to, že přijde
+[37:47] do poslanecký sněmovny
+[37:49] pár nových politických
+[37:51] stran, který
+[37:53] jsou v podstatě ODSBčko,
+[37:55] aby křičeli, jo, my máme českou vlajku
+[37:57] tady a my jsme Češi a vlastenci,
+[37:59] aby dál pracovali
+[38:01] pro ten nadnárodní kapitál,
+[38:03] aby dál pracovali pro Evropskou unii.
+[38:05] Protože, dobře, Evropská unie,
+[38:07] podívejte se na Evropskou unice,
+[38:09] Evropská unie z pohledu člověka
+[38:11] na prvním místě. Na začátku
+[38:13] Evropská unie byla dohoda
+[38:15] o volným prodeji, založeno
+[38:17] na, řekněme, na ocely.
+[38:19] A taky to byli
+[38:21] obchodníci, velcí
+[38:23] průmyslníci evropští, kteří
+[38:25] řekli, pro nás je jednodušší, když se
+[38:27] to bude prodávat ve všech státech
+[38:29] bez toho, aniž bychom si tady dávali
+[38:31] cla, nějaký zákony, nějaký hranice,
+[38:33] nějaké blbý účtování, uděláme
+[38:35] si firmy všude. A udělala se
+[38:37] obchodní Evropská unie.
+[38:39] Už tehdy to teda nebylo
+[38:42] úplně v pořádku, protože vždycky, když ten
+[38:44] velký kapitál přijde do malé země,
+[38:46] tak si ji vezme, tak ji
+[38:48] přečísluje, protože je silnější
+[38:50] ekonomicky. Ale OK, to byla
+[38:52] Evropská unie tehdy. Dneska Evropská unie
+[38:54] je záležitost politická.
+[38:56] To je docela horko.
+[38:58] Politická, ty počítače a
+[39:00] světla topí.
+[39:02] Politická. A co má za úkol
+[39:04] dnešní Evropská unie?
+[39:06] Podívejte se. Brát nám práce.
+[39:08] To znamená, abychom se nemohli
+[39:10] rozhodovat, co chceme.
+[39:12] Stalo se to, že
+[39:14] naši politici přijali
+[39:16] změnu ústavní a dali do ústavy
+[39:18] článek 10, který
+[39:20] říká, že mezinárodní smlouvy jsou
+[39:22] nadřazené českému zákonu.
+[39:24] To znamená, když se něco
+[39:26] usmlouvá v Evropské unii, jako třeba
+[39:28] migrační pakt, tak se česká vláda,
+[39:30] český parlament, český prezident,
+[39:32] to znamená naši zákonodárci,
+[39:34] nemůžou tomu bránit.
+[39:36] Protože to je nadřazený našim
+[39:38] zákonům. Není možný přijmout
+[39:40] zákon, že se zavřou hranice
+[39:42] a nebudeme přijímat migranty.
+[39:44] Nelze, protože nemáme suverenitu.
+[39:46] Nemáme zákonodárnou suverenitu,
+[39:48] protože Lisabonská smlouva
+[39:50] a smlouva Evropské unie
+[39:52] a dohody jako migrační pakt, směrnice
+[39:54] na řízení z Evropské unie,
+[39:56] jsou nadřazené našim zákonům.
+[39:58] To znamená, Evropská unie
+[40:01] v oblasti toho,
+[40:03] co je člověk na prvním místě,
+[40:05] tak má rozhodovací právo
+[40:07] a teď by mohla říct,
+[40:09] dobře, ale my jsme přece i unie
+[40:11] pro Českou republiku, pro českého
+[40:13] člověka, my bysme
+[40:15] měli mít na prvním místě českého člověka
+[40:17] a pak je tady otázka,
+[40:19] proč nám teda sem spou
+[40:21] ty miliony migrantů?
+[40:23] A proč, když vidíme, že v Německu to selhalo,
+[40:25] v Itálii to selhalo,
+[40:27] v Británii to selhalo, v dalších zemích
+[40:29] to selhalo, proč najednou chtěj
+[40:31] teda dovážet ty migranty
+[40:33] do Český republiky, do Polska,
+[40:35] na Slovensku a všude jinde?
+[40:37] Proč ten problém, který vytvořili
+[40:39] si ty státy, jako je Německo,
+[40:41] proč Evropská unie neřekne, my jsme
+[40:43] tady proto, abychom chránili
+[40:45] každého občana, každého člověka
+[40:47] a pro Českou republiku
+[40:49] je to špatně, aby najednou dostala
+[40:51] desítky tisíc
+[40:53] migrantů z islámských zemí,
+[40:55] protože vidíme, že to je špatně v Německu,
+[40:57] vidíme to každý den v novinách
+[40:59] a v dalších zemích.
+[41:02] Ne, oni to neudělej. Udělej to,
+[41:04] že přesunou ty migranty k nám
+[41:06] do České republiky. Proč? No, protože pro ně
+[41:08] není člověk na prvním místě,
+[41:10] ale pro ně je na prvním místě jejich
+[41:12] agenda, to, co prosazují, jejich
+[41:14] politická agenda. A co je jejich politická agenda?
+[41:16] Jejich politická agenda
+[41:18] je byznys, tak jak to začalo, s ocelí.
+[41:20] Proč? No, protože ty
+[41:22] firmy potřebují vytvořit
+[41:24] takovou společnost,
+[41:26] aby měly odbytiště,
+[41:28] aby měly trh, aby měly člověka,
+[41:30] který pro ně pracuje. To je pro ně
+[41:32] nejjednodušší.
+[41:34] Každý takovýhle systém,
+[41:36] který boří
+[41:38] ty hranice, aby mohl víc
+[41:40] obchodovat, musí útočit zákonitě
+[41:42] nejenom na ten národ,
+[41:44] aby neexistovaly národy, ale aby to bylo všechno
+[41:46] propojený, ale taky na rodinu.
+[41:48] Protože, podívejte,
+[41:50] rodina, co to je rodina?
+[41:52] Nevím, vy máte
+[41:54] třeba nějakej život za sebou,
+[41:56] nebo užili jste nějakej
+[41:58] život, vydělali jste nějaký peníze,
+[42:00] a každý z nás přemýšlíme nad tím,
+[42:02] co tady necháme našim potomkům.
+[42:04] Co jsme pro ně vyrobili, postavili,
+[42:06] vytvořili, našetřili,
+[42:08] co jim odkážeme, a co pro ně
+[42:10] zajišťujeme i teď.
+[42:12] Protože to je normální. Protože v rodině
+[42:14] se rodiče starají o svoje děti,
+[42:16] o svoje vnoučata, a předává
+[42:18] se dědictví dál. To znamená, každá
+[42:20] rodina má tendenci hromadit
+[42:22] nějaký majetek pro svoje potomky.
+[42:24] A teď Uršula von der Leyen
+[42:27] říká, že je velký problém
+[42:29] v tom, že Evropaně mají spoustu
+[42:31] úspor, že by bylo potřeba ty
+[42:33] úspory vzít a převést je do investic,
+[42:35] protože Evropská unie nemá dostatek
+[42:37] peněz na svůj program
+[42:39] Rearm Europe, kam chtějí dát
+[42:41] 800 miliard eur.
+[42:43] Takže pro ně je problém
+[42:45] to, že ty rodiny mají
+[42:47] úspory. Proto je potřeba
+[42:49] rozbít rodiny, aby se
+[42:51] nespořilo pro ty děti, ale aby se
+[42:53] ty peníze mohly točit.
+[42:55] Aby se mohly převést do těch investic.
+[42:57] A tady za tím si můžete podívat,
+[42:59] proč bylo včera v Praze LGBT
+[43:01] plus průvod. To je přece
+[43:03] záležitost Evropské unie.
+[43:05] To je to, co Evropská unie prosazuje.
+[43:07] Dokonce tak, že ten, kdo by
+[43:09] proti tomu mluvil, tak může jít do vězení.
+[43:11] Přestože to většina z nás
+[43:14] nepovažuje za morálně správný,
+[43:16] že po ulicích běhají nějaký
+[43:18] lidi, kteří se převlíkají za psy a
+[43:20] provádí tam obcování nebo zákoně.
+[43:22] A tak dál.
+[43:24] Ale Evropská unie to tlačí, tohleto.
+[43:26] Tlačí dětem
+[43:28] neziskovky do škol,
+[43:30] tu agendu, že ty děti mají být solidární
+[43:32] s těmi ostatními uchyláky.
+[43:34] Takže začínají tím,
+[43:36] že se chlapečci mají převlíknout
+[43:38] za holčičky a holčičky se mají převlíknout
+[43:40] za chlapečky. Proč?
+[43:42] No protože, když
+[43:44] zautočí na tu identitu toho člověka,
+[43:46] tak tím rozbíjí
+[43:48] tu rodinu. Podívejte, kolik těch chlapečků
+[43:50] přišlo o to, co tam normálně
+[43:52] mývají. Potom, když
+[43:54] dospějou, tak mají katastrofu,
+[43:56] protože nemůžou založit rodinu.
+[43:58] Ale celkově tahleta agenda
+[44:00] proti rodinám je podporovaná.
+[44:02] Proč? No protože ty rodiny nehromadí
+[44:04] majetek. Protože potom,
+[44:06] když každý žije sám, tak
+[44:08] nepotřebuje hromadit dědictví,
+[44:10] ale všechno utratí za ten svůj život.
+[44:12] Dokonce se nebojí si pučit,
+[44:14] utratit všechno a pučit si,
+[44:16] zadlužit se. To je ten způsob,
+[44:18] který tyhle globalisky
+[44:20] v podstatě prosazují.
+[44:23] Ale OK, pojďme zpátky,
+[44:25] proč člověk na prvním místě.
+[44:27] Protože ten nejzákladnější
+[44:29] důvod je, my když jsme tady
+[44:31] udělali tu velkou vlnu v roce 2022,
+[44:33] tak ten systém
+[44:35] viděl, že to je problém.
+[44:37] Že to je protiglobalistický, že to je národní.
+[44:39] Že by měli
+[44:41] problém najednou ty politici, který
+[44:43] pracují pro ty výrobce zbraní,
+[44:45] pro Ameriku, pro NATO. Ten Macinka,
+[44:47] který jezdí do kongresu domluvovat
+[44:49] byznysy ve zbraních. Ten Turek, který
+[44:51] chtěl vyrábět ty drony.
+[44:53] Ten Babiš, který má chemičky
+[44:55] v Německu. Prostě všichni
+[44:57] tyhle politici, a samozřejmě
+[44:59] i ostatní, i ty z ODS, který
+[45:01] mají naškudleno, tak
+[45:03] všichni viděli. Pavel, který je napojený
+[45:05] na koláře, na americký vojenský
+[45:07] průmysl. Všichni tyhle politici viděli,
+[45:09] že jestli se tady dá dohromady
+[45:11] národ a udělá to, co říká
+[45:13] Vrabel, že se začnou prosazovat
+[45:15] zájmy České republiky a českých
+[45:17] občanů, tak ten globalistický
+[45:19] kapitál bude mít problém. Co jsem říkal?
+[45:21] Nakupovat ropu
+[45:23] a plyn z Ruska. Problém pro západní
+[45:25] kapitál. Potravinová soběstačnost.
+[45:27] Začít sponsorovat
+[45:29] a tlačit svoje vlastní výrobce potravin.
+[45:31] Problém pro globalistický kapitál,
+[45:33] protože oni nám sem dodávají ty nekvalitní
+[45:35] potraviny. Teď to sem začnou
+[45:37] tát z Ameriky ty geneticky modifikovaný
+[45:39] potraviny. Léková
+[45:41] soběstačnost. To je přece obrovský
+[45:43] biznis. Druhý největší biznis na světě
+[45:45] jsou léky
+[45:47] a vůbec farmaprůmysel.
+[45:49] A když Vrabel mluvil o tom, že máme mít svůj
+[45:51] samostatnost v oblasti
+[45:53] léku, protože dneska třeba nemáme léky
+[45:55] proti rakovině prsu. Nedávno to byl
+[45:57] penicillin, co jsme neměli.
+[45:59] Tak by to byl problém pro ten západní
+[46:01] kapitál, protože by na tom nevydělával, na tom
+[46:03] českým trhu. A další a další věci,
+[46:05] o kterých sem mluvil. Vojenská
+[46:07] neutralita. No to by byl obrovský problém,
+[46:09] protože podívejte se dneska do novin.
+[46:11] Jediný, co tam je, poslední čtyři
+[46:13] a půl roku, tak se prosazuje
+[46:15] každý den
+[46:17] ten vojenskoprůmyslový
+[46:19] komplex. To znamená výroba a
+[46:23] miliard. To by byl obrovský problém
+[46:25] pro ten západní kapitál,
+[46:27] kdyby byla Česká republika neutrální
+[46:29] vojensky. Protože Česká republika
+[46:31] musí pomáhat Ukrajině, vyrábět
+[46:33] zbraně, musí dávat peníze
+[46:35] na zbraně. To by byl
+[46:37] obrovský problém. Proto bylo potřeba zastavit
+[46:39] Vrabela, protože Vrabel se zbláznil
+[46:41] a najednou myslí na dobro
+[46:43] českýho člověka, na dobro český
+[46:45] republiky. Ale politici historicky
+[46:47] od roku 89 jsou
+[46:49] skorumpovaný a pracujou
+[46:51] pro ty západní globalistický
+[46:53] politik, kterým předali celou Českou republiku
+[46:55] veškerý průmysl, prakticky
+[46:57] veškerý vlastnictví. Dokonce ani
+[46:59] zákony na ochranu zemědělství půry neudělali.
+[47:01] A potom tu republiku zadlužili
+[47:03] těm globalistickým
+[47:05] strukturám. Skrze
+[47:07] systém bankovnictví
+[47:09] jsme absolutně
+[47:11] podřízení v podstatě americkému
+[47:13] FEDu a systému centrálních bank,
+[47:15] Mezinárodním měnovým
+[47:17] fondů. Skrze
+[47:19] zákony, skrze naší ústavu
+[47:21] jsme politicky v rozhodování
+[47:23] absolutně podřízení Evropské
+[47:25] unii, OSN, WHO
+[47:27] a dalším nadnárodním, mezinárodním
+[47:29] organizacím, se kterými se podepisují ty smlouvy.
+[47:31] V oblasti obchodu,
+[47:33] biznisu jsme
+[47:35] absolutně podřízení západním globalistickým
+[47:37] společnostem, který u nás mají
+[47:39] nákupní centra, myčky,
+[47:41] benzínky, prodejny
+[47:43] potravin,
+[47:45] nevím co všechno, prodejny
+[47:47] léků, prodejny kosmetiky, prodejny
+[47:49] textilů, prostě všechno. To je všechno
+[47:51] západní kapitál. A v oblasti
+[47:53] výroby jsme montovnou
+[47:55] pro západní kapitál.
+[47:57] To znamená, ten zájem
+[47:59] tady, který se prosazuje, není
+[48:01] zájem obyčejného českého člověka,
+[48:03] ale zájem
+[48:05] nadnárodního západního kapitálu.
+[48:07] A Vrabel přišel s tím, že je potřeba
+[48:09] se probudit. Že je potřeba, aby si
+[48:11] Češi řekli dost. Nenecháme se
+[48:13] kolonizovat, nenecháme se
+[48:15] okrádat. To, co si tady vyrobíme
+[48:17] a vyndáme z naší země a co nám naše
+[48:19] země vyprodukuje, je naše.
+[48:21] A my si to necháme.
+[48:23] A my budeme bohatnout. Ne, aby bohatli
+[48:25] v Americe, v Německu
+[48:27] na nás, ale aby jsme my bohatli.
+[48:29] Takhle jednoduchý to je.
+[48:31] Proto říkám, vlastenectví
+[48:33] pro mě je pragmatická záležitost.
+[48:35] My, kteří tady obýváme tu zemi,
+[48:37] se máme starat o svoje děti,
+[48:39] o svoje rodiny, o svoje
+[48:41] bohatství. A to je to,
+[48:43] s čím jsem přišel. A je logický,
+[48:45] že ten západní kapitál
+[48:47] a ta západní politika
+[48:49] nadnárodní samozřejmě vyděla
+[48:51] toto jako nebezpečí, protože tam jsou
+[48:53] miliardový, stamiliardový čefty.
+[48:55] A řekli toho vrábele, někdo musí odstranět.
+[48:57] To nejde. Ten nám tady dělá
+[48:59] strašný problém. Proto
+[49:01] přišli zevnitř, viděli jsme
+[49:03] všechny ty Zuzany, nevím
+[49:05] už ani, jak se jmenuje tyhle, ty agenty,
+[49:07] kteří přišli z tajných služeb.
+[49:09] A i dneska jich máme hromadou vnitř.
+[49:11] Přišla hromada agentů, kteří pracují
+[49:13] pro policii, tajný policajti,
+[49:15] agenty, psychologický
+[49:17] program jako Kryt.
+[49:19] Ministerstvo vnitra udělalo Kryt.
+[49:21] Celý systém, kde napsali, jakým
+[49:23] způsobem to řešit. Jak bojovat
+[49:25] i proti Vrábelovi, když Vrábel
+[49:27] tam byl poměrně dostatečně
+[49:29] zastoupený. Jak ho pojmenovat,
+[49:31] znemožnit. Tři dny po té velké
+[49:33] demonstraci začaly trestní
+[49:35] řízení proti mojí osobě. Naprosto
+[49:37] nesmyslné, jak se nakonec ukázalo.
+[49:39] Že jsem měl ukrát peníze z demonstrací,
+[49:41] zpronevěřit. A nejen co všechno.
+[49:43] Spousta. Druhý den média
+[49:45] stále, že jsem před 20 lety nekoupil
+[49:47] lístek na autobus.
+[49:49] Takovýhle věci
+[49:51] vytvořily ze mě člověka,
+[49:53] který dneska, i ti vlastenci,
+[49:55] kteří chodili na ty demonstraci, říkají
+[49:57] Vrábel, no to ne. A to se jim podařilo.
+[49:59] To se jim podařilo velmi dobře.
+[50:01] Proč? Protože ty lidi nemají
+[50:03] páteř. Kdyby měli páteř, tak by řekli
+[50:05] ne, my prostě nedáme toho člověka,
+[50:07] který se postavil před nás. On to
+[50:09] udělal pro nás a my budeme stát
+[50:11] před ním, my ho budeme chránit.
+[50:13] A to neudělali ti vlastenci.
+[50:15] Udělalo to několik tisíc,
+[50:17] možná řekněme několik desítek
+[50:19] tisíc lidí, ano, kteří stojí
+[50:21] pořád za mnou a kteří mě volili
+[50:23] a kteří mě podporují, ano,
+[50:25] děkuju vám za to, ale ten zbytek
+[50:27] to neudělal. Ten národ to neudělal.
+[50:29] To je velká chyba.
+[50:31] Především pro ten národ, co mě se týče
+[50:33] tak se s kým smířím, ale především pro ten národ
+[50:35] je to problém. A druhá věc,
+[50:37] museli vyslat někoho, kdo převezme
+[50:39] ten Václavák, kdo převezme ty demonstrace
+[50:41] a odvede je někam
+[50:43] do temného lesa, kde se všichni
+[50:45] ty lidi ztratí. A mezi tím se
+[50:47] řekne, demonstrace nemají smysl.
+[50:49] A prodá se lidem ten příběh,
+[50:51] že demonstrace nemají smysl.
+[50:53] Proto muselo být vytvořeno to, co bylo.
+[50:55] Proto se muselo nejdřív otáčet
+[50:57] Václavák proti Rusku.
+[50:59] Žádný ruský vlajky. Nikdo se
+[51:01] nepřijel podpořit Putina, nikdo se nepřijel
+[51:03] podpořit Rusko. Máte tady někoho,
+[51:05] kdo má nějaký oznáčky Z
+[51:07] a nějaký nášivky Wagner Group?
+[51:09] Najděte fotky, videa, pošlete nám
+[51:11] to všechno. Musíme to zjistit, kdo to byl.
+[51:13] Pošlete to, musíme je identifikovat.
+[51:15] Další tiskovka. Identifikovali jsme
+[51:17] tři osoby, který měli
+[51:19] nášivky Z a Wagner Group.
+[51:21] Podali jsme na ně trestní oznámení. Tohle nebudeme
+[51:23] tolerovat. Vytváření strachu.
+[51:25] A potom jdeme
+[51:27] a budeme obklopovat úřad vlády, dokud
+[51:29] vláda neustoupí.
+[51:31] Jede, jede mašinka,
+[51:33] nějaké zatancování.
+[51:35] Pamatujete si to, jak tam skákali?
+[51:37] Za tři dny se to všechno rozpustilo.
+[51:39] A ten příběh o tom, že demonstrace nemají smysl,
+[51:41] se krásně prodal. A celé to
+[51:43] obrovské hnutí vlastenecké, které
+[51:45] se začalo zvedat, se rozprášilo.
+[51:47] Pár lidí dostalo podmínky
+[51:49] za to, že měli nějaké oznáčky.
+[51:51] Pár lidí šlo na výslechy.
+[51:53] Mě samozřejmě zatkli.
+[51:55] Odsoudili. Nakonec mě tedy
+[51:57] ústavní soud osvobodil, protože
+[51:59] myslím si, že jsem se bránil poměrně
+[52:01] tvrdě, co se týče
+[52:03] svobody slova. Takže tam jediná
+[52:05] věc, ve které jsem uspěl. A jsem za to rád,
+[52:07] protože to je jedna z velkých věcí.
+[52:09] Advokát řekl, že to je rozsudek, který tady
+[52:11] za dekády nebyl takovýhle rozsudek.
+[52:13] Že to je něco, co opravdu... A taky vím,
+[52:15] že ostatní lidi, kteří
+[52:17] byli ztíhaní potom, tak se všichni
+[52:19] odvolávali na ten
+[52:21] rozsudek. A hromada lidí prostě
+[52:23] není ve vězení a nedostala
+[52:25] podmínky, protože i policie
+[52:27] musela říct ten první den, když jsme vyhráli,
+[52:29] že musí přizpůsobit to,
+[52:31] jakým způsobem zachází s těmi lidmi
+[52:33] se svobodou slova. Takže tohle
+[52:37] je jedna věc, která se povedla. Ale jinak
+[52:39] to vlastenecké hnutí,
+[52:42] a teď nemyslím vlastenecké jako, že
+[52:44] vlajky, jo, vlajky, vlajky, vlajky,
+[52:46] vlajky jsou super, ale o to nejde.
+[52:48] Jde o to, aby ty peníze zůstaly
+[52:50] našim dětem. Aby jsme měli my
+[52:52] svoji svobodu, aby nám zůstala země.
+[52:54] Aby ta země zůstala našim dětem.
+[52:56] A ne, aby naše dcery, já žádnou nemám
+[52:58] teda, ale aby naše dcery
+[53:00] se nemusely bát jít večer ven.
+[53:02] Že je chytne nějakej
+[53:04] migrant tamhle, kterej
+[53:06] přijede a že je někde v ohnevu zábradlý
+[53:08] a holka má zničenej život.
+[53:10] A těch příběhů je spousta, a dokonce je
+[53:12] zabíjej. Těch příběhů je spousta.
+[53:14] V západní Evropě prostě dneska nemůžete
+[53:16] tak jako v Čechách v obyčejném
+[53:18] městě vylézt ven na ulici.
+[53:20] Holka v minisutni sama večer
+[53:22] prostě neexistuje.
+[53:24] V Srbsku můžou v Běléhradu takhle chodit.
+[53:26] V noci sami. Srbsko je absolutně bezpečná
+[53:28] země. Česká republika je docela
+[53:30] bezpečná země ještě. Ale v Německu
+[53:32] nepřipadá v úvahu. V Rakousku,
+[53:34] v Holandsku, Belgii, ve Švédsku,
+[53:36] v Norsku, v Nězozemí, v Holandsku jsem říkal,
+[53:38] v Itálii, ve Španělsku.
+[53:40] Nepřipadá v úvahu.
+[53:43] A to je to, co jsem chtěl, aby se
+[53:45] probudilo. A to, co nám
+[53:47] prodali, to, co udělali velmi dobře,
+[53:49] je, že demonstrace nemají smysl.
+[53:51] Dokonce, když přebírali ten
+[53:53] Václavák, tak řekli, dejte mi mandát.
+[53:55] My jediný, co potřebujeme, dejte
+[53:57] mi mandát. My to vyřešíme. My budeme
+[53:59] bojovat za vás. A lidi
+[54:02] jim na to skočili. Lidi jim
+[54:04] koupili ten příběh, že demonstrace nemají
+[54:06] smysl. Lidi koupili ten
+[54:08] příběh, že na hlasu jednotlivýho člověka
+[54:10] nezáleží. Že jeden člověk
+[54:12] stejně nemá šanci.
+[54:14] Že jediný, co může udělat ten člověk,
+[54:16] je jít ve volbách hodit ten hlas
+[54:18] a dát mandát někomu jinému.
+[54:20] To je to, co jim prodali. Vždycky jsem
+[54:22] vám na Václaváku říkal,
+[54:24] to není o tom, že chci od vás,
+[54:26] aby vy jste mi dali vaši sílu. Ne.
+[54:28] Tu sílu máte vy všichni.
+[54:30] Tu máme my všichni. Tu sílu musí
+[54:32] mít lidi. Každý z vás
+[54:34] musí mít tu sílu. My jsme ta síla
+[54:36] v tom státě. My jsme
+[54:38] ti, kteří rozhodujeme o tom, jak naše země
+[54:40] bude vypadat. My si musíme
+[54:42] každý z nás nechat tu sílu
+[54:44] a bojovat za tu zemi. My všichni.
+[54:46] To je to jediné, čeho se bojí.
+[54:48] Ale jim se podařilo nám
+[54:51] prodat to, že v Rábel je
+[54:53] šmucka nějaká, zadlužená,
+[54:55] nevím, zkrachovaná,
+[54:57] zadlužená, podvodník, blázen,
+[54:59] nevím, co všechno.
+[55:01] A co se týče
+[55:03] obyčejného člověka, tak má mít strach,
+[55:05] má bát si říct svůj názor
+[55:07] a nemá žádnou moc.
+[55:09] Tak se lidi upnuli k tomu,
+[55:11] že tedy ve volbách něco změní.
+[55:13] Že se něco změní.
+[55:15] Velká naděje.
+[55:17] Na to, co se stalo. Přišli lidi, kteří
+[55:19] jim něco naslibovali.
+[55:21] Nejdřív to bylo, dobře, tak my uděláme
+[55:23] referendum o vystoupení z EU
+[55:25] a z NATO, protože jsme vlastenci.
+[55:27] My budeme bojovat za Českou republiku,
+[55:29] nebudeme přece bojovat za ty
+[55:31] globalistické agendy v EU a v NATO
+[55:33] a tak dál. Babiš
+[55:35] českou vlajku, Česko
+[55:37] na prvním místě si pučil
+[55:39] před volbama.
+[55:42] Okamura každý den psal, Česká republika
+[55:44] na prvním místě.
+[55:46] Slibovali i to, že
+[55:50] do té války, že muniční
+[55:52] racie, ty OE35 a všechny tyhle
+[55:54] věci. Ne, my se budeme starat o český občany.
+[55:56] Vzali si tu rétoriku,
+[55:58] kterou jsem přinezl na ten Václavák.
+[56:00] Ten plán Česká republika na prvním místě.
+[56:02] To vlastenství. Vzali si ho
+[56:04] a začali ho slibovat lidem.
+[56:06] A lidi udělali co?
+[56:08] Nechali se podvést trošičku těma
+[56:10] médiem a trošku jsou hloupí, protože média jim řeklo
+[56:12] tady jak je 10 politických stran, který mají
+[56:14] šanci, tak to musíte hodit jim.
+[56:16] Ale ty politické strany
+[56:18] byly dlouho připravovaný a vybíraný.
+[56:20] Všichni ty lidi
+[56:22] prošli sítem a každý ten
+[56:24] člověk je napojený na nějaký
+[56:26] zahraniční kapitál, na nějakýho
+[56:28] kmotra z ODS, anebo
+[56:30] byl sám poslancem v ODS.
+[56:32] Každý z nich, z těch lidí, kteří
+[56:34] jsou úplně v tom top.
+[56:37] Nebudu vám tady říkat jména, ale všichni.
+[56:39] A to, co udělali,
+[56:42] že ten odpor, který
+[56:44] tady byl, rozmělnili,
+[56:46] přetavili ho do těch
+[56:48] volebních lasů, vzali si ten mandát,
+[56:50] tu sílu od lidí
+[56:52] a řekli děkujeme.
+[56:54] A teď pojedeme dál.
+[56:56] Zase budeme odporovat
+[56:58] výrobu zbraní,
+[57:00] zůstaneme v Evropské unii,
+[57:02] zůstaneme v NATO, všechny ty zahraniční
+[57:04] firmy jsou pro nás důležitý,
+[57:06] muniční iniciativa NATO, partneři jsou pro nás
+[57:08] důležitý, atd.
+[57:10] To je to, co se děje.
+[57:13] A proto děláme demonstraci
+[57:15] člověk na prvním místě,
+[57:17] protože je čas, aby si člověk,
+[57:19] jeden člověk, každý z vás,
+[57:21] každej, uvědomil,
+[57:23] že je nás tady nějaký počet
+[57:25] a že jsme to my,
+[57:27] kdo vlastníme tu zemi
+[57:29] a kdo řídíme tu zemi.
+[57:32] Je potřeba, aby si lidi zase vzali tu sílu
+[57:34] zpátky od těch politiků.
+[57:36] Proč? Protože ty politici dělaj
+[57:38] jednu věc špatně. Podívejte se.
+[57:40] Politik, člověk na prvním místě,
+[57:42] vemte si to
+[57:44] k tý myšlence,
+[57:46] že je člověk na prvním místě.
+[57:48] Tak my tady máme nějakou demokracii,
+[57:50] říkají. V čem spočívá ta demokracie?
+[57:52] Není to tak, jako ve Starém Řecku,
+[57:54] že lidi v těch malých komunitách
+[57:56] diskutovali na ulici, řekli si,
+[57:58] jo, budeme dělat jen tohle,
+[58:00] tohle opravíme tamhle, počtem peníze,
+[58:02] tohle uděláme, s těma nebudeme válčit,
+[58:04] s těma uděláme tohle atd.
+[58:06] Tak to dělali ve Starém Řecku.
+[58:08] Dneska my jsme velký stát, 11 milionů lidí,
+[58:10] proti tomu, jak to bylo v Řecku,
+[58:12] v těch komunitách, v těch městech.
+[58:14] Dneska to je velký. Takže se to nedá
+[58:16] úplně dělat tak, že by si 11 milionů sedlo
+[58:18] a začali si říkat, jak se to udělá.
+[58:20] Proto existuje demokratický systém
+[58:22] a má to logiku. Přijdou nějaký lidi,
+[58:24] řeknou, my jsme tady nějaká parta,
+[58:26] a my budeme prosazovat tadyhle 100.
+[58:28] A vy, kteří to chcete,
+[58:30] tak nám dejte hlas
+[58:32] a my to budeme prosazovat.
+[58:34] Má to nějakou logiku.
+[58:36] Je tady nějaká soutěž politická
+[58:38] co ten člověk chce,
+[58:40] tak podle toho dá hlas
+[58:42] té politické partě, která to bude prosazovat,
+[58:44] která bude hlasovat
+[58:46] podle toho programu.
+[58:48] Má to logiku. Kde je problém?
+[58:50] Problém je v tom,
+[58:53] že se může stát,
+[58:55] že třeba v té partě
+[58:57] bude někdo,
+[58:59] kdo dostal peníze za to,
+[59:01] že bude dělat něco jiného.
+[59:03] Že bude prosazovat něco jiného.
+[59:05] Že je třeba parta, která řekne,
+[59:07] my budeme dělat teď tu elektriku,
+[59:09] levnou, protože to lidi chtějí
+[59:11] a my to pro ně budeme udělat.
+[59:13] Ale je tam někdo v té partě,
+[59:15] v té politické partě,
+[59:17] kdo zašel za Křetínským a za Tykačem,
+[59:19] ten mu dal prostě dvě mega do kapsy
+[59:21] a on říká, jojojo, zvolte mě,
+[59:23] udělám vám levnou elektřinu.
+[59:25] A když je potom ve funkci,
+[59:27] tak si vzpomene, jak ho hřejou ty dva miliony
+[59:29] v kapse a řekne,
+[59:31] no víte, ono to nejde.
+[59:33] A otočí
+[59:35] to, co dělá, o 180%
+[59:37] oproti tomu, co slíbil před volbama.
+[59:39] A to je ten problém.
+[59:41] A největší problém je v tom,
+[59:43] že 100% politiků dělá tohle.
+[59:45] Že slibují lidem,
+[59:47] aby je lidi zvolili,
+[59:49] že bude pracovat pro lidi,
+[59:51] ale potom, protože to je
+[59:53] ekonomicky výhodnější,
+[59:55] pracuje pro elity,
+[59:57] protože ty elity je korumpují.
+[59:59] A nejenom to. Není to jenom o tom, že je korumpují.
+[01:00:01] Ty elity mají pod kontrolou média.
+[01:00:03] A ta média už před volbama řeknou,
+[01:00:05] tyhlecty
+[01:00:07] se tam můžou dostat,
+[01:00:09] protože ta média jsou pod kontrolou těch elit.
+[01:00:11] Ty jsou pod kontrolou globalistického
+[01:00:13] západního kapitálu.
+[01:00:16] A ta média řídí,
+[01:00:18] kdo v té politici může být, a kdo ne.
+[01:00:20] A kdo by se zprotivil
+[01:00:22] globalistickému západnímu kapitálu,
+[01:00:24] tak ho média zlikvidují, jako zlikvidovali mě.
+[01:00:26] Kdo by hájil
+[01:00:28] zájmy člověka českého
+[01:00:30] oproti, protože musíte si
+[01:00:32] uvědomit, že to je o penězích.
+[01:00:34] Ty peníze buď to tečou na jednu stranu, nebo na druhou stranu.
+[01:00:36] Tam není mezi.
+[01:00:38] Není žádná mrtvá schránka pro ty peníze.
+[01:00:40] Ty peníze se buď přesouvají
+[01:00:42] tam, anebo tam.
+[01:00:44] Buď se přesouvají k českým obyčejným lidem,
+[01:00:46] nebo se přesouvají
+[01:00:48] ke globalistickému zahraničnímu kapitálu.
+[01:00:50] A když se podíváte na to, jak
+[01:00:52] funguje politika a ekonomika
+[01:00:54] posledních desetiletí, tak vidíte,
+[01:00:56] že se ke globalistickému
+[01:00:58] západnímu kapitálu přesunulo
+[01:01:00] prakticky veškeré bohatství České republiky.
+[01:01:02] Česká republika,
+[01:01:04] český občan zůstal zadlužen.
+[01:01:06] Samozřejmě, že se nám žije
+[01:01:08] líp než před třiceti lety.
+[01:01:10] Že máme pěkný telefony
+[01:01:12] a pěkný auta a baráky
+[01:01:14] opravený a tak dále. Ano, protože
+[01:01:16] jsme se nechali taky zkorumpovat.
+[01:01:18] Protože nám vzali majetek za
+[01:01:20] stovky, stovky, stovky, stovky,
+[01:01:22] stovky miliard a dali
+[01:01:24] nám stovky, stovky, stovky
+[01:01:26] milionů. Nějaký
+[01:01:30] úplatky za to, že jsme jim to nechali. Tak jak to říkal
+[01:01:32] Frankišek Ringo Čech,
+[01:01:34] jo, tak tady uděláme
+[01:01:36] tadyhle milion, tam sedm milionů,
+[01:01:38] takže vy to dostanete zadarmo, milion dáte
+[01:01:40] mně. A člověk dostal
+[01:01:42] něco, co má hodnotu sedm milionů
+[01:01:44] za milion,
+[01:01:46] který dal jako úplatek nějakému
+[01:01:48] úředníku. To nejsou moje
+[01:01:50] výmysly. Frankišek Ringo Čech
+[01:01:52] vyděl tu politiku
+[01:01:54] zevnitř. A může
+[01:01:56] vám to potvrdit hromada jiných lidí, jak to
+[01:01:58] funguje. Tímhle způsobem jsme přišli
+[01:02:00] o celou republiku. To znamená, celou
+[01:02:02] dobu se ten majetek přesouvá
+[01:02:04] k těm globalistickým zahraničním
+[01:02:06] strukturám a
+[01:02:08] ne k českému člověku. To znamená,
+[01:02:10] celá ta politika
+[01:02:12] celou dobu pracuje proti
+[01:02:14] obyčejnému člověku českému.
+[01:02:16] A obyčejný český
+[01:02:19] člověk mlčí. Bojí se,
+[01:02:21] sedí doma a mlčí. A nechal si prodat,
+[01:02:23] že demonstrace nemají smysl.
+[01:02:25] A jaká je z toho cesta ven?
+[01:02:27] A na to se mě lidi pořád
+[01:02:29] tají. A jaká je z toho cesta ven?
+[01:02:31] A jaká je z toho cesta ven? A jaká je z toho cesta ven?
+[01:02:33] Říkám to od roku
+[01:02:35] 2022 pořád stejně.
+[01:02:37] Musí se dát na ulici
+[01:02:39] lidi dohromady.
+[01:02:41] A říct, co chtěj, aby se nabalili
+[01:02:43] další lidi. A ty lidi to musí
+[01:02:45] vydržet. A musí přijít
+[01:02:47] další lidi a další lidi.
+[01:02:49] A když těch lidí bude hodně,
+[01:02:51] tak se to stane. Podívejte, v Srbsku
+[01:02:53] jsou vyhlášený volby snad
+[01:02:55] už teď podruhý znova. Parlamentní
+[01:02:57] volby. Proč? Protože se lidi
+[01:02:59] sešli několikrát na ulicích
+[01:03:01] a bylo jich hodně, tak
+[01:03:03] prezident vyhlásil už dvakrát.
+[01:03:05] Vyhlásil volby. A jednou dokonce
+[01:03:07] jako parlamentní. A jednou dokonce
+[01:03:09] navrhoval a nabízel,
+[01:03:11] že odstoupí a udělá
+[01:03:13] prezidentský volby.
+[01:03:15] Tak nevím který, ale
+[01:03:17] už třikrát nabízel volby a
+[01:03:19] dvakrát, myslím, jednou proběhli a další
+[01:03:21] budou teď na podzim. A to je jenom
+[01:03:23] tím, že se demonstrovalo.
+[01:03:26] A to ten prezident nedělá
+[01:03:28] to, co
+[01:03:30] ten národ nechce, jako je to v České
+[01:03:32] republice. Takže demonstracemi
+[01:03:34] se samozřejmě dá vydobít
+[01:03:36] všechno. A když by to
+[01:03:38] nešlo, když by ta vláda
+[01:03:40] nechtěla uposlechnout davy lidí,
+[01:03:42] tak ty davy lidí jednoduše
+[01:03:44] můžou jít a tu vládu
+[01:03:46] svrhnout. Na to mají právo.
+[01:03:48] Protože ta země patří
+[01:03:50] nám, lidem. Ta nepatří
+[01:03:52] ani Slovákovi Babišovi,
+[01:03:54] ani polokorejci Okamurovi,
+[01:03:56] ani prostě,
+[01:03:58] nevím, kdo tam dneska je,
+[01:04:00] pardon, omlouvám se, nechci úplně jmenovat, ale
+[01:04:02] kdo tam ještě je, nebo Macinkovi, který
+[01:04:04] 8. května na
+[01:04:06] výročí konce druhé světové války,
+[01:04:08] kde jsme trpěli pod Německem,
+[01:04:10] ne že bysme trpěli pod Německem už od 13. století,
+[01:04:12] tak jel do Německa,
+[01:04:14] protože to pro ně bylo
+[01:04:16] velmi významný, že ho Němci
+[01:04:18] zrovna na tohle datum pozvali.
+[01:04:21] Rozumíte, ta nepatří
+[01:04:23] těmhle lidem. Tyhle
+[01:04:25] lidi jsou falešní elity, protože
+[01:04:27] z nich dělají média.
+[01:04:29] Média z nich dělají hvězdy. Oni
+[01:04:31] nepracují pro nás, pro lidi.
+[01:04:33] Oni pracují pro
+[01:04:35] západňáky, pro západní
+[01:04:37] globalistický kapitál a pro
+[01:04:39] nadnárodní korporace a nadnárodní
+[01:04:41] politický struktury, který taky slouží
+[01:04:43] nadnárodním korporacím.
+[01:04:46] Oni neslouží nám, nepracují
+[01:04:48] pro nás. Oni nemají žádný
+[01:04:50] právo tam být. Někdo může
+[01:04:52] říct, tady je ústavní právo, byli zvolený,
+[01:04:54] mají tam právo být. Ano,
+[01:04:56] to by měli, kdyby
+[01:04:58] dělali to, co slíbili
+[01:05:00] v předvolebních programech.
+[01:05:02] Kdyby dělali to, co
+[01:05:05] slíbili v předvolebních programech,
+[01:05:07] tak bych tady nevyzýval k tomu, abychom šli
+[01:05:09] do ulic. Tak bych řekl, dobře,
+[01:05:11] to je vůle lidu
+[01:05:13] a vůle lidu musí být respektována.
+[01:05:15] Ale vůle lidu bylo něco
+[01:05:17] jiného. Andrej Babiš
+[01:05:20] prakticky všechno, co slíbil,
+[01:05:22] tak porušil.
+[01:05:24] Z těch velkých věcí, na kterých vyhrál volby,
+[01:05:26] všechno porušil. Motorisky
+[01:05:28] úplně stejně. SPD,
+[01:05:30] Tricolora, Pro a Svobodný,
+[01:05:32] když to vezmu od toho, že
+[01:05:35] slibovali referendum o vystoupení
+[01:05:37] z Evropské unie a z NATO,
+[01:05:39] že si budou moc Češi vybrat,
+[01:05:41] jestli chtějí být otroky
+[01:05:43] globalistického kapitálu
+[01:05:45] a zatahování do války.
+[01:05:47] A oni to zazdili?
+[01:05:49] Ne, ne, ne, přátelé.
+[01:05:51] Všechny ty politické strany, které jsou dneska
+[01:05:53] u moci, tak neplní to
+[01:05:55] na základě čeho je lidi
+[01:05:57] zvolili. To znamená, vůle lidu
+[01:05:59] tady byla porušena.
+[01:06:01] A národ má právo jít a
+[01:06:03] sfrhnout tyhle lidi.
+[01:06:05] Ještě jednou to řeknu, protože
+[01:06:07] je mi jasný, že tajný služby
+[01:06:09] a policie už přemejší nad tím, jak
+[01:06:11] teda trestního známení navrátila,
+[01:06:13] zatknout ho za to, že tady mluví o revoluci.
+[01:06:15] Kdyby ty
+[01:06:17] politické síly v České
+[01:06:19] republice dodržovaly
+[01:06:21] to, na základě čeho
+[01:06:23] byly zvolené lidem,
+[01:06:25] tak bych neřekl půl slova.
+[01:06:27] Protože by to byla
+[01:06:29] vůle lidu, která se demokratickým
+[01:06:31] způsobem realizuje.
+[01:06:33] Ale protože lid byl podvedený
+[01:06:35] a ty politické síly
+[01:06:38] místo toho, aby reprezentovaly vůli lidu,
+[01:06:40] zase pracují pro NATO.
+[01:06:42] Pro Evropskou unii.
+[01:06:44] Pro globalistický kapitál.
+[01:06:46] A neplní to, na základě čeho je lidi
+[01:06:48] dosadili do funkcí, tak národ má právo
+[01:06:50] takovouhle vládu svernout.
+[01:06:52] A jestli si národ nechal
+[01:06:55] jestli si národ
+[01:06:57] tady ne...
+[01:06:59] Jestli si národ nechal prodat
+[01:07:02] tu myšlenku, že jednotlivec
+[01:07:04] nemá sílu,
+[01:07:06] že demonstrace, to znamená
+[01:07:08] seskupení lidí, nemá smysl,
+[01:07:10] tak je potřeba
+[01:07:12] to těm lidem vrátit.
+[01:07:14] Je potřeba těm lidem říct, ne, ne, ne.
+[01:07:16] Každý z vás má sílu.
+[01:07:18] Dohromady jsme mnohem silnější.
+[01:07:20] Dohromady můžeme zvládnout
+[01:07:22] cokoliv. Dohromady můžeme udělat
+[01:07:24] cokoliv. Ale musí každý
+[01:07:26] z nás. Každý z nás musí dostat
+[01:07:28] tu sílu. A pak můžeme dohromady
+[01:07:30] zvládnout cokoliv. A to vodítko,
+[01:07:32] který tady je,
+[01:07:34] je člověk na prvním místě.
+[01:07:36] Každý rozhodnutí politický se musí
+[01:07:38] hodnotit, jestli je tam
+[01:07:40] člověk na prvním místě. Jestli to
+[01:07:42] politický rozhodnutí je udělaný proto,
+[01:07:44] aby se měl člověk dobře,
+[01:07:46] anebo jestli se má
+[01:07:48] dobře někdo jiný
+[01:07:50] a vytěžuje toho člověka.
+[01:07:52] Takhle jednoduchý to je. A proto poběží
+[01:07:54] kampaň na člověka
+[01:07:56] na prvním místě. Teď v dalších dvou
+[01:07:58] měsících, jak už jsem vám řekl,
+[01:08:00] demonstrace bude
+[01:08:03] 3. října 2026
+[01:08:05] od 13 hodin, je to sobota,
+[01:08:07] na Malostranském náměstí
+[01:08:09] v Praze. Pokud by bylo
+[01:08:11] moc lidí,
+[01:08:13] samozřejmě můžeme klidně dojít
+[01:08:15] na Letnou nebo někam jinam,
+[01:08:17] ale Malostranský náměstí
+[01:08:19] je u parlamentu
+[01:08:21] a myslím si, že má svoji logiku,
+[01:08:23] abysme byli tam.
+[01:08:31] Ta záležitost,
+[01:08:33] ta záležitost,
+[01:08:36] problém je teď s neplněním
+[01:08:38] volebních programů pro až
+[01:08:40] za půl roku demonstrovat.
+[01:08:42] Proč až za půl roku
+[01:08:44] demonstrovat? 3. října je za půl roku.
+[01:08:46] Sakra, tak jsem nějak zapomněl,
+[01:08:48] jak ty roky jsou.
+[01:08:50] 3. října je za necelé 2 měsíce.
+[01:08:52] Jestli to je za půl roku,
+[01:08:54] tak nevím, ale
+[01:08:56] těžko mě vyčítat
+[01:08:58] nějaké zdržování nebo
+[01:09:00] nějaké, že nechci demonstrovat hned.
+[01:09:02] Víte co, tady nikdo jiný není,
+[01:09:04] kdo vám organizoval
+[01:09:06] demonstrace za obyčejného člověka.
+[01:09:08] To všechno a ostatní
+[01:09:10] bylo buď to ze nějaké politické strany,
+[01:09:12] nebo za rozbití
+[01:09:14] toho obyčejného člověka,
+[01:09:16] nebo jsou to neziskovky, které pracují
+[01:09:18] právě pro ty globalistické struktury,
+[01:09:20] jo.
+[01:09:23] Takže nikdo jiný tady nebyl.
+[01:09:25] Nevyčítejte mi, že to bude za 2 měsíce.
+[01:09:27] Já mám tu svoji logiku, protože to je za 2 měsíce.
+[01:09:29] Teď jsou lidi na prázdninách.
+[01:09:31] V září máme čas na to,
+[01:09:35] abychom dali dohromady
+[01:09:37] veškerou propagaci a připravili
+[01:09:39] to, aby na začátku
+[01:09:41] října prostě všichni
+[01:09:43] věděli o tom, že je veřejné
+[01:09:45] shromáždění. 2 měsíce je akorát čas
+[01:09:47] na to, aby se to dalo dohromady.
+[01:09:49] Taky my na tom pracujeme
+[01:09:51] už několik týdnů.
+[01:09:53] Už jsme na tom desítky hodin,
+[01:09:55] abychom připravili organizaci
+[01:09:57] toho veřejného shromáždění,
+[01:09:59] protože podle mě to nebude jedno veřejné
+[01:10:01] shromáždění. Podle mě musíme udělat to,
+[01:10:03] aby lidi začali zase mít důvěru
+[01:10:05] v lidi na ulicích.
+[01:10:07] To, že se seskupí.
+[01:10:09] Budeme muset dávat lidi dohromady
+[01:10:11] a přijet několikrát
+[01:10:13] říct těm lidem, o co nám jde.
+[01:10:15] Ukázat, kde je problém,
+[01:10:17] aby lidi získali zase tu sílu.
+[01:10:19] Tak jako to měli v roce 22,
+[01:10:21] než jim to v roce 23 vzali.
+[01:10:23] Budeme muset udělat možná několik
+[01:10:26] takových veřejných shromáždění.
+[01:10:28] Ale na to chci nějakou přípravu.
+[01:10:30] Chci tu nějakou propagaci,
+[01:10:32] protože lidi musí vědět,
+[01:10:34] že je nějaké veřejné shromáždění
+[01:10:36] a čeho se to veřejné shromáždění týká.
+[01:10:38] Těch věcí je tam, čeho se bude týkat
+[01:10:40] to veřejné shromáždění,
+[01:10:42] čeho chceme dosáhnout, je hodně.
+[01:10:45] Takže pro to dva měsíce,
+[01:10:47] abychom to chtěli dobře připravit,
+[01:10:49] protože každý dokáže udělat
+[01:10:51] demonstraci, těch jsem viděl,
+[01:10:53] těch demonstrací, které dělají
+[01:10:55] různí lidi, zvolávají demonstrace.
+[01:10:57] Ale my potřebujeme, aby ta demonstrace
+[01:10:59] měla hlavu a patu,
+[01:11:01] aby to bylo logické, podložené,
+[01:11:03] aby tam byly dobré lidi,
+[01:11:05] kteří to přijedou podpořit
+[01:11:07] a kteří to podpoří.
+[01:11:09] Začali jsme jednat s nějakými lidmi,
+[01:11:11] to trvá, abychom vyjednali.
+[01:11:13] A řeknu vám jednu věc,
+[01:11:15] možná bude pro vás zajímavá.
+[01:11:19] Nebudou tam žádný politici,
+[01:11:21] kteří v životě jakoukoliv placenou funkci,
+[01:11:23] nebo mají placenou funkci.
+[01:11:25] Nikdo, ani jeden.
+[01:11:27] A nebudou tam ani politici, kteří teď kandidují.
+[01:11:29] Nebude to už tak, jako jsem udělal
+[01:11:31] tu chybu v roce 2022,
+[01:11:33] že jsme dali pódium
+[01:11:35] se 100 000 lidmi,
+[01:11:37] politikům, kteří to vytěžili
+[01:11:39] a jsou v parlamentu a kdesi cosi,
+[01:11:41] v Senátu atd. Ne.
+[01:11:43] Bohužel je mi to líto, protože
+[01:11:45] někteří politici, kteří jsem chtěl,
+[01:11:47] aby tam byli, nebo bývalí politici,
+[01:11:49] tam nemůžou být, protože tam nebude
+[01:11:51] kdo měl kdy v životě
+[01:11:53] jakoukoliv politickou placenou funkci.
+[01:11:55] Možná je to nespravedlivý vůči těm,
+[01:11:57] kteří pracovali pro dobro
+[01:11:59] českýho národa,
+[01:12:01] ale
+[01:12:03] vzešlo to z rozhodnutí společného,
+[01:12:05] takže to budu takovýmhle
+[01:12:07] způsobem akceptovat.
+[01:12:09] A nebudou tam ani lidi,
+[01:12:11] kteří kandidují teď do Senátu, protože
+[01:12:13] původně jsme chtěli oslovit některý, ale
+[01:12:15] nakonec jsme se dohodli, že to nebude o politicích
+[01:12:17] a že nebudeme zase dělat pódium
+[01:12:19] politikům, aby jsme
+[01:12:21] někoho prosadili do Senátu. Takže bude to
+[01:12:23] o lidech, budou tam
+[01:12:25] intelektuálové, budou tam odborníci,
+[01:12:27] budou tam
+[01:12:29] odborníci z těch oborů,
+[01:12:31] který
+[01:12:34] tam budeme prezentovat na tom
+[01:12:36] veřejném shromáždění. A budu vás o tom
+[01:12:38] samozřejmě informovat dál
+[01:12:40] v průběhu doby.
+[01:12:42] Ale protože už jsem
+[01:12:44] hodinu dvanáct minut mluvím o tom,
+[01:12:46] jak je to s českým národem
+[01:12:48] a s jeho obrozením, jak je to
+[01:12:50] s naším ateismem a s naší
+[01:12:52] budou. Pro mě to je skvělý, protože
+[01:12:54] český národ už v tom čtrnáctém
+[01:12:56] století dokázal udělat revoluci
+[01:12:58] v Evropě. V době obrození
+[01:13:00] jsme se dokázali vymanit
+[01:13:02] od Němců.
+[01:13:04] V první republice jsme měli jednu z nejlepších
+[01:13:06] zemí na světě. V roce
+[01:13:08] 2022 jsme začali první
+[01:13:10] dělat vůbec protesty a postavili jsme se
+[01:13:12] tomu zločinnému
+[01:13:14] systému Evropský unia a NATO,
+[01:13:16] který nás dneska
+[01:13:18] ovládá. A doufám,
+[01:13:20] že se nám podaří probudit
+[01:13:22] ten národ, aby
+[01:13:24] si národ vzal
+[01:13:26] zemi zpátky. A doufám, že se
+[01:13:28] Evropská unie a ty nadnárodní
+[01:13:30] korporáty v Evropě
+[01:13:32] začnou rozpadat z České republiky.
+[01:13:34] Opravdu si to přeju. Možná to bude trvat dlouho.
+[01:13:36] Možná to nebude záležitost roku.
+[01:13:38] Ale to je to, co jsem vám říkal
+[01:13:40] v roce 2022.
+[01:13:42] Plán Česká republika na prvním místě je plán
+[01:13:44] na pět, na deset let.
+[01:13:46] Možná si mezi tím budeme muset projít dva, tři roky
+[01:13:48] válkou. Ale to se neudělá hned.
+[01:13:50] Udělali jsme nějaký výkop.
+[01:13:53] Je potřeba pokračovat.
+[01:13:55] Takže uvidíme, jak to bude
+[01:13:57] pokračovat dál.
+[01:13:59] Ale to, co bych si přál, je, aby na konci byla
+[01:14:01] Česká republika plná sebevědomých
+[01:14:03] ligí. Tak, jako to bylo
+[01:14:05] za husictví.
+[01:14:09] Tak, jako to bylo za obruzenectví.
+[01:14:11] Ale s tím, že dneska
+[01:14:13] až skončí ta válka,
+[01:14:15] tak bude víc prostoru pro to,
+[01:14:17] abychom si mohli říct, jak chceme,
+[01:14:19] aby republika vypadala. Protože
+[01:14:21] samozřejmě, až rusové
+[01:14:23] vyhrají válku, tak
+[01:14:25] se ty věci úplně změní tady.
+[01:14:27] A doufám, že se nezmění v tom, že by přišlo
+[01:14:29] 50 let temna pod nadvládou
+[01:14:31] Evropské unie, nebo 20 let
+[01:14:33] temna pod nadvládou Evropské unie
+[01:14:35] k islamizaci České
+[01:14:37] republiky, tak jako je zislamizovaná Evropa
+[01:14:39] a ke konci České republiky. Protože
+[01:14:41] tohle tady ještě nikdy nebylo. To, co
+[01:14:43] dneska oni mají k dispozici. Umělou inteligenci
+[01:14:45] jako nástroj vládnutí
+[01:14:47] na sociálních sítích. To je další věc.
+[01:14:49] Ještě jednu věc vám řeknu.
+[01:14:51] Sociální sítě.
+[01:14:54] Sociální sítě jsou
+[01:14:56] návykové.
+[01:14:59] Děti už od malička jsou
+[01:15:01] návyklí na sociálních sítích. Proč?
+[01:15:03] Protože když se podíváte na výpovědi
+[01:15:05] lidí, kteří pracovali pro Facebook
+[01:15:07] a pro další tyhle sociální sítě,
+[01:15:09] tak oni skutečně přemýšleli nad tím
+[01:15:11] z psychologie, jak vytvořit to,
+[01:15:13] aby člověk měl větší závislost
+[01:15:15] na to chodit na ty sociální sítě
+[01:15:17] a jíst ten takzvaný feed.
+[01:15:19] Scrollovat. To jsou
+[01:15:21] psychologické
+[01:15:23] nástroje, jak udělat závislého
+[01:15:25] člověka na tom, aby mu ten
+[01:15:27] feed dával ten dopamin do mozku,
+[01:15:29] aby na tom člověk byl fyzicky
+[01:15:31] závislý. Je to něco jako droga.
+[01:15:33] A je to vymyšlené
+[01:15:36] jako droga. A tyhle ty
+[01:15:38] sociální sítě mají experty, kteří
+[01:15:40] z toho dělají drogu.
+[01:15:42] Proč? No, protože z toho profitují.
+[01:15:44] Protože čím díl tam jsme,
+[01:15:46] tím víc reklam nám ukážou
+[01:15:48] a tím víc toho
+[01:15:50] prodejí. Protože čím díl tam
+[01:15:52] jsme, tak tím víc nás studujou
+[01:15:54] a vidí, co se nám líbí a co
+[01:15:56] ne. A ty data potom prodejí
+[01:15:58] na trénování umělé inteligence.
+[01:16:00] Čím víc tam jsme, čím víc tam napíšeme
+[01:16:02] o sobě, tím víc nás znají.
+[01:16:04] A potom prodejí za reklamními
+[01:16:06] účely náš materiál.
+[01:16:08] O nás. Informace o nás.
+[01:16:10] To je obrovský biznis.
+[01:16:13] A tady zase vláda.
+[01:16:17] Neměla by vláda
+[01:16:19] dělat něco proti tomu,
+[01:16:21] aby oni mohli
+[01:16:23] se chovat jako dealeri
+[01:16:25] drog. Oni jsou jako dealeri
+[01:16:27] drog. Měli by přece
+[01:16:31] nastolit nějaká pravidla,
+[01:16:33] že ty lidi, kteří tam přemejší nad
+[01:16:35] tím, jak to udělat, aby byl člověk víc závistý,
+[01:16:37] aby tam nebyli. Aby ty sociální
+[01:16:39] média fungovala tak, jak byla
+[01:16:41] navržena. Máte nějaký kamarády,
+[01:16:43] oni dají nějaký
+[01:16:45] příspěvek a vy tam vidíte ty svoje
+[01:16:47] kamarády, co dávají za příspěvek.
+[01:16:49] Ale tak to není už dneska.
+[01:16:51] Dneska nás programují těmi
+[01:16:53] sociálními médii.
+[01:16:55] A ta sociální média
+[01:16:57] zobrazují to, co
+[01:16:59] chtějí, aby se zobrazovalo.
+[01:17:01] To jestli, podívejte
+[01:17:04] třeba v politice. To je velmi silný
+[01:17:06] politický nástroj. Mnohem silnější, než jsou média
+[01:17:08] klasická. Máte dva
+[01:17:10] kandidáty. Facebook
+[01:17:13] chce, aby ten jeden kandidát vyhrál.
+[01:17:15] Jak to udělá? Ten
+[01:17:17] kandidát napíše to, co chce dělat.
+[01:17:19] Ten druhý to taky napíše, to co chce
+[01:17:21] dělat, nebo to řekne. Jenže
+[01:17:23] tady Facebook toho jednoho kandidáta
+[01:17:25] zobrazí 100 000
+[01:17:27] krát. A toho druhýho zobrazí 100
+[01:17:29] krát. Toho jednoho zobrazí 1000
+[01:17:31] krát víc. Kdo myslíte, že vyhrá
+[01:17:33] volby, když všichni jsou na sociálních
+[01:17:35] médiích? Když se veškerá, prakticky
+[01:17:37] veškerá komunikace převedla do
+[01:17:39] sociálních médií. Takže
+[01:17:42] tady zase je potřeba
+[01:17:44] pochopit, že stát, kdyby
+[01:17:46] měl na prvním místě člověka, tak by
+[01:17:48] musel říct, dobře, ale my tady
+[01:17:50] máme na prvním místě člověka, tady u nás
+[01:17:52] budou platit naše
+[01:17:54] zákony. A ne vaše
+[01:17:56] komunitní pravidla.
+[01:17:58] Že když někdo mluví, že chce
+[01:18:00] Českou republiku prosazovat,
+[01:18:02] tak vy ho utnete.
+[01:18:04] A když někdo prosazuje Evropskou unii,
+[01:18:06] tak ho zobrazujete.
+[01:18:08] To by se muselo řešit zákonem.
+[01:18:12] Tady by musel být zákon, který by
+[01:18:14] řekl, sociální sítě musí
+[01:18:16] fungovat stejně, jako je náš
+[01:18:18] zákon, naše ústava. Musí být
+[01:18:20] svoboda informací.
+[01:18:22] Nemůžete upřednostňovat jednoho politika
+[01:18:24] před druhým a nemůžete
+[01:18:26] upřednostňovat svoje agendy
+[01:18:28] globalistické,
+[01:18:30] LGBT a
+[01:18:32] protiruské, před
+[01:18:34] těmi, který se vám nelíbí.
+[01:18:36] Protože vy na to nemáte
+[01:18:38] právo řídit u nás, jak lidi
+[01:18:40] přemýšlí. A dělají to naše
+[01:18:43] vlády? Ne. Ani ťuk.
+[01:18:45] Ani ťuk. Nechají ty globalisty,
+[01:18:47] aby skrze sociální
+[01:18:49] média, protože to je další jejich nástroj,
+[01:18:51] aby programovali naše děti.
+[01:18:53] Protože
+[01:18:56] ve školách taky
+[01:18:58] řekají dětem teď, koukejte se
+[01:19:00] na českou televizi a na ta média,
+[01:19:02] která jsou prověřená, všechno
+[01:19:04] ostatní jsou dezinformace.
+[01:19:06] A česká televize přináší
+[01:19:08] absolutně globalistické
+[01:19:10] prozápadní zprávy.
+[01:19:12] Z toho nám tady
+[01:19:14] vznikla úplně magořená
+[01:19:16] společnost, která vůbec nevidí,
+[01:19:18] co se děje, protože
+[01:19:20] každý den do hlavy dostává
+[01:19:22] výplachy a informace,
+[01:19:24] které tam mají být jenom z jedné
+[01:19:26] strany. Absolutně
+[01:19:28] stotalizovaná, sfanatizovaná
+[01:19:30] společnost.
+[01:19:35] Mluvil jsem dneska tady o tom
+[01:19:37] podívám se na vaše dotazy,
+[01:19:39] jestli tady nějaké jsou. Jaká je
+[01:19:41] posloubnost při mobilizaci, podívejte se
+[01:19:43] na Ukrajinu. My jsme přece,
+[01:19:45] teď to tady zobrazím, my jsme
+[01:19:47] přece na ukrajinské cestě, no to je přece
+[01:19:49] záleží na tom, jak je to vyhlášení.
+[01:19:51] Podívejte, to co předpokládám, dneska vidíte
+[01:19:53] každý den ruský útoky.
+[01:19:55] V médiích se píše, že rusové na nás útočí
+[01:19:57] každý den hybridní útoky a jiný útoky.
+[01:19:59] To už se píše, že rusové na nás
+[01:20:01] útočí každý den. Američani
+[01:20:03] teď přišli
+[01:20:05] s tím, ministerstvo
+[01:20:07] obrany přišlo s tím, že očekávají,
+[01:20:09] že dolo. Stadnů hrozí
+[01:20:11] útok ze strany Ruska.
+[01:20:15] Němci mluví o tom, že jsou připravený,
+[01:20:17] kdyby Rusko zautočilo hned dneska
+[01:20:19] vzlítnout vše v
+[01:20:21] Luftwaffe. Poláci, ty už
+[01:20:23] se prakticky chovají, jako kdyby byli
+[01:20:25] ve válce s Ruskem. Ty už jsou nasáčkovaný
+[01:20:27] na hranicích. Naša armáda, pokud vím,
+[01:20:29] taky tam má vojáky na hranicích.
+[01:20:31] Investuje se jenom
+[01:20:34] do silnic, jo. Babiš
+[01:20:36] je prostě strašně
+[01:20:38] šťastný, že se investuje do dálnic a do železnic.
+[01:20:40] Neinvestuje se do těch
+[01:20:42] malých silnic, ne. Investuje se jenom do těch
+[01:20:44] silnic, kde budou jezdit tanky.
+[01:20:46] A kde se bude přepravovat munice.
+[01:20:48] Podepisujou se dohody se státem
+[01:20:50] a teď Andrej Babiš chce podepsat
+[01:20:52] v podstatě dohodu
+[01:20:54] o tom, že budeme součástí
+[01:20:56] aliance, jaderné aliance
+[01:20:58] s Francíí. Sice tomu říkají jaderný
+[01:21:00] déšník, ale jenom idiot si může myslet,
+[01:21:02] že bysme jadernýma zbraněma stříleli
+[01:21:04] nad sebe, že by to byl nějaký déšník.
+[01:21:06] Jaderný zbraní, ty se těma se
+[01:21:08] vždycky útočí, těma se vždycky útočí
+[01:21:10] daleko od svýho území.
+[01:21:12] Takže když Andrej Babiš
+[01:21:14] podepíše, že budeme součástí
+[01:21:16] jadernýho déšníku, tak ve skutečnosti to znamená,
+[01:21:18] že nám sem Francouzi budou muset,
+[01:21:20] budou moct přivést letadla
+[01:21:22] s jadernýma raketama.
+[01:21:24] A ty nám samozřejmě přivezou, až když
+[01:21:26] to bude potřeba, což bude zrovna ten
+[01:21:28] nejhorší moment, protože ten moment
+[01:21:30] zrovna Rusové vůbec nebudou chtít,
+[01:21:32] abychom měli my Češi na našem území
+[01:21:34] jaderné zbraní, protože to bude blíž
+[01:21:36] a v tu chvíli je budou chtít zničit.
+[01:21:38] Takže tohle je jedna z těch nejdůležitějších,
+[01:21:40] možná ta nejdůležitější věc, proč děláme
+[01:21:42] tu demonstraci. Tomuhle je potřeba
+[01:21:44] zabránit, protože tohle jednoznačně
+[01:21:46] není v zájmu ani jednoho člověka
+[01:21:48] České republice. Čili když Rusové
+[01:21:50] zautočí na nějakou výrobnu zbraní,
+[01:21:52] OK, umře tam pár lidí,
+[01:21:54] možná pár desítek lidí,
+[01:21:57] možná tam bude toxický vzduch
+[01:21:59] a těchto váren pravděpodobně
+[01:22:01] bude víc. A když budou utočit na ty
+[01:22:03] zbraně, které tam převáží, OK, tak něco
+[01:22:05] vybouchne, možná u toho umře pár
+[01:22:07] set lidí. Ale když
+[01:22:09] zautočí na francouzské jaderné zbraně,
+[01:22:11] nebo na jiné jaderné zbraně, které budou v České republice,
+[01:22:13] tak bude dotčený
+[01:22:15] každej člověk v České republice tou radioaktivitou.
+[01:22:17] Každej. Proto tohleto
+[01:22:19] je primární, čemu je potřeba zabránit. To je
+[01:22:21] nejvíc nebezpečné. A
+[01:22:23] mobilizace. Jestli dneska
+[01:22:25] vidíte, že jsou pořád nějaké útoky, tak v jednom
+[01:22:27] okamžiku prostě přijde nějaký útok,
+[01:22:29] kde ta země vyhlásí stav
+[01:22:31] ohrožení země. Jakmile se
+[01:22:34] vyhlásí stav ohrožení země, tak se
+[01:22:36] uzavřou hranice
+[01:22:38] a bude se
+[01:22:40] pravděpodobně utočit na druhou
+[01:22:42] stranu. Může to být nějaká, jak se říká,
+[01:22:44] false flag operation. To je to, co
+[01:22:46] jsme viděli všude. Možně třeba v Polsku
+[01:22:48] a v Německu začátek druhé světové války. Ale
+[01:22:50] víte, co oni nás učili? Druhá světová válka
+[01:22:52] začala 1. září
+[01:22:54] 39. Němci se
+[01:22:56] převlíkli za polskí vojáky, přepadli
+[01:22:58] polskí vojáky, zabili a začala válka. To je přece
+[01:23:00] úplná blbost. Vidíte, jak
+[01:23:02] začíná válka. To jde postupně.
+[01:23:04] To se válčí támhle, pak se zapojuje
+[01:23:06] země, pak se zapojuje támhle ta země,
+[01:23:08] pak tamhle, pak se začnou tamhle vyrábět
+[01:23:10] zbraně, tamhle umře tolik lidí, tamhle.
+[01:23:12] Teď už máme dneska několik milionů
+[01:23:14] mrtvých. Ta válka běží.
+[01:23:16] A my si pořád ještě říkáme, bude válka nebo
+[01:23:18] nebude válka. To jde postupně.
+[01:23:20] Postupně se přidávají země.
+[01:23:22] V druhé světové válce taky.
+[01:23:24] Srbsko, třeba Jugoslávie, to bylo až
+[01:23:26] myslím, že ve 41. roce
+[01:23:28] nebo druhém. Operace Barbarossa,
+[01:23:30] to byl taky, myslím, že 41. rok,
+[01:23:32] kdy se zapojil Sovětský svat. Takže to jde
+[01:23:34] postupně.
+[01:23:36] A mobilizace, mobilizace
+[01:23:38] je v okamžiku, kdy ten, kdy ta
+[01:23:40] vláda už
+[01:23:42] prostě je připravená na to,
+[01:23:44] že jde do války, do přímý války,
+[01:23:46] do přímý konfrontace,
+[01:23:48] tak potom mobilizuje.
+[01:23:50] Mobilizuje, protože je nedostatečná armáda.
+[01:23:52] Naša armáda je absolutně nedostatečná.
+[01:23:54] A lidi říkají, o nás být mobilizace
+[01:23:56] nemůže, my nemáme ani uniformy,
+[01:23:58] ani zbraně.
+[01:24:00] Ty uniformy se najdou, kdyby se měly
+[01:24:02] najít uniformy z první světové
+[01:24:04] války ve Francii.
+[01:24:06] Uniformy se najdou, uniformy se udělají,
+[01:24:08] uniformy se ušijou. Někdy by měli jít
+[01:24:10] lidi bez uniform.
+[01:24:12] Podívejte se, jak to vypadá na Ukrajině.
+[01:24:14] Tam dostanou nějaký gatata, nějakou blůzku,
+[01:24:16] kýlko a nějaký
+[01:24:18] kvéra jdou.
+[01:24:21] Takže když bude mobilizace, tak samozřejmě
+[01:24:23] nejdřív jdou vojáci,
+[01:24:25] pak jdou aktivní zálohy,
+[01:24:27] a pak se mobilizuje.
+[01:24:29] Podívejte se, jak se bude mobilizovat.
+[01:24:31] Vyjdou ročníky, prostě se řekne tyhle ročníky
+[01:24:33] a ty jdou.
+[01:24:35] Podívejte se, jak se teď dostávají lidi do armády.
+[01:24:37] Kde to je, Zuzko, v které to je zemi,
+[01:24:39] kde se losuje teď? V Dánsku.
+[01:24:41] V Dánsku teď dělají
+[01:24:43] povinnou vojenskou službu a losují
+[01:24:45] ty lidi, protože nechtějí do armády,
+[01:24:47] tak je losují. Tak vám přijde
+[01:24:49] povolávací rozkaz, nebo
+[01:24:51] nepovolávací, ale jak se to jmenuje,
+[01:24:53] do armády, abyste se dostavili
+[01:24:55] k odvodu, protože
+[01:24:57] si vás vylosovali.
+[01:24:59] V Hunger Games. Takže mobilizace,
+[01:25:01] když půjde, počtejte s tím, že nejdřív se
+[01:25:03] něco stane, pak se zavřou hranice, vyhlásí se
+[01:25:05] nějaký stav ohrožení země, nebo
+[01:25:07] válečný stav,
+[01:25:09] začnou lítat nějaké rakety
+[01:25:11] trošičku víc, pojede se
+[01:25:13] někam na nějakou frontu, tam bude málo
+[01:25:15] vojáků, bude potřeba víc vojáků, takže se bude
+[01:25:17] mobilizovat. Podívejte, jak to dělají
+[01:25:19] na Ukrajině,
+[01:25:21] jak je mobilizují teď. Rvou
+[01:25:23] z aut, všude tahají. Pak je tam
+[01:25:25] pošlou, jak jsem viděl, jak
+[01:25:27] jedou dva ukrajinský vojáci takhle
+[01:25:29] tankem a lekkým projektním ruským dronem.
+[01:25:31] Pic a je po nich.
+[01:25:33] A to je to, co jim přejou některý lidi. Doufám, že
+[01:25:35] ne lidi, kteří jsou tady. Jinak táhnou
+[01:25:37] Okamura teď, že by ho poslal
+[01:25:39] do první, do bojový linie,
+[01:25:41] na frontu, že by ho poslal.
+[01:25:43] A lidi tleskají, jo, všechny
+[01:25:45] odvést. Prvního bych
+[01:25:47] poslal Okamuru za tohleto,
+[01:25:49] že jakéhokoliv člověka, za to, že
+[01:25:51] si stoupnul při jízdě v autě
+[01:25:55] protože to je nějakej mladej člověk
+[01:25:57] s trochu jinou mentalitou
+[01:25:59] a cítil svobodu, za to by ho poslal
+[01:26:01] umřít na frontu, Okamura.
+[01:26:03] To je takovej hajzl. Prostě už když přijel
+[01:26:05] do Srbska, když přijel Ivan David
+[01:26:07] do Srbska, a některý politici
+[01:26:09] mu říkali, že potřebujou podporu pro
+[01:26:11] vstup Srbska do Evropský unie v tom Evropském
+[01:26:13] parlamentu, tak Ivan David se jim vysmál. Říkal, my jsme
+[01:26:15] tam proto, abysme to rozbili. A když
+[01:26:17] přijel Okamura, velký vlastenec,
+[01:26:19] do suverénního Srbska,
+[01:26:21] tak je začal přemlouvat, jak vstoupit do Evropské unie,
+[01:26:23] že jim bude pomáhat. Stejně tak jako
+[01:26:26] Havlíček. Velký
+[01:26:28] suverénisky a vlastence.
+[01:26:30] Ale to není jenom Okamura, to jsou další
+[01:26:32] prostě, kteří tleskají
+[01:26:34] tomu, že Evropská unie teď
+[01:26:36] prokázala, že je absolutně fašistická
+[01:26:38] a že neumožňuje
+[01:26:40] ukrýt se lidem před válkou,
+[01:26:42] když jsou z Ukrajiny. Protože
+[01:26:44] jim udělali nový pravidla. Máš
+[01:26:46] průkazku z Ukrajiny, že jsi si odsloužil,
+[01:26:48] tak můžeš k nám. Ale jsi
+[01:26:50] válečný uprchlík? Ne, ne, ne.
+[01:26:52] Zpátky na Ukrajinu. Pěkně válčit za
+[01:26:54] fašistický režim. To je čistý fašismus.
+[01:26:56] To nedělají nikomu.
+[01:26:58] Z Eritreje přichází a říkají, jo,
+[01:27:00] tam zuří občanská válka, musíme je schovávat.
+[01:27:02] Tady pojďte nějakou blondýnku
+[01:27:04] rychle, pojď tamhle ty, tamhle
+[01:27:06] Hans, pojď sem ze svojí
+[01:27:08] manželku, dej mu manželku.
+[01:27:11] Takhle funguje Evropská unie. Ale
+[01:27:13] sej z Ukrajiny. Ne, ne, ne. Proč
+[01:27:15] ne? Protože jsou to Slovani.
+[01:27:17] Protože anglosasové
+[01:27:19] vždycky bojovali proti Slovanům.
+[01:27:21] A jestli si myslíte,
+[01:27:24] že nemají být vymláceni Ukrajinci
+[01:27:26] do posledního Ukrajince, tak mi
+[01:27:28] napište, kde máte pro to jakýkoliv
+[01:27:30] důkaz, že to tak není.
+[01:27:32] Nejdřív Ukrajinci. Kdo půjde další?
+[01:27:36] Typnul bych si, že Poláci.
+[01:27:38] Proč? Protože
+[01:27:40] Poláci jsou silný národ.
+[01:27:42] Ty Poláci, měl jsem dva roky, jsem
+[01:27:44] chodil s Polkou, byl jsem v Polsku často.
+[01:27:46] Poláci jsou tvrdí. To jsou
+[01:27:48] patrioti, vlastenci a jsou tvrdí.
+[01:27:50] Ty se spojí kdykoliv. Zkuste
+[01:27:52] na nějakou Polku zautočit někde
+[01:27:54] nějakej imigrant, tak ho tam roztrhaj.
+[01:27:56] Jsou stejný jak Srbové. V tomhle Srbové
+[01:27:58] jsou tvrdší. Ty jsou ještě vodostvrdší
+[01:28:00] než Poláci. Ale Poláci jsou tvrdí.
+[01:28:02] A jich je hodně. 40 milionů. Takže
+[01:28:04] odhaduju, že ty budou první. Proto
+[01:28:06] v Polsku v médiích už to opravdu
+[01:28:08] vypadá, jako že je válka skoro.
+[01:28:11] Ty budou první, protože to je nejsilnější národ.
+[01:28:17] Má tvrdý, silný národ.
+[01:28:19] Tak bych to viděl.
+[01:28:23] Potřeba Slovany. Je potřeba
+[01:28:25] Slovany. Je moc Slovanů.
+[01:28:27] Přece.
+[01:28:29] Moc Slovanů. Germány a
+[01:28:31] anglosasové ty namíchají
+[01:28:33] s muslimama a ty holky si vezmou muslimové.
+[01:28:35] Slovany, slovani, slovanský
+[01:28:37] holky, nebudou kýt ty muslimy tolik, tak
+[01:28:39] je potřeba, aby šly na frontu.
+[01:28:41] Takže jak posloupnost
+[01:28:43] při mobilizaci. Řeknu vám, jaká je moje
+[01:28:45] posloupnost při mobilizaci. Jakmile
+[01:28:47] vidím, že se blíží
+[01:28:49] nějaký
+[01:28:51] zavírání hranic, tak moje
+[01:28:53] posloupnost při mobilizaci je, že mám
+[01:28:55] připravený maťůžek.
+[01:28:57] Dostatečně připravený maťůžek.
+[01:28:59] Někdo z mých blízkých, nějaká
+[01:29:01] moje matka nebo někdo jiný, už dávno
+[01:29:03] má plnou moc k tomu, aby mě mohl zastupovat,
+[01:29:05] co se týče mojí nemovitosti nebo
+[01:29:07] všech ostatních věcí.
+[01:29:10] A v okamžiku, kdy se něco
+[01:29:12] takového chystá, tak už jsem na čundru.
+[01:29:14] Mám normálně čundr,
+[01:29:16] mám normálně krosničku
+[01:29:18] a už jsem tamhle v lesi,
+[01:29:20] šumavy a už jsem na čundru
+[01:29:22] a opíkám si špekáčky.
+[01:29:24] No, neopíkám si špekáčky, to bych byl vidět.
+[01:29:26] Ale za dva dny jsem
+[01:29:28] v Srbsku. V jediné
+[01:29:30] vojensky neutrální zemi, která do té
+[01:29:32] války nepůjde. Takže
+[01:29:36] taková je moje posloupnost při mobilizaci.
+[01:29:38] Přítel těmě bezejména.
+[01:29:42] Kristovo, no co to je za jméno? Přítel těmě bezejména.
+[01:29:44] Přítel bezejména. To je trochu
+[01:29:46] špatně s tím tričká. To už jsem tady odpovídal.
+[01:29:48] Libor Lhotecký.
+[01:29:50] Co to Srbsko? Mohu věřit, že
+[01:29:52] Srbsko hraje divadlo pro EU i pro
+[01:29:54] Zelenského? Jitka Nečasová.
+[01:30:03] Jiřina Nečasová. To je
+[01:30:05] zase nějaký blázen. Tady to nebudu odpovídat
+[01:30:07] vůbec. Řeknu vám
+[01:30:09] o tom Srbsko, ale jenom se podívám, co tady mám za dotazy.
+[01:30:11] Libor Lhotecký. A ještě jedno.
+[01:30:13] Problémy těch zneplnění vojenních programů.
+[01:30:15] Proč až za půl doku demonstrace?
+[01:30:17] A to už jsem říkal. Markéta Koubová.
+[01:30:19] Šlo by to udělat jako událost, že bychom to mohli
+[01:30:21] tady na FB pozvat. Lidi šlo, ale to moc nefunguje.
+[01:30:23] Dobře, Markéta, ale můžeme to udělat.
+[01:30:25] Vladislav Dohnas.
+[01:30:27] Jenže tenkrát to byli ti intelektuálové
+[01:30:29] později umělci a dá se dnes
+[01:30:31] mezi nimi někdo vybrat?
+[01:30:33] Vladimír Dohnal. Nepřemejšlejte
+[01:30:35] nad nimi, jestli se dá mezi
+[01:30:37] nimi vybrat nebo ne. Každej
+[01:30:39] člověk. Prostě my jsme si
+[01:30:41] rovní. Všichni jsme si rovní v České
+[01:30:43] republice. Každej člověk.
+[01:30:45] Nehledejte elity,
+[01:30:47] který to udělají za vás. To je to, co vám
+[01:30:49] prodali. A vy to pořád děláte.
+[01:30:51] Pořád čekáte na někoho, kdo
+[01:30:53] to udělá. Pořád čekáte
+[01:30:55] na to, kdo to vyhraje. Někoho,
+[01:30:57] kdo to zařídí. Nějakou hvězdu.
+[01:30:59] Nějakýho. Proto jste uvěřili
+[01:31:01] tomu blbýmu Reichlovi na těch
+[01:31:03] demonstracích, protože pořád čekáte na někoho
+[01:31:05] a on. A ten nevráběl.
+[01:31:07] A ten na to nemá. A ten na to má. A Reichl.
+[01:31:09] Ten má tak na branku. A Okamura.
+[01:31:11] On je teď. Jo, ten by
+[01:31:13] mohl a tak dál. Nečekejte na
+[01:31:15] nikoho. Nikdo to neudělá. Ani
+[01:31:17] vráběl to neudělá. Nikdo to
+[01:31:19] neudělá. To musí udělat
+[01:31:21] ten národ. To musí udělat
+[01:31:23] každej z nás. Říkám
+[01:31:25] vám to celou dobu. Jenom tak,
+[01:31:27] když se spojí lidi. Jenom když se probudí
+[01:31:29] lidi. Když se začnou
+[01:31:31] prát za svoje práva lidi v Český republice.
+[01:31:33] Jenom tak se to povede.
+[01:31:35] A nehledejte
+[01:31:37] důvody, proč se to nepovede.
+[01:31:39] Hledejte způsoby,
+[01:31:41] jak se to má povést.
+[01:31:43] Ten, kdo nechce, hledá důvody, proč
+[01:31:45] to nejde. Ten, kdo chce,
+[01:31:47] hledá způsoby, jak to udělat.
+[01:31:49] Musíte si jednou provždy rozmyslet,
+[01:31:51] jestli jste ten, kdo
+[01:31:53] hledá důvody, proč to nejde,
+[01:31:55] anebo jestli jste ten, kdo hledá způsoby,
+[01:31:57] jak to udělat. A jestli vyhrajeme,
+[01:31:59] jak říkal Jirinkov Čech,
+[01:32:01] nevyhrajeme, ale musí se tlačit proti,
+[01:32:03] aby byla rovnováha.
+[01:32:06] Neslibuji vám, že vyhrajeme.
+[01:32:08] Možná, že vyhrajeme, ale
+[01:32:11] normálně je potřeba tlačit proti, aby byla rovnováha.
+[01:32:13] Jinak si vás rozkouskujou,
+[01:32:15] jako Ukrajince.
+[01:32:17] Ukrajinu si vezmu,
+[01:32:19] celá Ukrajina nebude. Zapomeňte na to.
+[01:32:21] Pak jdejte Ukrajina.
+[01:32:24] Slíbil jsem vám, že vám řeknu něco o té Ukrajině
+[01:32:26] a pak vám řeknu ještě o Srbsku
+[01:32:28] a pak už budeme končit.
+[01:32:30] Ukrajina. Vůčič pozval
+[01:32:33] Volodomíra Zelenský,
+[01:32:35] respektive takhle, Vůčič nepozval
+[01:32:37] Volodomíra Zelenský,
+[01:32:39] a Volodomír Zelenský se natlačil do Srbska.
+[01:32:42] Byl velký tlak z Evropské unie.
+[01:32:44] Vůčič to řekl. Byl velký tlak z Evropské unie.
+[01:32:46] A dneska je obrovský tlak
+[01:32:48] proti Vůčičovi v Srbsku.
+[01:32:50] Za to, že prostě přijal
+[01:32:52] Volodomíra Zelenskýho. Poprvé jsem viděl
+[01:32:54] Vůčiče naštvanýho. Poprvé jsem
+[01:32:56] viděl, že byl vykolejený.
+[01:32:58] Nikdy jsem ho neviděl vykolejenýho.
+[01:33:00] Vždycky mluví v klidu, jako vrábel.
+[01:33:02] Vždycky mluví v klidu. Když se vrábel naštve,
+[01:33:04] tak je to proto, že jsou lidi
+[01:33:06] blbí a že mluví už dvě hodiny.
+[01:33:08] Tak nemyslím vy.
+[01:33:10] Ale že ten národ
+[01:33:12] prostě neposlouchá. Ale vrábel
+[01:33:14] se nenaštvává. Vrábel to jenom
+[01:33:16] se naštvává, protože
+[01:33:18] potřebuje občas ukázat nějakou emoci.
+[01:33:20] Vůčič se taky nenaštvával,
+[01:33:22] ale teď se naštval. A bylo to na něm vidět.
+[01:33:24] Proč? Protože není tlačší.
+[01:33:26] Jak to mohl udělat, že vzal Zelenskýho
+[01:33:28] do Srbska? Že to je ponížení
+[01:33:30] pro Srbsko, které vždycky bylo
+[01:33:32] protifašistické. Že
+[01:33:34] Zelenský je fašista. Že to je
+[01:33:36] diktátor. Že my
+[01:33:38] Srbové jsme bratři s Ruskem.
+[01:33:40] Nemůžeme tady mít volo Roměra Zelenského
+[01:33:42] tak dál. Strašně to dostává ze všech
+[01:33:44] ze všech stran. Včera jsem
+[01:33:46] byl, měl jsem schůzku, byl jsem
+[01:33:48] na večeři s posledním prezidentem
+[01:33:50] Jugoslávie.
+[01:33:52] S Vojslavem
+[01:33:54] jak se jmenuje?
+[01:33:57] Bukyco, jak se jmenuje? Kuštunica.
+[01:34:00] S Vojslavem Kuštunicou.
+[01:34:02] Kuštunica. A měli jsme spolu asi
+[01:34:04] tři hodiny si povídali. Dlouho jsme si povídali.
+[01:34:06] Dali jsme si obě. Bylo to fajn.
+[01:34:08] Prvním čím začal
+[01:34:10] Žehoštve Vučič.
+[01:34:12] Kvůli Zelenskýmu. Prostě obrovská
+[01:34:14] obrovská
+[01:34:16] nenávist vůči Vučičovi.
+[01:34:18] Protože dokázal
+[01:34:20] vzít vůbec do Srbska
+[01:34:22] Zelenskýho. A nedivím se, zrovna
+[01:34:24] u toho bývalého prezidenta,
+[01:34:26] posledního prezidenta Jugoslávie, který nastoupil
+[01:34:28] po
+[01:34:31] Miloševičovi. A to byly
+[01:34:33] demonstrace. To byla revoluce.
+[01:34:35] V Srbsku. Každý večer, když byla televize.
+[01:34:37] Spravy. To můžeme taky zkusit.
+[01:34:39] Tak všichni mlátili do kastrolů.
+[01:34:41] Z okna ven dali kastroly a všichni mlátili
+[01:34:43] do kastrolů. Aby nikdo neposlouchal
+[01:34:45] ty lžistý televize státní.
+[01:34:47] A byly demonstrace obrovské.
+[01:34:49] A nakonec vyhráli
+[01:34:51] demonstranti. Národ vyhrál.
+[01:34:53] A dosadili tadyhle
+[01:34:55] toho prezidenta. To je absolutní vězda.
+[01:34:57] V Srbsku. Absolutní prostě. Všichni ho milujou.
+[01:34:59] Taky jsem
+[01:35:01] mluvil s jedním známým umělcem.
+[01:35:03] Ten včera jsem vám to říkal.
+[01:35:05] Měl lístky do Kanady. Letenky.
+[01:35:07] A odletěl do Kanady. Den povolba.
+[01:35:09] Včera nevěřil tomu, že vyhrajou.
+[01:35:11] Že tu revoluci udělají. Když udělal, tak se vrátil
+[01:35:13] z Kanady a zůstal kvůli němu
+[01:35:15] v Srbsku. Vynikající.
+[01:35:18] Který v podstatě mu připisují to, že
+[01:35:20] Srbsko je vojenský neutrální země.
+[01:35:22] Okamžitě se postavil proti Evropský unii
+[01:35:24] a proti tomu, aby Evropská unie tlačila
+[01:35:26] na Srbsko a tak dále.
+[01:35:28] Takže velmi tvrdý.
+[01:35:30] Tvrdý člověk.
+[01:35:32] Velmi silný vlastenec.
+[01:35:34] A to tak. Taky byl dvakrát
+[01:35:36] premiérem Srbska. A tolik toho udělal
+[01:35:38] pro Srbsko, že u něj u jedinýho
+[01:35:40] to akceptuju, že kritizuje
+[01:35:42] Vučiče. Protože on je ještě víc vlastenec,
+[01:35:44] než je Vučič. U něj to
+[01:35:46] akceptuju. A udělal toho víc
+[01:35:48] pro Srbsko ještě než Vučič. Když Vučič
+[01:35:50] dělá hodně. U něj jedinýho
+[01:35:52] to akceptuju. Jinak toho prostě
+[01:35:54] moc nemám ráda, když někdo mluví proti Vučičovi.
+[01:35:56] Oni ho kritizovali a on se naštval a řekl, co jsem
+[01:35:58] udělal tak špatného pro Srbsko.
+[01:36:00] Celou dobu jsem se musel koncentrovat
+[01:36:02] a dávat pozor. Ani jednou
+[01:36:04] jsem nepřekročil naší politiku
+[01:36:06] Srbska. Vučič řekl
+[01:36:09] dopředu, my nebudeme dělat žádnou
+[01:36:11] vojenskou pomoc Ukrajině. Potom
+[01:36:13] řekl, my jsme se Zelenským
+[01:36:15] vůbec neprobírali konflikt na
+[01:36:17] Ukrajině. Vůbec. Jsme se o tom
+[01:36:19] nebavili. Taky ho
+[01:36:22] vyzvedla na letišky ministrině
+[01:36:24] hornictví a energetiky a ne Vučič.
+[01:36:26] Zelenský ho vzal na večeři,
+[01:36:28] řekl mu, že
+[01:36:30] jsou přátelský národy a Vučič řekl,
+[01:36:32] Ukrajina není náš nepřítel.
+[01:36:34] Jak to mám udělat, abych ho nepřijmul?
+[01:36:36] Náš nepřítel. My se nezapojeme
+[01:36:38] do toho konfliktu. My nejsme ani
+[01:36:40] na jedné straně. A když
+[01:36:42] jsou rusové naše přátelé,
+[01:36:44] tak i Ukrajina
+[01:36:46] musí být naše přátelé.
+[01:36:49] My nedáme žádné zbraně. To, co
+[01:36:51] říkali na západě, že bude Vučič vyrábět
+[01:36:53] nějaké drony z Ukrajinu,
+[01:36:55] to je nesmysl. Ani
+[01:36:57] zemím, které dodávají Ukrajině
+[01:36:59] zbraně. To je to, co dneska řekl
+[01:37:01] Vulin. Srbsko nebude dávat
+[01:37:03] ani zbraně Ukrajina, ale ani
+[01:37:05] žádné zemi, která dodává
+[01:37:07] potom ty zbraně Ukrajině.
+[01:37:09] My jsme neutrální zemi. To je to, co řekl
+[01:37:11] Vučič. My jsme udělali nějakou
+[01:37:13] dohodu o porozumění v oblasti
+[01:37:15] rolnictví
+[01:37:17] a zemědělství. Ale žádná
+[01:37:20] vojenská dohoda. My jsme přátelé
+[01:37:22] Ruska a žádný
+[01:37:24] funkce, žádnou takovou věc dělat
+[01:37:26] nebudeme. Rusy budeme
+[01:37:29] přijímat dál do
+[01:37:31] Srbska, když žádají
+[01:37:33] o azyl. Nebo ne o azyl, oni
+[01:37:35] nemusí mít azyl, oni můžou, nevím, jak to
+[01:37:37] mají, ale hodně Rusů je v Srbsku.
+[01:37:39] Takže to bylo poprvé, kdy jsem viděl
+[01:37:41] Vučiče, že se naštval, protože mu národ vyčítá,
+[01:37:43] že přijmou Zelenský. On řekl, nemohl jsem
+[01:37:45] to dělat jinak, tam byl silný tlak.
+[01:37:47] Musím udělat to nejlepší, co je pro
+[01:37:49] Srbska. Tohle bylo nejlepší, co je pro
+[01:37:51] Srbsko. Mě nezajímá
+[01:37:53] Amerika, Německo, Rusko, Ukrajina.
+[01:37:55] Dělám to, co je nejlepší pro Srbska. Tohle bylo
+[01:37:57] důležité, protože na nás tlačí.
+[01:37:59] Takže
+[01:38:01] to je to, co se stalo. Jinak po Bělehradu
+[01:38:03] normálně jsou plagáty, transparenty, že
+[01:38:05] Zelenský je fašista
+[01:38:07] a tak dál.
+[01:38:09] Si vůbec nikdo netají v Srbsku. Srbsko je svobodná
+[01:38:11] země na rozdíl od České republiky.
+[01:38:13] Takže to je to, co se stalo
+[01:38:15] v Srbsku.
+[01:38:20] Ještě něco bych k tomu měl říct.
+[01:38:22] Asi ne. Jestli chcete ještě něco vědět
+[01:38:24] o tom, tak se zeptejte, ale
+[01:38:26] takhle to byl nějaký protest
+[01:38:28] před úřadem vlády,
+[01:38:30] myslím, kde byli politici
+[01:38:32] a intelektuálové, kteří protestovali
+[01:38:34] proti tomu. Prostě Srbsko je
+[01:38:36] úplně opačně než Česká republika.
+[01:38:38] Tady, když přijede Zelenský,
+[01:38:40] tak mu nedávají nejvyšší státní ocenění,
+[01:38:42] ale národ se bouří proti tomu,
+[01:38:44] že ho prezident přijal. A prezident ho přijal, protože
+[01:38:46] prostě to bylo nejlepší z diplomatického
+[01:38:48] legiska, co mohlo udělat.
+[01:38:50] Takže to je to,
+[01:38:52] co jsem vám slíbil. A ještě jsem vám slíbil něco.
+[01:38:54] Jo, ale to, jedna věc, ze kterou
+[01:38:56] nesouhlasím s Vučičem, první věc,
+[01:38:58] včera jsem to říkal, nesouhlasím s ním v tom,
+[01:39:00] on říkal, musel jsem přijmout ho,
+[01:39:02] protože oni prosazují
+[01:39:04] územní celistvost Srbska.
+[01:39:06] Oni, Kosovo
+[01:39:08] bylo proti tomu, že přijal
+[01:39:10] Zelenský do Srbska.
+[01:39:13] Albánci proti tomu byli velmi tvrdě,
+[01:39:15] protože
+[01:39:17] Zelenský na mezinárodním poli prosazuje
+[01:39:19] územní celistvost Ukrajiny,
+[01:39:21] tudíž prosazuje územní celistvost Srbska.
+[01:39:23] Srbsko samozřejmě chce Kosovo
+[01:39:25] a ruský ambasador kdysi slíbil,
+[01:39:27] že až skončí konflikt na Ukrajině,
+[01:39:29] tak se Kosovo připojí k Srbsku.
+[01:39:31] A samozřejmě my bysme si všichni
+[01:39:33] přáli, aby se připojila i republika Srbská
+[01:39:35] k Srbsku, aby byly všichni Srbové
+[01:39:37] pohromadě v jednom státě. Ale to je na jiný
+[01:39:39] vyprávění, to není důležité pro vás
+[01:39:41] v ČR.
+[01:39:43] Ale tady to
+[01:39:48] řekl Aleksandr Vučič úplně dobře.
+[01:39:50] Je potřeba prostě, aby se lidi
+[01:39:52] o tom bavili, aby se to vysvětlilo.
+[01:39:54] Podívejte, jak vzniklo právo
+[01:39:56] na územní celistvost. Byla druhá
+[01:39:58] světová válka, státy za sebou
+[01:40:00] válčily, zabírali různě si
+[01:40:02] území. Němci si brali
+[01:40:04] Českou republiku, protektorát a tak dál.
+[01:40:06] Dneska jsme prakticky protektorát
+[01:40:08] Ukrajiny,
+[01:40:10] Ukrajiny taky a Evropské unie,
+[01:40:12] ale ještě máme
+[01:40:14] nějaký, no nemáme hranice. Dneska jsme
+[01:40:16] vlastně taky protektorát. Ale tenkrát
+[01:40:18] se prostě, ten svět byl udělaný
+[01:40:20] tak, že se malovaly hranice.
+[01:40:22] Existovaly státy.
+[01:40:29] A protože byla druhá světová válka,
+[01:40:31] tak, aby se to
+[01:40:34] potom ukončilo, tak se namalovaly státní
+[01:40:36] hranice. A řeklo se, takhle bude vypadat
+[01:40:38] mapa, tady se namalovaly státní
+[01:40:40] hranice, takhle jsme si to rozdělili.
+[01:40:42] Němce rozdělili napůl, protože jsou to
+[01:40:44] válečníci a rozjebali celou
+[01:40:46] Evropu. Podle mě
+[01:40:48] tisíc let neměli mít vůbec právo, aby měli
+[01:40:50] zbraně a armádu, ale vidíte,
+[01:40:52] dneska aspiruju na to, že budou nás řídit
+[01:40:54] do války proti Rusku.
+[01:40:56] A namalovaly se hranice a udělalo
+[01:40:58] se právo na územní celistvo.
+[01:41:00] Založilo se OSN a udělala se rada
+[01:41:02] bezpečnosti OSN, která má dohlížet na pořádek
+[01:41:04] ve světě, aby se neválčilo.
+[01:41:06] Toho už jsem vysvětoval milionkrát.
+[01:41:08] A teď on fungoval stát,
+[01:41:10] který se jmenoval Sovětský svaz, protože
+[01:41:12] Sovětský svaz byl největším vítězem druhé světové
+[01:41:14] války a měl pod kontrolou
+[01:41:16] prostě nějak to území
+[01:41:18] a měl mimo jiné taky, tam byla
+[01:41:20] ta část, ta Ukrajina,
+[01:41:22] která neexistovala prakticky.
+[01:41:24] To byla nějaká
+[01:41:26] okrajina krají Novorusie,
+[01:41:28] kde si říkali okrajina, jako
+[01:41:30] my říkáme třeba
+[01:41:32] nevím,
+[01:41:35] Slezko, nebo co máme prostě.
+[01:41:37] To není
+[01:41:39] samostatný stát, prostě jsou tam Slezani,
+[01:41:41] nebo Morava,
+[01:41:43] nebo nevím, nebo Chocko.
+[01:41:45] To je lepší příklad, Chocko.
+[01:41:47] Jo, Chocko.
+[01:41:50] A nebo Pošumavý.
+[01:41:52] Jo, Pošumavý, to je lepší, Pošumavý.
+[01:41:54] Tak Ukrajina nebyla, to bylo nějaký
+[01:41:56] Pošumavý, jo, i geologicky,
+[01:41:58] geograficky, prostě jakoby
+[01:42:00] na západě, i u hranic,
+[01:42:02] tak to tak odpovídá,
+[01:42:04] i procentuálně to odpovídá tomu území.
+[01:42:06] Takže to bylo takový Pošumavý,
+[01:42:08] Sovětskýho svazu. No a potom
+[01:42:10] oni začali říkat,
+[01:42:12] že by chtěli být jako národ.
+[01:42:14] A vznikla ukrajinská povstalec,
+[01:42:16] ukrajinská armáda a začali prosazovat, že budou národ.
+[01:42:18] Ale mluvili stejným jazykem, že jo,
+[01:42:20] stejně tak jako,
+[01:42:22] jo, prostě rusky.
+[01:42:24] Tak, ano a potom přišli 50. let
+[01:42:26] a víte, že Kruščev
+[01:42:28] Vožralej,
+[01:42:30] nebo Kruščov,
+[01:42:32] nebo Kruščov,
+[01:42:34] Zuzko, napiš mi, jak se jmenoval, prosím tě,
+[01:42:36] ten Vožrala, protože ty jsi byla,
+[01:42:38] no tou dobou ještě ne,
+[01:42:40] ale později, když jsi byla osobní
+[01:42:42] asistentkou, osobní sekretářkou,
+[01:42:44] teda tenkrát se říkalo osobní sekretářkou,
+[01:42:46] Gustava Husáka deset let, tak musíš vědět
+[01:42:48] takovýhle věci. Nevím, jestli to byl
+[01:42:50] 58. rok, nebo
+[01:42:52] kterej, tak přiřadil
+[01:42:54] ještě k Ukrajině Krim,
+[01:42:56] protože Ukrajina byla součástí
+[01:42:58] svazový republiky Kruščov,
+[01:43:00] ale ty jsi to napsal taky špatně, Kruščov.
+[01:43:02] OK, dobře. A v kterém roce
+[01:43:04] to bylo s tím Krimem, no to není důležité,
+[01:43:06] Krim byl historicky ruský a přidal
+[01:43:08] se Ukrajina, ale to není důležité. Důležité je,
+[01:43:10] že když se rozpadal sovětský svaz,
+[01:43:12] tak sovětský
+[01:43:14] svaz těm
+[01:43:16] svazovým republikám garantoval
+[01:43:18] suverenitu. Za určitých podmínek.
+[01:43:20] A vzniknul nový stát
+[01:43:23] poprvé, nikdy předtím nebyl, Ukrajina.
+[01:43:25] A to byl rok 1991,
+[01:43:27] Zuzko, to už si snad pamatuješ. 1991
+[01:43:29] myslím, že vznikla Ukrajina jako
+[01:43:31] stát. A co je stát? Stát je nějaký
+[01:43:33] zřízení, který má za úkol
+[01:43:35] starat se o občany.
+[01:43:37] A musí zajistit těm občanům nějaký
+[01:43:39] fungování. Krom toho tam byly podmínky, že nesmí
+[01:43:41] být nazbrojený, nesmí jít do NATO atd.
+[01:43:43] Ale Ukrajina nezajistila
+[01:43:45] svým občanům
+[01:43:47] život tak, jako podle mezinárodního
+[01:43:49] práva musí zajistit
+[01:43:51] jakýkoliv stát. Takže
+[01:43:53] Ukrajina se,
+[01:43:55] počkejte, tady schovám ten
+[01:43:57] komentář, Ukrajina se neosvědčila
+[01:43:59] jako stát. Ukrajina,
+[01:44:01] to máte jako, jdete do práce,
+[01:44:03] máte zkuševní dobu. A když se neosvědčíte,
+[01:44:05] tak vás vyhodí. Ukrajina vznikla jako
+[01:44:07] uměle vytvořený stát.
+[01:44:09] Zuzko, tady mi to píšeš, jo, kdy to
+[01:44:11] vzniklo, 91 nebo kdy? Uměle
+[01:44:13] vytvořený stát. To není
+[01:44:16] stát, v 54
+[01:44:18] předal, jo, v 54, a kdy vznikla
+[01:44:20] Ukrajina, prosím tě, napiš 91, tak to
+[01:44:22] alespoň to daj. Myslel jsem si, že to bylo
+[01:44:24] v 54, pak jsem si říkal, ne, to má táta
+[01:44:26] narození, není muselo to být v 58.
+[01:44:28] Ne.
+[01:44:30] Vzniknul uměle vytvořený stát Ukrajina.
+[01:44:32] Ten stát Ukrajina
+[01:44:36] neměl ty záruky
+[01:44:38] od OSN na územní celistvost
+[01:44:40] ze 46. roku.
+[01:44:42] HPT neměl.
+[01:44:44] To měl Sovětský svaz.
+[01:44:46] To neměla Ukrajina. Ukrajina nemůže
+[01:44:48] používat právo
+[01:44:50] na svoje
+[01:44:52] hranice, protože není.
+[01:44:54] To jim dal Sovětský svaz.
+[01:44:56] Sovětský svaz vytvořil Ukrajinu. Jenom
+[01:44:58] díky Sovětskému svazu Ukrajina
+[01:45:00] jako stát existuje.
+[01:45:04] To, co je potřeba, dívat se na to
+[01:45:06] historicky, kdo tam žil.
+[01:45:08] A historicky tam žili
+[01:45:10] rusové,
+[01:45:13] který některý z nich, ty tam pošumavníci,
+[01:45:15] se prohlásili za Ukrajince,
+[01:45:17] tak by se dalo říct, OK, tak třeba
+[01:45:19] oni by měli nějaký právo
+[01:45:21] na sebeurčení. Ale
+[01:45:23] na Dombase, na Dombase
+[01:45:25] a na Krymu, jsou to rusové,
+[01:45:27] který se hlásí k rusům.
+[01:45:29] Takže jestli Ukrajina má
+[01:45:31] právo na sebeurčení,
+[01:45:33] tak ale nemůže mluvit o tom,
+[01:45:35] že se Ukrajina sebeurčuje a
+[01:45:37] zároveň má právo na územní celistvost,
+[01:45:39] nově vzniklýho,
+[01:45:41] uměle vytvořenýho státu,
+[01:45:43] kde jsou rusové.
+[01:45:45] Takže i z hlediska
+[01:45:48] územní celistvosti státu
+[01:45:50] nemůže Ukrajina tvrdit
+[01:45:52] územní celistvost státu,
+[01:45:54] když je to uměle vytvořený
+[01:45:56] stát, který ještě k tomu
+[01:45:59] nefunguje, protože nezajistil těm rusům
+[01:46:01] tu možnost, aby žili v souladu
+[01:46:03] s mezinárodním právem. Ukrajina
+[01:46:05] má být zrušena, protože se
+[01:46:07] neosvědčila jako stát.
+[01:46:09] Dva roky ji řídí diktátor.
+[01:46:11] V roce 2014
+[01:46:14] proti ústavním půjčem zvolili
+[01:46:16] nacistický vedení.
+[01:46:18] Ukrajina má být zrušena,
+[01:46:20] mezinárodně má být zrušena, protože se
+[01:46:22] neosvědčila jako stát. A pokud
+[01:46:24] by Ukrajinci chtěli uznat
+[01:46:26] ne právo na územní
+[01:46:28] celistvost, ale právo na
+[01:46:30] sebeurčení, tak se můžou sebeurčit
+[01:46:32] na západě Ukrajiny, protože tam
+[01:46:34] oni jsou nacionalisté,
+[01:46:36] tam by chtěli být Ukrajinci.
+[01:46:38] Ale ne na Rombase, protože tam ty
+[01:46:40] lidi řekli, my chceme patřit k Rusku, my jsme rusové.
+[01:46:42] A na Krimu taky.
+[01:46:44] Takže ani jedno tohle právo
+[01:46:46] jim nehraje do karet.
+[01:46:48] Je to jenom jakoby v procesu
+[01:46:50] uzmutí v jednom momentu fotka
+[01:46:52] vytvořená a teď v tuhle chvíli
+[01:46:54] je Ukrajina stát a
+[01:46:56] teď zrovna jsou tady ty
+[01:46:58] hranice namalovaný
+[01:47:00] v tuhle chvíli a teď mi zrovna
+[01:47:02] od toho roku 1991 tady máme tu
+[01:47:04] územní celistvost a máme na tom právo. Ne.
+[01:47:06] Právo je něco, co je živý.
+[01:47:08] Musí se vždycky na to koukat v kontextu.
+[01:47:10] Od roku 1948 Ukrajina neexistuje.
+[01:47:12] V roce 1991 vznikla,
+[01:47:14] nepovedla se. Nebyla schopná
+[01:47:16] zajistit občanům život.
+[01:47:18] Má být rozpuštěna.
+[01:47:21] A teď by mohli Ukrajinci přijít s tím, že chtějí mít právo
+[01:47:23] na sebeurčení. OK.
+[01:47:25] Jestli se to nepodařilo,
+[01:47:27] sovětský svat se rozpadl stejně jako Jugoslávie,
+[01:47:29] hranice se stejně přemalovaly.
+[01:47:31] Proč ne? Jsem pro to,
+[01:47:33] aby se ty národy, který chtějí
+[01:47:35] mít právo na sebeurčení, aby ho měli.
+[01:47:37] My jsme Češi, máme my Českou republiku.
+[01:47:39] Ukrajinci chtějí být Ukrajinci,
+[01:47:41] ať mají svoji Ukrajinu,
+[01:47:43] ale ať si nechají ten kousek, kde žijou
+[01:47:45] ty Ukrajinci. Nemají žádný
+[01:47:47] právo na to, aby měli ve svojí zemi
+[01:47:49] ty Rusy, který vyvraždějí.
+[01:47:51] Nemají na to právo.
+[01:47:53] A co se týče Kosova, to je
+[01:47:55] úplně opačný případ. Nebo
+[01:47:57] je to stejný případ jako s Donbasem.
+[01:47:59] Kosovo je centrum Srbska
+[01:48:01] historicky. Tam jsou první pravoslavní
+[01:48:03] kostely. To je to nejdůležitější pro Srby.
+[01:48:05] A od 70. let se tam
+[01:48:07] začaly navážet migranti.
+[01:48:09] Proto vždycky říkám, když
+[01:48:11] chcete vidět, jak bude vypadat Evropa,
+[01:48:13] to mi řekl nejchytřejší člověk na světě.
+[01:48:15] Podívejte se na minulost Jugoslávie.
+[01:48:17] Začaly se tam navážet migranti. Ty migranti
+[01:48:19] nejdříve jim tam pomáhali. Dávali jim jídlo, piky,
+[01:48:21] oblečení, baráky, všechno. Elektřinu
+[01:48:23] do dneška snad mají zdarma.
+[01:48:25] Nebo měli minimálně do 90. let.
+[01:48:27] Nášky do dneška jim dávají zdarma elektřinu.
+[01:48:29] Myslím, že dokonce Srbové.
+[01:48:37] Takže vyvražďovat původní obyvatelstvo.
+[01:48:39] Vyhánět. Až ho nakonec vyhnali
+[01:48:41] do NKLAV za pomoci západu,
+[01:48:43] který přišel američani.
+[01:48:45] Podpořil teroristickou organizaci
+[01:48:47] UČK. Američani ji sundali
+[01:48:49] ze seznamu teroristických organizací.
+[01:48:51] Podpořili ji politicky. Podpořili ji
+[01:48:53] vojensky. A zbombardovali Jugoslávii,
+[01:48:55] která se bránila.
+[01:48:57] Nasadili tam
+[01:48:59] jednotky, kde byl třeba mimo jiné
+[01:49:01] i náš prezident Pavel.
+[01:49:03] Vím přesně jméno toho člověka,
+[01:49:05] kterému držel samopal za zády.
+[01:49:07] A vůbec to nebylo tak, jak to prezentují
+[01:49:09] naše médiá, jaký to byl velký hergina.
+[01:49:11] Ale o tom až někdy jindy. To bude
+[01:49:13] velký skandál, jestli to někdy vytáhneme v Čechách.
+[01:49:21] Rozbili tu zemi. A Albáncům
+[01:49:23] dali to Kosovo, který je srbský.
+[01:49:25] Protože tam ten západ, ty globalisty
+[01:49:27] ze západu měli to nerostní bohatství.
+[01:49:29] Ale to přece
+[01:49:32] má patřit Srbsku.
+[01:49:34] Ať už na základě, a oni tvrdí,
+[01:49:36] že na základě sebeurčení
+[01:49:38] mají právo si tu zemi vzít.
+[01:49:40] Tady by měla být
+[01:49:44] uplatněná ta
+[01:49:46] územní celistvost.
+[01:49:48] Proč? No protože historicky
+[01:49:50] tam ty lidi žijou.
+[01:49:52] Srbové. A nějaký migranti jim to
+[01:49:54] ukradli. Stejně tak
+[01:49:57] má být uplatněná
+[01:49:59] územní celistvost pro Donbass a pro
+[01:50:01] Krym. Ale ne ukrajinská.
+[01:50:03] Ale ruská. Protože to jsou rusové.
+[01:50:05] A Rusko má mít
+[01:50:07] právo na to, aby tu
+[01:50:09] historickou územní
+[01:50:11] celistvost, kterou mělo v roce 1948
+[01:50:13] nad těmi zeměmi, aby mělo.
+[01:50:15] A zároveň právo
+[01:50:17] na sebeurčení. Protože tam ještě nepřišly
+[01:50:19] migranti. Tam je původní obyvatelstvo.
+[01:50:21] Ale na Kosovu
+[01:50:24] tam už nemá mít právo na sebeurčení.
+[01:50:26] Protože pokud dopustíme to, že
+[01:50:28] na Kosovu bude mít právo na sebeurčení,
+[01:50:30] budou mít Albánci, tak
+[01:50:32] Německo za chvilku bude moct být,
+[01:50:34] Rakousko bude moct být za chvilku, Turecko
+[01:50:36] b. A Německo bude
+[01:50:38] moct být Afrika C.
+[01:50:40] A Británie bude, Pákistán
+[01:50:42] D. A tak dál.
+[01:50:44] Protože ty migranti, jakmile se tam namnoží,
+[01:50:46] tak si tu zem vezmou,
+[01:50:48] prohlásí ji za svojí na základě
+[01:50:50] práva na sebeurčení, vyhlásí, vyvěsí
+[01:50:52] islámskou vlajku a udělají
+[01:50:54] islámský právo. A tady bysme
+[01:50:57] se měli nad tím zamyslet. Protože
+[01:50:59] Česká republika mimo jiné
+[01:51:01] už je docela dost ukrajinizovaná.
+[01:51:03] Nepřipadá vám?
+[01:51:05] Nepřipadá vám, že je čas na to se probudit,
+[01:51:07] probrat se a říct, ale už toho
+[01:51:09] bylo dost? A teď neříkám,
+[01:51:12] že chci odvést ty kluky v bojovém věku na Ukrajinu,
+[01:51:14] protože tam je rovnou hodí do mlínku.
+[01:51:16] To ne, takovej nelida nejsem.
+[01:51:18] Je potřeba počkat.
+[01:51:20] Ale to, co udělal Andrej Babiš
+[01:51:22] teď v červnu,
+[01:51:24] Lex Ukrajina 7,
+[01:51:26] zákon, kterým jim
+[01:51:28] umožnili, aby si teď
+[01:51:30] požádali otrvalý pobyt, aby ho dostali
+[01:51:32] na místo dočasní ochrany,
+[01:51:34] to je prostě jako
+[01:51:38] plánovaná ukrajinizace České republiky.
+[01:51:40] A tahleta vláda
+[01:51:42] v tom jede úplně stejně jako ta vláda předchozí.
+[01:51:44] Přátelé, mluvil jsem dlouho.
+[01:51:46] 1 hodina 51 minut,
+[01:51:48] 54 minut, jestli vám něco z toho, co jsem
+[01:51:50] dneska říkal, dává smysl,
+[01:51:52] tak nezapomeňte sdílet.
+[01:51:54] Nezapomeňte sdílet.
+[01:51:57] Protože
+[01:51:59] proč tady Vrabil sedí každej
+[01:52:01] den a hodiny a hodiny
+[01:52:03] zdarma mluví
+[01:52:05] národu do duše?
+[01:52:07] Proč nasazuju někdy krk,
+[01:52:09] někdy pověst, někdy
+[01:52:11] kriminál, zlikvidovaný
+[01:52:13] biznis? Kvůli tomu, že
+[01:52:15] něco chci dosáhnout, tak buďte od
+[01:52:17] té dobroty
+[01:52:19] a udělejte pro to aspoň to, že to video
+[01:52:21] sdílíte. Aspoň to byste
+[01:52:23] mohli udělat. Dát tam ten like a sdílet to.
+[01:52:25] A protože to mě rozčiluje.
+[01:52:27] Vždycky vidím tady 500, 600 lidí a pak
+[01:52:29] vidím 150 lajků. Nerozumím
+[01:52:31] tomu, co to má znamenat. Jestli se vám
+[01:52:33] to nelíbí, tak se běžte dívat někam
+[01:52:35] jinam. Jestli se vám to líbí, tak udělejte
+[01:52:37] aspoň tolik odvahy, že tomu dáte
+[01:52:39] aspoň lajk. Protože jestli jste
+[01:52:41] takový srágory, že
+[01:52:43] se bojíte, že vám potom řeknou někde tamhle
+[01:52:45] ve vaší straně
+[01:52:47] stačilo nebo spro, jak to můžeš dát
+[01:52:49] v Rábelovi lajk?
+[01:52:51] Protože prostě tam
+[01:52:54] nikdo jiný není takovej,
+[01:52:56] který by vám něco takového řekl.
+[01:52:58] Tak si běžte do vašich politických
+[01:53:00] stran, falešní opozice a hledejte
+[01:53:02] tam někoho, kdo bude bojovat za
+[01:53:04] český národ. Jestli nemáte
+[01:53:06] tolik odvahy. Prostě,
+[01:53:08] to mi docela rozčiluje to moc.
+[01:53:10] Ale OK, nebudu se rozčilovat. Jestli
+[01:53:12] vám dává smysl něco z toho, co jsem dneska
+[01:53:14] říkal, sdílet, lajky,
+[01:53:16] komentáře. A vidíme
+[01:53:19] se zítra v 9 hodin s právě
+[01:53:21] v 9 s komentářem. A pro ty z vás, co
+[01:53:23] sledujete jenom nedělní vysílání,
+[01:53:25] tak se uvidíme v neděli.
+[01:53:27] OK, tak jsem byl trošku přísnej,
+[01:53:29] ale občas to musíte udělat prostě.
+[01:53:31] Občas to musíte udělat.
+[01:53:33] Jinak prostě ty lidi si toho nebudou vážit.
+[01:53:35] Mějte se krásně, mám vás rád.
