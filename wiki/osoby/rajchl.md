@@ -179,6 +179,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **20. 9.** — Seznam Zprávy (Lukáš Valášek) srovnány s rétorikou nacistického „Der Stürmer" za článek o konferenci Svatopluk; kritika moderátorky Lucie Čermákové (CNN Prima) — [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) → [media-propaganda.md](../media-propaganda.md#seznam-zprávy-lukáš-valášek-srovnány-s-rétorikou-nacistického-der-stürmer-rajchl-19-20-9-2026)
 - **7. 10.** — ČT jako „kanál, který nejvíce šíří dezinformace“ → omezit — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 - **21. 10.** — odpověď Moravcovi, který ho označil za „nácka“: „nácek“ je pro liberály každý odpůrce Green Dealu, války, eura a migrace; Moravec „nula“, žebrá o hosty u SPD → [media-propaganda.md](../media-propaganda.md) — [Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
+- **22. 10.** — stížnost k Radě ČT na Jana Moláčka („kukaččí mládě“ = přiznání cenzury); dokud ČT řídí lidé jako on, usiluje o její zrušení, „ani korunu“ → [media-propaganda.md](../media-propaganda.md) — [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -236,6 +237,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **26. 7.** — slyšení Fauciho (29. 7., Rand Paul) jako reálná událost — dokumenty od Tulsi Gabbard o lhaní ohledně gain-of-function a cenzuře původu viru; studie o izoprinozinu od prof. Berana — [Facebook Live 26. 7. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-26-7-2026)
 - **2. 8.** — právní rozbor slyšení Fauciho (judikát 1896, milost od 2014, žaloby na Pfizer v 5 státech USA); volá po obdobném slyšení pro české experty (Primula) — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 - **16. 8.** — debata s moderátorkou Čermákovou (Prima, K věci) o proočkovanosti Ukrajinců a očkování v lékárnách; nedůvěra k odborníkům po covidu — [Facebook Live 16. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
+- **22. 10.** — dokument ČT „konečně odvysílal pravdu“: SARS-CoV-2 uměle vytvořen ve Wu-chanu za peníze USA; obhajoba Berana a Pekové, Morens přiznal vinu, Fauci chráněn Bidenovou milostí → [covid-vakciny.md](../covid-vakciny.md) — [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
@@ -499,6 +501,11 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Vladimír Kapal | ✅ pozitivní | Jeho odsouzení za diskusi o Katyni je „absurdní“ | 2026-10-20 | [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026) |
 | Radim Panenka | ✅ pozitivní | Trestní prověřování kvůli příspěvku k úmrtí Radka Mladiče je „totální nesmysl“ | 2026-10-20 | [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026) |
 | Václav Moravec | ❌ negativní | Označil Rajchla za „nácka“; „nula“, bez ČT „nic“, žebrá o hosty u tiskové mluvčí SPD | 2026-10-21 | [Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026) |
+| Jan Moláček | ❌ negativní | „Hysterický výlev“ proti dokumentu ČT o původu covidu; „kukaččí mládě“ = cenzura, stížnost k Radě ČT | 2026-10-22 | [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026) |
+| Hynek Beran | ✅ pozitivní | „Světově uznávaná kapacita“, ví o virologii víc než celá redakce ČT | 2026-10-22 | [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026) |
+| Soňa Peková | ✅ pozitivní | Hájí ji: v dokumentu nevystupovala, jen archivní záběry ČT | 2026-10-22 | [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026) |
+| Anthony Fauci | ❌ negativní | Byl by stíhán, nebýt Bidenovy milosti | 2026-10-22 | [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026) |
+| David Morens | ❌ negativní | Přiznal vinu za falšování záznamů o původu viru | 2026-10-22 | [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026) |
 
 ---
 
@@ -641,3 +648,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Tisková konference: novela trestního zákoníku, § 318a a § 405 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)
 - [Rajchl — EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026)
 - [Rajchl — Že neuhodnete, kdo mě za poslední dobu nejvíc pobavil: Moravec a „nácek“ (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
+- [Rajchl — Jan Moláček překročil všechny meze: dokument ČT o původu covidu, stížnost k Radě ČT (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)

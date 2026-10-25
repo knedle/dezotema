@@ -18,6 +18,16 @@ Kanál Pavel Zítko označuje pandemii covidu-19 za záměrně „spuštěnou" o
 
 ---
 
+### Dokument ČT „konečně odvysílal pravdu“: SARS-CoV-2 uměle vytvořen ve Wu-chanu za peníze USA (Rajchl, 22. 10. 2026)
+
+Rajchl tvrdí, že Česká televize „po šesti letech“ odvysílala dokument, který ukazuje „pravdu o původu viru“: SARS-CoV-2 podle něj nepřeskočil na člověka z netopýra, ale byl uměle vytvořen ve wuchanské laboratoři financované Spojenými státy. Kritiku dokumentu od redaktora ČT Jana Moláčka vykládá jako snahu zastavit pravdu, když se „hradba lží začíná bortit“. Moláček podle něj nepředložil jediný věcný argument a jen ukazoval na účinkující. Peková v dokumentu prý vůbec nevystupovala (šlo o archivní záběry samotné ČT). Prof. Beran je podle Rajchla „světově uznávaná kapacita“, která o virologii a imunologii ví víc „než celá redakce České televize dohromady“. ČT podle něj divákům zamlčela, že Fauciho poradce David Morens přiznal vinu za falšování záznamů a že Fauci by byl stíhán, nebýt milosti od Joea Bidena.
+
+⚡ **Konflikt:** Teze o umělém vytvoření viru v laboratoři je v rozporu s Tarabovou (virus nelze v laboratoři vytvořit přenosný, „infekční teorie“ neplatí) i se Zítkovým tvrzením, že SARS-CoV-2 nikdy nebyl izolován.
+
+**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
+
+---
+
 ### SARS-CoV-2 nebyl nikdy izolován
 
 Mluvčí Pavel Zítko tvrdí, že virus SARS-CoV-2 „nikdy nebyl izolován", a z toho vyvozuje, že nemohl sám o sobě nikoho zabít. Smrt pacientů je tak podle tohoto výkladu přisuzena lékařskému protokolu (remdesivir, ventilátor), nikoli viru.

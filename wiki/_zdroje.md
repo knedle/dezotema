@@ -5656,3 +5656,11 @@
 - **Datum záznamu:** 2026-10-21
 - **Zpracováno:** ano
 - **Poznámka:** 3 min 31 s.
+
+## Rajchl — Jan Moláček překročil všechny meze: dokument ČT o původu covidu, stížnost k Radě ČT (22. 10. 2026) {#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-22_Jindřich-Rajchl_Jan-Moláček-překročil-všechny-meze.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1157640560278154>
+- **Datum záznamu:** 2026-10-22
+- **Zpracováno:** ano
+- **Poznámka:** 3 min 21 s.

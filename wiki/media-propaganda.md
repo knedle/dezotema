@@ -179,6 +179,16 @@ V televizní debatě s Gabrielou Svárovskou (Zelení) Rajchl ironicky přitaká
 
 ---
 
+### Stížnost k Radě ČT na Jana Moláčka za „kukaččí mládě“; ČT zrušit, „ani korunu“ (Rajchl, 22. 10. 2026)
+
+Moláčkův výrok, že je třeba „pohlídat, aby se v ČT nevylíhlo kukaččí mládě“, chápe Rajchl jako přiznání cenzury jakéhokoli oponentního názoru ve veřejnoprávní televizi. Moláček tím podle něj porušil zákon o České televizi i její etický kodex, a Rajchl proto oznamuje stížnost na jeho osobu k Radě ČT. Moláček podle něj není majitelem média, jen zaměstnancem placeným lidmi, z nichž část „právě tuhle pravdu“ chce vidět. Uvidí se prý, zda ČT zůstane „cenzorským médiem“, nebo se „lidí jako jste vy“ co nejrychleji zbaví. Dokud ji takoví lidé řídí, bude Rajchl usilovat o zrušení ČT a o to, aby od daňových poplatníků „nikdy už nedostala ani jednu korunu“. Spor se týká dokumentu o původu covidu, viz [covid-vakciny.md](covid-vakciny.md).
+
+> „Vy nejste majitelem tohoto veřejnoprávního média. Vy jste pouze zaměstnancem, kterého si platí naši lidé.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
+
+---
+
 ## Dvojí metr v médiích
 
 ### Mediální lynč vs. selektivní ticho
