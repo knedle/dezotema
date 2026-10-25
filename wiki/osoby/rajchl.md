@@ -178,6 +178,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **19. 7.** — „okurková sezóna": plot u jeho zahrady jako titulka Seznamu místo velkých kauz (Rakušan/vrtulníky); řízení Seznamu (šéfredaktor Čárenský dostal desítky milionů od Lukačeviče) — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - **20. 9.** — Seznam Zprávy (Lukáš Valášek) srovnány s rétorikou nacistického „Der Stürmer" za článek o konferenci Svatopluk; kritika moderátorky Lucie Čermákové (CNN Prima) — [Facebook Live 20. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026) → [media-propaganda.md](../media-propaganda.md#seznam-zprávy-lukáš-valášek-srovnány-s-rétorikou-nacistického-der-stürmer-rajchl-19-20-9-2026)
 - **7. 10.** — ČT jako „kanál, který nejvíce šíří dezinformace“ → omezit — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
+- **21. 10.** — odpověď Moravcovi, který ho označil za „nácka“: „nácek“ je pro liberály každý odpůrce Green Dealu, války, eura a migrace; Moravec „nula“, žebrá o hosty u SPD → [media-propaganda.md](../media-propaganda.md) — [Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -497,6 +498,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Petr Pavel | ❌ negativní | „Bolševický papaláš“, „falešný do morku kostí“; při cizí úhradě letu má abdikovat | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | Vladimír Kapal | ✅ pozitivní | Jeho odsouzení za diskusi o Katyni je „absurdní“ | 2026-10-20 | [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026) |
 | Radim Panenka | ✅ pozitivní | Trestní prověřování kvůli příspěvku k úmrtí Radka Mladiče je „totální nesmysl“ | 2026-10-20 | [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026) |
+| Václav Moravec | ❌ negativní | Označil Rajchla za „nácka“; „nula“, bez ČT „nic“, žebrá o hosty u tiskové mluvčí SPD | 2026-10-21 | [Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026) |
 
 ---
 
@@ -638,3 +640,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Nedělní vysílání: senátní volby, Pavel a Maroko, Francie, Trump a Ukrajina (18. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 - [Rajchl — Tisková konference: novela trestního zákoníku, § 318a a § 405 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)
 - [Rajchl — EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026)
+- [Rajchl — Že neuhodnete, kdo mě za poslední dobu nejvíc pobavil: Moravec a „nácek“ (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)

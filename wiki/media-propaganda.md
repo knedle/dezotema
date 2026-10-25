@@ -121,7 +121,11 @@ V poslanecké sněmovně (**26. 6. 2026**), v debatě odbočivší od služební
 
 **16. 8.** — Rajchl doplňuje argument konkrétními příklady bývalých moderátorů ČT, kteří po odchodu z veřejnoprávní stanice ztratili sledovanost: Nora Fridrichová vysílá podcasty na Hero Hero pro „pár stovek" diváků, Marek Volner píše pro Forum24 a „vymýšlí si jeden nesmysl za druhým", Zuzana Černá „zkrachovala". Václav Moravec podle něj sám selhal jako moderátor (neuvěřitelně ukončil debatu s Rajchlem kvůli vlastní neschopnosti ji zvládnout, ne kvůli Rajchlovým „výstřelkům") a jeho kanál dosahuje nižší sledovanosti než konkurenční alternativní kanály (XTV, Petr Bureš, Vox TV, KTV) — na rozdíl od ČT musí tyto kanály bojovat o každého diváka. Moravcovi navíc vydělává i angažmá v „nezávislé" fact-checkingové neziskovce placené rovněž z veřejných peněz. Závěr: kdyby ČT musela soutěžit o diváky jako komerční kanály, dostali by prostor tvůrci jako Petr Holec, Xaver, Radim Panenka, Markéta Dobijášová nebo Tomáš Paukner.
 
-**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026), [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
+**21. 10.** — Na Moravcův výrok, že by Rajchla nikdy nepozval do pořadu, protože je „nácek“, Rajchl odpovídá, že pro liberály je „nácek“ každý, kdo odmítá Green Deal, válku, „ideologii 112 pohlaví“, euro nebo migranty z Afriky či Ukrajiny. Pokud lidé budou dál volit liberály, „skončí to jako ve Francii“. Tvrdí, že k Moravcově odchodu z ČT „nemalou měrou“ přispěl sám, když Moravec předčasně ukončil debatu kvůli Rajchlově „jasné argumentační převaze“. Moravec podle něj dnes každý týden „žebrá“ u tiskové mluvčí SPD o hosty, protože bez ČT nemá sledovanost.
+
+> „Smiřte se s tím, že jste nula. Bez České televize v zádech jste nic.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026), [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026), [Rajchl — Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
 
 ---
 

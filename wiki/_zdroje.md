@@ -5648,3 +5648,11 @@
 - **Datum záznamu:** 2026-10-20
 - **Zpracováno:** ano
 - **Poznámka:** 4 min 15 s.
+
+## Rajchl — Že neuhodnete, kdo mě za poslední dobu nejvíc pobavil: Moravec a „nácek“ (21. 10. 2026) {#jindřich-rajchl--moravec-nácek-21-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-21_Jindřich-Rajchl_Že-neuhodnete-kdo-mě-za-poslední-dobu-nejvíc-pobavil.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1556757322876947>
+- **Datum záznamu:** 2026-10-21
+- **Zpracováno:** ano
+- **Poznámka:** 3 min 31 s.
