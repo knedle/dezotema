@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — americké poločasové volby „vůbec nemusí proběhnout“, místo nich EBS (20. 10. 2026)
+
+**Předpověď:** Volby do Kongresu USA začátkem listopadu se podle Zítka vůbec nemusí konat, protože v rámci „vyložení karet“ přijde vysílání EBS a „velké finále“ operace „Red October“.
+
+> „Moje predikce je, že k těm poločasovým volbám ve Spojených státech začátkem listopadu vůbec nemusí dojít, protože v rámci vyložení karet a vysílání EBS bude možná úplně něco jiného než volby ve Spojených státech.“ — Pavel Zítko
+
+**Horizont:** 3. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
+
+---
+
+### Pavel Zítko — proces s Gatesem, Bourlou a Ruttem v Leeuwardenu 22. 10. (20. 10. 2026)
+
+**Předpověď:** 22. 10. 2026 má v nizozemském Leeuwardenu začít „dlouho očekávaný proces“, v němž budou na lavici obžalovaných (osobně, nebo přes právní zástupce) Bill Gates, Albert Bourla a Mark Rutte. Obžalobu má vést právník Peter Stassen.
+
+> „Tohleto je dlouho, dlouho očekávaný proces, který se odehraje v Holandsku 22.“ — Pavel Zítko
+
+**Horizont:** 22. 10. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
+
+---
+
 ### Jindřich Rajchl — po pádu Kramatorsku a Slovjansku mírová dohoda: Rusku zbytek Doněcké oblasti, Ukrajině kus Charkovské (18. 10. 2026)
 
 **Předpověď:** Za pár měsíců padne Kramatorsk a Slovjansk a „přijde na stůl mírová dohoda“: Rusko dostane zbytek Doněcké oblasti a vrátí část Charkovské oblasti, „o kterou nestojí“. Zpřesnění predikce z 11. 10.
@@ -189,6 +213,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **Horizont:** do 19. 10. 2026; nejpozději americké midterms (3. 11. 2026)
 **Stav:** 🕐 Čeká na vyhodnocení
 **Zdroj:** [ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026)](_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
+**Poznámka:** Do 19. 10. EBS aktivován nebyl. 20. 10. Zítko predikci posunul: midterms „vůbec nemusí proběhnout“, místo nich přijde EBS — [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 
 ---
 

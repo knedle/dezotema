@@ -341,4 +341,6 @@ Zítko navazuje svou verzí. „Podvod“ s korporacemi podle něj začal už v 
 
 ⚡ **Poznámka:** Ústavní zákon 542/1992 Sb. podepsali předseda Federálního shromáždění Michal Kováč a předseda vlády ČSFR Jan Stráský, na kterého po abdikaci Václava Havla (20. 7. 1992) přešly pravomoci prezidenta. Sám Zítko 5. 10. zpochybňoval právě Stráského podpis (vláda „bez důvěry“), nyní tvrdí, že zákon nepodepsal nikdo v roli prezidenta.
 
-**Zdroje:** [ČsTV2 — První díl setkání Čechoslováků: Bob Acer a Zítko (záznam 10. 10., zveřejněno 20. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026)
+**20. 10.** — Zítko sdílí banner Ivy Millerové, podle níž jsou neplatné všechny zákony vydané po přejmenování republiky 29. 3. 1990. Opakuje, že Klaus kandidoval do Federálního shromáždění a Stráský do ČNR, po dohodě s Mečiarem si prý „prohodili role“ a Stráský „doklepal“ rozdělení jako premiér bez důvěry. Nově dodává, že „nezákonnost“ začala už tím, že Beneš v roce 1948 nepodepsal komunistickou ústavu.
+
+**Zdroje:** [ČsTV2 — První díl setkání Čechoslováků: Bob Acer a Zítko (záznam 10. 10., zveřejněno 20. 10. 2026)](_zdroje.md#československo-tv2--setkání-frýdek-místek-první-díl-acer-20-10-2026), [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)

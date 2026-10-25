@@ -5712,3 +5712,11 @@
 - **Datum záznamu:** 2026-10-10 (zveřejněno 2026-10-20)
 - **Zpracováno:** ano
 - **Poznámka:** 58 min 18 s, první blok setkání ve Frýdku-Místku; úvod se kryje se [zahájením 10. 10.](#československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026), přednáška Boba Acera je tu poprvé srozumitelně. Úsek [49:08–53:40] bez přepisu.
+
+## Československo TV2 — Živě na kanálu Jana Peterková: aktuality 11:11 a „výzva pro Čermáka“ (20. 10. 2026) {#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-23_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1469042048448999&_rdr>
+- **Datum záznamu:** 2026-10-20 (soubor datován 23. 10.)
+- **Zpracováno:** ano
+- **Poznámka:** 2 h 4 min. Stanné právo a „500 tisíc rozsudků“, Q zpráva, Leeuwarden, QFS/CESTUI QUE VIE, Naomi Wolf, ČSR (Millerová), výzva ke konfrontaci s „falešným Čermákem“, alternativnimedia.cz.

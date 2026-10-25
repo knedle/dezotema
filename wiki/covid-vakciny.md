@@ -514,7 +514,9 @@ Zítko cituje autorku Naomi Wolf (kniha *Pfizer Papers*), podle níž interní d
 
 ⚡ **Poznámka:** Konkrétní čísla ze studie Pfizeru (270 těhotenství, 234 „ztracených" záznamů, přes 80% ztráta plodu) nelze ověřit z veřejně dostupných zdrojů — jde o tvrzení převzaté z knihy Naomi Wolf bez uvedení primárního dokumentu.
 
-**Zdroje:** [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2)
+**20. 10.** — Zítko opakuje tezi s doplňky: děti „zabodaných“ matek se podle něj rodí pod 2 kg, „míra potratovosti u očkovaných je vyšší než 80 %“ a politici, pandemické komise a celebrity dostali placebo. Hlavním cílem operace „COVID-19 = Certificate of Vaccination, 19 = AI“ byla podle něj „depopulace lidstva“, zisk až druhotný.
+
+**Zdroje:** [Československo TV2 — Videoportál 17. 9. 2026 (2)](_zdroje.md#československo-tv2--videoportál-17-9-2026-2), [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 
 ---
 
