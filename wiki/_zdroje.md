@@ -5688,3 +5688,11 @@
 - **Datum záznamu:** 2026-10-18
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 5 min 50 s. Zpracováno jen téma Čermák/Bernardy. Úvod o covidu (opakování) a blokace FB z 6. 10. nevybrány.
+
+## Československo TV2 — Živě na kanálu Jana Peterková: „přiznání viny“, obvinění z udání Čermáka, smrt matky a remdesivir (18. 10. 2026) {#československo-tv2--živě-peterková-přiznání-viny-18-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-18_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1431267715762375&_rdr>
+- **Datum záznamu:** 2026-10-18
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 1 min 10 s, odpolední vysílání (před večerním „nikdo tam nebyl“). Nevybráno: prodloužení blokace FB do 15. 1.

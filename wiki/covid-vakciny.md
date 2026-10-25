@@ -139,7 +139,9 @@ Pavel Zítko tvrdí, že jeho matka zemřela 20. října 2020 v přímém důsle
 
 ⚡ **Konflikt:** Remdesivir je WHO a FDA schválenou léčbou těžkého průběhu COVID-19; klinické studie neprokázaly nadměrnou smrtnost v porovnání s kontrolními skupinami.
 
-**Zdroje:** [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4)
+**18. 10.** — Zítko k historii smrti matky doplňuje, že šla do nemocnice „s celkem banální bolestí břicha“, do tří týdnů byla mrtvá a její smrt byla impulzem k jeho prvnímu vysílání (13. 10.). Odvolává se na video amerického lékaře Petersona Pierra a na Sucharita Bhakdiho, „hlavního toxikologa Pfizeru“ Helmuta Sterze a Bryana Ardise: remdesivir podle nich zabil 53 % pacientů při ebole a u covidu byl „hlavním zabijákem“. V USA se podle Zítka za zabití pacienta tímto protokolem „kasírovalo v průměru 100 000 dolarů“, u nás „patrně o dost levněji“, ale stále šlo o „obrovský kšeft“ pro nemocnice, lékaře i sestry. Starší video z jeho truchlivé chvíle (říjen 2022, druhé výročí matčiny smrti) podle něj „fízlové“ šíří na falešných profilech jako aktuální reakci na kauzu Čermák.
+
+**Zdroje:** [Zítko — Soběšovice přednáška, 2026-04-01](_zdroje.md#pavel-zítko--soběšovice-peková-přednáška-část-1-1-4), [ČsTV2 — Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026)
 
 ---
 

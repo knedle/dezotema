@@ -54,6 +54,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **12. 10.** — výročí vlastních kauz (Postoloprty, propuštění z vězení, vrácené telefony od NCTEKK); návod na obranu dětí před „koktejlem jedů v injekcích“ (Galerie pravdy) — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
 - **14. 10.** — BEWIT a molekula C60: „stoprocentní prodloužení věku v klinických studiích“ — [Ohlédnutí za setkáním Frýdek-Místek 14. 10.](../_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026)
 - **16. 10.** — C60 i pro očkované, „aby se dožili med beds“ (frekvenční léčba), kvantový telefon — [Živě na kanálu Jana Peterková (16. 10.)](../_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
+- **18. 10.** — smrt matky (banální bolest břicha, do 3 týdnů mrtvá) jako impulz k vysílání; remdesivir zabil 53 % při ebole, v USA 100 000 $ za „zabití pacienta“ → [covid-vakciny.md](../covid-vakciny.md) — [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -107,6 +108,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **18. 10.** — „policejní a agentská provokace“: zklamání, že ho diváci „odepsali“; Černohorský jako „loutkovodič“ a „čisté zlo“; 9 dní na rozhodnutí, zda dál točit; ironické výpady (Rada, Černohorský s Tarabovou, Rajchl, Vrábel); „Red October je tady“ — mějte jídlo a vodu → [kauzy.md](../kauzy.md), [predikce.md](../predikce.md) — [„Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)
 - **18. 10. (2)** — reportáž ČT o propuštění Čermáka „prokazatelná lež“ (ČT tam nebyla); Bernardy „usvědčená lhářka a manipulátorka“ → [kauzy.md](../kauzy.md) — [Videoportál: ČT lže o Čermákovi (18. 10. 2026)](../_zdroje.md#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026)
 - **18. 10. (3)** — „nikdo tam nebyl, jen ČT“ jako „šachmat“ Bernardy (záběry ze síně: matka, Turek, média); figurant se nepodíval na matku; justiční stráž znala rozsudek 2023 předem; Vězňova cesta 9 vs. 7 vězňů; Bernardy vydíraná/uplacená; „princ se střevíčkem“ → [kauzy.md](../kauzy.md) — [Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026)
+- **18. 10. (4)** — „přiznání viny“ jako odpověď na obvinění z udání Čermáka (zachránil tisíce, ČR č. 1 ze 43 v odrazování od očkování); „test vaší inteligence“, „spousta debilů“; Černohorský a Bernardy „jeden šik“; má protokol a nahrávku z Chomutova; nová platforma, „jsme ve finále“ → [kauzy.md](../kauzy.md) — [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -401,6 +403,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Renata Bernardy | ❌ negativní | „Usvědčená lhářka a manipulátorka“ | 2026-10-18 | [Videoportál: ČT lže o Čermákovi (18. 10. 2026)](../_zdroje.md#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026) |
 | Renata Bernardy | ❌ negativní | „Usvědčená lhářka a manipulátorka“, „lžou tam jako svině“; možná vydíraná či uplacená | 2026-10-18 | [Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026) |
 | Jiří Hradil | ✅ pozitivní | Znal Čermáka dobře, jeden z „princů“, kteří mohou ověřit jeho identitu | 2026-10-18 | [Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026) |
+| Jiří Černohorský | ❌ negativní | „Jedenáctiletý“, v „honu na Zítka“ s Bernardy „jeden šik“ | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
+| Jana Peterková | ✅ pozitivní | Půjčila mu profil k vysílání | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
+| Petr Varhaník | ✅ pozitivní | Jediný další, kdo nabídl profil k vysílání | 2026-10-18 | [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026) |
 
 ## Zpracované zdroje
 
@@ -513,3 +518,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — „Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](../_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)
 - [ČsTV2 — Videoportál: ČT lže o Čermákovi (18. 10. 2026)](../_zdroje.md#československo-tv2--videoportál-čt-lže-o-čermákovi-18-10-2026)
 - [ČsTV2 — Živě na kanálu Jana Peterková: „nikdo tam nebyl“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nikdo-tam-nebyl-18-10-2026)
+- [ČsTV2 — Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026)
