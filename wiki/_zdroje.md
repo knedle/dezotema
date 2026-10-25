@@ -5744,3 +5744,11 @@
 - **Datum záznamu:** 2026-10-19
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 12 min, bez intra; zprávy čte Zuzana, Vrabel vysílá z telefonu ze Srbska, konec vysílání přerušen výpadkem spojení; krátká sdílená videa nepokojů ve Francii ([46:40–48:30]).
+
+## Ladislav Vrabel — Zprávy v devět 20. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-20-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-20_Ladislav-Vrabel_20-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/28422219567460806>
+- **Datum záznamu:** 2026-10-20
+- **Zpracováno:** ano
+- **Poznámka:** 52 min (vysílání od 3:00), zprávy čte Zuzana; bez sdílených videí; na konci pozvánka na pochod 17. 11. z Malostranského náměstí a soutěž o plakáty.

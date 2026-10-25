@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — létání bude omezeno, letadly budou létat hlavně „papalášové“ (20. 10. 2026)
+
+**Předpověď:** V rámci omezování pohybu lidí se podle něj chystají obchodní „útoky“ proti letecké dopravě, takže do budoucna budou létat hlavně „papalášové“, ne obyčejní lidé. Cestovat do zahraničí radí co nejdřív.
+
+> „Tak aby do budoucna letadly mohli lítat papalášové, ale aby obyčejní lidé tolik nelítali.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 20. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+
+---
+
+### Ladislav Vrabel — čeští politici budou po vzoru Trumpa a Vance „otáčet“, ale jen krátce (20. 10. 2026)
+
+**Předpověď:** Po vzoru Trumpa a Vance, kteří před volbami do Kongresu změnili rétoriku vůči Ukrajině, budou „otáčet“ i čeští politici; potrvá to ale jen do konce americké předvolební kampaně, proto nebudou „až zas tak moc odvážní“.
+
+> „Až teďko uvidíte politiky v České republice, tak uvidíte, jak taky dokážou otáčet. Ale ono to nebude trvat dlouho, nebojte se.“ — Ladislav Vrabel
+
+**Horizont:** do amerických voleb do Kongresu (3. 11. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 20. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+
+---
+
 ### Ladislav Vrabel — vláda zavede emisní povolenky ETS2 „99 ku 1“, jakmile o tom rozhodne EU (19. 10. 2026)
 
 **Předpověď:** Navzdory Babišovu ujištění česká vláda zavede ETS2 pro budovy a silniční dopravu „100 %“ tak, jak rozhodne EU; jistotu odhaduje na 99 ku 1.

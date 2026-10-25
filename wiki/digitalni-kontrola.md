@@ -283,7 +283,9 @@ Vietnam v rámci zpřísnění digitální identifikace deaktivoval nebo omezil 
 
 Praha připravuje projekt Bubny-Zátory za zhruba 90 miliard korun, který lze podle Vrabela popsat jako aplikaci konceptu „15minutového města" — obyvatelé mají mít bydlení, práci, školy, služby, obchody, zeleň i dopravu v docházkové/dojezdové vzdálenosti do 15 minut. Sám o sobě to považuje za hezkou myšlenku, ale upozorňuje na to, co se podle něj děje v britských testovacích projektech téhož konceptu: kdo by chtěl takovou čtvrť opustit, musí k tomu žádat radu o zvláštní povolení. Obává se, že jakmile bude mít někdo argument (nedostatek energie, škodlivost cestování), lidé s „vším v dosahu 15 minut" nebudou mít důvod ani prostředek se tomu bránit.
 
-**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+**20. 10.** — K varování šéfa Ryanairu Michaela O'Learyho, že letenky v Evropě v příštím roce zdraží až o 20 % kvůli cenám paliv, Vrabel říká, že 20 % „není žádné zdražení“ ve srovnání s reálnou inflací potravin. Podstatné je podle něj, že se „v rámci omezování pohybu lidí“ chystají i obchodní „útoky“ proti letecké dopravě, „aby do budoucna letadly mohli lítat papalášové, ale aby obyčejní lidé tolik nelítali“. Kdo chce vidět pyramidy, Peru nebo Bódhgaju, má to podle něj udělat, „dokud ještě můžete“ (viz [Predikce](predikce.md)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026), [Ladislav Vrabel — Zprávy v devět 20. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 
 ---
 

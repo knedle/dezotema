@@ -605,7 +605,9 @@ K zprávě, že ministr zahraničí Petr Macinka loni v prosinci vystoupil na ve
 
 **9. 10.** — K americkým sankcím proti Mezinárodnímu trestnímu soudu (Rubio ho označil za „lidský odpad“) Vrabel tvrdí, že tribunály USA vyhovovaly, dokud soudily jugoslávské vůdce, ale „vymkly se z rukou“ zatykačem na Netanjahua. To si podle něj Chabad Lubavič, který chrání „svého hlavního koně“, nemohl nechat líbit, a „musel zaklepat u Trumpa“, aby soud zrušil. Silná pozice islámských zemí v OSN je podle něj důsledkem petrodolaru, který islámským zemím od roku 1972 dal peníze a „hodně dětí“.
 
-**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+**20. 10.** — K neohlášené návštěvě amerického ministra války Peta Hegsetha u Netanjahua na letecké základně Ovda Vrabel označuje Hegsetha za „absolutního psychopata, absolutního zločince“ a „odpornou bytost“, jejíž jmenování ministrem války ho „vůbec nepřekvapuje“. Návštěvu vykládá jako podporu Netanjahuovi (kterého nazývá „Satanjahu“) před izraelskými volbami: Trump se sice teď tváří, „že je svatý“, chválí Rusy a Čínu a chce mír, ale Izrael si „nedovolí nepodpořit“, protože je „až moc zavázaný penězi“ ze sionistických kruhů, především od Chabad Lubavič, a od křesťansko-sionistických organizací, a proto „musí podporovat velký Izrael“.
+
+**Zdroje:** [Vrabel — Zprávy v devět 8. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-8-10-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026), [Ladislav Vrabel — Zprávy v devět 20. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 
 ---
 
