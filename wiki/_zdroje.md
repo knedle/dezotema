@@ -5632,3 +5632,11 @@
 - **Datum záznamu:** 2026-10-18
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 0 min, pravidelné nedělní živé vysílání.
+
+## Rajchl — Tisková konference: novela trestního zákoníku, § 318a a § 405 (20. 10. 2026) {#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-20_Jindřich-Rajchl_Dnes-mám-to-potěšení-vám-oznámit-velkou-věc-kterou-js.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1584858489563206>
+- **Datum záznamu:** 2026-10-20
+- **Zpracováno:** ano
+- **Poznámka:** 3 min 41 s, tisková konference ve Sněmovně. Zpracováno jen téma § 405 (zrušení § 318a nevybráno).

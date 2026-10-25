@@ -379,3 +379,13 @@ Rajchl zpochybňuje sebeobraz Západu jako „svobodného světa": ve Velké Bri
 **23. 9. (Vrabel)** — K zatčení muže v Anglii za čepici s vlajkou a transparent Vrabel tvrdí, že se Anglie „pomátla" a policisté „patří do ústavu pro choromyslné"; neustálé lhaní podle něj vede ke schizofrenii a paranoie. Protože i v ČR se lže („Rusko agresor"), může se za dva tři roky zatýkat i za českou vlajku. Výstřižek z iDnes o tom, že válku rozpoutal Putin, označuje za „satanismus v přímém přenosu — pravda potlačovaná, převlíkaná do lži". Připomíná, že média dál označují Tomáše Čermáka za „největšího dezinformátora".
 
 **Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Vrabel — Zprávy v devět 23. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-9-2026)
+
+---
+
+### Koaliční shoda na úpravě § 405: trestat jen podněcování k násilí a nenávisti, ne „odchylný názor“ (Rajchl, 20. 10. 2026)
+
+Rajchl na tiskové konferenci oznamuje koaliční shodu na novele trestního zákoníku, kterou „slíbili voličům“. Za důležitější z obou změn považuje úpravu § 405 (popírání, zpochybňování, schvalování a ospravedlňování genocidia), který se podle něj dnes používá „na postižení všech, kteří se odchýlí od oficiálního názoru“. Při novele z roku 2013 „podle zadání z Evropské unie“ z něj podle Rajchla vypadla podmínka, že čin je trestný jen tehdy, když podněcuje k násilí nebo nenávisti vůči jednotlivci či skupině. Odchylný názor na historickou či aktuální událost podle něj „trestný být nemůže a nesmí“. Jako absurdní uvádí odsouzení redaktora Vladimíra Kapala za diskusi o tom, zda masakr v Katyni spáchali Rusové, nebo Němci („naprosto reálná diskuze“), a trestní prověřování novináře Parlamentních listů Radima Panenky kvůli příspěvku k úmrtí Radka Mladiče. Novela má podle něj vrátit ČR „k plné svobodě slova“ místo „cenzury“, která zemi „v poslední době svazovala“.
+
+> „Pokud svoboda slova vůbec něco znamená, tak je to právo říkat lidem věci, které nechtějí slyšet.“ — Jindřich Rajchl (cituje George Orwella)
+
+**Zdroje:** [Rajchl — TK: novela trestního zákoníku (20. 10. 2026)](_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)

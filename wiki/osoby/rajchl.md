@@ -12,6 +12,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **23. 6.** — ČT „ocenzurovala" hymnu v podání Jarka Nohavicy („technické problémy"); Rajchl ji sám zveřejnil „a nechce za to nic" (rýpnutí do poplatků) — [Hymna od Nohavicy 23. 6.](../_zdroje.md#jindřich-rajchl--hymna-nohavica-ct-cenzura-23-6-2026)
 - **2. 8.** — neudělení akreditace Zdislavě Pokorné vs. blokace webů v únoru 2022 (NIC.cz) — pokrytectví mainstreamu; vlastní zkušenost s výhrůžkou Rakušana a trestním stíháním občanů za názor — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 - **27. 9.** — Velká Británie zatýká za „verbální trestné činy" víc lidí než Rusko a Čína dohromady — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+- **20. 10.** — koaliční shoda na úpravě § 405: trestat jen podněcování k násilí/nenávisti, ne „odchylný názor“ (Kapal/Katyň, Panenka) → [dsa-cenzura.md](../dsa-cenzura.md) — [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)
 
 ### [FARA a neziskovky](../fara-neziskovky.md)
 - Autor návrhu zákona FARA, kritika politických neziskovek financovaných ze zahraničí — [FARA: autorství a srovnání (29. 3. 2026)](../_zdroje.md#jindřich-rajchl--zákon-fara-autorství-a-srovnání-se-zahraničím)
@@ -493,6 +494,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Zdeněk Hřib | ❌ negativní | Konfrontační politika bez programu, Piráti „extremistická strana“ | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | Martin Dvořák | ❌ negativní | „Nejzbytečnější ministr“, „chciválek“, dobře, že neuspěl v Senátu | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | Petr Pavel | ❌ negativní | „Bolševický papaláš“, „falešný do morku kostí“; při cizí úhradě letu má abdikovat | 2026-10-18 | [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| Vladimír Kapal | ✅ pozitivní | Jeho odsouzení za diskusi o Katyni je „absurdní“ | 2026-10-20 | [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026) |
+| Radim Panenka | ✅ pozitivní | Trestní prověřování kvůli příspěvku k úmrtí Radka Mladiče je „totální nesmysl“ | 2026-10-20 | [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026) |
 
 ---
 
@@ -632,3 +635,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Rozhovor pro CNN Prima News a TV Nova: „papalášská cesta“ Pavla do Maroka (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026)
 - [Rajchl — Zastání novinářky Karolíny Brodníčkové před výhrůžkami smrtí (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026)
 - [Rajchl — Nedělní vysílání: senátní volby, Pavel a Maroko, Francie, Trump a Ukrajina (18. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+- [Rajchl — Tisková konference: novela trestního zákoníku, § 318a a § 405 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)
