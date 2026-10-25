@@ -5776,3 +5776,11 @@
 - **Datum záznamu:** 2026-10-21
 - **Zpracováno:** ano
 - **Poznámka:** 17 min, monolog z Bělehradu reagující na Rajchlovu TK k novele trestního zákoníku; rehabilitace politicky persekvovaných a pozvánka na pochod 17. 11. se soutěží o plakáty; bez sdílených videí.
+
+## Ladislav Vrabel — Zprávy v devět 22. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-22-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-22_Ladislav-Vrabel_22-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2385298458940840>
+- **Datum záznamu:** 2026-10-22
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 16 min (vysílání od 2:57), zprávy čte Zuzana; na konci ukázky plakátů do soutěže k pochodu 17. 11.; bez sdílených videí kromě policejního záznamu z D6.

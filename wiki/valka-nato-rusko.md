@@ -219,6 +219,20 @@ Vrabel k tomu 5. 7. dodává vlastní postoj: k případnému vstupu ČR do BRIC
 
 ---
 
+### Putin: Rusko nechce válku s NATO — válka NATO–Rusko by skončila jadernými zbraněmi; scénář „Pobaltí → Polsko → ČR“ (Vrabel, 22. 10. 2026) {#putin-rusko-nechce-valku-s-nato-vrabel-22-10-2026}
+
+K cvičení Bundeswehru Brave Blue 26 (první nácvik přesunu posil do Estonska jako příprava na rozsáhlejší operaci v příštím roce) Vrabel říká, že ho „zahřálo u srdíčka“, když Vladimir Putin na konferenci zopakoval jeho dlouhodobou tezi: že Rusko chce válku s NATO, je podle Putina „největší lež“ Západu, protože NATO je počtem obyvatel (140 vs. asi 550 milionů) i výdaji na zbrojení mnohonásobně silnější. Rusko si podle Vrabela „možná troufne na Evropu“, ale ne na celé NATO. Válka NATO s Ruskem by byla „devastační pro celý svět“: ani jedna strana neustoupí a eskalace půjde jako ve rvačce od pepřového spreje k pistoli, takže na jaderné zbraně „dojde“ — proto je třeba jí „za každou cenu“ zabránit. Válka Evropy s Ruskem jaderná být nemusí, protože Rusko může Evropu odstrašit jinými ničivými zbraněmi.
+
+Rozvádí vlastní scénář: konflikt začne v Kaliningradské oblasti nebo v Pobaltí, během pár dnů se přelije do Polska („strašně nadržený na to jít do války“), český premiér pak „hned posílá dvě brigády“, vyhlásí stav ohrožení či válečný stav, zavřou se hranice a ČR jde do války s Ruskem. Spíš ale očekává pomalou válku s postupnou mobilizací záloh na obou stranách — nevěří Lavrovovi, že by šlo o rychlou válku, ani tomu, že by Rusko zničilo Berlín či Londýn (→ [Predikce](predikce.md)).
+
+> „A pokud dojde na válku NATO s Ruskem, no tak na ty jaderný zbraně dojde. Protože ani jedna strana neustoupí, dokud nevyhraje.“ — Ladislav Vrabel
+
+⚡ **Poznámka:** Navazuje na scénáře z 27. 9., 29. 9. a 6. 10. (začátek v Pobaltí, dvě brigády, vleklá válka); novým prvkem je rozlišení „válka s NATO = jaderná, válka s Evropou = nemusí“ a opření o Putinův výrok.
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+
+---
+
 ## Zahraniční aktéři a precedenty
 
 ### Srbsko nechce do EU — obchod s Čínou a spolupráce s Ruskem jako vzor suverenity (Vrabel, 5. 6. 2026)

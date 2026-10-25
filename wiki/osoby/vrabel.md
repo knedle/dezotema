@@ -1234,6 +1234,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **13. 10.** — Zůna a Pavel pod americkým velením, ministerstvo obrany je „podružené ministerstvo USA“; strategie „3B“; stíhačky „děsí lidi“ — [Zprávy v devět 13. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-10-2026)
 - **14. 10.** — Kosovo „americká kolonie“, radar v Brdech a Kolář (Wikileaks), obavy z raketových základen na Balkáně — [Večerní zprávy 14. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026)
 - **19. 10.** — střela Narval jako válečná propaganda, „sirky“, Heydrich; Starlink jako „Star Shield“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+- **22. 10.** — rozpočet 2027: obrana +23,3 %, „mírová vláda“ dává na válku víc než Fiala; zmrazená aktiva Rusové soudně získají, EU může zbankrotovat (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1341,6 +1342,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **19. 10.** — 70 mld. eur „platíme“; Rubiova „chyba softwaru“ nesmysl, Trump si Zelenského „vychutná“, summit Putin–Trump–Si válku nezastaví (→ [predikce](../predikce.md)); Zelenskyj „idiot politický“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **20. 10.** — Zelenskyj „fašista“, „vyfetovaný“, „zbabělec“ (Mendelová); Vance „bomby“, čeští politici otočí jen krátce (→ [predikce](../predikce.md)); „Ukrajinci si můžou za to… sami“, „pomáháme jim do hrobu“; rok UPA jako důsledek lží o nacismu — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - **21. 10.** — Putin „humanista“ po jedněch volbách; euforie, pak atentát (opakuje); 12 Patriotů měsíčně, zmrazení fronty = vojska NATO = válka; NABU a vily Zelenského; Trump bičem (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- **22. 10.** — vyslanec EU k Putinovi: Stubb „největší nácek“, Kallasová „potomek nacistických rodičů“; mír jako v Jaltě, Evropa si válku projde (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1352,9 +1354,11 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **15. 10.** — Musk „nasazený kůň“ armády, politici figurky; zelená ideologie a NWO s kredity — [Večerní zprávy 15. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
 - **16. 10.** — „hybridní válka počasím“ ze strany USA (Istanbul), „nemám pro to důkaz“ — [Večerní zprávy 16. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
 - **21. 10.** — oteplování: „bílé“ slunce, práškování, HAARP, „krávy za to nemůžou“ (opakuje) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- **22. 10.** — evropské nepokoje může řídit AI, superinteligence „převezme vládu“ (→ [predikce](../predikce.md)); Vance „produkt“ Thiela, PayPal mafie, Stargate — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
+- **22. 10.** — papírové zlato zmizí a cena zlata výrazně vzroste — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
@@ -1379,6 +1383,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **19. 10.** — hybridní hrozba „se nezvyšuje“, Rusové se chtějí válce vyhnout; USA chtějí poštvat Rusko a Evropu (Kissinger); po dobytí Kyjeva NATO „vyprovokuje válku“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **20. 10.** — ukrajinský dron v Litvě, Tusk „trapná komedie“, Sikorski „z praku“; turecké drony nad Řeckem = dvojí metr; vojska NATO na Ukrajině = „začátek války“ — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - **21. 10.** — dron u Wunstorfu ležel dva roky: zvýšený stupeň hrozby sabotáží zesměšněn — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- **22. 10.** — Putin potvrdil, že Rusko nechce válku s NATO; válka NATO–Rusko = jaderná, scénář Pobaltí → Polsko → dvě české brigády (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ### [Volby 2026](../volby-2026.md)
 - **10. 10.** — šok z výsledků („vyhrály STAN a ODS“), Kuba „pravá ruka kmotra Dlouhého“, Budějovice „čistá mafie“ → [volby-2026.md](../volby-2026.md) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
@@ -2051,6 +2056,15 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Tomio Okamura, Zuzana Majerová | ❌ negativní | S Rajchlem dlouhodobě „ničí vlasteneckou scénu“, vlastenectví „zobchodují“ za funkce | 2026-10-21 | [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026) |
 | Vít Rakušan | ❌ negativní | Označil jeho manželku za bezpečnostní riziko státu | 2026-10-21 | [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026) |
 | Slávek Popelka, Tomáš Čermák | ✅ pozitivní | Politicky persekvovaní: Popelka má po vězení leukémii, Čermáka trest 5,5 roku „úplně zlomil“ | 2026-10-21 | [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026) |
+| Petr Pavel | ❌ negativní | „Válečný štváč od začátku“, generál NATO dosazený na Hrad, protože ČR patří k největším „rozjížděčům války“ s Ruskem | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Marek Kuba | ❌ negativní | Chystá comeback do republikové politiky; „Naše Česko“ jako Babiš: pronárodní hesla, činy pro Brusel, NATO a Ukrajinu | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Kateřina Konečná | ❌ negativní | Ne komunistka, ale „levicová progresivistka“ (očkování, legální cesty pro migranty); do Sněmovny se prý nechtěla dostat kvůli europoslanecké rentě; lituje, že ji v roce 2023 pozval na Václavák | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Vladimir Putin | ✅ pozitivní | „Zahřálo mě to u srdíčka“: Putin řekl totéž co on, že Rusko nechce válku s NATO | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Jindřich Rajchl | ❌ negativní | Předčasně se chlubil zrušením špionážního paragrafu („vrchol egoismu“), doplnění § 405 jen jako reakce na plakáty se „Z“ | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Alexander Stubb, Kaja Kallasová | ❌ negativní | Stubb „největší nácek“ v EU, Kallasová „potomek nacistických rodičů“; jako vyjednavači s Putinem nepřijatelní | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Friedrich Merz | ❌ negativní | Bývalý šéf BlackRocku pro Německo, „figurka“ dosazená globalisty jako Pavel, „potřebuje válku“ | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Andrej Babiš | ❌ negativní | „Mírová vláda“ dává na obranu o čtvrtinu víc než Fiala; jeho firmy na Ukrajině berou z „šedé zóny“; zrychlil Ukrajincům cestu k občanství | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Peter Thiel, Elon Musk, J. D. Vance | ❌ negativní | „PayPal mafie“, která chce zničit demokracii a zavést technokracii; Vance „produkt“ Thiela | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
 
 ---
 
@@ -2231,3 +2245,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
 - [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
+- [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)

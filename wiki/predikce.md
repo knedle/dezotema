@@ -12,6 +12,54 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — válka NATO–Rusko by skončila jadernými zbraněmi; válka začne v Pobaltí a přes Polsko zasáhne ČR (22. 10. 2026)
+
+**Předpověď:** Evropa a Ukrajina si válku s Ruskem „pravděpodobně projdou“. Začne v Kaliningradské oblasti nebo v Pobaltí, přelije se do Polska a ČR do ní vstoupí vysláním dvou brigád; spíš půjde o pomalou mobilizační válku než o rychlou. Kdyby šlo o válku celého NATO s Ruskem, dojde na jaderné zbraně.
+
+> „A pokud dojde na válku NATO s Ruskem, no tak na ty jaderný zbraně dojde.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+
+---
+
+### Ladislav Vrabel — Rusko soudně získá zmrazená aktiva, EU může zbankrotovat (22. 10. 2026)
+
+**Předpověď:** Mezinárodní soud rozhodne, že zmrazený ruský majetek (asi 200 mld. dolarů) patří Rusku a EU ho musí vrátit; pokud ho mezitím utratí na Ukrajinu, může zbankrotovat nebo „ždímat“ členské státy.
+
+> „Ten zmrazený majetek Rusové stejně dostanou.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+
+---
+
+### Ladislav Vrabel — papírové zlato zmizí a cena zlata výrazně vzroste (22. 10. 2026)
+
+**Předpověď:** Probíhá „revoluce ve zlatě“: papírové zlato zmizí, zůstane jen fyzické a ukáže se „skutečná cena“, mnohem vyšší než dnešní burzovní. Majitelům zlata radí držet.
+
+> „Takže kdo máte zlato, držte, držte, držte.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+
+---
+
+### Ladislav Vrabel — superinteligence po singularitě převezme vládu nad lidstvem (22. 10. 2026)
+
+**Předpověď:** Pokud se něco nezmění, umělá superinteligence po dosažení singularity spolu s robotizací převezme vládu nad lidstvem.
+
+> „Jakmile dojdeme do singularity, tak ta superinteligence bude inteligentnější než člověk, schopnější a spolu s robotizací prostě převezme vládu.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (po dosažení singularity)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+
+---
+
 ### Ladislav Vrabel — schodek rozpočtu se místo slíbeného snižování bude zvyšovat (21. 10. 2026)
 
 **Předpověď:** Babišův slib, že vláda bude v dalších letech snižovat deficit o desítky miliard ročně, se podle něj „do roka a do dne“ obrátí: schodek se nebude snižovat, ale zvyšovat.

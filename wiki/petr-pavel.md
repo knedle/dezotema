@@ -573,7 +573,7 @@ Vrabel komentuje demonstraci KSČM a Stačilo na Malostranském náměstí namí
 
 K zprávě, že prezident Pavel přiletěl 9. 10. z dovolené v Maroku k volbám soukromým tryskáčem spojeným s rodinou podnikatele Pavla Hubáčka a týž den odletěl zpět, Vrabel poznamenává, že „by mu radši dal karabáčem“. Tryskáč je podle něj úplatek „globalistické mafie“, která „uplácí všechny, kdo pro ni pracují“: „za co asi mu to platí, protože má krásné šedé vlasy?“ Pavel je podle něj „generál NATO dosazený do ČR, aby vedl zemi v době války“. Babiš proto „dělá zpátečku“, aby nemusel rozhodovat o smrti „100 000 lidí“, a nechává to na Pavlovi. Připomíná Kolářovu radu Američanům z WikiLeaks, ať o brdské základně mluví jako o radaru. Stejně se podle něj dnes „jaderným deštníkem“ maskují útočné jaderné zbraně. O Babišovi tvrdí, že po revoluci „dostal 550 milionů“ od otce, šéfa komunistů v Bratislavě.
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ---
 

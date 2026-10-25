@@ -1243,3 +1243,13 @@ Volodymyr Zelenskyj oznámil, že schválil nové operace dlouhého doletu v rea
 K Zelenského dokumentům o ruských útocích na školy a nemocnice Vrabel říká, že mu „věří nula procent" — je to „nevolený prezident, v podstatě diktátor"; Rusko by podle něj Ukrajinu dobylo za měsíc, ale postupuje pomalu, aby šetřilo civilisty, a místní se podle něj cítí „osvobozeni". Naopak USA, NATO a Ukrajině by útoky na školy věřil — NATO v roce 1999 v Bělehradě bombardovalo rafinerii, rozhlas a dětské oddělení nemocnice: „takže my jsme zločinci, váleční". K Buči říká, že „nechce popírat genocidu", dokud ji nevyšetří nezávislý orgán se všemi stranami, a zmiňuje svědectví o vyhazování mrtvol z kamionu. Případný útok KLDR na ČR by podle něj byl děsivý — „to nejsou Slovani, ty s námi nebudou soucítit vůbec".
 
 **Zdroje:** [Vrabel — Večerní zprávy 3. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
+
+---
+
+### Zvláštní vyslanec EU pro jednání s Putinem — Stubb „největší nácek“, Kallasová „potomek nacistických rodičů“; mír dohodnou velmoci jako v Jaltě (Vrabel, 22. 10. 2026) {#vyslanec-eu-putin-vrabel-22-10-2026}
+
+Ke zprávě Politica, že evropské vlády zvažují zvláštního zástupce pro přímá jednání s Putinem (zmiňováni finský prezident Alexander Stubb a António Costa; Petr Pavel navrhl pověřit jednoho či více lídrů, protože Putin EU jako partnera neuznává), Vrabel mluví o „déjà vu“ — debata podle něj trvá rok. Stubb je podle něj „největší nácek“ v EU, Costa „dědeček, co se furt usmívá“; když EU má vysokou představitelku Kaju Kallasovou, „potomka nacistických rodičů“, ať jede ona. Tvrzení, že Rusko EU neuznává, označuje za nepravdivé — Putin prý řekl, že EU pozve, „pošlete třeba Gerharta Schrödera“. Mír a poválečné uspořádání podle něj dohodnou jaderné velmoci (Trump, Si Ťin-pching, Putin) jako v Jaltě, kde se také nejednalo s Německem, a Zelenskyj tomu nezabrání; Evropa a Ukrajina si ale válku „pravděpodobně projdou“, protože při současném zbrojení a toku peněz je to „nevyhnutelné“ (→ [Predikce](predikce.md)). Zelenského ochotu zmrazit boje na frontové linii výměnou za bezpečnostní záruky považuje za nelogickou: Rusko nezačalo operaci proto, aby si nakonec nechalo NATO na hranicích. Evropa má podle něj jen dvě páky, sankce a zmrazená aktiva, a obě slábnou (viz [Euroclear a zmrazená aktiva](nato-zbrojeni-militarizace.md)), takže u stolu bude sedět „jak páté kolo u vozu“.
+
+> „Ještě tady je pořád Evropa a Ukrajina, která si pravděpodobně projde válku. […] to je nevyhnutelné, když sleduju politiku a to, kam se směřují peníze.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)

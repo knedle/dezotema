@@ -461,7 +461,9 @@ Finanční depozitář Euroclear se odvolal proti rozhodnutí Moskevského arbit
 
 **12. 9.** — Německo se připojilo k zemím prosazujícím použití celé jistiny zmrazených ruských aktiv v Euroclearu (cca 200 mld. eur) na financování zbraní pro Ukrajinu. Vrabel se ptá, kdo bude po kancléři Friedrichu Merzovi (bývalém šéfovi BlackRock Deutschland) tuto krádež vymáhat, až Rusko požádá o vrácení peněz — odpovídá, že „nikdo", protože takoví politici jednají podle zásady „po nás potopa": vědí, že za důsledky svých rozhodnutí (např. i konečnou platbu za "ukradené" peníze) nakonec zaplatí sami občané po jejich odchodu z funkce, případně po budoucím nástupu jiné strany (např. AfD v Německu).
 
-**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+**22. 10.** — Sankce a zmrazený ruský majetek (asi 200 mld. dolarů) považuje za jediné páky, kterými si EU může vymoci místo u jednacího stolu. Majetek ale Rusové podle něj stejně dostanou, protože mezinárodní soud rozhodne, že patří Rusku; pokud ho EU mezitím utratí za zbraně pro Ukrajinu, „může zbankrotovat“, nebo bude státy „ždímat“, až lidé „nebudou mít co jíst“ (→ [Predikce](predikce.md)). Zmrazení podle něj nemá právní podklad a Kallasová žádnou právní cestu k použití peněz nenajde.
+
+**Zdroje:** [Vrabel — Zprávy v devět 5. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-8-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ---
 
@@ -832,7 +834,11 @@ Ke zprávě o „německém operačním plánu" Bundeswehru — v případě esk
 
 Ministerstvo obrany bude v příštím roce hospodařit s 191 miliardami korun — meziroční nárůst o zhruba 36,2 miliardy — což má ČR umožnit splnit závazek 2 % HDP na obranu; peníze míří na modernizaci armády, nábor personálu a rozjeté zbrojní projekty. Vrabel k tomu dodává, že se předseda Sněmovny Tomio Okamura nedávno tajně sešel s Michalem Strnadem, největším českým zbrojařem. Kritizuje, že SPD (spolu s neoficiální koalicí s Trikolorou a Svobodnými) si z celé vlády vzala právě ministerstvo obrany a jediné, co v ní reálně dělá, je zbrojení — zatímco voliči, kteří tuto „vlasteneckou" koalici volili, čekali podle něj něco jiného.
 
-**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026)
+**22. 10.** — K prvnímu čtení rozpočtu na rok 2027 (schodek 386 mld. Kč, o 76 mld. víc než letos) Vrabel vypichuje, že ministerstvo obrany dostane o 23,3 % víc: „mírová vláda“ Andreje Babiše tak ve svém prvním rozpočtu dává „na válku“ o čtvrtinu víc než Fialova vláda v posledním roce. Kdo ještě tvrdí, že je třeba vládě dát čas, má podle něj „tady tu změnu“ — dražší chleba a máslo a půjčky přes miliardu korun denně; kdo hájí Babišovu vládu, ať se „rozběhne proti nějaký zdi“ a udělá „pěkný otisk“.
+
+> „To je ta naše mírová vláda, vláda, lepší než je vláda Petra Fialy.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 20. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-8-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 
 ---
 
