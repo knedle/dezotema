@@ -1506,7 +1506,9 @@ Vrabel tvrdí, že ČR je „nepřiznaný protivník" Ruska — posílá dobrovo
 
 > „Jsou to žoldáci [...] Žoldáci v době války prostě jdou umírat." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026)
+**23. 10.** — K uzavření všech čtyř moskevských letišť kvůli dronům opakuje, že Rusko „nemá čas“: nemůže donekonečna snášet, že na něj přes Ukrajinu útočí „půl světa“, zatímco samo útočí jen na Ukrajinu, takže bude muset zaútočit na zdroje zbraní, peněz a vojáků — rozpoutat válku s Evropou je podle něj „v určité části zájmu“ Ruska a „z určitého úhlu pohledu nevyhnutelné“ (opakuje).
+
+**Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Zprávy v devět 29. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-9-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ---
 

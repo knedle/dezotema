@@ -61,7 +61,11 @@ V reakci na schválení pozice Evropského parlamentu k digitálnímu euru (výb
 
 > „Suverenita je cash, hotovost. [...] A finanční stabilita — no tak vy si spoříte do polštáře." — Ladislav Vrabel, [Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 
-**Zdroje:** [Vrabel — Zprávy v devět, 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
+**23. 10.** — K jednání EU s Pekingem o omezení dovozu čínského zboží Vrabel tvrdí, že v EU „nemáte volný trh nikde“: zemědělství přežije jen s dotacemi a vše je „centrálně řízené“, ale bez skutečného plánování, takže další regulace povedou „jen k rychlejšímu krachu“. Až se předlužený systém zhroutí pod nezaměstnaností z robotizace a AI, globalisté podle něj řeknou, že „vlády byly špatné“, nastolí technokratickou vládu a digitální měnu, kde „stát bude přidělovat lidem peníze, kolik můžou utratit a za co“ — jako 8 000 smart kontraktů v Číně; kredity uschované „u nich“ označuje za „novodobé otroctví“. Předtím je prý potřeba lidi „odmaterializovat“: uměle snížené ceny zlata a stříbra, inflace, Savings and Investments a na nemovitosti energetické štítky, ETS2, vyšší daně a cenová regulace nájmů (příklady z Vídně a Berlína) — levné domy v Německu a Francii jsou podle něj důsledkem toho, že je lidé nemají na udržení. Navazuje na projekt Stargate a Palantir jako „obrovskou šmírovací mašinu“, 6G sítě sledující pohyb každého a Schwabovo „nebudete nic vlastnit a budete šťastní“.
+
+> „Že budeme mít nějaký kredity, ty kredity budou u nich uschovaný a oni nám řeknou, na co ty kredity můžeme použít. To je prostě v podstatě něco jako otroctví novodobí.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět, 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ---
 

@@ -12,6 +12,54 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — po izraelských volbách USA znovu zaútočí na Írán (23. 10. 2026)
+
+**Předpověď:** Až v Izraeli vyhraje volby Benjamin Netanjahu, Spojené státy znovu zaútočí na Írán; současná „mírová jednání“ o Ukrajině jsou jen předvolební odvádění pozornosti.
+
+> „Už je oznámeno, že po volbách, až vyhraje Benjamin Netanyahu, tak Spojené státy znovu zautočí na Irán.“ — Ladislav Vrabel
+
+**Horizont:** po izraelských parlamentních volbách
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+
+---
+
+### Ladislav Vrabel — válka skončí až tím, že Rusové zaberou celou Ukrajinu (23. 10. 2026)
+
+**Předpověď:** Pozice Ruska a Ukrajiny se zcela míjejí, žádné mírové řešení není možné; konflikt bude pokračovat, dokud Rusko nedosáhne svých cílů a nezabere celou Ukrajinu.
+
+> „Jediný, co je možný, že ten konflikt bude pokračovat dál, dokud rusové […] nedosáhnou svých cílů. To znamená, dokud nezaberou celou Ukrajinu.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+
+---
+
+### Ladislav Vrabel — Robert Fico bude jako další „odstraněn“ a nahrazen loutkou EU (23. 10. 2026)
+
+**Předpověď:** Po pádu Orbána je Fico „další na řadě“: bude odstraněn a nahrazen politiky poslušnými EU, případně mu nechají roli „vlasteneckého křoví“ v opozici.
+
+> „Robert Fico, podle mojho názoru, je další na řadě, koho je potřeba odstranit, protože nejde úplně se Evropskou unii.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (příští slovenské volby)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+
+---
+
+### Ladislav Vrabel — nezaměstnanost kvůli robotizaci a AI může přesáhnout 90 % (23. 10. 2026)
+
+**Předpověď:** Dřívější odhad nezaměstnanosti nad 50 % označuje za příliš optimistický — kvůli digitalizaci, robotizaci a AI může být „klidně 90+“.
+
+> „Když jsem říkal před několika lety, že to bude nezaměstnanost 50+, jsem byl velmi optimistický, ta nezaměstnanost může být klidně 90+.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+
+---
+
 ### Ladislav Vrabel — válka NATO–Rusko by skončila jadernými zbraněmi; válka začne v Pobaltí a přes Polsko zasáhne ČR (22. 10. 2026)
 
 **Předpověď:** Evropa a Ukrajina si válku s Ruskem „pravděpodobně projdou“. Začne v Kaliningradské oblasti nebo v Pobaltí, přelije se do Polska a ČR do ní vstoupí vysláním dvou brigád; spíš půjde o pomalou mobilizační válku než o rychlou. Kdyby šlo o válku celého NATO s Ruskem, dojde na jaderné zbraně.

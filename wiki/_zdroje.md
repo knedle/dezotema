@@ -5784,3 +5784,11 @@
 - **Datum záznamu:** 2026-10-22
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 16 min (vysílání od 2:57), zprávy čte Zuzana; na konci ukázky plakátů do soutěže k pochodu 17. 11.; bez sdílených videí kromě policejního záznamu z D6.
+
+## Ladislav Vrabel — Zprávy v devět 23. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-23-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-23_Ladislav-Vrabel_23-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1145912814689189>
+- **Datum záznamu:** 2026-10-23
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 14 min, zprávy čte Zuzana, Vrabel vysílá z cesty (klienti v Subotici); v přepisu výpadek zvuku asi 26:00–30:20; bez sdílených videí.

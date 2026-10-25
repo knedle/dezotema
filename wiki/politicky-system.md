@@ -58,7 +58,9 @@ Vrabel tvrdí, že vláda Andreje Babiše vyhrála volby na narativu, že je opa
 
 **14. 9.** — K hodinové schůzce Babiše s prezidentem Pavlem na Hradě (oficiálně o koordinaci zahraničních cest a rozpočtu; ministr zahraničí Macinka se po dohodě s Babišem nezúčastnil) Vrabel opakuje tezi o „umělém konfliktu": žádné skutečné rozpory v zahraniční politice mezi Babišem a Pavlem podle něj neexistují — obě strany jedou stejnou linku NATO/EU/USA (muniční iniciativa, F-35, „Rusko je agresor"), jen potřebují koordinovat, „kdo bude kasírovat který byznys". Předchozí měsíce mediálních spekulací, zda Pavel „smí" jet na summit NATO v Ankaře, byly podle něj jen odvedením pozornosti od schválení dalších cca 40 mld. dolarů pro Ukrajinu na zbraně. Dodává, že „vlastenecké" strany po vstupu do vlády přestaly mluvit o referendu o vystoupení z EU/NATO — přesně to, co od nich globalističtí „správci" volebního výsledku 2025 očekávali.
 
-**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026), [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
+**23. 10.** — Na Okamurovo sdělení, že ministři SPD na jaře hlasovali proti novému režimu pobytu Ukrajinců, Vrabel reaguje, že „opozice a koalice“ se teď hraje přímo uvnitř vlády, aby lidé s národními zájmy měli pocit, že SPD „dělá, co může, ale nemůže“. Podle klienta z Ostravy a Karviné SPD v těchto „baštách“ v komunálních volbách „úplně prolítla“ a „nikdo už jim nevěří“, aktivní jsou jen lidé s funkcemi, kteří na sítích křičí, že „Vrábel je hajzl“ a štěpí vlasteneckou scénu. Babiš podle něj na rozdíl od Orbána nikdy nehájil národní zájmy; svobodnější je Slovensko, kde Fico bude „další na řadě, koho je potřeba odstranit“ a nahradit loutkami, případně mu nechají roli „vlasteneckého křoví“ v opozici (→ [Predikce](predikce.md)).
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026), [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ---
 

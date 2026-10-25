@@ -399,7 +399,7 @@ V květnu 2026 nato admiral Pěr Vandír doporučil rychle nasadit Palantir v EU
 
 **22. 10.** — Opakuje, že J. D. Vance je „produkt“ Petera Thiela (vytáhl ho z práv, udělal z něj podnikatele a politika, dal 55 milionů na cestu do Senátu a 300 milionů dolarů na viceprezidentství) a že Thiel, Musk a Vance tvoří „PayPal mafii“; Musk přes DOGE získal přístup „ke všem datům o všech občanech“. Nově to spojuje s Palantirem, projektem Stargate a datovými centry, do nichž se mají ukládat informace o všech lidech, a s plánem vyrábět mRNA vakcíny proti rakovině. Thiel podle něj otevřeně říká, že chce současný systém zničit a nahradit ho technokratickým; tito oligarchové už ovládají sociální sítě a skupují média.
 
-**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026), [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026), [Vrabel — Facebook Live 2. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+**Zdroje:** [Vrabel — Večerní zprávy: 1. máj, EU, Chorvatsko, 1. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-1-máj-eu-chorvatsko-1-5-2026), [Vrabel — Zprávy v devět 25. 5. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-5-2026), [Vrabel — Facebook Live 2. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-2-9-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ---
 
@@ -992,7 +992,9 @@ Podle zprávy společnosti Anthropic bojovníci napojení na jemenské Húsíje 
 
 > „Včera jsem se vrátil k té teorii, jestli opravdu tady umělá inteligence nevytváří nějaké strategie, jak ty lidi manipulovat, jak je dávat dohromady a štvát je proti těm svojim zemím za účelem vytvoření nějakého chaosu.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+**23. 10.** — Ke zprávě o 200 milionech dolarů pro firmu Warhound (geneticky upravení a klonovaní psi pro armádu; Palmer Luckey z Anduril) opakuje, že chaos v Evropě, který se podle něj šíří už i do Albánie a Tuniska, řídí lidé skrze AI, nebo AI sama „jako útok proti lidstvu“ (s odkazem na seriál Black Mirror). Varuje před „hraním si na bohy“ s geny (AI by mohla navrhnout gen, aby vlčáci „neměli rádi lidi“) a před transhumanismem Thiela, Gatese, Muska (čip v mozku opice) a Schwaba, podle něhož budou lidé bez propojení s technologií „podřadná rasa“. Svůj starší odhad nezaměstnanosti „50+“ kvůli robotizaci a AI označuje za „velmi optimistický“, může být „klidně 90+“ (→ [Predikce](predikce.md)); sám je rád, že má dům v horách s vodou a půdou, a posluchačům radí plánovat na 5–20 let dopředu.
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ---
 

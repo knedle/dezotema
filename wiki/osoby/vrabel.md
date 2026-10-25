@@ -976,6 +976,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **4. 9.** — nová aplikace EZ Karta jako naplnění varování o digitálním „covidovém pasu"; spojení s Palantirem, AI nezaměstnaností a nepodmíněným příjmem — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
 - **24. 9.** — AI „utekla z testovacího prostředí" — ohrožení bank, elektráren a zbraní — [Zprávy v devět 24. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 - **20. 10.** — dražší letenky jako omezování pohybu, létat budou „papalášové“ (→ [predikce](../predikce.md)) — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
+- **23. 10.** — centrálně řízená ekonomika EU → krach → technokracie a digitální měna se smart kontrakty („novodobé otroctví“), „odmaterializování“ lidí přes nemovitosti a ETS2 — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 17)
 - **4. 9.** — mírová jednání USA–Rusko–Ukrajina (Witkoff, Kushner poprvé i do Kyjeva letadlem), 65% šance na neúspěch (predikce) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
@@ -1190,6 +1191,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **16. 10.** — stát jako „příšera, která žere vlastní lidi“, Fuellmichovy „lidové soudy“, Babiš „proti lidem“ — [Večerní zprávy 16. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
 - **17. 10.** — Albánie „lidi proti režimu“, bez nenásilné revoluce válka s Ruskem nebo občanská válka (→ [predikce](../predikce.md)); Babiš „karabáčem“ na nástěnce (→ [stoch. teror](../stochasticky-teror.md)), politiky budou po válce soudit — [Zprávy v devět 17. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
 - **19. 10.** — program a programové prohlášení jako „smlouva“, politici „zaměstnanci“ k odvolání (daň firmám); „kdyby vládnul“: soukromá ochranka „jako armáda“, podnikatelé „jako Putin“, loajalita generálů — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+- **23. 10.** — hlasování ministrů SPD proti režimu Ukrajinců jako divadlo „opozice ve vládě“, SPD v Ostravě a Karviné „prolítla“; Fico „další na řadě“ — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1343,6 +1345,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **20. 10.** — Zelenskyj „fašista“, „vyfetovaný“, „zbabělec“ (Mendelová); Vance „bomby“, čeští politici otočí jen krátce (→ [predikce](../predikce.md)); „Ukrajinci si můžou za to… sami“, „pomáháme jim do hrobu“; rok UPA jako důsledek lží o nacismu — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - **21. 10.** — Putin „humanista“ po jedněch volbách; euforie, pak atentát (opakuje); 12 Patriotů měsíčně, zmrazení fronty = vojska NATO = válka; NABU a vily Zelenského; Trump bičem (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **22. 10.** — vyslanec EU k Putinovi: Stubb „největší nácek“, Kallasová „potomek nacistických rodičů“; mír jako v Jaltě, Evropa si válku projde (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+- **23. 10.** — ⚡ přiznává změnu ruské pozice, Evropu u stolu Rusko nechce; „mír“ jako Trumpova předvolební kampaň, po izraelských volbách útok na Írán, Rusové zaberou celou Ukrajinu (→ [predikce](../predikce.md)); Macron „pracuje pro Rothschilda“ — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 17)
 - **19. 9.** — „1 % globalistů" a buddhistické vysvětlení lidské pasivity — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1355,10 +1358,12 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **16. 10.** — „hybridní válka počasím“ ze strany USA (Istanbul), „nemám pro to důkaz“ — [Večerní zprávy 16. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
 - **21. 10.** — oteplování: „bílé“ slunce, práškování, HAARP, „krávy za to nemůžou“ (opakuje) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **22. 10.** — evropské nepokoje může řídit AI, superinteligence „převezme vládu“ (→ [predikce](../predikce.md)); Vance „produkt“ Thiela, PayPal mafie, Stargate — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+- **23. 10.** — chaos v Evropě řídí AI (opakuje), geneticky upravení psi, transhumanismus, nezaměstnanost „90+“ (→ [predikce](../predikce.md)) — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - **22. 10.** — papírové zlato zmizí a cena zlata výrazně vzroste — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+- **23. 10.** — útok USA na Írán po izraelských volbách; Rusko zabere celou Ukrajinu; Fico „další na řadě“ k odstranění; nezaměstnanost 90+ — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
@@ -2065,6 +2070,14 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Friedrich Merz | ❌ negativní | Bývalý šéf BlackRocku pro Německo, „figurka“ dosazená globalisty jako Pavel, „potřebuje válku“ | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
 | Andrej Babiš | ❌ negativní | „Mírová vláda“ dává na obranu o čtvrtinu víc než Fiala; jeho firmy na Ukrajině berou z „šedé zóny“; zrychlil Ukrajincům cestu k občanství | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
 | Peter Thiel, Elon Musk, J. D. Vance | ❌ negativní | „PayPal mafie“, která chce zničit demokracii a zavést technokracii; Vance „produkt“ Thiela | 2026-10-22 | [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026) |
+| Petr Pavel | ❌ negativní | Jako vyjednavač s Putinem „tam nemá co dělat“, „další globalista“ a generál NATO | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Emmanuel Macron | ❌ negativní | „Pracuje pro Alexandra Rothschilda“, evropští lídři „absolutně podřízení globalistickým strukturám“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Donald Trump | ⚖️ rozporuplný | V jednáních o Ukrajině „hraje poměrně kladnou roli“, ale „mírová jednání“ jsou jen předvolební „vrtění psem“ a za Blízký východ a drahou ropu je „čistě“ odpovědný | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Melania Trumpová | ❌ negativní | Zesměšněna: „neumí ani anglicky“, příměří v Oleškách jako „předvolební akt“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Benjamin Netanjahu | ❌ negativní | „Benjamin Satanyahu“, Izraelci „satanisti“, kteří bourají Palestincům domy | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Giorgia Meloniová | ❌ negativní | Daní energetické firmy kvůli zbrojení jako Babiš; „když si šňupne, tak je taková veselá“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Robert Fico | ✅ pozitivní | Slovensko je díky němu svobodnější než ČR; „další na řadě, koho je potřeba odstranit“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
+| Tomio Okamura / SPD | ❌ negativní | Hlasování ministrů SPD proti režimu Ukrajinců je divadlo „opozice ve vládě“, „nikdo už jim nevěří“ | 2026-10-23 | [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026) |
 
 ---
 
@@ -2246,3 +2259,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
 - [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+- [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
