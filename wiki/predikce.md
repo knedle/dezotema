@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — bez nenásilné revoluce přijde změna systému válkou s Ruskem nebo občanskou válkou v Evropě (17. 10. 2026)
+
+**Předpověď:** Pokud se nepodaří nenásilná změna systému, přijde změna násilnou cestou: válkou s Ruskem, nebo občanskou válkou v Evropě. Západ je podle něj „možná před změnou systému skrze občanskou válku“.
+
+> „Pokud se nepodaří nenásilná revoluce… tak to pravděpodobně bude násilnou cestou. A to buď tou válkou s Ruskem, nebo nějakou občanskou válkou v Evropě, jinak to nevyjde.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (ptá se diváků na „příštích pět let“)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
+
+---
+
+### Ladislav Vrabel — Trumpovo zrušení sankcí „opadne“, po volbách další války (17. 10. 2026)
+
+**Předpověď:** Pozastavení sankcí proti Rusku je jen předvolební gesto. Po amerických volbách do Kongresu se „historický okamžik“ rychle vytratí a Trump bude rozjíždět další války.
+
+> „On ten historický okamžik může velmi brzo opadnout […] Před volbami je to mírotvůrce […] a po volbách najednou už nechce, po volbách dělá další a další války.“ — Ladislav Vrabel
+
+**Horizont:** po volbách do Kongresu USA (listopad 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
+
+---
+
+### Ladislav Vrabel — politici odpovědní za válku budou po jejím skončení souzeni (17. 10. 2026)
+
+**Předpověď:** Po skončení války budou politici, kteří ji podporovali (mj. Andrej Babiš), souzeni.
+
+> „Myslím si, že se to docela možná stane, až ta válka skončí, že tyhle politiky budou soudit za to, za tu válku celou.“ — Ladislav Vrabel
+
+**Horizont:** po skončení války na Ukrajině
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
+
+---
+
 ### Pavel Zítko — americké poločasové volby „vůbec nemusí proběhnout“, místo nich EBS (20. 10. 2026)
 
 **Předpověď:** Volby do Kongresu USA začátkem listopadu se podle Zítka vůbec nemusí konat, protože v rámci „vyložení karet“ přijde vysílání EBS a „velké finále“ operace „Red October“.

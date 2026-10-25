@@ -50,6 +50,7 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | STAN | ❌ negativní | Jindřich Rajchl | „Mafiánské hnutí“, jediná nedemokratická strana | 2026-10-18 | [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | Piráti / Zdeněk Hřib | ❌ negativní | Jindřich Rajchl | „Extremistická strana“; dobře, že vypadli ze Senátu, Hřibova konfrontační politika bez programu neuspěla | 2026-10-18 | [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | Martin Dvořák (Senát – Hradec Králové) | ❌ negativní | Jindřich Rajchl | „Nejzbytečnější ministr“, „chciválek“, korunu nazval „pidiměnou“; dobře, že neuspěl | 2026-10-18 | [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
+| ANO (Andrej Babiš) | ❌ negativní | Ladislav Vrabel | Porážka v Senátu jako „odraz vlády“, Babiš „podvodník“, porušil všechny sliby | 2026-10-17 | [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026) |
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
 ---
@@ -132,7 +133,9 @@ Na dotaz z chatu označuje platformu Svatopluk za podporu prezidentské kandidat
 
 Nízkou účast ve 2. kole senátních voleb Vrabel vysvětluje tím, že řečníci z protestů let 2021–2023 se „otočili“ a kandidují kvůli funkcím: „Všichni jsou ochotní jít s Babišem… s Evropskou unií… s NATO… proti Rusku… s globalisty, jenom aby měli nějakou funkci.“ Výjimkou jsou senátorka Kovářová („snad jediný normální senátor“) a europoslanec Ivan David („jediný normální“). Popisuje zákulisí demonstrace 3. 9.: senátorka Jana Zwyrtek Hamplová ho prý s pláčem prosila, aby směla demonstraci zakončit, a lobboval za ni i Rajchl. Druhý den se ale od účastníků distancovala, protože zprávy mluvily o „proruských kolaborantech“, a v Senátu nic neprosazovala: „ta to zobchodovala“, „obrovské zklamání“. Kladně zmiňuje energetického odborníka Ivana „Noveského“, „Vladimíru Výtovou“ a Davida Tesáře, kteří se „nezkazili“. Ke zprávě, že Zelenskyj žádá 70 mld. eur, dodává, že Babiš „zvedne pravačku, odmává dalších 70 miliard“ a „Češi to v klidu zaplatí“.
 
-**Zdroje:** [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
+**17. 10.** — Porážku ANO ve 2. kole senátních voleb (ze 13 kandidátů neuspěl žádný) Vrabel nepřičítá spojení ostatních stran, jak tvrdí Babiš, ale tomu, že „společnost už si uvědomila, že Andrej Babiš je podvodník“. Babiš podle něj „všechno, co slíbil, tak porušil“: muniční iniciativa pokračuje, na Ukrajinu jde 60 mld. eur na zbraně a 30 mld. na „fungování Zelenského režimu“, na summitu NATO v Istanbulu přislíbil další peníze a chystá se přijmout dalších 150 tisíc ukrajinských uprchlíků. Babiš „pracuje pro Evropskou unii, pro NATO… pro Američany a pro Ukrajinu a nepracuje pro Českou republiku“. Místo vymlouvání na krajské organizace by od něj čekal sebereflexi, protože výsledek je „odrazem vlády“.
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026), [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
 
 ---
 

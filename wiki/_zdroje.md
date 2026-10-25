@@ -5720,3 +5720,11 @@
 - **Datum záznamu:** 2026-10-20 (soubor datován 23. 10.)
 - **Zpracováno:** ano
 - **Poznámka:** 2 h 4 min. Stanné právo a „500 tisíc rozsudků“, Q zpráva, Leeuwarden, QFS/CESTUI QUE VIE, Naomi Wolf, ČSR (Millerová), výzva ke konfrontaci s „falešným Čermákem“, alternativnimedia.cz.
+
+## Ladislav Vrabel — Zprávy v devět 17. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-17-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-17_Ladislav-Vrabel_17-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1656189429494196>
+- **Datum záznamu:** 2026-10-17
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 12 min (vysílání od 3:00), zprávy čte Zuzana, připravil režisér Ivan. Úsek [40:31–40:59] (sdílené video v polštině) bez přepisu.
