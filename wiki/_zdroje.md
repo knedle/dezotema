@@ -5800,3 +5800,11 @@
 - **Datum záznamu:** 2026-10-23
 - **Zpracováno:** ano
 - **Poznámka:** 45 min, monolog z procházky po Subotici (Srbsko); potlačování dosahu na Facebooku, Srbsko jako vzor, kritika Rajchla a Svatoše; bez sdílených videí.
+
+## Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026) {#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-24_Jindřich-Rajchl_V-Holandsku-je-tamější-veřejnoprávní-televize-placena.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2561398827692345>
+- **Datum záznamu:** 2026-10-24
+- **Zpracováno:** ano
+- **Poznámka:** 2 min 6 s, výstup ve Sněmovně v debatě o financování ČT.

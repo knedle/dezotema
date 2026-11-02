@@ -1,0 +1,898 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1879663786549173
+Datum videa:  2026-10-26
+Zpracováno:   2026-11-01 13:36:36
+Jazyk:        cs
+Délka:        00:30:35
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    25s
+Přepis:       1m 46s
+Rychlost:     17.3x realtime
+Celkem:       2m 11s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:01] Tak, vážení přátelé a kamarádi, a všichni, kdo sledujete můj Facebookček,
+[00:08] mítám vás uživého vysílení dneska je 26.10.
+[00:12] A toto vysílání je v podstatě odpověď na otázky, které dostávám ve zprávách.
+[00:17] A je jich teď víc a víc. Lidi mi přeposílej zprávu, napište mi, jestli mě dobře slyšíte.
+[00:23] Počkejte, myslím, že tady nějaké komentáře budou.
+[00:28] Napište mi, jestli mě dobře je slyšet.
+[00:30] To je první věc, protože mám připojený mikrofon, ať netočím vysílání a pak ho nemusím přetáčet.
+[00:36] Ale to, co jsem chtěl, jen mě slyšet dobře, jo?
+[00:40] Ok, super.
+[00:42] Mně se tady zase ty komentáře nezobrazujou.
+[00:44] Ten Facebook dělá strašné věci prostě.
+[00:46] Lidi nemůžou sdílet, nezobrazuje se to lidem.
+[00:50] Když tak mi dejte aspoň nějaký, jestli se vám...
+[00:54] No, nevím, komentáře se mi neobjevujou.
+[00:56] No, v každém případě více a víc lidí mi píše a přeposílá zprávu o tom, že v ulicích Prahy se chystá nějaký majdan.
+[01:05] Ještě se šoupnu tady trošku blíž k Wi-Fi, abych měl dobrý signál.
+[01:13] A že bychom neměli jít demonstrovat, že bychom neměli jít do ulic.
+[01:17] Že to je varování před tím, aby lidi nechodili do ulic.
+[01:20] Co si o to myslím?
+[01:21] Podívejte, před demonstrací každou, kterou jsem kdy organizoval, tak se objevují zprávy o tom, že se chystá nějaký násilí v ulicích, nějaký útoky proti nám.
+[01:33] Sisi Maria Bela, hezké odpoledne, dopoledne slyším až do Německa, výborně.
+[01:38] Takže slyšet je.
+[01:39] Milostlav Tichý, slyším dobře.
+[01:41] Dobře, super, díky.
+[01:42] Že se chystá nějaké násilí v ulicích.
+[01:45] Vždycky to slyším před každou demonstrací.
+[01:46] A před každou demonstrací jsem vám říkal, neplašte se, nebojte se toho, protože to je prostě běžný postup odrazovat lidi od demonstrací.
+[01:58] Ale tentokrát poprvé, vlastně jako v historii, co dělám demonstrace, tak to říkat nebudu.
+[02:04] A říkám stejně jako včera v nedělním vysílání, ano.
+[02:08] To nebezpečí tady je.
+[02:09] A to nebezpečí je vážné.
+[02:11] A to nebezpečí je tady proto, že po celé Evropě se rozehrávají protesty, které jsou velmi násilné.
+[02:20] Všude v portu, v Portugalsku armáda, v Španělsku násilný protesty už delší dobu.
+[02:25] Ve Francii boj prakticky by se dalo říct skoro na život a na smrt.
+[02:31] Ligy hážou dlažební kosky po policejtech, střílí po nich rachejtle.
+[02:35] Rachejtle, policejky střílí gumový projekt, tedy vodní dělo, slzný plyn, mlátí lidi obuškama v Německu, lidi mlátí brutálně, lidi obuškama v Itálii, policejní brutalita a tak dále.
+[02:46] Takže samozřejmě, když se na to podíváme, tak je naprosto jasný, že se v Evropě rozehrává násilí na ulicích.
+[02:54] Chaos, násilí na ulicích a uvidíme, jestli to přejde do nějaké občanské války nebo nepřejde.
+[02:59] To samozřejmě v tuhle chvíli ještě nevidíme, ale je to něco, co předpokládám už nějakou delší dobu.
+[03:07] Ono to totiž nemůže moc dobře dopadnout.
+[03:09] Jinak si myslím, když se podíváme na to, kolik migrantů je v Evropě dneska, skoro ve všech větších městech, je větší podíl migrantů než původního obyvatelstva.
+[03:21] Tak to sociální napětí prostě těžko může dopadnout jinak, obzvlášť, když ty migranti jsou z kultury, která má k násilí mnohem blíž, historicky, sociologicky a jinak, než to původní evropské obyvatelstvo.
+[03:37] A je to logické, protože ty migranti přicházejí z válečných zón velmi často, nebo aspoň to je to, co nám tvrdí.
+[03:43] A když se podíváte, tak jsem zrovna koukám na seriál Fargo, na druhou sérii, tak když se podíváte na to, jak to tam probíhá, ten největší brutální masakr v Minnesota v roce 79,
+[04:05] tak je naprosto evidentní, nebo jinak to řeknu, jsou kultury, ne, takhle to řeknu, v tom seriálu jasně vidíte,
+[04:17] že ty lidi, kteří se vrátili z války z Větnamu, tak spousta z nich prostě jde a zabijí, střílí, protože jsou poškození z té války.
+[04:26] Protože ve válce není ten lidský život tak hodnotný a lidi jsou zvyklí být se na život a na smrt.
+[04:32] A když vidíte ty lidi, kteří přichází z Afriky, kteří vyrůstali z mačetama v ruce a jsou rádi, že přežili 20. rok života,
+[04:38] protože se tam vraždí na denním pořádku a sekají se tam v ruce nohy, tak je jasný, že tyhle lidi budou mít jiný.
+[04:47] Práh, jinou úroveň toho, co je v pořádku, co není v pořádku a kde to násilí, nebo ten jejich práh násilí, co je pro ně v pořádku.
+[04:58] U nás v Evropě nemůžete na někoho vstánout ruku, jakmile byste jenom natáhli, zvedli ruku, tak už jdete do vězení v podstatě, když to přeženou.
+[05:06] Ale prostě tyhle lidi, kteří přichází z těch válečných zón, kde se nožema bijou na život a nasmrt, tak mají úplně jiné pocity o tom, co je povolené násilí ve společnosti, nebo co je pro ně přijatelné.
+[05:18] A to si myslím, že ze sociálního ledicka musí vést k nějakému napětí a ke konfliktu.
+[05:24] A když se podíváte na to, že policie ty lidi brutálně mlátí, tak to není to, že by ty režimy se snažily uklidnit to násilí na ulicích.
+[05:36] Naopak, tím, že ta policijní brutalita je takhle zřejmá, tak se to ještě prohlubé.
+[05:42] Podívejte se třeba na Albány, 15 dní, prostě se tam mydlí policajky s lidma.
+[05:47] Samozřejmě, že to povede k pádu vlády nakonec, ve Francii taky.
+[05:51] Nakonec to povede k pádu vlády všude, ale podle mojeho názoru, tak jak to vidím, tak je to spíš něco, co je rozehraný a je to nějaký řízený pád těchleckých vlád.
+[06:02] A to samý se rozahrává v České republice. Podívejte, milion chvilek hned okamžitě svolal demonstraci.
+[06:09] Víte, že nejsem úplně nadšený z toho, že je Babiš u moci.
+[06:13] Ale na druhou stranu, v tomhle s ním samozřejmě musím souhlasit.
+[06:16] Oni měli v programu, že zruší poplatky České televizi a Českému rozhlasu.
+[06:22] Je to nesmysl, aby tato státní instituce měla miliardy a miliardy a korun a lidi to museli platit.
+[06:28] A to, že to projednávali v prvním čtení až do 4.30 do rána je prostě normální věc,
+[06:35] protože je to věc, která má nějakou závažnost společenskou, tak to projednávali
+[06:40] a pak to odschválili, půjde to do druhého čtení. Prostě je to běžná věc.
+[06:44] Ale to, co okolo toho dělá milion chvilek, to už není běžná věc.
+[06:48] To, že milion chvilek mluví o tom, že nás prodají Rusku a že z nás bude sovětská kolonie
+[06:55] a že takhle fungujou zloději a mafiáni, to není normální věc.
+[07:01] To je rozeštvávání společnosti a tentokrát prostě už si opravdu neberou servítky
+[07:06] a jdou do těch nejbrutálnějších propagand, aby rozeštvávali společnost
+[07:11] proti Andreji Babišovi a jeho vládě.
+[07:12] Není to tak, že bych se zastával vlády Andreje Babiše.
+[07:18] Víte to dobře, že jsem proti ním úplně stejný jako proti vládě Petra Fialy
+[07:22] a jako proti vládě Andreje Babiše předtím.
+[07:24] Prostě to, co ty vlády dělají, je špatně.
+[07:27] Ale v tomhle s tom musím souhlasit s Andrejem Babišem,
+[07:29] že tohle je snaha organizací, které pracují za zahraniční kapitál,
+[07:36] globalistický kapitál, rozeštvat společnost.
+[07:40] Nevím, připadá mi, včera jsem o tom mluvil v nedělním vysílání,
+[07:44] že je to tak 50 na 50, jestli Andrej Babiš v tom jede s nima nebo ne.
+[07:48] Potom, co jsem viděl dnešního tiskovku, tak si myslím, že v tom nejede s nima,
+[07:51] že je obětí tady toho.
+[07:55] Ale to není úplně důležitý.
+[07:57] Důležitý je, co to znamená pro nás.
+[07:59] Viděli jste včera Srbsko.
+[08:01] Srbsko taky v podstatě se rozehrává na ulicích protesty proti Vúčičovi už dlouho.
+[08:08] Nejdřív, jak zabili ty děky ve škole, to byl někde rok 2023,
+[08:12] nebo nevím, už ani nepamatuji, který rok,
+[08:14] a to se rozahrávaly protesty, Vúčič jim dal volby, vyhrál ve volbách.
+[08:19] Teď další dva roky protestů, Vúčič jim dal předčasné volby,
+[08:23] studenti vyhráli teď.
+[08:25] Je to samozřejmě pro mě, který jsem chtěl, aby Vúčič zůstal u moci,
+[08:29] tak je to smutná věc, protože jsem chtěl, aby Vúčič zůstal jako pojistka,
+[08:33] jako absolutní stabilita a nejlepší politik, kterýho jsem viděl na geopolitický scéně
+[08:37] za poslední roky, aby zůstal u moci,
+[08:40] ale podařilo se studentům vyhrát.
+[08:41] Na druhou stranu, možná, že to je dobře,
+[08:44] protože co by se stalo, kdyby ty studenti,
+[08:47] a víte, jak jsou srbové tvrdý Vúči vládám,
+[08:50] když si prostě umanou, tak jsou schopní dobytky naprosto tvrdě.
+[08:55] Kdyby studenti nevyhráli,
+[08:56] tak by teprve mohly být násilnosti v Srbsku,
+[09:02] protože ty studenti by šli do ulic dál
+[09:04] a prostě Bůh ví, kam by to eskalovalo.
+[09:06] Tímhle způsobem, že studenti vyhráli,
+[09:09] tak je jasný, že v Srbsku bude klid,
+[09:11] protože studenti slaví, vyhráli nad srbské moc,
+[09:16] budou teď stavět svoji kandidátku,
+[09:18] nebo tu mají kandidátku,
+[09:19] už budou teď dosazovat své ligy do vlády,
+[09:21] parlament v parlamentu budou vládnout
+[09:23] a Vučič dostal 40%,
+[09:26] což je samozřejmě strašně moc,
+[09:28] o tom se nikomu nezdá.
+[09:30] V České republice nebo vůbec v evropských zemích,
+[09:33] kde Mertz má podporu pod 15%,
+[09:35] to prostě samozřejmě o tom se nikomu nezdá,
+[09:38] že by opozice měla 40%.
+[09:41] Takže v Srbsku vlastně ta pozice a opozice
+[09:44] bude velmi vyrovnaná,
+[09:46] Vučič teda nebude vládnout,
+[09:48] ale na druhou stranu to, co je dobrý,
+[09:49] je, že náš přítel Kuštunica,
+[09:53] Kuštunica bývalý prezident
+[09:54] a dvakrát premiér Srbska,
+[09:57] zakotvil, nechal zakotvit do ústavy
+[09:59] vojenskou neutralitu.
+[10:01] Takže to je dobrý,
+[10:02] to i kdyby byly jakýkoliv tlaky ze západu,
+[10:05] tak tadyto Vučič nepustí,
+[10:07] protože nikdo jiný nebude mít ústavní většinu.
+[10:10] Takže Srbsko se rozhodně nevydá na stranu NATO
+[10:13] nebo něco takovýho,
+[10:14] to nepřipadá v úvahu.
+[10:16] A samozřejmě,
+[10:17] když se podíváte na ty ligy,
+[10:18] tak to jsou národní.
+[10:19] To je národní oslova.
+[10:21] Všichni měli srbský vlajky,
+[10:22] všichni ukazovali symbol 3,
+[10:24] to je symbol srbský jednoty.
+[10:25] Takže to není tak,
+[10:27] že by to bylo jako v ostatních zemích,
+[10:29] že chtějí patřit na západ.
+[10:30] To ne.
+[10:30] Ale samozřejmě nevíme,
+[10:31] kdo přijde do vlády
+[10:32] za ty studenty,
+[10:34] protože studenti vládnout nebudou.
+[10:36] Takže tam samozřejmě
+[10:37] můžou nějaké tlaky na změnu být.
+[10:40] Na druhou stranu,
+[10:41] na druhou stranu opravdu to není tak,
+[10:43] že by to bylo něco pro západního
+[10:45] nebo pro evropského v tuhle stu chvíli.
+[10:47] Uvidíme, jestli se budou snažit
+[10:48] o nějaké změny směru.
+[10:50] Ale co se týče ústavy,
+[10:52] tak tam nemají kudy.
+[10:53] Srbsko zůstane vojenské neutrální země.
+[10:55] Co se týče Evropské unie,
+[10:57] měli by vypsat referendum,
+[10:59] taky ho slíbili studenti,
+[11:00] že vypíší referendum.
+[11:02] To se obávám,
+[11:03] že taky pro Evropskou unii
+[11:04] nebude tak jednoduchý,
+[11:06] jak si teďkon mnou rucej Koštaj,
+[11:07] Uršula von der Leyen,
+[11:09] že budou teďkon podporovat Srbsko atd.
+[11:11] Samozřejmě, že by Srbsko chtěli,
+[11:13] ale nejsem si úplně jistý,
+[11:14] že to mají tak jistý,
+[11:16] že by studenti chtěli,
+[11:19] nebo takhle,
+[11:20] že by to studentské hnutí
+[11:22] poslalo Srbsko do Evropské unie.
+[11:25] A tady píše Milan Študén,
+[11:26] že studenti chtějí západní hodnoty
+[11:27] a to udělá z tohoto nárada
+[11:29] to, co vidíme na západě.
+[11:30] Neudělá.
+[11:30] Studenti v Srbsku
+[11:33] jsou nacionalisty,
+[11:35] protože od dětství
+[11:37] jedou od škol
+[11:40] jedou pořád jako národní hrdost.
+[11:42] Srbové jsou především
+[11:43] hrdý národ
+[11:45] a i ty studenti,
+[11:46] ty, který znám,
+[11:47] ty, který podporovali studenty,
+[11:49] tak nenávidí vůděče,
+[11:50] protože prodává zemi.
+[11:52] A spousta z nich,
+[11:53] protože prodává zemi západu.
+[11:54] Takže v Srbsku to není tak,
+[11:57] jako je to v zemích Evropské unie
+[11:59] tak jednoduchý.
+[12:00] To samozřejmě není.
+[12:02] Určitě tam budou
+[12:03] lidi, který budou víc prozápadní,
+[12:06] to je jasný,
+[12:07] ale politicky teď bude boj
+[12:09] o Srbsko, co se bude dít.
+[12:11] A je mi jasný,
+[12:12] že ty politici,
+[12:15] který toho budou chtít zneužít,
+[12:18] aby táhli Srbsko víc na západ,
+[12:20] minimálně ekonomicky,
+[12:22] tak budou mít teď příležitost,
+[12:24] protože ta euforie,
+[12:25] která je,
+[12:26] to je podobné jako s euforií
+[12:27] v České republice.
+[12:29] Porazili jsme Fialu
+[12:31] a rok kriticky nejsme schopní vidět,
+[12:33] co se děje ve vládě.
+[12:34] Nejsme schopní vidět
+[12:35] všechny ty negativní kroky Babiše,
+[12:37] protože prostě jsme porazili Fialu,
+[12:39] tak ten, kdo nastoupil místo Fialy,
+[12:41] musí být ten dobrý.
+[12:43] Takže to samozřejmě v Srbsku
+[12:44] bude teďkon taky,
+[12:46] ale není to tak,
+[12:48] že by studentský pokret
+[12:49] nebo studenti,
+[12:50] nebo ty lidi,
+[12:51] který podporovali studenty,
+[12:52] a víte, že dostali přes 50%,
+[12:54] že by byli pro Evropskou unii
+[12:55] nebo nedej bože pro NATO.
+[12:57] To v žádným případě.
+[12:58] To je, jakmile o tom se začne v Srbsku mluvit,
+[13:00] že by Srbsko vypsalo referendum
+[13:02] o Evropské unii,
+[13:03] tak začne boj.
+[13:04] A můj tip je,
+[13:07] tak jak jsem říkal,
+[13:08] že si nejsem úplně jistý,
+[13:11] kým, že Vúčič vyhraje,
+[13:11] tak můj tip je,
+[13:13] že to nakonec neprojde
+[13:15] do Evropské unie,
+[13:16] protože Evropská unie
+[13:17] je v blbým stavu.
+[13:18] Kdyby to bylo před deseti lety,
+[13:20] tak by to prošlo,
+[13:21] ale v tuhle chvíli se obávám,
+[13:22] že to nebudou mít tak jednoduchý.
+[13:24] No, v každém případě,
+[13:26] zpátky do České republiky,
+[13:28] to, že v Srbsku vyhráli studenti,
+[13:30] je z tohohle pohledu dobře,
+[13:31] protože v Srbsku by byly taky
+[13:33] násilnosti na ulicích
+[13:34] a díky tomu nebudou
+[13:35] žádný násilnosti.
+[13:37] Ale v Evropské unii
+[13:39] to je evidentní,
+[13:41] že to není jenom o tom,
+[13:43] že by se snažil někdo
+[13:45] dělat protesty.
+[13:46] Tam se rozehrává násilí.
+[13:48] A v České republice,
+[13:50] a předpokládám,
+[13:51] že to bude i v dalších státech,
+[13:53] v České republice
+[13:54] taky předpokládám,
+[13:55] že se budou snažit
+[13:56] rozehrát boháné u dušů.
+[14:02] Předpokládám,
+[14:02] že sousedka donesla nám jabka
+[14:05] a volá nám manželko
+[14:07] a manželka je ve sprše.
+[14:09] Tady jsou sousedky takový,
+[14:10] že prostě pořád něco nosí.
+[14:15] Předpokládám,
+[14:16] že i v České republice
+[14:17] se budou snažit jet
+[14:18] velmi tvrdě proti Babišovi.
+[14:20] A když se podívám na to,
+[14:22] co si policie dovolila
+[14:23] už u Národního muzea,
+[14:25] že jsou schopní rozehrávat
+[14:27] nějaké konflikty,
+[14:28] tak se obávám,
+[14:30] že v České republice
+[14:32] bude tendence
+[14:33] taky rozehrát něco blbýho
+[14:35] na ulicích.
+[14:35] Nemyslím si,
+[14:36] že úplně Majdan,
+[14:37] protože Babiš není
+[14:39] Orbán.
+[14:41] Babiš není
+[14:43] proti Evropské unie.
+[14:44] Babiš není proti NATO.
+[14:46] Babiš není
+[14:47] nijak spojený s Ruskem.
+[14:48] Takže tato karta
+[14:50] v České republice
+[14:51] se rozehrává.
+[14:51] rozehrává je spíš
+[14:53] politická záležitost,
+[14:55] aby uchopili moc
+[14:56] ty lidi,
+[14:56] kteří tu moc
+[14:57] uchopit chtějí.
+[14:58] To znamená
+[14:58] zase znovu
+[14:59] ty absolutní
+[15:00] globalistky,
+[15:01] jako je
+[15:01] Fiala a Rakušan
+[15:03] a tak dál.
+[15:04] Ale může se
+[15:05] rozehrávat
+[15:05] v České republice
+[15:06] něco
+[15:07] trošku násilnějšího.
+[15:09] Takže
+[15:09] nemyslím si,
+[15:11] že to bude
+[15:12] tak jako ve Francii
+[15:13] nebo Vitálii.
+[15:13] To si nemyslím.
+[15:14] Ale prostě to,
+[15:15] že se to rozesývá
+[15:16] po celý Evropě,
+[15:17] tak je jasný,
+[15:18] že na tom musí pracovat
+[15:19] ty struktury,
+[15:20] který tu Evropu řídí.
+[15:22] A bohužel
+[15:23] Česká republika
+[15:23] je součástí západu,
+[15:25] respektive patří západu,
+[15:26] takže budou se snažit
+[15:27] rozeštvávat společnost dál
+[15:29] i v České republice.
+[15:31] A teďkon
+[15:31] proč?
+[15:32] Proč to dělají?
+[15:34] Jakou to má logiku?
+[15:35] Podívejte,
+[15:35] globalistky řídí západ
+[15:37] absolutní.
+[15:37] Mají absolutně plnou kontrolu
+[15:39] nad tým,
+[15:39] co se gěje na západě.
+[15:41] Viděli jsme to v covidu.
+[15:42] prostě zavělí.
+[15:43] Lidi nebudou chodit ven,
+[15:44] zavřou se biznisy,
+[15:45] nebudou chodit i doktorovi
+[15:46] a lidi dělají úplně
+[15:48] naprosto nesmyslný věci.
+[15:51] Přišly roušky,
+[15:53] vakcíny,
+[15:54] prostě lidi jdou
+[15:55] a řeknou
+[15:55] a co se jim řekne,
+[15:57] to udělají.
+[15:58] Teďkon stejně to vidíme
+[15:59] i s tou Českou televizí.
+[16:01] Řeknou jim v televizi
+[16:01] běžte protestovat
+[16:02] a lidi jdou.
+[16:03] Stejně to vidíme,
+[16:04] s kým přišli rusové
+[16:05] na Ukrajinu
+[16:06] a nikdo nevidí,
+[16:07] že jsou tam nějaký důvody
+[16:08] k tomu,
+[16:09] aby rusové na tu Ukrajinu přišli
+[16:11] a lidi prostě jak blázni.
+[16:12] Ne, to je prostě,
+[16:13] Putin je diktátor
+[16:15] a Putin jde na Ukrajinu
+[16:16] a přijde do Evropy.
+[16:17] Prostě úplně vymantasený lidi,
+[16:20] jako kdyby neměli mozek.
+[16:22] A to teďkon je taky.
+[16:24] To znamená,
+[16:25] ty globalistky
+[16:26] s tou svojí agendou 2030,
+[16:28] to mají plně pod kontrolou.
+[16:30] A čím dát jim víc lidí,
+[16:31] prostě tohle se to nechápe.
+[16:32] Včera jsem koukal na Svatoše,
+[16:33] na Michala Svatoše
+[16:35] na Svobodným rádiu
+[16:36] a prostě připadá,
+[16:37] že se pomát taky jako.
+[16:39] Začne prostě vyprávět
+[16:40] nějaký věci
+[16:41] o demonstraci v roce 22
+[16:43] úplně nesmyslný.
+[16:45] Samozřejmě záměrně
+[16:46] proti mě,
+[16:47] protože podporuje SPD,
+[16:48] protože chce mít
+[16:49] nějakou funkci v SPD.
+[16:51] A to SPD,
+[16:52] to je další.
+[16:53] To je prostě,
+[16:55] aby měli funkce,
+[16:55] tak dělají tu falešnou opozici
+[16:57] a nedělají ten antiglobalismus,
+[16:59] co děláme my.
+[17:00] Nedělají to,
+[17:01] aby šli proti
+[17:02] proti globalismu,
+[17:04] proti těm globálním agendám
+[17:06] za národ.
+[17:07] Nejdou.
+[17:09] Všichni kolaborují
+[17:10] s těmi globalisty,
+[17:11] protože tam jsou peníze,
+[17:12] tam je moc,
+[17:12] tam jsou média,
+[17:14] tam jsou ty,
+[17:15] tam je NATO,
+[17:15] tam je Evropská unie,
+[17:17] tam jsou ty rozhodnutí.
+[17:18] Takže všichni prostě
+[17:20] poslouchají.
+[17:21] Je nás strašně málo,
+[17:22] kdo jdou
+[17:23] proti tomu globalistickému vedení,
+[17:26] proti tomu globalistickému režimu.
+[17:28] A tady je potřeba se ptát,
+[17:29] co teda ty globalisty
+[17:30] teďkon chtějí,
+[17:31] co rezehrávají
+[17:32] po covidu
+[17:33] a po konfliktu
+[17:35] na Ukrajině,
+[17:36] který nám tady prodávají.
+[17:38] Co rozehrávají?
+[17:38] Proč tě,
+[17:39] aby bylo násilí v ulicích?
+[17:41] A když se někdo,
+[17:43] samozřejmě,
+[17:44] že jsou lidi ztracený,
+[17:45] že tomu nerozumí,
+[17:45] protože je chaos.
+[17:47] To je záměr,
+[17:48] aby byl chaos,
+[17:48] aby se nikdo nevyznal
+[17:49] v tom, co se děje.
+[17:51] Proč je to násilí
+[17:52] na ulicích?
+[17:53] To násilí na ulicích
+[17:54] není kvůli tomu,
+[17:55] že studenty stávkujou,
+[17:56] aby měli víc učitelů
+[17:59] a víc peněz do školství,
+[18:00] aby bylo méně ve třídách.
+[18:01] To je nesmysl.
+[18:02] To nás zase krmí
+[18:03] prostě nesmyslama.
+[18:06] A musíme přemýšlet
+[18:07] nad tím,
+[18:07] proč to dělají.
+[18:08] Co je cílem?
+[18:09] Nebo co se bude
+[18:10] teď odehrávat?
+[18:12] A vždycky,
+[18:12] když se něco odehrává,
+[18:14] tak je potřeba
+[18:15] přemýšlet nad tím,
+[18:18] jak je to naplánované.
+[18:20] A to už jsem vám
+[18:21] taky včera říkal.
+[18:22] Ale v roce 2021,
+[18:24] když byla ta energetická krize,
+[18:27] a Fiala říkal,
+[18:28] vyřeším to do prosince.
+[18:30] Nebo jo, v roce 2021.
+[18:32] A potom to neřešila.
+[18:33] A v lednu jsem nad tím přemýšlel,
+[18:35] dělali jsme protesty
+[18:36] před poslaneckou sněmovnou
+[18:38] a říkal jsem,
+[18:40] proč to je?
+[18:41] A pak přišli rusové na Ukrajinu.
+[18:42] A říkal jsem,
+[18:43] no tady je jediný
+[18:43] logický vysvětlení,
+[18:45] že je mu to úplně fuk
+[18:46] tomu Fialovi.
+[18:48] Že lidi jsou naštvaný
+[18:50] kvůli energím,
+[18:50] protože to vůbec neřeší.
+[18:52] A říkal jsem si,
+[18:52] jak mu to může být fuk.
+[18:54] A napadlo mě,
+[18:55] no to je proto,
+[18:56] jediný možný vysvětlení je proto,
+[18:57] že ví,
+[18:58] že to nebude podstatný
+[19:00] za pár měsíců.
+[19:00] Žeho lidi kvůli tomu neodvolají,
+[19:03] že bude něco
+[19:05] tak mnohem horšího,
+[19:07] že se na elektřinu zapomene.
+[19:10] A to něco mnohem horšího
+[19:12] je to, co si myslím,
+[19:13] že je právě klíčem
+[19:14] k pochopení toho,
+[19:14] co se děje dneska.
+[19:15] Proč globalistky
+[19:16] rozehrávají to násilí
+[19:19] na ulicích Evropy?
+[19:20] Protože, podívejte,
+[19:22] věci se nedějou náhodou.
+[19:23] Globalistky mají absolutně
+[19:24] pod kontrolou
+[19:25] sociální média a média.
+[19:27] A sociální média
+[19:28] mají pětku jedný
+[19:30] moc oproti těm skutečným médiím.
+[19:33] Protože v obyčejných médiích
+[19:35] oni musí dodržovat něco,
+[19:37] aby lidi neprokoukli,
+[19:39] že nás ovlivňujou,
+[19:40] že nás manipulujou.
+[19:41] Ale na sociálních médiích
+[19:42] to nikdo nevidí.
+[19:43] Nikdo z nás nevidíme,
+[19:45] co se zobrazuje někomu jinýmu.
+[19:47] A oni mají ty sociální data.
+[19:49] Oni mají ty data
+[19:50] těch Facebooků.
+[19:52] Čekajte, zkusím si
+[19:53] připojit baterku.
+[19:54] Odpojím mikrofon.
+[19:55] Napište mi, prosím vás,
+[19:56] jestli se vám změní
+[19:57] nějakým brutálním způsobem
+[19:59] zvuk,
+[20:00] protože jsem odpojil
+[20:01] malej mikrofon
+[20:02] a přešel jsem
+[20:02] na velkej mikrofon
+[20:04] telefonu.
+[20:06] Napište mi,
+[20:07] jestli je to nějaký horší,
+[20:08] jestli si mám zase
+[20:08] připojit zpátky
+[20:09] ten malej mikrofon,
+[20:10] ale doufám,
+[20:11] že tenhle telefon
+[20:12] to zvládne.
+[20:13] teď je prostě potřeba
+[20:16] zamyslet se nad tím,
+[20:17] když vidíte,
+[20:18] že oni rozehrávají
+[20:20] to násilí,
+[20:20] protože na tom Facebooku
+[20:22] a na těch sociálních sítích,
+[20:23] ty mají oni pod kontrolou.
+[20:25] A to, co se těm lidem
+[20:26] zobrazuje,
+[20:27] to oni,
+[20:28] to oni,
+[20:31] oni o tom rozhodujou,
+[20:32] co se lidem zobrazuje.
+[20:33] A oni lidi manipulujou,
+[20:34] protože mají,
+[20:35] podívejte,
+[20:35] oni mají veškerý data,
+[20:37] a je to víc potichu.
+[20:38] Přeďte,
+[20:39] podívám se,
+[20:39] kolik mám baterku
+[20:40] v tom telefonu.
+[20:41] Dobře,
+[20:42] no tak,
+[20:42] tak,
+[20:43] ještě vám tam ten mikrofon
+[20:44] strčím.
+[20:46] Ještě vám ho tam strčím.
+[20:49] Šumí to.
+[20:49] Dobře,
+[20:50] dobře,
+[20:50] dobře,
+[20:50] dobře,
+[20:51] tak vám...
+[20:51] Kdyby to mělo být dobrý,
+[20:52] počkejte,
+[20:53] tady musím vyotočit kameru,
+[20:55] snad to bude zase dobrý,
+[20:56] když tak mi napište,
+[20:57] jestli už je to zase dobrý,
+[20:58] ten mikrofon,
+[20:59] dobrý,
+[21:00] jo,
+[21:00] dobrý,
+[21:00] sociální sítě
+[21:04] nejenom,
+[21:06] že nás znají,
+[21:08] ta umělá inteligence
+[21:09] nás celou dobu sleduje,
+[21:11] oni nás,
+[21:12] oni nás sledujou,
+[21:16] oni nás třídí,
+[21:19] sortujou,
+[21:21] dělají psychologický profily
+[21:22] a ta umělá inteligence
+[21:23] nejenom,
+[21:23] že ví,
+[21:26] kdo jsme
+[21:26] a jak přemýšlíme,
+[21:28] ale oni dokážou predikovat,
+[21:30] jak budeme přemýšlet dál,
+[21:32] co budeme dělat dál
+[21:32] a na základě toho
+[21:34] nás můžou ovlivňovat
+[21:36] tím,
+[21:37] co nám znova zobrazují
+[21:38] a tím nás manipulují dopředu.
+[21:40] Oni manipulují ty davy lidí.
+[21:43] To všechno je zmanipulované.
+[21:44] Sociální média jsou mnohem,
+[21:46] mnohem zásadnější
+[21:47] než obyčejní média,
+[21:49] protože my nevíme,
+[21:50] kolik těch příspěvků
+[21:52] nám dokážou zobrazit,
+[21:53] kolik lajků tam dají,
+[21:55] kolik sdílení.
+[21:56] Oni nám vytváří ty příběhy.
+[21:58] Sociální média se staly nástrojem manipulace.
+[22:00] Takže z toho je potřeba
+[22:03] pochopit,
+[22:08] že to, co se rozehrává na ulicích,
+[22:10] dělejí záměrně globalistky.
+[22:12] A proč to dělejí?
+[22:13] A to je ta otázka.
+[22:15] Musí to mít nějaký důvod,
+[22:16] musí to mít nějaký záměr,
+[22:18] protože oni by to nedělali jen tak
+[22:20] bezdůvodně násilí na ulicích.
+[22:22] A ten záměr podle mě je,
+[22:24] aby odvrátili pozornost.
+[22:26] A jestli odvrací pozornost tím,
+[22:28] že rozehrávají násilí na ulicích,
+[22:30] tak musí odvracovat pozornost
+[22:32] od něčeho, co bude mnohem horší.
+[22:35] Nebudete odvracet pozornost tím,
+[22:37] že budete produkovat násilí na ulicích,
+[22:39] protože chcete prohlasovat,
+[22:42] nevím, ETS-ky.
+[22:44] Rozumíte, ETS-ky už nemají
+[22:46] takovou sílu, aby kvůli tomu muselo být
+[22:48] dělaný násilí na ulicích.
+[22:51] A tady jediné, co mě napadá,
+[22:52] je jako válka,
+[22:53] protože ta válka je prostě ten největší brutál.
+[22:56] A proto se ty lidi manipulujou proti sobě
+[23:00] a rozeštvávají proti sobě,
+[23:02] aby se nebyli schopní spojit proti válce.
+[23:06] To je to, co si myslím.
+[23:10] Takže podle mě to, co se odehrává teď
+[23:12] v ulicích Evropy,
+[23:14] je znak toho,
+[23:16] že se chystá něco velmi brutálního
+[23:19] pro nás jako pro lidi.
+[23:21] To je to, čeho se obávám.
+[23:23] A proto se musí i v České republice
+[23:26] rozeštvat narychlo lidi proti sobě.
+[23:29] Proto museli narychlo svolat
+[23:30] ty demonstrace a dělat z toho,
+[23:32] že to je útok na svobodu.
+[23:34] To není jenom politická hra.
+[23:36] Protože milion chvilek
+[23:38] a Česká televize,
+[23:39] viděli jste to včera v nedělním vysílání,
+[23:41] jsou placený z různých zahraničních zdrojů.
+[23:44] Česká televize dostávala desítky milionů dolarů
+[23:46] přímo od americké vlády v době covidu.
+[23:49] Takže to není žádný nezávislý médium.
+[23:52] Milion chvilek není žádný nezávislý
+[23:56] demonstrace. Ta demonstrace stála tři čtvrtě milionů,
+[23:59] co jsem viděl. Minimálně půl milionů.
+[24:01] Spíš tři čtvrtě milionů.
+[24:02] To jsou lidi, který mají peníze,
+[24:04] které za tím stojí.
+[24:05] To, že to přenáší Česká televize
+[24:08] v přímém přenosu, to je prostě klasický
+[24:10] globalistický projekt rozjíždění
+[24:13] demonstrací na ulicích.
+[24:15] A takhle to dělali v Srbsku taky.
+[24:16] Ta televize N1, což je CNN.
+[24:18] Přišlo tam pár lidí a celý den o tom
+[24:20] prostě bylo v televizi reportáže.
+[24:22] celý den rozhovory s těma studentama.
+[24:25] A samozřejmě pro ně to bylo sexy.
+[24:27] To bylo hezký, že jsou v televizi.
+[24:29] Tak přišly další.
+[24:30] A ta televize prostě rozjela,
+[24:32] ta americká televize rozjela ty protesty
+[24:34] a nakonec vyhrála proti vůčičovi.
+[24:36] To jsou globalisty, který tohleto dělají.
+[24:38] A v České republice jsou to taky globalisty.
+[24:41] Ten, kdo tohleto dělá.
+[24:42] Takže samozřejmě v Srbsku
+[24:45] teď uvidíme, jaký lidi
+[24:49] tam budou dosazený,
+[24:50] co budou dělat.
+[24:52] Naštěstí vůčič má pořád 40% podporu
+[24:56] a on je velmi dobrý v opozici
+[24:58] a bude v parlamentu mít velmi silnou pozici.
+[25:01] Má taky dost silnou pozici v médiích atd.
+[25:04] Takže v Srbsku bude boj.
+[25:06] Samozřejmě o Srbsko.
+[25:08] Ale lidi srbové
+[25:10] měly všechny srbské vlajky.
+[25:13] A když jim ty studenky začnou dělat
+[25:15] nějaký prozápadní lobby,
+[25:17] dávám tomu rok, že můžou sundat klidně
+[25:21] i tyhle cty.
+[25:21] To je stejně, jako to bylo po Miloševičovi.
+[25:23] Po Miloševičovi přišli demokrati
+[25:25] a demokrati začali táhnout
+[25:27] na západ Srbsko.
+[25:29] To bylo to, kdy Srbsko vstoupilo
+[25:31] na cestu do Evropské unie.
+[25:33] A Srbové samozřejmě poslali
+[25:34] na smětiště dějin demokraty.
+[25:37] Pak přišel Kuštunica,
+[25:39] který právě udělal to,
+[25:41] že zachránil před Evropou
+[25:44] Srbsko a zakotvil do ústavy
+[25:47] vojenskou neutralitu.
+[25:49] Takže tenhle ten boj
+[25:51] předpokládám, že v těch čtyřech letech
+[25:53] teď nějaký bude probíhat.
+[25:54] Ale nemyslím si,
+[25:56] že by se Srbové nechali zmanipulovat
+[25:57] jako zbytek Evropy.
+[25:59] To v žádném případě.
+[26:00] Srbsko bude pořád nějaký ostrůvek svobody,
+[26:03] který bude propojený s Ruskem.
+[26:05] Velmi silně.
+[26:06] Ale to uvidíme v těch příštích měsících,
+[26:07] jak to bude probíhat.
+[26:08] Samozřejmě, co se týče mě,
+[26:12] tak my máme domek nahoře v horách,
+[26:15] tam se nás žádné takové změny dotýkat nebudou.
+[26:18] Proto taky říkám,
+[26:19] ať se bude dít cokoliv ve městech,
+[26:21] tak prostě nejlepší je mít něco v horách.
+[26:24] Tam prostě ještě středověk,
+[26:26] tam je prostě klid.
+[26:28] A co se týče investis,
+[26:29] tak to pořád bude dobrá investice.
+[26:31] I kdyby se dělali nějaké
+[26:32] prozápadní ekonomické změny,
+[26:34] tak prostě pořád budou růst velmi silně
+[26:36] ceny nemovitosti v Srbsku.
+[26:37] Takže co se týče tohle, tak je to v pohodě.
+[26:40] Ale co se týče České republiky,
+[26:44] tam se obávám, že je to jasný.
+[26:46] A celý té západní a střední Evropy.
+[26:48] Srbsko prostě proti Rusku nepůjde do války.
+[26:51] Za prvý nemůže ani,
+[26:52] protože to má v ústavě,
+[26:54] za druhý ty lidi to nedovolí,
+[26:56] ale v Evropě se rozehrává to,
+[26:59] aby politici mohli udělat něco za zády lidí,
+[27:01] který budou mezi těm na ulicích
+[27:03] mezi sebou bojovat.
+[27:04] To je to, co si myslím.
+[27:05] Ve Francii jsou maskovaní policisté.
+[27:09] Áno, to jsem vám říkal taky včera
+[27:11] v nedělním vysílání.
+[27:13] Ve Francii ty tajný policajky
+[27:16] jsou normálně celý v černým,
+[27:18] mají masky stejně tak jako ty demonstranti
+[27:20] a rozehrávají to násilí.
+[27:21] Říkám vám, že to dělají globalistky záměrně.
+[27:25] To není něco, co pochází od studentů.
+[27:27] Studenti prostě takovýhle věci nedělají.
+[27:29] Ty protestujou, ale to násilí,
+[27:31] to rozehrává ten režim.
+[27:33] A migranti ty toho potom zneužívají
+[27:35] a ty rabujou obchody.
+[27:37] Takhle to je rozdělené.
+[27:38] Otázka je, proč studenti protestujou,
+[27:40] to chápem, protože manipulujou ty neziskovky.
+[27:44] Proč migranti vykrádejí obchody,
+[27:46] to chápem, protože chtějí levný
+[27:47] nebo zadarmo iPhony, to chápem.
+[27:50] Proč zapalujou ulice,
+[27:52] protože jsou prostě násilní.
+[27:54] Ale to, proč je tam ten mezičlánek ve prostřed,
+[27:58] proč tam ten režim burcuje ty lidi do násilí,
+[28:01] proč ty maskovaný policajky produkujou to násilí.
+[28:04] To je ta klíčová otázka.
+[28:06] A to je to, čeho se obávám i v České republice.
+[28:08] Takže ten pochod 17. listopadu,
+[28:11] my se samozřejmě potkáme,
+[28:12] uděláme pochod, uděláme protest,
+[28:15] uděláme demonstraci,
+[28:17] zapálíme svíčky bojovníkům,
+[28:19] bojovníkům proti nacizmu.
+[28:21] Tak, ale teď už si musím zapnout baterku.
+[28:23] Protože mi tady stmovila obrazovka,
+[28:26] aby mi to neumřelo úplně.
+[28:28] Tak, tak možná budete slyšet trošku,
+[28:31] počkejte, dám si to blíž,
+[28:34] dám si to blíž puse,
+[28:35] abyste slyšeli,
+[28:35] sice budu mít víc deformovaný obličej,
+[28:39] dívejte, jak mám deformovaný křicht.
+[28:41] Ale zase mě líp uslyšíte.
+[28:44] No tak, doufám, že to nikdo neviděl,
+[28:46] zase z těch trollů,
+[28:47] a že si vystříhne,
+[28:48] jak mám deformovaný křicht,
+[28:49] a udělal z toho videa.
+[28:50] A dneska už si člověk nemůže ani udělat,
+[28:52] legrat si sám ze sebe,
+[28:53] protože to někdo zneužije.
+[28:54] Ale, a ještě si musím posunout blíž k Wi-Fi,
+[28:58] protože se tím zazdí.
+[29:00] Ale to, čeho se skutečně obávám,
+[29:03] je, že se něco bude rozjíždět.
+[29:04] Ale nebude se to rozjíždět
+[29:05] na naší demonstraci, na našem pochodu.
+[29:07] My půjdeme na Malostranský náměstí,
+[29:09] Malostranský náměstí, tam bude klid.
+[29:11] Půjdeme na Klárov, tam bude klid.
+[29:12] Tam je pomník bojovníků proti nacistům,
+[29:16] tam zapálíme svíčky, tam je klid.
+[29:18] A půjdeme zpátky na Malostranský náměstí.
+[29:21] A jestli k tomu bude ta situace vypadat,
+[29:23] tak uděláme pochod přes centrum města,
+[29:25] protože půjdeme někdy v jednu hodinu,
+[29:27] ve dvě hodiny, to by ještě mohl být klid.
+[29:29] To by mohlo být, myslím si,
+[29:31] že to bude bezpečný.
+[29:32] Uvidíme, jak bude policie s náma,
+[29:34] jestli tam budu cítit,
+[29:36] že by tam někdo dělal nějaký
+[29:38] provokace nebo něco takového.
+[29:41] Takže my se budeme snažit udělat 17. listopadu
+[29:44] tak, aby k žádnému násilí na našem protestu
+[29:46] a našem pochodu nedošlo.
+[29:48] Ale myslím si,
+[29:51] že někde se něco,
+[29:53] nějaká nenávist
+[29:54] rozehrávat bude.
+[29:56] Ale ne na našem protestu.
+[29:58] Doufám, že jsem, přátelé,
+[29:59] Maričko vám osvětlil svůj pohled na věc.
+[30:02] Vy samozřejmě všichni máte svůj rozum.
+[30:06] Chápete, co se děje svým pohledem?
+[30:07] Napište mi do komentáře,
+[30:08] jestli to vidíte taky, tak jak to vidím,
+[30:10] nebo jestli to vidíte nějak jinak.
+[30:12] Mě to zajímá, ale
+[30:14] takhle to vidím a budu se snažit
+[30:18] s váma dál komunikovat to,
+[30:20] jaký mám na ty věci
+[30:21] náhledy.
+[30:26] To je všechno. Předu vám hezký
+[30:28] pondělí dneska.
+[30:30] Hezký pondělí a uvidíme se večer
+[30:31] ve zprávách.

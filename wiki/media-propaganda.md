@@ -129,7 +129,11 @@ V poslanecké sněmovně (**26. 6. 2026**), v debatě odbočivší od služební
 
 > „Smiřte se s tím, že jste nula. Bez České televize v zádech jste nic.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026), [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026), [Rajchl — Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
+**24. 10.** — Ve sněmovní debatě Rajchl odmítá argument, že poplatky zaručují ČT dlouhodobou finanční jistotu. Jako příklad uvádí Nizozemsko: tamní veřejnoprávní média jsou od roku 2000 placená ze státního rozpočtu, pro rok 2027 jim vláda chystá škrty až 150 mil. € a restrukturalizaci NPO, a „vůbec nic“ se nestalo. Poplatky by podle něj šlo stejně snadno snížit na korunu, takže rozpočet dává ČT naopak větší jistotu. Spravedlivější by ale byly dobrovolné poplatky. Povinné poplatky přirovnává k tomu, kdyby každý majitel auta musel platit dálniční známku.
+
+> „Prostě pokud nějakou službu nevyužívám, nemám jediný důvod za ni platit.“ — Jindřich Rajchl, [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
+
+**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026), [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026), [Rajchl — Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026), [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
 
 ---
 

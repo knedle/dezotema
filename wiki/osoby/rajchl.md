@@ -180,6 +180,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **7. 10.** — ČT jako „kanál, který nejvíce šíří dezinformace“ → omezit — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 - **21. 10.** — odpověď Moravcovi, který ho označil za „nácka“: „nácek“ je pro liberály každý odpůrce Green Dealu, války, eura a migrace; Moravec „nula“, žebrá o hosty u SPD → [media-propaganda.md](../media-propaganda.md) — [Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
 - **22. 10.** — stížnost k Radě ČT na Jana Moláčka („kukaččí mládě“ = přiznání cenzury); dokud ČT řídí lidé jako on, usiluje o její zrušení, „ani korunu“ → [media-propaganda.md](../media-propaganda.md) — [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
+- **24. 10.** — Nizozemsko platí média z rozpočtu, chystá škrty 150 mil. € a „nic se nestalo“, takže rozpočet dává ČT větší jistotu než poplatky; povinné poplatky jsou jako dálniční známka pro každého majitele auta → [media-propaganda.md](../media-propaganda.md) — [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -230,6 +231,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **16. 10.** — Pavlovo vysvětlení „nedostatečné“; ochranka 3 750 € na osobu z daní → žádost podle zákona 106; „papalášství“ a pokrytectví „člověka z lidu“ → [petr-pavel.md](../petr-pavel.md) — [Rozhovor CNN/Nova: Maroko (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-cnn-nova-papalášská-cesta-16-10-2026)
 - **16. 10. (2)** — zastává se novinářky Novinek Brodníčkové, které anonym vyhrožuje smrtí; dvojí metr Seznamu k výhrůžkám; vlastní výhrůžky (pálka, podpálení domu) → [kauzy.md](../kauzy.md) — [Zastání Brodníčkové (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026)
 - **18. 10.** — 2. kolo Senátu: koalice bez senátora kvůli nespojení a účasti 21 %, STAN „mafiánské hnutí“, pád Pirátů a Dvořáka → [volby-2026.md](../volby-2026.md); Pavel: 15 000 € za let Casablanca–Praha nemožné, dva známí doplatili („pay for play“), „bolševický papaláš“, při cizí úhradě rezignovat → [petr-pavel.md](../petr-pavel.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+- **24. 10.** — „Šibenice nikdy nebyly na mé demonstraci“; demonstrace proti prodloužení pandemického zákona, s delegací nikdo nejednal; atmosféru „rozpoutali“ oni → [politicky-system.md](../politicky-system.md) — [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -649,3 +651,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026)
 - [Rajchl — Že neuhodnete, kdo mě za poslední dobu nejvíc pobavil: Moravec a „nácek“ (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
 - [Rajchl — Jan Moláček překročil všechny meze: dokument ČT o původu covidu, stížnost k Radě ČT (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
+- [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)

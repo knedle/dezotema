@@ -741,6 +741,16 @@ Na shromáždění „Člověk na prvním místě" Vrabel rekapituluje hnutí od
 
 ---
 
+### „Šibenice nikdy nebyly na mé demonstraci“: atmosféru rozpoutala bývalá vláda (Rajchl, 24. 10. 2026)
+
+Ve Sněmovně Rajchl odpovídá kolegovi (v přepisu „Činčila“), který mu vyčítal davy a šibenice na demonstracích. Demonstrace podle něj svolával mimo jiné proti prodloužení pandemického zákona. Demonstranti tehdy na Malostranském náměstí vyslali delegaci k jednání, ale nikdo z poslanců s nimi nemluvil. Šibenice na jeho demonstracích prý nikdy nebyly. Na to, že mu dnes musí policie klestit cestu do Sněmovny, reaguje tím, že tuto atmosféru „rozpoutali“ oni.
+
+> „Tohle jste vy tady rozpoutali. Gratuluju vám.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
