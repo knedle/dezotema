@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Prymula předvolán před vyšetřovací komisi a skončí ve vězení (29. 10. 2026)
+
+**Předpověď:** Rajchl předvolá Romana Prymulu před vyšetřovací komisi ke covidovým opatřením a Prymula skončí ve vězení, protože „mu nikdo milost nedá“.
+
+> „Tak za to si vás před tu komisi jednou pozvu já. To je můj velký závazek. A až skončí, tak vy v tom vězení jednou schněte.“ — Jindřich Rajchl
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Prymula je pokrytec a lhář a jednou bude sedět ve vězení (29. 10. 2026)](_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026)
+
+---
+
 ### Jindřich Rajchl — Pfizer zkrachuje, pokud prohraje jedinou žalobu amerických států (25. 10. 2026)
 
 **Předpověď:** Pfizer čelí žalobám šesti amerických států za zatajování nežádoucích účinků vakcín. Pokud prohraje byť jedinou, zkrachuje kvůli pokutám v desítkách miliard.

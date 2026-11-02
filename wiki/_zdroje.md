@@ -5832,3 +5832,11 @@
 - **Datum záznamu:** 2026-10-28
 - **Zpracováno:** ano
 - **Poznámka:** 7 min 25 s, slavnostní projev ke státnímu svátku.
+
+## Rajchl — Prymula je pokrytec a lhář a jednou bude sedět ve vězení (29. 10. 2026) {#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-29_Jindřich-Rajchl_Prymula-je-pokrytec-a-lhář-a-jednou-bude-sedět-ve-věz.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1455204136726244>
+- **Datum záznamu:** 2026-10-29
+- **Zpracováno:** ano
+- **Poznámka:** 2 min 25 s, reakce na Prymulův výrok o „fantasmagorických teoriích“ v pořadu ČT.

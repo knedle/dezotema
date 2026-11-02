@@ -246,6 +246,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **16. 8.** — debata s moderátorkou Čermákovou (Prima, K věci) o proočkovanosti Ukrajinců a očkování v lékárnách; nedůvěra k odborníkům po covidu — [Facebook Live 16. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
 - **22. 10.** — dokument ČT „konečně odvysílal pravdu“: SARS-CoV-2 uměle vytvořen ve Wu-chanu za peníze USA; obhajoba Berana a Pekové, Morens přiznal vinu, Fauci chráněn Bidenovou milostí → [covid-vakciny.md](../covid-vakciny.md) — [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
 - **25. 10.** — média mají „krev na rukou“ (umlčení Berana, Isoprinosin, Ivermectin); Blatný a Flegr jako dezinformátoři; Pfizer zkrachuje při prohrané žalobě (→ [predikce](../predikce.md)) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+- **29. 10.** — Prymula „největší covidový pokrytec a lhář“ (roušky, rodina vydělala miliony); slib předvolat ho před vyšetřovací komisi, „ve vězení budete schnout“ (→ [stoch. teror](../stochasticky-teror.md), [predikce](../predikce.md)) — [Rajchl — Prymula je pokrytec a lhář a jednou bude sedět ve vězení (29. 10. 2026)](../_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
@@ -542,6 +543,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Marian Jurečka | ❌ negativní | „Půl pravdy“ o Nizozemsku si „mylně vygoogloval“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
 | Martina Bednářová | ✅ pozitivní | Odsouzena podle § 405, „extrémně líto“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
 | Talíř (poslanec) | ❌ negativní | „Naivní“, slovník by u slova „naivita“ měl jeho fotku; „falešný pokrytec“, který by utekl do Německa | 2026-10-26 | [Ohlédnutí 26. 10.](../_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026) |
+| Roman Prymula | ❌ negativní | „Největší covidový pokrytec a lhář“, rodina vydělala na pandemii miliony; „ve vězení budete schnout“ | 2026-10-29 | [Prymula 29. 10.](../_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026) |
+| Anthony Fauci | ❌ negativní | Bez Bidenovy milosti by „seděl do konce života“ | 2026-10-29 | [Prymula 29. 10.](../_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026) |
 
 ## Zpracované zdroje
 
@@ -687,3 +690,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 - [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](../_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)
 - [Rajchl — Krásné narozeniny, Česká republiko: projev k 28. říjnu (28. 10. 2026)](../_zdroje.md#jindřich-rajchl--krásné-narozeniny-česká-republiko-28-10-2026)
+- [Rajchl — Prymula je pokrytec a lhář a jednou bude sedět ve vězení (29. 10. 2026)](../_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026)

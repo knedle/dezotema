@@ -28,7 +28,17 @@ Rajchl tvrdí, že Česká televize „po šesti letech“ odvysílala dokument,
 
 > „A i vy máte tu krev na rukou, přátelé. I vy. Protože kdybyste neumlčovali profesora Berana […] tak tady mohly dneska být tisíce lidí naživu.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Prymula je pokrytec a lhář a jednou bude sedět ve vězení (29. 10. 2026)](_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026)
+
+---
+
+### Prymula „největší covidový pokrytec a lhář“ — „jednou si vás před komisi pozvu, ve vězení budete schnout“ (Rajchl, 29. 10. 2026)
+
+Na výrok Romana Prymuly, že pořad ČT s Rajchlem šíří „fantasmagorické teorie“ o původu viru, Rajchl odpovídá, že fantasmagorií je přeskok viru z netopýra na člověka. Laboratorní původ podle něj dnes zastává americký Kongres i FBI a Tulsi Gabbardová prý přiznala, že to USA věděly od začátku. Sám se prý v pořadu k původu viru nevyjádřil, mluvil jen o právních aspektech senátního slyšení Anthonyho Fauciho (Rand Paul). Prymulu nazývá „největším covidovým pokrytcem a lhářem v ČR“, protože kázal nošení roušek, sám je nenosil a jeho rodina prý „vydělala na pandemii na lidském utrpení miliony“. Fauciho by podle Rajchla bez Bidenovy milosti čekalo doživotí a Prymulovi se „jednou poštěstí to samé“. Slibuje, že ho jako politik „na začátku kariéry“ jednou předvolá před vyšetřovací komisi (viz [stochastický teror](stochasticky-teror.md) a [predikce](predikce.md)).
+
+> „Tak za to si vás před tu komisi jednou pozvu já. To je můj velký závazek. A až skončí, tak vy v tom vězení jednou schněte, protože vám nikdo žádnou milost nedá.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Prymula je pokrytec a lhář a jednou bude sedět ve vězení (29. 10. 2026)](_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026)
 
 ---
 
