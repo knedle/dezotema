@@ -5848,3 +5848,11 @@
 - **Datum záznamu:** 2026-10-30
 - **Zpracováno:** ano
 - **Poznámka:** 1 min 12 s, střih ze sněmovní debaty o financování ČT.
+
+## Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026) {#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-30_Jindřich-Rajchl_Můj-vzkaz-všem-lepševikům-kteří-chytli-hysterický-zác.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1140633405080406>
+- **Datum záznamu:** 2026-10-30
+- **Zpracováno:** ano
+- **Poznámka:** 2 min 50 s, monolog.

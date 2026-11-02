@@ -266,6 +266,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **18. 10.** — „Trump si vybral stranu, a není to Zelenský“ (Starlink, sankce); Johnson zmařil mír, Západ Ukrajinu obětoval; po pádu Kramatorsku a Slovjansku mír (→ [predikce](../predikce.md)); Zelenský žádá dalších 70 mld. € jako „narkoman“, „patří do Haagu“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 - **25. 10.** — Pavel jako kandidát na vyjednavače EU s Ruskem = „bezcharakterní korouhvička“, otočka horší než schválení invaze 68 → [petr-pavel.md](../petr-pavel.md); Istanbul + federalizace Ukrajiny, „krev na rukou“ za 2 mil. životů, v Kyjevě „všichni kradou“ (Musk, Kličko) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 - **26. 10.** — Talíř „naivní“ (výzvy Putinovi), Istanbul a „krev na rukou“; „byl bych první, kdo vezme zbraň“, oponenti by „utíkali do Německa“ — [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](../_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)
+- **30. 10.** — CAS vrací Rusy na MS v hokeji: „politika do sportu nepatří“, kolektivní vina je zlo; dvojí metr kritiků (Irák, Srbsko 1999, respekt k ÚS v kauze Ankara) — „pokrytci a farizejové“ — [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](../_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026)
 
 ## Zmíněné osoby
 
@@ -693,3 +694,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Krásné narozeniny, Česká republiko: projev k 28. říjnu (28. 10. 2026)](../_zdroje.md#jindřich-rajchl--krásné-narozeniny-česká-republiko-28-10-2026)
 - [Rajchl — Prymula je pokrytec a lhář a jednou bude sedět ve vězení (29. 10. 2026)](../_zdroje.md#jindřich-rajchl--prymula-pokrytec-a-lhář-vězení-29-10-2026)
 - [Rajchl — Koncesionářské poplatky jsou anachronismem: exekuce, Evropa a Izrael (30. 10. 2026)](../_zdroje.md#jindřich-rajchl--poplatky-anachronismus-exekuce-izrael-30-10-2026)
+- [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](../_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026)

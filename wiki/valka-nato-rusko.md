@@ -1428,6 +1428,16 @@ V debatě s poslancem Talířem Rajchl odmítá výzvy, ať „brnkne Putinovi�
 
 ---
 
+### Návrat ruské reprezentace na MS v hokeji: „politika do sportu nepatří“, kritici jsou „pokrytci a farizejové“ (Rajchl, 30. 10. 2026)
+
+Rozhodnutí Mezinárodního sportovního arbitrážního soudu (CAS), že ruská reprezentace se může vrátit na mistrovství světa v hokeji, Rajchl označuje za „zcela správné“. Politika podle něj do sportu nepatří, kolektivní vina je zlo a sport má národy sbližovat, „nikoli hloubit příkopy“. Kritikům rozhodnutí („lepševikům“) vyčítá dvojí metr. Nikdo prý nežádal vyloučení USA po invazi do Iráku, kde „zemřel milion lidí bez jakékoliv příčiny“. Česko se podle něj v roce 1999 podílelo na „protiprávní agresi vůči Srbsku“, protože přes jeho území létala letadla shazující bomby s ochuzeným uranem. Připomíná také, že tíž lidé po předběžném opatření Ústavního soudu, které Petru Pavlovi umožnilo cestu na summit NATO do Ankary, žádali respektovat nezávislý soud. Rozhodnutí sportovního soudu ale podle něj respektovat nechtějí, protože „se jim nehodí do krámu“.
+
+> „Jste pokrytci a farizejové, nic víc, nic míň.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026)
+
+---
+
 ### Válka skončí jen ruskými podmínkami, nebo „orešníkem vedle orešníku"; porážka Ruska = konec světa; elity v bunkrech (Černohorský, 22. 9. 2026)
 
 Černohorský tvrdí, že válka může skončit jen dvěma způsoby: buď EU „odstraní všechny eurohujerské děvky", přistoupí na ruské podmínky a uzavře příměří (čímž se „ještě část Ukrajiny zachrání"), nebo přijde „orešník vedle orešníku", vybombardovaná Ukrajina a další desítky tisíc mrtvých. Rusko podle něj jednoznačně vítězí, byť za vysokých ztrát (Ukrajina podle něj ztrácí 30 tisíc vojáků měsíčně), a jadernou velmoc, za níž stojí Čína, Indie, Saúdská Arábie, KLDR, Pákistán a BRICS, porazit nelze — kdyby Rusko „padlo na kolena", „končí svět"; odkazuje na expertní popis rakety Sarmat (15 hlavic, 50 klamných cílů). Politiky, kteří věří v porážku Ruska (Pavel, Kolář, Foltýn, Kupka, Fiala, Rakušan, Richterová, Hřib aj.), označuje za „tupé dementy" a „loutky" — „globální zmrdi, kteří ovládají svět", mají podle něj připravené podzemní bunkry se zásobami na sto let a klidně obětují ostatní v „jaderném holokaustu". Vyzývá Babiše, aby opustil „proukrajinskou rétoriku", skončil se zbrojením a přidal se k Ficovi v jednání s Putinem. Lidem, kteří tvrdí, že Rusko nemá rakety, podle něj chybí „důkaz" v podobě „vybombardovaného Kyjeva a Lvova, hnízda nacistických zmrdů". Tvrdí také, že kdyby vláda vyhlásila mobilizaci, spousta Čechů odejde do Ruska, vstoupí do ruské armády a politiky, kteří ničí ČR, „popraví" — viz [Stochastický teror](stochasticky-teror.md) a [predikce](predikce.md).
