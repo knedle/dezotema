@@ -5840,3 +5840,11 @@
 - **Datum záznamu:** 2026-10-29
 - **Zpracováno:** ano
 - **Poznámka:** 2 min 25 s, reakce na Prymulův výrok o „fantasmagorických teoriích“ v pořadu ČT.
+
+## Rajchl — Koncesionářské poplatky jsou anachronismem: exekuce, Evropa a Izrael (30. 10. 2026) {#jindřich-rajchl--poplatky-anachronismus-exekuce-izrael-30-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-30_Jindřich-Rajchl_Koncesionářské-poplatky-jsou-naprostým-anachronismem-.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/972275392605380>
+- **Datum záznamu:** 2026-10-30
+- **Zpracováno:** ano
+- **Poznámka:** 1 min 12 s, střih ze sněmovní debaty o financování ČT.
