@@ -1414,7 +1414,17 @@ Připouští, že lze vnímat Rusko jako hlavního viníka, protože překročil
 
 > „Vy máte tu krev na rukou. Vy jste zodpovědní za to utrpení obyčejného ukrajinského lidu.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)
+
+---
+
+### „Byl bych první, kdo vezme zbraň do ruky“ — zastánci války by „utíkali do Německa“ (Rajchl, 26. 10. 2026)
+
+V debatě s poslancem Talířem Rajchl odmítá výzvy, ať „brnkne Putinovi“ a ten zastaví válku, jako naivní. Taková varianta je podle něj „ze stolu“ a znovu odkazuje na nepodepsanou Istanbulskou dohodu. Na otázku, zda by sám bránil zemi, odpovídá, že by byl první, kdo vezme zbraň a půjde bránit Českou republiku proti jakémukoli nepříteli. Zastánci podpory Ukrajiny by naopak podle něj „utíkali do Německa“, protože umějí bojovat jen slovy a nikdy nenasadí vlastní život.
+
+> „Já bych byl první, kdo by vzal zbraň do ruky a šel by bránit Českou republiku proti jakémukoliv nepříteli. To vy byste utíkali do Německa.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)
 
 ---
 

@@ -262,6 +262,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **11. 10.** — válka „fakticky u konce“, Rusko dostane Kramatorsk a Slovjansk (→ [predikce](../predikce.md)); Zelenský „nejzkorumpovanější“, okrádání v době války „si zaslouží trest smrti“ (→ [stoch. teror](../stochasticky-teror.md)) — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 - **18. 10.** — „Trump si vybral stranu, a není to Zelenský“ (Starlink, sankce); Johnson zmařil mír, Západ Ukrajinu obětoval; po pádu Kramatorsku a Slovjansku mír (→ [predikce](../predikce.md)); Zelenský žádá dalších 70 mld. € jako „narkoman“, „patří do Haagu“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 - **25. 10.** — Pavel jako kandidát na vyjednavače EU s Ruskem = „bezcharakterní korouhvička“, otočka horší než schválení invaze 68 → [petr-pavel.md](../petr-pavel.md); Istanbul + federalizace Ukrajiny, „krev na rukou“ za 2 mil. životů, v Kyjevě „všichni kradou“ (Musk, Kličko) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+- **26. 10.** — Talíř „naivní“ (výzvy Putinovi), Istanbul a „krev na rukou“; „byl bych první, kdo vezme zbraň“, oponenti by „utíkali do Německa“ — [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](../_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)
 
 ## Zmíněné osoby
 
@@ -539,6 +540,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Petr Fiala | ❌ negativní | Poplatky jako další daň, „koupil si přízeň redaktorů ČT“; „právo na korigované informace“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
 | Marian Jurečka | ❌ negativní | „Půl pravdy“ o Nizozemsku si „mylně vygoogloval“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
 | Martina Bednářová | ✅ pozitivní | Odsouzena podle § 405, „extrémně líto“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Talíř (poslanec) | ❌ negativní | „Naivní“, slovník by u slova „naivita“ měl jeho fotku; „falešný pokrytec“, který by utekl do Německa | 2026-10-26 | [Ohlédnutí 26. 10.](../_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026) |
 
 ## Zpracované zdroje
 
@@ -682,3 +684,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Jan Moláček překročil všechny meze: dokument ČT o původu covidu, stížnost k Radě ČT (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
 - [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
 - [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+- [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](../_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)

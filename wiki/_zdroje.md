@@ -5816,3 +5816,11 @@
 - **Datum záznamu:** 2026-10-25
 - **Zpracováno:** ano
 - **Poznámka:** 56 min, nedělní živé vysílání (Rajchl nachlazený); bez sdílených videí.
+
+## Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026) {#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-26_Jindřich-Rajchl_Ještě-malé-ohlédnutí-za-minulým-týdnem.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1129219836146396>
+- **Datum záznamu:** 2026-10-26
+- **Zpracováno:** ano
+- **Poznámka:** 1 min 33 s, střih z debaty s poslancem Talířem.
