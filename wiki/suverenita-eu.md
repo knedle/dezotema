@@ -194,6 +194,20 @@ K úvaze Komise o passerelle klauzulích (kvalifikovaná většina v sankcích, 
 
 ---
 
+### 28. říjen: suverenita 1918 vs. „prodaná“ suverenita po 1989; skutečné ohrožení přichází z Bruselu (Rajchl, 28. 10. 2026)
+
+V projevu ke státnímu svátku Rajchl staví vznik republiky jako volbu „suverenity místo jistoty“. Otcové zakladatelé opustili Rakousko-Uhersko i rakouskou korunu a za prvních 20 let suverenity se země podle něj stala desátou největší ekonomikou světa. Po nacistické okupaci a sovětské éře prý Češi po roce 1989 historickou příležitost k plné suverenitě „vyměnili za slib rychlého zbohatnutí ze západní Evropy“ a „rozprodali vše, co mělo hodnotu“, místo aby navázali na Masaryka, Beneše, Rašína či Baťu.
+
+Varování opozice, médií a neziskovek, že svobodu ohrožuje ruská agrese nebo zrušení koncesionářských poplatků, označuje za „léčku“ a snahu zastrašovat. Válka na Ukrajině podle něj „není naší válkou“. Poplatky byly zavedeny už v roce 1954 a „s demokracií nemají vůbec nic společného“. Skutečné ohrožení podle něj přichází z Bruselu: ČR prý přejímá 60 % legislativy, nemůže bez „diktátorských podmínek“ postavit vlastní jadernou elektrárnu a je nucena „hyzdit krajinu větrnými elektrárnami“.
+
+Za základ suverénní politiky považuje zachování práva veta a koruny a nezatahování do války. Kdo dnes mluví o zbrojení nebo o „Spojených státech evropských“, v nichž by se ČR rozplynula, „není ničím menším než vlastizrádce“. Migraci a Green Deal nazývá „zkázou starého kontinentu“. Hospodářskou politiku chce stavět na protekcionismu a národních zájmech, „nikoliv na tom, co po nás chce Brusel, Washington, Moskva, Peking“. Dnes podle něj nikdo neriskuje život ani svobodu jako Rašín, Kramář a Masaryk, ale jen „nálepkování od pravdoláskařů“.
+
+> „Kdokoliv dnes mluví o zbrojení, kdokoliv dnes dokonce hovoří o tom, že by měly vzniknout nějaké spojené státy evropské, v níž by se Česká republika měla rozplynout, není ničím menším než vlastizrádce.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Krásné narozeniny, Česká republiko: projev k 28. říjnu (28. 10. 2026)](_zdroje.md#jindřich-rajchl--krásné-narozeniny-česká-republiko-28-10-2026)
+
+---
+
 ## EU a Green Deal
 
 ### EU jako „bruselský eurofašismus"

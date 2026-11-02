@@ -5824,3 +5824,11 @@
 - **Datum záznamu:** 2026-10-26
 - **Zpracováno:** ano
 - **Poznámka:** 1 min 33 s, střih z debaty s poslancem Talířem.
+
+## Rajchl — Krásné narozeniny, Česká republiko: projev k 28. říjnu (28. 10. 2026) {#jindřich-rajchl--krásné-narozeniny-česká-republiko-28-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-28_Jindřich-Rajchl_Krásné-narozeniny-Česká-republiko.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1783560346128315>
+- **Datum záznamu:** 2026-10-28
+- **Zpracováno:** ano
+- **Poznámka:** 7 min 25 s, slavnostní projev ke státnímu svátku.
