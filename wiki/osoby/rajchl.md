@@ -13,10 +13,12 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **2. 8.** — neudělení akreditace Zdislavě Pokorné vs. blokace webů v únoru 2022 (NIC.cz) — pokrytectví mainstreamu; vlastní zkušenost s výhrůžkou Rakušana a trestním stíháním občanů za názor — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 - **27. 9.** — Velká Británie zatýká za „verbální trestné činy" víc lidí než Rusko a Čína dohromady — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
 - **20. 10.** — koaliční shoda na úpravě § 405: trestat jen podněcování k násilí/nenávisti, ne „odchylný názor“ (Kapal/Katyň, Panenka) → [dsa-cenzura.md](../dsa-cenzura.md) — [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)
+- **25. 10.** — § 318a „kladivo na čarodějnice“, § 405 upravit, ne zrušit (Rakušan lže); kritika výkladu NS o „většinovém názoru demokratické společnosti“ — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ### [FARA a neziskovky](../fara-neziskovky.md)
 - Autor návrhu zákona FARA, kritika politických neziskovek financovaných ze zahraničí — [FARA: autorství a srovnání (29. 3. 2026)](../_zdroje.md#jindřich-rajchl--zákon-fara-autorství-a-srovnání-se-zahraničím)
 - **19. 7.** — ultimátum: dává vládě čas do podzimu předložit zákon FARA, jinak ho předloží sám; neziskovky (Člověk v tísni, Milion chvilek) jako ohrožení demokracie bez volebního mandátu — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
+- **25. 10.** — politické neziskovky „mor, zlo, cholera“, „vyhnat karabáčem a bičem“ (→ [stoch. teror](../stochasticky-teror.md)); zrušit mediální gramotnost, číst lze cokoli (TASS, Al Jazeera, Fox) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Dozimetr (parlamentní komise, Fremr/Rakušan KryptoCalt výpověď, nominace do vyšetřovací komise), Hřib (neoprávněné příjmy), Kettner (AI fotografie), dvojí metr justice (Pšenák/Hedia) — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
@@ -181,6 +183,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **21. 10.** — odpověď Moravcovi, který ho označil za „nácka“: „nácek“ je pro liberály každý odpůrce Green Dealu, války, eura a migrace; Moravec „nula“, žebrá o hosty u SPD → [media-propaganda.md](../media-propaganda.md) — [Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
 - **22. 10.** — stížnost k Radě ČT na Jana Moláčka („kukaččí mládě“ = přiznání cenzury); dokud ČT řídí lidé jako on, usiluje o její zrušení, „ani korunu“ → [media-propaganda.md](../media-propaganda.md) — [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
 - **24. 10.** — Nizozemsko platí média z rozpočtu, chystá škrty 150 mil. € a „nic se nestalo“, takže rozpočet dává ČT větší jistotu než poplatky; povinné poplatky jsou jako dálniční známka pro každého majitele auta → [media-propaganda.md](../media-propaganda.md) — [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
+- **25. 10.** — dokument „Rozpolceno“ (Škopková) vyvážený, Moláček by „za komunismu udělal kariéru“, Deník N „propagandistická žumpa“; ČT: Nizozemsko, 17 zemí EU, předplatné jako dálniční známka, 10 % rozpočtu na zpravodajství, zbytek „paraziti“; „tady jste na České“ (Valeš), Michal Půr lepší předseda ODS než Kupka — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -232,6 +235,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **16. 10. (2)** — zastává se novinářky Novinek Brodníčkové, které anonym vyhrožuje smrtí; dvojí metr Seznamu k výhrůžkám; vlastní výhrůžky (pálka, podpálení domu) → [kauzy.md](../kauzy.md) — [Zastání Brodníčkové (16. 10. 2026)](../_zdroje.md#jindřich-rajchl--zastání-karolíny-brodníčkové-16-10-2026)
 - **18. 10.** — 2. kolo Senátu: koalice bez senátora kvůli nespojení a účasti 21 %, STAN „mafiánské hnutí“, pád Pirátů a Dvořáka → [volby-2026.md](../volby-2026.md); Pavel: 15 000 € za let Casablanca–Praha nemožné, dva známí doplatili („pay for play“), „bolševický papaláš“, při cizí úhradě rezignovat → [petr-pavel.md](../petr-pavel.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 - **24. 10.** — „Šibenice nikdy nebyly na mé demonstraci“; demonstrace proti prodloužení pandemického zákona, s delegací nikdo nejednal; atmosféru „rozpoutali“ oni → [politicky-system.md](../politicky-system.md) — [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
+- **25. 10.** — páteční protest = „útok na Sněmovnu“ (zběsilí fanatici, Foldyna, kostka připsaná Dudové → [stoch. teror](../stochasticky-teror.md)); dvojí metr vůči jeho demonstraci 11. 3. 2023; pětikoalice s demonstranty nejednala, Rakušan „bez slitování“ — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -240,6 +244,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **2. 8.** — právní rozbor slyšení Fauciho (judikát 1896, milost od 2014, žaloby na Pfizer v 5 státech USA); volá po obdobném slyšení pro české experty (Primula) — [Facebook Live 2. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-2-8-2026)
 - **16. 8.** — debata s moderátorkou Čermákovou (Prima, K věci) o proočkovanosti Ukrajinců a očkování v lékárnách; nedůvěra k odborníkům po covidu — [Facebook Live 16. 8. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026)
 - **22. 10.** — dokument ČT „konečně odvysílal pravdu“: SARS-CoV-2 uměle vytvořen ve Wu-chanu za peníze USA; obhajoba Berana a Pekové, Morens přiznal vinu, Fauci chráněn Bidenovou milostí → [covid-vakciny.md](../covid-vakciny.md) — [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
+- **25. 10.** — média mají „krev na rukou“ (umlčení Berana, Isoprinosin, Ivermectin); Blatný a Flegr jako dezinformátoři; Pfizer zkrachuje při prohrané žalobě (→ [predikce](../predikce.md)) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
@@ -256,6 +261,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **7. 10.** — výdaje ≠ obranyschopnost, F-35 v r. 2035 „směšné“, odstrašujeme „zálohovými fakturami“ ([nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md)); jediný útočník na EU je Ukrajina (Nord Stream, Przewodów), o míru jednají jen USA a Rusko; Pavlova výzva k sestřelu „nesmysl“ — [Debata se Svárovskou (7. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-se-svárovskou-7-10-2026)
 - **11. 10.** — válka „fakticky u konce“, Rusko dostane Kramatorsk a Slovjansk (→ [predikce](../predikce.md)); Zelenský „nejzkorumpovanější“, okrádání v době války „si zaslouží trest smrti“ (→ [stoch. teror](../stochasticky-teror.md)) — [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 - **18. 10.** — „Trump si vybral stranu, a není to Zelenský“ (Starlink, sankce); Johnson zmařil mír, Západ Ukrajinu obětoval; po pádu Kramatorsku a Slovjansku mír (→ [predikce](../predikce.md)); Zelenský žádá dalších 70 mld. € jako „narkoman“, „patří do Haagu“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+- **25. 10.** — Pavel jako kandidát na vyjednavače EU s Ruskem = „bezcharakterní korouhvička“, otočka horší než schválení invaze 68 → [petr-pavel.md](../petr-pavel.md); Istanbul + federalizace Ukrajiny, „krev na rukou“ za 2 mil. životů, v Kyjevě „všichni kradou“ (Musk, Kličko) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ## Zmíněné osoby
 
@@ -510,6 +516,29 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | David Morens | ❌ negativní | Přiznal vinu za falšování záznamů o původu viru | 2026-10-22 | [Jan Moláček překročil všechny meze (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026) |
 
 ---
+| Petr Pavel | ❌ negativní | Kandidát na vyjednavače EU s Ruskem: „bezcharakterní korouhvička“, otočka o 180°, „vlastizrádce je on“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Boris Johnson | ❌ negativní | Zmařil Istanbulskou dohodu | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | „Král zlodějů“ v Kyjevě, kde „všichni kradou“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Vitalij Kličko | ○ neutrální | Cituje ho jako svědka Zelenského korupce | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Jana Škopková | ✅ pozitivní | Autorka dokumentu „Rozpolceno“, „jedna z nejlepších žurnalistek“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Jan Moláček | ❌ negativní | „Největší cenzor“, „etalon úpadku ČT“, za komunismu by „udělal kariéru“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Jiří Beran | ✅ pozitivní | „Světově uznávaná kapacita“, média ho umlčela (Isoprinosin) | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Luc Montagnier | ✅ pozitivní | Nobelista, podle něj virus vznikl v laboratoři | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Rand Paul | ✅ pozitivní | Senátní slyšení Fauciho: narušení důvěry ve vědu a stát | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Jan Blatný | ❌ negativní | „Kdo se naočkuje, nenakazí se“ = lež a dezinformace | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Jaroslav Flegr | ❌ negativní | „Blázen s toxoplasmózou“, „mrazáky v ulicích“ = dezinformace | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Kateřina Dudová | ❌ negativní | Připisuje jí dlažební kostku; „opilá, zneuznaná ženská“ živená z peněz ČT | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Jaroslav Foldyna | ✅ pozitivní | Oběť slovního i fyzického útoku protestujících | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Matěj Hlavatý | ❌ negativní | Ať se nevyjadřuje k ČT a stará se o rozpočet Tetína | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Barbora Urbanová | ❌ negativní | „Občanská společnost chce diskutovat“ vs. odmítnutí jednat s jeho demonstranty, ať „sklidí, co zasela“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Vít Rakušan | ❌ negativní | Tehdy vzkázal „žádné slitování“ s organizátory; lže o zrušení § 405 | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Jan Jakob | ❌ negativní | „Moula“: služby ČT prý využívá i ten, kdo se nedívá | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Lukáš Valeš | ✅ pozitivní | Moderátor ČT mu skákal do řeči: „tady jste na České“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Michal Půr | ✅ pozitivní | Nejvzdělanější moderátor, profesionál, lepší předseda ODS než Kupka | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Martin Kupka | ❌ negativní | „Teflonový panák“, s ním ODS skončí pod 5 % | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Petr Fiala | ❌ negativní | Poplatky jako další daň, „koupil si přízeň redaktorů ČT“; „právo na korigované informace“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Marian Jurečka | ❌ negativní | „Půl pravdy“ o Nizozemsku si „mylně vygoogloval“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
+| Martina Bednářová | ✅ pozitivní | Odsouzena podle § 405, „extrémně líto“ | 2026-10-25 | [Nedělní vysílání 25. 10.](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026) |
 
 ## Zpracované zdroje
 
@@ -652,3 +681,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Že neuhodnete, kdo mě za poslední dobu nejvíc pobavil: Moravec a „nácek“ (21. 10. 2026)](../_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026)
 - [Rajchl — Jan Moláček překročil všechny meze: dokument ČT o původu covidu, stížnost k Radě ČT (22. 10. 2026)](../_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
 - [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
+- [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)

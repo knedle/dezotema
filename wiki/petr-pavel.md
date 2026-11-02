@@ -634,3 +634,13 @@ Rajchl viní Petra Pavla, že jako „vrchní rozvědčík a generál" ve sporu 
 **Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
 
 ---
+
+### Pavel jako vyjednavač EU s Ruskem: „bezcharakterní korouhvička“ (Rajchl, 25. 10. 2026)
+
+Zprávu, že Petr Pavel patří mezi pět možných kandidátů na vyjednavače EU s Ruskem, a „chvalozpěvy“ liberální scény Rajchl označuje za neuvěřitelný názorový obrat. Pavel podle něj 4,5 roku tvrdil, že s agresorem se nevyjednává, že Ukrajina musí totálně zvítězit a že každý zastánce jednání je „kolaborant“ a „Putinův agent“. Tento obrat podle něj předčí i schválení invaze z roku 1968 v Pavlově životopise z roku 1987 a zapadá do řady jeho dalších „otoček“ (Maroko, komunistická minulost). Místo přiznání chyby by měl Pavel podle Rajchla uznat, že s ním Rusko jednat nebude. Dnes už prý může „vyjednat jen kapitulaci“. „Vlastizrádce“ je podle Rajchla Pavel, ne ti, kdo k jednání vyzývali.
+
+> „To je tak neuvěřitelná názorová otočka, že i to schválení invaze v roce 68 v tom jeho životopise z roku 1987 bledne.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+
+---

@@ -1256,4 +1256,6 @@ Ke zprávě Politica, že evropské vlády zvažují zvláštního zástupce pro
 
 > „Jednání o míru v zásadě ani neprobíhají. To, co probíhá, je jakási politická snaha o to, aby to vypadalo, že se o míru jedná.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+**25. 10. (Rajchl)** — Rajchl Pavlovu kandidaturu na vyjednavače EU označuje za obrat o 180° po 4,5 letech odmítání jednat s Ruskem; viz [petr-pavel.md](petr-pavel.md#pavel-jako-vyjednavač-eu-s-ruskem-bezcharakterní-korouhvička-rajchl-25-10-2026).
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)

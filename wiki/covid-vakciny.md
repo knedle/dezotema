@@ -24,7 +24,11 @@ Rajchl tvrdí, že Česká televize „po šesti letech“ odvysílala dokument,
 
 ⚡ **Konflikt:** Teze o umělém vytvoření viru v laboratoři je v rozporu s Tarabovou (virus nelze v laboratoři vytvořit přenosný, „infekční teorie“ neplatí) i se Zítkovým tvrzením, že SARS-CoV-2 nikdy nebyl izolován.
 
-**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
+**25. 10.** — Rajchl doplňuje, že původ viru z laboratoře dnes podle něj uznává FBI i americké tajné služby a že Tulsi Gabbardová přiznala, že to Američané věděli od začátku. Odvolává se i na Luca Montagniera (nobelista, objevitel HIV), podle něhož šlo o nepovedený a uniklý laboratorní experiment. Z dokumentu vyvozuje odpovědnost médií: kdyby neumlčovala prof. Berana a informovala o Isoprinosinu (prý během hodin zvyšuje počet bílých krvinek a imunitu) a o Ivermectinu (Nobelova cena 2015), „mohly tu dnes být tisíce lidí naživu“. Dezinformace podle něj šířili Blatný („kdo se naočkuje, nenakazí se“) a Flegr („mrazáky v ulicích, 40 000 mrtvých“). Pfizer podle něj žaluje šest amerických států za zatajování nežádoucích účinků.
+
+> „A i vy máte tu krev na rukou, přátelé. I vy. Protože kdybyste neumlčovali profesora Berana […] tak tady mohly dneska být tisíce lidí naživu.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ---
 

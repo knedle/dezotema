@@ -747,7 +747,11 @@ Ve Sněmovně Rajchl odpovídá kolegovi (v přepisu „Činčila“), který mu
 
 > „Tohle jste vy tady rozpoutali. Gratuluju vám.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
+**25. 10.** — V nedělním vysílání Rajchl páteční protest na Malostranském náměstí popisuje jako „útok na Sněmovnu“. Když se po půlnoci vracel z Nizozemska, „zběsilí fanatici“ (podle něj z části opilí) mu tvořili hradbu a policie je musela fyzicky odtlačovat. Slovně i fyzicky se prý útočilo na Jaroslava Foldynu, a nebýt policie, „došlo by k fyzickému lynči“. Odmítá článek Seznamu, že na záznamech není vidět pokus o vniknutí, protože mluvčí policie podle něj tvrdí opak. Dlažební kostku připisuje režisérce Kateřině Dudové, kterou ostře osobně napadá (viz [stochastický teror](stochasticky-teror.md)). Dvojí metr vidí v tom, že jeho demonstraci se 100 tisíci lidmi (11. 3. 2023) média ignorovala a pokus pár lidí strhnout ukrajinskou vlajku z Národního muzea (se kterým sám nesouhlasil) líčila jako „útok lůzy na demokracii“. Dnešní menší protest na Staroměstském náměstí naopak přenáší živě. Pětikoalice podle něj tehdy s demonstranty odmítla jednat s odkazem na volební mandát a Rakušan vzkázal, že s organizátory „nebude mít slitování“. Pětikoalice přitom podle Rajchla porušila program (zdražení plynu, daň z nemovitostí, valorizace, Ukrajina), kdežto současná koalice plní, co slíbila. Opozici (Urbanová) vzkazuje, ať „sklidí, co zasela“, a zákon FARA prý koalice prosadí, „i kdybyste se postavili na hlavu“.
+
+> „To je to skutečné ohrožení té demokracie. […] Ne to, že převedeme financování České televize pod státní rozpočet.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ---
 

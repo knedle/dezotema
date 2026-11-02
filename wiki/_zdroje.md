@@ -5808,3 +5808,11 @@
 - **Datum záznamu:** 2026-10-24
 - **Zpracováno:** ano
 - **Poznámka:** 2 min 6 s, výstup ve Sněmovně v debatě o financování ČT.
+
+## Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026) {#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-25_Jindřich-Rajchl_Skutečným-ohrožením-na-demokracii-není-převedení-nákl.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1102514252538868>
+- **Datum záznamu:** 2026-10-25
+- **Zpracováno:** ano
+- **Poznámka:** 56 min, nedělní živé vysílání (Rajchl nachlazený); bez sdílených videí.

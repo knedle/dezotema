@@ -404,4 +404,6 @@ Rajchl na tiskové konferenci oznamuje koaliční shodu na novele trestního zá
 
 > „To nejde smáznout tím, že vystoupí na tiskový konferenci a řeknou, my jsme teď trošku změnili trestní zákon.“ — Ladislav Vrabel
 
-**Zdroje:** [Rajchl — TK: novela trestního zákoníku (20. 10. 2026)](_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026), [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026), [Ladislav Vrabel — Facebook Live 21. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
+**25. 10. (Rajchl)** — V nedělním vysílání Rajchl argumentaci opakuje: § 318a je „kladivo na čarodějnice“ a vyzvědače lze stíhat podle § 316. Rakušan podle něj lže, že koalice chce § 405 zrušit, protože jde jen o jeho úpravu. Ostře kritizuje Nejvyšší soud za výklad, že úmysl pachatele je dán už vědomím odchylky „od většinového názoru demokratické společnosti“, protože podle něj „to už je zase ta strana a vláda“.
+
+**Zdroje:** [Rajchl — TK: novela trestního zákoníku (20. 10. 2026)](_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026), [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026), [Ladislav Vrabel — Facebook Live 21. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)

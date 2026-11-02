@@ -1410,7 +1410,11 @@ Rajchl shrnuje ucelený výklad příčin války, který podle něj mainstreamov
 
 Připouští, že lze vnímat Rusko jako hlavního viníka, protože překročilo hranice 24. 2. 2022, ale dokud si Západ nepřizná „obrovskou část viny", je podle něj odsouzen opakovat stejné chyby.
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
+**25. 10.** — Rajchl argument rozvíjí. Istanbulská dohoda, kterou podle něj potvrdil i ukrajinský vyjednavač David Arachamija, by Ukrajině ponechala kontrolu nad celým územím kromě Krymu. Donbas by získal autonomii s vlastní vládou a parlamentem jako v Československé federaci a federalizace by Ukrajině jen prospěla. Ti, kdo jednání odmítali a odpůrce války nazývali „chcimíry“, nesou podle něj vinu za „dva miliony lidských životů“, miliony uprchlíků, zadlužení a „chybějící dvě generace mužů“. Kyjevské vedení označuje za „šmejdy“, kteří rozkrádají zahraniční pomoc: v ukrajinské vládě prý „všichni kradou“ a Zelenskyj je „král zlodějů“, jak podle něj nyní říkají i Elon Musk a starosta Kyjeva Vitalij Kličko.
+
+> „Vy máte tu krev na rukou. Vy jste zodpovědní za to utrpení obyčejného ukrajinského lidu.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ---
 

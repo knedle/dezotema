@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Pfizer zkrachuje, pokud prohraje jedinou žalobu amerických států (25. 10. 2026)
+
+**Předpověď:** Pfizer čelí žalobám šesti amerických států za zatajování nežádoucích účinků vakcín. Pokud prohraje byť jedinou, zkrachuje kvůli pokutám v desítkách miliard.
+
+> „A jestli prohraje jednu tu žalobu, tak zkrachuje, protože to budou desítky miliard, které jim tam ten soud napálí jako pokutu.“ — Jindřich Rajchl
+
+**Horizont:** neurčeno (po rozhodnutí první ze žalob)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+
+---
+
 ### Ladislav Vrabel — po izraelských volbách USA znovu zaútočí na Írán (23. 10. 2026)
 
 **Předpověď:** Až v Izraeli vyhraje volby Benjamin Netanjahu, Spojené státy znovu zaútočí na Írán; současná „mírová jednání“ o Ukrajině jsou jen předvolební odvádění pozornosti.

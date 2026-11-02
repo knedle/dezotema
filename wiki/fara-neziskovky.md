@@ -101,3 +101,13 @@ Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letn
 > „Nemohou být financovány ze zahraničí. Že je to trestný čin. Tečka." — Jiří Černohorský
 
 **Zdroje:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+
+### Politické neziskovky jako „mor, zlo, cholera“; zrušit mediální gramotnost (Rajchl, 25. 10. 2026)
+
+Rajchl v nedělním vysílání popisuje debatu na CNN Prima News o zákoně FARA. Neziskovky zaměřené na mediální gramotnost podle něj lidem diktují, co je pravda a co lež, a „vypínají kritické myšlení“. Označuje je za politické neziskovky, které je třeba „vyhnat karabáčem a bičem“. Spolu s médii prý „drží lež při životě“, podněcují nenávist a násilí a „aktivizují dav“. Navrhuje zrušit jakoukoli mediální gramotnost a nechat lidi číst cokoli (Al Jazeera, TASS, Fox News, Politico), protože právo vyhledávat informace zaručuje Listina. Fialův výrok o právu na „korigované informace“ chápe jako návrat před rok 1989, kdy „pravdu určovala strana a vláda“. Zákon FARA je podle něj teprve začátek cesty.
+
+> „Politické neziskovky jsou mor, zlo, cholera téhle společnosti a právě společně s médii drží ty opratě, ty lži.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+
+---

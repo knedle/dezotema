@@ -133,7 +133,11 @@ V poslanecké sněmovně (**26. 6. 2026**), v debatě odbočivší od služební
 
 > „Prostě pokud nějakou službu nevyužívám, nemám jediný důvod za ni platit.“ — Jindřich Rajchl, [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
 
-**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026), [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026), [Rajchl — Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026), [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
+**25. 10.** — V nedělním vysílání Rajchl argument rozvádí. V Nizozemsku po oznámení škrtů prý hrozí propuštění 80 zaměstnanců a nikdo neprotestuje. Nejsvobodnější veřejnoprávní média jsou podle něj v 17 zemích EU placených z rozpočtu a stejný model se chystá i v Polsku. Námitku, že i pojištění platí všichni, odmítá: pojištění je solidární fond pro případ potřeby, ČT je služba jako dálnice. Navrhuje předplatné ČT „na rok, na měsíc, na den“. Demonstranti na Staroměstském náměstí si prý mají ČT zaplatit sami, třeba i rozpočtem 80 miliard. Zpravodajství a publicistika tvoří podle něj jen asi 10 % rozpočtu ČT a zbytek živí „neskutečné množství parazitů“, jejichž „umělecké projektíky“ by trh nezaplatil. Kdyby ČT skončila nebo stávkovala, „za měsíc to nikomu nebude chybět“. Převod pod rozpočet podpoří jako koaliční kompromis, sám ale dál prosazuje dobrovolné poplatky. Piráty a ODS, kteří zrušení poplatků měli v programu, nazývá „farizeji“.
+
+> „Pokud mě někdo nutí platit za službu, kterou nevyužívám, není to svoboda. To je diktatura. To je totalita.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Organizovaný zločin v politice (19. 4. 2026)](_zdroje.md#jindřich-rajchl--organizovaný-zločin-v-politice-dozimetr-bitcoin-čt-19-4-2026), [Rajchl — Videoportál: sněmovní debata o ČT (26. 6. 2026)](_zdroje.md#jindřich-rajchl--videoportál-sněmovní-debata-čt-26-6-2026), [Rajchl — Facebook Live 16. 8. 2026](_zdroje.md#jindřich-rajchl--facebook-live-16-8-2026), [Rajchl — Že neuhodnete, kdo mě pobavil: Moravec (21. 10. 2026)](_zdroje.md#jindřich-rajchl--moravec-nácek-21-10-2026), [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ---
 
@@ -193,7 +197,21 @@ Moláčkův výrok, že je třeba „pohlídat, aby se v ČT nevylíhlo kukačč
 
 > „Vy nejste majitelem tohoto veřejnoprávního média. Vy jste pouze zaměstnancem, kterého si platí naši lidé.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026)
+**25. 10.** — Rajchl se k tématu vrací v nedělním vysílání. Dokument „Rozpolceno“ Jany Škopkové („jedna z nejlepších žurnalistek“) podle něj dal prostor oběma stranám a týkal se jen původu viru, ne očkování. Kritici prý nenašli jedinou nepravdu a útočili jen ad hominem: že vystupovali Beran, Rajchl a Peková (ta přitom zazněla jen z archivu ČT). Odmítá titulky „Rajchl jako odborník na covid“, protože mluvil jen jako právník o senátním slyšení Anthonyho Fauciho. Na dotaz Deníku N odpověděl, že s „propagandistickou žumpou“ mluvit nebude. Moláček by podle něj „za komunismu udělal kariéru“, je „etalonem úpadku ČT“ a jeho výroky přisuzuje „zadání z Bruselu“. Na Radu ČT chce dorazit osobně. Pokud ČT bude v Moláčkově přístupu pokračovat, podle Rajchla „by neměla existovat vůbec“.
+
+> „Moláček, kdyby byl za komunismu, tak vám garantuju, že udělal kariéru, protože slepě jednoznačně prosazuje jenom a pouze názor strany a vlády.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+
+---
+
+### „Tady jste na České“: moderátoři ČT skáčou hostům do řeči; Michal Půr jako vzor profesionality (Rajchl, 25. 10. 2026)
+
+Rajchl odkazuje na video politologa Lukáše Valeše, kterému moderátor ČT opakovaně vstupoval do řeči. Na Valešovu námitku, že na Primě ani Nově se mu to neděje, prý moderátor odpověděl: „Ale tady jste na České.“ V té větě je podle Rajchla „úplně všechno“, protože moderátoři ČT podle něj „korigují“, ačkoli k tomu většinou nemají znalosti. Naopak Michal Půr (CNN Prima News) je podle něj nejvzdělanější moderátor, jehož názory při moderování „absolutně nepoznáte“. Rajchl tvrdí, že by z něj byl lepší předseda ODS než „teflonový panák“ Kupka.
+
+> „Kdyby Michal Půr vstoupil do politiky, tak by byl dneska nejlepším předsedou ODS. Garantuju vám to.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ---
 
