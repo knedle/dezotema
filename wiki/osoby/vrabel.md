@@ -2166,6 +2166,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Donald Tusk | ❌ negativní | „Největší válečný štváč v Polsku“, nástroj Bruselu k puči | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
 | Karol Nawrocki | ✅ pozitivní | „Konzervativnější a příčetnější“ než Tusk | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
 | Jaromír Zůna | ❌ negativní | „Drží linii NATO“ | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
+| Roman Fritz | ✅ pozitivní | Přítel, „perfektní rozhovor“; přeje mu odstranění Tuskovy vlády | 2026-10-31 | [Rozhovor s R. Fritzem 31. 10. 2026](../_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026) |
 
 ---
 
@@ -2361,3 +2362,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 - [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 - [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
+- [Rozhovor s R. Fritzem 31. 10. 2026](../_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026)

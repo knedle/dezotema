@@ -214,7 +214,7 @@ Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 20
 
 > „Proto Evropská unie použila svoje nejtvrdší metody a skrze Donalda Tuska se pokusili o ústavní puč za pomoci ozbrojené policie.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026)
 
 ---
 

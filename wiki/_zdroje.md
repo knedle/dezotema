@@ -5952,3 +5952,11 @@
 - **Datum záznamu:** 2026-10-31
 - **Zpracováno:** ano
 - **Poznámka:** 10 min 29 s, monolog před rozhovorem s Romanem Fritzem.
+
+## Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026) {#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-31_Ladislav-Vrabel_Poslanec-polského-Sejmu-Roman-Fritz-na-téma-ústavní-k.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1440977738146836>
+- **Datum záznamu:** 2026-10-31
+- **Zpracováno:** ano
+- **Poznámka:** 33 min, rozhovor; zhruba 70 % stopáže mluví host Roman Fritz (lámanou češtinou), jeho výroky nezpracovány.
