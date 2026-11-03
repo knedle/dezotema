@@ -1595,3 +1595,13 @@ K jednání Rady EU o hybridních hrozbách a k Rutteho návrhu žádat po Rusku
 V parodii Trumpovy logiky („zničíme Írán a bude mír") Vrabel popisuje tři cesty k míru: odzbrojení je nereálné, protože „většina společnosti jsou prostě mentálně zaostalí lidi" ovládaní médii; druhou cestou by bylo zničit USA, „největšího agresora od 2. světové války" — „kdyby se zničily Spojené státy, tak je velká pravděpodobnost, že by mohl nastat na celém světě mír", to ale nechce kvůli 330 milionům lidí; třetí je jaderná válka, která zničí celý svět — „docela reálná možnost". Připomíná, že od roku 2022 říká, že ČR bude znovu suverénní za 5–10 let a mezitím „si možná na dva, tři roky projde válkou", a že už v roce 2023 si v Bruselu dokázal představit, že „Rusové došli až do Bruselu, abychom vyčistili celou tu Evropu od nacismu". Polsko a ČR (přes polovinu munice pro Ukrajinu) podle něj čeká „bumerang". Válečná ekonomika „nemá žádnou hodnotu ze své podstaty", skutečná inflace je „samozřejmě dvouciferná".
 
 **Zdroje:** [Vrabel — Zprávy v devět 2. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-10-2026)
+
+### ČR klidně může spadnout do ruské sféry vlivu — „protáhly by se obličeje nácečkům“; SSSR nám nechal majetek, Západ všechno vzal (Vrabel, 26. 10. 2026)
+
+Vrabel tvrdí, že až bude Evropa „na kolenou“ a USA se dohodnou s Čínou a Ruskem, může se znovu vést dělicí čára jako za studené války a ČR, Polsko, východní Německo a Maďarsko mohou připadnout Rusku. Srovnává obě nadvlády: SSSR nám podle něj nechal podniky, banky a vlastnictví a nebyli jsme zadlužení, kdežto pod USA, NATO a EU „nám všechno vzali“. Tvrdí, že si to nepřeje, ale bylo by „vtipné“ vidět reakce oponentů, které nazývá „malými nácečky“. Sám chce samostatnou ČR s dobrými vztahy se všemi.
+
+> „Tak aspoň by se mi líbilo, jak by se protáhli obličeje těm všem nácečkům tady, jak by koukali.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+
+---

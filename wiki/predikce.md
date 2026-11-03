@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Ukrajina bude do roku 2029 v EU s velkou armádou, kterou zaplatíme my (26. 10. 2026)
+
+**Předpověď:** Ukrajina se „skoro stoprocentní jistotou“ vstoupí do EU (2029) a její armáda o 600–800 tisících mužích bude jádrem Evropské kolektivní obrany placené z evropských peněz.
+
+> „S skoro stoprocentní jistotou je, že Ukrajina bude součástí Evropské unie, bude mít velkou armádu a my ji budeme platit.“ — Ladislav Vrabel
+
+**Horizont:** 2029
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+
+---
+
+### Ladislav Vrabel — po útoku v Pobaltí, Polsku nebo Rumunsku přijde článek 5 a válečný stav (26. 10. 2026)
+
+**Předpověď:** Nejdřív dojde k útoku v Pobaltí, Polsku nebo Rumunsku, pak se aktivuje článek 5 a vyhlásí válečný stav; „nebude to trvat až zas tak dlouho“.
+
+> „Spíš si myslím, že dojde nejdřív nějakému útoku a potom půjde rovnou článek 5 a pak vyhlášení válečného stavu.“ — Ladislav Vrabel
+
+**Horizont:** „v nejbližší době“
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+
+---
+
+### Ladislav Vrabel — koruna v ústavě neprojde (26. 10. 2026)
+
+**Předpověď:** Vládní návrh zakotvit korunu do ústavy nezíská ústavní většinu ve Sněmovně ani v Senátu.
+
+> „Nepočítejte s tím, protože k tomu je potřeba ústavní většina … v žádném případě mít nebudou.“ — Ladislav Vrabel
+
+**Horizont:** toto volební období
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+
+---
+
 ### Ladislav Vrabel — srbská vojenská neutralita zůstane, Srbsko nepůjde na žádnou stranu (25. 10. 2026)
 
 **Předpověď:** Bez ohledu na vývoj studentského hnutí zůstane srbská vojenská neutralita a Srbsko se nepostaví na žádnou stranu konfliktu Ruska a Ukrajiny.

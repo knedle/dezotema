@@ -998,6 +998,16 @@ Podle zprávy společnosti Anthropic bojovníci napojení na jemenské Húsíje 
 
 ---
 
+### Násilné protesty v Evropě jako řízené odvedení pozornosti před válkou; Babiš má od tajných služeb informace o 17. listopadu (Vrabel, 26. 10. 2026)
+
+Vrabel tvrdí, že protesty od Albánie po Irsko, které vznikly během dvou týdnů, nemohou být spontánní a jsou „řízenou akcí“ globalistů, stejně jako covid a migrace. Na rozdíl od šéfredaktora Aeronetu („VK“), který čeká výjimečný stav, předpokládá útok v Pobaltí, Polsku nebo Rumunsku, aktivaci článku 5 a vyhlášení válečného stavu. Babišovo varování, že opozice a Milion chvilek chtějí zneužít 17. listopad, podle něj spíš vychází z informací tajných služeb. Globalisté ale Babiše svrhnout nechtějí, protože „šlape jak hodinky“ (půjčka Ukrajině, muniční iniciativa, F-35). Cílem je podle něj rozdělit společnost, aby se lidé „nezabývali tím, co se připravuje“. Do stejného rámce řadí ČT, ČRo a Minářovu demonstraci na Staroměstském náměstí („čisté štvaní“).
+
+> „Co mě se týče, tak předpokládám velmi podobný scénář, ale spíš si myslím, že dojde nejdřív nějakému útoku a potom půjde rovnou článek 5 a pak vyhlášení válečného stavu.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+
+---
+
 ### Drobná pozorování: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze (Vrabel, 13. 9. 2026)
 
 Vrabel zmiňuje dvě krátká, nerozvedená pozorování jako doklad neúplné/selektivní denacifikace a bagatelizace nacistické minulosti: podle „včerejší" zprávy měl nacistický lékař Josef Mengele žít po válce ve Švýcarsku; v Praze se navíc běžně prodávají hrníčky s portrétem Adolfa Hitlera jako suvenýr pro turisty.

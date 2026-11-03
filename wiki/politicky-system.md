@@ -765,6 +765,16 @@ Vrabel poprvé předpovídá, že se na Západě „velmi brzo“ začnou objevo
 
 ---
 
+### Brazílie: soud prodloužil volby o dvě hodiny, „aby vyhrál Lula“ — jako Georgescu v Rumunsku; „satanismus a absolutní lži“ (Vrabel, 26. 10. 2026)
+
+Vrabel tvrdí, že Bolsonaro o půlnoci vyhrával a volební soud prodloužil hlasování o dvě hodiny, během nichž Lula získal náskok 4,5 milionu hlasů. Srovnává to se zrušenými volbami v Rumunsku (Georgescu podle něj „nemohl být prezident, protože byl proruský“). Mezinárodní právo podle něj neplatí, „kdo vyhrává, vyhrává z pozice síly“, a západní lídři (Macron) okamžitě gratulují, aby výsledek legitimizovali. Paralelu vidí v Rajchlovi, který podle něj „udával lidi za Z“, a teď se prezentuje jako bojovník za svobodu slova přes zesnulého Kapala, což nazývá „hyenismem“.
+
+> „Šup, to tam nasypali Lulovi a vyhrál Lula. A to je ta demokracie, kterou my dneska si tady žijeme.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

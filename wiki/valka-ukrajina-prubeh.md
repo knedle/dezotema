@@ -1259,3 +1259,13 @@ Ke zprávě Politica, že evropské vlády zvažují zvláštního zástupce pro
 **25. 10. (Rajchl)** — Rajchl Pavlovu kandidaturu na vyjednavače EU označuje za obrat o 180° po 4,5 letech odmítání jednat s Ruskem; viz [petr-pavel.md](petr-pavel.md#pavel-jako-vyjednavač-eu-s-ruskem-bezcharakterní-korouhvička-rajchl-25-10-2026).
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+
+### Zelenskyj nabízí 25 % území výměnou za vojska NATO — jednání „stoprocentně neúspěšná“; ukrajinskou armádu v „Evropské kolektivní obraně“ zaplatíme my (Vrabel, 26. 10. 2026)
+
+Vrabel odmítá výklad, že Zelenskyj kapituloval. Ochota postoupit 25 % území je podle něj podmíněna rozmístěním vojsk NATO na Ukrajině, armádou 600–800 tisíc mužů a odmítnutím neutrality, což jsou pro Rusko nepřekročitelné linie (Rusko podle něj připouští nejvýš 80 tisíc vojáků). Armáda této velikosti by stála 35–65 mld. eur ročně, zhruba třetinu předválečného HDP Ukrajiny, a platila by ji EU. Ukrajina bude podle něj „skoro se stoprocentní jistotou“ do roku 2029 v EU a její armáda bude jádrem „Evropské kolektivní obrany“ (NATO bez USA), ledaže Rusko vyhraje. Ze „zákulisních zdrojů“ uvádí, že Rusové chtějí být v Kyjevě do poloviny března.
+
+> „Takže budoucnost, tak jak se před náma rýsuje, … s skoro stoprocentní jistotou je, že Ukrajina bude součástí Evropské unie, bude mít velkou armádu a my ji budeme platit.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+
+---

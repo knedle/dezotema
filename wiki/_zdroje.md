@@ -5896,3 +5896,11 @@
 - **Datum záznamu:** 2026-10-25
 - **Zpracováno:** ano
 - **Poznámka:** 3 min 20 s, namluvený reportážní spot na Vrabelově kanálu (z přepisu nelze ověřit, zda mluví sám Vrabel); totéž video pustil v nedělním vysílání 25. 10.
+
+## Ladislav Vrabel — Zprávy v devět 26. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-26-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-26_Ladislav-Vrabel_26-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1656847035795510>
+- **Datum záznamu:** 2026-10-26
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 16 min, zprávy čte Zuzana, Vrabel vysílá ze Srbska; bez sdílených videí.

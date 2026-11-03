@@ -188,7 +188,11 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 > „Na druhou stranu rozhodně tenhle studentský pokret není něco, co by bylo proti srbský, nebo pro ukrajinský, nebo nedej bože pro Evropskou unii, nebo nedej bože pro NATO. To vůbec nepřipadá v úvahu.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
+**26. 10.** — Ve zprávách Vrabel výsledek hodnotí jako možná „dobrý“, protože jinak by protesty eskalovaly. Nejde podle něj o rok 1989 ani o Ukrajinu, ale o souboj, „kdo je víc pronárodní“. Studentské hnutí slibuje tvrdší postoj ke Kosovu, žádné sankce proti Rusku a referendum o EU. Nenávist k Vučićovi podle něj vytvořily „západní televize“, politicky se ale Západu Srbsko „zobchodovat“ nepodaří. Kosovo a Republiku srbskou podle něj čeká řešení po válce na Ukrajině v rámci „další Jalty“.
+
+> „Takže tam je to boj o to, kdo je víc pronárodní, jestli Vučić, nebo studenti.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026), [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 
 ---
 
