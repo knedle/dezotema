@@ -1054,6 +1054,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **19. 10.** — souhlas s Babišovou výzvou, „média zdivočela“; mediální zákon s licencemi a likvidačními pokutami za válečnou propagandu; mediální „popravy“ (Bárta, Nečas, Rath, on sám) — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **23. 10.** — Facebook potlačuje dosah (25 z 34 tisíc), „média na míru“ a politické cílení přes Palantir; studentské protesty dělají sociální sítě; odpovědní „do vězení na 20–30 let“ (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
 - **24. 10.** — protest za poplatky ČT = obrana „válečné propagandy“, umělá bublina; dvojí metr policie (Blahníková vs. útočníci na Foldynu), stát „pěstuje teroristy“ — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+- **24. 10.** — demonstranti za poplatky „idioti nejvyššího kalibru“, „idiocie“; ČR čeká vývoj jako na Ukrajině, jen bez Majdanu — [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 11)
 - **9. 9.** — opakuje beze změny výzvu „zachraň se, kdo můžeš" (Jugoslávie jako analogie) — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
@@ -2094,6 +2095,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Patryk Jaki | ❌ negativní | Lež o Lavrovově dopise, aby byl slavný | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
 | Ivanka Trumpová, Jared Kushner, Edi Rama | ❌ negativní | „Elitářská parta“ privatizuje Albánii | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
 | Tucker Carlson | ⚖️ rozporuplný | Souhlasí s jeho tezí o demografii Evropy, opravuje ho v číslech o Rusku | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
+| Petr Macinka | ❌ negativní | Podporuje Pavla jako evropského vyjednavače, „zařadil se“ | 2026-10-24 | [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026) |
 
 ---
 
@@ -2278,3 +2280,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 - [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
 - [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+- [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)

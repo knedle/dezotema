@@ -225,7 +225,11 @@ Vrabel tvrdí, že lidé, které nezajímají cizí vojáci ani francouzské jad
 
 > „Ale prostě vadí jim, že by jejich válečná propaganda, médium hlavní válečné propagandy, nebylo ovině financováno z rukou každého občana. To je naprosto šílená schizofrenní situace.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+**24. 10. (Facebook Live)** — Ve večerním vysílání z Bělehradu Vrabel kritiku vyostřuje. Lidé podle něj „obsazují náměstí kvůli 200–300 korunám“ za vlastní válečnou propagandu, ale nezajímají je jaderné zbraně, cizí vojáci, válka ani „rozprodaná země“. Nazývá to „idiocií“ a lidi „idioty nejvyššího kalibru“ s mozky „vygumovanými“ televizí. V ČR se podle něj rozehrává totéž co na Ukrajině, jen bez Majdanu, protože lidé se „na povel“ podřídí „pár prodejným podvodníkům“.
+
+> „Tomu opravdu říkám idiocie. Toto se nedá už jinak, to už se jinak nedá nazvat.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
 
 ---
 

@@ -5864,3 +5864,11 @@
 - **Datum záznamu:** 2026-10-24
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 19 min, zprávy čte Zuzana; krátký sdílený klip Tuckera Carlsona (angl.), jinak Vrabel.
+
+## Ladislav Vrabel — Facebook Live (24. 10. 2026) {#ladislav-vrabel--facebook-live-24-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-24_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1848966306542090>
+- **Datum záznamu:** 2026-10-24
+- **Zpracováno:** ano
+- **Poznámka:** 8 min, monolog z procházky po Bělehradě; bez sdílených videí.
