@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Babiš na listopadovém summitu „odmává“ společný dluh EU pro Ukrajinu (29. 10. 2026)
+
+**Předpověď:** Na summitu EU koncem listopadu Babiš odsouhlasí společný dluh na financování Ukrajiny (70–77 mld. eur).
+
+> „Už teď vám tady říkám, že předpokládám, že odmává.“ — Ladislav Vrabel
+
+**Horizont:** konec listopadu 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---
+
+### Ladislav Vrabel — Netanjahu nesestaví vládu (29. 10. 2026)
+
+**Předpověď:** Po izraelských volbách (Netanjahu 53 mandátů, opozice 48, arabské strany 19) Netanjahu nedokáže sestavit vládu.
+
+> „Myslím si, že vládu, že Netanyahu neudělá vládu.“ — Ladislav Vrabel
+
+**Horizont:** povolební jednání
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---
+
+### Ladislav Vrabel — Rusko použije jaderné zbraně, až bude prohrávat (9:1) (29. 10. 2026)
+
+**Předpověď:** Rusko sáhne po jaderných zbraních, až začne prohrávat válku s Evropou, a okamžitě, kdyby je použila Evropa; válka Evropy s Ruskem je „na 99 %“ (opakuje).
+
+> „Tak sázím devět ku jedné, že použijou jadernou zbraň. A kdyby náhodou Evropa použila nějakou jadernou zbraň, tak ji použijou okamžitě.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---
+
 ### Ladislav Vrabel — nová srbská vláda sankce proti Rusku nezavede (28. 10. 2026)
 
 **Předpověď:** Srbsko sankce proti Rusku nezavede; kdyby je nová vláda navrhla, budou ulice znovu plné.

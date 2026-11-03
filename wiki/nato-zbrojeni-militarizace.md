@@ -74,6 +74,16 @@ Vrabel reaguje na zprávu, že Ukrajina žádá od muniční iniciativy velkorá
 
 ---
 
+### Muniční iniciativa: ČR jde „přes minové pole“ za ostatní — cejch na desetiletí a horší cena ruského plynu (Vrabel, 29. 10. 2026)
+
+Vrabel tvrdí, že státy, které nechtějí být viděny jako dodavatelé zbraní proti Rusku, se schovávají za českou muniční iniciativu a ČR je „svým jménem“ posílá dál. Babiš ji podle něj zachoval, protože to chtěli „partneři z NATO“, a upřednostnil je před bezpečností Čechů. Až se Rusko a USA dohodnou na obchodu (Nord Stream s USA jako prostředníkem), dostanou podle něj země, které zbraně nedodávaly, nižší cenu plynu, kdežto ČR bude „na desetiletí zapsaná“ jako nepřítel a u stolu nebude. Vinu dává Fialovi i Babišovi.
+
+> „Je jedna výjimka, kdy chodí před manželem, a to je, když jdou přes minový pole. A to je přesně ono, tohleto Česká republika jde vepředu přes minový pole. To je muniční iniciativa.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---
+
 ### Obnovení ekonomických vztahů s Ruskem — absence ČR na fóru v Petrohradu (Vrabel, 3. 6. 2026)
 
 K Mezinárodnímu ekonomickému fóru v Petrohradu (s avizovaným vystoupením Putina 5. 6.) Vrabel konstatuje, že ČR tam nemá zastoupení, a volá po narovnání a obnovení obchodních vztahů s Ruskou federací — desítky let fungujícího partnerství (i za SSSR). Argumentuje, že Rusko je zdrojem nejlevnějšího a nejčistšího plynu a ropy a největší sousední jadernou velmocí. Navazuje na svou dřívější tezi, že EU se odpojením od ruských energií dobrovolně poškodila (viz [EU ekonomika vybudována na levném ruském plynu](ceny-energie.md#eu-ekonomika-vybudována-na-levném-ruském-plynu--vzdáváme-se-jí-dobrovolně-vrabel-18-5-2026)).

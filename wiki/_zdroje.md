@@ -5928,3 +5928,11 @@
 - **Datum záznamu:** 2026-10-28
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 7 min, zprávy čte Zuzana; úryvek Vondráčkova videa a Krylova píseň nezpracovány; závěrečná organizační pasáž k plakátům 17. 11.
+
+## Ladislav Vrabel — Zprávy v devět 29. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-29-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-29_Ladislav-Vrabel_29-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1211967204650345>
+- **Datum záznamu:** 2026-10-29
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 13 min, zprávy čte Zuzana; bez sdílených videí.

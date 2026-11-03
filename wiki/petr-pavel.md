@@ -644,3 +644,13 @@ Zprávu, že Petr Pavel patří mezi pět možných kandidátů na vyjednavače 
 **Zdroje:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ---
+
+### Pavel vyznamenal youtubera za boj s dezinformacemi — Vrabel by medaili odmítl; Lorencová mu prý volala, že ji „chtějí zabít“ (Vrabel, 29. 10. 2026)
+
+Ke zprávě, že prezident Pavel 28. 10. udělil medaili youtuberovi za vysvětlování společenských témat a odhalování dezinformací, Vrabel říká, že ho nezná, a zesměšňuje ho. Od „agenta Pávka“ by vyznamenání nepřijal. Jako morální vzor uvádí Janu Lorencovou, která vrátila Řád Bílého lva poté, co ho dostal Zelenskyj. Tvrdí, že ji navštívil v Ostravě, slíbila mu „tajné dokumenty“, které nikdy nedostal, a před smrtí mu z nemocnice volala, že se ji někdo pokouší zabít. Telefonát má podle svých slov nahraný.
+
+> „Ona mi volala z nemocnice, dokonce mám nahraný ten telefonát, že ji se pokouší zabít.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---

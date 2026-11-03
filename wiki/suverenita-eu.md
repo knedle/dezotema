@@ -632,7 +632,27 @@ Podle deníku Berliner Zeitung Evropská komise v odpovědi na dotaz europoslanc
 
 Evropská komise oznámila vyplacení 897 mil. eur (~21,8 mld. Kč) České republice z Nástroje pro oživení a odolnost — ČR tak vyčerpala 88 % svého celkového přídělu (8,67 mld. eur), zbývající cíle musí splnit do konce srpna. Vrabel k tomu rozvíjí kritiku Národního plánu obnovy jako celku: fond vznikl oficiálně k obnově ekonomiky po covidu, ale peníze (40 % Green Deal, 20 % digitalizace) ve skutečnosti slouží stejnému účelu jako všechny „finanční nástroje globalizace" posledních desetiletí — přesunu bohatství k elitám na úkor běžných lidí. Konkrétně: v energetice fond financuje přechod od soběstačnosti (ČR byla čistým vývozcem elektřiny) k závislosti na dovozu (cílem má být energetická velmoc Německo, ne ČR); v „digitalizaci" jde o infrastrukturu digitální kontroly občanů (kamery, sběr dat, příprava sítě 6G), nikoli jen o elektronizaci úřadů; ve zdravotnictví fond podle Vrabela financuje centralizaci (viz jeho kritiku zavírání menších onkologických pracovišť a nedostatku léků z předchozího dne), nikoli skutečné zlepšení péče. Zdůrazňuje, že ČR je čistým plátcem do rozpočtu EU — peníze, které „dostává", jsou ve skutečnosti její vlastní prostředky vrácené s podmínkami, na co je smí použít.
 
-**Zdroje:** [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026), [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---
+
+### „Sdílený dluh“ EU pro Ukrajinu (70 mld. eur) — Babiš ho podle Vrabela odmává; na frontu dojde pětina (Vrabel, 29. 10. 2026)
+
+Vrabel tvrdí, že EU už nemá peníze a její dluhopisy nikdo nechce. Ukrajinu proto chce financovat třemi cestami: vyššími rozpočty, úsporami občanů (Savings and Investments, Drobilův program „Národ sobě“) a nově společným dluhem, o němž se má jednat na summitu koncem listopadu. Babiš to podle něj „odmává“. Na bojiště prý dojde jen asi pětina peněz, zbytek se rozkrade. Válku popisuje jako nevydařený „biznis projekt“ porazit Rusko a získat jeho nerostné bohatství, do kterého se dál „cpou“ peníze, ačkoli Ukrajina bez přímého zapojení NATO podle něj vyhrát nemůže a přijde o zbytek území. Ke schválené závěrečné platbě 23 mld. Kč z Národního plánu obnovy opakuje, že peníze jdou do Green Dealu a digitalizace, ne do obnovy ekonomiky.
+
+> „Andrej Babiš pojede do Evropské unie na konci listopadu a už teď vám tady říkám, že předpokládám, že odmává.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---
+
+### Předčasný odchod Lagardeové z ECB — „něco blbého se v Evropě chystá“; ocenění za odpor k zabavení ruských aktiv (Vrabel, 29. 10. 2026)
+
+K oznámení, že Christine Lagardeová v únoru 2027 předčasně opustí ECB, Vrabel tvrdí, že odchod nemá rozumný důvod. Buď má slíbenou pozici (WEF, MMF, zbrojní průmysl, banka), nebo se „chystá obyčejná válka v Evropě“, případně nechce být u společného dluhu, protože vidí, že Evropa „jde do kytek“. Ačkoli ji má za „silnou globalistku“, oceňuje, že se postavila proti zabavení zmrazených ruských aktiv, a možná tak Evropě zachránila „dva roky života“ před krachem.
+
+> „Někde má něco slíbeného, nebo se chystá něco v Evropě blbýho.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 
 ---
 

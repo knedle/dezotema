@@ -1165,6 +1165,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 ### [Petr Pavel](../petr-pavel.md) (pokrač. 4)
 - **13. 9.** — formálně převzal zastupování zahraniční politiky ČR od Babiše na summitu NATO v Tiraně (dohoda s Macinkou/Babišem, dle ČT24) — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
 - **9. 10.** — Pavel tryskáčem z Maroka na volby, „radši bych mu dal karabáčem“, „generál NATO pro válku“ — [Facebook Live 10. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-10-2026)
+- **29. 10.** — medaili od „agenta Pávka“ by odmítl; Lorencová mu prý volala, že ji „chtějí zabít“ — [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 
 ### [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md) (pokrač. 15)
 - **13. 9.** — ztrojnásobení Frontexu (300 mil. EUR, 3× personál) jako příprava na uzavření hranic při válce, ne na migraci — [Nedělní vysílání 13. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-13-9-2026)
@@ -1247,6 +1248,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **19. 10.** — střela Narval jako válečná propaganda, „sirky“, Heydrich; Starlink jako „Star Shield“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **22. 10.** — rozpočet 2027: obrana +23,3 %, „mírová vláda“ dává na válku víc než Fiala; zmrazená aktiva Rusové soudně získají, EU může zbankrotovat (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 - **28. 10.** — požár u brněnského zbrojaře = „konkurence“, ne Rusové; zbrojaři „žijí z krve“, Babiš a von der Leyenová se kryjí — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+- **29. 10.** — muniční iniciativa = ČR jde „přes minové pole“ za ostatní, cejch na desetiletí a horší cena plynu — [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1298,6 +1300,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **26. 10.** — Srbsko: výsledek možná „dobře“, souboj o to, „kdo je víc pronárodní“; Kosovo v „další Jaltě“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - **27. 10.** — koruna v ústavě „padělek“ (čl. 10 Ústavy), jediná cesta je vystoupení z EU; srbští studenti provedli „nenásilnou revoluci, to, co my jsme chtěli“ — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 - **28. 10.** — Srbsko jediná vítězná nenásilná revoluce vs. Vondráček sbírající podpisy pod dopis von der Leyenové — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+- **29. 10.** — sdílený dluh EU pro Ukrajinu, Babiš „odmává“ (→ [predikce](../predikce.md)); odchod Lagardeové z ECB, „něco blbého se chystá“ — [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -2144,6 +2147,11 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Ryan Williams | ✅ pozitivní | „Sympatický kluk“, s jeho výroky o islámu souhlasí | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
 | Jana Kovářová (senátorka) | ✅ pozitivní | Jediná politička, u které „neviděl faul“ | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
 | Ursula von der Leyenová | ❌ negativní | Pfizergate, zakázky z ruky, „satanistky“ | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
+| Christine Lagardeová | ⚖️ rozporuplný | „Silná globalistka“, ale postavila se proti zabavení ruských aktiv | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
+| Jana Lorencová | ✅ pozitivní | Vrácení Řádu Bílého lva jako „morální kompas“; údajně jí šlo o život | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
+| Pavel Drobil | ❌ negativní | „Národ sobě“ „satanisticky“ vyvádí úspory na Ukrajinu | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
+| Sebastian Kurz | ✅ pozitivní | „Zbytky zdravého rozumu, antiglobalista“, byl vyštván | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
+| Peter Pellegrini | ❌ negativní | Má slíbenou kariéru v NATO | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
 
 ---
 
@@ -2336,3 +2344,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 - [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 - [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+- [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
