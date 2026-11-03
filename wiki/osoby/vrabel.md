@@ -1289,6 +1289,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **18. 10.** — „lakmusový papírek“ vlastenectví = vystoupení z EU a NATO; Okamura v Srbsku, vystoupení „ekonomicky výhodný“, veto zruší; V4 se nesjednotí, EU se rozpadne nebo bude totalitní — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026)
 - **19. 10.** — ETS2: „proč nevystoupí z EU?“, Babiš „sklapne krovky“, „99 ku 1“ (→ [predikce](../predikce.md)); „Brusel je nadřízený Praze“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **21. 10.** — srbští studenti placeni „ze zahraničních fondů“, globalisté proti Vučićovi kvůli barevné revoluci; Srbsko jako vzor — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- **25. 10.** — srbské volby: studenti vyhráli, hnutí je ale „pronárodní“, ne prozápadní (odklon od „barevné revoluce“); neutralita zůstane (→ [predikce](../predikce.md)) — [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -2106,6 +2107,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Tomáš Čermák | ✅ pozitivní | Nespravedlivě 5,5 roku za slova | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
 | Vladimír Štěpán, Petr Drulák | ❌ negativní | „Elitáři“, nejsou alternativou | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
 | Aleksandar Vučić | ✅ pozitivní | Lituje jeho porážky, Srbsko „poslední svobodná země“ | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
+| Studentské hnutí (Srbsko) | ⚖️ rozporuplný | Pronárodní a mimo vliv EU, ale jako nová síla „nebezpečné“ | 2026-10-25 | [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026) |
+| Vojislav Koštunica | ✅ pozitivní | „Náš přítel“, autor ústavní vojenské neutrality | 2026-10-25 | [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026) |
+| Péter Magyar | ❌ negativní | Chce dostat Orbána do vězení | 2026-10-25 | [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026) |
 
 ---
 
@@ -2292,3 +2296,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 - [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
 - [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+- [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)

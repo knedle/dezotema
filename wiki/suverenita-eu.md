@@ -182,6 +182,16 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 ---
 
+### Srbské volby: vítězství studentů — od „barevné revoluce“ k „pronárodnímu“ hnutí (Vrabel, od 25. 10. 2026)
+
+**25. 10.** — Vrabel komentuje vítězství studentského hnutí v srbských volbách (podle něj 52–53 %, Vučić přes 30 %) přímo z oslav v Bělehradě. Sám přiznává „rozporuplný pocit“, protože si přál pokračování Vučiće jako „záruky stability“ v době, kdy se „celá Evropa chystá do války“. Na rozdíl od svého tvrzení z 21. 10. o zahraničně placené barevné revoluci teď říká, že hnutí není prounijní, proukrajinské ani pro NATO. Lidé mají podle něj jen srbské vlajky a pokusy EU studenty ovlivnit „nevzali“. Vítězství studentů podle něj přinese klid, protože jinak by protestovali „divoce“ jako v západní Evropě. Novou sílu přesto považuje za „nebezpečnou“, protože „nikdo neví, co od těch lidí čekat“. Vojenská neutralita je podle něj v ústavě, takže se Srbsko nepostaví na žádnou stranu konfliktu. Jediná vlajka EU v Bělehradě prý visí na české ambasádě.
+
+> „Na druhou stranu rozhodně tenhle studentský pokret není něco, co by bylo proti srbský, nebo pro ukrajinský, nebo nedej bože pro Evropskou unii, nebo nedej bože pro NATO. To vůbec nepřipadá v úvahu.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
+
+---
+
 ### Passerelle klauzule a kvalifikovaná většina v obraně a migraci — „Anglosasové se rozhodnou, Slované mašírují"; „konec České republiky" (Vrabel, 29. 9. 2026)
 
 K úvaze Komise o passerelle klauzulích (kvalifikovaná většina v sankcích, lidských právech, obraně a daních) Vrabel tvrdí, že jde o „absolutní, zásadní, nevratnou reformu" a krok k federalizaci: EU má být „nástupcem původních států" a ČR zůstane „jako kraj, něco jako Bavorsko — jen na mapě namalovaná". Malé státy ztratí veto, takže když EU řekne „jdeme do války", budou muset jít — „Anglosasové se rozhodnou, Slované mašírují"; v oblasti lidských práv budou velké státy posílat uprchlíky „do slovanských zemí, které ještě nejsou úplně zislamizované". Kritizuje „vlastence", kteří chtějí EU reformovat — „ten právník tam chce přijít a říct Uršule von der Leyen: teď to budeme dělat jinak" (zřejmě narážka na Rajchla).

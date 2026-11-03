@@ -5880,3 +5880,11 @@
 - **Datum záznamu:** 2026-10-25
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 51 min; sdílené cizí video o usaspending.gov (44:18–47:32) a archivní klipy (rozhovor s Klobučkinem, předvolební rozhovor v ČT) nezpracovány.
+
+## Ladislav Vrabel — Facebook Live (25. 10. 2026) {#ladislav-vrabel--facebook-live-25-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-25_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2516672682155161>
+- **Datum záznamu:** 2026-10-25
+- **Zpracováno:** ano
+- **Poznámka:** 49 min, živý přenos z oslav v Bělehradě po srbských volbách; bez sdílených videí.

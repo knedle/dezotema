@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — srbská vojenská neutralita zůstane, Srbsko nepůjde na žádnou stranu (25. 10. 2026)
+
+**Předpověď:** Bez ohledu na vývoj studentského hnutí zůstane srbská vojenská neutralita a Srbsko se nepostaví na žádnou stranu konfliktu Ruska a Ukrajiny.
+
+> „A i kdyby se stalo cokoliv se studentským pokretem, tak vojenská neutralita zůstane, to znamená Srbsko v žádném případě nepůjde na žádnou stranu konfliktu mezi Ruskem a Ukrajinou.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
+
+---
+
 ### Ladislav Vrabel — po Evropě „velmi brzo“ zavlají rudé vlajky — návrat socialismu (25. 10. 2026)
 
 **Předpověď:** Na Západě se velmi brzy objeví myšlenky socialismu a po Evropě budou vlát rudé vlajky.
