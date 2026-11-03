@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — ČR „za pět let nikdo nepozná“ (27. 10. 2026)
+
+**Předpověď:** S tempem příchodu cizinců a s uprchlíky z islámských zemí od ledna 2027 se ČR během pěti let k nepoznání promění.
+
+> „A do toho začnou k nám vozit od ledna uprchlíky z islámských zemí, no tak to teprve uvidíte, jak se začne proměňovat Česká republika. Za pět let ji nikdo nepozná.“ — Ladislav Vrabel
+
+**Horizont:** 2031
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+
+---
+
+### Ladislav Vrabel — Netanjahu izraelské volby prohraje (27. 10. 2026)
+
+**Předpověď:** Izraelští voliči „Satanjahua“ „vypískají ven“ (s výhradou „můžu se plést“).
+
+> „Typu, že to lidi tomu Benjaminovi, Satanjahuovi, spočítají a že ho vypískají ven, ale můžu se plést.“ — Ladislav Vrabel
+
+**Horizont:** výsledek voleb 27.–28. 10. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+
+---
+
 ### Ladislav Vrabel — Srbsko nevstoupí do EU, referendum neprojde (26. 10. 2026)
 
 **Předpověď:** Srbsko za současného volebního období do EU nevstoupí a případné referendum o vstupu neprojde, protože EU je „v blbým stavu“.

@@ -1012,6 +1012,16 @@ Vrabel tvrdí, že protesty od Albánie po Irsko, které vznikly během dvou tý
 
 ---
 
+### Nizozemsko nahrazuje 16 % úředníků AI — nezaměstnanost se „dělá schválně“ před válkou, nutný nepodmíněný příjem (Vrabel, 27. 10. 2026)
+
+Ke zprávě, že Nizozemsko kvůli AI ruší 25 tisíc míst ve státní správě, Vrabel tvrdí, že války nevznikají kvůli nezaměstnanosti, ale naopak: deindustrializace a likvidace národních hospodářství se podle něj dělají záměrně, aby lidé bez peněz byli ochotni jít do armády. Globalisté podle něj mají dlouhodobé plány (Agenda 2030 a 2050) a covid, války i zelená tranzice jsou jejich naplněním, kdežto „my žádné“. Bez „změny systému“ (zdanění finančních převodů, nepodmíněný příjem, vyšší daně pro firmy nahrazující lidi AI) se podle něj při nezaměstnanosti „mnohem větší než 50+“ zhroutí sociální systém a lidé „umřou hladem“. Současné politiky označuje za „bandu imbecilů“.
+
+> „Ne, ta vysoká nezaměstnanost se dělá schválně, deindustrializace, likvidace národních hospodářství, proto, aby lidi byli ochotní do války, protože budou potřebovat nějaké peníze.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+
+---
+
 ### Drobná pozorování: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze (Vrabel, 13. 9. 2026)
 
 Vrabel zmiňuje dvě krátká, nerozvedená pozorování jako doklad neúplné/selektivní denacifikace a bagatelizace nacistické minulosti: podle „včerejší" zprávy měl nacistický lékař Josef Mengele žít po válce ve Švýcarsku; v Praze se navíc běžně prodávají hrníčky s portrétem Adolfa Hitlera jako suvenýr pro turisty.

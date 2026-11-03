@@ -192,7 +192,11 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 > „Takže tam je to boj o to, kdo je víc pronárodní, jestli Vučić, nebo studenti.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026), [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+**27. 10.** — Vrabel připouští, že protesty byly „vyprovokované“ západními globalisty přes srbskou CNN (N1). Představitelé hnutí ale podle něj odmítají sankce proti Rusku, chtějí vojenskou neutralitu a trvají na tom, že Kosovo je srbské. Otevřeně proevropské strany prý dostaly 0,3 %. Studenti podle něj dokázali „nenásilnou revoluci“, kterou chtěl on: postupovali podle stejných tří pilířů jako jeho plán „ČR na 1. místě“ (spojit lidi, připravit změnu systému, dostat lidi do vlády). Vučićovo uznání porážky dává za vzor: „takhle to má být“.
+
+> „Oni skutečně udělali nenásilnou revoluci, to, co my jsme chtěli.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026), [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 
 ---
 
@@ -807,6 +811,16 @@ Evropská komise připravuje novou právní formu podnikání (tzv. „28. reži
 Vrabel systematicky prochází, co z České republiky ještě podle něj zbylo „české". Obyvatelstvo: odhaduje 1–2 miliony Ukrajinců v ČR (10–20 % populace), kteří se na rozdíl od dříve usazených Vietnamců podle něj „nepočešťují" — z ČR se tak stává „Česko-Ukrajinsko". Hranice: fakticky neexistují, volný pohyb umožňuje komukoli dojít z Afriky až do Kolína. Majetek: silnice a některé pozemky jsou ještě české, ale továrny, obchody, banky, doprava i média jsou většinově v zahraničních rukou (ČR na rozdíl od Srbska nemá zákon bránící cizincům kupovat zemědělskou půdu). Zákony a politika: rozhodují sponzoři a média řízené ze zahraničí (cituje Havlův výrok o „světovém režisérovi"), a zákony EU jsou nadřazené českým podle ústavy. Jediné, co podle něj zůstalo skutečně české, je koruna — a i tu považuje za dočasnou, používanou k zakrytí ostatních ústupků. Definuje vlastenectví jako boj za to, aby v zemi „bydleli Češi", mluvilo se česky a vydělané hodnoty zůstávaly doma — na rozdíl od dnešního stavu, kdy je ČR podle něj „v procesu rozmělňování se" do evropských struktur.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 23. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-23-8-2026)
+
+---
+
+### Koruna v ústavě jako „padělek“ — čl. 10 Ústavy dává přednost smlouvám s EU, jediná cesta je vystoupení (Vrabel, 27. 10. 2026)
+
+Vrabel tvrdí, že vládní návrh zakotvit korunu do ústavy nemá žádný význam, dokud ČR zůstane v EU. Podle čl. 10 Ústavy má ratifikovaná mezinárodní smlouva přednost před českým právem, takže by v případném sporu o euro rozhodl Evropský soud ve prospěch EU. Totéž podle něj platí pro migrační pakt. Členství v EU přirovnává k manželské smlouvě: povinnosti nejde odmítnout a zůstat v ní, svobodu dává jen odchod. Vláda podle něj ústavní většinu nemá, Senát návrh shodí a jde jen o prohlášení k odvedení pozornosti, které v lidech budí falešnou naději („mrtvé nenarozené dítě“). Návrh přirovnává k padělku trička koupenému na hranici.
+
+> „Jediná možnost, jak si zachovat placení korunou, je vystoupit z Evropské unie.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 
 ---
 

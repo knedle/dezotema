@@ -1200,6 +1200,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **23. 10.** — hlasování ministrů SPD proti režimu Ukrajinců jako divadlo „opozice ve vládě“, SPD v Ostravě a Karviné „prolítla“; Fico „další na řadě“ — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 - **25. 10.** — protesty po Evropě řídí samy režimy, policie mlátí „na rozkaz shora“; „velmi brzo“ rudé vlajky a návrat socialismu (→ [predikce](../predikce.md)) — [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 - **26. 10.** — Brazílie: volby prodlouženy, „aby vyhrál Lula“, „satanismus“; Rajchlův „hyenismus“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+- **27. 10.** — „jsem absolutní levičák“, levice a pravice neexistují, USA „klasičtí opresoři“; politika jako „mafiánský systém“ (Bolsonaro) — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1294,6 +1295,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **21. 10.** — srbští studenti placeni „ze zahraničních fondů“, globalisté proti Vučićovi kvůli barevné revoluci; Srbsko jako vzor — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **25. 10.** — srbské volby: studenti vyhráli, hnutí je ale „pronárodní“, ne prozápadní (odklon od „barevné revoluce“); neutralita zůstane (→ [predikce](../predikce.md)) — [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
 - **26. 10.** — Srbsko: výsledek možná „dobře“, souboj o to, „kdo je víc pronárodní“; Kosovo v „další Jaltě“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+- **27. 10.** — koruna v ústavě „padělek“ (čl. 10 Ústavy), jediná cesta je vystoupení z EU; srbští studenti provedli „nenásilnou revoluci, to, co my jsme chtěli“ — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1375,6 +1377,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **23. 10.** — chaos v Evropě řídí AI (opakuje), geneticky upravení psi, transhumanismus, nezaměstnanost „90+“ (→ [predikce](../predikce.md)) — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 - **26. 10.** — protesty v Evropě = řízené odvedení pozornosti před válkou; Babiš má o 17. 11. informace od tajných služeb, „šlape jak hodinky pod globalisty“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - **26. 10.** — poprvé bere varování před násilím vážně; násilí rozehrávají maskovaní policisté, aby se lidé nespojili proti válce — [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
+- **27. 10.** — nezaměstnanost z AI se „dělá schválně“, aby lidé šli do armády; nutný nepodmíněný příjem — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2126,6 +2129,12 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Petr Fiala | ❌ negativní | „Píčus“ (opraveno na „špatný politik“) | 2026-10-26 | [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026) |
 | Andrej Babiš | ⚖️ rozporuplný | V poplatcích a kritice Milionu chvilek mu dává za pravdu, je „obětí“; jinak proti jeho vládě | 2026-10-26 | [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026) |
 | Michal Svatoš | ❌ negativní | Vypráví „nesmysly“ o demonstraci 2022, aby dostal funkci v SPD | 2026-10-26 | [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026) |
+| Miloš Zeman | ❌ negativní | Za výrok o „agresivitě v genech“ by měl do vězení či uklízet ulice v oranžovém mundúru | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
+| Josef Kupčík | ⚖️ rozporuplný | „Super kluk“ a „kovaný komunista“, neměl pouštět čs. hymnu; souhlasí s ním, že USA jsou opresoři | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
+| Studentské hnutí (Srbsko) | ✅ pozitivní | „Možná bude dobré“, nenásilná revoluce podle jeho plánu (posun od skepse) | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
+| Flávio Bolsonaro | ✅ pozitivní | „Ve skutečnosti měl být prezident“, oběť podvodu | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
+| Vladimir Putin | ✅ pozitivní | Vždy klidný, má „vnitřní sílu“ | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
+| J. D. Vance | ❌ negativní | „Herec“ vyrobený a zaplacený | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
 
 ---
 
@@ -2316,3 +2325,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Videoportál 25. 10. 2026](../_zdroje.md#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026)
 - [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
+- [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)

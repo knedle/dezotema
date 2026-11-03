@@ -771,7 +771,21 @@ Vrabel tvrdí, že Bolsonaro o půlnoci vyhrával a volební soud prodloužil hl
 
 > „Šup, to tam nasypali Lulovi a vyhrál Lula. A to je ta demokracie, kterou my dneska si tady žijeme.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+**27. 10.** — K odebrání pasu a pátrání policie po Flávio Bolsonarovi Vrabel tvrdí, že politika je dnes „mafiánský systém“, v němž strana u moci likviduje opozici. Totéž vidí u Magyara a Orbána, u soudů s Trumpem, u Čapího hnízda i u „organizovaného zločinu“ proti své manželce. Za vzor férového chování dává Vučićovo uznání porážky.
+
+> „My jsme se dostali do systému politického, který je mafiánský. Tady, když někdo má jiný politický názor, tak ho ta druhá strana, pakliže má moc, likviduje.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+
+---
+
+### „Jsem absolutní levičák“ — levice a pravice už neexistují, USA jako „klasičtí opresoři“ (Vrabel, 27. 10. 2026)
+
+Vrabel prohlašuje, že je ve vztahu k trhu „velmi pravicový“: odmítá dotace a státem určené ceny a firmy by si podle něj měly shánět pracovníky v ČR. Zároveň o sobě říká, že je „absolutní levičák“ či „absolutní komunista“, protože odmítá současný „kapitalistický, elitářský“ systém. Rozdělení na levici a pravici podle něj zaniklo a zůstal jen střet globalistických elit s obyčejnými lidmi. V tom souhlasí s levicovými aktivisty (Antifa, Josef Kupčík), že USA jsou „klasičtí opresoři“: připomíná vyhlazení Indiánů, otroctví, atomovou bombu, napalm a výměny vlád v „78 zemích“. Za oběť napadení USA označuje i Írán.
+
+> „Dneska jediné, co existuje, jsou elity globalistické, které okrádají lidi, anebo boj o práva nás, obyčejných lidí, a o naší zem.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 
 ---
 

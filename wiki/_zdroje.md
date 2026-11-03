@@ -5912,3 +5912,11 @@
 - **Datum záznamu:** 2026-10-26
 - **Zpracováno:** ano
 - **Poznámka:** 31 min, monolog s odpověďmi na zprávy diváků; bez sdílených videí.
+
+## Ladislav Vrabel — Zprávy v devět 27. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-27-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-27_Ladislav-Vrabel_27-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/4612807472375860>
+- **Datum záznamu:** 2026-10-27
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 37 min, zprávy čte Zuzana; krátký srbský klip (28:14–29:06) nezpracován.
