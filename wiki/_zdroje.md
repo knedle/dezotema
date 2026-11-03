@@ -5856,3 +5856,11 @@
 - **Datum záznamu:** 2026-10-30
 - **Zpracováno:** ano
 - **Poznámka:** 2 min 50 s, monolog.
+
+## Ladislav Vrabel — Zprávy v devět 24. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-24-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-24_Ladislav-Vrabel_24-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1608191441043642>
+- **Datum záznamu:** 2026-10-24
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 19 min, zprávy čte Zuzana; krátký sdílený klip Tuckera Carlsona (angl.), jinak Vrabel.

@@ -219,6 +219,16 @@ Rajchl odkazuje na video politologa Lukáše Valeše, kterému moderátor ČT op
 
 ---
 
+### Protest za poplatky ČT „aby mohli platit vlastní válečnou propagandu“ — umělá bublina a dvojí metr policie (Vrabel, 24. 10. 2026)
+
+Vrabel tvrdí, že lidé, které nezajímají cizí vojáci ani francouzské jaderné zbraně v ČR, vyšli do ulic až kvůli zrušení poplatků ČT a ČRo. Podle něj tím hájí financování „hlavní válečné propagandy“. ČT popisuje z vlastní zkušenosti jako „elitářský snobský podnik“ a „vrchol politické korektnosti“. Zrušení poplatků považuje za kosmetické, protože peníze stejně půjdou ze státního rozpočtu. Mediální „bublina“ má podle něj odvést pozornost od války a jaderných zbraní a štvát lidi proti sobě („klasický satanismus“). Policii vyčítá dvojí metr: Kateřinu Blahníkovou kvůli „Z“ zatkli těžkooděnci, kdežto útočníky na Foldynu nechala jít. Beztrestností útoku Ukrajince na něj samotného v roce 2023 si podle něj stát „pěstuje teroristy“. Babišovo srovnání s útokem na Kapitol označuje za „legrační“, protože politici jsou podle něj „všichni stejní“.
+
+> „Ale prostě vadí jim, že by jejich válečná propaganda, médium hlavní válečné propagandy, nebylo ovině financováno z rukou každého občana. To je naprosto šílená schizofrenní situace.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---
+
 ## Dvojí metr v médiích
 
 ### Mediální lynč vs. selektivní ticho

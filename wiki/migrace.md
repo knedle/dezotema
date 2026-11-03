@@ -806,7 +806,7 @@ K projevu britského labouristy Andyho Burnhama („migrace ano, ale kontrolovan
 
 **28. 9.** — K situaci v Ceutě Vrabel připomíná své vystoupení v ČT z roku 2023, že „z Evropské unie se stává kalifát" (Německo, Rakousko, Švýcarsko, Nizozemsko, Brusel); ČR je zatím „krásná, bezpečná, čistá", ale s migračním paktem „nezůstane". Ukrajinců je podle něj v ČR „minimálně dva miliony", možná tři až čtyři.
 
-**Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
+**Zdroje:** [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026), [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 
 ---
 
@@ -877,3 +877,13 @@ K protimigračním protestům v Irsku Vrabel připomíná, že migraci v letech 
 ⚡ **Poznámka:** Údaj o 4 tisících znásilnění v Oslu v roce 2004 Vrabel nedokládá.
 
 **Zdroje:** [Vrabel — Zprávy v devět 1. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-10-2026), [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026), [Ladislav Vrabel — Zprávy v devět 13. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-10-2026), [Ladislav Vrabel — Večerní zprávy 14. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026), [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026), [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026), [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026), [Ladislav Vrabel — Nedělní vysílání 18. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026), [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026), [Ladislav Vrabel — Zprávy v devět 20. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026), [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+
+### „Evropa bude muslimská“ — Jugoslávie rozbita kvůli Kalergiho plánu, ČR islámskou zemí do 20–30 let (Vrabel, 24. 10. 2026)
+
+K útoku na pravoslavný pohřeb v Jordánsku Vrabel popisuje, „jak funguje islám“: nejdřív kebaby a uprchlíci, pak šaría zóny a no-go zóny, při 5 % populace požadavek práva šaría a při 20 % se země stává muslimskou. Za příklad dává Sýrii, kterou dnes vede bývalý „terorista“ přijímaný v ČR i USA. Jugoslávie podle něj historicky chránila Evropu před Turky a byla rozbita v rámci „Kalergiho plánu“, aby přes Balkán mohli proudit migranti. Migranty, často druhé a třetí generace s občanstvím, už podle něj z Evropy nikdo nevyveze. „Evropa bude muslimská“ nevyhnutelně a ČR se tomu vyhne jen zavřením hranic a odchodem z EU. Na čísla Tuckera Carlsona navazuje tím, že Evropa už „nebude bílá“ a v Praze prý slyší ukrajinštinu zhruba stejně často jako češtinu. Babišův plán dovážet pracovníky z Indie a Filipín podle něj přivede „samozřejmě muslimy“.
+
+> „Evropa bude muslimská úplně stejně, jako se to děje dneska v Jordánsku, jako se to stalo v Sýrii. To je prostě nevyhnutelný.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---

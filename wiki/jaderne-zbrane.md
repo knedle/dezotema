@@ -217,3 +217,13 @@ Polský ministr zahraničí Radosław Sikorski na bezpečnostní konferenci v Ky
 **Zdroje:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026), [Vrabel — Facebook Live 15. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-15-9-2026), [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026)
 
 ---
+
+### Francie a Británie cvičily jaderný úder — Rafale z českého území by Rusové sestřelili „do tří minut“ a ČR zasypal spad (Vrabel, 24. 10. 2026)
+
+Ke zprávě o prvním společném francouzsko-britském cvičení jaderného úderu Vrabel tvrdí, že válka „se eskaluje brutálním způsobem“: dříve se odmítaly F-16 i Storm Shadow, dnes Storm Shadow podle něj zabíjí civilisty v Rusku. Francie podle něj po Babišově podpisu nedodá jaderné zbraně do ČR hned, ale „až to bude potřeba“, tedy v nejnebezpečnější chvíli. Rusové by pak jaderné nosiče okamžitě ničili: letouny Rafale s hlavicemi by byly sestřeleny do tří minut, ještě nad ČR nebo u slovenské hranice, a při východním větru by radioaktivní spad zasáhl celou republiku. Umístění jaderných zbraní proto nepovažuje za odstrašení, ale za „vabank“ (odkazuje na Čechovovu pušku). Francouze a Brity nazývá „satanisty“.
+
+> „Jestli vzlítne letadlo Rafal s jadernýma zbraněma z území České republiky a rusové to budou vědět, tak podle mojého názoru do tří minut budou sestřelený ty letadla Rafal.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---

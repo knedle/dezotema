@@ -12,6 +12,66 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Evropa bude muslimská, ČR islámskou zemí do 20–30 let (24. 10. 2026)
+
+**Předpověď:** Pokud ČR nezavře hranice a zůstane v EU, stane se během 20–30 let islámskou zemí; Evropa bude muslimská nevyhnutelně.
+
+> „Tak potom i Česká republika se stane islámskou zemí v průběhu třeba 20 nebo 30 let.“ — Ladislav Vrabel
+
+**Horizont:** 20–30 let
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---
+
+### Ladislav Vrabel — po Polsku přijdou na řadu Chorvaté a Bulhaři (24. 10. 2026)
+
+**Předpověď:** Po Ukrajině je na řadě Polsko (opakuje), potom Chorvatsko a Bulharsko; globalisté chtějí „promíchat a zlomit“ silné národy.
+
+> „Proto si myslím, že Poláci jsou na řadě. Pak budou Chorvaté a Bulhaři.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---
+
+### Ladislav Vrabel — v Albánii bude násilný puč a vláda padne (24. 10. 2026)
+
+**Předpověď:** Protesty v Tiraně proti projektu Kushnera a Ivanky Trumpové vyústí v násilný puč a konec Ramovy vlády.
+
+> „V Albánii bude násilný puč proti vládě. Ta vláda bude muset skončit.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---
+
+### Ladislav Vrabel — krach akcií AI horší než hypoteční krize 2008 (24. 10. 2026)
+
+**Předpověď:** Přepálené akcie AI spadnou a krize bude horší než v roce 2008; výprodej na americké burze byl „první vlaštovka“.
+
+> „Může to být mnohem horší […] než ta krize, která byla hypotéční s těma hypotékama v roce 2008. A první vlaštovka byla včera.“ — Ladislav Vrabel
+
+**Horizont:** brzy, neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---
+
+### Ladislav Vrabel — schůzka Putin–Zelenskyj skončí fiaskem až po amerických volbách (24. 10. 2026)
+
+**Předpověď:** Trumpem chystaná schůzka Putina a Zelenského (13. nebo 19. 11.) skončí fiaskem, které ale vyjde najevo až po amerických volbách.
+
+> „Ale nebudou mít ten výsledek toho jednání, který bude fiasko, pravděpodobně, před volbama. To dostanou až po volbách.“ — Ladislav Vrabel
+
+**Horizont:** listopad 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+
+---
+
 ### Jindřich Rajchl — Prymula předvolán před vyšetřovací komisi a skončí ve vězení (29. 10. 2026)
 
 **Předpověď:** Rajchl předvolá Romana Prymulu před vyšetřovací komisi ke covidovým opatřením a Prymula skončí ve vězení, protože „mu nikdo milost nedá“.

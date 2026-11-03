@@ -1053,6 +1053,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **9. 10.** — zadržení Zvinčuka (Rybar) — odmítl s ním natáčet kvůli sankcím; Valášek „likviduje lidi“ — [Zprávy v devět 9. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 - **19. 10.** — souhlas s Babišovou výzvou, „média zdivočela“; mediální zákon s licencemi a likvidačními pokutami za válečnou propagandu; mediální „popravy“ (Bárta, Nečas, Rath, on sám) — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **23. 10.** — Facebook potlačuje dosah (25 z 34 tisíc), „média na míru“ a politické cílení přes Palantir; studentské protesty dělají sociální sítě; odpovědní „do vězení na 20–30 let“ (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
+- **24. 10.** — protest za poplatky ČT = obrana „válečné propagandy“, umělá bublina; dvojí metr policie (Blahníková vs. útočníci na Foldynu), stát „pěstuje teroristy“ — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 11)
 - **9. 9.** — opakuje beze změny výzvu „zachraň se, kdo můžeš" (Jugoslávie jako analogie) — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
@@ -1255,6 +1256,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **3. 10.** — shromáždění 3. 10. — plné znění tří výzev; řečníci Kratochvíl, VK aj. — [Shromáždění „Člověk na prvním místě" (3. 10. 2026)](../_zdroje.md#ladislav-vrabel--shromáždění-člověk-na-prvním-místě-3-10-2026)
 - **6. 10.** — o „deštníku“ by rozhodoval „emocionálně nestabilní“ Macron; výzvy podává 7. 10. vládě — [Zprávy v devět 6. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-10-2026)
 - **20. 10.** — Trumpova denuklearizace jako „jediná rozumná možnost“, zbraně „do hangáru“ — [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
+- **24. 10.** — Rafale s francouzskými hlavicemi sestřeleny „do tří minut“, ČR zasype spad; Francouzi a Britové „satanisti“ — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 27)
 - **18. 9.** — Fico odmítá automatické čl. 5 NATO („majstrštik"); Gripeny poprvé vzlétly, Babiš: hybridní válka; Petrohrad konzulát uzavřen — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026)
@@ -1329,6 +1331,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **19. 10.** — Francie: tři frakce, „občané proti občanům“ = občanská válka, „vlak dojede“ do ČR (→ [predikce](../predikce.md)); Ukrajinci bez dávek, „Srbové by umlátili čepicema“ (→ [stoch. teror](../stochasticky-teror.md)) — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **20. 10.** — Babiš na „nástěnku největších lhářů“, migrační vlna z Ukrajiny přijde kvůli zimě a ruskému postupu — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - **21. 10.** — „problém je migrace“, ne ilegální; „mačety“, „to mají od Mohameda“, Oslo „rape city“, Macron na stadionu (→ [stoch. teror](../stochasticky-teror.md)); Ukrajincům nedat občanství — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+- **24. 10.** — „Evropa bude muslimská“, ČR islámská do 20–30 let (→ [predikce](../predikce.md)); Jugoslávie rozbita kvůli Kalergiho plánu — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2084,6 +2087,13 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Jindřich Rajchl | ❌ negativní | „Robot“, který ho kopíruje slovo od slova, otočil Václavák proti Rusku a udával lidi za „Z“; novela § 405 „pičovina“ | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
 | dr. Vítová, Miroslav Sládek | ✅ pozitivní | Jediní, kdo na „zaprodané“ vlastenecké scéně zůstali „rovní“ | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
 | Aleksandar Vučić | ✅ pozitivní | Odmítá sankce proti Rusku i zbraně pro Ukrajinu, „pracuje jen pro Srby“ — vzor pro ČR | 2026-10-23 | [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026) |
+| Jaroslav Foldyna | ✅ pozitivní | Napaden u Sněmovny, policie útočníky nechala jít | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
+| Kateřina Blahníková | ✅ pozitivní | Brutálně zatčena kvůli „Z“, doklad dvojího metru policie | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
+| SPD | ❌ negativní | Při útoku na Vrabela v roce 2023 mlčela, za útok na Foldynu si „může sama“ | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
+| Andrej Babiš | ❌ negativní | Srovnání protestu s Kapitolem „legrační“; francouzské jaderné zbraně; dovoz pracovníků z Indie a Filipín | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
+| Patryk Jaki | ❌ negativní | Lež o Lavrovově dopise, aby byl slavný | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
+| Ivanka Trumpová, Jared Kushner, Edi Rama | ❌ negativní | „Elitářská parta“ privatizuje Albánii | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
+| Tucker Carlson | ⚖️ rozporuplný | Souhlasí s jeho tezí o demografii Evropy, opravuje ho v číslech o Rusku | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
 
 ---
 
@@ -2267,3 +2277,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 - [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 - [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
+- [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
