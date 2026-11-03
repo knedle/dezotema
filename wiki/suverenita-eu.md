@@ -214,7 +214,11 @@ Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 20
 
 > „Proto Evropská unie použila svoje nejtvrdší metody a skrze Donalda Tuska se pokusili o ústavní puč za pomoci ozbrojené policie.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026)
+**31. 10. (večerní zprávy)** — Vrabel dodává, že akce byla připravena den předem (rozkaz ozbrojené policii) a „probruselské klice“ jde o kontrolu nad Ústavním soudem, který „nakonec rozhoduje volby“. Hrozí podle něj zfalšování voleb a výměna prezidenta Nawrockého, který jako vrchní velitel nemusí chtít poslat vojáky do války s Ruskem. Jako paralely uvádí ČR (ÚS nechal kandidovat nepřiznané koalice), Rumunsko (Georgescu) a Brazílii. ČR je podle něj „už převrácená“: vláda, Hrad i ÚS stojí na straně NATO a EU. Za převratem v Polsku vidí britskou tajnou službu. Kaczyńského řeči o vystoupení z EU jsou podle něj jen slova, jedinou suverenistickou silou zůstává Konfederacja Korony Polskiej.
+
+> „U nás už není potřeba převracet žádnou politickou sílu. U nás je politická síla už převrácená.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 
 ---
 

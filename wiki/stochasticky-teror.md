@@ -173,6 +173,7 @@ Tato stránka eviduje výroky splňující klíčové znaky: **pojmenovaný ter�
 | Ladislav Vrabel | Miloš Zeman | „Miloš Zeman, který řekl, že Rusko je agresor nebo agresivní, že to mají v genech, by měli do vězení. Já nejsem proto, aby lidi chodili do vězení, tak bych mu dal náhradní trest, oblíknul bych ho do oranžového munduru a nechal bych ho tam o opilce, ať prostě uklízí ulice.“ | 27. 10. 2026 | [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
 | Ladislav Vrabel | demonstranti proti Ficovi v Praze | „…ruských švábů, jak si to mají, jak si to vůbec můžou dovolit? Za to by měli jít normálně do vězení.“ | 27. 10. 2026 | [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
 | Ladislav Vrabel | Boris Šťastný (ministr sportu) | „To je čistý nacizmus. […] Je to trestné. Ministr Šťastný by podle mě měl být trestně stíhaný.“ | 30. 10. 2026 | [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Ladislav Vrabel | Donald Trump | „Ale na druhou stranu, kdyby mě někdo vyvraždil moji rodinu, […] no tak bych řekl, OK, tak oko za oko, zub za zub, jako to přece nemůžeme jen tak nechat. Takže ani bych se nedivil, kdyby byl nějaký útok na Donalda Trumpa.“ (výslovně dodává, že k terorismu nevyzývá) | 31. 10. 2026 | [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
 
 ---
 

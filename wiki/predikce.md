@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Francie bude do roku 2050 „stoprocentně muslimskou zemí“ (31. 10. 2026)
+
+**Předpověď:** Migrací a vyšší porodností migrantů se Francie do roku 2050 stane muslimskou zemí.
+
+> „Tam do roku 2050 Francie bude stoprocentně muslimskou zemí.“ — Ladislav Vrabel
+
+**Horizont:** 2050
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+
+---
+
+### Ladislav Vrabel — ve velkých českých městech bude za 10 let víc migrantů než původních obyvatel (31. 10. 2026)
+
+**Předpověď:** Přes migrační pakt a dovoz pracovníků bude do deseti let ve velkých českých městech žít víc migrantů než původních obyvatel.
+
+> „Za takových deset let určitě se dočkáme toho, že naše hlavní města, že tam bude žít víc imigrantů, víc migrantů než původního obyvatelstva.“ — Ladislav Vrabel
+
+**Horizont:** cca 2036
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+
+---
+
+### Ladislav Vrabel — padne Macron, nástupce povede ještě horší politiku (31. 10. 2026)
+
+**Předpověď:** Třetí týden francouzských protestů skončí pádem Macrona; nástupce (snad Lagardeová) povede ještě horší politiku, jako Burnham po Starmerovi.
+
+> „Nakonec předpokládám, že to dopadne tak, že padne Macron.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+
+---
+
 ### Ladislav Vrabel — Rusko zasáhne továrnu vyrábějící munici pro českou muniční iniciativu (30. 10. 2026)
 
 **Předpověď:** Výbuch v muniční továrně CSG v Granadě je „první vlaštovka“; Rusko zasáhne podnik vyrábějící munici pro českou iniciativu a budou mrtví.

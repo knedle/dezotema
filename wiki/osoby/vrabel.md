@@ -1202,6 +1202,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **25. 10.** — protesty po Evropě řídí samy režimy, policie mlátí „na rozkaz shora“; „velmi brzo“ rudé vlajky a návrat socialismu (→ [predikce](../predikce.md)) — [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 - **26. 10.** — Brazílie: volby prodlouženy, „aby vyhrál Lula“, „satanismus“; Rajchlův „hyenismus“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - **27. 10.** — „jsem absolutní levičák“, levice a pravice neexistují, USA „klasičtí opresoři“; politika jako „mafiánský systém“ (Bolsonaro) — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+- **31. 10.** — výměna vlády 17. 11. „nesmysl“, globalisté potřebují rozdělenou společnost; Trikolora, SPD a PRO „odnože ODS“ — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1303,6 +1304,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **29. 10.** — sdílený dluh EU pro Ukrajinu, Babiš „odmává“ (→ [predikce](../predikce.md)); odchod Lagardeové z ECB, „něco blbého se chystá“ — [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 - **30. 10.** — zákaz ruských hokejistů „čistý nacismus“, Šťastného trestně stíhat (→ [stoch. teror](../stochasticky-teror.md)); Srbsko „zázrak“, studenti dělají, co chtěl pro ČR — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 - **31. 10.** — Polsko: „ústavní puč“ Tuskovy vlády za pomoci ozbrojené policie jako boj EU o polskou suverenitu — [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
+- **31. 10.** — Polsko: cílem „puče“ je ovládnout ÚS, zfalšovat volby a vyměnit Nawrockého; ČR „už převrácená“ — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1352,6 +1354,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **20. 10.** — Babiš na „nástěnku největších lhářů“, migrační vlna z Ukrajiny přijde kvůli zimě a ruskému postupu — [Zprávy v devět 20. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 - **21. 10.** — „problém je migrace“, ne ilegální; „mačety“, „to mají od Mohameda“, Oslo „rape city“, Macron na stadionu (→ [stoch. teror](../stochasticky-teror.md)); Ukrajincům nedat občanství — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **24. 10.** — „Evropa bude muslimská“, ČR islámská do 20–30 let (→ [predikce](../predikce.md)); Jugoslávie rozbita kvůli Kalergiho plánu — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
+- **31. 10.** — „velká výměna“ potvrzena, Francie do 2050 muslimská, v českých městech za 10 let víc migrantů (→ [predikce](../predikce.md)) — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1388,6 +1391,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **26. 10.** — poprvé bere varování před násilím vážně; násilí rozehrávají maskovaní policisté, aby se lidé nespojili proti válce — [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 - **27. 10.** — nezaměstnanost z AI se „dělá schválně“, aby lidé šli do armády; nutný nepodmíněný příjem — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 - **28. 10.** — zpochybňuje přistání na Měsíci, kulatou Zemi odkládá „do šedé zóny“ — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+- **31. 10.** — policie mlátí a převléká se za demonstranty = „něco řízeného“, cílem chaos — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2167,6 +2171,10 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Karol Nawrocki | ✅ pozitivní | „Konzervativnější a příčetnější“ než Tusk | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
 | Jaromír Zůna | ❌ negativní | „Drží linii NATO“ | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
 | Roman Fritz | ✅ pozitivní | Přítel, „perfektní rozhovor“; přeje mu odstranění Tuskovy vlády | 2026-10-31 | [Rozhovor s R. Fritzem 31. 10. 2026](../_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026) |
+| Donald Trump | ⚖️ rozporuplný | Kupuje Zelenského podporu, „vyvraždil vedení Íránu“; útoku na něj by se „nedivil“ | 2026-10-31 | [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
+| Petr Hájek | ❌ negativní | „Propagandista“, „politruk“ | 2026-10-31 | [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
+| Grzegorz Braun | ✅ pozitivní | Vede demonstraci před polským ÚS | 2026-10-31 | [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
+| Jarosław Kaczyński | ⚖️ rozporuplný | Mluví o vystoupení z EU, ale jsou to „jen prohlášení“ | 2026-10-31 | [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
 
 ---
 
@@ -2363,3 +2371,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 - [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
 - [Rozhovor s R. Fritzem 31. 10. 2026](../_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026)
+- [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)

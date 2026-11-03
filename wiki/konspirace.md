@@ -1008,7 +1008,11 @@ Vrabel tvrdí, že protesty od Albánie po Irsko, které vznikly během dvou tý
 
 > „A tady jediné, co mě napadá, je jako válka, protože ta válka je prostě ten největší brutál. A proto se ty lidi manipulujou proti sobě a rozeštvávají proti sobě, aby se nebyli schopní spojit proti válce.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
+**31. 10.** — Policie v Německu a Francii podle Vrabela „bezdůvodně mlátí lidi“ a ve Francii se prý policisté převlékali za demonstranty. Z toho vyvozuje, že jde o „něco řízeného“ a cílem je chaos a poštvání lidí proti sobě. Násilí podle něj brzy přijde i do zemí V4 a ČR. Protesty jsou podle něj proti drahotě, válce a Izraeli, ne kvůli učitelům.
+
+> „Tak mám takový pocit, že to je něco řízeného. A když vidím, že to je něco řízeného, tak je mi jasný, že cílem není to, aby byly demonstrace, ale cílem je to, aby byl chaos.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 
 ---
 

@@ -887,3 +887,13 @@ K útoku na pravoslavný pohřeb v Jordánsku Vrabel popisuje, „jak funguje is
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 
 ---
+
+### „Velká výměna“ potvrzena — Francie do roku 2050 muslimská, v českých městech za 10 let víc migrantů než původních obyvatel (Vrabel, 31. 10. 2026)
+
+K návrhu starosty Trappes trestat šíření teorie „velké výměny“ Vrabel tvrdí, že evropská populace je „masově“ nahrazována migrací a migranti mají víc dětí. Návrh zákona chápe jako umlčování hlasů proti propagandě: výměnu obyvatelstva potvrzuje, „dokud se za to nechodí do vězení“. Francie bude podle něj do roku 2050 „stoprocentně muslimskou zemí“. ČR podle něj čeká totéž: migrační pakt od roku 2027 a Babišův dovoz pracovníků z Indie, Bangladéše a Filipín, migranti „po 100 tisících“. Ukrajinců tu podle něj neoficiálně žijí 2 miliony a do deseti let bude ve velkých českých městech víc migrantů než původního obyvatelstva.
+
+> „Tam do roku 2050 Francie bude stoprocentně muslimskou zemí.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+
+---

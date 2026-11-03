@@ -789,6 +789,16 @@ Vrabel prohlašuje, že je ve vztahu k trhu „velmi pravicový“: odmítá dot
 
 ---
 
+### Výměna vlády 17. 11. „nesmysl“ — globalisté potřebují rozdělenou společnost, ne novou vládu; strany jako „odnože ODS“ (Vrabel, 31. 10. 2026)
+
+Vrabel odmítá spekulace diváků, že se 17. 11. chystá výměna vlády. Babišova vláda podle něj plní příkazy Bruselu a NATO „jako švýcarské hodinky“ (Ukrajina, muniční iniciativa, F-35, Šťastný proti ruským sportovkyním), takže ji globalisté nepotřebují měnit. Jde jim o udržení napětí: protesty pro a proti ČT a pro a proti Babišovi mají odvést pozornost od války, drahoty a peněz na Ukrajinu, aby se lidé nespojili („rozděl a panuj“). Počet hnutí podle něj nehraje roli: Trikoloru, SPD a PRO označuje za „odnože ODS“ a Motoristy za stranu Klausovy rodiny se stejným financováním a vedením. Vystoupení z EU, NATO a WHO má podle něj v programu jen jeho hnutí. Petra Hájka nazývá „propagandistou“ a „politrukem“.
+
+> „To, co je potřeba pro globalisty, je udržet v napětí společnost, poštvanou proti sobě, aby se lidi nemohli sjednotit proti válce nebo proti tomu, že máme draho.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

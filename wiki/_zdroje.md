@@ -5960,3 +5960,11 @@
 - **Datum záznamu:** 2026-10-31
 - **Zpracováno:** ano
 - **Poznámka:** 33 min, rozhovor; zhruba 70 % stopáže mluví host Roman Fritz (lámanou češtinou), jeho výroky nezpracovány.
+
+## Ladislav Vrabel — Večerní zprávy 31. 10. 2026 {#ladislav-vrabel--večerní-zprávy-31-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-31_Ladislav-Vrabel_31-10-2026-Večerní-zprávy-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1987380595554104>
+- **Datum záznamu:** 2026-10-31
+- **Zpracováno:** ano
+- **Poznámka:** 59 min, zprávy čte Zuzka; krátké ukázky rozhovoru s Fritzem a videa s Braunem; Vrabel v úvodu omylem uvádí datum 30. 10.
