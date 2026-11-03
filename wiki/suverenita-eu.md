@@ -196,7 +196,11 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 > „Oni skutečně udělali nenásilnou revoluci, to, co my jsme chtěli.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026), [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+**28. 10.** — Srbsko je podle Vrabela jediné místo, kde se nenásilnou revolucí „opravdu změnil režim“: protesty sice rozpoutali globalisté přes CNN, ale lidé tři roky protestovali se srbskými vlajkami a vyhráli volby, „přesně jak jsem si to představoval“. Za kandidáty sám neručí. Kontrastem je ČR: po pěti letech nenásilné revoluce předseda koaliční strany Libor Vondráček (Svobodní) sbírá podpisy pod otevřený dopis von der Leyenové, místo aby vyjednal suverenitu. „Gratuluju všem vlastencům, kteří volili SPD v roce 25.“ Sankce proti Rusku podle něj Srbové nedají, kdo by je navrhl, toho „lidi roztrhají“.
+
+> „Takže to je jediný, kde se zatím podařilo jako tím bojem proti těm elitám, nenásilnou revolucí, opravdu změnit režim.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026), [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026), [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 
 ---
 

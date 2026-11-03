@@ -1246,6 +1246,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **14. 10.** — Kosovo „americká kolonie“, radar v Brdech a Kolář (Wikileaks), obavy z raketových základen na Balkáně — [Večerní zprávy 14. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026)
 - **19. 10.** — střela Narval jako válečná propaganda, „sirky“, Heydrich; Starlink jako „Star Shield“ — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **22. 10.** — rozpočet 2027: obrana +23,3 %, „mírová vláda“ dává na válku víc než Fiala; zmrazená aktiva Rusové soudně získají, EU může zbankrotovat (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+- **28. 10.** — požár u brněnského zbrojaře = „konkurence“, ne Rusové; zbrojaři „žijí z krve“, Babiš a von der Leyenová se kryjí — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1296,6 +1297,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **25. 10.** — srbské volby: studenti vyhráli, hnutí je ale „pronárodní“, ne prozápadní (odklon od „barevné revoluce“); neutralita zůstane (→ [predikce](../predikce.md)) — [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
 - **26. 10.** — Srbsko: výsledek možná „dobře“, souboj o to, „kdo je víc pronárodní“; Kosovo v „další Jaltě“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - **27. 10.** — koruna v ústavě „padělek“ (čl. 10 Ústavy), jediná cesta je vystoupení z EU; srbští studenti provedli „nenásilnou revoluci, to, co my jsme chtěli“ — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+- **28. 10.** — Srbsko jediná vítězná nenásilná revoluce vs. Vondráček sbírající podpisy pod dopis von der Leyenové — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1312,6 +1314,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **20. 10. (FB Live)** — bez tribunálu RB OSN nelze státu přisuzovat válečné zločiny, zatýkání za „Z“ „čistý fašismus“; pochod 17. 11., rok 1989 „nemůžeme slavit jako vítězství svobody“ — [Facebook Live 20. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-20-10-2026)
 - **21. 10.** — Rajchl „otočil kabátek“ (§ 318a, § 405), „zářez na pažbě“; omluva a rehabilitace všech stíhaných, pochod 17. 11. i „za očištění“ politicky persekvovaných — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **21. 10. (FB Live)** — změna § 405 je „povinnost“; omluva, odškodnění a zrušení rozsudků za tří vlád (Popelka, Čermák, Volný); Rajchl „psychopat“, Okamura a Majerová „ničí vlasteneckou scénu“ — [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
+- **28. 10.** — Británie stíhá slova jako terorismus (Ryan Williams); Mohamed „pedofil“ jako „historický fakt“ — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 18)
 - **19. 9.** — Trump 100% cla na kupce ruské ropy — dolar jako zneužitá rezervní měna (Bretton Woods) — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1378,6 +1381,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **26. 10.** — protesty v Evropě = řízené odvedení pozornosti před válkou; Babiš má o 17. 11. informace od tajných služeb, „šlape jak hodinky pod globalisty“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - **26. 10.** — poprvé bere varování před násilím vážně; násilí rozehrávají maskovaní policisté, aby se lidé nespojili proti válce — [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 - **27. 10.** — nezaměstnanost z AI se „dělá schválně“, aby lidé šli do armády; nutný nepodmíněný příjem — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+- **28. 10.** — zpochybňuje přistání na Měsíci, kulatou Zemi odkládá „do šedé zóny“ — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2135,6 +2139,11 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Flávio Bolsonaro | ✅ pozitivní | „Ve skutečnosti měl být prezident“, oběť podvodu | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
 | Vladimir Putin | ✅ pozitivní | Vždy klidný, má „vnitřní sílu“ | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
 | J. D. Vance | ❌ negativní | „Herec“ vyrobený a zaplacený | 2026-10-27 | [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026) |
+| Libor Vondráček | ❌ negativní | Sbírá podpisy pod dopis von der Leyenové místo vyjednání suverenity | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
+| Russell Brand | ✅ pozitivní | „Jeden z největších bojovníků proti globalismu a deep state“ | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
+| Ryan Williams | ✅ pozitivní | „Sympatický kluk“, s jeho výroky o islámu souhlasí | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
+| Jana Kovářová (senátorka) | ✅ pozitivní | Jediná politička, u které „neviděl faul“ | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
+| Ursula von der Leyenová | ❌ negativní | Pfizergate, zakázky z ruky, „satanistky“ | 2026-10-28 | [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026) |
 
 ---
 
@@ -2326,3 +2335,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 - [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
+- [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)

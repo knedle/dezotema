@@ -108,6 +108,16 @@ K jednání ukrajinského ministra Fedorova s Markem Ruttem (formát Rammstein, 
 
 ---
 
+### Požár u zbrojaře v Brně: „ne Rusové, ale konkurence“ — mafiánské praktiky zbrojního byznysu (Vrabel, 28. 10. 2026)
+
+Vrabel říká, že pro RT International komentoval požár před rodinným domem brněnského zbrojaře. Ruský útok odmítá: Rusko by podle něj poslalo balistickou raketu na výrobnu, ne oheň před garáž. Za pravděpodobné považuje vydírání ze strany konkurence, protože zbraně jsou „největší byznys v Evropě“ a zakázky se dávají z ruky (Strnad, Zůna, granáty s Poláky). Lidé, kteří „žijí z krve“, mají podle něj k mafiánským praktikám blíž než třeba praktičtí lékaři. Zakázky na covidové vakcíny (Pfizergate) a na zbraně spojuje do jednoho korupčního vzorce, v němž se Babiš a von der Leyenová „navzájem kryjí“.
+
+> „Že by to byly Rusové, to si nemyslím, kdyby Rusové chtěli zaútočit na nějakého zbrojaře, tak tam přiletí balistická raketa na výrobnu zbraní.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+
+---
+
 ### Zbrojní projekty (FCAS, britské F-35, cvičení Rammstein) jako korupce; ČR nemá mít jaderné zbraně (Vrabel, 8. 6. 2026)
 
 Ke konci francouzsko-německého projektu stíhačky FCAS, britskému zvažování zrušení nákupu 12 jadernonosných F-35A a cvičení NATO Rammstein Flag 2026 (ČR vysílá 5 Gripenů a ~53 lidí z 21. brigády) Vrabel opakuje, že jde o „trapný boj o to, který zbrojař bude co vyrábět a který politik z toho dostane 100 miliony do kapsy" — veřejné zakázky bez výběrových řízení placené občany (mj. přes zvýšené zdravotní pojištění). Hlavní teze k F-35 a Babišovu nápadu pořídit jaderné zbraně: ČR jako 11milionová země si nemůže dovolit mít jaderné zbraně proti 145milionovému Rusku — „když na to přijde, Rusko nás smaže z mapy během deseti minut, včetně civilistů". Jedinou správnou cestou je podle něj vystoupení z NATO; vše „mezi tím" (jestli Pavel pojede na summit, či ne) je nepodstatné. Navazuje na [NATO eskaluje válku „salámovou metodou" (2. č. 8. 6.)](valka-nato-rusko.md#nato-eskaluje-válku-salámovou-metodou-f-35-jako-scénář-jaderného-náletu-na-rusko-vrabel-8-6-2026).

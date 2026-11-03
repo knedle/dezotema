@@ -407,3 +407,13 @@ Rajchl na tiskové konferenci oznamuje koaliční shodu na novele trestního zá
 **25. 10. (Rajchl)** — V nedělním vysílání Rajchl argumentaci opakuje: § 318a je „kladivo na čarodějnice“ a vyzvědače lze stíhat podle § 316. Rakušan podle něj lže, že koalice chce § 405 zrušit, protože jde jen o jeho úpravu. Ostře kritizuje Nejvyšší soud za výklad, že úmysl pachatele je dán už vědomím odchylky „od většinového názoru demokratické společnosti“, protože podle něj „to už je zase ta strana a vláda“.
 
 **Zdroje:** [Rajchl — TK: novela trestního zákoníku (20. 10. 2026)](_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026), [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026), [Ladislav Vrabel — Facebook Live 21. 10. 2026](_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+
+### Británie: za příspěvky o islámu už ne „hate speech“, ale terorismus — případ Ryana Williamse (Vrabel, 28. 10. 2026)
+
+Ke zprávě, že britský facebookový tvůrce Ryan Williams byl zadržen pro podezření z terorismu, Vrabel tvrdí, že Británie přešla „na novou úroveň“. Za výroky, že jen jedna kultura lije ženám kyselinu do obličeje a že Mohamed byl pedofil, prý už nehrozí stíhání za nenávistné projevy, ale za terorismus s tresty až 20 let (zmiňuje Čermákových 5,5 roku). S obsahem výroků se ztotožňuje: Mohamed byl podle něj pedofil a jde o „historický fakt“, který prý nezpochybňuje žádný imám.
+
+> „A to, co řekl, je věc, kterou říkám taky. Někdo, kdo si vezme za ženu šestiletou holčičku a sexuálně ji konzumuje v jejích devíti letech, pro mě je taky pedofil.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+
+---

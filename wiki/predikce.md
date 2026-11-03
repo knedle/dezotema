@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — nová srbská vláda sankce proti Rusku nezavede (28. 10. 2026)
+
+**Předpověď:** Srbsko sankce proti Rusku nezavede; kdyby je nová vláda navrhla, budou ulice znovu plné.
+
+> „Kdyby někdo z nich přišel s takovým nápadem, jakože by Srbsko mělo dát Rusku sankce, no tak budou ulice plný znovu.“ — Ladislav Vrabel
+
+**Horizont:** po ustavení srbské vlády
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+
+---
+
 ### Ladislav Vrabel — ČR „za pět let nikdo nepozná“ (27. 10. 2026)
 
 **Předpověď:** S tempem příchodu cizinců a s uprchlíky z islámských zemí od ledna 2027 se ČR během pěti let k nepoznání promění.

@@ -1022,6 +1022,16 @@ Ke zprávě, že Nizozemsko kvůli AI ruší 25 tisíc míst ve státní správ�
 
 ---
 
+### Přistání na Měsíci zpochybněno, plochá Země „v šedé zóně“ (Vrabel, 28. 10. 2026)
+
+S odkazem na scénu ze seriálu Fargo a na Stanleyho Kubricka Vrabel naznačuje, že přistání Američanů na Měsíci bylo zinscenované. Ironicky dodává, že kdyby tam byli, „lítají tam dnes běžně“, a žádá diváky, ať napíšou, kdo tomu věří. Poprvé se veřejně vyjadřuje i k ploché Zemi: argumenty jednoho známého ho přiměly odložit jistotu o kulaté Zemi „do šedé zóny“. Uvádí zakřivení, upravené fotky NASA, rybí oko, staré mapy a vzdálenost New York–Sydney. Sám se kloní ke kulaté Zemi, protože gravitace „spojuje hmotu do koule“, ale „ruku do ohně nedá“.
+
+> „Prostě těch argumentů je spousta, takže jistý si tím, že by Země byla kulatá, rozhodně nejsem.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+
+---
+
 ### Drobná pozorování: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze (Vrabel, 13. 9. 2026)
 
 Vrabel zmiňuje dvě krátká, nerozvedená pozorování jako doklad neúplné/selektivní denacifikace a bagatelizace nacistické minulosti: podle „včerejší" zprávy měl nacistický lékař Josef Mengele žít po válce ve Švýcarsku; v Praze se navíc běžně prodávají hrníčky s portrétem Adolfa Hitlera jako suvenýr pro turisty.
