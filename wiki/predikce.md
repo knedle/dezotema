@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Srbsko nevstoupí do EU, referendum neprojde (26. 10. 2026)
+
+**Předpověď:** Srbsko za současného volebního období do EU nevstoupí a případné referendum o vstupu neprojde, protože EU je „v blbým stavu“.
+
+> „Můj tip je, … že to nakonec neprojde do Evropské unie, protože Evropská unie je v blbým stavu.“ — Ladislav Vrabel
+
+**Horizont:** volební období (4 roky)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
+
+---
+
 ### Ladislav Vrabel — Ukrajina bude do roku 2029 v EU s velkou armádou, kterou zaplatíme my (26. 10. 2026)
 
 **Předpověď:** Ukrajina se „skoro stoprocentní jistotou“ vstoupí do EU (2029) a její armáda o 600–800 tisících mužích bude jádrem Evropské kolektivní obrany placené z evropských peněz.

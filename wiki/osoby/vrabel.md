@@ -1057,6 +1057,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **24. 10.** — demonstranti za poplatky „idioti nejvyššího kalibru“, „idiocie“; ČR čeká vývoj jako na Ukrajině, jen bez Majdanu — [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
 - **25. 10.** — demonstrace Milionu chvilek = „český Majdan“, ČT mu před volbami „stáhla hlas“, zrušit nebo vyměnit — [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 - **25. 10.** — video: ČT a Člověk v tísni čerpaly za covidu 88 mil. Kč, resp. 630 mil. Kč od vlády USA; ČvT jako „bílý kůň“ — [Videoportál 25. 10. 2026](../_zdroje.md#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026)
+- **26. 10.** — se zrušením poplatků „musí souhlasit“, Milion chvilek rozeštvává za zahraniční peníze; Babiš „obětí“ — [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 11)
 - **9. 9.** — opakuje beze změny výzvu „zachraň se, kdo můžeš" (Jugoslávie jako analogie) — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
@@ -1373,6 +1374,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **22. 10.** — evropské nepokoje může řídit AI, superinteligence „převezme vládu“ (→ [predikce](../predikce.md)); Vance „produkt“ Thiela, PayPal mafie, Stargate — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 - **23. 10.** — chaos v Evropě řídí AI (opakuje), geneticky upravení psi, transhumanismus, nezaměstnanost „90+“ (→ [predikce](../predikce.md)) — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 - **26. 10.** — protesty v Evropě = řízené odvedení pozornosti před válkou; Babiš má o 17. 11. informace od tajných služeb, „šlape jak hodinky pod globalisty“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+- **26. 10.** — poprvé bere varování před násilím vážně; násilí rozehrávají maskovaní policisté, aby se lidé nespojili proti válce — [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2122,6 +2124,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Lula da Silva | ❌ negativní | Vyhrál díky prodloužení voleb („nasypali tam“) | 2026-10-26 | [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026) |
 | Jair Bolsonaro | ✅ pozitivní | Skutečný vítěz voleb | 2026-10-26 | [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026) |
 | Petr Fiala | ❌ negativní | „Píčus“ (opraveno na „špatný politik“) | 2026-10-26 | [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | V poplatcích a kritice Milionu chvilek mu dává za pravdu, je „obětí“; jinak proti jeho vládě | 2026-10-26 | [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026) |
+| Michal Svatoš | ❌ negativní | Vypráví „nesmysly“ o demonstraci 2022, aby dostal funkci v SPD | 2026-10-26 | [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026) |
 
 ---
 
@@ -2311,3 +2315,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
 - [Videoportál 25. 10. 2026](../_zdroje.md#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026)
 - [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+- [Facebook Live 26. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)

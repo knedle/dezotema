@@ -239,7 +239,11 @@ Vrabel označuje nedělní demonstraci Milionu chvilek na Staroměstském námě
 
 > „Hele, nám dělají Majdan. Nám tady nás začínají jako rozdělovat Rusko-Západ úplně brutálně.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+**26. 10. (posun)** — Vrabel se zrušením poplatků „musí souhlasit“ a noční projednávání považuje za normální. Kampaň Milionu chvilek („prodají nás Rusku“, „sovětská kolonie“) je podle něj nejbrutálnější propaganda placená zahraničním globalistickým kapitálem, demonstrace prý stála půl až tři čtvrtě milionu. Živý přenos na ČT24 označuje za „klasický globalistický projekt rozjíždění demonstrací“ jako N1 v Srbsku. Na rozdíl od nedělního vysílání (50 na 50) si po Babišově tiskové konferenci myslí, že Babiš „v tom nejede s nima, je obětí“. Majdan v ČR nečeká, protože „Babiš není Orbán“.
+
+> „Ale v tomhle s tím musím souhlasit s Andrejem Babišem, že tohle je snaha organizací, které pracují za zahraniční kapitál, globalistický kapitál, rozeštvat společnost.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 
 ---
 

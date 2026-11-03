@@ -5904,3 +5904,11 @@
 - **Datum záznamu:** 2026-10-26
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 16 min, zprávy čte Zuzana, Vrabel vysílá ze Srbska; bez sdílených videí.
+
+## Ladislav Vrabel — Facebook Live (26. 10. 2026) {#ladislav-vrabel--facebook-live-26-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-26_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1879663786549173>
+- **Datum záznamu:** 2026-10-26
+- **Zpracováno:** ano
+- **Poznámka:** 31 min, monolog s odpověďmi na zprávy diváků; bez sdílených videí.

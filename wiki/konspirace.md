@@ -1004,7 +1004,11 @@ Vrabel tvrdí, že protesty od Albánie po Irsko, které vznikly během dvou tý
 
 > „Co mě se týče, tak předpokládám velmi podobný scénář, ale spíš si myslím, že dojde nejdřív nějakému útoku a potom půjde rovnou článek 5 a pak vyhlášení válečného stavu.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+**26. 10. (Facebook Live)** — Ve večerním vysílání Vrabel poprvé v historii svých demonstrací nezlehčuje varování diváků před násilím: „to nebezpečí je vážné“. Násilí v Evropě podle něj nevychází od studentů. Rozdmýchávají ho maskovaní policisté jako „mezičlánek“ režimu a migranti ho pak zneužívají k rabování. Kvůli emisním povolenkám by se podle něj násilí nerozehrávalo, a tak jediné vysvětlení vidí ve válce: lidé se mají rozhádat, aby se proti ní nedokázali spojit. Jeho pochod 17. 11. má proběhnout klidně, ale „někde se něco … rozehrávat bude“.
+
+> „A tady jediné, co mě napadá, je jako válka, protože ta válka je prostě ten největší brutál. A proto se ty lidi manipulujou proti sobě a rozeštvávají proti sobě, aby se nebyli schopní spojit proti válce.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026)
 
 ---
 
