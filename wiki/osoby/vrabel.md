@@ -1302,6 +1302,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **28. 10.** — Srbsko jediná vítězná nenásilná revoluce vs. Vondráček sbírající podpisy pod dopis von der Leyenové — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 - **29. 10.** — sdílený dluh EU pro Ukrajinu, Babiš „odmává“ (→ [predikce](../predikce.md)); odchod Lagardeové z ECB, „něco blbého se chystá“ — [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 - **30. 10.** — zákaz ruských hokejistů „čistý nacismus“, Šťastného trestně stíhat (→ [stoch. teror](../stochasticky-teror.md)); Srbsko „zázrak“, studenti dělají, co chtěl pro ČR — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+- **31. 10.** — Polsko: „ústavní puč“ Tuskovy vlády za pomoci ozbrojené policie jako boj EU o polskou suverenitu — [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -2162,6 +2163,9 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Štefan Harabin | ✅ pozitivní | Jediný slovenský politik, který otevřeně mluví o příčinách války | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
 | Ilija Srdžanović | ❌ negativní | Možný srbský premiér, výroky o Srebrenici „nepřijatelné“ | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
 | Daniel Křetínský | ❌ negativní | „Energobaron“, bere 5 Kč z každé kWh | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Donald Tusk | ❌ negativní | „Největší válečný štváč v Polsku“, nástroj Bruselu k puči | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
+| Karol Nawrocki | ✅ pozitivní | „Konzervativnější a příčetnější“ než Tusk | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
+| Jaromír Zůna | ❌ negativní | „Drží linii NATO“ | 2026-10-31 | [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026) |
 
 ---
 
@@ -2356,3 +2360,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 - [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 - [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+- [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)

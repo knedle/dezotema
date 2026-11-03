@@ -5944,3 +5944,11 @@
 - **Datum záznamu:** 2026-10-30
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 15 min, zprávy čte Zuzana; krátký sdílený anglický klip (51:51–52:57) nezpracován.
+
+## Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026) {#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-31_Ladislav-Vrabel_Snaha-o-ústavní-puč-v-Polsku-na-1530-h-se-domlouvám-n.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1065000203246202>
+- **Datum záznamu:** 2026-10-31
+- **Zpracováno:** ano
+- **Poznámka:** 10 min 29 s, monolog před rozhovorem s Romanem Fritzem.

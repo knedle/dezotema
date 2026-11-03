@@ -208,6 +208,16 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 ---
 
+### Polsko: „ústavní puč“ Tuskovy vlády jako boj EU o polskou suverenitu (Vrabel, 31. 10. 2026)
+
+Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 2021, který odmítl nadřazenost evropských soudů nad polskou ústavou (srovnává s čl. 10 české Ústavy). Tuskova vláda podle něj jmenovala soudce, které prezident Nawrocki nepotvrdil, a ti suspendovali předsedu ÚS. Policie pak vstoupila do areálu soudu, „což nemá právo“. Jde podle něj o „historicky první velmi silný zásah do existence EU“, který může skončit až jejím rozpadem. EU se podle něj „skrze Donalda Tuska pokusila o ústavní puč za pomoci ozbrojené policie“. Ústavní soud je podle něj orgán s „rozhodujícím slovem“, i v otázce voleb. Prezident je vrchní velitel a v ČR už ho máme v podobě „generála NATO a válečného štváče“.
+
+> „Proto Evropská unie použila svoje nejtvrdší metody a skrze Donalda Tuska se pokusili o ústavní puč za pomoci ozbrojené policie.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
+
+---
+
 ### Passerelle klauzule a kvalifikovaná většina v obraně a migraci — „Anglosasové se rozhodnou, Slované mašírují"; „konec České republiky" (Vrabel, 29. 9. 2026)
 
 K úvaze Komise o passerelle klauzulích (kvalifikovaná většina v sankcích, lidských právech, obraně a daních) Vrabel tvrdí, že jde o „absolutní, zásadní, nevratnou reformu" a krok k federalizaci: EU má být „nástupcem původních států" a ČR zůstane „jako kraj, něco jako Bavorsko — jen na mapě namalovaná". Malé státy ztratí veto, takže když EU řekne „jdeme do války", budou muset jít — „Anglosasové se rozhodnou, Slované mašírují"; v oblasti lidských práv budou velké státy posílat uprchlíky „do slovanských zemí, které ještě nejsou úplně zislamizované". Kritizuje „vlastence", kteří chtějí EU reformovat — „ten právník tam chce přijít a říct Uršule von der Leyen: teď to budeme dělat jinak" (zřejmě narážka na Rajchla).
