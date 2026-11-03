@@ -243,6 +243,16 @@ Vrabel označuje nedělní demonstraci Milionu chvilek na Staroměstském námě
 
 ---
 
+### ČT a Člověk v tísni čerpaly za covidu peníze od vlády USA — „bílý kůň“ pro ovlivňování veřejného mínění? (Vrabel, 25. 10. 2026)
+
+Krátké video na Vrabelově kanálu tvrdí, že v americké veřejné databázi výdajů usaspending.gov je nezisková organizace Člověk v tísni vedena pod více jmény, mimo jiné pod aliasem „Česká televize“. Člověk v tísni podle videa dostal od vlády USA celkem 30 milionů dolarů (asi 630 mil. Kč), a to výhradně v letech pandemie covidu. Hlavním („rodičovským“) příjemcem má být Česká televize, které video připisuje 4,2 milionu dolarů (asi 88 mil. Kč). Video se ptá, proč ČT čerpala peníze od vlády USA, když má být kvůli nezávislosti placená jen z poplatků, a naznačuje, že Člověk v tísni může sloužit jako „bílý kůň“ pro finanční toky určené k ovlivňování veřejného mínění. Totéž video Vrabel pustil i v nedělním vysílání a vyvodil z něj, že ČT „není žádné nezávislé médium“ (viz též [FARA a neziskovky](fara-neziskovky.md)).
+
+> „…nelze se ubránit domněnce, že nezisková organizace Člověk v tísni zde může figurovat jako bílý kůň pro finanční toky za účelem ovlivňování informací a veřejného mínění?“ — video na kanálu Ladislava Vrabela
+
+**Zdroje:** [Ladislav Vrabel — Videoportál: ČT a Člověk v tísni čerpaly peníze od vlády USA (25. 10. 2026)](_zdroje.md#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026)
+
+---
+
 ## Dvojí metr v médiích
 
 ### Mediální lynč vs. selektivní ticho

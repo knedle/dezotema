@@ -5888,3 +5888,11 @@
 - **Datum záznamu:** 2026-10-25
 - **Zpracováno:** ano
 - **Poznámka:** 49 min, živý přenos z oslav v Bělehradě po srbských volbách; bez sdílených videí.
+
+## Ladislav Vrabel — Videoportál: ČT a Člověk v tísni čerpaly peníze od vlády USA (25. 10. 2026) {#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-25_Ladislav-Vrabel_Videoportál.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1124355463324413>
+- **Datum záznamu:** 2026-10-25
+- **Zpracováno:** ano
+- **Poznámka:** 3 min 20 s, namluvený reportážní spot na Vrabelově kanálu (z přepisu nelze ověřit, zda mluví sám Vrabel); totéž video pustil v nedělním vysílání 25. 10.

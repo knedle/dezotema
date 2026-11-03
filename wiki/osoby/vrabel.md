@@ -1056,6 +1056,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **24. 10.** — protest za poplatky ČT = obrana „válečné propagandy“, umělá bublina; dvojí metr policie (Blahníková vs. útočníci na Foldynu), stát „pěstuje teroristy“ — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 - **24. 10.** — demonstranti za poplatky „idioti nejvyššího kalibru“, „idiocie“; ČR čeká vývoj jako na Ukrajině, jen bez Majdanu — [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
 - **25. 10.** — demonstrace Milionu chvilek = „český Majdan“, ČT mu před volbami „stáhla hlas“, zrušit nebo vyměnit — [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+- **25. 10.** — video: ČT a Člověk v tísni čerpaly za covidu 88 mil. Kč, resp. 630 mil. Kč od vlády USA; ČvT jako „bílý kůň“ — [Videoportál 25. 10. 2026](../_zdroje.md#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 11)
 - **9. 9.** — opakuje beze změny výzvu „zachraň se, kdo můžeš" (Jugoslávie jako analogie) — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
@@ -2110,6 +2111,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Studentské hnutí (Srbsko) | ⚖️ rozporuplný | Pronárodní a mimo vliv EU, ale jako nová síla „nebezpečné“ | 2026-10-25 | [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026) |
 | Vojislav Koštunica | ✅ pozitivní | „Náš přítel“, autor ústavní vojenské neutrality | 2026-10-25 | [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026) |
 | Péter Magyar | ❌ negativní | Chce dostat Orbána do vězení | 2026-10-25 | [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026) |
+| Člověk v tísni | ❌ negativní | Podezření z role „bílého koně“ pro americké peníze na ovlivňování veřejného mínění | 2026-10-25 | [Videoportál 25. 10. 2026](../_zdroje.md#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026) |
 
 ---
 
@@ -2297,3 +2299,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
 - [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 - [Facebook Live 25. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026)
+- [Videoportál 25. 10. 2026](../_zdroje.md#ladislav-vrabel--videoportál-ct-člověk-v-tísni-usa-25-10-2026)
