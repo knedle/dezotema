@@ -1055,6 +1055,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **23. 10.** — Facebook potlačuje dosah (25 z 34 tisíc), „média na míru“ a politické cílení přes Palantir; studentské protesty dělají sociální sítě; odpovědní „do vězení na 20–30 let“ (→ [stoch. teror](../stochasticky-teror.md)) — [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
 - **24. 10.** — protest za poplatky ČT = obrana „válečné propagandy“, umělá bublina; dvojí metr policie (Blahníková vs. útočníci na Foldynu), stát „pěstuje teroristy“ — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 - **24. 10.** — demonstranti za poplatky „idioti nejvyššího kalibru“, „idiocie“; ČR čeká vývoj jako na Ukrajině, jen bez Majdanu — [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
+- **25. 10.** — demonstrace Milionu chvilek = „český Majdan“, ČT mu před volbami „stáhla hlas“, zrušit nebo vyměnit — [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 
 ### [Konspirační teorie](../konspirace.md) (pokrač. 11)
 - **9. 9.** — opakuje beze změny výzvu „zachraň se, kdo můžeš" (Jugoslávie jako analogie) — [Facebook Live 9. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026)
@@ -1195,6 +1196,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **17. 10.** — Albánie „lidi proti režimu“, bez nenásilné revoluce válka s Ruskem nebo občanská válka (→ [predikce](../predikce.md)); Babiš „karabáčem“ na nástěnce (→ [stoch. teror](../stochasticky-teror.md)), politiky budou po válce soudit — [Zprávy v devět 17. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
 - **19. 10.** — program a programové prohlášení jako „smlouva“, politici „zaměstnanci“ k odvolání (daň firmám); „kdyby vládnul“: soukromá ochranka „jako armáda“, podnikatelé „jako Putin“, loajalita generálů — [Zprávy v devět 19. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 - **23. 10.** — hlasování ministrů SPD proti režimu Ukrajinců jako divadlo „opozice ve vládě“, SPD v Ostravě a Karviné „prolítla“; Fico „další na řadě“ — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+- **25. 10.** — protesty po Evropě řídí samy režimy, policie mlátí „na rozkaz shora“; „velmi brzo“ rudé vlajky a návrat socialismu (→ [predikce](../predikce.md)) — [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1267,6 +1269,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **22. 9.** — Koudelka (BIS) měl spáchat trestný čin šíření poplašné zprávy výrokem o ruském útoku „v řádu měsíců" — [Zprávy v devět 22. 9. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026)
 - **21. 10.** — Babiš nepřímým spolumajitelem ukrajinské kliniky (Bobošíková): „brutální střet zájmů“, „nástěnka největších lhářů, podvodníků“; banky jako obětní beránek, „slibotechna“, schodek poroste (→ [predikce](../predikce.md)) — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **21. 10. (FB Live)** — zrušená insolvence po demonstracích 2022 a dluh manželky jako „politicky organizovaný zločin“, žádá rehabilitaci i pro sebe — [Facebook Live 21. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-21-10-2026)
+- **25. 10.** — Anton Klobučkin: útok barvou z roku 2023 jako „terorismus“, konflikt s Foldynou, „režim si pěstuje teroristy“ — [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 
 ### [Blízký východ](../blizky-vychod.md) (pokrač. 9)
 - **18. 9.** — Húsíové rozšiřují územní zisky, ohrožují saúdský export ropy — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -2096,6 +2099,13 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Ivanka Trumpová, Jared Kushner, Edi Rama | ❌ negativní | „Elitářská parta“ privatizuje Albánii | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
 | Tucker Carlson | ⚖️ rozporuplný | Souhlasí s jeho tezí o demografii Evropy, opravuje ho v číslech o Rusku | 2026-10-24 | [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026) |
 | Petr Macinka | ❌ negativní | Podporuje Pavla jako evropského vyjednavače, „zařadil se“ | 2026-10-24 | [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026) |
+| Anton Klobučkin | ❌ negativní | Útok barvou v roce 2023, „terorista“ vypěstovaný režimem, podezřelé cesty do Jordánska | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
+| Mikuláš Minář | ❌ negativní | Demonstrace na Staroměstském náměstí = „největší propaganda na ulicích“, „dělají Majdan“ | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
+| Jindřich Rajchl | ❌ negativní | „Satanista“, „největší ekel v české politice“, zrádce; „ve válce se takoví lidé střílí“ | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
+| Andrej Babiš | ❌ negativní | Skrytý zrádce, poplatky zrušil možná na pokyn EU (50:50), pro článek 5 zvedne ruku první | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
+| Tomáš Čermák | ✅ pozitivní | Nespravedlivě 5,5 roku za slova | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
+| Vladimír Štěpán, Petr Drulák | ❌ negativní | „Elitáři“, nejsou alternativou | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Lituje jeho porážky, Srbsko „poslední svobodná země“ | 2026-10-25 | [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026) |
 
 ---
 
@@ -2281,3 +2291,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 23. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-23-10-2026)
 - [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 - [Facebook Live 24. 10. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
+- [Nedělní vysílání 25. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)

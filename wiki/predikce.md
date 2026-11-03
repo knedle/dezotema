@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — po Evropě „velmi brzo“ zavlají rudé vlajky — návrat socialismu (25. 10. 2026)
+
+**Předpověď:** Na Západě se velmi brzy objeví myšlenky socialismu a po Evropě budou vlát rudé vlajky.
+
+> „Uvidíte prostě velmi brzo začnou vlát rudý vlajky všude, po Evropě, na západě a začnou se objevovat myšlenky socialismu.“ — Ladislav Vrabel
+
+**Horizont:** „velmi brzo“
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+
+---
+
+### Ladislav Vrabel — Rusové chtějí dobýt Kyjev do poloviny března, „čeká nás tvrdá zima“ (25. 10. 2026)
+
+**Předpověď:** Rusko se do poloviny března 2027 pokusí dostat do Kyjeva a dobýt Ukrajinu.
+
+> „Nás čeká těžká zima, protože Rusové do března chtějí dobít Ukrajinu, chtějí se dostat do Kyjeva, někdy do poloviny března.“ — Ladislav Vrabel
+
+**Horizont:** polovina března 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+
+---
+
+### Ladislav Vrabel — 17. listopadu „se něco bude rozehrávat“, ale ne celý Majdan (25. 10. 2026)
+
+**Předpověď:** Kolem 17. 11. dojde k nějakému vyhrocení či provokacím, ne však k plnému Majdanu.
+
+> „Takže 17. listopadu se něco bude rozehrávat. Nemyslím si, že to bude Majdan úplně.“ — Ladislav Vrabel
+
+**Horizont:** 17. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+
+---
+
 ### Ladislav Vrabel — Evropa bude muslimská, ČR islámskou zemí do 20–30 let (24. 10. 2026)
 
 **Předpověď:** Pokud ČR nezavře hranice a zůstane v EU, stane se během 20–30 let islámskou zemí; Evropa bude muslimská nevyhnutelně.
@@ -391,7 +427,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 > „Takže za mě osmdesát ku dvaceti, že vyhraje Aleksandar Vučić. […] Robert Fico je podle mě na řadě.“ — Ladislav Vrabel
 
 **Horizont:** srbské volby; Fico neurčeno
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — volby 25. 10. vyhrálo studentské hnutí, Vučić uznal porážku (sám Vrabel v [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026))
 **Zdroj:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
 
 ---
@@ -728,7 +764,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 > „Bude kandidovat [na] premiéra Srbska. Předpokládám, že vyhraje." — Ladislav Vrabel
 
 **Horizont:** srbské volby (cca 10–11/2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — volby 25. 10. vyhrálo studentské hnutí, Vučić uznal porážku (sám Vrabel v [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026))
 **Zdroj:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026)
 
 ---

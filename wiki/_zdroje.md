@@ -5872,3 +5872,11 @@
 - **Datum záznamu:** 2026-10-24
 - **Zpracováno:** ano
 - **Poznámka:** 8 min, monolog z procházky po Bělehradě; bez sdílených videí.
+
+## Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026 {#ladislav-vrabel--nedělní-vysílání-25-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-25_Ladislav-Vrabel_25-10-2026-Nedělní-živé-vysílání-ve-21h.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2203232253937097>
+- **Datum záznamu:** 2026-10-25
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 51 min; sdílené cizí video o usaspending.gov (44:18–47:32) a archivní klipy (rozhovor s Klobučkinem, předvolební rozhovor v ČT) nezpracovány.

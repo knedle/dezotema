@@ -233,6 +233,16 @@ Vrabel tvrdí, že lidé, které nezajímají cizí vojáci ani francouzské jad
 
 ---
 
+### Demonstrace proti zrušení poplatků jako „český Majdan“; ČT mu před volbami „stáhla hlas“ (Vrabel, 25. 10. 2026)
+
+Vrabel označuje nedělní demonstraci Milionu chvilek na Staroměstském náměstí za „největší propagandu na ulicích“, jakou viděl. Minář podle něj otáčí realitu: noční hlasování ve 4:36 líčí jako praktiky „sovětského politbyra“ a zrušení poplatků jako zaprodání ČR Rusku, čímž společnost „brutálně“ štěpí na Rusko a Západ („nám dělají Majdan“). Babišův spěch se zrušením poplatků podle něj buď „přišel z EU“, aby se rozpoutaly nepokoje, nebo šlo o hloupost (dává tomu 50 na 50). ČT podle něj není nezávislá: v covidu prý brala peníze od vlády USA a před volbami mu dala tři minuty, a když mluvil o vystoupení z NATO, zvukaři mu „stáhli hlas a moderátorovi ho zvýšili“. ČT je podle něj „soukromá globalistická organizace, která dělá válečnou propagandu“ a měla by se buď celá vyměnit, nebo zrušit.
+
+> „Hele, nám dělají Majdan. Nám tady nás začínají jako rozdělovat Rusko-Západ úplně brutálně.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+
+---
+
 ## Dvojí metr v médiích
 
 ### Mediální lynč vs. selektivní ticho

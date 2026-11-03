@@ -755,6 +755,16 @@ Ve Sněmovně Rajchl odpovídá kolegovi (v přepisu „Činčila“), který mu
 
 ---
 
+### Návrat socialismu: „velmi brzo začnou vlát rudé vlajky“ po Evropě (Vrabel, 25. 10. 2026)
+
+Vrabel poprvé předpovídá, že se na Západě „velmi brzo“ začnou objevovat myšlenky socialismu a po Evropě budou vlát rudé vlajky. Neví, zda je to naplánované, nebo jde o přirozený cyklus střídání socialismu a kapitalismu. Odkazuje na vyprávění své babičky: po válce byli lidé tak zničení, že hledali nový systém, a proto přišel socialismus, „a to je možný, že se to stane znova“. Řadí to do „horké fáze přeměny systému“, která podle něj trvá od roku 2015. Výsledkem současného vývoje bude podle něj částečně občanská válka a částečně válka s Ruskem a potom buď „temno“ technologické totality, nebo nový systém.
+
+> „Uvidíte prostě velmi brzo začnou vlát rudý vlajky všude, po Evropě, na západě a začnou se objevovat myšlenky socialismu. Je to poprvé, kdy vám to říkám.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
@@ -1132,7 +1142,11 @@ Vrabel upozorňuje na případ, kdy německá policie zmlátila a zadržela Pol�
 
 **5. 10.** — Vrabel tvrdí, že policie má na demonstracích v ČR „nějaký úkol rozehrát konflikt“: těžkooděnci strkají do lidí, dlouze a posměšně zírají na „nejsilnější jedince“ a exemplárně zatýkají ženu, která „nikoho neoslovila“. Přirovnává to k roku 1989 a „agentovi Šmídovi“ i k Majdanu a Gruzii („rozděl a panuj“). Dnešní režim podle něj „není o moc lepší než v roce 89, jestli není horší“. Na Západě (Španělsko, Francie, Německo, Británie) už jde podle něj o boje mezi policií, „která brání globalistický režim, protože je za to placená“, a občany.
 
-**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026)
+**25. 10.** — Vrabel tvrdí, že brutální protesty, které se během jednoho týdne objevily od Itálie po Irsko i v Tunisu, nemohou být spontánní. Jsou podle něj „řízené a vyprovokované“ režimy, protože jen ty ovládají média a sociální sítě. Odkazuje na americké video, podle něhož byli lidé v černém ve Francii napojení na policii a začali házet dlažební kostky. Policie podle něj nemlátí lidi bez rozkazu shora a brutalita se stupňuje záměrně, aby se násilí normalizovalo a „přelilo v občanskou válku“. Druhým motivem je podle něj odvést pozornost od „něčeho mnohem závažnějšího“, co se v Evropě chystá. Sám to označuje za spekulaci.
+
+> „Policie nikdy není brutální, pokud nedostane rozkaz shora.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 18. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-6-2026), [Vrabel — Zprávy v devět 22. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-9-2026), [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Vrabel — Zprávy v devět 26. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-9-2026), [Vrabel — Zprávy v devět 5. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-5-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 
 ### „Demokracie = vláda elit, ne lidu" — Vrabel (19. 6. 2026)
 

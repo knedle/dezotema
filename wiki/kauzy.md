@@ -1247,3 +1247,13 @@ V televizní debatě s Janem Jakobem Rajchl tvrdí, že ministr financí Zbyněk
 > „Ladislav Vrábel je za mě obyčejný hochštapler a podvodník." — Jiří Černohorský
 
 **Zdroje:** [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026)
+
+### Anton Klobučkin: útok barvou na Vrabela (2023) jako „terorismus“, konflikt s Foldynou — „režim si pěstuje teroristy“ (Vrabel, 25. 10. 2026)
+
+Vrabel tvrdí, že mladík, který se před Sněmovnou dostal do fyzického konfliktu s poslancem Jaroslavem Foldynou, je Anton Klobučkin. Ten ho podle něj v roce 2023 s přítelkyní polil na pochodu „ČR na prvním místě“ žlutou a modrou barvou. Útok na vedoucího veřejného shromáždění s politickým motivem („Vrábel není nedotknutelný“) podle něj splňuje definici terorismu. Přesto byl vyřízen jako přestupek s pokutou 1 000 Kč a policie útočníkovi prý „pomohla v útěku“, zatímco Tomáš Čermák dostal 5,5 roku za slova. Klobučkinovy cesty do Jordánska (evakuace slovenským vojenským letadlem) považuje za „velmi podezřelé“ a spekuluje, zda nepracuje pro tajné služby nebo policii. Trestní oznámení Vladimíry Vítové prý zůstalo bez odezvy.
+
+> „Takže tenhle režim si tady vypěstovává svoje vlastní teroristy.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+
+---
