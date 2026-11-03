@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Rusko zasáhne továrnu vyrábějící munici pro českou muniční iniciativu (30. 10. 2026)
+
+**Předpověď:** Výbuch v muniční továrně CSG v Granadě je „první vlaštovka“; Rusko zasáhne podnik vyrábějící munici pro českou iniciativu a budou mrtví.
+
+> „Možná, že se to zastaví před tím, ale logika je taková, že to spíš vypadá, že se to stane.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+
+---
+
+### Ladislav Vrabel — příštích šest měsíců rozhodne — Rusko nejspíš celou Ukrajinu nevezme (30. 10. 2026)
+
+**Předpověď:** Příštích šest měsíců bude rozhodujících; pravděpodobnější je, že „se někdo hecne“ a bude bojovat, aby Rusko nevzalo celou Ukrajinu, a mír „jen tak“ nepřijde.
+
+> „Další možnost je, že někdo se hecne a zabojuje, aby Rusové nevzali celou Ukrajinu. To mi připadá jako pravděpodobnější scénář.“ — Ladislav Vrabel
+
+**Horizont:** cca do dubna 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+
+---
+
+### Ladislav Vrabel — tuto zimu přijde další energetická krize (30. 10. 2026)
+
+**Předpověď:** Zima 2026/27 bude komplikovaná, přijde další energetická krize a státy budou muset energie dotovat.
+
+> „Prostě čeká nás další energetická krize. […] Takže to, co nás čeká tuto zimu, bude problém.“ — Ladislav Vrabel
+
+**Horizont:** zima 2026/27
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+
+---
+
 ### Ladislav Vrabel — Babiš na listopadovém summitu „odmává“ společný dluh EU pro Ukrajinu (29. 10. 2026)
 
 **Předpověď:** Na summitu EU koncem listopadu Babiš odsouhlasí společný dluh na financování Ukrajiny (70–77 mld. eur).

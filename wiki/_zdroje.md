@@ -5936,3 +5936,11 @@
 - **Datum záznamu:** 2026-10-29
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 13 min, zprávy čte Zuzana; bez sdílených videí.
+
+## Ladislav Vrabel — Zprávy v devět 30. 10. 2026 {#ladislav-vrabel--zprávy-v-devět-30-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-30_Ladislav-Vrabel_30-10-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1140879471667326>
+- **Datum záznamu:** 2026-10-30
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 15 min, zprávy čte Zuzana; krátký sdílený anglický klip (51:51–52:57) nezpracován.

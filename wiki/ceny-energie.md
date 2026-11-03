@@ -584,9 +584,19 @@ Vrabel tvrdí, že výroba elektřiny v ČR stojí přibližně 40–50 haléř�
 
 **11. 9.** — Vrabel opakuje totéž srovnání s doplněním pohonných hmot: benzín/nafta v ČR se blíží 50 Kč/l, v Německu se litr benzínu prodává za víc než 2 eura, zatímco v Rusku za třetinu ceny nebo méně; elektřina v Srbsku je 4,5× levnější než v ČR — přestože ČR byla v roce 2022 největším vývozcem elektřiny v Evropě a vyráběla ji za 30–50 haléřů. Dodává, že zdražení bylo dále umocněno obsazením přístavu Mocha jemenskými Húsíji a jejich postupem k průlivu Bab al-Mandab (cca 10 % světové ropy), což popisuje jako „druhý Hormuz".
 
-**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026)
+**Zdroje:** [Vrabel — Nedělní vysílání 9. 8. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-9-8-2026), [Vrabel — Zprávy v devět 12. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-8-2026), [Vrabel — Facebook Live 11. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-11-9-2026), [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 
 **2. 9.** — Ke zprávě, že velkoobchodní ceny energie pro rok 2026/2027 výrazně rostou (zemní plyn na českém trhu +56 %, na evropském trhu TTF kolem +60 %; roční kontrakt elektřiny zdražil přibližně o třetinu), Vrabel opakuje svou tezi o osobní odpovědnosti politiků: zajistit občanům dostupné energie je podle něj jejich základní povinnost, ne věc „trhu" nebo „kapitalismu", protože elektřina a plyn jsou nezbytné komodity (na rozdíl třeba od luxusního zboží). Kritizuje, že přes stále funkční plynovody z Ruska čeští i evropští politici odmítají levné ruské zdroje ze zásadových/korupčních důvodů (jmenuje znovu Daniela Křetínského jako toho, kdo z drahé elektřiny profituje) — a sarkasticky glosuje souběžnou zprávu o navýšení rozpočtu Kanceláře prezidenta o 4 mil. Kč, že to možná bude „akorát na plyn" pro Hrad.
+
+---
+
+### Lipská burza a „péče řádného hospodáře“ jako výmluva; elektřina zdarma do průměrné spotřeby (Vrabel, 30. 10. 2026)
+
+Vrabel odmítá požadavek diváka zrušit Lipskou burzu, protože problém je podle něj v tom, že se tam tvoří cena. Energetické firmy se podle něj schovávají za povinnost členů orgánů jednat s péčí řádného hospodáře podle zákona o obchodních korporacích: prodat levněji než na burze by prý poškodilo firmu. Suverénní stát to ale podle něj může „za jeden den“ obejít jednoduchým zákonem, který stanoví cenu elektřiny. Opakuje návrh svého hnutí dát domácnostem elektřinu zdarma do průměrné spotřeby, protože výroba stojí 30–50 haléřů a i při ceně 1,50 Kč by byl zisk 200 %. Vláda podle něj nepracuje pro lidi, ale pro „energobarony“ (Křetínský). Tuto zimu podle něj čeká další energetická krize.
+
+> „Klidně může přijít vláda a udělat jednoduchý zákon. Co se týče elektřiny, tak bude za tolik a za tolik peněz. A obejde tím úplně zákon o obchodních korporacích. To je úplně jednoduchý, to je úplně triviální.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 
 ---
 

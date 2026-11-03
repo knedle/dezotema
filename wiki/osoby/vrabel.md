@@ -1301,6 +1301,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **27. 10.** — koruna v ústavě „padělek“ (čl. 10 Ústavy), jediná cesta je vystoupení z EU; srbští studenti provedli „nenásilnou revoluci, to, co my jsme chtěli“ — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 - **28. 10.** — Srbsko jediná vítězná nenásilná revoluce vs. Vondráček sbírající podpisy pod dopis von der Leyenové — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 - **29. 10.** — sdílený dluh EU pro Ukrajinu, Babiš „odmává“ (→ [predikce](../predikce.md)); odchod Lagardeové z ECB, „něco blbého se chystá“ — [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+- **30. 10.** — zákaz ruských hokejistů „čistý nacismus“, Šťastného trestně stíhat (→ [stoch. teror](../stochasticky-teror.md)); Srbsko „zázrak“, studenti dělají, co chtěl pro ČR — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1328,6 +1329,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **11. 10.** — petrodolar jako „největší podvod“, Rothschildové a Rockefellerové; Trumpovi „nevěří ani nos mezi očima“ — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-11-10-2026)
 - **14. 10.** — Trumpovo energetické příměří jako burzovní machinace, „obrovská kriminální činnost“ — [Večerní zprávy 14. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026)
 - **15. 10.** — Macinka a Havlíček „hovadina“, nafta po volbách 60 Kč, v zimě 70 Kč (→ [predikce](../predikce.md)) — [Večerní zprávy 15. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026)
+- **30. 10.** — „péče řádného hospodáře“ jako výmluva, cenu elektřiny stanovit zákonem, elektřina zdarma do průměrné spotřeby — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 
 ### [Migrace](../migrace.md) (pokrač. 22)
 - **19. 9.** — ukrajinizace ČR (2 mil.), predikce ukrajinské politické strany ve volbách — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1416,6 +1418,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **21. 10.** — dron u Wunstorfu ležel dva roky: zvýšený stupeň hrozby sabotáží zesměšněn — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **22. 10.** — Putin potvrdil, že Rusko nechce válku s NATO; válka NATO–Rusko = jaderná, scénář Pobaltí → Polsko → dvě české brigády (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 - **26. 10.** — ČR může spadnout do ruské sféry vlivu, „protáhly by se obličeje nácečkům“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+- **30. 10.** — Lavrov „nejlepší ministr zahraničních věcí na světě“, většina světa na straně Ruska, rozsudek ESLP bezcenný — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 
 ### [Volby 2026](../volby-2026.md)
 - **10. 10.** — šok z výsledků („vyhrály STAN a ODS“), Kuba „pravá ruka kmotra Dlouhého“, Budějovice „čistá mafie“ → [volby-2026.md](../volby-2026.md) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
@@ -2152,6 +2155,13 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Pavel Drobil | ❌ negativní | „Národ sobě“ „satanisticky“ vyvádí úspory na Ukrajinu | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
 | Sebastian Kurz | ✅ pozitivní | „Zbytky zdravého rozumu, antiglobalista“, byl vyštván | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
 | Peter Pellegrini | ❌ negativní | Má slíbenou kariéru v NATO | 2026-10-29 | [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026) |
+| Boris Šťastný | ❌ negativní | Zákaz ruských sportovců je „čistý nacismus“, měl by být trestně stíhán | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Sergej Lavrov | ✅ pozitivní | „Nejlepší ministr zahraničních věcí na světě“, „diplomat každým coulem“ | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Marco Rubio | ✅ pozitivní | Vyzval Evropu ke zmírnění rétoriky vůči Rusku | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Radosław Sikorski, Donald Tusk | ❌ negativní | Bojkot fotky s Lavrovem, „zakázal bych je“ | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Štefan Harabin | ✅ pozitivní | Jediný slovenský politik, který otevřeně mluví o příčinách války | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Ilija Srdžanović | ❌ negativní | Možný srbský premiér, výroky o Srebrenici „nepřijatelné“ | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
+| Daniel Křetínský | ❌ negativní | „Energobaron“, bere 5 Kč z každé kWh | 2026-10-30 | [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026) |
 
 ---
 
@@ -2345,3 +2355,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 - [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 - [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+- [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)

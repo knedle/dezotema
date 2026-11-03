@@ -200,7 +200,11 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 > „Takže to je jediný, kde se zatím podařilo jako tím bojem proti těm elitám, nenásilnou revolucí, opravdu změnit režim.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026), [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026), [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
+**30. 10.** — ⚡ Vrabel výsledek nazývá „zázrakem“. Studenti podle něj dělají „přesně to, co jsem chtěl“: nenásilnou revoluci, audit veřejných smluv, zatýkání, výměnu vedení policie a tajné služby, delegaci do Ruska kvůli plynu a ropě, zákon proti lithiovému dolu pro EU a podporu zemědělské soběstačnosti. Vučićovi teď naopak vyčítá, že „prodával Srbsko zahraničí“. Výhrady má k Iliji Srdžanovićovi jako možnému premiérovi (Srebrenica) a k bývalému guvernérovi národní banky. Rozdíl proti Maďarsku vidí v tom, že v Srbsku se soutěží o to, „kdo je víc národní“; Magyar ani Rajchl, Babiš, Macinka a Okamura podle něj vlastenci nejsou. *(Ještě 15.–23. 10. tvrdil, že kampaň studentů platí zahraniční fondy, a sázel na Vučićovo vítězství.)*
+
+> „Tak to vypadá, že se stal v Srbsku zázrak. Že ty studenti, který vyhráli ty ligy na ulici, že skutečně vyhráli svoji zemi a to, co říkají, že budou dělat, tak to zatím vypadá přesně jako to, co jsem chtěl udělat.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Facebook Live (25. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-25-10-2026), [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026), [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026), [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 
 ---
 
@@ -745,6 +749,16 @@ K návrhu EK zachovat bezplatné emisní povolenky pro průmysl i po roce 2030 (
 Devět zemí EU vyzvalo komisaře Glena Mikalefa, aby EU přestala financovat Mezinárodní olympijský výbor kvůli zrušení zákazu pro ruský olympijský výbor (ruští sportovci se tak budou moci účastnit OH 2028 v Los Angeles). Evropská komise reagovala, že MOV žádné prostředky neposkytuje, takže mu je nemůže odebrat — místo toho prověří případné finanční vazby na jednotlivé sportovní organizace. Vrabel to označuje za „byrokracii na entou" a „top vtip": EU řeší, jak MOV odebrat peníze, aby zjistila, že mu žádné nedává. Zasazuje to do teze o Evropě propadající se do „absolutní kolonie Spojených států".
 
 **Zdroje:** [Vrabel — Zprávy v devět 17. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
+
+---
+
+### CAS vrací ruské hokejisty, Šťastný chce zákaz udržet: „čistý nacismus“, ministr „by měl být trestně stíhán“ (Vrabel, 30. 10. 2026)
+
+K rozhodnutí sportovního arbitrážního soudu (CAS), který zrušil zákaz ruských a běloruských hokejistů, Vrabel tvrdí, že politika do sportu nepatří a vyloučení sportovců kvůli národnosti je „čistý nacismus“, jaký tu byl naposledy za druhé světové války. Ministr sportu Boris Šťastný (Motoristé), který chce i proti rozhodnutí CAS bránit startu ruských dívek do 18 let na MS v Ostravě, by podle něj měl být trestně stíhán. Motoristy, Trikoloru a PRO označuje za „ODS pod jiným názvem“ a ptá se, kdo Motoristům dal 50 milionů na kampaň. Ke stejnému rozhodnutí CAS se týž den vyjádřil i [Rajchl](valka-nato-rusko.md) („politika do sportu nepatří“).
+
+> „To je čistý nacizmus. To jsme tady naposledy měli za druhé světové války. Je to trestné. Ministr Šťastný by podle mě měl být trestně stíhaný.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 
 ---
 

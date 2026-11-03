@@ -1605,3 +1605,13 @@ Vrabel tvrdí, že až bude Evropa „na kolenou“ a USA se dohodnou s Čínou 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 
 ---
+
+### Lavrov „nejlepší ministr zahraničních věcí na světě“ — díky němu svět chápe Rusko (Vrabel, 30. 10. 2026)
+
+K bojkotu společné fotografie s Lavrovem na G20 (Sikorski) Vrabel tvrdí, že Lavrov dokázal od roku 2022 trpělivou diplomacií změnit postoj světa. Svět Rusko tehdy odsoudil, dnes podle něj „valná většina světa“ chápe důvody ruské operace a stojí na straně Ruska. Proti zůstává jen „pár idiotů v EU“ a politici z Kanady, Japonska a Austrálie; i Rubio prý Evropu vyzval ke zmírnění rétoriky vůči Rusku. Rozsudek ESLP o ruské genocidě odmítá jako bezcenný („jako kdybych si to napsal na toaletě“), protože soud podle něj nemá pravomoc a Evropa je stranou konfliktu. Sikorského a Tuska by „zakázal“ a opakuje babiččin výrok, že „každého, kdo dělá válku, by pověsila za žebro“.
+
+> „Za mě Sergej Lavrov je nejlepší ministr zahraničních věcí na světě, který existuje. Basta tečka. Je to prostě diplomat každým coulem.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+
+---
