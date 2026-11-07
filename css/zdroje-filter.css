@@ -1,0 +1,4 @@
+/* Zdroje filter — cursor fix (Material styles handle the rest) */
+.md-sidebar--secondary .md-nav__link[data-person] {
+  cursor: pointer;
+}

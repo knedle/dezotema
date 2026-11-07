@@ -1,0 +1,49 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Konspirátor Boldy KonspyChannel
+URL:          https://www.facebook.com/100083247552502/videos/1432110248710662
+Datum videa:  2026-03-17
+Zpracováno:   2026-04-05 15:18:45
+Jazyk:        cs
+Délka:        00:01:41
+Zhlédnutí:    13 101
+Popis:        Čím dál víc se dnešní války podobají filmu Terminátor.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       13s
+Rychlost:     7.4x realtime
+Celkem:       18s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Zdaré z lidí, tak víme, že ve Balkánu se používají roboti, drony a další tyto věci, které ovlada uměla inteligence,
+[00:08] ale už to zvedli o level vyš a na Ukrajinu se budou posílat první dva humanoidní roboty.
+[00:15] A chcete více informací, tak si poslechnete tady Dylana Page.
+[00:20] World War 3 might look a lot different than we thought.
+[00:24] You see, this is the world's first humanoid robot that was actually sent to the front lines for testing last month.
+[00:31] And it could change the battlefield forever.
+[00:34] It's called the Phantom MK1. It's 5 foot 9, weighs 175 pounds.
+[00:38] It can hold various weapons, including a revolver, pistol, shotgun, rifles, etc.
+[00:43] And according to Time Magazine, it's the world's first humanoid robot specifically developed for defense application.
+[00:50] And this is not just something hypothetically in the future.
+[00:53] It's happening now.
+[00:54] Its creator, a US startup called Foundation Robotics,
+[00:57] just sent two of these things to Ukraine last month to test them on the front lines.
+[01:02] And it's not just that.
+[01:02] Foundation already have research contracts with the US Army, Navy and Air Force.
+[01:06] They're due to begin tests with US Marines.
+[01:08] And the Pentagon is even considering these robots for potential deployment in combat scenarios.
+[01:13] But the thing is, humanoid robots take the moral questions that we already have for drones to another level.
+[01:19] I mean, the key difference is in the name.
+[01:22] Human-oid.
+[01:23] Meaning, they're designed locally.
+[01:24] Like a human, so that they can carry out tasks only humans would be needed to carry out at war.
+[01:29] And it's crazy to say, but a lot of these questions might need answers sooner than you think.
+[01:34] Because Foundation Robotics alone have a planned mass production goal of 50,000 robots by 2027.
+[01:40] World War 3.

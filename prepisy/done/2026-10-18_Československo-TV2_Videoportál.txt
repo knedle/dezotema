@@ -1,0 +1,33 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Československo TV2
+URL:          https://m.facebook.com/watch/?v=2017141705623563&_rdr
+Datum videa:  2026-10-18
+Zpracováno:   2026-10-24 14:15:54
+Jazyk:        cs
+Délka:        00:01:34
+Zhlédnutí:    1 975
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       12s
+Rychlost:     7.7x realtime
+Celkem:       16s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:01] Čau, čau, čau. Tak tady máte bonusový video po soudu, podle slov falešného Tomáše Čermáka.
+[00:10] Na něj čekala česká televize. Není to pravda, čekali jsme tam v dešti přes hodinu jenom my dva s kačenkou.
+[00:20] Rodina odkráčela po vykouření cigarety z budovy před soudem a 24. září ohledně podmíněného propuštění Tomáše Čermáka česká televize zveřejnila tuto reportáž.
+[00:40] Okresní soud v Liberci rozhodl o podmíněném propuštění Tomáše Čermáka.
+[00:45] Krajský soud v Plznímu před třemi lety uložil za podporu a propagaci terorismu trest 55.
+[00:51] roku vězení. Čermák tehdy vyzýval k násilí proti politikům. Odpikal si víc než polovinu trestu. Podle zprávy z věznice se napravil.
+[01:01] Tak, tohle je prokazatelná lež na stránkách webových české televize.
+[01:13] Události v regionech 24. září. Žádna česká televize tam na Čermáka nečekala.
+[01:23] A Renata Bernardy je usvědčená lhářka a manipulátorka. Čau, čau.
+[01:32] Titulky vytvořil JohnyX.

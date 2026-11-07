@@ -1,0 +1,831 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/27039500419003107
+Datum videa:  2026-05-09
+Zpracováno:   2026-05-10 19:08:11
+Jazyk:        cs
+Délka:        00:43:12
+Popis:        9. 5. 2026 Večerní zprávy s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    22s
+Přepis:       7m 56s
+Rychlost:     5.4x realtime
+Celkem:       8m 19s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Vítám vás u nich po třetí. Dneska nás ta technika upravdu jako zlobí.
+[00:06] Napište mi prosím vás pěkně, jestli nás slyšíte. Zuzko, ahoj, to byl dobrý večer.
+[00:11] Dobrý večer všem.
+[00:13] Tak napište mi prosím vás taky, jestli slyšíte Zuzku a jestli ji slyšíte dobře.
+[00:17] A pustíme se do toho. Ještě jednou a odznova vezmeme to rychleji.
+[00:22] Praze, proběhlo, Zuzko.
+[00:24] Ano, v Praze se dnes uskutečnilo festival dne vítězství Staroměstské náměstí o živou historii.
+[00:32] Festival dne vítězství si připomněl 81. výročí osvobození Československa.
+[00:37] Akce na Staroměstském náměstí nabídla bohatý kulturní program zaměřený na klíčové momenty druhé světové války.
+[00:44] Tak, to je skvělý. Čekat, máme tady někoho tady ještě. Nevidíme, nevidíme.
+[00:51] Nevidíme, tady je zvuk OK, výborně, tak to jsem moc rád.
+[00:54] Už nebudeme pouštět videa, protože nám opravdu ten zvuk rozbilo to video s Petrem Macinkou.
+[01:01] A zatímco v Praze se slavilo vítězství nad německém fašistickým konec druhé světové války,
+[01:08] a to i 8. i 9. května, tak mezi tím náš ministr zahraničních věcí,
+[01:15] pozor, říkám, ministr zahraničních věcí, vůbec není důležitý, že to je nějaký Petr Macinka,
+[01:18] ale ministr zahraničních věcí, místo toho, aby odjel jako Robert Fico,
+[01:23] který odjel do Moskvy.
+[01:24] kde si ťuknul s prezidentem Putinem, dokonce prezident Putin mu přiťuknul jako prvnímu,
+[01:31] tak náš ministr zahraničních věcí odjel do Německa,
+[01:35] kde se setkal s ministrem Vadefulem, který je čestným hostem
+[01:39] Sudete Německého Landsmannschaftu.
+[01:41] Takže, zatímco slovenský premiér jel do Ruské federace,
+[01:46] jakožto zástupce Slovenska, které bylo na straně fašistů,
+[01:50] a ruský prezident mu poděkoval za to, že si váží,
+[01:54] významu Ruské federace a Sovětského svazu ve druhé světové válce,
+[01:59] tak náš ministr zahraničí jel 8. května do Německa,
+[02:04] do fašistického Německa, slavit konec druhé světové války do Německa.
+[02:09] Potkal se tam s čestným hostem, ministrem Vadefulem,
+[02:11] Sudeto Německého Landsmannschaftu, což je organizace,
+[02:14] která vznikla z lidí, kteří byli vyhnáni z České republiky,
+[02:18] proto, že za druhé světové války kolaborovali s nacistickými fašisty německými,
+[02:24] s ním si tam povídal, vyzdvihnul česko-německé přátelství
+[02:29] a 9. května si tři hodiny zpátky na svůj profil si dal video
+[02:33] tady z toho jeho výletu do Německa, který avizoval už měsíce dopředu,
+[02:40] jak je šťastný, dal si tam německou písničku od kapely Rammstein
+[02:43] Du hast mich, což znamená Máš mě,
+[02:50] a oslavuje konec druhé světové války
+[02:54] a vznikl z toho, že je to významný,
+[02:55] německou písní, videm z jeho návštěvy v Německu
+[02:59] a návštěvu, jak už jsem řekl, čestného hosta
+[03:03] Sudeta německého Landsmannschaftu, ministra Wadifula.
+[03:07] Pojďme dál, Zuzko.
+[03:09] A to je skutečně...
+[03:10] Jenom připomenu, abyste pochopili kontext toho.
+[03:14] Dneska si nepřipomínáme jenom vítězství nad fašistickým Německem,
+[03:18] ale taky si připomínáme to, že lidi, kteří bojovali proti nacistům,
+[03:23] že vyhráli. A ti, kteří bojovali,
+[03:26] tak spousta z nich ztratila životy.
+[03:28] Jenom Sovětský svaz ztratil 18 milionů životů, pokud se nepletu.
+[03:34] Myslím, že 18 milionů životů.
+[03:35] Teď omlouvám se, jestli ty čísla pletou.
+[03:37] Němci připravili o život skoro 40 milionů lidí
+[03:41] v té druhé světové válce.
+[03:44] To jsou čtyři České republiky.
+[03:46] A říkám, nejsem na čísla úplně, že bych měl pamatováka na čísla,
+[03:49] ale tohle si tak nějak zběžně pamatuju, že takhle nějak ta čísla jsou.
+[03:53] A pokud jsou jinak, tak mě opravte. Vůbec se neurazím.
+[03:56] A místo toho, abychom dnes se prostě nekoukali na Německo
+[04:02] a dělali, že Německo neexistuje,
+[04:03] protože to jiného může člověk, soudný člověk, dělat 8. a 9. května,
+[04:08] tak náš ministr zahraničních věcí jel slavit do Německa
+[04:11] a jel si tam povídat čestným hostem
+[04:15] a představit to Německého Landsmannschaftu ministrem Badefuhlem.
+[04:18] To je plivenec všem lidem, kteří jsou pozůstalí po obětech
+[04:22] druhé světové války.
+[04:24] To je plivenec do očí všem, kteří trpěli za druhé světové války.
+[04:27] To je plivenec do očí všem vojákům, kteří bojovali ve druhé světové válce.
+[04:32] To je plivenec do očí všem vlastencům,
+[04:35] protože trávil svůj čas s čestným hostem
+[04:40] soudeto-německého Landsmannschaftu.
+[04:42] To je absolutně...
+[04:43] Nedokážu si představit z politického hlediska
+[04:46] větší chybu a horší věc, kterou člověk může udělat
+[04:50] v den výročí konce druhé světové války,
+[04:52] než jet slavit do Německa a potkat se tam s čestným hostem
+[04:56] soudeto-německého Landsmannschaftu.
+[04:59] Vůbec ani nemluvím o tom, o čem tam mluvili.
+[05:02] O česko-německém přátelství, o česko-německé deklaraci,
+[05:06] která nás prakticky zbavuje práva na...
+[05:08] Nebo nezbavuje nás práva, ale je udělaná proto,
+[05:11] aby si politici odůvodnili, že nebudou vymáhat
+[05:14] po Německu válečné reparace.
+[05:17] Tohle je to, co dělal Petr Macinka v Německu
+[05:20] 8. a 9. pětna. Přijel u jisky v Němce,
+[05:23] že nebudeme chtít válečné reparace.
+[05:25] Přijel lézt do pozadí čestnému hostu
+[05:29] soudeto-německého Landsmannschaftu. Říkat mu,
+[05:31] jak to nebylo citlivý, že si vybrali špatně ten meeting Brno,
+[05:35] že ten meeting Brno není dobrá organizace,
+[05:37] ale že to určitě nenaruší diplomatické vztahy.
+[05:40] 8. a 9. pětna. Tak jimco celý svět si připomíná
+[05:44] největší zvěrstva, která se kdy stala vůbec
+[05:47] v historii lidstva. Němci, kteří dělali koncentrační tábory,
+[05:51] kteří likvidovali žedy, kteří označovali lidi za šváby
+[05:54] a stříleli je na ulicích, jenom aby jim vzali jejich majetky.
+[05:59] Kteří vytvářeli plynové komory, kteří udělali tábory,
+[06:05] vyhlazdovací tábory, kteří vytvořili továrny na to,
+[06:10] aby likvidovali lidi co nejefektivněji.
+[06:15] Kteří používali k likvidaci cyklon B, plyn.
+[06:22] A Macinka v den výročí 8. se jel potkat
+[06:27] s čestným členem Sudeto-Jemeckého landsmanšaftu
+[06:29] a druhý den 9. května, když slaví celý svět
+[06:36] opravdu konec světové války, tak si dal na svůj
+[06:40] facebookový profil video z návštěvy v Německu
+[06:44] s německou písničkou Du hast mich, což znamená
+[06:47] Máš mě. Za mě všechno.
+[06:54] Já to jenom upřesním.
+[06:56] Že tam bylo až 27 milionů sovětských vojáků.
+[07:01] 27 milionů sovětských vojáků.
+[07:03] Mluvám se, 27 milionů sovětských vojáků.
+[07:05] No, vojáků, obětí.
+[07:06] Obětí, protože třináct...
+[07:08] Ano, ano.
+[07:09] I civilisté.
+[07:10] Ano, ano, většina byly civilistky dokonce.
+[07:12] Myslím, že snad 7-8 byly vojáci a zbytek byly civilistky.
+[07:15] Strašný.
+[07:16] Myslím, že 11-16, ale ono je to jedno.
+[07:18] Prostě víc bylo civilních obětí, než to, to je strašný.
+[07:22] Strašný. Vemte si, Česká republika má 11 milionů lidí.
+[07:26] Tak jestli 27 milionů jenom položili sověti.
+[07:29] 27 milionů lidí.
+[07:31] To jsou tři České republiky prakticky.
+[07:34] Většina toho byly civilistky.
+[07:36] Petr Macinka se jel poklonit Němcům.
+[07:42] OK, pojďme dál, protože tohleto...
+[07:45] Myslím, že prostě v historii České republiky
+[07:48] se nestalo žádná horší diplomatická věc,
+[07:53] než to, co se stalo.
+[07:54] Včera a dneska rukou Petra Macinky.
+[07:58] Nevím, žádnou, možná humanitárním bombardováním Václava Havla,
+[08:02] ale tohle je opravdu katastrofa.
+[08:08] Já jsem si tady jenom našla jednu větu ještě z toho jeho Facebooku.
+[08:13] Svojí návštěvou jsem smazal také jistý deficit z předchozích let.
+[08:18] Přestože je pro Českou republiku Německo v mnoha ohledech
+[08:22] nejdůležitější zemí, můj předchůdce do Berlína
+[08:25] na bilaterální návštěvy.
+[08:26] Jezdí jednou za čtyři roky.
+[08:29] Takže teď tam budeme jezdit asi pořád.
+[08:31] Tak to jsem strašně rád, že v konce druhé světové války
+[08:35] Petr Macinka jel smazat nedostatečné návštěvy Německa.
+[08:39] To je úlet. To je strašný.
+[08:41] To je opravdu taková ostuda historicky.
+[08:44] Tohle je taková ostuda prostě neuvěřitelná.
+[08:48] Ale OK, pojďme dál.
+[08:50] Ruský prezident, jak jsi zmínil,
+[08:52] v Kremlu se setkal se slovenským premiérem Robertem Ficem,
+[08:55] který přijel do Moskvy na oslavu dne vítězství.
+[08:59] Podle vyjádření z ruské strany,
+[09:01] Putin ocenil postoj Slovenska v zachovaní památky druhé světové války
+[09:06] a připomněl roli rudé armády při osvobozování Evropy od nacizmu.
+[09:11] Zároveň poděkoval za péči o hroby sovětských vojáků
+[09:14] padlých na slovenském území.
+[09:16] Ruský prezident také uvedl, že Moskva je připravena pokračovat
+[09:19] ve spolupraci se Slovenském v oblasti energetiky a dodávek surovin.
+[09:24] Robert Fico při naštěvě podle svých slov zdůraznil,
+[09:29] že jeho účast je výrazem úcty k obětěm druhé světové války
+[09:32] a zároveň odmítl podle něj zkreslování historických faktů
+[09:36] a upozornil na zhoršující se mezinárodní napětí v Evropě.
+[09:42] Ještě tady mám jednu zprávu k tomu.
+[09:45] Ruský prezident Vladimír Putin vystoupil na slavnostní vojenské přehlídce
+[09:50] na rudém náměstí u příležitosti dne vítězství.
+[09:53] Ve svém projevu zdůraznil,
+[09:55] že to byl sovětský lid, kdo zachránil svět před nacizmem
+[10:00] a připomněl význam vítězství ve Velké vlastenecké válce.
+[10:04] Uvedl také, že památka na tuto událost je pro Rusko otázkou cti
+[10:09] a klíčovou součástí národní identity.
+[10:13] Putin zároveň propojil historické odkazy ze současností,
+[10:17] když uvedl, že Rusko čeli moderním bezpečnostním hrozbám
+[10:20] a že rozvíjí vlastní vojenské technologie na základě bojových zkušeností.
+[10:25] Závěrem pronesl, že vítězství bylo a vždy bude naše.
+[10:56] Ukrajina kvůli tomu, že likvidovala lidi, kteří se hlásili k ruské národnosti
+[11:00] a západ, protože se snažil o rozehrání téhleté nacistické války.
+[11:04] Ale může na to mít každý názor, jaký chce, na tu současnou situaci.
+[11:09] Ale co se týče druhé světové války, tak co tam chcete zpochybňovat?
+[11:14] Němci druhou světovou válku rozpoutali, vedli.
+[11:18] To, jakým způsobem vedli Němci druhou světovou válku, byla absolutní katastrofa.
+[11:23] Ale absolutní katastrofa.
+[11:25] Stačí se podívat na jakýkoliv válečný film a všechno si připomenete.
+[11:29] Okamžitě to budete vidět.
+[11:31] Puste si Hanebný parchenty, puste si Černou knížku, kterou jsem viděl minulý týden.
+[11:38] Vynikající film, Black Book, Černá knížka.
+[11:41] Vynikající film, velmi realistický od druhé světové válce.
+[11:45] Podívejte se, jak se chovali Němci.
+[11:48] Podívejte se, jak se chovali Sověti.
+[11:51] Sověti u Leningradu, tam padly dva miliony lidí.
+[11:54] To byla bitva, která otočila směr války.
+[11:57] Protože do té doby Němci zabírali, když mám husí kůži po celém těle,
+[12:02] zabírali jednu zemi po druhý.
+[12:04] Vemte si na Polsko, Rakousko, Auslus, zabrali Rakousko.
+[12:09] Česko-Slovensko, jakým způsobem si vzali, rozdělili, zabrali.
+[12:12] Českou republiku, jak si vzali.
+[12:15] Podívejte se Polsko, deset dní nálety a za deset dní měli Polsko.
+[12:20] Takže v Francii, jakým způsobem bojovala Británia,
+[12:25] nebo přežití. Američaně se koukali zpovzdálí a říkali,
+[12:28] že budou čekat, kdo vyhraje a k tomu se potom přidají.
+[12:32] A ještě kousek nahoru, Zuzko.
+[12:36] Dneska nás prohlobí, mě to spadlo celý.
+[12:39] Ale když se podíváte na to, co dělali Sověti,
+[12:43] tak Sověti prostě šli a bojovali a zvrátili ten průběh
+[12:46] druhé světové války. Kdyby to neudělali a Evropa byla pod vedením Německa,
+[12:51] tak jsme byli další na řege, přátelé Slované.
+[12:54] A ani Petr Macinka by tady nebyl. Nikdo z nás by tady nebyl.
+[12:59] Pravděpodobně.
+[13:01] Takže my těm Sovětům za to, že položili 28 milionů lidských životů,
+[13:07] aby porazili Němce a samozřejmě Italii a další a Ukrajince,
+[13:11] kteří se přidali k fašistům. A bohužel i Slováky, bratry.
+[13:14] Ale Robert Fico to docela žehlí teď. Ono se to žehlit nedá,
+[13:18] ale docela to žehlí. Maďaři taky byli fašistky.
+[13:21] To, co dělali Židům, to bylo strašné, co dělali Maďaři.
+[13:24] Takže to, co dělali fašistky v 2. světový válce, byla absolutní katastrofa.
+[13:29] Ten, kdo se tomu postavil, byli Sověti. A šli a oni mohli vyhnat Němce
+[13:34] ze Sovětského svazu a říct, OK, tak si to tam dořešte, když jste jim pomáhali.
+[13:39] A oni to neudělali. Oni šli a položili další miliony životů,
+[13:46] aby osvobodili Československo, aby osvobodili Polsko a další země,
+[13:50] aby došli až do Německa. Aby skoncovali jednou provozu,
+[13:55] a vždy s nacizmem. Bohužel se jim to úplně nepodařilo,
+[13:58] protože po 2. světové válce zase ta historie byla taková,
+[14:01] že Západ začal rehabilitovat ty nácky, sesáky, ukrýval je,
+[14:06] Vatikán je ukrýval, ukrýval je do různých zemí, Kanada je ukrývala
+[14:11] a dneska zase ožili. Takže bohužel se to nepodařilo.
+[14:15] Ruský soudy odsoudili spoustu lidí po válce. Německý soudy
+[14:19] a vůbec západní soudy odsoudili pár lidí a pak to zabalili
+[14:23] a přestali soudit. Takže o tom si někdy můžeme popovídat,
+[14:25] o té historii po váleční. Čelčel konec konců chtěl už v roce 45
+[14:30] utočit na sovětský svaz operací Unthinkable v červenci.
+[14:33] Takže ta historie po válečná je zajímavá. Budeme se o tom bavit
+[14:39] v dalším příspěvku ve vzniku Evropské unie. Ale o toho tady dneska nejsme.
+[14:43] Dneska jsme tady o toho, aby jsme si uvědomili, připomněli
+[14:46] a jasně řekli, že to byli Němci, kdo rozpoutal a vedl 2. světovou válku
+[14:50] a že to byli Sověti, kdo nás od fašismu, od německého nacismu osvobodil.
+[14:56] Dík samozřejmě patří tady Sovětskému svazu a jeho nástupci
+[15:00] Ruské federaci a všem jeho lidem. Obrovský dík.
+[15:06] Tak pojďme na další zprávičku.
+[15:11] Tak Evropa si dnes připomíná Den Evropy, který každoročně odkazuje
+[15:17] na Šomanovou deklaraci z 9. května 1950.
+[15:21] Právě ta po 2. světové válce položila základy evropské integrace
+[15:26] a pozdějšího vzniku Evropské unie. Představitelé evropských institucí
+[15:31] letos při této příležitosti zdůraznili význam míru, demokracie a spolupráce
+[15:37] v době, kdy Evropa čeli válce na Ukrajině, energetickým problémům
+[15:42] i rostoucího politické nejistotě. Evropská unie je mírový projekt,
+[15:47] zaznělo by jen připomínat dne Evropy.
+[15:51] Připomněli, že po zkáze 2. světové války si evropské státy zvolili cestu dialogu
+[15:56] a spolupráce místo konfliktu. Den Evropy je tak podle nich nejen oslavou
+[16:01] evropské integrace, ale také připomínkou historických zkušeností
+[16:07] a významu solidarity mezi členskými státy.
+[16:11] Tak nevím, jak mě slyšíte, nebo jak slyšíte Zuzku, trošku mě tam ten zvuk zlobí dneska,
+[16:16] ale mám tady poznámku. Není to něco, co bych vám obyčejně řekl,
+[16:21] protože to není poznámka moje. Dostal jsem tu poznámku předpřipravenou
+[16:26] a je to poznámka, která vychází z textu doktorky Vladimíry Výtové,
+[16:31] která je velmi znalá historie a politiky. A ta nám tady připomíná,
+[16:36] že Evropská unie 9. května slaví den Roberta Schumana,
+[16:41] který je považován za zakladatele Evropské unie, ale který byl skutečným strůjcem
+[16:45] měchovského diktátu v roce 1938 a žil v Německu pod ochranou gestapan.
+[16:51] V roce 1990 dokonce započal proces jeho blahořečení.
+[16:56] Papež prohlásil o Roberta Schumana za ctihodného a to je první stupeň
+[17:01] v procesu kanonizace, tedy prohlášení za svatého.
+[17:06] Omluvám se, ale tuto historii jsem nikdy nestudoval, takže o ní nevím.
+[17:10] Vím o ní jenom od doktorky Výtové, se kterou jsem několikrát byl v nějakém rozhovoru,
+[17:15] kde o tom mluvila, takže mám o tom nějaké ponětí, ale tuto je opravdu poznámka,
+[17:20] která byla důležitá, protože dnes si připomínám,
+[17:21] že den vzniku Evropské unie a den Roberta Schumana, tak bych byl rád,
+[17:27] aby toto zaznělo. Zatímco někteří v Moskvě slaví konec druhé světové války,
+[17:32] tak někteří v Římě nebo ve Vatikánu a v Bruselu oslavují Roberta Schumana,
+[17:39] který žil pod ochranou gestapa a byl strujcem měchovského diktátu.
+[17:44] Tak pojďme dál. Dneska je to opravdu velmi rozporuplný.
+[17:47] Začíná se nám dít to, že se nám tady přepisuje historie a to velmi
+[17:51] zásadním způsobem.
+[17:55] Volodymyr Zelenský u příležitosti Dne Evropy vyzval Ukrajince k jeho připomínce
+[18:00] a zdůraznil evropskou orientaci země. Ve svém prohlášení uvedl,
+[18:05] že Ukrajina Den Evropy neslaví pouze symbolitky, ale s přesvědčením,
+[18:10] že je již nedělnou součástí evropské rodiny. Zdůraznil,
+[18:14] že obrana Ukrajiny znamená zároveň obranu Evropy a jejich hodnot.
+[18:20] No, děkuju za informace o tom, že zvuk už je dobrý,
+[18:25] akorát Zuzka s chvílemi zazvěnou, slyším to taky.
+[18:28] Pracujeme na tom, jak můžeme, co se týče techniky, ale prostě jednohodně
+[18:31] to dokážeme a budeme mít všechno dobře. Uvidíte, slibujeme.
+[18:35] Ale pojďme k Volodymyru Zelenskýmu. Znáte to slovo bezbrzdák.
+[18:40] Mě to naučil jeden můj kamarád, který mimochodem v roce 2015,
+[18:44] myslím 14-15, když mi říkal, jak je Rusko silná vojenská velmoc,
+[18:49] tak jsem se mu smál, že Rusáci jsou úplně mimo. A mi říkal,
+[18:53] že prostě to trošičku přeháním s tou mojí rusofóbí a že Putin
+[18:58] je výborný prezident, tak jsem se na něj díval, jestli se nezbláznil.
+[19:02] A tenhle ten kamarád mě naučil to slovo. Nebylo to vždycky tak,
+[19:05] že bych viděl, jak se to, jak se to, ta politika celosvětová děje,
+[19:11] protože jsem ji až zas tak nesledoval. Ale, ale chci říct slovo bezbrzdák.
+[19:18] Tenhle ten kamarád mě naučil slovo bezbrzdák. Volodymyr Zelenský je bezbrzdák.
+[19:22] On jako zástupce
+[19:24] Ukrajiny, která se přidala k Němcům a dokonce vytvořila dvě jednotky,
+[19:30] které se přidaly k SS, který v blahořečí v podstatě nebo minimálně
+[19:38] prohlašuje za svého národního hrdinu Štepana Bandero,
+[19:42] který byl jedním z nejbrutálnějších zločinců druhé světové války i po válečné,
+[19:48] po válečného boje za za Ukrajinu řekněme nebo za nacizmus v Ukrajině.
+[19:54] Za myšlenky nacistické Ukrajiny.
+[19:57] Tenhle ten Volodymyr Zelenský, který je dnes představitelem toho nacistického,
+[20:01] můžeme už dneska velmi jednoduše říct fašistického ukrajinského režimu,
+[20:05] protože to nějakým způsobem třeba nabírá svoje lidi.
+[20:09] Viděli jste, možná dneska jsem dával na Facebooku video, jak lidi kamenujou ty jednotky TCK,
+[20:15] jak brání jeden druhýho před těma jednotkama, který kradou ty lidi na frontu a odváží je tam.
+[20:20] Mimochodem v Ukrajině hrozí kolaps, protože nemá lidi a uvidíme, jestli se to bude nahrazovat
+[20:28] Evropa-Nie a nebo jestli se bude nějakým jiným způsobem teďka řešit tadyhle situace.
+[20:32] K tomu se dostaneme možná zítra ve vysílání v nedělním.
+[20:35] To je na trošku delší, na trošku delší analýzu.
+[20:39] Ale tenhle ten člověk, Volodymyr Zelenský, který absolutně zrušil demokracii, svobodu na Ukrajině,
+[20:46] který zrušil politické strany, svobodu, tisku, volby,
+[20:50] církev, právo mluvit jiným jazykem, prostě absolutní nácek a fašista,
+[20:56] najednou mluví 9. května, v den o osvobození o fašismu, tak on ho slaví.
+[21:03] Říkám vám, tyhle ty, tyhle ty, to je bezbrzdňák.
+[21:06] To je prostě, to už nemůžete ani říct, že to je satanista, který říká, co je nahoře, to je dole.
+[21:11] To je bezbrzdňák, který dneska, v jediný den, v jeden den by měl aspoň zalézt
+[21:17] a šoupat nohama, být z ticha, stejně tak jako Němci.
+[21:20] Zalézt, šoupat nohama, být z ticha, prostě jenom se modlit, aby už to přešlo, ta oslava,
+[21:25] ta připomínka toho, co tady dělali.
+[21:27] Ale oni ne, oni si s toho udělají oslavu a začnou říkat, jaká je to skvělá věc
+[21:32] a jak Ukrajina vstoupí do Evropské unie a jak mají ty hodnoty míru a demokracie.
+[21:39] To je prostě neuvěřitelný, tomu říkám opravdu bezbrzdňák.
+[21:42] A bohužel v naší společnosti největší problém jsou tyhle ty bezbrzdňáci,
+[21:45] protože tyhle ty bezbrzdňáci, můžu vám ukázat jich hromadu v český politice,
+[21:50] třeba Petr Macinka, kterým jsme dneska začínali, tak se tváří jako ty nejsvatější
+[21:54] a dělají ty nejhorší věci. A to je ten největší problém, který máme.
+[22:00] No a dneska Volodymyr Zelenský jednal i s předsedou Evropské rady Antonijou Kostou
+[22:06] o dalším postupu integrace Ukrajiny do Evropské unie a o přípravách na zahájení vyjednávacích skupin.
+[22:13] Ukrajina bude plnohodnotou součástí Evropské unie,
+[22:17] uvedl Zelenský pojednání.
+[22:19] Tady píše Vladislav Vaculík. Macinka a generálci nemají co vyčítat.
+[22:24] Přešlapy jsou na obou stranách, vykřičím.
+[22:26] Pane Vaculíku, tomu říkáte přešlap?
+[22:29] Že někdo jede v den konce druhé světové války do Německa,
+[22:34] zase setkat s čestným hostem, co jde o německého Landsmannschaftu,
+[22:37] a líbat tam ruce Němcům?
+[22:40] A pak si dát na svůj Facebook z toho video a pustit to s německou písničkou Du hast mich?
+[22:44] Tomu říkáte přešlap?
+[22:47] Nevím, jak dlouho chcete pořád jako omlouvat
+[22:50] tuhletu vládu jenom proto, že jste si je tam zvolili, že jste je chtěli nějakou změnu.
+[22:55] Možná už se proberte jako lidi.
+[22:57] No ale OK.
+[23:00] Volodymyr Zelenský jednal s Antonijem Kostou
+[23:02] o vstupu Ukrajiny do Evropské unie.
+[23:05] Říkám, jsou to bezbrzdňáci prostě.
+[23:07] Nemá cenu se o tom bavit dál. Ukrajine hrozí kolaps.
+[23:11] Ukrajine hrozí kolaps. Ukrajine je hrozí, že
+[23:14] ztratí celou západní Ukrajinu.
+[23:16] Ukrajine je hrozí, že tam narukuje Polsko,
+[23:17] nebo oni odejdou do Polska. Ale říkám, o tom se budeme
+[23:20] bavit zítra, co nás čeká v té blízké budoucnosti.
+[23:25] OK, pojďme dál, Zuzko. Nejjaký veselější zprávy už.
+[23:27] Tohle to jako má být oslova vítězství.
+[23:30] A přitom to je stejně jako ty volby. Měly být to, že se
+[23:33] lidi po covidu proberou,
+[23:35] že jsou tady globalisky, který ty lidi
+[23:38] chtějí ničit a ničí.
+[23:39] A lidi místo toho si tam zvolili globalisty.
+[23:42] Neuvěřitelný prostě.
+[23:44] A teďkon tady máme mít konec druhé světové války.
+[23:47] Máme slavit vítězství nad nacizmem, nad tím nejhorším,
+[23:50] co potkalo nás historicky za posledních sto let.
+[23:53] A místo toho tady řešíme, že nám tady náckové náckujou
+[23:56] a přepisují historii.
+[23:58] A lidi mlčí.
+[23:59] Místo toho, aby prostě aspoň řekli, to jsou hajzly.
+[24:02] Neříkám, že mají jít rovnou na ministerstvo zahraničních věcí,
+[24:05] vytáhnout macinku, stáhnout mu kaloty a seřezat ho,
+[24:09] dát mu pětadvacet holí na holou, což by si zasloužil.
+[24:13] Ale říkám, aspoň by mohli prostě tohle odsoudit.
+[24:16] Odsoudit, když to je přece nebetyčná drzost vůči všem obětem druhé světové války.
+[24:21] A pak tady někdo napíše, že to je přešlap.
+[24:26] To je strašný.
+[24:27] To je strašný prostě.
+[24:28] Mě je z toho opravdu zlám.
+[24:29] Mlouvám se tady pánovi, ale opravdu to je neuvěřitelný.
+[24:33] Neuvěřitelný.
+[24:35] OK, pojďme dál, Zuzko, prostě.
+[24:36] Už někam pryč od druhé světové války, ať nemáme nějaký jiný témat.
+[24:41] Můžeme se tady teď podívat, že šéf ruské státní korporace Rosatom Alexej Licháčev uvedl,
+[24:47] že společnost očekává fyzické spuštění sedmého bloku jaderné elektrárny Taimán v Číně.
+[24:54] A to ještě během května.
+[24:56] Zároveň prohlásil, že Rosatom je připraven podílet se na výstavbě nových jaderných bloků na Slovensku
+[25:02] a plánuje pokračovat ve svých projektech také v Maďarsku a v Bulářsku.
+[25:06] Licháčev zároveň oznámil, že Rosatom už nebude spolupracovat se společností Siemens,
+[25:11] kterou označil záležitost odpovědného dodavatele.
+[25:14] Podle něj firma připravuje soudní žalobu kvůli nedodánému vybavení pro zahraniční projekty ruských jaderných elektrár.
+[25:21] Je to dobrá zpráva, že se otvírá nový jaderný reaktor v Číně.
+[25:27] Znáte to, jak zastaví ten člověk, ten policajt toho pána a říká, pane, nesvítí vám reaktor.
+[25:34] A on mu říká, jak jste snad říct.
+[25:37] To je reflektor, ne? A on říká, tak když jste takovej suteren, tak půjdete se mnou.
+[25:41] A je to samozřejmě dobrá zpráva, já omlouvám se prostě něco na odlehčenou od toho Macinky už.
+[25:49] Je to dobrá zpráva, že v Číně otevřeli rusové Rosatom ten jaderný blok nebo reaktor,
+[25:57] ale o tom Slovensku, Bulharsku a Rumunsku to nevidím až zase v Ružově.
+[26:02] Rumunsko, Bulharsko, ne, Maďarsko, pardon, Maďarsko, Bulharsko a Slovensko.
+[26:07] Nevidím to tak v Ružově.
+[26:09] A když lidi říkali, že Viktor Orbán vyhraje v Maďarsku, že to je jasný, tak jsem říkal, jestli to nemyslím.
+[26:14] Že globalisti si nenechají ujít možnost, aby tam dosadili proevropskýho člověka.
+[26:19] No tak tam dosadili proevropskýho člověka.
+[26:21] Dokonce i potom lidi začali strašně sdílet Maďára, že Maďar je skvělý a že tohle a támhle to.
+[26:28] Že vyzval, že má Lénovou nahradit Orbán, což bylo video z roku 2020 nebo nevím z kterého roku.
+[26:37] Starý video.
+[26:38] Ještě když bylo.
+[26:39] Byl on členem, ještě když byl členem té Orbánovy strany.
+[26:44] Ale stejným způsobem nemám ten pocit, že Rosatom bude dělat jaderný reaktor na Slovensku, Bulharsku a v Maďarsku.
+[26:54] Za prvé Maďarsko.
+[26:56] Maďar je absolutně proevropský globalista.
+[26:59] Absolutně.
+[27:00] To je prostě něco jako Reichel u nás.
+[27:02] To je člověk, který se pokusil přijít přes demonstrace, který ukradl a vycucal si je z prstu.
+[27:08] Jako manžel ministrině spravedlnosti začal předstírat, že je obyčejný člověk.
+[27:15] A udělal u toho strašný věci.
+[27:18] Vytánul nahrávky svojí manželky, se kterou se doma bavil a použil je proti ní a proti té politické straně, ve které byl.
+[27:27] Prostě absolutní hnus.
+[27:29] Nebudu se bavit o nějakém psovi v mikrovlnce atd.
+[27:32] To jsou samozřejmě nepotvrzené nějaké fámy.
+[27:37] A když se podíváte na Bulharsko, taky.
+[27:41] Rumén, Radev, obrovská radost.
+[27:43] Říkal jsem vám, mějte zas tak velkou radost.
+[27:46] Zeptám se nejdřív mojich politických kamarádů v Bulharsku.
+[27:49] A pak mi řekli, no ale přece on s nima spolupracoval několik volebních období s těmi oligarchy.
+[27:54] On mi to popisoval, jakým způsobem to fungovalo.
+[27:57] A teď před volbami on vstoupil z funkce prezidenta a šel a oligarchového dostali do funkce premiéra.
+[28:03] Takže tam taky nečekejte až zas tak moc.
+[28:06] Protože v Bulharsku je obrovská korupce v politice.
+[28:10] A ty oligarchové tam jsou samozřejmě napojený na Evropskou unie, na evropskou korupci.
+[28:16] Takže nečekejte o toho nějakou strašnou změnu v Bulharsku.
+[28:20] Takže obávám se, že Rosatom možná nebude stavit ani v Bulharsku.
+[28:23] I když je to pořád lepší, než to, co je Česká republika.
+[28:27] A co se týče Slovenska, tak tam bych si tipnul, že Robert Vico by do toho šel.
+[28:32] Ale nezapomeňte, že tam dosadili Petra Pellegriniho jako prezidenta.
+[28:36] Který už se vidí v NATO. To jsem viděl, když byl Mark Rutte na návštěve Slovenska.
+[28:41] Jak se tam okolo něj tetelil.
+[28:43] A když jsem vám říkal, že se zbavili Orbána.
+[28:46] Tipuju jako, že Vicovi dávám tak rok.
+[28:49] Rok. Víc mu nedám. Než rok.
+[28:52] Myslím si, že se ho prostě zbaví. Nějakým způsobem. Tak nebo tak.
+[28:55] Protože Slovensko je moc blízko Ukrajině.
+[28:58] Řekněme, že to má jenom takhle přes kopeček.
+[29:02] Přes hraniční přechod.
+[29:05] Takže to si nenechají utec. A ve prostřed Evropy.
+[29:08] To si nenechají utec Slovensko. Tomu nevěřím.
+[29:11] Takže to si nemyslím. Nemyslím si, že bude rozhod o tom stavit.
+[29:14] Ani na Slovensku, ani v Bulharsku, ani v Maďarsku nakonec.
+[29:17] Ale možná, že se pletu. Víte, znáte to.
+[29:20] Co se týče lidí, tak jsem důvěřivý. A každému důvěřuju.
+[29:23] A co se týče politiky, tak jsem poměrně skeptický.
+[29:26] Ale bohužel zatím jako většinou na moje slova došlo. Takže uvidíme.
+[29:29] Ale přápěch jim to Slovákům, Bulharům i Maďarům, aby měli
+[29:33] jaderné elektrárny z Rosatomu.
+[29:36] OK, pojďme dál.
+[29:39] Rusko a Irán podle denníku The New York Times
+[29:42] výrazně zvýšili obchodní dopravu přes Kaspické moře,
+[29:46] které se v poslední době stalo jednou z klíčových alternativních tras.
+[29:50] Podle zjištění listu má být táto cesta využívána jako náhrada
+[29:54] za tradiční námořní trasy přes Hormůvský průliv.
+[29:58] A to v souvislosti s omezeními
+[30:00] a souvislostními riziky spojenými s konflikty na Blízkém východě.
+[30:04] Mezi přepravované komodity patří např. přenice, kukuřice,
+[30:08] krmivo pro zvířata, slonečnicový olej a další zboží.
+[30:13] Rusko a Irán mají podle reportu rozšířit provoz v kaspických přístavech,
+[30:18] přičemž iránská zařízení funguje nepřetržitě 24 hodin denně,
+[30:23] 7 dní v týdnu.
+[30:25] OK, vyberu Rusko teď něco z komentářů,
+[30:28] protože tady vidím zajímavé komentáře.
+[30:30] Nejprve teda Janan.
+[30:32] Děkuju za hezký komentář směrem ke mně.
+[30:36] Ale Jana Uhlířová.
+[30:38] Dnes Ukrajinec napadl pěský našeho občana za to,
+[30:42] že upozornil na fašistický znak na staroměstském náměstí.
+[30:46] Tak to je síla.
+[30:48] Tak to.
+[30:52] Možná by si, Zuzko, mohla zavolat panu majoru Kolářovi.
+[30:57] Až po půlnoci.
+[30:59] Nám se stala včera taková věc.
+[31:01] Ne, neříkej to.
+[31:03] A pak je tady ještě Hanka Bolehovská.
+[31:07] Slyšeli jste někdo, že by při projevech politiků nějaký papaláž,
+[31:11] včetně nejvýššího, řekli, že nás osvobodila rudá armáda,
+[31:15] ale hlavně, že v Praze řádili amíci,
+[31:17] kteří zůstali ožrali v Plzni,
+[31:19] co tedy teď šaškovali v Praze.
+[31:23] Taky nás trošku zbombardovali američani,
+[31:28] jestli si dobře vzpomínám.
+[31:31] Na konci druhé světové války.
+[31:33] Nechme už válku válkou.
+[31:36] Jestli Ukrajinec napadnul pěský český občan
+[31:39] za to, že ho pozolnil na fašistický znak na demonstraci,
+[31:43] tak Ukrajinec by měl být odvedený v poutech.
+[31:46] Dva trestní činy.
+[31:48] Za prvé podpora fašismu a podpora nacismu.
+[31:51] A druhý napadení na veřejném shromáždění.
+[31:54] Takže by měl být rovnou ve vazbě,
+[31:57] protože za tohle by měl dostat odnětí svobody.
+[32:00] Za takhle zásadní věc.
+[32:02] Při takhle významném dnu.
+[32:04] Ještě k tomu cizine, kterému tady dáváme
+[32:06] nějaký asyl, aby tady mohl žít.
+[32:09] Myslím si, že to je významná věc.
+[32:11] Ale obávám se, že to bude velmi podobné,
+[32:13] jako když my jsme šli z Václavského náměstí
+[32:16] z demonstrace Česká republika na prvním místě
+[32:19] před úřad vlády.
+[32:21] Vyzývat vládu. Měl jsem na krku takovou tu velkou trikoloru.
+[32:24] A Ukrajinec se svojí přítelkyní na mě vylili takhle dva kýble.
+[32:27] Velký, žlutý a modrý barvy.
+[32:29] Tak policie pomohla tomu Ukrajincovi v podstatě.
+[32:33] Protože Dušan náš kamarádo chytil za bundu takhle.
+[32:37] A policie přišla a Dušanovi takhle vzala ruku.
+[32:39] A strahla mu ji z něj.
+[32:41] A tomu Ukrajinci řekli utíkejte.
+[32:43] Takhle funguje naše policie.
+[32:45] Takže obávám se, když jsme dělali
+[32:47] demonstraci proti nacizmu.
+[32:49] Když měl Azov náborový den,
+[32:51] tak přišla policie a řekla
+[32:53] našli jsme tady výbušné zařízení.
+[32:55] Musíte ukončit demonstraci.
+[32:57] Ale ještě si dopovídejte projevy.
+[32:59] Takže tady na nás vytvořili další šaškárnu.
+[33:04] Čili kdyby tam bylo skutečně nástražné
+[33:06] nějaké výbušné zařízení,
+[33:08] tak by to okamžitě vyklidili.
+[33:10] Vyklidili by okolní obchody a kavárny.
+[33:12] Ale tohle byla jenom záměnka k tomu
+[33:14] ze strany policie.
+[33:16] Aby nám zrušili demonstraci.
+[33:18] A potom mohli vyvést ty Azováky v klidu
+[33:22] ven z toho náborového centra.
+[33:24] Takže bohužel česká policie
+[33:26] je jedna obrovská ostuda.
+[33:28] Ale obrovská ostuda.
+[33:30] Nebudu mluvit ani o tajných službách
+[33:32] a o tom, co nám dělají soudy, tajný služby.
+[33:34] Takže to, že člověk dostal pěstí
+[33:36] je strašná věc.
+[33:38] A bohužel myslím si, že je potřeba,
+[33:40] aby se lidi přestali bát, dali se dohromady
+[33:42] a prostě vzali si svoji zemi zpátky.
+[33:44] Od těhleckých globalistů,
+[33:46] který se v den koncentroje světové války
+[33:48] jezdí klidně do Německa.
+[33:50] Tak pojďme dál na další zprávu.
+[33:52] Spojené státy dokončily operaci
+[33:56] odstranění 13,5 kilogramů
+[33:58] obohaceného uranu
+[34:00] z venezuelského reaktoru RV-1.
+[34:02] Podle amerického ministerstva energetiky
+[34:04] byl materiál bezpečně převezen
+[34:06] speciálně lodí
+[34:08] do jaderného úložiště v Jižní Kalifornii.
+[34:10] Washington uvedl, že cílem operace
+[34:12] bylo snížení rizika
+[34:14] šíření jaderných materiálů
+[34:16] a posílení mezinárodní bezpečnosti.
+[34:18] No to jsou dvě zprávy,
+[34:20] které jsem vlastně teď neokončil.
+[34:22] Když jsem komentoval Rusko s Iránem,
+[34:24] že jezdí přes Kaspické moře
+[34:26] a vozí tam šenici a kukuřici,
+[34:28] Iránci nedali
+[34:30] svůj jaderný materiál
+[34:32] Venezuela. Bohužel
+[34:34] si vzali prezidenta
+[34:36] a venezuelci pravděpodobně,
+[34:38] ty lidi, kteří jsou tam o moci,
+[34:40] skolaborovali s američany,
+[34:42] a dneska řídí Venezuelu,
+[34:44] takže jim američani říkají, co mají dělat
+[34:46] a teď odevzdali svůj jaderný materiál.
+[34:48] Takže to jsou dvě země,
+[34:50] které se k tomu postavily úplně opačně.
+[34:52] Trošičku se nedivím
+[34:54] Venezuele, protože Amerika je
+[34:56] silný vojenský nepřítel
+[34:58] a Ruska je moc blízko.
+[35:01] Irán je silná země, má
+[35:03] silný partnery, je v Brixu,
+[35:05] takže tam má silný politický
+[35:07] partnery i strategický partnery.
+[35:09] Venezuela bohužel
+[35:11] udělala i chyby, protože
+[35:13] Rusové pomohli
+[35:15] Venezuele před americkým
+[35:17] útokem, ale to, co udělali
+[35:19] ve Venezuele, že udělali zhradu.
+[35:21] Vyply všechny ty zbraňový systémy,
+[35:23] které měli od Rusů a v podstatě
+[35:25] nechali toho prezidenta zajmout.
+[35:27] A to už prostě pro Rusy je těžko pomáhat,
+[35:29] když je ta země v takovémhle
+[35:31] stavu. Takže
+[35:33] jsou to dvě země, které byly
+[35:35] napadeny Spojenými státy. V jedné
+[35:37] uspěly, američani v druhé neuspěly.
+[35:39] Američký bandité.
+[35:43] Madarsko má nového premiéra.
+[35:47] Předseda strany
+[35:49] TISA, Petr Maďar,
+[35:51] byl dnes oficiálně jmenován do funkce
+[35:53] po ustavujícím zasedání
+[35:55] parlamentu v Budapešti.
+[35:57] Ustavování potvrdil prezident
+[35:59] Tamás Šojoma.
+[36:01] Maďar se ujíma vedení vlády
+[36:03] po vítězství své strany
+[36:05] v parlamentních volbách, které ukončily
+[36:07] dlouhé období vlády Viktora Orbána.
+[36:09] Nový premiér podle svého
+[36:11] prvního vystoupení slípuje rozsáhle
+[36:13] reformy státní správy
+[36:15] a obnovu
+[36:17] důvěry v instituce.
+[36:19] Petr Maďar během prvního zasedání
+[36:21] parlamentu veřejně vyzval
+[36:23] prezidenta k rezignaci.
+[36:25] Provlásil, že hlava státu by měla
+[36:27] rezignovat důstojně
+[36:29] a stanovil koneční termín
+[36:31] do 31. května.
+[36:33] Jako důvod uvedl politické chyby
+[36:35] předchozí vlády a problémy
+[36:37] ve státní správě. Zároveň oznámil,
+[36:39] že jeho vláda se zaměří
+[36:41] na posílení vztahu s EU
+[36:43] a změny v dosávaním
+[36:45] směřování maďarské politiky.
+[36:47] Na budovu parlamentu nechal
+[36:49] vyvěsit vlajku EU.
+[36:51] Tak to vidíte
+[36:54] na vlastní bulvy, nebo na vlastní oči,
+[36:56] jak to měl pan Klíma, ten
+[36:58] pořád na vlastní bulvy se tomu říkalo, že
+[37:00] jenom tak. Já se tomu říkala
+[37:02] jenom tak. Takže to vidíte
+[37:04] na vlastní oči. Petr Maďar
+[37:06] vyvěsil vlajku EU
+[37:08] na úřad vlády.
+[37:10] To je první věc. Řekl, že
+[37:12] na parlament, že bude spolupracovat
+[37:14] s EU víc, že
+[37:16] bude podporovat silné instituce,
+[37:18] že, co ještě řekl,
+[37:20] vyzval prezidenta k rezignaci.
+[37:22] Takže to je
+[37:24] tvrdý fašounek.
+[37:26] Ještě ustanovil termín.
+[37:28] A ještě mu ustanovil termín. To je tvrdý fašounek.
+[37:30] To je vidět.
+[37:32] OK, pojďme dál.
+[37:34] Francouzský prezidentský kandidát
+[37:36] Jean-Luc
+[37:38] Mélenchon
+[37:40] prohlásil, že pokud by se stal
+[37:42] prezidentem, Francie
+[37:44] vystoupí z NATO.
+[37:46] Alianci označil za neužitečnou
+[37:48] a obvinili z toho, že
+[37:50] Evropu pořízuje vlivu Spojených států.
+[37:52] Opustíme NATO. NATO
+[37:54] je k ničemu. Slouží jediné
+[37:56] věci dostat nás pod americký
+[37:58] pohled. Uvedl
+[38:00] reakci na debatu o budoucím směřování
+[38:02] francouzské zahraniční politiky
+[38:04] před prezidentskými
+[38:06] volbami v roce 2027.
+[38:08] Mélenchon dlouhodobě
+[38:11] prosazuje odchod Francie
+[38:13] z NATO a navazuje na
+[38:15] gaullistickou tradici
+[38:17] větší strategické nezávislosti
+[38:19] Francie. Podobné postoje
+[38:21] zastával už během předchozích
+[38:23] prezidentských kampaní.
+[38:25] Tak ta gaullistická tendence, tím se si
+[38:27] myslí de Gaulle, že on řekl, že se vystupuje
+[38:29] z NATO a vystoupil z NATO během
+[38:31] pár dnů.
+[38:35] Pokud si dobře vzpomínám,
+[38:37] abych tady neříkal nějaký historický
+[38:39] nonsense, ale myslím si, že takhle
+[38:41] to bylo. Že to byl de Gaulle.
+[38:43] Myslím si to.
+[38:48] Ale víte, ta moje paměť na jména
+[38:50] a na čísla, to prostě v tom
+[38:52] mém věku už to taky není
+[38:54] prostě vždycky jako
+[38:56] nejbystřejší, ta moje paměť.
+[38:58] No ale něco mi říká,
+[39:00] že pan Mélenchon by možná
+[39:02] si měl kontrolovat brzdy u auta.
+[39:04] Že by asi neměl lítat vrtulníkem.
+[39:06] Na veřejný
+[39:08] nějaký projevy bych mu
+[39:10] doporučil, aby se oblíknul
+[39:12] do nějakých
+[39:14] prostě tvrdších materiálů.
+[39:16] Protože jít
+[39:18] takhle jako otevřeně s takovouhle
+[39:20] věcí, možná by se někomu nemuselo líbit.
+[39:22] I když Donald Trump už mluví
+[39:24] o tom, že NATO
+[39:26] opustí taky, takže je možný, že ještě
+[39:28] dřív, než budou prezidentský volby, takže NATO
+[39:30] skončí. Zatím ještě moc
+[39:32] politiků se neodvážilo to takhle natvrdo
+[39:34] otevřeně říct, že
+[39:36] chci vystoupit z NATO. Víte, že
+[39:38] my když jsme kandidovali, tak jsem řekl, pokud bych
+[39:40] byl premiér, tak bych první den
+[39:42] poslal za českou vládu
+[39:44] dopis do NATO, že jsme vystoupili z NATO.
+[39:46] Protože tam se to dělá písemnou výpovědí
+[39:48] podle Washingtonské smlouvy, takže
+[39:50] tam to jde okamžitě s okamžitou platností.
+[39:52] Je to zajímavé. Je to v každém případě
+[39:55] zajímavý počin, že
+[39:57] NATO se dělá tadyhle s tu kampaní mleckým způsobem.
+[39:59] Za mě NATO není
+[40:02] špatný jenom v tom, že si
+[40:04] státy podřizuje. Jakože Francie v rámci
+[40:06] NATO je
+[40:08] podřízená Spojeným státům. NATO je pro mě
+[40:10] teroristická organizace, protože
+[40:12] NATO v 99.
+[40:14] roce zautočilo na Jugoslávii,
+[40:16] což byla docela velmoc Jugoslávie.
+[40:18] Jugoslávie nebyla
+[40:20] ani ve východním bloku, ani v západním
+[40:22] bloku, ale byla v takzvaných
+[40:24] nezařazených, nesvrstvených a tam už
+[40:26] se přidávaly desítky jiných zemí,
+[40:28] kteří chtěli být vojensky neutrální,
+[40:30] vojensky nezávislí. A protože to
+[40:32] byla poměrně silná velmoc,
+[40:34] tak bylo potřeba jí rozbít. Udělalo
+[40:36] to NATO velmi brutálním způsobem,
+[40:38] tím, že 78 dní
+[40:40] začalo bombardovat civilisty. Takže
+[40:42] za mě NATO je teroristická
+[40:44] organizace a proto bych chtěl
+[40:46] vystoupit z NATO. A druhá věc,
+[40:48] NATO je organizace, která už dneska
+[40:50] de facto je ve válci s Ruskem.
+[40:52] A tady jsou jenom
+[40:54] tři možnosti. Buď toto bude pořád
+[40:56] stejný, nebo to bude
+[40:58] lepší, anebo to bude horší.
+[41:00] Pořád stejný je prakticky
+[41:02] vyloučený, protože věci se pořád mění.
+[41:04] Takže buď toto bude lepší, anebo to bude horší.
+[41:06] Chtěl bych si, aby to bylo lepší, aby
+[41:08] se ten konflikt ukončoval
+[41:10] a mírnil, aby se deeskaloval.
+[41:12] Něco mi říká, že ten konflikt bude
+[41:14] pořád horší. Vzhledem k tomu, že NATO
+[41:16] je už de facto ve válce s Ruskem,
+[41:18] tak pokud ten konflikt bude
+[41:20] se zhoršovat, tak samozřejmě tím,
+[41:22] že my jsme v NATO, tak by nakonec
+[41:24] mohlo dojít na to, co jsme
+[41:26] dělali jako předvolební klip.
+[41:28] Že jsme objevili, kde může
+[41:30] česká armáda ušetřit, že budeme
+[41:32] dostávat pytle zdarma.
+[41:34] Tak přátelé,
+[41:36] přál bych si, aby u výročí
+[41:38] konce druhé světové války jsme měli lepší
+[41:40] zprávy, abychom se bavili o míru,
+[41:42] abychom se bavili o hezkých věcech, ale
+[41:44] bohužel zprávy
+[41:46] jsou takový, jaký jsou.
+[41:48] Ve světě se děje to, co se děje.
+[41:50] Lidi dělají to, co dělají.
+[41:52] My jenom sledujeme to, co lidi dělají
+[41:54] a komentujeme to, abychom to zasadili do kontextu,
+[41:56] tak, jak si myslíme, že to je správně.
+[41:58] Vám děkujeme 280 lidí, kteří
+[42:00] jste tady s námi. Přejevujeme vám hezký zbytek
+[42:02] svátku. Zítra se uvidíme
+[42:04] u pravidelného nedělního živého
+[42:06] vysílání v 20 hodin.
+[42:08] Tam budu zodpovídat vaše dotazy.
+[42:10] Něco vám taky řeknu, ještě nevím co.
+[42:12] To si zítra rozmyslím. Nebo možná
+[42:14] ani s toho nerozmyslím. Poslední dobou jdu vysílat
+[42:16] vůbec nevím o čem. A vysílám
+[42:18] zrovna o tom, co mi připadá, že
+[42:20] je důležitý. Ale uvidíme. V každém případě
+[42:22] se na vás těším. Mám vás moc rád.
+[42:24] Všechny lidi, kteří jste
+[42:26] se srdcem na pravým místě a kteří máte
+[42:28] Českou republiku na pravým místě,
+[42:30] mám vás moc rád. Díky za to, že nás
+[42:32] sledujete, sdílíte, lajkujete,
+[42:34] sledujete na YouTube a nevím kde jsi,
+[42:36] co si, všechno. My na tom pracujeme,
+[42:38] na té technice. A nebojte,
+[42:40] jednoho dne to bude prostě super.
+[42:42] Zuzka už je, bych řekl, jako
+[42:44] správařka naprosto profesionální,
+[42:46] že jo. To je
+[42:48] prostě paráda, jak připravuje Zuzka správy.
+[42:50] Moje komentáře ještě nejsou
+[42:52] tak dobrý, ale Zuzka už je dokonalá.
+[42:54] Takže budeme na tom
+[42:56] pracovat, aby to bylo ještě lepší. A
+[42:58] vy jako diváci jste absolutně jako špička.
+[43:00] Komentujete výborně, sledujete,
+[43:02] sdílíte, takže tady to všechno běží.
+[43:04] Zuzko, hezký večer, dobrou noc,
+[43:06] díky moc i vám všem,
+[43:08] i tobě Zuzko, ahoj.

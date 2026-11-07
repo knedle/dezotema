@@ -1,0 +1,632 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1993811548108658
+Datum videa:  2026-09-08
+Zpracováno:   2026-09-12 12:44:46
+Jazyk:        cs
+Délka:        00:38:10
+Popis:        8. 9. 2026 - Zprávy v devět s komentářem
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    19s
+Přepis:       5m 55s
+Rychlost:     6.4x realtime
+Celkem:       6m 15s
+================================================================================
+PŘEPIS
+================================================================================
+
+[03:01] Děkuji, přátelé, přeju vám hezký večer.
+[03:03] Dneska je... Co je dneska za den, Zuzko?
+[03:06] Dneska je úterý 8.9.
+[03:08] Dneska je úterý 8.9., takže děkuji pěkně.
+[03:11] Zdravím vás u večerních zpráv s komentářem
+[03:14] a bez nějakého dlouhého úvodu pojďme dneska na zprávy.
+[03:23] Tak začneme u pana Babiše.
+[03:27] Evropská komise dospěla k závěru, že český premiér Andrej Babiš
+[03:31] je v potenciálním střetu zájmu.
+[03:33] Podle komise Svěřenecký fond RSVP Trust,
+[03:38] do kterého Babiš vložil akci Agrofertu,
+[03:40] situaci dostatečně neřeší.
+[03:42] Komise proto potvrdila pozastavení proplácení části dotací Agrofertu.
+[03:48] Babiš uvedl, že postoj Evropské komise neřeší.
+[03:51] Tvrdí, že Agrofert nevlastní, nemá z něj žádný prospěch
+[03:56] a nový, co dalšího by měl ještě udělat.
+[03:59] Taky mě zaujal, říkal, nestačilo by,
+[04:02] že ani kdybych se zastřelil, reagoval Babiš.
+[04:06] No, Andrej Babiš, to je,
+[04:09] že bych teď antady řekl ještě k tomu jednu zajímavou věc,
+[04:12] co jsem si tak všimnul.
+[04:15] Tvrdí, že Agrofert nevlastní, nemá z něj žádný prospěch.
+[04:19] Nemá z něj žádný prospěch.
+[04:22] A proto tedy není ve střetu zájmu.
+[04:24] On ovládá dotace do zemědělství v České republice,
+[04:27] ale protože s Agrofertu nemá žádný prospěch,
+[04:31] tak proto není ve střetu zájmu.
+[04:32] A to, že z něj nemá žádný prospěch, je proto,
+[04:36] že vložil Agrofert do Svěřeneckého fondu.
+[04:40] To znamená, ten Svěřenecký fond zaručuje to,
+[04:43] že on není vlastníkem, protože ho dal do Svěřeneckého fondu,
+[04:47] takže ho vlastní Svěřenecký fond,
+[04:50] ale zisky z toho Agrofertu samozřejmě jsou v tom Svěřeneckém fondu
+[04:58] a Agrofert zdědí jeho děti.
+[05:01] Takže on dělá teď dědictví pro svoje děti.
+[05:07] To znamená, nemá z toho přímo užitek on,
+[05:10] ale mají z toho užitek jeho děti, z každého jeho rozhodnutí.
+[05:13] Takže pak, když tady existuje něco jako osoba blízká,
+[05:17] což děti jsou, tak pak, když z toho má prospěch
+[05:21] jeho osoba blízká z jeho rozhodnutí, tak je ve střetu zájmu.
+[05:25] Je to něco, co tady říkám, řekněme, už rok,
+[05:28] prostě pořád okola, nebo necelý rok od té doby, co dal,
+[05:32] co dal Agrofert, nebo jak je to dlouho, co dal Agrofert
+[05:35] do Svěřeneckého fondu.
+[05:37] A je to samozřejmě tak, že je ve střetu zájmu.
+[05:40] Klidně se může Andrej Babiš zastřelit a to už potom nebude ve střetu zájmu.
+[05:46] Ne proto, že by z toho nebyl ten užitek, ten užitek budou mít ty jeho děti,
+[05:50] ale už nebude ovlivňovat dotace do zemědělství.
+[05:54] Tak.
+[06:02] Madarsko vyhostí deset ruských diplomatů, kteří se podle tamních úřadů
+[06:07] podíleli na aktivitách odporujících vydenské umluvě.
+[06:12] Oznámila to maďarská ministrině zahraničí Anita Orbánova.
+[06:16] Ruské ministerstvo zahraničí v reakci pohrozilo tvrdou odvetou,
+[06:19] která má podle něj maďarsko citrálně zasáhnout.
+[06:23] Budapiš zároveň zdůraznila, že vyhoštění neznamená přerušení
+[06:27] diplomatických vztahů s Moskou a chce pokračovat v dialogu
+[06:31] založeném na vzájemném respektu.
+[06:33] To je kráso.
+[06:35] Maďarský Macinka se pustil do takového,
+[06:37] jako jak sedí vedle Petra Maďára.
+[06:40] Říkal jsem vám, že to je pro Maďarsko absolutní otočka,
+[06:43] co se týče Petra Maďára, když vyhrál ve volbách.
+[06:46] Lidi tady v České republice, spousta z nich jásala,
+[06:51] že to je prostě jako skvělej borec a tak dál vlastenec,
+[06:56] který dělal ty demonstrace a tak dál.
+[06:59] Maria, říkal jsem vám, že to je prostě maďarský rejchl.
+[07:02] To je Petr Maďar je člověk, který stojí absolutně na straně
+[07:07] Evropského.
+[07:08] Evropského je Unie.
+[07:10] A to, co udělal teďkon, to, že vyhostili ty ruské diplomaty,
+[07:15] tak oni sedm z nich obvinili z toho, že jsou napojení
+[07:18] na ruské tajné služby, další prověřují a proto je vyhostili.
+[07:23] Rusové na to reagují velmi, velmi ostře.
+[07:27] Řekli, že budou konsekvence pro Maďarsko velmi tvrdé
+[07:32] a předpokládám, že se bude jednat o nějaké dodávky ropy
+[07:36] či plynu nebo něco takového.
+[07:38] To zatím rusové neuvedli, ale Sergej Lavrov k tomu řekl,
+[07:41] že ty následky pro Maďarsko budou velmi tvrdé, že to Maďarsko
+[07:44] velmi tvrdě pocítí.
+[07:47] To není, to rozhodně není dobrá zpráva, že se začíná Maďarsko,
+[07:53] který v době Viktora Orbána Maďarsko mělo a Petra Siarta mělo
+[07:57] Maďarsko s Ruskou federací velmi dobré vztahy.
+[08:01] Asi nejlepší, co se týče zemí Evropské unie.
+[08:04] A co se týče Petra Maďara, tak vidíte, že ten do toho šlápnul,
+[08:08] tak, aby rusů měli mít.
+[08:09] A to jim jasně ukázal, že žádný kamarádi s Maďarskem nebudou.
+[08:13] A to, že říká navenek, že diplomacia bude pokračovat
+[08:16] na hladě přátelství, to je, říkám vám, to je Maďarský rejchel.
+[08:21] Něco říká a něco jiného dělá.
+[08:24] Takže vyhoštění ruských diplomatů a jejich obvinění
+[08:27] z napojení na tajný služby je samozřejmě velmi tvrdý krok
+[08:30] proti Rusku.
+[08:35] Bosna a Hercegovina taky omezí vztahy se Srbském
+[08:39] kvůli pohřbu bývalého velitele bosenských Srbů Radka Mladiče.
+[08:43] Ministr zahraničí Elmedin Konakovič uvedl,
+[08:47] že účast srbských ministrů na pohřbu překročila všechny meze
+[08:52] a událost působila jako oslava válečného zločince.
+[08:57] Bosna stáhne část personálu svého velvyslavěctví v Bělhradě
+[09:00] po zastavě bilaterální jednání a odstoupy od několika
+[09:04] mezinárodních dohod. Zároveň se nepřipojí k plánovanému
+[09:08] memorandu o dobrém sousedství zemí západního Balkánu.
+[09:38] Patriarcha, to je první věc, to znamená nejvíc postavená
+[09:40] duchovní osoba v Srbsku. Prezident se, pokud vím,
+[09:44] neúčastnil pohřbu z nějakých důvodů, který on vysvětlil,
+[09:48] takže měl dlouho plánovanou mezinárodní sluzku,
+[09:52] ale jinak se samozřejmě toho pohřbu účastnili prakticky všichni.
+[09:57] Podle zpráv tam bylo 200 000 lidí na tom pohřbu,
+[10:01] takže to vidíte, že 200 000 lidí nikdo u nás neměl,
+[10:04] že jo, na žádném pohřbu v České republice, nebo pamatujete si někdo,
+[10:08] měl 200 000 lidí a Srbsko má jenom 7 milionů lidí.
+[10:11] Srbsko má méně lidí než Česká republika,
+[10:14] takže pro Srby Radko Mladič je opravdu hrdina.
+[10:18] Pro ty Srby z Republiky Srbské je samozřejmě hrdina ještě větší.
+[10:26] To, co říkal syn Radka Mladiče na tom pohřbu, bylo velmi zajímavé,
+[10:31] že nejdřív se ho pokoušeli obvinit ze lži, pak vytvořili trestní případy,
+[10:38] vykonstruované, uvěznili ho a poslední, co udělal Radko Mladič,
+[10:46] proto jsem chtěl, aby tady to video bylo, protože mi to velmi připomínalo to,
+[10:50] jakým způsobem postupuje Česká republika vůči některým lidem,
+[10:53] ale OK, video nemáme, bylo to zajímavý, to je ho řeč a končil tu řeč jeho syn tím,
+[10:59] že Radko Mladič udělal poslední věc, immortal po smrti a že spojil Srby,
+[11:04] což je velmi...
+[11:08] řekl bych, trefný, protože Srbsko je rozdělené díky těm demonstracím,
+[11:15] které trvají už několik let, to víte, taky dneska myslím,
+[11:18] že jsem slyšel zprávu, že pravděpodobně do 6 týdnů budou v Srbsku volby vyhlášené
+[11:23] kvůli demonstracím, protože Aleksandr Vučiš už po druhé vyhlášuje předčasné volby
+[11:27] kvůli demonstracím, to není jako v České republice,
+[11:31] že lidi řeknou, že jdou třikrát na demonstraci a pak jim tam někdo řekne,
+[11:39] úřad vlády, dokud vláda neustoupí, jak jim to skončí.
+[11:42] V Srbsku ty protesty pokračují pořád, takže Vučiš už po druhé dělá předčasné volby,
+[11:47] uvidíme, jestli znovu vyhraje, ale ten národ, který byl rozdělený,
+[11:52] tak tady se absolutně spojil, protože Radko Mladíč je pro Srby opravdu hrdina,
+[11:57] který bojoval proti dvakrát tak velké armádě muđahedinů, z nich ještě pořád 6 000 muđahedinů
+[12:03] je v Bosně, kteří odmítli odejít z Bosny, takže to ještě je velký nebezpečí pro Evropu pořád,
+[12:09] o tom už jsem konec konců mluvil xkrát někdy mezi lety 2012 a 2020,
+[12:16] že v Bosně jsou výcvěková centra pro muđahediny.
+[12:23] Radko Mladíčovi se skutečně podařilo Srby spojit, protože neznám nikoho v Srbsku,
+[12:29] kdo by řekl, že Radko Mladíč je válečný zločinec, nebo tak, jak to píšou všechna,
+[12:34] česká i všechna západní zahraniční média, když píšou o Radko Mladíčovi,
+[12:38] že to je zločinec, který páchal genocidu a další věci.
+[12:43] Radko Mladíč je prostě generál, který přišel do Republiky Srbské,
+[12:48] když srebernice a okolí asi zhruba 200 vesnic bylo vyvražďováno,
+[12:54] včetně žen a dětí, islámskými muđahediny, a přijel,
+[13:00] to už jsem vám taky ukazoval to video, přijel z 50 autobusy, ženy a děti,
+[13:04] a starce naložil do těch autobusů a nechal je odvést na muslimské území,
+[13:09] než začal boj proti těm muđahedinům. Za to byl také obviněný a potrestaný,
+[13:14] že to bylo nedobrovolné vyvezení těch lidí z jejich teritoria.
+[13:21] A když byly dobezpečí odvezení civilisté, tak začal čistit území
+[13:26] od těchto muđahedinů. To, co se stalo, je možné,
+[13:31] že tam došlo k nějakým válečným zločinům.
+[13:34] Je možné, že někteří vojáci byli zajmutí a že byli zastřeleni,
+[13:39] že byli popraveni, že nebyli předáni k soudu.
+[13:43] Na druhou stranu, pokud vím, tak se nikdy neprokázalo,
+[13:47] nebo nevím, jestli se to prokázalo v hágu, ale prokázání v hágu,
+[13:52] odsouzení v hágu pro mě není úplně prokázání.
+[13:54] Ale to, co se říká v Srbsku, že se nikdy nepodařilo prokázat,
+[13:58] že by Radko Mladič dal ten rozkaz, že mohlo jít o nějaké velitele,
+[14:03] kteří prostě rozhodli o tom, že popraví,
+[14:06] a myslím si, že to bylo v desítkách nebo ve stovkách nějakých vojáků.
+[14:11] A je potřeba pochopit, že jestli to udělali,
+[14:15] tak to samozřejmě může být válečný zločin a nějak ho namlouvám,
+[14:18] ale zkuste se vžít do těch chlapů, protože x z nich znám,
+[14:23] kteří byli v té válce, dokonce dva moji sousedky,
+[14:25] kteří byli dneska u nás na návštěvě, tak byli v té válce.
+[14:28] Zkuste se vžít do situace těch lidí, kteří,
+[14:33] žili spokojně na svojem územě, najednou přišli mu džahedýni
+[14:36] a začali ozbrojení jako vojáci, vyvražďovat jejich rodiny,
+[14:41] včetně žen a dětí.
+[14:43] Tak samozřejmě válečný zločin je válečný zločin,
+[14:50] ale pokud vím, tak aspoň těhlecky vojáci nikdy nevraždili ženy a děti.
+[14:56] A to jestli zabili při tom boji, nebo i když zadrželi nějaký vojáky,
+[15:02] jestli je zastřelili, je to samozřejmě špatně, nemá se to dělat
+[15:04] podle...
+[15:05] nemá se to dělat podle ženevských konvencí, střílet vojáky,
+[15:07] ale možná, že to skutečně jsou váleční zločiny,
+[15:12] ale jak říkám, srbský národ to vidí jinak.
+[15:15] Srbský národ to vidí tak, že tato armáda, která byla, jak říkám,
+[15:19] poloviční od té mu džahedýnské armády, to byly chlapy od rodin,
+[15:23] kteří šli bojovat, bojovali statečně, chránili území,
+[15:27] chránili ženy, díky ním existuje republika srbská.
+[15:30] A zatímco oni bojovali s těmi mu džahedýny,
+[15:35] chránili Evropu před mu džahedýny, tak NATO je bombardovalo,
+[15:40] Spojené státy je bombardovali pěkně ze zhora.
+[15:43] To byly, ta armáda nebyla tak vyzbrojená samozřejmě jako NATO.
+[15:47] Takže to je pohřeb Radka Mladiče a Srbsko se díky tomu vzdaluje tomu,
+[15:53] aby vůbec zůstalo na přístupových cestách do Evropské unie,
+[15:57] což jsem samozřejmě velmi rád a jediný, co si přeju,
+[15:59] aby Srbsko kompletně odešlo z těch přístupových cest do Evropské unie.
+[16:03] Tak to já si můžu vám samozřejmě...
+[16:05] Můžu ještě říct, jak to funguje s Republikou Srbskou,
+[16:08] ale jenom v krátkosti. Republika Srbská není Srbsko,
+[16:11] to je jediné území, to je území, kde probíhala ta válka,
+[16:14] protože v Srbsku žádná válka neprobíhala v těch 90. letech,
+[16:18] kromě toho, že NATO bombardovalo Srbsko,
+[16:20] tak ty Jugoslávské války probíhaly všechny mimo území Srbská,
+[16:24] ale Republika Srbská je území, když se podíváte tam,
+[16:27] kde se půlí Chorvatsko a Albánie a podívali byste se od moře takhle nahoru,
+[16:34] tak tam se takhle táhne Republika Srbská.
+[16:38] Je to součást republiky, nebo součást státu Bosna a Hercegoviny.
+[16:43] Je to jedna z republik Bosny a Hercegoviny.
+[16:45] Je to tak, že spojené národy vytvořili uměle tenhle stát tak,
+[16:50] aby Bosna měla navrh ve všem. Víte, že třeba prezident Republiky Srbský
+[16:56] vytvořil tenhle stát, tak, aby Bosna měla navrh ve všem.
+[16:57] Byl odsouzený k vězení, že ho tou bosenskou vládou,
+[17:00] to není tak dlouho, co jsme o tom mluvili.
+[17:03] A dala do vedení té země nějakého turistu Schmitte,
+[17:08] jak my říkáme, německého politika, kterého tam takhle dosadila
+[17:12] Angela Merkelova za pomoci Francie a Chorvatska a spojených národů.
+[17:18] A ten to tam řídil a je to v podstatě tak, že Republika Srbská
+[17:21] jsou srbové, které jsou ještě víc srbové než srbové.
+[17:23] V každém městě, když pojedete, tak uvidíte,
+[17:27] ty nadseduly s názvem města Zetko, namalovaný červeným sprejem.
+[17:32] A tato země vlastně žije pod nadvládou té muslimské Bosny,
+[17:41] což jsou v podstatě srbové, kteří se nechali během těch 500 let,
+[17:44] co byli Turci na Balkáně, zislamizovat.
+[17:47] Zatímco srbové se nenechali zislamizovat,
+[17:49] tak bosňáci se nechali zislamizovat.
+[17:51] Takže jsou to v podstatě srbové, kteří se nechali zislamizovat.
+[17:55] A to, co...
+[17:58] No, OK.
+[17:58] Myslím, že to stačí pro dnešek jako ono.
+[18:01] O tom ještě budeme slyšet v příštích týdnech a měsících,
+[18:04] protože na Kosovu a v Republice Srpský se toho bude hodně dít,
+[18:07] takže o tom se ještě budeme bavit.
+[18:09] Tak, pojďme dál, prosím.
+[18:18] Rumunské úřady vydali varování kvůli dronu,
+[18:21] který se přiblížil k východnímu Rumunsku.
+[18:24] Varování se týkalo nějakých okresů rumunských
+[18:27] a částí okresu Vasluj.
+[18:29] Obyvatele byli vyzváni, aby vyhledali ukryt
+[18:31] a zůstali mimo okna a vnější stěny budov.
+[18:35] Podle Moldavského ministerstva obrany,
+[18:37] dron, původně identifikovaný jako ruský šahet,
+[18:41] vstoupil do Moldavského vzdušného prostoru z Ukrajiny.
+[18:45] Nasledně byl sledovat nad Moldavském,
+[18:47] mimo jiné směrem na Kišiněv.
+[18:50] Podle úřadu opustil Moldavský vzdušný prostor
+[18:52] poblíž města Zagaranca
+[18:55] a pokračovat měl směrem k rumunskému okresu.
+[18:58] A vzhledný...
+[19:01] Ještě pár.
+[19:01] Dvě španělské stíhačky vzletly z letecké základny
+[19:06] a monitorovali vzdušný prostor NATO.
+[19:09] To je zajímavé.
+[19:11] My jsme slyšeli přece od Marka Ruteho,
+[19:13] že NATO ochrání každý centimetr území NATO.
+[19:17] A teď tady prosky lítá,
+[19:19] nevím, jak dlouho mohl letět ten dron,
+[19:21] když letěl přes celý Moldavskou,
+[19:22] a pak si zamířil do Rumunska.
+[19:24] To je zajímavé.
+[19:26] Ale chtěl bych se dostat teď ke zprávě o Andrew Bridgenovi.
+[19:30] Vím, že vám v tom zase dělám,
+[19:32] ale Zuzku, pojďme na zprávu s Andrewem Bridgenem,
+[19:35] protože to je něco, co mi opravdu leží v hlavě a na srdci.
+[19:39] A ono se to i dotýká tady toho dronu v Moldavsku a v Rumunsku.
+[19:45] Várování od Andrew Bridgena.
+[19:49] Andrew Bridgen na CTX zveřejnil,
+[19:52] že ho tajné služby varovali,
+[19:54] že britská vláda planuje hrůzný útok pod falešnou vlajkou,
+[19:58] aby zvrátila veřejné mínění ohledně války s Ruskem.
+[20:02] Proti Rusku.
+[20:03] Aha, myslel jsem, že nám řekneš, kdo je Andrew Bridgen,
+[20:07] ale můžeš nám říct, kdo je Andrew Bridgen,
+[20:09] pro ty, kteří neznají Andrew Bridgena?
+[20:11] Andrew Bridgen je britský politik a podnikatel známy především,
+[20:16] teda byl bývalým poslancem za konzervativní stranu.
+[20:20] V letech 2010 až 2024 původně byl členem konzervativních párty,
+[20:27] ale v roce 2023 byl ze strany vyloučen.
+[20:30] Velkou pozornost si získal hlavně během covidu,
+[20:34] kvůli kritice a bezpečnosti vakcín.
+[20:39] Dobře, stačí.
+[20:41] Dobře, podívejte, Andrew Bridgen je bývalý poslanec britský,
+[20:44] který přesvědčil Borise Johnsona, aby Británie vystoupila z Evropské unie.
+[20:49] To je první věc.
+[20:51] Druhá věc, Andrew Bridgen mimo jiné je poslanec,
+[20:54] který přišel do britského parlamentu a udělal přednášku o úmrtých,
+[20:59] o nadúmrtých v souvislosti s covidem a s vakcínami.
+[21:04] A je to přednáška na základě, který jsem přišel o youtubový účet.
+[21:09] Andrew Bridgen je taky náš kamarád, mimo jiné.
+[21:12] Takže je to velký bojovník, co se týče těch covidových opatření,
+[21:18] ale není to takový ten bojovník, jako máme my u nás,
+[21:21] ty bojovníky, co bojovali v covidu a potom začali říkat, že Andrej Babiže velký politik,
+[21:26] ale jeho to stálo kariéru.
+[21:28] Mimo jiné, Andrew Bridgen je poměrně známý politik v Británii,
+[21:34] když on předčítal tu zprávu o nadúmrtých,
+[21:38] tak byly všechny ochozy plné lidí v parlamentu britském, což teda nebývá zvykem.
+[21:44] Tak to je jedna z věcí.
+[21:45] Druhá věc, to video, které jsem viděl s Andrew Bridgenem, to, co říkal,
+[21:49] tak je to video, které má dvě minuty čtrnáct.
+[21:52] Bohužel jsme ho nestěli otitulkovat, ale možná poprosím Tondu,
+[21:55] jestli by ho ještě nezvládnul otitulkovat a přiložit do češtiny,
+[21:58] protože to je opravdu, opravdu síla.
+[22:01] On je velmi smutný, mluví o tom, že válka bude, že to je jasná věc
+[22:06] a řekl, že dostal ze svých zdrojů od tajných služeb informaci,
+[22:11] že protože Británie, britská populace nestojí,
+[22:15] to veřejné měnění není na straně toho, aby se šlo do války proti Rusku,
+[22:20] takže se chystá velká operace pod falešnou vlajkou
+[22:25] a ta operace bude mít za následek smrt mnoha dětí.
+[22:29] A řekl, že doufá, že se modlí, že se to nestane,
+[22:34] že Británie do války nepůjde, ale ten příspěvek začínal tím,
+[22:39] že to je prostě jasná věc, že Británie jde do války proti Rusku.
+[22:42] Velmi silný příspěvek, obvykle dáváme zprávy, které jsou ověřené,
+[22:48] tohle je jenom zpráva jednoho známého silného britského politika,
+[22:53] který mluví o tom, že má zákulisní informace z tajných služeb.
+[22:56] Tak, protože nám tady lítají takhle ty dróny,
+[22:59] tak mně napadlo, že by se to mohlo takhle k sobě připojit,
+[23:04] že by možná někoho mohlo napadnout, proč takhle lítají ty dróny,
+[23:07] si tady takhle hezky po Evropě. Tak pojďme dál.
+[23:13] To je šílený už fakt.
+[23:15] Izraelský premiér Benjamin Netanyahu byl podle denníku Hards
+[23:20] zhruba deset dní před útokem Hamasuse 7. října 1923
+[23:25] varován prezidentem Spojených arabských emirátů.
+[23:28] Ten měl během...
+[23:30] To je docela tvrdý.
+[23:58] To je jako kvůli tomu začala tam válka.
+[24:00] Kolik set mrtvých tam bylo, kolik tisíc potom tam bylo mrtvých,
+[24:04] jaký masakr, když tam byli nějaký děky na párty
+[24:08] a začali tam masakrovat, unášet.
+[24:11] A ono se to říkalo, že o tom Izraelci věděli,
+[24:15] že není možný, aby to ten Hamas zvládnul,
+[24:19] protože Izrael je nejstřeženější místo na světě prakticky,
+[24:22] což vám můžu potvrdit. Včera jsem o tom mluvil,
+[24:25] že jsem projezdil celý Izrael tam opravdu v každém autobuse,
+[24:28] v každém vlaku, v každém prostředí.
+[24:30] V každém prostředku hromadní dopravy sedí jeden ozbrojenec,
+[24:34] v každém, kvůli teroristickým činům. Všude jsou checkpointy,
+[24:37] všude vás kontrolují, všude jsou lidi se samopalama.
+[24:40] Hranice jsou prostě absolutně střežený.
+[24:42] Izrael je prostě jedna velká pevnost.
+[24:44] A najednou prostě Hamas přišel a udělal tam takovýhle útok
+[24:47] a oni než zareagovali, jak bylo 45 minut pryč.
+[24:50] Takže to opravdu vypadá trošičku jako izraelský Pearl Harbor.
+[24:55] A teď dostáváme informaci od prezidenta
+[24:57] Spojených Arabských Emirátů, že Benjamina Netanyahu avaroval.
+[25:01] Takže to je velmi vážná informace.
+[25:04] Včera jsme s manželkou koukali v noci na dokument
+[25:06] o chasických židech na YouTube. Velmi dobrý dokument.
+[25:10] Člověk chodí s kamerou do jejich motly Deben
+[25:13] a do jeho v New Yorku a dělá s nima rozhovory.
+[25:17] To je prostě úplně, to je úplně jinej svět.
+[25:19] Ty lidi nemají, telefony mají jenom, aby volali.
+[25:22] Ani nejdou jim posílat zprávy.
+[25:24] Televizi nikdy neviděli.
+[25:26] Internet nemají žádný přístup,
+[25:29] že by někde surfovali nebo něco takového.
+[25:31] Jedinou sociální sík, kterou mají,
+[25:34] tak jsou nějaké jejich kazatele,
+[25:36] že si tam zadejí do telefonu nějaké telefonní číslo
+[25:38] a on jim po telefonu dává kázání.
+[25:42] Modlí se víc než 12 hodin denně.
+[25:46] Prostě každý z nich má minimálně 10 dětí,
+[25:49] já to nepřeháním.
+[25:51] A všichni věří v brzký příchod Mesiáše.
+[25:54] A samozřejmě v tom,
+[25:56] že Izrael je svatá země a svatý chrám,
+[26:00] který je na místě současné mešity islámské,
+[26:06] takže musí být obnoven.
+[26:08] Nevím, jestli tyhle chasičký židé
+[26:10] nebo i další sionisté,
+[26:13] to jsou prostě...
+[26:16] Viděl jsem třeba, měli jedno setkání
+[26:18] a sbírali peníze na pomoc nějakým dětem.
+[26:21] Vybrali 400 tisíc dolarů během chviličky.
+[26:25] Jejich cíl byl 1,2 milionu.
+[26:28] Tam bylo pár lidí, kteří prostě normálně žijou
+[26:31] a kteří se jenom modlej
+[26:33] a žijou ze sociálních dávek ve Spojených státech.
+[26:36] Prostě tam se točí obrovské peníze
+[26:39] a to se bavíme o těch obyčejných těhlech chasičkých židech,
+[26:43] ale ty, kteří jsou opravdu těch chazarškých židech,
+[26:46] prostě tam se točí tak obrovské peníze,
+[26:50] že hybou světem.
+[26:51] Ten jeden, který tam mluvil, když byli v restauraci,
+[26:54] v takové chasičké restauraci, tak říkal,
+[26:56] jo, tady měl být na obědě Donald Trump,
+[26:59] říkal nějaký datum, ale nakonec jsem to musel odvolat,
+[27:03] protože Donald Trump měl přijet z Vědnu
+[27:04] a v 10 hodin odešel můj otec,
+[27:07] tak jsme zrušili návštěvu Donalda Trumpa.
+[27:09] Tak si dokážete představit,
+[27:11] když tyhle židovské struktury jsou takhle fanatické
+[27:14] o tom, že potřebují velký Izrael a příchod Mesiáše
+[27:18] a už nemají moc času,
+[27:20] a lítají tam takhle obrovské peníze,
+[27:22] které potom dávají stovky milionů na předvolební kampaně
+[27:27] a Jared Kushner seznámil Benjamina Netanyahu
+[27:30] a s Donaldem Trumpem,
+[27:31] protože Jared Kushner je velmi blízko Benjaminu Netanyahu
+[27:35] od svého narození, to jsou zpřátelenní rodiny.
+[27:38] Takže proto vlastně i ta americká politika
+[27:41] je takhle blízko Izraeli
+[27:44] a proto Donald Trump pomáhá Izraeli,
+[27:48] tak jak pomáhá třeba teď válkou s Iránem.
+[27:52] Takže to je velmi komplikovaná situace
+[27:55] a někdy má velmi jednoduché vysvětlení,
+[27:59] protože to náboženství je opravdu velmi fanatické.
+[28:09] Jemenské útilové v úterý zahájily sérii útoků na Saudskou Arabii.
+[28:14] Podle tavních úřadů bylo zraněno víc než 70 lidí
+[28:17] a zasažena byla také ropná energetická struktura.
+[28:21] Útoky představují výraznou eskalaci
+[28:23] mezi Saudskou Arabii a Iránem podporovanými hutými.
+[28:30] Zásahy ropných zařízení navíc zvyšují obavy
+[28:33] se nárušení globálních dodávek ropy,
+[28:36] zejvená kvůli strategické nábožní trase Bab-el-Mandeb.
+[28:44] To je tady, tady vidím jeden komentář,
+[28:46] který musím nejdřív okomentovat.
+[28:48] Panu vrábel Jan Galán, buďte tak dobrý
+[28:50] a soustavně měř ještě svoje mindráky z majetku pana Babiša,
+[28:54] a radši se starejte, aby jste měli více,
+[28:57] než takových 0,16 %.
+[29:00] Lebo, Ilvu, jinak zůstanete jen ludovým rozprávačem
+[29:04] s publikou, která se změská do jedné kavárny.
+[29:07] Tak, jestli můžu vás poprosit, pane Galán,
+[29:11] můžete si vzít, prosím vás pěkně, pana Babiše zpátky na Slovensku,
+[29:14] když ho tak milujete?
+[29:17] To je premiér České republiky,
+[29:20] a když tady máme zprávy,
+[29:23] a ty zprávy plní,
+[29:25] titulky všech médií,
+[29:27] a je to jedna z hlavních zpráv v České republice,
+[29:29] tak to hodně řešíme.
+[29:31] Možná se vám to nelíbí,
+[29:33] možná máte nějaký osobní vztah k panu Babišovi,
+[29:35] ale my ho neřešíme jako nějakého člověka,
+[29:37] my ho řešíme jako premiéra naší země.
+[29:39] A to se nás dotýká, co dělá premiér naší země,
+[29:42] jestli je ve střetu zájmu,
+[29:44] a díky tomu nedostáváme dotace z Evropské unie,
+[29:47] a musíme je platit z našeho ministerstva zemědělství,
+[29:49] protože to jde z našich kapes.
+[29:51] Tak, co se týče toho Bab al-Mandabu,
+[29:55] Hutijové útočili na Spojené Arabské Emiráty,
+[29:57] nebo na Saudskou Arábii?
+[29:59] Na Saudskou Arábii.
+[30:01] Na Saudskou Arábii, pokud si dobře vzpomínám.
+[30:03] Jo, na Saudskou Arábii.
+[30:05] Na Saudskou Arábii, no, tak to je jasný,
+[30:07] že to nebude jenom Irán,
+[30:09] ale to už trvá nějakou dobu ty Hutijové.
+[30:11] Otázka je, kde se rozehrá ta válka,
+[30:14] kde se rozehrá ta válka natvrdo víc,
+[30:16] protože co se týče Ukrajiny,
+[30:18] tak tam pořád můžeme diskutovat o tom,
+[30:20] jestli to je válka nebo speciální vojenská operace.
+[30:22] Za mě je to spíš speciální vojenská operace,
+[30:25] než válka, protože válka, když je,
+[30:28] tak podle mě ve válce jdou stranou
+[30:32] nějaký předsudky a prostě se válčí
+[30:36] a válčí se o území.
+[30:38] Může někdo říct, že to je válka,
+[30:40] možná, že to je válka, co to, co je na Ukrajině,
+[30:43] protože to je velmi tvrdý a je tam spousta,
+[30:46] pravděpodobně miliony mrtvých,
+[30:48] takže můžeme říct, že to je válka,
+[30:51] ale co se týče toho Iránu,
+[30:53] tam mi připadá, že to je takový tvrdší,
+[30:55] že prostě, když se podíváte na Rusy,
+[30:58] tak ty řekli, děláme speciální vojenskou operaci,
+[31:01] civilisky, prosím vás, vy jste naši bratři,
+[31:03] nechoďte podporovat vojáky,
+[31:05] nebraňte se našim vojákům, nebojujte s nima,
+[31:08] my budeme, my budeme jenom po militarizaci.
+[31:12] Američani ty to neudělali takhle.
+[31:14] Ty přišli, vyvraždili dvě z těch holčiček
+[31:16] v nějaký školce, aby ukázali,
+[31:18] že budou vraždit, co budou chtít,
+[31:20] vyvraždili celé vedení země,
+[31:22] to Rusové nikdy neudělali, nikdy nezautočili
+[31:24] na Volodomíra Zelenskýho, a taky to teďkon řekli,
+[31:26] že nikdy na něj neutočili.
+[31:28] Sergej Lavrov to řekl, že nikdy na něj neutočili.
+[31:30] A můžou.
+[31:32] Takže Američani vyvraždili celé vedení země,
+[31:34] vyvraždili malé děti,
+[31:36] a potom řekli, že je pošlou zpátky do středověku,
+[31:39] když na to přijde.
+[31:41] A jsou úplně odlišní přístupy.
+[31:43] To znamená, co se týče toho Blízkého východu,
+[31:45] tak Američani jsou mnohem agresivnější,
+[31:48] než jsou Rusové na Ukrajině.
+[31:51] Akorát, že prostě mají jiného nepřítele.
+[31:54] Irán je silný nepřítel pro Spojení státy,
+[31:56] velmi silný nepřítel,
+[31:58] kdežto Ukrajina není až zas tak silný nepřítel
+[32:00] pro Ruskou federaci,
+[32:02] jako je Irán pro Američany.
+[32:04] Takže je to tam rozdílné
+[32:06] a díky tomu se to na Blízkém východě
+[32:08] může eskalovat rychleji,
+[32:10] i když dneska to, co vidíme v Německu,
+[32:12] to, co vidíme v Británii,
+[32:14] v Polsku a dneska už i v Maďarsku,
+[32:16] co se týče Ruský federace,
+[32:18] tak prostě nelze říct ani dne,
+[32:21] ani hodiny, kdy ten konflikt přejde
+[32:24] do nějaký otevřený války.
+[32:26] Prostě ta situace je opravdu vážná.
+[32:29] Říkal jsem vám minulý týden,
+[32:31] že to je mírová jednání, abyste nečekali,
+[32:33] že to nějak dopadne dobře.
+[32:35] Teď už jenom čekám, kdy bude spáchaný atentát
+[32:38] na nějakou důležitou osobu
+[32:40] a potom zachrání se, kdo může.
+[32:42] Tak pojďme dál.
+[32:46] Irán reaguje na americké návrhy.
+[32:48] Podmínky předal přes prostředníky.
+[32:51] Má svoje vlastní podmínky.
+[32:55] Teheran tak měl reagovat na nové americké návrhy.
+[32:58] Kontakty mezi oběma stranami byly
+[33:01] podle iránského politického zdroje obnoveny
+[33:04] a konkrétní požadavky Teheranu všech
+[33:06] zatím nebyly zveřejněny.
+[33:08] Tady ještě přečtu jednu.
+[33:10] Irán oznámil, že plánuje,
+[33:13] oznámit novou vyloučenou zónu
+[33:16] poblíž Hormuzského průlivu.
+[33:20] Pardon, podívejte, nechci z vás dělat hlupáky,
+[33:23] takže nechci tady rozebírat, co, kde, kdo, komu nabízí
+[33:27] v tomto konfliktu, protože je to pořád
+[33:30] tlučení prázdný slámy.
+[33:32] Ten konflikt pokračuje dál.
+[33:34] Uvidíme, jestli Donald Trump teď před volbami
+[33:36] bude chtít spíš hrát mírovou kartu v Iránu,
+[33:39] anebo spíš bude chtít hrát kartu,
+[33:41] že vyhrává v Iránu,
+[33:43] která bude hrát na vojevůce.
+[33:45] To jsem zatím ještě nezjistil.
+[33:47] Co se týče Ukrajiny, tam už se Donald Trump rozhodl,
+[33:50] tam hraje mírovou kartu,
+[33:52] takže celá ta estráda s Johnem Radcliffeem
+[33:55] a s Jaredem Kushnerem a Stevem Witkoffem
+[33:58] má v podstatě jenom jeden jediný účel,
+[34:00] a to není mír, ale to je to,
+[34:02] aby Donald Trump v Americe mohl říct,
+[34:04] že dělá všechno pro to, aby byl mír na Ukrajině,
+[34:07] že prostě vyjednává, že je mírotvorce.
+[34:10] Takže co se týče, co se týče,
+[34:13] co se týče těch vyjednávání mezi Iránem a Spojenými státy,
+[34:17] myslím si, že nemá cenu chodit do detailu,
+[34:19] co, kdo, kdy, kde, komu nabízí.
+[34:21] My jsme to tady komentovali xkrát.
+[34:23] Irán požaduje, aby se stáhly Spojené státy
+[34:26] z vojenských základem v Blízkém východě.
+[34:29] Požaduje, aby dostal 100 miliardů dolarů,
+[34:32] které jsou zmrazené, jejich peníze, ze strany USA.
+[34:37] Požaduje, aby Spojené státy na ně přestaly útočit
+[34:41] a chce kontrolovat,
+[34:43] spolu s Ománem, Hormuzský průliv.
+[34:45] To je asi tak všechno. Spojené státy naopak
+[34:47] chtějí, nevím co, zlikvidovat jaderný program,
+[34:51] který neexistuje, nebo donutit Irán,
+[34:54] aby dodržovalo mezinárodní smlouvy
+[34:57] o jaderném programu, který dodržoval Irán.
+[35:00] Nebo nevím, co chce. Podle mě prostě Donald Trump
+[35:03] a ta americká administrativa slouží těm chasidským,
+[35:07] chasidským židům, chazarským židům,
+[35:10] sionistickým křesťanům, prostě Chabadu Lubanu,
+[35:13] slovíček těm lidským sektám, který plánují
+[35:16] vytvořit velký Izrael, protože tomu věří,
+[35:19] jsou ochotní pro to udělat všechno
+[35:21] a dávají Donaldu Trumpovi stovky milionů dolarů
+[35:24] na kampaně. Říká se v Letzgré, že celý americký kongres
+[35:29] je pod vlivem těhleckých židovských lobbystů,
+[35:34] že prostě dávají tolik peněz americkému kongresu,
+[35:37] že si v podstatě s americkou armádou na Blízkém východě
+[35:40] můžou udělat, co chtějí. A podle mě,
+[35:42] proto tam je ta válka jeden z důvodů,
+[35:45] asi ten nejhlavnější důvod. Dalším důvodem je to,
+[35:48] aby Donald Trump kontroloval prodej ropy a plynu po světě,
+[35:53] ale to se mu samozřejmě až zas tak moc dobře nedaří,
+[35:56] takže se mu tam ta válka úplně dobře nevede.
+[35:59] Ve Venezuele se mu to podařilo, tam se jim podařilo
+[36:04] získat Venezuelu jejich ropné zásoby,
+[36:06] v Iránu se jim to moc nedaří. Takže zatím ten konflikt
+[36:10] opravdu nevypadá, že by měl nějaké míry,
+[36:12] nějaké mírové řešení. Až to bude vypadat
+[36:15] na mírové řešení, tak pak budeme řešit
+[36:17] podrobnosti těch návrhů. Do té doby je to podle mě
+[36:20] naprosto zbytečné.
+[36:24] Spojené státy varují evropské spojence,
+[36:27] že válka na Ukrajině může pokračovat ještě několik let.
+[36:30] Vysoký americký představitel Elbridge Cole by uvedl,
+[36:34] že Rusko obnovuje své ozbrojené síly i vojenskoprůmyslové kapacity
+[36:40] a vyzval Evropu k rychlejšímu zbrojení a zvýšení
+[36:44] výroby munice. Washington chce zároveň pokračovat
+[36:47] v dodávkách zbraní Ukrajině. Větší část finančního obřemene
+[36:51] však podle Colebyho musí převzít evropské země.
+[36:55] Ty mají rozšířit vlastní obranný průmysl a dlouhodobě
+[36:58] financovat také nákupy amerických zbraní pro Kyjev.
+[37:02] Americké varování a Pentagon však spojence upozorňuje,
+[37:07] aby nespoléhali na rychlou mírovou dohodu a připravili se
+[37:10] na dlouhodobý konflikt.
+[37:12] Tak...
+[37:16] Podívejte se na vyjádření Colebyho.
+[37:18] Rusko obnovuje své ozbrojené síly a vyzval Evropu
+[37:23] k rychlejšímu zbrojení a zvýšení výroby munice.
+[37:26] To je to, co Evropa dělá. Evropa se zadlužuje a přechází
+[37:30] ze svého, ze svojí ekonomiky, na kterou jsme byli zvyklí,
+[37:34] která byla určená k tomu, abychom se měli dobře
+[37:37] na ekonomiku válečnou, která má za účel to, aby se válčilo.
+[37:41] To se vylučuje, ty dvě věci. Jakmile se investuje do zbraní
+[37:45] a ne do dobrého života lidem.
+[37:47] Tak dobrý život lidí už nebude.
+[37:49] Další věc požadují, aby jsme nakupovali od Američanů zbraně
+[37:54] a dávali je Kievu. To taky není žádná novinka.
+[37:57] A připravili se na dlouhodobý konflikt.
+[38:01] Je to pro někoho, kdo možná nesleduje ty věci,
+[38:06] tak to může být čokující, že Američani říkají,
+[38:08] že se máme připravit na dlouhodobý konflikt.
