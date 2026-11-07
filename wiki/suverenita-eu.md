@@ -222,7 +222,11 @@ Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 20
 
 > „A proto musel ústavní soud podržet SPD a i stačilo, aby šlo SPD pro Trikolora a Svobodný do parlamentu, aby jsme tam nešli my.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+**2. 11.** — K podpoře, kterou Evropská komise dala Tuskovi, Vrabel vykládá dělbu moci jako „základ demokracie“: teď parlament ovládá soudy i policii a Komise jako „nadřízený orgán“ tuto „totalitu“ potvrzuje proti přímo zvolenému prezidentovi. Policie se podle něj má řídit zákonem, ne politiky, a její nasazení na území ÚS bylo nezákonné. Paralelu vidí v Maďarsku, kde Magyar dal prezidentovi ultimátum k odstoupení. Útočník s nožem před ÚS podle něj utekl do policejní dodávky, takže mohl být „policejním provokatérem“. Za snahou ovládnout ÚS vidí polské volby, Braunovu Konfederaci a válku, kvůli níž Brusel potřebuje Polsko „absolutně pod kontrolou“; Babiš se podle něj postaví na stranu Komise a Tuska.
+
+> „No tak potom je tady Evropská komise, která tu totalitu potvrdí a to vám řekne, jak to bude.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
 
 ---
 
@@ -685,6 +689,16 @@ K oznámení, že Christine Lagardeová v únoru 2027 předčasně opustí ECB, 
 > „Někde má něco slíbeného, nebo se chystá něco v Evropě blbýho.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
+
+---
+
+### Demise belgického premiéra De Wevera kvůli ruským aktivům, ne rozpočtu; Trump chce „uschovat“ evropskou páku (Vrabel, 2. 11. 2026)
+
+Vrabel tvrdí, že belgický premiér Bart De Wever nenabídl demisi kvůli rozpočtu, ale kvůli rostoucímu tlaku na použití zmrazených ruských aktiv v Euroclearu pro Ukrajinu. De Wever v prosinci jako jediný řekl Komisi „ne“, protože by riziko padlo na Belgii, a teď, když na to tlačí i Trump, nechce být premiérem, který za to ponese odpovědnost. EU má podle něj vůči Rusku jen dvě „karty“ — aktiva a sankce — ale nepoužívá je k vyjednávání; z tisíců sankcí Rusku vadí jen desítky, zbytek je „nafouklá bublina“. Proto Trump navrhuje, aby aktiva „uschovaly“ USA a páku použily samy.
+
+> „A on pravděpodobně mám taký pocit, že nechce být ten premiér, který za tohle bude zodpovědný.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
 
 ---
 

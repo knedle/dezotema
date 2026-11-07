@@ -994,7 +994,11 @@ Podle zprávy společnosti Anthropic bojovníci napojení na jemenské Húsíje 
 
 **23. 10.** — Ke zprávě o 200 milionech dolarů pro firmu Warhound (geneticky upravení a klonovaní psi pro armádu; Palmer Luckey z Anduril) opakuje, že chaos v Evropě, který se podle něj šíří už i do Albánie a Tuniska, řídí lidé skrze AI, nebo AI sama „jako útok proti lidstvu“ (s odkazem na seriál Black Mirror). Varuje před „hraním si na bohy“ s geny (AI by mohla navrhnout gen, aby vlčáci „neměli rádi lidi“) a před transhumanismem Thiela, Gatese, Muska (čip v mozku opice) a Schwaba, podle něhož budou lidé bez propojení s technologií „podřadná rasa“. Svůj starší odhad nezaměstnanosti „50+“ kvůli robotizaci a AI označuje za „velmi optimistický“, může být „klidně 90+“ (→ [Predikce](predikce.md)); sám je rád, že má dům v horách s vodou a půdou, a posluchačům radí plánovat na 5–20 let dopředu.
 
-**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+**2. 11.** — Ke zprávám o propouštění programátorů kvůli AI Vrabel považuje ztrátu práce za „míň závažnou“ věc, kterou vyřeší přerozdělení bohatství. Větší nebezpečí vidí v tom, že AI ovlivňuje myšlení a osamělí lidé se obracejí k AI partnerkám a sexrobotům, takže se lidstvo může „samo vyhladit“, aniž by AI musela převzít kontrolu. Poprvé tu podle něj je entita, která ovládá lidský jazyk lépe než lidé, a na jazyku stojí zákony i řízení firem. Jaderné zbraně se ve velkém konfliktu „velmi pravděpodobně“ použijí, přesto za větší nebezpečí považuje AI; souhlasně cituje Harariho.
+
+> „Pokud bych si musel vybrat jedno nebezpečí, který je větší, tak bych typnul na umělou inteligenci.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
 
 ---
 

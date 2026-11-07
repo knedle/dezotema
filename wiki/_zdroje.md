@@ -5976,3 +5976,11 @@
 - **Datum záznamu:** 2026-11-01
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 44 min, mluví jen Vrabel (bez hosta a moderátorky), čte dotazy diváků z komentářů; první polovina výklad plánu „ČR na prvním místě“, konec logistika pochodu 17. 11.; krátká němá videa z protestů.
+
+## Ladislav Vrabel — Zprávy v devět 2. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-2-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-02_Ladislav-Vrabel_2-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1174562738565607>
+- **Datum záznamu:** 2026-11-02
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 2 min, zprávy čte Zuzka; sdílené polské video G. Brauna nezpracováno; druhá půlhodina zrychlená, část zpráv bez komentáře.

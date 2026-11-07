@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Babiš se ve sporu o polský Ústavní soud postaví na stranu Evropské komise a Tuska (2. 11. 2026)
+
+**Předpověď:** Babiš při návštěvě Varšavy podpoří Komisi a Tuska, ne prezidenta Nawrockého; Poláci boj o ÚS prohrají.
+
+> „Takže podle mojeho názoru Andrej Babiš se bude stavět na stranu Evropské komise a na stranu Donalda Tuska.“ — Ladislav Vrabel
+
+**Horizont:** návštěva ve Varšavě 4. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
+
+---
+
+### Ladislav Vrabel — ve válce Ruska s Evropou by teď vyhrálo Rusko, „devět ku jedné“ (2. 11. 2026)
+
+**Předpověď:** Evropa nemá dost vojáků ani zbraní, Rusko je vyzbrojené a má válečné zkušenosti; při dalším překračování „červených linií“ konflikt jednou přijde.
+
+> „tak v tuhle tu chvíli, kdyby došlo na konflikt mezi Ruskou federací a Evropou, tak sázím devětku jedný na Ruskou federaci.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (podmíněné)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
+
+---
+
 ### Ladislav Vrabel — velká válka v letech 2024–2034 je „99% jistá“ (podle proroctví Padmasambhavy) (1. 11. 2026)
 
 **Předpověď:** Na základě buddhistických proroctví Padmasambhavy považuje velkou válku za téměř jistou; počítá s jadernými zbraněmi a nedostatkem jídla.

@@ -679,7 +679,11 @@ V pořadu TV Bureš (propagace shromáždění „Člověk na prvním místě" 3
 
 > „Prostě ta lež se vezme, postaví se takhle a řekne se, kdo nebude opakovat tu lež, toho zastřelíme. A kdo bude s náma opakovat tu lež, tomu dáme kus kořisti." — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026)
+**2. 11.** — K Babišovu výroku, že vláda musí kromě obrany financovat i zdravotnictví a dopravu, Vrabel říká, že Babiš „si zahrává“. Volby 2025 podle něj byly jen o tom, aby se do Sněmovny nedostal nikdo, kdo chce vystoupit z EU a NATO, protože politici a zbrojaři si nechtějí nechat ujít zbrojení a konflikt s Ruskem. Tím, že Babiš a Pavel lidem upřeli referendum, se z nich podle něj stali „dva diktátoři“ a „totalisté“. Kdyby vyhrál „Václavák“, ČR by nebyla v NATO a EU by se rychle rozpadla; takhle se podle něj rozpadne až ekonomickým krachem nebo občanskou válkou v západní Evropě. V Babišově kůži by „pár let dopředu“ být nechtěl.
+
+> „Takže tyhle dva diktátoři se postavili vedle sebe na podporu Evropské unie a NATO.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — TV Bureš: Člověk na 1. místě 25. 9. 2026](_zdroje.md#ladislav-vrabel--tv-bureš-člověk-na-1-místě-25-9-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
 
 ---
 
