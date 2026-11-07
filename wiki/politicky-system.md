@@ -435,7 +435,11 @@ Jako kontrast uvádí případ Coubala — Pavlova sponzora, který za způsoben
 
 K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vyslýchán podle protiteroristické legislativy, zabaveno elektronické zařízení, aniž byl z čehokoliv obviněn) Vrabel rozšiřuje seznam podobných případů pronásledování lidí kritických k „globalistické agendě" po celém světě: Scott Ritter (bývalý zbrojní inspektor OSN, nátlak na jeho ruskou manželku, aby ho udala jako ruského agenta), Petr Bystroň (poslanec Evropského parlamentu za AfD — sedm domovních prohlídek na základě obvinění z napojení na „ruského vlivového agenta", stejná technika, jakou se dle Vrabela pokusili použít i na něj samotného v Bělehradě), Julian Assange, Russell Brand (obviněn z několika znásilnění), Reiner Füllmich (stále ve vězení v Německu) a Tomáš Čermák (stále ve vězení v ČR). Vrabel to shrnuje jako systém, kdy elitářská vláda „oligarchů" a miliardářů (Trump, Babiš a další) pracujících pro nadnárodní bankovní/finanční zájmy potřebuje umlčet skutečnou opozici — nejprve skrze policii, státní zástupce a vykonstruované soudní procesy, v krajním případě vězením nebo zabíjením.
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
+**3. 11.** — K podezření SBU, že bývalá mluvčí Zelenského Julia Mendelová spáchala velezradu, Vrabel tvrdí, že jen „řekla pravdu“ (o Zelenského rozkazech a o istanbulské dohodě zmařené Západem). Hrozí jí podle něj „trest smrti“ nebo „nájemný zabiják“. Sám prý cítí, že by měl držet „low profile“, protože na Západě jsou v bezpečí jen ti, kdo „jedou s NATO a s Evropskou unií“. Jako příklady uvádí odsouzené ze svého hnutí za odznak „Z“, zákaz RT a Sputniku, Assange, Russella Branda, Reinera Füllmicha a dluh své manželky. Celé to podle něj ukazuje „boj elit proti lidem“, v němž elity mají peníze, média, policii i armádu.
+
+> „Bohužel to, to, čím procházíme, je boj elit proti lidem.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
 
 ---
 

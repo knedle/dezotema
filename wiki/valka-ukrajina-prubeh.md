@@ -521,7 +521,11 @@ Vrabel popisuje brutalitu ukrajinské mobilizace (jednotky TCK): syn v Mykolajiv
 
 **9. 10.** — K zprávě Washington Post o dvou milionech mužů, kteří se vyhýbají mobilizaci, a 200 tisících dezertérů pouští Vrabel videa náborářů v Charkově (strčení do 74leté ženy) a lidí přivázaných a zmlácených za krádež „za posvěcení policie“. Komentuje to slovy „co to je prostě za dobytek“. Až se to budou děti učit v dějepise, „odplivnou si, co je Ukrajina“, podle něj „absolutně zkorumpovaná země, kde se obchoduje s lidskými orgány“. Dodává, že „ne všichni Ukrajinci jsou špatní“. Rusové podle něj šli na Ukrajinu „chránit lidi, kteří jsou tam vyvražďováni“, a „my jsme se měli hned na začátku připojit k Rusku a ten nacistický režim odstranit“. ČR to neudělala, protože vlády „pracují pro globalistickou mafii, která chce Rusko rozbít“.
 
-**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
+**3. 11.** — Ke střetům u objektu Azovu v Petropavlivské Borščahivce u Kyjeva, kde podle protestujících věznili mobilizované, Vrabel tvrdí, že šlo o dům pro muže, kteří se snažili utéct z války; dva z nich měli zlomenou páteř a mezi zadrženými byl čtrnáctiletý chlapec. Video označuje za „první důkazy“ o tom, jak „ukrajinský režim“ mučí vlastní lidi, a oznámené stíhání protestujících za snahu je „umlčet“. Ukrajinu znovu označuje za pravděpodobně největší zdroj lidských orgánů. Svou dřívější tezi upřesňuje: Rusko jsme podle něj měli podpořit „především diplomaticky“ a že bychom s Ruskem měli napadnout Ukrajinu, „nikdy neřekl“ (srov. výrok z 9. 10.). Muži z fronty podle něj po válce přijdou hlavně do Polska a ČR.
+
+> „Takže prostě tady jsou první důkazy o tom, jakým způsobem mučí vojáci, ten ukrajinský režim, lidi na Ukrajině, svoje vlastní.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
 
 ---
 
@@ -1266,6 +1270,10 @@ Vrabel odmítá výklad, že Zelenskyj kapituloval. Ochota postoupit 25 % územ�
 
 > „Takže budoucnost, tak jak se před náma rýsuje, … s skoro stoprocentní jistotou je, že Ukrajina bude součástí Evropské unie, bude mít velkou armádu a my ji budeme platit.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+**3. 11.** — Schůzku Západu o bezpečnostních zárukách pro Kyjev (4. 11.) a americko-rusko-ukrajinská jednání v Abú Zabí (10.–11. 11.) Vrabel považuje za Trumpovo „předvolební PR“ bez pozitivního výsledku. Účast Witkoffa a Kushnera — „realitních makléřů“ a nevolených obchodních partnerů Trumpa — i ruského vyjednavače Medinského z toho podle něj dělá „Béčkové, spíš Céčkové setkání“; o skutečném míru by museli jednat nejméně ministři zahraničí. Jedinou možnou bezpečnostní zárukou je podle něj vojenská neutralita Ukrajiny s nejvýš 100 tisíci vojáky po vzoru Srbska. Vstup do EU zárukou být nemůže: státy ho podle něj nebudou chtít, protože zadlužená Ukrajina by EU „stáhla ke dnu“, a EU se mění ve „vojenskou unii“, kterou Rusko na hranici nepřijme. ⚡ 26. 10. přitom tvrdil, že Ukrajina bude v EU „skoro se stoprocentní jistotou“.
+
+> „Tohle to je jediná možná bezpečnostní záruka pro Ukrajinu, že bude vojensky neutrální.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
 
 ---

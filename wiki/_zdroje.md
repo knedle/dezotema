@@ -5984,3 +5984,11 @@
 - **Datum záznamu:** 2026-11-02
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 2 min, zprávy čte Zuzka; sdílené polské video G. Brauna nezpracováno; druhá půlhodina zrychlená, část zpráv bez komentáře.
+
+## Ladislav Vrabel — Zprávy v devět 3. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-3-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-03_Ladislav-Vrabel_3-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1132514723079849>
+- **Datum záznamu:** 2026-11-03
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 8 min, zprávy čte Zuzka; vysíláno v den amerických voleb do Kongresu; krátká videa (dům u Kyjeva); Vrabel se omlouvá, že zprávy dostal až na místě.

@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — jednání v Abú Zabí (10.–11. 11.) nepřinese žádný pozitivní výsledek (3. 11. 2026)
+
+**Předpověď:** Americko-rusko-ukrajinská jednání budou jen „předvolební PR“; zazní, jak byla konstruktivní, ale nic z nich nevzejde.
+
+> „Neočekávám od toho vůbec žádný výsledek, který by byl nějak pozitivní.“ — Ladislav Vrabel
+
+**Horizont:** 10.–11. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
+
+---
+
+### Ladislav Vrabel — Trump se po volbách do Kongresu do 1–2 týdnů vrátí k válečné politice (3. 11. 2026)
+
+**Předpověď:** Mírová rétorika vydrží nanejvýš týden či dva, pak Trump znovu rozjede války a „objeví se něco“, proč je potřeba pomáhat Ukrajině.
+
+> „myslím si, že politika Donalda Trumpa pomalu, možná ještě třeba týden, dva týdny, vydrží v nějakém takovém hodu, ale myslím si, že pomalu začne otáčet a pojede zase to, co je před těmi dvěmi měsíci.“ — Ladislav Vrabel
+
+**Horizont:** do poloviny listopadu 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
+
+---
+
+### Ladislav Vrabel — demokraté získají Sněmovnu reprezentantů, možný je pokus o impeachment (3. 11. 2026)
+
+**Předpověď:** V den voleb do Kongresu odhaduje, že demokraté nejspíš vyhrají Sněmovnu reprezentantů (Senát nejistý) a že může přijít pokus o impeachment.
+
+> „Očekávám, že demokraky by mohly vyhrát s nímovnou reprezentantů, to si myslím, že je docela pravděpodobný.“ — Ladislav Vrabel
+
+**Horizont:** výsledky voleb 3.–4. 11. 2026; impeachment neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
+
+---
+
 ### Ladislav Vrabel — Babiš se ve sporu o polský Ústavní soud postaví na stranu Evropské komise a Tuska (2. 11. 2026)
 
 **Předpověď:** Babiš při návštěvě Varšavy podpoří Komisi a Tuska, ne prezidenta Nawrockého; Poláci boj o ÚS prohrají.
@@ -261,6 +297,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** 2029
 **Stav:** 🕐 Čeká na vyhodnocení
+⚡ **Poznámka:** 3. 11. naopak tvrdí, že Ukrajinu členské státy v EU „nebudou chtít“, protože by EU „stáhla ke dnu“ ([Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)).
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 
 ---
