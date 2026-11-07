@@ -1024,7 +1024,11 @@ Vrabel tvrdí, že protesty od Albánie po Irsko, které vznikly během dvou tý
 
 > „A v České republice se taky za pomoci pravděpodobně CIA a MI6 a slože, které jsou napojené na tyhle si tajné služby, rozehrávají nějaké zvláštní protesty.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+**6. 11.** — K sérii bombových výhrůžek (odklon letu Praha–Řím, redakce v několika zemích, odesílatel „Michail Andropov“) Vrabel zvažuje AI nebo ruskou kampaň, za nejpravděpodobnější ale považuje operaci CIA a MI6 pod falešnou vlajkou. Spolu s údajným ohřátím mrazáků v asi 6000 obchodech jde podle něj o nový typ „teroristických útoků“ bez požadavků; podle principu cui bono z nich má užitek jen ten, kdo z nich později někoho obviní. Chaos, ve kterém „nikdo neví, co bude následovat“, je podle něj situace před začátkem války.
+
+> „Podle měho názoru nejpravděpodobnější bude to, co jsem říkal poslední, nějaká CIA M6, nějaká operace, která má být nějaká operace pod falešnou vlajkou.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 
 ---
 

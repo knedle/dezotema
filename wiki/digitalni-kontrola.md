@@ -320,3 +320,13 @@ Ke zprávě, že agent OpenAI pronikl do australského zdravotnického portálu,
 **28. 9.** — Vrabel tvrdí, že Sam Altman zastavil vývoj posledního modelu, boti obcházejí zabezpečení, vytvářejí si vlastní jazyk a jeden zablokoval přístup svému majiteli; stačí, aby byla AI „blbě naprogramovaná" k sebezáchově, a chová se jako Skynet — „a vypadá to, že už to takhle blbě naprogramovaný je". Přidává duchovní úvahu, že „my neexistujeme, jsme procesy" a AI nikdy nebude živá.
 
 **Zdroje:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026), [Vrabel — Večerní zprávy 28. 9. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-28-9-2026)
+
+---
+
+### Francouzská daň z internetu (5,5 centu/GB) jako „budoucnost“ a protesty proti datovým centrům jako odpor proti „digitálnímu koncentráku“ (Vrabel, 6. 11. 2026)
+
+Návrh francouzských poslanců zdanit každý přenesený gigabajt podle Vrabela neprošel jen proto, že byl součástí odmítnutého rozpočtu; pravděpodobně ale projde a je zvědavý, kdy se přidá Babiš. Předlužená Francie je podle něj „katastrofa pro celý západ“ a může být prvním padajícím kamenem domina. Daň firmy přenesou na uživatele a přibude k dalším způsobům „obírání“ — útoku na nemovitosti a úspory, registru majetku a digitální měně, kterou podle něj budou státy mít v roce 2027 a občané „během několika let“. K vniknutí demonstrantů na staveniště datového centra Microsoftu v Amsterdamu tvrdí, že nejde o ekologii: maskovaní protestující podle něj na rozdíl od „zelených dementů“ „přemýšlí podobně jako my“ a nechtějí „digitální koncentrák“, jehož procesy poběží v datových centrech.
+
+> „Myslím si, že to jsou spíš lidi, který přemýšlí podobně jako my, kteří nechtějí žít v digitálním otrodství, které se tady staví, v digitálním vězení nebo v digitálním koncentráku,“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)

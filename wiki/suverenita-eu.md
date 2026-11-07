@@ -238,7 +238,11 @@ Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 20
 
 > „A mysleli jsme si, že když jsou tam ty vojáci nebo ty policisté, kteří jsou neoznačeni u té budovy ústavního soudu, kteří nemají čísla a neodpovídají na otázky, že jsou to ty policisté z toho Bundeswehru, jak my jsme hloupí.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+**6. 11.** — K Tuskově výzvě „nepanikařte“ po videích vojáků Bundeswehru ve Varšavě Vrabel připomíná srpen 1968 a nevěří, že jde o ceremoniál. Němečtí policisté a vojáci tam podle něj jsou, protože Poláci jsou „nacionalisté“ a polští policisté a vojáci by proti vlastním občanům nezasáhli. Polsko je podle něj „hromada dynamitu“, která čeká na jiskru.
+
+> „Myslím si, že je to kvůli tomu, že Poláci jsou nacionalisty a bude strašně těžký přesvědčit polskí policisty a polskí vojáky, aby zasáhli proti polským občanům.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 
 ---
 
@@ -422,7 +426,11 @@ Ke schválení zrušení dovozních cel EU na americké výrobky (součást loň
 
 K odletu Andreje Babiše na summit V4 (s novým maďarským premiérem Peterem Magyarem) Vrabel reaguje na nadšení „vlastenců" na sociálních sítích („konečně V4 pohromadě, vláda zdravého rozumu"). Cituje ČTK, podle níž byla spolupráce V4 v minulých letech oslabená kvůli odlišným pohledům na válku — Orbánovo Maďarsko udržovalo dobré vztahy s Moskvou. Vrabel z toho vyvozuje opačné čtení než vlastenci: V4 se zase může scházet právě proto, že nový maďarský premiér Magyar (i Babiš) už má na válku „stejný názor jako ostatní" lídři (Ukrajina do EU, Rusko agresor, NATO zachránce, plnění závazků). Sjednocená V4 tak podle něj není dobrá zpráva, ale příprava na to, „jak budou mobilizovat vaše syny". Navazuje na jeho tezi o Magyarovi jako „falešném mesiáši" a o umělé „opozici".
 
-**Zdroje:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
+**6. 11.** — K deklaraci prezidentů V4 z Trenčína (podpora rozšíření EU a vojenské pomoci Ukrajině, za účasti von der Leyenové) Vrabel V4 jako vlasteneckou myšlenku odepisuje. Mantru „V4 nás zachrání“ podle něj na vlastenecké scéně kolem roku 2015 rozšířil Martin Konvička, později ji převzali Okamura a Rajchl; dnes je V4 podle něj „rádoby spolek“, který podporuje nenávist proti Rusku a zbrojení.
+
+> „prostě V4 je pro mě mrtvá, co se týče nějakého vlastenectví nebo nějakého patriotismu.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 
 ---
 

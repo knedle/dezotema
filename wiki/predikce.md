@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — digitální měna bude pro občany zavedena „během několika let“ (6. 11. 2026)
+
+**Předpověď:** Státy musí mít digitální měnu v roce 2027 a během několika let bude zavedena i pro občany.
+
+> „Brzy, během několika let, se bude muset zavést digitální měna i v rámci občanů.“ — Ladislav Vrabel
+
+**Horizont:** několik let
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
+
+---
+
+### Ladislav Vrabel — francouzská daň z datového provozu bude schválena (6. 11. 2026)
+
+**Předpověď:** Daň 5,5 centu za gigabajt projde samostatně nebo v rozpočtu; Francie může být „první domino“, které se začne sypat.
+
+> „Návrh zákona buď to bude formou samostatnou nebo formou rozpočtu jako přidružený a pravděpodobně schválený bude.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (francouzský rozpočet)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
+
+---
+
+### Ladislav Vrabel — Trumpova „velká dohoda“: Evropa bude kupovat ruskou energii přes USA, vojska se stáhnou od ruských hranic (6. 11. 2026)
+
+**Předpověď:** USA a Rusko se dohodnou, že Evropa bude nakupovat ruskou energii přes Spojené státy a Ukrajinu; druhou rovinou bude stahování vojsk z okolí Ruska. Jednání v Abú Zabí žádný průlom nepřinese.
+
+> „Takže myslím si, že ta krásná dohoda bude o tom, že se Američani a Rusové dohodnou na tom, že Evropa bude přes Spojené státy nakupovat energie z Ruska a přes Ukrajinu,“ — Ladislav Vrabel
+
+**Horizont:** nejbližší týdny
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
+
+---
+
 ### Ladislav Vrabel — prokazování totožnosti na internetu bude „velmi brzo“ povinné (5. 11. 2026)
 
 **Předpověď:** Na základě DSA bude každý uživatel internetu a sociálních sítí muset prokazovat totožnost; anonymní účty skončí.

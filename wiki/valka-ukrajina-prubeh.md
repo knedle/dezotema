@@ -1266,7 +1266,11 @@ Ke zprávě Politica, že evropské vlády zvažují zvláštního zástupce pro
 
 **25. 10. (Rajchl)** — Rajchl Pavlovu kandidaturu na vyjednavače EU označuje za obrat o 180° po 4,5 letech odmítání jednat s Ruskem; viz [petr-pavel.md](petr-pavel.md#pavel-jako-vyjednavač-eu-s-ruskem-bezcharakterní-korouhvička-rajchl-25-10-2026).
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+**6. 11.** — Na divácký dotaz, koho by zvolil za lídra Evropy, Vrabel odpovídá, že nikoho, protože do vedoucích funkcí se dostane jen ten, kdo „absolutně slouží“ globalistům; za ČR by k jednání „poslal sebe“. Za vhodné vyjednavače považuje Štefana Harabina a Andrewa Bridgena. Formálně by EU měli zastupovat Kallasová, Costa a von der Leyenová, ale Costu označuje za „naivního strejdu“ a Kallasovou i von der Leyenovou za nacistky; Evropa podle něj stejně nemá co vyjednávat, protože není pozvaná.
+
+> „Kaja Kalas je absolutní nacistka a co se týče Uršuli von der Leyen, no tak ta je taky.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 
 ### Zelenskyj nabízí 25 % území výměnou za vojska NATO — jednání „stoprocentně neúspěšná“; ukrajinskou armádu v „Evropské kolektivní obraně“ zaplatíme my (Vrabel, 26. 10. 2026)
 
@@ -1279,5 +1283,15 @@ Vrabel odmítá výklad, že Zelenskyj kapituloval. Ochota postoupit 25 % územ�
 > „Tohle to je jediná možná bezpečnostní záruka pro Ukrajinu, že bude vojensky neutrální.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
+
+---
+
+### Trumpova „velká dohoda“: ruská energie pro Evropu přes USA a stažení vojsk od ruských hranic; Abú Zabí bez průlomu, Budanov „motyka“ (Vrabel, 6. 11. 2026)
+
+K Trumpovu oznámení „mimořádně rozsáhlé“ dohody po schůzce s Dmitrijevem Vrabel očekává dvě roviny. První je obchod: Evropa bude kupovat ruskou ropu a plyn přes Spojené státy a Ukrajinu, Ukrajina dostane tranzitní poplatky, USA „výpalné“ a evropští politici si zachovají tvář; podpoří to i demokraté, protože by byli „šílenci“, kdyby nechtěli „podojit“ „hloupou“ Evropu. Druhou rovinou je stažení vojsk z okolí Ruska ve smyslu „návratu NATO do roku 1997“, kterého se bojí Brusel i Ukrajina. Delegace v Abú Zabí podle něj nemají mandát — Budanov je „motyka“, Witkoff a Kushner nevolení „realitní makléři“, Medinskij poradce — takže průlom nebude; skutečně se bude jednat mezi USA, Ruskem a Čínou o sférách vlivu.
+
+> „Takže myslím si, že ta krásná dohoda bude o tom, že se Američani a Rusové dohodnou na tom, že Evropa bude přes Spojené státy nakupovat energie z Ruska a přes Ukrajinu,“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 
 ---

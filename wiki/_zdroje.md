@@ -6008,3 +6008,11 @@
 - **Datum záznamu:** 2026-11-05
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 9 min, zprávy čte Zuzka; Vrabel vysílá z cesty ze Srbska (benzínka), několik výpadků spojení; Zuzka čte Babišovu písemnou odpověď na výzvy ze 3. 10.
+
+## Ladislav Vrabel — Zprávy v devět 6. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-6-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-06_Ladislav-Vrabel_6-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1747103836346566>
+- **Datum záznamu:** 2026-11-06
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 19 min, zprávy čte Zuzka; reaguje na komentáře diváků; na konci videa policejní brutality z Itálie, Francie a Španělska.

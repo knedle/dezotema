@@ -443,7 +443,11 @@ K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vysl�
 
 > „Takhle to s náma dělají, takhle to s náma dělají globalisté.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+**6. 11.** — K polskému zákonu, který umožní dávat osoby na sankční seznamy kvůli „zahraničnímu vměšování a manipulaci s informacemi“ (zmrazení majetku, vyloučení ze zakázek), Vrabel tvrdí, že totalita vzniká postupným omezováním svobod. Když režim někoho nemůže odsoudit za slova, zlikviduje ho finančně (odkazuje na vlastní zkušenost a na Molodovou) nebo obviněním ze sexuálních deliktů. K odsouzení Russella Branda dodává, že ženu, kterou měl znásilnit, popisuje jako „promiskuitní“ fanynku, a trest považuje za „velmi nespravedlivý“; Brand je podle něj „skutečná opozice“.
+
+> „odsoudit teďko neho do vězení na několik let mi připadá velmi nespravdlivý.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 
 ---
 
