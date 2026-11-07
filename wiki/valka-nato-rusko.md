@@ -1606,7 +1606,11 @@ Vrabel tvrdí, že až bude Evropa „na kolenou“ a USA se dohodnou s Čínou 
 
 > „Tak aspoň by se mi líbilo, jak by se protáhli obličeje těm všem nácečkům tady, jak by koukali.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
+**4. 11.** — K varování Frederiksenové („šílená rusofobka“) Vrabel tvrdí, že Rusko celou Evropu dobývat nechce; pokud by Rusové došli až do Bruselu, bylo by to podle něj kvůli „odnacifikování“ Evropy, které se jim ve 2. světové válce nepovedlo. Na summitu USA–Rusko–Čína v Abú Zabí si podle něj velmoci rozdělí sféry vlivu a Evropa se může rozdělit jako za studené války; protiruské vlády včetně „generála Pavla“ by pak podle něj znovu „otočily kabát“.
+
+> „Ale jestli se to stane, že rusové půjdou až někam do Bruselu, tak to bude kvůli tomu, aby odnacifikovali Evropu, protože se jim to nepodařilo kompletně v druhý světový válce a vrátilo se jim to.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 
 ---
 
@@ -1617,5 +1621,15 @@ K bojkotu společné fotografie s Lavrovem na G20 (Sikorski) Vrabel tvrdí, že 
 > „Za mě Sergej Lavrov je nejlepší ministr zahraničních věcí na světě, který existuje. Basta tečka. Je to prostě diplomat každým coulem.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 30. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+
+---
+
+### Cvičení „mírových záruk“ v Polsku a právo opětovat palbu — „nůž u krku“ Ruska; „už ve válce s Ruskem jsme“ (Vrabel, 4. 11. 2026)
+
+Ke cvičení 2 800 vojáků deseti zemí ve východním Polsku a ke zprávě Guardianu, že evropská vojska na Ukrajině by směla opětovat ruskou palbu, Vrabel říká, že se britští a francouzští vojáci pod záminkou „mírových záruk“ už přesouvají k Ukrajině. Rozmisťování tisíců vojáků u ruských hranic přirovnává k noži pomalu přikládanému ke krku, takže ruský odpor považuje za pochopitelný. Kritizuje dvojí metr: když zbrojí Rusové, chtějí napadnout Evropu, když zbrojí Západ (i na Shetlandech), „bráníme se“. Podle něj už ve válce s Ruskem jsme, jen se zatím nestřílí; jediné správné je „žádné odstrašování, žádné cvičení“.
+
+> „Protože jako tady se, je to jako ve tmě dva lidi, oba dva ví, že mají pistoli, oba dva ví, že jsou ve tmě a oba dva předpokládají, že ten druhej se bude bránit. Jak to může dopadnout?“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 
 ---

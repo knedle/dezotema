@@ -155,7 +155,11 @@ Vrabel je přesvědčen, že svět je „pravděpodobně před velkým vojenský
 
 **24. 9.** — S odkazem na „říjnové překvapení", o němž prý otevřeně mluví američtí moderátoři, Vrabel znovu doporučuje připravit se „jako Sikorski" — rýže, kompoty, vodní pumpa, evakuační batůžek.
 
-**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+**4. 11.** — V souvislosti se spekulacemi o americkém jaderném úderu na Írán (cituje Tuckera Carlsona), íránskými hrozbami datovým kabelům v Hormuzu a očekávaným pádem Netanjahua Vrabel znovu radí mít doma zásobu jídla, vody a baterií a počítat s výpadky proudu a internetu („pár pytlíků rýže navíc“). Jako signály uvádí neobjasněné „teroristické útoky“ na mrazicí zařízení asi 6 000 francouzských supermarketů a na úložiště krve, program 90denní soběstačnosti amerických základen a ketaminové tablety pro vojáky. Za útoky podle něj může stát AI, Íránci, antifa i „operace CIA“; dodává, že nechce šířit poplašnou zprávu.
+
+> „Takže podle mě, když se dívám trošičku do hloubky toho, co se dneska děje v té geopolitice, tak mám takový pocit, že tahle zima nebude úplně jednoduchá nebo minimálně zima, jaro nebude jednoduché.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět (2. č.) 8. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-část-8-6-2026), [Vrabel — Facebook Live 9. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-9-2026), [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 
 ---
 

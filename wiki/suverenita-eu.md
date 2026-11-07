@@ -226,7 +226,11 @@ Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 20
 
 > „No tak potom je tady Evropská komise, která tu totalitu potvrdí a to vám řekne, jak to bude.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
+**4. 11.** — K návštěvě Babiše u Tuska ve Varšavě (obnova V4, setkání s Nawrockým) Vrabel tvrdí, že Babiš místo distancování od Tuskova „státního převratu skrze Ústavní soud“ přijel Tuska „jako správný globalista“ podpořit. V4 je podle něj pro vlastence prázdná fráze: Poláci jsou „sfanatizovaní proti Rusku“, Magyar je „absolutní globalista“ a Fico právě ztratil většinu. Babiš podle něj „podvedl celý národ“ a ČR v globalistických strukturách „zapečetí“.
+
+> „Andrej Babiš je naprosto bravurní podvodník. Ten už rok vládne a už rok se tváří jako velký český vlastenec, za tím, co dělá úplný opak a pracuje pro globalisty.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 
 ---
 
@@ -614,7 +618,11 @@ Sjezd německé AfD v Erfurtu doprovázela mimořádná bezpečnostní opatřen�
 
 Na dotaz k AfD Vrabel odkazuje na projev Alice Weidelové, s nímž prý souzní, a osobně se hlásí k jádru programu strany (migrace, boj proti globalismu, obrana proti deindustrializaci Německa) — zmiňuje, že bývalý partner jeho kamarádky patřil mezi tři zakladatele AfD, motivované migrační krizí. Výslovně se distancuje od frakce spojené se sudetoněmeckým Landsmannschaftem a požadavkem na zrušení Benešových dekretů. AfD označuje za „jedinou alternativu" pro Německo navzdory tomu, že je to už velká strana s „různě špinavými hrami" a různou mírou napojení jednotlivých členů na NATO — přeje si, aby na rozdíl od jiných stran po zvolení nezradila voličům slibovanou politiku. Kontrastuje to s SPD: přestože v ní má osobní přátele, označuje ji za absolutně centrálně řízenou stranu, kde si žádný poslanec netroufne jít proti Tomiu Okamurovi — toho samotného nazývá „falešnou kartou".
 
-**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
+**4. 11. (posun)** — K návrhu Alice Weidelové „Nová dohoda pro Evropu“ (nejprve reforma EU, referendum o členství až při jejím neúspěchu) Vrabel říká, že tuto „cestičku ve ztracenu“ zná. Paralelu vidí v návrhu Motoristů a SPD zakotvit korunu v ústavě, který podle něj nechává cestu k euru otevřenou, a v „rádoby vlastencích“, kteří po vstupu do vlády upustili od referenda o vystoupení z EU; vzpomíná, jak v letech 2021/22 přemlouval Rajchla k prosazování vystoupení z EU. Z kontaktů v AfD prý ví, že je strana rozdělená (proatlantické křídlo, Východ vs. Západ) a může se i rozpadnout.
+
+> „Zkusíme reformu Evropské unie a když to nepůjde, tak vyvoláme jednání o referendu o vystoupení z Evropské unie. A tohle je přesně ta cesta, kterou už znám a vím přesně, kam dopadne cestlička ve ztracenu.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Nedělní vysílání 5. 7. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 
 ---
 

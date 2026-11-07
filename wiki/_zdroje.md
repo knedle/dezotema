@@ -5992,3 +5992,11 @@
 - **Datum záznamu:** 2026-11-03
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 8 min, zprávy čte Zuzka; vysíláno v den amerických voleb do Kongresu; krátká videa (dům u Kyjeva); Vrabel se omlouvá, že zprávy dostal až na místě.
+
+## Ladislav Vrabel — Zprávy v devět 4. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-4-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-04_Ladislav-Vrabel_4-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1432046865212191>
+- **Datum záznamu:** 2026-11-04
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 12 min, zprávy čte Zuzka; den po amerických volbách do Kongresu; Vrabel je nemocný, opakovaně radí „pár pytlíků rýže navíc“.

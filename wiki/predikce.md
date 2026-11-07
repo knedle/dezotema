@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — zima a jaro „nebudou jednoduché“, možné výpadky proudu a internetu (4. 11. 2026)
+
+**Předpověď:** Kvůli eskalaci kolem Íránu a sérii útoků na infrastrukturu čeká Evropu těžká zima a jaro; radí zásoby jídla, vody a baterií.
+
+> „…mám takový pocit, že tahle zima nebude úplně jednoduchá nebo minimálně zima, jaro nebude jednoduché.“ — Ladislav Vrabel
+
+**Horizont:** zima a jaro 2026/27
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+
+---
+
+### Ladislav Vrabel — AfD se může kvůli vnitřním rozporům rozpadnout (4. 11. 2026)
+
+**Předpověď:** Po ústupu od požadavku Dexitu a kvůli sporům mezi proatlantickým křídlem a východními zeměmi se AfD může rozpadnout.
+
+> „Dokonce si myslím, že by se klidně mohla i na základě toho někdy rozpadnout.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+
+---
+
+### Ladislav Vrabel — koruna se do ústavy nezakotví (4. 11. 2026)
+
+**Předpověď:** Návrh Motoristů a SPD zakotvit korunu v ústavě neprojde.
+
+> „…ve kterém říkali, že korona má být zakotvená do ústavy, což samozřejmě nebude…“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (volební období 2025–2029)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+
+---
+
 ### Ladislav Vrabel — jednání v Abú Zabí (10.–11. 11.) nepřinese žádný pozitivní výsledek (3. 11. 2026)
 
 **Předpověď:** Americko-rusko-ukrajinská jednání budou jen „předvolební PR“; zazní, jak byla konstruktivní, ale nic z nich nevzejde.
@@ -43,7 +79,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 > „Očekávám, že demokraky by mohly vyhrát s nímovnou reprezentantů, to si myslím, že je docela pravděpodobný.“ — Ladislav Vrabel
 
 **Horizont:** výsledky voleb 3.–4. 11. 2026; impeachment neurčeno
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno (Sněmovna); impeachment 🕐
+**Vyhodnocení:** Podle zpráv čtených 4. 11. demokraté ovládli Sněmovnu reprezentantů i Senát ([Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)); impeachment zatím nenastal.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
 
 ---
@@ -56,6 +93,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** návštěva ve Varšavě 4. 11. 2026
 **Stav:** 🕐 Čeká na vyhodnocení
+**Poznámka:** 4. 11. Vrabel tvrdí, že Babiš ve Varšavě Tuska „jako správný globalista“ podpořil ([Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)); jde o jeho výklad návštěvy.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
 
 ---
@@ -490,6 +528,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** neurčeno (příští slovenské volby)
 **Stav:** 🕐 Čeká na vyhodnocení
+**Poznámka:** 4. 11. Fico podle zpráv ztratil parlamentní většinu (75 ze 150) po přestupu poslance k Tarabovi; Vrabel: „prakticky Robert Fico skončil“ ([Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)). Fico zatím neodstoupil.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 23. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 
 ---

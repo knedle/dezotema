@@ -600,6 +600,16 @@ Vrabel odmítá požadavek diváka zrušit Lipskou burzu, protože problém je p
 
 ---
 
+### Francie si musí půjčit 350 mld. eur — „nejvíc nemocný člen“ bohatého světa, protože v eurozóně nemůže tisknout peníze (Vrabel, 4. 11. 2026)
+
+Vrabel tvrdí, že USA i Japonsko mají vyšší dluh, ale mohou ho vykoupit natištěnými penězi, byť za cenu inflace. Francie s výnosy dluhopisů kolem 5,4 % to v eurozóně bez souhlasu ostatních států nemůže, a je proto „nejvíc nemocným členem“ bohatého světa. Francii řadí mezi hlavní hrozby vedle Íránu a Ukrajiny a radí pořídit si zásoby.
+
+> „Takže Francie dneska je obrovským nebezpečím. Není to jenom Amerika a Irán, není to jenom Ukrajina a Rusko, je to taky Francie a její zadluženost a to, co se tam odehrává.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+
+---
+
 ### Rekordní zisky ropných firem (93 mld. $) — je Trump zachránce USA, nebo nástroj jejich rozkladu? (Vrabel, 21. 8. 2026)
 
 Osm největších ropných producentů (Exxon Mobil, Chevron, Shell aj.) vykázalo ve druhém čtvrtletí dohromady zisk téměř 93 miliard dolarů — zhruba dvojnásobek oproti stejnému období loňského roku, což vyvolalo kritiku politiků i ekologů. Donald Trump zisky označil za příliš vysoké a vyzval firmy ke snížení cen pohonných hmot; v Kongresu se diskutuje o mimořádném zdanění jejich zisku. Vrabel je přesvědčen, že Trump takto jedná záměrně, ale váhá nad motivem — buď jde o předvolební taktiku před podzimními volbami (svalit vinu za drahý benzín na ropné firmy), nebo je to jeden z dílčích kroků širší otázky, zda Trump skutečně chrání ekonomiku USA, nebo naopak — ať vědomě, či jako nástroj „globalistů" — urychluje její rozklad. Spojuje to s krokem amerického ministerstva financí (nákup dvojnásobného objemu dlouhodobých státních dluhopisů, čímž klesly jejich výnosy a prudce oslabil dolar) a rekordním veřejným dluhem USA nad 40 bilionů dolarů — v reakci na oslabení dolaru očekává příchod „správného času" nakupovat kryptoměny, což plánuje potvrdit divákům po víkendu.

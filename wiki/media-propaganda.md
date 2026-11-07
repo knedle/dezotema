@@ -229,7 +229,11 @@ Vrabel tvrdí, že lidé, které nezajímají cizí vojáci ani francouzské jad
 
 > „Tomu opravdu říkám idiocie. Toto se nedá už jinak, to už se jinak nedá nazvat.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026)
+**4. 11.** — K celostátním demonstracím a stávce ČT a ČRo Vrabel tvrdí, že tím vrcholí „přepsání“ demonstrací, které jeho okruh pořádal od roku 2022 proti zatažení ČR do války a za svobodu slova. Postup popisuje ve fázích: rozbít demonstrace, jít po jejich financování, zdiskreditovat svolavatele, převzít je a hlasy převést ke stranám, které udrží ČR v EU a NATO; dnes se „za svobodu slova“ demonstruje ve smyslu placení ČT a ČRo. Strategii označuje za „geniální“ a obává se, že tím je dopředu „přepsaný“ i jeho pochod 17. 11.
+
+> „Musím říct, že náš nepřítel je velmi sofistikovaný, velmi chytrý, má velmi dobré strategie a hlavně má parlament, má vládu, má média, má neziskovky, má moc ve stáke, takže dokáže jakoukoliv věc, za kterou bojujeme, otočit, přeměnit, zlikvidovat, semlít.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 
 ---
 

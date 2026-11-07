@@ -821,6 +821,16 @@ Vrabel představuje daňovou část svého plánu. Drahotu podle něj nezpůsobu
 
 ---
 
+### Demokraté ovládli Kongres — lidé volili „proti Trumpovi“, střídání zla jako „systémová chyba“ (Vrabel, 4. 11. 2026)
+
+Vrabel tvrdí, že porážku republikánů nezpůsobily jen drahota a válka, ale Trump sám: válka na Blízkém východě a omezení Hormuzu, „šílená politika“ cel a skrytá podpora Ukrajiny zbraněmi. Lidé podle něj nevolili lepší demokraty, ale proti Trumpovi; systém je nutí volit „proti zlu, které je trápí aktuálně“, a tím zvolit dřívější zlo. Nová strana se přes peníze, lobby a média k moci nedostane, což podle něj zažil i jeho projekt; ČR se točí stejně (ODS–ČSSD–Babiš–ODS). Řešením je systémová změna — volební program jako smlouva s odvolatelností politika. Očekává pokusy o impeachment a možné vyšetřování Trumpových obchodů s ropou.
+
+> „Ne, tohle je systémová chyba, kdy lidi jsou neustále tlačení do toho, aby volili proti zlu, který je trápí aktuálně a zvolili zlo, které je trápilo před tím a bude je trápit znovu.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
