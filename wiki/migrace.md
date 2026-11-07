@@ -897,3 +897,13 @@ K návrhu starosty Trappes trestat šíření teorie „velké výměny“ Vrabe
 **Zdroje:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 
 ---
+
+### „Žádný migranty na práci“ — 80 tisíc pracovních migrantů při 340 tisících nezaměstnaných; nezaměstnaným snížit dávky (Vrabel, 1. 11. 2026)
+
+K diváckému upozornění, že se na příští rok plánuje 80 tisíc pracovních migrantů, přestože úřady práce evidují přes 340 tisíc nezaměstnaných, Vrabel tvrdí, že dovozem pracovníků „jsme si zničili naši zemi“. Firmy mají podle něj nabídnout víc peněz a nezaměstnaným, kteří práci odmítají, by snížil dávky. Na příkladu Kolína ukazuje, že lidé na Západě už nemají pocit, že je to jejich země, a proto „Západ hoří“. Vládě vyčítá, že problémy „hasí migrantama“ místo plánu soběstačného státu (potraviny bez GMO jako v Srbsku, léky, průmysl); EU podle něj přidává do jídla „prášek z hmyzu“, lidé jsou pak nemocní a odkázaní na západní léky.
+
+> „A v okamžiku, kdy budeme brát migranty na práci, tak jsme si zničili naší zemi.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---

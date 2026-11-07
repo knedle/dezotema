@@ -4,7 +4,7 @@
 
 Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zpravidla s moderátorkou Zuzkou) a sleduje geopolitiku z pohledu euroskeptika a kritika NATO.
 
-**Zpravodajský deník:** úplný chronologický přehled všech probíraných témat (i těch bez samostatného zpracování) — [červenec](../zpravodajstvi-vrabel/2026-07.md), [červen](../zpravodajstvi-vrabel/2026-06.md), [květen](../zpravodajstvi-vrabel/2026-05.md), [duben](../zpravodajstvi-vrabel/2026-04.md).
+**Zpravodajský deník:** úplný chronologický přehled všech probíraných témat (i těch bez samostatného zpracování) — [listopad](../zpravodajstvi-vrabel/2026-11.md), [říjen](../zpravodajstvi-vrabel/2026-10.md), [září](../zpravodajstvi-vrabel/2026-09.md), [srpen](../zpravodajstvi-vrabel/2026-08.md), [červenec](../zpravodajstvi-vrabel/2026-07.md), [červen](../zpravodajstvi-vrabel/2026-06.md), [květen](../zpravodajstvi-vrabel/2026-05.md), [duben](../zpravodajstvi-vrabel/2026-04.md).
 
 ---
 
@@ -1203,6 +1203,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **26. 10.** — Brazílie: volby prodlouženy, „aby vyhrál Lula“, „satanismus“; Rajchlův „hyenismus“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - **27. 10.** — „jsem absolutní levičák“, levice a pravice neexistují, USA „klasičtí opresoři“; politika jako „mafiánský systém“ (Bolsonaro) — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 - **31. 10.** — výměna vlády 17. 11. „nesmysl“, globalisté potřebují rozdělenou společnost; Trikolora, SPD a PRO „odnože ODS“ — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+- **1. 11.** — zrušit všechny daně, jediná 1% daň z bankovních převodů, státní emise peněz na účty lidí; Antifa chce „to, co my chceme taky“ — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1305,6 +1306,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **30. 10.** — zákaz ruských hokejistů „čistý nacismus“, Šťastného trestně stíhat (→ [stoch. teror](../stochasticky-teror.md)); Srbsko „zázrak“, studenti dělají, co chtěl pro ČR — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 - **31. 10.** — Polsko: „ústavní puč“ Tuskovy vlády za pomoci ozbrojené policie jako boj EU o polskou suverenitu — [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
 - **31. 10.** — Polsko: cílem „puče“ je ovládnout ÚS, zfalšovat volby a vyměnit Nawrockého; ČR „už převrácená“ — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+- **1. 11.** — EU „dotace“ = naše vlastní odvody vrácené s podmínkami, „podvod“; Polsko: policie s ostrými náboji, „pravděpodobně“ němečtí policisté; ÚS v ČR 2025 „podržel“ SPD a Stačilo!, „aby jsme tam nešli my“ (→ [predikce](../predikce.md)) — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ### [Ceny energií](../ceny-energie.md) (pokrač. 17)
 - **18. 9.** — EU daň z mimořádných zisků odložena na říjen; AfD jedná s Kremlem o Nord Streamu — [Facebook Live 18. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
@@ -1355,6 +1357,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **21. 10.** — „problém je migrace“, ne ilegální; „mačety“, „to mají od Mohameda“, Oslo „rape city“, Macron na stadionu (→ [stoch. teror](../stochasticky-teror.md)); Ukrajincům nedat občanství — [Zprávy v devět 21. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
 - **24. 10.** — „Evropa bude muslimská“, ČR islámská do 20–30 let (→ [predikce](../predikce.md)); Jugoslávie rozbita kvůli Kalergiho plánu — [Zprávy v devět 24. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 - **31. 10.** — „velká výměna“ potvrzena, Francie do 2050 muslimská, v českých městech za 10 let víc migrantů (→ [predikce](../predikce.md)) — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+- **1. 11.** — „žádný migranty na práci“ (80 tis. vs. 340 tis. nezaměstnaných), snížit dávky; EU „prášek z hmyzu“ — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1392,11 +1395,13 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **27. 10.** — nezaměstnanost z AI se „dělá schválně“, aby lidé šli do armády; nutný nepodmíněný příjem — [Zprávy v devět 27. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 - **28. 10.** — zpochybňuje přistání na Měsíci, kulatou Zemi odkládá „do šedé zóny“ — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 - **31. 10.** — policie mlátí a převléká se za demonstranty = „něco řízeného“, cílem chaos — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+- **1. 11.** — proroctví Padmasambhavy o velké válce 2024–2034, válka „99% jasná“; Blue Beam „hra“ (→ [predikce](../predikce.md)) — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
 - **22. 10.** — papírové zlato zmizí a cena zlata výrazně vzroste — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 - **23. 10.** — útok USA na Írán po izraelských volbách; Rusko zabere celou Ukrajinu; Fico „další na řadě“ k odstranění; nezaměstnanost 90+ — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
+- **1. 11.** — velká válka „99% jistá“; EU a Tusk v Polsku vyhrají; čl. 5 po útoku pod falešnou vlajkou; válka na Ukrajině do jara 2027; „evropské řešení“ energií do 1–2 měsíců — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
@@ -1424,6 +1429,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **22. 10.** — Putin potvrdil, že Rusko nechce válku s NATO; válka NATO–Rusko = jaderná, scénář Pobaltí → Polsko → dvě české brigády (→ [predikce](../predikce.md)) — [Zprávy v devět 22. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
 - **26. 10.** — ČR může spadnout do ruské sféry vlivu, „protáhly by se obličeje nácečkům“ — [Zprávy v devět 26. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026)
 - **30. 10.** — Lavrov „nejlepší ministr zahraničních věcí na světě“, většina světa na straně Ruska, rozsudek ESLP bezcenný — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
+- **1. 11.** — útok Ruska nebo „pod falešnou vlajkou“ → čl. 5 a válečný stav, velet bude Pavel, první povolají ročníky se základní službou (→ [predikce](../predikce.md)) — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ### [Volby 2026](../volby-2026.md)
 - **10. 10.** — šok z výsledků („vyhrály STAN a ODS“), Kuba „pravá ruka kmotra Dlouhého“, Budějovice „čistá mafie“ → [volby-2026.md](../volby-2026.md) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
@@ -2175,6 +2181,18 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Petr Hájek | ❌ negativní | „Propagandista“, „politruk“ | 2026-10-31 | [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
 | Grzegorz Braun | ✅ pozitivní | Vede demonstraci před polským ÚS | 2026-10-31 | [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
 | Jarosław Kaczyński | ⚖️ rozporuplný | Mluví o vystoupení z EU, ale jsou to „jen prohlášení“ | 2026-10-31 | [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026) |
+| Miroslav Sládek | ✅ pozitivní | „Fenomén“, porazil Ovčáčka v páce; hájí jeho výrok o Romech | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Jiří Ovčáček | ✅ pozitivní | „Sympaťák“ | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Aleksandar Vučić | ✅ pozitivní | Srbsko vedl „velmi dobře“ | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Andrej Babiš | ❌ negativní | „Podvodník z Bratislavy“, „úplně se zařadil pod generála Pavla“, čeká na „evropské řešení“ energií | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Petr Pavel | ❌ negativní | „Generál NATO“, ve válce bude velet on | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Petr Macinka | ❌ negativní | „Sám ze svojí aktivity“ poslal 140 mil. do PURL | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Donald Tusk | ❌ negativní | „Probruselská loutka“, „válečný štváč“, policie s ostrými náboji | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Radosław Sikorski | ❌ negativní | Jeden z „největších válečných štváčů v Evropě“ | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Karol Nawrocki | ✅ pozitivní | „Hájí národní zájmy Polska“ | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Mikuláš Minář | ❌ negativní | Jeho demonstrace mají jen „štvát společnost“ | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Padmasambhava (Guru Rinpočhe) | ✅ pozitivní | Mistr, který „vidí budoucnost“, zdroj proroctví o velké válce | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
+| Donald Trump | ✅ pozitivní | Souhlasně cituje, že sankce proti Rusku jsou „hloupé“ | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026) |
 
 ---
 
@@ -2372,3 +2390,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Ústavní puč v Polsku 31. 10. 2026](../_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026)
 - [Rozhovor s R. Fritzem 31. 10. 2026](../_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026)
 - [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+- [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)

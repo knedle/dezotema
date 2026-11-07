@@ -1036,6 +1036,16 @@ S odkazem na scénu ze seriálu Fargo a na Stanleyho Kubricka Vrabel naznačuje,
 
 ---
 
+### Tisíc let stará proroctví Padmasambhavy o velké válce 2024–2034 — „99% jasný, že velká válka bude“; Blue Beam jen „hra“ k odvedení pozornosti (Vrabel, 1. 11. 2026)
+
+Vrabel tvrdí, že získal asi čtyři buddhistické „termy“ Gurua Rinpočheho (Padmasambhavy), staré zhruba tisíc let, které popisují období 2024–2034 a mluví o velké válce; mistr podle něj neřekl všechno, protože by to lidé „psychicky neunesli“. Buddhismus podle něj není náboženství, ale stav mysli, ve kterém mistr vidí minulost i budoucnost. Na tomto základě považuje velkou válku za „99% jasnou“ a vyzývá diváky zajistit si útočiště a počítat s jadernými zbraněmi a nedostatkem jídla. K diváckému dotazu na operaci Blue Beam (údajně 2027, projekce mimozemských lodí vyvolávající paniku) uvádí, že o ní slyšel od americké lékařky z okolí Trumpovy kampaně, sám ji nestudoval a považuje ji za „hry“ k odvedení pozornosti.
+
+> „Takže co mě se týče, tak si myslím, že je 99% jasný, že velká válka bude.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---
+
 ### Drobná pozorování: Mengele žil ve Švýcarsku, hrníčky s Hitlerem v Praze (Vrabel, 13. 9. 2026)
 
 Vrabel zmiňuje dvě krátká, nerozvedená pozorování jako doklad neúplné/selektivní denacifikace a bagatelizace nacistické minulosti: podle „včerejší" zprávy měl nacistický lékař Josef Mengele žít po válce ve Švýcarsku; v Praze se navíc běžně prodávají hrníčky s portrétem Adolfa Hitlera jako suvenýr pro turisty.

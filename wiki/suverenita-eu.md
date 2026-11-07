@@ -218,7 +218,21 @@ Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 20
 
 > „U nás už není potřeba převracet žádnou politickou sílu. U nás je politická síla už převrácená.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+**1. 11.** — Vrabel doplňuje, že Tusk nechal do Varšavy přijet policii z celého Polska, ozbrojenou i „automatickými zbraněmi s ostrými náboji“, a že policie protiprávně nepustila předsedu ÚS do budovy. Z videa německých policejních aut mířících k Varšavě a z Braunova upozornění na policisty bez čísel usuzuje, že tam „pravděpodobně“ zasahují němečtí policisté. Ústavní soud je podle něj „velmi silný mocenský nástroj“ ve volbách: v ČR v roce 2025 podle něj nerespektoval volební zákon a ponechal ve volbách SPD a Stačilo!, aby se do Sněmovny nedostalo jeho hnutí — 31. 10. přitom tomuto rozhodnutí přiznával „nějakou logiku“. Obává se, že EU a Tusk vyhrají, a nevylučuje střet „armáda proti policii“.
+
+> „A proto musel ústavní soud podržet SPD a i stačilo, aby šlo SPD pro Trikolora a Svobodný do parlamentu, aby jsme tam nešli my.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---
+
+### EU „dotace“ jsou naše vlastní peníze vrácené s podmínkami — „podvod“; i na drahé energie Babiš čeká „evropské řešení“ (Vrabel, 1. 11. 2026)
+
+Vrabel tvrdí, že peníze, které EU poskytuje ČR jako dotace, nejsou penězi EU, ale české odvody do unijního rozpočtu, které se vracejí s podmínkou, na co se smějí použít, a s hrozbou, že se budou vracet „i s pokutou“. Označuje to za „podvod“ a doklad, že ČR nemá suverenitu. Paralelu vidí ve vlastním odsouzení za „dotační podvod“, které podle něj bylo odškodněním firem nezákonně zavřených za covidu. Stejně podle něj dopadnou drahé energie: místo zastropování cen a kompenzací firmám premiér čeká na „evropské řešení“ — stát pošle peníze do EU a ta část vrátí, což čeká za měsíc až dva. Velkou daňovou reformu podle něj nelze provést kvůli Lisabonské smlouvě, předpokladem je proto samostatnost.
+
+> „…a říkají tomu dotace, no tak to je podvod. A takhle funguje Evropská unie.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ---
 

@@ -12,6 +12,67 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — velká válka v letech 2024–2034 je „99% jistá“ (podle proroctví Padmasambhavy) (1. 11. 2026)
+
+**Předpověď:** Na základě buddhistických proroctví Padmasambhavy považuje velkou válku za téměř jistou; počítá s jadernými zbraněmi a nedostatkem jídla.
+
+> „Takže co mě se týče, tak si myslím, že je 99% jasný, že velká válka bude.“ — Ladislav Vrabel
+
+**Horizont:** do roku 2034
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---
+
+### Ladislav Vrabel — v Polsku vyhrají EU a Tusk, hrozí střet „armáda proti policii“ (1. 11. 2026)
+
+**Předpověď:** Ve sporu o polský Ústavní soud bude tlak Bruselu silnější než polský národní odpor; může dojít i ke střetu armády s policií.
+
+> „Obávám se, že Evropská unia Tusk vyhrajou, že jsou silnější.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---
+
+### Ladislav Vrabel — ruský útok nebo útok „pod falešnou vlajkou“ → článek 5, válečný stav, velení převezme Pavel (1. 11. 2026)
+
+**Předpověď:** Po útoku (ruském nebo pod falešnou vlajkou) bude vyhlášen článek 5 a válečný stav, uzavřou se hranice a velení převezme prezident Pavel; jako první budou povoláni starší záložníci se základní vojenskou službou.
+
+> „což předpokládám, že je dost pravděpodobný, že Rusko zautočí nebo bude útok pod falešnou vlajkou, jakože Rusko zautočilo.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---
+
+### Ladislav Vrabel — válka na Ukrajině potrvá minimálně do jara 2027, dokud ji Rusové nedobydou (1. 11. 2026)
+
+**Předpověď:** S odkazem na Rubia tvrdí, že Rusko neuzavře mír do jara a válka bude pokračovat až do ruského dobytí Ukrajiny.
+
+> „To znamená, podle tohoto toho, to vypadá, že minimálně dojára, než dobydou Rusové Ukrajinu, bude válka na Ukrajině pokračovat.“ — Ladislav Vrabel
+
+**Horizont:** jaro 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+⚡ **Konflikt:** 30. 10. naopak uvedl, že Rusko celou Ukrajinu nejspíš nevezme.
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---
+
+### Ladislav Vrabel — na drahé energie přijde jen „evropské řešení“ do 1–2 měsíců (1. 11. 2026)
+
+**Předpověď:** Místo zastropování cen pošle stát peníze do EU a ta část vrátí na „sanaci energií“.
+
+> „A stát pošle peníze do Evropské unie, aby případně Evropská unie poslala nějaký peníze zpátky, jakože bude sanovat energie. To nás čeká za předpokládám měsíc nebo dva měsíce.“ — Ladislav Vrabel
+
+**Horizont:** prosinec 2026 – leden 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
+
+---
+
 ### Ladislav Vrabel — Francie bude do roku 2050 „stoprocentně muslimskou zemí“ (31. 10. 2026)
 
 **Předpověď:** Migrací a vyšší porodností migrantů se Francie do roku 2050 stane muslimskou zemí.

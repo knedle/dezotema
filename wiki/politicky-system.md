@@ -761,7 +761,11 @@ Vrabel poprvé předpovídá, že se na Západě „velmi brzo“ začnou objevo
 
 > „Uvidíte prostě velmi brzo začnou vlát rudý vlajky všude, po Evropě, na západě a začnou se objevovat myšlenky socialismu. Je to poprvé, kdy vám to říkám.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
+**1. 11.** — Velkou část protestů v Itálii, Španělsku, Francii a Německu podle Vrabela koordinuje Antifa, která po Evropě „rozjíždí socialistickou revoluci“. S jejím cílem výslovně souhlasí: vzít elitám peníze a rozdat je chudým, protože 1 % lidí ovládá 99 % majetku. Vedle Antify podle něj protestují Němci proti migrantům, studenti hlavně proti válce (což média podle něj zamlčují) a propalestinské skupiny.
+
+> „Chtějí udělat to, co my chceme taky. Vzít těm bohatým, těm elitám, ty jejich peníze a rozdar je chudým.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ---
 
@@ -796,6 +800,16 @@ Vrabel odmítá spekulace diváků, že se 17. 11. chystá výměna vlády. Babi
 > „To, co je potřeba pro globalisty, je udržet v napětí společnost, poštvanou proti sobě, aby se lidi nemohli sjednotit proti válce nebo proti tomu, že máme draho.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+
+---
+
+### Plán „ČR na prvním místě“: zrušit všechny daně, jediná 1% daň z bankovních převodů, peníze emitovat lidem na účty — v EU nemožné (Vrabel, 1. 11. 2026)
+
+Vrabel představuje daňovou část svého plánu. Drahotu podle něj nezpůsobuje nedostatek bohatství, ale přerozdělování ve prospěch několika bohatých přes daňový systém, který je „schválně“ nepřehledný, „aby se tam mohlo krást“; korporace podle něj odčerpávají zisky „daňovou optimalizací“ (Facebook daní v Irsku). Navrhuje zrušit všechny daně a zavést jedinou — 1 % z převodů přes bankovní účty; firmy by platily vše přes účet, lidé by měli „právo na hotovost“ a z hotovosti by neplatili nic. Peníze by podle něj místo bank vytvářel stát a jednou či dvakrát ročně je emitoval přímo na účty lidí. Myšlenku připisuje nobelistovi z ekonomie (1973) a dánskému příteli, bývalému bankéři z londýnské City. Provedení podle něj brání smlouvy EU, předpokladem je tedy vystoupení z EU.
+
+> „A to, co bych chtěl udělat, je zrušit ten špatný daňový systém a zrušit všechny daňe. A udělat jenom jednu daň.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ---
 

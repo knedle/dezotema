@@ -5968,3 +5968,11 @@
 - **Datum záznamu:** 2026-10-31
 - **Zpracováno:** ano
 - **Poznámka:** 59 min, zprávy čte Zuzka; krátké ukázky rozhovoru s Fritzem a videa s Braunem; Vrabel v úvodu omylem uvádí datum 30. 10.
+
+## Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026 {#ladislav-vrabel--nedělní-vysílání-1-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-01_Ladislav-Vrabel_Pravidelné-nedělní-živé-vysílání-ve-21h.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1674930951084360>
+- **Datum záznamu:** 2026-11-01
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 44 min, mluví jen Vrabel (bez hosta a moderátorky), čte dotazy diváků z komentářů; první polovina výklad plánu „ČR na prvním místě“, konec logistika pochodu 17. 11.; krátká němá videa z protestů.

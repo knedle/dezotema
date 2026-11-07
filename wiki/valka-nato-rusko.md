@@ -229,7 +229,11 @@ Rozvádí vlastní scénář: konflikt začne v Kaliningradské oblasti nebo v P
 
 ⚡ **Poznámka:** Navazuje na scénáře z 27. 9., 29. 9. a 6. 10. (začátek v Pobaltí, dvě brigády, vleklá válka); novým prvkem je rozlišení „válka s NATO = jaderná, válka s Evropou = nemusí“ a opření o Putinův výrok.
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026)
+**1. 11.** — Vrabel považuje za „dost pravděpodobné“, že Rusko zaútočí nebo že dojde k útoku „pod falešnou vlajkou“ připsanému Rusku; měsíce zpráv o ruských dronech, kyberútocích a sabotážích bez důkazů podle něj sloužily k tomu, aby si na to lidé zvykli. Následovat má článek 5, válečný stav (ne výjimečný), uzavření hranic a vyslání dvou brigád. Velení armády podle něj převezme prezident Pavel jako „generál NATO“, ne Babiš; jako první budou povoláni záložníci ročníků, které prošly základní vojenskou službou, teprve pak mladší. Nikdo to podle něj nebrzdí — Babiš, Macinka (140 mil. do PURL) ani Zůna.
+
+> „což předpokládám, že je dost pravděpodobný, že Rusko zautočí nebo bude útok pod falešnou vlajkou, jakože Rusko zautočilo.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 22. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ---
 
