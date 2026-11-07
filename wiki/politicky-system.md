@@ -439,7 +439,11 @@ K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vysl�
 
 > „Bohužel to, to, čím procházíme, je boj elit proti lidem.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
+**5. 11.** — K verdiktu britského soudu, který uznal Russella Branda vinným ze znásilnění a tří sexuálních útoků z roku 1999, Vrabel uvádí, že Brand byl jeho hlavním vzorem pro veřejné vystupování — od něj se prý naučil formulovat názory tak, aby ho nebylo možné odsoudit. Obvinění zpochybňuje (sex byl podle něj dobrovolný a stalo se to před 27 lety) a Británii popisuje jako zemi, která „potlačuje“ heterosexuální sexualitu. Případ srovnává s Assangem a řadí ho do vzorce likvidace kritiků globalismu („brutální režim“).
+
+> „Takhle to s náma dělají, takhle to s náma dělají globalisté.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 
 ---
 

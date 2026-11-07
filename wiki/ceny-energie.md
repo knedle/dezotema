@@ -610,6 +610,16 @@ Vrabel tvrdí, že USA i Japonsko mají vyšší dluh, ale mohou ho vykoupit nat
 
 ---
 
+### Poplatek za podzemní vodu 3,5× dráž — „další okrádání lidí“; sucho kvůli ovlivňování počasí, řešením přehrady (Vrabel, 5. 11. 2026)
+
+Návrh koaliční poslankyně zvýšit poplatek za odběr podzemní vody ze 2 na 7 Kč/m³ považuje Vrabel za „další okrádání lidí“; vodu podle něj prodávají zahraniční korporace (Veolia v Praze). Odmítá, že by dražší voda chránila spodní vody: za sucho podle něj mohou umělé ovlivňování počasí, betonové plochy, větrníky a solární elektrárny, řešením jsou vodní díla a rybníky, které se od roku 1989 nestaví. Spor o připomínkové řízení vidí jako odvádění pozornosti, stejně jako „boj za svobodu slova“ kolem poplatků ČT.
+
+> „Spodní voda, aby bylo dostatek spodní vody, tak je zapotřebí nejdřív, v první řadě, zrušit ovlivňování počasí skrze člověka.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+
+---
+
 ### Rekordní zisky ropných firem (93 mld. $) — je Trump zachránce USA, nebo nástroj jejich rozkladu? (Vrabel, 21. 8. 2026)
 
 Osm největších ropných producentů (Exxon Mobil, Chevron, Shell aj.) vykázalo ve druhém čtvrtletí dohromady zisk téměř 93 miliard dolarů — zhruba dvojnásobek oproti stejnému období loňského roku, což vyvolalo kritiku politiků i ekologů. Donald Trump zisky označil za příliš vysoké a vyzval firmy ke snížení cen pohonných hmot; v Kongresu se diskutuje o mimořádném zdanění jejich zisku. Vrabel je přesvědčen, že Trump takto jedná záměrně, ale váhá nad motivem — buď jde o předvolební taktiku před podzimními volbami (svalit vinu za drahý benzín na ropné firmy), nebo je to jeden z dílčích kroků širší otázky, zda Trump skutečně chrání ekonomiku USA, nebo naopak — ať vědomě, či jako nástroj „globalistů" — urychluje její rozklad. Spojuje to s krokem amerického ministerstva financí (nákup dvojnásobného objemu dlouhodobých státních dluhopisů, čímž klesly jejich výnosy a prudce oslabil dolar) a rekordním veřejným dluhem USA nad 40 bilionů dolarů — v reakci na oslabení dolaru očekává příchod „správného času" nakupovat kryptoměny, což plánuje potvrdit divákům po víkendu.

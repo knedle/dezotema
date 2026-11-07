@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — prokazování totožnosti na internetu bude „velmi brzo“ povinné (5. 11. 2026)
+
+**Předpověď:** Na základě DSA bude každý uživatel internetu a sociálních sítí muset prokazovat totožnost; anonymní účty skončí.
+
+> „každý, kdo se bude připojovat k sociálním sítím nebo k internetu, tak bude muset prokazovat svoji totožnost. A to bude velmi brzo vyžadováno“ — Ladislav Vrabel
+
+**Horizont:** „velmi brzo“ (neurčeno)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+
+---
+
+### Ladislav Vrabel — Ficova vláda padne po vyslovení nedůvěry, na Slovensku bude krize (5. 11. 2026)
+
+**Předpověď:** Fico po ztrátě parlamentní většiny čelí pokusu o vyslovení nedůvěry, jeho vláda padne a Slovensko čeká politická krize.
+
+> „Asi bych chtěl dovládnout, ale očekávám, kdy to přijde, ta snaha o vyvolání nedůvěry v jeho vládě, kdy padne na Slovensku vláda a bude tam nějaká krize.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (blízká budoucnost)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+
+---
+
 ### Ladislav Vrabel — zima a jaro „nebudou jednoduché“, možné výpadky proudu a internetu (4. 11. 2026)
 
 **Předpověď:** Kvůli eskalaci kolem Íránu a sérii útoků na infrastrukturu čeká Evropu těžká zima a jaro; radí zásoby jídla, vody a baterií.

@@ -525,7 +525,11 @@ Vrabel popisuje brutalitu ukrajinské mobilizace (jednotky TCK): syn v Mykolajiv
 
 > „Takže prostě tady jsou první důkazy o tom, jakým způsobem mučí vojáci, ten ukrajinský režim, lidi na Ukrajině, svoje vlastní.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
+**5. 11.** — Zprávu médií, že příběh o „Zelenského mučírně“ u Kyjeva je smyšlený a šíří ho proruské skupiny, Vrabel odmítá: ukrajinské úřady podle něj samy potvrdily náborové centrum Azovu se zadržovanými dezertéry. Majitelka kliniky Valerija Molodova, která odtud se svými lidmi vyvedla zraněné, dostala vazbu; do vězení podle něj půjdou všichni, kdo pomáhali, a čeští politici mlčí. Sám by prý podobné vysvobození organizoval; konflikt podle něj „platíme“ a může se rozšířit do ČR.
+
+> „Tohle z toho už je opravdu boj těch struktur proti lidem na život a na smrt, dokonce i s mučením.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 12. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-6-2026), [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 
 ---
 

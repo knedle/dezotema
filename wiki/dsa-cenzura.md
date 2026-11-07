@@ -58,6 +58,16 @@ Evropská komise udělila síti X (Twitter) pokutu 120 milionů eur oficiálně 
 
 ---
 
+### Sněmovna schválila zákon k DSA (142 ze 146) — „protektorát řízený z Bruselu“, brzy povinná totožnost na internetu (Vrabel, 5. 11. 2026)
+
+Ke schválení zákona o digitální ekonomice Vrabel vysvětluje, že nařízení DSA platí bez ohledu na český zákon, a parlament proto podle něj má jen „velmi malou funkci“. Předpovídá, že kdo se připojí k internetu nebo sociálním sítím, bude „velmi brzo“ muset prokazovat totožnost — žádné anonymní účty, vše „sledované, zaznamenané, vyhodnocované“. AI má podle něj z dat vytvářet psychologické profily, predikovat chování a „podsouvat“ obsah; situaci přirovnává ke Stalinovi.
+
+> „A to je to, co vám říkám, že jsme protektorát, který je řízený z Bruselu a ten náš parlament má prakticky velmi malou funkci.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+
+---
+
 ## Blokování na sociálních sítích
 
 ### Facebook jako soukromá firma nad ústavou

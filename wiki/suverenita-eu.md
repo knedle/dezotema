@@ -178,7 +178,11 @@ Ke summitu Evropské rady Vrabel uvádí, že Babiš sice některé věci označ
 
 **21. 10.** — K blokádám v Srbsku před nedělními volbami Vrabel z Bělehradu popisuje billboard studentského hnutí „volte vítězství“ přepsaný na „volte zradu“ a ptá se, kde studenti vzali peníze na tak velkou kampaň: „pravděpodobně z nějakých zahraničních fondů, z nějaké Evropské unie“, od někoho, „kdo chce dostat Srbsko pod Evropskou unii“. „Globalistické struktury“ podle něj investují „desítky miliard“ proti Vučićovi, aby vyprovokovaly „barevnou revoluci jako na Ukrajině“. Vučić slibuje pokračovat v politice bez sankcí proti Rusku, s vojenskou neutralitou a suverenitou, tedy „to všechno, co bychom se my měli učit od Srbska“; Vrabel doufá v jeho vítězství. Referendum o vstupu do EU, které studenti slibují, by podle něj neprošlo a uznat nezávislost Kosova by si nikdo netroufl, protože by se „musel bát, aby ho nepověsili“.
 
-**Zdroje:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026), [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026), [Ladislav Vrabel — Nedělní vysílání 18. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026), [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026), [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026)
+**5. 11. (posun)** — K deklaraci o spolupráci, kterou Fico podepsal s ukrajinským premiérem ve Lvově, Vrabel mění tón: Fico podle něj „nikdy nebyl Štefan Harabin“, tedy nikdy nebyl jednoznačně pro suverenitu Slovenska a proti válce. Po ztrátě parlamentní většiny prý „plave“ a snaží se „doplavat ke břehu bez úhony“; Vrabel čeká pokus o vyslovení nedůvěry, pád vlády a krizi.
+
+> „Co se týče Roberta Fica, tak Robert Fico nikdy nebyl Štefan Harabín, že by byl absolutně řekněme pro suverenitu Slovenska, že by nebyl pro válku na Ukrajině.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 15. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-10-2026), [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026), [Ladislav Vrabel — Nedělní vysílání 18. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-18-10-2026), [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026), [Ladislav Vrabel — Zprávy v devět 21. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-21-10-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 
 ---
 
@@ -230,7 +234,11 @@ Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 20
 
 > „Andrej Babiš je naprosto bravurní podvodník. Ten už rok vládne a už rok se tváří jako velký český vlastenec, za tím, co dělá úplný opak a pracuje pro globalisty.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+**5. 11.** — K vojákům a vozidlům Bundeswehru ve Varšavě (podle velvyslanectví kvůli oslavě výročí) Vrabel sarkasticky naznačuje, že přijeli pomoci Tuskovi s „pučem“ u Ústavního soudu a že neoznačení policisté u soudu mohli být právě od nich. Bundeswehr přirovnává k Wehrmachtu se „stejným velením“ a „stejnými znaky“.
+
+> „A mysleli jsme si, že když jsou tam ty vojáci nebo ty policisté, kteří jsou neoznačeni u té budovy ústavního soudu, kteří nemají čísla a neodpovídají na otázky, že jsou to ty policisté z toho Bundeswehru, jak my jsme hloupí.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Snaha o ústavní puč v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--snaha-o-ústavní-puč-v-polsku-31-10-2026), [Ladislav Vrabel — Rozhovor s Romanem Fritzem o ústavní krizi v Polsku (31. 10. 2026)](_zdroje.md#ladislav-vrabel--rozhovor-roman-fritz-31-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026), [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 
 ---
 

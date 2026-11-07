@@ -1020,7 +1020,11 @@ Vrabel tvrdí, že protesty od Albánie po Irsko, které vznikly během dvou tý
 
 > „Tak mám takový pocit, že to je něco řízeného. A když vidím, že to je něco řízeného, tak je mi jasný, že cílem není to, aby byly demonstrace, ale cílem je to, aby byl chaos.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+**5. 11.** — K protestům ve Francii (1,6 mil. lidí) Vrabel opakuje, že násilí ze strany státních aparátů „musí být řízená věc“; jako možné cíle uvádí výjimečný stav nebo stanné právo a odvedení pozornosti od eskalace s Ruskem. Nově tvrdí, že i v ČR „pravděpodobně CIA a MI6“ rozehrávají protesty zaměstnanců ČT a ČRo, které média vydávají za boj za svobodu slova. Celé dění je podle něj „stejně řízené jako covid“.
+
+> „A v České republice se taky za pomoci pravděpodobně CIA a MI6 a slože, které jsou napojené na tyhle si tajné služby, rozehrávají nějaké zvláštní protesty.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 26. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-10-2026), [Ladislav Vrabel — Facebook Live (26. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-26-10-2026), [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 
 ---
 

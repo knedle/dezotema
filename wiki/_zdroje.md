@@ -6000,3 +6000,11 @@
 - **Datum záznamu:** 2026-11-04
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 12 min, zprávy čte Zuzka; den po amerických volbách do Kongresu; Vrabel je nemocný, opakovaně radí „pár pytlíků rýže navíc“.
+
+## Ladislav Vrabel — Večerní zprávy 5. 11. 2026 {#ladislav-vrabel--večerní-zprávy-5-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-05_Ladislav-Vrabel_5-11-2026-Večerní-zprávy-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1933067977665286>
+- **Datum záznamu:** 2026-11-05
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 9 min, zprávy čte Zuzka; Vrabel vysílá z cesty ze Srbska (benzínka), několik výpadků spojení; Zuzka čte Babišovu písemnou odpověď na výzvy ze 3. 10.

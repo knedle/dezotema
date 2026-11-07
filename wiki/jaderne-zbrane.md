@@ -204,6 +204,16 @@ Podrobně vysvětluje mechaniku tzv. jaderného deštníku, o který usiluje And
 
 ---
 
+### Babiš odpověděl na výzvy ze 3. 10.: vláda jaderné zbraně „neplánuje“ — „buď obrovská výhra naše, nebo nedorozumění“ (Vrabel, 5. 11. 2026)
+
+Babiš písemně odpověděl na tři výzvy ze shromáždění z 3. 10.: vláda podle dopisu neplánuje pořízení ani rozmístění jaderných zbraní a podporuje jaderné odzbrojení. Vrabel to staví proti dřívějším výrokům Babiše a Pavla o připojení k Macronově jaderné iniciativě; odpověď čte buď jako úspěch tlaku svého hnutí, nebo jako nedorozumění, a chce po Babišovi schůzku k vyjasnění. Zbylé dvě výzvy podle něj Babiš odmítl: dodávky zbraní na Ukrajinu pokračují a zmocněnce pro jednání o míru vláda nepotřebuje („vytřel si s námi“).
+
+> „Možná, že ten náš tlak přišel ve správnou chvíli.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
+
+---
+
 ### Sikorski: NATO by mělo vzdušnou převahu a mohlo Rusko „poměrně rychle porazit" — Vrabel varuje před jadernou eskalací (14. 9. 2026)
 
 Polský ministr zahraničí Radosław Sikorski na bezpečnostní konferenci v Kyjevě prohlásil, že Polsko a další státy NATO by v případě přímého konfliktu s Ruskem měly výraznou vzdušnou převahu a mohly by Moskvu porazit „poměrně rychle" — jako doklad uvedl, že pokud Ukrajina za půl roku vyřadila polovinu ruských rafinerií, NATO by tu druhou polovinu zvládlo zničit „za šest týdnů". Vrabel argument opravuje (ruské rafinerie vyřazovalo celé NATO, ne samotná Ukrajina) a varuje, že takové výroky přesně odpovídají tomu, co „říká už čtyři roky": Západ soustavně přesouvá letadla schopná nést jaderné hlavice do okolí Ruska pro případný hromadný nálet. V této souvislosti odhaduje, že Českou republiku (podpis buď Babišem, nebo Pavlem) čeká zapojení do francouzské jaderné aliance — letouny Rafale s raketami ASMP by měly operovat z českého území místo francouzského, protože Francie se nechce vystavit riziku ruské odvety na vlastní půdě. Připomíná vyjádření Sergeje Lavrova, že případný přímý střet NATO–Rusko by byl „velmi rychlou válkou" — což si vykládá jako varování před rychlým použitím mimořádně ničivých zbraní.
