@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — kolem amerických voleb 3. 11. „to má bouchnout“, demokraté zkusí volby ukrást (27. 10. 2026)
+
+**Předpověď:** Kolem amerických voleb 3. 11. 2026 se „má bouchnout“ — demokraté se podle něj znovu pokusí volby ukrást přes Smartmatic a Dominion.
+
+> „Myslím si, že někde okolo těch voleb to má bouchnout.“ — Pavel Zítko
+
+**Horizont:** kolem 3. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+
+---
+
 ### Pavel Zítko — „nepravý“ Čermák na setkání v Holýšově nepřijde (24. 10. 2026)
 
 **Předpověď:** Pokud muž propuštěný 24. 9. není skutečný Tomáš Čermák, na setkání v Holýšově 30. 10. – 1. 11. nepřijde; účast bude „podstatně vyšší“ než 70 lidí v Liberci. Zároveň slibuje „velké odhalení“ dvojníků Pavla, Zemana a Babiše.
@@ -20,7 +32,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** 30. 10. – 1. 11. 2026 (odhalení dvojníků neurčeno)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
+**27. 10.** — „Pokud nepřijde, tak je hra ukončena… přestává hra na Čermáka fungovat.“
+**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 
 ---
 
@@ -1326,7 +1339,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **5. 10.** — Zítko opakuje: mírová smlouva po válce na Ukrajině stanoví i nové hranice států a uzavřou ji vítězné mocnosti (Trump, Putin, Si, Módí).
 **23. 10.** — Zítko dodává, že díky „československým“ dětem Trumpa bude obnova ČSR v dohodě vítězných mocností s Putinem „už jen formalitou“.
 **25. 10.** — Putin se podle Zítka „na 99,9 %“ vyjádřil, že Československo bude obnoveno; Gates, Bourla a Rutte se budou „zodpovídat ze zločinů proti lidskosti“ v Nizozemsku.
-**Zdroj:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
+**27. 10.** — O budoucích hranicích podle Zítka rozhodnou Trump, Putin a Si Ťin-pching; ČSR „od Aše“ po Zakarpatí.
+**Zdroj:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 
 ---
 

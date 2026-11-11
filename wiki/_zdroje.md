@@ -6136,3 +6136,11 @@
 - **Datum záznamu:** 2026-10-24 (soubor datován 26. 10.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 52 min, třetí díl „večerníčkové trilogie“ (pohádka o chytré kmotře lišce — nezpracováno); část čte text Boba Acera; zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026) {#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-27_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1547691530711702&_rdr>
+- **Datum záznamu:** 2026-10-27
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 57 min, vysílání 11:11 („Proč nejsi větší?“, FOX = 666); komentované úryvky Čermáka z TV Šalingrad; zpracováno podle shrnutí pomocného agenta.

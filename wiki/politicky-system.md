@@ -1743,3 +1743,13 @@ Na divácký dotaz, zda by se opoziční politici neměli spojit, Vrabel odpoví
 **Zdroje:** [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 
 ---
+
+### Bulharsko jako vzor: neposlouchat „korporátní předpisy“ a připravit generální stávku místo víkendových demonstrací (Zítko, 27. 10. 2026) {#generalni-stavka-zitko-27-10-2026}
+
+Zítko doporučuje postup podle Bulharska: prvním krokem má být přestat respektovat „korporátní předpisy“ a teprve potom vyjít do ulic. Víkendové demonstrace na náměstích považuje za „totálně neúčinné“; cílem má být generální stávka a „paralyzování moci“. Zároveň očekává, že kolem amerických voleb 3. 11. „to má bouchnout“, protože se demokraté znovu pokusí volby ukrást přes Smartmatic a Dominion (viz [predikce](predikce.md)).
+
+> „To je ta správná taktika, která by měla vyústit v generální stávku a v paralyzování moci.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+
+---

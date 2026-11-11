@@ -1323,3 +1323,15 @@ Zítko cituje výrok amerického fotbalisty Aarona Rodgerse, který covidová op
 > „Cílem nebylo veřejné zdraví. Cílem bylo změřit, jak rychle se lidé vzdají svého úsudku, své práce, vzdělání svých dětí a svého práva říci ne." — Aaron Rodgers (citováno Zítkem), [Videoportál 15. 9. 2026](_zdroje.md#československo-tv2--videoportál-15-9-2026)
 
 **Zdroje:** [Československo TV2 — Videoportál 15. 9. 2026](_zdroje.md#československo-tv2--videoportál-15-9-2026)
+
+---
+
+### Vakcíny „jen pro Babišovu vládu“, Rothschildův patent na covid a placebo pro politiky (Zítko, 27. 10. 2026) {#vakciny-babis-rothschild-zitko-27-10-2026}
+
+Zítko tvrdí, že chtěl jako první dovézt vakcíny ze Švýcarska jen pro Babiše, politiky a jejich rodiny, aby „šli příkladem“ — politici podle něj ve skutečnosti dostali placebo, zatímco lidem šla „biologická zbraň“ v některých šaržích. Patent na COVID-19 měl podle něj „jistý pan Rothschild už od roku 2015“. Roman Prymula podle něj zakázal pitvy, aby se nezjistilo, že lidi zabíjel remdesivir a ventilátory; o očkovaných rodičích, kteří nechali očkovat i děti, mluví jako o „debilech“.
+
+> „Patent na COVID-19 měl jistý pan Rothschild už od roku 2015.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+
+---
