@@ -6112,3 +6112,11 @@
 - **Datum záznamu:** 2026-11-06
 - **Zpracováno:** ano
 - **Poznámka:** 1 min, výstřih z televizního rozhovoru.
+
+## Československo TV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026) {#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-25_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=2898017193924296&_rdr>
+- **Datum záznamu:** 2026-10-23 (soubor datován 25. 10.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 28 min, večerní vysílání (Večerníček: Josef Lada, „Liška se stává slavnou“ — nezpracováno).
