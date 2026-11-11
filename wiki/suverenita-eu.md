@@ -968,3 +968,15 @@ Popisuje projev jako „válečně propagandistický" a od reality odtržený �
 **18. 9.** — Donald Trump podle Vrabela vyhrožuje jak Kanadě, tak celé EU kvůli plánovanému přidružení Kanady k unii (viz [výše](#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)) — Trumpova administrativa a Pentagon podle něj vychází z Monroeovy doktríny, že severní polokoule má patřit do sféry vlivu USA, zatímco Rusku EU sféru vlivu (např. vojenské základny na Ukrajině) odpírá. Vrabel varuje, že sféry vlivu se neurčují prohlášeními Ursuly von der Leyenové, ale velikostí armády a ekonomickou silou — a že pokud si to Evropa s USA rozhádá, může to USA v zimě „potrestat" cly nebo dodatečnou přirážkou na plyn a ropu, zatímco EU si mezitím sama zavřela cestu k levným ruským dodávkám.
 
 **Zdroje:** [Vrabel — Facebook Live 16. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026), [Vrabel — Facebook Live 18. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-18-9-2026)
+
+---
+
+### Merz z BlackRocku plní „zadání“; Evropa neporazí „tříocasou příšeru“ migrace, Green Dealu a proválečného fanatismu (Rajchl, 4. 11. 2026) {#triocasa-prisera-rajchl-4-11-2026}
+
+V televizní debatě Rajchl tvrdí, že německý kancléř Friedrich Merz, bývalý šéf BlackRocku pro Německo, „jednoznačně pokračuje ve svém zadání“ a Němci jeho vládě přezdívají „Schmerz“ (bolest). Evropa ani ČR podle něj nebudou prosperovat, dokud budou vládnout „zelení fanatici“: je třeba porazit „dvouocasou příšeru“ migrace a Green Dealu, jak ji pojmenoval Donald Trump, ke které on přidává třetí ocas — „proválečný fanatismus“; do té doby k Evropě nebude Amerika přistupovat jako k silnému partnerovi. Jako kontrast uvádí Bidenova „sanctuary cities“ a omezování ICE, kdy hranice přecházely statisíce nelegálních migrantů, zatímco za Trumpa „nepřechází nikdo“.
+
+> „Jakmile neporazíme tu dvouocasou příšeru, kterou pojmenoval Donald Trump, migraci a Green Deal, a já bych tomu přidal ještě třetí ocas, a to je válka, ten proválečný fanatismus, tak do té doby Evropa nemůže být silným kontinentem.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — „To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
+
+---

@@ -120,6 +120,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **20. 10.** — ETS2 od 2028 jako „past“ a „obrovský podvod“ (56 €/40 mil. povolenek vs. cena přes 70 €, −5,31 % ročně); „jde o okrádání“, ne emise; podpora vlády v odmítnutí i za cenu pokut, zrušit i ETS1, „Green Deal musí být zničen“ → [suverenita-eu.md](../suverenita-eu.md) — [EU se nás snaží vlákat do pasti: ETS2 (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--eu-nás-láká-do-pasti-ets2-20-10-2026)
 - **28. 10.** — projev k 28. říjnu: suverenita 1918 vs. „vyměněná za slib zbohatnutí“ po 1989; ohrožení z Bruselu (60 % legislativy, JE, větrníky), ne z Ruska ani ze zrušení poplatků (1954); zastánci zbrojení a „Spojených států evropských“ = „vlastizrádci“; protekcionismus — [Rajchl — Krásné narozeniny, Česká republiko: projev k 28. říjnu (28. 10. 2026)](../_zdroje.md#jindřich-rajchl--krásné-narozeniny-česká-republiko-28-10-2026)
 - **1. 11.** — Polsko: „puč přes Ústavní soud“, Nawrocki statečný, souhlas s Kaczyńským — zrušit Komisi, nebo odejít z EU; „rumunský scénář“ (→ [predikce](../predikce.md)) — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+- **4. 11.** — Merz z BlackRocku plní „zadání“; „tříocasá příšera“ migrace, Green Dealu a proválečného fanatismu — [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -574,6 +575,9 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Klára Laurenčíková | ❌ negativní | Seznámila Stárkovou s Obama Foundation | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
 | Jindřich Šídlo | ❌ negativní | Sedí se Stárkovou v porotě ceny Františka Kriegla | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
 | Tomas Paukner, Matouš Svoboda | ✅ pozitivní | Poskytli informace o financování spolku | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
+| Friedrich Merz | ❌ negativní | Bývalý šéf BlackRocku, „pokračuje ve svém zadání“, „Schmerz“ | 2026-11-04 | [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026) |
+| Donald Trump | ✅ pozitivní | Pojmenoval „dvouocasou příšeru“; za něj hranici „nepřechází nikdo“ | 2026-11-04 | [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026) |
+| Joe Biden | ❌ negativní | „Sanctuary cities“, omezoval ICE | 2026-11-04 | [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026) |
 
 ## Zpracované zdroje
 
@@ -726,3 +730,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [„Ťal jsem do živého“: Stárková a Aspen (1. 11. 2026)](../_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
 - [„Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026)](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
 - [Stávka ČT a ČRo: „pokračujte po neomezenou dobu“ (3. 11. 2026)](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
+- [„To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)

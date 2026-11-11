@@ -6080,3 +6080,11 @@
 - **Datum záznamu:** 2026-11-03
 - **Zpracováno:** ano
 - **Poznámka:** 1 min, ironická glosa ke stávce.
+
+## Jindřich Rajchl — „To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026) {#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-04_Jindřich-Rajchl_To-zas-byla-dvojka.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1123086963646701>
+- **Datum záznamu:** 2026-11-04
+- **Zpracováno:** ano
+- **Poznámka:** 1,5 min, výstřih z televizní debaty.
