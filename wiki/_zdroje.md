@@ -6088,3 +6088,11 @@
 - **Datum záznamu:** 2026-11-04
 - **Zpracováno:** ano
 - **Poznámka:** 1,5 min, výstřih z televizní debaty.
+
+## Jindřich Rajchl — O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026) {#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-05_Jindřich-Rajchl_O-cenzuře-a-o-nezbytnosti-zničit-Green-Deal-a-zastavi.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1670259327946660>
+- **Datum záznamu:** 2026-11-05
+- **Zpracováno:** ano
+- **Poznámka:** 2,5 min, výstřih z téže televizní debaty jako video ze 4. 11.

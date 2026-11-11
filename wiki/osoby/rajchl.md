@@ -14,6 +14,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **27. 9.** — Velká Británie zatýká za „verbální trestné činy" víc lidí než Rusko a Čína dohromady — [Nedělní vysílání 27. 9. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
 - **20. 10.** — koaliční shoda na úpravě § 405: trestat jen podněcování k násilí/nenávisti, ne „odchylný názor“ (Kapal/Katyň, Panenka) → [dsa-cenzura.md](../dsa-cenzura.md) — [TK: novela trestního zákoníku (20. 10. 2026)](../_zdroje.md#jindřich-rajchl--tk-novela-trestního-zákoníku-405-20-10-2026)
 - **25. 10.** — § 318a „kladivo na čarodějnice“, § 405 upravit, ne zrušit (Rakušan lže); kritika výkladu NS o „většinovém názoru demokratické společnosti“ — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+- **5. 11.** — § 318a zrušit (návrh v koalici), § 405 „kladivo na čarodějnice“; případy Bednářová, Panenka, Skála a Kapal, zproštěný čínský „špion“ — [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
 
 ### [FARA a neziskovky](../fara-neziskovky.md)
 - Autor návrhu zákona FARA, kritika politických neziskovek financovaných ze zahraničí — [FARA: autorství a srovnání (29. 3. 2026)](../_zdroje.md#jindřich-rajchl--zákon-fara-autorství-a-srovnání-se-zahraničím)
@@ -121,6 +122,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **28. 10.** — projev k 28. říjnu: suverenita 1918 vs. „vyměněná za slib zbohatnutí“ po 1989; ohrožení z Bruselu (60 % legislativy, JE, větrníky), ne z Ruska ani ze zrušení poplatků (1954); zastánci zbrojení a „Spojených států evropských“ = „vlastizrádci“; protekcionismus — [Rajchl — Krásné narozeniny, Česká republiko: projev k 28. říjnu (28. 10. 2026)](../_zdroje.md#jindřich-rajchl--krásné-narozeniny-česká-republiko-28-10-2026)
 - **1. 11.** — Polsko: „puč přes Ústavní soud“, Nawrocki statečný, souhlas s Kaczyńským — zrušit Komisi, nebo odejít z EU; „rumunský scénář“ (→ [predikce](../predikce.md)) — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 - **4. 11.** — Merz z BlackRocku plní „zadání“; „tříocasá příšera“ migrace, Green Dealu a proválečného fanatismu — [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
+- **5. 11.** — Trump „nastavil Evropě zrcadlo“, nepřítel „v Bruselu“ (opakuje „příšeru“) — [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -578,6 +580,8 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Friedrich Merz | ❌ negativní | Bývalý šéf BlackRocku, „pokračuje ve svém zadání“, „Schmerz“ | 2026-11-04 | [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026) |
 | Donald Trump | ✅ pozitivní | Pojmenoval „dvouocasou příšeru“; za něj hranici „nepřechází nikdo“ | 2026-11-04 | [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026) |
 | Joe Biden | ❌ negativní | „Sanctuary cities“, omezoval ICE | 2026-11-04 | [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026) |
+| Josef Skála, Vladimír Kapal | ✅ pozitivní | Odsouzeni za debatu o Katyni — „nejhorší kauza“ cenzury | 2026-11-05 | [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026) |
+| Martina Bednářová, Radim Panenka | ✅ pozitivní | Jeho klienti stíhaní „za naprostý nesmysl“ | 2026-11-05 | [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026) |
 
 ## Zpracované zdroje
 
@@ -731,3 +735,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [„Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026)](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
 - [Stávka ČT a ČRo: „pokračujte po neomezenou dobu“ (3. 11. 2026)](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
 - [„To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
+- [O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)

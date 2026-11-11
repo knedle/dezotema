@@ -977,6 +977,8 @@ V televizní debatě Rajchl tvrdí, že německý kancléř Friedrich Merz, býv
 
 > „Jakmile neporazíme tu dvouocasou příšeru, kterou pojmenoval Donald Trump, migraci a Green Deal, a já bych tomu přidal ještě třetí ocas, a to je válka, ten proválečný fanatismus, tak do té doby Evropa nemůže být silným kontinentem.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — „To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
+**5. 11.** — Ve stejné debatě Rajchl dodává, že Trump „nastavil Evropě zrcadlo“ i ve svobodě slova („váš nepřítel nesedí v Moskvě, ale v Bruselu“), a „dvouocasou příšeru“ vidí jako šanci: Trump bude Evropu respektovat, jen pokud bude silná a bohatá.
+
+**Zdroje:** [Rajchl — „To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026), [Rajchl — O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
 
 ---
