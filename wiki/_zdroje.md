@@ -6024,3 +6024,11 @@
 - **Datum záznamu:** 2026-11-07
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 18 min, zprávy čte Zuzka; hostka Vladimíra Vítová komentuje pochod spolku Svatopluk na ČT.
+
+## Konspirátor Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026) {#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-07_Konspirátor-Boldy-KonspyChannel_Opravdové-zločiny-svobodní-zednáři.txt)
+- **Kanál:** Konspirátor Boldy KonspyChannel
+- **URL:** <https://www.facebook.com/100083247552502/videos/1141023314966524>
+- **Datum záznamu:** 2026-11-07
+- **Zpracováno:** ano
+- **Poznámka:** 8 min, monolog po delší pauze (pracovní zakázky); bez predikcí a stochastického teroru.

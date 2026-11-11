@@ -1107,3 +1107,23 @@ Ke zprávě o záplavách v Istanbulu (4 oběti) Vrabel tvrdí, že v Íránu �
 **Zdroje:** [Ladislav Vrabel — Večerní zprávy 16. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-16-10-2026)
 
 ---
+
+### Podcast Opravdové zločiny pod „šachovnicí svobodných zednářů“ — zpoplatnění jako důkaz, že „jde jen o prachy“ (Boldy, 7. 11. 2026) {#opravdove-zlociny-zednari-boldy-7-11-2026}
+
+Boldy reaguje na rozhodnutí podcastu Opravdové zločiny zpoplatnit nové díly (zdarma jen asi 30 hodin po vydání). Vysvětlení, že YouTube kvůli tématu vražd nevyplácí monetizaci, považuje za „kec“: omezuje se podle něj jen zobrazování násilí, ne mluvení o něm, a podcast se 100 tisíci odběrateli si prý vydělává dost. Podezření měl už od vystoupení moderátorek v O2 areně, kde pod sebou měly „šachovnici svobodných zednářů“, což pro něj byl „velký vykřičník“, s kým spolupracují. Za zpoplatněním podle něj stojí „něco úplně jiného“ a spekuluje, zda moderátorky nedostaly „pokyn od někoho jiného“. Kritizuje i to, že po vlně kritiky vypnuly komentáře, a vyzývá fanoušky, aby podcast přestali sledovat.
+
+> „Já už jsem měl vlastně podezření od té O2 Areny, kde vlastně měli tu šachovnici svobodných zednářů pod sebou, jo, to už byl jenom takový velký vykřičník.“ — Boldy
+
+**Zdroje:** [Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026)](_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
+
+---
+
+### Úspěšný „potetovaný“ youtuber recykluje konspirační témata, propaguje sluchátka a ukazuje „jedno oko“ iluminátů (Boldy, 7. 11. 2026) {#potetovany-youtuber-iluminati-boldy-7-11-2026}
+
+Boldy kritizuje nejmenovaného „potetovaného“ youtubera s vysokou sledovaností. Ten podle něj mluví o věcech, které konspirátoři probírali už před 3–4 lety, a opírá se o „samý mainstream“. Jako rozpor uvádí, že v jednom videu dělá reklamu na bezdrátová sluchátka a v dalším mluví o jejich škodlivosti; přirovnává to k tomu, jako by on sám po kritice Pfizeru a Moderny propagoval očkování. Gesto „jednoho oka“ ve videích vykládá jako znak iluminátů. Sociální sítě jsou podle něj jen „oblbování lidí“ a nikdo nepřináší nic nového o tom, „co má přijít“, o čem konspirátoři mluvili už loni.
+
+> „Ještě potom ukazuje jedno oko, vole, což víme, že, ilumináti.“ — Boldy
+
+**Zdroje:** [Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026)](_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
+
+---

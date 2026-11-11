@@ -52,6 +52,8 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - ChatGPT „odhaluje" Archonty — sedm nelidských duchovních entit, které nás sledují (Nag Hammádí, Kniha Henochova) — [28. 7. 2025](../_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)
 - Nové mezihvězdné těleso (jako Oumuamua) jako možný „útok" nebo projekt Blue Beam, „uvidíme v listopadu" (→ [predikce](../predikce.md)) — [28. 7. 2025](../_zdroje.md#konspirátor-boldy--chatgpt-sledují-nás-28-7-2025)
 - Hurikán Melissa uměle vyvolán („patent na řízení hurikánů"), aby elity podle „Vize 2030" vyčistily Jamajku pro svůj byznys — [29. 10. 2025](../_zdroje.md#konspirátor-boldy--hurikán-melissa-nová-jamajka-2030-29-10-2025)
+- Podcast Opravdové zločiny pod „šachovnicí svobodných zednářů“, zpoplatnění = „jde jen o prachy“, možná „pokyn od někoho jiného“ — [7. 11. 2026](../_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
+- „Potetovaný“ youtuber recykluje konspirační témata, propaguje bezdrátová sluchátka a ukazuje „jedno oko“ iluminátů — [7. 11. 2026](../_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
 
 ### [Migrace](../migrace.md)
 - Ceuta jako „plán elit na likvidaci Evropy" — armáda migrantům pomáhá, ne brání; financování Gates/Rockefeller nadacemi; predikce zániku Evropy (Nostradamus, Baba Vanga, do 2050) — [31. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-ceuta-jako-plán-likvidace-evropy-31-7-2026)
@@ -81,6 +83,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - Vakcíny jako biologická zbraň, Gates na TEDu 2017 o snížení populace o 10–15 % — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
 - Očkování proti chřipce — očkovaní „každoročně nemocní", lidé jdou „jako stupidní ovce"; covidová vakcína jako biologická zbraň „v patentu" (opakování) — [3. 10. 2026](../_zdroje.md#konspirátor-boldy--videoportál-3-10-2026)
 - Dokument Pfizeru (48 000 případů, 150 000+ vedlejších účinků, 700+ účinků vakcíny), pokles porodnosti; vakcíny proti rakovině „udržují" rakovinu v těle — [22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+- Slib zveřejnit číslo dokumentu Pfizeru s 700+ vedlejšími účinky (opakuje) — [7. 11. 2026](../_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
 
 ### [DSA a cenzura](../dsa-cenzura.md)
 - YouTube smazal přes milion videí o vakcínách; umlčovaní vědci ztrácejí práci / „sebevraždy" — [17. 7. 2026](../_zdroje.md#konspirátor-boldy--videoportál-17-7-2026)
@@ -89,6 +92,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 ### [Média a propaganda](../media-propaganda.md)
 - ČT jako propaganda, TV Nova ještě horší — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
 - Filmy jako záměrné odhalení plánů elit — [12. 3. 2026](../_zdroje.md#konspirátor-boldy--facebook-live-z-prahy)
+- Politika jako „stupidní věci“, protesty za poplatky ČT jako „fraška“ neziskovek — [7. 11. 2026](../_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Válka s Íránem může poslat ropu na 300 USD/barel — [15. 3. 2026](../_zdroje.md#konspirátor-boldy--mesiáš-írán-a-ropa)
@@ -127,6 +131,7 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 | Kaja Kallas | ❌ negativní | Uvedena jako členka klubu „Dialog" | 2026-08-21 | [Videoportál 21. 8. 2026](../_zdroje.md#konspirátor-boldy--videoportál-klub-dialog-21-8-2026) |
 | Bill Gates | ❌ negativní | Skupuje půdu a vodní práva kvůli krizi, kterou elity samy způsobují; výrok o „miliardách mrtvých" | 2026-09-22 | [Videoportál 22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026) |
 | Klaus Schwab | ❌ negativní | Jeho nástupce ve WEF měl říct, že „voda není pro všechny" — elity si přivlastňují vodu | 2026-09-22 | [Videoportál 22. 9. 2026](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026) |
+| Andrej Babiš, Tomio Okamura | ❌ negativní | Politika kolem nich jsou „stupidní věci“, se kterými lidé nic neudělají | 2026-11-07 | [7. 11. 2026](../_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026) |
 
 ---
 
@@ -161,3 +166,4 @@ Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube
 - [Facebook Live (6. 9. 2026)](../_zdroje.md#konspirátor-boldy--facebook-live-6-9-2026)
 - [Videoportál (22. 9. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
 - [Videoportál (3. 10. 2026)](../_zdroje.md#konspirátor-boldy--videoportál-3-10-2026)
+- [Opravdové zločiny: svobodní zednáři (7. 11. 2026)](../_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)

@@ -237,7 +237,9 @@ Vrabel tvrdí, že lidé, které nezajímají cizí vojáci ani francouzské jad
 
 > „Tak to prostě není, protože my nejsme samostatný stát, nemáme samostatný jako stát zpravodajský kanál.“ — Vladimíra Vítová (hostka u Vrabela)
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+**7. 11. (Boldy)** — Konspirátor Boldy považuje domácí politiku („Babiš, Okamura“) za „stupidní věci“, se kterými lidé stejně nic nezmění, a protesty za poplatky ČT za „frašky“, které organizují neziskové organizace: „vyšleme blbečky do ulic a musí protestovat, chceme poplatky“.
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026), [Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026)](_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
 
 ---
 

@@ -861,7 +861,7 @@ Boldy navazuje na svou tezi o depopulaci: od začátku očkování proti covidu 
 
 Zároveň tvrdí, že rakovinné buňky jsou „odumřelé buňky", které tělo díky chřipce a dalším „základním nemocem" vypuzuje — a že chystané vakcíny (včetně „vakcíny proti rakovině") je mají v těle naopak udržet, „proto se rakovina rozšiřuje víc a víc". Navazuje na [vakcíny jako biologická zbraň a nástroj snižování populace](#boldy-vakcíny-jako-biologická-zbraň-a-nástroj-snižování-populace-17-7-2026).
 
-**Zdroje:** [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026)
+**Zdroje:** [Boldy — Videoportál 22. 9. 2026](_zdroje.md#konspirátor-boldy--videoportál-22-9-2026), [Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026)](_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
 
 ---
 
