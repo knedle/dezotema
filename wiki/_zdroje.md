@@ -6104,3 +6104,11 @@
 - **Datum záznamu:** 2026-11-05
 - **Zpracováno:** ano
 - **Poznámka:** 9 min, rozhovor s reportérem ČT; výhrůžky citované Rajchlem (Hedija) nejsou jeho výroky, proto nejsou ve stochastickém teroru.
+
+## Jindřich Rajchl — „Tohle je nejvíc!“: průzkum o poplatcích (6. 11. 2026) {#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-06_Jindřich-Rajchl_Tohle-je-nejvíc.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1650637660136927>
+- **Datum záznamu:** 2026-11-06
+- **Zpracováno:** ano
+- **Poznámka:** 1 min, výstřih z televizního rozhovoru.

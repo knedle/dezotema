@@ -195,6 +195,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **1. 11.** — Stárková „proškolena“ v Aspenu, hysterická reakce Šídla, Nerudové a Mináře (opakuje) — [„Ťal jsem do živého“ 1. 11. 2026](../_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
 - **3. 11.** — ironická výzva zaměstnancům ČT a ČRo, ať stávkují „na neomezenou dobu“; rozhlas bez nich „bez propagandy“ — [Stávka ČT a ČRo 3. 11. 2026](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
 - **5. 11.** — rozhovor s ČT: příspěvky o Stárkové nestáhne; Láska „pacient z Moskvy“, zveřejněná adresa jeho domu, výhrůžka člena ODS Hediji, Forum24/Reflex „Putinův mazlíček“ — [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)
+- **6. 11.** — průzkum o poplatcích: 31 % + 23 % = „54 %, což je většina“ pro zrušení — [„Tohle je nejvíc!“ 6. 11. 2026](../_zdroje.md#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -741,3 +742,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [„To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
 - [O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
 - [Rozhovor s ČT o příspěvcích ke Stárkové (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)
+- [„Tohle je nejvíc!“: průzkum o poplatcích (6. 11. 2026)](../_zdroje.md#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026)
