@@ -1292,6 +1292,20 @@ K Trumpovu oznámení „mimořádně rozsáhlé“ dohody po schůzce s Dmitrij
 
 > „Takže myslím si, že ta krásná dohoda bude o tom, že se Američani a Rusové dohodnou na tom, že Evropa bude přes Spojené státy nakupovat energie z Ruska a přes Ukrajinu,“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
+**7. 11.** — Ke zprávě, že se ČR přiblížila dlouhodobému kontraktu na americký plyn a stát chystá záruky pro obchodníka (projekt ministra Karla Havlíčka „pro energetickou bezpečnost“), Vrabel tvrdí, že jde o přípravu na Trumpovu dohodu z předchozího dne. Rusové budou podle něj posílat plyn do Evropy přes Ukrajinu jako vždycky, ČR ale nebude mít smlouvu na levný plyn s Ruskem, nýbrž na drahý plyn s USA, které budou jen „papírový mezičlánek“. Plyn tak může být „klidně třikrát dražší“; nazývá to „megapodvodem“ a „největší zlodějinou“, horší než zdražená elektřina přes lipskou burzu, kterým se Amerika zachraňuje před bankrotem. „Diverzifikace“ podle něj znamenala odstřihnout se od jediného spolehlivého dodavatele, takže evropské zásobníky jsou před zimou jen zhruba z poloviny plné.
+
+> „Takže vzdálená Amerika bude jenom papírově nějaký mezičlánek, který nás bude kasírovat za obrovský peníze.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+
+---
+
+### Rutte: válka skončí kompromisem — Vrabel: válečná ekonomika a zbrojařská lobby konflikt drží, trvalý mír až po „denacifikaci“ a odzbrojení Ukrajiny; cvičení koalice ochotných v Polsku (Vrabel, 7. 11. 2026) {#rutte-kompromis-vrabel-7-11-2026}
+
+K výroku generálního tajemníka NATO Marka Rutteho, že válka nebude mít jednoznačného vítěze a skončí kompromisní mírovou dohodou, Vrabel říká, že politikům „nemůžete věřit ani nos mezi očima“, protože každou chvíli říkají něco jiného. Kompromis podle něj nepřichází v úvahu: Evropa zlikvidovala svou ekonomiku a přešla na válečnou, která bez použití zbraní a zisku území zkrachuje, a zbrojařská lobby má obrovský politický vliv (zmiňuje Michala Strnada, který podle něj chodí na návštěvy za Okamurou do Sněmovny, a prezidenta Pavla „zlobbovaného“ zbrojaři; viz [sponzoři diktují politiku](politicky-system.md#sponzori-cesta-do-pekla-vrabel-7-11-2026)). Trvalý mír by podle něj vyžadoval „denacifikaci“ a odzbrojení Ukrajiny, konec budování základen kolem Ruska a otevření příčin od let 2013–2014 a minských dohod. Podmínky ukrajinského ministra zahraničí Andrije Sybihy pro Abú Zabí (žádné omezení armády, volba zahraniční politiky, silné bezpečnostní záruky) považuje za neslučitelné s ruskými požadavky, a proto na trvalé řešení v Abú Zabí ani na schůzce USA–Rusko–Čína v Šen-čenu (summit APEC 18.–19. 11.) „velká šance není“. Chystané první velké cvičení koalice ochotných v Polsku (9.–22. 11., 2800 zahraničních a 2000 polských vojáků), které má nacvičit rozmístění západních vojsk na Ukrajině po válce, popisuje jako zneužití řečí o míru k přiblížení vojsk k Rusku. Současný chaos podle něj připomíná „ticho před bouří“.
+
+> „Ten konflikt skončí, až se vyřeší ten nacismus, který na Ukrajině je, až se vyřeší to, že se okolo Ruska staví vojenský základny.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 
 ---

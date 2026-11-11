@@ -233,7 +233,11 @@ Vrabel tvrdí, že lidé, které nezajímají cizí vojáci ani francouzské jad
 
 > „Musím říct, že náš nepřítel je velmi sofistikovaný, velmi chytrý, má velmi dobré strategie a hlavně má parlament, má vládu, má média, má neziskovky, má moc ve stáke, takže dokáže jakoukoliv věc, za kterou bojujeme, otočit, přeměnit, zlikvidovat, semlít.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+**7. 11.** — K pochodu spolku Svatopluk za reformu veřejnoprávních médií (v čele Kateřina Konečná, Petr Drulák, Jan Skalický a Jiří Kobza; dále mj. Lenka Procházková, Jaroslava Obermaierová, Ivan David a Oldřich Kaiser) Vrabel poznamenává, že šla „celá ta parta“ z jeho demonstrací v roce 2022. Vlastní kritiku ale odmítá, protože podobný pochod na ČT sám pořádal. Výhradu má k heslu „Dost bylo dezinformací“, které podle něj evokuje „boj proti dezinformacím“, jenž v Evropském parlamentu prosazuje Konečná („Rajchl s lidskou tváří“), a nechápe, proč Kaiser recitoval báseň o Leninovi. Jeho hostka Vladimíra Vítová označila Svatopluk za „VIP spolek“, který nemá zájem koordinovat odpor, a za připravovanou „druhou garnituru“ falešné opozice. Jádro problému podle ní není ve financování ČT, ale v členství v EU, která určuje informační a ideologický obsah. ČT podle ní za covidu dostala od USA 4 miliony dolarů, je tedy „placená cizí státní mocí“ a měl by se na ni vztahovat zákon o spolupráci s cizí mocí. Zrušení či privatizaci ČT odmítá, protože každý stát má mít vlastní sdělovací prostředek.
+
+> „Tak to prostě není, protože my nejsme samostatný stát, nemáme samostatný jako stát zpravodajský kanál.“ — Vladimíra Vítová (hostka u Vrabela)
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 
 ---
 

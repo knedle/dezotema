@@ -662,3 +662,15 @@ Cilia Floresová, manželka bývalého venezuelského prezidenta Nicoláse Madur
 Tisíce lidí demonstrovaly v Bratislavě proti otevření prvního izraelského velvyslanectví na Slovensku — nesly palestinské vlajky a transparenty na podporu Palestiny. Otevření ambasády představuje obrat v zahraniční politice vlády premiéra Janši oproti jeho předchůdci Golobovi, který Palestinu uznal a zavedl sankční opatření vůči Izraeli, jež Janšova vláda zrušila; opozice kvůli tomu podala návrh na Janšovo odvolání. Vrabel k tomu jen krátce a sarkasticky poznamenává obavu, aby lidé „nakonec nebyli všichni buď mrtví, nebo obřezaní".
 
 **Zdroje:** [Vrabel — Facebook Live 12. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-12-9-2026)
+
+---
+
+### Muž s „hlasy“, které mu přikazovaly zabít Trumpa — Vrabel se „nediví“; Trumpovy „neodpustitelné“ činy (Vrabel, 7. 11. 2026) {#hlasy-zabit-trumpa-vrabel-7-11-2026}
+
+Ke zprávě, že Secret Service ve Washingtonu zadržela Venezuelana, který tvrdil, že mu hlasy přikazují zabít prezidenta Trumpa, Vrabel nejprve žertuje o vlastních „hlasech“ a dodává, že kdyby mu něco takového říkaly, neřekl by to, aby nebyl odsouzen jako Tomáš Čermák. Pak vyjmenovává Trumpovy „neodpustitelné“ činy posledních dvou let: americký útok, při kterém v Íránu zahynuly „malé holčičky“ ve škole, zabití ajatolláha Chameneího a „vyvraždění“ íránského vedení, zabití ochranky a únos venezuelského prezidenta s manželkou, nevýhodné obchodní smlouvy pro Evropu, cla až 100 % a „zničení světové ekonomiky“ uzavřením Hormuzského průlivu. Uznává, že Trump „určitě vykonal spoustu dobrého“, ale „vůbec se nediví“ hlasům, které někomu říkají, že by ho měl „dostat z tohohle světa“ (viz [stochastický teror](stochasticky-teror.md)).
+
+> „Takže se vůbec nedivím tomu, že někde existují tady v prostoru nějaké hlasy, které občas někomu říkají, že by ho měl jít z tohohle světa dostat pryč.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+
+---

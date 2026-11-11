@@ -1073,7 +1073,9 @@ Ke zprávě, že ministr Adam Vojtěch při otevření závodu Novo Nordisk ozn�
 
 Dále informuje o nové vakcíně **vyrobené umělou inteligencí**, testované 6 měsíců na 39 lidech a publikované ve vědeckém časopise: není na bázi mRNA, ale **DNA**, a má být širokospektrální (mj. proti koronavirům). Výrobci tvrdí, že DNA se nezapojí do lidské DNA; Vrabel cituje dr. Petera McCullougha, který prý nechápe, jak si tím mohou být jistí, a riziko zásahu do lidské DNA nevylučuje. Vrabel se omlouvá za dřívější tvrzení, že další vakcíny budou výhradně mRNA.
 
-**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026)
+**7. 11.** — Vrabel avizuje přeložené video o Ozempicu. Proti výrobci jsou podle něj tisíce žalob a lékům na hubnutí přisuzuje řídnutí kostí (úbytek kostní hmoty „až v desítkách procent“), oslepnutí bez předchozích příznaků, poruchy mozku a trvalé poškození trávicího traktu.
+
+**Zdroje:** [Vrabel — Zprávy v devět 13. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-6-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 
 ---
 

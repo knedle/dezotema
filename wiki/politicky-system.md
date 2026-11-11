@@ -447,7 +447,11 @@ K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vysl�
 
 > „odsoudit teďko neho do vězení na několik let mi připadá velmi nespravdlivý.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
+**7. 11.** — K vládou schválené novele trestního řádu, podle níž bude moci policie na žádost jiného státu EU bez souhlasu soudu či státního zástupce až na sedm pracovních dnů zablokovat podezřelý majetek (účty, vozidla, nemovitosti), Vrabel tvrdí, že jde o další krok „režimu proti lidem“ a že takové nástroje se „velmi často“ používají proti politické opozici — tou nemyslí parlamentní opozici, ale odpůrce režimu. Jako příklad uvádí zmrazení účtů lidem, kteří za covidu podporovali kanadské kamioňáky (Trudeau a ministryně financí Freelandová, kterou označuje za „vnučku ukrajinského nacisty“). Ke zprávě o zastavení stíhání Tomáše Čermáka za výroky z útěku upřesňuje, že státní zástupce jen vrátil věc policii k doplnění důkazů; Čermáka nazývá „skutečně politickým vězněm“.
+
+> „Takže tady lze jednoznačně předpokládat, že to bude zase používáno proti nám.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 
 ---
 
@@ -1695,3 +1699,15 @@ V rámci téhož programu obhajuje Andreje Babiše v kauze Čapí hnízdo (viz [
 **24. 9.** — Černohorský svůj program „kdybych byl premiérem" doplňuje: platy politiků by nejen zmrazil, ale novelou zákona 236/1995 snížil na úroveň roku 2010 a zrušil paušály (33 tisíc na bydlení v Praze, 60–70 tisíc na PHM, telefony) — „politik je zaměstnanec nás všech, není to žádnej polobůh". Koncesionářské poplatky by zrušil po ročním přechodném období, ČT by se stala komerční televizí a zákon by všem celoplošným televizím uložil povinné politické debaty placené ze státního rozpočtu (Klempíř podle něj slib ohledně poplatků nesplnil). Podmínkou by bylo „vydání" Fialy, Stanjury, Blažka, Rakušana, Černochové a Lipavského k trestnímu stíhání (neziskovky, muniční iniciativa, Kampelička, Dozimetr); Stanjura podle něj čtyři roky falšoval výkazy rozpočtu a chybí 400 miliard.
 
 **Zdroje:** [Černohorský — Facebook Live 15. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-15-9-2026), [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
+
+---
+
+### Spojení všech „vlastenců“ je „cesta do pekla“; politiku diktují sponzoři — dnes zbrojaři (Vrabel, 7. 11. 2026) {#sponzori-cesta-do-pekla-vrabel-7-11-2026}
+
+Na divácký dotaz, zda by se opoziční politici neměli spojit, Vrabel odpovídá, že spojení všech je „cesta do pekla“, protože pak nelze prosazovat konkrétní program. Spojovat se mají jen ti, kdo chtějí totéž; proto on ve volbách spolupracuje s Vladimírou Vítovou na programu vystoupení z EU, NATO a WHO a „absolutní suverenity“. Široké spojení podle něj slouží jen k udržení „u koryta“: tak vznikla pětikoalice a tak se s ANO spojily SPD, Trikolora, Svobodní a Motoristé, kteří tím přestali plnit vlastenecký program. Politiku podle něj diktují sponzoři. Kamarád, místopředseda jedné parlamentní strany, mu prý otevřeně řekl, že na jeho demonstraci nemohou jít, protože by přišli o sponzory; podobně Kateřina Konečná zveřejnila SMS Jindřicha Rajchla, že spolu nemohou kandidovat kvůli sponzorům. Dnes jsou hlavními sponzory výrobci zbraní, a proto evropští politici tlačí na pokračování války (viz [Rutte a kompromisní mír](valka-ukrajina-prubeh.md#rutte-kompromis-vrabel-7-11-2026)).
+
+> „Je to cesta do pekla, spojit se všichni v politice. To je dobrý jenom pro ty, jako byla pětikoalice, aby se udrželi u koryta.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+
+---

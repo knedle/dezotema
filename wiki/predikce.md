@@ -12,6 +12,30 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — trvalý mír nebude dosažen ani v Abú Zabí, ani na schůzce USA–Rusko–Čína v Šen-čenu (7. 11. 2026)
+
+**Předpověď:** Jednání v Abú Zabí ani schůzka USA, Ruska a Číny na summitu APEC v Šen-čenu nepřinesou trvalé ukončení války; Rutteho „kompromisní mír“ považuje za nereálný, dokud nebude Ukrajina „denacifikována“ a odzbrojena.
+
+> „Kdybyste se mi zeptali, kolik vsázím na to, že bude dosažený […] kompletního mírovýho řešení, trvalýho, tak mně připadá, že tam ta velká šance není.“ — Ladislav Vrabel
+
+**Horizont:** Abú Zabí; Šen-čen 18.–19. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+
+---
+
+### Ladislav Vrabel — bankovní krize bude pokračovat, „čeká nás Francie“ (7. 11. 2026)
+
+**Předpověď:** Po krachu banky v Paraguayi budou bankovní problémy pokračovat a zasáhnou Francii; stát bude vkladatele zachraňovat jen zpočátku.
+
+> „Ty bankovní problémy budou prostě pokračovat dál […] čeká nás Francie.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+
+---
+
 ### Ladislav Vrabel — digitální měna bude pro občany zavedena „během několika let“ (6. 11. 2026)
 
 **Předpověď:** Státy musí mít digitální měnu v roce 2027 a během několika let bude zavedena i pro občany.

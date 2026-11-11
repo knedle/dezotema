@@ -907,3 +907,13 @@ K diváckému upozornění, že se na příští rok plánuje 80 tisíc pracovn�
 **Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 1. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 
 ---
+
+### EK zařadila ČR mezi státy pod migračním tlakem — vláda pakt „odmítla“ jen slovy a sama zvyšuje kvóty pro pracovníky z Asie (Vrabel, 7. 11. 2026) {#ek-migracni-tlak-asie-vrabel-7-11-2026}
+
+K zařazení ČR mezi státy ohrožené migračním tlakem (kvůli Ukrajincům může požádat o snížení či odpuštění příspěvků do mechanismu solidarity; Petr Fiala to označil za důkaz, že koalice před volbami strašila migranty) Vrabel říká, že zpráva je dobrá i špatná. Dobrá proto, že se ČR může vyhnout následkům paktu; špatná proto, že vláda, která pakt v prosinci 2025 „rezolutně odmítla“, za 11 měsíců neudělala žádný právní krok a nepožádala ani o výjimku — vyzývat ji k tomu musí sama EU. ČR podle něj pakt „plní dobrovolně“ přijatými Ukrajinci („Česko-Ukrajinsko“). K vládnímu plánu zvýšit od ledna 2027 kvóty pro pracovníky z Filipín (12 000), Indie (1 600) a nově Indonésie (300) tvrdí, že potřeba firem je jen „výmluva“ pro migraci: stát, který nedokáže pokrýt práci vlastními lidmi, „nefunguje“, a „celý západ hoří“. Varuje, že část příchozích mohou být muslimové, kteří podle něj postupně zabírají ulice a čtvrti, vytvářejí no-go zóny a zavádějí právo šaría. Navazuje na [Migrační pakt vstoupil v platnost (12. 6.)](#migrační-pakt-vstoupil-v-platnost--vláda-ho-podle-vrabela-neodmítla-12-6-2026).
+
+> „Migrační pakt můžeme odmítnout, ale my si je budeme prostě přivážet sami, protože naše vláda o tom rozhodne, že si můžeme přivážet víc a víc přistěhovalců z Asie.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+
+---

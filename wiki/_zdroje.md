@@ -6016,3 +6016,11 @@
 - **Datum záznamu:** 2026-11-06
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 19 min, zprávy čte Zuzka; reaguje na komentáře diváků; na konci videa policejní brutality z Itálie, Francie a Španělska.
+
+## Ladislav Vrabel — Zprávy v devět 7. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-7-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-07_Ladislav-Vrabel_7-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1596903635056758>
+- **Datum záznamu:** 2026-11-07
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 18 min, zprávy čte Zuzka; hostka Vladimíra Vítová komentuje pochod spolku Svatopluk na ČT.
