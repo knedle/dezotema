@@ -194,6 +194,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **1. 11.** — poplatky „ani o centimetr“, ČT 1,5 mld., „8 miliard v příšeří“, Izrael a 20 zemí EU; zastavit financování DAMU; Aspen jako „novodobá VUML“, Stárková, lynč Vachatové — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 - **1. 11.** — Stárková „proškolena“ v Aspenu, hysterická reakce Šídla, Nerudové a Mináře (opakuje) — [„Ťal jsem do živého“ 1. 11. 2026](../_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
 - **3. 11.** — ironická výzva zaměstnancům ČT a ČRo, ať stávkují „na neomezenou dobu“; rozhlas bez nich „bez propagandy“ — [Stávka ČT a ČRo 3. 11. 2026](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
+- **5. 11.** — rozhovor s ČT: příspěvky o Stárkové nestáhne; Láska „pacient z Moskvy“, zveřejněná adresa jeho domu, výhrůžka člena ODS Hediji, Forum24/Reflex „Putinův mazlíček“ — [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -582,6 +583,9 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Joe Biden | ❌ negativní | „Sanctuary cities“, omezoval ICE | 2026-11-04 | [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026) |
 | Josef Skála, Vladimír Kapal | ✅ pozitivní | Odsouzeni za debatu o Katyni — „nejhorší kauza“ cenzury | 2026-11-05 | [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026) |
 | Martina Bednářová, Radim Panenka | ✅ pozitivní | Jeho klienti stíhaní „za naprostý nesmysl“ | 2026-11-05 | [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026) |
+| Václav Láska | ❌ negativní | Den po atentátu na Fica ho označil za „pacienta z Moskvy“, komora to neřešila | 2026-11-05 | [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026) |
+| Jakub Hedija (ODS) | ❌ negativní | Napsal „na každou svini se vaří voda… adresu známe“ | 2026-11-05 | [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026) |
+| Matěj Ondřej Havel | ❌ negativní | Označil Vachatovou za „obdivovatelku ruských teroristů“ — lež a podněcování nenávisti | 2026-11-05 | [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026) |
 
 ## Zpracované zdroje
 
@@ -736,3 +740,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Stávka ČT a ČRo: „pokračujte po neomezenou dobu“ (3. 11. 2026)](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
 - [„To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
 - [O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
+- [Rozhovor s ČT o příspěvcích ke Stárkové (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)

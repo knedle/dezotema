@@ -283,7 +283,11 @@ Rajchl kritizuje selektivní aplikaci mediálních kampaní. Mediální útok na
 
 > „Aspen je VUML, novodobým VUML, který si řídili oni, velmi chytře, pozor, to si musí nechat.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026), [Rajchl — „Ťal jsem do živého“: Stárková a Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
+**5. 11.** — V rozhovoru s reportérem ČT Rajchl odmítá osobní odpovědnost za komentáře pod příspěvky o Stárkové a jejich stažení: napsal prý jen ověřitelná fakta bez urážek a výzev, kterými měla veřejnost informovat sama ČT. Advokátní komoře, která se jeho příspěvky zabývá, vyčítá, že neřešila Václava Lásku, který ho den po atentátu na Roberta Fica označil za „pacienta z Moskvy“. Policie podle něj nechala bez následku, že aktivista den po žhářském útoku na výrobnu dronů zveřejnil adresu jeho domu s tvrzením, že se tam vyrábějí drony, a že člen jihomoravské ODS Jakub Hedija napsal „na každou svini se vaří voda, stačí škrtnout sirkou, adresu známe“. Dále jmenuje Forum24 a Reflex („Putinův mazlíček“) a Matěje Ondřeje Havla, který Vachatovou označil za „obdivovatelku ruských teroristů“; ČT podle něj u ničeho z toho „nebyla“.
+
+> „Ukažte mi, co je na něm nepravdivého, nebo jestli je tam jakákoliv vulgarita, jestli je tam výzva k nějaké nenávisti, k nějakému násilí.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026), [Rajchl — „Ťal jsem do živého“: Stárková a Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026), [Rajchl — Rozhovor s ČT o příspěvcích ke Stárkové (5. 11. 2026)](_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)
 
 ---
 

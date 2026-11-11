@@ -6096,3 +6096,11 @@
 - **Datum záznamu:** 2026-11-05
 - **Zpracováno:** ano
 - **Poznámka:** 2,5 min, výstřih z téže televizní debaty jako video ze 4. 11.
+
+## Jindřich Rajchl — Rozhovor s ČT o příspěvcích ke Stárkové (5. 11. 2026) {#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-05_Jindřich-Rajchl_Tak-tady-máte-onen-slíbený-rozhovor-s-ČT.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2170411103903670>
+- **Datum záznamu:** 2026-11-05
+- **Zpracováno:** ano
+- **Poznámka:** 9 min, rozhovor s reportérem ČT; výhrůžky citované Rajchlem (Hedija) nejsou jeho výroky, proto nejsou ve stochastickém teroru.
