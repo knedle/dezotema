@@ -209,7 +209,9 @@ Moláčkův výrok, že je třeba „pohlídat, aby se v ČT nevylíhlo kukačč
 
 > „Česká televize není zárukou demokracie. To je lež, kterou tady neustále šíří libtardi, kteří nemají žádný věcný argument.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+**3. 11.** — Ke stávce zaměstnanců ČT a ČRo Rajchl ironicky poznamenává, že by si jí bez ostatních médií nikdo nevšiml; rozhlas se během ní „konečně dal poslouchat“ („žádná propaganda, žádné vymývání mozku“), a proto zaměstnance vyzývá, ať ve stávce pokračují „na časově neomezenou dobu“. Na zrušení poplatků trvá „za každou cenu“.
+
+**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026), [Rajchl — Stávka ČT a ČRo: „pokračujte po neomezenou dobu“ (3. 11. 2026)](_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
 
 ---
 

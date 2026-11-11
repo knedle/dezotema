@@ -190,6 +190,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **30. 10.** — 41 881 exekucí kvůli poplatkům od roku 2023; za studenty platí rodiče; Evropa od poplatků odchází, ironicky Izrael (zrušil poplatky 2015, IBA → KAN, má FARA) — [Rajchl — Koncesionářské poplatky jsou anachronismem: exekuce, Evropa a Izrael (30. 10. 2026)](../_zdroje.md#jindřich-rajchl--poplatky-anachronismus-exekuce-izrael-30-10-2026)
 - **1. 11.** — poplatky „ani o centimetr“, ČT 1,5 mld., „8 miliard v příšeří“, Izrael a 20 zemí EU; zastavit financování DAMU; Aspen jako „novodobá VUML“, Stárková, lynč Vachatové — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 - **1. 11.** — Stárková „proškolena“ v Aspenu, hysterická reakce Šídla, Nerudové a Mináře (opakuje) — [„Ťal jsem do živého“ 1. 11. 2026](../_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
+- **3. 11.** — ironická výzva zaměstnancům ČT a ČRo, ať stávkují „na neomezenou dobu“; rozhlas bez nich „bez propagandy“ — [Stávka ČT a ČRo 3. 11. 2026](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -724,3 +725,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 - [„Ťal jsem do živého“: Stárková a Aspen (1. 11. 2026)](../_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
 - [„Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026)](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
+- [Stávka ČT a ČRo: „pokračujte po neomezenou dobu“ (3. 11. 2026)](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)

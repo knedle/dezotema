@@ -6072,3 +6072,11 @@
 - **Datum záznamu:** 2026-11-02
 - **Zpracováno:** ano
 - **Poznámka:** 7 min; navazuje na příspěvek o Báře Stárkové a Aspenu.
+
+## Jindřich Rajchl — Stávka ČT a ČRo: „pokračujte po neomezenou dobu“ (3. 11. 2026) {#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-03_Jindřich-Rajchl_Žádám-tímto-zaměstnance-ČT-a-ČRo-aby-ve-své-stávce-po.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1664578865017725>
+- **Datum záznamu:** 2026-11-03
+- **Zpracováno:** ano
+- **Poznámka:** 1 min, ironická glosa ke stávce.
