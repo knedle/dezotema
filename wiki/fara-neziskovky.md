@@ -100,7 +100,11 @@ Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letn
 
 > „Nemohou být financovány ze zahraničí. Že je to trestný čin. Tečka." — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026)
+**6. 11.** — Černohorský popisuje politiku jako obchod: korporace s miliardovými zájmy působí přes lobbisty na politiky, kteří „zvednou pracky“, jak se jim řekne; předsedové stran se podle něj domluví přes šifrované telefony a poslanci dostanou „milion na Kajmany“. Šebelová podle něj za návrh eutanazie pro nezletilé „z největší pravděpodobností dostala nasypáno“. Média podle něj vlastní miliardáři (Tykač, Křetínský) a „solí“ je Západ a EU přes Člověka v tísni, Soros a Bill Gates; stávkující za ČT, kteří si „vzali čepičky a hráli si na Večerníčka“, tak podle něj hájí „svobodná média“ placená systémem.
+
+> „Za mě z největší pravděpodobností dostala Šebelová nasypáno. S dalšíma. Aby tohle svinstvo prosazovali. A takhle funguje politika.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (5. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-9-2026), [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ### Politické neziskovky jako „mor, zlo, cholera“; zrušit mediální gramotnost (Rajchl, 25. 10. 2026)
 

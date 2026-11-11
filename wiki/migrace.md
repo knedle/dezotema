@@ -712,7 +712,9 @@ V návaznosti na téma Kosova (viz [Válka, NATO a Rusko](valka-nato-rusko.md#ko
 
 Černohorský tvrdí, že od poloviny roku 2027 (v přepisu uvádí „za 8–10 měsíců") bude Česká republika na základě migračního paktu EU povinna ročně přijímat 30 000 migrantů z Afriky a Blízkého východu, nebo místo toho zaplatit 15 miliard Kč — každý další rok znovu. Vinu za přijetí paktu přisuzuje ministru vnitra Vítu Rakušanovi. Dává to do souvislosti s obecnou kritikou správy státního dluhu (kterou označuje za dluh vytvořený generacemi politiků za posledních 30+ let, ne současnou vládou) a s obavou z opakování situace v Německu, kde má být ve školních třídách až 40 % dětí přistěhovalců.
 
-**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026)
+**6. 11.** — Černohorský opakuje, že „od příštího roku“ bude v ČR 30 tisíc migrantů („verbeže“), za což viní Rakušana, globální kompakty a voliče STAN a ODS; „nestačí nám 700 tisíc Ukrajinců“. Rekapituluje, že od roku 2015 stál vždy „na opačné straně než média“: proti migraci a islámu, proti LGBT a „manželství pro všechno“ (za tradiční rodinu), proti covidovým opatřením, která podle něj média využila k rozdělení společnosti, a proti válečné rétorice Petra Pavla, kterému dnes prý „není cizí ani ruská ropa“. Jako důsledek uvádí porodnost: loni 77 tisíc dětí, z toho 12 % cizinců. Zastánce migrace by „dal do těch táborů, do těch get“ v západní Evropě (viz [stochastický teror](stochasticky-teror.md)).
+
+**Zdroje:** [Černohorský — Facebook Live 27. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-27-8-2026), [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ---
 

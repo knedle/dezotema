@@ -541,7 +541,11 @@ Jiří Černohorský interpretuje demonstraci Milionu chvilek na Letné 2026 nik
 
 **24. 9. (Vrabel)** — Vrabel označuje rozsudek (5,5 roku za podporu terorismu) za „naprosto špatný", protože k žádnému teroristickému činu nedošlo — na rozdíl od islamistů v Evropě, které soudy posílají na psychiatrii. Čermák je pro něj i po propuštění „politický vězeň", protože má čtyřletou podmínku a doznání u soudu bylo jen podmínkou propuštění; za politické vězně považuje i Slávka Popelku a lidi stíhané za odznak „Z" a sebe samého za „odsouzeného z politických důvodů", kterého „likvidují jiným způsobem".
 
-**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
+**6. 11. (Černohorský)** — Černohorský tvrdí, že Čermák nebyl vinen: státní zástupce a soud podle něj nepracovali s fakty, ale s „předpokladem“, že by Čermák a Tušl dokázali zburcovat desítky tisíc lidí k násilí proti politikům. Sám by se na Čermákově místě nepřiznal ani neutíkal, ale „rval by se za svoje práva“; Čermáka přitom odsuzovat nechce. Vinu dává Zítkovi, který podle něj Čermáka udal a nyní ho s Jiřím Hradilem „stalkuje“ (telefonáty s jeho matkou, zveřejnění jejího čísla), čímž ohrožuje jeho podmínku a práci. Na oba sepsal trestní oznámení a předal ho dotčenému, který rozhodne o jeho podání. Zítko se podle něj v posledním telefonátu „usvědčil sám“, že věří, že mluví s pravým Čermákem; kdo věří teorii o „vyměněném“ Čermákovi, je podle něj „idiot“.
+
+> „Tady se nepracuje s fakty. Tady se pracuje, prosím vás, s předpokladem.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026), [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ---
 
@@ -1531,7 +1535,11 @@ Dále uvádí historky o nebankovní půjčce z roku 2010 („když to nebyl Zí
 
 > „Jakýkoliv člověk, který by obelhal tento stát na daních o deset tisíc korun, jde okamžitě do basy. A politici mají na všechno imunitu." — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+**6. 11.** — Černohorský se vrací ke kampeličce, které ČNB odebrala licenci: „banda ODS a STAN pod vedením Petra Fialy“ z ní podle něj vyvedla 660 milionů v hotovosti „v pytli“ a ptá se, zda nešlo o peníze na pomoc Ukrajině. Moderátoři ČT (Jiří Hynek, Fridrichová) a další média se podle něj na nic neptají a o kauze mlčí, stejně jako o tom, že Robert Fico během voleb odletěl soukromě na dovolenou.
+
+> „Viděli jste ze zpravodajství ČT: kam jste, Fialo, dali tohle tady, 660 milionů?“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ---
 
@@ -1539,7 +1547,11 @@ Dále uvádí historky o nebankovní půjčce z roku 2010 („když to nebyl Zí
 
 Černohorský doufá, že „se jednou pět milionů lidí nasere a konečně vezme tu moc do svých vlastních rukou": pokud by si lidé sami zvolili kontrolovatelné a odpovědné zástupce, „nemůže to být horší" než 37 let vlády politiků. Lidé podle něj „ve většině nejsou hloupí" a při skutečné možnosti volby by si „další a další zmrdy" nezvolili. Vysílání ale končí pesimisticky: cituje příspěvek, že až budou Češi „znova narváni do dobytčáků", budou se hádat, „kdo bude u okna" — „tohle je tenhle národ".
 
-**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+**6. 11.** — Jako důkaz „síly lidí“ uvádí, že za Babišovy vlády (2018) skupina dobrovolníků bez stran a bez peněz zastavila Istanbulskou úmluvu (kterou označuje za „ideologii džendru“ s organizací GREVIO řídící 100–150 neziskovek; přeložil ji a důvodovou zprávu zpracoval Zdeněk Chytra, on ji s letáky a peticí předal Ovčáčkovi, Zemanovi a Babišovi), jeden z globálních kompaktů a „manželství pro všechny“ — vše neprošlo ani prvním čtením. Totéž ukazují sbírky na Moravě 2021 a 2024, kde lidé sami rozhodli o penězích bez vlády a výborů. Předčítá „morální kodex“ Společenství Čest a Respekt (čestnost, poctivost, pravdomluvnost, bezúhonnost; zástupci volení na dobu neurčitou a kdykoli odvolatelní „radou kulatého stolu“; lidé by jim určovali i odměny) — „v ústavě nic takového nenajdete“. Ostatní „guru“ scény (Zítko, Bernardy, Vrabel, Volný, Wolfová) podle něj kromě vybírání peněz nikomu konkrétně nepomohli; Štefan Bartoš je podle informací, které má, „jednoznačně vinen“.
+
+> „V čem je síla lidí? […] A udělalo to pár desítek lidí. A pořád to nechcete pochopit.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ---
 
@@ -1709,5 +1721,15 @@ Na divácký dotaz, zda by se opoziční politici neměli spojit, Vrabel odpoví
 > „Je to cesta do pekla, spojit se všichni v politice. To je dobrý jenom pro ty, jako byla pětikoalice, aby se udrželi u koryta.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+
+---
+
+### Kritika vlády bez alternativy — nic lepšího než Babiš, Okamura a Macinka; SPD devět let nic, Konečná u Patriotů „není zrada“ (Černohorský, 6. 11. 2026) {#kritika-bez-alternativy-cernohorsky-6-11-2026}
+
+Černohorský přiznává, že sám kritizuje Babiše i vládu a vývoj se mu nelíbí, ale kritikům na Facebooku vyčítá, že nenabízejí řešení: „Máte něco lepšího než Andrej Babiš, Tomio Okamura a Petr Macinka?“ Psaní komentářů podle něj nic nevyřeší. SPD podle něj za devět let ve Sněmovně nic neudělala, porušovala vlastní návrhy a referendum ani odvolatelnost politiků nepřišly ani teď, když je ve vládě; kdyby pracovala s lidmi a pro lidi, nemusela by se s nikým spojovat. Vstup Kateřiny Konečné k Patriotům naopak hájí: nejde o zradu, ale o politický vývoj — v parlamentu byla osamocená, Patrioti mají sílu a ona slíbila dál hájit sociální program KSČM. Vlastenci se podle něj „označkují jako dobytek“ stranami (SPD, PRO, Trikolora, Svobodní, Stačilo, ČR na prvním místě „s Vrabelem“) a pak se nenávidí a udávají; jako nevyužitou sílu uvádí 600 tisíc lidí hlásících se k moravské národnosti.
+
+> „Kritika? Jasně. Je potřeba. A co dál? Co dál? Co chcete dělat dál?“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ---

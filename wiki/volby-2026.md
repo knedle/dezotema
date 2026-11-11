@@ -51,6 +51,7 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | Piráti / Zdeněk Hřib | ❌ negativní | Jindřich Rajchl | „Extremistická strana“; dobře, že vypadli ze Senátu, Hřibova konfrontační politika bez programu neuspěla | 2026-10-18 | [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | Martin Dvořák (Senát – Hradec Králové) | ❌ negativní | Jindřich Rajchl | „Nejzbytečnější ministr“, „chciválek“, korunu nazval „pidiměnou“; dobře, že neuspěl | 2026-10-18 | [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | ANO (Andrej Babiš) | ❌ negativní | Ladislav Vrabel | Porážka v Senátu jako „odraz vlády“, Babiš „podvodník“, porušil všechny sliby | 2026-10-17 | [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026) |
+| Adriana (kandidátka na prezidentku, příjmení neuvedeno) | ❌ negativní | Jiří Černohorský | Nulové politické zkušenosti, známost i finance; kandidatura „není normální“ | 2026-11-06 | [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026) |
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
 ---
@@ -154,3 +155,17 @@ Tarabová popisuje, že chtěla v Liberci vytvořit silnou „čtvrtou nohu" koa
 Lídr kandidátky Starostové pro Liberecký kraj Lukáš Hájek přišel s nápadem uspořádat před radnicí společné „volební tržiště" všech lídrů kandidátek. Tarabová nápad zprvu vítala jako ukázku slušné politické kultury a přislíbila účast. Následně ale Česká tisková kancelář oslovila k dotazu na povolební spolupráci některé lídry kandidátek — ji ne — a Hájek se v odpovědi vyjádřil, že vylučuje jakoukoliv spolupráci s „extremistickými stranami jako PRO a SPD", jejichž vedení prý „vyvolává strach a nenávist ve společnosti". Tarabová to označuje za nálepkování od člověka, který se s ní nikdy osobně nesetkal ani nemluvil, a kvůli tomu strana PRO z účasti na volebním tržišti odstoupila.
 
 **Zdroje:** [Tarabová — Videoportál: volební tržiště, 16. 9. 2026](_zdroje.md#lenka-tarabová--videoportál-volební-tržiště-16-9-2026)
+
+---
+
+## Prezidentské volby
+
+### Kandidatura „Adriany“ na prezidentku jako „nenormální“; scéna potřebuje jedno známé jméno (Černohorský, 6. 11. 2026) {#adriana-prezidentka-cernohorsky-6-11-2026}
+
+Černohorský odmítá ohlášenou kandidaturu ženy jménem Adriana (příjmení neuvádí) na prezidentku. Může být „úžasná, pracovitá a inteligentní“, ale politické zkušenosti, celostátní známost i finance má podle něj nulové — stejně jako on sám; úřad hlavy státu vyžaduje politické vzdělání a odolnost a nestačí mít „správné názory“. Lidé si podle něj myslí, že může být prezidentem kdokoli, protože na Hradě vidí „stupidní figuru“ Petra Pavla. Připomíná, že v roce 2022 (Mikulčice) předpověděl druhé kolo Pavel–Babiš, protože vlastenecká scéna sbírala podpisy pro pět kandidátů (mj. Bašta) a žádný neměl jednotnou podporu. Pokud scéna nenajde jedno přijatelné, důstojné a známé jméno s jednoznačnou podporou a znovu se rozdrobí, „jsme jednoznačně v hajzlu“.
+
+> „Úřad prezidenta, úřad hlavy státu, na to nestačí být milej, na to nestačí být usměvavej, na to nestačí mít jenom ty správný názory.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
+
+---

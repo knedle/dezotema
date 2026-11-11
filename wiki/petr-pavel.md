@@ -113,7 +113,11 @@ Jiří Černohorský opakovaně shrnuje propojení prezidenta Petra Pavla s Land
 
 **31. 8.** — Černohorský opakuje totéž propojení (veto, Lichtensteinové, Landsmannschaft/Posselt) beze změny a rámuje ho jako „velezradu" — doprovázeno extrémní rétorikou vůči Pavlovi i poradci Petru Kolářovi včetně opakované výzvy k obnovení trestu smrti (→ [stochastický teror](stochasticky-teror.md)).
 
-**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+**6. 11.** — Černohorský sdílí tříminutový výstřih videa o Lichtenštejnech a vracení majetku: Pavel („kripl z Hradu“) podle něj jde s Lichtenštejny „ruku v ruce“, a pokud se nárok prolomí, mohou být Benešovy dekrety „úplně vymazány“ — „konečná“. Média (ČT, Nova, Prima, Seznam, iDNES) to podle něj nezajímá. Proto se ptá, co chtějí lidé 28. října slavit, když „nám nic nepatří“ a republika „už neexistuje“.
+
+> „Jestliže tohle se prolomí, konečná. Konečná. Hotovo.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — FB Live 10. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-10-5-2026), [Černohorský — FB Live 13. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-13-5-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026), [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ---
 

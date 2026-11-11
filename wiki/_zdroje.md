@@ -6032,3 +6032,11 @@
 - **Datum záznamu:** 2026-11-07
 - **Zpracováno:** ano
 - **Poznámka:** 8 min, monolog po delší pauze (pracovní zakázky); bez predikcí a stochastického teroru.
+
+## Jiří Černohorský — Facebook Live 6. 11. 2026 {#jiří-černohorský--facebook-live-6-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-06_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/2394764341293398>
+- **Datum záznamu:** 2026-11-06
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 38 min, vysílá z auta (na hlavním profilu mu Facebook zablokoval živé vysílání); závěr sbírky pro T. Vlasákovou a I. Rosickou a písně (Ortel).
