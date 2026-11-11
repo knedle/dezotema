@@ -1313,7 +1313,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **Stav:** 🕐 Čeká na vyhodnocení
 **5. 10.** — Zítko opakuje: mírová smlouva po válce na Ukrajině stanoví i nové hranice států a uzavřou ji vítězné mocnosti (Trump, Putin, Si, Módí).
 **23. 10.** — Zítko dodává, že díky „československým“ dětem Trumpa bude obnova ČSR v dohodě vítězných mocností s Putinem „už jen formalitou“.
-**Zdroj:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026)
+**25. 10.** — Putin se podle Zítka „na 99,9 %“ vyjádřil, že Československo bude obnoveno; Gates, Bourla a Rutte se budou „zodpovídat ze zločinů proti lidskosti“ v Nizozemsku.
+**Zdroj:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
 
 ---
 

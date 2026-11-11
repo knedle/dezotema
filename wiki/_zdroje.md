@@ -6120,3 +6120,11 @@
 - **Datum záznamu:** 2026-10-23 (soubor datován 25. 10.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 28 min, večerní vysílání (Večerníček: Josef Lada, „Liška se stává slavnou“ — nezpracováno).
+
+## Československo TV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026) {#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-26_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=2278942652674419&_rdr>
+- **Datum záznamu:** 2026-10-25 (soubor datován 26. 10.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 46 min, nedělní vysílání „Korporace Polsko a podvod s rozdělením Československa 11:11“; pozvánka do Holýšova 30. 10. – 1. 11. (logistika nezpracována). Druhá polovina přepisu zpracována podle shrnutí pomocného agenta.

@@ -653,7 +653,11 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 **3. 10.** — Zítko ohlašuje „hearing“ 22. října v Amsterdamu, kde mají Gates, Bourla a Rutte usednout na lavici obviněných. Tým vede podle něj advokát Peter Stassen, jako svědek vystoupí bývalý viceprezident Pfizeru Mike Yeadon a „báječné“ by bylo, kdyby byl do té doby propuštěn Reiner Fuellmich. Proces má být „signálem“ i pro Prymulu, Kubka, Flegra, Chlíbka a „další gaunery, kteří tu prováděli vakcinační holokaust, genocidu národa a sterilizaci“. Zmiňuje i „Čákovu věštbu“ o Amsterdamu, kalendáře, které „končí 4. října a začínají 15.“, a Trumpovo „to začne v pondělí“.
 
-**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+**25. 10.** — Zítko tvrdí, že advokát Peter Stassen 22. 10. v Nizozemsku použil „úplně stejnou argumentaci“ jako on u okresního soudu v Chomutově v roce 2024: injekce covid-19 jsou podle definice Francise Boylea biologickou zbraní hromadného ničení, kterou se v ČSR „pokusili vyhladit původní obyvatelstvo“, sterilizovat ho a udělat z lidí doživotní klienty farmacie. Od 12. 3. 2020 se podle něj v nemocnicích „zabíjelo“ remdesivirem, na ventilátorech umíralo 8 z 10 lidí a virus nebyl nikdy izolován; Gates, Bourla a Rutte „se budou zodpovídat ze zločinů proti lidskosti“.
+
+> „Probíhala tady genocida původního československého obyvatelstva a probíhala tady sterilizace a vyhlazování Čechoslováků injekcemi biologické zbraně.“ — Pavel Zítko
+
+**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
 
 ---
 
