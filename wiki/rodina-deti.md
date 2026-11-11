@@ -146,7 +146,11 @@ Výrok na konci pasáže (lidé podílející se na této agendě „by potřebo
 
 > „Budu jmenovat tu ředitelku školy, budu jmenovat tu třídní učitelku [...] budu jmenovat tu státní zástupkyni z Prahy, budu jmenovat tu soudkyni a budu jmenovat i tu lékařku, tu psychiatričku, všechny je budu jmenovat." — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Facebook Live: kauza Vlasáková (5. 10. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026), [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+**7. 11.** — Černohorský „s plnou odpovědností“ opakuje, že proti Vlasákové a jejím dcerám (9 a 13 let) běží spiknutí: lékařka-psychiatrička prý psala falešné zprávy o jejím psychickém stavu, vyúčtovala pojišťovně neprovedené úkony za zhruba 120–150 tisíc a předepisovala dávky léků, které ji mohly trvale poškodit; dále ředitelka a třídní učitelka Linhartová, OSPOD, policie (původní udání pro distribuci drog bylo podle něj záměnou s podobnou ženou), státní zástupkyně, která je prý tetou exmanžela Kamila Vlasáka, soudkyně a GIBS, která stížnost poslala k prošetření samotnému policistovi. Motivem má být pomsta exmanžela („narcis“, který ji prý kopal do hlavy) a získání dětí i majetku (dva domy). Líčí noční kontrolu, při níž policisté test na drogy položili na palubní desku a přivolali posilu v taktických rukavicích, nehodu, kterou podle něj úmyslně způsobila Varhanová a odjela bez následků, a výslech starší dcery ve škole bez vědomí matky. Někdo z policie podle něj předal Vlasákovi jeho telefon a adresu; Příbramsko je „stát ve státě“. Tři právníci prý případ odmítli, právníka se podařilo sehnat až po přechodu z WhatsAppu na jinou aplikaci. Varhanovou a její kamarádku chce žalovat pro pomluvu.
+
+> „Tak vám říkám, říkám s plnou zodpovědností a s plným vědomím, že je tam spiknutí proti Tereze Vlasákové.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Facebook Live: kauza Vlasáková (5. 10. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026), [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 
 ---
 
@@ -285,3 +289,15 @@ Rajchl reaguje na vyjádření ministryně spravedlnosti Evy Decroix (ODS), kter
 ⚡ **Poznámka:** Přesné znění a kontext vyjádření Evy Decroix, na které Rajchl reaguje, nelze z přepisu ověřit.
 
 **Zdroje:** [Rajchl — Videoportál 10. 9. 2026](_zdroje.md#jindřich-rajchl--videoportál-10-9-2026)
+
+---
+
+### Rodiče, kteří dceru věznili v psí boudě, odešli s podmínkou — „nemají právo na život“, obnovit trest smrti; „nežijeme v právním státě“ (Černohorský, 7. 11. 2026) {#psi-bouda-trest-smrti-cernohorsky-7-11-2026}
+
+Černohorský reaguje na příspěvek Davida Škardy o rodičích, kteří prý přes tisíc dní věznili svou 14letou dceru v psí boudě. Podle něj dostali v prvním stupni tři a dva roky natvrdo, ale po odvolání jen podmínku, protože dosud nebyli trestáni, a dívce mají zaplatit 500 tisíc korun, což při celoživotním traumatu považuje za výsměch. Takové lidi by „popravil elektrickým křeslem“ a trest smrti by obnovil: kdo ublíží dítěti, „nemá právo na život“. Na vlastní zkušenosti (jako mladý otec jednou dceru zbil a od té doby nikdy) ukazuje, že takové jednání si normální člověk nedovede představit. Soudce, kteří dávají podmínky za týrání či znásilnění dětí, označuje za „kvíči“, která do justice nepatří, i když v každém oboru jsou podle něj i skvělí profesionálové. Případ je pro něj důkazem, že „nežijeme v právním státě“ (viz [stochastický teror](stochasticky-teror.md)).
+
+> „Jestliže ublíží někdo dítěti, tak nemá právo na život. Hotovo. Tečka.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
+
+---

@@ -1733,3 +1733,13 @@ Na divácký dotaz, zda by se opoziční politici neměli spojit, Vrabel odpoví
 **Zdroje:** [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 
 ---
+
+### „Nemáte peníze, nemáte spravedlnost“ — případ Ivy Rosické (Černohorský, 7. 11. 2026) {#nemate-penize-nemate-spravedlnost-cernohorsky-7-11-2026}
+
+Černohorský tvrdí, že spravedlnosti se v ČR dovolá jen ten, kdo má na právníka. Jako příklad uvádí Ivu Rosickou, která se věnuje hipoterapii pro postižené děti a podle něj ji léta „šikanuje a terorizuje“ nejmenovaný bohatý muž, neúspěšný kandidát ve volbách za stranu, „kterou moc nemilujeme“; ten ji kvůli příspěvku, v němž nebyl jmenován, žaluje o 200 tisíc za ochranu osobnosti. Advokáti ex offo jako za socialismu podle něj neexistují a bezplatní právníci nebudou bojovat „s plnou vervou“ v době „mamonu a konzumního života“. Odpověď na předžalobní výzvu sepsal s pomocí AI (s upozorněním, že AI je nutné vždy ověřovat), čímž se požadovaná částka snížila o 100 tisíc. Pomoc spolku a sbírky obhajuje proti námitce, že „nahrazuje stát“: stát to podle něj nedělá a dělat nebude.
+
+> „Jakmile nemáte peníze, tak se spravedlnosti nedovoláte.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
+
+---

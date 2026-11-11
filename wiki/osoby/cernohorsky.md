@@ -55,6 +55,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 10.** — spory ve vlastenecké scéně (Bernardy, Tušl, Novas, Vidra, Galligardy); Babišova vláda „nic nevyšetřuje" (dluh 4 bil., bitcoin, Dozimetr, Kampelička, Lex Ukrajina); „až se nasere 5 milionů lidí" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) → [politicky-system.md](../politicky-system.md)
 - **20. 10.** — příspěvek profilu Čermáka potvrzuje, že ho udal Zítko („vykoupil se“); rekapitulace Zítkových „podvodů“ (Lexus Tycoon 69, andělské hlídky, fény, prezidentská sbírka 750 tis.); výzva k hromadnému trestnímu oznámení; spolek má 800 tis., „nevzal ani korunu“ → [politicky-system.md](../politicky-system.md) — [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 - **6. 11.** — Čermák odsouzen „za předpoklad“, vinen je Zítko, trestní oznámení na Zítka a Hradila; kampelička 660 mil. a mlčení ČT; Pavel a Lichtenštejnové (→ [petr-pavel.md](../petr-pavel.md)); lobbisté a „milion na Kajmany“, Šebelová (→ [fara-neziskovky.md](../fara-neziskovky.md)); kritika vlády bez alternativy, SPD nic, Konečná „není zrada“; síla lidí (Istanbulská úmluva 2018) a morální kodex Společenství — [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
+- **7. 11.** — „nemáte peníze, nemáte spravedlnost“ — žaloba na Ivu Rosickou, odpověď s pomocí AI — [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -182,6 +183,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **2. 10.** — homofobní a sexistické výroky (Prague Pride, „ekofeministické krávy") — [Reels: chemtrails a Prague Pride (2. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
 - **5. 10.** — kauza Vlasáková: nehoda způsobená „záměrně", šikana policie, „domluvená banda" na Příbramsku; spolek platí advokátku — [Facebook Live: kauza Vlasáková (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026)
 - **5. 10. (2)** — Vlasáková: přepsaný InfoSoud, zmanipulovaný drogový test dcery, obsílka 13leté dceři; slib jmenovat všechny aktéry; sbírka na advokátku — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+- **7. 11.** — rodiče dívky z psí boudy s podmínkou „nemají právo na život“, obnovit trest smrti; kauza Vlasáková — lékařka, škola, OSPOD, policie, teta-státní zástupkyně, soudkyně a GIBS ve „spiknutí“, Příbramsko „stát ve státě“ — [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
@@ -226,6 +228,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 10.** — Stanjura „svině… jak je možný, že je na svobodě"; Facebookáři „rozbije bejsbolkou palici" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
 - **20. 10.** — Zítko „zmrd skurvenej“, „kripl“; „s chutí bych ti namazal skluzavku“ do kriminálu „aspoň na 5–6 roků“ — [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 - **6. 11.** — Rakušan „rozbít rypák… do kriminálu s ním“; Zítko a Hradil „dobytek“, Zítko „3–4 roky v kriminále“; „verbež“ a zastánci migrace „do get“ — [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
+- **7. 11.** — rodiče z psí boudy „popravit elektrickým křeslem“; „skurvená verbež“; Varhanová „svině“, Vlasák „zmrd“ — [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 
 ---
 
@@ -454,6 +457,13 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Renata Bernardy | ❌ negativní | Má vlastní médium placené lidmi, nikomu nepomohla; „zmrd“ | 2026-11-06 | [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026) |
 | Štefan Bartoš | ❌ negativní | „Vyměnil pravdu za lež“, podle jeho informací „jednoznačně vinen“ | 2026-11-06 | [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026) |
 | Robert Fico | ❌ negativní | „Kašpar“, během voleb odletěl na dovolenou | 2026-11-06 | [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026) |
+| David Škarda | ✅ pozitivní | Zveřejnil případ dívky v psí boudě, „se mnou to mává stejně“ | 2026-11-07 | [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026) |
+| Iva Rosická | ✅ pozitivní | „Veliká vlastenka s velikým srdcem“, pomáhá postiženým dětem; chyba je, že „všechno jede přes mír“ | 2026-11-07 | [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026) |
+| Tereza Vlasáková | ✅ pozitivní | „Úžasná mamina“, oběť spiknutí úřadů | 2026-11-07 | [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026) |
+| Kamil Vlasák | ❌ negativní | „Zmrd“, „narcis“, „psychopat“, který ji kopal do hlavy | 2026-11-07 | [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026) |
+| Varhanová | ❌ negativní | „Mrcha“, „svině“, úmyslně do Vlasákové narazila | 2026-11-07 | [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026) |
+| Linhartová (třídní učitelka) | ❌ negativní | Vyslýchala dceru Vlasákové bez vědomí matky | 2026-11-07 | [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026) |
+| Pavel Zítko | ❌ negativní | „Já nejsem Zítko… nejsem žádná svině, která by zneužívala dobro lidí“ | 2026-11-07 | [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026) |
 
 ---
 
@@ -528,3 +538,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Havel jako národní památka (6. 10. 2026)](../_zdroje.md#jiří-černohorský--reels-havel-národní-památka-6-10-2026)
 - [„Jedenáctiletý opět nazvracel na Zítka“: Zítko udal Čermáka (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 - [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
+- [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)

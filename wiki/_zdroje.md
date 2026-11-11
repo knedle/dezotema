@@ -6040,3 +6040,11 @@
 - **Datum záznamu:** 2026-11-06
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 38 min, vysílá z auta (na hlavním profilu mu Facebook zablokoval živé vysílání); závěr sbírky pro T. Vlasákovou a I. Rosickou a písně (Ortel).
+
+## Jiří Černohorský — Facebook Live 7. 11. 2026 {#jiří-černohorský--facebook-live-7-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-07_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1457811973161301>
+- **Datum záznamu:** 2026-11-07
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 17 min, z auta; hlavním účelem je sbírka na právní pomoc pro Ivu Rosickou a Terezu Vlasákovou; na závěr píseň J. Jorka „Pětihlavá saň“.
