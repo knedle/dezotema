@@ -57,6 +57,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **18. 10.** — smrt matky (banální bolest břicha, do 3 týdnů mrtvá) jako impulz k vysílání; remdesivir zabil 53 % při ebole, v USA 100 000 $ za „zabití pacienta“ → [covid-vakciny.md](../covid-vakciny.md) — [Živě na kanálu Jana Peterková: „přiznání viny“ (18. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přiznání-viny-18-10-2026)
 - **20. 10.** — Naomi Wolf: děti očkovaných pod 2 kg, přes 80 % potratů, placebo pro politiky, cílem „depopulace“ — [Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 - **25. 10.** — Stassen v Nizozemsku „stejná argumentace“ jako on v Chomutově; remdesivir a ventilátory, „vyhlazování Čechoslováků“ — [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
+- **24. 10.** — Gates, Bourla a Rutte na lavici obžalovaných, „kam patří“; Fuellmich „Norimberk 2“ — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -114,6 +115,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **20. 10.** — výzva „falešnému Čermákovi“ k živé konfrontaci (s Hradilem, na alternativnimedia.cz); 27. 8. 2023 jen „popovezli“ na Moravu, zásah komanda 3. 2., telefony vráceny 15. 10.; Bernardy i Tušl dřív tvrdili, že ho udala žena → [kauzy.md](../kauzy.md) — [Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 - **23. 10.** — cesta do Holýšova za „údajným“ Čermákem, žádost o číslo; obvinění z udání jako „policejní akce“, protokol z výslechu — [ČsTV2 — Živě 23. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026)
 - **25. 10.** — Bernardy „v centru útočné formace“, Šalingrad „brainwashing“; schůzku 1:1 odmítá, „několikrát se mě pokusili zabít“ — [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
+- **24. 10.** — Bernardy „lhářka a manipulátorka“, „pět lží za pět minut“ v rozhovoru Čermáka; vlastní kauzy (Ústí zrušilo rozsudek, 110 dní vazby), E-Medic „ani korunu“ (→ [predikce](../predikce.md)) — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -198,6 +200,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **20. 10. (2)** — stanné právo pod Trumpem, „500 tisíc rozsudků k vykonání“, Gates popraven 2013, proces v Leeuwardenu 22. 10.; Q: „operace dokončena“; QFS/CESTUI QUE VIE, konec dluhů s pádem bank; midterms „nemusí proběhnout“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md), [predikce.md](../predikce.md) — [Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 - **23. 10.** — „žebříček zlodějin“ (bitcoin, „zrada 1992“, „genocida“), dluh 3,79 bil. a lidé jako zástava, obnova ČSR „formalitou“ díky Trumpovým dětem; „festival dvojníků“ — popravení politici a celebrity, 200 tis. Trumpových dvojníků, Kubrick, McDonald's (→ [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 23. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026)
 - **25. 10.** — Polsko a ČR jako korporace (D&B), padělaný státní znak, rozdělení ČSFR nulitní (Havel „křivopřísežník“, Tugendhat, reparace 29 bil.), privatizace jako zločin, obnova ČSR „na 99,9 %“ podle Putina (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
+- **24. 10.** — nevěří kulaté Zemi, letům do vesmíru ani oficiálnímu 11. září; „velké odhalení“ dvojníků Pavla, Zemana a Babiše — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -221,6 +224,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **6. 10.** — Facebook zablokoval živá vysílání do 5. 11. (záminka ivermektin), návrat na ČsTV2, varování před klonem — [Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](../_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026)
 - **8. 10.** — blokace živého vysílání na všech profilech, „Pavel Q Zítko“ musí čekat 60 dní; vysílá ze záznamu — [Pozvánka: blokace všech profilů (8. 10. 2026)](../_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026)
 - **25. 10.** — Facebook „seká“ vysílání, přechod na alternativnimedia.cz — [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
+- **24. 10.** — Facebook „nástroj CIA“, platforma 130 alternativních médií — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 
 ---
 
@@ -431,6 +435,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Václav Klaus, Vladimír Mečiar, Jan Stráský | ❌ negativní | Protiprávně rozdělili Československo | 2026-10-25 | [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026) |
 | Patrik Tušl, Jiří Černohorský, Patrik Svoboda | ❌ negativní | Součást „útočné formace“ proti Zítkovi | 2026-10-25 | [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026) |
 | Vladimir Putin | ✅ pozitivní | Prý „na 99,9 %“ potvrdil obnovu Československa | 2026-10-25 | [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026) |
+| Renata Bernardy | ❌ negativní | „Lhářka a manipulátorka“, „úplně blbá“, krmená tajnými službami | 2026-10-24 | [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026) |
+| Reiner Fuellmich | ✅ pozitivní | „Největší bojovník proti covidovým zločincům“ | 2026-10-24 | [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026) |
+| Bob Acer (Robert Javora) | ✅ pozitivní | Jeho text Zítka hájí, Zítko ho přebírá | 2026-10-24 | [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026) |
+| Bartkovský (Reflex) | ❌ negativní | „Velký hovado“ | 2026-10-24 | [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026) |
 
 ---
 
@@ -550,3 +558,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 - [ČsTV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026)
 - [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
+- [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)

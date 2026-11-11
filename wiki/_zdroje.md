@@ -6128,3 +6128,11 @@
 - **Datum záznamu:** 2026-10-25 (soubor datován 26. 10.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 46 min, nedělní vysílání „Korporace Polsko a podvod s rozdělením Československa 11:11“; pozvánka do Holýšova 30. 10. – 1. 11. (logistika nezpracována). Druhá polovina přepisu zpracována podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026) {#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-26_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1839659974150582&_rdr>
+- **Datum záznamu:** 2026-10-24 (soubor datován 26. 10.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 52 min, třetí díl „večerníčkové trilogie“ (pohádka o chytré kmotře lišce — nezpracováno); část čte text Boba Acera; zpracováno podle shrnutí pomocného agenta.

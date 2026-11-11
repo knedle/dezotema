@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — „nepravý“ Čermák na setkání v Holýšově nepřijde (24. 10. 2026)
+
+**Předpověď:** Pokud muž propuštěný 24. 9. není skutečný Tomáš Čermák, na setkání v Holýšově 30. 10. – 1. 11. nepřijde; účast bude „podstatně vyšší“ než 70 lidí v Liberci. Zároveň slibuje „velké odhalení“ dvojníků Pavla, Zemana a Babiše.
+
+> „Pokud není pravý Tomáš Čermák, tak za boha na to setkání nebude chtít přijít.“ — Pavel Zítko
+
+**Horizont:** 30. 10. – 1. 11. 2026 (odhalení dvojníků neurčeno)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
+
+---
+
 ### Jindřich Rajchl — po zrušení poplatků se „za rok, za dva“ nestane nic; vítězství PiS udělá z Polska hybatele rozštěpení EU (1. 11. 2026)
 
 **Předpověď:** Pokud vláda změnu financování ČT prosadí, do roka či dvou se ukáže, že „se nestalo vůbec nic“, a hysterie skončí. Pokud v polských volbách vyhraje PiS s Konfederacemi, Polsko bude „hlavním hybatelem rozštěpení Evropské unie“.

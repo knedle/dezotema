@@ -251,7 +251,11 @@ Pavel Zítko označuje přistání na Měsíci (Apollo) za historický podvod a 
 
 **20. 7. 2026** — U příležitosti 57. výročí přistání na Měsíci Zítko tvrzení zopakoval beze změny (Kubrick, chybějící hvězdy na snímcích, vlající vlajka, otisk boty neodpovídající podrážce).
 
-**Zdroje:** [Zítko — COVID tour ohlášení, 2026-04-02](_zdroje.md#pavel-zítko--covid-tour-ohlášení-2-4), [Pavel Zítko — Videoportál: výročí měsíčního podvodu 20. 7. 2026](_zdroje.md#pavel-zítko--videoportál-výročí-měsíčního-podvodu-20-7-2026)
+**24. 10. (Zítko)** — Zítko prohlašuje, že nevěří, že je Země kulatá, že Američané byli ve vesmíru, ani oficiální verzi 11. září, a že je mu jedno, co si myslí většina.
+
+> „Je mi úplně jedno, jestli si většina myslí, že Země je kulatá, že Američani byli ve vesmíru […] tak těmhletěm kokotinám já vůbec nevěřím.“ — Pavel Zítko
+
+**Zdroje:** [Zítko — COVID tour ohlášení, 2026-04-02](_zdroje.md#pavel-zítko--covid-tour-ohlášení-2-4), [Pavel Zítko — Videoportál: výročí měsíčního podvodu 20. 7. 2026](_zdroje.md#pavel-zítko--videoportál-výročí-měsíčního-podvodu-20-7-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 
 ---
 

@@ -657,7 +657,9 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 > „Probíhala tady genocida původního československého obyvatelstva a probíhala tady sterilizace a vyhlazování Čechoslováků injekcemi biologické zbraně.“ — Pavel Zítko
 
-**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
+**24. 10.** — Zítko tvrdí, že Gates, Bourla a Rutte „konečně seděli na lavici obžalovaných, kam patří“; Reinera Fuellmicha, který podle něj třetím rokem sedí ve věznici v Lingenu (protestovalo tam asi 200 lidí), označuje za „největšího bojovníka proti covidovým zločincům“ a „Norimberk 2“. Vakcíny jsou podle něj „depopulační jen pro lid, ne pro poslance“.
+
+**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 
 ---
 
