@@ -658,3 +658,13 @@ Ke zprávě, že prezident Pavel 28. 10. udělil medaili youtuberovi za vysvětl
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 
 ---
+
+### Vyznamenání 28. října jako „fraška“: Hřebejk místo Zemana a Kundery; na Hrad nepůjde, dokud tam je „komunistický rozvědčík“ (Rajchl, 1. 11. 2026) {#vyznamenani-hrebejk-rajchl-1-11-2026}
+
+Rajchl tvrdí, že Pavel v projevu 28. října „zmotal“ Den české státnosti (28. září) se dnem vzniku Československa, což je další „degradace“ úřadu. Výběr vyznamenaných označuje za „frašku“: oceněn byl režisér Jan Hřebejk, kterého nazývá „notorickým alkoholikem“ a „ochlastou“ a jenž podle něj napsal, že „jsme propásli možnost vybombardovat hotel Štekl“, kde slavil Miloš Zeman s Ficem, Orbánem, Babišem i Rajchlem — což Rajchl vykládá jako výzvu k atentátu na politiky. Oceněn byl i fact-checker, „mladý svazák“, zatímco Zeman ani Milan Kundera ne; u Kundery spekuluje, že na něj Pavel jako příslušník rozvědky „možná chtěl získávat informace“. Na Hrad chodit nebude, dokud tam bude „komunistický rozvědčík“, který roku 1987 v životopise souhlasil s okupací. Současně kritizuje, že policie prověřuje komentáře pod jeho příspěvkem o Báře Stárkové, zatímco výroky typu Hřebejkova zůstávají bez trestu; komentujícím nabízí bezplatnou právní pomoc a k věci chystá interpelaci ministra vnitra Metnara.
+
+> „My na jednu stranu oceňujeme člověka, který tady reálně vyzývá k atentátu na politické představitele, na druhé straně budeme trestněprávně stíhat […] nějaké komentující jedince na mém facebookovém profilu.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+
+---

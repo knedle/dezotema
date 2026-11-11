@@ -205,7 +205,11 @@ Moláčkův výrok, že je třeba „pohlídat, aby se v ČT nevylíhlo kukačč
 
 > „Moláček, kdyby byl za komunismu, tak vám garantuju, že udělal kariéru, protože slepě jednoznačně prosazuje jenom a pouze názor strany a vlády.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+**1. 11.** — Rajchl prohlašuje, že v otázce poplatků „neuhne ani o centimetr“, a navrhuje ve druhém čtení snížit rozpočet ČT na 1,5 miliardy na zpravodajství a publicistiku, zbytek z dobrovolných poplatků. ČT podle něj „není zárukou demokracie“ — tou je svoboda projevu —, jde jen o „8 miliard v příšeří“, které si „rodinné klany“ a „parazité“ rozdělují v externích kontraktech; na reportáž prý jezdí pět lidí místo dvou. Jako příklady uvádí Izrael (veřejnoprávní KAN placená z rozpočtu, uvažuje se o privatizaci, a tvrdší zákon FARA), 17 zemí EU bez poplatků (s ČR, Polskem a Slovinskem by jich bylo 20 z 27) a Nizozemsko, kde škrty 150 mil. eur nikoho nezajímají. Mandát má vláda od voličů, protesty jsou „frustrace menšiny, která prohrála volby“; jeho vlastní protesty proti Fialově vládě byly legitimní, protože ta podle něj vyhrála „podvodem“. Studentům vyčítá, že demonstrují za poplatky a odstřižení od ruského plynu, které sami neplatí („mama hotel“); kvůli zákazu vstupu ministrům Šťastnému a Klempířovi na DAMU navrhne zastavit její financování. Mikuláše Mináře znovu označuje za člověka, který „zdefraudoval“ 7 milionů a „měl by sedět ve vězení“, a za „sraba“, který se „vylhal“ z debaty pořádané Novinkami.
+
+> „Česká televize není zárukou demokracie. To je lež, kterou tady neustále šíří libtardi, kteří nemají žádný věcný argument.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Jan Moláček překročil všechny meze (22. 10. 2026)](_zdroje.md#jindřich-rajchl--moláček-překročil-všechny-meze-22-10-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 
 ---
 
@@ -273,7 +277,11 @@ Krátké video na Vrabelově kanálu tvrdí, že v americké veřejné databázi
 
 Rajchl kritizuje selektivní aplikaci mediálních kampaní. Mediální útok na aktivistku Natálii Vachatovou označuje za „bolševický lynč", zatímco jeho vlastní příspěvek o novinářce Saše Uhlové prý nebyl výzvou k jejímu odvolání, ale kritikou „servilní mentality" vůči ukrajinskému narativu. Uhlová v DVTV tvrdila, že české děti zabírají místa na středních školách těm ukrajinskými — Rajchl to označuje za šílenou logiku, příznačnou pro část novinářů.
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
+**1. 11.** — K reakcím na svůj příspěvek o Báře Stárkové (Starkové), jedné z tváří protestů za ČT, Rajchl trvá na tom, že napsal jen „holá fakta“: prošla Aspen Institute a v roce 2025 tam získala ocenění pro mladé lídry. Aspen je podle něj „novodobá VUML“, která si testuje a „vymývá hlavy“ mladým kádrům, „eurokomsomolcům“, a pak je s penězi a médii vysílá do jednotlivých států — „geniální systém, klobouk dolů“. Hysterie kolem příspěvku podle něj prozradila, že protest „není spontánní“, ale řízený ze zahraničí. Odpůrcům (Štít demokracie, Milion chvilek) vyčítá „štvavé kampaně“ s nálepkami „nácek“ a „zloděj“ na Babiše, Turka, jeho samého a jeho rodinu a zejména „bolševický“ lynč Natálie Vachatové kvůli bratrovi v Rusku včetně zveřejnění adresy její rodiny.
+
+> „Aspen je VUML, novodobým VUML, který si řídili oni, velmi chytře, pozor, to si musí nechat.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 
 ---
 

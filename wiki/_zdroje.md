@@ -6048,3 +6048,11 @@
 - **Datum záznamu:** 2026-11-07
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 17 min, z auta; hlavním účelem je sbírka na právní pomoc pro Ivu Rosickou a Terezu Vlasákovou; na závěr píseň J. Jorka „Pětihlavá saň“.
+
+## Jindřich Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026) {#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-01_Jindřich-Rajchl_Pokus-o-puč-v-Polsku-Rusové-zpět-na-MS-koncesionářské.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1104479568871968>
+- **Datum záznamu:** 2026-11-01
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 2 min, pravidelné nedělní vysílání („Pokus o puč v Polsku, Rusové zpět na MS, koncesionářské poplatky a uměle vyvolaná hysterie aspenovské kliky politických neziskovek v ČR“); až 4 100 diváků.

@@ -1438,7 +1438,11 @@ Rozhodnutí Mezinárodního sportovního arbitrážního soudu (CAS), že ruská
 
 > „Jste pokrytci a farizejové, nic víc, nic míň.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026)
+**1. 11.** — V nedělním vysílání Rajchl tezi rozvádí: jako bývalý sportovec a komentátor NFL by nechtěl vyhrát turnaj bez favoritů a připomíná olympiádu v Soulu 1988, která podle něj po bojkotech Moskvy a Los Angeles přispěla k ukončení studené války. Ruští hráči sdílejí kabiny v NHL a zákaz startu je „kolektivní vina“. ČR podle něj není s Ruskem ve válce, jde o konflikt podobný studené válce, a v historii nikdo nevylučoval sportovce kvůli válkám vlastní země (Afghánistán, Libye, Falklandy); útok USA na Írán bez mandátu RB OSN je podle něj „z právního hlediska naprosto totožný“ s útokem Ruska na Ukrajinu. Kritikům vyčítá dvojí metr: rozhodnutí Ústavního soudu o cestě Pavla do Ankary se „musí respektovat“, rozhodnutí CAS chtějí bojkotovat. Mistrovství by využil k apelu na příměří; chválí Filipa Turka, s nesouhlasem ministra Šťastného (Motoristé) se míjí.
+
+> „Tak buď tedy respektujeme všechno, nebo nic.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 
 ---
 

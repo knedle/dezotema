@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — po zrušení poplatků se „za rok, za dva“ nestane nic; vítězství PiS udělá z Polska hybatele rozštěpení EU (1. 11. 2026)
+
+**Předpověď:** Pokud vláda změnu financování ČT prosadí, do roka či dvou se ukáže, že „se nestalo vůbec nic“, a hysterie skončí. Pokud v polských volbách vyhraje PiS s Konfederacemi, Polsko bude „hlavním hybatelem rozštěpení Evropské unie“.
+
+> „Protlačíme tu změnu, tak všichni po roce, po dvou letech uvidí, že se nestalo vůbec nic a bude po hysterii.“ — Jindřich Rajchl
+
+**Horizont:** 1–2 roky; polské parlamentní volby 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+
+---
+
 ### Ladislav Vrabel — trvalý mír nebude dosažen ani v Abú Zabí, ani na schůzce USA–Rusko–Čína v Šen-čenu (7. 11. 2026)
 
 **Předpověď:** Jednání v Abú Zabí ani schůzka USA, Ruska a Číny na summitu APEC v Šen-čenu nepřinesou trvalé ukončení války; Rutteho „kompromisní mír“ považuje za nereálný, dokud nebude Ukrajina „denacifikována“ a odzbrojena.
