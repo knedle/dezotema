@@ -6064,3 +6064,11 @@
 - **Datum záznamu:** 2026-11-01
 - **Zpracováno:** ano
 - **Poznámka:** 4 min, upoutávka na nedělní vysílání; opakuje tezi o Stárkové/Aspenu a Minářovi bez posunu (jen zdroj).
+
+## Jindřich Rajchl — „Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026) {#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-02_Jindřich-Rajchl_Tak-tady-to-máte.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/2226993621580752>
+- **Datum záznamu:** 2026-11-02
+- **Zpracováno:** ano
+- **Poznámka:** 7 min; navazuje na příspěvek o Báře Stárkové a Aspenu.

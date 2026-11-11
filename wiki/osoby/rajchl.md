@@ -19,6 +19,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - Autor návrhu zákona FARA, kritika politických neziskovek financovaných ze zahraničí — [FARA: autorství a srovnání (29. 3. 2026)](../_zdroje.md#jindřich-rajchl--zákon-fara-autorství-a-srovnání-se-zahraničím)
 - **19. 7.** — ultimátum: dává vládě čas do podzimu předložit zákon FARA, jinak ho předloží sám; neziskovky (Člověk v tísni, Milion chvilek) jako ohrožení demokracie bez volebního mandátu — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - **25. 10.** — politické neziskovky „mor, zlo, cholera“, „vyhnat karabáčem a bičem“ (→ [stoch. teror](../stochasticky-teror.md)); zrušit mediální gramotnost, číst lze cokoli (TASS, Al Jazeera, Fox) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+- **2. 11.** — spolek Díky, že můžeme financují Soros (83 tis. eur na „Samet ve školách“), Obama Foundation a sponzoři STAN; protesty za ČT jako pokus svrhnout vládu; „politické neziskovky musí být zničeny“ (→ [stochastický teror](../stochasticky-teror.md)) — [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Dozimetr (parlamentní komise, Fremr/Rakušan KryptoCalt výpověď, nominace do vyšetřovací komise), Hřib (neoprávněné příjmy), Kettner (AI fotografie), dvojí metr justice (Pšenák/Hedia) — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
@@ -565,6 +566,13 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Filip Turek | ✅ pozitivní | „Klobouk dolů“, odvážně podpořil start Rusů | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026) |
 | Boris Šťastný | ⚖️ rozporuplný | Respektuje jeho jiný názor na start Rusů; DAMU mu zakázala vstup | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026) |
 | Jan Moláček | ❌ negativní | Stížnost k Radě ČT za porušení etického kodexu | 2026-11-01 | [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026) |
+| Bára Stárková | ❌ negativní | Její spolek financují Soros, Obama Foundation a sponzoři STAN | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
+| George Soros, Alexander Soros | ❌ negativní | Financují Aspen a spolek Díky, že můžeme; Alexandra přijal Pavel | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
+| Jan Barta | ❌ negativní | Sponzoruje spolek Díky, že můžeme, STAN i Pavla | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
+| Danuše Nerudová | ❌ negativní | Zastává se Stárkové, protože mají „stejného sponzora“ | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
+| Klára Laurenčíková | ❌ negativní | Seznámila Stárkovou s Obama Foundation | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
+| Jindřich Šídlo | ❌ negativní | Sedí se Stárkovou v porotě ceny Františka Kriegla | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
+| Tomas Paukner, Matouš Svoboda | ✅ pozitivní | Poskytli informace o financování spolku | 2026-11-02 | [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026) |
 
 ## Zpracované zdroje
 
@@ -715,3 +723,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](../_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026)
 - [Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 - [„Ťal jsem do živého“: Stárková a Aspen (1. 11. 2026)](../_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
+- [„Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026)](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)

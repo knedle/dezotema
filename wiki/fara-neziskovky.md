@@ -115,3 +115,13 @@ Rajchl v nedělním vysílání popisuje debatu na CNN Prima News o zákoně FAR
 **Zdroje:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 
 ---
+
+### Spolek Díky, že můžeme: Soros, Obama Foundation a sponzoři STAN — protesty za ČT jako připravený pokus svrhnout vládu (Rajchl, 2. 11. 2026) {#diky-ze-muzeme-financovani-rajchl-2-11-2026}
+
+Rajchl s odkazem na veřejné zdroje a informace Tomase Pauknera a Matouše Svobody tvrdí, že spolek Díky, že můžeme Barbory Stárkové, který podle něj stojí za „údajně spontánními“ studentskými protesty proti zrušení poplatků, je napojen na zahraniční peníze. Aspen Institute, kde Stárková studovala, podle něj financuje Open Society Foundations George Sorose, která spolku přímo přispěla přes 83 tisíc eur (přes 2 miliony Kč) na projekt „Samet ve školách“ — občanský aktivismus pro středoškoláky mladší 18 let, kde si podle něj „vychovávají profesionální aktivisty a demonstranty“. Spolek podle něj podporuje i Obama Foundation, jejíž granty zavazují k prosazování „klimatických, džendrových, inkluzivních“ cílů, a Jan Barta a Spolek pro podporu liberální demokracie, tedy stejní sponzoři jako u STAN a Petra Pavla; v této souvislosti připomíná, že Pavel přijal na Hradě Alexandra Sorose jako „jediného filantropa“. Proto se Stárkové podle něj zastávají Danuše Nerudová, Klára Laurenčíková či Jindřich Šídlo. Mzdové náklady spolku podle výroční zprávy činily v průměru milion korun na osobu. Poplatky jsou podle něj jen záminkou, jde o „svržení Babišovy vlády“ lidmi, kteří se nesmířili s výsledky voleb; po zrušení poplatků proto hned přijde zákon FARA (viz [Mediální lynč vs. selektivní ticho](media-propaganda.md#mediální-lynč-vs-selektivní-ticho)).
+
+> „Ostatně soudím, že politické neziskovky musí být zničeny.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — „Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026)](_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
+
+---
