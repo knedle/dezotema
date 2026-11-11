@@ -6144,3 +6144,11 @@
 - **Datum záznamu:** 2026-10-27
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 57 min, vysílání 11:11 („Proč nejsi větší?“, FOX = 666); komentované úryvky Čermáka z TV Šalingrad; zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Včera, dnes a zítra“ (28. 10. 2026) {#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-29_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1655031685954498&_rdr>
+- **Datum záznamu:** 2026-10-28 (soubor datován 29. 10.)
+- **Zpracováno:** ano
+- **Poznámka:** 9 min, sváteční „bonusovka“: připravenost na společné vysílání s Čermákem (opakuje, jen zdroj) a komická scénka „Včera, dnes a zítra“.

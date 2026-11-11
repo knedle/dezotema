@@ -118,6 +118,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **25. 10.** — Bernardy „v centru útočné formace“, Šalingrad „brainwashing“; schůzku 1:1 odmítá, „několikrát se mě pokusili zabít“ — [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
 - **24. 10.** — Bernardy „lhářka a manipulátorka“, „pět lží za pět minut“ v rozhovoru Čermáka; vlastní kauzy (Ústí zrušilo rozsudek, 110 dní vazby), E-Medic „ani korunu“ (→ [predikce](../predikce.md)) — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 - **27. 10.** — „menší“ Čermák o 10–17 cm, FOX = 666, Tušl „kokot“, trestní oznámení na Maruškovy; soud v Ústí „uznal“, že covid neexistuje — [ČsTV2 — Živě 27. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+- **28. 10.** — připraven na společné vysílání s Čermákem „včera, dnes i zítra“ (opakuje) — [ČsTV2 — Živě 28. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -568,3 +569,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
 - [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 - [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+- [ČsTV2 — Živě: „Včera, dnes a zítra“ (28. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026)
