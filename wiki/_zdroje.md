@@ -6056,3 +6056,11 @@
 - **Datum záznamu:** 2026-11-01
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 2 min, pravidelné nedělní vysílání („Pokus o puč v Polsku, Rusové zpět na MS, koncesionářské poplatky a uměle vyvolaná hysterie aspenovské kliky politických neziskovek v ČR“); až 4 100 diváků.
+
+## Jindřich Rajchl — „Ťal jsem do živého“: Stárková a Aspen (1. 11. 2026) {#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-01_Jindřich-Rajchl_Včera-jsem-evidentně-ťal-do-živého-a-způsobil-masivní.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1615565019700281>
+- **Datum záznamu:** 2026-11-01
+- **Zpracováno:** ano
+- **Poznámka:** 4 min, upoutávka na nedělní vysílání; opakuje tezi o Stárkové/Aspenu a Minářovi bez posunu (jen zdroj).

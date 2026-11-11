@@ -281,7 +281,7 @@ Rajchl kritizuje selektivní aplikaci mediálních kampaní. Mediální útok na
 
 > „Aspen je VUML, novodobým VUML, který si řídili oni, velmi chytře, pozor, to si musí nechat.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+**Zdroje:** [Rajchl — FARA, DSA, Dozimetr, 2026-03-15](_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026), [Rajchl — „Ťal jsem do živého“: Stárková a Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--ťal-do-živého-stárková-aspen-1-11-2026)
 
 ---
 
