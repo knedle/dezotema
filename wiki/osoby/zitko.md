@@ -131,6 +131,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **29. 10. / 3. 11.** — telefonát s „údajným“ Čermákem: nabízí ověřovací detaily, Zítko je odmítá jako možnou AI — [Telefonát s „údajným“ Čermákem (3. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-čermákem-3-11-2026)
 - **5. 11.** — Holýšov „tečka za případem Čermák“, trestní oznámení za stalking; kauza jako operace tajných služeb proti „hře o Československo“ — [ČsTV2 — Živě 5. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 - **4. 11.** — trestní oznámení pro pronásledování vyvrací, žádá „biologické testy“; Bernardy s přístupem k odposlechům; falešný Čermák měl „vystřídat“ Zítka — [ČsTV2 — Živě 4. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+- **7. 11.** — „sázka na Čermáka“ za 170 Kč, „neexistuje reální Tomáš Čermák“, téma uzavírá — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -223,6 +224,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **31. 10.** — „odpor“ podle čl. 23 Listiny, generální konzul ČSR, „smí mě soudit pouze lid“ (UCC 1-308); Izrael a „Chazárie“ (→ [stochastický teror](../stochasticky-teror.md)) — [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
 - **5. 11.** — výhra demokratů jako „past“, stíhání do 45 dní, „Gitmo Express“, NESARA, Super Bowl 2027 (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 5. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 - **4. 11.** — „Alligator Alcatraz“ pro soudce a lékaře, „40 z 50 států“, stanné právo, V jako vendeta a „odhalení 5. 11.“ (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 4. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+- **7. 11.** — „80–90 % předpovědí se splnilo“; Titanic/Olympic, hologramy 9/11, Izrael ovládal Ameriku, JFK Jr., „20 % operace“, krach trhů (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -248,6 +250,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **25. 10.** — Facebook „seká“ vysílání, přechod na alternativnimedia.cz — [ČsTV2 — Živě 25. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026)
 - **24. 10.** — Facebook „nástroj CIA“, platforma 130 alternativních médií — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 - **4. 11.** — ČT „lže“, 4,2 mil. USD z USA, stávka ať trvá roky — [ČsTV2 — Živě 4. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+- **7. 11.** — falešné profily s ukradenou identitou, demonstranti za ČT jako její zaměstnanci — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ---
 
@@ -476,6 +479,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Václav Klaus | ❌ negativní | Vytuneloval důchodový fond (333 mil. USD) | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
 | Jiří Hradil | ✅ pozitivní | Spolupracovník; zveřejnil nesestříhaný záznam výslechu na svém profilu | 2026-10-31 | [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026) |
 | Pavel Novotný | ❌ negativní | Díky krytí Fialy a Rakušana zůstal bez trestu | 2026-10-31 | [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026) |
+| Konstantin Stanek | ❌ negativní | Možný správce falešného profilu, „člen gengu“ | 2026-11-07 | [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026) |
+| Julian Assange | ✅ pozitivní | Chce odhalit „operativce z Obamovy éry“ | 2026-11-07 | [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026) |
+| Stephen Miller | ✅ pozitivní | „Bude kosit“ a odhalí volební podvod | 2026-11-07 | [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026) |
+| Tucker Carlson, Thomas Massie, Candace Owensová, Marjorie Taylor Greeneová | ❌ negativní | Obrátili se proti Trumpovi „jen kvůli Izraeli“ | 2026-11-07 | [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026) |
 
 ---
 
@@ -609,3 +616,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 (přes profil J. Hradila) — Telefonát s „údajným“ Čermákem 29. 10. (zveřejněno 3. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-čermákem-3-11-2026)
 - [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 - [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+- [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)

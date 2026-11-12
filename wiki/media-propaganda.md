@@ -491,7 +491,11 @@ Dne 17. 6. 2026 Facebook znemožnil Zítkovi spustit živé vysílání („Tent
 
 **24. 10.** — Facebook podle Zítka „vzniknul jako nástroj CIA“; jeho kanály mají zablokované živé vysílání od 6. 10., některé až do ledna 2027. Plánuje společnou platformu „130 alternativních médií v ČR a přes 90 na Slovensku“ mimo Facebook.
 
-**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026), [ČsTV2 — Pozvánka: blokace všech profilů (8. 10. 2026)](_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026), [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026), [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
+**7. 11.** — Ke každému jeho kanálu podle Zítka od roku 2021 vznikají klony s ukradenou identitou „pod kontrolou fízlů, hejtrů, agentů“ (Československo.tv, Svobodné Československo, „Pavel Zítko prezident“ aj.) a Facebook originály schovává a ukazuje jen falešné; jako možného správce jednoho z nich jmenuje Konstantina Stanka.
+
+> „Facebook vám schovává ty originál profily… a ukazuje vám jenom ty falešný.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026), [ČsTV2 — Pozvánka: blokace všech profilů (8. 10. 2026)](_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026), [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026), [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ---
 
@@ -795,6 +799,8 @@ Zítko tvrdí, že ČT nedodržuje zákon a ve zpravodajství „lže“; za cov
 
 > „Čichání k psímu hovnu má stejnou vypovídací hodnotu jako zpravodajské relace.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+**7. 11.** — Demonstrující za ČT byli podle Zítka z velké části její zaměstnanci, kterým „jde o korýtka“; poplatek má být dobrovolný a „hnědokošiláči okolo Mináře“ ať si platí 20 000 Kč. Opakuje, že ČT dostala z USA 4,2 milionu dolarů (asi 88 mil. Kč) na propagaci vakcín.
+
+**Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ---

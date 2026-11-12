@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — JFK Jr. „co nevidět“ vystoupí na veřejnost, přichází „viditelných 20 %“ operace a „zlatý věk“ (7. 11. 2026)
+
+**Předpověď:** John F. Kennedy Jr. „co nevidět“ vystoupí na veřejnosti; začíná fáze, kdy bude vidět 20 % vojenské operace, Stephen Miller odhalí „obrovský volební podvod“ z 3. 11. a Assangeovo odhalení „bude gradovat“; nastane „zlatý věk“ (ne pro ty, kdo zůstanou v „Matrixu“).
+
+> „Teď jdeme do fáze, kde těch 20 % si určitě všimnete.“ — Pavel Zítko
+
+**Horizont:** „co nevidět“
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
+
+---
+
 ### Pavel Zítko — „velké odhalení“ 5. listopadu podle filmu V jako vendeta (4. 11. 2026)
 
 **Předpověď:** Film V jako vendeta podle něj „směřuje k velkému odhalení na pátého listopadu“; výsledek amerických voleb bude zvrácen „dřív než za 45 dní“ a přijde globální stanné právo. Skutečný Tomáš Čermák se objeví z ochrany svědků.
@@ -20,7 +32,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** 5. 11. 2026 (odhalení); do 45 dní (volby)
 **Stav:** ❌ Vyvráceno (část „5. 11.“) — ve vysílání z 5. 11. žádné odhalení nepřišlo, jen nový výklad voleb jako „pasti“; zbytek viz predikce z 5. 11.
-**Zdroj:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+**7. 11.** — Zítko už 5. 11. za odhalení nevydává; uvádí jen, že Trumpův tým zveřejnil video „V jako vendeta“, a odhalení znovu slibuje („brzy i v našich kinech“).
+**Zdroj:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ---
 
