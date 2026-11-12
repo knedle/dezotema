@@ -128,6 +128,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **1. 11.** — Holýšov: Čermák nepřišel, „hru na Čermáka už nehrajeme“, tezi o dvojníkovi ale drží (predikce z 24. 10. ⚠️ částečně) — [ČsTV2 — Živě z Holýšova 1. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-holýšov-čermák-nepřišel-1-11-2026)
 - **1. 11.** — čekání v Holýšově, „Oscar za herecký výkon“ pro dvojníka — [ČsTV2 — Živě z Holýšova, čekání (1. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-holýšov-čekání-oscar-1-11-2026)
 - **1. 11. (ráno)** — rekapitulace před „posledním termínem“; nepodepsaný odvolací rozsudek, detaily razie, Tušl volá ze skrytého čísla — [ČsTV2 — Živě z Holýšova, ráno 1. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-přijde-čermák-na-oběd-1-11-2026)
+- **29. 10. / 3. 11.** — telefonát s „údajným“ Čermákem: nabízí ověřovací detaily, Zítko je odmítá jako možnou AI — [Telefonát s „údajným“ Čermákem (3. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-čermákem-3-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -600,3 +601,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě z Holýšova: Čermák nepřišel, konec „hry na Čermáka“ (1. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-holýšov-čermák-nepřišel-1-11-2026)
 - [ČsTV2 — Živě z Holýšova: čekání na Čermáka a „Oscar“ (1. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-holýšov-čekání-oscar-1-11-2026)
 - [ČsTV2 — Živě z Holýšova: „Přijde Tomáš Čermák na oběd?“ (1. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přijde-čermák-na-oběd-1-11-2026)
+- [ČsTV2 (přes profil J. Hradila) — Telefonát s „údajným“ Čermákem 29. 10. (zveřejněno 3. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-čermákem-3-11-2026)

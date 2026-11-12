@@ -6216,3 +6216,11 @@
 - **Datum záznamu:** 2026-11-01 (soubor datován 2. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 39 min, ranní vstup (9:35) před „posledním termínem“; převážně rekapitulace kauzy Čermák.
+
+## Československo TV2 (přes profil J. Hradila) — Telefonát s „údajným“ Čermákem 29. 10. (zveřejněno 3. 11. 2026) {#československo-tv2--hradil-telefonát-s-čermákem-3-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-03_Československo-TV2_Jiří-Hradil-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (zveřejněno na facebookovém profilu Jiřího Hradila)
+- **URL:** <https://m.facebook.com/watch/?v=4457209961162374&_rdr>
+- **Datum záznamu:** 2026-10-29 (telefonát), zveřejněno 2026-11-03
+- **Zpracováno:** ano
+- **Poznámka:** 22 min, záznam telefonátu Pavla Zítka s „údajným“ Tomášem Čermákem; Hradil v popisu uvádí, že Čermák na TV Šalingrad lhal o dni hovoru.
