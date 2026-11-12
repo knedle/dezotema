@@ -123,6 +123,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **28. 10.** — připraven na společné vysílání s Čermákem „včera, dnes i zítra“ (opakuje) — [ČsTV2 — Živě 28. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026)
 - **30. 10.** — nahrávka výslechu z Chomutova 2023 jako „důkaz“, že Čermáka neudal; telefonát s „hlasem“ Čermáka nepřijímá (→ [predikce](../predikce.md)) — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 - **29. 10.** — telefonát s „údajným“ Čermákem; připouští, že při ověření totožnosti přizná skutečného Čermáka („cesta k návratu z úkrytu“) — [ČsTV2 — Živě 29. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026)
+- **31. 10.** — nesestříhaný výslech z 2023 (přes Hradila): Čermák „spolubojovník“, Novotný bez trestu, Peterková a spolek Šalamoun — [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -212,6 +213,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **27. 10.** — ČSR „od Aše“ po Zakarpatí, o hranicích rozhodnou Trump, Putin a Si — [ČsTV2 — Živě 27. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 - **28. 10.** — Havel abdikoval, aby nemusel zasáhnout armádou; zákony po 20. 7. 1992 neplatí; uplacení poslanců z LTO; advokáti „BAR“; Tošovský a zlato; Epstein, Paperclip s Hitlerem, smrt Kryla (→ [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
 - **30. 10.** — popravy „covidových lékařů“ na Guantánamu, Melissa Moore, stanné právo od 9. 8.; Dubček, znak SS na policejních autech, Hitler v Jižní Americe; Donbas, migranti „hordy“, Izrael „smlouva“ do 31. 10.; elektřina přes Lipsko (→ [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+- **31. 10.** — „odpor“ podle čl. 23 Listiny, generální konzul ČSR, „smí mě soudit pouze lid“ (UCC 1-308); Izrael a „Chazárie“ (→ [stochastický teror](../stochasticky-teror.md)) — [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -462,6 +464,8 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Melissa Moore | ❌ negativní | Technoložka Moderny, údajně popravena; zesměšňována kvůli váze | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
 | Alexander Dubček | ○ neutrální | Jeho smrt nesla „rysy práce tajných služeb“ | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
 | Václav Klaus | ❌ negativní | Vytuneloval důchodový fond (333 mil. USD) | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
+| Jiří Hradil | ✅ pozitivní | Spolupracovník; zveřejnil nesestříhaný záznam výslechu na svém profilu | 2026-10-31 | [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026) |
+| Pavel Novotný | ❌ negativní | Díky krytí Fialy a Rakušana zůstal bez trestu | 2026-10-31 | [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026) |
 
 ---
 
@@ -587,3 +591,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
 - [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 - [ČsTV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026)
+- [ČsTV2 (přes profil J. Hradila) — Výslech v Chomutově 13. 11. 2023, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)

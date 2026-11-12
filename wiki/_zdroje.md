@@ -6176,3 +6176,11 @@
 - **Datum záznamu:** 2026-10-29 (soubor datován 30. 10.)
 - **Zpracováno:** ano
 - **Poznámka:** 16 min, večerní „speciální zpravodajství“ před víkendem v Holýšově.
+
+## Československo TV2 (přes profil J. Hradila) — Výslech v Chomutově 13. 11. 2023, bez sekání (31. 10. 2026) {#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-31_Československo-TV2_Jiří-Hradil-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (zveřejněno na facebookovém profilu Jiřího Hradila)
+- **URL:** <https://m.facebook.com/watch/?v=1904295397049103>
+- **Datum záznamu:** 2023-11-13 (výslech), zveřejněno 2026-10-31
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 40 min, nesestříhaná zvuková nahrávka Zítkova výslechu (mluví Zítko a kriminalista); překrývá se se záznamem z 30. 10.; osobní údaje ze záznamu nepřebírány; zpracováno podle shrnutí pomocného agenta.

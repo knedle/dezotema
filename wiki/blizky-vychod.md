@@ -679,6 +679,8 @@ Ke zprávě, že Secret Service ve Washingtonu zadržela Venezuelana, který tvr
 
 Zítko tvrdí, že 31. 10. končí „smlouva na stát Izrael“ a Čína se Saúdskou Arábií už vydaly mapy bez Izraele; poté podle něj nastane „velký územně právní problém s Palestinci“ (viz [predikce](predikce.md)).
 
-**Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+**31. 10. (záznam z 2023)** — Zítko dodává, že Židé se mají přestěhovat na Ukrajinu jako „původní Chazárii“.
+
+**Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026), [ČsTV2 (přes profil J. Hradila) — Výslech v Chomutově 13. 11. 2023, bez sekání (31. 10. 2026)](_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
 
 ---
