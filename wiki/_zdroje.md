@@ -6200,3 +6200,11 @@
 - **Datum záznamu:** 2026-11-01 (soubor datován 2. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 5 min, závěrečný vstup z kulturního domu v Holýšově po marném čekání; vyhodnocena predikce z 24. 10.
+
+## Československo TV2 — Živě z Holýšova: čekání na Čermáka a „Oscar“ (1. 11. 2026) {#československo-tv2--živě-peterková-holýšov-čekání-oscar-1-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-02_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1017352688059321&_rdr>
+- **Datum záznamu:** 2026-11-01 (soubor datován 2. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 8 min, vstup z kulturního domu v Holýšově během čekání (před závěrečným vstupem).
