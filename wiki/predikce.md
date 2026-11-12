@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — „velké odhalení“ 5. listopadu podle filmu V jako vendeta (4. 11. 2026)
+
+**Předpověď:** Film V jako vendeta podle něj „směřuje k velkému odhalení na pátého listopadu“; výsledek amerických voleb bude zvrácen „dřív než za 45 dní“ a přijde globální stanné právo. Skutečný Tomáš Čermák se objeví z ochrany svědků.
+
+> „5. listopad je zejtra, takže uvidíme.“ — Pavel Zítko
+
+**Horizont:** 5. 11. 2026 (odhalení); do 45 dní (volby)
+**Stav:** ❌ Vyvráceno (část „5. 11.“) — ve vysílání z 5. 11. žádné odhalení nepřišlo, jen nový výklad voleb jako „pasti“; zbytek viz predikce z 5. 11.
+**Zdroj:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+
+---
+
 ### Pavel Zítko — stíhání demokratů za volební podvod do 45 dní, NESARA „každým dnem“, „mrtvé“ celebrity na Super Bowlu 2027 (5. 11. 2026)
 
 **Předpověď:** V „45denním okně“ podle Executive Order 13848 budou demokraté odhaleni a odsouzeni za „velezradu a vlastizradu“ a „Gitmo Express“ je „brzy naloží“; „Vánoce letos přicházejí brzy“. NESARA/GESARA se smazáním dluhů bude oznámena „každým dnem“ a na Super Bowlu 14. 2. 2027 se objeví „mrtvé“ celebrity z programu ochrany svědků.

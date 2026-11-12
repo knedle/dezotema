@@ -297,6 +297,8 @@ Výsledek amerických voleb 3. 11., v nichž vyhráli demokraté, Zítko vyklád
 
 > „Vánoce letos přicházejí brzy.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
+**4. 11.** — Už den předtím Zítko tvrdil, že stížnost na krádež voleb podalo „40 z 50 států“ a Trump využije výkonné příkazy 13848, 14248 a 14399 jako „šachmat demokratickým podvodníkům“, což povede k aktivaci stanného práva „v globálním měřítku“. Ve floridském vězení „Alligator Alcatraz“ s 3 000 lůžky podle něj skončí soudci, právníci, lékaři a policisté, kteří spáchali „zločiny proti lidskosti“, a útěk znemožní krokodýli; hlavní aktéři Deep State jsou prý „dávno popraveni“ a je potřeba „odkopat zrádce i na nižších úrovních“. Film V jako vendeta (2005) podle něj „směřuje k velkému odhalení na pátého listopadu“.
+
+**Zdroje:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026), [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
 
 ---

@@ -786,3 +786,15 @@ K výzvě premiéra Babiše, aby česká média nemanipulovala veřejným míně
 > „Média jsou velmi nebezpečný nástroj, pakli, že dělají válečnou propagandu a to je to, co dělají dneska prakticky všechna média v České republice.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+
+---
+
+### ČT „lže“, za covidu ji sponzorovaly USA 4,2 mil. dolarů; stávka ať trvá roky (Zítko, 4. 11. 2026) {#ct-stavka-zitko-4-11-2026}
+
+Zítko tvrdí, že ČT nedodržuje zákon a ve zpravodajství „lže“; za covidu se podle něj nechala sponzorovat 4,2 milionu dolarů ze Spojených států. Stávka zaměstnanců by podle něj mohla trvat i roky, aby lidé zjistili, že o nic nepřicházejí.
+
+> „Čichání k psímu hovnu má stejnou vypovídací hodnotu jako zpravodajské relace.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
+
+---

@@ -6232,3 +6232,11 @@
 - **Datum záznamu:** 2026-11-05
 - **Zpracováno:** ano
 - **Poznámka:** 1 h, vysílání 11:11; velkou část tvoří předčítání cizích příspěvků (Telegram, seznam 17 bodů) se Zítkovými vsuvkami; vyhodnocena predikce z 27. 10. (❌); zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026) {#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-05_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1443645114592919>
+- **Datum záznamu:** 2026-11-04 (soubor datován 5. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 2 h 36 min, večerní vysílání 21:21; komentované úryvky (telefonát se „Čermákem“, Popelka, TV Šalingrad, V jako vendeta), předčítané trestní oznámení; zpracováno podle shrnutí pomocného agenta.
