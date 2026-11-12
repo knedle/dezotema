@@ -6168,3 +6168,11 @@
 - **Datum záznamu:** 2026-10-30
 - **Zpracováno:** ano
 - **Poznámka:** 3 h 35 min; většinu tvoří komentovaná nahrávka Zítkova výslechu na policii v Chomutově 13. 11. 2023; vysíláno před setkáním v Holýšově; zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026) {#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-30_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1121441787187003&_rdr>
+- **Datum záznamu:** 2026-10-29 (soubor datován 30. 10.)
+- **Zpracováno:** ano
+- **Poznámka:** 16 min, večerní „speciální zpravodajství“ před víkendem v Holýšově.

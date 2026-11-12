@@ -122,6 +122,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **27. 10.** — „menší“ Čermák o 10–17 cm, FOX = 666, Tušl „kokot“, trestní oznámení na Maruškovy; soud v Ústí „uznal“, že covid neexistuje — [ČsTV2 — Živě 27. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 - **28. 10.** — připraven na společné vysílání s Čermákem „včera, dnes i zítra“ (opakuje) — [ČsTV2 — Živě 28. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026)
 - **30. 10.** — nahrávka výslechu z Chomutova 2023 jako „důkaz“, že Čermáka neudal; telefonát s „hlasem“ Čermáka nepřijímá (→ [predikce](../predikce.md)) — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+- **29. 10.** — telefonát s „údajným“ Čermákem; připouští, že při ověření totožnosti přizná skutečného Čermáka („cesta k návratu z úkrytu“) — [ČsTV2 — Živě 29. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -585,3 +586,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Včera, dnes a zítra“ (28. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026)
 - [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
 - [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+- [ČsTV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026)
