@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — stíhání demokratů za volební podvod do 45 dní, NESARA „každým dnem“, „mrtvé“ celebrity na Super Bowlu 2027 (5. 11. 2026)
+
+**Předpověď:** V „45denním okně“ podle Executive Order 13848 budou demokraté odhaleni a odsouzeni za „velezradu a vlastizradu“ a „Gitmo Express“ je „brzy naloží“; „Vánoce letos přicházejí brzy“. NESARA/GESARA se smazáním dluhů bude oznámena „každým dnem“ a na Super Bowlu 14. 2. 2027 se objeví „mrtvé“ celebrity z programu ochrany svědků.
+
+> „Velezrada a vlastizrada s velmi tvrdými tresty… připoutejte se.“ — Pavel Zítko
+
+**Horizont:** zhruba do poloviny prosince 2026 (stíhání); 14. 2. 2027 (Super Bowl)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
+
+---
+
 ### Pavel Zítko — po skončení „smlouvy na stát Izrael“ 31. 10. nastane „velký územně právní problém“ (30. 10. 2026)
 
 **Předpověď:** K 31. 10. 2026 končí „smlouva na stát Izrael“; poté vznikne velký územně právní problém s Palestinci (Čína a Saúdská Arábie už prý vydaly mapy bez Izraele).
@@ -31,8 +43,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 > „Myslím si, že někde okolo těch voleb to má bouchnout.“ — Pavel Zítko
 
 **Horizont:** kolem 3. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+**Stav:** ❌ Vyvráceno — volby 3. 11. proběhly bez „výbuchu“ a vyhráli demokraté; Zítko výsledek 5. 11. dodatečně vyložil jako „past“ na Deep State.
+**Zdroj:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 
 ---
 

@@ -129,6 +129,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **1. 11.** — čekání v Holýšově, „Oscar za herecký výkon“ pro dvojníka — [ČsTV2 — Živě z Holýšova, čekání (1. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-holýšov-čekání-oscar-1-11-2026)
 - **1. 11. (ráno)** — rekapitulace před „posledním termínem“; nepodepsaný odvolací rozsudek, detaily razie, Tušl volá ze skrytého čísla — [ČsTV2 — Živě z Holýšova, ráno 1. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-přijde-čermák-na-oběd-1-11-2026)
 - **29. 10. / 3. 11.** — telefonát s „údajným“ Čermákem: nabízí ověřovací detaily, Zítko je odmítá jako možnou AI — [Telefonát s „údajným“ Čermákem (3. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-čermákem-3-11-2026)
+- **5. 11.** — Holýšov „tečka za případem Čermák“, trestní oznámení za stalking; kauza jako operace tajných služeb proti „hře o Československo“ — [ČsTV2 — Živě 5. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -219,6 +220,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **28. 10.** — Havel abdikoval, aby nemusel zasáhnout armádou; zákony po 20. 7. 1992 neplatí; uplacení poslanců z LTO; advokáti „BAR“; Tošovský a zlato; Epstein, Paperclip s Hitlerem, smrt Kryla (→ [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
 - **30. 10.** — popravy „covidových lékařů“ na Guantánamu, Melissa Moore, stanné právo od 9. 8.; Dubček, znak SS na policejních autech, Hitler v Jižní Americe; Donbas, migranti „hordy“, Izrael „smlouva“ do 31. 10.; elektřina přes Lipsko (→ [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 - **31. 10.** — „odpor“ podle čl. 23 Listiny, generální konzul ČSR, „smí mě soudit pouze lid“ (UCC 1-308); Izrael a „Chazárie“ (→ [stochastický teror](../stochasticky-teror.md)) — [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
+- **5. 11.** — výhra demokratů jako „past“, stíhání do 45 dní, „Gitmo Express“, NESARA, Super Bowl 2027 (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 5. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -602,3 +604,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě z Holýšova: čekání na Čermáka a „Oscar“ (1. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-holýšov-čekání-oscar-1-11-2026)
 - [ČsTV2 — Živě z Holýšova: „Přijde Tomáš Čermák na oběd?“ (1. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-přijde-čermák-na-oběd-1-11-2026)
 - [ČsTV2 (přes profil J. Hradila) — Telefonát s „údajným“ Čermákem 29. 10. (zveřejněno 3. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-čermákem-3-11-2026)
+- [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)

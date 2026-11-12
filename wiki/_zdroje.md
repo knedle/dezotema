@@ -6224,3 +6224,11 @@
 - **Datum záznamu:** 2026-10-29 (telefonát), zveřejněno 2026-11-03
 - **Zpracováno:** ano
 - **Poznámka:** 22 min, záznam telefonátu Pavla Zítka s „údajným“ Tomášem Čermákem; Hradil v popisu uvádí, že Čermák na TV Šalingrad lhal o dni hovoru.
+
+## Československo TV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026) {#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-05_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=2332626963961878>
+- **Datum záznamu:** 2026-11-05
+- **Zpracováno:** ano
+- **Poznámka:** 1 h, vysílání 11:11; velkou část tvoří předčítání cizích příspěvků (Telegram, seznam 17 bodů) se Zítkovými vsuvkami; vyhodnocena predikce z 27. 10. (❌); zpracováno podle shrnutí pomocného agenta.

@@ -288,3 +288,15 @@ Předčítá text připisovaný „interpretovi Q“ Miku Kingovi (zdroj „Lion
 > „Na Guantánamu už byly provedeny první popravy covidových lékařů, který píchali do lidí tyhle injekce.“ — Pavel Zítko
 
 **Zdroje:** [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+
+---
+
+### Výhra demokratů v amerických volbách jako „past“ — stíhání za velezradu, „Gitmo Express“ a NESARA „každým dnem“ (Zítko, 5. 11. 2026) {#volby-usa-past-zitko-5-11-2026}
+
+Výsledek amerických voleb 3. 11., v nichž vyhráli demokraté, Zítko vykládá jako záměrnou past: aliance podle něj nechala Deep State volby zfalšovat „pod drobnohledem“, aby ho mohla odhalit, a teď začne fáze stíhání za „velezradu a vlastizradu“ s „velmi tvrdými tresty“ v „45denním okně“ podle Executive Order 13848; Trump prý o podvodech mlčí, protože jedná ministerstvo spravedlnosti. Demokratům a „Deep State“ přeje „jednosměrnou letenku“ na „Gitmo Express“, který je „už brzy všechny naloží“. Z předčítaného seznamu 17 bodů přebírá 700 000 zapečetěných obžalob, NESARA/GESARA a smazání dluhů „každým dnem“, med-beds a tvrzení, že všechny země před Trumpem kapitulovaly v roce 2017; Clintonovi, Obama, Bush, Cheney a Rumsfeld jsou podle něj už popraveni na Guantánamu, J. D. Vance prý hraje Paul Walker, 11. září byla „hologramy letadel“ a na Super Bowlu 2027 se objeví „mrtvé“ celebrity z programu ochrany svědků, „možná Elvis“. Volby by podle něj měly probíhat na blockchainu.
+
+> „Vánoce letos přicházejí brzy.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
+
+---
