@@ -6192,3 +6192,11 @@
 - **Datum záznamu:** 2026-10-29 (telefonát), zveřejněno 2026-11-02
 - **Zpracováno:** ano
 - **Poznámka:** 12 min, záznam telefonátu Pavla Zítka s matkou Tomáše Čermáka; jméno matky nepřebíráno.
+
+## Československo TV2 — Živě z Holýšova: Čermák nepřišel, konec „hry na Čermáka“ (1. 11. 2026) {#československo-tv2--živě-peterková-holýšov-čermák-nepřišel-1-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-02_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1105361848779623&_rdr>
+- **Datum záznamu:** 2026-11-01 (soubor datován 2. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 5 min, závěrečný vstup z kulturního domu v Holýšově po marném čekání; vyhodnocena predikce z 24. 10.
