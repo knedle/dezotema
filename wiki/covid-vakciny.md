@@ -659,7 +659,9 @@ Pavel Zítko oznámil, že v Amsterdamu proběhlo soudní jednání, kde jsou ob
 
 **24. 10.** — Zítko tvrdí, že Gates, Bourla a Rutte „konečně seděli na lavici obžalovaných, kam patří“; Reinera Fuellmicha, který podle něj třetím rokem sedí ve věznici v Lingenu (protestovalo tam asi 200 lidí), označuje za „největšího bojovníka proti covidovým zločincům“ a „Norimberk 2“. Vakcíny jsou podle něj „depopulační jen pro lid, ne pro poslance“.
 
-**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
+**28. 10.** — Zítko vládu a poslance označuje za „masové vrahy, kteří propagovali pokusy na lidech“, které není důvod respektovat, a od 12. 3. 2020 mluví o „vládou a poslanci řízené genocidě a sterilizaci“; Karel Havlíček mu prý mimo kameru řekl: „kdybychom to tenkrát neudělali, oni by nás zabili“. Španělská chřipka byla podle něj obdobou covidu, kdy lidé umírali „za očkováním“.
+
+**Zdroje:** [Zítko/Peková — Svobodný vysílač CS, 2026-04-09](_zdroje.md#pavel-zítko--svobodný-vysílač-cs-peková-covid-tour-9-4-2026), [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
 
 ---
 

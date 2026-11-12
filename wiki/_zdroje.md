@@ -6152,3 +6152,11 @@
 - **Datum záznamu:** 2026-10-28 (soubor datován 29. 10.)
 - **Zpracováno:** ano
 - **Poznámka:** 9 min, sváteční „bonusovka“: připravenost na společné vysílání s Čermákem (opakuje, jen zdroj) a komická scénka „Včera, dnes a zítra“.
+
+## Československo TV2 — Živě: 108. výročí Československa (28. 10. 2026) {#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-29_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1997772597568919&_rdr>
+- **Datum záznamu:** 2026-10-28 (soubor datován 29. 10.)
+- **Zpracováno:** ano
+- **Poznámka:** 2 h 5 min, sváteční vysílání 11:11–13:13; komentované dokumenty „100 let ČSR“ a „poslední týden ČSFR 1992“, Karel Kryl; asi 10 min přepisu vadných; zpracováno podle shrnutí pomocného agenta.

@@ -1131,3 +1131,13 @@ Boldy kritizuje nejmenovaného „potetovaného“ youtubera s vysokou sledovano
 **Zdroje:** [Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026)](_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
 
 ---
+
+### Politiky ovládá vydírání (Epstein) a úplatky; EU v rukou „vnoučat nacistů“, Paperclip i s Hitlerem; smrt Karla Kryla (Zítko, 28. 10. 2026) {#epstein-paperclip-kryl-zitko-28-10-2026}
+
+Zítko tvrdí, že politická rozhodnutí řídí „bezbřehá korupce a vydírání“ — nahrávky zneužívání dětí v duchu kauzy Epstein a úplatky, k nimž mají politici své „nosiče peněz“ (Dalík u Topolánka, Dymun u Paroubka, Faltýnek u Babiše). Evropskou unii podle něj ovládají „vnoučátka nacistických pohlavárů“; operací Paperclip mělo do Ameriky uniknout 7–8 tisíc důstojníků SS „včetně Adolfa Hitlera“. Karel Kryl podle něj „viděl zlodějům do karet“ (koncert v Chomutově 25. 2. 1994) a „možná i to mohlo být příčinou“ jeho předčasné smrti.
+
+> „Bezbřehá korupce a vydírání, jsou to ovládací mechanismy pro politická rozhodnutí.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
+
+---
