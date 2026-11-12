@@ -124,6 +124,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **30. 10.** — nahrávka výslechu z Chomutova 2023 jako „důkaz“, že Čermáka neudal; telefonát s „hlasem“ Čermáka nepřijímá (→ [predikce](../predikce.md)) — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 - **29. 10.** — telefonát s „údajným“ Čermákem; připouští, že při ověření totožnosti přizná skutečného Čermáka („cesta k návratu z úkrytu“) — [ČsTV2 — Živě 29. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026)
 - **31. 10.** — nesestříhaný výslech z 2023 (přes Hradila): Čermák „spolubojovník“, Novotný bez trestu, Peterková a spolek Šalamoun — [Výslech v Chomutově, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
+- **29. 10. / 2. 11.** — telefonát s Čermákovou matkou: ta potvrzuje, že jde o jejího syna; Zítko trvá na pochybnostech, slibuje omluvu po setkání — [Telefonát s matkou Čermáka (2. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-matkou-čermáka-2-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -592,3 +593,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 - [ČsTV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026)
 - [ČsTV2 (přes profil J. Hradila) — Výslech v Chomutově 13. 11. 2023, bez sekání (31. 10. 2026)](../_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
+- [ČsTV2 (přes profil J. Hradila) — Telefonát s matkou Tomáše Čermáka (zveřejněno 2. 11. 2026)](../_zdroje.md#československo-tv2--hradil-telefonát-s-matkou-čermáka-2-11-2026)

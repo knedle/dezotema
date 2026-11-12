@@ -47,7 +47,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **27. 10.** — „Pokud nepřijde, tak je hra ukončena… přestává hra na Čermáka fungovat.“
 **30. 10.** — Po telefonátu s „hlasem“ Čermáka Zítko opakuje: „A pokud nepřijde, tak je to jenom potvrzení, že to nebyl Tomáš Čermák.“
 **29. 10.** — Po telefonátu Zítko připouští, že pokud se v Holýšově totožnost ověří, přizná, že přišel skutečný Čermák — dřívější „dvojník“ by pak byl „cestou k návratu skutečného Čermáka“.
-**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026), [ČsTV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026)
+**29. 10. (telefonát)** — Čermákova matka totožnost syna potvrdila a uvedla, že žádné setkání se Zítkem domluvené není.
+**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026), [ČsTV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026), [ČsTV2 (přes profil J. Hradila) — Telefonát s matkou Tomáše Čermáka (zveřejněno 2. 11. 2026)](_zdroje.md#československo-tv2--hradil-telefonát-s-matkou-čermáka-2-11-2026)
 
 ---
 

@@ -6184,3 +6184,11 @@
 - **Datum záznamu:** 2023-11-13 (výslech), zveřejněno 2026-10-31
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 40 min, nesestříhaná zvuková nahrávka Zítkova výslechu (mluví Zítko a kriminalista); překrývá se se záznamem z 30. 10.; osobní údaje ze záznamu nepřebírány; zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 (přes profil J. Hradila) — Telefonát s matkou Tomáše Čermáka (zveřejněno 2. 11. 2026) {#československo-tv2--hradil-telefonát-s-matkou-čermáka-2-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-02_Československo-TV2_Jiří-Hradil-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (zveřejněno na facebookovém profilu Jiřího Hradila)
+- **URL:** <https://m.facebook.com/watch/?v=1851580979178370&_rdr>
+- **Datum záznamu:** 2026-10-29 (telefonát), zveřejněno 2026-11-02
+- **Zpracováno:** ano
+- **Poznámka:** 12 min, záznam telefonátu Pavla Zítka s matkou Tomáše Čermáka; jméno matky nepřebíráno.
