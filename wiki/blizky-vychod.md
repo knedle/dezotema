@@ -674,3 +674,11 @@ Ke zprávě, že Secret Service ve Washingtonu zadržela Venezuelana, který tvr
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 
 ---
+
+### „Smlouva na stát Izrael“ končí 31. 10., Čína a Saúdská Arábie už mají mapy bez Izraele (Zítko, 30. 10. 2026) {#izrael-smlouva-zitko-30-10-2026}
+
+Zítko tvrdí, že 31. 10. končí „smlouva na stát Izrael“ a Čína se Saúdskou Arábií už vydaly mapy bez Izraele; poté podle něj nastane „velký územně právní problém s Palestinci“ (viz [predikce](predikce.md)).
+
+**Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+
+---

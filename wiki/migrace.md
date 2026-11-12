@@ -919,3 +919,13 @@ K zařazení ČR mezi státy ohrožené migračním tlakem (kvůli Ukrajincům m
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 
 ---
+
+### Migranti jako „trojský kůň“ a „hordy“ mladých mužů — okamžitá deportace (Zítko, 30. 10. 2026) {#trojsky-kun-zitko-30-10-2026}
+
+Zítko označuje migranty za „trojského koně“ a „hordy“ tvořené jen muži ve věku 20–40 let a žádá jejich okamžitou deportaci.
+
+> „Šup, šup, zpátky domů.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+
+---

@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — po skončení „smlouvy na stát Izrael“ 31. 10. nastane „velký územně právní problém“ (30. 10. 2026)
+
+**Předpověď:** K 31. 10. 2026 končí „smlouva na stát Izrael“; poté vznikne velký územně právní problém s Palestinci (Čína a Saúdská Arábie už prý vydaly mapy bez Izraele).
+
+> „Tam bude velký územně právní problém s Palestincema.“ — Pavel Zítko
+
+**Horizont:** od 31. 10. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+
+---
+
 ### Pavel Zítko — kolem amerických voleb 3. 11. „to má bouchnout“, demokraté zkusí volby ukrást (27. 10. 2026)
 
 **Předpověď:** Kolem amerických voleb 3. 11. 2026 se „má bouchnout“ — demokraté se podle něj znovu pokusí volby ukrást přes Smartmatic a Dominion.
@@ -33,7 +45,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **Horizont:** 30. 10. – 1. 11. 2026 (odhalení dvojníků neurčeno)
 **Stav:** 🕐 Čeká na vyhodnocení
 **27. 10.** — „Pokud nepřijde, tak je hra ukončena… přestává hra na Čermáka fungovat.“
-**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+**30. 10.** — Po telefonátu s „hlasem“ Čermáka Zítko opakuje: „A pokud nepřijde, tak je to jenom potvrzení, že to nebyl Tomáš Čermák.“
+**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---
 
@@ -1341,7 +1354,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **25. 10.** — Putin se podle Zítka „na 99,9 %“ vyjádřil, že Československo bude obnoveno; Gates, Bourla a Rutte se budou „zodpovídat ze zločinů proti lidskosti“ v Nizozemsku.
 **27. 10.** — O budoucích hranicích podle Zítka rozhodnou Trump, Putin a Si Ťin-pching; ČSR „od Aše“ po Zakarpatí.
 **28. 10.** — Obnova ČSR je podle Zítka „jenom otázka času“, s reparacemi se „schyluje“ ke zlatému krytí měny; k nápisu „Československo 15.12–24.12“ ale říká, že „nepredikuje žádná data“.
-**Zdroj:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
+**30. 10.** — „Československá republika a její obnovení čím dál blíž.“
+**Zdroj:** [ČsTV2 — Speciál Tomáš Čermák (24. 9. 2026)](_zdroje.md#československo-tv2--speciál-čermák-24-9-2026), [ČsTV2 — Živě: Čermák a petice za ČSFR (5. 10. 2026)](_zdroje.md#československo-tv2--živě-čermák-petice-5-10-2026), [ČsTV2 — Živě: Holýšov, „žebříček zlodějin“ a festival dvojníků (23. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-dvojníci-23-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---
 

@@ -283,4 +283,8 @@ Předčítá text připisovaný „interpretovi Q“ Miku Kingovi (zdroj „Lion
 
 ⚡ **Poznámka:** O údajném procesu s Gatesem, Bourlou a Ruttem v Leeuwardenu nejsou k datu zpracování dostupné ověřitelné zprávy. Žaloby nizozemského advokáta Petera Stassena proti týmž osobám se v minulosti řešily u soudu v Leeuwardenu jako civilní řízení.
 
-**Zdroje:** [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
+**30. 10.** — Zítko tvrdí, že „globální vojenské stanné právo“ platí od 9. 8., že na Guantánamu už proběhly první popravy „covidových lékařů, kteří píchali do lidí injekce“ (v USA má být obviněno 19 000 lékařů, prvních pět oběšeno 5. 9.) a že 18. 9. byla popravena technoložka Moderny Melissa Moore, kterou zesměšňuje kvůli váze; od 9. 11. má v Kostarice běžet proces s „covidovou mafií“. Andreas Noack byl podle něj „zavražděn“ jako odborník na grafen.
+
+> „Na Guantánamu už byly provedeny první popravy covidových lékařů, který píchali do lidí tyhle injekce.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)

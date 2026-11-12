@@ -683,3 +683,13 @@ Rajchl varuje před prohlubující se evropskou energetickou krizí: Saúdská A
 ⚡ **Poznámka:** Tvrzení o omezení dodávek ropy ze Saúdské Arábie a konkrétní podíl francouzských čerpacích stanic bez paliva nelze z přepisu nezávisle ověřit.
 
 **Zdroje:** [Rajchl — Facebook Live 20. 9. 2026](_zdroje.md#jindřich-rajchl--facebook-live-20-9-2026)
+
+---
+
+### Elektřina za 0,15–0,4 Kč/kWh prodávaná přes Lipsko, odtok bilionu ročně, zavírání porcelánky Thun (Zítko, 30. 10. 2026) {#elektrina-lipsko-zitko-30-10-2026}
+
+Zítko tvrdí, že se v ČR elektřina vyrábí za 0,15–0,4 Kč/kWh, ale prodává se přes Lipskou burzu; jako příklad deindustrializace uvádí zavírání porcelánky Thun v Klášterci. S odkazem na Rajchla uvádí, že z ČR ročně odteče bilion korun, a dluh státu odhaduje na 3,8 bilionu.
+
+**Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+
+---

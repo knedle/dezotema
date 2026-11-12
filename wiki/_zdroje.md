@@ -6160,3 +6160,11 @@
 - **Datum záznamu:** 2026-10-28 (soubor datován 29. 10.)
 - **Zpracováno:** ano
 - **Poznámka:** 2 h 5 min, sváteční vysílání 11:11–13:13; komentované dokumenty „100 let ČSR“ a „poslední týden ČSFR 1992“, Karel Kryl; asi 10 min přepisu vadných; zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026) {#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026}
+- **Soubor:** [přepis](prepisy/done/2026-10-30_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=2197427367815227&_rdr>
+- **Datum záznamu:** 2026-10-30
+- **Zpracováno:** ano
+- **Poznámka:** 3 h 35 min; většinu tvoří komentovaná nahrávka Zítkova výslechu na policii v Chomutově 13. 11. 2023; vysíláno před setkáním v Holýšově; zpracováno podle shrnutí pomocného agenta.

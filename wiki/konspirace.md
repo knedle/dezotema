@@ -1138,6 +1138,8 @@ Zítko tvrdí, že politická rozhodnutí řídí „bezbřehá korupce a vydír
 
 > „Bezbřehá korupce a vydírání, jsou to ovládací mechanismy pro politická rozhodnutí.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
+**30. 10.** — Zítko dodává, že Hitler podle něj dožil v Jižní Americe a měl děti a EU ovládli „vnoučátka fašounů a nácků“ zachráněná operací Paperclip.
+
+**Zdroje:** [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---

@@ -1309,3 +1309,11 @@ K výroku generálního tajemníka NATO Marka Rutteho, že válka nebude mít je
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 
 ---
+
+### Uprchlíci utekli hlavně do Ruska, „ukrajinští fašouni“ zabili v Donbasu 15 000 lidí, zbraně se vracejí do Evropy (Zítko, 30. 10. 2026) {#donbas-uprchlici-zitko-30-10-2026}
+
+Zítko tvrdí, že většina ukrajinských uprchlíků (2–3 miliony) utekla do Ruska, že „ukrajinští fašouni a náci“ v Donbasu zabili 15 000 lidí včetně 149 dětí a že první zaútočila Ukrajina. Zbraně z Ukrajiny se podle něj vracejí do Maďarska a na Slovensko a manželka jednoho poslance prý vezla přes hranice 30 milionů dolarů.
+
+**Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
+
+---

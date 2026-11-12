@@ -60,6 +60,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **24. 10.** — Gates, Bourla a Rutte na lavici obžalovaných, „kam patří“; Fuellmich „Norimberk 2“ — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 - **27. 10.** — vakcíny „jen pro Babišovu vládu“, placebo pro politiky, Rothschildův patent 2015, Prymula zakázal pitvy — [ČsTV2 — Živě 27. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 - **28. 10.** — vláda a poslanci „masoví vrazi“, Havlíček „oni by nás zabili“, španělská chřipka — [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
+- **30. 10.** — Pfizer platil FDA, Fauci „přiznal depopulaci“, smrt Čechmánka, porodnost −30 % — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -120,6 +121,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **24. 10.** — Bernardy „lhářka a manipulátorka“, „pět lží za pět minut“ v rozhovoru Čermáka; vlastní kauzy (Ústí zrušilo rozsudek, 110 dní vazby), E-Medic „ani korunu“ (→ [predikce](../predikce.md)) — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 - **27. 10.** — „menší“ Čermák o 10–17 cm, FOX = 666, Tušl „kokot“, trestní oznámení na Maruškovy; soud v Ústí „uznal“, že covid neexistuje — [ČsTV2 — Živě 27. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 - **28. 10.** — připraven na společné vysílání s Čermákem „včera, dnes i zítra“ (opakuje) — [ČsTV2 — Živě 28. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026)
+- **30. 10.** — nahrávka výslechu z Chomutova 2023 jako „důkaz“, že Čermáka neudal; telefonát s „hlasem“ Čermáka nepřijímá (→ [predikce](../predikce.md)) — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -208,6 +210,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **24. 10.** — nevěří kulaté Zemi, letům do vesmíru ani oficiálnímu 11. září; „velké odhalení“ dvojníků Pavla, Zemana a Babiše — [ČsTV2 — Živě 24. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026)
 - **27. 10.** — ČSR „od Aše“ po Zakarpatí, o hranicích rozhodnou Trump, Putin a Si — [ČsTV2 — Živě 27. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 - **28. 10.** — Havel abdikoval, aby nemusel zasáhnout armádou; zákony po 20. 7. 1992 neplatí; uplacení poslanců z LTO; advokáti „BAR“; Tošovský a zlato; Epstein, Paperclip s Hitlerem, smrt Kryla (→ [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
+- **30. 10.** — popravy „covidových lékařů“ na Guantánamu, Melissa Moore, stanné právo od 9. 8.; Dubček, znak SS na policejních autech, Hitler v Jižní Americe; Donbas, migranti „hordy“, Izrael „smlouva“ do 31. 10.; elektřina přes Lipsko (→ [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -454,6 +457,10 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Karel Kryl | ✅ pozitivní | „Viděl zlodějům do karet“, možná proto předčasně zemřel | 2026-10-28 | [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026) |
 | Štefan Harabin | ❌ negativní | Mylně považuje rozdělení za správné | 2026-10-28 | [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026) |
 | Karel Havlíček | ○ neutrální | Prý mimo kameru: „kdybychom to neudělali, oni by nás zabili“ | 2026-10-28 | [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026) |
+| Roman Čechmánek | ○ neutrální | Náhlou smrt naznačuje jako následek očkování | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
+| Melissa Moore | ❌ negativní | Technoložka Moderny, údajně popravena; zesměšňována kvůli váze | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
+| Alexander Dubček | ○ neutrální | Jeho smrt nesla „rysy práce tajných služeb“ | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
+| Václav Klaus | ❌ negativní | Vytuneloval důchodový fond (333 mil. USD) | 2026-10-30 | [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026) |
 
 ---
 
@@ -577,3 +584,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
 - [ČsTV2 — Živě: „Včera, dnes a zítra“ (28. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-včera-dnes-a-zítra-28-10-2026)
 - [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
+- [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
