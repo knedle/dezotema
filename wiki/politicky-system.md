@@ -1724,6 +1724,21 @@ Na divácký dotaz, zda by se opoziční politici neměli spojit, Vrabel odpoví
 
 ---
 
+### Prezentace „změny systému“: zrušit 5% hranici, politickou reklamu i strany, poroty a 1% daň; jako premiér by si nejdřív zajistil „malou armádu“, průmyslníky a generály (Vrabel, 8. 11. 2026) {#zmena-systemu-prezentace-vrabel-8-11-2026}
+
+Vrabel v nedělním vysílání prochází prezentaci plánu „ČR na prvním místě“ z let 2022–2023. Globalizace podle něj vede k „drancování“ (konec peněz a přechod na CBDC, inflace, vyvlastňování; pojem přejímá od „kamarádky“ Catherine Austin Fittsové) a k „nesvobodě“ (digitalizace, „nadvláda“ a transhumanismus elit, které chtějí být nesmrtelné). Bez změny systému zůstane ČR „v začarovaném kruhu, kde nás řídí CIA a MI6“. Navrhuje čtyři reformy: politickou, finanční, soudní a mediální.
+
+- **Politická:** odvolatelnost politiků (volební program jako smlouva s občany, porušení posoudí lidová porota), zrušení 5% hranice, zákaz sponzoringu a trestnost lobbingu, zákon o kampani se zákazem billboardů, povinnými 75 % textu v politické reklamě a stejným prostorem v médiích pro všechny, častá referenda a trestní odpovědnost politiků. „Nejlepší“ by podle něj bylo zrušit politické strany a volit jednotlivce.
+- **Finanční:** jediná 1% daň z převodů (připisuje ji Jamesi Tobinovi), emise nových peněz přímo na účty lidí, zdanění „stojících peněz“, progresivní daň a nepodmíněný příjem kvůli nezaměstnanosti z AI. V ČR mají působit jen české banky.
+- **Soudní a mediální:** soudy s porotami a nový mediální zákon. ČT „měla být dávno zrušená“.
+
+Podmínkou je vystoupení z EU. Všechny parlamentní strany kromě Pirátů označuje za zkorumpované odnože ODS nebo Babiše (SPD je „ODS 2“ založená „kmotrem“ Hrdličkou, Martin Kuba „pravá ruka kmotra Dlouhého“). Babišova vláda podle něj za rok neudělala „ani ťuk“ a její odmítnutí referenda o vystoupení z EU a NATO je „přechod z demokracie do diktatury“. Vzorem je Srbsko, kde studenti provedli „nenásilnou revoluci“ a vyhráli volby; Vučiče přesto dál považuje za „nejlepšího politika na světě“. Námitku, že je vše rozprodané, odmítá: smlouvy lze zrušit (Veolia, E.ON), majetek vyvlastnit a německý majetek (Raiffeisenbank, Škoda) započíst proti válečným reparacím, které po přepočtu „reálnou inflací“ odhaduje na necelých 14 000 mld. Kč. Jako premiér by si podle svých slov nejdřív „udělal malou armádu“, průmyslníkům řekl, že se s ním buď domluví, „nebo budou mít problém“, a generály, kteří by nesložili přísahu, by „okamžitě nechal vyházet“. Teprve potom by začal s reformami.
+
+> „Kdybych byl premiér, tak první, co bych udělal, že bych si okolo sebe udělal malou armádu.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
+
+---
 ### Kritika vlády bez alternativy — nic lepšího než Babiš, Okamura a Macinka; SPD devět let nic, Konečná u Patriotů „není zrada“ (Černohorský, 6. 11. 2026) {#kritika-bez-alternativy-cernohorsky-6-11-2026}
 
 Černohorský přiznává, že sám kritizuje Babiše i vládu a vývoj se mu nelíbí, ale kritikům na Facebooku vyčítá, že nenabízejí řešení: „Máte něco lepšího než Andrej Babiš, Tomio Okamura a Petr Macinka?“ Psaní komentářů podle něj nic nevyřeší. SPD podle něj za devět let ve Sněmovně nic neudělala, porušovala vlastní návrhy a referendum ani odvolatelnost politiků nepřišly ani teď, když je ve vládě; kdyby pracovala s lidmi a pro lidi, nemusela by se s nikým spojovat. Vstup Kateřiny Konečné k Patriotům naopak hájí: nejde o zradu, ale o politický vývoj — v parlamentu byla osamocená, Patrioti mají sílu a ona slíbila dál hájit sociální program KSČM. Vlastenci se podle něj „označkují jako dobytek“ stranami (SPD, PRO, Trikolora, Svobodní, Stačilo, ČR na prvním místě „s Vrabelem“) a pak se nenávidí a udávají; jako nevyužitou sílu uvádí 600 tisíc lidí hlásících se k moravské národnosti.

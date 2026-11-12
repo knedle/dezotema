@@ -920,6 +920,15 @@ K zařazení ČR mezi státy ohrožené migračním tlakem (kvůli Ukrajincům m
 
 ---
 
+### Konec Čechů a češtiny: za 20 let polovina, za 40 let menšina mluvčích, možná zákaz; Francie a Británie „úplně černé“ (Vrabel, 8. 11. 2026) {#konec-cestiny-vrabel-8-11-2026}
+
+Pokud ČR neprovede změnu systému, neuzavře hranice a nevystoupí z EU, podle Vrabela „skončí jako stát“. EU ji podle něj rozkrade „do posledního atomu“, parlament se rozpustí a ČR připadne EU nebo nějakému novému „Rakousko-Uhersku“. Za 20 let bude česky mluvit nanejvýš polovina obyvatel, za 40 let menšina a čeština bude možná „zakázaná“. Francii a Británii popisuje jako „islámské země“, které jsou „úplně černé“. ČR je podle něj z velké části „ukrajinizovaná“ a v zimě přijdou další Ukrajinci.
+
+> „Za 20 let bude tady tak polovina lidí maximálně jako mluvit česky a za 40 let […] už bude jenom menšina lidí mluvit česky.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
+
+---
 ### Migranti jako „trojský kůň“ a „hordy“ mladých mužů — okamžitá deportace (Zítko, 30. 10. 2026) {#trojsky-kun-zitko-30-10-2026}
 
 Zítko označuje migranty za „trojského koně“ a „hordy“ tvořené jen muži ve věku 20–40 let a žádá jejich okamžitou deportaci.

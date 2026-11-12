@@ -1,0 +1,379 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1549262023632032
+Datum videa:  2026-11-10
+Zpracováno:   2026-11-12 21:46:37
+Jazyk:        cs
+Délka:        00:20:15
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    14s
+Přepis:       59s
+Rychlost:     20.4x realtime
+Celkem:       1m 14s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:01] Tak, vážení přátelé, dneska máme 10. listopadu roku 2026, připnu si to tady takhle a mám takový pocit, že nám právě začíná nová revoluce v České republice, takhle, aby to bude slyšet, myslím, že začíná nová revoluce v České republice,
+[00:23] Ještě světlo si udělám trošku, ať vidíte líp. Nová revoluce a myslím si, že pod vedením CIA, protože, jak bych to řekl, vždycky, když studenti začínají revoluci, tak je to zneužitý.
+[00:43] Můžete říct, že třeba v roce 89 to tak nebylo, že v roce 89 studenti, když dělali revoluci, takže to bylo za pravdu a lásku a za svobodu, ale podívejte se na to, co se doopravdy stalo.
+[00:58] Stalo se to, že naše země byla předaná do rukou těch takzvaných západních spojenců, západních struktur.
+[01:10] Majetek byl vyvedený ven skrze kuponovou privatizaci. Armády sovětské sice odjeli, ale přijeli armády jiné, nebo jsme se dostali do NATO,
+[01:23] stali jsme se součástí západních armád. A ty politické struktury, které vládnou v České republice, teda ten zbytek vlády, které mají,
+[01:42] protože většina toho se rozehrává v Evropské unii, tak se jezdí školit do Aspen institutu a dalších západních nějakých škol,
+[01:54] jak vlastně mají politiku dělat. No možná jste si všimli, že právě teď probíhá na náměstí republiky demonstrace,
+[02:01] studentská demonstrace, že tam je docela dost plno, je tam x tisíc lidí z toho, co jsem viděl.
+[02:07] A ta demonstrace je zajímavá. Teď jsem poslouchal člověka z FAMU, který zastupuje FAMU, a ten řekl,
+[02:15] že je to sice demonstrace nebo revoluce nenásilná, trošičku si to počili od nás,
+[02:22] ale to jim nebrání v tom, aby dělali bordel a aby komplikovali život některým lidem.
+[02:30] Samozřejmě, že to je svým způsobem terorismus, výzva k terorismu, to, o čem mluví,
+[02:36] ale je to tak hezky zaobalený, že samozřejmě nepůjde tenhle člověk na pěda půh let do vězení jako Tomáš Čermák.
+[02:42] Ale je jednoznačný, že to, že vyzývají k bordelu a ke komplikování životu lidem,
+[02:49] že to překročilo hranice toho, co je v nějaké takové slušné společnosti povolené.
+[02:59] Ty studenti přešli už s podmínkama. Předpokládám, že většina z vás to nesledovala.
+[03:04] Takže oni řekli, že budou dělat bordel a vyzývají vládu ke splnění podmínek.
+[03:09] Dokud vláda nesplní jejich podmínky, tak budou pokračovat v tom bordelu.
+[03:13] První podmínkou je okamžité odvolání ministra kultury klempíře.
+[03:18] Okamžité odvolání členů Rady pro lidská práva a nových členů v radě Českého rozhlasu.
+[03:30] To, co řekl student FAMO, je taky, že pokud vláda neudělá tyhle kroky,
+[03:36] pokud neustoupí těm lidském studentům, který vyhružují bordelem a komplikování životů lidem,
+[03:46] takže budou pokračovat v těch protestech dál a budou požovat demisi vlády.
+[03:52] Ten princip, proč říkám, že to řídí CIA, ten princip jsem viděl v Srbsku v posledních třech letech.
+[04:02] Spočívá to v tom, že se objeví televize. V tomhle případě to dělá Česká televize,
+[04:09] ale dělá to taky i dnes, dělá to Česká kisková kancelář, která přenáší tu demonstraci online,
+[04:14] ČTK. Nikdy nepřenášeli naše demonstrace, obrovský pokud vím teda, kromě Rajchlových,
+[04:20] ale ty naše, které vznikaly spontánně, tím, že se lidi skládali, tak tam jsme podporu médií neměli.
+[04:26] A je vidět jako pořadatel demonstrací, myslím si, že jsem v České republice asi dělal nejvíc demonstrací,
+[04:34] nevím, jestli někdo dělal tolik demonstrací, možná, že jo, tak někdy jsem to nepočítal.
+[04:38] Ale jako minimálně jeden z těch největších pořadatelů demonstrací, tak vám můžu říct,
+[04:43] že to vybavení, které tam mají, je velmi drahý vybavení.
+[04:46] To není demonstrace za 20 tisíc, to je demonstrace minimálně za půl milionu, spíš bych řekl víc.
+[04:51] A nepředpokládám, že by to studenty zaplatili ze svého školného, ze svých nějakých stipendí,
+[04:58] nebo z kapesného od rodičů.
+[05:01] Když se podíváte na to, jak to bylo uspořádané, tak včera jsem mluvil s jedním kamarádem,
+[05:11] tak třeba Karlova univerzita, tak rektori zakázali výuku na dnešní den, aby nahnali studenty do ulic.
+[05:17] Takže je to řízené zhora, stoprocentně. Je to řízené skrze média.
+[05:21] A v Srbsku to fungovalo tak, že jedno americké médium, které patří CNN, nebo té skupině okolo CNN,
+[05:28] tak když začaly ty demonstrace studentské, v Srbsku to rozpoutali hned po tom, co spadla střecha v Novém sadu,
+[05:36] tak tam přišlo pár studentů.
+[05:37] A televize začala celý den vysílat okolo toho, dělat pořady, rozhovory ze studenty
+[05:43] a udělala z toho něco zajímavého v tom mediálním prostoru.
+[05:46] A díky tomu tam začaly přicházet další a další a další lidi,
+[05:49] protože se z toho udělalo boom v televizi, v americké televizi.
+[05:53] To znamená jednoznačně řízené ze strany CIA.
+[05:57] Samozřejmě v Srbsku je to jiný než v České republice, hned to vysvětlím.
+[06:01] V Srbsku se na všech těch demonstracích nepodařilo najít ani jednu vlajku Evropské unie,
+[06:05] nebo NATO, nebo něco takového.
+[06:07] V České republice studenty mluví o tom, že musí českou televizi zachránit
+[06:12] a česká média zachránit, protože oni jsou tou brzdou před tou ruskou propagandou,
+[06:18] před tím ruským nebezpečím.
+[06:19] Takže to, co se tady rozhárává na náměstích, je, řekněme, snaha o převrat v České republice,
+[06:27] stoprocentně snaha o to dostat vládu pryč.
+[06:30] A už jsem to říkal několikrát. Nevidím k tomu úplně důvod,
+[06:34] protože vláda Andreje Babiše mi jaksi nepřipadá, že by bojovala za Rusko,
+[06:41] nebo že by bojovala proti válce.
+[06:43] Na druhou stranu, teď on probíhá od včerejška v Polsku první cvičení
+[06:49] vojenské koalice ochotných a Česká republika se toho neúčastní.
+[06:52] Takže je možné, že ti, kteří rozpoutávají válku, chtějí odstranit Andreje Babiše a jeho vládu,
+[06:59] aby měli vládu, která bude víc podporovat na to,
+[07:03] která bude víc podporovat zasílání našich vojáků do bojových akcí.
+[07:11] Možná, že Andrej Babiš jim není dostatečně dobrý.
+[07:14] Možná, že ano.
+[07:16] Že potřebují dostat Rakuša na Fialu a tuto jejich partu do vlády,
+[07:22] že jim budou sloužit líp.
+[07:24] Možná, že Andrej Babiš má nějaké zbytky pocitů,
+[07:28] že chce třeba chránit ekonomiku České republiky.
+[07:32] Nevím, nerozumím tomu, protože zatím to, co jsem viděl od Andreje Babiše,
+[07:36] bylo jeden podvod za druhým, ať už to byla muniční iniciativa,
+[07:39] nebo peníze na Ukrajinu, nebo hna to schůzka.
+[07:42] Prostě zatím jsem neviděl, že by Andrej Babiš nějak bojoval za mír
+[07:46] a za Českou republiku.
+[07:48] A co se týče referenda, Andrej Babiš taky včera přišel velmi servilně
+[07:52] vůči globalistům, s kým, že bude nový zákon o referendu,
+[07:56] ale vláda Andreje Babiše zakáže referendum o vystoupení z Evropské unie a z NATO.
+[08:01] Takže nevidím tam úplně to, proč by tak strašně globalistům překážel.
+[08:05] Ale to, co vidím, že to, co se rozehrává,
+[08:08] je snaha o sundání vlády Andreje Babiše a to bude pokračovat.
+[08:12] Bude to pokračovat tak, jak jsem to viděl, že to pokračovat dlouho.
+[08:15] Možná, že Andrej Babiš dovládne do tři roky, možná, že nedovládne.
+[08:21] Předpokládám, že nedovládne.
+[08:23] Že se to bude stupňovat, že nedovládne.
+[08:26] A otázka je, kým bude nahrazený.
+[08:28] Protože v Srbsku třeba z toho vznikl studentský seznam,
+[08:33] studentská kandidátka, na který ještě pořád nevíme, kdo bude.
+[08:37] V České republice, jestli studenti vytvoří taky něco takového,
+[08:40] že to budou studenti, kdo bude dělat ty protesty, tak taky nevíme,
+[08:44] co z toho nakonec bude.
+[08:46] Ale určitě víme, jaká je jejich ideologie.
+[08:48] Jejich ideologie je, že tahle vláda, SPD, ANO a motoristů,
+[08:55] tak mluví proti migrantům, proti migraci.
+[08:58] A to jim vadí.
+[08:59] To nám dneska jasně řekli na těch náměstích.
+[09:02] Takže jestli se podaří, tahle revoluce je jich nenásilná,
+[09:08] a myslím si, že se jim to podaří, protože mají podporu médií,
+[09:11] respektive médié a média a školy a divadla rozehrávají tadyhle tu záležitost.
+[09:20] Tak předpokládám, že další vláda, která bude,
+[09:24] bude velmi silně promigrační, pro unijní
+[09:30] a že velmi rychle ztratíme poslední zbytky České republiky.
+[09:37] To, co jsem včera ohlásil, že 17. listopadu rušíme pochod za svobodu slova,
+[09:43] tak dneska se ukazuje ještě o to víc rozumnější,
+[09:46] protože 17. listopadu nás bude čekat první kulminace těchto protestů.
+[09:51] A celé to bude v médiích jenom o tom,
+[09:54] že jsou tyhle protesty za pravdu a lásku a studenti,
+[09:57] a že se všichni spojili proti současné vládě a proti ruským trollům.
+[10:03] A my, kdybychom šli s těmi Transparenty Z,
+[10:06] tak si nejsem úplně jistý, jestli by nám rovnou nekomplikovali život,
+[10:11] jak říkali a nedělali bordel na ulicích,
+[10:14] tak jak dneska slibovali na půdu.
+[10:19] Pro mě to je velmi špatná zpráva,
+[10:23] protože s vládou Andreje Babiše to byla pro mě tragická zpráva.
+[10:27] Ale to, co chystají teďkon, tam už nebude žádný cesty zpět,
+[10:35] protože jakmile převezmou vládu tyhle děti,
+[10:38] který znají politiku jenom z teorie, kterou jim řekli ve škole.
+[10:44] A všechny ty věci nedokážou dát do souvislosti
+[10:46] v souvislosti s nějakou životní zkušeností,
+[10:49] ale jenom na teoretické úrovni.
+[10:51] A pohybují se ne na úrovni zkušeností někdy tam,
+[10:53] kde je srdce, kde má člověk žaludek a kde cítí,
+[10:56] ale pohybují se jenom na úrovni hlavy, na úrovni konceptu,
+[11:00] tam, kde jim někdo něco řekl, co jim dává smysl a logiku, čemu věří.
+[11:04] Tak to s Českou republikou nevidím příliš dobře, přátelé.
+[11:12] Nejde o poplatky, to je jen záminka.
+[11:14] Ne, ne, ne, o poplatky ani oni neříkají, že jde o poplatky.
+[11:18] Dneska tam byla taky jejich kolegyně nějaká z Polska,
+[11:21] která vyprávila, jak to bylo v Polsku,
+[11:24] když začala vládnout totalitní PIS, právo a spravedlnost,
+[11:28] jak udělali v roce 2008 zákon, převzali kontrolu nad médií
+[11:33] a jak potom ti, kteří protestovali na ulicích,
+[11:37] jak byly likvidováni skeze média.
+[11:39] Jako kdyby u nás tohleto nebylo proti nám celou dobu,
+[11:43] těmi médii, o kterých oni mluví, že jsou svobodné.
+[11:47] Ale nehledejte tam žádnou pravdu.
+[11:51] Logiku tam můžete najít, částečnou logiku.
+[11:53] Mezi různými, řekněme, mezi různými myšlenkovými proudy
+[11:57] tam najdete nějakou logiku, ocak, pocak.
+[12:00] Ale pravdu, to znamená logiku, která nemá začátek ani konec,
+[12:04] to tam nenajdete, protože ty tu studenti neznají.
+[12:07] Oni mají jenom logický fráze, který budou skládat dohromady
+[12:11] a hesla, kterými se budou řídit.
+[12:13] Podle mě jsme překročili Rubicon
+[12:17] a řeknu vám, s tím, že byl odsouzený Russell Brand,
+[12:26] tak si myslím, že se svět posunul do nové fáze.
+[12:29] A včera jsem nad tím hodně přemýšlel i dneska,
+[12:32] co se to vlastně děje a myslím, že jsem objevil podstatu toho,
+[12:35] co se děje.
+[12:37] Tato záležitost je potřeba vidět v dlouhodobém procesu.
+[12:42] Ale řekněme, podívejme se na to aspoň od covidu.
+[12:47] Aspoň od covidu.
+[12:48] To, co se děje, je, že se nám tady snaží někdo vytvořit
+[12:53] nový svět, kde budou všichni poslušní,
+[12:57] kde budou všichni pod kontrolou,
+[12:59] kde budou všichni dělat to, co je povoleno,
+[13:02] kde budou se všichni moc pohybovat v předem určených mezích.
+[13:08] A k tomu, aby se tohle stalo, tak je potřeba zlikvidovat
+[13:11] všechny lidi, kteří jsou svobodomyslní.
+[13:13] Všechny svobodomyslné silné osobnosti,
+[13:16] které se nebojí, je potřeba zlikvidovat.
+[13:20] A první tenhle proces jsme viděli v covidu.
+[13:23] Naprosto nesmyslná opatření, která likvidovala naší svobodu.
+[13:29] A ten, kdo se protestová, kdo protestoval,
+[13:32] tak byl likvidován.
+[13:33] Podívejte se třeba na Rainera Fulmicha,
+[13:34] který je ve vězení už nevím kolik let,
+[13:38] za údajné finanční podvody.
+[13:40] To je to samé, co jedou proti mě
+[13:42] a co jeli proti jednomu ze šéfů AFD,
+[13:45] který taky skončil ve vězení.
+[13:47] Samozřejmě taky proti dalším lidem.
+[13:49] To jenom teď konberu na mátkou.
+[13:52] Podívejte se, co udělali Julianu Assange,
+[13:55] který začal vlastně ještě dřív,
+[13:57] který ukazoval na to, co se dělo
+[13:59] z Američany v Afgánistánu a v Jiráku,
+[14:03] který zveřejnil Wikileaks.
+[14:05] Tak na toho šli skrze znásilnění.
+[14:08] Toho zavřeli za údajná znásilnění.
+[14:10] To samé udělali Russell Brandovi.
+[14:13] A to naprosto bez důkazů.
+[14:15] Bez jakýchkoliv důkazů
+[14:16] ho zavřeli na 10,5 let do vězení.
+[14:20] Dneska jsem viděl video jeho otce.
+[14:22] Ten řekl, že Russell je oběť.
+[14:24] Že za ním přišla ta dívka.
+[14:26] A to je pravda.
+[14:26] Ta holka, která měla být údajně znásilněná,
+[14:28] tak přišla za ním.
+[14:30] A hned po něm skočila.
+[14:31] A začala mu jazykem olizovat to,
+[14:35] kam potom on
+[14:37] asi jako na pobítku
+[14:40] jí dělal radost
+[14:43] svojím náčiním,
+[14:44] když to takhle řeknu.
+[14:45] Ale odsouzený byl on za znásilnění.
+[14:47] A jediný, co tam bylo,
+[14:48] bylo její slovo.
+[14:50] A pár nějakých výpovědí naprosto neurčitých.
+[14:52] Třetích osob, kteří u toho nebyli.
+[14:55] Takže Russell Brand je člověk,
+[14:58] který je podle mě nejinteligentnější,
+[15:01] nejodvážnější
+[15:02] a nejupřímnější
+[15:05] z těch lidí, kteří se pojebují ve veřejném prostoru.
+[15:08] Který mluví o věcech,
+[15:10] které se dějou v našem světě.
+[15:11] On je podle mě opravdu nejlepší.
+[15:12] A jestli tohle nevyvolá
+[15:14] ve společnosti
+[15:17] tak silnou odezvu,
+[15:19] že padnou vlády
+[15:20] a že rastla propustí,
+[15:22] tak vstoupíme do doby,
+[15:24] kdy už nebude prostě návratu.
+[15:28] Jestli tohohle stočí,
+[15:29] jestli tenhle člověk skončí na deset let ve vězení,
+[15:32] tak už prostě žádná horší věc.
+[15:35] Nepředpokládám, že se stane,
+[15:36] která by tu společnost mohla dát dohromady,
+[15:38] aby lidi zakročili proti tomu, co se děje.
+[15:41] A dneska, když se podíváte ve Francii,
+[15:45] normálně po ulicích chodí davy
+[15:47] nově příchozích
+[15:49] a přijíždějí po lodích
+[15:50] nově příchozí z Afriky.
+[15:53] Viděl jsem taky videa o tom,
+[15:54] jak lidi ze Senegalu,
+[15:56] jak prostě dostávají zaplaceno byt
+[15:58] nebo dům, jídlo.
+[16:01] Prostě ty migranti nepracují.
+[16:02] Zatímco důchodci umírají,
+[16:04] protože nemají na to pení
+[16:05] a často ani na jídlo.
+[16:08] Tak s Evropou, podle mě,
+[16:10] pokud se něco velmi rychle nestane,
+[16:12] tak s Evropou bude konec.
+[16:13] A s Českou republikou,
+[16:14] Česká republika,
+[16:15] tohlet z ten pokus těch studentů
+[16:17] o to převzít vládu
+[16:19] a myslím si, že bude úspěšný,
+[16:21] tak bude spočívat v tom,
+[16:22] aby nás posunuli dál na západ,
+[16:23] aby nás víc integrovali do toho
+[16:25] potápějícího se západu.
+[16:30] Já to už vůbec nemluvím o tom,
+[16:32] že podle mě začíná válka.
+[16:36] Takže situace je velmi špatná.
+[16:39] To, že 17. listopadu
+[16:40] nepůjdeme na ten pochod za svobodu slova
+[16:42] a to má logiku.
+[16:44] Na pochod za svobodu slova
+[16:45] půjdeme buď to 23. nebo po 23.
+[16:49] jestli Tomáš Hedlička vyhraje u soudu,
+[16:52] jestli Tomáš Hedlička vyhraje u soudu
+[16:54] a Z už nebude trestné.
+[16:56] Na základě té argumentace
+[16:58] a toho, co jsme udělali,
+[17:00] všechny ty plagáty a jak jsme o tom mluvili
+[17:03] a na základě jeho obajoby,
+[17:06] tak uděláme pochod svobody potom.
+[17:08] Pokud Tomáš Hedlička prohraje,
+[17:09] tak půjdeme k soudu Kateřiny Blahninkové
+[17:12] a Kateřina Blahninková musí vyhrát.
+[17:14] Protože u Tomáše Hedličky
+[17:16] možná ještě může někdo mluvit o tom,
+[17:18] že měl to Z na podporu Donbasu
+[17:20] a že stojí na nějaké straně v tom konfliktu,
+[17:23] ale u Katky Blahninkové
+[17:25] o tom není vůbec řeč,
+[17:26] protože ona si vzala to písmeno Z na sebe
+[17:29] jenom proto, aby podpořila Tomáše Hedličku,
+[17:31] že on má právo na svůj politický názor.
+[17:33] To znamená, že její úmysl vůbec nebyl
+[17:35] spojený s žádnou válkou,
+[17:38] vůbec ne s žádnou genocidou
+[17:39] nebo s nějakými válečnými zločiny.
+[17:41] Ona to vůbec neřešila.
+[17:43] Ona prostě jenom řešila to,
+[17:44] aby se v České republice mohli lidi
+[17:45] svobodně vyjadřovat k politice.
+[17:49] Takže pochod svobody uděláme
+[17:51] pravděpodobně po soudu Kateřiny Konečný
+[17:54] a myslím si, že to bude vítězný pochod svobody.
+[17:57] Ale to bude malé vítězství v tom,
+[17:58] co dokážeme.
+[17:59] Dokážeme vyhrát tuhle malou bitvu,
+[18:03] ale tu velkou válku,
+[18:04] která se teď rozehrává na našich ulicích,
+[18:07] tam se obávám, že tu nevyhrajeme.
+[18:09] A nevím, co se bude muset stát,
+[18:13] aby se tahle věc změnila,
+[18:14] ale možná to bude válka,
+[18:16] možná to bude nějaká velká
+[18:18] geopolitická změna,
+[18:20] možná to bude občanská válka v Evropě
+[18:22] a potom následný uspořádávání
+[18:24] nový Evropy.
+[18:26] Nevím, co to bude,
+[18:27] ale jednoho dne doufám, že to přijde,
+[18:30] protože nemůže jít pořád všechno
+[18:32] jenom dolu, dolu, dolu, dolu.
+[18:33] Jednou se to musí otočit
+[18:34] a musí to jít zase nahoru,
+[18:37] musí to jít zase k lepšímu.
+[18:39] Vždycky se ty nůžky otevíraly
+[18:41] a byly boje
+[18:42] a potom, když se dobojovalo,
+[18:44] tak všichni společně začali
+[18:45] budovat svoji rozmlácenou zem.
+[18:47] Takže pevně doufám,
+[18:48] že jednoho dne se dočkáme toho,
+[18:50] že začneme stavět nový systém.
+[18:52] Nevím, co k tomu víc
+[18:56] v tuhle chvíli říct.
+[18:58] Chtěl jsem vám jenom říct o tom,
+[18:59] že ta demonstrace probíhá
+[19:01] a že to je opravdu začátek,
+[19:03] že to je určitě řízený ze CIA
+[19:05] a že to je teprve začátek,
+[19:07] že to bude trvat do té doby,
+[19:08] dokud nebudou volby
+[19:10] nebo dokud nedostanou
+[19:11] tuhle vládu od moci.
+[19:14] Mějte se zatím,
+[19:15] uvidíme se večer v devět úsprav.
+[19:18] Myslím, že naše kěžiště práce
+[19:20] se teď přesune,
+[19:22] přesouvá, možná už přesunulo
+[19:23] do toho, abychom dělali zprávy,
+[19:26] abychom informovali o tom,
+[19:28] co se děje,
+[19:28] aby si lidi uchovali zdravý rozum,
+[19:30] aby rozuměli tomu, co se děje,
+[19:32] abychom udrželi nějaké vidění
+[19:34] reální situace
+[19:35] a abychom jako komunita,
+[19:38] jako naše rodina Česká republika
+[19:40] na první místě drželi pohromadě,
+[19:41] abychom nebyli osamocený
+[19:43] ostrůvky v České republice,
+[19:45] utápějící se v beznaději,
+[19:46] ale abychom byli jako světla,
+[19:49] která se nakonec propojují
+[19:51] propojují tím, jak září
+[19:53] každej do všech směrů
+[19:54] přes celou Českou republiku
+[19:56] jako s jakým takový malý,
+[19:58] taková malá světelná deka,
+[20:00] ale doufám, že se rozzáří
+[20:01] a že jednoho dne Česká republika
+[20:05] na první místě bude veliká,
+[20:08] že tu zemi nějakým způsobem
+[20:09] ještě zachráníme.
+[20:11] OK, to je vše, mějte se krásně.

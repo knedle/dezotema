@@ -6025,6 +6025,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 18 min, zprávy čte Zuzka; hostka Vladimíra Vítová komentuje pochod spolku Svatopluk na ČT.
 
+## Ladislav Vrabel — Nedělní vysílání 8. 11. 2026 {#ladislav-vrabel--nedělní-vysílání-8-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-08_Ladislav-Vrabel_8-11-2026-Pravidelné-nedělní-živé-vysílání-ve-21h.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1411829710933398>
+- **Datum záznamu:** 2026-11-08
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 38 min, Vrabel sám (Zuzka jen v chatu); prezentace plánu „změny systému“ z let 2022–2023; bez stochastického teroru.
+
 ## Konspirátor Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026) {#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026}
 - **Soubor:** [přepis](prepisy/done/2026-11-07_Konspirátor-Boldy-KonspyChannel_Opravdové-zločiny-svobodní-zednáři.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel

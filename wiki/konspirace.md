@@ -1143,3 +1143,13 @@ Zítko tvrdí, že politická rozhodnutí řídí „bezbřehá korupce a vydír
 **Zdroje:** [ČsTV2 — Živě: 108. výročí Československa (28. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---
+
+### Střelba v Krakově — za oficiální verzi „ruku do ohně nedá“, srovnání se střelbou na FF UK (Vrabel, 8. 11. 2026) {#krakov-strelba-vrabel-8-11-2026}
+
+Vrabel prohlašuje, že „nechce dělat konspirace“, na videu přestřelky policisty s útočníkem v Krakově ale podle něj není vidět krev ani poškozené oblečení. Útok přišel „v blbé době“ před demonstracemi ke Dni nezávislosti 11. listopadu. Zda šlo o šílence, nebo o orchestrovanou akci, se podle něj nikdy nedozvíme, protože by pak „musely padat hlavy“. Srovnává to se střelbou na Filozofické fakultě UK, kde policie podle něj vyvedla studenty „přímo na dostřel“ a zveřejnilo se „pramálo“.
+
+> „To, že by to bylo tak, jak nám to popisují média, tak za to bych teda ruku do [ohně] nedal.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
+
+---

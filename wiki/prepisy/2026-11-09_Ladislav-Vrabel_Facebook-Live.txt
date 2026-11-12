@@ -1,0 +1,425 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1124919143880187
+Datum videa:  2026-11-09
+Zpracováno:   2026-11-12 21:50:51
+Jazyk:        cs
+Délka:        00:18:34
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    19s
+Přepis:       57s
+Rychlost:     19.4x realtime
+Celkem:       1m 17s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:01] Vážení přátelé, přejuvám hezký večer a mám pro vás oznámení toho, že pochod, který se měl konat 17. listopadu, pochod za svobodu slova a za rehabilitaci politicky souzených a politicky poškozených lidí, se odsouvá ze 17. listopadu.
+[00:25] 17. listopadu prostě nebude. A je to poprvé, co dělám takovouhle věc, asi budu muset počkat, než sem přijde pár lidí, abych ještě jednou řekl, co se jedná, protože než nějaký lidi přijdou na to živý vysílání, tak to chviličku bude trvat.
+[00:45] A vysvětlím vám, jaký jsou k tomu důvody. Není to teda úplně rozhodnutí jenom moje samostatné, ale k tomu rozhodnutí jsme dospěli s vedením hnutí Česká republika na prvém místě a s vedením spolku Rodina Česká republika, zapsaný spolek, což jsou organizace, které v podstatě pořádají ty veřejné schromáždění, které teď děláme poslední dobou.
+[01:12] Ale řeknu vám, jaké jsou důvody. První důvod je ten, že 17. listopadu se něco bude dít a bude se dít něco vážného, bude se dít něco velkého.
+[01:29] 15. listopadu bude demonstrace na podporu České televize, která si přihrála ten boj za svobodu slova.
+[01:36] To znamená, my jsme byli opět přepsaní v boji za svobodu slova a to za pomoci mainstreamu všech médií, za pomoci škol, dokonce zítra myslím, že i školy mají zakázáno vyučovat,
+[01:50] za pomoci divadla národního. Takže to kěžiště toho boje o svobodu slova se nám jaksi vzalo a místo skutečného boje o svobodu slova se bude bojovat falešně o svobodu slova.
+[02:10] Někde, kdy média, naši umělci rozehráli boj za svobodu slova v rámci boje za povinné poplatky za českou televizi.
+[02:22] To samo o sobě je absolutně absurdní, ale to kěžiště se přesouvá jinam.
+[02:26] Ale vzhledem k tomu, že 15. můj kolega Minář, který organizuje demonstrace, ohlásil demonstraci na Letnou, kde bude mít samozřejmě podporu médií a bude spousta lidí.
+[02:38] A vzhledem k tomu, že naše společnost je absolutně sfanatizovaná, tak když se zamyslím nad tím, proč je to 15. listopadu, tak to vychází tak, že je to proto, aby to mohlo pokračovat 17. listopadu.
+[02:52] To znamená, to je první věc, my nechceme přispívat k tomu boji, který se tady rozehrává.
+[03:02] Nevíme nikdo, co z toho bude a nakonec z toho může být něco velmi nepříjemného.
+[03:07] Takže to je první věc, nechceme přispívat tady k tomu.
+[03:09] Druhá věc, kterou vám řeknu. Ten pochod za svobodu slova se ani uskutečnit nemůže.
+[03:16] Protože je to tady i moje chyba, ale víte, že tak jak 3.10. byla zatčená Katka Blahníková,
+[03:26] tak byla zatčená za to, že měla českou trikoloru přes tričko ve tvaru písmene Z.
+[03:32] A spousta lidí vzala ten boj za svobodu slova právě v kontextu toho, co udělala Katka Blahníková,
+[03:41] ale i další, že nějakým způsobem na sobě měli písmene Z.
+[03:44] A co se mě týče, tak jsem vysvětlil, co pro mě znamená to, že někdo má na sobě písmene Z.
+[03:53] Že to je svoboda politického projevu.
+[03:56] A že někdo nemá právo na to, někomu tu svobodu politického projevu brát.
+[04:00] A co mě se týče, tak myslím, že jsem absolutně mimo ohrožení.
+[04:05] A myslím si, že i Katka. A až bude mít Katka soud, pokud bude mít soud,
+[04:09] tak přesuneme tu demonstraci za svobodu slova pravděpodobně na den, kdy ona bude mít soud.
+[04:16] Ale my jsme se potom dozvěděli od poslance Jindřicha Reichla,
+[04:22] který vlastně celý tadyhle to dal dohromady a začal udávat lidi za to,
+[04:25] že měli odznáček s písmenem Z.
+[04:27] A vlastně vytvořil tenhle trestný čin, kde vytvořil to rovnítko Z,
+[04:32] rovná se popírání genocidy a shvalování válečných zločinů.
+[04:38] A on nám řekl potom, co jsme vyhlásili tadyhle ten pochod,
+[04:42] že navrhuje změnu. Že navrhuje změnu zákona,
+[04:45] že nebude trestné mít písmeno Z.
+[04:47] Ale dneska jsem mluvil s majorem Kolářem. Všichni víte, kdo je major Kolář.
+[04:52] A ptal jsem se o pane majore 17. listopadu, když budeme mít pochod.
+[04:57] Lidi tam přijdou z transparenty, na kterých bude písmeno Z za svobodu slova.
+[05:03] Co bude dělat policie?
+[05:04] A major Kolář mi řekl, že policie bude postupovat úplně stejně,
+[05:08] jako postupovala do posud.
+[05:10] To znamená, když uvidí, že někdo má někde nějaké písmeno Z,
+[05:14] tak ten člověk bude pravděpodobně zatčený.
+[05:17] Minimálně mi řekl, že bude muset být stotožněný a předvolený k výslechu.
+[05:21] A to, jak to vidím, tak pokud uděláme na malostranském náměstském schromáždění,
+[05:27] na malostranském náměstském schromáždění, abychom šli na pochod,
+[05:30] tak žádný pochod nebude.
+[05:32] Protože přijede policie, která na to bude připravená,
+[05:36] přijede několik jednotek těžkohoděnců, aby tam nevznikl,
+[05:41] anebo vznikl konflikt, a zatknou několik lidí.
+[05:45] Možná zatknou 50 lidí, možná zatknou 100 lidí, možná zatknou jenom 3 lidi,
+[05:50] možná zatknou jednoho člověka.
+[05:52] Ale v okamžiku, kdy zatknou jednoho člověka, anebo 50,
+[05:56] tak to, co uděláme my, nebude, že půjdeme na pochod,
+[06:00] ale půjdeme na policii.
+[06:01] Protože to je to, co jsem řekl, že už nenecháme nikoho padnout,
+[06:04] nikoho, aby jeho policie zatýkala.
+[06:06] A major Kolář mi naprosto jasně dneska odpoledne řekl,
+[06:10] že pro policii je to úplně stejný a že bude vyhodnocovat to,
+[06:14] že bude mít na sobě někdo jakékoliv písmeno Z
+[06:17] nebo na transparentu jako trestní čin
+[06:21] nebo podezření z trestného činu a podle toho bude postupovat.
+[06:24] To znamená, pakli, že bychom udělali to setkání,
+[06:28] tak žádný pochod se neuskuteční, protože policie zatkne několik lidí
+[06:31] a my půjdeme před policejní stajnici.
+[06:35] To samo o sobě nemá žádný význam, žádný smysl.
+[06:38] Další důvod, který je k tomu, abychom to přesunuli na jiný termín,
+[06:44] respektive zrušili teďkon 17. je, co řekla Lenka Tarabová.
+[06:48] Lenka Tarabová řekla, že lidi 17. listopadu mají jít do ulic,
+[06:54] ale jediný, kam nemají chodit, je na demonstraci,
+[06:57] kterou zvolává Ladislav Rábel a že ví, proč to říká.
+[07:01] Žádné pomlouvání mojí osoby, jenom varování.
+[07:04] A protože Lenka Tarabová je spojená velmi blízko s Jindřichem Reichlem,
+[07:08] tak předpokládám, že se tam chystá něco, o čem my nevíme,
+[07:14] ale o čem jsme se dozvěděli od ní zprostředkovaně.
+[07:17] Řeknu vám jednu věc.
+[07:19] Jsem člověk, který má nějakou, řekněme, jako buddhista,
+[07:25] věřím v to, že mám nějakou vyšší ochranu.
+[07:27] A dívám se často do prostoru, do mysli
+[07:33] a dávám pozor na to, co se tam děje
+[07:35] a dávám pozor na znamení.
+[07:38] Tentokrát mám velmi špatný pocit už nějakou dobu
+[07:41] a i když jsem ještě včera naplánoval schůzi organizační
+[07:44] na tu demonstraci a na ten pochod,
+[07:47] pro spoustu z vás je to novinka,
+[07:53] tak dneska jsem se rozhodnul, že svolám vedení Hnutí
+[07:56] a vedení spolku Rodina Čery 1,
+[08:00] probereme to tam a jednohlasně jsme odhlasovali,
+[08:02] že zrušíme ten pochod.
+[08:05] Ale řeknu vám, co se týče mých pocitů.
+[08:09] V roce 2022 v červenci jsem měl sen.
+[08:13] A to bylo dobou, kdy jsme ještě s Jendřichem Rechlem spolupracovali
+[08:17] a bylo to ještě předtím, kdy jsem na demonstraci 3.9. říkal,
+[08:20] že by byl dobrým premiérem.
+[08:22] Takže nikde na venek nebylo vidět,
+[08:24] ani on neměl žádný tušení, že bych měl vůči němu nějaké pocity.
+[08:29] Ale zdál se mi sen.
+[08:30] A ten sen probíhal asi takhle.
+[08:32] Byl jsem v místnosti, kde byly dva policisti,
+[08:36] byl jsem tam s něma
+[08:37] a oni mi řekli,
+[08:39] chystají se vás zavřít,
+[08:41] chystají se vás zatknout a zavřít.
+[08:43] A my víme, že jste nevinný,
+[08:45] ale ten režim po vás jde
+[08:46] a vidíte tamhle na ulici ty dva tajný
+[08:50] a vidíte, támhle ty dva ukazovali mi tam různý tajný, který tam byly
+[08:53] a říkali, ty si pro vás jdou.
+[08:56] My máme tady zadní východ,
+[08:58] za tím zadním východem je zahrada
+[09:00] a ta zahrada má okolo sebe zeď,
+[09:04] dva metry vysokou cirka.
+[09:06] Přeleste tu zeď a utečte pryč
+[09:08] a odjekte pryč.
+[09:09] Tohle se mi zdálo.
+[09:11] A to, co jsem udělal, že jsem je poslechnul,
+[09:13] vylez jsem ven na tu zahradu,
+[09:15] skutečně tam byla taková štercová zahrada,
+[09:18] zeď, která měla nahoře takový jako tašky červený,
+[09:22] takhle do špičky
+[09:22] a uprostřed byl strom, velký strom,
+[09:25] nebo ne uprostřed, ale v té zahradě byl velký strom,
+[09:28] kousíček od prostředku.
+[09:30] A když jsem šel k rohu té zítky,
+[09:32] abych ji přelezl, tak spoza stromu vylezl Jendřich Reichel,
+[09:35] který měl takový ten svůj úsměv.
+[09:39] V rukou měl želízka a říkal mi,
+[09:42] no tak pojď, už tady na tebe čekám.
+[09:45] A tenhle sen byl velmi živý.
+[09:53] Řekl jsem o něm jenom mojí manželce a Jirkovi Havlovi.
+[09:56] Ten mě sice nenávidí,
+[09:58] ale když se ho na to zeptáte,
+[09:59] tak předpokládám, že to není lhář,
+[10:00] že vám to potvrdí, že jsem mu to v roce 22 říkal v červenci.
+[10:04] A tenhle sen ve mně zůstal velmi hluboko.
+[10:11] Přestože nejsem člověk, který by úplně utíkal z boje,
+[10:15] tak tentokrát to beru tak,
+[10:18] že mám zodpovědnost za to,
+[10:20] když svolávám nějaká veřejná schromáždění.
+[10:24] A nemyslím si, že by v tomhle případě šlo o mě,
+[10:27] protože jsem jasně vyjádřil,
+[10:29] že to vnímám neboj za Rusko,
+[10:31] ale za svobodu slova.
+[10:32] Ale nechci být zodpovědný za to,
+[10:37] že budou nějací lidé zatčení.
+[10:39] Nechci být zodpovědný za to,
+[10:41] že budou souzení.
+[10:42] Nechci být přímo zodpovědný za to,
+[10:44] že budou odsouzení.
+[10:46] Vím, jaký to je.
+[10:48] Nechci být za to zodpovědný.
+[10:50] Když udělal Tomáš Hrdlička,
+[10:52] když udělali bráchové kutí,
+[10:53] když Jakub Jašek si vzali písmeno Z na sebe,
+[10:57] když to udělala Katka Bláníková,
+[10:59] vždycky to bylo jejich osobní rozhodnutí,
+[11:00] nikdy to nebylo na můj poput.
+[11:02] Ale pokud by tentokrát byl
+[11:05] tenhle ten pochod, který svolávám,
+[11:07] a jak vidíte, tak jsou desítky plagátů,
+[11:09] který vyzývají na ten pochod,
+[11:12] a všechny mají písmeno Z,
+[11:14] tak je mi jasný,
+[11:15] že by to skončilo tak,
+[11:16] dopadlo tak, že nejenom,
+[11:18] že by se ten pochod neuskutečnil,
+[11:20] ale že budou zatčení lidé.
+[11:23] A to nechci.
+[11:25] Takže Patis mi píše Láďo
+[11:27] a chtěla jsem ti zase přivez koláče,
+[11:28] tak příště, ty koláče pražský,
+[11:31] co si mi upekla, byly nejlepší,
+[11:32] co jsem kdy je.
+[11:33] Takže přemýšlím,
+[11:34] že možná,
+[11:36] jestli přijedu 17. listopadu do Prahy,
+[11:39] ne jako svolavatel veřejného schromáždění,
+[11:42] ale jako člověk,
+[11:44] který se tam pojede podívat,
+[11:46] tak se uvidíme.
+[11:47] Jestli nepřijedu,
+[11:48] tak se uvidíme,
+[11:49] předpokládám,
+[11:50] velmi brzo poté,
+[11:51] protože čekáme,
+[11:53] kdy dostane rozsudek
+[11:55] samosoudce Katka Blahníková
+[11:56] a potom předpokládám,
+[11:57] že na ten sou přijedeme.
+[11:58] Takže určitě se uvidíme brzo.
+[12:01] Ale co se týče schromáždění 17. listopadu,
+[12:06] tak je to,
+[12:07] tak jak vám říkám,
+[12:09] nechci, aby naše skupina,
+[12:11] nechci, aby naše lidi
+[12:12] byli ti,
+[12:14] které ten
+[12:15] nahněvaný,
+[12:18] liberárně progresivistický dav,
+[12:21] který se chystá rozpoutat
+[12:22] něco velmi zlého
+[12:24] v České republice,
+[12:24] abychom byli my ti,
+[12:26] kteří jim k tomu dáme závdavek.
+[12:29] Nechci, aby jsme to byli my,
+[12:31] kdo bude ta rozbuška.
+[12:34] Samozřejmě,
+[12:35] že o Ganesiána Pšenák
+[12:36] a jeho parta
+[12:37] se velmi těší na to,
+[12:40] a nejenom oni,
+[12:40] ale i další se těší na to,
+[12:42] že si přijdou zgusnout na tom,
+[12:44] že tam máme transparenty
+[12:46] s písmenem Z
+[12:47] a že policie lik zatýká.
+[12:48] To je úplně jasný.
+[12:49] A přesto,
+[12:52] že jsem říkal,
+[12:53] že to bude
+[12:53] pravděpodobně bezpečné,
+[12:55] protože půjdeme přes den
+[12:56] v jednu hodinu,
+[12:58] tak tím jsem myslel,
+[12:59] že nás nebude linčovat dav,
+[13:01] protože dav bude
+[13:02] násilí dělat,
+[13:03] pokud nějaké bude až zatmy.
+[13:06] Ale v našem případě
+[13:08] by to linčování bylo
+[13:10] ze strany policie.
+[13:10] Jak vám říkám,
+[13:11] ještě jednou pro ty z vás,
+[13:12] kteří jste přišli později.
+[13:14] Mluvil jsem dneska odpoledne
+[13:15] ve čtyři hodiny
+[13:15] telefonicky s majorem Kulářem
+[13:17] a zeptal jsem se o pane majore,
+[13:20] jak bude vypadat pochod
+[13:21] 17. listopadu,
+[13:23] když tam lidi přijdou
+[13:24] z transparenty,
+[13:24] na kterých budou mít písmeno Z
+[13:26] a bude to za svobodu,
+[13:27] za svobodu slova a tak dále.
+[13:29] A on mi řekl,
+[13:30] my budeme postupovat tak,
+[13:31] jako jsme postupovali do teďka.
+[13:33] Víte, jak je to písmeno Z,
+[13:35] vnímáno soudy,
+[13:36] je to bráno jako trestné,
+[13:38] soudy to takhle judikují,
+[13:39] takže my jako policie
+[13:40] musíme zasahovat
+[13:42] a budeme muset ty lidi
+[13:44] předvést k výslechu
+[13:46] anebo minimálně,
+[13:49] potom, když jsme se spolu bavili
+[13:50] další dobu,
+[13:50] řekl minimálně,
+[13:52] jim budeme muset stotožňovat
+[13:53] a posílat předvolání k výslechu,
+[13:56] aby nám vysvětlili,
+[13:56] jak to mysleli,
+[13:58] ale je tam velká pravděpodobnost,
+[14:00] že tam budou přímo zatýkat.
+[14:01] A tomu se vyhnout nelze,
+[14:04] jak mi řekl major Kulář,
+[14:05] takže to byl ten moment,
+[14:07] kdy jsem svolal vedení
+[14:08] hnutí Česká republika
+[14:10] na první místě
+[14:11] a hnutí rodina
+[14:12] včera jedna
+[14:13] za psaný spolek,
+[14:14] abychom to probrali
+[14:15] a jak říkám,
+[14:15] jednomyslně jsme se shodli na tom,
+[14:17] že nebudeme volavka,
+[14:20] nebudeme my ti,
+[14:21] kteří budou zodpovědní za to,
+[14:22] že lidi, kteří jsou hrdinové,
+[14:26] ale možná nepřemýšlí tak daleko,
+[14:29] budou zatčení a odsouzení.
+[14:31] Nikdy nebyl náš,
+[14:32] nikdy nebylo centrum našeho boje,
+[14:34] boj za ruskou armádu,
+[14:37] aby mohla provádět
+[14:38] speciální vojenskou operaci.
+[14:40] Vždycky náš boj,
+[14:41] centrum našeho boje,
+[14:43] bylo boj za svobodu slova
+[14:44] a za mír.
+[14:46] Takže neříkám,
+[14:47] že jsem se nevyjadřoval
+[14:48] k tomu, co je speciální vojenská operace
+[14:50] a co se děje na doma.
+[14:51] Víte, že se k tomu vyjadřují otevřeně,
+[14:53] ale asi nejotevřeně
+[14:54] i v České republice
+[14:55] ve veřejném prostoru,
+[14:56] nebo určitě.
+[14:58] Ale není to naše hlavní téma
+[15:00] a nechci udávat záminku
+[15:03] k tomu, aby naše rodina Česká republika
+[15:06] na prvém místě
+[15:07] byla zneužitá k tomu,
+[15:09] že se bude rozpoutávat
+[15:10] nějaký násilí na ulicích
+[15:11] a nechci být zodpovědný za to,
+[15:13] že budou možná desítky lidí zatčení.
+[15:16] A jak už jsem řekl,
+[15:17] policie mi to řekla jednoznačně,
+[15:19] že to nebude brát tak,
+[15:20] že to písmeno Z je za svobodu slova,
+[15:23] ale budou ty lidi chtít mít na výslechu.
+[15:26] OK, je to smutný,
+[15:30] je to smutný,
+[15:31] že to je v České republice takhle,
+[15:32] ale v České republice
+[15:33] v tuhle chvíli není svoboda slova.
+[15:35] Můžete poděkovat Jendřichu Rajchlovi
+[15:37] za to písmeno Z.
+[15:38] On dal tohleto dohromady.
+[15:40] Můžete poděkovat i dalším,
+[15:42] kteří se v tom angažují,
+[15:43] ale nechci to mít na svědomí,
+[15:47] nechci to mít na triku,
+[15:48] že budou někde lidi na výsleších
+[15:52] a zatčení.
+[15:53] Sám vím, jak je to nepříjemné.
+[15:55] Nechci zatčení.
+[15:55] OK, přátelé, v devět hodin se uvidíme o zpráv.
+[16:00] Je to novinka, my jsme se o tom rozhodli teď,
+[16:02] takže hned jsem udělal vysílání.
+[16:04] Chci vám to říct upřímně, jak to je.
+[16:06] Pokud k tomu máte nějaké dotazy na mě,
+[16:09] tak samozřejmě mi je napište.
+[16:10] Klikně udělám ještě jedno vysílání k tomu
+[16:12] a zodpovím vaše dotazy.
+[16:14] Je to poprvé, kdy něco takového udělám.
+[16:16] Nikdy jsme neustoupili z toho,
+[16:18] že jsme vyhlásili demonstraci,
+[16:20] ale tentokrát nám boj za svobodu slova
+[16:22] byl ukradený nějakýma šílenýma lidma,
+[16:25] který z jedné strany masturbují
+[16:28] o básničky Lenina
+[16:29] a z druhé strany křičí 436,
+[16:33] že to znamená,
+[16:34] když někdo je v parlamentu ve 436,
+[16:36] že jsou to zloději.
+[16:38] A my se tohohle nechceme účastnit.
+[16:39] Nechceme být prostě tohohle účastní
+[16:42] a nechceme být tou záminkou pro zatýkání.
+[16:45] Nechceme zničit zbytečně životy,
+[16:48] nebo ničit zbytečně životy lidem.
+[16:50] Nemáme to zapotřebné.
+[16:51] Uděláme pochod za svobodu slova jindy
+[16:54] a minimálně se setkáme
+[16:56] na soudu Katky Blahníkový.
+[16:57] Samozřejmě můžete jít podpořit Tomáše Hrdličku,
+[16:59] ten má sou 23.
+[17:01] Tam je to trošičku komplikovanější,
+[17:04] protože Tomáš Hrdlička,
+[17:05] tak jak to popisuje,
+[17:06] tak u něj to je skutečně velmi spojený s Donbassem.
+[17:10] Ale Katka Blahníková,
+[17:11] to je čistě naše věc.
+[17:12] Ta si vzala trikoloru jenom proto,
+[17:14] aby podpořila svobodu slova v České republice,
+[17:17] aby podpořila Tomáše Hrdličku.
+[17:18] Hrdličku, ta vůbec nemá žádnou agendu,
+[17:22] někde Donbasu a ruský armády.
+[17:25] Tato má skutečně čistě jenom
+[17:26] o svobodě slova.
+[17:28] A to je taky to, co prosazuju,
+[17:30] to je taky moja agenda.
+[17:31] To znamená, jestli bude Katka Blahníková souzená,
+[17:34] tak tam se za ní postavíme jako hnutí jednoznačně
+[17:36] a uděláme demonstraci
+[17:38] za svobodu slova tam.
+[17:40] Ok, napište mi, co si o tom
+[17:42] myslíte. Je to smutný.
+[17:43] Je to smutný, že Česká republika je v takovémhle stavu.
+[17:48] Víte, že se snažíme celou dobu o to,
+[17:49] aby to takhle nebylo,
+[17:50] že bojujeme všema silama, jak můžeme,
+[17:53] ale v tuhle chvíli
+[17:53] to není spravedlivý boj.
+[17:56] V tuhle chvíli to není boj o svobodu slova.
+[17:58] V tuhle chvíli bychom akorát pomohli něčemu,
+[18:01] čemu pomáhat nechci.
+[18:04] Ok?
+[18:04] Děkuju vám všem, kteří to chápete
+[18:07] a kteří podpoříte tohle moje i naše rozhodnutí,
+[18:11] protože to není jenom moje rozhodnutí.
+[18:13] Vy, kteří to nepodpoříte,
+[18:14] tak budu s váma diskutovat dál,
+[18:16] pokud budete o to mít zájem.
+[18:19] Řekněte i ostatním lidem,
+[18:21] že Česká republika je v takovém stavu,
+[18:23] že už se ruší pochod za svobodu slova,
+[18:26] protože máme od policie předem slíbeno,
+[18:30] že nás budou zatýkat.
+[18:31] Mějte se hezky.

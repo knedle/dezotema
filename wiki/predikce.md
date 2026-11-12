@@ -12,6 +12,29 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — bez změny systému bude za 20 let česky mluvit nanejvýš polovina obyvatel, za 40 let menšina (8. 11. 2026)
+
+**Předpověď:** Pokud ČR nevystoupí z EU a neuzavře hranice, za 20 let bude česky mluvit nanejvýš polovina obyvatel a za 40 let jen menšina; čeština může být i zakázána.
+
+> „Za 20 let bude tady tak polovina lidí maximálně jako mluvit česky a za 40 let […] už bude jenom menšina lidí mluvit česky.“ — Ladislav Vrabel
+
+**Horizont:** 2046 / 2066 (podmíněno setrváním v EU)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
+
+---
+
+### Ladislav Vrabel — do roku 2030 CBDC a „absolutní kontrola“, změny „ne jak salám, ale jak sekaná“ (8. 11. 2026)
+
+**Předpověď:** Přechod na centrální digitální měnu a sociální kredity mají globalisté naplánovaný na rok 2030; následující čtyři roky budou velmi intenzivní a změny se budou dál zrychlovat.
+
+> „Myslím, že to mají naplánované na rok 2030, takže máme rok 2026, předpokládám, že ty čtyři roky budou ještě velmi, velmi intenzivní.“ — Ladislav Vrabel
+
+**Horizont:** 2030
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
+
+---
 ### Pavel Zítko — JFK Jr. „co nevidět“ vystoupí na veřejnost, přichází „viditelných 20 %“ operace a „zlatý věk“ (7. 11. 2026)
 
 **Předpověď:** John F. Kennedy Jr. „co nevidět“ vystoupí na veřejnosti; začíná fáze, kdy bude vidět 20 % vojenské operace, Stephen Miller odhalí „obrovský volební podvod“ z 3. 11. a Assangeovo odhalení „bude gradovat“; nastane „zlatý věk“ (ne pro ty, kdo zůstanou v „Matrixu“).

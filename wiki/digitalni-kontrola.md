@@ -334,3 +334,15 @@ Návrh francouzských poslanců zdanit každý přenesený gigabajt podle Vrabel
 > „Myslím si, že to jsou spíš lidi, který přemýšlí podobně jako my, kteří nechtějí žít v digitálním otrodství, které se tady staví, v digitálním vězení nebo v digitálním koncentráku,“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
+
+---
+
+### Krach srbské Alta banky jako varování: v bance mít jen pojištěnou částku; CBDC do roku 2030 jako konec svobody, změny „ne jak salám, ale jak sekaná“ (Vrabel, 8. 11. 2026) {#alta-banka-cbdc-vrabel-8-11-2026}
+
+K uzavření srbské Alta banky (po volbách podle něj lidé napojení na Vučičův režim vyváděli peníze do Makedonie a majitel vybral 385 mil. eur v hotovosti a zmizel) Vrabel radí mít v bance jen pojištěnou částku (do 50 tis. eur) a jinak „žádné peníze v bance“. Run na banku podle něj dnes může vyvolat hackerský útok nebo pouhá zpráva. Sám by prý samostatným videem „dokázal nějakou banku položit“, kdyby to nebylo trestné. Zmiňuje kybernetický útok na Crédit Mutuel Arkéa a předluženou Francii, která si na rozdíl od USA a Japonska nemůže natisknout peníze. Cílem je podle něj vzít lidem hotovost a nahradit ji CBDC; plán je naplánován na rok 2030 a následující čtyři roky budou „velmi intenzivní“. Doporučuje text o údajném tvůrci systému digitální měny „Gideonovi“ (systém „CSQR+SM“). Sám ho označuje za „pravděpodobně konspirační teorii“, po jeho přečtení ale „nespal celou noc“.
+
+> „Aby jsme byli absolutně kontrolovaní, tak nám musí vzít peníze. To je přece jasný. Protože díky penězům jsme svobodní.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
+
+---

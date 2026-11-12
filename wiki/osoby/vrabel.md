@@ -980,6 +980,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **23. 10.** — centrálně řízená ekonomika EU → krach → technokracie a digitální měna se smart kontrakty („novodobé otroctví“), „odmaterializování“ lidí přes nemovitosti a ETS2 — [Zprávy v devět 23. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-10-2026)
 - **6. 11.** — daň z internetu projde, Francie „první domino“, digitální měna pro občany během několika let; protestující proti datovým centrům „přemýšlí jako my“ (→ [predikce](../predikce.md)) — [Zprávy v devět 6. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 - **7. 11.** — krach banky v Paraguayi — nenechávat peníze v bankách, „čeká nás Francie“ — [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+- **8. 11.** — krach srbské Alta banky: v bance jen pojištěná částka; CBDC do 2030, text o „Gideonovi“ — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 17)
 - **4. 9.** — mírová jednání USA–Rusko–Ukrajina (Witkoff, Kushner poprvé i do Kyjeva letadlem), 65% šance na neúspěch (predikce) — [Facebook Live 4. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
@@ -1215,6 +1216,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **5. 11.** — odsouzení Russella Branda („můj vzor“) jako likvidace kritika, srovnání s Assangem — [Večerní zprávy 5. 11. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 - **6. 11.** — polský sankční zákon jako cesta k totalitě, „finanční likvidace“ kritiků; odsouzení Branda „nespravedlivé“ — [Zprávy v devět 6. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 - **7. 11.** — zajištění majetku na žádost jiného státu EU bude použito proti odpůrcům režimu; spojení všech je „cesta do pekla“, politiku diktují sponzoři (zbrojaři) — [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+- **8. 11.** — prezentace změny systému (zrušit 5% hranici, politickou reklamu i strany; 1% daň; poroty); strany = odnože ODS; jako premiér „malá armáda“; Srbsko jako vzor — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1380,6 +1382,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **31. 10.** — „velká výměna“ potvrzena, Francie do 2050 muslimská, v českých městech za 10 let víc migrantů (→ [predikce](../predikce.md)) — [Večerní zprávy 31. 10. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
 - **1. 11.** — „žádný migranty na práci“ (80 tis. vs. 340 tis. nezaměstnaných), snížit dávky; EU „prášek z hmyzu“ — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 - **7. 11.** — EK: ČR pod migračním tlakem — vláda pakt „odmítla“ jen slovy; vyšší kvóty pro Asiaty jako „výmluva“, hrozba no-go zón — [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+- **8. 11.** — za 20 let polovina, za 40 let menšina česky mluvících; Francie a Británie „úplně černé“ — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1426,6 +1429,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **4. 11.** — „pár pytlíků rýže navíc“: útoky na mrazáky a krev ve Francii, 90 dní soběstačnosti armády USA, „zima, jaro nebude jednoduché“ (→ [predikce](../predikce.md)) — [Zprávy v devět 4. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 - **5. 11.** — násilí na protestech „řízená věc“, protesty za ČT „za pomoci CIA a MI6“, „stejně řízené jako covid“ — [Večerní zprávy 5. 11. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 - **6. 11.** — bombové výhrůžky a „ohřáté mrazáky“ jako operace CIA/MI6 pod falešnou vlajkou, chaos „před začátkem války“ — [Zprávy v devět 6. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
+- **8. 11.** — střelba v Krakově: za oficiální verzi „ruku do ohně nedá“, srovnání s FF UK — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1438,6 +1442,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **5. 11.** — Ficova vláda padne; povinná totožnost na internetu „velmi brzo“ — [Večerní zprávy 5. 11. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 - **6. 11.** — Trumpova dohoda o ruské energii přes USA; daň z internetu projde; digitální měna pro občany — [Zprávy v devět 6. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 - **7. 11.** — trvalý mír ani v Abú Zabí, ani v Šen-čenu; bankovní krize pokračuje, Francie — [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+- **8. 11.** — konec češtiny (20/40 let); CBDC do 2030 — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
@@ -2299,6 +2304,20 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Jindřich Rajchl | ❌ negativní | Podle SMS nemohl kandidovat s Konečnou kvůli sponzorům | 2026-11-07 | [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026) |
 | Andrij Sybiha | ❌ negativní | Projev „v heslech“; podmínky pro Abú Zabí neslučitelné s mírem | 2026-11-07 | [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026) |
 | SPD, Trikolora, Svobodní, Motoristé | ❌ negativní | Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program | 2026-11-07 | [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026) |
+| Oldřich Kaiser | ⚖️ rozporuplný | Recitace básně o Leninovi na demonstraci Svatopluku; „do dneška jsem si myslel, že je to super týpek“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Petr Drulák | ❌ negativní | Demonstrace Svatopluku i přes spojení „vlastenecké scény“ jen do 400 lidí | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Kateřina Konečná | ❌ negativní | „Rajchl s lidskou tváří“, ve veřejných funkcích prý vydělala 65 mil. Kč | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Donald Tusk | ❌ negativní | Pokus o převrat na ústavním soudu, německá armáda v Polsku | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Roman Fritz | ✅ pozitivní | Místopředseda Konfederace Korony Polské, vyzval Tuska k odstoupení | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Jared Kushner / Steve Witkoff | ❌ negativní | „Realitní makléři“ bez veřejné funkce a diplomatické zkušenosti | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Catherine Austin Fittsová | ✅ pozitivní | „Kamarádka“, převzal od ní pojem „drancování“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Andrej Babiš | ❌ negativní | Odmítnutí referenda o EU/NATO jako „přechod do diktatury“; vláda za rok „ani ťuk“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Tomáš Hrdlička | ❌ negativní | „Kmotr“, který podle něj založil SPD a financuje PRO i Trikoloru | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Martin Kuba | ❌ negativní | „Pravá ruka kmotra Dlouhého“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Petr Macinka | ❌ negativní | Nazval ruské hokejistky do 18 let „mužatkami“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Aleksandar Vučić | ✅ pozitivní | „Nejlepší politik na světě“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Studentské hnutí (Srbsko) | ✅ pozitivní | „Nenásilná revoluce“ podle jeho plánu, „zázrak“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
+| Piráti | ⚖️ rozporuplný | Politicky „na druhé straně“, ale o jejich korupci neví | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026) |
 
 ---
 
@@ -2503,3 +2522,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Večerní zprávy 5. 11. 2026](../_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026)
 - [Zprávy v devět 6. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 - [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+- [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
