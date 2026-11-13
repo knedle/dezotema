@@ -6057,6 +6057,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 1 min, zprávy čte Zuzka; den studentské demonstrace za ČT a ČRo, první den jednání v Abú Zabí.
 
+## Ladislav Vrabel — Facebook Live 10. 11. 2026 {#ladislav-vrabel--facebook-live-10-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-10_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1549262023632032>
+- **Datum záznamu:** 2026-11-10
+- **Zpracováno:** ano
+- **Poznámka:** 20 min, živě během studentské demonstrace za ČT; z velké části opakuje večerní zprávy téhož dne.
+
 ## Konspirátor Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026) {#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026}
 - **Soubor:** [přepis](prepisy/done/2026-11-07_Konspirátor-Boldy-KonspyChannel_Opravdové-zločiny-svobodní-zednáři.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel

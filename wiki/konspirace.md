@@ -1160,7 +1160,11 @@ K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník 
 
 > „Toto jsou studenti jednoznačně, je to operace řízená ze CIA.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+**10. 11. (Facebook Live, odpoledne)** — Ještě během demonstrace Vrabel ohlašuje, že „začíná nová revoluce pod vedením CIA“. Výzvu řečníka z FAMU k „bordelu“ označuje za „svým způsobem terorismus, výzvu k terorismu“, vybavení akce odhaduje „minimálně na půl milionu“ a připomíná, že ČTK jeho spontánní demonstrace nikdy nepřenášela. Vládu podle něj chtějí svrhnout ti, kdo „rozpoutávají válku“, protože se ČR neúčastní cvičení koalice ochotných a potřebují vládu (Rakušan, Fiala), která pošle vojáky do bojů. Příští vláda bude podle něj „velmi silně promigrační a prounijní“ a ČR „velmi rychle ztratí poslední zbytky“. Studentská revoluce podle něj začala už v roce 1989, kdy byla země „předána“ Západu, majetek vyveden kupónovou privatizací a sovětská vojska vystřídalo NATO. Odsouzením Russella Branda „jsme překročili Rubikon“: pokud nevyvolá pád vlád, „vstoupíme do doby, kdy už nebude návratu“. Změnu podle něj přinese až válka, velká geopolitická změna nebo „občanská válka v Evropě“.
+
+> „Mám takový pocit, že nám právě začíná nová revoluce v České republice […] a myslím si, že pod vedením CIA.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
 
 ---
 

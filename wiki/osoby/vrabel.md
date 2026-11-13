@@ -1438,6 +1438,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **6. 11.** — bombové výhrůžky a „ohřáté mrazáky“ jako operace CIA/MI6 pod falešnou vlajkou, chaos „před začátkem války“ — [Zprávy v devět 6. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026)
 - **8. 11.** — střelba v Krakově: za oficiální verzi „ruku do ohně nedá“, srovnání s FF UK — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 - **10. 11.** — studentské protesty za ČT jako revoluce řízená CIA přes BIS a rektory; lidé jako „pasiva“ v éře AI — [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+- **10. 11. (FB Live)** — výzva FAMU k „bordelu“ jako „svým způsobem terorismus“; příští vláda „promigrační a prounijní“; Brand a „Rubikon“ — [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -2353,6 +2354,8 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Friedrich Merz | ❌ negativní | „Šmerc“, pracuje pro BlackRock, prosazuje ETS2 | 2026-11-10 | [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026) |
 | Petr Macinka | ❌ negativní | Jezdí do USA uzavírat dohody, na nichž USA „rýžují“ | 2026-11-10 | [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026) |
 | Matyáš Svoboda / Michal Chládek | ❌ negativní | Nové vedení brněnské ODS jako „feudalismus“ | 2026-11-10 | [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | Jeho vláda „nebojuje za mír“ a je „servilní“, ale globalisté ji podle něj chtějí svrhnout, protože se ČR neúčastní cvičení koalice ochotných | 2026-11-10 | [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026) |
+| Vít Rakušan / Petr Fiala | ❌ negativní | Vláda, která by „víc podporovala zasílání našich vojáků do bojových akcí“ | 2026-11-10 | [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026) |
 
 ---
 
@@ -2561,3 +2564,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
 - [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
 - [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+- [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)

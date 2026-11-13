@@ -20,7 +20,9 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** do řádných voleb (2029); 17. 11. 2026 jako první vrchol
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+Odpoledne v Facebook Live dodává, že další vláda bude „velmi silně promigrační, prounijní“.
+
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
 
 ---
 
