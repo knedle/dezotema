@@ -944,7 +944,11 @@ K příjezdu více než 4000 migrantů na kanárský ostrov El Hierro Vrabel vy�
 
 > „Tak jenom, aby jsme se poučili a nenechali takhle dopadnout Evropu, protože přesně k tomu tu za kým spěje.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+**11. 11.** — K dohodě o rozpočtu EU na rok 2027 (75,8 mld. eur na „soudržnost, odolnost a evropské hodnoty“) Vrabel tvrdí, že „evropské hodnoty“ znamenají, že lidé ze Súdánu dostanou zaplacené bydlení a tisíce eur měsíčně, zatímco „naši lidi nemají co jíst“ a mají „trénovat na válku s Ruskem“. Poděkovat za to lze podle něj Kateřině Konečné („Rajchl s lidskou tváří“), která v Evropském parlamentu prosazovala legální cesty pro migranty z Afriky. Kdo si to neuvědomí, toho se týká „přírodní selekce“: „ti hloupější musí pryč“.
+
+> „Je tady nějaká přírodní selekce, přirozená, a prostě ti hloupější musí pryč.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ---
 ### Migranti jako „trojský kůň“ a „hordy“ mladých mužů — okamžitá deportace (Zítko, 30. 10. 2026) {#trojsky-kun-zitko-30-10-2026}

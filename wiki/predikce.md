@@ -12,6 +12,17 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — Babiš se vrátí z Dublinu s tím, že ČR „neručí“, ale ČR bude na Ukrajinu dál platit (11. 11. 2026)
+
+**Předpověď:** Babiš na summitu v Dublinu 70 mld. eur pro Ukrajinu neodmítne; po návratu prohlásí, stejně jako v prosinci 2025, že ČR za půjčku neručí, a ČR bude přesto dál platit.
+
+> „Až se Andrej Babiš vrátí zase za tři dny z Dublinu a řekne stejně, jako to řekl v prosinci před rokem, že Česká republika za to neručí a Česká republika celou dobu platí.“ — Ladislav Vrabel
+
+**Horizont:** summit EU v Dublinu (13.–14. 11. 2026)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+
+---
 ### Ladislav Vrabel — studentské protesty řízené „CIA“ svrhnou Babišovu vládu dřív než za tři roky; Studentstvo postaví vlastní kandidátku, 17. 11. vyvrcholí jen „první vlna“ (10. 11. 2026)
 
 **Předpověď:** Studenti budou stupňovat masové demonstrace a stávky (klidně i celý rok), dokud nesvrhnou Babišovu vládu, podle něj dřív než v řádných volbách. 17. listopad bude velký, ale jen „první vlna“; protesty se mohou táhnout rok či dva. Ve volbách pak Studentstvo předloží vlastní kandidáty a v ČR budou protesty mířit proti Rusku.
@@ -20,7 +31,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** do řádných voleb (2029); 17. 11. 2026 jako první vrchol
 **Stav:** 🕐 Čeká na vyhodnocení
-Odpoledne v Facebook Live dodává, že další vláda bude „velmi silně promigrační, prounijní“.
+
+Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně promigrační, prounijní“.
 
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
 

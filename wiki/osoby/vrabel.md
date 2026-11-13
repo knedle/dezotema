@@ -1267,6 +1267,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **28. 10.** — požár u brněnského zbrojaře = „konkurence“, ne Rusové; zbrojaři „žijí z krve“, Babiš a von der Leyenová se kryjí — [Zprávy v devět 28. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 - **29. 10.** — muniční iniciativa = ČR jde „přes minové pole“ za ostatní, cejch na desetiletí a horší cena plynu — [Zprávy v devět 29. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 - **10. 11.** — 454 mld. eur na obranu jako vysvětlení drahoty, úspory lidí do zbrojení — [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+- **11. 11.** — vlády Fialy i Babiše „zločinné“, měly by být souzeny (→ [stoch. teror](../stochasticky-teror.md)); Babiš zadlužuje ČR přes SAFE — [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md) (pokrač. 14)
 - **16. 9.** — von der Leyenová: EU jako mafie, Kanada „přidružený člen", nová bezpečnostní rada nad NATO — [Facebook Live 16. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-16-9-2026) → [suverenita-eu.md](../suverenita-eu.md#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026)
@@ -1389,6 +1390,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **8. 11.** — za 20 let polovina, za 40 let menšina česky mluvících; Francie a Británie „úplně černé“ — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 - **9. 11.** — potvrzení o odsloužení pro karty Ukrajinců jako „fašistický přístup“, šedá zóna a mafie — [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
 - **10. 11.** — El Hierro: „vítačky“, původní obyvatelé do armády, Evropa jako indiáni v rezervacích — [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+- **11. 11.** — rozpočet EU na „evropské hodnoty“ pro Súdánce, Konečná, „ti hloupější musí pryč“ — [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ### [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md) (pokrač. 22)
 - **19. 9.** — Zelenskyj schválil údery na velkou vzdálenost; Drapatyj „Rusko nemá právo na existenci"; teze o vyprovokování širší války s Evropou — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1439,6 +1441,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **8. 11.** — střelba v Krakově: za oficiální verzi „ruku do ohně nedá“, srovnání s FF UK — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 - **10. 11.** — studentské protesty za ČT jako revoluce řízená CIA přes BIS a rektory; lidé jako „pasiva“ v éře AI — [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
 - **10. 11. (FB Live)** — výzva FAMU k „bordelu“ jako „svým způsobem terorismus“; příští vláda „promigrační a prounijní“; Brand a „Rubikon“ — [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
+- **11. 11.** — Španělská stávka a rok 1989 řízené tajnými službami; Green Deal, „aby se rodilo méně dětí“ — [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ### [Predikce](../predikce.md) (pokrač. 3)
 - **19. 9.** — v příštích parlamentních volbách bude kandidovat ukrajinská politická strana — [Facebook Live 19. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-19-9-2026)
@@ -1455,6 +1458,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **9. 11.** — rozdělení sfér vlivu USA–Rusko–Čína bez velké války; Trump trvalý mír nezajistí — [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
 - **9. 11.** — 17. 11. „něco vážného, něco velkého“ — [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
 - **10. 11.** — studenti svrhnou Babišovu vládu, Studentstvo kandidátkou; úspory Evropanů do zbrojení — [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+- **11. 11.** — Babiš po Dublinu „neručí“, ČR bude platit — [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
@@ -1484,6 +1488,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **30. 10.** — Lavrov „nejlepší ministr zahraničních věcí na světě“, většina světa na straně Ruska, rozsudek ESLP bezcenný — [Zprávy v devět 30. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-10-2026)
 - **1. 11.** — útok Ruska nebo „pod falešnou vlajkou“ → čl. 5 a válečný stav, velet bude Pavel, první povolají ročníky se základní službou (→ [predikce](../predikce.md)) — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-1-11-2026)
 - **4. 11.** — cvičení „mírových záruk“ = přesun vojáků k Ukrajině, „nůž u krku“, „už ve válce s Ruskem jsme“; Rusové by do Bruselu šli jen „odnacifikovat Evropu“ — [Zprávy v devět 4. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
+- **11. 11.** — mise EUMAM na Ukrajině jako „otevřené dveře“ pro vojáky EU; ruská nabídka smluv o neútočení „dobrý nápad“ — [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ### [Volby 2026](../volby-2026.md)
 - **10. 10.** — šok z výsledků („vyhrály STAN a ODS“), Kuba „pravá ruka kmotra Dlouhého“, Budějovice „čistá mafie“ → [volby-2026.md](../volby-2026.md) — [Zprávy v devět 10. 10. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
@@ -2356,6 +2361,16 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Matyáš Svoboda / Michal Chládek | ❌ negativní | Nové vedení brněnské ODS jako „feudalismus“ | 2026-11-10 | [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026) |
 | Andrej Babiš | ⚖️ rozporuplný | Jeho vláda „nebojuje za mír“ a je „servilní“, ale globalisté ji podle něj chtějí svrhnout, protože se ČR neúčastní cvičení koalice ochotných | 2026-11-10 | [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026) |
 | Vít Rakušan / Petr Fiala | ❌ negativní | Vláda, která by „víc podporovala zasílání našich vojáků do bojových akcí“ | 2026-11-10 | [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026) |
+| Andrej Babiš | ❌ negativní | Vyhnul se odmítnutí 70 mld. „jako baletka“; „zločinná vláda“; zadlužuje ČR na zbraně přes SAFE | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Petr Fiala | ❌ negativní | „Zločinná vláda“, která by měla být souzena | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Robert Fico | ✅ pozitivní | Jasně odmítl 70 mld. eur pro Ukrajinu, „Slováci vedou 1:0“ | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Friedrich Merz | ❌ negativní | „Vydírá celou Evropu“ rozpočtem kvůli Ukrajině | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Grzegorz Braun / Roman Fritz | ✅ pozitivní | Poslali mu zdravici k polskému Dni nezávislosti | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Alexej Drobinin | ✅ pozitivní | Návrh bilaterálních smluv o neútočení — „dobrý nápad“ | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Ursula von der Leyenová | ❌ negativní | COP31 a Green Deal jako záměrná likvidace průmyslu | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Kateřina Konečná | ❌ negativní | Prosazovala v EP legální cesty pro migranty z Afriky | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Michal Strnad | ❌ negativní | Propad akcií CSG jako důvod Babišových půjček na zbraně | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Karel Havlíček | ❌ negativní | „Biznis“ s Ukrajinou — dodávky letounů L-39 Skyfox | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
 
 ---
 
@@ -2565,3 +2580,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
 - [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
 - [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
+- [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)

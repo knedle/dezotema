@@ -1637,3 +1637,13 @@ Ke cvičení 2 800 vojáků deseti zemí ve východním Polsku a ke zprávě Gua
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)
 
 ---
+
+### Mise EUMAM přímo na Ukrajině jako „otevřené dveře“ pro vojáky EU; ruská nabídka bilaterálních smluv o neútočení je „dobrý nápad“, který by ČR měla podepsat (Vrabel, 11. 11. 2026) {#eumam-neutoceni-vrabel-11-11-2026}
+
+K rozhodnutí Rady EU prodloužit výcvikovou misi EUMAM do listopadu 2028 (přes 300 mil. eur) a nově s přítomností přímo na ukrajinském území Vrabel říká, že EU postupuje „salámovou metodou“. Válku s Ruskem sice nevyhlásila, ale „otevřela dveře“ na Ukrajinu: vojáci EU tam od nynějška mohou oficiálně jezdit, a nelze tedy dál tvrdit, že EU „jenom pomáhá“. Přítomnost západních vojáků na Ukrajině byla podle něj právě tím, čemu chtělo Rusko v roce 2022 zabránit; EU proto nemůže zajistit mír tím, že na Ukrajinu pošle vojáky. Válka mezi Evropou a Ruskem podle něj „už dávno probíhá“ a postupně se přiostřuje (vrtulníky, F-16, Storm Shadow, ATACMS). Ruský návrh (diplomat Alexej Drobinin) uzavřít s jednotlivými státy NATO dvoustranné smlouvy o neútočení s vymahatelnými sankcemi označuje za „logický“ a „strategický“ krok. Babiš by podle něj měl smlouvu za ČR podepsat, a jeho hnutí chce vládě oficiálně napsat, ať o ní jedná; ČR by se tím podle něj „vyvázala“ i z odpovědnosti za smrt lidí na Ukrajině. Navazuje na výzvu k vládě ze shromáždění na Malostranském náměstí (zmocněnec pro mír).
+
+> „Česká republika nemá důvod se k tomu nepřipojit, protože tohle by zajistilo bezpečnost České republiky.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+
+---

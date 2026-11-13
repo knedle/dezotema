@@ -6065,6 +6065,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** 20 min, živě během studentské demonstrace za ČT; z velké části opakuje večerní zprávy téhož dne.
 
+## Ladislav Vrabel — Zprávy v devět 11. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-11-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-11_Ladislav-Vrabel_11-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1518630976837219>
+- **Datum záznamu:** 2026-11-11
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 10 min, zprávy čte Zuzka; Den nezávislosti v Polsku, před summitem EU v Dublinu.
+
 ## Konspirátor Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026) {#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026}
 - **Soubor:** [přepis](prepisy/done/2026-11-07_Konspirátor-Boldy-KonspyChannel_Opravdové-zločiny-svobodní-zednáři.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel

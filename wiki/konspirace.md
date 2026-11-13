@@ -1164,7 +1164,9 @@ K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník 
 
 > „Mám takový pocit, že nám právě začíná nová revoluce v České republice […] a myslím si, že pod vedením CIA.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
+**11. 11.** — Ke generální stávce ve Španělsku Vrabel říká, že CIA „umí krásně rozpoutat stávky“ přes odborové funkcionáře napojené na „penězovody“. Jediné „přirozené“ demonstrace v ČR byly podle něj ty jeho z roku 2022, financované sbírkami lidí; vše ostatní organizoval „někdo placený ze zahraničí“. Poslední přirozenou revolucí v Evropě byla podle něj francouzská; Velkou říjnovou revoluci organizovala Británie a rok 1989 tajné služby: „polovina“ čela studentského průvodu byli „tajní“ a student Šmíd se „po pár letech vzkřísil“.
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ---
 
@@ -1174,6 +1176,10 @@ S odkazem na video neuvedeného autora Vrabel vysvětluje zdánlivě nelogické 
 
 > „Někdo si může říct, že to je nelogický, co se děje […] Tak jedno vysvětlení by tady mohlo být a kdo dobře poslouchal, tak to vysvětlení slyšel.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+**11. 11.** — K projevu Ursuly von der Leyenové na COP31 (emise do roku 2040 o 90 % níž) Vrabel tvrdí, že Green Deal a odstřižení od ruských paliv „záměrně“ likvidují průmysl a zdražují pohonné hmoty; v roce 2040 budeme podle něj „jezdit jenom na kolech“. Ptá se, kolik emisí způsobují války a tankery, a jako řešení nabízí potravinovou a výrobní soběstačnost; větrníky podle něj vibracemi vyhánějí zvířata a solární panely erodují půdu. Jedinou logiku celé koncepce vidí v tom, že prosperita vede k vyšší porodnosti: proto je „potřeba, aby se špatně žilo, aby se rodilo méně dětí“.
+
+> „Jediná logika, kterou v tom vidím je, aby se zlikvidoval ten prosperující svět […] když se dobře žije, tak se rodí hodně dětí, to znamená, že je potřeba, aby se špatně žilo, aby se rodilo méně dětí.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ---

@@ -1024,6 +1024,10 @@ K jednání ministrů financí EU s Markem Ruttem o společných nákupech zbran
 
 > „Takže očekávejte, že ty programy jako Savings and Investments […] to udělají za zády lidí, se dohodnou s těmi fondy, který drží ty úspory, a budou je nějakým způsobem investovat do zbraní.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+**11. 11.** — K růstu evropských výdajů na obranu (zhruba 250 mld. dolarů, ČR v roce 2027 191 mld. Kč) a plánu „sdíleného dluhu“ Vrabel uvádí, že Ukrajině bude Evropa dávat „minimálně 100 miliard každý rok“, zatímco lidé podle známé pokladní kupují prošlé potraviny a vracejí párky, na které nemají. Peníze z daní podle něj jdou na Ukrajinu „na válku, na mučení lidí a na vraždění“ a polovina se rozkrade. Do konfliktu jsme se podle něj neměli „vůbec motat“ (je to věc Rady bezpečnosti OSN); naopak jsme se měli postavit na stranu Ruska. Vlády Petra Fialy i Andreje Babiše jsou proto „zločinné vlády“, jejichž členové by „jako zločinci měli být souzeni“ (viz [Stochastický teror](stochasticky-teror.md)). Babiš podle něj jede do Dublinu ne odmítnout 70 mld. eur pro Ukrajinu jako Fico, ale „zadlužit Českou republiku“ vyššími půjčkami z programu SAFE na zbraně; zmiňuje 20% propad akcií Strnadovy CSG. Havlíčkovo jednání o dodávce 16 letounů L-39 Skyfox Ukrajině popisuje jako „biznis“.
+
+> „Mně připadá, že jsou to zločinci a že by jako zločinci měli být souzeni.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ---
