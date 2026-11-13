@@ -451,7 +451,11 @@ K zadržení producenta Russia Today Jamese Scotta v Londýně (2,5 hodiny vysl�
 
 > „Takže tady lze jednoznačně předpokládat, že to bude zase používáno proti nám.“ — Ladislav Vrabel
 
-**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+**9. 11.** — K vynesení trestu (10 let a 6 měsíců vězení) Vrabel rozebírá jednotlivé skutky. Podle něj jde o „tvrzení proti tvrzení“ bez důkazů: za položení hlavy do klína maskérky dostal devět měsíců, znásilnění spočívalo v análním styku s 21letou fanynkou, kterou popisuje jako „velmi promiskuitní holku“, jež „musela vědět, do čeho jde“ — to podle něj „úplně není“ znásilnění. Porotci podle něj rozhodli pod vlivem dokumentu s herci, který z Branda udělal predátora, a „polehčující okolnosti“ (18 let spořádaného života) mu přesto vynesly přes deset let v nejhorším londýnském vězení. Rozsudek označuje za „černý den“ a jednu z „nejotřesnějších věcí“, které zažil. Režim podle něj kritiky, které nemůže odsoudit za slova, likviduje sexuálními obviněními (Brand, Assange) nebo vykonstruovanými finančními podvody (Fuellmich, šéf AfD, on sám), a „tohle bude horší a horší“.
+
+> „Režim, když někde mluvíte proti něčemu […] tak samozřejmě proti takovým lidem se nebojuje tím, že by byli odsouzení za to, co říkají.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Zprávy v devět 9. 7. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026), [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026), [Ladislav Vrabel — Večerní zprávy 5. 11. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-5-11-2026), [Ladislav Vrabel — Zprávy v devět 6. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-6-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026), [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
 
 ---
 
@@ -1737,6 +1741,16 @@ Podmínkou je vystoupení z EU. Všechny parlamentní strany kromě Pirátů ozn
 > „Kdybych byl premiér, tak první, co bych udělal, že bych si okolo sebe udělal malou armádu.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
+
+---
+
+### Vládní návrh ústavního zákona o referendu bez otázky EU a NATO jako „pokus o diktaturu“ — srovnání s rokem 1968 (Vrabel, 9. 11. 2026) {#referendum-bez-eu-nato-vrabel-9-11-2026}
+
+K vládou schválenému návrhu ústavního zákona o celostátním referendu (300 tisíc podpisů nebo souhlas obou komor, předchozí posouzení Ústavním soudem, ke schválení téměř 3 miliony hlasů) Vrabel říká, že zákon je „retardovaný“. Na jednu stranu uznává lid jako zdroj moci, na druhou mu upírá rozhodnout, zda chce být „vlastněn Evropskou unií“ a být „protektorát“, nebo suverénní a vojensky neutrální zemí. Vyloučení otázek členství v EU a NATO označuje za „pokus o diktaturu“ ze strany vlády a přirovnává ho k situaci, kdy by vláda v roce 1968 lidem upřela právo vyjádřit se k sovětským vojskům nebo k tomu, že o rozpočtu a daních rozhoduje Moskva. Navazuje na [prezentaci změny systému (8. 11.)](#zmena-systemu-prezentace-vrabel-8-11-2026).
+
+> „Ten návrh zákona je retardovaný v tom, že na jednu stranu připouští referendum […] Na druhou stranu ten zákon říká, lidé v České republice nemají svobodu rozhodnout se o tom, jestli chtějí být vlastněni Evropskou unií.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
 
 ---
 ### Kritika vlády bez alternativy — nic lepšího než Babiš, Okamura a Macinka; SPD devět let nic, Konečná u Patriotů „není zrada“ (Černohorský, 6. 11. 2026) {#kritika-bez-alternativy-cernohorsky-6-11-2026}

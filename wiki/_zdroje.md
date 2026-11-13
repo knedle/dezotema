@@ -6033,6 +6033,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 38 min, Vrabel sám (Zuzka jen v chatu); prezentace plánu „změny systému“ z let 2022–2023; bez stochastického teroru.
 
+## Ladislav Vrabel — Zprávy v devět 9. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-9-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-09_Ladislav-Vrabel_9-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1165074935943932>
+- **Datum záznamu:** 2026-11-09
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 3 min, zprávy čte Zuzka; oznámení o odložení pochodu 17. 11.; na závěr rozsudek nad Russellem Brandem.
+
 ## Konspirátor Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026) {#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026}
 - **Soubor:** [přepis](prepisy/done/2026-11-07_Konspirátor-Boldy-KonspyChannel_Opravdové-zločiny-svobodní-zednáři.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel

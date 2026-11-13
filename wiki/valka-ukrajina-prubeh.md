@@ -1310,6 +1310,15 @@ K výroku generálního tajemníka NATO Marka Rutteho, že válka nebude mít je
 
 ---
 
+### Trumpova „nenávist mezi Putinem a Zelenským“ jako „argument pro třetí třídu“; Finsko s jadernými Rafaly znemožňuje návrat k architektuře 1997, Evropa „užitečný idiot“ mimo jednací stůl (Vrabel, 9. 11. 2026) {#trump-nenavist-pat-vrabel-9-11-2026}
+
+Trumpovo tvrzení, že hlavní překážkou míru je vzájemná nenávist Putina a Zelenského, označuje Vrabel za „argument pro děti ve třetí třídě“. Skutečné důvody podle něj Rusko jasně oznámilo: „denacifikaci“ Ukrajiny (zákony proti ruskému jazyku a kultuře, pokuta Budanovovi za ruštinu) a rozšiřování NATO navzdory slibu z konce studené války. Návrat k bezpečnostní architektuře z roku 1997 s pásem neutrálních zemí je podle něj nemožný, protože Finsko je v NATO, odhlasovalo si možnost jaderných zbraní a zapojí se do Macronovy iniciativy s letouny Rafale nesoucími rakety ASMP. Situace je proto „patová“. Trumpovi nevěří, protože válku slíbil ukončit do 24 hodin, a pochybuje, že by ji dokázal ukončit, i kdyby Ukrajinu odřízl od zbraní, zpravodajských informací a internetu, protože Evropa „zbrojí až po uši“. Mír nebude „spravedlivý“ ve smyslu evropského „just and lasting peace“, protože Rusko si dobytá území ponechá. Očekává, že si USA, Rusko a Čína rozdělí sféry vlivu jako na Jaltě a dohodnou se, že spolu nepůjdou do velké války. Evropa podle něj měla v letech 2021–2022 podpořit ruské požadavky; protože se postavila na stranu Ukrajiny, nemá u jednání žádný vliv. Válka je ve skutečnosti konfliktem USA s Ruskem, Ukrajina je „proxy“ a Evropa „užitečný idiot“, který přišel o ekonomiku, levné energie i svobodu. V Abú Zabí budou zástupci EU a NATO podle něj jen „na chodbě“ jako „psychická podpora Ukrajiny“.
+
+> „Války se nevedou kvůli tomu, že má nenávist mezi sebou jeden prezident a druhý prezident. To je prostě nesmysl.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+
+---
 ### Uprchlíci utekli hlavně do Ruska, „ukrajinští fašouni“ zabili v Donbasu 15 000 lidí, zbraně se vracejí do Evropy (Zítko, 30. 10. 2026) {#donbas-uprchlici-zitko-30-10-2026}
 
 Zítko tvrdí, že většina ukrajinských uprchlíků (2–3 miliony) utekla do Ruska, že „ukrajinští fašouni a náci“ v Donbasu zabili 15 000 lidí včetně 149 dětí a že první zaútočila Ukrajina. Zbraně z Ukrajiny se podle něj vracejí do Maďarska a na Slovensko a manželka jednoho poslance prý vezla přes hranice 30 milionů dolarů.

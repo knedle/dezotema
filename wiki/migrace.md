@@ -929,6 +929,15 @@ Pokud ČR neprovede změnu systému, neuzavře hranice a nevystoupí z EU, podle
 **Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ---
+### Konec dočasné ochrany a potvrzení o odsloužení v armádě pro zaměstnanecké karty Ukrajinců — „fašistický přístup“ vlády, který povede k šedé zóně a mafii (Vrabel, 9. 11. 2026) {#ukrajinci-karty-vrabel-9-11-2026}
+
+K vládnímu záměru zrušit Ukrajincům dočasnou ochranu a podmínit zaměstnanecké karty podle něj potvrzením ukrajinské armády o odsloužení Vrabel říká, že jde o „normálně fašistický přístup“: tito lidé jsou „odsouzení prakticky k smrti“, protože by je na Ukrajině „okamžitě zavřeli do autobusu a nahnali na frontu“. Přestože se mu nelíbí, že je v ČR „tolik Ukrajinců“, nesouhlasí s tím, aby byli posíláni „rovnou na smrt“. Důsledkem podle něj bude šedá zóna, nelegální práce a mafie, které budou lidi skrývat před úřady. Připomíná, že v březnu 2022 sám s Jiřím Janečkem vezl autobusem ukrajinské ženy a děti z hranic do bezpečí, a proto by bylo „docela nefér“, kdyby ho Ukrajina zařadila na seznam webu Myrotvorec, který podle něj funguje jako „dead list“.
+
+> „Nelíbí se mi, že je u nás tolik Ukrajinců, ale nemůžeme je posílat rovnou na smrt.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+
+---
 ### Migranti jako „trojský kůň“ a „hordy“ mladých mužů — okamžitá deportace (Zítko, 30. 10. 2026) {#trojsky-kun-zitko-30-10-2026}
 
 Zítko označuje migranty za „trojského koně“ a „hordy“ tvořené jen muži ve věku 20–40 let a žádá jejich okamžitou deportaci.

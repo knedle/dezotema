@@ -12,6 +12,17 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — USA, Rusko a Čína si rozdělí sféry vlivu a dohodnou se, že spolu nepůjdou do velké války; Trump „dlouhý a trvalý mír“ na Ukrajině nezajistí (9. 11. 2026)
+
+**Předpověď:** Velmoci si podle vzoru Jalty rozdělí sféry vlivu a dohodnou se na tom, že mezi sebou nepovedou velkou světovou válku (zda dohoda vydrží, neví). Trump nedokáže válku na Ukrajině ukončit trvalým mírem.
+
+> „Samozřejmě, že si bude Ruská federace, Čína a Spojené státy rozdělovat sféry vlivu […] a dohodnou se na tom, že nepůjdou do velké světové války mezi sebou. […] Ale nemyslím si, že Donald Trump je schopný v tuhle chvíli ukončit ten konflikt na Ukrajině.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+
+---
 ### Ladislav Vrabel — bez změny systému bude za 20 let česky mluvit nanejvýš polovina obyvatel, za 40 let menšina (8. 11. 2026)
 
 **Předpověď:** Pokud ČR nevystoupí z EU a neuzavře hranice, za 20 let bude česky mluvit nanejvýš polovina obyvatel a za 40 let jen menšina; čeština může být i zakázána.

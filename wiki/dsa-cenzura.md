@@ -431,3 +431,13 @@ Ke zprávě, že britský facebookový tvůrce Ryan Williams byl zadržen pro po
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 28. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-10-2026)
 
 ---
+
+### Dovolání Bradáčové v kauze plakátů SPD — „měla by být souzená“; britské poměry se „přelijí“ k nám (Vrabel, 9. 11. 2026) {#bradacova-plakaty-spd-vrabel-9-11-2026}
+
+K dovolání nejvyšší státní zástupkyně Lenky Bradáčové v kauze předvolebních plakátů SPD z roku 2024 (odvolací soud hnutí osvobodil) Vrabel uvádí, že jde o „jedinou věc“, v níž za dlouhou dobu SPD podpořil: lidé musí mít právo varovat před bezpečnostním rizikem migrace z Afriky a Blízkého východu. Kdo politicky zakazuje mluvit o nebezpečí pro národ, ten podle něj národ do nebezpečí uvádí, a Bradáčová by proto „měla být souzená“. Komolí její jméno („Bradavkáčová“), za což se omlouvá, a dodává, že ve „svobodné, slušné a normální společnosti“ by „pravděpodobně visela na nějaké nástěnce“ lidí, kteří vytvořili nebezpečné situace pro ČR (viz [Stochastický teror](stochasticky-teror.md)). V Británii by za takové plakáty podle něj všichni šli sedět; britské poměry (desetitisíce zatčených za výroky na sítích, opakovaně zatčený Tommy Robinson, jehož kolega byl podle Vrabela za sendvič s vepřovým u mešity uvězněn a ve vězení zabit muslimy) se přes Německo „postupně přelévají k nám“.
+
+> „Podle mě by měla být souzená Lenka Bradáčová.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+
+---
