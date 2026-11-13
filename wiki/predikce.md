@@ -12,6 +12,17 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — 17. listopadu se „bude dít něco vážného, něco velkého“, „liberálně progresivistický dav“ rozpoutá „něco velmi zlého“ (9. 11. 2026)
+
+**Předpověď:** Demonstrace na Letné 15. 11. má podle něj vyústit v pokračování 17. 11., kdy se stane „něco vážného, něco velkého“; „nahněvaný liberálně progresivistický dav“ se chystá v ČR „rozpoutat něco velmi zlého“, případné násilí přijde „až za tmy“.
+
+> „17. listopadu se něco bude dít a bude se dít něco vážného, bude se dít něco velkého.“ — Ladislav Vrabel
+
+**Horizont:** 15.–17. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Facebook Live 9. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
+
+---
 ### Ladislav Vrabel — USA, Rusko a Čína si rozdělí sféry vlivu a dohodnou se, že spolu nepůjdou do velké války; Trump „dlouhý a trvalý mír“ na Ukrajině nezajistí (9. 11. 2026)
 
 **Předpověď:** Velmoci si podle vzoru Jalty rozdělí sféry vlivu a dohodnou se na tom, že mezi sebou nepovedou velkou světovou válku (zda dohoda vydrží, neví). Trump nedokáže válku na Ukrajině ukončit trvalým mírem.

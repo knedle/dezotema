@@ -1218,6 +1218,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **7. 11.** — zajištění majetku na žádost jiného státu EU bude použito proti odpůrcům režimu; spojení všech je „cesta do pekla“, politiku diktují sponzoři (zbrojaři) — [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 - **8. 11.** — prezentace změny systému (zrušit 5% hranici, politickou reklamu i strany; 1% daň; poroty); strany = odnože ODS; jako premiér „malá armáda“; Srbsko jako vzor — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 - **9. 11.** — návrh referenda bez EU/NATO jako „pokus o diktaturu“; Brand odsouzen na 10,5 roku — „černý den“, vzorec likvidace kritiků — [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+- **9. 11.** — zrušení pochodu 17. 11.: „bude se dít něco vážného“, Rajchl a písmeno Z, varování Tarabové — [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 25)
 - **14. 9.** — Trump/Zelenskyj dohoda přestat útočit na energetickou infrastrukturu — skepse k dodržení (min. Rusko dodrželo, Ukrajina útočila 48× při minulém příměří); Trump obviňuje Ukrajinu z vysokých cen paliv v USA — [Facebook Live 14. 9.](../_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
@@ -1447,6 +1448,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **7. 11.** — trvalý mír ani v Abú Zabí, ani v Šen-čenu; bankovní krize pokračuje, Francie — [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 - **8. 11.** — konec češtiny (20/40 let); CBDC do 2030 — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 - **9. 11.** — rozdělení sfér vlivu USA–Rusko–Čína bez velké války; Trump trvalý mír nezajistí — [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+- **9. 11.** — 17. 11. „něco vážného, něco velkého“ — [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
 
 ### [Válka, NATO a Rusko](../valka-nato-rusko.md) (pokrač. 29)
 - **20. 9.** — masivní útok na Moskvu během ruských voleb (dvojí metr demokracie); Fico — jen jaderné zbraně by porazily Rusko; prof. Yang — válka nevyhnutelná; Pavel vs. Fico spor o čl. 5 — [Nedělní vysílání 20. 9.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-20-9-2026) → [valka-nato-rusko.md](../valka-nato-rusko.md#nejsilnější-útok-od-začátku-války-během-ruských-voleb-1900-dronů-8-raket-flamingo--vrabel-dvojí-metr-demokracie-vrabel-20-9-2026)
@@ -2333,6 +2335,11 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Russell Brand | ✅ pozitivní | Odsouzení k 10,5 roku „černý den“; „jeden z nejinteligentnějších lidí“, umlčen za kritiku | 2026-11-09 | [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026) |
 | Kim Iversenová | ❌ negativní | Odsoudila Branda jako sexuálního predátora — „už ji zase rád nemám“ | 2026-11-09 | [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026) |
 | Reiner Fuellmich | ✅ pozitivní | Oběť vykonstruovaných finančních obvinění | 2026-11-09 | [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026) |
+| Jindřich Rajchl | ❌ negativní | Trestnost písmene Z „dal dohromady“; sen z roku 2022, v němž na něj čekal s želízky | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026) |
+| Lenka Tarabová | ❌ negativní | Varovala před jeho pochodem; blízká Rajchlovi, chystá se prý „něco, o čem nevíme“ | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026) |
+| Mikuláš Minář | ❌ negativní | Demonstrace na Letné 15. 11. má podle něj pokračovat 17. 11. | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026) |
+| Major Kolář | ○ neutrální | Podle něj potvrdil, že policie bude lidi se Z ztotožňovat a předvolávat | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026) |
+| Kateřina Blahníková | ✅ pozitivní | Zatčena za trikoloru ve tvaru Z, její případ „čistě o svobodě slova“ | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026) |
 
 ---
 
@@ -2539,3 +2546,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 7. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
 - [Nedělní vysílání 8. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 - [Zprávy v devět 9. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+- [Facebook Live 9. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)

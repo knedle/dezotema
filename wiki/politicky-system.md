@@ -827,7 +827,11 @@ Vrabel odmítá spekulace diváků, že se 17. 11. chystá výměna vlády. Babi
 
 > „To, co je potřeba pro globalisty, je udržet v napětí společnost, poštvanou proti sobě, aby se lidi nemohli sjednotit proti válce nebo proti tomu, že máme draho.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026)
+**9. 11.** — Vrabel ruší (podle svých slov poprvé) svůj pochod za svobodu slova 17. 11. Hlavním důvodem je, že se ten den „bude dít něco vážného, něco velkého“: demonstrace Mikuláše Mináře na Letné 15. 11. na podporu ČT má podle něj sloužit k tomu, aby „to mohlo pokračovat 17. listopadu“, a „nahněvaný liberálně progresivistický dav“ se podle něj chystá „rozpoutat něco velmi zlého“. Boj za svobodu slova podle něj „ukradli“ ČT, umělci a školy (falešný boj za povinné poplatky). Nechce, aby jeho lidé s transparenty s písmenem Z byli „rozbuškou“: major Kolář mu podle jeho slov řekl, že policie bude lidi se Z ztotožňovat a předvolávat, případně zatýkat. Trestnost písmene Z podle něj „dal dohromady“ Jindřich Rajchl. Jako další důvod uvádí varování Lenky Tarabové, ať lidé na jeho akci nechodí; protože je Tarabová blízká Rajchlovi, předpokládá, že „se tam chystá něco, o čem nevíme“. Zmiňuje i „špatný pocit“ a sen z července 2022, v němž na něj Rajchl čekal s želízky.
+
+> „17. listopadu se něco bude dít a bude se dít něco vážného, bude se dít něco velkého.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Večerní zprávy 31. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-31-10-2026), [Ladislav Vrabel — Facebook Live 9. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
 
 ---
 

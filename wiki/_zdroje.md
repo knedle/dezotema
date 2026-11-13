@@ -6041,6 +6041,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 3 min, zprávy čte Zuzka; oznámení o odložení pochodu 17. 11.; na závěr rozsudek nad Russellem Brandem.
 
+## Ladislav Vrabel — Facebook Live 9. 11. 2026 {#ladislav-vrabel--facebook-live-9-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-09_Ladislav-Vrabel_Facebook-Live.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1124919143880187>
+- **Datum záznamu:** 2026-11-09
+- **Zpracováno:** ano
+- **Poznámka:** 19 min, mimořádné vysílání před zprávami: zrušení pochodu za svobodu slova 17. 11.; bez stochastického teroru.
+
 ## Konspirátor Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026) {#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026}
 - **Soubor:** [přepis](prepisy/done/2026-11-07_Konspirátor-Boldy-KonspyChannel_Opravdové-zločiny-svobodní-zednáři.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel
