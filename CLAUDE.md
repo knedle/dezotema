@@ -8,14 +8,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Tematická wiki názorů, postojů a tvrzení z přepisů videí a rozhovorů. Výstupem jsou MD soubory publikované přes MkDocs na GitHub Pages.
 
+Živě na **https://knedle.github.io/dezotema/**.
+
 ---
 
 ## Stav projektu (pilotní fáze)
 
 - `wiki/prepisy/` — soubory čekající na zpracování
 - `wiki/prepisy/done/` — přesunuté zpracované soubory (jsou v `_zdroje.md` jako `prepisy/done/…`)
-- `wiki/` — existuje, obsahuje tematické MD soubory a podadresář `osoby/`
-- `mkdocs.yml` — existuje, nakonfigurován
 
 > `prepisy/` je uvnitř `wiki/` (docs_dir), aby MkDocs servoval `.txt` přepisy jako přímé prokliky ze `_zdroje.md`.
 
@@ -30,17 +30,11 @@ Tematická wiki názorů, postojů a tvrzení z přepisů videí a rozhovorů. V
 2. `VÝKON` — technické info o přepisu (ignoruj)
 3. `PŘEPIS` — samotný text s časovými značkami `[MM:SS]`
 
-**Zdroje aktuálně v `wiki/prepisy/`:**
-- `Jindřich-Rajchl`
-- `Lenka-Tarabová`
-- `Konspirátor-Boldy-KonspyChannel`
-- `Československo-TV2`
-- `Jiří-Černohorský-Živě`
-- `Restart-Cesko` — hlavní kanál **Adama Šejny**, influencer strany Motoristé
-
 Zdroj se identifikuje z části názvu souboru mezi prvním a druhým podtržítkem, nebo z pole `Kanál:` v METADATA.
 
 ### Restart Česko (Adam Šejna) — specifika
+
+`Restart-Cesko` je hlavní kanál **Adama Šejny**, influencera strany Motoristé.
 
 - Zpracovávají se i **krátká videa / krátké texty** — projdou stejným zhodnocením témat jako u ostatních zdrojů (Fáze 1).
 - Pokud přepis nese znaky, že **nemluví Šejna** (např. mluví žena, více osob, cizí řečník), soubor **nezpracovávej** — nahlas to uživateli ke kontrole.
@@ -52,9 +46,9 @@ Kanál má charakter **denního zpravodajského komentáře** — každé video 
 
 **Odlišný postup zpracování:**
 
-1. Fáze 1 (číslovaný seznam témat) probíhá **stejně jako u ostatních zdrojů** — u každého tématu uživatel posoudí, zda jde o pouhý popis stavu, nebo zda Vrabel přidává vlastní hodnocení/rámování/posun.
+1. **Bez ptaní uživatele** — seznam témat k výběru se nezobrazuje; u každého tématu sám posoudíš, zda jde o pouhý popis stavu, nebo zda Vrabel přidává vlastní hodnocení/rámování/posun (⚡).
 2. **Všechna** témata z videa (vybraná i nevybraná) se zaznamenají jako krátká položka (1 věta) do denního přehledu `wiki/zpravodajstvi-vrabel/YYYY-MM.md` — cílem je mít úplný přehled, co všechno ten den pokrýval, i když to není hodné vlastního tvrzení na tematické stránce.
-3. Jen témata, která uživatel označí jako „s posunem/vlastním úhlem", navíc projdou **plným** zpracováním do tematických stránek (jako u ostatních zdrojů) — u odpovídající položky v denním přehledu se pak připojí odkaz na plnou sekci.
+3. Jen témata s posunem/vlastním úhlem (⚡) navíc projdou **plným** zpracováním do tematických stránek (jako u ostatních zdrojů) — u odpovídající položky v denním přehledu se pak připojí odkaz na plnou sekci.
 4. Predikce (`predikce.md`) a stochastický teror (`stochasticky-teror.md`) se extrahují bezvýjimečně jako u všech zdrojů, nezávisle na tomto přehledu.
 5. Stránka osoby (`osoby/vrabel.md`) se aktualizuje jen pro plně zpracovaná témata, ne pro položky, které jsou jen v denním přehledu.
 
@@ -87,7 +81,7 @@ Uživatel vždy sdělí, kolik souborů nebo které konkrétní zpracovat. Bez p
 
 ### Fáze 1: Identifikace témat
 
-Po přečtení souboru sestavíš seznam témat a zobrazíš ho uživateli jako **interaktivní checkboxy** (multiSelect). Uživatel zaškrtne, která témata zpracovat.
+Po přečtení souboru sestavíš seznam témat a zobrazíš ho uživateli jako **číslovaný textový seznam** (ne interaktivní checkboxy). Uživatel odpoví, která témata zpracovat.
 
 **Formát každého tématu v seznamu:** Název tématu + 1 věta o čem mluvčí k tématu mluví.
 
@@ -112,7 +106,7 @@ Po výběru uživatele:
 - **Názory a postoje** — hodnotící výroky, přesvědčení, doporučení
 - **Zajímavé citace** — přesné formulace hodné zachování (max 1–2 věty)
 - **Predikce** — explicitní předpovědi budoucího vývoje ("za X měsíců nastane Y", "do voleb se stane Z", "Bitcoin dosáhne..."); zaznamenávej do `wiki/predikce.md`
-- **Stochastický teror** — výroky splňující: **pojmenovaný terč** (konkrétní osoba nebo skupina) + **dehumanizace nebo výzva k trestu/násilí**; zaznamenávej do `wiki/stochasticky-teror.md` bez ohledu na to, zda bylo téma vybráno v checkboxech — tuto kategorii extrahuj vždy
+- **Stochastický teror** — výroky splňující: **pojmenovaný terč** (konkrétní osoba nebo skupina) + **dehumanizace nebo výzva k trestu/násilí**; zaznamenávej do `wiki/stochasticky-teror.md` bez ohledu na to, zda bylo téma vybráno — tuto kategorii extrahuj vždy
 
 ### Jak strukturovat výstup
 - Obsah organizuj **tematicky**, ne podle videí
@@ -201,11 +195,11 @@ Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsah
 
 1. Ověř, že soubor není v `wiki/prepisy/done/` (= již zpracován)
 2. Přečti soubor z `wiki/prepisy/` (sekci PŘEPIS, METADATA pro atribuci)
-3. Identifikuj témata → zobraz uživateli jako interaktivní checkboxy (multiSelect), každé s 1větným popisem
+3. Identifikuj témata → zobraz uživateli jako číslovaný seznam, každé s 1větným popisem (u Vrabela se neptej — viz specifika)
 4. Čekej na výběr uživatele
 5. **Pokud žádné téma nevybráno:** přesuň do `done/`, commitni, konec (u Ladislava Vrabela platí výjimka — viz krok 6a)
 6. **Pokud témata vybrána:** zpracuj pouze vybraná témata
-6a. **Výjimka — Ladislav Vrabel:** bez ohledu na výběr se **všechna** témata videa zaznamenají jako krátká položka do `wiki/zpravodajstvi-vrabel/YYYY-MM.md`; kroky 7–10 (plné zpracování) proběhnou jen pro vybraná témata. Viz „Ladislav Vrabel — specifika" výše.
+6a. **Výjimka — Ladislav Vrabel:** **všechna** témata videa zaznamenají jako krátká položka do `wiki/zpravodajstvi-vrabel/YYYY-MM.md`; kroky 7–10 (plné zpracování) proběhnou jen pro vybraná témata. Viz „Ladislav Vrabel — specifika" výše.
 7. Rozšiř existující nebo vytvoř nový MD soubor ve `wiki/`
 8. Přidej záznam do `wiki/_zdroje.md` — soubor jako `[přepis](prepisy/done/název.txt)`, URL jako `<https://...>`
 9. Přesuň soubor do `wiki/prepisy/done/` pomocí PowerShell `Move-Item`
@@ -226,41 +220,4 @@ Každý mluvčí má vlastní stránku v `wiki/osoby/[jmeno].md`. Stránka obsah
 
 ## Publikování (MkDocs)
 
-```bash
-pip install mkdocs-material
-mkdocs serve          # lokální náhled
-mkdocs gh-deploy      # publikování na GitHub Pages
-```
-
-**`mkdocs.yml` šablona:**
-```yaml
-site_name: Wiki názorů
-theme:
-  name: material
-  language: cs
-  features:
-    - navigation.tabs
-    - search.suggest
-docs_dir: wiki
-nav:
-  - Úvod: index.md
-  - Zdroje: _zdroje.md
-```
-
-**GitHub Actions** (`.github/workflows/deploy.yml`) — automatický deploy při `git push` na `main`:
-```yaml
-name: Deploy wiki
-on:
-  push:
-    branches: [main]
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
-```
+Push na `main` → automatický deploy přes `.github/workflows/deploy.yml` (konfigurace v `mkdocs.yml`). Lokální náhled: `mkdocs serve`.
