@@ -1015,3 +1015,15 @@ Vrabel tvrdí, že Babiš porušením slibu zrušit muniční iniciativu (po sum
 **19. 10.** — Ke zprávě o české střele s plochou dráhou letu Narval (LPP Holding, dolet přes 700 km, bez satelitní navigace) a k varování Tomáše Kopečného před nedostatečnou státní podporou zbrojařů Vrabel tvrdí, že média to „navlíknou“ jako válečnou propagandu, aby lidé cítili vinu, že střela ještě nebyla poslána proti Rusku: „Zapálíte, nestrkejte ty sirky zpátky na ty krabičky, že vám to chytnou.“ Útočná střela s doletem 700 km dodaná na Ukrajinu podle něj poletí do Ruska. Srovnává to s válkou, kdy sem podle něj musel přijet Heydrich, aby Češi rychleji vyráběli zbraně pro Hitlerovu armádu; dnes „žádnýho Heydricha“ není potřeba, protože lidé kvůli válečné propagandě a nedostatku peněz na jídlo jdou do zbrojovek sami. To, že se místo o Starlinku začíná mluvit o „Star Shield“, podle něj prozrazuje, že jde (jako u Stargate) o vojenské projekty.
 
 **Zdroje:** [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Vrabel — Nedělní vysílání 4. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-4-10-2026), [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026), [Ladislav Vrabel — Zprávy v devět 13. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-10-2026), [Ladislav Vrabel — Večerní zprávy 14. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-14-10-2026), [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
+
+---
+
+### 454 mld. eur na obranu za jediný rok jako vysvětlení drahoty; úspory Evropanů (10 bilionů eur) skončí ve zbrojních firmách „za zády lidí“ (Vrabel, 10. 11. 2026) {#454-mld-uspory-vrabel-10-11-2026}
+
+K jednání ministrů financí EU s Markem Ruttem o společných nákupech zbraní (výdaje členských států na obranu letos zhruba 454 mld. eur) Vrabel říká, že „aspoň už víme“, proč se zavádí ETS a zdražuje voda, teplo, elektřina, pohonné hmoty a jídlo. Částku srovnává s celkovou finanční pomocí Ukrajině za 4,5 roku: za jediný rok se má dát „skoro stejně“ jako dosud za čtyři roky (Babišem uváděných 522 mld.). Evropa, která už „nemá peníze“ a k tomu potřebuje 350 mld. eur na francouzský dluh, je podle něj „na pokraji bankrotu“. Jediné peníze, které politici mají, jsou peníze lidí. Očekává proto, že EU přes unii úspor a investic převede úspory Evropanů (asi 10 bilionů eur) dohodou s fondy „za zády lidí“ do zbrojních firem.
+
+> „Takže očekávejte, že ty programy jako Savings and Investments […] to udělají za zády lidí, se dohodnou s těmi fondy, který drží ty úspory, a budou je nějakým způsobem investovat do zbraní.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+
+---

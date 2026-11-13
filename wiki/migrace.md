@@ -938,6 +938,15 @@ K vládnímu záměru zrušit Ukrajincům dočasnou ochranu a podmínit zaměstn
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
 
 ---
+### El Hierro: 4000 migrantů za dva týdny — „vítačky“ se sny o černoších, původní obyvatelé do armády, migranti na dávkách; Evropa spěje k osudu indiánů v rezervacích (Vrabel, 10. 11. 2026) {#el-hierro-rezervace-vrabel-10-11-2026}
+
+K příjezdu více než 4000 migrantů na kanárský ostrov El Hierro Vrabel vyčísluje, co jeden nepracující příchozí stojí (bydlení, jídlo, často drahá zdravotní péče, oblečení, telefon, účet, jazykové kurzy), a ptá se, proč to Evropa s miliony lidí dělá. Ženy, které migranty vítají, podle něj mají „sny“ o „pěkných černých klucích“ ze „choulostivých stránek“; dárcům připomíná, že vítání organizuje Červený kříž. Ve švédské armádě je podle něj „samý blonďák“, zatímco „neblonďáci“ sedí doma a platí je stát, tedy původní obyvatelé jdou do armády a příchozí žijí z veřejných rozpočtů. Připomíná, že USA vznikly „vyhubením původního obyvatelstva“ evropskými migranty a indiáni dnes žijí v rezervacích; „přesně k tomu“ podle něj spěje Evropa.
+
+> „Tak jenom, aby jsme se poučili a nenechali takhle dopadnout Evropu, protože přesně k tomu tu za kým spěje.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+
+---
 ### Migranti jako „trojský kůň“ a „hordy“ mladých mužů — okamžitá deportace (Zítko, 30. 10. 2026) {#trojsky-kun-zitko-30-10-2026}
 
 Zítko označuje migranty za „trojského koně“ a „hordy“ tvořené jen muži ve věku 20–40 let a žádá jejich okamžitou deportaci.

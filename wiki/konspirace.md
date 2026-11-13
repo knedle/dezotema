@@ -1153,3 +1153,23 @@ Vrabel prohlašuje, že „nechce dělat konspirace“, na videu přestřelky po
 **Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ---
+
+### Studentské protesty za ČT jako revoluce „řízená CIA přes českou tajnou službu“ podle srbského scénáře; řečníka by trestně stíhal (Vrabel, 10. 11. 2026) {#studenti-cia-revoluce-vrabel-10-11-2026}
+
+K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník z FAMU ohlásil nenásilnou „občanskou neposlušnost“, „dělání bordelu“ a komplikování života těm, kdo komplikují život jim, a požadoval odvolání ministra kultury Klempíře a nových členů rad) Vrabel tvrdí, že jde „jednoznačně“ o „operaci řízenou ze CIA“ přes českou tajnou službu. Pokyny podle něj dostávají rektoři, děkani zrušili výuku a „nahnali studenty do ulic“; zdola má revoluci tlačit nově založená organizace Studentstvo. Postup podle něj kopíruje Srbsko, jen v ČR nepůjde o národ, ale o protiruskou kampaň „proti ruským švábům“; pokud Evropa půjde do války, studenti si podle něj budou moci „připsat zářezy na pažbu“. Očekává stávky trvající třeba celý rok, pád Babišovy vlády dřív než za tři roky a vlastní kandidátku Studentstva řízenou „plény“. Děti podle něj „nepatří do politiky“, nemají zkušenost a jsou „zneužité“; jejich využívání označuje za „fašistický přístup k politice“ (Rajchlovi vyčítá, že na pódium bral vlastní děti). Řečníka, který veřejně ohlásil „bordel“, by „trestně odstíhal“ pro narušování veřejného pořádku (viz [Stochastický teror](stochasticky-teror.md)). Sám se drží stranou obou táborů (Babiš i Fiala, „ODS-B“ i „ODS originál“), které podle něj řídí CIA a BIS, aby společnost „bojovala každý s každým“.
+
+> „Toto jsou studenti jednoznačně, je to operace řízená ze CIA.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+
+---
+
+### Lidé jako „pasiva“: s AI a robotizací chtějí elity méně lidí — vysvětlení deindustrializace, válek i hmyzu v jídle (Vrabel, 10. 11. 2026) {#lide-pasiva-depopulace-vrabel-10-11-2026}
+
+S odkazem na video neuvedeného autora Vrabel vysvětluje zdánlivě nelogické kroky Západu: dosud byl člověk „aktivem“, které pracuje a vydělává, ale s nástupem AI a robotizace se nezaměstnaní (bude jich „desítky procent“) stávají „pasivy“, která jen konzumují nerostné bohatství, jež by „ty elity mohly mít pro sebe“. Proto se podle něj vedou diskuse, „jak to udělat, aby tady těch lidí bylo méně“. Tím vysvětluje deindustrializaci, předlužování, války, farmy na hmyz pro jídlo a průmyslově zpracované potraviny. Navazuje na jeho tezi o depopulaci na „jednu miliardu“ (6. 10.).
+
+> „Někdo si může říct, že to je nelogický, co se děje […] Tak jedno vysvětlení by tady mohlo být a kdo dobře poslouchal, tak to vysvětlení slyšel.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+
+---

@@ -693,3 +693,13 @@ Zítko tvrdí, že se v ČR elektřina vyrábí za 0,15–0,4 Kč/kWh, ale prod�
 **Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---
+
+### Odvod 90 % příjmů výrobců nad cenovým stropem je „drbání se pravou rukou za levým uchem“ — řešením je vystoupit z EU a na několik let dát rodinám elektřinu zdarma (Vrabel, 10. 11. 2026) {#strop-90-procent-vrabel-10-11-2026}
+
+K vládou schválené novele energetického zákona (při prudkém zdražení může stát odebrat výrobcům až 90 % příjmů nad stropem a regulovat ceny) Vrabel cituje svého učitele matematiky, že je to jako „drbat se pravou rukou za levým uchem“: peníze se nejdřív „schrápnou“ do rozpočtu a pak se z nich vyplácejí úlevy. Jediné správné řešení je podle něj vystoupit z EU, uzavřít hranice a vybudovat samostatnou energetiku nezávislou na Německu. ČR byla podle něj ještě v roce 2002 největším vývozcem přebytků elektřiny v Evropě. Firmám by dal levnou elektřinu kvůli konkurenceschopnosti a rodinám „vyždímaným“ válkou na několik let elektřinu zdarma. Vše ostatní je „Donald Duck“, který prodlužuje agonii, zatímco z ČR podle něj odchází „každý den jedna miliarda“ do zahraničí. Zdražování (ETS, voda o 250 %, teplo, pohonné hmoty, jídlo) spojuje s výdaji EU na zbrojení.
+
+> „Jediný správný a jednoduchý řešení je vystoupit z Evropské unie, uzavřít hranice, udělat vlastní samostatnou energetiku.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+
+---

@@ -12,6 +12,29 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — studentské protesty řízené „CIA“ svrhnou Babišovu vládu dřív než za tři roky; Studentstvo postaví vlastní kandidátku, 17. 11. vyvrcholí jen „první vlna“ (10. 11. 2026)
+
+**Předpověď:** Studenti budou stupňovat masové demonstrace a stávky (klidně i celý rok), dokud nesvrhnou Babišovu vládu, podle něj dřív než v řádných volbách. 17. listopad bude velký, ale jen „první vlna“; protesty se mohou táhnout rok či dva. Ve volbách pak Studentstvo předloží vlastní kandidáty a v ČR budou protesty mířit proti Rusku.
+
+> „Myslím si, že se jim podaří rozpoutat ty demonstrace tak velký, že sundají vládu dřív.“ — Ladislav Vrabel
+
+**Horizont:** do řádných voleb (2029); 17. 11. 2026 jako první vrchol
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+
+---
+
+### Ladislav Vrabel — úspory Evropanů skončí přes unii úspor a investic ve zbrojních firmách (10. 11. 2026)
+
+**Předpověď:** EU se „za zády lidí“ dohodne s fondy, které spravují zhruba 10 bilionů eur úspor, a převede je do investic ve zbrojních firmách.
+
+> „To udělají za zády lidí, se dohodnou s těmi fondy, který drží ty úspory, a budou je nějakým způsobem investovat do zbraní.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+
+---
 ### Ladislav Vrabel — 17. listopadu se „bude dít něco vážného, něco velkého“, „liberálně progresivistický dav“ rozpoutá „něco velmi zlého“ (9. 11. 2026)
 
 **Předpověď:** Demonstrace na Letné 15. 11. má podle něj vyústit v pokračování 17. 11., kdy se stane „něco vážného, něco velkého“; „nahněvaný liberálně progresivistický dav“ se chystá v ČR „rozpoutat něco velmi zlého“, případné násilí přijde „až za tmy“.

@@ -6049,6 +6049,14 @@
 - **Zpracováno:** ano
 - **Poznámka:** 19 min, mimořádné vysílání před zprávami: zrušení pochodu za svobodu slova 17. 11.; bez stochastického teroru.
 
+## Ladislav Vrabel — Zprávy v devět 10. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-10-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-10_Ladislav-Vrabel_10-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/28716870551346331>
+- **Datum záznamu:** 2026-11-10
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 1 min, zprávy čte Zuzka; den studentské demonstrace za ČT a ČRo, první den jednání v Abú Zabí.
+
 ## Konspirátor Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026) {#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026}
 - **Soubor:** [přepis](prepisy/done/2026-11-07_Konspirátor-Boldy-KonspyChannel_Opravdové-zločiny-svobodní-zednáři.txt)
 - **Kanál:** Konspirátor Boldy KonspyChannel
