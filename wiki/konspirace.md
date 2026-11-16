@@ -1180,7 +1180,11 @@ K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník 
 
 > „To, co se chystá, je politický převrat.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+**15. 11.** — Večer po demonstraci na Letné Vrabel tvrdí, že šlo o „centrálně organizovanou“ a „profesionální“ „politickou agitku“, ne o demonstraci zdola. ČT podle něj dodala techniku (přenosové vozy, generátor), dramaturgii připravovaly týmy herců a psychologů a mediální podpora měla hodnotu „desítek milionů“. Účast 400 tisíc nevěří: ChatGPT mu z fotografie spočítal 30–70 tisíc, sám odhaduje nejvýš 200 tisíc. Z videa bývalého agenta StB Zifčáka vyvozuje, že „převrat udělala Státní bezpečnost v roce 1989“ ve spolupráci se západními službami, a Letná se podle něj dnes děje „ve spolupráci s tajnými službami“, protože nikdo z organizátorů není označen za bezpečnostní riziko. Na rozdíl od nich prý tajné služby zasahují proti němu: Vrchní státní zastupitelství v Praze podle něj volalo policii v Českých Budějovicích, insolvenční soudce tlačil na vyšetřovatele a jeho manželka byla označena za bezpečnostní hrozbu. Studentské protesty po celém Západě (Srbsko, Španělsko, Itálie, Francie) považuje za důkaz koordinace CIA a MI6. Mináře a faráře Halíka nazývá nastrčenými tvářemi, jejichž projevy kontrolují psychologové.
+
+> „Tohle to je opravdu řízený centrálně z hora a je to řízený skrze média a skrze tajní služby.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ---
 

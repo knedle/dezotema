@@ -48,6 +48,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — vláda nevydrží, přijdou předčasné volby s odstavením SPD, Trikolory, PRO, Svobodných a možná Motoristů; Rusko vyhraje „s 99,9% pravděpodobností“ a Evropa vstoupí do konfliktu (15. 11. 2026)
+
+**Předpověď:** Babišova vláda podle něj nevydrží celé volební období. Přijdou „pravděpodobně předčasné“ volby, v nichž budou „vyměněni“ SPD, Trikolora, PRO, Svobodní a možná Motoristé, a Babiš zůstane s Fialou a Rakušanem, nebo bude vyměněn. Studentstvo bude dál sílit. Rusko válku vyhraje „s 99,9% pravděpodobností“ a Evropa se do konfliktu zapojí.
+
+> „Dopadne to volbama, pravděpodobně předčasnýma, kde budou vyměněný SPD, Trikolora, Pro a Svobodný a možná i Motoristy.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno (předčasné volby); neurčeno (válka)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+
+---
+
 ### Ladislav Vrabel — po „velkých mírových jednáních“ přijde teroristický útok na mezinárodně významnou osobu a pak válka v Evropě (13. 11. 2026)
 
 **Předpověď:** Po velkých mírových jednáních bude spáchán teroristický útok na „někoho mezinárodně významného“ a „pak to začne“, tedy válka, která se rozšíří i na území EU.
@@ -71,7 +83,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **Stav:** 🕐 Čeká na vyhodnocení
 **13. 11.** — Vrabel „sází“, že Babiš v Dublinu s 70miliardovou půjčkou Ukrajině souhlasí („Sázím na Andreje, že bude souhlasit“). Moderátorka Zuzka naopak odhaduje, že Babiš „prohlásí jako minule, ale ručit nebudeme“.
 **14. 11.** — Výsledek summitu Vrabel nekomentoval, jen že se Babiš v Dublinu usmíval a podával ruku Zelenskému.
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+**15. 11.** — Vrabel predikci považuje za naplněnou: „my v Čechách řekneme, že za to neručíme. Což neznamená moc, že za to neručíme, protože to platíme.“ Stav ponechán do ověření skutečného výsledku summitu.
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ---
 ### Ladislav Vrabel — studentské protesty řízené „CIA“ svrhnou Babišovu vládu dřív než za tři roky; Studentstvo postaví vlastní kandidátku, 17. 11. vyvrcholí jen „první vlna“ (10. 11. 2026)
@@ -85,7 +98,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně promigrační, prounijní“.
 
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
+**15. 11.** — Vrabel už nečeká převrat, ale „výměnu politiků“ v předčasných volbách, viz predikce z 15. 11.
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ---
 
@@ -119,7 +133,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** 15.–17. 11. 2026
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Facebook Live 9. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026)
+**15. 11.** — Vrabel očekávání zmírňuje: „neočekávám tolik násilí“, „možná, že ty sedmnáctého se možná něco trošičku rozehraje“.
+**Zdroj:** [Ladislav Vrabel — Facebook Live 9. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ---
 ### Ladislav Vrabel — USA, Rusko a Čína si rozdělí sféry vlivu a dohodnou se, že spolu nepůjdou do velké války; Trump „dlouhý a trvalý mír“ na Ukrajině nezajistí (9. 11. 2026)

@@ -923,6 +923,16 @@ Babiše, který se v Dublinu usmíval na Zelenského, a Havlíčka, který Ukraj
 
 ---
 
+### Letná jako demonstrace za zbrojení a výměnu vlády: předčasné volby, odstavení SPD, Okamury a Rajchla; Babiš „dává Západu všechno“ (Vrabel, 15. 11. 2026) {#letna-vymena-vlady-vrabel-15-11-2026}
+
+Hlavním smyslem Letné byly podle Vrabela požadavky odvolat ministra obrany Zůnu, vzít SPD ministerstvo obrany a nutit vládu zbrojit. Ukázku projevu vojáka aktivní zálohy o „ruské hybridní válce“ bere jako doklad, že Milion chvilek demonstruje „za zbrojení, ne za ČT“. Prvním podnikatelem představeným na pódiu byl podle něj Dalibor Dědek (Jablotron), spoluzakladatel sbírky „Dárek pro Putina“, který na zbraně pro Ukrajinu dal asi 70 milionů korun. Za akcí tak podle něj stojí zbrojařské peníze a zahraniční fondy, řízení obstarává CIA s BIS. Cílem je podle něj rozbít koalici, vyměnit SPD a Motoristy za ODS nebo TOP 09 a „ponížit“ voliče SPD. Babiš jim nevadí, vadí jim protiunijní a protinatovská rétorika SPD. Důvodem je podle něj chystaná válka s Ruskem, kvůli které potřebují ovládat parlament a vládu, aby nikdo nebránil vysílání vojáků a mobilizaci. Nečeká převrat, ale „výměnu politiků“ v předčasných volbách: odstaveni mají být SPD, Okamura, Rajchl, Mayerová a Vondráček, Babiš zůstane, nebo bude kandidovat na prezidenta. Babiš, Okamura i Fiala jsou podle něj jen „loutky“ „totalitní struktury moci“. SPD se k moci dostala díky jeho demonstracím z roku 2022, Okamura podle něj „lhal“ o odmítnutých pozvánkách na cvičení „koalice ochotných“ a „není úplně inteligentní“. Rajchlovy demonstrace byly podle něj „katastrofa“ a Rajchl prý mluví „slovo od slova“ jako on. Babiš podle něj „dává Západu všechno“: v Dublinu se kamarádí se Zelenským, Havlíček nabízí letadla, ČR přistoupila na muniční iniciativu a u 90 mld. eur pro Ukrajinu „neručíme“ jen formálně, „protože to platíme“. Zákaz referenda o EU a NATO je podle něj „nejhorší věc, kterou kdy Babiš udělal“. Kdyby jeho hnutí mělo stejnou mediální podporu jako Letná, bylo by podle něj „ve vládě během měsíce“ a ČR venku z EU i NATO.
+
+> „Můj názor je, že to je kvůli tomu, že se chystá válka s Ruskem a že potřebují mít absolutně pod kontrolou parlament a vládu, aby nikdo nedělal problémy s vysíláním vojáků, s vypisováním, s vyhlašováním mobilizace.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

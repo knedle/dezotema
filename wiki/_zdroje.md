@@ -6440,3 +6440,11 @@
 - **Datum záznamu:** 2026-11-14
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 21 min, den po summitu v Dublinu (jeho výsledek nekomentoval), den před Letnou. 21 témat v denním přehledu, 7 s vlastním úhlem (⚡). Stochastický teror nezjištěn. Zpracováno podle podkladů pomocného agenta.
+
+## Ladislav Vrabel — Nedělní vysílání 15. 11. 2026 {#ladislav-vrabel--nedělní-vysílání-15-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-15_Ladislav-Vrabel_Pravidelné-nedělní-živé-vysílání-ve-21h.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1996943297643702>
+- **Datum záznamu:** 2026-11-15
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 57 min, večer po demonstraci na Letné, od asi 54. minuty odpovědi na dotazy. 34 témat v přehledu, většina s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: policie v Německu a Francii jako „divoká zvěr“, Minář a Halík bez výzvy). Zpracováno podle podkladů pomocného agenta.

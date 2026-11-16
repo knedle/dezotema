@@ -316,6 +316,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Konspirace „Mezimoří" — návrat šlechty/Habsburků vs. skupování majetku korporativní skupinou (host Vítová, panelová debata 9. 7.) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 - **13. 11.** — Letná jako „politický převrat“ CIA, poplatky jen záminka → [konspirace.md](../konspirace.md#studenti-cia-revoluce-vrabel-10-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - **14. 11.** — výpadky v USA jako „první příznaky pádu Západu“, „následuje velká válka“ → [konspirace.md](../konspirace.md#pad-zapadu-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+- **15. 11.** — Letná jako „centrálně řízená“ agitka s technikou ČT a psychology, 1989 jako převrat StB, tajné služby proti němu a manželce → [konspirace.md](../konspirace.md#studenti-cia-revoluce-vrabel-10-11-2026) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -348,6 +349,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **12. 7.** — hormonální španělské vepřové maso, potravinová soběstačnost — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - Postoj ke spojení ČR-SR — respekt k slovenské vůli, preference decentralizace — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - **14. 11.** — Babiš a Havlíček „herci“ jako Fiala, referendum neprojde, systém „zločinný“, probudit 7 % lidí → [politicky-system.md](../politicky-system.md#zlocinny-system-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+- **15. 11.** — Letná za zbrojení a výměnu vlády, Dědek a „Dárek pro Putina“, předčasné volby s odstavením SPD, Okamury a Rajchla, Babiš „dává Západu všechno“, „s médii bychom byli ve vládě za měsíc“ → [politicky-system.md](../politicky-system.md#letna-vymena-vlady-vrabel-15-11-2026), [predikce.md](../predikce.md) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -424,6 +426,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **31. 7.** — migrační pakt vynutí přerozdělení migrantů z Ceuty do zemí, kde „ještě nejsou" (Polsko, ČR, Slovensko, Maďarsko) — [Videoportál 31. 7.](../_zdroje.md#ladislav-vrabel--videoportál-31-7-2026) → [migrace.md](../migrace.md)
 - **13. 11.** — příměří jako „kopice dynamitu“, EU „finančně závislá“ na válce, ruská aktiva jako krádež, Ukrajina „nacistický režim“; po mírových jednáních teroristický útok „a pak to začne“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#kopice-dynamitu-vrabel-13-11-2026), [valka-nato-rusko.md](../valka-nato-rusko.md#teroristicky-utok-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - **14. 11.** — Šen-čen: sféry vlivu, USA Evropě nepomohou; Bergen Group a „nejpodřízenější role“ ČR → [valka-nato-rusko.md](../valka-nato-rusko.md#sfery-vlivu-vrabel-14-11-2026), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#bergen-group-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+- **15. 11.** — Rusko by Evropu dobylo bez jaderných zbraní, vyhraje „s 99,9 %“, válka o nový světový systém → [valka-nato-rusko.md](../valka-nato-rusko.md#rusko-dobude-evropu-vrabel-15-11-2026) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -2392,6 +2395,13 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Karol Nawrocki | ✅ pozitivní | Vetoval zákon o digitálních službách | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
 | Călin Georgescu, Reiner Fuellmich, Russell Brand | ✅ pozitivní | „Lídři boje za svobodu“, oběti systému | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
 | Donald Trump | ⚖️ rozporuplný | „Pilot bez motorů“, ale nechce válku s Kubou | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
+| Mikuláš Minář | ❌ negativní | Nastrčená tvář, projevy kontrolují psychologové | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
+| Tomio Okamura | ❌ negativní | „Lhal“ o pozvánkách, „není úplně inteligentní“ | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
+| Jindřich Rajchl | ❌ negativní | Jeho demonstrace „katastrofa“, opakuje prý Vrabelova slova | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
+| Dalibor Dědek | ❌ negativní | Financuje zbraně pro Ukrajinu, představen na Letné | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
+| Andrej Babiš | ❌ negativní | „Dává Západu všechno“, zákaz referenda „nejhorší věc“ | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
+| Scott Ritter | ✅ pozitivní | Zdroj tvrzení, že Rusko nemůže čekat do roku 2029 | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
+| Vladimír Štěpán | ❌ negativní | „Strašák“, nerozumí mezinárodnímu obchodu | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
 
 ---
 
@@ -2604,3 +2614,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 - [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+- [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)

@@ -1042,7 +1042,9 @@ K jednání ministrů financí EU s Markem Ruttem o společných nákupech zbran
 
 > „Protože jsme ve stádiu drancování.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+**15. 11.** — Pokles cen zlata, stříbra a kryptoměn je podle Vrabela „plundrování lidí“ vysokými úroky a záměrně drahými energiemi („to všechno je extrémně drahé schválně“). Velké banky podle něj stlačují cenu papírového zlata a skupují fyzické. Radí zlato a stříbro neprodávat, držet fyzické kovy v malých mincích a nemovitosti mimo EU, hotovost, akcie a banky považuje za riziko, protože se připravují digitální měny CBDC. Pro většinu lidí je podle něj nejdůležitější bezpečné místo, jídlo, voda a teplo.
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ---
 

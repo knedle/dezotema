@@ -1687,3 +1687,13 @@ Na schůzce Trumpa, Putina a Si Ťin-pchinga v Šen-čenu (APEC) se podle Vrabel
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 
 ---
+
+### Rusko by Evropu dobylo bez jaderných zbraní — 3 000 dronů a 100 iskanderů denně; „Rusko vyhraje s 99,9% pravděpodobností“ (Vrabel, 15. 11. 2026) {#rusko-dobude-evropu-vrabel-15-11-2026}
+
+Vrabel rozvíjí scénář, v němž se Trump, Putin a Si dohodnou na sférách vlivu a USA veřejně vyloučí jaderné krytí Evropy. Rusko by pak podle něj dokázalo Evropu porazit konvenčně, protože zvládne 3 000 dronů a 100 iskanderů denně, zatímco Evropa nemá protivzdušnou obranu. Ruská sféra vlivu by podle něj sahala „na východ od Prahy nebo až po Prahu“. S odkazem na Scotta Rittera tvrdí, že Rusko si nemůže dovolit čekat do let 2029–2030, až se Evropa nazbrojí, a rozhodnutí podle něj už padlo. Jadernou válku považuje za „velmi málo pravděpodobnou“, obává se ale náhodného zásahu jaderného skladu v ČR. Válka podle něj není jen o nerostech, ale o novém světovém systému (digitální měny, DSA, chat control, tokenizace přírody), kvůli kterému je třeba zničit „pravoslavný suverénní ruský národ“. Globalisté podle něj ovládli USA („zabili Kennedyho“, Deep State, Fed) a Evropu a teď chtějí Rusko a Čínu. Vystoupení z NATO podle něj obchod neohrozí a odchod z EU by nahradily bilaterální smlouvy, opačná tvrzení (Vladimír Štěpán) jsou „strašák“.
+
+> „Rusko si nemůže dovolit čekat do roku 2029, do roku 2030 a nechat se bombardovat Evropou.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+
+---
