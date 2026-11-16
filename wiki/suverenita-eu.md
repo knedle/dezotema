@@ -993,6 +993,10 @@ Rajchl tvrdí, že německý kancléř Friedrich Merz „rozjel brutální vydí
 
 > „A pokud chce pan Merz zablokovat přijetí toho rozpočtu Evropské unie, nechť tak učiní. Protože možná o to blíže budeme rozpadu téhleté totalitní organizace.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
+**11. 11.** — V televizní debatě Rajchl souhlasí s Babišem a Ficem, že jde o vydírání, a oceňuje „pevnou pozici“ premiéra Babiše. Opozici vyčítá dvojí metr: když Petr Macinka poslal Petru Pavlovi SMS, že bez dohody čeká „extrémní kohabitace“, opozice podle něj dva měsíce křičela o vydírání prezidenta a podávala trestní oznámení. Merzův tlak je podle něj „stokrát horší“, a přesto ho tíž lidé nazývají „stylem vyjednávání“. Nejde prý o mír, ale o to, že ukrajinský rozpočet bude v hlubokém deficitu ještě mnoho let.
+
+> „Tohle je přece stokrát horší. Tady nejde, prosím vás pěkně, o nějaký mír.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026), [Rajchl — „Zkrocení štěkající Činčily“ (11. 11. 2026)](_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026)
 
 ---

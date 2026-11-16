@@ -127,6 +127,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **5. 11.** — Trump „nastavil Evropě zrcadlo“, nepřítel „v Bruselu“ (opakuje „příšeru“) — [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
 - **8. 11.** — Kaczyński: zrušit Evropskou komisi, nebo vystoupit z EU; nejdřív pokus o změnu s Polskem a Slovenskem → [suverenita-eu.md](../suverenita-eu.md#triocasa-prisera-rajchl-4-11-2026) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 - **10. 11.** — Merzovo „brutální vydírání“ (blokace rozpočtu EU), ČR by platila 60–70 mld. Kč ročně na Ukrajinu; neustoupit „ani o milimetr“, blokace přiblíží rozpad „totalitní organizace“ → [suverenita-eu.md](../suverenita-eu.md#merz-vydirani-rajchl-10-11-2026) — [Merz a vydírání 10. 11. 2026](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
+- **11. 11.** — Merzův tlak „stokrát horší“ než Macinkova SMS Pavlovi, kterou opozice označila za vydírání; oceňuje pevný postoj Babiše → [suverenita-eu.md](../suverenita-eu.md#merz-vydirani-rajchl-10-11-2026) — [„Zkrocení štěkající Činčily“ 11. 11. 2026](../_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -615,6 +616,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Danuše Nerudová | ❌ negativní | Označila je za „proruskou sebranku“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
 | Petr Fiala | ❌ negativní | Kampelička ODS; ironicky přebírá jeho „nebudu jednat pod tlakem demonstrací“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
 | Friedrich Merz | ❌ negativní | „Brutální vydírání“ ČR blokací rozpočtu EU kvůli Ukrajině | 2026-11-10 | [Merz a vydírání 10. 11. 2026](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026) |
+| Andrej Babiš | ✅ pozitivní | „Pevná pozice“ proti Merzovu vydírání | 2026-11-11 | [„Zkrocení štěkající Činčily“ 11. 11. 2026](../_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026) |
 
 ## Zpracované zdroje
 
@@ -773,3 +775,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [„Tohle je nejvíc!“: průzkum o poplatcích (6. 11. 2026)](../_zdroje.md#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026)
 - [Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 - [Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
+- [„Zkrocení štěkající Činčily“ (11. 11. 2026)](../_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026)

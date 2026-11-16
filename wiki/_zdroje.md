@@ -6312,3 +6312,11 @@
 - **Datum záznamu:** 2026-11-10
 - **Zpracováno:** ano
 - **Poznámka:** 3 min. Merz hrozí blokací rozpočtu EU, ČR by platila 60–70 mld. Kč ročně na Ukrajinu. Teze o „zkorumpovaném kyjevském režimu“ a mafii se opakuje (jen zdroj).
+
+## Jindřich Rajchl — „Zkrocení štěkající Činčily“ (11. 11. 2026) {#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-11_Jindřich-Rajchl_Zkrocení-štěkající-Činčily.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1016701164799909>
+- **Datum záznamu:** 2026-11-11
+- **Zpracováno:** ano
+- **Poznámka:** 1,5 min, výstřih z TV debaty k Merzovu „vydírání“. Nové je srovnání s Macinkovou SMS a podpora Babiše, zbytek se opakuje (60 mld. ročně, korupce, mafie).
