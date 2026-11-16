@@ -129,6 +129,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **10. 11.** — Merzovo „brutální vydírání“ (blokace rozpočtu EU), ČR by platila 60–70 mld. Kč ročně na Ukrajinu; neustoupit „ani o milimetr“, blokace přiblíží rozpad „totalitní organizace“ → [suverenita-eu.md](../suverenita-eu.md#merz-vydirani-rajchl-10-11-2026) — [Merz a vydírání 10. 11. 2026](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
 - **11. 11.** — Merzův tlak „stokrát horší“ než Macinkova SMS Pavlovi, kterou opozice označila za vydírání; oceňuje pevný postoj Babiše → [suverenita-eu.md](../suverenita-eu.md#merz-vydirani-rajchl-10-11-2026) — [„Zkrocení štěkající Činčily“ 11. 11. 2026](../_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026)
 - **12. 11.** — 45 mld. eur jen na deficit ukrajinského rozpočtu na jeden rok, opozice „nechce zadlužovat děti“, ale ručila by za 60 mld. ročně — [„Ulovil Sokola“ 12. 11. 2026](../_zdroje.md#jindřich-rajchl--ulovil-sokola-12-11-2026)
+- **14. 11.** — opozice „servilní slaboši“ s „vlastizrádnou mentalitou“, dala by 60 mld. na ukrajinské důchody místo českých; „ani koruna“ — [Opozice a 60 miliard 14. 11. 2026](../_zdroje.md#jindřich-rajchl--opozice-60-miliard-ukrajinské-důchody-14-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -618,6 +619,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Petr Fiala | ❌ negativní | Kampelička ODS; ironicky přebírá jeho „nebudu jednat pod tlakem demonstrací“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
 | Friedrich Merz | ❌ negativní | „Brutální vydírání“ ČR blokací rozpočtu EU kvůli Ukrajině | 2026-11-10 | [Merz a vydírání 10. 11. 2026](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026) |
 | Andrej Babiš | ✅ pozitivní | „Pevná pozice“ proti Merzovu vydírání | 2026-11-11 | [„Zkrocení štěkající Činčily“ 11. 11. 2026](../_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026) |
+| Opozice (ODS, STAN, Piráti) | ❌ negativní | „Servilní slaboši“, „vlastizrádná mentalita“, dali by peníze Ukrajině místo Čechům | 2026-11-14 | [Opozice a 60 miliard 14. 11. 2026](../_zdroje.md#jindřich-rajchl--opozice-60-miliard-ukrajinské-důchody-14-11-2026) |
 
 ## Zpracované zdroje
 
@@ -778,3 +780,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
 - [„Zkrocení štěkající Činčily“ (11. 11. 2026)](../_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026)
 - [„Ulovil Sokola“ (12. 11. 2026)](../_zdroje.md#jindřich-rajchl--ulovil-sokola-12-11-2026)
+- [Opozice by raději poslala 60 miliard na ukrajinské důchody (14. 11. 2026)](../_zdroje.md#jindřich-rajchl--opozice-60-miliard-ukrajinské-důchody-14-11-2026)

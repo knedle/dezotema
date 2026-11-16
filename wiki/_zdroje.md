@@ -6328,3 +6328,11 @@
 - **Datum záznamu:** 2026-11-12
 - **Zpracováno:** ano
 - **Poznámka:** 1 min, výstřih z TV debaty (Papajanovský, Nachl) k Merzovu „vydírání“. Nově: 45 mld. eur na deficit ukrajinského rozpočtu na jediný rok. Jinak opakování.
+
+## Jindřich Rajchl — Opozice by raději poslala 60 miliard na ukrajinské důchody (14. 11. 2026) {#jindřich-rajchl--opozice-60-miliard-ukrajinské-důchody-14-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-14_Jindřich-Rajchl_Opozice-by-raději-poslala-60-miliard-korun-na-ukrajin.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/3091165764552748>
+- **Datum záznamu:** 2026-11-14
+- **Zpracováno:** ano
+- **Poznámka:** 2,5 min. Opozice jako „servilní slaboši“ s „vlastizrádnou mentalitou“, peníze na ukrajinské důchody místo českých. Hraniční výrazy bez dehumanizace a výzvy k trestu, proto nejsou ve stochastickém teroru.
