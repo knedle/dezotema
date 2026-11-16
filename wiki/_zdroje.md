@@ -6352,3 +6352,11 @@
 - **Datum záznamu:** 2026-11-09
 - **Zpracováno:** ano
 - **Poznámka:** 49 min, živé vysílání (částečně z auta). Macinka a „mužatky“, rusofobie a sport, příčiny války, „třetí světová“, zrušení ČT, Babišova vláda bez alternativy, spory na scéně. 1 predikce, 3 výroky stochastického teroru (Fiala, Rakušan, hraničně dárci „Dárku pro Putina“).
+
+## Jiří Černohorský — Facebook Live 14. 11. 2026 {#jiří-černohorský--facebook-live-14-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-14_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1749683132763324>
+- **Datum záznamu:** 2026-11-14
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 52 min, živé vysílání z auta. Rok 1989 jako podvod, ČT a demonstranti, porušené sliby a trest smrti za korupci, Pavel a ústavní žaloba, Grolich, spravedlnost bez peněz. Sovětská vlajka na profilovce je podle něj úcta rudoarmějcům, ne obdiv k Rusku. 6 výroků stochastického teroru (3 hraniční). Druhou část (od cca 37. minuty) zpracoval pomocný agent, klíčové citace ověřeny v přepisu.

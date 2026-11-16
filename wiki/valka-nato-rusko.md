@@ -1482,7 +1482,7 @@ K výzvě 50 států OSN (včetně ČR) k bezpodmínečnému příměří, ktero
 
 **9. 11.** — Černohorský opakuje, že Putin za válku „nemůže“: speciální operace měla podle něj „osmiletý“ důvod. Uvádí Majdan, Minské dohody (přiznání „té svině Merkelové“), referenda z let 1991 a 1994, v nichž podle něj východ Ukrajiny chtěl federalizaci, a krymské referendum, při němž byli ruští vojáci na Krymu podle smlouvy. Krym je podle něj reakcí na „koketování“ Ukrajiny s EU a NATO, USA by se v opačné situaci zachovaly stejně. Babiše vyzývá, ať nechá zveřejnit šestidílný dokument ČT o neonacismu na Ukrajině. O „bujícím neonacismu“ psala podle něj ještě v lednu 2022 i Aktuálně, Novinky, Lidovky či Hospodářské noviny. Jako aktuální doklad uvádí státní pohřeb veterána divize SS Galizien. Připomíná, že ho za podobné výroky v roce 2022 obvinil z popírání genocidy „vojenský komunistický prokurátor“ Igor Stříž, on ale věděl, co říká, „aby mě zavřít nemohli“. Zdůrazňuje, že válku nechce a nemá radost z „tří milionů“ mrtvých Ukrajinců.
 
-**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026), [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ---
 

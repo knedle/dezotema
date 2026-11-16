@@ -57,6 +57,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **6. 11.** — Čermák odsouzen „za předpoklad“, vinen je Zítko, trestní oznámení na Zítka a Hradila; kampelička 660 mil. a mlčení ČT; Pavel a Lichtenštejnové (→ [petr-pavel.md](../petr-pavel.md)); lobbisté a „milion na Kajmany“, Šebelová (→ [fara-neziskovky.md](../fara-neziskovky.md)); kritika vlády bez alternativy, SPD nic, Konečná „není zrada“; síla lidí (Istanbulská úmluva 2018) a morální kodex Společenství — [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 - **7. 11.** — „nemáte peníze, nemáte spravedlnost“ — žaloba na Ivu Rosickou, odpověď s pomocí AI — [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 - **9. 11.** — Macinka „pitomec“ v otázce Ruska, ženský hokej jako produkt „poženštělé“ doby; Babišova vláda není jako Fialova (jinak bankrot), jiná možnost nebyla; Juchelka neschopný, superdávka, ukrajinský personál v nemocnici; scéna „živí parazity“ (Zítko, Bernardy, Vrabel, Sládek), chce skončit → [politicky-system.md](../politicky-system.md) — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+- **14. 11.** — 1989 jako podvod Západu s KSČ a StB, rozdělení ČSSR proti „balkánskému scénáři“; porušené sliby, trest smrti za korupci „jako v Číně“; Grolich a „rozhodne ulice“; Pavel: ústavní žaloba, veto, Hungaroring; sovětská vlajka na profilu jako úcta rudoarmějcům → [politicky-system.md](../politicky-system.md#trest-smrti-korupce-cernohorsky-14-11-2026), [petr-pavel.md](../petr-pavel.md#pavel-ustavni-zaloba-cernohorsky-14-11-2026) — [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Solární dotace: ~600 mld. Kč = plýtvání, za to 4 jaderné bloky — [Volby a demokracie 15. 6. 2025](../_zdroje.md#jiří-černohorský--volby-a-demokracie-15-6-2025)
@@ -173,6 +174,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **24. 9.** — „Kde je ta proruská propaganda?"; mlčení o vraždě kněze; obhajoba Rajchla proti Strakatému — [Facebook Live 24. 9. 2026](../_zdroje.md#jiří-černohorský--facebook-live-24-9-2026)
 - **5. 10.** — Facebook záměrně přerušil vysílání s Vlasákovou; výhrůžné hovory od „Štítu demokracie" a „gangu Oganesjana" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
 - **9. 11.** — ČT zrušit i ze státního rozpočtu, „moloch s 3 000 parazity“, „Čiči na gauči“, ředitel 300 tis. + 12 mil. odměn → [media-propaganda.md](../media-propaganda.md#ct-zrusit-moloch-cernohorsky-9-11-2026) — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+- **14. 11.** — z 8,5 mld. jen asi 600 mil. na zpravodajství, „pokus“ s dobrovolnými poplatky, ČT „krev na rukou“ za covid, „koncesionářští paraziti“, studenti „polistopadus mamlus“, Nerudová a 140 tisíc exekucí → [media-propaganda.md](../media-propaganda.md#ct-zrusit-moloch-cernohorsky-9-11-2026) — [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - LGBT a queer gender zákonem zakázat; drag performace jako programování dítěte; podpora Orbánovy politiky — [Queer gender zákonem zakázat 10. 4. 2026](../_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
@@ -235,6 +237,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 
 ---
 - **9. 11.** — Fiala „rozstřískat mu tu hubu“; Rakušan „měl být v kriminále“, „v Číně se za korupci střílí“; hraničně dárci „Dárku pro Putina“ „skurvený kundy“ — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+- **14. 11.** — Rakušan „nechám popravit“, „máš být v kriminále“; Fialova vláda „rozkopat rypáky“; aktéři Dozimetru a kampeličky „kurvy, krysy… nechal bych je popravit“; hraničně „90 % do kriminálu“, ČT „krev na rukou“, Pavel a Pavlová — [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ## Zmíněné osoby
 
@@ -480,6 +483,16 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Aleš Juchelka | ❌ negativní | Neschopný ministr, okamžitě vyměnit | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026) |
 | Pavel Zítko, Bernardy, Ladislav Vrabel, Miroslav Sládek | ❌ negativní | „Parazité“ a „zmrdi“, které scéna živí a podporuje | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026) |
 | Tereza Vlasáková, Iva Rosická | ✅ pozitivní | Pomáhá jim proti „šikaně“ | 2026-11-09 | [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026) |
+| Vít Rakušan | ❌ negativní | „Nechám popravit, hajzla“, „máš být v kriminále“ | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Petr Pavel, Eva Pavlová | ❌ negativní | Nevrátil důchodovou reformu, „cestovka“, veto; Pavlová „do Lidlu k pokladně“ | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Miloš Zeman | ✅ pozitivní | „Diamantový člověk“ oproti Pavlovi | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Grolich (senátor) | ❌ negativní | „Rozhodne ulice“ jako výzva k násilí | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Danuše Nerudová | ❌ negativní | Hájí poplatky kvůli manželovým exekucím | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Milan Mazurek | ✅ pozitivní | „Totálně setřel“ Nerudovou v EP | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Oldřich Kaiser, Vyskočil, Vašut | ✅ pozitivní | Výjimky mezi herci, kritičtí k ČT | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Mikuláš Minář | ❌ negativní | „Zrzavý kripl“, zneužil Večerníčka | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Ondřej Kolář | ❌ negativní | Přejmenoval náměstí po Borisi Němcovovi | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Aleš Juchelka | ❌ negativní | Vyměnit za „člověka s empatií“ | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
 
 ---
 
@@ -556,3 +569,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 - [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 - [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+- [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)

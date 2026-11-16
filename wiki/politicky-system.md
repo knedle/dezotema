@@ -875,7 +875,11 @@ Demonstrace k 17. listopadu bere Rajchl „naprosto v klidu“, asi pojede na do
 
 > „Jak ze svátku, který v podstatě oslavoval pluralitu názorů a demokracii, si ti pravdoláskaři udělali svůj vítězný únor.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+**14. 11. — Černohorský** jde dál. „Rádoby sametovou revoluci“ označuje za podvod, který připravil Západ se „zkorumpovanými parchanty z KSČ a StB“, aby se rozkradl národní majetek vybudovaný dnešními seniory z trosek. Průmysl podle něj na konci války cíleně rozbombardovali Američané (Škodovka, generál Patton: „dobrá práce“). Rozdělení Československa podle něj „se bohužel muselo stát“, jinak byl naplánován „balkánský scénář“. Fialovu vládu považuje za nejzkorumpovanější „za celých 37 let“, horší než kupónová privatizace. ⚡ Na rozdíl od Rajchla, který pád režimu považuje za správný, chápe Černohorský celý listopad 1989 jako řízený podvod. Na svého dědu, který „opravdu věřil“ v socialismus a z KSČ odešel kvůli „zlodějům“, vzpomíná s uznáním.
+
+> „Ta rádoby sametová revoluce, tady tenhle ten podvod, který připravoval samozřejmě Západ se zkorumpovanýma parchantama z KSČ a samozřejmě StB.“ — Jiří Černohorský
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026), [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ---
 
@@ -886,6 +890,26 @@ Slovenského europoslance Milana Mazurka podle Rajchla nepustil do pražského h
 > „A ti lidé měli být naházeni do antonu a měli být odvezeni pryč. A říkám to úplně jasně, nekompromisně.“ — Jindřich Rajchl
 
 **Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+
+---
+
+### Porušené sliby a ústava — Fialova vláda „rozkradla bilion dvě stě miliard“; trest smrti za korupci „jako v Číně“ (Černohorský, 14. 11. 2026) {#trest-smrti-korupce-cernohorsky-14-11-2026}
+
+Černohorský předčítá slib poslance, člena vlády, prezidenta a senátora i preambuli Ústavy a tvrdí, že je Fiala, Rakušan, Černochová a další porušili. Za čtyři roky podle něj „rozkradli bilion dvě stě miliard“, zvýšili si platy, okradli důchodce a peníze poslali na zbraně. S Ústavou si podle něj „vytírají anál“. Požaduje obnovit trest smrti za vlastizradu, velezradu a „státní korupci, jako v Číně“ pro všechny, kdo se podíleli na Dozimetru, kampeličce, rozkrádání zbrojních zakázek a bitcoinové kauze. Alternativou by byly elektronické obojky a nucené práce. Trest má viset „jako Damoklův meč“. Současná vláda podle něj „90 % těch hajzlů“ do vězení nepošle, protože sama „má špinavé ruce“. Konkrétní výroky viz [Stochastický teror](stochasticky-teror.md).
+
+> „Já jsem jednoznačně pro obnovu trestu smrti za vlastizradu, velezradu a za korupci, za státní korupci, jako v Číně.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
+
+---
+
+### Senátor Grolich a „rozhodne ulice“ jako výzva k násilí — proč byli odsouzeni Čermák a Tušl, a on ne? (Černohorský, 14. 11. 2026) {#grolich-ulice-cernohorsky-14-11-2026}
+
+Nově zvoleného senátora Grolicha (podle Černohorského 5,6 milionu ročně, tedy „466 666 Kč měsíčně hrubého z našich daní“) Černohorský uráží a jeho televizní výrok, že o poplatcích „rozhodne ulice“, označuje za šíření nenávisti, výzvu k násilí a „znaky terorismu“. Připomíná, že Tomáš Čermák a Tušl byli odsouzeni (byl u soudu), a ptá se, zda je Grolich jako senátor „nad právem“. Fiala a Rakušan prý za demonstrací proti nim tvrdili, že žádnému nátlaku nepodlehnou, a teď opoziční politici dělají opak. Vlastenecká scéna podle něj nikdy nenesla transparenty urážející Fialu, jaké se objevují dnes. Kritiku nočního hlasování o poplatcích (ve 4:36) považuje za účelovou, protože Fialova vláda hlasovala ve 3–5 ráno běžně.
+
+> „Pan Grolich, protože je senátor, tak je nad člověk? On je nad právem?“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ---
 
@@ -1825,7 +1849,9 @@ K vládou schválenému návrhu ústavního zákona o celostátním referendu (3
 
 > „Jakmile nemáte peníze, tak se spravedlnosti nedovoláte.“ — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
+**14. 11.** — Černohorský opakuje, že bez peněz na právníka „nemáte právo“, a vybírá na právníky pro Ivu Rosickou a Terezu Vlasákovou. Těžce nemocní podle něj přicházejí o invalidní důchod 2. a 3. stupně a na příspěvky čekají měsíce. Ministra Juchelku by vyměnil za „člověka s empatií“. Exekutory označuje za „mafii“.
+
+**Zdroje:** [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026), [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ---
 

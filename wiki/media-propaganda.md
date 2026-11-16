@@ -827,6 +827,10 @@ Zítko tvrdí, že ČT nedodržuje zákon a ve zpravodajství „lže“; za cov
 
 > „Nevidím jedinej důvod, proč, kurva, živit moloch, postkomunistický moloch s třema tisícama parazitů.“ — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+**14. 11.** — Černohorský tvrdí, že z 8,5 miliardy jde na zpravodajství a debaty jen asi 550–600 milionů a o zbytku se „neví kam“. Nova a Prima podle něj fungují se ziskem bez poplatků, takže ČT pokřivuje trh. Babišovi navrhuje „pokus“ s dobrovolnými poplatky: „ani miliardu nevyberou, to vám garantuju“. Opakuje „Čiči na gauči“ a údajné „lajny koksu“ ve studiu (s dovětkem, že tomu „pořád nemůže věřit“) a tvrdí, že moderátoři nechávají opozici „vyšgrindat“, kdežto koaličním politikům skáčou do řeči. Zaměstnanci ČT mají podle něj „na rukou krev“ lidí, kteří se kvůli strašení za covidu nechali opakovaně očkovat nebo se báli jít do nemocnice. Herce hájící ČT nazývá „koncesionářskými parazity“, výjimkou jsou Oldřich Kaiser, Vyskočil a Vašut. Studenty s čepicemi Večerníčka, kteří poplatky neplatí a tvrdí, že 205 Kč „unesou“, označuje za „polistopadus mamlus debilus“ (podle něj 70 % mladých). Pro samoživitelku jde přitom o „dva víkendové obědy“. Proti okradení důchodců, inflaci a nájmům za Fialy se podle něj nedemonstrovalo. Demonstranti nadávají na socialismus, ale „90 % z nich bydlí v králíkárnách“. ČT a ČRo podle něj 15 let protežují ODS, Piráty, TOP 09 a KDU-ČSL a očerňují SPD. Nerudová hájí poplatky, protože její manžel má na starosti „140 tisíc exekučních řízení“. Vulgární výroky o zaměstnancích ČT viz [Stochastický teror](stochasticky-teror.md).
+
+> „Já se vsadím, že 90 % z nich bydlí v těch králíkárnách.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026), [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ---

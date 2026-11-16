@@ -672,3 +672,13 @@ Rajchl tvrdí, že Pavel v projevu 28. října „zmotal“ Den české státnos
 **Zdroje:** [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 
 ---
+
+### Pavel nevrátil důchodovou reformu, „cestovka“ a Hungaroring, Lichtenštejnové, souhlas se zrušením veta — ústavní žaloba (Černohorský, 14. 11. 2026) {#pavel-ustavni-zaloba-cernohorsky-14-11-2026}
+
+Černohorský vyčítá Pavlovi, že důchodovou reformu nevrátil Ústavnímu soudu. Miloš Zeman, který podle něj dával plat Klokánku, byl proti němu „diamantový člověk“. Pavla nazývá „cestovkou“ a ptá se, kdo mu platil akreditaci na okruhu Hungaroring. Jeho žádost podle zákona 106/1999 Sb. podle něj zůstala bez odpovědi. Evě Pavlové vyčítá, že si „vyžebrala“ odpočinek v Karibiku, a uráží ji. Dále tvrdí, že Pavel jednal s Lichtenštejny o fondu 35 miliard, dal záštitu sudetoněmeckým akcím v Brně, „daruje plyn“ Německu a souhlasil by se zrušením práva veta ČR v zahraniční politice, takže by o ČR „mohli rozhodovat bývalí nácci jako Merz“. Chystá proti Pavlovi ústavní žalobu. Vulgární výroky viz [Stochastický teror](stochasticky-teror.md).
+
+> „Bez problému by nechal zrušit právo veta pro Českou republiku v zahraničních otázkách. […] Takže by vlastně o nás mohli rozhodovat bývalí nácci jako Merz.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
+
+---
