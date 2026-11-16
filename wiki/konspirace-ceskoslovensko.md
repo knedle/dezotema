@@ -356,7 +356,9 @@ Zítko zesměšňuje představu, že by ČR mohla z EU vystoupit „protestní n
 
 > „Stejně jako za druhé světové války, kdy jsme byli 6 let rozdělený, se zase Československo podle platného zákona číslo 11 z roku 1918 zase spojí.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+**10. 11.** — Zítko označuje 17. listopad 1989 za puč StB a KGB „za pomoci zahraničí“ a rozdělení ČSFR (Klaus, Mečiar) za nepromlčitelnou velezradu. Zákon 542/1992 je podle něj neplatný, protože pod ním chybí podpis prezidenta. Opakuje, že „z 99,9% pravděpodobností se opět obnoví Československo“, a „mírová smlouva směřující k ukončení následků druhé světové války se blíží“. Spojení ČSR podle něj nebude problém, protože protektorát a Slovenský stát se po válce také znovu spojily. Americký celostátní test nouzového varování 17. 11. může být podle něj test, nebo „na tvrdo“ („důvěřujte plánu“).
+
+**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026), [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 
 ---
 

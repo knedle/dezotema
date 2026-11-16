@@ -1340,6 +1340,10 @@ Zítko tvrdí, že chtěl jako první dovézt vakcíny ze Švýcarska jen pro Ba
 
 > „Všichni aktéři musí skončit před vojenským tribunálem a zodpovídat se ze zločinů genocidy, masových vražd a sterilizace obyvatelstva.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+**10. 11.** — Vakcíny jsou podle Zítka „biologická zbraň“ a Pfizer prý utajil 1 223 mrtvých (podle něj součást spisu u soudu v Chomutově). Šlo o „depopulaci, genocidu národů, sterilizaci lidstva“. Covid podle něj „nechodil“ do Bílého domu, Kongresu, CDC, FDA, WHO, NIH, Pfizeru ani Moderny, protože se tam neočkovalo a elity znaly účinky. Ve vakcínách má být luciferáza, která „světýlkuje“. Čte 25 „signálů“ nežádoucích účinků z dat FDA (zpráva senátora Johnsona) a závěr, že „lhali“. Bourlu označuje za „veterináře“, který „to začal píchat do lidí“. Vyzývá lidi, aby po ČT žádali vrácení poplatků od 12. 3. 2020 a odškodnění (ČT podle něj dostala 4,2 mil. USD). O sobě říká, že kdysi chtěl jako první „zabodat Babiše, ministry, jeho vládu, celou, jejich děti, jejich manželky“, a covid pro něj skončí, až budou „všichni aktéři, propagátoři“ postaveni před soud.
+
+> „Nikdy tu nešlo o zdraví, šlo o to, kdo měl moct říct ne.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026), [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 
 ---

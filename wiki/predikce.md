@@ -149,7 +149,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** listopad 2026 (EBS); „co nevidět“ (kolaps, mírový plán)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+**10. 11.** — Zítko dodává, že americký test nouzového varování 17. 11. může „přejít do ostřejší fáze“, a „mírová smlouva se blíží“.
+**Zdroj:** [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026), [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 
 ---
 

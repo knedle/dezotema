@@ -6376,3 +6376,11 @@
 - **Datum záznamu:** 2026-11-09, cca 21:11 (soubor datován 10. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 11 min, „9/11 Zprávy k novoluní 9:11“. Vlastní řeč tvoří asi 25–30 %, zbytek je předčítání cizích příspěvků (Lion White, Sofia Esmeralda, Telegram, článek o SWIFT/QFS) a promo (Essence, Bewit). Zpracováno 12 témat, 1 predikce, 3 výroky stochastického teroru (Tedros, Babiš a vláda, von der Leyenová). Zpracováno podle shrnutí pomocného agenta, citace stochastického teroru ověřeny v přepisu.
+
+## Československo TV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026) {#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-11_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1399496055298756>
+- **Datum záznamu:** 2026-11-10, cca 21:11 (soubor datován 11. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 6 min. Vlastní řeč tvoří asi 55–60 %, zbytek je předčítání (Monika Anderson, Ivo Špírek, Cheryl Manning Hudson, McCullough Foundation, Laurence Wilkerson, Sofia Esmeralda). Zpracováno 10 témat, bez nové predikce (jen doplnění k 9. 11.). Stochastický teror nezjištěn, hraniční jsou „chtěl jsem zabodat Babiše… jejich děti“ (minulý čas, o očkování) a von der Leyenová „potomek fašounů a nácků“ bez výzvy. Zpracováno podle shrnutí pomocného agenta.

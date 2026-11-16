@@ -62,6 +62,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **28. 10.** — vláda a poslanci „masoví vrazi“, Havlíček „oni by nás zabili“, španělská chřipka — [ČsTV2 — Živě 28. 10. 2026 (výročí)](../_zdroje.md#československo-tv2--živě-peterková-108-výročí-čsr-28-10-2026)
 - **30. 10.** — Pfizer platil FDA, Fauci „přiznal depopulaci“, smrt Čechmánka, porodnost −30 % — [ČsTV2 — Živě 30. 10. 2026](../_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 - **9. 11.** — SV40, „turbo rakoviny“, „biorobot“, porodnost o 30 % nižší; Tedros „úchyl… před vojenský tribunál“, Babiš, vláda a Vojtěch před vojenský tribunál, pro von der Leyenovou „trest výjimečný“ (→ [stochastický teror](../stochasticky-teror.md)) → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+- **10. 11.** — „biologická zbraň“, 1 223 mrtvých utajených Pfizerem, luciferáza, elity se neočkovaly, 25 signálů z dat FDA, vrácení poplatků za ČT od 12. 3. 2020 → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — „Klíč 1789“ 10. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -230,6 +231,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **7. 11.** — „80–90 % předpovědí se splnilo“; Titanic/Olympic, hologramy 9/11, Izrael ovládal Ameriku, JFK Jr., „20 % operace“, krach trhů (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 - **8. 11.** — „Stephen Miller 2.0“ nastupuje 9. 11. místo Susie Wiles, EBS a „9. 11. = 11. 9.“, Vance jako zrádce („hrál ho Paul Walker“), deep state „popraven“, „kristovská DNA“, banky jako domino; obnovu ČSR rozhodnou vítězné mocnosti, Dubček „odstraněn“ tajnými službami → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [predikce.md](../predikce.md) — [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 - **9. 11.** — Miller nastoupil „úplnou náhodou“ 9. 11., 900 celebrit v ochraně svědků, SWIFT vypnut a přechod na QFS, EBS „teď v listopadu“, USAID v ČR; Peking „na 99 %“ za obnovu ČSR podle zákona 11/1918, Zakarpatí, mírový plán „co nevidět“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [predikce.md](../predikce.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+- **10. 11.** — „klíč 1789“ a Trump jako „nejvyšší pošťák“, Q jako „test vědomí“, „volby vojeb“ 20 let i v ČR, 45 dní „vzrušujících“, kartičky QFS, JFK „starter“ a Trump „finisher“, dvojníci Putina a Bidena; 17. 11. 1989 jako puč, 542/1992 bez podpisu, „99,9 %“, mírová smlouva „se blíží“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [ČsTV2 — „Klíč 1789“ 10. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -503,6 +505,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Zdenka Křešťáková | ❌ negativní | „Čarodějnice“, bránila financování jeho kampaně | 2026-11-09 | [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026) |
 | Jiří Černohorský | ❌ negativní | Zesměšňován jako uchazeč o prezidenta ČSR, šíří provokace | 2026-11-09 | [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026) |
 | Jindřich Rajchl | ○ neutrální | Připomenuto jeho desatero s vystoupením z WHO | 2026-11-09 | [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026) |
+| Albert Bourla | ❌ negativní | „Veterinář“, který „to začal píchat do lidí“ | 2026-11-10 | [ČsTV2 — „Klíč 1789“ 10. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026) |
+| Václav Klaus, Vladimír Mečiar | ❌ negativní | Rozdělení ČSFR jako velezrada | 2026-11-10 | [ČsTV2 — „Klíč 1789“ 10. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026) |
+| Robert Fico | ○ neutrální | Podle něj přiznal upravené referendum o vstupu do EU | 2026-11-10 | [ČsTV2 — „Klíč 1789“ 10. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026) |
 
 ---
 
@@ -639,3 +644,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 - [ČsTV2 — Živě: „Nedělní chvilka poezie“ (8. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 - [ČsTV2 — Živě: „Zprávy k novoluní“ (9. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+- [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
