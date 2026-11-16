@@ -6416,3 +6416,11 @@
 - **Datum záznamu:** 2026-11-14, 11:11 (soubor datován 15. 11., dopolední ze dvou vysílání toho dne)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 16 min, „14/11 Letadla a vlaky v USA 11:11“. Vlastní řeč tvoří asi 55–60 %, dále předčítání postů (Hegseth/Miller, RFK Jr., výpadky) a asi 15 minut reklamy na Bewit. Zpracováno 10 témat, predikce jen jako doplnění k 13. 11. Stochastický teror nezjištěn, „one-way ticket čeká i na ně“ míří na nepojmenované politiky. Zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Dvojníci Deep State“ — noční vysílání (14. 11. 2026, 23:11) {#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-15_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1446003147080651>
+- **Datum záznamu:** 2026-11-14, 23:11 (soubor datován 15. 11., noční ze dvou vysílání toho dne)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 33 min, „14/11 Dvojníci Deep State noční 11:11“. Vlastní komentář tvoří asi 50–55 %, zbytek jsou videa dvojníků, sestřihy covidových výroků politiků, video Romana Kovaříka a předčítaný údajný „Trumpův projev“ (text Q / Jiřího Křížka). Zpracováno 10 témat, predikce jako doplnění k 13. 11. Stochastický teror: Válek („zmrdeček… před vojenským tribunálem“, ověřeno v přepisu jako Zítkův komentář). Hraniční „zrůda“ (Vojtěch, Vašáková) a urážky Obamových nezapsány. Zpracováno podle shrnutí pomocného agenta.
