@@ -986,3 +986,13 @@ V televizní debatě Rajchl tvrdí, že německý kancléř Friedrich Merz, býv
 **Zdroje:** [Rajchl — „To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026), [Rajchl — O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ---
+
+### Merzovo „brutální vydírání“: blokace rozpočtu EU, aby ČR platila Ukrajině 60–70 mld. Kč ročně — vláda nesmí ustoupit „ani o milimetr“ (Rajchl, 10. 11. 2026) {#merz-vydirani-rajchl-10-11-2026}
+
+Rajchl tvrdí, že německý kancléř Friedrich Merz „rozjel brutální vydírací taktiku“ vůči ČR, Maďarsku, Slovensku a Bulharsku. Tyto čtyři země se podle něj odmítly podílet na dalším „házení miliard eur do černé díry jménem Ukrajina“. Merz jim prý pohrozil, že zablokuje jednání o rozpočtu EU, a tím zmrazí všechny evropské peníze, které mají do těchto zemí jít. Rajchl připomíná, že dlouho varoval: tvrzení, že se závazky Ukrajiny zaplatí ze zmrazených ruských aktiv, byl podle něj „absolutní nesmysl“ a vše nakonec dopadne na členské státy. Na ČR by připadly necelé 3 miliardy eur, tedy 60–70 miliard korun, a to každý rok. Situace na Ukrajině se podle něj „výhledově v žádném případě“ nezlepší a platit by se muselo mnoho let. ČR se podle něj nezavázala financovat „zkorumpovaný kyjevský režim“, jehož tajné služby prý spolupracují s mafií okrádající české důchodce (viz [migrace.md](migrace.md)). Vláda proto podle něj nesmí ustoupit „ani o píď, ani o milimetr“. Pokud Merz rozpočet zablokuje, „nechť tak učiní“, protože to podle Rajchla přiblíží rozpad „totalitní organizace, která dávno vykolejila ze svého původního záměru“.
+
+> „A pokud chce pan Merz zablokovat přijetí toho rozpočtu Evropské unie, nechť tak učiní. Protože možná o to blíže budeme rozpadu téhleté totalitní organizace.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
+
+---

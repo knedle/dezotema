@@ -115,11 +115,13 @@ Rajchl na tiskové konferenci cituje studii Institutu pro kriminologii, který o
 
 Rajchl kontrastuje tyto závěry s tvrzením exministra Vít Rakušana, že z Ukrainy nepřichází „excesivní kriminalita" — označuje ho za prokázanou lež.
 
-**Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+**Zdroje:** [Rajchl — TK PRO: migrace, kriminalita, Bitcoin, 5. 5. 2026](_zdroje.md#jindřich-rajchl--tisková-konference-pro-migrace-kriminalita-bitcoin-5-5-2026), [Rajchl — FB Live 5. 7. 2026](_zdroje.md#jindřich-rajchl--fb-live-5-7-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026), [Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
 
 **6. 9.** — Rajchl rozšiřuje téma podvodných telefonátů o konkrétní odhad: podle nezávislého institutu se sídlem v Ženevě ukrajinská call centra připraví evropské a americké důchodce o miliardu dolarů měsíčně (typicky falešné investice do kryptoměn). Kritizuje, že se čeští politici v Poslanecké sněmovně věnují spíš „potenciálním ruským hybridním hrozbám" než tomuto reálnému a vyčíslitelnému okrádání seniorů, a tvrdí, že ukrajinské orgány činné v trestním řízení tyto podvody vědomě neřeší, protože z nich samy profitují — na rozdíl od české policie a státního zastupitelství, kterým ale bez součinnosti ukrajinské strany chybí možnost pachatele zadržet nebo zajistit prostředky. Navrhuje, aby ČR vetovala jakékoli návrhy ve prospěch Ukrajiny, dokud Kyjev tuto trestnou činnost nezačne řešit.
 
 **8. 11.** — Rajchl tvrdí, že ukrajinská tajná služba přebírá informace od rakouské tajné služby a předává je „vlastní mafii“. Ta pak přes podvodná call centra okrádá Rakušany, Čechy, Slováky, Američany i Němce, takže se z českých daní podle něj nepřímo financuje okrádání českých důchodců. Zelenskyj podle něj pomoc „rozkrádá“, EU Ukrajině půjčila 90 miliard a ta teď chce dalších 70. Ukrajinu nazývá „zločinným, kriminálním režimem“ (zmiňuje i odhalený dům, kde se mučili vlastní občané). Kritikům startu ruských hokejistů vyčítá, že nekřičí, že Ukrajině „už nedáme ani korunu“.
+
+**10. 11.** — Tezi opakuje jako argument proti příspěvkům na Ukrajinu, které podle něj vynucuje Merz (viz [suverenita-eu.md](suverenita-eu.md#merz-vydirani-rajchl-10-11-2026)).
 
 ---
 

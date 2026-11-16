@@ -6304,3 +6304,11 @@
 - **Datum záznamu:** 2026-11-08
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 6 min, „O vylhaném světě z Kavčích hor a politických neziskovkách coby vysoce chráněnému druhu“. Zpracováno všech 15 témat. Citované výhrůžky a komentáře (Hedija, SMS, komentáře k Ficovi) nejsou Rajchlovy výroky, proto nejsou ve stochastickém teroru. Hraniční „zločinný, kriminální režim“ (Ukrajina) a „pokrytci, farizejové… krev na rukou“ nesplňují kritérium dehumanizace ani výzvy k trestu.
+
+## Jindřich Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026) {#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-10_Jindřich-Rajchl_Česká-vláda-nesmí-za-žádnou-cenu-ustoupit-brutálnímu-.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1675037904152770>
+- **Datum záznamu:** 2026-11-10
+- **Zpracováno:** ano
+- **Poznámka:** 3 min. Merz hrozí blokací rozpočtu EU, ČR by platila 60–70 mld. Kč ročně na Ukrajinu. Teze o „zkorumpovaném kyjevském režimu“ a mafii se opakuje (jen zdroj).

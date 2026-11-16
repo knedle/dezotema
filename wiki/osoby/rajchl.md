@@ -126,6 +126,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **4. 11.** — Merz z BlackRocku plní „zadání“; „tříocasá příšera“ migrace, Green Dealu a proválečného fanatismu — [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
 - **5. 11.** — Trump „nastavil Evropě zrcadlo“, nepřítel „v Bruselu“ (opakuje „příšeru“) — [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
 - **8. 11.** — Kaczyński: zrušit Evropskou komisi, nebo vystoupit z EU; nejdřív pokus o změnu s Polskem a Slovenskem → [suverenita-eu.md](../suverenita-eu.md#triocasa-prisera-rajchl-4-11-2026) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+- **10. 11.** — Merzovo „brutální vydírání“ (blokace rozpočtu EU), ČR by platila 60–70 mld. Kč ročně na Ukrajinu; neustoupit „ani o milimetr“, blokace přiblíží rozpad „totalitní organizace“ → [suverenita-eu.md](../suverenita-eu.md#merz-vydirani-rajchl-10-11-2026) — [Merz a vydírání 10. 11. 2026](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -160,6 +161,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **8. 10.** — Ukrajinka vylákala 750 tis. Kč na dávkách, „špička ledovce“ — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 - **18. 10.** — „Francie hoří“: reálná invaze, zvážit armádu, remigrace, odchod Macrona a von der Leyenové; Mladá Boleslav 63 % lidí se necítí bezpečně, „stockholmský syndrom“ voličů pětikoalice; kvóty z Filipín/Indonésie tlačí mzdy, agentury „vyděračské gangy“, zrušit dávky → [migrace.md](../migrace.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
 - **8. 11.** — ukrajinská tajná služba předává mafii informace pro podvodná call centra; Ukrajina „zločinný, kriminální režim“, „ani korunu“ → [migrace.md](../migrace.md) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+- **10. 11.** — „zkorumpovaný kyjevský režim“, tajné služby napojené na mafii (opakuje) — [Merz a vydírání 10. 11. 2026](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -612,6 +614,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Natálie Vachatová | ✅ pozitivní | „Nesmírně inteligentní, schopná“; oběť lynče (Havel, Bartošek) | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
 | Danuše Nerudová | ❌ negativní | Označila je za „proruskou sebranku“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
 | Petr Fiala | ❌ negativní | Kampelička ODS; ironicky přebírá jeho „nebudu jednat pod tlakem demonstrací“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Friedrich Merz | ❌ negativní | „Brutální vydírání“ ČR blokací rozpočtu EU kvůli Ukrajině | 2026-11-10 | [Merz a vydírání 10. 11. 2026](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026) |
 
 ## Zpracované zdroje
 
@@ -769,3 +772,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [Rozhovor s ČT o příspěvcích ke Stárkové (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)
 - [„Tohle je nejvíc!“: průzkum o poplatcích (6. 11. 2026)](../_zdroje.md#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026)
 - [Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+- [Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](../_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026)
