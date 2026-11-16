@@ -823,7 +823,9 @@ Zítko tvrdí, že ČT nedodržuje zákon a ve zpravodajství „lže“; za cov
 
 **8. 11.** — ČT podle Zítka „v žádném případě“ neposkytuje vyvážené pravdivé informace. Od 12. 3. 2020 má podle něj platit odškodnění poškozeným očkováním.
 
-**Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
+**13. 11.** — ČT podle Zítka dostala „88 milionů Kč“ z USAID, proto mají lidé nárok na vrácení poplatků od 12. 3. 2020. S odkazem na Johna Stockwella tvrdí, že CIA platila 400 novinářů.
+
+**Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026), [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 
 ---
 

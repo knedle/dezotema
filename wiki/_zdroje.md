@@ -6400,3 +6400,11 @@
 - **Datum záznamu:** 2026-11-12, 11:11 (soubor datován 13. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 2 h 1 min, „12/11 Čermákiáda: Zvonec a konec 11:11“. Celé je o kauze Čermák, vlastní řeč tvoří asi 75 %, zbytek je čtení textu TV Šalingrad a přehrávání záznamů (Turkův telefonát s matkou, Seznam Zprávy). Zpracováno 9 témat (souhrnně do kauzy Čermák), covidové téma se opakuje (jen zdroj). Predikce ani stochastický teror nejsou. Zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026) {#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-14_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1132527959740493>
+- **Datum záznamu:** 2026-11-13, 11:11 (soubor datován 14. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 57 min, „13/11 Šťastný pátek třináctého 11:11“. Vlastní řeč tvoří asi 70–75 %, zbytek je předčítání (Cvalín, Hambálková, World Report, Bossy, Weidel, Hulscher, Stockwell, Q-phone/TIR 4B) a asi čtvrthodinová reklama na Bewit. Zpracováno 10 témat a 1 nová predikce. Stochastický teror nezapsán, hraniční „banda gaunerů a spolupachatelů vražd“ (Prymula, Flegr, Kubek, Hořejší) je bez výzvy. Zpracováno podle shrnutí pomocného agenta.

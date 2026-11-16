@@ -141,6 +141,18 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Zdroj:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ---
+### Pavel Zítko — do „maximálně 35 dní“ od 13. 11. budou zločinci viditelně potrestáni, pak dočasné vojenské vlády a do 120 dní československé volby; od 1. 12. vše přes Q-phone (13. 11. 2026)
+
+**Předpověď:** Nejpozději do 35 dní od 13. 11. 2026 (tj. zhruba do 18. 12.) musí být „zločinci viditelným způsobem vzati ke spravedlnosti“, možná doprovázeno „pádem letadla s Trumpem, simulovaným atentátem nebo Blue Beam“. Následovat mají dočasné vojenské vlády bez Babiše, Fialy a Rakušana a do 120 dní „regulérní“ československé volby. Od 1. 12. má vše fungovat přes „Q-phone“.
+
+> „Okno je ode dneška maximálně 35 dnů otevřený, kdy musí být zločinci viditelným způsobem vzati ku spravedlnosti.“ — Pavel Zítko
+
+**Horizont:** do cca 18. 12. 2026 (35 dní); 1. 12. 2026 (Q-phone); +120 dní (volby)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
+
+---
+
 ### Pavel Zítko — EBS a karanténa 3–33 dní „brzo“, možná 17. 11.; QFS oficiálně 22. 11. (11. 11. 2026)
 
 **Předpověď:** EBS se „může aktivovat brzo“, podle některých zdrojů 17. 11. k výročí „puče StB a KGB“. Následovat má karanténa na 3–33 dní, během níž se přesune globální bohatství. QFS bude „možná“ oficiálně zapnut 22. 11. 2026.
@@ -213,7 +225,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Horizont:** zhruba do poloviny prosince 2026 (stíhání); 14. 2. 2027 (Super Bowl)
 **Stav:** 🕐 Čeká na vyhodnocení
 **11. 11.** — K Super Bowlu 14. 2. 2027 Zítko opakuje: „věřím, že v té show budou už ti, kteří měli být údajně mrtví.“ Nově tvrdí, že Stephen Miller už „jmenoval osoby“ pro vojenský soud za zradu.
-**Zdroj:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026), [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
+**13. 11.** — Zítko okno zkracuje na „maximálně 35 dní“ od 13. 11., viz predikce z 13. 11.
+**Zdroj:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026), [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 
 ---
 

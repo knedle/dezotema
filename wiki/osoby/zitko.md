@@ -64,6 +64,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **9. 11.** — SV40, „turbo rakoviny“, „biorobot“, porodnost o 30 % nižší; Tedros „úchyl… před vojenský tribunál“, Babiš, vláda a Vojtěch před vojenský tribunál, pro von der Leyenovou „trest výjimečný“ (→ [stochastický teror](../stochasticky-teror.md)) → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 - **10. 11.** — „biologická zbraň“, 1 223 mrtvých utajených Pfizerem, luciferáza, elity se neočkovaly, 25 signálů z dat FDA, vrácení poplatků za ČT od 12. 3. 2020 → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — „Klíč 1789“ 10. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 - **11. 11.** — úmrtí kojence po očkování jako „zabití dítěte vakcínou“, farmaprůmysl drží seniory na lécích → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Svatomartinské 11. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
+- **13. 11.** — Pfizer o 40 % smrtelnější než Moderna, „přes 100 milionů zabitých“, viry neexistují, „long covid“ jako vedlejší účinky; „banda gaunerů“ Prymula, Flegr, Kubek, Hořejší → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -235,6 +236,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **9. 11.** — Miller nastoupil „úplnou náhodou“ 9. 11., 900 celebrit v ochraně svědků, SWIFT vypnut a přechod na QFS, EBS „teď v listopadu“, USAID v ČR; Peking „na 99 %“ za obnovu ČSR podle zákona 11/1918, Zakarpatí, mírový plán „co nevidět“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [predikce.md](../predikce.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 - **10. 11.** — „klíč 1789“ a Trump jako „nejvyšší pošťák“, Q jako „test vědomí“, „volby vojeb“ 20 let i v ČR, 45 dní „vzrušujících“, kartičky QFS, JFK „starter“ a Trump „finisher“, dvojníci Putina a Bidena; 17. 11. 1989 jako puč, 542/1992 bez podpisu, „99,9 %“, mírová smlouva „se blíží“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [ČsTV2 — „Klíč 1789“ 10. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 - **11. 11.** — 17 bodů Ezry Cohena: „mrtvé“ celebrity na Super Bowlu 2027, 700 tisíc obžalob, NESARA a MED-BEDS, Miller jmenoval osoby pro vojenský soud, Obama „popraven“, EBS možná 17. 11. a karanténa 3–33 dní, QFS 22. 11.; ČSR: reparace 29 bilionů, podílové listy, Trumpovy děti „poloviční Čechoslováci“; 5G jako „digitální koncentrák“, Kellner možná v ochraně svědků → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [digitalni-kontrola.md](../digitalni-kontrola.md#5g-koncentrak-zitko-11-11-2026), [predikce.md](../predikce.md) — [ČsTV2 — Svatomartinské 11. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
+- **13. 11.** — SS United States a „konec Fedu“, Titanic a Olympic, 11. září (Bush, Rumsfeld, Cheney), McCartney a Biden jako dvojníci, Q-phone od 1. 12., okno „maximálně 35 dní“ a vojenské vlády; Putin a „návrat před rok 1997“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [predikce.md](../predikce.md) — [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -265,6 +267,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 ---
 - **8. 11.** — falešné profily „s ukradenou identitou“, „sekání“ vysílání ze „Smíchova“; ČT neinformuje vyváženě → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 - **9. 11.** — 6. 10. zrušeny všechny jeho kanály, klony jako „krádež identity“ → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+- **13. 11.** — ČT dostala 88 mil. Kč z USAID, CIA platila 400 novinářů → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 
 ## Zmíněné osoby
 
@@ -518,6 +521,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Renata Bernardy | ❌ negativní | Lže a manipuluje, Čermáka nikdy neviděla, iniciovala oznámení pro stalking | 2026-11-12 | [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026) |
 | Matka Tomáše Čermáka | ❌ negativní | „Lhářka“, Čermák a otčím ji „použili“ | 2026-11-12 | [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026) |
 | Martin Turek | ○ neutrální | Zveřejnil telefonát s matkou | 2026-11-12 | [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026) |
+| Roman Prymula, Jaroslav Flegr, Milan Kubek, Václav Hořejší | ❌ negativní | „Banda gaunerů a spolupachatelů vražd“ | 2026-11-13 | [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026) |
+| Paul McCartney | ○ neutrální | Údajně zemřel 1966 a nahradil ho dvojník | 2026-11-13 | [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026) |
+| George W. Bush, Donald Rumsfeld, Dick Cheney | ❌ negativní | Organizátoři 11. září | 2026-11-13 | [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026) |
 
 ---
 
@@ -657,3 +663,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 - [ČsTV2 — Živě: Svatomartinské vysílání (11. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
 - [ČsTV2 — Živě: „Čermákiáda: Zvonec a konec“ (12. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026)
+- [ČsTV2 — Živě: „Šťastný pátek třináctého“ (13. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
