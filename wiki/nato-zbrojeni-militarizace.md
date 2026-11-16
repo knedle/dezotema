@@ -1038,6 +1038,10 @@ K jednání ministrů financí EU s Markem Ruttem o společných nákupech zbran
 
 > „Mně připadá, že jsou to zločinci a že by jako zločinci měli být souzeni.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+**13. 11.** — K výpadkům Microsoftu, propadu stříbra a kryptoměn a k německému rozpočtu na rok 2027 (dluh 4,64 % HDP proti 4,67 % v ČR) Vrabel říká, že „jsme ve stádiu drancování“. Ceny papírového zlata jsou podle něj uměle stlačovány a dluhy, které dělají Babiš i Merz, se zaplatí majetkem lidí jako v Řecku (omezení výběrů, bail-in), každý Čech bude v roce 2027 dlužit 36 tisíc korun. Akcie a fondy označuje za „ultra nebezpečné“, kryptoměny za nebezpečné a věří, že zlato „se vrátí nahoru“. „Když přijde run na banku“, mohou lidé o peníze přijít.
+
+> „Protože jsme ve stádiu drancování.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ---

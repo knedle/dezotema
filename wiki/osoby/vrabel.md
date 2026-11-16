@@ -257,6 +257,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **5. 7.** — hodnocení AfD jako „jediné alternativy" pro Německo (výhrady jen k Landsmannschaft frakci); SPD centrálně řízená, Okamura „falešná karta"; doplnění von der Leyenové 40% rozpočtu o reakci Rajchla — [Nedělní vysílání 5. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-5-7-2026)
 - EU nařizuje bezemisní renovaci 700 000 českých domů (EPBD4, 12. 7.) — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - EU komise reformuje se, úředníci v hlavních městech (13. 7.); Maďarsko — ústavní většina odvolává prezidenta Šujoka — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
+- **13. 11.** — soud EU „vždy proti státu“ (Fit for 55), koruna v ústavě „krmení voličů“ → [suverenita-eu.md](../suverenita-eu.md#soud-eu-fit-for-55-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -313,6 +314,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - ⚡ Konflikt: odmítá teorii o pokračující existenci Československa (vs. Zítko/Konspirátor) — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026)
 - ⚡ Medvedev kritizuje útok USA na Írán jako „zhroucení mezinárodního práva" — Vrabel žádá mezinárodní izolaci USA — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 - Konspirace „Mezimoří" — návrat šlechty/Habsburků vs. skupování majetku korporativní skupinou (host Vítová, panelová debata 9. 7.) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
+- **13. 11.** — Letná jako „politický převrat“ CIA, poplatky jen záminka → [konspirace.md](../konspirace.md#studenti-cia-revoluce-vrabel-10-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -322,6 +324,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Cenzura RT/Sputnik — zprávy se v ČR nedají otevřít, „žijete v zemi s cenzurou" — [Zprávy v devět 20. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 - **21. 6.** — Facebook „nebezpečnější než média" — řízené potlačování dosahu Vrabela vs. nadhánění Rajchla (vláda má zadní vrátka) — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
 - **22. 6.** — vítá stávku ČT/ČRo (doporučuje trvalou), ČT = válečná/globalistická propaganda; Minář placená nastrčená figurka (Halík mu pomáhal s diplomkou) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
+- **13. 11.** — Reichelt (NIUS), „ČT není nezávislé médium“ → [media-propaganda.md](../media-propaganda.md#reichelt-nius-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 
@@ -417,6 +420,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **29. 7.** — Narval 140 jako útočná zbraň (odmítá vojenskou neutralitu porušující); ekonomika sestřelování dronů (500 tis. $ na 1 dron); malé modulární reaktory bez uranu kvůli sankcím; čínská jaderná fúze vs. „úpadek Západu"; uzavření obilného koridoru u Oděsy; reakce veřejnosti na ČT24 oslavující útoky na civilní cíle; Medveďčuk — žádný evropský cíl není mimo dosah; varování z armády o 50 % HDP na zbrojení; Zelenskyj (NATO, Krym, žaloba na Lukašenka); Lavrov — mír jen v ruském zájmu; Medveděv odmítá mobilizaci; opakování Rafale/ASMP (podzimní demonstrace); EU dotuje výzkum „zvířata a demokracie" — [Zprávy v devět 29. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-7-2026) → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md), [ceny-energie.md](../ceny-energie.md), [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [jaderne-zbrane.md](../jaderne-zbrane.md), [suverenita-eu.md](../suverenita-eu.md)
 - **30. 7.** — Fauci se odvolal na 5. dodatek (kontrast s beztrestností v ČR); bezpečnostní dohoda Polsko–Ukrajina (SBU na polském území); sankční seznam EU z 2014 (sdílení RT/Sputniku = trestný čin); EU AI „gigatovárny" (sběr dat, ne konkurenceschopnost); sucho odstavuje jaderné elektrárny v Rumunsku/Maďarsku; raketa v Polsku, Tusk „50 na 50"; výroba CV90 v Šenově (+ anekdota Konečná); Nuland přiznala sabotáž mírových jednání 2022; eskalace v Ceutě (obchod s dětmi, žádné hranice ČR–Španělsko); opakování Rafale/ASMP (demonstrovat před podpisem) — [Zprávy v devět 30. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026) → [covid-vakciny.md](../covid-vakciny.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [dsa-cenzura.md](../dsa-cenzura.md), [digitalni-kontrola.md](../digitalni-kontrola.md), [ceny-energie.md](../ceny-energie.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md), [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [migrace.md](../migrace.md), [jaderne-zbrane.md](../jaderne-zbrane.md)
 - **31. 7.** — migrační pakt vynutí přerozdělení migrantů z Ceuty do zemí, kde „ještě nejsou" (Polsko, ČR, Slovensko, Maďarsko) — [Videoportál 31. 7.](../_zdroje.md#ladislav-vrabel--videoportál-31-7-2026) → [migrace.md](../migrace.md)
+- **13. 11.** — příměří jako „kopice dynamitu“, EU „finančně závislá“ na válce, ruská aktiva jako krádež, Ukrajina „nacistický režim“; po mírových jednáních teroristický útok „a pak to začne“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#kopice-dynamitu-vrabel-13-11-2026), [valka-nato-rusko.md](../valka-nato-rusko.md#teroristicky-utok-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -443,6 +447,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Húsíové zaútočili na tankery v Báb al-Mandabu, ropa Brent nad 100 $ poprvé od května — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **24. 7.** — doplnění: v Báb al-Mandabu operuje vlastní vojenská mise EU (tři fregaty), politicky řízená Kajou Callas — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 - **25. 7.** — húsíjský útok na ropná zařízení Saudi Aramco; koalice USA/UK na ochranu Hormuzu; US Senát odmítl omezit Trumpovy pravomoci vůči Íránu — [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
+- **13. 11.** — válka s Íránem, „dokud neudělají velký Izrael“ → [blizky-vychod.md](../blizky-vychod.md#velky-izrael-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ### [Konspirace](../konspirace.md)
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -2371,6 +2376,13 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Kateřina Konečná | ❌ negativní | Prosazovala v EP legální cesty pro migranty z Afriky | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
 | Michal Strnad | ❌ negativní | Propad akcií CSG jako důvod Babišových půjček na zbraně | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
 | Karel Havlíček | ❌ negativní | „Biznis“ s Ukrajinou — dodávky letounů L-39 Skyfox | 2026-11-11 | [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026) |
+| Kaja Kallasová | ❌ negativní | „Hází vidle“ do jednání, příměří jako past | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
+| Friedrich Merz, Donald Tusk | ❌ negativní | „Největší váleční štváči“ v čele evropského týmu | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | „Super, že končí“, ale sází, že souhlasí s 70 mld. pro Ukrajinu | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
+| Karel Havlíček | ❌ negativní | Dodává letadla Ukrajině, „vždycky takový byl“ | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
+| Julian Reichelt | ✅ pozitivní | „Náš člověk“, nezávislý novinář | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
+| Russell Brand | ✅ pozitivní | „Gentleman“ odsouzený bez důkazů | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
+| Ivan Trojan | ❌ negativní | „Půjde pracovat pro CIA“ | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
 
 ---
 
@@ -2581,3 +2593,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 10. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
 - [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
 - [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+- [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)

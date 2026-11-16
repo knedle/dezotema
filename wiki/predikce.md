@@ -48,6 +48,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 ---
 
+### Ladislav Vrabel — po „velkých mírových jednáních“ přijde teroristický útok na mezinárodně významnou osobu a pak válka v Evropě (13. 11. 2026)
+
+**Předpověď:** Po velkých mírových jednáních bude spáchán teroristický útok na „někoho mezinárodně významného“ a „pak to začne“, tedy válka, která se rozšíří i na území EU.
+
+> „Ale to budou velká mírová jednání. Pak bude teroristický útok na někoho významného, mezinárodně významného, a pak to začne.“ — Ladislav Vrabel
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+
+---
+
 ### Ladislav Vrabel — Babiš se vrátí z Dublinu s tím, že ČR „neručí“, ale ČR bude na Ukrajinu dál platit (11. 11. 2026)
 
 **Předpověď:** Babiš na summitu v Dublinu 70 mld. eur pro Ukrajinu neodmítne; po návratu prohlásí, stejně jako v prosinci 2025, že ČR za půjčku neručí, a ČR bude přesto dál platit.
@@ -56,7 +68,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** summit EU v Dublinu (13.–14. 11. 2026)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+**13. 11.** — Vrabel „sází“, že Babiš v Dublinu s 70miliardovou půjčkou Ukrajině souhlasí („Sázím na Andreje, že bude souhlasit“). Moderátorka Zuzka naopak odhaduje, že Babiš „prohlásí jako minule, ale ručit nebudeme“.
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ---
 ### Ladislav Vrabel — studentské protesty řízené „CIA“ svrhnou Babišovu vládu dřív než za tři roky; Studentstvo postaví vlastní kandidátku, 17. 11. vyvrcholí jen „první vlna“ (10. 11. 2026)

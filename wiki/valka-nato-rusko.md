@@ -1667,3 +1667,13 @@ K rozhodnutí Rady EU prodloužit výcvikovou misi EUMAM do listopadu 2028 (pře
 **Zdroje:** [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 
 ---
+
+### Po „velkých mírových jednáních“ přijde teroristický útok na významnou osobu „a pak to začne“ (Vrabel, 13. 11. 2026) {#teroristicky-utok-vrabel-13-11-2026}
+
+K atentátům na ruské důstojníky v Petrohradu a Moskvě Vrabel připomíná proroctví „tibetského doktora“, se kterým mluvil v Alpách v roce 2022: nejdřív budou velká mírová jednání, pak teroristický útok na někoho mezinárodně významného, a pak začne válka. „Běhá mu mráz po zádech“, protože dřív čekal válku v letech 2023 a 2024 a teď se scénář podle něj naplňuje. Vypráví i vlastní sen o frontě v domě a tanku. Věří, že se válka rozšíří na území EU.
+
+> „Ale to budou velká mírová jednání. Pak bude teroristický útok na někoho významného, mezinárodně významného, a pak to začne.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+
+---

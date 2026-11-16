@@ -1010,3 +1010,13 @@ Rajchl tvrdí, že německý kancléř Friedrich Merz „rozjel brutální vydí
 **Zdroje:** [Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026), [Rajchl — „Zkrocení štěkající Činčily“ (11. 11. 2026)](_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026), [Rajchl — „Ulovil Sokola“ (12. 11. 2026)](_zdroje.md#jindřich-rajchl--ulovil-sokola-12-11-2026), [Rajchl — Opozice by raději poslala 60 miliard na ukrajinské důchody (14. 11. 2026)](_zdroje.md#jindřich-rajchl--opozice-60-miliard-ukrajinské-důchody-14-11-2026), [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
 
 ---
+
+### Soud EU zamítl polské žaloby proti Fit for 55 — „vždy rozhodne proti státu“; koruna v ústavě jako „krmení voličů“ (Vrabel, 13. 11. 2026) {#soud-eu-fit-for-55-vrabel-13-11-2026}
+
+Zamítnutí sedmi polských žalob proti klimatickému balíčku Fit for 55 je pro Vrabela důkazem, že nařízení EU jsou závazná a soud EU „vždy rozhodne“ proti suverenitě státu, stejně jako u migračního paktu a eura. Zakotvení koruny v ústavě je podle něj jen „krmení voličů“, aby si nepřipadali podvedení, euro se stejně přijme. ČR podle něj bude muset „solidárně“ přijímat migranty a Ukrajinci jsou způsob, jak národní suverenitu ztratit: „až budete mít třetinu Ukrajinců, pošlou vám migráčky“.
+
+> „Tak pak vám pošleme migráčky, jak to máte pěkně z obou stran promíchaný, ať už vůbec nemáte šanci na nějakou národní suverenitu.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+
+---

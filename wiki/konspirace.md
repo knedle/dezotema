@@ -1176,7 +1176,11 @@ K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník 
 
 **11. 11.** — Ke generální stávce ve Španělsku Vrabel říká, že CIA „umí krásně rozpoutat stávky“ přes odborové funkcionáře napojené na „penězovody“. Jediné „přirozené“ demonstrace v ČR byly podle něj ty jeho z roku 2022, financované sbírkami lidí; vše ostatní organizoval „někdo placený ze zahraničí“. Poslední přirozenou revolucí v Evropě byla podle něj francouzská; Velkou říjnovou revoluci organizovala Británie a rok 1989 tajné služby: „polovina“ čela studentského průvodu byli „tajní“ a student Šmíd se „po pár letech vzkřísil“.
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+**13. 11.** — Před demonstrací na Letné 15. 11. Vrabel opakuje, že jde o „politický převrat“ řízený CIA a českou tajnou službou přes iniciativy Veřejnoprávní a Studentstvo, rektory a divadla, podle srbského a majdanského scénáře. Poplatky jsou podle něj jen „záminka“, protože financování z rozpočtu by znamenalo stejnou částku, jen zaplacenou z daní. Studenti podle něj dostávají „vysoké kapesné“ a demonstrace má stát 8 milionů korun. Policie podle něj nechává FAMU „dělat bordel“. Vyvrcholení čeká 17. 11. Svůj pochod 17. 11. zrušil po telefonátu majora Koláře, který měl z odvolání podle něj radost.
+
+> „To, co se chystá, je politický převrat.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ---
 

@@ -684,3 +684,13 @@ Zítko tvrdí, že 31. 10. končí „smlouva na stát Izrael“ a Čína se Sa�
 **Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026), [ČsTV2 (přes profil J. Hradila) — Výslech v Chomutově 13. 11. 2023, bez sekání (31. 10. 2026)](_zdroje.md#československo-tv2--hradil-výslech-chomutov-bez-sekání-31-10-2026)
 
 ---
+
+### Mossad žádá USA o obnovu operací proti Íránu — válka potrvá, „dokud neudělají velký Izrael“ (Vrabel, 13. 11. 2026) {#velky-izrael-vrabel-13-11-2026}
+
+Ke zprávě o cestě šéfa Mosadu Barnei do USA a zvýšené pohotovosti v Izraeli Vrabel tvrdí, že válka s Íránem bude pokračovat, „dokud neudělají velký Izrael“, a „globalisté“ podle něj vyhrávají na všech frontách. Zmiňuje přitom „chazarská židovská jména“ amerických vyjednavačů (Witkoff), což je formulace s antisemitským podtextem.
+
+> „Dokud prostě neudělají velký Izrael, tak budou pokračovat dál.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+
+---

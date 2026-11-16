@@ -1336,3 +1336,13 @@ Rajchl připomíná, že od začátku války tvrdil, že půjde o opotřebovací
 **Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
 
 ---
+
+### Příměří jako „kopice dynamitu“, EU „finančně závislá“ na válce, ruská aktiva jako krádež; Ukrajina „nacistický režim“ (Vrabel, 13. 11. 2026) {#kopice-dynamitu-vrabel-13-11-2026}
+
+Požadavek Kaji Kallasové „nejdřív příměří, pak mír“ je podle Vrabela záměrné zablokování míru, protože Rusko příměří dlouhodobě odmítá. Příměří s evropskými vojsky a zárukou typu „článku 5“ pro Ukrajinu by bylo „kopicí dynamitu“, ke které stačí jiskra. Evropský vyjednávací tým (Francie, Německo, Itálie, Polsko, Británie, Komise a Rada) nazývá „šaškárnou“ „největších válečných štváčů“ (Merz, Tusk). EU podle něj věnuje „90 % času“ Ukrajině, protože její představitelé jsou „až moc závislí“ na toku peněz do zbrojení a na vizi poraženého, „rozparcelovaného“ Ruska a jeho nerostného bohatství na Donbase. Výslovně dodává, že jde o jeho názor bez zákulisních informací. Varování šéfky Euroclearu před použitím zmrazených 210 mld. eur pokládá za oprávněné, protože vyvlastnění by bylo „krádeží“ a vyhnalo by investory. Na dalších 70 mld. eur pro Ukrajinu má podle něj „někdo eminentní zájem“ a „bůh ví, kolik se rozkrade“. Vyslání britských a francouzských vojsk (Rasmussen) by podle něj přineslo teroristické útoky a hořící rafinerie i do ČR. K obžalobě 22 lidí v Chorvatsku za nacistická gesta říká, že Ukrajina je naproti tomu „samozřejmě nacistická země, nacistický režim“, i když ne všichni Ukrajinci jsou nacisté.
+
+> „Evropská unie […] prostě tlačí dál tu svoji představu, možná ne svojí, možná někoho jinýho, že Rusko by mělo být poraženo, rozparcelováno.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+
+---

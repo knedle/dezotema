@@ -844,3 +844,13 @@ Zítko tvrdí, že ČT nedodržuje zákon a ve zpravodajství „lže“; za cov
 **Zdroje:** [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026), [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ---
+
+### Podpálené auto Juliana Reichelta (NIUS) — policie bagatelizuje, kdyby šlo o ředitele ČT, byl by to terorismus (Vrabel, 13. 11. 2026) {#reichelt-nius-vrabel-13-11-2026}
+
+Podpálení auta šéfa berlínského média NIUS Juliana Reichelta policie podle Vrabela bagatelizuje jako „podezření na žhářství“, kdežto u ředitele ČT by mluvila o terorismu. Srovnává to s tím, když ho polil barvou Anton Klobučkin, a s policejní razií u Zítka. Reichelta nazývá „naším člověkem“ a nezávislým novinářem, sebe a moderátorku Zuzku také, kdežto „Česká televize není nezávislé médium“. Brand podle něj „gentleman“ odsouzený bez důkazů.
+
+> „Jediný, čím jsme omezený, je vězení.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+
+---

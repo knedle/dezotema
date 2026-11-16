@@ -6424,3 +6424,11 @@
 - **Datum záznamu:** 2026-11-14, 23:11 (soubor datován 15. 11., noční ze dvou vysílání toho dne)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 33 min, „14/11 Dvojníci Deep State noční 11:11“. Vlastní komentář tvoří asi 50–55 %, zbytek jsou videa dvojníků, sestřihy covidových výroků politiků, video Romana Kovaříka a předčítaný údajný „Trumpův projev“ (text Q / Jiřího Křížka). Zpracováno 10 témat, predikce jako doplnění k 13. 11. Stochastický teror: Válek („zmrdeček… před vojenským tribunálem“, ověřeno v přepisu jako Zítkův komentář). Hraniční „zrůda“ (Vojtěch, Vašáková) a urážky Obamových nezapsány. Zpracováno podle shrnutí pomocného agenta.
+
+## Ladislav Vrabel — Zprávy v devět 13. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-13-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-13_Ladislav-Vrabel_13-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1098830156312401>
+- **Datum záznamu:** 2026-11-13
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 27 min, zprávy čte Zuzka; den summitu EU v Dublinu, dva dny před demonstrací na Letné. 23 témat v denním přehledu, 10 s vlastním úhlem (⚡). Stochastický teror nezjištěn. Zpracováno podle podkladů pomocného agenta.
