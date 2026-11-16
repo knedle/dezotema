@@ -1313,3 +1313,11 @@ Vrabel tvrdí, že mladík, který se před Sněmovnou dostal do fyzického konf
 **Zdroje:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 
 ---
+
+### „Fialova kampelička“: NCOZ vyšetřuje praní peněz, přes záložnu měly téct „vratky“ z ukrajinských zbrojních kontraktů (Rajchl, 8. 11. 2026) {#kampelicka-vratky-rajchl-8-11-2026}
+
+Rajchl uvádí, že se potvrdilo vyšetřování NCOZ pro praní špinavých peněz v podnikatelské záložně, kde měli vklady vysocí politici ODS. Vybírat se z ní podle něj měly miliony eur v hotovosti a nosit „v brašně“ či „v igelitkách“. Přes záložnu se podle něj procesovaly „vratky“ ze zbrojních kontraktů. Ukrajina prý poslala neznámé chorvatské firmě peníze za munici, ta ji nikdy nedodala, zmizelo asi 14 milionů eur a Ukrajina je nevymáhala. Rajchl spekuluje, že šlo o vratky lidem, kteří rozhodovali o pomoci Ukrajině z českých daní. Protože to „mělo blízko k ODS“, „asi logicky víme, kteří ti lidé by to měli být“. Kampelička podle něj nesmí zůstat opomenuta, stejně jako bitcoinová kauza a Dozimetr (tam prý „udělali posun“). Pokud policie neuspěje, navrhne další vyšetřovací komise. Srovnej s Černohorským v [politicky-system.md](politicky-system.md).
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+
+---

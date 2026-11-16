@@ -21,6 +21,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **19. 7.** — ultimátum: dává vládě čas do podzimu předložit zákon FARA, jinak ho předloží sám; neziskovky (Člověk v tísni, Milion chvilek) jako ohrožení demokracie bez volebního mandátu — [Nedělní vysílání 19. 7. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 - **25. 10.** — politické neziskovky „mor, zlo, cholera“, „vyhnat karabáčem a bičem“ (→ [stoch. teror](../stochasticky-teror.md)); zrušit mediální gramotnost, číst lze cokoli (TASS, Al Jazeera, Fox) — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 - **2. 11.** — spolek Díky, že můžeme financují Soros (83 tis. eur na „Samet ve školách“), Obama Foundation a sponzoři STAN; protesty za ČT jako pokus svrhnout vládu; „politické neziskovky musí být zničeny“ (→ [stochastický teror](../stochasticky-teror.md)) — [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
+- **8. 11.** — Klempíř správně odmítl dotaci spolku Díky, že můžeme; „Samet ve školách“ jako „komsomolská přípravka“; FARA jako „hlavní cíl“, koalice ho předloží → [fara-neziskovky.md](../fara-neziskovky.md) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Dozimetr (parlamentní komise, Fremr/Rakušan KryptoCalt výpověď, nominace do vyšetřovací komise), Hřib (neoprávněné příjmy), Kettner (AI fotografie), dvojí metr justice (Pšenák/Hedia) — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
@@ -51,6 +52,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **4. 9.** — druhé zasedání komise Dozimetr: státní zastupitelství odmítlo poskytnout spisový materiál i adresy obviněných (na rozdíl od komise Bečva); slibuje novelu trestního řádu; spor s Janem Papjanovským (STAN) o porušení dohody o komunikaci — [Videoportál 4. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-dozimetr-druhé-zasedání-4-9-2026) → [kauzy.md](../kauzy.md#druhé-zasedání-komise-státní-zastupitelství-odmítlo-spis-spor-s-papjanovským-rajchl-4-9-2026)
 - **6. 9.** — Dozimetr eskaluje: druhé odmítnutí spisu, žaloba k soudům + novela trestního řádu, ostřejší spor s Papajanovským, kritika Štídla (Seznam Zprávy) za dvojí metr, hrozba otevřít bitcoinovou kauzu; příští jednání 17. 9. — [Facebook Live 6. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-6-9-2026) → [kauzy.md](../kauzy.md#druhé-zasedání-komise-státní-zastupitelství-odmítlo-spis-spor-s-papjanovským-rajchl-4-9-2026)
 - **17. 9.** — Stanjura obviněn ze zneužití povodňové půjčky (40 mld. Kč schváleno na Jesenicko, jen 4 mld. skutečně použito) — „úvěrový podvod"; Jakob to odmítl jako fabulaci — [Videoportál 17. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-17-9-2026) → [kauzy.md](../kauzy.md#ministr-stanjura-si-nechal-schválit-40-mld-kč-na-povodně-na-jesenicku-utratil-jen-4-mld-rajchl-17-9-2026)
+- **8. 11.** — „Fialova kampelička“: NCOZ vyšetřuje praní peněz, údajné „vratky“ z ukrajinských zbrojních kontraktů (14 mil. eur, chorvatská firma); vyšetřit i bitcoiny → [kauzy.md](../kauzy.md#kampelicka-vratky-rajchl-8-11-2026) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Odmítání eura a společné armády, kritika Green Dealu, Benešovy dekrety, ukrajinskí migranti, obnovení ruských energetických dodávek, EP jako divadlo, V4 strategie (SK+HU+PL) — [EP jako divadlo — K věci (31. 3. 2026)](../_zdroje.md#jindřich-rajchl--evropský-parlament-jako-divadlo-pořad-k-věci)
@@ -123,6 +125,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **1. 11.** — Polsko: „puč přes Ústavní soud“, Nawrocki statečný, souhlas s Kaczyńským — zrušit Komisi, nebo odejít z EU; „rumunský scénář“ (→ [predikce](../predikce.md)) — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
 - **4. 11.** — Merz z BlackRocku plní „zadání“; „tříocasá příšera“ migrace, Green Dealu a proválečného fanatismu — [„To zas byla dvojka“ 4. 11. 2026](../_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026)
 - **5. 11.** — Trump „nastavil Evropě zrcadlo“, nepřítel „v Bruselu“ (opakuje „příšeru“) — [O cenzuře a Green Dealu 5. 11. 2026](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
+- **8. 11.** — Kaczyński: zrušit Evropskou komisi, nebo vystoupit z EU; nejdřív pokus o změnu s Polskem a Slovenskem → [suverenita-eu.md](../suverenita-eu.md#triocasa-prisera-rajchl-4-11-2026) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [Ceny energií](../ceny-energie.md)
 - Obnovení ruského plynu/ropy jako řešení energetické krize, kritika Green Dealu — [Energetická krize a Rusko (28. 3. 2026)](../_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
@@ -137,6 +140,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **29. 9. a 5. 10.** — ruskou ropu a plyn kupujeme stejně přes prostředníky (Indie, Turecko, Schwedt); vzor AfD jednající s Gazpromem; zrušit Green Deal, Schengen, eurozónu — [Rajchl — Videoportál: Green Deal a ruská ropa (29. 9. 2026)](../_zdroje.md#jindřich-rajchl--videoportál-green-deal-a-ruská-ropa-29-9-2026), [Rajchl — Debata: bez ruské ropy a plynu se Evropa neobejde (5. 10. 2026)](../_zdroje.md#jindřich-rajchl--debata-ruská-ropa-a-plyn-5-10-2026)
 - **11. 10.** — Trump kupuje 5 mil. t ruské ropy jako vzor („Trump je kolaborant?“, „hlupáci… dostali facku“); rozmrazení aktiv Lukoilu → zaplatíme my; „demokratický plyn“ přes Nord Stream, hrozí krize plynu (→ [predikce](../predikce.md)) — [Nedělní vysílání 11. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-volby-maroko-ropa-11-10-2026)
 - **18. 10.** — Trumpův nákup ruské ropy jako „business case“ („ruská ropa s americkou visačkou“), pozastavení US sankcí; Trump „nezradil“, sankce = „vlastňák“ → [ceny-energie.md](../ceny-energie.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+- **8. 11.** — plyn 12× dražší než v USA, povolenky 4×; nízká uhlíková daň 5 €, výzkum fúze; emise zbrojení a tankerů, ruský plyn potrubím (Net4Gas) → [ceny-energie.md](../ceny-energie.md#plyn-12x-green-deal-rajchl-8-11-2026) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [Migrace](../migrace.md)
 - **5. 7.** — rovné podmínky pro Ukrajince jako pro Čechy (vzor Polska: zrušit bezplatné bydlení); „dovolená" na Ukrajině jako důkaz, že nejsou skuteční uprchlíci; zopakování NCOZ studie o organizovaném zločinu Ukrajinců (5. 5.) — [FB Live 5. 7. 2026](../_zdroje.md#jindřich-rajchl--fb-live-5-7-2026)
@@ -155,6 +159,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **16. 9.** — „dvojí metr" Evropy: zbrojení proti Rusku vs. kritika zbrojení proti migrantům (Sigmund/AfD); 80 útoků bodnou/sečnou zbraní denně v Německu; výzva volit AfD/Le Pen/SPD+PRO+Trikolóra+Svobodní — [Videoportál 16. 9. 2026](../_zdroje.md#jindřich-rajchl--videoportál-16-9-2026)
 - **8. 10.** — Ukrajinka vylákala 750 tis. Kč na dávkách, „špička ledovce“ — [Volte PRO (8. 10. 2026)](../_zdroje.md#jindřich-rajchl--volte-pro-8-10-2026)
 - **18. 10.** — „Francie hoří“: reálná invaze, zvážit armádu, remigrace, odchod Macrona a von der Leyenové; Mladá Boleslav 63 % lidí se necítí bezpečně, „stockholmský syndrom“ voličů pětikoalice; kvóty z Filipín/Indonésie tlačí mzdy, agentury „vyděračské gangy“, zrušit dávky → [migrace.md](../migrace.md) — [Nedělní vysílání 18. 10. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026)
+- **8. 11.** — ukrajinská tajná služba předává mafii informace pro podvodná call centra; Ukrajina „zločinný, kriminální režim“, „ani korunu“ → [migrace.md](../migrace.md) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 - Francie moratorium + Montpellier soud (demolice parku pro ptáky); USA obrat vůči větrné energii — [Větrné elektrárny: moratorium Francie (6. 5. 2026)](../_zdroje.md#jindřich-rajchl--větrné-elektrárny-moratorium-francie-spd-boj-v-čr-6-5-2026)
@@ -196,6 +201,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **3. 11.** — ironická výzva zaměstnancům ČT a ČRo, ať stávkují „na neomezenou dobu“; rozhlas bez nich „bez propagandy“ — [Stávka ČT a ČRo 3. 11. 2026](../_zdroje.md#jindřich-rajchl--stávka-čt-a-čro-pokračujte-3-11-2026)
 - **5. 11.** — rozhovor s ČT: příspěvky o Stárkové nestáhne; Láska „pacient z Moskvy“, zveřejněná adresa jeho domu, výhrůžka člena ODS Hediji, Forum24/Reflex „Putinův mazlíček“ — [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)
 - **6. 11.** — průzkum o poplatcích: 31 % + 23 % = „54 %, což je většina“ pro zrušení — [„Tohle je nejvíc!“ 6. 11. 2026](../_zdroje.md#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026)
+- **8. 11.** — demonstrace Svatopluku bez něj (provokace), poplatky „zrušíme a tečka“, privatizace ČT (Turek), stávka nelegitimní; dvojí metr ČT a policie (Foltýn, Decroix, Farský, Moravec, Matásek/Fico, SMS „smrt českým podlidem“) vs. prověřování komentářů ke Stárkové → [media-propaganda.md](../media-propaganda.md) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -249,6 +255,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **24. 10.** — „Šibenice nikdy nebyly na mé demonstraci“; demonstrace proti prodloužení pandemického zákona, s delegací nikdo nejednal; atmosféru „rozpoutali“ oni → [politicky-system.md](../politicky-system.md) — [Rajchl — Sněmovna: Nizozemsko, poplatky jako dálniční známka, „šibenice“ (24. 10. 2026)](../_zdroje.md#jindřich-rajchl--nizozemsko-rozpočet-čt-šibenice-24-10-2026)
 - **25. 10.** — páteční protest = „útok na Sněmovnu“ (zběsilí fanatici, Foldyna, kostka připsaná Dudové → [stoch. teror](../stochasticky-teror.md)); dvojí metr vůči jeho demonstraci 11. 3. 2023; pětikoalice s demonstranty nejednala, Rakušan „bez slitování“ — [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
 - **1. 11.** — Pavel „zmotal“ svátky, vyznamenal „ochlastu“ Hřebejka místo Zemana a Kundery, na Hrad nepůjde („komunistický rozvědčík“); policie prověřuje komentáře na jeho profilu (→ [petr-pavel.md](../petr-pavel.md#vyznamenani-hrebejk-rajchl-1-11-2026)); Minář „by měl sedět ve vězení“ — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+- **8. 11.** — Macinkův výrok o „ruských mužatkách“ „extrémně nešťastný“, „věk ani pohlaví není zásluha“, Hlavatý; 17. listopad „ukradli“ pravdoláskaři („vítězný únor“), privatizace jako chyba → [politicky-system.md](../politicky-system.md#macinka-muzatky-rajchl-8-11-2026); Pavel „dejme Putinovi bonbon“ po „nových notičkách“ → [petr-pavel.md](../petr-pavel.md) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - Odmítá NOS jako pumpování peněz do farmabiznisu — [FB Live: Green Deal je apokalypsou Evropy (14. 6. 2026)](../_zdroje.md#jindřich-rajchl--fb-live-green-deal-14-6-2026)
@@ -263,6 +270,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 ### [Konspirační teorie](../konspirace.md)
 - Biolaboratoře USA na Ukrajině: Gabbard + Hegseth potvrdili 40 z 120 laboratoří (31. 5.) — [Facebook Live 31. 5. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-31-5-2026)
 - **13. 9.** — vlastní rozsáhlá verze teorie o 11. září jako „insider jobu" (Silverstein, odvolaní psi, zničené záznamy SEC, Rumsfeldových 21 bilionů); model kontroly strachem opakující se u Green Dealu, covidu a Ukrajiny — [Facebook Live 13. 9. 2026](../_zdroje.md#jindřich-rajchl--facebook-live-13-9-2026) → [konspirace.md](../konspirace.md#25-výročí-11-září--rajchlova-vlastní-verze-strach-jako-nástroj-kontroly-rajchl-13-9-2026)
+- **8. 11.** — střelec z Krakova byl „levicový radikál“ jako David Kozák, ne pravicový; „lež“ Mácy a Štítu demokracie → [konspirace.md](../konspirace.md#krakov-levicovy-radikal-rajchl-8-11-2026) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ### [Digitální kontrola](../digitalni-kontrola.md)
 - **14. 8.** — Chat Control a bezhotovostní společnost jako nástroje totální kontroly; návrh ústavního ukotvení práva na hotovost — [Videoportál 14. 8. 2026](../_zdroje.md#jindřich-rajchl--videoportál-14-8-2026)
@@ -279,6 +287,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **26. 10.** — Talíř „naivní“ (výzvy Putinovi), Istanbul a „krev na rukou“; „byl bych první, kdo vezme zbraň“, oponenti by „utíkali do Německa“ — [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](../_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)
 - **30. 10.** — CAS vrací Rusy na MS v hokeji: „politika do sportu nepatří“, kolektivní vina je zlo; dvojí metr kritiků (Irák, Srbsko 1999, respekt k ÚS v kauze Ankara) — „pokrytci a farizejové“ — [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](../_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026)
 - **1. 11.** — ruští hokejisté na MS: Soul 1988, kolektivní vina, útok USA na Írán „právně totožný“ s ruským na Ukrajinu, dvojí metr k soudům — [Nedělní vysílání 1. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+- **8. 11.** — ruští sportovci: válku nezmění, USA i Írán hráli MS, hrozba sankcí pro pořadatele; bezpečnost zajišťují lidé víc než tanky a F-35 → [valka-nato-rusko.md](../valka-nato-rusko.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#bezpecnost-lide-ne-zbrane-rajchl-8-11-2026) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ## Zmíněné osoby
 
@@ -587,6 +596,22 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 | Václav Láska | ❌ negativní | Den po atentátu na Fica ho označil za „pacienta z Moskvy“, komora to neřešila | 2026-11-05 | [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026) |
 | Jakub Hedija (ODS) | ❌ negativní | Napsal „na každou svini se vaří voda… adresu známe“ | 2026-11-05 | [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026) |
 | Matěj Ondřej Havel | ❌ negativní | Označil Vachatovou za „obdivovatelku ruských teroristů“ — lež a podněcování nenávisti | 2026-11-05 | [Rozhovor s ČT 5. 11. 2026](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026) |
+| Petr Macinka | ⚖️ rozporuplný | Kamarád a přínos politice, ale výrok o „ruských mužatkách“ „extrémně nešťastný“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Matěj Hlavatý | ❌ negativní | Lže, že útočí jen na ženy; Tetín zachránila jen dotace; bojí se debaty | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Roman Máca | ❌ negativní | Šíří „lež“, že krakovský střelec byl pravicový radikál | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Tomas Paukner | ✅ pozitivní | Ukázal, že krakovský střelec byl levicový radikál; rozpracoval téma financování Stárkové | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Petr Pavel | ❌ negativní | „Dejme Putinovi bonbon“ až po „nových notičkách“; „bolševický rozvědčík“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Volodymyr Zelenskyj | ❌ negativní | Rozkrádá pomoc, jeho tajná služba spolupracuje s mafií | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Jarosław Kaczyński | ✅ pozitivní | Podepisuje se pod „zrušit Komisi, nebo vystoupit z EU“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Oto Klempíř | ✅ pozitivní | Správně odmítl dotaci spolku Díky, že můžeme | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Filip Turek | ✅ pozitivní | Souhlasí s ním, že ČT zprivatizovat | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Jana Zwyrtek Hamplová | ✅ pozitivní | Společně se rozhodli nejít na demonstraci Svatopluku | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Barbora Stárková | ❌ negativní | Organizátorka „umělých“ protestů placených ze zahraničí | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Otakar Foltýn, Eva Decroix, Jan Farský, Václav Moravec | ❌ negativní | „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| David Matásek | ❌ negativní | Vulgární reakce v den atentátu na Fica | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Natálie Vachatová | ✅ pozitivní | „Nesmírně inteligentní, schopná“; oběť lynče (Havel, Bartošek) | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Danuše Nerudová | ❌ negativní | Označila je za „proruskou sebranku“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
+| Petr Fiala | ❌ negativní | Kampelička ODS; ironicky přebírá jeho „nebudu jednat pod tlakem demonstrací“ | 2026-11-08 | [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026) |
 
 ## Zpracované zdroje
 
@@ -743,3 +768,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
 - [Rozhovor s ČT o příspěvcích ke Stárkové (5. 11. 2026)](../_zdroje.md#jindřich-rajchl--rozhovor-s-čt-stárková-5-11-2026)
 - [„Tohle je nejvíc!“: průzkum o poplatcích (6. 11. 2026)](../_zdroje.md#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026)
+- [Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)

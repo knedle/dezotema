@@ -1154,6 +1154,16 @@ Vrabel prohlašuje, že „nechce dělat konspirace“, na videu přestřelky po
 
 ---
 
+### Střelba v Krakově: pachatel byl „levicový radikál“ jako David Kozák, ne pravicový extremista (Rajchl, 8. 11. 2026) {#krakov-levicovy-radikal-rajchl-8-11-2026}
+
+Rajchl kondoluje obětem střelby v Krakově a oceňuje oba zasahující policisty, kteří podle něj s nasazením vlastního života zachránili mnoho dalších. Odmítá ale „mantru“ okruhu kolem Štítu demokracie a „pana Mácy a spol.“, že šlo o pravicového radikála. S odkazem na „nezávislá média“ a Tomase Pauknera tvrdí, že šlo naopak o levicového radikála s podobným zázemím i pohnutkami jako střelec z FF UK David Kozák. Pachatel byl podle něj „jednoznačně produktem“ nesnášenlivé rétoriky „probruselských, progendrových, proklimatických“ aktivistů. Na rozdíl od Vrabela (viz výše) nezpochybňuje průběh útoku, ale jeho politické zařazení.
+
+> „Takže hanba vám, že jste schopní i na pozadí této tragédie takhle neuvěřitelně lhát.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+
+---
+
 ### Studentské protesty za ČT jako revoluce „řízená CIA přes českou tajnou službu“ podle srbského scénáře; řečníka by trestně stíhal (Vrabel, 10. 11. 2026) {#studenti-cia-revoluce-vrabel-10-11-2026}
 
 K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník z FAMU ohlásil nenásilnou „občanskou neposlušnost“, „dělání bordelu“ a komplikování života těm, kdo komplikují život jim, a požadoval odvolání ministra kultury Klempíře a nových členů rad) Vrabel tvrdí, že jde „jednoznačně“ o „operaci řízenou ze CIA“ přes českou tajnou službu. Pokyny podle něj dostávají rektoři, děkani zrušili výuku a „nahnali studenty do ulic“; zdola má revoluci tlačit nově založená organizace Studentstvo. Postup podle něj kopíruje Srbsko, jen v ČR nepůjde o národ, ale o protiruskou kampaň „proti ruským švábům“; pokud Evropa půjde do války, studenti si podle něj budou moci „připsat zářezy na pažbu“. Očekává stávky trvající třeba celý rok, pád Babišovy vlády dřív než za tři roky a vlastní kandidátku Studentstva řízenou „plény“. Děti podle něj „nepatří do politiky“, nemají zkušenost a jsou „zneužité“; jejich využívání označuje za „fašistický přístup k politice“ (Rajchlovi vyčítá, že na pódium bral vlastní děti). Řečníka, který veřejně ohlásil „bordel“, by „trestně odstíhal“ pro narušování veřejného pořádku (viz [Stochastický teror](stochasticky-teror.md)). Sám se drží stranou obou táborů (Babiš i Fiala, „ODS-B“ i „ODS originál“), které podle něj řídí CIA a BIS, aby společnost „bojovala každý s každým“.

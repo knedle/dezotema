@@ -645,7 +645,11 @@ Zprávu, že Petr Pavel patří mezi pět možných kandidátů na vyjednavače 
 
 > „To je tak neuvěřitelná názorová otočka, že i to schválení invaze v roce 68 v tom jeho životopise z roku 1987 bledne.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026)
+**8. 11.** — Rajchl se k obratu vrací. Pavel podle něj před dvěma lety tvrdil, že s Ruskem lze jednat až poté, co ustoupí. Rusko mezitím naopak postoupilo a Pavel dnes navrhuje „dát Putinovi bonbon“ v podobě obnovení hospodářských vztahů. Kdyby totéž řekl Rajchl, který to tvrdí čtyři roky, opozice by ho prý označila za ruského agenta a vlastizrádce. Pavel to podle něj říká jen proto, že „mu dorazily nové notičky“. Připomíná také výrok Jana Farského, že o ruském plynu a ropě „může uvažovat jen vlastizrádce“. Dnes o nich podle Rajchla uvažuje i Pavel.
+
+> „A Petr Pavel to říká jenom, protože mu dorazily nové notičky, protože před dvěma lety říkal úplně o 180 stupňů něco jiného.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ---
 

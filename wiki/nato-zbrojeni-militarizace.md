@@ -604,6 +604,16 @@ Německý kancléř Friedrich Merz na okraji setkání v Ankaře oznámil dohodu
 
 ---
 
+### Bezpečnost zajišťují policisté, hasiči a vojáci víc než tanky a F-35 — peníze investovat do lidí (Rajchl, 8. 11. 2026) {#bezpecnost-lide-ne-zbrane-rajchl-8-11-2026}
+
+Na příkladu policistů zraněných při zásahu v Krakově Rajchl děkuje českým policistům, hasičům a vojákům. Tvrdí, že bezpečnost zajišťují „stokrát více a důsledněji“ než zbraně, tanky a F-35 nakupované za obrovské peníze. Kdyby se tyto prostředky investovaly do lidí, aby byli dobře vybavení, zabezpečení a spokojení, prospělo by to bezpečnosti podle něj „mnohonásobně“ víc než „všechny zbraně a všechna železa dohromady“.
+
+> „…myslím si, že ji zajišťují stokrát více a důsledněji než nějaké zbraně, než nějaké tanky nebo F-35, které kupujeme za obrovské peníze.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+
+---
+
 ## EU jako vojenská struktura
 
 ### Odmítnutí EU armády a jaderného štítu — diplomacie místo přípravy na válku

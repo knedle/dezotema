@@ -703,3 +703,13 @@ K vládou schválené novele energetického zákona (při prudkém zdražení m�
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
 
 ---
+
+### Plyn 12× dražší než v USA, povolenky 4× — Evropa se „zbláznila“; „zelení fanatici“ mlčí o emisích zbrojení a tankerů (Rajchl, 8. 11. 2026) {#plyn-12x-green-deal-rajchl-8-11-2026}
+
+Podle Rajchla je plyn na burze TTF v Rotterdamu 12× dražší než na americkém Henry Hub. Emisní povolenka ETS1 stojí v EU kolem 90 eur, v USA kolem 25 eur a v Číně či Koreji je podle něj asi devětkrát levnější. Evropa tak podle něj nemůže konkurovat USA ani Asii, „sama si staví překážky“ a deindustrializace bude pokračovat (letos prý odešly Baťa, Zetor a další firmy). Navrhuje zrušit Green Deal a zavést nízkou ekologickou daň kolem 5 eur za tunu CO₂, kterou by energetika podle něj unesla. Peníze by místo „zeleným aktivistům“ a větrným elektrárnám šly do celoevropského výzkumného centra pro jadernou fúzi a recyklaci. Nechce „živit“ spekulanty s deriváty povolenek. „Zeleným fanatikům“ vyčítá pokrytectví: výroba zbraní je podle něj na špičce produkce CO₂ a jeden tanker na mazut vyprodukuje víc emisí než všechna česká auta se spalovacím motorem, a přesto mlčí. Žádá proto brát ruský plyn a ropu stávajícím potrubím, jak podle něj radí i Trump. Tranzit by státnímu Net4Gas vynesl miliardy, plyn by zlevnil a emise by klesly „o stovky procent“. Green Deal a migraci nazývá „dvěma hlavami saně“, které ničí Evropu (viz [suverenita-eu.md](suverenita-eu.md#triocasa-prisera-rajchl-4-11-2026)).
+
+> „Pojďme začít nakupovat levný plyn a levnou ropu, jinak Evropa spěje ke svému průmyslovému zániku.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+
+---

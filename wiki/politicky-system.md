@@ -855,6 +855,26 @@ Vrabel tvrdí, že porážku republikánů nezpůsobily jen drahota a válka, al
 
 ---
 
+### Macinkův výrok o „ruských mužatkách“ je „extrémně nešťastný“; „věk ani pohlaví není zásluha“ (Rajchl, 8. 11. 2026) {#macinka-muzatky-rajchl-8-11-2026}
+
+Rajchl se veřejně vymezuje vůči výroku Petra Macinky (Motoristé), že se mistrovství juniorek obejde bez „ruských mužatek“. Macinku přitom považuje za kamaráda a přínos pro politiku. Nazývat ženy hrající hokej či fotbal mužatkami podle něj není férové a je to urážlivé. Sportovkyně jsou podle něj „ty nejkrásnější ženy“ (připomíná, že jeho manželka hrála první volejbalovou ligu). Druhou výhradu má k samotnému výpadu proti ruskému týmu (viz [valka-nato-rusko.md](valka-nato-rusko.md)). Trvá na zásadě, že „věk ani pohlaví není zásluha“: kritika má být faktická a smí mířit na kohokoli. Dnes prý bez obvinění z „odporného útoku“ lze kritizovat jen muže nad 40 let z „národně konzervativní scény“. Odmítá tvrzení Matěje Hlavatého, že útočí jen na ženy: kritizuje i jeho (obec Tetín podle něj zachránila před bankrotem jen předčasná dotace a úvěr kraje). Hlavatý se s ním podle něj bojí jít do debaty, protože by z něj „za dvě minuty“ udělal „úplného pitomce“.
+
+> „Věk ani pohlaví není zásluha.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+
+---
+
+### 17. listopad „ukradli“ pravdoláskaři — svátek plurality názorů proměnili ve svůj „vítězný únor“ (Rajchl, 8. 11. 2026) {#listopad-ukraden-rajchl-8-11-2026}
+
+Demonstrace k 17. listopadu bere Rajchl „naprosto v klidu“, asi pojede na dovolenou a napíše nebo natočí komentář o tom, jak byl svátek „ukraden a zcizen“. Listopad 1989 podle něj oslavoval pluralitu názorů a demokracii, „pravdoláskaři“ si z něj ale udělali „svůj vítězný únor“ a šíří „jednu jedinou možnou pravdu“. Pád režimu byl podle něj správný. Chybou bylo, že se pak za slib rychlého zbohatnutí rozprodalo „rodinné stříbro“. Slavit nebude, dokud se na Národní třídě bude pískat na Babiše a Turka a tleskat „bolševickému rozvědčíkovi“ (Petru Pavlovi). Kdo píská, podle něj zrazuje odkaz svátku, který byl o toleranci všech názorů. Výročí 17. listopadu 1939 uznává.
+
+> „Jak ze svátku, který v podstatě oslavoval pluralitu názorů a demokracii, si ti pravdoláskaři udělali svůj vítězný únor.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

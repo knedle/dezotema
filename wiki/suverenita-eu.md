@@ -979,6 +979,10 @@ V televizní debatě Rajchl tvrdí, že německý kancléř Friedrich Merz, býv
 
 **5. 11.** — Ve stejné debatě Rajchl dodává, že Trump „nastavil Evropě zrcadlo“ i ve svobodě slova („váš nepřítel nesedí v Moskvě, ale v Bruselu“), a „dvouocasou příšeru“ vidí jako šanci: Trump bude Evropu respektovat, jen pokud bude silná a bohatá.
 
-**Zdroje:** [Rajchl — „To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026), [Rajchl — O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026)
+**8. 11.** — Rajchl mluví o „dvouhlavé sani“ migrace a Green Dealu a podepisuje se pod výrok Jarosława Kaczyńského: buď zrušit Evropskou komisi v čele s von der Leyenovou, nebo z EU vystoupit. Hned odcházet nechce, protože na to ČR sama nemá a musí spolupracovat s Polskem a Slovenskem. Nejdřív je podle něj třeba zkusit změnu směrem ke „spolupráci suverénních států“. Pokud se nepodaří, je podle něj rozumnější odejít než zůstat na „špatné trajektorii“, která „vede do pekla“. Hlavní brzdou je podle něj „bruselské centrum moci“, které vymýšlí „jednu idiotskou agendu za druhou“. Energetické argumenty viz [ceny-energie.md](ceny-energie.md#plyn-12x-green-deal-rajchl-8-11-2026).
+
+> „Já se podepisuju pod výrok Jaroslava Kačinského, buď zrušíme Evropskou komisi v čele s von der Lejenovou, nebo pojďme vystoupit z Evropské unie.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — „To zas byla dvojka“: Merz a „tříocasá příšera“ (4. 11. 2026)](_zdroje.md#jindřich-rajchl--to-zas-byla-dvojka-merz-blackrock-4-11-2026), [Rajchl — O cenzuře a o nezbytnosti zničit Green Deal (5. 11. 2026)](_zdroje.md#jindřich-rajchl--o-cenzuře-a-green-dealu-5-11-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ---

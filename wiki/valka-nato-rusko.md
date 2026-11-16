@@ -1442,7 +1442,9 @@ Rozhodnutí Mezinárodního sportovního arbitrážního soudu (CAS), že ruská
 
 > „Tak buď tedy respektujeme všechno, nebo nic.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026)
+**8. 11.** — Rajchl opakuje, že start ruských týmů na válce „nezmění vůbec nic“ a kvůli němu nezemře „ani o jednoho člověka víc“. Nově uvádí, že na fotbalovém MS v USA hrály USA i Írán, přestože si v té době vyměňovaly rakety. Krev na rukou mají podle něj „ideologičtí fanatici“, kteří 4,5 roku „posílají Ukrajince na smrt“, přestože válka je dávno prohraná. Doplňuje právní argument: pokud by ČR nezajistila ruskému týmu start na mistrovství juniorek, hrozí jí finanční sankce i penalizace nebo vyloučení vlastního týmu. Kritiku výroku Petra Macinky o „mužatkách“ viz [politicky-system.md](politicky-system.md#macinka-muzatky-rajchl-8-11-2026).
+
+**Zdroje:** [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ---
 

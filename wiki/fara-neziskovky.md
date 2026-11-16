@@ -122,6 +122,10 @@ Rajchl s odkazem na veřejné zdroje a informace Tomase Pauknera a Matouše Svob
 
 > „Ostatně soudím, že politické neziskovky musí být zničeny.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — „Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026)](_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
+**8. 11.** — Rajchl opakuje, kdo podle něj spolek financuje (norské fondy, Obama Foundation, Open Society a 83 tisíc eur na „Samet ve školách“, který nazývá „komsomolskou přípravkou“ aktivistů). Tleská ministru kultury Klempířovi, že spolku odmítl dotaci na akce k 17. listopadu. Jako premiér by ministra, který by dal politické neziskovce peníze z daní, „vyhodil“. Demonstrace podle něj nejsou spontánní, ale placené ze zahraničí a Janem Bartou, který financuje i STAN a Petra Pavla. Zákon FARA označuje za svůj „hlavní cíl“: koalice ho podle něj předloží (podrobnosti zatím neprozradí). Z registru pak bude vidět, kdo neziskovky financuje, a on už „nebude muset psát tyto příspěvky“.
+
+> „Musíme za každou cenu prosadit zákon FARA.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — „Tak tady to máte!“: financování spolku Díky, že můžeme (2. 11. 2026)](_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 
 ---

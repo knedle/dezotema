@@ -6296,3 +6296,11 @@
 - **Datum záznamu:** 2026-11-07 (soubor datován 8. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 20 min, vysílání 11:11; většinu tvoří předčítání cizích příspěvků (Assange, Hana Hana, Sofie Esmeralda, Míša Nogová) se Zítkovými vsuvkami; zpracováno podle shrnutí pomocného agenta.
+
+## Jindřich Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026) {#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-08_Jindřich-Rajchl_O-vylhaném-světě-z-Kavčích-hor-a-politických-neziskov.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1457211019884437>
+- **Datum záznamu:** 2026-11-08
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 6 min, „O vylhaném světě z Kavčích hor a politických neziskovkách coby vysoce chráněnému druhu“. Zpracováno všech 15 témat. Citované výhrůžky a komentáře (Hedija, SMS, komentáře k Ficovi) nejsou Rajchlovy výroky, proto nejsou ve stochastickém teroru. Hraniční „zločinný, kriminální režim“ (Ukrajina) a „pokrytci, farizejové… krev na rukou“ nesplňují kritérium dehumanizace ani výzvy k trestu.
