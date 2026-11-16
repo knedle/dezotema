@@ -137,6 +137,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **7. 11.** — „sázka na Čermáka“ za 170 Kč, „neexistuje reální Tomáš Čermák“, téma uzavírá — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 - **8. 11.** — „hra na Čermáka skončila“, „na tisíc procent“ nejde o původního Čermáka; do Holýšova nejel kvůli Tušlovým výhrůžkám → [kauzy.md](../kauzy.md) — [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 - **9. 11.** — Čermák se „prokázal tím, že nepřišel“; Tušl a „fízlácké materiály“, E-Medic neprovozoval očkovací centra, Křešťáková „čarodějnice“ → [kauzy.md](../kauzy.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+- **12. 11.** — „Čermákiáda: Zvonec a konec“: odpověď Bernardy, údajné tělesné rozdíly „dvojníka“, „dvojník, ne klon“, skutečný Čermák „z 99,999 %“ v ochraně svědků, anulovat vzdání se odškodnění, matka „lhářka“, oznámení na sebe pro stalking z Chomutova, Polsko 2023 jako „divadlo“ → [kauzy.md](../kauzy.md) — [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -514,6 +515,9 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Vladimir Putin | ✅ pozitivní | S Trumpem jednotný proti deep state, „ples upírů skončil“ | 2026-11-11 | [ČsTV2 — Svatomartinské 11. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026) |
 | Petr Cvalín | ✅ pozitivní | Komentovaný článek o „ultimátu Berlína“ | 2026-11-11 | [ČsTV2 — Svatomartinské 11. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026) |
 | Petr Kellner | ○ neutrální | Možná v ochraně svědků, dilema Huawei vs. Ericsson | 2026-11-11 | [ČsTV2 — Svatomartinské 11. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026) |
+| Renata Bernardy | ❌ negativní | Lže a manipuluje, Čermáka nikdy neviděla, iniciovala oznámení pro stalking | 2026-11-12 | [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026) |
+| Matka Tomáše Čermáka | ❌ negativní | „Lhářka“, Čermák a otčím ji „použili“ | 2026-11-12 | [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026) |
+| Martin Turek | ○ neutrální | Zveřejnil telefonát s matkou | 2026-11-12 | [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026) |
 
 ---
 
@@ -652,3 +656,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Zprávy k novoluní“ (9. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 - [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
 - [ČsTV2 — Živě: Svatomartinské vysílání (11. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
+- [ČsTV2 — Živě: „Čermákiáda: Zvonec a konec“ (12. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026)

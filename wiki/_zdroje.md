@@ -6392,3 +6392,11 @@
 - **Datum záznamu:** 2026-11-11, 11:11 (soubor datován 12. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 25 min, „svatomartinské vysílání“ k „portálu 11.11.“. Vlastní řeč tvoří asi 35–40 %, zbytek je předčítání (meditační texty, 17 bodů Ezry Cohena, článek Petra Cvalína, Quantum Mesh) a promo. Zpracováno 10 témat a 1 nová predikce, k predikci z 5. 11. doplněn Super Bowl. Stochastický teror nezjištěn, „Obama už byl popravený, bude s ním proces“ je tvrzení, ne výzva. Zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Čermákiáda: Zvonec a konec“ (12. 11. 2026) {#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-13_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1792492888702816>
+- **Datum záznamu:** 2026-11-12, 11:11 (soubor datován 13. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 2 h 1 min, „12/11 Čermákiáda: Zvonec a konec 11:11“. Celé je o kauze Čermák, vlastní řeč tvoří asi 75 %, zbytek je čtení textu TV Šalingrad a přehrávání záznamů (Turkův telefonát s matkou, Seznam Zprávy). Zpracováno 9 témat (souhrnně do kauzy Čermák), covidové téma se opakuje (jen zdroj). Predikce ani stochastický teror nejsou. Zpracováno podle shrnutí pomocného agenta.
