@@ -141,6 +141,18 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Zdroj:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ---
+### Pavel Zítko — 9. 11. nastoupí „Stephen Miller 2.0“ a „bude to lítat“; EBS a „velké odhalení“ do dnů až měsíců; banky padnou jako domino (8. 11. 2026)
+
+**Předpověď:** 9. 11. nastoupí Stephen Miller (podle Zítka „2.0“, tedy náhrada) jako šéf kanceláře Bílého domu místo Susie Wiles a „začne veliký točo“. Systém EBS s 10denním výpadkem komunikací a „velké odhalení“ (mj. J. D. Vance jako zrádce) přijdou v řádu „dnů, týdnů, maximálně měsíců“. Banky budou „padat jako domino“.
+
+> „Myslím, že to vůbec už nebude dlouho trvat a bude to záležitost dnů, týdnů, maximálně měsíců.“ — Pavel Zítko
+
+**Horizont:** 9. 11. 2026 (Miller); dny až měsíce (EBS, odhalení); neurčeno (banky)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
+
+---
+
 ### Pavel Zítko — JFK Jr. „co nevidět“ vystoupí na veřejnost, přichází „viditelných 20 %“ operace a „zlatý věk“ (7. 11. 2026)
 
 **Předpověď:** John F. Kennedy Jr. „co nevidět“ vystoupí na veřejnosti; začíná fáze, kdy bude vidět 20 % vojenské operace, Stephen Miller odhalí „obrovský volební podvod“ z 3. 11. a Assangeovo odhalení „bude gradovat“; nastane „zlatý věk“ (ne pro ty, kdo zůstanou v „Matrixu“).
@@ -214,7 +226,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **30. 10.** — Po telefonátu s „hlasem“ Čermáka Zítko opakuje: „A pokud nepřijde, tak je to jenom potvrzení, že to nebyl Tomáš Čermák.“
 **29. 10.** — Po telefonátu Zítko připouští, že pokud se v Holýšově totožnost ověří, přizná, že přišel skutečný Čermák — dřívější „dvojník“ by pak byl „cestou k návratu skutečného Čermáka“.
 **29. 10. (telefonát)** — Čermákova matka totožnost syna potvrdila a uvedla, že žádné setkání se Zítkem domluvené není.
-**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026), [ČsTV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026), [ČsTV2 (přes profil J. Hradila) — Telefonát s matkou Tomáše Čermáka (zveřejněno 2. 11. 2026)](_zdroje.md#československo-tv2--hradil-telefonát-s-matkou-čermáka-2-11-2026), [ČsTV2 — Živě z Holýšova: Čermák nepřišel, konec „hry na Čermáka“ (1. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-čermák-nepřišel-1-11-2026)
+**8. 11.** — Zítko predikci považuje za splněnou („hra na Čermáka skončila… nepřišel“). Stav ponechán, protože nepříchod totožnost neprokazuje.
+**Zdroj:** [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026), [ČsTV2 — Živě: telefonát s „údajným“ Čermákem (29. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-telefonát-čermák-29-10-2026), [ČsTV2 (přes profil J. Hradila) — Telefonát s matkou Tomáše Čermáka (zveřejněno 2. 11. 2026)](_zdroje.md#československo-tv2--hradil-telefonát-s-matkou-čermáka-2-11-2026), [ČsTV2 — Živě z Holýšova: Čermák nepřišel, konec „hry na Čermáka“ (1. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-holýšov-čermák-nepřišel-1-11-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 
 ---
 

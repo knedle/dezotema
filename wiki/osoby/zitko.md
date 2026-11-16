@@ -132,6 +132,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **5. 11.** — Holýšov „tečka za případem Čermák“, trestní oznámení za stalking; kauza jako operace tajných služeb proti „hře o Československo“ — [ČsTV2 — Živě 5. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 - **4. 11.** — trestní oznámení pro pronásledování vyvrací, žádá „biologické testy“; Bernardy s přístupem k odposlechům; falešný Čermák měl „vystřídat“ Zítka — [ČsTV2 — Živě 4. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
 - **7. 11.** — „sázka na Čermáka“ za 170 Kč, „neexistuje reální Tomáš Čermák“, téma uzavírá — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
+- **8. 11.** — „hra na Čermáka skončila“, „na tisíc procent“ nejde o původního Čermáka; do Holýšova nejel kvůli Tušlovým výhrůžkám → [kauzy.md](../kauzy.md) — [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -225,6 +226,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **5. 11.** — výhra demokratů jako „past“, stíhání do 45 dní, „Gitmo Express“, NESARA, Super Bowl 2027 (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 5. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 - **4. 11.** — „Alligator Alcatraz“ pro soudce a lékaře, „40 z 50 států“, stanné právo, V jako vendeta a „odhalení 5. 11.“ (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 4. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
 - **7. 11.** — „80–90 % předpovědí se splnilo“; Titanic/Olympic, hologramy 9/11, Izrael ovládal Ameriku, JFK Jr., „20 % operace“, krach trhů (→ [predikce](../predikce.md), [stochastický teror](../stochasticky-teror.md)) — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
+- **8. 11.** — „Stephen Miller 2.0“ nastupuje 9. 11. místo Susie Wiles, EBS a „9. 11. = 11. 9.“, Vance jako zrádce („hrál ho Paul Walker“), deep state „popraven“, „kristovská DNA“, banky jako domino; obnovu ČSR rozhodnou vítězné mocnosti, Dubček „odstraněn“ tajnými službami → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [predikce.md](../predikce.md) — [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -253,6 +255,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **7. 11.** — falešné profily s ukradenou identitou, demonstranti za ČT jako její zaměstnanci — [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ---
+- **8. 11.** — falešné profily „s ukradenou identitou“, „sekání“ vysílání ze „Smíchova“; ČT neinformuje vyváženě → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 
 ## Zmíněné osoby
 
@@ -483,6 +486,12 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Julian Assange | ✅ pozitivní | Chce odhalit „operativce z Obamovy éry“ | 2026-11-07 | [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026) |
 | Stephen Miller | ✅ pozitivní | „Bude kosit“ a odhalí volební podvod | 2026-11-07 | [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026) |
 | Tucker Carlson, Thomas Massie, Candace Owensová, Marjorie Taylor Greeneová | ❌ negativní | Obrátili se proti Trumpovi „jen kvůli Izraeli“ | 2026-11-07 | [ČsTV2 — Živě 7. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026) |
+| Stephen Miller | ✅ pozitivní | „Miller 2.0“ nastupuje 9. 11. a odhalí volební podvod | 2026-11-08 | [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026) |
+| Susie Wiles | ❌ negativní | Údajná spojka Gatese na lobbisty, Trump o její zradě věděl | 2026-11-08 | [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026) |
+| J. D. Vance | ❌ negativní | Zrádce, „polibek smrti“ od Trumpa | 2026-11-08 | [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026) |
+| Alexander Dubček | ✅ pozitivní | „Odstraněn“ tajnými službami, protože by bojoval za ČSR | 2026-11-08 | [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026) |
+| Tomáš Čermák | ❌ negativní | „Hra skončila“, nejde o původního Čermáka | 2026-11-08 | [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026) |
+| Tušl | ❌ negativní | Vyhrožoval mu, že „dostane do držky“ | 2026-11-08 | [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026) |
 
 ---
 
@@ -617,3 +626,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026)
 - [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026)
 - [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
+- [ČsTV2 — Živě: „Nedělní chvilka poezie“ (8. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)

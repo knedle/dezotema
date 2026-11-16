@@ -511,7 +511,9 @@ Dne 17. 6. 2026 Facebook znemožnil Zítkovi spustit živé vysílání („Tent
 
 > „Facebook vám schovává ty originál profily… a ukazuje vám jenom ty falešný.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026), [ČsTV2 — Pozvánka: blokace všech profilů (8. 10. 2026)](_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026), [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026), [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
+**8. 11.** — Zítko znovu vyjmenovává falešné profily „s ukradenou identitou“ (podle počtu sledujících 2 900, 16 000, 2 200 a 5 000, originály mají 3 200, 4 800 a 9 600). Za nimi podle něj stojí „fízlové, hejtři a agenti“. Výpadky vysílání na hostujícím kanálu připisuje někomu ze „Smíchova“ a vtipkuje, že by to „viděl tak na pět let v gulagu“.
+
+**Zdroje:** [ČsTV2 — Videoportál (záznam) 17. 6. 2026](_zdroje.md#československo-tv2--videoportál-záznam-covid-fierst-vs-hořejší-17-6-2026), [ČsTV2 — Živě: blokace profilu, spor s Bernardy (6. 10. 2026)](_zdroje.md#československo-tv2--živě-blokace-spor-s-bernardy-6-10-2026), [ČsTV2 — Pozvánka: blokace všech profilů (8. 10. 2026)](_zdroje.md#československo-tv2--pozvánka-blokace-všech-profilů-8-10-2026), [ČsTV2 — Ohlédnutí za akcí 10. 10. 10 (12. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026), [ČsTV2 — Ohlédnutí za setkáním ve Frýdku-Místku (14. 10. 2026)](_zdroje.md#československo-tv2--ohlédnutí-za-setkáním-frýdek-místek-14-10-2026), [ČsTV2 — Živě: korporace Polsko a podvod s rozdělením Československa (25. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-korporace-polsko-rozdělení-25-10-2026), [ČsTV2 — Živě: „Proč lže a manipuluje Renata Bernardy?“ (24. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-bernardy-holýšov-24-10-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 
 ---
 
@@ -817,7 +819,9 @@ Zítko tvrdí, že ČT nedodržuje zákon a ve zpravodajství „lže“; za cov
 
 **7. 11.** — Demonstrující za ČT byli podle Zítka z velké části její zaměstnanci, kterým „jde o korýtka“; poplatek má být dobrovolný a „hnědokošiláči okolo Mináře“ ať si platí 20 000 Kč. Opakuje, že ČT dostala z USA 4,2 milionu dolarů (asi 88 mil. Kč) na propagaci vakcín.
 
-**Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
+**8. 11.** — ČT podle Zítka „v žádném případě“ neposkytuje vyvážené pravdivé informace. Od 12. 3. 2020 má podle něj platit odškodnění poškozeným očkováním.
+
+**Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 
 ---
 

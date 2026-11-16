@@ -348,7 +348,11 @@ Zítko zesměšňuje představu, že by ČR mohla z EU vystoupit „protestní n
 
 > „Jediná šance pro nás a pro budoucnost našich dětí je Československo.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
+**8. 11.** — Zítko opakuje, že o obnově Československa nerozhodnou Babiš ani Fiala, ale „vítězné mocnosti“ (Trump, Putin, Si). Prezidentské volby v „korporaci Česká republika“ podle něj zmanipuloval Aspen Institute a podvody trvají asi 20 let, proto se podle něj nekonalo referendum o rozdělení ČSFR. K výročí smrti Alexandra Dubčeka (nehoda u Humpolce 1. 9. 1992) tvrdí, že nesla „rysy práce tajných služeb“ a Dubček byl „odstraněn“, protože by bojoval za Československo proti „vlastizrádcům“.
+
+> „Pravděpodobně z tohoto důvodu byl odstraněn.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 
 ---
 

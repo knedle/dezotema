@@ -6360,3 +6360,11 @@
 - **Datum záznamu:** 2026-11-14
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 52 min, živé vysílání z auta. Rok 1989 jako podvod, ČT a demonstranti, porušené sliby a trest smrti za korupci, Pavel a ústavní žaloba, Grolich, spravedlnost bez peněz. Sovětská vlajka na profilovce je podle něj úcta rudoarmějcům, ne obdiv k Rusku. 6 výroků stochastického teroru (3 hraniční). Druhou část (od cca 37. minuty) zpracoval pomocný agent, klíčové citace ověřeny v přepisu.
+
+## Československo TV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026) {#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-09_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=2434738247335358>
+- **Datum záznamu:** 2026-11-08, cca 20:11 (soubor datován 9. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 5 min, „8/11 Nedělní chvilka poezie 8:11“. Zhruba polovinu tvoří předčítání cizích QAnon textů a přehrávání (Q-drop, EBS, Ron Star, Charlie Ward/Pi, „Lion White“, hymna RF). Zpracováno všech 12 témat, 1 souhrnná predikce. Stochastický teror nezjištěn (hraniční: předčítané „krádež voleb je trest smrti“ a žertovný „gulag“ bez pojmenovaného terče). Zpracováno podle shrnutí pomocného agenta.
