@@ -1344,6 +1344,10 @@ Zítko tvrdí, že chtěl jako první dovézt vakcíny ze Švýcarska jen pro Ba
 
 > „Nikdy tu nešlo o zdraví, šlo o to, kdo měl moct říct ne.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026), [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026)
+**11. 11.** — Podle Zítka seznam asi 50 nežádoucích účinků Pfizeru znamená, že obtíže a úmrtí v okolí jsou „s největší pravděpodobností“ z vakcíny a lze žádat odškodnění. Náhlé úmrtí kojence do dvou dnů po očkování označuje (s odkazem na Barbaru O'Neill) za „zabití dítěte vakcínou“. Farmaceutický průmysl, medicína i potravinářství podle něj nechtějí, aby lidé byli zdraví, a seniory drží na lécích „až do smrti“.
+
+> „Můžete si být skoro téměř jistě, že se jednalo o zabití dítěte vakcínou.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026), [ČsTV2 — Živě: „Klíč 1789“, Q jako test vědomí a 17. listopad (10. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-klíč-1789-test-vědomí-10-11-2026), [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
 
 ---

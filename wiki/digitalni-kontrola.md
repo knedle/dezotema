@@ -346,3 +346,13 @@ K uzavření srbské Alta banky (po volbách podle něj lidé napojení na Vuči
 **Zdroje:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ---
+
+### 5G jako „digitální koncentrák“ a 15minutová města; Petr Kellner možná v ochraně svědků (Zítko, 11. 11. 2026) {#5g-koncentrak-zitko-11-11-2026}
+
+Zítko tvrdí, že elity plánovaly lidi „vypnout“ frekvencemi 5G a držet je v „15minutových městech“ jako v „digitálním koncentráku“, protože se šíří myšlenka „přebytečných jedlíků“. Že je Země přelidněná, je podle něj „kec“: Země je „podstatně větší“ a „za ledovou stěnou“, kterou podle něj střeží 56 zemí, je další svět. Firma Cetin Petra Kellnera stála podle něj před dilematem Huawei, nebo americký Ericsson, a „možná“ to byl důvod nehody vrtulníku na Aljašce. Kellner podle něj „možná je v ochraně svědků“. Předčítá text, podle kterého se sítě 5G 27. 10. přepnuly na „Quantum Mesh“ napojený na Starlink (340 tisíc věží, 78 milionů chytrých měřičů), což má lidem zlepšit spánek.
+
+> „Možná i Petr Kellner je v ochraně svědků. Ale uvidíme, jaký překvapení to nakonec bude.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
+
+---

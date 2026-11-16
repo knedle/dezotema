@@ -6384,3 +6384,11 @@
 - **Datum záznamu:** 2026-11-10, cca 21:11 (soubor datován 11. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 6 min. Vlastní řeč tvoří asi 55–60 %, zbytek je předčítání (Monika Anderson, Ivo Špírek, Cheryl Manning Hudson, McCullough Foundation, Laurence Wilkerson, Sofia Esmeralda). Zpracováno 10 témat, bez nové predikce (jen doplnění k 9. 11.). Stochastický teror nezjištěn, hraniční jsou „chtěl jsem zabodat Babiše… jejich děti“ (minulý čas, o očkování) a von der Leyenová „potomek fašounů a nácků“ bez výzvy. Zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026) {#československo-tv2--živě-peterková-svatomartinské-11-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-12_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt) (shodný duplikát s jinou URL: [přepis _1](prepisy/done/2026-11-12_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt), <https://m.facebook.com/watch/?v=2156924631865207>)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1687029663118692>
+- **Datum záznamu:** 2026-11-11, 11:11 (soubor datován 12. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 25 min, „svatomartinské vysílání“ k „portálu 11.11.“. Vlastní řeč tvoří asi 35–40 %, zbytek je předčítání (meditační texty, 17 bodů Ezry Cohena, článek Petra Cvalína, Quantum Mesh) a promo. Zpracováno 10 témat a 1 nová predikce, k predikci z 5. 11. doplněn Super Bowl. Stochastický teror nezjištěn, „Obama už byl popravený, bude s ním proces“ je tvrzení, ne výzva. Zpracováno podle shrnutí pomocného agenta.
