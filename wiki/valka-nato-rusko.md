@@ -1418,7 +1418,11 @@ Připouští, že lze vnímat Rusko jako hlavního viníka, protože překročil
 
 > „Vy máte tu krev na rukou. Vy jste zodpovědní za to utrpení obyčejného ukrajinského lidu.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026)
+**15. 11.** — V souvislosti s jednáním v Abú Zabí, kde podle něj za Ukrajinu sedí stejní vyjednavači jako v Istanbulu (Rustem Umerov, David Arachamija), Rajchl cituje Arachamiju z ukrajinské televize 1+1. Ruská delegace podle něj „do poslední chvíle doufala“, že Ukrajinu dotlačí k podpisu dohody o neutralitě „jako Finsko“. Ukrajina by si kromě Krymu ponechala celé území a Donbas by získal autonomii. Poté přijel Boris Johnson a řekl, že se nic podepisovat nebude. Nově cituje i tehdejšího izraelského premiéra a zprostředkovatele Naftaliho Bennetta: Západ podle něj jednání přerušil, protože jeho prioritou bylo „crush Putin“, a Bennett to považuje za chybu. Tehdy se podle Rajchla daly vyjednat „stokrát lepší“ podmínky, dnešní jednání jsou „faktická kapitulace“. Ti, kdo mu vyčítali, že chce kapitulaci Ukrajiny, ji podle něj svým „hloupým, krátkozrakým, dětinským jednáním“ sami způsobili („neuvěřitelní hlupáci“).
+
+> „Byl to Západ, který bohužel přerušil ta jednání, který zmařil možnost dosažení míru v Istanbulu.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026), [Rajchl — Nedělní vysílání: ČT, „útok na Sněmovnu“, Pavel jako vyjednavač, § 405 (25. 10. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-čt-útok-na-sněmovnu-25-10-2026), [Rajchl — Ohlédnutí za týdnem: Talíř „naivní“, „byl bych první, kdo vezme zbraň“ (26. 10. 2026)](_zdroje.md#jindřich-rajchl--ohlédnutí-talíř-naivita-zbraň-26-10-2026), [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
 
 ---
 

@@ -6336,3 +6336,11 @@
 - **Datum záznamu:** 2026-11-14
 - **Zpracováno:** ano
 - **Poznámka:** 2,5 min. Opozice jako „servilní slaboši“ s „vlastizrádnou mentalitou“, peníze na ukrajinské důchody místo českých. Hraniční výrazy bez dehumanizace a výzvy k trestu, proto nejsou ve stochastickém teroru.
+
+## Jindřich Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026) {#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-15_Jindřich-Rajchl_Letenská-maškaráda-o-ničem-Jednání-o-míru-v-Abú-Dhabí.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1118131144387328>
+- **Datum záznamu:** 2026-11-15
+- **Zpracováno:** ano
+- **Poznámka:** 52 min, „Letenská maškaráda o ničem. Jednání o míru v Abú Dhabí a Merzovo nehorázné vydírání“. Zpracováno všech 10 témat a 3 predikce. Hraniční výroky („naházet do antonu“ demonstranty blokující Mazurka, „zmanipulované ovce“ z Letné) jsou výzvou k policejnímu zásahu bez dehumanizace, resp. nálepkou bez výzvy, proto nejsou ve stochastickém teroru.

@@ -875,6 +875,16 @@ Demonstrace k 17. listopadu bere Rajchl „naprosto v klidu“, asi pojede na do
 
 ---
 
+### Europoslanec Mazurek nevpuštěn na konferenci — demonstranty měla policie „naházet do antonu“ (Rajchl, 15. 11. 2026) {#mazurek-anton-rajchl-15-11-2026}
+
+Slovenského europoslance Milana Mazurka podle Rajchla nepustil do pražského hotelu, kde měl vystoupit na konferenci Svobodných, „dav cizojazyčných lidí“ s palestinskými vlajkami, které „někdo zaplatil a poslal do České republiky“. Že policie nedokázala zajistit europoslanci vstup, považuje za „prohru právního státu“. Demonstranti měli být podle něj „nekompromisně rozehnáni“, „naházeni do antonu a odvezeni pryč“, protože svoboda pohybu musí platit „stůj co stůj“. Věc chce řešit ve Sněmovně.
+
+> „A ti lidé měli být naházeni do antonu a měli být odvezeni pryč. A říkám to úplně jasně, nekompromisně.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl
@@ -1235,6 +1245,16 @@ V debatě na Primě s poslancem ODS Samuelem Slovákem Rajchl odmítá návrh, a
 **9. 10. (fanouškovský sestřih)** — Rajchl sdílí střih z debaty, kde opakuje tezi, že „ODS chce okrást občany“: Fialova vláda podle něj zrušila školkovné a slevu na manželku, zvýšila daň z nemovitostí, snížila valorizaci důchodů a mladým rodinám vzala jen na daňových změnách 135 tisíc Kč za čtyři roky; „pomáhali jste sobě a Ukrajině v rámci bitcoinové kauzy“. Slibuje snížení daní pro všechny a zastavení zadlužování bez zvyšování daní. *(Střih z více mluvčích, přesná atribuce jednotlivých vět není jistá.)*
 
 **Zdroje:** [Rajchl — Prima: reakce na Samuela Slováka (29. 9. 2026)](_zdroje.md#jindřich-rajchl--prima-slovák-ods-29-9-2026), [Rajchl — fanouškovský sestřih: ODS a daně (9. 10. 2026)](_zdroje.md#jindřich-rajchl--fanouškovský-sestřih-ods-daně-9-10-2026)
+
+---
+
+### Zdanit nadnárodní korporace (Google platí 18 milionů), plán rozvoje s Křetínským, Tykačem a Kellnerovou — „české peníze do českých rukou“ (Rajchl, 15. 11. 2026) {#ceske-penize-ceske-ruce-rajchl-15-11-2026}
+
+Rajchl by chtěl zvýšit důchody a peníze na ně by našel ve škrtech a v sektorových daních. Například Google má podle něj miliardové zakázky ze státního rozpočtu, ale zaplatí jen 18 milionů korun na daních. Pokud PRO dostane ve volbách víc síly, „první na pořadu“ budou nadnárodní korporace, banky a rafinerie, které „vyvádějí kapitál do zahraničí“. Místo amerických a německých investorů chce podporovat české podnikatele a přizvat Daniela Křetínského, Karla Tykače, Renátu Kellnerovou a další k plánu rozvoje ČR, protože „tu zemi milují“ a mají tu děti. Křetínskému gratuluje, že „hlouposti“ německé Energiewende využije ke stavbě plynových elektráren. Pokud ČR opustí Green Deal, vrátí se k ruskému plynu, odejde z lipské burzy a dá podnikům levnou elektřinu, podle něj „zbohatne jako nikdy předtím“. Patriotismus musí podle něj zvítězit nad „globalismem a paneuropeismem“.
+
+> „České peníze patří do českých rukou a já odmítám, abychom s nimi nakládali podle toho, co si soudruh Merz v Berlíně usmyslí.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
 
 ---
 

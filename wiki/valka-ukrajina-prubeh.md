@@ -1326,3 +1326,13 @@ Zítko tvrdí, že většina ukrajinských uprchlíků (2–3 miliony) utekla do
 **Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---
+
+### Abú Zabí: dřív „kolaborant“, dnes chtějí jednat všichni — za Evropu by vyslal Fica; Rusko vítězí a Evropa „vykrvácí“ (Rajchl, 15. 11. 2026) {#abu-zabi-fico-rajchl-15-11-2026}
+
+Rajchl připomíná, že od začátku války tvrdil, že půjde o opotřebovací válku za statisíce životů, kterou Ukrajina nemůže vyhrát, a volal po jednání. Proto byl označován za „největšího proruského kolaboranta“. Dnes podle něj jednat chtějí titíž lidé: Petr Pavel, který v roce 2023 říkal, že s Ruskem se nejedná, dokud neustoupí, i Zelenskyj, který si jednání zakázal vlastním dekretem. Lipavského „dětinské výkřiky“ („Ukrajina zvítězí“, „dovolená na Krymu se blíží“) zesměšňuje a nabízí mu, že mu letenku na Krym zaplatí. Plán, že by EU na jednání vyslala zástupce Británie, Německa, Francie, Itálie a Polska, odmítá, protože jde o „největší válečné štváče“, kteří z války „mají biznis“. Za Evropu by vyslal Roberta Fica, který si udržel dobré vztahy s Ruskem i Ukrajinou a od začátku prosazoval mír. Výměnu zajatců, „asi největší v novodobé historii“, vítá. Realpolitika je podle něj taková, že Rusko válku „jednoznačně vyhrává“, přežilo sankce a nemá důvod ustupovat. Bulharsko podle něj zastavuje veškerou pomoc Ukrajině, Němci už nedají Patrioty, evropské sklady jsou vyprázdněné a pokladny „plajté“, a přesto se volá po dalším válčení. Za fanouška Ruska ani Ukrajiny se nepovažuje, „jediným fanouškem“ je podle svých slov České republiky. Putin podle něj nemůže ustoupit, protože domácí opozice od něj chce co nejrychlejší vítězné ukončení konfliktu.
+
+> „Já myslím, že by u toho stolu měli sedět lidé, kteří od začátku říkali pojďme jednat. A proto si myslím, že za Evropu by měl být vyslán Robert Fico.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+
+---

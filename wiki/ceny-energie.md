@@ -710,6 +710,10 @@ Podle Rajchla je plyn na burze TTF v Rotterdamu 12× dražší než na americké
 
 > „Pojďme začít nakupovat levný plyn a levnou ropu, jinak Evropa spěje ke svému průmyslovému zániku.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+**15. 11.** — Rajchl se odvolává na rozhovor Daniela Křetínského pro Seznam Zprávy. Podle něj Křetínský označil vzdání se ruského plynu za „totální hloupost“ Evropy, protože Ukrajina tím přišla o tranzitní poplatky stejně jako Rusko. Ztrátu odhadl na 150–200 miliard eur, tedy podle Rajchla asi 6 bilionů korun. Za stejný názor (pokračovat v tranzitu, z něhož by inkasoval i Net4Gas) byl Rajchl podle svých slov 4,5 roku „popotahován jako největší proruský dezolát“.
+
+> „To neříká Rajchl, prosím vás pěkně.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026), [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
 
 ---

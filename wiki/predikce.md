@@ -12,6 +12,42 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Jindřich Rajchl — Rusko bude požadovat zbytek Doněcké oblasti (silou, nebo dohodou), neutralitu Ukrajiny, denacifikaci a volby (15. 11. 2026)
+
+**Předpověď:** V mírových jednáních Rusko podle něj postaví tyto podmínky: buď si zbytek Doněcké oblasti vezme silou, nebo mu ho Ukrajina vydá dohodou; Ukrajina se zaváže k neutralitě, „denacifikaci“ a uspořádání voleb.
+
+> „Ukrajina se zaváže k tomu, že bude neutrální a Ukrajina se zaváže k denacifikaci a k uspořádání voleb. To budou ruské požadavky. Teď a tady vám to říkám.“ — Jindřich Rajchl
+
+**Horizont:** neurčeno (probíhající jednání po Abú Zabí)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+
+---
+
+### Jindřich Rajchl — Evropa se nepoučí, válka bude stát další statisíce životů, než Rusko dobude Kramatorsk, Slovjansk a celou Doněckou oblast (15. 11. 2026)
+
+**Předpověď:** Válka podle něj „pravděpodobně“ bude pokračovat, dokud Rusko nedobude Kramatorsk, Slovjansk a zbytek Doněcké oblasti. Bude to stát další statisíce životů a Evropa mezitím finančně i vojensky „vykrvácí“.
+
+> „Že to bohužel bude stát další statisíce lidských životů, než si vezmou ten Kramatorsk a Slovjansk a dobijí celý ten zbytek té doněcké oblasti. A než Evropa definitivně finančně a vojensky vykrvácí.“ — Jindřich Rajchl
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+
+---
+
+### Jindřich Rajchl — Merz bude placení ukrajinského deficitu požadovat znovu každý rok (15. 11. 2026)
+
+**Předpověď:** Pokud ČR teď ustoupí, Německo přijde se stejným požadavkem „za rok, za dva roky, za tři roky“ a ČR bude každý rok platit 60–70 miliard korun na ukrajinský deficit.
+
+> „Co myslíte, že bude za rok? Přijdou znova. S tím samým přijde ten Merz. Za dva roky, za tři roky.“ — Jindřich Rajchl
+
+**Horizont:** rozpočtové roky 2027–2029
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+
+---
+
 ### Ladislav Vrabel — Babiš se vrátí z Dublinu s tím, že ČR „neručí“, ale ČR bude na Ukrajinu dál platit (11. 11. 2026)
 
 **Předpověď:** Babiš na summitu v Dublinu 70 mld. eur pro Ukrajinu neodmítne; po návratu prohlásí, stejně jako v prosinci 2025, že ČR za půjčku neručí, a ČR bude přesto dál platit.
