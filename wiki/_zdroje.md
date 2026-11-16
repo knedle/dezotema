@@ -6344,3 +6344,11 @@
 - **Datum záznamu:** 2026-11-15
 - **Zpracováno:** ano
 - **Poznámka:** 52 min, „Letenská maškaráda o ničem. Jednání o míru v Abú Dhabí a Merzovo nehorázné vydírání“. Zpracováno všech 10 témat a 3 predikce. Hraniční výroky („naházet do antonu“ demonstranty blokující Mazurka, „zmanipulované ovce“ z Letné) jsou výzvou k policejnímu zásahu bez dehumanizace, resp. nálepkou bez výzvy, proto nejsou ve stochastickém teroru.
+
+## Jiří Černohorský — Facebook Live 9. 11. 2026 {#jiří-černohorský--facebook-live-9-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-09_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1012977321847838>
+- **Datum záznamu:** 2026-11-09
+- **Zpracováno:** ano
+- **Poznámka:** 49 min, živé vysílání (částečně z auta). Macinka a „mužatky“, rusofobie a sport, příčiny války, „třetí světová“, zrušení ČT, Babišova vláda bez alternativy, spory na scéně. 1 predikce, 3 výroky stochastického teroru (Fiala, Rakušan, hraničně dárci „Dárku pro Putina“).

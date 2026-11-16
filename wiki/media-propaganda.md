@@ -820,3 +820,13 @@ Zítko tvrdí, že ČT nedodržuje zákon a ve zpravodajství „lže“; za cov
 **Zdroje:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
 
 ---
+
+### ČT zrušit, ani ze státního rozpočtu — „postkomunistický moloch s třemi tisíci parazitů“; ČT odpovědná za stav politiky (Černohorský, 9. 11. 2026) {#ct-zrusit-moloch-cernohorsky-9-11-2026}
+
+Černohorský nechce ČT platit ani ze státního rozpočtu, protože za posledních deset let podle něj „nepřinesla nic pozitivního“, jen „gender“ a „propagaci úchylárny“. Jako příklady uvádí YouTube pořad „Čiči na gauči“ s „transvestitou“ a znělkou „dobrá číča, nejsou žádná píča“ a příspěvek (s výhradou „jestli to je pravda“), že si ve studiu po desáté hodině „lajnovali“ a někdo se pozvracel. Když Prima a Nova fungují s 500–700 zaměstnanci, nevidí důvod živit „postkomunistický moloch“ se „třemi tisíci parazitů“ a ředitele s platem 300 tisíc měsíčně a odměnami 12 milionů ročně. Poplatky jsou podle něj „socialistický výdobytek z roku 1955“. Média a ČT jsou podle něj zodpovědná za to, co se děje v politice: „kdyby média chtěla“, nebyla by válka, pandemie ani chudoba. Moderátorky nazývá „kundami“ a „stupidní pičou“ bez novinářské nestrannosti. Macinkovi přiznává, že díky „výchově“ v Institutu Václava Klause v televizi obstojí.
+
+> „Nevidím jedinej důvod, proč, kurva, živit moloch, postkomunistický moloch s třema tisícama parazitů.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+
+---

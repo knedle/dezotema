@@ -861,7 +861,11 @@ Rajchl se veřejně vymezuje vůči výroku Petra Macinky (Motoristé), že se m
 
 > „Věk ani pohlaví není zásluha.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+**9. 11. — Černohorský** výrok kritizuje ještě ostřeji. Macinka je podle něj vtipný a pohotový vůči „fialovým“, ale v otázce Ruska „pitomec“. Spolu s Borisem Šťastným jsou podle něj „vymydlení“ rusofobové, kdežto Filip Turek se „uklidnil“. Tahat do sporu sport ho „sere“. Mužatky jsou podle něj k vidění spíš na Prague Pride, kdežto hokejistky, proti nimž sám kdysi hrál, byly „nádherné holky“. ⚡ Na rozdíl od Rajchla ale ženský hokej vnímá jako produkt „poženštěné“ doby: za socialismu si ho nepamatuje a ženy podle něj přebírají mužské role, protože „chlapi přestali být chlapama“ („mamánci na kolobrndách v růžových košilkách“). Za to podle něj mohou muži, tedy i Macinka.
+
+> „Takže mužatky? I kdyby. Tak kdo za to teda může? […] No třeba právě ty, Macinko.“ — Jiří Černohorský
+
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 
 ---
 
@@ -1573,7 +1577,11 @@ Dále uvádí historky o nebankovní půjčce z roku 2010 („když to nebyl Zí
 
 > „Nejdřív se spojí všichni velcí vlastenci, a jak dosáhnou svého cíle, tak v tu ránu všichni — peníze, peníze, peníze." — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+**9. 11.** — Černohorský tvrdí, že ho neporazí protistrana, obžaloba ani kriminál. Na rozdíl od „Bartoka“ či Čermáka by prý nikdy nepřiznal lež výměnou za svobodu, „kdybych měl v kriminále zdechnout“. Porazí ho jen vlastní scéna. Přiznává, že změnil názor na rozdělení Československa i na některé politiky a lidi, ale zásady má od roku 2015 neměnné. Jako jediný na scéně se prý veřejně přiznal k tomu, co před rokem 2015 dělal špatně. Scéna podle něj „živí parazity“ (Zítko, Bernardy) a tleská „zmrdům“ (Vrabel, Sládek), zatímco jeho projekty (vlastní média, „Pošli to dál“) shodila řečmi, že si chce platit exekuce. Ve „společenství“ je podle něj jen asi 350 lidí. Ještě chce dořešit případy Terezy Vlasákové a Ivy Rosické (viz [výše](politicky-system.md#nemate-penize-nemate-spravedlnost-cernohorsky-7-11-2026)) a pak „mám z toho chuť se na to vysrat“. K volbám ať lidé chodí, „ale beze mě“.
+
+> „Víte, kdo mě porazí? Vy, vy mě porazíte. Tadle scéna mě porazí.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 
 ---
 
@@ -1803,7 +1811,11 @@ K vládou schválenému návrhu ústavního zákona o celostátním referendu (3
 
 > „Kritika? Jasně. Je potřeba. A co dál? Co dál? Co chcete dělat dál?“ — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
+**9. 11.** — Komentáři, že Babišova vláda je „to stejné“ jako Fialova, Černohorský oponuje. Kdyby dál vládla „fialová, žluto-modrá banda“, lidé by „neměli co žrát“, v chudobě by nebyl „jen milion lidí“ a nastal by státní bankrot, „to vám garantuju“. Fialova strana je podle něj ráda, že „svinstva“ musí napravovat Babiš. Babiše sám kritizuje („vyserte se na rusofobii“, „jednoho dne budete za stejného idiota jako ten idiot na Hradě“), ale odvolání vlády nechce, protože „není jiné možnosti“. Ministra Juchelku by „okamžitě vyměnil“ jako „neschopného“ a na ministerstvu zdravotnictví nechce „Vojtěchovou“ (patrně hanlivě míněn Adam Vojtěch). Superdávku kritizuje: když systém potřebuje peníze, „tak ty prachy tam prostě nasypte“, protože lidé nemají na nájem ani jídlo, zatímco politici řeší ruské hokejisty a přidávají si platy. Uvádí příběh dcery kamarádky z pardubické nemocnice, kde podle něj „nebyl jediný Čech“, ukrajinský personál pohrdal Čechy a pacientku nechal po vyšetření celý den hladovět. Fialu a Rakušana uráží a pro Rakušana žádá vězení (viz [Stochastický teror](stochasticky-teror.md)).
+
+> „Máte, je tady nějaká jiná možnost, byla nějaká jiná možnost než ten Andrej Babiš? Nebyla.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 
 ---
 

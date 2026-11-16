@@ -1448,7 +1448,9 @@ Rozhodnutí Mezinárodního sportovního arbitrážního soudu (CAS), že ruská
 
 **8. 11.** — Rajchl opakuje, že start ruských týmů na válce „nezmění vůbec nic“ a kvůli němu nezemře „ani o jednoho člověka víc“. Nově uvádí, že na fotbalovém MS v USA hrály USA i Írán, přestože si v té době vyměňovaly rakety. Krev na rukou mají podle něj „ideologičtí fanatici“, kteří 4,5 roku „posílají Ukrajince na smrt“, přestože válka je dávno prohraná. Doplňuje právní argument: pokud by ČR nezajistila ruskému týmu start na mistrovství juniorek, hrozí jí finanční sankce i penalizace nebo vyloučení vlastního týmu. Kritiku výroku Petra Macinky o „mužatkách“ viz [politicky-system.md](politicky-system.md#macinka-muzatky-rajchl-8-11-2026).
 
-**Zdroje:** [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
+**9. 11. — Černohorský** považuje vyřazování ruských sportovců za „rusofobii“ a pokrytectví. Podle stejné logiky by USA musely vrátit všechny medaile z mistrovství i olympiád, protože od roku 1946 nepřestaly vést války. „Masoví vrazi“ jsou podle něj američtí prezidenti, Bush mladší, Obama i Trump (jen ve Vietnamu prý zemřely 4 miliony lidí), a Ameriku nikdo nevylučoval. Sportovci podle něj zasvětili sportu život a jsou „persekuováni“ za to, co „v roce 2015 rozpoutali zmrdi na Ukrajině“. Babišovi, vládě a Motoristům vzkazuje, ať s „rusofobií“ přestanou.
+
+**Zdroje:** [Rajchl — Vzkaz „lepševikům“: CAS vrací ruskou reprezentaci na MS v hokeji (30. 10. 2026)](_zdroje.md#jindřich-rajchl--vzkaz-lepševikům-cas-ruský-hokej-30-10-2026), [Rajchl — Nedělní vysílání: Polsko, hokej, poplatky, Aspen (1. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-polsko-hokej-poplatky-aspen-1-11-2026), [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 
 ---
 
@@ -1478,7 +1480,9 @@ K výzvě 50 států OSN (včetně ČR) k bezpodmínečnému příměří, ktero
 
 > „To si jako měli nechat srát pořád na hlavu? [...] Tadle celá vláda, s Andrejem Babišem, s Macinkou, s Turkem, s Borisem Šťastným, všichni tady tyhlenstí rusobijci, běžte do piče." — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
+**9. 11.** — Černohorský opakuje, že Putin za válku „nemůže“: speciální operace měla podle něj „osmiletý“ důvod. Uvádí Majdan, Minské dohody (přiznání „té svině Merkelové“), referenda z let 1991 a 1994, v nichž podle něj východ Ukrajiny chtěl federalizaci, a krymské referendum, při němž byli ruští vojáci na Krymu podle smlouvy. Krym je podle něj reakcí na „koketování“ Ukrajiny s EU a NATO, USA by se v opačné situaci zachovaly stejně. Babiše vyzývá, ať nechá zveřejnit šestidílný dokument ČT o neonacismu na Ukrajině. O „bujícím neonacismu“ psala podle něj ještě v lednu 2022 i Aktuálně, Novinky, Lidovky či Hospodářské noviny. Jako aktuální doklad uvádí státní pohřeb veterána divize SS Galizien. Připomíná, že ho za podobné výroky v roce 2022 obvinil z popírání genocidy „vojenský komunistický prokurátor“ Igor Stříž, on ale věděl, co říká, „aby mě zavřít nemohli“. Zdůrazňuje, že válku nechce a nemá radost z „tří milionů“ mrtvých Ukrajinců.
+
+**Zdroje:** [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 
 ---
 
@@ -1651,5 +1655,15 @@ K rozhodnutí Rady EU prodloužit výcvikovou misi EUMAM do listopadu 2028 (pře
 > „Česká republika nemá důvod se k tomu nepřipojit, protože tohle by zajistilo bezpečnost České republiky.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+
+---
+
+### Válka neskončí kvůli von der Leyenové, Kallasové a Zdechovskému — „maximálně třetí světovou“; dárci „Dárku pro Putina“ jsou „skurvený kundy“ (Černohorský, 9. 11. 2026) {#tretí-svetova-cernohorsky-9-11-2026}
+
+Černohorský chce, aby válka skončila, ale podle něj neskončí, dokud v Evropě rozhodují von der Leyenová, Kallasová, Zdechovský „a další“ s „progresivním Slovenskem“ v Evropském parlamentu. Skončí podle něj „maximálně třetí světovou válkou“. Lidstvo ji možná „potřebuje“, aby ti, kdo si na profil píšou „chci válku“, pochopili, že nejde o videohru, ale o životy. Dárce sbírek typu „Dárek pro Putina“ nazývá „čuráky“ a „obyčejnými skurvenými kundami“, „bez empatie, bez srdce, bez rozumu“. Na operaci nemocného chlapce Jiříka za 100 milionů se podle něj nevybere, ale na „vraždění Rusáků“ se vyberou miliardy. Zelenskyj a ukrajinští oligarchové podle něj rozkradli „takové miliardy, až to tříská dveřmi“. Výroky viz [Stochastický teror](stochasticky-teror.md).
+
+> „Neskončí to. Co si kurva myslíte? Jo, skončí, tak maximálně třetí světovou válkou.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 
 ---

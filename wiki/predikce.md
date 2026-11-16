@@ -85,6 +85,17 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
 
 ---
+### Jiří Černohorský — válka neskončí, dokud rozhodují von der Leyenová, Kallasová a Zdechovský; skončí „maximálně třetí světovou válkou“ (9. 11. 2026)
+
+**Předpověď:** Válka na Ukrajině podle něj neskončí, dokud evropskou politiku určují von der Leyenová, Kallasová, Zdechovský a další; skončí nanejvýš třetí světovou válkou.
+
+> „Neskončí to. Co si kurva myslíte? Jo, skončí, tak maximálně třetí světovou válkou.“ — Jiří Černohorský
+
+**Horizont:** neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+
+---
 ### Ladislav Vrabel — 17. listopadu se „bude dít něco vážného, něco velkého“, „liberálně progresivistický dav“ rozpoutá „něco velmi zlého“ (9. 11. 2026)
 
 **Předpověď:** Demonstrace na Letné 15. 11. má podle něj vyústit v pokračování 17. 11., kdy se stane „něco vážného, něco velkého“; „nahněvaný liberálně progresivistický dav“ se chystá v ČR „rozpoutat něco velmi zlého“, případné násilí přijde „až za tmy“.
