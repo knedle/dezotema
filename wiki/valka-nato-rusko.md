@@ -1677,3 +1677,13 @@ K atentátům na ruské důstojníky v Petrohradu a Moskvě Vrabel připomíná 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ---
+
+### Schůzka Trump–Putin–Si v Šen-čenu 19. 11.: dělení sfér vlivu, ne Ukrajina — USA Evropě v konfliktu „na pomoc nepůjdou“ (Vrabel, 14. 11. 2026) {#sfery-vlivu-vrabel-14-11-2026}
+
+Na schůzce Trumpa, Putina a Si Ťin-pchinga v Šen-čenu (APEC) se podle Vrabela nebude řešit Ukrajina, ale sféry vlivu a jaderná dohoda. Rozvíjí tím svou představu „nové Jalty“ z 9. 11.: Evropa se podle něj „může těšit“, že jí Američané v případném konfliktu nepomohou. K ruským požadavkům na návrat NATO ke stavu z roku 1997 připomíná, že jde o návrhy smluv z roku 2021, které Západ odmítl projednat.
+
+> „Evropa se může těšit na to, že Američani v případě, že by došlo k nějakému konfliktu, prostě na pomoc Evropě nepůjdou.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+
+---

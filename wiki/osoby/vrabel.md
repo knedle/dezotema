@@ -315,6 +315,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - ⚡ Medvedev kritizuje útok USA na Írán jako „zhroucení mezinárodního práva" — Vrabel žádá mezinárodní izolaci USA — [Zprávy v devět 4. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-7-2026) → [blizky-vychod.md](../blizky-vychod.md)
 - Konspirace „Mezimoří" — návrat šlechty/Habsburků vs. skupování majetku korporativní skupinou (host Vítová, panelová debata 9. 7.) — [speciální stream: Ankara 9. 7.](../_zdroje.md#ladislav-vrabel--speciální-stream-ankara-panelová-debata-9-7-2026)
 - **13. 11.** — Letná jako „politický převrat“ CIA, poplatky jen záminka → [konspirace.md](../konspirace.md#studenti-cia-revoluce-vrabel-10-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+- **14. 11.** — výpadky v USA jako „první příznaky pádu Západu“, „následuje velká válka“ → [konspirace.md](../konspirace.md#pad-zapadu-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -346,6 +347,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Maďarský influencer Ištvan Šakáč zadržen za výrok na podporu Orbána — obhajuje právem na odpor (čl. 23 Listiny) — [Zprávy v devět 9. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-7-2026)
 - **12. 7.** — hormonální španělské vepřové maso, potravinová soběstačnost — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - Postoj ke spojení ČR-SR — respekt k slovenské vůli, preference decentralizace — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
+- **14. 11.** — Babiš a Havlíček „herci“ jako Fiala, referendum neprojde, systém „zločinný“, probudit 7 % lidí → [politicky-system.md](../politicky-system.md#zlocinny-system-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 
@@ -421,6 +423,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **30. 7.** — Fauci se odvolal na 5. dodatek (kontrast s beztrestností v ČR); bezpečnostní dohoda Polsko–Ukrajina (SBU na polském území); sankční seznam EU z 2014 (sdílení RT/Sputniku = trestný čin); EU AI „gigatovárny" (sběr dat, ne konkurenceschopnost); sucho odstavuje jaderné elektrárny v Rumunsku/Maďarsku; raketa v Polsku, Tusk „50 na 50"; výroba CV90 v Šenově (+ anekdota Konečná); Nuland přiznala sabotáž mírových jednání 2022; eskalace v Ceutě (obchod s dětmi, žádné hranice ČR–Španělsko); opakování Rafale/ASMP (demonstrovat před podpisem) — [Zprávy v devět 30. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-30-7-2026) → [covid-vakciny.md](../covid-vakciny.md), [valka-nato-rusko.md](../valka-nato-rusko.md), [dsa-cenzura.md](../dsa-cenzura.md), [digitalni-kontrola.md](../digitalni-kontrola.md), [ceny-energie.md](../ceny-energie.md), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md), [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md), [migrace.md](../migrace.md), [jaderne-zbrane.md](../jaderne-zbrane.md)
 - **31. 7.** — migrační pakt vynutí přerozdělení migrantů z Ceuty do zemí, kde „ještě nejsou" (Polsko, ČR, Slovensko, Maďarsko) — [Videoportál 31. 7.](../_zdroje.md#ladislav-vrabel--videoportál-31-7-2026) → [migrace.md](../migrace.md)
 - **13. 11.** — příměří jako „kopice dynamitu“, EU „finančně závislá“ na válce, ruská aktiva jako krádež, Ukrajina „nacistický režim“; po mírových jednáních teroristický útok „a pak to začne“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#kopice-dynamitu-vrabel-13-11-2026), [valka-nato-rusko.md](../valka-nato-rusko.md#teroristicky-utok-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+- **14. 11.** — Šen-čen: sféry vlivu, USA Evropě nepomohou; Bergen Group a „nejpodřízenější role“ ČR → [valka-nato-rusko.md](../valka-nato-rusko.md#sfery-vlivu-vrabel-14-11-2026), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#bergen-group-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -470,6 +473,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Macinka „ČR nejbezpečnější díky absenci muslimů" — Vrabel oponuje (islám v ČR existuje) — [Zprávy v devět 17. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-7-2026)
 - EU odmítla registrovat iniciativu Save Europe Act (remigrace); migrační pakt jako nevyhnutelnost — [Zprávy v devět 23. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-7-2026)
 - **24. 7.** — EU zruší ochranu ukrajinským mužům 18–65 let — kritika jako nehumánní dvojí metr vůči ostatním uprchlíkům — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
+- **14. 11.** — přísnější slučování rodin „zbabělé, nehumánní“, islám a Hitler → [migrace.md](../migrace.md#slucovani-rodin-islam-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 
 ### [Ceny energie a ekonomika](../ceny-energie.md)
 - Zánik německých pivovarů a propouštění ve VW jako signál automatizace; predikce plné AGI/nezaměstnanosti 2027–2028 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -2383,6 +2387,11 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Julian Reichelt | ✅ pozitivní | „Náš člověk“, nezávislý novinář | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
 | Russell Brand | ✅ pozitivní | „Gentleman“ odsouzený bez důkazů | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
 | Ivan Trojan | ❌ negativní | „Půjde pracovat pro CIA“ | 2026-11-13 | [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026) |
+| Andrej Babiš, Karel Havlíček | ❌ negativní | „Pitomci“, „herci“ jako Fiala | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
+| Petr Pavel | ❌ negativní | „Slouží NATO“ | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
+| Karol Nawrocki | ✅ pozitivní | Vetoval zákon o digitálních službách | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
+| Călin Georgescu, Reiner Fuellmich, Russell Brand | ✅ pozitivní | „Lídři boje za svobodu“, oběti systému | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
+| Donald Trump | ⚖️ rozporuplný | „Pilot bez motorů“, ale nechce válku s Kubou | 2026-11-14 | [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026) |
 
 ---
 
@@ -2594,3 +2603,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Facebook Live 10. 11. 2026](../_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026)
 - [Zprávy v devět 11. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 - [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+- [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)

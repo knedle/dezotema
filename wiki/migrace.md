@@ -964,3 +964,13 @@ Zítko označuje migranty za „trojského koně“ a „hordy“ tvořené jen 
 **Zdroje:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---
+
+### Přísnější slučování rodin uprchlíků má jen udržet Ukrajince na frontě — „zbabělé, nehumánní“; Hitler se prý „inspiroval krutostí islámu“ (Vrabel, 14. 11. 2026) {#slucovani-rodin-islam-vrabel-14-11-2026}
+
+Návrh devíti států EU včetně ČR na přísnější slučování rodin uprchlíků Vrabel odmítá jako „zbabělý, nehumánní“ a neřešící problém. Jeho skutečným cílem je podle něj udržet ukrajinské muže na frontě. Řešením je ukončit válku a umožnit Ukrajincům návrat. Ke zprávě ze Švédska, že EU financovala organizaci napojenou na Muslimské bratrstvo, říká, že islám je „politický systém dobývání“ a Hitler se „velmi inspiroval u té krutosti Mohameda a vůbec celého islámu jako systému“.
+
+> „Za prvý to je zbabělý, za druhý je to nehumánní a za třetí to vůbec neřeší problém.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+
+---

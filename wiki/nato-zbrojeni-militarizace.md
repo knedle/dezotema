@@ -1045,3 +1045,13 @@ K jednání ministrů financí EU s Markem Ruttem o společných nákupech zbran
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ---
+
+### ČR nepozvána do Bergen Group — vlastní vina „onuce“ v „nejpodřízenější roli“; první půjdou záložáci (Vrabel, 14. 11. 2026) {#bergen-group-vrabel-14-11-2026}
+
+To, že ČR nebyla přizvána do skupiny Bergen Group v rámci NATO, je podle Vrabela vina samotné ČR, která se staví do role „onuce“ a „toho nejpodřízenějšího“: muniční iniciativa, prezident Pavel, který podle něj „slouží NATO“, a premiér, kterého nazývá „Slovákem“. V případě války podle něj „první půjdou záložáci“.
+
+> „Prostě se stavíme do role úplně toho nejpodřízenějšího.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+
+---

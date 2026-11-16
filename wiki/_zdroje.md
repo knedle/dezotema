@@ -6432,3 +6432,11 @@
 - **Datum záznamu:** 2026-11-13
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 27 min, zprávy čte Zuzka; den summitu EU v Dublinu, dva dny před demonstrací na Letné. 23 témat v denním přehledu, 10 s vlastním úhlem (⚡). Stochastický teror nezjištěn. Zpracováno podle podkladů pomocného agenta.
+
+## Ladislav Vrabel — Zprávy v devět 14. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-14-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-14_Ladislav-Vrabel_14-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1425772529722266>
+- **Datum záznamu:** 2026-11-14
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 21 min, den po summitu v Dublinu (jeho výsledek nekomentoval), den před Letnou. 21 témat v denním přehledu, 7 s vlastním úhlem (⚡). Stochastický teror nezjištěn. Zpracováno podle podkladů pomocného agenta.

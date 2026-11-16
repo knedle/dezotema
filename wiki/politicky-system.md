@@ -913,6 +913,16 @@ Nově zvoleného senátora Grolicha (podle Černohorského 5,6 milionu ročně, 
 
 ---
 
+### Babiš jako stejný „herec“ jako Fiala, referendum Senátem neprojde, systém je „zločinný“ — jen probudit 7 % lidí (Vrabel, 14. 11. 2026) {#zlocinny-system-vrabel-14-11-2026}
+
+Babiše, který se v Dublinu usmíval na Zelenského, a Havlíčka, který Ukrajině nabízí letadla, Vrabel nazývá „pitomci“ a „herci“ a ptá se, proč byl špatný Fiala, a ne Babiš s Havlíčkem. Zdražování (voda o 250 %) podle něj jde na Ukrajinu. Vlastencům, kteří ho kritizovali, vzkazuje, že se mu budou muset omluvit. Referendum o vystoupení z EU a NATO by podle něj neprošlo Senátem a politika „menšího zla“ nefunguje: „jediné, co se dá“, je probudit 7 % lidí, vytáhnout je do ulic a systém změnit. K poplatku za dešťovou vodu říká, že daňový systém je „džungle“, stát bere 75 % příjmů, přijatelná by byla daň 1 % z převodů a politici jsou na stát napojeni přes veřejné zakázky (Hrdlička). „Parazitů“ je podle něj asi 20 %. Zabavení 20 milionů dolarů u Šestáka v Maďarsku komentuje tím, že „ti, co to umějí“ (Babiš, Fiala, kampeličky), zůstávají nepotrestáni.
+
+> „Ten systém je zločinej. Sám od sebe prostě v celý svý podstatě se všema těma hercema… je zločinej.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

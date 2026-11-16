@@ -1197,3 +1197,13 @@ S odkazem na video neuvedeného autora Vrabel vysvětluje zdánlivě nelogické 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
 
 ---
+
+### Výpadek letecké dopravy v USA, Microsoftu a propady trhů jako „první příznaky pádu Západu“ — „z historického hlediska následuje velká válka“ (Vrabel, 14. 11. 2026) {#pad-zapadu-vrabel-14-11-2026}
+
+Zastavení letů v USA, výpadek Microsoftu v 75 zemích, mrazy ve Francii a propady akcií a kryptoměn při vysokých úrokových sazbách vykládá Vrabel jako „první příznaky pádu Západu“. Podle něj se systém hroutí a „z historického hlediska následuje velká válka“. Trumpa v této souvislosti nazývá „pilotem bez motorů“, kterému se nic nedaří, přičemž pád akcií technologických a AI firem teprve přijde.
+
+> „Z historického hlediska následuje velká válka.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+
+---
