@@ -141,6 +141,18 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Zdroj:** [Ladislav Vrabel — Nedělní vysílání 8. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-8-11-2026)
 
 ---
+### Pavel Zítko — EBS „teď v listopadu“, bankovní kolaps bez internetu a mírový plán s obnovou ČSR a novými hranicemi „co nevidět“ (9. 11. 2026)
+
+**Předpověď:** Systém EBS bude spuštěn „pravděpodobně teď v listopadu“ (podle výkonných příkazů 13848/13818) a vysílání poběží ve třech osmihodinových smyčkách. Přijde kybernetický útok, bankovní kolaps a výpadek internetu. „Co nevidět“ bude na stole mírový plán Trumpa, Putina a Si Ťin-pchinga, jehož součástí bude obnova Československa podle zákona 11/1918 a nové hranice v Evropě.
+
+> „Emergency broadcast system bude pravděpodobně spouštěn teď v listopadu.“ — Pavel Zítko
+
+**Horizont:** listopad 2026 (EBS); „co nevidět“ (kolaps, mírový plán)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
+
+---
+
 ### Pavel Zítko — 9. 11. nastoupí „Stephen Miller 2.0“ a „bude to lítat“; EBS a „velké odhalení“ do dnů až měsíců; banky padnou jako domino (8. 11. 2026)
 
 **Předpověď:** 9. 11. nastoupí Stephen Miller (podle Zítka „2.0“, tedy náhrada) jako šéf kanceláře Bílého domu místo Susie Wiles a „začne veliký točo“. Systém EBS s 10denním výpadkem komunikací a „velké odhalení“ (mj. J. D. Vance jako zrádce) přijdou v řádu „dnů, týdnů, maximálně měsíců“. Banky budou „padat jako domino“.
@@ -149,7 +161,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** 9. 11. 2026 (Miller); dny až měsíce (EBS, odhalení); neurčeno (banky)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
+**9. 11.** — Zítko nástup Millera 9. 11. prohlašuje za splněný („dneska… úplnou náhodou nahradil“), „lítání“ ale konkrétně nedokládá. Stav ponechán do ověření.
+**Zdroj:** [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 
 ---
 

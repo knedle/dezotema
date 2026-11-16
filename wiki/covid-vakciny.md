@@ -1336,6 +1336,10 @@ Zítko tvrdí, že chtěl jako první dovézt vakcíny ze Švýcarska jen pro Ba
 
 > „Patent na COVID-19 měl jistý pan Rothschild už od roku 2015.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026)
+**9. 11.** — Podle sdílených příspěvků Zítko tvrdí, že mRNA injekce s promotorem SV40 způsobují „turbo rakoviny“ (v Anglii prý rekordních 1 021 případů denně) a lipidové nanočástice pronikají do buněčných jader, takže mohou lidi „nejenom zabít, ale udělat z nich biorobota“. Porodnost je podle něj o 30 % nižší než v roce 2021. Za varování podle svých slov čelí policii a justici. Babišovi vyčítá, že na rozdíl od Trumpa nevystoupil z WHO (připomíná desatero Jindřicha Rajchla). Šéfa WHO Tedrose nazývá „úchylem“, který patří před vojenský tribunál. Odpovědnost za očkovací škody podle něj nesou „Andrej Babiš, celá jeho vláda, ministři zdravotnictví, teď je tam Vojtěch“ a „všichni aktéři musí skončit před vojenským tribunálem“ za „genocidu, masové vraždy a sterilizaci obyvatelstva“. O von der Leyenové („potomek fašounů“) míní, že pro ni má armáda „i trest výjimečný“. Výroky viz [Stochastický teror](stochasticky-teror.md).
+
+> „Všichni aktéři musí skončit před vojenským tribunálem a zodpovídat se ze zločinů genocidy, masových vražd a sterilizace obyvatelstva.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Živě: „Proč nejsi větší?“ (27. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-proč-nejsi-větší-27-10-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 
 ---

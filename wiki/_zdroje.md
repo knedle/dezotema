@@ -6368,3 +6368,11 @@
 - **Datum záznamu:** 2026-11-08, cca 20:11 (soubor datován 9. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 5 min, „8/11 Nedělní chvilka poezie 8:11“. Zhruba polovinu tvoří předčítání cizích QAnon textů a přehrávání (Q-drop, EBS, Ron Star, Charlie Ward/Pi, „Lion White“, hymna RF). Zpracováno všech 12 témat, 1 souhrnná predikce. Stochastický teror nezjištěn (hraniční: předčítané „krádež voleb je trest smrti“ a žertovný „gulag“ bez pojmenovaného terče). Zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026) {#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-10_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=2155089745373021>
+- **Datum záznamu:** 2026-11-09, cca 21:11 (soubor datován 10. 11.)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 11 min, „9/11 Zprávy k novoluní 9:11“. Vlastní řeč tvoří asi 25–30 %, zbytek je předčítání cizích příspěvků (Lion White, Sofia Esmeralda, Telegram, článek o SWIFT/QFS) a promo (Essence, Bewit). Zpracováno 12 témat, 1 predikce, 3 výroky stochastického teroru (Tedros, Babiš a vláda, von der Leyenová). Zpracováno podle shrnutí pomocného agenta, citace stochastického teroru ověřeny v přepisu.

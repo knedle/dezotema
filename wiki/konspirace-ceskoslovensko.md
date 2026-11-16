@@ -352,7 +352,11 @@ Zítko zesměšňuje představu, že by ČR mohla z EU vystoupit „protestní n
 
 > „Pravděpodobně z tohoto důvodu byl odstraněn.“ — Pavel Zítko
 
-**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
+**9. 11.** — Zítko tvrdí, že „Peking se vyjádřil, že na 99 % bude obnoveno Československo“. Obnova proběhne podle „platného zákona číslo 11 z roku 1918“ bez referenda a bez chaosu, Benešovy dekrety stále platí a zákon 542/1992 o zániku federace je „od začátku neplatný“, protože „akt vlastizrady je nepromlčitelný“. Referendum by mělo proběhnout jen na východě, o případném připojení Zakarpatské Ukrajiny v hranicích z roku 1918. Po skončení konfliktů v Íránu a na Ukrajině přijde podle něj „definování nových hranic v Evropě i na světě“ v rámci mírového plánu Trumpa, Putina a Si Ťin-pchinga, který bude „co nevidět na stole“. Nerozhodnou o tom „ani Babiš, ani Pávek, ani Fiala, ani Rakušan“. Lidé si mají zvolit zástupce pro jednání „jako ve Versailles“. Zesměšňuje, že prezidentem ČSR by teď chtěli být i „falešný Čermák“ a Jiří Černohorský.
+
+> „Stejně jako za druhé světové války, kdy jsme byli 6 let rozdělený, se zase Československo podle platného zákona číslo 11 z roku 1918 zase spojí.“ — Pavel Zítko
+
+**Zdroje:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026), [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 
 ---
 
