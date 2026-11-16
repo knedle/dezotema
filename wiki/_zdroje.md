@@ -6408,3 +6408,11 @@
 - **Datum záznamu:** 2026-11-13, 11:11 (soubor datován 14. 11.)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 57 min, „13/11 Šťastný pátek třináctého 11:11“. Vlastní řeč tvoří asi 70–75 %, zbytek je předčítání (Cvalín, Hambálková, World Report, Bossy, Weidel, Hulscher, Stockwell, Q-phone/TIR 4B) a asi čtvrthodinová reklama na Bewit. Zpracováno 10 témat a 1 nová predikce. Stochastický teror nezapsán, hraniční „banda gaunerů a spolupachatelů vražd“ (Prymula, Flegr, Kubek, Hořejší) je bez výzvy. Zpracováno podle shrnutí pomocného agenta.
+
+## Československo TV2 — Živě: „Letadla a vlaky v USA“ (14. 11. 2026, 11:11) {#československo-tv2--živě-peterková-letadla-a-vlaky-v-usa-14-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-15_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1656718892857909>
+- **Datum záznamu:** 2026-11-14, 11:11 (soubor datován 15. 11., dopolední ze dvou vysílání toho dne)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 16 min, „14/11 Letadla a vlaky v USA 11:11“. Vlastní řeč tvoří asi 55–60 %, dále předčítání postů (Hegseth/Miller, RFK Jr., výpadky) a asi 15 minut reklamy na Bewit. Zpracováno 10 témat, predikce jen jako doplnění k 13. 11. Stochastický teror nezjištěn, „one-way ticket čeká i na ně“ míří na nepojmenované politiky. Zpracováno podle shrnutí pomocného agenta.

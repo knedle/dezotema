@@ -149,7 +149,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** do cca 18. 12. 2026 (35 dní); 1. 12. 2026 (Q-phone); +120 dní (volby)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
+**14. 11.** — Dopoledne Zítko uvádí, že EBS test 17. 11. se „možná přetočí na ostré vysílání“, a znovu počítá „35 dnů“ (tentokrát od 14. 11.).
+**Zdroj:** [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026), [ČsTV2 — Živě: „Letadla a vlaky v USA“ (14. 11. 2026, 11:11)](_zdroje.md#československo-tv2--živě-peterková-letadla-a-vlaky-v-usa-14-11-2026)
 
 ---
 
