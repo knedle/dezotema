@@ -6320,3 +6320,11 @@
 - **Datum záznamu:** 2026-11-11
 - **Zpracováno:** ano
 - **Poznámka:** 1,5 min, výstřih z TV debaty k Merzovu „vydírání“. Nové je srovnání s Macinkovou SMS a podpora Babiše, zbytek se opakuje (60 mld. ročně, korupce, mafie).
+
+## Jindřich Rajchl — „Ulovil Sokola“ (12. 11. 2026) {#jindřich-rajchl--ulovil-sokola-12-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-12_Jindřich-Rajchl_Po-zkrocení-Činčily-jsem-druhý-den-ulovil-Sokola.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1031399999974627>
+- **Datum záznamu:** 2026-11-12
+- **Zpracováno:** ano
+- **Poznámka:** 1 min, výstřih z TV debaty (Papajanovský, Nachl) k Merzovu „vydírání“. Nově: 45 mld. eur na deficit ukrajinského rozpočtu na jediný rok. Jinak opakování.

@@ -995,8 +995,10 @@ Rajchl tvrdí, že německý kancléř Friedrich Merz „rozjel brutální vydí
 
 **11. 11.** — V televizní debatě Rajchl souhlasí s Babišem a Ficem, že jde o vydírání, a oceňuje „pevnou pozici“ premiéra Babiše. Opozici vyčítá dvojí metr: když Petr Macinka poslal Petru Pavlovi SMS, že bez dohody čeká „extrémní kohabitace“, opozice podle něj dva měsíce křičela o vydírání prezidenta a podávala trestní oznámení. Merzův tlak je podle něj „stokrát horší“, a přesto ho tíž lidé nazývají „stylem vyjednávání“. Nejde prý o mír, ale o to, že ukrajinský rozpočet bude v hlubokém deficitu ještě mnoho let.
 
+**12. 11.** — V další debatě Rajchl upřesňuje, že 45 miliard eur nemá jít na obnovu Ukrajiny, ale na zalepení deficitu jejího státního rozpočtu na jediný rok. Záruka ČR za tento jeden rok dělá podle něj zhruba 60 miliard korun. Opozici, která „nechce zadlužovat naše děti“, vyčítá, že je ochotna ručit za tuto částku každý rok, aby se na Ukrajině peníze „rozkrádaly“ na „zlaté záchody a bidety“.
+
 > „Tohle je přece stokrát horší. Tady nejde, prosím vás pěkně, o nějaký mír.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026), [Rajchl — „Zkrocení štěkající Činčily“ (11. 11. 2026)](_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026)
+**Zdroje:** [Rajchl — Vláda nesmí ustoupit vydírání Merze (10. 11. 2026)](_zdroje.md#jindřich-rajchl--merz-vydírání-ukrajina-10-11-2026), [Rajchl — „Zkrocení štěkající Činčily“ (11. 11. 2026)](_zdroje.md#jindřich-rajchl--zkrocení-štěkající-činčily-11-11-2026), [Rajchl — „Ulovil Sokola“ (12. 11. 2026)](_zdroje.md#jindřich-rajchl--ulovil-sokola-12-11-2026)
 
 ---
