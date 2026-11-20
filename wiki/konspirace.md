@@ -335,7 +335,11 @@ Vrabel tvrdí, že chemtrails (kondenzační stopy letadel) jsou záměrné syp�
 
 **2. 10. (Černohorský)** — Černohorský natáčí oblohu a tvrdí, že útvary, které stojí při bezvětří na místě, nemohou být kondenzační stopy („tohle nevytváří příroda… toto je lidská činnost"); popírače chemtrails, mezi něž dřív sám patřil, označuje za hlupáky. Účelem je podle něj zastínit slunce, aby lidé neměli vitamin D a byli nemocní, ve prospěch farmaceutických firem — „satanistů"; těžké kovy se prý „chemicky vážou na molekuly vody", padají s deštěm a kontaminují vše včetně bio potravin (známá prý nechala rozebrat dešťovou vodu s „celou Mendělejevovou tabulkou"). Sám si podle svých slov vyléčil „otravu krve" bylinkami a mentálním nastavením; glyfosát označuje za „povolený rakovinotvorný jed".
 
-**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Reels: chemtrails a Prague Pride (2. 10. 2026)](_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026)
+**18. 11.** — Vrabel pouští video Radovana Dluhého k petici spolku Čistá obloha, voda, půda, která žádá Senát o prošetření „modifikace počasí“. Podle petice bývalý pracovník ČHMÚ naměřil v dešťové vodě za osm dní 560 kg kovů na km², tedy desítky tisíc tun na celou ČR. Vrabel vyzývá k podpisu (při 10 000 podpisech se jí Senát musí zabývat). Dluhého prý nezná, chce jen, aby Senát „zjistil, jestli je to pravda, nebo ne“, protože hliník je jedovatý. Ironizuje vládního zmocněnce Filipa Turka, který „sype tady ty větráky“.
+
+> „Tak ať to prověří, ať udělají rozbory, ať pověří příslušné úřady, ať víme, jaký je tady bezpečí.“ — Ladislav Vrabel
+
+**Zdroje:** [Vrabel — Večerní zprávy 15. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-15-5-2026), [Vrabel — Nedělní vysílání 27. 9. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-27-9-2026), [Černohorský — Reels: chemtrails a Prague Pride (2. 10. 2026)](_zdroje.md#jiří-černohorský--reels-chemtrails-2-10-2026), [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
 
 ---
 
@@ -1221,3 +1225,14 @@ Zastavení letů v USA, výpadek Microsoftu v 75 zemích, mrazy ve Francii a pro
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ---
+
+### Čínu neřídí Kneset, ale globalistické finance působí i v Rusku a Číně; „ne za vším stojí chazarští židé“; Zelenskyj „se bude smažit v pekle“ (Vrabel, 18. 11. 2026) {#cina-kneset-chazari-vrabel-18-11-2026}
+
+Na tvrzení z diskuzí, že Čínu řídí Kneset nebo Chabad Lubavič, Vrabel odpovídá, že skupina „chazarských židů“, která podle něj vytvořila systém Fedu a centrálních bank, působí přes velké finance a nadnárodní korporace i v Rusku a Číně. Čtrnáctisetmilionový národ se ale izraelským parlamentem řídit nenechá a v Číně se zkorumpovaní politici popravují. Sociální kredit, kontrola přes AI a digitální platby v Číně jsou podle něj „globalismus“, ne vláda Knesetu. Zelenského označuje za „chazarského žida“, ale „ne za vším stojí chazarští židé“ a někteří Ukrajinci jsou „prostě jenom náckové“. Na dotaz diváka dodává, že mu nezáleží na tom, zda je Zelenskyj Žid, ale na výsledcích: válka, za kterou platí celá Evropa, a „miliony mrtvých“.
+
+> „Takže ono to nebude úplně tak jednoduché, jako že by rodina Rothschildovic a Rockefellerovic řídila kompletně celou Čínu.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+

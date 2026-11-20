@@ -974,3 +974,13 @@ Návrh devíti států EU včetně ČR na přísnější slučování rodin uprc
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 
 ---
+### Islám jako „největší problém světa“ a „systém, ne náboženství“: studie Pew, Mohamed a šaría (Vrabel, 18. 11. 2026) {#islam-nejvetsi-problem-vrabel-18-11-2026}
+
+Ke studii Pew, podle níž bude islám do roku 2035 nejrozšířenějším náboženstvím, Vrabel opakuje, že od roku 2013 tvrdí, že „největší problém našeho světa je islám“. Globalizaci, která podle něj chystá „otroctví s lidskou tváří“ s digitální měnou, označuje za druhý problém. Islám podle něj nelze oddělit od Mohameda. Tvrdí, že Mohamed měl ženu Ájšu od jejích šesti let, že podle výkladů šaríi smí být dívka provdána před první menstruací a že je to „naprosto běžné v dnešní západní Evropě“. „Správný muslim“ podle něj nerespektuje sekulární právo a chodí pro rozsudky do mešit. Islám je podle něj z větší části ekonomický, politický, sociální a právní systém (zákaz úroků, zakát), a proto je jeho početní převaha nad křesťanstvím „alarmující“. Zdůrazňuje, že se nevyjadřuje k víře, ale k právu.
+
+> „Takže islám je z velký částky ekonomický, politický, sociální a právní systém. Z větší částky, než je to náboženství.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+

@@ -557,6 +557,16 @@ Vrabel při přípravě zpráv zjistil, že tři položky, které poslal z Russi
 
 ---
 
+### Sankce EU na irského novináře: „proruský narativ“ je vše, co není v ČT; na české novináře to přijde „do půl roku, maximálně do roku“ (Vrabel, 18. 11. 2026) {#sankce-novinar-vrabel-18-11-2026}
+
+Ke zprávě, že EU zmrazila majetek a zakázala cestování irskému novináři (pravděpodobně Chayi Bowesovi) za „proruskou propagandu“, Vrabel říká, že za „proruský narativ“ dnes establishment považuje cokoli, co není v ČT. Je rád, že v EU nemá žádný majetek, a moderátorce i kolegům radí převést nemovitosti a účty mimo EU. V ČR podobné sankce očekává do půl roku, nejpozději do roka.
+
+> „Jestli to je dneska v Irsku, tak bych čekal, že v České republice to přijde tak do půl roku, maximálně do roku.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+
 ## Nová alternativní média
 
 ### Jan Štern (ČT2): dokument o selhání policie na FF UK byl zastaven na všech úrovních (29. 5. 2026)

@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — po Šen-čenu se USA vrátí k válce s Íránem a „chytí Kubu“ až po Grónsko, Rusko dostane volnou ruku vůči Evropě; sankce EU na české novináře do roka (18. 11. 2026)
+
+**Předpověď:** Trump, Putin a Si se podle Vrabela dohodnou na vzájemném neútočení a nepoužití jaderných zbraní. Putin dostane záruku, že USA nezasáhnou, kdyby použil zbraně proti Evropě. Pak se USA vrátí k válce s Íránem, „chytí Kubu“ a další státy „až po Grónsko“ a Čína si vezme Tajvan. Během summitu bude klid (bez odvety Orešnikem). Sankce EU podobné těm proti irskému novináři dopadnou na české novináře „do půl roku, maximálně do roku“.
+
+> „A pak, když se tohle stane, a předpokládám, že se to stane, tak předpokládám potom, že USA bude zpátky do války na Írán, bude chytat Kubu, samozřejmě i ostatní státy okolo v celý té oblasti až po Grónsko.“ — Ladislav Vrabel
+
+**Horizont:** po summitu APEC (od 19. 11. 2026), neurčeno; sankce na novináře do 18. 5.–18. 11. 2027
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+
 ### Ladislav Vrabel — druhé, „tvrdší“ kolo války USA s Íránem; půjčka 45 mld. eur projde kvalifikovanou většinou; první zkrachuje Francie (17. 11. 2026)
 
 **Předpověď:** Válka USA s Íránem bude podle Vrabela pokračovat druhým, tvrdším kolem, zlom má nastat „někde mezi 19. až 20.“ (bez jaderných zbraní). Nová půjčka Ukrajině 45 mld. eur na rok 2027 bude schválena kvalifikovanou většinou navzdory Ficovi. „První stát, který zkrachuje v Evropě, bude Francie.“
@@ -20,7 +32,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** zlom v Íránu kolem 19.–20. 11. 2026 (nejasné); půjčka: jednání od 18. 11. 2026; Francie: neurčeno
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
+**18. 11.** — Termín upřesňuje na „mezi 19. a 20. až někdy 7. příštího měsíce“, tedy 19./20. 11. až 7. 12.
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026), [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
 
 ---
 
@@ -145,7 +158,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **14. 11.** — Výsledek summitu Vrabel nekomentoval, jen že se Babiš v Dublinu usmíval a podával ruku Zelenskému.
 **15. 11.** — Vrabel predikci považuje za naplněnou: „my v Čechách řekneme, že za to neručíme. Což neznamená moc, že za to neručíme, protože to platíme.“ Stav ponechán do ověření skutečného výsledku summitu.
 **16. 11.** — Ke schválení 8 mld. eur pro Ukrajinu Evropskou radou Vrabel sarkasticky poznamenává: „Odhlasoval tuto půjčku Andrej Babiš. A hned potom letí… do Izraele.“
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+**18. 11.** — Vrabel opakuje, že Babišovo „nebudeme ručit“ je u nové půjčky 45 mld. eur „samozřejmě nesmysl“, protože EU si půjčuje a splácí z rozpočtu.
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026), [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
 
 ---
 ### Ladislav Vrabel — studentské protesty řízené „CIA“ svrhnou Babišovu vládu dřív než za tři roky; Studentstvo postaví vlastní kandidátku, 17. 11. vyvrcholí jen „první vlna“ (10. 11. 2026)

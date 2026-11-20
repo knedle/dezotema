@@ -1049,6 +1049,10 @@ Witkoff a Kushner jedou jednat do Berlína a Rusko podle Vrabela pozve EU k jedn
 
 > „99 % veškerý aktivity Evropské unie spočívá v tom, že řeší Ukrajinu. To prostě, to je Kyjev 2. Brusel je Kyjev 2 dneska.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
+**18. 11.** — Vrabel opravuje zprávu, že Ukrajina půjčku 45 mld. eur splatí z ruských reparací. Jsou to podle něj „dvě půjčky“: EU si půjčí a splatí to z rozpočtu, tedy „z našich kapes“, a pak půjčí Ukrajině, která splácí jen reparacemi s „velmi, velmi malou“ pravděpodobností. Babišovo „nebudeme ručit“ je proto „samozřejmě nesmysl“ a ČR fakticky „platí ukrajinský státní rozpočet“. Babiš se od Fialy liší jen tím, že Fiala podporu Ukrajiny říkal otevřeně, kdežto Babiš říká „všechno pro ČR“ a platí.
+
+> „To je to, za co říkal Andrej Babiš, že nebudeme ručit. To je ta první půjčka, což je samozřejmě nesmysl.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026), [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
 
 ---

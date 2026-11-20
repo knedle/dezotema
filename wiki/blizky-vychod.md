@@ -701,6 +701,10 @@ Ke zprávě CNN, že Írán zvažuje útoky na představitele Trumpovy administr
 
 > „Jsem docela si skoro až jistý, bych řekl, že ta válka bude pokračovat druhým kolem, že to druhé kolo bude trošku tvrdší ze strany Spojených států.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
+**18. 11.** — Ke zprávě, že izraelská armáda v Gaze překročila „žlutou linii“, Vrabel s odkazem na amerického vojenského analytika říká, že Trump má rád vítěze, kdežto Netanjahu je „prohraný“ (volby, parlament, vláda i válka). Přesto za ním jeli Babiš a Macinka. Trump je podle něj zavázán „sionistickým lobby“. Termín druhého kola války v Íránu upřesňuje na „mezi 19. a 20. až někdy 7. příštího měsíce“.
+
+> „Jak už jsem vám říkal včera, předpokládám, že někdy mezi 19. a 20. až někdy 7. příštího měsíce by mělo začít druhý kolo války v Íránu.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026), [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
 
 ---

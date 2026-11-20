@@ -1692,7 +1692,11 @@ Na schůzce Trumpa, Putina a Si Ťin-pchinga v Šen-čenu (APEC) se podle Vrabel
 
 > „Zatím mám takový pocit, že skóre jeho je 90 % z toho, co řekne, že se stane, se nestane.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
+**18. 11.** — Summit APEC v Šen-čenu je podle Vrabela „milník“: po něm je „celému světu jasné“, že USA nejsou jediným lídrem a „dneska je tady nový multipolární svět“, o kterém Putin mluvil už 24. 2. 2022. Poděkovat se má Rusku, které se postavilo „primárně americké válce proti Rusku skrze Ukrajinu“, a Číně, která je technologicky „velmoc číslo jedna“ (roboti, budovy řízené AI, Pás a stezka). Evropa se ještě „musí probrat“, „možná, že to způsobí nějakou ještě vojenskou konfrontaci“. Od schůzky čeká dohodu o vzájemném neútočení a nepoužití jaderných zbraní. Trump chce volnou ruku proti Íránu, Si jasno o Tajvanu a Putin „záruku, že v případě, že by použil nějaké zbraně proti Evropě, Amerika nezasáhne“. Pak se podle něj USA vrátí k válce s Íránem, „chytí Kubu“ a další státy „až po Grónsko“, Rusko bude mít „silnější lokty“ vůči Evropě a Čína si vezme Tajvan. Dodává, že jsou to „jenom moje představy, nemám žádné informace“. Během summitu čeká klid i navzdory výzvám k odvetě Orešnikem za Krymský most.
+
+> „Dneska je tady nový multipolární svět.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026), [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
 
 ---
 
@@ -1709,3 +1713,14 @@ Vrabel rozvíjí scénář, v němž se Trump, Putin a Si dohodnou na sférách 
 **Zdroje:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 
 ---
+
+### Colby: ukrajinské údery hluboko v Rusku nefungují, štvaní Rusů proti Putinovi selhalo; „zmařený ruský útok“ v Polsku — „musí to být Rusové“, riziko false flag (Vrabel, 18. 11. 2026) {#colby-polsko-false-flag-vrabel-18-11-2026}
+
+Kritiku ukrajinských úderů hluboko v Rusku od amerického náměstka Elbridge Colbyho Vrabel vykládá jako přiznání neúčinnosti. Západ podle něj doufal, že teroristické útoky obrátí Rusy proti Putinovi, ale Rusové se naopak „semkli“, Putinova popularita je kolem 60 %, kdežto Merz a Macron jsou „hluboko pod patnáct“. Ke zprávám o zadrženém Ukrajinci, který rozesílal bombové výhrůžky, o údajně zmařeném ruském útoku na civilisty u kaliningradské hranice v Polsku (podle Sikorského) a o „sabotérech placených Ruskem“ v Estonsku ironizuje, že viníky jsou vždy automaticky Rusové. Varuje, že může jít o false flag proti Rusku a že je to „velmi nebezpečná hra“.
+
+> „I kdyby v životě nebyli v Rusku, v životě nepotkali Rusa, nikdy neviděli ruskej pas a nikdy neviděli ani rubl, tak to musí být Rusové.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+

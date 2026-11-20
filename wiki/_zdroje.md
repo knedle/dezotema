@@ -6544,3 +6544,11 @@
 - **Datum záznamu:** 2026-11-17
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 17 min, večer 17. listopadu, z auta. Vložené cizí video spolku „Rodina — ČR na prvním místě“ (1:00:42–1:04:08) nezpracováno. 18 témat v denním přehledu, 12 s vlastním úhlem (⚡) v 8 sekcích. Predikce z 9. 11. („17. listopadu se bude dít něco vážného“) vyhodnocena jako ❌. Stochastický teror nezjištěn (hraniční: obvinění Rakušana a Koudelky z „organizovaného zločinu“). Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.
+
+## Ladislav Vrabel — Zprávy v devět 18. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-18-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-18_Ladislav-Vrabel_18-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2631381480658036>
+- **Datum záznamu:** 2026-11-18
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 7 min, v den zahájení summitu APEC v Šen-čenu. K 17. listopadu se nevrací. Cizí audio a video (píseň Rasputin, petiční video Radovana Dluhého, klip s jaderným kufříkem) nezpracováno. 21 témat v denním přehledu, 14 s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: Zelenskyj „se bude smažit v pekle tisíce let“ bez výzvy k trestu, „někteří Ukrajinci jsou prostě náckové“). Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.

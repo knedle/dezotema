@@ -1057,3 +1057,14 @@ To, že ČR nebyla přizvána do skupiny Bergen Group v rámci NATO, je podle Vr
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 
 ---
+
+### Jakub Landovský jako „spojka mezi globalisty, Aspen Institutem a NATO“ napříč vládami; přes 60 % munice pro Ukrajinu z ČR (Vrabel, 18. 11. 2026) {#landovsky-aspen-vrabel-18-11-2026}
+
+Ke zprávě, že česká muniční iniciativa dodává přes 60 % dělostřelecké munice pro Ukrajinu, Vrabel poznamenává, že za Fialy to byl problém a za Babiše je to „v pohodě“. Rozebírá kariéru Jakuba Landovského: náměstek ministra obrany v první Babišově vládě, velvyslanec při NATO, ředitel Aspen Institute Central Europe a od května 2026 vládní zmocněnec pro plnění závazků vůči NATO. Vlády se podle něj mění, ale „prověření a spolehliví“ lidé globalistů zůstávají. Sarkasticky dodává: „Děkujeme, pane Babiši.“
+
+> „Jak se nám to tady hezky mění, ty vlády, ale soudruh Landovský zůstává jako spojka mezi globalisty, Aspen Institutem a NATO a Českou republikou pořád.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+

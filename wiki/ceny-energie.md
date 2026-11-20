@@ -189,6 +189,16 @@ Spotřeba plynu v ČR klesla z 9–10 mld. m³ (2021) na 6,75 mld. m³ (2023), p
 
 ---
 
+### Americký plyn místo ruského: dohoda za 800 mld. eur a Havlíčkova smlouva na jaře — dlouhodobé kontrakty, ale „třikrát dražší“ (Vrabel, 18. 11. 2026) {#americky-plyn-havlicek-vrabel-18-11-2026}
+
+K Lavrovovu výroku, že USA vytlačují Rusko z energetických trhů, Vrabel dodává, že Trump v posledních měsících zablokoval vývoz energií z Blízkého východu, zvedl ceny ropy, plynu a čpavku a na sankcích proti Rusku vydělává. Proto podle něj vznikla dohoda s von der Leyenovou o nákupu amerického plynu a ropy za 800 mld. eur. K oznámení ministra Havlíčka, že ČR na jaře podepíše smlouvu na plyn z USA, říká, že konečně budou dlouhodobé kontrakty, po kterých volá od roku 2022, jenže „třikrát dražší“, než by byl ruský plyn.
+
+> „Konečně budeme mít ty dlouhodobý kontrakty na plyn, po kterých křičím veřejně už od roku 2022, akorát, že budeme mít prostě třikrát tak dražší, protože budou ze Spojených států.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+
 ## Solární energie a státní dotace
 
 ### 600 miliard CZK za solární dotace — za to by šly 4 jaderné bloky (Černohorský, 7. 5. 2026)
