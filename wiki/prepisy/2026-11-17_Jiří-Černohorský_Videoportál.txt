@@ -1,0 +1,34 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jiří Černohorský
+URL:          https://www.facebook.com/61553793793504/videos/1137195685717359
+Datum videa:  2026-11-17
+Zpracováno:   2026-11-20 13:35:55
+Jazyk:        cs
+Délka:        00:03:30
+Zhlédnutí:    2 926
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    5s
+Přepis:       2s
+Rychlost:     79.8x realtime
+Celkem:       8s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:05] Spolevám, že nějak taktně a obezředně.
+[00:08] A prosím vás, vyšší princip do toho nebleďte.
+[00:13] Já vím, co musím.
+[00:14] Profesorský sbor našeho ústavu se usnesl, pověřil mne,
+[01:35] abych včerejší strašnou událost uvedl na pravou míru.
+[01:43] Naši spolužáci byli včera zastřeleni.
+[01:49] Chvalování z hlediska vyššího principu mravního,
+[02:08] vražda na tyranu není zločinem.
+[02:10] Já protestuju tak, jako každý čestný člověk musí protestovat.
+[02:18] Protestuju proti vraždě vašich kamarádů.
+[02:22] Jejich nevina, ta krev, ať padne na hlavy jejich vrahu.
