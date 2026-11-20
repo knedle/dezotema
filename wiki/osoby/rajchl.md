@@ -23,6 +23,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **2. 11.** — spolek Díky, že můžeme financují Soros (83 tis. eur na „Samet ve školách“), Obama Foundation a sponzoři STAN; protesty za ČT jako pokus svrhnout vládu; „politické neziskovky musí být zničeny“ (→ [stochastický teror](../stochasticky-teror.md)) — [„Tak tady to máte!“ 2. 11. 2026](../_zdroje.md#jindřich-rajchl--tak-tady-to-máte-financování-díky-že-můžeme-2-11-2026)
 - **8. 11.** — Klempíř správně odmítl dotaci spolku Díky, že můžeme; „Samet ve školách“ jako „komsomolská přípravka“; FARA jako „hlavní cíl“, koalice ho předloží → [fara-neziskovky.md](../fara-neziskovky.md) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 - **15. 11.** — Letná jako „cirkus Mináře“: místo 450 tisíc nejvýš 150 tisíc „zmanipulovaných ovcí“, „biznis z nenávisti vůči Babišovi“, Minář „bouchal šampaňské“; odpovědí je FARA, ustoupit by byla zrada 3 milionů voličů → [fara-neziskovky.md](../fara-neziskovky.md#letna-cirkus-minare-rajchl-15-11-2026) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+- **16. 11.** — vláda nemá na Letnou reagovat; rozdíl oproti vlastní výzvě z 9/2022 vysvětluje mandátem (Fiala porušil program, koalice ho plní) → [fara-neziskovky.md](../fara-neziskovky.md#letna-cirkus-minare-rajchl-15-11-2026) — [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](../_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Dozimetr (parlamentní komise, Fremr/Rakušan KryptoCalt výpověď, nominace do vyšetřovací komise), Hřib (neoprávněné příjmy), Kettner (AI fotografie), dvojí metr justice (Pšenák/Hedia) — [FARA, DSA, Dozimetr (15. 3. 2026)](../_zdroje.md#jindřich-rajchl--fara-dsa-dozimetr)
@@ -211,6 +212,7 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - **6. 11.** — průzkum o poplatcích: 31 % + 23 % = „54 %, což je většina“ pro zrušení — [„Tohle je nejvíc!“ 6. 11. 2026](../_zdroje.md#jindřich-rajchl--tohle-je-nejvíc-průzkum-poplatky-6-11-2026)
 - **8. 11.** — demonstrace Svatopluku bez něj (provokace), poplatky „zrušíme a tečka“, privatizace ČT (Turek), stávka nelegitimní; dvojí metr ČT a policie (Foltýn, Decroix, Farský, Moravec, Matásek/Fico, SMS „smrt českým podlidem“) vs. prověřování komentářů ke Stárkové → [media-propaganda.md](../media-propaganda.md) — [Nedělní vysílání 8. 11. 2026](../_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026)
 - **15. 11.** — veřejná služba ČT stojí asi 1 mld., 7 mld. „ve tmě“; Fialova vláda si ČT „koupila“ poplatky, Rakušanova údajná dohoda o FF UK (Zaorálek); eurokomisař McGrath podle něj potvrdil soulad s právem EU; Večerníček zneužit; výhledově privatizace → [media-propaganda.md](../media-propaganda.md) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+- **16. 11.** — opakuje 17 z 27 zemí a McGratha (jen zdroj) → [media-propaganda.md](../media-propaganda.md) — [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](../_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Princip reciprocity, Minář odmítl debatu, Petr Pavel a dvojí metr k demonstracím, česká rozvojová pomoc jako plýtvání — [Kurníky v Salvadoru (3. 4. 2026)](../_zdroje.md#jindřich-rajchl--zahraniční-pomoc-kurníky-v-salvadoru-3-4-2026)
@@ -804,3 +806,4 @@ Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuj
 - [„Ulovil Sokola“ (12. 11. 2026)](../_zdroje.md#jindřich-rajchl--ulovil-sokola-12-11-2026)
 - [Opozice by raději poslala 60 miliard na ukrajinské důchody (14. 11. 2026)](../_zdroje.md#jindřich-rajchl--opozice-60-miliard-ukrajinské-důchody-14-11-2026)
 - [Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](../_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+- [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](../_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026)

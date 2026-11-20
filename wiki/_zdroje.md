@@ -6464,3 +6464,11 @@
 - **Datum záznamu:** 2026-11-19
 - **Zpracováno:** ano
 - **Poznámka:** 3 min, vlastní komentář s vloženým záběrem z Národní 17. 11.
+
+## Jindřich Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026) {#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-16_Jindřich-Rajchl_Jak-by-měla-vláda-reagovat-na-demonstraci-na-Letné.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/1460682725391325>
+- **Datum záznamu:** 2026-11-16
+- **Zpracováno:** ano
+- **Poznámka:** 3 min, výstřižek z televizní debaty (natočeno zřejmě v den Letné). Témata opakují jeho vysílání z 15. 11., nově jen konfrontace s výrokem ze září 2022.

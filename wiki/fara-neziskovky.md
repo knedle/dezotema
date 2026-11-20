@@ -94,7 +94,11 @@ Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letn
 
 Šídlo podle něj na Rajchla útočí, protože ho jako člena vyšetřovací komise k Dozimetru považuje za „největší ohrožení hnutí STAN“ (viz [kauzy.md](kauzy.md)).
 
-**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026)
+**16. 11.** — V televizní debatě Rajchl opakuje, že vláda by na Letnou neměla reagovat „nijak“, protože voliče neztratí za plnění programu, ale za ústup od něj. Moderátor mu připomněl, že v září 2022 sám říkal, že na 150 tisíc lidí v ulicích vláda reagovat musí. Rajchl rozdíl vysvětluje mandátem: Fialova vláda podle něj slibovala, že nesáhne na důchody ani daně, a udělala opak, k tomu odstřihla ČR od levných energií, což považoval za „podvod“. Koalice ANO, SPD a PRO má naopak zrušení poplatků v programu. Fialova vláda podle něj naopak poplatky půl roku před volbami zvýšila, ačkoli v programu měla opak, „aby si koupila přízeň“ ČT. Opakuje, že Milion chvilek si jen bere „záminky“ (střet zájmů, Turek, poplatky), profituje z čepiček za 1 190 Kč a u Dozimetru mlčel.
+
+> „Pokud bychom teď ustoupili tomu, že menšina se nesmířila s tím, že ty volby prohrála, tak bychom zradili naše voliče.“ — Jindřich Rajchl
+
+**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026), [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026)
 
 ---
 
