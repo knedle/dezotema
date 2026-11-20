@@ -44,8 +44,9 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 > „Předpokládám, že dojde k dohodě o vzájemném neútočení jadernými zbraněmi jedna země na druhou a tím se otevře ta široká cesta pro Ruskou federaci, aby si mohli vyřídit účty s Evropou.“ — Ladislav Vrabel
 
 **Horizont:** po schůzce v Šen-čenu (19. 11. 2026), jinak neurčeno; polský Sejm 17. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — summit 19. 11. přinesl podle Vrabela shodu, že jaderná válka nesmí být vedena, ne formální dohodu o neútočení; „vyřízení účtů s Evropou“, Tajvan ani odveta za Krymský most zatím nenastaly
 **19. 11.** — Lídři se podle Vrabela shodli, že „jaderná válka nesmí být vedena“, a Rusko má teď „otevřené dveře“ na Ukrajině i „směrem k Evropě“. Predikci tak považuje za naplněnou.
+**Vyhodnocení 20. 11. 2026:** Summit Trump–Putin–Si se konal 19. 11. Podle Vrabelova vysílání z téhož dne skončil dohodou o jaderné bezpečnosti a dialogu o snížení rizik, ne formální smlouvou o neútočení. Zbytek predikce je bez horizontu a zatím nenastal.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
@@ -155,12 +156,13 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 > „Až se Andrej Babiš vrátí zase za tři dny z Dublinu a řekne stejně, jako to řekl v prosinci před rokem, že Česká republika za to neručí a Česká republika celou dobu platí.“ — Ladislav Vrabel
 
 **Horizont:** summit EU v Dublinu (13.–14. 11. 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno (podle Vrabelova popisu, nezávisle neověřeno) — Babiš s financováním Ukrajiny souhlasil a zároveň opakoval, že ČR „neručí“
 **13. 11.** — Vrabel „sází“, že Babiš v Dublinu s 70miliardovou půjčkou Ukrajině souhlasí („Sázím na Andreje, že bude souhlasit“). Moderátorka Zuzka naopak odhaduje, že Babiš „prohlásí jako minule, ale ručit nebudeme“.
 **14. 11.** — Výsledek summitu Vrabel nekomentoval, jen že se Babiš v Dublinu usmíval a podával ruku Zelenskému.
 **15. 11.** — Vrabel predikci považuje za naplněnou: „my v Čechách řekneme, že za to neručíme. Což neznamená moc, že za to neručíme, protože to platíme.“ Stav ponechán do ověření skutečného výsledku summitu.
 **16. 11.** — Ke schválení 8 mld. eur pro Ukrajinu Evropskou radou Vrabel sarkasticky poznamenává: „Odhlasoval tuto půjčku Andrej Babiš. A hned potom letí… do Izraele.“
 **18. 11.** — Vrabel opakuje, že Babišovo „nebudeme ručit“ je u nové půjčky 45 mld. eur „samozřejmě nesmysl“, protože EU si půjčuje a splácí z rozpočtu.
+**Vyhodnocení 20. 11. 2026:** Podle Vrabelových zpráv z 15.–18. 11. Babiš v Evropské radě financování neblokoval („Odhlasoval tuto půjčku Andrej Babiš“) a vláda dál tvrdí, že ČR neručí. Rozsah půjček se v přepisech liší (8 mld. eur schváleno, 45 mld. eur navrženo).
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026), [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
 
 ---
@@ -176,6 +178,7 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně promigrační, prounijní“.
 
 **15. 11.** — Vrabel už nečeká převrat, ale „výměnu politiků“ v předčasných volbách, viz predikce z 15. 11.
+**Vyhodnocení 20. 11. 2026:** Dílčí část „17. 11. jako první vrchol“ se nenaplnila: podle Vrabelova vysílání ze 17. 11. proběhly na Národní jen oslavy, bez masových protestů. Vláda dosud stojí, hlavní horizont (do 2029) trvá.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 
 ---
@@ -300,8 +303,9 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Myslím, že to vůbec už nebude dlouho trvat a bude to záležitost dnů, týdnů, maximálně měsíců.“ — Pavel Zítko
 
 **Horizont:** 9. 11. 2026 (Miller); dny až měsíce (EBS, odhalení); neurčeno (banky)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — Stephen Miller se skutečně stal šéfem kanceláře Bílého domu; EBS 17. 11. proběhl jen jako test bez výpadku, „velké odhalení“ ani pád bank nenastaly
 **9. 11.** — Zítko nástup Millera 9. 11. prohlašuje za splněný („dneska… úplnou náhodou nahradil“), „lítání“ ale konkrétně nedokládá. Stav ponechán do ověření.
+**Vyhodnocení 20. 11. 2026:** Podle zpráv (např. Bay News 9, 6. 11. 2026) Trump jmenoval Stephena Millera šéfem kanceláře místo Susie Wiles. Test EBS 17. 11. proběhl bez blackoutu a Zítko 18. 11. sám uvádí, že „byl to pouze test“.
 **Zdroj:** [ČsTV2 — Živě: „Nedělní chvilka poezie“ — Miller, EBS a konec „hry na Čermáka“ (8. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026), [ČsTV2 — Živě: „Zprávy k novoluní“ — Miller, SWIFT a tribunály (9. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 
 ---
@@ -354,7 +358,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Tam bude velký územně právní problém s Palestincema.“ — Pavel Zítko
 
 **Horizont:** od 31. 10. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — po 31. 10. žádný „územně právní problém“ kolem Izraele nenastal; ani Zítko se k němu v pozdějších vysíláních nevrací
+**Vyhodnocení 20. 11. 2026:** V izraelském zpravodajství je po 31. 10. jen povolební patová situace. Zítkovy přepisy z listopadu téma „smlouvy na stát Izrael“ nezmiňují.
 **Zdroj:** [ČsTV2 — Živě: „Důkaz místo keců“ — výslech z Chomutova (30. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-důkaz-místo-keců-30-10-2026)
 
 ---
@@ -528,7 +533,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Neočekávám od toho vůbec žádný výsledek, který by byl nějak pozitivní.“ — Ladislav Vrabel
 
 **Horizont:** 10.–11. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno — jednání v Abú Zabí přinesla jen dohodu o výměně zajatců, bez mírového průlomu
+**Vyhodnocení 20. 11. 2026:** Vrabel 10.–11. 11. dohodu o výměně zajatců sám označil za „ne průlom“ a Rusko podle Medinského územní výměnu odmítá.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
 
 ---
@@ -540,7 +546,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „myslím si, že politika Donalda Trumpa pomalu, možná ještě třeba týden, dva týdny, vydrží v nějakém takovém hodu, ale myslím si, že pomalu začne otáčet a pojede zase to, co je před těmi dvěmi měsíci.“ — Ladislav Vrabel
 
 **Horizont:** do poloviny listopadu 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — do poloviny listopadu se Trump k válečné politice nevrátil: slíbil spolupráci s demokraty, odmítl jaderný útok na Írán a 19. 11. jednal s Putinem a Si
+**Vyhodnocení 20. 11. 2026:** Doloženo Vrabelovými denními přehledy 4.–19. 11. Vrabel teď „druhé kolo“ války s Íránem čeká mezi 19. 11. a 7. 12.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 3. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-11-2026)
 
 ---
@@ -565,8 +572,9 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Takže podle mojeho názoru Andrej Babiš se bude stavět na stranu Evropské komise a na stranu Donalda Tuska.“ — Ladislav Vrabel
 
 **Horizont:** návštěva ve Varšavě 4. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno (podle Vrabelova výkladu, nezávisle neověřeno) — Babiš ve Varšavě podle něj Tuska podpořil
 **Poznámka:** 4. 11. Vrabel tvrdí, že Babiš ve Varšavě Tuska „jako správný globalista“ podpořil ([Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)); jde o jeho výklad návštěvy.
+**Vyhodnocení 20. 11. 2026:** Vrabel 4. a 14. 11. tvrdí, že Babiš podpořil Tuska „při státním převratu skrze Ústavní soud“. Nezávislý zdroj k obsahu Babišova prohlášení nebyl nalezen.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 2. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-2-11-2026)
 
 ---
@@ -736,6 +744,7 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** povolební jednání
 **Stav:** 🕐 Čeká na vyhodnocení
+**Vyhodnocení 20. 11. 2026:** K 11. 11. vláda podle Al Jazeery sestavena nebyla a trvá patová situace; alternativou jsou nové volby začátkem roku 2027. Výsledek zatím není znám.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 29. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-10-2026)
 
 ---
@@ -783,7 +792,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Typu, že to lidi tomu Benjaminovi, Satanjahuovi, spočítají a že ho vypískají ven, ale můžu se plést.“ — Ladislav Vrabel
 
 **Horizont:** výsledek voleb 27.–28. 10. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — Netanjahuův blok ve volbách 27. 10. ztratil většinu (53 mandátů proti 48 opozice), zůstal ale největším blokem a výsledkem je patová situace, ne jasná porážka
+**Vyhodnocení 20. 11. 2026:** Podle Al Jazeery (1. 11. 2026) nemá žádný blok většinu a jednání o vládě pokračují.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 27. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-27-10-2026)
 
 ---
@@ -880,7 +890,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Takže 17. listopadu se něco bude rozehrávat. Nemyslím si, že to bude Majdan úplně.“ — Ladislav Vrabel
 
 **Horizont:** 17. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — 17. 11. se podle Vrabelova vlastního vysílání nic „nerozehrálo“, šlo o „obyčejný den“ s oslavami na Národní
+**Vyhodnocení 20. 11. 2026:** Shodně s vyvrácenou predikcí z 9. 11. Část „ne celý Majdan“ platí jen formálně.
 **Zdroj:** [Ladislav Vrabel — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026)
 
 ---
@@ -1098,6 +1109,7 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** do amerických voleb do Kongresu (3. 11. 2026)
 **Stav:** 🕐 Čeká na vyhodnocení
+**Vyhodnocení 20. 11. 2026:** Predikci nelze vyhodnotit: v přepisech ani zprávách nebylo nalezeno konkrétní „otáčení“ českých politiků před 3. 11. ani jeho konec.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 20. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-10-2026)
 
 ---
@@ -1121,7 +1133,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Osobně si nemyslím, že by z toho bylo něco, co by mohlo zastavit konflikt mezi Ruskem a Ukrajinou a Evropou. Maximálně prostě z toho bude nějaký obchodní díl, nějaká obchodní dohoda.“ — Ladislav Vrabel
 
 **Horizont:** po volbách do Kongresu USA (3. 11. 2026); summit APEC 18.–19. 11. 2026; konflikt s Čínou kolem roku 2030
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — summit USA–Rusko–Čína 19. 11. válku nezastavil (potvrzeno); že si Trump „vychutná“ Zelenského, zatím doloženo není
+**Vyhodnocení 20. 11. 2026:** Podle Vrabela se v Šen-čenu jednalo o sférách vlivu a jaderné bezpečnosti, ne o Ukrajině. Trump po volbách naopak mluvil o blízké dohodě a viní Putina i Zelenského. Konflikt s Čínou kolem roku 2030 zůstává otevřený.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 19. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-10-2026)
 
 ---
@@ -1182,6 +1195,7 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** po volbách do Kongresu USA (listopad 2026)
 **Stav:** 🕐 Čeká na vyhodnocení
+**Vyhodnocení 20. 11. 2026:** Do 19. 11. sankce proti Rusku obnoveny nebyly (Trump je nazývá „hloupými“) a nové války nezačaly. Vyhodnocení až po listopadu.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026)
 
 ---
@@ -1205,7 +1219,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Moje predikce je, že k těm poločasovým volbám ve Spojených státech začátkem listopadu vůbec nemusí dojít, protože v rámci vyložení karet a vysílání EBS bude možná úplně něco jiného než volby ve Spojených státech.“ — Pavel Zítko
 
 **Horizont:** 3. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — volby 3. 11. proběhly, demokraté ovládli Sněmovnu i Senát; EBS nenastal
+**Vyhodnocení 20. 11. 2026:** Výsledek doložen Vrabelovým přehledem ze 4. 11. a zahraničními médii. Test EBS proběhl až 17. 11., bez výpadku.
 **Zdroj:** [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 
 ---
@@ -1217,7 +1232,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Tohleto je dlouho, dlouho očekávaný proces, který se odehraje v Holandsku 22.“ — Pavel Zítko
 
 **Horizont:** 22. 10. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — jednání v Leeuwardenu 22. 10. proběhlo, ale jako civilní řízení s právními zástupci, ne trestní proces s obžalovanými
+**Vyhodnocení 20. 11. 2026:** Rechtbank Noord-Nederland oznámil ústní jednání ve věci covidové žaloby na 22. 10. 2026. Zítko 26. 10. sám uvádí, že „byli tam jejich právníci“.
 **Zdroj:** [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 
 ---
@@ -1325,7 +1341,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Můj odhad toho, že by tenhle mírový plán prošel, je 0 %. Tentokrát 0 %. […] Uvidíte tři týdny. Budeme žít v naději, že mírový plán uspěje. […] A pak očekávám nějaký atentát na nějakou důležitou osobu. A pak očekávám, že se spustí konflikt.“ — Ladislav Vrabel
 
 **Horizont:** cca 3 týdny (do začátku listopadu 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — mírový plán neprošel (potvrzeno), atentát a „spuštění konfliktu“ do začátku listopadu nenastaly (vyvráceno)
+**Vyhodnocení 20. 11. 2026:** Abú Zabí přineslo jen výměnu zajatců. Vrabel 13. 11. scénář atentátu přesunul na dobu „po velkých mírových jednáních“.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 13. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-10-2026)
 
 ---
@@ -1337,7 +1354,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Teď budeme mít všichni pocit tři týdny, že se všechno ubírá správným směrem. Stejně tak, jako jsme měli před posledními americkými volbami.“ — Ladislav Vrabel
 
 **Horizont:** americké volby do Kongresu (3. 11. 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — předvolební „euforie“ (energetické příměří, jednání) se dá doložit, jednoznačný obrat po volbách ale zatím nenastal
+**Vyhodnocení 20. 11. 2026:** Po 3. 11. Trump dál mluvil o „velké dohodě“ a 19. 11. jednal s Putinem a Si. Vrabel 19. 11. tvrdí, že „euforie“ trvala 4–5 týdnů a summitem končí.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 12. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-12-10-2026)
 
 ---
@@ -1385,7 +1403,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Typnu si 80 %, že je taková pravděpodobnost, že po volbách se to velmi rychle změní a Spojený státy budou zase dodávat zbraně a zase budou s Volodymyrem Zelenským velký kamarádi.“ — Ladislav Vrabel
 
 **Horizont:** po amerických volbách do Kongresu (3. 11. 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno (předběžně) — po volbách nenastal obrat k podpoře Zelenského ani konec nákupů ruské ropy
+**Vyhodnocení 20. 11. 2026:** Trump mluvil o „velké dohodě“ s Ruskem, sankce na kupce ruské ropy podle S&P Global v říjnu odložil a Zelenskyj si stěžuje na nedodané zbraně.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 10. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-10-2026)
 
 ---
@@ -1397,7 +1416,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Systém nouzového vysílání Emergency Broadcast System EBS bude aktivován během následujících 72 hodin. […] Mělo by to být do poločasových voleb v USA. Takhle aspoň to cítím a vnímám." — Pavel Zítko (čte přeposlanou zprávu, druhá věta je jeho vlastní)
 
 **Horizont:** do 19. 10. 2026; nejpozději americké midterms (3. 11. 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — EBS nebyl aktivován do 19. 10. ani před volbami 3. 11.
+**Vyhodnocení 20. 11. 2026:** Zítko termíny dál posouvá. 16. 11. cituje text „i když k EBS nedojde dnes večer ani zítra“ a „jubileum“ přesouvá na leden.
 **Zdroj:** [ČsTV2 — Živě na kanálu Jana Peterková Official 3 (16. 10. 2026)](_zdroje.md#československo-tv2--živě-na-kanálu-jana-peterková-16-10-2026)
 **Poznámka:** Do 19. 10. EBS aktivován nebyl. 20. 10. Zítko predikci posunul: midterms „vůbec nemusí proběhnout“, místo nich přijde EBS — [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)
 
@@ -1458,7 +1478,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „My samozřejmě odhadujeme, že dostane půl roku vězení s rokem a půl podmínkou." — Ladislav Vrabel
 
 **Horizont:** do ~18. 10. 2026; zima 2026/27
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno (rozsudek do 15 dnů) — rozsudek do ~18. 10. nepadl; část o zdražení ropy v zimě čeká
+**Vyhodnocení 20. 11. 2026:** Vrabel ještě 9. 11. říká, že čeká, „kdy dostane rozsudek“.
 **Zdroj:** [Vrabel — Večerní zprávy 3. 10. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-3-10-2026)
 
 ---
@@ -1470,7 +1491,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Kdyby ještě v lednu byl plyn v celé Evropě, tak bych byl velmi překvapený.“ — Ladislav Vrabel
 
 **Horizont:** cca konec října 2026 (doporučení 21 °C); leden 2027 (plyn)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno (doporučení 21 °C do konce října) — vládní doporučení nebylo nalezeno; část o nedostatku plynu v lednu čeká
+**Vyhodnocení 20. 11. 2026:** K 17. 11. jsou podle Vrabela zásobníky plněny ze 70 % a vláda zvažuje zastropování cen.
 **Zdroj:** [Vrabel — Zprávy v devět 9. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-10-2026)
 
 ---
@@ -1518,7 +1540,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Amsterdam, to je dějiště toho, že konečně tam budou obviněni [...] Bill Gates, Albert Bourla [...] a Mark Rutte, tak ty zasednou na lavici obviněných.“ — Pavel Zítko
 
 **Horizont:** 22. 10. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — jednání 22. 10. proběhlo v Leeuwardenu (ne v Amsterdamu) jako civilní věc, bez osobní účasti obžalovaných; propuštění Fuellmicha se nepotvrdilo
+**Vyhodnocení 20. 11. 2026:** Viz predikci z 20. 10. Fuellmich byl podle petice za jeho propuštění 8. 10. jen přemístěn do jiné věznice.
 **Zdroj:** [ČsTV2 — Sobotní vysílání: Amsterdam, Florida, Německo 2+4 (3. 10. 2026)](_zdroje.md#československo-tv2--sobotní-vysílání-amsterdam-německo-3-10-2026)
 
 ---
@@ -1614,7 +1637,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Jsme už velmi blízko a události říjí na to, co se chystá, a začne se hned od prvního desátý hýbat doslova se světem. To, co tady bylo v rámci staré globalistické party, končí." — Pavel Zítko
 
 **Horizont:** od 1. 10. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — 1. 10. žádná světová změna nenastala, Zítko termíny dál posouvá (EBS, volby, leden 2027)
+**Vyhodnocení 20. 11. 2026:** Doloženo pozdějšími vysíláními ČsTV2 z 9. a 16. 11.
 **Zdroj:** [ČsTV2 — Otázky Tomáš Čermák III (27. 9. 2026)](_zdroje.md#československo-tv2--otázky-čermák-iii-27-9-2026)
 **Poznámka:** 1. 10. se Zítko k predikci nevrátil; 2. 10. ji přerámoval na „Rudý říjen" („nikdy jsme úplně nevěděli přesně, jaký rok to bude… všechno běží tak, jak má") a zároveň prohlásil, že věštění „není jeho obor" — [ČsTV2 — Zpravodajství týdne (2. 10. 2026)](_zdroje.md#československo-tv2--zpravodajství-týdne-2-10-2026). 18. 10. pak Zítko prohlásil „Red October je tady“: komunikace může být v rámci „největší operace v dějinách lidstva“ vypnuta, lidé mají mít připravené jídlo a vodu a „nenechat se zblbnout, i kdyby vám vysílali cokoliv“, protože „vítězství je naše“ — [ČsTV2 — „Policejní a agentská provokace“: zvažuje konec (18. 10. 2026)](_zdroje.md#československo-tv2--provokace-zvažuje-konec-18-10-2026)
 
@@ -1627,7 +1651,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „V Chomutově [...] máme dle průzkumů nějakých 17 až 20 % a máme šanci tam být druhou nejsilnější stranou po ANO." — Jindřich Rajchl
 
 **Horizont:** komunální volby 9.–10. 10. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — společná kandidátka v Chomutově podle Rajchla získala „přes 9 %“, ne 17–20 %
+**Vyhodnocení 20. 11. 2026:** Rajchl 11. 10.: „Chomutov. To bylo přes 9 %.“ Pořadí neuvedl.
 **Zdroj:** [Rajchl — Nedělní vysílání „Padesátka na krku", 27. 9. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-padesátka-na-krku-27-9-2026)
 
 ---
@@ -1675,7 +1700,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Moderátoři o tom mluví naprosto otevřeně ve Spojených státech, že v Evropu čeká válka s Ruskem, že nás čeká říjnové překvapení." — Ladislav Vrabel
 
 **Horizont:** říjen 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — v říjnu válka Evropy s Ruskem nezačala a atentát nenastal
+**Vyhodnocení 20. 11. 2026:** Vrabel 13. 11. scénář sám posunul na dobu po „velkých mírových jednáních“.
 **Zdroj:** [Vrabel — Zprávy v devět 24. 9. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-9-2026)
 
 ---
@@ -1812,7 +1838,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Předpověď:** K oznámení Donalda Trumpa, že se Rusko a Ukrajina dohodly přestat útočit na energetickou infrastrukturu druhé strany, Vrabel vyjadřuje skepsi — připomíná, že podobné 30denní příměří v minulosti Rusko dodrželo, zatímco Ukrajina během něj zaútočila na ruská ropná zařízení 48×. Odhaduje šanci na dodržení „tak 50 na 50" v závislosti na tom, jak tvrdý nátlak na Zelenského Trump skutečně vyvíjí.
 
 **Horizont:** cca 30 dní od oznámení (polovina října 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Nerozhodnuto — formální 30denní moratorium nevzniklo: „energetické příměří“ ohlášené 11. 10. žádná strana nepotvrdila, Ukrajina zdržela údery na rafinerie jen asi dva dny
+**Vyhodnocení 20. 11. 2026:** Podle Al Jazeery (12. 10.) a United24 si obě strany vzájemně vyčítaly porušování. Test „vydrží/nevydrží 30 dní“ tak vlastně neproběhl.
 **Zdroj:** [Vrabel — Facebook Live 14. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-14-9-2026)
 
 ---
@@ -1894,7 +1921,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Já myslím si, že 65 % pravděpodobnosti je, že mírová jednání nedopadnou dobře." — Ladislav Vrabel
 
 **Horizont:** nejbližší týdny (víkendová jednání, 4.–7. 9. 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno — zářijová jednání k míru nevedla a dohoda nevznikla ani do 20. 11.
+**Vyhodnocení 20. 11. 2026:** Zelenskyj 6. 9. odmítl územní ústupky a Abú Zabí v listopadu přineslo jen výměnu zajatců.
 **Zdroj:** [Vrabel — Facebook Live 4. 9. 2026](_zdroje.md#ladislav-vrabel--facebook-live-4-9-2026)
 
 ---
@@ -1976,7 +2004,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Předpověď:** Zítko sdílí a schvaluje teorii, podle níž 21. září 2026 (250. výročí USA, biblické „jubileum") symbolizuje konec starého finančního systému („admirality law") a přechod ke „novému systému založenému na aktivech" (QFS). Přípravné období má probíhat od 13. 8. do 11. 9. 2026, jako nebeská znamení uvádí zatmění Slunce (12. 8.) a Měsíce (27.–28. 8.) a konjunkci šesti planet. Předpovídá, že ke změně dojde „letos", nikoli v nejisté budoucnosti.
 
 **Horizont:** 21. 9. 2026 (příprava od 13. 8. do 11. 9. 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — 21. 9. starý finanční systém neskončil
+**Vyhodnocení 20. 11. 2026:** Zítko „jubileum“ 16. 11. přesouvá na polovinu až konec ledna 2027.
 **Zdroj:** [Československo TV2 — Videoportál 12. 8. 2026](_zdroje.md#československo-tv2--videoportál-12-8-2026)
 
 ---
@@ -1986,7 +2015,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Předpověď:** Vrabel předpovídá, že Andrej Babiš „potichu", bez veřejné debaty, podepíše dohodu s Francií o rozmístění francouzských jaderných zbraní (nosičů Rafale se střelami ASMPA) na území ČR výměnou za přístup k výhodám jednotného evropského trhu podobně jako navrhovaná britsko-unijní dohoda — možná dříve, než se stihne uskutečnit ohlášené veřejné shromáždění „Člověk na prvním místě" (3. 10. 2026).
 
 **Horizont:** před 3. 10. 2026 nebo krátce po (neurčeno přesně)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno (k 20. 11.) — dohoda o francouzském jaderném deštníku nebyla podepsána
+**Vyhodnocení 20. 11. 2026:** Babiš v odpovědi na výzvy z demonstrace 3. 10. uvedl, že vláda jaderné zbraně „neplánuje“. Ministerstvo obrany podle Vrabela s Francií jen jedná.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 14. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-8-2026)
 
 ---
@@ -2026,7 +2056,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Předpověď:** Vrabel předpovídá, že rostoucí cena ropy Brent (+5 % za týden) bude dál stoupat do čtvrtka, nejpozději pátku, kdy Donald Trump oznámí otevření Hormuzského průlivu — čímž umožní „svým kamarádům" vydělat na předem uzavřených sázkách na pokles ceny. Jde o 40. opakování téhož cyklu, který podle Vrabela pozoruje od května 2026.
 
 **Horizont:** do 13.–14. 8. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — Trump otevření Hormuzu neoznámil, průliv prohlásil za území pod kontrolou USA a zůstal z velké části uzavřen
+**Vyhodnocení 20. 11. 2026:** Vrabel 13. a 15. 8.: spor o kontrolu průlivu, průliv „z velké části uzavřen“.
 **Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 8. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-8-2026)
 
 ---
@@ -2200,7 +2231,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Vypadá to, že se příští týden dočkáme velmi masivního útoku [na Írán]." — Jindřich Rajchl (parafráze)
 
 **Horizont:** ~26. týden po výroku (týden od 20. 7. 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — týden od 20. 7. žádný americký útok na Írán nepřišel
+**Vyhodnocení 20. 11. 2026:** Vrabel 27. 7.: „ten útok na Írán nebude“.
 **Zdroj:** [Rajchl — Nedělní vysílání 19. 7. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-19-7-2026)
 
 ---
@@ -2228,7 +2260,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Pokud do dvou měsíců nedojde k uzavření té dohody, tak podle mého názoru — ne, že dojde k eskalaci, jak to říká Petr Pavel — ale prostě ta Ukrajina se zhroutí, protože jí prostě dochází už úplně všechno." — Jindřich Rajchl
 
 **Horizont:** cca 2 měsíce od 12. 7. 2026 (do poloviny září 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — mírová dohoda nevznikla, a přesto se Ukrajina do poloviny září nezhroutila; válka pokračuje i v listopadu
+**Vyhodnocení 20. 11. 2026:** Doloženo pozdějšími záznamy o válce (září–listopad).
 **Zdroj:** [Rajchl — Facebook Live 12. 7. 2026](_zdroje.md#jindřich-rajchl--facebook-live-12-7-2026)
 
 ---
@@ -2252,7 +2285,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Já jsem naprosto jednoznačně přesvědčen, že on bude tu půjčku Ukrajině podporovat. V zákulisí ji bude zcela jednoznačně podporovat." — Jindřich Rajchl
 
 **Horizont:** summit NATO v Ankaře, 7.–8. 7. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně (spíše potvrzeno) — Babiš balík 70 mld. na summitu v Ankaře neblokoval a ČR jednorázově přispěla do PURL, přímý podíl ale veřejně odmítl
+**Vyhodnocení 20. 11. 2026:** Ukrainian News a ČTK (červenec 2026): ČR balík podpoří, ale nebude do něj přispívat vlastními prostředky. Macinka uvedl přesun peněz do PURL.
 **Zdroj:** [Rajchl — Videoportál: Nord Stream a 70 miliard, 3. 7. 2026](_zdroje.md#jindřich-rajchl--videoportál-nord-stream-a-70-miliard-3-7-2026)
 
 ---
@@ -2289,6 +2323,7 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** krátkodobě do summitu NATO (7.–8. 7. 2026), dlouhodobě neurčeno
 **Stav:** 🕐 Čeká na vyhodnocení
+**Vyhodnocení 20. 11. 2026:** Krátkodobý růst akcií zbrojovek před summitem v Ankaře se nepodařilo ověřit (jen zmínka o „mírném růstu“ CSG). Dlouhodobá část je bez horizontu.
 **Zdroj:** [Vrabel — Zprávy v devět 29. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-29-6-2026)
 
 ---
@@ -2312,7 +2347,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Bych se znovu vsadil [...], že Česká republika nakonec do toho půjde a bude dávat ty peníze do NATO, těch sedmdesát miliard." — Ladislav Vrabel
 
 **Horizont:** summit NATO v Ankaře, 7.–8. 7. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ⚠️ Částečně — balík 70 mld. byl v Ankaře přijat a ČR ho neblokovala, přímý český příspěvek ale schválen nebyl (jen jednorázový přesun do PURL)
+**Vyhodnocení 20. 11. 2026:** Vrabel 9. 7. přesto tvrdí, že „Česká republika to bude platit“.
 **Zdroj:** [Vrabel — Zprávy v devět 26. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-26-6-2026)
 
 ---
@@ -2336,7 +2372,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Lze předpokládat s vysokou pravděpodobností, že se nám tady během příštích pár dnů může rozběhnout další válka, a to mezi Běloruskem a v podstatě NATO." — Ladislav Vrabel
 
 **Horizont:** dny (konec června 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — válka Běloruska s NATO nebo Ukrajinou v následujících dnech nevypukla
+**Vyhodnocení 20. 11. 2026:** Vrabel 26.–29. 6. mluví jen o výhrůžkách a jednáních.
 **Zdroj:** [Vrabel — Zprávy v devět 23. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-23-6-2026)
 
 ---
@@ -2408,7 +2445,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Myslím si, že se to nestane teď, protože se čeká na summit NATO. Před summitem NATO předpokládám, že žádný takový konflikt nebude, ale ta eskalace už je." — Ladislav Vrabel
 
 **Horizont:** do summitu NATO (čeká se na summit NATO)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno — do summitu NATO v Ankaře (7.–8. 7.) konflikt s Běloruskem nenastal
+**Vyhodnocení 20. 11. 2026:** Doloženo Vrabelovými vysíláními z 26.–29. 6.
 **Zdroj:** [Vrabel — Zprávy v devět 20. 6. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-20-6-2026)
 
 ---
@@ -2468,7 +2506,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Možná nebude od věci, abychom se sešli u příležitosti tohoto data [4. 7.], kdy určitě do té doby se budou dít velké a zajímavé věci." — Pavel Zítko
 
 **Horizont:** 14. 6. – 4. 7. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — kolem 14. 6. ani 4. 7. žádné „osvobození od Deep State“ nenastalo
+**Vyhodnocení 20. 11. 2026:** Zítko 11. 7. termín přepočítal „podle juliánského kalendáře“ na 17. 7., ani tehdy se nic nestalo.
 **Zdroj:** [Freedom 250 / UFC 12. 6. 2026](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
 
 ---
@@ -2528,7 +2567,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Organizace spojených národů stojí před kolapsem, očekává se, že přibližně za šest týdnů dojdou prašule." — Pavel Zítko
 
 **Horizont:** ~6 týdnů (do poloviny července 2026)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — OSN do poloviny července nezkolabovala a globalismus se nezhroutil
+**Vyhodnocení 20. 11. 2026:** Generální tajemník Guterres v lednu 2026 varoval před finanční krizí OSN, organizace ale dál funguje.
 **Zdroj:** [ČsTV2 — Měnová reforma 1953 a Blažcoin, 3. 6. 2026](_zdroje.md#československo-tv2--měnová-reforma-1953-a-blažcoin-3-6-2026)
 
 ---
@@ -2672,7 +2712,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Předpověď:** Vrabel komentuje Zelenského avizované příměří (9–11. 5. 2026, vázané na výročí konce WWII) jako taktický manévr, nikoliv jako skutečný krok k míru. Predikuje, že příměří bude využito k repositinoningu sil a nebude mít trvalý efekt — válka bude pokračovat.
 
 **Horizont:** 9–11. 5. 2026 a bezprostředně poté
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ✅ Potvrzeno — příměří 9.–11. 5. bylo jen krátkodobé a válka pokračuje bez míru
+**Vyhodnocení 20. 11. 2026:** Vrabel 10. 5. příměří vyložil jako taktický krok, ne začátek míru.
 **Zdroj:** [Vrabel — Večerní zprávy: příměří, NATO summit, WWII, 8. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-příměří-nato-summit-wwii-8-5-2026)
 
 ---
@@ -2712,7 +2753,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Předpověď:** Rusko s „velmi vysokou pravděpodobností" podnikne v létě 2026 útok na evropská území mimo Ukrajinu — pravděpodobně na Německo, Francii nebo Británii. Vrabel vychází z analýzy Scotta Rittera o plánované rozhodující ofenzívě a z vlastního přesvědčení, že Evropa se fakticky stala stranou konfliktu tím, že vyrábí zbraně a financuje Kyjev. Rusko zároveň spoléhá na nezasáhnutí USA (Trumpův výrok o NATO jako „papírovém drakovi").
 
 **Horizont:** léto 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — v létě 2026 Rusko na Evropu nezaútočilo
+**Vyhodnocení 20. 11. 2026:** V denních přehledech ani zprávách za červen–září žádný ruský útok na členský stát NATO není.
 **Zdroj:** [Vrabel — Večerní zprávy: Rusko, Írán, EU, 24. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-rusko-írán-eu-24-4-2026)
 
 ---
@@ -2722,7 +2764,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Předpověď:** Evropu čeká ekonomická krize hlubší než v době COVIDu, přičemž nelze vyloučit zavedení přídělů potravin — toto varování cituje z vystoupení Christiny Lagarde (prezidentky ECB).
 
 **Horizont:** nejbližší měsíce od dubna 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — žádný evropský stát příděly potravin nezavedl
+**Vyhodnocení 20. 11. 2026:** Lagardeová v červnu a červenci mluvila jen o růstu cen potravin od roku 2027.
 **Zdroj:** [Vrabel — Večerní zprávy: globalisté, Írán, ekonomická krize, 25. 4. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-globalisté-írán-ekonomická-krize-25-4-2026)
 
 ---
@@ -2758,7 +2801,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „My skutečně plánujeme změny... navrhujeme, aby v oblasti trestního práva se zůžil počet oblastí, za které by mohl být daný člověk ve chvíli, kdy se vyjadřuje, postižen. Myslím si, že to bude možná už konec tohoto měsíce." — Jeroním Tejc, citováno Zítkem, [ČsTV2 — Interpelace, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
 
 **Horizont:** konec dubna 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno (nízká jistota) — změna trestního zákoníku v oblasti svobody slova do konce dubna předložena nebyla
+**Vyhodnocení 20. 11. 2026:** Trestní novela ministerstva spravedlnosti byla podle ČTK (19. 2. 2026) plánována na srpen a týká se jiných oblastí. Dokladem je absence zpráv.
 **Zdroj:** [ČsTV2 — Interpelace Majerová-Tejc, 23. 4. 2026](_zdroje.md#pavel-zítko--interpelace-majerová-tejc-svoboda-slova-23-4-2026)
 
 ---
