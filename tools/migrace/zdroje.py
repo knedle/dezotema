@@ -99,15 +99,18 @@ def na_zdroj(raw: ZdrojRaw, osoby: dict[str, Osoba]) -> Zdroj:
         casti.append(f"Soubor: {zbytek}")
     if zhl:
         casti.append(zhl.strip().rstrip("."))
+    zprac = p.get("Zpracováno", "").strip()
+    if zprac and zprac.lower() != "ano":
+        casti.append(f"Zpracováno: {zprac}")
     if p.get("Popis"):
         casti.append(f"Popis: {p['Popis']}")
     if p.get("Řečník"):
         casti.append(f"Řečník: {p['Řečník']}")
     poznamka = " ".join(c for c in casti if c) or None
-    if mluvci == "vrabel":
-        rezim = "vrabel"
-    elif "přeskočeno" in p.get("Poznámka", "").lower():
+    if "přeskočeno" in zprac.lower() or "přeskočeno" in p.get("Poznámka", "").lower():
         rezim = "preskoceno"
+    elif mluvci == "vrabel":
+        rezim = "vrabel"
     else:
         rezim = "standard"
     zid = f"{datum.isoformat()}_{mluvci}_{ascii_slug(titul)[:60].strip('-')}"

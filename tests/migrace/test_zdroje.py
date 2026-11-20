@@ -89,3 +89,15 @@ def test_soubor_s_poznamkou_v_zavorce():
     z = na_zdroj(raw, OSOBY)
     assert z.prepis == "prepisy/done/a.txt"
     assert "a_1.txt" in z.poznamka
+
+
+def test_preskoceno_ma_prioritu_a_zpracovano_se_zachova():
+    raw = parsuj_zdroje(MD)[0]  # vrabel
+    raw.pole["Zpracováno"] = "přeskočeno"
+    z = na_zdroj(raw, OSOBY)
+    assert z.rezim == "preskoceno" and "Zpracováno: přeskočeno" in z.poznamka
+    raw.pole["Zpracováno"] = "ano (částečně — viz poznámka)"
+    z = na_zdroj(raw, OSOBY)
+    assert z.rezim == "vrabel" and "Zpracováno: ano (částečně" in z.poznamka
+    raw.pole["Zpracováno"] = "ano"
+    assert "Zpracováno" not in na_zdroj(raw, OSOBY).poznamka
