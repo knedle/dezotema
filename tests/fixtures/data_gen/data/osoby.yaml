@@ -1,0 +1,11 @@
+osoby:
+  - slug: zitko
+    jmeno: Pavel Zítko
+    sledovany: true
+    vlastni_stranka: true
+  - slug: vrabel
+    jmeno: Ladislav Vrabel
+    sledovany: true
+    vlastni_stranka: true
+  - slug: minar
+    jmeno: Mikuláš Minář

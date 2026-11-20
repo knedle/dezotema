@@ -1,0 +1,1 @@
+Souhrn větrníků.

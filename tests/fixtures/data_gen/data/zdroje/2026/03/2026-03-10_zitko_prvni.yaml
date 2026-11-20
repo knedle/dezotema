@@ -1,0 +1,40 @@
+zdroj:
+  id: 2026-03-10_zitko_prvni
+  mluvci: zitko
+  kanal: Pavel Zítko (Facebook)
+  titul: První video
+  datum: 2026-03-10
+  url: https://example.org/z1
+  prepis: prepisy/done/2026-03-10_zitko_prvni.txt
+  delka: "10:00"
+  poznamka: Ukázková poznámka.
+vyroky:
+  - id: zitko-2026-03-10-01
+    typ: tvrzeni
+    temata: [vetrniky]
+    podtema: Ceny
+    nadpis: Větrníky jsou drahé
+    text: Zítko tvrdí, že větrníky zdražují energii.
+    citace:
+      - {text: "Je to drahé.", cas: "01:02"}
+  - id: zitko-2026-03-10-02
+    typ: predikce
+    temata: [covid, vetrniky]
+    nadpis: Konec covidu
+    text: Predikuje tribunál.
+    osoby:
+      - {osoba: minar, vztah: negativni, kontext: kritika}
+    predikce:
+      horizont: do léta
+      horizont_do: 2026-06-01
+      stav: ceka
+  - id: zitko-2026-03-10-03
+    typ: stoch-teror
+    temata: [covid]
+    nadpis: Tribunál
+    text: Hraniční výrok.
+    citace:
+      - {text: "Budou před tribunálem."}
+    teror:
+      terc: Nějaký lékař
+      hranicni: true

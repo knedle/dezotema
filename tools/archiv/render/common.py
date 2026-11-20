@@ -19,6 +19,15 @@ def jmeno_osoby(archiv: Archiv, slug: str) -> str:
     return o.jmeno if o and o.jmeno else slug
 
 
+def odkaz_prepisu(rel: str, prepis: str) -> str:
+    """Cesta k přepisu: `prepis` je buď cesta relativní k wiki (prepisy/done/x.txt), nebo holé jméno."""
+    return f"{rel}{prepis}" if prepis.startswith("prepisy/") else f"{rel}prepisy/done/{prepis}"
+
+
+def odkaz_zdroje(z: Zdroj, rel: str) -> str:
+    return f"{rel}zdroje/{z.datum:%Y-%m}.md#{z.id}"
+
+
 def odkaz_vyroku(archiv: Archiv, vid: str, rel: str) -> str | None:
     cil = archiv.vyroky.get(vid)
     if not cil:
@@ -33,8 +42,8 @@ def render_vyrok(v: Vyrok, z: Zdroj, archiv: Archiv, rel: str) -> str:
     hlavicka = [f"**{jmeno_osoby(archiv, archiv.mluvci_vyroku(v, z))}**", datum_cz(z.datum)]
     if v.typ != "tvrzeni":
         hlavicka.append(v.typ)
-    hlavicka.append(f"[{z.titul}]({rel}zdroje/{z.datum:%Y-%m}.md#{z.id})")
-    hlavicka.append(f"[přepis]({rel}prepisy/done/{z.prepis})")
+    hlavicka.append(f"[{z.titul}]({odkaz_zdroje(z, rel)})")
+    hlavicka.append(f"[přepis]({odkaz_prepisu(rel, z.prepis)})")
 
     bloky = [f"### {v.nadpis} {{#{v.id}}}", " · ".join(hlavicka), v.text.strip()]
     for c in v.citace:

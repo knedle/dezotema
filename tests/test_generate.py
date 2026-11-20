@@ -1,0 +1,134 @@
+import json
+import shutil
+from datetime import date
+from pathlib import Path
+
+from tools.archiv.generate import generate, main
+from tools.archiv.io import uloz_zdroj
+from tools.archiv.model import Vyrok, Zdroj
+
+FIX = Path(__file__).parent / "fixtures" / "data_gen"
+
+
+def _gen(tmp_path):
+    root = tmp_path / "repo"
+    shutil.copytree(FIX, root)
+    out = root / "wiki"
+    return root, out, generate(root, out)
+
+
+def test_generate_files(tmp_path):
+    root, out, res = _gen(tmp_path)
+    for p in ["temata/vetrniky.md", "osoby/zitko.md", "predikce/index.md",
+              "stochasticky-teror.md", "zdroje/index.md", "zdroje/2026-11.md",
+              "zpravodajstvi-vrabel/2026-11.md", "data/vyroky.json", "zminene/minar.md"]:
+        assert (out / p).is_file(), p
+    assert out / "temata/vetrniky.md" in res["soubory"]
+    assert not (out / "osoby/minar.md").exists()
+
+
+def test_tema_contains_all(tmp_path):
+    root, out, _ = _gen(tmp_path)
+    t = (out / "temata/vetrniky.md").read_text(encoding="utf-8")
+    assert "{#zitko-2026-03-10-01}" in t
+    assert "{#zitko-2026-03-10-02}" in t  # druhé téma
+    assert "{#vrabel-2026-11-19-01}" in t
+    assert "{#zitko-2026-03-10-03}" not in t
+    assert "Souhrn větrníků." in t
+    assert "Ceny" in t and "Ostatní" in t
+
+
+def test_split_by_year(tmp_path):
+    root = tmp_path / "repo"
+    shutil.copytree(FIX, root)
+    vy = [Vyrok(id=f"x-{i}", typ="tvrzeni", temata=["vetrniky"], nadpis=f"N{i}", text="t")
+          for i in range(151)]
+    for rok, sl in ((2025, vy[:75]), (2026, vy[75:])):
+        uloz_zdroj(Zdroj(id=f"{rok}-01-01_s", mluvci="zitko", kanal="k", titul="t",
+                         datum=date(rok, 1, 1), url="u",
+                         prepis="prepisy/done/2026-03-10_zitko_prvni.txt", vyroky=sl), root)
+    generate(root, root / "wiki")
+    out = root / "wiki"
+    assert (out / "temata/vetrniky/2025.md").is_file()
+    assert (out / "temata/vetrniky/2026.md").is_file()
+    main_page = (out / "temata/vetrniky.md").read_text(encoding="utf-8")
+    assert "vetrniky/2025.md" in main_page and "vetrniky/2026.md" in main_page
+    assert "{#x-0}" not in main_page
+    assert "{#x-0}" in (out / "temata/vetrniky/2025.md").read_text(encoding="utf-8")
+
+
+def test_json_export(tmp_path):
+    root, out, _ = _gen(tmp_path)
+    data = json.loads((out / "data/vyroky.json").read_text(encoding="utf-8"))
+    klice = {"id", "typ", "temata", "mluvci", "datum", "zdroj", "url", "prepis", "nadpis",
+             "text", "citace", "osoby", "vazby", "predikce", "teror"}
+    assert all(set(d) == klice for d in data)
+    assert len(data) == 5
+    assert {d["mluvci"] for d in data} == {"zitko", "vrabel"}
+
+
+def test_vrabel_prehled_link(tmp_path):
+    root, out, _ = _gen(tmp_path)
+    t = (out / "zpravodajstvi-vrabel/2026-11.md").read_text(encoding="utf-8")
+    assert "## 2026-11-19 — Denní komentář" in t
+    assert "⚡" in t
+    assert "../temata/vetrniky.md#vrabel-2026-11-19-01" in t
+    assert "Jen popis stavu." in t
+    assert "**Zdroj:**" in t
+
+
+def test_nezpracovane(tmp_path):
+    root, out, _ = _gen(tmp_path)
+    t = (out / "zdroje/index.md").read_text(encoding="utf-8")
+    sekce = t.split("Nezpracované / přeskočené přepisy")[1]
+    assert "2026-01-01_orphan.txt" in sekce
+    assert "zitko_prvni" not in sekce
+
+
+def test_nav_shape(tmp_path):
+    root, out, res = _gen(tmp_path)
+    nav = res["nav"]
+    assert nav[0] == {"Úvod": "index.md"}
+    temata = next(i for i in nav if "Témata" in i)["Témata"]
+    assert {"Větrné elektrárny": "temata/vetrniky.md"} in temata
+    assert any("Osoby" in i for i in nav)
+
+
+def test_zdroje_predikce_teror_osoba(tmp_path):
+    root, out, _ = _gen(tmp_path)
+    z = (out / "zdroje/2026-03.md").read_text(encoding="utf-8")
+    assert "## Pavel Zítko — První video {#2026-03-10_zitko_prvni}" in z
+    assert "../prepisy/done/2026-03-10_zitko_prvni.txt" in z
+    assert "prepisy/done/prepisy" not in z
+    p = (out / "predikce/index.md").read_text(encoding="utf-8")
+    assert "Propadlé k vyhodnocení" in p and "Konec covidu" in p
+    assert "Potvrzeno" in (out / "predikce/2026-11.md").read_text(encoding="utf-8")
+    s = (out / "stochasticky-teror.md").read_text(encoding="utf-8")
+    assert "Hraniční" in s and "Ruční poznámka." in s and "Nějaký lékař" in s
+    o = (out / "osoby/zitko.md").read_text(encoding="utf-8")
+    assert "Mikuláš Minář" in o and "../zminene/minar.md" in o
+
+
+def test_clean_only_generated(tmp_path):
+    root = tmp_path / "repo"
+    shutil.copytree(FIX, root)
+    out = root / "wiki"
+    (out / "index.md").write_text("keep", encoding="utf-8")
+    (out / "temata").mkdir()
+    (out / "temata" / "stary.md").write_text("old", encoding="utf-8")
+    generate(root, out)
+    assert (out / "index.md").read_text(encoding="utf-8") == "keep"
+    assert not (out / "temata/stary.md").exists()
+    assert (out / "prepisy/done/2026-01-01_orphan.txt").exists()
+
+
+def test_deterministic_and_cli(tmp_path, capsys):
+    root = tmp_path / "repo"
+    shutil.copytree(FIX, root)
+    out = root / "wiki"
+    assert main(["--root", str(root), "--out", str(out)]) == 0
+    assert capsys.readouterr().out.strip()
+    a = {p: p.read_bytes() for p in out.rglob("*") if p.is_file()}
+    generate(root, out)
+    b = {p: p.read_bytes() for p in out.rglob("*") if p.is_file()}
+    assert a == b
