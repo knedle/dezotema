@@ -72,6 +72,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - **23. 9.** — komunální program bod 6: audit veřejných financí Liberce — rezerva města klesla z 1,27 mld. na 413 mil. Kč za dva roky, cíl snížit provozní náklady o 3–5 %, výroční zpráva „Kam jdou peníze Liberce?" — [Videoportál 23. 9.](../_zdroje.md#lenka-tarabová--videoportál-veřejné-finance-liberce-23-9-2026)
 - **26. 9.** — komunální program bod 7: kancelář ombudsmana pro Liberečany (bezplatné právní rady, mediace sousedských sporů); dříve ombudsmanka pro seniory — smlouva neprodloužena po protestu s Davidovou hvězdou („odebírání funkcí za názor"); „nejsme kariérní politici" — [Videoportál 26. 9.](../_zdroje.md#lenka-tarabová--videoportál-ombudsman-pro-liberečany-26-9-2026)
 - **1. 10.** — beseda v Koloseu: obstrukce opozice, „nevolitelné" strany (STAN „zločinná organizace", Hřib „psychopat"), Půta „měl sedět", kritika vedení Liberce (Tržní náměstí, bazén), polovina platu primátorky na Rajchlův spolek, kampaň za 2 tisíce, rozpad koalice s GEN; Rajchl „budoucí premiér" — [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) → [volby-2026.md](../volby-2026.md)
+- **19. 11.** — opozice (KDU-ČSL, TOP 09, ODS, STAN) „jede jak přes kopírák“ a chystá něco na Babišovu vládu („Tanky? Válku?“); Korčovo „Hitler taky vyhrál volby“ — [politicky-system.md](../politicky-system.md#opozice-svrzeni-vlady-tarabova-19-11-2026) — [Tarabová — Chystají svržení vlády? (19. 11. 2026)](../_zdroje.md#lenka-tarabová--chystají-svržení-vlády-19-11-2026)
 
 ---
 
@@ -120,6 +121,8 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Petr Král (starosta Mimoně) | ✅ pozitivní | Vzorný starosta s vyrovnaným rozpočtem | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 | Petr Pavel | ❌ negativní | V roce 1989 se „550 m od Národní“ učil na rozvědčíka pro komunisty, do NATO se dostal díky „vzdělání z východních mocností“ | 2026-11-17 | [Tarabová — Paní na Národní (17. 11. 2026)](../_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026) |
 | Tomio Okamura, Jindřich Rajchl, Alena Schillerová | ✅ pozitivní | Hájí je proti výtkám kvůli komunismu, které považuje za dvojí metr | 2026-11-17 | [Tarabová — Paní na Národní (17. 11. 2026)](../_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026) |
+| Petr Korč | ❌ negativní | Jeho komentář „Hitler taky vyhrál volby“ vykládá jako náznak, že opozice chystá svržení vlády | 2026-11-19 | [Tarabová — Chystají svržení vlády? (19. 11. 2026)](../_zdroje.md#lenka-tarabová--chystají-svržení-vlády-19-11-2026) |
+| Andrej Babiš | ✅ pozitivní | Hájí jeho „zvolenou vládu“ proti údajným plánům opozice | 2026-11-19 | [Tarabová — Chystají svržení vlády? (19. 11. 2026)](../_zdroje.md#lenka-tarabová--chystají-svržení-vlády-19-11-2026) |
 
 ---
 
@@ -162,3 +165,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
 - [Tarabová — Videoportál: programový bod 12 — Landsmannschaft (4. 10. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bod-12-landsmanšaft-4-10-2026)
 - [Tarabová — Paní na Národní (17. 11. 2026)](../_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026)
+- [Tarabová — Chystají svržení vlády? (19. 11. 2026)](../_zdroje.md#lenka-tarabová--chystají-svržení-vlády-19-11-2026)

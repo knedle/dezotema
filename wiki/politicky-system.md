@@ -933,6 +933,16 @@ Hlavním smyslem Letné byly podle Vrabela požadavky odvolat ministra obrany Z�
 
 ---
 
+### Chystá opozice svržení Babišovy vlády? Korčovo „Hitler taky vyhrál volby“ (Tarabová, 19. 11. 2026) {#opozice-svrzeni-vlady-tarabova-19-11-2026}
+
+Tarabová reaguje na komentář Petra Korče, primátora Frýdku-Místku a nově zvoleného senátora. Korč ve videu z Národní 17. 11. řekl, že byl i na Letné a že se „nemusíte bát, všechno dobře dopadne“ ve Frýdku-Místku i v celé republice. Pod příspěvkem mu někdo připomněl „prohráli jste volby“ a Korč odpověděl: „Hitler taky vyhrál volby, ujal se vlády.“ Tarabová se ptá, co tím myslel a co strany kolem něj (KDU-ČSL, TOP 09, ODS, STAN) chystají na zvolenou Babišovu vládu, když všechny „jedou jak přes kopírák“ stejnou „mantru“: „Tanky? Válku?“ Jako doklad vkládá záběr účastnice akce na Národní, která říká, že se „připravují“ a že vláda „to do konce nedotáhne“. Souvisí s Vrabelovým výkladem [Letné jako výměny vlády](#letna-vymena-vlady-vrabel-15-11-2026).
+
+> „Takže co chystají na vládu Andreje Babiše? Tanky? Válku? Takovážně?“ — Lenka Tarabová
+
+**Zdroje:** [Tarabová — Chystají svržení vlády? (19. 11. 2026)](_zdroje.md#lenka-tarabová--chystají-svržení-vlády-19-11-2026)
+
+---
+
 ## Informovanost voličů
 
 ### Mladí voliči neznají základy moderních dějin — Rajchl

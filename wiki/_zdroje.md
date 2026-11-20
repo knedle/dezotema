@@ -6456,3 +6456,11 @@
 - **Datum záznamu:** 2026-11-17
 - **Zpracováno:** ano
 - **Poznámka:** 2 min, pouliční hádka s účastnicí akce na Národní 17. 11. Hlasy se v přepisu nedají spolehlivě rozlišit. Zpracováno jen téma Petra Pavla.
+
+## Lenka Tarabová — Chystají svržení vlády? (19. 11. 2026) {#lenka-tarabová--chystají-svržení-vlády-19-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-19_Lenka-Tarabová_CHYSTAJÍ-SVRŽENÍ-VLÁDY.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1840342720348880&_rdr>
+- **Datum záznamu:** 2026-11-19
+- **Zpracováno:** ano
+- **Poznámka:** 3 min, vlastní komentář s vloženým záběrem z Národní 17. 11.
