@@ -682,3 +682,13 @@ Rajchl tvrdí, že Pavel v projevu 28. října „zmotal“ Den české státnos
 **Zdroje:** [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 
 ---
+
+### Pavel se v listopadu 1989 „550 metrů od Národní“ učil na rozvědčíka; demonstranti mu tleskají, ale opozici vyčítají komunismus (Tarabová, 17. 11. 2026) {#pavel-rozvedcik-narodni-tarabova-17-11-2026}
+
+Ve videu z pouliční hádky na Národní třídě 17. 11. Tarabová namítá paní z demonstrace, která vzpomíná na zásah proti studentům v roce 1989, že Petr Pavel v té době „550 metrů odsud“ dělal kurz na rozvědčíka. Šlo podle ní o vojenské zpravodajství pro komunistickou stranu, a kdyby revoluce nebyla, dokončil by ho „za komunisty“. Demonstrantům vyčítá dvojí metr: „plivou“ na Okamuru, Rajchla nebo Schillerovou kvůli komunismu, ačkoli ti v KSČ možná ani nebyli, a zároveň tleskají člověku, který by dělal špionáž proti „nepřátelským buržoazním státům“. Námitku, že to Pavel svým dalším životem odčinil, odmítá. Do NATO se podle ní dostal právě díky „vzdělání z východních mocností“. Hlasy obou účastnic se v přepisu nedají spolehlivě rozlišit.
+
+> „Proto stojí za zmínku říct, že Petr Pavel v době, kdy vás tady mlátili, tak támhle dělal kurz na rozvědčíka.“ — Lenka Tarabová
+
+**Zdroje:** [Tarabová — Paní na Národní (17. 11. 2026)](_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026)
+
+---

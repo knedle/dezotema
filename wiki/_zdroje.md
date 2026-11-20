@@ -6448,3 +6448,11 @@
 - **Datum záznamu:** 2026-11-15
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 57 min, večer po demonstraci na Letné, od asi 54. minuty odpovědi na dotazy. 34 témat v přehledu, většina s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: policie v Německu a Francii jako „divoká zvěr“, Minář a Halík bez výzvy). Zpracováno podle podkladů pomocného agenta.
+
+## Lenka Tarabová — Paní na Národní (17. 11. 2026) {#lenka-tarabová--paní-na-národní-17-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-17_Lenka-Tarabová_PANÍ-NA-NÁRODNÍ.txt)
+- **Kanál:** Lenka Tarabová
+- **URL:** <https://m.facebook.com/watch/?v=1508439229016234&_rdr>
+- **Datum záznamu:** 2026-11-17
+- **Zpracováno:** ano
+- **Poznámka:** 2 min, pouliční hádka s účastnicí akce na Národní 17. 11. Hlasy se v přepisu nedají spolehlivě rozlišit. Zpracováno jen téma Petra Pavla.

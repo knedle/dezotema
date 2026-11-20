@@ -44,6 +44,7 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - Pavel a fotografování na F1 v Maďarsku jako „PR opičárny"; seznam nesplněných slibů (Kolář, blokování vlády, veto rozpočtu) — viz [petr-pavel.md](../petr-pavel.md) — [Videoportál (28. 7.)](../_zdroje.md#lenka-tarabová--videoportál-28-7-2026)
 - **1. 10.** — Ukrajinci: 1,2 mil. podle cizinecké policie, „od nátury nejsou moc občany", revize městských bytů — [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) → [migrace.md](../migrace.md)
 - **4. 10.** — Landsmannschaft: „potomci zrůd" (→ [stoch. teror](../stochasticky-teror.md)) — [Tarabová — Videoportál: programový bod 12 — Landsmannschaft (4. 10. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bod-12-landsmanšaft-4-10-2026)
+- **17. 11.** — Pavel se v listopadu 1989 „550 m od Národní“ učil na rozvědčíka; dvojí metr demonstrantů (tleskají jemu, opozici vyčítají komunismus) — viz [petr-pavel.md](../petr-pavel.md#pavel-rozvedcik-narodni-tarabova-17-11-2026) — [Tarabová — Paní na Národní (17. 11. 2026)](../_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice — prezentovaná Hvězdovská ulice patřila ve skutečnosti Ralsku, skutečná Hvězdovská v Mimoni zůstala neopravená — [Videoportál: hejtman Půta a Hvězdovská ulice (6. 7.)](../_zdroje.md#lenka-tarabová--videoportál-hejtman-půta-a-hvězdovská-ulice-6-7-2026)
@@ -117,6 +118,8 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 | Martin Půta | ❌ negativní | „Už dávno měl sedět", kandidatura do Senátu jako útěk | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 | Tibor Batthyány / GEN | ❌ negativní | Vypověděl koalici s PRO kvůli Tarabové | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
 | Petr Král (starosta Mimoně) | ✅ pozitivní | Vzorný starosta s vyrovnaným rozpočtem | 2026-10-01 | [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026) |
+| Petr Pavel | ❌ negativní | V roce 1989 se „550 m od Národní“ učil na rozvědčíka pro komunisty, do NATO se dostal díky „vzdělání z východních mocností“ | 2026-11-17 | [Tarabová — Paní na Národní (17. 11. 2026)](../_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026) |
+| Tomio Okamura, Jindřich Rajchl, Alena Schillerová | ✅ pozitivní | Hájí je proti výtkám kvůli komunismu, které považuje za dvojí metr | 2026-11-17 | [Tarabová — Paní na Národní (17. 11. 2026)](../_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026) |
 
 ---
 
@@ -158,3 +161,4 @@ Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na
 - [Videoportál: ombudsman pro Liberečany (26. 9. 2026)](../_zdroje.md#lenka-tarabová--videoportál-ombudsman-pro-liberečany-26-9-2026)
 - [Tarabová — Beseda v Koloseu (1. 10. 2026)](../_zdroje.md#lenka-tarabová--beseda-koloseum-1-10-2026)
 - [Tarabová — Videoportál: programový bod 12 — Landsmannschaft (4. 10. 2026)](../_zdroje.md#lenka-tarabová--videoportál-bod-12-landsmanšaft-4-10-2026)
+- [Tarabová — Paní na Národní (17. 11. 2026)](../_zdroje.md#lenka-tarabová--paní-na-národní-17-11-2026)
