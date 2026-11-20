@@ -98,7 +98,11 @@ Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letn
 
 > „Pokud bychom teď ustoupili tomu, že menšina se nesmířila s tím, že ty volby prohrála, tak bychom zradili naše voliče.“ — Jindřich Rajchl
 
-**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026), [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026)
+**16. 11. — Černohorský** zpochybňuje i oficiální záběry Letné z dronu. Zvuk k obrazu podle něj „nesedí“, a hlavně na nich nevidí jedinou vlajku, ani „hadr Evropské unie“, ani „hadr ukrajinský“, ani českou. Naznačuje tím, že záběry nejsou z akce a údaj o 450 tisících účastnících („oveček“) je vymyšlený.
+
+> „Nevidím tam jedinou vlajku, jo, jedinou vlajku, ten hadr Evropské unie. Nevidím tam jedinej hadr ukrajinský.“ — Jiří Černohorský
+
+**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026), [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026), [Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026)](_zdroje.md#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026)
 
 ---
 

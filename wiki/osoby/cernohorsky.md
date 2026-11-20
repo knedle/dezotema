@@ -175,6 +175,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 10.** — Facebook záměrně přerušil vysílání s Vlasákovou; výhrůžné hovory od „Štítu demokracie" a „gangu Oganesjana" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
 - **9. 11.** — ČT zrušit i ze státního rozpočtu, „moloch s 3 000 parazity“, „Čiči na gauči“, ředitel 300 tis. + 12 mil. odměn → [media-propaganda.md](../media-propaganda.md#ct-zrusit-moloch-cernohorsky-9-11-2026) — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 - **14. 11.** — z 8,5 mld. jen asi 600 mil. na zpravodajství, „pokus“ s dobrovolnými poplatky, ČT „krev na rukou“ za covid, „koncesionářští paraziti“, studenti „polistopadus mamlus“, Nerudová a 140 tisíc exekucí → [media-propaganda.md](../media-propaganda.md#ct-zrusit-moloch-cernohorsky-9-11-2026) — [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
+- **16. 11.** — oficiální záběry Letné z dronu zpochybňuje (nesedí zvuk, žádné vlajky EU, Ukrajiny ani ČR), 450 tisíc „oveček“ podle něj nadsazeno → [fara-neziskovky.md](../fara-neziskovky.md#letna-cirkus-minare-rajchl-15-11-2026) — [Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026)](../_zdroje.md#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
 - LGBT a queer gender zákonem zakázat; drag performace jako programování dítěte; podpora Orbánovy politiky — [Queer gender zákonem zakázat 10. 4. 2026](../_zdroje.md#jiří-černohorský--queer-gender-zákonem-zakázat-10-4-2026)
@@ -570,3 +571,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 - [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 - [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
+- [Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026)](../_zdroje.md#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026)

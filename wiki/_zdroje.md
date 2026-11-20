@@ -6480,3 +6480,11 @@
 - **Datum záznamu:** 2026-11-17
 - **Zpracováno:** ano
 - **Poznámka:** 7 min, slavnostní projev ke státnímu svátku (komentář ohlášený 8. 11.).
+
+## Jiří Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026) {#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-16_Jiří-Černohorský_450000-tisíc-oveček-A-cože-toto-má-být-Závěry-z-dron.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/4683810201864381>
+- **Datum záznamu:** 2026-11-16
+- **Zpracováno:** ano
+- **Poznámka:** 1 min, komentář k oficiálním záběrům Letné z dronu.
