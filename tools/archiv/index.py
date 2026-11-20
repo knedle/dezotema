@@ -5,6 +5,9 @@ from datetime import date
 from .model import Osoba, OsobaRef, Tema, Vyrok, Zdroj
 
 
+PRAH_ROZDELENI = 150
+
+
 class Archiv:
     def __init__(self, zdroje: list[Zdroj], temata: dict[str, Tema], osoby: dict[str, Osoba]):
         self.zdroje = zdroje
@@ -14,6 +17,21 @@ class Archiv:
         for z in zdroje:
             for v in z.vyroky:
                 self.vyroky[v.id] = (v, z)
+
+    def stranka_vyroku(self, vid: str, tema: str | None = None) -> str | None:
+        """Cesta stránky (vůči wiki), která drží kotvu výroku; `tema` výchozí první téma."""
+        cil = self.vyroky.get(vid)
+        if not cil:
+            return None
+        v, z = cil
+        if not v.temata:
+            return None
+        t = tema or v.temata[0]
+        if t not in v.temata:
+            return None
+        if len(self.podle_tematu(t)) > PRAH_ROZDELENI:
+            return f"temata/{t}/{z.datum.year}.md"
+        return f"temata/{t}.md"
 
     def _razene(self, dvojice):
         # stabilní řazení: nejnovější datum první, jinak pořadí načtení

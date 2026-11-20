@@ -132,3 +132,26 @@ def test_deterministic_and_cli(tmp_path, capsys):
     generate(root, out)
     b = {p: p.read_bytes() for p in out.rglob("*") if p.is_file()}
     assert a == b
+
+
+def test_links_target_split_year_page(tmp_path):
+    from tools.archiv.model import Vazba, PrehledPolozka
+    root = tmp_path / "repo"
+    shutil.copytree(FIX, root)
+    vy = [Vyrok(id=f"x-{i}", typ="tvrzeni", temata=["vetrniky"], nadpis=f"N{i}", text="t")
+          for i in range(151)]
+    vy[100].vazby = [Vazba(na="x-0", typ="souhlas")]
+    uloz_zdroj(Zdroj(id="2025-01-01_s", mluvci="zitko", kanal="k", titul="t",
+                     datum=date(2025, 1, 1), url="u",
+                     prepis="prepisy/done/2026-03-10_zitko_prvni.txt", vyroky=vy[:1]), root)
+    uloz_zdroj(Zdroj(id="2026-01-01_s", mluvci="vrabel", kanal="k", titul="t2",
+                     datum=date(2026, 1, 1), url="u",
+                     prepis="prepisy/done/2026-03-10_zitko_prvni.txt",
+                     prehled=[PrehledPolozka(tema="vetrniky", text="p", vyrok="x-0")],
+                     vyroky=vy[1:]), root)
+    generate(root, root / "wiki")
+    out = root / "wiki"
+    assert "../../temata/vetrniky/2025.md#x-0" in (
+        out / "temata/vetrniky/2026.md").read_text(encoding="utf-8")
+    assert "../temata/vetrniky/2025.md#x-0" in (
+        out / "zpravodajstvi-vrabel/2026-01.md").read_text(encoding="utf-8")

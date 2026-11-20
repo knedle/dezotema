@@ -33,9 +33,10 @@ def odkaz_vyroku(archiv: Archiv, vid: str, rel: str) -> str | None:
     if not cil:
         return None
     v, _ = cil
-    if not v.temata:
+    stranka = archiv.stranka_vyroku(vid)
+    if not stranka:
         return None
-    return f"[{v.nadpis}]({rel}temata/{v.temata[0]}.md#{v.id})"
+    return f"[{v.nadpis}]({rel}{stranka}#{v.id})"
 
 
 def render_vyrok(v: Vyrok, z: Zdroj, archiv: Archiv, rel: str) -> str:

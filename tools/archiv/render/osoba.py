@@ -33,7 +33,7 @@ def render_osoba(archiv: Archiv, osoba: Osoba, souhrn_text: str) -> str:
             podle.setdefault(t, []).append(v)
     for t in sorted(podle, key=lambda s: (archiv.temata[s].nazev if s in archiv.temata else s).casefold()):
         out.append(f"### {archiv.temata[t].nazev if t in archiv.temata else t}\n")
-        out += [f"- [{v.nadpis}]({rel}temata/{t}.md#{v.id})" for v in podle[t]]
+        out += [f"- [{v.nadpis}]({rel}{archiv.stranka_vyroku(v.id, t)}#{v.id})" for v in podle[t]]
         out.append("")
 
     pred = [(v, z) for v, z in archiv.predikce() if archiv.mluvci_vyroku(v, z) == osoba.slug]

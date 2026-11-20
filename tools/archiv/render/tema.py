@@ -3,11 +3,10 @@ from __future__ import annotations
 from collections import Counter
 from pathlib import Path
 
-from ..index import Archiv
+from ..index import PRAH_ROZDELENI, Archiv
 from ..model import Tema
 from .common import datum_cz, jmeno_osoby, render_vyrok
 
-PRAH_ROZDELENI = 150
 
 
 def souhrn(path: Path) -> str:
