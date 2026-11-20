@@ -1,0 +1,7 @@
+osoby:
+  - slug: vrabel
+    jmeno: Ladislav Vrabel
+    sledovany: true
+    vlastni_stranka: true
+  - slug: trump
+    jmeno: Donald Trump

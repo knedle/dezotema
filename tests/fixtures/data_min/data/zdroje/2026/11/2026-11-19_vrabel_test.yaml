@@ -1,0 +1,33 @@
+zdroj:
+  id: 2026-11-19_vrabel_test
+  mluvci: vrabel
+  kanal: Ladislav Vrabel
+  titul: Test
+  datum: 2026-11-19
+  url: https://example.org/v
+  prepis: prepisy/done/2026-11-19_test.txt
+vyroky:
+  - id: vrabel-2026-11-19-01
+    typ: tvrzeni
+    temata: [valka-nato-rusko]
+    nadpis: Prvni
+    text: Text jedna.
+  - id: vrabel-2026-11-19-02
+    typ: predikce
+    temata: [valka-nato-rusko, volby-2026]
+    nadpis: Druhy
+    text: Text dva.
+    osoby:
+      - {osoba: trump, vztah: rozporuplny, kontext: kontext}
+    vazby:
+      - {na: vrabel-2026-11-19-01, typ: posun}
+    predikce:
+      horizont: do konce roku
+      stav: ceka
+  - id: vrabel-2026-11-19-03
+    typ: stoch-teror
+    temata: [volby-2026]
+    nadpis: Treti
+    text: Text tri.
+    teror:
+      terc: Nekdo
