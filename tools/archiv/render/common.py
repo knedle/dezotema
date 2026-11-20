@@ -24,8 +24,9 @@ def odkaz_vyroku(archiv: Archiv, vid: str, rel: str) -> str | None:
     if not cil:
         return None
     v, _ = cil
-    tema = v.temata[0] if v.temata else ""
-    return f"[{v.nadpis}]({rel}temata/{tema}.md#{v.id})"
+    if not v.temata:
+        return None
+    return f"[{v.nadpis}]({rel}temata/{v.temata[0]}.md#{v.id})"
 
 
 def render_vyrok(v: Vyrok, z: Zdroj, archiv: Archiv, rel: str) -> str:
@@ -37,7 +38,10 @@ def render_vyrok(v: Vyrok, z: Zdroj, archiv: Archiv, rel: str) -> str:
 
     bloky = [f"### {v.nadpis} {{#{v.id}}}", " · ".join(hlavicka), v.text.strip()]
     for c in v.citace:
-        bloky.append(f"> „{c.text}“" + (f" [{c.cas}]" if c.cas else ""))
+        radky = f"„{c.text}“".splitlines() or [""]
+        if c.cas:
+            radky[-1] += f" [{c.cas}]"
+        bloky.append("\n".join(f"> {r}".rstrip() for r in radky))
 
     if v.osoby:
         casti = []

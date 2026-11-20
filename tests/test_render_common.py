@@ -43,3 +43,23 @@ def test_render_minimal():
     assert "tvrzeni" not in out
     assert "neznamy" in out
     assert "\n> " not in out
+
+
+def test_vazba_cil_bez_temat():
+    cil = Vyrok(id="cil", typ="tvrzeni", temata=[], nadpis="C", text="c")
+    v = Vyrok(id="v", typ="tvrzeni", temata=["t"], nadpis="V", text="x",
+              vazby=[Vazba(na="cil", typ="posun")])
+    z = Zdroj(id="z", mluvci="m", kanal="k", titul="T", datum=date(2026, 3, 1),
+              url="u", prepis="z.txt", vyroky=[v, cil])
+    out = render_vyrok(v, z, Archiv([z], {}, {}), "")
+    assert "temata/.md" not in out
+    assert "posun oproti cil" in out
+
+
+def test_viceradkova_citace():
+    v = Vyrok(id="v", typ="tvrzeni", temata=["t"], nadpis="V", text="x",
+              citace=[Citace(text="první\ndruhý", cas="01:02")])
+    z = Zdroj(id="z", mluvci="m", kanal="k", titul="T", datum=date(2026, 3, 1),
+              url="u", prepis="z.txt", vyroky=[v])
+    out = render_vyrok(v, z, Archiv([z], {}, {}), "")
+    assert "> „první\n> druhý“ [01:02]" in out
