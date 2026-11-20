@@ -336,6 +336,16 @@ Putin oznámil odvetu Ukrajině za útoky na ruské průmyslové podniky a infra
 
 ---
 
+### Útok na Krymský most jako dílo „koalice ochotných skrze Ukrajinu“ — Rusové „vyvodí zodpovědnost“ i vůči plátcům zbraní (Vrabel, 16. 11. 2026) {#krymsky-most-koalice-vrabel-16-11-2026}
+
+Ke zprávě o rekordních 1 336 dronech sestřelených nad Ruskem a o útoku na Krymský most Vrabel připomíná, že Friedrich Merz před nástupem do úřadu hrozil Putinovi desetidenním ultimátem a raketami Taurus a že prvním cílem měl být právě Krymský most kvůli zásobování fronty. Ukrajina podle něj bez západních peněz (právě schválených 8 mld. eur) a zbraní nic nezmůže a chybí jí vojáci, takže útok provedla „koalice ochotných“ jejím prostřednictvím. Rusové útoky „vždycky opětují“ a je „jenom otázka času“, kdy vyvodí odpovědnost. Pak si podle něj „můžou vzpomenout taky na to, kdo ty zbraně kupuje, kdo ty zbraně platí“, včetně českých politiků a občanů, kteří posílají peníze na zbraně pro Ukrajinu.
+
+> „Osobně bych řekl, že zaútočila koalice ochotných společně s Ukrajinou, skrze Ukrajinu na Krymský most.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+
+---
+
 ## Stav Ukrajiny a mobilizace
 
 ### Zelenskyj odmítá svobodné volby — vydělává na válce, EU financuje strach jako nástroj kontroly (Šejna, 24. 8. 2026)

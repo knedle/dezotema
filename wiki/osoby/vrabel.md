@@ -258,6 +258,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - EU nařizuje bezemisní renovaci 700 000 českých domů (EPBD4, 12. 7.) — [Nedělní vysílání 12. 7.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-12-7-2026)
 - EU komise reformuje se, úředníci v hlavních městech (13. 7.); Maďarsko — ústavní většina odvolává prezidenta Šujoka — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
 - **13. 11.** — soud EU „vždy proti státu“ (Fit for 55), koruna v ústavě „krmení voličů“ → [suverenita-eu.md](../suverenita-eu.md#soud-eu-fit-for-55-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+- **16. 11.** — Polsko: změnu přinese jen Braun, „televizní politické síly“ nic nezmění → [suverenita-eu.md](../suverenita-eu.md#polsko-braun-televizni-sily-vrabel-16-11-2026); konec evropského autoprůmyslu, Evropa „jde vyrábět zbraně“ → [suverenita-eu.md](../suverenita-eu.md#konec-autoprumyslu-cina-vrabel-16-11-2026) — [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -427,6 +428,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **13. 11.** — příměří jako „kopice dynamitu“, EU „finančně závislá“ na válce, ruská aktiva jako krádež, Ukrajina „nacistický režim“; po mírových jednáních teroristický útok „a pak to začne“ → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#kopice-dynamitu-vrabel-13-11-2026), [valka-nato-rusko.md](../valka-nato-rusko.md#teroristicky-utok-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - **14. 11.** — Šen-čen: sféry vlivu, USA Evropě nepomohou; Bergen Group a „nejpodřízenější role“ ČR → [valka-nato-rusko.md](../valka-nato-rusko.md#sfery-vlivu-vrabel-14-11-2026), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#bergen-group-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 - **15. 11.** — Rusko by Evropu dobylo bez jaderných zbraní, vyhraje „s 99,9 %“, válka o nový světový systém → [valka-nato-rusko.md](../valka-nato-rusko.md#rusko-dobude-evropu-vrabel-15-11-2026) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+- **16. 11.** — Krymský most jako útok „koalice ochotných skrze Ukrajinu“, odveta i vůči plátcům zbraní → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#krymsky-most-koalice-vrabel-16-11-2026); dohoda USA–Rusko o jaderném neútočení otevře Rusku cestu k Evropě, Tajvan → [valka-nato-rusko.md](../valka-nato-rusko.md#rusko-dobude-evropu-vrabel-15-11-2026) — [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -2402,6 +2404,14 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Andrej Babiš | ❌ negativní | „Dává Západu všechno“, zákaz referenda „nejhorší věc“ | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
 | Scott Ritter | ✅ pozitivní | Zdroj tvrzení, že Rusko nemůže čekat do roku 2029 | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
 | Vladimír Štěpán | ❌ negativní | „Strašák“, nerozumí mezinárodnímu obchodu | 2026-11-15 | [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026) |
+| Friedrich Merz | ❌ negativní | Jeho ultimátum a Taurusy jako doklad, že za útokem na Krymský most stojí Západ | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Scott Ritter | ✅ pozitivní | Cituje ho, že Rusko rozhodlo o konfliktu s Evropou | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Vladimir Putin | ✅ pozitivní | Rusové „nechtějí válku“, ale budou muset „řešit otázku Evropy“ | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Grzegorz Braun, Roman Fritz | ✅ pozitivní | Jediní, kdo mohou změnit Polsko | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Štefan Harabín | ✅ pozitivní | Na Slovensku „jedinej“, kdo něco může udělat | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Donald Tusk | ❌ negativní | Jeho výměna bez Brauna nic nezmění | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Keir Starmer, Andy Burnham | ❌ negativní | Burnham „dělá naprosto to samé“ | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Kaja Kallasová | ❌ negativní | Tvrzení o „čipech z praček“ je „zcestné“ | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
 
 ---
 
@@ -2615,3 +2625,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 - [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+- [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)

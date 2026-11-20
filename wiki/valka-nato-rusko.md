@@ -1694,6 +1694,10 @@ Vrabel rozvíjí scénář, v němž se Trump, Putin a Si dohodnou na sférách 
 
 > „Rusko si nemůže dovolit čekat do roku 2029, do roku 2030 a nechat se bombardovat Evropou.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+**16. 11.** — Vrabel tezi rozvádí. Rusové podle něj „nikomu ubližovat nechtějí“, ale jsou denně napadáni drony, raketami a sabotážemi, takže „budou muset změnit taktiku“, a „nedává tomu moc času“. S odkazem na Scotta Rittera („nevím, jestli to pravda je“) uvádí, že v Rusku už padlo rozhodnutí o konfliktu s Evropou. Rusko podle něj denně skladuje nejméně 700 dronů a 100 iskanderů, u Finska má asi 70 tisíc vojáků, může mobilizovat 2,2 milionu lidí a modernizovalo systém „Mrtvá ruka“, zatímco Evropa nemá protivzdušnou obranu ani vojáky. Na schůzce Trump–Si–Putin očekává dohodu USA a Ruska o vzájemném nepoužití jaderných zbraní, která „otevře širokou cestu“ Rusku, „aby si mohlo vyřídit účty s Evropou“ konvenčně. Jaderná válka podle něj nebude. Čína si podle něj vezme Tajvan a USA se buď stáhnou, nebo začnou válku s Čínou. Kdyby Rusko vedlo „plnohodnotnou invazi“, Ukrajina by podle něj kapitulovala do dvou dnů. Na rozdíl od dřívějška si „není úplně jistý, že to ti Rusové zvládnou bez té války s Evropou“, a „docela se toho obává“.
+
+> „Jestli prostě Evropa nedá pokoj a Rusové začnou to brát tak, že teda jako je čas se nějakým způsobem poprat s Evropou, tak to udělají takhle.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 
 ---

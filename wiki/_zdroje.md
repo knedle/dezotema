@@ -6528,3 +6528,11 @@
 - **Datum záznamu:** 2026-11-18, 21:21 (soubor datován 19. 11. podle data stažení)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 9 min, „18/11 Den po testu EBS v USA 21:21“. Mluví jen Zítko, asi třetinu času předčítá cizí texty (Q, Cvalín, „Daniel R.“, Juan O. Savin, Pleticha). Úvodní spor o falešné kanály, vánoční přání a reklama na Bevit nezpracovány. Zpracováno 13 témat. Predikce: EBS 17. 11. označena ❌ (Zítko test zpětně vydává za „splnění účelu“), nový záznam o mírové smlouvě a „návratu před rok 1997“. Stochastický teror nezjištěn (hraniční: „na všechny jednoznačně dojde“ bez jmen, Dědek jako „reptilián“, antisemitské obraty „Chazarská strana“ a „globální lichva“). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.
+
+## Ladislav Vrabel — Zprávy v devět 16. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-16-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-16_Ladislav-Vrabel_16-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/2166743413942010>
+- **Datum záznamu:** 2026-11-16
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 4 min, den po Letné a den před 17. listopadem. 20 témat v denním přehledu, 4 s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: Rusové si „můžou vzpomenout“ na plátce zbraní, Ukrajincům „musí někdo účet vystavit“). Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.

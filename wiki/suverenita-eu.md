@@ -1022,3 +1022,23 @@ Zamítnutí sedmi polských žalob proti klimatickému balíčku Fit for 55 je p
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ---
+
+### Změnu v Polsku, ČR a na Slovensku přinesou jen Braun, Harabín a „kluci z Republiky“ — „televizní politické síly“ nic nezmění (Vrabel, 16. 11. 2026) {#polsko-braun-televizni-sily-vrabel-16-11-2026}
+
+K hlasování polského Sejmu o nedůvěře Tuskově vládě (návrh Morawieckého, kandidát na premiéra Marek Jurek) Vrabel říká, že „moc tomu nevěří“. I kdyby prošlo, dopadne to podle něj jako v Británii, kde Starmera nahradil Andy Burnham, který „dělá naprosto to samé“. Změnu může přinést jen Grzegorz Braun s Romanem Fritzem a Konfederací Korony Polské. Dokud Poláci volí PiS jako „hlavní opozici“ dodanou televizí, nic se nezmění. Stejně je to podle něj v ČR (dříve Babiš, dnes SPD) a na Slovensku, kde je „jediný“ Štefan Harabín, případně „kluci z Republiky“. „Televizní politické síly“ podle něj žádnou změnu neudělají, nabízejí jen populistická hesla.
+
+> „Jedinej, kdo může něco udělat v Polsku, je Grzegorz Braun a Roman Fritz.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+
+---
+
+### Konec evropského autoprůmyslu: čínská auta za půlku ceny, Volkswagen ruší 100 tisíc míst — Evropa „jde vyrábět zbraně“ (Vrabel, 16. 11. 2026) {#konec-autoprumyslu-cina-vrabel-16-11-2026}
+
+Ze zprávy, že Volkswagen zruší přes 100 tisíc míst (šéf Oliver Blume uvádí dvojnásobné personální náklady v Německu), Vrabel vyvozuje, že evropská ekonomika postavená na autech „je pryč“. Čínská auta stojí podle něj polovinu až dvě třetiny ceny a nová čínská auta konkurují ojetým Audi a BMW i „předražené“ Škodě Kodiaq. Na německém autoprůmyslu přitom visí desetitisíce firem v ČR. Češi si podle něj „hrají na pupek světa“. Evropa teď podle něj „jde vyrábět zbraně“, ačkoli akcie Rheinmetallu a CSG Michala Strnada podle něj spadly o 70 %.
+
+> „Co se týče té evropské ekonomiky postavené na automobilovém průmyslu, to je pryč. To je pryč. Chápete?“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+
+---

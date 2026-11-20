@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — USA a Rusko se v Šen-čenu dohodnou na jaderném neútočení, Rusko pak „vyřídí účty s Evropou“; ruská odveta za Krymský most i vůči plátcům zbraní (16. 11. 2026)
+
+**Předpověď:** Na schůzce Trump–Si–Putin se USA a Rusko podle Vrabela dohodnou na vzájemném nepoužití jaderných zbraní, čímž se Rusku otevře cesta k „vyřízení účtů s Evropou“ konvenčními zbraněmi. Jaderná válka nebude. Čína si vezme Tajvan. Za útok na Krymský most přijde ruská odveta („jenom otázka času“), která může zasáhnout i ty, kdo zbraně pro Ukrajinu kupují a platí. Hlasování o nedůvěře Tuskovi podle něj neprojde, nebo nic nezmění.
+
+> „Předpokládám, že dojde k dohodě o vzájemném neútočení jadernými zbraněmi jedna země na druhou a tím se otevře ta široká cesta pro Ruskou federaci, aby si mohli vyřídit účty s Evropou.“ — Ladislav Vrabel
+
+**Horizont:** po schůzce v Šen-čenu (19. 11. 2026), jinak neurčeno; polský Sejm 17. 11. 2026
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+
+---
+
 ### Pavel Zítko — mírová smlouva z Šen-čenu ukončí válku na Ukrajině; ČR, Polsko a Maďarsko se vrátí „do stavu před rokem 1997“, Československo před rok 1992 (18. 11. 2026)
 
 **Předpověď:** Velká trojka (Trump, Putin, Si) podle Zítka v Šen-čenu uzavírá „mírovou smlouvu pro celý svět“, „konflikt na Ukrajině se chýlí k závěru“ a země bývalé Varšavské smlouvy se „musí vrátit do stavu před rokem 1997“ (před rozšířením NATO), u Československa do stavu před rokem 1992. S odkazem na Pjakina dává „přes 99 %“ znovuspojení Česka a Slovenska.
@@ -120,7 +132,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 **13. 11.** — Vrabel „sází“, že Babiš v Dublinu s 70miliardovou půjčkou Ukrajině souhlasí („Sázím na Andreje, že bude souhlasit“). Moderátorka Zuzka naopak odhaduje, že Babiš „prohlásí jako minule, ale ručit nebudeme“.
 **14. 11.** — Výsledek summitu Vrabel nekomentoval, jen že se Babiš v Dublinu usmíval a podával ruku Zelenskému.
 **15. 11.** — Vrabel predikci považuje za naplněnou: „my v Čechách řekneme, že za to neručíme. Což neznamená moc, že za to neručíme, protože to platíme.“ Stav ponechán do ověření skutečného výsledku summitu.
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+**16. 11.** — Ke schválení 8 mld. eur pro Ukrajinu Evropskou radou Vrabel sarkasticky poznamenává: „Odhlasoval tuto půjčku Andrej Babiš. A hned potom letí… do Izraele.“
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 
 ---
 ### Ladislav Vrabel — studentské protesty řízené „CIA“ svrhnou Babišovu vládu dřív než za tři roky; Studentstvo postaví vlastní kandidátku, 17. 11. vyvrcholí jen „první vlna“ (10. 11. 2026)
