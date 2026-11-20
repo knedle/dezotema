@@ -8,3 +8,24 @@ zdroj:
   prepis: prepisy/done/2026-11-02_Československo-TV2_jana-peterkova-official-3-vysílala-živě_2.txt
   rezim: standard
   poznamka: 39 min, ranní vstup (9:35) před „posledním termínem“; převážně rekapitulace kauzy Čermák.
+vyroky:
+- id: zitko-2026-11-01-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Zítkův vlastní soudní spor: zákaz pobytu v Praze, soudkyně Rajfová (Zítko, 4. 8. 2026)'
+  text: '**31. 10. (záznam z 2023)** — V kauze Jany Peterkové našel podle Zítka spolek Šalamoun šest porušení
+    zákona; Rudolfu Wawrovi měla justiční stráž bez varování stříknout slzný plyn do očí.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-11-01-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Zítkův vlastní soudní spor: zákaz pobytu v Praze, soudkyně Rajfová (Zítko, 4. 8. 2026)'
+  text: '**1. 11.** — Odvolací rozsudek Městského soudu v Praze mu podle Zítka přišel nepodepsaný a bez
+    adresy, a je tedy „neplatný“; u rozsudku z 19. 2. 2025 prý nebyl přítomen státní zástupce. K razii
+    3. 2. uvádí čtyři auta, 10 policistů a 4 „kukláče“ se samopaly namířenými do postele, výslech na Zbraslavi
+    do půlnoci a propuštění „do mrazu“ bez telefonu; partnerka měla po zásahu psychické problémy a museli
+    se přestěhovat. Kauzu nadržování Čermákovi policie odložila jako nedůvodnou; Patrik Tušl mu prý volá
+    v noci ze skrytého čísla a „žebrá peníze“.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

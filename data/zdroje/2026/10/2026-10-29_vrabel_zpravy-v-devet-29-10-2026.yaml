@@ -8,3 +8,66 @@ zdroj:
   prepis: prepisy/done/2026-10-29_Ladislav-Vrabel_29-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 13 min, zprávy čte Zuzana; bez sdílených videí.
+vyroky:
+- id: vrabel-2026-10-29-01
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Pavel vyznamenal youtubera za boj s dezinformacemi — Vrabel by medaili odmítl; Lorencová mu
+    prý volala, že ji „chtějí zabít“ (Vrabel, 29. 10. 2026)
+  text: Ke zprávě, že prezident Pavel 28. 10. udělil medaili youtuberovi za vysvětlování společenských
+    témat a odhalování dezinformací, Vrabel říká, že ho nezná, a zesměšňuje ho. Od „agenta Pávka“ by vyznamenání
+    nepřijal. Jako morální vzor uvádí Janu Lorencovou, která vrátila Řád Bílého lva poté, co ho dostal
+    Zelenskyj. Tvrdí, že ji navštívil v Ostravě, slíbila mu „tajné dokumenty“, které nikdy nedostal, a
+    před smrtí mu z nemocnice volala, že se ji někdo pokouší zabít. Telefonát má podle svých slov nahraný.
+  citace:
+  - text: Ona mi volala z nemocnice, dokonce mám nahraný ten telefonát, že ji se pokouší zabít.
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: vrabel-2026-10-29-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: „Sdílený dluh“ EU pro Ukrajinu (70 mld. eur) — Babiš ho podle Vrabela odmává; na frontu dojde
+    pětina (Vrabel, 29. 10. 2026)
+  text: 'Vrabel tvrdí, že EU už nemá peníze a její dluhopisy nikdo nechce. Ukrajinu proto chce financovat
+    třemi cestami: vyššími rozpočty, úsporami občanů (Savings and Investments, Drobilův program „Národ
+    sobě“) a nově společným dluhem, o němž se má jednat na summitu koncem listopadu. Babiš to podle něj
+    „odmává“. Na bojiště prý dojde jen asi pětina peněz, zbytek se rozkrade. Válku popisuje jako nevydařený
+    „biznis projekt“ porazit Rusko a získat jeho nerostné bohatství, do kterého se dál „cpou“ peníze,
+    ačkoli Ukrajina bez přímého zapojení NATO podle něj vyhrát nemůže a přijde o zbytek území. Ke schválené
+    závěrečné platbě 23 mld. Kč z Národního plánu obnovy opakuje, že peníze jdou do Green Dealu a digitalizace,
+    ne do obnovy ekonomiky.'
+  citace:
+  - text: Andrej Babiš pojede do Evropské unie na konci listopadu a už teď vám tady říkám, že předpokládám,
+      že odmává.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-10-29-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Předčasný odchod Lagardeové z ECB — „něco blbého se v Evropě chystá“; ocenění za odpor k zabavení
+    ruských aktiv (Vrabel, 29. 10. 2026)
+  text: K oznámení, že Christine Lagardeová v únoru 2027 předčasně opustí ECB, Vrabel tvrdí, že odchod
+    nemá rozumný důvod. Buď má slíbenou pozici (WEF, MMF, zbrojní průmysl, banka), nebo se „chystá obyčejná
+    válka v Evropě“, případně nechce být u společného dluhu, protože vidí, že Evropa „jde do kytek“. Ačkoli
+    ji má za „silnou globalistku“, oceňuje, že se postavila proti zabavení zmrazených ruských aktiv, a
+    možná tak Evropě zachránila „dva roky života“ před krachem.
+  citace:
+  - text: Někde má něco slíbeného, nebo se chystá něco v Evropě blbýho.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-10-29-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'Muniční iniciativa: ČR jde „přes minové pole“ za ostatní — cejch na desetiletí a horší cena
+    ruského plynu (Vrabel, 29. 10. 2026)'
+  text: Vrabel tvrdí, že státy, které nechtějí být viděny jako dodavatelé zbraní proti Rusku, se schovávají
+    za českou muniční iniciativu a ČR je „svým jménem“ posílá dál. Babiš ji podle něj zachoval, protože
+    to chtěli „partneři z NATO“, a upřednostnil je před bezpečností Čechů. Až se Rusko a USA dohodnou
+    na obchodu (Nord Stream s USA jako prostředníkem), dostanou podle něj země, které zbraně nedodávaly,
+    nižší cenu plynu, kdežto ČR bude „na desetiletí zapsaná“ jako nepřítel a u stolu nebude. Vinu dává
+    Fialovi i Babišovi.
+  citace:
+  - text: Je jedna výjimka, kdy chodí před manželem, a to je, když jdou přes minový pole. A to je přesně
+      ono, tohleto Česká republika jde vepředu přes minový pole. To je muniční iniciativa.
+  podtema: NATO, zbrojení a militarizace ČR/Evropy

@@ -8,3 +8,29 @@ zdroj:
   prepis: prepisy/done/2026-11-05_Jindřich-Rajchl_O-cenzuře-a-o-nezbytnosti-zničit-Green-Deal-a-zastavi.txt
   rezim: standard
   poznamka: 2,5 min, výstřih z téže televizní debaty jako video ze 4. 11.
+vyroky:
+- id: rajchl-2026-11-05-01
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: 'Koaliční shoda na úpravě § 405: trestat jen podněcování k násilí a nenávisti, ne „odchylný
+    názor“ (Rajchl, 20. 10. 2026)'
+  text: '**5. 11.** — V televizní debatě Rajchl uvádí případy klientů stíhaných podle něj „za naprostý
+    nesmysl“: Martinu Bednářovou, Radima Panenku (kvůli kondolenci k úmrtí Radka Mladějovského) a nejhorší
+    podle něj odsouzení Josefa Skály a Vladimíra Kapala za debatu o původci masakru v Katyni. Jeho návrh
+    na zrušení § 318a (spolupráce s cizí mocí) prošel do koalice a bude ho jen „precizovat“; nesmyslnost
+    tohoto „gumového paragrafu“ podle něj dokazuje údajný čínský špion, kterého soud po měsících ve vazbě
+    zprostil obžaloby. Úpravu § 405 považuje za odstranění „největšího kladiva na čarodějnice“.'
+  citace:
+  - text: Ten paragraf je natolik extenzivně vykládatelný, že tam můžete obvinit téměř každého.
+  podtema: Trestání politického projevu
+- id: rajchl-2026-11-05-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Merz z BlackRocku plní „zadání“; Evropa neporazí „tříocasou příšeru“ migrace, Green Dealu a
+    proválečného fanatismu (Rajchl, 4. 11. 2026)
+  text: '**5. 11.** — Ve stejné debatě Rajchl dodává, že Trump „nastavil Evropě zrcadlo“ i ve svobodě
+    slova („váš nepřítel nesedí v Moskvě, ale v Bruselu“), a „dvouocasou příšeru“ vidí jako šanci: Trump
+    bude Evropu respektovat, jen pokud bude silná a bohatá.'
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

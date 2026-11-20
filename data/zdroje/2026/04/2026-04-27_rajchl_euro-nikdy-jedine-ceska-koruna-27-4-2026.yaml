@@ -11,3 +11,22 @@ zdroj:
   poznamka: 'Krátký clip — politici mají realizovat vůli občanů, ne jim vnucovat svůj názor; „EURO nikdy,
     jedině česká koruna." Přepis zachytil jiný obsah (COVID tour promo), obsah vyvozen z popisu videa.
     Zhlédnutí: 148 588'
+vyroky:
+- id: rajchl-2026-04-27-01
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Odmítnutí EU armády a jaderného štítu — diplomacie místo přípravy na válku
+  text: 'Rajchl ve televizní debatě s europoslancem Zdechovským (28. dubna 2026) odmítá vznik společné
+    evropské armády s argumentem, že by ji fakticky ovládalo Německo — s ohledem na historickou zkušenost
+    je to pro ČR nepřijatelné. Odmítá i připojení k francouzskému jadernému štítu: bezpečnost ČR by to
+    nesnižovalo, nýbrž snižovalo. Kategoricky odmítá jakoukoli přípravu na jadernou válku a cituje Einsteina:
+    nevím, čím bude vedena třetí světová válka, ale čtvrtá bude vedena klacky a kameny. Česká zahraniční
+    politika by měla stát na silné diplomacii a politice všech azimutů, nikoliv na vyhrožování. Odmítá
+    nálepku „milovníka Ruska": „Nemiluju Rusko, miluju Českou republiku."'
+  citace:
+  - text: Jaderná válka je zánik světa a to si musíme všichni uvědomit. Takže já tohle absolutně odmítám
+      tu myšlenku a já se chci připravovat na mír, nikoliv na válku.
+  dalsi_zdroje:
+  - 2026-04-28_rajchl_eu-armada-a-jaderna-valka-28-4-2026
+  podtema: EU jako vojenská struktura

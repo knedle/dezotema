@@ -10,3 +10,32 @@ zdroj:
   delka: '1:17'
   poznamka: 'Clip z pořadu 360 stupňů. Dozimetr: 5 spolupracujících obviněných vs. STAN; parlamentní komise
     bude volena 28. 5.; STAN jako právnická osoba pod hrozbou zrušení soudem. Zhlédnutí: 39 577'
+vyroky:
+- id: rajchl-2026-05-27-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: STAN jako právnická osoba pod hrozbou zrušení soudem (27. 5. 2026)
+  text: 'Rajchl v krátkém vstupu do pořadu 360 stupňů (26. 5.) upozorňuje na právní situaci: pět spolupracujících
+    obviněných shodně uvádí, že korupční peníze z Dozimetru končily u Hnutí STAN. Státní zástupce dle
+    Rajchla měl tři možnosti: (1) zbavit je statutu spolupracujícího obviněného (pokud lžou), (2) zahájit
+    stíhání pro křivé obvinění, nebo (3) zahájit trestní stíhání STAN jako právnické osoby — a STAN hrozí
+    jeden z možných trestů: zrušení soudem.'
+  citace:
+  - text: Za situace, kdy tady pět obviněných jasně a jednoznačně říká, že ty peníze z toho korupčního
+      jednání končily u hnutí STAN, tak je to velmi zásadní obvinění [...] hnutí STAN co by právnickou
+      osobu. Tam je mimochodem jedním z trestů i zrušení té právnické osoby, který může uložit soud.
+  podtema: Kauza Dozimetr
+- id: rajchl-2026-05-27-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Dozimetr: komise konečně volena, STAN jako právnická osoba pod hrozbou zrušení — Rajchl (26.
+    5. 2026)'
+  text: 'Rajchl v krátkém klipu z pořadu 360 stupňů informuje, že volba členů parlamentní vyšetřovací
+    komise v kauze Dozimetr by měla proběhnout 28. 5. 2026. Uvádí klíčový právní argument: pět spolupracujících
+    obviněných jednoznačně prohlašuje, že korupční peníze končily u hnutí STAN. Pokud státní zástupce
+    tomuto uvěří, měl by jednat — buď jim zbavit status spolupracujícího obviněného, nebo zahájit trestní
+    stíhání pro křivé obvinění, anebo zahájit trestní stíhání STAN jako právnické osoby. Zákon přitom
+    umožňuje soudu jako trest i zrušení právnické osoby.'
+  podtema: Kauza Bojana Vrabelová — politické zničení aktivisty přes rodinu

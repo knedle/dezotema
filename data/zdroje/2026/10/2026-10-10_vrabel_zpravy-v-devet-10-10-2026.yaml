@@ -8,3 +8,52 @@ zdroj:
   prepis: prepisy/done/2026-10-10_Ladislav-Vrabel_10-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 49 min, se Zuzanou (spolumoderátorka). Večer po komunálních a senátních volbách.
+vyroky:
+- id: vrabel-2026-10-10-02
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: EU ekonomika vybudována na levném ruském plynu — vzdáváme se jí dobrovolně (Vrabel, 18. 5. 2026)
+  text: '**10. 10. (Zprávy v devět)** — Vrabel vysvětluje obrat USA „petrodolarem“: od roku 1972 se ropa
+    obchoduje v dolarech, a když BRICS přešly na národní měny (dolar už jen na „60–65 %“ světového obchodu),
+    snaží se USA „získat zpět kontrolu nad palivy“. Proto podle něj „udělali konflikt na Blízkém východě“
+    a podporují ukrajinské útoky na ruské rafinerie, aby zvedli ceny a mohli prodávat „zadrahé“. Nákup
+    ruské nafty je jen „předvolební tah“, aby Trump před volbami v USA srazil ceny. „Typnu si 80 %“, že
+    se po volbách vše „velmi rychle změní“ a USA budou znovu dodávat zbraně Zelenskému. Evropa „páchá
+    ekonomickou sebevraždu“, protože politikům z levných dlouhodobých kontraktů s Ruskem „nekáplo tolik
+    na předvolební kampaně a na úplatky“. Sám prý nákup ruské ropy a plynu prosazuje od roku 2022 (Václavské
+    náměstí, ČT 2023). Ukrajinci jsou podle něj „největší kavky“, kteří byli „nahnáni do války“ a „vyždímáni“
+    Spojenými státy, a válku „prohrávají a prohrajou“. Zelenský je přesto pro něj „největší zrádce svého
+    národa, největší fašista a nacista“.'
+  podtema: Energetika a Rusko
+- id: vrabel-2026-10-10-03
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Susan Dell jako „ještěr“ — Vrabel připouští, že „ještěrky mezi námi“ mohou být (10. 10. 2026)
+  text: Ke zprávě o setkání manželů Michaela a Susan Dellových s Trumpem v Bílém domě (program „Trumpových
+    účtů“ pro děti) Vrabel pouští video a upozorňuje, že „celý internet, média po celém světě“ řeší, zda
+    je Susan Dell „ještěr“. Na detailu záběru má podle něj „opravdu divně“ mrkat („jako kdyby mrkala zdola
+    nahoru“); lidé poukazují na široká ramena, hýbající se ohryzek, oči a „ještěří ruce“. Zdůrazňuje,
+    že tím netvrdí, „že Spojené státy ovládají ještěři“, a že to neví. Zároveň ale „ani nemůže říct, že
+    by to tak nebylo“, protože David Icke „o tom mluví velmi otevřeně a velmi dlouho a třeba to možný
+    je, že jsou tady nějaké ještěrky mezi náma“. Svou spolumoderátorku Zuzanu prý „objímal“ a „připadalo
+    mi docela, že to je ženská“. Uzavírá, že „ty její plastiky… se té ještěrce úplně nepovedly“.
+  citace:
+  - text: Neptejte se mě, jestli svět ovládají ještěři nebo ne, protože to nevím.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-10-10-05
+  typ: tvrzeni
+  temata:
+  - volby-2026
+  nadpis: 'Šok z výsledků: „vyhrály STAN a ODS“, Kuba v Budějovicích jako „pravá ruka kmotra Dlouhého“,
+    „čistá mafie“ (Vrabel, 10. 10. 2026)'
+  text: 'Večer po volbách je Vrabel „totálně v šoku“ z výsledků: „vyhrává STAN a ODS… ty asi vyhrály volby“.
+    V Českých Budějovicích podle něj vyhrál Martin Kuba („Naše Česko“), „pravá ruka kmotra Dlouhého“,
+    který „ukazuje na ten trojzubec ukrajinský na tričku“. Budějovickou politiku (tlak na majitelku hokejového
+    klubu) označuje za „naprosto brutální mafii… normálně čistou mafii“ a odkazuje na své články na webu
+    „Pomoc Budějovice“. Ironicky dodává, že je „naprostá pohoda… pojďme do války“. Výsledky spojuje s
+    militarizací: když vidí, „jak dopadly volby“, je asi „bojovat za demokracii potřeba“. Ze zprávy o
+    odsouzeném starostovi, kterého lidé volí znovu, vyvozuje, že i on byl „odsouzen za podvody“, protože
+    za covidu zaškrtl, že firmy nemají dluhy vůči státu.'
+  podtema: Komunální volby

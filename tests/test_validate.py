@@ -14,6 +14,17 @@ def test_validate_ok():
     assert validuj(FIX) == []
 
 
+def test_nezarazeno_is_not_a_source(tmp_path):
+    """data/zdroje/_nezarazeno.yaml (migrace) není zdroj: validace ani načítání ho neberou."""
+    from tools.archiv.io import nacti_vse
+    root = tmp_path / "r"
+    shutil.copytree(FIX, root)
+    (root / "data" / "zdroje" / "_nezarazeno.yaml").write_text(
+        "jednotky:\n- tema: kauzy\n  nadpis: n\n  text: t\n  kotvy_zdroju: []\n", encoding="utf-8")
+    assert validuj(root) == []
+    assert all(z.id != "_nezarazeno" for z in nacti_vse(root)[0])
+
+
 def test_validate_errors(tmp_path):
     root = tmp_path / "r"
     shutil.copytree(FIX, root)

@@ -8,3 +8,167 @@ zdroj:
   prepis: prepisy/done/2026-10-25_Jindřich-Rajchl_Skutečným-ohrožením-na-demokracii-není-převedení-nákl.txt
   rezim: standard
   poznamka: 56 min, nedělní živé vysílání (Rajchl nachlazený); bez sdílených videí.
+vyroky:
+- id: rajchl-2026-10-25-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Dokument ČT „konečně odvysílal pravdu“: SARS-CoV-2 uměle vytvořen ve Wu-chanu za peníze USA
+    (Rajchl, 22. 10. 2026)'
+  text: '**25. 10.** — Rajchl doplňuje, že původ viru z laboratoře dnes podle něj uznává FBI i americké
+    tajné služby a že Tulsi Gabbardová přiznala, že to Američané věděli od začátku. Odvolává se i na Luca
+    Montagniera (nobelista, objevitel HIV), podle něhož šlo o nepovedený a uniklý laboratorní experiment.
+    Z dokumentu vyvozuje odpovědnost médií: kdyby neumlčovala prof. Berana a informovala o Isoprinosinu
+    (prý během hodin zvyšuje počet bílých krvinek a imunitu) a o Ivermectinu (Nobelova cena 2015), „mohly
+    tu dnes být tisíce lidí naživu“. Dezinformace podle něj šířili Blatný („kdo se naočkuje, nenakazí
+    se“) a Flegr („mrazáky v ulicích, 40 000 mrtvých“). Pfizer podle něj žaluje šest amerických států
+    za zatajování nežádoucích účinků.'
+  citace:
+  - text: A i vy máte tu krev na rukou, přátelé. I vy. Protože kdybyste neumlčovali profesora Berana […]
+      tak tady mohly dneska být tisíce lidí naživu.
+  podtema: Původ a povaha pandemie
+- id: rajchl-2026-10-25-02
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: 'Koaliční shoda na úpravě § 405: trestat jen podněcování k násilí a nenávisti, ne „odchylný
+    názor“ (Rajchl, 20. 10. 2026)'
+  text: '**25. 10. (Rajchl)** — V nedělním vysílání Rajchl argumentaci opakuje: § 318a je „kladivo na
+    čarodějnice“ a vyzvědače lze stíhat podle § 316. Rakušan podle něj lže, že koalice chce § 405 zrušit,
+    protože jde jen o jeho úpravu. Ostře kritizuje Nejvyšší soud za výklad, že úmysl pachatele je dán
+    už vědomím odchylky „od většinového názoru demokratické společnosti“, protože podle něj „to už je
+    zase ta strana a vláda“.'
+  podtema: Trestání politického projevu
+- id: rajchl-2026-10-25-03
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: Politické neziskovky jako „mor, zlo, cholera“; zrušit mediální gramotnost (Rajchl, 25. 10. 2026)
+  text: Rajchl v nedělním vysílání popisuje debatu na CNN Prima News o zákoně FARA. Neziskovky zaměřené
+    na mediální gramotnost podle něj lidem diktují, co je pravda a co lež, a „vypínají kritické myšlení“.
+    Označuje je za politické neziskovky, které je třeba „vyhnat karabáčem a bičem“. Spolu s médii prý
+    „drží lež při životě“, podněcují nenávist a násilí a „aktivizují dav“. Navrhuje zrušit jakoukoli mediální
+    gramotnost a nechat lidi číst cokoli (Al Jazeera, TASS, Fox News, Politico), protože právo vyhledávat
+    informace zaručuje Listina. Fialův výrok o právu na „korigované informace“ chápe jako návrat před
+    rok 1989, kdy „pravdu určovala strana a vláda“. Zákon FARA je podle něj teprve začátek cesty.
+  citace:
+  - text: Politické neziskovky jsou mor, zlo, cholera téhle společnosti a právě společně s médii drží
+      ty opratě, ty lži.
+  podtema: Milion chvilek — struktura a financování
+- id: rajchl-2026-10-25-04
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: 'Rajchl: dobrovolné koncesionářské poplatky jako jediné spravedlivé řešení'
+  text: '**25. 10.** — V nedělním vysílání Rajchl argument rozvádí. V Nizozemsku po oznámení škrtů prý
+    hrozí propuštění 80 zaměstnanců a nikdo neprotestuje. Nejsvobodnější veřejnoprávní média jsou podle
+    něj v 17 zemích EU placených z rozpočtu a stejný model se chystá i v Polsku. Námitku, že i pojištění
+    platí všichni, odmítá: pojištění je solidární fond pro případ potřeby, ČT je služba jako dálnice.
+    Navrhuje předplatné ČT „na rok, na měsíc, na den“. Demonstranti na Staroměstském náměstí si prý mají
+    ČT zaplatit sami, třeba i rozpočtem 80 miliard. Zpravodajství a publicistika tvoří podle něj jen asi
+    10 % rozpočtu ČT a zbytek živí „neskutečné množství parazitů“, jejichž „umělecké projektíky“ by trh
+    nezaplatil. Kdyby ČT skončila nebo stávkovala, „za měsíc to nikomu nebude chybět“. Převod pod rozpočet
+    podpoří jako koaliční kompromis, sám ale dál prosazuje dobrovolné poplatky. Piráty a ODS, kteří zrušení
+    poplatků měli v programu, nazývá „farizeji“.'
+  citace:
+  - text: Pokud mě někdo nutí platit za službu, kterou nevyužívám, není to svoboda. To je diktatura. To
+      je totalita.
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-10-25-05
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Stížnost k Radě ČT na Jana Moláčka za „kukaččí mládě“; ČT zrušit, „ani korunu“ (Rajchl, 22.
+    10. 2026)
+  text: '**25. 10.** — Rajchl se k tématu vrací v nedělním vysílání. Dokument „Rozpolceno“ Jany Škopkové
+    („jedna z nejlepších žurnalistek“) podle něj dal prostor oběma stranám a týkal se jen původu viru,
+    ne očkování. Kritici prý nenašli jedinou nepravdu a útočili jen ad hominem: že vystupovali Beran,
+    Rajchl a Peková (ta přitom zazněla jen z archivu ČT). Odmítá titulky „Rajchl jako odborník na covid“,
+    protože mluvil jen jako právník o senátním slyšení Anthonyho Fauciho. Na dotaz Deníku N odpověděl,
+    že s „propagandistickou žumpou“ mluvit nebude. Moláček by podle něj „za komunismu udělal kariéru“,
+    je „etalonem úpadku ČT“ a jeho výroky přisuzuje „zadání z Bruselu“. Na Radu ČT chce dorazit osobně.
+    Pokud ČT bude v Moláčkově přístupu pokračovat, podle Rajchla „by neměla existovat vůbec“.'
+  citace:
+  - text: Moláček, kdyby byl za komunismu, tak vám garantuju, že udělal kariéru, protože slepě jednoznačně
+      prosazuje jenom a pouze názor strany a vlády.
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-10-25-06
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: '„Tady jste na České“: moderátoři ČT skáčou hostům do řeči; Michal Půr jako vzor profesionality
+    (Rajchl, 25. 10. 2026)'
+  text: 'Rajchl odkazuje na video politologa Lukáše Valeše, kterému moderátor ČT opakovaně vstupoval do
+    řeči. Na Valešovu námitku, že na Primě ani Nově se mu to neděje, prý moderátor odpověděl: „Ale tady
+    jste na České.“ V té větě je podle Rajchla „úplně všechno“, protože moderátoři ČT podle něj „korigují“,
+    ačkoli k tomu většinou nemají znalosti. Naopak Michal Půr (CNN Prima News) je podle něj nejvzdělanější
+    moderátor, jehož názory při moderování „absolutně nepoznáte“. Rajchl tvrdí, že by z něj byl lepší
+    předseda ODS než „teflonový panák“ Kupka.'
+  citace:
+  - text: Kdyby Michal Půr vstoupil do politiky, tak by byl dneska nejlepším předsedou ODS. Garantuju
+      vám to.
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-10-25-07
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: 'Pavel jako vyjednavač EU s Ruskem: „bezcharakterní korouhvička“ (Rajchl, 25. 10. 2026)'
+  text: Zprávu, že Petr Pavel patří mezi pět možných kandidátů na vyjednavače EU s Ruskem, a „chvalozpěvy“
+    liberální scény Rajchl označuje za neuvěřitelný názorový obrat. Pavel podle něj 4,5 roku tvrdil, že
+    s agresorem se nevyjednává, že Ukrajina musí totálně zvítězit a že každý zastánce jednání je „kolaborant“
+    a „Putinův agent“. Tento obrat podle něj předčí i schválení invaze z roku 1968 v Pavlově životopise
+    z roku 1987 a zapadá do řady jeho dalších „otoček“ (Maroko, komunistická minulost). Místo přiznání
+    chyby by měl Pavel podle Rajchla uznat, že s ním Rusko jednat nebude. Dnes už prý může „vyjednat jen
+    kapitulaci“. „Vlastizrádce“ je podle Rajchla Pavel, ne ti, kdo k jednání vyzývali.
+  citace:
+  - text: To je tak neuvěřitelná názorová otočka, že i to schválení invaze v roce 68 v tom jeho životopise
+      z roku 1987 bledne.
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: rajchl-2026-10-25-08
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: '„Šibenice nikdy nebyly na mé demonstraci“: atmosféru rozpoutala bývalá vláda (Rajchl, 24. 10.
+    2026)'
+  text: '**25. 10.** — V nedělním vysílání Rajchl páteční protest na Malostranském náměstí popisuje jako
+    „útok na Sněmovnu“. Když se po půlnoci vracel z Nizozemska, „zběsilí fanatici“ (podle něj z části
+    opilí) mu tvořili hradbu a policie je musela fyzicky odtlačovat. Slovně i fyzicky se prý útočilo na
+    Jaroslava Foldynu, a nebýt policie, „došlo by k fyzickému lynči“. Odmítá článek Seznamu, že na záznamech
+    není vidět pokus o vniknutí, protože mluvčí policie podle něj tvrdí opak. Dlažební kostku připisuje
+    režisérce Kateřině Dudové, kterou ostře osobně napadá (viz [stochastický teror](stochasticky-teror.md)).
+    Dvojí metr vidí v tom, že jeho demonstraci se 100 tisíci lidmi (11. 3. 2023) média ignorovala a pokus
+    pár lidí strhnout ukrajinskou vlajku z Národního muzea (se kterým sám nesouhlasil) líčila jako „útok
+    lůzy na demokracii“. Dnešní menší protest na Staroměstském náměstí naopak přenáší živě. Pětikoalice
+    podle něj tehdy s demonstranty odmítla jednat s odkazem na volební mandát a Rakušan vzkázal, že s
+    organizátory „nebude mít slitování“. Pětikoalice přitom podle Rajchla porušila program (zdražení plynu,
+    daň z nemovitostí, valorizace, Ukrajina), kdežto současná koalice plní, co slíbila. Opozici (Urbanová)
+    vzkazuje, ať „sklidí, co zasela“, a zákon FARA prý koalice prosadí, „i kdybyste se postavili na hlavu“.'
+  citace:
+  - text: To je to skutečné ohrožení té demokracie. […] Ne to, že převedeme financování České televize
+      pod státní rozpočet.
+  podtema: Politická kultura
+- id: rajchl-2026-10-25-09
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Zvláštní vyslanec EU pro jednání s Putinem — Stubb „největší nácek“, Kallasová „potomek nacistických
+    rodičů“; mír dohodnou velmoci jako v Jaltě (Vrabel, 22. 10. 2026)
+  text: '**25. 10. (Rajchl)** — Rajchl Pavlovu kandidaturu na vyjednavače EU označuje za obrat o 180°
+    po 4,5 letech odmítání jednat s Ruskem; viz [petr-pavel.md](petr-pavel.md#pavel-jako-vyjednavač-eu-s-ruskem-bezcharakterní-korouhvička-rajchl-25-10-2026).'
+  podtema: Vyjednávání a mír
+- id: rajchl-2026-10-25-10
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Ukrajina: co média „zamlčují" — Majdan, Donbas, Minsk II, dekret č. 117, Istanbul (Rajchl,
+    27. 9. 2026)'
+  text: '**25. 10.** — Rajchl argument rozvíjí. Istanbulská dohoda, kterou podle něj potvrdil i ukrajinský
+    vyjednavač David Arachamija, by Ukrajině ponechala kontrolu nad celým územím kromě Krymu. Donbas by
+    získal autonomii s vlastní vládou a parlamentem jako v Československé federaci a federalizace by Ukrajině
+    jen prospěla. Ti, kdo jednání odmítali a odpůrce války nazývali „chcimíry“, nesou podle něj vinu za
+    „dva miliony lidských životů“, miliony uprchlíků, zadlužení a „chybějící dvě generace mužů“. Kyjevské
+    vedení označuje za „šmejdy“, kteří rozkrádají zahraniční pomoc: v ukrajinské vládě prý „všichni kradou“
+    a Zelenskyj je „král zlodějů“, jak podle něj nyní říkají i Elon Musk a starosta Kyjeva Vitalij Kličko.'
+  citace:
+  - text: Vy máte tu krev na rukou. Vy jste zodpovědní za to utrpení obyčejného ukrajinského lidu.
+  podtema: Zahraniční aktéři a precedenty

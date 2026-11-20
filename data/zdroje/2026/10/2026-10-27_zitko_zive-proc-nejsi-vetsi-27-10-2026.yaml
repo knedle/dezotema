@@ -9,3 +9,71 @@ zdroj:
   rezim: standard
   poznamka: 1 h 57 min, vysílání 11:11 („Proč nejsi větší?“, FOX = 666); komentované úryvky Čermáka z
     TV Šalingrad; zpracováno podle shrnutí pomocného agenta.
+vyroky:
+- id: zitko-2026-10-27-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Vakcíny „jen pro Babišovu vládu“, Rothschildův patent na covid a placebo pro politiky (Zítko,
+    27. 10. 2026)
+  text: Zítko tvrdí, že chtěl jako první dovézt vakcíny ze Švýcarska jen pro Babiše, politiky a jejich
+    rodiny, aby „šli příkladem“ — politici podle něj ve skutečnosti dostali placebo, zatímco lidem šla
+    „biologická zbraň“ v některých šaržích. Patent na COVID-19 měl podle něj „jistý pan Rothschild už
+    od roku 2015“. Roman Prymula podle něj zakázal pitvy, aby se nezjistilo, že lidi zabíjel remdesivir
+    a ventilátory; o očkovaných rodičích, kteří nechali očkovat i děti, mluví jako o „debilech“.
+  citace:
+  - text: Patent na COVID-19 měl jistý pan Rothschild už od roku 2015.
+  dalsi_zdroje:
+  - 2026-11-12_zitko_zive-cermakiada-zvonec-a-konec-12-11-2026
+  podtema: Slovenský poslanec Jaroslav Paška a selhání SÚKL (Zítko, 15. 9. 2026)
+- id: zitko-2026-10-27-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Zítkův vlastní soudní spor: zákaz pobytu v Praze, soudkyně Rajfová (Zítko, 4. 8. 2026)'
+  text: '**27. 10.** — Zítko opakuje, že krajský soud v Ústí podle protokolu konstatoval, že nebyl předložen
+    důkaz izolace SARS-CoV-2, „tudíž vir nebo nemoc COVID-19 neexistuje“; na Slovensku ho podle něj od
+    24. 6. do 21. 8. drželi protiprávně a počítače a telefony mu vrátili po roce a osmi měsících.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-27-03
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**27. 10.** — Zítko přidává „důkaz“ výškou: podle lišty obložení v liberecké soudní síni je „menší“
+    Čermák o 10–17 cm nižší než původních 185 cm; výrok, že se mu „stresem ve vězení zkroutilo ucho“,
+    zesměšňuje fotkou jednookého kocoura. Profil „Politický vězeň Čermák“ podle něj „na 99 %“ spravuje
+    Martin Turek, který prý ohlásil politickou stranu a petici k rozdělení ČSFR, ačkoli se Čermák od politiky
+    distancoval. Odmítá, že by kdy vybíral peníze pro Patrika Tušla („Tušl je kokot, to není klon“, patří
+    prý Rajchlovi), na manžele Maruškovy z Jablonce podal trestní oznámení kvůli zadrženým penězům a podpisům
+    a vyvrací tvrzení Renaty Bernardy o příjmu 400 tisíc měsíčně a podílu v testovacích centrech. Sčítáním
+    písmen mu vychází, že FOX = 666, takže „Fox News z Přehrady“ (Bernardy, TV Šalingrad) je „liška“ s
+    číslem šelmy. Pokud Čermák do Holýšova nepřijde, „přestává hra na Čermáka fungovat“.'
+  citace:
+  - text: Odhadem na fotkách je rozdíl 10 až 17 cm výšky.
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-27-04
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „Vítězné mocnosti" Trump, Putin, bin Salmán a Módí rozhodnou o obnově Československa; volby
+    20 let falšovány (Zítko, 24. 9. 2026)
+  text: '**27. 10.** — Zítko zákon 542/1992 nazývá „vlastizrádným“ a vyčítá Rajchlovi, že neříká, že zákon
+    bez podpisu prezidenta neplatí. Obnovit by se mělo Československo „od Aše“ až po Zakarpatskou Ukrajinu,
+    jejíž Rusíni by hlasovali v referendu o připojení; o budoucích hranicích rozhodnou Trump, Putin a
+    Si Ťin-pching.'
+- id: zitko-2026-10-27-05
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Bulharsko jako vzor: neposlouchat „korporátní předpisy“ a připravit generální stávku místo
+    víkendových demonstrací (Zítko, 27. 10. 2026)'
+  text: 'Zítko doporučuje postup podle Bulharska: prvním krokem má být přestat respektovat „korporátní
+    předpisy“ a teprve potom vyjít do ulic. Víkendové demonstrace na náměstích považuje za „totálně neúčinné“;
+    cílem má být generální stávka a „paralyzování moci“. Zároveň očekává, že kolem amerických voleb 3.
+    11. „to má bouchnout“, protože se demokraté znovu pokusí volby ukrást přes Smartmatic a Dominion (viz
+    [predikce](predikce.md)).'
+  citace:
+  - text: To je ta správná taktika, která by měla vyústit v generální stávku a v paralyzování moci.
+  podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)

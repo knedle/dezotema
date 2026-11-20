@@ -9,3 +9,78 @@ zdroj:
   rezim: standard
   poznamka: 1 h 52 min, třetí díl „večerníčkové trilogie“ (pohádka o chytré kmotře lišce — nezpracováno);
     část čte text Boba Acera; zpracováno podle shrnutí pomocného agenta.
+vyroky:
+- id: zitko-2026-10-24-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Soud v Amsterdamu: Gates, Bourla a Rutte jako obžalovaní'
+  text: '**24. 10.** — Zítko tvrdí, že Gates, Bourla a Rutte „konečně seděli na lavici obžalovaných, kam
+    patří“; Reinera Fuellmicha, který podle něj třetím rokem sedí ve věznici v Lingenu (protestovalo tam
+    asi 200 lidí), označuje za „největšího bojovníka proti covidovým zločincům“ a „Norimberk 2“. Vakcíny
+    jsou podle něj „depopulační jen pro lid, ne pro poslance“.'
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-10-24-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Zítkův vlastní soudní spor: zákaz pobytu v Praze, soudkyně Rajfová (Zítko, 4. 8. 2026)'
+  text: '**24. 10.** — Zítko (z části slovy textu Boba Acera) uvádí, že Krajský soud v Ústí nad Labem
+    18. 6. 2026 zrušil chomutovský rozsudek (3 roky nepodmíněně za šíření poplašné zprávy) a vrátil věc;
+    podle Acerova textu tím soud uznal svobodu slova a to, že izolace SARS-CoV-2 nebyla doložena, „tudíž
+    virus neexistuje“. Okresní soud pro Prahu 2 mu 19. 2. za vyražené dveře uložil 12 měsíců podmíněně
+    a zákaz pobytu v Praze do září 2027; vrchní státní zastupitelství 3. 8. vrátilo podezření z napomáhání
+    Čermákovu útěku policii jako nedůvodné. Při razii 3. 2. prý přišli „čtyři těžkooděnci se samopaly“,
+    telefony mu vrátili 12. 10.; celkem strávil 110 dní ve vazbě, z toho 34 dní hladovky. Popírá, že by
+    z testovacích center E-Medic Development měl „ani korunu“ — jeho podíl byl obstaven exekucí a centra
+    provozoval majoritní vlastník přes jinou firmu.'
+  citace:
+  - text: V šesti případech to na mě upletli tak, aby mě dostali.
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-24-03
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**24. 10.** — Zítko Renatu Bernardy označuje za „lhářku a manipulátorku“: nejprve prý vyzývala
+    „sejděte se jako chlapi, jeďte za Tomem jako Pepa z Plzně“, pak to nazvala stalkingem a kyberšikanou,
+    a šíří podle něj lži, že je „fízl a udavač“ s příjmem 400 tisíc měsíčně za covidu; naznačuje, že ji
+    „krmí“ tajné služby. V rozhovoru „údajného“ Čermáka na TV Šalingrad napočítal „pět lží za pět minut“
+    (řízek s tatarkou ve vězení, mzda 9,50 Kč/h, „zkroucené ucho“ ze stresu, „nikdo na mě nečekal“) a
+    video je podle něj „dabované“; firma TKO v Líních o něm prý mezi 25 zaměstnanci neví. Nařčení z udání
+    podle něj přišlo až po 23 dnech, protože „kluci z tajných služeb a policie koumali, jak na Zítka vyzrát“;
+    policie zdroj nikdy neprozradí. Předpovídá, že pokud Čermák „není pravý“, do Holýšova nepřijede (viz
+    [predikce](predikce.md)).'
+  citace:
+  - text: Pokud není pravý Tomáš Čermák, tak za boha na to setkání nebude chtít přijít.
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-24-04
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Přistání na Měsíci jako podvod — NASA Artemis jako pokračování
+  text: '**24. 10. (Zítko)** — Zítko prohlašuje, že nevěří, že je Země kulatá, že Američané byli ve vesmíru,
+    ani oficiální verzi 11. září, a že je mu jedno, co si myslí většina.'
+  citace:
+  - text: Je mi úplně jedno, jestli si většina myslí, že Země je kulatá, že Američani byli ve vesmíru
+      […] tak těmhletěm kokotinám já vůbec nevěřím.
+  podtema: Historické konspirační výklady
+- id: zitko-2026-10-24-05
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Klony, herci a Guantanamo — EBS narativ
+  text: |-
+    **24. 10.** — Zítko opakuje, že „protagonisté zločinů Deep State, zejména konzumenti adrenochromu“, jsou popravováni a nahrazováni dvojníky v rámci „vojenské operace od dob JFK“, a slibuje „velké odhalení“ i u Pavla, Zemana a Babiše.
+
+    V dubnu 2026 Zítko přidává další „důkazy" totožnosti herců za elity: Trump v záběrech z Bílého domu měří cca 170 cm, ale skutečný Trump byl vysoký 190 cm — Zítko to označuje za jednoznačný důkaz, že veřejnosti je předváděn herec nebo dvojník. Podobně Biden se na různých záběrech objevoval ve dvou odlišných výškách. EBS (Emergency Broadcast System) Zítko reinterpretuje: „sledujete reprízování událostí, které se již odehrály" — operace je podle něj ve skutečnosti dávno hotová, EBS vysílání bude zpětné zpravodajství.
+- id: zitko-2026-10-24-06
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Facebook zablokoval živé vysílání ČsTV2 — „kyberšikana" kvůli fotce z UFC (Zítko, 17. 6. 2026)
+  text: '**24. 10.** — Facebook podle Zítka „vzniknul jako nástroj CIA“; jeho kanály mají zablokované
+    živé vysílání od 6. 10., některé až do ledna 2027. Plánuje společnou platformu „130 alternativních
+    médií v ČR a přes 90 na Slovensku“ mimo Facebook.'
+  podtema: ČT poplatky a omezování na sociálních sítích

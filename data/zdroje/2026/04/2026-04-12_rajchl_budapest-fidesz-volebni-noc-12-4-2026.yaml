@@ -10,3 +10,42 @@ zdroj:
   delka: '13:00'
   poznamka: 'Live z volebního štábu Fidesz v Budapešti; Peter Magyar a Benešovy dekrety, EU vydírání Maďarska
     (21K migrantů nebo 10B Kč), Hormuzský průliv uzavřen, V4 strategie, Ceny Anděl. Zhlédnutí: neznámo'
+vyroky:
+- id: rajchl-2026-04-12-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Peter Magyar a Benešovy dekrety — den po volbách jako varování
+  text: |-
+    Rajchl v živém vysílání z Budapešti (Fidesz volební noc, 12. 4. 2026) upozorňuje, že Peter Magyar — šéf maďarské opoziční strany TISZA, favorit EU a bruselských médií — je ze současných vrcholových politiků v Evropě „jediný člověk, který takto jednoznačně a otevřeně spochybňuje Benešovy dekrety." Rajchl to označuje za obzvláště varovné: Magyara aktivně podporují česká média i koaliční politici, přestože si jeho pozici k dekretům buď nevšimli, nebo ji záměrně přehlíží.
+
+    V rozhovoru pro CNN Prima News (14. 4. 2026) Rajchl toto varování zpřesňuje: Magyar prohlásil „V4 ano, ale musíme dořešit Benešovy dekrety" nikoliv před volbami jako předvolební rétorika za hlasy, ale hned **den po volbách**. „Kdyby to otevřel před volbami, tak bych to pochopil. Ale když to otevře den po volbách, tak by ten vykřičník měl být v hlavě každého jednoho z nás." Benešovy dekrety označuje Rajchl za „základní pilíř majetkového právního uspořádání" po druhé světové válce a poukazuje na existující právní hrozby: rodina Liechtensteinů opakovaně soudí, slovensko-maďarský spor u ESLP skončil pro Maďarsko úspěšně.
+
+    Rajchl zaujímá kategorickou pozici: žádná debata o Benešových dekretech není přípustná, ČR by neměla hostit sjezd Sudetoněmeckého Landsmannschaftu, a měla by jasně odmítnout jednání s Lichtensteiny i Maďary na toto téma.
+  citace:
+  - text: Měli bychom jasně říci, že tahle otázka je pro nás uzavřená a není vůbec k diskuzi.
+  dalsi_zdroje:
+  - 2026-04-14_rajchl_benesovy-dekrety-cnn-prima-peter-magyar-14-4-2026
+  podtema: Politici a Landsmannschaft
+- id: rajchl-2026-04-12-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: 'Ceny Anděl: vulgární výstupy vůči politikům — argument pro zrušení ČT poplatků'
+  text: 'Rajchl v živém vysílání z Budapešti (12. 4. 2026) zmiňuje galavečer Cen Anděl, kde účinkující
+    adresovali přítomným politikům vulgární a hanlivé vzkazy. Tuto událost využívá jako argument pro zrušení
+    povinných televizních poplatků: veřejnoprávní média podobné výstupy nekritizují ani nekorigují, a
+    tím de facto legitimizují útoky na politické představitele, za jejichž přenos občané platí z vlastní
+    kapsy.'
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-04-12-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'EU vydírá Maďarsko: přijmout 21 000 migrantů, nebo zaplatit 10 miliard Kč'
+  text: 'Rajchl v živém vysílání z Budapešti (12. 4. 2026) popisuje konkrétní příklad bruselského vydírání:
+    EU dala Maďarsku ultimátum — buď přijme přibližně 21 000 muslimů v rámci migračního paktu, nebo zaplatí
+    pokutu ve výši přibližně 10 miliard Kč. Rajchl to uvádí jako přímý důkaz, proč je zásadní, aby V4
+    zůstalo jednotné a nepodlehlo bruselskému tlaku — bez Orbána a Maďarska by ČR neměla spojence, kteří
+    takový příkaz odmítají.'
+  podtema: Evropský parlament a V4 strategie

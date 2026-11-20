@@ -14,3 +14,111 @@ zdroj:
     + taxonomie/„zelený parlament", Zelenskyj/LGBTQ + přeoperovávání dětí, inflace jako okrádání, zbrojní
     byznys (Itálie/Německo, CSG), TCK násilná mobilizace a úmrtí na komisi. Zprávy v devět s komentářem
     (moderátorka Zuzka)'
+vyroky:
+- id: vrabel-2026-06-12-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: 'Jádro: prodloužení Temelína a Dukovan, taxonomie a „zelený parlament" (Vrabel, 12. 6. 2026)'
+  text: 'K jednání ČR v Bruselu o novém jaderném bloku a oznámení o prodloužení životnosti bloků v Temelíně
+    (po Dukovanech) Vrabel cituje ministra Karla Havlíčka: odklon EU od jádra byl „strategická chyba",
+    je třeba tlačit na změnu taxonomie, ale „v zeleném parlamentu" to neprojde. Vrabel z toho vyvozuje,
+    že o ČR fakticky rozhoduje EU (ne český parlament, který je „jen na hádky"). Varuje před opakovaným
+    prodlužováním životnosti reaktorů (sovětsky koncipovaná životnost 30 let; sarkofág časem křehne nárazy
+    částic) — řešeným místo stavby nových bloků (kvůli odmítání spolupráce s Ruskem).'
+  podtema: Energetika a Rusko
+- id: vrabel-2026-06-12-02
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Inflace jako okrádání; držet hotovost je „sebemrzačení" (Vrabel, 12. 6. 2026)
+  text: 'Ke zprávě o krizi životních nákladů v EU (ceny nemovitostí +53 % v letech 2015–2024, 1,29 mil.
+    lidí bez domova) Vrabel vykládá inflaci jako nástroj okrádání: vzniká snižováním úrokových sazeb a
+    „tištěním" peněz přes půjčky; Babišovo napumpování peněz v covidu podle něj způsobilo pozdější „Fialovu"
+    inflaci 18 %. Tvrdí, že kdo držel v roce 2021 milion v bance, má dnes poloviční hodnotu — proto radí
+    investovat (nemovitosti, zlato, stříbro) místo držení hotovosti. Opakující se cyklus války–inflace–krize–růst
+    přičítá „chazarským židům v bankách", kteří na válkách bohatnou.'
+  podtema: Energetika a Rusko
+- id: vrabel-2026-06-12-03
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Migrační pakt vstoupil v platnost — vláda ho podle Vrabela neodmítla (12. 6. 2026)
+  text: Ke dni vstupu migračního paktu EU v platnost (12. 6.) Vrabel tvrdí, že vláda Andreje Babiše ho
+    ve skutečnosti neodmítla — jen vydala prohlášení pro české voliče, fakticky ho ale plní a spolupracuje
+    na jeho realizaci. Připomíná, že pakt připravovala už předchozí vláda (Babiš, ministr vnitra Hamáček)
+    a podepsala ho vláda Fialy/Rakušana. ČR má výjimku z přerozdělování migrantů z Blízkého východu a
+    Afriky jen do roku 2027 — a to proto, že už „plní solidaritu" přijetím největšího počtu Ukrajinců
+    na hlavu na světě. Podstatu paktu vykládá jako mechanismus solidarity (přesun migrantů ze zatížených
+    zemí — Řecko, Itálie, Španělsko — do méně zatížených); dávky mají být jednotné a vázané na místo přidělení.
+    Tomia Okamuru, který tvrdí, že pakt „nebude implementovat", obviňuje, že „vodí lidi za nos" — neimplementovat
+    nelze (právně vymahatelná smlouva), jedinou cestou je vystoupit z EU. Celé rámuje Kalergiho plánem
+    (vykořeněný „smíšený člověk"). Navazuje na [Migrační pakt nelze zrušit zevnitř (4. 6.)](#migrační-pakt-nelze-zrušit-zevnitř--čl-10-ústavy-srovnání-s-brexitem-vrabel-4-6-2026).
+- id: vrabel-2026-06-12-04
+  typ: tvrzeni
+  temata:
+  - rodina-deti
+  nadpis: Zelenskyj a LGBTQ na Ukrajině; odpor k přeoperovávání dětí (Vrabel, 12. 6. 2026)
+  text: K dotazu, zda Ukrajina potřebuje projekty normalizující LGBTQ+ komunitu (předseda NGO Demenko;
+    Zelenskyj připustil otevřenou debatu), Vrabel uvádí, že Ukrajina jako budoucí člen EU přijímá podobné
+    zákony jako ČR. Vůči dospělé homosexualitě deklaruje toleranci (zmiňuje sestru s partnerkou), ale
+    ostře odmítá propagaci „sexuálních úchylek" na ulicích a zejména ve školách a tlak na přeoperovávání
+    dětí — to označuje za „kriminální". Změnu pohlaví připouští až od dospělosti (18/21 let), protože
+    děti jsou nezralé a snadno se zmanipulují.
+  podtema: Šmírování dětí státem
+- id: vrabel-2026-06-12-05
+  typ: tvrzeni
+  temata:
+  - rodina-deti
+  nadpis: Pokles porodnosti pátým rokem — drahota a blížící se válka (Vrabel, 12. 6. 2026)
+  text: K údajům Českého statistického úřadu (úbytek obyvatel o ~19 800 za první čtvrtletí roku, porodnost
+    klesá pátým rokem za sebou — narodilo se jen 17 500 dětí, zemřelo 30 100) Vrabel přičítá pokles porodnosti
+    zdražování („dráž se žije") a podvědomému vnímání blížící se války.
+  podtema: Šmírování dětí státem
+- id: vrabel-2026-06-12-06
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Uhlíkové clo (CBAM): rozšíření a luxus elit v EP (Vrabel, 12. 6. 2026)'
+  text: K dohodě ministrů financí EU (za ČR Alena Šilerová) o rozšíření mechanismu uhlíkového vyrovnávání
+    na hranicích (CBAM) — clo na dovoz zboží s velkou uhlíkovou stopou — Vrabel namítá, že se tím sankcionují
+    i cizí emise (Japonsko, Austrálie) a zdražuje dovoz. Spojuje to s popisem luxusu europoslanců (nákladné
+    večeře, vysoké platy, kontrast bohaté „vlámské" a chudé části Bruselu) — elitám je další daň či povolenka
+    lhostejná. Doplňuje [Green Deal jako nástroj přesunu peněz ke spekulantům](#green-deal-jako-nástroj-přesunu-peněz-ke-spekulantům).
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-06-12-07
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Falešný narativ „Ukrajina vítězí" + žádost o 20 mld. dolarů (Vrabel, 12. 6. 2026)
+  text: Ukrajina podle Politico (přebírá ČTK) požádá spojence ve formátu Rammstein o 20 mld. dolarů (~418
+    mld. Kč), aby „upevnila převahu" ve válce. Vrabel tvrdí, že hlavní (a falešnou) zprávou je narativ
+    „Ukrajina vítězí / má převahu nad Ruskem", který se „lije lidem do hlavy", aby se nebouřili proti
+    dalším penězům a pokračování války — a proti dražšímu jídlu, energiím a inflaci („protože tu válku
+    platíme"). Realita je podle něj opačná (Kyjev dostal velké ruské údery). Navazuje na [Ukrajinské útoky
+    na civilní cíle jako terorismus](#ukrajinské-útoky-na-civilní-cíle-jako-terorismus--západ-jako-sponzor-vrabel-3-6-2026).
+  podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-06-12-08
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'TCK na Ukrajině: násilná mobilizace a úmrtí na odvodové komisi (Vrabel, 12. 6. 2026)'
+  text: 'Vrabel popisuje brutalitu ukrajinské mobilizace (jednotky TCK): syn v Mykolajivu ubránil otce
+    před odvodovým komandem; Fedor Košelňák byl násilně naložen do autobusu deseti maskovanými muži a
+    po dvou hodinách zemřel „na zástavu srdce" během lékařské prohlídky; ombudsman Lubinec uvedl, že komise
+    ignorují skutečný zdravotní stav (člověk před chirurgickým zákrokem uznán schopným za 15 minut). Vrabel
+    přirovnává Zelenského zacházení s lidmi k Hitlerovi — „posílá je na porážku jako dobytek". Navazuje
+    na [Ukrajinci nechtějí bojovat — TCK „lov lidí" (6. 6.)](#ukrajinci-nechtějí-bojovat--tck-lov-lidí-a-úplatek-12-000--vrabel-6-6-2026).'
+  podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-06-12-09
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Zbrojní byznys = víc války, ne bezpečnost (Vrabel, 12. 6. 2026)
+  text: 'K rozšíření obranné spolupráce ČR s Itálií (munice firmy Fiocchi pod holdingem CSG Michala Strnada)
+    a prodeji 200 tisíc pistolí do Německa Vrabel obrací tezi senátora Pavla Fischera (zbraně = bezpečnost):
+    podle něj platí opak — čím víc zbraní se vyrobí, tím víc se válčí, protože zbraně jdou do válek z
+    obou stran. Česká i německá ekonomika se podle něj přeměňují na válečnou ekonomiku (závody ve zbrojení
+    jako v 80. letech); cestou má být odzbrojení počínaje jadernými zbraněmi. Zmiňuje i autonomní AI drony
+    a izolaci Krymu (velitel „Maďar"). Navazuje na [Zbrojní byznys bez výběrových řízení (5. 6.)](#zbrojní-byznys-bez-výběrových-řízení--kolář-a-macinka-jako-zprostředkovatelé-vrabel-5-6-2026).'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy

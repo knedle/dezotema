@@ -10,3 +10,15 @@ zdroj:
   delka: 00:03:25
   poznamka: Seznam Zprávy kritizují zveřejňování státní příslušnosti pachatelů; Rakušan lhal o kriminalitě
     Ukrajinců; návrh automatického vyhoštění cizinců za násilné TČ.
+vyroky:
+- id: rajchl-2026-06-10-01
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Zveřejňování státní příslušnosti pachatelů + automatické vyhoštění cizinců (Rajchl, 10. 6. 2026)
+  text: 'Rajchl reaguje na článek Seznam Zpráv kritizující vládní plán zveřejňovat státní příslušnost
+    pachatelů trestných činů. Tvrdí, že média (a ministr Rakušan) čtyři roky lhala, když uváděla, že kriminalita
+    Ukrajinců je stejná či nižší než Čechů (Rakušan: „Ukrajinci jsou slušnější než Češi") — proto prý
+    zveřejňování vadí, „ukázalo by pravdu". Navrhuje automatické vyhoštění za jakýkoli násilný trestný
+    čin či přestupek spáchaný cizincem, s preventivním účinkem (Ukrajinci podle něj skončí „na frontě"
+    u „zelenského odvodového komanda").'

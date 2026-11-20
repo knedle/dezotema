@@ -11,3 +11,32 @@ zdroj:
   poznamka: 'Vrabel — deník. Plně zpracováno 2 z 13 témat: kraje bez peněz na krajské silnice, Zelenskyj
     v Bělehradu — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Bez predikcí
     a stoch. teroru.'
+vyroky:
+- id: vrabel-2026-08-07-01
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Kraje letos nedostanou peníze na opravy silnic 2. a 3. třídy — poprvé od roku 2015 (Vrabel,
+    7. 8. 2026)
+  text: 'Kraje podle libereckého hejtmana Martina Půty letos nedostanou ze Státního fondu dopravní infrastruktury
+    žádné peníze na opravy silnic 2. a 3. třídy — poprvé od roku 2015; ministerstvo dopravy argumentuje,
+    že kraje letos přesto dostanou přes 4 mld. Kč na konkrétní projekty, ale na nenárokové opravy krajských
+    silnic už nezbyla rezerva, protože přednost mají investice do dálnic, silnic 1. třídy a železnic.
+    Vrabel to sarkasticky spojuje s předchozí zprávou o odloženém zvýšení slevy na jízdné (50 % místo
+    slíbených 75 %) — obojí čte jako důsledek přesměrování veřejných peněz na zbrojení a podporu Ukrajiny:
+    opravené dálnice, silnice 1. třídy a železnice mají sloužit především k převozu tanků a vojenské techniky,
+    zatímco krajské silnice, po kterých se technika nepřesouvá, zůstávají bez financí.'
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-08-07-02
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Zelenskyj v Bělehradu — chladné přivítání, Vučić odmítá zbraně (Vrabel, 7. 8. 2026)
+  text: 'Volodymyr Zelenskyj dorazil do Bělehradu na svou první návštěvu Srbska od nástupu do funkce —
+    na letišti ho přivítala jen srbská ministryně hornictví a energetiky Dubravka Đedović Handanović,
+    žádné fanfáry ani prezident Vučić (s ním se má sejít až následující den). Vrabel to sarkasticky rámuje
+    jako důkaz nízké srbské priority vůči Zelenskému a připomíná Vučićovo předchozí veřejné prohlášení:
+    Srbsko v žádném případě nezmění postoj vůči Rusku a nebude dodávat Ukrajině žádné zbraně — přislíbil
+    jen pomoc s obnovou země až po skončení války, což Vrabel označuje za jedinou vstřícnou zprávu z celé
+    návštěvy.'
+  podtema: Zahraniční aktéři a precedenty

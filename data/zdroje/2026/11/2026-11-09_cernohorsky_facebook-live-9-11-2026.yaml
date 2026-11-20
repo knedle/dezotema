@@ -10,3 +10,124 @@ zdroj:
   poznamka: 49 min, živé vysílání (částečně z auta). Macinka a „mužatky“, rusofobie a sport, příčiny války,
     „třetí světová“, zrušení ČT, Babišova vláda bez alternativy, spory na scéně. 1 predikce, 3 výroky
     stochastického teroru (Fiala, Rakušan, hraničně dárci „Dárku pro Putina“).
+vyroky:
+- id: cernohorsky-2026-11-09-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: ČT zrušit, ani ze státního rozpočtu — „postkomunistický moloch s třemi tisíci parazitů“; ČT
+    odpovědná za stav politiky (Černohorský, 9. 11. 2026)
+  text: 'Černohorský nechce ČT platit ani ze státního rozpočtu, protože za posledních deset let podle
+    něj „nepřinesla nic pozitivního“, jen „gender“ a „propagaci úchylárny“. Jako příklady uvádí YouTube
+    pořad „Čiči na gauči“ s „transvestitou“ a znělkou „dobrá číča, nejsou žádná píča“ a příspěvek (s výhradou
+    „jestli to je pravda“), že si ve studiu po desáté hodině „lajnovali“ a někdo se pozvracel. Když Prima
+    a Nova fungují s 500–700 zaměstnanci, nevidí důvod živit „postkomunistický moloch“ se „třemi tisíci
+    parazitů“ a ředitele s platem 300 tisíc měsíčně a odměnami 12 milionů ročně. Poplatky jsou podle něj
+    „socialistický výdobytek z roku 1955“. Média a ČT jsou podle něj zodpovědná za to, co se děje v politice:
+    „kdyby média chtěla“, nebyla by válka, pandemie ani chudoba. Moderátorky nazývá „kundami“ a „stupidní
+    pičou“ bez novinářské nestrannosti. Macinkovi přiznává, že díky „výchově“ v Institutu Václava Klause
+    v televizi obstojí.'
+  citace:
+  - text: Nevidím jedinej důvod, proč, kurva, živit moloch, postkomunistický moloch s třema tisícama parazitů.
+  podtema: Nová alternativní média
+- id: cernohorsky-2026-11-09-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Macinkův výrok o „ruských mužatkách“ je „extrémně nešťastný“; „věk ani pohlaví není zásluha“
+    (Rajchl, 8. 11. 2026)
+  text: '**9. 11. — Černohorský** výrok kritizuje ještě ostřeji. Macinka je podle něj vtipný a pohotový
+    vůči „fialovým“, ale v otázce Ruska „pitomec“. Spolu s Borisem Šťastným jsou podle něj „vymydlení“
+    rusofobové, kdežto Filip Turek se „uklidnil“. Tahat do sporu sport ho „sere“. Mužatky jsou podle něj
+    k vidění spíš na Prague Pride, kdežto hokejistky, proti nimž sám kdysi hrál, byly „nádherné holky“.
+    ⚡ Na rozdíl od Rajchla ale ženský hokej vnímá jako produkt „poženštěné“ doby: za socialismu si ho
+    nepamatuje a ženy podle něj přebírají mužské role, protože „chlapi přestali být chlapama“ („mamánci
+    na kolobrndách v růžových košilkách“). Za to podle něj mohou muži, tedy i Macinka.'
+  citace:
+  - text: Takže mužatky? I kdyby. Tak kdo za to teda může? […] No třeba právě ty, Macinko.
+  podtema: Politická kultura
+- id: cernohorsky-2026-11-09-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Spory uvnitř vlastenecké scény: Bernardy, Tušl, Novas, Vidra, Galligardy (Černohorský, 5. 10.
+    2026)'
+  text: '**9. 11.** — Černohorský tvrdí, že ho neporazí protistrana, obžaloba ani kriminál. Na rozdíl
+    od „Bartoka“ či Čermáka by prý nikdy nepřiznal lež výměnou za svobodu, „kdybych měl v kriminále zdechnout“.
+    Porazí ho jen vlastní scéna. Přiznává, že změnil názor na rozdělení Československa i na některé politiky
+    a lidi, ale zásady má od roku 2015 neměnné. Jako jediný na scéně se prý veřejně přiznal k tomu, co
+    před rokem 2015 dělal špatně. Scéna podle něj „živí parazity“ (Zítko, Bernardy) a tleská „zmrdům“
+    (Vrabel, Sládek), zatímco jeho projekty (vlastní média, „Pošli to dál“) shodila řečmi, že si chce
+    platit exekuce. Ve „společenství“ je podle něj jen asi 350 lidí. Ještě chce dořešit případy Terezy
+    Vlasákové a Ivy Rosické (viz [výše](politicky-system.md#nemate-penize-nemate-spravedlnost-cernohorsky-7-11-2026))
+    a pak „mám z toho chuť se na to vysrat“. K volbám ať lidé chodí, „ale beze mě“.'
+  citace:
+  - text: Víte, kdo mě porazí? Vy, vy mě porazíte. Tadle scéna mě porazí.
+  podtema: USA — volební systém
+- id: cernohorsky-2026-11-09-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Kritika vlády bez alternativy — nic lepšího než Babiš, Okamura a Macinka; SPD devět let nic,
+    Konečná u Patriotů „není zrada“ (Černohorský, 6. 11. 2026)
+  text: '**9. 11.** — Komentáři, že Babišova vláda je „to stejné“ jako Fialova, Černohorský oponuje. Kdyby
+    dál vládla „fialová, žluto-modrá banda“, lidé by „neměli co žrát“, v chudobě by nebyl „jen milion
+    lidí“ a nastal by státní bankrot, „to vám garantuju“. Fialova strana je podle něj ráda, že „svinstva“
+    musí napravovat Babiš. Babiše sám kritizuje („vyserte se na rusofobii“, „jednoho dne budete za stejného
+    idiota jako ten idiot na Hradě“), ale odvolání vlády nechce, protože „není jiné možnosti“. Ministra
+    Juchelku by „okamžitě vyměnil“ jako „neschopného“ a na ministerstvu zdravotnictví nechce „Vojtěchovou“
+    (patrně hanlivě míněn Adam Vojtěch). Superdávku kritizuje: když systém potřebuje peníze, „tak ty prachy
+    tam prostě nasypte“, protože lidé nemají na nájem ani jídlo, zatímco politici řeší ruské hokejisty
+    a přidávají si platy. Uvádí příběh dcery kamarádky z pardubické nemocnice, kde podle něj „nebyl jediný
+    Čech“, ukrajinský personál pohrdal Čechy a pacientku nechal po vyšetření celý den hladovět. Fialu
+    a Rakušana uráží a pro Rakušana žádá vězení (viz [Stochastický teror](stochasticky-teror.md)).'
+  citace:
+  - text: Máte, je tady nějaká jiná možnost, byla nějaká jiná možnost než ten Andrej Babiš? Nebyla.
+  podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
+- id: cernohorsky-2026-11-09-05
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Návrat ruské reprezentace na MS v hokeji: „politika do sportu nepatří“, kritici jsou „pokrytci
+    a farizejové“ (Rajchl, 30. 10. 2026)'
+  text: '**9. 11. — Černohorský** považuje vyřazování ruských sportovců za „rusofobii“ a pokrytectví.
+    Podle stejné logiky by USA musely vrátit všechny medaile z mistrovství i olympiád, protože od roku
+    1946 nepřestaly vést války. „Masoví vrazi“ jsou podle něj američtí prezidenti, Bush mladší, Obama
+    i Trump (jen ve Vietnamu prý zemřely 4 miliony lidí), a Ameriku nikdo nevylučoval. Sportovci podle
+    něj zasvětili sportu život a jsou „persekuováni“ za to, co „v roce 2015 rozpoutali zmrdi na Ukrajině“.
+    Babišovi, vládě a Motoristům vzkazuje, ať s „rusofobií“ přestanou.'
+  podtema: Zahraniční aktéři a precedenty
+- id: cernohorsky-2026-11-09-06
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: „Kde jste byli osm let?" — Donbas, Minsk jako podvod, biolaboratoře; vláda Babiše a Macinky
+    jako „rusobijci" (Černohorský, 5. 10. 2026)
+  text: '**9. 11.** — Černohorský opakuje, že Putin za válku „nemůže“: speciální operace měla podle něj
+    „osmiletý“ důvod. Uvádí Majdan, Minské dohody (přiznání „té svině Merkelové“), referenda z let 1991
+    a 1994, v nichž podle něj východ Ukrajiny chtěl federalizaci, a krymské referendum, při němž byli
+    ruští vojáci na Krymu podle smlouvy. Krym je podle něj reakcí na „koketování“ Ukrajiny s EU a NATO,
+    USA by se v opačné situaci zachovaly stejně. Babiše vyzývá, ať nechá zveřejnit šestidílný dokument
+    ČT o neonacismu na Ukrajině. O „bujícím neonacismu“ psala podle něj ještě v lednu 2022 i Aktuálně,
+    Novinky, Lidovky či Hospodářské noviny. Jako aktuální doklad uvádí státní pohřeb veterána divize SS
+    Galizien. Připomíná, že ho za podobné výroky v roce 2022 obvinil z popírání genocidy „vojenský komunistický
+    prokurátor“ Igor Stříž, on ale věděl, co říká, „aby mě zavřít nemohli“. Zdůrazňuje, že válku nechce
+    a nemá radost z „tří milionů“ mrtvých Ukrajinců.'
+  podtema: Zahraniční aktéři a precedenty
+- id: cernohorsky-2026-11-09-07
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Válka neskončí kvůli von der Leyenové, Kallasové a Zdechovskému — „maximálně třetí světovou“;
+    dárci „Dárku pro Putina“ jsou „skurvený kundy“ (Černohorský, 9. 11. 2026)
+  text: Černohorský chce, aby válka skončila, ale podle něj neskončí, dokud v Evropě rozhodují von der
+    Leyenová, Kallasová, Zdechovský „a další“ s „progresivním Slovenskem“ v Evropském parlamentu. Skončí
+    podle něj „maximálně třetí světovou válkou“. Lidstvo ji možná „potřebuje“, aby ti, kdo si na profil
+    píšou „chci válku“, pochopili, že nejde o videohru, ale o životy. Dárce sbírek typu „Dárek pro Putina“
+    nazývá „čuráky“ a „obyčejnými skurvenými kundami“, „bez empatie, bez srdce, bez rozumu“. Na operaci
+    nemocného chlapce Jiříka za 100 milionů se podle něj nevybere, ale na „vraždění Rusáků“ se vyberou
+    miliardy. Zelenskyj a ukrajinští oligarchové podle něj rozkradli „takové miliardy, až to tříská dveřmi“.
+    Výroky viz [Stochastický teror](stochasticky-teror.md).
+  citace:
+  - text: Neskončí to. Co si kurva myslíte? Jo, skončí, tak maximálně třetí světovou válkou.
+  podtema: Zahraniční aktéři a precedenty

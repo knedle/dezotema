@@ -9,3 +9,29 @@ zdroj:
   rezim: standard
   delka: '61:11'
   poznamka: 'Zhlédnutí: 151 875'
+vyroky:
+- id: rajchl-2026-03-29-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Policie neřeší výzvu k žářskému útoku na Rajchlův dům
+  text: 'Rajchl dokumentuje případ: aktivista Vojtěch Pšenák zveřejnil na sociální síti Rajchlovu domácí
+    adresu s textem, že tam „levičáci" najdou drony pro Izrael; člen ODS Jakub Hedia k tomu přidal komentář
+    o „škrtnutí sirkou". Ani policie, ani ODS případ veřejně neodsoudily. Zároveň Rajchl uvádí, že jiný
+    uživatel byl povolán k výslechu na odbor extremismu za výrok „vím, kam jít se samopalem" — na komentář
+    u demonstrace, nikoliv za zveřejnění adresy. Rajchl to označuje za systémový dvojí metr: výhrůžky
+    vůči opozičním politikům jsou tolerovány, výhrůžky vůči prodemokratickým aktivisté okamžitě stíhány.'
+  citace:
+  - text: Tady nenávistný komentář na sociální síť — druhý den seděl u výslechu na odboru extremismu.
+      A tady se neděje nic. Terorismus je terorismus, dámy a pánové.
+  podtema: Hrozby a dvojí metr justice
+- id: rajchl-2026-03-29-03
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Petr Pavel chválí demonstraci Milionu chvilek — po třech letech mlčení o opoziční scéně
+  text: 'Rajchl poukazuje na rozpor v chování prezidenta Petra Pavla: v roce 2023 prohlásil o účastnících
+    demonstrací PRO, že s nimi „nemá cenu se bavit" a označil je za ztracené existence. Po třech letech
+    se ovšem pozitivně vyjádřil k demonstraci Milionu chvilek, řekl, že „většina musí naslouchat menšině"
+    a vyzývá vládu k dialogu. Rajchl to označuje za flagrantní dvojí metr.'
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

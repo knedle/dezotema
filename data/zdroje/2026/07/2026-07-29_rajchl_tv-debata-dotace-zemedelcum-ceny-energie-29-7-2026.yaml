@@ -11,3 +11,13 @@ zdroj:
   poznamka: 'Zpracováno 1 téma: TV debata s Grolichem (Lidová strana) — odmítnutí termínu „agrobaroni"
     pro zemědělské dotace, obhajoba snížení ceny elektřiny přebráním OZE poplatků státem — [kauzy.md](kauzy.md).
     Bez predikcí a stoch. teroru. Zhlédnutí: 51 058'
+vyroky:
+- id: rajchl-2026-07-29-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+  text: |-
+    V televizní debatě se zástupcem Lidové strany (Grolich) Rajchl odmítá termín „agrobaroni" použitý k označení příjemců zvýšených zemědělských dotací — tvrdí, že jde o dotace pro všechny zemědělce, ne jen velké podniky, a že čeští zemědělci se za předchozí vlády dostali kvůli jejímu selhání do červených čísel. Označuje termín za „závistivé brnkání" cílené na Andreje Babiše.
+
+    K cenám elektřiny obhajuje politiku, kdy stát přebírá na sebe část poplatků za OZE: tvrdí, že to nesnižuje skutečnou hodnotu/cenu elektřiny samotné (tu podle něj platí stát z dluhu), ale snižuje **koncovou cenu pro spotřebitele**, což má multiplikační efekt na snížení ceny všech ostatních komodit (potraviny, stavební materiály) a tím i inflace. Grolich namítá, že vyšší cenu tak platí všichni daňovými penězi/dluhem — včetně dotace pro firmy, které si tím „vytápí bazény".

@@ -8,3 +8,15 @@ zdroj:
   prepis: prepisy/done/2026-11-02_Československo-TV2_Jiří-Hradil-vysílala-živě.txt
   rezim: standard
   poznamka: 12 min, záznam telefonátu Pavla Zítka s matkou Tomáše Čermáka; jméno matky nepřebíráno.
+vyroky:
+- id: zitko-2026-10-29-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: |-
+    **29. 10. (záznam telefonátu, zveřejněn 2. 11.)** — ⚡ Na záznamu telefonátu, který zveřejnil Jiří Hradil, Čermákova matka Zítka žádá, aby přestal volat synovi do práce, a jeho tezi o dvojníkovi odmítá: Tomáš podle ní bydlí u ní doma, „je to můj pravý syn“, nemá jiné oči ani zkroucené uši, žádnou schůzku si se Zítkem nedomlouval a profil „Politický vězeň Čermák“ otčím nespravuje. Zítko opakuje pochybnosti (o 10 cm menší, barva očí, politická petice na profilu, ČT na něj před věznicí nečekala), Čermáka přitom nazývá „hrdinou, který by měl být vyznamenán“ a slibuje, že se po osobním setkání omluví, pokud se mýlil.
+
+    > „Je to můj pravej syn, prosím vás, to si uvědomte.“ — matka Tomáše Čermáka
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

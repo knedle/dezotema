@@ -11,3 +11,14 @@ zdroj:
   poznamka: 'Celý repeat usnesení Krajského soudu v Ústí nad Labem (6. 8., „virus nebyl izolován") v reakci
     na slovenský hejtrský kanál zpochybňující pravost citace — beze změny textu, jen doplněn zdroj v [covid-vakciny.md](covid-vakciny.md).
     Bez predikcí a stoch. teroru. Zhlédnutí: 349'
+vyroky:
+- id: zitko-2026-08-14-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Zítkovo odvolání: Krajský soud v Ústí n. L. odmítl důkazy jako „nebylo v televizi" (2. 7. 2026)'
+  text: '**14. 8.** — Zítko reaguje na slovenský „hejtrský" kanál (Fidliboy z Trenčína), který v anketě
+    zpochybnil pravost jeho čtení usnesení, a znovu doslovně cituje tytéž pasáže (bod 5, „ono ani nemohla,
+    neboť dosud izolován nebyl") jako důkaz, že jde o autentický text soudu, ne jeho výmysl — beze změny
+    oproti 6. 8.'
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)

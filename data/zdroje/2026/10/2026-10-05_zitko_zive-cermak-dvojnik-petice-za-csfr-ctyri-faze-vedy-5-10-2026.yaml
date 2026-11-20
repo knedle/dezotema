@@ -8,3 +8,55 @@ zdroj:
   prepis: prepisy/done/2026-10-06_Československo-TV2_Československo-TV2-vysílala-živě.txt
   rezim: standard
   poznamka: 1 h 25 min; soubor datován 6. 10., vysíláno v pondělí 5. 10. večer.
+vyroky:
+- id: zitko-2026-10-05-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: SARS-CoV-2 nebyl nikdy izolován
+  text: '**5. 10.** — Zítko popisuje „čtyři fáze vědy": „důvěřujte vědě" (Fauci, Gates, Smejkal, Prymula,
+    Hořejší, Flegr, Kubek, Chlíbek), „věda se někdy mýlí", „vědu jsme si vymysleli" (HIV, ebola, dengue
+    i covid jsou „patentované choroby" pro byznys a Gatesovu „depopulaci o 10–15 %") a nakonec „věda odmítá
+    vypovídat" (Fauci se před Kongresem 29. 7. podle něj 111× odvolal na 5. dodatek). Covid podle něj
+    „vytlačila z televize" ruská speciální operace, protože „virus se šířil v televizi". Nově tvrdí, že
+    Krajský soud v Ústí nad Labem při jeho odvolání „kapituloval" a uznal, že virus SARS-CoV-2 nebyl izolován.'
+  podtema: Původ a povaha pandemie
+- id: zitko-2026-10-05-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**5. 10.** — Na profilu „Politický vězeň Čermák" se objevila petice za anulaci rozdělení ČSFR,
+    kterou Marie Šišáková pochválila jako „skvělou práci Tome". Pro Zítka je to další „falírování": muž
+    u soudu deset dní předtím slíbil soudkyni Šmídové, že se nebude politicky vyjadřovat, petice je tedy
+    „politický statement jako prase" a porušení podmínek propuštění. Text petice je navíc v množném čísle,
+    takže autorem je podle něj spíš „kolektiv autorů" než Čermák. Opakuje rozbor fotky z kurzu Vězňova
+    cesta (údajně 9 odsouzených, na fotce 7 vězňů, Čermák „bez levé ruky") a Čermáka přes Renatu Bernardy
+    vyzývá, aby ještě téže noci zveřejnil certifikát z kurzu, „než otevřou kopírovací centra". Zve ho
+    na akci ve Frýdku-Místku (10. 10.) s úhradou všech nákladů. Petici by tam podle něj podepsalo „100–200
+    lidí".'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-05-03
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rozdělení ČSFR jako nulitní akt + „velká aliance" čistí Deep State (Zítko, 12. 6. 2026)
+  text: '**5. 10.** — Zítko čte petici z profilu „Politický vězeň Čermák" za přezkum zániku ČSFR. Její
+    body: chybělo referendum podle zákona 327/1991, Klaus a Mečiar neměli rozdělení v programu, federace
+    byla od Havlovy „abdikace" bez prezidenta, Stráský vládl od 30. 9. 1992 bez důvěry, a podpis zákona
+    je proto „nulitní"; čl. 42 Listiny dodnes definuje občana ČSFR. Zítko obsah podporuje („tak jako my
+    od roku 2021"), ale navrhuje doplnit: podepsat mají „obyvatelé narození v Československu" a jde o
+    „unitární stát Čechů, Moravanů, Slezanů a Slováků". Samotná ČSFR podle něj vznikla v dubnu 1990 „podvodem
+    a vlastizradou" a zákon č. 11/1918 „nikdo nezrušil".'
+- id: zitko-2026-10-05-04
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „Vítězné mocnosti" Trump, Putin, bin Salmán a Módí rozhodnou o obnově Československa; volby
+    20 let falšovány (Zítko, 24. 9. 2026)
+  text: '**5. 10.** — Zítko ohlašuje, že na akci ve Frýdku-Místku půjde podepsat „doplatek 50 % faktury"
+    za majetek ukradený „pučem StB a KGB" (podílové listy), nově adresovaný ministryni financí Aleně Schillerové.
+    Nepočítá s tím, že by „korporace Česko/Slovensko" zaplatila. Rozhodne prý mírová smlouva po válce
+    na Ukrajině, která podle něj stanoví i nové hranice států a uzavřou ji vítězné mocnosti (Trump, Putin,
+    Si Ťin-pching, Módí), ne „Pávek" ani Babiš.'

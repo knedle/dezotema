@@ -8,3 +8,16 @@ zdroj:
   prepis: prepisy/done/2026-03-30_Lenka-Tarabová_11K-views-562-reactions-VÝZVA-LÉKAŘŮM-SAHNĚTE-SI-DO-SV.txt
   rezim: standard
   delka: 4:01 — anglicky; svědectví amerického lékaře o absenci výuky bezpečnosti vakcín
+vyroky:
+- id: tarabova-2026-03-30-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Lékaři neví nic o bezpečnosti vakcín — svědectví amerického lékaře
+  text: Lenka Tarabová sdílí výzvu k lékařům doprovozenou anglickým svědectvím amerického lékaře (profesora
+    Case Western Reserve University). Ten pod přísahou uvádí, že výuka na lékařských školách vůbec neobsahuje
+    informace o složení vakcín, bezpečnostních záznamech, informovaném souhlasu ani o Programu náhrad
+    za vakcinační škody — lékaři se jen učí memorovat vakcinační schéma. Dále uvádí finanční pobídky pro
+    lékaře za splnění vakcinačních plánů, vyhazování pacientů z ordinací za pochybnosti o vakcínách a
+    absenci informovaného souhlasu v jeho vlastní praxi.
+  podtema: Vakcíny

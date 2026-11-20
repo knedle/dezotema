@@ -8,3 +8,31 @@ zdroj:
   prepis: prepisy/done/2026-01-27_Jiří-Černohorský-Živě_Video-871875478951370.txt
   rezim: standard
   delka: '5:49'
+vyroky:
+- id: cernohorsky-2026-01-27-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Hrad prodal tajné informace Deníku N — média mlčí
+  text: Jiří Černohorský upozorňuje na případ, kdy pracovníci Hradu (podle jeho slov s bezpečnostní prověrkou)
+    předali neveřejné materiály z ministerstva zahraničí Deníku N. Tvrdí, že kdyby se totéž stalo za prezidenta
+    Miloše Zemana, Česká televize by přerušila veškeré pořady a věnovala se tomu nepřetržitě (podobně
+    jako státní televize po smrti Brežněva). Ve skutečnosti tuto kauzu mainstreamová média prakticky ignorovala.
+    Jako důkaz, že Hrad má uzavřenou smlouvu se Seznamem Zprávy, cituje informaci, kterou zveřejnil Franta
+    Kubásek.
+  citace:
+  - text: Kdyby tohle udělal Miloš Zeman, tak vám říkám, mainstream, česká televize vybuchne, vole, vybuchne.
+      Konec s pořadama, žádný studio Kamarád, vole. A jel by tam Miloš Zeman.
+  podtema: Dvojí metr v médiích
+- id: cernohorsky-2026-01-27-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Zrušení prezidentského úřadu — návrh Jiřího Černohorského
+  text: 'Černohorský navrhuje zrušit funkci prezidenta jako zbytečnou — když je tu předseda vlády, prezident
+    nemá smysl. Jako ilustraci uvádí, že funkce prezidenta je škodlivá: člověk s prověrkami může předávat
+    neveřejné informace z ministerstva zahraničí mediím (viz kauza s Deníkem N) bez jakýchkoli důsledků.'
+  citace:
+  - text: Já bych zrušil funkci prezidenta, k čemu? Funkce prezidenta je úplně k hovnu, úplně k hovnu,
+      jestliže máte předsedu vlády.
+  podtema: Prezident a demokracie

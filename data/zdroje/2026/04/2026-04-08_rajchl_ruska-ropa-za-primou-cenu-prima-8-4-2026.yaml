@@ -9,3 +9,20 @@ zdroj:
   rezim: standard
   delka: '1:52'
   poznamka: 'Zhlédnutí: 79 018'
+vyroky:
+- id: rajchl-2026-04-08-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Přímý nákup ruské ropy — cesta do Moskvy jako jediné řešení (Rajchl, duben 2026)
+  text: |-
+    Rajchl v rozhovoru na Primě (8. 4. 2026) opakoval svoji pozici: cesta do Moskvy na vyjednání obnovení dodávek ropy a plynu je jediné racionální řešení pro dlouhodobou energetickou stabilitu ČR. Ocenil belgického premiéra Barta De Wevera, který otevřeně vyzval k normalizaci vztahů s Ruskem a návratu k levným surovinám. Upozornil, že cena benzínu přímo v Rusku se pohybuje kolem 16–17 Kč/litr a při přímém přístupu k ruské ropě by cena v ČR mohla reálně klesnout na 30 Kč/litr.
+
+    Rajchl kritizoval dopad sankcí: protiruské sankce nefungují — ruské příjmy z ropy od jejich zavedení stouply. ČR přitom ruskou ropu nadále kupuje, jen přes řetězec překupníků, z čehož nejvíce těží Čína. Argumentoval, že ČR si může jednostranně vyjednat výjimku ze sankcí, stejně jako to učinil prezident Trump.
+  citace:
+  - text: Ne, jestli to Rusko prodá nebo neprodá, ale jestli to prodá nám nebo někomu jinému. Teď na tom
+      profituje Čína, vydělává na tom miliardy dolarů a my se tady prostě tváříme, že tu ropu nedostáváme.
+      Stejně ji dostáváme, stejně ji tady kupujeme, akorát přes řetězec překupníků.
+  dalsi_zdroje:
+  - 2026-10-05_rajchl_debata-bez-ruske-ropy-a-plynu-se-evropa-neobejde-5-10-2026
+  podtema: Rusko a energetická krize EU

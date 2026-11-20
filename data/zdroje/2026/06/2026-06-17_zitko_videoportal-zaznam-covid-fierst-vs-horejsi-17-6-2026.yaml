@@ -14,3 +14,35 @@ zdroj:
     Remdesivir, vystoupení z WHO); ČT porušuje zákon od 12. 3. 2020 → vracení poplatků, Smrš odmítl Zítka
     do Máte slovo; opakovaná výzva k vojenskému tribunálu Norimberg 2.0 (stoch. teror). Cizí sdílené texty
     „20 pravidel přežití" a „10 zákonů frekvence" nezpracovány. Záznam (FB zablokoval živé vysílání)
+vyroky:
+- id: zitko-2026-06-17-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Zítkův rozbor Fierstova článku + vlastní dodatky
+  text: |-
+    Zítko (ČsTV2) komentuje a rozšiřuje článek Tomáše Fiersta „First po bitvě generálem", který vznikl jako reakce na výzvu imunologa **Václava Hořejšího** („když jsi tak chytrý, napiš, jak bys v pandemii postupoval ty"). Fierstovy body (Zítkem přebírané a doplňované):
+
+    - Nevyhazovat na začátku 2020 pandemické plány ani hlavní hygieničku („vyhodit generála i plány těsně před bitvou").
+    - Před testováním ověřit **senzitivitu a specifitu** testů; zastavit PCR testování zdravých — utopíme se v „moři falešných pozitivit" (Zítko: 86 % PCR falešně pozitivních, antigenní ještě horší; „bezpříznakový pacient" je oxymóron).
+    - Nepřejímat slepě „německé notičky"; požadovat malé pilotní studie na každé opatření (zavírání škol, roušky, lockdowny) místo plošného nasazení.
+    - Správně používat jazyk (nemocný = kdo má příznaky, ne „pozitivní papírek"); zakročit proti cenzuře (čl. 17 Listiny).
+    - Číst kritiky (Joanna/Krátká, doktoři Cowan, Lanka, Bailey, Kaufman, Bhakdi, Hodkinson aj.); umožnit léčbu (ivermectin — „hon na ivermectin", hydroxychlorochin, fenbendazol), které byly dle Zítka zatajovány, aby obstála jediná cesta „zabodat".
+    - Hnát k odpovědnosti modeláře (Ludvík, Flegr „tvar hokejky", Hajduch „zkurvil studii Prevalence") za nenaplněné predikce.
+
+    **Zítkovy dodatky:** demonstrativní/manifestační „zapíchání" vlády Babiše a poslanců (vč. rodin) náhodně losovanými šaržemi na začátku 2020 (dnes by „pro politiky" preferoval šarži začínající E s 96% úmrtností a koncovky 22R–22Z); Remdesivir „zabil 53 % u eboly" a propagoval ho Babiš; nemocnice inkasovaly ~100 tis. $ za úmrtí deklarované jako COVID (Peterson Pierre); na ventilátorech umíralo 8 z 10 (vs. 8 z 10 přežilo u prof. Tereka v Košicích); 120 biolaboratoří (většina na Ukrajině), protože „patentované choroby nevzniknou v přírodě"; vystoupení z WHO (Trump to zvládl první den, Babišova vláda nic).
+
+    Václava Hořejšího řadí mezi „privilegovanou skupinu" mediálně všudypřítomných (Flegr, Kubek, Chlíbek, Konvalenka, Maďar, Smejkal, Primula…), jejíž členové „neslezli z obrazovky". Pasáž rámuje jako důkaz, že **Česká televize porušovala zákon od 12. 3. 2020** tím, že nevysílala oponentní názor — divácí proto mohou žádat vrácení koncesionářských poplatků (viz [média: ČT a poplatky](media-propaganda.md#korespondenční-válka-zítka-s-čt-o-vrácení-poplatků-1-6-2026)); znovu připomíná, že ČT (Jan Smrš) odmítla jeho účast v Máte slovo proti Prymulovi.
+  podtema: „Jak bys řešil covid ty" — Fierst vs. Hořejší (Zítko, 17. 6. 2026)
+- id: zitko-2026-06-17-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Facebook zablokoval živé vysílání ČsTV2 — „kyberšikana" kvůli fotce z UFC (Zítko, 17. 6. 2026)
+  text: Dne 17. 6. 2026 Facebook znemožnil Zítkovi spustit živé vysílání („Tento uživatel nemůže vytvořit
+    živé vysílání") — a totéž na kanálech Československo TV2 i Československo 2020. Jako důvod uvádí údajnou
+    „kyberšikanu" a porušení pravidel komunity za zveřejnění fotky z akce UFC Freedom 250 s Donaldem Trumpem.
+    Zítko proto plánované téma (covidová polemika Fierst vs. Hořejší) odvysílal jen jako záznam. Označuje
+    to za přímou cenzuru a ironicky se ptá, co na to „spolek pro obranu svobody projevu Daniela Vávry".
+    Navazuje na [Facebook omezuje dosah ČsTV2 (7. 5.)](#facebook-omezuje-dosah-čstv2-7-5-2026).
+  podtema: ČT poplatky a omezování na sociálních sítích

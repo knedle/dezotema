@@ -11,3 +11,15 @@ zdroj:
   poznamka: 'Panelová debata. Průzkum: 57% Čechů odsoudilo sjezd LM; Štefec: Posselt organizoval sjezd
     pro německou volební viditelnost; návrh sdružení zemí pro vymáhání reparací; ČR = „flekem na mapě
     s nulovou mezinárodní váhou"; opakování Czechoslovakia theory (Zítko). Zhlédnutí: 454'
+vyroky:
+- id: zitko-2026-05-27-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: 'Průzkum: 57 % Čechů odsoudilo sjezd LM — Posselt hledal volební viditelnost — Štefec (27. 5.
+    2026)'
+  text: |-
+    Průzkum provedený 14.–18. května 2026 (vzorek ~1 000 respondentů) ukázal, že 57 % Čechů sjezd Sudetoněmeckého Landsmannschaftu odsoudilo. Bezpečnostní analytik Jaroslav Štefec nabídl alternativní vysvětlení motivace Posselta: SdL je v Německu politicky marginální a nemůže konkurovat stávajícím stranám ani AFD, která roste raketově. Sjezd v ČR byl tedy primárně PR tahem pro pozornost před blížícími se německými volbami — nikoli skutečnou iniciativou smíření.
+
+    Štefec navrhl diplomatickou cestu: ČR by měla iniciovat sdružení zemí, které nedostaly válečné reparace od Německa v plné výši, a společně vyvíjet diplomatický tlak — otevřít „Overtonovo okno reparací."
+  podtema: Sudetoněmecký sjezd v Brně 2026

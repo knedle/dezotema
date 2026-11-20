@@ -7,3 +7,51 @@ zdroj:
   url: https://m.facebook.com/watch/?v=895716813296353&_rdr
   prepis: prepisy/done/2026-08-21_Československo-TV2_Videoportál_1.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-08-21-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Fauci se odvolal na 5. dodatek — kontrast s beztrestností v ČR (Vrabel, 30. 7. 2026)
+  text: '**21. 8.** — Zítko referuje o novém vývoji: David Morens, bývalý dlouholetý poradce (2006–2022)
+    v kanceláři ředitele NIAID a blízký spolupracovník Fauciho, se u federálního soudu v Marylandu přiznal
+    k jednomu bodu obžaloby ze spiknutí za účelem podvedení USA — konkrétně za skrývání federálních záznamů
+    o původu covidu a o grantu na výzkum „rizika vzniku netopýřích koronavirů" (z něhož měl přes newyorskou
+    neziskovku EcoHealth Alliance, vedenou Peterem Daszakem, plynout subgrant Wuhanskému institutu virologie);
+    hrozí mu až 5 let vězení. Podle obžaloby si Morens s Daszakem a dalším spoluspiklencem posílal e-maily
+    o covidu a zrušeném grantu přes soukromý Gmail účet místo služebního, aby obešli zákon o svobodném
+    přístupu k informacím, a Morens měl sloužit jako „zadní kanál" k neidentifikovanému vysoce postavenému
+    představiteli NIAID (dle soudních dokumentů zřejmě Fauci) — jako protislužbu měl od Daszaka dostat
+    lahve vína a nabídku placené večeře v michelinské restauraci. Zítko to prezentuje jako důkaz, že se
+    v USA téma covidového původu znovu otevírá, v kontrastu s postupem českého ministerstva spravedlnosti
+    vůči Pekové (viz [Kauzy — třetí verze kauzy Peková](kauzy.md#třetí-verze-kauzy-peková-ministr-tejc-moderátor-salaj-jako-iniciátor-podpora-karla-janečka-zítko-21-8-2026)).'
+- id: zitko-2026-08-21-04
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Fauci se odvolal na 5. dodatek — kontrast s beztrestností v ČR (Vrabel, 30. 7. 2026)
+  text: '**21. 8. (večer, Janečkův článek)** — Zítko čte rozsáhlý text Karla Janečka reagující na Fauciho
+    senátní slyšení. Janeček srovnává Fauciho odmítání odpovídat (111 odvolání na pátý dodatek, včetně
+    otázky na barvu kravaty) s tím, jak covidoví „vědátoři" po celém světě požadovali bezpodmínečnou důvěru
+    ve vědu. Fauciho označuje za „nejhoršího kouzelníka" a „zlosyna historického významu", který poškodil
+    důvěru ve vědu víc než kdokoli od dob Josefa Mengeleho, a tvrdí, že lidé kladoucí legitimní otázky
+    o původu viru a financování rizikového výzkumu byli systematicky dehonestováni. Žádá, aby byli k odpovědnosti
+    voláni i čeští protějšky — jmenovitě uvádí Jana Konvalinku, Zdeňka Hella, Milana Kubka, Rastislava
+    Maďara, Petra Smejkala, Jana Sempera, Václava Hořejšího, Jaroslava Flégra, Romana Chlíbka, Rudolfa
+    Tachezyho a Vašákovou. Připomíná vlastní ranou kritiku covidových opatření (blog z 21. 3. 2020, veřejné
+    vystoupení v listopadu 2021 proti očkování zdravých dětí), kterou nikdy nelitoval.'
+- id: zitko-2026-08-21-06
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Třetí verze kauzy Peková: ministr Tejc, moderátor Salaj jako iniciátor, podpora Karla Janečka
+    (Zítko, 21. 8. 2026)'
+  text: '**21. 8. (večer)** — Zítko rozvádí kauzu o další vrstvu: studii slovenské Akademie věd (SAV),
+    kterou vláda použila ke zpochybnění Pekové posudku, označuje odborník Kevin McKernan (dle Zítka „jeden
+    z pěti největších světových odborníků" v oboru) za rovněž podjatou — autoři studie měli mít nedeklarované
+    financování od výrobců mRNA vakcín, což podle Zítka představuje neuvedený střet zájmů srovnatelný
+    s tím, z čeho byla obviněna Peková. Zdůrazňuje, že žádná ze stran zpochybňujících Pekovou analýzu
+    neprovedla rozbor stejných vzorků (těch 34 vzorků zůstává uloženo u Pekové v mrazáku). Zmiňuje také,
+    že slovenský politik Marian Kotleba podal trestní oznámení na Mgr. Jana Pačese, PhD. — muže, který
+    na Pekovou původně podal stížnost vydávaje se za soudního znalce, ač jím nikdy nebyl.'
+  podtema: Trestní stíhání kritiků covidu

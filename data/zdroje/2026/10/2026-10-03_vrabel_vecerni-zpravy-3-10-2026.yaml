@@ -8,3 +8,76 @@ zdroj:
   prepis: prepisy/done/2026-10-03_Ladislav-Vrabel_3-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: Vysíláno z pražského hotelu po shromáždění 3. 10.; bez obrazových podkladů.
+vyroky:
+- id: vrabel-2026-10-03-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Fico žádá summit EU kvůli cenám nafty — „cynismus"; jediné řešení je ruská ropa a vystoupení
+    z NATO (Vrabel, 23. 9. 2026)
+  text: '**3. 10.** — Uvolnění až 100 milionů barelů ze strategických rezerv G7 je podle Vrabela „úlitba
+    Trumpovi" před volbami: po vyčerpání rezerv cena vzroste „ještě víc" a USA přestanou dodávat. Spekuluje,
+    že uzavření Hormuzu a Bab al-Mandab i útoky na ropnou infrastrukturu po světě (Maďarsko, Rumunsko,
+    USA, Austrálie) jsou „schválně" kvůli Green Dealu; konflikt mají řešit Rada bezpečnosti OSN, ne „kriminálníci",
+    kteří „aby prodali víc zbraní, rozpoutají třetí světovou válku".'
+  podtema: Rusko a energetická krize EU
+- id: vrabel-2026-10-03-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Ebola v Kongu a příští pandemie „střevní mikroflóry"; Vojtěch a „kde by měl být trest smrti"
+    (Vrabel, 3. 10. 2026)
+  text: K epidemii eboly v Kongu (přes 4 000 mrtvých) Vrabel doporučuje „zachraň se, kdo můžeš" — odlehlé
+    místo pro případ lockdownů, na které jsou Vojtěch a Babiš „natrénovaní". Cituje „kamaráda" dr. Heiko
+    Schöninga, podle něhož bude další pandemie v oblasti „střevní mikroflóry" s „mRNA antibiotiky", a
+    Gatesův výrok „ne jestli, ale kdy". Připomíná, že Adam Vojtěch označil za „čest" převoz amerického
+    pacienta s podezřením na ebolu, a ptá se, jaký trest by měl dostat člověk, který do země dovezl někoho
+    s nemocí, „která může vyhubit Českou republiku" — „kde by měl být ten trest smrti".
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: vrabel-2026-10-03-05
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: '⚡ Konflikt: Vrabel obviňuje Rajchla z pokrytectví ve svobodě slova — zákaz ruských vlajek a
+    sběr kompromitujících materiálů (Vrabel, 18. 8. 2026)'
+  text: '**3. 10. (večer)** — Katku Blahníkovou podle Vrabela propustili s tím, ať počítá s odsouzením
+    samosoudcem ve zrychleném řízení do 15 dnů; odhaduje půl roku podmíněně na rok a půl jako u Hrdličky.
+    „Tenhle režim, tato vláda — nevím, jestli je horší než vláda Petra Fialy — dál zatýká lidi za to,
+    že vyjádřili svůj politický názor, bez opory v zákoně"; precedent opět přičítá PRO (Rajchl, Vacek).'
+  podtema: Trestání politického projevu
+- id: vrabel-2026-10-03-07
+  typ: tvrzeni
+  temata:
+  - jaderne-zbrane
+  nadpis: Vrabel vyhlašuje zářijovou demonstraci proti jaderným zbraním v ČR — vysvětlení „jaderného deštníku"
+    (Vrabel, 12. 7. 2026)
+  text: '**3. 10. (shromáždění)** — Livestream shromáždění „Člověk na prvním místě" na Malostranském náměstí
+    (Vrabel sám odhaduje „stovku, možná přes stovku" lidí, 13 řečníků). Podepisovaly se tři výzvy vládě
+    a parlamentu: **jaderné zbraně** — „vyzýváme vládu České republiky, aby nepodepsala ani neuzavřela
+    s Francií, Spojeným královstvím, Spojenými státy americkými ani s žádnou jinou zemí dohodu, která
+    by umožnila umístění jaderných zbraní na území České republiky"; **zmocněnec pro mír** — vláda má
+    jmenovat zmocněnce oprávněného jednat s Ukrajinou, Ruskem, EU, USA a Čínou a prosazovat tezi, že „bezpečnost
+    Evropy nikdy a za žádných okolností nemůže být dosažena bez širokého dialogu s Ruskem"; **zbraně**
+    — zákaz vývozu zbraní a munice na Ukrajinu včetně přes třetí země a ukončení vývozních licencí. Vrabel
+    uvádí, že MZV „před třemi dny oficiálně zahájilo jednání s Francií o dodání jaderných zbraní", a Babiše,
+    který „mluví o míru", vyzývá, ať výzvu přijme. Z ostatních řečníků podplukovník v záloze **Ivan Kratochvíl**
+    popsal scénáře, v nichž by Rusko po blokádě Kaliningradu obsadilo Pobaltí a USA se stáhly, a tvrdil,
+    že „francouzský jaderný deštník není deštník, je to francouzský jaderný terč na našem území" (preventivní
+    úder na Čáslav, „Pardubice můžeme odepsat z mapy"); šéfredaktor Aeronetu („VK") očekává otevřený konflikt
+    EU s Ruskem kolem roku 2030, kdy „vyčerpaná Ukrajina se nedokáže podržet na frontových liniích a přijdou
+    tam vojáci Evropské unie".'
+- id: vrabel-2026-10-03-09
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Zelenskému „věřím nula procent" — Rusko šetří civilisty; relativizace Buči; NATO v Bělehradě
+    1999 jako „váleční zločinci" (Vrabel, 3. 10. 2026)
+  text: 'K Zelenského dokumentům o ruských útocích na školy a nemocnice Vrabel říká, že mu „věří nula
+    procent" — je to „nevolený prezident, v podstatě diktátor"; Rusko by podle něj Ukrajinu dobylo za
+    měsíc, ale postupuje pomalu, aby šetřilo civilisty, a místní se podle něj cítí „osvobozeni". Naopak
+    USA, NATO a Ukrajině by útoky na školy věřil — NATO v roce 1999 v Bělehradě bombardovalo rafinerii,
+    rozhlas a dětské oddělení nemocnice: „takže my jsme zločinci, váleční". K Buči říká, že „nechce popírat
+    genocidu", dokud ji nevyšetří nezávislý orgán se všemi stranami, a zmiňuje svědectví o vyhazování
+    mrtvol z kamionu. Případný útok KLDR na ČR by podle něj byl děsivý — „to nejsou Slovani, ty s námi
+    nebudou soucítit vůbec".'
+  podtema: Vyjednávání a mír

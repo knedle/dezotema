@@ -8,3 +8,14 @@ zdroj:
   prepis: prepisy/done/2026-11-06_Jindřich-Rajchl_Tohle-je-nejvíc.txt
   rezim: standard
   poznamka: 1 min, výstřih z televizního rozhovoru.
+vyroky:
+- id: rajchl-2026-11-06-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Stížnost k Radě ČT na Jana Moláčka za „kukaččí mládě“; ČT zrušit, „ani korunu“ (Rajchl, 22.
+    10. 2026)
+  text: '**6. 11.** — Když mu moderátor v televizním rozhovoru oponuje průzkumem (34 % chce poplatky zachovat,
+    31 % převést pod státní rozpočet se zárukami financování, 23 % okamžitě prosadit zákon), Rajchl obě
+    poslední skupiny sčítá na 54 % a tvrdí, že většina je pro zrušení poplatků.'
+  podtema: Česká televize a mainstreamová média

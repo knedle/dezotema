@@ -8,3 +8,31 @@ zdroj:
   prepis: prepisy/done/2026-04-04_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: '1:25:57'
+vyroky:
+- id: zitko-2026-04-04-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Rudolf Steiner (1925): vakcíny odeberou lidem duši — mRNA jako biologická zbraň (Zítko)'
+  text: Zítko cituje předpověď Rudolfa Steinera z roku 1925, podle níž materialistická medicína jednoho
+    dne vytvoří látku, která lidem odebere schopnost duchovního prožívání (tzv. odebrání duše). Zítko
+    to interpretuje jako naplněnou předpověď mRNA vakcín. Zároveň cituje amerického profesora Francise
+    Boyla, autora Zákona o biologických zbraních USA, který označil mRNA vakcíny za „biologické zbraně
+    hromadného ničení". Zítko přidává, že dětem jsou podávány hexavakcíny, které označuje za kombinaci
+    slučitelnou s touto kategorií.
+  podtema: Odmítání virologie jako vědy
+- id: zitko-2026-04-04-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Propad porodnosti o třetinu — data z ÚZIS (Zítko)
+  text: |-
+    Pavel Zítko odkazuje na analýzu statistika Romana Kovaříka z dat ÚZIS (Ústav zdravotnických informací a statistiky ČR): porodnost v ČR klesla z přibližně 112 000 porodů ročně na přibližně 77 000 — tj. o třetinu. Kovařík dle Zítka prokázal, že u vakcinovaných žen docházelo k poklesu plodnosti přímo v měsících odpovídajících jednotlivým dávkám vakcíny. Zítko z toho vyvozuje přímou kauzální spojitost mezi mRNA vakcínami a snížením porodnosti.
+
+    Ve večerníku 7. dubna 2026 Zítko tato čísla upřesňuje: za čtyři roky se narodilo o 35 000 dětí méně (propad o 30 %), přičemž Kovařík analýzu prováděl na vzorku 1,3 milionu žen ve věku 18–39 let. Zítko to popisuje jako „demografickou katastrofu" a přirovnává k situaci, jako by přestalo existovat celé okresní město. Zároveň opakuje, že Kovařík prokázal, že za propadem stojí výhradně vakcinované ženy, nikoliv celá populace.
+
+    ⚡ **Konflikt:** Demografové a reprodukční epidemiologové nepřiznávají vakcinaci jako příčinu poklesu porodnosti; pokles sledují napříč neočkovanými i očkovanými populacemi a přisuzují jej ekonomickým a sociálním faktorům.
+  dalsi_zdroje:
+  - 2026-04-08_zitko_vecernik-7-dubna-danykolar-a-uzis-8-4-2026
+  - 2026-10-03_zitko_sobotni-vysilani-amsterdam-florida-nemecko-2-4-3-10-2026
+  podtema: Odmítání virologie jako vědy

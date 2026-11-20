@@ -9,3 +9,35 @@ zdroj:
   rezim: vrabel
   poznamka: 12 min, krátký monolog k Trumpovým výrokům (zpráva ČT) a pozvánka na pochod 17. 11. (Malostranské
     náměstí ve 13:00 → Klárov); bez sdílených videí.
+vyroky:
+- id: vrabel-2026-10-20-04
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: '⚡ Konflikt: Vrabel obviňuje Rajchla z pokrytectví ve svobodě slova — zákaz ruských vlajek a
+    sběr kompromitujících materiálů (Vrabel, 18. 8. 2026)'
+  text: '**20. 10. (FB Live)** — V krátkém živém vysílání Vrabel opakuje, že Trumpův výrok, že se Rusko
+    k Ukrajině chová „v pohodě“, staví české soudy a státní zástupce před otázku, zda se omluví všem odsouzeným
+    za písmeno Z. Rozvádí analogii presumpce neviny: dokud válečné zločiny či genocidu neodsoudí mezinárodní
+    tribunál zřízený Radou bezpečnosti OSN, nelze o žádném státu tvrdit, že je páchá, a soudy si podle
+    něj „vymýšlí nějaké svoje pohádky“. Režim podle něj „protiprávně odsuzuje lidi za politický názor“
+    stejně jako za komunistů a zatýkání za trikoloru sepnutou do písmene Z označuje za „čistý fašismus“
+    ozbrojených složek státu. Pochod 17. listopadu (z Malostranského náměstí na Klárov, s bubeníkem, „bouchátky“
+    a soutěží o transparenty a plakáty, i vytvořené pomocí AI) rámuje jako pochod proti cenzuře, „proti
+    fašismu, proti nacismu“; rok 1989 podle něj „nemůžeme slavit jako vítězství svobody“, „falešný mrtvej
+    student“ byl policista a republika byla předána Západu. Přestože ho Trump „strašně zklamal“ (Venezuela,
+    Írán, neukončená válka, obchodní války), jeho předvolební výrok je podle Vrabela „strašně silný argument“,
+    který je třeba využít.'
+  citace:
+  - text: To, co nám sem přišlo v roce 1989, to opravdu nemůžeme slavit jako vítězství svobody.
+  podtema: Trestání politického projevu
+- id: vrabel-2026-10-20-05
+  typ: tvrzeni
+  temata:
+  - jaderne-zbrane
+  nadpis: Jaderné odzbrojení jako jediná cesta k míru — výzva (Vrabel, 6. 6. 2026)
+  text: '**20. 10. (FB Live)** — Ke zprávě ČT, že Trump chce na summitu s Čínou a Ruskem mluvit místo
+    o Ukrajině o denuklearizaci, Vrabel říká, že jde o „naprosto zásadní prohlášení“ a o to, co sám „celou
+    dobu“ prosazuje: jaderné zbraně „schovat do hangáru“ a podepsat smlouvy o jaderném odzbrojení. Je
+    podle něj rád, že s tím přišel právě Trump, „jediný“ politik, který něco takového navrhl, protože
+    jde o „jedinou rozumnou možnost“.'

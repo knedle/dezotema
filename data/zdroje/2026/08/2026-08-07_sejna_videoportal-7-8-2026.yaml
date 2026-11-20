@@ -10,3 +10,16 @@ zdroj:
   delka: 00:01:03
   poznamka: 'Zpracováno 1 téma: policie potvrdila reálnost Turkových rasistických příspěvků, kritika výběrovosti
     médií — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru. Zhlédnutí: 4 121'
+vyroky:
+- id: sejna-2026-08-07-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Boldy: Pavlovo pokrytectví — Černochová bourala loni bez následků, Turkovi hrozí kvůli tomu
+    rezignace (15. 7. 2026)'
+  text: '**7. 8.** — Šejna reaguje na policejní vyjádření, že některé starší Turkovy sdílené příspěvky
+    jsou reálné a podněcovaly k nenávisti (dosud šlo o neprokázaná tvrzení) — média podle něj Turka rovnou
+    označují za vinného, ačkoli o vině má rozhodovat soud, nikoli policie nebo média. Kritizuje výběrovost
+    mediální pozornosti: zatímco se znovu řeší Turek, kauzy s podle něj závažnějším dopadem (bitcoinová
+    kauza, Pauknerova odhalení, Blažkovo přiznání) zůstávají na vedlejší koleji.'
+  podtema: Filip Turek — dopravní nehoda a tlak na rezignaci

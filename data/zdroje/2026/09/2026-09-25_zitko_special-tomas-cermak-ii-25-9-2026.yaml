@@ -7,3 +7,45 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1969290920411767&_rdr
   prepis: prepisy/done/2026-09-26_Československo-TV2_18-reactions-3-comments-Československo-TV2-vysílal.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-09-25-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko,
+    7. 8. 2026)
+  text: '**25. 9.** — K otázce „kde jsou peníze pro Tomáše Čermáka" Zítko odpovídá, že sbírka probíhala
+    na „zemských sněmech Čechoslováků" a peníze (odhadem 100–200 tisíc) spravují „manželé z Jablonce nad
+    Nisou", kteří prý drží i pergamen Deklarace lidu Československa a petiční archy; jemu samému z peněz
+    poslaných během 110 dnů vazby dali jen 5 000 Kč. Transparentní účet „Srdcem pro vlast" mu podle něj
+    vykrádal „Masaryk" trikem s centovými platbami ze zahraničí. Tušl je podle něj ukřivděný, že nedostal
+    peníze („mistrovství světa v somrování"), a finanční podporu mu prý znemožnilo „vychloubání" Jindřicha
+    Rajchla, že ho z vězení vytáhne — Rajchl navíc ze svého „desatera" za osm měsíců nesplnil „nic". Výkřiky
+    „za všechno může Zítko" jsou podle něj typické pro tajné služby („první křičí: chyťte zloděje"); falešné
+    profily přisuzuje Konstantinu Stankovi a spolku ČSR. Pouští archivní výpověď Čermáka, v níž ten o
+    Černohorském mluví jako o „prostředníkovi, který byl na mě nasazený" — „tohle byl originál Tomáš Čermák".'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-09-25-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**25. 9.** — Zítko je už kategorický: „za mě to v žádným případě nebyl Tomáš Čermák". Čermák
+    měl podle pátrání 185 cm, muž u soudu prý pod 180 cm; divák Jozef Zapletal srovnával ušní boltce a
+    jizvu pod okem; muž nenavázal oční kontakt s matkou, nikoho neobjal a nezavolal ani Zítkovi — „kdyby
+    to byl skutečný Tom, tak zvedne telefon". Rodina (matka „možná pod sedativy", otčím Martin Turek)
+    a advokát Naxera podle něj „museli vědět", že to není originál; Naxera mu prý den předem poslal SMS,
+    že si „údajný Tomáš Čermák" nepřeje účast Zítka, Petrkové a Tušla. Ostré výrazy obhajuje: „když se
+    zabíjej injekcema biologický zbraně děti a těhotné ženy, tak je asi logické, že ty výrazy mohou být
+    o něco expresivnější".'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-09-25-03
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Dvojníci a klony politiků a celebrit
+  text: '**25. 9. (Zítko)** — Na společné fotografii s Čermákem (185 cm) je Andrej Babiš menší, přestože
+    „původní" Babiš měl měřit 187 cm — to je podle Zítka „krásný důkaz o tom, že Andrej Babiš není původní
+    Andrej Babiš". Toma Hankse označuje za „jednoho z největších pedofilů v Hollywoodu".'
+  podtema: Okultismus

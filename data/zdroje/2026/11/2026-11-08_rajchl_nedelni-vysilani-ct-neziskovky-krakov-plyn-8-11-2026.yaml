@@ -11,3 +11,215 @@ zdroj:
     druhu“. Zpracováno všech 15 témat. Citované výhrůžky a komentáře (Hedija, SMS, komentáře k Ficovi)
     nejsou Rajchlovy výroky, proto nejsou ve stochastickém teroru. Hraniční „zločinný, kriminální režim“
     (Ukrajina) a „pokrytci, farizejové… krev na rukou“ nesplňují kritérium dehumanizace ani výzvy k trestu.
+vyroky:
+- id: rajchl-2026-11-08-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Plyn 12× dražší než v USA, povolenky 4× — Evropa se „zbláznila“; „zelení fanatici“ mlčí o emisích
+    zbrojení a tankerů (Rajchl, 8. 11. 2026)
+  text: 'Podle Rajchla je plyn na burze TTF v Rotterdamu 12× dražší než na americkém Henry Hub. Emisní
+    povolenka ETS1 stojí v EU kolem 90 eur, v USA kolem 25 eur a v Číně či Koreji je podle něj asi devětkrát
+    levnější. Evropa tak podle něj nemůže konkurovat USA ani Asii, „sama si staví překážky“ a deindustrializace
+    bude pokračovat (letos prý odešly Baťa, Zetor a další firmy). Navrhuje zrušit Green Deal a zavést
+    nízkou ekologickou daň kolem 5 eur za tunu CO₂, kterou by energetika podle něj unesla. Peníze by místo
+    „zeleným aktivistům“ a větrným elektrárnám šly do celoevropského výzkumného centra pro jadernou fúzi
+    a recyklaci. Nechce „živit“ spekulanty s deriváty povolenek. „Zeleným fanatikům“ vyčítá pokrytectví:
+    výroba zbraní je podle něj na špičce produkce CO₂ a jeden tanker na mazut vyprodukuje víc emisí než
+    všechna česká auta se spalovacím motorem, a přesto mlčí. Žádá proto brát ruský plyn a ropu stávajícím
+    potrubím, jak podle něj radí i Trump. Tranzit by státnímu Net4Gas vynesl miliardy, plyn by zlevnil
+    a emise by klesly „o stovky procent“. Green Deal a migraci nazývá „dvěma hlavami saně“, které ničí
+    Evropu (viz [suverenita-eu.md](suverenita-eu.md#triocasa-prisera-rajchl-4-11-2026)).'
+  citace:
+  - text: Pojďme začít nakupovat levný plyn a levnou ropu, jinak Evropa spěje ke svému průmyslovému zániku.
+  podtema: Elektřina — marže a ceny
+- id: rajchl-2026-11-08-02
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: 'Spolek Díky, že můžeme: Soros, Obama Foundation a sponzoři STAN — protesty za ČT jako připravený
+    pokus svrhnout vládu (Rajchl, 2. 11. 2026)'
+  text: '**8. 11.** — Rajchl opakuje, kdo podle něj spolek financuje (norské fondy, Obama Foundation,
+    Open Society a 83 tisíc eur na „Samet ve školách“, který nazývá „komsomolskou přípravkou“ aktivistů).
+    Tleská ministru kultury Klempířovi, že spolku odmítl dotaci na akce k 17. listopadu. Jako premiér
+    by ministra, který by dal politické neziskovce peníze z daní, „vyhodil“. Demonstrace podle něj nejsou
+    spontánní, ale placené ze zahraničí a Janem Bartou, který financuje i STAN a Petra Pavla. Zákon FARA
+    označuje za svůj „hlavní cíl“: koalice ho podle něj předloží (podrobnosti zatím neprozradí). Z registru
+    pak bude vidět, kdo neziskovky financuje, a on už „nebude muset psát tyto příspěvky“.'
+  citace:
+  - text: Musíme za každou cenu prosadit zákon FARA.
+  podtema: Milion chvilek — struktura a financování
+- id: rajchl-2026-11-08-03
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: '„Fialova kampelička“: NCOZ vyšetřuje praní peněz, přes záložnu měly téct „vratky“ z ukrajinských
+    zbrojních kontraktů (Rajchl, 8. 11. 2026)'
+  text: Rajchl uvádí, že se potvrdilo vyšetřování NCOZ pro praní špinavých peněz v podnikatelské záložně,
+    kde měli vklady vysocí politici ODS. Vybírat se z ní podle něj měly miliony eur v hotovosti a nosit
+    „v brašně“ či „v igelitkách“. Přes záložnu se podle něj procesovaly „vratky“ ze zbrojních kontraktů.
+    Ukrajina prý poslala neznámé chorvatské firmě peníze za munici, ta ji nikdy nedodala, zmizelo asi
+    14 milionů eur a Ukrajina je nevymáhala. Rajchl spekuluje, že šlo o vratky lidem, kteří rozhodovali
+    o pomoci Ukrajině z českých daní. Protože to „mělo blízko k ODS“, „asi logicky víme, kteří ti lidé
+    by to měli být“. Kampelička podle něj nesmí zůstat opomenuta, stejně jako bitcoinová kauza a Dozimetr
+    (tam prý „udělali posun“). Pokud policie neuspěje, navrhne další vyšetřovací komise. Srovnej s Černohorským
+    v [politicky-system.md](politicky-system.md).
+  podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
+- id: rajchl-2026-11-08-04
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 'Střelba v Krakově: pachatel byl „levicový radikál“ jako David Kozák, ne pravicový extremista
+    (Rajchl, 8. 11. 2026)'
+  text: Rajchl kondoluje obětem střelby v Krakově a oceňuje oba zasahující policisty, kteří podle něj
+    s nasazením vlastního života zachránili mnoho dalších. Odmítá ale „mantru“ okruhu kolem Štítu demokracie
+    a „pana Mácy a spol.“, že šlo o pravicového radikála. S odkazem na „nezávislá média“ a Tomase Pauknera
+    tvrdí, že šlo naopak o levicového radikála s podobným zázemím i pohnutkami jako střelec z FF UK David
+    Kozák. Pachatel byl podle něj „jednoznačně produktem“ nesnášenlivé rétoriky „probruselských, progendrových,
+    proklimatických“ aktivistů. Na rozdíl od Vrabela (viz výše) nezpochybňuje průběh útoku, ale jeho politické
+    zařazení.
+  citace:
+  - text: Takže hanba vám, že jste schopní i na pozadí této tragédie takhle neuvěřitelně lhát.
+  podtema: Náboženský a okultní výklad moci
+- id: rajchl-2026-11-08-05
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Stížnost k Radě ČT na Jana Moláčka za „kukaččí mládě“; ČT zrušit, „ani korunu“ (Rajchl, 22.
+    10. 2026)
+  text: '**8. 11.** — Rajchl vysvětluje, proč se s Janou Zwyrtek Hamplovou nezúčastnil demonstrace spolku
+    Svatopluk. Měl prý informace o chystané provokaci vůči poslancům a téma podle něj nepatří „do ulic“,
+    ale do parlamentu. Koalice má podle něj mandát „3 milionů hlasů“, většinu ve Sněmovně a podporu „přes
+    60 %“ lidí, takže poplatky „zrušíme a tečka“ („projedeme to jak vlak“), i kdyby na Letné bylo 200
+    tisíc lidí. Bere si příklad z Fialova výroku, že nebude jednat pod tlakem demonstrací. Zrušení poplatků
+    označuje za „technickou věc“: 8,5 miliardy bez kontroly, 41 tisíc exekucí za tři roky, 17 z 27 zemí
+    EU platí veřejnoprávní média z rozpočtu, Polsko a Slovinsko se chystají, Nizozemsko škrtá 150 mil.
+    eur. S Filipem Turkem souhlasí, že ideální by bylo ČT zprivatizovat, jak se to podle něj chystá i
+    v Izraeli. Stávku zaměstnanců ČT považuje za nelegitimní: smějí stávkovat za platy a pracovní podmínky,
+    ne kvůli financování instituce, a „nejsou žádní strážci demokracie“. ČT podle něj musí vysílat podle
+    „eurohodnotového“ kodexu Bruselu a je méně vyvážená než Prima a Nova. Odmítá prý platit „speciální
+    daň na propagandu“ ve prospěch EU a Kyjeva.'
+  citace:
+  - text: Já nehodlám jednat pod tlakem, já hodlám co nejdříve zrušit koncesionářské poplatky.
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-11-08-06
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Mediální lynč vs. selektivní ticho
+  text: |-
+    **8. 11.** — Před odvysíláním reportáže Newsroomu ČT Rajchl znovu předčítá svůj příspěvek o Stárkové (Aspen, ocenění z roku 2025, „Sorošem vycvičená a Sorošem do naší země dosazená pastýřka všech zmanipulovaných oveček“). Trvá na tom, že „ani jedno slovo není lež“, že nezveřejnil adresu a k nadávkám nevyzýval. Výčet výroků, u kterých ČT „nebyla“, rozšiřuje o tyto:
+    - Foltýnovo „svině“, „svoloč“ Evy Decroix, Farského „vlastizrádce“ a Moravcovo „nácek“;
+    - Forum24 („temná tvář proruské kolaborace“), Reflex („mazlíček Kremlu“) a „proruská sebranka“ Danuše Nerudové;
+    - vulgární reakce Davida Matáska v den atentátu na Fica a komentáře typu „škoda, že nemířil lépe“ či „konečně to někoho napadlo střílet“. Policie jeho trestní oznámení odložila jako svobodu projevu podle čl. 17 Listiny;
+    - SMS „smrt českým podlidem“, kterou policii předal i s telefonním číslem, zůstala podle něj bez odezvy.
+
+    Komentář „na každou svini se vaří voda“ pod jeho příspěvkem přitom policie po upozornění Pirátů („bonzáci největšího kalibru“) prověřuje hned druhý den. Sám tento výrok odsuzuje, ale buď má být trestný v obou případech, nebo v žádném, a podle něj v žádném. Proto jeho asistenti nabízejí stíhaným komentujícím právní radu. Předem tvrdí, že reportáž bude „zmanipulovaná“ a redaktoři jsou „zbabělci“ a „lháři“.
+  podtema: Dvojí metr v médiích
+- id: rajchl-2026-11-08-07
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'NCOZ studie: organizovaný zločin v ČR ovládli Ukrajinci — Rajchl (5. 5. 2026)'
+  text: '**8. 11.** — Rajchl tvrdí, že ukrajinská tajná služba přebírá informace od rakouské tajné služby
+    a předává je „vlastní mafii“. Ta pak přes podvodná call centra okrádá Rakušany, Čechy, Slováky, Američany
+    i Němce, takže se z českých daní podle něj nepřímo financuje okrádání českých důchodců. Zelenskyj
+    podle něj pomoc „rozkrádá“, EU Ukrajině půjčila 90 miliard a ta teď chce dalších 70. Ukrajinu nazývá
+    „zločinným, kriminálním režimem“ (zmiňuje i odhalený dům, kde se mučili vlastní občané). Kritikům
+    startu ruských hokejistů vyčítá, že nekřičí, že Ukrajině „už nedáme ani korunu“.'
+- id: rajchl-2026-11-08-08
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: 'Pavel jako vyjednavač EU s Ruskem: „bezcharakterní korouhvička“ (Rajchl, 25. 10. 2026)'
+  text: '**8. 11.** — Rajchl se k obratu vrací. Pavel podle něj před dvěma lety tvrdil, že s Ruskem lze
+    jednat až poté, co ustoupí. Rusko mezitím naopak postoupilo a Pavel dnes navrhuje „dát Putinovi bonbon“
+    v podobě obnovení hospodářských vztahů. Kdyby totéž řekl Rajchl, který to tvrdí čtyři roky, opozice
+    by ho prý označila za ruského agenta a vlastizrádce. Pavel to podle něj říká jen proto, že „mu dorazily
+    nové notičky“. Připomíná také výrok Jana Farského, že o ruském plynu a ropě „může uvažovat jen vlastizrádce“.
+    Dnes o nich podle Rajchla uvažuje i Pavel.'
+  citace:
+  - text: A Petr Pavel to říká jenom, protože mu dorazily nové notičky, protože před dvěma lety říkal
+      úplně o 180 stupňů něco jiného.
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: rajchl-2026-11-08-09
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Macinkův výrok o „ruských mužatkách“ je „extrémně nešťastný“; „věk ani pohlaví není zásluha“
+    (Rajchl, 8. 11. 2026)
+  text: 'Rajchl se veřejně vymezuje vůči výroku Petra Macinky (Motoristé), že se mistrovství juniorek
+    obejde bez „ruských mužatek“. Macinku přitom považuje za kamaráda a přínos pro politiku. Nazývat ženy
+    hrající hokej či fotbal mužatkami podle něj není férové a je to urážlivé. Sportovkyně jsou podle něj
+    „ty nejkrásnější ženy“ (připomíná, že jeho manželka hrála první volejbalovou ligu). Druhou výhradu
+    má k samotnému výpadu proti ruskému týmu (viz [valka-nato-rusko.md](valka-nato-rusko.md)). Trvá na
+    zásadě, že „věk ani pohlaví není zásluha“: kritika má být faktická a smí mířit na kohokoli. Dnes prý
+    bez obvinění z „odporného útoku“ lze kritizovat jen muže nad 40 let z „národně konzervativní scény“.
+    Odmítá tvrzení Matěje Hlavatého, že útočí jen na ženy: kritizuje i jeho (obec Tetín podle něj zachránila
+    před bankrotem jen předčasná dotace a úvěr kraje). Hlavatý se s ním podle něj bojí jít do debaty,
+    protože by z něj „za dvě minuty“ udělal „úplného pitomce“.'
+  citace:
+  - text: Věk ani pohlaví není zásluha.
+  podtema: Politická kultura
+- id: rajchl-2026-11-08-10
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 17. listopad „ukradli“ pravdoláskaři — svátek plurality názorů proměnili ve svůj „vítězný únor“
+    (Rajchl, 8. 11. 2026)
+  text: Demonstrace k 17. listopadu bere Rajchl „naprosto v klidu“, asi pojede na dovolenou a napíše nebo
+    natočí komentář o tom, jak byl svátek „ukraden a zcizen“. Listopad 1989 podle něj oslavoval pluralitu
+    názorů a demokracii, „pravdoláskaři“ si z něj ale udělali „svůj vítězný únor“ a šíří „jednu jedinou
+    možnou pravdu“. Pád režimu byl podle něj správný. Chybou bylo, že se pak za slib rychlého zbohatnutí
+    rozprodalo „rodinné stříbro“. Slavit nebude, dokud se na Národní třídě bude pískat na Babiše a Turka
+    a tleskat „bolševickému rozvědčíkovi“ (Petru Pavlovi). Kdo píská, podle něj zrazuje odkaz svátku,
+    který byl o toleranci všech názorů. Výročí 17. listopadu 1939 uznává.
+  citace:
+  - text: Jak ze svátku, který v podstatě oslavoval pluralitu názorů a demokracii, si ti pravdoláskaři
+      udělali svůj vítězný únor.
+  podtema: Politická kultura
+- id: rajchl-2026-11-08-11
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Merz z BlackRocku plní „zadání“; Evropa neporazí „tříocasou příšeru“ migrace, Green Dealu a
+    proválečného fanatismu (Rajchl, 4. 11. 2026)
+  text: '**8. 11.** — Rajchl mluví o „dvouhlavé sani“ migrace a Green Dealu a podepisuje se pod výrok
+    Jarosława Kaczyńského: buď zrušit Evropskou komisi v čele s von der Leyenovou, nebo z EU vystoupit.
+    Hned odcházet nechce, protože na to ČR sama nemá a musí spolupracovat s Polskem a Slovenskem. Nejdřív
+    je podle něj třeba zkusit změnu směrem ke „spolupráci suverénních států“. Pokud se nepodaří, je podle
+    něj rozumnější odejít než zůstat na „špatné trajektorii“, která „vede do pekla“. Hlavní brzdou je
+    podle něj „bruselské centrum moci“, které vymýšlí „jednu idiotskou agendu za druhou“. Energetické
+    argumenty viz [ceny-energie.md](ceny-energie.md#plyn-12x-green-deal-rajchl-8-11-2026).'
+  citace:
+  - text: Já se podepisuju pod výrok Jaroslava Kačinského, buď zrušíme Evropskou komisi v čele s von der
+      Lejenovou, nebo pojďme vystoupit z Evropské unie.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: rajchl-2026-11-08-12
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Bezpečnost zajišťují policisté, hasiči a vojáci víc než tanky a F-35 — peníze investovat do
+    lidí (Rajchl, 8. 11. 2026)
+  text: Na příkladu policistů zraněných při zásahu v Krakově Rajchl děkuje českým policistům, hasičům
+    a vojákům. Tvrdí, že bezpečnost zajišťují „stokrát více a důsledněji“ než zbraně, tanky a F-35 nakupované
+    za obrovské peníze. Kdyby se tyto prostředky investovaly do lidí, aby byli dobře vybavení, zabezpečení
+    a spokojení, prospělo by to bezpečnosti podle něj „mnohonásobně“ víc než „všechny zbraně a všechna
+    železa dohromady“.
+  citace:
+  - text: …myslím si, že ji zajišťují stokrát více a důsledněji než nějaké zbraně, než nějaké tanky nebo
+      F-35, které kupujeme za obrovské peníze.
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: rajchl-2026-11-08-13
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Návrat ruské reprezentace na MS v hokeji: „politika do sportu nepatří“, kritici jsou „pokrytci
+    a farizejové“ (Rajchl, 30. 10. 2026)'
+  text: '**8. 11.** — Rajchl opakuje, že start ruských týmů na válce „nezmění vůbec nic“ a kvůli němu
+    nezemře „ani o jednoho člověka víc“. Nově uvádí, že na fotbalovém MS v USA hrály USA i Írán, přestože
+    si v té době vyměňovaly rakety. Krev na rukou mají podle něj „ideologičtí fanatici“, kteří 4,5 roku
+    „posílají Ukrajince na smrt“, přestože válka je dávno prohraná. Doplňuje právní argument: pokud by
+    ČR nezajistila ruskému týmu start na mistrovství juniorek, hrozí jí finanční sankce i penalizace nebo
+    vyloučení vlastního týmu. Kritiku výroku Petra Macinky o „mužatkách“ viz [politicky-system.md](politicky-system.md#macinka-muzatky-rajchl-8-11-2026).'
+  podtema: Zahraniční aktéři a precedenty

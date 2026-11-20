@@ -7,3 +7,58 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1054683694216927
   prepis: prepisy/done/2026-08-19_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-08-19-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: 'Letní energetická krize 2026: sucho omezuje jádro a vodní zdroje, uhlí se vrací (Vrabel, 19.
+    8. 2026)'
+  text: 'Vrabel komentuje zprávu, že letošní léto zvýraznilo problémy evropské energetiky: extrémní sucho
+    snižuje výkon vodních elektráren a komplikuje chlazení jaderných bloků, zatímco plynové elektrárny
+    čelí vyšším cenám a narušeným dodávkám LNG kvůli konfliktu na Blízkém východě — uhelné elektrárny
+    tak nečekaně nabývají na významu. Vidí v tom potvrzení své opakované teze: problém není nedostatek
+    plynu obecně, ale to, že jsme se odstřihli od levného ruského plynu a „diverzifikovali" ho koncentrací
+    do jediného náhradního zdroje (LNG), který je teď sám ohrožen válkou — tedy podle něj ne skutečná
+    diverzifikace rizika, ale jeho přesunutí na jedno místo. Odhaduje, že přímý nákup ruského plynu by
+    byl čtyřikrát levnější.'
+  podtema: Energetika a Rusko
+- id: vrabel-2026-08-19-02
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Zasypané a zatopené uhelné doly — kritika Babišovy vlády (Vrabel, 19. 8. 2026)
+  text: V návaznosti na návrat k uhelným elektrárnám (viz výše) Vrabel poukazuje, že české uhelné doly
+    byly zasypány kamenem a zatopeny vodou, takže těžbu nelze snadno obnovit — na rozdíl od Polska, které
+    si své doly „nezasypalo". Sarkasticky navrhuje, aby policie nebo státní zástupce vyšetřili, kdo rozhodl
+    o zasypání dolů za Babišovy vlády, když teď země musí uhlí dovážet (např. z Ukrajiny).
+  podtema: Energetika a Rusko
+- id: vrabel-2026-08-19-03
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Vietnam deaktivoval 86 milionů bankovních účtů bez digitální identity — vstupní bod k dystopii
+    kontroly (Vrabel, 19. 8. 2026)
+  text: Vietnam v rámci zpřísnění digitální identifikace deaktivoval nebo omezil přes 86 milionů bankovních
+    účtů, které byly neaktivní, duplicitní nebo biometricky neověřené — v souvislosti s vládním programem
+    digitalizace a propojením bank s národní databází obyvatel. Vrabel zdůrazňuje, že peníze majitelům
+    zůstávají (nejde o zabavení), ale skutečným cílem je donutit každého mít digitální identitu propojenou
+    s telefonem — snadno sledovatelným zařízením, které umožňuje státu vědět, kde kdo je, s kým a co dělá.
+    Popisuje to jako základní stavební kámen dystopického státu, kde jsou lidé neustále sledováni a poslouchání,
+    s odkazem na Čínu (kamerové rozpoznávání obličeje v tramvajích, metru, obchodech) a na vlastní zkušenost
+    s policejní identifikací demonstrantů podle fotografií z Václaváku 2023 — v budoucnu už identifikaci
+    obstarají kamery samy.
+  citace:
+  - text: Za chvilku už to nebude potřeba, protože ty kamery okamžitě budou mít jméno každého, kdo je.
+- id: vrabel-2026-08-19-04
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'KLDR popírá vyslání 50 000 dalších vojáků do Ruska — Vrabel: vyvrací „štvaní" Zelenského (19.
+    8. 2026)'
+  text: Místopředsedkyně Komise pro státní záležitosti KLDR odmítla tvrzení Volodymyra Zelenského, že
+    Severní Korea plánuje vyslat do Ruska až 50 000 dalších vojáků — označila ho za nepodložené a za „zinscenovaný
+    incident" (Severní Korea dříve poskytla Rusku vojenskou pomoc; podle odhadů tam v roce 2024 vyslala
+    kolem 14 000 vojáků). Vrabel toto popření prezentuje jako vyvrácení dalšího „štvaní" Zelenského proti
+    Rusku.
+  podtema: Stav Ukrajiny a mobilizace

@@ -7,3 +7,42 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1378481577749298&_rdr
   prepis: prepisy/done/2026-08-29_Československo-TV2_Videoportál.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-08-29-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko,
+    7. 8. 2026)
+  text: '**29. 8.** — Zítko rozšiřuje teorii o dalších nesrovnalostech: Čermák prý nereaguje na dopisy
+    s otázkami, na které mohli znát odpověď jen oni dva, návštěva u něj ve věznici v Liberci není možná
+    a v televizním vysílání o něm byl místo něj údajně pouštěn jen „hologram". Z toho usuzuje, že Čermák
+    možná není reálně ve výkonu trestu.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-08-29-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Facebook „dorovnává" falešný klon kanálu a manipuluje čísla sledujících — Zítko (21. 6. 2026)
+  text: '**29. 8.** — Zítko dokládá rozdíl mezi originálem a klonem novými čísly: originální profil „Pavel
+    Zítko" má 2800 sledujících a 2900 příspěvků, zatímco padělaný kanál se stejným jménem a fotkou jen
+    368 sledujících a 88 příspěvků. Dále upozorňuje na nesrovnalost ve statistikách sdílení — dopolední
+    vysílání (11:11) mělo za 24 hodin 303 sdílení, zatímco večerní vysílání ve „výhodnějším" čase (20:30
+    ve všední den) jen 23 sdílení — což považuje za další důkaz, že Facebook čísla u jeho vysílání účelově
+    potlačuje.'
+  podtema: ČT poplatky a omezování na sociálních sítích
+- id: zitko-2026-08-29-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Vlastní „Cena za svobodu projevu" a kritika oficiálních nominací (Zítko, 8. 7. 2026)
+  text: '**29. 8.** — Zítko se vrací k porotkyni Martině Kocijánové (Rádio Universum), která 10. 7. na
+    svém Facebooku vyzvala sledující, aby jí poradili nominanty na cenu — mezi 23 komentáři šla podle
+    Zítka jednoznačně nejčastěji jména Pavel Zítko a Tomáš Čermák (a dále např. Sonja Peková, Jana Peterková,
+    Iveta Křížová). Kocijánová následně na svém profilu zveřejnila vlastní pětici nominovaných — Petr
+    Robejšek, Petr Bohuš, Jan Šnajder, Petr Žantovský a Ladislav Jakl — přičemž ani jedno z jmen navrhovaných
+    diváky se v její volbě neobjevilo. Zítko to prezentuje jako důkaz, že veřejná výzva o názor byla jen
+    „divadlo pro lidi"; cituje i komentáře diváků (Zuzka, Libuška Žohová) pod jejím příspěvkem s touto
+    výtkou. Zmiňuje také, že žádný z šesti dosavadních porotců nenominoval nikoho z pronásledovaných kritiků
+    covidu.'
+  podtema: Politická perzekuce

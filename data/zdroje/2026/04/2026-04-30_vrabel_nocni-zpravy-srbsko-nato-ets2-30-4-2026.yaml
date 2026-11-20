@@ -14,3 +14,47 @@ zdroj:
     tvoří společné námořní síly; ETS2 — všichni čeští europoslanci hlasovali pro Nerudové amendment; EU
     nemá přehled o zásobách pohonných hmot; Peskov o Zelenském; Trump-Putin telefonát — nabízel příměří
     9. května.'
+vyroky:
+- id: vrabel-2026-04-30-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: EU nemá přehled o zásobách pohonných hmot v Evropě — Vrabel (30. 4. 2026)
+  text: |-
+    Vrabel ve vysílání 30. dubna 2026 upozorňuje na paradox: EU přijímá závazky o energetické bezpečnosti, ale v praxi nemá centralizovaný přehled o zásobách pohonných hmot v členských státech. To se projevilo zejména v kontextu Hormuzské krize — nikdo nedokáže říct, kolik přesně pohonných hmot mají jednotlivé země v zásobách a jak dlouho vydrží.
+
+    Vrabel tuto situaci hodnotí jako systémový selhání: EU reguluje drobnosti (emise CO₂ z aut, obsah cukru v nápojích), ale základní energetická bezpečnostní data nejsou centrálně sledována.
+  podtema: Hormuzský průliv a energetická krize
+- id: vrabel-2026-04-30-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'ETS2: všichni čeští europoslanci hlasovali pro Nerudové amendment — Vrabel (30. 4. 2026)'
+  text: |-
+    Vrabel ve vysílání 30. dubna 2026 referuje o hlasování v Europarlamentu o ETS2 (systém emisního obchodování rozšířený na dopravu a budovy). Nerudová prosadila pozměňovací návrh — a hlasování odhalilo, že pro něj hlasovali **všichni čeští europoslanec**, včetně opozice (PRO, SPD). Vrabel: „To je poprvé, co jsem viděl, že Češi hlasují jednotně." Zhodnotí to jako ukázku, jak ETS2 poškozuje české zájmy natolik, že přehlušilo stranické linie.
+
+    ETS2 zavádí ceny za emise CO₂ pro dopravu a topení — to se promítne do cen pohonných hmot a tepla pro domácnosti.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-04-30-03
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'Militarizace Evropy: UK + 9 zemí tvoří společné námořní síly, Polsko plánuje armádu 500 000
+    (Vrabel, 30. 4. 2026)'
+  text: |-
+    Vrabel ve vysílání 30. dubna 2026 referuje o dvou zásadních vojenských rozhodnutích:
+
+    **Polsko:** Vláda schválila plán na vybudování armády o 500 000 vojácích do roku 2039. Vrabel uvádí, že Polsko má nejvyšší výdaje na obranu v poměru k HDP ze všech zemí NATO. Hodnotí to jako reakci na skutečné bezpečnostní obavy, ale i jako přípravu na regionální velmocenskou roli.
+
+    **Britská koalice:** Velká Británie + 9 zemí (Dánsko, Finsko, Island, Norsko, Švédsko, Nizozemsko, Estonsko, Lotyšsko, Litva) vytvářejí společné námořní síly zaměřené primárně na ochranu proti Rusku v Baltském a Severním moři. Vrabel to komentuje jako postupnou fragmentaci NATO na menší vojenské koalice, což oslabuje soudržnost Aliance.
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-04-30-04
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Okamura v Srbsku: podpora integrace EU — Vrabel nesouhlasí (30. 4. 2026)'
+  text: |-
+    Vrabel ve vysílání 30. dubna 2026 komentuje návštěvu Tomia Okamury v Srbsku, kde vyjadřoval podporu srbské integraci do EU. Vrabel to označuje za protichůdné signály: Okamura v ČR odmítá EU jako přílišné zasahování do suverenity, ale v zahraničí ji doporučuje Srbsku. Vrabel zastává opačnou pozici — EU podle něj postupně ničí národní státy a Srbsko by se mělo tomuto vývoji bránit. Vučić je dle Vrabela pragmatický: hraje kartu EU, pokud mu to přináší výhody.
+
+    EU mezitím zastavila platby z eurofondů Srbsku kvůli nevyhovujícímu soudnictví — Vrabel to vnímá jako typický tlakový mechanismus: buď přijmete pravidla, nebo přijdete o peníze. Srbsko si tak zachovává dvě tváře: plyn od Ruska + peníze z EU.
+  podtema: Zahraniční aktéři a precedenty

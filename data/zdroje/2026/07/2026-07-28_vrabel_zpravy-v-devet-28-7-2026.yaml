@@ -27,3 +27,132 @@ zdroj:
     + 2–3 roky války/5–10 let obnovy — [predikce.md](predikce.md). Stoch. teror: glosa o „opálených" německých
     vojácích nesplňuje kritéria (chybí konkrétní pojmenovaný cíl i výzva k násilí/trestu — jde o xenofobní
     vtip, ne o výzvu k trestu).'
+vyroky:
+- id: vrabel-2026-07-28-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: 'Írán: „memorandum" podepsáno (14. 6.), Hormuz otevřen 19. 6., Netanjahu nespokojen — Vrabel
+    (15. 6. 2026)'
+  text: '**28. 7.** — K novému setkání Netanjahua s Trumpem o íránském jaderném programu Vrabel opakuje
+    svou skepsi: „stejný příběh 20 let" — srovnává opakovaná tvrzení o íránských jaderných zbraních s
+    dřívějšími nepotvrzenými obviněními vůči Saddámu Husajnovi a Muammaru Kaddáfímu, které následně posloužily
+    jako záminka k invazi/intervenci — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)'
+  podtema: Hormuz — aktualizace 6. 5. 2026
+- id: vrabel-2026-07-28-02
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Húsíové zaútočili na tankery v Báb al-Mandabu; ropa nad 100 $ poprvé od května (Vrabel, 23.
+    7. 2026)
+  text: '**28. 7.** — Německé námořnictvo stáhlo dvě lodě z oblasti Adenského zálivu/Rudého moře do východního
+    Středomoří — oficiálním důvodem jsou bezpečnostní a technické problémy (mj. s chlazením). Vrabel k
+    tomu připojuje rasově motivovanou glosu o „opálených" německých vojácích a spojuje zprávu se svou
+    dlouhodobou kritikou migračního paktu (viz [migrace.md](migrace.md)).'
+  podtema: Hormuz — aktualizace 6. 5. 2026
+- id: vrabel-2026-07-28-03
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: 'Křetínského EPH poprvé ve Fortune Global 500 — Vrabel: profit z vysokých cen elektřiny v ČR
+    (28. 7. 2026)'
+  text: Vrabel komentuje zprávu, že energetická skupina EPH (Energetický a průmyslový holding) miliardáře
+    Daniela Křetínského se poprvé zařadila do žebříčku Fortune Global 500 největších firem světa podle
+    tržeb. Vrabel to interpretuje jako přímý důkaz svého dlouhodobého tvrzení, že vysoké ceny elektřiny
+    pro české domácnosti a firmy nejsou nešťastnou náhodou, ale výsledkem obchodního modelu, na kterém
+    soukromí majitelé energetických firem (v tomto případě Křetínský) profitují.
+  podtema: Manipulace trhu s ropou
+- id: vrabel-2026-07-28-04
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Meta zavádí ověřování identity přes video-selfie (Vrabel, 28. 7. 2026)
+  text: Vrabel zmiňuje novou funkci sociální sítě Meta (Facebook/Instagram), která umožňuje ověřit identitu
+    uživatele prostřednictvím video-selfie — řadí ji ke svým dlouhodobě sledovaným tématům postupného
+    rozšiřování digitální identity a ověřování totožnosti v online prostoru.
+- id: vrabel-2026-07-28-05
+  typ: tvrzeni
+  temata:
+  - jaderne-zbrane
+  nadpis: Vrabel vyhlašuje zářijovou demonstraci proti jaderným zbraním v ČR — vysvětlení „jaderného deštníku"
+    (Vrabel, 12. 7. 2026)
+  text: '**28. 7.** — Vrabel opakuje tutéž tezi (Rafale/ASMP jako útočná, ne obranná zbraň) v souvislosti
+    s úvahami o umístění francouzského „jaderného zastřešení" na území ČR — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)'
+- id: vrabel-2026-07-28-06
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: EU odmítla zaregistrovat iniciativu Save Europe Act; migrační pakt jako nevyhnutelnost (Vrabel,
+    23. 7. 2026)
+  text: '**28. 7.** — Ke zprávě o stažení německých námořních lodí z oblasti Adenského zálivu (viz [blizky-vychod.md](blizky-vychod.md))
+    Vrabel s rasově motivovanou glosou o „opálených" německých vojácích dodává, že migrační pakt dál platí
+    a vláda proti němu nic neudělala — jen v prosinci vydala prohlášení, že jej „neberou". Predikuje,
+    že podobní vojáci „v maskáčích" budou brzy i v české armádě, protože i jiné země (USA, Rusko) nabírají
+    migranty do armády výměnou za občanství — [Zprávy v devět 28. 7.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-28-7-2026)'
+- id: vrabel-2026-07-28-07
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Trump usiluje o přísnější pravidla pro poštovní hlasování u Nejvyššího soudu (Vrabel, 28. 7.
+    2026)
+  text: Vrabel referuje o Trumpově snaze prosadit u amerického Nejvyššího soudu přísnější pravidla pro
+    poštovní hlasování — bez dalšího rozvedení vlastního hodnocení tuto zprávu zařazuje mezi širší přehled
+    dění.
+  dalsi_zdroje:
+  - 2026-07-19_rajchl_nedelni-vysilani-19-7-2026
+  podtema: USA — volební systém
+- id: vrabel-2026-07-28-08
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Firepoint testuje balistickou střelu s doletem na Moskvu; ruský útok na zbrojní výstavu u Kyjeva
+    (11 mrtvých); Zelenskyj–Trump v Bílém domě (Vrabel, 28. 7. 2026)
+  text: 'Ukrajinská zbrojařská firma Firepoint podle Vrabela testuje novou balistickou střelu s doletem
+    dosahujícím až na Moskvu. Souběžně ruský raketový (Iskander) útok zasáhl zbrojní výstavu nedaleko
+    Kyjeva — podle dostupných zpráv zemřelo 11 lidí. Zelenskyj se sešel s Trumpem v Bílém domě: hlavními
+    tématy byly systémy Patriot (licence) a kondolence k úmrtí Lindseyho Grahama; k důvodu cesty — zda
+    Trump nabídl nové návrhy na ukončení konfliktu — se však nic konkrétního nedozvěděli, což Vrabel připisuje
+    „vojenskému tajemství".'
+  podtema: Vyjednávání a mír
+- id: vrabel-2026-07-28-09
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'Ukrajina útočí na íránskou loď v Kaspickém moři; Irák obviňuje Ukrajinu ze sabotáží — Vrabel:
+    „šikovná Ukrajina" (28. 7. 2026)'
+  text: |-
+    Vrabel referuje o ukrajinském útoku na íránskou nákladní loď v Kaspickém moři a o vyjádření iráckého národního bezpečnostního poradce Qasima al-Aboudiho, který obvinil Ukrajinu ze zapojení do sabotážních operací v Iráku — malá skupina spolupracující s Kyjevem měla provést několik akcí, jejichž odpovědnost byla následně přenesena na místní odzbrojené skupiny; Irák podrobnosti ani důkazy nezveřejnil. Vrabel to komentuje sarkasticky — „malá, ale šikovná země": Ukrajina podle něj zvládá útočit na Moskvu i Petrohrad, vyhodit do povětří Nord Stream, sestřelit íránskou loď v Kaspickém moři i provádět teroristické útoky v Iráku, a přirovnává to k Zelenskému jako „malému čamrdovi", který dokázal „rozeserat celý svět".
+
+    **Krátká zpráva téhož dne** — v samostatném krátkém videu (zveřejněném před večerním vysíláním) Vrabel k témuž útoku na íránskou loď dodává širší rámování: dlouhodobě predikoval, že třetí světová válka pravděpodobněji vypukne v Íránu než na Ukrajině, a útok vnímá jako potenciální spouštěč propojení obou konfliktů (Rusko–Ukrajina a USA–Írán) do jednoho celosvětového střetu — zejména v kontextu souběžné schůzky Zelenského s Trumpem ve Washingtonu. Přirovnává útok k Gleiwickému incidentu z roku 1939 (německá provokace vydávaná za polský útok, použitá jako záminka k napadení Polska) — naznačuje, že podobně nenápadná událost může retrospektivně vyjít jako záměrně vyvolaný spouštěč širšího konfliktu. Íránský ministr zahraničí označil útok za porušení mezinárodního práva a pohrozil odvetou vůči všem zemím podporujícím Ukrajinu.
+  dalsi_zdroje:
+  - 2026-07-28_vrabel_facebook-live-2-28-7-2026
+  podtema: Vyjednávání a mír
+- id: vrabel-2026-07-28-10
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Trump přejmenovává Pentagon na „Ministerstvo války"; ruská plovoucí platforma PLOT-47; požáry
+    ve Francii ohrožují leteckou základnu Cazaux (Vrabel, 28. 7. 2026)
+  text: Vrabel schvaluje Trumpovo rozhodnutí přejmenovat americké ministerstvo obrany (Pentagon) na „Ministerstvo
+    války" — považuje to za upřímnější označení skutečné funkce úřadu než zavádějící název „obrana". Dále
+    referuje o nové ruské zbraňové technologii — plovoucí protivzdušné platformě PLOT-47, určené k rozšíření
+    obranného perimetru na moři. Samostatně zmiňuje rozsáhlé požáry v jihozápadní Francii (oblast Gironde),
+    které ohrožují infrastrukturu spojenou s francouzským obranným a leteckým průmyslem, konkrétně leteckou
+    základnu Cazaux.
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-07-28-11
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: „Kde se to zastaví?" — válka skončí jen totálním vítězstvím jedné strany; NATO vs. Rusko, ne
+    Ukrajina vs. Rusko (Vrabel, 28. 7. 2026)
+  text: 'Na dotaz sledujícího „kde se to všechno zastaví" Vrabel odpovídá rozsáhlým monologem: konflikt
+    podle něj nelze chápat jako válku Ukrajiny s Ruskem, ale jako válku NATO s Ruskem, v níž je Ukrajina
+    jen bojovým polem — proto skončí až totálním vítězstvím jedné ze stran, ne kompromisním vyjednáváním.
+    Připomíná krach plánu „3+2" z aljašského summitu v Anchorage (viz [výše](#lavrov-spirit-of-anchorage-jako-možné-získání-času-příprava-útoku-na-kyjev-bělorusko-vrabel-23-6-2026))
+    jako důkaz, že vyjednávací cesta je momentálně mrtvá. Zmiňuje francouzské „jaderné zastřešení" (letouny
+    Rafale s raketami ASMP), o kterém uvažuje ČR — připomíná svůj dřívější výklad, že jde o útočnou, nikoli
+    obrannou zbraň (viz [jaderne-zbrane.md](jaderne-zbrane.md)). Sám na základě této úvahy staví útočiště
+    v Srbsku („zachraň se, kdo můžeš") a předpovídá 2–3 roky pokračování války a následně 5–10 let poválečné
+    obnovy, než se poměry v Evropě vrátí k normálu.'
+  podtema: Eskalace a hrozba rozšíření konfliktu

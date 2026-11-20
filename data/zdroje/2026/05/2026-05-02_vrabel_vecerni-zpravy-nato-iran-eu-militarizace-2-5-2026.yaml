@@ -16,3 +16,64 @@ zdroj:
     25% cla na EU auta; Německo modernizuje Bremerhaven (1,35 mld EUR, vojenská logistika); EU ADDV —
     kamera v autech pro sledování řidiče od července 2026; 6G síť jako planetární sledovací organismus
     (AI real-time tracking); Kuwait zastavil vývoz ropy.'
+vyroky:
+- id: vrabel-2026-05-02-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Průtok ropy Hormuzem klesl z 20 na 4 miliony barelů denně — Vrabel (2. 5. 2026)
+  text: |-
+    Vrabel ve vysílání z 2. 5. 2026 referuje o dubnové zprávě Mezinárodní energetické agentury (IEA): objem ropy přepravované přes Hormuzský průliv klesl z více než 20 milionů barelů denně na méně než 4 miliony barelů. Kuwait Petroleum Corporation (běžně 1,9 M b/d) prakticky zastavila vývoz — zásoby skladuje nebo přesměrovává do domácích rafinerií. Saúdská Arábie část exportu přesměrovala přes Rudé moře, SAE přes ropovod do Fudžajry.
+
+    Írán veřejně prohlásil kontrolu nad průlivem za „přirozené a legitimní právo" pobřežního státu; OSN vyzval k respektování svobody plavby.
+
+    Vedle toho iránské drony v březnu 2026 zasáhly datová centra Amazon Web Services v SAE — AWS přiznal, že obnova potrvá měsíce. Vrabel propojuje energetickou krizi s hrozící potravinovou krizí: zavřený průliv → výpadek fosilních paliv → nedostatek amoniaku/močoviny → snížení výnosu hnojiv → zdražení a nedostatek potravin. Doporučuje zásoby potravin a hotovost mimo banky.
+  podtema: Hormuzský průliv a energetická krize
+- id: vrabel-2026-05-02-02
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Síť 6G jako planetární sledovací organismus — Vrabel (2. 5. 2026)
+  text: |-
+    Vrabel ve večerním vysílání (2. 5. 2026) popisuje, jak bude fungovat technologie 6G, která by měla nahradit 5G a Wi-Fi sítě od roku 2030. Podle jeho výkladu nejde jen o rychlejší internet, ale o kvalitativně odlišný systém s dopady na sledování obyvatelstva:
+
+    - **Laser místo všesměrového pokrytí**: 6G signál funguje jako zaměřovaný paprsek; neprostoupí zdí ani vodou, proto vyžaduje hustou síť odrazových ploch (dopravní zrcadla, značky, povrchy).
+    - **Síť jako umělý organismus**: Celá síť bude řídit sama sebe v reálném čase prostřednictvím AI — vyhodnocuje pohyb, trasy, odchylky od zvyklostí; ví, kde kdo obvykle chodí, a automaticky zaznamenává odchylky.
+    - **Sledování bez telefonu**: Díky tomu, že signál se odráží od všech povrchů, lze triangulací zachytit fyzickou přítomnost osob i bez mobilního zařízení — podobně jako netopýr používající echolokaci. Tlačítkový telefon „nepomůže."
+    - **Napojení na digitální identitu**: Síť bude propojena s digitálními průkazy uživatelů a odesílat data o pohybu v reálném čase.
+
+    Vrabel uvádí, že jedinou cestou jak se tomuto systému vyhnout je přebývat tam, kde nebude ekonomicky výhodné 6G infrastrukturu budovat — a plánuje proto vybudovat meditační centrum v horách „mimo dosah sítě."
+- id: vrabel-2026-05-02-03
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Babiš jmenoval Landovského vládním zmocněncem pro NATO — „třetí NATO člověk ve vládě" (Vrabel)
+  text: 'Vrabel (2. 5. 2026) komentuje jmenování Jakuba Landovského vládním zmocněncem pro Severoatlantickou
+    alianci. Landovský je bývalý náměstek ministra obrany, bývalý velvyslanec ČR při NATO a dřívější šéf
+    SPEN institutu (strategické bezpečnostní výzkumy). Vrabel říká, že mu „vyrazilo dech" — Babiš nyní
+    disponuje třemi osobami s přímou vazbou na NATO ve vrcholných funkcích: prezident Petr Pavel, ministr
+    obrany a nový vládní zmocněnec. Vrabel to hodnotí jako potvrzení svého dřívějšího varování, aby vlastenci
+    nevolili Babiše, protože spolupracuje s NATO a Evropskou unií.'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-05-02-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: USA požadují, aby Evropa převzala obranu a financování Ukrajiny — Kolby (Vrabel)
+  text: |-
+    Vrabel referuje (2. 5. 2026) o vystoupení Eldridge Kolbyho, náměstka amerického ministra obrany pro politiku, na zasedání kontaktní skupiny pro obranu Ukrajiny. Kolby v podstatě předal Evropě tři požadavky: (1) urychlit budování vlastních obranných kapacit, navyšovat výrobu munice a průmysl; (2) přejít k dlouhodobě udržitelnému modelu financování Ukrajiny (nynější pomoc šla z omezených amerických zásob); (3) zvýšit finanční příspěvky. USA zároveň stahují přibližně 5 000 vojáků z Německa (z nynějších 35 000) v horizontu 6–12 měsíců.
+
+    Vrabel interpretuje tato opatření jako záměrnou strategii: USA opouštějí Evropu, aby ji donutily se vojensky sjednotit a vybudovat vlastní armádu (vznik „Spojených Evropských států"), přičemž zároveň požadují, aby Evropa zajistila průtok plynu Hormuzským průlivem.
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-05-02-05
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Fico otočil: Slovensko podporuje vstup Ukrajiny do EU — Vrabel (2. 5. 2026)'
+  text: 'Vrabel komentuje zprávu o telefonátu Zelenský-Fico (2. 5. 2026): Fico veřejně potvrdil, že Slovensko
+    podporuje vstup Ukrajiny do EU a obě strany dojednávají osobní setkání. Vrabel to hodnotí jako „ránu
+    zprava i zleva" — a konstatuje, že se naplnil jeho dříve vyslovený předpoklad: se ztrátou Viktora
+    Orbána (po volebním průlomu Petera Magyara) zmizel z EU poslední hráč ochotný vstup Ukrajiny brzdit.
+    Jedinou relativní brzdou nyní zůstává Friedrich Merz, který odmítl „rychlé přistoupení" jako nerealistické
+    — ale ani on není kategorickým odpůrcem.'
+  podtema: Zahraniční aktéři a precedenty

@@ -9,3 +9,64 @@ zdroj:
   rezim: standard
   poznamka: Soubor nese datum stažení; vysíláno 2. 10. 2026. Velká část je předčítání cizích textů (Lička,
     Jílková, Avdičová, Wallace, Chambers).
+vyroky:
+- id: zitko-2026-10-02-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Zítko: „zachránili jsme tisíce životů"; Flegr „zrůdička" — „nezmlátil jsem ho, to udělá někdo
+    jinej"; Ivermectin místo chemoterapie (Zítko, 2. 10. 2026)'
+  text: Zítko tvrdí, že ČR byla „díky mé trošce" první ze 43 zemí v počtu lidí odrazených od očkování
+    a „zachránili jsme tisíce lidských životů"; porodnost podle něj klesla o 30 % jen u očkovaných žen.
+    Fauci a Gates jsou „zločinci číslo jedna" a covid mafie patří „před vojenský tribunál". Pouští svůj
+    klip s Jaroslavem Flegrem z ČT24 (2023), Flegra označuje za „zrůdičku", „příbuzného Brůny z povídky
+    Studna" a „spolupachatele masových vražd a genocidy národa" a dodává, že ho „nenapadl, nezmlátil —
+    to udělá někdo jinej", až lidé dají do souvislosti smrt blízkých s „injekcí" (viz [Stochastický teror](stochasticky-teror.md)).
+    Chemoterapie podle něj stojí 111 000 USD ročně při „2–3 % účinnosti", zatímco Ivermectin „pár tisíc
+    korun" — divákům nabízí jeho zprostředkování („napište mi do zprávy").
+  citace:
+  - text: Nenapadnul jsem ho, nezmlátil jsem ho, to udělá někdo jinej, až na to přijdou a dají si do souvislosti
+      to, že jejich dítě, že rodič, prarodič, přítel, známej zemřel kvůli injekci… tak to udělají jiní.
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-10-02-02
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Válečné reparace a výzva mocnostem obnovit ČSR (Zítko, 3. 6. 2026)
+  text: '**2. 10.** — Zítko ohlašuje, že na akci 10. 10. se vládě (podatelna ministerstva financí, „Alenka
+    Schillerová") podá „doplatek" ve výši 17,4 miliardy na jednoho Čechoslováka a 550 milionů eur na jednoho
+    Slováka; „faktury" ze sněmu v Soběšovicích (22. 3. 2025) prý stát „nerozporoval". Reparace od Německa
+    přepočítává na 29 bilionů Kč, tj. 9 500 tun zlata — „nemá na ně nárok Konečná ani Rajchl". Rozdělení
+    ČSFR je podle něj nulitní (zákon 542/1992 bez podpisu prezidenta, Stráský bez důvěry), tři poslanci
+    byli prý „zkorumpováni".'
+- id: zitko-2026-10-02-03
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „Vítězné mocnosti" Trump, Putin, bin Salmán a Módí rozhodnou o obnově Československa; volby
+    20 let falšovány (Zítko, 24. 9. 2026)
+  text: '**2. 10.** — Komunální a senátní volby označuje za „hru na volby" a vyzývá k bojkotu: kandidáti
+    jsou „dopředu vybraní", hlasy „počítá počítač" (firma vybraná bez výběrového řízení, Rakušan prý zaplatil
+    „asi milion pokutu"), Stalin prý řekl, že „nezáleží, kdo hází lístky, ale kdo počítá"; mezi Babišem
+    a Fialou se „skoro nic nezměnilo" a Rajchlovo „desatero" (odchod z WHO aj.) zůstalo nesplněné. O hranicích
+    včetně Československa podle něj rozhodnou „vítězné mocnosti" (Trump, Putin, Si Ťin-pching, Módí, „bílý
+    klobouk Orbán"), „ne Pávek, ne Fiala, ne Babiš" — „Rudá armáda už je velmi blízko Kyjeva" a „schyluje
+    se k bezpodmínečné kapitulaci" Ukrajiny.'
+  citace:
+  - text: Tam jinak než blbě nemůžete zvolit, protože ta banda těch idiotů, který jsou vám potom servírovaný
+      při hře na zlýho a hodnýho policajta, je dopředu vybraná.
+- id: zitko-2026-10-02-04
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Quantum Financial System a MedBeds
+  text: '**2. 10.** — Zítko předčítá texty (Vladimíra Avdičová, Christian B. Wallace, „Lion White", John
+    Michael Chambers) a přitakává: „Reset je ve finální fázi", aktivace EBS je „přede dveřmi" s úplným
+    výpadkem komunikace, QFS je „v provozu", zatýkají se elity a lidé budou vyzváni „diskrétně navštívit
+    kontaktní místo", kde jim předají informace o „kvantovém účtu"; „osvobozenecká dividenda" má činit
+    46 bilionů USD ročně. Trump podle předčítaného textu není politik, ale „vrchní velitel aliance" (potomek
+    generála Pattona), USA jsou „ve stavu tajné vojenské okupace" a Joe Biden byl „popraven, ještě než
+    nastoupil" (Si Ťin-pching to prý Trumpovi „vtipně" ukazoval automatickým perem). Zítko dodává, že
+    vojenské stanné právo bude soudit i covid zločince, obchod s dětmi a adrenochrom, a „v rámci vojenského
+    práva je i trest smrti — legitimní trest". Mluví o „Rudém říjnu", zároveň však prohlašuje, že průběh
+    „vojenské operace" zná „celosvětově deset lidí… mezi nimi nejsem já", a věštění „není jeho obor".'

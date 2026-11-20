@@ -10,3 +10,64 @@ zdroj:
   delka: '22:11'
   poznamka: 'Projev z konference V4 v Bratislavě — EU jako nové Rakousko-Uhersko, Green Deal, migrace
     (Southport), DSA a cenzura, V4 jako most. Zhlédnutí: 53 310'
+vyroky:
+- id: rajchl-2026-04-04-01
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: DSA použit k ovlivnění voleb v 8 zemích EU
+  text: Rajchl v bratislavském projevu (4. 4. 2026) cituje zprávu US House Judiciary Committee (výbor
+    pro spravedlnost amerického Kongresu), dle níž byl DSA použit k ovlivnění voleb v 8 zemích EU. Na
+    Slovensku byly dle tohoto výkladu cenzurovány konzervativní příspěvky — konkrétně tvrzení, že existují
+    pouze dvě pohlaví, nebo že manželství je svazkem jednoho muže a jedné ženy. Rajchl rovněž poukazuje
+    na Velkou Británii, kde tvrdí, že počet trestně stíhaných za svobodu slova je nyní vyšší než v Číně
+    nebo Rusku.
+  citace:
+  - text: Právě proto musí EU vymýšlet akty jako je DSA. Nařízení, jehož cílem není nic jiného, než umlčet
+      hlasy, které protestují proti současnému směřování bruselské politiky.
+  podtema: DSA — Digital Services Act
+- id: rajchl-2026-04-04-02
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Masová migrace jako bezpečnostní selhání druhé generace
+  text: 'Rajchl v Bratislavě uvádí Southport (Velká Británie) jako konkrétní varování V4: Axel Rudakubana
+    — potomek migrantů z Rwandy — vběhl do taneční třídy 24 dívek ve věku 6–11 let a začal je bodat; tři
+    zabity, ostatní s traumatem na celý život. Britská média ho označila za „rodilého Welshmana" a fakt
+    jeho migrantského původu potlačovala. Rajchl z toho vyvozuje: muslimští migranti ani ve druhé generaci
+    nepřejímají hodnoty hostitelské společnosti, a migrační pakt by tuto situaci přinesl i do V4.'
+  citace:
+  - text: V Hamburgu a ve Frankfurtu se za rok stane stejný počet násilných trestných činů jako v celém
+      Polsku. Proč? Protože Němci naprosto zásadně pochybili, když otevřeli brány masové migraci.
+- id: rajchl-2026-04-04-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: EU jako nové Rakousko-Uhersko — suverenita skrze legislativu, hranice a měnu
+  text: |-
+    V projevu na konferenci V4 v Bratislavě (4. 4. 2026) Rajchl srovnal EU s Rakousko-Uherskem: tehdy ani nyní nebylo možné skutečně utvářet vlastní legislativu. Definuje tři pilíře suverenity, které EU postupně oklešťuje:
+
+    1. **Legislativa** — 70 % zákonů jsou transpozice EU norem; „Jsme ještě suverénní, když si utváříme legislativu, kde 70 % jsou jen transpozice?"
+    2. **Hranice** — migrační pakt by je smazal definitivně; Němci otvřeli brány a jejich sociálně-inženýrský projekt selhal, protože migranti nepřišli pracovat; ČR nesmí platit za jejich chybu.
+    3. **Měna** — euro = předání měnové politiky ECB do Frankfurtu; jako řídit auto, ale bez přístupu k řadicí páce.
+
+    EU navíc vydírá vlastními penězi: státy pošlou daně do Bruselu a EU je „milostivě vrátí", pokud přijmou její legislativu. Odmítnutí veta Rajchl označuje za „hřebíček do rakve suverenity".
+  citace:
+  - text: Je to jejich problém. Když Angela Merkelová říkala wir schaffen das, nikdo se nás neptal na
+      náš názor. Proto také nemáme odpovědnost tuto chybu v tuto chvíli řešit.
+  - text: Suverenita má svou cenu. Nestojí nám za to tuto cenu zaplatit, abychom získali zpátky suverenitu,
+      prosperitu, bezpečnost a svobodu?
+  podtema: Česká suverenita
+- id: rajchl-2026-04-04-04
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Green Deal jako nástroj přesunu peněz ke spekulantům
+  text: 'Rajchl v Bratislavě rozebírá mechanismus emisních povolenek: byly záměrně koncipovány jako cenné
+    papíry (nikoliv jako daň s nastavitelnou sazbou), čímž umožňují vstup spekulativního kapitálu. Výsledek:
+    německé penzijní a investiční fondy, jež nakoupily povolenky za 10 EUR, je dnes prodávají za 70 EUR.
+    Z obchodu největší část neprofituje žádný klimatický fond, ale finanční spekulanti.'
+  citace:
+  - text: Ja se prostě dál okrádat tímto laciným způsobem nechci. Kdyby někdo skutečně chtěl investovat
+      do přírody, nikdy by nekoncipoval ty povolenky jako cenné papíry.
+  podtema: EU a Green Deal

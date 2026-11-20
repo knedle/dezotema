@@ -9,3 +9,14 @@ zdroj:
   rezim: standard
   delka: '5:03'
   poznamka: přepis v angličtině (sdílené zahraniční video)
+vyroky:
+- id: tarabova-2026-04-02-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Virologie jako pseudověda — viry nikdy nebyly izolovány (Tarabová)
+  text: |-
+    Lenka Tarabová sdílí video anglicky mluvícího hosta, který zastává radikální pozici: virologie jako obor je vědecky neopodstatněná. Viry podle tohoto výkladu nikdy nebyly izolovány z čistých vzorků — izolace probíhala vždy ze směsí tkání, takže výsledek nelze přisoudit konkrétnímu patogenu. Virové genomy jsou konstruovány in silico (počítačem), nikoli sekvenováním fyzicky izolovaného viru. Protilátky z testů jsou nespecifické a mohou reagovat s mnoha substancemi. Jako klíčový historický protiargument uvádí experimenty z roku 1918 prováděné americkým námořnictvem: 100 dobrovolníků bylo vystaveno sekretům nemocných se španělskou chřipkou — žádný z nich neonemocněl, čímž Kochovy postuláty nebyly splněny.
+
+    ⚡ **Konflikt:** Tato tvrzení jsou v přímém rozporu s vědeckým konsensem. SARS-CoV-2 i mnohé jiné viry byly izolovány, kultivovány a jejich genomy sekvenováním ověřeny nezávislými laboratořemi po celém světě.
+  podtema: Odmítání virologie jako vědy

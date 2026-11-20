@@ -7,3 +7,73 @@ zdroj:
   url: https://m.facebook.com/watch/?v=789843423778912
   prepis: prepisy/done/2026-03-27_Československo-TV2_Videoportál.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-03-27-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: COVID jako záměrně řízená událost — „plandémie"
+  text: Kanál Pavel Zítko označuje pandemii covidu-19 za záměrně „spuštěnou" operaci, nikoliv přirozeně
+    vzniklou epidemii. Virus se podle tohoto výkladu šířil zejména prostřednictvím televize — tj. mediální
+    propagandou strachu. Jako paradoxní „lék" je označována ruská invaze na Ukrajinu v roce 2022, která
+    covidové téma ze dne na den vytlačila z médií.
+  citace:
+  - text: Z toho covidu pan Vladimír Putin během pár dní vyléčil doslova celou planetu. Ta byla vykurírovaná,
+      takže se zjistilo, že se covid šířil zejména televizním vysíláním.
+  dalsi_zdroje:
+  - 2026-08-04_zitko_videoportal-4-8-2026-3
+  podtema: Původ a povaha pandemie
+- id: zitko-2026-03-27-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: SARS-CoV-2 nebyl nikdy izolován
+  text: |-
+    Mluvčí Pavel Zítko tvrdí, že virus SARS-CoV-2 „nikdy nebyl izolován", a z toho vyvozuje, že nemohl sám o sobě nikoho zabít. Smrt pacientů je tak podle tohoto výkladu přisuzena lékařskému protokolu (remdesivir, ventilátor), nikoli viru.
+
+    ⚡ **Konflikt:** Toto tvrzení je v přímém rozporu s vědeckým konsensem. SARS-CoV-2 byl izolován v laboratořích po celém světě.
+
+    Zítko k tvrzení dlouhodobě a opakovaně (téměř v každém vysílání) připojuje odkaz na německou odměnu 1,5 milionu euro pro toho, kdo virus SARS-CoV-2 prokazatelně izoluje — cenu dosud nikdo nevyzvedl. V rámci svého trestního stíhání u Okresního soudu v Chomutově (viz [DSA a cenzura — COVID rozsudky](dsa-cenzura.md)) tvrdí, že tuto odměnu nabídl jako „brigádu" napůl (750 tisíc euro) i údajnému státnímu zástupci **Davidu Wernerovi**, který proti němu vedl obžalobu za „šíření poplašné zprávy" — Werner podle Zítka důkaz izolace viru u soudu nikdy nepředložil, ačkoli důkazní břemeno mělo být na straně žaloby.
+  citace:
+  - text: SARS-CoV-2, který nikdy nebyl izolován, ho prostě zabít nemohl.
+  dalsi_zdroje:
+  - 2026-07-23_zitko_videoportal-facebook-blokace-kyberneticka-bezpecnost-23-7-20
+  podtema: Původ a povaha pandemie
+- id: zitko-2026-03-27-03
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Chybovost PCR testů až 86 %
+  text: Mluvčí Pavel Zítko označuje PCR testy za „neprůkazné věštění ze soplu" s chybovostí až 86 %. Tvrdí,
+    že falešně pozitivní výsledek mohl zdravého člověka dostat prostřednictvím covidového protokolu (remdesivir,
+    ventilátor) až ke smrti — tím vznikaly statistické „covidové oběti".
+  citace:
+  - text: Jinak zcela zdravý člověk s banální zlomeninou se mohl dostat cestou falešného PCR testu s chybovostí
+      až 86%, která vedla přes remdesivir a ventilátor, tak se mohl dostat až na Onen svět.
+  podtema: PCR testy
+- id: zitko-2026-03-27-04
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Jiné látky v šaržích než v testech
+  text: Mluvčí Pavel Zítko tvrdí, že v rámci více než 20 000 šarží byly lidem aplikovány zcela jiné látky,
+    než jaké prošly testováním. Vyzývá politiky, aby si nechali udělat krevní testy a prokázali, zda sami
+    skutečně podstoupili očkování.
+  citace:
+  - text: Zkoušeny úplně jiné látky, než potom píchali v rámci více jak 20 tisíc šarží do lidí.
+  podtema: Vakcíny
+- id: zitko-2026-03-27-05
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Covidová doba jako systém invertovaných pojmů
+  text: |-
+    Mluvčí Pavel Zítko popisuje covidovou éru jako období, v němž byly klíčové pojmy systematicky převraceny. Jde o rétoricky stylizovaný výčet paradoxů prezentovaný jako charakteristika „covidismu".
+
+    — Pavel Zítko, [Soběšovice 2026-03-27](_zdroje.md#pavel-zítko--soběšovice-pozvánka-27-3)
+  citace:
+  - text: Jed byl lék, šikana byla péče, vražda byla organizovaná péče.
+  - text: Strach byl doslova povinností. Klid byl nezodpovědností.
+  - text: Propaganda byla pravda. Pravda byla věcí názoru. Lež byla jediná pravda.
+  - text: Reálná skutečnost byla konspirační teorie.
+  podtema: Systém „covidismu" — obrácené hodnoty

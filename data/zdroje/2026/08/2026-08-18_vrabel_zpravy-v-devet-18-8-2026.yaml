@@ -7,3 +7,104 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1450775803772283
   prepis: prepisy/done/2026-08-18_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-08-18-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: 'Jádro: prodloužení Temelína a Dukovan, taxonomie a „zelený parlament" (Vrabel, 12. 6. 2026)'
+  text: '**18. 8.** — Vrabel se k tématu vrací se skeptickým komentářem ke zprávě, že ČR plánuje prodloužit
+    provoz reaktorů na 80 let pomocí moderních technologií (digitální modely, umělá inteligence, robotika,
+    3D tisk). Připomíná vlastní rozhovor s jaderným fyzikem: reaktory jsou konstruovány na 30 let, protože
+    materiál sarkofágu (beton, olovo) postupně křehne nárazy uvolněných částic ze štěpné reakce — dnešní
+    reaktory už slouží 39 let jen díky opakovanému každoročnímu prodlužování životnosti (SÚJB), protože
+    výstavba nových bloků od ruských dodavatelů není politicky průchodná a na americkou/francouzskou technologii
+    ČR čeká. Sarkasticky pochybuje, že by nová technologie (3D tisk) mohla reálně vyřešit fyzikální degradaci
+    materiálu a prodloužit životnost na 80 let. Dodává osobní historku z výcviku soukromého pilota u Temelína
+    — ochrannou zónu (ATZ, 5 km) kolem elektrárny označuje za nedostatečnou vzhledem k rychlosti, jakou
+    by případné malé letadlo mohlo proniknout dovnitř dřív, než by stihla zasáhnout vzdušná obrana.'
+  podtema: Energetika a Rusko
+- id: vrabel-2026-08-18-02
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Válka a covid jako mezikroky k dystopické společnosti a snížení populace (Vrabel, 18. 8. 2026)
+  text: 'Vrabel rozvíjí ucelenou teorii o skutečném účelu současných krizí. Popisuje už dnes fungující
+    masivní sledování (kamery na dálnicích snímající zařízení v autech, čipy v pneumatikách, kamery s
+    rozpoznáváním obličeje na ulicích, sledování telefonů) a stavbu obřích datových center s umělou inteligencí,
+    která z toho vytváří psychologický profil každého člověka — v kombinaci s novým zákonem chat control,
+    jenž má komunikaci vyhodnocovat ještě před odesláním. Přirovnává výsledný svět k syntéze Huxleyho
+    „Brave New World" a Orwellova „1984". Rámuje covid i válku na Ukrajině jako záměrné „mezikroky" téhož
+    plánu: covid vyvolal paniku, která lidi naučila bezpodmínečně poslouchat příkazy pod hrozbou smrti;
+    válka udržuje stejný mechanismus poslušnosti strachem z udání (zmiňuje vlastní zkušenost, že Jindřich
+    Rajchl shromažďoval materiály k trestním oznámením na účastníky demonstrací se symboly Z/Wagner, a
+    že člen jeho hnutí Robert Kutý je kvůli tomu dosud v podmínce). Cílem má být zachování a prohloubení
+    majetku úzké elity a zabránění vzpouře chudých — s příchodem robotizace a digitalizace předpokládá
+    nezaměstnanost přes 50 %, kterou stát nebude mít z čeho financovat sociálními dávkami. Doplňuje druhou,
+    související tezi: od roku 2000 vědci varují před nedostatkem zdrojů (půda, ropa, plyn, kovy) na počet
+    obyvatel planety, což podle něj otevírá prostor pro záměrné snižování populace — jako precedens uvádí
+    čínskou politiku jednoho dítěte a vraždění novorozených dívek. Doporučuje divákům praktickou přípravu
+    (vlastní zahrádka, záložní místo mimo město) pro případ hospodářského kolapsu státu.'
+- id: vrabel-2026-08-18-03
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: Pokuta 120 mil. eur pro X jako trest za zveřejnění cenzurních žádostí — Zuckerbergova „zadní
+    vrátka" (Vrabel, 17. 8. 2026)
+  text: '**18. 8.** — Ke kalifornské žalobě 29 amerických států na Metu (Facebook, Instagram) kvůli návykovému
+    designu (nekonečné scrollování, mechanismy zvyšující čas strávený na platformě) Vrabel rozvíjí svůj
+    vlastní návrh řešení, „kdyby měl tu moc": (1) zrušit algoritmické zvýhodňování/potlačování jednotlivých
+    profilů podle politické agendy — sociální síť má podle něj odrážet realitu, ne vytvářet umělé „hvězdy"
+    tím, že se jeden příspěvek zobrazí statisícům lidí a druhý (typicky ten, co prosazuje vystoupení z
+    EU/NATO) je uměle potlačen; (2) zakázat technologické mechanismy vytvářející psychologickou/dopaminovou
+    závislost, protože fungují stejně jako drogový dealer — obzvlášť škodlivé u dětí, kterým rodiče dávají
+    telefon místo společné aktivity. Tvrdí, že díky sociálním sítím (ne klasickým médiím) se v roce 2022
+    podařilo dostat 100 000 lidí na Václavské náměstí požadovat vystoupení z EU, protože v tu chvíli algoritmy
+    dočasně umožnily tomuto obsahu se šířit.'
+  podtema: DSA — Digital Services Act
+- id: vrabel-2026-08-18-04
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: '⚡ Konflikt: Vrabel obviňuje Rajchla z pokrytectví ve svobodě slova — zákaz ruských vlajek a
+    sběr kompromitujících materiálů (Vrabel, 18. 8. 2026)'
+  text: 'Petra Rédová předala v Poslanecké sněmovně Jindřichu Rajchlovi ocenění „za zásluhy o svobodu
+    slova" (na základě ankety mezi jejími sledujícími); oba politici u příležitosti ocenění deklarovali
+    usmíření starších sporů a shodu na prosazování národních zájmů. Vrabel toto ocenění zpochybňuje jako
+    nezasloužené — na rozdíl od sebe sama (jehož vlastní boj za svobodu slova vyústil v zatčení, odsouzení
+    a následné vítězství u Ústavního soudu, které vytvořilo precedens chránící dnes ostatní kritiky vlády)
+    poukazuje na dva konkrétní Rajchlovy kroky, které označuje za přímý útok na svobodu politického projevu:
+    (1) na demonstraci, kterou po Vrabelovi převzal, zakázal účastníkům nosit ruské vlajky, ačkoli sám
+    Vrabel na svých demonstracích v roce 2022 nechával účastníky nosit jakoukoli vlajku podle vlastního
+    uvážení; (2) organizátoři veřejně vyzývali účastníky, ať zasílají fotografie/videa osob se symboly
+    „Z" nebo Wagner Group, a na základě toho podávali trestní oznámení — což podle Vrabela vytvořilo atmosféru
+    strachu z vyjádření názoru na rusko-ukrajinský konflikt (dokládá, že člen jeho hnutí Robert Kutý je
+    kvůli takovému udání dosud v podmínce). Uzavírá, že to je přesně politika strachu, kterou sám celou
+    dobu kritizuje jako nástroj poslušnosti.'
+  dalsi_zdroje:
+  - 2026-09-05_vrabel_facebook-live-5-9-2026
+  podtema: Trestání politického projevu
+- id: vrabel-2026-08-18-05
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'Ceuta: sexuální napadení nezletilých migrantů jako „kulturní" jev — apel na ochranu dětí (Vrabel,
+    10. 8. 2026)'
+  text: '**18. 8.** — K ohlášenému festivalu ukrajinské kultury a nezávislosti (Pools of Nations, Pražský
+    areál 7, 21. 8. 2026) Vrabel poznamenává, že termín připadá na výročí okupace Československa v roce
+    1968 — komentuje to jako „přepisování historie". Hlavně ale rozpracovává mechanismus Lex Ukrajina
+    7 dál: trvalý pobyt je vyšší status než dočasná ochrana a po uplynutí zákonné doby na trvalém pobytu
+    vede automaticky k nároku na české občanství. Jakmile Ukrajinci díky zákonu schválenému „skvělým vlasteneckým
+    parlamentem" (v březnu a květnu 2026) tuto cestu projdou, přestávají podle Vrabela záviset na dočasné
+    ochraně úplně — a akce jako tento festival budou podle něj do budoucna běžnou součástí veřejného života
+    ČR, protože se noví občané stanou trvalou součástí populace.'
+- id: vrabel-2026-08-18-06
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Zrušená akce „jen pro černochy" v Berlíně — Vrabel přiznává vlastní posun k rasovému profilování
+    kvůli migraci (18. 8. 2026)
+  text: |-
+    Berlínské koupaliště zrušilo plánovanou akci vyhrazenou na několik hodin výhradně lidem afrického původu poté, co organizátoři čelili kritice a obavám o bezpečnost. Vrabel k tomu dodává osobní přiznání: ačkoli se dlouhodobě považuje za člověka bez rasových předsudků (zmiňuje černošského kamaráda, dřívější obdiv k multikulturní společnosti v pařížském metru v 90. letech), v posledních letech si všímá vlastního posunu — při pohledu na černocha v dnešní západní Evropě si automaticky spojuje vyšší pravděpodobnost, že jde o nedávného migranta z Afriky/Blízkého východu (přes Ceutu či Lampedusu) než o dlouhodobě usazeného Evropana, a reaguje obezřetně až se strachem. Tento posun explicitně připisuje migrační vlně a migračnímu paktu, ne rase samotné — s tím, že vládní tvrzení o „odmítnutí" migračního paktu je jen slovní gesto bez legislativního účinku (pakt podle něj v ČR nadále platí).
+
+    ⚡ **Poznámka:** Formulace tohoto segmentu jsou v přepisu prezentovány jako sebeironický/„nejsem rasista, ale" komentář; zachyceno věcně bez dalšího hodnocení.

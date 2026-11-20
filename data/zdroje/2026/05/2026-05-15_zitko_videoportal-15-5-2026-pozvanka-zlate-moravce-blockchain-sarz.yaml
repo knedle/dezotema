@@ -12,3 +12,24 @@ zdroj:
     99 %; šarže „E" = 96 % fatálních případů. Data nahrána na blockchain, podána vojenskému tribunálu
     GT-2026-0441. Boyle označen za „záhadně zemřelého". Zítko líčí věznění a hrozbu nucené injekce proti
     tetanu.'
+vyroky:
+- id: zitko-2026-05-15-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Blockchain analýza ~12 000 šarží: 3 vrstvy smrtelnosti — Zítko (15. 5. 2026)'
+  text: |-
+    Zítko ve vysílání 15. 5. 2026 prezentuje výsledky analýzy přibližně 12 000 šarží COVID vakcín uložené na blockchainu. Analýza rozdělila šarže do tří vrstev podle podílu na zemřelých:
+
+    - **Placebo vrstva**: minimální nebo žádná smrtelnost
+    - **Střední vrstva**: průměrná smrtelnost
+    - **Smrtící vrstva**: 5 % všech šarží odpovídá za 70 % všech zaznamenaných zemřelých; 10 % šarží = 99 % všech zemřelých
+
+    Šarže označené písmenem „E" jsou v tomto datasetu zodpovědné za 96 % fatálních případů — Zítko interpretuje „E" jako zkratku pro „extremely dead." Data byla dle Zítka předána vojenskému tribunálu s označením GT-2026-0441.
+
+    Zítko tuto analýzu zasazuje do kontextu svého vlastního věznění: v záchytném zařízení mu bylo vyhrožováno nucenou injekcí „proti tetanu" — tedy vakcinací bez souhlasu.
+
+    ⚡ **Poznámka:** Tvrzení o stratifikaci šarží a vojenskému tribunálu nelze ověřit z veřejně dostupných zdrojů.
+  dalsi_zdroje:
+  - 2026-05-20_zitko_videoportal-20-5-2026-aljaska-a-csr
+  podtema: Šarže vakcín

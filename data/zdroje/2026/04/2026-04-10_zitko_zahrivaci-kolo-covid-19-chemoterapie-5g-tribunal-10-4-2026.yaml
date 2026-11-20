@@ -9,3 +9,62 @@ zdroj:
   rezim: standard
   delka: 31:13 — zahřívací kolo před večerním vysíláním na Svobodný vysílač Plzeň; Zítko sám o COVID tour,
     chemoterapii, COVID protokolu, 5G a anténách
+vyroky:
+- id: zitko-2026-04-10-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Rozšířený výčet paradoxů covidismu (Zítko, duben 2026)
+  text: 'Ve warm-up vysílání (9. 4. 2026) Zítko výčet paradoxů covidismu dále rozvádí: „Certifikovaný
+    jed byl tzv. zdravý produkt. Necertifikovaný zdravý produkt byl jed." „Inzerce přírodního produktu
+    byla klamání veřejnosti." „Předepisování jedů s razítkem MUDr. se nazývalo lékařství." „Akademický
+    titul byl odbornost. Zločinec byl odborník." „Virus byla náboženská ideologie." „Očkovaný byl nadčlověk,
+    neočkovaný podčlověk." Zítko uzavírá: soudy rozhodovaly podle toho, co bylo v televizi — „ostatně
+    takhle soudí naše korporátní soudy dodneška."'
+  podtema: Systém „covidismu" — obrácené hodnoty
+- id: zitko-2026-04-10-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Pěti-krokový protokol: jak byli pacienti zabíjeni v nemocnicích'
+  text: |-
+    Pavel Zítko podrobně popisuje výklad lékaře Petersona Pierra (označovaného jako „černošský lékař ze Spojených států"): pacienti přijatí s banálními příčinami (bolest břicha, zlomená noha) procházeli při covidu pěti kroky vedoucími ke smrti.
+
+    1. **COVID+ test** — přijati jako covid-negativní, po týdnu testováni jako COVID-19 pozitivní.
+    2. **Midazolam** — v nízké koncentraci omezil kapacitu plic na 70 % výkonu.
+    3. **Remdesivir** — hepatotoxický preparát (v Africe zastaven pro 53% smrtnost při ebole), způsoboval selhání jater a ledvin.
+    4. **Ventilátor (intubace)** — 8 z 10 pacientů na ventilátoru zemřelo; ve Wuhanu 95 %, v Anglii a Německu (dle Dr. Güntera Franka) 80 %.
+    5. **Statistická COVID oběť** — tento sled generoval covidové statistiky.
+
+    Zítko uvádí, že jeho matka zemřela v říjnu 2020 přesně podle tohoto protokolu.
+
+    ⚡ **Konflikt:** Mortalita na umělé plicní ventilaci závisela na závažnosti stavu pacientů; tvrzení o záměrném protokolu zabíjení je v rozporu s klinickými záznamy.
+  citace:
+  - text: 8 z 10 lidí umíralo. Ve Wuhanu to bylo dokonce 95 %, v Anglii, v Německu, doktor Günter Frank
+      — zločin v režii státu — to bylo 80 % lidí umíralo na intubaci.
+  podtema: Protokol covidových úmrtí — Peterson Pierre
+- id: zitko-2026-04-10-03
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 5G antény jako nosič COVID-19 — Wuhan a Bergamo jako důkaz
+  text: |-
+    Zítko přehrává video, na němž je na štítku 5G stožáru prý čitelný nápis „Covid-19". Z toho vyvozuje záměrné propojení 5G sítí a pandemie. Jako „důkazy" uvádí:
+
+    - Wuhan byl vybaven 10 000 anténami 5G před vypuknutím epidemie.
+    - Bergamo (první velké evropské ohnisko) mělo hustou síť 5G a zároveň probíhala masivní podzimní očkovací kampaň proti chřipce.
+    - Španělská chřipka (1918) mohla být způsobena elektromagnetickými vlnami — 5G je prý analogickým faktorem dnes.
+
+    Zítko doplňuje, že „COVID-19 si v roce 2015 a 2017 nechal patentovat určitý pan Rothschild" — tedy roky před tím, než „kretén netopýr" na wuhanském tržišti nákazu prý spustil.
+
+    ⚡ **Konflikt:** Tvrzení o 5G jako přenosovém vektoru choroby a o patentech Rothschildů na COVID-19 jsou v rozporu s virologickým výzkumem i patentovými záznamy.
+  podtema: 5G sítě a COVID
+- id: zitko-2026-04-10-04
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Šarže označené „E" jako extrémně smrtelné
+  text: Zítko tvrdí, že koncentrace škodlivých složek v COVID vakcínách se mezi šaržemi lišila až stonásobně.
+    Šarže označené písmenem „E" podle něj znamenají „extrémně smrtelné" — syndromy náhlého úmrtí kojenců
+    (SIDS) i dospělých (SADS) jsou svázány zejména s těmito šaržemi.
+  podtema: Šarže vakcín

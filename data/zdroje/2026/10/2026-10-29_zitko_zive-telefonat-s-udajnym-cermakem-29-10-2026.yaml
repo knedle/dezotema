@@ -8,3 +8,20 @@ zdroj:
   prepis: prepisy/done/2026-10-30_Československo-TV2_jana-peterkova-official-3-vysílala-živě_1.txt
   rezim: standard
   poznamka: 16 min, večerní „speciální zpravodajství“ před víkendem v Holýšově.
+vyroky:
+- id: zitko-2026-10-29-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**29. 10. (večer)** — V krátkém vysílání po telefonátu s „údajným“ Čermákem Zítko poprvé připouští
+    ústup: pokud lidé v Holýšově ověří totožnost otázkami na minulost, „nemá problém přiznat“, že přišel
+    skutečný Čermák. Dosavadní dění (soud v Liberci, „výrazně menší dvojník s jinou barvou očí“, video
+    s Naxerou) by pak podle něj mohlo být „cestou k návratu skutečného Tomáše Čermáka“ z úkrytu v rámci
+    „speciální vojenské operace“; na tom, co viděl v Liberci, se pro něj ale nic nemění — „na 99,999 %“
+    to nebyl původní Čermák.'
+  citace:
+  - text: Já nemám problém přiznat, že při ověření totožnosti kladenými otázkami na minulost […] říct,
+      že o víkendu v Holýšově byl skutečný Tomáš Čermák.
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

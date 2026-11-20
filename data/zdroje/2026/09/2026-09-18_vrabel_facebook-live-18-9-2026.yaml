@@ -7,3 +7,81 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1977415689610668
   prepis: prepisy/done/2026-09-18_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-09-18-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Húsíové tvrdí, že ukončili vojenskou kampaň a ovládli Bab al-Mandab (Vrabel, 12. 9. 2026)
+  text: |-
+    **18. 9.** — Vrabel potvrzuje svou tehdejší předpověď: Húsíové v posledním týdnu naopak výrazně rozšířili územní zisky na pobřeží Rudého moře, ovládli další strategický námořní bod a ohrožují vývoz ropy ze Saúdské Arábie, čímž znovu rozdmýchali jemenskou občanskou válku (dle uváděných čísel již 150 000 obětí a 125 000 vysídlených za tři měsíce) a přispěli k růstu cen pohonných hmot; nyní míří na východní Jemen, bohatý na ropu, kde jim stojí v cestě vláda podporovaná Saúdskou Arábií. Vrabel klade odpovědnost za tento „peklo" na Donalda Trumpa, který konflikt rozpoutal, a srovnává postup USA (přímý úder na jemenskou školku plnou dětí, hrozby srovnat Írán se zemí) jako brutálnější než ruský přístup k civilistům na Ukrajině.
+
+    ⚡ **Poznámka:** Tvrzení o přímém americkém útoku na jemenskou školku nelze z přepisu nezávisle ověřit.
+  podtema: Hormuz — aktualizace 6. 5. 2026
+- id: vrabel-2026-09-18-02
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: EU jedná o dani z mimořádných zisků energetických firem — jednání odloženo na říjen; AfD jedná
+    s Kremlem o obnově Nord Streamu (Vrabel, 18. 9. 2026)
+  text: |-
+    Ministři financí EU projednávali zavedení daně z mimořádných zisků energetických společností kvůli růstu cen ropy a plynu po uzavření Hormuzského průlivu — pokračování jednání odloženo na říjen. Vrabel to komentuje jako opakování vzorce, který zažil u Petra Fialy v roce 2021 (slib vyřešit drahou elektřinu do prosince, pak „dělal mrtvého brouka") — ptá se, proč tak závažné jednání nelze svolat okamžitě, ale až za měsíc, a předpovídá, že ropné firmy na hrozbu daně budou reagovat spíš zavíráním čerpacích stanic než snížením cen. Zdůrazňuje, že o hrozícím šoku z odstřižení od ruské ropy a plynu varuje od roku 2022 a že mediální rámování „nečekaného šoku" je zavádějící — od chvíle, kdy Trump uzavřel Hormuzský průliv, měla EU tři až čtyři měsíce na přípravu, ale žádnou nevyužila.
+
+    V téže souvislosti referuje zprávu (Reuters), že se zástupci vedení německé AfD (Weidelová, Chrupalla) mají v březnu 2027 sejít s Kremlem zastoupeným Kirillem Dmitrijevem k jednání o obnovení dodávek ruského plynu do Německa, případně provozu plynovodu Nord Stream. Hodnotí to jako dobrý krok, ale spíše symbolický — AfD není u vlády a Vrabel odhaduje vysokou pravděpodobnost, že Německo bude ve válce s Ruskem dříve, než by AfD mohla zvítězit v celostátních volbách.
+  podtema: Elektřina — marže a ceny
+- id: vrabel-2026-09-18-03
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Odsouzení za „zaškrtnutí okýnka" jako politická perzekuce (Vrabel, 4. 6. 2026)
+  text: '**18. 9.** — Vrabel k navýšení fondu státní exportní pojišťovny EGAP (z 639 mil. na 1 mld. Kč
+    pro pojištění vývozu firem na Ukrajinu) dodává, že navýšené prostředky mají podle vicepremiéra Karla
+    Havlíčka pocházet z programu COVID+ — tedy z téhož typu dotačního programu určeného k sanaci firem
+    zavřených covidovými opatřeními, za jehož čerpání byl sám odsouzen za dotační podvod. Označuje to
+    za dvojí metr: přesměrování peněz z programu určeného na odškodnění covidových škod k financování
+    vývozu na Ukrajinu je podle něj minimálně stejně sporné jako jeho vlastní chybné zaškrtnutí kolonky
+    o bezdlužnosti, za které byl trestně odsouzen.'
+  podtema: Kauza Ladislav Vrabel — dotační podvod
+- id: vrabel-2026-09-18-04
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Von der Leyenová: EU jako mafie, Kanada jako „přidružený člen", nová bezpečnostní rada nad
+    NATO (Vrabel, 16. 9. 2026)'
+  text: '**18. 9.** — Donald Trump podle Vrabela vyhrožuje jak Kanadě, tak celé EU kvůli plánovanému přidružení
+    Kanady k unii (viz [výše](#von-der-leyenová-eu-jako-mafie-kanada-jako-přidružený-člen-nová-bezpečnostní-rada-nad-nato-vrabel-16-9-2026))
+    — Trumpova administrativa a Pentagon podle něj vychází z Monroeovy doktríny, že severní polokoule
+    má patřit do sféry vlivu USA, zatímco Rusku EU sféru vlivu (např. vojenské základny na Ukrajině) odpírá.
+    Vrabel varuje, že sféry vlivu se neurčují prohlášeními Ursuly von der Leyenové, ale velikostí armády
+    a ekonomickou silou — a že pokud si to Evropa s USA rozhádá, může to USA v zimě „potrestat" cly nebo
+    dodatečnou přirážkou na plyn a ropu, zatímco EU si mezitím sama zavřela cestu k levným ruským dodávkám.'
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-09-18-05
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Fico odmítá automatické uplatnění čl. 5 NATO — „majstrštik" podle Vrabela, nejednota NATO/EU
+    (Vrabel, 18. 9. 2026)
+  text: Slovenský premiér Robert Fico ve videoprohlášení (nezúčastnil se kvůli tomu summitu tzv. Karpatské
+    osmičky na Ukrajině) řekl, že je „mírotvorce a pacifista", nechce, aby se Slovensko stalo součástí
+    válečného konfliktu kvůli článku 5 NATO, a že jako premiér udělá vše pro to, aby Slovensko nebylo
+    zataženo do války s Ruskem — tedy i v případě napadení jiného členského státu NATO by Slovensko automaticky
+    neaktivovalo kolektivní obranu. Vrabel to staví do přímého kontrastu s vyjádřením polského ministra
+    zahraničí, že Polsko by v případě napadení Litvy nebo Estonska článek 5 aktivovalo okamžitě, a označuje
+    Ficův postoj za „majstrštik" a odvahu — jediný politik, který si dovolil takto otevřeně vystoupit
+    proti automatismu kolektivní obrany, čímž podle něj naplno odhaluje nejednotu NATO, EU i „koalice
+    ochotných". Vyjadřuje obavu o Ficovu bezpečnost (narážka na možný atentát). V téže souvislosti cituje
+    výrok bývalé tiskové mluvčí Volodymyra Zelenského, že ten byl v prvních hodinách ruské invaze v panice
+    a chtěl nechat odpálit ukrajinské mosty i s vlastními vojáky na nich, což vojáci odmítli provést.
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-18-06
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'České Gripeny poprvé vzlétly kvůli „ruské" dronové aktivitě — Babiš: ČR čelí hybridní válce
+    (Vrabel, 18. 9. 2026)'
+  text: |-
+    České stíhačky JAS-39 Gripen vzlétly z Pardubic kvůli dronové aktivitě u západní Ukrajiny v rámci mise NATO monitorující vzdušný prostor u polské hranice — ke kontaktu s žádným dronem nedošlo. Premiér Andrej Babiš zároveň (v reakci na polského premiéra Donalda Tuska) prohlásil, že ČR čelí ze strany Ruska „hybridní válce"; ministr vnitra oznámil posílení hlídek u nádraží a trvající bezpečnostní opatření. Vrabel to označuje za historický, zlomový okamžik — první otevřený vojenský zásah ČR „proti ruské hrozbě" v médiích i armádě — a předpovídá, že od tohoto momentu bude veřejnost čím dál častěji slyšet o sílících ruských útocích, dokud si premiér nevyžádá aktivní odpověď. Zdůrazňuje, že ukrajinská armáda má dle generála Budanova 40–60 % zahraničních vojáků a že drony i jejich dálkové řízení pocházejí ze Západu (výroba v ČR, Polsku, Německu) — placeno z prostředků EU, tedy fakticky evropskými daňovými poplatníky — takže noční útok 350 dronů na Moskvu (dalších 64 sestřeleno u města, 35 dalších dopoledne) a zásah dronem do chladicí věže jaderné elektrárny Kursk (bez úniku radiace) je dle něj fakticky válkou Západu s Ukrajinou proti Rusku, nikoli jen ukrajinskou obranou — a přichází jen tři dny po Trumpem oznámeném energetickém příměří (viz [Zelenskyj podmiňuje energetické příměří, 15. 9.](valka-ukrajina-prubeh.md#zelenskyj-podmiňuje-energetické-příměří-ruským-ústupkem-jako-první--vrabel-žádné-příměří-nebude-vrabel-15-9-2026)). Německo mezitím uzavřelo generální konzulát v Petrohradě (fungoval od roku 1972) — Vrabel to čte jako signál, že se diplomatické vztahy Západu s Ruskem blíží bodu, odkud „spolu ty země ani nebudou chtít mluvit".
+
+    ⚡ **Poznámka:** Interpretace dronového útoku na Moskvu jako důkazu přímé západní účasti na válce je Vrabelova vlastní spekulace.
+  podtema: Zahraniční aktéři a precedenty

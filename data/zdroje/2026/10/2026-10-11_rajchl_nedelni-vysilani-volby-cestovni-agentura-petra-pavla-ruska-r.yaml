@@ -8,3 +8,89 @@ zdroj:
   prepis: prepisy/done/2026-10-11_Jindřich-Rajchl_Volby-cestovní-agentura-Petra-Pavla-ruská-ropa-do-USA.txt
   rezim: standard
   poznamka: 54 min, nedělní živé vysílání.
+vyroky:
+- id: rajchl-2026-10-11-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Přímý nákup ruské ropy — cesta do Moskvy jako jediné řešení (Rajchl, duben 2026)
+  text: |-
+    **11. 10. — Trump jako vzor:** Trump podle Rajchla „vytřel podlahu“ s EU i se Zelenským: koupil 5 mil. t ruské ropy (zhruba roční spotřeba ČR) a „s přirážkou ji prodá zpátky do Evropy“. Rajchl mu to „vůbec nevyčítá“ a vyzývá české politiky, aby se chovali stejně a „přestali se dívat na nějaké závazky NATO“ a Brusel. Připomíná debatu na Primě, kde Jan Farský tvrdil, že Rusko ropu nevyváží a nemá levnější, a že ji chce kupovat „jen kolaborant a vlastizrádce“ jako Rajchl: „Takže Trump je kolaborant a vlastizrádce?“ „Hlupáci typu Zdechovského, Farského, Jakoba, Nerudové, Rakušana, Hřiba, Matěje Ondřeje Havla“ podle něj „dostali facku od Trumpa“. Protiruské sankce „nás ničí každý jeden den“ a z obchodu, kterého se neúčastníme, „jsme jediní, kdo nevydělá“.
+    - **Rozmrazení aktiv:** Trump prý jedná s Putinem, že výměnou za klid zbraní na energetiku rozmrazí ruská aktiva a umožní prodat zahraniční aktiva Lukoilu. Těmi se ale ručí za půjčku Ukrajině, „že to stejně zaplatíme my“.
+    - **„Demokratický plyn“:** USA a Německo podle něj jednají s Ruskem o obnovení dodávek přes Nord Stream, pokud ho Američané odkoupí; „pak už ten plyn je demokratický… ideologicky očištěný do čista“. Zásobníky v ČR i Německu jsou prý nejméně naplněné za deset let a „hrozí nám obrovská krize v oblasti dodávek plynu“.
+  citace:
+  - text: Biznis vždycky vyhraje nad ideologií. V každém případě a za každých podmínek.
+  podtema: Rusko a energetická krize EU
+- id: rajchl-2026-10-11-02
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: '„Cestovní agentura Petra Pavla“: let do Maroka jako klientelismus; Eva Pavlová jako „soukromá
+    osoba“ nemá dostávat 106 tisíc (Rajchl, 11. 10. 2026)'
+  text: |-
+    Rajchl označuje Pavlovo létání „Maroko–Praha, Maroko–Praha“ kvůli rallye v době komunálních voleb za „šarádu a tragikomedii“. Připomíná, že Pavel v roce 2022 označil komunální volby za „ty nejdůležitější“. Podstatné je podle něj, kdo soukromý tryskáč platil: pronajímatel, majitel banky Creditas, jméno nesdělil, a novináři by u Babiše, Okamury nebo Rajchla „byli čilí jako ohaři“. Je „přesvědčen, že Petr Pavel určitě ne“, a ohlášené dělení nákladů označuje za „damage control“: „Je evidentní, že si tady Petra Pavla někdo vydržuje.“ Jde podle něj o „ukázku jasného klientelismu“ a podezření na střet zájmů. Let vyprodukoval asi 30 t CO₂, roční spotřebu pěti občanů, „ale on může, protože je papaláš“.
+
+    Eva Pavlová podle něj výrokem, že za prezidentovu neúčast u voleb „může stát“, „nasadila korunu všemu“. Zákon, že komunální volby jsou vždy první víkend v říjnu, platí dva roky a volba ze zahraničí by vyžadovala hlasovací lístky všech asi 6 000 obcí na každé ambasádě. Mluvčí Hradu Vít Kolář ji označil za „soukromou osobu“. Rajchl proto bude „jednoznačně pracovat na tom, aby jí byla apanáž odejmuta“: „Proč jí tedy dáváme 106 tisíc korun měsíčně? … Za to, že je něčí manželkou.“
+  citace:
+  - text: Pokud se jedná o soukromou osobu, tak jí nemá už platit stát.
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: rajchl-2026-10-11-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Vzor Irska: 15% rovná daň, protekcionismus a dluhopisy — rozšíření programu PRO (Rajchl, 5.
+    7. 2026)'
+  text: '**11. 10.** — Rajchl odmítá zdanit české miliardáře, protože by odešli: Hollande tím ve Francii
+    jen zdražil nemovitosti v Belgii a po Stanjurově windfall tax se energetické firmy (Křetínský, Tykač)
+    přesunuly do Lichtenštejnska, „jsme je vyhnali“. Chce je naopak „táhnout do hry“ k reinvesticím. Zdanit
+    chce zahraniční vlastníky bank (Erste, Société Générale), kteří prý odvádějí přes 100 mld. Kč ročně
+    a vnitropodnikovými transakcemi „blíží se to bilionu“. Zbrojaře by sektorově zdanil výměnou za přednost
+    v zakázkách ministerstva obrany: „nebudeme to kupovat u Rheinmetallu, u Saabu, u Lockheed Martinu“.
+    Za současného nastavení podle něj dvojnásobná práce nezbohatí ČR, „jenom z ní odejde dvakrát více
+    dividend do Německa, Francie, Ameriky“.'
+  podtema: Ekonomický program PRO
+- id: rajchl-2026-10-11-04
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Mír bude odrážet aktuální kontrolu území — čím déle válka trvá, tím hůř pro Ukrajinu (Rajchl,
+    12. 7. 2026)
+  text: '**11. 10.** — Válka je podle Rajchla „fakticky u konce“: Trump „už Zelenského obětoval“ a je
+    „jen otázka času“, než se s Putinem dohodne na míru. Rusko podle něj „dostane ještě Kramatorsk a Slovjansk
+    a bude po válce“, a „mohli jsme si ušetřit dva miliony mrtvých“. Kdo to nevidí, je „blázen, naivista
+    a idiot“. Zelenský je podle něj „nejzkorumpovanější člověk asi na celém světě“: okrádání spoluobčanů
+    v době války (Mindič a „zlaté záchody a bidety“ z evropských peněz na energetiku) je „největší možný
+    hyenismus“, který „si zaslouží trest smrti“ (viz [Stochastický teror](stochasticky-teror.md)). Trump
+    podle něj na Zelenského výtky reagoval jen „huh, kdo?“.'
+  podtema: Vyjednávání a mír
+- id: rajchl-2026-10-11-05
+  typ: tvrzeni
+  temata:
+  - volby-2026
+  nadpis: 'Senátní kandidáti PRO/koalice: Loprais, Skalický, Beran, Šorna — „ani korunu na Ukrajinu" (Rajchl,
+    27. 9. 2026)'
+  text: '**11. 10. — výsledky 1. kola a podpora ANO ve 2. kole:** Rajchl hodnotí výsledky senátních kandidátů
+    PRO jako „naprosto úžasné“: Loprais 12,75 % (třetí místo proti Šimetkovi z ODS a Baránkové z ANO),
+    Skalický 10,35 % v Děčíně (Linhart zvolen v 1. kole), Šorna 9,4 % na Příbramsku a Beran přes 5 % na
+    Trutnovsku. Podle něj nikdo „nepropadl“ a ve všech obvodech šli proti kandidátovi ANO. Pro 2. kolo
+    vyjadřuje „jasnou podporu všem kandidátům hnutí ANO“ a vyzývá voliče PRO, aby v Ostravě volili Lucii
+    Baránkovou a na Příbramsku Barboru Daňhovou. Hlasy PRO se ve 2. kole podle něj „fakticky zdvojnásobují“,
+    protože klesá účast; půjde o to, „jestli to budou ODSáci, nebo zástupci hnutí ANO“.'
+  podtema: Senátní kandidáti
+- id: rajchl-2026-10-11-06
+  typ: tvrzeni
+  temata:
+  - volby-2026
+  nadpis: 'Výsledky komunálních voleb: PRO nad průzkumy, výzva ke sjednocení národně konzervativních stran,
+    „stockholmský syndrom“ Prahy (Rajchl, 11. 10. 2026)'
+  text: |-
+    Rajchl je s výsledky PRO „partikulárně spokojený“: strana poprvé naplno kandidovala v komunálních volbách a získala zastupitele mj. v Chomutově, Jirkově, Klášterci nad Ohří, Litvínově, Havířově (Martin Gara přes 5 %) i v obou plzeňských obvodech. Ve Vysokém Veselí (Eva Kaprálová) vyhrála a bude mít prvního starostu. Tarabová získala v Liberci 3,53 %. Všude, kde kandidovala, prý PRO výrazně překonala průzkumy (STEM 1,1 %, Prima 1,8 %), a „nemá 1,8 % ani náhodou“; „zelení“ s 2,1 % jsou podle něj jen „kolorit“.
+
+    Spokojený ale být nemůže: ve velkých městech, kde se strany nespojily, neuspěl nikdo. V Liberci by SPD (4,5 %) a PRO (3,5 %) měly dohromady 8 %, v Hradci Králové 2,5 % + 3,5 %, a „nejsme tam ani jeden“. Naopak společné kandidátky (Chomutov přes 9 %, Jindřichův Hradec s Liborem Vondráčkem přes 10 %) podle něj ukazují potenciál 10 % v komunálu a „15 % velmi jednoduše“ v celostátních volbách. Zdůrazňuje, že PRO „ani v jednom jediném městě“ spolupráci neodmítla. Vyzývá SPD, Trikolóru, Svobodné i Motoristy, aby zapomněli „žabomyší spory“ a postavili do čela nejsilnější osobnosti (Okamura, Majerová, Vondráček, Turek, Gregor, Fiala, Foldyna, Kaprálová), jinak bude „za tři roky premiérem Vít Rakušan“. Cílem je „silná, jasná národně konzervativní politika… po vzoru AfD“. Lídr, který se bojí „překroužkování“, podle něj „není lídr“.
+
+    Koaliční voliči podle něj zčásti nepřišli, protože „některé ty klíčové body… nebyly naplněny“. Slibuje být „ještě důraznější“: prosadit zákon FARA a „řešit“ veřejnoprávní televizi, která „bezskrupulózně tlačí eurohujerské strany“, „bez strachu z toho, co na to řekne Česká televize, Seznam nebo Milion chvilek“.
+
+    Pražany, kteří zvolili STAN („čiré zlo“) i po kauze Dozimetr, popisuje jako oběti „stockholmského syndromu“: „Jak kdyby vás jedna parta přes čtyřmi lety okradla… a vy jste ji za čtyři roky zvolili.“ Hlaváček podle něj den po volbách ohlásil dražší MHD a rezidentní parkování: „Chtěli jste to, máte to mít.“ Piráti „dostali vypráskáno“ (v Praze ze 17 na 9 %).
+  citace:
+  - text: Kdekoliv jsme se postavili na jednu kandidátku, tam jsme uspěli.
+  podtema: Komunální volby

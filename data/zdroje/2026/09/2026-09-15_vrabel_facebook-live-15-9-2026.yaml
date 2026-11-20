@@ -7,3 +7,77 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/956630203510727
   prepis: prepisy/done/2026-09-15_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-09-15-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Plyn 3× dražší od ledna, elektřina +60 % — příčinou je Blízký východ, ne Ukrajina; blíží se
+    finanční krize (Vrabel, 15. 9. 2026)
+  text: |-
+    Vrabel k rostoucím cenám plynu a elektřiny na světových trzích (plyn zhruba 3× dražší než v lednu, nejvýš od konce roku 2022; elektřina +60 % od ledna) odmítá Babišovo vysvětlení, že za zdražování benzínu a nafty mohou vysoké marže pumpařů — namítá, že kdyby to byla pravda, existovala by konkurence, která by cenu srazila (srovnává s Babišovým opakovaným svalováním viny na podnikatele, např. dřívější tvrzení, že za nedostatek nemocnic a školek mohou „hospodští, co kradou"). Skutečnou příčinou zdražení pohonných hmot a plynu je podle něj válka — nikoli však především ta na Ukrajině, ale konflikt na Blízkém východě: přes Hormuzský průliv prochází podle jeho odhadu kolem 30 % světového plynu, k tomu se přidávají zničené plynovody. Hlavní příčinu vysoké ceny plynu pro ČR ale vidí v tom, že se od roku 2022 neodebírá levný ruský plyn přímo, ale nepřímo přes zprostředkovatele (Američany a další), kteří si účtují násobně víc — řešením by podle něj bylo (jak navrhuje od roku 2022) odstřihnout se od EU a uzavřít bilaterální smlouvu s Ruskem na levný plyn, po vzoru Srbska, které nakupuje ruský plyn levněji než na burze díky dobrým politickým vztahům.
+
+    Vrabel dále varuje, že současné zdražování je teprve „začátek krize" — odhaduje, že po energetické krizi bude následovat mnohem větší, absolutní finanční krize: popisuje, jak USA během covidu navýšily množství dolarů v oběhu o 40 %, což se dle něj promítá až nyní — úrok na amerických státních dluhopisech přesáhl 5 %, USA začínají skupovat vlastní dluhopisy a musely vyplatit Saúdskou Arábii a Japonsko poté, co přestaly kupovat americké dluhopisy. To čte jako důkaz, že se systém neskrytého tištění peněz (nekrytých zlatem od roku 1972) blíží ke kolapsu.
+
+    ⚡ **Poznámka:** Konkrétní čísla o podílu Hormuzského průlivu na světové produkci plynu a o nárůstu dolarové zásoby během covidu jsou Vrabelovy odhady, nelze je z přepisu nezávisle ověřit.
+  podtema: Elektřina — marže a ceny
+- id: vrabel-2026-09-15-02
+  typ: tvrzeni
+  temata:
+  - jaderne-zbrane
+  nadpis: 'Sikorski: NATO by mělo vzdušnou převahu a mohlo Rusko „poměrně rychle porazit" — Vrabel varuje
+    před jadernou eskalací (14. 9. 2026)'
+  text: '**15. 9.** — Vrabel opakuje tutéž tezi (Sikorského výrok o vzdušné převaze NATO) s doplněním
+    konkrétních čísel podle odhadu SIPRI: Francie a Británie mají dohromady přibližně 515 jaderných hlavic
+    (Francie ~290, Británie ~225), z toho asi 400 rozmístěných (250 francouzských, 120 britských) — v
+    kontrastu s ruským arzenálem, který odhaduje na 5 000 hlavic, tedy desetkrát více, s rychlejšími a
+    manévrujícími raketami. Uvádí, že téhož dne Finsko oficiálně oznámilo připojení k francouzskému jadernému
+    „deštníku" — a spekuluje, že podobné oznámení pro ČR přijde „ex post" (Andrej Babiš věc oznámí až
+    po podpisu, případně vůbec), s příležitostí k podpisu na plánovaném summitu EU-Kanada koncem října
+    2026.'
+- id: vrabel-2026-09-15-03
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Druhá světová válka jako „válka proti Slovanům", Rockefellerové financovali Hitlera i Zelenského
+    (Vrabel, 25. 8. 2026)
+  text: '**15. 9.** — Vrabel rozvádí tutéž tezi novým historicko-ekonomickým argumentem: SSSR podle něj
+    udělal po válce zásadní chybu, když nechal část poražených nacistů soudit Západem (který je z velké
+    části „omilostnil a schoval" do Švýcarska, Jižní Ameriky a Kanady, zatímco SSSR soudil desetkrát až
+    třicetkrát více viníků) a hlavně když dodával poválečnému Německu levný zemní plyn — čímž ho (dle
+    citovaných výroků Ursuly von der Leyen a Angely Merkelové) fakticky ekonomicky vybudoval, aniž by
+    na tom sám zbohatl (odkazuje na chudobu SSSR v 90. letech). Německo takto zbohatlé pak znovu vyzbrojuje
+    armádu a míří „zase na Rusko". Podcenění SSSR spatřuje ve dvou rovinách: SSSR přecenil evropské občany
+    (že se postaví politice směřující k válce) a podcenil „chazarskou chátru", která dle něj dlouhodobě
+    pracuje na tom, aby po vzestupu Německa mohla „znovu jít na Rusko" — týž mechanismus podle Vrabela
+    hrozí zopakovat, pokud dnešní Rusko uvěří americkým mírovým slibům.'
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-09-15-04
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'Zelenskyj podmiňuje energetické příměří ruským ústupkem jako první — Vrabel: žádné příměří
+    nebude (Vrabel, 15. 9. 2026)'
+  text: 'Den po Trumpově oznámení 30denního zákazu útoků na ropnou infrastrukturu (viz [predikce](predikce.md#ladislav-vrabel--zelenskyj-nevydrží-30denní-moratorium-na-útoky-na-energetickou-infrastrukturu-14-9-2026))
+    se Zelenskyj vyjádřil: Ukrajina nebude útočit na ruskou energetickou infrastrukturu, pokud Rusko přestane
+    útočit na ukrajinskou energetickou soustavu, na dovoz jídla a na další „kritické cíle". Vrabel to
+    čte jako podmínku, kterou Rusko nepřijme — Rusko dle mluvčího Kremlu Dmitrije Peskova netvrdí, že
+    má problém s výrobou ropy, ale s exportem kvůli sankcím, takže skutečná ruská protipodmínka by musela
+    zahrnovat i zrušení části z „30 000 sankcí" — což EU dle Vrabela vůbec nezvažuje (naopak mluví o dalších
+    sankcích po ruských dronových incidentech v Polsku). Uzavírá, že žádné energetické příměří tak nečeká,
+    přestože k útokům na obou stranách (včetně útoku na benzínky s civilisty) dál dochází.'
+  podtema: Vyjednávání a mír
+- id: vrabel-2026-09-15-05
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: USA poprvé veřejně přiznaly zbraně na oběžné dráze pro kontrolu vesmíru (Vrabel, 15. 9. 2026)
+  text: Americký ministr letectva poprvé veřejně potvrdil, že USA mají na oběžné dráze umístěné zbraně
+    určené ke „kontrole vesmíru" — nespecifikoval typ ani dobu jejich rozmístění, jen že jsou schopné
+    bránit americké síly před nepřátelskými akcemi. Mluvčí amerických vesmírných sil následně v televizi
+    ABC News potvrdil, že tyto systémy mohou být využity k obranným i ofenzivním účelům. Média to vnímají
+    především jako varování Číně a Rusku; mluvčí ruského ministerstva zahraničí Maria Zacharovová uvedla,
+    že americké přiznání ignoruje důsledky vesmírného konfliktu (rizika pro GPS, vojenskou komunikaci
+    a civilní služby). Vrabel referuje beze vlastního rozsáhlého komentáře, v kontextu rostoucí militarizace
+    vesmíru.
+  podtema: EU jako vojenská struktura

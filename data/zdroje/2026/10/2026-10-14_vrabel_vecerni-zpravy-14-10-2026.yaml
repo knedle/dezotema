@@ -8,3 +8,80 @@ zdroj:
   prepis: prepisy/done/2026-10-14_Ladislav-Vrabel_14-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: 59 min, zprávy čte Zuzana, nový technik Ivan.
+vyroky:
+- id: vrabel-2026-10-14-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: EU ekonomika vybudována na levném ruském plynu — vzdáváme se jí dobrovolně (Vrabel, 18. 5. 2026)
+  text: '**14. 10.** — Trumpova prohlášení o energetickém příměří mezi Ruskem a Ukrajinou podle Vrabela
+    hýbou burzami a „on a lidé kolem něj“ na tom vydělávají stovky milionů dolarů: „toto je obrovská kriminální
+    činnost, to, co dělá Donald Trump. On zneužívá svoji funkci.“ „Ten Trump by zasloužil prostě, nevím,
+    ani nechci říkat, co by zasloužil.“ Ruské suroviny se podle něj mají kupovat přes Američany za čtyřnásobek
+    a peníze jdou na volby a tajné operace, což je „korupce na úrovni států“.'
+  podtema: Energetika a Rusko
+- id: vrabel-2026-10-14-02
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Migraci 2015 jsme zastavili my, „ne Okamura, který se na tom napakoval"; mešita učí „jak bít
+    ženu"; migrační pakt od 2027 (Vrabel, 1. 10. 2026)
+  text: '**14. 10.** — Protesty ve Francii, Itálii, Španělsku, Nizozemsku, Belgii, Británii a Německu
+    podle Vrabela nejsou studentské, ale „počátek občanské války v Evropě“, a znovu vyzývá uzavřít hranice
+    ČR, „dřív, než se to přelije“. Migranti z Eritreje a střední Afriky „mají nejvíc odstínů oproti tomu
+    polínku… a taky, když je vidíte, tak tam bývá nejvíc útoků“, a „bojují proti tomu systému, jako kdyby
+    ho chtěli zničit“ (viz [Stochastický teror](stochasticky-teror.md)). S migračním paktem podle něj
+    přijde „strašný kvantál“ muslimů a ČR bude za deset let „země nikoho a všech“ („Česko-Ukrajinsko“).
+    Pokud Hútíové zničí odsolovací zařízení v Perském zálivu, mohou do Evropy vyrazit „další velké migrační
+    vlny“, které pakt „přerozdělí“. Ke Grónsku tvrdí, že se „naplnila jeho slova“: dohoda s USA ho fakticky
+    podmanila kvůli surovinám, možná i s jadernými zbraněmi (Golden Dome).'
+- id: vrabel-2026-10-14-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Státní zástupce, který zastavil stíhání Čecha z ukrajinské armády, „má jít do vězení“ (Vrabel,
+    5. 10. 2026)
+  text: '**14. 10.** — Celostátní cvičení pořádkových jednotek ve Spolaně podle Vrabela míří na průvod
+    17. listopadu. Vyjmenovává „teror“ proti lidem ze svého okruhu: pro Tomáše Hrdličku si přišlo 14 policistů,
+    pro Katku Rovnou těžkooděnci se samopaly, u Pavla Zýbka proběhl ranní zásah. Tomáš Čermák byl vězněn
+    „jako nejtěžší zločinec“ za facebookový výrok. Slávek Popelka byl půl roku ve vězení, kde ho jako
+    vegetariána prý krmili masem, a teď má leukémii. Zmiňuje i odsouzení své manželky (dluh, který si
+    prý „vymyslel insolvenční správce“) a vlastní podmínku. „Bohužel za vlády Andreje Babiše přituhuje.“
+    Policie bude podle něj „v následujících měsících až letech“ brutální i v ČR, Polsku, na Slovensku
+    a v Maďarsku. Rajchla „museli poslat, aby to zničil“ a „rozdělil lidi, kteří by podporovali Rusko“
+    (zatýkání za Z, „díky, Jindro Rajchle“). Policisty vyzývá: „Vy byste se měli postavit proti režimu,
+    který je proti lidem.“ Vadí mu, že o jeho shromáždění 3. 10. „ani jedno médium nenapsalo“, zatímco
+    ruskojazyčná RTVi s ním natočila rozhovor o trojvýzvě (bez jaderné dohody, mírový vyjednavač, konec
+    dodávek zbraní).'
+  podtema: Kritika soudnictví
+- id: vrabel-2026-10-14-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Muniční iniciativa jako „zrada národa" a „ani koruna na Ukrajinu" jako podvod — „posílá se víc
+    než za Fialy" (Vrabel, 27. 9. 2026)
+  text: '**14. 10.** — K italskému záměru umístit radary na Balkáně (Crosetto v Prištině) Vrabel označuje
+    Kosovo za „další americkou kolonii“ a připomíná radar v Brdech. Podle Wikileaks prý tehdejší velvyslanec
+    Petr Kolář („přítel po boku současného prezidenta“) bez vědomí MZV radil Američanům počkat na Topolánkovu
+    vládu a prosadil, aby se raketové základně říkalo „radar“: „Čechům se mělo říct, že půjde o radar,
+    aby se nebáli.“ Paroubek mu to prý osobně vyprávěl u snídaně. Obává se, že na Balkáně (Černá Hora,
+    Albánie) půjde také o raketové základny nebo letiště. Každodenní vzlety stíhaček a sirény (Rumunsko,
+    Polsko, Norimberk) podle něj „ještě nejsou válka s Ruskem“, ale „vytváření strachu“.'
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-10-14-05
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko by mělo „právo" na proxy útoky na území EU v rámci reciprocity; tajné služby „banda amatérů"
+    (Vrabel, 1. 10. 2026)
+  text: '**14. 10.** — K Rutteho slovům v Tallinnu Vrabel tvrdí, že NATO není obranná aliance (rozbití
+    Jugoslávie): „North Atlantic Terroristic Organization. Severoatlantická teroristická organizace.“
+    Na rozdíl od generála Kryvonose („NATO je mrtvě narozený organismus“) i Lavrova (krátká válka) je
+    přesvědčen, že evropská část NATO válku s Ruskem vést může: má „spoustu lidského materiálu, který
+    může být užitý na frontě“ (550 mil. lidí), úspory a ekonomiku přecházející na zbrojení. „Může vést
+    pěkně 10 let válku s Ruskem.“ Jaderné zbraně podle něj nikdo nebude chtít použít, „ale že jsou ochotní
+    nechat zemřít miliony lidí… to ochotní jsou“. „Psychopati z NATO“ jsou podle něj schopni jít „do posledního
+    Evropana“. Celý příběh o porážce Ruska si podle něj vymyslela úzká elita, „aby si z občanů Ukrajiny
+    a EU udělala svoje vojáky, aby ukradly nerostné bohatství Ruska“. „My jsme v době drancování před
+    válkou.“ Kaliningrad je „hora dynamitu“ a záměr Estonska uzavřít záložní plynovod je „první vlaštovka“.'
+  podtema: Zahraniční aktéři a precedenty

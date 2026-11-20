@@ -9,3 +9,20 @@ zdroj:
   rezim: standard
   delka: '3:28'
   poznamka: 'Zhlédnutí: 141 773'
+vyroky:
+- id: rajchl-2026-04-03-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Česká rozvojová pomoc: kurníky v Salvadoru a chilli v Zambii'
+  text: 'Jindřich Rajchl informuje o zasedání zahraničního výboru sněmovny (duben 2026), kde ministr Macinka
+    prezentoval seznam projektů financovaných z českých daní za vlád Petra Fialy a ministra zahraničí
+    Lipavského: posílení kapacit srbských médií pro Green Deal, produkce chilli v Zambii, rodinné kurníky
+    v Salvadoru, včelařství v Hondurasu, chov drůbeže v Ugandě, lisování oleje v Ghaně. Rajchl označuje
+    toto hospodaření s veřejnými penězi za „diletantství". Lipavský se podle jeho slov k výčtu přihlásil
+    a prohlásil, že je „na to hrdý".'
+  citace:
+  - text: Posílání kapacit srbských nezávislých médií v informování o výzvách zelené transformace. [...]
+      Produkce chilly v Zambii. Rodinné kurníky v Salvádoru. [...] A k tomu samozřejmě přehlídka politických
+      neziskovek progresivistického směru, které tunelují peníze od rána do večera.
+  podtema: Zahraniční politika

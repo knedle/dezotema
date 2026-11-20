@@ -9,3 +9,50 @@ zdroj:
   rezim: vrabel
   poznamka: 59 min, zprávy čte Zuzka; krátké ukázky rozhovoru s Fritzem a videa s Braunem; Vrabel v úvodu
     omylem uvádí datum 30. 10.
+vyroky:
+- id: vrabel-2026-10-31-01
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Násilné protesty v Evropě jako řízené odvedení pozornosti před válkou; Babiš má od tajných služeb
+    informace o 17. listopadu (Vrabel, 26. 10. 2026)
+  text: '**31. 10.** — Policie v Německu a Francii podle Vrabela „bezdůvodně mlátí lidi“ a ve Francii
+    se prý policisté převlékali za demonstranty. Z toho vyvozuje, že jde o „něco řízeného“ a cílem je
+    chaos a poštvání lidí proti sobě. Násilí podle něj brzy přijde i do zemí V4 a ČR. Protesty jsou podle
+    něj proti drahotě, válce a Izraeli, ne kvůli učitelům.'
+  citace:
+  - text: Tak mám takový pocit, že to je něco řízeného. A když vidím, že to je něco řízeného, tak je mi
+      jasný, že cílem není to, aby byly demonstrace, ale cílem je to, aby byl chaos.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-10-31-02
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: „Velká výměna“ potvrzena — Francie do roku 2050 muslimská, v českých městech za 10 let víc migrantů
+    než původních obyvatel (Vrabel, 31. 10. 2026)
+  text: 'K návrhu starosty Trappes trestat šíření teorie „velké výměny“ Vrabel tvrdí, že evropská populace
+    je „masově“ nahrazována migrací a migranti mají víc dětí. Návrh zákona chápe jako umlčování hlasů
+    proti propagandě: výměnu obyvatelstva potvrzuje, „dokud se za to nechodí do vězení“. Francie bude
+    podle něj do roku 2050 „stoprocentně muslimskou zemí“. ČR podle něj čeká totéž: migrační pakt od roku
+    2027 a Babišův dovoz pracovníků z Indie, Bangladéše a Filipín, migranti „po 100 tisících“. Ukrajinců
+    tu podle něj neoficiálně žijí 2 miliony a do deseti let bude ve velkých českých městech víc migrantů
+    než původního obyvatelstva.'
+  citace:
+  - text: Tam do roku 2050 Francie bude stoprocentně muslimskou zemí.
+- id: vrabel-2026-10-31-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Výměna vlády 17. 11. „nesmysl“ — globalisté potřebují rozdělenou společnost, ne novou vládu;
+    strany jako „odnože ODS“ (Vrabel, 31. 10. 2026)
+  text: 'Vrabel odmítá spekulace diváků, že se 17. 11. chystá výměna vlády. Babišova vláda podle něj plní
+    příkazy Bruselu a NATO „jako švýcarské hodinky“ (Ukrajina, muniční iniciativa, F-35, Šťastný proti
+    ruským sportovkyním), takže ji globalisté nepotřebují měnit. Jde jim o udržení napětí: protesty pro
+    a proti ČT a pro a proti Babišovi mají odvést pozornost od války, drahoty a peněz na Ukrajinu, aby
+    se lidé nespojili („rozděl a panuj“). Počet hnutí podle něj nehraje roli: Trikoloru, SPD a PRO označuje
+    za „odnože ODS“ a Motoristy za stranu Klausovy rodiny se stejným financováním a vedením. Vystoupení
+    z EU, NATO a WHO má podle něj v programu jen jeho hnutí. Petra Hájka nazývá „propagandistou“ a „politrukem“.'
+  citace:
+  - text: To, co je potřeba pro globalisty, je udržet v napětí společnost, poštvanou proti sobě, aby se
+      lidi nemohli sjednotit proti válce nebo proti tomu, že máme draho.
+  podtema: Politická kultura

@@ -7,3 +7,115 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1605015334356589
   prepis: prepisy/done/2026-09-09_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-09-09-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Černá hora a Albánie do EU; Kushnerův ostrov v Albánii (Vrabel, 5. 6. 2026)
+  text: '**9. 9.** — Protesty proti projektu (dle Vrabela chráněná krajinná oblast s koloniemi plameňáků,
+    proto přezdívka „plamenákova revoluce") trvají už přes 100 dní a vyústily ve střet s policií před
+    albánským parlamentem (demonstranti házeli vejce, rajčata a plastové láhve, policie v zásahové výstroji
+    tvrdě zatýkala). Protesty se podle Vrabela postupně rozšiřují do širšího protivládního hnutí proti
+    premiérovi Edimu Ramovi. Rámuje to jako obecný „boj elit proti lidem", v němž policie chrání zahraniční
+    investory na úkor vlastních obyvatel.'
+- id: vrabel-2026-09-09-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 'Příprava na válku: „zachraň se, kdo můžeš"; miliardáři si staví bunkry (Vrabel, 8. 6. 2026)'
+  text: '**9. 9.** — Vrabel tutéž výzvu opakuje beze změny (znovu s odkazem na manželčino vyprávění o
+    náhlém začátku bombardování Jugoslávie) v souvislosti s eskalací kolem Rutteho výroků o nutnosti zvýšit
+    podporu Ukrajině.'
+  podtema: Elity a jejich plány
+- id: vrabel-2026-09-09-03
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Facebook druhý den po sobě vypnul Vrabelovo živé vysílání v polovině (Vrabel, 9. 9. 2026)
+  text: Vrabel upozorňuje, že Facebook mu už druhý den v řadě uprostřed vysílání „Zprávy v devět" ukončil
+    živý přenos (celé vysílání je dostupné jen na YouTube); divákům se navíc nedaří jeho příspěvky sdílet.
+    Interpretuje to jako záměrné potlačování obsahu, který se „nehodí" do jednosměrného mediálního rámování
+    války s Ruskem, a připomíná svou opakovanou tezi o cenzuře vlastního kanálu ze strany Facebooku/vlády.
+  podtema: Nová alternativní média
+- id: vrabel-2026-09-09-04
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'Ceuta a migrační pakt: von der Leyenová, Kalergiho plán a příklad Rotterhamu (Vrabel, FB Live,
+    31. 7. 2026)'
+  text: '**9. 9.** — K nové zprávě, že Evropská komise schválila Španělsku mimořádnou pomoc 147 mil. eur
+    na zvládnutí migrace v Ceutě (desítky tisíc nelegálních příchodů z Maroka, přes 2000 nezletilých migrantů),
+    Vrabel ironicky komentuje, že peníze věc automaticky „vyřeší", a opakuje beze změny odkaz na Rotherham
+    jako varování před tisíci znásilnění, která podle něj podobná politika přehlížení dlouhodobě umožňuje.'
+- id: vrabel-2026-09-09-05
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Ohlášení veřejného shromáždění „Člověk na prvním místě" (3. 10. 2026) — bez politiků s placenou
+    funkcí (Vrabel, 9. 8. 2026)
+  text: '**9. 9.** — Vrabel tutéž tezi opakuje na příkladu Okamurova návrhu zrušit Ukrajincům sociální
+    dávky: rámuje ho jako „malý populistický krok", který má vzbudit dojem dobré vlády, zatímco reálná
+    politika (dodávky munice, zadlužování ve prospěch Ukrajiny, poslušnost vůči USA/Německu, zákaz referenda
+    o EU/NATO/euru dohodnutý Babišem s Pavlem) zůstává beze změny. Doplňuje jazykovou poznámku: české
+    spojení „koalice ochotných" je dle něj nepřesným překladem anglického **coalition of the willing**
+    — „willing" znamená spíš „ti, kdo chtějí" než „ochotní", a navíc by šlo o alianci, ne koalici.'
+  podtema: USA — volební systém
+- id: vrabel-2026-09-09-06
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Ukrajinský dron zasáhl průmyslový areál v Novém Urengoji, 2800 km od hranic (Vrabel, 9. 9. 2026)
+  text: Vrabel referuje zprávu, že ukrajinský dron zasáhl průmyslové zařízení v ruském městě Nový Urengoj
+    (Jamalsko-Něnecký autonomní okruh) — vzdáleném zhruba 2800 km od ukrajinských hranic — kde po útoku
+    vypukl požár; podle guvernéra oblasti nebyl nikdo zabit ani zraněn. Ruský prezidentský zmocněnec uvedl,
+    že dron se pokusil zasáhnout energetické zařízení v oblasti. Bez vlastního komentáře.
+  podtema: Vyjednávání a mír
+- id: vrabel-2026-09-09-07
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Witkoff a Kushner míří (poprvé letadlem) i do Kyjeva — Vrabel dává 65 % šanci na neúspěch jednání
+    (4. 9. 2026)
+  text: '**9. 9.** — Podle deníku Financial Times se šéf CIA John Ratcliffe chystá převzít větší roli
+    v jednáních Washingtonu s Ruskem a Ukrajinou, zatímco Bílý dům zvažuje omezit angažovanost zvláštních
+    vyslanců Witkoffa a Kushnera; Ratcliffe má zároveň dál udržovat kontakty s tajnými službami obou válčících
+    zemí. Vrabel to komentuje jako zajímavý, ale zatím nejasný posun bez vlastního výkladu.'
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-09-08
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Proč ČR podepsala vojenskou smlouvu s Ukrajinou uprostřed konfliktu — kritika Rutteho a role
+    Ukrajiny v mírových jednáních (Vrabel, 9. 9. 2026)
+  text: 'K výroku generálního tajemníka NATO Marka Rutteho, že spojenci Ukrajiny „nemají jinou možnost"
+    než dále zvyšovat podporu, Vrabel klade zásadní otázku: proč ČR (v letech 2022–2023) vůbec podepsala
+    dvoustrannou smlouvu o vojenské spolupráci s Ukrajinou v době, kdy už byla ve válce s Ruskem — namísto
+    toho, aby zůstala nezavázaná. Takový krok považuje za fakticky rovnocenný vyhlášení války Rusku, přijatý
+    bez veřejné debaty a dosud nekomentovaný. Dokládá, že Ukrajina o skutečné ukončení konfliktu nestojí:
+    při návštěvě Jareda Kushnera a Steva Witkoffa na Ukrajině byli novináři na tiskové konferenci vůči
+    Witkoffovi nepřátelští za to, že jedná s „válečným zločincem" Putinem, což dle Vrabela dokazuje, že
+    ve veřejném prostoru není žádná vůle konflikt ukončit. Cituje bývalého prezidenta Petra Porošenka,
+    který měl prohlásit, že ukrajinské děti budou chodit do „čistých" ukrajinských škol, zatímco Rusové
+    budou „někde ve sklepích" — a dodává vlastní výklad slov Sergeje Lavrova, že s obyvateli Donbasu bylo
+    ukrajinským režimem zacházeno jako s „podlidmi" bez práva na vlastní jazyk, vzdělání a kulturu. Z
+    toho vyvozuje, že Ukrajina jako stát z roku 1991 „se neosvědčila", protože nedokázala zajistit základní
+    práva všem svým obyvatelům, a že navrácení Donbasu Ukrajině by bylo ospravedlnitelné jen při zásadní
+    změně režimu (odstranění „nacismu", zajištění práv Rusů). Situaci označuje za „absolutně patovou".'
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-09-09
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Lavrov: útok na Evropu by vedl k „velmi krátké" válce; ruská rozvědka tvrdí, že EU plánuje
+    konfrontaci s Ruskem do 2030 (Vrabel, 9. 9. 2026)'
+  text: Vrabel cituje prohlášení ministra zahraničí Sergeje Lavrova, že Rusko nemá v úmyslu napadnout
+    evropské země, ale pokud Evropa napadne Rusko, půjde o „zásadně jinou a velmi krátkou válku" — na
+    rozdíl od pomalu postupující „speciální vojenské operace" na Ukrajině, kde se Rusko podle Lavrova
+    snaží šetřit civilisty jako „slovanské bratry". Vrabel z toho vyvozuje, že případný konflikt s Evropou
+    by byl veden zcela odlišnými prostředky (např. leteckými/raketovými údery), a varuje, že Česká republika
+    dodává přes polovinu munice využívané v konfliktu proti Rusku. Doplňuje tvrzení ředitele ruské zahraniční
+    rozvědky Sergeje Naryškina, že strategické dokumenty Evropské unie do roku 2030 počítají s možnou
+    vojenskou konfrontací s Ruskem — v protikladu k opakovanému rámování ze strany EU (Kaja Kallasová),
+    že Rusko je „existenční hrozbou" pro Evropu.
+  podtema: Zahraniční aktéři a precedenty

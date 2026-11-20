@@ -9,3 +9,35 @@ zdroj:
   rezim: standard
   delka: '33:05'
   poznamka: 'Zhlédnutí: 401'
+vyroky:
+- id: zitko-2026-04-13-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Roman Prymula v ČT „Máte slovo": 15 000 mrtvých v ČR vs. CDC dokument s čistě negativním přínosem'
+  text: |-
+    Zítko reaguje na avizovaný díl pořadu Michaely Jílkové „Máte slovo" (16. 4. 2026), kde má vystoupit Roman Prymula na téma očkování. Ve veřejném prohlášení ČT v upoutávce prý Prymula tvrdil, že vakcíny COVID-19 způsobily 15 000 úmrtí v ČR a 20 milionů celosvětově. Zítko označuje tato čísla za „tisíckrát podhodnocená": jako protidůkaz cituje dokument CDC z vlády USA (veřejně dostupný, přiložený ke spisu u OS v Chomutově), kde stálo, že k 28. srpnu 2021 zemřelo v USA 150 000 lidí a očkování má „čistě negativní přínos" — tj. více lidí umírá po vakcíně než na samotný COVID-19. Zítko vyzývá ČT, aby pro vyváženost pozvala do pořadu i jeho. Jako další reference uvádí Dr. Ute Krugerovou a její knihu *Geimpft Gestorben* (Očkován, zemřel).
+
+    ⚡ **Poznámka:** Tvrzení o 150 000 amerických obětech vakcíny a „čistě negativním přínosu" odporuje závěrům CDC, EMA a WHO. Citovaný dokument z OS Chomutov nelze ověřit z veřejně dostupných zdrojů.
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-04-13-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: 'Zítko vs. ČT: výzva k pozvání do „Máte slovo" kvůli vyváženosti'
+  text: |-
+    Pavel Zítko v reakci na avizovaný díl pořadu „Máte slovo" (16. 4. 2026) s Romanem Prymulou a Jiřím Beranem o očkování se sám zaregistroval do pořadu a spustil mobilizační kampaň: vyzval diváky, aby kontaktovali pořad (e-mail i záznamní linka) i ředitele ČT Hinka Chudárka, a sdílel šablonu e-mailu, kde se odkazovalo na kodex ČT a povinnost vyváženosti. Argumentuje tím, že ČT jako veřejnoprávní médium financované ročně 5,7 miliardami korun z koncesionářských poplatků je ze zákona povinno prezentovat různé názory — a pokud tam bude Prymula, měl by být přítomen i kritik vakcinace. Celý pořad označuje za přejmenování „Držte hubu" na „Máte slovo". Jako argument pro svou účast přiřadil novozélandská data Barry Younga (zaměstnanec tamního ministerstva zdravotnictví, uvězněn za zveřejnění: nejhorší šarže vakcíny dosáhla 21,38 % smrtnosti) a CDC dokument s „čistě negativním přínosem" vakcín z 28. 8. 2021.
+
+    Dramaturg pořadu Jan Smrš reagoval stručně: „Děkujeme vám za vaši nabídku, kterou nevyužijeme." Zítko na to odpověděl ostrou e-mailovou odpovědí adresovanou Smršovi a řediteli ČT Hinkovi Chudárkovi, v níž ČT přímo obvinil ze zapojení do „podporování pokusů na lidech", porušení Norimberského kodexu a způsobení škod na zdraví — včetně zodpovědnosti za „nejnižší porodnost za 240 sledovaných let." Hrozil ztrátou nároku na koncesionářské poplatky a informováním ministra kultury, premiéra Babiše i dalších členů vlády.
+
+    Zítko měl navíc objektivní překážku: 24měsíční soudní **zákaz pobytu v Praze** (uložen obvodním soudem pro Prahu 2, soudkyní Danielou Rajfovou, v jeho nepřítomnosti). Žádost o dočasné povolení vstupu do Prahy za účelem Máte slovo policie zamítla s tím, že nevidí „důležité důvody." Zítko sledoval pořad živě (16. 4. 2026) a průběžně ho komentoval z domova: Prymula tvrdil, že vakcíny zachránily 15 000 životů v ČR a 20 milionů celosvětově — Zítko označil tato čísla za „tisíckrát podhodnocená" a citoval dokument CDC, který má u soudu v Chomutově jako důkaz. Jiří Beran v pořadu hovoří o přínosech vakcín a roli protilátek — Zítko komentuje, že se „ukecal", když použil slovo „protilátky" místo „vakcína."
+
+    ČT budget dle Zítka: 7,5 miliardy Kč (2025), 8,5 miliardy Kč plánováno na rok 2026, z toho 5,7 miliardy pochází z koncesionářských poplatků občanů.
+
+    Ve druhém dílu vysílání ze dne 16. dubna Zítko přečetl klíčový argument policie pro odmítnutí vstupu do Prahy (§350 odst. 3 trestního řádu 141/1961 Sb.): návštěva pořadu není „důležitým důvodem" — živé televizní vysílání s politickými tématy by Zítkovi umožnilo „oslovit i širší publikum" a „vyslovování různých názorů v živě vysílaném pořadu by bylo v rozporu s uloženým trestem." Zítko to glosuje: „Hlavně nechtěj, abych tam řekl pravdu." Ze soudního rozsudku (soudkyně Daniela Rajfová) zaznívá formulace, že Zítko „aktivně brojí proti státním institucím" a „přítomnost obžalovaného v hlavním městě by mohla umožnit další provokace a konflikty."
+  dalsi_zdroje:
+  - 2026-04-14_zitko_mobilizace-divaku-pro-mate-slovo-14-4-2026
+  - 2026-04-14_zitko_odmitnuti-mate-slovo-italska-studie-ct-budget-15-4-2026
+  - 2026-04-16_zitko_mate-slovo-zive-prymula-zakaz-prahy-17-4-2026
+  - 2026-04-16_zitko_16-dubna-mate-slovo-dopis-policii-a-zduvodneni-zakazu-prahy
+  podtema: Česká televize a mainstreamová média

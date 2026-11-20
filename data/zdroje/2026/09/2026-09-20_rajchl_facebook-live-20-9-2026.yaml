@@ -7,3 +7,72 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1116039844322969
   prepis: prepisy/done/2026-09-20_Jindřich-Rajchl_Facebook-Live.txt
   rezim: standard
+vyroky:
+- id: rajchl-2026-09-20-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Saúdská Arábie omezila dodávky ropy, nejnižší zásoby plynu za poslední roky, snížený rating
+    Polska a Francie (Rajchl, 20. 9. 2026)
+  text: |-
+    Rajchl varuje před prohlubující se evropskou energetickou krizí: Saúdská Arábie má omezit dodávky ropy řadě rafinérií, ČR má nejméně naplněné zásobníky plynu za poslední roky (plyn je „prostě drahý, když už vůbec je"), Polsko a Francie mají snížený rating od mezinárodních ratingových agentur a na každé deváté francouzské čerpací stanici chybí pohonné hmoty — informace, kterou podle něj mainstreamová média téměř nezmiňují. Plyn se aktuálně obchoduje kolem 80 EUR/MWh. Spojuje to s kritikou pokračující podpory Ukrajiny a konfrontační politiky vůči Rusku místo jednání, které podle něj tuto krizi prohlubuje.
+
+    ⚡ **Poznámka:** Tvrzení o omezení dodávek ropy ze Saúdské Arábie a konkrétní podíl francouzských čerpacích stanic bez paliva nelze z přepisu nezávisle ověřit.
+  podtema: Elektřina — marže a ceny
+- id: rajchl-2026-09-20-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Seznam Zprávy (Lukáš Valášek) srovnány s rétorikou nacistického „Der Stürmer" (Rajchl, 19.–20.
+    9. 2026)
+  text: Rajchl reaguje na článek Seznam Zpráv novináře Lukáše Valáška s titulkem „Na akci s Putinovým
+    ideologem má vystoupit Zeman" (o konferenci spolku Svatopluk, na níž mj. online vystoupil ruský komentátor
+    Fjodor Lukjanov). Článek označuje za „štvavý pamflet", jehož poselství — s kýmkoli nekonvenčním je
+    zakázáno mluvit, kdo tento zákaz poruší, je „kolaborant" k reputační likvidaci — přirovnává k rétorice
+    nacistického plátku Der Stürmer i komunistické propagandy. Argumentuje, že demokracie a diplomacie
+    jsou naopak založené na povinnosti jednat i s oponenty, a že ten, kdo brání protistraně mluvit, tím
+    přiznává, že nemá lepší argumenty. Kritizuje také moderátorku CNN Prima News Lucii Čermákovou, která
+    ho měla přerušit, když chtěl na pořadu 360 rozebrat projev Ursuly von der Leyenové.
+  podtema: Nová alternativní média
+- id: rajchl-2026-09-20-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Preference koalice SPD+PRO+Trikolóra+Svobodní vzrostly ze 7,5 % na 10 % (Rajchl, 20. 9. 2026)
+  text: |-
+    Rajchl cituje nový průzkum veřejného mínění, podle nějž preference klubu SPD (zahrnující i PRO, Trikolóru a Svobodné) vzrostly ze 7,5 % na 10 %. Interpretuje to jako důkaz, že si voliči všímají jejich důsledného promírového postoje k válce na Ukrajině — spojuje to s vyjádřením Andreje Babiše, který se ve svém projevu téhož dne dotkl podobného tématu (Evropa mluví víc o válce než o míru, zatímco USA se o mír snaží aktivněji) — a spekuluje, že jde o záměr, ne jen o neschopnost evropských politiků.
+
+    ⚡ **Poznámka:** Zdroj a metodika citovaného průzkumu preferencí nejsou v přepisu specifikovány.
+  podtema: Volby
+- id: rajchl-2026-09-20-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Kupkův výrok „poslat za Ural" jako „bolševické smýšlení" (Rajchl, 20. 9. 2026)
+  text: Předseda ODS Martin Kupka na sociální síti napsal, že by Rajchla měl Babiš „poslat za Ural" a
+    označil ho za „putinův hlas v České republice" — reakce na Rajchlovu účast na mezinárodní konferenci
+    spolku Svatopluk, na níž online vystoupil ruský komentátor Fjodor Lukjanov. Rajchl to označuje za
+    ukázku bolševického smýšlení („kdo posílal své názorové oponenty za Ural? Pouze a jenom bolševici")
+    a tvrdí, že kdyby mohl, postavil by Rajchlovi Gulag. Vyzývá Kupku, ať – pokud tvrdí, že se na Ukrajině
+    bojuje za Českou republiku – sám „sundá teflonový oblek", vezme si maskáče a samopal a jde bojovat,
+    místo aby se jen „siláckyfotil" se zbraní; označuje ho za „submisivního omegasamce", který v Bruselu
+    jedná jako „lokaj" bez skutečného hájení národních zájmů.
+  podtema: Politická kultura
+- id: rajchl-2026-09-20-05
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Projev na konferenci Svatopluk: jednání s Ruskem (Witkoff, Kushner, Ratcliffe) racionálnější
+    než „silácká gesta" von der Leyenové (Rajchl, 19.–20. 9. 2026)'
+  text: Na mezinárodní konferenci pořádané spolkem Svatopluk (na níž online vystoupil i ruský komentátor
+    Fjodor Lukjanov) přednesl Rajchl projev argumentující pro urychlené mírové vyjednávání na Ukrajině.
+    Tvrdí, že diplomaté USA — Steve Witkoff, Jared Kushner a šéf CIA John Ratcliffe — kteří jednají v
+    Moskvě se zástupci Ruska, nejsou „ruští kolaboranti", ale jednají racionálně a přibližují svět míru,
+    zatímco Ursula von der Leyenová je „dalším válečným štváčem", který politicky i finančně profituje
+    ze zbrojení. Válku na Ukrajině považuje za fakticky rozhodnutou a další prodlužování konfliktu za
+    riziko přerůstající v „kataklyzmický konflikt" s katastrofálními důsledky pro celou Evropu — zdůrazňuje,
+    že je ochoten jednat i se Sergejem Lavrovem nebo Vladimirem Putinem osobně. Odmítá nálepku „proruský"
+    s tím, že nestojí na straně Ruska ani Ukrajiny ani EU, ale na straně míru a obyčejných občanů ČR.
+  citace:
+  - text: Mír není synonymem pro slabost. Je tomu právě naopak.
+  podtema: Zahraniční aktéři a precedenty

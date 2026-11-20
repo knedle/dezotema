@@ -9,3 +9,15 @@ zdroj:
   rezim: standard
   delka: '1:06'
   poznamka: 'Zhlédnutí: 9 593'
+vyroky:
+- id: tarabova-2026-03-23-02
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: ANO nezjišťuje zahraniční financování — jen domácí dotace
+  text: Lenka Tarabová sdílí klip z rozhovoru, v němž je ministr ANO dotazován na připravovanou databázi
+    financování neziskovek. Ministr vysvětluje, že databáze bude evidovat pouze dotace z českých veřejných
+    rozpočtů (stát, obce, kraje) — otázka zahraničního financování „padá za stůl" a nebude sledována.
+    Tarabová to komentuje v titulku jako „ANO nechává neziskovky likvidovat českou společnost" a kritizuje,
+    že politické neziskovky mají nadále volné ruce.
+  podtema: ANO a transparentnost neziskovek

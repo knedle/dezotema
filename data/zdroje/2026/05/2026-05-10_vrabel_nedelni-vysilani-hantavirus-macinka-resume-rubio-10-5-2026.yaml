@@ -15,3 +15,45 @@ zdroj:
     s falešnými sledujícími (Facebook smazal: 100k→35k, Instagram ~8k); Ukraina mobilizace — TCK, falešné
     invalidní průkazy, seznamy Ukrajinců na Západě; 400 tisíc mladých Ukrajinců (18–24) odešlo přes „dočasnou
     ochranu" na Západ — plán zařadit je do evropské armády; demonstrace na Staroměstském náměstí 9. 5.'
+vyroky:
+- id: vrabel-2026-05-10-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Hantavirus: příznaky SARS, přenos člověk-člověk, Moderna připravena — Vrabel (10. 5. 2026)'
+  text: |-
+    Vrabel ve vysílání 10. 5. 2026 upozorňuje na zpravodajství Deutsche Welle o nové vlně hantaviru. Hantavirus byl doposud znám jako přenášený hlodavci, avšak nová varianta dle reportáže DW vykazuje přenos z člověka na člověka. Příznaky jsou podobné covidu a SARS. Vrabel sdílí osobní příběh: příteli zemřel člověk za dva dny po propuknutí příznaků.
+
+    Vrabel považuje za podezřelé, že Moderna již má připravenou vakcínu — analogicky s covidem, kde vakcíny existovaly dříve, než byl virus veřejně oznámen. Vrabel výslovně přirovnává situaci k počátkům covidové pandemie: média informují opatrně, ale riziko přenosu je dle DW reportáže přítomno.
+
+    ⚡ **Poznámka:** Vědecký konsensus k roku 2026 neklasifikuje hantavirus jako pandemické ohrožení srovnatelné s covidem; přenos člověk-člověk je u tradičních variant hantaviru výjimečný.
+  podtema: Hantavirus
+- id: vrabel-2026-05-10-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Rajchlův skandál s falešnými sledujícími — Vrabel (10. 5. 2026)
+  text: 'Vrabel ve vysílání 10. 5. 2026 informuje, že Facebook smazal Rajchlovi falešné sledující: jeho
+    stránka klesla z přibližně 100 tisíc na 35 tisíc fanoušků a Instagram z neznámého počtu na přibližně
+    8 tisíc. Vrabel to komentuje kriticky — nakupování sledujících považuje za podvod na vlastním publiku.'
+  podtema: Ekonomický program PRO
+- id: vrabel-2026-05-10-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 400 tisíc mladých Ukrajinců na Západě jako zárodek evropské armády — Vrabel (10. 5. 2026)
+  text: |-
+    Vrabel tvrdí, že přibližně 400 tisíc mladých Ukrajinců ve věku 18–24 let odešlo na západ Evropy přes schéma „dočasné ochrany." Dle jeho interpretace to není náhoda — jde o záměrný plán, jak tuto skupinu integrovat do budoucí evropské armády, místo aby byla nasazena na frontě. Ukrajina tak dle Vrabela vyměnila možné vojáky za diplomatický kapitál v jednáních s EU.
+
+    Souběžně zmiňuje mobilizační krizi na Ukraině: zprávy o jednotkách TCK (Územní centrum doplňování), falšování invalidních průkazů a existenci seznamů Ukrajinců v zahraničí, které by mohly být použity k organizaci jejich návratu.
+  podtema: Ekonomický program PRO
+- id: vrabel-2026-05-10-04
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'Marco Rubio: USA odstupuje od mírových jednání — Vrabel (10. 5. 2026)'
+  text: Vrabel informuje, že americký ministr zahraničí Marco Rubio oznámil, že USA odstupují od aktivního
+    zprostředkování mírových jednání mezi Ruskem a Ukrainou. Vrabel to hodnotí jako důsledek Trumpovy
+    frustrace z neochoty obou stran ke kompromisu — USA přestávají hrát roli mediátora, čímž se válka
+    ve střednědobém horizontu přesouvá výhradně do evropské geopolitické sféry.
+  podtema: Vyjednávání a mír

@@ -10,3 +10,21 @@ zdroj:
   delka: '4:55'
   poznamka: 'Přepis v němčině — svědectví bývalého šéftoxikologa Pfizer Europe v parlamentním výboru.
     Zhlédnutí: 3 472'
+vyroky:
+- id: tarabova-2026-03-23-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Comirnaty nebyla testována na karcinogenitu — svědectví šéftoxikologa Pfizer Europe
+  text: |-
+    Lenka Tarabová sdílí záznam z německého parlamentního výboru, v němž svědčí bývalý šéftoxikolog Pfizer Europe pro Evropu. Ten pod přísahou prohlašuje: karcinogenita vakcíny Comirnaty (Pfizer-BioNTech) nebyla před schválením testována z časových důvodů, přičemž to sám označuje za „velmi znepokojivé". Zároveň uvádí:
+    - Po schválení vakcíny Pfizer zaznamenal přes 1 200 úmrtí za pouhé dva měsíce — Comirnaty měla být stažena z trhu nejpozději tehdy.
+    - Paul-Ehrlich-Institut eviduje 2 133 hlášení o úmrtí po Comirnaty; s odhadem podhlášení (faktor 30 jako v USA) by odpovídalo přibližně 60 000 úmrtím v Německu.
+    - Populaci byl podáván jiný produkt, než který prošel testy — pro klinické zkoušky byl použit vysoce čistý přípravek; masová výroba probíhala pomocí bakterie *E. coli*, výsledkem je kontaminace bakteriální DNA a potenciálně zvýšené riziko rakoviny.
+    - Schválení vedlo k „zakázaným lidským experimentům".
+    - Po zahájení vakcinační kampaně se porodnost snižovala a celková smrtnost rostla — při skutečně pozitivním poměru přínosu a rizika by smrtnost klesat měla.
+
+    > „Comirnaty wurde in der klinischen Entwicklung gar nicht auf die Vermeidung schwerer Erkrankungen oder Todesfälle untersucht." (Comirnaty nebyla v klinickém vývoji vůbec testována na prevenci vážných onemocnění nebo úmrtí.) — Šéftoxikolog Pfizer Europe, [Tarabová — Vakcinační genocida 2026-03-23](_zdroje.md#lenka-tarabová--vakcinační-genocida-německý-toxikolog)
+
+    ⚡ **Konflikt:** Regulační orgány EU (EMA, Paul-Ehrlich-Institut) a vědecký konsensus zastávají, že Comirnaty prošla standardním schvalovacím procesem a vykazuje pozitivní poměr přínosu a rizika.
+  podtema: Vakcíny

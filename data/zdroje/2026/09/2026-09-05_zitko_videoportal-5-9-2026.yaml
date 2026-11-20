@@ -7,3 +7,22 @@ zdroj:
   url: https://m.facebook.com/watch/?v=4728801657442311&_rdr
   prepis: prepisy/done/2026-09-05_Československo-TV2_Videoportál.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-09-05-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Bitcoinová kauza: Jiříkovský odvolal „dar" ministerstvu ze „vzdoru"; notář Míka nově obviněn
+    z krytí (Zítko, 5. 9. 2026)'
+  text: 'Tomáš Jiříkovský odvolal svůj dřívější „dar" 960 mil. Kč (1 % z celkového lupu) ministerstvu
+    spravedlnosti — Zítko to čte jako „nevděk" za to, že je jediný z celé organizované skupiny, kdo skončil
+    ve vazbě, zatímco hlavní organizátoři (Pavel Blažek, Radomír Daňhel, advokát Karim Tyc) zůstávají
+    na svobodě. Opakuje již dříve zveřejněné navrhované tresty (viz [Bitcoinová kauza: detaily obžaloby,
+    4. 8.](#bitcoinová-kauza-detaily-obžaloby-a-rozšířený-okruh-podezřelých-zítko-4-8-2026)) a roli Any
+    Bednářové (ředitelka právního odboru MSp) v ověření daru jen na základě screenshotu — nově do stejné
+    role krytí zahrnuje i notáře **Lubomír Míku** (dle Zítka spolužáka Zbyňka Stanjury), který měl ověřit
+    dar bez přítomnosti u skutečného předání a spolu s Bednářovou nepřivolat policii, když zjistili porušení
+    smlouvy (bitcoiny přesunuté před schůzkou na jiné peněženky). Novým detailem je i tvrzení, že se Jiříkovský
+    při cestě do Asie neúspěšně pokoušel směnit část bitcoinů u pražské směnárny Bitplus (majitel Martin
+    Strácký ho odmítl kvůli rizikovosti transakce).'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

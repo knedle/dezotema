@@ -11,3 +11,21 @@ zdroj:
   poznamka: 'Střih z TV debaty — kritika konsolidace Fialovy vlády (dotace 10 mld Onsemi, rodičák pod
     inflací, zrušené slevy) a Rajchlův ekonomický recept (rovná daň, nejnižší energie, dotace českým firmám).
     Zhlédnutí: 184 466'
+vyroky:
+- id: rajchl-2026-06-04-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Konsolidace Fialovy vlády jako okrádání rodin + ekonomický recept PRO (Rajchl, 4. 6. 2026)
+  text: 'V televizní debatě Rajchl útočí na ekonomickou bilanci Fialovy vlády a staví proti ní program
+    PRO. Kritika „konsolidace": dotace 10 miliard Kč pro americkou firmu Onsemi (Rožnov pod Radhoštěm)
+    přepočítává na ~10 milionů Kč na jedno pracovní místo a označuje za selhání; vládní „ozdravení financí"
+    prý ve skutečnosti znamenalo zvýšení daní a sebrání peněz rodinám — rodičovský příspěvek byl o 16,6
+    % pod inflací a zrušení slev (na manžela, studenta, školkovné) připravilo mladé rodiny s dětmi o ~135
+    000 Kč za tři roky. Rajchlův recept (rozvíjí jeho program, viz [Flat tax 15 %, DPH 15 %](#flat-tax-15--dph-15--adresné-dluhopisy-a-státní-obchodník-s-plynem--rajchl-3-5-2026)):
+    nízká rovná daň a přehledný daňový systém umožňující znovu podnikat; nejnižší ceny energií (Fialova
+    vláda prý měla podle parity kupní síly nejvyšší cenu elektřiny na světě); veřejné pobídky mají směřovat
+    českým firmám, ne americkým, které „zázemí si zase odvezou".'
+  citace:
+  - text: Vy jste si váš dluh řešili z peněz našich dětí. [...] Vy jste jim to sebrali z jejich kapes.
+  podtema: Ekonomický program PRO

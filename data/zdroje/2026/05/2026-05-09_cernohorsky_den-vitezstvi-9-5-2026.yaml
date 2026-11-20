@@ -9,3 +9,48 @@ zdroj:
   rezim: standard
   delka: '1:44:44'
   poznamka: Přepis zkrácen (1100 z 2201 řádků)
+vyroky:
+- id: cernohorsky-2026-05-09-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: 'Prezidentská debata 2013: Schwarzenberg — Beneš měl být souzen; Zeman — „mluví jako sudeťák"
+    (Černohorský)'
+  text: |-
+    Jiří Černohorský opakovaně odkazuje na prezidentskou debatu roku 2013 mezi Karlem Schwarzenbergem a Milošem Zemanem. Schwarzenberg naznačil, že Eduard Beneš by byl dle dobových norem souzen před Haagským tribunálem za organizaci odsunu sudetských Němců. Zeman mu odpověděl: „Ten, kdo označí jednoho z prezidentů Československa za válečného zločince, mluví jako sudeťák." Schwarzenberg debatu prohrál. Černohorský tuto výměnu cituje jako doklad toho, kdo skutečně hájí českou suverenitu a Benešovy dekrety.
+
+    > „Ten, kdo označí jednoho z prezidentů Československa za válečného zločince, mluví jako sudeťák." — Miloš Zeman (citováno Černohorským), [Den vítězství (9. 5. 2026)](_zdroje.md#jiří-černohorský--den-vítězství-9-5-2026)
+  podtema: Podstata dekretů, odsun a smíření
+- id: cernohorsky-2026-05-09-02
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Rudá armáda jako mnohonárodní osvoboditelská síla — 9 milionů padlých — Černohorský (9. 5. 2026)
+  text: |-
+    Na 9. května Černohorský zdůrazňuje, že Rudá armáda nebyla výlučně ruská — bojovali v ní Ukrajinci, Litevci, Moldavané, Kazaši, Estonci, Gruzínci, Tádžikové a příslušníci dalších národů SSSR. Přibližně 9 milionů vojáků Rudé armády zemřelo při porážce nacismu. Tito padlí nemohou být viněni za pozdější sovětské represe — za potlačení maďarského povstání (1956) nebo invazi do Československa (1968) — protože tehdy byli již dávno mrtví. Uznání 9. května je proto závazkem vůči konkrétním lidem, kteří za českou svobodu zahynuli.
+
+    Černohorský kritizuje pražského zastupitele Ondřeje Koláře (Piráti) za strhnutí sochy maršála Koněva a demonstrace s ukrajinskými, NATO a EU vlajkami u sovětských válečných hřbitovů jako urážku padlých.
+  citace:
+  - text: Těm lidem dlužíme, že vůbec existujeme. Že mluvíme česky.
+  podtema: Podstata dekretů, odsun a smíření
+- id: cernohorsky-2026-05-09-03
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: 'Babušíková (ČRo): Posselt je „největší český patriot" — Černohorský pohoršen (9. 5. 2026)'
+  text: Jiří Černohorský sdílel video Jiřiny Babušíkové — komentátorky Českého rozhlasu a někdejší pracovnice
+    Radio Free Europe — v němž Babušíková označila Bernda Posselta za „největšího českého patriota." Posselt
+    je předsedou Sudetoněmeckého Landsmannschaftu a dlouhodobě prosazuje revizi Benešových dekretů. Černohorský
+    výrok považuje za příklad toho, jak mainstreamová média systematicky normalizují Landsmannschaft a
+    jeho agendu.
+  podtema: Bernd Posselt a požadavky na zrušení dekretů
+- id: cernohorsky-2026-05-09-04
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Lipská burza jako podmínka skutečného partnerství s Německem — Černohorský (9. 5. 2026)
+  text: Černohorský požaduje zrušení závislosti na Lipské burze (Leipzig Energy Exchange, EEX) jako podmínku
+    rovnoprávného partnerství s Německem. EEX je hlavním místem obchodování s elektřinou v Evropě — dokud
+    ČR nakupuje elektřinu přes tuto burzu, nemohou být česko-německé vztahy dle Černohorského skutečně
+    rovnoprávné.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

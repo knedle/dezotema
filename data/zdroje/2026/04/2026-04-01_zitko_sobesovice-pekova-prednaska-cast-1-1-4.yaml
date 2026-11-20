@@ -8,3 +8,17 @@ zdroj:
   prepis: prepisy/done/2026-04-01_Československo-TV2_Videoportál_2.txt
   rezim: standard
   delka: 1:40:28 — 28. 3. 2026 Soběšovice, MUDr. Peková přednáška, 1. část
+vyroky:
+- id: zitko-2026-04-01-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Remdesivir a ventilátory: skutečná příčina covidových úmrtí'
+  text: |-
+    Pavel Zítko tvrdí, že jeho matka zemřela 20. října 2020 v přímém důsledku protokolu remdesivir+ventilátor — preparát označovaný jako lék prý způsobil selhání jater a ledvin. Obecněji tvrdí, že 95 % hospitalizovaných na JIP bylo intubováno, přičemž 8 z 10 pak zemřelo — nikoliv na virus, ale vlivem ventilátoru. Remdesivir přirovnává k preparátu testovanému při epidemii eboly v Africe, kde byl zastaven pro 53% smrtnost. Tento výsledek se podle Zítka zopakoval i při covidu a vytvářel statistické „covidové oběti".
+
+    ⚡ **Konflikt:** Remdesivir je WHO a FDA schválenou léčbou těžkého průběhu COVID-19; klinické studie neprokázaly nadměrnou smrtnost v porovnání s kontrolními skupinami.
+  citace:
+  - text: SARS-CoV-2, který nikdy nebyl izolován, ho prostě zabít nemohl. Cestu k úmrtí vedl přes remdesivir,
+      přes ventilátor, který byl nastaven nevhodně.
+  podtema: Vakcíny

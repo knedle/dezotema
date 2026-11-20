@@ -13,3 +13,53 @@ zdroj:
     (3) Zpochybnění mamografie jako diagnostiky — [covid-vakciny.md](covid-vakciny.md). (4) Rakovina jako
     „pouzdro na toxiny" (Dr. Cohen), kritika chemoterapie — [covid-vakciny.md](covid-vakciny.md). Bez
     predikcí a stoch. teroru.'
+vyroky:
+- id: tarabova-2026-07-08-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Nárůst onkologických pacientů dáván do souvislosti s covid vakcinací od roku 2021
+  text: V reakci na článek Aktuálně.cz o 30% nárůstu onkologických pacientů v ČR za posledních 10 let
+    (z 542 na 705 tisíc, u rakoviny krve až 37 %) Tarabová namítá, že v datech chybí klíčové rozlišení
+    — kolik pacientů bylo vyléčeno, kolik zemřelo, u kolika se nemoc vrátila po léčbě. Klade otázku, zda
+    je uváděný nárůst rozložen rovnoměrně za celou dekádu, nebo je výrazně strmější až od roku 2021, kdy
+    začalo plošné očkování proti covidu — čímž naznačuje příčinnou souvislost mezi vakcinací a nárůstem
+    onkologických onemocnění, aniž by uvedla konkrétní data k tomuto srovnání.
+  podtema: 'Rakovina: nárůst, diagnostika a alternativní výklad příčin (Tarabová, 8. 7. 2026)'
+- id: tarabova-2026-07-08-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Zpochybnění mamografie jako diagnostické metody
+  text: Tarabová zpochybňuje spolehlivost a snesitelnost mamografického vyšetření — popisuje ho jako „velice
+    bolestivé" a srovnává se situací, kdy by muži podstupovali analogicky bolestivé vyšetření penisu;
+    ptá se, zda by za takových podmínek muži o podobné preventivní metodě vůbec uvažovali. Obecněji poukazuje
+    na to, že diagnostické přístroje jsou ve světě předmětem odborných pochybností.
+  podtema: 'Rakovina: nárůst, diagnostika a alternativní výklad příčin (Tarabová, 8. 7. 2026)'
+- id: tarabova-2026-07-08-03
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Rakovina jako „pouzdro na toxiny" (Dr. Cohen) — zpochybnění chemoterapie
+  text: Tarabová popisuje rakovinu jako civilizační chorobu vznikající z nárůstu toxicity v těle a cituje
+    (blíže nespecifikovaného) „světově známého doktora Cohena", podle něhož je nádor pouzdro, které si
+    tělo vytváří, aby zachytilo veškeré toxiny. Naznačuje, že chemoterapie nemusí být skutečnou léčbou,
+    ale spíše „dalším komerčním systémem západní medicíny", a vyzývá k hledání příčin nemoci a spolupráci
+    se zastánci alternativních léčebných přístupů namísto pouhého řešení důsledků.
+  podtema: 'Rakovina: nárůst, diagnostika a alternativní výklad příčin (Tarabová, 8. 7. 2026)'
+- id: tarabova-2026-07-08-04
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Babišův střet zájmů v onkologické péči (Tarabová, 8. 7. 2026)
+  text: 'V reakci na článek o nárůstu onkologických pacientů Tarabová dohledává majetkové propojení Andreje
+    Babiše se zdravotnictvím: přímo žádnou specializovanou onkologickou kliniku nevlastní, ale přes investiční
+    fond Hartenberg Holding a zdravotnickou skupinu Future Life ovládá zařízení nabízející preventivní
+    onkologické programy a mamografii — konkrétně pražskou kliniku ISCARE (primárně reprodukční medicína,
+    gastroenterologie, plastická chirurgie, ale i nadstandardní onkologické prohlídky) a Polikliniku Modřany
+    (mamologická a onkologická ambulance). Souběžně Babiš politicky a investičně dlouhodobě prosazuje
+    výstavbu nových onkocenter a modernizaci vybavení nemocnic — zmiňuje Národní onkologické centrum v
+    Motole (4,5 mld. Kč, otevření plánováno na srpen 2026, původně mělo být na Královských Vinohradech),
+    Centrum onkologické prevence v Brně (otevřel v květnu 2026) a rekonstruovaný onkologický pavilon v
+    Krči (101 mil. Kč, spolufinancováno EU). Tarabová tím poukazuje na propojení soukromého podnikatelského
+    zájmu s veřejně prosazovanou zdravotní politikou, aniž by tvrdila přímé vlastnictví onkologické kliniky.'

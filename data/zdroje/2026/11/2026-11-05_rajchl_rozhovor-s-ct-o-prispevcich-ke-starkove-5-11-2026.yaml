@@ -9,3 +9,22 @@ zdroj:
   rezim: standard
   poznamka: 9 min, rozhovor s reportérem ČT; výhrůžky citované Rajchlem (Hedija) nejsou jeho výroky, proto
     nejsou ve stochastickém teroru.
+vyroky:
+- id: rajchl-2026-11-05-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Mediální lynč vs. selektivní ticho
+  text: '**5. 11.** — V rozhovoru s reportérem ČT Rajchl odmítá osobní odpovědnost za komentáře pod příspěvky
+    o Stárkové a jejich stažení: napsal prý jen ověřitelná fakta bez urážek a výzev, kterými měla veřejnost
+    informovat sama ČT. Advokátní komoře, která se jeho příspěvky zabývá, vyčítá, že neřešila Václava
+    Lásku, který ho den po atentátu na Roberta Fica označil za „pacienta z Moskvy“. Policie podle něj
+    nechala bez následku, že aktivista den po žhářském útoku na výrobnu dronů zveřejnil adresu jeho domu
+    s tvrzením, že se tam vyrábějí drony, a že člen jihomoravské ODS Jakub Hedija napsal „na každou svini
+    se vaří voda, stačí škrtnout sirkou, adresu známe“. Dále jmenuje Forum24 a Reflex („Putinův mazlíček“)
+    a Matěje Ondřeje Havla, který Vachatovou označil za „obdivovatelku ruských teroristů“; ČT podle něj
+    u ničeho z toho „nebyla“.'
+  citace:
+  - text: Ukažte mi, co je na něm nepravdivého, nebo jestli je tam jakákoliv vulgarita, jestli je tam
+      výzva k nějaké nenávisti, k nějakému násilí.
+  podtema: Dvojí metr v médiích

@@ -7,3 +7,18 @@ zdroj:
   url: https://www.facebook.com/61586055215179/videos/1033825379454564
   prepis: prepisy/done/2026-08-28_Restart-Cesko_Videoportál.txt
   rezim: standard
+vyroky:
+- id: sejna-2026-08-28-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Srovnání Masarykovy republiky s dnešním stavem svobody slova (Šejna, 28. 8. 2026)
+  text: 'Šejna vychází z Masarykova prvního prezidentského projevu (citujícího Komenského) a připomíná,
+    že republika nebyla darem, ale výsledkem boje a obětí — měla stát na svobodném občanovi, demokracii,
+    odpovědnosti a pravdě, se státem sloužícím občanovi. Klade otázku, jak se společnost od tohoto ideálu
+    dostala k dnešnímu stavu, kdy se lidé znovu bojí říkat nahlas některé názory, svoboda slova je oslavována
+    jen do chvíle, než někdo řekne něco nepohodlné, a stát i evropské instituce stále hlouběji zasahují
+    do každodenního života občana — vždy s odůvodněním, že je to „pro jeho dobro". Popisuje současný vztah
+    občan–stát jako obrácený: z odpovědného občana se stává někdo, komu politici vysvětlují, co si má
+    myslet, jak žít a co obětovat ve jménu jejich představ o lepším světě.'
+  podtema: USA — volební systém

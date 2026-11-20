@@ -8,3 +8,45 @@ zdroj:
   prepis: prepisy/done/2026-03-31_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: '4:56'
+vyroky:
+- id: pekova-2026-03-31-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Sbírání podpisů pro prezidenta Pavla
+  text: 'Soňa Peková (virolog, soudní znalkyně) a Pavel Zítko organizují akci: fyzicky sbírají podpisy
+    pod peticí adresovanou prezidentu Petru Pavlovi, v níž ho vyzývají, aby se vyjádřil k pochybením v
+    době covidu a k obžalobě Zítka a Pekové za „šíření poplašné zprávy". Peková zdůrazňuje, že jde výhradně
+    o fyzické podpisy (ne elektroniku), aby bylo jasné, že nejde o robotické akce. Počet podpisů označuje
+    za nepodstatný — důležité je ukázat, že veřejnost problém vnímá. Tour pokračuje po celé ČR (Doksy,
+    Most, Bedřichov, Krásná Lípa, Plzeň).'
+  citace:
+  - text: Nemůže nám zavřít dveře před nosem pan prezident, kterého si nesmírně vážíme za jeho morální
+      autoritu.
+  mluvci: pekova
+  dalsi_zdroje:
+  - 2026-04-02_zitko_covid-tour-ohlaseni-2-4
+  podtema: Petice za odpovědnost — akce Peková
+- id: zitko-2026-03-31-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Tečka za covidem: tribunál pro odpovědné'
+  text: 'Pavel Zítko formuluje podmínku, za níž se kauza covidu uzavře: „Tečka za covidem bude, až všichni
+    odpovědní budou stát před tribunálem a budou čelit spravedlivému trestu." Cituje německého lékaře
+    Güntera Franka. COVID tour je přímou cestou k naplnění tohoto cíle — sbírání podpisů, osvěta a tlak
+    na politiky.'
+  dalsi_zdroje:
+  - 2026-04-10_zitko_zahrivaci-kolo-covid-19-chemoterapie-5g-tribunal-10-4-2026
+  podtema: Volání po tribunálu
+- id: zitko-2026-03-31-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Peková a Zítko stíháni za „šíření poplašné zprávy"
+  text: Soňa Peková a Pavel Zítko jsou trestně stíháni za „šíření poplašné zprávy" v souvislosti se svými
+    vyjádřeními o pandemii a vakcínách. Zítko a Peková to prezentují jako politické pronásledování kritiků
+    covidových opatření a vyzývají prezidenta Petra Pavla, aby se k věci vyjádřil. Peková tvrdí, že jí
+    nikdo z politiků — ani Petr Kotlár, ani Robert Fico, ani prezident Pavel — nepřijal k přezkoumání
+    vzorky vakcín.
+  podtema: Trestní stíhání kritiků covidu

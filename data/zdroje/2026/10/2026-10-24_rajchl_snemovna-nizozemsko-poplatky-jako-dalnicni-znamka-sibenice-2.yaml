@@ -8,3 +8,32 @@ zdroj:
   prepis: prepisy/done/2026-10-24_Jindřich-Rajchl_V-Holandsku-je-tamější-veřejnoprávní-televize-placena.txt
   rezim: standard
   poznamka: 2 min 6 s, výstup ve Sněmovně v debatě o financování ČT.
+vyroky:
+- id: rajchl-2026-10-24-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: 'Rajchl: dobrovolné koncesionářské poplatky jako jediné spravedlivé řešení'
+  text: '**24. 10.** — Ve sněmovní debatě Rajchl odmítá argument, že poplatky zaručují ČT dlouhodobou
+    finanční jistotu. Jako příklad uvádí Nizozemsko: tamní veřejnoprávní média jsou od roku 2000 placená
+    ze státního rozpočtu, pro rok 2027 jim vláda chystá škrty až 150 mil. € a restrukturalizaci NPO, a
+    „vůbec nic“ se nestalo. Poplatky by podle něj šlo stejně snadno snížit na korunu, takže rozpočet dává
+    ČT naopak větší jistotu. Spravedlivější by ale byly dobrovolné poplatky. Povinné poplatky přirovnává
+    k tomu, kdyby každý majitel auta musel platit dálniční známku.'
+  citace:
+  - text: Prostě pokud nějakou službu nevyužívám, nemám jediný důvod za ni platit.
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-10-24-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: '„Šibenice nikdy nebyly na mé demonstraci“: atmosféru rozpoutala bývalá vláda (Rajchl, 24. 10.
+    2026)'
+  text: Ve Sněmovně Rajchl odpovídá kolegovi (v přepisu „Činčila“), který mu vyčítal davy a šibenice na
+    demonstracích. Demonstrace podle něj svolával mimo jiné proti prodloužení pandemického zákona. Demonstranti
+    tehdy na Malostranském náměstí vyslali delegaci k jednání, ale nikdo z poslanců s nimi nemluvil. Šibenice
+    na jeho demonstracích prý nikdy nebyly. Na to, že mu dnes musí policie klestit cestu do Sněmovny,
+    reaguje tím, že tuto atmosféru „rozpoutali“ oni.
+  citace:
+  - text: Tohle jste vy tady rozpoutali. Gratuluju vám.
+  podtema: Politická kultura

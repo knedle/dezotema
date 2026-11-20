@@ -9,3 +9,147 @@ zdroj:
   rezim: vrabel
   poznamka: 'Nedělní vysílání, odpovědi na dotazy diváků (Zuzka moderuje). Klipy: Pavel na Fox News, Babiš
     o Macronově iniciativě.'
+vyroky:
+- id: vrabel-2026-09-27-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Fico žádá summit EU kvůli cenám nafty — „cynismus"; jediné řešení je ruská ropa a vystoupení
+    z NATO (Vrabel, 23. 9. 2026)
+  text: '**27. 9.** — Proč se nekupuje ruská ropa a plyn: podle Vrabela kvůli korupci — i za studené války
+    se plyn vozil, dnes se nakupuje přes prostředníky (USA), „aby si na tom nakradli", a „nakonec to vede
+    k válce, ta korupce". „Lumpové" Macinka a Babiš pomáhají USA udržet moc kvůli penězům; Macinka „celý
+    život nosil tašku Klausovi", jehož syn „hlídá ČEZ".'
+  podtema: Rusko a energetická krize EU
+- id: vrabel-2026-09-27-02
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: CBDC a digitální euro jako nástroj kontroly — Velký Reset (Vrabel, 31. 5. 2026)
+  text: '**27. 9.** — Digitální euro bylo podle Vrabela spuštěno „mezi firmami"; až nebude hotovost, „nebudeme
+    mít žádný peníze" — jen naprogramovaný účet, se kterým může kdokoliv „cokoliv udělat".'
+- id: vrabel-2026-09-27-03
+  typ: tvrzeni
+  temata:
+  - jaderne-zbrane
+  nadpis: Vrabel vyhlašuje zářijovou demonstraci proti jaderným zbraním v ČR — vysvětlení „jaderného deštníku"
+    (Vrabel, 12. 7. 2026)
+  text: '**27. 9.** — Francouzský „jaderný deštník" podle Vrabela neexistuje — jde o útočné zbraně (Rafale
+    s ASMP), které Francie přiveze teprve ve chvíli nejvyššího nebezpečí a o jejichž použití bude rozhodovat
+    sama; odstrašení je nesmysl, protože Francie a Británie mají stovky hlavic, Rusko 5–6 tisíc („jako
+    kdyby přišel k Miku Tysonovi a řekl mu: hele, nechci se s tebou prát, ale mám tady boxerky"). Podle
+    ukrajinského média Rusko modernizuje bunkr na Uralu se systémem „Mrtvá ruka", který odpálí zbraně,
+    i kdyby byli všichni mrtví, a ruští velitelé na frontě prý už mají povolení bez souhlasu politického
+    vedení odvetit na Evropu, přijde-li útok z evropského území — „ten rozkaz už padl"; proti Kinžálu,
+    Orešniku a Sarmatu („od Berlína až do Prahy") prý neexistuje obrana. Shromáždění 3. 10. má vytvořit
+    tlak, aby vláda smlouvu s Francií nepodepsala — „při milionu lidí si to netroufnou podepsat".'
+- id: vrabel-2026-09-27-04
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 'Chemtrails: sypání těžkých kovů do atmosféry; větrníky 60 kg nanočástic (Vrabel, 15. 5. 2026)'
+  text: '**27. 9.** — „Blázen je ten, kdo o tom nechce mluvit"; nad Srbskem chemtrails prý skoro nevidí,
+    od maďarské hranice je „celá Evropa posypaná".'
+  podtema: Historické konspirační výklady
+- id: vrabel-2026-09-27-05
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Jídlo jako otrava a ovlivňování počasí — „rozemletí červi", fluor, GMO rajčata; déšť po zničení
+    amerických radarů v Íránu (Vrabel, 27. 9. 2026)
+  text: Vrabel tvrdí, že lidem připadá normální, že „nám sypou červy rozemletý do jídla", fluor do zubní
+    pasty a vody a geneticky upravená rajčata, která „po dešti byla jak nová"; pečivo v ČR má prý „divnou
+    chuť" a v Nizozemsku umírají krávy na léky proti plynatosti, zatímco se farmy vykupují (v Srbsku je
+    podle něj GMO zakázané). K ovlivňování počasí uvádí, že v Íránu „vyhodili do povětří americké radary
+    a najednou jim začalo pršet" — „když nějaká země nesouhlasí, tak je tam zemětřesení nebo sucho".
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-09-27-06
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: „Donald Trump nepracuje pro Spojené státy" — uzavřením Hormuzu rozbíjí americký systém (Vrabel,
+    25. a 27. 9. 2026)
+  text: 'Vrabel si „není úplně jistý, že Donald Trump pracuje pro Spojené státy" — spíš podle něj spolupracuje
+    na rozpadu systému „Pax Americana": uzavřel Hormuz a Bab al-Mandab a s nimi ropu, plyn, hnojiva a
+    amoniak, čímž rozbíjí ekonomiku „just in time" (v Češnovicích u Budějovic prý neprodávají naftu, ve
+    Francii je zavřená „asi každá devátá benzinka"). Trump je pro něj horší než Biden: „zabil malý holčičky
+    v Íránu", „vyvraždil celou vládu" a „normalizoval vraždění". Současnou vládu Babiše označuje za „vládu
+    podvodníků a herců", horší než Fialovu, která byla „krutá, ale rovná".'
+  dalsi_zdroje:
+  - 2026-09-25_vrabel_tv-bures-clovek-na-1-miste-25-9-2026
+- id: vrabel-2026-09-27-07
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: „Donald Trump nepracuje pro Spojené státy" — uzavřením Hormuzu rozbíjí americký systém (Vrabel,
+    25. a 27. 9. 2026)
+  text: '**27. 9.** — Vrabel tezi opakuje („podle mě Donald Trump nepracuje pro Spojené státy") a rozšiřuje:
+    USA jsou „kopající umírající kobyla", válka na Ukrajině je boj USA s Rusem jako nástupcem multipolárního
+    světa a Anglosasové vedou „válku proti Slovanům" jako za druhé světové. K výroku Zelenského o Ukrajině
+    jako „velkém Izraeli" připomíná, že obnovu Ukrajiny má na starosti BlackRock — „globalismus a sionismus
+    jde ruku v ruce".'
+- id: vrabel-2026-09-27-08
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Legální i nelegální migrace je stejná „sebevražda Evropy" — model rotačních pracovních víz;
+    kritika Konečné (Vrabel, 22. 9. 2026)
+  text: '**27. 9.** — Na dotaz o bezpečnosti v Egyptě Vrabel radí vyhnout se „všem nacistickým a islámským
+    státům" (Francie, Británie, Norsko, Švédsko, Egypt) — „v islámské zemi to nikdy není bezpečné"; používá
+    rasovou nálepku „čmoudi" a výslovně se za ni neomlouvá.'
+- id: vrabel-2026-09-27-09
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Pavel „troubí do války" — ve sporu s Ficem o čl. 5 NATO (Rajchl, 24. 9. 2026)
+  text: '**27. 9. (Vrabel)** — K Pavlovu projevu v OSN, že Krym je ukrajinský, Vrabel namítá, že „Krym
+    je samozřejmě ruský" a ČR se tím zavazuje podporovat Ukrajinu až do porážky Ruska.'
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: vrabel-2026-09-27-10
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Muniční iniciativa jako „zrada národa" a „ani koruna na Ukrajinu" jako podvod — „posílá se víc
+    než za Fialy" (Vrabel, 27. 9. 2026)
+  text: 'Vrabel tvrdí, že Babiš porušením slibu zrušit muniční iniciativu (po summitu NATO v Bruselu)
+    „zradil český národ": ČR hraje „užitečného idiota", za kterého se schovávají velké země — přes ČR
+    jde podle něj přes polovinu veškeré munice — a Rusko si ji tak může vybrat jako terč „výstražné rány".
+    Heslo „ani koruna na Ukrajinu" je podle něj podvod: Macinka „svazácky" poslal 140 milionů do PURL
+    a Babiš pět dní po jmenování zvedl ruku pro půjčku 90 mld. eur (z toho 60 mld. na zbraně) — ČR za
+    dluhopisy EU „nebude ručit, ale bude to platit" přes rozpočet EU; dluhopisy prý ani nebyly vydány,
+    protože EU nikdo nechce půjčit, a půjčka nevydrží dva roky, „možná rok". Na Ukrajinu se podle něj
+    nyní posílá víc než za Fialy.'
+  citace:
+  - text: Česká republika za to nebude ručit, ale bude to platit.
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-27-11
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Konkrétní návrh: ČR podle vzoru Srbska — vojenská neutralita + obchod se všemi bloky (Vrabel,
+    5. 7. 2026)'
+  text: '**27. 9.** — Vojenská neutralita je podle Vrabela „jediná záruka bezpečí"; Vučić je „jediný normální
+    politik v Evropě" a Fico prý řekl, že by Slovensku „svědčila neutralita". Pro případ války doporučuje
+    jako jediné bezpečné místo Srbsko (neutrální, potravinově soběstačné, s levným plynem a jako jediné
+    v Evropě kromě Ruska s hypersonickými zbraněmi).'
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-27-12
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: ČR jako „nepřiznaný protivník" Ruska — konflikt je nevyhnutelný; scénář „za dvě hodiny článek
+    5"; „diverzifikace" jako příprava na zničení ruské ropné infrastruktury (Vrabel, 27. 9. 2026)
+  text: 'Vrabel tvrdí, že ČR je „nepřiznaný protivník" Ruska — posílá dobrovolníky, drony, letadla L-39,
+    granáty a peníze. Rusko podle něj nemůže útočit na infrastrukturu NATO, zatímco Západ ničí tu ruskou;
+    pokud to Rusko nezmění, prohraje vyčerpáním, a proto je přímý konflikt „nevyhnutelný" a může začít
+    „každým dnem" — stačí sporné narušení vzdušného prostoru a sestřel: „během hodiny se sejdou bezpečnostní
+    štáby [...] a během další hodiny vyhlásí stav ohrožení země a uplatnění článku 5" a zavřou se hranice.
+    Odstřižení od ruské ropy a plynu („diverzifikace") dávalo podle něj smysl jen tehdy, když Západ plánoval
+    zničit ruskou ropnou infrastrukturu, což prý posledních několik měsíců dělá — „to nám neřekli dopředu".
+    Za dalšího na řadě považuje Polsko (s odkazem na „Kalergiho" plán) a ČR bude podle něj „islamizovaná
+    úplně stejně" jako ostatní západní země, protože Babiš proti migračnímu paktu neudělal žádný legislativní
+    krok. Posluchačům, kteří se ptají, kam utéct, říká, že jsou „už půl roku pozdě"; jediné bezpečné místo
+    je Srbsko.'
+  citace:
+  - text: My jsme jejich protivník. Nepřiznaný, ale protivník.
+  podtema: Zahraniční aktéři a precedenty

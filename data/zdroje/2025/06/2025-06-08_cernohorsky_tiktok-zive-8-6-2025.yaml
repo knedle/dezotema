@@ -7,3 +7,144 @@ zdroj:
   prepis: prepisy/done/2025-06-08_Jiří-Černohorský-Živě_včera-na-Tikyťoku-opět-nekorektně.txt
   rezim: standard
   delka: '2:18:50'
+vyroky:
+- id: cernohorsky-2025-06-08-01
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: Facebook jako soukromá firma nad ústavou
+  text: 'Jiří Černohorský popisuje, že mu byly smazány všechny facebookové profily i stránky spolku Česká
+    Svoboda Respekt, a to bez udání důvodu a bez možnosti zakládat nové profily na žádném ze svých zařízení.
+    Označuje tuto situaci za zásadní systémový problém: Facebook jakožto soukromá firma si nárokuje pravomoc
+    nad ústavními právy českých občanů ve virtuálním prostoru, přičemž nemusí dodržovat české zákony.
+    Uvažuje o podání mezinárodní žaloby v Irsku (sídlo Facebooku) za šikanu osoby a omezení činnosti registrovaného
+    spolku.'
+  citace:
+  - text: Takhle mě zablokovali, říkám, Facebook tak, že já se na aplikaci Facebooku ani na jednom z těchto
+      mobilů nejsem schopen přihlásit.
+  - text: Chci to udělat proto, aby to byl takový příklad, aby to ty zmrdi nemohli dělat dalším.
+  podtema: Blokování na sociálních sítích
+- id: cernohorsky-2025-06-08-02
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: Svoboda slova v ČR jako iluze
+  text: Černohorský odmítá, že by v ČR existovala skutečná svoboda slova. Jako konkrétní příklad uvádí
+    incident v České televizi, kde byl moderátorem přerušen plzeňský primátor, který chtěl vyjádřit názor,
+    že mladí Ukrajinci schopní vojenské služby by měli bojovat za Ukrajinu místo pobytu v ČR.
+  citace:
+  - text: V české televizi moderátor umlčel primátora města Plzně. Takže o čem se tady chcete bavit? Jaká
+      svoboda slova? Jaká svoboda názoru?
+  podtema: Blokování na sociálních sítích
+- id: cernohorsky-2025-06-08-03
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Hodnocení bitcoinové kauzy
+  text: Jiří Černohorský hodnotí kauzu kolem konfiskovaných bitcoinů (odhadované hodnoty přes 90 miliard
+    Kč) jako dosud největší skandál, překonávající Dozimetr i Kampelička. Obviňuje, že FBI a mezinárodní
+    vyšetřovatelé o věci věděli, zatímco česká vládní strana tvrdila, že o ničem nevěděla. Ministra Blažka
+    označuje za „bílého koně" — osobu se skutečným majetkem ukrytým na Kajmanech. Naznačuje možné spojení
+    s obchodem na darknetu a s obchodem s lidmi, tato tvrzení však prezentuje jako hypotézy.
+  citace:
+  - text: Tadle kauza... tohle není kauza. To je organizovaný zločin. To je organizovaný zločin na Darknetu.
+  podtema: Kauza Bitcoin — organizovaný zločin ve státní správě
+- id: cernohorsky-2025-06-08-04
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Sametová revoluce jako řízený rozpad StB a KGB
+  text: |-
+    Jiří Černohorský tvrdí, že sametová revoluce v roce 1989 byla naplánovaným rozkladem Československa organizovaným ze Západu, na němž se podíleli Václav Havel a Karel Schwarzenberg již v 80. letech. Havla označuje za člena „kolaborantské rodiny", Schwarzenberga za cizího státního příslušníka.
+
+    Pavel Zítko tuto interpretaci přijímá a rozvíjí: sametová revoluce byla dle jím čteného slovenského článku „puč provedený pod dirigentskou taktovkou StB a KGB" za pomoci agentů-zivčáků. Vysvětluje, proč komunisté po roce 1989 nijak neutrpěli — naopak ze dne na den se stali největšími podnikateli, protože měli informace o kupónové privatizaci, kterou Zítko označuje za „zlodějinu za bílého dne, kde se rozkrádalo bohatství Československa".
+  citace:
+  - text: To, co se odehrálo v 89., byl naplánovaný rozvrat Československa, a na tomhle naplánovaném rozvratu
+      Československa se podílel už tehdy Václav Havel a Schwarzenberg.
+  dalsi_zdroje:
+  - 2026-04-09_zitko_vecernik-8-dubna-havel-a-rozdeleni-ceskoslovenska-9-4-2026
+- id: cernohorsky-2025-06-08-05
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: ČT umlčuje nepohodlné výroky
+  text: Jiří Černohorský tvrdí, že Česká televize aktivně zabraňuje svobodnému projevu v živém vysílání
+    — jako konkrétní příklad uvádí moderátorem přerušeného plzeňského primátora, který chtěl říct, že
+    mladí Ukrajinci schopní vojenské služby by měli bojovat za Ukrajinu, nikoliv pobývat bez práce v ČR.
+  citace:
+  - text: V české televizi moderátor umlčel, umlčel primátora města Plzně. Takže o čem se tady chcete
+      bavit? Jaká svoboda slova? Jaká svoboda názoru?
+  podtema: Česká televize a mainstreamová média
+- id: cernohorsky-2025-06-08-06
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Zastupitelská demokracie jako totalita
+  text: Jiří Černohorský explicitně odmítá, že by v České republice existovala skutečná demokracie — a
+    to nejenom fakticky, ale i systémově. Zastupitelskou demokracii označuje jako totalitu skrytou pod
+    pláštíkem demokracie. Za klíčový chybějící prvek považuje neexistenci prováděcího zákona o celostátním
+    referendu, díky němuž by občané mohli přímo zasahovat do rozhodnutí politiků. Odkazuje na preambuli
+    Ústavy ČR jako na dokument, který to při pozorném čtení prokazuje.
+  citace:
+  - text: V České republice žádná demokracie není. V České republice žádná demokracie nebyla, není a za
+      současného parlamentního systému žádná demokracie ani nebude, protože ústava je ohnutá jako prase.
+  - text: Zastupitelská demokracie je za mě totalita schovaná právě pod pláštíkem demokracie. Stačí si
+      přečíst preambuly ústavy České republiky a kdo jenom to čte pozorně a chápe ty souvislosti, tak
+      musí dojít, že to, co říkám, je pravdou.
+  dalsi_zdroje:
+  - 2025-06-15_cernohorsky_volby-a-demokracie-15-6-2025
+  podtema: Demokracie a politický systém
+- id: cernohorsky-2025-06-08-07
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Valorizace důchodů vs. platy politiků — dvojí metr
+  text: 'Černohorský upozorňuje na systémový nepoměr: přes 3,3 milionu seniorů přišlo o minimálně 13 000
+    Kč na valorizaci důchodů, zatímco poslanci si na základě zákona o automatické valorizaci vlastních
+    platů přidali automaticky (příklad: předsedkyně sněmovny Pekarová si přidala 30 000 Kč měsíčně ke
+    svým 274 000 Kč). Tento dvojí metr považuje za klíčový důkaz absence demokratické odpovědnosti.'
+  citace:
+  - text: 108 parazitů, zločinců, podvodníků, hlupáků, tupých slepic ovládají tuhle republiku, a jednoznačně,
+      o své vůli, zlovůli, okradli seniory... minimálně o 13 tisíc korun.
+  podtema: Sociální politika — senioři
+- id: cernohorsky-2025-06-08-08
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Fragmentace vlastenecké scény jako strategická chyba
+  text: |-
+    Černohorský ostře kritizuje vnitřní konflikty na vlastenecko-opozičním spektru. Konkrétně kritizuje Jindřicha Rajchla (PRO) za útoky na Kateřinu Konečnou (Stačilo) kvůli jejímu postoji k očkování. Považuje to za strategicky škodlivé, zejména pokud PRO zároveň plánuje spolupracovat s Babišem.
+
+    O rok později (22. 5. 2026) Černohorský rozlišuje mezi „vlasteneckými spolky" (které existují) a „vlasteneckou scénou" (která neexistuje): každá iniciativa jede svůj vlastní projekt, chybí propojení a koordinace. Otázku, kdo konkrétně tvoří „vlasteneckou scénu", pokládá jako výzvu: Vyjmenujte mě ji. Jako základ pro větší vliv vidí propojení iniciativ přes platformu — o to se snaží od června 2022 (Společenství).
+  citace:
+  - text: Nech Katku Konečnou na pokoji. Neser se do ní, ničemu ti to nepomůže, ničemu to neprospěje a
+      je to na hovno.
+  dalsi_zdroje:
+  - 2026-05-22_cernohorsky_fb-live-22-5-2026
+  podtema: Volby
+- id: cernohorsky-2025-06-08-09
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Vládní politika označena za fašismus — argumentace
+  text: 'Černohorský vysvětluje, proč vládu označuje za „fašistickou" a ne „nacistickou": nacismus zahrnuje
+    určitý (zvrácený) nacionalismus, kdežto Fialova vláda nemá s pronárodními zájmy nic společného. Za
+    klíčový důkaz označuje hlasování v Poslanecké sněmovně — Fiala hlasoval proti tomu, aby sněmovna odsoudila
+    adoraci nacistického kolaboranta Yaroslava Hunky (SS Waffen) v kanadském parlamentu.'
+  citace:
+  - text: Tady máte jasný důkaz toho, že je tato chamrať, fialovo-modrožlutá chamrať, fašistická, není
+      o čem.
+  podtema: Politická kultura
+- id: cernohorsky-2025-06-08-10
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Západ jako viník války na Ukrajině
+  text: |-
+    Jiří Černohorský viní ze vzniku války na Ukrajině západ, nikoliv Rusko. Rusko prý od rozpadu Varšavské smlouvy žádalo o jednání a opakovaně varovalo. Putina označuje za „osvíceného diktátora" a „velkou osobnost", přičemž autoritářský režim považuje za nutný pro udržení celistvosti Ruska.
+
+    ⚡ **Konflikt:** Toto hodnocení je v přímém rozporu s pozicí ČR, EU a NATO, které za agresi označují Rusko.
+  citace:
+  - text: Kdybv Vladimír Vladimirovič Putin nebyl velkou osobností, která prostě je v určitém smyslu osvíceným
+      diktátorem... Západ může za to, co je na Ukrajině. Ne Rusko.
+  podtema: Příčiny a odpovědnost za válku

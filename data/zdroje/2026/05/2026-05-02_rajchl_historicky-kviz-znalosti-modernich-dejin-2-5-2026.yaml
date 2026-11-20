@@ -11,3 +11,14 @@ zdroj:
   poznamka: 'Reportér testuje znalost moderních dějin u mladých lidí na ulici — Sametová revoluce, Havel,
     OF, samizdat, Charta 77, Palachův týden, StB. Odpovědi jsou z velké části chybné nebo „nevím." Rajchl:
     protiargument k tvrzení, že senioři by neměli volit. Zhlédnutí: 70 959'
+vyroky:
+- id: rajchl-2026-05-02-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Mladí voliči neznají základy moderních dějin — Rajchl
+  text: |-
+    Rajchl sdílí videoklip (70 tisíc zhlédnutí), v němž reportér testuje znalost moderních dějin u mladých lidí na ulici. Otázky se týkají: proč se Sametové revoluci říká Sametová, v jakém roce proběhla, co je zkratka OF (Občanské fórum), kdy se stal Václav Havel poprvé prezidentem, co je samizdat, kdy byla zveřejněna Charta 77, co byl Palachův týden a co je zkratka StB. Odpovědi jsou z velké části chybné nebo „nevím" — respondenti uvádějí jako rok Sametové revoluce 1935, 1945, 1948, 1950, 1970, 1993; StB je popsána jako „spolek lidí stíhaných za věci oproti státu."
+
+    Rajchl záměrně staví video jako protiargument k tvrzení, že senioři by neměli chodit volit, protože jsou zaostalí nebo „ničemu nerozumí" — a ukazuje, že mladá generace nedisponuje ani základní historickou orientací.
+  podtema: Informovanost voličů

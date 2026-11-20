@@ -14,3 +14,137 @@ zdroj:
     „pevnost Amerika"/TechNate, Izrael–Libanon příměří, Černá hora/Albánie do EU + Kushnerův ostrov, Srbsko
     a Čína. Závěr: realitní reklama + meta o formátu pořadu (logistika, nezpracováno). Zprávy v devět
     s komentářem (moderátorka Zuzka)'
+vyroky:
+- id: vrabel-2026-06-05-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Izrael–Libanon příměří zprostředkované USA (Vrabel, 5. 6. 2026)
+  text: Vrabel referuje o dohodě Izraele a Libanonu o příměří, zprostředkované Trumpovou administrativou
+    (závazek zastavit nepřátelské akce a pokračovat v rozhovorech). Hodnotí ji jako „super zprávu" — vítá
+    každou dohodu, která zastaví zabíjení — ale dává jí malou šanci na trvalost vzhledem k dosavadnímu
+    chování Izraele.
+- id: vrabel-2026-06-05-02
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Černá hora a Albánie do EU; Kushnerův ostrov v Albánii (Vrabel, 5. 6. 2026)
+  text: 'Vrabel komentuje summit EU–Západní Balkán v Tivatu (von der Leyen: bez západního Balkánu nebude
+    EU „úplná"). Předpovídá vstup Černé hory do EU nejpozději do roku 2028 (dobré pro investory do nemovitostí,
+    špatné pro zemi — analogie s Chorvatskem, kde EU regulovala velikost ok v rybářských sítích ve prospěch
+    Italů). Rozvíjí příběh Ivanky Trumpové a Jareda Kushnera (na jachtě s Nedem Rothschildem), kteří si
+    „objevili" chráněný albánský ostrov (bílé písečné pláže, bývalá vojenská základna s bunkry — analogie
+    s Epsteinovým ostrovem) a chtějí tam realizovat realitní projekt; Albánci proti tomu šestý den protestují,
+    podobně jako předtím Srbové vyhnali Kushnera z Bělehradu. Navazuje na [Kushnerovy realitní projekty
+    na „hřbitovech"](#kushnerovy-realitní-projekty-na-hřbitovech--protesty-v-srbsku-albánii-gaze-vrabel-3-6-2026).'
+- id: vrabel-2026-06-05-03
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: BRICS předčil G7; Putin varuje před USDT a digitálním eurem (Vrabel, 5. 6. 2026)
+  text: 'Vrabel referuje z projevu Putina na fóru v Petrohradu: státy BRICS prý v obchodu předčily G7
+    a prosperují díky obchodování ve vlastních národních měnách, zatímco předlužený Západ (deficity, vysoké
+    splátky dluhu vůči HDP) upadá. Putin podle Vrabela varoval ~150 zúčastněných zemí před přílišnou závislostí
+    na amerických a evropských platebních systémech (USDT — kryptoměna navázaná na dolar — a digitální
+    euro): hrozí jim zmrazení přístupu k platbám, jako se stalo Rusku „kvůli operaci na Ukrajině" nebo
+    jak může postihnout africké země „kvůli postoji k LGBT". Doporučuje alternativní platební prostředky
+    po vzoru BRICS. Vrabel připomíná, že do svého plánu „ČR na prvním místě" (2023) navrhl raději vstup
+    do BRICS než setrvání v EU.'
+  podtema: Ekonomika, sankce a BRICS
+- id: vrabel-2026-06-05-04
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: 'Kuba: americké sankce a Euroclear — ekonomika jako nástroj vydírání (Vrabel, 5. 6. 2026)'
+  text: 'Vrabel ke zprávě (Politico), že evropské firmy (hotelové řetězce Meliá, Iberostar; dopravci CMA
+    CGM, Hapag-Lloyd) omezují aktivity na Kubě kvůli novým americkým sankcím a obavám ze zmrazení majetku,
+    tvrdí, že USA chystají na Kubě převzetí a blokády. Spojuje to s ruským majetkem zmrazeným v Euroclearu
+    (instituce spravující finanční aktiva): EU prostředky zmrazila a „chtěla si je vzít". Klíčová teze:
+    clo, sankce a zákazy obchodu se na Západě používají jako nástroj politického vydírání, nikoli jako
+    volný obchod — stejně jako maďarské vzdání se veta za 6,6 mld. eur. Připomíná, že covid i válka na
+    Ukrajině mají společné obrovské zakázky z veřejných prostředků bez výběrových řízení.'
+  podtema: Ekonomika, sankce a BRICS
+- id: vrabel-2026-06-05-05
+  typ: tvrzeni
+  temata:
+  - jaderne-zbrane
+  nadpis: 'Scott Ritter: jadernou válku nelze vyhrát — návrat k odzbrojení a diplomacii (Vrabel, 5. 6.
+    2026)'
+  text: 'Vrabel přebírá argument Scotta Rittera (bývalý zbrojní inspektor OSN): jadernou válku nelze vyhrát
+    (doktríny „mrtvé ruky" zajišťují odvetný úder i po zničení státu), takže nemá smysl ani jaderné odstrašování,
+    ani vyhrožování jadernými zbraněmi, ani jejich výroba. Vrabel volá po návratu k odzbrojovacím smlouvám
+    (připomíná Reagana a Gorbačova v Reykjavíku, stažení raket středního doletu) — to je dle něj skutečný
+    úkol diplomacie, na rozdíl od Macinky, který „jezdí do USA domlouvat výrobu zbraní". Připomíná, že
+    proti jadernému zbrojení „brojí celou dobu" a byl za to odsouzen (kauza F-35).'
+- id: vrabel-2026-06-05-06
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: „Pevnost Amerika" / TechNate — USA stahuje techniku z NATO, ždímání světa přes digitální měny
+    (Vrabel, 5. 6. 2026)
+  text: 'Vrabel ke zprávě (Die Welt), že USA předaly NATO seznam vojenské techniky (stíhačky, průzkumná
+    letadla, drony, námořní síly), kterou už nechtějí zahrnovat do aliančního plánování, vykládá dlouhodobý
+    „pentagonský plán": vytvořit z USA a okolních států (od Jižní Ameriky přes Kanadu po Grónsko, vč.
+    Kuby) jednu opevněnou „pevnost Ameriku" ve stylu *TechNate* (technokratická idea z počátku 20. století),
+    chráněnou dvěma oceány a protiraketovým „Iron Dome". Teze: zatímco bude zbytek světa ve válce, USA
+    si přes digitální měny „pořeší" svůj nesplatitelný státní dluh a udrží svět obchodující v dolarech
+    — ždímáním ostatních zemí přes cla, sankce, válku na Ukrajině a odstřižení Evropy od ruské energie.
+    Navazuje na jeho výklad technokracie a digitální kontroly (viz [Palantir — digitální feudalismus](#palantir--paypal-mafie-digitální-feudalismus-nato-ho-tlačí-do-evropy-vrabel)).'
+  podtema: Globalistická agenda a další výklady
+- id: vrabel-2026-06-05-07
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Ukrajinské útoky na Záporožskou JE, lodě v Azovu a dron v Konstanci jako „válečné zločiny" (Vrabel,
+    5. 6. 2026)
+  text: 'Vrabel řadí další ukrajinské útoky jako důkaz „terorismu zoufalého režimu" („umírající kobyla
+    nejvíc kope", analogie s Hitlerem na konci války): opakované drony na Záporožskou jadernou elektrárnu
+    (i na techniky přicházející ji opravit během příměří), útok na dvě nákladní lodě (s obilím) v Azovském
+    moři se zraněnými ázerbájdžánskými námořníky a námořní dron Sea Baby explodující v rumunském přístavu
+    Konstanca. Ironizuje výklad rumunského prezidenta, že na incident s dronem „může Rusko, protože napadlo
+    Ukrajinu". Varuje (s odkazem na Scotta Rittera), že nelze „pořád píchat do medvěda" bez následku.
+    Navazuje na jeho tezi o ukrajinských útocích na civilní cíle (viz [Útok na ropný terminál během fóra
+    v Petrohradu](#útok-na-ropný-terminál-během-fóra-v-petrohradu--ukrajinanato-na-civilní-cíle-vrabel-4-6-2026)).'
+  podtema: Průběh války, útoky a „terorismus"
+- id: vrabel-2026-06-05-08
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Zelenského otevřený dopis Putinovi — Putin odmítá příměří před vyjednáváním (Vrabel, 5. 6. 2026)
+  text: 'Vrabel popisuje otevřený dopis Volodymyra Zelenského Putinovi: dopis prý začíná výsměchem a výhrůžkami
+    (Ukrajina může útočit na Rusko i na Putina osobně), na konci nabízí setkání „kdekoli kromě Moskvy".
+    Putin podle Vrabela dopis odmítl: veřejně se takové věci neřeší, nejprve je nutné vyjednat klíčové
+    otázky (denacifikace, práva rusky mluvících, Ukrajina mimo západní vojenské struktury) a setkání na
+    nejvyšší úrovni má být až poslední krok k podpisu. Putin je dle Vrabela pro setkání, ale odmítá „příměří
+    jako první" (to Rusko dlouhodobě odmítá) a interpretuje Zelenského náhlou ochotu k míru jako důsledek
+    blízké vojenské prohry a tvrdších ruských úderů na Kyjev. Vrabel je přesvědčen, že to neskončí podle
+    Zelenského podmínek.'
+  podtema: Vyjednávání a mír
+- id: vrabel-2026-06-05-09
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Zbrojní byznys bez výběrových řízení — Kolář a Macinka jako zprostředkovatelé (Vrabel, 5. 6.
+    2026)
+  text: 'K jednání ukrajinského ministra Fedorova s Markem Ruttem (formát Rammstein, pokračování české
+    muniční iniciativy) Vrabel rozvíjí tezi, že válku udržuje nadnárodní zbrojní síť: zbraně se nakupují
+    za veřejné peníze bez výběrových řízení (předražené), pak „se účetně někam odvezou" a nelze je dopočítat.
+    Jedou v tom dle něj všechny vlády NATO/EU i přidružené země. Jako konkrétní české „zprostředkovatele"
+    zbrojních obchodů jmenuje Petra Koláře (kdysi velvyslanec v USA, vedl obchodní delegaci při nákupu
+    stíhaček) a dnes Petra Macinku (jezdí do Kongresu domlouvat výrobu zbraní pro USA). Politici se podle
+    něj do funkcí dostávají proto, že jim kampaně platí zbrojaři — a důsledkem jsou drahé energie, jídlo
+    (40 % lidí nevyjde s příjmy) a mrtví.'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-06-05-10
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Srbsko nechce do EU — obchod s Čínou a spolupráce s Ruskem jako vzor suverenity (Vrabel, 5.
+    6. 2026)
+  text: 'Na divácký dotaz Vrabel vysvětluje, že Srbsko podle něj do EU vstoupit nechce — přístupové dohody
+    zdědil Vučić po prounijní vládě „demokratů" (kteří se dle něj „nechali koupit Západem"). Srbsko je
+    sice obklíčené zeměmi NATO/EU a EU je jeho největší investor, ale Vučić odmítá to, co je pro EU nepřekročitelné:
+    víza pro Rusy, sankce proti Rusku, spolupráci s Čínou (investice ~1 mld. USD, 6 000 výrobků bez cla,
+    hypersonické balistické rakety, sledovací technologie) i řešení Kosova. Vrabel předpokládá spojení
+    Srbska s Republikou srbskou (Milorad Dodik) a Srbsko opět staví jako model multivektorové suverenity.'
+  podtema: Zahraniční aktéři a precedenty

@@ -7,3 +7,30 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1731075301488539
   prepis: prepisy/done/2026-08-22_Jindřich-Rajchl_Videoportál.txt
   rezim: standard
+vyroky:
+- id: rajchl-2026-08-22-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Vzor Irska: 15% rovná daň, protekcionismus a dluhopisy — rozšíření programu PRO (Rajchl, 5.
+    7. 2026)'
+  text: '**22. 8.** — v debatě na CNN Prima News Rajchl shrnuje bilanci Fialovy vlády v číslech: kumulovaná
+    inflace za její vlády 36 % vs. nárůst platů jen 22 %, což znamená propad reálných mezd o 15 % (jako
+    by lidé místo 30 000 Kč dostávali 25 500 Kč měsíčně). Namítá, že vláda převzala zemi v postcovidovém
+    období a přesto byla poslední vládou v celé Evropě, která se dostala na předcovidovou úroveň HDP (až
+    2019); srovnává ČR s Bulharskem, Rumunskem a Polskem, které podle něj rostly rychleji — s jediným
+    rozdílem, že tam nevládl Petr Fiala. Sám přiznává nespokojenost s rozpočtovým zadlužením a navrhuje
+    nižší výdaje (nejen na obranu), pokud se tím sníží deficit; klíčové je podle něj hlavně to, jak jsou
+    peníze vynakládány a aby vydělané peníze zůstávaly v ČR (odchod 1 bilionu Kč ročně).'
+  podtema: Ekonomický program PRO
+- id: rajchl-2026-08-22-02
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Odstrašování vede k válce, řešením je dialog po vzoru START/SALT — Rajchl (22. 8. 2026)
+  text: 'V debatě na CNN Prima News Rajchl tvrdí, že stejně jako v Rusku existují plány na rozložení NATO,
+    existují i v NATO plány na rozložení Ruska — a označuje to za zásadní problém. Odmítá strategii odstrašování
+    jako cestu k míru: podle něj nejmírovější období Evropy nastalo v době uzavírání demilitarizačních
+    smluv (START, SALT), a odstrašování naopak vede k plánům, které mohou v budoucnu přerůst ve válku.
+    Jako vzor uvádí přístup Johna F. Kennedyho — jednat a domlouvat mír u jednacího stolu, ne odstrašováním.'
+  podtema: Vyjednávání a mír

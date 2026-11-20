@@ -10,3 +10,16 @@ zdroj:
   delka: 00:01:32
   poznamka: 'Střih z TV debaty — Pavel by neměl na summit NATO (lídr opozice, Trump „odpudivá bytost",
     ČR musí mluvit jednou řečí). Zhlédnutí: 77 744'
+vyroky:
+- id: rajchl-2026-06-09-01
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Pavel by neměl na summit NATO — lídr opozice hrající proti vládě (Rajchl, 9. 6. 2026)
+  text: 'V TV debatě Rajchl odmítá, aby prezident Petr Pavel jel na summit NATO (Ankara). Argumentuje,
+    že neformální část jednání (kde se „dělají domluvy") je důležitější než formální a Pavel nemůže „připravit
+    půdu", když Trumpa nazval „odpudivou lidskou bytostí" a své zahraniční cesty využívá ke kritice obranné
+    politiky Babišovy vlády. Hlavní problém: Pavel je „lídr opozice", hraje proti vládě, zatímco ČR musí
+    na summitu „mluvit jednou řečí" a být jednotná. Navazuje na [Summit NATO/OSN jako „divide et impera"
+    (Vrabel, 8. 6.)](#summit-natoosn-jako-divide-et-impera--pavel-a-babiš-dělají-v-nato-totéž-vrabel-8-6-2026).'
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

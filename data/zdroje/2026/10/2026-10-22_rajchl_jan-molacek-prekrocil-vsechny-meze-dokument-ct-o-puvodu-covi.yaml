@@ -9,3 +9,35 @@ zdroj:
   prepis: prepisy/done/2026-10-22_Jindřich-Rajchl_Jan-Moláček-překročil-všechny-meze.txt
   rezim: standard
   poznamka: 3 min 21 s.
+vyroky:
+- id: rajchl-2026-10-22-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Dokument ČT „konečně odvysílal pravdu“: SARS-CoV-2 uměle vytvořen ve Wu-chanu za peníze USA
+    (Rajchl, 22. 10. 2026)'
+  text: |-
+    Rajchl tvrdí, že Česká televize „po šesti letech“ odvysílala dokument, který ukazuje „pravdu o původu viru“: SARS-CoV-2 podle něj nepřeskočil na člověka z netopýra, ale byl uměle vytvořen ve wuchanské laboratoři financované Spojenými státy. Kritiku dokumentu od redaktora ČT Jana Moláčka vykládá jako snahu zastavit pravdu, když se „hradba lží začíná bortit“. Moláček podle něj nepředložil jediný věcný argument a jen ukazoval na účinkující. Peková v dokumentu prý vůbec nevystupovala (šlo o archivní záběry samotné ČT). Prof. Beran je podle Rajchla „světově uznávaná kapacita“, která o virologii a imunologii ví víc „než celá redakce České televize dohromady“. ČT podle něj divákům zamlčela, že Fauciho poradce David Morens přiznal vinu za falšování záznamů a že Fauci by byl stíhán, nebýt milosti od Joea Bidena.
+
+    ⚡ **Konflikt:** Teze o umělém vytvoření viru v laboratoři je v rozporu s Tarabovou (virus nelze v laboratoři vytvořit přenosný, „infekční teorie“ neplatí) i se Zítkovým tvrzením, že SARS-CoV-2 nikdy nebyl izolován.
+  dalsi_zdroje:
+  - 2026-10-29_rajchl_prymula-je-pokrytec-a-lhar-a-jednou-bude-sedet-ve-vezeni-29
+  podtema: Původ a povaha pandemie
+- id: rajchl-2026-10-22-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Stížnost k Radě ČT na Jana Moláčka za „kukaččí mládě“; ČT zrušit, „ani korunu“ (Rajchl, 22.
+    10. 2026)
+  text: Moláčkův výrok, že je třeba „pohlídat, aby se v ČT nevylíhlo kukaččí mládě“, chápe Rajchl jako
+    přiznání cenzury jakéhokoli oponentního názoru ve veřejnoprávní televizi. Moláček tím podle něj porušil
+    zákon o České televizi i její etický kodex, a Rajchl proto oznamuje stížnost na jeho osobu k Radě
+    ČT. Moláček podle něj není majitelem média, jen zaměstnancem placeným lidmi, z nichž část „právě tuhle
+    pravdu“ chce vidět. Uvidí se prý, zda ČT zůstane „cenzorským médiem“, nebo se „lidí jako jste vy“
+    co nejrychleji zbaví. Dokud ji takoví lidé řídí, bude Rajchl usilovat o zrušení ČT a o to, aby od
+    daňových poplatníků „nikdy už nedostala ani jednu korunu“. Spor se týká dokumentu o původu covidu,
+    viz [covid-vakciny.md](covid-vakciny.md).
+  citace:
+  - text: Vy nejste majitelem tohoto veřejnoprávního média. Vy jste pouze zaměstnancem, kterého si platí
+      naši lidé.
+  podtema: Česká televize a mainstreamová média

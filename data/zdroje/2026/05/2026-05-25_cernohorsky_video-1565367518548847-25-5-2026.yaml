@@ -11,3 +11,19 @@ zdroj:
   poznamka: 'Referendum chybí = ne-demokracie; příklad: sjezd LM v Brně — lidé nemohli rozhodnout referendem;
     Fiala = „spolupachatel vražd"; brněnští zastupitelé = adepti na trest smrti za kolaboraci se SdL;
     opakuje Vaňková drogy (neověřené).'
+vyroky:
+- id: cernohorsky-2026-05-25-05
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Absence referenda jako důkaz ne-demokracie — sjezd LM jako konkrétní příklad (25. 5. 2026)
+  text: |-
+    Jiří Černohorský rozvíjí argument o chybějícím celostátním referendu na konkrétních případech. Za 37 let od sametové revoluce nebyl schválen prováděcí zákon o celostátním referendu — záměrně dle Černohorského. Důsledek: občané se nemohou bránit politickým rozhodnutím jdoucím proti jejich zájmům.
+
+    Dva příklady z videa:
+    1. **Senioři** — Fialova vláda změnila zákon a okradla každého seniora o minimálně 50–60 korun; 3 miliony lidí nemohly nijak zasáhnout — mohli jen nesouhlasit na Facebooku.
+    2. **Sjezd LM v Brně** — „pár jedinců z magistrátu" rozhodlo o akci bez možnosti občanů Brna říci referendem ne nebo ano. Dokud referendum neexistuje, vládnou kolaboranti bez kontroly.
+  citace:
+  - text: Až tohle bude, až budou moci lidé rozhodnout o věcech, které jdou proti České republice, proti
+      občanům České republiky, tak potom se můžeme bavit o demokracii.
+  podtema: Prezident a demokracie

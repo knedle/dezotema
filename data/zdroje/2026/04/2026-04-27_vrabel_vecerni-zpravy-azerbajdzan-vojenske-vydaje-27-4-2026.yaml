@@ -16,3 +16,19 @@ zdroj:
     vstup Ukrainy do EU (územní ústupky); Putin setkal s Araghdžím (rusko-íránské strategické partnerství);
     Kubilius — Evropská obranná unie; Andrew Haag (Pentagon) propuštěn za tvrzení, že ukrajinskě peníze
     byly rozkradeny.'
+vyroky:
+- id: vrabel-2026-04-27-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Odkud Česká republika bere plyn — Vrabel (27. 4. 2026)
+  text: |-
+    Vrabel ve vysílání 27. dubna 2026 shrnul aktuální strukturu plynových dodávek ČR, přičemž zdůraznil, jak výrazně klesla spotřeba a jak Hormuzská krize ohrožuje část dodávek:
+
+    - **Norsko** — 40–50 % (plynovody přes Německo)
+    - **LNG** — 30–40 % (terminály v Nizozemsku a Německu; zdroje: USA, Katar, Afrika); katar­ská část je v tuto chvíli ohrožena uzavřením Hormuzského průlivu
+    - **Německo (mix + neoficiální ruský plyn)** — 10–20 %; podle Vrabela 10–15 % z tohoto podílu tvoří stále ruský plyn, ačkoliv ČR oficiálně udává 0 %
+    - **Ázerbájdžán** — plánovaná smlouva na 2 miliardy m³/rok ≈ ~30 % spotřeby ČR (ministr Havlíček); Babiš jednal přímo s prezidentem Aliyevem v Baku
+
+    Spotřeba plynu v ČR klesla z 9–10 mld. m³ (2021) na 6,75 mld. m³ (2023), přičemž úspory přišly s útlumem průmyslu a omezením domácností. Vrabel hodnotí ázerbájdžánský plyn jako dílčí řešení výpadku katarských dodávek, ale dodává, že nejlevnější alternativou by stále bylo přímé nakupování od Ruska.
+  podtema: Plyn v ČR — diverzifikace zásobování

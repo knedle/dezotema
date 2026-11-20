@@ -7,3 +7,44 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1722207712200109&_rdr
   prepis: prepisy/done/2026-09-25_Československo-TV2_22-reactions-3-comments-Československo-TV2-vysílal.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-09-24-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Spor se advokátem Patrikem Tušlem — teorie o zfalšovaném zatýkacím videu Tomáše Čermáka (Zítko,
+    7. 8. 2026)
+  text: '**24. 9.** — Zítko znovu odmítá, že by Čermáka udal: 27. 8. 2023 ho prý jen odvezl na čerpací
+    stanici na jižní Moravu, pátrání bylo vyhlášeno až 29. 8.; policie si ho pozvala k výslechu a hned
+    nato proběhlo „sehrané" zatčení v Polsku („kamera, klapka, Čermák po páté, tři, dva, jedna"), po němž
+    se proti němu jako čerstvě zvolenému „generálnímu konzulovi" rozjela kampaň „Bonzítko, Bonzul" — podle
+    něj „koordinovaná, plánovaná policejní operace". Má prý protokol i zvukový záznam výslechu, které
+    zatím nezveřejnil. Všechny profily „Pavel Zítko" kromě jediného pravého jsou podle něj pod kontrolou
+    policie a tajných služeb.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-09-24-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: |-
+    Zítko s partnerkou („Kačenkou") jeli 24. 9. 2026 k Okresnímu soudu v Liberci na jednání o podmíněném propuštění Tomáše Čermáka (odsouzen na 5,5 roku za výroky kvalifikované jako terorismus) — z veřejnosti tam podle něj byli jen oni dva, vedle rodiny a „prestitutů" včetně ČT; soudkyně zakázala živý přenos, ne však nahrávání. Líčení označuje za „divadelní představení" a „justiční habaďůru": propuštěný muž je pro něj „údajný Tomáš Čermák" — vychovatelka z věznice prý řekla, že je „jako vyměněný", a sám Čermák, že „má okno", což Zítko srovnává s výpadkem softwaru. Opakovaně sice říká, že „nebude soudit", zda šlo o Čermáka, ale vyzývá diváky, ať srovnávají uši, ruce, ramena i hlas („Alexa za 20 vteřin vám napodobí hlas"). Hlavním účelem „sehraného" jednání bylo podle něj z muže „vymámit" vzdání se práva na stížnost (i za právní tým), čímž přiznal vinu a přišel o nárok na odškodnění za 35 měsíců věznění, a vytvořit „odstrašující případ pro všechny, kteří by se snad snažili kverulovat"; symbolické je prý i datum — výročí druhé pražské defenestrace. Trest považuje za politický (pedofilové a násilníci prý dostávají podmínku): Čermák podle něj jen expresivně mířil na „masové vrahy", pachatele „genocidy národa, vakcinačního holokaustu a sterilizace" — vakcína je podle Zítka biologická zbraň namířená „zejména na Slovany a bílé obyvatelstvo" a covidová mafie „patří před vojenský tribunál". Soudy jsou podle něj obchodní společnosti s čísly DUNS. Připomíná i vlastní kauzy: 110 dní vazby „bez zákonného důvodu", zásah NCTEKK v Doksech (3. 2. 2025) se zabavením telefonů a zrušený rozsudek tří let nepodmíněně; soudce Lněnička mu u vrchního soudu nepovolil být Čermákovým zmocněncem. V pořadu pouští i Čermákovo „video z lesa" (2023) s výzvami „do zbraně… jdeme na ně" proti „vlastizrádcům" jako ukázku, „jak smýšlel Tomáš Čermák originál".
+
+    ⚡ **Konflikt:** Jiří Černohorský tentýž den propuštění vítal jako skutečného Čermáka a Zítka obvinil, že Čermáka „s největší pravděpodobností" udal a chystá sbírku bez souhlasu rodiny — viz [Černohorský, 24. 9. 2026](politicky-system.md#podmíněné-propuštění-tomáše-čermáka--nepřiměřený-trest-jako-zářný-příklad-pro-umlčení-scény-černohorský-24-9-2026). Zítko ho ve vysíláních nejmenuje; udání popírá (viz níže).
+  citace:
+  - text: Ať už to ve skutečnosti byl on, anebo to byl jeho dvojník, tak vystupoval jako totálně vyměněný
+      a zlomený člověk.
+  dalsi_zdroje:
+  - 2026-09-24_zitko_special-tomas-cermak-24-9-2026
+  - 2026-09-29_zitko_den-paty-tomas-cermak-29-9-2026
+  - 2026-09-30_zitko_den-sesty-tomas-cermak-30-9-2026
+  - 2026-10-01_zitko_den-sedmy-tomas-cermak-1-10-2026
+  - 2026-10-02_zitko_zpravodajstvi-tydne-2-10-2026
+  - 2026-10-03_zitko_sobotni-vysilani-amsterdam-florida-nemecko-2-4-3-10-2026
+  - 2026-10-28_zitko_zive-vcera-dnes-a-zitra-28-10-2026
+  - 2026-10-28_zitko_zive-108-vyroci-ceskoslovenska-28-10-2026
+  - 2023-11-13_zitko_vyslech-v-chomutove-13-11-2023-bez-sekani-31-10-2026
+  - 2026-11-01_zitko_zive-z-holysova-cermak-neprisel-konec-hry-na-cermaka-1-11-20
+  - 2026-11-01_zitko_zive-z-holysova-prijde-tomas-cermak-na-obed-1-11-2026
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

@@ -18,3 +18,53 @@ zdroj:
     society/Agenda 2030; Okamura v Srbsku — znechucení; Konečná: politicky rozumná ale osobně nedůvěryhodná
     (dvakrát ho zradila ve volbách); Zelenský si zaslouží trest smrti (demokraticky přes zákon); Vrabel
     prodává pozemky v Srbsku (1 ha za 2 250–2 300 EUR); česká „opozice" = síť Klaus/ODS.'
+vyroky:
+- id: vrabel-2026-05-03-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: RT.com a Sputnik blokovány českými poskytovateli internetu — Vrabel (3. 5. 2026)
+  text: |-
+    Vrabel v nedělním vysílání (3. 5. 2026) upozornil, že ruská média RT.com a Sputnik jsou v České republice blokovány přímo na úrovni internetových providerů. Vrabel to komentuje v kontextu Světového dne svobody tisku (3. 5.): státy EU, které se zaštiťují svobodou tisku, zároveň blokovaly přístup k ruským mediím nikoliv soudním rozhodnutím, ale administrativním příkazem. Vrabel to označuje za pokrytectví.
+
+    Vrabel zároveň informoval, že v souběžné vlastní právní kauze vyhrál případ u Ústavního soudu v otázce svobody slova. Blíží se mu ale jiný rozsudek — 25. 5. 2026 — v samostatné věci, kde mu hrozí podmíněný trest.
+  podtema: Blokace zahraničních médií v ČR
+- id: vrabel-2026-05-03-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'ČR na zlomovém bodě s EU: break-even, Schengen ≠ EU — Vrabel (3. 5. 2026)'
+  text: |-
+    Vrabel v nedělním vysílání (3. 5. 2026) tvrdí, že Česká republika se dostala na takzvaný break-even bod s EU — přestala být čistým příjemcem a nyní platí do EU přibližně tolik, kolik z ní dostává. Dříve byl vstup do EU pro ČR ekonomicky výhodný (čerpání fondů > odvody); nyní je bilance vyrovnaná nebo záporná. Vrabel z toho vyvozuje, že argument „bez EU by ČR přišla o dotace" již neplatí v plné síle.
+
+    Vrabel zdůrazňuje klíčový bod: **Schengen a členství v EU jsou dvě oddělené věci.** Norsko, Island nebo Švýcarsko jsou v Schengenu bez členství v EU — ČR by mohla zachovat volný pohyb osob a zboží i po případném odchodu z EU. Vstup do EU a Schengen jsou dvě oddělené mezinárodní smlouvy.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-05-03-03
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Zelenský si zaslouží trest smrti — Vrabel (3. 5. 2026)
+  text: 'Vrabel v nedělním vysílání (3. 5. 2026) vyslovil názor, že Volodymyr Zelenský si zaslouží trest
+    smrti — avšak výhradně demokratickou cestou, tedy zákonným soudem. Vrabel vysvětluje: Zelenský byl
+    zvolen s mandátem ukončit válku na Donbasu, ale místo toho válku eskaloval a způsobil statisíce mrtvých.
+    Z mandátu, který dostal, vyvodil pravý opak — Vrabel to označuje za zradu voličů v té nejtěžší kategorii.'
+  podtema: Stav Ukrajiny a mobilizace
+- id: vrabel-2026-05-03-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'Macinka: „americká servility" — Vrabel (3. 5. 2026)'
+  text: Vrabel kritizuje ministra obrany Jana Macinku za bezpodmínečné přijímání amerických bezpečnostních
+    požadavků a udržování ČR na trajektorii, která by ji mohla vtáhnout do přímého konfliktu s Ruskem.
+    Macinka podepsal bez veřejné debaty přistoupení ČR k různým vojenským závazkům (bunker koalice, F-35
+    zálohy) a pokračuje v kurzu, který ČR z pohledu Ruska staví do role spolupachatele.
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-05-03-05
+  typ: tvrzeni
+  temata:
+  - vetrniky
+  nadpis: 'Motoristé sobě (Turek): zmenšení zón místo zrušení — Vrabel (3. 5. 2026)'
+  text: 'Vrabel v nedělním vysílání 3. 5. 2026 kritizoval postup Filipa Turka (Motoristé sobě): větrné
+    zóny pouze zmenšil, místo aby je zcela zrušil. Vrabel preferuje alternativy: jaderná energie a malé
+    reaktory (Rolls-Royce).'
+  podtema: Politická reakce v ČR

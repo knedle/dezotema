@@ -10,3 +10,13 @@ zdroj:
   delka: 00:01:28
   poznamka: 'Zpracováno 1 téma: humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt
     — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch. teroru. Zhlédnutí: 23 942'
+vyroky:
+- id: boldy-2026-08-05-01
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Humanoidní robot pro řemeslníky jako skrytý vojenský/zbraňový projekt (Boldy, 5. 8. 2026)
+  text: Boldy sarkasticky komentuje připravovaný komerční humanoidní robot pro řemeslníky (odhadovaná
+    cena 5–20 mil. Kč), jehož vzhled přirovnává k bafometovi a kentaurovi. Ironicky zpochybňuje oficiální
+    prezentaci coby neškodného pomocníka a naznačuje skryté vojenské využití zbraňových systémů a riziko
+    hacknutí — přičemž ujištění výrobce o bezpečnosti a nemožnosti zneužití označuje za nevěrohodná.

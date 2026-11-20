@@ -8,3 +8,66 @@ zdroj:
   prepis: prepisy/done/2026-09-05_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
   poznamka: Starší vysílání stažené dodatečně (sync 5. 10.).
+vyroky:
+- id: cernohorsky-2026-09-05-01
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: Lobbisté mimo zákon, zahraniční financování neziskovek jako trestný čin; Šebelová a eutanazie
+    nezletilých (Černohorský, 5. 9. 2026)
+  text: Černohorský by lobbisty „postavil mimo zákon", protože podle něj korumpují politiky ve prospěch
+    LGBT neziskovek a korporací; jako příklad uvádí poslankyni Šebelovou (STAN), která podle něj „prosazuje
+    eutanazii i pro nezletilé", protože jí to „někdo nasypal". Navrhuje zákon, podle něhož by zahraniční
+    financování neziskovek působících v ČR bylo trestným činem — jmenuje Meeting Brno, Člověk v tísni
+    a Českou ženskou lobby. Oceňuje Tomia Okamuru, že „se přestal bát" a v televizi řekl, že se zastaví
+    peníze neziskovkám na imigraci, LGBT a Ukrajince.
+  citace:
+  - text: Nemohou být financovány ze zahraničí. Že je to trestný čin. Tečka.
+  podtema: Milion chvilek — struktura a financování
+- id: cernohorsky-2026-09-05-02
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Islamizace je nevratná od 7–8 % muslimů; Merkelová „tahle svině" (Černohorský, 5. 9. 2026)
+  text: Černohorský tvrdí, že imigraci do Evropy „přitáhla Merkelová, tahle ta svině" a pokračuje v ní
+    von der Leyenová; jakmile podíl muslimů v zemi překročí 7–8 %, je stav podle něj „nezvratný". Zmiňuje
+    nožový útok migranta v Plzni či Příbrami a v rasistickém výroku varuje, že se „naše ženský [...] budou
+    pářit s negrama".
+- id: cernohorsky-2026-09-05-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: „Nic vám nepatří" — iluze demokracie; nevydaná opozice a dvojí metr vůči Okamurovi (Černohorský,
+    5. 9. 2026)
+  text: 'Černohorský se ptá, proč vláda se 108 hlasy nevydala k trestnímu stíhání Fialu, Rakušana, Hřiba,
+    Černochovou a Stanjuru, když Okamuru vydali kvůli plakátu, který podle něj „nebyl rasismus" (trestní
+    oznámení podal Pospíšil); Hřib měl podle něj půl roku pobírat přeplatky 40 tisíc měsíčně a „kdokoliv
+    z nás" by za to dostal deset let — „jak může mít někdo imunitu na to, aby mohl krást?". Chválí Mirka
+    Ševčíka, že se s opozicí „nesere". Demokracie je podle něj iluze: „nepatří vám vůbec nic, ani děti"
+    — majetek vám stát při konfliktu zabaví a děti může vzít OSPOD (kauza Terezy Vlasákové). Babiš a Schillerová
+    jsou podle něj proti celostátnímu referendu.'
+  citace:
+  - text: Vážně si myslíte, že vám něco patří? Ne. Nepatří vám vůbec nic. Ani děti nepatří.
+  podtema: Politická kultura
+- id: cernohorsky-2026-09-05-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Podrobný rozbor poslaneckých platů a náhrad — „ať začnou šetřit u sebe" (Černohorský, 28. 8.
+    2026)
+  text: '**5. 9.** — Poslanci podle Černohorského berou asi 4 miliony čistého ročně (170 tisíc měsíčně,
+    s funkcí 200–220 tisíc) za zhruba 110 jednacích dní, zatímco 3 miliony lidí žijí na hranici chudoby
+    a invalidní důchod 1.–2. stupně činí 7–13 tisíc. Kritizuje i cestu poslankyně Urbanové na Ukrajinu
+    placenou státem („kus kundy ze STANu"), ať si ji z platu 220 tisíc zaplatí sama.'
+  podtema: USA — volební systém
+- id: cernohorsky-2026-09-05-05
+  typ: tvrzeni
+  temata:
+  - rodina-deti
+  nadpis: Pokles porodnosti jako měřítko úpadku společnosti (Černohorský, 28. 8. 2026)
+  text: '**5. 9.** — Černohorský uvádí, že v roce 2025 se narodilo 77 200 dětí, z toho asi 12 % matkám
+    cizinkám, takže „Čechů, Moravanů a Slezanů" jen asi 65 tisíc (proti 84 tisícům v roce 2024 a 92 tisícům
+    v roce 2023) — „vymíráme a vymřeme", za 60–80 let. Viní dospělé převlečené za zvířata („furries",
+    hobby horsing) a LGBT („nešukaj") i očkování těhotných, které označuje za „biologickou zbraň" a „zločin
+    proti lidskosti" Babišovy vlády; Bělobrádek prý řekl, že demografickou křivku nahradí migranti.'
+  podtema: Eutanazie

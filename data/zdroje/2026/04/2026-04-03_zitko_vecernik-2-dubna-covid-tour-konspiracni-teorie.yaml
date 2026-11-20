@@ -8,3 +8,68 @@ zdroj:
   prepis: prepisy/done/2026-04-03_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: '49:57'
+vyroky:
+- id: zitko-2026-04-03-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Ministerstvo spravedlnosti nečinné — šestikrokový návod k usvědčení (Zítko)
+  text: 'Pavel Zítko od března 2026 opakovaně veřejně prezentuje to, co označuje za šestikrokový návod
+    k usvědčení všech účastníků organizovaného zločinu kolem Jiříkovského bitcoinů. Trestní oznámení podával
+    i na Nejvyšší státní zastupitelství. Přesto ani Tejcovo ministerstvo spravedlnosti (100+ dní ve funkci),
+    ani vrchní státní zastupitelství v Olomouci, ani útvary NCOZ a NCTEKK nezačaly prošetřovat pohyby
+    na blockchainu. Zítko identifikuje klíčové spoluúčastníky: Karim Tyc (brněnský podnikatel), soudní
+    znalec Jiří Berger a notář Lubomír Míka; celkovou hodnotu bitcoinů ze dvou darknetových tržišť (Nucleus
+    Market + SHIB Marketplace) odhaduje na přes 100 miliard Kč. Varuje, že pokud česká justice nezasáhne,
+    případ bude muset prošetřit FBI.'
+  citace:
+  - text: Ode mě v těch vysíláních v březnu dostali asi šestistupňovej návod, jak usvědčit všechny účastníky
+      tohoto zločinného spolčení, včetně důkazů, ale zatím se teda nic neděje.
+  podtema: Kauza Bitcoin — organizovaný zločin ve státní správě
+- id: zitko-2026-04-03-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Plochá Země
+  text: 'Zítko zastává teorii ploché Země: Země je topografická rovina ohraničená ledovou stěnou (Antarktida),
+    oceány mají vodorovnou hladinu a tzv. Gleasonova mapa je správnou reprezentací světa — stejné zobrazení
+    prý nese logo OSN. Jako „důkazy" uvádí nehybnost Polárky (na rotující kouli by se pohybovala) a funkčnost
+    slunečních hodin (na rotující kouli by nefungovaly).'
+  podtema: Historické konspirační výklady
+- id: zitko-2026-04-03-03
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Klony, herci a Guantanamo — EBS narativ
+  text: 'Pavel Zítko přijal a šíří narativ hnutí QAnon o probíhající skryté vojenské operaci: klíčové
+    osoby světového établissementu (včetně Charlese III, jehož označuje za „herce s volnem") byly odvezeny
+    na Guantanamo. Na veřejnosti je zastupují herci, dvojníci, hologramy nebo CGI — celkem prý 200 000
+    nasazených. Informace o operaci bude zveřejněna prostřednictvím EBS (Emergency Broadcast System) ve
+    třech osmihodinových smyčkách; Zítko věří, že tato chvíle nastane v řádu týdnů.'
+  citace:
+  - text: V rámci central castingu [...] nasazeno 200 tisíc herců [...] někteří už se zhoupli ti hlavní
+      protagonisté na Gitmo, Guantanamo a jejich role dohrávají herci, tak to všechno se dozvíte v rámci
+      vojenského vysílání EBS ve třech osmihodinových smyčkách.
+  dalsi_zdroje:
+  - 2026-04-04_zitko_velky-patek-fotonizovana-voda-rudolf-steiner-covid-tour-4-4
+- id: zitko-2026-04-03-04
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: 'Save the Children: adrenochrom a záchrana dětí z tunelů'
+  text: 'Zítko šíří QAnon narativ o záchranné operaci „Save the Children": děti jsou prý vyprošťovány
+    z podzemních tunelů, kde vládnoucí elity provozovaly výrobu a distribuci adrenochromu. Záchrana těchto
+    dětí je „prioritou číslo jedna" probíhající globální vojenské operace. Zítko sám tvrdí, že byl přítomen
+    „zabodávání" dětí ve věku 5–12 let v pražském nákupním centru Kotva v prosinci 2021.'
+  citace:
+  - text: Zločiny na dětech, výroba a distribuce adrenochromu a jediná cesta je armáda a globální [vojenská
+      operace].
+- id: zitko-2026-04-03-05
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: Quantum Financial System a MedBeds
+  text: 'Zítko věří v brzké zavedení Quantum Financial System (QFS), který ukončí „rothschildovské otroctví"
+    privátních bank; jedna karta bude sloužit jako platební i zdravotní průkaz. MedBeds — léčebná lůžka
+    využívající teraherzové frekvence — nahradí chemickou medicínu. Pořadí léčby: nejprve zachráněné děti
+    z tunelů, pak váleční veteráni.'

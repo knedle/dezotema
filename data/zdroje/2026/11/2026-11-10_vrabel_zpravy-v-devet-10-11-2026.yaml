@@ -9,3 +9,97 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 1 min, zprávy čte Zuzka; den studentské demonstrace za ČT a ČRo, první den jednání v Abú
     Zabí.
+vyroky:
+- id: vrabel-2026-11-10-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Odvod 90 % příjmů výrobců nad cenovým stropem je „drbání se pravou rukou za levým uchem“ — řešením
+    je vystoupit z EU a na několik let dát rodinám elektřinu zdarma (Vrabel, 10. 11. 2026)
+  text: 'K vládou schválené novele energetického zákona (při prudkém zdražení může stát odebrat výrobcům
+    až 90 % příjmů nad stropem a regulovat ceny) Vrabel cituje svého učitele matematiky, že je to jako
+    „drbat se pravou rukou za levým uchem“: peníze se nejdřív „schrápnou“ do rozpočtu a pak se z nich
+    vyplácejí úlevy. Jediné správné řešení je podle něj vystoupit z EU, uzavřít hranice a vybudovat samostatnou
+    energetiku nezávislou na Německu. ČR byla podle něj ještě v roce 2002 největším vývozcem přebytků
+    elektřiny v Evropě. Firmám by dal levnou elektřinu kvůli konkurenceschopnosti a rodinám „vyždímaným“
+    válkou na několik let elektřinu zdarma. Vše ostatní je „Donald Duck“, který prodlužuje agonii, zatímco
+    z ČR podle něj odchází „každý den jedna miliarda“ do zahraničí. Zdražování (ETS, voda o 250 %, teplo,
+    pohonné hmoty, jídlo) spojuje s výdaji EU na zbrojení.'
+  citace:
+  - text: Jediný správný a jednoduchý řešení je vystoupit z Evropské unie, uzavřít hranice, udělat vlastní
+      samostatnou energetiku.
+  podtema: Elektřina — marže a ceny
+- id: vrabel-2026-11-10-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Studentské protesty za ČT jako revoluce „řízená CIA přes českou tajnou službu“ podle srbského
+    scénáře; řečníka by trestně stíhal (Vrabel, 10. 11. 2026)
+  text: K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník z FAMU ohlásil nenásilnou
+    „občanskou neposlušnost“, „dělání bordelu“ a komplikování života těm, kdo komplikují život jim, a
+    požadoval odvolání ministra kultury Klempíře a nových členů rad) Vrabel tvrdí, že jde „jednoznačně“
+    o „operaci řízenou ze CIA“ přes českou tajnou službu. Pokyny podle něj dostávají rektoři, děkani zrušili
+    výuku a „nahnali studenty do ulic“; zdola má revoluci tlačit nově založená organizace Studentstvo.
+    Postup podle něj kopíruje Srbsko, jen v ČR nepůjde o národ, ale o protiruskou kampaň „proti ruským
+    švábům“; pokud Evropa půjde do války, studenti si podle něj budou moci „připsat zářezy na pažbu“.
+    Očekává stávky trvající třeba celý rok, pád Babišovy vlády dřív než za tři roky a vlastní kandidátku
+    Studentstva řízenou „plény“. Děti podle něj „nepatří do politiky“, nemají zkušenost a jsou „zneužité“;
+    jejich využívání označuje za „fašistický přístup k politice“ (Rajchlovi vyčítá, že na pódium bral
+    vlastní děti). Řečníka, který veřejně ohlásil „bordel“, by „trestně odstíhal“ pro narušování veřejného
+    pořádku (viz [Stochastický teror](stochasticky-teror.md)). Sám se drží stranou obou táborů (Babiš
+    i Fiala, „ODS-B“ i „ODS originál“), které podle něj řídí CIA a BIS, aby společnost „bojovala každý
+    s každým“.
+  citace:
+  - text: Toto jsou studenti jednoznačně, je to operace řízená ze CIA.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-10-04
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 'Lidé jako „pasiva“: s AI a robotizací chtějí elity méně lidí — vysvětlení deindustrializace,
+    válek i hmyzu v jídle (Vrabel, 10. 11. 2026)'
+  text: 'S odkazem na video neuvedeného autora Vrabel vysvětluje zdánlivě nelogické kroky Západu: dosud
+    byl člověk „aktivem“, které pracuje a vydělává, ale s nástupem AI a robotizace se nezaměstnaní (bude
+    jich „desítky procent“) stávají „pasivy“, která jen konzumují nerostné bohatství, jež by „ty elity
+    mohly mít pro sebe“. Proto se podle něj vedou diskuse, „jak to udělat, aby tady těch lidí bylo méně“.
+    Tím vysvětluje deindustrializaci, předlužování, války, farmy na hmyz pro jídlo a průmyslově zpracované
+    potraviny. Navazuje na jeho tezi o depopulaci na „jednu miliardu“ (6. 10.).'
+  citace:
+  - text: Někdo si může říct, že to je nelogický, co se děje […] Tak jedno vysvětlení by tady mohlo být
+      a kdo dobře poslouchal, tak to vysvětlení slyšel.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-10-05
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'El Hierro: 4000 migrantů za dva týdny — „vítačky“ se sny o černoších, původní obyvatelé do
+    armády, migranti na dávkách; Evropa spěje k osudu indiánů v rezervacích (Vrabel, 10. 11. 2026)'
+  text: K příjezdu více než 4000 migrantů na kanárský ostrov El Hierro Vrabel vyčísluje, co jeden nepracující
+    příchozí stojí (bydlení, jídlo, často drahá zdravotní péče, oblečení, telefon, účet, jazykové kurzy),
+    a ptá se, proč to Evropa s miliony lidí dělá. Ženy, které migranty vítají, podle něj mají „sny“ o
+    „pěkných černých klucích“ ze „choulostivých stránek“; dárcům připomíná, že vítání organizuje Červený
+    kříž. Ve švédské armádě je podle něj „samý blonďák“, zatímco „neblonďáci“ sedí doma a platí je stát,
+    tedy původní obyvatelé jdou do armády a příchozí žijí z veřejných rozpočtů. Připomíná, že USA vznikly
+    „vyhubením původního obyvatelstva“ evropskými migranty a indiáni dnes žijí v rezervacích; „přesně
+    k tomu“ podle něj spěje Evropa.
+  citace:
+  - text: Tak jenom, aby jsme se poučili a nenechali takhle dopadnout Evropu, protože přesně k tomu tu
+      za kým spěje.
+- id: vrabel-2026-11-10-06
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 454 mld. eur na obranu za jediný rok jako vysvětlení drahoty; úspory Evropanů (10 bilionů eur)
+    skončí ve zbrojních firmách „za zády lidí“ (Vrabel, 10. 11. 2026)
+  text: 'K jednání ministrů financí EU s Markem Ruttem o společných nákupech zbraní (výdaje členských
+    států na obranu letos zhruba 454 mld. eur) Vrabel říká, že „aspoň už víme“, proč se zavádí ETS a zdražuje
+    voda, teplo, elektřina, pohonné hmoty a jídlo. Částku srovnává s celkovou finanční pomocí Ukrajině
+    za 4,5 roku: za jediný rok se má dát „skoro stejně“ jako dosud za čtyři roky (Babišem uváděných 522
+    mld.). Evropa, která už „nemá peníze“ a k tomu potřebuje 350 mld. eur na francouzský dluh, je podle
+    něj „na pokraji bankrotu“. Jediné peníze, které politici mají, jsou peníze lidí. Očekává proto, že
+    EU přes unii úspor a investic převede úspory Evropanů (asi 10 bilionů eur) dohodou s fondy „za zády
+    lidí“ do zbrojních firem.'
+  citace:
+  - text: Takže očekávejte, že ty programy jako Savings and Investments […] to udělají za zády lidí, se
+      dohodnou s těmi fondy, který drží ty úspory, a budou je nějakým způsobem investovat do zbraní.
+  podtema: EU jako vojenská struktura

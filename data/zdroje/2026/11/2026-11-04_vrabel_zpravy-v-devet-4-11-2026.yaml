@@ -9,3 +9,131 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 12 min, zprávy čte Zuzka; den po amerických volbách do Kongresu; Vrabel je nemocný, opakovaně
     radí „pár pytlíků rýže navíc“.
+vyroky:
+- id: vrabel-2026-11-04-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Francie si musí půjčit 350 mld. eur — „nejvíc nemocný člen“ bohatého světa, protože v eurozóně
+    nemůže tisknout peníze (Vrabel, 4. 11. 2026)
+  text: Vrabel tvrdí, že USA i Japonsko mají vyšší dluh, ale mohou ho vykoupit natištěnými penězi, byť
+    za cenu inflace. Francie s výnosy dluhopisů kolem 5,4 % to v eurozóně bez souhlasu ostatních států
+    nemůže, a je proto „nejvíc nemocným členem“ bohatého světa. Francii řadí mezi hlavní hrozby vedle
+    Íránu a Ukrajiny a radí pořídit si zásoby.
+  citace:
+  - text: Takže Francie dneska je obrovským nebezpečím. Není to jenom Amerika a Irán, není to jenom Ukrajina
+      a Rusko, je to taky Francie a její zadluženost a to, co se tam odehrává.
+  podtema: Elektřina — marže a ceny
+- id: vrabel-2026-11-04-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 'Příprava na válku: „zachraň se, kdo můžeš"; miliardáři si staví bunkry (Vrabel, 8. 6. 2026)'
+  text: '**4. 11.** — V souvislosti se spekulacemi o americkém jaderném úderu na Írán (cituje Tuckera
+    Carlsona), íránskými hrozbami datovým kabelům v Hormuzu a očekávaným pádem Netanjahua Vrabel znovu
+    radí mít doma zásobu jídla, vody a baterií a počítat s výpadky proudu a internetu („pár pytlíků rýže
+    navíc“). Jako signály uvádí neobjasněné „teroristické útoky“ na mrazicí zařízení asi 6 000 francouzských
+    supermarketů a na úložiště krve, program 90denní soběstačnosti amerických základen a ketaminové tablety
+    pro vojáky. Za útoky podle něj může stát AI, Íránci, antifa i „operace CIA“; dodává, že nechce šířit
+    poplašnou zprávu.'
+  citace:
+  - text: Takže podle mě, když se dívám trošičku do hloubky toho, co se dneska děje v té geopolitice,
+      tak mám takový pocit, že tahle zima nebude úplně jednoduchá nebo minimálně zima, jaro nebude jednoduché.
+  podtema: Elity a jejich plány
+- id: vrabel-2026-11-04-03
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Protest za poplatky ČT „aby mohli platit vlastní válečnou propagandu“ — umělá bublina a dvojí
+    metr policie (Vrabel, 24. 10. 2026)
+  text: '**4. 11.** — K celostátním demonstracím a stávce ČT a ČRo Vrabel tvrdí, že tím vrcholí „přepsání“
+    demonstrací, které jeho okruh pořádal od roku 2022 proti zatažení ČR do války a za svobodu slova.
+    Postup popisuje ve fázích: rozbít demonstrace, jít po jejich financování, zdiskreditovat svolavatele,
+    převzít je a hlasy převést ke stranám, které udrží ČR v EU a NATO; dnes se „za svobodu slova“ demonstruje
+    ve smyslu placení ČT a ČRo. Strategii označuje za „geniální“ a obává se, že tím je dopředu „přepsaný“
+    i jeho pochod 17. 11.'
+  citace:
+  - text: Musím říct, že náš nepřítel je velmi sofistikovaný, velmi chytrý, má velmi dobré strategie a
+      hlavně má parlament, má vládu, má média, má neziskovky, má moc ve stáke, takže dokáže jakoukoliv
+      věc, za kterou bojujeme, otočit, přeměnit, zlikvidovat, semlít.
+  podtema: Česká televize a mainstreamová média
+- id: vrabel-2026-11-04-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Demokraté ovládli Kongres — lidé volili „proti Trumpovi“, střídání zla jako „systémová chyba“
+    (Vrabel, 4. 11. 2026)
+  text: 'Vrabel tvrdí, že porážku republikánů nezpůsobily jen drahota a válka, ale Trump sám: válka na
+    Blízkém východě a omezení Hormuzu, „šílená politika“ cel a skrytá podpora Ukrajiny zbraněmi. Lidé
+    podle něj nevolili lepší demokraty, ale proti Trumpovi; systém je nutí volit „proti zlu, které je
+    trápí aktuálně“, a tím zvolit dřívější zlo. Nová strana se přes peníze, lobby a média k moci nedostane,
+    což podle něj zažil i jeho projekt; ČR se točí stejně (ODS–ČSSD–Babiš–ODS). Řešením je systémová změna
+    — volební program jako smlouva s odvolatelností politika. Očekává pokusy o impeachment a možné vyšetřování
+    Trumpových obchodů s ropou.'
+  citace:
+  - text: Ne, tohle je systémová chyba, kdy lidi jsou neustále tlačení do toho, aby volili proti zlu,
+      který je trápí aktuálně a zvolili zlo, které je trápilo před tím a bude je trápit znovu.
+  podtema: Politická kultura
+- id: vrabel-2026-11-04-05
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Polsko: „ústavní puč“ Tuskovy vlády jako boj EU o polskou suverenitu (Vrabel, 31. 10. 2026)'
+  text: '**4. 11.** — K návštěvě Babiše u Tuska ve Varšavě (obnova V4, setkání s Nawrockým) Vrabel tvrdí,
+    že Babiš místo distancování od Tuskova „státního převratu skrze Ústavní soud“ přijel Tuska „jako správný
+    globalista“ podpořit. V4 je podle něj pro vlastence prázdná fráze: Poláci jsou „sfanatizovaní proti
+    Rusku“, Magyar je „absolutní globalista“ a Fico právě ztratil většinu. Babiš podle něj „podvedl celý
+    národ“ a ČR v globalistických strukturách „zapečetí“.'
+  citace:
+  - text: Andrej Babiš je naprosto bravurní podvodník. Ten už rok vládne a už rok se tváří jako velký
+      český vlastenec, za tím, co dělá úplný opak a pracuje pro globalisty.
+  podtema: Česká suverenita
+- id: vrabel-2026-11-04-06
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Hodnocení AfD jako „jediné alternativy" pro Německo; SPD jako „falešná karta" (Vrabel, 5. 7.
+    2026)
+  text: '**4. 11. (posun)** — K návrhu Alice Weidelové „Nová dohoda pro Evropu“ (nejprve reforma EU, referendum
+    o členství až při jejím neúspěchu) Vrabel říká, že tuto „cestičku ve ztracenu“ zná. Paralelu vidí
+    v návrhu Motoristů a SPD zakotvit korunu v ústavě, který podle něj nechává cestu k euru otevřenou,
+    a v „rádoby vlastencích“, kteří po vstupu do vlády upustili od referenda o vystoupení z EU; vzpomíná,
+    jak v letech 2021/22 přemlouval Rajchla k prosazování vystoupení z EU. Z kontaktů v AfD prý ví, že
+    je strana rozdělená (proatlantické křídlo, Východ vs. Západ) a může se i rozpadnout.'
+  citace:
+  - text: Zkusíme reformu Evropské unie a když to nepůjde, tak vyvoláme jednání o referendu o vystoupení
+      z Evropské unie. A tohle je přesně ta cesta, kterou už znám a vím přesně, kam dopadne cestlička
+      ve ztracenu.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-11-04-07
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: ČR klidně může spadnout do ruské sféry vlivu — „protáhly by se obličeje nácečkům“; SSSR nám
+    nechal majetek, Západ všechno vzal (Vrabel, 26. 10. 2026)
+  text: '**4. 11.** — K varování Frederiksenové („šílená rusofobka“) Vrabel tvrdí, že Rusko celou Evropu
+    dobývat nechce; pokud by Rusové došli až do Bruselu, bylo by to podle něj kvůli „odnacifikování“ Evropy,
+    které se jim ve 2. světové válce nepovedlo. Na summitu USA–Rusko–Čína v Abú Zabí si podle něj velmoci
+    rozdělí sféry vlivu a Evropa se může rozdělit jako za studené války; protiruské vlády včetně „generála
+    Pavla“ by pak podle něj znovu „otočily kabát“.'
+  citace:
+  - text: Ale jestli se to stane, že rusové půjdou až někam do Bruselu, tak to bude kvůli tomu, aby odnacifikovali
+      Evropu, protože se jim to nepodařilo kompletně v druhý světový válce a vrátilo se jim to.
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-11-04-08
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Cvičení „mírových záruk“ v Polsku a právo opětovat palbu — „nůž u krku“ Ruska; „už ve válce
+    s Ruskem jsme“ (Vrabel, 4. 11. 2026)
+  text: 'Ke cvičení 2 800 vojáků deseti zemí ve východním Polsku a ke zprávě Guardianu, že evropská vojska
+    na Ukrajině by směla opětovat ruskou palbu, Vrabel říká, že se britští a francouzští vojáci pod záminkou
+    „mírových záruk“ už přesouvají k Ukrajině. Rozmisťování tisíců vojáků u ruských hranic přirovnává
+    k noži pomalu přikládanému ke krku, takže ruský odpor považuje za pochopitelný. Kritizuje dvojí metr:
+    když zbrojí Rusové, chtějí napadnout Evropu, když zbrojí Západ (i na Shetlandech), „bráníme se“. Podle
+    něj už ve válce s Ruskem jsme, jen se zatím nestřílí; jediné správné je „žádné odstrašování, žádné
+    cvičení“.'
+  citace:
+  - text: Protože jako tady se, je to jako ve tmě dva lidi, oba dva ví, že mají pistoli, oba dva ví, že
+      jsou ve tmě a oba dva předpokládají, že ten druhej se bude bránit. Jak to může dopadnout?
+  podtema: Zahraniční aktéři a precedenty

@@ -10,3 +10,17 @@ zdroj:
   delka: 00:01:24
   poznamka: Policie nepotvrdila obvinění vůči Turkovi (hajlování) — výzva Pavlovi ke jmenování a omluvě
     — [kauzy.md](kauzy.md).
+vyroky:
+- id: sejna-2026-07-28-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Policie nepotvrdila hajlování — výzva Pavlovi k jmenování a omluvě (Šejna, 28. 7. 2026)
+  text: Adam Šejna (Restart Česko) se vrací ke kauze nejmenování Filipa Turka ministrem prezidentem Petrem
+    Pavlem, odůvodněné obviněním z hajlování/nacistických gest. Tvrdí, že ani policie, která věc vyšetřovala,
+    nedokázala tato obvinění potvrdit jako prokazatelná. Z toho vyvozuje, že Pavel jednal na základě něčeho,
+    co sám označoval za jednoznačně prokázané, ačkoliv prokázané není — a vyzývá ho, aby Turka jako ministra
+    jmenoval a omluvil se mu za dosavadní postup.
+  citace:
+  - text: Petře Pavleji, jmenujte Filipa Turka ministrem. [...] Je na vás, abyste napravil vaši chybu.
+  podtema: Kauza Filip Turek — nejmenování ministrem a spor s Nerudovou

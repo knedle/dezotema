@@ -9,3 +9,28 @@ zdroj:
   rezim: standard
   delka: '2:30'
   poznamka: 'Zhlédnutí: 99 921'
+vyroky:
+- id: rajchl-2026-04-10-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: AI deepfake jako nástroj politické satiry i manipulace — Rajchlovo varování
+  text: 'Rajchl v krátkém videu (10. 4. 2026) zveřejnil AI-generované video kde hovoří jako Petr Pavel
+    — vč. satirického obsahu o Pavlově komunistické minulosti. Na konci sám odhalí, že šlo o AI: „To,
+    co jste viděli, byla samozřejmě umělá inteligence. Bylo to skoro k nerozeznání ode mne." Účelem je
+    demonstrovat, jak snadno lze technologií AI vytvořit věrohodné video kohokoli říkajícího cokoli, a
+    varovat před nebezpečím manipulace.'
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-04-10-02
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Petr Pavel jako komunistický rozvědčík — satirická AI deepfake (10. 4. 2026)
+  text: 'Rajchl zveřejnil AI-generované video, kde jako Petr Pavel (v první osobě) říká věci jako: „Budu
+    se muset tvářit, že mě nenasral Macinka s tím Rudým právem" (narážka na Pavlův rozhovor v komunistickém
+    deníku, jehož výtisky prý dal zlikvidovat), „jak mě komunistická rozvědka chválila, co za bezvadnýho
+    perspektivního kádra", a komentuje, že Minář organizuje pro něj na Letné „největší demonstraci na
+    podporu bývalého komunistického rozvědčíka, jaká kdy v dějinách téhle země byla." Na konci deepfake
+    Rajchl (jako fake Pavel) sám přizná, že šlo o AI. Účelem videa je dvojí: zesměšnit Pavlovu komunistickou
+    minulost a zároveň demonstrovat manipulativní potenciál AI deepfake videí.'
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

@@ -7,3 +7,17 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1708477073704537
   prepis: prepisy/done/2026-08-27_Jindřich-Rajchl_Videoportál.txt
   rezim: standard
+vyroky:
+- id: rajchl-2026-08-27-01
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'Ukrajinská migrace: rozsah, kriminalita a plán revize pobytu (Rajchl, 16. 8. 2026)'
+  text: '**27. 8.** — K článku na Aktuálně.cz o kritických čekacích dobách na diagnostická vyšetření (3/4
+    občanů čeká déle než měsíc, každý třetí déle než čtvrt roku — u nádorových onemocnění může jít o rozdíl
+    mezi uzdravením a smrtí) Rajchl tvrdí, že se tím potvrzuje jeho dřívější „proruská dezinformace":
+    příčinou přetížení je nápor ukrajinských migrantů na zdravotní systém přetížený už od roku 2022. Kromě
+    revize pobytů a rychlého návratu migrantů na Ukrajinu nově navrhuje převést peníze z „Národní očkovací
+    strategie" (kterou označuje za pouhý výdělek pro farmaceutické firmy, viz [Covid a vakcíny](covid-vakciny.md#národní-očkovací-strategie--hlasování-výboru-pro-zdravotnictví-29-4-2026))
+    do obnovy počtu lékařů a zdravotních sester — s odkazem na to, že do deseti let odejde do důchodu
+    třetina z nich.'

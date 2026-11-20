@@ -9,3 +9,21 @@ zdroj:
   rezim: standard
   delka: '5:14'
   poznamka: 'Zhlédnutí: 104 125'
+vyroky:
+- id: rajchl-2026-04-01-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: DVTV, Forum24, Reflex a Respekt — „žumpa"
+  text: 'Po telefonátu od Daniely Drtinové (DVTV) Rajchl veřejně prohlásil, že jsou naprostá žumpa neschopná
+    objektivní žurnalistiky — a přidal Forum24, Reflex a Respekt. Jako klíčový důkaz uvádí, jaká označení
+    používají pro něj: „Putinův mazlíček", „kremelský kolaborant", „Putinův poskok". Pokud jiní mohou
+    takto útočit bez omezení, odmítá být jednostranně v defenzivním postavení. Drtinové vytkl, že zavolala
+    bez předchozí zprávy a bez upozornění na nahrávání — u slušného novináře naprostý standard.'
+  citace:
+  - text: Paní Drtinová, vás? Nebo pana Veselovského? No tak. Já prostě jenom nemám důvod a nejmenší chuť
+      zvyšovat vám čísla, protože vám o nic jiného nejde.
+  - text: Slušný novinář paní Trtinová nejdřív napíše třeba SMS-ku nebo zprávu, že by rád natočil rozhovor.
+      Ale především slušný novinář upozorní na začátku toho rozhovoru svého partnera, že si hovor nahrává.
+      Ani to jste neudělala.
+  podtema: Mainstream jako politický aktivismus

@@ -13,3 +13,28 @@ zdroj:
     = „můj prezident" (jen řád Bílého lva Zelenskému neodpouští); prezidentský favorit Marek Vašut (přijatelný
     oběma stranami); umělá nenávist ve společnosti + anonymita sociálních sítí. „Jak vidím prezidentský
     úřad, kdo je mým prezidentem"
+vyroky:
+- id: tarabova-2026-06-15-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Umělá nenávist ve společnosti a anonymita sociálních sítí — Tarabová (15. 6. 2026)
+  text: 'Tarabová tvrdí, že nikdy nezažila ve společnosti tolik nenávisti — a že je „uměle vytvořená"
+    rozdělením lidí do znepřátelených skupin, kde jedna druhou „bytostně nenávidí". Vinu klade i na anonymitu
+    sociálních sítí: pod věcným příspěvkem (např. o vizi strany PRO) se místo diskuse o obsahu objevují
+    „jen urážky, lži, dehonestace a vulgarity", často od stále stejných lidí. Vyzývá k návratu „lidství"
+    a vzájemnému respektu — „nemusíme se milovat, ale je potřeba se respektovat"; každý ať si „miluje
+    Danuši Nerudovou", ale neupírá jí, že důvěřuje Jindřichu Rajchlovi.'
+  podtema: Nová alternativní média
+- id: tarabova-2026-06-15-02
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Pavel „panák" vs. Zeman „můj prezident"; favorit Marek Vašut — Tarabová (15. 6. 2026)
+  text: |-
+    V rozhovoru pro TV Česko Tarabová hodnotí prezidentský úřad:
+
+    - **Petr Pavel** je dle ní „dosazený panák" a „zelená guma", podle ní hloupý a nedůstojný úřadu — „není prezidentem, jen hlásnou troubou Petra Koláře". Jeho vynucování účasti na summitu v Ankaře přirovnává k dítěti, které na pískovišti dupe po bábovičkách; vláda ho prý „drží pod krkem" tím, že vyslala delegaci (rozhodnutí odloženo na 22. 6.). Poukazuje na nelogičnost médii uváděné ~60% podpory, když 80 % lidí nechce euro, které Pavel prosazuje.
+    - **Miloš Zeman** je „můj prezident" — „má to v hlavě srovnané", podporuje stranu PRO. Jediné, co mu Tarabová neodpouští, je udělení Řádu bílého lva Zelenskému; cituje Zemanovo vysvětlení (rozhodovalo se na začátku konfliktu 2022, kdy se o Zelenském mluvilo pozitivně).
+    - **Budoucí prezident:** přála by si kandidáta vládní koalice přijatelného „oběma znepřátelenými stranami", který miluje ČR a nehájí euro. Jmenuje **Marka Vašuta** (herec se zájmem o politiku a přehledem; podle ní vznikla i anketa) — nestranicky přijatelného.
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

@@ -10,3 +10,86 @@ zdroj:
   poznamka: '1 h 57 min, večer po demonstraci na Letné, od asi 54. minuty odpovědi na dotazy. 34 témat
     v přehledu, většina s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: policie v Německu
     a Francii jako „divoká zvěr“, Minář a Halík bez výzvy). Zpracováno podle podkladů pomocného agenta.'
+vyroky:
+- id: vrabel-2026-11-15-01
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Studentské protesty za ČT jako revoluce „řízená CIA přes českou tajnou službu“ podle srbského
+    scénáře; řečníka by trestně stíhal (Vrabel, 10. 11. 2026)
+  text: '**15. 11.** — Večer po demonstraci na Letné Vrabel tvrdí, že šlo o „centrálně organizovanou“
+    a „profesionální“ „politickou agitku“, ne o demonstraci zdola. ČT podle něj dodala techniku (přenosové
+    vozy, generátor), dramaturgii připravovaly týmy herců a psychologů a mediální podpora měla hodnotu
+    „desítek milionů“. Účast 400 tisíc nevěří: ChatGPT mu z fotografie spočítal 30–70 tisíc, sám odhaduje
+    nejvýš 200 tisíc. Z videa bývalého agenta StB Zifčáka vyvozuje, že „převrat udělala Státní bezpečnost
+    v roce 1989“ ve spolupráci se západními službami, a Letná se podle něj dnes děje „ve spolupráci s
+    tajnými službami“, protože nikdo z organizátorů není označen za bezpečnostní riziko. Na rozdíl od
+    nich prý tajné služby zasahují proti němu: Vrchní státní zastupitelství v Praze podle něj volalo policii
+    v Českých Budějovicích, insolvenční soudce tlačil na vyšetřovatele a jeho manželka byla označena za
+    bezpečnostní hrozbu. Studentské protesty po celém Západě (Srbsko, Španělsko, Itálie, Francie) považuje
+    za důkaz koordinace CIA a MI6. Mináře a faráře Halíka nazývá nastrčenými tvářemi, jejichž projevy
+    kontrolují psychologové.'
+  citace:
+  - text: Tohle to je opravdu řízený centrálně z hora a je to řízený skrze média a skrze tajní služby.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-15-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Letná jako demonstrace za zbrojení a výměnu vlády: předčasné volby, odstavení SPD, Okamury
+    a Rajchla; Babiš „dává Západu všechno“ (Vrabel, 15. 11. 2026)'
+  text: 'Hlavním smyslem Letné byly podle Vrabela požadavky odvolat ministra obrany Zůnu, vzít SPD ministerstvo
+    obrany a nutit vládu zbrojit. Ukázku projevu vojáka aktivní zálohy o „ruské hybridní válce“ bere jako
+    doklad, že Milion chvilek demonstruje „za zbrojení, ne za ČT“. Prvním podnikatelem představeným na
+    pódiu byl podle něj Dalibor Dědek (Jablotron), spoluzakladatel sbírky „Dárek pro Putina“, který na
+    zbraně pro Ukrajinu dal asi 70 milionů korun. Za akcí tak podle něj stojí zbrojařské peníze a zahraniční
+    fondy, řízení obstarává CIA s BIS. Cílem je podle něj rozbít koalici, vyměnit SPD a Motoristy za ODS
+    nebo TOP 09 a „ponížit“ voliče SPD. Babiš jim nevadí, vadí jim protiunijní a protinatovská rétorika
+    SPD. Důvodem je podle něj chystaná válka s Ruskem, kvůli které potřebují ovládat parlament a vládu,
+    aby nikdo nebránil vysílání vojáků a mobilizaci. Nečeká převrat, ale „výměnu politiků“ v předčasných
+    volbách: odstaveni mají být SPD, Okamura, Rajchl, Mayerová a Vondráček, Babiš zůstane, nebo bude kandidovat
+    na prezidenta. Babiš, Okamura i Fiala jsou podle něj jen „loutky“ „totalitní struktury moci“. SPD
+    se k moci dostala díky jeho demonstracím z roku 2022, Okamura podle něj „lhal“ o odmítnutých pozvánkách
+    na cvičení „koalice ochotných“ a „není úplně inteligentní“. Rajchlovy demonstrace byly podle něj „katastrofa“
+    a Rajchl prý mluví „slovo od slova“ jako on. Babiš podle něj „dává Západu všechno“: v Dublinu se kamarádí
+    se Zelenským, Havlíček nabízí letadla, ČR přistoupila na muniční iniciativu a u 90 mld. eur pro Ukrajinu
+    „neručíme“ jen formálně, „protože to platíme“. Zákaz referenda o EU a NATO je podle něj „nejhorší
+    věc, kterou kdy Babiš udělal“. Kdyby jeho hnutí mělo stejnou mediální podporu jako Letná, bylo by
+    podle něj „ve vládě během měsíce“ a ČR venku z EU i NATO.'
+  citace:
+  - text: Můj názor je, že to je kvůli tomu, že se chystá válka s Ruskem a že potřebují mít absolutně
+      pod kontrolou parlament a vládu, aby nikdo nedělal problémy s vysíláním vojáků, s vypisováním, s
+      vyhlašováním mobilizace.
+  podtema: Politická kultura
+- id: vrabel-2026-11-15-03
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 454 mld. eur na obranu za jediný rok jako vysvětlení drahoty; úspory Evropanů (10 bilionů eur)
+    skončí ve zbrojních firmách „za zády lidí“ (Vrabel, 10. 11. 2026)
+  text: '**15. 11.** — Pokles cen zlata, stříbra a kryptoměn je podle Vrabela „plundrování lidí“ vysokými
+    úroky a záměrně drahými energiemi („to všechno je extrémně drahé schválně“). Velké banky podle něj
+    stlačují cenu papírového zlata a skupují fyzické. Radí zlato a stříbro neprodávat, držet fyzické kovy
+    v malých mincích a nemovitosti mimo EU, hotovost, akcie a banky považuje za riziko, protože se připravují
+    digitální měny CBDC. Pro většinu lidí je podle něj nejdůležitější bezpečné místo, jídlo, voda a teplo.'
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-11-15-04
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Rusko by Evropu dobylo bez jaderných zbraní — 3 000 dronů a 100 iskanderů denně; „Rusko vyhraje
+    s 99,9% pravděpodobností“ (Vrabel, 15. 11. 2026)
+  text: Vrabel rozvíjí scénář, v němž se Trump, Putin a Si dohodnou na sférách vlivu a USA veřejně vyloučí
+    jaderné krytí Evropy. Rusko by pak podle něj dokázalo Evropu porazit konvenčně, protože zvládne 3
+    000 dronů a 100 iskanderů denně, zatímco Evropa nemá protivzdušnou obranu. Ruská sféra vlivu by podle
+    něj sahala „na východ od Prahy nebo až po Prahu“. S odkazem na Scotta Rittera tvrdí, že Rusko si nemůže
+    dovolit čekat do let 2029–2030, až se Evropa nazbrojí, a rozhodnutí podle něj už padlo. Jadernou válku
+    považuje za „velmi málo pravděpodobnou“, obává se ale náhodného zásahu jaderného skladu v ČR. Válka
+    podle něj není jen o nerostech, ale o novém světovém systému (digitální měny, DSA, chat control, tokenizace
+    přírody), kvůli kterému je třeba zničit „pravoslavný suverénní ruský národ“. Globalisté podle něj
+    ovládli USA („zabili Kennedyho“, Deep State, Fed) a Evropu a teď chtějí Rusko a Čínu. Vystoupení z
+    NATO podle něj obchod neohrozí a odchod z EU by nahradily bilaterální smlouvy, opačná tvrzení (Vladimír
+    Štěpán) jsou „strašák“.
+  citace:
+  - text: Rusko si nemůže dovolit čekat do roku 2029, do roku 2030 a nechat se bombardovat Evropou.
+  podtema: Zahraniční aktéři a precedenty

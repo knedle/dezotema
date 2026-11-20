@@ -8,3 +8,29 @@ zdroj:
   prepis: prepisy/done/2026-10-15_Československo-TV2_1510-PROČ-JSME-STÁLE-ČESKOSLOVENSKO-NEJ-ARGUMENTY.txt
   rezim: standard
   poznamka: 17 min, ze záznamu. Rekapitulace ČSR argumentů a falšování voleb (HP/ESET) beze změny.
+vyroky:
+- id: zitko-2026-10-15-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: |-
+    **15. 10.** — Vysílání TV Šalingrad (Renata Bernardy) s „údajným" Čermákem na Zítkově „selském rozumu a kognitivním myšlení nezměnilo vůbec nic". On a Kačenka ho jako jediní z veřejnosti viděli naživo, zatímco Bernardy ho tři roky neviděla. Diváky vybízí: „vyražte do Holíšova a mrkněte se na něj". Zpochybňuje svědectví bývalého starosty Řepojišť Pavla Novotného, „dvou falešných policejních profilů" i Šišákové. Za zvláštní považuje, že Bernardy i Černohorský shodně tvrdí, že pravý je profil „Politický vězeň Čermák"; Bernardy prý ví, kdo stojí za profilem „Tomáš Kvatro Čermák 2026", a má tedy „nějaké zpravodajské informace". Jako jediný férový důkaz požaduje konfrontaci naživo u stolu, při níž by se diváci, Zítko i Hradil mohli ptát na detaily, které znají „jen my dva". Odkazuje na Bidenova dvojníka a dodává: „Já už jsem třeba viděl dvacet prezidentů Trumpů, možná ještě víc prezidentů Putinů… už šestý rok se nacházíme v informační válce."
+
+    Spory v hnutí přirovnává k fanouškům znepřátelených fotbalových klubů, kteří by měli „kopat za národní tým". Za útoky na sebe hledá motiv: „můžou za tím být peníze, může za tím být korupce, může za tím být třeba vydírání, což je ovládací mechanismus našich politiků". Celé to podle něj „zavání odváděním pozornosti od podstatně důležitějších věcí".
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-15-02
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rozdělení ČSFR jako nulitní akt + „velká aliance" čistí Deep State (Zítko, 12. 6. 2026)
+  text: '**15. 10.** — Zítko přidává „další rozměr podvodu", na který prý přišel pan Hlásenský: Václav
+    Klaus kandidoval ve volbách 5.–6. 6. 1992 do Federálního shromáždění, ne do České národní rady. Tam
+    kandidoval Jan Stráský, a funkce si tak podle Zítka „protiprávně, protizákonně, podvodně rozdělili",
+    když se Klaus s Mečiarem domluvil, že „stále existující" ČSR (zákon 11/1918) roztrhne. Obnova unitárního
+    státu je podle něj „daleko důležitější než Čermákiáda", aby někdo „korporaci Česko" „neprodal pod
+    prdelí předluženou, třeba na Ukrajinu". Zbytek je rekapitulace beze změny: zákon 542/1992 nepodepsal
+    prezident, poslanci byli jen kooptováni a volby proběhly až v roce 1996, Havel „křivě přísahal" třikrát
+    (29. 12. 1989, 5. 7. 1990, 2. 2. 1993) a rozdělení proběhlo bez referenda (ústavní zákon 327/1991),
+    takže lid byl „okraden".'

@@ -7,3 +7,19 @@ zdroj:
   url: https://www.facebook.com/61586055215179/videos/1383814540395375
   prepis: prepisy/done/2026-08-24_Restart-Cesko_Videoportál.txt
   rezim: standard
+vyroky:
+- id: sejna-2026-08-24-01
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Zelenskyj odmítá svobodné volby — vydělává na válce, EU financuje strach jako nástroj kontroly
+    (Šejna, 24. 8. 2026)
+  text: 'Šejna reaguje na Zelenského odmítnutí uspořádat svobodné volby, dokud neskončí konflikt s Ruskem
+    (odůvodněné rizikem pro Ukrajinu za války). Tvrdí, že Zelenskyj se ve skutečnosti bojí prohrát — ví,
+    že lidé na Ukrajině chtějí ukončení války, a odmítá riskovat volby, protože by je nevyhrál. Podle
+    Šejny je jediným motivem vydělávání na pokračování konfliktu (peníze z EU, NATO a USA) a udržování
+    napětí mezi Ruskem a Evropou, protože Rusko jednou dobyté území nikdy nevrátí — reálným řešením by
+    bylo přijmout ztrátu části území výměnou za zachování zbytku svobodné Ukrajiny. Rozšiřuje to na obecnější
+    tezi: EU podle něj udržuje evropské občany ve strachu z Ruska (které dle Šejny kvůli členství v NATO
+    nezaútočí), aby ospravedlnila postupné omezování jejich svobod.'
+  podtema: Stav Ukrajiny a mobilizace

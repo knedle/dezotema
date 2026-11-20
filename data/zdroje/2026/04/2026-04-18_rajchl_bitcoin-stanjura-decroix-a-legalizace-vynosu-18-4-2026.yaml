@@ -9,3 +9,23 @@ zdroj:
   rezim: standard
   delka: '3:06'
   poznamka: 'Zhlédnutí: 99 218'
+vyroky:
+- id: rajchl-2026-04-18-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Audit prokázal trestné činy: Stanjura a Decroix (Rajchl, duben 2026)'
+  text: 'Poté co byl dokončen audit bitcoinové kauzy, Rajchl konkrétizuje obvinění. Klíčový moment: 25.
+    března 2025 přišel náměstek Ministerstva spravedlnosti Radomír Daňhel za ředitelem Finančního analytického
+    útvaru (FAÚ) Jiřím Hilmarem a ptal se ho, jak by FAÚ k daným bitcoinům přistupoval. Hilmar odpověděl,
+    že budou postupovat podle zákona, ale dodal, že podobný dotaz za svou kariéru nikdy nezažil. Pouhé
+    dva dny poté stát začal dražit bitcoiny z naprosto stejné peněženky, z níž FAÚ dříve podal trestní
+    oznámení v jiné kauze. Rajchl vyvozuje: Zbyněk Stanjura musel vědět, že jde o špinavé peníze — je
+    odpovědný za **legalizaci výnosů z trestné činnosti**. Eva Decroix čelí obvinění z **trestného činu
+    nadržování**: omezovala přístup k informacím a zastavila zprávu Davida Uhlíře (bývalý ústavní soudce),
+    která by Stanjurovu roli dokumentovala. Strana PRO podala trestní oznámení 6. června 2025; Stanjura
+    přesto po odchodu z funkce vzal notebook, tablet i telefon — Rajchl to přirovnává ke kauze Ursuly
+    von der Leyen se smazanými SMS.'
+  dalsi_zdroje:
+  - 2026-04-19_rajchl_organizovany-zlocin-v-politice-dozimetr-bitcoin-ct-19-4-2026
+  podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

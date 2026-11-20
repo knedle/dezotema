@@ -7,3 +7,50 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1721658328938061
   prepis: prepisy/done/2026-10-07_Jindřich-Rajchl_Argumentační-debakl-fanatické-zelené-eurohujerky-Svar.txt
   rezim: standard
+vyroky:
+- id: rajchl-2026-10-07-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: ČT jako „kanál, který nejvíce šíří dezinformace" — proto ji omezit (Rajchl, 7. 10. 2026)
+  text: 'V televizní debatě s Gabrielou Svárovskou (Zelení) Rajchl ironicky přitakává boji s dezinformacemi:
+    pokud s nimi chceme bojovat, je třeba omezit Českou televizi, protože je podle něj „kanál, který nejvíce
+    šíří dezinformace v České republice“. Na námitku, že vysílání kontroluje RRTV a stížnosti lze podat
+    tam, odpovídá, že nejde o bonmot a že to jako poslanec bude realizovat.'
+  citace:
+  - text: Jestli chceme bojovat s dezinformacemi, tak my máme v plánu právě omezit tu Českou televizi,
+      což je kanál, který nejvíce šíří dezinformace v České republice.
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-10-07-02
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Pavel „troubí do války" — ve sporu s Ficem o čl. 5 NATO (Rajchl, 24. 9. 2026)
+  text: '**7. 10. (Rajchl, debata)** — Opakuje, že Pavlova výzva mít „odvahu“ sestřelit ruskou stíhačku
+    nad územím je „absolutní nesmysl“.'
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
+- id: rajchl-2026-10-07-03
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Strašení válkou kvůli zbrojení, ne zbrojení kvůli strachu — reakce na Krutílka (Rajchl, 22.
+    9. 2026)
+  text: '**7. 10. (debata se Svárovskou)** — Rajchl tvrdí, že mezi výdaji na obranu a obranyschopností
+    „neexistuje přímá úměra“, rozhoduje účelnost a koncepce. Jediné, čím ČR zatím „odstrašuje“, jsou podle
+    něj „zálohové faktury“; dodávku F-35 v roce 2035, „kdy už Putin ani nebude v úřadu“, označuje za „směšnou
+    záležitost“.'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: rajchl-2026-10-07-04
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Sabotáž Nord Streamu jako legitimní vojenský cíl — kritika Petra Pavla a médií (Rajchl, 6. 7.
+    2026)
+  text: '**7. 10. (debata se Svárovskou)** — Rajchl nově rámuje Ukrajinu jako jediný stát, který dosud
+    „zásadně zaútočil na území Evropské unie“ — „nechala vyhodit do vzduchu Nord Stream a poslala rakety
+    do Przewodówa“. O míru podle něj reálně jednají jen USA a Rusko, zatímco EU „jenom neustále hovoří
+    o tom, že je potřeba zbrojit a odstrašovat“.'
+  citace:
+  - text: Jediný, kdo tady zaútočil zatím zásadně na území Evropské unie, je Ukrajina, která nechala vyhodit
+      do vzduchu Nord Stream a která poslala rakety do Przewodówa.
+  podtema: Zahraniční aktéři a precedenty

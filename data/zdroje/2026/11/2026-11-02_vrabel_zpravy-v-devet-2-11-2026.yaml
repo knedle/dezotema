@@ -9,3 +9,67 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 2 min, zprávy čte Zuzka; sdílené polské video G. Brauna nezpracováno; druhá půlhodina
     zrychlená, část zpráv bez komentáře.
+vyroky:
+- id: vrabel-2026-11-02-01
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Umělá inteligence jako existenční riziko — Húsíové zneužili Claude k vývoji raket (Vrabel, 12.
+    9. 2026)
+  text: '**2. 11.** — Ke zprávám o propouštění programátorů kvůli AI Vrabel považuje ztrátu práce za „míň
+    závažnou“ věc, kterou vyřeší přerozdělení bohatství. Větší nebezpečí vidí v tom, že AI ovlivňuje myšlení
+    a osamělí lidé se obracejí k AI partnerkám a sexrobotům, takže se lidstvo může „samo vyhladit“, aniž
+    by AI musela převzít kontrolu. Poprvé tu podle něj je entita, která ovládá lidský jazyk lépe než lidé,
+    a na jazyku stojí zákony i řízení firem. Jaderné zbraně se ve velkém konfliktu „velmi pravděpodobně“
+    použijí, přesto za větší nebezpečí považuje AI; souhlasně cituje Harariho.'
+  citace:
+  - text: Pokud bych si musel vybrat jedno nebezpečí, který je větší, tak bych typnul na umělou inteligenci.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-02-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: „Vyhráli jsme brand, ne program" — heslo „Česko na prvním místě" z demonstrací 2022 převzali
+    Babiš a Okamura; Babiš jako „cizinec" zakázal referendum; „jsme před francouzskou revolucí" (Vrabel,
+    25. 9. 2026)
+  text: '**2. 11.** — K Babišovu výroku, že vláda musí kromě obrany financovat i zdravotnictví a dopravu,
+    Vrabel říká, že Babiš „si zahrává“. Volby 2025 podle něj byly jen o tom, aby se do Sněmovny nedostal
+    nikdo, kdo chce vystoupit z EU a NATO, protože politici a zbrojaři si nechtějí nechat ujít zbrojení
+    a konflikt s Ruskem. Tím, že Babiš a Pavel lidem upřeli referendum, se z nich podle něj stali „dva
+    diktátoři“ a „totalisté“. Kdyby vyhrál „Václavák“, ČR by nebyla v NATO a EU by se rychle rozpadla;
+    takhle se podle něj rozpadne až ekonomickým krachem nebo občanskou válkou v západní Evropě. V Babišově
+    kůži by „pár let dopředu“ být nechtěl.'
+  citace:
+  - text: Takže tyhle dva diktátoři se postavili vedle sebe na podporu Evropské unie a NATO.
+  podtema: Politická kultura
+- id: vrabel-2026-11-02-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Polsko: „ústavní puč“ Tuskovy vlády jako boj EU o polskou suverenitu (Vrabel, 31. 10. 2026)'
+  text: '**2. 11.** — K podpoře, kterou Evropská komise dala Tuskovi, Vrabel vykládá dělbu moci jako „základ
+    demokracie“: teď parlament ovládá soudy i policii a Komise jako „nadřízený orgán“ tuto „totalitu“
+    potvrzuje proti přímo zvolenému prezidentovi. Policie se podle něj má řídit zákonem, ne politiky,
+    a její nasazení na území ÚS bylo nezákonné. Paralelu vidí v Maďarsku, kde Magyar dal prezidentovi
+    ultimátum k odstoupení. Útočník s nožem před ÚS podle něj utekl do policejní dodávky, takže mohl být
+    „policejním provokatérem“. Za snahou ovládnout ÚS vidí polské volby, Braunovu Konfederaci a válku,
+    kvůli níž Brusel potřebuje Polsko „absolutně pod kontrolou“; Babiš se podle něj postaví na stranu
+    Komise a Tuska.'
+  citace:
+  - text: No tak potom je tady Evropská komise, která tu totalitu potvrdí a to vám řekne, jak to bude.
+  podtema: Česká suverenita
+- id: vrabel-2026-11-02-04
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Demise belgického premiéra De Wevera kvůli ruským aktivům, ne rozpočtu; Trump chce „uschovat“
+    evropskou páku (Vrabel, 2. 11. 2026)
+  text: Vrabel tvrdí, že belgický premiér Bart De Wever nenabídl demisi kvůli rozpočtu, ale kvůli rostoucímu
+    tlaku na použití zmrazených ruských aktiv v Euroclearu pro Ukrajinu. De Wever v prosinci jako jediný
+    řekl Komisi „ne“, protože by riziko padlo na Belgii, a teď, když na to tlačí i Trump, nechce být premiérem,
+    který za to ponese odpovědnost. EU má podle něj vůči Rusku jen dvě „karty“ — aktiva a sankce — ale
+    nepoužívá je k vyjednávání; z tisíců sankcí Rusku vadí jen desítky, zbytek je „nafouklá bublina“.
+    Proto Trump navrhuje, aby aktiva „uschovaly“ USA a páku použily samy.
+  citace:
+  - text: A on pravděpodobně mám taký pocit, že nechce být ten premiér, který za tohle bude zodpovědný.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

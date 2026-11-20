@@ -10,3 +10,15 @@ zdroj:
   poznamka: 1 h 40 min, nesestříhaná zvuková nahrávka Zítkova výslechu (mluví Zítko a kriminalista); překrývá
     se se záznamem z 30. 10.; osobní údaje ze záznamu nepřebírány; zpracováno podle shrnutí pomocného
     agenta.
+vyroky:
+- id: zitko-2023-11-13-01
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rodný list jako obchodní papír na burze v New Yorku — admirality law (Zítko)
+  text: |-
+    Zítko ve vysílání z 29. dubna 2026 přijal teorii suverénního občana (sovereign citizen) o „právu admirality": při narození je z každého člověka vytvořena „právní fikce" — jeho rodný list je prý obchodní cenný papír obchodovaný na New Yorkské burze. Systém tuto konstrukci záměrně skrývá, protože jde o klíčový nástroj ovládání obyvatelstva. Zítko doplňuje, že maminky při podpisu dokumentu o hlášení narození dítěte odevzdaly práva svého dítěte „do Vatikánu". Zákon admirality byl prý formálně zrušen, ale „zapomněli vám říct" — přirozené a nezadatelné právo stále existuje.
+
+    Tato teorie navazuje na Zítkův dřívější výklad, že Vatikán, City of London a Washington DC jsou skutečná mocenská centra světa, zatímco volby a demokratické vlády jsou pouhá „loutková divadla."
+  dalsi_zdroje:
+  - 2026-04-29_zitko_vecernik-29-dubna-referendum-vlastizrada-admiralty-law-2-5-2

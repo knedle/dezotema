@@ -13,3 +13,24 @@ zdroj:
     potravním řetězci; odpad lopatek (40–50 mil. t do 2050), betonové patky 4000 t/devastace půdy a spodních
     vod; blesky/požáry; úhyn netopýrů/ptáků; sociální rozpad venkova, „větrní baroni"/betonová lobby;
     podpora moratoria. Odborná přednáška ze sněmovního semináře k VTE a FVE („Příliš drahý vítr")
+vyroky:
+- id: turanek-2026-06-14-01
+  typ: tvrzeni
+  temata:
+  - vetrniky
+  nadpis: 'Odborná přednáška: pulzní infrazvuk, eroze lopatek, devastace půdy a rozpad venkova — Turánek
+    (seminář, sdíleno 14. 6. 2026)'
+  text: |-
+    Prof. RNDr. Jaroslav Turánek (imunolog) přednesl na sněmovním semináři „Příliš drahý vítr" odbornou přednášku o dopadech větrných elektráren na zdraví, ekosystém, potravinovou bezpečnost a sociální soudržnost — tvrdí, že tyto dopady jsou systematicky zamlčovány.
+
+    - **Pulzní infrazvuk (klíčová teze):** odlišuje *pulzní* infrazvuk od přírodního (šumění lesa). Lopatka míjející stožár vytváří tlakový puls; 150m tubus funguje jako „obří píšťala varhan" a šíří se jako liniový (válcový) zdroj. Infrazvuk (<20 Hz) prochází zdmi i zemí — v žule rychlostí ~6 km/s (vs. 330 m/s ve vzduchu), odráží se od podloží a v noci od teplotní inverze („fokusace"). U základů staveb rezonuje a akustický tlak v místnosti může být až o 30 dB vyšší; interference více turbín ho místně zesiluje. Dosah 6–20 km (kanadská studie u parku s 2 400 turbínami; švédská studie naměřila 95 dB ještě 6 km od zdroje, nad normou 90 dB). Běžné hlukoměry pulzní infrazvuk nezachytí (nutné měření v ~100ms intervalech). Turánek odmítá Turkův limit 800 m jako „nic".
+    - **Zdravotní dopady:** pulzní infrazvuk působí na vnitřní ucho → osa hypotalamus–hypofýza–nadledviny → permanentní vyplavování kortizolu (chronický stres, oslabení imunity); rezonance velkých orgánů (plíce, hrudník, oční bulva, hlava); u plodu v děloze narušení hlubokého spánku → předčasné porody a nižší porodní váha (na venkově, kde se rodí víc dětí).
+    - **Ekologie:** rotující komplex ~400 t, konce lopatek 300–360 km/h. Hyne hmyz, ptáci a netopýři (netopýra zabíjí tlakový ráz za lopatkou — savčí plíce praskají); blikající červená světla (GPS-synchronizovaná) působí jako poplašný signál a narušují psychiku.
+    - **Eroze lopatek → mikroplasty:** abrazí od krup, deště, prachu a hmyzu se uvolní ~čtvrt tuny mikročástic (sklolaminát, epoxid) za životnost; částice <5 µm se dostávají kořeny do rostlin a potravním řetězcem k člověku. Navíc nerozložitelné PFAS.
+    - **Odpad a beton:** lopatky (70–90 t/ks) mají krátkou životnost, do roku 2050 se odhaduje 40–50 mil. tun odpadu (úložiště v Texasu). Betonová patka u 250m turbíny: průměr 30 m, ~4 000 t železobetonu; „rekultivace" = uříznout vrch tubusu a zahrnout zeminou. Beton v zemi alkalizuje půdu, ucpává kapiláry → ničí spodní vody, nad patkou (~1 000 m²) vzniká pustina a větrná eroze.
+    - **Blesky:** ~3,5–10 zásahů ročně (20 000 A), riziko požáru (cca 1 z 1 700 turbín fatálně), v lese neuhasitelný; ~m³ oleje vsákne do země.
+    - **Sociální rozpad:** rozvrácení venkovských komunit, znehodnocení nemovitostí (lidé nemají kam jít), „průmyslová kolonizace", ztráta vztahu k domovu a důvěry v politiky/demokracii — Turánek to přirovnává k době covidu. Hnací silou nejsou úspory energie, ale „miliardy dotací a chtivost větrných baronů", betonová lobby, zkorumpovaní politici a vlastníci médií (včetně ČT/ČRo, která ze seminářů neinformují). Podporuje moratorium na výstavbu.
+  citace:
+  - text: Ten zápas o větrné elektrárny není jen technickým a ekonomickým sporem o zdroje energie. Je
+      to hluboký zápas o právo na domov, klid a zachování lidské tváře venkova.
+  podtema: Technická a environmentální kritika

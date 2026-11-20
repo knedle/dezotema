@@ -10,3 +10,14 @@ zdroj:
   delka: 00:01:29
   poznamka: 'Zpracováno 1 téma: Hejtman Martin Půta (kandidát na Senát) obviněn ze lži o opravě silnice
     v Mimoni (zaměněna se silnicí Ralska) — [kauzy.md](kauzy.md). Bez predikcí a stoch. teroru.'
+vyroky:
+- id: tarabova-2026-07-06-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Hejtman Martin Půta (kandidát na Senát) — obvinění ze lži o opravě silnice
+  text: Tarabová na místě v Mimoni ukazuje, že hejtman Liberecka Martin Půta ve svém videu prezentoval
+    jako opravenou krajskou investici (4,5 mil. Kč) Hvězdovskou ulici — ve skutečnosti šlo o silnici ve
+    vlastnictví sousedního města Ralska, zatímco skutečná Hvězdovská ulice v Mimoni, o níž se v komunikaci
+    mluvilo, zůstává rozbitá a neopravená. Označuje to jako druhou v pořadí odhalenou nepravdu („lež č.
+    2") a naznačuje, že vzhledem k opakování už nejde o omyl, ale o „vydírání".

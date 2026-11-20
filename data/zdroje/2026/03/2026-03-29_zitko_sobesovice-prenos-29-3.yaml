@@ -7,3 +7,28 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1428508325427621
   prepis: prepisy/done/2026-03-29_Československo-TV2_Videoportál.txt
   rezim: standard
+vyroky:
+- id: pekova-2026-03-29-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Vzorky vakcín bez zájmu úřadů — Soňa Peková
+  text: |-
+    Virolog a soudní znalkyně Soňa Peková (vystupující na akci Pavel Zítko) popisuje, že obdržela vzorky vakcín (lahvičky) k analýze a opakovaně je nabízela k protokolárnímu přezkoumání — slovenským orgánům, Petru Kotlárovi i premiéru Ficovi. Nikdo zájem neprojevil. Vzorky zůstávají v její laboratoři v mrazáku. Peková z toho vyvozuje, že neexistuje žádná politická vůle odhalit případná pochybení.
+
+    > „Tady není vůbec žádná snaha o odhalování zločinu za covidu-19 a každý, kdo se o to snaží, tak má být nakonec vlastně uvařen." — Soňa Peková, citována Pavel Zítko, [Soběšovice 2026-03-29](_zdroje.md#pavel-zítko--soběšovice-přenos-29-3)
+  mluvci: pekova
+  podtema: Pokusy o vyšetřování
+- id: pekova-2026-03-29-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Sofistikované umlčování kritiků
+  text: Peková tvrdí, že lidé, kteří se snaží odhalovat pochybení z doby covidu, nejsou umlčováni přímou
+    konfrontací, ale „velice sofistikovaným způsobem" — přátelstvím a zdánlivou spoluprací osob, jejichž
+    skutečným cílem je jejich neutralizace.
+  citace:
+  - text: Velice sofistikovaným způsobem, že člověk se zpřátelí s tím člověkem, který ho nakonec má dovést
+      k tomu, aby to nedopadlo dobře.
+  mluvci: pekova
+  podtema: Pokusy o vyšetřování

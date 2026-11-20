@@ -11,3 +11,32 @@ zdroj:
   poznamka: 'Dvojí metr kolektivní viny: zastánci LM sjezdu odmítají kolektivní vinu pro sudetské Němce,
     ale aplikují ji na Rusy; případ policisty ČR odmítnutého sázkovou kanceláří kvůli ruskému rodišti.
     Zhlédnutí: 56 195'
+vyroky:
+- id: rajchl-2026-05-28-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: 'Kolektivní vina — dvojí metr: SdL vs. Rusové (28. 5. 2026)'
+  text: |-
+    Rajchl poukazuje na vnitřní rozpor zastánců SdL sjezdu: celé týdny vysvětlovali, že kolektivní vina je nehumánní, nelidská. Přitom jsou to tytéž osoby, které:
+    - zakazovaly koncert ruské operní pěvkyně Netrebko
+    - zatýkaly ruské tenistky na letišti
+    - horaly za vyloučení ruských sportovců z olympijských her
+
+    Konkrétní případ: Čech s ruským rodištěm, 16 let občan ČR, 10 let sloužící u policie ČR, byl odmítnut sázkovou kanceláří — jen proto, že jako místo narození uvedl Ruskou federaci. Rajchl: „To říkám dvojí metr. Srovnejte si trošku noty a začněte být alespoň maličko konzistentní."
+  podtema: Podstata dekretů, odsun a smíření
+- id: rajchl-2026-05-28-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Kolektivní vina: OK pro Rusy, ale ne pro sudetské Němce — Rajchl (28. 5. 2026)'
+  text: |-
+    Rajchl poukazuje na přímý dvojí metr: zastánci sjezdu Landsmannschaftu argumentovali, že kolektivní vina je „vždy a za všech okolností nehumánní." Přitom stejní lidé:
+    - zakazovali koncerty ruské operní pěvkyně Nyěbuké,
+    - zatýkali ruské tenistky na letišti,
+    - horovali za vyloučení ruských sportovců z olympijských her.
+
+    A kolektivní vina se uplatňuje i vůči českým občanům: muž narozený v Rusku, který je 16 let občanem ČR a 10 let slouží u české policie, byl odmítnut internetovou sázkovou kanceláří — pouze proto, že jako místo narození uvedl Ruská federace.
+  citace:
+  - text: Takže přátelé, srovnejte si trošku noty. A začněte být alespoň maličko konzistentní.
+  podtema: Ekonomický program PRO

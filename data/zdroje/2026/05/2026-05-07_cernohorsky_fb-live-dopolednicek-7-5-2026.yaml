@@ -8,3 +8,54 @@ zdroj:
   prepis: prepisy/done/2026-05-07_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
   delka: '3:25:32'
+vyroky:
+- id: cernohorsky-2026-05-07-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Česká republika se za odsun omlouvat nemusí — viníkem jsou nacisté, ne Čechoslováci (Černohorský,
+    7. 5. 2026)
+  text: |-
+    Černohorský ve tříhodinovém FB Live podrobně vysvětluje svůj postoj k sudetoněmecké otázce. Souhlasí s tím, že pochod smrti a odsun byly tragické a nesmí se zapomenout — ale odmítá, aby se za ně Čechoslováci omlouvali. Druhou světovou válku nezpůsobili Čechoslováci, ale nacistické Německo, Henleinova strana a Hitlerův Wehrmacht. Pochod smrti byl důsledkem nacistických zločinů, nikoliv české viny. Smíření přijímá jako možné, ale chybí mu lidská, emocionální omluva německé strany — oproti diplomatické deklaraci z roku 1997, která sloužila výhradně diplomatickým účelům.
+
+    Místem sjezdu kategoricky odmítá Brno nebo jakékoli místo na českém území: „Smíření v Brně ne. Smíření na jejich území — klidně." Magistrát Brno obviňuje ze zrady — tvrdí, že signatáři pozvánky (Hladík, Grolich, Vaňková, Uhde a dalších ~30 osob) přijali osm milionů eur za organizaci sjezdu.
+  citace:
+  - text: Takže tyhle nacisti jsou viny za pochod smrti, ne Čechoslováci. Ne ti, co se mstili.
+  - text: Smíření sudeto německého Landsmannschaftu [...] na konání sjezdu [...] do pohraničí německého
+      — ano, jsem za to. Ale ne v Brně, ne tam, kde se vražděli lidi v kounicových kolejích.
+  podtema: Podstata dekretů, odsun a smíření
+- id: cernohorsky-2026-05-07-03
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: 600 miliard CZK za solární dotace — za to by šly 4 jaderné bloky (Černohorský, 7. 5. 2026)
+  text: |-
+    Jiří Černohorský odkazuje na výpočet, podle nějž bylo za solární dotace v ČR od jejich zavedení vyplaceno přibližně **600 miliard korun**. Poukazuje na to, že za tuto částku by bylo možné postavit čtyři jaderné bloky, které by zajišťovaly stabilní základní zátěž. Solární a větrnou energii označuje za nespolehlivé a dotační systém za podvod.
+
+    Samostatně kritizuje návrh energetického mixu 50 % obnovitelné / 50 % jaderné energie. Upozorňuje, že jaderná elektrárna nemůže pružně snižovat nebo zvyšovat výkon podle toho, kolik zrovna vyrábí solár a vítr — výkon bloků je z technologických a bezpečnostních důvodů prakticky neregulabilní v krátkém čase. Přebytečnou energii z obnovitelných zdrojů pak musí soustava „likvidovat" (ztrátový odvod), tedy vyhazovat zadarmo vyrobenou elektřinu.
+  citace:
+  - text: Za to, za těch 600 miliard co dotace se platily za ty soláry, bysme měli postavený další 4 jaderný
+      bloky.
+  podtema: Solární energie a státní dotace
+- id: cernohorsky-2026-05-07-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Státní dluh ČR: 170–190 miliard (1993) → 3,5 bilionu Kč (2026) — Černohorský (7. 5. 2026)'
+  text: Jiří Černohorský konstatuje, že za 33 let od vzniku ČR vzrostl státní dluh z přibližně 170–190
+    miliard Kč (1993) na přibližně 3,5 bilionu Kč (2026). Tento nárůst přičítá výhradně politickému systému
+    a stranické správě státu. Paralelně poukazuje na prodej ~50 tun zlatých měnových rezerv za eura za
+    vlád před nebo po vzniku ČR. Označuje tato rozhodnutí za příklady systémového selhání — „zmrdi, co
+    tam seděli 33 let."
+  podtema: Ekonomický program PRO
+- id: cernohorsky-2026-05-07-05
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Česká televize: vláda chce finanční transparentnost, ne omezení obsahu — Černohorský (7. 5.
+    2026)'
+  text: 'Černohorský odmítá narativ, že Babišova vláda chce omezovat svobodu ČT. Podle něj vláda žádá
+    pouze transparentnost — kam jdou poplatky (osmimiliardový roční příjem), zda jsou placeni příbuzní
+    redaktorů, jaká je role zahraničních neziskovek. Obsah ani redakční rozhodnutí regulovat nechce. Kritizuje
+    demonstranty za ČT jako „ovcoidní kundy": protestují za zachování poplatků bez jakékoli kontroly.'
+  podtema: Ekonomický program PRO

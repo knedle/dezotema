@@ -9,3 +9,48 @@ zdroj:
   rezim: standard
   delka: '2:00'
   poznamka: 'Zhlédnutí: 107 019'
+vyroky:
+- id: rajchl-2026-03-31-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: EP jako divadlo — předem dohodnuté hlasování
+  text: 'Jindřich Rajchl na základě zkušenosti z práce v Evropském parlamentu tvrdí, že EP je pouhé divadlo:
+    veškerá rozhodnutí jsou dojednána předem mezi Komisí a skupinovými leadery, samotná plenární hlasování
+    jsou jen formální schválení. Rajchl popisuje, jak po příchodu do EP zjistil, že jako nový poslanec
+    nezískal žádný funkcionářský post, protože tato místa jsou obsazována starými stranami. Viz také [Suverenita
+    a EU — EP jako divadlo](suverenita-eu.md#evropský-parlament-a-v4-strategie).'
+  podtema: Evropský parlament a demokratický deficit
+- id: rajchl-2026-03-31-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Evropský parlament jako divadlo — skutečná moc je v Komisi
+  text: V pořadu K věci s Lucií Čermákovou Rajchl odmítl, že by Evropský parlament měl smysl v zastávání
+    národních zájmů. Všechna rozhodnutí jsou podle něj předem dohodnutá ve prospěch Evropské komise a
+    Ursuly von der Leyen — EP jen vytváří zdání demokratické legitimity. Pokud Komisi přesto neodvolali,
+    přestože si to zasloužila, je to důkaz, že EP je bezmocný. Skutečná strategie změny proto musí jít
+    přes Radu EU a přes koordinaci zemí, nikoli přes parlamentní frakce.
+  citace:
+  - text: Evropský parlament je hra na demokracii. Evropský parlament je naprosto nedůležitý orgán. Ten
+      v podstatě jenom jaksi vytváří dojem, že tam rozhodují nějací zástupci volení lidem.
+  podtema: Evropský parlament a V4 strategie
+- id: rajchl-2026-03-31-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'V4 strategie: Slovensko, Maďarsko a případně Polsko jako protiváha'
+  text: |-
+    Za skutečnou cestu ke změně Rajchl považuje koalici V4 — Česko, Slovensko, Maďarsko a (do budoucna) Polsko. Skupině zemí pak může být blokována imigrační politika (migrační pakt), emisní povolenky i green deal tlakem přes Radu EU. Odmítá nálepku „izolovanosti" Fica a Orbána — tito lídři dle Rajchla hájí národní zájmy svých zemí, nikoliv vyhovují bruselskému konsenzu.
+
+    V Bratislavě (4. 4. 2026) Rajchl citoval Orbána ze setkání v Budapešti: V4 má „3,5 prutu" ze 4 — Maďarsko, Slovensko, ČR a polský prezident Nawrocki; čeká se na druhou polovinu Polska. Rajchl přirovnává V4 ke svazku proutů (jedno zlomíš, tři jsou obtížné, čtyři nelze). V4 by měla být mostem mezi Washingtonem, Pekingem i Moskvou, nikoliv satelitem jednoho pólu. Cituje JFK (1963): mír nezajistí zbraně, ale schopnost mluvit — proto jsou peníze pro lidi, ne do „nepotřebného železa".
+
+    Ve vysílání přímo z volebního štábu Fidesz v Budapešti (12. 4. 2026) Rajchl komentuje volební výsledky: Fidesz zvítězil navzdory silnému mediálnímu odporu ze strany EU i zahraničního kapitálu. Osobní přítomnost označuje za projev přímé solidarity s konzervativním blokem V4. Čeká se na polské parlamentní volby: pokud zvítězí PiS s Konfederací, V4 bude opět „4 pruty" — a blok získá dostatečnou váhu v Radě EU k zablokování migračního paktu i Green Dealu.
+  citace:
+  - text: Orbán vydírá Evropskou unii nebo Fico vydírá Evropskou unii? Ne, oni hájí svoje národní zájmy
+      a je velmi dobře, nebo bude velmi dobře, když se k ním připojíme a budeme ty národní zájmy naše
+      hájit.
+  dalsi_zdroje:
+  - 2026-04-04_rajchl_projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026
+  - 2026-04-12_rajchl_budapest-fidesz-volebni-noc-12-4-2026
+  podtema: Evropský parlament a V4 strategie

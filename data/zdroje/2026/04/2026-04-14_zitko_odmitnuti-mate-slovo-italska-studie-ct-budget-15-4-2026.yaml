@@ -10,3 +10,19 @@ zdroj:
   delka: '54:12'
   poznamka: 'Druhé vysílání ze dne 14. 4.; reakce na odmítnutí dramaturgem Smršem, sdílení italské studie
     o rakovině po vakcinaci, ČT budget, AFD Richter moratorium. Zhlédnutí: 548'
+vyroky:
+- id: zitko-2026-04-14-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Italská studie: vyšší riziko rakoviny po vakcinaci COVID-19'
+  text: |-
+    Zítko v druhém živém vysílání 14. dubna 2026 sdílí italskou studii, která dle jeho výkladu prokázala, že lidé, kteří dostali alespoň jednu dávku vakcíny COVID-19, měli ve srovnání s neočkovanými:
+    - o **34 %** vyšší pravděpodobnost vzniku kolorektálního karcinomu
+    - o **54 %** vyšší pravděpodobnost vzniku rakoviny prsu
+    - o **62 %** vyšší pravděpodobnost vzniku rakoviny močového měchýře
+
+    Zítko cituje tuto studii jako jeden z dokladů, proč je nutné, aby ČT pozvala do pořadu Máte slovo i kritiky vakcinace. Zároveň sdílí výzvu německého poslance AFD **Volkera Richtera**, který v Bundestagu požaduje moratorium na všechny mRNA vakcíny a označuje celou vakcinační kampaň za „největší podvod od vzniku Německa."
+
+    ⚡ **Konflikt:** Studie, na níž Zítko odkazuje, není blíže specifikována; regulační orgány EU (EMA, SÚKL) žádnou takovou kauzální spojitost s nárůstem onkologických onemocnění nepřiznaly.
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)

@@ -7,3 +7,80 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/2975583576110237
   prepis: prepisy/done/2026-09-07_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-09-07-01
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Migrační pakt, Ceuta a islám — jediná cesta ven je vystoupit z EU (Vrabel, 3. 6. 2026)
+  text: '**7. 9.** — K demonstraci „migranti proti migraci" v Doveru (Británie), kde maskovaní muži zablokovali
+    silnice k přístavu s hesly „Stop the boats", Vrabel opakuje beze změny svou tezi, že islám nelze schovávat
+    za pojem „náboženství" — jde podle něj primárně o právní systém (šaría), který upravuje, jak se mají
+    muslimové chovat k nemuslimům, a proto se „nás týká" bez ohledu na to, komu se kdo modlí.'
+- id: vrabel-2026-09-07-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Babišova „polská cesta" a koalice, která si hraje na vlastní opozici (Vrabel, 7. 9. 2026)
+  text: 'K vyjádření premiéra Andreje Babiše, že vláda dodrží závazek snížit rozpočtový schodek vůči Evropské
+    komisi a zároveň chce investovat „polskou cestou" (36 mld. Kč na obranu), Vrabel nejprve zpochybňuje
+    samotný pojem — jít „polskou, italskou nebo slovenskou cestou" nedává smysl, protože rozpočet ČR by
+    měl vycházet z potřeb ČR, ne z toho, co dělají jiné země. Formuluje obecnější postřeh o fungování
+    současné koalice: skuteční názoroví oponenti (opozice) v praxi už neexistují, protože koalice si dokáže
+    vytvořit „vlastní opozici" uvnitř sebe — někteří koaliční poslanci (motoristé, SPD) veřejně štěkají
+    proti konkrétním krokům (schodek, ceny paliv), aby si vláda mohla připsat zásluhu za pozdější ústupek
+    pod „tlakem" vlastních partnerů, aniž by šlo o reálný spor. Zopakoval svůj obvyklý závěr, že řešením
+    je vystoupení z EU a NATO a vojenská neutralita, protože ČR si nemůže dovolit zadlužování ani vojenské
+    závazky, které jí tyto organizace vnucují.'
+  podtema: Politická kultura
+- id: vrabel-2026-09-07-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Zemské volby v Sasko-Anhaltsku — AfD s přes 40 % může poprvé vytvořit samostatnou vládu (Šejna,
+    5. 9. 2026)
+  text: '**7. 9.** — Vrabel referuje o výsledku: AfD v Sasku-Anhaltsku skutečně zvítězila s 38–40 % (víc
+    než dvojnásobek CDU), na samostatnou vládu to ale nestačí. Nabízí vlastní analýzu příčin propadu Německa,
+    které podle něj vedly k tomuto výsledku: masivní migrace od roku 2015 (nedostatek bydlení, zhoršená
+    bezpečnost — „aby holka šla sama večer ven, to je nemyslitelné"), vysoké výdaje na podporu Ukrajiny
+    a odstřižení od levných ruských energií (na němž bylo německé hospodářství vybudováno, jak dříve uznaly
+    i Angela Merkelová a Ursula von der Leyenová). Popisuje ekonomický propad (Volkswagen zvažuje propuštění
+    100 tisíc lidí) a pád popularity kancléře Friedricha Merze (bývalý předseda představenstva BlackRock),
+    který sliboval zastavení migrace a fiskální disciplínu, ale krátce po zvolení prosadil prolomení ústavní
+    „dluhové brzdy". Odmítá charakterizaci AfD jako „proruské" strany — podle něj je to čistě „proněmecká"
+    strana usilující o obnovení dobrých vztahů s Ruskem (kvůli energiím), podobně jako Vrabelovo hnutí
+    v ČR; zdůrazňuje, že jde jen o výhru v malé spolkové zemi (1,4 mil. obyvatel), ne o celoněmecký obrat.'
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-09-07-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Proč Ukrajina nemá lidi a kdo bude mobilizován jako další — Vrabel odpovídá na dotaz diváka
+    (7. 9. 2026)
+  text: 'Na dotaz diváka k výroku J. D. Vance, že „když Ukrajinci nemají lidi do války, půjdou tam naši
+    hoši", Vrabel odpovídá, že Ukrajina skutečně nemá lidi (mobilizace žen, odvody 20letých, zatýkání
+    důchodců a invalidů na ulicích), ale ne peníze — těch má podle něj Zelenského vedení vždy dost. Predikuje
+    pořadí, v jakém budou další země postupně zapojeny do mobilizace: nejdřív Polsko („silný slovanský
+    národ", který je třeba rozbít, aby nemohl vzdorovat plánu na promíchání evropského obyvatelstva s
+    migranty), poté pobaltské státy, které označuje za „úplně sfanatizované". Cituje nové vyjádření ruské
+    strany, že za největší nacisty považuje po Ukrajině právě pobaltské státy, dále Polsko a Českou republiku.
+    Přesto předpokládá, že ČR mobilizována nebude — sarkasticky glosuje, že západní spojenci (Němci, Francouzi,
+    Britové) „milují Čechy" a Andrej Babiš „nedá" české vojáky do války, i když bude ochotně podporovat
+    spojence jinak (souřadnice, munice, peníze).'
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-07-05
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Německo chystá tvrdší opatření proti Rusku — spekulace o „false flag" u incidentu v Halle (Vrabel,
+    29. 8. 2026)
+  text: '**7. 9.** — Vrabel navazuje zprávou, že Německo podle médií zvažuje předávat Ukrajině přesné
+    souřadnice vojenských cílů v Rusku — v přímé návaznosti na německé obvinění Ruska z pokusu o dronový
+    útok na letiště v Lipsku (které je zároveň základnou programu SALIS pro strategickou leteckou přepravu
+    NATO, mj. i pro ČR). Vrabel to interpretuje jako přímé zapojení Německa do útoků na ruské území —
+    pokud Němci vybírají a poskytují cíle, jde dle něj fakticky o německou, ne ukrajinskou válku, protože
+    Ukrajina už jen „dodává území a civilní obyvatelstvo". Opakuje, že Rusko nelze vojensky porazit (mnohem
+    větší území, možnost eskalace jadernými zbraněmi) a že západní účast na útocích (souřadnice, munice,
+    peníze) znamená, že ČR i ostatní zapojené státy jednou ponesou odpovědnost a možné reparace bez ohledu
+    na výsledek konfliktu.'
+  podtema: Zahraniční aktéři a precedenty

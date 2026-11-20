@@ -7,3 +7,53 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1770966730580575
   prepis: prepisy/done/2026-08-17_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-08-17-01
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: Pokuta 120 mil. eur pro X jako trest za zveřejnění cenzurních žádostí — Zuckerbergova „zadní
+    vrátka" (Vrabel, 17. 8. 2026)
+  text: 'Evropská komise udělila síti X (Twitter) pokutu 120 milionů eur oficiálně za porušení pravidel
+    transparentnosti podle DSA (ověřování účtů, transparentnost reklamy, přístup výzkumníků k datům).
+    Vrabel skutečný důvod vidí jinde: Elon Musk dlouhodobě zveřejňuje požadavky evropských vlád na odstraňování
+    obsahu, čímž znemožňuje skrytou cenzuru — pokuta je podle něj trestem právě za tuto transparentnost.
+    Srovnává to s osudem Pavla Durova (zakladatel Telegramu), kterého francouzská policie na letišti zadržela
+    a uvěznila poté, co odmítl s EU spolupracovat na cenzuře Telegramu — po propuštění už Durov cenzurní
+    požadavky plní. Na rozdíl od Durova má Musk podle Vrabela dostatečný vliv (spolupráce s Pentagonem),
+    aby si mohl dovolit s Evropskou komisí nespolupracovat. Klíčovým bodem je citace Marka Zuckerberga,
+    který veřejně přiznal, že zatímco v USA Facebook funguje svobodně, evropské vlády si na Facebooku
+    vyžádaly „zadní vrátka" (backdoors) — mechanismus, kterým lze algoritmicky zvýhodnit vybraného politického
+    kandidáta (masivně šířit jeho příspěvky) a potlačit dosah jiného (typicky toho, kdo prosazuje vystoupení
+    z EU/NATO), aniž by si toho veřejnost všimla, protože každý uživatel vidí jen svůj vlastní news feed.
+    Uzavírá, že jde o rafinovanější nástroj ovlivňování politiky než klasická média, protože nerovné zacházení
+    mezi jednotlivými profily není z venku nijak pozorovatelné.'
+  podtema: DSA — Digital Services Act
+- id: vrabel-2026-08-17-02
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'Ceuta: sexuální napadení nezletilých migrantů jako „kulturní" jev — apel na ochranu dětí (Vrabel,
+    10. 8. 2026)'
+  text: '**17. 8.** — Vrabel dokládá na konkrétním příkladu, jak Lex Ukrajina 7 činí Okamurovu rétoriku
+    prázdnou: Okamura veřejně požaduje zrušení dočasné ochrany pro Ukrajince a prezentuje to jako vlastenecký
+    úspěch — ovšem jeho vlastní vláda a parlament v květnu 2026 schválili právě Lex Ukrajina 7, který
+    dává Ukrajincům s dočasnou ochranou nárok požádat o trvalý pobyt. Podle Vrabela to fakticky znamená,
+    že dočasná ochrana je pro ně už bezpředmětná — mohou přejít na trvalý pobyt, takže její formální „zrušení"
+    nic nezmění. Vrabel to označuje za záměrné klamání veřejnosti, které funguje jen díky nevědomosti
+    o obsahu vlastního zákona vládní koalice.'
+- id: vrabel-2026-08-17-03
+  typ: tvrzeni
+  temata:
+  - vetrniky
+  nadpis: '⚡ Konflikt: Vrabel zpochybňuje Turkovo „vítězství" — procento větrné energie v plánu vlády
+    beze změny (17. 8. 2026)'
+  text: 'Na rozdíl od Šejnova hodnocení zmenšení akceleračních zón jako Turkova vybojovaného úspěchu (viz
+    výše) Vrabel tvrdí, že jde o falešnou výhru. Namítá, že klíčovým ukazatelem není rozloha vymezených
+    zón, ale podíl elektřiny, který má být z větrných zdrojů vyráběn podle programového prohlášení vlády
+    — ten zůstává i po zmenšení zón beze změny (cca 13,5 %). Zmenšení zón podle něj neznamená méně větrníků
+    ani nižší podíl větrné energie, jen jejich rozprostření do více lokalit místo koncentrace na méně
+    místech („bude to postavené jinam, ne míň"). Tuto kritiku zasazuje do širšího kontextu cen energie:
+    ČR má podle něj 4–4,5× dražší elektřinu a plyn pro koncového spotřebitele než Srbsko, což řadí mezi
+    hlavní překážky konkurenceschopnosti českého průmyslu.'
+  podtema: Kulturní a občanský odpor

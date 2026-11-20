@@ -8,3 +8,33 @@ zdroj:
   prepis: prepisy/done/2026-04-01_Československo-TV2_Videoportál_1.txt
   rezim: standard
   delka: 1:41:22 — 28. 3. 2026 Soběšovice, MUDr. Peková Q&A, 2. část
+vyroky:
+- id: zitko-2026-04-01-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Pfizer: 1223 mrtvých za 3 měsíce testování — a CDC potvrdil záporný přínos'
+  text: |-
+    Na Q&A v Soběšovicích Pavel Zítko a Soňa Peková prezentují data z vlastních přepisů a soudních dokumentů: v klinické studii Pfizeru (přibližně 40 000 účastníků, 1. 12. 2020 – 28. 2. 2021) zemřelo 1223 osob. Dokumenty z žaloby vynucené americkým soudem, které Pfizer chtěl utajit na 75 let, pak Pfizer označil jako záměrné tajení. Druhým klíčovým zdrojem je dokument CDC stažený z vlády USA dne 28. 8. 2021: uvádí, že jen v USA (4 % světové populace) zemřelo po vakcíně 150 000 lidí a vakcína COVID-19 má „čistě negativní přínos" — tzn. po ní umírá 25–30× více lidí, než na samotné onemocnění. Peková ho četla veřejně u budovy lékařské komory, přestože policie přítomnost zpochybňovala.
+
+    ⚡ **Konflikt:** Referenční regulační orgány (FDA, EMA, CDC) nezveřejnily žádná data potvrzující tyto počty; tvrzení o záměrném utajování a masové smrtnosti vakcín jsou v rozporu s vědeckým konsensem.
+  citace:
+  - text: Ze vzorku 42 nebo 45 000 lidí — 1223 zabitých za tři měsíce. Když pak čtvrtníček hřímal v reklamě
+      hrazené z veřejných peněz, že to funguje... bylo vidět, že to funguje — směrem k redukci počtu obyvatel
+      a ke sterilizaci lidí.
+  dalsi_zdroje:
+  - 2026-04-01_zitko_sobesovice-pekova-prednaska-cast-1-1-4
+  podtema: Vakcíny
+- id: zitko-2026-04-01-03
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Rajchl slíbil pomoc s prezidentským dopisem — a nesplnil
+  text: 'Peková na akci v Soběšovicích uvádí, že se spoléhala na Jindřicha Rajchla, který na semináři
+    o COVID-19 ve sněmovně (26. 1. 2026) veřejně prohlásil, že se celou svojí osobností za petici k prezidentovi
+    postaví. Peková proto nikoho jiného neoslovila. Rajchl nakonec nepomohl, proto petici organizuje sama
+    po své ose. Při hledání mezinárodní podpory kontaktovala i Alaina Berseta (generální sekretář Rady
+    Evropy, bývalý švýcarský ministr zdraví, „sám těžký covidián"), Barackou Obamovu nadaci a ruskou ambasádu
+    — vše bez praktického výsledku. Jako filosofický postoj uvádí: „Tuto hru v tuto chvíli není možné
+    objektivně vyhrát, ale není možné ji nehrát."'
+  podtema: Pokusy o vyšetřování

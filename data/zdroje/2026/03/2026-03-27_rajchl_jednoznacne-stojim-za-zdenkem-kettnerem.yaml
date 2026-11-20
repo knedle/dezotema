@@ -9,3 +9,21 @@ zdroj:
   rezim: standard
   delka: '2:55'
   poznamka: 'Zhlédnutí: 63 471'
+vyroky:
+- id: rajchl-2026-03-27-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Obhajoba náměstka školství
+  text: V krátkém videu natočeném v Bratislavě se Rajchl jednoznačně staví za Zdeňka Kettnera, náměstka
+    ministra školství za SPD, který sdílel fotografii upravenou umělou inteligencí, aniž si toho byl vědom.
+    Poté co chybu zjistil, příspěvek okamžitě smazal a omluvil se. Rajchl odmítá, aby se Kettner omlouval
+    Tomáši Halíkovi a Mikuláši Minářovi, které označuje za „dva největší lháře v celé České republice".
+    Odmítá i trestní postih s argumentem, že k trestnému činu chybí úmysl.
+  citace:
+  - text: Zdeněk Kettner se spletl. Nechal se ošálit fotografií, která byla upravena umělou inteligencí.
+      [...] V momentě, kdy tuto svoji chybu zjistil, okamžitě svůj příspěvek odstranil a za svoji chybu
+      se omluvil. Tím to končí. Tečka šlus.
+  - text: Pokud tady někdo šíří zlo, tak jsou to právě oni. Tomáš Halík, Mikuláš Minář a celá ta jejich
+      partička.
+  podtema: Kauza Zdeněk Kettner — AI fotografie

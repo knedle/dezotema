@@ -8,3 +8,71 @@ zdroj:
   prepis: prepisy/done/2026-09-28_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
   poznamka: Úsek 29:24–40:19 je předčítaná AI rešerše o Vrabelově trestní kauze.
+vyroky:
+- id: cernohorsky-2026-09-28-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: ⚡ Vrabelova dotační kauza podle AI rešerše — „hochštapler a podvodník" (Černohorský, 28. 9.
+    2026)
+  text: |-
+    Černohorský předčítá AI rešerši o trestní kauze Ladislava Vrabela: vinen ve dvou bodech se škodou 568 tisíc (jinde uvádí 538); Pizza Originale v Českých Budějovicích (formálně manželky) měla čerpat podporu na nájem, který se provozovny netýkal, a příspěvky na zaměstnance bez odvodů s nepravdivým prohlášením o bezdlužnosti; Cinema Simeris v Praze měla vykazovat „restauraci se 120 místy", která byla podle stavebního úřadu dvěma nelegálními přístřešky, a 278 tisíc převedla do dvou dnů na účet manželky; nájem 300 tisíc za pozemek převedený na tchyni v Bělehradě prý proplatil stát; tři firmy dostaly za rok 2021 asi 2,4 milionu. Vrabel se podle něj neodvolal, „protože na tom vydělal". Kontrastuje to s vlastním odsouzením (18 měsíců podmíněně za přemalování nápisu v galerii trikolórou), které soud po dovolání zrušil, a s vlastním veřejným přiznáním krádeží v 17 letech.
+
+    ⚡ **Konflikt:** Vrabel své odsouzení prezentuje jako politickou perzekuci za „zaškrtnutí okýnka" o bezdlužnosti a „náhradu škody, ne dotaci" (viz [osoby/vrabel.md](osoby/vrabel.md)).
+  citace:
+  - text: Ladislav Vrábel je za mě obyčejný hochštapler a podvodník.
+  podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
+- id: cernohorsky-2026-09-28-02
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „Česko je plán" — záměrná eroze národní identity
+  text: '**28. 9. (Černohorský)** — K Dni české státnosti žádá i den moravské a slezské státnosti — „Morava
+    a Slezsko není žádné Česko".'
+- id: cernohorsky-2026-09-28-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Kritika hesla „jedině ten" a napadení Vrábela a Sládka za udání koalic SPD+Stačilo a KSČM+Stačilo
+    (Černohorský, 15. 9. 2026)
+  text: '**28. 9.** — Černohorský útok na Vrabela a Sládka stupňuje: tím, že „udali" nepřiznané koalice
+    (Okamura, Rajchl, Majerová, Vondráček, Konečná), jednali jako „kolaboranti", kteří „za druhé světové
+    války udávali", zatímco memorandum Pirátů a Zelených jim nevadilo; motivem byly podle něj státní příspěvky
+    (1,5 % = 10 milionů, 3 % = 35–40 milionů). Sládek je podle něj „klasický rasista", který měl v kadeřnictví
+    napadnout ženu (pravomocný peněžitý trest) a ve Šlapanicích majitele pozemků. Vrabelovo tvrzení, že
+    vláda dá na F-35 jaderné zbraně, označuje za „idiotské keci" (stíhačky přijdou až kolem roku 2035).
+    Vlastním testem ukazuje, že programy stran jsou zaměnitelné a „právně nevymahatelné".'
+  citace:
+  - text: Za mě Vrábel se Sládkem jsou největší zasraný, zamrdaný kurvy na této vlastenecké scéně.
+  podtema: Volby
+- id: cernohorsky-2026-09-28-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Spor s Vrabelem: demonstrace 3. 9. 2022 a rozpad jednoty hnutí (Rajchl, 27. 9. 2026)'
+  text: '**28. 9. (Černohorský)** — Černohorský ve sporu stojí proti Vrabelovi: Václavák v září 2022 (150–170
+    tisíc lidí) podle něj nenaplnil Vrabel s Jiřím Havlem sami, ale SPD (Foldyna), Rajchl, Konečná, odbory
+    a další; třetí den prý Vrabel natočil video, že mu Havel „nechce poslat peníze". Vrabelovy útoky na
+    Rajchla označuje za „bláboly", přestože Rajchla sám kritizuje.'
+  podtema: Politická kultura
+- id: cernohorsky-2026-09-28-06
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: '„Zpoplatněné vlastenectví": Tušl a Zítko jako vyžírači dárců; vlastní vysílání bez QR kódu
+    (Černohorský, 22. 9. 2026)'
+  text: '**28. 9. (večer, samostatné video)** — Černohorský se veřejně omlouvá: podle zprávy „z důvěryhodného
+    zdroje" je profil „Politický vězeň Čermák" skutečně profilem Tomáše Čermáka („ať už mu ho založil
+    kdokoliv"); omlouvá se lidem, které nazval hlupáky, i Pavlu Zítkovi za vulgární nařčení, že profil
+    založil on — „v tomhle případě jsem hlupák já". ⚡ Zítko omluvu v následujících dnech označil za „teatrální"
+    a profil připisuje Čermákovu otčímovi (viz [kauzy.md](kauzy.md#propuštění-údajného-tomáše-čermáka-jako-sehraný-justiční-podvod-s-dvojníkem-zítko-2427-9-2026)).'
+  podtema: USA — volební systém
+- id: cernohorsky-2026-09-28-07
+  typ: tvrzeni
+  temata:
+  - rodina-deti
+  nadpis: Kauza Terezy Vlasákové jako „spiknutí" úřadů (Černohorský, 24. 9. 2026)
+  text: '**28. 9.** — Černohorský uvádí, že ho dva právníci „strašně zklamali", ale věc se „konečně daří
+    posunout"; jmenovitě viní ředitelku a třídní učitelku, OSPOD, psychiatričku, policistu „pana Bílého",
+    státní zástupkyni a soudkyni, která prý „sama sebe z podjatosti vyšetřovala" — „zatneme jim tipec".'
+  podtema: Šmírování dětí státem

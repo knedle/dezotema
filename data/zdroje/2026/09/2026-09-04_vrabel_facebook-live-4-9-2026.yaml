@@ -7,3 +7,151 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/2093330607992312
   prepis: prepisy/done/2026-09-04_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-09-04-01
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Nová aplikace EZ Karta jako naplnění varování o „covidovém pasu" (Vrabel, 4. 9. 2026)
+  text: Ministerstvo zdravotnictví představilo novou verzi aplikace EZ Karta, která kromě přehledu preventivních
+    prohlídek, screeningu a laboratorních výsledků nově ukládá kompletní zdravotní záznam (očkování, operace,
+    testy) do centrálních datových center. Vrabel to popisuje jako naplnění varování, které on i další
+    zazněla už na demonstracích v letech 2020–2021 proti tehdejší vládě (Babiš, Šilerová, Havlíček, Vojtěch)
+    — obává se, že jde o obdobu digitálního covidového pasu, jen v nové podobě, a upozorňuje na paralelu
+    s protesty amerických zdravotních sester proti přístupu soukromé vojenské firmy Palantir (viz [Palantir/Maven](#nato-buduje-digitální-dohled-nad-východním-křídlem--systém-palantir-maven-vrabel-9-7-2026))
+    k datům pacientů. Spojuje to se svou opakovanou tezí o blížící se vysoké nezaměstnanosti (50+ %) v
+    důsledku AI a robotizace a s očekávaným zavedením nepodmíněného základního příjmu vypláceného přes
+    povinnou státní aplikaci (analogie s ukrajinskou aplikací DIA) — s podmínkou očkování jako předpokladem
+    výplaty.
+- id: vrabel-2026-09-04-02
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'Ceuta: sexuální napadení nezletilých migrantů jako „kulturní" jev — apel na ochranu dětí (Vrabel,
+    10. 8. 2026)'
+  text: '**4. 9.** — K vyjádření ukrajinského velvyslance v ČR Vasyla Zvariče, že bezpečnostní riziko
+    představují ruští váleční veteráni, kteří by mohli po skončení konfliktu přijíždět do Evropy, Vrabel
+    tezi obrací: skutečnou hrozbou jsou podle něj ukrajinští veteráni, kteří už dnes do ČR přicházejí
+    — s novým nařízením EU (viz [Rajchl — uprchlík vs. migrant, Dánsko, 4. 9.](#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026))
+    budou muset prokazovat odsloužení, aby dostali ochranu, takže do ČR míří buď zranění veteráni (o něž
+    se bude muset ČR starat), nebo ti se zdravými končetinami, u nichž odhaduje 99% riziko, že si budou
+    hledat neformální příjem a přispějí ke vzniku silných ukrajinských zločineckých struktur ohrožujících
+    občany na ulicích. Jako precedens uvádí vlastní manželčinu zkušenost z Jugoslávie (obec Bela Crkva)
+    — po tamní válce se do měst sjeli váleční veteráni z Bosny a několik let se na ulicích střílelo, protože
+    se takto formovaly zločinecké skupiny.'
+- id: vrabel-2026-09-04-03
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'Dron zasáhl kancelář šéfa SBU v Kyjevě — Vrabel: šlo o vnitřní vyřizování účtů, ne o ruský
+    útok (Vrabel, 4. 9. 2026)'
+  text: 'Podle agenturní zprávy zasáhl dron kancelář šéfa ukrajinské tajné služby SBU Vasyla Maljuka v
+    centru Kyjeva, zraněno bylo nejméně dvanáct lidí; Zelenskyj oznámil, že Ukrajina připravuje odvetu.
+    Vrabel útok přiřazuje k předchozímu dni referovanému incidentu, kdy si mezi sebou střílely složky
+    GRU a SBU, a považuje za „logicky nesmyslné", aby dva dny po vnitřním konfliktu bezpečnostních složek
+    najednou dopadl na stejné místo ruský dron — srovnává tuto nedůvěryhodnost s tezí o umělém původu
+    covidu (netopýr a had na tržišti). Vlastní odhad: útok si provedli Ukrajinci sami, v rámci vnitřního
+    vyřizování účtů mezi bezpečnostními složkami.'
+  podtema: Vyjednávání a mír
+- id: vrabel-2026-09-04-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Nový obranný dokument ČR označuje Rusko za hlavní hrozbu — výzva zásobit se na dlouhodobý konflikt
+    (Vrabel, 4. 9. 2026)
+  text: Nový český obranný dokument označuje Rusko za nejzávažnější hrozbu pro bezpečnost ČR a připravuje
+    zemi na možnost dlouhodobého konfliktu vysoké intenzity, který může přijít bez dostatečného varování
+    — plány počítají s modernizací armády, posílením zásob, rozvojem dvou brigád, úpravami dopravní infrastruktury
+    pro spojenecké síly a větším zapojením civilního sektoru a obyvatelstva. Vrabel to nebere na lehkou
+    váhu a vyzývá diváky, aby si připravili „baťůžek" a udělili plnou moc blízké osobě zůstávající v ČR
+    pro jednání s úřady či ohledně nemovitostí. Upozorňuje, že státní zásoby jídla v ČR vydrží jen na
+    jeden a půl dne, přestože mají podle plánu činit patnáct dnů — srovnává to s vlastní zkušeností manželky
+    z jugoslávské války, kdy normální život přešel do bombardování během jednoho dne bez varování.
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-04-05
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Německo vyrábí 5000 dálkových útočných dronů pro Ukrajinu (Vrabel, 4. 9. 2026)
+  text: Německo zahájilo výrobu více než 5000 dálkových útočných dronů pro Ukrajinu s využitím umělé inteligence
+    k překonávání elektronického rušení; některé mají mít dosah až 1500 km. Vrabel to čte jako snahu Západu
+    umožnit pokračující útoky na ruské území, i kdyby se konflikt táhl dál, a připomíná vlastní vyjádření
+    Vladimira Putina, že ukrajinské dronové útoky mají znatelný dopad na ruskou ekonomiku (odhadem 1 %
+    HDP) — významné poškození, byť ne zničující. Klade otázku, kde je hranice mezi „ukrajinským" a „západním"
+    útokem, když Západ drony vyrábí, financuje, dodává satelitní data i souřadnice cílů a Ukrajina jen
+    poskytuje území, odkud se útočí — přirovnává současnou fázi konfliktu k odraženému tenisovému míčku,
+    který se právě vrací zpět k tomu, kdo ho vyslal.
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-04-06
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: Polsko rozesílá mobilizační kartičky záložníkům — Vrabel vyzývá mladé muže, aby nešli bojovat
+    (4. 9. 2026)
+  text: V Polsku začaly záložníkům a vybraným civilistům (lékaři, IT specialisté, logistici) chodit mobilizační
+    kartičky určující jednotku a místo nástupu v případě mobilizace — podle polského úřadu pro vojenský
+    nábor jde o standardní každoroční postup. Vrabel varuje, že podobné kroky (spolu se změnami mobilizačních
+    zákonů v ČR) mohou předcházet konfliktu bez varování, a znovu líčí zkušenost manželky z Jugoslávie,
+    kde normální život přešel do bombardování během jednoho dne. Vyzývá především mladé muže, aby v případě
+    mobilizace nešli bojovat „za Ukrajinu, chazarské židy, FED a nový světový řád řízený dolarem a americkou
+    armádou", a opakuje výzvu z předchozích vysílání zásobit se a připravit si plnou moc pro blízké.
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-04-07
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Witkoff a Kushner míří (poprvé letadlem) i do Kyjeva — Vrabel dává 65 % šanci na neúspěch jednání
+    (4. 9. 2026)
+  text: 'Podle agentury TASS by Steve Witkoff a Jared Kushner měli o víkendu navštívit Rusko i Ukrajinu
+    — poprvé se přitom uvažuje o tom, že by do Kyjeva letěli letadlem (dosud vyjednavači cestovali jen
+    vlakem nebo autem ze strachu z letu). Souběžně referuje o zprávě, že šéf CIA John Ratcliffe se minulý
+    týden znovu setkal s ruskými tajnými službami (viz [Ratcliffe v Moskvě, 26.–30. 8.](#šéf-cia-ratcliffe-v-moskvě--spekulace-rusko-předem-varuje-usa-před-akcí-proti-koalici-ochotných-vrabel-dovětek-26-8-2026))
+    a že americký ministr zahraničí Marco Rubio zdůraznil potřebu zachovat kontakt s Ruskem s odkazem
+    na jeho jaderný arsenál. Vrabel nabízí vlastní výklad: USA se podle něj snaží vyjít z konfliktu jako
+    „mírotvorce", ne jako poražená strana, protože Rusko na frontě jasně vítězí (obsazuje Donbas) a ukrajinská
+    armáda se hroutí (dezerce, nábor žen, násilné odchytávání mužů na ulicích). Zopakoval svou tezi, že
+    Volodymyr Zelenskyj nehájí zájmy ukrajinského národa, ale slouží „globalistické kabale" — jako důkaz
+    znovu líčí zablokování istanbulské mírové dohody na jaře 2022 (Boris Johnson, Victoria Nuland). Přesto
+    dává jednáním jen 65% šanci na úspěch: odkazuje na tlak indického premiéra Módího, tureckého prezidenta
+    Erdoğana a kazašského prezidenta Tokajeva na Putina během setkání Šanghajské organizace, aby vyhlásil
+    příměří — což podle Vrabela ve skutečnosti prosazuje Donald Trump prostřednictvím spojenců, protože
+    příměří by Ukrajině umožnilo se přezbrojit (cituje příspěvek Petra Porošenka na X) a Rusko by ztratilo
+    vojenskou iniciativu; Rusko proto příměří bez záruk, že Západ nevyužije pauzu k opětovnému vyzbrojení
+    Ukrajiny, odmítá.'
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-04-08
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Smrt Radko Mladiće — revizionistický výklad Srebrenice, Joe Biden jako strůjce bosenské války
+    (Vrabel, 27. 8. 2026)
+  text: '**4. 9.** — Vrabel navazuje zprávou o plánovaném státním pohřbu Radka Mladiće se všemi vojenskými
+    poctami v Bělehradě — tělo bylo přiletecky přepraveno do Srbska, převzali ho vojáci a přikryli srbskou
+    vlajkou i vlajkou Republiky srbské; před pohřbem má být vystaveno v kostele, kam se očekávají desítky
+    až statisíce truchlících. Odmítá „českou propagandu" ČT24, podle níž Srbsko brání svým vlastním přístupem
+    k EU tím, že Mladiče glorifikuje — kontruje, že srbská vláda se do EU ve skutečnosti netlačí (cestu
+    tam zapsaly minulé „prodemokratické" vlády) a že srbská ekonomika jako jediná v EU roste, takže výtky
+    ohledně demokracie a ekonomiky jsou liché. Cituje spor mezi eurokomisařkou pro rozšíření Martou Kos
+    (zrušila plánovanou návštěvu Bělehradu s odkazem na glorifikaci válečného zločince) a prezidentem
+    Vučićem (její vyjádření označil za „hloupé a jednoduché", odkázal na její vlastní soudní řízení v
+    Haagu). Vyjadřuje naději, že celá kauza bude „poslední tečkou" za přístupovými snahami Srbska do EU,
+    kterou popisuje jako „peklo" a jako poslední skutečně neutrální a svobodnou zemi v Unii — na rozdíl
+    od ČR, kde policie prošetřuje i pouhé komentáře k Mladičovu úmrtí (viz [Panenka, 29. 8.](#smrt-radko-mladiće--revizionistický-výklad-srebrenice-joe-biden-jako-strůjce-bosenské-války-vrabel-27-8-2026)).'
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-04-09
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Německo chystá tvrdší opatření proti Rusku — spekulace o „false flag" u incidentu v Halle (Vrabel,
+    29. 8. 2026)
+  text: '**4. 9.** — Vrabel doplňuje dva nové případy podporující tutéž tezi o obviňování Ruska bez důkazů.
+    Komentátor Petr Robejšek na CNN Prima News uvedl, že za incidentem na letišti Halle/Lipsko nestáli
+    Rusové, ale Ukrajinci — Vrabel s ním souhlasí a argumentuje, že profesionální ruské tajné služby by
+    útok provedly dokonale (zničily by letadlo a zamaskovaly stopy), ne amatérsky nechaly dron s bombou
+    několik hodin bez povšimnutí a nepoužily by kriminálníka se zaznamenanou DNA v německé databázi. Podobně
+    k nálezu podezřelého předmětu u elektrické stanice v severním Porýní-Vestfálsku (podezřelým je dle
+    německého ministra vnitra klimatický aktivista, dodávky elektřiny nebyly přerušeny) říká, že to „vypadá,
+    že to asi nebylo Rusko" — obě zprávy uvádí jako doklad, že tvrzení o „denních hybridních útocích Ruska"
+    na Evropu neobstojí, protože skutečný ruský útok na infrastrukturu (např. na továrnu vyrábějící drony)
+    by podle něj vypadal zcela jinak — cílevědomě a s jasným varováním, ne jako amatérská sabotáž.'
+  podtema: Zahraniční aktéři a precedenty

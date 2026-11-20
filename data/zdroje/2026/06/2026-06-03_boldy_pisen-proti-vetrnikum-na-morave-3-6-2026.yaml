@@ -11,3 +11,18 @@ zdroj:
   poznamka: 'Písňové video stylizované jako lidová moravská píseň, odpor proti větrným elektrárnám na
     Moravě (Celožnice, Moravany). Výzva poslat turbíny „do Bruselu" a jet protestovat do Prahy. Zhlédnutí:
     14 074'
+vyroky:
+- id: boldy-2026-06-03-01
+  typ: tvrzeni
+  temata:
+  - vetrniky
+  nadpis: Píseň „Moravo, nenechci zničit svůj domov" — Boldy (3. 6. 2026)
+  text: Boldy zveřejnil písňové video stylizované jako lidová moravská píseň, které vyjadřuje odpor proti
+    výstavbě větrných elektráren na Moravě (zmíněny obce Celožnice a Moravany). Píseň staví větrníky do
+    protikladu k tradiční krajině vinohradů a lesů, označuje přírodu za „svatou" a vyzývá k odeslání turbín
+    „do Bruselu" i k společnému protestu v Praze.
+  citace:
+  - text: Dejte si je do Bruselu, lajenové na zahradu / My tu máme lesy, pole, vinohrady, neobří vrtule
+      nad každou dědinou vzadu.
+  - text: Tak pojedme do Prahy všichni spolu stát.
+  podtema: Kulturní a občanský odpor

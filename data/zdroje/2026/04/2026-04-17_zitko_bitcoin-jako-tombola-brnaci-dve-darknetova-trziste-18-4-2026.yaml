@@ -11,3 +11,17 @@ zdroj:
   poznamka: 'Bitcoin tombola: Blažek, Decroix, „Brňáci"; dvě darknetová tržiště (Nucleus Market + SHIB
     Marketplace 2013, 39 918 BTC); bakalářská práce Ondřeje Havlíka; Tejcovo trestní oznámení. Zhlédnutí:
     460'
+vyroky:
+- id: zitko-2026-04-17-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Dvě darknetová tržiště, 100 miliard Kč: Zítko (duben 2026)'
+  text: Zítko poukazuje na to, že kauza se netýká jen Nucleus Market (hodnota ~12,5 mld. Kč, zmíněný v
+    parlamentu), ale i SHIB Marketplace — prvního Jiříkovského darknetového tržiště uzavřeného v prosinci
+    2013 se zůstatkem přes 39 918 bitcoinů. Celkovou hodnotu bitcoinů z obou tržišť odhaduje na více než
+    100 miliard Kč. Jako zdroj dokumentace uvádí bakalářskou práci Ondřeje Havlíka (portál THESS, 2019)
+    s názvem „Zneužívání měny Bitcoin" (100+ stran). Záznamy o pohybech jsou veřejně dohledatelné na blockchainu
+    — přesto NCOZ ani NCTEKK pohyby na Jiříkovského peněženkách dosud neprověřily. Nový ministr spravedlnosti
+    Jeroným Tejc (100+ dní ve funkci) nakonec oznámil podání trestního oznámení.
+  podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

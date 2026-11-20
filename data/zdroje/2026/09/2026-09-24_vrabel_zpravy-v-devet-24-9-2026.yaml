@@ -8,3 +8,138 @@ zdroj:
   prepis: prepisy/done/2026-09-24_Ladislav-Vrabel_24-9-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: Cizí klipy (Gordon, britský exministr, Rutte) zachyceny jen útržkovitě.
+vyroky:
+- id: vrabel-2026-09-24-01
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Agent OpenAI pronikl do australského zdravotnického portálu — AI „utekla z testovacího prostředí"
+    a ohrozí banky, elektrárny i zbraně (Vrabel, 24. 9. 2026)
+  text: Ke zprávě, že agent OpenAI pronikl do australského zdravotnického portálu, se Vrabel ptá, „jak
+    dlouho budeme mít bankovní účty a na nich peníze", když AI tak snadno prolomí státní zabezpečení.
+    Tvrdí, že modely OpenAI už „utekly z testovacího prostředí" do internetu, a varuje, že AI by mohla
+    přeprogramovat elektrárny včetně jaderných či vojenské servery rozhodující o odpálení zbraní — „jsme
+    zpátky u Terminátora".
+  citace:
+  - text: Umělá inteligence už se prokouše zabezpečením státu ke zdravotnickým informacím [...] A to jsme
+      teprve na začátku.
+- id: vrabel-2026-09-24-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 'Příprava na válku: „zachraň se, kdo můžeš"; miliardáři si staví bunkry (Vrabel, 8. 6. 2026)'
+  text: '**24. 9.** — S odkazem na „říjnové překvapení", o němž prý otevřeně mluví američtí moderátoři,
+    Vrabel znovu doporučuje připravit se „jako Sikorski" — rýže, kompoty, vodní pumpa, evakuační batůžek.'
+  podtema: Elity a jejich plány
+- id: vrabel-2026-09-24-03
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Útok Ukrajince v klášteře v Jarosławi — dvojí metr justice vůči Ukrajincům (Vrabel, 24.–25.
+    9. 2026)
+  text: 'K útoku nožem v klášteře v polském Jarosławi, který spáchal 31letý Ukrajinec, Vrabel připomíná
+    brněnský případ, kdy Ukrajinec v autobuse ubodal chlapce a podle něj „žádný trest neodseděl" — zatímco
+    Tomáš Čermák dostal za slova 5,5 roku; spekuluje, zda pachatel „nepůjde do vězení, protože je Ukrajinec".
+    Druhý den (25. 9.) kritizuje polskou TVP, že spekuluje o ruské provokaci a falešném ukrajinském pasu:
+    média podle něj uplatňují „pravidlo satanismu — to, co je nahoře, je dole, to, co je bílé, je černé",
+    a brzy prý i násilí TCK či zabité dívky v Íránu svedou na Rusy, takže slovo „Rus" se stane synonymem
+    pro „zločinec".'
+  dalsi_zdroje:
+  - 2026-09-25_vrabel_zpravy-v-devet-25-9-2026
+- id: vrabel-2026-09-24-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Podmíněné propuštění Tomáše Čermáka — nepřiměřený trest jako „zářný příklad" pro umlčení scény
+    (Černohorský, 24. 9. 2026)
+  text: '**24. 9. (Vrabel)** — Vrabel označuje rozsudek (5,5 roku za podporu terorismu) za „naprosto špatný",
+    protože k žádnému teroristickému činu nedošlo — na rozdíl od islamistů v Evropě, které soudy posílají
+    na psychiatrii. Čermák je pro něj i po propuštění „politický vězeň", protože má čtyřletou podmínku
+    a doznání u soudu bylo jen podmínkou propuštění; za politické vězně považuje i Slávka Popelku a lidi
+    stíhané za odznak „Z" a sebe samého za „odsouzeného z politických důvodů", kterého „likvidují jiným
+    způsobem".'
+  podtema: Politická perzekuce
+- id: vrabel-2026-09-24-05
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: „Politika herců" — Sikorski, Zelenskyj i Babiš jako herci; Babišovo veto by válku ukončilo (Vrabel,
+    24. 9. 2026)
+  text: 'Vrabel tvrdí, že upřímní politici nemají šanci — uspějí herci, „dneska i pornoherci" (narážka
+    na Zelenského); hercem je podle něj Sikorski, Babiš, který „neustále přehrává", i Macinka — „ti herci
+    nás stáhnou do války". Kdyby Babiš v prosinci „nezvedl ruku" pro 90 miliard eur na Ukrajinu, „ta válka
+    by skončila" — stačilo by veto jediného premiéra, všichni tak nesou „kolektivní vinu". Politici jsou
+    podle něj „loutky, dostávají příkazy" shora: slibují mír (Trump za 24 hodin, Babiš zrušení muniční
+    iniciativy), ale dělají válku.'
+  citace:
+  - text: Kdyby Andrej Babiš nezvednul ruku v Evropské unii v prosinci pro 90 miliard peněz na Ukrajinu,
+      tak by ta válka skončila.
+  podtema: Politická kultura
+- id: vrabel-2026-09-24-06
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: „Ukrajina má být zrušena" — teorie o neplatnosti její územní celistvosti; paralela s Kosovem
+    (Vrabel, 9. 8. 2026)
+  text: '**24. 9.** — Pavel podle Vrabela slíbil podporu Ukrajině, dokud nezíská zpět Krym, a „oprášená"
+    Krymská platforma slouží k tomu, aby politici „nemuseli řešit minulost" a uznat, že „Krym je ruský"
+    — lidé v referendu sami rozhodli a kdo respektuje demokracii, musí je nechat v Rusku. Slovenský prezident
+    Pellegrini podle něj dostal od Rutteho „nabídku, která se neodmítá" (místo v NATO). Válku o Krym nelze
+    vyhrát, protože Rusko je „největší jaderná velmoc".'
+  podtema: Příčiny a odpovědnost za válku
+- id: vrabel-2026-09-24-07
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'Rutte: 5 000 vzletů z evropských základen pro útok na Írán — „na nástěnku válečných zločinců"
+    (Vrabel, 24. 9. 2026)'
+  text: K Rutteho výroku, že z evropských základen proběhlo 5 000 vzletů pro americkou operaci „Epic Fury"
+    proti Íránu, Vrabel poukazuje, že se „obranná aliance" chlubí útokem na suverénní stát; takoví lidé
+    by podle něj „měli viset na nástěnce válečných zločinců" a být odsouzeni. Článek 5 je podle něj záměrně
+    nejasný, aby se dal „zneužít jakkoli"; opakuje přirovnání Rutteho projevů k Hitlerovi.
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-09-24-08
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'České Gripeny poprvé vzlétly kvůli „ruské" dronové aktivitě — Babiš: ČR čelí hybridní válce
+    (Vrabel, 18. 9. 2026)'
+  text: '**24. 9.** — K evakuaci polských hraničních přechodů a dalším letům Gripenů Vrabel zdůrazňuje,
+    že české stíhačky „lítají na rozkaz aliančního vedení NATO, ne na rozkaz české armády" — Babišův slib,
+    že ČR nebude posílat vojáky, proto nemá cenu, protože je může poslat NATO.'
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-24-09
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Společnost je „navykána" na ruské útoky, aby se útok pod falešnou vlajkou nevyšetřoval; ruští
+    velitelé smějí odvetit bez Moskvy; „říjnové překvapení" (Vrabel, 24.–25. 9. 2026)
+  text: 'Vrabel tvrdí, že se „připravuje nějaká operace": každodenní zprávy o ruských útocích (např. varování
+    CIA před ruskými drony v jižní Evropě podle El Mundo, které zesměšňuje) mají lidi navyknout, aby po
+    skutečném útoku — „pravděpodobně pod falešnou vlajkou" — nikdo nežádal vyšetřování. Cituje spekulace
+    o ruské jaderné raketě údajně viděné v Izraeli či Turecku, která by mohla posloužit k útoku na evropskou
+    zemi, i výrok ukrajinského moderátora Dmitra Gordona, že „za týden, nejpozději za dva" se stane něco,
+    co „dá Ukrajincům nová křídla" (sám to označuje za spekulace, ale „nemá dobrý pocit"). Američtí moderátoři
+    podle něj otevřeně mluví o „říjnovém překvapení" — válce Evropy s Ruskem. Podle „vojenského experta"
+    mohou ruští velitelé při útoku z území evropské země (např. Polska na Kaliningrad) okamžitě udeřit
+    zpět bez souhlasu Moskvy, takže spustit konflikt je „velmi jednoduché" (opakuje 25. 9.). Válku podle
+    něj zahájí „s velkou pravděpodobností atentát na nějakou významnou osobu".'
+  citace:
+  - text: Lidi prostě pomalu dostávají každý den do hlavy, že Rusové na nás útočí, aby potom, až přijde
+      ten útok nějaký, pravděpodobně pod falešnou vlajkou, tak aby už nikoho nepřekvapilo, že se to nebude
+      vyšetřovat.
+  podtema: Zahraniční aktéři a precedenty
+- id: vrabel-2026-09-24-10
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: 'Vučić v OSN: mezinárodní právo neexistuje, platí právo silnějšího; bombardování Jugoslávie
+    1999 (Vrabel, 24. 9. 2026)'
+  text: 'Vučićův projev v OSN Vrabel chválí jako „vynikající" a potvrzující to, co „říká roky": OSN ani
+    Rada bezpečnosti nefungují, platí právo silnějšího a žijeme ve „světě barbarském, světě strachu a
+    banditismu"; všichni se bojí Trumpa a „lezou mu do pozadí" — Macinka „až po pás". Nespravedlnost podle
+    něj povede k válce po celém světě. Bombardování Jugoslávie 1999 bylo „absolutním aktem agrese" bez
+    mandátu OSN, Jugoslávie byla rozbita jako lídr Hnutí nezúčastněných a Kosovo „ukradeno" kvůli dolům
+    — stejně jako dnes Donbas; Rusům na Donbasu a Krymu se podle něj upírá právo na sebeurčení, které
+    se Kosovu přiznalo.'
+  podtema: Zahraniční aktéři a precedenty

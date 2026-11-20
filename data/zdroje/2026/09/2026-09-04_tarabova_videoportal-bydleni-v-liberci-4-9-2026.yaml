@@ -7,3 +7,17 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1798107281211746&_rdr
   prepis: prepisy/done/2026-09-04_Lenka-Tarabová_Videoportál.txt
   rezim: standard
+vyroky:
+- id: tarabova-2026-09-04-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Komunální program: „Městské bydlení pro liberečany, ne pro spekulanty" (Tarabová, 4. 9. 2026)'
+  text: 'Lenka Tarabová, kandidátka na primátorku Liberce (strana PRO), představuje bod 2 volebního programu:
+    podporu dostupného bydlení pro mladé lidi formou družstevního bydlení. Argumentuje, že Česká republika
+    má nejhorší a nejdražší bydlení v EU, a mladí lidé si nemohou dovolit hypotéku ani nájem, což je vede
+    k odchodu z Liberce nebo k odkládání založení rodiny. Družstevní bydlení popisuje jako levnější a
+    bezpečnější alternativu k hypotéce (delší splátkové lhůty, ochrana členství v družstvu vs. riziko
+    ztráty bytu, který stále vlastní banka) a slibuje posílit tento model a podpořit vznik nových bytových
+    družstev, případně urychlit nebo navýšit plánovaný počet bytů podle zájmu obyvatel.'
+  podtema: USA — volební systém

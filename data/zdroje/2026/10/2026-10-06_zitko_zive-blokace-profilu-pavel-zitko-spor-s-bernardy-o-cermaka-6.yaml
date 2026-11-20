@@ -8,3 +8,51 @@ zdroj:
   prepis: prepisy/done/2026-10-07_Československo-TV2_Československo-TV2-vysílala-živě.txt
   rezim: standard
   poznamka: 1 h 34 min; soubor datován 7. 10., vysíláno v úterý 6. 10. dopoledne.
+vyroky:
+- id: zitko-2026-10-06-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Antiparazitika (ivermektin, fenbendazol) proti rakovině i covidu jsou potlačována (Zítko, 3.
+    10. 2026)
+  text: '**6. 10.** — Zítko tvrdí, že ivermektin je v ČR „neuvěřitelným způsobem nedostupný“, přestože
+    je účinný i „proti formám rakoviny“ a stojí stovky dolarů ročně proti 111 tisícům USD za chemoterapii.
+    Zájemcům nabízí zprostředkování dodavatele.'
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-10-06-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**6. 10. — spor s Renatou Bernardy:** Bernardy (TV Šalingrad) chystala večerní vysílání s „údajným“
+    Čermákem a Zítkovi napsala, že ho „ovce souhlasně kývají“ a že jde o „trapárnu“. Zítko odpovídá, že
+    Bernardy teď „hraje hru na Čermáka“, přestože dřív sama zpochybňovala Šišákovou a fotku z Vězňovy
+    cesty. Žádá, aby do vysílání pozvala Patrika Tušla i jeho samotného a pustila živé dotazy diváků jako
+    „detektor lži“. Jako další „důkazy“ uvádí, že na videu s advokátem Naxerou je Čermák „malý“, že certifikát
+    Vězňovy cesty se ani po 15 hodinách neobjevil a že „Čermák“ mu na profilu vyká, ačkoli si vždy tykali
+    („za 53 vteřin devětkrát vole“). Odmítá, že by Čermák „seděl za všechny“: sám byl 110 dní ve vazbě
+    „bez důkazů“ a bude žádat odškodnění. Pravý Čermák je podle něj „white hat“.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-06-03
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „Vítězné mocnosti" Trump, Putin, bin Salmán a Módí rozhodnou o obnově Československa; volby
+    20 let falšovány (Zítko, 24. 9. 2026)
+  text: '**6. 10.** — Doplatky „faktur“ mají podle Zítka posloužit v mezinárodní arbitráži podle obchodního
+    zákoníku: dluh vůči 15,5 milionu Čechoslováků je „v bilionech“ (se složeným úrokem a „13% penále“),
+    takže bude možné poslat „korporace Česko a Slovensko“ do insolvence a jejich představitelé „ručí veškerým
+    majetkem“.'
+- id: zitko-2026-10-06-04
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Facebook zablokoval živé vysílání ČsTV2 — „kyberšikana" kvůli fotce z UFC (Zítko, 17. 6. 2026)
+  text: '**6. 10.** — Facebook podle Zítka zablokoval živá vysílání na profilu „Pavel Zítko“ až do 5.
+    listopadu. Jako záminku uvedl příspěvek o ivermektinu, skutečným důvodem má být rychlý růst stránky
+    (916 tis. zhlédnutí za 28 dní, +49 %, „blížili jsme se k milionu“) a Čermákiáda. Zítko se proto vrací
+    na starší stránku Československo TV2 (4 800 sledujících) a varuje před jejím „falešným klonem“, který
+    mají ovládat „hejtři, fízlové a agenti“. Předtím kvůli „běsnému spamu“ omezil komentáře jen na přátele.
+    Prediktor David Hurgády mu prý hned řekl, že to „páníčkům v tajných službách“ dlouho nevydrží.'
+  podtema: ČT poplatky a omezování na sociálních sítích

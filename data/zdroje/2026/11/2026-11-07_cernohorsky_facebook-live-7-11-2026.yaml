@@ -9,3 +9,60 @@ zdroj:
   rezim: standard
   poznamka: 1 h 17 min, z auta; hlavním účelem je sbírka na právní pomoc pro Ivu Rosickou a Terezu Vlasákovou;
     na závěr píseň J. Jorka „Pětihlavá saň“.
+vyroky:
+- id: cernohorsky-2026-11-07-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: „Nemáte peníze, nemáte spravedlnost“ — případ Ivy Rosické (Černohorský, 7. 11. 2026)
+  text: 'Černohorský tvrdí, že spravedlnosti se v ČR dovolá jen ten, kdo má na právníka. Jako příklad
+    uvádí Ivu Rosickou, která se věnuje hipoterapii pro postižené děti a podle něj ji léta „šikanuje a
+    terorizuje“ nejmenovaný bohatý muž, neúspěšný kandidát ve volbách za stranu, „kterou moc nemilujeme“;
+    ten ji kvůli příspěvku, v němž nebyl jmenován, žaluje o 200 tisíc za ochranu osobnosti. Advokáti ex
+    offo jako za socialismu podle něj neexistují a bezplatní právníci nebudou bojovat „s plnou vervou“
+    v době „mamonu a konzumního života“. Odpověď na předžalobní výzvu sepsal s pomocí AI (s upozorněním,
+    že AI je nutné vždy ověřovat), čímž se požadovaná částka snížila o 100 tisíc. Pomoc spolku a sbírky
+    obhajuje proti námitce, že „nahrazuje stát“: stát to podle něj nedělá a dělat nebude.'
+  citace:
+  - text: Jakmile nemáte peníze, tak se spravedlnosti nedovoláte.
+  podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
+- id: cernohorsky-2026-11-07-02
+  typ: tvrzeni
+  temata:
+  - rodina-deti
+  nadpis: Kauza Terezy Vlasákové jako „spiknutí" úřadů (Černohorský, 24. 9. 2026)
+  text: '**7. 11.** — Černohorský „s plnou odpovědností“ opakuje, že proti Vlasákové a jejím dcerám (9
+    a 13 let) běží spiknutí: lékařka-psychiatrička prý psala falešné zprávy o jejím psychickém stavu,
+    vyúčtovala pojišťovně neprovedené úkony za zhruba 120–150 tisíc a předepisovala dávky léků, které
+    ji mohly trvale poškodit; dále ředitelka a třídní učitelka Linhartová, OSPOD, policie (původní udání
+    pro distribuci drog bylo podle něj záměnou s podobnou ženou), státní zástupkyně, která je prý tetou
+    exmanžela Kamila Vlasáka, soudkyně a GIBS, která stížnost poslala k prošetření samotnému policistovi.
+    Motivem má být pomsta exmanžela („narcis“, který ji prý kopal do hlavy) a získání dětí i majetku (dva
+    domy). Líčí noční kontrolu, při níž policisté test na drogy položili na palubní desku a přivolali
+    posilu v taktických rukavicích, nehodu, kterou podle něj úmyslně způsobila Varhanová a odjela bez
+    následků, a výslech starší dcery ve škole bez vědomí matky. Někdo z policie podle něj předal Vlasákovi
+    jeho telefon a adresu; Příbramsko je „stát ve státě“. Tři právníci prý případ odmítli, právníka se
+    podařilo sehnat až po přechodu z WhatsAppu na jinou aplikaci. Varhanovou a její kamarádku chce žalovat
+    pro pomluvu.'
+  citace:
+  - text: Tak vám říkám, říkám s plnou zodpovědností a s plným vědomím, že je tam spiknutí proti Tereze
+      Vlasákové.
+  podtema: Šmírování dětí státem
+- id: cernohorsky-2026-11-07-03
+  typ: tvrzeni
+  temata:
+  - rodina-deti
+  nadpis: Rodiče, kteří dceru věznili v psí boudě, odešli s podmínkou — „nemají právo na život“, obnovit
+    trest smrti; „nežijeme v právním státě“ (Černohorský, 7. 11. 2026)
+  text: 'Černohorský reaguje na příspěvek Davida Škardy o rodičích, kteří prý přes tisíc dní věznili svou
+    14letou dceru v psí boudě. Podle něj dostali v prvním stupni tři a dva roky natvrdo, ale po odvolání
+    jen podmínku, protože dosud nebyli trestáni, a dívce mají zaplatit 500 tisíc korun, což při celoživotním
+    traumatu považuje za výsměch. Takové lidi by „popravil elektrickým křeslem“ a trest smrti by obnovil:
+    kdo ublíží dítěti, „nemá právo na život“. Na vlastní zkušenosti (jako mladý otec jednou dceru zbil
+    a od té doby nikdy) ukazuje, že takové jednání si normální člověk nedovede představit. Soudce, kteří
+    dávají podmínky za týrání či znásilnění dětí, označuje za „kvíči“, která do justice nepatří, i když
+    v každém oboru jsou podle něj i skvělí profesionálové. Případ je pro něj důkazem, že „nežijeme v právním
+    státě“ (viz [stochastický teror](stochasticky-teror.md)).'
+  citace:
+  - text: Jestliže ublíží někdo dítěti, tak nemá právo na život. Hotovo. Tečka.
+  podtema: Eutanazie

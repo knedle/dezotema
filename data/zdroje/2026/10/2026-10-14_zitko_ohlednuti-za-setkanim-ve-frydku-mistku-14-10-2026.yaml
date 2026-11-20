@@ -8,3 +8,51 @@ zdroj:
   prepis: prepisy/done/2026-10-14_Československo-TV2_1410-OHLÉDNUTÍ-ZA-SUPER-SETKÁNÍM-1010-2026-ve-Frýd.txt
   rezim: standard
   poznamka: 17,5 min, ze záznamu.
+vyroky:
+- id: zitko-2026-10-14-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Produkty BEWIT a molekula C60 jako prostředek dlouhověkosti (Zítko, 14. 10. 2026)
+  text: |-
+    Zítko na setkání ve Frýdku-Místku propagoval produkty sponzorující firmy BEWIT (CEO Jiří Černota): „více tisíc“ produktů, z toho 450 esenciálních olejů, a molekulu C60. Část produktů má podle něj „způsobovat dlouhověkost“ a v klinických studiích prý vedla „dokonce i ke stoprocentnímu prodloužení věku“. Černota měl místo plánované hodiny odpovídat publiku na otázky „týkající se vašeho zdraví“ hodinu a půl až tři čtvrtě. Už v pozvánce Zítko sliboval i „doporučení pro očkované, kteří podlehli, aby zlepšili svůj zdravotní stav“.
+
+    ⚡ **Poznámka:** Jde o propagaci sponzora; údaj o „stoprocentním prodloužení věku“ Zítko nedokládá konkrétní studií (prodloužení života u C60 bylo hlášeno jen ve sporné studii na potkanech z roku 2012).
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-10-14-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Trestní oznámení na chemtrails a sítě 5G/6G/7G jako nástroj genocidy (Zítko, 7. 8. a 26.–27.
+    8. 2026)
+  text: '**14. 10.** — Zítko doplňuje, že na akci měl přednášku o „orgonitových dělech“ i Aerot (stránka
+    Aerot Orgonics). Kamil z Prešova doložil přednášku o chemtrails a HAARP „vizuálními podklady a důkazy“.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-14-04
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**14. 10. (odpoledne)** — Zítko slibuje vysvětlit, „komu to má prospět“ a jaká byla „strategie“
+    libereckého jednání. Podle informací policejního prezidia měla být možnost podmíněného propuštění
+    po polovině nebo dvou třetinách trestu předem vyloučena, protože Čermák včas nenastoupil do výkonu
+    trestu; hrozilo mu prý dokonce dalších 5–15 let. Že k propuštění po polovině trestu přesto „neuvěřitelným
+    způsobem došlo“, bere jako další doklad sehrané „habaďůry“. Samotné vysvětlení v přepisu chybí (poškozený
+    úsek).'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-14-05
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Facebook zablokoval živé vysílání ČsTV2 — „kyberšikana" kvůli fotce z UFC (Zítko, 17. 6. 2026)
+  text: '**14. 10.** — Zítko utajení místa vysvětluje snahou předejít „haváriím, poruchám kanalizace,
+    odstávkám vody nebo něčemu nežádoucímu“, čemu prý v minulosti už několikrát čelili. „Útoky“ proti
+    ČSR, proti „covidové mafii“ i proti kritikům chemtrails a 5G podle něj pokračovaly v den akce i po
+    ní. Ivan Masaryk „s partičkou dalších škůdců“ měl pronajímatelce poslat e-mail s cílem akci narušit
+    a pronajímatelka pak odpověděla, že je „už tam nechce“. Bez utajení by prý jako v minulosti došlo
+    ke stornu prostor „na základě zlých e-mailů a telefonátů“. Facebook podle něj místo konání skrýval,
+    i když ho Zítko posílal, což je „porušování ústavy“ a čl. 17 Listiny. Odmítá i příspěvek, podle kterého
+    si „uslintaný podvodník Pavel Zítko namastil kapsu“ a BEWIT si akci odepsal z daní: vstupné bylo dobrovolné
+    a prostory si pronajala a 14 dní předem zaplatila jiná firma než BEWIT.'
+  podtema: ČT poplatky a omezování na sociálních sítích

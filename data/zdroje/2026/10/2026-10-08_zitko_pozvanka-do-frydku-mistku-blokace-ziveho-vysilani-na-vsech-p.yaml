@@ -7,3 +7,15 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1808822653905842&_rdr
   prepis: prepisy/done/2026-10-08_Československo-TV2_Díky-blokaci-živého-vysílání-na-všech-profilech-ze.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-10-08-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Facebook zablokoval živé vysílání ČsTV2 — „kyberšikana" kvůli fotce z UFC (Zítko, 17. 6. 2026)
+  text: '**8. 10.** — Podle Zítka Facebook zablokoval živé vysílání už na všech jeho profilech. Nový kanál
+    „Pavel Q Zítko“ sice získal za dvě hodiny 200 sledujících, ale Facebook prý vyžaduje 60 dní čekání,
+    než bude moci vysílat živě. Vysílá proto ze záznamu a blokaci připisuje „šou kolem falešné identity
+    údajného Tomáše Čermáka“. Místo konání akce ve Frýdku-Místku zveřejní až den předem „z bezpečnostních
+    důvodů“, aby nedopadl jako Rajchl, kterému v kraji zrušili pronajatý sál.'
+  podtema: ČT poplatky a omezování na sociálních sítích

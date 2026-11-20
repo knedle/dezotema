@@ -7,3 +7,46 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/39495110670074120
   prepis: prepisy/done/2026-10-08_Jindřich-Rajchl_Pojďte-do-toho-zítra-s-námi-a-volte-PRO.txt
   rezim: standard
+vyroky:
+- id: rajchl-2026-10-08-01
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Podvody s humanitárními dávkami — „dezinformace, která se stala pravdou" (Rajchl, 13. 6. 2026)
+  text: '**8. 10.** — Rajchl uvádí další případ: 33letá Ukrajinka měla stát obrat na humanitárních dávkách
+    o 750 tisíc Kč. Garantuje, že jde jen o „špičku ledovce“: lidé podle něj deklarují pobyt v ČR, ale
+    žijí na Ukrajině a z posílaných peněz „si královsky luxusně žijí“.'
+- id: rajchl-2026-10-08-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Kategorické ne euru — argumenty pro českou korunu (Rajchl, 5. 6. 2026)
+  text: '**8. 10.** — Rajchl upozorňuje, že „mainstream“ mlčí o ekonomických problémech dvou největších
+    zemí eurozóny: ve Francii probíhá „masivní výprodej státních dluhopisů“, který tlačí euro dolů vůči
+    dolaru („zaplať pánbůh, že to euro nemáme“), a Německo meziročně přišlo o 10 % nových zakázek, což
+    je podle něj „znak značného úpadku“.'
+  podtema: Česká suverenita
+- id: rajchl-2026-10-08-03
+  typ: tvrzeni
+  temata:
+  - volby-2026
+  nadpis: 'Senátní kandidáti PRO/koalice: Loprais, Skalický, Beran, Šorna — „ani korunu na Ukrajinu" (Rajchl,
+    27. 9. 2026)'
+  text: '**8. 10.** — Den před volbami Rajchl opakuje výzvu (Loprais – Ostravsko a Hlučínsko, Skalický
+    – Děčínsko a Šluknovský výběžek, Šorna – Příbramsko, Beran – Trutnovsko) a garantuje, že budou hlasovat
+    pro zakotvení koruny, práva platit hotově a práva žít offline v Ústavě, bránit stavbě větrných elektráren,
+    „federalizaci“ EU a „ukrajinizaci“ a bojovat „bok po boku“ s ním proti zatahování ČR do války. Jejich
+    zvolení by bylo „dárkem k jeho 50. narozeninám“.'
+  podtema: Senátní kandidáti
+- id: rajchl-2026-10-08-04
+  typ: tvrzeni
+  temata:
+  - volby-2026
+  nadpis: 'PRO: 110 komunálních kandidátek, varování před „Pro Plzeň"; komunální politika jako „vratky"
+    z větrníků (Rajchl, 27. 9. 2026)'
+  text: '**8. 10.** — Rajchl jmenuje Martina Garu (lídr v Havířově, číslo 6), Lenku Tarabovou v Liberci
+    a společnou kandidátku se SPD na Litoměřicku. V Chomutově a Jindřichově Hradci (Libor Vondráček) se
+    podle něj podařilo spojit „všechny strany naší vládní koalice, včetně Motoristů“ na jednu kandidátku,
+    která má šanci skončit první nebo druhá. Žádá „jeden velký křížek“ u celé kandidátky — větší mandát
+    je podle něj podmínkou, aby mohl prosadit, co lidé chtějí.'
+  podtema: Komunální volby

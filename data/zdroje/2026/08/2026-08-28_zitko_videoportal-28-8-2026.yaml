@@ -7,3 +7,68 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1095406396326239&_rdr
   prepis: prepisy/done/2026-08-28_Československo-TV2_Videoportál.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-08-28-02
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 'Bitcoinová kauza: údajný poměr Decroix a Havránka jako další „brněnská frajeřina ODS" (Zítko,
+    12. 8. 2026)'
+  text: |-
+    **28. 8.** — K rekapitulaci bitcoinové kauzy (opakování dřívějších čísel a jmen beze změny — Jiříkovský, Blažek, Daňhel, Tic, vrácení 46 počítačů) Zítko přidává novou spekulaci: bývalý poradce prezidenta Miloše Zemana Martin Nejedlý měl mít v srpnu 2023 obchodní vztah s advokátem Karimem Ticem (Jiříkovského obhájcem) — spekuluje, že Pavel Blažek se v té době skrýval v hospodě, kde náhodou probíhala Nejedlého oslava.
+
+    ⚡ **Poznámka:** Propojení Martina Nejedlého s kauzou je nepodložená spekulace bez uvedených důkazů.
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-08-28-03
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Privatizace jako řízená likvidace čs. průmyslu Západem — Solivary Prešov (Zítko, 8. 6. 2026)
+  text: |-
+    **28. 8.** — Zítko rozšiřuje tezi o řízené likvidaci na bankovní sektor: české banky byly v 90. letech nejprve sanovány z veřejných peněz (uvádí IPB a Ekoagrobanku jako příklady bank zachraňovaných státem), a jakmile byly „vyčištěné", prodány zahraničním vlastníkům — Česká spořitelna rakouské Erste, Komerční banka francouzské skupině, ČSOB belgické KBC, UniCredit italským vlastníkům. Odhaduje, že tímto mechanismem (zisky bank odcházející mimo ČR) ročně mizí ze země přibližně 1 bilion Kč. Doplňuje jmenovitý seznam dalších postav 90. let spojených s privatizačním rozkrádáním — Saša Novák (Chomutov), Patrik Oulický (Ústí nad Labem), Marek Dalík a Aleš Zbíček.
+
+    ⚡ **Poznámka:** Konkrétní odhad „1 bilion Kč ročně" a jmenovité role uvedených osob nelze ověřit z veřejně dostupných zdrojů.
+- id: zitko-2026-08-28-04
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Villa Tugendhat, tři koruny a možnost obnovení ČS občanství — Zítko (20. 4. a 20. 5. 2026)
+  text: '**28. 8.** — K 34. výročí dohody ve Vile Tugendhat Zítko přehrává a komentuje dobový cca 13minutový
+    kompilát televizních záběrů z roku 1992, v němž prakticky všichni tehdejší klíčoví politici (Klaus,
+    Mečiar, Havel, Dubček, Zeman, zástupci ODS i HZDS) opakovaně veřejně slibují, že o rozdělení Československa
+    rozhodne referendum — které nakonec nikdy neproběhlo. Zdůrazňuje, že ani ODS, ani HZDS neměly rozdělení
+    státu ve volebním programu voleb z června 1992 (jediný, kdo ho měl, byl Ján Slota s necelými 10 %
+    hlasů na Slovensku) a že podle průzkumu z listopadu 1992 chtělo referendum přes 80 % Slováků. Nově
+    explicitně propojuje neplatnost rozdělení ČSFR s covidovou agendou (od 12. 3. 2020) do jednoho uceleného
+    shrnutí a požaduje zřízení vojenského tribunálu, který by soudil „korporace Čechia a Slovakia" jak
+    za privatizační rozkrádání, tak za „genocidu národa a sterilizaci" prostřednictvím covidových opatření
+    a vakcín — obojí staví na stejné právní konstrukci (neplatnost/nelegitimita poválečného a porevolučního
+    uspořádání).'
+- id: zitko-2026-08-28-05
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rodný list jako obchodní papír na burze v New Yorku — admirality law (Zítko)
+  text: |-
+    **28. 8.** — Zítko rozšiřuje teorii suverénního občana o tvrzení, že nejen soudy a exekutoři, ale i policie, Úřad vlády, jednotlivá ministerstva a Kancelář prezidenta jsou fakticky „soukromé firmy" evidované mezinárodním obchodním identifikačním číslem (UPIK/DUNS) — jediné skutečně platné právo má být mezinárodní obchodní právo (odkazuje na ustanovení „UCC 1-308"). Dodává, že český státní znak byl od roku 2006 „ztracen". K rodnému listu jako obchodovatelnému cennému papíru nově upřesňuje, že jde o majetek Vatikánu obchodovaný na burze NASDAQ (v dřívějších verzích uváděl newyorskou burzu) — otisk chodidla novorozence v porodnici interpretuje jako akt, kterým dochází ke zcizení identity dítěte do tohoto systému.
+
+    ⚡ **Poznámka:** Tvrzení o UPIK/DUNS číslech státních institucí, „ztraceném" státním znaku a obchodování rodných listů na NASDAQ nelze ověřit z veřejně dostupných zdrojů.
+- id: zitko-2026-08-28-06
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Guterres měl v roce 2023 zpochybnit suverenitu ČR (Zítko, 28. 8. 2026)
+  text: |-
+    Zítko tvrdí, že generální tajemník OSN António Guterres měl v roce 2023 prohlásit, že Česká republika není suverénním ani právním státem — analogicky k tvrzení, že Ukrajina je právně stále součástí Sovětského svazu. Prezentuje to jako externí potvrzení své vlastní teorie o neplatnosti vzniku ČR jako nástupnického státu.
+
+    ⚡ **Poznámka:** Citovaný výrok Guterrese nelze ověřit z veřejně dostupných zdrojů.
+- id: zitko-2026-08-28-07
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Rok 1968 jako předběhnutí chystané invaze NATO — Zítko cituje hlasování SSSR a cvičení „Černý
+    lev" (25. 8. 2026)
+  text: '**28. 8.** — Zítko opakuje tvrzení o článcích „106 a 107" Charty OSN (opravňujících Rusko jako
+    nástupnický stát SSSR zasáhnout proti fašismu kdekoli bez souhlasu ostatních mocností) beze změny
+    v souvislosti se svou tezí o blížícím se přitvrzení ruské zahraniční politiky.'
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

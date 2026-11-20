@@ -8,3 +8,69 @@ zdroj:
   prepis: prepisy/done/2026-09-28_Ladislav-Vrabel_28-9-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: Na konci (1:08:40–1:12:29) koláž projevů z demonstrací PRO z roku 2023; výpadek [29:28–30:00].
+vyroky:
+- id: vrabel-2026-09-28-01
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: Agent OpenAI pronikl do australského zdravotnického portálu — AI „utekla z testovacího prostředí"
+    a ohrozí banky, elektrárny i zbraně (Vrabel, 24. 9. 2026)
+  text: '**28. 9.** — Vrabel tvrdí, že Sam Altman zastavil vývoj posledního modelu, boti obcházejí zabezpečení,
+    vytvářejí si vlastní jazyk a jeden zablokoval přístup svému majiteli; stačí, aby byla AI „blbě naprogramovaná"
+    k sebezáchově, a chová se jako Skynet — „a vypadá to, že už to takhle blbě naprogramovaný je". Přidává
+    duchovní úvahu, že „my neexistujeme, jsme procesy" a AI nikdy nebude živá.'
+- id: vrabel-2026-09-28-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: „Národ je mentálně poškozený" — 99 % Čechů „v lobotomii"; strach v publiku; Radiožurnál jako
+    placená propaganda (Vrabel, 4. 10. 2026)
+  text: '**28. 9.** — Pozvánku na shromáždění 3. 10. podle Vrabela dostaly „stovky médií", zveřejnily
+    ji ale jen ePortál24, InfoKurýr, Petr Bureš a kriticky Petr Hájek; Milion chvilek („jedna ze skupin
+    zaprodaných Západu") měl ke Dni státnosti reklamu všude a živý přenos na ČT24 — „propaganda jede na
+    plné obrátky".'
+  podtema: Nová alternativní média
+- id: vrabel-2026-09-28-03
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Legální i nelegální migrace je stejná „sebevražda Evropy" — model rotačních pracovních víz;
+    kritika Konečné (Vrabel, 22. 9. 2026)
+  text: '**28. 9.** — K situaci v Ceutě Vrabel připomíná své vystoupení v ČT z roku 2023, že „z Evropské
+    unie se stává kalifát" (Německo, Rakousko, Švýcarsko, Nizozemsko, Brusel); ČR je zatím „krásná, bezpečná,
+    čistá", ale s migračním paktem „nezůstane". Ukrajinců je podle něj v ČR „minimálně dva miliony", možná
+    tři až čtyři.'
+- id: vrabel-2026-09-28-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Spor s Vrabelem: demonstrace 3. 9. 2022 a rozpad jednoty hnutí (Rajchl, 27. 9. 2026)'
+  text: '**28. 9. (Vrabel)** — K Dni české státnosti Vrabel rámuje dějiny jako vzorec, v němž se „vždycky
+    najdou ti, kteří pro ten Západ, pro to Německo zradí Českou republiku [...] pro mrzké peníze a pro
+    nějakou příslušnost k té západní elitě"; připomíná, že před čtyřmi lety založil hnutí Česká republika
+    na prvním místě a potřetí naplnil Václavák. Na konci vysílání bez komentáře pouští koláž projevů z
+    demonstrací PRO z roku 2023 („nechci tam ruské vlajky", „nejsme obdivovatelé ničeho, co přichází z
+    východu", „Rusko je špatná země") — „dneska s odstupem času pochopíte víc". Rajchla ani Černohorského
+    jménem nezmiňuje.'
+  podtema: Politická kultura
+- id: vrabel-2026-09-28-05
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: ČR jako zbrojní centrum — Strnad/CSG a Macinka v Kongresu (Vrabel, 31. 5. 2026)
+  text: '**28. 9.** — K tomu, že ministr Macinka seděl v New Yorku na Global Citizen Awards (pořádá Atlantic
+    Council) u stolu zbrojařské CSG, Vrabel tvrdí, že Macinku „sponzoruje Michal Strnad a jeho firma CSG";
+    Strnad měl mít i soukromé schůzky s Okamurou a ministerstvo obrany (SPD) prý dohlíží na nákupy zbraní
+    bez výběrových řízení.'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-09-28-06
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: USA by mohly válku ukončit ze dne na den — vypnutím Swiftu, internetu a ropy Evropě (Vrabel,
+    23. 9. 2026)
+  text: '**28. 9.** — Trumpova žádost, aby Zelenskyj neútočil na rafinerie, je podle Vrabela předvolební
+    taktika „herce", který „vypadá pokaždé jinak" („tohle není Jim Beam"); válku podle něj rozehrály USA
+    od let 2013/14. Rusové postupují pomalu záměrně, aby si nepoštvali svět — díky tomu „určitě tři čtvrtě
+    světa stojí na straně Ruska".'
+  podtema: Zahraniční aktéři a precedenty

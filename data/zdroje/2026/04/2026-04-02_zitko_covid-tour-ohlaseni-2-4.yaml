@@ -8,3 +8,15 @@ zdroj:
   prepis: prepisy/done/2026-04-02_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: '1:38:02'
+vyroky:
+- id: zitko-2026-04-02-01
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Přistání na Měsíci jako podvod — NASA Artemis jako pokračování
+  text: Pavel Zítko označuje přistání na Měsíci (Apollo) za historický podvod a misi NASA Artemis za jeho
+    pokračování. Odkazuje se na Stanleyho Kubricka, o němž tvrdí, že původní přistání natočil jako fikci,
+    podepsal 88stránkovou dohodu o mlčenlivosti na 15 let, a po jejím vypršení zahrnul do posledního filmu
+    (*Eyes Wide Shut*) jména aktérů — načež zemřel na infarkt, který mohl být vyvolán CIA injekční látkou
+    způsobující srdeční selhání.
+  podtema: Historické konspirační výklady

@@ -10,3 +10,41 @@ zdroj:
   poznamka: 'COVID-19 podvod, virologie podvod — z velké části repríza (BEWIT, PCR podvod, Chomutovský
     spis, McCullough ivermectin studie); nové: Oxfordská human challenge studie 2024 (Lancet Microbe),
     kanadské Ellisonovo vyšetřování, Christine Anderson v EP.'
+vyroky:
+- id: zitko-2026-09-11-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Virologie jako pseudověda — viry nikdy nebyly izolovány (Tarabová)
+  text: |-
+    **11. 9.** — Zítko rozšiřuje tutéž tezi o konkrétní moderní studii: v tzv. „human challenge" experimentu (Center for Clinical Vaccinology and Tropical Medicine a Oxford Experimental Medicine Clinical Research Facility, výsledky publikované v časopise *Lancet Microbe* 1. 5. 2024) bylo 36 zdravých dobrovolníků (18–30 let) intranazálně vystaveno vzorku SARS-CoV-2 a sledováno 12 měsíců — u žádného z nich se navzdory eskalaci dávky nepodařilo vyvolat trvalou infekci (u 5 z 36 byla PCR testem zjištěna jen „přechodná" infekce). Zítko to interpretuje jako důkaz, že virus SARS-CoV-2 nesplňuje ani základní definici nakažlivosti, a cituje k tomu i knihu *The Contagion Myth* (Thomas Cowen, Daniel Roytas) shrnující, že u žádného kontrolovaného lidského experimentu s nakažlivostí historicky nedošlo k prokázanému přenosu nemoci (včetně pokusů, kdy byl hlen nemocného vstříknut opici a její krev pak zdravému člověku) — příznaky vysvětluje uvolněním zánětlivých látek (histamin, bradykinin) v těle, ne přenosem patogenu. Doplňuje historickou paralelu: v roce 1918 bylo v bostonské věznici 50 vězňům vstříknuto hlen nemocných španělskou chřipkou a nikdo z nich neonemocněl.
+
+    ⚡ **Konflikt:** Citovaná studie z *Lancet Microbe* je reálná publikace (SARS-CoV-2 human challenge trial), ale její výklad jako důkazu „neexistence nakažlivosti" je v rozporu s vědeckým konsensem — nízká míra infekce v laboratorní challenge studii má metodologické důvody (dávka, imunita dobrovolníků) a neznamená absenci přenosu viru v reálném světě.
+  podtema: Odmítání virologie jako vědy
+- id: zitko-2026-09-11-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Kanadské veřejné slyšení o újmách po vakcínách — Ellisonovo vyšetřování (Zítko, 11. 9. 2026)
+  text: |-
+    Zítko informuje o čtyřdenním veřejném slyšení probíhajícím v Kanadě, kde v rámci tzv. „Ellisonova vyšetřování" vystupují oběti covidových vakcín se svými svědectvími — organizátoři měli obdržet přes 1400 žádostí od lidí z celé Kanady, kteří chtějí vypovídat o zdravotních újmách po očkování. Zítko dodává, že kanadští lékaři a poslanci mají zakázáno o vakcinačních úrazech mluvit veřejně a že ti, kdo v rámci vyšetřování promluví, čelí „obrovskému nátlaku, teroru a finančnímu krachu". Doporučuje divákům sledovat přímé přenosy slyšení pro ty, kdo umí anglicky.
+
+    ⚡ **Poznámka:** Rozsah, formu a výsledky tohoto kanadského slyšení nelze z přepisu ověřit z veřejně dostupných zdrojů.
+  podtema: Pokusy o vyšetřování
+- id: zitko-2026-09-11-03
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: „Nacistický" rodokmen a eugenika — Heiko von der Leyen v Orgenesis
+  text: '**11. 9.** — Zítko dokládá totéž tvrzení citací europoslankyně Christine Andersonové (AfD), která
+    na plénu Evropského parlamentu měla hovořit o probíhajícím trestním vyšetřování Ursuly von der Leyenové
+    ohledně zmizelých SMS zpráv s Albertem Bourlou (Pfizer) — beze změny oproti 16. 7., jen doplňuje přesnou
+    částku podepsané smlouvy (71 mil. eur za 4,5 miliardy dávek, tedy 10 dávek na obyvatele EU).'
+  podtema: „Pfizergate" a rod von der Leyenových (Zítko, 16. 7. 2026)
+- id: zitko-2026-09-11-04
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Fauci se odvolal na 5. dodatek — kontrast s beztrestností v ČR (Vrabel, 30. 7. 2026)
+  text: '**11. 9.** — Zítko opakuje tutéž statistiku (84,4 % klinický přínos) beze změny, s odkazem na
+    Nicholase Halschera z McCullough Foundation a na sdílení Alexem Jonesem.'

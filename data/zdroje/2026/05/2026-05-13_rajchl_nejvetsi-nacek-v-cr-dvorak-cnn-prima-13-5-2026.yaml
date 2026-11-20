@@ -11,3 +11,19 @@ zdroj:
   poznamka: 'Rajchl komentuje debatu z CNN Prima News s Martinem Dvořákem (STAN). Dvořák ho nazval „náckemé,
     přitom obhajuje Landsmannschaft (nástupce Henleinovy strany) a banderovce. Rajchl: „Pokud mluvíte
     jako nacista... vy jste největší nácek v celé České republice." Zhlédnutí: 6 910'
+vyroky:
+- id: rajchl-2026-05-13-02
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Martin Dvořák (STAN) nazval Rajchla „náckemé" při obraně Landsmannschaftu — Rajchl (13. 5. 2026)
+  text: |-
+    Den po debatě na CNN Prima News Rajchl natočil krátký komentář. Martin Dvořák (STAN) ho v debatě označil za „nácka" — přitom sám se tvrdě zastával:
+    - **Sudetoněmeckého Landsmannschaftu** (dle Rajchla nástupce Henleinovy nacistické strany)
+    - **Banderovců** — ukrajinskými nacionalistickými milicemi s prokázanými vazbami na nacistickou kolaboraci
+
+    Rajchl na debatě citoval prohlášení spolku Lidice Memory a apeloval na co nejrychlejší mír na Ukrajině. Dvořák ho za to označil za „nácka."
+  citace:
+  - text: Pokud mluvíte jako nacista, pokud se zastáváte nacistických spolků a nacistických bojůvek na
+      Ukrajině, tak jediný, kdo je z nás tam nácek, jste vy. Vy jste největší nácek v celé České republice.
+  podtema: Parlament, politické a stranické reakce

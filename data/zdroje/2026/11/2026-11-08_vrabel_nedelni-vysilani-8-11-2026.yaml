@@ -9,3 +9,67 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 38 min, Vrabel sám (Zuzka jen v chatu); prezentace plánu „změny systému“ z let 2022–2023;
     bez stochastického teroru.
+vyroky:
+- id: vrabel-2026-11-08-01
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: 'Krach srbské Alta banky jako varování: v bance mít jen pojištěnou částku; CBDC do roku 2030
+    jako konec svobody, změny „ne jak salám, ale jak sekaná“ (Vrabel, 8. 11. 2026)'
+  text: K uzavření srbské Alta banky (po volbách podle něj lidé napojení na Vučičův režim vyváděli peníze
+    do Makedonie a majitel vybral 385 mil. eur v hotovosti a zmizel) Vrabel radí mít v bance jen pojištěnou
+    částku (do 50 tis. eur) a jinak „žádné peníze v bance“. Run na banku podle něj dnes může vyvolat hackerský
+    útok nebo pouhá zpráva. Sám by prý samostatným videem „dokázal nějakou banku položit“, kdyby to nebylo
+    trestné. Zmiňuje kybernetický útok na Crédit Mutuel Arkéa a předluženou Francii, která si na rozdíl
+    od USA a Japonska nemůže natisknout peníze. Cílem je podle něj vzít lidem hotovost a nahradit ji CBDC;
+    plán je naplánován na rok 2030 a následující čtyři roky budou „velmi intenzivní“. Doporučuje text
+    o údajném tvůrci systému digitální měny „Gideonovi“ (systém „CSQR+SM“). Sám ho označuje za „pravděpodobně
+    konspirační teorii“, po jeho přečtení ale „nespal celou noc“.
+  citace:
+  - text: Aby jsme byli absolutně kontrolovaní, tak nám musí vzít peníze. To je přece jasný. Protože díky
+      penězům jsme svobodní.
+- id: vrabel-2026-11-08-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Střelba v Krakově — za oficiální verzi „ruku do ohně nedá“, srovnání se střelbou na FF UK (Vrabel,
+    8. 11. 2026)
+  text: Vrabel prohlašuje, že „nechce dělat konspirace“, na videu přestřelky policisty s útočníkem v Krakově
+    ale podle něj není vidět krev ani poškozené oblečení. Útok přišel „v blbé době“ před demonstracemi
+    ke Dni nezávislosti 11. listopadu. Zda šlo o šílence, nebo o orchestrovanou akci, se podle něj nikdy
+    nedozvíme, protože by pak „musely padat hlavy“. Srovnává to se střelbou na Filozofické fakultě UK,
+    kde policie podle něj vyvedla studenty „přímo na dostřel“ a zveřejnilo se „pramálo“.
+  citace:
+  - text: To, že by to bylo tak, jak nám to popisují média, tak za to bych teda ruku do [ohně] nedal.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-08-03
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'Konec Čechů a češtiny: za 20 let polovina, za 40 let menšina mluvčích, možná zákaz; Francie
+    a Británie „úplně černé“ (Vrabel, 8. 11. 2026)'
+  text: Pokud ČR neprovede změnu systému, neuzavře hranice a nevystoupí z EU, podle Vrabela „skončí jako
+    stát“. EU ji podle něj rozkrade „do posledního atomu“, parlament se rozpustí a ČR připadne EU nebo
+    nějakému novému „Rakousko-Uhersku“. Za 20 let bude česky mluvit nanejvýš polovina obyvatel, za 40
+    let menšina a čeština bude možná „zakázaná“. Francii a Británii popisuje jako „islámské země“, které
+    jsou „úplně černé“. ČR je podle něj z velké části „ukrajinizovaná“ a v zimě přijdou další Ukrajinci.
+  citace:
+  - text: Za 20 let bude tady tak polovina lidí maximálně jako mluvit česky a za 40 let […] už bude jenom
+      menšina lidí mluvit česky.
+- id: vrabel-2026-11-08-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Prezentace „změny systému“: zrušit 5% hranici, politickou reklamu i strany, poroty a 1% daň;
+    jako premiér by si nejdřív zajistil „malou armádu“, průmyslníky a generály (Vrabel, 8. 11. 2026)'
+  text: |-
+    Vrabel v nedělním vysílání prochází prezentaci plánu „ČR na prvním místě“ z let 2022–2023. Globalizace podle něj vede k „drancování“ (konec peněz a přechod na CBDC, inflace, vyvlastňování; pojem přejímá od „kamarádky“ Catherine Austin Fittsové) a k „nesvobodě“ (digitalizace, „nadvláda“ a transhumanismus elit, které chtějí být nesmrtelné). Bez změny systému zůstane ČR „v začarovaném kruhu, kde nás řídí CIA a MI6“. Navrhuje čtyři reformy: politickou, finanční, soudní a mediální.
+
+    - **Politická:** odvolatelnost politiků (volební program jako smlouva s občany, porušení posoudí lidová porota), zrušení 5% hranice, zákaz sponzoringu a trestnost lobbingu, zákon o kampani se zákazem billboardů, povinnými 75 % textu v politické reklamě a stejným prostorem v médiích pro všechny, častá referenda a trestní odpovědnost politiků. „Nejlepší“ by podle něj bylo zrušit politické strany a volit jednotlivce.
+    - **Finanční:** jediná 1% daň z převodů (připisuje ji Jamesi Tobinovi), emise nových peněz přímo na účty lidí, zdanění „stojících peněz“, progresivní daň a nepodmíněný příjem kvůli nezaměstnanosti z AI. V ČR mají působit jen české banky.
+    - **Soudní a mediální:** soudy s porotami a nový mediální zákon. ČT „měla být dávno zrušená“.
+
+    Podmínkou je vystoupení z EU. Všechny parlamentní strany kromě Pirátů označuje za zkorumpované odnože ODS nebo Babiše (SPD je „ODS 2“ založená „kmotrem“ Hrdličkou, Martin Kuba „pravá ruka kmotra Dlouhého“). Babišova vláda podle něj za rok neudělala „ani ťuk“ a její odmítnutí referenda o vystoupení z EU a NATO je „přechod z demokracie do diktatury“. Vzorem je Srbsko, kde studenti provedli „nenásilnou revoluci“ a vyhráli volby; Vučiče přesto dál považuje za „nejlepšího politika na světě“. Námitku, že je vše rozprodané, odmítá: smlouvy lze zrušit (Veolia, E.ON), majetek vyvlastnit a německý majetek (Raiffeisenbank, Škoda) započíst proti válečným reparacím, které po přepočtu „reálnou inflací“ odhaduje na necelých 14 000 mld. Kč. Jako premiér by si podle svých slov nejdřív „udělal malou armádu“, průmyslníkům řekl, že se s ním buď domluví, „nebo budou mít problém“, a generály, kteří by nesložili přísahu, by „okamžitě nechal vyházet“. Teprve potom by začal s reformami.
+  citace:
+  - text: Kdybych byl premiér, tak první, co bych udělal, že bych si okolo sebe udělal malou armádu.
+  podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)

@@ -9,3 +9,31 @@ zdroj:
   rezim: standard
   delka: '1:50'
   poznamka: 'Zhlédnutí: 173 004'
+vyroky:
+- id: rajchl-2026-03-28-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Obnovení ruských dodávek jako jediné řešení
+  text: |-
+    Rajchl opakovaně argumentuje, že EU se odstřižením od ruského plynu a ropy sama vyřadila z výhodné energetické pozice. Rusko totiž své suroviny prodá jinam (Čína, Indie), zatímco Evropa platí vyšší ceny za alternativní zdroje. Europarlament v dubnu 2026 odložil hlasování o zákazu dovozu ruské ropy — podle Rajchla to dokazuje, že i samotná EU pochopila svou chybu. Ursula von der Leyen se mezitím omluvila za chybné opuštění jádra. Rajchl předpovídá, že za deset let přijde stejné přiznání o fosilních palivech.
+
+    > „Nechci nechat tyto šílence vládnout v Evropě." — Jindřich Rajchl o vedení EU, [Energetická krize a Rusko 2026-03-28](_zdroje.md#jindřich-rajchl--energetická-krize-a-rusko-360)
+  podtema: Rusko a energetická krize EU
+- id: rajchl-2026-03-28-02
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Obnovení dovozu ruského plynu a ropy jako řešení energetické krize
+  text: Rajchl tvrdí, že EU si sama uškodila odpojením od levných ruských zdrojů energie. Poukazuje na
+    to, že Nizozemsko má zásobníky plynu naplněné jen ze 6 %, a Evropská komise sama odložila hlasování
+    o zákazu dovozu ruské ropy poté, co pochopila, že se bez ní neobejde. Za řešení považuje obnovení
+    dodávek ropy a plynu z Ruska, zrušení Green Dealu a odvolání „neschopných lídrů" EU v čele s Ursulou
+    von der Leyen. Předpovídá, že za deset let přijde přiznání, že odklon od fosilních paliv byl chybou,
+    která stála Evropu biliony.
+  citace:
+  - text: Celé tohle divadlo ohledně odstřihávání se od levných zdrojů z Ruska je prostě hloupost, je
+      to naivita, to Rusko ty peníze bude mít — buď ten plyn a ropu prodá Číně, Indii, nebo je prodá nám.
+  - text: 'Za deset let přijde buď to Ursula nebo někdo jiný a bude říkat: odchod od fosilních paliv byla
+      chyba, která nás stála biliony za deset let.'
+  podtema: Energetika a Rusko

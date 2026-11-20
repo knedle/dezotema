@@ -9,3 +9,17 @@ zdroj:
   rezim: standard
   poznamka: 2,5 min, tisková konference ve Sněmovně. FARA (poděkování Okamurovi, Rajchl autorem původního
     návrhu) — opakování beze změny.
+vyroky:
+- id: rajchl-2026-10-13-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Parlamentní vyšetřovací komise
+  text: '**13. 10.** — Rajchl oznamuje dohodu s ministerstvem spravedlnosti na pozměňovacím návrhu k novele
+    trestního zákoníku (sněmovní tisk 111). Orgány činné v trestním řízení budou povinny poskytovat „potřebnou
+    součinnost“ sněmovním i senátním vyšetřovacím komisím. Návrh vychází z toho, „na co jsme narazili
+    v naší sněmovní vyšetřovací komisi v rámci kauzy Dozimetr“: komise má oprávnění materiály požadovat,
+    ale v zákoně chybí odpovídající povinnost je vydat, což je „určité právní vakuum“. Novela má zefektivnit
+    i práci všech budoucích komisí; v zahraničí podle něj „vůbec neexistuje možnost“, že by orgán veřejné
+    správy součinnost odmítl.'
+  podtema: Kauza Dozimetr

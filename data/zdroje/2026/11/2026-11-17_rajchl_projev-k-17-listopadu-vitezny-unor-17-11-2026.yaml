@@ -8,3 +8,35 @@ zdroj:
   prepis: prepisy/done/2026-11-17_Jindřich-Rajchl_Nedopusťme-aby-si-skupina-osob-jež-se-považuje-za-mor.txt
   rezim: standard
   poznamka: 7 min, slavnostní projev ke státnímu svátku (komentář ohlášený 8. 11.).
+vyroky:
+- id: rajchl-2026-11-17-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 17. listopad „ukradli“ pravdoláskaři — svátek plurality názorů proměnili ve svůj „vítězný únor“
+    (Rajchl, 8. 11. 2026)
+  text: '**17. 11.** — Ve slavnostním projevu ke svátku, tedy v ohlášeném komentáři, Rajchl opakuje, že
+    si svátek „uzurpovala skupina lidí, která se považuje za ty lepší, chytřejší a vzdělanější“. Tím,
+    že píská na lidi s jiným názorem, podle něj „pošlapává odkaz“ listopadu. Odpůrce prý „ostrakizuje,
+    dehonestuje a reputačně likviduje“ a vrací tak „vládu jedné strany“. Cituje Voltaira („budu až do
+    smrti bojovat za vaše právo to říkat“) a k listopadu se hlásí: „My jsme byli u toho. Často mnohem
+    blíže než ti, kteří na nás dnes pískají.“ ⚡ Nově staví 17. listopad 1939, vzepření studentů nacistické
+    říši, nad rok 1989 jako „mnohem významnější den“ a „zásadní milník“ státnosti. U roku 1989 vzpomíná
+    na „zarytě antikomunistického“ otce a radost z návratu demokracie, ale dodává „nechme teď stranou,
+    kdo tyto události zosnoval“. Tím se aspoň naznačením přibližuje Černohorského výkladu řízeného převratu
+    (viz níže), na rozdíl od 8. 11., kdy pád režimu jen označil za správný. O privatizaci viz [ekonomická
+    kolonie](suverenita-eu.md#trojnásobně-nižší-mzdy-při-stejných-cenách--čr-jako-ekonomická-kolonie).'
+  citace:
+  - text: Bohužel tito lidé si ze 17. listopadu udělali svůj vítězný únor.
+  podtema: Politická kultura
+- id: rajchl-2026-11-17-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Trojnásobně nižší mzdy při stejných cenách — ČR jako ekonomická kolonie
+  text: '**17. 11.** — V projevu ke 17. listopadu Rajchl tezi rozšiřuje na celé období po roce 1989. Za
+    slib rychlého zbohatnutí podle něj ČR vyměnila vlastnictví strategických komodit, podniků a průmyslu,
+    a proto se stala „ekonomickou kolonií západní Evropy, zdrojem levné pracovní síly a levných energií“.
+    Poučením má být, že „v Bruselu, Berlíně, Paříži ani Londýně na nás nikdo nečeká s otevřenou náručí“
+    a ČR se musí spoléhat sama na sebe. Největším kapitálem jsou podle něj lidé.'
+  podtema: Česká suverenita

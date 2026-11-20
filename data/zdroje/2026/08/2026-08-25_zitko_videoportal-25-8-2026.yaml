@@ -7,3 +7,84 @@ zdroj:
   url: https://m.facebook.com/watch/?v=1529993162235587&_rdr
   prepis: prepisy/done/2026-08-25_Československo-TV2_Videoportál.txt
   rezim: standard
+vyroky:
+- id: zitko-2026-08-25-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Zítkovo odvolání: Krajský soud v Ústí n. L. odmítl důkazy jako „nebylo v televizi" (2. 7. 2026)'
+  text: '**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu zmiňuje totéž usnesení
+    jako potvrzení neizolace viru — beze změny.'
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-08-25-02
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Fauci se odvolal na 5. dodatek — kontrast s beztrestností v ČR (Vrabel, 30. 7. 2026)
+  text: '**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu zmiňuje výslech Fauciho
+    a přiznání Davida Morense (beze změny oproti 21. 8.) i pokles porodnosti (35 000 méně narozených ročně,
+    jen 17 500 za 1. čtvrtletí 2026 — beze změny oproti dřívějším videím) jako témata, která na akci nebyla
+    řešena.'
+- id: zitko-2026-08-25-03
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Hrad odpověděl na Pekovou petici o milost — zamítnutí přes úředníka, ne osobně (Zítko, 26. 6.
+    2026)
+  text: '**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech jmenuje čtyři osoby, za něž se
+    Peková ve své petici o milost přimlouvala: Luboš Volný, Jana Petéková a Iveta Křížová byli odsouzeni
+    za „šíření poplašné zprávy" v souvislosti s covidovými výroky, čtvrtým je sám Zítko (trest „tři roky
+    natvrdo"). Samostatně zmiňuje případ Tomáše Čermáka, odsouzeného na 5,5 roku vězení za obvinění z
+    „teroristického činu" (nikoli šíření poplašné zprávy) za jeho vyjádření o „covid mafii", masových
+    vrazích a genocidě — obvinění, které dle Zítka na vlasteneckém setkání v Příčovech nikdo nezmínil.'
+  podtema: Trestní stíhání kritiků covidu
+- id: zitko-2026-08-25-04
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Fiala se prý „přiznal" k dodávkám zbraní Ukrajině před 24. únorem 2022 (Zítko, 25. 8. 2026)
+  text: |-
+    Zítko tvrdí, že premiér Petr Fiala se „podřekl" a přiznal, že Česká republika dodávala zbraně a munici Ukrajině ještě před zahájením ruské „speciální operace" 24. února 2022 — což podle něj naplňuje skutkovou podstatu trestného činu podle § 406 a § 407 trestního zákoníku (příprava útočné války). Srovnává to s vlastní tezí o cvičení NATO „Černý lev" před invazí 1968 (viz [Petr Pavel](petr-pavel.md#rok-1968-jako-předběhnutí-chystané-invaze-nato--zítko-cituje-hlasování-sssr-a-cvičení-černý-lev-25-8-2026)) jako důkaz opakujícího se vzorce — přípravy Západu na konflikt předcházející oficiálnímu zahájení bojů.
+
+    ⚡ **Poznámka:** Tvrzení o konkrétním „přiznání" Petra Fialy nelze ověřit z veřejně dostupných zdrojů; § 406–407 trestního zákoníku se týkají přípravy útočné války vedené Českou republikou, nikoli dodávek zbraní třetí straně.
+  podtema: Trestní stíhání kritiků covidu
+- id: zitko-2026-08-25-05
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Kritika vlasteneckého setkání v Příčovech — vyloučená témata a kritika panelistů (Zítko, 25.
+    8. 2026)
+  text: 'Zítko nezávisle na Vrábelově kritice téže akce (viz [Politický systém — Setkání v Příčovech](politicky-system.md))
+    hodnotí vlastenecké setkání v Příčovech (23. 8.) jako akci, kterou „ukradli lidem politici a novináři"
+    výběrem neutrálních, nekonfliktních témat. Vyjmenovává, co podle něj chybělo: ekonomické dopady Green
+    Dealu a uhlíkových povolenek (odhaduje odliv 3,7 bilionu Kč ročně), otázka válečných reparací a právní
+    kontinuity Československa (viz [Konspirace — Československo](konspirace-ceskoslovensko.md)), COVID-19
+    (výslech Fauciho v Kongresu, přiznání Davida Morense — viz [COVID a vakcíny](covid-vakciny.md)) a
+    tresty odsouzených kritiků covidových opatření (viz výše). Kritizuje konkrétní účastníky panelu o
+    nezávislosti médií — moderátora Marka Stoniše (šéfredaktor deníku, který dle Zítka vyhodil redaktora
+    Pavla Cimbála po kampani proti němu) za nominaci bývalého ministra Cyrila Svobody na „největšího bojovníka
+    za svobodu projevu" — a označuje účast politika Petra Štěpánka (Trikolóra) i řešení blízkovýchodního
+    konfliktu na panelu o „středoevropské spolupráci" za tematicky nepatřičné pro akci prezentovanou jako
+    vlastenecká.'
+  podtema: Trestní stíhání kritiků covidu
+- id: zitko-2026-08-25-06
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Údajná písemná odpověď Kanceláře prezidenta republiky potvrzuje neplatnost vlády k 1. 1. 1993
+    (Zítko, 28. 7. 2026)
+  text: '**25. 8.** — Zítko v přehledu vlasteneckého setkání v Příčovech znovu opakuje výklad o neplatnosti
+    rozdělení Československa (Havlova abdikace, zákon 542/1992, chybějící referendum) a o nároku na válečné
+    reparace (29 bilionů Kč / 9 500 tun měnového zlata, kvantový finanční systém) jako téma, které na
+    akci nebylo řešeno — beze změny oproti dřívějším videím.'
+- id: zitko-2026-08-25-07
+  typ: tvrzeni
+  temata:
+  - petr-pavel
+  nadpis: Rok 1968 jako předběhnutí chystané invaze NATO — Zítko cituje hlasování SSSR a cvičení „Černý
+    lev" (25. 8. 2026)
+  text: |-
+    Zítko nabízí vlastní, od Vrabelovy odlišnou verzi revizionistického výkladu srpna 1968: tvrdí, že o invazi do Československa se v SSSR formálně hlasovalo mezi 15 svazovými republikami a že žádný Rus pro ni nehlasoval (jeden se zdržel nebo byl proti), zatímco všech sedm zástupců Ukrajiny (včetně Leonida Brežněva, kterého mylně řadí mezi Ukrajince) hlasovalo pro. Odkazuje na (nejmenovaný) rozsudek Soudního dvora EU a na slovenský případ „Harabin" z 12. ledna, které měly potvrdit, že „Rusko není agresor" — a na články „106 a 107" (bez upřesnění, o jaký právní dokument jde), které prý opravňují Rusko jako nástupnický stát SSSR zasáhnout proti fašismu a nacismu kdekoli na světě bez souhlasu ostatních vítězných mocností. Jako klíčový „důkaz" cituje sdílený komentář k vojenskému cvičení NATO „Černý lev" (Black Lion), které v srpnu 1968 proběhlo v jižním Německu poblíž tehdejších československo-západoněmeckých hranic (s účastí desítek tisíc až půl milionu vojáků NATO včetně amerických a francouzských jednotek) — interpretuje ho jako přípravu na „krvavé obsazení Československa" a invazi vojsk Varšavské smlouvy jako reakci, která NATO předešla „jen o hodiny". Srovnává to s vlastním tvrzením, že premiér Petr Fiala se „přiznal", že ČR dodávala zbraně Ukrajině ještě před 24. únorem 2022 (viz [Kauzy](kauzy.md#fiala-se-prý-přiznal-k-dodávkám-zbraní-ukrajině-před-24-únorem-2022-zítko-25-8-2026)).
+
+    ⚡ **Poznámka:** Tvrzení o hlasování v sovětském vedení, o rozhodnutích Soudního dvora EU a slovenského soudu ve věci „Harabin" a o citovaných „článcích 106 a 107" nelze ověřit z veřejně dostupných zdrojů.
+  podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

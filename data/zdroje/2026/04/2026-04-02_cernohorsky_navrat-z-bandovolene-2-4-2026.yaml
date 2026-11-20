@@ -7,3 +7,118 @@ zdroj:
   url: https://www.facebook.com/reel/3184732835030146
   prepis: prepisy/done/2026-04-02_Jiří-Černohorský-Živě_zdravím-po-měsíční-Bandovolené-přátelé-Jiří-Nez.txt
   rezim: standard
+vyroky:
+- id: cernohorsky-2026-04-02-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Hamas vznikl díky Izraeli — historická odpovědnost za Gaza
+  text: Černohorský tvrdí, že Hamas byl původně podporován Izraelem jako protipól k Jásiru Arafatovi a
+    PLO — Izrael chtěl rozštěpit palestinské vedení, ale výsledek se vymkl kontrole. Z toho vyvozuje,
+    že Israel nese přímou odpovědnost za vznik organizace, kterou nyní označuje za teroristickou. Systematické
+    vytlačování Palestinců z domovů od roku 1948 přirovnává k situaci, kdy by z jejich domovů vyhnali
+    je samotné. Netanyahua označuje za válečného zločince, který by měl být souzen. Jako pozitivní jev
+    hodnotí, že dvě třetiny delegátů OSN demonstrativně opustilo sál při jeho projevu.
+- id: cernohorsky-2026-04-02-02
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: 'Letná 2026: odhad 10 milionů Kč — kdo za Mináři skutečně stojí'
+  text: 'Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letné stála v řádu deseti
+    milionů Kč: jenom pronájem a instalace jedné velkoformátové obrazovky plus kilometry kabelů by k tomuto
+    číslu snadno dospěly. Z toho vyvozuje, že Minář sám toto financovat nemohl a za ním musí stát politické
+    neziskovky — jako nejpravděpodobnějšího sponzora označuje Šimona Pánka z Člověka v tísni. Demonstraci
+    interpretuje nikoliv jako spontánní občanský protest, ale jako politický vzkaz Andreji Babišovi, jehož
+    výhru ve volbách tyto organizace považují za existenční hrozbu.'
+  citace:
+  - text: Jenom pro nájem jedné takové velkoplošné obrazovky plus instalace, montáž, demontáž — tam byly
+      kilometry kabelů. Kilometry. Není možný, aby ten minář prostě nebyl vlastně nastrčenou loutkou těch
+      neziskových zmrdů, který celý život jenom parazitují.
+  podtema: Milion chvilek — struktura a financování
+- id: cernohorsky-2026-04-02-03
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: 'Meeting Brno: 15 milionů za organizaci sudetoněmeckých akcí'
+  text: 'Černohorský tvrdí, že tři lidé z neziskové organizace Meeting Brno dostali za deset let pořádání
+    setkání se Sudetoněmeckým Landsmannschaftem přes 15 milionů korun z veřejných zdrojů. Dva lidé, kteří
+    požadovali svobodný přístup k informacím, narazili na podmínku uhradit stovky korun za 5letá data,
+    resp. přes 100 000 korun za 10leté hospodaření. Černohorský Meeting Brno označuje za organizaci, která
+    parazituje na státu a kolaboruje s tím, co nazývá „nacistickým" sudetoněmeckým spolkem. Uvádí to jako
+    argument pro zákon o transparentnosti: bez FARA-type zákona se podobné financování nedá ani prověřit.'
+  podtema: Milion chvilek — struktura a financování
+- id: cernohorsky-2026-04-02-04
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Financování Mináře a Šimon Pánek z Člověka v tísni
+  text: Jiří Černohorský odmítá výklad demonstrace Milionu chvilek na Letné (2026) jako spontánního občanského
+    protestu. Odhaduje výrobní náklady (pronájem velkoplošné obrazovky, kilometry kabelů) na 10 milionů
+    Kč — sumu, kterou Minář nemohl pokrýt sám. Za nejpravděpodobnějšího sponzora označuje Šimona Pánka
+    z Člověka v tísni. Celou akci interpretuje jako politický vzkaz Andreji Babišovi, jehož vítězství
+    ve volbách existenčně ohrožuje NGO ekosystém. Viz také [FARA a neziskovky — Letná 2026](fara-neziskovky.md#milion-chvilek--struktura-a-financování).
+  podtema: Letná 2026 — demonstrace jako politický nástroj neziskovek
+- id: cernohorsky-2026-04-02-05
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Černohorský volá po trestu smrti za vlastizradu
+  text: Jiří Černohorský odhaluje (s odkazem na informace od Petry Redové), že spolek Meeting Brno čerpal
+    přes 15 milionů korun z veřejných zdrojů za deset let pořádání setkání se Sudetoněmeckým Landsmannschaftem.
+    Žádosti o svobodný přístup k informacím narážely na finanční bariéry (stovky Kč za 5letá data, přes
+    100 tisíc Kč za 10leté hospodaření). Při komentáři tohoto případu Černohorský veřejně volá po obnovení
+    trestu smrti za vlastizradu a velezradu — a dodává, že „by vysel aj Petr Pavel".
+  citace:
+  - text: Tohle jsou vlasti zrádci, jo, prostě jsou to zrádci České republiky a já jsem jednoznačně pro
+      obnovení trestu smrti za vlastizradu a velezradu. [...] Protože to by vysel už aj pávek, tedy Petr
+      Pavel.
+  podtema: Meeting Brno — 15 milionů na sudetoněmecké akce
+- id: cernohorsky-2026-04-02-06
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: 'Česká televize: 8 miliard bez kontroly — zrušit nebo sdílet'
+  text: |-
+    Jiří Černohorský zpochybňuje samotný model veřejnoprávního financování ČT. Koncesonářské poplatky 8 miliard korun ročně jdou výhradně České televizi bez jakékoli veřejné kontroly toho, kam peníze skutečně míří. Navrhuje dvě alternativy: buď zcela zrušit koncesionářské poplatky a nechat ČT živit se z trhu jako komerční stanice, nebo poplatky rozdělit mezi všechna televizní a rádiová vysílání s celostátní licencí. Jako příklad špatného hospodaření uvádí Václava Moravce, jehož odchod z ČT nepovažuje za finanční újmu — Moravec si prý snadno vydělá 300 000 Kč měsíčně jinde.
+
+    Zítko doplňuje konkrétní číslo z veřejně dostupného soudního rozhodnutí: Václav Moravec pobíral v ČT 141 000 Kč za hodinu; při třech hodinách vysílání týdně (12 hodin měsíčně) to vychází přibližně na 1,7 milionu Kč měsíčně — a to z peněz koncesionářů.
+  citace:
+  - text: Z jakého důvodu by tohle mělo... nejsme v tom podnikatelském prostředí? Jestliže tady se musí
+      uživit Nova, Prima a já nevím co, tak ať se taky postará sama o sebe Česká televize. Hotovo.
+  dalsi_zdroje:
+  - 2026-04-15_zitko_mate-slovo-kampan-za-ucast-moravcuv-plat-15-4-2026
+  podtema: Mainstream jako politický aktivismus
+- id: cernohorsky-2026-04-02-07
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Jakub Janda a Štít demokracie — nový parazitický projekt
+  text: Černohorský označuje Jakuba Jandu (Evropské hodnoty) a Romana Mácu za autory nového projektu „Štít
+    demokracie" a obě osoby označuje za nebezpečné aktivisty s prsty všude v anti-dezinformační průmyslové
+    oblasti. Oba spolky označuje za parazitické organizace financované z veřejných zdrojů.
+  podtema: Mainstream jako politický aktivismus
+- id: cernohorsky-2026-04-02-08
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Letná 2026: NGO-řízená demontáž voleb'
+  text: Jiří Černohorský interpretuje demonstraci Milionu chvilek na Letné 2026 nikoliv jako spontánní
+    občanský protest, ale jako organizovanou politickou kampaň financovanou z NGO sektoru. Poukazuje na
+    to, že výroba takové akce (velké plátno, kilometry kabelů, ozvučení) stojí v řádu desítek milionů
+    — a lidé jako Mikuláš Minář jsou de facto „nastrčenými loutkami" neziskovek. Demonstrace je vzkaz
+    Babišovi, jehož vítězství existenčně ohrožuje tyto organizace. Viz také [FARA a neziskovky — Letná
+    2026](fara-neziskovky.md#milion-chvilek--struktura-a-financování).
+  podtema: Politická perzekuce
+- id: cernohorsky-2026-04-02-09
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Buča jako inscenace — Boris Johnson a sabotáž mírových rozhovorů
+  text: |-
+    Jiří Černohorský prohlašuje, že masakr v Buči byl inscenací ukrajinského praporu Azov. Jako důkazy uvádí: 30. března starosta Buče slavnostně vítal, že ruská vojska odešla, aniž zmínil jakékoli mrtvé na ulicích; 31. března o nich nemluvil ani přítomný politiker; teprve 3.–4. dubna „přijeli novináři a Azov a najednou tam byly mrtvoly s bílými páskami". Ruská armáda podle něj oblast opustila dobrovolně v rámci předběžné dohody o příměří — přičemž dojednat toto příměří přijel zničit Boris Johnson tím, že Zelenského přesvědčil, aby Rusko nevyhrůžalo, a místo toho ho přesvědčil, že západ válku pro Kyjev vyhraje.
+
+    ⚡ **Konflikt:** Tato tvrzení jsou v přímém rozporu se závěry mezinárodních vyšetřovatelů, Mezinárodního trestního soudu i zpravodajských služeb Evropy a USA, podle nichž se masakr v Buči opravdu odehrál a odpovědnost nesou ruské ozbrojené síly.
+  citace:
+  - text: Tady tohle prostě, to, co oni si vymysleli, tu buči — to je jejich práce, protože oni potřebovali
+      nějak zase očernit Rusko, aby Ukrajina neměla žádný důvod s Rusama jednat o míru.
+  podtema: Příčiny a odpovědnost za válku

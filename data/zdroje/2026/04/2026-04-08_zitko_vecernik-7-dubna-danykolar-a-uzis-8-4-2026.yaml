@@ -8,3 +8,18 @@ zdroj:
   prepis: prepisy/done/2026-04-08_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: '1:25:17'
+vyroky:
+- id: zitko-2026-04-08-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: 11 měsíců ve vazbě za „slovní trestný čin" — případ Danykoláre
+  text: |-
+    Danykolár (Daniel Bombic), slovenský influencer a kritik vlády, byl 7. dubna 2026 propuštěn z vazby po 11 měsících. Byl obviněn z extremismu za verbální výroky na sociálních sítích. Bombicův obhájce tvrdí, že celá vazba byla protiústavní: Bombicovi hrozil pouze podmíněný trest, a proto podle slovenského práva ani nebylo možné uložit vazbu — věznění tak nesloužilo žádnému zákonnému účelu a sloužilo pouze k omezení jeho komunikace s veřejností.
+
+    Pavel Zítko srovnává případ se svým vlastním 110denním vazebním stíháním za „šíření poplašné zprávy" v ČR a tvrdí, že mechanismus je identický: alternativní hlasy kritizující covidová opatření byly umlčovány uvězněním pod záminkou, protože přímá konfrontace s jejich argumenty nebyla možná. Bombic je podle Zítka „jediná osoba ve slovenské historii od novodobé státnosti, která se nacházela 11 měsíců ve vazbě za neslušné chování".
+  citace:
+  - text: Čistě náhodná podobnost, že všichni ti, kteří říkali pravdu o škodlivosti vakcinace, o škodlivosti
+      COVID-19 a varovali lidi, byli nějakým způsobem umlčováni tím, že byli omezeni na svobodě pod jakoukoliv
+      záminkou.
+  podtema: Danykolár (Daniel Bombic) — propuštění ze slovenské vazby

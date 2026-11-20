@@ -7,3 +7,134 @@ zdroj:
   prepis: prepisy/done/2026-03-12_Konspirátor-Boldy-KonspyChannel_Facebook-Live.txt
   rezim: standard
   delka: '32:24'
+vyroky:
+- id: boldy-2026-03-12-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: mRNA v rostlinách a potravinovém řetězci
+  text: Konspirátor Boldy tvrdí, že od roku 2024 probíhají v USA a následně v Evropě testy přídavku mRNA
+    do rostlin a stromů. To podle něj znamená, že ani neočkovaní lidé žijící zdravě v přírodě nejsou chráněni
+    před mRNA technologií prostřednictvím potravinového řetězce.
+  citace:
+  - text: mRNA je v rostlinách, je ve stromech, je ve všem. Když to testovali, začátek testování začal
+      v roce 2024 v Americe. Přesunulo se to do Evropy, takže tady je úplně jedno, jestli jsi očkovaný
+      nebo nejsi očkovaný.
+  podtema: Vakcíny
+- id: boldy-2026-03-12-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Nadnárodní elity a projekt „Velký Izrael"
+  text: Boldy tvrdí, že veškeré dění na Blízkém východě je součástí předem připraveného plánu elit — vytvořit
+    „Velký Izrael", jehož součástí je stavba třetího jeruzalémského chrámu a příprava červených jalovic
+    (odkaz na biblický rituál). Válečné konflikty jsou dle tohoto výkladu záměrně vyvolávány. Rothschildové,
+    Rockefellerové a Bill Gates jsou označováni za pouhé „loutky" ještě mocnějších anonymních sil.
+  citace:
+  - text: Samozřejmě nebudeme zapomínat na to, co se děje teď na Blízkém východě, tak jenom zase opět
+      hraje pro lidi, protože se bude vytvářet velký Izrael. To už je v plánu. Je v plánu výstavba třetího
+      chrámu. Červené jalovice, ty už jsou taky dávno připravené.
+  podtema: Elity a jejich plány
+- id: boldy-2026-03-12-03
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Přicházející hospodářská krize — záměrné plánování
+  text: |-
+    Boldy předpovídá závažnou ekonomickou krizi srovnatelnou s krizí roku 1929. Cena ropy má dle jeho přesvědčení překročit 200 dolarů za barel, což se projeví zdražením pohonných hmot, potravin i veškerého zboží. Krize je dle Boldyho záměrně plánována elitami, které ji využijí k levnému výkupu majetku od obyčejných lidí. Radí nashromáždění zásob základních potravin.
+
+    V dubnu 2026 Boldy doplňuje konkrétnější časový horizont: krize přijde na přelomu roku 2026 a 2027. Aktuální pokles cen pohonných hmot označuje za „frašku" a klam — chvilkový propad má lidi uspat před příchodem skutečného cenového šoku. Svět je podle Boldyho řízen psychopaty a pedofily, kteří záměrně manipulují hospodářský cyklus.
+  citace:
+  - text: Říkal jsem, že bude velká krize a ona, to ještě ani nezačalo, protože to, co přijde, bude takový
+      brutální skok, že většina lidí, spousta lidí to z finančního hlediska nezvládne.
+  - text: A tím nechci strašit, jo. To je to samé, jak když jsem vám říkal, nakupte si potraviny, nějaké
+      základní věci, protože bude to potřeba.
+  dalsi_zdroje:
+  - 2026-04-09_boldy_artemis-jako-odvedeni-pozornosti-9-4-2026
+  podtema: Elity a jejich plány
+- id: boldy-2026-03-12-04
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Tokenizace majetku a digitální diktatura
+  text: Boldy upozorňuje na nastupující systém tokenizace veškerého majetku — nemovitosti i jiná aktiva
+    budou obchodovatelná jako digitální tokeny. Tento systém je dle Boldyho součástí záměru elit zavést
+    „totalitní digitální diktaturu", přičemž proces je tak propracovaný, že lidé si ani neuvědomí, k čemu
+    přistoupili.
+  citace:
+  - text: Oni si to tak hrozně připravujou, že lidi se nebudou stačit o nic pamatovat a budou prostě v
+      totalitní digitální diktatuře. Nic víc.
+  podtema: Elity a jejich plány
+- id: boldy-2026-03-12-05
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Chemtrails a záměrná kontaminace ovzduší
+  text: Boldy tvrdí, že vzduch v Evropě je záměrně kontaminován chemtrails (geoengineering), zatímco v
+    Africe (konkrétně v Tunisku) je vzduch čistý. Uvádí to jako osobní pozorování.
+  podtema: Elity a jejich plány
+- id: boldy-2026-03-12-06
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Česká republika jako centrum evropského okultismu
+  text: Boldy prezentuje přesvědčení, že Česká republika a východní Německo jsou klíčovým pilířem pro
+    evropský satanismus a okultismus. ČR je podle něj nejen „srdcem Evropy", ale zároveň „srdcem satanistického
+    okultismu".
+  citace:
+  - text: Česká republika není jenom srdcem Evropy, ale je to srdcem všeho tady toto satanistického okultismu.
+  podtema: Okultismus
+- id: boldy-2026-03-12-07
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Dvojníci a klony politiků a celebrit
+  text: |-
+    Boldy tvrdí, že veřejné osobnosti — politici i celebrity — jsou nahrazovány dvojníky či klony, zatímco originály žijí v bezpečí na soukromých ostrovech. Konkrétně zmiňuje Trumpa a herce Jima Carreyho, o němž tvrdí, že byl vyměněn za klon poté, co veřejně ukázal symbol iluminátů.
+
+    Zítko ve večerníku z 12. dubna 2026 přidává příklad Vladimíra Putina: srovnání záběrů Putina z roku 2010 s aktuálními prý odhaluje zřetelné vizuální rozdíly svědčící o záměně za dvojníka.
+  citace:
+  - text: Každopádně Trump, co teďka vystupuje, to Trump není. Vždycky používají dvojníky.
+  - text: Jim Carrey, typičo samej klon a lidi to žerou.
+  dalsi_zdroje:
+  - 2026-04-12_zitko_vecernik-deep-state-vs-trump-putin-xi-aliance-13-4-2026
+  - 2026-08-28_zitko_videoportal-28-8-2026
+  podtema: Okultismus
+- id: boldy-2026-03-12-08
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Nord Stream — Mosad nebo Ukrajina jako pachatel
+  text: Boldy odmítá verzi, že za sabotáží plynovodu Nord Stream stálo Rusko, a označuje ji za absurdní
+    — Rusko by sabotovalo vlastní klíčovou infrastrukturu. Za pravděpodobnými pachateli označuje Mosad
+    nebo Ukrajinu, přičemž Ukrajinu označuje jako „malý Izrael".
+  citace:
+  - text: Jediný, kdo by to mohl tak udělat, je buď Mosad, anebo vlastně Ukrajina, což je jedno a to samé,
+      protože Ukrajina je malý Izrael, jo.
+  podtema: Historické konspirační výklady
+- id: boldy-2026-03-12-09
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Filmy jako záměrné odhalení plánů
+  text: Boldy zastává teorii, že elity záměrně vkládají své plány do filmů a seriálů (jako Westworld nebo
+    Matrix), aby se na ně nevztahovala karma. Pokud lidem plán ukáží a lidé jej nepřijmou jako varování,
+    karma se elit netýká. Doporučuje seriál Westworld jako klíč k pochopení toho, co nás čeká.
+  citace:
+  - text: Proč nám to ukazujou? No, protože jich se potom karma netýká. Když nám ukáží pravdu, to, co
+      bude přicházet, tak jich se karma vyjímá.
+  podtema: Elity a plánování dezinformací skrze popkulturu
+- id: boldy-2026-03-12-10
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: ČT jako jednostranná propaganda
+  text: Konspirátor Boldy označuje Českou televizi za „brutální jednostrannou propagandu" a TV Nova za
+    ještě extrémnější případ. Mainstreamová média jsou podle něj nástrojem manipulace mas — uplatňují
+    princip, že opakovaně sdělená nepravda se stává pravdou. Lidé, kteří konzumují výhradně mainstreamová
+    média, pak alternativní informace automaticky odmítají.
+  citace:
+  - text: My víme, že česká televize je propaganda. Je to brutální jednostranná propaganda. Ale to, co
+      předvádí TV Nova, hoho, to je další level.
+  - text: Stokrát opakovaná lež se stává pravdou.
+  podtema: Česká televize a mainstreamová média

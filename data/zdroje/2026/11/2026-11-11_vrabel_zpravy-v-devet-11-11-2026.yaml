@@ -8,3 +8,88 @@ zdroj:
   prepis: prepisy/done/2026-11-11_Ladislav-Vrabel_11-11-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 10 min, zprávy čte Zuzka; Den nezávislosti v Polsku, před summitem EU v Dublinu.
+vyroky:
+- id: vrabel-2026-11-11-01
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Studentské protesty za ČT jako revoluce „řízená CIA přes českou tajnou službu“ podle srbského
+    scénáře; řečníka by trestně stíhal (Vrabel, 10. 11. 2026)
+  text: '**11. 11.** — Ke generální stávce ve Španělsku Vrabel říká, že CIA „umí krásně rozpoutat stávky“
+    přes odborové funkcionáře napojené na „penězovody“. Jediné „přirozené“ demonstrace v ČR byly podle
+    něj ty jeho z roku 2022, financované sbírkami lidí; vše ostatní organizoval „někdo placený ze zahraničí“.
+    Poslední přirozenou revolucí v Evropě byla podle něj francouzská; Velkou říjnovou revoluci organizovala
+    Británie a rok 1989 tajné služby: „polovina“ čela studentského průvodu byli „tajní“ a student Šmíd
+    se „po pár letech vzkřísil“.'
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-11-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 'Lidé jako „pasiva“: s AI a robotizací chtějí elity méně lidí — vysvětlení deindustrializace,
+    válek i hmyzu v jídle (Vrabel, 10. 11. 2026)'
+  text: '**11. 11.** — K projevu Ursuly von der Leyenové na COP31 (emise do roku 2040 o 90 % níž) Vrabel
+    tvrdí, že Green Deal a odstřižení od ruských paliv „záměrně“ likvidují průmysl a zdražují pohonné
+    hmoty; v roce 2040 budeme podle něj „jezdit jenom na kolech“. Ptá se, kolik emisí způsobují války
+    a tankery, a jako řešení nabízí potravinovou a výrobní soběstačnost; větrníky podle něj vibracemi
+    vyhánějí zvířata a solární panely erodují půdu. Jedinou logiku celé koncepce vidí v tom, že prosperita
+    vede k vyšší porodnosti: proto je „potřeba, aby se špatně žilo, aby se rodilo méně dětí“.'
+  citace:
+  - text: Jediná logika, kterou v tom vidím je, aby se zlikvidoval ten prosperující svět […] když se dobře
+      žije, tak se rodí hodně dětí, to znamená, že je potřeba, aby se špatně žilo, aby se rodilo méně
+      dětí.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-11-03
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'El Hierro: 4000 migrantů za dva týdny — „vítačky“ se sny o černoších, původní obyvatelé do
+    armády, migranti na dávkách; Evropa spěje k osudu indiánů v rezervacích (Vrabel, 10. 11. 2026)'
+  text: '**11. 11.** — K dohodě o rozpočtu EU na rok 2027 (75,8 mld. eur na „soudržnost, odolnost a evropské
+    hodnoty“) Vrabel tvrdí, že „evropské hodnoty“ znamenají, že lidé ze Súdánu dostanou zaplacené bydlení
+    a tisíce eur měsíčně, zatímco „naši lidi nemají co jíst“ a mají „trénovat na válku s Ruskem“. Poděkovat
+    za to lze podle něj Kateřině Konečné („Rajchl s lidskou tváří“), která v Evropském parlamentu prosazovala
+    legální cesty pro migranty z Afriky. Kdo si to neuvědomí, toho se týká „přírodní selekce“: „ti hloupější
+    musí pryč“.'
+  citace:
+  - text: Je tady nějaká přírodní selekce, přirozená, a prostě ti hloupější musí pryč.
+- id: vrabel-2026-11-11-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 454 mld. eur na obranu za jediný rok jako vysvětlení drahoty; úspory Evropanů (10 bilionů eur)
+    skončí ve zbrojních firmách „za zády lidí“ (Vrabel, 10. 11. 2026)
+  text: '**11. 11.** — K růstu evropských výdajů na obranu (zhruba 250 mld. dolarů, ČR v roce 2027 191
+    mld. Kč) a plánu „sdíleného dluhu“ Vrabel uvádí, že Ukrajině bude Evropa dávat „minimálně 100 miliard
+    každý rok“, zatímco lidé podle známé pokladní kupují prošlé potraviny a vracejí párky, na které nemají.
+    Peníze z daní podle něj jdou na Ukrajinu „na válku, na mučení lidí a na vraždění“ a polovina se rozkrade.
+    Do konfliktu jsme se podle něj neměli „vůbec motat“ (je to věc Rady bezpečnosti OSN); naopak jsme
+    se měli postavit na stranu Ruska. Vlády Petra Fialy i Andreje Babiše jsou proto „zločinné vlády“,
+    jejichž členové by „jako zločinci měli být souzeni“ (viz [Stochastický teror](stochasticky-teror.md)).
+    Babiš podle něj jede do Dublinu ne odmítnout 70 mld. eur pro Ukrajinu jako Fico, ale „zadlužit Českou
+    republiku“ vyššími půjčkami z programu SAFE na zbraně; zmiňuje 20% propad akcií Strnadovy CSG. Havlíčkovo
+    jednání o dodávce 16 letounů L-39 Skyfox Ukrajině popisuje jako „biznis“.'
+  citace:
+  - text: Mně připadá, že jsou to zločinci a že by jako zločinci měli být souzeni.
+  podtema: EU jako vojenská struktura
+- id: vrabel-2026-11-11-05
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Mise EUMAM přímo na Ukrajině jako „otevřené dveře“ pro vojáky EU; ruská nabídka bilaterálních
+    smluv o neútočení je „dobrý nápad“, který by ČR měla podepsat (Vrabel, 11. 11. 2026)
+  text: 'K rozhodnutí Rady EU prodloužit výcvikovou misi EUMAM do listopadu 2028 (přes 300 mil. eur) a
+    nově s přítomností přímo na ukrajinském území Vrabel říká, že EU postupuje „salámovou metodou“. Válku
+    s Ruskem sice nevyhlásila, ale „otevřela dveře“ na Ukrajinu: vojáci EU tam od nynějška mohou oficiálně
+    jezdit, a nelze tedy dál tvrdit, že EU „jenom pomáhá“. Přítomnost západních vojáků na Ukrajině byla
+    podle něj právě tím, čemu chtělo Rusko v roce 2022 zabránit; EU proto nemůže zajistit mír tím, že
+    na Ukrajinu pošle vojáky. Válka mezi Evropou a Ruskem podle něj „už dávno probíhá“ a postupně se přiostřuje
+    (vrtulníky, F-16, Storm Shadow, ATACMS). Ruský návrh (diplomat Alexej Drobinin) uzavřít s jednotlivými
+    státy NATO dvoustranné smlouvy o neútočení s vymahatelnými sankcemi označuje za „logický“ a „strategický“
+    krok. Babiš by podle něj měl smlouvu za ČR podepsat, a jeho hnutí chce vládě oficiálně napsat, ať
+    o ní jedná; ČR by se tím podle něj „vyvázala“ i z odpovědnosti za smrt lidí na Ukrajině. Navazuje
+    na výzvu k vládě ze shromáždění na Malostranském náměstí (zmocněnec pro mír).'
+  citace:
+  - text: Česká republika nemá důvod se k tomu nepřipojit, protože tohle by zajistilo bezpečnost České
+      republiky.
+  podtema: Zahraniční aktéři a precedenty

@@ -8,3 +8,32 @@ zdroj:
   rezim: standard
   delka: '2:14'
   poznamka: 'Zhlédnutí: 30 888'
+vyroky:
+- id: boldy-2026-03-15-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Válka s Íránem jako příležitost pro příchod mesiáše a islamizaci Evropy
+  text: Boldy tvrdí, že sionisté prohlásili válku s Íránem za „ideální čas pro příchod mesiáše". Součástí
+    tohoto plánu má být zničení mešit na Chrámové hoře, což by radikalizovalo islámský svět a vyvolalo
+    konflikty v Evropě, která je podle Boldyho záměrně islamizována. Válka s Íránem by navíc vyhnala cenu
+    ropy na 300 USD za barel, benzín a nafta by se v Česku vyšplhaly na 70–150 Kč/litr, čímž by se automobily
+    staly luxusem. Přicházející krize bude podle Boldyho horší než v roce 1929, akciové trhy ztratí 60–80
+    % hodnoty.
+  citace:
+  - text: Elitám sionistům to hraje naprosto do karet, protože tahleta válka může vystřelit cenu ropy
+      až na 300 dolarů za barel. Co by to znamenalo pro nás tady v Evropě? No, benzín a nafta by se vyšplhala
+      od 70 do 150 korun za litr.
+  podtema: Blízký východ a Írán — konspirační výklady (Boldy)
+- id: boldy-2026-03-15-02
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Válka s Íránem může poslat ropu na 300 USD/barel
+  text: Boldy předpovídá, že válka s Íránem (kterou sionisté záměrně iniciují pro „příchod mesiáše") vyžene
+    cenu ropy na 300 USD za barel. To by znamenalo ceny pohonných hmot v ČR 70–150 Kč/litr a automobily
+    by se staly luxusním zbožím. Přicházející ekonomická krize bude podle Boldyho horší než v roce 1929.
+  citace:
+  - text: Tahleta válka může vystřelit cenu ropy až na 300 dolarů za barel. Co by to znamenalo? Benzín
+      a nafta by se vyšplhala od 70 do 150 korun za litr, takže by se staly naftové i benzínové auta luxusem.
+  podtema: Rusko a energetická krize EU

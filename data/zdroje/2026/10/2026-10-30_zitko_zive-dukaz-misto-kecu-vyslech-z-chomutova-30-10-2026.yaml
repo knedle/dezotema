@@ -9,3 +9,150 @@ zdroj:
   rezim: standard
   poznamka: 3 h 35 min; většinu tvoří komentovaná nahrávka Zítkova výslechu na policii v Chomutově 13.
     11. 2023; vysíláno před setkáním v Holýšově; zpracováno podle shrnutí pomocného agenta.
+vyroky:
+- id: zitko-2026-10-30-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: „Smlouva na stát Izrael“ končí 31. 10., Čína a Saúdská Arábie už mají mapy bez Izraele (Zítko,
+    30. 10. 2026)
+  text: Zítko tvrdí, že 31. 10. končí „smlouva na stát Izrael“ a Čína se Saúdskou Arábií už vydaly mapy
+    bez Izraele; poté podle něj nastane „velký územně právní problém s Palestinci“ (viz [predikce](predikce.md)).
+  dalsi_zdroje:
+  - 2023-11-13_zitko_vyslech-v-chomutove-13-11-2023-bez-sekani-31-10-2026
+  podtema: Hormuz — aktualizace 6. 5. 2026
+- id: zitko-2026-10-30-02
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: „Smlouva na stát Izrael“ končí 31. 10., Čína a Saúdská Arábie už mají mapy bez Izraele (Zítko,
+    30. 10. 2026)
+  text: '**31. 10. (záznam z 2023)** — Zítko dodává, že Židé se mají přestěhovat na Ukrajinu jako „původní
+    Chazárii“.'
+  podtema: Hormuz — aktualizace 6. 5. 2026
+- id: zitko-2026-10-30-03
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Elektřina za 0,15–0,4 Kč/kWh prodávaná přes Lipsko, odtok bilionu ročně, zavírání porcelánky
+    Thun (Zítko, 30. 10. 2026)
+  text: Zítko tvrdí, že se v ČR elektřina vyrábí za 0,15–0,4 Kč/kWh, ale prodává se přes Lipskou burzu;
+    jako příklad deindustrializace uvádí zavírání porcelánky Thun v Klášterci. S odkazem na Rajchla uvádí,
+    že z ČR ročně odteče bilion korun, a dluh státu odhaduje na 3,8 bilionu.
+  podtema: Elektřina — marže a ceny
+- id: zitko-2026-10-30-04
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 'Soud v Amsterdamu: Gates, Bourla a Rutte jako obžalovaní'
+  text: '**30. 10.** — Zítko uvádí, že Pfizer zaplatil FDA 2,8 milionu dolarů, že CDC k 28. 2. 2021 evidovalo
+    150 000 mrtvých a že Fauci 29. 7. v Kongresu „přiznal program depopulace“; náhlou smrt Romana Čechmánka
+    v 52 letech naznačuje jako následek očkování a pokles porodnosti o 30 % přičítá „sterilizační funkci“
+    vakcíny. Policisté, kteří „genocidu“ nestíhají, se podle něj stávají spolupachateli; vládu a ministry
+    by nechal testovat krví.'
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: zitko-2026-10-30-05
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**30. 10.** — Zítko pouští a komentuje vlastní nahrávku výslechu na policii v Chomutově z 13.
+    11. 2023 (asi 1 h 40 min) jako „důkaz“, že Čermáka neudal: policii podle ní žádné číslo nedal, měl
+    jen staré vypnuté číslo a jeho telefon policie prohledala už 10. 10. 2023; telefon s nahrávkou mu
+    zabavili 3. 2. 2025 a vrátili 12. 10. Video z „polské chodby“ (14. 11. 2023) považuje za policejní
+    provokaci, Tušla, Bernardy, Černohorského a Svobodu za „policí řízené zmrdy“ a Tušlovo dřívější propuštění
+    za „daň za kolaboraci“. Po telefonátu do firmy TKO mu večer volala Čermákova matka a asi 20 minut
+    „hlas Tomáše Čermáka“, který prý potvrdil, že se s Bernardy nikdy osobně nepotkal; Zítko totožnost
+    nepřijímá, protože „identita se potvrzuje naživo“ a hlas lze napodobit AI z 20–30 sekund záznamu.
+    Hospoda v Holýšově jim rezervaci odmítla, setkání má být na usedlosti „u Holýšova“.'
+  citace:
+  - text: A pokud nepřijde, tak je to jenom potvrzení, že to nebyl Tomáš Čermák.
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-30-06
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Propuštění „údajného" Tomáše Čermáka jako sehraný justiční podvod s dvojníkem (Zítko, 24.–27.
+    9. 2026)
+  text: '**31. 10. (záznam výslechu z 13. 11. 2023)** — V nesestříhaném záznamu z roku 2023, který zveřejnil
+    Jiří Hradil, Zítko Čermáka označuje za „spolubojovníka za svobodu a obnovení Československa“, trest
+    5,5 roku za nespravedlivý (soudci Humena a Lněnička mu prý nepovolili roli „zmocněnce-důvěrníka“)
+    a uvádí, že Jana Peterková pro Čermáka žádá politický azyl a 10 000 Kč z transparentního účtu má jít
+    na jeho mezinárodní právní pomoc. Srovnává ho s Pavlem Novotným, který podle něj díky krytí Fialy
+    a Rakušana zůstal bez trestu, a Čermákův výrok „vezmeme je za držky a hodíme je do řeky“ označuje
+    za „adekvátní“. O pravosti Čermáka v záznamu nepadne nic.'
+  podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
+- id: zitko-2026-10-30-07
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Politiky ovládá vydírání (Epstein) a úplatky; EU v rukou „vnoučat nacistů“, Paperclip i s Hitlerem;
+    smrt Karla Kryla (Zítko, 28. 10. 2026)
+  text: '**30. 10.** — Zítko dodává, že Hitler podle něj dožil v Jižní Americe a měl děti a EU ovládli
+    „vnoučátka fašounů a nácků“ zachráněná operací Paperclip.'
+  podtema: Náboženský a okultní výklad moci
+- id: zitko-2026-10-30-08
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rodný list jako obchodní papír na burze v New Yorku — admirality law (Zítko)
+  text: '**30. 10.** — Protokoly policie a soudů mají podle Zítka čísla, protože se s nimi obchoduje na
+    burze „z vašeho kolaterálního účtu“; USA se staly korporací v roce 1871 díky Rothschildům a Rockefellerům
+    a česká policie má prý na autech znak SS. Smrt Alexandra Dubčeka podle něj nesla „všechny rysy práce
+    tajných služeb“ a Klaus prý vytuneloval důchodový fond (333 mil. USD).'
+- id: zitko-2026-10-30-09
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: Rodný list jako obchodní papír na burze v New Yorku — admirality law (Zítko)
+  text: '**31. 10. (záznam výslechu z 13. 11. 2023)** — V nesestříhaném záznamu výslechu Zítko uvádí,
+    že podal „odpor“ podle čl. 23 Listiny (rozeslán Ústavnímu soudu, Senátu i prezidentovi) a že byl 28.
+    10. 2023 na „2. zemském sněmu lidu“ zvolen generálním konzulem Československa; s odkazem na „UCC 1-308“
+    tvrdí, že ho „smí soudit pouze lid“ a moc výkonná ani soudní ho „nesmí persekuovat“. Odpor mu podle
+    něj dává právo „bránit se stejnými prostředky“, jaké proti občanům používá „veřejná korporace“.'
+  citace:
+  - text: Česká republika je obchodní společností… a pouze předstírá tu moc státní.
+- id: zitko-2026-10-30-10
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „Vítězné mocnosti" Trump, Putin, bin Salmán a Módí rozhodnou o obnově Československa; volby
+    20 let falšovány (Zítko, 24. 9. 2026)
+  text: '**30. 10.** — Obnovená Československá republika by podle Zítka měla mít volby bez politických
+    stran „na blockchainu“ s přímou odvolatelností zvolených a referendum o Zakarpatí; obnova je „čím
+    dál blíž“ a obnovuje se prý i SSSR a Jugoslávie.'
+- id: zitko-2026-10-30-11
+  typ: tvrzeni
+  temata:
+  - konspirace-deep-state-qanon
+  nadpis: 'Stanné právo, „500 tisíc rozsudků k vykonání“ a Q: „tajná vojenská operace je dokončena“ (Zítko,
+    20. 10. 2026)'
+  text: '**30. 10.** — Zítko tvrdí, že „globální vojenské stanné právo“ platí od 9. 8., že na Guantánamu
+    už proběhly první popravy „covidových lékařů, kteří píchali do lidí injekce“ (v USA má být obviněno
+    19 000 lékařů, prvních pět oběšeno 5. 9.) a že 18. 9. byla popravena technoložka Moderny Melissa Moore,
+    kterou zesměšňuje kvůli váze; od 9. 11. má v Kostarice běžet proces s „covidovou mafií“. Andreas Noack
+    byl podle něj „zavražděn“ jako odborník na grafen.'
+  citace:
+  - text: Na Guantánamu už byly provedeny první popravy covidových lékařů, který píchali do lidí tyhle
+      injekce.
+- id: zitko-2026-10-30-12
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Migranti jako „trojský kůň“ a „hordy“ mladých mužů — okamžitá deportace (Zítko, 30. 10. 2026)
+  text: Zítko označuje migranty za „trojského koně“ a „hordy“ tvořené jen muži ve věku 20–40 let a žádá
+    jejich okamžitou deportaci.
+  citace:
+  - text: Šup, šup, zpátky domů.
+- id: zitko-2026-10-30-13
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: Uprchlíci utekli hlavně do Ruska, „ukrajinští fašouni“ zabili v Donbasu 15 000 lidí, zbraně
+    se vracejí do Evropy (Zítko, 30. 10. 2026)
+  text: Zítko tvrdí, že většina ukrajinských uprchlíků (2–3 miliony) utekla do Ruska, že „ukrajinští fašouni
+    a náci“ v Donbasu zabili 15 000 lidí včetně 149 dětí a že první zaútočila Ukrajina. Zbraně z Ukrajiny
+    se podle něj vracejí do Maďarska a na Slovensko a manželka jednoho poslance prý vezla přes hranice
+    30 milionů dolarů.
+  podtema: Vyjednávání a mír

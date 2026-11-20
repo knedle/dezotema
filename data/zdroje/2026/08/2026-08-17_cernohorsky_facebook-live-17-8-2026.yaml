@@ -7,3 +7,45 @@ zdroj:
   url: https://www.facebook.com/100085862388850/videos/1383386230523580
   prepis: prepisy/done/2026-08-17_Jiří-Černohorský-Živě_Facebook-Live.txt
   rezim: standard
+vyroky:
+- id: cernohorsky-2026-08-17-03
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: První městské brněnské hody — plýtvání a ukrajinská vlajka na magistrátě (Černohorský, 17. 8.
+    2026)
+  text: Černohorský kritizuje uspořádání „prvních městských brněnských hodů" krátce před komunálními volbami
+    jako účelovou akci typu „chléb a hry" placenou z veřejných peněz. Zmiňuje v této souvislosti sochu
+    na náměstí Svobody, kterou hodnotí posměšně jako vzhledově nepovedenou („Gulliverovo hovno") — pořizovací
+    náklad odhaduje na 10–12 milionů Kč, provozní údržbu na půl milionu ročně. Kritizuje také trvalé vyvěšení
+    ukrajinské vlajky na budově magistrátu, kterou označuje hanlivým výrazem, a sarkasticky navrhuje,
+    že by na otevření hodů mohli rovnou pozvat zástupce Sudetoněmeckého Landsmannschaftu (Bernda Posselta),
+    když už město podle něj takto okatě prosazuje „ukronacistickou" symboliku.
+  podtema: Meeting Brno — 15 milionů na sudetoněmecké akce
+- id: cernohorsky-2026-08-17-04
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Noční zastavení, sporný „lízací test" a odebrání řidičáku (Černohorský, 17. 8. 2026)
+  text: |-
+    Černohorský popisuje případ matky dvou dětí (v jeho vysílání označované jako „Tereza"), kterou v deset hodin večer mimo velké město zastavila policejní hlídka (spojená hlídka z Dobříše a Příbrami) a podrobila ji orientačnímu „lízacímu testu" na drogy — bez řádného postupu, bez předání kopie dokumentace o výsledku a bez možnosti zpochybnit manipulaci s testovacím proužkem (podle Černohorského ho policisté hodili volně na palubní desku vozidla). Na základě testu jí byl odebrán řidičský průkaz. Černohorský, s nímž byla žena v telefonickém spojení v době zásahu, tvrdí, že šlo o cílenou, předem naplánovanou akci vyvolanou jejím bývalým partnerem („zmrt z bohaté rodiny") ve spolupráci s policií, soudem, státním zastupitelstvím i školou dětí (ředitelka, třídní učitelka) s cílem připravit ji o děti a diskreditovat ji jako matku pod vlivem drog. Zmiňuje, že dva oslovení právníci případ po počátečním zájmu bez vysvětlení odmítli převzít, což interpretuje jako zastrašování. Dává to do souvislosti s obdobným podnětem od jiné divačky (dopisovatelka „Zorka") popisující údajně identický postup justice a policie v regionu Frýdek-Místek.
+
+    ⚡ **Poznámka:** Jméno a detaily případu nelze ověřit z veřejně dostupných zdrojů; jde výhradně o Černohorského jednostrannou interpretaci.
+  podtema: Kauza „Terezy" — podezření na koordinovaný postup policie, soudu a školy proti matce
+- id: cernohorsky-2026-08-17-05
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Zmařená reklama v Brně a obvinění z „bonzáctví" ve vlastenecké komunitě (Černohorský, 17. 8.
+    2026)
+  text: Černohorský popisuje zmařenou domluvu na billboardovou reklamu (kandidatura do Brno-střed) na
+    vozech Dopravního podniku města Brna — po předběžném potvrzení přes zlínskou reklamní agenturu i přímo
+    od zaměstnance dopravního podniku přišlo do 20 minut, respektive dvou dnů, zrušení s odkazem na to,
+    že plochy už jsou obsazené. Aktivista označovaný jako „Dan Novák" se podle Černohorského veřejně chlubil,
+    že o zrušení věděl předem a že Černohorského „slušně poslali do prdele" — což Černohorský čte jako
+    důkaz, že mu někdo z dopravního podniku informace záměrně vynesl. Navazuje na to obviněním, že v uzavřeném
+    chatu jeho podpůrné komunity „Společenství" je osoba, která zprávy soustavně vynáší Lence Tarabové
+    a Novákovi — extrémně rozšiřuje starší tezi o tříštění vlastenecké scény (viz [Zklamání z reakce na
+    sjezd v Brně](benesovy-dekrety.md#zklamání-z-reakce-na-sjezd-v-brně--slíbený-otevřený-dopis-se-nikdy-nerealizoval-černohorský-26-6-2026))
+    o konkrétní obvinění ze špionáže a zrady uvnitř vlastního tábora.
+  podtema: Nová alternativní média

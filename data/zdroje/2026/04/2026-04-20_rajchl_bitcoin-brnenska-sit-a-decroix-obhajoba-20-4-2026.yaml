@@ -12,3 +12,30 @@ zdroj:
     (Blažek, Karim Tyc, Daňhel, notář Míka, znalec Berger, Bednářová); tři možnosti řešení (zničit/konfiskovat/šalamoucké);
     korupce brněnských institucí; Havránkův zákon o daňové výjimce; Jiříkovský jako „bílý kůň". Zhlédnutí:
     65 300'
+vyroky:
+- id: rajchl-2026-04-20-01
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Brněnská síť, Decroix obhajoba a Tejcovo trestní oznámení (Rajchl + Zítko, 20.–21. 4. 2026)
+  text: |-
+    Po zveřejnění výsledků interního auditu vystoupili společně ministr spravedlnosti Jeroným Tejc a ministryně financí Alena Šilerová (ANO) a oznámili, že rezort podá trestní oznámení. Eva Decroix reagovala: „Jsem přesvědčena, že nedošlo k žádnému trestnému činu ani poškození státu." Vyzývala Tejce na debatu v ČRo Radiožurnál a tvrdila, že Tejc se „bojí". Rajchl označuje tuto sebejistotu za drzost — důkazy jsou dle něj zdrcující.
+
+    Rajchl zpřesňuje podíl Decroix: zastavila zprávu koordinátora kauzy Davida Uhlíře dříve, než ji mohl dokončit — Uhlíř nesměl zmínit roli Zbyňka Stanjury. Rajchl ji na SPD tiskové konferenci (21. 4.) vyzval k odchodu z politiky; Decroix odpověděla, že „zábava začíná". Rajchl připomíná jejich předchozí střet na podcastu Echo Prime — dle něj „ostudu před celou republikou" a nejsledovanější epizodu kanálu.
+
+    Rajchl identifikuje konkrétní brněnskou síť:
+    - **Pavel Blažek** (ODS, exministr spravedlnosti) — organizátor, odešel po odhalení; sídlo: Brno
+    - **Karim Tyc** — Blažkův spolužák z gymnázia v Opavě, najatý jako advokát Jiříkovského; Rajchl: „minimální pravděpodobnost, že si Jiříkovský spolužáka Blažka vyhledal sám — šlo to patrně opačným směrem"
+    - **Radomír Daňhel** — Blažkův náměstek, brněnský; 25. 3. 2025 navštívil ředitele FAÚ Hilmara (nebývalý dotaz)
+    - **Lubomír Míka** — notář z Brna; při „otevírání peněženek" ověřoval vše jen na základě screenshotu, fyzicky přítomen nebyl v době prvního přístupu
+    - **Jiří Berger** — soudní znalec z Brna, spolumajitel cestovní kanceláře posílající brněnské politiky (vč. primátorky Vaňkové) do zahraničí; byl angažován a placen Tycem (z Jiříkovského strany) — ne státem
+    - **Bednářová** — šéfová právního oddělení MS
+
+    Dle Rajchla měla kauza tři možná řešení: (1) zničit hardware — nikdo by z toho nic neměl; (2) konfiskovat vše — 100+ mld Kč do státního rozpočtu; (3) „šalamoucké" řešení — minimalizovat základ pro výpočet 30% a nechat zbytek Jiříkovskému na redistribuci. Třetí cesta implikuje korupci v brněnských institucích: aby Jiříkovský získal přístup k zabaveným počítačům, muselo dojít ke změně rozhodnutí u krajského soudu, nejvyššího soudu i krajského ředitelství policie — vše v Brně. K „inventuře" přinesl pouze jeden (rozbalený, nezapečetěný) počítač z padesáti, které mu stát protiprávně vrátil. Poslanec ODS Havránek navrhoval zákon osvobozující příjmy z Bitcoinu od daně do 40 mil. Kč — výhodné pro budoucí rozdělení kořisti.
+
+    Zítko doplňuje: Jiříkovský se pokusil bitcoiny vyměnit v pražské směnárně Byt Plus (provozovatel Martin Stránský), který ho odmítl i s papírem od MS; Jiříkovský pak odjel na Tajvan. Petr Fiala a Eva Decroix absolvovali 21. 4. 2026 společný Facebook live — dle Zítka poprvé, kdy Fiala sáhl k tomuto formátu, což interpretuje jako výraz paniky.
+  dalsi_zdroje:
+  - 2026-04-21_rajchl_decroix-vyzva-k-odchodu-z-politiky-21-4-2026
+  - 2026-04-19_zitko_bitcoin-tejc-silerova-a-cs-teorie-19-4-2026-zverejneno-20-4
+  - 2026-04-21_zitko_bitcoin-11-11-objasneno-fiala-decroix-fb-live-21-4-2026
+  podtema: Kauza Bitcoin — organizovaný zločin ve státní správě

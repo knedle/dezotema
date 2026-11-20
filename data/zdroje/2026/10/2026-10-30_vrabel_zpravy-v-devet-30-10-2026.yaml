@@ -8,3 +8,75 @@ zdroj:
   prepis: prepisy/done/2026-10-30_Ladislav-Vrabel_30-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 1 h 15 min, zprávy čte Zuzana; krátký sdílený anglický klip (51:51–52:57) nezpracován.
+vyroky:
+- id: vrabel-2026-10-30-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Lipská burza a „péče řádného hospodáře“ jako výmluva; elektřina zdarma do průměrné spotřeby
+    (Vrabel, 30. 10. 2026)
+  text: 'Vrabel odmítá požadavek diváka zrušit Lipskou burzu, protože problém je podle něj v tom, že se
+    tam tvoří cena. Energetické firmy se podle něj schovávají za povinnost členů orgánů jednat s péčí
+    řádného hospodáře podle zákona o obchodních korporacích: prodat levněji než na burze by prý poškodilo
+    firmu. Suverénní stát to ale podle něj může „za jeden den“ obejít jednoduchým zákonem, který stanoví
+    cenu elektřiny. Opakuje návrh svého hnutí dát domácnostem elektřinu zdarma do průměrné spotřeby, protože
+    výroba stojí 30–50 haléřů a i při ceně 1,50 Kč by byl zisk 200 %. Vláda podle něj nepracuje pro lidi,
+    ale pro „energobarony“ (Křetínský). Tuto zimu podle něj čeká další energetická krize.'
+  citace:
+  - text: Klidně může přijít vláda a udělat jednoduchý zákon. Co se týče elektřiny, tak bude za tolik
+      a za tolik peněz. A obejde tím úplně zákon o obchodních korporacích. To je úplně jednoduchý, to
+      je úplně triviální.
+  podtema: Elektřina — marže a ceny
+- id: vrabel-2026-10-30-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Srbské volby: vítězství studentů — od „barevné revoluce“ k „pronárodnímu“ hnutí (Vrabel, od
+    25. 10. 2026)'
+  text: '**30. 10.** — ⚡ Vrabel výsledek nazývá „zázrakem“. Studenti podle něj dělají „přesně to, co jsem
+    chtěl“: nenásilnou revoluci, audit veřejných smluv, zatýkání, výměnu vedení policie a tajné služby,
+    delegaci do Ruska kvůli plynu a ropě, zákon proti lithiovému dolu pro EU a podporu zemědělské soběstačnosti.
+    Vučićovi teď naopak vyčítá, že „prodával Srbsko zahraničí“. Výhrady má k Iliji Srdžanovićovi jako
+    možnému premiérovi (Srebrenica) a k bývalému guvernérovi národní banky. Rozdíl proti Maďarsku vidí
+    v tom, že v Srbsku se soutěží o to, „kdo je víc národní“; Magyar ani Rajchl, Babiš, Macinka a Okamura
+    podle něj vlastenci nejsou. *(Ještě 15.–23. 10. tvrdil, že kampaň studentů platí zahraniční fondy,
+    a sázel na Vučićovo vítězství.)*'
+  citace:
+  - text: Tak to vypadá, že se stal v Srbsku zázrak. Že ty studenti, který vyhráli ty ligy na ulici, že
+      skutečně vyhráli svoji zemi a to, co říkají, že budou dělat, tak to zatím vypadá přesně jako to,
+      co jsem chtěl udělat.
+  podtema: Česká suverenita
+- id: vrabel-2026-10-30-03
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'CAS vrací ruské hokejisty, Šťastný chce zákaz udržet: „čistý nacismus“, ministr „by měl být
+    trestně stíhán“ (Vrabel, 30. 10. 2026)'
+  text: K rozhodnutí sportovního arbitrážního soudu (CAS), který zrušil zákaz ruských a běloruských hokejistů,
+    Vrabel tvrdí, že politika do sportu nepatří a vyloučení sportovců kvůli národnosti je „čistý nacismus“,
+    jaký tu byl naposledy za druhé světové války. Ministr sportu Boris Šťastný (Motoristé), který chce
+    i proti rozhodnutí CAS bránit startu ruských dívek do 18 let na MS v Ostravě, by podle něj měl být
+    trestně stíhán. Motoristy, Trikoloru a PRO označuje za „ODS pod jiným názvem“ a ptá se, kdo Motoristům
+    dal 50 milionů na kampaň. Ke stejnému rozhodnutí CAS se týž den vyjádřil i [Rajchl](valka-nato-rusko.md)
+    („politika do sportu nepatří“).
+  citace:
+  - text: To je čistý nacizmus. To jsme tady naposledy měli za druhé světové války. Je to trestné. Ministr
+      Šťastný by podle mě měl být trestně stíhaný.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-10-30-04
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Lavrov „nejlepší ministr zahraničních věcí na světě“ — díky němu svět chápe Rusko (Vrabel, 30.
+    10. 2026)
+  text: K bojkotu společné fotografie s Lavrovem na G20 (Sikorski) Vrabel tvrdí, že Lavrov dokázal od
+    roku 2022 trpělivou diplomacií změnit postoj světa. Svět Rusko tehdy odsoudil, dnes podle něj „valná
+    většina světa“ chápe důvody ruské operace a stojí na straně Ruska. Proti zůstává jen „pár idiotů v
+    EU“ a politici z Kanady, Japonska a Austrálie; i Rubio prý Evropu vyzval ke zmírnění rétoriky vůči
+    Rusku. Rozsudek ESLP o ruské genocidě odmítá jako bezcenný („jako kdybych si to napsal na toaletě“),
+    protože soud podle něj nemá pravomoc a Evropa je stranou konfliktu. Sikorského a Tuska by „zakázal“
+    a opakuje babiččin výrok, že „každého, kdo dělá válku, by pověsila za žebro“.
+  citace:
+  - text: Za mě Sergej Lavrov je nejlepší ministr zahraničních věcí na světě, který existuje. Basta tečka.
+      Je to prostě diplomat každým coulem.
+  podtema: Zahraniční aktéři a precedenty

@@ -7,3 +7,33 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1795349808303634
   prepis: prepisy/done/2026-08-24_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-08-24-01
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Rozpad vlastenecké scény — obvinění z agenturní spolupráce s BIS/policií, cenzura na Raptor
+    TV (Vrabel, 23. 8. 2026)
+  text: '**24. 8.** — Vrabel sarkasticky rozšiřuje sbírku obvinění o nejnovější přírůstek: podle komentáře
+    pod jeho videem prý „dělá pro Vítka Rakušana", protože potřebuje, aby Vrabel tvrdil, že ruská speciální
+    vojenská operace je v souladu s chartou OSN a že ukrajinský režim je fašistický. Řadí to k dosavadnímu
+    seznamu — dělá prý zároveň pro Rusko (pátá kolona dle Fialy), pro BIS, pro policii — a ironicky se
+    ptá, kam si má „narvat" všechny ty peníze od tolika údajných zaměstnavatelů najednou.'
+  podtema: Politická perzekuce
+- id: vrabel-2026-08-24-02
+  typ: tvrzeni
+  temata:
+  - valka-nato-rusko
+  nadpis: Macinkova řeč o „bezpečnostních výzvách" ČR — Vrábel rozporuje bod po bodu (24. 8. 2026)
+  text: 'Ministr zahraničí Petr Macinka na poradě českých velvyslanců řekl, že Rusko svou invazí zásadně
+    poškodilo evropskou bezpečnost a že ČR bude se spojenci pokračovat v ekonomickém tlaku na Moskvu —
+    zároveň označil za bezpečnostní výzvy pro ČR nekontrolovanou masovou migraci, energetickou závislost,
+    technologické zaostávání, ztrátu konkurenceschopnosti, narušenou společenskou soudržnost a nedostatečnou
+    schopnost vlastní obrany. Vrábel rozebírá každý bod jako důsledek politiky samotné vlády, nikoli vnějších
+    okolností: migrace pokračuje navzdory formálnímu odmítnutí migračního paktu; energetická závislost
+    na Rusku byla nahrazena dražšími zdroji ideologickým rozhodnutím; technologické zaostávání a ztráta
+    konkurenceschopnosti pramení z toho, že zahraniční koncerny si nechávají výzkum a vývoj doma a do
+    ČR posílají jen „montovnu" (vinu klade historicky na kupónovou privatizaci ODS, ČSSD, TOP 09 a KDU-ČSL);
+    společenskou nesoudržnost vytváří podle něj sám Macinka svým rámováním politické scény jako „boje";
+    a schopnost obrany by nebyla problémem, kdyby ČR nepokračovala v sankční politice vůči Rusku.'
+  podtema: Zahraniční aktéři a precedenty

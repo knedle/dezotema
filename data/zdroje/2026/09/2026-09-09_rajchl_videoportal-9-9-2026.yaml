@@ -7,3 +7,35 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1627220585689997
   prepis: prepisy/done/2026-09-09_Jindřich-Rajchl_Videoportál.txt
   rezim: standard
+vyroky:
+- id: rajchl-2026-09-09-01
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'Ukrajinská migrace: rozsah, kriminalita a plán revize pobytu (Rajchl, 16. 8. 2026)'
+  text: '**9. 9.** — V televizní debatě Rajchl tutéž tezi (zneužívání dávek a dočasné ochrany ukrajinskými
+    migranty, desítky milionů Kč měsíčně unikající ze státního rozpočtu; Dánsko a jeho 14 „bezpečných
+    zón" jako vzor) opakuje beze změny.'
+- id: rajchl-2026-09-09-02
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: 'Vzor Irska: 15% rovná daň, protekcionismus a dluhopisy — rozšíření programu PRO (Rajchl, 5.
+    7. 2026)'
+  text: '**9. 9.** — V televizní debatě Rajchl opakuje beze změny návrh sektorových daní (banky, zbrojaři,
+    digitální daň na velké technologické korporace).'
+  podtema: Ekonomický program PRO
+- id: rajchl-2026-09-09-03
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Debatní spor s „Matějem z Tetína" — zpochybnění kompetence kritika rozpočtu (Rajchl, 9. 9. 2026)
+  text: 'V televizní debatě reaguje Rajchl na kritiku svého rozpočtového hospodaření (SPD dle kritika
+    nechtěla zvyšovat daně) protiútokem na osobu kritika — starostu obce Tetín, kterého oslovuje jako
+    „Matěje". Odmítá, že by šlo o „strunu nenávisti", a argumentuje, že jde o legitimní poukázání na nekompetenci:
+    kritik podle Rajchla „málem zbankrotoval" vlastní obec a rozpočet obce zachránila jen pomoc kraje
+    — proto je dle něj „k smíchu", když ho právě tento člověk poučuje o státním rozpočtu. Debatu odmítá
+    svést na téma dotace pro Tetín, kterou označuje za řádně vyúčtovanou a v souladu s běžným procesem.'
+  citace:
+  - text: Je to prostě k smíchu.
+  podtema: USA — volební systém

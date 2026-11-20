@@ -7,3 +7,29 @@ zdroj:
   url: https://m.facebook.com/watch/?v=906236635643126&_rdr
   prepis: prepisy/done/2026-09-16_Lenka-Tarabová_Videoportál.txt
   rezim: standard
+vyroky:
+- id: tarabova-2026-09-16-01
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: ČTK selektivně oslovuje jen některé lídry libereckých kandidátek (Tarabová, 16. 9. 2026)
+  text: Tarabová kritizuje Českou tiskovou kancelář za to, že v rámci předvolebního zpravodajství oslovila
+    k dotazu na možnou povolební spolupráci jen některé lídry libereckých kandidátek — ji, jako lídryni
+    PRO, vynechala. Dává to do souvislosti s obecnější zkušeností, že mainstreamová média na televizní
+    debaty (o primátorském křesle apod.) zvou opakovaně jen určitý užší okruh kandidátů, zatímco ostatní
+    ignorují — v kontextu incidentu s Lukášem Hájkem (viz [volby-2026.md](volby-2026.md#liberec--volební-tržiště-a-odmítnutí-spolupráce-s-pro-tarabová-16-9-2026))
+    to vnímá jako doklad nerovného zacházení v místní politické kultuře.
+  podtema: Nová alternativní média
+- id: tarabova-2026-09-16-02
+  typ: tvrzeni
+  temata:
+  - volby-2026
+  nadpis: Liberec — „volební tržiště" a odmítnutí spolupráce s PRO (Tarabová, 16. 9. 2026)
+  text: Lídr kandidátky Starostové pro Liberecký kraj Lukáš Hájek přišel s nápadem uspořádat před radnicí
+    společné „volební tržiště" všech lídrů kandidátek. Tarabová nápad zprvu vítala jako ukázku slušné
+    politické kultury a přislíbila účast. Následně ale Česká tisková kancelář oslovila k dotazu na povolební
+    spolupráci některé lídry kandidátek — ji ne — a Hájek se v odpovědi vyjádřil, že vylučuje jakoukoliv
+    spolupráci s „extremistickými stranami jako PRO a SPD", jejichž vedení prý „vyvolává strach a nenávist
+    ve společnosti". Tarabová to označuje za nálepkování od člověka, který se s ní nikdy osobně nesetkal
+    ani nemluvil, a kvůli tomu strana PRO z účasti na volebním tržišti odstoupila.
+  podtema: Komunální volby

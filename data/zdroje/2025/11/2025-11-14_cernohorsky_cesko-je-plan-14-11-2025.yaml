@@ -8,3 +8,40 @@ zdroj:
   prepis: prepisy/done/2025-11-14_Jiří-Černohorský-Živě_5-let-zpu011bt-u010cESKO-ud83eudd2cud83eudd2cud.txt
   rezim: standard
   delka: '22:28'
+vyroky:
+- id: cernohorsky-2025-11-14-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Přejmenování na „Česko" jako součást záměru připojit zemi k Německu
+  text: |-
+    Jiří Černohorský zastává přesvědčení, že označení „Česko" (místo Česká republika) není pouhá zkratka, ale součást dlouhodobého plánu na erodování české národní identity s cílem umožnit budoucí referendum o připojení k Německu. Svůj výklad dokládá souhrnem indicií:
+    - Šlechtické rody (Kinský, Salm, Černín, Walderode) dostávají zpět majetek, ačkoli jsou podezřívány z kolaborace s nacisty.
+    - Benešovy dekrety jsou systematicky zpochybňovány — Schwarzenberg při prezidentské debatě prohlásil, že jsou vlastně zbytečné, a v rozhovoru se vyjádřil, že by nebylo od věci, kdybychom jednou mluvili německy.
+    - Ekonom Luděk Kovanda v České televizi Česko označil za „sedmnáctou spolkovou republiku" Německa.
+    - Bývalý ministr kultury Daniel Herrmann (KDU-ČSL) „jen tak mimochodem" zmínil přiřazení k Německu.
+    - Na mapě Google se místo „Česká republika" zobrazuje „Česko", název „Česko" se zobrazuje při vytáčení hovorů.
+    - Hokejové dresy ztratily státní znak a vlajku, fotbaloví reprezentanti hrají venku ve žlutých dresech.
+    - Německý překlad hymny se zobrazuje na Wikipedii automaticky vedle textu.
+  citace:
+  - text: Česko je plán a to už od roku 93. Vlastně už po rozpadu Československa. Po tom podvodu.
+  - text: Budou počítat s tím, že jednoho krásného dne nějaký kolaborantský parchan vyhlásí referendum
+      o přiřazení České republiky jakožto Česka k Německu.
+  podtema: Germanizace, restituce a „Česko je plán“
+- id: cernohorsky-2025-11-14-02
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Církevní restituce jako brána k navrácení majetků šlechtickým rodům
+  text: V návaznosti na téma šlechtických restitucí Černohorský tvrdí, že církevní restituce jsou záměrně
+    nastaveny tak, aby umožnily navrácení majetků šlechtickým rodům podezřelým z nacistické kolaborace
+    — církevní hodnostáři prý tato majetková ujednání akceptují za finanční kompenzaci.
+  podtema: Germanizace, restituce a „Česko je plán“
+- id: cernohorsky-2025-11-14-03
+  typ: tvrzeni
+  temata:
+  - konspirace-ceskoslovensko
+  nadpis: „Česko je plán" — záměrná eroze národní identity
+  text: Jiří Černohorský tvrdí, že označení „Česko" (místo Česká republika) je součástí dlouhodobého plánu
+    elit na erodování české národní identity, restituce majetků šlechtickým rodům s nacistickou minulostí
+    a budoucí připojení k Německu. Podrobné indicie viz [Suverenita a EU — Plán na germanizaci](benesovy-dekrety.md#přejmenování-na-česko-jako-součást-záměru-připojit-zemi-k-německu).

@@ -9,3 +9,31 @@ zdroj:
   rezim: standard
   poznamka: 3 min, výstřižek z televizní debaty (natočeno zřejmě v den Letné). Témata opakují jeho vysílání
     z 15. 11., nově jen konfrontace s výrokem ze září 2022.
+vyroky:
+- id: rajchl-2026-11-16-01
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: 'Letná 15. 11.: „cirkus Mikuláše Mináře“, nejvýš 150 tisíc „zmanipulovaných ovcí“, odpovědí
+    je FARA (Rajchl, 15. 11. 2026)'
+  text: '**16. 11.** — V televizní debatě Rajchl opakuje, že vláda by na Letnou neměla reagovat „nijak“,
+    protože voliče neztratí za plnění programu, ale za ústup od něj. Moderátor mu připomněl, že v září
+    2022 sám říkal, že na 150 tisíc lidí v ulicích vláda reagovat musí. Rajchl rozdíl vysvětluje mandátem:
+    Fialova vláda podle něj slibovala, že nesáhne na důchody ani daně, a udělala opak, k tomu odstřihla
+    ČR od levných energií, což považoval za „podvod“. Koalice ANO, SPD a PRO má naopak zrušení poplatků
+    v programu. Fialova vláda podle něj naopak poplatky půl roku před volbami zvýšila, ačkoli v programu
+    měla opak, „aby si koupila přízeň“ ČT. Opakuje, že Milion chvilek si jen bere „záminky“ (střet zájmů,
+    Turek, poplatky), profituje z čepiček za 1 190 Kč a u Dozimetru mlčel.'
+  citace:
+  - text: Pokud bychom teď ustoupili tomu, že menšina se nesmířila s tím, že ty volby prohrála, tak bychom
+      zradili naše voliče.
+  podtema: Milion chvilek — struktura a financování
+- id: rajchl-2026-11-16-02
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Stížnost k Radě ČT na Jana Moláčka za „kukaččí mládě“; ČT zrušit, „ani korunu“ (Rajchl, 22.
+    10. 2026)
+  text: '**16. 11.** — V televizní debatě opakuje, že 17 z 27 zemí EU financuje veřejnoprávní média z
+    rozpočtu, Polsko a Slovensko se k tomu chystají a eurokomisař McGrath potvrdil soulad s právem EU.'
+  podtema: Česká televize a mainstreamová média

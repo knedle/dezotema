@@ -10,3 +10,206 @@ zdroj:
   delka: '59:24'
   poznamka: 'Existuje druhý přepis téhož videa (`..._1.txt`) — obsah totožný, obě verze sloučeny. Zhlédnutí:
     ~199 800'
+vyroky:
+- id: rajchl-2026-03-15-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Sudetoněmecký Landsmannschaft — hrozba pro majetkové jistoty
+  text: U příležitosti výročí 15. března (nacistická okupace 1939) Rajchl kritizuje plánované setkání
+    sudetoněmeckého Landsmannschaftu v Brně. Tuto organizaci vnímá jako navazující na Henleinovu stranu
+    a jako subjekt usilující o prolomení Benešových dekretů, což by ohrozilo majetkové jistoty českých
+    občanů v pohraničí. Kritizuje prezidenta Petra Pavla za jednání s Liechtensteinským rodem a poukazuje
+    na slovensko-maďarský spor jako důkaz, že tato otázka zůstává živá.
+  citace:
+  - text: Sudetští Němci prostě se budou snažit vždy tyto základní pilíře našeho uspořádání, majetkového
+      právního uspořádání, kterými jsou Benešovy dekrety, prolomit, zničit, zrušit.
+  podtema: Podstata dekretů, odsun a smíření
+- id: rajchl-2026-03-15-02
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: DSA jako nástroj cenzury
+  text: Jindřich Rajchl označuje DSA (nařízení EU o digitálních službách, platné od 2024) za přímou hrozbu
+    svobody projevu na internetu. Zdůrazňuje, že jde o nařízení, nikoli směrnici — platí přímo bez nutnosti
+    transpozice, a odmítnutí by znamenalo platnost bruselské verze bez jakýchkoli národních úprav. Jeho
+    strategie proto není zákon odmítnout, ale v legislativním procesu ho pozměňovacími návrhy co nejvíce
+    okleštit.
+  citace:
+  - text: Nikdo nemá větší zájem na tom, aby to DSA v té podobě, ve které schválili soudruzi v Bruselu,
+      neplatilo, než já — protože prostě jsem terč číslo jedna z hlediska všech těch nahlašovatelů.
+  podtema: DSA — Digital Services Act
+- id: rajchl-2026-03-15-03
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: Institut „trusted flaggers" — klíčový sporný bod
+  text: Rajchl jako nejzávažnější prvek DSA označuje institut „trusted flaggers" (důvěryhodných oznamovatelů)
+    — subjektů, jejichž označení obsahu jako dezinformace vede k automatickému stažení bez dalšího přezkumu.
+    Požaduje, aby jediným oprávněným flaggerem byla česká policie, a pouze při důvodném podezření ze spáchání
+    trestného činu. Pokud by tento požadavek neprošel, zákon odmítne podpořit.
+  citace:
+  - text: Jak malé to dostane Demagog.cz, Nelež, Semper Krit — tak je konec demokracie v České republice.
+  - text: Pokud by se to nepodařilo, já pro ten zákon ruku nezvednu. Teď a tady vám to říkám.
+  podtema: DSA — Digital Services Act
+- id: rajchl-2026-03-15-04
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: Obsah a záměr návrhu
+  text: Jindřich Rajchl se prohlašuje za autora návrhu českého zákona FARA (inspirovaného americkým Foreign
+    Agents Registration Act z roku 1938). Zákon by přimět neziskovky financované ze zahraničí a prosazující
+    politickou agendu, aby se registrovaly v veřejném registru. Rajchl zdůrazňuje, že návrh vědomě nevychází
+    z ruského zákona, ale z amerického a izraelského vzoru. Zákon cílí výhradně na politické neziskovky
+    — ne na hasiče, sportovní spolky nebo humanitární organizace.
+  citace:
+  - text: Jediné, co chceme, je to, aby ty neziskovky, které mají peníze ze zahraničí, reportovaly tuto
+      skutečnost do speciálního registru. Nic víc, nic míň.
+  dalsi_zdroje:
+  - 2026-10-13_rajchl_videoportal-soucinnost-octr-vysetrovacim-komisim-fara-13-10
+  podtema: Zákon FARA
+- id: rajchl-2026-03-15-05
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: Návrh na zastropování mezd v neziskovkách
+  text: 'Rajchl navrhuje jít nad rámec FARA a zavést zákonný strop na podíl výdajů, které může neziskovka
+    vydat na platy. Jako příklad uvádí konkrétní případ: neziskovka obdržela 39 milionů Kč ze státní dotace,
+    z toho 31 milionů vydala na vlastní platy.'
+  podtema: Zákon FARA
+- id: rajchl-2026-03-15-06
+  typ: tvrzeni
+  temata:
+  - fara-neziskovky
+  nadpis: Proč je odpor proti FARA tak silný
+  text: Rajchl zastává názor, že mimořádně silný odpor politické opozice (zejména STAN a Pirátů) pramení
+    z toho, že politické neziskovky jsou strukturálně propojeny s těmito stranami a tvoří jejich mediální
+    zázemí — financují novináře a ovlivňují veřejný diskurz. Pokud by zákon prošel, narušil by tento ekosystém.
+  citace:
+  - text: Politické neziskovky jsou páteří všech médií, která platí novináře [...] a pokud my s tím něco
+      neuděláme, tak oni budou tady vládnout — ne vy. Vy už ve volbách nebudete rozhodovat vůbec o ničem.
+  podtema: Zákon FARA
+- id: rajchl-2026-03-15-07
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Parlamentní vyšetřovací komise
+  text: |-
+    Jindřich Rajchl oznamuje zřízení parlamentní vyšetřovací komise pro kauzu Dozimetr, kterou označuje za „největší kriminální kauzu od roku 1989" — nikoliv rozsahem financí, ale z hlediska prorůstání organizovaného zločinu do nejvyšších pater politiky. Poukazuje na skutečnost, že opoziční poslanci (zejména STAN) hlasovali proti zařazení tohoto bodu na pořad sněmovny, přestože veřejně volají po principu „padni komu padni".
+
+    Rajchl naznačuje, že komise může mít dosah přesahující veřejné očekávání a zmiňuje citlivá témata: pět podezřelých úmrtí spojených s kauzou a soudce, kteří odmítli případ soudit.
+  citace:
+  - text: Nám tady prostě a jednoduše vznikla strana, která byla od začátku zamýšlena jako mafiánské spolčení
+      lidí, kteří chtěli rozkrádat naše veřejné rozpočty.
+  - text: Věřte mi, že máme na to. [...] Přesto, že vím, že se jedná o velmi citlivé politické téma, že
+      to může ohrožovat dokonce životy a zdraví v této republice, se pouštím do Dozimetru.
+  podtema: Kauza Dozimetr
+- id: rajchl-2026-03-15-08
+  typ: tvrzeni
+  temata:
+  - kauzy
+  nadpis: Čtyřnásobná platba bez nároku
+  text: Rajchl kritizuje případ poslance Zdeňka Hřiba (Piráti), který čtyřikrát po sobě obdržel částku
+    41 000 Kč, na niž neměl zákonný nárok, a peníze vrátil až poté, co byla věc odhalena. Hřibovo vysvětlení
+    — že si myslel, že jde o přeplatek za elektřinu — označuje za nevěrohodné a za výsměch. Tvrdí, že
+    policie věc odložila a mainstreamová média o ní mlčela, přestože u jiných politiků by trestní stíhání
+    bylo zahájeno okamžitě.
+  citace:
+  - text: Pokud tenhle člověk říká, že si myslel, že čtyřikrát za sebou dostane 41 000, že to je přeplatek
+      za elektřinu, tak je to výsměch nám všem do očí.
+  podtema: Kauza Zdeněk Hřib — neoprávněné příjmy
+- id: rajchl-2026-03-15-09
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Mainstreamová média mlčí o kauzách
+  text: |-
+    Jindřich Rajchl opakovaně upozorňuje, že mainstreamová média záměrně ignorují kauzy, které by kompromitovaly politické strany a aktéry blízké jejich světonázoru. Jako příklady uvádí:
+
+    - kauzu poslance Zdeňka Hřiba (Piráti), který čtyřikrát neoprávněně obdržel 41 000 Kč — média prý věc systematicky ignorovala
+    - odložení trestního oznámení v Hřibově kauze policií bez zveřejnění
+  podtema: Česká televize a mainstreamová média
+- id: rajchl-2026-03-15-10
+  typ: tvrzeni
+  temata:
+  - media-propaganda
+  nadpis: Mediální lynč vs. selektivní ticho
+  text: Rajchl kritizuje selektivní aplikaci mediálních kampaní. Mediální útok na aktivistku Natálii Vachatovou
+    označuje za „bolševický lynč", zatímco jeho vlastní příspěvek o novinářce Saše Uhlové prý nebyl výzvou
+    k jejímu odvolání, ale kritikou „servilní mentality" vůči ukrajinskému narativu. Uhlová v DVTV tvrdila,
+    že české děti zabírají místa na středních školách těm ukrajinskými — Rajchl to označuje za šílenou
+    logiku, příznačnou pro část novinářů.
+  dalsi_zdroje:
+  - 2026-11-01_rajchl_tal-jsem-do-ziveho-starkova-a-aspen-1-11-2026
+  podtema: Dvojí metr v médiích
+- id: rajchl-2026-03-15-11
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: Ukrajinskí migranti — napětí a „servilita"
+  text: |-
+    Rajchl označuje za hlavní příčinu napětí mezi českou a ukrajinskou komunitou „servilitu" části českých politiků a neziskovkářů vůči ukrajinskému narativu. Odkazuje na výrok novinářky Saši Uhlové v DVTV, podle níž české děti zabírají místa na středních školách těm ukrajinskými, a označuje tuto logiku za absurdní.
+
+    Tarabová přidává konkrétní bezpečnostní rozměr (26. 4. 2026): od roku 2022 dramaticky narůstá kybernetická kriminalita — telefonní šmejdi se vydávají za bankéře nebo policisty a vylákávají peníze od seniorů. Odborníci na kyberbezpečnost toto narůstání přímo spojují se začátkem ukrajinské migrace. Vedle toho část Ukrajinců pobírá sociální dávky neoprávněně: fyzicky pobývají na Ukrajině a jednou měsíčně přijíždějí dávky vyzvednout. Státní týmy přitom monitorují „nebezpečné komentáře na internetu" místo vyšetřování zmíněné kriminality. Za řešení považuje automatické vyhoštění všech cizinců, kteří na území ČR spáchají trestný čin.
+
+    Rajchl v krátkém videu z 1. května 2026 přidává ekonomický rozměr: chápe, proč nadnárodní korporace vítají ukrajinskce zaměstnance (pracují za nižší mzdy), ale z pohledu českých občanů a jejich pracovních míst a mezd jde o pohromu. Deklaruje, že bude vždy stát na straně českých občanů.
+  citace:
+  - text: Největším problémem je právě ta servilita, s níž řada českých politiků a právě těchto různých
+      neziskovkářů a pravdoláskařů se podlézají a krčí před těmi ukrajinskými migranti.
+  - text: Chápu, že pro nadnárodní korporace jsou ukrajinští zaměstnanci ochotní pracovat za nižší mzdy
+      hotovou výhrou. Ale pro naše občany, jejich pracovní místa a výši jejich mezd jsou pohromou.
+  dalsi_zdroje:
+  - 2026-04-26_tarabova_nedelni-zive-vysilani-suverenita-migrace-bitcoin-kauza-26-4
+  - 2026-05-01_rajchl_ukrajinski-zamestnanci-a-ceske-mzdy-1-5-2026
+- id: rajchl-2026-03-15-12
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Princip reciprocity a odmítání podřízenosti
+  text: Jindřich Rajchl obhajuje tvrdou politickou odvetu jako legitimní nástroj. Schvaluje výstup ministra
+    Juchelky, který čelil kritice za osobní útoky na Piráty. Rajchl argumentuje, že Piráti jako první
+    zavedli taktiku dehonestace ad personam a odmítá být v jednostranném defenzivním postavení.
+  citace:
+  - text: Za jakýkoliv jejich útok přijde prostě tvrdá odveta. Já už se nehodlám prostě před nimi hrbit
+      a krčit.
+  podtema: Politická kultura
+- id: rajchl-2026-03-15-13
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Euro a společná armáda jako ztráta suverenity
+  text: Jindřich Rajchl zastává názor, že obrana a měna jsou základními pilíři státní suverenity, které
+    nelze přenechat nadnárodním strukturám. Odmítá přijetí eura (předání měny „do Frankfurtu") i vznik
+    společné evropské armády fakticky ovládané Bundeswehrem. Historicky argumentuje tím, že Německo se
+    dvakrát pokusilo ovládnout Evropu vojenskou cestou.
+  citace:
+  - text: Obrana a měna jsou základními pilíři naší suverenity. Pokud se jí zdáme a předáme měnu do Frankfurtu
+      [...] a naši obranu do rukou Bundeswehru [...] nás nic dobrého nečeká.
+  - text: Suverenita má svou cenu. [...] Já nikdy tu suverenitu za slib rychlého zbohatnutí neprodám.
+  podtema: Česká suverenita
+- id: rajchl-2026-03-15-14
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: ČR jako „montovna Evropy"
+  text: Rajchl hodnotí ekonomickou integraci ČR do EU po roce 1989 kriticky. Česká republika se podle
+    něj stala „skladovnou a montovnou Evropy" — krátkodobé zbohatnutí (auta, spotřební elektronika) bylo
+    vyměněno za trvalou ztrátu těžkého průmyslu, cukrovarů a potravinářství. To považuje za strategickou
+    chybu s dlouhodobými negativními důsledky.
+  citace:
+  - text: My jsme krátkodobé zbohatnutí vyměnili za dlouhodobé bohatství. A to je obrovská chyba.
+  podtema: Česká suverenita
+- id: rajchl-2026-03-15-15
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: EU jako „bruselský eurofašismus"
+  text: |-
+    Rajchl označuje současnou podobu EU za „bruselský eurofašismus", jehož podstatou je kontrola myšlení a ostrakizace těch, kdo nesdílejí dominantní ideologii. Green Deal považuje za destruktivní pro českou ekonomiku. Jako příklad uvádí propuštění 50 000 zaměstnanců Volkswagenu do roku 2030 v důsledku přechodu na elektromobilitu.
+
+    Myšlenku vystoupení z EU nezavrhuje, ale konstatuje, že strany prosazující referendum o odchodu (SPD, Trikolóra, Svobodní) získaly v posledních volbách dohromady jen 12 % — reálnou cestou je proto snaha nevýhodné předpisy co nejvíce okleštit zevnitř. V bratislavském projevu (4. 4. 2026) jde dál: EU se podle něj rozpadne, a V4 musí být na tento okamžik připravena.
+  citace:
+  - text: Fašismus bohužel nezemřel a ty tendence ovládat myšlení lidí jsou tady stále.
+  dalsi_zdroje:
+  - 2026-04-04_rajchl_projev-z-bratislavy-eu-v4-a-suverenita-4-4-2026
+  podtema: EU a Green Deal

@@ -8,3 +8,22 @@ zdroj:
   prepis: prepisy/done/2026-10-31_Ladislav-Vrabel_Snaha-o-ústavní-puč-v-Polsku-na-1530-h-se-domlouvám-n.txt
   rezim: vrabel
   poznamka: 10 min 29 s, monolog před rozhovorem s Romanem Fritzem.
+vyroky:
+- id: vrabel-2026-10-31-04
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Polsko: „ústavní puč“ Tuskovy vlády jako boj EU o polskou suverenitu (Vrabel, 31. 10. 2026)'
+  text: Vrabel tvrdí, že spor o polský Ústavní soud začal jeho rozsudkem z roku 2021, který odmítl nadřazenost
+    evropských soudů nad polskou ústavou (srovnává s čl. 10 české Ústavy). Tuskova vláda podle něj jmenovala
+    soudce, které prezident Nawrocki nepotvrdil, a ti suspendovali předsedu ÚS. Policie pak vstoupila
+    do areálu soudu, „což nemá právo“. Jde podle něj o „historicky první velmi silný zásah do existence
+    EU“, který může skončit až jejím rozpadem. EU se podle něj „skrze Donalda Tuska pokusila o ústavní
+    puč za pomoci ozbrojené policie“. Ústavní soud je podle něj orgán s „rozhodujícím slovem“, i v otázce
+    voleb. Prezident je vrchní velitel a v ČR už ho máme v podobě „generála NATO a válečného štváče“.
+  citace:
+  - text: Proto Evropská unie použila svoje nejtvrdší metody a skrze Donalda Tuska se pokusili o ústavní
+      puč za pomoci ozbrojené policie.
+  dalsi_zdroje:
+  - 2026-10-31_vrabel_vecerni-zpravy-31-10-2026
+  podtema: Česká suverenita

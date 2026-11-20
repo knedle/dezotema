@@ -9,3 +9,119 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 9 min, zprávy čte Zuzka; Vrabel vysílá z cesty ze Srbska (benzínka), několik výpadků spojení;
     Zuzka čte Babišovu písemnou odpověď na výzvy ze 3. 10.
+vyroky:
+- id: vrabel-2026-11-05-01
+  typ: tvrzeni
+  temata:
+  - ceny-energie
+  nadpis: Poplatek za podzemní vodu 3,5× dráž — „další okrádání lidí“; sucho kvůli ovlivňování počasí,
+    řešením přehrady (Vrabel, 5. 11. 2026)
+  text: 'Návrh koaliční poslankyně zvýšit poplatek za odběr podzemní vody ze 2 na 7 Kč/m³ považuje Vrabel
+    za „další okrádání lidí“; vodu podle něj prodávají zahraniční korporace (Veolia v Praze). Odmítá,
+    že by dražší voda chránila spodní vody: za sucho podle něj mohou umělé ovlivňování počasí, betonové
+    plochy, větrníky a solární elektrárny, řešením jsou vodní díla a rybníky, které se od roku 1989 nestaví.
+    Spor o připomínkové řízení vidí jako odvádění pozornosti, stejně jako „boj za svobodu slova“ kolem
+    poplatků ČT.'
+  citace:
+  - text: Spodní voda, aby bylo dostatek spodní vody, tak je zapotřebí nejdřív, v první řadě, zrušit ovlivňování
+      počasí skrze člověka.
+  podtema: Elektřina — marže a ceny
+- id: vrabel-2026-11-05-02
+  typ: tvrzeni
+  temata:
+  - dsa-cenzura
+  nadpis: Sněmovna schválila zákon k DSA (142 ze 146) — „protektorát řízený z Bruselu“, brzy povinná totožnost
+    na internetu (Vrabel, 5. 11. 2026)
+  text: Ke schválení zákona o digitální ekonomice Vrabel vysvětluje, že nařízení DSA platí bez ohledu
+    na český zákon, a parlament proto podle něj má jen „velmi malou funkci“. Předpovídá, že kdo se připojí
+    k internetu nebo sociálním sítím, bude „velmi brzo“ muset prokazovat totožnost — žádné anonymní účty,
+    vše „sledované, zaznamenané, vyhodnocované“. AI má podle něj z dat vytvářet psychologické profily,
+    predikovat chování a „podsouvat“ obsah; situaci přirovnává ke Stalinovi.
+  citace:
+  - text: A to je to, co vám říkám, že jsme protektorát, který je řízený z Bruselu a ten náš parlament
+      má prakticky velmi malou funkci.
+  podtema: DSA — Digital Services Act
+- id: vrabel-2026-11-05-03
+  typ: tvrzeni
+  temata:
+  - jaderne-zbrane
+  nadpis: 'Babiš odpověděl na výzvy ze 3. 10.: vláda jaderné zbraně „neplánuje“ — „buď obrovská výhra
+    naše, nebo nedorozumění“ (Vrabel, 5. 11. 2026)'
+  text: 'Babiš písemně odpověděl na tři výzvy ze shromáždění z 3. 10.: vláda podle dopisu neplánuje pořízení
+    ani rozmístění jaderných zbraní a podporuje jaderné odzbrojení. Vrabel to staví proti dřívějším výrokům
+    Babiše a Pavla o připojení k Macronově jaderné iniciativě; odpověď čte buď jako úspěch tlaku svého
+    hnutí, nebo jako nedorozumění, a chce po Babišovi schůzku k vyjasnění. Zbylé dvě výzvy podle něj Babiš
+    odmítl: dodávky zbraní na Ukrajinu pokračují a zmocněnce pro jednání o míru vláda nepotřebuje („vytřel
+    si s námi“).'
+  citace:
+  - text: Možná, že ten náš tlak přišel ve správnou chvíli.
+- id: vrabel-2026-11-05-04
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Násilné protesty v Evropě jako řízené odvedení pozornosti před válkou; Babiš má od tajných služeb
+    informace o 17. listopadu (Vrabel, 26. 10. 2026)
+  text: '**5. 11.** — K protestům ve Francii (1,6 mil. lidí) Vrabel opakuje, že násilí ze strany státních
+    aparátů „musí být řízená věc“; jako možné cíle uvádí výjimečný stav nebo stanné právo a odvedení pozornosti
+    od eskalace s Ruskem. Nově tvrdí, že i v ČR „pravděpodobně CIA a MI6“ rozehrávají protesty zaměstnanců
+    ČT a ČRo, které média vydávají za boj za svobodu slova. Celé dění je podle něj „stejně řízené jako
+    covid“.'
+  citace:
+  - text: A v České republice se taky za pomoci pravděpodobně CIA a MI6 a slože, které jsou napojené na
+      tyhle si tajné služby, rozehrávají nějaké zvláštní protesty.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-11-05-05
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Globální vzorec perzekuce kritiků globalistické agendy (Vrabel, 9. 7. 2026)
+  text: '**5. 11.** — K verdiktu britského soudu, který uznal Russella Branda vinným ze znásilnění a tří
+    sexuálních útoků z roku 1999, Vrabel uvádí, že Brand byl jeho hlavním vzorem pro veřejné vystupování
+    — od něj se prý naučil formulovat názory tak, aby ho nebylo možné odsoudit. Obvinění zpochybňuje (sex
+    byl podle něj dobrovolný a stalo se to před 27 lety) a Británii popisuje jako zemi, která „potlačuje“
+    heterosexuální sexualitu. Případ srovnává s Assangem a řadí ho do vzorce likvidace kritiků globalismu
+    („brutální režim“).'
+  citace:
+  - text: Takhle to s náma dělají, takhle to s náma dělají globalisté.
+  podtema: Politická perzekuce
+- id: vrabel-2026-11-05-06
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Suverenisté jsou postupně likvidováni — Orbán „zlikvidován“, Fico „na řadě“, Vučič jako poslední;
+    Babiš má „max. 5 %“ (Vrabel, 15. 10. 2026)
+  text: '**5. 11. (posun)** — K deklaraci o spolupráci, kterou Fico podepsal s ukrajinským premiérem ve
+    Lvově, Vrabel mění tón: Fico podle něj „nikdy nebyl Štefan Harabin“, tedy nikdy nebyl jednoznačně
+    pro suverenitu Slovenska a proti válce. Po ztrátě parlamentní většiny prý „plave“ a snaží se „doplavat
+    ke břehu bez úhony“; Vrabel čeká pokus o vyslovení nedůvěry, pád vlády a krizi.'
+  citace:
+  - text: Co se týče Roberta Fica, tak Robert Fico nikdy nebyl Štefan Harabín, že by byl absolutně řekněme
+      pro suverenitu Slovenska, že by nebyl pro válku na Ukrajině.
+  podtema: Česká suverenita
+- id: vrabel-2026-11-05-07
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Polsko: „ústavní puč“ Tuskovy vlády jako boj EU o polskou suverenitu (Vrabel, 31. 10. 2026)'
+  text: '**5. 11.** — K vojákům a vozidlům Bundeswehru ve Varšavě (podle velvyslanectví kvůli oslavě výročí)
+    Vrabel sarkasticky naznačuje, že přijeli pomoci Tuskovi s „pučem“ u Ústavního soudu a že neoznačení
+    policisté u soudu mohli být právě od nich. Bundeswehr přirovnává k Wehrmachtu se „stejným velením“
+    a „stejnými znaky“.'
+  citace:
+  - text: A mysleli jsme si, že když jsou tam ty vojáci nebo ty policisté, kteří jsou neoznačeni u té
+      budovy ústavního soudu, kteří nemají čísla a neodpovídají na otázky, že jsou to ty policisté z toho
+      Bundeswehru, jak my jsme hloupí.
+  podtema: Česká suverenita
+- id: vrabel-2026-11-05-08
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'TCK na Ukrajině: násilná mobilizace a úmrtí na odvodové komisi (Vrabel, 12. 6. 2026)'
+  text: '**5. 11.** — Zprávu médií, že příběh o „Zelenského mučírně“ u Kyjeva je smyšlený a šíří ho proruské
+    skupiny, Vrabel odmítá: ukrajinské úřady podle něj samy potvrdily náborové centrum Azovu se zadržovanými
+    dezertéry. Majitelka kliniky Valerija Molodova, která odtud se svými lidmi vyvedla zraněné, dostala
+    vazbu; do vězení podle něj půjdou všichni, kdo pomáhali, a čeští politici mlčí. Sám by prý podobné
+    vysvobození organizoval; konflikt podle něj „platíme“ a může se rozšířit do ČR.'
+  citace:
+  - text: Tohle z toho už je opravdu boj těch struktur proti lidem na život a na smrt, dokonce i s mučením.
+  podtema: Stav Ukrajiny a mobilizace

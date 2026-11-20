@@ -8,3 +8,49 @@ zdroj:
   prepis: prepisy/done/2026-05-24_Jiří-Černohorský_Facebook-Live.txt
   rezim: standard
   delka: '32:31'
+vyroky:
+- id: cernohorsky-2026-05-24-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: 'LM plán: krajský předseda SdL — příští generace Benešovy dekrety zruší sama (Černohorský, 24.
+    5. 2026)'
+  text: 'Černohorský cituje (přes video Michala Svatoše) krajského předsedu Sudetoněmeckého Landsmannschaftu:
+    organizace údajně tvrdí, že nepotřebuje aktivně rušit Benešovy dekrety, protože příštím generacím
+    se to „vymydlí z hlavy" a samy dekrety odmítnou. Černohorský to označuje za cílenou, nebezpečnou strategii
+    historické manipulace.'
+  podtema: Podstata dekretů, odsun a smíření
+- id: cernohorsky-2026-05-24-02
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Průvod proti LM sjezdu v Brně — vlajky jako jediný symbol, který vlasteneckou scénu spojuje
+    (Černohorský, 24. 5. 2026)
+  text: 'Černohorský dokumentuje průvod v Brně (24. 5. 2026) s odhadovanými 200–400 českými a česko-slovenskými
+    vlajkami. Opakovaně zdůrazňuje, že jedině národní barvy — ne politické strany — mohou vlasteneckou
+    scénu spojit. Stranické vlajky (výjimka: jedna KSČM) téměř chybí, Černohorský to hodnotí jako zdravý
+    znak.'
+  podtema: Sudetoněmecký sjezd v Brně 2026
+- id: cernohorsky-2026-05-24-03
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: Brněnský magistrát = kolaboranti s LM sjezdem; Vaňková mluvila německy (Černohorský, 24. 5.
+    2026)
+  text: Černohorský označuje zastupitele ODS, KDU-ČSL, Pirátů a STAN za kolaboranty, kteří otevřeli Brno
+    LM sjezdu — přirovnává město k Lvovu/Kyjevu. Primátorku Markétu Vaňkovou obviňuje, že na sjezdu mluvila
+    německy a „odpomněla svoji rodnou řeč", čímž podle něj zopakovala gesto Daniela Hermana (který sudetské
+    Němce označil za „krajany"). Obě osoby označuje za zrádce českého národa.
+  podtema: Sudetoněmecký sjezd v Brně 2026
+- id: cernohorsky-2026-05-24-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: '37 let zákonných zástupců: státní dluh 3× vzrostl, volby nefungují jako nástroj změny (Černohorský,
+    24. 5. 2026)'
+  text: 'Černohorský bilancuje 37 let od sametové revoluce: státní dluh vzrostl z přibližně 450–460 miliard
+    (rok 2004, vstup do EU) na 3 biliony korun. Tvrdí, že parlamentní demokracie nefunguje jako nástroj
+    změny — „zákonní zástupci" rozhodují místo přímého hlasu lidu a systém udržuje politiky závislé na
+    médiích a sponzorech. Jedinkrát prý lid hlasoval přímo — při vstupu do EU, který Černohorský hodnotí
+    jako historickou chybu.'
+  podtema: Ekonomický program PRO

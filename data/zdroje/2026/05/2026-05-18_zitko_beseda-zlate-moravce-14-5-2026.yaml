@@ -13,3 +13,34 @@ zdroj:
     na zdraví → genocida; 7 úředních SV úmrtí vs. ~400 dle VAERS; Kotlár odmítl TO. Slovensko: soběstačnost
     98 %→38 %, dluh +800 %, 2 000 letadel→14. Zítko: zatčen 24. 6. 2024 ve Zlatých Moravciach, 17 000
     hodin videa, hrozba nucené vakcinace ve vazbě.'
+vyroky:
+- id: zitko-2026-05-18-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: Slovenská trestní analýza vakcinace — právník Šlosár (beseda 14. 5. 2026)
+  text: |-
+    Ľubomír Šlosár, slovenský právník, na besedě ve Zlatých Moravciach (14. 5. 2026) analyzoval možnou trestní kvalifikaci vakcinační kampaně na Slovensku:
+
+    - **Právní stupňování**: trestní odpovědnost lze konstruovat od ublížení na zdraví přes obecné ohrožení a zabití až po genocidu — v závislosti na prokázaném úmyslu a rozsahu poškození.
+    - **Rozpor s oficiálními daty**: Slovensko úředně eviduje 7 zemřelých po vakcíně; srovnání s americkým systémem VAERS (přepočteno na velikost populace) naznačuje, že reálný počet by mohl být přibližně 400.
+    - **Kompenzační systém**: na Slovensku neexistuje žádný zákonný kompenzační mechanismus pro poškozené po vakcinaci.
+    - **Kotlárovo odmítnutí**: Šlosár připravil trestní oznámení ve věci vakcinace; vládní zmocněnec Marian Kotlár odmítl se k oznámení připojit nebo ho sám podat. Šlosár ho proto podal na vlastní pěst — a oznámení bylo přehazováno mezi prokurátory bez věcného projednání.
+  podtema: Pokusy o vyšetřování
+- id: pekova-2026-05-18-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: DNA kontaminace a grafen ve vakcínách — Peková a Turánek (beseda 14. 5. 2026)
+  text: |-
+    Soňa Peková na besedě ve Zlatých Moravciach (14. 5. 2026) prezentovala nové nálezy z analýzy šarží vakcín:
+
+    - **Dvouvláknová DNA**: v analyzovaných šaržích byla detekována dvouvláknová DNA, která není součástí deklarovaného složení mRNA vakcíny.
+    - **Grafen**: prof. Jiří Turánek ze Slovenské akademie věd detekoval grafen pomocí Ramanovy spektroskopie a elektronové mikroskopie.
+    - **Manipulace vzorků**: když Slovenská akademie věd provedla vlastní „protianalýzu", použila jiné ampule — nikoliv ty, ze kterých Peková vzorky čerpala.
+
+    Peková z těchto nálezů vyvozuje systémové utajování složení vakcín a absenci nezávislého dohledu.
+
+    ⚡ **Konflikt:** Regulační orgány (EMA, SUKL) přítomnost nedeklarovaných látek ani grafenu v schválených šaržích nepotvrdily; vědecký konsensus tyto nálezy nepřijímá.
+  mluvci: pekova
+  podtema: Šarže vakcín

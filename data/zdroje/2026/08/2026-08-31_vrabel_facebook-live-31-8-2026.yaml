@@ -7,3 +7,83 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1778519469821307
   prepis: prepisy/done/2026-08-31_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+vyroky:
+- id: vrabel-2026-08-31-01
+  typ: tvrzeni
+  temata:
+  - covid-vakciny
+  nadpis: 41 milionů dodaných dávek, 18 milionů zlikvidováno za ~8 mld. Kč — zamlčené nežádoucí účinky
+    jako „úmyslné zabití" (Vrabel, 31. 8. 2026)
+  text: 'Ke zprávě, že ČR od roku 2020 odebrala celkem 41 mil. dávek covidových vakcín, z nichž bylo skutečně
+    využito necelou polovinu, cca 4 mil. dávek bylo darováno do zahraničí a přes 18 mil. dávek skončilo
+    kvůli prošlé expiraci v likvidaci (náklad cca 8 mld. Kč) — spotřeba přitom klesla z přes 15 mil. dávek
+    v roce 2021 na jen 228 tis. v roce 2025 — Vrabel kritizuje Andreje Babiše jako „špatného manažera":
+    pokud se sám prezentoval jako podnikatel, který by měl řídit stát jako firmu, nákup poloviny nevyužitého
+    materiálu by v soukromé firmě považoval za hrubé selhání vysvětlující potřebu následných státních
+    dotací. Doplňuje novou zprávu, že ministerstvo zdravotnictví o nežádoucích účincích vakcín vědělo
+    a odmítlo je zveřejnit — což by podle něj jako soudce kvalifikoval jako úmyslné zabití, protože porušuje
+    mezinárodní právo na informovaný souhlas (odkaz na Norimberský kodex): lidem měla být cesta k očkování
+    prezentována politicky a strachem („kdo se neočkuje, ohrožuje ostatní"), ne lékařsky s řádným poučením
+    o rizicích. Kritizuje Jindřicha Rajchla a Janu Zwyrtek Hamplovou za to, že namísto slibovaného boje
+    proti covidovým křivdám uspořádali jen parlamentní seminář, po němž Babiš pouze konstatoval, že „se
+    staly chyby" — bez jakéhokoli vyšetřování či odškodnění obětí.'
+  podtema: Fauci se odvolal na 5. dodatek — kontrast s beztrestností v ČR (Vrabel, 30. 7. 2026)
+- id: vrabel-2026-08-31-02
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: Druhá světová válka jako „válka proti Slovanům", Rockefellerové financovali Hitlera i Zelenského
+    (Vrabel, 25. 8. 2026)
+  text: '**31. 8.** — Vrabel rozšiřuje paralelu o osobu německého kancléře Friedricha Merze (přezdívaného
+    „Schmerz" — viz [ceny-energie.md](ceny-energie.md#merz-obviňuje-čínu-z-nekalé-konkurence-vrabel-německo-si-za-krizi-může-samo-24-7-2026)):
+    tvrdí, že podobně jako měl být Hitler levobočkem jednoho z Rothschildů, Merz předtím, než se stal
+    kancléřem, působil jako předseda představenstva BlackRock Deutschland — pobočky největší kapitálové
+    firmy na světě, která má od roku 2022 přislíbeno vést poválečnou obnovu Ukrajiny. Z toho vyvozuje,
+    že Merzovým skutečným úkolem je dovést Německo k válce stejně, jako to (dle Vrabelovy teze) udělal
+    Hitler, a že veškerá jeho zbrojní politika (výrok z roku 2023 o možném bombardování Krymského mostu
+    raketami Taurus) neslouží Německu, ale zájmům BlackRocku.'
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-08-31-03
+  typ: tvrzeni
+  temata:
+  - konspirace
+  nadpis: 163 nalezených pohřešovaných dětí na Floridě jako důkaz obchodu s dětmi na úrovni „Deep State"
+    (Vrabel, 31. 8. 2026)
+  text: |-
+    Ke zprávě, že floridské úřady během pětidenní operace „Shield State White" (rozšířené i do dalších šesti amerických států, Portorika a 12 zahraničních zemí) našly a zajistily 163 pohřešovaných dětí, z nichž některé byly podle generálního prokurátora Jamese Uthmeiera obětí zneužívání, zanedbávání či obchodování — Vrabel vítá záchranu samotnou, ale tvrdí, že jde jen o zlomek: odhaduje, že dále existují tisíce až desetitisíce dalších obchodovaných dětí (na orgány nebo pro sexuální účely). Řadí to do rámce teorie o americkém „Deep State", který podle něj netvoří jen „chazarští Židé", ale i satanisté praktikující rituální zneužívání — připomíná Epsteinovy seznamy a ostrov a spekuluje o roli „šéfové týmu Hillary Clintonové" v organizaci „pizzagate". Cituje (opakovaně, s odkazem na dřívější přeložené video) Vladimira Putina, který měl rétoricky popsat západní elity jako ty, kdo se „stovky let živí lidským masem" a jejichž „upíří bál" nyní končí.
+
+    ⚡ **Poznámka:** Tvrzení o rozsahu obchodu s dětmi v řádu tisíců/desetitisíců a propojení s „pizzagate" a satanistickými elitami je nepodložená spekulace nad rámec skutečné (ověřitelné) zprávy o floridské policejní operaci.
+  podtema: Náboženský a okultní výklad moci
+- id: vrabel-2026-08-31-04
+  typ: tvrzeni
+  temata:
+  - politicky-system
+  nadpis: Schodek rozpočtu může přesáhnout 350 mld. — čtvrtý nejvyšší (Vrabel, 11. 6. 2026)
+  text: '**31. 8.** — Vláda schválila návrh rozpočtu na rok 2027 se schodkem 389 mld. Kč (druhý nejvyšší
+    v historii ČR po roce 2021 — 419,7 mld.), příjmy mají růst o 3,3 % na 2,189 bil. Kč, výdaje o 6,2
+    % na cca 2,578 bil. Kč, mezi prioritami je 289 mld. investic a výdaje na obranu 195 mld. (2,04 % HDP).
+    Babiš, Schillerová a Havlíček rozpočet prezentovali jako vynikající a zdůvodňovali schodek dluhem
+    po „předchozí vládě" — Vrabel to komentuje jako výborně zahraný divadlo: současná vláda je podle něj
+    fakticky totožná s tou covidovou (personální kontinuita), jen prošla úspěšnou psychologickou kampaní,
+    která veškerý dřívější odpor přesměrovala výhradně na značku ODS, ačkoli i strany jako Motoristé,
+    Trikolora či SPD mají podle něj kořeny nebo sponzory napojené na ODS (kmotr Hrdlička). Investice do
+    dálnic/železnic/silnic vysvětluje jako přípravu infrastruktury pro válku (přesun těžké vojenské techniky),
+    nikoli obnovu ekonomiky.'
+  podtema: Ekonomický program PRO
+- id: vrabel-2026-08-31-05
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Von der Leyen: bez nových vlastních zdrojů klesne rozpočet EU o 40 % — souvislost s financováním
+    Ukrajiny (Vrabel, 4. 7. 2026)'
+  text: '**31. 8.** — Vrabel identifikuje český „klon" tohoto unijního programu: místopředseda ODS Pavel
+    Drobil navrhuje národní investiční holding „Národ sobě", do kterého by se vložily zbývající státní
+    podíly ve firmách (příklady: národní podnik Budvar, podíl státu v ČEZ) a jenž by následně vstoupil
+    na burzu — s odůvodněním, že Češi mají cca 2 biliony Kč „ladem" ležících na krátkodobých vkladech
+    a penzijních fondech, které kvůli inflaci ztrácejí hodnotu. Vrabel označuje návrh za téměř doslovnou
+    kopii Savings and Investments (tam 10 bilionů eur unijních úspor, tady 2 biliony Kč českých) — cílem
+    je podle něj nasměrovat soukromé úspory občanů do financování zbrojní/válečné ekonomiky a dokončit
+    privatizaci posledního zbylého státního majetku ve prospěch soukromých (často zahraničních) investorů.
+    Ironicky glosuje samotný název „Národ sobě" jako geniální marketing pro to, co ve skutečnosti znamená
+    vyvedení peněz lidí do soukromých kapes.'
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

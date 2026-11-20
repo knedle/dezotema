@@ -9,3 +9,33 @@ zdroj:
   rezim: standard
   poznamka: 3 min. Merz hrozí blokací rozpočtu EU, ČR by platila 60–70 mld. Kč ročně na Ukrajinu. Teze
     o „zkorumpovaném kyjevském režimu“ a mafii se opakuje (jen zdroj).
+vyroky:
+- id: rajchl-2026-11-10-01
+  typ: tvrzeni
+  temata:
+  - migrace
+  nadpis: 'NCOZ studie: organizovaný zločin v ČR ovládli Ukrajinci — Rajchl (5. 5. 2026)'
+  text: '**10. 11.** — Tezi opakuje jako argument proti příspěvkům na Ukrajinu, které podle něj vynucuje
+    Merz (viz [suverenita-eu.md](suverenita-eu.md#merz-vydirani-rajchl-10-11-2026)).'
+- id: rajchl-2026-11-10-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: 'Merzovo „brutální vydírání“: blokace rozpočtu EU, aby ČR platila Ukrajině 60–70 mld. Kč ročně
+    — vláda nesmí ustoupit „ani o milimetr“ (Rajchl, 10. 11. 2026)'
+  text: 'Rajchl tvrdí, že německý kancléř Friedrich Merz „rozjel brutální vydírací taktiku“ vůči ČR, Maďarsku,
+    Slovensku a Bulharsku. Tyto čtyři země se podle něj odmítly podílet na dalším „házení miliard eur
+    do černé díry jménem Ukrajina“. Merz jim prý pohrozil, že zablokuje jednání o rozpočtu EU, a tím zmrazí
+    všechny evropské peníze, které mají do těchto zemí jít. Rajchl připomíná, že dlouho varoval: tvrzení,
+    že se závazky Ukrajiny zaplatí ze zmrazených ruských aktiv, byl podle něj „absolutní nesmysl“ a vše
+    nakonec dopadne na členské státy. Na ČR by připadly necelé 3 miliardy eur, tedy 60–70 miliard korun,
+    a to každý rok. Situace na Ukrajině se podle něj „výhledově v žádném případě“ nezlepší a platit by
+    se muselo mnoho let. ČR se podle něj nezavázala financovat „zkorumpovaný kyjevský režim“, jehož tajné
+    služby prý spolupracují s mafií okrádající české důchodce (viz [migrace.md](migrace.md)). Vláda proto
+    podle něj nesmí ustoupit „ani o píď, ani o milimetr“. Pokud Merz rozpočet zablokuje, „nechť tak učiní“,
+    protože to podle Rajchla přiblíží rozpad „totalitní organizace, která dávno vykolejila ze svého původního
+    záměru“.'
+  citace:
+  - text: A pokud chce pan Merz zablokovat přijetí toho rozpočtu Evropské unie, nechť tak učiní. Protože
+      možná o to blíže budeme rozpadu téhleté totalitní organizace.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

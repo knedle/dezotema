@@ -15,3 +15,41 @@ zdroj:
     demonstraci v Brně — „Komanči"; Sudetoněmecký 8-odstavcová rezoluce = divadlo; EU fašizace; Predikce:
     2027 obrovská nespokojenost, 40% problém s jídlem; 6G = planetární sledovací systém; hnojiva blokována,
     30% deficit.'
+vyroky:
+- id: vrabel-2026-05-06-01
+  typ: tvrzeni
+  temata:
+  - benesovy-dekrety
+  nadpis: SPD a KSČM zakázaly loga ČRNPM a Miroslava Sládka na demonstraci v Brně — Vrabel (6. 5. 2026)
+  text: |-
+    Na protisudetoněmecké demonstraci v Brně organizované SPD a KSČM bylo zakázáno vstoupit s logy hnutí „Česká republika na prvním místě" (ČRNPM) a zakázán vstup Miroslavu Sládkovi. Vrabel to označuje jako doklad totality uvnitř samotné opozice.
+
+    Vrabel spojuje toto chování s příkladem z roku 2024: člen Svobodných mu na Václavském náměstí řekl: „Kdybychom se dali dohromady s tebou, tak oni by nás do televize nevzali, naši sponzoři se to nelíbí." Podle Vrabela jsou všechny takzvané patriotické strany zbabělé a podřízené sponzorům — proto nejsou schopny sjednotit se ani na demonstraci.
+  citace:
+  - text: Komanči. Vždycky takoví byli, jsou takoví a vždycky takoví budou.
+  dalsi_zdroje:
+  - 2026-05-06_vrabel_vecerni-zpravy-hotovost-sudetonemecky-hormuz-6-5-2026
+  podtema: Parlament, politické a stranické reakce
+- id: vrabel-2026-05-06-05
+  typ: tvrzeni
+  temata:
+  - digitalni-kontrola
+  nadpis: 6G síť jako planetární sledovací organismus — Vrabel (6. 5. 2026)
+  text: |-
+    Vrabel ve vysílání 6. 5. 2026 označuje nadcházející 6G technologii za kvalitatívní zlom — nejen v oblasti komunikací, ale především sledování. Na rozdíl od 5G jde podle Vrabela o infrastrukturu pro AI sledování v reálném čase.
+
+    Vrabel navazuje na téma EU direktívy ADDV (kamera v autech sledující řidiče od července 2026), digitální peněženky a eIDAS 2.0 — jako součást vzájemně propojeného systému totálního dohledu.
+  citace:
+  - text: 6G je absolutní revoluce ve všem, nejenom v oblasti zdraví, ale především v oblasti sledování.
+      To je něco, co jsem si ani v mých nejčernějších myšlenkách nikdy nedokázal představit.
+- id: vrabel-2026-05-06-08
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'EU Cyprus summit: 90 mld. EUR pro Ukrainu — 60 % na zbraně — Vrabel (6. 5. 2026)'
+  text: 'Vrabel komentuje summit EU na Kypru, kde bylo schváleno 90 mld. EUR pro Ukrainu, přičemž 60 %
+    má jít přímo na zbraně. Vrabel to označuje za jednoznačný posun: EU se deklarativně i funkčně stala
+    zbrojním spolkem.'
+  citace:
+  - text: EU má za hlavní úkol dodávat zbraně.
+  podtema: NATO, zbrojení a militarizace ČR/Evropy

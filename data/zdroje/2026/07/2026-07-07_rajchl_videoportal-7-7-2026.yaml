@@ -11,3 +11,18 @@ zdroj:
   poznamka: 'Zpracováno 1 téma: Trump nevnímá EU jako relevantního partnera kvůli ekonomické slabosti,
     Green Dealu a migraci (CNN Prima News) — [suverenita-eu.md](suverenita-eu.md). Bez predikcí a stoch.
     teroru.'
+vyroky:
+- id: rajchl-2026-07-07-01
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Trump nevnímá EU jako relevantního partnera — ekonomická slabost, Green Deal a migrace (Rajchl,
+    7. 7. 2026)
+  text: 'Na CNN Prima News Rajchl hodnotí vztah Trumpovy administrativy k EU: Donald Trump vnímá Evropskou
+    unii jako velmi slabého partnera, kritického zejména vůči tomu, co v Bruselu nazývá „dvouocasou příšerou"
+    — Green Dealu a migraci. Cituje J. D. Vance, který prohlásil, že největší nepřítel v tuto chvíli nesedí
+    v Moskvě, ale v Bruselu, protože brusel jedná proti vlastním občanům. Trump podle Rajchla posuzuje
+    partnery primárně podle ekonomické síly — příkladem je jeho cesta do Číny s rozsáhlou podnikatelskou
+    delegací, přestože čínská ekonomika sama „ekonomicky dodýchává". Rajchl uzavírá, že vzhledem ke klesajícímu
+    podílu EU na světovém HDP si unie ekonomicky nemůže dovolit Green Deal ukončit.'
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

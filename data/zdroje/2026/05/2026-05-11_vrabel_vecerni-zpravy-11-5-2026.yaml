@@ -13,3 +13,79 @@ zdroj:
     na 2030, referendum bez EU/NATO/euro; Německo-Ukraina drony 1 500 km + BRAVE1 platforma; Kaya Kalas
     odmítla Schrödera, nabídla sebe jako vyjednavačku; Írán/Trump křehké příměří; Trump 4 pilíře Pentagon
     strategie; Trump manipulace finančních trhů přes Hormuz.'
+vyroky:
+- id: vrabel-2026-05-11-01
+  typ: tvrzeni
+  temata:
+  - blizky-vychod
+  nadpis: Trump manipuluje finančními trhy přes Hormuz — Vrabel (11. 5. 2026)
+  text: |-
+    Vrabel tvrdí, že Trump zneužívá prezidentskou funkci k obchodování na finančních trzích. Popisuje vzorec: Trump oznámí, že Hormuzský průliv je otevřený — 20 minut předtím někdo vsadí kapitál na pokles ceny ropy — pak se ukáže, že průliv otevřený nebyl a sázka se vyplatí. Dle Vrabela toto „nemá v historii období."
+
+    Vrabel vzorec opakuje 1. 6. 2026 v kontextu pozastavení íránsko-amerických jednání: Trump na konci týdne prohlásí, že bude příměří a Hormuz je otevřený, aby srazil cenu ropy a umožnil nákup; v pondělí Írán vydá opatření, cena jde nahoru a spekulanti prodají.
+  citace:
+  - text: Donald Trump oznámí, že Hormuzský průliv je otevřený, a 20 minut předtím někdo vysadí hromady
+      peněz na to, že cena ropy půjde dolů na burzách. Potom ty peníze schrábne a najednou se ukáže, že
+      žádný Hormuzský průliv otevřený nebyl.
+  dalsi_zdroje:
+  - 2026-06-01_vrabel_zpravy-v-devet-1-6-2026
+- id: vrabel-2026-05-11-02
+  typ: tvrzeni
+  temata:
+  - suverenita-eu
+  nadpis: Euro odloženo na 2030, referendum bez EU/NATO/euro — Vrabel (11. 5. 2026)
+  text: Babišova vláda odložila vyhodnocení připravenosti ČR na přijetí eura na rok 2030 a deklaruje,
+    že otázku nepovažuje za aktuální. Vrabel zároveň upozorňuje, že Babiš chystá zákon o referendu, z
+    nějž jsou EU, NATO i euro výslovně vyloučeny — tedy Češi nebudou moci rozhodovat o zásadních otázkách
+    suverenity. Vrabel předpovídá, že euro nakonec bude zavedeno, a odmítavá prohlášení označuje za politický
+    manévr.
+  citace:
+  - text: Jak máte věřit tomu vyjádření Andreje Babiše, že my euro nechceme. Samozřejmě, že euro bude.
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-05-11-03
+  typ: tvrzeni
+  temata:
+  - valka-ukrajina-prubeh
+  nadpis: 'Kalas odmítla Schrödera: bojí se, že by mír dohodl — Vrabel + Rajchl (11.–12. 5. 2026)'
+  text: |-
+    Putin navrhl jako zprostředkovatele EU-ruských mírových jednání bývalého německého kancléře Gerharda Schrödera. Kaya Kalas kandidaturu odmítla — Schröder pracoval v energetických firmách napojených na Rusko a seděl by „na dvou židlích". Nabídla místo toho sebe, s odvoláním na zkušenosti právničky. Putin reagoval, že je ochotný jednat s kýmkoliv, ale chce konstruktivní jednání s někým, kdo v Rusku „nedělal problémy". Vrabel: jak může za EU vyjednávat někdo, kdo veřejně podporuje hluboké údery do ruského území?
+
+    Rajchl nabídl přímočařejší interpretaci: Kalas odmítla Schrödera, protože se obává, že by mír skutečně dohodl — a tím by skončil válečný byznys EU se zbrojními korporacemi.
+
+    > „Ona se totiž bojí, že by Schröder ten mír skutečně dohodl. A co by potom v Bruselu dělali? Kola biznisu by se úplně zastavili. Váleční biznis by byl tentam." — Rajchl
+  dalsi_zdroje:
+  - 2026-05-12_rajchl_brusel-jako-valecny-stvac-12-5-2026
+  podtema: Vyjednávání a mír
+- id: vrabel-2026-05-11-04
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'Landovský vládní zmocněnec NATO: výdaje 3,5 % + 1,5 % do roku 2035 — Vrabel (11. 5. 2026)'
+  text: 'Jakub Landovský byl jmenován vládním zmocněncem pro plnění závazků NATO. Při uvedení do funkce
+    přirovnal současnou situaci k období před druhou světovou válkou, připomněl ruskou anexi Krymu a označil
+    tehdejší reakci mezinárodních institucí za nedostatečnou. Jeho úkolem bude komunikovat navyšování
+    výdajů — spojenci se dohodli na 3,5 % HDP na přímé obranné výdaje a 1,5 % na sekundární výdaje do
+    roku 2035. Vrabel komentuje: Babišův kabinet pokračuje přesně v linii Fialovy vlády, jen s jiným průvodem.'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-05-11-05
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'Německo-Ukraina: drony s dosahem 1500 km, platforma BRAVE1 — Vrabel (11. 5. 2026)'
+  text: 'Německý ministr obrany Boris Pistorius ohlásil při návštěvě Kyjeva společné projekty dronů s
+    dosahem od 100 km až po 1 500 km. Německo se zároveň zapojí do ukrajinské obranné inovační platformy
+    BRAVE1 zaměřené na bezpilotní systémy, elektronický boj a robotiku. Vrabel upozorňuje: drony s dosahem
+    1 500 km nejsou určeny k obraně frontové linie, ale k úderům hluboko do ruského území. Dle Vrabela
+    jde o taktiku „státního terorismu" cílenou na destabilizaci ruské společnosti.'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
+- id: vrabel-2026-05-11-06
+  typ: tvrzeni
+  temata:
+  - nato-zbrojeni-militarizace
+  nadpis: 'Trump: 4 pilíře Pentagon strategie — Vrabel (11. 5. 2026)'
+  text: 'Vrabel popisuje čtyři pilíře americké strategie podle Pentagonu: (1) ovládnout celou záp. hemisféru
+    — USA, Kanada, Grónsko, Venezuela, Kuba; (2) posílit spolupráci s partnery a jejich vojenské kapacity;
+    (3) ovládnout energetické zdroje — venezuelská ropa, smlouvy s EU na americké LNG, konflikt v Hormuzském
+    průlivu zvyšuje cenu americké energie; (4) udržovat konflikty na perifériích, aby se dál nakupovaly
+    americké dluhopisy a nezanikla americká ekonomika s 38 biliony dolarů dluhu.'
+  podtema: NATO, zbrojení a militarizace ČR/Evropy
