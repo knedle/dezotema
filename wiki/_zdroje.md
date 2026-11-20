@@ -6520,3 +6520,11 @@
 - **Datum záznamu:** 2026-11-17, dopoledne (soubor datován 18. 11. podle data stažení)
 - **Zpracováno:** ano
 - **Poznámka:** 2 h 36 min, „17/11 Sametový podvod 11:11“. Vlastní řeč Zítka tvoří asi 40 %. Zbytek je cizí obsah: rozhovor se Zifčákem (Prima 2019), Ivan Mládek, klip Mirai a Farná, dobové záběry a asi 57 minut čteného článku Eduarda Kuly o vykrádání bank. Zpracováno 9 témat, většinou jako doplnění. Predikce: doplněno k EBS 17. 11. a k „V jako vendeta“ (juliánský 18. 11.). Stochastický teror nezjištěn (hraniční: „západní Němci… jsou to všechno svině“, „velezrádci po zásluze potrestáni“ bez konkrétního terče). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.
+
+## Československo TV2 — Živě: „Den po testu EBS v USA“ (18. 11. 2026, 21:21) {#československo-tv2--živě-zítko-den-po-testu-ebs-18-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-19_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1800843811035564&_rdr>
+- **Datum záznamu:** 2026-11-18, 21:21 (soubor datován 19. 11. podle data stažení)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 9 min, „18/11 Den po testu EBS v USA 21:21“. Mluví jen Zítko, asi třetinu času předčítá cizí texty (Q, Cvalín, „Daniel R.“, Juan O. Savin, Pleticha). Úvodní spor o falešné kanály, vánoční přání a reklama na Bevit nezpracovány. Zpracováno 13 témat. Predikce: EBS 17. 11. označena ❌ (Zítko test zpětně vydává za „splnění účelu“), nový záznam o mírové smlouvě a „návratu před rok 1997“. Stochastický teror nezjištěn (hraniční: „na všechny jednoznačně dojde“ bez jmen, Dědek jako „reptilián“, antisemitské obraty „Chazarská strana“ a „globální lichva“). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.

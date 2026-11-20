@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — mírová smlouva z Šen-čenu ukončí válku na Ukrajině; ČR, Polsko a Maďarsko se vrátí „do stavu před rokem 1997“, Československo před rok 1992 (18. 11. 2026)
+
+**Předpověď:** Velká trojka (Trump, Putin, Si) podle Zítka v Šen-čenu uzavírá „mírovou smlouvu pro celý svět“, „konflikt na Ukrajině se chýlí k závěru“ a země bývalé Varšavské smlouvy se „musí vrátit do stavu před rokem 1997“ (před rozšířením NATO), u Československa do stavu před rokem 1992. S odkazem na Pjakina dává „přes 99 %“ znovuspojení Česka a Slovenska.
+
+> „Takže konflikt na Ukrajině se chýlí k závěru a začíná mír na zemi.“ — Pavel Zítko
+
+**Horizont:** neurčeno („teď“, po schůzce v Šen-čenu)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: „Den po testu EBS v USA“ (18. 11. 2026, 21:21)](_zdroje.md#československo-tv2--živě-zítko-den-po-testu-ebs-18-11-2026)
+
+---
+
 ### Pavel Zítko — JFK Jr. se „brzo objeví“ kolem svých 65. narozenin; 27. 11. končí Trumpovo „pětiměsíční přechodné období“ (16. 11. 2026)
 
 **Předpověď:** Mladý John F. Kennedy Jr. se podle Zítka „brzo objeví“. Vhodnou příležitostí jsou jeho 65. narozeniny v listopadu (25. 11.). 27. 11. má skončit „pětiměsíční přechodné období“, které podle něj Trump ohlásil 28. 6., a v listopadu se „budou dít věci“ včetně odhalení „ukradených voleb“.
@@ -217,10 +229,11 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Některý predikujou 17. listopadu, že bychom to dostali jako dárek k výročí puče StB a KGB, nevím, ale každopádně cítím… že je to blízko.“ — Pavel Zítko
 
 **Horizont:** 17. 11. 2026 (EBS, s výhradou); 22. 11. 2026 (QFS)
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno (EBS 17. 11.) — test 17. 11. proběhl jen jako test, bez výpadku komunikace a karantény; QFS 22. 11. čeká
 **16. 11.** — Den před termínem Zítko upřesňuje, že test EBS má proběhnout 17. 11. ve 14:20 východního času (20:20 SEČ) a „mohlo by to být naostro“, s následnou „desetidenní zástavou komunikace“ ve vlnách. Zároveň radí „neupínejte se na datumy“. QFS 22. 11. nezmiňuje.
 **17. 11.** — V den testu Zítko opakuje, že test ve 20:20 SEČ „se může překulit a přetavit v ostrou fázi“, „je tam šestihodinový okno“, a „možná se budou dít velký věci už dneska“. Připojuje i předpověď, že „asi to brzo bouchne s tím agentem Šmídem, dojde k velkému odhalení“.
-**Zdroj:** [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: pondělní vysílání 16. 11. 2026](_zdroje.md#československo-tv2--živě-zítko-pondělí-16-11-2026), [ČsTV2 — Živě: „Sametový podvod“ (17. 11. 2026)](_zdroje.md#československo-tv2--živě-zítko-sametový-podvod-17-11-2026)
+**18. 11.** — Den po testu Zítko tvrdí, že „byl to pouze test“, který „splnil svůj účel“: měl ukázat, které rozhlasové a televizní stanice „spolupracují“. Námitku „nebyl blackout“ odmítá, výpadky karet a internetu teď očekává bez data.
+**Zdroj:** [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: pondělní vysílání 16. 11. 2026](_zdroje.md#československo-tv2--živě-zítko-pondělí-16-11-2026), [ČsTV2 — Živě: „Sametový podvod“ (17. 11. 2026)](_zdroje.md#československo-tv2--živě-zítko-sametový-podvod-17-11-2026), [ČsTV2 — Živě: „Den po testu EBS v USA“ (18. 11. 2026, 21:21)](_zdroje.md#československo-tv2--živě-zítko-den-po-testu-ebs-18-11-2026)
 
 ---
 
@@ -286,7 +299,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Stav:** 🕐 Čeká na vyhodnocení
 **11. 11.** — K Super Bowlu 14. 2. 2027 Zítko opakuje: „věřím, že v té show budou už ti, kteří měli být údajně mrtví.“ Nově tvrdí, že Stephen Miller už „jmenoval osoby“ pro vojenský soud za zradu.
 **13. 11.** — Zítko okno zkracuje na „maximálně 35 dní“ od 13. 11., viz predikce z 13. 11.
-**Zdroj:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026), [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
+**18. 11.** — Na „sestřelení“ volebního podvodu podle Zítka zbývá „ještě měsíc“ (zhruba do 18. 12.), republikáni je „vychytají jako lesní včely“.
+**Zdroj:** [ČsTV2 — Živě: „Analýza voleb v USA: velezrada a vlastizrada“ (5. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-analýza-voleb-v-usa-5-11-2026), [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026), [ČsTV2 — Živě: „Den po testu EBS v USA“ (18. 11. 2026, 21:21)](_zdroje.md#československo-tv2--živě-zítko-den-po-testu-ebs-18-11-2026)
 
 ---
 
