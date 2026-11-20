@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import sys
 from collections import Counter
+from datetime import date
 from pathlib import Path
 
 from .io import nacti_osoby, nacti_temata, nacti_zdroj
@@ -31,7 +32,9 @@ def validuj(root) -> list[str]:
             continue
         if z.id != p.stem:
             err.append(f"{rel(p)}: id zdroje '{z.id}' neodpovídá názvu souboru")
-        if (p.parent.parent.name, p.parent.name) != (f"{z.datum:%Y}", f"{z.datum:%m}"):
+        if not isinstance(z.datum, date):
+            err.append(f"{rel(p)}: datum není platné datum ({z.datum!r}) (zdroj '{z.id}')")
+        elif (p.parent.parent.name, p.parent.name) != (f"{z.datum:%Y}", f"{z.datum:%m}"):
             err.append(f"{rel(p)}: adresář neodpovídá datu {z.datum} (zdroj '{z.id}')")
         zdroje.append(z)
     ids = Counter(v.id for z in zdroje for v in z.vyroky)
@@ -88,7 +91,7 @@ def validuj(root) -> list[str]:
                     err.append(f"{v.id}: neplatný typ vazby '{va.typ}'")
                 if va.na not in vyrok_ids:
                     err.append(f"{v.id}: vazba na neexistující výrok '{va.na}'")
-            for d in v.dalsi_zdroje:
+            for d in v.dalsi_zdroje or []:
                 if d not in zdroj_ids:
                     err.append(f"{v.id}: dalsi_zdroje odkazuje na neexistující zdroj '{d}'")
     for t in temata.values():

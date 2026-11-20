@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import dataclasses
+from datetime import date
 from pathlib import Path
 
 import yaml
@@ -46,6 +47,7 @@ def _vyrok(d: dict) -> Vyrok:
     d["citace"] = _list(Citace, d.get("citace"))
     d["osoby"] = _list(OsobaRef, d.get("osoby"))
     d["vazby"] = _list(Vazba, d.get("vazby"))
+    d["dalsi_zdroje"] = d.get("dalsi_zdroje") or []
     p = d.get("predikce")
     if p is not None:
         p = dict(p)
@@ -61,6 +63,11 @@ def _zdroj(data: dict) -> Zdroj:
     z["osoby"] = _list(OsobaRef, z.get("osoby"))
     z["prehled"] = _list(PrehledPolozka, z.get("prehled"))
     z["vyroky"] = [_vyrok(v) for v in data.get("vyroky") or []]
+    if isinstance(z.get("datum"), str):
+        try:  # citované ISO datum akceptuj; jinak ponech řetězec (validace ohlásí)
+            z["datum"] = date.fromisoformat(z["datum"])
+        except ValueError:
+            pass
     return Zdroj(**z)
 
 

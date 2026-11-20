@@ -104,3 +104,11 @@ def test_cli_exit_codes(tmp_path, capsys):
     root = _kopie(tmp_path, lambda d: d["vyroky"][0].update(temata=["nic"]))
     assert main([str(root)]) == 1
     assert "nic" in capsys.readouterr().out
+
+
+def test_datum_and_null_dalsi_zdroje(tmp_path):
+    e = _chyby(tmp_path, lambda d: d["zdroj"].update(datum="nejaky text"))
+    assert "datum není platné datum" in e and ZDROJ in e
+    # citované ISO datum se akceptuje
+    assert _chyby(tmp_path / "b", lambda d: d["zdroj"].update(datum="2026-11-19")) == ""
+    assert _chyby(tmp_path / "c", lambda d: d["vyroky"][0].update(dalsi_zdroje=None)) == ""
