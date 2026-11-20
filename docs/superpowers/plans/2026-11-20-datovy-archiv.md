@@ -86,7 +86,7 @@ tests/…                               # zrcadlí moduly; fixtures v tests/fixt
 
 - [ ] **Krok 1: Napsat failing testy**
   - `test_roundtrip`: `uloz_zdroj` a pak `nacti_zdroj` vrátí shodný objekt. Víceřádkový `text` se uloží blokovým stylem `|` a česká diakritika zůstane nezměněná (soubor obsahuje `„` doslova, ne `„`).
-  - `test_slug_matches_mkdocs`: `slugify("Ladislav Vrabel — Zprávy v devět 19. 11. 2026") == "ladislav-vrabel--zprávy-v-devět-19-11-2026"` a `slugify("Jaroslav Turánek — Přednáška VTE/FVE (seminář, sdíleno 14. 6. 2026)") == "jaroslav-turánek--přednáška-vte-fve-seminář-sdíleno-14-6-2026"`. Obě hodnoty jsou ověřené v dnešním `_zdroje.md` a ve `vetrniky.md`.
+  - `test_slug_matches_mkdocs`: `slugify("Ladislav Vrabel — Zprávy v devět 19. 11. 2026") == "ladislav-vrabel--zprávy-v-devět-19-11-2026"` a `slugify("Jaroslav Turánek — Přednáška VTE/FVE (seminář, sdíleno 14. 6. 2026)") == "jaroslav-turánek--přednáška-vtefve-seminář-sdíleno-14-6-2026"` (lomítko zmizí bez pomlčky; hodnoty ověřeny přímo `pymdownx.slugs.slugify(case='lower')`). Pozor: tato sekce má v `_zdroje.md` explicitní kotvu `{#…-vte-fve-…}`, která má přednost. To pokrývá `test_parse_explicit_and_slug_anchor` v Tasku 5.
   - `test_ascii_slug`: `ascii_slug("Ladislav Vrabel") == "ladislav-vrabel"`, `ascii_slug("Zprávy v devět") == "zpravy-v-devet"`.
   - `test_validate_ok`: fixture `data_min` vrátí `[]`.
   - `test_validate_errors`: duplicitní id výroku, neznámé téma, neznámý mluvčí, neplatný `typ`, `typ: predikce` bez bloku `predikce`, `prepis` ukazující na neexistující soubor. Každá chyba má jednu hlášku obsahující id výroku nebo zdroje.
