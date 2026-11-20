@@ -12,6 +12,9 @@ theme:
 
 docs_dir: wiki
 
+hooks:
+  - tools/archiv/hook.py
+
 extra_javascript:
   - js/zdroje-filter.js
 

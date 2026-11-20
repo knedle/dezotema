@@ -4,3 +4,12 @@ __pycache__/
 .split/
 .claude/worktrees/
 .superpowers/
+.cache/
+wiki/temata/
+wiki/osoby/
+wiki/zminene/
+wiki/predikce/
+wiki/zdroje/
+wiki/zpravodajstvi-vrabel/
+wiki/stochasticky-teror.md
+wiki/data/vyroky.json
