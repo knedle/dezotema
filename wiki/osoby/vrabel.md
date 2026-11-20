@@ -259,6 +259,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - EU komise reformuje se, úředníci v hlavních městech (13. 7.); Maďarsko — ústavní většina odvolává prezidenta Šujoka — [Zprávy v devět 13. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-7-2026)
 - **13. 11.** — soud EU „vždy proti státu“ (Fit for 55), koruna v ústavě „krmení voličů“ → [suverenita-eu.md](../suverenita-eu.md#soud-eu-fit-for-55-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - **16. 11.** — Polsko: změnu přinese jen Braun, „televizní politické síly“ nic nezmění → [suverenita-eu.md](../suverenita-eu.md#polsko-braun-televizni-sily-vrabel-16-11-2026); konec evropského autoprůmyslu, Evropa „jde vyrábět zbraně“ → [suverenita-eu.md](../suverenita-eu.md#konec-autoprumyslu-cina-vrabel-16-11-2026) — [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+- **17. 11.** — „Brusel je Kyjev 2“, půjčka 45 mld. eur → [suverenita-eu.md](../suverenita-eu.md#brusel-kyjev-2-vrabel-17-11-2026); zásobníky plynu na 70 %, stát „nedělá svoji práci“ → [ceny-energie.md](../ceny-energie.md#strop-90-procent-vrabel-10-11-2026) — [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ### [Větrné elektrárny](../vetrniky.md)
 
@@ -318,6 +319,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **13. 11.** — Letná jako „politický převrat“ CIA, poplatky jen záminka → [konspirace.md](../konspirace.md#studenti-cia-revoluce-vrabel-10-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - **14. 11.** — výpadky v USA jako „první příznaky pádu Západu“, „následuje velká válka“ → [konspirace.md](../konspirace.md#pad-zapadu-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 - **15. 11.** — Letná jako „centrálně řízená“ agitka s technikou ČT a psychology, 1989 jako převrat StB, tajné služby proti němu a manželce → [konspirace.md](../konspirace.md#studenti-cia-revoluce-vrabel-10-11-2026) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+- **17. 11.** — 17. listopad „trapnost na trapnost“, 1989 operace tajných služeb, „zvláštní svobody“; výpadek NSA a bankomatů jako uměle vyvolaná krize pro digitální měnu → [konspirace.md](../konspirace.md#studenti-cia-revoluce-vrabel-10-11-2026) — [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 
@@ -357,6 +359,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - Kauza Bojany Vrabelové: insolvenční správce, soud bez důkazů, Rakušan = bezpečnostní ohrožení státu bez zdůvodnění; organizovaný zločin v institucích — [Nedělní vysílání 24. 5.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-24-5-2026)
 - Vlastní odsouzení za dotační podvod (ČB, 18 měs. podmínka) = politická perzekuce za „zaškrtnutí okýnka" o bezdlužnosti, vinu klade na Babišovu vládu, chce žalovat média; Babiš a rozprodej ČEZ (páteřní síť, baterie/solár bez výběrových řízení, Klausův syn dozoruje) = „rozkradená republika" — [Zprávy v devět 4. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-6-2026)
 - **21. 6.** — manželka Bojana: insolvenční dluh ~3 mil. bez dokazování (správce si část „vymyslel"), ESLP až po vyčerpání ČR; vlastní dotační odsouzení = „náhrada škody, ne dotace", přijal podmínku — [Nedělní vysílání 21. 6.](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-21-6-2026)
+- **17. 11.** — sbírka na odkup Bojaniny pohledávky (2,5 mil.), „organizovaný zločin“ policie, soudu, správce, Rakušana a Koudelky → [kauzy.md](../kauzy.md) — [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 - **11. 7.** — novela stavebního zákona umožňuje demolici bez souhlasu majitele (korupce developerů/ODS); nová přísná pravidla pro pálení dřeva; ČEZ — 191 mil. Kč na odměnách vedení — [Zprávy v devět 11. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-7-2026)
 
 ### [COVID a vakcíny](../covid-vakciny.md)
@@ -429,6 +432,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **14. 11.** — Šen-čen: sféry vlivu, USA Evropě nepomohou; Bergen Group a „nejpodřízenější role“ ČR → [valka-nato-rusko.md](../valka-nato-rusko.md#sfery-vlivu-vrabel-14-11-2026), [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#bergen-group-vrabel-14-11-2026) — [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 - **15. 11.** — Rusko by Evropu dobylo bez jaderných zbraní, vyhraje „s 99,9 %“, válka o nový světový systém → [valka-nato-rusko.md](../valka-nato-rusko.md#rusko-dobude-evropu-vrabel-15-11-2026) — [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 - **16. 11.** — Krymský most jako útok „koalice ochotných skrze Ukrajinu“, odveta i vůči plátcům zbraní → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#krymsky-most-koalice-vrabel-16-11-2026); dohoda USA–Rusko o jaderném neútočení otevře Rusku cestu k Evropě, Tajvan → [valka-nato-rusko.md](../valka-nato-rusko.md#rusko-dobude-evropu-vrabel-15-11-2026) — [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+- **17. 11.** — Francouzská mise Volia: Rusko a Francie „prakticky ve válce“; Trump „90 %“ nesplní, Čína budoucnost → [valka-nato-rusko.md](../valka-nato-rusko.md#eumam-neutoceni-vrabel-11-11-2026) — [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -456,6 +460,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **24. 7.** — doplnění: v Báb al-Mandabu operuje vlastní vojenská mise EU (tři fregaty), politicky řízená Kajou Callas — [Zprávy v devět 24. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-7-2026)
 - **25. 7.** — húsíjský útok na ropná zařízení Saudi Aramco; koalice USA/UK na ochranu Hormuzu; US Senát odmítl omezit Trumpovy pravomoci vůči Íránu — [Zprávy v devět 25. 7.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-25-7-2026)
 - **13. 11.** — válka s Íránem, „dokud neudělají velký Izrael“ → [blizky-vychod.md](../blizky-vychod.md#velky-izrael-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
+- **17. 11.** — druhé, „tvrdší“ kolo války USA s Íránem → [blizky-vychod.md](../blizky-vychod.md#iran-druhe-kolo-vrabel-17-11-2026) — [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ### [Konspirace](../konspirace.md)
 - Reflect Orbital — vesmírná zrcadla jako nástroj řízení počasí, odkaz na požáry na Havaji — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -2412,6 +2417,15 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Donald Tusk | ❌ negativní | Jeho výměna bez Brauna nic nezmění | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
 | Keir Starmer, Andy Burnham | ❌ negativní | Burnham „dělá naprosto to samé“ | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
 | Kaja Kallasová | ❌ negativní | Tvrzení o „čipech z praček“ je „zcestné“ | 2026-11-16 | [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026) |
+| Pávek, Bureš | ❌ negativní | „Agenti“, kteří zapalují svíčky na Národní | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Ludvík Zifčák (Šmíd) | ❌ negativní | „Agent StB“ | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Donald Trump | ❌ negativní | „90 % toho, co řekne, se nestane“; tvrdší druhé kolo války s Íránem | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Robert Fico | ✅ pozitivní | Jediný, kdo chce blokovat půjčku 45 mld. eur | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Vít Rakušan, Michal Koudelka | ❌ negativní | Podle něj součást „organizovaného zločinu“ proti Bojaně | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Libor Vondráček | ❌ negativní | Sněmovna se kauzou Bojany nezabývala, „přestal brát telefony“ | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Bojana Vrabelová | ✅ pozitivní | Nevinná oběť exekuce 2,5 mil. Kč | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Si Ťin-pching / Čína | ✅ pozitivní | Technologická „budoucnost“ | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
+| Aleksandar Vučić | ✅ pozitivní | „Opravdu šikovný politik“ | 2026-11-17 | [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026) |
 
 ---
 
@@ -2626,3 +2640,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Zprávy v devět 14. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
 - [Nedělní vysílání 15. 11. 2026](../_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
 - [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+- [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)

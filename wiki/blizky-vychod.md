@@ -694,3 +694,13 @@ Ke zprávě o cestě šéfa Mosadu Barnei do USA a zvýšené pohotovosti v Izra
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 
 ---
+
+### Druhé kolo války USA s Íránem bude „tvrdší“; Írán zvažuje útoky na Trumpovy lidi (Vrabel, 17. 11. 2026) {#iran-druhe-kolo-vrabel-17-11-2026}
+
+Ke zprávě CNN, že Írán zvažuje útoky na představitele Trumpovy administrativy včetně „špinavé bomby“, Vrabel poznamenává, že USA mají „vypnutou zlatou kopuli“ a jsou arogantní i vůči vlastním obyvatelům. Podle „různých zdrojů z Pentagonu“ by „někde mezi 19. až 20.“ mohl nastat zlom a otevřít se druhé kolo války. Jaderné zbraně nečeká a doufá, že je schůzka Trump–Putin–Si „nechá ještě chvilku spát“. Je si ale „skoro až jistý“, že válka bude pokračovat a ze strany USA bude tvrdší. Írán je podle něj „velmi nazbrojený“.
+
+> „Jsem docela si skoro až jistý, bych řekl, že ta válka bude pokračovat druhým kolem, že to druhé kolo bude trošku tvrdší ze strany Spojených států.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
+
+---

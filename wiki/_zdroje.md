@@ -6536,3 +6536,11 @@
 - **Datum záznamu:** 2026-11-16
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 4 min, den po Letné a den před 17. listopadem. 20 témat v denním přehledu, 4 s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: Rusové si „můžou vzpomenout“ na plátce zbraní, Ukrajincům „musí někdo účet vystavit“). Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.
+
+## Ladislav Vrabel — Zprávy v devět 17. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-17-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-17_Ladislav-Vrabel_17-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1460430362118602>
+- **Datum záznamu:** 2026-11-17
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 17 min, večer 17. listopadu, z auta. Vložené cizí video spolku „Rodina — ČR na prvním místě“ (1:00:42–1:04:08) nezpracováno. 18 témat v denním přehledu, 12 s vlastním úhlem (⚡) v 8 sekcích. Predikce z 9. 11. („17. listopadu se bude dít něco vážného“) vyhodnocena jako ❌. Stochastický teror nezjištěn (hraniční: obvinění Rakušana a Koudelky z „organizovaného zločinu“). Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.

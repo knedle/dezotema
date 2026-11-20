@@ -1186,7 +1186,11 @@ K demonstraci vysokoškoláků na náměstí Republiky za ČT a ČRo (řečník 
 
 > „Tohle to je opravdu řízený centrálně z hora a je to řízený skrze média a skrze tajní služby.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+**17. 11.** — V den výročí Vrabel tvrdí, že 17. listopad nahradil dřívější svátky osvobození a 28. října a slaví se proto, že jsme po roce 1989 „prodali“ Škodovku a další firmy Němcům, Francouzům, Britům a Američanům. V roce 1989 podle něj „nevím, jestli tam je zase tak moc, co slavit“: každý třetí v čele průvodu byl z tajných služeb a student Šmíd byl agent StB. Svíčky si zaslouží jen studenti zabití Němci v roce 1939. Dnešní oslavu na Národní, kde svíčky zapalují „agenti“, nazývá s Krylem „trapnost na trapnost“. Ironicky vyjmenovává „zvláštní svobody“ po 37 letech: schvalovat válečné zločiny USA ve Venezuele a Íránu, „svobodu nacismu“ (Bandera party), blokování webů v rozporu s ústavou, ukrajinské vlajky, zákaz ruských sportovců, soudy „nezávislé na zákonech“ a zatýkání za písmeno Z.
+
+> „Dneska, když se dívám na 17. listopadu, tak mám takový pocit, že lež vyhrála nad pravdou a nenávist vyhrála nad nějakým smířením s ostatníma spoluobčanama nebo nad nějakou láskou.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Facebook Live 10. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-10-11-2026), [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 13. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ---
 
@@ -1210,6 +1214,10 @@ Zastavení letů v USA, výpadek Microsoftu v 75 zemích, mrazy ve Francii a pro
 
 > „Z historického hlediska následuje velká válka.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+**17. 11.** — K výpadku utajené komunikační sítě NSA, o němž informovala CNN, Vrabel přiřazuje další události: výpadek Microsoftu ve 47 zemích, desítky amerických bank bez výdeje hotovosti, propad akcií CSG Michala Strnada o 70 % a odchod ředitele Nvidie. Připomíná, že od roku 2021 varuje, že americké úřady nemají na pojištění vkladů. Nabízí tři vysvětlení: teroristické útoky („nejspíš to budou Rusové“, ironicky), trénink umělé inteligence, nebo „z největší pravděpodobnosti“ uměle vyvolanou krizi jako v letech 2018–2020, která má vytvořit poptávku po digitální měně a dalších omezeních svobody.
+
+> „Podle mýho názoru, z největší pravděpodobnosti, je to něco uměle vytvořené, aby se vytvořila poptávka po nějakých nových procesech, po nových procedurách, po centrální digitální měně.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ---

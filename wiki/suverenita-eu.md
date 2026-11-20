@@ -1042,3 +1042,13 @@ Ze zprávy, že Volkswagen zruší přes 100 tisíc míst (šéf Oliver Blume uv
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 
 ---
+
+### „Brusel je Kyjev 2“: 99 % agendy EU je Ukrajina; nová půjčka 45 mld. eur ručená rozpočtem EU, Evropa vyloučená z jednání (Vrabel, 17. 11. 2026) {#brusel-kyjev-2-vrabel-17-11-2026}
+
+Witkoff a Kushner jedou jednat do Berlína a Rusko podle Vrabela pozve EU k jednání, „až bude čas“. EU přitom chystá 22. balíček sankcí a platí zbraně, například rakety Flamingo, kterými byl poškozen Krymský most. Komise navrhuje novou půjčku Ukrajině 45 mld. eur na rok 2027 ručenou rozpočtem EU. Vrabel čeká schválení kvalifikovanou většinou navzdory Ficovi a ručení je podle něj „úplně stejné jako před rokem v prosinci“: ČR, Slovensko a Maďarsko ručí, až by se EU rozpadla, „i když předpokládám, že se rozpadne“. EU, původně obchodní unie, podle něj řeší už jen Ukrajinu a mlčí k postupu USA vůči Íránu, Venezuele, Kubě a Grónsku.
+
+> „99 % veškerý aktivity Evropské unie spočívá v tom, že řeší Ukrajinu. To prostě, to je Kyjev 2. Brusel je Kyjev 2 dneska.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
+
+---

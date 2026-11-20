@@ -1654,7 +1654,11 @@ K rozhodnutí Rady EU prodloužit výcvikovou misi EUMAM do listopadu 2028 (pře
 
 > „Česká republika nemá důvod se k tomu nepřipojit, protože tohle by zajistilo bezpečnost České republiky.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026)
+**17. 11.** — Ke zprávě, že francouzští vojáci už několik měsíců působí na Ukrajině v tajné misi „Volia“ (výcvik a údržba techniky) bez vědomí parlamentu a že Moskva to označila za přímé zapojení do války, Vrabel říká, že Rusko a Francie jsou „prakticky ve válce“. Zpráva byla v médiích až sedmá nebo osmá v pořadí a nikdo se neptá na článek 5: „rychle dál, než nad tím lidi začnou přemýšlet“. Když Západ posílá zbraně, vojáky i zpravodajské informace, je podle něj ruská odpověď očekávatelná.
+
+> „Nevím, jestli jste si toho všimli, jestli jste to slyšeli, zavnímali, že Rusko s Francií jsou prakticky ve válce.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 11. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-11-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ---
 
@@ -1684,7 +1688,11 @@ Na schůzce Trumpa, Putina a Si Ťin-pchinga v Šen-čenu (APEC) se podle Vrabel
 
 > „Evropa se může těšit na to, že Američani v případě, že by došlo k nějakému konfliktu, prostě na pomoc Evropě nepůjdou.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026)
+**17. 11.** — Američané podle Vrabela už pochopili, že válka „je prohraná“, a snaží se vytěžit, co se dá. Evropa je pro ně kolonie (s odkazem na Kissingera). Trumpova „skóre“ je podle něj takové, že „90 % z toho, co řekne, že se stane, se nestane“. Při příjezdu Putina do Šen-čenu chválí Čínu (Pás a stezka, kanály, železnice): proti ní jsou USA a Evropa „zapadákov sto let za opicema“.
+
+> „Zatím mám takový pocit, že skóre jeho je 90 % z toho, co řekne, že se stane, se nestane.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 14. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-14-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ---
 

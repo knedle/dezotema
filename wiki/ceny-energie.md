@@ -700,7 +700,11 @@ K vládou schválené novele energetického zákona (při prudkém zdražení m�
 
 > „Jediný správný a jednoduchý řešení je vystoupit z Evropské unie, uzavřít hranice, udělat vlastní samostatnou energetiku.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026)
+**17. 11.** — Ke zprávě, že Evropa vstupuje do zimy se zásobníky plynu naplněnými na 70 % (o 14 bodů méně než loni) a vláda zvažuje zastropování cen, Vrabel číslu nevěří („ještě nedávno 55“) a upozorňuje, že zásobník nelze vyčerpat do dna. Důchodci podle něj umírají podchlazením v Rakousku „i v Čechách, akorát o tom nikdo nemluví“. Je podle něj „kriminální“ přivést republiku do stavu, kdy lidé doma mrznou, a zároveň se zadlužovat na zbraně a Ukrajinu. Vlády Fialy i Babiše mají nejdřív postarat o lidi: pokud víc než 3 % lidí nemůže zatopit, stát to musí řešit.
+
+> „A jestli to neřeší, tak nedělá svoji práci.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 10. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-10-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ---
 

@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Ladislav Vrabel — druhé, „tvrdší“ kolo války USA s Íránem; půjčka 45 mld. eur projde kvalifikovanou většinou; první zkrachuje Francie (17. 11. 2026)
+
+**Předpověď:** Válka USA s Íránem bude podle Vrabela pokračovat druhým, tvrdším kolem, zlom má nastat „někde mezi 19. až 20.“ (bez jaderných zbraní). Nová půjčka Ukrajině 45 mld. eur na rok 2027 bude schválena kvalifikovanou většinou navzdory Ficovi. „První stát, který zkrachuje v Evropě, bude Francie.“
+
+> „Jsem docela si skoro až jistý, bych řekl, že ta válka bude pokračovat druhým kolem.“ — Ladislav Vrabel
+
+**Horizont:** zlom v Íránu kolem 19.–20. 11. 2026 (nejasné); půjčka: jednání od 18. 11. 2026; Francie: neurčeno
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
+
+---
+
 ### Ladislav Vrabel — USA a Rusko se v Šen-čenu dohodnou na jaderném neútočení, Rusko pak „vyřídí účty s Evropou“; ruská odveta za Krymský most i vůči plátcům zbraní (16. 11. 2026)
 
 **Předpověď:** Na schůzce Trump–Si–Putin se USA a Rusko podle Vrabela dohodnou na vzájemném nepoužití jaderných zbraní, čímž se Rusku otevře cesta k „vyřízení účtů s Evropou“ konvenčními zbraněmi. Jaderná válka nebude. Čína si vezme Tajvan. Za útok na Krymský most přijde ruská odveta („jenom otázka času“), která může zasáhnout i ty, kdo zbraně pro Ukrajinu kupují a platí. Hlasování o nedůvěře Tuskovi podle něj neprojde, nebo nic nezmění.
@@ -181,9 +193,10 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „17. listopadu se něco bude dít a bude se dít něco vážného, bude se dít něco velkého.“ — Ladislav Vrabel
 
 **Horizont:** 15.–17. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
+**Stav:** ❌ Vyvráceno — podle Vrabelova vlastního vysílání ze 17. 11. byl den „takovej obyčejnej“: pietní akce a oslavy na Národní bez střetů
 **15. 11.** — Vrabel očekávání zmírňuje: „neočekávám tolik násilí“, „možná, že ty sedmnáctého se možná něco trošičku rozehraje“.
-**Zdroj:** [Ladislav Vrabel — Facebook Live 9. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+**17. 11.** — Ve večerních zprávách Vrabel ke své předpovědi nevrací. Moderátorka den shrnuje jako „takovej obyčejnej den“ s tisíci lidí na Národní a Vrabel kritizuje jen „trapnost“ oslav.
+**Zdroj:** [Ladislav Vrabel — Facebook Live 9. 11. 2026](_zdroje.md#ladislav-vrabel--facebook-live-9-11-2026), [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 
 ---
 ### Ladislav Vrabel — USA, Rusko a Čína si rozdělí sféry vlivu a dohodnou se, že spolu nepůjdou do velké války; Trump „dlouhý a trvalý mír“ na Ukrajině nezajistí (9. 11. 2026)
