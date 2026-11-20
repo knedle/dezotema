@@ -63,6 +63,7 @@ def _zdroj(data: dict) -> Zdroj:
     z["osoby"] = _list(OsobaRef, z.get("osoby"))
     z["prehled"] = _list(PrehledPolozka, z.get("prehled"))
     z["vyroky"] = [_vyrok(v) for v in data.get("vyroky") or []]
+    z.setdefault("url", "")  # zdroj bez URL (prázdný řetězec se při ukládání vynechává)
     if isinstance(z.get("datum"), str):
         try:  # citované ISO datum akceptuj; jinak ponech řetězec (validace ohlásí)
             z["datum"] = date.fromisoformat(z["datum"])
@@ -88,6 +89,23 @@ def uloz_zdroj(z: Zdroj, root) -> Path:
     with open(path, "w", encoding="utf-8", newline="\n") as f:
         yaml.dump(out, f, Dumper=_Dumper, allow_unicode=True, sort_keys=False, width=100)
     return path
+
+
+def _uloz_seznam(path, klic, items) -> Path:
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with open(path, "w", encoding="utf-8", newline="\n") as f:
+        yaml.dump({klic: [_clean(i) for i in items]}, f, Dumper=_Dumper,
+                  allow_unicode=True, sort_keys=False, width=100)
+    return path
+
+
+def uloz_temata(temata, path) -> Path:
+    return _uloz_seznam(path, "temata", temata)
+
+
+def uloz_osoby(osoby, path) -> Path:
+    return _uloz_seznam(path, "osoby", osoby)
 
 
 def nacti_temata(path) -> dict[str, Tema]:

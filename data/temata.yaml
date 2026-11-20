@@ -1,0 +1,73 @@
+temata:
+- slug: benesovy-dekrety
+  nazev: Benešovy dekrety a sudetský sjezd
+  popis: Benešovy dekrety, sudetoněmecký Landsmannschaft a sjezd v Brně, Posselt, válečné reparace
+- slug: blizky-vychod
+  nazev: Blízký východ
+  popis: Izrael a Palestina, Gaza, Írán, Hormuzský průliv
+- slug: ceny-energie
+  nazev: Ceny energií
+  popis: Pohonné hmoty, ruský plyn a ropa, zdražování, mechanismy cen
+- slug: covid-vakciny
+  nazev: COVID a vakcíny
+  popis: Tvrzení o pandemii, vakcínách, PCR testech
+- slug: digitalni-kontrola
+  nazev: Digitální kontrola
+  popis: CBDC a digitální euro, 6G, digitální ID, sledování (Pegasus, odposlech)
+- slug: dsa-cenzura
+  nazev: DSA a cenzura
+  popis: Nařízení EU o digitálních službách, svoboda projevu, blokování na sítích
+- slug: fara-neziskovky
+  nazev: FARA a neziskovky
+  popis: Zákon o transparentnosti zahraničního financování neziskovek
+- slug: jaderne-zbrane
+  nazev: Jaderné zbraně a jaderná hrozba
+  popis: Rozmisťování jaderných zbraní, nuclear sharing, odstrašení vs. použití, odzbrojení
+- slug: kauzy
+  nazev: Kauzy a korupce
+  popis: Dozimetr, Bitcoin kauza, Hřib, Kettner, F-35
+- slug: konspirace
+  nazev: Konspirační teorie
+  popis: Konspirační teorie, elity, okultismus, QAnon
+- slug: konspirace-ceskoslovensko
+  nazev: 'Konspirace: Československo'
+  popis: Pokračující existence Československa, admiralty law, reparace, „Česko je plán"
+  nadrazene: konspirace
+- slug: konspirace-deep-state-qanon
+  nazev: 'Konspirace: Deep State a QAnon'
+  popis: QAnon, EBS, MedBeds, biolaboratoře, falešní mesiášové, svržení Deep State
+  nadrazene: konspirace
+- slug: media-propaganda
+  nazev: Média a propaganda
+  popis: Kritika mainstreamových médií, algoritmy, dezinformace
+- slug: migrace
+  nazev: Migrace a islamizace
+  popis: Migrační pakt, islamizace Západu, ukrajinská migrace
+- slug: petr-pavel
+  nazev: Petr Pavel
+  popis: Prezident Petr Pavel — chování v úřadu, kauza NATO summitu v Ankaře, vztah k Sudetoněmeckému
+    Landsmannschaftu
+- slug: politicky-system
+  nazev: Politický systém
+  popis: Demokracie, volby, politická kultura
+- slug: rodina-deti
+  nazev: Rodina a děti
+  popis: Rodičovská práva, gender a LGBT, demografická krize
+- slug: suverenita-eu
+  nazev: Suverenita a EU
+  popis: Euro, EU, Green Deal, Evropský parlament a V4
+- slug: valka-ukrajina-prubeh
+  nazev: Válka na Ukrajině — průběh a vyjednávání
+  popis: Příčiny války, průběh bojů, stav Ukrajiny a mobilizace, mírová jednání
+- slug: nato-zbrojeni-militarizace
+  nazev: NATO, zbrojení a militarizace
+  popis: Zbrojení a vojenské výdaje, korupce ve zbrojních zakázkách, podřízenost ČR vůči NATO
+- slug: valka-nato-rusko
+  nazev: Válka, NATO a Rusko (eskalace)
+  popis: Eskalace vztahu NATO–Rusko, riziko rozšíření konfliktu, zahraniční geopolitičtí aktéři
+- slug: vetrniky
+  nazev: Větrné elektrárny
+  popis: Akcelerační zóny, technická a environmentální kritika
+- slug: volby-2026
+  nazev: Volby 2026 — komunální a senátní
+  popis: Podpora a kritika stran a kandidátů napříč zdroji

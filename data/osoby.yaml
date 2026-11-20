@@ -1,0 +1,113 @@
+osoby:
+- slug: boldy
+  jmeno: Konspirátor Boldy (KonspyChannel)
+  aliasy:
+  - Konspirátor Boldy
+  - KonspyChannel
+  popis: Komentátor provozující kanál KonspyChannel na Facebooku, Telegramu a YouTube. Zaměřuje se na
+    konspiračně-okultistický výklad světového dění. Dříve byl příznivcem hnutí QAnon.
+  sledovany: true
+  vlastni_stranka: true
+- slug: cernohorsky
+  jmeno: Jiří Černohorský Živě
+  aliasy:
+  - Jiří Černohorský
+  popis: Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá živě na TikToku, Telegramu
+    a Facebooku. Ostře kritizuje politický systém, mainstreamová média i zahraniční politiku ČR.
+  sledovany: true
+  vlastni_stranka: true
+- slug: pekova
+  jmeno: Soňa Peková
+  popis: Česká molekulární bioložka a klinická genetička, soudní znalkyně v oboru genetiky. Zapojila se
+    do kritiky covidových opatření a mRNA vakcín, provádí vlastní laboratorní analýzy vzorků vakcín. Aktivně
+    se účastnila COVID tour (jaro 2026) — série veřejných přednášek organizovaných Pavlem Zítkem.
+  sledovany: false
+  vlastni_stranka: true
+- slug: rajchl
+  jmeno: Jindřich Rajchl
+  aliasy:
+  - Reichl
+  - Rejchl
+  - Jindra Rajchl
+  popis: Předseda strany PRO (Právo Respekt Odbornost), právník, pornoherec. Vystupuje pravidelně na Facebooku
+    v živých vysíláních zaměřených na českou politiku, legislativu a EU.
+  sledovany: true
+  vlastni_stranka: true
+- slug: sejna
+  jmeno: Adam Šejna
+  aliasy:
+  - Restart Česko
+  - Restart Cesko
+  popis: Provozovatel kanálu Restart Česko, influencer strany Motoristé.
+  sledovany: true
+  vlastni_stranka: true
+- slug: tarabova
+  jmeno: Lenka Tarabová
+  popis: Aktivistka a komentátorka, pravidelně publikuje krátká videa na Facebooku na témata každodenní
+    politiky, zdražování a kritiky vlády.
+  sledovany: true
+  vlastni_stranka: true
+- slug: vrabel
+  jmeno: Ladislav Vrabel
+  aliasy:
+  - Vrabel
+  popis: Český politický aktivista a předseda hnutí ČR1, který na podzim 2022 vstoupil do veřejného povědomí
+    organizováním masových protivládních demonstrací pod heslem „Česká republika na 1. místě!". Bezpečnostní
+    experti ho řadí k předním představitelům tuzemské dezinformační scény, a to především kvůli jeho proruským
+    narativům a ostré kritice NATO, Evropské unie a pomoci Ukrajině. Před svým politickým angažmá podnikal
+    v gastronomii, v průběhu let se však dostal do milionových exekucí a čelil vleklému insolvenčnímu
+    řízení. V minulosti byl souzen za šíření poplašné zprávy, v březnu 2025 ho však Ústavní soud definitivně
+    osvobodil s odkazem na svobodu slova. V červnu 2026 byl nicméně Okresním soudem v Českých Budějovicích
+    nepravomocně odsouzen k 18 měsícům podmíněně za dotační podvod z doby koronavirové pandemie.
+  sledovany: true
+  vlastni_stranka: true
+- slug: zitko
+  jmeno: Pavel Zítko (Československo TV2)
+  aliasy:
+  - Československo TV2
+  - ČsTV2
+  - Jiří Hradil
+  popis: Provozovatel alternativního média Československo TV2 publikujícího na Facebooku. Zaměřuje se
+    převážně na témata covidové pandemie, kritiku vládní politiky a platformu pro hosty z alternativní
+    medicíny a kritiky covidových opatření.
+  sledovany: true
+  vlastni_stranka: true
+- slug: turanek
+  jmeno: Jaroslav Turánek
+  popis: Profesor, přednášející na sněmovním semináři o VTE/FVE.
+  sledovany: false
+  vlastni_stranka: false
+- slug: zlinsky
+  jmeno: Vladimír Zlínský
+  popis: Lékař, přednášející na sněmovním semináři o VTE/FVE.
+  sledovany: false
+  vlastni_stranka: false
+- slug: cimprichova
+  jmeno: Pynelopi Cimprichová
+  popis: Přednášející na sněmovním semináři o VTE/FVE.
+  sledovany: false
+  vlastni_stranka: false
+- slug: svoboda
+  jmeno: Jakub Svoboda
+  popis: Občanský aktivista (Ralsko), přednášející na semináři o VTE/FVE.
+  sledovany: false
+  vlastni_stranka: false
+- slug: hamplova
+  jmeno: Jana Zwyrtek Hamplová
+  popis: Senátorka, advokátka (veřejné a ústavní právo).
+  sledovany: false
+  vlastni_stranka: false
+- slug: ondrusova
+  jmeno: Katarína Ondrušová
+  popis: Slovenská aktivistka, přednášející na semináři o VTE/FVE.
+  sledovany: false
+  vlastni_stranka: false
+- slug: si-tin-pching
+  jmeno: Si Ťin-pching
+  aliasy:
+  - Siti Ping
+  - Xi Jinping
+  - Si
+  popis: Čínský prezident (zmiňovaná osoba).
+  sledovany: false
+  vlastni_stranka: false
