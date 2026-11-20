@@ -1118,7 +1118,9 @@ Jiří Černohorský konstatuje, že za 33 let od vzniku ČR vzrostl státní dl
 
 Černohorský odmítá narativ, že Babišova vláda chce omezovat svobodu ČT. Podle něj vláda žádá pouze transparentnost — kam jdou poplatky (osmimiliardový roční příjem), zda jsou placeni příbuzní redaktorů, jaká je role zahraničních neziskovek. Obsah ani redakční rozhodnutí regulovat nechce. Kritizuje demonstranty za ČT jako „ovcoidní kundy": protestují za zachování poplatků bez jakékoli kontroly.
 
-**Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026)
+**16. 11.** — Opakuje, že ČT dostává 8,5 miliardy ročně „bez jakékoliv kontroly hospodaření“. Voliče Fialovy koalice, kteří v transparentnosti vidí konec demokracie, nazývá „dementy“: „dneska věřit v Českou televizi, to může fakt jenom imbecil.“
+
+**Zdroje:** [Černohorský — FB Live „dopoledníček" 7. 5. 2026](_zdroje.md#jiří-černohorský--fb-live-dopoledníček-7-5-2026), [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 
@@ -1128,7 +1130,11 @@ Jiří Černohorský konstatuje, že za 33 let od vzniku ČR vzrostl státní dl
 
 Dnes Černohorský tvrdí, že žádná soudržná „vlastenecká scéna" neexistuje — každá iniciativa jede samostatně, chybí propojení. Viník je primárně politizace: ne absence patriotismu u lidí, ale nemožnost spolupráce přes stranické hranice.
 
-**Zdroje:** [Černohorský — FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026)
+**16. 11.** — V reakci na příspěvek Václava Šinágla o rozhádané scéně Černohorský tezi přiostřuje: „Žádná vlastenecká scéna neexistuje.“ „Vlastenci“, kteří slepě tleskají vůdcům, jsou podle něj „ty samý ovce“ jako příznivci Fialovy koalice. Politika je pořád stejná, jen „režisér a scénárista dal těm druhým politikům jinej scénář“, aby mluvili „pronárodně“. Část scény podle něj „prodala čest“ za QR kódy, netransparentní účty a místa ve straně PRO. Jedinou výhodou „své“ scény je, že nekonzumuje mainstream. Okamuru, Vítězslava Nováka, Kobzu, Volného, Rajchla a Wolfovou vyjmenovává jako ty, kdo „podráželi“ a „lhali do ksichtu“.
+
+> „Tady na téhle z té vlastenecké scény jsou ty samý ovce.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — FB Live 2 (22. 5. 2026)](_zdroje.md#jiří-černohorský--fb-live-2-22-5-2026), [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 
@@ -1566,7 +1572,11 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 
 **31. 8.** — Černohorský zdůrazňuje princip kolektivního rozhodování ve společenství (dnes 370+ členů, funguje od roku 2022): tvrdí, že s výjimkou jednoho jediného případu nikdy sám nerozhodl o žádném návrhu — o všem hlasují členové. Uvádí konkrétní příklady adresné pomoci financované společenstvím: v únoru 2026 pomohli muži s rakovinou krku/hrtanu na žádost jiného člena; nabízí, že by obdobně profinancoval elektrický (místo ručního) invalidní vozík konkrétnímu muži a pronajal na desítky let stánek nezaměstnané kamarádce s psychickými problémy, aby mohla prodávat vlastní ruční práce. Tvrdí, že když se sejde dostatečný počet lidí (odhaduje potřebu cca 400 000, tedy „autobus" organizovaných lidí), dokážou vyvinout na politiky reálný tlak, který samotné demonstrace nebo petice nedokážou.
 
-**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026)
+**16. 11.** — Společenství popisuje jako „naprosto čistou, přímou demokracii“: návrh může podat kdokoli a on sám má jen jeden hlas. Jediné „diktátorské“ veto (proti odměně pro jednu členku) chce převést do pravidel, podle nichž návrh nesmí jít proti čestnosti, poctivosti, morálce a pravdě. Jako doklad uvádí sbírky (tornádo na Moravě, povodně 2024, nemocný kamarád, léčba rakoviny). Změnu systému „bez revoluce a anarchie“ popisuje jako „deset stupňů ke zlatej“, jejichž podmínkou je, že lidé přestanou být „ovcemi“. Platy poslanců přes 250 tisíc měsíčně označuje vůči lidem s 15–25 tisíci čistého za „naprostou sprostotu“ a zmrazení platů za alibismus. Kdyby jeho hnutí bylo ve Sněmovně, dávali by poslanci 50 % platu na transparentní účet. Okamura by podle něj měl dát 150 tisíc ze svého. Za své selhání považuje, že má jen asi 350 členů místo 3–5 tisíc.
+
+> „Ve společenství máte naprosto čistou, přímou demokracii.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 28. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-28-8-2026), [Černohorský — Facebook Live 31. 8. 2026](_zdroje.md#jiří-černohorský--facebook-live-31-8-2026), [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 
@@ -1584,7 +1594,9 @@ Rekapituluje vlastní dosavadní aktivity jako doklad akceschopnosti: účast na
 
 > „Protože my jsme takový ovcoidní kundy, že jim pořád budeme tleskat." — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026)
+**16. 11.** — Žijeme podle něj v „korporátní, nacistické mafii“, kde „ruka ruku myje“ a politici se drží v šachu „kostlivci ve skříni“. Voliči pořád volí „menší zlo“ a doufají, že se promění v dobro. Čestnost, morálku, pravdu a odvahu „v Poslanecké sněmovně vůbec nehledejte“. Za doklad osobní odvahy, kterou „nikdo nikdy neprokázal“, považuje, že v roce 2015 veřejně přiznal vlastní minulost.
+
+**Zdroje:** [Černohorský — Facebook Live 22. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-22-9-2026), [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 
@@ -1874,6 +1886,18 @@ K vládou schválenému návrhu ústavního zákona o celostátním referendu (3
 > „Máte, je tady nějaká jiná možnost, byla nějaká jiná možnost než ten Andrej Babiš? Nebyla.“ — Jiří Černohorský
 
 **Zdroje:** [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026), [Černohorský — Facebook Live 9. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+
+---
+
+### SPD „podráží nohy“ Babišovi, kritika z koalice je „na hovno“; Babiš jako jediný politik, který mluví s kritiky, ale covid byl „svinstvo“ (Černohorský, 16. 11. 2026) {#spd-podrazi-nohy-babisovi-cernohorsky-16-11-2026}
+
+Černohorského překvapilo, že Radek Vondráček (ANO), podle něj jinak „až moc korektní“, na Primě řekl, že SPD hází vládní koalici „klacky pod nohy“. Vykládá to tak, že Vondráček byl „opravdu už naštvaný“. To, co SPD a Okamura předvádějí na tiskovkách, podle něj „nepatří“ do koaličního partnerství: chovají se, „jak kdyby Okamura byl předseda vlády“, a „podráží nohy Andreji Babišovi“. Rajchl podle něj zní jako „remix skupiny Olympic: Já, já, já, jenom já“. Připomíná, že SPD s Trikolorou a Svobodnými získala jen 7,76 %, zatímco ANO dva miliony hlasů, takže Babiš nemůže kvůli partnerovi opustit svůj program. Spory se mají řešit „za zavřenýma dveřma“. Okamurova otevřenost je podle něj „odvážná“, ale v této době škodlivá. Kdo chce pád vlády a předčasné volby, ať řekne, koho by volil, protože SPD „nezíská 37 %“. Spekuluje, že kdyby ODS vedl Martin Kuba a zbavila se Kupky, Černochové, Decroix, Stanjury a Fialy (všechny hrubě uráží), byla by ve vládě ODS místo SPD.
+
+Babiše přitom označuje za „jediného politika“, který je ochoten mluvit i s tak ostrým kritikem, jako je on. Covidové období jeho vlády ale bylo „neskutečný svinstvo“, které „nesmí vyšumět“, a Babiš se k němu má postavit „jako chlap“. Babiš i Zeman podle něj „podlehli strachu“, i když premiér k tomu „neměl právo“. Kdyby „nehrál hru na covid“, měl by dnes podle něj přes 40 %. ⚡ Proti 6. a 9. 11., kdy kritikům vlády vyčítal, že nemají alternativu, se teď obrací proti SPD jako koaličnímu partnerovi, ačkoli ji sám volí (viz [volby-2026.md](volby-2026.md)).
+
+> „Ať se mi to líbí, nelíbí, tak SPD nemůže mít takovouhle hubu, i když je to dejme tomu odvážný, dobře, ale v téhle době je to na hovno.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 

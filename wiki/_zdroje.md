@@ -6488,3 +6488,11 @@
 - **Datum záznamu:** 2026-11-16
 - **Zpracováno:** ano
 - **Poznámka:** 1 min, komentář k oficiálním záběrům Letné z dronu.
+
+## Jiří Černohorský — Facebook Live 16. 11. 2026 {#jiří-černohorský--facebook-live-16-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-16_Jiří-Černohorský_Facebook-Live.txt)
+- **Kanál:** Jiří Černohorský
+- **URL:** <https://www.facebook.com/61553793793504/videos/1837428570615615>
+- **Datum záznamu:** 2026-11-16
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 52 min. Témata: neexistující vlastenecká scéna, Letná (odhad 150–170 tisíc), Minář, kauza Vlasáková, Společenství jako přímá demokracie, SPD „podráží nohy“ Babišovi, covid, Rusko „není agresor“ od 30. 4. 2022. Stochastický teror: 1 výrok (Minář) a 1 hraniční (politici ODS). Přepis četl pomocný agent, klíčové citace ověřeny v přepisu.

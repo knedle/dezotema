@@ -55,6 +55,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 10.** — spory ve vlastenecké scéně (Bernardy, Tušl, Novas, Vidra, Galligardy); Babišova vláda „nic nevyšetřuje" (dluh 4 bil., bitcoin, Dozimetr, Kampelička, Lex Ukrajina); „až se nasere 5 milionů lidí" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) → [politicky-system.md](../politicky-system.md)
 - **20. 10.** — příspěvek profilu Čermáka potvrzuje, že ho udal Zítko („vykoupil se“); rekapitulace Zítkových „podvodů“ (Lexus Tycoon 69, andělské hlídky, fény, prezidentská sbírka 750 tis.); výzva k hromadnému trestnímu oznámení; spolek má 800 tis., „nevzal ani korunu“ → [politicky-system.md](../politicky-system.md) — [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 - **6. 11.** — Čermák odsouzen „za předpoklad“, vinen je Zítko, trestní oznámení na Zítka a Hradila; kampelička 660 mil. a mlčení ČT; Pavel a Lichtenštejnové (→ [petr-pavel.md](../petr-pavel.md)); lobbisté a „milion na Kajmany“, Šebelová (→ [fara-neziskovky.md](../fara-neziskovky.md)); kritika vlády bez alternativy, SPD nic, Konečná „není zrada“; síla lidí (Istanbulská úmluva 2018) a morální kodex Společenství — [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
+- **16. 11.** — „Žádná vlastenecká scéna neexistuje“, „ty samý ovce“ (Šinágl); Společenství jako přímá demokracie, „deset stupňů ke zlatej“, 50 % platu poslanců na transparentní účet; „korporátní nacistická mafie“, „menší zlo“ → [politicky-system.md](../politicky-system.md); ⚡ SPD „podráží nohy“ Babišovi, Babiš „jediný politik“, který mluví s kritiky, ale covid „svinstvo“ → [politicky-system.md](../politicky-system.md#spd-podrazi-nohy-babisovi-cernohorsky-16-11-2026); Letná 150–170 tisíc, Minář, Babišovo „Ne, nebudem“ → [fara-neziskovky.md](../fara-neziskovky.md#letna-cirkus-minare-rajchl-15-11-2026) — [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 - **7. 11.** — „nemáte peníze, nemáte spravedlnost“ — žaloba na Ivu Rosickou, odpověď s pomocí AI — [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
 - **9. 11.** — Macinka „pitomec“ v otázce Ruska, ženský hokej jako produkt „poženštělé“ doby; Babišova vláda není jako Fialova (jinak bankrot), jiná možnost nebyla; Juchelka neschopný, superdávka, ukrajinský personál v nemocnici; scéna „živí parazity“ (Zítko, Bernardy, Vrabel, Sládek), chce skončit → [politicky-system.md](../politicky-system.md) — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 - **14. 11.** — 1989 jako podvod Západu s KSČ a StB, rozdělení ČSSR proti „balkánskému scénáři“; porušené sliby, trest smrti za korupci „jako v Číně“; Grolich a „rozhodne ulice“; Pavel: ústavní žaloba, veto, Hungaroring; sovětská vlajka na profilu jako úcta rudoarmějcům → [politicky-system.md](../politicky-system.md#trest-smrti-korupce-cernohorsky-14-11-2026), [petr-pavel.md](../petr-pavel.md#pavel-ustavni-zaloba-cernohorsky-14-11-2026) — [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
@@ -163,6 +164,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **11. 9.** — archiv 2022: Fialova vláda vyzbrojuje Azov, válku rozpoutala „fašistická ukrajinská vláda" 2014 — [Videoportál: vzpomínka na zadržení 2022 (11. 9. 2026)](../_zdroje.md#jiří-černohorský--videoportál-vzpomínka-2022-11-9-2026)
 - **5. 10.** — „kde jste byli 8 let" (Donbas, Azov, Minsk jako podvod, biolaboratoře); Babiš, Macinka, Turek, Šťastný jako „rusobijci" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2) → [valka-nato-rusko.md](../valka-nato-rusko.md)
 - **9. 11.** — rusofobie a sport (USA „masoví vrazi“), Putin „nemůže“ (Minsk, referenda, Krym, SS Galizien, obvinění z popírání genocidy 2022); válka skončí „maximálně třetí světovou“ → [valka-nato-rusko.md](../valka-nato-rusko.md#tretí-svetova-cernohorsky-9-11-2026), [predikce.md](../predikce.md) — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
+- **16. 11.** — Rusko „není a nikdy nebylo agresor“, od 30. 4. 2022 (stažení od Kyjeva, Macron, Johnson) → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md) — [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - ČT umlčuje nepohodlné výroky — [TikTok živě 8. 6. 2025](../_zdroje.md#jiří-černohorský--tiktok-živě-8-6-2025)
@@ -175,6 +177,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 10.** — Facebook záměrně přerušil vysílání s Vlasákovou; výhrůžné hovory od „Štítu demokracie" a „gangu Oganesjana" — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
 - **9. 11.** — ČT zrušit i ze státního rozpočtu, „moloch s 3 000 parazity“, „Čiči na gauči“, ředitel 300 tis. + 12 mil. odměn → [media-propaganda.md](../media-propaganda.md#ct-zrusit-moloch-cernohorsky-9-11-2026) — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 - **14. 11.** — z 8,5 mld. jen asi 600 mil. na zpravodajství, „pokus“ s dobrovolnými poplatky, ČT „krev na rukou“ za covid, „koncesionářští paraziti“, studenti „polistopadus mamlus“, Nerudová a 140 tisíc exekucí → [media-propaganda.md](../media-propaganda.md#ct-zrusit-moloch-cernohorsky-9-11-2026) — [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
+- **16. 11.** — ČT 8,5 mld. „bez kontroly“, věřit jí „může jen imbecil“ (opakování) → [politicky-system.md](../politicky-system.md) — [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 - **16. 11.** — oficiální záběry Letné z dronu zpochybňuje (nesedí zvuk, žádné vlajky EU, Ukrajiny ani ČR), 450 tisíc „oveček“ podle něj nadsazeno → [fara-neziskovky.md](../fara-neziskovky.md#letna-cirkus-minare-rajchl-15-11-2026) — [Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026)](../_zdroje.md#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026)
 
 ### [Rodina a děti](../rodina-deti.md)
@@ -190,6 +193,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **5. 10.** — kauza Vlasáková: nehoda způsobená „záměrně", šikana policie, „domluvená banda" na Příbramsku; spolek platí advokátku — [Facebook Live: kauza Vlasáková (5. 10. 2026)](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026)
 - **5. 10. (2)** — Vlasáková: přepsaný InfoSoud, zmanipulovaný drogový test dcery, obsílka 13leté dceři; slib jmenovat všechny aktéry; sbírka na advokátku — [Facebook Live (2) 5. 10. 2026](../_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2)
 - **7. 11.** — rodiče dívky z psí boudy s podmínkou „nemají právo na život“, obnovit trest smrti; kauza Vlasáková — lékařka, škola, OSPOD, policie, teta-státní zástupkyně, soudkyně a GIBS ve „spiknutí“, Příbramsko „stát ve státě“ — [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
+- **16. 11.** — Vlasáková: „rodokmen mafie“, svěřenecké fondy, GIBS vrátila stížnost Bílému → [rodina-deti.md](../rodina-deti.md) — [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ### [COVID-19 a vakcíny](../covid-vakciny.md)
 - **17. 8.** — Očkování těhotných žen a chybějící odškodňovací fond; kritika Babišovy vlády — [Facebook Live 17. 8. 2026 (2)](../_zdroje.md#jiří-černohorský--facebook-live-17-8-2026-2)
@@ -235,6 +239,7 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - **20. 10.** — Zítko „zmrd skurvenej“, „kripl“; „s chutí bych ti namazal skluzavku“ do kriminálu „aspoň na 5–6 roků“ — [„Jedenáctiletý opět nazvracel na Zítka“ (sdíleno ČsTV2, 20. 10. 2026)](../_zdroje.md#jiří-černohorský--čstv2-sdíleno-zítko-udal-čermáka-20-10-2026)
 - **6. 11.** — Rakušan „rozbít rypák… do kriminálu s ním“; Zítko a Hradil „dobytek“, Zítko „3–4 roky v kriminále“; „verbež“ a zastánci migrace „do get“ — [Facebook Live 6. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-6-11-2026)
 - **7. 11.** — rodiče z psí boudy „popravit elektrickým křeslem“; „skurvená verbež“; Varhanová „svině“, Vlasák „zmrd“ — [Facebook Live 7. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
+- **16. 11.** — Minář: „dá mu tak porypáku, že už nikdy neotevře hubu“; hraniční nadávky Kupkovi, Černochové, Decroix, Stanjurovi a Fialovi → [stochasticky-teror.md](../stochasticky-teror.md) — [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 - **9. 11.** — Fiala „rozstřískat mu tu hubu“; Rakušan „měl být v kriminále“, „v Číně se za korupci střílí“; hraničně dárci „Dárku pro Putina“ „skurvený kundy“ — [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
@@ -494,6 +499,18 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 | Mikuláš Minář | ❌ negativní | „Zrzavý kripl“, zneužil Večerníčka | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
 | Ondřej Kolář | ❌ negativní | Přejmenoval náměstí po Borisi Němcovovi | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
 | Aleš Juchelka | ❌ negativní | Vyměnit za „člověka s empatií“ | 2026-11-14 | [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026) |
+| Mikuláš Minář | ❌ negativní | „Zrzavý hajzl/kretén“, „žije z peněz spolku“, fantazie o fyzickém útoku | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Václav Šinágl | ⚖️ rozporuplný | Kamarád, přijal kritiku, ale vede „žabomiší války“ | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | „Jediný politik“, který mluví s kritiky, chválí „Ne, nebudem“ k Letné; covid „svinstvo“, „podlehl strachu“ | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Tomio Okamura / SPD | ❌ negativní | „Podráží nohy“ Babišovi, chová se jako premiér | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Jindřich Rajchl | ❌ negativní | „Já, já, jenom já“ (Olympic), „úplně mimo mísu“ | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Radek Vondráček | ⚖️ rozporuplný | „Až moc korektní“, ale tentokrát kritizoval SPD | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Martin Kuba | ⚖️ rozporuplný | Jako předseda ODS by mohl nahradit SPD ve vládě (zároveň „zmrd“) | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Kupka, Černochová, Decroix, Stanjura, Fiala | ❌ negativní | Hrubé dehumanizující nadávky | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Petr Macinka | ⚖️ rozporuplný | „Rozmázl ty idioty na Letné“, ale „debil“ kvůli „mužatkám“ a „ruskému agresorovi“ | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Volodymyr Zelenský, Boris Johnson | ❌ negativní | Zmařili mír po stažení Rusů 30. 4. 2022 | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Policista Bílý, Kamil Vlasák | ❌ negativní | Součást „mafie“ proti Vlasákové | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| Herec Trojan | ❌ negativní | Projev na Letné | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
 
 ---
 
@@ -572,3 +589,4 @@ Aktivista, komentátor a provozovatel spolku Česká Svoboda Respekt. Vysílá �
 - [Facebook Live 9. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-9-11-2026)
 - [Facebook Live 14. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
 - [Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026)](../_zdroje.md#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026)
+- [Černohorský — Facebook Live 16. 11. 2026](../_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)

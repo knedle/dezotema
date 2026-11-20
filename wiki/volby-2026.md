@@ -52,6 +52,8 @@ Stránka sleduje podporu a kritiku konkrétních stran a kandidátů v souvislos
 | Martin Dvořák (Senát – Hradec Králové) | ❌ negativní | Jindřich Rajchl | „Nejzbytečnější ministr“, „chciválek“, korunu nazval „pidiměnou“; dobře, že neuspěl | 2026-10-18 | [Rajchl — Nedělní vysílání 18. 10. 2026](_zdroje.md#jindřich-rajchl--nedělní-vysílání-senát-maroko-ukrajina-18-10-2026) |
 | ANO (Andrej Babiš) | ❌ negativní | Ladislav Vrabel | Porážka v Senátu jako „odraz vlády“, Babiš „podvodník“, porušil všechny sliby | 2026-10-17 | [Ladislav Vrabel — Zprávy v devět 17. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-10-2026) |
 | Adriana (kandidátka na prezidentku, příjmení neuvedeno) | ❌ negativní | Jiří Černohorský | Nulové politické zkušenosti, známost i finance; kandidatura „není normální“ | 2026-11-06 | [Černohorský — Facebook Live 6. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-6-11-2026) |
+| SPD (Okamura) | ❌ negativní | Jiří Černohorský | „Podráží nohy“ Babišovi, chová se, jako by Okamura byl premiér; SPD „nezíská 37 %“, předčasné volby nemají smysl | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
+| ANO (Andrej Babiš) | ⚖️ rozporuplný | Jiří Černohorský | „Jediný politik“, který mluví s kritiky, nemůže opustit program; covid ale „svinstvo“, „podlehl strachu“ | 2026-11-16 | [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026) |
 *(tabulka se doplňuje průběžně; symboly vztahu ✅ pozitivní / ❌ negativní / ⚖️ rozporuplný / ○ neutrální — stejná konvence jako u tabulek „Zmíněné osoby")*
 
 ---

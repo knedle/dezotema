@@ -150,7 +150,11 @@ Výrok na konci pasáže (lidé podílející se na této agendě „by potřebo
 
 > „Tak vám říkám, říkám s plnou zodpovědností a s plným vědomím, že je tam spiknutí proti Tereze Vlasákové.“ — Jiří Černohorský
 
-**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Facebook Live: kauza Vlasáková (5. 10. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026), [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026)
+**16. 11.** — Černohorský chce s Vlasákovou sestavit „rodokmen“ aktérů „mafie“ z Příbramska, kteří mají usilovat o to, aby skončila v psychiatrické léčebně nebo ve vězení a dcery přešly k otcům. Nový motiv vidí v majetku: má prý jít o to, „aby tam vznikly svěřenecké fondy“. Stížnost na policistu Bílého podle něj GIBS vrátila k prošetření jemu samotnému („prošetřoval se ze stížnosti na sebe sama“) a někdo na GIBS je podle něj „v tom zapojený“. Policista prý také předal jeho osobní údaje panu Vlasákovi. Slibuje, že „hradby té mafie“ dobudou právní cestou.
+
+> „My dobíváme hradby té mafie, který oni si myslí, že jsou neprolomitelný.“ — Jiří Černohorský
+
+**Zdroje:** [Černohorský — Facebook Live 24. 9. 2026](_zdroje.md#jiří-černohorský--facebook-live-24-9-2026), [Černohorský — Facebook Live (28. 9. 2026)](_zdroje.md#jiří-černohorský--facebook-live-28-9-2026), [Černohorský — Facebook Live: kauza Vlasáková (5. 10. 2026)](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026), [Černohorský — Facebook Live (2) 5. 10. 2026](_zdroje.md#jiří-černohorský--facebook-live-5-10-2026-2), [Černohorský — Facebook Live 7. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-7-11-2026), [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 

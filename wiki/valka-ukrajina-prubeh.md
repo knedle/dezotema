@@ -56,7 +56,9 @@ Rajchl tvrdí, že špičky EU jsou v současnosti hlavním světovým válečn�
 
 Putin veřejně odhalil, že v roce 2022 mu volal Emmanuel Macron s žádostí, aby Rusko stáhlo vojska z okolí Kyjeva — bez toho prý nešlo jednat o dohodě. Rusko poslechlo. Macron tuto vojenskou ústupnost využil jako taktickou výhodu k pokračování bojů. Vrabel přirovnává Macronovo jednání k Angele Merkelové, která přiznala, že Minské dohody sloužily jen ke koupení času na vyzbrojení Ukrajiny — dle Vrabela jde o dokladovaný vzorec podvodných dohod.
 
-**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026)
+**16. 11. 2026 — Černohorský** tentýž narativ dovádí k závěru, že Rusko „není a nikdy nebylo agresorem“. Výjimkou připouští jen útok u Kyjeva po 24. 2. 2022 mimo území Luhanské a Doněcké republiky. Po mírových dohodách, které podle něj „domluvil Macron“, se Rusové 30. dubna stáhli. Zelenský („zmrd vyfetovaný“) pak po příjezdu Borise Johnsona „s notičkama z EU a USA“ dohodu odmítl. „K 30. dubnu 2022 přestalo být Rusko agresorem. Tečka.“ Proto ho „serou“ Motoristé i ANO, když o Rusku mluví jako o agresorovi. Macinku přitom chválí, že „rozmázl ty idioty na Letné“.
+
+**Zdroje:** [Vrabel — Večerní zprávy 12. 5. 2026](_zdroje.md#ladislav-vrabel--večerní-zprávy-12-5-2026), [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 

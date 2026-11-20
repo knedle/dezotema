@@ -102,7 +102,11 @@ Jiří Černohorský odhaduje, že realizace demonstrace Milionu chvilek na Letn
 
 > „Nevidím tam jedinou vlajku, jo, jedinou vlajku, ten hadr Evropské unie. Nevidím tam jedinej hadr ukrajinský.“ — Jiří Černohorský
 
-**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026), [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026), [Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026)](_zdroje.md#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026)
+**16. 11. — Černohorský (Facebook Live)** se vysmívá přesnému údaji o 436 tisících účastnících z debaty v ČT a 2,5 milionu v Blesku. Michael Jackson podle něj přilákal na Letnou asi 120 tisíc lidí a Rolling Stones 70–80 tisíc. Sám jako bývalý organizátor shromáždění odhaduje 150–170 tisíc („víc tam prostě nebylo“), protože mezi ohrádkami zůstávaly volné koridory. Ironizuje, že oficiální kamery asi „vypnuli ruští hekři“ na Putinův příkaz. Demonstrace z 9/2023 na Václavském náměstí (Vrabel, Havel, Rajchl, Konečná, Štěpán) by podle něj se stejnou podporou stran a ČT měla 200–250 tisíc lidí. Reklamu platili oligarchové, kteří „museli mít radost“ z hesla „smrt oligarchům“. Projevy studentů jsou podle něj „z pomocné školy“. Mináře hrubě uráží (viz [Stochastický teror](stochasticky-teror.md)): podle něj „žije z peněz spolku“ a navrhuje požádat spolek podle zákona o svobodném přístupu k informacím, ať vyčíslí, kolik z darů bere. Chválí Babiše, že na otázku, zda se vláda bude požadavky Letné zabývat, odpověděl „Ne, nebudem, tečka, konec“.
+
+> „Něco mezi 150 až 170 tisíci… Víc tam prostě nebylo.“ — Jiří Černohorský
+
+**Zdroje:** [Rajchl — Nedělní vysílání: Letná, Abú Zabí, Merzovo vydírání (15. 11. 2026)](_zdroje.md#jindřich-rajchl--letenská-maškaráda-abú-zabí-merz-15-11-2026), [Rajchl — Jak by měla vláda reagovat na Letnou? (16. 11. 2026)](_zdroje.md#jindřich-rajchl--jak-reagovat-na-letnou-16-11-2026), [Černohorský — „450 tisíc oveček?“ Záběry z dronu (16. 11. 2026)](_zdroje.md#jiří-černohorský--450-tisíc-oveček-dron-16-11-2026), [Černohorský — Facebook Live 16. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-16-11-2026)
 
 ---
 
