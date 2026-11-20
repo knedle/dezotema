@@ -67,6 +67,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **13. 11.** — Pfizer o 40 % smrtelnější než Moderna, „přes 100 milionů zabitých“, viry neexistují, „long covid“ jako vedlejší účinky; „banda gaunerů“ Prymula, Flegr, Kubek, Hořejší → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 - **14. 11. (11:11)** — 86 % PCR pozitivit nebyly infekce, Fauci „111krát“ pátý dodatek, SV40 → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Letadla a vlaky v USA 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-letadla-a-vlaky-v-usa-14-11-2026)
 - **14. 11. (23:11)** — vojenský tribunál pro „pachatele masových vražd“ (Válek → [stochastický teror](../stochasticky-teror.md)), Vojtěch a Vašáková „zrůdy“, Kolářová, porodnost podle ÚZIS jako důkaz „genocidy“, WHO, Fuellmich → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Dvojníci Deep State 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026)
+- **15. 11. (11:11)** — covidové injekce jako „biologická zbraň“ i pro děti → [covid-vakciny.md](../covid-vakciny.md) — [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)
 
 ### [Kauzy a korupce](../kauzy.md)
 - Trestní stíhání Zítka a Pekové, petice k prezidentu Pavlovi, absence politické vůle; Rajchl slíbil pomoc s dopisem a nesplnil; Bitcoin kauza — šestikrokový návod k usvědčení, Tejc (100+ dní) nečinný — [Petice za prezidentem 31. 3.](../_zdroje.md#pavel-zítko--soběšovice-petice-za-prezidentem-31-3)
@@ -141,6 +142,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **8. 11.** — „hra na Čermáka skončila“, „na tisíc procent“ nejde o původního Čermáka; do Holýšova nejel kvůli Tušlovým výhrůžkám → [kauzy.md](../kauzy.md) — [ČsTV2 — Nedělní chvilka poezie 8. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-nedělní-chvilka-poezie-8-11-2026)
 - **9. 11.** — Čermák se „prokázal tím, že nepřišel“; Tušl a „fízlácké materiály“, E-Medic neprovozoval očkovací centra, Křešťáková „čarodějnice“ → [kauzy.md](../kauzy.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 - **12. 11.** — „Čermákiáda: Zvonec a konec“: odpověď Bernardy, údajné tělesné rozdíly „dvojníka“, „dvojník, ne klon“, skutečný Čermák „z 99,999 %“ v ochraně svědků, anulovat vzdání se odškodnění, matka „lhářka“, oznámení na sebe pro stalking z Chomutova, Polsko 2023 jako „divadlo“ → [kauzy.md](../kauzy.md) — [ČsTV2 — Čermákiáda 12. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-čermákiáda-zvonec-a-konec-12-11-2026)
+- **15. 11. (11:11)** — Čermákův rozsudek „zhovadilost“, bitcoinová kauza z drog (CIA), sedí jen „bílý koník Jiříkovský“ → [kauzy.md](../kauzy.md) — [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)
 
 ### [Suverenita a EU](../suverenita-eu.md)
 - Sdílí Babišovo video o EPBD4 (700 000 domů) — opakování Vrabelovy teze beze změny, rámováno jako okrádání „korporací Česko/Slovensko" — [Videoportál 15. 7.](../_zdroje.md#československo-tv2--videoportál-15-7-2026)
@@ -241,6 +243,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **13. 11.** — SS United States a „konec Fedu“, Titanic a Olympic, 11. září (Bush, Rumsfeld, Cheney), McCartney a Biden jako dvojníci, Q-phone od 1. 12., okno „maximálně 35 dní“ a vojenské vlády; Putin a „návrat před rok 1997“ → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [predikce.md](../predikce.md) — [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 - **14. 11. (11:11)** — zastavení letů v USA jako „zelená“ k zatýkání („jednosměrný lístek“ na Gitmo), „zákony předem zrušeny“ pro armádu, zlato z Vatikánu, QFone, solární záblesk a „test vibrací“, CIA a drogy, RFK Jr. a popravy farmaceutických manažerů; ČSR a puč StB → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [ČsTV2 — Letadla a vlaky v USA 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-letadla-a-vlaky-v-usa-14-11-2026)
 - **14. 11. (23:11)** — „festival dvojníků“ (Biden popraven, Hanks a Oprah popraveni, Vance hraje Paul Walker), popravy Cheneyho a Bushe za 11. září, „naplánovaný“ atentát na Trumpa, bail-in; velká trojka 19. 11., EBS test 17. 11. → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md) — [ČsTV2 — Dvojníci Deep State 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026)
+- **15. 11. (11:11)** — okno „33 dní“, tribunály a popravy, MedBeds 2027, reset do kvantového systému a krytí zlatem (Nixon 1971), QFS „ne všem“, „20 Trumpů, 20 Putinů“, volby do 120 dní, Babiš „jak vyměněnej“; jaderné zbraně zneškodněny 2019, válka „do falešných Vánoc skončí“; velká trojka 19. 11., obnova ČSR „bez politiků“ v roce 2027; terahertzový „fén“ a aura → [konspirace-deep-state-qanon.md](../konspirace-deep-state-qanon.md#volby-usa-past-zitko-5-11-2026), [konspirace-ceskoslovensko.md](../konspirace-ceskoslovensko.md), [konspirace.md](../konspirace.md), [predikce.md](../predikce.md) — [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)
 
 ### [Média a propaganda](../media-propaganda.md)
 - **12. 10.** — místo setkání utajeno do 9. 10. „z bezpečnosti“ (Rajchlovi v Havířově zrušili sál); 6 let vysílání, blokace všech 4 kanálů — [Ohlédnutí za akcí 10. 10. 10](../_zdroje.md#československo-tv2--ohlédnutí-za-akcí-10-10-10-12-10-2026)
@@ -273,6 +276,7 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - **9. 11.** — 6. 10. zrušeny všechny jeho kanály, klony jako „krádež identity“ → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Zprávy k novoluní 9. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-zprávy-k-novoluní-9-11-2026)
 - **13. 11.** — ČT dostala 88 mil. Kč z USAID, CIA platila 400 novinářů → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Pátek třináctého 13. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 - **14. 11. (23:11)** — Facebook snižuje dosah, chystá „Alternativní média“ → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Dvojníci Deep State 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026)
+- **15. 11. (11:11)** — ČT má vrátit poplatky a platit odškodné („88 milionů“ od „dvojníka Bidena“), Facebook „schovává“ videa → [media-propaganda.md](../media-propaganda.md) — [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)
 
 ## Zmíněné osoby
 
@@ -537,6 +541,13 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 | Daniela Kolářová | ❌ negativní | Propagovala očkování, výroky o neočkovaných | 2026-11-14 | [ČsTV2 — Dvojníci Deep State 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026) |
 | Reiner Fuellmich | ✅ pozitivní | „Bijec covidové mafie číslo jedna“ | 2026-11-14 | [ČsTV2 — Dvojníci Deep State 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026) |
 | Barack a Michelle Obamovi | ❌ negativní | Hanlivé nálepky, dosazen „aby zničil Ameriku“ | 2026-11-14 | [ČsTV2 — Dvojníci Deep State 14. 11. 2026](../_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026) |
+| Andrej Babiš | ⚖️ rozporuplný | „Jak vyměněnej“, vypadá jinak než „původní Babiš“ | 2026-11-15 | [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026) |
+| Petr Pavel | ❌ negativní | „Šikovnej turista“, moc převezme armáda, ne on | 2026-11-15 | [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026) |
+| Pavel Blažek | ❌ negativní | „Kmotr“ bitcoinové kauzy, nesedí | 2026-11-15 | [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026) |
+| Tomáš Čermák | ✅ pozitivní | Rozsudek 5,5 roku je „totální zhovadilost“ | 2026-11-15 | [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026) |
+| Suchomel | ⚖️ rozporuplný | Kritik, ale Zítko mu „drží palce“ | 2026-11-15 | [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026) |
+| „Sas z Trenčína“ | ❌ negativní | Kritik, „kokot“ placený za útoky | 2026-11-15 | [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026) |
+| Donald Trump, Vladimir Putin, Si Ťin-pching | ✅ pozitivní | Vítězné mocnosti, 19. 11. mírová smlouva a obnova ČSR | 2026-11-15 | [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026) |
 
 ---
 
@@ -679,3 +690,4 @@ Provozovatel alternativního média Československo TV2 publikujícího na Faceb
 - [ČsTV2 — Živě: „Šťastný pátek třináctého“ (13. 11. 2026)](../_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026)
 - [ČsTV2 — Živě: „Letadla a vlaky v USA“ (14. 11. 2026, 11:11)](../_zdroje.md#československo-tv2--živě-peterková-letadla-a-vlaky-v-usa-14-11-2026)
 - [ČsTV2 — Živě: „Dvojníci Deep State“ (14. 11. 2026, 23:11)](../_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026)
+- [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](../_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)

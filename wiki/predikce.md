@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — „falešná“ válka a strach z jaderného konfliktu „do falešných Vánoc skončí“; MedBeds a obnova ČSR „bez politiků“ viditelné v roce 2027 (15. 11. 2026)
+
+**Předpověď:** Strach z třetí a čtvrté světové války je podle Zítka „falešná událost“, protože jaderné zbraně zneškodnily vesmírné síly už v roce 2019, a tato fáze skončí do Vánoc 2026. MedBeds budou v roce 2027 „viditelné“ a obnova Československa „bez politiků, odspoda“ je úkolem pro rok 2027, na jehož konci proběhne „drma vrma“. Ve čteném textu Barbary Pražské, který souhlasně cituje, má „v polovině až koncem ledna“ začít „jubileum“.
+
+> „Kdy, nevím jistě, ale vsadím se, že to do falešných Vánoc skončí.“ — Pavel Zítko
+
+**Horizont:** do Vánoc 2026; leden 2027 („jubileum“); rok 2027 (MedBeds, obnova ČSR)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)
+
+---
+
 ### Jindřich Rajchl — Rusko bude požadovat zbytek Doněcké oblasti (silou, nebo dohodou), neutralitu Ukrajiny, denacifikaci a volby (15. 11. 2026)
 
 **Předpověď:** V mírových jednáních Rusko podle něj postaví tyto podmínky: buď si zbytek Doněcké oblasti vezme silou, nebo mu ho Ukrajina vydá dohodou; Ukrajina se zaváže k neutralitě, „denacifikaci“ a uspořádání voleb.
@@ -181,7 +193,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Stav:** 🕐 Čeká na vyhodnocení
 **14. 11.** — Dopoledne Zítko uvádí, že EBS test 17. 11. se „možná přetočí na ostré vysílání“, a znovu počítá „35 dnů“ (tentokrát od 14. 11.).
 **14. 11. (23:11)** — V nočním vysílání tvrdí, že „17. listopadu se bude testovat EBS“, 19. 11. se sejde velká trojka Trump, Putin a Si a „jsme velmi blízko velkému finále“.
-**Zdroj:** [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026), [ČsTV2 — Živě: „Letadla a vlaky v USA“ (14. 11. 2026, 11:11)](_zdroje.md#československo-tv2--živě-peterková-letadla-a-vlaky-v-usa-14-11-2026), [ČsTV2 — Živě: „Dvojníci Deep State“ — noční vysílání (14. 11. 2026, 23:11)](_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026)
+**15. 11.** — Zítko mluví o „33 dní časovém okně“ (konec zůstává kolem 18. 12.) a znovu o předání moci armádě a volbách „v oknu do 120 dnů“. EBS „má proběhnout“ jako test 17. 11., „uvidíme, jestli fáze testování nepřeroste v to, že EBS bude spuštěno“, případně „začneme 19. listopadu“. Je to podle něj „otázka týdnů, možná i dnů“.
+**Zdroj:** [ČsTV2 — Živě: „Šťastný pátek třináctého“ — SS United States, Q-phone, 35 dní (13. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-šťastný-pátek-třináctého-13-11-2026), [ČsTV2 — Živě: „Letadla a vlaky v USA“ (14. 11. 2026, 11:11)](_zdroje.md#československo-tv2--živě-peterková-letadla-a-vlaky-v-usa-14-11-2026), [ČsTV2 — Živě: „Dvojníci Deep State“ — noční vysílání (14. 11. 2026, 23:11)](_zdroje.md#československo-tv2--živě-peterková-dvojníci-deep-state-14-11-2026), [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)
 
 ---
 

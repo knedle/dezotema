@@ -535,7 +535,9 @@ V téže relaci Zítko zarámoval události do New Age výkladu o „vzestupu". 
 
 Z „kvantové fyziky" vyjmenovává **7 faktorů ovlivňujících vibrační frekvenci**: myšlenky, společnost (lidé kolem), hudba (reaguje na ni i voda), sledované pořady, prostředí/nálada, slovo (pomluvy snižují frekvenci) a vděčnost („univerzální platidlo vesmíru"). K tomu opakuje, že jen ~**17 % obyvatel** „srdce Evropy" má „Kristovskou DNA" a zbytek je „něco jiného" (odkaz na film *Oni žijí* a „aurabrýle" odhalující, kdo je a není člověk).
 
-**Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026)
+**15. 11. (11:11)** — Zítko doporučuje meditaci, půst (sám prý ve vězení držel 34denní hladovku), doplňky s molekulou C60 a terahertzový „fén“: po „vyfénování“ se podle videa, které ukazuje, „aura rázem zvětšila a zesílila“. Radí zásobit se a pěstovat vlastní potraviny, protože v supermarketech jsou „kontaminované sračky“. Lidé mají jednat „jako svrchované bytosti podle přirozeného práva“, ne podle „uměle instalovaného římského práva“ a „námořního práva admirality“.
+
+**Zdroje:** [Československo TV2 — Freedom 250 / UFC (12. 6. 2026)](_zdroje.md#československo-tv2--freedom-250-ufc-11-11-12-6-2026), [ČsTV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11)](_zdroje.md#československo-tv2--živě-zítko-melania-15-11-2026)
 
 ---
 

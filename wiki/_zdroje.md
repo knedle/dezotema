@@ -6496,3 +6496,11 @@
 - **Datum záznamu:** 2026-11-16
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 52 min. Témata: neexistující vlastenecká scéna, Letná (odhad 150–170 tisíc), Minář, kauza Vlasáková, Společenství jako přímá demokracie, SPD „podráží nohy“ Babišovi, covid, Rusko „není agresor“ od 30. 4. 2022. Stochastický teror: 1 výrok (Minář) a 1 hraniční (politici ODS). Přepis četl pomocný agent, klíčové citace ověřeny v přepisu.
+
+## Československo TV2 — Živě: nedělní vysílání 15. 11. 2026 (11:11) {#československo-tv2--živě-zítko-melania-15-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-16_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1624049709405191&_rdr>
+- **Datum záznamu:** 2026-11-15, 11:11 (soubor datován 16. 11. podle data stažení)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 30 min, „15/11 Melanie Trump královna 11:11“. Mluví jen Zítko, ale asi 45 % času předčítá cizí texty (Křížek a Byington, Verhagen, Barbara Pražská, anonymní text) s vlastními vsuvkami. Asi 12 minut je reklama na Bevit. Zpracováno 14 témat, většinou jako doplnění k 13.–14. 11. Nová predikce: konec „falešné války“ do Vánoc. Stochastický teror nezjištěn (hraniční: souhlasné líčení poprav a tribunálů bez konkrétního terče). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.
