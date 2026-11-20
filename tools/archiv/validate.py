@@ -4,18 +4,43 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-from .io import nacti_vse
+from .io import nacti_osoby, nacti_temata, nacti_zdroj
 from .model import REZIMY, STAVY, TYPY, VAZBY, VZTAHY
 
 
 def validuj(root) -> list[str]:
     root = Path(root)
-    zdroje, temata, osoby = nacti_vse(root)
     err: list[str] = []
+
+    def rel(p):
+        return p.relative_to(root).as_posix() if p.is_relative_to(root) else str(p)
+
+    def nacti(fn, p):
+        try:
+            return fn(p)
+        except Exception as e:  # noqa: BLE001 - chyba dat se hlásí, ne propaguje
+            err.append(f"{rel(p)}: nelze načíst ({type(e).__name__}: {e})")
+            return None
+
+    temata = nacti(nacti_temata, root / "data" / "temata.yaml") or {}
+    osoby = nacti(nacti_osoby, root / "data" / "osoby.yaml") or {}
+    zdroje = []
+    for p in sorted((root / "data" / "zdroje").glob("*/*/*.yaml")):
+        z = nacti(nacti_zdroj, p)
+        if z is None:
+            continue
+        if z.id != p.stem:
+            err.append(f"{rel(p)}: id zdroje '{z.id}' neodpovídá názvu souboru")
+        if (p.parent.parent.name, p.parent.name) != (f"{z.datum:%Y}", f"{z.datum:%m}"):
+            err.append(f"{rel(p)}: adresář neodpovídá datu {z.datum} (zdroj '{z.id}')")
+        zdroje.append(z)
     ids = Counter(v.id for z in zdroje for v in z.vyroky)
     for i, n in ids.items():
         if n > 1:
             err.append(f"{i}: duplicitní id výroku ({n}x)")
+    for i, n in Counter(z.id for z in zdroje).items():
+        if n > 1:
+            err.append(f"{i}: duplicitní id zdroje ({n}x)")
     zdroj_ids = {z.id for z in zdroje}
     vyrok_ids = set(ids)
 
@@ -44,7 +69,7 @@ def validuj(root) -> list[str]:
                 err.append(f"{v.id}: neznámý mluvčí '{v.mluvci}'")
             if not v.temata:
                 err.append(f"{v.id}: výrok nemá žádné téma")
-            for t in v.temata:
+            for t in v.temata or []:
                 if t not in temata:
                     err.append(f"{v.id}: neznámé téma '{t}'")
             if v.typ == "predikce" and v.predikce is None:

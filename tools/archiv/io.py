@@ -83,14 +83,18 @@ def uloz_zdroj(z: Zdroj, root) -> Path:
     return path
 
 
+def nacti_temata(path) -> dict[str, Tema]:
+    with open(path, encoding="utf-8") as f:
+        return {t["slug"]: Tema(**t) for t in (yaml.safe_load(f) or {}).get("temata") or []}
+
+
+def nacti_osoby(path) -> dict[str, Osoba]:
+    with open(path, encoding="utf-8") as f:
+        return {o["slug"]: Osoba(**o) for o in (yaml.safe_load(f) or {}).get("osoby") or []}
+
+
 def nacti_vse(root) -> tuple[list[Zdroj], dict[str, Tema], dict[str, Osoba]]:
     root = Path(root)
     zdroje = [nacti_zdroj(p) for p in sorted((root / "data" / "zdroje").glob("*/*/*.yaml"))]
-    temata, osoby = {}, {}
-    with open(root / "data" / "temata.yaml", encoding="utf-8") as f:
-        for t in (yaml.safe_load(f) or {}).get("temata") or []:
-            temata[t["slug"]] = Tema(**t)
-    with open(root / "data" / "osoby.yaml", encoding="utf-8") as f:
-        for o in (yaml.safe_load(f) or {}).get("osoby") or []:
-            osoby[o["slug"]] = Osoba(**o)
-    return zdroje, temata, osoby
+    return (zdroje, nacti_temata(root / "data" / "temata.yaml"),
+            nacti_osoby(root / "data" / "osoby.yaml"))
