@@ -2,3 +2,5 @@ wiki/.obsidian/
 site/
 __pycache__/
 .split/
+.claude/worktrees/
+.superpowers/
