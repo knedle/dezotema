@@ -1,11 +1,7 @@
 from __future__ import annotations
 
 from ..index import Archiv
-from .common import datum_cz, jmeno_osoby, odkaz_vyroku, odkaz_zdroje
-
-
-def _bunka(text: str) -> str:
-    return " ".join(text.split()).replace("|", "\\|")
+from .common import bunka as _bunka, datum_cz, jmeno_osoby, odkaz_vyroku, odkaz_zdroje
 
 
 def radek_teroru(archiv: Archiv, v, z, rel: str) -> str:

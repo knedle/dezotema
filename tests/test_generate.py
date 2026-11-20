@@ -155,3 +155,39 @@ def test_links_target_split_year_page(tmp_path):
         out / "temata/vetrniky/2026.md").read_text(encoding="utf-8")
     assert "../temata/vetrniky/2025.md#x-0" in (
         out / "zpravodajstvi-vrabel/2026-01.md").read_text(encoding="utf-8")
+
+
+def test_klic_cs():
+    from tools.archiv.generate import klic_cs
+    assert sorted(["Žena", "Čas", "Cena", "Zdroj", "Ceny"], key=klic_cs) == [
+        "Cena", "Ceny", "Čas", "Zdroj", "Žena"]
+    assert sorted(["Chata", "Hrad", "Ivan"], key=klic_cs) == ["Hrad", "Chata", "Ivan"]
+
+
+def test_souhrn_front_matter(tmp_path):
+    from tools.archiv.render.tema import souhrn
+    s = tmp_path / "a.md"
+    s.write_text("---\naktualizovano: 2026-11-05\n---\nTělo souhrnu.\n", encoding="utf-8")
+    t = souhrn(s)
+    assert "Tělo souhrnu." in t and "Aktualizováno: 5. 11. 2026" in t and "---" not in t
+    s.write_text("Bez hlavičky.\n", encoding="utf-8")
+    t = souhrn(s)
+    assert t.strip() == "Bez hlavičky." and "ktualizov" not in t
+
+
+def test_pipe_in_cell_escaped(tmp_path):
+    root = tmp_path / "repo"
+    shutil.copytree(FIX, root)
+    f = root / "data/zdroje/2026/03/2026-03-10_zitko_prvni.yaml"
+    f.write_text(f.read_text(encoding="utf-8").replace("kritika", "a|b"), encoding="utf-8")
+    generate(root, root / "wiki")
+    out = root / "wiki"
+    assert r"a\|b" in (out / "osoby/zitko.md").read_text(encoding="utf-8")
+    assert r"a\|b" in (out / "zminene/minar.md").read_text(encoding="utf-8")
+
+
+def test_vrabel_heading(tmp_path):
+    root, out, res = _gen(tmp_path)
+    assert "# Zpravodajství Vrabel — 2026-11" in (
+        out / "zpravodajstvi-vrabel/2026-11.md").read_text(encoding="utf-8")
+    assert any("Zpravodajství Vrabel" in i for i in res["nav"])

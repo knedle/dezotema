@@ -16,7 +16,7 @@ def mesice_vrabel(archiv: Archiv) -> list[str]:
 def render_vrabel(archiv: Archiv) -> dict[str, str]:
     stranky: dict[str, str] = {}
     for m in mesice_vrabel(archiv):
-        casti = [f"# Zpravodajství Vrábel — {m}\n"]
+        casti = [f"# Zpravodajství Vrabel — {m}\n"]
         for z in (z for z in vrabelovy_zdroje(archiv) if f"{z.datum:%Y-%m}" == m):
             casti.append(f"## {z.datum:%Y-%m-%d} — {z.titul}\n")
             for p in z.prehled:

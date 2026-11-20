@@ -4,7 +4,7 @@ from collections import Counter
 from datetime import date
 
 from ..index import Archiv
-from .common import SYMBOL_STAV, datum_cz, jmeno_osoby, odkaz_zdroje, render_vyrok
+from .common import SYMBOL_STAV, bunka, datum_cz, jmeno_osoby, odkaz_zdroje, render_vyrok
 
 
 def _mesic(z) -> str:
@@ -13,9 +13,9 @@ def _mesic(z) -> str:
 
 def radek_predikce(archiv: Archiv, v, z, rel: str) -> str:
     p = v.predikce
-    odkaz = f"[{v.nadpis}]({rel}predikce/{_mesic(z)}.md#{v.id})"
+    odkaz = f"[{bunka(v.nadpis)}]({rel}predikce/{_mesic(z)}.md#{v.id})"
     return (f"| {jmeno_osoby(archiv, archiv.mluvci_vyroku(v, z))} | {datum_cz(z.datum)} "
-            f"| {odkaz} | {p.horizont if p else ''} "
+            f"| {odkaz} | {bunka(p.horizont) if p else ''} "
             f"| {SYMBOL_STAV.get(p.stav, '') if p else ''} |")
 
 

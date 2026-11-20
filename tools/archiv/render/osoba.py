@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from ..index import Archiv
 from ..model import Osoba
-from .common import (SYMBOL_VZTAH, datum_cz, jmeno_osoby, odkaz_vyroku, odkaz_zdroje)
+from .common import (SYMBOL_VZTAH, bunka, datum_cz, jmeno_osoby, odkaz_vyroku, odkaz_zdroje)
 from .predikce import HLAVICKA as PRED_HLAVICKA, bilance, radek_predikce
 from .teror import HLAVICKA as TERROR_HLAVICKA, radek_teroru
 
@@ -12,7 +12,7 @@ def _odkaz_mluvci_zminky(archiv: Archiv, v, z, rel: str) -> str:
         o = odkaz_vyroku(archiv, v.id, rel)
         if o:
             return o
-    return f"[{z.titul}]({odkaz_zdroje(z, rel)})"
+    return f"[{bunka(z.titul)}]({odkaz_zdroje(z, rel)})"
 
 
 def render_osoba(archiv: Archiv, osoba: Osoba, souhrn_text: str) -> str:
@@ -33,7 +33,7 @@ def render_osoba(archiv: Archiv, osoba: Osoba, souhrn_text: str) -> str:
             podle.setdefault(t, []).append(v)
     for t in sorted(podle, key=lambda s: (archiv.temata[s].nazev if s in archiv.temata else s).casefold()):
         out.append(f"### {archiv.temata[t].nazev if t in archiv.temata else t}\n")
-        out += [f"- [{v.nadpis}]({rel}{archiv.stranka_vyroku(v.id, t)}#{v.id})" for v in podle[t]]
+        out += [f"- [{bunka(v.nadpis)}]({rel}{archiv.stranka_vyroku(v.id, t)}#{v.id})" for v in podle[t]]
         out.append("")
 
     pred = [(v, z) for v, z in archiv.predikce() if archiv.mluvci_vyroku(v, z) == osoba.slug]
@@ -59,7 +59,7 @@ def render_osoba(archiv: Archiv, osoba: Osoba, souhrn_text: str) -> str:
             out += ["| Datum | Vztah | Kontext | Výrok |", "|---|---|---|---|"]
             for r, v, z in sorted(zminky[slug], key=lambda t: t[2].datum):
                 out.append(f"| {datum_cz(z.datum)} | {SYMBOL_VZTAH.get(r.vztah, '')} {r.vztah} "
-                           f"| {r.kontext} | {_odkaz_mluvci_zminky(archiv, v, z, rel)} |")
+                           f"| {bunka(r.kontext)} | {_odkaz_mluvci_zminky(archiv, v, z, rel)} |")
             out.append("")
     return "\n".join(out)
 
@@ -73,6 +73,6 @@ def render_zminene(archiv: Archiv, osoba: Osoba) -> str:
     for r, v, z in sorted(archiv.zminky_osoby(osoba.slug), key=lambda t: t[2].datum):
         mluvci = archiv.mluvci_vyroku(v, z) if v is not None else z.mluvci
         out.append(f"| {datum_cz(z.datum)} | {jmeno_osoby(archiv, mluvci)} "
-                   f"| {SYMBOL_VZTAH.get(r.vztah, '')} {r.vztah} | {r.kontext} "
+                   f"| {SYMBOL_VZTAH.get(r.vztah, '')} {r.vztah} | {bunka(r.kontext)} "
                    f"| {_odkaz_mluvci_zminky(archiv, v, z, rel)} |")
     return "\n".join(out) + "\n"

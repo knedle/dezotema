@@ -20,6 +20,26 @@ GENEROVANE_ADRESARE = ("temata", "osoby", "zminene", "predikce", "zdroje", "zpra
 GENEROVANE_SOUBORY = ("stochasticky-teror.md", "data/vyroky.json")
 
 
+_ZAKLAD = {"á": "a", "é": "e", "ě": "e", "í": "i", "ó": "o", "ú": "u", "ů": "u", "ý": "y",
+           "ď": "d", "ň": "n", "ť": "t"}
+_PORADI = "abcčdefghiíjklmnopqrřsštuvwxyzž"
+
+
+def klic_cs(s: str) -> tuple:
+    """České řazení: č, ř, š, ž za základním písmenem, ostatní diakritika jako základ, ch za h."""
+    s = s.casefold()
+    klic, i = [], 0
+    while i < len(s):
+        if s[i:i + 2] == "ch":
+            klic.append((1, _PORADI.index("h") + 0.5))
+            i += 2
+            continue
+        c = _ZAKLAD.get(s[i], s[i])
+        klic.append((1, _PORADI.index(c)) if c in _PORADI else (0, ord(c)))
+        i += 1
+    return tuple(klic)
+
+
 def _vycisti(out: Path) -> None:
     for a in GENEROVANE_ADRESARE:
         shutil.rmtree(out / a, ignore_errors=True)
@@ -56,7 +76,7 @@ def _nav(archiv: Archiv) -> list:
 
     def polozky(rodic):
         out = []
-        for t in sorted(deti.get(rodic, []), key=lambda t: t.nazev.casefold()):
+        for t in sorted(deti.get(rodic, []), key=lambda t: klic_cs(t.nazev)):
             cesta = f"temata/{t.slug}.md"
             if t.slug in deti:
                 out.append({t.nazev: [{t.nazev: cesta}, *polozky(t.slug)]})
@@ -65,7 +85,7 @@ def _nav(archiv: Archiv) -> list:
         return out
 
     osoby = sorted((o for o in archiv.osoby.values() if o.vlastni_stranka),
-                   key=lambda o: o.jmeno.casefold())
+                   key=lambda o: klic_cs(o.jmeno))
     return [
         {"Úvod": "index.md"},
         {"Témata": polozky(None)},
@@ -98,7 +118,7 @@ def generate(root: Path, out: Path, dnes: date | None = None) -> dict:
     stranky.update(render_predikce(archiv, dnes))
     pozn = sou / "stochasticky-teror.md"
     stranky["stochasticky-teror.md"] = render_teror(
-        archiv, pozn.read_text(encoding="utf-8") if pozn.is_file() else "")
+        archiv, souhrn(pozn))
     stranky.update(render_zdroje(archiv, out))
     stranky.update(render_vrabel(archiv))
     stranky["data/vyroky.json"] = _json(archiv)

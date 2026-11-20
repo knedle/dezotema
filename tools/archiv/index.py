@@ -14,9 +14,12 @@ class Archiv:
         self.temata = temata
         self.osoby = osoby
         self.vyroky: dict[str, tuple[Vyrok, Zdroj]] = {}
+        self._pocty_temat: dict[str, int] = {}
         for z in zdroje:
             for v in z.vyroky:
                 self.vyroky[v.id] = (v, z)
+                for t in set(v.temata):
+                    self._pocty_temat[t] = self._pocty_temat.get(t, 0) + 1
 
     def stranka_vyroku(self, vid: str, tema: str | None = None) -> str | None:
         """Cesta stránky (vůči wiki), která drží kotvu výroku; `tema` výchozí první téma."""
@@ -29,7 +32,7 @@ class Archiv:
         t = tema or v.temata[0]
         if t not in v.temata:
             return None
-        if len(self.podle_tematu(t)) > PRAH_ROZDELENI:
+        if self._pocty_temat.get(t, 0) > PRAH_ROZDELENI:
             return f"temata/{t}/{z.datum.year}.md"
         return f"temata/{t}.md"
 

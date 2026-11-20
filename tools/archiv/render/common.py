@@ -10,6 +10,11 @@ _VAZBA_TEXT = {"posun": "posun oproti", "opakovani": "opakuje",
                "konflikt": "⚡ konflikt s", "souhlas": "souhlasí s"}
 
 
+def bunka(text: str) -> str:
+    """Text bezpečný pro buňku tabulky (bez zalomení a svislítek)."""
+    return " ".join(str(text).split()).replace("|", "\\|")
+
+
 def datum_cz(d) -> str:
     return f"{d.day}. {d.month}. {d.year}"
 
@@ -36,7 +41,7 @@ def odkaz_vyroku(archiv: Archiv, vid: str, rel: str) -> str | None:
     stranka = archiv.stranka_vyroku(vid)
     if not stranka:
         return None
-    return f"[{v.nadpis}]({rel}{stranka}#{v.id})"
+    return f"[{bunka(v.nadpis)}]({rel}{stranka}#{v.id})"
 
 
 def render_vyrok(v: Vyrok, z: Zdroj, archiv: Archiv, rel: str) -> str:
