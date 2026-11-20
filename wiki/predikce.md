@@ -12,6 +12,18 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 <!-- Záznamy řazeny od nejnovějšího výroku -->
 
+### Pavel Zítko — JFK Jr. se „brzo objeví“ kolem svých 65. narozenin; 27. 11. končí Trumpovo „pětiměsíční přechodné období“ (16. 11. 2026)
+
+**Předpověď:** Mladý John F. Kennedy Jr. se podle Zítka „brzo objeví“. Vhodnou příležitostí jsou jeho 65. narozeniny v listopadu (25. 11.). 27. 11. má skončit „pětiměsíční přechodné období“, které podle něj Trump ohlásil 28. 6., a v listopadu se „budou dít věci“ včetně odhalení „ukradených voleb“.
+
+> „Ten se brzo objeví, mladý Kennedy… bude mít teď narozky 65, takže teď v listopadu, myslím, takže si myslím, že to bude vhodná příležitost na to, aby někde vykouknul.“ — Pavel Zítko
+
+**Horizont:** 25. 11. 2026 (JFK Jr.); 27. 11. 2026 (konec „přechodného období“)
+**Stav:** 🕐 Čeká na vyhodnocení
+**Zdroj:** [ČsTV2 — Živě: pondělní vysílání 16. 11. 2026](_zdroje.md#československo-tv2--živě-zítko-pondělí-16-11-2026)
+
+---
+
 ### Pavel Zítko — „falešná“ válka a strach z jaderného konfliktu „do falešných Vánoc skončí“; MedBeds a obnova ČSR „bez politiků“ viditelné v roce 2027 (15. 11. 2026)
 
 **Předpověď:** Strach z třetí a čtvrté světové války je podle Zítka „falešná událost“, protože jaderné zbraně zneškodnily vesmírné síly už v roce 2019, a tato fáze skončí do Vánoc 2026. MedBeds budou v roce 2027 „viditelné“ a obnova Československa „bez politiků, odspoda“ je úkolem pro rok 2027, na jehož konci proběhne „drma vrma“. Ve čteném textu Barbary Pražské, který souhlasně cituje, má „v polovině až koncem ledna“ začít „jubileum“.
@@ -206,7 +218,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** 17. 11. 2026 (EBS, s výhradou); 22. 11. 2026 (QFS)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026)
+**16. 11.** — Den před termínem Zítko upřesňuje, že test EBS má proběhnout 17. 11. ve 14:20 východního času (20:20 SEČ) a „mohlo by to být naostro“, s následnou „desetidenní zástavou komunikace“ ve vlnách. Zároveň radí „neupínejte se na datumy“. QFS 22. 11. nezmiňuje.
+**Zdroj:** [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: pondělní vysílání 16. 11. 2026](_zdroje.md#československo-tv2--živě-zítko-pondělí-16-11-2026)
 
 ---
 

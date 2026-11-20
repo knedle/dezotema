@@ -6504,3 +6504,11 @@
 - **Datum záznamu:** 2026-11-15, 11:11 (soubor datován 16. 11. podle data stažení)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 30 min, „15/11 Melanie Trump královna 11:11“. Mluví jen Zítko, ale asi 45 % času předčítá cizí texty (Křížek a Byington, Verhagen, Barbara Pražská, anonymní text) s vlastními vsuvkami. Asi 12 minut je reklama na Bevit. Zpracováno 14 témat, většinou jako doplnění k 13.–14. 11. Nová predikce: konec „falešné války“ do Vánoc. Stochastický teror nezjištěn (hraniční: souhlasné líčení poprav a tribunálů bez konkrétního terče). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.
+
+## Československo TV2 — Živě: pondělní vysílání 16. 11. 2026 {#československo-tv2--živě-zítko-pondělí-16-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-17_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1665160825651224&_rdr>
+- **Datum záznamu:** 2026-11-16, dopoledne (soubor datován 17. 11. podle data stažení)
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 16 min. Asi 75 % času Zítko předčítá cizí příspěvky (Sofia Esmeralda, Trump TV, Míša Nogová, Hana Hana a další), asi 15 % je reklama na Bevit a osobní spory. Zpracováno 7 témat, většinou jako doplnění k 13.–15. 11. Predikce: upřesnění testu EBS 17. 11. a nový záznam (JFK Jr., 27. 11.). Stochastický teror: von der Leyenová před vojenským tribunálem. Hraniční (nezapsáno): ČT a „budoucí vojenské tribunály“, převyprávěný „zrušený zákaz vraždy Zelenského“, zopakovaná nadávka Herrmannovi. Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.
