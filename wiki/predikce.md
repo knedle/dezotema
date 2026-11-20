@@ -219,7 +219,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Horizont:** 17. 11. 2026 (EBS, s výhradou); 22. 11. 2026 (QFS)
 **Stav:** 🕐 Čeká na vyhodnocení
 **16. 11.** — Den před termínem Zítko upřesňuje, že test EBS má proběhnout 17. 11. ve 14:20 východního času (20:20 SEČ) a „mohlo by to být naostro“, s následnou „desetidenní zástavou komunikace“ ve vlnách. Zároveň radí „neupínejte se na datumy“. QFS 22. 11. nezmiňuje.
-**Zdroj:** [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: pondělní vysílání 16. 11. 2026](_zdroje.md#československo-tv2--živě-zítko-pondělí-16-11-2026)
+**17. 11.** — V den testu Zítko opakuje, že test ve 20:20 SEČ „se může překulit a přetavit v ostrou fázi“, „je tam šestihodinový okno“, a „možná se budou dít velký věci už dneska“. Připojuje i předpověď, že „asi to brzo bouchne s tím agentem Šmídem, dojde k velkému odhalení“.
+**Zdroj:** [ČsTV2 — Živě: Svatomartinské vysílání 11. 11. v 11:11 — Ezra Cohen, Cvalín, 5G (11. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-svatomartinské-11-11-2026), [ČsTV2 — Živě: pondělní vysílání 16. 11. 2026](_zdroje.md#československo-tv2--živě-zítko-pondělí-16-11-2026), [ČsTV2 — Živě: „Sametový podvod“ (17. 11. 2026)](_zdroje.md#československo-tv2--živě-zítko-sametový-podvod-17-11-2026)
 
 ---
 
@@ -270,7 +271,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 **Horizont:** 5. 11. 2026 (odhalení); do 45 dní (volby)
 **Stav:** ❌ Vyvráceno (část „5. 11.“) — ve vysílání z 5. 11. žádné odhalení nepřišlo, jen nový výklad voleb jako „pasti“; zbytek viz predikce z 5. 11.
 **7. 11.** — Zítko už 5. 11. za odhalení nevydává; uvádí jen, že Trumpův tým zveřejnil video „V jako vendeta“, a odhalení znovu slibuje („brzy i v našich kinech“).
-**Zdroj:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026)
+**17. 11.** — Datum „5. listopadu“ Zítko nově přepočítává podle juliánského kalendáře na 18. 11. („zítra je 5. listopadu podle V jako vendeta juliánského kalendáře“), na den schůzky v Šen-čenu.
+**Zdroj:** [ČsTV2 — Živě: „Hra na Čermáka skončila“ (4. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-hra-na-čermáka-skončila-4-11-2026), [ČsTV2 — Živě: „Víkendové povzbuzení“ — falešné profily a sázka na Čermáka (7. 11. 2026)](_zdroje.md#československo-tv2--živě-peterková-víkendové-povzbuzení-7-11-2026), [ČsTV2 — Živě: „Sametový podvod“ (17. 11. 2026)](_zdroje.md#československo-tv2--živě-zítko-sametový-podvod-17-11-2026)
 
 ---
 

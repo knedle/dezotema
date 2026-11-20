@@ -6512,3 +6512,11 @@
 - **Datum záznamu:** 2026-11-16, dopoledne (soubor datován 17. 11. podle data stažení)
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 16 min. Asi 75 % času Zítko předčítá cizí příspěvky (Sofia Esmeralda, Trump TV, Míša Nogová, Hana Hana a další), asi 15 % je reklama na Bevit a osobní spory. Zpracováno 7 témat, většinou jako doplnění k 13.–15. 11. Predikce: upřesnění testu EBS 17. 11. a nový záznam (JFK Jr., 27. 11.). Stochastický teror: von der Leyenová před vojenským tribunálem. Hraniční (nezapsáno): ČT a „budoucí vojenské tribunály“, převyprávěný „zrušený zákaz vraždy Zelenského“, zopakovaná nadávka Herrmannovi. Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.
+
+## Československo TV2 — Živě: „Sametový podvod“ (17. 11. 2026) {#československo-tv2--živě-zítko-sametový-podvod-17-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-18_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt)
+- **Kanál:** Československo TV2 (vysíláno na půjčeném kanálu Jana Peterková Official 3)
+- **URL:** <https://m.facebook.com/watch/?v=1792412555818296&_rdr>
+- **Datum záznamu:** 2026-11-17, dopoledne (soubor datován 18. 11. podle data stažení)
+- **Zpracováno:** ano
+- **Poznámka:** 2 h 36 min, „17/11 Sametový podvod 11:11“. Vlastní řeč Zítka tvoří asi 40 %. Zbytek je cizí obsah: rozhovor se Zifčákem (Prima 2019), Ivan Mládek, klip Mirai a Farná, dobové záběry a asi 57 minut čteného článku Eduarda Kuly o vykrádání bank. Zpracováno 9 témat, většinou jako doplnění. Predikce: doplněno k EBS 17. 11. a k „V jako vendeta“ (juliánský 18. 11.). Stochastický teror nezjištěn (hraniční: „západní Němci… jsou to všechno svině“, „velezrádci po zásluze potrestáni“ bez konkrétního terče). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.
