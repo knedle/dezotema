@@ -875,11 +875,15 @@ Demonstrace k 17. listopadu bere Rajchl „naprosto v klidu“, asi pojede na do
 
 > „Jak ze svátku, který v podstatě oslavoval pluralitu názorů a demokracii, si ti pravdoláskaři udělali svůj vítězný únor.“ — Jindřich Rajchl
 
+**17. 11.** — Ve slavnostním projevu ke svátku, tedy v ohlášeném komentáři, Rajchl opakuje, že si svátek „uzurpovala skupina lidí, která se považuje za ty lepší, chytřejší a vzdělanější“. Tím, že píská na lidi s jiným názorem, podle něj „pošlapává odkaz“ listopadu. Odpůrce prý „ostrakizuje, dehonestuje a reputačně likviduje“ a vrací tak „vládu jedné strany“. Cituje Voltaira („budu až do smrti bojovat za vaše právo to říkat“) a k listopadu se hlásí: „My jsme byli u toho. Často mnohem blíže než ti, kteří na nás dnes pískají.“ ⚡ Nově staví 17. listopad 1939, vzepření studentů nacistické říši, nad rok 1989 jako „mnohem významnější den“ a „zásadní milník“ státnosti. U roku 1989 vzpomíná na „zarytě antikomunistického“ otce a radost z návratu demokracie, ale dodává „nechme teď stranou, kdo tyto události zosnoval“. Tím se aspoň naznačením přibližuje Černohorského výkladu řízeného převratu (viz níže), na rozdíl od 8. 11., kdy pád režimu jen označil za správný. O privatizaci viz [ekonomická kolonie](suverenita-eu.md#trojnásobně-nižší-mzdy-při-stejných-cenách--čr-jako-ekonomická-kolonie).
+
+> „Bohužel tito lidé si ze 17. listopadu udělali svůj vítězný únor.“ — Jindřich Rajchl
+
 **14. 11. — Černohorský** jde dál. „Rádoby sametovou revoluci“ označuje za podvod, který připravil Západ se „zkorumpovanými parchanty z KSČ a StB“, aby se rozkradl národní majetek vybudovaný dnešními seniory z trosek. Průmysl podle něj na konci války cíleně rozbombardovali Američané (Škodovka, generál Patton: „dobrá práce“). Rozdělení Československa podle něj „se bohužel muselo stát“, jinak byl naplánován „balkánský scénář“. Fialovu vládu považuje za nejzkorumpovanější „za celých 37 let“, horší než kupónová privatizace. ⚡ Na rozdíl od Rajchla, který pád režimu považuje za správný, chápe Černohorský celý listopad 1989 jako řízený podvod. Na svého dědu, který „opravdu věřil“ v socialismus a z KSČ odešel kvůli „zlodějům“, vzpomíná s uznáním.
 
 > „Ta rádoby sametová revoluce, tady tenhle ten podvod, který připravoval samozřejmě Západ se zkorumpovanýma parchantama z KSČ a samozřejmě StB.“ — Jiří Černohorský
 
-**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026), [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026)
+**Zdroje:** [Rajchl — Nedělní vysílání: ČT, neziskovky, Krakov, plyn (8. 11. 2026)](_zdroje.md#jindřich-rajchl--nedělní-vysílání-kavčí-hory-neziskovky-8-11-2026), [Černohorský — Facebook Live 14. 11. 2026](_zdroje.md#jiří-černohorský--facebook-live-14-11-2026), [Rajchl — Projev k 17. listopadu: „vítězný únor“ (17. 11. 2026)](_zdroje.md#jindřich-rajchl--17-listopad-vítězný-únor-17-11-2026)
 
 ---
 

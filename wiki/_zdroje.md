@@ -6472,3 +6472,11 @@
 - **Datum záznamu:** 2026-11-16
 - **Zpracováno:** ano
 - **Poznámka:** 3 min, výstřižek z televizní debaty (natočeno zřejmě v den Letné). Témata opakují jeho vysílání z 15. 11., nově jen konfrontace s výrokem ze září 2022.
+
+## Jindřich Rajchl — Projev k 17. listopadu: „vítězný únor“ (17. 11. 2026) {#jindřich-rajchl--17-listopad-vítězný-únor-17-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-17_Jindřich-Rajchl_Nedopusťme-aby-si-skupina-osob-jež-se-považuje-za-mor.txt)
+- **Kanál:** Jindřich Rajchl
+- **URL:** <https://www.facebook.com/100063460865205/videos/28453426144335296>
+- **Datum záznamu:** 2026-11-17
+- **Zpracováno:** ano
+- **Poznámka:** 7 min, slavnostní projev ke státnímu svátku (komentář ohlášený 8. 11.).
