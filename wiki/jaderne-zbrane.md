@@ -237,3 +237,14 @@ Ke zprávě o prvním společném francouzsko-britském cvičení jaderného úd
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026)
 
 ---
+
+### Summit Trump–Putin–Si: Vrabel vítá shodu, že jaderná válka nesmí být vedena, a Siho návrh „zlikvidovat všechny jaderné zbraně“; jaderný deštník s Francií je dál „špatná cesta“ (Vrabel, 19. 11. 2026) {#jaderne-odzbrojeni-summit-vrabel-19-11-2026}
+
+Shodu tří lídrů, že jaderná válka nesmí být vedena, a dialog o snižování jaderných rizik Vrabel vítá jako „jedinou správnou cestu k míru“. S návrhem Si Ťin-pchinga zlikvidovat všechny jaderné zbraně „absolutně“ souhlasí a navrhuje jaderný materiál použít jako palivo do elektráren. Opakuje, že jaderné odstrašení nefunguje a memorandum s Francií o „jaderném deštníku“ je špatná cesta: omylem zasažená hlavice na území ČR by znamenala katastrofu na desetiletí. Babišova odpověď, že vláda žádné rozmístění „neplánuje“, podle něj nesedí s tím, že se o memorandu s Francií mluví přes půl roku. Za zastánce odstrašení označuje Pavla i Babiše.
+
+> „Absolutně s ním souhlasím, prostě, že by se měly zlikvidovat všechny jaderné zbraně, rozebrat ten jaderný obsah.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
+
+---
+

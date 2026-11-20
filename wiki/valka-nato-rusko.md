@@ -1710,7 +1710,11 @@ Vrabel rozvíjí scénář, v němž se Trump, Putin a Si dohodnou na sférách 
 
 > „Jestli prostě Evropa nedá pokoj a Rusové začnou to brát tak, že teda jako je čas se nějakým způsobem poprat s Evropou, tak to udělají takhle.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+**19. 11.** — Vrabel podrobně přebírá ruský výklad příčin války: převrat v roce 2013, „neonacisté“ ve vládě, Minsk 1 a 2 a odmítnuté ruské návrhy z roku 2021 (návrat NATO k roku 1997). Podobný problém podle něj hrozí v Estonsku a Litvě s asi 30 % Rusů. Popisuje tři scénáře: diplomacii přes Trumpův obrat, které dává malou šanci, pokračování války, nebo rozšíření konfliktu do evropských zemí, „a to je to, co předpokládám“. Evropa podle něj nekapituluje „po dvou týdnech“, válka potrvá „minimálně pár měsíců“ a z 99 % vyhraje Rusko. Pak Rusové nadiktují novou bezpečnostní architekturu s nárazníkovou zónou, ale Evropu okupovat nebudou. EU ustoupit nemůže, protože je „jeden velký vojenský pakt“ proti Rusku a její politici by se zhroutili. Putinovo pozvání Evropanů do Moskvy podmíněné „konstruktivními návrhy“ vykládá jako jedinou cestu k jednání. Výrok Mette Frederiksenové, že Trumpovo setkání s Putinem je „nepochopitelné“, glosuje slovy „je to jasné jako facka“.
+
+> „A předpokládám, z 99 % předpokládám, že je jasné, že vyhraje Ruská federace, tak až Ruská federace vyhraje, tak se bude dělat nová bezpečnostní architektura skutečně.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 
@@ -1721,6 +1725,26 @@ Kritiku ukrajinských úderů hluboko v Rusku od amerického náměstka Elbridge
 > „I kdyby v životě nebyli v Rusku, v životě nepotkali Rusa, nikdy neviděli ruskej pas a nikdy neviděli ani rubl, tak to musí být Rusové.“ — Ladislav Vrabel
 
 **Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+
+---
+
+### Po summitu Trump–Putin–Si: „nový světový pořádek“, EU „propadla do bezvýznamnosti“, USA „nebudou zasahovat“ — Rusko má „otevřené dveře“ (Vrabel, 19. 11. 2026) {#summit-trump-putin-si-multipolarita-vrabel-19-11-2026}
+
+První trojstrannou schůzku USA, Ruska a Číny Vrabel označuje za potvrzení multipolárního světa, o kterém mluví od roku 2022, a jednání podle něj „dopadla přesně tak, jak jsem očekával“. EU se podle něj od roku 2015 „propadla do bezvýznamnosti“ politicky, ekonomicky i technologicky a ČR by měla zvažovat BRICS. Místo toho Babiš zakázal referendum o EU a Havlíček podepíše dlouhodobé kontrakty na energie z USA, které jsou podle něj zhruba čtyřikrát dražší než ruské. Trumpův výrok „Vladimir Putin je můj kamarád“ chápe jako vzkaz Evropě i koalici ochotných: Rusko „může pokračovat s Ukrajinou tak, jak potřebuje“ a USA do toho „prakticky nebudou zasahovat“. Rusko tak má „otevřené dveře“ na Ukrajině i „směrem k Evropě“, což by mohl změnit jen Kongres s demokratickou většinou. Putinovo prohlášení, že po útocích na Krymský most „nebudou žádné dohody“, bere jako potvrzení. Zprávy o „poníženém Putinovi“ v Číně odmítá jako výmysl „progresivistických lživých hlupáků“: Si byl na summitu „nejsilnější“, ale pro Rusko šlo o historický moment. Obrannou dohodu USA s Venezuelou přirovnává k mafiánské „ochraně“ z Kmotra.
+
+> „Je to ukázka především toho, že tady máme nový světový pořádek, že tady máme multipolární svět.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
+
+---
+
+### Trump z NATO nevystoupí, protože ho „ovládá“ a prodává mu zbraně; Rutte „ohebný jako chobotnice“ (Vrabel, 19. 11. 2026) {#rutte-trump-nato-vrabel-19-11-2026}
+
+Spekulace, že zrušení summitu NATO v Albánii souvisí s Trumpovým odchodem z aliance, Vrabel odmítá: USA NATO vytvořily, řídí ho a prodávají mu zbraně, takže „proč by z ní pro boha vystupovali, když ji ovládají“. Generální tajemník Rutte, který tvrdí, že schůzka USA, Ruska a Číny „není problém“, je podle něj „velmi ohebný“ a „jede na všechny strany“ (Zelenskyj, Babiš, Trump jako „náš táta“). K „ohebným“ řadí také Babiše, Pavla a Rajchla, kdežto Fiala a Rakušan jsou podle něj „lemplové“, kteří se neohnou. Rutteho pak hrubě uráží jako „hysterickou buznu na steroidech“ (hraniční výrok, viz poznámku ve zdroji).
+
+> „Proč by z ní pro boha vystupovali, když ji ovládají. To je naprostý nesmysl.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 

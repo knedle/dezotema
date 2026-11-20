@@ -342,7 +342,11 @@ Ke zprávě o rekordních 1 336 dronech sestřelených nad Ruskem a o útoku na 
 
 > „Osobně bych řekl, že zaútočila koalice ochotných společně s Ukrajinou, skrze Ukrajinu na Krymský most.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+**19. 11.** — Nizozemská firma Destinus oznámila, že na Krymský most byly použity její střely Ruta. Vrabel to bere jako potvrzení své teze, že most „zničili Ukrajinci a Evropané“, a Nizozemsko je podle něj po Francii (mise Volia) další zemí „potenciálně ve válce s Ruskem“. Situace podle něj „eskaluje naprosto brutálním způsobem“. Připomíná vlastní předpověď z doby před americkými volbami, že po několika týdnech „euforie“ přijde výrazné zhoršení. Euforie podle něj trvala čtyři až pět týdnů a končí právě summitem.
+
+> „Obávám se, že tím ta euforie končí.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 

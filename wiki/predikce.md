@@ -45,7 +45,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** po schůzce v Šen-čenu (19. 11. 2026), jinak neurčeno; polský Sejm 17. 11. 2026
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
+**19. 11.** — Lídři se podle Vrabela shodli, že „jaderná válka nesmí být vedena“, a Rusko má teď „otevřené dveře“ na Ukrajině i „směrem k Evropě“. Predikci tak považuje za naplněnou.
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 
@@ -129,7 +130,8 @@ Chronologický přehled konkrétních předpovědí z přepisů — výroků, kd
 
 **Horizont:** neurčeno (předčasné volby); neurčeno (válka)
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026)
+**19. 11.** — K válce Vrabel popisuje tři scénáře a „předpokládá“ rozšíření konfliktu do evropských zemí na „minimálně pár měsíců“ a z 99 % vítězství Ruska, po němž přijde nová bezpečnostní architektura s nárazníkovou zónou.
+**Zdroj:** [Ladislav Vrabel — Nedělní vysílání 15. 11. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-15-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 
@@ -221,7 +223,8 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 
 **Horizont:** neurčeno
 **Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026)
+**19. 11.** — Po summitu Vrabel říká, že jednání „dopadla přesně tak, jak jsem očekával“. Trumpův výrok „Putin je můj kamarád“ chápe jako signál, že USA nebudou zasahovat. Zda jde o rozdělení sfér („Trump do Íránu, Putin do Evropy, Čína Tajvan“), nechává otevřené („těžko říct“).
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 9. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-9-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 ### Ladislav Vrabel — bez změny systému bude za 20 let česky mluvit nanejvýš polovina obyvatel, za 40 let menšina (8. 11. 2026)
@@ -404,8 +407,9 @@ Odpoledne ve Facebook Live dodává, že další vláda bude „velmi silně pro
 > „Kdybyste se mi zeptali, kolik vsázím na to, že bude dosažený […] kompletního mírovýho řešení, trvalýho, tak mně připadá, že tam ta velká šance není.“ — Ladislav Vrabel
 
 **Horizont:** Abú Zabí; Šen-čen 18.–19. 11. 2026
-**Stav:** 🕐 Čeká na vyhodnocení
-**Zdroj:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026)
+**Stav:** ⚠️ Částečně — summit v Šen-čenu (19. 11.) podle Vrabelova vysílání skončil bez mírové dohody pro Ukrajinu; Abú Zabí viz dřívější poznámky
+**19. 11.** — Podle Vrabelova popisu summit v Šen-čenu přinesl shodu o jaderné bezpečnosti, ne mír na Ukrajině. Putin prohlásil, že po útocích na Krymský most „nebudou žádné dohody“, a Vrabel dodává: „Rusko nepřestane na Ukrajině.“
+**Zdroj:** [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 

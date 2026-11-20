@@ -6552,3 +6552,11 @@
 - **Datum záznamu:** 2026-11-18
 - **Zpracováno:** ano
 - **Poznámka:** 1 h 7 min, v den zahájení summitu APEC v Šen-čenu. K 17. listopadu se nevrací. Cizí audio a video (píseň Rasputin, petiční video Radovana Dluhého, klip s jaderným kufříkem) nezpracováno. 21 témat v denním přehledu, 14 s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: Zelenskyj „se bude smažit v pekle tisíce let“ bez výzvy k trestu, „někteří Ukrajinci jsou prostě náckové“). Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.
+
+## Ladislav Vrabel — Zprávy v devět 19. 11. 2026 {#ladislav-vrabel--zprávy-v-devět-19-11-2026}
+- **Soubor:** [přepis](prepisy/done/2026-11-19_Ladislav-Vrabel_19-11-2026-Zprávy-v-devět-s-komentářem.txt)
+- **Kanál:** Ladislav Vrabel
+- **URL:** <https://www.facebook.com/100087923704145/videos/1163072202744545>
+- **Datum záznamu:** 2026-11-19
+- **Zpracováno:** ano
+- **Poznámka:** 1 h 14 min, v den summitu Trump–Putin–Si. 23 témat v denním přehledu, 15 s vlastním úhlem (⚡) v 7 sekcích. Predikce: doplněna vyhodnocení k 7., 9., 15. a 16. 11. Stochastický teror nezapsán. Hraniční: Rutte jako „hysterická buzna na steroidech“ (urážka bez výzvy k trestu) a tvůrci systému poplatků by „měli být odsouzení“ a „zametat ulice“ (bez jmenovaného terče). Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.

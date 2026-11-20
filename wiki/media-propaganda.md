@@ -257,7 +257,11 @@ Vrabel tvrdí, že lidé, které nezajímají cizí vojáci ani francouzské jad
 
 **7. 11. (Boldy)** — Konspirátor Boldy považuje domácí politiku („Babiš, Okamura“) za „stupidní věci“, se kterými lidé stejně nic nezmění, a protesty za poplatky ČT za „frašky“, které organizují neziskové organizace: „vyšleme blbečky do ulic a musí protestovat, chceme poplatky“.
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026), [Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026)](_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026)
+**19. 11.** — Ke zprávě, že dluhy na poplatcích dosáhly 349 mil. Kč (189 tisíc upomínek, 20 tisíc případů k vymáhání), Vrabel říká, že povinné poplatky jsou nesmysl a že je „zločinné“ tahat lidi do exekucí a brát jim domy kvůli tomu, „že nezaplatili za válečnou propagandu“. Zavřít ČT by byla škoda a komercializace by ji vydala „oligarchům a globalistům“. Navrhuje model „jako Národní divadlo“: dobrovolné příspěvky nebo platbu z rozpočtu, volenou radu a kontrolu ze strany lidí. Kdyby byl generálním ředitelem, „všechno by vyházel“ a angažoval by mimo jiné Janu Bobošíkovou a Petra Bureše. Lidé, kteří systém vymysleli, by podle něj „měli všichni být odsouzení“ a „jít zametat ulice“. K výroku mluvčího německé vlády, že koalice ochotných má důležitější témata než financování českých veřejnoprávních médií, poznamenává, že Češi „řeší nepodstatné věci“.
+
+> „Ty lidi by měli všichni být odsouzení za to, co vymysleli a prosazují tenhle systém. Ty by měli jít normálně zametat ulice.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 24. 10. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-24-10-2026), [Ladislav Vrabel — Facebook Live (24. 10. 2026)](_zdroje.md#ladislav-vrabel--facebook-live-24-10-2026), [Ladislav Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026), [Ladislav Vrabel — Zprávy v devět 7. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-7-11-2026), [Boldy — Opravdové zločiny: svobodní zednáři (7. 11. 2026)](_zdroje.md#konspirátor-boldy--opravdové-zločiny-svobodní-zednáři-7-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 
@@ -563,7 +567,11 @@ Ke zprávě, že EU zmrazila majetek a zakázala cestování irskému novináři
 
 > „Jestli to je dneska v Irsku, tak bych čekal, že v České republice to přijde tak do půl roku, maximálně do roku.“ — Ladislav Vrabel
 
-**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+**19. 11.** — Po irském novináři je podle Vrabela pod tlakem norský profesor Glenn Diesen, „jeden z nejlepších podcasterů“: ministerstvo prý zveřejnilo fotografie jeho domu a on odchází z Norska. V EU podle něj „jede jedna lež“, že Rusko bezdůvodně zahájilo válku a chystá se napadnout Evropu, „a kdokoliv, kdo má mozek, tak musí být likvidovaný“. Uvádí případy Tommyho Robinsona a Russella Branda a tvrdé tlaky čeká i na sebe.
+
+> „Kdokoliv, kdo má mozek, tak musí být likvidovaný.“ — Ladislav Vrabel
+
+**Zdroje:** [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026), [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ---
 

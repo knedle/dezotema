@@ -333,6 +333,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **22. 6.** — vítá stávku ČT/ČRo (doporučuje trvalou), ČT = válečná/globalistická propaganda; Minář placená nastrčená figurka (Halík mu pomáhal s diplomkou) — [Zprávy v devět 22. 6.](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-22-6-2026)
 - **13. 11.** — Reichelt (NIUS), „ČT není nezávislé médium“ → [media-propaganda.md](../media-propaganda.md#reichelt-nius-vrabel-13-11-2026) — [Zprávy v devět 13. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-13-11-2026)
 - **18. 11.** — sankce EU na irského novináře, v ČR „do roka“ → [media-propaganda.md](../media-propaganda.md#sankce-novinar-vrabel-18-11-2026) — [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+- **19. 11.** — Diesen, „kdo má mozek, musí být likvidovaný“; dluhy na poplatcích ČT a model „jako Národní divadlo“ → [media-propaganda.md](../media-propaganda.md) — [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 
@@ -437,6 +438,7 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - **16. 11.** — Krymský most jako útok „koalice ochotných skrze Ukrajinu“, odveta i vůči plátcům zbraní → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#krymsky-most-koalice-vrabel-16-11-2026); dohoda USA–Rusko o jaderném neútočení otevře Rusku cestu k Evropě, Tajvan → [valka-nato-rusko.md](../valka-nato-rusko.md#rusko-dobude-evropu-vrabel-15-11-2026) — [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 - **17. 11.** — Francouzská mise Volia: Rusko a Francie „prakticky ve válce“; Trump „90 %“ nesplní, Čína budoucnost → [valka-nato-rusko.md](../valka-nato-rusko.md#eumam-neutoceni-vrabel-11-11-2026) — [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 - **18. 11.** — Šen-čen jako „milník“ a „multipolární svět“, představa dohody velmocí (Írán, Kuba, Grónsko, Tajvan, Evropa) → [valka-nato-rusko.md](../valka-nato-rusko.md#sfery-vlivu-vrabel-14-11-2026); Colby a „musí to být Rusové“ → [valka-nato-rusko.md](../valka-nato-rusko.md#colby-polsko-false-flag-vrabel-18-11-2026); Landovský „spojka globalistů“ → [nato-zbrojeni-militarizace.md](../nato-zbrojeni-militarizace.md#landovsky-aspen-vrabel-18-11-2026) — [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+- **19. 11.** — po summitu „nový světový pořádek“, EU „bezvýznamná“, Rusko má „otevřené dveře“ → [valka-nato-rusko.md](../valka-nato-rusko.md#summit-trump-putin-si-multipolarita-vrabel-19-11-2026); tři scénáře, rozšíření války do Evropy, Rusko vyhraje „z 99 %“ → [valka-nato-rusko.md](../valka-nato-rusko.md#rusko-dobude-evropu-vrabel-15-11-2026); Trump z NATO nevystoupí, Rutte „ohebný“ → [valka-nato-rusko.md](../valka-nato-rusko.md#rutte-trump-nato-vrabel-19-11-2026); Nizozemsko a Krymský most → [valka-ukrajina-prubeh.md](../valka-ukrajina-prubeh.md#krymsky-most-koalice-vrabel-16-11-2026); jaderné odzbrojení → [jaderne-zbrane.md](../jaderne-zbrane.md#jaderne-odzbrojeni-summit-vrabel-19-11-2026) — [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
 
 ### [Politický systém](../politicky-system.md)
 - Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů z 2023 — [Facebook Live 14. 7.](../_zdroje.md#ladislav-vrabel--facebook-live-14-7-2026)
@@ -2445,6 +2447,16 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 | Benjamin Netanjahu | ❌ negativní | „Prohraný“ | 2026-11-18 | [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026) |
 | Volodymyr Zelenskyj | ❌ negativní | „Se bude smažit v pekle tisíce a tisíce let“, „miliony mrtvých“ | 2026-11-18 | [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026) |
 | Prorok Mohamed | ❌ negativní | Vzor islámského práva, údajné sňatky s dětmi | 2026-11-18 | [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026) |
+| Si Ťin-pching | ✅ pozitivní | „Nejsilnější“ na summitu, návrh zlikvidovat jaderné zbraně | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Vladimir Putin | ✅ pozitivní | Summit jako historický moment, podmínky pro Evropany „jasné jako facka“ | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Donald Trump | ⚖️ rozporuplný | „Není žádný mírotvůrce“, ale dal Rusku „otevřené dveře“; z NATO nevystoupí | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Karel Havlíček | ❌ negativní | Energie z USA asi čtyřikrát dražší | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Andrej Babiš, Petr Pavel, Jindřich Rajchl | ❌ negativní | „Ohební“ jako Rutte; Babiš zakázal referendum o EU | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Petr Fiala, Vít Rakušan | ❌ negativní | „Lemplové“ | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Mark Rutte | ❌ negativní | „Ohebný jako chobotnice“, hrubé urážky | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Mette Frederiksenová | ❌ negativní | Setkání „nepochopitelné“, Vrabel: „jasné jako facka“ | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Glenn Diesen, Tommy Robinson, Russell Brand | ✅ pozitivní | Oběti tlaku na nezávislé hlasy | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
+| Jana Bobošíková, Petr Bureš | ✅ pozitivní | Angažoval by je do ČT | 2026-11-19 | [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026) |
 
 ---
 
@@ -2661,3 +2673,4 @@ Pravidelně vysílá živé večerní zprávy s komentářem na Facebooku (zprav
 - [Ladislav Vrabel — Zprávy v devět 16. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-16-11-2026)
 - [Ladislav Vrabel — Zprávy v devět 17. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-17-11-2026)
 - [Ladislav Vrabel — Zprávy v devět 18. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-18-11-2026)
+- [Ladislav Vrabel — Zprávy v devět 19. 11. 2026](../_zdroje.md#ladislav-vrabel--zprávy-v-devět-19-11-2026)
