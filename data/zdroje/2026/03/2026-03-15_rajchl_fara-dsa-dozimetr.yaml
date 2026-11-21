@@ -150,8 +150,6 @@ vyroky:
   text: |-
     Rajchl označuje za hlavní příčinu napětí mezi českou a ukrajinskou komunitou „servilitu" části českých politiků a neziskovkářů vůči ukrajinskému narativu. Odkazuje na výrok novinářky Saši Uhlové v DVTV, podle níž české děti zabírají místa na středních školách těm ukrajinskými, a označuje tuto logiku za absurdní.
 
-    Tarabová přidává konkrétní bezpečnostní rozměr (26. 4. 2026): od roku 2022 dramaticky narůstá kybernetická kriminalita — telefonní šmejdi se vydávají za bankéře nebo policisty a vylákávají peníze od seniorů. Odborníci na kyberbezpečnost toto narůstání přímo spojují se začátkem ukrajinské migrace. Vedle toho část Ukrajinců pobírá sociální dávky neoprávněně: fyzicky pobývají na Ukrajině a jednou měsíčně přijíždějí dávky vyzvednout. Státní týmy přitom monitorují „nebezpečné komentáře na internetu" místo vyšetřování zmíněné kriminality. Za řešení považuje automatické vyhoštění všech cizinců, kteří na území ČR spáchají trestný čin.
-
     Rajchl v krátkém videu z 1. května 2026 přidává ekonomický rozměr: chápe, proč nadnárodní korporace vítají ukrajinskce zaměstnance (pracují za nižší mzdy), ale z pohledu českých občanů a jejich pracovních míst a mezd jde o pohromu. Deklaruje, že bude vždy stát na straně českých občanů.
   citace:
   - text: Největším problémem je právě ta servilita, s níž řada českých politiků a právě těchto různých
@@ -159,7 +157,6 @@ vyroky:
   - text: Chápu, že pro nadnárodní korporace jsou ukrajinští zaměstnanci ochotní pracovat za nižší mzdy
       hotovou výhrou. Ale pro naše občany, jejich pracovní místa a výši jejich mezd jsou pohromou.
   dalsi_zdroje:
-  - 2026-04-26_tarabova_nedelni-zive-vysilani-suverenita-migrace-bitcoin-kauza-26-4
   - 2026-05-01_rajchl_ukrajinski-zamestnanci-a-ceske-mzdy-1-5-2026
 - id: rajchl-2026-03-15-12
   typ: tvrzeni

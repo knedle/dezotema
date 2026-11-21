@@ -54,15 +54,12 @@ vyroky:
   temata:
   - konspirace-ceskoslovensko
   nadpis: Sametová revoluce jako řízený rozpad StB a KGB
-  text: |-
-    Jiří Černohorský tvrdí, že sametová revoluce v roce 1989 byla naplánovaným rozkladem Československa organizovaným ze Západu, na němž se podíleli Václav Havel a Karel Schwarzenberg již v 80. letech. Havla označuje za člena „kolaborantské rodiny", Schwarzenberga za cizího státního příslušníka.
-
-    Pavel Zítko tuto interpretaci přijímá a rozvíjí: sametová revoluce byla dle jím čteného slovenského článku „puč provedený pod dirigentskou taktovkou StB a KGB" za pomoci agentů-zivčáků. Vysvětluje, proč komunisté po roce 1989 nijak neutrpěli — naopak ze dne na den se stali největšími podnikateli, protože měli informace o kupónové privatizaci, kterou Zítko označuje za „zlodějinu za bílého dne, kde se rozkrádalo bohatství Československa".
+  text: Jiří Černohorský tvrdí, že sametová revoluce v roce 1989 byla naplánovaným rozkladem Československa
+    organizovaným ze Západu, na němž se podíleli Václav Havel a Karel Schwarzenberg již v 80. letech.
+    Havla označuje za člena „kolaborantské rodiny", Schwarzenberga za cizího státního příslušníka.
   citace:
   - text: To, co se odehrálo v 89., byl naplánovaný rozvrat Československa, a na tomhle naplánovaném rozvratu
       Československa se podílel už tehdy Václav Havel a Schwarzenberg.
-  dalsi_zdroje:
-  - 2026-04-09_zitko_vecernik-8-dubna-havel-a-rozdeleni-ceskoslovenska-9-4-2026
 - id: cernohorsky-2025-06-08-05
   typ: tvrzeni
   temata:

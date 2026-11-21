@@ -22,6 +22,16 @@ vyroky:
 - id: vrabel-2026-05-03-01
   typ: tvrzeni
   temata:
+  - covid-vakciny
+  nadpis: 'Matthias Desmet: teorie Mass Formation — základ covidové poddajnosti (Rajchl a Vrabel, květen
+    2026)'
+  text: 'Vrabel dodává, že masová formace vytváří totalitarismus: „20 % společnosti pohání totalitarismus.
+    60 % jde s proudem. 20 % odolává." Jedinou obranou je dle Desmeta mluvit pravdu upřímně a neustále
+    — ne proto, že to změní zasažené 30 %, ale proto, že to drží živé vědomí zbývajících 20 %.'
+  podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
+- id: vrabel-2026-05-03-02
+  typ: tvrzeni
+  temata:
   - media-propaganda
   nadpis: RT.com a Sputnik blokovány českými poskytovateli internetu — Vrabel (3. 5. 2026)
   text: |-
@@ -29,7 +39,7 @@ vyroky:
 
     Vrabel zároveň informoval, že v souběžné vlastní právní kauze vyhrál případ u Ústavního soudu v otázce svobody slova. Blíží se mu ale jiný rozsudek — 25. 5. 2026 — v samostatné věci, kde mu hrozí podmíněný trest.
   podtema: Blokace zahraničních médií v ČR
-- id: vrabel-2026-05-03-02
+- id: vrabel-2026-05-03-03
   typ: tvrzeni
   temata:
   - suverenita-eu
@@ -39,7 +49,7 @@ vyroky:
 
     Vrabel zdůrazňuje klíčový bod: **Schengen a členství v EU jsou dvě oddělené věci.** Norsko, Island nebo Švýcarsko jsou v Schengenu bez členství v EU — ČR by mohla zachovat volný pohyb osob a zboží i po případném odchodu z EU. Vstup do EU a Schengen jsou dvě oddělené mezinárodní smlouvy.
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
-- id: vrabel-2026-05-03-03
+- id: vrabel-2026-05-03-04
   typ: tvrzeni
   temata:
   - valka-ukrajina-prubeh
@@ -49,7 +59,7 @@ vyroky:
     zvolen s mandátem ukončit válku na Donbasu, ale místo toho válku eskaloval a způsobil statisíce mrtvých.
     Z mandátu, který dostal, vyvodil pravý opak — Vrabel to označuje za zradu voličů v té nejtěžší kategorii.'
   podtema: Stav Ukrajiny a mobilizace
-- id: vrabel-2026-05-03-04
+- id: vrabel-2026-05-03-05
   typ: tvrzeni
   temata:
   - nato-zbrojeni-militarizace
@@ -59,7 +69,7 @@ vyroky:
     Macinka podepsal bez veřejné debaty přistoupení ČR k různým vojenským závazkům (bunker koalice, F-35
     zálohy) a pokračuje v kurzu, který ČR z pohledu Ruska staví do role spolupachatele.
   podtema: NATO, zbrojení a militarizace ČR/Evropy
-- id: vrabel-2026-05-03-05
+- id: vrabel-2026-05-03-06
   typ: tvrzeni
   temata:
   - vetrniky

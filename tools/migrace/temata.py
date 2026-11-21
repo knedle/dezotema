@@ -8,7 +8,7 @@ from __future__ import annotations
 
 import re
 from collections import Counter, defaultdict
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 from datetime import date, timedelta
 from urllib.parse import unquote
 
@@ -41,6 +41,10 @@ class Jednotka:
     duvod: str = ""
     zpusob: str = ""
     vyrok_id: str | None = None                  # jen pro jednotku sloučenou pripoj_neprirazene()
+    zdroje_radky: list[list[str]] = field(default_factory=list)  # kotvy po řádcích „Zdroje:“
+    odstavce_mluvci: list[str | None] = field(default_factory=list)  # mluvčí začátku odstavců
+    kapitola_datum: date | None = None           # datum / mluvčí z nadpisu nadřazené `##`
+    kapitola_mluvci: str | None = None
 
 
 # ---------------------------------------------------------------- mluvčí
@@ -257,9 +261,11 @@ def parsuj_stranku(md: str, tema_slug: str, osoby: dict[str, Osoba] | None = Non
     out: list[Jednotka] = []
     kapitola: str | None = None
     kap_kotvy: list[str] = []
+    kap_hlav: tuple = (None, None)
     for i, (uroven, nadpis, kotvy, telo, explicitni) in enumerate(bloky):
         if uroven <= 2:
             kapitola, kap_kotvy = (nadpis, kotvy) if uroven == 2 else (None, [])
+            kap_hlav = _hlavicka(nadpis, idx) if uroven == 2 else (None, None)
             if uroven == 1 or not any(_ZDROJE.match(r) for r in telo):
                 continue  # úvod stránky / kapitoly bez zdrojů -> není jednotka
             kap = None
@@ -267,8 +273,12 @@ def parsuj_stranku(md: str, tema_slug: str, osoby: dict[str, Osoba] | None = Non
             kap = kapitola
         else:
             continue
-        out.extend(_parsuj_sekci(tema_slug, kap, nadpis, telo, idx, i, kotvy, kap_kotvy,
-                                 explicitni))
+        sekce_j = _parsuj_sekci(tema_slug, kap, nadpis, telo, idx, i, kotvy, kap_kotvy,
+                                explicitni)
+        if uroven == 3:
+            for j in sekce_j:
+                j.kapitola_datum, j.kapitola_mluvci = kap_hlav
+        out.extend(sekce_j)
     return out
 
 
@@ -276,7 +286,10 @@ def _parsuj_sekci(tema, kapitola, nadpis, telo, idx, sekce, kotvy, kap_kotvy, ex
     h_datum, h_mluvci = _hlavicka(nadpis, idx)
     pool: list[str] = []
     ostatni: list[str] = []
+    radky_zdroju: list[list[str]] = []
     for r in telo:
+        if _ZDROJE.match(r):
+            radky_zdroju.append([unquote(k) for k in _KOTVA_ZDROJE.findall(r)])
         cil = pool if _ZDROJE.match(r) else ostatni
         for k in _KOTVA_ZDROJE.findall(r):
             k = unquote(k)
@@ -288,7 +301,8 @@ def _parsuj_sekci(tema, kapitola, nadpis, telo, idx, sekce, kotvy, kap_kotvy, ex
         return Jednotka(tema, kapitola, nadpis, datum, mluvci, "", [], list(pool), explicitni,
                         den_mesic=dm, uvod=uvod, kvalifikator=kval, sekce=sekce,
                         sekce_kotvy=list(kotvy) if uvod else [],
-                        kapitola_kotvy=list(kap_kotvy))
+                        kapitola_kotvy=list(kap_kotvy),
+                        zdroje_radky=[list(x) for x in radky_zdroju])
 
     jednotky = [nova(h_datum, h_mluvci, True)]
     texty: list[list[str]] = [[]]
@@ -328,14 +342,19 @@ def _parsuj_sekci(tema, kapitola, nadpis, telo, idx, sekce, kotvy, kap_kotvy, ex
     out = []
     for j, t in zip(jednotky, texty):
         j.text = re.sub(r"\n{3,}", "\n\n", "\n".join(t)).strip()
-        slova = re.sub(r"^\*\*[^*]*\*\*", "", j.text).lstrip(" —–:-").split()[:3]
-        j.mluvci_textu = next((o for o in (_osoba(w, idx) for w in slova) if o), None)
+        j.mluvci_textu = _mluvci_zacatku(j.text, idx)
+        j.odstavce_mluvci = [_mluvci_zacatku(o, idx) for o in j.text.split("\n\n")]
         if j.uvod and not j.text and not j.citace:
             continue
         out.append(j)
     if out and not out[0].uvod:
         out[0].sekce_kotvy = list(kotvy)
     return out
+
+
+def _mluvci_zacatku(text: str, idx: dict[str, str]) -> str | None:
+    slova = re.sub(r"^\*\*[^*]*\*\*", "", text).lstrip(" —–:-").split()[:3]
+    return next((o for o in (_osoba(w, idx) for w in slova) if o), None)
 
 
 def _bezpecne(y, m, d) -> date | None:
@@ -369,9 +388,9 @@ def prirad(jednotky: list[Jednotka], mapa: dict[str, str], zdroje_by_id: dict[st
         if isinstance(z.datum, date):
             podle_md[(z.mluvci, z.datum)].append(z)
 
-    def globalne(j: Jednotka, datum: date) -> list[Zdroj]:
+    def globalne(j: Jednotka, datum: date, mluvci: str | None = None) -> list[Zdroj]:
         """Zdroj mimo odkazy sekce: stejný mluvčí a datum (±1 den) v celém archivu."""
-        mluvci = j.mluvci or j.mluvci_textu
+        mluvci = j.mluvci or j.mluvci_textu or mluvci
         if not mluvci:
             return []
         for delta in (0, -1, 1):
@@ -384,6 +403,8 @@ def prirad(jednotky: list[Jednotka], mapa: dict[str, str], zdroje_by_id: dict[st
     sekce: dict[tuple[str, int], list[int]] = defaultdict(list)
     for n, j in enumerate(jednotky):
         sekce[(j.tema, j.sekce)].append(n)
+    presunute = _oprav_presunute_radky(jednotky, sekce, mapa, zdroje_by_id)
+    navic: dict[int, list[tuple[Jednotka, str]]] = defaultdict(list)
 
     for cleny in sekce.values():
         prvni = jednotky[cleny[0]]
@@ -466,6 +487,10 @@ def prirad(jednotky: list[Jednotka], mapa: dict[str, str], zdroje_by_id: dict[st
             if not kand and j.datum:
                 kand = globalne(j, j.datum)
                 j.zpusob = "globalne"
+            if not kand and not pool and j.kapitola_datum:
+                # sekce bez odkazů: datum a mluvčí z nadřazeného nadpisu `##`
+                kand = globalne(j, j.kapitola_datum, j.kapitola_mluvci)
+                j.zpusob = "kapitola"
             if not kand and pool and j.mluvci:
                 # host / jiný mluvčí ve zdroji jiné osoby: nejstarší zdroj sekce, mluvčí se přepíše
                 volne = [z for z in pool if z.id not in pouzite] or pool
@@ -482,6 +507,15 @@ def prirad(jednotky: list[Jednotka], mapa: dict[str, str], zdroje_by_id: dict[st
             z = _vyber(kand, j, pouzite)
             pouzite.add(z.id)
             vysledek[n] = z.id
+            if n in presunute:
+                j.zpusob = "presunuty-radek-zdroju"
+            # odstavec jiného mluvčího uvnitř úvodu -> vlastní jednotka pro jeho zdroj sekce
+            vlastni = j.mluvci or z.mluvci
+            for ciz in [x for x in pool if x.id not in pouzite and x.mluvci != vlastni]:
+                nova = _oddel_odstavce(j, ciz)
+                if nova is not None:
+                    pouzite.add(ciz.id)
+                    navic[n].append((nova, ciz.id))
 
         # 3) zbylé zdroje sekce -> dalsi_zdroje první přiřazené jednotky (přednostně úvodu)
         prirazene_cleny = [n for n in cleny if n in vysledek]
@@ -491,9 +525,62 @@ def prirad(jednotky: list[Jednotka], mapa: dict[str, str], zdroje_by_id: dict[st
                 if z.id not in pouzite and z.id not in jednotky[hlavni].dalsi_zdroje:
                     jednotky[hlavni].dalsi_zdroje.append(z.id)
 
-    prirazene = [(j, vysledek[n]) for n, j in enumerate(jednotky) if n in vysledek]
+    prirazene = []
+    for n, j in enumerate(jednotky):
+        if n in vysledek:
+            prirazene.append((j, vysledek[n]))
+            prirazene.extend(navic.get(n, []))
     neprirazene = [j for n, j in enumerate(jednotky) if n not in vysledek]
     return prirazene, neprirazene
+
+
+def _oprav_presunute_radky(jednotky, sekce, mapa, zdroje_by_id) -> set[int]:
+    """Řádek „Zdroje:“ omylem pod následující sekcí: sekce bez odkazů, další sekce téže
+    stránky má víc řádků Zdroje a některý z nich patří jen mluvčímu předchozí sekce.
+    Kotvy se přesunou (mění jednotky na místě). Vrací indexy jednotek, které je dostaly."""
+    klice = list(sekce)
+    out: set[int] = set()
+    for a, b in zip(klice, klice[1:]):
+        if a[0] != b[0]:
+            continue
+        pa, pb = jednotky[sekce[a][0]], jednotky[sekce[b][0]]
+        if pa.kotvy_zdroju or len(pb.zdroje_radky) < 2:
+            continue
+        mluvci_a = pa.mluvci or pa.mluvci_textu
+        mluvci_b = pb.mluvci or pb.mluvci_textu
+        if not mluvci_a or mluvci_a == mluvci_b:
+            continue
+        for radek in reversed(pb.zdroje_radky):
+            zz = [zdroje_by_id.get(mapa.get(k)) for k in radek]
+            if radek and all(z is not None and z.mluvci == mluvci_a for z in zz):
+                for n in sekce[a]:
+                    jednotky[n].kotvy_zdroju = list(radek)
+                    out.add(n)
+                for n in sekce[b]:
+                    jednotky[n].kotvy_zdroju = [k for k in jednotky[n].kotvy_zdroju
+                                                if k not in radek]
+                break
+    return out
+
+
+def _oddel_odstavce(j: Jednotka, ciz: Zdroj) -> Jednotka | None:
+    """Odstavce úvodu začínající jménem mluvčího zdroje `ciz` (ne první odstavec) se oddělí
+    do nové jednotky; končí před odstavcem, který začíná jiným jménem."""
+    odst = j.text.split("\n\n")
+    mluv = j.odstavce_mluvci if len(j.odstavce_mluvci) == len(odst) else [None] * len(odst)
+    k = next((i for i in range(1, len(odst)) if mluv[i] == ciz.mluvci), None)
+    if k is None:
+        return None
+    m = next((i for i in range(k + 1, len(odst)) if mluv[i] and mluv[i] != ciz.mluvci),
+             len(odst))
+    nova = replace(j, uvod=False, mluvci=ciz.mluvci, text="\n\n".join(odst[k:m]), citace=[],
+                   datum=ciz.datum, den_mesic=None, sekce_kotvy=[], dalsi_zdroje=[],
+                   odstavce_mluvci=mluv[k:m], zpusob="odstavec-jineho-mluvciho",
+                   mluvci_textu=ciz.mluvci)
+    zbytek = odst[:k] + odst[m:]
+    j.text = "\n\n".join(zbytek)
+    j.odstavce_mluvci = mluv[:k] + mluv[m:]
+    return nova
 
 
 # ---------------------------------------------------------------- výroky

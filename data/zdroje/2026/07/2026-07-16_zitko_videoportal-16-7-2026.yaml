@@ -78,6 +78,18 @@ vyroky:
 - id: zitko-2026-07-16-06
   typ: tvrzeni
   temata:
+  - covid-vakciny
+  nadpis: SMS-ky s Bourlou a objednávka 10 vakcín na obyvatele
+  text: 'Zítko rozvíjí narativ „Pfizergate": Ursula von der Leyen měla přes nedohledatelné SMS domluvit
+    s Albertem Bourlou (Pfizer) nákup vakcín za desítky miliard dolarů — dle jeho výpočtu přibližně 4,5
+    miliardy dávek pro EU, tedy asi 10 vakcín na každého obyvatele včetně kojenců. Bourlu opakovaně označuje
+    za „veterináře", u nějž prý všechna testovaná zvířata na mRNA uhynula. Navazuje na již dokumentované
+    teze o začerněných smlouvách a nákupu za 100+ mld. EUR bez odpovědnosti výrobců (viz [Soudní dvůr
+    EU: Komise pochybila utajením smluv](#soudní-dvůr-eu-komise-pochybila-utajením-vakcinačních-smluv-vrabel-11-6-2026)).'
+  podtema: „Pfizergate" a rod von der Leyenových (Zítko, 16. 7. 2026)
+- id: zitko-2026-07-16-07
+  typ: tvrzeni
+  temata:
   - kauzy
   nadpis: Perzekuce kritiků covidu v zahraničí — Rose, Noack, Gold (Zítko, 16. 7. 2026)
   text: 'Zítko sdílí sérii zahraničních svědectví, která dává do paralely s domácími případy (Zítko, Peková,
@@ -92,7 +104,7 @@ vyroky:
   dalsi_zdroje:
   - 2026-06-12_zitko_fullmich-zive-z-vezeni-12-6-2026
   podtema: Trestní stíhání kritiků covidu
-- id: zitko-2026-07-16-07
+- id: zitko-2026-07-16-08
   typ: tvrzeni
   temata:
   - kauzy
@@ -102,7 +114,7 @@ vyroky:
     Zítka srovnatelná závažností) se stala i Petru Fialovi a Petru Pavlovi, aniž by to média jakkoli řešila
     — na rozdíl od Turkovy kauzy, která je nepřetržitě medializována.'
   podtema: Filip Turek — dopravní nehoda a tlak na rezignaci
-- id: zitko-2026-07-16-08
+- id: zitko-2026-07-16-09
   typ: tvrzeni
   temata:
   - konspirace
@@ -113,7 +125,7 @@ vyroky:
 
     ⚡ **Poznámka:** Teorie o „Tartárii" je rozšířená internetová konspirace bez historického podkladu.
   podtema: Náboženský a okultní výklad moci
-- id: zitko-2026-07-16-09
+- id: zitko-2026-07-16-10
   typ: tvrzeni
   temata:
   - konspirace
@@ -123,7 +135,7 @@ vyroky:
 
     ⚡ **Poznámka:** Neověřené QAnon tvrzení bez opory v ověřitelných zdrojích.
   podtema: Náboženský a okultní výklad moci
-- id: zitko-2026-07-16-10
+- id: zitko-2026-07-16-11
   typ: tvrzeni
   temata:
   - media-propaganda
@@ -142,7 +154,7 @@ vyroky:
     by v takovém případě vyšly do ulic statisíce lidí z Milionu chvilek. Vyzývá diváky, aby žádali vrácení
     koncesionářských poplatků od 12. 3. 2020 i odškodnění za újmu na zdraví způsobenou vysíláním ČT.'
   podtema: Nová alternativní média
-- id: zitko-2026-07-16-11
+- id: zitko-2026-07-16-12
   typ: tvrzeni
   temata:
   - politicky-system

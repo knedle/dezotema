@@ -85,6 +85,18 @@ vyroky:
 - id: rajchl-2026-07-05-04
   typ: tvrzeni
   temata:
+  - suverenita-eu
+  nadpis: 'Von der Leyen: bez nových vlastních zdrojů klesne rozpočet EU o 40 % — souvislost s financováním
+    Ukrajiny (Vrabel, 4. 7. 2026)'
+  text: 'Rajchl (5. 7.) i Vrabel (5. 7.) na totéž oznámení reagují nezávisle na sobě shodným odmítnutím:
+    Rajchl vzkazuje, že by jako premiér EU „ani vindru" nedal a rozpočet EU by nechal škrtnout klidně
+    o 40 % (obsahuje prý hlavně klimatickou agendu, Ukrajinu a „LGBTQ"), Vrabel dodává přesnější kontext
+    programu „Savings and Investments" (von der Leyenová dlouhodobě cílí na soukromé úspory Evropanů,
+    odhadem 300–600 mld. eur) jako alternativního zdroje k navýšení daní.'
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: rajchl-2026-07-05-05
+  typ: tvrzeni
+  temata:
   - valka-ukrajina-prubeh
   nadpis: Formální návrh na odebrání Řádu bílého lva Zelenskému — jednomyslná podpora SPD, pozitivní reakce
     Polska a Slovenska (Rajchl, 5. 7. 2026)
@@ -101,7 +113,7 @@ vyroky:
     letech pomoci za 226 mld. Kč plivla do obličeje") tím chtěl ukázat solidaritu V4. Návrh přivítal europoslanec
     Jaroslav Tyška v Polsku (50 tis. lajků) i místopředseda Slovenské národní rady Andrej Danko.
   podtema: Stav Ukrajiny a mobilizace
-- id: rajchl-2026-07-05-05
+- id: rajchl-2026-07-05-06
   typ: tvrzeni
   temata:
   - valka-ukrajina-prubeh

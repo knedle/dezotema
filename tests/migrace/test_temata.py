@@ -341,6 +341,93 @@ def test_unassigned_duplicate_heading_joins_existing_vyrok():
     assert v.temata == ["fara-neziskovky", "kauzy"]
 
 
+PRESUNUTE = """## Ceny
+
+### Pekarová: plat 394 tisíc (Černohorský)
+
+Černohorský se vrací k platům politiků.
+
+---
+
+### Odklad valorizace důchodů (Vrabel, 15. 7. 2026)
+
+Vrabel to sarkasticky srovnává s chlebíčky.
+
+**Zdroje:** [Vrabel](_zdroje.md#vrabel-15-7)
+
+**Zdroje:** [Černohorský — Brno](_zdroje.md#cerno-6-4)
+
+---
+"""
+
+ZDROJE_FIX = {z.id: z for z in [
+    _z("v157", "vrabel", "Facebook Live 15. 7. 2026", date(2026, 7, 15)),
+    _z("c64", "cernohorsky", "Brno a Landsmannschaft", date(2026, 4, 6)),
+    _z("v315", "vrabel", "Nedělní vysílání", date(2026, 5, 31)),
+    _z("r315", "rajchl", "Facebook Live 31. 5. 2026", date(2026, 5, 31)),
+    _z("z167", "zitko", "Videoportál 16. 7. 2026", date(2026, 7, 16)),
+]}
+MAPA_FIX = {"vrabel-15-7": "v157", "cerno-6-4": "c64", "v-31-5": "v315", "r-31-5": "r315"}
+
+
+def test_misplaced_sources_line_moves_to_previous_section():
+    js = T.parsuj_stranku(PRESUNUTE, "politicky-system", OSOBY)
+    assert js[1].zdroje_radky == [["vrabel-15-7"], ["cerno-6-4"]]
+    p, n = T.prirad(js, MAPA_FIX, ZDROJE_FIX)
+    assert n == []
+    assert [(j.nadpis[:8], z) for j, z in p] == [("Pekarová", "c64"), ("Odklad v", "v157")]
+    assert all(j.dalsi_zdroje == [] for j, _ in p)
+    assert p[0][0].zpusob == "presunuty-radek-zdroju"
+
+
+ODSTAVEC = """## K
+
+### Kryptoměny: sledování státem (Vrabel, 31. 5. 2026)
+
+Vrabel tvrdí, že stát sleduje kryptoměny.
+
+Kvantové počítače podle něj prolomí šifry.
+
+Rajchl ve svém vysílání doplňuje, že EU chystá registr peněženek.
+
+**Zdroje:** [Vrabel](_zdroje.md#v-31-5), [Rajchl](_zdroje.md#r-31-5)
+"""
+
+
+def test_paragraph_of_other_speaker_split_into_own_unit():
+    js = T.parsuj_stranku(ODSTAVEC, "digitalni-kontrola", OSOBY)
+    assert js[0].odstavce_mluvci == ["vrabel", None, "rajchl"]
+    p, n = T.prirad(js, MAPA_FIX, ZDROJE_FIX)
+    assert n == []
+    (j1, z1), (j2, z2) = p
+    assert z1 == "v315" and j1.dalsi_zdroje == []
+    assert "Rajchl" not in j1.text and j1.text.endswith("prolomí šifry.")
+    assert z2 == "r315" and j2.mluvci == "rajchl" and not j2.uvod
+    assert j2.text.startswith("Rajchl ve svém vysílání") and j2.nadpis == j1.nadpis
+    assert j2.zpusob == "odstavec-jineho-mluvciho"
+    s = T.sestav_vyroky(p, ZDROJE_FIX)
+    assert [v.id for vs in s.vyroky.values() for v in vs] == ["vrabel-2026-05-31-01",
+                                                              "rajchl-2026-05-31-01"]
+
+
+def test_parent_heading_fallback_for_section_without_sources():
+    md = """## „Pfizergate" a rod von der Leyenových (Zítko, 16. 7. 2026)
+
+Úvod kapitoly.
+
+**Zdroje:** [Zítko](_zdroje.md#z-16-7)
+
+### SMS-ky s Bourlou a objednávka 10 vakcín
+
+Narativ o SMS zprávách.
+"""
+    js = T.parsuj_stranku(md, "covid-vakciny", OSOBY)
+    sms = js[-1]
+    assert sms.kapitola_datum == date(2026, 7, 16) and sms.kapitola_mluvci == "zitko"
+    p, n = T.prirad([sms], {}, ZDROJE_FIX)
+    assert n == [] and p[0][1] == "z167" and p[0][0].zpusob == "kapitola"
+
+
 def test_unassigned_duplicate_with_different_text_stays_for_review():
     a = T.parsuj_stranku(MULTI, "fara-neziskovky", OSOBY)
     b = T.parsuj_stranku(MULTI.split("**Zdroje:**")[0].replace("autora", "jediného autora")

@@ -103,6 +103,19 @@ vyroky:
 - id: vrabel-2026-07-27-07
   typ: tvrzeni
   temata:
+  - suverenita-eu
+  nadpis: Sankce EU brání Španělsku hasit požáry ruskými vrtulníky Kamov (Boldy, 27. 7. 2026)
+  text: '**Téhož dne** — Vrabel nezávisle přináší stejnou zprávu s dalšími detaily: deset ruských hasicích
+    vrtulníků Ka-32 zůstalo ve Španělsku na zemi, protože provozovatelé (soukromé firmy najímané místními
+    samosprávami) kvůli sankcím EU nemohou sehnat náhradní díly ani servis od ruských specialistů; roli
+    hraje i pozastavení certifikace ze strany Evropské agentury pro bezpečnost letectví (EASA). Dodává,
+    že požáry zasáhly i oblíbenou oblast jihozápadní Francie kolem Bordeaux (pláže Biscarrosse, Hossegor)
+    a že podle jedné z divaček oheň postupuje ke zbrojařským závodům — ironicky doufá, že to uspíší nasazení
+    hasicí techniky.'
+  podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
+- id: vrabel-2026-07-27-08
+  typ: tvrzeni
+  temata:
   - valka-ukrajina-prubeh
   nadpis: 'Putin: západní Ukrajina by mohla připadnout Polsku, Maďarsku a Rumunsku (Vrabel, 27. 7. 2026)'
   text: Ruský prezident Vladimir Putin v posledním vystoupení uvedl, že západní části Ukrajiny by v budoucnu
@@ -116,7 +129,7 @@ vyroky:
     že export ukrajinského obilí (dříve 80 % přes Černé moře) je nyní blokován ruským uzavřením přístavů
     u Oděsy, což dále prohlubuje ukrajinskou fiskální závislost na západních půjčkách.
   podtema: Vyjednávání a mír
-- id: vrabel-2026-07-27-08
+- id: vrabel-2026-07-27-09
   typ: tvrzeni
   temata:
   - nato-zbrojeni-militarizace
@@ -133,7 +146,7 @@ vyroky:
     Číny, Ruska, Íránu a Severní Koreje — komentuje to jako další krok k odstřižení dodavatelských řetězců
     mezi znepřátelenými bloky.
   podtema: EU jako vojenská struktura
-- id: vrabel-2026-07-27-09
+- id: vrabel-2026-07-27-10
   typ: tvrzeni
   temata:
   - valka-nato-rusko
@@ -148,7 +161,7 @@ vyroky:
     poté jeho násilné vyloučení. Řadí to do jedné linie s dřívějším rozborem chorvatské operace Oluja
     (1995) a se svým dlouhodobým tvrzením o cíleném vyvražďování Rusů na Ukrajině od roku 2014.'
   podtema: Zahraniční aktéři a precedenty
-- id: vrabel-2026-07-27-10
+- id: vrabel-2026-07-27-11
   typ: tvrzeni
   temata:
   - vetrniky

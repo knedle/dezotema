@@ -135,6 +135,24 @@ def krok_temata(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
             holy[a] = vid
         else:
             kolize.setdefault(a, []).append(k)
+    # dalsi_zdroje s jiným mluvčím než výrok -> seznam k ruční kontrole
+    kotva_sekce = {}
+    for j in jednotky:
+        if j.sekce_kotvy:
+            kotva_sekce.setdefault((j.tema, j.sekce), f"{j.tema}.md#{j.sekce_kotvy[0]}")
+    cizi = []
+    for (j, zid), vid in zip(prirazene, s.id_jednotek):
+        mluvci = j.mluvci or by_id[zid].mluvci
+        for d in j.dalsi_zdroje:
+            if d in by_id and by_id[d].mluvci != mluvci:
+                cizi.append({"vyrok": vid, "zdroj": zid, "cizi_zdroj": d,
+                             "cizi_mluvci": by_id[d].mluvci,
+                             "stara_kotva": kotva_sekce.get((j.tema, j.sekce)),
+                             "nadpis": j.nadpis, "vynatek": j.text[:300]})
+    (root / "data" / "migrace" / "dalsi-zdroje-cizi.json").write_text(
+        json.dumps(cizi, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"  dalsi_zdroje s cizím mluvčím (k ruční kontrole): {len(cizi)}")
+
     out = {"stranky": stranky_map, "kotvy": holy, "kolize": kolize,
            "kapitoly": kapitoly_map, "bez_vyroku": bez_vyroku}
     (root / "data" / "migrace" / "stare-kotvy.json").write_text(
