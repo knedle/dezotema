@@ -2,7 +2,7 @@
 
 Sněmovní seminář **„Příliš drahý vítr — co vše se skrývá za projekty VTE a FVE"** (větrné a fotovoltaické elektrárny) pod záštitou poslance PRO Jindřicha Rajchla. Příspěvky řečníků byly postupně sdíleny na kanálu **Lenky Tarabové**.
 
-Tato stránka je **kompletní zpracování** všech příspěvků z konference — u každého řečníka jsou zachycena **všechna témata** z jeho vystoupení. Kondenzované tematické verze jsou i na stránce [Větrné elektrárny](../vetrniky.md).
+Tato stránka je **kompletní zpracování** všech příspěvků z konference — u každého řečníka jsou zachycena **všechna témata** z jeho vystoupení. Kondenzované tematické verze jsou i na stránce [Větrné elektrárny](../temata/vetrniky.md).
 
 > **Poznámka:** Hosté semináře (Turánek, Zlínský, Cimprichová, Svoboda, Zwyrtek Hamplová, Ondrušová) jsou jednorázoví řečníci — nemají vlastní stránku osoby. Tvrzení níže jsou jejich postoji a přesvědčeními, zachycená jako dokumentace názorů bez hodnocení jejich pravdivosti.
 
@@ -24,7 +24,7 @@ Tato stránka je **kompletní zpracování** všech příspěvků z konference �
 
 ## 1. Jindřich Rajchl — úvodní projev
 
-[zdroj](../_zdroje.md#jindřich-rajchl--seminář-příliš-drahý-vítr-12-6-2026) · [kondenzovaně ve Větrné elektrárny](../vetrniky.md#seminář-příliš-drahý-vítr-green-deal-jako-ideologie-akcelerační-zóny-farizejství-ochránců--rajchl-12-6-2026)
+[zdroj](../zdroje/2026-06.md#2026-06-12_rajchl_seminar-prilis-drahy-vitr-12-6-2026) · [kondenzovaně ve Větrné elektrárny](../temata/vetrniky.md#rajchl-2026-06-12-03)
 
 - **Energetická debata bez věcného obsahu.** Diskuse o směřování energetiky se podle Rajchla redukuje na hesla („potřebujeme obnovitelné zdroje, abychom zastavili klimatickou změnu"). Označuje to za „absolutní odklon od zdravého rozumu" a „čistou ideologii": *„ideologie vás vždycky stojí peníze. Vždycky."*
 - **Green Deal jako nástroj zničení Evropy.** Připomíná, že kritici (na covidovém semináři „paní Cipro") jsou označováni za „proruské dezinformátory" a že jedna představitelka EU nazvala Green Deal „zbraní proti Putinovi". Rajchl obrací argument: kdyby Čína a Rusko chtěly Evropu zničit, stačilo by jim Green Deal podpořit — „zničí Evropu spolehlivěji a dříve než jakýkoliv válečný konflikt". Evropě podle něj klesá podíl na světovém HDP kvůli „hloupé politice bruselských sociálních inženýrů".
@@ -41,7 +41,7 @@ Tato stránka je **kompletní zpracování** všech příspěvků z konference �
 
 ## 2. prof. Jaroslav Turánek — odborná přednáška
 
-[zdroj](../_zdroje.md#jaroslav-turánek--přednáška-vte-fve-seminář-sdíleno-14-6-2026) · [kondenzovaně](../vetrniky.md#odborná-přednáška-pulzní-infrazvuk-eroze-lopatek-devastace-půdy-a-rozpad-venkova--turánek-seminář-sdíleno-14-6-2026)
+[zdroj](../zdroje/2026-06.md#2026-06-14_turanek_prednaska-vte-fve-seminar-sdileno-14-6-2026) · [kondenzovaně](../temata/vetrniky.md#turanek-2026-06-14-01)
 
 Téma: vliv VTE na zdraví obyvatel, biologickou integritu ekosystému, sociální soudržnost a potravinovou bezpečnost ČR — dopady jsou podle Turánka systematicky zamlčovány. Cituje Konfucia („vědět, co je správné, a neudělat to, je největší zbabělost") a tezi „čím větší je zájem v daném oboru, tím menší pravděpodobnost, že výzkumná zjištění jsou pravdivá".
 
@@ -64,7 +64,7 @@ Téma: vliv VTE na zdraví obyvatel, biologickou integritu ekosystému, sociáln
 
 ## 3. MUDr. Vladimír Zlínský — lékařská přednáška
 
-[zdroj](../_zdroje.md#vladimír-zlínský--přednáška-vte-fve-zdraví-seminář-sdíleno-15-6-2026) · [kondenzovaně](../vetrniky.md#lékařská-přednáška-jak-pulzní-infrazvuk-poškozuje-tělo-a-princip-předběžné-opatrnosti--zlínský-seminář-sdíleno-15-6-2026)
+[zdroj](../zdroje/2026-06.md#2026-06-15_zlinsky_prednaska-vte-fve-zdravi-seminar-sdileno-15-6-2026) · [kondenzovaně](../temata/vetrniky.md#zlinsky-2026-06-15-01)
 
 Navazuje na Turánka, zaměřuje se na zdraví. Připomíná své dřívější semináře (COVID-19, pokles porodnosti). Odborníka sdílejícího obavy o VTE prý v ČR nenašli; na seminář byli pozváni i zástupci koalice, opozice a mainstreamových médií — nikdo nepřišel.
 
@@ -83,7 +83,7 @@ Navazuje na Turánka, zaměřuje se na zdraví. Připomíná své dřívější 
 
 ## 4. Ing. Mgr. Pynelopi Cimprichová — prezentace
 
-[zdroj](../_zdroje.md#pynelopi-cimprichová--přednáška-vte-fve-zdraví-těhotných-a-plodu-seminář-sdíleno-17-6-2026) · [kondenzovaně](../vetrniky.md#pfas-na-vrtulích-infrazvuk-a-kortizol-dopady-na-těhotné-a-plod--cimprichová-seminář-sdíleno-17-6-2026)
+[zdroj](../zdroje/2026-06.md#2026-06-17_cimprichova_prednaska-vte-fve-zdravi-tehotnych-a-plodu-seminar-sdileno-1) · [kondenzovaně](../temata/vetrniky.md#cimprichova-2026-06-17-01)
 
 Prezentace o dopadech VTE na zdraví těhotných a plodu (s praxí na ministerstvu).
 
@@ -97,7 +97,7 @@ Prezentace o dopadech VTE na zdraví těhotných a plodu (s praxí na ministerst
 
 ## 5. Jakub Svoboda — prezentace (Ralsko)
 
-[zdroj](../_zdroje.md#jakub-svoboda--přednáška-vte-fve-ralsko-a-netransparentnost-seminář-sdíleno-18-6-2026) · [kondenzovaně](../vetrniky.md#netransparentnost-zón-srovnání-se-severem-a-stavby-na-chráněných-lokalitách--jakub-svoboda-seminář-sdíleno-18-6-2026)
+[zdroj](../zdroje/2026-06.md#2026-06-18_svoboda_prednaska-vte-fve-ralsko-a-netransparentnost-seminar-sdileno) · [kondenzovaně](../temata/vetrniky.md#svoboda-2026-06-18-01)
 
 Občanský aktivista z oblasti Ralska; díky jeho aktivitě se o akceleračních zónách v Ralsku vůbec vědělo.
 
@@ -114,7 +114,7 @@ Občanský aktivista z oblasti Ralska; díky jeho aktivitě se o akceleračních
 
 ## 6. Jana Zwyrtek Hamplová — právní přednáška
 
-[zdroj](../_zdroje.md#jana-zwyrtek-hamplová--přednáška-akcelerační-zóny-protiústavnost-seminář-sdíleno-20-6-2026) · [kondenzovaně](../vetrniky.md#právní-přednáška-akcelerační-zóny-jako-znásilnění-práva-a-protiústavnost--hamplová-seminář-sdíleno-20-6-2026)
+[zdroj](../zdroje/2026-06.md#2026-06-20_hamplova_prednaska-akceleracni-zony-a-protiustavnost-seminar-sdileno) · [kondenzovaně](../temata/vetrniky.md#hamplova-2026-06-20-01)
 
 Senátorka a advokátka (specializace: ústavní a správní právo, samospráva měst, obcí a krajů; ocenění Právník roku 2019). Spolupracuje dlouhodobě s Rajchlem. Téma akceleračních oblastí pojmenovala jako „znásilnění práva" — tvrdí, že se neptáme na základní otázku „A" (zda to vůbec patří do našeho právního řádu a je v souladu s ústavou), ale rovnou řešíme „B".
 
@@ -133,7 +133,7 @@ Senátorka a advokátka (specializace: ústavní a správní právo, samospráva
 
 ## 7. Ing. Katarína Ondrušová — petice Evropského parlamentu
 
-[zdroj](../_zdroje.md#katarína-ondrušová--petice-ep-04822021-a-zdraví-seminář-sdíleno-21-6-2026) · [kondenzovaně](../vetrniky.md#petice-ep-04822021-zdraví-nebo-zájmy-investorů-a-princip-předběžné-opatrnosti--ondrušová-seminář-sdíleno-21-6-2026)
+[zdroj](../zdroje/2026-06.md#2026-06-21_ondrusova_petice-ep-0482-2021-a-zdravi-seminar-sdileno-21-6-2026) · [kondenzovaně](../temata/vetrniky.md#ondrusova-2026-06-21-01)
 
 Slovenská aktivistka, která se dlouhodobě věnuje shromažďování a zpřístupňování informací o dopadech VTE na životní prostředí a kvalitu života; zdůrazňuje informované rozhodování, transparentní veřejnou debatu a respekt k názoru místních komunit. Označuje se za „Československo do své smrti"; odmítá nálepky „ruská agentka" / „dělají magii proti větrným parkům".
 

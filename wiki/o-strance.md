@@ -20,9 +20,9 @@ V současné době wiki zpracovává výstupy těchto kanálů a osobností:
 
 ## Jak wiki vzniká
 
-Každé video je nejprve přepsáno do textové podoby. Z přepisu jsou pak extrahovány konkrétní tvrzení, postoje a predikce, které jsou zařazeny do příslušných tematických stránek. Záznamy nikdy neříkají „X je pravda" — vždy popisují, co daná osoba tvrdí nebo zastává.
+Každé video je nejprve přepsáno do textové podoby. Z přepisu jsou pak extrahovány konkrétní tvrzení, postoje a predikce, které se uloží jako výroky u daného videa (s tématy, citacemi a zmíněnými osobami). Stránky témat, osob, predikcí a zdrojů se z těchto záznamů generují automaticky. Záznamy nikdy neříkají „X je pravda" — vždy popisují, co daná osoba tvrdí nebo zastává.
 
-Predikce jsou sledovány samostatně na stránce [Predikce](predikce.md) a průběžně vyhodnocovány.
+Predikce jsou sledovány samostatně na stránce [Predikce](predikce/index.md) a průběžně vyhodnocovány.
 
 ## Co wiki není
 

@@ -15,6 +15,10 @@ docs_dir: wiki
 hooks:
   - tools/archiv/hook.py
 
+# změna dat přegeneruje stránky i při `mkdocs serve`
+watch:
+  - data
+
 extra_javascript:
   - js/zdroje-filter.js
 
@@ -29,53 +33,3 @@ markdown_extensions:
         kwds:
           case: lower
 
-nav:
-  - Úvod: index.md
-  - Témata:
-    - Benešovy dekrety a sudetský sjezd: benesovy-dekrety.md
-    - Blízký východ: blizky-vychod.md
-    - Ceny energií: ceny-energie.md
-    - COVID a vakcíny: covid-vakciny.md
-    - Digitální kontrola: digitalni-kontrola.md
-    - DSA a cenzura: dsa-cenzura.md
-    - FARA a neziskovky: fara-neziskovky.md
-    - Jaderné zbraně a jaderná hrozba: jaderne-zbrane.md
-    - Kauzy a korupce: kauzy.md
-    - Konspirační teorie: konspirace.md
-    - "Konspirace: Československo": konspirace-ceskoslovensko.md
-    - "Konspirace: Deep State a QAnon": konspirace-deep-state-qanon.md
-    - Média a propaganda: media-propaganda.md
-    - Migrace a islamizace: migrace.md
-    - Petr Pavel: petr-pavel.md
-    - Politický systém: politicky-system.md
-    - Rodina a děti: rodina-deti.md
-    - Suverenita a EU: suverenita-eu.md
-    - Válka na Ukrajině — průběh a vyjednávání: valka-ukrajina-prubeh.md
-    - NATO, zbrojení a militarizace: nato-zbrojeni-militarizace.md
-    - Válka, NATO a Rusko (eskalace): valka-nato-rusko.md
-    - Větrné elektrárny: vetrniky.md
-    - Volby 2026 — komunální a senátní: volby-2026.md
-    - Predikce: predikce.md
-    - Stochastický teror: stochasticky-teror.md
-  - Osoby:
-    - Jindřich Rajchl: osoby/rajchl.md
-    - Lenka Tarabová: osoby/tarabova.md
-    - Konspirátor Boldy: osoby/boldy.md
-    - Pavel Zítko: osoby/zitko.md
-    - Jiří Černohorský: osoby/cernohorsky.md
-    - Soňa Peková: osoby/pekova.md
-    - Ladislav Vrabel: osoby/vrabel.md
-    - Adam Šejna: osoby/sejna.md
-  - Zpravodajství Vrábel:
-    - Listopad 2026: zpravodajstvi-vrabel/2026-11.md
-    - Říjen 2026: zpravodajstvi-vrabel/2026-10.md
-    - Září 2026: zpravodajstvi-vrabel/2026-09.md
-    - Srpen 2026: zpravodajstvi-vrabel/2026-08.md
-    - Červenec 2026: zpravodajstvi-vrabel/2026-07.md
-    - Červen 2026: zpravodajstvi-vrabel/2026-06.md
-    - Květen 2026: zpravodajstvi-vrabel/2026-05.md
-    - Duben 2026: zpravodajstvi-vrabel/2026-04.md
-  - Extra:
-    - Konference „Příliš drahý vítr": extra/prilis-drahy-vitr.md
-  - Zdroje: _zdroje.md
-  - O stránce: o-strance.md
