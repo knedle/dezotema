@@ -73,3 +73,11 @@ def test_zrelativni_korenove_odkazy():
     assert zrelativni(t, "temata/y/2026.md").startswith("[a](../x.md#id) [b](../../zdroje/2026-11.md#s)")
     assert zrelativni("[a](/temata/x.md)", "stochasticky-teror.md") == "[a](temata/x.md)"
     assert zrelativni("[a](/temata/x.md)", "temata/x.md") == "[a](x.md)"
+
+
+def test_zrelativni_nesaha_do_kodu_a_korenoveho_odkazu():
+    from tools.archiv.render.common import zrelativni
+    t = "`[a](/x.md)` [b](/x.md)\n```\n[c](/x.md)\n```\n[d](/)\n~~~md\n[e](/x.md)\n~~~\n[f](/y.md#k)"
+    assert zrelativni(t, "temata/p.md") == (
+        "`[a](/x.md)` [b](../x.md)\n```\n[c](/x.md)\n```\n[d](/)\n~~~md\n[e](/x.md)\n~~~\n"
+        "[f](../y.md#k)")

@@ -192,9 +192,14 @@ def srovnani(wiki_old: Path, archiv: Archiv, nezarazeno: dict | None = None,
     if po and po.is_file():
         od = json.loads(po.read_text(encoding="utf-8"))
         L += [f"## Odkazy přepsané v datech ({od['prelozeno']} z {od['celkem']})", "",
-              f"Neznámé odkazy zůstaly v textech beze změny ({len(od['nepreložené'])}):", ""]
-        L += [f"- `{o}`" for o in od["nepreložené"]] or ["- (žádné)"]
-        L.append("")
+              f"- Přeložené s existujícím cílem (stránka i kotva): {od['cil_existuje']}",
+              f"- Přeložené, ale cíl neexistuje: {len(od['cil_chybi'])}",
+              f"- Nepřeložené, mrtvé už ve staré wiki: {len(od['mrtve_ve_stare_wiki'])}",
+              f"- Nepřeložené, které ve staré wiki mohly fungovat (nově mrtvé): {len(od['nove_mrtve'])}",
+              ""]
+        for nadpis, k in (("Nově mrtvé", "nove_mrtve"), ("Přeložené s chybějícím cílem", "cil_chybi"),
+                          ("Mrtvé už ve staré wiki (zůstaly beze změny)", "mrtve_ve_stare_wiki")):
+            L += [f"### {nadpis}", ""] + ([f"- `{o}`" for o in od[k]] or ["- (žádné)"]) + [""]
     L += [f"## Osiřelé vnitřní odkazy ({len(osirele)} z {celkem} vnitřních odkazů)", "",
           "Odkazy ve staré wiki, jejichž cíl nelze přeložit na nový výrok, zdroj ani stránku "
           "(kotvy uvnitř `osoby/*`, `predikce.md`, `stochasticky-teror.md` a přehledu se "

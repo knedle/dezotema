@@ -64,3 +64,28 @@ def test_idempotence():
     p = _p()
     jednou = _t(p, "[a](vetrniky.md#stara)")
     assert _t(p, jednou) == jednou
+
+
+def test_hola_kotva_v_poznamce_zdroje_je_kotva_zdroje():
+    p = _p()
+    p.kotvy_zdroju["rajchl-live"] = "z2"
+    assert p.text("[a](#rajchl-live)", "z1", zdroje_prvne=True) == "[a](/zdroje/2026-11.md#z2)"
+    assert p.text("[a](#rajchl-live)", "v") == "[a](/zdroje/2026-11.md#z2)"    # záložní
+    assert p.text("[a](#holá)", "z1", zdroje_prvne=True) == "[a](/temata/vetrniky.md#zitko-1)"
+
+
+def test_vyhodnot_klasifikuje_odkazy():
+    from tools.migrace.odkazy import vyhodnot
+    p = _p()
+    p.text("[a](vetrniky.md#stara) [b](#neni) [c](vetrniky.md#nic) [d](zdroje.md)", "k")
+    v = vyhodnot(p, None)
+    assert v["cil_existuje"] == 1
+    assert v["cil_chybi"] == []
+    assert len(v["mrtve_ve_stare_wiki"]) == 3 and v["nove_mrtve"] == []
+
+
+def test_hola_kotva_kapitoly_jinde_a_nadpis_osoby():
+    p = _p()
+    p.kapitoly["ceny.md#kap"] = "zitko-1"
+    assert p.text("[a](#kap)", "z1") == "[a](/temata/vetrniky.md#zitko-1)"
+    assert p.text("[a](osoby/zitko.md#c)", "z1") == "[a](/osoby/zitko.md#c)"   # nadpis tématu "C"

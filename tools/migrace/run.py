@@ -228,8 +228,10 @@ def krok_souhrny(stara_wiki, root, mkdocs):
 
 def krok_odkazy(stara_wiki, root, mkdocs):
     from tools.migrace.odkazy import prepis_odkazy
-    r = prepis_odkazy(root)
-    print(f"odkazy: {r['prelozeno']} z {r['celkem']} přeloženo, {len(r['nepreložené'])} neznámých")
+    r = prepis_odkazy(root, stara_wiki)
+    print(f"odkazy: {r['prelozeno']} z {r['celkem']} přeloženo, {len(r['nepreložené'])} neznámých "
+          f"(mrtvé už ve staré wiki {len(r['mrtve_ve_stare_wiki'])}, nově mrtvé {len(r['nove_mrtve'])}, "
+          f"přeložené s chybějícím cílem {len(r['cil_chybi'])})")
 
 
 def krok_report(stara_wiki, root, mkdocs):

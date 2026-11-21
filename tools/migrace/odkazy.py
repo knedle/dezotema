@@ -30,6 +30,7 @@ class Prekladac:
         self.zdroje = {z.id: z for z in archiv.zdroje}
         self.prepisy = {Path(z.prepis).name for z in archiv.zdroje} | set(prepisy_navic)
         self.nepreložené: list[str] = []
+        self.zaznamy: list[tuple[str, str, str | None]] = []   # (kde, původní, nový/None)
         self.celkem = 0
         self.prelozeno = 0
 
@@ -47,10 +48,41 @@ class Prekladac:
                  else f"zdroje/{z.datum:%Y-%m}.md")
         return f"/{s}#{vid}"
 
-    def cil(self, url: str, zakladna: str, tema: str | None) -> str | None:
-        """Nový kořenový odkaz, nebo None (neznámý)."""
+    def _vid_libovolne(self, kotva: str):
+        """Výrok, na který míří kotva na kterékoli staré stránce (musí být jednoznačný)."""
+        cile = {v for sl in (self.stranky, self.kapitoly) for k, v in sl.items()
+                if k.partition("#")[2] == kotva}
+        return next(iter(cile)) if len(cile) == 1 else None
+
+    def nadpisy_osoby(self) -> set[str]:
+        """Kotvy nadpisů na vygenerované stránce osoby (pevné + názvy témat)."""
+        from tools.archiv.slug import slugify
+        return set(_NADPISY["osoby"]) | {slugify(t.nazev) for t in self.a.temata.values()}
+
+    def _zdroj_kotva(self, kotvy) -> str | None:
+        for k in kotvy:
+            z = self.zdroje.get(self.kotvy_zdroju.get(k, ""))
+            if z:
+                return f"/zdroje/{z.datum:%Y-%m}.md#{z.id}"
+        return None
+
+    def cil(self, url: str, zakladna: str, tema: str | None,
+            zdroje_prvne: bool = False) -> str | None:
+        """Nový kořenový odkaz, nebo None (neznámý). Holá `#kotva` je kotva tématu (a výroků),
+        nebo — v textech, které ve staré wiki žily na `_zdroje.md` (`zdroje_prvne`) — kotva zdroje;
+        druhá možnost je vždy záložní."""
         cesta, _, kotva = url.partition("#")
         kotvy = [kotva, unquote(kotva)] if kotva else []
+        if not cesta and kotvy:
+            zk = self._zdroj_kotva(kotvy)
+            if zdroje_prvne and zk:
+                return zk
+            for k in kotvy:
+                vid = self._vid(f"{tema}.md#{k}") if tema else None
+                vid = vid or self.hole.get(k) or self._vid_libovolne(k)
+                if vid:
+                    return self._cil_vyroku(vid, tema)
+            return zk
         if cesta:
             norm = posixpath.normpath(posixpath.join(zakladna, unquote(cesta)))
             while norm.startswith("../"):
@@ -94,7 +126,8 @@ class Prekladac:
                 return None
             if not kotva:
                 return f"/{norm}"
-            k = _PREJMENOVANE.get(unquote(kotva))
+            k = unquote(kotva)
+            k = _PREJMENOVANE.get(k) or (k if k in self.nadpisy_osoby() else None)
             return f"/{norm}#{k}" if k else None
         if norm.endswith(".md") and norm[:-3] in self.a.temata:
             slug = norm[:-3]
@@ -107,13 +140,15 @@ class Prekladac:
             return None
         return None
 
-    def text(self, text: str, kde: str, zakladna: str = "", tema: str | None = None) -> str:
+    def text(self, text: str, kde: str, zakladna: str = "", tema: str | None = None,
+             zdroje_prvne: bool = False) -> str:
         def nahrad(m):
             url = m.group(2)
             if re.match(r"^[A-Za-z][A-Za-z0-9+.-]*:", url) or url.startswith("/"):
                 return m.group(0)
             self.celkem += 1
-            novy = self.cil(url, zakladna, tema)
+            novy = self.cil(url, zakladna, tema, zdroje_prvne)
+            self.zaznamy.append((kde, url, novy))
             if novy is None:
                 self.nepreložené.append(f"{kde} -> {url}")
                 # neznámá kotva: cesta se opraví na správnou stránku, kotva zůstane (jen INFO v MkDocs)
@@ -126,6 +161,76 @@ class Prekladac:
         return ODKAZ.sub(nahrad, text)
 
 
+_NADPISY = {"osoby": {"zdroje", "podle-témat", "predikce", "stochastický-teror", "zmínění-lidé"},
+            "stochasticky-teror.md": {"přehled-výroků", "hraniční-případy", "poznámky"}}
+
+
+def _existuje(a: Archiv, novy: str, _cache: dict = {}) -> bool:
+    """Existuje v generovaném webu stránka i kotva `novy` (kořenový odkaz)? Kotvy výroků a zdrojů
+    se ověřují přesně, stránky mimo data (extra, index) jen podle stránky."""
+    klic = id(a)
+    if _cache.get("a") != klic:
+        kot: set[tuple[str, str]] = set()
+        for vid, (v, z) in a.vyroky.items():
+            for t in v.temata:
+                s = a.stranka_vyroku(vid, t)
+                if s:
+                    kot.add((s, vid))
+            if v.predikce or v.typ == "predikce":
+                kot.add((f"predikce/{z.datum:%Y-%m}.md", vid))
+        for z in a.zdroje:
+            kot.add((f"zdroje/{z.datum:%Y-%m}.md", z.id))
+        _cache.update(a=klic, kot=kot)
+    cesta, _, kotva = novy.lstrip("/").partition("#")
+    if not kotva:
+        return True
+    if (cesta, kotva) in _cache["kot"]:
+        return True
+    if cesta.startswith("osoby/"):
+        from tools.archiv.slug import slugify
+        return unquote(kotva) in (_NADPISY["osoby"] | {slugify(x.nazev) for x in a.temata.values()})
+    if cesta in _NADPISY:
+        return unquote(kotva) in _NADPISY[cesta]
+    return cesta.startswith(("extra/", "index", "o-strance"))
+
+
+def _kotvy_stare_wiki(stara: Path) -> set[str]:
+    """Všechny kotvy staré wiki: explicitní `{#x}` i slugifikované nadpisy."""
+    from tools.archiv.slug import slugify
+    out: set[str] = set()
+    for f in Path(stara).rglob("*.md"):
+        for r in f.read_text(encoding="utf-8-sig").splitlines():
+            m = re.match(r"^#{1,6}\s+(.*?)\s*(\{#([^}]+)\})?\s*$", r)
+            if m:
+                out.add(m.group(3) or slugify(m.group(1)))
+    return out
+
+
+def vyhodnot(p: Prekladac, stara_wiki: Path | None) -> dict:
+    """Klasifikace odkazů: přeložené s existujícím cílem / přeložené s chybějícím cílem /
+    nepřeložené mrtvé už ve staré wiki / nepřeložené, které ve staré wiki fungovaly (nově mrtvé)."""
+    stare = _kotvy_stare_wiki(stara_wiki) if stara_wiki and Path(stara_wiki).is_dir() else None
+    ok = chybi_cil = 0
+    mrtve_stare, mrtve_nove, jen_kotva = [], [], []
+    for kde, url, novy in p.zaznamy:
+        if novy is not None:
+            if _existuje(p.a, novy):
+                ok += 1
+            else:
+                chybi_cil += 1
+                jen_kotva.append(f"{kde} -> {url} => {novy}")
+            continue
+        kotva = unquote(url.partition("#")[2])
+        radek = f"{kde} -> {url}"
+        if stare is not None and kotva and kotva in stare:
+            mrtve_nove.append(radek)       # kotva ve staré wiki existovala -> odkaz mohl fungovat
+        else:
+            mrtve_stare.append(radek)
+    return {"cil_existuje": ok, "cil_chybi": sorted(set(jen_kotva)),
+            "mrtve_ve_stare_wiki": sorted(set(mrtve_stare)),
+            "nove_mrtve": sorted(set(mrtve_nove))}
+
+
 def _fyzicke_prepisy(root: Path) -> set[str]:
     """Přepisy ve wiki/prepisy/done i bez záznamu ve zdrojích (odkaz na ně je platný)."""
     d = Path(root) / "wiki" / "prepisy" / "done"
@@ -135,9 +240,9 @@ def _fyzicke_prepisy(root: Path) -> set[str]:
 def _zdroj(p: Prekladac, z) -> None:
     kde = z.id
     if z.poznamka:
-        z.poznamka = p.text(z.poznamka, kde)
+        z.poznamka = p.text(z.poznamka, kde, zdroje_prvne=True)
     for r in z.osoby:
-        r.kontext = p.text(r.kontext, kde)
+        r.kontext = p.text(r.kontext, kde, zdroje_prvne=True)
     for it in z.prehled:
         it.text = p.text(it.text, f"{kde} (přehled)")
     for v in z.vyroky:
@@ -159,7 +264,7 @@ def _souhrn(p: Prekladac, f: Path, kde: str, zakladna: str = "", tema: str | Non
         f.write_text(n, encoding="utf-8", newline="\n")
 
 
-def prepis_odkazy(root: Path) -> dict:
+def prepis_odkazy(root: Path, stara_wiki: Path | None = None) -> dict:
     """Přepíše odkazy v data/zdroje/** a data/souhrny/**; zapíše data/migrace/odkazy.json."""
     from tools.archiv.io import nacti_vse, uloz_zdroj
     from tools.migrace.run import _s_opakovanim
@@ -182,7 +287,7 @@ def prepis_odkazy(root: Path) -> dict:
     if (sou / "stochasticky-teror.md").is_file():
         _souhrn(p, sou / "stochasticky-teror.md", "souhrn stochasticky-teror")
     out = {"celkem": p.celkem, "prelozeno": p.prelozeno,
-           "nepreložené": sorted(set(p.nepreložené))}
+           "nepreložené": sorted(set(p.nepreložené)), **vyhodnot(p, stara_wiki)}
     (md / "odkazy.json").write_text(json.dumps(out, ensure_ascii=False, indent=1) + "\n",
                                     encoding="utf-8", newline="\n")
     return out

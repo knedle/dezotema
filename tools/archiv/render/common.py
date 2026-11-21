@@ -76,17 +76,23 @@ def render_vyrok(v: Vyrok, z: Zdroj, archiv: Archiv, rel: str) -> str:
     return "\n\n".join(bloky) + "\n"
 
 
-_KOREN_ODKAZ = re.compile(r"(\]\()/(?!/)([^)\s]*)")
+_KOREN_ODKAZ = re.compile(
+    r"(?P<kod>(?ms:^(?:```|~~~)[^\n]*\n.*?(?:^(?:```|~~~)[^\n]*$|\Z))|`+[^`\n]*`+)"
+    r"|(?P<pred>\]\()/(?!/)(?P<url>[^)\s]*)")
 
 
 def zrelativni(text: str, stranka: str) -> str:
     """Odkazy v datech jsou kořenové (`](/temata/x.md#id)`, kořen = wiki); při vykreslení stránky
-    `stranka` (cesta vůči wiki) se převedou na relativní. Jiné odkazy se nemění."""
+    `stranka` (cesta vůči wiki) se převedou na relativní. Jiné odkazy, kód (inline i ohraničený)
+    a `](/)` se nemění."""
     zakladna = posixpath.dirname(stranka) or "."
 
     def nahrad(m):
-        cesta, hash_, kotva = m.group(2).partition("#")
-        rel = posixpath.relpath(cesta, zakladna) if cesta else ""
-        return f"{m.group(1)}{rel}{hash_}{kotva}"
+        if m.group("kod") is not None:
+            return m.group(0)
+        cesta, hash_, kotva = m.group("url").partition("#")
+        if not cesta:
+            return m.group(0)
+        return f"{m.group('pred')}{posixpath.relpath(cesta, zakladna)}{hash_}{kotva}"
 
     return _KOREN_ODKAZ.sub(nahrad, text)
