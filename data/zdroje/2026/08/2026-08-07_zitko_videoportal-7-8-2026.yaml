@@ -8,11 +8,11 @@ zdroj:
   prepis: prepisy/done/2026-08-08_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: 00:45:41
-  poznamka: 'Zpracováno 3 témata: (1) trestní oznámení na Petra Fialu za „přípravu útočné války" — [kauzy.md](kauzy.md).
-    (2) trestní oznámení „genocida národa, vakcinační holokaust" — [covid-vakciny.md](covid-vakciny.md),
+  poznamka: 'Zpracováno 3 témata: (1) trestní oznámení na Petra Fialu za „přípravu útočné války" — [kauzy.md](/temata/kauzy.md).
+    (2) trestní oznámení „genocida národa, vakcinační holokaust" — [covid-vakciny.md](/temata/covid-vakciny.md),
     stoch. teror extrahován. (3) spor s advokátem Tušlem, teorie o zfalšovaném zatýkacím videu Čermáka
-    — [kauzy.md](kauzy.md). Zbytek (opakované čtení usnesení) je repeat z 6.–7. 8. Bez predikcí. Zhlédnutí:
-    134'
+    — [kauzy.md](/temata/kauzy.md). Zbytek (opakované čtení usnesení) je repeat z 6.–7. 8. Bez predikcí.
+    Zhlédnutí: 134'
 vyroky:
 - id: zitko-2026-08-07-01
   typ: tvrzeni

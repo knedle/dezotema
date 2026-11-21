@@ -9,10 +9,10 @@ zdroj:
   rezim: standard
   delka: 00:09:12
   poznamka: 'Zpracováno 4 témata: (1) Babišův střet zájmů v onkologii (Hartenberg/Future Life vs. veřejná
-    politika) — [kauzy.md](kauzy.md). (2) Nárůst rakoviny spojován s covid vakcinací od 2021 — [covid-vakciny.md](covid-vakciny.md).
-    (3) Zpochybnění mamografie jako diagnostiky — [covid-vakciny.md](covid-vakciny.md). (4) Rakovina jako
-    „pouzdro na toxiny" (Dr. Cohen), kritika chemoterapie — [covid-vakciny.md](covid-vakciny.md). Bez
-    predikcí a stoch. teroru.'
+    politika) — [kauzy.md](/temata/kauzy.md). (2) Nárůst rakoviny spojován s covid vakcinací od 2021 —
+    [covid-vakciny.md](/temata/covid-vakciny.md). (3) Zpochybnění mamografie jako diagnostiky — [covid-vakciny.md](/temata/covid-vakciny.md).
+    (4) Rakovina jako „pouzdro na toxiny" (Dr. Cohen), kritika chemoterapie — [covid-vakciny.md](/temata/covid-vakciny.md).
+    Bez predikcí a stoch. teroru.'
 vyroky:
 - id: tarabova-2026-07-08-01
   typ: tvrzeni

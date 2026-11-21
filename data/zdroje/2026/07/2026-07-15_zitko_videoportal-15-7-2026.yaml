@@ -8,24 +8,25 @@ zdroj:
   prepis: prepisy/done/2026-07-15_Československo-TV2_Videoportál.txt
   rezim: standard
   delka: 01:00:38
-  poznamka: 'Zpracováno 8 témat: (1) ČSR obnova/reparace — opakování beze změny — [konspirace.md](konspirace.md).
-    (2) EU/Babiš 700 000 domů (EPBD4) — opakování beze změny — [suverenita-eu.md](suverenita-eu.md). (3)
-    Ricardo Bossi — rozšířená teorie dvojníků/klonů (200 000 náhražek, Ben Solomon, Starmer) — [konspirace.md](konspirace.md).
-    (4) COVID — údajné svědectví toxikologa Pfizeru Helmuta Šterce, 60 000 mrtvých Němců — [covid-vakciny.md](covid-vakciny.md).
-    (5) Pokles porodnosti (35 tis.) — opakování beze změny — [covid-vakciny.md](covid-vakciny.md). (6)
-    Cena za svobodu projevu — pokračování, nízká aktivita diváků — [politicky-system.md](politicky-system.md).
-    (7) Pšenák/Oganesian údajná vazba — teorie „prediktivního programování" — [konspirace.md](konspirace.md).
-    (8) MS ve fotbale — poločasová show Bieber/Diddy — [konspirace.md](konspirace.md). 1 výrok stochastického
-    teroru (Pšenák/Oganesian/Blujová) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.'
+  poznamka: 'Zpracováno 8 témat: (1) ČSR obnova/reparace — opakování beze změny — [konspirace.md](/temata/konspirace.md).
+    (2) EU/Babiš 700 000 domů (EPBD4) — opakování beze změny — [suverenita-eu.md](/temata/suverenita-eu.md).
+    (3) Ricardo Bossi — rozšířená teorie dvojníků/klonů (200 000 náhražek, Ben Solomon, Starmer) — [konspirace.md](/temata/konspirace.md).
+    (4) COVID — údajné svědectví toxikologa Pfizeru Helmuta Šterce, 60 000 mrtvých Němců — [covid-vakciny.md](/temata/covid-vakciny.md).
+    (5) Pokles porodnosti (35 tis.) — opakování beze změny — [covid-vakciny.md](/temata/covid-vakciny.md).
+    (6) Cena za svobodu projevu — pokračování, nízká aktivita diváků — [politicky-system.md](/temata/politicky-system.md).
+    (7) Pšenák/Oganesian údajná vazba — teorie „prediktivního programování" — [konspirace.md](/temata/konspirace.md).
+    (8) MS ve fotbale — poločasová show Bieber/Diddy — [konspirace.md](/temata/konspirace.md). 1 výrok
+    stochastického teroru (Pšenák/Oganesian/Blujová) — [stochasticky-teror.md](/stochasticky-teror.md).
+    Bez predikcí.'
   osoby:
   - osoba: psenak
     vztah: negativni
     kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
-      skupina" (→ [stoch. teror](../stochasticky-teror.md))
+      skupina" (→ [stoch. teror](/stochasticky-teror.md))
   - osoba: blujova
     vztah: negativni
     kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
-      skupina" (→ [stoch. teror](../stochasticky-teror.md))
+      skupina" (→ [stoch. teror](/stochasticky-teror.md))
 vyroky:
 - id: zitko-2026-07-15-01
   typ: tvrzeni
@@ -88,12 +89,12 @@ vyroky:
     v Londýně 2012, které měly předznamenat covidovou pandemii, patentovanou údajně Rothschildem už v
     roce 2015 a spuštěnou (dle jeho výkladu) až v roce 2019 ve Wuhanu. Vyjadřuje přesvědčení, že „spravedlnost"
     na jmenované osoby (Pšenák, Oganesian, „Blujová") a jejich „organizovanou zločineckou skupinu" nebude
-    čekat dlouho (viz [stochasticky-teror.md](stochasticky-teror.md)).'
+    čekat dlouho (viz [stochasticky-teror.md](/stochasticky-teror.md)).'
   osoby:
   - osoba: oganesian
     vztah: negativni
     kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
-      skupina" (→ [stoch. teror](../stochasticky-teror.md))
+      skupina" (→ [stoch. teror](/stochasticky-teror.md))
   podtema: Okultismus
 - id: zitko-2026-07-15-05
   typ: tvrzeni

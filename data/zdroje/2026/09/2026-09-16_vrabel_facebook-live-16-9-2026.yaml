@@ -20,13 +20,13 @@ vyroky:
     rozvíjet strategickou komunikaci a schopnost reagovat na eskalaci pod prahem jaderného použití. Kritizuje,
     že o tak zásadní zprávě česká média (na rozdíl od srbských) vůbec neinformovala. Podrobně opakuje
     a rozvádí argument, že žádné „jaderné odstrašení" nemá smysl (viz [Jaderné odzbrojení jako jediná
-    cesta k míru, 6. 6.](#jaderné-odzbrojení-jako-jediná-cesta-k-míru--výzva-vrabel-6-6-2026)): modeluje
-    scénář, kdy z evropských zemí vzlétne najednou 1000–1200 letadel s klouzavými jadernými bombami na
-    Rusko — i kdyby Rusko sestřelilo většinu z nich, výbuchy ve vzduchu (i sestřelených) by způsobily
-    jaderný spad nad celou Evropou včetně ČR; a i v krajním scénáři zničení Ruska zůstává podle doktríny
-    „mrtvé ruky" (odkaz na profesora Staňka) zaručen odvetný úder z bunkrů na evropská území, odkud útok
-    přišel. Jediným smysluplným krokem je proto oboustranné uložení jaderných zbraní do skladů podle vzoru
-    dohody Reagan–Gorbačov v Reykjavíku, ne další zbrojení.'
+    cesta k míru, 6. 6.](/temata/jaderne-zbrane.md#vrabel-2026-06-06-03)): modeluje scénář, kdy z evropských
+    zemí vzlétne najednou 1000–1200 letadel s klouzavými jadernými bombami na Rusko — i kdyby Rusko sestřelilo
+    většinu z nich, výbuchy ve vzduchu (i sestřelených) by způsobily jaderný spad nad celou Evropou včetně
+    ČR; a i v krajním scénáři zničení Ruska zůstává podle doktríny „mrtvé ruky" (odkaz na profesora Staňka)
+    zaručen odvetný úder z bunkrů na evropská území, odkud útok přišel. Jediným smysluplným krokem je
+    proto oboustranné uložení jaderných zbraní do skladů podle vzoru dohody Reagan–Gorbačov v Reykjavíku,
+    ne další zbrojení.'
 - id: vrabel-2026-09-16-02
   typ: tvrzeni
   temata:
@@ -43,7 +43,7 @@ vyroky:
 
     Popisuje projev jako „válečně propagandistický" a od reality odtržený — dokládá to vlastní zkušeností z bruselského Evropského parlamentu, kde viděl na jedné straně přepych (obsluha v bílých rukavičkách) a jen pár set metrů dál bezdomovce a nebezpečné ulice.
 
-    ⚡ **Poznámka:** Popis obsluhujícího personálu a bezdomovců v okolí Evropského parlamentu obsahuje rasově podbarvené vyjádření (→ [stochastický teror](stochasticky-teror.md)).
+    ⚡ **Poznámka:** Popis obsluhujícího personálu a bezdomovců v okolí Evropského parlamentu obsahuje rasově podbarvené vyjádření (→ [stochastický teror](/stochasticky-teror.md)).
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-09-16-03
   typ: tvrzeni
@@ -75,11 +75,11 @@ vyroky:
     popravovat vlastní albánskou politickou opozici. Zdůrazňuje, že tribunál (jiný soud než ICTY, který
     soudil Miloševiče/Mladiće/Karadžiće) odsoudil Tačiho výhradně za zločiny spáchané na vlastních Albáncích,
     nikoli za zločiny vůči Srbům, Romům či za obchod s orgány (viz [Nelegální obchod s lidskými orgány
-    — Kosovo, Ukrajina](../konspirace.md#nelegální-obchod-s-lidskými-orgány--kosovo-ukrajina-vrabel-27-7-2026))
-    — což vysvětluje poměrně mírný trest (25 let, po odečtení vazby a dobrého chování odhaduje reálný
-    pobyt kolem osmi let). Za příčinu mírnosti označuje i to, že řízení vedl americký soudce, jmenovaný
-    bývalou šéfkou personálu Evropské unie — s narážkou na dřívější předání dolů a telekomunikací v Kosovu
-    americkým firmám po skončení konfliktu.'
+    — Kosovo, Ukrajina](/temata/konspirace/2026.md#vrabel-2026-07-27-05)) — což vysvětluje poměrně mírný
+    trest (25 let, po odečtení vazby a dobrého chování odhaduje reálný pobyt kolem osmi let). Za příčinu
+    mírnosti označuje i to, že řízení vedl americký soudce, jmenovaný bývalou šéfkou personálu Evropské
+    unie — s narážkou na dřívější předání dolů a telekomunikací v Kosovu americkým firmám po skončení
+    konfliktu.'
   osoby:
   - osoba: hasim-taci
     vztah: negativni

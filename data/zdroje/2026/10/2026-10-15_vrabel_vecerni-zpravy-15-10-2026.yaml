@@ -20,7 +20,7 @@ zdroj:
     text: muniční iniciativa pokračuje navzdory slibu, šance „max. 5 %“
     vyrok: vrabel-2026-10-15-04
   - tema: Slovensko a Rusko obnovují mezivládní komisi
-    text: Orbán „zlikvidován“, Fico „na řadě“ → viz [Predikce](../predikce.md)
+    text: Orbán „zlikvidován“, Fico „na řadě“ → viz [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-15-04
   - tema: Bělorusko připravené na jaro 2027 (Belpol)
     text: dvojí metr, naše zbrojení je „obrana“, jejich „diktátoři“. Je jen otázka, „kdo první škrtne
@@ -33,7 +33,7 @@ zdroj:
     vyrok: vrabel-2026-10-15-04
   - tema: Protesty ve Francii, Itálii, Británii a Belgii (video)
     text: migranti s palestinskými vlajkami, „polínka“, občanská válka se přelije → viz [Stochastický
-      teror](../stochasticky-teror.md)
+      teror](/stochasticky-teror.md)
     vyrok: vrabel-2026-10-15-03
   - tema: Gotland jako opěrný bod NATO
     text: Kaliningrad, Pobaltí a Polsko jsou „časované bomby“, ČR posílá „víc než polovinu munice“.
@@ -42,7 +42,7 @@ zdroj:
   - tema: 'Írán: 135 útoků na státy Perského zálivu'
     text: bez komentáře.
   - tema: 'Trump: válka s Íránem brzy skončí, Macinka a Havlíček o cenách'
-    text: „hovadina“, nafta po volbách 60 Kč, v zimě 70 Kč → viz [Predikce](../predikce.md)
+    text: „hovadina“, nafta po volbách 60 Kč, v zimě 70 Kč → viz [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-15-01
   - tema: Soud kvůli Nord Streamu, Sikorski
     text: akce na pokyn USA, k Hitlerovi se má přirovnávat spíš Zelenskyj, Sikorskému „pavilon C“
@@ -101,7 +101,7 @@ vyroky:
   text: '**15. 10.** — Ke sdílenému videu protestů ve Francii, Itálii, Británii a Belgii Vrabel tvrdí,
     že „studentské protesty“ převzali migranti s palestinskými vlajkami: „vidíte migranty s barvou pleti
     trošku světlejší, než je moje černá obrazovka na telefonu. Dneska nejsem doma, abych to přirovnával
-    k polínkům“ (viz [Stochastický teror](stochasticky-teror.md)). Jde podle něj o konflikt islámského
+    k polínkům“ (viz [Stochastický teror](/stochasticky-teror.md)). Jde podle něj o konflikt islámského
     světa se Západem, který má „velký potenciál přerůst v občanskou válku“ a „začne se přelévat k nám“.
     Proto by ČR měla „co nejrychleji uzavřít hranice… a vystoupit z Evropské unie“.'
 - id: vrabel-2026-10-15-04
@@ -177,7 +177,7 @@ vyroky:
     vyhodnoceni:
     - datum: 2026-11-20
       text: volby 25. 10. vyhrálo studentské hnutí, Vučić uznal porážku (sám Vrabel v [Ladislav Vrabel
-        — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026))
+        — Nedělní živé vysílání 25. 10. 2026](/zdroje/2026-10.md#2026-10-25_vrabel_nedelni-zive-vysilani-25-10-2026))
       stav: vyvraceno
 - id: vrabel-2026-10-15-07
   typ: predikce

@@ -9,25 +9,26 @@ zdroj:
   rezim: vrabel
   delka: 00:48:48
   poznamka: 'Tři zpracovaná témata: (1) Predikce — Babiš do ~2 let ustoupí EU a vzdá se slibu snížení
-    důchodového věku na 65 let — [predikce.md](predikce.md). (2) Wikileaks: Petr Kolář jako velvyslanec
+    důchodového věku na 65 let — [predikce.md](/predikce/index.md). (2) Wikileaks: Petr Kolář jako velvyslanec
     v USA radil přejmenovat raketovou základnu v Brdech na „radar" a počkat na vládu Topolánka místo Paroubka
-    — [valka-nato-rusko.md](valka-nato-rusko.md). (3) Británie: 300 mld. liber na zbrojení (kritika pokrytectví
-    vůči chudobě), USA staví jaderné sklady v UK jako mezikrok k přesunu jaderných zbraní blíž k Rusku
-    (UK→Polsko, Francie→ČR); dvě cesty jaderné politiky (odstrašení vs. odzbrojení a la Reykjavík) — [jaderne-zbrane.md](jaderne-zbrane.md).
-    Ostatní zprávy (Maďarsko/Orbán vs. Petr Maďar, Írán-USA jednání, NATO velitelství v Pobaltí, GRECO
-    korupční hodnocení ČR, Ukrajina/stínová flotila) jen rychlý přehled bez samostatného zpracování. Bez
-    stoch. teroru. Pravidelný přehled zahraničních a domácích zpráv s komentářem'
+    — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (3) Británie: 300 mld. liber na zbrojení (kritika
+    pokrytectví vůči chudobě), USA staví jaderné sklady v UK jako mezikrok k přesunu jaderných zbraní
+    blíž k Rusku (UK→Polsko, Francie→ČR); dvě cesty jaderné politiky (odstrašení vs. odzbrojení a la Reykjavík)
+    — [jaderne-zbrane.md](/temata/jaderne-zbrane.md). Ostatní zprávy (Maďarsko/Orbán vs. Petr Maďar, Írán-USA
+    jednání, NATO velitelství v Pobaltí, GRECO korupční hodnocení ČR, Ukrajina/stínová flotila) jen rychlý
+    přehled bez samostatného zpracování. Bez stoch. teroru. Pravidelný přehled zahraničních a domácích
+    zpráv s komentářem'
   prehled:
   - tema: 'Tři zpracovaná témata: (1) Predikce'
-    text: 'Babiš do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku na 65 let — [predikce.md](../predikce.md).
+    text: 'Babiš do ~2 let ustoupí EU a vzdá se slibu snížení důchodového věku na 65 let — [predikce.md](/predikce/index.md).
       (2) Wikileaks: Petr Kolář jako velvyslanec v USA radil přejmenovat raketovou základnu v Brdech na
-      „radar" a počkat na vládu Topolánka místo Paroubka — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      „radar" a počkat na vládu Topolánka místo Paroubka — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
       (3) Británie: 300 mld. liber na zbrojení (kritika pokrytectví vůči chudobě), USA staví jaderné sklady
       v UK jako mezikrok k přesunu jaderných zbraní blíž k Rusku (UK→Polsko, Francie→ČR)'
   - tema: dvě cesty jaderné politiky (odstrašení vs. odzbrojení a la Reykjavík)
-    text: '[jaderne-zbrane.md](../jaderne-zbrane.md). Ostatní zprávy (Maďarsko/Orbán vs. Petr Maďar, Írán-USA
-      jednání, NATO velitelství v Pobaltí, GRECO korupční hodnocení ČR, Ukrajina/stínová flotila) jen
-      rychlý přehled bez samostatného zpracování. Bez stoch. teroru.'
+    text: '[jaderne-zbrane.md](/temata/jaderne-zbrane.md). Ostatní zprávy (Maďarsko/Orbán vs. Petr Maďar,
+      Írán-USA jednání, NATO velitelství v Pobaltí, GRECO korupční hodnocení ČR, Ukrajina/stínová flotila)
+      jen rychlý přehled bez samostatného zpracování. Bez stoch. teroru.'
 vyroky:
 - id: vrabel-2026-06-30-01
   typ: tvrzeni

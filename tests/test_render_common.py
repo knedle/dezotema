@@ -63,3 +63,13 @@ def test_viceradkova_citace():
               url="u", prepis="z.txt", vyroky=[v])
     out = render_vyrok(v, z, Archiv([z], {}, {}), "")
     assert "> „první\n> druhý“ [01:02]" in out
+
+
+def test_zrelativni_korenove_odkazy():
+    from tools.archiv.render.common import zrelativni
+    t = "[a](/temata/x.md#id) [b](/zdroje/2026-11.md#s) [c](https://e.cz/) [d](../x.md) [e](/index.md)"
+    assert zrelativni(t, "temata/y.md") == (
+        "[a](x.md#id) [b](../zdroje/2026-11.md#s) [c](https://e.cz/) [d](../x.md) [e](../index.md)")
+    assert zrelativni(t, "temata/y/2026.md").startswith("[a](../x.md#id) [b](../../zdroje/2026-11.md#s)")
+    assert zrelativni("[a](/temata/x.md)", "stochasticky-teror.md") == "[a](temata/x.md)"
+    assert zrelativni("[a](/temata/x.md)", "temata/x.md") == "[a](x.md)"

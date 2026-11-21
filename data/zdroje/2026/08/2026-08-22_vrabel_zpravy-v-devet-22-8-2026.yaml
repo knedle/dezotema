@@ -9,7 +9,7 @@ zdroj:
   rezim: vrabel
   prehled:
   - tema: Setkání v Příčovech — vlastenecká scéna jako loajální vůči vládě, kterou jinak kritizuje
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Propad exportu slovenského Slovnaftu do ČR
     text: sarkasmus vůči Okamurovým "vztahům se Slovenskem" — nezpracováno
   - tema: Útok mečem ve švédské škole
@@ -26,24 +26,24 @@ zdroj:
   - tema: Britská vláda rozhoduje o těžebních projektech v Severním moři
     text: nezpracováno
   - tema: Ivan Noveský a CHEPS — přenos elektřiny z Německa přes ČR, likvidace české energetiky
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Německo
     text: návrh změnit ústavu kvůli klimatickým opatřením — nezpracováno (opakování Green Deal skepse)
   - tema: Evropská závislost na ruském uranu i pro plánované malé reaktory (Rolls-Royce, Temelín, Dukovany)
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Putinova odveta (sklad Wildberries) vs. ukrajinský útok na pláž (13 mrtvých, 7 dětí)
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Americké tankovací letadlo opustilo Bulharsko
     text: spekulace o íránské hrozbě — nezpracováno
   - tema: Írán
     text: nová ofenzivní vojenská doktrína, hrozba tvrdé odvety — nezpracováno
   - tema: Budoucnost Francie v NATO — Le Pen vs. Mélenchon
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Německý ministr Wadephul v Kyjevě — spojení s Macinkou/Landsmannschaftem
-    text: → [Benešovy dekrety](../benesovy-dekrety.md)
+    text: → [Benešovy dekrety](/temata/benesovy-dekrety.md)
   - tema: Maroko nárokuje Ceutu/Melillu — filozofie hranic, srovnání s Donbasem/Krymem/Kosovem/Republikou
       srbskou
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
 vyroky:
 - id: vrabel-2026-08-22-01
   typ: tvrzeni
@@ -77,7 +77,7 @@ vyroky:
     řídicí systémy pro přenosovou soustavu) bez výběrového řízení firmám jako Bosch — na rozdíl od stíhání
     „malých lidí" tyto „obří krádeže" prý neřeší žádná policie ani státní zástupci. Skutečným cílem je
     podle Vrabela udělat z Německa "energetickou velmoc": Česko bylo dřív čistým vývozcem elektřiny, ale
-    záměrnou likvidací vlastní energetické soustavy (viz i [„Bateriový zákon"](#bateriový-zákon-po-solárních-baronech-přicházejí-baterioví-baroni-vrabel-17-6-2026)
+    záměrnou likvidací vlastní energetické soustavy (viz i [„Bateriový zákon"](/temata/ceny-energie.md#vrabel-2026-06-17-02)
     výše) má být donuceno nakupovat přebytky z plánovaného německého 1000GW solárního programu. Vrabel
     oznamuje, že podpoří Noveského případnou kandidaturu do Senátu za SPD, přestože stranu jinak nemá
     rád.'

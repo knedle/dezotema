@@ -10,12 +10,12 @@ zdroj:
   rezim: vrabel
   delka: 02:06:01
   poznamka: 'Zpracováno 6 témat (panelová debata k výročí summitu NATO v Ankaře — hosté bez vlastní stránky
-    osoby): (1) Konspirace „Mezimoří" — šlechta/Habsburkové vs. korporativní skupina (Vítová) — [konspirace.md](konspirace.md).
-    (2) Americké zbrojovky přesouvají výrobu do Evropy (Adam) — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (3) Spor o pravděpodobnost přímého konfliktu s Ruskem (Esentier vs. Kellner) — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (4) Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier) — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (5) Role Turecka v NATO, puč 2016 (Kellner) — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Rusko
-    lituje poválečné shovívavosti vůči Finsku (Kellner) — [valka-nato-rusko.md](valka-nato-rusko.md).
+    osoby): (1) Konspirace „Mezimoří" — šlechta/Habsburkové vs. korporativní skupina (Vítová) — [konspirace.md](/temata/konspirace.md).
+    (2) Americké zbrojovky přesouvají výrobu do Evropy (Adam) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (3) Spor o pravděpodobnost přímého konfliktu s Ruskem (Esentier vs. Kellner) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (4) Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (5) Role Turecka v NATO, puč 2016 (Kellner) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (6) Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
     Neprocesována úvodní část opakující PURL/70 mld. tezi z předchozího videa 9. 7. Bez predikcí a stoch.
     teroru.'
   osoby:
@@ -26,12 +26,12 @@ zdroj:
   prehled:
   - tema: Zpracováno 6 témat (panelová debata k výročí summitu NATO v Ankaře
     text: 'hosté bez vlastní stránky osoby): (1) Konspirace „Mezimoří" — šlechta/Habsburkové vs. korporativní
-      skupina (Vítová) — [konspirace.md](../konspirace.md). (2) Americké zbrojovky přesouvají výrobu do
-      Evropy (Adam) — [valka-nato-rusko.md](../valka-nato-rusko.md). (3) Spor o pravděpodobnost přímého
-      konfliktu s Ruskem (Esentier vs. Kellner) — [valka-nato-rusko.md](../valka-nato-rusko.md). (4) Zelenskyj
-      jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier) — [valka-nato-rusko.md](../valka-nato-rusko.md).
-      (5) Role Turecka v NATO, puč 2016 (Kellner) — [valka-nato-rusko.md](../valka-nato-rusko.md). (6)
-      Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      skupina (Vítová) — [konspirace.md](/temata/konspirace.md). (2) Americké zbrojovky přesouvají výrobu
+      do Evropy (Adam) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (3) Spor o pravděpodobnost
+      přímého konfliktu s Ruskem (Esentier vs. Kellner) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (4) Zelenskyj jako Rusku vyhovující vůdce, role Zalužného (Adam, Esentier) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (5) Role Turecka v NATO, puč 2016 (Kellner) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (6) Rusko lituje poválečné shovívavosti vůči Finsku (Kellner) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
       Neprocesována úvodní část opakující PURL/70 mld. tezi z předchozího videa 9. 7. Bez predikcí a stoch.
       teroru.'
 vyroky:
@@ -41,7 +41,7 @@ vyroky:
   - konspirace
   nadpis: „Mezimoří" — návrat šlechty/Habsburků vs. skupování majetku „klanově korporativní skupinou"
     (Vítová, host u Vrabela, 9. 7. 2026)
-  text: 'Vladimíra Vítová (hostka v panelové debatě Ladislava Vrabela k summitu NATO v Ankaře, viz [valka-nato-rusko.md](valka-nato-rusko.md#panelová-debata-k-ankaře-americké-zbrojovky-v-evropě-riziko-konfliktu-s-ruskem-role-zelenského-a-turecka-vrabel-hosté-9-7-2026))
+  text: 'Vladimíra Vítová (hostka v panelové debatě Ladislava Vrabela k summitu NATO v Ankaře, viz [valka-nato-rusko.md](/temata/valka-nato-rusko.md#panelová-debata-k-ankaře-americké-zbrojovky-v-evropě-riziko-konfliktu-s-ruskem-role-zelenského-a-turecka-vrabel-hosté-9-7-2026))
     rozvíjí teorii, že plánovaným cílem je přeměnit západní Evropu na islámský chalífát, zatímco střední
     Evropa (tzv. „mezimoří") má být součástí nového geopolitického celku — se dvěma možnými scénáři jeho
     uspořádání. První je s odkazem na analytika Valerije Pjakina návrat šlechtických rodů a konstituční

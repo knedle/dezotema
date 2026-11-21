@@ -9,29 +9,31 @@ zdroj:
   rezim: vrabel
   delka: 01:09:43
   poznamka: 'Zpracováno 10 témat ("Zprávy v devět s komentářem"): (1) Ukrajina — nový premiér Korecký,
-    odvolání Fedorova, EU překvapena — [valka-nato-rusko.md](valka-nato-rusko.md). (2) „Feudalismus" jako
-    popis politického systému — [politicky-system.md](politicky-system.md). (3) Írán cílí na Trumpovy
-    nemovitosti jako odvetu — [blizky-vychod.md](blizky-vychod.md). (4) Mačetový útok v Manchesteru, predikce
-    šíření do ČR — [migrace.md](migrace.md). (5) Demonstrace v Bruselu proti migraci — [migrace.md](migrace.md).
-    (6) Centralizace zdravotnictví (Vojtěch) — [covid-vakciny.md](covid-vakciny.md). (7) Šanghajská AI
-    dohoda + Trump zakázal model OpenAI, AGI predikce — [ceny-energie.md](ceny-energie.md), [predikce.md](predikce.md).
-    (8) EU povolila Ukrajině čínské komponenty pro drony — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (9) Kauza Foldina — obvinění z domácího násilí, teze o mediálním lynči — [kauzy.md](kauzy.md). (10)
-    Francie schválila eutanazii — [rodina-deti.md](rodina-deti.md). 3 výroky stochastického teroru (Zelenskyj/Fedorov/Syrskyj,
-    Trump, novináři) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí mimo AI/AGI update.'
+    odvolání Fedorova, EU překvapena — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (2) „Feudalismus"
+    jako popis politického systému — [politicky-system.md](/temata/politicky-system.md). (3) Írán cílí
+    na Trumpovy nemovitosti jako odvetu — [blizky-vychod.md](/temata/blizky-vychod.md). (4) Mačetový útok
+    v Manchesteru, predikce šíření do ČR — [migrace.md](/temata/migrace.md). (5) Demonstrace v Bruselu
+    proti migraci — [migrace.md](/temata/migrace.md). (6) Centralizace zdravotnictví (Vojtěch) — [covid-vakciny.md](/temata/covid-vakciny.md).
+    (7) Šanghajská AI dohoda + Trump zakázal model OpenAI, AGI predikce — [ceny-energie.md](/temata/ceny-energie.md),
+    [predikce.md](/predikce/index.md). (8) EU povolila Ukrajině čínské komponenty pro drony — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (9) Kauza Foldina — obvinění z domácího násilí, teze o mediálním lynči — [kauzy.md](/temata/kauzy.md).
+    (10) Francie schválila eutanazii — [rodina-deti.md](/temata/rodina-deti.md). 3 výroky stochastického
+    teroru (Zelenskyj/Fedorov/Syrskyj, Trump, novináři) — [stochasticky-teror.md](/stochasticky-teror.md).
+    Bez predikcí mimo AI/AGI update.'
   prehled:
   - tema: 'Zpracováno 10 témat ("Zprávy v devět s komentářem"): (1) Ukrajina'
-    text: nový premiér Korecký, odvolání Fedorova, EU překvapena — [valka-nato-rusko.md](../valka-nato-rusko.md).
-      (2) „Feudalismus" jako popis politického systému — [politicky-system.md](../politicky-system.md).
-      (3) Írán cílí na Trumpovy nemovitosti jako odvetu — [blizky-vychod.md](../blizky-vychod.md). (4)
-      Mačetový útok v Manchesteru, predikce šíření do ČR — [migrace.md](../migrace.md). (5) Demonstrace
-      v Bruselu proti migraci — [migrace.md](../migrace.md). (6) Centralizace zdravotnictví (Vojtěch)
-      — [covid-vakciny.md](../covid-vakciny.md). (7) Šanghajská AI dohoda + Trump zakázal model OpenAI,
-      AGI predikce — [ceny-energie.md](../ceny-energie.md), [predikce.md](../predikce.md). (8) EU povolila
-      Ukrajině čínské komponenty pro drony — [valka-nato-rusko.md](../valka-nato-rusko.md). (9) Kauza
-      Foldina — obvinění z domácího násilí, teze o mediálním lynči — [kauzy.md](../kauzy.md). (10) Francie
-      schválila eutanazii — [rodina-deti.md](../rodina-deti.md). 3 výroky stochastického teroru (Zelenskyj/Fedorov/Syrskyj,
-      Trump, novináři) — [stochasticky-teror.md](../stochasticky-teror.md). Bez predikcí mimo AI/AGI update.
+    text: nový premiér Korecký, odvolání Fedorova, EU překvapena — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (2) „Feudalismus" jako popis politického systému — [politicky-system.md](/temata/politicky-system.md).
+      (3) Írán cílí na Trumpovy nemovitosti jako odvetu — [blizky-vychod.md](/temata/blizky-vychod.md).
+      (4) Mačetový útok v Manchesteru, predikce šíření do ČR — [migrace.md](/temata/migrace.md). (5) Demonstrace
+      v Bruselu proti migraci — [migrace.md](/temata/migrace.md). (6) Centralizace zdravotnictví (Vojtěch)
+      — [covid-vakciny.md](/temata/covid-vakciny.md). (7) Šanghajská AI dohoda + Trump zakázal model OpenAI,
+      AGI predikce — [ceny-energie.md](/temata/ceny-energie.md), [predikce.md](/predikce/index.md). (8)
+      EU povolila Ukrajině čínské komponenty pro drony — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (9) Kauza Foldina — obvinění z domácího násilí, teze o mediálním lynči — [kauzy.md](/temata/kauzy.md).
+      (10) Francie schválila eutanazii — [rodina-deti.md](/temata/rodina-deti.md). 3 výroky stochastického
+      teroru (Zelenskyj/Fedorov/Syrskyj, Trump, novináři) — [stochasticky-teror.md](/stochasticky-teror.md).
+      Bez predikcí mimo AI/AGI update.
 vyroky:
 - id: vrabel-2026-07-16-01
   typ: tvrzeni
@@ -45,7 +47,7 @@ vyroky:
     a v Kataru i Trump International Hotel v Ománu; večer téhož dne došlo k explozím poblíž centra Dubaje.
     Vrabel odmítá klasifikovat tento krok jako terorismus — argumentuje, že Trump vyslal armádu na útok
     proti zemi, která s USA neměla konflikt, přičemž první ranou bylo zabití přibližně 180 dívek ve škole
-    (viz [stochasticky-teror.md](stochasticky-teror.md)), a teprve poté hrozil „poslat zemi do středověku"
+    (viz [stochasticky-teror.md](/stochasticky-teror.md)), a teprve poté hrozil „poslat zemi do středověku"
     útoky na civilní cíle — odvetu na jeho soukromý majetek proto považuje za legitimní obranu, ne terorismus.
     Zároveň seznam nemovitostí (roztroušených po SAE, Kataru, Ománu a Saúdské Arábii) používá jako důkaz
     své teze o „feudalismu" — zvolený státník si podle něj ponechává rozsáhlý soukromý byznys v regionu,
@@ -54,7 +56,7 @@ vyroky:
   - osoba: donald-trump
     vztah: negativni
     kontext: Srovnáván s Babišem jako oligarcha vlastnící soukromé nemovitosti po celém Blízkém východě;
-      kvůli úderu na Írán mu Vrabel přeje smrt oběšením (→ [stoch. teror](../stochasticky-teror.md))
+      kvůli úderu na Írán mu Vrabel přeje smrt oběšením (→ [stoch. teror](/stochasticky-teror.md))
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-07-16-02
   typ: tvrzeni
@@ -119,7 +121,7 @@ vyroky:
     osobní neshodu z roku 2023 (kdy se podle Vrabela „postavil na špatnou stranu" a spojil s Jindřichem
     Rajchlem), ale odmítá se na jeho mediální likvidaci jakkoli podílet. V závěru navrhuje (výslovně jako
     fiktivní budoucí zákon, ne aktuální výzvu) trestní odpovědnost novinářů podílejících se na podobných
-    kampaních — viz [stochasticky-teror.md](stochasticky-teror.md).'
+    kampaních — viz [stochasticky-teror.md](/stochasticky-teror.md).'
   osoby:
   - osoba: jaroslav-foldina
     vztah: rozporuplny
@@ -140,7 +142,7 @@ vyroky:
     Liberce a Plzně blízko německé hranice, pak dál do Prahy, Moravské Třebové a nakonec Brna — pokud
     ČR nevystoupí z EU a nezruší migrační pakt. Kriticky se obrací i na europoslankyni Kateřinu Konečnou,
     které předpovídá totéž v jejím rodném Novém Jičíně kvůli jejímu hlasování pro legální migrační cesty
-    (viz [Španělsko — legalizace migrantů, Konečná, 15. 7.](#španělsko-legalizuje-1-mil-migrantů-eu-bojuje-jen-s-nelegální-migrací-vrabel-17-6-2026)).
+    (viz [Španělsko — legalizace migrantů, Konečná, 15. 7.](/temata/migrace/2026.md#vrabel-2026-06-17-04)).
 - id: vrabel-2026-07-16-06
   typ: tvrzeni
   temata:
@@ -177,7 +179,7 @@ vyroky:
   - osoba: volodymyr-zelenskyj
     vztah: negativni
     kontext: Odvolal oblíbeného ministra obrany Fedorova, aby si udržel kontrolu — dehumanizován spolu
-      s Fedorovem a Syrským přáním pekelného utrpení (→ [stoch. teror](../stochasticky-teror.md))
+      s Fedorovem a Syrským přáním pekelného utrpení (→ [stoch. teror](/stochasticky-teror.md))
   podtema: Represe a policejní brutalita na Západě
 - id: vrabel-2026-07-16-08
   typ: tvrzeni

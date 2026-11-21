@@ -9,12 +9,12 @@ zdroj:
   rezim: vrabel
   delka: 00:57:10
   poznamka: 'Vrabel — deník. Plně zpracována 4 ze 14 témat: EU platí influencery + tlak na Meta/TikTok
-    kvůli Ceutě — [dsa-cenzura.md](dsa-cenzura.md); Komise neumí spočítat úroky z půjčky 90 mld. eur —
-    [suverenita-eu.md](suverenita-eu.md); Hormuz — 40. opakování cyklu manipulace ceny ropy — [blizky-vychod.md](blizky-vychod.md);
-    Maďarsko — Baka zvolen prezidentem, pokrač. čistek — [suverenita-eu.md](suverenita-eu.md); zbytek
-    (poslanec Novák/falešné parte, léky na rakovinu, nákup dronů MO, Strnad/CSG zbrojní obchod, Turecko
-    dodávky USA zbraní Ukrajině, migrace-dvojí metr/Safe Europe Act, RT novinářka Fedorova, trest smrti
-    Libanon, Asad/al-Šaraa) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
+    kvůli Ceutě — [dsa-cenzura.md](/temata/dsa-cenzura.md); Komise neumí spočítat úroky z půjčky 90 mld.
+    eur — [suverenita-eu.md](/temata/suverenita-eu.md); Hormuz — 40. opakování cyklu manipulace ceny ropy
+    — [blizky-vychod.md](/temata/blizky-vychod.md); Maďarsko — Baka zvolen prezidentem, pokrač. čistek
+    — [suverenita-eu.md](/temata/suverenita-eu.md); zbytek (poslanec Novák/falešné parte, léky na rakovinu,
+    nákup dronů MO, Strnad/CSG zbrojní obchod, Turecko dodávky USA zbraní Ukrajině, migrace-dvojí metr/Safe
+    Europe Act, RT novinářka Fedorova, trest smrti Libanon, Asad/al-Šaraa) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md).
     Predikce (Hormuz do 13.–14. 8.) extrahována bezvýjimečně; bez stoch. teroru.'
   osoby:
   - osoba: andras-baka
@@ -41,13 +41,13 @@ zdroj:
   - tema: Nová EU pravidla pro obaly
     text: sarkastická kritika regulace bez hlasování parlamentu — nezpracováno
   - tema: EU platí influencery a tlačí na Meta/TikTok kvůli „dezinformacím" o Ceutě
-    text: → [DSA a cenzura internetu](../dsa-cenzura.md)
+    text: → [DSA a cenzura internetu](/temata/dsa-cenzura.md)
   - tema: Komise „neumí spočítat" úroky z půjčky 90 mld. eur Ukrajině
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Hormuzský průliv — 40. opakování cyklu manipulace ceny ropy
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Maďarsko — Baka zvolen prezidentem, pokračování politických čistek
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Migrace
     text: dvojí metr vůči navracení uprchlíků, odmítnutí iniciativy Safe Europe Act — nezpracováno (opakování
       zavedené teze)
@@ -59,7 +59,7 @@ zdroj:
     text: Bašár Asad odsouzen k smrti v nepřítomnosti + nový syrský prezident al-Šaraa jako bývalý velitel
       al-Nusry — nezpracováno
   - tema: Predikce
-    text: '[Hormuz — otevření do 13.–14. 8.](../predikce.md#ladislav-vrabel--trump-do-čtvrtkapátku-oznámí-otevření-hormuzu-cena-ropy-pak-klesne-11-8-2026)'
+    text: '[Hormuz — otevření do 13.–14. 8.](/temata/blizky-vychod.md#vrabel-2026-08-11-05)'
     vyrok: vrabel-2026-08-11-05
 vyroky:
 - id: vrabel-2026-08-11-01

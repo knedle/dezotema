@@ -24,7 +24,7 @@ zdroj:
     text: spojitost vnitřní stability Polska s americkými vojáky „nechápe“, „překvapivé vyjádření“.
   - tema: Volby do Kongresu USA
     text: Trump zradil voliče (Venezuela, Írán, cla), „mírovou kartu“ hraje jen před volbami; po volbách
-      se do 1–2 týdnů vrátí k válkám, demokraté nejspíš získají Sněmovnu, možný impeachment → viz [Predikce](../predikce.md)
+      se do 1–2 týdnů vrátí k válkám, demokraté nejspíš získají Sněmovnu, možný impeachment → viz [Predikce](/predikce/index.md)
   - tema: 'Trump ve Fox News: konec americké finanční pomoci Izraeli'
     text: „poslední divoká karta“ a „předvolební tah“.
   - tema: Eskalace námořní války v Černém a Azovském moři
@@ -32,7 +32,7 @@ zdroj:
   - tema: Schůzka Západu o zárukách (4. 11.) a jednání v Abú Zabí (10.–11. 11.)
     text: „Cčkové setkání“ a „předvolební PR“ — Witkoff a Kushner jsou „realitní makléři“; jedinou zárukou
       je vojenská neutralita Ukrajiny s nejvýš 100 tisíci vojáky, vstup do EU by EU „stáhl ke dnu“ → viz
-      [Predikce](../predikce.md)
+      [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-11-03-03
   - tema: Rusko, „nacistický režim“ a obklíčení
     text: Rusové denacifikaci „dotáhnou do konce“; 90% pravděpodobnost války Západu s Ruskem (opakuje).
@@ -192,5 +192,5 @@ vyroky:
       stav: potvrzeno
     - datum: *id001
       text: Podle zpráv čtených 4. 11. demokraté ovládli Sněmovnu reprezentantů i Senát ([Ladislav Vrabel
-        — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)); impeachment
-        zatím nenastal.
+        — Zprávy v devět 4. 11. 2026](/zdroje/2026-11.md#2026-11-04_vrabel_zpravy-v-devet-4-11-2026));
+        impeachment zatím nenastal.

@@ -191,3 +191,17 @@ def test_vrabel_heading(tmp_path):
     assert "# Zpravodajství Vrabel — 2026-11" in (
         out / "zpravodajstvi-vrabel/2026-11.md").read_text(encoding="utf-8")
     assert any("Zpravodajství Vrabel" in i for i in res["nav"])
+
+
+def test_korenove_odkazy_v_datech_se_relativizuji_podle_stranky(tmp_path):
+    root = tmp_path / "repo"
+    shutil.copytree(FIX, root)
+    v = Vyrok(id="odk-1", typ="tvrzeni", temata=["vetrniky"], nadpis="N",
+              text="Viz [zdroj](/zdroje/2026-03.md#x) a [web](https://e.cz/).")
+    uloz_zdroj(Zdroj(id="2026-03-20_s", mluvci="zitko", kanal="k", titul="t",
+                     datum=date(2026, 3, 20), url="u",
+                     prepis="prepisy/done/2026-03-10_zitko_prvni.txt", vyroky=[v]), root)
+    generate(root, root / "wiki")
+    t = (root / "wiki/temata/vetrniky.md").read_text(encoding="utf-8")
+    assert "[zdroj](../zdroje/2026-03.md#x)" in t and "](https://e.cz/)" in t
+    assert "](/" not in t

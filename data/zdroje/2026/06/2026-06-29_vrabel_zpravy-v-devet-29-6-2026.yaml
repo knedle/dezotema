@@ -9,24 +9,24 @@ zdroj:
   rezim: vrabel
   delka: 00:31:42
   poznamka: 'Tři zpracovaná témata: (1) Tři skutečně zásadní otázky summitu NATO — 70 mld. EUR ročně pro
-    Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro ČR od Francie — [jaderne-zbrane.md](jaderne-zbrane.md).
+    Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro ČR od Francie — [jaderne-zbrane.md](/temata/jaderne-zbrane.md).
     (2) Únik sítě „Dialog" Petera Thiela — 200 vlivných lidí rozhoduje bez demokratické kontroly, propojení
-    s J. D. Vancem a Palantirem — [digitalni-kontrola.md](digitalni-kontrola.md). (3) Akcie Strnadovy
+    s J. D. Vancem a Palantirem — [digitalni-kontrola.md](/temata/digitalni-kontrola.md). (3) Akcie Strnadovy
     zbrojovky −50 %, predikce krátkodobého růstu před summitem NATO a dlouhodobého zániku zbrojovek —
-    [valka-nato-rusko.md](valka-nato-rusko.md). Ostatní zprávy (Benátská komise a Maďarsko, Lukašenko
+    [valka-nato-rusko.md](/temata/valka-nato-rusko.md). Ostatní zprávy (Benátská komise a Maďarsko, Lukašenko
     cesta do Asie, ruské útoky na Ukrajinu, Turecko/F-35/S-400, Írán-USA jednání, zemětřesení ve Venezuele)
-    jen rychlý přehled bez samostatného zpracování. **Predikce:** akcie zbrojovek (viz [predikce.md](predikce.md)).
+    jen rychlý přehled bez samostatného zpracování. **Predikce:** akcie zbrojovek (viz [predikce.md](/predikce/index.md)).
     Bez stoch. teroru. Pravidelný přehled zahraničních a domácích zpráv s komentářem'
   prehled:
   - tema: 'Tři zpracovaná témata: (1) Tři skutečně zásadní otázky summitu NATO'
     text: 70 mld. EUR ročně pro Ukrajinu, vstup Ukrajiny do NATO (= válka s Ruskem), jaderné zbraně pro
-      ČR od Francie — [jaderne-zbrane.md](../jaderne-zbrane.md). (2) Únik sítě „Dialog" Petera Thiela
+      ČR od Francie — [jaderne-zbrane.md](/temata/jaderne-zbrane.md). (2) Únik sítě „Dialog" Petera Thiela
       — 200 vlivných lidí rozhoduje bez demokratické kontroly, propojení s J. D. Vancem a Palantirem —
-      [digitalni-kontrola.md](../digitalni-kontrola.md). (3) Akcie Strnadovy zbrojovky −50 %, predikce
-      krátkodobého růstu před summitem NATO a dlouhodobého zániku zbrojovek — [valka-nato-rusko.md](../valka-nato-rusko.md).
+      [digitalni-kontrola.md](/temata/digitalni-kontrola.md). (3) Akcie Strnadovy zbrojovky −50 %, predikce
+      krátkodobého růstu před summitem NATO a dlouhodobého zániku zbrojovek — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
       Ostatní zprávy (Benátská komise a Maďarsko, Lukašenko cesta do Asie, ruské útoky na Ukrajinu, Turecko/F-35/S-400,
       Írán-USA jednání, zemětřesení ve Venezuele) jen rychlý přehled bez samostatného zpracování. **Predikce:**
-      akcie zbrojovek (viz [predikce.md](../predikce.md)). Bez stoch. teroru.
+      akcie zbrojovek (viz [predikce.md](/predikce/index.md)). Bez stoch. teroru.
 vyroky:
 - id: vrabel-2026-06-29-01
   typ: tvrzeni

@@ -9,26 +9,27 @@ zdroj:
   rezim: vrabel
   delka: 01:35:23
   poznamka: 'Zpracováno 7 témat: (1) Ceuta/migrační pakt — von der Leyenová, Kalergiho plán, příklad Rotterhamu
-    — [migrace.md](migrace.md). (2) Egypt zatažen do konfliktu Írán–USA (útok na přístav Damietta) — [blizky-vychod.md](blizky-vychod.md).
-    (3) Další tranže 3,47 mld. EUR pro Ukrajinu (drony, rakety, Grypeny) — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md).
-    (4) Rusko zasáhlo americkou továrnu Terminal Autonomy v Kyjevě — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md).
-    (9) Energetická krize jako nástroj řízeného snížení populace — [ceny-energie.md](ceny-energie.md).
-    (13) Bilecký (Azov): nacismus vs. nacionalismus — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md).
-    (14) Noční zákaz vycházení v Rotterdamu — 15minutová města — [digitalni-kontrola.md](digitalni-kontrola.md).
+    — [migrace.md](/temata/migrace.md). (2) Egypt zatažen do konfliktu Írán–USA (útok na přístav Damietta)
+    — [blizky-vychod.md](/temata/blizky-vychod.md). (3) Další tranže 3,47 mld. EUR pro Ukrajinu (drony,
+    rakety, Grypeny) — [nato-zbrojeni-militarizace.md](/temata/nato-zbrojeni-militarizace.md). (4) Rusko
+    zasáhlo americkou továrnu Terminal Autonomy v Kyjevě — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md).
+    (9) Energetická krize jako nástroj řízeného snížení populace — [ceny-energie.md](/temata/ceny-energie.md).
+    (13) Bilecký (Azov): nacismus vs. nacionalismus — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md).
+    (14) Noční zákaz vycházení v Rotterdamu — 15minutová města — [digitalni-kontrola.md](/temata/digitalni-kontrola.md).
     Nezpracováno (jen zpravodajský deník): Čechoslovak Group dronové centrum, kapacitní mechanismus/ceny
     elektřiny, Německo přesun vojsk přes ČR, Hamas odzbrojení, Slovensko vodohospodářství SAE, OpenAI
-    singularita, Sýrie diplomat/Bashar Asad. Predikce: eskalace konfliktu mimo Ukrajinu — [predikce.md](predikce.md).
+    singularita, Sýrie diplomat/Bashar Asad. Predikce: eskalace konfliktu mimo Ukrajinu — [predikce.md](/predikce/index.md).
     Bez stoch. teroru.'
   prehled:
   - tema: Ceuta/migrační pakt — von der Leyenová, Kalergiho plán, Rotterham
-    text: rozšíření tématu, nové ilustrace a biografický kontext → [Migrace a islamizace](../migrace.md)
+    text: rozšíření tématu, nové ilustrace a biografický kontext → [Migrace a islamizace](/temata/migrace.md)
   - tema: Egypt zatažen do konfliktu Írán–USA (útok na přístav Damietta)
-    text: další země zatažená do eskalace → [Blízký východ](../blizky-vychod.md)
+    text: další země zatažená do eskalace → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Další tranže 3,47 mld. EUR pro Ukrajinu (drony, rakety, Grypeny)
-    text: „EU nemá vlastní peníze" → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: „EU nemá vlastní peníze" → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Rusko zasáhlo americkou továrnu Terminal Autonomy v Kyjevě
     text: rámuje jako válku Západu skrze Ukrajinu proti Rusku, predikuje eskalaci mimo Ukrajinu → [Válka
-      na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md), [Predikce](../predikce.md)
+      na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md), [Predikce](/predikce/index.md)
   - tema: Čechoslovak Group
     text: nové centrum na výrobu dronových komponent ve středočeském kraji
   - tema: Kapacitní mechanismus a zdražování elektřiny
@@ -42,11 +43,11 @@ zdroj:
   - tema: OpenAI/Sam Altman
     text: tvrzení o dosažení „singularity" umělé inteligence
   - tema: 'Bilecký (Azov): nacismus vs. nacionalismus'
-    text: — rozvádí vlastní definici nacismu → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: — rozvádí vlastní definici nacismu → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Sýrie
     text: nový diplomat obviněný z terorismu, kritika americké praxe výměny vlád
   - tema: Noční zákaz vycházení v Rotterdamu — 15minutová města
-    text: spojuje s agendou 2030 → [Digitální kontrola](../digitalni-kontrola.md)
+    text: spojuje s agendou 2030 → [Digitální kontrola](/temata/digitalni-kontrola.md)
 vyroky:
 - id: vrabel-2026-07-31-01
   typ: tvrzeni
@@ -84,7 +85,7 @@ vyroky:
   text: 'Druhé největší nizozemské město vyhlásilo v části Rotterdamu noční zákaz vycházení pro každého,
     kdo v oblasti nebydlí, nepracuje nebo tam nemá jiný oprávněný důvod se nacházet — reakce na dlouholetou
     noční kriminalitu a nelegální závody. Vrabel to čte jako další krok agendy 2030 a konceptu „15minutových
-    měst" (viz [Zítko — školství jako nástroj indoktrinace](konspirace.md#školství-jako-nástroj-indoktrinace--rockefeller-agenda-2030-zítko-28-7-2026)):
+    měst" (viz [Zítko — školství jako nástroj indoktrinace](/temata/konspirace/2026.md#zitko-2026-07-28-04)):
     cílem je omezit pohyb lidí jen do blízkosti bydliště (v testovaných britských městech už jde o povolení
     městské rady k vyjezdu ven), a to nejen z důvodů kontroly, ale i jako příprava obyvatel na trvalý
     nedostatek energie a omezení automobilové dopravy.'
@@ -106,7 +107,7 @@ vyroky:
     profesorem Billem Warnerem) a připomíná dřívější hlasování Kateřiny Konečné v Evropském parlamentu
     pro „legální cesty" pro migranty z Afriky jako důkaz dlouhodobého plánu EU. Uzavírá, že jediným řešením
     zůstává vystoupení z EU. Navazuje na jeho opakovanou tezi o Kalergiho plánu a na [Migrační pakt vynutí
-    přerozdělení (Videoportál, 31. 7.)](#migrační-pakt-vynutí-přerozdělení-do-zemí-kde-ještě-nejsou--polsko-čr-slovensko-maďarsko-vrabel-31-7-2026).'
+    přerozdělení (Videoportál, 31. 7.)](/temata/migrace/2026.md#vrabel-2026-07-31-04).'
   osoby:
   - osoba: ursula-von-der-leyenova
     vztah: negativni

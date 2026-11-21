@@ -9,10 +9,10 @@ zdroj:
   rezim: standard
   delka: 00:01:57
   poznamka: 'Zpracováno 3 témata: euro jako vzdání se suverenity, Pavel a opozice „zaprodávají" republiku
-    — [suverenita-eu.md](suverenita-eu.md); programovatelné digitální euro a Chat Control jako protiústavní,
-    pokrytectví politiků — [digitalni-kontrola.md](digitalni-kontrola.md); média podporují „řízenou sebevraždu"
-    vymýváním mozků — [media-propaganda.md](media-propaganda.md). Bez predikcí a stoch. teroru. Zhlédnutí:
-    4 182'
+    — [suverenita-eu.md](/temata/suverenita-eu.md); programovatelné digitální euro a Chat Control jako
+    protiústavní, pokrytectví politiků — [digitalni-kontrola.md](/temata/digitalni-kontrola.md); média
+    podporují „řízenou sebevraždu" vymýváním mozků — [media-propaganda.md](/temata/media-propaganda.md).
+    Bez predikcí a stoch. teroru. Zhlédnutí: 4 182'
 vyroky:
 - id: sejna-2026-08-15-01
   typ: tvrzeni
@@ -32,7 +32,7 @@ vyroky:
   temata:
   - media-propaganda
   nadpis: Média jako podpora „řízené sebevraždy" — zavedení eura a Chat Control (Šejna, 15. 8. 2026)
-  text: V souvislosti se svou kritikou zavedení eura a Chat Control (viz [Suverenita a EU](suverenita-eu.md#euro-jako-vzdání-se-svobody--petr-pavel-a-opozice-zaprodávají-republiku-šejna-15-8-2026))
+  text: V souvislosti se svou kritikou zavedení eura a Chat Control (viz [Suverenita a EU](/temata/suverenita-eu/2026.md#sejna-2026-08-15-03))
     Šejna tvrdí, že média v tomto procesu podporují politiky tím, že „vymývají mozky" lidem, aby si mysleli,
     že odevzdávání koruny, soukromí a suverenity evropskému establishmentu je „naprosto v pořádku".
   podtema: Mainstream jako politický aktivismus
@@ -45,7 +45,7 @@ vyroky:
     má podle něj i většina opozice. Vzdání se koruny rovná se dle jeho slov vzdání se svobody; politici
     tím podle něj zaprodávají republiku „evropskému establishmentu" (spolu s pravem veta a suverenitou
     obecně). Celý proces označuje za „řízenou sebevraždu" — navazuje na jeho tezi o digitálním euru a
-    Chat Control (viz [Digitální kontrola](digitalni-kontrola.md#programovatelné-euro-a-chat-control-jako-vzdání-se-suverenity--politici-jsou-v-tom-s-eu-šejna-15-8-2026)).
+    Chat Control (viz [Digitální kontrola](/temata/digitalni-kontrola.md#sejna-2026-08-15-01)).
   osoby:
   - osoba: petr-pavel
     vztah: negativni

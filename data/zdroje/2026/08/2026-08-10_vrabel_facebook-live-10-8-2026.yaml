@@ -8,12 +8,12 @@ zdroj:
   prepis: prepisy/done/2026-08-10_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
   delka: 01:09:55
-  poznamka: 'Vrabel — deník. Plně zpracována 4 ze 14 témat: zemětřesení Kolumbie/HAARP spekulace — [konspirace.md](konspirace.md);
-    FPV drony v ČR + odmítání ochrany ukr. mužům — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md);
-    dron. útok na Tatarstán/„naše ruce od krve" — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md);
-    Ceuta — sexuální napadení nezletilých — [migrace.md](migrace.md); zbytek (Gaza/mírový plán, Nagasaki,
-    dron Lipsko, Turecko Černé moře, migrace Vondra/Gregor, Vučič/Zelenskyj, výbuch Emkov, Podněstří,
-    Dardanely/muslimské NATO, Lamanšský průliv) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
+  poznamka: 'Vrabel — deník. Plně zpracována 4 ze 14 témat: zemětřesení Kolumbie/HAARP spekulace — [konspirace.md](/temata/konspirace.md);
+    FPV drony v ČR + odmítání ochrany ukr. mužům — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md);
+    dron. útok na Tatarstán/„naše ruce od krve" — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md);
+    Ceuta — sexuální napadení nezletilých — [migrace.md](/temata/migrace.md); zbytek (Gaza/mírový plán,
+    Nagasaki, dron Lipsko, Turecko Černé moře, migrace Vondra/Gregor, Vučič/Zelenskyj, výbuch Emkov, Podněstří,
+    Dardanely/muslimské NATO, Lamanšský průliv) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md).
     Predikce (demografická proměna ČR 20/35/50 let) extrahována bezvýjimečně; bez stoch. teroru.'
   osoby:
   - osoba: aleksandar-vucic
@@ -22,16 +22,16 @@ zdroj:
       — „nejlepší prezident na světě"
   prehled:
   - tema: Zemětřesení v Kolumbii — spekulace o HAARP a Trumpově zájmu o TechNate
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: FPV drony v ČR pro ukrajinské veterány; kritika odmítání ochrany ukr. mužům, „karma" pro operátory
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Izrael odmítl mírový plán pro Gazu
     text: „Rada pro nemovitosti", USA/Izrael války jako byznys (Vietnam, Irák, Albright) — nezpracováno
       (opakování zavedené teze)
   - tema: 81. výročí Nagasaki
     text: kritika servility Japonska i ČR vůči USA — nezpracováno
   - tema: Dronový útok na Tatarstán (13 mrtvých) — „naše ruce jsou od krve"
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Dron na letišti v Lipsku
     text: DNA shoda s Litvou, paralela s Vrběticemi — nezpracováno (pokračování série z 8. 8.)
   - tema: Turecko
@@ -51,9 +51,9 @@ zdroj:
   - tema: Migrace přes Lamanšský průliv
     text: rekord 230 lidí na jednom člunu + osobní historka (manželka Srbka na hranici) — nezpracováno
   - tema: Ceuta — sexuální napadení nezletilých migrantů jako „kulturní" jev
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: Predikce
-    text: '[Demografická proměna ČR — 20/35/50 let](../predikce.md#ladislav-vrabel--postupná-demografická-proměna-čr-za-20-let-jako-rakousko-za-35-let-jako-británie-za-50-let-islámská-10-8-2026)'
+    text: '[Demografická proměna ČR — 20/35/50 let](/temata/migrace/2026.md#vrabel-2026-08-10-05)'
     vyrok: vrabel-2026-08-10-05
 vyroky:
 - id: vrabel-2026-08-10-01
@@ -97,7 +97,7 @@ vyroky:
     vyhlášen den smutku), Vrabel zdůrazňuje přímou spoluodpovědnost ČR a Západu: drony jsou podle něj
     placeny z peněz EU, ČR a NATO, Ukrajinci coby žoldáci je jen posílají — proto je podle něj potřeba
     si uvědomit, že „my máme ruce tady v tom odkrvi", a čím dřív si to Češi uvědomí, tím dřív může konflikt
-    skončit. Navazuje na dřívější tezi o přímé zodpovědnosti ČR za útok na kolej ve [Starobělsku (1. 6.)](#starobělsk-video-z-útoku-na-kolej-budanovovy-výhrůžky-a-přímá-zodpovědnost-čr-vrabel-1-6-2026).'
+    skončit. Navazuje na dřívější tezi o přímé zodpovědnosti ČR za útok na kolej ve [Starobělsku (1. 6.)](/temata/valka-ukrajina-prubeh/2026.md#vrabel-2026-06-01-05).'
   podtema: Průběh války, útoky a „terorismus"
 - id: vrabel-2026-08-10-04
   typ: tvrzeni

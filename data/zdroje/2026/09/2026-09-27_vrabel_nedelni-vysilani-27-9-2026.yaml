@@ -22,13 +22,13 @@ zdroj:
     text: „zrada národa", „nebude ručit, ale bude platit"
     vyrok: vrabel-2026-09-27-10
   - tema: F-35 jako nosiče jaderných zbraní
-    text: opakování → zdroj doplněn v [Jaderné zbraně](../jaderne-zbrane.md)
+    text: opakování → zdroj doplněn v [Jaderné zbraně](/temata/jaderne-zbrane.md)
   - tema: Francouzský „jaderný deštník"; Mrtvá ruka; smlouva s Francií
-    text: ⚡ viz [Jaderné zbraně](../jaderne-zbrane.md)
+    text: ⚡ viz [Jaderné zbraně](/temata/jaderne-zbrane.md)
   - tema: Schillerová zvyšuje daně; poplatky ČT
     text: nepodstatné — stát si peníze vezme jinde, důležité je zbrojení.
   - tema: ČR „nepřiznaný protivník", konflikt nevyhnutelný; diverzifikace ropy
-    text: ⚡ viz [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: ⚡ viz [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: 'Pavel v OSN: Krym ukrajinský'
     text: Krym je ruský
     vyrok: vrabel-2026-09-27-09
@@ -42,33 +42,33 @@ zdroj:
     text: neutralita jediná záruka, útěk do Srbska
     vyrok: vrabel-2026-09-27-11
   - tema: USA „umírající kobyla", Trump nepracuje pro USA, válka proti Slovanům
-    text: ⚡ viz [Deep State](../konspirace-deep-state-qanon.md)
+    text: ⚡ viz [Deep State](/temata/konspirace-deep-state-qanon.md)
   - tema: Chemtrails
-    text: opakování, kontrast se Srbskem → zdroj doplněn v [Konspirační teorie](../konspirace.md)
+    text: opakování, kontrast se Srbskem → zdroj doplněn v [Konspirační teorie](/temata/konspirace.md)
   - tema: Jídlo jako otrava; ovlivňování počasí
-    text: ⚡ viz [Konspirační teorie](../konspirace.md)
+    text: ⚡ viz [Konspirační teorie](/temata/konspirace.md)
   - tema: Energetický „blázinec"
     text: zatopený důl, vyhozený plynovod, plyn z USA 4× dražší (opakování).
   - tema: Digitální euro spuštěno „mezi firmami"
-    text: → zdroj doplněn v [Digitální kontrola](../digitalni-kontrola.md)
+    text: → zdroj doplněn v [Digitální kontrola](/temata/digitalni-kontrola.md)
   - tema: Psychopati u moci
-    text: ⚡ „klasický psychopat" s kulatými narozeninami (implicitně Rajchl) → viz [Politický systém](../politicky-system.md),
-      [Stochastický teror](../stochasticky-teror.md)
+    text: ⚡ „klasický psychopat" s kulatými narozeninami (implicitně Rajchl) → viz [Politický systém](/temata/politicky-system.md),
+      [Stochastický teror](/stochasticky-teror.md)
   - tema: Vučić rezignuje, aby kandidoval na premiéra
-    text: doufá, že vyhraje → [Predikce](../predikce.md)
+    text: doufá, že vyhraje → [Predikce](/predikce/index.md)
   - tema: Formát demonstrace; „podvodník", který zahodil rok 2022
-    text: ⚡ implicitně Rajchl; SPD/PRO/Trikolóru vytvořil „kmotr Hrdlička s ODS" → viz [Politický systém](../politicky-system.md)
+    text: ⚡ implicitně Rajchl; SPD/PRO/Trikolóru vytvořil „kmotr Hrdlička s ODS" → viz [Politický systém](/temata/politicky-system.md)
   - tema: Babišovi „nedá se věřit ani pozdrav"
     text: nezklamal ho, protože to předpovídal.
   - tema: 'Proč se nekupuje ruská ropa: korupce'
-    text: ⚡ viz [Ceny energie](../ceny-energie.md)
+    text: ⚡ viz [Ceny energie](/temata/ceny-energie.md)
   - tema: 'Zelenskyj: Ukrajina jako „velký Izrael"'
     text: BlackRock, „globalismus a sionismus ruku v ruce"
     vyrok: vrabel-2026-09-27-07
   - tema: Kam utéct při válce; Polsko další na řadě; islamizace ČR
-    text: ⚡ viz [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: ⚡ viz [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Bezpečnost v Egyptě
-    text: „čmoudi" → viz [Stochastický teror](../stochasticky-teror.md)
+    text: „čmoudi" → viz [Stochastický teror](/stochasticky-teror.md)
     vyrok: vrabel-2026-09-27-08
   - tema: Babišův klip o Macronově iniciativě
     text: Babiš „herec, který s námi mluví jako s dementy".
@@ -257,7 +257,7 @@ vyroky:
     vyhodnoceni:
     - datum: 2026-11-20
       text: volby 25. 10. vyhrálo studentské hnutí, Vučić uznal porážku (sám Vrabel v [Ladislav Vrabel
-        — Nedělní živé vysílání 25. 10. 2026](_zdroje.md#ladislav-vrabel--nedělní-vysílání-25-10-2026))
+        — Nedělní živé vysílání 25. 10. 2026](/zdroje/2026-10.md#2026-10-25_vrabel_nedelni-zive-vysilani-25-10-2026))
       stav: vyvraceno
 - id: vrabel-2026-09-27-15
   typ: stoch-teror

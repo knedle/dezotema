@@ -10,31 +10,31 @@ zdroj:
   prehled:
   - tema: Reakce na projev Pavla u ČRo k výročí 1968 — kritika pokrytectví, vlastní revizionistický výklad
       invaze (jaderné sklady Javor 1/2)
-    text: → [Petr Pavel](../petr-pavel.md)
+    text: → [Petr Pavel](/temata/petr-pavel.md)
   - tema: Dezerce ukrajinských vojáků z výcviku v Německu (80 případů), drastické video mučení vlastních
       vojáků
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Fedorov jako možný nástupce Zelenského, boj o povolení
     text: Fedorov jako možný nástupce Zelenského, boj o povolení útočných dronů se Starlinkem — nezpracováno
       (rozšíření zavedeného tématu)
   - tema: „Farizejové" — Babiš/Okamura/Macinka/Rajchl horší pokrytci než Pavel, ČR na 5. místě nepřátel
       Ruska
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Migranti z Maroka do Španělska
     text: „invaze", výzva k obraně armádou — nezpracováno (opakování)
   - tema: Útok mačetou ve švédské škole + video „Allahu Akbar" v newyorském metru — výzva jít do ulic
       a svrhnout vládu
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: '⚡ Konflikt: Tusk by měl být uvězněn za schvalování sabotáže Nord Streamu'
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Polský „Východní štít" (betonové překážky, rakety s doletem 1000 km)
     text: riziko eskalace — nezpracováno
   - tema: Rekordní zisky ropných firem (93 mld. $) — je Trump zachránce USA, nebo nástroj jejich rozkladu?
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Zkrácení cvičení Freedom Shield s Jižní Koreou
     text: teorie o trestu za odmítnutí pomoci v Íránu — nezpracováno
   - tema: EU „28. režim" pro firmy jako krok k federalizaci — vlastenecké strany to umožnily
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Turecko–Izrael napětí (Sýrie, Erdogan žádá Interpol o zatčení Netanjahua)
     text: geopolitická analýza — nezpracováno
   - tema: Rusko popírá potřebu mobilizace
@@ -42,10 +42,10 @@ zdroj:
   - tema: Německo
     text: objevený „tajný sklad zbraní" (2 pistole) — sarkastický komentář — nezpracováno
   - tema: Predikce
-    text: '[Kryptoměny dosáhly dna cyklu, porostou další rok](../predikce.md#ladislav-vrabel--kryptoměny-dosáhly-dna-čtyřletého-cyklu-další-rok-porostou-21-8-2026)'
+    text: '[Kryptoměny dosáhly dna cyklu, porostou další rok](/temata/ceny-energie.md#vrabel-2026-08-21-08)'
     vyrok: vrabel-2026-08-21-08
   - tema: Stochastický teror
-    text: '[Babiš — „zrádce národa", výzva k oběšení](../stochasticky-teror.md)'
+    text: '[Babiš — „zrádce národa", výzva k oběšení](/stochasticky-teror.md)'
 vyroky:
 - id: vrabel-2026-08-21-01
   typ: tvrzeni
@@ -108,7 +108,7 @@ vyroky:
     jen se prezentují jako „opozice" vůči předchozí vládě. Jako důkaz uvádí, že ČR se pod jejich vládou
     v žebříčku „nepřátelských zemí" Ruské federace posunula z 10. místa (za Fialy) na 5. místo — tedy
     zhoršila se, místo aby se zlepšila, jak by odpovídalo image budované touto koalicí (viz [Dvojí metr
-    v dodávkách zbraní](nato-zbrojeni-militarizace.md#dvojí-metr-v-dodávkách-zbraní--německo-se-stydí-čr-se-chlubí-vrabel-8-8-2026)).'
+    v dodávkách zbraní](/temata/nato-zbrojeni-militarizace.md#vrabel-2026-08-08-05)).'
   podtema: Demokracie a politický systém
 - id: vrabel-2026-08-21-05
   typ: tvrzeni
@@ -190,7 +190,7 @@ vyroky:
   - osoba: andrej-babis
     vztah: negativni
     kontext: Označen za „zrádce českého národa" za odmítnutí referenda o vystoupení z EU — jmenovaný terč
-      s výzvou k oběšení (→ [stoch. teror](../stochasticky-teror.md))
+      s výzvou k oběšení (→ [stoch. teror](/stochasticky-teror.md))
   teror:
     terc: Andrej Babiš
     hranicni: false

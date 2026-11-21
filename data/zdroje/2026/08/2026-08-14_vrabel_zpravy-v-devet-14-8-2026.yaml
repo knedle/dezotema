@@ -9,12 +9,12 @@ zdroj:
   rezim: vrabel
   delka: 01:09:47
   poznamka: 'Vrabel — deník (dlouhé páteční video, natočeno z auta cestou na festival). Plně zpracováno
-    5 z 15 témat: požáry/drony jako příprava „false flag" narativu + Tucker Carlson — [valka-nato-rusko.md](valka-nato-rusko.md);
-    Catherine Austin Fitts — USA potřebují válku kvůli dolaru — [valka-nato-rusko.md](valka-nato-rusko.md);
-    Lavrov přitvrzuje, plán vyždímat/zdevastovat Evropu — [valka-nato-rusko.md](valka-nato-rusko.md);
-    Conor Kennedy na ruském seznamu hledaných — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md);
+    5 z 15 témat: požáry/drony jako příprava „false flag" narativu + Tucker Carlson — [valka-nato-rusko.md](/temata/valka-nato-rusko.md);
+    Catherine Austin Fitts — USA potřebují válku kvůli dolaru — [valka-nato-rusko.md](/temata/valka-nato-rusko.md);
+    Lavrov přitvrzuje, plán vyždímat/zdevastovat Evropu — [valka-nato-rusko.md](/temata/valka-nato-rusko.md);
+    Conor Kennedy na ruském seznamu hledaných — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md);
     zbytek (ministr Zuna/2% HDP, audit F-35, výbuch KNDS Itálie, Japonsko/Kurily, Británie/jaderný deštník,
-    EU obaly, ukrajinské obilí, generál Grynkewich, USA popravy) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
+    EU obaly, ukrajinské obilí, generál Grynkewich, USA popravy) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md).
     Predikce (Babiš podepíše francouzský jaderný deštník) extrahována bezvýjimečně; bez stoch. teroru.'
   prehled:
   - tema: Ministr obrany Zuna
@@ -28,14 +28,14 @@ zdroj:
     text: nezpracováno (pokračování série)
   - tema: Požáry/drony po celém světě jako příprava „false flag" narativu + Tucker Carlson o provokaci
       Ruska
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Japonsko
     text: protest proti Putinově návštěvě Kurilských ostrovů, teorie o financování Hitlera americkými
       firmami — nezpracováno
   - tema: Catherine Austin Fitts — USA potřebují válku na Ukrajině kvůli dolarové dominanci
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Lavrov — Rusko „přitvrdí"; plán vyždímat a zdevastovat Evropu
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Británie
     text: sdílení jaderných zbraní s EU výměnou za přístup na trh, predikce podpisu s Francií — nezpracováno
       (predikce extrahována zvlášť)
@@ -46,11 +46,11 @@ zdroj:
   - tema: Generál Grynkewich
     text: varování před krizí Rusko+Čína 2027 — nezpracováno
   - tema: Conor Kennedy (syn RFK Jr.) na ruském seznamu hledaných za boj na Ukrajině
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: USA
     text: 3 popravy v jeden den, kritika USA jako státu založeného na genocidě/otroctví — nezpracováno
   - tema: Predikce
-    text: '[Babiš podepíše francouzský jaderný deštník](../predikce.md#ladislav-vrabel--babiš-potichu-podepíše-dohodu-o-francouzském-jaderném-deštníku-14-8-2026)'
+    text: '[Babiš podepíše francouzský jaderný deštník](/temata/valka-nato-rusko/2026.md#vrabel-2026-08-14-05)'
     vyrok: vrabel-2026-08-14-05
 vyroky:
 - id: vrabel-2026-08-14-01
@@ -90,14 +90,14 @@ vyroky:
     prostor (Rumunsko, Lotyšsko) interpretuje jako přípravu veřejného mínění na okamžik, kdy bude možné
     říct „už je to tady" — tedy jako needukovanou munici pro budoucí ospravedlnění protiruské eskalace,
     nikoli nesouvisející náhodné incidenty (odkazuje na svou tezi o [koordinovaných útocích na energetickou
-    infrastrukturu](konspirace.md#koordinované-útoky-na-energetickou-infrastrukturu-po-celém-světě-vrabel-opakovaně-naposledy-13-8-2026)).
-    Cituje souhlasně komentátora Tuckera Carlsona, který ve vysílání u Ricka Sancheze tvrdí, že ukrajinské
-    útoky na ruské území mají za cíl vyprovokovat Moskvu k odpovědi na území členského státu NATO (hypersonický
-    úder na Varšavu nebo Hamburk, případně taktická jaderná zbraň) — což by otevřelo přímý konflikt Rusko–NATO.
-    Vrabel to ilustruje vlastní metaforou „velkého Pepíka", který postrkuje „malého Karla" (Ukrajinu)
-    do rvačky s většími kluky, dokud ti nakonec neuhodí přímo Pepíka — a předpovídá, že jakmile Rusko
-    napadne členskou zemi NATO/EU, je třeba okamžitě „mazat" z EU nejlépe do vojensky neutrálního Srbska,
-    protože poté už státy uzavřou hranice a vyhlásí stav ohrožení.'
+    infrastrukturu](/temata/konspirace/2026.md#vrabel-2026-08-13-02)). Cituje souhlasně komentátora Tuckera
+    Carlsona, který ve vysílání u Ricka Sancheze tvrdí, že ukrajinské útoky na ruské území mají za cíl
+    vyprovokovat Moskvu k odpovědi na území členského státu NATO (hypersonický úder na Varšavu nebo Hamburk,
+    případně taktická jaderná zbraň) — což by otevřelo přímý konflikt Rusko–NATO. Vrabel to ilustruje
+    vlastní metaforou „velkého Pepíka", který postrkuje „malého Karla" (Ukrajinu) do rvačky s většími
+    kluky, dokud ti nakonec neuhodí přímo Pepíka — a předpovídá, že jakmile Rusko napadne členskou zemi
+    NATO/EU, je třeba okamžitě „mazat" z EU nejlépe do vojensky neutrálního Srbska, protože poté už státy
+    uzavřou hranice a vyhlásí stav ohrožení.'
   osoby:
   - osoba: tucker-carlson
     vztah: pozitivni

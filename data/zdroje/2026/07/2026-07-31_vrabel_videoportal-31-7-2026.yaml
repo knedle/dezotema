@@ -9,12 +9,12 @@ zdroj:
   rezim: vrabel
   delka: 00:03:52
   poznamka: 'Zpracováno 1 téma: eskalace Ceuty — migrační pakt vynutí přerozdělení do zemí, kde migranti
-    „ještě nejsou" (Polsko, ČR, Slovensko, Maďarsko) — [migrace.md](migrace.md). Bez predikcí a stoch.
-    teroru. Zhlédnutí: 3 158'
+    „ještě nejsou" (Polsko, ČR, Slovensko, Maďarsko) — [migrace.md](/temata/migrace.md). Bez predikcí
+    a stoch. teroru. Zhlédnutí: 3 158'
   prehled:
   - tema: 'Zpracováno 1 téma: eskalace Ceuty'
     text: migrační pakt vynutí přerozdělení do zemí, kde migranti „ještě nejsou" (Polsko, ČR, Slovensko,
-      Maďarsko) — [migrace.md](../migrace.md). Bez predikcí a stoch. teroru.
+      Maďarsko) — [migrace.md](/temata/migrace.md). Bez predikcí a stoch. teroru.
 vyroky:
 - id: vrabel-2026-07-31-04
   typ: tvrzeni

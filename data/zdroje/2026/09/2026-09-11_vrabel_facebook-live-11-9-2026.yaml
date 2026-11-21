@@ -9,33 +9,33 @@ zdroj:
   rezim: vrabel
   prehled:
   - tema: Litva ruší ústavní zákaz jaderných zbraní; Peskovo varování; paralela s ČR/Francií
-    text: → [Jaderné zbraně](../jaderne-zbrane.md)
+    text: → [Jaderné zbraně](/temata/jaderne-zbrane.md)
   - tema: Německo staví první trvalou zahraniční základnu Bundeswehru — Litva
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: 25. výročí 11. září — pochybnosti o oficiální verzi, sedmý mrakodrap, Wesley Clark
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: EU schválila 6,1 mld. eur na munici/drony pro Ukrajinu — mechanismus zakázek z ruky
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: AfD trestní oznámení na Merze za "etnickou čistku"; Vrabelova nuance k migraci
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: '"Super El Niño" — varování před ovlivňováním počasí'
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: Centralizace onkologické péče (78→22 pracovišť) — kritika Vojtěcha
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Ukrajinská mobilizace "podle plánu" — režim vs. vlastní lidé
-    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině](/temata/valka-ukrajina-prubeh.md)
   - tema: Ministr Zůna neodjede do Číny, poslouchá Okamuru
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Prodej ČSA/Smartwings turecké firmě Pegasus Airlines
-    text: → [Kauzy](../kauzy.md)
+    text: → [Kauzy](/temata/kauzy.md)
   - tema: Rutteho "obranná průmyslová revoluce" — Evropa jako výrobna zbraní
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: 'Putin: BRICS 40 % světového HDP vs. G7 29 %'
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: Húsíové obsadili přístav Mocha a postupují k Bab al-Mandabu
     text: nezpracováno
   - tema: Ceny benzínu a elektřiny — Německo/Rusko/Srbsko srovnání
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
 vyroky:
 - id: vrabel-2026-09-11-01
   typ: tvrzeni

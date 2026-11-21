@@ -69,7 +69,7 @@ zdroj:
     vyrok: vrabel-2026-10-18-04
   - tema: 'Senátní volby: proč koalice neuspěla'
     text: nesplněné sliby; za „zákaz“ referenda by si Pavel a Babiš zasloužili, „aby je národ hnal ulicama“
-      → viz [Stochastický teror](../stochasticky-teror.md)
+      → viz [Stochastický teror](/stochasticky-teror.md)
     vyrok: vrabel-2026-10-18-04
   - tema: Odvolatelnost politiků („indiánský kmen“)
     text: opakuje požadavek soudního odvolání politika, který neplní program; zrádného náčelníka kmen
@@ -98,7 +98,7 @@ zdroj:
     vyrok: vrabel-2026-10-18-01
   - tema: Trump a sankce
     text: nezrušil protiruské sankce, jen Grahamův zákon; ⚡ „za dva roky demokrati vyhrajou“, „válka je
-      za dveřma“ → viz [Predikce](../predikce.md)
+      za dveřma“ → viz [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-18-03
   - tema: Babišova vláda horší než Fialova
     text: dělá totéž, ale lže; na Ukrajinu prý posílá víc peněz i zbraní
@@ -109,7 +109,7 @@ zdroj:
     text: Tesař, Hartoš, Koller; 727 diváků je „zanedbatelná skupina“, republika jde „jako ovce“ na porážku.
   - tema: Dronový útok na rafinerie u Petrohradu, fronty na polské hranici
     text: Rusko bude muset válčit na území Evropy, k nám přijdou statisíce až miliony Ukrajinců → viz
-      [Migrace](../migrace.md), [Predikce](../predikce.md)
+      [Migrace](/temata/migrace.md), [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-18-03
   - tema: Jaderná eskalace
     text: porazit jadernou velmoc bez jaderné války nelze; Pavel a Babiš chtějí francouzské jaderné zbraně,
@@ -134,7 +134,7 @@ zdroj:
     vyrok: vrabel-2026-10-18-02
   - tema: Ukrajinizace (dotaz diváka)
     text: Ukrajinci získají občanství, mají „blíž k ozbrojeným mafiím“ a budou chtít, aby Češi šli na
-      frontu; „Česko-Ukrajinsko“ → viz [Stochastický teror](../stochasticky-teror.md), [Predikce](../predikce.md)
+      frontu; „Česko-Ukrajinsko“ → viz [Stochastický teror](/stochasticky-teror.md), [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-18-01
   - tema: Symbol Z a ruská vlajka
     text: sám symboly nenosí, Z je „blbý vůči těm Ukrajincům“, ale kdo ho nosí, má na to právo.
@@ -164,14 +164,13 @@ vyroky:
     milionech“ dalších Ukrajinců, kteří po získání občanství budou volit a zakládat strany. Jsou prý „víc
     temperamentní, řekněme, abych neříkal agresivní“, mají „trošičku blíž k takovým těm ozbrojeným mafím“,
     přinesou zbraně z Ukrajiny a budou se cítit, že jim Češi dluží: „budou chtít, aby Češi šli sloužit
-    na tu frontu“ (viz [Stochastický teror](stochasticky-teror.md), [Predikce](predikce.md)). Z Československa
-    se tak podle něj stane „Česko-Ukrajinsko“.'
+    na tu frontu“ (viz [Stochastický teror](/stochasticky-teror.md), [Predikce](/predikce/index.md)).
+    Z Československa se tak podle něj stane „Česko-Ukrajinsko“.'
   osoby:
   - osoba: andrej-babis
     vztah: negativni
     kontext: „EU patriot“ není vlastenec; za „zákaz“ referenda a muniční iniciativu by ho lidé měli „hnát
-      ulicama“ (→ [stoch. teror](../stochasticky-teror.md)); jeho vláda je „mnohem horší“ než Fialova,
-      „lže“
+      ulicama“ (→ [stoch. teror](/stochasticky-teror.md)); jeho vláda je „mnohem horší“ než Fialova, „lže“
   - osoba: tomio-okamura
     vztah: negativni
     kontext: V Srbsku přesvědčoval politiky ke vstupu do EU, „nejsou vlastenci“; SPD mluví „populisticky“
@@ -216,7 +215,7 @@ vyroky:
     Rusko proti celému Západu by podle něj vyhrát nemuselo, kdyby se ale přidaly Čína a Indie, „smetou
     Západ“. Za čtyři roky se podle něj válka ve společnosti „normalizovala“. Trump prý nezrušil protiruské
     sankce, jen zákon Lindseyho Grahama, a „za dva roky demokrati vyhrajou ve Spojených státech“. Evropa
-    ale podle něj může do války jít i bez nich: „ta válka opravdu je za dveřma“ (viz [Predikce](predikce.md)).
+    ale podle něj může do války jít i bez nich: „ta válka opravdu je za dveřma“ (viz [Predikce](/predikce/index.md)).
     K útoku tisíce ukrajinských dronů na rafinerie u Petrohradu říká, že Rusko si nemůže dovolit, aby
     Západ útočil na Rusko a ono jen na Ukrajinu: „Rusko recipročně musí prostě jít a válčit na území Evropy.
     Jinak prostě prohrajou.“ Kdo chce porazit největší jadernou velmoc, musí podle něj počítat s jadernými
@@ -228,7 +227,7 @@ vyroky:
   osoby:
   - osoba: petr-pavel
     vztah: negativni
-    kontext: S Babišem „zakázal“ referendum, „aby je národ hnal ulicama“ (→ [stoch. teror](../stochasticky-teror.md));
+    kontext: S Babišem „zakázal“ referendum, „aby je národ hnal ulicama“ (→ [stoch. teror](/stochasticky-teror.md));
       chce francouzské jaderné zbraně v ČR
   - osoba: donald-trump
     vztah: rozporuplny
@@ -247,14 +246,14 @@ vyroky:
     sliby a „lidi jim nevěří“. Hlavní zradou je pro něj ústup od referenda o vystoupení z EU a NATO (jako
     první prý couvlo SPD) a výroky Pavla a Babiše, že ho nepovolí: „Už jenom za tohle by zasloužili prostě,
     aby je národ hnal ulicama.“ Za nezrušenou muniční iniciativu by Babiše lidé měli hnát „možná tunelama
-    metra. Přes celou Prahu tam a zpátky“ (viz [Stochastický teror](stochasticky-teror.md)). Opakuje požadavek
-    soudní odvolatelnosti politiků, kteří neplní volební program, a ilustruje ho „indiánským kmenem“,
-    jehož stařešinové náčelníka, který zradil, odvolají „ke kůlu“, kde na něm mladíci trénují střelbu
-    z luku. SPD na ministerstvu obrany (Jaromír Zůna) podle něj „jede rozkazy od NATO“ stejně jako předchozí
-    ministryně a Babišova vláda je „mnohem horší“ než Fialova, protože dělá totéž, ale „lže“ (na Ukrajinu
-    prý posílá víc peněz i zbraní). Divačce váhající mezi Karlem Řehkou a kandidátkou ANO ani divákovi
-    z Chicaga před volbami do Kongresu USA neporadil: „každá rada drahá“, problémem je systém, demokraté
-    i republikáni jsou „lumpové“.'
+    metra. Přes celou Prahu tam a zpátky“ (viz [Stochastický teror](/stochasticky-teror.md)). Opakuje
+    požadavek soudní odvolatelnosti politiků, kteří neplní volební program, a ilustruje ho „indiánským
+    kmenem“, jehož stařešinové náčelníka, který zradil, odvolají „ke kůlu“, kde na něm mladíci trénují
+    střelbu z luku. SPD na ministerstvu obrany (Jaromír Zůna) podle něj „jede rozkazy od NATO“ stejně
+    jako předchozí ministryně a Babišova vláda je „mnohem horší“ než Fialova, protože dělá totéž, ale
+    „lže“ (na Ukrajinu prý posílá víc peněz i zbraní). Divačce váhající mezi Karlem Řehkou a kandidátkou
+    ANO ani divákovi z Chicaga před volbami do Kongresu USA neporadil: „každá rada drahá“, problémem je
+    systém, demokraté i republikáni jsou „lumpové“.'
   osoby:
   - osoba: petr-drulak
     vztah: negativni

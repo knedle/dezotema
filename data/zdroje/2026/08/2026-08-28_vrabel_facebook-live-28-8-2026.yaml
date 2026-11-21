@@ -9,11 +9,11 @@ zdroj:
   rezim: vrabel
   prehled:
   - tema: Komentář Vladimíra Štěpána k Dukovanům/Temelínu — kritika jeho nekonzistence k EU
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Nejbohatší Čech Michal Strnad a Křetínský
     text: „digitální feudalismus" — nezpracováno
   - tema: MPSV škrtá podporu v nezaměstnanosti od 2027
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Von der Leyen v Paříži o konci levných energií
     text: nezpracováno (opakování)
   - tema: EU „Unie úspor a investic"
@@ -21,25 +21,25 @@ zdroj:
   - tema: Putin na fóru v Nižním Novgorodu, citace Emira Kusturici
     text: nezpracováno
   - tema: Německý generál Kujat kritizuje podporu Ukrajiny
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Babišova „schizofrenie" k rozpočtu EU (pokrač.)
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Mladičův pohřeb se státními poctami (pokrač.)
     text: nezpracováno (opakování)
   - tema: Konfrontace Koriny Rybářové s Petrem Hájkem
-    text: → [Jaderné zbraně](../jaderne-zbrane.md)
+    text: → [Jaderné zbraně](/temata/jaderne-zbrane.md)
   - tema: Venezuela/OPEC — vzorec „demokratizace"
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Rusko testovalo mezikontinentální raketu z Plesecku
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Anthropic vyhrál spor s Pentagonem
     text: nezpracováno
   - tema: Lavrov o multipolárním světě
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Zelenskyj nařídil 1000 dronových úderů denně
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: '"Sušenky" z recyklovaného PET plastu jako budoucí potravina'
-    text: → [Konspirace](../konspirace.md)
+    text: → [Konspirace](/temata/konspirace.md)
 vyroky:
 - id: vrabel-2026-08-28-01
   typ: tvrzeni
@@ -73,7 +73,7 @@ vyroky:
     o nemožnosti změny skrze politické strany, než ho „převálcoval" nepozvaný Jindřich Rajchl (v té době
     jeho bezplatný advokát) ohlášením vlastní strany — a Hájek na to jen mlčel. Zdůrazňuje, že nestojí
     na straně žádné z „ODS klik" (motoristé s Klausem ml., PRO/Trikolóra s Hrdličkou, Naše Česko s Kubou
-    a Dlouhým), a odmítá být zatahován do sporů mezi nimi o „korito" — [Facebook Live 28. 8.](_zdroje.md#ladislav-vrabel--facebook-live-28-8-2026)'
+    a Dlouhým), a odmítá být zatahován do sporů mezi nimi o „korito" — [Facebook Live 28. 8.](/zdroje/2026-08.md#2026-08-28_vrabel_facebook-live-28-8-2026)'
 - id: vrabel-2026-08-28-03
   typ: tvrzeni
   temata:

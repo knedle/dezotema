@@ -14,18 +14,18 @@ zdroj:
       nasadit tureckou „pátou kolonu" v Německu/Rakousku
   prehled:
   - tema: Větrníky/Green Deal — vláda poruší předvolební slib (66 turbín Zlínsko/Olomoucko)
-    text: → [Větrné elektrárny](../vetrniky.md)
+    text: → [Větrné elektrárny](/temata/vetrniky.md)
   - tema: Daň z nemovitosti pro vlastníky více nemovitostí — „salámová metoda"
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Muniční iniciativa pokračuje „dokud bude Ukrajina potřebovat" (Zůna/SPD)
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Právo veta v EU fakticky již zrušeno — 11 zemí žádá rozšíření hlasování kvalifikovanou většinou
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Erdogan/Turecko jako „pátá kolona" v Německu/Rakousku
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Nová obvinění Ruska bez důkazů (Halle, Jänschwalde, polská VB Electronics) — paralela s přípravou
       2. sv. války
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-09-01-01
   typ: tvrzeni

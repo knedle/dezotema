@@ -10,20 +10,20 @@ zdroj:
   prehled:
   - tema: Macinkova aféra s falešným rozhovorem (Pšenákova past s maketou zbraně a výbušniny), předvolání
       ruské velvyslankyně kvůli Halle jako nepřiměřená reakce
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Finanční systém od r. 1971 — konec zlatého standardu, znehodnocení dolaru, „plundrování", doporučení
       nedržet peníze v bankách
-    text: → [Digitální kontrola](../digitalni-kontrola.md)
+    text: → [Digitální kontrola](/temata/digitalni-kontrola.md)
   - tema: Petr Pavel „kopíruje" mluvu Petra Koláře, přirovnání k epizodě Dr. House
-    text: → [Petr Pavel](../petr-pavel.md)
+    text: → [Petr Pavel](/temata/petr-pavel.md)
   - tema: Národní fond obnovy — 40 % na Green Deal, 20 % na digitalizaci/sledování místo pomoci zkrachovalým
       živnostníkům
-    text: → [Kauzy](../kauzy.md)
+    text: → [Kauzy](/temata/kauzy.md)
   - tema: Eskalace Německo-Rusko (žhářské útoky, německý test
     text: Eskalace Německo-Rusko (žhářské útoky, německý test balistické střely, dánské varování, incident
       s nožem/„senegalský fotbalista") — nezpracováno (opakování vzorce „false flag")
   - tema: Petice za referendum o vystoupení z EU, protože chystaný zákon o referendu vyloučí témata EU/NATO
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
 vyroky:
 - id: vrabel-2026-09-03-01
   typ: tvrzeni

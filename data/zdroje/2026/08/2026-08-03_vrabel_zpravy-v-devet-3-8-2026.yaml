@@ -8,30 +8,31 @@ zdroj:
   prepis: prepisy/done/2026-08-03_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
   delka: 00:52:55
-  poznamka: 'Zpracováno 8 témat: (1) Podzimní demonstrace upřesněna na říjen, desatero — [jaderne-zbrane.md](jaderne-zbrane.md).
-    (2) Vedra/sucho — dopady na energetiku a potraviny (Rakousko) — [ceny-energie.md](ceny-energie.md).
-    (3) Bitcoinová kauza jako „vrtěti psem" — [kauzy.md](kauzy.md). (4) Reform UK — vracení lodí v Lamanšském
-    průlivu — [migrace.md](migrace.md). (5) Saúdský princ žádá Trumpa o deeskalaci, Írán popírá jednání
-    — [blizky-vychod.md](blizky-vychod.md). (6) Izrael odmítl dodat Ukrajině Iron Dome — [blizky-vychod.md](blizky-vychod.md).
-    (7) Britská studie blokátorů puberty — [rodina-deti.md](rodina-deti.md). (8) Dronový útok na pláž
-    v Krasnodaru — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). Bez predikcí a stoch. teroru.'
+  poznamka: 'Zpracováno 8 témat: (1) Podzimní demonstrace upřesněna na říjen, desatero — [jaderne-zbrane.md](/temata/jaderne-zbrane.md).
+    (2) Vedra/sucho — dopady na energetiku a potraviny (Rakousko) — [ceny-energie.md](/temata/ceny-energie.md).
+    (3) Bitcoinová kauza jako „vrtěti psem" — [kauzy.md](/temata/kauzy.md). (4) Reform UK — vracení lodí
+    v Lamanšském průlivu — [migrace.md](/temata/migrace.md). (5) Saúdský princ žádá Trumpa o deeskalaci,
+    Írán popírá jednání — [blizky-vychod.md](/temata/blizky-vychod.md). (6) Izrael odmítl dodat Ukrajině
+    Iron Dome — [blizky-vychod.md](/temata/blizky-vychod.md). (7) Britská studie blokátorů puberty — [rodina-deti.md](/temata/rodina-deti.md).
+    (8) Dronový útok na pláž v Krasnodaru — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md).
+    Bez predikcí a stoch. teroru.'
   prehled:
   - tema: Podzimní demonstrace upřesněna na říjen, desatero (jaderná aliance jako téma č. 1)
-    text: → [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md)
+    text: → [Jaderné zbraně a jaderná hrozba](/temata/jaderne-zbrane.md)
   - tema: Vedra/sucho — dopady na energetiku a potraviny (Rakousko)
-    text: → [Ceny energií](../ceny-energie.md)
+    text: → [Ceny energií](/temata/ceny-energie.md)
   - tema: Bitcoinová kauza jako „vrtěti psem"
-    text: → [Kauzy a korupce](../kauzy.md)
+    text: → [Kauzy a korupce](/temata/kauzy.md)
   - tema: Reform UK — vracení lodí v Lamanšském průlivu
-    text: → [Migrace a islamizace](../migrace.md)
+    text: → [Migrace a islamizace](/temata/migrace.md)
   - tema: Saúdský princ žádá Trumpa o deeskalaci, Írán popírá jednání
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Izrael odmítl dodat Ukrajině Iron Dome
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Britská studie blokátorů puberty u dětí
-    text: → [Rodina a děti](../rodina-deti.md)
+    text: → [Rodina a děti](/temata/rodina-deti.md)
   - tema: Dronový útok na pláž v Krasnodaru (7 mrtvých, 3 děti)
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
 vyroky:
 - id: vrabel-2026-08-03-01
   typ: tvrzeni
@@ -84,7 +85,7 @@ vyroky:
     je explicitní požadavek, aby ČR (prezident Pavel i vláda Babiše) nebyla „zavlečena" do žádné jaderné
     aliance — ani NATO nuclear sharing, ani americké, ani francouzské — s odůvodněním, že jde o životy
     všech obyvatel ČR, nikoli jen politickou preferenci. Slibuje postupně odhalovat další body desatera
-    v dalších dnech. — [Zprávy v devět 3. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-3-8-2026)'
+    v dalších dnech. — [Zprávy v devět 3. 8.](/zdroje/2026-08.md#2026-08-03_vrabel_zpravy-v-devet-3-8-2026)'
 - id: vrabel-2026-08-03-05
   typ: tvrzeni
   temata:

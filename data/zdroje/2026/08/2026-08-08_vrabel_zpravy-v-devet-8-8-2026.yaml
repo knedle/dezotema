@@ -10,38 +10,38 @@ zdroj:
   delka: 01:03:13
   poznamka: 'Vrabel — deník. Plně zpracováno 11 z 12 témat (Trump taneční sál bez komentáře nezpracován):
     Maďarsko prezident/Szijjártó, dron Bulharsko/Lipsko, Argentina půda, Německo/ČR zbraně, Ukrajina kartonová
-    demokracie, Musk/Starlink, Turecko Dardanely, Nawrocki, Zelenskyj Bělehrad — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
+    demokracie, Musk/Starlink, Turecko Dardanely, Nawrocki, Zelenskyj Bělehrad — viz [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md).
     Predikce (Rusko 95% vyhraje) a stoch. teror (Nawrocki) extrahovány bezvýjimečně.'
   prehled:
   - tema: Maďarsko — dosazení prezidenta Baky bez řádného konce mandátu
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Vyšetřování Szijjártóa z korupce — politicky motivované stíhání opozice
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Dron/výbuch v Bulharsku u plynovodu, pokračování série „ruských" incidentů
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Argentina — protesty proti skupování půdy cizinci, kritika ČR
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: Trump
     text: plán tanečního sálu s „vojenským komplexem" v Bílém domě — bez komentáře, nezpracováno
   - tema: Německo/ČR — dvojí metr v dodávkách zbraní (houfnice vs. Česká muniční iniciativa)
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Ukrajina jako „kartonová demokracie"
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Elon Musk odmítl Starlink pro útoky na ruské území
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Dron v Lipsku
-    text: doplnění do stejné série — → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: doplnění do stejné série — → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Turecko omezuje plavbu Dardanely — „pátá kolona" v Evropě
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Varování polskému prezidentu Nawrockému — riziko potrestání Ruskem
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Zelenskyj v Bělehradu — oprava médií + kritika Vučičovy právní nekonzistence
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Predikce
-    text: '[Rusko vyhraje s „95% pravděpodobností"](../predikce.md#ladislav-vrabel--rusko-vyhraje-válku-na-ukrajině-s-95-pravděpodobností-8-8-2026)'
+    text: '[Rusko vyhraje s „95% pravděpodobností"](/temata/valka-nato-rusko/2026.md#vrabel-2026-08-08-10)'
     vyrok: vrabel-2026-08-08-10
   - tema: Stochastický teror
-    text: '[Nawrocki — riziko „potrestání" Ruskem](../stochasticky-teror.md)'
+    text: '[Nawrocki — riziko „potrestání" Ruskem](/stochasticky-teror.md)'
 vyroky:
 - id: vrabel-2026-08-08-01
   typ: tvrzeni

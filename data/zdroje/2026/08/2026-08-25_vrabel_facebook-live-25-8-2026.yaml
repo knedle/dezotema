@@ -14,27 +14,27 @@ zdroj:
       financovala nacismus
   prehled:
   - tema: Agenda 2030 jako reálná vládní politika vedoucí k technokracii
-    text: → [Konspirace](../konspirace.md)
+    text: → [Konspirace](/temata/konspirace.md)
   - tema: Digitalizace měn, tokenizace majetku, krize dluhopisů
     text: Digitalizace měn, tokenizace majetku, krize dluhopisů USA/EU (skupování vlastního dluhu) — nezpracováno
   - tema: Moskva odmítá správu Donbasu třetí stranou, nemožnost porazit Rusko vojensky
     text: nezpracováno
   - tema: Kritika mobilizace ukrajinských žen do armády (Keith Kellogg)
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Druhá světová válka jako „válka proti Slovanům", Rockefellerové financovali Hitlera i Zelenského
-    text: → [Konspirace](../konspirace.md)
+    text: → [Konspirace](/temata/konspirace.md)
   - tema: Rok 1968 — invaze zabránila „Majdanu" v Československu (opakování)
-    text: → [Petr Pavel](../petr-pavel.md)
+    text: → [Petr Pavel](/temata/petr-pavel.md)
   - tema: Šéf CIA Ratcliffe tajně v Moskvě, spekulace o velké dohodě/parcelaci Ukrajiny
     text: nezpracováno
   - tema: Ukrajina jako „neúspěšný stát" bez práva na územní celistvost
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Německo/Merz připravuje krok proti Rusku, AfD sílí před zemskými volbami
     text: nezpracováno
   - tema: Paralela s 2. sv. válkou — Evropa má být „obětována"
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Kosovo a Metochie — útlak Srbů, predikce vyřešení po válce na Ukrajině
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Úpadek dominance NATO/USA (Čína, KLDR), predikce že ČR bude určovat spíš Rusko
     text: nezpracováno (predikce zaznamenána)
   - tema: EU dluhopisy, zmrazená ruská aktiva, Lagarde a WEF
@@ -42,12 +42,11 @@ zdroj:
   - tema: Hormuzský průliv
     text: dohoda Írán/Omán, predikce odchodu USA z Blízkého východu — nezpracováno
   - tema: Islamizace jako „největší problém" — historie tureckého útlaku Srbů
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: Predikce
-    text: '[Technokracie po válce](../predikce.md#ladislav-vrabel--po-válce-nahradí-demokracii-technokracie-25-8-2026),
-      [Evropa obětována, miliony mrtvých Slovanů](../predikce.md#ladislav-vrabel--evropa-bude-obětována-miliony-mrtvých-slovanů-25-8-2026),
-      [Kosovo vyřešeno po válce](../predikce.md#ladislav-vrabel--otázka-kosova-se-vyřeší-po-válce-na-ukrajině-srbský-národ-se-spojí-25-8-2026),
-      [ČR pod ruským vlivem](../predikce.md#ladislav-vrabel--politiku-čr-bude-časem-určovat-spíš-rusko-než-usa-25-8-2026)'
+    text: '[Technokracie po válce](/temata/konspirace/2026.md#vrabel-2026-08-25-09), [Evropa obětována,
+      miliony mrtvých Slovanů](/temata/valka-ukrajina-prubeh/2026.md#vrabel-2026-08-25-10), [Kosovo vyřešeno
+      po válce](/temata/valka-nato-rusko/2026.md#vrabel-2026-08-25-11), [ČR pod ruským vlivem](/temata/valka-nato-rusko/2026.md#vrabel-2026-08-25-12)'
     vyrok: vrabel-2026-08-25-09
 vyroky:
 - id: vrabel-2026-08-25-01
@@ -57,7 +56,7 @@ vyroky:
   nadpis: Agenda 2030 jako reálná vládní politika vedoucí k technokracii (Vrabel, 25. 8. 2026)
   text: Vrabel tvrdí, že Agenda 2030 není „výmysl", ale reálně zakotvená politika — odkazuje na vládní
     programové prohlášení a stránku www.2030.cz, kde jednotlivá ministerstva rozpracovávají desítky agend
-    OSN/EU do vlastní působnosti. Předpovídá, že po válce (viz [Predikce](predikce.md#ladislav-vrabel--po-válce-nahradí-demokracii-technokracie-25-8-2026))
+    OSN/EU do vlastní působnosti. Předpovídá, že po válce (viz [Predikce](/temata/konspirace/2026.md#vrabel-2026-08-25-09))
     dojde k přechodu demokracie na technokracii — vládu založenou na datech a algoritmech místo zkorumpovaných
     politiků — a jako klíčové postavy budoucí technokratické společnosti (existující dle něj od 20. let
     minulého století) jmenuje Elona Muska, Petera Thiela a Alexe Karpa (zakladatele Palantiru). Spojuje
@@ -73,12 +72,12 @@ vyroky:
   text: |-
     Vrabel tvrdí, že druhá světová válka nebyla především válkou proti Židům, ale válkou proti Slovanům — s odkazem na počet zabitých Slovanů oproti obětem holokaustu. Tvrdí, že rodina Rockefellerů (jmenovitě David Rockefeller) financovala nacistické Německo, včetně výroby plynu Cyklon B pro koncentrační tábory, a že tatáž „rodina hazarských židů" dnes financuje Volodymyra Zelenského — se závěrem, že hlavním beneficientem obou válek jsou Spojené státy (po 2. světové válce ovládly světovou rezervní měnu skrze Brettonwoodský systém). Podobně vyzdvihuje financování Adolfa Hitlera americkými firmami (Ford, Coca-Cola).
 
-    ⚡ **Poznámka:** Tvrzení o financování nacismu i dnešní ukrajinské vlády konkrétní židovskou rodinou/„hazarskými židy" je antisemitský konspirační topos; srov. [BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu](#brics-vs-unipolární-svět-konflikt-o-dolar-a-globalistickou-chazarskou-nadvládu-vrabel-8-6-2026).
+    ⚡ **Poznámka:** Tvrzení o financování nacismu i dnešní ukrajinské vlády konkrétní židovskou rodinou/„hazarskými židy" je antisemitský konspirační topos; srov. [BRICS vs unipolární svět: konflikt o dolar a globalistickou „chazarskou" nadvládu](/temata/konspirace/2026.md#vrabel-2026-06-08-02).
   osoby:
   - osoba: david-rockefeller
     vztah: negativni
     kontext: Tvrzení, že financoval nacistické Německo (výrobu Cyklonu B) i dnes financuje Volodymyra
-      Zelenského (→ [konspirace](../konspirace.md))
+      Zelenského (→ [konspirace](/temata/konspirace.md))
   dalsi_zdroje:
   - 2026-09-27_vrabel_nedelni-vysilani-27-9-2026
   podtema: Náboženský a okultní výklad moci
@@ -88,7 +87,7 @@ vyroky:
   - migrace
   nadpis: Islamizace jako „největší a nejnebezpečnější problém" — historie tureckého útlaku Srbů (Vrabel,
     25. 8. 2026)
-  text: V návaznosti na téma Kosova (viz [Válka, NATO a Rusko](valka-nato-rusko.md#kosovo-a-metochie-útlak-srbů-má-být-vyřešen-po-skončení-války-na-ukrajině-vrabel-25-8-2026))
+  text: V návaznosti na téma Kosova (viz [Válka, NATO a Rusko](/temata/valka-nato-rusko.md#kosovo-a-metochie-útlak-srbů-má-být-vyřešen-po-skončení-války-na-ukrajině-vrabel-25-8-2026))
     Vrabel líčí historii tureckého („janičárského") útlaku Srbů na Balkáně (napichování na kůl, únosy
     dětí za účelem převýchovy na vojáky), aby doložil, že Srbsko zůstalo na rozdíl od zbytku Evropy „etnicky
     čisté" a bez muslimské populace, protože se islamizaci dlouhodobě bránilo. Explicitně řadí islamizaci
@@ -144,10 +143,10 @@ vyroky:
   text: 'Vrabel rozvíjí analogii: stejně jako po 2. světové válce z konfliktu ekonomicky nejvíc profitovaly
     USA (převzaly světovou rezervní měnu, zatímco Evropa byla zničena a Sovětský svaz „vykrvácel"), předpokládá,
     že i dnešní válka skončí obdobně — zničením/oslabením především východní Evropy ve prospěch udržení
-    americké dominance (viz [Predikce](predikce.md#ladislav-vrabel--evropa-bude-obětována-miliony-mrtvých-slovanů-25-8-2026)).
-    Odhaduje na základě amerických „ex-plukovníků" celkové ztráty milion až 2,5 milionu na straně Ukrajiny
-    a několik set tisíc na straně Ruska — s tím, že „kanónenfutrem" jsou v tomto konfliktu opět Slované,
-    zatímco žoldnéřů z anglosaských zemí je málo.'
+    americké dominance (viz [Predikce](/temata/valka-ukrajina-prubeh/2026.md#vrabel-2026-08-25-10)). Odhaduje
+    na základě amerických „ex-plukovníků" celkové ztráty milion až 2,5 milionu na straně Ukrajiny a několik
+    set tisíc na straně Ruska — s tím, že „kanónenfutrem" jsou v tomto konfliktu opět Slované, zatímco
+    žoldnéřů z anglosaských zemí je málo.'
   podtema: Vyjednávání a mír
 - id: vrabel-2026-08-25-08
   typ: tvrzeni
@@ -161,7 +160,7 @@ vyroky:
     budoucnosti Evropy v otázkách migrace a islamizace (rozpad Jugoslávie jako předobraz osudu Evropy).
     Tvrdí, že jednotky KFOR (přítomné od 90. let) jen nečinně přihlížely ničení srbských kostelů a hřbitovů
     albánskou většinou. Odkazuje na dřívější slib ruského velvyslance Srbsku, že po skončení konfliktu
-    na Ukrajině se otázka Kosova vyřeší (viz [Predikce](predikce.md#ladislav-vrabel--otázka-kosova-se-vyřeší-po-válce-na-ukrajině-srbský-národ-se-spojí-25-8-2026)),
+    na Ukrajině se otázka Kosova vyřeší (viz [Predikce](/temata/valka-nato-rusko/2026.md#vrabel-2026-08-25-11)),
     a spojuje to s obecnějším postřehem o slábnoucí schopnosti NATO/USA vojensky i politicky ovládat dění
     po celém světě (vedle KLDR a Číny jako rostoucích vojenských velmocí).'
   podtema: Zahraniční aktéři a precedenty

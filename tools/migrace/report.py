@@ -188,6 +188,13 @@ def srovnani(wiki_old: Path, archiv: Archiv, nezarazeno: dict | None = None,
     L.append("")
     celkem, osirele = _osiracele_odkazy(wiki_old, archiv, stare_kotvy, kotvy_zdroju) \
         if migrace_dir else (0, [])
+    po = (migrace_dir / "odkazy.json") if migrace_dir else None
+    if po and po.is_file():
+        od = json.loads(po.read_text(encoding="utf-8"))
+        L += [f"## Odkazy přepsané v datech ({od['prelozeno']} z {od['celkem']})", "",
+              f"Neznámé odkazy zůstaly v textech beze změny ({len(od['nepreložené'])}):", ""]
+        L += [f"- `{o}`" for o in od["nepreložené"]] or ["- (žádné)"]
+        L.append("")
     L += [f"## Osiřelé vnitřní odkazy ({len(osirele)} z {celkem} vnitřních odkazů)", "",
           "Odkazy ve staré wiki, jejichž cíl nelze přeložit na nový výrok, zdroj ani stránku "
           "(kotvy uvnitř `osoby/*`, `predikce.md`, `stochasticky-teror.md` a přehledu se "

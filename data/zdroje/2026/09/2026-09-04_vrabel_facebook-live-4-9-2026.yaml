@@ -15,33 +15,33 @@ zdroj:
   prehled:
   - tema: EZ Karta jako nová verze digitálního "covidového pasu", spojení s Palantirem, AI nezaměstnaností
       a nepodmíněným příjmem
-    text: → [Digitální kontrola](../digitalni-kontrola.md)
+    text: → [Digitální kontrola](/temata/digitalni-kontrola.md)
   - tema: Mírová jednání USA–Rusko–Ukrajina (Witkoff, Kushner do Kyjeva, Ratcliffe), 65% šance na neúspěch
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md), predikce
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md), predikce
   - tema: 'Dron zasáhl kancelář šéfa SBU v Kyjevě — Vrabel: vnitřní vyřizování účtů, ne ruský útok'
-    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině](/temata/valka-ukrajina-prubeh.md)
   - tema: Nový obranný dokument ČR (Rusko jako hlavní hrozba) — výzva zásobit se na dlouhodobý konflikt
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Sabotáž elektrické stanice v Německu a spor o "lipský" dron (Robejšek) — opět zpochybnění ruské
       viny
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Macinkova ostuda s rozhovorem Paukner/Pšenák (opakování z 3. 9., jen nový zdroj)
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Německo vyrábí 5000 dálkových dronů pro Ukrajinu (dolet 1500 km)
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: 'Ukrajinský velvyslanec varuje před ruskými veterány — Vrabel obrací: hrozbou jsou ukrajinští
       veteráni (mafie)'
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: Trump chce, aby EU zaplatila USA za munici pro Ukrajinu (300–350 mld. USD)
     text: nezpracováno
   - tema: Polsko rozesílá mobilizační kartičky záložníkům — výzva mladým mužům nejít bojovat
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Ukrajina žádá další finanční pomoc (27 mld. USD deficit),
     text: Ukrajina žádá další finanční pomoc (27 mld. USD deficit), EU tlačí na Itálii/Španělsko o Patrioty
       — nezpracováno
   - tema: Smrt Ratka Mladiće a plánovaný státní pohřeb v Srbsku — glorifikace jako hrdiny, kritika EU
       (Marta Kos)
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-09-04-01
   typ: tvrzeni
@@ -53,7 +53,7 @@ vyroky:
     testy) do centrálních datových center. Vrabel to popisuje jako naplnění varování, které on i další
     zazněla už na demonstracích v letech 2020–2021 proti tehdejší vládě (Babiš, Šilerová, Havlíček, Vojtěch)
     — obává se, že jde o obdobu digitálního covidového pasu, jen v nové podobě, a upozorňuje na paralelu
-    s protesty amerických zdravotních sester proti přístupu soukromé vojenské firmy Palantir (viz [Palantir/Maven](#nato-buduje-digitální-dohled-nad-východním-křídlem--systém-palantir-maven-vrabel-9-7-2026))
+    s protesty amerických zdravotních sester proti přístupu soukromé vojenské firmy Palantir (viz [Palantir/Maven](/temata/digitalni-kontrola.md#vrabel-2026-07-09-02))
     k datům pacientů. Spojuje to se svou opakovanou tezí o blížící se vysoké nezaměstnanosti (50+ %) v
     důsledku AI a robotizace a s očekávaným zavedením nepodmíněného základního příjmu vypláceného přes
     povinnou státní aplikaci (analogie s ukrajinskou aplikací DIA) — s podmínkou očkování jako předpokladem
@@ -67,7 +67,7 @@ vyroky:
   text: '**4. 9.** — K vyjádření ukrajinského velvyslance v ČR Vasyla Zvariče, že bezpečnostní riziko
     představují ruští váleční veteráni, kteří by mohli po skončení konfliktu přijíždět do Evropy, Vrabel
     tezi obrací: skutečnou hrozbou jsou podle něj ukrajinští veteráni, kteří už dnes do ČR přicházejí
-    — s novým nařízením EU (viz [Rajchl — uprchlík vs. migrant, Dánsko, 4. 9.](#ukrajinská-migrace-rozsah-kriminalita-a-plán-revize-pobytu-rajchl-16-8-2026))
+    — s novým nařízením EU (viz [Rajchl — uprchlík vs. migrant, Dánsko, 4. 9.](/temata/migrace/2026.md#rajchl-2026-08-16-05))
     budou muset prokazovat odsloužení, aby dostali ochranu, takže do ČR míří buď zranění veteráni (o něž
     se bude muset ČR starat), nebo ti se zdravými končetinami, u nichž odhaduje 99% riziko, že si budou
     hledat neformální příjem a přispějí ke vzniku silných ukrajinských zločineckých struktur ohrožujících
@@ -150,7 +150,7 @@ vyroky:
   text: 'Podle agentury TASS by Steve Witkoff a Jared Kushner měli o víkendu navštívit Rusko i Ukrajinu
     — poprvé se přitom uvažuje o tom, že by do Kyjeva letěli letadlem (dosud vyjednavači cestovali jen
     vlakem nebo autem ze strachu z letu). Souběžně referuje o zprávě, že šéf CIA John Ratcliffe se minulý
-    týden znovu setkal s ruskými tajnými službami (viz [Ratcliffe v Moskvě, 26.–30. 8.](#šéf-cia-ratcliffe-v-moskvě--spekulace-rusko-předem-varuje-usa-před-akcí-proti-koalici-ochotných-vrabel-dovětek-26-8-2026))
+    týden znovu setkal s ruskými tajnými službami (viz [Ratcliffe v Moskvě, 26.–30. 8.](/temata/valka-nato-rusko/2026.md#vrabel-2026-08-26-11))
     a že americký ministr zahraničí Marco Rubio zdůraznil potřebu zachovat kontakt s Ruskem s odkazem
     na jeho jaderný arsenál. Vrabel nabízí vlastní výklad: USA se podle něj snaží vyjít z konfliktu jako
     „mírotvorce", ne jako poražená strana, protože Rusko na frontě jasně vítězí (obsazuje Donbas) a ukrajinská
@@ -186,7 +186,7 @@ vyroky:
     Vučićem (její vyjádření označil za „hloupé a jednoduché", odkázal na její vlastní soudní řízení v
     Haagu). Vyjadřuje naději, že celá kauza bude „poslední tečkou" za přístupovými snahami Srbska do EU,
     kterou popisuje jako „peklo" a jako poslední skutečně neutrální a svobodnou zemi v Unii — na rozdíl
-    od ČR, kde policie prošetřuje i pouhé komentáře k Mladičovu úmrtí (viz [Panenka, 29. 8.](#smrt-radko-mladiće--revizionistický-výklad-srebrenice-joe-biden-jako-strůjce-bosenské-války-vrabel-27-8-2026)).'
+    od ČR, kde policie prošetřuje i pouhé komentáře k Mladičovu úmrtí (viz [Panenka, 29. 8.](/temata/valka-nato-rusko/2026.md#vrabel-2026-08-27-09)).'
   osoby:
   - osoba: aleksandar-vucic
     vztah: pozitivni

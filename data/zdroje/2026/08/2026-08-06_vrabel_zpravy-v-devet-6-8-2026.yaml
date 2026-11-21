@@ -10,35 +10,35 @@ zdroj:
   delka: 00:46:02
   poznamka: 'Vrabel — deník. Plně zpracováno 6 z 12 témat: Ceuta/Lex Ukrajina 7, dron Lipsko (doplnění),
     Trump/Vance/Thiel technokracie, Írán–Omán Hormuz, klimatický adaptační plán, Irsko neutralita — viz
-    [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce (zlato/stříbro) extrahována
+    [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md). Predikce (zlato/stříbro) extrahována
     bezvýjimečně. Bez stoch. teroru.'
   prehled:
   - tema: 81. výročí Hirošimy
     text: kritika USA a propojení s jaderným deštníkem Francie — nezpracováno plně
   - tema: Migrace — Ceuta (incident s granátem) a Lex Ukrajina 7 (konec výjimky z migračního paktu)
-    text: → [Migrace a islamizace](../migrace.md)
+    text: → [Migrace a islamizace](/temata/migrace.md)
   - tema: Dron na letišti v Lipsku — doplněné detaily (munice z Francie, Dobrindt, Foltyn)
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: G7 platí víc na dluhovou službu než na obranu
     text: teorie o zadlužování jako přípravě na válku — nezpracováno plně
   - tema: Trump/Vance/Hegseth a Peter Thiel/Palantir jako technokratická budoucnost
-    text: → [Digitální kontrola](../digitalni-kontrola.md)
+    text: → [Digitální kontrola](/temata/digitalni-kontrola.md)
   - tema: Trump a cla
     text: ekonomická válka s Čínou jako další fronta — nezpracováno plně
   - tema: Zlato/stříbro
     text: Čína zakazuje „papírové zlato", banky skupují fyzický kov — extrahována predikce
   - tema: Írán–Omán dohoda o Hormuzském průlivu, USA v regionu „prohrálo"
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Polsko
     text: 50. balíček vojenské pomoci Ukrajině navzdory sporům o Banderu — krátká zmínka
   - tema: Ázerbájdžán–Ukrajina energetická spolupráce
     text: krátká zmínka
   - tema: Národní klimatický adaptační plán — jen 2,5 % na vodu, zbytek na Green Deal
-    text: → [Větrné elektrárny](../vetrniky.md)
+    text: → [Větrné elektrárny](/temata/vetrniky.md)
   - tema: Irsko opouští vojenskou neutralitu
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Predikce
-    text: '[Cena zlata a stříbra po výprodeji „papírového" zlata vzroste](../predikce.md#ladislav-vrabel--cena-zlata-a-stříbra-po-dokončení-výprodeje-papírového-zlata-prudce-vzroste-6-8-2026)'
+    text: '[Cena zlata a stříbra po výprodeji „papírového" zlata vzroste](/temata/digitalni-kontrola.md#vrabel-2026-08-06-07)'
     vyrok: vrabel-2026-08-06-07
 vyroky:
 - id: vrabel-2026-08-06-01

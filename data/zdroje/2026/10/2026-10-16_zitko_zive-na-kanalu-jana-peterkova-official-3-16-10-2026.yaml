@@ -108,7 +108,7 @@ vyroky:
     - datum: 2026-10-16
       text: 'Do 19. 10. EBS aktivován nebyl. 20. 10. Zítko predikci posunul: midterms „vůbec nemusí proběhnout“,
         místo nich přijde EBS — [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka
-        (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)'
+        (20. 10. 2026)](/zdroje/2026-10.md#2026-10-20_zitko_zive-na-kanalu-jana-peterkova-aktuality-11-11-a-vyzva-pro-ce)'
     - datum: 2026-11-20
       text: EBS nebyl aktivován do 19. 10. ani před volbami 3. 11.
       stav: vyvraceno
@@ -132,7 +132,7 @@ vyroky:
   osoby:
   - osoba: ivan-masaryk
     vztah: negativni
-    kontext: „Hmyz“, na který „bude myšleno“ v závěru vojenské operace (→ [stoch. teror](../stochasticky-teror.md))
+    kontext: „Hmyz“, na který „bude myšleno“ v závěru vojenské operace (→ [stoch. teror](/stochasticky-teror.md))
   teror:
     terc: Ivan Masaryk a kritici z řad „hejtrů“ (vč. „ukrajinského vězně z Trenčína“)
     hranicni: false

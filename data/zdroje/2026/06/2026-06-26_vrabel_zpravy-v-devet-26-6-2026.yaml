@@ -9,26 +9,28 @@ zdroj:
   rezim: vrabel
   delka: 01:02:52
   poznamka: 'Tři zpracovaná témata: (1) Digitální euro — konkrétní scénáře kontroly nákupů/expirujících
-    peněz/vynucené poslušnosti (Kanada, Řecko, Čína jako precedenty), výzva bojovat za hotovost — [digitalni-kontrola.md](digitalni-kontrola.md).
+    peněz/vynucené poslušnosti (Kanada, Řecko, Čína jako precedenty), výzva bojovat za hotovost — [digitalni-kontrola.md](/temata/digitalni-kontrola.md).
     (2) Summit NATO Ankara — 70 mld. dolarů pro Ukrajinu je vedlejší, hlavní otázkou je členství Ukrajiny
-    v NATO (= přímý konflikt s Ruskem); predikuje schválení peněz vládou — [valka-nato-rusko.md](valka-nato-rusko.md).
+    v NATO (= přímý konflikt s Ruskem); predikuje schválení peněz vládou — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
     (3) Petr Macinka prosazuje povinnou tříměsíční vojenskou službu — varování mužům v branném věku —
-    [valka-nato-rusko.md](valka-nato-rusko.md). Ostatní zprávy (VW propouštění, MiCA regulace kryptoměn,
-    Hormuz/Írán, Izrael–Libanon dohoda, Krym stav nouze, Lavrov vs. Rubio spor o Aljašku) jen rychlý přehled
-    bez samostatného zpracování. **Predikce:** ČR nakonec schválí 70 mld. dolarů pro Ukrajinu (viz [predikce.md](predikce.md)).
-    Bez stoch. teroru. Pravidelný přehled zahraničních a domácích zpráv s komentářem'
+    [valka-nato-rusko.md](/temata/valka-nato-rusko.md). Ostatní zprávy (VW propouštění, MiCA regulace
+    kryptoměn, Hormuz/Írán, Izrael–Libanon dohoda, Krym stav nouze, Lavrov vs. Rubio spor o Aljašku) jen
+    rychlý přehled bez samostatného zpracování. **Predikce:** ČR nakonec schválí 70 mld. dolarů pro Ukrajinu
+    (viz [predikce.md](/predikce/index.md)). Bez stoch. teroru. Pravidelný přehled zahraničních a domácích
+    zpráv s komentářem'
   prehled:
   - tema: 'Tři zpracovaná témata: (1) Digitální euro'
     text: konkrétní scénáře kontroly nákupů/expirujících peněz/vynucené poslušnosti (Kanada, Řecko, Čína
-      jako precedenty), výzva bojovat za hotovost — [digitalni-kontrola.md](../digitalni-kontrola.md).
+      jako precedenty), výzva bojovat za hotovost — [digitalni-kontrola.md](/temata/digitalni-kontrola.md).
       (2) Summit NATO Ankara — 70 mld. dolarů pro Ukrajinu je vedlejší, hlavní otázkou je členství Ukrajiny
       v NATO (= přímý konflikt s Ruskem)
   - tema: predikuje schválení peněz vládou
-    text: '[valka-nato-rusko.md](../valka-nato-rusko.md). (3) Petr Macinka prosazuje povinnou tříměsíční
-      vojenskou službu — varování mužům v branném věku — [valka-nato-rusko.md](../valka-nato-rusko.md).
+    text: '[valka-nato-rusko.md](/temata/valka-nato-rusko.md). (3) Petr Macinka prosazuje povinnou tříměsíční
+      vojenskou službu — varování mužům v branném věku — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
       Ostatní zprávy (VW propouštění, MiCA regulace kryptoměn, Hormuz/Írán, Izrael–Libanon dohoda, Krym
       stav nouze, Lavrov vs. Rubio spor o Aljašku) jen rychlý přehled bez samostatného zpracování. **Predikce:**
-      ČR nakonec schválí 70 mld. dolarů pro Ukrajinu (viz [predikce.md](../predikce.md)). Bez stoch. teroru.'
+      ČR nakonec schválí 70 mld. dolarů pro Ukrajinu (viz [predikce.md](/predikce/index.md)). Bez stoch.
+      teroru.'
 vyroky:
 - id: vrabel-2026-06-26-01
   typ: tvrzeni
@@ -95,7 +97,7 @@ vyroky:
   text: |-
     Vrabel opakovaně zdůrazňuje jako „šokující" a „neuvěřitelné" video, v němž Petr Macinka veřejně prosazuje zavedení povinné tříměsíční základní vojenské služby v ČR pro všechny. Spojuje to s celkovým trendem směřování k válce (americké tvrzení, že „Ukrajina vyhrává", jako příprava veřejnosti na schválení dalších peněz a členství v NATO na summitu v Ankaře) a přímo vyzývá diváky v záloze i v brance věku, aby si připravili „záložní plán".
 
-    Následující den (**27. 6.**) Vrabel reaguje na Macinkovo propagandistické video, v němž ministr zahraničí obhajuje návrh povinného tříměsíčního vojenského výcviku jako protipól „ufňukaných" Pirátů (osobně napadá Zdeňka Hřiba za jeho „modrou knížku" — zdravotní osvobození od vojny). Vrabel poukazuje na hlubokou pokrytectví: Macinka sám na vojně nikdy nebyl, přesto posílá na vojnu ostatní; téže Macinka na cestě do USA vyjednává zbrojní kontrakty a dělá z ČR „zbrojařskou zemi pro Spojené státy" (viz [Macinka a americké zbrojní kontrakty](nato-zbrojeni-militarizace.md#zbrojní-byznys-bez-výběrových-řízení--kolář-a-macinka-jako-zprostředkovatelé-vrabel-5-6-2026)), zatímco ve videu tvrdí, že chce investovat do mladých lidí místo do zbraní. Sám Vrabel odmítá povinnou vojenskou službu i pro Německo (kvůli WWII by podle něj Německo nemělo mít armádu „dalších tisíc let") i pro ČR — z osobní zkušenosti popisuje vojnu jako šokující zkušenost a vyzývá lidi, kteří to obhajují (zejména ženy v komentářích), ať si to nejdřív sami vyzkoušejí.
+    Následující den (**27. 6.**) Vrabel reaguje na Macinkovo propagandistické video, v němž ministr zahraničí obhajuje návrh povinného tříměsíčního vojenského výcviku jako protipól „ufňukaných" Pirátů (osobně napadá Zdeňka Hřiba za jeho „modrou knížku" — zdravotní osvobození od vojny). Vrabel poukazuje na hlubokou pokrytectví: Macinka sám na vojně nikdy nebyl, přesto posílá na vojnu ostatní; téže Macinka na cestě do USA vyjednává zbrojní kontrakty a dělá z ČR „zbrojařskou zemi pro Spojené státy" (viz [Macinka a americké zbrojní kontrakty](/temata/nato-zbrojeni-militarizace.md#vrabel-2026-06-05-09)), zatímco ve videu tvrdí, že chce investovat do mladých lidí místo do zbraní. Sám Vrabel odmítá povinnou vojenskou službu i pro Německo (kvůli WWII by podle něj Německo nemělo mít armádu „dalších tisíc let") i pro ČR — z osobní zkušenosti popisuje vojnu jako šokující zkušenost a vyzývá lidi, kteří to obhajují (zejména ženy v komentářích), ať si to nejdřív sami vyzkoušejí.
   citace:
   - text: Macinka už tady prosazuje, že má být tříměsíční vojenská služba. [...] Vy, kdo jste v zálohách
       vojenských, tak bych opravdu přemýšlel nad záložním plánem. A vy, kdo jste ve vojenském věku, tak

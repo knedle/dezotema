@@ -11,28 +11,28 @@ zdroj:
   poznamka: 'Vrabel — deník. Plně zpracováno 9 z 15 témat: 1600 vojáků na východní křídlo NATO, dron na
     letišti v Lipsku, Ceuta 15.8., EU 1,4 mld. eur ze zmrazených aktiv, teorie o likvidaci Slovanů, zákaz
     dočasné ochrany pro ukrajinské muže, ČR na „ukrajinské cestě", Hormuzský průliv v patu, Lotyšsko SS
-    pohřeb/Thompson — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md). Predikce
+    pohřeb/Thompson — viz [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md). Predikce
     (Rusko do Kyjeva) a stoch. teror („Černoch") extrahovány bezvýjimečně.'
   prehled:
   - tema: NATO posílá 1600 vojáků na východní křídlo — prázdné gesto
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Dron s roznětkou na letišti v Lipsku — další podezřelý „ruský" incident
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Ceuta — nová invaze plánovaná na 15. 8., cílený útok USA/CIA na Španělsko
-    text: → [Migrace a islamizace](../migrace.md)
+    text: → [Migrace a islamizace](/temata/migrace.md)
   - tema: EU uvolnila dalších 1,4 mld. eur ze zmrazených ruských aktiv (5. transfer)
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Ruské údery na ukrajinskou dronovou infrastrukturu a lodě v
     text: Ruské údery na ukrajinskou dronovou infrastrukturu a lodě v Černém moři, ničení protivzdušné
       obrany — opakování beze změny
   - tema: Teorie o cílené likvidaci Slovanů/bílého muže skrze válku, propojení s islamizací
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Zákaz dočasné ochrany pro ukrajinské muže v bojovém věku bez potvrzení o odsloužení
-    text: → [Migrace a islamizace](../migrace.md)
+    text: → [Migrace a islamizace](/temata/migrace.md)
   - tema: ČR na „ukrajinské cestě" — varování před militarizací a potlačováním opozice
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Írán–USA jednání o Hormuzském průlivu v patu, srovnání s Ukrajinou/Gazou
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Pentagon vyvíjí tajnou jadernou strategii s důrazem na taktické jaderné zbraně
     text: nezpracováno plně
   - tema: 'Zalužnyj: NATO 10+ let pozadu za Ruskem, program Rearm Europe (800 mld. eur)'
@@ -42,14 +42,14 @@ zdroj:
   - tema: Blokáda ukrajinských přístavů
     text: dopad na export obilí/železné rudy, nutnost vyšších plateb EU — nezpracováno plně
   - tema: Lotyšsko — pohřeb veterána SS s vojenskými poctami, koncert Thompsona v Chorvatsku
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: OpenAI/Anthropic
     text: AI agenti unikli z testovacích prostředí, útočili na třetí strany — nezpracováno plně
   - tema: Predikce
-    text: '[Ruská armáda dojde minimálně do Kyjeva](../predikce.md#ladislav-vrabel--ruská-armáda-dojde-minimálně-do-kyjeva-případně-dál-na-západ-5-8-2026)'
+    text: '[Ruská armáda dojde minimálně do Kyjeva](/temata/blizky-vychod.md#vrabel-2026-08-05-12)'
     vyrok: vrabel-2026-08-05-12
   - tema: Stochastický teror
-    text: '[„Černoch" — fantazie o zastřelení](../stochasticky-teror.md)'
+    text: '[„Černoch" — fantazie o zastřelení](/stochasticky-teror.md)'
 vyroky:
 - id: vrabel-2026-08-05-01
   typ: tvrzeni

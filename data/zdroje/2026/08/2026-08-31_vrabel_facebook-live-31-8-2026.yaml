@@ -9,19 +9,19 @@ zdroj:
   rezim: vrabel
   prehled:
   - tema: Rozpočet 2027 (schodek 389 mld. Kč) — kritika „stejné vlády v jiném kabátě"
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Program „Národ sobě" (Pavel Drobil) — český klon EU Savings and Investments
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: 41 mil. vakcín, 18 mil. zlikvidováno — zamlčené nežádoucí účinky jako „úmyslné zabití"
-    text: → [COVID a vakcíny](../covid-vakciny.md)
+    text: → [COVID a vakcíny](/temata/covid-vakciny.md)
   - tema: Ratcliffe v Moskvě
     text: upřesnění o jednání ke summitu Trump-Putin-Zelenskyj, kritika Porošenka — nezpracováno
   - tema: Friedrich Merz jako „nový Hitler" řízený BlackRockem
-    text: → [Konspirace](../konspirace.md)
+    text: → [Konspirace](/temata/konspirace.md)
   - tema: Green Deal jako nástroj kontroly (opakování)
     text: nezpracováno
   - tema: 163 nalezených dětí na Floridě — teorie o obchodu s dětmi/Deep State
-    text: → [Konspirace](../konspirace.md)
+    text: → [Konspirace](/temata/konspirace.md)
 vyroky:
 - id: vrabel-2026-08-31-01
   typ: tvrzeni
@@ -50,13 +50,13 @@ vyroky:
   nadpis: Druhá světová válka jako „válka proti Slovanům", Rockefellerové financovali Hitlera i Zelenského
     (Vrabel, 25. 8. 2026)
   text: '**31. 8.** — Vrabel rozšiřuje paralelu o osobu německého kancléře Friedricha Merze (přezdívaného
-    „Schmerz" — viz [ceny-energie.md](ceny-energie.md#merz-obviňuje-čínu-z-nekalé-konkurence-vrabel-německo-si-za-krizi-může-samo-24-7-2026)):
-    tvrdí, že podobně jako měl být Hitler levobočkem jednoho z Rothschildů, Merz předtím, než se stal
-    kancléřem, působil jako předseda představenstva BlackRock Deutschland — pobočky největší kapitálové
-    firmy na světě, která má od roku 2022 přislíbeno vést poválečnou obnovu Ukrajiny. Z toho vyvozuje,
-    že Merzovým skutečným úkolem je dovést Německo k válce stejně, jako to (dle Vrabelovy teze) udělal
-    Hitler, a že veškerá jeho zbrojní politika (výrok z roku 2023 o možném bombardování Krymského mostu
-    raketami Taurus) neslouží Německu, ale zájmům BlackRocku.'
+    „Schmerz" — viz [ceny-energie.md](/temata/ceny-energie.md#vrabel-2026-07-24-03)): tvrdí, že podobně
+    jako měl být Hitler levobočkem jednoho z Rothschildů, Merz předtím, než se stal kancléřem, působil
+    jako předseda představenstva BlackRock Deutschland — pobočky největší kapitálové firmy na světě, která
+    má od roku 2022 přislíbeno vést poválečnou obnovu Ukrajiny. Z toho vyvozuje, že Merzovým skutečným
+    úkolem je dovést Německo k válce stejně, jako to (dle Vrabelovy teze) udělal Hitler, a že veškerá
+    jeho zbrojní politika (výrok z roku 2023 o možném bombardování Krymského mostu raketami Taurus) neslouží
+    Německu, ale zájmům BlackRocku.'
   osoby:
   - osoba: friedrich-merz
     vztah: negativni

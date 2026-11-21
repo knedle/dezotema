@@ -9,20 +9,20 @@ zdroj:
   rezim: vrabel
   delka: 00:10:50
   poznamka: 'Vrabel — deník. Plně zpracováno 5 z 15 témat: Národní plán obnovy jako nástroj přesunu peněz
-    k elitám — [suverenita-eu.md](suverenita-eu.md); ČEZ zisk a „zestátnění" jako skrytá privatizace —
-    [ceny-energie.md](ceny-energie.md); ministr obrany Zuna/muniční iniciativa pokračuje — [nato-zbrojeni-militarizace.md](nato-zbrojeni-militarizace.md);
-    ukrajinský export obilí ohrožen suchem na Dunaji — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md);
-    Lavrov/rozpad EU — rozšíření teorie o likvidaci Slovanů na celou Evropu (550 mil.) — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md);
+    k elitám — [suverenita-eu.md](/temata/suverenita-eu.md); ČEZ zisk a „zestátnění" jako skrytá privatizace
+    — [ceny-energie.md](/temata/ceny-energie.md); ministr obrany Zuna/muniční iniciativa pokračuje — [nato-zbrojeni-militarizace.md](/temata/nato-zbrojeni-militarizace.md);
+    ukrajinský export obilí ohrožen suchem na Dunaji — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md);
+    Lavrov/rozpad EU — rozšíření teorie o likvidaci Slovanů na celou Evropu (550 mil.) — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md);
     zbytek (Ukrajina/kazašská ropa, Zelenskyj návrhy USA, Putin/tankery, wolfram, Grónsko/Trump kolonie,
-    Kosovo/Srb zbit, Libye, Írán/BRICS, Polsko/Starlink) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
+    Kosovo/Srb zbit, Libye, Írán/BRICS, Polsko/Starlink) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md).
     Predikce (Kosovo/Srbsko sjednocení po Ukrajině) extrahována bezvýjimečně; bez stoch. teroru.'
   prehled:
   - tema: EU vyplatila ČR 897 mil. eur z fondu obnovy — kritika jako nástroje přesunu peněz k elitám
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: ČEZ vyšší zisk + „zestátnění" jako skrytá privatizace
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Ministr obrany Zuna (SPD)/muniční iniciativa pokračuje, Landovský přiznává vojenskou pomoc
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Ukrajina přestala útočit na tankery s kazašskou ropou na žádost USA
     text: nezpracováno (opakování zavedené teze o dvojím metru)
   - tema: Zelenskyj předal USA návrhy na ukončení války
@@ -32,10 +32,10 @@ zdroj:
   - tema: Nedostatek wolframu pro zbrojní výrobu, závislost na Číně
     text: nezpracováno
   - tema: Ukrajinský export obilí ohrožen suchem na Dunaji
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Lavrov — vstup Ukrajiny do EU by mohl rozbít blok; rozšíření teorie o likvidaci Slovanů na celou
       Evropu
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Trump/Grónsko
     text: vrtání bez povolení, teorie o USA/Deep State jako skutečné autoritě nad Evropou — nezpracováno
   - tema: Kosovo
@@ -49,7 +49,7 @@ zdroj:
   - tema: Polsko/Starlink
     text: Sikorski hrozí ukončením plateb, Musk jako součást „globalistické kliky" — nezpracováno
   - tema: Predikce
-    text: '[Kosovo/Srbsko sjednocení po vyřešení Ukrajiny](../predikce.md#ladislav-vrabel--rusko-po-vyřešení-ukrajiny-sjednotí-srbsko-s-kosovem-12-8-2026)'
+    text: '[Kosovo/Srbsko sjednocení po vyřešení Ukrajiny](/temata/valka-ukrajina-prubeh/2026.md#vrabel-2026-08-12-06)'
     vyrok: vrabel-2026-08-12-06
 vyroky:
 - id: vrabel-2026-08-12-01

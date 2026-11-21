@@ -9,6 +9,7 @@ from pathlib import Path
 
 from .index import Archiv
 from .io import nacti_vse
+from .render.common import zrelativni
 from .render.osoba import render_osoba, render_zminene
 from .render.predikce import render_predikce
 from .render.teror import render_teror
@@ -128,7 +129,8 @@ def generate(root: Path, out: Path, dnes: date | None = None) -> dict:
     for rel in sorted(stranky):
         p = out / rel
         p.parent.mkdir(parents=True, exist_ok=True)
-        p.write_text(stranky[rel], encoding="utf-8", newline="\n")
+        obsah = stranky[rel] if rel.endswith(".json") else zrelativni(stranky[rel], rel)
+        p.write_text(obsah, encoding="utf-8", newline="\n")
         soubory.append(p)
     return {"soubory": soubory, "nav": _nav(archiv)}
 

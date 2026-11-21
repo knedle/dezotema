@@ -13,7 +13,7 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: 'Zítkovo odvolání: Krajský soud v Ústí n. L. odmítl důkazy jako „nebylo v televizi" (2. 7. 2026)'
-  text: '**21. 8.** — V souvislosti s kauzou Peková (viz [Kauzy — třetí verze kauzy Peková](kauzy.md#třetí-verze-kauzy-peková-ministr-tejc-moderátor-salaj-jako-iniciátor-podpora-karla-janečka-zítko-21-8-2026))
+  text: '**21. 8.** — V souvislosti s kauzou Peková (viz [Kauzy — třetí verze kauzy Peková](/temata/kauzy/2026.md#zitko-2026-08-21-05))
     znovu odkazuje na totéž usnesení Krajského soudu v Ústí nad Labem (nyní datuje na 18. 6. 2026) jako
     na potvrzení neizolace viru — beze změny oproti 6. 8.'
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
@@ -82,15 +82,14 @@ vyroky:
   - konspirace
   nadpis: Karel Janeček zbohatl na bitcoinu díky insider informacím od CIA nebo Fedu (Zítko, 21. 8. 2026)
   text: 'V souvislosti s podpůrným komentářem Karla Janečka ke kauze Peková (viz [Kauzy — třetí verze
-    kauzy Peková](kauzy.md#třetí-verze-kauzy-peková-ministr-tejc-moderátor-salaj-jako-iniciátor-podpora-karla-janečka-zítko-21-8-2026))
-    Zítko líčí historku o Janečkově zbohatnutí na bitcoinu v roce 2017: Janeček měl investovat cca 70
-    mil. Kč při ceně 300–700 dolarů za kus a prodávat je krátce před propadem způsobeným výrokem šéfa
-    JP Morgan Jamieho Dimona (bitcoin je „scam"), kdy hodnota klesla o cca 1000 dolarů — přičemž JP Morgan
-    byl podle Zítka následně identifikován jako hlavní kupec po tomto propadu, než hodnota vyletěla ze
-    zhruba 3 000 na téměř 20 000 dolarů. Z toho vyvozuje, že Janeček musel mít v té době „dobrou zprávu
-    a dobré kontakty buď na CIA, nebo na Fed", protože jinak by takové časování transakce (výdělek cca
-    2 miliardy Kč) nebylo možné — obchodní úspěch tak podle něj nebyl založen na veřejně prezentovaných
-    algoritmech („pípáky“), ale na insider informacích.'
+    kauzy Peková](/temata/kauzy/2026.md#zitko-2026-08-21-05)) Zítko líčí historku o Janečkově zbohatnutí
+    na bitcoinu v roce 2017: Janeček měl investovat cca 70 mil. Kč při ceně 300–700 dolarů za kus a prodávat
+    je krátce před propadem způsobeným výrokem šéfa JP Morgan Jamieho Dimona (bitcoin je „scam"), kdy
+    hodnota klesla o cca 1000 dolarů — přičemž JP Morgan byl podle Zítka následně identifikován jako hlavní
+    kupec po tomto propadu, než hodnota vyletěla ze zhruba 3 000 na téměř 20 000 dolarů. Z toho vyvozuje,
+    že Janeček musel mít v té době „dobrou zprávu a dobré kontakty buď na CIA, nebo na Fed", protože jinak
+    by takové časování transakce (výdělek cca 2 miliardy Kč) nebylo možné — obchodní úspěch tak podle
+    něj nebyl založen na veřejně prezentovaných algoritmech („pípáky“), ale na insider informacích.'
   osoby:
   - osoba: karel-janecek
     vztah: pozitivni

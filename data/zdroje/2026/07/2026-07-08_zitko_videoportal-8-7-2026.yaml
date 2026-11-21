@@ -9,11 +9,11 @@ zdroj:
   rezim: standard
   delka: 00:58:02
   poznamka: 'Zpracováno 3 témata: (1) Pokles porodnosti 2021–2025 o 30 % přisuzován covid vakcínám (rozšíření
-    existující teze) — [covid-vakciny.md](covid-vakciny.md). (2) Vlastní „Cena za svobodu projevu" a kritika
-    oficiálních nominací Společnosti pro obranu svobody projevu — [politicky-system.md](politicky-system.md).
-    (3) Numerologický „portál Sýria" 7.7.2026 — [konspirace.md](konspirace.md). Neprocesovány: osobní
-    vyprávění o blokaci FB účtu a sraz „Ráj" (logistika/osobní). Stoch. teror: jmenovité napadení novinářů
-    (Pizda, Ciroková, Lukáš Valášek) jako „sráčů" — [stochasticky-teror.md](stochasticky-teror.md).'
+    existující teze) — [covid-vakciny.md](/temata/covid-vakciny.md). (2) Vlastní „Cena za svobodu projevu"
+    a kritika oficiálních nominací Společnosti pro obranu svobody projevu — [politicky-system.md](/temata/politicky-system.md).
+    (3) Numerologický „portál Sýria" 7.7.2026 — [konspirace.md](/temata/konspirace.md). Neprocesovány:
+    osobní vyprávění o blokaci FB účtu a sraz „Ráj" (logistika/osobní). Stoch. teror: jmenovité napadení
+    novinářů (Pizda, Ciroková, Lukáš Valášek) jako „sráčů" — [stochasticky-teror.md](/stochasticky-teror.md).'
 vyroky:
 - id: zitko-2026-07-08-01
   typ: tvrzeni
@@ -74,10 +74,10 @@ vyroky:
   osoby:
   - osoba: kristyna-cirokova
     vztah: negativni
-    kontext: Opětovně jmenována mezi placenými „prestituty/sráči" médií (→ [stoch. teror](../stochasticky-teror.md))
+    kontext: Opětovně jmenována mezi placenými „prestituty/sráči" médií (→ [stoch. teror](/stochasticky-teror.md))
   - osoba: lukas-valasek
     vztah: negativni
-    kontext: Jmenován mezi placenými „prestituty/sráči" médií (→ [stoch. teror](../stochasticky-teror.md))
+    kontext: Jmenován mezi placenými „prestituty/sráči" médií (→ [stoch. teror](/stochasticky-teror.md))
   teror:
     terc: „Pizda, Ciroková", Lukáš Valášek
     hranicni: false

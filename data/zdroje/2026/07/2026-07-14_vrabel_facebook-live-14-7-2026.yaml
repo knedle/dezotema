@@ -9,46 +9,48 @@ zdroj:
   rezim: vrabel
   delka: 01:03:59
   poznamka: 'Zpracováno 19 témat ("Zprávy v devět s komentářem"): (1) Koalice ochotných — protiraketová
-    obrana, Babiš chce ČR do projektu balistických střel — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (2) Evropský prokurátor vyšetřuje dotace Agrofertu — [kauzy.md](kauzy.md). (3) Bulharsko odmítá koalici
-    ochotných (Radev) — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Donbas ~95 % obsazen, kritika
-    mediálního rámování — [valka-nato-rusko.md](valka-nato-rusko.md). (5) Polsko — podzimní vojenské cvičení
-    koalice ochotných — [valka-nato-rusko.md](valka-nato-rusko.md). (6) Doživotí za neuposlechnutí rozkazu
-    — eskalace od Rajchlových zákonů — [politicky-system.md](politicky-system.md). (7) Maďarsko — odvolání
-    prezidenta Šujoka, právo na odpor, paralela s Pavlem — [suverenita-eu.md](suverenita-eu.md). (8) Larry
-    Johnson zesměšňuje plán útoku na Kharg Island — [blizky-vychod.md](blizky-vychod.md). (9) Německé
-    pivovary/VW propouštění + predikce AI/AGI 2027–2028 — [ceny-energie.md](ceny-energie.md), [predikce.md](predikce.md).
-    (10) Trump zvrat v Hormuzské dani, blokáda Íránu — [blizky-vychod.md](blizky-vychod.md). (11) Rubio/ICC
-    — sankce, dvojí metr suverenity — [valka-nato-rusko.md](valka-nato-rusko.md). (12) Filip Turek — nehoda,
-    tlak na rezignaci, Vrabel ho brání — [kauzy.md](kauzy.md). (13) Reflect Orbital — vesmírná zrcadla,
-    konspirace o počasí — [konspirace.md](konspirace.md). (14) Sojuz na ISS — rusko-americká spolupráce,
-    slovanská jednota — [valka-nato-rusko.md](valka-nato-rusko.md). (15) Indie odmítá dohodu s USA, BRICS
-    vs. NATO — [valka-nato-rusko.md](valka-nato-rusko.md). (16) Švédská europoslankyně nahlásila dánského
-    kolegu policii — [migrace.md](migrace.md). (17) Britská policajtka a „barevná karta" — [migrace.md](migrace.md).
-    (18) Ukrajina — pád vlády Svyrydenkové, Zelenskyj „diktátor" — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (19) Wagenknechtová — Německo stranou konfliktu — [valka-nato-rusko.md](valka-nato-rusko.md). Bez
+    obrana, Babiš chce ČR do projektu balistických střel — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (2) Evropský prokurátor vyšetřuje dotace Agrofertu — [kauzy.md](/temata/kauzy.md). (3) Bulharsko odmítá
+    koalici ochotných (Radev) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (4) Donbas ~95 % obsazen,
+    kritika mediálního rámování — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (5) Polsko — podzimní
+    vojenské cvičení koalice ochotných — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (6) Doživotí
+    za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů — [politicky-system.md](/temata/politicky-system.md).
+    (7) Maďarsko — odvolání prezidenta Šujoka, právo na odpor, paralela s Pavlem — [suverenita-eu.md](/temata/suverenita-eu.md).
+    (8) Larry Johnson zesměšňuje plán útoku na Kharg Island — [blizky-vychod.md](/temata/blizky-vychod.md).
+    (9) Německé pivovary/VW propouštění + predikce AI/AGI 2027–2028 — [ceny-energie.md](/temata/ceny-energie.md),
+    [predikce.md](/predikce/index.md). (10) Trump zvrat v Hormuzské dani, blokáda Íránu — [blizky-vychod.md](/temata/blizky-vychod.md).
+    (11) Rubio/ICC — sankce, dvojí metr suverenity — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (12) Filip Turek — nehoda, tlak na rezignaci, Vrabel ho brání — [kauzy.md](/temata/kauzy.md). (13)
+    Reflect Orbital — vesmírná zrcadla, konspirace o počasí — [konspirace.md](/temata/konspirace.md).
+    (14) Sojuz na ISS — rusko-americká spolupráce, slovanská jednota — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (15) Indie odmítá dohodu s USA, BRICS vs. NATO — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (16) Švédská europoslankyně nahlásila dánského kolegu policii — [migrace.md](/temata/migrace.md).
+    (17) Britská policajtka a „barevná karta" — [migrace.md](/temata/migrace.md). (18) Ukrajina — pád
+    vlády Svyrydenkové, Zelenskyj „diktátor" — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (19)
+    Wagenknechtová — Německo stranou konfliktu — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). Bez
     stoch. teroru.'
   prehled:
   - tema: 'Zpracováno 19 témat ("Zprávy v devět s komentářem"): (1) Koalice ochotných'
-    text: protiraketová obrana, Babiš chce ČR do projektu balistických střel — [valka-nato-rusko.md](../valka-nato-rusko.md).
-      (2) Evropský prokurátor vyšetřuje dotace Agrofertu — [kauzy.md](../kauzy.md). (3) Bulharsko odmítá
-      koalici ochotných (Radev) — [valka-nato-rusko.md](../valka-nato-rusko.md). (4) Donbas ~95 % obsazen,
-      kritika mediálního rámování — [valka-nato-rusko.md](../valka-nato-rusko.md). (5) Polsko — podzimní
-      vojenské cvičení koalice ochotných — [valka-nato-rusko.md](../valka-nato-rusko.md). (6) Doživotí
-      za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů — [politicky-system.md](../politicky-system.md).
-      (7) Maďarsko — odvolání prezidenta Šujoka, právo na odpor, paralela s Pavlem — [suverenita-eu.md](../suverenita-eu.md).
-      (8) Larry Johnson zesměšňuje plán útoku na Kharg Island — [blizky-vychod.md](../blizky-vychod.md).
-      (9) Německé pivovary/VW propouštění + predikce AI/AGI 2027–2028 — [ceny-energie.md](../ceny-energie.md),
-      [predikce.md](../predikce.md). (10) Trump zvrat v Hormuzské dani, blokáda Íránu — [blizky-vychod.md](../blizky-vychod.md).
-      (11) Rubio/ICC — sankce, dvojí metr suverenity — [valka-nato-rusko.md](../valka-nato-rusko.md).
-      (12) Filip Turek — nehoda, tlak na rezignaci, Vrabel ho brání — [kauzy.md](../kauzy.md). (13) Reflect
-      Orbital — vesmírná zrcadla, konspirace o počasí — [konspirace.md](../konspirace.md). (14) Sojuz
-      na ISS — rusko-americká spolupráce, slovanská jednota — [valka-nato-rusko.md](../valka-nato-rusko.md).
-      (15) Indie odmítá dohodu s USA, BRICS vs. NATO — [valka-nato-rusko.md](../valka-nato-rusko.md).
-      (16) Švédská europoslankyně nahlásila dánského kolegu policii — [migrace.md](../migrace.md). (17)
-      Britská policajtka a „barevná karta" — [migrace.md](../migrace.md). (18) Ukrajina — pád vlády Svyrydenkové,
-      Zelenskyj „diktátor" — [valka-nato-rusko.md](../valka-nato-rusko.md). (19) Wagenknechtová — Německo
-      stranou konfliktu — [valka-nato-rusko.md](../valka-nato-rusko.md). Bez stoch. teroru.
+    text: protiraketová obrana, Babiš chce ČR do projektu balistických střel — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (2) Evropský prokurátor vyšetřuje dotace Agrofertu — [kauzy.md](/temata/kauzy.md). (3) Bulharsko
+      odmítá koalici ochotných (Radev) — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (4) Donbas
+      ~95 % obsazen, kritika mediálního rámování — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (5) Polsko — podzimní vojenské cvičení koalice ochotných — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (6) Doživotí za neuposlechnutí rozkazu — eskalace od Rajchlových zákonů — [politicky-system.md](/temata/politicky-system.md).
+      (7) Maďarsko — odvolání prezidenta Šujoka, právo na odpor, paralela s Pavlem — [suverenita-eu.md](/temata/suverenita-eu.md).
+      (8) Larry Johnson zesměšňuje plán útoku na Kharg Island — [blizky-vychod.md](/temata/blizky-vychod.md).
+      (9) Německé pivovary/VW propouštění + predikce AI/AGI 2027–2028 — [ceny-energie.md](/temata/ceny-energie.md),
+      [predikce.md](/predikce/index.md). (10) Trump zvrat v Hormuzské dani, blokáda Íránu — [blizky-vychod.md](/temata/blizky-vychod.md).
+      (11) Rubio/ICC — sankce, dvojí metr suverenity — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (12) Filip Turek — nehoda, tlak na rezignaci, Vrabel ho brání — [kauzy.md](/temata/kauzy.md). (13)
+      Reflect Orbital — vesmírná zrcadla, konspirace o počasí — [konspirace.md](/temata/konspirace.md).
+      (14) Sojuz na ISS — rusko-americká spolupráce, slovanská jednota — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (15) Indie odmítá dohodu s USA, BRICS vs. NATO — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (16) Švédská europoslankyně nahlásila dánského kolegu policii — [migrace.md](/temata/migrace.md).
+      (17) Britská policajtka a „barevná karta" — [migrace.md](/temata/migrace.md). (18) Ukrajina — pád
+      vlády Svyrydenkové, Zelenskyj „diktátor" — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (19)
+      Wagenknechtová — Německo stranou konfliktu — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      Bez stoch. teroru.
 vyroky:
 - id: vrabel-2026-07-14-01
   typ: tvrzeni
@@ -82,7 +84,7 @@ vyroky:
     dává do souvislosti se závodem mezi Anthropic, OpenAI a DeepMind o plnou automatizaci/AGI (umělou
     obecnou inteligenci), kterou předpovídá do roku 2027–2028 s dopadem nezaměstnanosti přes 50 % — a
     kritizuje, že tento dopad „nikdo politicky neřeší". Připomíná vlastní přednášku o ChatGPT na olomouckém
-    náměstí v roce 2023 jako důkaz včasného upozornění na téma (viz [predikce.md](predikce.md)).
+    náměstí v roce 2023 jako důkaz včasného upozornění na téma (viz [predikce.md](/predikce/index.md)).
   podtema: Automatizace, AI/AGI a budoucnost práce
 - id: vrabel-2026-07-14-04
   typ: tvrzeni

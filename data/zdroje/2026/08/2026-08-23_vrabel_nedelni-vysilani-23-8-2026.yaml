@@ -10,19 +10,19 @@ zdroj:
   prehled:
   - tema: Rozpad vlastenecké scény — obvinění z agenturní spolupráce s BIS/policií, cenzura na Raptor
       TV
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Vlastní bezpečnostní situace — proč žije v Srbsku
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Vysvětlení konceptu vlastenectví a shrnutí setkání v
     text: Vysvětlení konceptu vlastenectví a shrnutí setkání v Příčovech (Okamura, Novotný, Michal Svatoš)
       — nezpracováno (z větší části opakování 22.8)
   - tema: Proč je migrace pro ČR jiná než pro Británii/Německo/Francii/Španělsko (kolonialismus vs. migrační
       pakt)
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: '⚡ Stochastický teror: výzva zastřelit ministra obrany Izraele'
-    text: → [Stochastický teror](../stochasticky-teror.md)
+    text: → [Stochastický teror](/stochasticky-teror.md)
   - tema: '"Kontrolní seznam" ztráty suverenity — jen koruna zůstala česká'
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Kryptodolar nahrazující petrodolar, tokenizace majetku, Fed jako pyramida
     text: nezpracováno (opakování zavedených témat)
   - tema: Turecko/Izrael/Írán/Sýrie eskalace do „světové války"
@@ -33,7 +33,7 @@ zdroj:
     text: Organizace veřejného shromáždění 3. 10. na Malostranském náměstí, hypotetický scénář zastropování
       cen elektřiny — nezpracováno (organizační/opakování)
   - tema: Stochastický teror
-    text: '[Ministr obrany Izraele — výzva k zastřelení](../stochasticky-teror.md)'
+    text: '[Ministr obrany Izraele — výzva k zastřelení](/stochasticky-teror.md)'
 vyroky:
 - id: vrabel-2026-08-23-01
   typ: tvrzeni
@@ -132,7 +132,7 @@ vyroky:
   - osoba: ministr-obrany-izraele
     vztah: negativni
     kontext: Za výrok o nutnosti měsíčně zabíjet 30 000 Libanonců by měl být „zavřený nebo zastřelený"
-      (→ [stoch. teror](../stochasticky-teror.md))
+      (→ [stoch. teror](/stochasticky-teror.md))
   teror:
     terc: ministr obrany Izraele
     hranicni: false

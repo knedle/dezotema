@@ -14,37 +14,37 @@ zdroj:
       „připravujeme se na válku, aby k ní nedošlo"
   prehled:
   - tema: AI existenciální riziko — Húsíové zneužili Claude k vývoji raket
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: Dronový útok na saúdský ropovod Východ–Západ
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Húsíové tvrdí, že ukončili kampaň a ovládli Bab al-Mandab
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Bělorusko — rozsáhlé vojenské prověrky a mobilizační připravenost
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Příprava na válku — scénář atentátu jako spouštěče
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: EU neplní cíle odklonu od ruského plynu/ropy
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: USA restartují jadernou elektrárnu Palisades
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Kritika "elit" a jejich platů (ministryně Šilerová)
-    text: → [Kauzy](../kauzy.md)
+    text: → [Kauzy](/temata/kauzy.md)
   - tema: 'Peskov: žádné setkání Putin–Zelenskyj na G20 v Miami neplánováno'
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Německo se připojuje k použití zmrazených ruských aktiv (200 mld.) pro Ukrajinu
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: BRICS summit v Dillí — společná deklarace přes rozkol Írán–SAE
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: Trump v Irsku — kritika Evropy, podpora sjednocení Irska
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Referendum britské vesnice Pennington o odtržení od Spojeného království
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: Manželka Madura žádá o domácí vězení ze zdravotních důvodů
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Protesty na Slovensku proti izraelské ambasádě
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Zelenskyj mění velení na Donbasu — Bilecký se vrací k Azovu
-    text: → [Válka na Ukrajině](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině](/temata/valka-ukrajina-prubeh.md)
 vyroky:
 - id: vrabel-2026-09-12-01
   typ: tvrzeni

@@ -11,26 +11,26 @@ zdroj:
   - tema: Martin Kuba do dozorčí rady Budvaru
     text: historie vazby na kmotra Pavla Dlouhého a založení SPD — nezpracováno
   - tema: Agrofert — nové vymáhání dotací (1,4 mil. Kč), opakování teze o Babišově střetu zájmu
-    text: → [Kauzy a korupce](../kauzy.md)
+    text: → [Kauzy a korupce](/temata/kauzy.md)
   - tema: Obhajoba shromáždění „Člověk na prvním místě" proti nálepce „protivládní"
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: AfD Weidelová — uzavření hranic, vracení syrských uprchlíků, Německo v „rozkladu"
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: ČR a Ukrajinci — oprava dřívějšího tvrzení o Lex Ukrajina 7
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: Migrační pakt — Okamura přiznává, že vláda bude „platit" místo brát migranty
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: Kosovo/Donbas/Krym — teze „historického práva" na území
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Trumpův zákaz genderové výuky na školách — výjimka v „katastrofě"
-    text: → [Rodina a děti](../rodina-deti.md)
+    text: → [Rodina a děti](/temata/rodina-deti.md)
   - tema: Bill Gates přiznal, že ho předčila AI — WHO, eugenika, transhumanismus
-    text: → [Konspirace](../konspirace.md)
+    text: → [Konspirace](/temata/konspirace.md)
   - tema: Šéf CIA Ratcliffe tajně v Moskvě — spekulace o důvodu (Ukrajina/Írán)
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md) (predikce zaznamenána; rozvedeno v dovětku,
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md) (predikce zaznamenána; rozvedeno v dovětku,
       viz níže)
   - tema: Trump a „Lake America" — napojení na plán technátu z 30. let (Musk, Vance, Thiel, Karp)
-    text: → [Konspirace](../konspirace.md)
+    text: → [Konspirace](/temata/konspirace.md)
   - tema: Hormuzský průliv otevřen
     text: dohoda Írán/Omán o poplatcích — nezpracováno (opakování)
   - tema: Palantír (Maven Smart System)
@@ -38,9 +38,9 @@ zdroj:
   - tema: Zdražení zemního plynu v EU
     text: kritika odstřižení od ruských zdrojů — nezpracováno (opakování)
   - tema: Sabotáž muniční továrny — zadrženi 2 Lotyši a Ukrajinec
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Predikce
-    text: '[Ukrajina se na podzim zhroutí](../predikce.md#ladislav-vrabel--ukrajina-se-na-podzim-zhroutí-kvůli-ruské-ofenzivě-a-nedostatku-energií-26-8-2026)'
+    text: '[Ukrajina se na podzim zhroutí](/temata/migrace/2026.md#vrabel-2026-08-26-12)'
     vyrok: vrabel-2026-08-26-12
 vyroky:
 - id: vrabel-2026-08-26-01
@@ -112,7 +112,7 @@ vyroky:
     „platit" (finančně přispívat, ale nebrat migranty) — což podle Vrabela potvrzuje jeho vlastní prosincovou
     předpověď, že žádné skutečné odmítnutí paktu nenastane, jen silné prohlášení. Dodává, že EU nenechá
     ČR takto platit dlouho a migranti nakonec začnou přijíždět stejně — jediným řešením zůstává vystoupení
-    z EU — [Facebook Live 26. 8. 2026](_zdroje.md#ladislav-vrabel--facebook-live-26-8-2026)'
+    z EU — [Facebook Live 26. 8. 2026](/zdroje/2026-08.md#2026-08-26_vrabel_facebook-live-26-8-2026)'
 - id: vrabel-2026-08-26-06
   typ: tvrzeni
   temata:

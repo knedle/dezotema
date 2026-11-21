@@ -9,10 +9,10 @@ zdroj:
   rezim: standard
   delka: 00:03:08
   poznamka: 'Zpracováno 3 témata: (1) Nedůstojné chování Pavla při hymně jako důkaz „loutkovosti" politiků
-    — [politicky-system.md](politicky-system.md). (2) Macinka napojen na Chabad-Lubavič (antisemitská
-    konspirace) — [konspirace.md](konspirace.md). (3) Barevná mračna u Karlových Varů jako geoinženýrství,
-    doplnění existující teze o chemtrails — [konspirace.md](konspirace.md). Bez predikcí. Stoch. teror:
-    dehumanizace Macinky — [stochasticky-teror.md](stochasticky-teror.md).'
+    — [politicky-system.md](/temata/politicky-system.md). (2) Macinka napojen na Chabad-Lubavič (antisemitská
+    konspirace) — [konspirace.md](/temata/konspirace.md). (3) Barevná mračna u Karlových Varů jako geoinženýrství,
+    doplnění existující teze o chemtrails — [konspirace.md](/temata/konspirace.md). Bez predikcí. Stoch.
+    teror: dehumanizace Macinky — [stochasticky-teror.md](/stochasticky-teror.md).'
 vyroky:
 - id: boldy-2026-07-11-01
   typ: tvrzeni
@@ -31,12 +31,12 @@ vyroky:
   text: '**11. 7.** — Boldy tuto teorii aplikuje na konkrétní osobu: tvrdí, že ministr zahraničí Petr
     Macinka je napojen na „Chabad Lubovič", kterou popisuje jako sektu masivně rozšířenou v Česku a stojící
     pod „nadvládou sionismu", zapletenou do obchodu s drogami a praní špinavých peněz přes bitcoiny a
-    darknetové sítě (odkaz na dřívější Boldyho a Zítkovy bitcoinové kauzy, viz [kauzy.md](kauzy.md)).'
+    darknetové sítě (odkaz na dřívější Boldyho a Zítkovy bitcoinové kauzy, viz [kauzy.md](/temata/kauzy.md)).'
   osoby:
   - osoba: petr-macinka
     vztah: negativni
     kontext: Vulgárně dehumanizován a obviněn z napojení na sektu Chabad-Lubavič (antisemitská konspirace,
-      sionismus, drogy) (→ [stoch. teror](../stochasticky-teror.md))
+      sionismus, drogy) (→ [stoch. teror](/stochasticky-teror.md))
   podtema: Globalistická agenda a další výklady
 - id: boldy-2026-07-11-03
   typ: tvrzeni

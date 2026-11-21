@@ -9,26 +9,26 @@ zdroj:
   rezim: vrabel
   prehled:
   - tema: Írán označil exilová média (Radio Farda) za vojenské cíle — riziko útoku i na ČR
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: BIS výroční zpráva jako „schizofrenní"; vlastní kauza „vlivový agent"
-    text: → [Kauzy a korupce](../kauzy.md)
+    text: → [Kauzy a korupce](/temata/kauzy.md)
   - tema: EU rozpočet 2028–2034 — Costa/Babišova „schizofrenie" o dotacích
-    text: → [Suverenita a EU](../suverenita-eu.md)
+    text: → [Suverenita a EU](/temata/suverenita-eu.md)
   - tema: Norsko těží v Barencově moři navzdory EU
     text: nezpracováno (krátká zpráva)
   - tema: Výbuch auta v Petrohradu zabil ruského důstojníka — teroristický útok
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: Demonstrace 3. 10. na Malostranském náměstí proti jaderným zbraním — potvrzeno datum a místo
-    text: → [Jaderné zbraně](../jaderne-zbrane.md)
+    text: → [Jaderné zbraně](/temata/jaderne-zbrane.md)
   - tema: Skeptická reakce na predikci hladomoru v EU (Karpinskij); NGT1/GMO bez označení, srovnání se
       Srbskem
-    text: → [Ceny energie](../ceny-energie.md)
+    text: → [Ceny energie](/temata/ceny-energie.md)
   - tema: Smrt Radko Mladiće — revizionistický výklad Srebrenice, Biden jako strůjce bosenské války
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
   - tema: USA/NATO řeší rozmístění sil v Evropě — kritika ministra obrany Zůny
-    text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+    text: → [NATO, zbrojení a militarizace](/temata/nato-zbrojeni-militarizace.md)
   - tema: Ratcliffe v Moskvě — rozšíření (Burevestnik, Zacharovová, CBC vs. Trump)
-    text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko](/temata/valka-nato-rusko.md)
 vyroky:
 - id: vrabel-2026-08-27-01
   typ: tvrzeni
@@ -83,7 +83,7 @@ vyroky:
     obrany) odmítlo rozmístění jaderných zbraní na svém území navzdory podpoře jaderného odstrašení v
     rámci NATO, a vyzývá, aby totéž udělala ČR — bez ohledu na to, zda je u moci Babiš, nebo Pavel. Popisuje
     osobní motivaci: i přes život v Srbsku se chce jednou vrátit do rodného Českého Krumlova a nechce
-    se obávat radioaktivní kontaminace půdy a vody — [Facebook Live 27. 8.](_zdroje.md#ladislav-vrabel--facebook-live-27-8-2026)'
+    se obávat radioaktivní kontaminace půdy a vody — [Facebook Live 27. 8.](/zdroje/2026-08.md#2026-08-27_vrabel_facebook-live-27-8-2026)'
 - id: vrabel-2026-08-27-04
   typ: tvrzeni
   temata:

@@ -9,33 +9,34 @@ zdroj:
   rezim: vrabel
   delka: 00:43:18
   poznamka: 'Zpracováno 12 témat ("Zprávy v devět s komentářem"): (1) Trump obviňuje Čínu z vměšování
-    do voleb, USA prý 73× měnily vlády — [valka-nato-rusko.md](valka-nato-rusko.md). (2) Hormuzský průliv
-    každý pátek: manipulace trhu s ropou — [ceny-energie.md](ceny-energie.md). (3) Polsko „mobilizace
-    bez mobilizace" — [valka-nato-rusko.md](valka-nato-rusko.md). (4) Recidivista Cigoš, kritika shovívavosti
-    justice — [politicky-system.md](politicky-system.md). (5) Nizozemsko: Iráčan osvobozen po usmrcení
-    dívky — [migrace.md](migrace.md). (6) Macinka v Izraeli „ČR nejbezpečnější díky absenci muslimů" —
-    Vrabel oponuje — [migrace.md](migrace.md). (7) Srbsko a EU jen předstírají zájem o vstup — [suverenita-eu.md](suverenita-eu.md).
-    (8) Řecko blokuje sankce + ruský AI-prank na poradce Dokose — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (9) ČR nepozvána do evropského protiraketového štítu — [valka-nato-rusko.md](valka-nato-rusko.md).
-    (10) Zpráva EK o právním státu (kritika ČR, pochvala Maďarska), „protektorát" — [suverenita-eu.md](suverenita-eu.md).
-    (11) Emisní povolenky po 2030 + kvalifikovaná většina — [suverenita-eu.md](suverenita-eu.md). (12)
-    EU vs. MOV — ruští sportovci na OH 2028 — [suverenita-eu.md](suverenita-eu.md). Stoch. teror: 1 výrok
-    (Trump — vězení a zabavení majetku i rodině). Bez predikcí.'
+    do voleb, USA prý 73× měnily vlády — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (2) Hormuzský
+    průliv každý pátek: manipulace trhu s ropou — [ceny-energie.md](/temata/ceny-energie.md). (3) Polsko
+    „mobilizace bez mobilizace" — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (4) Recidivista
+    Cigoš, kritika shovívavosti justice — [politicky-system.md](/temata/politicky-system.md). (5) Nizozemsko:
+    Iráčan osvobozen po usmrcení dívky — [migrace.md](/temata/migrace.md). (6) Macinka v Izraeli „ČR nejbezpečnější
+    díky absenci muslimů" — Vrabel oponuje — [migrace.md](/temata/migrace.md). (7) Srbsko a EU jen předstírají
+    zájem o vstup — [suverenita-eu.md](/temata/suverenita-eu.md). (8) Řecko blokuje sankce + ruský AI-prank
+    na poradce Dokose — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (9) ČR nepozvána do evropského
+    protiraketového štítu — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (10) Zpráva EK o právním
+    státu (kritika ČR, pochvala Maďarska), „protektorát" — [suverenita-eu.md](/temata/suverenita-eu.md).
+    (11) Emisní povolenky po 2030 + kvalifikovaná většina — [suverenita-eu.md](/temata/suverenita-eu.md).
+    (12) EU vs. MOV — ruští sportovci na OH 2028 — [suverenita-eu.md](/temata/suverenita-eu.md). Stoch.
+    teror: 1 výrok (Trump — vězení a zabavení majetku i rodině). Bez predikcí.'
   prehled:
   - tema: Zpracováno 12 témat ("Zprávy v devět s komentářem")
-    text: '(1) Trump obviňuje Čínu z vměšování do voleb, USA prý 73× měnily vlády — [valka-nato-rusko.md](../valka-nato-rusko.md).
-      (2) Hormuzský průliv každý pátek: manipulace trhu s ropou — [ceny-energie.md](../ceny-energie.md).
-      (3) Polsko „mobilizace bez mobilizace" — [valka-nato-rusko.md](../valka-nato-rusko.md). (4) Recidivista
-      Cigoš, kritika shovívavosti justice — [politicky-system.md](../politicky-system.md). (5) Nizozemsko:
-      Iráčan osvobozen po usmrcení dívky — [migrace.md](../migrace.md). (6) Macinka v Izraeli „ČR nejbezpečnější
-      díky absenci muslimů" — Vrabel oponuje — [migrace.md](../migrace.md). (7) Srbsko a EU jen předstírají
-      zájem o vstup — [suverenita-eu.md](../suverenita-eu.md). (8) Řecko blokuje sankce + ruský AI-prank
-      na poradce Dokose — [valka-nato-rusko.md](../valka-nato-rusko.md). (9) ČR nepozvána do evropského
-      protiraketového štítu — [valka-nato-rusko.md](../valka-nato-rusko.md). (10) Zpráva EK o právním
-      státu (kritika ČR, pochvala Maďarska), „protektorát" — [suverenita-eu.md](../suverenita-eu.md).
-      (11) Emisní povolenky po 2030 + kvalifikovaná většina — [suverenita-eu.md](../suverenita-eu.md).
-      (12) EU vs. MOV — ruští sportovci na OH 2028 — [suverenita-eu.md](../suverenita-eu.md). Stoch. teror:
-      1 výrok (Trump — vězení a zabavení majetku i rodině). Bez predikcí.'
+    text: '(1) Trump obviňuje Čínu z vměšování do voleb, USA prý 73× měnily vlády — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (2) Hormuzský průliv každý pátek: manipulace trhu s ropou — [ceny-energie.md](/temata/ceny-energie.md).
+      (3) Polsko „mobilizace bez mobilizace" — [valka-nato-rusko.md](/temata/valka-nato-rusko.md). (4)
+      Recidivista Cigoš, kritika shovívavosti justice — [politicky-system.md](/temata/politicky-system.md).
+      (5) Nizozemsko: Iráčan osvobozen po usmrcení dívky — [migrace.md](/temata/migrace.md). (6) Macinka
+      v Izraeli „ČR nejbezpečnější díky absenci muslimů" — Vrabel oponuje — [migrace.md](/temata/migrace.md).
+      (7) Srbsko a EU jen předstírají zájem o vstup — [suverenita-eu.md](/temata/suverenita-eu.md). (8)
+      Řecko blokuje sankce + ruský AI-prank na poradce Dokose — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (9) ČR nepozvána do evropského protiraketového štítu — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+      (10) Zpráva EK o právním státu (kritika ČR, pochvala Maďarska), „protektorát" — [suverenita-eu.md](/temata/suverenita-eu.md).
+      (11) Emisní povolenky po 2030 + kvalifikovaná většina — [suverenita-eu.md](/temata/suverenita-eu.md).
+      (12) EU vs. MOV — ruští sportovci na OH 2028 — [suverenita-eu.md](/temata/suverenita-eu.md). Stoch.
+      teror: 1 výrok (Trump — vězení a zabavení majetku i rodině). Bez predikcí.'
 vyroky:
 - id: vrabel-2026-07-17-01
   typ: tvrzeni
@@ -49,12 +50,12 @@ vyroky:
     snížením ceny a spekulanti „zkásnou peníze". Jako doklad uvádí prudký propad provozu Hormuzem (15
     lodí 15. 7., 8 lodí 16. 7. — a to jen čínské lodě plující iránskými výsostnými vodami dle obchodní
     dohody). Trump prý na manipulaci akciových trhů vydělává „stovky miliard"; Vrabel míní, že by za to
-    měl „sedět" a měl by mu (i zčásti rodině) být zabaven majetek (viz [stochasticky-teror.md](stochasticky-teror.md)).'
+    měl „sedět" a měl by mu (i zčásti rodině) být zabaven majetek (viz [stochasticky-teror.md](/stochasticky-teror.md)).'
   osoby:
   - osoba: donald-trump
     vztah: negativni
     kontext: Obviňuje Čínu z vměšování do voleb („kdo to říká, ten to je"); prý manipuluje trh s ropou
-      přes Hormuz — měl by za to sedět a mít zabavený majetek i rodině (→ [stoch. teror](../stochasticky-teror.md))
+      přes Hormuz — měl by za to sedět a mít zabavený majetek i rodině (→ [stoch. teror](/stochasticky-teror.md))
   podtema: Manipulace trhu s ropou
 - id: vrabel-2026-07-17-02
   typ: tvrzeni
@@ -79,7 +80,7 @@ vyroky:
     dokumenty — zakončeno policejní razií v mešitě), a příběh Pavlíny Bytařové (bývalá česká muslimka,
     provdaná imámem, žila prý se dvěma muži, poté se skrývala; pomohl jí Martin Konvička, jehož označuje
     za „hrdinu"). Uzavírá, že ČR nemá tolik přistěhovalců díky odporu „od roku 2015", ale za budoucí migranty
-    viní právě Macinku, který ČR „zazdil" v migračním paktu. Navazuje na [Migrační pakt platí i pro ČR](#migrační-pakt-platí-i-pro-čr-británie-před-občanskou-válkou-islám-vs-křesťanství--vrabel-13-6-2026).'
+    viní právě Macinku, který ČR „zazdil" v migračním paktu. Navazuje na [Migrační pakt platí i pro ČR](/temata/migrace/2026.md#vrabel-2026-06-13-05).'
   osoby:
   - osoba: petr-macinka
     vztah: negativni
@@ -96,7 +97,7 @@ vyroky:
   text: |-
     Vrabel komentuje případ Patrika Cigoše, jemuž Olomoucký krajský soud uložil výjimečný trest 27,5 roku za brutální vraždu partnerky (45 ran nožem) spáchanou tři týdny po podmínečném propuštění z výkonu trestu za obdobný čin z roku 2014 (tehdy 45 ran, 10 nožů, 16,5 roku). Vrabel z toho vyvozuje selhání justice: takový člověk za ~15 let vyjde a „udělá to samé"; soudce se prý ještě „omlouvá" za výjimečný trest. Míní, že za takto brutální čin by pachatel měl „viset" (byť sám je „obecně proti trestu smrti") — nebo dostat doživotí a v něm alespoň něco vyrábět pro společnost — aby byly chráněny další potenciální oběti. Do komentáře vkládá etnický podtón (příjmení „Cigoš") a poznámku, že pachatel je „mentálně poškozený, stejně jako jeden z našich politiků".
 
-    ⚡ **Poznámka:** Výrok obsahuje etnizující narážku; kategorii stochastického teroru viz [stochasticky-teror.md](stochasticky-teror.md).
+    ⚡ **Poznámka:** Výrok obsahuje etnizující narážku; kategorii stochastického teroru viz [stochasticky-teror.md](/stochasticky-teror.md).
   podtema: Kritika soudnictví
 - id: vrabel-2026-07-17-05
   typ: tvrzeni
@@ -147,7 +148,7 @@ vyroky:
     jednomyslně (právem veta). To považuje za nebezpečný trend federalizace EU: ČR jako malý partner ztrácí
     své „silné veto" a stává se „malým bezvýznamným státem bez rozhodovacích práv". Samotné emisní povolenky
     označuje za „zlodějský podvod od začátku do konce". Doplňuje dřívější Rajchlův výklad povolenek (viz
-    [Emisní povolenky: ČR platí 17× víc než Němci](#emisní-povolenky-čr-platí-17-víc-než-němci--platíme-německé-důchody-rajchl-4-6-2026)).'
+    [Emisní povolenky: ČR platí 17× víc než Němci](/temata/suverenita-eu/2026.md#rajchl-2026-06-04-02)).'
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-17-08
   typ: tvrzeni
@@ -173,7 +174,7 @@ vyroky:
     a v ukrajinsko-ruském konfliktu zůstává v pozadí a vyzývá k míru. Naproti tomu USA prý po druhé světové
     válce zasáhly do výměny vlád **73×** (a od sestavení tabulky přibyly další — Venezuela, Írán, pokus
     o výměnu vlády v Rusku) — otevřeně skrze CIA, armádu, neziskové organizace a média. Jako čistě americkou
-    operaci označuje protiústavní převrat na Ukrajině v roce 2014. Navazuje na [Tři fáze konfliktu Západ–Rusko](valka-ukrajina-prubeh.md#tři-fáze-konfliktu-západrusko-od-majdanu-k-terorismu-na-ruském-území-vrabel-31-5-2026).
+    operaci označuje protiústavní převrat na Ukrajině v roce 2014. Navazuje na [Tři fáze konfliktu Západ–Rusko](/temata/valka-ukrajina-prubeh/2026.md#vrabel-2026-05-31-08).
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-17-10
   typ: tvrzeni
@@ -185,7 +186,7 @@ vyroky:
     bez oficiálního vyhlášení válečného stavu, Vrabel líčí vlastní pozorování: s manželkou sledoval polské
     zprávy (v angličtině) a měl dojem, že „Poláci už jsou ve válce" — na hranicích prý probíhají velké
     operace, létají letadla, probíhá příprava na válku s Ruskem. Kontrastuje to s ČR, kde se podle něj
-    „spinká". Navazuje na [Krize Polsko–Ukrajina](valka-ukrajina-prubeh.md#krize-polskoukrajina-eskaluje-kvůli-upa-pochybnosti-o-katyni-a-smolensku-predikce-rozpadu-ukrajiny-černohorský-28-6-2026).'
+    „spinká". Navazuje na [Krize Polsko–Ukrajina](/temata/valka-ukrajina-prubeh/2026.md#cernohorsky-2026-06-28-03).'
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-17-11
   typ: tvrzeni

@@ -8,24 +8,24 @@ zdroj:
   prepis: prepisy/done/2026-08-01_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
   delka: 00:22:34
-  poznamka: 'Zpracováno 9 témat: (2) EU dvojí řeč o migraci — opakování (jen zdroj) — [migrace.md](migrace.md).
-    (6) USA/Izrael připravují bombardování Íránu, odkaz na Žirinovského predikci — [blizky-vychod.md](blizky-vychod.md).
-    (7) Rozdělená společnost jako nástroj kontroly — [politicky-system.md](politicky-system.md). (9) USA
-    opouští vedení SAKU (Wiesbaden) — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (10) USA chtějí
-    obnovit mírová jednání, skepse — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md). (11) Trump/Ukrajina
-    nerostné bohatství, Harabin o Anglosasech — [valka-ukrajina-prubeh.md](valka-ukrajina-prubeh.md),
-    [predikce.md](predikce.md). (12) Francouzský jaderný deštník — opakování (jen zdroj) — [jaderne-zbrane.md](jaderne-zbrane.md).
-    (13) Polské stíhačky a ruský průzkumný letoun — [valka-nato-rusko.md](valka-nato-rusko.md). (17) Harabinův
-    rozsudek — oprava nepřesné interpretace — [valka-nato-rusko.md](valka-nato-rusko.md). Nezpracováno
-    (jen zpravodajský deník): Itálie uzavřela Schengen pro Španělsko, Španělsko a nezletilí migranti,
-    22 zemí EU svolává jednání k Ceutě, osobní historka Calais/Barcelona, Trump odmítl licenci na Patrioty,
-    Polské stíhačky/JETECT propouštění, umělá inteligence nahradí práci, Norimberk — síť lákající nezletilé,
-    financování ukrajinského zbrojení (90 mld. EUR/PURL). Bez stoch. teroru.'
+  poznamka: 'Zpracováno 9 témat: (2) EU dvojí řeč o migraci — opakování (jen zdroj) — [migrace.md](/temata/migrace.md).
+    (6) USA/Izrael připravují bombardování Íránu, odkaz na Žirinovského predikci — [blizky-vychod.md](/temata/blizky-vychod.md).
+    (7) Rozdělená společnost jako nástroj kontroly — [politicky-system.md](/temata/politicky-system.md).
+    (9) USA opouští vedení SAKU (Wiesbaden) — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md).
+    (10) USA chtějí obnovit mírová jednání, skepse — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md).
+    (11) Trump/Ukrajina nerostné bohatství, Harabin o Anglosasech — [valka-ukrajina-prubeh.md](/temata/valka-ukrajina-prubeh.md),
+    [predikce.md](/predikce/index.md). (12) Francouzský jaderný deštník — opakování (jen zdroj) — [jaderne-zbrane.md](/temata/jaderne-zbrane.md).
+    (13) Polské stíhačky a ruský průzkumný letoun — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    (17) Harabinův rozsudek — oprava nepřesné interpretace — [valka-nato-rusko.md](/temata/valka-nato-rusko.md).
+    Nezpracováno (jen zpravodajský deník): Itálie uzavřela Schengen pro Španělsko, Španělsko a nezletilí
+    migranti, 22 zemí EU svolává jednání k Ceutě, osobní historka Calais/Barcelona, Trump odmítl licenci
+    na Patrioty, Polské stíhačky/JETECT propouštění, umělá inteligence nahradí práci, Norimberk — síť
+    lákající nezletilé, financování ukrajinského zbrojení (90 mld. EUR/PURL). Bez stoch. teroru.'
   prehled:
   - tema: Itálie dočasně uzavřela Schengen pro Španělsko
     text: politické gesto bez reálného efektu
   - tema: EU dvojí řeč o migraci (von der Leyen, Konečná)
-    text: opakování bez posunu → [Migrace a islamizace](../migrace.md)
+    text: opakování bez posunu → [Migrace a islamizace](/temata/migrace.md)
   - tema: Španělsko mění postup u migrantů tvrdících, že jsou nezletilí
     text: nebudou automaticky deportováni
   - tema: 22 zemí EU svolává mimořádné jednání ministrů vnitra kvůli
@@ -33,21 +33,21 @@ zdroj:
   - tema: Osobní historka z Calais/Barcelony/Marseille
     text: „no-go zóny" jako důkaz nebezpečnosti migrace v Evropě
   - tema: USA/Izrael připravují bombardování Íránu, odkaz na Žirinovského predikci
-    text: → [Blízký východ](../blizky-vychod.md)
+    text: → [Blízký východ](/temata/blizky-vychod.md)
   - tema: Rozdělená společnost jako nástroj kontroly
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Trump odmítl licenci na výrobu Patriotů pro Ukrajinu
     text: nekonzistence výroků
   - tema: USA opouští vedení SAKU (Wiesbaden)
-    text: další potvrzení teze NATO vs. Rusko → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: další potvrzení teze NATO vs. Rusko → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: USA chtějí obnovit mírová jednání, skepse
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md)
   - tema: Trump/Ukrajina nerostné bohatství, Harabin o Anglosasech
-    text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md), [Predikce](../predikce.md)
+    text: → [Válka na Ukrajině — průběh a vyjednávání](/temata/valka-ukrajina-prubeh.md), [Predikce](/predikce/index.md)
   - tema: Francouzský jaderný deštník
-    text: opakování bez posunu → [Jaderné zbraně a jaderná hrozba](../jaderne-zbrane.md)
+    text: opakování bez posunu → [Jaderné zbraně a jaderná hrozba](/temata/jaderne-zbrane.md)
   - tema: Polské stíhačky a ruský průzkumný letoun
-    text: → [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko (eskalace)](/temata/valka-nato-rusko.md)
   - tema: JETECT Plzeň
     text: propouštění 300 lidí, spojeno s AI/robotizací
   - tema: Umělá inteligence nahradí většinu pracovních míst
@@ -55,7 +55,7 @@ zdroj:
   - tema: Norimberk
     text: síť lákající nezletilé dívky na drogy (Syřané) — spojuje s migračním paktem
   - tema: Harabinův rozsudek „Rusko není agresor" — oprava nepřesné interpretace
-    text: → [Válka, NATO a Rusko (eskalace)](../valka-nato-rusko.md)
+    text: → [Válka, NATO a Rusko (eskalace)](/temata/valka-nato-rusko.md)
   - tema: Financování ukrajinského zbrojení (90 mld. EUR, NATO 40 mld., PURL 140 mil. Kč)
     text: rozbor mechanismu plateb
 vyroky:
@@ -86,7 +86,7 @@ vyroky:
     (Vrabel, 12. 7. 2026)
   text: '**1. 8.** — Opakuje tutéž tezi v souvislosti se zprávou o německo-francouzském jaderném cvičení
     a rétorikou o „přepevňování" cest a mostů pro přesun vojsk — bez nového posunu — [Zprávy v devět 1.
-    8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)'
+    8.](/zdroje/2026-08.md#2026-08-01_vrabel_zpravy-v-devet-1-8-2026)'
 - id: vrabel-2026-08-01-03
   typ: tvrzeni
   temata:
@@ -97,7 +97,7 @@ vyroky:
     cesty) bez nového posunu — doplňuje jen mechanismus, jak se z „nelegálního" migranta stává legální
     žadatel o azyl (nahlášení nezletilosti bez dokladů, záchrana v mezinárodních vodách) a že Itálií dočasně
     vyhlášené uzavření Schengenu pro Španělsko je jen politické gesto se stejným nulovým reálným efektem
-    — [Zprávy v devět 1. 8.](_zdroje.md#ladislav-vrabel--zprávy-v-devět-1-8-2026)'
+    — [Zprávy v devět 1. 8.](/zdroje/2026-08.md#2026-08-01_vrabel_zpravy-v-devet-1-8-2026)'
 - id: vrabel-2026-08-01-04
   typ: tvrzeni
   temata:

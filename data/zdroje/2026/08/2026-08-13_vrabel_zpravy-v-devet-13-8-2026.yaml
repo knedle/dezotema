@@ -9,13 +9,14 @@ zdroj:
   rezim: vrabel
   delka: 00:11:40
   poznamka: 'Vrabel — deník (delší video). Plně zpracována 4 ze 16 témat: Německá reforma zpravodajských
-    služeb jako nástroj proti AFD — [digitalni-kontrola.md](digitalni-kontrola.md); Ceuta — zdravotní/bezpečnostní
-    krize, organizovaná islamizace — [migrace.md](migrace.md); Rotterdam — koordinované útoky na energetickou
-    infrastrukturu — [konspirace.md](konspirace.md); Agenda 2030 — jediná cesta jsou protesty, sebereflexe
-    k roku 2022 — [politicky-system.md](politicky-system.md); zbytek (Zelenskyj/mír, Sevastopol, Hormuz/Írán-USA,
-    Kuba, rozpočet USA na obranu, USS Abraham Lincoln, Zelenskyj/rakety, Varšava přehlídka, Libanon/Velký
-    Izrael, USA elektrošokové rukavice, zemědělství ČR/Srbsko, IKEM útok) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
-    Predikce (AFD jako SPD, ČR chudší za 20 let) extrahovány bezvýjimečně; bez stoch. teroru.'
+    služeb jako nástroj proti AFD — [digitalni-kontrola.md](/temata/digitalni-kontrola.md); Ceuta — zdravotní/bezpečnostní
+    krize, organizovaná islamizace — [migrace.md](/temata/migrace.md); Rotterdam — koordinované útoky
+    na energetickou infrastrukturu — [konspirace.md](/temata/konspirace.md); Agenda 2030 — jediná cesta
+    jsou protesty, sebereflexe k roku 2022 — [politicky-system.md](/temata/politicky-system.md); zbytek
+    (Zelenskyj/mír, Sevastopol, Hormuz/Írán-USA, Kuba, rozpočet USA na obranu, USS Abraham Lincoln, Zelenskyj/rakety,
+    Varšava přehlídka, Libanon/Velký Izrael, USA elektrošokové rukavice, zemědělství ČR/Srbsko, IKEM útok)
+    jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](/zpravodajstvi-vrabel/2026-08.md). Predikce (AFD
+    jako SPD, ČR chudší za 20 let) extrahovány bezvýjimečně; bez stoch. teroru.'
   osoby:
   - osoba: petr-bystron
     vztah: pozitivni
@@ -28,13 +29,13 @@ zdroj:
   - tema: Sevastopol
     text: výbuch zabil ruského důstojníka (sabotáž) — nezpracováno
   - tema: Německá reforma zpravodajských služeb jako nástroj proti AFD, ne proti „hybridním hrozbám"
-    text: → [Digitální kontrola](../digitalni-kontrola.md)
+    text: → [Digitální kontrola](/temata/digitalni-kontrola.md)
   - tema: Hormuzský průliv
     text: spor Írán vs. USA o kontrolu, teorie o Trumpovi jako nástroji Deep State/Chabad-Lubavič — nezpracováno
   - tema: Ceuta — zdravotní a bezpečnostní krize, organizovaná islamizace
-    text: → [Migrace](../migrace.md)
+    text: → [Migrace](/temata/migrace.md)
   - tema: Rotterdam — koordinované útoky na energetickou infrastrukturu
-    text: → [Konspirační teorie](../konspirace.md)
+    text: → [Konspirační teorie](/temata/konspirace.md)
   - tema: Kuba
     text: USA nevylučuje vojenskou operaci, kritika amerického imperialismu — nezpracováno
   - tema: USA rozpočet na obranu 1,5 bilionu $
@@ -42,7 +43,7 @@ zdroj:
   - tema: Letadlová loď USS Abraham Lincoln
     text: vyčerpaná posádka, kritika americké armády — nezpracováno
   - tema: Agenda 2030 — jediná reálná cesta jsou protesty, ne volby; sebereflexe k roku 2022
-    text: → [Politický systém](../politicky-system.md)
+    text: → [Politický systém](/temata/politicky-system.md)
   - tema: Zelenskyj žádá USA o víc raket (dostává jen 1 %)
     text: „karma" teorie — nezpracováno
   - tema: Varšava
@@ -57,8 +58,7 @@ zdroj:
   - tema: IKEM
     text: útok sekyrou mezi zaměstnanci (pervitin), glosa o politicích na kokainu — nezpracováno
   - tema: Predikce
-    text: '[AFD jako SPD](../predikce.md#ladislav-vrabel--afd-v-německu-skončí-jako-spd-v-čr--silné-řeči-bez-skutečné-změny-13-8-2026),
-      [ČR chudší za 20 let](../predikce.md#ladislav-vrabel--bez-masového-odporu-bude-čr-za-20-let-jednou-z-chudších-zemí-světa-13-8-2026)'
+    text: '[AFD jako SPD](/temata/politicky-system/2026.md#vrabel-2026-08-13-05), [ČR chudší za 20 let](/temata/politicky-system/2026.md#vrabel-2026-08-13-06)'
     vyrok: vrabel-2026-08-13-05
 vyroky:
 - id: vrabel-2026-08-13-01

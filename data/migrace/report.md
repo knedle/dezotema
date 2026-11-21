@@ -156,6 +156,42 @@ Staré = `###` sekce + datované odstavce (jednotky parseru); nové = výroky ty
 - `vrabel-2026-05-31-07` (zdroj `2026-05-31_vrabel_facebook-live-31-5-2026`) <- `2026-05-31_rajchl_facebook-live-31-5-2026` (rajchl); stará kotva `politicky-system.md#brněnská-demonstrace--zklamání-z-vlastenecké-scény-vrabel-31-5-2026`
 - `tarabova-2026-09-01-01` (zdroj `2026-09-01_tarabova_videoportal-1-9-2026`) <- `2026-08-28_cernohorsky_facebook-live-28-8-2026` (cernohorsky); stará kotva `rodina-deti.md#komunální-program-podpora-dětí-bez-rozdílu--nerovné-financování-dětských-talentů-v-liberci-tarabová-1-9-2026`
 
+## Odkazy přepsané v datech (2008 z 2039)
+
+Neznámé odkazy zůstaly v textech beze změny (31):
+
+- `2026-06-02_vrabel_zpravy-v-devet-2-6-2026#vrabel-2026-06-02-10 -> #`
+- `2026-06-11_rajchl_videoportal-dozimetr-komise-11-6-2026#rajchl-2026-06-11-01 -> #kauza-dozimetr`
+- `2026-06-21_vrabel_nedelni-vysilani-21-6-2026#vrabel-2026-06-21-01 -> osoby/vrabel.md#suverenita-a-eu`
+- `2026-06-23_vrabel_zpravy-v-devet-23-6-2026#vrabel-2026-06-23-05 -> #ladislav-vrabel--konflikt-s-běloruskem-nepřijde-před-summitem-nato-20-6-2026`
+- `2026-06-29_vrabel_zpravy-v-devet-29-6-2026#vrabel-2026-06-29-02 -> #jaderné-zbraně-v-čr-babiš-i-pavel-shodně-za-start-smlouva-skončila-19-5-2026`
+- `2026-06-30_vrabel_zpravy-v-devet-30-6-2026#vrabel-2026-06-30-01 -> #jaderné-zbraně-v-čr-babiš-i-pavel-shodně-za-start-smlouva-skončila-19-5-2026`
+- `2026-07-05_rajchl_fb-live-5-7-2026#rajchl-2026-07-05-05 -> #21-6--zelenský-adoruje-nacismus-upa-pavlovo-mlčení--urážka-předků-odebrat-řád-bílého-lva-ať-ukrajinci-vrátí-polsku-i-peníze-zrušit-dočasnou-ochranudávky-ukrajincům--automatická-deportace-vyvrácení-statistiky-v-lásky-o-vězních-ukrajinské-děti-se-neasimilují-a-brzdí-výuku-vs-plaga-21-6-2026`
+- `2026-07-05_rajchl_fb-live-5-7-2026#rajchl-2026-07-05-05 -> #emisní-povolenky--spekulativní-derivátový-trh-němci-v-kleštích-penzijní-fondy--válka-povolenkám-zrušit-ets1ets2-i-za-cenu-vystoupení-z-eu-zelenský-upa--adorace-neonacismu-odebrat-řád-bílého-lva-čr-mlčí-vs-polsko-v4--čr-nedokáže-najít-národní-shodu-napříč-spektrem-7-6-2026`
+- `2026-07-05_vrabel_nedelni-vysilani-5-7-2026#vrabel-2026-07-05-01 -> valka-ukrajina-prubeh.md#formální-návrh-na-odebrání-řádu-bílého-lva-zelenskému-jednomyslná-podpora-spd-pozitivní-reakce-polska-a-slovenska-rajchl-5-7-2026`
+- `2026-07-09_vrabel_specialni-stream-ankara-panelova-debata-9-7-2026#vrabel-2026-07-09-03 -> valka-nato-rusko.md#panelová-debata-k-ankaře-americké-zbrojovky-v-evropě-riziko-konfliktu-s-ruskem-role-zelenského-a-turecka-vrabel-hosté-9-7-2026`
+- `2026-07-09_vrabel_zpravy-v-devet-9-7-2026#vrabel-2026-07-09-02 -> #palantiranthropic-a-technologická-suverenita-eu-vrabel-18-6-2026`
+- `2026-07-11_vrabel_zpravy-v-devet-11-7-2026#vrabel-2026-07-11-05 -> #babiš-a-rozprodej-čez-rozkradená-republika-vrabel-4-6-2026`
+- `2026-07-17_vrabel_zpravy-v-devet-17-7-2026#vrabel-2026-07-17-06 -> #`
+- `2026-07-17_vrabel_zpravy-v-devet-17-7-2026#vrabel-2026-07-17-12 -> #`
+- `2026-07-18_vrabel_zpravy-v-devet-18-7-2026#vrabel-2026-07-18-04 -> #`
+- `2026-07-18_vrabel_zpravy-v-devet-18-7-2026#vrabel-2026-07-18-09 -> #`
+- `2026-07-19_rajchl_nedelni-vysilani-19-7-2026#rajchl-2026-07-19-05 -> #`
+- `2026-07-19_rajchl_nedelni-vysilani-19-7-2026#rajchl-2026-07-19-08 -> #`
+- `2026-07-21_zitko_videoportal-ms-ve-fotbale-finale-19-7-2026#zitko-2026-07-21-03 -> #ufc-freedom-250-naplněno-demontáž-admirality-konec-války-s-íránem-michelle-obama-je-muž--zítko-15-6-2026`
+- `2026-07-23_zitko_videoportal-facebook-blokace-kyberneticka-bezpecnost-23-7-20#zitko-2026-07-23-01 -> dsa-cenzura.md#zítko-30denní-blokace-za-citaci-zdravotní-sestry--kybernetická-bezpečnost-jako-záminka-22-23-7-2026`
+- `2026-07-26_rajchl_facebook-live-26-7-2026#rajchl-2026-07-26-04 -> #eu-odmítla-registrovat-iniciativu-save-europe-act-migrační-pakt-jako-nevyhnutelnost-vrabel-23-7-2026`
+- `2026-08-10_rajchl_videoportal-volpe-ceuta-klip-10-8-2026 -> #jindřich-rajchl--facebook-live-9-8-2026`
+- `2026-08-10_vrabel_facebook-live-10-8-2026#vrabel-2026-08-10-02 -> #eskalace-v-ceutě-obchod-s-dětmi-žádné-hranice-španělsko–čr-vrabel-30-7-2026`
+- `2026-08-23_rajchl_facebook-live-23-8-2026#rajchl-2026-08-23-03 -> #kauza-dozimetr`
+- `2026-08-25_sejna_videoportal-25-8-2026#sejna-2026-08-25-01 -> #petr-pavel-a-spojené-státy-evropské-útok-na-českou-suverenitu-26-4-2026`
+- `2026-08-25_vrabel_facebook-live-25-8-2026#vrabel-2026-08-25-03 -> valka-nato-rusko.md#kosovo-a-metochie-útlak-srbů-má-být-vyřešen-po-skončení-války-na-ukrajině-vrabel-25-8-2026`
+- `2026-08-27_boldy_facebook-live-27-8-2026#boldy-2026-08-27-01 -> #-laviny-v-nepálu-jako-řízený-útok-raketou-z-letadla-analogie-s-911-jako-největší-globální-podvod-černohorský-27-8-2026`
+- `2026-08-30_rajchl_facebook-live-30-8-2026#rajchl-2026-08-30-03 -> #bitcoinová-kauza-rekonstrukce-předání-elektroniky-přesný-časový-sled-zítko-5-8-2026`
+- `2026-09-05_vrabel_facebook-live-5-9-2026#vrabel-2026-09-05-04 -> suverenita-eu.md#von-der-leyen-bez-nových-vlastních-zdrojů-klesne-rozpočet-eu-o-40--souvislost-s-financováním-ukrajiny-vrabel-4-7-2026`
+- `2026-09-13_zitko_videoportal-13-9-2026#zitko-2026-09-13-01 -> #freedom-250-ufc-finální-tah-proti-deep-state--zítko-12-6-2026`
+- `2026-10-10_zitko_prvni-dil-akce-setkani-cechoslovaku-bob-acer-a-pavel-zitko-c -> #československo-tv2--setkání-frýdek-místek-zahájení-10-10-2026`
+
 ## Osiřelé vnitřní odkazy (56 z 13372 vnitřních odkazů)
 
 Odkazy ve staré wiki, jejichž cíl nelze přeložit na nový výrok, zdroj ani stránku (kotvy uvnitř `osoby/*`, `predikce.md`, `stochasticky-teror.md` a přehledu se nepřekládají).

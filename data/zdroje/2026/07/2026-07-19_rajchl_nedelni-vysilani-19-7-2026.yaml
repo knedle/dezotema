@@ -9,16 +9,16 @@ zdroj:
   rezim: standard
   delka: 00:58:31
   poznamka: 'Zpracováno 11 témat (nedělní vysílání): (1) „Okurková sezóna" — po summitu switch na útoky
-    na opozici, plot u Rajchlovy zahrady jako titulka Seznamu, řízení Seznamu (Čárenský/Lukačevič) — [media-propaganda.md](media-propaganda.md).
-    (2) Turkova nehoda + dvojí metr vůči Jurečkovi (nedbalost vs. úmysl) — [kauzy.md](kauzy.md). (3) Petr
-    Pavel „prezident opozice", výrok „demokracie v ohrožení" — [politicky-system.md](politicky-system.md).
-    (4) Vláda neplní sliby (munice, F-35, PURL), ultimátum FARA/ČT do podzimu, volby 2028 — [politicky-system.md](politicky-system.md),
-    [fara-neziskovky.md](fara-neziskovky.md). (5) Green Deal „highway to hell" — ETS1/2, RED3, EPBD4,
-    moratorium na větrníky, Dukovany, „válka s Bruselem", odchod z EU — [suverenita-eu.md](suverenita-eu.md).
-    (6) Chorvatsko a euro = „konec Chorvatska" — [suverenita-eu.md](suverenita-eu.md). (7) Ukrajina se
-    zhroutí, Zelenskyj→Zalužný — [valka-nato-rusko.md](valka-nato-rusko.md) + [predikce.md](predikce.md).
-    (8) Írán — masivní útok USA „příští týden", DPH nula na PHM/plyn — [blizky-vychod.md](blizky-vychod.md),
-    [ceny-energie.md](ceny-energie.md) + [predikce.md](predikce.md). Bez stoch. teroru.'
+    na opozici, plot u Rajchlovy zahrady jako titulka Seznamu, řízení Seznamu (Čárenský/Lukačevič) — [media-propaganda.md](/temata/media-propaganda.md).
+    (2) Turkova nehoda + dvojí metr vůči Jurečkovi (nedbalost vs. úmysl) — [kauzy.md](/temata/kauzy.md).
+    (3) Petr Pavel „prezident opozice", výrok „demokracie v ohrožení" — [politicky-system.md](/temata/politicky-system.md).
+    (4) Vláda neplní sliby (munice, F-35, PURL), ultimátum FARA/ČT do podzimu, volby 2028 — [politicky-system.md](/temata/politicky-system.md),
+    [fara-neziskovky.md](/temata/fara-neziskovky.md). (5) Green Deal „highway to hell" — ETS1/2, RED3,
+    EPBD4, moratorium na větrníky, Dukovany, „válka s Bruselem", odchod z EU — [suverenita-eu.md](/temata/suverenita-eu.md).
+    (6) Chorvatsko a euro = „konec Chorvatska" — [suverenita-eu.md](/temata/suverenita-eu.md). (7) Ukrajina
+    se zhroutí, Zelenskyj→Zalužný — [valka-nato-rusko.md](/temata/valka-nato-rusko.md) + [predikce.md](/predikce/index.md).
+    (8) Írán — masivní útok USA „příští týden", DPH nula na PHM/plyn — [blizky-vychod.md](/temata/blizky-vychod.md),
+    [ceny-energie.md](/temata/ceny-energie.md) + [predikce.md](/predikce/index.md). Bez stoch. teroru.'
 vyroky:
 - id: rajchl-2026-07-19-01
   typ: tvrzeni
@@ -29,7 +29,7 @@ vyroky:
     se „příští týden" dá očekávat masivní útok na Írán (s výhradou, že jednání ještě probíhají a může
     se stát cokoliv). Varuje před dopadem na energetiku (nejvíce v Evropě) a navrhuje připravit legislativu
     pro rychlejší zásahy státu — místo stropování cen možnost krátkodobě snížit DPH na pohonné hmoty a
-    plyn na nulu (viz [ceny-energie.md](ceny-energie.md)). Viz [Predikce](predikce.md).
+    plyn na nulu (viz [ceny-energie.md](/temata/ceny-energie.md)). Viz [Predikce](/predikce/index.md).
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: rajchl-2026-07-19-02
   typ: tvrzeni
@@ -77,7 +77,7 @@ vyroky:
     zatímco „velké kauzy" (Rakušanův předražený nákup vrtulníků tři dny před volbami, Bíštan, dozimetr,
     kanceláře) zůstávají bez pozornosti. Řízení Seznamu dokládá tvrzením Tomáše Pauknera, že šéfredaktor
     „Čárenský" dostal těsně před nástupem desítky milionů od „Lukačeviče" do ztrátové firmy (koupě třetiny
-    ztrátové firmy za desítky milionů). Navazuje na [Dvojí metr v kauzách: byty vs. Pauknerovy korupce](#dvojí-metr-v-kauzách-byty-vs-pauknerovy-korupce-demaskování-pseudonymu--rajchl-21-6-2026).'
+    ztrátové firmy za desítky milionů). Navazuje na [Dvojí metr v kauzách: byty vs. Pauknerovy korupce](/temata/media-propaganda.md#rajchl-2026-06-21-04).'
   podtema: Nová alternativní média
 - id: rajchl-2026-07-19-05
   typ: tvrzeni
@@ -110,10 +110,10 @@ vyroky:
     nákup F-35 nebyl zastaven (Rajchl očekává, že nakonec vůbec nebudou dodány), a 140 mil. na program
     PURL (ukrajinské zbraně) je porušením slibu, že na ukrajinské zbraně nepůjde „ani koruna" (mandatorní
     výdaj lze podle něj převést do rozpočtové rezervy). Dává vládě čas do podzimu: pokud sama nepředloží
-    zákon FARA, předloží ho sám, „ať se každý ukáže" (viz [fara-neziskovky.md](fara-neziskovky.md)). Požaduje
-    také zásadní změnu financování ČT (prosazuje dobrovolné koncesionářské poplatky — „nebudu platit za
-    propagandu proti sobě") a koncentraci sil do prezidentských voleb 2028 za jednoho kandidáta schopného
-    porazit Pavla (analogie s vlastní dřívější výzvou volit Babiše místo Bašty).'
+    zákon FARA, předloží ho sám, „ať se každý ukáže" (viz [fara-neziskovky.md](/temata/fara-neziskovky.md)).
+    Požaduje také zásadní změnu financování ČT (prosazuje dobrovolné koncesionářské poplatky — „nebudu
+    platit za propagandu proti sobě") a koncentraci sil do prezidentských voleb 2028 za jednoho kandidáta
+    schopného porazit Pavla (analogie s vlastní dřívější výzvou volit Babiše místo Bašty).'
   podtema: Kritika soudnictví
 - id: rajchl-2026-07-19-07
   typ: tvrzeni
@@ -160,7 +160,7 @@ vyroky:
     Trump „dostal něco"), Zelenskyj bude vyměněn za v Londýně připraveného Zalužného („výměna jedné loutky
     za druhou") a přijde mír. Zdůrazňuje, že čím déle válka trvá, tím horší podmínky pro Ukrajinu (analogie
     s minskými dohodami a jednáními 2022) — vinu za devastaci Ukrajiny přičítá „válečným štváčům" včetně
-    „pětky" české opozice. Viz [Predikce](predikce.md).'
+    „pětky" české opozice. Viz [Predikce](/predikce/index.md).'
   podtema: Zahraniční aktéři a precedenty
 - id: rajchl-2026-07-19-10
   typ: predikce

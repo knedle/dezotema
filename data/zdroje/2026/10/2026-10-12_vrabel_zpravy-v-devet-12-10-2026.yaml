@@ -11,7 +11,7 @@ zdroj:
   prehled:
   - tema: Babiš dal pobyt více Ukrajincům než Fiala, migrační pakt od ledna
     text: „urychluje příchod připrchlíků“, od ledna z Afriky; rasové stereotypy („inženýr s kyselinou“)
-      → viz [Stochastický teror](../stochasticky-teror.md)
+      → viz [Stochastický teror](/stochasticky-teror.md)
     vyrok: vrabel-2026-10-12-01
   - tema: 'Okamura: EU má jednat s Ruskem o míru'
     text: „blbost“, „japonská mozkovna“, chválí Ivana Davida
@@ -20,7 +20,7 @@ zdroj:
     text: „obranný dron“ je nesmysl, Plzeň bude cílem
     vyrok: vrabel-2026-10-12-03
   - tema: Trump obhajuje dohodu s Ruskem o naftě
-    text: ⚡ do voleb v USA tři týdny „euforie“ → viz [Predikce](../predikce.md)
+    text: ⚡ do voleb v USA tři týdny „euforie“ → viz [Predikce](/predikce/index.md)
   - tema: Možné odvolání velvyslankyně Guilfoyle
     text: v USA je nelegální jednání spíš „kvalifikace“ pro postup.
   - tema: 'Mirošnik: Evropa může tlačit Ukrajinu proti dohodě USA–Rusko'
@@ -34,14 +34,14 @@ zdroj:
     text: „ani jedno slovo pravda“, „měli by se léčit“
     vyrok: vrabel-2026-10-12-04
   - tema: Tuskův „předválečný“ projev
-    text: válce nelze zabránit, přijdou „tvrdé postihy“ → viz [Predikce](../predikce.md)
+    text: válce nelze zabránit, přijdou „tvrdé postihy“ → viz [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-12-04
   - tema: Saúdové nemají záchytné střely proti Hútíům
     text: bez komentáře.
   - tema: Turci zadrženi za žhářský útok na stanici Starlink v Polsku
     text: ironicky „to jsou prostě Rusové, Turci se jen maskují“.
   - tema: Zadržen muž za výhrůžky atentátem Tuskovi
-    text: ⚡ „ani se nedivím“, fantazie o jelenovi a Tuskovi → viz [Stochastický teror](../stochasticky-teror.md)
+    text: ⚡ „ani se nedivím“, fantazie o jelenovi a Tuskovi → viz [Stochastický teror](/stochasticky-teror.md)
   - tema: Telefonát Zelenskyj–Tusk, Trump a ukrajinské volby
     text: Polsko „další na řadě“, „šílenci“ budou souzeni, Rusko není agresor
     vyrok: vrabel-2026-10-12-04
@@ -64,7 +64,7 @@ vyroky:
     Přicházející pracovní migranty zesměšňuje rasovými stereotypy: „inženýra poznáte tak, že má v ruce
     buď kyselinu, nebo bombu, lékaře tak, že má v ruce skalpel“, řidiče tak, že „vjede do davu“, a obecně
     o „každém, kdo má odstín barvy pleti trošku tmavší, než je tamhle ten kousek dřeva“ (viz [Stochastický
-    teror](stochasticky-teror.md)). Lidé, kterým se to nelíbí, budou podle něj „potlačováni“.'
+    teror](/stochasticky-teror.md)). Lidé, kterým se to nelíbí, budou podle něj „potlačováni“.'
   osoby:
   - osoba: katerina-konecna
     vztah: negativni
@@ -121,13 +121,13 @@ vyroky:
     strategií je oslabit Evropu i Rusko vzájemnou válkou. Ke zprávě o zadržení muže, který vyhrožoval
     atentátem Tuskovi, říká, že se mu „ani nediví“. Popisuje představu, jak míří na jelena, „a šel tam
     okolo Tusk… a ten Tusk by byl vedle“. Světu by podle něj „možná bylo líp, kdyby tady nebyl… to bych
-    takhle neřekl, ale kdyby třeba vyvážel popelnice“ (viz [Stochastický teror](stochasticky-teror.md)).
+    takhle neřekl, ale kdyby třeba vyvážel popelnice“ (viz [Stochastický teror](/stochasticky-teror.md)).
     Prohlášení generála NATO Grynkewiche, že útok na NATO bude zmařen, je podle něj lež, protože NATO
     nemá protivzdušnou obranu proti zbraním typu Sarmat: „ty lidi by se měli buď léčit“.'
   osoby:
   - osoba: donald-tusk
     vztah: negativni
-    kontext: „Předválečný“ projev, „pakáž“, „světu by bylo líp, kdyby tady nebyl“ (→ [stoch. teror](../stochasticky-teror.md))
+    kontext: „Předválečný“ projev, „pakáž“, „světu by bylo líp, kdyby tady nebyl“ (→ [stoch. teror](/stochasticky-teror.md))
   - osoba: rados-aw-sikorski
     vztah: negativni
     kontext: „Stejná pakáž“ jako Tusk, ruší diplomacii, „Poláci nás zatahují do války“

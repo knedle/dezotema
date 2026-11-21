@@ -9,30 +9,30 @@ zdroj:
   rezim: vrabel
   delka: 00:59:09
   poznamka: 'Zpracováno 4 témata: (2) Nová pravidla EU pro dočasnou ochranu Ukrajinců (jen se splněnou
-    vojenskou povinností) — [migrace.md](migrace.md). (3) Host Michala Gánovská — organizované svážení
-    migrantů do Ceuty, geopolitický tlak USA/Izraele na Španělsko — [migrace.md](migrace.md). (5) Nedostatek
-    léku Tamoxifen — „léková soběstačnost" — [kauzy.md](kauzy.md). (6) Rainer Füllmich — mučení ve vazbě,
-    nemohl se rozloučit s umírající matkou — [kauzy.md](kauzy.md). Nezpracováno (jen zpravodajský deník):
-    rekordní vojenský výcvik studentů, Dánsko losuje branky, Írán chystá odvetu na Ukrajinu, 6G síť (opakování),
-    Karpatská iniciativa, výročí Oluji (opakování), jezídská genocida, polský dálkový plavec. Bez predikcí
-    a stoch. teroru.'
+    vojenskou povinností) — [migrace.md](/temata/migrace.md). (3) Host Michala Gánovská — organizované
+    svážení migrantů do Ceuty, geopolitický tlak USA/Izraele na Španělsko — [migrace.md](/temata/migrace.md).
+    (5) Nedostatek léku Tamoxifen — „léková soběstačnost" — [kauzy.md](/temata/kauzy.md). (6) Rainer Füllmich
+    — mučení ve vazbě, nemohl se rozloučit s umírající matkou — [kauzy.md](/temata/kauzy.md). Nezpracováno
+    (jen zpravodajský deník): rekordní vojenský výcvik studentů, Dánsko losuje branky, Írán chystá odvetu
+    na Ukrajinu, 6G síť (opakování), Karpatská iniciativa, výročí Oluji (opakování), jezídská genocida,
+    polský dálkový plavec. Bez predikcí a stoch. teroru.'
   prehled:
   - tema: Rekordní vojenský výcvik studentů (982 přísah); Dánsko
     text: Rekordní vojenský výcvik studentů (982 přísah); Dánsko prodlužuje vojenskou službu a losuje
       branky — spojuje s teorií „Hunger Games"
   - tema: Nová pravidla EU pro dočasnou ochranu Ukrajinců (jen se splněnou vojenskou povinností)
-    text: → [Migrace a islamizace](../migrace.md)
+    text: → [Migrace a islamizace](/temata/migrace.md)
   - tema: Host Michala Gánovská — organizované svážení migrantů do Ceuty, geopolitický tlak USA/Izraele
       na Španělsko
-    text: → [Migrace a islamizace](../migrace.md)
+    text: → [Migrace a islamizace](/temata/migrace.md)
   - tema: Írán chystá odvetu vůči Ukrajině za útok na íránskou loď
     text: odhad 60:40 na eskalaci
   - tema: Nedostatek léku Tamoxifen — „léková soběstačnost"
-    text: → [Kauzy a korupce](../kauzy.md)
+    text: → [Kauzy a korupce](/temata/kauzy.md)
   - tema: 6G síť jako sledovací nástroj
     text: opakování beze změny
   - tema: Rainer Füllmich — mučení ve vazbě, nemohl se rozloučit s umírající matkou
-    text: → [Kauzy a korupce](../kauzy.md)
+    text: → [Kauzy a korupce](/temata/kauzy.md)
   - tema: Karpatská iniciativa (Zelenskyj)
     text: propojení 8 zemí včetně ČR/SK, bez komentáře
   - tema: Výročí operace Oluja (31 let)

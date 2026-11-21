@@ -21,7 +21,7 @@ zdroj:
       EU
     vyrok: vrabel-2026-10-16-04
   - tema: Neshoda o rozpočtu EU 2028–2034
-    text: dohodnou se, ale EU nakonec rozloží občanská válka → viz [Predikce](../predikce.md)
+    text: dohodnou se, ale EU nakonec rozloží občanská válka → viz [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-16-04
   - tema: ČR odvede do rozpočtu EU 82 mld.
     text: Babiš je „oligarcha“, hádá se o zemědělské dotace.
@@ -31,8 +31,8 @@ zdroj:
   - tema: Zelenskyj žádá 70 mld. € a 22. sankční balíček
     text: Babiš to „odmává“ a Češi zaplatí.
   - tema: Ukrajinci v ČR jako bezpečnostní riziko
-    text: „dva miliony“, „kolik z nich bude ozbrojených“, „dynamit“ → viz [Stochastický teror](../stochasticky-teror.md),
-      [Predikce](../predikce.md)
+    text: „dva miliony“, „kolik z nich bude ozbrojených“, „dynamit“ → viz [Stochastický teror](/stochasticky-teror.md),
+      [Predikce](/predikce/index.md)
     vyrok: vrabel-2026-10-16-02
   - tema: Írán vyváží paliva navzdory blokádě
     text: válku rozpoutaly USA, svět je má sankcionovat
@@ -47,7 +47,7 @@ zdroj:
     text: „boj státu proti lidem“, Babiš „je proti lidem“
     vyrok: vrabel-2026-10-16-03
   - tema: Lukašenko proti Trumpovi
-    text: Trump je „diktátor světa“, „potřebuje dostat ránu mezi oči“ → viz [Stochastický teror](../stochasticky-teror.md)
+    text: Trump je „diktátor světa“, „potřebuje dostat ránu mezi oči“ → viz [Stochastický teror](/stochasticky-teror.md)
     vyrok: vrabel-2026-10-16-06
   - tema: Novinář Hässig obviněn z porušení bankovního tajemství
     text: stát je „příšera, která žere vlastní lidi“, Fuellmichovy „lidové soudy“
@@ -84,7 +84,7 @@ vyroky:
     mohl by přijít „tlak zdola… třeba nějaký terorismus“: „Vemte si, kolik je tady Ukrajinců, a kolik
     z nich bude pravděpodobně ozbrojených.“ Dvacet milionů Ukrajinců rozprostřených po Evropě je podle
     něj „dynamit, který čeká na to, aby byl odpálený“. „Nestrkejte Ukrajince do České republiky po milionech.
-    Nestrkejte, může to chytnout.“ (viz [Stochastický teror](stochasticky-teror.md))'
+    Nestrkejte, může to chytnout.“ (viz [Stochastický teror](/stochasticky-teror.md))'
   osoby:
   - osoba: tomio-okamura
     vztah: negativni
@@ -156,7 +156,7 @@ vyroky:
   osoby:
   - osoba: donald-trump
     vztah: negativni
-    kontext: „Diktátor světa“, „potřebuje dostat ránu mezi oči“ (→ [stoch. teror](../stochasticky-teror.md))
+    kontext: „Diktátor světa“, „potřebuje dostat ránu mezi oči“ (→ [stoch. teror](/stochasticky-teror.md))
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-16-06
   typ: tvrzeni
@@ -171,7 +171,7 @@ vyroky:
     „bully“. K Lukašenkovu odmítnutí Trumpova výroku o novém ukrajinském prezidentovi říká: „Donald Trump
     se chová absolutně jako diktátor… diktátor světa“ (Grónsko, Venezuela, Írán). Respektuje jen sílu,
     Putina a Kima, a „to je člověk, který potřebuje dostat prostě ránu mezi oči, aby přestal. A on přestane“
-    (viz [Stochastický teror](stochasticky-teror.md)).'
+    (viz [Stochastický teror](/stochasticky-teror.md)).'
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-10-16-07
   typ: tvrzeni

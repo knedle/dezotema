@@ -9,17 +9,18 @@ zdroj:
   rezim: standard
   delka: 00:58:38
   poznamka: 'Útržkovité vysílání. Zpracováno 12 témat: (1) Trump „brány pekelné"/Írán, USA varování —
-    [blizky-vychod.md](blizky-vychod.md). (2) Voda na burze + datacentra AI — [konspirace.md](konspirace.md).
-    (3) MS ve fotbale jako okultismus, míč ovládaný AI — [konspirace.md](konspirace.md). (4) Sociální
-    sítě manipulují myšlením — [digitalni-kontrola.md](digitalni-kontrola.md). (5) Větrníky zabíjejí ryby/hmyz/ptáky
-    — [vetrniky.md](vetrniky.md). (6) Film „Včelař"/Trump včelař, Beyoncé→AI, antikrist 2017/Musk roboti
-    — [konspirace.md](konspirace.md). (7) [sloučeno do 6]. (8) IceCube Antarktida vyvolává zemětřesení,
-    kritika Alatry — [konspirace.md](konspirace.md). (9) Darkweb: zbraně/děti/vrazi — [konspirace.md](konspirace.md).
-    (10) „Civilizace s amnézií": obři, dávné technologie — [konspirace.md](konspirace.md). (11) David
-    Icke zakázán do ~30 zemí, Německo/RT — [dsa-cenzura.md](dsa-cenzura.md). (12) Střelba na FF UK + Klánovický
-    les jako odvedení pozornosti — [konspirace.md](konspirace.md). Opakování beze změny (jen zmíněno):
-    sionismus/Izrael třetí chrám a trojský kůň migrace, vakcíny bio zbraň/patent, ''Ndrangheta, cenzura
-    FB, NPC/projekt Manhattan, adrenochrom/tunely. Bez predikcí a stoch. teroru.'
+    [blizky-vychod.md](/temata/blizky-vychod.md). (2) Voda na burze + datacentra AI — [konspirace.md](/temata/konspirace.md).
+    (3) MS ve fotbale jako okultismus, míč ovládaný AI — [konspirace.md](/temata/konspirace.md). (4) Sociální
+    sítě manipulují myšlením — [digitalni-kontrola.md](/temata/digitalni-kontrola.md). (5) Větrníky zabíjejí
+    ryby/hmyz/ptáky — [vetrniky.md](/temata/vetrniky.md). (6) Film „Včelař"/Trump včelař, Beyoncé→AI,
+    antikrist 2017/Musk roboti — [konspirace.md](/temata/konspirace.md). (7) [sloučeno do 6]. (8) IceCube
+    Antarktida vyvolává zemětřesení, kritika Alatry — [konspirace.md](/temata/konspirace.md). (9) Darkweb:
+    zbraně/děti/vrazi — [konspirace.md](/temata/konspirace.md). (10) „Civilizace s amnézií": obři, dávné
+    technologie — [konspirace.md](/temata/konspirace.md). (11) David Icke zakázán do ~30 zemí, Německo/RT
+    — [dsa-cenzura.md](/temata/dsa-cenzura.md). (12) Střelba na FF UK + Klánovický les jako odvedení pozornosti
+    — [konspirace.md](/temata/konspirace.md). Opakování beze změny (jen zmíněno): sionismus/Izrael třetí
+    chrám a trojský kůň migrace, vakcíny bio zbraň/patent, ''Ndrangheta, cenzura FB, NPC/projekt Manhattan,
+    adrenochrom/tunely. Bez predikcí a stoch. teroru.'
 vyroky:
 - id: boldy-2026-07-19-01
   typ: tvrzeni
@@ -29,8 +30,8 @@ vyroky:
   text: Boldy komentuje Trumpovo prohlášení při nových úderech na Írán, že se „proti Íránu otevřou brány
     pekelné", a americké „červené varování" občanům po celém světě. Trumpa označuje za loutku (připomíná
     podání ruky s Babišem — „jedna ruka, všechny loutky") a spojuje to se svým dřívějším výkladem [Trump
-    = Abaddon](konspirace.md#trump-jako-démonická-entita--moon-child). Souběžně tvrdí, že jakmile začal
-    opět vysílat, Facebook mu blokuje nahrávání videí a z Izraele ho někdo „špehuje" (upozornění antiviru).
+    = Abaddon](/temata/konspirace/2026.md#boldy-2026-03-05-01). Souběžně tvrdí, že jakmile začal opět
+    vysílat, Facebook mu blokuje nahrávání videí a z Izraele ho někdo „špehuje" (upozornění antiviru).
   osoby:
   - osoba: donald-trump
     vztah: negativni
@@ -56,7 +57,7 @@ vyroky:
     má podle něj hrozit až pět let vězení za sdílení a podporu televize RT a názorů oponujících vládnoucímu
     narativu — označuje to za „totalitní režim" a „korporátní darwinismus" (buď sdílíš mainstream a jsi
     volný, nebo sdílíš „pravdu" a jdeš „za katr"). Navazuje na jeho tezi o cenzuře Facebooku a mazání
-    videí (viz [YouTube smazal přes milion videí](dsa-cenzura.md#youtube-smazal-přes-milion-videí-o-vakcínách-umlčovaní-vědci-boldy-17-7-2026)).
+    videí (viz [YouTube smazal přes milion videí](/temata/dsa-cenzura.md#boldy-2026-07-17-02)).
   osoby:
   - osoba: david-icke
     vztah: pozitivni
@@ -73,7 +74,7 @@ vyroky:
     která spotřebují „brutální množství" vody na chlazení. Upozorňuje, že Nvidia (protože nestíhá stavět
     velká datacentra) nabízí lidem malá domácí datacentra na fasádu za ~120 dolarů měsíčně se slibem výdělku
     až 22 tis. dolarů ročně — čímž se prý přesouvá spotřeba vody a nákladů na chlazení na samotné občany
-    („NPC"). Navazuje na [Tokenizace majetku a digitální diktatura](#tokenizace-majetku-a-digitální-diktatura).
+    („NPC"). Navazuje na [Tokenizace majetku a digitální diktatura](/temata/konspirace/2026.md#boldy-2026-03-12-04).
   podtema: Náboženský a okultní výklad moci
 - id: boldy-2026-07-19-05
   typ: tvrzeni
@@ -87,7 +88,7 @@ vyroky:
     Adidasu s „kozou" (goat) Messim a mladým Yamalem coby „předání žezla". Míč Trionda má prý zabudovanou
     technologii (trojhranné jádro), díky níž jej umělá inteligence dálkově ovládá a mění směr; VAR je
     jen klam, protože rozhoduje stejně rozhodčí. Uvádí i Bellinghama (číslo 10, desátý gól). Navazuje
-    na [dvojníky a okultismus](#dvojníci-a-klony-politiků-a-celebrit).
+    na [dvojníky a okultismus](/temata/konspirace/2026.md#boldy-2026-03-12-07).
   osoby:
   - osoba: lionel-messi
     vztah: negativni
@@ -100,7 +101,7 @@ vyroky:
   nadpis: Film „Včelař", Trump jako včelař a AI jako „antikrist" (Boldy, 19. 7. 2026)
   text: 'Boldy interpretuje film *Včelař* (Beekeeper) jako sdělení elit: hlavní hrdina ničí zabudovaný
     systém („úl"). Bílý dům prý na síti X označil Trumpa za „včelaře" — Boldy to čte obráceně: Trump má
-    jako „včelař" zlikvidovat obyčejné lidi (navazuje na jeho tezi [Trump = Abaddon / „Moon Child"](#trump-jako-démonická-entita--moon-child)).
+    jako „včelař" zlikvidovat obyčejné lidi (navazuje na jeho tezi [Trump = Abaddon / „Moon Child"](/temata/konspirace/2026.md#boldy-2026-03-05-01)).
     Do stejného výkladu řadí stavbu budov ve tvaru úlu a „výměnu královny": Beyoncé měla být do roku 2017
     okultní „královnou", nyní nahrazenou umělou inteligencí. Tvrdí, že AI vznikla už v roce 1956 (CIA/DARPA)
     a její „největší transformace" nastala v roce 2017 — což spojuje s knihou (od „muže v černém"), podle
@@ -117,7 +118,7 @@ vyroky:
     uvádí zemětřesení v Turecku a dění ve Venezuele (dle něj „obětní beránek" kvůli okultismu okolo FIFA).
     Ostře kritizuje hnutí Alatra (jmenuje „Marka Trávníčka") za to, že popírá existenci technologií k
     ovládání počasí a zemětřesení a „míchá jablka s hruškami" — považuje Alatru za záměrně vypuštěný projekt,
-    který mluví jen o tom, co se „hodí". Navazuje na [geoinženýrství a patenty od 1896](#geoinženýrství-patenty-od-1896-bill-gates-přes-neziskovky-vesmírná-zrcadla-boldy-17-7-2026).
+    který mluví jen o tom, co se „hodí". Navazuje na [geoinženýrství a patenty od 1896](/temata/konspirace/2026.md#boldy-2026-07-17-03).
   podtema: Náboženský a okultní výklad moci
 - id: boldy-2026-07-19-08
   typ: tvrzeni

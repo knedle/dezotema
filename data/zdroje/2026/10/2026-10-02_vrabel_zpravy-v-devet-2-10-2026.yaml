@@ -16,7 +16,7 @@ zdroj:
   - tema: Výzva k účasti na shromáždění 3. 10.
     text: 13 řečníků, sbírka na náklady.
   - tema: ČR zahájila jednání s Francií o jaderném deštníku
-    text: Babiš „tak hloupej", alegorie o Ferdovi Mravencovi → viz [Stochastický teror](../stochasticky-teror.md)
+    text: Babiš „tak hloupej", alegorie o Ferdovi Mravencovi → viz [Stochastický teror](/stochasticky-teror.md)
     vyrok: vrabel-2026-10-02-02
   - tema: Macinka v Černé Hoře podporuje vstup do EU
     text: Macinka a Okamura „pracují pro EU", Ivan David ji jezdí „rozbíjet".
@@ -41,7 +41,7 @@ zdroj:
   - tema: Polský zákon o přesunech armády
     text: ČR dodává přes polovinu munice — „bumerang".
   - tema: 'Putin na Valdaji: eskalační spirála'
-    text: ⚡ viz [Jaderné zbraně](../jaderne-zbrane.md)
+    text: ⚡ viz [Jaderné zbraně](/temata/jaderne-zbrane.md)
   - tema: Putin ke Kaliningradu; Rutte
     text: „pozor, zlý pes" (opakování).
   - tema: 'Putin: přelom světového uspořádání'
@@ -74,7 +74,7 @@ vyroky:
     varování z Valdaje před eskalační spirálou mezi jadernými mocnostmi říká, že Babiš je „vychytralý,
     ale tak hloupej", když bez referenda a proti slibu míru tahá jaderné zbraně z Francie, a uvádí alegorii
     o Ferdovi Mravencovi: mravenec, který přivede od termitů „speciálního sršně", by měl být „exkomunikován
-    ze země, nebo rovnou sežrán" (viz [Stochastický teror](stochasticky-teror.md)).'
+    ze země, nebo rovnou sežrán" (viz [Stochastický teror](/stochasticky-teror.md)).'
 - id: vrabel-2026-10-02-03
   typ: tvrzeni
   temata:

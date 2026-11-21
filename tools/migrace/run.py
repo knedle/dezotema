@@ -226,6 +226,12 @@ def krok_souhrny(stara_wiki, root, mkdocs):
           f"{r['prazdne']}; chybí stránka: {r['chybi']}")
 
 
+def krok_odkazy(stara_wiki, root, mkdocs):
+    from tools.migrace.odkazy import prepis_odkazy
+    r = prepis_odkazy(root)
+    print(f"odkazy: {r['prelozeno']} z {r['celkem']} přeloženo, {len(r['nepreložené'])} neznámých")
+
+
 def krok_report(stara_wiki, root, mkdocs):
     import yaml
 
@@ -244,7 +250,7 @@ def krok_report(stara_wiki, root, mkdocs):
 
 KROKY = {"zdroje": krok_zdroje, "temata": krok_temata, "predikce": krok_predikce,
          "teror": krok_teror, "prehled": krok_prehled, "osoby": krok_osoby,
-         "souhrny": krok_souhrny, "report": krok_report}
+         "souhrny": krok_souhrny, "odkazy": krok_odkazy, "report": krok_report}
 
 
 def main(argv=None) -> int:

@@ -1,5 +1,8 @@
 from __future__ import annotations
 
+import posixpath
+import re
+
 from ..index import Archiv
 from ..model import Vyrok, Zdroj
 
@@ -71,3 +74,19 @@ def render_vyrok(v: Vyrok, z: Zdroj, archiv: Archiv, rel: str) -> str:
             casti.append(f"{_VAZBA_TEXT.get(va.typ, va.typ)} {cil}")
         bloky.append("*Vazby:* " + "; ".join(casti))
     return "\n\n".join(bloky) + "\n"
+
+
+_KOREN_ODKAZ = re.compile(r"(\]\()/(?!/)([^)\s]*)")
+
+
+def zrelativni(text: str, stranka: str) -> str:
+    """Odkazy v datech jsou kořenové (`](/temata/x.md#id)`, kořen = wiki); při vykreslení stránky
+    `stranka` (cesta vůči wiki) se převedou na relativní. Jiné odkazy se nemění."""
+    zakladna = posixpath.dirname(stranka) or "."
+
+    def nahrad(m):
+        cesta, hash_, kotva = m.group(2).partition("#")
+        rel = posixpath.relpath(cesta, zakladna) if cesta else ""
+        return f"{m.group(1)}{rel}{hash_}{kotva}"
+
+    return _KOREN_ODKAZ.sub(nahrad, text)
