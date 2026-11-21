@@ -1,0 +1,294 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Lenka Tarabová
+URL:          https://m.facebook.com/watch/?v=1105361831953464&_rdr
+Datum videa:  2026-09-05
+Zpracováno:   2026-09-07 20:42:15
+Jazyk:        cs
+Délka:        00:10:39
+Zhlédnutí:    1 834
+Popis:        TRANSPARENTNOST 
+
+Jak těžké je pro občany vyhledávání dokumentů?
+
+Jak plánujeme zjednodušit informovanost Liberečanům?
+
+Z rozhovoru pro TV Česko Marián Barana.
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    7s
+Přepis:       2m 15s
+Rychlost:     4.7x realtime
+Celkem:       2m 22s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Zmíním slovo transparentnost, jo.
+[00:03] Ono už pan zmíněný paukner v vozovkách,
+[00:06] ten když nám vytahuje teď ty smlouvy,
+[00:09] bestán a tak dále, teď něco na piráty,
+[00:12] jenom jsem zlehka četl,
+[00:15] tak běžní občan asi jenom kouká,
+[00:19] jak někde peníze jdou ve velkým zanic,
+[00:23] jenom že to je kamarád,
+[00:24] že to je někdo z nějaká politická strana,
+[00:27] a jak jste spokojená s úrovní transparentnosti,
+[00:33] ať už samozpráv v Česku ke svým místním občanům,
+[00:38] nebo k transparentnosti vlády,
+[00:42] toho, jak vlastně ty naše vlády
+[00:44] jako nějak ve světle fungují,
+[00:47] jak je to pro ty lidi nějak srozumitelný,
+[00:51] jak je to kontrolovatelný dobře.
+[00:55] Jednoduše odpověm není.
+[00:58] Protože samozřejmě ten Tomas ukázal,
+[01:01] že ty věci tam prostě jsou,
+[01:03] že když člověk začne hledat,
+[01:05] tak to všechno najde,
+[01:07] ale kdo tohle je,
+[01:08] buď to schopen udělat,
+[01:09] nebo má na to čas,
+[01:10] nebo ví vůbec kam sáhnout.
+[01:12] Ono třeba, když si vezmete
+[01:14] takový web Poslanecké sněmovny,
+[01:16] posl.cz,
+[01:18] tam když třeba chcete transparentně sledovat pochod
+[01:22] přijímání nějakého zákona,
+[01:24] nebo nějaké novely zákona,
+[01:26] tak v tom opravdu musíte ležet,
+[01:28] a pak i ty jednotlivé novely a ty části.
+[01:31] To hlasování vlastně není označené,
+[01:34] o čem přesně to hlasování je,
+[01:36] jenom je pojmenované,
+[01:37] a pak tam vidíte 10 hlasování,
+[01:39] které se týkají jedné věci,
+[01:41] tak je potřeba se potom dostat ke scénoprotokolu
+[01:43] a pročíst si vlastně,
+[01:45] jak šel ta diskuze kolem toho jednoho zákona,
+[01:48] a pak když se tam hlasuje,
+[01:49] tak tam je vlastně v tom scénoprotokolu to uvedené.
+[01:52] Je to složité,
+[01:53] to samé,
+[01:54] ať už to jsou právě místní samozprávy,
+[01:57] jednotlivé smlouvy,
+[01:59] tak pro běžného občana,
+[02:01] nebo i někoho,
+[02:02] kdo by trošičku tomu chtěl dát víc času,
+[02:05] tak je to velice nesrozumitelné
+[02:08] a těžko dohledatelné.
+[02:10] Myslím si, že to je i z toho důvodu,
+[02:12] že prostě oni s tím počítají,
+[02:13] že ne každý se bude potom pídit.
+[02:15] Proto jí ten Tomas takhle hrozně vadí.
+[02:18] A já si myslím,
+[02:19] že když už se teď blížíme
+[02:21] a budeme mít za měsíc a kousilínek komunální volby,
+[02:25] že by se lidé měli vlastně
+[02:27] obracet i na ty kandidáty,
+[02:29] kteří chtějí tu transparentnost přinést
+[02:32] právě jiným způsobem.
+[02:33] A to takovým způsobem,
+[02:35] aby to pro ty lidi bylo srozumitelné.
+[02:37] To znamená, že je, dám příklad,
+[02:39] je třeba jednání rady města.
+[02:42] Na té radě se něco domluví.
+[02:45] Jsou tam nějaká rozhodnutí
+[02:46] o třeba velkých zakázkách
+[02:47] nebo velkých projektech.
+[02:49] A minimálně někdo,
+[02:51] kdo je na té naší národovětské straně,
+[02:54] tak by se měl naučit krátkými podcasty
+[02:56] prostě ty,
+[02:57] občany informovat o tom,
+[02:59] co vlastně to město dělá.
+[03:01] Protože ty politici
+[03:03] jsou vždycky vidět před volbami
+[03:05] a najednou se strašně zajímají o to,
+[03:08] jestli jsou rozházený odpadky
+[03:10] kolem popelnic,
+[03:13] anebo jestli jsou dvě, tři díry
+[03:14] navíc na nějaký silnici,
+[03:16] nebo u nás v Liberci si třeba
+[03:19] politické uskupení lidovců
+[03:22] a TOP 09 se rozhodlo,
+[03:24] že bude teď chodit dělat koncerty
+[03:26] k tomu,
+[03:27] na sídlišti u prostřed domů,
+[03:29] jako co to občanům přinese,
+[03:30] když ten Liberec je prostě úplně
+[03:32] vzhůru nohama.
+[03:33] Takže já si myslím,
+[03:34] že důležitost toho politika
+[03:37] je ten neustálý kontakt
+[03:39] i po jeho zvolení
+[03:41] a prostě snažit se těm lidem
+[03:43] zjednodušit ten způsob
+[03:45] přinášení informací.
+[03:46] Dneska k tomu slouží právě podcasty,
+[03:49] dá se dělat videa,
+[03:50] dá se dělat příspěvky.
+[03:52] Ono pak, když ten příspěvek
+[03:53] na těch sociálních sítích
+[03:55] je i dlouhý,
+[03:56] jak to třeba Tomas dělal,
+[03:57] že tam je spousta odkazů,
+[03:58] tak zase to je vůle daného člověka
+[04:00] si to všechno rozklikat
+[04:02] a pošťovat se v tom.
+[04:04] Kdyby se Tomas jako,
+[04:06] a já chápu, proč se drží v anonimitě,
+[04:08] ale kdyby to byl někdo,
+[04:09] kdo by se v té anonimitě držet nemusel,
+[04:11] ale byl by to třeba zastupitel radní města,
+[04:13] tak on pak může prostě v rámci toho podcastu
+[04:16] se proklikat na ty jednotlivý odkazy
+[04:19] a ty jednotlivý dokumenty
+[04:21] a vlastně naskrýnovat to
+[04:23] a těm lidem to přímo ukázat
+[04:24] a i šipečkama dneska se dá opravdu dělat
+[04:26] na těch různých aplikacech všechno možný,
+[04:28] tak to těm lidem vysvětlit.
+[04:30] Tohle je pro mě otevřená transparentní politika
+[04:33] a já jako kandidátka na primátorku města Liberce,
+[04:37] tam máme to v rámci programu
+[04:39] úplně prostě jinou komunikaci s občany,
+[04:41] která samozřejmě nekončí ve dne zvolení,
+[04:44] ale bude pokračovat a bude intenzivnější
+[04:47] celý ty čtyři roky.
+[04:50] Mláte se jako díky Bohu za nový lidi,
+[04:53] jako jste vy,
+[04:54] a další,
+[04:55] který chtějí fungovat trochu jiným stylem,
+[04:59] protože kdyby jsme tady měli jen ty starý party,
+[05:03] který fungují i díky práci Thomase Pauknera,
+[05:06] víme teda, vidíme jak,
+[05:08] tak vlastně koho potom podpořit jinýho, že?
+[05:11] Takže lidi, prosím vás, nevolte takový ty lidi,
+[05:14] kteří nám tady dělají ty černoty za zády,
+[05:17] ale podpořte, prosím vás, diváčky, diváci,
+[05:21] normální lidi, kteří jsou soudní,
+[05:23] a chtějí lidovi, jak se říká, vykazovat počet.
+[05:29] To si myslím, že je dobré, aby zaznělo,
+[05:32] aby jsme se dovtípili každý,
+[05:36] a případně přehodnotili preference, přístupy
+[05:41] a podpořili novou zdravou krev,
+[05:44] když to tak jako mám říct.
+[05:47] A přesnou a poctivou.
+[05:49] K tomu ještě dodám.
+[05:51] A další ještě věc,
+[05:52] jestli si mohu doplnit, Mariáne,
+[05:54] tak samozřejmě tím, že názvy těch politických stran,
+[05:58] ať už to je STAN, který se v Liberci,
+[06:01] je vlastně starostové pro liberecký kraj,
+[06:04] ale oni spolu kandidují, vlastně celou republiku
+[06:06] je vždycky spolu, je to jedna a ta samá politika,
+[06:09] nebo to jsou ODS, TOPK, KDU, Piráti,
+[06:12] tak oni často se s někým spojí
+[06:15] a kandidují právě v těch komunálech pod jinými názvy.
+[06:18] Takže je potřeba, jo, já jsem uváděla ten příklad,
+[06:22] ten nápadu hraní na sídlištích KDU a TOPKy,
+[06:27] oni se jmenují Liberecká devítka.
+[06:29] Když to někdo uvidí, tak vlastně neví, co to je za strany.
+[06:32] Pak jsou někteří, kteří odešli z jiných stran
+[06:36] a propojili se prostě různí lidé z různých stran
+[06:38] a vytvořili nějaký úplně nový subjekt.
+[06:40] Je potřeba se i vlastně pídit po tom,
+[06:44] kdo pod tím názvem je, jakou stranu zastupuje.
+[06:48] Buď to, jestli to je někdo, kdo byl někde jinde
+[06:51] a přešel.
+[06:52] Tohle to my máme Liberecci taky taková.
+[06:54] Já jsem dělala nedávno příspěvek,
+[06:56] který mohou diváci najít na facebookové stránce
+[07:00] pro Liberecký kraj.
+[07:02] Máme tam to opravdu hodně.
+[07:04] Ten příspěvek se jmenuje
+[07:05] Škatulata, batulata, hejbejte se.
+[07:07] A je tam přesně prostě popsáno,
+[07:09] jak úplně ty stejné tváře se snaží
+[07:11] různě jenom přejít a dostávat se pod jiné názvy
+[07:14] a chtějí prostě zůstat v těch křeslech.
+[07:17] To nejsou lidé, kteří přinesou jinou politiku.
+[07:20] V momentě, kdy už tam byli čtyři, osm, dvanáct let
+[07:23] a nic nepřinesli.
+[07:25] Takže v každém tom městě se mohou lidé opravdu podívat,
+[07:29] kdo skládá ty jednotlivý kandidátky.
+[07:32] A zapleť pávu, že v letošních komunálních volbách
+[07:36] je hodně lidí, kteří se chtějí do toho pustit
+[07:38] a přemést úplně jiný druh politiky.
+[07:40] Takže Liberec může zažít velké změny,
+[07:45] které mohou být velice pozitivní, že?
+[07:50] Kdo mě zná,
+[07:51] tak určitě ano.
+[07:55] Vemte si, že já jsem do politiky vstoupila po mnoha letech,
+[08:01] kdy jsem byla komunální političkou,
+[08:04] jenom kdy se vytvořilo politické hnutí v roce 2014,
+[08:09] abych podpořila v té době starostů ve Bratislavicích.
+[08:15] A my jsme nakonec pak vytvořili koalici.
+[08:18] Samozřejmě po čtyřech letech jsem začala vidět
+[08:20] trošku pod prsty,
+[08:21] jak ty věci chodí.
+[08:22] Vůbec se mi to nejlíbilo,
+[08:23] chtěla jsem to dělat jinak.
+[08:25] A byla jsem odejita.
+[08:27] Možná, že to tak mělo být,
+[08:29] protože pak nastal covid
+[08:30] a nevím, jak bych fungovala vůbec jako radní
+[08:32] nebo jako zastupitelka.
+[08:33] Asi bych byla nejznámější v republice politik,
+[08:36] který proti všemu tak urputně bojuje.
+[08:38] Ale tím pádem já jsem měla prostě tu možnost
+[08:41] opravdu z té pozice té občanky
+[08:43] stavět se za ta lidská práva.
+[08:45] Ukázala jsem to šest let.
+[08:46] Já se nikoho nebojím.
+[08:48] Nebojím se ani prostě říkat svůj názor.
+[08:51] A vlastně to, že otevřeně mluvím,
+[08:56] tak já se prostě nezměním jenom proto,
+[08:59] že jsem vstoupila prostě loni v listopadu do strany PRO.
+[09:02] Neměla jsem ani, jako nebyl tu můj cíl.
+[09:06] Jako já jsem, jako opravdu jsem necílila na to,
+[09:09] abych byla političkou znova.
+[09:11] Byla to i prozba Jindřicha Reichla.
+[09:14] Ale daleko víc to byla prozba lidí,
+[09:16] kteří v tom Liberci prostě tvořili
+[09:18] nějakou skupinu,
+[09:19] opravdu velmi aktivních občanů.
+[09:21] Už od dob covidu my jsme se scházeli na tajno
+[09:24] v rámci lockdownů,
+[09:26] v rámci takzvaného Pocket Sparku,
+[09:28] se to tenkrát jmenovalo,
+[09:29] pak se to přemenovalo na svobodním Liberci.
+[09:32] A z tohohle vznikly lidé,
+[09:33] kteří podporují prostě Jindřicha Reichla.
+[09:35] Staly se členy strany PRO.
+[09:38] A prostě mě loni na podzim požádali,
+[09:40] abych s nima do toho šla
+[09:42] a že mi dají tu důvěru.
+[09:44] A můžu říci, že mám kolem sebe
+[09:46] jako neskutečně pracovitý tým.
+[09:48] Po všech těch peripetích,
+[09:51] jestli dáme dohromady nějakou koalici,
+[09:53] nebo nedáme,
+[09:54] pak tam vznikla po 14 dnech,
+[09:57] tam přišly nějaké prostě podněty
+[09:59] z PRO ano, ale ve Staravové a podobně.
+[10:02] Tak ten tým se prostě za mě postavil.
+[10:04] A když přišli s návrhem,
+[10:07] tuším koncem 24. června,
+[10:11] že postavíme kandidátku pro samostatně,
+[10:15] tak jsem řekla, já nemám problém,
+[10:17] vás vést.
+[10:18] Ale nebudu všechno dělat sama.
+[10:20] Když zabojujete, dáme to dohromady,
+[10:22] tak jdeme do toho.
+[10:24] A ještě na začátku července
+[10:26] nikdo nevěřil, že to dáme.
+[10:28] Takže už pro mě toto je ohromný úspěch,
+[10:30] jak se ty lidi prostě dali dohromady.
+[10:32] A mám tým opravdu skvělých lidí.
+[10:35] A čím víc jich na té radnici bude,
+[10:37] tak tím to pro liberečany bude lepší.

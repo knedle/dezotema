@@ -1,0 +1,32 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Restart Cesko
+URL:          https://www.facebook.com/61586055215179/videos/1085108424042535
+Datum videa:  2026-08-10
+Zpracováno:   2026-08-10 20:41:30
+Jazyk:        cs
+Délka:        00:00:28
+Zhlédnutí:    15 685
+Popis:        Tímto jednoznačně ohrožují nevinnost dětí v ČR. Video s policajty ukážu zítra. Musím si dát velký pozor na to, abych úplně skryl jejich identitu, protože to, co mi přiznali je bohužel v této době může
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    3s
+Přepis:       7s
+Rychlost:     3.6x realtime
+Celkem:       11s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Tak si představte, že na Prague Prideu můžou lidé chodit klidně jenom ve spodním prádle.
+[00:04] Šel jsem se zeptat policistů a pouze dva z velkého množství, kterých jsem se ptal,
+[00:09] mi řekli, že je to na předstupek a že dostali pouze pokyny, aby to na Prague Prideu bylo v pořádku.
+[00:14] Ostatní mi říkali, že se vám obrátí na tiskovou vůvčí, že se se mnou odmítají bavit.
+[00:18] Takže tohle se tady děje.
+[00:20] Na Václaváku jsem viděl chlapa, který tam dělá prakticky striptease.
+[00:23] Tady chodíte s tím průvodem a vidíte tady lidi, co se obražou.
+[00:26] Ale to nevadí, protože je to Prague Pride.

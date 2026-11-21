@@ -1,0 +1,50 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Jindřich Rajchl
+URL:          https://www.facebook.com/100063460865205/videos/924944250673739
+Datum videa:  2026-09-04
+Zpracováno:   2026-09-05 11:12:34
+Jazyk:        cs
+Délka:        00:01:04
+Zhlédnutí:    25 516
+Popis:        Včera jsem se  na CNN Prima News vyjádřil i k nařízení, na jehož základě již není udělována dočasná ochrana ukrajinským mužům v odvodovém věku, kteří nemohou doložit splnění své vojenské povinnosti. 
+
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    0s
+Přepis:       15s
+Rychlost:     4.2x realtime
+Celkem:       15s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Jak chce na to, co způsobilo toto nové nařízení?
+[00:02] No tak je to dobře, ale je to málo.
+[00:05] My musíme rozlišovat mezi uprchlíky a mezi migranty.
+[00:07] To jsme nedělali od začátku války a je to obrovská chyba.
+[00:10] Uprchlík je člověk, který skutečně prchá z místa,
+[00:14] kde mu hrozí reálné nebezpečí na jeho životě, na jeho zdraví.
+[00:17] Migrant je člověk, který sem přichází pro to,
+[00:19] aby si zlepšil svůj životní úroveň.
+[00:21] A my jsme to měli udělat od začátku.
+[00:22] Dánsko už teď identifikovalo 14 bezpečných zón,
+[00:25] odkud nepřijímá vůbec žádné migranti z Ukrajiny.
+[00:28] A podle mou názoru Česká republika by k tomu měla přistoupit.
+[00:30] Polská strana právo a spravedlnost dokonce navrhla to,
+[00:34] že by měly být deportováni muži v odvodovém věku,
+[00:36] kteří jsou nezaměstnaní.
+[00:37] I tím bychom se měli inspirovat a Česká republika
+[00:39] by přesně tento krok měla zavést.
+[00:41] Protože ta migrace v tuto chvíli už nepředstavuje vůbec žádný přínos,
+[00:45] ale zátěž je na nás, abychom pomohli těm,
+[00:47] kteří pomoci potřebují, kteří skutečně prchají z místa
+[00:50] toho konfliktu ženy a děti, ale abychom tady nedělali
+[00:54] nějaký sociální stát pro lidi, kteří jenom zneužívají
+[00:57] toho institutu dočasné ochrany a jdou sem pro to,
+[01:01] aby si zlepšili svou životní úroveň.
+[01:03] To je naše povinnost.

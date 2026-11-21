@@ -1,0 +1,66 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1124355463324413
+Datum videa:  2026-10-25
+Zpracováno:   2026-11-01 13:45:21
+Jazyk:        cs
+Délka:        00:03:20
+Zhlédnutí:    21 551
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    5s
+Přepis:       9s
+Rychlost:     21.2x realtime
+Celkem:       15s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Vláda Spojených států posílala miliony korun české televizi během covidu.
+[00:07] Když navštívíte veřejné transparentní údaje o výdajích Spojených států
+[00:11] na adrese usaspending.gov, narazíte nazajímavé záznamy finančních transakcí
+[00:18] týkající se nejen české televize.
+[00:21] Po zadání klíčového slova Česká televize se vám objeví seznam finančních transakcí,
+[00:27] ale v seznamu uvidíte pouze člověk v tísni.
+[00:32] Už to samo o sobě je zvláštní, nicméně po rozkliknutí kterékoliv položky
+[00:37] jsou údaje ještě více znepokojivé.
+[00:40] Uvidíme, že nezisková organizace Člověk v tísni je vedená a známá pod více romény.
+[00:48] Jedním z těchto aliasů je dokonce Česká televize.
+[00:53] Pokud zadáme čerpání financí za všechny minulé fiskální roky,
+[00:57] objeví se částka, kterou tato neziskovka čerpala přímo od vlády Spojených států.
+[01:04] Celkem ve výši 30 milionů dolarů, tedy něco kolem 630 milionů českých korun.
+[01:12] S podivem se jedná výhradně o roky spojené s pandemí COVID-19.
+[01:17] Zde je možné vidět tok financí do této neziskové organizace za jednotlivé roky.
+[01:24] Zarážející je, že člověk v tísni zde figuruje pouze jako takzvaný Child Recipient.
+[01:34] Zásadní rozdíl mezi Child Recipient a Parent Recipient je následující.
+[01:39] Child Recipient, takzvaně podřazený příjemce, je příjemce navázaný na Parent Recipient
+[01:47] a dědí od něj určité vlastnosti, nastavení nebo vazby.
+[01:51] Parent Recipient je nadřazený příjemce, je tedy hlavní příjemce,
+[01:56] vedený jako takzvaně rodičovský záznam.
+[02:00] Tedy hlavním příjemcem Parent Recipient je česká televize.
+[02:06] Pokud dáme opět všechny fiskální roky pouze u české televize,
+[02:10] vidíme, že ČT čerpala 4,2 milionu dolarů,
+[02:16] tedy něco okolo 88 milionů korun,
+[02:20] a to od vlády Spojených států v době covidu.
+[02:24] Nabízí se hned několik otázek, proč?
+[02:27] Proč čerpala ČT od vlády USA 88 milionů korun
+[02:33] během největší pandemie v moderních dějinách,
+[02:36] když má být za účelem její nezávislosti
+[02:38] placená výhradně z koncesionářských poplatků?
+[02:42] Další proč?
+[02:43] Proč je nezisková organizace Člověk v tísni známá
+[02:47] a vedena v úřadech a účetnictví americké vlády
+[02:51] pod aliasem Česká televize?
+[02:54] Pokud je všude u transakcí Člověk v tísni
+[02:57] jako hlavní příjemce Parent Recipient
+[03:00] vedena Česká televize,
+[03:03] nelze se ubránit domněnce,
+[03:04] že nezisková organizace Člověk v tísni
+[03:07] zde může figurovat jako bílý kuň pro finanční toky
+[03:11] za účelem ovlivňování informací a veřejného minění?
+[03:17] Napište do komentářů, co si o tom myslíte vy?

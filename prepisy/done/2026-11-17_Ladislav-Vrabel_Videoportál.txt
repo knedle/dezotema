@@ -1,0 +1,31 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/1121394607163708
+Datum videa:  2026-11-17
+Zpracováno:   2026-11-20 14:14:01
+Jazyk:        cs
+Délka:        00:01:07
+Zhlédnutí:    37 681
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    4s
+Přepis:       1s
+Rychlost:     36.2x realtime
+Celkem:       6s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Kováří Špávek, čo ty dělal v 89. roku?
+[00:06] No zkaži, kováří Špávek, čo ty dělal v 89. roku?
+[00:14] Zaldá Špávek, pozor, čelem vzad a odchod!
+[00:19] Je to neubstav, abyši jsem ty chodil!
+[00:25] Kováří Špávek!
+[00:26] Kováří Špávek, pozor, čelem vzad a odchod!
+[00:42] Kováří Špávek, čo ty dělal v 89. roku?
+[00:50] Kováří Špávek, čo ty dělal v 89. roku?

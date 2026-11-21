@@ -1,0 +1,248 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Facebook Live
+Kanál:        Ladislav Vrabel
+URL:          https://www.facebook.com/100087923704145/videos/2599525103880888
+Datum videa:  2026-10-21
+Zpracováno:   2026-10-24 15:27:52
+Jazyk:        cs
+Délka:        00:16:39
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    17s
+Přepis:       3m 15s
+Rychlost:     5.1x realtime
+Celkem:       3m 32s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Tak vážení přátelé, dneska máme dobrou náladu, asi, mám takový pocit, je sluníčko, modrá obloha, tak to je pohoda.
+[00:09] A samozřejmě vás všechny zdravím, taky mám velkou radost, protože jsem teď otevřel Facebook a první, co na mě vyskočilo, byl plagát Dany Kopecké,
+[00:19] Pochod Prahou za svobodu slova, takže to byl první plagát, který jsem viděl, který někdo udělal a doufám, že budete dělat plagáty,
+[00:28] že se budete účastnit soutěže, protože nejenom, že vyhráte ceny, bude tam finanční odměna a bude tam zajímavá cena,
+[00:35] ale měli bychom se postavit za svobodu slova společně, protože nikdo jiný to za nás neudělá.
+[00:42] A to, čemu se chci vyjádřit, je tiskovka Jendřicha Reichla a vůbec toho slepence SPD pro trikolória svobodných,
+[00:51] která před chviličkou proběhla, kterou jsem viděl, myslím, že před chviličkou proběhla, protože teď jsem ji viděl.
+[00:56] A kde Jendřich Reichl velmi sebevědomně oznamuje, že je bojovník za svobodu slova a že prosadil návrh do trestního zákonníku,
+[01:07] aby se upravili dva trestné činy. To znamená práce pro cizí moc, která nikdy nebyla použitá proti někomu z nás.
+[01:15] A potom ten 405 paragraf, schvalování válečných zločinů a popírání genocidy, který v trestním zákonníku byl
+[01:24] a dokud jej Jendřich Reichl a jeho povůnek Vacek nevzali a nepřekroutili proti lidem na Václavském náměstí, tak si ho nikdo nevšímal.
+[01:36] Ale v roce 23 politici z PRO vzali tenhle paragraf a řekli, že ten, kdo má písmeno Z na odznáčku nebo na tričku nebo kdekoliv,
+[01:45] tak se dopouští trestného činu, schvalování válečných zločinů a popírání genocidy.
+[01:50] Oni vytvořili tenhle precedens.
+[01:54] Oni vytvořili trestný čin, že se používá proti nám, vlastencům, a hned na té demonstraci identifikovali z obrázku a z videí,
+[02:02] které si nechali posílat od demonstrantů, tři lidi.
+[02:07] Na ty potom podali trestní oznámení a žádali složky, činné v trestním řízení, aby ty lidi je náležitě trestně odstíhali a soudy, aby je odsoudili.
+[02:18] Což se samozřejmě na jejich poput stalo.
+[02:21] Takže oni nám tady vytvořili tohle divo na čarodejnice.
+[02:24] Ten bič, že se všichni bojí používat písmeno Z od té doby.
+[02:29] A nejsou to jenom těhlecky tři, co byly odsouzení.
+[02:33] Pak přicházeli další a další.
+[02:35] Jenom v našem hnutí už máme pátýho člověka teďkon, což je Katka Blahníková, která si jenom smotala trikoloru českou ve tvaru písmene Z na tričko
+[02:43] a zatkli ji těžkohoděnci s pistolemi nahoře, nebo s automatickými zbraněmi nahoře, viděli jste to všichni.
+[02:51] A pravděpodobně bude souzená.
+[02:52] Takže tohle jednoznačně padá na hlavu toho velkého bojovníka za svobodu Jindřicha Reichla.
+[02:58] Na druhou stranu samozřejmě je fajn, že SPD chystá tuto změnu.
+[03:04] Myslím si, že to je jejich povinnost, že to není něco, co bychom jim měli být strašně vděční.
+[03:08] A vzhledem k tomu, že za Jindřichem Reichlem jde tahle celá záležitost,
+[03:13] tak po něm budeme požadovat a vůbec po celém parlamentu budeme požadovat,
+[03:17] aby nejenom změnili trošku trestní zákonník, ale aby rehabilitovali všechny,
+[03:22] politicky persekované osoby.
+[03:25] A to už za vlády André Babiše v covidu, protože tam byla odsouzená spousta lidí.
+[03:31] Za vlády Petra Fialy, což způsobili právě především Reichl s Vackem,
+[03:36] protože k jim k tomu dali podklady, k orgánům činným v trestním řízení.
+[03:40] Ale nejenom oni, tak i Rakušan, který se vozil po mojí manželce,
+[03:44] prohlásil jí za bezpečnostního rožení státu.
+[03:47] A budeme chtít, co mě se týče, tak osobně samozřejmě chci, aby byla persekovaná,
+[03:51] aby byla odškodněná moje manželka, protože tam má 3 miliony teď korundluch,
+[03:56] který vzniknul naprosto výmyslem.
+[04:01] Ale samozřejmě chci, abych byl taky rehabilitovaný,
+[04:03] protože když jsem podnikal, tak jsem bojoval proti korupci od roku 2002.
+[04:11] A mně to stálo biznis. A nejenom, že mě to stálo biznis, že mě zničili biznis.
+[04:16] Měl jsem 50 zaměstnanců, kteří pro mě pracovali a x podniků, kteří dobře fungovali.
+[04:20] Ale taky mi vytvořili dluhy.
+[04:23] A když jsem potom požádal o insolvenci, tak jsem insolvenci normálně platil,
+[04:28] normálně jsem fungoval v insolvenci a potom si najednou po velkých demonstracích v roce 22
+[04:33] insolvenční zprávce a insolvenční soudce vymysleli,
+[04:37] že když tedy jsem schopný pořádat takhle velké demonstrace,
+[04:41] tak jsem schopný platit víc peněz na insolvenci.
+[04:43] A protože neplatím víc peněz na insolvenci, tak mě zrušili.
+[04:45] To je samozřejmě absolutně protiprávní.
+[04:50] Kdyby to neudělali, tak už bych dávno žádnou insolvenci dneska neměl.
+[04:54] Teď jsem v konkurzu a ani tu insolvenci splácat nemůžu.
+[04:57] Takže to chci taky, abych byl rehabilitovaný.
+[05:00] Ale potom to, co udělal ten soudce a insolvenční zprávce a soudce a policista dohromady,
+[05:06] to je politicky organizovaný zločin.
+[05:10] Oni řekli mojí manželce, dejte nám všechny peníze, co lidi naposílali na demonstrace.
+[05:14] A ona jim řekla, no to nemůžu, to jsou peníze těch lidí, ty jsou na demonstrace.
+[05:17] A insolvenční zprávce řekl, no tak vy mi je teda dlužíte teďkon ty peníze.
+[05:21] A poslal manželku k soudu.
+[05:23] Manželka šla k soudu a řekla u soudu, a vy všichni, kteří jste tam byli,
+[05:27] tak jste tam vstávali a říkali jste, to byly peníze, které jsme posílali na demonstrace.
+[05:31] To nebyly žádné peníze pro insolvenčního zprávce, to nebyly peníze pana Vrábela.
+[05:35] To prostě nemůžete udělat.
+[05:37] A soudce řekl, no tady nebudou žádné důkazy a vy, paní Vordelia,
+[05:40] vy tady dlužíte tomu insolvenčnímu zprávci teďkon milion třista tisíc
+[05:45] a teď už to dělá tři miliony.
+[05:46] Takže to samozřejmě taky musí ten režim rehabilitovat tohleto a musí to zrušit.
+[05:52] To nejde jenom, že trošičku zruší trestní zákonník a řeknou,
+[05:56] a my jsme teď bojovníci za svobodu.
+[05:58] To v žádném případě.
+[06:00] A to, že Jindřich Reichl zmínil Josefa Skálu, to je super,
+[06:03] ten dostal pět let podmínku.
+[06:05] Pana Kapala, ten zemřel, protože to neunesl psychicky.
+[06:08] A Šifrína a další, který zmínil, který byli odsouzení, to je super.
+[06:13] Ale proč nezmínil ty, za kterým může on?
+[06:19] Proč je nezmínil? To se mu nehodí.
+[06:21] Takže samozřejmě pochod Prahu 17. listopadu bude pokračovat.
+[06:25] To není tak, že teďkon změní trošičku paragraf trestním zákonníku
+[06:30] a že najednou budou zahrdiny a všichni ty lidi, který trpí do dneška,
+[06:35] který mají podmínky, který mají zničený životy,
+[06:38] že prostě se ztratí a rejchl, protože je v televizi, že bude teďkon hrdina.
+[06:42] No to v žádném případě. Takže pochod Prahu za svobodu slova pokračuje,
+[06:47] ale to, co k tomu přidáme, je naše petice, kterou jsme udělali už před rokem,
+[06:50] když přišli do vlády a budeme požadovat a trvat na tom,
+[06:54] že musí být rehabilitování, odškodnění všechny ty politicky perzekované osoby.
+[07:01] Prostě dokud nebudou, dokud se neomluví jak Babiš, tak Fiala,
+[07:05] tak znova Babiš a jeho vláda.
+[07:08] Rychl za to udávání a dokud nerehabilitují, neodškodní ty osoby,
+[07:13] tak to pořád mají krev na rukou. Neříkám krev, ok, krev trošku přeháním,
+[07:18] ale mají na rukou ty podmínky, mají na rukou ty tresty, mají na rukou ty vězení.
+[07:22] Takovej Slávek Popelka má leukémii, protože ve vězení,
+[07:27] samozřejmě tam byla zima a psychický násilí nějaký,
+[07:32] ale hlavně ho tam krmili masem, když on je vegetarián dlouhodobě.
+[07:36] A za co byl odsouzený? Jenom za to,
+[07:38] že na Rychlovo demonstraci vyzýval k sundání vlajky ukrajinský z Národního muzea
+[07:43] a potom přijel do Prahy na demonstraci a mluvil proti vládě.
+[07:46] To je všechno, co udělal. A za to byl půl roku ve vězení.
+[07:49] Za co byl odsouzený Tomáš Čermák? Na pět a půl let, který ho úplně zlomili.
+[07:56] A další a další lidi, kteří byli politicky prezekovaní.
+[08:00] Luboš Volný za to, že varoval před tím, že půjdou proti Ivermectinu.
+[08:06] To všechno musí být reabilitové.
+[08:08] Dokud prostě nebudou očkodněni tyhle lidi, tak nebude svoboda v České republice.
+[08:16] To nemůžeme tadyhle jenom nechat. Víte, co mě se týče, tak si mám velmi dobrou zkušenost.
+[08:21] To jsou stovky tisíc zádvokáty, zničený biznesy. Měl jsem pět podniků na řece Vltavě.
+[08:27] Měl jsem dvě pizzerie v Českých Budějovicích, kavárnu v Českých Budějovicích.
+[08:31] To všechno zničili. A ještě o mě píšou média, že jsem si ty podniky vymyslel
+[08:36] a žádal na ně nějaké covidové dotace, což samozřejmě není pravda.
+[08:40] A ještě na mě ušeli boudu v trestním řízení a po pěti letech mě odsoudili za podvody
+[08:45] v nějakých dotacích, což vůbec nejsou žádné podvody v dotacích, ale měly to být kompenzace za to,
+[08:53] že nám babiš zavřel podniky. Takže tohle se musí napravit.
+[08:57] Dokud se to všechno neotevře, neprobere, nevyčistí, tak prostě nemůžeme tady vůbec mluvit o tom,
+[09:03] že máme nějakou svobodu slova.
+[09:05] A to, že změní trošičku paragraf, je hezký.
+[09:09] Reichl se neomluví, on si to zdůvodní.
+[09:11] Podívejte, včera ve zprávách jsem vám říkal, v souvislosti s Donaldem Trumpem,
+[09:15] jak začal mluvit o tom, že Rusko se chová v Ukrajině v pohodě,
+[09:19] že otáčí kabát naprosto brutálním způsobem.
+[09:22] A říkal jsem, že některý politici pláčou do polštáře, ty, který podporují Ukrajinu,
+[09:26] protože neví, co mají dělat, ale že takový politici, jako je Reichl,
+[09:29] takový bezbrzdějáci, jako je Reichl, tyhle psychopati, který nemají žádný svědomí,
+[09:34] tak otočí kabát absolutně a že budete koukat, jakým způsobem budou otáčet kabát.
+[09:39] To je to, co jsem vám říkal včera.
+[09:41] A nejednou Reichl, který tady vytvořil všechny ty zatčený za písmeno Z,
+[09:46] nejednou je v televizi největší bojovník za svobodu slova.
+[09:49] Chápete? Takhle oni to dělají.
+[09:51] Ale to nestačí. To, že Reichl je psychopat a že vždycky bude otáčet kabát
+[09:56] a že prostě se mu nedá věřit mnoho mezi očima, to je pravda.
+[10:00] Prostě s kým se těžko dá něco udělat, on bude vždycky se snažit být v politice vysoko,
+[10:04] protože to je ambiciozní člověk.
+[10:06] A protože je prodejnej, tak se vždycky prodá tak, že někde úspěšnej v politice bude.
+[10:11] Přejme mu to, jinak je úspěšnej v politice politika stejně tak,
+[10:14] jako taky místo jenom pro lumpy. To už jsme asi pochopili.
+[10:19] Ale nemůžeme nechat to, aby ty lidi, který zničil,
+[10:23] aby prostě byli jenom tak dál v podmínkách,
+[10:26] jo, Tomáš Hrdlička má teď sice nepravomocně,
+[10:30] protože se bude soudit dál, ale má podmínku
+[10:32] a musí docházet na nějaké psychologické školení, jak se má chovat.
+[10:36] A má rok a půl podmínku, nebo dva roky podmínku na rok a půl.
+[10:40] Katku Blahníkovou to čeká. Robert Kutý z toho zrovna teď vyšel.
+[10:43] Jeho brácha, ten se z toho zase tak dobře neotrkal.
+[10:46] Tomu skončila podmínka taky nedávno. Jakub Jašek, no tak ten je případ sám pro sebe,
+[10:51] ale taky mu policie jezdila do práce, vyhazovali ho z práce,
+[10:54] posílali ho na nějaké psychologické testy, museli jsme mu schánět právníka,
+[10:58] peníze na právníka stádat se mu. No rozumíte, to není jednoduché.
+[11:02] To nejde smáznout tím, že vystoupí na tiskový konferenci a řeknou,
+[11:05] my jsme teď trošku změnili trestní zákon. Ne, oni se musí vrátit do minulosti
+[11:09] a ty škory, který napáchali, musí prostě, musí se za ně omluvit
+[11:15] a musí těm lidem zaplatit, musí zrušit ty rozsudky.
+[11:19] To všechno musí udělat prostě tenhle ten stát.
+[11:22] To nejde tak, že budou říkat, ne, ale to víte, to my nemáme pravomoc,
+[11:26] to jsou nezávislí soudy. Ne v žádném případě, to jsou politický případy
+[11:30] a ty se musí vyčistit. Takže přátelé, jsem rád, že jste začali dělat plagáty
+[11:35] na 17. listopadu. 17. listopadu je den boje za svobodu, proto jdeme na pochod,
+[11:40] bereme sebou ze Srbska profesionálního bubeňka, takže si připravte všichni vařečky,
+[11:46] naběračky, paličky na buben, takový jsou dobrý, takový ty vodbary,
+[11:52] které se do toho dávají barvy, takový ty plastový kyblíky,
+[11:56] ale oni můžou prasknout, takže dobrý jsou plechový kyblíky, rendlíky, cokoliv.
+[12:02] Prostě musíme se postavit za svobodu slova v České republice,
+[12:05] protože dneska jsme to my, protože my jsme ve předu, my mluvíme,
+[12:09] my organizujeme demonstrace, my se snažíme tlačit svobodu slova
+[12:13] a říkat vždycky to, co si myslíme, tak, jak si to myslíme,
+[12:16] i když se za to trestá, takže musíte se vy postavit za nás,
+[12:20] protože jinak to budete zítra.
+[12:22] A vy? Jo, to je prostě jasný. Musíme držet pohromadě v tomhle stovu.
+[12:26] Takže, přátelé, dělejte plagáty na pochod za svobodu slova,
+[12:30] ale taky na pochod za očištění a rehabilitaci politicky persekovaných osob.
+[12:36] A to za všech třech vlád, protože tato vláda už má taky pár zářezů na pažbě.
+[12:42] OK, přátelé, mějte se krásně, mám vás rád, jsem rád, že jste tady.
+[12:47] Dneska jsem první den v Běléhradu, mám s to obrovskou radost,
+[12:50] po sedmi měsících, kdy jsem si čistil.
+[12:52] Já mám hlavu v horách, tak jsem ve městě a chystám se asi do České republiky.
+[12:57] Prostě je potřeba bojovat. Prostě tenhle boj musíme vyhrát.
+[13:01] Musíme, i jestli bude válka, i jestli nebude válka, musíme bojovat dál,
+[13:05] protože i jestli bude válka, tak někdo z nás válku přežije, válka skončí
+[13:10] a musíme si vybudovat potom nový stát, který bude fungovat na nějakých slušných pravidlech.
+[13:16] Nesmíme se prostě nechat tlačet rokouta.
+[13:18] A možná vyhrajeme. Možná, říkal jsem vám,
+[13:22] teď budou tři týdny minimálně dovolep Mitterms do kongresu ve Spojených státech.
+[13:30] To je jasný, že teď bude obrovská úleva, protože Donald Trump potřebuje,
+[13:34] aby lidi ho měli rádi, aby mu dali hlas, aby republikánům dali hlas,
+[13:39] takže bude dělat cokoliv pro to, aby říkal to, co chtějí lidi slyšet.
+[13:43] A samozřejmě se to bude reflektovat i ve Evropě. Minimálně rechle je toho důkazem,
+[13:47] že najednou se musí svobodně mluvit, když je to on, který tady vytvářel stát.
+[13:52] Trach roky a díky kterýmu je hromada lidí odsouzených.
+[13:56] Rechle sice i chudavače samozřejmě ponese vždycky, ale on je teď hvězda,
+[14:00] protože v televizi ho vidí miliony lidí. My tady víme nás pár desítek tisíc lidí
+[14:05] nebo pár set lidí, my víme, kdo je rechle. A vždycky to budeme vidět.
+[14:09] A dokud prostě neočkodní ty lidi, dokud prostě to nenapraví,
+[14:12] dokud se neomluví těm lidem, tak ho budeme tepat a budeme prostě jeho černý svědomí.
+[14:19] Až se omluví, až napraví ty škody ta vláda.
+[14:22] Tak pak ho necháme na pokoji. Ať si je zkorumpovaným politikem,
+[14:25] ať si tam dělá tu svoji politiku a hrabe si prachy, to mě je úplně fuk.
+[14:29] Ale dokud prostě nenapraví to, co pokazil a to, že rozbil vlasteneckou scénu v roce 23,
+[14:35] to už nikdy nenapraví. To už nikdy nenapraví.
+[14:37] Prostě Tomio Okamura a Rechla Majerová to jsou lidi, který ničí dlouhodobě vlasteneckou scénu.
+[14:45] Vždycky tvrdí, že jsou vlastenci, zobchodují to pro sebe, aby se dostali do funkcí
+[14:49] a zničí tu vlasteneckou scénu, aby se nikdy z Evropské unie nedostala.
+[14:53] Ale to nevadí, proti tomu budeme bojovat taky.
+[14:55] My si budeme pamatovat, kdo je Rechla, budeme to vědět.
+[14:58] Ale musíme na ně tlačit, aby očkodnili všechny politicky prezekované osoby.
+[15:02] Takže těším se na další plagáty. Dneska nebo zítra vám oznámíme, jaký budou ceny.
+[15:09] Musíme to ještě pořádně domyslet, protože tam jsou různý návrhy,
+[15:13] aby to byly nějaké medaile, aby to byly nějaké zarámované diplomy,
+[15:16] aby to byly nějaké zarámované plagáty s podpisama.
+[15:20] Prostě nějaká cena, kterou si budete pamatovat celý život,
+[15:23] kterou si povisíte na zeď a vždycky na ní budete koukat a vzpomínat.
+[15:27] A plus tam bude nějaká tisícovka, pár tisícovek, nějaká finanční cena,
+[15:32] která bude k tomu. Takže to je to, jak chceme motivovat lidi,
+[15:37] aby se do toho pustili, protože tohle musí být společná věc.
+[15:40] Takže dělejte plagáty 17. listopadu. V jednu hodinu se potkáme
+[15:45] na Malostranském náměstí.
+[15:46] A půjdeme pochod přes celou Prahu, přes centrum, dojdeme na Klárov,
+[15:51] tam zapálíme svíčky bojovníkům proti nacizmu a fašismu,
+[15:56] protože to je taky náš boj proti nacizmu a fašismu.
+[15:59] A budeme požadovat, aby byla svoboda slova a aby ty lidi,
+[16:02] který bojovali za svobodu slova, především ty lidi, který bojovali
+[16:06] za svobodu slova, který organizovali ty demonstrace, který dělali ty demonstrace,
+[16:11] který vystupovali na těch demonstracích, který mluvili na sociálních sítích
+[16:15] a říkali to, co je pravda, aby byli odškodněni.
+[16:18] To je cíl tohleto, boji za svobodu slova.
+[16:23] A aby už nikdo další nebyl odsouzený.
+[16:26] Musí se omluvit a musí stýbit, že už nikdo další nebude odsouzený.
+[16:30] Tak všecko, přátelé, mějte krásný den, těším se na vás večer v 9 hodin
+[16:35] tu zprávu s komentářem.

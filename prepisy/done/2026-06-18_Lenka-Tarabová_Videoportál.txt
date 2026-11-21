@@ -1,0 +1,236 @@
+================================================================================
+METADATA
+================================================================================
+Titul:        Videoportál
+Kanál:        Lenka Tarabová
+URL:          https://m.facebook.com/watch/?v=918048584647977&_rdr
+Datum videa:  2026-06-18
+Zpracováno:   2026-06-20 16:01:23
+Jazyk:        cs
+Délka:        00:16:54
+Zhlédnutí:    1 765
+Popis:        Sněmovní seminář Příliš drahý vítr 
+
+Prezentace Jakub Svoboda 👍💯
+
+Kdyby nebylo Jakuba, hrozila by likvidace oblasti Ralska. Pravděpodobně by se ani mnozí nedozvěděli, že hrozí akcelerační zóny. Jakub 
+================================================================================
+VÝKON
+================================================================================
+Zařízení:     gpu (CUDA)
+Stahování:    11s
+Přepis:       2m 33s
+Rychlost:     6.6x realtime
+Celkem:       2m 44s
+================================================================================
+PŘEPIS
+================================================================================
+
+[00:00] Dalším přednášejícím je Jakub Svoboda.
+[00:03] Co o něm napsala umělá inteligence?
+[00:05] Jakub Svoboda je občanský aktivista a místní iniciator z oblasti Ralska,
+[00:12] který se dlouhodobě věnuje ochraně krajiny a veřejné debatě o rozvoji regionu.
+[00:16] Vystupuje zejména v otázkách dopadu velkých infrastrukturních a energetických projektů
+[00:21] na místní prostředí a kvalitu života obyvatel.
+[00:24] Je známý svojí angažovaností v diskuzích o budoucnosti Ralska
+[00:27] a snahou prosazovat zájmy místních komunit.
+[00:31] Jakub Svoboda.
+[00:44] Dobrý den všem.
+[00:47] Když bych se rád představil, nebo už mi paní Tarabová představila,
+[00:52] jsem obyčejný člověk, který žije v regionu Ralska
+[00:55] a kterému záleží na krajině, ve které žije.
+[00:59] Pracuji tam, vychovávám tam své děti
+[01:02] a právě proto jsem se rozhodl věnovat svůj čas.
+[01:06] Studiuji dokumentací o problematice větných elektráren.
+[01:10] Zúčastnil jsem se několika debat s občany samozprávami a státní zprávou.
+[01:18] Nicméně nikdy jsme nedostali odpověď žádných odborníků.
+[01:23] Za posledních několik měsíců jsem se zúčastnil i jiných debat než mimo oblast Ralska
+[01:29] a v těchto diskuzích se opakovaly čtyři základní okruhy otázek.
+[01:35] Prvním tématem byl vliv na krajinu a charakter území.
+[01:39] Lidé se oprávněně ptají, jak rozsáhlé energetické stavby změní vzhled krajiny,
+[01:45] která vznikla po generace a která je součástí jejich domova.
+[01:49] Druhým tématem byla ochrana a biodiverzita.
+[01:52] A třetím tématem byly dopady na kvalitu a vliv života obyvatel.
+[02:01] Velmi dobře se ukázalo například při veřejné debatě v Mimoni,
+[02:13] která, dá se říct, byla asi největší debatou v České republice.
+[02:17] Na všechny debaty byly přizvání základních odborníků.
+[02:19] Hlavně investoři, hlavně investor, který v Hrausku chtěl stavit větrné elektrárny.
+[02:24] Největší projekt vůbec České republiky, 16 až 25 větrných elektráren.
+[02:30] A nebyl schopen tento investor, ať se jedná o největší společnost energetickou v České republice,
+[02:38] nebyl schopen si předvést svůj záměr.
+[02:42] Pokud já bych pracoval pro ČES, předvádím projekt za 4 miliardy,
+[02:47] tak se budu snažit těm lidem předvést.
+[02:50] Na zdraví, možnosti dopadu na zdraví, dopady na krajinu.
+[02:53] A budu se snažit nějakým způsobem těm lidem vysvětlit, co z toho budou mít
+[02:58] a co to může pro ně znamenat.
+[03:00] Nicméně ani na jednu debatu a ani na žádné více méně debati, které jsem byl,
+[03:06] bylo jich sedm, tak jsem se s investorem nikdy nepotkal.
+[03:10] A právě zde vzniká problém, který považuji za jeden z nejzávaznějších
+[03:16] a to je ta netransparentnost, která probíhá na úrovni i tohoto státu.
+[03:21] Kdo kdy věděl o akceleračních oblastech?
+[03:24] Řekněte kdo, kdo jste věděl v srpnu, v září roku 2025 o akceleračních oblastech?
+[03:32] Nikdo.
+[03:34] Nikdo do října 2025 nevěděl o akceleračních oblastech
+[03:39] a já jeden jako z prvních jsem začal na tuto problematiku vůbec upozorňovat
+[03:44] a ptát se starostů, ptát se hejtmana konkrétně,
+[03:48] protože oblast Stralsko spadá pod
+[03:52] Liberecký kraj, začal jsem se ptát na kraji, jestli o tom vlastně vůbec něco vědí
+[03:59] a každý dělal, že vlastně nic neví, ale ve finále na jednu stranu víme,
+[04:03] že začali celou dobu vyčkávat, co si bude dít a celou vlastně tu věc přinesli na stát.
+[04:08] Kdyby si kraje vymezili svoje akcelerační oblasti,
+[04:11] byť po dohodě soubčany, nemusel to určovat stát.
+[04:15] Budeme se tu bavit malou chvíli o nějakých zkratkách,
+[04:20] jedná se o akcelerační oblasti AO, VTE, větrné elektroniky,
+[04:24] elektrárny FV, fotovoltaické elektrárny OZE,
+[04:28] obnovitelné zdroje energie, biodiversita, rozmanitost druhů,
+[04:34] SEA, posluzí plány a koncepce, EIA, konkrétní stavby a záměry,
+[04:39] a biokoridory, které umožňují volný pohyb druhů mezi lokalitami.
+[04:47] Energetická transformace a role OZE představují důležitou součást
+[04:52] evropské energetické politiky.
+[04:56] Takže nikde se neuvádí uhlíková stopa výroby fotovoltaických panelů,
+[05:03] nikde se o ní nemluví, nemluví se o uhlíkové stopě při výrobě fotovoltaických systémů,
+[05:11] ať jsou to právě lopatky, ať je to vůbec celková uhlíková stopa výroby celých tých tubusů,
+[05:20] nebo naopak ještě výkopové práce, zemní práce,
+[05:24] které vlastně přináší tuhle tu problematiku sebou.
+[05:27] Jsou to příjezdové cesty, je to vlastně jakoby zásobování materiálem na dané stavby a lokality.
+[05:35] Pokud se mají silnice rozšiřovat až na šíři 6,5 metrů, tak jsou to jistě zásahy do přírody.
+[05:43] Jakožto člověk, který má rád přírodu, velmi rád navštěvuju severské země.
+[05:50] A právě severské země jsou vlastně vůbec jedni největší dovozci, výrobci,
+[05:55] elektrické energie z větru.
+[05:59] Zde můžete vidět několik největších projektů v Norsku.
+[06:05] A toto zrovna třeba, když si podíváte tady na ten snímek,
+[06:09] najdete tam jednu důležitou věc.
+[06:12] Jsou to místa, kde nebydlí lidé.
+[06:15] A rozloha Norska je 6,5x větší, než je rozloha České republiky.
+[06:19] Proto si můžou dovolit umisťovat vlastně tyhle větrné elektrárny,
+[06:24] přímo na pobřeží, do moře,
+[06:28] ale neumisťovuje nikde mezi obydlené oblasti.
+[06:33] Ať se dostanete jí mezi Horská jezera, na úpatí jedné hory,
+[06:38] nepotkáte člověka, pouze jezera, kde jsou ryby a tři větrné elektrárny.
+[06:43] Projekty vlastně jakoby těchto rozsahů jako takové,
+[06:52] mají to jako součást národního cíle
+[06:55] a díky tomu svým obnovitelným zdrojům snížily emise skleninkových plynů.
+[07:04] To je v pořádku, ale furt se bavíme o počtu obyvatel v naší republice a rozloze
+[07:12] a bavíme se o počtu obyvatel a rozloze Norska.
+[07:16] Dalším, co vůbec je nejdůležitější,
+[07:25] na co se opomíjí vlastně v České republice,
+[07:28] u nás se řeší před shodnocením SEA.
+[07:31] V Norsku, v Dánsku, ve Švédsku se řeší EIA.
+[07:34] SEA řeší konkrétní projekt pouze technologicky,
+[07:41] neřeší dosáhlé dopady,
+[07:44] takže je důležité přejít vlastně k posuzování komplexně
+[07:50] a to v rámci EIA, nikoliv SEA.
+[07:52] A stejně tak byly posuzovány právě i ty akcelerační oblasti.
+[07:56] Toto je jedna největší,
+[08:00] vlastně jakoby vůbec ten největší projekt na světě.
+[08:03] Vidíte, že je umístěn v moři.
+[08:05] Ano, v moři fouká, v moře má větrný potenciál
+[08:09] a proto Dánsko umistňuje větrné farmy
+[08:12] a větrné elektrárny na moře.
+[08:14] Jak už bylo zmíněno, tyto severské země mají moře.
+[08:21] Dánsko je jako největší výrobce elektrické energie z větrů
+[08:25] a zároveň vlastně i v evropském měřítku.
+[08:29] Jejich větrné farmy se nachází především mimo pevninu.
+[08:33] A jelikož jezdím do zemí Norsko-Švédsko,
+[08:36] jak jsem zmínil, jezdím přes Dánsko,
+[08:39] tak v Dánsku vlastně jakoby můžete vidět
+[08:43] maximální velikost větrných elektrárn 70 až 110 metrů.
+[08:47] Nikde nenajdete 250 metrové elektrárny.
+[08:50] Zde vlastně jsou sepsané jakoby největší parky
+[08:55] s vyvedeným výkonem v Dánsku.
+[08:58] U těchto zemí právě má vlastně jakoby
+[09:05] postupný stavby svá pravidla a nejde jej obcházet.
+[09:08] To znamená, musí být vždy v souhledu s územním plánem.
+[09:11] EIA, jak jsem zmínil, nikoliv se EIA posuzuje,
+[09:15] tak jak bude stavěno, tak jak bude vlastně řešeno
+[09:18] veškeré zabezpečení a vliv na přírodu,
+[09:21] na kumulaci vlivů a vlastně jakoby obdobitelných zdrojů.
+[09:25] Vliv na veřejnost, krajinný rás, hluk.
+[09:28] A zároveň v těchto zemích rozhoduje veřejná participace.
+[09:32] Takže to je velmi důležité.
+[09:35] Vlastně pro tyto země, že jednak ty lidé si můžou rozhodnout,
+[09:39] zda se i na tom projektu povdílí, ať ho nemají u baráku.
+[09:43] Můžou ho mít na moři a můžou zároveň jim vlastně tyto projekty přinášet peníze.
+[09:48] Tyto státy, na rozdíl od České republiky,
+[09:54] kladou velký důraz na posuzování kumulativních vlivů,
+[09:58] zapojení veřejnosti a ta veřejnost je hlavně posuzována,
+[10:03] teda veřejnost je zapojena do posuzování
+[10:07] a neposuzujeme.
+[10:08] Protože se je jen samotná elektrárna,
+[10:10] ale dlouhodobé dopady a kumulace vlivů.
+[10:14] Nikde, nikde na Pevnině nenajdete obrovské větrné parky.
+[10:19] Vždy se třeba v Gánsku jedná o pár kusů,
+[10:23] 70 až 40 metrů vysokých elektráren.
+[10:26] Vždy je to většinou, pokud to není nějaká firma,
+[10:30] tak se jedná vlastně o vzdálenost minimálně dvou až tři kilometrů vůbec od toho obydlí.
+[10:37] Ale většinou, když je to obydlí, jedná se o nějaký statek.
+[10:40] Takže dlouhodobě, že by tam ty lidi žili, to nikde není viditelné.
+[10:47] Vzhledem na řízení Evropského parlamentu a rady Evropské unie
+[10:56] se Česká republika zavázala jako členský stát k zlepšení přírodních biotopů.
+[11:01] Ovšem výstavbu fotovoltaických elektráren a větrných elektráren ty biotopy nezlepšíme.
+[11:07] Jestli si vůbec někdo ve vládě uvědomuje, co je to biotop, mně tak přijde asi, že ne.
+[11:13] Ralsko. Je to oblast, evropský významná lokalita.
+[11:21] A směrnice R3 jasně uvádí, že se nesmí v evropských významných lokalitách stavět tyto projekty.
+[11:29] Ale zároveň to nejde jenom o oblast Ralska, evropských významných lokalit.
+[11:35] Můžeme mít v České republice několik. A když nemáme evropské významné lokality,
+[11:40] máme spoustu chráněných krajinných oblastí, máme spoustu přírodních parků
+[11:45] a zároveň máme několik oblastí s akumulací pitné vody. Jsou to oblasti Chopav.
+[11:52] Samozřejmě vedle jako takových dopadů na zdraví a hluk, teda na zdraví a psychiku lidí,
+[12:02] má dopad na prvozvětrných elektráren, na netopíry, ptáky a zvěř.
+[12:08] Když se podíváte tady na tu fotku,
+[12:11] toto je původní plán plánované výstavby fotovoltaické elektrárny na bývalém letišti v Ralsku.
+[12:19] Jeden z projektů, který si plánuje Liberecký kraj, v takovéto fázi zastavět zhruba 100 hektarů plochy
+[12:31] vlastně přírodního biorekoridoru, jsou tam vzácné traviny mezi těma bytovýma plochama
+[12:38] a takto oni chtějí vlastně zdegradovat celý ten biorekoridor.
+[12:42] Protože je to tak, jak tam je.
+[12:44] Jestli tohle někomu připadá normální, tak mě ne.
+[12:47] Směrní CD3 samozřejmě zadává stavět jakoby v Brownfieldech,
+[12:53] jenže Brownfield si právě tohle 100 letiště vůbec nezaslouží takový název, aby to vlastně vůbec neslo.
+[13:00] A co je vlastně Brownfield? Kdo to určil a kdo to schválil?
+[13:04] Schválil to kraj nebo stát? Určitě to neschválili lidi, že by to byl Brownfield.
+[13:09] To znamená...
+[13:11] V oblasti právě jakoby i tak, jako jsou soustavy Natura 2000, chráněné krajiné oblasti,
+[13:17] která se přímo nachází na hranici vlastně tady té letištní plochy,
+[13:21] tak ta by mohla být právě i touto výstavbou ohrožena.
+[13:25] Což se může stát na dalších místech.
+[13:29] Podívejme se na fotovoltaickou elektrárnu u Vepřeku, vlastně jakoby Mělník.
+[13:35] Tam je obrovská fotovoltaická elektrárna a stojí na orné půdě.
+[13:39] Jak je to možné?
+[13:40] Směrní CD3 neudává,
+[13:41] Směrní CD3 neudává,
+[13:42] že máme stavět fotovoltaické elektrárny na orné půdě a travnatých porostech.
+[13:50] Toto je reálné foto z výstavby právě momentálně asi největšího projektu vůbec v České republice.
+[13:58] Jedná se o obec kuří vody a tato elektrárna se momentálně dostavuje.
+[14:04] Postupně sledujeme, jak roste.
+[14:06] A tímto způsobem vlastně, když bych to měl popsat,
+[14:12] úplně zjednodušeně,
+[14:15] tak na několik dní najeli buldozery
+[14:18] a celý vlastně jakoby přírodní bio toho poschrnuli buldozerama
+[14:22] a začali tam stavět tyto rozsáhlé solární parky.
+[14:26] Důležité je vůbec, co vlastně jakoby musíme respektovat,
+[14:35] jsou právě oblasti chopav.
+[14:37] Pitná voda musí být vždy nadřezena veškerým zdrojům
+[14:41] a je jediným vlastně zdrojem, bez kterého se člověk neobejde.
+[14:45] Vliv na lokální klima.
+[14:50] Rozsáhlé fotovoltaické parky budou mít a mají vliv na lokální klima.
+[14:56] Dá se to sledovat úplně jednoduše odklonem vlastně jakoby srážek
+[15:01] nebo deštových srážek, kdy třeba například v Libereckém kraji
+[15:06] jsme za posledních 10 let o 150 mm méně,
+[15:10] než tomu bylo v předchozích letech.
+[15:12] A je to jenom tím vlastně, že kolem vlastně
+[15:17] kuřivot a oblasti Ralsko se vyskytují právě rozsáhlé fotovoltaické systémy.
+[15:25] Nechci popírat vůbec vlastně jakoby to, že nepotřebujeme energetický mix,
+[15:34] ale ne tímto způsobem a ne vlastně jakoby kumulovat ho v jedné oblasti
+[15:40] a zároveň neřešit k tomu vlastně budoucí technologie,
+[15:46] protože samozřejmě s rozsáhlou výstavbou budou potřeba i bateriové úložiště
+[15:50] a proto se jedná o další zábory půdy.
+[15:53] Chci říct jednu věc. Ve skutečnosti je potřeba požadovat
+[16:02] celoroční biologické průzkumy, vyhodnocovat kumulativní vlivy,
+[16:06] požadovat hydrogeologické posudky a posuzovat vlivy na lokální klimat.
+[16:11] A to jak u větrných elektráren, tak u fotovoltaických elektráren.
+[16:16] A na zároveň.
+[16:19] Na závěr. Vlastně ochrana krajiny nesmí být vnímána jako překážka rozvoje.
+[16:28] To znamená, musíme nějakým způsobem, ať je to veřejný zájem
+[16:34] a výroba elektrické energie je důležitá, ale právo občanů na informace
+[16:39] a transparentnost tohoto státu, krajů, obcí a jejich vedení je hrozně důležité.
+[16:47] Nesmí to probíhat za našimi zády. Děkuji za pozornost.
