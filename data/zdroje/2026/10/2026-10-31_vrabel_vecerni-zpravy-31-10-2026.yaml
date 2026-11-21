@@ -10,9 +10,6 @@ zdroj:
   poznamka: 59 min, zprávy čte Zuzka; krátké ukázky rozhovoru s Fritzem a videa s Braunem; Vrabel v úvodu
     omylem uvádí datum 30. 10.
   osoby:
-  - osoba: petr-hajek
-    vztah: negativni
-    kontext: „Propagandista“, „politruk“
   - osoba: grzegorz-braun
     vztah: pozitivni
     kontext: Vede demonstraci před polským ÚS
@@ -104,6 +101,10 @@ vyroky:
   citace:
   - text: To, co je potřeba pro globalisty, je udržet v napětí společnost, poštvanou proti sobě, aby se
       lidi nemohli sjednotit proti válce nebo proti tomu, že máme draho.
+  osoby:
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: „Propagandista“, „politruk“
   podtema: Politická kultura
 - id: vrabel-2026-10-31-06
   typ: predikce

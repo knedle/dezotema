@@ -21,10 +21,6 @@ zdroj:
     vztah: neutralni
     kontext: Nový šéf americké rozvědky — Vrabel ironicky „kolega realitní makléř, odborník na pravém
       místě"
-  - osoba: miroslav-sladek
-    vztah: pozitivni
-    kontext: Vrabel s ním dělal kampaň pod podmínkou vynechání „romské otázky"; Sládek souhlasil — uveden
-      jako kontrast k protiromské rétorice SPD
   prehled:
   - tema: Hlavní bloky
     text: vztahy s Ruskem (fórum Petrohrad), ukrajinské útoky na civilní cíle jako terorismus, rozsudek
@@ -129,6 +125,11 @@ vyroky:
     místo aby se rozdělovali. Srovnej s Rajchlovým hodnocením (viz [Rozsudek nad SPD = posvěcení cenzury](#rozsudek-nad-spd-za-předvolební-plakát--posvěcení-cenzury-rajchl-3-6-2026)).'
   citace:
   - text: To šíření nenávistí musí se týkat někoho, kdo žije v naší republice.
+  osoby:
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: Vrabel s ním dělal kampaň pod podmínkou vynechání „romské otázky"; Sládek souhlasil — uveden
+      jako kontrast k protiromské rétorice SPD
   podtema: Trestání politického projevu
 - id: vrabel-2026-06-03-07
   typ: tvrzeni

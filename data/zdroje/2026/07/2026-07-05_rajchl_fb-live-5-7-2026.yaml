@@ -18,11 +18,6 @@ zdroj:
     (7) NCOZ studie o organizovaném zločinu Ukrajinců — zopakování z 5. 5., doplněn jako zdroj — [migrace.md](migrace.md).
     (8) Ukrajina po válce bude „ukřivděná", analogie s Výmarskou republikou — [valka-nato-rusko.md](valka-nato-rusko.md).
     Bez predikcí (mimo zmíněnou tezi) a stoch. teroru. Vysíláno z Chorvatska (dovolená)'
-  osoby:
-  - osoba: filip-turek
-    vztah: pozitivni
-    kontext: Označení „hnědý Turek" (Jan Jakob) hodnotí jako nejtěžší možnou urážku, horší než jeho vlastní
-      glosa o „mimoni"
 vyroky:
 - id: rajchl-2026-07-05-01
   typ: tvrzeni
@@ -50,6 +45,10 @@ vyroky:
     vztah: rozporuplny
     kontext: Dříve kritizován za neochotu pozvat Rajchla k obhajobě, dnes hájen proti lynči vlastní liberální
       scény za sdílení fotky s Turkem
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: Označení „hnědý Turek" (Jan Jakob) hodnotí jako nejtěžší možnou urážku, horší než jeho vlastní
+      glosa o „mimoni"
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-07-05-02
   typ: tvrzeni

@@ -71,11 +71,6 @@ vyroky:
     nesdělil SPZ vrtulníku — údajně utajovaná informace, která by Rusku pomohla vrtulník identifikovat
     a zacílit. Rajchl namítá, že to je nevěrohodná výmluva zakrývající skutečný důvod mlčení, protože
     Ondráček dříve ve stejném médiu bez obav zveřejnil polohu české drone-výrobní firmy i tvář její šéfky.'
-  osoby:
-  - osoba: martin-ondracek
-    vztah: negativni
-    kontext: Zakladatel sbírky Dárek pro Putina — výrok o radosti z „mrtvejch rusáků" označen za projev
-      psychopatie; Rajchl zvažuje trestní oznámení
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-08-16-04
   typ: tvrzeni
@@ -93,6 +88,11 @@ vyroky:
     výrok o radosti z mrtvých Rusů zůstává bez postihu. Zvažuje na něj podat trestní oznámení, ale očekává,
     že se „nestane vůbec nic", protože justice v rusko-ukrajinském konfliktu jednostranně straní jen jedné
     straně.'
+  osoby:
+  - osoba: martin-ondracek
+    vztah: negativni
+    kontext: Zakladatel sbírky Dárek pro Putina — výrok o radosti z „mrtvejch rusáků" označen za projev
+      psychopatie; Rajchl zvažuje trestní oznámení
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-08-16-05
   typ: tvrzeni

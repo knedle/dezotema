@@ -10,15 +10,9 @@ zdroj:
   poznamka: 1 h 18 min, zprávy čte Zuzka; hostka Vladimíra Vítová komentuje pochod spolku Svatopluk na
     ČT.
   osoby:
-  - osoba: karel-havlicek
-    vztah: negativni
-    kontext: Kontrakt na americký plyn jako příprava na „megapodvod“
   - osoba: petra-redova
     vztah: neutralni
     kontext: Stála vedle něj na pochodu na ČT 2022, nyní na pochodu Svatopluku
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: „Zlobbovaný“ zbrojaři
   - osoba: spd
     vztah: negativni
     kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
@@ -263,6 +257,9 @@ vyroky:
   - text: Takže vzdálená Amerika bude jenom papírově nějaký mezičlánek, který nás bude kasírovat za obrovský
       peníze.
   osoby:
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: Kontrakt na americký plyn jako příprava na „megapodvod“
   - osoba: kyrylo-budanov
     vztah: negativni
     kontext: Pokuta za ruštinu jako ukázka „nacismu na Ukrajině“
@@ -298,6 +295,9 @@ vyroky:
   - osoba: michal-strnad
     vztah: negativni
     kontext: Zbrojařská lobby, chodí za Okamurou do Sněmovny
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Zlobbovaný“ zbrojaři
   - osoba: andrij-sybiha
     vztah: negativni
     kontext: Projev „v heslech“; podmínky pro Abú Zabí neslučitelné s mírem

@@ -15,15 +15,6 @@ zdroj:
   - osoba: roman-maca
     vztah: negativni
     kontext: Šíří „lež“, že krakovský střelec byl pravicový radikál
-  - osoba: filip-turek
-    vztah: pozitivni
-    kontext: Souhlasí s ním, že ČT zprivatizovat
-  - osoba: vaclav-moravec
-    vztah: negativni
-    kontext: „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT
-  - osoba: david-matasek
-    vztah: negativni
-    kontext: Vulgární reakce v den atentátu na Fica
   - osoba: natalie-vachatova
     vztah: pozitivni
     kontext: „Nesmírně inteligentní, schopná“; oběť lynče (Havel, Bartošek)
@@ -130,6 +121,9 @@ vyroky:
   citace:
   - text: Já nehodlám jednat pod tlakem, já hodlám co nejdříve zrušit koncesionářské poplatky.
   osoby:
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: Souhlasí s ním, že ČT zprivatizovat
   - osoba: hamplova
     vztah: pozitivni
     kontext: Společně se rozhodli nejít na demonstraci Svatopluku
@@ -160,6 +154,12 @@ vyroky:
   - osoba: jan-farsky
     vztah: negativni
     kontext: „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT
+  - osoba: vaclav-moravec
+    vztah: negativni
+    kontext: „Svině“, „svoloč“, „vlastizrádce“, „nácek“ — urážky bez zájmu ČT
+  - osoba: david-matasek
+    vztah: negativni
+    kontext: Vulgární reakce v den atentátu na Fica
   - osoba: danuse-nerudova
     vztah: negativni
     kontext: Označila je za „proruskou sebranku“

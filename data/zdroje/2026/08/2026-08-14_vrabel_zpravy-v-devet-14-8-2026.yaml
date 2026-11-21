@@ -16,11 +16,6 @@ zdroj:
     zbytek (ministr Zuna/2% HDP, audit F-35, výbuch KNDS Itálie, Japonsko/Kurily, Británie/jaderný deštník,
     EU obaly, ukrajinské obilí, generál Grynkewich, USA popravy) jen v deníku — viz [zpravodajstvi-vrabel/2026-08.md](zpravodajstvi-vrabel/2026-08.md).
     Predikce (Babiš podepíše francouzský jaderný deštník) extrahována bezvýjimečně; bez stoch. teroru.'
-  osoby:
-  - osoba: filip-turek
-    vztah: negativni
-    kontext: Srovnáván s Conorem Kennedym co do „hlouposti"; označen za sadistu bijícího partnerky a zastánce
-      eskalace vůči Rusku
   prehled:
   - tema: Ministr obrany Zuna
     text: „vojáci na prvním místě", 2 % HDP — kritika prioritizace zbrojení nad důchodci — nezpracováno
@@ -79,6 +74,10 @@ vyroky:
     vztah: negativni
     kontext: Syn RFK Jr. na ruském seznamu hledaných za boj na Ukrajině — označen za „imbecila", spekulace
       o mentálním poškození rodiny
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: Srovnáván s Conorem Kennedym co do „hlouposti"; označen za sadistu bijícího partnerky a zastánce
+      eskalace vůči Rusku
   podtema: Vyjednávání a mír
 - id: vrabel-2026-08-14-02
   typ: tvrzeni

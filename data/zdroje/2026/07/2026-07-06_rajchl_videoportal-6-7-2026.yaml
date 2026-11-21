@@ -10,11 +10,6 @@ zdroj:
   delka: 00:01:14
   poznamka: 'Zpracováno 1 téma: Sabotáž Nord Streamu jako legitimní vojenský cíl, kritika Petra Pavla
     a médií — [valka-nato-rusko.md](valka-nato-rusko.md). Bez predikcí a stoch. teroru.'
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: „Evidentně schvaloval teroristický útok a vojenský zločin" (sabotáž Nord Streamu) — kritika,
-      že médiím/veřejnosti víc záleží na jeho image než na tomto postoji
 vyroky:
 - id: rajchl-2026-07-06-01
   typ: tvrzeni
@@ -32,4 +27,9 @@ vyroky:
   citace:
   - text: Pokud tento útok byl zaměřen na to, jak přerušit dodávky plynu a ropy do Evropy a zpětně peněz
       Rusku za tyto produkty, pak by to — říkám záměrně kondicionál — byl legitimní cíl.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Evidentně schvaloval teroristický útok a vojenský zločin" (sabotáž Nord Streamu) — kritika,
+      že médiím/veřejnosti víc záleží na jeho image než na tomto postoji
   podtema: Zahraniční aktéři a precedenty

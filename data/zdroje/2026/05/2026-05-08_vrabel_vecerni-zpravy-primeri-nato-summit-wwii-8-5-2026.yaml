@@ -92,7 +92,6 @@ vyroky:
   predikce:
     horizont: 9–11. 5. 2026 a bezprostředně poté
     stav: potvrzeno
-    horizont_do: 2026-05-11
     vyhodnoceni:
     - datum: 2026-11-20
       text: příměří 9.–11. 5. bylo jen krátkodobé a válka pokračuje bez míru

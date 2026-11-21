@@ -12,10 +12,6 @@ zdroj:
     Hraniční: Rutte jako „hysterická buzna na steroidech“ (urážka bez výzvy k trestu) a tvůrci systému
     poplatků by „měli být odsouzení“ a „zametat ulice“ (bez jmenovaného terče). Zpracováno podle podkladů
     pomocného agenta, citace ověřeny v přepisu.'
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU
   prehled:
   - tema: Summit USA–Rusko–Čína
     text: „nový světový pořádek“, EU „propadla do bezvýznamnosti“, Havlíčkův americký plyn je čtyřikrát
@@ -102,6 +98,9 @@ vyroky:
     vztah: pozitivni
     kontext: „Nejsilnější“ na summitu, návrh zlikvidovat jaderné zbraně
   - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU
+  - osoba: petr-pavel
     vztah: negativni
     kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU
 - id: vrabel-2026-11-19-02

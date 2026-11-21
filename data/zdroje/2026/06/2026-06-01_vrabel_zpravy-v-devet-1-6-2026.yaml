@@ -17,11 +17,6 @@ zdroj:
     Francií = státní piráctví; Maďarsko — Magyar hrozí změnou ústavy k odvolání prezidenta Sulyoka; Starobělsk
     útok na kolej (21 studentek, video, Budanovovy výhrůžky) — ČR spoluzodpovědná (Babiš schválil 90 mld
     EUR, 60 % na zbraně).'
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: 'Na konferenci Revize Česka prosazoval přijetí eura („lepší být u stolu, kde se rozhoduje")
-      — Vrabel: euro poškozuje suverenitu ČR'
   prehled:
   - tema: „Zprávy v devět s komentářem" (se Zuzkou). Klíčová témata
     text: euro jako ztráta suverenity (ČNB ztratí kontrolu úroků, odliv kapitálu) + Bulharsko měsíc po
@@ -78,6 +73,10 @@ vyroky:
     vztah: negativni
     kontext: 'Citován: odmítání eura je „hysterie", národní suverenita bez EU je iluze — Vrabel oponuje
       (euro = reálná ztráta suverenity)'
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: 'Na konferenci Revize Česka prosazoval přijetí eura („lepší být u stolu, kde se rozhoduje")
+      — Vrabel: euro poškozuje suverenitu ČR'
   - osoba: rumen-radev
     vztah: neutralni
     kontext: Bulharský premiér — měsíc po vstupu do eurozóny čelí postupu EU při nadměrném schodku; vinu

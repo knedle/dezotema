@@ -7,6 +7,7 @@ from datetime import date
 from urllib.parse import unquote
 
 from tools.archiv.model import PrehledPolozka, Zdroj
+from tools.archiv.slug import ascii_slug
 from tools.migrace.pomocne import kotvy_z_textu
 from tools.migrace.temata import _slova
 
@@ -144,6 +145,19 @@ def _vyznamna(text: str) -> set[str]:
     return _slova(text) - _STOP
 
 
+def _plna_slova(text: str) -> set[str]:
+    """Celá slova (bez diakritiky) o délce >= 6 písmen."""
+    return {w for w in ascii_slug(text).split("-") if len(w) >= 6 and not w.isdigit()}
+
+
+def _shoda(a: str, b: str) -> int:
+    """Počet sdílených kmenů; jediný sdílený kmen stačí jen při shodě celého slova (>= 6 písmen)."""
+    n = len(_vyznamna(a) & _vyznamna(b))
+    if n == 1 and not (_plna_slova(a) & _plna_slova(b)):
+        return 0
+    return n
+
+
 def prirad_stranky(polozky: list[PrehledPolozka], zdroj: Zdroj, temata) -> int:
     """Odkaz „viz [Téma](../tema.md)“ bez kotvy -> výrok téhož zdroje s tímto tématem, ale jen
     při shodě aspoň jednoho významového slova (i u jediného kandidáta); jinak zůstává odkaz
@@ -163,8 +177,7 @@ def prirad_stranky(polozky: list[PrehledPolozka], zdroj: Zdroj, temata) -> int:
             slug = strana[:-3] if strana.endswith(".md") and "#" not in strana else None
             kand = [v for v in zdroj.vyroky if v.typ in ("tvrzeni", "postoj") and slug in v.temata] \
                 if slug in temata and p.vyrok is None else []
-            slova = _vyznamna(p.tema + " " + hlavni)
-            shody = [(len(slova & _vyznamna(v.nadpis + " " + v.text)), -i, v)
+            shody = [(_shoda(p.tema + " " + hlavni, v.nadpis + " " + v.text), -i, v)
                      for i, v in enumerate(kand)]
             shody = [s for s in shody if s[0] >= 1]
             if shody:

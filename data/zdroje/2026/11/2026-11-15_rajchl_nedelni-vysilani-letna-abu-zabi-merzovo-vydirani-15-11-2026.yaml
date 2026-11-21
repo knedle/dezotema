@@ -11,10 +11,6 @@ zdroj:
     Zpracováno všech 10 témat a 3 predikce. Hraniční výroky („naházet do antonu“ demonstranty blokující
     Mazurka, „zmanipulované ovce“ z Letné) jsou výzvou k policejnímu zásahu bez dehumanizace, resp. nálepkou
     bez výzvy, proto nejsou ve stochastickém teroru.
-  osoby:
-  - osoba: lubomir-zaoralek
-    vztah: neutralni
-    kontext: Zdroj tvrzení o Rakušanově „dohodě“ s ČT
 vyroky:
 - id: rajchl-2026-11-15-01
   typ: tvrzeni
@@ -51,6 +47,9 @@ vyroky:
   - osoba: jindrich-sidlo
     vztah: negativni
     kontext: Útočí na něj, protože Rajchl ohrožuje STAN vyšetřováním Dozimetru
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Obrat k jednání s Ruskem; „finanční stabilizace Ukrajiny“
   podtema: Milion chvilek — struktura a financování
 - id: rajchl-2026-11-15-03
   typ: tvrzeni
@@ -78,9 +77,6 @@ vyroky:
   - osoba: michael-mcgrath
     vztah: pozitivni
     kontext: Podle něj potvrdil soulad změny financování ČT s právem EU
-  - osoba: milan-mazurek
-    vztah: pozitivni
-    kontext: „Argumentačně smetl“ Nerudovou v EP; nevpuštěn na konferenci
   - osoba: danuse-nerudova
     vztah: negativni
     kontext: „Fňukala“ v EP; manžel vymáhá exekuce za poplatky
@@ -90,6 +86,9 @@ vyroky:
   - osoba: vit-rakusan
     vztah: negativni
     kontext: Údajně sliboval ČT poplatky za mlčení o FF UK
+  - osoba: lubomir-zaoralek
+    vztah: neutralni
+    kontext: Zdroj tvrzení o Rakušanově „dohodě“ s ČT
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-11-15-04
   typ: tvrzeni
@@ -104,6 +103,10 @@ vyroky:
     odvezeni pryč“, protože svoboda pohybu musí platit „stůj co stůj“. Věc chce řešit ve Sněmovně.
   citace:
   - text: A ti lidé měli být naházeni do antonu a měli být odvezeni pryč. A říkám to úplně jasně, nekompromisně.
+  osoby:
+  - osoba: milan-mazurek
+    vztah: pozitivni
+    kontext: „Argumentačně smetl“ Nerudovou v EP; nevpuštěn na konferenci
   podtema: Politická kultura
 - id: rajchl-2026-11-15-05
   typ: tvrzeni
@@ -198,9 +201,6 @@ vyroky:
   - osoba: jan-lipavsky
     vztah: negativni
     kontext: „Dětinské výkřiky“ („dovolená na Krymu“)
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Obrat k jednání s Ruskem; „finanční stabilizace Ukrajiny“
   podtema: Vyjednávání a mír
 - id: rajchl-2026-11-15-08
   typ: tvrzeni

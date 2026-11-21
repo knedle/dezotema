@@ -7,10 +7,6 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1595802791758732
   prepis: prepisy/done/2026-10-08_Ladislav-Vrabel_8-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
-  osoby:
-  - osoba: petr-hajek
-    vztah: negativni
-    kontext: Šíří „lež“ o shromáždění; bývalý „politruk“ Květů, Protiproud je „provládní médium“
   prehled:
   - tema: 'Dohra shromáždění: Hájek, Svatoš, Svobodné rádio, Štěpán'
     text: „lež“ o počtu lidí, Hájek jako „politruk“ a Macinkův spojenec
@@ -130,6 +126,9 @@ vyroky:
     padly jen proto, že Vrabel neudělal další demonstraci s odborníky. Podle Vrabela tehdy existovala
     nabídka založit stranu ČR na 1. místě s penězi „přes Radima Fialu“ pod podmínkou, že v ní nebude on.'
   osoby:
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: Šíří „lež“ o shromáždění; bývalý „politruk“ Květů, Protiproud je „provládní médium“
   - osoba: michal-svatos
     vztah: negativni
     kontext: Přirovnal Vrabela k Pavlovi, „zkreslené informace“

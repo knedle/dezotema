@@ -48,8 +48,8 @@ def _bezpecne(y: int, m: int, d: int) -> date | None:
 
 
 _DATUM_TOKEN = re.compile(r"(?<![\d.])\d{1,2}\.\s?\d{1,2}\.(?:\s?\d{4})?(?!\d)")
-_ROZSAH = re.compile(r"\d{1,2}\.\s?(?:\d{1,2}\.)?\s?[–-]\s?\d{1,2}\.")
-_ALTERNATIVA = re.compile(r"(?<![^\W\d_])(nebo|po|před|od)(?![^\W\d_])", re.I)
+_ROZSAH = re.compile(r"\d{1,2}\.?\s?(?:\d{1,2}\.)?\s?[–-]\s?\d{1,2}\.")
+_ALTERNATIVA = re.compile(r"(?<![^\W\d_])(nebo|po|poté|před|od|a dále|a později)(?![^\W\d_])", re.I)
 _VODICI_DO = re.compile(r"(?:zhruba\s+)?do\s+(?:cca\s+)?(\d{1,2})\.\s?(\d{1,2})\.\s?(\d{4})(?!\d)")
 _DO_ROKU_CELE = re.compile(r"(?:cca\s+)?do\s+(?:roku\s+)?(\d{4})(?:\s*\([^)\d]*\))?")
 

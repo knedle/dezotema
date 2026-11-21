@@ -8,10 +8,6 @@ zdroj:
   prepis: prepisy/done/2026-10-25_Československo-TV2_jana-peterkova-official-3-vysílala-živě.txt
   rezim: standard
   poznamka: '1 h 28 min, večerní vysílání (Večerníček: Josef Lada, „Liška se stává slavnou“ — nezpracováno).'
-  osoby:
-  - osoba: martin-turek
-    vztah: negativni
-    kontext: Spravuje profil „Politický vězeň Čermák“, „vyhrožovačky“
 vyroky:
 - id: zitko-2026-10-23-01
   typ: tvrzeni
@@ -35,6 +31,9 @@ vyroky:
   - osoba: renata-bernardy
     vztah: negativni
     kontext: „Vymývání mozků a manipulace“, přejímá „sračky“ falešného profilu
+  - osoba: martin-turek
+    vztah: negativni
+    kontext: Spravuje profil „Politický vězeň Čermák“, „vyhrožovačky“
   - osoba: marcela-maruskova
     vztah: rozporuplny
     kontext: Udělala „spoustu ošklivých věcí“, ale potvrdila, že by Zítko Čermáka neudal

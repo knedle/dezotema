@@ -11,9 +11,6 @@ zdroj:
     v denním přehledu, 7 s vlastním úhlem (⚡). Stochastický teror nezjištěn. Zpracováno podle podkladů
     pomocného agenta.
   osoby:
-  - osoba: karel-havlicek
-    vztah: negativni
-    kontext: „Pitomci“, „herci“ jako Fiala
   - osoba: karol-nawrocki
     vztah: pozitivni
     kontext: Vetoval zákon o digitálních službách
@@ -125,6 +122,9 @@ vyroky:
   - text: Ten systém je zločinej. Sám od sebe prostě v celý svý podstatě se všema těma hercema… je zločinej.
   osoby:
   - osoba: andrej-babis
+    vztah: negativni
+    kontext: „Pitomci“, „herci“ jako Fiala
+  - osoba: karel-havlicek
     vztah: negativni
     kontext: „Pitomci“, „herci“ jako Fiala
   podtema: Politická kultura

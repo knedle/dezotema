@@ -9,10 +9,6 @@ zdroj:
   rezim: standard
   poznamka: 3 h 35 min; většinu tvoří komentovaná nahrávka Zítkova výslechu na policii v Chomutově 13.
     11. 2023; vysíláno před setkáním v Holýšově; zpracováno podle shrnutí pomocného agenta.
-  osoby:
-  - osoba: roman-cechmanek
-    vztah: neutralni
-    kontext: Náhlou smrt naznačuje jako následek očkování
 vyroky:
 - id: zitko-2026-10-30-01
   typ: tvrzeni
@@ -54,6 +50,10 @@ vyroky:
     v 52 letech naznačuje jako následek očkování a pokles porodnosti o 30 % přičítá „sterilizační funkci“
     vakcíny. Policisté, kteří „genocidu“ nestíhají, se podle něj stávají spolupachateli; vládu a ministry
     by nechal testovat krví.'
+  osoby:
+  - osoba: roman-cechmanek
+    vztah: neutralni
+    kontext: Náhlou smrt naznačuje jako následek očkování
   podtema: Svobodný vysílač CS — Peková, Zítko (9. 4. 2026)
 - id: zitko-2026-10-30-05
   typ: tvrzeni

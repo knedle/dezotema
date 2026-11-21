@@ -7,11 +7,6 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1544889507434050
   prepis: prepisy/done/2026-08-23_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
-  osoby:
-  - osoba: jiri-havel
-    vztah: negativni
-    kontext: Bývalý spolupracovník — obviněn z krádeže e-mailových adres sledujících a šíření pomluv o
-      satanismu manželky; „má nějakou diagnózu"
   prehled:
   - tema: Rozpad vlastenecké scény — obvinění z agenturní spolupráce s BIS/policií, cenzura na Raptor
       TV
@@ -117,6 +112,11 @@ vyroky:
     používanou k zakrytí ostatních ústupků. Definuje vlastenectví jako boj za to, aby v zemi „bydleli
     Češi", mluvilo se česky a vydělané hodnoty zůstávaly doma — na rozdíl od dnešního stavu, kdy je ČR
     podle něj „v procesu rozmělňování se" do evropských struktur.'
+  osoby:
+  - osoba: jiri-havel
+    vztah: negativni
+    kontext: Bývalý spolupracovník — obviněn z krádeže e-mailových adres sledujících a šíření pomluv o
+      satanismu manželky; „má nějakou diagnózu"
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-08-23-05
   typ: stoch-teror

@@ -11,9 +11,6 @@ zdroj:
   - osoba: vit-rakusan
     vztah: negativni
     kontext: Zdržel se hlasování o odsouzení adorace Yaroslava Hunky
-  - osoba: pavel-blazek
-    vztah: negativni
-    kontext: Označen za „bílého koně" s majetkem na Kajmanech, spojen s organizovaným zločinem
   - osoba: marketa-pekarova-adamova
     vztah: negativni
     kontext: Příklad politika, který si zvýšil plat o 30 000 Kč, zatímco seniorům krátili důchody
@@ -61,6 +58,10 @@ vyroky:
     s obchodem na darknetu a s obchodem s lidmi, tato tvrzení však prezentuje jako hypotézy.
   citace:
   - text: Tadle kauza... tohle není kauza. To je organizovaný zločin. To je organizovaný zločin na Darknetu.
+  osoby:
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: Označen za „bílého koně" s majetkem na Kajmanech, spojen s organizovaným zločinem
   podtema: Kauza Bitcoin — organizovaný zločin ve státní správě
 - id: cernohorsky-2025-06-08-04
   typ: tvrzeni

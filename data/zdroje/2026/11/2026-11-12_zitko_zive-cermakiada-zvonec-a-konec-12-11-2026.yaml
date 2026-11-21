@@ -12,10 +12,6 @@ zdroj:
     tvoří asi 75 %, zbytek je čtení textu TV Šalingrad a přehrávání záznamů (Turkův telefonát s matkou,
     Seznam Zprávy). Zpracováno 9 témat (souhrnně do kauzy Čermák), covidové téma se opakuje (jen zdroj).
     Predikce ani stochastický teror nejsou. Zpracováno podle shrnutí pomocného agenta.'
-  osoby:
-  - osoba: martin-turek
-    vztah: neutralni
-    kontext: Zveřejnil telefonát s matkou
 vyroky:
 - id: zitko-2026-11-12-01
   typ: tvrzeni
@@ -53,4 +49,7 @@ vyroky:
   - osoba: matka-tomase-cermaka
     vztah: negativni
     kontext: „Lhářka“, Čermák a otčím ji „použili“
+  - osoba: martin-turek
+    vztah: neutralni
+    kontext: Zveřejnil telefonát s matkou
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

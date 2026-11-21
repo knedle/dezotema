@@ -7,11 +7,6 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/1777131803294425
   prepis: prepisy/done/2026-08-30_Jindřich-Rajchl_Facebook-Live.txt
   rezim: standard
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Rozhovor na CNN Prima News — návrh na snížení počtu nemocnic a přístrojů označen za „tragikomedii"
-      odtrženou od reality
 vyroky:
 - id: rajchl-2026-08-30-01
   typ: tvrzeni
@@ -97,6 +92,11 @@ vyroky:
     člověk obvykle založí rodinu a zůstane) a zmírní závislost zdravotnictví na zahraničním personálu
     — kritizuje jazykovou bariéru ukrajinských zdravotních sester zejména v psychiatrii, kde je verbální
     porozumění pacientovi klíčové.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Rozhovor na CNN Prima News — návrh na snížení počtu nemocnic a přístrojů označen za „tragikomedii"
+      odtrženou od reality
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-08-30-05
   typ: tvrzeni

@@ -11,9 +11,6 @@ zdroj:
   - osoba: robert-kalinak
     vztah: neutralni
     kontext: Rusko pro Slovensko není hrozba, ale spojencům by pomohl
-  - osoba: petr-robejsek
-    vztah: pozitivni
-    kontext: 'Souhlasně cituje: USA nepůjdou do války kvůli malé zemi'
   prehled:
   - tema: Vojenští představitelé NATO v Kyjevě (poprvé po 8 letech)
     text: „něco se chystá, dobrý pocit z toho nemám“
@@ -139,6 +136,9 @@ vyroky:
     a Merzova podmínka zastavit nejdřív boje je záměrně nepřijatelná. Schůzku 32 vojenských představitelů
     NATO v Kyjevě komentuje „dobrý pocit z toho nemám“.'
   osoby:
+  - osoba: petr-robejsek
+    vztah: pozitivni
+    kontext: 'Souhlasně cituje: USA nepůjdou do války kvůli malé zemi'
   - osoba: sergej-lavrov
     vztah: rozporuplny
     kontext: Nesouhlasí, že USA podlehly tlaku Evropy

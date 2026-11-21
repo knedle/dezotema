@@ -7,10 +7,6 @@ zdroj:
   url: https://www.facebook.com/61586055215179/videos/2115192386049216
   prepis: prepisy/done/2026-09-03_Restart-Cesko_Videoportál.txt
   rezim: standard
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Výsměch nad tím, že si z něj vlastní tribut udělala i KSČM
 vyroky:
 - id: sejna-2026-09-03-01
   typ: tvrzeni
@@ -22,4 +18,8 @@ vyroky:
     prezidenta.
   citace:
   - text: Představte si, že jste tak špatný komunista, že i KSČM si z vás dělá prdel.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Výsměch nad tím, že si z něj vlastní tribut udělala i KSČM
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

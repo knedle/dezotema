@@ -69,3 +69,9 @@ def test_zminka_jen_k_mluvcimu_stranky():
     osoby["rajchl"] = Osoba("rajchl", "Jindřich Rajchl")
     vys = O.prirad(zm, Archiv([z], {}, osoby), {"kot": z.id})
     assert not vys.nezarazeno and z.vyroky[0].osoby[0].osoba == "rajchl"
+
+
+def test_prijmeni_se_zahazovanou_samohlaskou():
+    z = _z("vrabel", [Vyrok("v1", "tvrzeni", ["kauzy"], "N", "Moravcovo rozhodnutí a Moravce znáte.")])
+    assert O.najdi_vyrok(z, "Emanuel Moravec").id == "v1"
+    assert O.najdi_vyrok(z, "Jan Novák") is None

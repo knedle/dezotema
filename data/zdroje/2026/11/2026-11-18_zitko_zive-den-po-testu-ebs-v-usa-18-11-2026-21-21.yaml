@@ -15,10 +15,6 @@ zdroj:
     teror nezjištěn (hraniční: „na všechny jednoznačně dojde“ bez jmen, Dědek jako „reptilián“, antisemitské
     obraty „Chazarská strana“ a „globální lichva“). Zpracováno podle shrnutí pomocného agenta, klíčové
     citace ověřeny v přepisu.'
-  osoby:
-  - osoba: pavel
-    vztah: negativni
-    kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
 vyroky:
 - id: zitko-2026-11-18-01
   typ: tvrzeni
@@ -85,6 +81,9 @@ vyroky:
     vztah: negativni
     kontext: Rozdělení ČSR, „žádná omluva“, „vyvrcholením byla genocida COVID-19“
   - osoba: fiala
+    vztah: negativni
+    kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
+  - osoba: pavel
     vztah: negativni
     kontext: „Melou furt stejný kokotiny“, výzva k debatě o ČSR
   - osoba: rajchl

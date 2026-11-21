@@ -15,9 +15,6 @@ zdroj:
   - osoba: grzegorz-braun
     vztah: pozitivni
     kontext: Poslali mu zdravici k polskému Dni nezávislosti
-  - osoba: karel-havlicek
-    vztah: negativni
-    kontext: „Biznis“ s Ukrajinou — dodávky letounů L-39 Skyfox
   prehled:
   - tema: Mise EUMAM nově přímo na Ukrajině (do 2028)
     text: EU „otevřela dveře“ vojákům na Ukrajinu, salámová metoda, válka s Ruskem „už dávno probíhá“
@@ -141,6 +138,9 @@ vyroky:
   - osoba: michal-strnad
     vztah: negativni
     kontext: Propad akcií CSG jako důvod Babišových půjček na zbraně
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: „Biznis“ s Ukrajinou — dodávky letounů L-39 Skyfox
   podtema: EU jako vojenská struktura
 - id: vrabel-2026-11-11-05
   typ: tvrzeni

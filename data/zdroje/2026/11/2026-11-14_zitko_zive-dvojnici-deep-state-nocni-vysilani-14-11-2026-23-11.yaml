@@ -40,6 +40,9 @@ vyroky:
   citace:
   - text: Konec bude, až budou všichni pachatelé masových vražd stát před vojenským tribunálem.
   osoby:
+  - osoba: vlastimil-valek
+    vztah: negativni
+    kontext: „Zmrdeček z Brna“, má skončit před vojenským tribunálem
   - osoba: adam-vojtech
     vztah: negativni
     kontext: „Zrůdy“, propagátoři očkování
@@ -105,10 +108,6 @@ vyroky:
   - text: Takže tady další zmrdeček z Brna Vlastimil Válek, tady rozhodně taky by měl skončit před vojenským
       tribunálem.
   - text: pachatelů masových vražd, genocidy a sterilizace
-  osoby:
-  - osoba: vlastimil-valek
-    vztah: negativni
-    kontext: „Zmrdeček z Brna“, má skončit před vojenským tribunálem
   teror:
     terc: Vlastimil Válek
     hranicni: false

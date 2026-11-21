@@ -14,9 +14,6 @@ zdroj:
   - osoba: ivan-kratochvil
     vztah: pozitivni
     kontext: Řečník — jaderný deštník jako terč
-  - osoba: petr-hajek
-    vztah: negativni
-    kontext: „Politruk", Klausův poradce, „kádruje hnutí"
   prehled:
   - tema: Tři výzvy vládě a parlamentu
     text: jaderné zbraně, zmocněnec pro mír, zákaz vývozu zbraní
@@ -74,6 +71,9 @@ vyroky:
   - osoba: josef-kupcik
     vztah: pozitivni
     kontext: „Komunista přesvědčením, vážím si ho"
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: „Politruk", Klausův poradce, „kádruje hnutí"
   podtema: Politická kultura
 - id: vk-2026-10-03-01
   typ: predikce

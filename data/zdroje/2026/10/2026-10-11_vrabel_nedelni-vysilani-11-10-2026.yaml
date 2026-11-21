@@ -124,6 +124,9 @@ vyroky:
   - osoba: jana-cernochova
     vztah: negativni
     kontext: „Dal bych jí oranžový mundur… jak zametá ulice“
+  - osoba: miroslav-sladek
+    vztah: pozitivni
+    kontext: „Mám velmi rád“; citace „když se nevěší, není revoluce“
   - osoba: mattias-desmet
     vztah: pozitivni
     kontext: Teorie mass formation a 5 % pravdy
@@ -226,10 +229,6 @@ vyroky:
       v České republice. Protože doktor Sládek vždycky říkal, když se nevěší, tak není revoluce. Tak říkám,
       že by měli viset ty lidi na různých nástěnkách. Aby to nebylo tak tvrdé, jak to říká doktor Sládek.
   - text: nástěnku
-  osoby:
-  - osoba: miroslav-sladek
-    vztah: pozitivni
-    kontext: „Mám velmi rád“; citace „když se nevěší, není revoluce“
   teror:
     terc: státní zástupce, který zastavil stíhání Čecha z ukrajinské armády; „státní zástupci, kteří likvidují
       právní systém“

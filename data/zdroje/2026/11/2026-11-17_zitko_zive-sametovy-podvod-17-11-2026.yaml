@@ -17,12 +17,6 @@ zdroj:
   - osoba: petr-uhl
     vztah: negativni
     kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
-  - osoba: vaclav-havel
-    vztah: negativni
-    kontext: „Zednář 33. stupně“, „třikrát křivě přísahal“
-  - osoba: tomas-langasek
-    vztah: negativni
-    kontext: Brání obnově právní kontinuity ČSR („žába na prameni“, „Langáškova finta“)
 vyroky:
 - id: zitko-2026-11-17-01
   typ: tvrzeni
@@ -55,6 +49,9 @@ vyroky:
   - osoba: drahomira-drazska
     vztah: negativni
     kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: „Zednář 33. stupně“, „třikrát křivě přísahal“
   - osoba: honza-dedek
     vztah: negativni
     kontext: V klipu podle něj hraje „reptiliána v médiích“
@@ -81,6 +78,9 @@ vyroky:
   - text: Každý rok je… z korporace Česká republika vyvedeno, vytunelováno, vykradeno jeden bilion korun.
   osoby:
   - osoba: pavel-rychetsky
+    vztah: negativni
+    kontext: Brání obnově právní kontinuity ČSR („žába na prameni“, „Langáškova finta“)
+  - osoba: tomas-langasek
     vztah: negativni
     kontext: Brání obnově právní kontinuity ČSR („žába na prameni“, „Langáškova finta“)
   - osoba: rajchl

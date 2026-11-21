@@ -57,5 +57,6 @@ def test_horizont_do_nejednoznacny():
               "po amerických volbách 2026 (3. 11. 2026)",
               "před 3. 10. 2026 nebo krátce po",
               "do 18. 5.–18. 11. 2027",
+              "9–11. 5. 2026 a bezprostředně poté",
               "17. 11. 2026 (EBS, s výhradou); 22. 11. 2026 (QFS)"]:
         assert P.horizont_do(s) is None, s

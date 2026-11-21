@@ -80,7 +80,11 @@ def _vzor_prijmeni(jmeno: str) -> re.Pattern | None:
     if len(p) < 4 or not p[0].isupper():
         return None
     kmen = p[:-1] if len(p) >= 5 and p[-1].lower() in _KONCOVKY else p
-    return re.compile(rf"(?<![{_PISMENO}]){re.escape(kmen)}[a-zá-žà-ÿ]{{0,4}}(?![{_PISMENO}])")
+    kmeny = [kmen]
+    if len(p) >= 5 and p[-2:].lower() in ("ec", "ek", "el"):    # Moravec -> Moravce, Moravcovo
+        kmeny.append(p[:-2] + p[-1])
+    alt = "|".join(re.escape(k) for k in kmeny)
+    return re.compile(rf"(?<![{_PISMENO}])(?:{alt})[a-zá-žà-ÿ]{{0,4}}(?![{_PISMENO}])")
 
 
 def efektivni_mluvci(v: Vyrok | None, z: Zdroj) -> str:

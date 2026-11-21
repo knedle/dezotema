@@ -13,9 +13,6 @@ zdroj:
   - osoba: danuse-nerudova
     vztah: negativni
     kontext: Označena za „intelektuálního giganta" (ironicky) za podporu Pavlovy snahy jet na NATO summit
-  - osoba: filip-turek
-    vztah: neutralni
-    kontext: Uveden jako precedent — Pavel i tehdy dle Rajchla ohýbal Ústavu při odmítání jeho jmenování
 vyroky:
 - id: rajchl-2026-04-09-01
   typ: tvrzeni
@@ -35,4 +32,7 @@ vyroky:
     vztah: negativni
     kontext: Označen za lháře o Ústavě — domáhá se účasti na NATO summitu v Ankaře, přestože zahraniční
       politiku určuje vláda; chování označeno jako „frackoství"
+  - osoba: filip-turek
+    vztah: neutralni
+    kontext: Uveden jako precedent — Pavel i tehdy dle Rajchla ohýbal Ústavu při odmítání jeho jmenování
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

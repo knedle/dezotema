@@ -13,11 +13,6 @@ zdroj:
     hanba než SdL; Pavel jako největší přísluhovač; válečné reparace jako podmínka smíření; AFD podmíněna
     Benešovými dekrety; slib zákazu sjezdu při příchodu SPD na ministerstvo. Existuje druhý přepis téhož
     videa (`2026-05-25_Jindřich-Rajchl_Videoportál_1.txt`) — obsah totožný, sloučeno. Zhlédnutí: 23 146'
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Na brněnském pochodu označen za největšího přísluhovače všech — převzal záštitu nad sjezdem
-      SdL a prosazuje zánik ČR v USE
 vyroky:
 - id: rajchl-2026-05-24-02
   typ: tvrzeni
@@ -47,4 +42,9 @@ vyroky:
       abychom rezignovali na naší národní pamět.
   - text: Smíření a odpuštění od nás, kterým jste ublížili, tak začněte tím, že nám zaplatíte škody, které
       jste tady způsobili.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Na brněnském pochodu označen za největšího přísluhovače všech — převzal záštitu nad sjezdem
+      SdL a prosazuje zánik ČR v USE
   podtema: Podstata dekretů, odsun a smíření

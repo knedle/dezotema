@@ -11,11 +11,6 @@ zdroj:
   poznamka: 'Peková na akci v Mostě (Chcimír): data Stassenovi (Amsterdam), EP odmítl Füllmicha; Peková
     píše Füllmichovi (narozeniny 5. 5.); petice jako EU precedens; plánovaná audience u Petra Pavla; Pavlův
     právník ji odmítl — jde přesto. Zhlédnutí: 528'
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Jeho právník odmítl Pekovou s tím, že „vidí trávu růst" — Peková plánuje audience přesto,
-      přes Pavlovo ignorování
 vyroky:
 - id: zitko-2026-04-22-01
   typ: tvrzeni
@@ -39,4 +34,8 @@ vyroky:
     vztah: pozitivni
     kontext: 'Peková mu píše do vězení; narozeniny 5. 5. (75 let); napsal Pekové: „Pozdravujte krajany,
       kteří se brzo stanou Československem"; Zítko zveřejnil jeho adresu'
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Jeho právník odmítl Pekovou s tím, že „vidí trávu růst" — Peková plánuje audience přesto,
+      přes Pavlovo ignorování
   podtema: Pokusy o vyšetřování

@@ -12,9 +12,6 @@ zdroj:
     vztah: negativni
     kontext: 'Nový řádek: spolu se Sládkem znovu napaden jako „nejhorší zmrd této scény" za udání koalic
       SPD+Stačilo a KSČM+Stačilo kvůli státnímu příspěvku za hlasy'
-  - osoba: miroslav-sladek
-    vztah: negativni
-    kontext: Spolu s Vrábelem označen za „nejhoršího zmrda této scény" za totéž udání koalic
 vyroky:
 - id: cernohorsky-2026-09-15-01
   typ: tvrzeni
@@ -97,6 +94,10 @@ vyroky:
     V tomto kontextu znovu ostře napadá Ladislava Vrábela a Miroslava Sládka („dva nejhorší zmrdi této scény") za to, že před volbami podali stížnosti proti údajně nedeklarovaným koalicím (SPD+Stačilo, KSČM+Stačilo a další) kvůli obcházení volebního zákona — koalice kandidující jako jediná strana potřebuje jen 5 % namísto 11 %. Tvrdí, že jediným motivem Vrábela a Sládka bylo získat přes 1,5 % hlasů coby vlastní volební uskupení a dosáhnout tak na státní příspěvek 10 mil. Kč za hlasy (případně až 40 mil. Kč při zisku nad 3 %) — ne skutečná obrana zákona.
   citace:
   - text: Vrábel se Sládkem jsou dva nejhorší zmrdi této scény.
+  osoby:
+  - osoba: miroslav-sladek
+    vztah: negativni
+    kontext: Spolu s Vrábelem označen za „nejhoršího zmrda této scény" za totéž udání koalic
   podtema: Volby
 - id: cernohorsky-2026-09-15-07
   typ: tvrzeni

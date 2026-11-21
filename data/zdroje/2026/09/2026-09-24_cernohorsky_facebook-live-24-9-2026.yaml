@@ -12,15 +12,9 @@ zdroj:
     a „oříšky", proruská propaganda neexistuje, von der Leyenová, Vlasáková, volební kampaně (vlastní
     kandidatura Restart pro Brno), Volyň a Zelenskyj, premiérský program.
   osoby:
-  - osoba: milos-kominek
-    vztah: pozitivni
-    kontext: Omlouvá se mu — měl pravdu o cenách PHM na Slovensku
   - osoba: roman-maca
     vztah: negativni
     kontext: Tvrdil, že jeho spolek financuje Kreml; homofobní urážky
-  - osoba: tomas-lukavec
-    vztah: pozitivni
-    kontext: Rozhovor o von der Leyenové
 vyroky:
 - id: cernohorsky-2026-09-24-01
   typ: tvrzeni
@@ -34,6 +28,10 @@ vyroky:
     vládou Andreje Babiše", která „pro tyhle věci dělá daleko méně a hůř, než to udělala slovenská vláda".
     Zároveň označuje za lež video Nemeta o celoplošném zdražení potravin v Německu o 30 % — potraviny
     jsou tam podle něj levnější než v ČR, dražší byla jen vejce kvůli „vymyšlené" ptačí chřipce.'
+  osoby:
+  - osoba: milos-kominek
+    vztah: pozitivni
+    kontext: Omlouvá se mu — měl pravdu o cenách PHM na Slovensku
   podtema: Pohonné hmoty
 - id: cernohorsky-2026-09-24-02
   typ: tvrzeni
@@ -50,6 +48,9 @@ vyroky:
   - osoba: ursula-von-der-leyenova
     vztah: negativni
     kontext: „Měla by být popravena"
+  - osoba: tomas-lukavec
+    vztah: pozitivni
+    kontext: Rozhovor o von der Leyenové
   podtema: Náboženský a okultní výklad moci
 - id: cernohorsky-2026-09-24-03
   typ: tvrzeni

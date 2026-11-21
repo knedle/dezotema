@@ -14,9 +14,6 @@ zdroj:
   - osoba: grzegorz-braun
     vztah: pozitivni
     kontext: Politický přítel, i s mandátem „chodí na ulici a pracuje pro lidi“
-  - osoba: petr-vacek
-    vztah: negativni
-    kontext: Vytvořili zatýkání za „Z“ „na objednávku“ se státním zástupcem Střížem
   - osoba: savo-minic-milorad-dodik
     vztah: pozitivni
     kontext: Gratulace k vítězství v Republice srbské
@@ -74,6 +71,9 @@ vyroky:
     na lidi“.'
   osoby:
   - osoba: rajchl
+    vztah: negativni
+    kontext: Vytvořili zatýkání za „Z“ „na objednávku“ se státním zástupcem Střížem
+  - osoba: petr-vacek
     vztah: negativni
     kontext: Vytvořili zatýkání za „Z“ „na objednávku“ se státním zástupcem Střížem
   podtema: Trestání politického projevu

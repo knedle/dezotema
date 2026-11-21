@@ -83,6 +83,10 @@ vyroky:
     vztah: negativni
     kontext: „Odklonil" bitcoiny za 100+ mld ze dvou tržišť; den před schůzkou s MS rozeslal BTC na spřátelené
       peněženky; policie mu vrátila 50 PC, přinesl 1
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: „Don Pablo Blažek" — označen za hlavního organizátora bitcoinové loupeže; odstoupil 30. 5.
+      2025, případ rok nikdo nedořešil
   podtema: Korupce na Ukrajině — Mindić, Firepoint, Kvartal 95
 - id: zitko-2026-06-03-05
   typ: tvrzeni
@@ -162,11 +166,6 @@ vyroky:
   - text: genocidy a sterilizace obyvatel
   - text: padni komu padni
   - text: spravedlivý trest
-  osoby:
-  - osoba: pavel-blazek
-    vztah: negativni
-    kontext: „Don Pablo Blažek" — označen za hlavního organizátora bitcoinové loupeže; odstoupil 30. 5.
-      2025, případ rok nikdo nedořešil
   teror:
     terc: Fiala, Stanjura, Blažek + „celý soudní aparát"
     hranicni: false

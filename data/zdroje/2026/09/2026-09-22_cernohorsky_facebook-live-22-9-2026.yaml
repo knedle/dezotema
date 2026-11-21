@@ -11,10 +11,6 @@ zdroj:
     na političky, Volyň/TikTok, Ukrajinci v ČR, konec války jen ruskými podmínkami/orešníky, ropa a nafta,
     energetika a datová centra, Pavel a veto jako velezrada, Tušl a Zítko, Jurečka „na elektrické křeslo",
     vlastenecká TV. Sdílená videa (Blaha, „Dominik"), čtená zpráva fanouška a osobní pasáže nezpracovány.
-  osoby:
-  - osoba: karel-havlicek
-    vztah: rozporuplny
-    kontext: „Velice inteligentní", ale v debatě neumlčel Jurečku
 vyroky:
 - id: cernohorsky-2026-09-22-01
   typ: tvrzeni
@@ -188,6 +184,9 @@ vyroky:
   - osoba: marian-jurecka
     vztah: negativni
     kontext: Okradl invalidy — „na elektrické křeslo"
+  - osoba: karel-havlicek
+    vztah: rozporuplny
+    kontext: „Velice inteligentní", ale v debatě neumlčel Jurečku
   - osoba: boris-stastny
     vztah: negativni
     kontext: Návrh neplacených prvních 3 dnů nemoci

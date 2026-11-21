@@ -23,10 +23,6 @@ zdroj:
     vztah: pozitivni
     kontext: Jediný na kyjevském summitu nepodepsal deklaraci uznávající Rusko za agresora — Vrabel znovu
       „nejlepší politik na světě"
-  - osoba: karel-havlicek
-    vztah: negativni
-    kontext: V Bělehradu chválil srbský ekonomický růst a lákal Srbsko do EU; dříve prodával kmenové buňky
-      s Rajchlem
   prehled:
   - tema: 'Zpracováno 10 témat: (1) Babiš/Havlíček v Bělehradu vs. Vučičova suverenita'
     text: '[suverenita-eu.md](../suverenita-eu.md). (2) ASEAN Rubio–Lavrov, Rusko diplomaticky „vyhrálo"
@@ -148,6 +144,10 @@ vyroky:
   - osoba: andrej-babis
     vztah: negativni
     kontext: V Bělehradu přesvědčoval Srbsko o vstupu do EU, místo aby se od Vučiče učil suverenní politice
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: V Bělehradu chválil srbský ekonomický růst a lákal Srbsko do EU; dříve prodával kmenové buňky
+      s Rajchlem
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-23-07
   typ: tvrzeni

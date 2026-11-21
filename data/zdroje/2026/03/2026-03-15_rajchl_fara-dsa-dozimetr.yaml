@@ -20,9 +20,6 @@ zdroj:
   - osoba: marketa-sichtarova
     vztah: rozporuplny
     kontext: Nesouhlasí s její rezignací — považuje ji za unilaterální krok bez konzultace s klubem
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Kritizován za jednání s Liechtensteinským rodem v kontextu Benešových dekretů
 vyroky:
 - id: rajchl-2026-03-15-01
   typ: tvrzeni
@@ -37,6 +34,10 @@ vyroky:
   citace:
   - text: Sudetští Němci prostě se budou snažit vždy tyto základní pilíře našeho uspořádání, majetkového
       právního uspořádání, kterými jsou Benešovy dekrety, prolomit, zničit, zrušit.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Kritizován za jednání s Liechtensteinským rodem v kontextu Benešových dekretů
   podtema: Podstata dekretů, odsun a smíření
 - id: rajchl-2026-03-15-02
   typ: tvrzeni

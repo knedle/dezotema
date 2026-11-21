@@ -9,9 +9,6 @@ zdroj:
   rezim: vrabel
   poznamka: 20 min, natočeno venku v Srbsku („z naší haciendy, jak řekl Michal Svatoš“).
   osoby:
-  - osoba: filip-turek
-    vztah: negativni
-    kontext: Výrok „Putin krysa“ jako ukázka válečné propagandy
   - osoba: michal-svatos
     vztah: negativni
     kontext: Ironie k „haciendě v Srbsku“
@@ -63,6 +60,9 @@ vyroky:
   - osoba: vladimir-putin
     vztah: pozitivni
     kontext: „Jeden z nejlepších politiků na světě“
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: Výrok „Putin krysa“ jako ukázka válečné propagandy
   - osoba: milos-zeman
     vztah: negativni
     kontext: Vyznamenal Zelenského Řádem Bílého lva

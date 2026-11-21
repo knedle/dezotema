@@ -12,13 +12,6 @@ zdroj:
     témat v denním přehledu, 14 s vlastním úhlem (⚡). Stochastický teror nezjištěn (hraniční: Zelenskyj
     „se bude smažit v pekle tisíce let“ bez výzvy k trestu, „někteří Ukrajinci jsou prostě náckové“).
     Zpracováno podle podkladů pomocného agenta, citace ověřeny v přepisu.'
-  osoby:
-  - osoba: karel-havlicek
-    vztah: negativni
-    kontext: Smlouva na „třikrát dražší“ americký plyn
-  - osoba: filip-turek
-    vztah: negativni
-    kontext: „Sype tady ty větráky“
   prehled:
   - tema: Půjčka EU Ukrajině 45 mld. eur
     text: jsou to „dvě půjčky“, platíme z rozpočtu, Babišovo „neručíme“ je nesmysl
@@ -113,6 +106,10 @@ vyroky:
   citace:
   - text: Konečně budeme mít ty dlouhodobý kontrakty na plyn, po kterých křičím veřejně už od roku 2022,
       akorát, že budeme mít prostě třikrát tak dražší, protože budou ze Spojených států.
+  osoby:
+  - osoba: karel-havlicek
+    vztah: negativni
+    kontext: Smlouva na „třikrát dražší“ americký plyn
   podtema: Plyn v ČR — diverzifikace zásobování
 - id: vrabel-2026-11-18-03
   typ: tvrzeni
@@ -131,6 +128,9 @@ vyroky:
   - osoba: radovan-dluhy
     vztah: pozitivni
     kontext: Petice o geoinženýrství, „asi dělá dobrou práci“
+  - osoba: filip-turek
+    vztah: negativni
+    kontext: „Sype tady ty větráky“
   podtema: Historické konspirační výklady
 - id: vrabel-2026-11-18-04
   typ: tvrzeni

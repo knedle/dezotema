@@ -24,9 +24,6 @@ zdroj:
     vztah: negativni
     kontext: Údajný státní zástupce, žalobce v Zítkově kauze u OS Chomutov — nabídnuta „brigáda" 750 tis.
       euro za předložení důkazu izolace SARS-CoV-2, nepředložil
-  - osoba: mazanek
-    vztah: negativni
-    kontext: Vyšetřovatel v kauze bitcoinu — kritizován za nečinnost rok a dva měsíce od odhalení kauzy
 vyroky:
 - id: zitko-2026-07-23-01
   typ: tvrzeni
@@ -88,6 +85,9 @@ vyroky:
     — jmenovitě kritizuje vyšetřovatele **Mazánka** a **Radima Dragouna** (NCOZ, Vrchní státní zastupitelství
     Olomouc) za nečinnost, přestože kauza čítá přes 100 miliard Kč.'
   osoby:
+  - osoba: mazanek
+    vztah: negativni
+    kontext: Vyšetřovatel v kauze bitcoinu — kritizován za nečinnost rok a dva měsíce od odhalení kauzy
   - osoba: radim-dragoun
     vztah: negativni
     kontext: Vyšetřovatel NCOZ / Vrchní SZ Olomouc v kauze bitcoinu — kritizován za nečinnost

@@ -8,12 +8,6 @@ zdroj:
   prepis: prepisy/done/2026-10-09_Ladislav-Vrabel_9-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   osoby:
-  - osoba: pavel-hubacek
-    vztah: negativni
-    kontext: Jeho rodina je spojena s tryskáčem, kterým Pavel letěl („sponzor“)
-  - osoba: lukas-valasek
-    vztah: negativni
-    kontext: „Jeden z nejhorších českých novinářů, který likviduje lidi“
   - osoba: vk
     vztah: pozitivni
     kontext: Shoda, že změna systému přijde až po válce
@@ -148,6 +142,9 @@ vyroky:
   - osoba: michail-zvincuk
     vztah: pozitivni
     kontext: „Vysoce postavený člověk“, jeho zadržení je skandál
+  - osoba: lukas-valasek
+    vztah: negativni
+    kontext: „Jeden z nejhorších českých novinářů, který likviduje lidi“
   podtema: Nová alternativní média
 - id: vrabel-2026-10-09-07
   typ: tvrzeni
@@ -167,6 +164,9 @@ vyroky:
   - osoba: petr-pavel
     vztah: negativni
     kontext: Tryskáč jako úplatek, „radši bych mu dal karabáčem“, „generál NATO pro válku“
+  - osoba: pavel-hubacek
+    vztah: negativni
+    kontext: Jeho rodina je spojena s tryskáčem, kterým Pavel letěl („sponzor“)
   dalsi_zdroje:
   - 2026-10-22_vrabel_zpravy-v-devet-22-10-2026
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským

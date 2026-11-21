@@ -19,10 +19,6 @@ zdroj:
     vztah: negativni
     kontext: „Malý Heydrich" / „český podrazák" — jel do Německa slavit konec WWII (s Wadephulem, čestným
       hostem SdL), tlačí ČR do role výrobny zbraní pro USA
-  - osoba: libor-vondracek
-    vztah: rozporuplny
-    kontext: 'Naštval Vrabela (neodpověděl k odškodnění manželky), ale ocenil ho, že voličům upřímně přiznal:
-      migrační pakt je vymahatelný a nelze z něj vystoupit bez odchodu z EU'
   prehled:
   - tema: Eskalace NATO–Rusko (parabola školní šikany, „není to
     text: Eskalace NATO–Rusko (parabola školní šikany, „není to Ukrajina, je to Západ", riziko úderu na
@@ -72,6 +68,10 @@ vyroky:
   - osoba: katerina-konecna
     vztah: negativni
     kontext: Hlasovala v EP „pro vytváření migračních cest" z Afriky — Vrabel vyvrací její obraz vlastenky
+  - osoba: libor-vondracek
+    vztah: rozporuplny
+    kontext: 'Naštval Vrabela (neodpověděl k odškodnění manželky), ale ocenil ho, že voličům upřímně přiznal:
+      migrační pakt je vymahatelný a nelze z něj vystoupit bez odchodu z EU'
 - id: vrabel-2026-06-14-03
   typ: tvrzeni
   temata:

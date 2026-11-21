@@ -13,11 +13,6 @@ zdroj:
     zrušení dekretů), Siegfried Soglma (Hitlerjugend, Landsmannschaft do 1993, SS přihláška: rozbití ČSR),
     Vitykobund (web: Raubgut, Böhmen und Mähren, součást Germánie), KKK srovnání; výzva k sjednocení za
     jednoho kandidáta v 2028. Zhlédnutí: 88 811'
-  osoby:
-  - osoba: vaclav-pavlicek
-    vztah: pozitivni
-    kontext: Prof. ústavního práva, přítomen na debatě Novotného lávka; Rajchl říká, že z něj je vždy
-      nervózní, protože u něj dělal státnice
 vyroky:
 - id: rajchl-2026-04-29-01
   typ: tvrzeni
@@ -48,6 +43,10 @@ vyroky:
     kontext: 'Zmiňován jako historický příklad: nejvyšší Hitlerjugend v protektorátu, pravá ruka K. H.
       Franka, předseda Landsmannschaftu ještě v r. 1993; v přihlášce do SS uvedl „rozbití Československa"
       jako nejvýznamnější počin'
+  - osoba: vaclav-pavlicek
+    vztah: pozitivni
+    kontext: Prof. ústavního práva, přítomen na debatě Novotného lávka; Rajchl říká, že z něj je vždy
+      nervózní, protože u něj dělal státnice
   - osoba: milos-zeman
     vztah: pozitivni
     kontext: Přítomen na debatě Novotného lávka; Rajchl ho označuje za vzor — „jednoho [prezidenta] už

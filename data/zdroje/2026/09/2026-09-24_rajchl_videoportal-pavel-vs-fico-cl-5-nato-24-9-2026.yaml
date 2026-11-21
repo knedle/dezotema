@@ -24,6 +24,10 @@ vyroky:
     odmítá automatické uplatnění čl. 5 NATO](valka-nato-rusko.md#fico-odmítá-automatické-uplatnění-čl-5-nato--majstrštik-podle-vrabela-nejednota-natoeu-vrabel-18-9-2026).
   citace:
   - text: Petře Pavle, Česká republika, naši občané nechtějí válku, chtějí žít v míru.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Troubí do války", patrně by si přál, aby začala co nejdříve
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: rajchl-2026-09-24-03
   typ: tvrzeni
@@ -52,9 +56,6 @@ vyroky:
     vztah: pozitivni
     kontext: Ve sporu s Pavlem o čl. 5 NATO stojí „jednoznačně" na jeho straně — realista, má to „v hlavě
       srovnané stokrát víc" než váleční štváči
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: „Troubí do války", patrně by si přál, aby začala co nejdříve
   - osoba: volodymyr-zelenskyj
     vztah: negativni
     kontext: Dle Dudy se ho po dopadu rakety v Polsku snažil přesvědčit, aby „hodili vinu na Putina" a

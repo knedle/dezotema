@@ -9,13 +9,6 @@ zdroj:
   rezim: standard
   poznamka: 1 h 2 min, pravidelné nedělní vysílání („Pokus o puč v Polsku, Rusové zpět na MS, koncesionářské
     poplatky a uměle vyvolaná hysterie aspenovské kliky politických neziskovek v ČR“); až 4 100 diváků.
-  osoby:
-  - osoba: filip-turek
-    vztah: pozitivni
-    kontext: „Klobouk dolů“, odvážně podpořil start Rusů
-  - osoba: jan-molacek
-    vztah: negativni
-    kontext: Stížnost k Radě ČT za porušení etického kodexu
 vyroky:
 - id: rajchl-2026-11-01-01
   typ: tvrzeni
@@ -45,6 +38,9 @@ vyroky:
   - osoba: boris-stastny
     vztah: rozporuplny
     kontext: Respektuje jeho jiný názor na start Rusů; DAMU mu zakázala vstup
+  - osoba: jan-molacek
+    vztah: negativni
+    kontext: Stížnost k Radě ČT za porušení etického kodexu
   podtema: Česká televize a mainstreamová média
 - id: rajchl-2026-11-01-02
   typ: tvrzeni
@@ -68,6 +64,9 @@ vyroky:
   - osoba: natalie-vachatova
     vztah: pozitivni
     kontext: „Mladá, skvělá, inteligentní žena“, oběť „bolševického“ lynče
+  - osoba: filip-turek
+    vztah: pozitivni
+    kontext: „Klobouk dolů“, odvážně podpořil start Rusů
   podtema: Dvojí metr v médiích
 - id: rajchl-2026-11-01-03
   typ: tvrzeni

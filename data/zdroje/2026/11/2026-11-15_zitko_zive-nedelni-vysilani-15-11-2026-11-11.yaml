@@ -15,9 +15,6 @@ zdroj:
     tribunálů bez konkrétního terče). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny
     v přepisu.'
   osoby:
-  - osoba: pavel-blazek
-    vztah: negativni
-    kontext: „Kmotr“ bitcoinové kauzy, nesedí
   - osoba: suchomel
     vztah: rozporuplny
     kontext: Kritik, ale Zítko mu „drží palce“
@@ -53,6 +50,12 @@ vyroky:
     ovládá CIA. Od odstoupení „kmotra“ Pavla Blažka sedí jen „bílý koník Jiříkovský“, což je pro něj důkaz
     „totálního selhání“ všech tří mocí.'
   osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Šikovnej turista“, moc převezme armáda, ne on
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: „Kmotr“ bitcoinové kauzy, nesedí
   - osoba: tomas-cermak
     vztah: pozitivni
     kontext: Rozsudek 5,5 roku je „totální zhovadilost“
@@ -113,9 +116,6 @@ vyroky:
   - text: Všechny falešné jaderné zbraně na světě, to je proto strašení jaderným konfliktem, byly v roce
       2019 zneškodněny americkými, myslím si, že i ruskými vesmírnými silami.
   osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: „Šikovnej turista“, moc převezme armáda, ne on
   - osoba: donald-trump
     vztah: pozitivni
     kontext: Vítězné mocnosti, 19. 11. mírová smlouva a obnova ČSR

@@ -13,11 +13,6 @@ zdroj:
     konspirace) — [konspirace.md](konspirace.md). (3) Barevná mračna u Karlových Varů jako geoinženýrství,
     doplnění existující teze o chemtrails — [konspirace.md](konspirace.md). Bez predikcí. Stoch. teror:
     dehumanizace Macinky — [stochasticky-teror.md](stochasticky-teror.md).'
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Nedůstojné chování při hymně v Karlových Varech (škrábání na hlavě) — příklad „loutkovosti"
-      politiků
 vyroky:
 - id: boldy-2026-07-11-01
   typ: tvrzeni
@@ -53,6 +48,11 @@ vyroky:
     se prezident „škrábal na hlavě" místo důstojného postoje) a spojuje to s obecnější tezí, že politici
     jako Okamura či Macinka lidi po volbách vždy zklamou, protože jsou to dosazené „loutky" — svobodné
     volby jsou dle něj iluze, protože elity si vše plánují dopředu.
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Nedůstojné chování při hymně v Karlových Varech (škrábání na hlavě) — příklad „loutkovosti"
+      politiků
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: boldy-2026-07-11-04
   typ: stoch-teror

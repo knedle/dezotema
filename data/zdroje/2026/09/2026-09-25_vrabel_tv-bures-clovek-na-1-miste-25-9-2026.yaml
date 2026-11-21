@@ -10,10 +10,6 @@ zdroj:
   poznamka: Host-stream na kanálu TV Bureš (moderuje Petr Bureš), propagace shromáždění „Člověk na prvním
     místě" 3. 10. V části 32:00–1:09:44 mluví hosté (T. Hrdlička, L. Benovský, Z. Žákovičová, A. Šulc,
     K. Rybářová, L. Křivánková) — jejich tvrzení nezpracována.
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: „Psychopat, který všude chce rozdávat jaderné zbraně"
   prehled:
   - tema: Návrat ze Srbska, perzekuce
     text: „aktivity režimu proti mojí osobě se nezastavily".
@@ -69,6 +65,9 @@ vyroky:
   - osoba: petr-bures
     vztah: pozitivni
     kontext: Moderátor TV Bureš, spojenec, řečník 3. 10.
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Psychopat, který všude chce rozdávat jaderné zbraně"
 - id: vrabel-2026-09-25-04
   typ: tvrzeni
   temata:

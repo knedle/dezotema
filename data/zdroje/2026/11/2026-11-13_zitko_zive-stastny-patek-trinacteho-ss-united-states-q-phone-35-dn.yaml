@@ -13,10 +13,6 @@ zdroj:
     a asi čtvrthodinová reklama na Bewit. Zpracováno 10 témat a 1 nová predikce. Stochastický teror nezapsán,
     hraniční „banda gaunerů a spolupachatelů vražd“ (Prymula, Flegr, Kubek, Hořejší) je bez výzvy. Zpracováno
     podle shrnutí pomocného agenta.
-  osoby:
-  - osoba: milan-kubek
-    vztah: negativni
-    kontext: „Banda gaunerů a spolupachatelů vražd“
 vyroky:
 - id: zitko-2026-11-13-01
   typ: tvrzeni
@@ -36,6 +32,9 @@ vyroky:
     vztah: negativni
     kontext: „Banda gaunerů a spolupachatelů vražd“
   - osoba: jaroslav-flegr
+    vztah: negativni
+    kontext: „Banda gaunerů a spolupachatelů vražd“
+  - osoba: milan-kubek
     vztah: negativni
     kontext: „Banda gaunerů a spolupachatelů vražd“
   - osoba: vaclav-horejsi

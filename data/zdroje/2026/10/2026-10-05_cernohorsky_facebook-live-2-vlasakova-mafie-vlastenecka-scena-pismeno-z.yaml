@@ -12,9 +12,6 @@ zdroj:
   - osoba: varhanova
     vztah: negativni
     kontext: Prý záměrně nabourala Vlasákovou a křivě ji udala policii
-  - osoba: jakub-jasek
-    vztah: pozitivni
-    kontext: „Dnes kamarádi"; udali ho „proukrajinské kurvy od muzea"
 vyroky:
 - id: cernohorsky-2026-10-05-01
   typ: tvrzeni
@@ -44,6 +41,9 @@ vyroky:
   - osoba: petr-vacek
     vztah: rozporuplny
     kontext: Jaška neudal, ale jeho vystoupení bylo „mužské ego"
+  - osoba: jakub-jasek
+    vztah: pozitivni
+    kontext: „Dnes kamarádi"; udali ho „proukrajinské kurvy od muzea"
   podtema: Trestání politického projevu
 - id: cernohorsky-2026-10-05-02
   typ: tvrzeni

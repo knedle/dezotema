@@ -13,9 +13,6 @@ zdroj:
   - osoba: aleksandar-vulin
     vztah: pozitivni
     kontext: Zařazen na Myrotvorec za to, že řekl, že Ukrajina mohla mít mír v roce 2022
-  - osoba: jiri-janecek
-    vztah: neutralni
-    kontext: V březnu 2022 s ním vezl ukrajinské ženy a děti z hranic
   - osoba: friedrich-merz
     vztah: negativni
     kontext: „Šmerc“, drží EU „v šachu“ kvůli 45 mld. eur pro Ukrajinu, minulost v BlackRocku
@@ -71,6 +68,10 @@ vyroky:
     webu Myrotvorec, který podle něj funguje jako „dead list“.'
   citace:
   - text: Nelíbí se mi, že je u nás tolik Ukrajinců, ale nemůžeme je posílat rovnou na smrt.
+  osoby:
+  - osoba: jiri-janecek
+    vztah: neutralni
+    kontext: V březnu 2022 s ním vezl ukrajinské ženy a děti z hranic
 - id: vrabel-2026-11-09-03
   typ: tvrzeni
   temata:

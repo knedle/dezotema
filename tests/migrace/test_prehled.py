@@ -66,3 +66,18 @@ def test_prirad_stranky_vyzaduje_shodu_slov():
     assert H.prirad_stranky([shoda, bez], z, temata) == 1
     assert shoda.vyrok == "v1" and "→ viz" not in shoda.text
     assert bez.vyrok is None and "../politicky-system.md" in bez.text      # odkaz zůstává v textu
+
+
+def test_prirad_stranky_jediny_kmen_nestaci():
+    from tools.archiv.model import PrehledPolozka, Vyrok, Zdroj
+    z = Zdroj(id="z", mluvci="vrabel", kanal="", titul="t", datum=date(2026, 9, 26), url="",
+              prepis="p")
+    z.vyroky = [Vyrok("v5", "tvrzeni", ["politicky-system"], "Policie",
+                      "Německá policie brutálně zasáhla proti demonstrantům."),
+                Vyrok("v6", "tvrzeni", ["politicky-system"], "AI", "Skynet už prý existuje.")]
+    temata = {"politicky-system": object()}
+    demo = PrehledPolozka("Hrušková, Štěpán a Rajchl",
+                          "⚡ Reichel řekl, že demonstrace nemají smysl → viz [P](../politicky-system.md)")
+    sky = PrehledPolozka("Umělá inteligence", "⚡ Skynet je tu → viz [P](../politicky-system.md)")
+    assert H.prirad_stranky([demo, sky], z, temata) == 1
+    assert demo.vyrok is None and sky.vyrok == "v6"      # jediný kmen „demo“ nestačí, celé slovo ano

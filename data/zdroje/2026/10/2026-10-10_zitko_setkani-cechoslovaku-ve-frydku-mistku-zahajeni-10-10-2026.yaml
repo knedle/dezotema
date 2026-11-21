@@ -9,10 +9,6 @@ zdroj:
   rezim: standard
   poznamka: 14 min; soubor datován 11. 10., natočeno při zahájení akce 10. 10. Mluví Pavel Zítko, od [~11:00]
     přednáška „Boba" o ČSR, přepis nesrozumitelný.
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka
 vyroky:
 - id: zitko-2026-10-10-01
   typ: tvrzeni
@@ -25,6 +21,10 @@ vyroky:
     jako prezidenta Spojených států“, zatímco původní byl popraven: „no tak co by to nezkusili s nějakým
     Čermákem“. Totéž vztahuje i na Petra Pavla („ten náš vojtý agent“): na zveřejněné fotografii má být
     vidět „natažená maska“, což prý někdo vysvětluje „rýmou v krční oblasti“.'
+  osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: „Náš vojtý agent“; na fotce má prý „nataženou masku“ — možný dvojník jako u Čermáka
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)
 - id: zitko-2026-10-10-02
   typ: tvrzeni
