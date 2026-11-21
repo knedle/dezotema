@@ -1,0 +1,1 @@
+Větrné elektrárny a plánované akcelerační zóny jsou jedním z nejvíce diskutovaných témat. Sledované osoby se k tématu vyjadřují shodně kriticky — z technických, environmentálních, legislativních i politických hledisek.

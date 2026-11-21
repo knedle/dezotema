@@ -217,22 +217,51 @@ def krok_osoby(stara_wiki, root, mkdocs):
     _kroky_nove().krok_osoby(stara_wiki, root, mkdocs)
 
 
+def krok_souhrny(stara_wiki, root, mkdocs):
+    from tools.archiv.io import nacti_vse
+    from tools.migrace.souhrny import zapis_souhrny
+    _, temata, osoby = nacti_vse(root)
+    r = zapis_souhrny(stara_wiki, root, temata, osoby)
+    print(f"souhrny: {r['temata']} témat, {r['osoby']} osob; prázdný úvod (bez souboru): "
+          f"{r['prazdne']}; chybí stránka: {r['chybi']}")
+
+
+def krok_report(stara_wiki, root, mkdocs):
+    import yaml
+
+    from tools.archiv.index import Archiv
+    from tools.archiv.io import nacti_vse
+    from tools.migrace.report import srovnani
+    zdroje, temata, osoby = nacti_vse(root)
+    pn = root / "data" / "zdroje" / "_nezarazeno.yaml"
+    nez = (yaml.safe_load(pn.read_text(encoding="utf-8")) or {}) if pn.is_file() else {}
+    md = srovnani(Path(stara_wiki), Archiv(zdroje, temata, osoby), nez,
+                  root / "data" / "migrace", {o.slug: o for o in osoby_z_wiki(Path(stara_wiki))})
+    out = root / "data" / "migrace" / "report.md"
+    _s_opakovanim(lambda: out.write_text(md, encoding="utf-8", newline="\n"))
+    print(f"report: {out}")
+
+
 KROKY = {"zdroje": krok_zdroje, "temata": krok_temata, "predikce": krok_predikce,
-         "teror": krok_teror, "prehled": krok_prehled, "osoby": krok_osoby}
+         "teror": krok_teror, "prehled": krok_prehled, "osoby": krok_osoby,
+         "souhrny": krok_souhrny, "report": krok_report}
 
 
 def main(argv=None) -> int:
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
-    ap.add_argument("--krok", required=True, help="čárkou oddělený seznam kroků")
+    ap.add_argument("--krok", help="čárkou oddělený seznam kroků")
+    ap.add_argument("--vse", action="store_true", help="celý řetězec (totéž co vždy proběhne)")
     ap.add_argument("--stara-wiki", default=".superpowers/stara-wiki/wiki")
     ap.add_argument("--root", default=".")
     ap.add_argument("--mkdocs", default=None, help="výchozí <root>/mkdocs.yml")
     a = ap.parse_args(argv)
     root = Path(a.root)
     mkdocs = Path(a.mkdocs) if a.mkdocs else root / "mkdocs.yml"
-    zadane = a.krok.split(",")
+    if not a.krok and not a.vse:
+        ap.error("zadej --krok nebo --vse")
+    zadane = list(KROKY) if a.vse or not a.krok else a.krok.split(",")
     for krok in zadane:
         if krok not in KROKY:
             print(f"neznámý krok: {krok}", file=sys.stderr)

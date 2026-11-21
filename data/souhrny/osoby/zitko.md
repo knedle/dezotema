@@ -1,0 +1,1 @@
+> Poznámka: Zpracované přepisy zahrnují víkendovou akci v Soběšovicích (27.–29. 3. 2026), přednáškovou COVID tour (duben–květen 2026) a besedy s Pekovou (Zlaté Moravce 14. 5. 2026). Část záznamů z 1. 4. 2026 jsou záznamy 28. 3. 2026 setkání rozdělené na část 1 (přednáška) a část 2 (Q&A).
