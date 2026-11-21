@@ -13,13 +13,7 @@ jednotky:
   duvod: kopie sekce bez zdroje s odlišným textem; téma připojeno k výroku cernohorsky-2026-04-06-01
 predikce: []
 teror: []
-prehled:
-- datum: '2026-11-10'
-  titul: Zprávy v devět
-  radek: '### Facebook Live (odpoledne)'
-- datum: '2026-11-09'
-  titul: Zprávy v devět
-  radek: '### Facebook Live (odpoledne)'
+prehled: []
 zminky:
 - osoba: Petr Pavel
   vztah: negativni
