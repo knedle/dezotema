@@ -192,13 +192,19 @@ vyroky:
   temata:
   - konspirace-deep-state-qanon
   nadpis: „covidoví lékaři“, Melissa Moore; migranti; Ukrajinci; Patrik Tušl, Renata Bernardy
-  text: 'Terč: „covidoví lékaři“, Melissa Moore; migranti; Ukrajinci; Patrik Tušl, Renata Bernardy.'
+  text: 'Souhlasné líčení údajných poprav … a technoložky Moderny Melissy Moore (…); o těch, kdo by stříkali
+    chemtrails: …; obhajoba výroku …; migranti … s výzvou k deportaci, Ukrajinci …; Tušl …, …, Bernardy
+    … — hraniční (bez přímé výzvy ke konkrétnímu násilí)'
   citace:
-  - text: 'Souhlasné líčení údajných poprav „covidových lékařů, který píchali do lidí injekce“ a technoložky
-      Moderny Melissy Moore („140 kilo“); o těch, kdo by stříkali chemtrails: „toho by zastřelili“; obhajoba
-      výroku „vezmeme je za držky a hodíme je do řeky“; migranti „hordy“ s výzvou k deportaci, Ukrajinci
-      „fašouni“; Tušl „zmrd“, „kripl“, Bernardy „kanál zla“ — hraniční (bez přímé výzvy ke konkrétnímu
-      násilí)'
+  - text: covidových lékařů, který píchali do lidí injekce
+  - text: 140 kilo
+  - text: toho by zastřelili
+  - text: vezmeme je za držky a hodíme je do řeky
+  - text: hordy
+  - text: fašouni
+  - text: zmrd
+  - text: kripl
+  - text: kanál zla
   osoby:
   - osoba: melissa-moore
     vztah: negativni

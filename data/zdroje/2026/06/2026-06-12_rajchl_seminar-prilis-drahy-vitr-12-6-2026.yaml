@@ -13,10 +13,6 @@ zdroj:
     (Trump/USA, Španělsko blackout, Francie moratorium + soud Montpellier); řešení jádro 4. generace +
     fúze + energetický mix, „elektřina je ropa příštích 30 let". Úvodní projev Rajchla na sněmovním semináři
     „Příliš drahý vítr – co vše se skrývá za projekty VTE a FVE"
-  osoby:
-  - osoba: jana-zveretek-hamplova
-    vztah: neutralni
-    kontext: Odpoledne na semináři měla radit, jak se administrativně bránit akceleračním zónám
 vyroky:
 - id: rajchl-2026-06-12-01
   typ: tvrzeni
@@ -54,9 +50,9 @@ vyroky:
   - osoba: ivan-novesky
     vztah: neutralni
     kontext: Přejímá jeho termín „občasné zdroje" (místo „obnovitelné") pro vítr a slunce
-  - osoba: rajchl
-    vztah: pozitivni
-    kontext: Na svém kanálu sdílela jeho projev proti větrníkům (seminář „Příliš drahý vítr")
+  - osoba: jana-zveretek-hamplova
+    vztah: neutralni
+    kontext: Odpoledne na semináři měla radit, jak se administrativně bránit akceleračním zónám
   podtema: Větrné akcelerační zóny v ČR (2026)
 - id: rajchl-2026-06-12-04
   typ: tvrzeni

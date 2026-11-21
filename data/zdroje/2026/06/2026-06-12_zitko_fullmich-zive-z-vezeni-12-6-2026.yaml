@@ -73,10 +73,13 @@ vyroky:
   temata:
   - kauzy
   nadpis: „všichni odpovědní za covid" / „šmejdy"
-  text: opakovaná výzva k tribunálu za „genocidu" + dehumanizace politiků („šmejdy", „zmrdi")
+  text: opakovaná výzva k tribunálu za … + dehumanizace politiků (…, …)
   citace:
   - text: A to genocida v Německu, tak i tady […] všichni odpovědní budou stát před vojenským tribunálem
       a budou se zodpovídat z toho, co dělali
+  - text: genocidu
+  - text: šmejdy
+  - text: zmrdi
   teror:
     terc: „všichni odpovědní za covid" / „šmejdy"
     hranicni: false

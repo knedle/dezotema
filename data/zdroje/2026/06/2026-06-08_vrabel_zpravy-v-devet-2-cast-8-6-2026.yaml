@@ -103,11 +103,6 @@ vyroky:
     dohodnout a podepsat podmínky míru, teprve pak mír. Skupinu lídrů ironicky označuje za „klasickou
     partu kokainovou" a jejich prohlášení za „úplně zbytečné". Navazuje na [Zelenského otevřený dopis
     Putinovi (5. 6.)](#zelenského-otevřený-dopis-putinovi--putin-odmítá-příměří-před-vyjednáváním-vrabel-5-6-2026).'
-  osoby:
-  - osoba: vladimir-putin
-    vztah: pozitivni
-    kontext: „Velmi rozumný politik"; ale pod tlakem Moskvy, která ho má za „slabého" a žádá tvrdý protiútok
-      na NATO/Evropu
   podtema: Vyjednávání a mír
 - id: vrabel-2026-06-08-12
   typ: tvrzeni
@@ -143,6 +138,11 @@ vyroky:
     na [Predikce: Rusko zaútočí na Evropu v létě 2026](#predikce-rusko-zaútočí-na-evropu-v-létě-2026--vrabel).'
   citace:
   - text: '...může se stát i to, že bude zautočeno na nějakou menší zemi, třeba na Českou republiku.'
+  osoby:
+  - osoba: vladimir-putin
+    vztah: pozitivni
+    kontext: „Velmi rozumný politik"; ale pod tlakem Moskvy, která ho má za „slabého" a žádá tvrdý protiútok
+      na NATO/Evropu
   podtema: Eskalace a hrozba rozšíření konfliktu
 - id: vrabel-2026-06-08-14
   typ: tvrzeni

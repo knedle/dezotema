@@ -93,6 +93,11 @@ vyroky:
     malé a střední podnikání, opačně než sliby z let 1989–1990 o rovné startovní čáře pro všechny (cituje
     novinářku Janu Lorencovou). Připomíná také Babišovy dřívější výroky o „zlodějských hospodských" jako
     osobní motivaci, proč sám s gastronomickým podnikáním skončil.'
+  osoby:
+  - osoba: andrej-babis
+    vztah: negativni
+    kontext: Odklad valorizace důchodů na +150 Kč; Vrabel navrhuje satirický „program" znárodnění jeho
+      majetku a rozdání důchodcům
   podtema: EET 2.0 — likvidace malého podnikání
 - id: vrabel-2026-07-15-04
   typ: tvrzeni
@@ -156,11 +161,6 @@ vyroky:
     důchodce (cca 50 000 Kč na osobu) — přičemž bezprostředně poznámku o tom, že by senioři měli jít „umlátit
     Andreje prázdnými hadrovými taškami", výslovně stahuje jako satiru a odkazuje na trestní stíhání Tomáše
     Čermáka (5,5 roku vězení) za obdobně formulovanou výzvu (viz [stochasticky-teror.md](stochasticky-teror.md)).'
-  osoby:
-  - osoba: andrej-babis
-    vztah: negativni
-    kontext: Odklad valorizace důchodů na +150 Kč; Vrabel navrhuje satirický „program" znárodnění jeho
-      majetku a rozdání důchodcům
   podtema: Sociální politika — senioři
 - id: vrabel-2026-07-15-08
   typ: tvrzeni
@@ -347,13 +347,14 @@ vyroky:
   temata:
   - blizky-vychod
   nadpis: Donald Trump
-  text: pojmenovaný terč, dehumanizace („lidská zrůda") + fantazie o zbavení svobody a nuceném ponižujícím
-    trestu na doživotí, v reakci na Trumpovo prohlášení, že jediný účinný způsob komunikace s Íránem je
-    vojenská síla
+  text: pojmenovaný terč, dehumanizace (…) + fantazie o zbavení svobody a nuceném ponižujícím trestu na
+    doživotí, v reakci na Trumpovo prohlášení, že jediný účinný způsob komunikace s Íránem je vojenská
+    síla
   citace:
   - text: Zabavil bych Donalda Trumpa a zavřel bych ho [...] dal bych mu těžkou kouli na každou nohu a
       nechal bych ho zametat tam, kde jsou ty bezdomovci na ulicích [...] do konce života. Za to, co to
       je za lidskou zrůdu.
+  - text: lidská zrůda
   osoby:
   - osoba: donald-trump
     vztah: negativni
@@ -368,11 +369,12 @@ vyroky:
   - politicky-system
   nadpis: Andrej Babiš
   text: jmenovaný terč + obraz fyzického napadení, adresovaný důchodcům rozzlobeným kvůli odložené valorizaci;
-    Vrabel bezprostředně dodává disclaimer („nevyzývám tady k žádnému násilí, to je samozřejmě absurdní
-    představa... to je satira"), s výslovným odkazem na trestní stíhání Tomáše Čermáka za obdobný výrok
-    — popiratelnost formulována explicitně, výrok přesto zaznamenán podle pravidla vždy extrahovat
+    Vrabel bezprostředně dodává disclaimer (…), s výslovným odkazem na trestní stíhání Tomáše Čermáka
+    za obdobný výrok — popiratelnost formulována explicitně, výrok přesto zaznamenán podle pravidla vždy
+    extrahovat
   citace:
   - text: normálně dojít do strakovky a normálně umlátit Andreje těma prázdnýma hadrovýma taškama
+  - text: nevyzývám tady k žádnému násilí, to je samozřejmě absurdní představa... to je satira
   teror:
     terc: Andrej Babiš
     hranicni: false

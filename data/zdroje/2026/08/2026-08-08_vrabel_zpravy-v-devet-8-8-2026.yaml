@@ -37,6 +37,11 @@ zdroj:
     text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
   - tema: Zelenskyj v Bělehradu — oprava médií + kritika Vučičovy právní nekonzistence
     text: → [Válka, NATO a Rusko](../valka-nato-rusko.md)
+  - tema: Predikce
+    text: '[Rusko vyhraje s „95% pravděpodobností"](../predikce.md#ladislav-vrabel--rusko-vyhraje-válku-na-ukrajině-s-95-pravděpodobností-8-8-2026)'
+    vyrok: vrabel-2026-08-08-10
+  - tema: Stochastický teror
+    text: '[Nawrocki — riziko „potrestání" Ruskem](../stochasticky-teror.md)'
 vyroky:
 - id: vrabel-2026-08-08-01
   typ: tvrzeni
@@ -178,11 +183,12 @@ vyroky:
   temata:
   - valka-nato-rusko
   nadpis: Karol Nawrocki (polský prezident)
-  text: jmenovaný terč, dehumanizace přirovnáním k nacistům („ty největší nacisty, kteří šířili proti
-    ruskou nenávist"), předjímání a implicitní schvalování retribuce ze strany Ruska po skončení války
+  text: jmenovaný terč, dehumanizace přirovnáním k nacistům (…), předjímání a implicitní schvalování retribuce
+    ze strany Ruska po skončení války
   citace:
   - text: Tak se mu klidně může stát, že rusové můžou třeba po skončení té války si tyhle lidi vyhledat
       a třeba si je odsoudit. A můžou je i potrestat.
+  - text: ty největší nacisty, kteří šířili proti ruskou nenávist
   teror:
     terc: Karol Nawrocki (polský prezident)
     hranicni: false

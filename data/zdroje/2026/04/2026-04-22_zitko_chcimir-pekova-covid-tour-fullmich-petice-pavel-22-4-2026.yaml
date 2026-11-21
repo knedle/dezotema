@@ -14,10 +14,6 @@ zdroj:
   osoby:
   - osoba: petr-pavel
     vztah: negativni
-    kontext: 'Jeho právník odmítl žádost o audienci; Peková považuje odmítnutí za signál: „mají prezidenta,
-      ke kterému se nedá dostat"'
-  - osoba: petr-pavel
-    vztah: negativni
     kontext: Jeho právník odmítl Pekovou s tím, že „vidí trávu růst" — Peková plánuje audience přesto,
       přes Pavlovo ignorování
 vyroky:
@@ -39,9 +35,6 @@ vyroky:
 
     Plánuje osobní audienci u Petra Pavla. Prezidentův právník ji mezitím kontaktoval a sdělil, že vidí „trávu růst" a ať se „zpamatuje". Peková reaguje: „Já jsem se neptala právníka, ptala jsem se prezidenta." Pokud ji odmítne přijmout, považuje i to za zprávu: „Mají prezidenta, ke kterému se nedá dostat."
   osoby:
-  - osoba: zitko
-    vztah: pozitivni
-    kontext: Organizátor COVID tour, hostitel přenosů; Peková mu důvěřuje jako platformě
   - osoba: reiner-fullmich
     vztah: pozitivni
     kontext: 'Peková mu píše do vězení; narozeniny 5. 5. (75 let); napsal Pekové: „Pozdravujte krajany,

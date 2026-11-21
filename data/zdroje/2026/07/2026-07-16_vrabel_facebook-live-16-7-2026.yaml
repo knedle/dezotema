@@ -173,6 +173,11 @@ vyroky:
     celků — což podle Vrabela vysvětluje, proč se íránský stát nerozpadl ani po zabití vrcholných představitelů,
     zatímco západní systém je postaven na jednotlivcích a bez nich by se zhroutil. Zdůrazňuje, že tím
     nechce upřednostňovat íránský režim, jen poukazuje na strukturální rozdíl.'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Odvolal oblíbeného ministra obrany Fedorova, aby si udržel kontrolu — dehumanizován spolu
+      s Fedorovem a Syrským přáním pekelného utrpení (→ [stoch. teror](../stochasticky-teror.md))
   podtema: Represe a policejní brutalita na Západě
 - id: vrabel-2026-07-16-08
   typ: tvrzeni
@@ -229,11 +234,6 @@ vyroky:
   - text: Bohužel další člověk, o kterýho prostě planeta přišla. [...] i Fedorov, i Zelenský, který jsou
       i sirský, který to má pod kontrolou, tohle jsou zodpovědní za tohle. A v pekle už. [...] Vaří se
       hrnce s vodou, tam už se rovnou roztápí železní plotny a ty se tam budou nekonečně grillovat.
-  osoby:
-  - osoba: volodymyr-zelenskyj
-    vztah: negativni
-    kontext: Odvolal oblíbeného ministra obrany Fedorova, aby si udržel kontrolu — dehumanizován spolu
-      s Fedorovem a Syrským přáním pekelného utrpení (→ [stoch. teror](../stochasticky-teror.md))
   teror:
     terc: Volodymyr Zelenský, Michailo Fedorov, Oleksandr Syrskyj
     hranicni: false
@@ -255,12 +255,13 @@ vyroky:
   - kauzy
   nadpis: novináři šířící „mediální lynč" (např. Reichelt, Harabová — jmenovaní v souvislosti s kauzou
     Foldina)
-  text: kolektivní terč (novináři podílející se na politických „lynčích") + fantazie trestu smrti nebo
-    nuceného ponižujícího potrestání; formulováno jako hypotetický budoucí zákon, ne okamžitá výzva
+  text: kolektivní terč (novináři podílející se na politických …) + fantazie trestu smrti nebo nuceného
+    ponižujícího potrestání; formulováno jako hypotetický budoucí zákon, ne okamžitá výzva
   citace:
   - text: Ty novináři by měli jít ke zdi. [...] nezávislý soud by musel [...] odsoudit ty novináře k trestu
       smrky [smrti] třeba. [...] kdybych to myslel vážně, tak bych jim dal prostě po patnácti letech v
       oranžovém munduru zametat silnice
+  - text: lynčích
   teror:
     terc: novináři šířící „mediální lynč" (např. Reichelt, Harabová — jmenovaní v souvislosti s kauzou
       Foldina)

@@ -124,9 +124,10 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Meeting Brno
-  text: legitimizace popravy, lítost, že „dnes to nejde"
+  text: legitimizace popravy, lítost, že …
   citace:
   - text: to jsou kolaboranti [...] vlastizrádci. A ty se za jisté doby stříleli. Bohužel dneska to nejde.
+  - text: dnes to nejde
   teror:
     terc: Meeting Brno
     hranicni: false
@@ -153,8 +154,8 @@ vyroky:
   nadpis: Boris Šťastný a Motoristé; zakladatel TV Česko
   text: výhrůžky fyzickým napadením
   citace:
-  - text: Prostě po tlamě [...] po rypáku potřebujete, vy hajzlové" / „kdyby stál vedle mě, tak mu dám
-      po tlamě
+  - text: Prostě po tlamě [...] po rypáku potřebujete, vy hajzlové
+  - text: kdyby stál vedle mě, tak mu dám po tlamě
   teror:
     terc: Boris Šťastný a Motoristé; zakladatel TV Česko
     hranicni: false

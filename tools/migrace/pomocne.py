@@ -82,6 +82,10 @@ def vyber_temata_globalne(zdroje: list[Zdroj], mluvci: str, text: str) -> list[s
     return [Counter(t for v in kand for t in v.temata).most_common(1)[0][0]]
 
 
+# varianty přepisu téhož jména -> jeden slug
+SLOUCENI_SLUGU = {"valerij-zaluznyj": "valerij-zaluzny"}
+
+
 def zajisti_osobu(text: str, osoby: dict[str, Osoba], idx: dict[str, str],
                   max_slov: int = 3) -> str | None:
     """Slug osoby z jména; neznámá se doplní do číselníku (vlastni_stranka=False)."""
@@ -103,9 +107,13 @@ def zajisti_osobu(text: str, osoby: dict[str, Osoba], idx: dict[str, str],
     slug = ascii_slug(jm)
     if not slug:
         return None
+    idx.setdefault(slug, slug)
+    slug = SLOUCENI_SLUGU.get(slug, slug)        # varianty přepisu téhož jména
     if slug not in osoby:
         osoby[slug] = Osoba(slug=slug, jmeno=jm, popis=popis)
-    idx.setdefault(slug, slug)
+    elif jm != osoby[slug].jmeno and jm not in osoby[slug].aliasy:
+        osoby[slug].aliasy.append(jm)
+    idx[ascii_slug(jm)] = slug
     return slug
 
 

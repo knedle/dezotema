@@ -67,10 +67,9 @@ vyroky:
   temata:
   - benesovy-dekrety
   nadpis: Miloš Vystrčil
-  text: 'Terč: Miloš Vystrčil.'
+  text: Email s předmětem … zaslaný předsedovi Senátu — veřejně přiznal a obhajoval v přímém přenosu
   citace:
-  - text: Email s předmětem „nacistická kurvo" zaslaný předsedovi Senátu — veřejně přiznal a obhajoval
-      v přímém přenosu
+  - text: nacistická kurvo
   teror:
     terc: Miloš Vystrčil
     hranicni: false

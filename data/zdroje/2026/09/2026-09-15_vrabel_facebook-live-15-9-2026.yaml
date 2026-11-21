@@ -86,11 +86,13 @@ vyroky:
   temata:
   - konspirace
   nadpis: „chazarská židovská elita"
-  text: jmenovaný terč (antisemitský konspirační topos „chazarská elita") kolektivně dehumanizován označením
-    „chátra" v rámci teze, že tato skupina řídí válku proti Rusku
+  text: jmenovaný terč (antisemitský konspirační topos …) kolektivně dehumanizován označením … v rámci
+    teze, že tato skupina řídí válku proti Rusku
   citace:
   - text: Pořád pro tu chazarskou židovskou elitu dobít Rusko. To je cílem. [...] A podcenují tu chazarskou
       chátru.
+  - text: chazarská elita
+  - text: chátra
   teror:
     terc: „chazarská židovská elita"
     hranicni: false

@@ -127,7 +127,6 @@ vyroky:
   predikce:
     horizont: do ~18. 10. 2026; zima 2026/27
     stav: vyvraceno
-    horizont_do: 2026-10-18
     vyhodnoceni:
     - datum: 2026-11-20
       text: (rozsudek do 15 dnů) — rozsudek do ~18. 10. nepadl; část o zdražení ropy v zimě čeká

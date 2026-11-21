@@ -7,6 +7,11 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/2093330607992312
   prepis: prepisy/done/2026-09-04_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: marta-kos
+    vztah: negativni
+    kontext: Eurokomisařka pro rozšíření — zrušila návštěvu Bělehradu kvůli glorifikaci Mladiće; její
+      vyjádření Vučić označil za „hloupé"
   prehled:
   - tema: EZ Karta jako nová verze digitálního "covidového pasu", spojení s Palantirem, AI nezaměstnaností
       a nepodmíněným příjmem
@@ -183,10 +188,6 @@ vyroky:
     kterou popisuje jako „peklo" a jako poslední skutečně neutrální a svobodnou zemi v Unii — na rozdíl
     od ČR, kde policie prošetřuje i pouhé komentáře k Mladičovu úmrtí (viz [Panenka, 29. 8.](#smrt-radko-mladiće--revizionistický-výklad-srebrenice-joe-biden-jako-strůjce-bosenské-války-vrabel-27-8-2026)).'
   osoby:
-  - osoba: marta-kos
-    vztah: negativni
-    kontext: Eurokomisařka pro rozšíření — zrušila návštěvu Bělehradu kvůli glorifikaci Mladiće; její
-      vyjádření Vučić označil za „hloupé"
   - osoba: aleksandar-vucic
     vztah: pozitivni
     kontext: Obhájil plánovaný státní pohřeb Radka Mladiće a odmítl kritiku Marty Kos
@@ -231,7 +232,6 @@ vyroky:
   predikce:
     horizont: nejbližší týdny (víkendová jednání, 4.–7. 9. 2026)
     stav: potvrzeno
-    horizont_do: 2026-09-07
     vyhodnoceni:
     - datum: 2026-11-20
       text: zářijová jednání k míru nevedla a dohoda nevznikla ani do 20. 11.

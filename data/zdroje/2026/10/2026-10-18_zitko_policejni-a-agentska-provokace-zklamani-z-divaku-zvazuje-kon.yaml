@@ -12,6 +12,9 @@ zdroj:
   - osoba: vaclav-rada
     vztah: negativni
     kontext: Ironicky „Čistý“; diváci mu mají napsat, co si o něm myslí
+  - osoba: vrabel
+    vztah: negativni
+    kontext: Ironicky „zabodaný“
 vyroky:
 - id: zitko-2026-10-18-02
   typ: tvrzeni
@@ -43,7 +46,4 @@ vyroky:
   - osoba: rajchl
     vztah: negativni
     kontext: Ironicky „budoucí pan premiér“, kterého „všichni obdivují“
-  - osoba: vrabel
-    vztah: negativni
-    kontext: Ironicky „zabodaný“
   podtema: TV debata Rajchl vs. Grolich — zemědělské dotace a cena elektřiny (29. 7. 2026)

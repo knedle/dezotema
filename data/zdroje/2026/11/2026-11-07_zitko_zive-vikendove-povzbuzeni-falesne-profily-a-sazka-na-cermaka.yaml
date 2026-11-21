@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   poznamka: 1 h 20 min, vysílání 11:11; většinu tvoří předčítání cizích příspěvků (Assange, Hana Hana,
     Sofie Esmeralda, Míša Nogová) se Zítkovými vsuvkami; zpracováno podle shrnutí pomocného agenta.
+  osoby:
+  - osoba: konstantin-stanek
+    vztah: negativni
+    kontext: Možný správce falešného profilu, „člen gengu“
 vyroky:
 - id: zitko-2026-11-07-01
   typ: tvrzeni
@@ -42,9 +46,6 @@ vyroky:
   citace:
   - text: Kdy dva hologramy letadel sundaly 11. září tři baráky v New Yorku.
   osoby:
-  - osoba: konstantin-stanek
-    vztah: negativni
-    kontext: Možný správce falešného profilu, „člen gengu“
   - osoba: julian-assange
     vztah: pozitivni
     kontext: Chce odhalit „operativce z Obamovy éry“
@@ -103,11 +104,12 @@ vyroky:
   temata:
   - media-propaganda
   nadpis: „židovští miliardáři“, „satanisti“; politici a celebrity; okolí Mikuláše Mináře
-  text: 'Terč: „židovští miliardáři“, „satanisti“; politici a celebrity; okolí Mikuláše Mináře.'
+  text: 'Souhlasně čte: …; o politicích …; … — hraniční (antisemitské rámování a dehumanizace bez výzvy)'
   citace:
-  - text: 'Souhlasně čte: „Na čele nejsou demokrati, nejsou tam židovští miliardáři… nejsou tam satanisti,
-      který dřív řídili celou show“; o politicích „noháři, zloději, herci, tránsky, loutky a satanistické
-      rituály“; „hnědokošiláči okolo Mináře“ — hraniční (antisemitské rámování a dehumanizace bez výzvy)'
+  - text: Na čele nejsou demokrati, nejsou tam židovští miliardáři… nejsou tam satanisti, který dřív řídili
+      celou show
+  - text: noháři, zloději, herci, tránsky, loutky a satanistické rituály
+  - text: hnědokošiláči okolo Mináře
   teror:
     terc: „židovští miliardáři“, „satanisti“; politici a celebrity; okolí Mikuláše Mináře
     hranicni: true

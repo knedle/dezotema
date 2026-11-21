@@ -63,6 +63,9 @@ vyroky:
   - osoba: kamil-vlasak
     vztah: negativni
     kontext: „Zmrd“, „narcis“, „psychopat“, který ji kopal do hlavy
+  - osoba: varhanova
+    vztah: negativni
+    kontext: „Mrcha“, „svině“, úmyslně do Vlasákové narazila
   - osoba: linhartova
     vztah: negativni
     kontext: Vyslýchala dceru Vlasákové bez vědomí matky
@@ -117,15 +120,14 @@ vyroky:
   temata:
   - rodina-deti
   nadpis: Varhanová, Kamil Vlasák (soukromé osoby v kauze Vlasáková)
-  text: 'Terč: Varhanová, Kamil Vlasák (soukromé osoby v kauze Vlasáková).'
+  text: Varhanová …, …, …; Vlasák …, … — jmenované soukromé osoby + vulgární dehumanizace před publikem
+    (bez výzvy k násilí; ohlašuje trestní oznámení)
   citace:
-  - text: Varhanová „mrcha“, „svině“, „kunda“; Vlasák „zmrd“, „psychopat, který je schopen kopat ženu
-      do hlavy“ — jmenované soukromé osoby + vulgární dehumanizace před publikem (bez výzvy k násilí;
-      ohlašuje trestní oznámení)
-  osoby:
-  - osoba: varhanova
-    vztah: negativni
-    kontext: „Mrcha“, „svině“, úmyslně do Vlasákové narazila
+  - text: mrcha
+  - text: svině
+  - text: kunda
+  - text: zmrd
+  - text: psychopat, který je schopen kopat ženu do hlavy
   teror:
     terc: Varhanová, Kamil Vlasák (soukromé osoby v kauze Vlasáková)
     hranicni: false

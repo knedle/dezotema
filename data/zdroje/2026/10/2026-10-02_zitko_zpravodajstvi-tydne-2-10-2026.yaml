@@ -97,11 +97,12 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: Jaroslav Flegr
-  text: předpověď/legitimizace násilí jiných vůči jmenovanému + dehumanizace
+  text: + …, … — předpověď/legitimizace násilí jiných vůči jmenovanému + dehumanizace
   citace:
   - text: Nenapadnul jsem ho, nezmlátil jsem ho, to udělá někdo jinej, až na to přijdou [...] že jejich
-      dítě [...] zemřel kvůli injekci [...] tak to udělají jiní." + „zrůdička", „spolupachatel masových
-      vražd a genocidy národa
+      dítě [...] zemřel kvůli injekci [...] tak to udělají jiní.
+  - text: zrůdička
+  - text: spolupachatel masových vražd a genocidy národa
   teror:
     terc: Jaroslav Flegr
     hranicni: false

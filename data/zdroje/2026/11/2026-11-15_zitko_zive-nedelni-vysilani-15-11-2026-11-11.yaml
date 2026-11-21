@@ -15,6 +15,9 @@ zdroj:
     tribunálů bez konkrétního terče). Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny
     v přepisu.'
   osoby:
+  - osoba: pavel-blazek
+    vztah: negativni
+    kontext: „Kmotr“ bitcoinové kauzy, nesedí
   - osoba: suchomel
     vztah: rozporuplny
     kontext: Kritik, ale Zítko mu „drží palce“
@@ -135,10 +138,6 @@ vyroky:
     a „88 milionů z Ameriky od administrativy fake prezidenta, dvojníka Bidena“. Proto má lidem vrátit
     „neoprávněně zkasírované“ poplatky a pozůstalým a poškozeným platit odškodné. Kdo poplatky ještě platí,
     je podle něj „blázen“.'
-  osoby:
-  - osoba: pavel-blazek
-    vztah: negativni
-    kontext: „Kmotr“ bitcoinové kauzy, nesedí
   podtema: Nová alternativní média
 - id: zitko-2026-11-15-08
   typ: predikce

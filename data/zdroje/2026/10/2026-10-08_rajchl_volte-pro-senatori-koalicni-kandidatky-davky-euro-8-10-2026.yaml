@@ -7,6 +7,10 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/39495110670074120
   prepis: prepisy/done/2026-10-08_Jindřich-Rajchl_Pojďte-do-toho-zítra-s-námi-a-volte-PRO.txt
   rezim: standard
+  osoby:
+  - osoba: martin-gara
+    vztah: pozitivni
+    kontext: „Úžasný chlap“, lídr PRO v Havířově
 vyroky:
 - id: rajchl-2026-10-08-01
   typ: tvrzeni
@@ -16,10 +20,6 @@ vyroky:
   text: '**8. 10.** — Rajchl uvádí další případ: 33letá Ukrajinka měla stát obrat na humanitárních dávkách
     o 750 tisíc Kč. Garantuje, že jde jen o „špičku ledovce“: lidé podle něj deklarují pobyt v ČR, ale
     žijí na Ukrajině a z posílaných peněz „si královsky luxusně žijí“.'
-  osoby:
-  - osoba: martin-gara
-    vztah: pozitivni
-    kontext: „Úžasný chlap“, lídr PRO v Havířově
 - id: rajchl-2026-10-08-02
   typ: tvrzeni
   temata:

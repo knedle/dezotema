@@ -9,6 +9,9 @@ zdroj:
   rezim: standard
   poznamka: 1 h 48 min, navazuje na přerušené vysílání o kauze Vlasáková.
   osoby:
+  - osoba: varhanova
+    vztah: negativni
+    kontext: Prý záměrně nabourala Vlasákovou a křivě ji udala policii
   - osoba: jakub-jasek
     vztah: pozitivni
     kontext: „Dnes kamarádi"; udali ho „proukrajinské kurvy od muzea"
@@ -147,10 +150,6 @@ vyroky:
     než 37 let vlády politiků. Lidé podle něj „ve většině nejsou hloupí" a při skutečné možnosti volby
     by si „další a další zmrdy" nezvolili. Vysílání ale končí pesimisticky: cituje příspěvek, že až budou
     Češi „znova narváni do dobytčáků", budou se hádat, „kdo bude u okna" — „tohle je tenhle národ".'
-  osoby:
-  - osoba: katerina-konecna
-    vztah: pozitivni
-    kontext: Jako jedna z mála upozorňovala na Donbas
   podtema: USA — volební systém
 - id: cernohorsky-2026-10-05-08
   typ: tvrzeni
@@ -176,9 +175,6 @@ vyroky:
   - osoba: tereza-vlasakova
     vztah: pozitivni
     kontext: Hájí ji jako oběť „mafie"; „paní Kolombová"; chystá s ní seriál
-  - osoba: varhanova
-    vztah: negativni
-    kontext: Prý záměrně nabourala Vlasákovou a křivě ji udala policii
   - osoba: vlasak-a-varhan
     vztah: negativni
     kontext: „Dva zmrdi", kteří ji chtějí připravit o děti a domy
@@ -207,6 +203,9 @@ vyroky:
   - osoba: petr-macinka
     vztah: negativni
     kontext: „Rusobijce", „kde jste byl 8 let"
+  - osoba: katerina-konecna
+    vztah: pozitivni
+    kontext: Jako jedna z mála upozorňovala na Donbas
   - osoba: josef-skala
     vztah: pozitivni
     kontext: Upozorňoval na Donbas od 2016–2017
@@ -221,10 +220,11 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Zbyněk Stanjura
-  text: jmenovaný terč + dehumanizace („svině") + implicitní výzva k uvěznění; navazuje na opakované výzvy
-    k trestu (28. 8., 15. 9.)
+  text: jmenovaný terč + dehumanizace (…) + implicitní výzva k uvěznění; navazuje na opakované výzvy k
+    trestu (28. 8., 15. 9.)
   citace:
   - text: Jak je možný, že Staňura je na svobodě? Vždyť ta svině, kurva, čtyři roky falšovala státní rozpočet.
+  - text: svině
   teror:
     terc: Zbyněk Stanjura
     hranicni: false
@@ -233,11 +233,12 @@ vyroky:
   temata:
   - media-propaganda
   nadpis: moderátoři/zaměstnanci Facebooku
-  text: skupinový terč („ti čuráci z Facebooku", kteří mu vybírají náhledové fotky a podle něj přerušují
-    vysílání) + přání fyzického násilí
+  text: skupinový terč (…, kteří mu vybírají náhledové fotky a podle něj přerušují vysílání) + přání fyzického
+    násilí
   citace:
   - text: Oni jednou dostanou po rypáku. Jim někdo jednou rozbije bejsbolkou tu jejich skurvenou palici.
       Oni na to dojedou.
+  - text: ti čuráci z Facebooku
   teror:
     terc: moderátoři/zaměstnanci Facebooku
     hranicni: false

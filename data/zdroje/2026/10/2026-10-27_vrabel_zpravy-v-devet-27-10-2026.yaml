@@ -9,6 +9,9 @@ zdroj:
   rezim: vrabel
   poznamka: 1 h 37 min, zprávy čte Zuzana; krátký srbský klip (28:14–29:06) nezpracován.
   osoby:
+  - osoba: studentske-hnuti
+    vztah: pozitivni
+    kontext: „Možná bude dobré“, nenásilná revoluce podle jeho plánu (posun od skepse)
   - osoba: vladimir-putin
     vztah: pozitivni
     kontext: Vždy klidný, má „vnitřní sílu“
@@ -146,10 +149,6 @@ vyroky:
     porážky dává za vzor: „takhle to má být“.'
   citace:
   - text: Oni skutečně udělali nenásilnou revoluci, to, co my jsme chtěli.
-  osoby:
-  - osoba: studentske-hnuti
-    vztah: pozitivni
-    kontext: „Možná bude dobré“, nenásilná revoluce podle jeho plánu (posun od skepse)
   podtema: Česká suverenita
 - id: vrabel-2026-10-27-05
   typ: tvrzeni
@@ -192,7 +191,6 @@ vyroky:
   predikce:
     horizont: výsledek voleb 27.–28. 10. 2026
     stav: castecne
-    horizont_do: 2026-10-28
     vyhodnoceni:
     - datum: 2026-11-20
       text: Netanjahuův blok ve volbách 27. 10. ztratil většinu (53 mandátů proti 48 opozice), zůstal

@@ -58,6 +58,9 @@ zdroj:
   - tema: Bašár Asad odsouzen k smrti v nepřítomnosti + nový syrský
     text: Bašár Asad odsouzen k smrti v nepřítomnosti + nový syrský prezident al-Šaraa jako bývalý velitel
       al-Nusry — nezpracováno
+  - tema: Predikce
+    text: '[Hormuz — otevření do 13.–14. 8.](../predikce.md#ladislav-vrabel--trump-do-čtvrtkapátku-oznámí-otevření-hormuzu-cena-ropy-pak-klesne-11-8-2026)'
+    vyrok: vrabel-2026-08-11-05
 vyroky:
 - id: vrabel-2026-08-11-01
   typ: tvrzeni
@@ -131,7 +134,6 @@ vyroky:
   predikce:
     horizont: do 13.–14. 8. 2026
     stav: vyvraceno
-    horizont_do: 2026-08-14
     vyhodnoceni:
     - datum: 2026-11-20
       text: Trump otevření Hormuzu neoznámil, průliv prohlásil za území pod kontrolou USA a zůstal z velké

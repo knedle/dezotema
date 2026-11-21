@@ -147,9 +147,6 @@ vyroky:
     nacismem jako Chorvati v 90. letech; v Bosně podle něj „rozehrál válku Joe Biden“ (81 mil. dolarů
     na samopaly pro bosenské muslimy).'
   osoby:
-  - osoba: petr-hajek
-    vztah: negativni
-    kontext: „Provládní médium“, „sorta, proplouvat“
   - osoba: sergej-lavrov
     vztah: pozitivni
     kontext: Jeho výzvy jsme měli slyšet
@@ -185,6 +182,9 @@ vyroky:
   - osoba: petr-drulak
     vztah: negativni
     kontext: „Absolutní elitář“, „protekční děcko“, Svatopluk je jeho kampaň
+  - osoba: petr-hajek
+    vztah: negativni
+    kontext: „Provládní médium“, „sorta, proplouvat“
   podtema: Komunální volby
 - id: vrabel-2026-10-11-06
   typ: predikce
@@ -220,11 +220,12 @@ vyroky:
   - politicky-system
   nadpis: státní zástupce, který zastavil stíhání Čecha z ukrajinské armády; „státní zástupci, kteří likvidují
     právní systém“
-  text: narážka na věšení, formálně změkčená na „nástěnku“
+  text: narážka na věšení, formálně změkčená na …
   citace:
   - text: Ten státní zástupce by měl viset na nástěnce státních zástupců, kteří likvidují právní systém
       v České republice. Protože doktor Sládek vždycky říkal, když se nevěší, tak není revoluce. Tak říkám,
       že by měli viset ty lidi na různých nástěnkách. Aby to nebylo tak tvrdé, jak to říká doktor Sládek.
+  - text: nástěnku
   osoby:
   - osoba: miroslav-sladek
     vztah: pozitivni

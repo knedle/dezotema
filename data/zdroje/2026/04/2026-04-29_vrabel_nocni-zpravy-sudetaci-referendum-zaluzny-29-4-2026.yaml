@@ -15,6 +15,10 @@ zdroj:
     Bryansk ostřelována); EU zmrazuje eurofundy pro Slovensko; Zalužný: syna přiměje přísahat na dobytí
     zpět obsazených území.'
   osoby:
+  - osoba: valerij-zaluzny
+    vztah: neutralni
+    kontext: 'Přiměje syna přísahat, že dobyde zpět obsazená území — Vrabel: signál generačního konfliktu,
+      ne rychlého míru'
   - osoba: jana-cernochova
     vztah: negativni
     kontext: Macinka (ministr obrany) podepsal přistoupení ČR k bunker koalici pro Ukrainu bez veřejné
@@ -82,11 +86,6 @@ vyroky:
     že po něm dobyde zpět území nyní obsazená Ruskem. Vrabel toto cituje jako indikátor, že část Ukrainy
     realisticky počítá s tím, že obsazená území se nevrátí v krátkodobém horizontu — a válka přejde do
     generační perspektivy.
-  osoby:
-  - osoba: valerij-zaluzny
-    vztah: neutralni
-    kontext: 'Přiměje syna přísahat, že dobyde zpět obsazená území — Vrabel: signál generačního konfliktu,
-      ne rychlého míru'
   mluvci: valerij-zaluzny
   predikce:
     horizont: generační (neurčeno)

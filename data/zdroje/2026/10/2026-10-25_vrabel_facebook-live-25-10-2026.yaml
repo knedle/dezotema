@@ -9,6 +9,9 @@ zdroj:
   rezim: vrabel
   poznamka: 49 min, živý přenos z oslav v Bělehradě po srbských volbách; bez sdílených videí.
   osoby:
+  - osoba: studentske-hnuti
+    vztah: rozporuplny
+    kontext: Pronárodní a mimo vliv EU, ale jako nová síla „nebezpečné“
   - osoba: vojislav-kostunica
     vztah: pozitivni
     kontext: „Náš přítel“, autor ústavní vojenské neutrality
@@ -57,10 +60,6 @@ vyroky:
   - text: Na druhou stranu rozhodně tenhle studentský pokret není něco, co by bylo proti srbský, nebo
       pro ukrajinský, nebo nedej bože pro Evropskou unii, nebo nedej bože pro NATO. To vůbec nepřipadá
       v úvahu.
-  osoby:
-  - osoba: studentske-hnuti
-    vztah: rozporuplny
-    kontext: Pronárodní a mimo vliv EU, ale jako nová síla „nebezpečné“
   podtema: Česká suverenita
 - id: vrabel-2026-10-25-07
   typ: predikce

@@ -50,11 +50,12 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Patrik Tušl
-  text: opakované fyzické výhrůžky (sám dodává „ale tohle neudělám")
+  text: opakované fyzické výhrůžky (sám dodává …)
   citace:
   - text: A kdyby to bylo jenom trochu možný, tak ti prostě rozmlátím rypák [...] Vyrazil bych ti ty poslední
       zuby [...] chytit pod krkem, ty zmrde, a rozšlapat ti rypák [...] abys aspoň tři měsíce cucal žrádlo
       brčkem.
+  - text: ale tohle neudělám
   teror:
     terc: Patrik Tušl
     hranicni: false
@@ -75,10 +76,10 @@ vyroky:
   temata:
   - politicky-system
   nadpis: „Čechoslováci" (suverénní občané), řidiči pod vlivem
-  text: skupinová dehumanizace
+  text: 'řidiči pod vlivem: … — skupinová dehumanizace'
   citace:
-  - text: 'vy debilové, protože vy nepatříte nikam jinam než do klece" / řidiči pod vlivem: „ať klidně
-      zdechnou [...] špatný maso musí pryč'
+  - text: vy debilové, protože vy nepatříte nikam jinam než do klece
+  - text: ať klidně zdechnou [...] špatný maso musí pryč
   teror:
     terc: „Čechoslováci" (suverénní občané), řidiči pod vlivem
     hranicni: false

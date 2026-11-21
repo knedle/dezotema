@@ -8,6 +8,13 @@ zdroj:
   prepis: prepisy/done/2026-10-15_Ladislav-Vrabel_15-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: 41 min, zprávy čte Zuzana. Sdílené video protestů v Evropě [17:04–18:01] bez zvuku.
+  osoby:
+  - osoba: afd
+    vztah: pozitivni
+    kontext: Sasko-Anhaltsko „vyslyšelo naši výzvu“
+  - osoba: bsw
+    vztah: pozitivni
+    kontext: Sasko-Anhaltsko „vyslyšelo naši výzvu“
   prehled:
   - tema: Summit Evropské rady a Babiš
     text: muniční iniciativa pokračuje navzdory slibu, šance „max. 5 %“
@@ -149,12 +156,6 @@ vyroky:
   - osoba: rados-aw-sikorski
     vztah: negativni
     kontext: „Pavilon C a třikrát denně fialovou tabletku“
-  - osoba: afd
-    vztah: pozitivni
-    kontext: Sasko-Anhaltsko „vyslyšelo naši výzvu“
-  - osoba: bsw
-    vztah: pozitivni
-    kontext: Sasko-Anhaltsko „vyslyšelo naši výzvu“
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-10-15-06
   typ: predikce
@@ -195,10 +196,12 @@ vyroky:
   temata:
   - migrace
   nadpis: migranti (protestující v západní Evropě)
-  text: opakované rasové přirovnání (k „polínkům“) v souvislosti s „občanskou válkou“, bez výzvy k násilí
+  text: opakované rasové přirovnání (k …) v souvislosti s …, bez výzvy k násilí
   citace:
   - text: vidíte migranty s barvou pleti trošku světlejší, než je moje černá obrazovka na telefonu. Dneska
       nejsem doma, abych to přirovnával k polínkům
+  - text: polínkům
+  - text: občanskou válkou
   teror:
     terc: migranti (protestující v západní Evropě)
     hranicni: false

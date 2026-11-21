@@ -51,11 +51,12 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: Hořejší, Flegr, Kubek, Chlíbek, Konvalenka, Maďar, Smejkal, Primula
-  text: 'Terč: Hořejší, Flegr, Kubek, Chlíbek, Konvalenka, Maďar, Smejkal, Primula.'
+  text: Jmenovaní covid odborníci označeni za viníky …; opakovaná výzva k …, …, aby se to …
   citace:
-  - text: Jmenovaní covid odborníci označeni za viníky „masových vražd, genocidy a sterilizace"; opakovaná
-      výzva k „vojenskému tribunálu typu Norimberg 2.0", „padni komu padni", aby se to „nikdy v budoucnosti
-      neopakovalo"
+  - text: masových vražd, genocidy a sterilizace
+  - text: vojenskému tribunálu typu Norimberg 2.0
+  - text: padni komu padni
+  - text: nikdy v budoucnosti neopakovalo
   teror:
     terc: Hořejší, Flegr, Kubek, Chlíbek, Konvalenka, Maďar, Smejkal, Primula
     hranicni: false

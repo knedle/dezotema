@@ -197,11 +197,12 @@ vyroky:
   temata:
   - blizky-vychod
   nadpis: Donald Trump (upřesnění výroku z 21. 9.)
-  text: relativizace dřívějšího výroku o „visení"; původní výrok z 21. 9. není v přepisech
+  text: relativizace dřívějšího výroku o …; původní výrok z 21. 9. není v přepisech
   citace:
   - text: řekl jsem, že by neměl vyset na náskence [...] zrádců národa, že by měl vyset úplně někde jinde
       [...] Samozřejmě jsem tím nemyslel, že by ho někdo měl pověsit na strom [...] by měl vyset po té,
       co ho odsoudí [...] americký soud nebo nějaký mezinárodní soud
+  - text: visení
   teror:
     terc: Donald Trump (upřesnění výroku z 21. 9.)
     hranicni: false

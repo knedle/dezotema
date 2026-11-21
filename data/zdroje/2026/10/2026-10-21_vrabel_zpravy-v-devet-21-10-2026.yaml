@@ -239,8 +239,8 @@ vyroky:
   text: fantazie o veřejném zbičování jako trestu za stíhání Madura v USA
   citace:
   - text: Jako za tohleto bych Trumpa normálně slíknul do naha. Postavil bych ho na nějaký takovej jako
-      fotbalovej stadion, aby tam byly lidi. Madurovi bych dal bič.“ / „A nechal bych toho Madura, aby
-      si to s ním vyříkal.
+      fotbalovej stadion, aby tam byly lidi. Madurovi bych dal bič.
+  - text: A nechal bych toho Madura, aby si to s ním vyříkal.
   osoby:
   - osoba: nicolas-maduro
     vztah: pozitivni
@@ -257,7 +257,8 @@ vyroky:
   citace:
   - text: Stačilo by, kdyby vzali největší fotbalovej stadion v Paříži… a on by si stoupnul do prostředka
       s jeho manželkou… s Michaelem předělanýho na ženu, a ten by ho tam prostě tlouk. A myslím si, že
-      to by se lidem líbilo.“ / „Prostě ty lidi se budou smažit v pekle.
+      to by se lidem líbilo.
+  - text: Prostě ty lidi se budou smažit v pekle.
   teror:
     terc: Emmanuel a Brigitte Macronovi
     hranicni: true
@@ -266,12 +267,13 @@ vyroky:
   temata:
   - migrace
   nadpis: migranti z Afriky a islámských zemí
-  text: 'Terč: migranti z Afriky a islámských zemí.'
+  text: Lidé z Eritreje, Somálska či Rwandy …; … / Oslo jako …, kde znásilnění páchají jen migranti —
+    plošné vykreslení skupiny jako násilníků, bez výzvy k násilí; hraniční, navazuje na 15. a 17. 10.
   citace:
-  - text: Lidé z Eritreje, Somálska či Rwandy „vyrostly na mačetách“; „když není pořádně zakrytá, anebo
-      je to nějaká Evropanka… obnažená, no tak si ji vezmou. To prostě už mají od Mohameda.“ / Oslo jako
-      „rape city“, kde znásilnění páchají jen migranti — plošné vykreslení skupiny jako násilníků, bez
-      výzvy k násilí; hraniční, navazuje na 15. a 17. 10.
+  - text: vyrostly na mačetách
+  - text: když není pořádně zakrytá, anebo je to nějaká Evropanka… obnažená, no tak si ji vezmou. To prostě
+      už mají od Mohameda.
+  - text: rape city
   teror:
     terc: migranti z Afriky a islámských zemí
     hranicni: true

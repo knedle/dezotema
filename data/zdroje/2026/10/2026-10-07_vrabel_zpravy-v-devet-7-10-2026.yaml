@@ -14,9 +14,6 @@ zdroj:
   - osoba: petr-robejsek
     vztah: pozitivni
     kontext: 'Souhlasně cituje: USA nepůjdou do války kvůli malé zemi'
-  - osoba: dan-j-rgensen
-    vztah: negativni
-    kontext: Řešení přes „účinnost“ a OZE je „úplně obráceně“
   prehled:
   - tema: Vojenští představitelé NATO v Kyjevě (poprvé po 8 letech)
     text: „něco se chystá, dobrý pocit z toho nemám“
@@ -86,6 +83,10 @@ vyroky:
     něj „schválně“, aby se v rámci Green Dealu přestala používat ropa. Za „účinností“ se podle něj skrývají
     úspory: von der Leyenová už k nim vyzývá, a „jakmile se ochladí“, čeká v ČR „úsporné procesy“, které
     poškodí ekonomiku i blahobyt („bez energie není ekonomika, bez ekonomiky není bohatství“).'
+  osoby:
+  - osoba: dan-j-rgensen
+    vztah: negativni
+    kontext: Řešení přes „účinnost“ a OZE je „úplně obráceně“
   podtema: Energetika a Rusko
 - id: vrabel-2026-10-07-03
   typ: tvrzeni

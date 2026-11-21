@@ -59,10 +59,6 @@ vyroky:
     — jde o „líbivé řeči" a mediální divadlo, které odvádí pozornost od skutečně zásadních jednání (jaderné
     zbraně, peníze pro Ukrajinu, členství v NATO).'
   osoby:
-  - osoba: rajchl
-    vztah: rozporuplny
-    kontext: Návrh na odebrání Řádu bílého lva Zelenskému označen za „jenom líbivé řeči" bez reálného
-      efektu
   - osoba: libor-vondracek
     vztah: negativni
     kontext: 'Prosadil změnu prezentovanou jako „odebrání pravomocí prezidenta" — Vrabel: jde jen o formální
@@ -127,6 +123,11 @@ vyroky:
     Ukrajinu pokračují beze změny.'
   citace:
   - text: To jsou jenom líbivý řeči, aby lidi dávali lajky. [...] A lidi umírají dál a válka jede dál.
+  osoby:
+  - osoba: rajchl
+    vztah: rozporuplny
+    kontext: Návrh na odebrání Řádu bílého lva Zelenskému označen za „jenom líbivé řeči" bez reálného
+      efektu
   podtema: Stav Ukrajiny a mobilizace
 - id: vrabel-2026-07-05-05
   typ: tvrzeni

@@ -39,3 +39,33 @@ def test_osoby_split_and_assign():
 
 def test_rozdel_jmena_zavorky():
     assert O.rozdel_jmena("A B, C D (role, funkce), E F") == ["A B", "C D (role, funkce)", "E F"]
+
+
+def _z(mluvci, vyroky, zid="2026-11-19_x"):
+    z = Zdroj(id=zid, mluvci=mluvci, kanal="", titul="t", datum=date(2026, 11, 19), url="",
+              prepis="p")
+    z.vyroky = vyroky
+    return z
+
+
+def test_prijmeni_rozlisuje_velikost_a_diakritiku():
+    z = _z("vrabel", [Vyrok("v1", "tvrzeni", ["kauzy"], "N", "Prezident vůči nim jedná jako vždy.")])
+    assert O.najdi_vyrok(z, "Aleksandar Vučić") is None      # „vůči“ není Vučić
+    assert O.najdi_vyrok(z, "Jan Jakob") is None             # „jako“ není Jakob
+    z.vyroky.append(Vyrok("v2", "tvrzeni", ["kauzy"], "N", "Vučić a Babišovi se to líbí."))
+    assert O.najdi_vyrok(z, "Aleksandar Vučić").id == "v2"
+    assert O.najdi_vyrok(z, "Andrej Babiš").id == "v2"       # pádová přípona „-ovi“
+
+
+def test_zminka_jen_k_mluvcimu_stranky():
+    osoby = {"pekova": Osoba("pekova", "Soňa Peková"), "zitko": Osoba("zitko", "Pavel Zítko"),
+             "vrabel": Osoba("vrabel", "Ladislav Vrabel")}
+    z = _z("zitko", [Vyrok("v1", "tvrzeni", ["kauzy"], "N", "Zítko mluví o Rajchlovi.")])
+    arch = Archiv([z], {}, osoby)
+    zm = [O.ZminkaRaw("Pavel Zítko", "pozitivni", "k", date(2026, 11, 19), "kot", "pekova")]
+    vys = O.prirad(zm, arch, {"kot": z.id})
+    assert len(vys.nezarazeno) == 1 and not z.osoby and not z.vyroky[0].osoby
+    zm = [O.ZminkaRaw("Jindřich Rajchl", "negativni", "k", date(2026, 11, 19), "kot", "zitko")]
+    osoby["rajchl"] = Osoba("rajchl", "Jindřich Rajchl")
+    vys = O.prirad(zm, Archiv([z], {}, osoby), {"kot": z.id})
+    assert not vys.nezarazeno and z.vyroky[0].osoby[0].osoba == "rajchl"

@@ -12,6 +12,9 @@ zdroj:
     od 30. 4. 2022. Stochastický teror: 1 výrok (Minář) a 1 hraniční (politici ODS). Přepis četl pomocný
     agent, klíčové citace ověřeny v přepisu.'
   osoby:
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: „Podráží nohy“ Babišovi, chová se jako premiér
   - osoba: policista-bily
     vztah: negativni
     kontext: Součást „mafie“ proti Vlasákové
@@ -123,9 +126,6 @@ vyroky:
     vztah: rozporuplny
     kontext: „Jediný politik“, který mluví s kritiky, chválí „Ne, nebudem“ k Letné; covid „svinstvo“,
       „podlehl strachu“
-  - osoba: tomio-okamura
-    vztah: negativni
-    kontext: „Podráží nohy“ Babišovi, chová se jako premiér
   - osoba: radek-vondracek
     vztah: rozporuplny
     kontext: „Až moc korektní“, ale tentokrát kritizoval SPD
@@ -178,11 +178,12 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Mikuláš Minář
-  text: jmenovaný terč, dehumanizace a fantazie o fyzickém násilí
+  text: Dále …, … — jmenovaný terč, dehumanizace a fantazie o fyzickém násilí
   citace:
   - text: Ale tomuhle zrzavýmu hajzlovi, skurvenýmu, vykurvenýmu zmrdovi, že kdyby to bylo v tom socialistickým
-      zřízení, tak kdyby ho člověk potkal, tak mu dá tak porypáku, že už nikdy, nikdy neotevře hubu.“
-      Dále „zrzavej kripl“, „zrzavý kretén
+      zřízení, tak kdyby ho člověk potkal, tak mu dá tak porypáku, že už nikdy, nikdy neotevře hubu.
+  - text: zrzavej kripl
+  - text: zrzavý kretén
   teror:
     terc: Mikuláš Minář
     hranicni: false
@@ -191,10 +192,14 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Kupka, Černochová, Decroix, Stanjura, Fiala
-  text: 'Terč: Kupka, Černochová, Decroix, Stanjura, Fiala.'
+  text: Kupka …, Černochová …, Decroix …, Stanjura …, Fiala … — dehumanizace jmenovaných politiků bez
+    výzvy k trestu
   citace:
-  - text: Kupka „tupec“, Černochová „blbá, tupá kráva… pixle od sidolu zmačkaná“, Decroix „nádoba na semeno“,
-      Stanjura „zmrd“, Fiala „debil“ — dehumanizace jmenovaných politiků bez výzvy k trestu
+  - text: tupec
+  - text: blbá, tupá kráva… pixle od sidolu zmačkaná
+  - text: nádoba na semeno
+  - text: zmrd
+  - text: debil
   osoby:
   - osoba: kupka
     vztah: negativni

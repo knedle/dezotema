@@ -116,11 +116,12 @@ vyroky:
   temata:
   - kauzy
   nadpis: Petr Pavel, Petr Kolář, „fialovo-modro-žlutá" opozice
-  text: přání, aby je unesla ruská armáda (v kontextu modelu „unesou, zabijou")
+  text: přání, aby je unesla ruská armáda (v kontextu modelu …)
   citace:
   - text: Já bych byl pro, aby to tady vlítlo a aby tady ty zmrdy [...] aby si je odvezli [...] když si
       to mohli dovolit Američané, tak ať si to můžou dovolit Rusové [...] Já Petra Pavla rozhodně nebudu
       postrádat [...] ať je vezmou do Ruska.
+  - text: unesou, zabijou
   teror:
     terc: Petr Pavel, Petr Kolář, „fialovo-modro-žlutá" opozice
     hranicni: false
@@ -129,9 +130,10 @@ vyroky:
   temata:
   - kauzy
   nadpis: provozovatelé chráněných dílen
-  text: výzva k fyzickému napadení skupiny
+  text: + … — výzva k fyzickému napadení skupiny
   citace:
-  - text: Rozkopat rypáky, hajzlům. Rozkopat těmhle hyenám rypáky" + „normální nacisti, skurveni
+  - text: Rozkopat rypáky, hajzlům. Rozkopat těmhle hyenám rypáky
+  - text: normální nacisti, skurveni
   teror:
     terc: provozovatelé chráněných dílen
     hranicni: false

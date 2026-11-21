@@ -169,11 +169,13 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: Adam Vojtěch
-  text: pojmenovaný terč, násilná fantazie s deklarovanou popiratelností (reakce na hrazení Ozempicu dětem)
+  text: + … — pojmenovaný terč, násilná fantazie s deklarovanou popiratelností (reakce na hrazení Ozempicu
+    dětem)
   citace:
   - text: držte mě, nebo pusťte mě na něj […] kdybych potkal Adama Vojtěcha, tak bych na něj určitě nezautočil
       […] kdybych s ním byl na rybách a nikdo nás neviděl, tak bych se možná s tím prutem v ruce prudce
-      otočil" + „postavte si vedle toho [zničených dětských životů] jednoho Adama Vojtěcha
+      otočil
+  - text: postavte si vedle toho [zničených dětských životů] jednoho Adama Vojtěcha
   osoby:
   - osoba: adam-vojtech
     vztah: negativni

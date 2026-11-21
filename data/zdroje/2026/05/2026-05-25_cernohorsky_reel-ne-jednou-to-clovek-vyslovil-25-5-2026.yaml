@@ -169,9 +169,10 @@ vyroky:
   temata:
   - petr-pavel
   nadpis: Petr Pavel
-  text: bezprostředně za tím dodává „ale to nemůžete udělat, protože tenhle hajzl je chráněnej"
+  text: bezprostředně za tím dodává …
   citace:
   - text: Mu by člověk nejradši, když by ho viděl, tak mu taky nejradši rošlapal rypák, flusil mu do ksichtu
+  - text: ale to nemůžete udělat, protože tenhle hajzl je chráněnej
   teror:
     terc: Petr Pavel
     hranicni: false

@@ -141,7 +141,6 @@ vyroky:
   predikce:
     horizont: 10.–11. 11. 2026
     stav: potvrzeno
-    horizont_do: 2026-11-11
     vyhodnoceni:
     - datum: &id001 2026-11-20
       text: jednání v Abú Zabí přinesla jen dohodu o výměně zajatců, bez mírového průlomu
@@ -187,7 +186,6 @@ vyroky:
   predikce:
     horizont: výsledky voleb 3.–4. 11. 2026; impeachment neurčeno
     stav: potvrzeno
-    horizont_do: 2026-11-04
     vyhodnoceni:
     - datum: *id001
       text: (Sněmovna); impeachment 🕐

@@ -16,6 +16,9 @@ zdroj:
   - osoba: tarabova
     vztah: negativni
     kontext: Odrazuje lidi od jeho demonstrace 17. 11.
+  - osoba: alice-weidelova
+    vztah: rozporuplny
+    kontext: AfD „super strana“, ale ústup od Dexitu = „cestička ve ztracenu“
   - osoba: jana-bobosikova
     vztah: pozitivni
     kontext: „Krásný video“ o koruně v ústavě
@@ -198,10 +201,6 @@ vyroky:
   - text: Zkusíme reformu Evropské unie a když to nepůjde, tak vyvoláme jednání o referendu o vystoupení
       z Evropské unie. A tohle je přesně ta cesta, kterou už znám a vím přesně, kam dopadne cestlička
       ve ztracenu.
-  osoby:
-  - osoba: alice-weidelova
-    vztah: rozporuplny
-    kontext: AfD „super strana“, ale ústup od Dexitu = „cestička ve ztracenu“
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-11-04-07
   typ: tvrzeni

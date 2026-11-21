@@ -20,11 +20,6 @@ zdroj:
     a Grónsko, dvojí metr mezinárodního práva — [valka-nato-rusko.md](valka-nato-rusko.md). (11) Německo
     kupuje Tomahawk, útočné vs. obranné zbraně — [valka-nato-rusko.md](valka-nato-rusko.md). Stoch. teror:
     přání zavraždění Trumpa — [stochasticky-teror.md](stochasticky-teror.md).'
-  osoby:
-  - osoba: krzysztof-to-winski
-    vztah: pozitivni
-    kontext: Bývalý polský poslanec — posílá humanitární pomoc ruským vojákům, Vrabel to schvaluje jako
-      vyvážení protiruské hysterie
   prehled:
   - tema: 'Zpracováno 11 témat: (1) Vláda hodnotí 6 měsíců, neplněné klíčové sliby, PURL'
     text: '[valka-nato-rusko.md](../valka-nato-rusko.md). (2) Zuna/SPD obhajuje PURL, porušené předvolební
@@ -182,6 +177,11 @@ vyroky:
     vidí v takovém gestu jen vyvážení extrémní protiruské fóbie, ne podporu Ruska jako takového. Srovnává
     to s vlastní organizací demonstrace za urovnání vztahů s Ruskou federací v roce 2024 — cílem není
     práce pro Rusko, ale snaha o normální diplomatické vztahy ČR se všemi zeměmi světa.
+  osoby:
+  - osoba: krzysztof-to-winski
+    vztah: pozitivni
+    kontext: Bývalý polský poslanec — posílá humanitární pomoc ruským vojákům, Vrabel to schvaluje jako
+      vyvážení protiruské hysterie
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-07-09-10
   typ: tvrzeni
@@ -230,10 +230,12 @@ vyroky:
   temata:
   - valka-nato-rusko
   nadpis: Donald Trump
-  text: v reakci na Trumpovo přiznání, že je „cíl číslo jedna" íránských útoků; doplněno výzvou, aby se
-    „svět spojil" a postavil proti USA
+  text: v reakci na Trumpovo přiznání, že je … íránských útoků; doplněno výzvou, aby se … a postavil proti
+    USA
   citace:
   - text: Vůbec bych se nedivil, kdyby Donalda Trumpa někdo zavraždil.
+  - text: cíl číslo jedna
+  - text: svět spojil
   teror:
     terc: Donald Trump
     hranicni: false

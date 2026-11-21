@@ -102,10 +102,13 @@ vyroky:
   temata:
   - petr-pavel
   nadpis: Petr Kolář
-  text: explicitní násilná fantazie fyzického vyhnání jmenovaného poradce; dále opakovaně „zmrd", „bastard
-    vyjebaný", obviněn ze „zabíjení dalších a dalších lidí" kvůli zbrojařským kšeftům
+  text: explicitní násilná fantazie fyzického vyhnání jmenovaného poradce; dále opakovaně …, …, obviněn
+    ze … kvůli zbrojařským kšeftům
   citace:
   - text: vykopal by ho z toho hradu, kolpal by ho toho hajzla až do Bruselu
+  - text: zmrd
+  - text: bastard vyjebaný
+  - text: zabíjení dalších a dalších lidí
   teror:
     terc: Petr Kolář
     hranicni: false

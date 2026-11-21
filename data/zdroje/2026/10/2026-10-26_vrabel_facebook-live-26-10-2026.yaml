@@ -94,8 +94,8 @@ vyroky:
   text: 'Terč: migranti z Afriky.'
   citace:
   - text: A když vidíte ty lidi, kteří přichází z Afriky, kteří vyrůstali s mačetama v ruce a jsou rádi,
-      že přežili 20. rok života, … tak je jasný, že tyhle lidi budou mít jiný práh“ / „Proč zapalujou
-      ulice, protože jsou prostě násilní.
+      že přežili 20. rok života, … tak je jasný, že tyhle lidi budou mít jiný práh
+  - text: Proč zapalujou ulice, protože jsou prostě násilní.
   teror:
     terc: migranti z Afriky
     hranicni: false

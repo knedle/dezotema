@@ -170,13 +170,13 @@ vyroky:
     stav: potvrzeno
     horizont_do: 2026-11-04
     vyhodnoceni:
-    - datum: 2026-11-20
-      text: (podle Vrabelova výkladu, nezávisle neověřeno) — Babiš ve Varšavě podle něj Tuska podpořil
-      stav: potvrzeno
     - datum: 2026-11-04
       text: 4. 11. Vrabel tvrdí, že Babiš ve Varšavě Tuska „jako správný globalista“ podpořil ([Ladislav
         Vrabel — Zprávy v devět 4. 11. 2026](_zdroje.md#ladislav-vrabel--zprávy-v-devět-4-11-2026)); jde
         o jeho výklad návštěvy.
+    - datum: 2026-11-20
+      text: (podle Vrabelova výkladu, nezávisle neověřeno) — Babiš ve Varšavě podle něj Tuska podpořil
+      stav: potvrzeno
     - datum: 2026-11-20
       text: Vrabel 4. a 14. 11. tvrdí, že Babiš podpořil Tuska „při státním převratu skrze Ústavní soud“.
         Nezávislý zdroj k obsahu Babišova prohlášení nebyl nalezen.

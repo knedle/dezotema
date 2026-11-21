@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-18_Jindřich-Rajchl_Vysvětlení-nákladů-na-hrazení-cest-Petra-Pavla-na-tra.txt
   rezim: standard
   poznamka: 1 h 0 min, pravidelné nedělní živé vysílání.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Chová se jako „narkoman“ (další půjčka 70 mld. €), „patří do Haagu na prvním místě“
 vyroky:
 - id: rajchl-2026-10-18-01
   typ: tvrzeni
@@ -105,9 +109,6 @@ vyroky:
 
     K Zelenského žádosti o dalších 70 mld. € k dubnové půjčce 90 mld. € připodobňuje jeho chování k narkomanovi, který si stále půjčuje „na jídlo a práci“ a vše „profetuje“. Zelenský podle něj peníze utratí za „luxusní vily, sportovní auta, zlaté záchody, zlaté bidety“. Babišovo prohlášení, že ČR nebude za půjčku ručit, je podle něj málo a ČR by se měla přidat k Maďarsku a Slovensku proti další půjčce, protože „krmit narkomana je cesta do pekel“. Zelenský s Timurem Mindičem podle něj rozkradli peníze na energetickou infrastrukturu („hyenismus naprosto nejtěžšího kalibru“) a „pokud někdo patří do Haagu, tak zcela jistě Zelenský na prvním místě“.
   osoby:
-  - osoba: volodymyr-zelenskyj
-    vztah: negativni
-    kontext: Chová se jako „narkoman“ (další půjčka 70 mld. €), „patří do Haagu na prvním místě“
   - osoba: boris-johnson
     vztah: negativni
     kontext: Zmařil mírovou dohodu parafovanou Ukrajinou i Ruskem

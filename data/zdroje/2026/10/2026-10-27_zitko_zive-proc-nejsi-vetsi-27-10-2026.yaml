@@ -116,11 +116,14 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: Andrej Babiš a vláda; Renata Bernardy (TV Šalingrad); Patrik Tušl; očkovaní rodiče
-  text: hraniční (démonizace a urážky, bez přímé výzvy k násilí)
+  text: (vakcínou, kterou nazývá biologickou zbraní); Bernardy jako … s číslem 666 — …; …; očkovaní rodiče
+    … — hraniční (démonizace a urážky, bez přímé výzvy k násilí)
   citace:
-  - text: Zabodat jsem chtěl Babiše a celou tu jeho partu“ (vakcínou, kterou nazývá biologickou zbraní);
-      Bernardy jako „liška“ s číslem 666 — „a vy víte, co se stane, když se objeví liška v kurníku“; „Tušl
-      je kokot“; očkovaní rodiče „debilové
+  - text: Zabodat jsem chtěl Babiše a celou tu jeho partu
+  - text: liška
+  - text: a vy víte, co se stane, když se objeví liška v kurníku
+  - text: Tušl je kokot
+  - text: debilové
   teror:
     terc: Andrej Babiš a vláda; Renata Bernardy (TV Šalingrad); Patrik Tušl; očkovaní rodiče
     hranicni: true

@@ -7,6 +7,11 @@ zdroj:
   url: https://www.facebook.com/100087923704145/videos/1782270146299075
   prepis: prepisy/done/2026-09-01_Ladislav-Vrabel_Facebook-Live.txt
   rezim: vrabel
+  osoby:
+  - osoba: recep-tayyip-erdogan
+    vztah: rozporuplny
+    kontext: Setkání s Putinem/Lukašenkem na ŠOS — popsán jako klíčový geopolitický hráč, který by mohl
+      nasadit tureckou „pátou kolonu" v Německu/Rakousku
   prehled:
   - tema: Větrníky/Green Deal — vláda poruší předvolební slib (66 turbín Zlínsko/Olomoucko)
     text: → [Větrné elektrárny](../vetrniky.md)
@@ -87,11 +92,6 @@ vyroky:
     obrannou dohodu („první muslimská jaderná aliance", sekretariát v Rijádu) rozvádí tezi o „páté koloně":
     pokud by došlo k širšímu konfliktu, Erdogan by podle něj mohl nasadit silnou tureckou komunitu v Německu
     a Rakousku k odzbrojení místní policie, což by dané země mohly mít problém ustát.'
-  osoby:
-  - osoba: recep-tayyip-erdogan
-    vztah: rozporuplny
-    kontext: Setkání s Putinem/Lukašenkem na ŠOS — popsán jako klíčový geopolitický hráč, který by mohl
-      nasadit tureckou „pátou kolonu" v Německu/Rakousku
   podtema: Zahraniční aktéři a precedenty
 - id: vrabel-2026-09-01-05
   typ: tvrzeni

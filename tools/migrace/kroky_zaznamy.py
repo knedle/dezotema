@@ -111,7 +111,7 @@ def krok_teror(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
     idx = index_osob(osoby)
     raws = T.parsuj((stara_wiki / "stochasticky-teror.md").read_text(encoding="utf-8"))
     nez, bez_temat, nerozpoznan, cizi = [], 0, [], Counter()
-    zapsano = hranicnich = 0
+    zapsano = hranicnich = bez_textu = 0
     for raw in raws:
         kand = najdi_zdroje(raw.kotvy, mapa, by_id)
         autor = None
@@ -126,21 +126,22 @@ def krok_teror(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
                         "kotvy": raw.kotvy, "hranicni": raw.hranicni, "duvod": "zdroj nenalezen"})
             continue
         kdo = autor or z.mluvci
-        temata_v = vyber_temata(z, raw.terc + " " + raw.citace + " " + raw.kontext)
+        temata_v = vyber_temata(z, raw.terc + " " + " ".join(raw.citace) + " " + raw.kontext)
         if not temata_v:
-            temata_v = vyber_temata_globalne(zdroje, kdo, raw.terc + " " + raw.citace)
+            temata_v = vyber_temata_globalne(zdroje, kdo, raw.terc + " " + " ".join(raw.citace))
             bez_temat += 1
         v = T.na_vyrok(raw, z, dalsi_cislo(ids, kdo, z.datum), mluvci=kdo, temata=temata_v)
         ids.add(v.id)
         z.vyroky.append(v)
         zapsano += 1
         hranicnich += raw.hranicni
+        bez_textu += not raw.kontext
         if v.mluvci:
             cizi[v.mluvci] += 1
     zm = _ulozit_zmenene(zdroje, snimky, root)
     _uloz_nezarazeno(root, "teror", nez)
     print(f"teror: {len(raws)} řádků, {zapsano} zapsáno do {zm} zdrojů, {len(nez)} nezařazeno, "
-          f"{bez_temat} bez témat, {hranicnich} hraničních; autor nerozpoznán: {nerozpoznan}; "
+          f"{bez_temat} bez témat, {hranicnich} hraničních, {bez_textu} bez redakčního textu (text = Terč: …), {sum(len(x.citace) == 0 for x in raws)} bez citace; autor nerozpoznán: {nerozpoznan}; "
           f"mluvčí přepsán: {dict(cizi)}")
 
 
@@ -151,10 +152,21 @@ def krok_prehled(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
         z.prehled = []
     by_id = {z.id: z for z in zdroje}
     stare = json.loads((root / "data" / "migrace" / "stare-kotvy.json").read_text(encoding="utf-8"))
-    nez, dnu, polozek, podle_data, podle_stranky = [], 0, 0, 0, 0
+    nez, dnu, polozek, podle_data, podle_stranky, vlastni_n = [], 0, 0, 0, 0, 0
     for p in sorted((stara_wiki / "zpravodajstvi-vrabel").glob("*.md")):
         for den in H.parsuj_dny(p.read_text(encoding="utf-8"), stare):
             dnu += 1
+            for radek in den.nerozpoznano:
+                nez.append({"datum": den.datum.isoformat(), "titul": den.titul, "radek": radek})
+            for kotvy_v, pol in den.vlastni:        # řádek patří jinému zdroji (např. samostatné video)
+                cil = najdi_zdroje(kotvy_v, mapa, by_id)
+                if cil:
+                    cil[0].prehled.append(pol)
+                    polozek += 1
+                    vlastni_n += 1
+                else:
+                    nez.append({"datum": den.datum.isoformat(), "titul": den.titul,
+                                "polozka": {"tema": pol.tema, "text": pol.text}})
             kand = najdi_zdroje(den.kotvy, mapa, by_id)
             z = kand[0] if kand else None
             if z is None:
@@ -175,8 +187,9 @@ def krok_prehled(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
     zm = _ulozit_zmenene(zdroje, snimky, root)
     _uloz_nezarazeno(root, "prehled", nez)
     vsechny = [x for z in zdroje for x in z.prehled]
-    print(f"prehled: {dnu} dnů, {dnu - len(nez)} přiřazeno ke zdroji ({podle_data} podle data), "
-          f"{len(nez)} nezařazeno; {polozek} položek, z toho {sum(1 for x in vsechny if x.vyrok)} "
+    dnu_nez = sum(1 for x in nez if "polozky" in x)
+    print(f"prehled: {dnu} dnů, {dnu - dnu_nez} přiřazeno ke zdroji ({podle_data} podle data), "
+          f"{len(nez)} nezařazeno (řádků/dnů); {polozek} položek (z toho {vlastni_n} řádků jiného zdroje), z toho {sum(1 for x in vsechny if x.vyrok)} "
           f"s odkazem na výrok (z toho {podle_stranky} podle stránky bez kotvy + zdroje), "
           f"{sum(1 for x in vsechny if x.vyrok is None and '→ viz' in x.text)} s nepřeloženým "
           f"odkazem „viz“; zapsáno {zm} zdrojů")

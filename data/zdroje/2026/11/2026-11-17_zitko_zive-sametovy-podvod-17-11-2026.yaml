@@ -14,6 +14,9 @@ zdroj:
     „západní Němci… jsou to všechno svině“, „velezrádci po zásluze potrestáni“ bez konkrétního terče).
     Zpracováno podle shrnutí pomocného agenta, klíčové citace ověřeny v přepisu.'
   osoby:
+  - osoba: petr-uhl
+    vztah: negativni
+    kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
   - osoba: vaclav-havel
     vztah: negativni
     kontext: „Zednář 33. stupně“, „třikrát křivě přísahal“
@@ -50,9 +53,6 @@ vyroky:
     vztah: negativni
     kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
   - osoba: drahomira-drazska
-    vztah: negativni
-    kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
-  - osoba: petr-uhl
     vztah: negativni
     kontext: Podle něj organizátoři „operace“ 17. 11. 1989 a fámy o mrtvém studentovi
   - osoba: honza-dedek

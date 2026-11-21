@@ -28,6 +28,9 @@ zdroj:
   - osoba: si-tin-pching
     vztah: pozitivni
     kontext: Technologická „budoucnost“
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Opravdu šikovný politik“
   prehled:
   - tema: 17. listopad na Národní
     text: oslavy jsou „trapnost na trapnost“, rok 1989 byl operace tajných služeb, slavit má smysl jen
@@ -100,9 +103,6 @@ vyroky:
   - osoba: donald-trump
     vztah: negativni
     kontext: „90 % toho, co řekne, se nestane“; tvrdší druhé kolo války s Íránem
-  - osoba: aleksandar-vucic
-    vztah: pozitivni
-    kontext: „Opravdu šikovný politik“
   podtema: Hormuz — aktualizace 6. 5. 2026
 - id: vrabel-2026-11-17-02
   typ: tvrzeni
@@ -248,7 +248,6 @@ vyroky:
     horizont: 'zlom v Íránu kolem 19.–20. 11. 2026 (nejasné); půjčka: jednání od 18. 11. 2026; Francie:
       neurčeno'
     stav: ceka
-    horizont_do: 2026-11-20
     vyhodnoceni:
     - datum: 2026-11-18
       text: Termín upřesňuje na „mezi 19. a 20. až někdy 7. příštího měsíce“, tedy 19./20. 11. až 7. 12.

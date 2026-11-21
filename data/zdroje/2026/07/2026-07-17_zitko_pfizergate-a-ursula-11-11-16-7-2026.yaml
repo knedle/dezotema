@@ -117,12 +117,13 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: placení „hejtři" / pracovníci médií a farmafirem
-  text: přání aplikace nejsmrtelnější šarže vakcíny jmenované skupině (kritici/„hejtři"), navazuje na
-    starší návrh naočkovat „vládu, Babiše, příbuzné, děti, poslance, senátory" losovanými (nikoli placebo)
-    šaržemi
+  text: přání aplikace nejsmrtelnější šarže vakcíny jmenované skupině (kritici/…), navazuje na starší
+    návrh naočkovat … losovanými (nikoli placebo) šaržemi
   citace:
   - text: doporučoval bych jim dostavit se na smluvené místo, já bych jim vybral šarži, která začíná na
       E, 56 % mrtvol, nebo končící na 22Z [...] tam by se uvidělo to hrdinství
+  - text: hejtři
+  - text: vládu, Babiše, příbuzné, děti, poslance, senátory
   teror:
     terc: placení „hejtři" / pracovníci médií a farmafirem
     hranicni: false
@@ -131,11 +132,10 @@ vyroky:
   temata:
   - digitalni-kontrola
   nadpis: „covidoví vrazi, zločinci, pachatelé genocidy a sterilizace národa"
-  text: 'Terč: „covidoví vrazi, zločinci, pachatelé genocidy a sterilizace národa".'
+  text: Schvaluje Čermákův výrok, že je třeba …; opakovaná výzva, aby …
   citace:
-  - text: Schvaluje Čermákův výrok, že je třeba „vrahy a pachatele těchto nejtěžších zločinů vzít za držky
-      a naházet do řeky"; opakovaná výzva, aby „covidoví zločinci všichni stanuli před spravedlivým vojenským
-      tribunálem"
+  - text: vrahy a pachatele těchto nejtěžších zločinů vzít za držky a naházet do řeky
+  - text: covidoví zločinci všichni stanuli před spravedlivým vojenským tribunálem
   teror:
     terc: „covidoví vrazi, zločinci, pachatelé genocidy a sterilizace národa"
     hranicni: false

@@ -308,13 +308,15 @@ vyroky:
   temata:
   - volby-2026
   nadpis: Andrej Babiš, Petr Pavel
-  text: výzva k veřejnému „trestu“ za odmítnutí referenda o EU/NATO a muniční iniciativu; v témž bloku
-    přirovnání ke kmeni, který zrádného náčelníka odvolá „ke kůlu“ a mladíci na něm trénují střelbu z
-    luku
+  text: 'o Babišovi: … — výzva k veřejnému … za odmítnutí referenda o EU/NATO a muniční iniciativu; v
+    témž bloku přirovnání ke kmeni, který zrádného náčelníka odvolá … a mladíci na něm trénují střelbu
+    z luku'
   citace:
-  - text: 'Už jenom za tohle by zasloužili prostě, aby je národ hnal ulicama.“ / „Prostě za tohle by opravdu
-      měli lidi hnát tyhle dva ulice. A to přes celou republiku tam a zpátky.“ / o Babišovi: „To je další
-      věc, za kterou by ho lidi měli hnát. Možná tunelama metra.'
+  - text: Už jenom za tohle by zasloužili prostě, aby je národ hnal ulicama.
+  - text: Prostě za tohle by opravdu měli lidi hnát tyhle dva ulice. A to přes celou republiku tam a zpátky.
+  - text: To je další věc, za kterou by ho lidi měli hnát. Možná tunelama metra.
+  - text: trestu
+  - text: ke kůlu
   teror:
     terc: Andrej Babiš, Petr Pavel
     hranicni: false
@@ -323,11 +325,12 @@ vyroky:
   temata:
   - migrace
   nadpis: Ukrajinci v ČR
-  text: kolektivní kriminalizace skupiny, navazuje na „dynamit“ z 16. 10.; hraniční, bez výzvy k násilí
+  text: kolektivní kriminalizace skupiny, navazuje na … z 16. 10.; hraniční, bez výzvy k násilí
   citace:
-  - text: Oni jsou víc temperamentní, řekněme, abych neříkal agresivní.“ / „Mají trošičku blíž k takovým
-      těm ozbrojeným mafím.“ / „Budou se sem dostávat zbraně z Ukrajiny… Budou se cítit, že my jsme jim
-      dlužní.
+  - text: Oni jsou víc temperamentní, řekněme, abych neříkal agresivní.
+  - text: Mají trošičku blíž k takovým těm ozbrojeným mafím.
+  - text: Budou se sem dostávat zbraně z Ukrajiny… Budou se cítit, že my jsme jim dlužní.
+  - text: dynamit
   teror:
     terc: Ukrajinci v ČR
     hranicni: true

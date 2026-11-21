@@ -242,7 +242,6 @@ vyroky:
   predikce:
     horizont: komunální volby 9.–10. 10. 2026
     stav: vyvraceno
-    horizont_do: 2026-10-10
     vyhodnoceni:
     - datum: 2026-11-20
       text: společná kandidátka v Chomutově podle Rajchla získala „přes 9 %“, ne 17–20 %

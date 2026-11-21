@@ -19,6 +19,10 @@ zdroj:
     přiznal); kauza manželky Bojany — insolvenční správce, policie potvrdila vše v pořádku, soud ignoroval
     důkazy; Vít Rakušan označil Bojanu za bezpečnostní ohrožení státu bez zdůvodnění.'
   osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: V Číně bydlel ve stejném paláci jako Trump a Putin; prohlásil, že Srbsko je suverénní stát
+      odmítající instrukce EU; zákaz GMO potravin; vojenská neutralita
   - osoba: katerina-konecna
     vztah: neutralni
     kontext: Mluvila s Koudelkou; BIS nasadil agenta do KS podle jejích slov
@@ -72,10 +76,6 @@ vyroky:
 
     Vrabel obecně: lidé demonstrovali „jenom proti Fialovi" — to nestačí. Skutečným problémem je globalistická struktura likvidující suverenitu, ne konkrétní vládní garnitura.
   osoby:
-  - osoba: aleksandar-vucic
-    vztah: pozitivni
-    kontext: V Číně bydlel ve stejném paláci jako Trump a Putin; prohlásil, že Srbsko je suverénní stát
-      odmítající instrukce EU; zákaz GMO potravin; vojenská neutralita
   - osoba: rajchl
     vztah: negativni
     kontext: 'Zlikvidoval autentický občanský odpor z 2022; na demonstracích říká jen „dejte mi mandát";

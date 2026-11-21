@@ -191,12 +191,7 @@ vyroky:
   predikce:
     horizont: summit EU v Dublinu (13.–14. 11. 2026)
     stav: potvrzeno
-    horizont_do: 2026-11-14
     vyhodnoceni:
-    - datum: 2026-11-20
-      text: (podle Vrabelova popisu, nezávisle neověřeno) — Babiš s financováním Ukrajiny souhlasil a
-        zároveň opakoval, že ČR „neručí“
-      stav: potvrzeno
     - datum: 2026-11-13
       text: Vrabel „sází“, že Babiš v Dublinu s 70miliardovou půjčkou Ukrajině souhlasí („Sázím na Andreje,
         že bude souhlasit“). Moderátorka Zuzka naopak odhaduje, že Babiš „prohlásí jako minule, ale ručit
@@ -213,6 +208,10 @@ vyroky:
       text: Vrabel opakuje, že Babišovo „nebudeme ručit“ je u nové půjčky 45 mld. eur „samozřejmě nesmysl“,
         protože EU si půjčuje a splácí z rozpočtu.
     - datum: 2026-11-20
+      text: (podle Vrabelova popisu, nezávisle neověřeno) — Babiš s financováním Ukrajiny souhlasil a
+        zároveň opakoval, že ČR „neručí“
+      stav: potvrzeno
+    - datum: 2026-11-20
       text: Podle Vrabelových zpráv z 15.–18. 11. Babiš v Evropské radě financování neblokoval („Odhlasoval
         tuto půjčku Andrej Babiš“) a vláda dál tvrdí, že ČR neručí. Rozsah půjček se v přepisech liší
         (8 mld. eur schváleno, 45 mld. eur navrženo).
@@ -221,12 +220,11 @@ vyroky:
   temata:
   - nato-zbrojeni-militarizace
   nadpis: vlády Petra Fialy a Andreje Babiše
-  text: 'Terč: vlády Petra Fialy a Andreje Babiše.'
+  text: (hraniční — výzva k soudu)
   citace:
   - text: Jestli vám tohle nepřipadá jako zločin, to, co dělají naše vlády, všechny evropské vlády […]
       mně to připadá jako zločin. Mně připadá, že jsou to zločinci a že by jako zločinci měli být souzeni.
-      […] Proto jsem přesvědčený o tom, že i vláda Petra Fialy, i vláda Andreje Babiše jsou zločinné vlády.“
-      (hraniční — výzva k soudu)
+      […] Proto jsem přesvědčený o tom, že i vláda Petra Fialy, i vláda Andreje Babiše jsou zločinné vlády.
   osoby:
   - osoba: petr-fiala
     vztah: negativni

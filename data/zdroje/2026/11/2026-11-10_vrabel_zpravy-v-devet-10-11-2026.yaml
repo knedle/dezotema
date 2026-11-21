@@ -71,6 +71,9 @@ vyroky:
   citace:
   - text: Toto jsou studenti jednoznačně, je to operace řízená ze CIA.
   osoby:
+  - osoba: studentstvo-studenti-famu
+    vztah: negativni
+    kontext: Nástroj revoluce „řízené ze CIA“; řečníka by trestně stíhal (→ stoch. teror)
   - osoba: rajchl
     vztah: negativni
     kontext: Zneužíval vlastní děti na pódiu demonstrací
@@ -144,7 +147,6 @@ vyroky:
   predikce:
     horizont: do řádných voleb (2029); 17. 11. 2026 jako první vrchol
     stav: ceka
-    horizont_do: 2026-11-17
     vyhodnoceni:
     - datum: 2026-11-15
       text: Vrabel už nečeká převrat, ale „výměnu politiků“ v předčasných volbách, viz predikce z 15.
@@ -171,15 +173,11 @@ vyroky:
   temata:
   - konspirace
   nadpis: řečník studentské demonstrace za ČT (FAMU)
-  text: 'Terč: řečník studentské demonstrace za ČT (FAMU).'
+  text: (hraniční — výzva k trestnímu stíhání konkrétního řečníka)
   citace:
   - text: To, že si studenti dovolí říct, že sice chtějí nenásilný protesty, ale že budou dělat bordel
       veřejně, bych považoval za narušování veřejného pořádku a tohle z toho člověka bych trestně odstíhal.
-      […] by měl být trestně odstíhaný.“ (hraniční — výzva k trestnímu stíhání konkrétního řečníka)
-  osoby:
-  - osoba: studentstvo-studenti-famu
-    vztah: negativni
-    kontext: Nástroj revoluce „řízené ze CIA“; řečníka by trestně stíhal (→ stoch. teror)
+      […] by měl být trestně odstíhaný.
   teror:
     terc: řečník studentské demonstrace za ČT (FAMU)
     hranicni: true

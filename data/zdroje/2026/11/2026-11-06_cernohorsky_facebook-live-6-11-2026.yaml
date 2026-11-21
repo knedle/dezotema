@@ -9,6 +9,10 @@ zdroj:
   rezim: standard
   poznamka: 1 h 38 min, vysílá z auta (na hlavním profilu mu Facebook zablokoval živé vysílání); závěr
     sbírky pro T. Vlasákovou a I. Rosickou a písně (Ortel).
+  osoby:
+  - osoba: spd
+    vztah: negativni
+    kontext: Devět let nic neudělala, referendum a odvolatelnost nepřišly
 vyroky:
 - id: cernohorsky-2026-11-06-01
   typ: tvrzeni
@@ -60,9 +64,6 @@ vyroky:
   - osoba: petr-pavel
     vztah: negativni
     kontext: „Stupidní figura“, „kretén“, „kripl z Hradu“; s Lichtenštejny „ruku v ruce“
-  - osoba: katerina-konecna
-    vztah: pozitivni
-    kontext: Vstup k Patriotům „není zrada“, ale politický vývoj
   podtema: Prezident Petr Pavel — hodnocení Jiřím Černohorským
 - id: cernohorsky-2026-11-06-04
   typ: tvrzeni
@@ -169,9 +170,9 @@ vyroky:
   - osoba: petr-macinka
     vztah: rozporuplny
     kontext: Kritizuje je, ale „nic lepšího“ nemáme
-  - osoba: spd
-    vztah: negativni
-    kontext: Devět let nic neudělala, referendum a odvolatelnost nepřišly
+  - osoba: katerina-konecna
+    vztah: pozitivni
+    kontext: Vstup k Patriotům „není zrada“, ale politický vývoj
   podtema: Vlastní vládní program „kdybych byl Babišem" (Černohorský)
 - id: cernohorsky-2026-11-06-08
   typ: tvrzeni
@@ -216,11 +217,12 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Pavel Zítko, Jiří Hradil
-  text: pojmenované terče + dehumanizace („dobytek“) + přání trestu
+  text: pojmenované terče + dehumanizace (…) + přání trestu
   citace:
   - text: tyhle zmrdi dva, vyjebaní […] byl bych šťastnej, kdyby tenhle zmrd Zítko skončil minimálně aspoň
-      na ty tři, čtyři roky v kriminále“; „takovej Zítko dobytek rozhodně je, Hradil rozhodně dobytek
-      je
+      na ty tři, čtyři roky v kriminále
+  - text: takovej Zítko dobytek rozhodně je, Hradil rozhodně dobytek je
+  - text: dobytek
   osoby:
   - osoba: zitko
     vztah: negativni
@@ -236,11 +238,13 @@ vyroky:
   temata:
   - migrace
   nadpis: migranti („negři, černoši, arabové“) a zastánci migrace
-  text: 'Terč: migranti („negři, černoši, arabové“) a zastánci migrace.'
+  text: Komentář …; zastánce migrace (…) by … — rasová dehumanizace skupiny (…) + fantazie o internaci
+    odpůrců
   citace:
-  - text: Komentář „vůči negrům, černochům, arabům a všechny té veškeré té verbeži“; zastánce migrace
-      („kretény“) by „vzal a dal je do těch táborů, do těch get“ — rasová dehumanizace skupiny („verbež“)
-      + fantazie o internaci odpůrců
+  - text: vůči negrům, černochům, arabům a všechny té veškeré té verbeži
+  - text: kretény
+  - text: vzal a dal je do těch táborů, do těch get
+  - text: verbež
   teror:
     terc: migranti („negři, černoši, arabové“) a zastánci migrace
     hranicni: false

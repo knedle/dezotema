@@ -103,8 +103,8 @@ vyroky:
   nadpis: Zdeněk Hřib
   text: výzva k fyzickému napadení + trestu
   citace:
-  - text: Ty vole, jdi do hajzlu, ty zmrde pirátskej. Rozkopa ti rypák" / „Tohle hovado má sedět v kriminále
-      [...] já bych ho rozjebal na kousky, toho hajzla
+  - text: Ty vole, jdi do hajzlu, ty zmrde pirátskej. Rozkopa ti rypák
+  - text: Tohle hovado má sedět v kriminále [...] já bych ho rozjebal na kousky, toho hajzla
   teror:
     terc: Zdeněk Hřib
     hranicni: false
@@ -138,7 +138,9 @@ vyroky:
   nadpis: LGBT lidé, „furries"
   text: skupinová dehumanizace bez výzvy
   citace:
-  - text: psychopatů, vymydlených psychoušů", „tyhle teplouše", „buzici
+  - text: psychopatů, vymydlených psychoušů
+  - text: tyhle teplouše
+  - text: buzici
   teror:
     terc: LGBT lidé, „furries"
     hranicni: false

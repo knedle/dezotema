@@ -22,6 +22,11 @@ zdroj:
     (14) EU akční plán elektrifikace — [ceny-energie.md](ceny-energie.md). (15) EU pravidla pro děti online
     + chat control/digitální ID — [digitalni-kontrola.md](digitalni-kontrola.md). Bez predikcí a stoch.
     teroru.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Označen za „nejlepšího politika na světě"; Vrabel by řídil ČR stejně (zásoby, armáda, „konec
+      volného trhu")
   prehled:
   - tema: Zpracováno 15 témat ("Zprávy v devět s komentářem")
     text: '(1) Ukrajinské útoky na Moskvu (8 mrtvých) jako zlomová eskalace — [valka-nato-rusko.md](../valka-nato-rusko.md).
@@ -173,11 +178,6 @@ vyroky:
     ocelárny British Steel (dříve čínská Jingye Group) z důvodu „národní bezpečnosti", proti němuž se
     ohradil Peking — obchodní zájmy se dnes prý neprosazují trhem, ale „násilím", clny, sankcemi a válkami;
     svět je „na divokém západě" a dělí se na dva tábory. Rozšiřuje dřívější [Srbsko jako model suverenity](#).
-  osoby:
-  - osoba: aleksandar-vucic
-    vztah: pozitivni
-    kontext: Označen za „nejlepšího politika na světě"; Vrabel by řídil ČR stejně (zásoby, armáda, „konec
-      volného trhu")
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-18-10
   typ: tvrzeni

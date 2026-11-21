@@ -9,7 +9,7 @@ from tools.archiv.model import OsobaRef, Vyrok, Zdroj
 from tools.archiv.slug import ascii_slug
 from tools.migrace.pomocne import (kotvy_z_textu, najdi_zdroje, zajisti_osobu,
                                    zdroj_podle_mluvciho)
-from tools.migrace.temata import _datum_z, _slova, index_osob
+from tools.migrace.temata import _datum_z, index_osob
 
 SYMBOLY = {"✅": "pozitivni", "❌": "negativni", "⚖": "rozporuplny", "○": "neutralni"}
 
@@ -67,23 +67,37 @@ def rozdel_jmena(text: str) -> list[str]:
     return [x.strip() for x in out if x.strip()]
 
 
-def _stem(jmeno: str) -> str:
+_PISMENO = "A-Za-zÁ-žÀ-ÿ"
+_KONCOVKY = "aeiouyáéíóúůýě"
+
+
+def _vzor_prijmeni(jmeno: str) -> re.Pattern | None:
+    """Příjmení s diakritikou, VELKÝM počátečním písmenem a českými pádovými příponami."""
     slova = re.sub(r"\([^)]*\)", "", jmeno).split()
     if not slova:
-        return ""
-    p = ascii_slug(slova[-1])
-    return p[:-1] if len(p) >= 5 else p
-
-
-def najdi_vyrok(z: Zdroj, jmeno: str) -> Vyrok | None:
-    """Výrok zdroje, jehož text (nadpis, text, citace) nejčastěji obsahuje příjmení osoby."""
-    st = _stem(jmeno)
-    if len(st) < 3:
         return None
-    rx = re.compile(r"\b" + re.escape(st))
+    p = slova[-1].strip(".,;:")
+    if len(p) < 4 or not p[0].isupper():
+        return None
+    kmen = p[:-1] if len(p) >= 5 and p[-1].lower() in _KONCOVKY else p
+    return re.compile(rf"(?<![{_PISMENO}]){re.escape(kmen)}[a-zá-žà-ÿ]{{0,4}}(?![{_PISMENO}])")
+
+
+def efektivni_mluvci(v: Vyrok | None, z: Zdroj) -> str:
+    return (v.mluvci if v is not None and v.mluvci else None) or z.mluvci
+
+
+def najdi_vyrok(z: Zdroj, jmeno: str, mluvci: str | None = None) -> Vyrok | None:
+    """Výrok zdroje (s efektivním mluvčím `mluvci`, je-li zadán), jehož text (nadpis, text,
+    citace) nejčastěji obsahuje příjmení osoby – rozlišuje velikost písmen i diakritiku."""
+    rx = _vzor_prijmeni(jmeno)
+    if rx is None:
+        return None
     nej, nej_n = None, 0
     for v in z.vyroky:
-        t = ascii_slug(" ".join([v.nadpis, v.text, *[c.text for c in v.citace]])).replace("-", " ")
+        if mluvci and efektivni_mluvci(v, z) != mluvci:
+            continue
+        t = " ".join([v.nadpis, v.text, *[c.text for c in v.citace]])
         n = len(rx.findall(t))
         if n > nej_n:
             nej, nej_n = v, n
@@ -99,7 +113,8 @@ class Vysledek:
 
 
 def prirad(zminky: list[ZminkaRaw], archiv, kotvy: dict[str, str] | None = None) -> Vysledek:
-    """Zapíše `OsobaRef` do výroku (příjmení v textu) nebo do `zdroj.osoby`.
+    """Zapíše `OsobaRef` do výroku (příjmení v textu) nebo do `zdroj.osoby`, ale jen k výroku /
+    zdroji, jehož efektivní mluvčí je autor stránky (`mluvci_stranky`; None = bez omezení).
     `kotvy` = mapa kotva `_zdroje.md` -> id zdroje. Neznámé osoby se doplní do `archiv.osoby`."""
     by_id = {z.id: z for z in archiv.zdroje}
     idx = index_osob(archiv.osoby)
@@ -112,6 +127,10 @@ def prirad(zminky: list[ZminkaRaw], archiv, kotvy: dict[str, str] | None = None)
             z = nalez[0] if nalez else None
         if z is None:
             z = zdroj_podle_mluvciho(by_id, zm.mluvci_stranky, zm.datum)
+        strana = zm.mluvci_stranky
+        if z is not None and strana and z.mluvci != strana \
+                and not any(v.mluvci == strana for v in z.vyroky):
+            z = None            # zdroj jiného mluvčího: řádek nelze přiřadit
         if z is None:
             vys.nezarazeno.append(zm)
             continue
@@ -122,7 +141,9 @@ def prirad(zminky: list[ZminkaRaw], archiv, kotvy: dict[str, str] | None = None)
                                                 zm.kotva_zdroje, zm.mluvci_stranky))
                 continue
             ref = OsobaRef(slug, zm.vztah, zm.kontext)
-            v = najdi_vyrok(z, jm)
+            v = najdi_vyrok(z, jm, strana)
+            if v is None and strana and z.mluvci != strana:
+                v = next((x for x in z.vyroky if x.mluvci == strana), None)
             cil = v.osoby if v is not None else z.osoby
             if ref not in cil:
                 cil.append(ref)

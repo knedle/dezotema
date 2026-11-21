@@ -66,10 +66,6 @@ vyroky:
     v zakázkách ministerstva obrany: „nebudeme to kupovat u Rheinmetallu, u Saabu, u Lockheed Martinu“.
     Za současného nastavení podle něj dvojnásobná práce nezbohatí ČR, „jenom z ní odejde dvakrát více
     dividend do Německa, Francie, Ameriky“.'
-  osoby:
-  - osoba: stan
-    vztah: negativni
-    kontext: „Čiré zlo“
   podtema: Ekonomický program PRO
 - id: rajchl-2026-10-11-04
   typ: tvrzeni
@@ -126,6 +122,9 @@ vyroky:
   - osoba: martin-gara
     vztah: pozitivni
     kontext: „Neuvěřitelně poctivý kluk“, přes 5 % v Havířově
+  - osoba: stan
+    vztah: negativni
+    kontext: „Čiré zlo“
   podtema: Komunální volby
 - id: rajchl-2026-10-11-07
   typ: predikce

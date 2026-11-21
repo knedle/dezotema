@@ -24,8 +24,7 @@ zdroj:
   - tema: L-39NG Skyfox jako lovec dronů
     text: 'ironie: „teď budeme dodávat ještě letadla".'
   - tema: 'Jarosław: TVP spekuluje o ruské provokaci'
-    text: „pravidlo satanismu", „Rus" jako synonymum zločince
-    vyrok: vrabel-2026-09-25-05
+    text: ⚡ „pravidlo satanismu", „Rus" jako synonymum zločince → viz [Migrace](../migrace.md)
   - tema: 'Bytom: odstraněn sovětský obelisk'
     text: bez Sovětů by Polsko nebylo.
   - tema: 'Karlovy Vary: středisko IZS'
@@ -180,7 +179,8 @@ vyroky:
   text: rasová dehumanizace skupiny bez výzvy k násilí
   citace:
   - text: ty černí tam vyhrávají v obojím [...] i v té střelbě, protože tam neustále střílí někde nějaký
-      ty bílí" / „šikovní kluci [...] na olympiádu běh s taškou
+      ty bílí
+  - text: šikovní kluci [...] na olympiádu běh s taškou
   teror:
     terc: černí migranti v Británii
     hranicni: false

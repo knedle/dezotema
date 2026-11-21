@@ -111,12 +111,13 @@ vyroky:
   temata:
   - jaderne-zbrane
   nadpis: Andrej Babiš (alegorie „Ferdy Mravence")
-  text: alegorická výzva k násilí vůči premiérovi s formálním disclaimerem
+  text: '(Zuzka: …) … — alegorická výzva k násilí vůči premiérovi s formálním disclaimerem'
   citace:
-  - text: 'Jako, nechci tady vyzývat k žádnému násilí, ale kdyby si to představil třeba v knížce o Ferdovi
+  - text: Jako, nechci tady vyzývat k žádnému násilí, ale kdyby si to představil třeba v knížce o Ferdovi
       Mravencovi [...] tak by mravenci z té země normálně měli jít a měli by ho normálně exkomunikovat
-      ze země a nebo rovnou sežrat." (Zuzka: „Roztrhat a sežrat.") „Nebo ho zakopat dohluboko do mraveniště
-      [...] umlátit jehličkama'
+      ze země a nebo rovnou sežrat.
+  - text: Roztrhat a sežrat.
+  - text: Nebo ho zakopat dohluboko do mraveniště [...] umlátit jehličkama
   teror:
     terc: Andrej Babiš (alegorie „Ferdy Mravence")
     hranicni: false

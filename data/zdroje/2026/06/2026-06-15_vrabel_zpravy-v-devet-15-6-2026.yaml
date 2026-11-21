@@ -70,10 +70,6 @@ vyroky:
 
     Zároveň ČR pod Babišem získala z evropského nástroje **SAFE** půjčku **2,06 mld € (50,3 mld Kč)** na vojenské vybavení a dostavbu dálnice D11. Vrabel ironicky „gratuluje" k dalšímu zadlužení — „bezpečí" (SAFE) ve skutečnosti slouží vyzbrojení EU a budování dálnic pro přesun tanků Leopard.
   osoby:
-  - osoba: marek-kuba
-    vztah: negativni
-    kontext: Strana „Nové Česko" (v průzkumu Kantar) = uměle vyrobená; Kuba (ex-min. průmyslu, firma Battery
-      Box se zakázkami od ČEZ, nosil ukr. trojzubec) nikdy nebyl vlastenec
   - osoba: andrej-babis
     vztah: negativni
     kontext: „Gratulace" za další zadlužení — sjednal půjčku SAFE 2,06 mld € (50,3 mld Kč) na zbrojení
@@ -121,4 +117,9 @@ vyroky:
     zakázky od ČEZ, a po ruském vstupu na Ukrajinu „hrdě nosil ukrajinský trojzubec" — nikdy nebyl vlastenec.
     Vrabel: strana bez reálného základu se vytvoří, dosadí se politik se sponzory v pozadí, média ho začnou
     zvát do pořadů a „najednou se objeví v průzkumech" — takto vznikají strany, které pak řídí zemi.'
+  osoby:
+  - osoba: marek-kuba
+    vztah: negativni
+    kontext: Strana „Nové Česko" (v průzkumu Kantar) = uměle vyrobená; Kuba (ex-min. průmyslu, firma Battery
+      Box se zakázkami od ČEZ, nosil ukr. trojzubec) nikdy nebyl vlastenec
   podtema: Volby

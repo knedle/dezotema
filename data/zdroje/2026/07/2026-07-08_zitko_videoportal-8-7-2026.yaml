@@ -64,10 +64,13 @@ vyroky:
   temata:
   - politicky-system
   nadpis: „Pizda, Ciroková", Lukáš Valášek
-  text: jmenovaní novináři označeni za placené „prestituty" a „sráče" v kontextu obvinění z brutální dehonestace
-    covidových „varovatelů" v médiích
+  text: jmenovaní novináři označeni za placené … a … v kontextu obvinění z brutální dehonestace covidových
+    … v médiích
   citace:
   - text: Typ Pizda, Ciroková, Lukáš Valášek a další sráči píšící jako na objednávku politické garnitury
+  - text: prestituty
+  - text: sráče
+  - text: varovatelů
   osoby:
   - osoba: kristyna-cirokova
     vztah: negativni

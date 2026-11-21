@@ -238,10 +238,11 @@ vyroky:
   temata:
   - nato-zbrojeni-militarizace
   nadpis: Mark Rutte a organizátoři útoku na Írán
-  text: 'hraniční: obrazné „visení" + výzva k odsouzení, srovnání s Hitlerem'
+  text: 'hraniční: obrazné … + výzva k odsouzení, srovnání s Hitlerem'
   citace:
   - text: Takovýhle lidi by měli viset na nástěnce, na nástěnce válečných zločinců. [...] Pokud někdo
       trošku rozumí mezinárodnímu právu, tak by musel takovýhle lidi odsoudit.
+  - text: visení
   teror:
     terc: Mark Rutte a organizátoři útoku na Írán
     hranicni: true

@@ -105,27 +105,30 @@ vyroky:
     stav: vyvraceno
     horizont_do: 2026-10-19
     vyhodnoceni:
+    - datum: 2026-10-16
+      text: 'Do 19. 10. EBS aktivován nebyl. 20. 10. Zítko predikci posunul: midterms „vůbec nemusí proběhnout“,
+        místo nich přijde EBS — [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka
+        (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)'
     - datum: 2026-11-20
       text: EBS nebyl aktivován do 19. 10. ani před volbami 3. 11.
       stav: vyvraceno
     - datum: 2026-11-20
       text: Zítko termíny dál posouvá. 16. 11. cituje text „i když k EBS nedojde dnes večer ani zítra“
         a „jubileum“ přesouvá na leden.
-    - datum: 2026-10-16
-      text: 'Do 19. 10. EBS aktivován nebyl. 20. 10. Zítko predikci posunul: midterms „vůbec nemusí proběhnout“,
-        místo nich přijde EBS — [ČsTV2 — Živě na kanálu Jana Peterková: aktuality a výzva pro Čermáka
-        (20. 10. 2026)](_zdroje.md#československo-tv2--živě-peterková-aktuality-výzva-čermákovi-20-10-2026)'
 - id: zitko-2026-10-16-06
   typ: stoch-teror
   temata:
   - kauzy
   nadpis: Ivan Masaryk a kritici z řad „hejtrů“ (vč. „ukrajinského vězně z Trenčína“)
-  text: dehumanizace („hmyz“, „mouchy“) a implicitní hrozba trestu v rámci „vojenské operace“
+  text: dehumanizace (…, …) a implicitní hrozba trestu v rámci …
   citace:
   - text: Teď může komentovat kdokoliv, takže i Masaryk, i tady ten hmyz, který je nalezlej […] je to
       jako mouchy v letě, a i pro tyto idioty v závěru speciální vojenské operace, která se chýlí ke zdárnému
       konci, i na ně bude myšleno, protože stále žijí na obláčku, že […] jejich páníčci […] je nějakým
       způsobem zachrání. Nezachrání.
+  - text: hmyz
+  - text: mouchy
+  - text: vojenské operace
   osoby:
   - osoba: ivan-masaryk
     vztah: negativni

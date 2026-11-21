@@ -254,11 +254,11 @@ vyroky:
   temata:
   - blizky-vychod
   nadpis: Donald Trump, Benjamin Netanyahu
-  text: 'Terč: Donald Trump, Benjamin Netanyahu.'
+  text: 'Souhlasně reaguje na divácký komentář (…): … — schválení popravy/gilotiny pro jmenované za dění
+    v Gaze, Libanonu a Íránu'
   citace:
-  - text: 'Souhlasně reaguje na divácký komentář („Netanyahu je masový vrah jeden i druhý, i guillotina
-      je málo pro vrah"): „Zastávám váš názor." — schválení popravy/gilotiny pro jmenované za dění v Gaze,
-      Libanonu a Íránu'
+  - text: Netanyahu je masový vrah jeden i druhý, i guillotina je málo pro vrah
+  - text: Zastávám váš názor.
   teror:
     terc: Donald Trump, Benjamin Netanyahu
     hranicni: false

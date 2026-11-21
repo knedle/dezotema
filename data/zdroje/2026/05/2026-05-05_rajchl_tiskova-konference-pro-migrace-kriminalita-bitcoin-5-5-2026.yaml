@@ -18,6 +18,10 @@ zdroj:
     vztah: pozitivni
     kontext: Jako nový ministr spravedlnosti odblokoval Bitcoin kauzu, která byla 11 měsíců potlačována
       Decroix
+  - osoba: marian-jurecka
+    vztah: negativni
+    kontext: Jeho MPSV připravilo tabulku ekonomického přínosu migrace, která je podle Rajchla „absolutně
+      lživá" — nezahrnuje nepřímé náklady
 vyroky:
 - id: rajchl-2026-05-05-02
   typ: tvrzeni
@@ -33,11 +37,6 @@ vyroky:
     NYT a Kiel Institute uvádějí náklady na 10 miliard EUR ročně. Rajchl požaduje, aby MPSV zveřejnilo metodologicky korektní výpočet s úplnými výdaji.
   citace:
   - text: Já jsem vždycky tvrdil, že ta tabulka Jurečkových úředníků je naprosto vylhaná.
-  osoby:
-  - osoba: marian-jurecka
-    vztah: negativni
-    kontext: Jeho MPSV připravilo tabulku ekonomického přínosu migrace, která je podle Rajchla „absolutně
-      lživá" — nezahrnuje nepřímé náklady
 - id: rajchl-2026-05-05-03
   typ: tvrzeni
   temata:

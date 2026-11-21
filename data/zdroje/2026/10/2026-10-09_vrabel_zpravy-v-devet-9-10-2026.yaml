@@ -210,11 +210,10 @@ vyroky:
   temata:
   - petr-pavel
   nadpis: Petr Pavel
-  text: 'Terč: Petr Pavel.'
+  text: Jmenovaný terč + přání fyzického trestu (bičování), pronesené jako rýmovačka v kontextu obvinění
+    z korupce
   citace:
-  - text: No tak co k tomu říct, tak prezident si létá tryskáčem, nevím, radši bych mu dal karabáčem.“
-      Jmenovaný terč + přání fyzického trestu (bičování), pronesené jako rýmovačka v kontextu obvinění
-      z korupce
+  - text: No tak co k tomu říct, tak prezident si létá tryskáčem, nevím, radši bych mu dal karabáčem.
   teror:
     terc: Petr Pavel
     hranicni: false
@@ -223,11 +222,12 @@ vyroky:
   temata:
   - valka-ukrajina-prubeh
   nadpis: ukrajinští náboráři / Ukrajinci
-  text: 'Terč: ukrajinští náboráři / Ukrajinci.'
+  text: Skupinová dehumanizace (…, převzaté …) v kontextu videí násilné mobilizace
   citace:
   - text: Co to je prostě za dobytek? [...] Až se tohle jednou bude probírat [...] uvidí to a odplivnou
-      si, co je Ukrajina dnešní.“ Skupinová dehumanizace („dobytek“, převzaté „chovají se jako zvířata“)
-      v kontextu videí násilné mobilizace
+      si, co je Ukrajina dnešní.
+  - text: dobytek
+  - text: chovají se jako zvířata
   teror:
     terc: ukrajinští náboráři / Ukrajinci
     hranicni: false

@@ -28,10 +28,12 @@ vyroky:
   temata:
   - valka-nato-rusko
   nadpis: Fialova vláda (Fiala, Rakušan, Lipavský, Černochová, Pekarová)
-  text: výzva k doživotí + dehumanizace (archivní projev z 2022, znovu zveřejněn)
+  text: + Černochová …, Fiala … — výzva k doživotí + dehumanizace (archivní projev z 2022, znovu zveřejněn)
   citace:
   - text: Vy jste zločinci a patří vám tresty nejvyšší. Což je v České republice doživotí. A vy z těch
-      kriminálu nemáte vylézt." + Černochová „čubka blbá", Fiala „odpad lidské společnosti
+      kriminálu nemáte vylézt.
+  - text: čubka blbá
+  - text: odpad lidské společnosti
   teror:
     terc: Fialova vláda (Fiala, Rakušan, Lipavský, Černochová, Pekarová)
     hranicni: false

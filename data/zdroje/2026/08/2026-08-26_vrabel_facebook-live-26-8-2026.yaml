@@ -39,6 +39,9 @@ zdroj:
     text: kritika odstřižení od ruských zdrojů — nezpracováno (opakování)
   - tema: Sabotáž muniční továrny — zadrženi 2 Lotyši a Ukrajinec
     text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
+  - tema: Predikce
+    text: '[Ukrajina se na podzim zhroutí](../predikce.md#ladislav-vrabel--ukrajina-se-na-podzim-zhroutí-kvůli-ruské-ofenzivě-a-nedostatku-energií-26-8-2026)'
+    vyrok: vrabel-2026-08-26-12
 vyroky:
 - id: vrabel-2026-08-26-01
   typ: tvrzeni

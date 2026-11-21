@@ -19,6 +19,9 @@ zdroj:
   - osoba: petr-pavel
     vztah: negativni
     kontext: „Zlobbovaný“ zbrojaři
+  - osoba: spd
+    vztah: negativni
+    kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
   prehled:
   - tema: Střelba v Krakově (6 mrtvých) a „černý týden“ Polska
     text: Bundeswehr ve Varšavě přirovnává k roku 1968 — má pomoci „ústavnímu puči“ a případně se přesunout
@@ -216,12 +219,6 @@ vyroky:
   - text: Je to cesta do pekla, spojit se všichni v politice. To je dobrý jenom pro ty, jako byla pětikoalice,
       aby se udrželi u koryta.
   osoby:
-  - osoba: mark-rutte
-    vztah: negativni
-    kontext: „Nemůžete věřit ani nos mezi očima“, každou chvíli říká něco jiného
-  - osoba: spd
-    vztah: negativni
-    kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
   - osoba: trikolora
     vztah: negativni
     kontext: Spojili se s ANO „ke korytům“ a přestali plnit vlastenecký program
@@ -295,6 +292,9 @@ vyroky:
   - text: Ten konflikt skončí, až se vyřeší ten nacismus, který na Ukrajině je, až se vyřeší to, že se
       okolo Ruska staví vojenský základny.
   osoby:
+  - osoba: mark-rutte
+    vztah: negativni
+    kontext: „Nemůžete věřit ani nos mezi očima“, každou chvíli říká něco jiného
   - osoba: michal-strnad
     vztah: negativni
     kontext: Zbrojařská lobby, chodí za Okamurou do Sněmovny
@@ -318,16 +318,15 @@ vyroky:
   predikce:
     horizont: Abú Zabí; Šen-čen 18.–19. 11. 2026
     stav: castecne
-    horizont_do: 2026-11-19
     vyhodnoceni:
-    - datum: 2026-11-20
-      text: summit v Šen-čenu (19. 11.) podle Vrabelova vysílání skončil bez mírové dohody pro Ukrajinu;
-        Abú Zabí viz dřívější poznámky
-      stav: castecne
     - datum: 2026-11-19
       text: 'Podle Vrabelova popisu summit v Šen-čenu přinesl shodu o jaderné bezpečnosti, ne mír na Ukrajině.
         Putin prohlásil, že po útocích na Krymský most „nebudou žádné dohody“, a Vrabel dodává: „Rusko
         nepřestane na Ukrajině.“'
+    - datum: 2026-11-20
+      text: summit v Šen-čenu (19. 11.) podle Vrabelova vysílání skončil bez mírové dohody pro Ukrajinu;
+        Abú Zabí viz dřívější poznámky
+      stav: castecne
 - id: vrabel-2026-11-07-12
   typ: predikce
   temata:
@@ -345,12 +344,14 @@ vyroky:
   temata:
   - blizky-vychod
   nadpis: Donald Trump
-  text: reakce na zadržení muže, kterému „hlasy“ přikazovaly zabít Trumpa; jmenovaný terč + racionalizace
-    atentátu výčtem „neodpustitelných“ činů
+  text: reakce na zadržení muže, kterému … přikazovaly zabít Trumpa; jmenovaný terč + racionalizace atentátu
+    výčtem … činů
   citace:
   - text: když si vzpomeneme na zabitýho Khameneiho […] to je neodpustitelná věc […] takže se vůbec nedivím
       tomu, že někde existují tady v prostoru nějaké hlasy, které občas někomu říkají, že by ho měl jít
       z tohohle světa dostat pryč.
+  - text: hlasy
+  - text: neodpustitelných
   teror:
     terc: Donald Trump
     hranicni: false

@@ -54,6 +54,9 @@ zdroj:
     text: → [Válka na Ukrajině — průběh a vyjednávání](../valka-ukrajina-prubeh.md)
   - tema: USA
     text: 3 popravy v jeden den, kritika USA jako státu založeného na genocidě/otroctví — nezpracováno
+  - tema: Predikce
+    text: '[Babiš podepíše francouzský jaderný deštník](../predikce.md#ladislav-vrabel--babiš-potichu-podepíše-dohodu-o-francouzském-jaderném-deštníku-14-8-2026)'
+    vyrok: vrabel-2026-08-14-05
 vyroky:
 - id: vrabel-2026-08-14-01
   typ: tvrzeni
@@ -153,7 +156,6 @@ vyroky:
   predikce:
     horizont: před 3. 10. 2026 nebo krátce po (neurčeno přesně)
     stav: vyvraceno
-    horizont_do: 2026-10-03
     vyhodnoceni:
     - datum: 2026-11-20
       text: (k 20. 11.) — dohoda o francouzském jaderném deštníku nebyla podepsána

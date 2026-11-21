@@ -82,6 +82,9 @@ def krok_temata(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
                                       sestav_vyroky)
 
     zdroje, temata, osoby = nacti_vse(root)
+    # mluvčí se hledají jen v číselníku, který vzniká v kroku zdroje (ne v osobách doplněných
+    # později z predikcí / zmínek) -> výsledek nezávisí na stavu data/osoby.yaml
+    ciselnik = {o.slug: o for o in osoby_z_wiki(stara_wiki)}
     for z in zdroje:
         z.vyroky = [v for v in z.vyroky if v.typ != "tvrzeni"]
     by_id = {z.id: z for z in zdroje}
@@ -95,7 +98,7 @@ def krok_temata(stara_wiki: Path, root: Path, mkdocs: Path) -> None:
             print(f"CHYBÍ stránka tématu: {p}")
             continue
         stranky += 1
-        jednotky += parsuj_stranku(p.read_text(encoding="utf-8"), slug, osoby)
+        jednotky += parsuj_stranku(p.read_text(encoding="utf-8"), slug, ciselnik)
     prirazene, neprirazene = prirad(jednotky, mapa, by_id)
     s = sestav_vyroky(prirazene, by_id, obsazena)
     neprirazene = pripoj_neprirazene(neprirazene, s)
@@ -234,12 +237,12 @@ def main(argv=None) -> int:
         if krok not in KROKY:
             print(f"neznámý krok: {krok}", file=sys.stderr)
             return 2
-    if "temata" in zadane and "osoby" not in zadane:
-        print("VAROVÁNÍ: krok temata přestavěl výroky typu tvrzeni a ztratil jejich odkazy na "
-              "osoby; spusť znovu i krok osoby.", file=sys.stderr)
-    for krok in KROKY:             # kanonické pořadí, ne pořadí zadání
-        if krok in zadane:
-            KROKY[krok](Path(a.stara_wiki), root, mkdocs)
+    # R10: kroky na sobě závisí (ids výroků, osoby, kotvy), proto vždy běží celý řetězec
+    # v kanonickém pořadí, ať je zadáno cokoli.
+    if set(zadane) != set(KROKY):
+        print(f"zadáno --krok {a.krok}; spouští se celý řetězec {' -> '.join(KROKY)}")
+    for krok in KROKY:
+        KROKY[krok](Path(a.stara_wiki), root, mkdocs)
     return 0
 
 

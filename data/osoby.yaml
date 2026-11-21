@@ -126,6 +126,8 @@ osoby:
   vlastni_stranka: false
 - slug: valerij-zaluzny
   jmeno: Valerij Zalužný
+  aliasy:
+  - Valerij Zalužnyj
   sledovany: false
   vlastni_stranka: false
 - slug: jeronim-tejc
@@ -1778,10 +1780,6 @@ osoby:
   vlastni_stranka: false
 - slug: recep-tayyip-erdogan
   jmeno: Recep Tayyip Erdoğan
-  sledovany: false
-  vlastni_stranka: false
-- slug: valerij-zaluznyj
-  jmeno: Valerij Zalužnyj
   sledovany: false
   vlastni_stranka: false
 - slug: sahra-wagenknechtova

@@ -102,11 +102,13 @@ vyroky:
   temata:
   - konspirace-ceskoslovensko
   nadpis: vláda a poslanci; Klaus, Mečiar, Havel, Stráský; novináři
-  text: 'Terč: vláda a poslanci; Klaus, Mečiar, Havel, Stráský; novináři.'
+  text: Vláda a poslanci …; aktéři rozdělení 1992 …, Havel měl …; novináři … — hraniční (dehumanizace,
+    zpětná výzva k vojenskému zásahu; od násilí klackem se výslovně distancuje)
   citace:
-  - text: Vláda a poslanci „masoví vrazi, který propagovaly pokusy na lidech“; aktéři rozdělení 1992 „stále
-      trestněprávně odpovědní“, Havel měl „vyslat armádu proti pučistům“; novináři „mediální prostituti“
-      — hraniční (dehumanizace, zpětná výzva k vojenskému zásahu; od násilí klackem se výslovně distancuje)
+  - text: masoví vrazi, který propagovaly pokusy na lidech
+  - text: stále trestněprávně odpovědní
+  - text: vyslat armádu proti pučistům
+  - text: mediální prostituti
   teror:
     terc: vláda a poslanci; Klaus, Mečiar, Havel, Stráský; novináři
     hranicni: true

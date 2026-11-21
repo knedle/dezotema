@@ -41,6 +41,8 @@ zdroj:
     text: → [Migrace](../migrace.md)
   - tema: Prodloužení životnosti jaderných reaktorů na 80 let (Temelín) — skeptický technický komentář
     text: → [Ceny energií](../ceny-energie.md)
+  - tema: Stochastický teror
+    text: '[Fedorov/Turek — „chocholoušek", nucené omezení svobody](../stochasticky-teror.md)'
 vyroky:
 - id: vrabel-2026-08-18-01
   typ: tvrzeni
@@ -147,11 +149,14 @@ vyroky:
   temata:
   - digitalni-kontrola
   nadpis: Michajlo Fedorov, Filip Turek
-  text: jmenovaní terči (Fedorov přirovnán k Turkovi jako „stejný psychopat") dehumanizováni opakovaným
-    označením za „blázny"/psychopaty + výzva k nucenému omezení svobody (odvoz „chocholouškem" do ústavu)
+  text: jmenovaní terči (Fedorov přirovnán k Turkovi jako …) dehumanizováni opakovaným označením za …/psychopaty
+    + výzva k nucenému omezení svobody (odvoz … do ústavu)
   citace:
   - text: Pošlete na ně chocholouška, chocholouška, ať je zavřou do bílého pláška a odvezou, protože jsou
       blázni. [...] takový lidi je potřeba zastavit, protože jsou blázni. Protože nás všechny ohrožujou.
+  - text: stejný psychopat
+  - text: blázny
+  - text: chocholouškem
   teror:
     terc: Michajlo Fedorov, Filip Turek
     hranicni: false

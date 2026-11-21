@@ -156,10 +156,12 @@ vyroky:
   temata:
   - kauzy
   nadpis: Fiala, Stanjura, Blažek + „celý soudní aparát"
-  text: 'Terč: Fiala, Stanjura, Blažek + „celý soudní aparát".'
+  text: Jmenovaní označeni za viníky …, …; opakovaná výzva, aby … stáli před tribunálem a nesli …
   citace:
-  - text: Jmenovaní označeni za viníky „zabíjení biologickou zbraní hromadného ničení", „genocidy a sterilizace
-      obyvatel"; opakovaná výzva, aby „padni komu padni" stáli před tribunálem a nesli „spravedlivý trest"
+  - text: zabíjení biologickou zbraní hromadného ničení
+  - text: genocidy a sterilizace obyvatel
+  - text: padni komu padni
+  - text: spravedlivý trest
   osoby:
   - osoba: pavel-blazek
     vztah: negativni

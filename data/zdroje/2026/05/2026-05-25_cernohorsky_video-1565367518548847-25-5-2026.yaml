@@ -32,10 +32,11 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Petr Fiala + brněnští zastupitelé
-  text: 'Terč: Petr Fiala + brněnští zastupitelé.'
+  text: Fiala označen za …; zastupitelé za … za kolaboraci se SdL — …
   citace:
-  - text: Fiala označen za „spolupachatele vražd"; zastupitelé za „adepti na trest nejvyšší, trest smrti"
-      za kolaboraci se SdL — „kolaborují s něčím, co tady vraždilo Czechoslováky za druhé světové války"
+  - text: spolupachatele vražd
+  - text: adepti na trest nejvyšší, trest smrti
+  - text: kolaborují s něčím, co tady vraždilo Czechoslováky za druhé světové války
   osoby:
   - osoba: petr-fiala
     vztah: negativni

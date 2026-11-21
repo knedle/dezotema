@@ -275,13 +275,15 @@ vyroky:
   temata:
   - konspirace
   nadpis: řidič SUV, který na D6 u Jesenice napadl řidičku před její dcerou
-  text: konkrétní identifikovatelná osoba („hajzel“) + výzva k vigilantskému „trestu“ mimo justici, s
-    formálním „nechci tady vyzývat k žádnému násilí“
+  text: konkrétní identifikovatelná osoba (…) + výzva k vigilantskému … mimo justici, s formálním …
   citace:
   - text: toho by někdo měl najít […] měla by se udělat normálně nějaká skupinka normálních kluků, který
       brání práva žen a slušnost v České republice, a měli by ho najít, toho týpka, a měli by si s ním
-      jít promluvit o tom, jak se chová muž k ženě“ / „normálně bych tam poslal nějakou radu starších
-      s takýma holema […] s dřevěnýma holema
+      jít promluvit o tom, jak se chová muž k ženě
+  - text: normálně bych tam poslal nějakou radu starších s takýma holema […] s dřevěnýma holema
+  - text: hajzel
+  - text: trestu
+  - text: nechci tady vyzývat k žádnému násilí
   teror:
     terc: řidič SUV, který na D6 u Jesenice napadl řidičku před její dcerou
     hranicni: false
@@ -293,7 +295,8 @@ vyroky:
   text: plošné vykreslení skupiny jako násilníků, bez výzvy k násilí; hraniční, navazuje na 21. 10.
   citace:
   - text: nechodili do družiny […] spíš běhali někde v Sierra Leone a nutili je, když byli malí, aby sekali
-      nohy a ruce svým kamarádům, aby přežili“ / „ty kultury nejdou úplně dohromady
+      nohy a ruce svým kamarádům, aby přežili
+  - text: ty kultury nejdou úplně dohromady
   teror:
     terc: migranti z Afriky (Senegal, Eritrea, Sierra Leone)
     hranicni: true

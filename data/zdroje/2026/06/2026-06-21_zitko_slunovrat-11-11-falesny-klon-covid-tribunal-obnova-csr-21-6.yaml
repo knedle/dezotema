@@ -33,6 +33,10 @@ zdroj:
     24. 6. — výročí jeho zatčení, křest knihy J. Peterkové) nezpracována. Živé vysílání na letní slunovrat
     (11:11) na náhradním profilu Pavel Zítko'
   osoby:
+  - osoba: rajchl
+    vztah: negativni
+    kontext: „Vládní koaliční poslanec" — nesplněné „desatero" z 26. 1. (vystoupení z WHO, zrušení očkovací
+      strategie, odstoupení od pandemické smlouvy); „buď máte výsledky, nebo výmluvy"
   - osoba: valerij-pjakin
     vztah: neutralni
     kontext: Ruský „akademik" blízký Putinovi — citován, že „na 99,9 %" bude obnoveno Československo jako
@@ -73,10 +77,6 @@ vyroky:
     navazuje na Vrabelovu tezi, že [v prezidentských volbách „vytáhnou herce"](#vrabel-jako-pravdivostní-extrémista-kritika-kultury-o-nikom-se-nemluví--pokrytectví-rajchla-21-6-2026)
     i na [konspirační výklad CIA dosazující elity](konspirace-ceskoslovensko.md#cia-dosadila-a-řídí-české-elity-klaus-havel-zeman-prezidenta-vybírá-cia--vrabel-21-6-2026).
   osoby:
-  - osoba: rajchl
-    vztah: negativni
-    kontext: „Vládní koaliční poslanec" — nesplněné „desatero" z 26. 1. (vystoupení z WHO, zrušení očkovací
-      strategie, odstoupení od pandemické smlouvy); „buď máte výsledky, nebo výmluvy"
   - osoba: petr-pavel
     vztah: negativni
     kontext: „Neměl koule" odpovědět na otevřený dopis Soni Pekové (doručen do datové schránky); skrývá
@@ -87,11 +87,13 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Andrej Babiš, Petr Fiala + „všichni odpovědní"
-  text: 'Terč: Andrej Babiš, Petr Fiala + „všichni odpovědní".'
+  text: Vlády Babiše i Fialy … do … injekcemi biozbraně COVID-19; opakovaná výzva, aby … (Norimberk 2.0)
+    a …
   citace:
-  - text: Vlády Babiše i Fialy „stoprocentně namočené" do „masových vražd, genocidy a sterilizace národa"
-      injekcemi biozbraně COVID-19; opakovaná výzva, aby „všichni odpovědní stáli před vojenským tribunálem"
-      (Norimberk 2.0) a „čelili spravedlivému trestu"
+  - text: stoprocentně namočené
+  - text: masových vražd, genocidy a sterilizace národa
+  - text: všichni odpovědní stáli před vojenským tribunálem
+  - text: čelili spravedlivému trestu
   osoby:
   - osoba: andrej-babis
     vztah: negativni

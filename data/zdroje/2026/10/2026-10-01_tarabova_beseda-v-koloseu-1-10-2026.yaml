@@ -9,6 +9,9 @@ zdroj:
   rezim: standard
   poznamka: Předvolební beseda PRO Liberec v MCU Koloseum (vysíláno 1. 10., soubor nese datum 2. 10.).
   osoby:
+  - osoba: tibor-batthyany-gen
+    vztah: negativni
+    kontext: Vypověděl koalici s PRO kvůli Tarabové
   - osoba: petr-kral
     vztah: pozitivni
     kontext: Vzorný starosta s vyrovnaným rozpočtem
@@ -88,10 +91,6 @@ vyroky:
     nikdy", tým PRO odmítl jít dál bez ní a postavil vlastní kandidátku (číslo 3). STAN, ODS, TOP 09,
     KDU-ČSL a Piráty označuje za „nevolitelné", senátnímu kandidátovi Martinu Půtovi přeje, aby neuspěl.
     Podrobněji viz [politicky-system.md](politicky-system.md#beseda-v-koloseu-obstrukce-opozice-nevolitelné-strany-kampaň-za-2-tisíce-a-polovina-platu-na-rajchlův-spolek-tarabová-1-10-2026).'
-  osoby:
-  - osoba: tibor-batthyany-gen
-    vztah: negativni
-    kontext: Vypověděl koalici s PRO kvůli Tarabové
   podtema: Komunální volby
 - id: tarabova-2026-10-01-05
   typ: predikce

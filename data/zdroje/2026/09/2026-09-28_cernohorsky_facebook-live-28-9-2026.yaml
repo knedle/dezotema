@@ -28,10 +28,6 @@ vyroky:
     ⚡ **Konflikt:** Vrabel své odsouzení prezentuje jako politickou perzekuci za „zaškrtnutí okýnka" o bezdlužnosti a „náhradu škody, ne dotaci" (viz [osoby/vrabel.md](osoby/vrabel.md)).
   citace:
   - text: Ladislav Vrábel je za mě obyčejný hochštapler a podvodník.
-  osoby:
-  - osoba: vrabel
-    vztah: negativni
-    kontext: „Hochštapler a podvodník", „kolaborant", „táhni do Srbska"
   podtema: Kauza Jesenicko — Stanjura obviněn ze zneužití povodňové půjčky
 - id: cernohorsky-2026-09-28-02
   typ: tvrzeni
@@ -72,6 +68,10 @@ vyroky:
     tisíc lidí) podle něj nenaplnil Vrabel s Jiřím Havlem sami, ale SPD (Foldyna), Rajchl, Konečná, odbory
     a další; třetí den prý Vrabel natočil video, že mu Havel „nechce poslat peníze". Vrabelovy útoky na
     Rajchla označuje za „bláboly", přestože Rajchla sám kritizuje.'
+  osoby:
+  - osoba: vrabel
+    vztah: negativni
+    kontext: „Hochštapler a podvodník", „kolaborant", „táhni do Srbska"
   podtema: Politická kultura
 - id: cernohorsky-2026-09-28-06
   typ: tvrzeni
@@ -103,11 +103,11 @@ vyroky:
   temata:
   - kauzy
   nadpis: Ladislav Vrabel, Miroslav Sládek
-  text: výzva k fyzickému napadení, vyhnání a uvěznění
+  text: + … — výzva k fyzickému napadení, vyhnání a uvěznění
   citace:
   - text: tady těmhle dvou zmrdům rozbít rypáky. Jenom rozbít rypáky, nakopat prdele a vykopat je z České
-      republiky. Vrábele táhni do hajzlu, do toho svýho Srbska [...] A Sládku, ty už zalez někam do kanálu"
-      + „A já bych ho zašil natvrdo
+      republiky. Vrábele táhni do hajzlu, do toho svýho Srbska [...] A Sládku, ty už zalez někam do kanálu
+  - text: A já bych ho zašil natvrdo
   teror:
     terc: Ladislav Vrabel, Miroslav Sládek
     hranicni: false

@@ -262,6 +262,10 @@ vyroky:
     volyňského pogromu z roku 1943. Zdůrazňuje, že „nenávidí" ne všechny Ukrajince (má ukrajinské přítelkyně),
     ale Zelenského, jeho okolí a náboráře TCK, kteří unášejí muže z ulic — „ať pochcípaj" (viz [Stochastický
     teror](stochasticky-teror.md)).'
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: Titul „UPA" pro jednotku; „ať pochcípaj"
   podtema: Stav Ukrajiny a mobilizace
 - id: cernohorsky-2026-09-22-12
   typ: tvrzeni
@@ -326,10 +330,6 @@ vyroky:
   citace:
   - text: Tuhle část Ukrajinců nenávidím. Ať, ať klidně pochcípaj, ať Zelenský a všichni kolem něho, ať
       pochcípaj! Zmrdí skurvení!
-  osoby:
-  - osoba: volodymyr-zelenskyj
-    vztah: negativni
-    kontext: Titul „UPA" pro jednotku; „ať pochcípaj"
   teror:
     terc: Volodymyr Zelenskyj a okolí, náboráři TCK
     hranicni: false

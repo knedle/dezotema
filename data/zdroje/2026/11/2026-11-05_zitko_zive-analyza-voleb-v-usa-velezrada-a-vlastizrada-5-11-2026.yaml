@@ -72,7 +72,6 @@ vyroky:
   predikce:
     horizont: zhruba do poloviny prosince 2026 (stíhání); 14. 2. 2027 (Super Bowl)
     stav: ceka
-    horizont_do: 2027-02-14
     vyhodnoceni:
     - datum: 2026-11-11
       text: 'K Super Bowlu 14. 2. 2027 Zítko opakuje: „věřím, že v té show budou už ti, kteří měli být
@@ -87,12 +86,13 @@ vyroky:
   temata:
   - konspirace-deep-state-qanon
   nadpis: Demokratická strana USA, „Deep State“; Clintonovi, Obama, Bush, Cheney, Rumsfeld
-  text: 'Terč: Demokratická strana USA, „Deep State“; Clintonovi, Obama, Bush, Cheney, Rumsfeld.'
+  text: a píseň …; … s výzvou k …; popravy jmenovaných na Guantánamu líčí souhlasně jako hotovou věc
   citace:
-  - text: Už brzy přistane tedleten Express, aby je všechny naložil… všichni se dopustili totiž vlastizrady“;
-      „jednosměrná letenka na Gitmo Express“ a píseň „One Way Ticket — zpáteční nepotřebujete“; „kolaborující
-      hajzlové a reprezentanti Deep State“ s výzvou k „velmi tvrdým trestům“; popravy jmenovaných na Guantánamu
-      líčí souhlasně jako hotovou věc
+  - text: Už brzy přistane tedleten Express, aby je všechny naložil… všichni se dopustili totiž vlastizrady
+  - text: jednosměrná letenka na Gitmo Express
+  - text: One Way Ticket — zpáteční nepotřebujete
+  - text: kolaborující hajzlové a reprezentanti Deep State
+  - text: velmi tvrdým trestům
   teror:
     terc: Demokratická strana USA, „Deep State“; Clintonovi, Obama, Bush, Cheney, Rumsfeld
     hranicni: false
@@ -101,10 +101,11 @@ vyroky:
   temata:
   - kauzy
   nadpis: Renata Bernardy, Jiří Černohorský; média
-  text: 'Terč: Renata Bernardy, Jiří Černohorský; média.'
+  text: Bernardy …, …; média … — hraniční (bez výzvy)
   citace:
-  - text: Bernardy „podporovaná… černohorským jedenáctiletým a další bandou kryplů“, „slabomyslní a chudí
-      duchem“; média „banda prostitutů“ — hraniční (bez výzvy)
+  - text: podporovaná… černohorským jedenáctiletým a další bandou kryplů
+  - text: slabomyslní a chudí duchem
+  - text: banda prostitutů
   teror:
     terc: Renata Bernardy, Jiří Černohorský; média
     hranicni: true

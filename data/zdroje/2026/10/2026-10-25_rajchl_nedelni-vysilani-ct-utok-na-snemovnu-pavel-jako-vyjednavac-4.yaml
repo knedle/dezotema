@@ -18,6 +18,12 @@ zdroj:
   - osoba: matej-hlavaty
     vztah: negativni
     kontext: Ať se nevyjadřuje k ČT a stará se o rozpočet Tetína
+  - osoba: jan-jakob
+    vztah: negativni
+    kontext: '„Moula“: služby ČT prý využívá i ten, kdo se nedívá'
+  - osoba: michal-pur
+    vztah: pozitivni
+    kontext: Nejvzdělanější moderátor, profesionál, lepší předseda ODS než Kupka
   - osoba: marian-jurecka
     vztah: negativni
     kontext: „Půl pravdy“ o Nizozemsku si „mylně vygoogloval“
@@ -88,9 +94,6 @@ vyroky:
   - text: Politické neziskovky jsou mor, zlo, cholera téhle společnosti a právě společně s médii drží
       ty opratě, ty lži.
   osoby:
-  - osoba: jan-jakob
-    vztah: negativni
-    kontext: '„Moula“: služby ČT prý využívá i ten, kdo se nedívá'
   - osoba: petr-fiala
     vztah: negativni
     kontext: Poplatky jako další daň, „koupil si přízeň redaktorů ČT“; „právo na korigované informace“
@@ -158,9 +161,6 @@ vyroky:
   - osoba: lukas-vales
     vztah: pozitivni
     kontext: 'Moderátor ČT mu skákal do řeči: „tady jste na České“'
-  - osoba: michal-pur
-    vztah: pozitivni
-    kontext: Nejvzdělanější moderátor, profesionál, lepší předseda ODS než Kupka
   - osoba: martin-kupka
     vztah: negativni
     kontext: „Teflonový panák“, s ním ODS skončí pod 5 %
@@ -209,6 +209,9 @@ vyroky:
   - text: To je to skutečné ohrožení té demokracie. […] Ne to, že převedeme financování České televize
       pod státní rozpočet.
   osoby:
+  - osoba: katerina-dudova
+    vztah: negativni
+    kontext: Připisuje jí dlažební kostku; „opilá, zneuznaná ženská“ živená z peněz ČT
   - osoba: jaroslav-foldyna
     vztah: pozitivni
     kontext: Oběť slovního i fyzického útoku protestujících
@@ -267,15 +270,10 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Kateřina Dudová (režisérka, účastnice protestu před Sněmovnou)
-  text: 'Terč: Kateřina Dudová (režisérka, účastnice protestu před Sněmovnou).'
+  text: připisuje jí dlažební kostku v ruce
   citace:
   - text: ta zneuznalá režizérka […] progresivistická, opilá neustále, opilá prostě zneuznaná ženská,
-      která nenatočila ještě nic, co by mělo jakoukoli uměleckou hodnotu“; připisuje jí dlažební kostku
-      v ruce
-  osoby:
-  - osoba: katerina-dudova
-    vztah: negativni
-    kontext: Připisuje jí dlažební kostku; „opilá, zneuznaná ženská“ živená z peněz ČT
+      která nenatočila ještě nic, co by mělo jakoukoli uměleckou hodnotu
   teror:
     terc: Kateřina Dudová (režisérka, účastnice protestu před Sněmovnou)
     hranicni: false

@@ -13,6 +13,10 @@ zdroj:
   - osoba: giorgia-meloniova
     vztah: negativni
     kontext: Daní energetické firmy kvůli zbrojení jako Babiš; „když si šňupne, tak je taková veselá“
+  - osoba: tomio-okamura
+    vztah: negativni
+    kontext: Hlasování ministrů SPD proti režimu Ukrajinců je divadlo „opozice ve vládě“, „nikdo už jim
+      nevěří“
   prehled:
   - tema: Pavel mezi kandidáty na evropského vyjednavače, Moskva Evropany u stolu nechce
     text: přiznává změnu ruské pozice oproti 22. 10. a „chápe“ ji; mírová jednání „neprobíhají“, jde o
@@ -119,11 +123,6 @@ vyroky:
     na rozdíl od Orbána nikdy nehájil národní zájmy; svobodnější je Slovensko, kde Fico bude „další na
     řadě, koho je potřeba odstranit“ a nahradit loutkami, případně mu nechají roli „vlasteneckého křoví“
     v opozici (→ [Predikce](predikce.md)).'
-  osoby:
-  - osoba: tomio-okamura
-    vztah: negativni
-    kontext: Hlasování ministrů SPD proti režimu Ukrajinců je divadlo „opozice ve vládě“, „nikdo už jim
-      nevěří“
   podtema: Demokracie a politický systém
 - id: vrabel-2026-10-23-05
   typ: tvrzeni

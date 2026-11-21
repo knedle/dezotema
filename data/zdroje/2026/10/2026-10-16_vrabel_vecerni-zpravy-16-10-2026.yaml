@@ -230,11 +230,11 @@ vyroky:
   temata:
   - valka-nato-rusko
   nadpis: Donald Trump
-  text: v kontextu výzvy, aby se „celý svět ostře postavil proti Spojeným státům“; hraniční (metafora
-    vs. výzva k násilí)
+  text: v kontextu výzvy, aby se …; hraniční (metafora vs. výzva k násilí)
   citace:
   - text: Donald Trump se chová absolutně jako diktátor… diktátor světa. […] To je někdo typově, psychologicky,
       to je člověk, který potřebuje dostat prostě ránu mezi oči, aby přestal. A on přestane.
+  - text: celý svět ostře postavil proti Spojeným státům
   teror:
     terc: Donald Trump
     hranicni: true
@@ -243,11 +243,12 @@ vyroky:
   temata:
   - migrace
   nadpis: Ukrajinci v ČR a v Evropě
-  text: kolektivní označení skupiny za ozbrojenou hrozbu a „dynamit“; hraniční, bez výzvy k násilí
+  text: kolektivní označení skupiny za ozbrojenou hrozbu a …; hraniční, bez výzvy k násilí
   citace:
-  - text: Vemte si, kolik je tady Ukrajinců, a kolik z nich bude pravděpodobně ozbrojený.“ / „to je prostě
-      dynamit, který čeká na to, aby byl odpálený“ / „Nestrkejte Ukrajince do České republiky po milionech.
-      Nestrkejte, může to chytnout.
+  - text: Vemte si, kolik je tady Ukrajinců, a kolik z nich bude pravděpodobně ozbrojený.
+  - text: to je prostě dynamit, který čeká na to, aby byl odpálený
+  - text: Nestrkejte Ukrajince do České republiky po milionech. Nestrkejte, může to chytnout.
+  - text: dynamit
   teror:
     terc: Ukrajinci v ČR a v Evropě
     hranicni: true

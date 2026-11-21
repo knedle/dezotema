@@ -7,6 +7,11 @@ zdroj:
   url: https://www.facebook.com/100063460865205/videos/2079313829643035
   prepis: prepisy/done/2026-09-13_Jindřich-Rajchl_Facebook-Live.txt
   rezim: standard
+  osoby:
+  - osoba: zdenek-rip
+    vztah: negativni
+    kontext: Předseda Pirátů — v debatě na Primě opakovaně a vědomě narušoval průběh diskuze, bez postihu
+      na rozdíl od hodnocení Rajchlova vlastního chování
 vyroky:
 - id: rajchl-2026-09-13-01
   typ: tvrzeni
@@ -76,10 +81,6 @@ vyroky:
     vyloučení z debat — u Řipa (a Pirátů obecně) podobná kritika nepřichází. Tomia Okamuru z téže debaty
     naopak chválí jako nejdisciplinovanějšího účastníka.'
   osoby:
-  - osoba: zdenek-rip
-    vztah: negativni
-    kontext: Předseda Pirátů — v debatě na Primě opakovaně a vědomě narušoval průběh diskuze, bez postihu
-      na rozdíl od hodnocení Rajchlova vlastního chování
   - osoba: terezie-tomankova
     vztah: negativni
     kontext: Moderátorka CNN Prima News — nedokázala včas zasáhnout proti narušování debaty Zdeňkem Řipem

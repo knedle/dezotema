@@ -23,7 +23,8 @@ def test_predikce_vyhodnoceni():
     assert v.predikce.stav == "vyvraceno"
     datumy = [h.datum for h in v.predikce.vyhodnoceni]
     assert {date(2026, 11, 16), date(2026, 11, 17), date(2026, 11, 18)} <= set(datumy)
-    prvni = v.predikce.vyhodnoceni[0]          # text stavu za pomlčkou
+    assert datumy == sorted(datumy)                    # chronologicky
+    prvni = next(h for h in v.predikce.vyhodnoceni if h.stav)   # text stavu za pomlčkou
     assert prvni.stav == "vyvraceno" and "test 17. 11. proběhl jen jako test" in prvni.text
     assert len(v.citace) == 1 and v.citace[0].text.startswith("Některý predikujou")
     assert v.predikce.horizont.startswith("17. 11. 2026 (EBS")
@@ -48,3 +49,13 @@ def test_horizont_do():
     assert P.horizont_do("kolem 3. 11. 2026") == date(2026, 11, 3)
     assert P.horizont_do("od 31. 10. 2026") is None
     assert P.horizont_do("2030") is None
+
+
+def test_horizont_do_nejednoznacny():
+    for s in ["21. 9. 2026 (příprava od 13. 8. do 11. 9. 2026)",
+              "zhruba do poloviny prosince 2026 (stíhání); 14. 2. 2027 (Super Bowl)",
+              "po amerických volbách 2026 (3. 11. 2026)",
+              "před 3. 10. 2026 nebo krátce po",
+              "do 18. 5.–18. 11. 2027",
+              "17. 11. 2026 (EBS, s výhradou); 22. 11. 2026 (QFS)"]:
+        assert P.horizont_do(s) is None, s

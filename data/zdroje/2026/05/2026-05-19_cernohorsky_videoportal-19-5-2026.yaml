@@ -17,10 +17,11 @@ vyroky:
   temata:
   - petr-pavel
   nadpis: Petr Pavel
-  text: přímé oslovení „ty na tom hradě"
+  text: přímé oslovení …
   citace:
   - text: Ty velezhrádče... nám na hradě novodobí Emanuel Moravec, Karel Čurda, Reinhard Heidrich v jedné
       osobě sedí. Seš to ty a všichni lidé tě z duše nenávidí.
+  - text: ty na tom hradě
   osoby:
   - osoba: petr-pavel
     vztah: negativni

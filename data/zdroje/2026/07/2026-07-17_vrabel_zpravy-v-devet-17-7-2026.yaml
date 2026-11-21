@@ -66,11 +66,6 @@ vyroky:
     a usmrtil 14letou dívku — soud dospěl k závěru, že si podle důkazů neuvědomil, že dívku srazil. Vrabel
     rozsudek uvádí jako příklad selhání justice vůči migrantům („jeden Jamal, který tam vůbec nemá co
     dělat, zabije holku a oni ho propustí") a předpovídá, že totéž čeká ČR kvůli migračnímu paktu.'
-  osoby:
-  - osoba: aleksandar-vucic
-    vztah: rozporuplny
-    kontext: Srbský prezident — dle Vrabela do EU nechce, jen „předstírá"; oceňuje, že nepodepsal protiruskou
-      deklaraci a má čínské hypersonické rakety
 - id: vrabel-2026-07-17-03
   typ: tvrzeni
   temata:
@@ -119,6 +114,11 @@ vyroky:
     zákoně o povinné legalizaci staveb (osobní komplikace při koupi nemovitosti — legalizace může trvat
     až 5 let, s domem se mezitím nesmí obchodovat), který Srbové nechápou, protože se u nich vždy stavělo
     bez povolení a stát pak dělal plošné legalizace.'
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: rozporuplny
+    kontext: Srbský prezident — dle Vrabela do EU nechce, jen „předstírá"; oceňuje, že nepodepsal protiruskou
+      deklaraci a má čínské hypersonické rakety
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)
 - id: vrabel-2026-07-17-06
   typ: tvrzeni

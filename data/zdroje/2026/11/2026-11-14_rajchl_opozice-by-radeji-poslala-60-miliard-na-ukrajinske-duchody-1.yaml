@@ -10,6 +10,10 @@ zdroj:
   poznamka: 2,5 min. Opozice jako „servilní slaboši“ s „vlastizrádnou mentalitou“, peníze na ukrajinské
     důchody místo českých. Hraniční výrazy bez dehumanizace a výzvy k trestu, proto nejsou ve stochastickém
     teroru.
+  osoby:
+  - osoba: opozice
+    vztah: negativni
+    kontext: „Servilní slaboši“, „vlastizrádná mentalita“, dali by peníze Ukrajině místo Čechům
 vyroky:
 - id: rajchl-2026-11-14-01
   typ: tvrzeni
@@ -27,8 +31,4 @@ vyroky:
   citace:
   - text: Chápete tu vlastizrádnou mentalitu? Peníze z našich daní, které zaplatí jednou naše děti, dáme
       radši Ukrajincům než Čechům?
-  osoby:
-  - osoba: opozice
-    vztah: negativni
-    kontext: „Servilní slaboši“, „vlastizrádná mentalita“, dali by peníze Ukrajině místo Čechům
   podtema: EU, euro a geopolitika sousedů (Maďarsko, Srbsko)

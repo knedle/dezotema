@@ -189,12 +189,13 @@ vyroky:
   temata:
   - migrace
   nadpis: muslimové / islám; migranti tmavší pleti
-  text: plošná dehumanizace a kriminalizace skupiny, bez výzvy k násilí
+  text: deportují se jen ti, kdo nejsou … — plošná dehumanizace a kriminalizace skupiny, bez výzvy k násilí
   citace:
-  - text: islám… to je taková jako mafie, která drží pospolu… Ale islám je strašný pro ženy“ / „ta záležitost
-      toho, jak jsou ty lidi zvyklí žít, že jsou zvyklí mlátit ženy… To je naprostá zvrácenost“ / „Předpokládám,
-      že když mají monokl pod okama, tak si vezmou tu burku“ / deportují se jen ti, kdo nejsou „o dva
-      odstíny tmavší barvy pleti, než je tamhle ten kousek dřeva
+  - text: islám… to je taková jako mafie, která drží pospolu… Ale islám je strašný pro ženy
+  - text: ta záležitost toho, jak jsou ty lidi zvyklí žít, že jsou zvyklí mlátit ženy… To je naprostá
+      zvrácenost
+  - text: Předpokládám, že když mají monokl pod okama, tak si vezmou tu burku
+  - text: o dva odstíny tmavší barvy pleti, než je tamhle ten kousek dřeva
   teror:
     terc: muslimové / islám; migranti tmavší pleti
     hranicni: false

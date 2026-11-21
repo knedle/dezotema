@@ -182,7 +182,8 @@ vyroky:
   - text: Ne, že bych to chtěl schvalovat, jo, to ne, ale jako ani se nedivím. […] a šel tam okolo Tusk,
       jo, a teď jsem měl zamířenýho takhle toho jelena. A ten Tusk by byl vedle. […] možná by světu bylo
       líp, jak kdyby tady nebyl, to bych jako takhle neřekl, ale kdyby pracoval někde jinde, kdyby třeba
-      vyvážel popelnice.“ / „A Sikorský to samý.
+      vyvážel popelnice.
+  - text: A Sikorský to samý.
   teror:
     terc: Donald Tusk (a Radosław Sikorski)
     hranicni: false
@@ -191,12 +192,12 @@ vyroky:
   temata:
   - migrace
   nadpis: migranti z Afriky / lidé tmavší pleti
-  text: rasová dehumanizace a kriminalizace, bez výzvy k násilí
+  text: řidiče … / … — rasová dehumanizace a kriminalizace, bez výzvy k násilí
   citace:
   - text: inženýra poznáte tak, že má v ruce buď to kyselinu nebo bombu, lékaře poznáte tak, že má v ruce
-      skalpel, jenom kdybyste nevěděli, když ho potkáte v noci na ulici“ / řidiče „poznáte tak, když se
-      rozjede auto a vyjede do davu“ / „každý, kdo má odstín barvy pleti trošku tmavší, než je tamhle
-      ten kousek dřeva
+      skalpel, jenom kdybyste nevěděli, když ho potkáte v noci na ulici
+  - text: poznáte tak, když se rozjede auto a vyjede do davu
+  - text: každý, kdo má odstín barvy pleti trošku tmavší, než je tamhle ten kousek dřeva
   teror:
     terc: migranti z Afriky / lidé tmavší pleti
     hranicni: false

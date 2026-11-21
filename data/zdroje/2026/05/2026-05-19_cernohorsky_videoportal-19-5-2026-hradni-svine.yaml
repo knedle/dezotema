@@ -76,9 +76,10 @@ vyroky:
   temata:
   - benesovy-dekrety
   nadpis: koaliční poslanci (Havel, Benda aj.)
-  text: v kontextu obvinění z kolaborace a „bonzování" Němcům během sněmovní schůze
+  text: v kontextu obvinění z kolaborace a … Němcům během sněmovní schůze
   citace:
   - text: Za doby ČSR by tyhle kurvy vysely
+  - text: bonzování
   teror:
     terc: koaliční poslanci (Havel, Benda aj.)
     hranicni: false

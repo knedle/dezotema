@@ -62,10 +62,6 @@ vyroky:
     vztah: negativni
     kontext: Místopředseda Senátu — neschválená cesta na Ukrajinu; „stahovač králíků"; úleva, že nevyhrál
       prezidentské volby 2018
-  - osoba: volodymyr-zelenskyj
-    vztah: negativni
-    kontext: 'Nový řádek: spolu s dalšími ukrajinskými představiteli obviněn z rozsáhlé korupce a odsouzen
-      k „kruté smrti" — terč stochastického teroru'
   podtema: Demokracie a politický systém
 - id: cernohorsky-2026-09-19-05
   typ: tvrzeni
@@ -136,10 +132,16 @@ vyroky:
   - valka-nato-rusko
   nadpis: Volodymyr Zelenskyj a ukrajinské vedení (Jermak, Mindič aj.)
   text: jmenovaní terči (bezprostředně navazuje na výčet jmen ukrajinských představitelů), obviněni ze
-    zavraždění „dvou až tří milionů Ukrajinců" a výzva k jejich kruté smrti
+    zavraždění … a výzva k jejich kruté smrti
   citace:
   - text: Proto tyhle zmrdi si nic jiného než smrt nezaslouží... Takže těmhle zmrdům... oni si nezaslouží
       nic jiného než kurva krutou smrt.
+  - text: dvou až tří milionů Ukrajinců
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: 'Nový řádek: spolu s dalšími ukrajinskými představiteli obviněn z rozsáhlé korupce a odsouzen
+      k „kruté smrti" — terč stochastického teroru'
   teror:
     terc: Volodymyr Zelenskyj a ukrajinské vedení (Jermak, Mindič aj.)
     hranicni: false

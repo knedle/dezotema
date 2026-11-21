@@ -22,9 +22,6 @@ _VYHODNOCENI = re.compile(r"^\*\*Vyhodnocení(?:\s+(\d{1,2})\.\s?(\d{1,2})\.\s?(
 _POZNAMKA = re.compile(r"^(⚡\s*)?\*\*(Poznámka|Konflikt):\*\*\s*(.*)$")
 _DM = re.compile(r"^(\d{1,2})\.\s?(\d{1,2})\.\s*")
 _CITACE = re.compile(r"^>\s*(.*)$")
-_DATUM_V_HORIZONTU = re.compile(r"(?<![\d.])(\d{1,2})\.\s?(\d{1,2})\.\s?(\d{4})(?!\d)")
-_DO_DATA = re.compile(r"\bdo\s+(?:cca\s+)?(\d{1,2})\.\s?(\d{1,2})\.\s?(\d{4})(?!\d)")
-_DO_ROKU = re.compile(r"\bdo\s+(?:roku\s+)?(\d{4})\b(?!\s*[./]\s*\d)")
 
 
 @dataclass
@@ -50,19 +47,31 @@ def _bezpecne(y: int, m: int, d: int) -> date | None:
         return None
 
 
+_DATUM_TOKEN = re.compile(r"(?<![\d.])\d{1,2}\.\s?\d{1,2}\.(?:\s?\d{4})?(?!\d)")
+_ROZSAH = re.compile(r"\d{1,2}\.\s?(?:\d{1,2}\.)?\s?[–-]\s?\d{1,2}\.")
+_ALTERNATIVA = re.compile(r"(?<![^\W\d_])(nebo|po|před|od)(?![^\W\d_])", re.I)
+_VODICI_DO = re.compile(r"(?:zhruba\s+)?do\s+(?:cca\s+)?(\d{1,2})\.\s?(\d{1,2})\.\s?(\d{4})(?!\d)")
+_DO_ROKU_CELE = re.compile(r"(?:cca\s+)?do\s+(?:roku\s+)?(\d{4})(?:\s*\([^)\d]*\))?")
+
+
 def horizont_do(horizont: str) -> date | None:
-    """Datum jen z jednoznačného údaje: `do [cca] D. M. YYYY`, jediné `D. M. YYYY`
-    (mimo „od …“), `do [roku] YYYY` -> 31. 12. Jinak None."""
-    m = _DO_DATA.search(horizont)
+    """Datum jen z jednoznačného horizontu. None při rozsahu, alternativě („nebo“, „po“,
+    „před“, „od“) nebo více datech. Přijímá jediné `D. M. YYYY`, vedoucí výslovný termín
+    `do [cca] D. M. YYYY` (i s dalšími údaji za ním) a celé `do [roku] YYYY` -> 31. 12."""
+    s = horizont.strip()
+    if _ROZSAH.search(s) or _ALTERNATIVA.search(s):
+        return None
+    m = _VODICI_DO.match(s)
     if m:
         return _bezpecne(int(m.group(3)), int(m.group(2)), int(m.group(1)))
-    data = [mm for mm in _DATUM_V_HORIZONTU.finditer(horizont)
-            if not re.search(r"\b(od|po)\s+(?:cca\s+)?$", horizont[:mm.start()])]
-    if len(data) == 1:
-        mm = data[0]
-        return _bezpecne(int(mm.group(3)), int(mm.group(2)), int(mm.group(1)))
-    if not data:
-        m = _DO_ROKU.search(horizont)
+    if ";" in s:
+        return None
+    tokeny = _DATUM_TOKEN.findall(s)
+    if len(tokeny) == 1:
+        mm = re.fullmatch(r"(\d{1,2})\.\s?(\d{1,2})\.\s?(\d{4})", tokeny[0])
+        return _bezpecne(int(mm.group(3)), int(mm.group(2)), int(mm.group(1))) if mm else None
+    if not tokeny:
+        m = _DO_ROKU_CELE.fullmatch(s)
         if m and 1990 <= int(m.group(1)) <= 2100:
             return date(int(m.group(1)), 12, 31)
     return None
@@ -176,6 +185,7 @@ def na_vyrok(raw: PredikceRaw, zdroj: Zdroj, poradi: int | str, mluvci: str | No
     if raw.stav != "ceka" or raw.stav_text:
         vyh.append(Vyhodnoceni(DATUM_AUDITU, raw.stav_text or "—", raw.stav))
     vyh += raw.vyhodnoceni
+    vyh.sort(key=lambda h: h.datum)           # chronologicky (stabilní: stav první ve svém dni)
     text = "\n\n".join([raw.predpoved] + raw.doplneni).strip()
     return Vyrok(
         id=f"{kdo}-{zdroj.datum.isoformat()}-{cislo}",

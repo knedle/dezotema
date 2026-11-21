@@ -117,10 +117,6 @@ vyroky:
     horizont: 17. 11. 2026 (EBS, s výhradou); 22. 11. 2026 (QFS)
     stav: vyvraceno
     vyhodnoceni:
-    - datum: 2026-11-20
-      text: (EBS 17. 11.) — test 17. 11. proběhl jen jako test, bez výpadku komunikace a karantény; QFS
-        22. 11. čeká
-      stav: vyvraceno
     - datum: 2026-11-16
       text: Den před termínem Zítko upřesňuje, že test EBS má proběhnout 17. 11. ve 14:20 východního času
         (20:20 SEČ) a „mohlo by to být naostro“, s následnou „desetidenní zástavou komunikace“ ve vlnách.
@@ -133,3 +129,7 @@ vyroky:
       text: 'Den po testu Zítko tvrdí, že „byl to pouze test“, který „splnil svůj účel“: měl ukázat, které
         rozhlasové a televizní stanice „spolupracují“. Námitku „nebyl blackout“ odmítá, výpadky karet
         a internetu teď očekává bez data.'
+    - datum: 2026-11-20
+      text: (EBS 17. 11.) — test 17. 11. proběhl jen jako test, bez výpadku komunikace a karantény; QFS
+        22. 11. čeká
+      stav: vyvraceno

@@ -17,6 +17,15 @@ zdroj:
     (7) Pšenák/Oganesian údajná vazba — teorie „prediktivního programování" — [konspirace.md](konspirace.md).
     (8) MS ve fotbale — poločasová show Bieber/Diddy — [konspirace.md](konspirace.md). 1 výrok stochastického
     teroru (Pšenák/Oganesian/Blujová) — [stochasticky-teror.md](stochasticky-teror.md). Bez predikcí.'
+  osoby:
+  - osoba: psenak
+    vztah: negativni
+    kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
+      skupina" (→ [stoch. teror](../stochasticky-teror.md))
+  - osoba: blujova
+    vztah: negativni
+    kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
+      skupina" (→ [stoch. teror](../stochasticky-teror.md))
 vyroky:
 - id: zitko-2026-07-15-01
   typ: tvrzeni
@@ -81,15 +90,7 @@ vyroky:
     na jmenované osoby (Pšenák, Oganesian, „Blujová") a jejich „organizovanou zločineckou skupinu" nebude
     čekat dlouho (viz [stochasticky-teror.md](stochasticky-teror.md)).'
   osoby:
-  - osoba: psenak
-    vztah: negativni
-    kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
-      skupina" (→ [stoch. teror](../stochasticky-teror.md))
   - osoba: oganesian
-    vztah: negativni
-    kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
-      skupina" (→ [stoch. teror](../stochasticky-teror.md))
-  - osoba: blujova
     vztah: negativni
     kontext: Jmenovaní terče nepotvrzené zprávy o vazbě, dehumanizovaní jako „organizovaná zločinecká
       skupina" (→ [stoch. teror](../stochasticky-teror.md))
@@ -135,10 +136,12 @@ vyroky:
   temata:
   - konspirace
   nadpis: „Pšenák", Oganesian, „Blujová"
-  text: jmenovaní terče dehumanizováni vulgarismem a označeni za „organizovanou zločineckou skupinu";
-    formulováno jako přání/predikce trestu (vazby) v kontextu vlastní teorie „prediktivního programování"
+  text: jmenovaní terče dehumanizováni vulgarismem a označeni za …; formulováno jako přání/predikce trestu
+    (vazby) v kontextu vlastní teorie …
   citace:
   - text: aby se tahleta partička zmrdů dostala tam, kam patří, plus všichni jejich pomáhači
+  - text: organizovanou zločineckou skupinu
+  - text: prediktivního programování
   teror:
     terc: „Pšenák", Oganesian, „Blujová"
     hranicni: false

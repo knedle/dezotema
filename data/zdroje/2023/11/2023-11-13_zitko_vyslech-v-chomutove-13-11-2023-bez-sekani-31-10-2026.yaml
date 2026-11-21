@@ -34,12 +34,13 @@ vyroky:
   temata:
   - konspirace-ceskoslovensko
   nadpis: Petr Fiala, Vít Rakušan, Vlastimil Válek; vláda
-  text: 'Terč: Petr Fiala, Vít Rakušan, Vlastimil Válek; vláda.'
+  text: výrok … o vládě … jako … (záznam výslechu z 13. 11. 2023, zveřejněn 31. 10. 2026) — hraniční
   citace:
   - text: Kdyby Čermák znásilnil Fialu, Rakušana a pokusil se znásilnit Válka, tak dostane poloviční trest
-      a… myslím, že by to mělo jako větší efekt“; výrok „vezmeme je za držky a hodíme je do řeky“ o vládě
-      „organizující masové vraždy“ jako „absolutně adekvátní“ (záznam výslechu z 13. 11. 2023, zveřejněn
-      31. 10. 2026) — hraniční
+      a… myslím, že by to mělo jako větší efekt
+  - text: vezmeme je za držky a hodíme je do řeky
+  - text: organizující masové vraždy
+  - text: absolutně adekvátní
   teror:
     terc: Petr Fiala, Vít Rakušan, Vlastimil Válek; vláda
     hranicni: true

@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-14_Ladislav-Vrabel_14-10-2026-Večerní-zprávy-s-komentářem.txt
   rezim: vrabel
   poznamka: 59 min, zprávy čte Zuzana, nový technik Ivan.
+  osoby:
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: Srbsku stačí Schengen a trh, ne EU
   prehled:
   - tema: Rozhovor pro RTVi o trojvýzvě
     text: ruské médium s miliony diváků, česká média mlčí
@@ -173,10 +177,6 @@ vyroky:
   citace:
   - text: Za deset let Česká republika bude vypadat úplně jinak. To už vůbec nebude Česká republika, tak
       jak my ji známe dneska. To bude země nikoho a všech, a bude se v ní mluvit různými jazyky.
-  osoby:
-  - osoba: aleksandar-vucic
-    vztah: pozitivni
-    kontext: Srbsku stačí Schengen a trh, ne EU
   predikce:
     horizont: 2036; brutalita policie „měsíce až roky“
     stav: ceka

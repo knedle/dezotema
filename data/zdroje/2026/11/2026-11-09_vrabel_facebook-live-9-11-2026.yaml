@@ -61,9 +61,8 @@ zdroj:
   - tema: Putinovo poselství SNS o rostoucím napětí
     text: bez komentáře.
   - tema: Russell Brand odsouzen k 10,5 roku
-    text: „černý den“, znásilnění podle něj „úplně není“ znásilnění, porota ovlivněná filmem; vzorec likvidace
-      kritiků (Assange, Fuellmich, on sám)
-    vyrok: vrabel-2026-11-09-04
+    text: ⚡ „černý den“, znásilnění podle něj „úplně není“ znásilnění, porota ovlivněná filmem; vzorec
+      likvidace kritiků (Assange, Fuellmich, on sám) → viz [Politický systém](../politicky-system.md)
   - tema: Zrušení pochodu za svobodu slova 17. 11.
     text: 17. 11. se podle něj „bude dít něco vážného“, „liberálně progresivistický dav“ chystá „něco
       velmi zlého“; policie (major Kolář) by lidi se Z zatýkala; varování Tarabové, sen o Rajchlovi s
@@ -122,15 +121,14 @@ vyroky:
   predikce:
     horizont: 15.–17. 11. 2026
     stav: vyvraceno
-    horizont_do: 2026-11-17
     vyhodnoceni:
-    - datum: 2026-11-20
-      text: 'podle Vrabelova vlastního vysílání ze 17. 11. byl den „takovej obyčejnej“: pietní akce a
-        oslavy na Národní bez střetů'
-      stav: vyvraceno
     - datum: 2026-11-15
       text: 'Vrabel očekávání zmírňuje: „neočekávám tolik násilí“, „možná, že ty sedmnáctého se možná
         něco trošičku rozehraje“.'
     - datum: 2026-11-17
       text: Ve večerních zprávách Vrabel ke své předpovědi nevrací. Moderátorka den shrnuje jako „takovej
         obyčejnej den“ s tisíci lidí na Národní a Vrabel kritizuje jen „trapnost“ oslav.
+    - datum: 2026-11-20
+      text: 'podle Vrabelova vlastního vysílání ze 17. 11. byl den „takovej obyčejnej“: pietní akce a
+        oslavy na Národní bez střetů'
+      stav: vyvraceno

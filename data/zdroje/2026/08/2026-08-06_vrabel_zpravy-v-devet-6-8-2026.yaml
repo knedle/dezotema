@@ -37,6 +37,9 @@ zdroj:
     text: → [Větrné elektrárny](../vetrniky.md)
   - tema: Irsko opouští vojenskou neutralitu
     text: → [NATO, zbrojení a militarizace](../nato-zbrojeni-militarizace.md)
+  - tema: Predikce
+    text: '[Cena zlata a stříbra po výprodeji „papírového" zlata vzroste](../predikce.md#ladislav-vrabel--cena-zlata-a-stříbra-po-dokončení-výprodeje-papírového-zlata-prudce-vzroste-6-8-2026)'
+    vyrok: vrabel-2026-08-06-07
 vyroky:
 - id: vrabel-2026-08-06-01
   typ: tvrzeni

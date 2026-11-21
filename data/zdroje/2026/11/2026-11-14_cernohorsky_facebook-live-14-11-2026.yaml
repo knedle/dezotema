@@ -76,6 +76,9 @@ vyroky:
   - text: Bez problému by nechal zrušit právo veta pro Českou republiku v zahraničních otázkách. […] Takže
       by vlastně o nás mohli rozhodovat bývalí nácci jako Merz.
   osoby:
+  - osoba: petr-pavel
+    vztah: negativni
+    kontext: Nevrátil důchodovou reformu, „cestovka“, veto; Pavlová „do Lidlu k pokladně“
   - osoba: eva-pavlova
     vztah: negativni
     kontext: Nevrátil důchodovou reformu, „cestovka“, veto; Pavlová „do Lidlu k pokladně“
@@ -224,14 +227,10 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Petr Pavel, Eva Pavlová
-  text: 'Terč: Petr Pavel, Eva Pavlová.'
+  text: 'Pavel …; o Pavlové: … — dehumanizace a ponížení bez výzvy k násilí'
   citace:
-  - text: 'Pavel „ta svině skurvená z toho hradu“; o Pavlové: „táhni dělat do Lidlu, do Penny […] 12 hodin
-      do pokladny, ty mrtko“ — dehumanizace a ponížení bez výzvy k násilí'
-  osoby:
-  - osoba: petr-pavel
-    vztah: negativni
-    kontext: Nevrátil důchodovou reformu, „cestovka“, veto; Pavlová „do Lidlu k pokladně“
+  - text: ta svině skurvená z toho hradu
+  - text: táhni dělat do Lidlu, do Penny […] 12 hodin do pokladny, ty mrtko
   teror:
     terc: Petr Pavel, Eva Pavlová
     hranicni: true

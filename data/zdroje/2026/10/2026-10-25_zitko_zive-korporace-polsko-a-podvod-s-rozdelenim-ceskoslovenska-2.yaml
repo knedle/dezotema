@@ -97,6 +97,9 @@ vyroky:
   citace:
   - text: Právní stát ČSR neboli Československá republika funguje bez přerušení stále dál.
   osoby:
+  - osoba: vaclav-havel
+    vztah: negativni
+    kontext: „Třikrát křivopřísežník“, zbabělec, nenasadil armádu proti „puči“
   - osoba: vaclav-klaus
     vztah: negativni
     kontext: Protiprávně rozdělili Československo
@@ -146,10 +149,12 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: Bill Gates, Albert Bourla, Mark Rutte
-  text: jmenovaní terči obvinění z genocidy s očekáváním trestu (hraniční, bez přímé výzvy)
+  text: injekce jako … — jmenovaní terči obvinění z genocidy s očekáváním trestu (hraniční, bez přímé
+    výzvy)
   citace:
   - text: pachatelé genocidy a sterilizace sedí na lavici obžalovaných […] a budou se zodpovídat ze zločinů
-      proti lidskosti“; injekce jako „vyhlazování Čechoslováků
+      proti lidskosti
+  - text: vyhlazování Čechoslováků
   teror:
     terc: Bill Gates, Albert Bourla, Mark Rutte
     hranicni: true
@@ -158,14 +163,14 @@ vyroky:
   temata:
   - konspirace-ceskoslovensko
   nadpis: Václav Havel, Pavel Rychetský
-  text: 'Terč: Václav Havel, Pavel Rychetský.'
+  text: Havel …, který spáchal … a …; Rychetský … — obvinění z trestné činnosti a dehumanizující přirovnání
+    (hraniční, bez výzvy)
   citace:
-  - text: Havel „třikrát křivopřísežník“, který spáchal „trestný čin“ a „zbabělec“; Rychetský „jako žába
-      na prameni“ — obvinění z trestné činnosti a dehumanizující přirovnání (hraniční, bez výzvy)
+  - text: třikrát křivopřísežník
+  - text: trestný čin
+  - text: zbabělec
+  - text: jako žába na prameni
   osoby:
-  - osoba: vaclav-havel
-    vztah: negativni
-    kontext: „Třikrát křivopřísežník“, zbabělec, nenasadil armádu proti „puči“
   - osoba: pavel-rychetsky
     vztah: negativni
     kontext: „Jako žába na prameni“ 30 let blokoval obnovu ČSR

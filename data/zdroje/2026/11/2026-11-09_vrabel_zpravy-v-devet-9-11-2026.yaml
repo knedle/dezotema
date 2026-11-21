@@ -22,6 +22,9 @@ zdroj:
   - osoba: peter-magyar
     vztah: negativni
     kontext: „Maďarský Rajchl“, jde tvrdě po Orbánovi a jeho rodině
+  - osoba: spd
+    vztah: pozitivni
+    kontext: Podpora v kauze předvolebních plakátů — „jediná věc“ za dlouhou dobu
   - osoba: kaja-kallasova
     vztah: negativni
     kontext: „Udělala spoustu zla“, 22. balíček sankcí
@@ -51,9 +54,6 @@ vyroky:
   - osoba: lenka-bradacova
     vztah: negativni
     kontext: Dovolání v kauze plakátů SPD; „měla by být souzená“, „visela by na nástěnce“ (→ stoch. teror)
-  - osoba: spd
-    vztah: pozitivni
-    kontext: Podpora v kauze předvolebních plakátů — „jediná věc“ za dlouhou dobu
   podtema: Trestání politického projevu
 - id: vrabel-2026-11-09-02
   typ: tvrzeni
@@ -172,12 +172,12 @@ vyroky:
   temata:
   - dsa-cenzura
   nadpis: Lenka Bradáčová (nejvyšší státní zástupkyně)
-  text: 'Terč: Lenka Bradáčová (nejvyšší státní zástupkyně).'
+  text: (hraniční — … jako veřejný pranýř, srov. 11. 10.)
   citace:
   - text: Podle mě by měla být souzená Lenka Bradáčová. […] Kdyby to byla svobodná, slušná a normální
       společnost, tak by pravděpodobně Bradáčová asi pravděpodobně visela na nějaké nástěnce lidí, který
-      udělali velmi nebezpečné situace pro Českou republiku.“ (hraniční — „nástěnka“ jako veřejný pranýř,
-      srov. 11. 10.)
+      udělali velmi nebezpečné situace pro Českou republiku.
+  - text: nástěnka
   teror:
     terc: Lenka Bradáčová (nejvyšší státní zástupkyně)
     hranicni: true

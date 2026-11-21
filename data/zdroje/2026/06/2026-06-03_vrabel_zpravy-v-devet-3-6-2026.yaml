@@ -296,11 +296,12 @@ vyroky:
   temata:
   - konspirace
   nadpis: Volodymyr Zelenský
-  text: dehumanizující přezdívka „Holodomír" + normalizace/anticipace jeho zabití Ruskem
+  text: dehumanizující přezdívka … + normalizace/anticipace jeho zabití Ruskem
   citace:
   - text: už by Holodomír Zelenský byl čtyři a půl roku po smrti, protože Rusové se svými přesnými střelami
       už by ho dávno zlikvidovali, kdyby potřebovali. [...] možná, že se nakonec odhodlají k tomu, že
       sundají i to vedení Ukrajiny.
+  - text: Holodomír
   osoby:
   - osoba: volodymyr-zelensky
     vztah: negativni

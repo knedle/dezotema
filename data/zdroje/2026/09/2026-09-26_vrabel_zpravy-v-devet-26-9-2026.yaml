@@ -15,6 +15,9 @@ zdroj:
   - osoba: vladimir-stepan
     vztah: negativni
     kontext: „Snílci" — Štěpánovy smlouvy s Ruskem „pohádky pro děti"
+  - osoba: papez-lev-xiv-katolicka-cirkev
+    vztah: negativni
+    kontext: Celibát a pedofilie, Vatikán a nacisté, „falešná církev"
   prehled:
   - tema: Trump prý navrhl Zelenskému jet za Putinem (Bloomberg)
     text: Trump „hází vidle", zároveň licence na Patrioty — USA stále podporují Ukrajinu.
@@ -83,10 +86,6 @@ vyroky:
     Vatikán prý za druhé světové války přesouval zlato a ukrýval nacisty, pomáhal i v jugoslávské válce
     a v chorvatském táboře Jasenovac („jediný koncentrační tábor pro děti") měl žádat ušetření těch, kdo
     konvertují z pravoslaví. Katolickou církev řadí mezi „falešné církve".
-  osoby:
-  - osoba: papez-lev-xiv-katolicka-cirkev
-    vztah: negativni
-    kontext: Celibát a pedofilie, Vatikán a nacisté, „falešná církev"
 - id: vrabel-2026-09-26-02
   typ: tvrzeni
   temata:
@@ -217,10 +216,11 @@ vyroky:
   temata:
   - migrace
   nadpis: migranti s britským občanstvím
-  text: 'hraniční: popisné rámování násilného „zbavení se" pojmenované skupiny jako jediné cesty'
+  text: 'hraniční: popisné rámování násilného … pojmenované skupiny jako jediné cesty'
   citace:
   - text: spousty lidí mají občanství [...] tam už jediný, k čemu může dojít, je občanská válka, jinak
       se těch lidí nemůžou zbavit
+  - text: zbavení se
   teror:
     terc: migranti s britským občanstvím
     hranicni: true

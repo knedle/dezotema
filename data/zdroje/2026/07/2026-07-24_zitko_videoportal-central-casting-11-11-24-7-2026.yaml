@@ -13,6 +13,10 @@ zdroj:
     Casting" — Macron/Le Pen dvojníci, Prigožin jako test, nepodložená spekulace o Markétě Vaňkové — [konspirace.md](konspirace.md).
     Bez predikcí. Bez stoch. teroru (Vaňková spekulace nesplňuje kritéria — chybí dehumanizace/výzva k
     trestu). Zhlédnutí: 378'
+  osoby:
+  - osoba: marine-le-pen
+    vztah: pozitivni
+    kontext: Dle sdíleného textu je skutečná a tajně součástí „Aliance" bojující proti Deep State
 vyroky:
 - id: zitko-2026-07-24-01
   typ: tvrzeni
@@ -28,9 +32,6 @@ vyroky:
     vztah: rozporuplny
     kontext: Dle sdíleného textu „Hanna Hanna" nahrazen dvojníkem po znovuzvolení jako součást Central
       Castingu
-  - osoba: marine-le-pen
-    vztah: pozitivni
-    kontext: Dle sdíleného textu je skutečná a tajně součástí „Aliance" bojující proti Deep State
   - osoba: marketa-vankova
     vztah: rozporuplny
     kontext: Jmenována v nepodložené spekulaci o možném večírku s drogami a dětmi — Zítko sám podává jako

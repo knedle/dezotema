@@ -17,6 +17,14 @@ _LINK = r"\[[^\]]*\]\([^)]*\)"
 _VIZ = re.compile(rf"\s*→\s*viz\s+(?P<links>{_LINK}(?:\s*,\s*{_LINK})*)\s*$")
 _LINK_RX = re.compile(r"\[(?P<n>[^\]]*)\]\((?P<u>[^)]*)\)")
 _ZDROJ = re.compile(r"^\*\*Zdroj:\*\*")
+_PLNE = re.compile(r"^\*\*Plně zpracováno do:\*\*")
+_STITEK = re.compile(r"^\*\*(?P<l>[^*]+?):\*\*\s*(?P<r>.*)$")
+_ODKAZ_ZDROJE = re.compile(r";?\s*\[[^\]]*\]\([^)]*_zdroje\.md#[^)]*\)")
+
+# běžná slova (kmen 4 písmena), která samy o sobě neprokazují shodu
+_STOP = {"podl", "kter", "jako", "jeho", "jeji", "take", "kdyz", "bude", "jsou", "bylo", "tedy",
+         "nebo", "proto", "pres", "musi", "muze", "jest", "toho", "tohl", "tuto", "tato", "vice",
+         "nema", "zase", "nove", "nova", "vrab", "pouz"}
 
 
 @dataclass
@@ -26,6 +34,9 @@ class Den:
     polozky: list[PrehledPolozka] = field(default_factory=list)
     kotvy: list[str] = field(default_factory=list)       # kotvy z řádku „Zdroj:“
     odkazy: list[str] = field(default_factory=list)      # nepřeložené odkazy „viz …“
+    # položky patřící jinému zdroji (řádek s odkazem na `_zdroje.md#…`): (kotvy, položka)
+    vlastni: list[tuple[list[str], PrehledPolozka]] = field(default_factory=list)
+    nerozpoznano: list[str] = field(default_factory=list)  # řádky, které nešlo zařadit
 
 
 def _tema_a_text(obsah: str) -> tuple[str, str]:
@@ -62,6 +73,21 @@ def _bez_vlajky(text: str) -> str:
     return re.sub(r"^⚡\s*", "", text)
 
 
+def _stitkovy_radek(r: str, stare_kotvy: dict | None):
+    """`**Predikce:** [..](..)`, `**Stochastický teror:** …`, `**Samostatné video (5. 9.):** …`
+    -> (kotvy zdroje v řádku, položka); štítek je téma, odkazy zůstávají v textu."""
+    sm = _STITEK.match(r.strip())
+    if not sm:
+        return None
+    rest = sm.group("r").strip()
+    kotvy = kotvy_z_textu(rest)
+    text = _ODKAZ_ZDROJE.sub("", rest).strip(" ;")
+    vyrok = next((v for v in (odkaz_na_vyrok(u, stare_kotvy) for _, u in _LINK_RX.findall(text))
+                  if v), None)
+    tema = sm.group("l").strip()
+    return kotvy, PrehledPolozka(tema=tema, text=text or tema, vyrok=vyrok)
+
+
 def parsuj_dny(md: str, stare_kotvy: dict | None = None) -> list[Den]:
     md = md.lstrip("﻿")
     out: list[Den] = []
@@ -81,6 +107,15 @@ def parsuj_dny(md: str, stare_kotvy: dict | None = None) -> list[Den]:
             continue
         pm = _POLOZKA.match(r)
         if not pm:
+            if not r.strip() or r.strip() == "---" or _PLNE.match(r):
+                continue                      # „Plně zpracováno do“ je odvoditelné z výroků
+            sr = _stitkovy_radek(r, stare_kotvy)
+            if sr is None:
+                den.nerozpoznano.append(r.strip())
+            elif sr[0]:
+                den.vlastni.append(sr)
+            else:
+                den.polozky.append(sr[1])
             continue
         tema, text = _tema_a_text(pm.group(1).strip())
         vyrok = None
@@ -104,9 +139,15 @@ def parsuj_dny(md: str, stare_kotvy: dict | None = None) -> list[Den]:
     return out
 
 
+def _vyznamna(text: str) -> set[str]:
+    """Významová slova (kmen 4 písmena, bez diakritiky, bez běžných slov)."""
+    return _slova(text) - _STOP
+
+
 def prirad_stranky(polozky: list[PrehledPolozka], zdroj: Zdroj, temata) -> int:
-    """Odkaz „viz [Téma](../tema.md)“ bez kotvy -> výrok téhož zdroje s tímto tématem
-    (jediný, jinak s největší shodou slov s položkou). Vrací počet přiřazených položek."""
+    """Odkaz „viz [Téma](../tema.md)“ bez kotvy -> výrok téhož zdroje s tímto tématem, ale jen
+    při shodě aspoň jednoho významového slova (i u jediného kandidáta); jinak zůstává odkaz
+    v textu položky. Vrací počet přiřazených položek."""
     n = 0
     for p in polozky:
         if p.vyrok is not None:
@@ -122,10 +163,12 @@ def prirad_stranky(polozky: list[PrehledPolozka], zdroj: Zdroj, temata) -> int:
             slug = strana[:-3] if strana.endswith(".md") and "#" not in strana else None
             kand = [v for v in zdroj.vyroky if v.typ in ("tvrzeni", "postoj") and slug in v.temata] \
                 if slug in temata and p.vyrok is None else []
-            if kand:
-                slova = _slova(p.tema + " " + hlavni)
-                p.vyrok = max(enumerate(kand), key=lambda iv: (
-                    len(slova & _slova(iv[1].nadpis + " " + iv[1].text)), -iv[0]))[1].id
+            slova = _vyznamna(p.tema + " " + hlavni)
+            shody = [(len(slova & _vyznamna(v.nadpis + " " + v.text)), -i, v)
+                     for i, v in enumerate(kand)]
+            shody = [s for s in shody if s[0] >= 1]
+            if shody:
+                p.vyrok = max(shody, key=lambda s: (s[0], s[1]))[2].id
             else:
                 zbyle.append((nazev, u))
         if p.vyrok:

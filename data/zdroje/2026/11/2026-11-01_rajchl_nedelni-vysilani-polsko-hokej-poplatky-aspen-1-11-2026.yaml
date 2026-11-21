@@ -168,10 +168,11 @@ vyroky:
   temata:
   - media-propaganda
   nadpis: Mikuláš Minář
-  text: jmenovaný terč + výzva k uvěznění (obvinění z „defraudace“ 7 mil.)
+  text: jmenovaný terč + výzva k uvěznění (obvinění z … 7 mil.)
   citace:
-  - text: To je člověk, který by měl sedět ve vězení. […] Tenhle člověk by měl sedět v kriminále“; „není
-      většího sraba v Česku
+  - text: To je člověk, který by měl sedět ve vězení. […] Tenhle člověk by měl sedět v kriminále
+  - text: není většího sraba v Česku
+  - text: defraudace
   teror:
     terc: Mikuláš Minář
     hranicni: false
@@ -180,11 +181,12 @@ vyroky:
   temata:
   - petr-pavel
   nadpis: Jan Hřebejk; „eurohujerská lůza“
-  text: 'Terč: Jan Hřebejk; „eurohujerská lůza“.'
+  text: Hřebejk …, …, …; odpůrci vlády … — jmenovaný terč a kolektivní dehumanizace (bez výzvy k trestu)
   citace:
-  - text: Hřebejk „notorický alkoholik“, „ochlasta“, „absolutní hulvát“; odpůrci vlády „eurohujerská lůza
-      lidí, kteří neznají nic jiného než nátlak, násilí, výhrůžky“ — jmenovaný terč a kolektivní dehumanizace
-      (bez výzvy k trestu)
+  - text: notorický alkoholik
+  - text: ochlasta
+  - text: absolutní hulvát
+  - text: eurohujerská lůza lidí, kteří neznají nic jiného než nátlak, násilí, výhrůžky
   teror:
     terc: Jan Hřebejk; „eurohujerská lůza“
     hranicni: false

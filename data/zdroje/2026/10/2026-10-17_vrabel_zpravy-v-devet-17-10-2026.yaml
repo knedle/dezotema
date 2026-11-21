@@ -240,12 +240,16 @@ vyroky:
   temata:
   - politicky-system
   nadpis: Andrej Babiš
-  text: jmenovaný terč („zrádce“) + fantazie o bití, formálně přenesená na „nástěnku“ s výslovným odmítnutím
-    výzvy k násilí; téhož dne cituje babičku, že by politika „pověsila za žebro“, „nedivím se tomu“
+  text: jmenovaný terč (…) + fantazie o bití, formálně přenesená na … s výslovným odmítnutím výzvy k násilí;
+    téhož dne cituje babičku, že by politika …, …
   citace:
   - text: Jako kdyby bylo po mém, tak bych si vzal nějakej karabáč nebo bejsbolovou pálku a takhle bych
-      mu to přes záda začal počítat. Samozřejmě na nástěnce… tam visí Andrej Babiš jako zrádce“ / „by
-      zasluhoval větší trest, než přetáhnout po zádech karabáčem na nástěnce
+      mu to přes záda začal počítat. Samozřejmě na nástěnce… tam visí Andrej Babiš jako zrádce
+  - text: by zasluhoval větší trest, než přetáhnout po zádech karabáčem na nástěnce
+  - text: zrádce
+  - text: nástěnku
+  - text: pověsila za žebro
+  - text: nedivím se tomu
   teror:
     terc: Andrej Babiš
     hranicni: false
@@ -254,11 +258,12 @@ vyroky:
   temata:
   - migrace
   nadpis: migranti z islámských zemí / muslimové
-  text: opakované rasové přirovnání a plošná kriminalizace skupiny, bez výzvy k násilí
+  text: 'podle nichž ženy, … / k Dublinu: rabují … — opakované rasové přirovnání a plošná kriminalizace
+    skupiny, bez výzvy k násilí'
   citace:
-  - text: 'spousty a spousty lidí barvy pleti trošku tmavší, než je tamhle to polínko… asi o čtyři odstíny“,
-      podle nichž ženy, „když to náhodou nedělají, tak je potřeba je bít“ / k Dublinu: rabují „gangy…
-      tím přídavným jménem, které začíná na M, druhé písmeno je U'
+  - text: spousty a spousty lidí barvy pleti trošku tmavší, než je tamhle to polínko… asi o čtyři odstíny
+  - text: když to náhodou nedělají, tak je potřeba je bít
+  - text: gangy… tím přídavným jménem, které začíná na M, druhé písmeno je U
   teror:
     terc: migranti z islámských zemí / muslimové
     hranicni: false

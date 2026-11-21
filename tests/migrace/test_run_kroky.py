@@ -27,4 +27,4 @@ def test_teror_hranicni_v_komentari():
           "16. 10. 2026 | [Z](_zdroje.md#a-b) |\n")
     r = T.parsuj(md)[0]
     assert r.hranicni is True and r.kontext.startswith("hraniční:")
-    assert r.citace == "Je to diktátor."
+    assert r.citace == ["Je to diktátor."]

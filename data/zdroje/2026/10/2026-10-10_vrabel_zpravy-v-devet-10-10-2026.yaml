@@ -8,6 +8,10 @@ zdroj:
   prepis: prepisy/done/2026-10-10_Ladislav-Vrabel_10-10-2026-Zprávy-v-devět-s-komentářem.txt
   rezim: vrabel
   poznamka: 49 min, se Zuzanou (spolumoderátorka). Večer po komunálních a senátních volbách.
+  osoby:
+  - osoba: volodymyr-zelenskyj
+    vztah: negativni
+    kontext: „Největší zrádce svého národa, největší fašista a nacista“; Ukrajina ale „zneužitá“ USA
   prehled:
   - tema: 'Trump a Putin: dohoda o dodávkách ruské nafty'
     text: „petrodolar“, předvolební tah; na 80 % se po volbách v USA vše změní → viz [Predikce](../predikce.md)
@@ -71,10 +75,6 @@ vyroky:
     náměstí, ČT 2023). Ukrajinci jsou podle něj „největší kavky“, kteří byli „nahnáni do války“ a „vyždímáni“
     Spojenými státy, a válku „prohrávají a prohrajou“. Zelenský je přesto pro něj „největší zrádce svého
     národa, největší fašista a nacista“.'
-  osoby:
-  - osoba: volodymyr-zelenskyj
-    vztah: negativni
-    kontext: „Největší zrádce svého národa, největší fašista a nacista“; Ukrajina ale „zneužitá“ USA
   podtema: Energetika a Rusko
 - id: vrabel-2026-10-10-03
   typ: tvrzeni
@@ -131,7 +131,6 @@ vyroky:
   predikce:
     horizont: po amerických volbách do Kongresu (3. 11. 2026)
     stav: vyvraceno
-    horizont_do: 2026-11-03
     vyhodnoceni:
     - datum: 2026-11-20
       text: (předběžně) — po volbách nenastal obrat k podpoře Zelenského ani konec nákupů ruské ropy

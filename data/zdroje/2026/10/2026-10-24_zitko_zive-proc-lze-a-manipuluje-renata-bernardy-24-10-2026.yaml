@@ -112,40 +112,40 @@ vyroky:
   predikce:
     horizont: 30. 10. – 1. 11. 2026 (odhalení dvojníků neurčeno)
     stav: castecne
-    horizont_do: 2026-11-01
     vyhodnoceni:
-    - datum: 2026-11-20
-      text: Čermák na setkání 1. 11. skutečně nepřišel, ale jeho matka předem uvedla, že žádné setkání
-        domluvené nebylo; nepříchod totožnost nevyvrací ani nepotvrzuje. Účast byla podle záběrů jen v
-        „úzkém, takřka rodinném kruhu“, ne „podstatně vyšší“ než v Liberci.
-      stav: castecne
     - datum: 2026-10-27
       text: „Pokud nepřijde, tak je hra ukončena… přestává hra na Čermáka fungovat.“
-    - datum: 2026-10-30
-      text: 'Po telefonátu s „hlasem“ Čermáka Zítko opakuje: „A pokud nepřijde, tak je to jenom potvrzení,
-        že to nebyl Tomáš Čermák.“'
     - datum: 2026-10-29
       text: Po telefonátu Zítko připouští, že pokud se v Holýšově totožnost ověří, přizná, že přišel skutečný
         Čermák — dřívější „dvojník“ by pak byl „cestou k návratu skutečného Čermáka“.
     - datum: 2026-10-29
       text: (telefonát) Čermákova matka totožnost syna potvrdila a uvedla, že žádné setkání se Zítkem
         domluvené není.
+    - datum: 2026-10-30
+      text: 'Po telefonátu s „hlasem“ Čermáka Zítko opakuje: „A pokud nepřijde, tak je to jenom potvrzení,
+        že to nebyl Tomáš Čermák.“'
     - datum: 2026-11-08
       text: Zítko predikci považuje za splněnou („hra na Čermáka skončila… nepřišel“). Stav ponechán,
         protože nepříchod totožnost neprokazuje.
+    - datum: 2026-11-20
+      text: Čermák na setkání 1. 11. skutečně nepřišel, ale jeho matka předem uvedla, že žádné setkání
+        domluvené nebylo; nepříchod totožnost nevyvrací ani nepotvrzuje. Účast byla podle záběrů jen v
+        „úzkém, takřka rodinném kruhu“, ne „podstatně vyšší“ než v Liberci.
+      stav: castecne
 - id: zitko-2026-10-24-08
   typ: stoch-teror
   temata:
   - covid-vakciny
   nadpis: Bill Gates, Albert Bourla, Mark Rutte; „konzumenti adrenochromu“; Bartkovský (Reflex), Renata
     Bernardy
-  text: 'Terč: Bill Gates, Albert Bourla, Mark Rutte; „konzumenti adrenochromu“; Bartkovský (Reflex),
-    Renata Bernardy.'
+  text: Gates, Bourla, Rutte …; …; Bartkovský …, Bernardy … — hraniční (soudní trest, schvalované popravy
+    obecné skupiny, urážky bez výzvy)
   citace:
-  - text: Gates, Bourla, Rutte „seděli na lavici obžalovaných, kam patří, protože tady byla prováděna
-      genocida a sterilizace lidstva“; „popravení protagonisté zločinů Deep State, zejména konzumenti
-      adrenochromu“; Bartkovský „velký hovado“, Bernardy „úplně blbá“ — hraniční (soudní trest, schvalované
-      popravy obecné skupiny, urážky bez výzvy)
+  - text: seděli na lavici obžalovaných, kam patří, protože tady byla prováděna genocida a sterilizace
+      lidstva
+  - text: popravení protagonisté zločinů Deep State, zejména konzumenti adrenochromu
+  - text: velký hovado
+  - text: úplně blbá
   osoby:
   - osoba: renata-bernardy
     vztah: negativni

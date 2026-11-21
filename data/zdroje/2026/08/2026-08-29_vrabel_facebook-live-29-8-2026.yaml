@@ -191,9 +191,10 @@ vyroky:
   - valka-nato-rusko
   nadpis: Rajchl, Vacek
   text: jmenovaný terč + dehumanizace v reakci na jejich trestní oznámení proti lidem nosícím symboly
-    „Z" a Wagner Group
+    … a Wagner Group
   citace:
   - text: tady máme takový hajzly, jako je Reichl, jako je Vacek [...] protože tady máme takovýhle hajzly.
+  - text: Z
   teror:
     terc: Rajchl, Vacek
     hranicni: false

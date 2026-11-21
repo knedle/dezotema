@@ -120,15 +120,14 @@ vyroky:
   predikce:
     horizont: 9. 11. 2026 (Miller); dny až měsíce (EBS, odhalení); neurčeno (banky)
     stav: castecne
-    horizont_do: 2026-11-09
     vyhodnoceni:
+    - datum: 2026-11-09
+      text: Zítko nástup Millera 9. 11. prohlašuje za splněný („dneska… úplnou náhodou nahradil“), „lítání“
+        ale konkrétně nedokládá. Stav ponechán do ověření.
     - datum: 2026-11-20
       text: Stephen Miller se skutečně stal šéfem kanceláře Bílého domu; EBS 17. 11. proběhl jen jako
         test bez výpadku, „velké odhalení“ ani pád bank nenastaly
       stav: castecne
-    - datum: 2026-11-09
-      text: Zítko nástup Millera 9. 11. prohlašuje za splněný („dneska… úplnou náhodou nahradil“), „lítání“
-        ale konkrétně nedokládá. Stav ponechán do ověření.
     - datum: 2026-11-20
       text: Podle zpráv (např. Bay News 9, 6. 11. 2026) Trump jmenoval Stephena Millera šéfem kanceláře
         místo Susie Wiles. Test EBS 17. 11. proběhl bez blackoutu a Zítko 18. 11. sám uvádí, že „byl to

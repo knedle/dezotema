@@ -32,6 +32,9 @@ zdroj:
   - osoba: petr-macinka
     vztah: negativni
     kontext: Nazval ruské hokejistky do 18 let „mužatkami“
+  - osoba: aleksandar-vucic
+    vztah: pozitivni
+    kontext: „Nejlepší politik na světě“
   - osoba: studentske-hnuti
     vztah: pozitivni
     kontext: „Nenásilná revoluce“ podle jeho plánu, „zázrak“
@@ -100,10 +103,6 @@ vyroky:
   citace:
   - text: Aby jsme byli absolutně kontrolovaní, tak nám musí vzít peníze. To je přece jasný. Protože díky
       penězům jsme svobodní.
-  osoby:
-  - osoba: aleksandar-vucic
-    vztah: pozitivni
-    kontext: „Nejlepší politik na světě“
 - id: vrabel-2026-11-08-02
   typ: tvrzeni
   temata:

@@ -65,9 +65,10 @@ vyroky:
   - fara-neziskovky
   nadpis: „politické neziskovky“ (mj. spolek Díky, že můžeme)
   text: opakované heslo (parafráze Catona) po obvinění konkrétního spolku ze zahraničního řízení; skupinový
-    terč + výzva ke „zničení“, kontextem je legislativa (zákon FARA), ne násilí
+    terč + výzva ke …, kontextem je legislativa (zákon FARA), ne násilí
   citace:
   - text: Ostatně soudím, že politické neziskovky musí být zničeny.
+  - text: zničení
   teror:
     terc: „politické neziskovky“ (mj. spolek Díky, že můžeme)
-    hranicni: true
+    hranicni: false

@@ -13,9 +13,6 @@ zdroj:
     poplatků by „měli být odsouzení“ a „zametat ulice“ (bez jmenovaného terče). Zpracováno podle podkladů
     pomocného agenta, citace ověřeny v přepisu.'
   osoby:
-  - osoba: si-tin-pching
-    vztah: pozitivni
-    kontext: „Nejsilnější“ na summitu, návrh zlikvidovat jaderné zbraně
   - osoba: petr-pavel
     vztah: negativni
     kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU
@@ -101,6 +98,9 @@ vyroky:
   - text: Absolutně s ním souhlasím, prostě, že by se měly zlikvidovat všechny jaderné zbraně, rozebrat
       ten jaderný obsah.
   osoby:
+  - osoba: si-tin-pching
+    vztah: pozitivni
+    kontext: „Nejsilnější“ na summitu, návrh zlikvidovat jaderné zbraně
   - osoba: andrej-babis
     vztah: negativni
     kontext: „Ohební“ jako Rutte; Babiš zakázal referendum o EU

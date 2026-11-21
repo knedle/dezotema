@@ -329,12 +329,13 @@ vyroky:
   temata:
   - migrace
   nadpis: Ukrajinci v ČR
-  text: plošné nálepkování skupiny s náznakem, že by si za své chování zasloužila bití (idiom „umlátit
-    čepicemi“); hraniční, navazuje na 16. a 18. 10., bez výzvy k násilí
+  text: plošné nálepkování skupiny s náznakem, že by si za své chování zasloužila bití (idiom …); hraniční,
+    navazuje na 16. a 18. 10., bez výzvy k násilí
   citace:
   - text: V Srbsku je spousta Rusů, ale ty nikde neškemrají o peníze… protože Srbové by umlátili čepicema,
-      kdyby začali se chovat jako Ukrajinci v České republice.“ / „žádný sociální dávky budete makat a
-      jakmile to tam skončí, tak mažete zpátky na Ukrajinu
+      kdyby začali se chovat jako Ukrajinci v České republice.
+  - text: žádný sociální dávky budete makat a jakmile to tam skončí, tak mažete zpátky na Ukrajinu
+  - text: umlátit čepicemi
   teror:
     terc: Ukrajinci v ČR
     hranicni: true

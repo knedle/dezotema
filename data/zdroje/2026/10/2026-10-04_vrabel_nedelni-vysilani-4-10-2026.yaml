@@ -155,12 +155,13 @@ vyroky:
   temata:
   - nato-zbrojeni-militarizace
   nadpis: Andrej Babiš
-  text: podrobná fantazie o mučení a popravě jmenovaného premiéra jako trestu „spravedlivého kmene" za
-    zradu (muniční iniciativa, jaderné zbraně)
+  text: podrobná fantazie o mučení a popravě jmenovaného premiéra jako trestu … za zradu (muniční iniciativa,
+    jaderné zbraně)
   citace:
   - text: No ten indiánskej kmen by šel, přivázal by ho ke kůlu a začal by na něm trénovat mladý hochy,
       jak střílí z luku. Jo, normálně nejdřív do stehna, do lýtka, pak do rukou [...] stáhli by mu kůži
       někde [...] tak by začali trénovat hod oštěpem.
+  - text: spravedlivého kmene
   teror:
     terc: Andrej Babiš
     hranicni: false
@@ -169,10 +170,10 @@ vyroky:
   temata:
   - dsa-cenzura
   nadpis: soudci odsuzující za „Z"; policisté
-  text: výzva k trestu + kladné líčení násilí vůči policii (hraniční)
+  text: policisté by v Srbsku … — výzva k trestu + kladné líčení násilí vůči policii (hraniční)
   citace:
-  - text: Ti soudci, kteří tady odsuzují lidi neprávem, by měli být všichni potrestáni." / policisté by
-      v Srbsku „skončili v krvi [...] to vám garantuju
+  - text: Ti soudci, kteří tady odsuzují lidi neprávem, by měli být všichni potrestáni.
+  - text: skončili v krvi [...] to vám garantuju
   teror:
     terc: soudci odsuzující za „Z"; policisté
     hranicni: true

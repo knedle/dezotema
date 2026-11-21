@@ -41,6 +41,11 @@ zdroj:
     text: krátký skeptický komentář — nezpracováno
   - tema: Německo
     text: objevený „tajný sklad zbraní" (2 pistole) — sarkastický komentář — nezpracováno
+  - tema: Predikce
+    text: '[Kryptoměny dosáhly dna cyklu, porostou další rok](../predikce.md#ladislav-vrabel--kryptoměny-dosáhly-dna-čtyřletého-cyklu-další-rok-porostou-21-8-2026)'
+    vyrok: vrabel-2026-08-21-08
+  - tema: Stochastický teror
+    text: '[Babiš — „zrádce národa", výzva k oběšení](../stochasticky-teror.md)'
 vyroky:
 - id: vrabel-2026-08-21-01
   typ: tvrzeni
@@ -175,11 +180,12 @@ vyroky:
   temata:
   - petr-pavel
   nadpis: Andrej Babiš
-  text: jmenovaný terč, označen za „zrádce národa" s výzvou k oběšení (v jazyce Vrabela dříve použitém
-    explicitně o Trumpovi, viz výše)
+  text: jmenovaný terč, označen za … s výzvou k oběšení (v jazyce Vrabela dříve použitém explicitně o
+    Trumpovi, viz výše)
   citace:
   - text: Za mě by měl vyset na náskěnce zrádců českého národa Andrej Babiš. Normálně natvrdo. [...] Zrádci
       českého národa, povíšte si tam Andreje Babiše jako prvního.
+  - text: zrádce národa
   osoby:
   - osoba: andrej-babis
     vztah: negativni

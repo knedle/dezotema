@@ -88,11 +88,12 @@ vyroky:
   temata:
   - covid-vakciny
   nadpis: Fauci, Gates, Smejkal, Prymula, Hořejší, Flegr, Kubek, Chlíbek
-  text: jmenovaní terči jako „aktéři podvodu" + výzva k vojenskému tribunálu; téhož dne mluví o „pachatelích
-    vakcinačního holokaustu, genocidy národa a sterilizace obyvatelstva"
+  text: jmenovaní terči jako … + výzva k vojenskému tribunálu; téhož dne mluví o …
   citace:
   - text: …až by skončili všichni aktéři podvodu COVID-19 před vojenským tribunálem a čelili by spravedlivým
       trestům.
+  - text: aktéři podvodu
+  - text: pachatelích vakcinačního holokaustu, genocidy národa a sterilizace obyvatelstva
   teror:
     terc: Fauci, Gates, Smejkal, Prymula, Hořejší, Flegr, Kubek, Chlíbek
     hranicni: false
